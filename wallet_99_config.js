@@ -1,1 +1,1 @@
-var mnemonic = "pupil purchase wife you lyrics tired phrase van garage region sketch naive";
+var mnemonic = "script trust garden priority slam code critic east again buddy economy stuff";

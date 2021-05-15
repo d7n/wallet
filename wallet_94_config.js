@@ -1,1 +1,1 @@
-var mnemonic = "gentle drive mass sail desert turtle flip issue beauty cash harsh okay";
+var mnemonic = "put achieve suspect toy gun robust control happy reward forward earn chronic";

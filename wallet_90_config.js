@@ -1,1 +1,1 @@
-var mnemonic = "color cram card dumb unable lesson cruel debate clever pass husband speak";
+var mnemonic = "pill siege analyst code destroy paddle have fault pool differ clean roof";

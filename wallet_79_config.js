@@ -1,1 +1,1 @@
-var mnemonic = "three term wait apple pattern paper enough direct pyramid region picture apology";
+var mnemonic = "ten math aerobic impose execute occur estate robot demise half work rule";

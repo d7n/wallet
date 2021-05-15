@@ -1,1 +1,1 @@
-var mnemonic = "seminar banana grape fever couple purchase midnight clock loop awake puzzle donate";
+var mnemonic = "subject detail jeans square blame unhappy wink filter spin that wash peasant";

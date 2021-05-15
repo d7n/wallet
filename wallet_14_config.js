@@ -1,1 +1,1 @@
-var mnemonic = "note business prize actor grape joy science excuse version cabbage certain tragic";
+var mnemonic = "wash plastic tennis subway cereal reunion room sand habit capital gaze peasant";

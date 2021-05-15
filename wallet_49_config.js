@@ -1,1 +1,1 @@
-var mnemonic = "cool asset actor pumpkin ill cake vague hat evolve slide page clean";
+var mnemonic = "achieve discover cause little trip uniform clever grunt logic employ measure crowd";

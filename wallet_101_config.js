@@ -1,1 +1,1 @@
-var mnemonic = "salmon method stuff pigeon gesture clerk cereal claim select ask master limit";
+var mnemonic = "notable crime monitor potato human rug welcome address mansion walk anchor mutual";

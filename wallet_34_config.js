@@ -1,1 +1,1 @@
-var mnemonic = "play ring scout search tag pen hole level arrest lawn badge hour";
+var mnemonic = "also can industry rescue abuse level success smile dress brass rail assault";

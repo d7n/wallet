@@ -1,1 +1,1 @@
-var mnemonic = "struggle exhibit vanish legend flash party shift wrist giraffe damp search together";
+var mnemonic = "obscure drop dose fancy key journey ahead rookie quantum raise lizard beauty";

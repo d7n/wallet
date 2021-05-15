@@ -1,1 +1,1 @@
-var mnemonic = "winter borrow lab soap balcony steel craft then crouch raccoon mom knock";
+var mnemonic = "acoustic dizzy hint arctic museum honey digital doll image parade yellow biology";

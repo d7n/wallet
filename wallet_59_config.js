@@ -1,1 +1,1 @@
-var mnemonic = "disorder useless lumber genuine kangaroo polar vessel awkward next love can tonight";
+var mnemonic = "symptom strong number creek tunnel female find globe legal crush tornado bunker";

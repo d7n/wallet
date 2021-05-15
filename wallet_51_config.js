@@ -1,1 +1,1 @@
-var mnemonic = "electric mail day genre ritual early critic across artefact pill agree secret";
+var mnemonic = "uncle flower civil miracle model double make prison report orange limb rally";

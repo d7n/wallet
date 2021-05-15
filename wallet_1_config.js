@@ -1,1 +1,1 @@
-var mnemonic = "join behind motion liar miracle slab fall subway logic phone panther require";
+var mnemonic = "board museum allow main endorse brother rookie ability material muscle denial proud";

@@ -1,1 +1,1 @@
-var mnemonic = "engine curious flock hunt search hire exhaust gift bone kiss vapor gym";
+var mnemonic = "cinnamon just risk unhappy bag bamboo analyst floor mesh nominee race father";

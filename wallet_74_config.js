@@ -1,1 +1,1 @@
-var mnemonic = "virtual leave next young curve junk drum toy orphan marriage used asset";
+var mnemonic = "basic rude twist retire virus security honey grass sick large law refuse";

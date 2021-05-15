@@ -1,1 +1,1 @@
-var mnemonic = "will list census entry history hole grief situate lecture soda olive hood";
+var mnemonic = "female focus catalog feel diesel rabbit daughter hip hub humble almost bird";

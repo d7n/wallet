@@ -1,1 +1,1 @@
-var mnemonic = "december warfare ankle stock asthma corn base upset crawl laptop jacket tourist";
+var mnemonic = "frame produce slot cross juice twin night hotel solve essence hurt random";

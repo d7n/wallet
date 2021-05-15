@@ -1,1 +1,1 @@
-var mnemonic = "shell wide pledge defy spray water entry guide salad work open dinosaur";
+var mnemonic = "party eager ostrich enrich day minute protect spoil word ribbon rural fan";

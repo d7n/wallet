@@ -1,1 +1,1 @@
-var mnemonic = "spawn stadium express cabin cabbage rubber inch gun brick hair route laptop";
+var mnemonic = "narrow extend crime convince habit tag pledge scene strategy wasp diet arm";

@@ -1,1 +1,1 @@
-var mnemonic = "mango enter local hurdle render photo ozone tortoise book awful crash cause";
+var mnemonic = "interest reopen quote year twice floor exile predict east donate genre foot";

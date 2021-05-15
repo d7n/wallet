@@ -1,1 +1,1 @@
-var mnemonic = "brick feed story sorry powder glue fresh veteran aisle earn apple improve";
+var mnemonic = "mimic hotel crouch catch deposit expand during nurse almost valley surround pool";

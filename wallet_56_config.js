@@ -1,1 +1,1 @@
-var mnemonic = "pull trend disease knife gun earn neglect walnut razor hat much vendor";
+var mnemonic = "waste rookie plunge faint initial six submit energy humor cake fantasy object";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch boat verb random erosion ridge wrestle tone bachelor gym casino fold";
+var mnemonic = "title network argue borrow abuse vacuum stadium chicken sting project super globe";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber lyrics board carpet famous body attract burden magic feel lesson pistol";
+var mnemonic = "start pave old sketch praise trap rail symptom wheel tobacco fever banana";

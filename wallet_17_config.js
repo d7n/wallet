@@ -1,1 +1,1 @@
-var mnemonic = "hamster never pet arm chef space keen march fog again blossom uncover";
+var mnemonic = "inspire end depth donor baby liberty jazz another tower push spot regret";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade utility view jaguar library detail firm daughter hazard taste beach agent";
+var mnemonic = "letter myself margin bring amateur bench wife street negative relax review silly";

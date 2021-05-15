@@ -1,1 +1,1 @@
-var mnemonic = "diesel impose choose arm enact spy apology shallow alert weasel oxygen humble";
+var mnemonic = "demand cart salad huge measure liquid cover casino visa fence reflect pudding";

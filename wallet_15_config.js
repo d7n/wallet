@@ -1,1 +1,1 @@
-var mnemonic = "conduct snap goose bamboo goat comfort setup stove cream drill security dwarf";
+var mnemonic = "nurse gossip cloud window echo elephant normal switch isolate idea debate record";

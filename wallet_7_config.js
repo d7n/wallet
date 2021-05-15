@@ -1,1 +1,1 @@
-var mnemonic = "always rally evolve settle come describe clap tuna slow ignore version excuse";
+var mnemonic = "fan kidney shock symbol jungle burst typical exotic enhance venue pet exile";

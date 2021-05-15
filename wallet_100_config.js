@@ -1,1 +1,1 @@
-var mnemonic = "culture tennis deal cotton matter ginger west park middle mobile viable turtle";
+var mnemonic = "refuse wife gift pear opinion exact rival manual picture apple lady bus";

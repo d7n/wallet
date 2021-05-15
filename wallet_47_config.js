@@ -1,1 +1,1 @@
-var mnemonic = "enable pumpkin unveil search turn message immense curtain silly crazy roast erosion";
+var mnemonic = "zebra bridge quick truly wear jazz frozen atom strike joy fly mechanic";

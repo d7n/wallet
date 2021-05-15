@@ -1,1 +1,1 @@
-var mnemonic = "miracle network mobile month dragon ensure oppose zero margin weekend logic enhance";
+var mnemonic = "barely orient broccoli maid dumb fortune crater draw lady already lesson nut";

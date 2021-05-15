@@ -1,1 +1,1 @@
-var mnemonic = "history use hammer over science oppose chalk excuse slot orient width also";
+var mnemonic = "boring will sight vivid clutch truth tiger dinosaur useless grid busy sign";

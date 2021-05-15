@@ -1,1 +1,1 @@
-var mnemonic = "debris emotion pretty egg trip ensure silent boat athlete auction timber picture";
+var mnemonic = "equip hair accuse kitchen net push forget island sing rescue stay essay";

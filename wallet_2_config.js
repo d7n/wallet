@@ -1,1 +1,1 @@
-var mnemonic = "wrist garlic guide beef cancel wheel unveil oxygen apart nominee kick business";
+var mnemonic = "giggle thumb quit echo dolphin ripple spoil ginger quality high office vapor";

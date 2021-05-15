@@ -1,1 +1,1 @@
-var mnemonic = "fossil drama section muscle come bag goddess speak pilot public sense crash";
+var mnemonic = "whisper swim bike gasp bless neck attitude flight correct goat sad coach";

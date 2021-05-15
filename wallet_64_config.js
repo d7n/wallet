@@ -1,1 +1,1 @@
-var mnemonic = "desk battle enroll click saddle sun pigeon art chalk toss creek roof";
+var mnemonic = "harvest cash sort delay bacon glad middle neutral direct butter document social";

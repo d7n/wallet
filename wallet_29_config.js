@@ -1,1 +1,1 @@
-var mnemonic = "coin provide girl ring mouse crack opinion vote supreme garage digital remember";
+var mnemonic = "excess depart bird slam trouble oblige cup section beyond shift bachelor fiscal";

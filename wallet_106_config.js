@@ -1,1 +1,1 @@
-var mnemonic = "obey candy orphan orphan weird almost nominee route smooth tortoise depend cement";
+var mnemonic = "until pumpkin palace artist picnic true skill zero anger leave hour hold";

@@ -1,1 +1,1 @@
-var mnemonic = "blush absorb tackle solution number reflect horse grow unlock hour route core";
+var mnemonic = "truck skin video narrow radar target blue reject laugh give rural organ";

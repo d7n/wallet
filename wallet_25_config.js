@@ -1,1 +1,1 @@
-var mnemonic = "dirt dismiss tribe daughter require excess type spin fossil old treat invest";
+var mnemonic = "crumble shine shaft please woman region lab increase once grape wool unaware";

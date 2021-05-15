@@ -1,1 +1,1 @@
-var mnemonic = "noble toss bounce violin engine lunch essence matrix length piece buffalo ozone";
+var mnemonic = "wonder turn nut airport forget domain album slush autumn carbon input include";

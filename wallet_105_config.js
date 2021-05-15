@@ -1,1 +1,1 @@
-var mnemonic = "angry verb belt inherit pelican drive invest south pink giraffe confirm detect";
+var mnemonic = "citizen chaos critic alley purchase margin have syrup convince draw cousin rival";

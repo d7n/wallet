@@ -1,1 +1,1 @@
-var mnemonic = "leave carbon glide throw enact fix avoid deputy own beach flash before";
+var mnemonic = "stairs picture dirt badge obey traffic trick mean gold gossip pulse wait";

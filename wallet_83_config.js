@@ -1,1 +1,1 @@
-var mnemonic = "wagon boil gather business empower much paddle volcano phone since spring meadow";
+var mnemonic = "govern arena naive frame coral aunt confirm junior fault envelope supply digital";

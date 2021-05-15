@@ -1,1 +1,1 @@
-var mnemonic = "net subject end illness guard dirt lock tragic frown popular vivid clap";
+var mnemonic = "keen people siren science admit couch cricket worry repeat miss romance rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "advice end obtain exact genre salute away earth hat rent legend clutch";
+var mnemonic = "where symptom rocket reveal current fit neck warrior smoke elevator drum reduce";

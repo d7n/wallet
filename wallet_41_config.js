@@ -1,1 +1,1 @@
-var mnemonic = "curious crush jacket manage tray rigid discover pizza allow torch moon garbage";
+var mnemonic = "hurdle theme series catch life glare siege hurry recycle retreat foam urge";

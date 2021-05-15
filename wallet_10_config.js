@@ -1,1 +1,1 @@
-var mnemonic = "suffer unusual feature onion auction mix muscle month shift occur chair buzz";
+var mnemonic = "brass jungle rule mixture cute fashion cluster ugly step output flee blame";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve order liberty bottom error train twelve frequent news inhale double rail";
+var mnemonic = "lounge humble deer original dutch foam scorpion angle industry wool bench disease";

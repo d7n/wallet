@@ -1,1 +1,1 @@
-var mnemonic = "history general bracket heavy object whisper fault barely grain sugar nose vivid";
+var mnemonic = "weekend tag purse dove enroll glance ribbon universe cage way build garbage";

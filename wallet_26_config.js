@@ -1,1 +1,1 @@
-var mnemonic = "guard leave unusual pitch teach patient tilt hollow shield sugar film pepper";
+var mnemonic = "oyster captain envelope summer bamboo canyon match thought mobile into around list";

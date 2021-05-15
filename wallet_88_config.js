@@ -1,1 +1,1 @@
-var mnemonic = "food cruel present rough chimney alert risk carbon sign bonus hotel bunker";
+var mnemonic = "piano response height wide maple fly capital ancient you slush jealous comfort";

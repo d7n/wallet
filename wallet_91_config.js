@@ -1,1 +1,1 @@
-var mnemonic = "puppy avocado assume this become tunnel wrestle funny goddess pulp check cruise";
+var mnemonic = "lend claim resist cinnamon loyal scorpion huge hello expire oyster clutch income";

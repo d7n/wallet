@@ -1,1 +1,1 @@
-var mnemonic = "vicious scrub drive senior umbrella nice useful imitate alone wear allow right";
+var mnemonic = "zoo sweet bullet angle ensure shield current coconut lottery gate crop refuse";

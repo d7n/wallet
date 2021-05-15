@@ -1,1 +1,1 @@
-var mnemonic = "pull hazard add bundle flat local elbow carry rib again spice sauce";
+var mnemonic = "eye mule super future coffee poverty window volcano way give frozen maid";

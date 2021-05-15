@@ -1,1 +1,1 @@
-var mnemonic = "script village hen caution enroll pool umbrella address sad swim purchase they";
+var mnemonic = "fatigue rescue glad swap access elegant favorite spirit organ witness filter crunch";

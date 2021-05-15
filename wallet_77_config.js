@@ -1,1 +1,1 @@
-var mnemonic = "pave mad behave toe quick top actor ethics arrest shoe purse list";
+var mnemonic = "offer broken novel nerve gallery solar document pitch gadget hand exist bracket";

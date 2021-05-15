@@ -1,1 +1,1 @@
-var mnemonic = "prison impulse more loyal sheriff dignity antique wolf hotel town abstract trip";
+var mnemonic = "wood shine filter boil burst zebra sustain dolphin verb face inspire isolate";

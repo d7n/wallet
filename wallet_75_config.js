@@ -1,1 +1,1 @@
-var mnemonic = "size spell figure exit deposit fancy garlic train kit theory frequent bachelor";
+var mnemonic = "guess glance effort universe blast firm prefer episode object fade until eager";

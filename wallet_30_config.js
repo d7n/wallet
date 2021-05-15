@@ -1,1 +1,1 @@
-var mnemonic = "person above novel brother artefact feed foam pull best gossip lake unlock";
+var mnemonic = "dawn describe abstract exile congress still length process cluster inner busy situate";

@@ -1,1 +1,1 @@
-var mnemonic = "desk video viable crisp bottom ability there little impulse hip exact awful";
+var mnemonic = "deliver glory exact cash remind wash wheat treat harsh ill today now";

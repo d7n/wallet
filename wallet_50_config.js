@@ -1,1 +1,1 @@
-var mnemonic = "manual general trend nuclear horror invest fat clutch cabin like story lizard";
+var mnemonic = "ball nurse receive gauge pact cycle prize vessel brand wine special awesome";

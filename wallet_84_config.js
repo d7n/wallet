@@ -1,1 +1,1 @@
-var mnemonic = "scorpion certain cattle shrug pass inspire pioneer screen bulk sand dress decide";
+var mnemonic = "short robust pulp fancy motion glare forum ridge turkey coin enemy mango";

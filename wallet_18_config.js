@@ -1,1 +1,1 @@
-var mnemonic = "record lion scatter orient symptom profit boil reunion chef young omit grunt";
+var mnemonic = "mechanic turkey cover soon acid shove embody wrist shove drop legend book";

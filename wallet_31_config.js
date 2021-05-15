@@ -1,1 +1,1 @@
-var mnemonic = "spare milk skate hill sand raise brass imitate cart arm answer dentist";
+var mnemonic = "slab edit address cricket want will banana zero chimney hockey glare safe";

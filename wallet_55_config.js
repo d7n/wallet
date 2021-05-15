@@ -1,1 +1,1 @@
-var mnemonic = "congress hair moon lazy pudding loan hobby poet topic little venture jump";
+var mnemonic = "inherit mind stadium jelly average author flight nominee circle mind hub inside";

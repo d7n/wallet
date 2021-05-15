@@ -1,1 +1,1 @@
-var mnemonic = "comfort busy require welcome purity battle ivory bundle infant industry company zoo";
+var mnemonic = "top priority mind argue vast cave congress puppy umbrella salmon exhaust chef";

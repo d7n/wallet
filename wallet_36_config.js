@@ -1,1 +1,1 @@
-var mnemonic = "organ crunch sadness title wool airport pattern sniff owner attract large fun";
+var mnemonic = "family girl then math huge celery fury spy before video sand install";

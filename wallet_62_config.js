@@ -1,1 +1,1 @@
-var mnemonic = "market shrimp naive will client thing infant tomorrow attract exchange square glance";
+var mnemonic = "among december belt tape plug magic sad limb weather child tiny odor";

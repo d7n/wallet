@@ -1,1 +1,1 @@
-var mnemonic = "modify isolate hand injury case guide version law rug movie almost bar";
+var mnemonic = "scan area core story bargain praise hero destroy print lunar consider industry";

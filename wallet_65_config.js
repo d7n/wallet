@@ -1,1 +1,1 @@
-var mnemonic = "lemon ritual word embody denial advice neutral exclude monkey pave evil economy";
+var mnemonic = "immense sport hobby shock tuition orphan barely country east roast essence toss";

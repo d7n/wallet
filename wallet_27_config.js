@@ -1,1 +1,1 @@
-var mnemonic = "clump butter embody wool saddle fortune cry paddle robot december hill country";
+var mnemonic = "clarify dad syrup infant oval bubble picture carry beyond robust genius staff";

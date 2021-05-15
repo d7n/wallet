@@ -1,1 +1,1 @@
-var mnemonic = "involve live length lobster wall flat nature reform swim leisure stairs orange";
+var mnemonic = "quarter patient address laugh estate gauge gospel dove guess grit banana noble";

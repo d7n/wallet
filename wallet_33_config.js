@@ -1,1 +1,1 @@
-var mnemonic = "brown frame provide stem pudding clock steel topic imitate control economy embark";
+var mnemonic = "fluid else soccer spoon diamond truly uncover often waste deny win job";

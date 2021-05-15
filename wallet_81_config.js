@@ -1,1 +1,1 @@
-var mnemonic = "million swim lend young wise tip drastic track skate latin auto engine";
+var mnemonic = "thought modify will club any silly kid open also unveil today stamp";

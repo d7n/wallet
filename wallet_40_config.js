@@ -1,1 +1,1 @@
-var mnemonic = "error wash jacket puzzle hold dentist moral gentle orbit shadow bamboo faint";
+var mnemonic = "squirrel usage wheel proud invest taxi donate elegant figure brief ahead future";

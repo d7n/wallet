@@ -1,1 +1,1 @@
-var mnemonic = "enact suggest chicken frog arch pudding pill essay monster fossil cabin amused";
+var mnemonic = "rabbit clerk draft tornado clever badge offer rigid two filter december tonight";

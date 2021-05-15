@@ -1,1 +1,1 @@
-var mnemonic = "fabric medal prize insect hobby turkey scorpion sell foam famous orphan retire";
+var mnemonic = "art guitar movie poet use snake quote portion swift physical stumble wing";

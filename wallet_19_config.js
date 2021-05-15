@@ -1,1 +1,1 @@
-var mnemonic = "damage artwork crane cage silk refuse assault left snack amateur update myself";
+var mnemonic = "bread fiber calm rule weird wreck adult regular sock foil gasp hurt";

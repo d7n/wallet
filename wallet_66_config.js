@@ -1,1 +1,1 @@
-var mnemonic = "interest curve myself butter rely scare nest post core stone whip embody";
+var mnemonic = "unable border slow extend solar satoshi boss enjoy elegant mobile evoke any";

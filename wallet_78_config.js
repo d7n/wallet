@@ -1,1 +1,1 @@
-var mnemonic = "dad eternal laugh mirror hair because cheap atom banana abuse blouse connect";
+var mnemonic = "undo enough once quick essence present cigar sick doll lucky pigeon beauty";

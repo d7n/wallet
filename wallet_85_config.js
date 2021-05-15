@@ -1,1 +1,1 @@
-var mnemonic = "grocery shaft grace scorpion clerk rely antique skill slide logic flower witness";
+var mnemonic = "rifle soup seed fabric never beef pig tiger people wink knee guide";

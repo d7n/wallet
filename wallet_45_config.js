@@ -1,1 +1,1 @@
-var mnemonic = "off document letter ten junk need baby tape short melt puzzle sibling";
+var mnemonic = "marriage able able decorate story quick flee marine sweet transfer state intact";

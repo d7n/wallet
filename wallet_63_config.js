@@ -1,1 +1,1 @@
-var mnemonic = "brand fence object bless orange shrimp flower knock hamster ice mask family";
+var mnemonic = "rose improve turn hidden marble public slim identify apology author please card";

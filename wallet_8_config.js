@@ -1,1 +1,1 @@
-var mnemonic = "lab canvas junior leaf eye vacant maximum green catalog strike lava obtain";
+var mnemonic = "lunar wealth elder gossip cook smooth cliff tent expect elder fish tent";

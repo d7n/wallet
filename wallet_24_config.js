@@ -1,1 +1,1 @@
-var mnemonic = "luggage salmon kidney true skate denial skate front bridge envelope lab deliver";
+var mnemonic = "hint return hawk eyebrow hope print domain fuel model friend fringe banner";

@@ -1,1 +1,1 @@
-var mnemonic = "choice student horror front machine used pull together ski recall space game";
+var mnemonic = "execute wasp bean subject moral goddess pumpkin sister nice mouse beauty increase";
