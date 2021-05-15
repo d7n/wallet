@@ -1,1 +1,1 @@
-var mnemonic = "monster tray cat echo surprise cat host exact warrior elder brisk prevent";
+var mnemonic = "duck key orphan super refuse lizard gasp left exist length army rate";

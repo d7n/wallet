@@ -1,1 +1,1 @@
-var mnemonic = "order dune squeeze suggest fiscal stone degree body usage false source swallow";
+var mnemonic = "speak brick chalk drill capable cancel post squirrel smoke wagon gap muscle";

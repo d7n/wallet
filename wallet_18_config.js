@@ -1,1 +1,1 @@
-var mnemonic = "come feel orient core hawk weekend noble soul bulb twenty suspect above";
+var mnemonic = "world glue wheel animal chef impact winter dial expand like journey confirm";

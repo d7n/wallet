@@ -1,1 +1,1 @@
-var mnemonic = "bundle erode option friend diesel wash stock athlete promote garlic price exist";
+var mnemonic = "pulse health sort hollow try badge stomach brick stove leaf welcome phone";

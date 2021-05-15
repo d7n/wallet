@@ -1,1 +1,1 @@
-var mnemonic = "visual neither outdoor sign guilt month such cactus junk twin blame claw";
+var mnemonic = "abstract rigid shy area across idle cotton spin tattoo library learn claw";

@@ -1,1 +1,1 @@
-var mnemonic = "casual cattle throw beach segment razor island damp certain comic protect lens";
+var mnemonic = "leisure tuition caught jacket kiss situate cigar enlist luggage print whisper voyage";

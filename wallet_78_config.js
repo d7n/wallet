@@ -1,1 +1,1 @@
-var mnemonic = "when cost nerve okay museum army raise ozone fresh idea side vehicle";
+var mnemonic = "mercy machine short shield broccoli student away split glimpse risk boss attract";

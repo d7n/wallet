@@ -1,1 +1,1 @@
-var mnemonic = "half rail alcohol about winner ill jealous journey head athlete over blush";
+var mnemonic = "sun tackle invest grace badge pioneer gospel flee enrich flash friend slight";

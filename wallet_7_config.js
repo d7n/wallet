@@ -1,1 +1,1 @@
-var mnemonic = "virtual peanut twin vicious occur devote wife vintage rookie mouse blood vague";
+var mnemonic = "club hour learn concert dizzy pact maple face leopard flag feature thumb";

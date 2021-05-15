@@ -1,1 +1,1 @@
-var mnemonic = "suspect exclude tone burger valve hold brand unfair cherry kit mosquito ten";
+var mnemonic = "pupil disorder aisle weird antique cup odor volume mountain fiber girl live";

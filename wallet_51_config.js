@@ -1,1 +1,1 @@
-var mnemonic = "easy creek hint brass away merit proof intact moon crisp biology north";
+var mnemonic = "normal token poem suggest omit sister work baby upset will follow axis";

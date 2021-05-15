@@ -1,1 +1,1 @@
-var mnemonic = "tool youth index expand sea know burger always raw train bike rack";
+var mnemonic = "lounge park junior relief purchase pluck destroy flavor total foil hair slot";

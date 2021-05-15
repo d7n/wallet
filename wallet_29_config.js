@@ -1,1 +1,1 @@
-var mnemonic = "cement pool brush swing bounce tornado squeeze spoon click cargo crop gym";
+var mnemonic = "castle wash weekend nominee grow bread skirt abandon oyster rather balcony scatter";

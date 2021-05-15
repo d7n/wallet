@@ -1,1 +1,1 @@
-var mnemonic = "fresh orchard style act oil crystal own pair like fox column force";
+var mnemonic = "outer hunt chaos negative father rice noodle accident captain decorate spray luxury";

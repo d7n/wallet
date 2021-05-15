@@ -1,1 +1,1 @@
-var mnemonic = "deliver smart pull skull club tuna culture save void pledge around jungle";
+var mnemonic = "shoulder sense panic skill imitate fabric exhibit prosper toward rare rifle poet";

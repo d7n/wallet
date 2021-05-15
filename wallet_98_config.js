@@ -1,1 +1,1 @@
-var mnemonic = "oppose resist reason design anchor bar case move feel exist remove amused";
+var mnemonic = "minute panda typical change sunset canal resemble abstract area finger pause diary";

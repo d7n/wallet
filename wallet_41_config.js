@@ -1,1 +1,1 @@
-var mnemonic = "again sort few enlist subway boil fancy umbrella team use oppose lizard";
+var mnemonic = "arrange leave away home lecture east tube gentle leisure elevator glance autumn";

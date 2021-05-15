@@ -1,1 +1,1 @@
-var mnemonic = "under sphere metal purchase theme top dragon join sand bubble favorite audit";
+var mnemonic = "pink glance palm peasant like one caution bachelor ridge feed define fiction";

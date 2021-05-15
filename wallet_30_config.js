@@ -1,1 +1,1 @@
-var mnemonic = "embrace glue exile desert shop mushroom guard pen enemy item cruise render";
+var mnemonic = "shrug beach nasty audit jar raw tag pony order thumb home knock";

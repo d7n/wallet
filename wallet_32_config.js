@@ -1,1 +1,1 @@
-var mnemonic = "spray mobile much adapt orange fog parade road survey coin swim eternal";
+var mnemonic = "glow final swear math gap spoon fringe enrich bronze milk planet identify";

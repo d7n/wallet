@@ -1,1 +1,1 @@
-var mnemonic = "accuse hole term early curve consider cage universe skirt embrace west boat";
+var mnemonic = "mansion example oyster icon build toy fiction defy riot invite faculty oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "cream retire exercise laptop find video omit kiss will napkin chef thumb";
+var mnemonic = "fly sea cinnamon marine lens turn resist stool under pride fit success";

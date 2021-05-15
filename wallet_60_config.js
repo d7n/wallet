@@ -1,1 +1,1 @@
-var mnemonic = "trim guess banner plastic expire uncover knock flip length tiny eager fossil";
+var mnemonic = "warfare march deliver chest pelican oil razor dance balcony coach kiss pause";

@@ -1,1 +1,1 @@
-var mnemonic = "sock van raise turkey patch cupboard mammal direct tiny wink buffalo muffin";
+var mnemonic = "claw when shop flash top hint run mule detail home idea case";

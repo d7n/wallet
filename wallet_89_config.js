@@ -1,1 +1,1 @@
-var mnemonic = "kite wash person squirrel junior suit expose stage sign pipe novel route";
+var mnemonic = "stuff prepare meadow twin obvious wear drastic hurt salmon surge warm forward";

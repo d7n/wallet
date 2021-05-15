@@ -1,1 +1,1 @@
-var mnemonic = "abandon trophy oppose fiber solar depend round peasant slight fee margin alien";
+var mnemonic = "erupt lunch hollow prefer danger horse approve hundred interest solution there walk";

@@ -1,1 +1,1 @@
-var mnemonic = "happy abandon account bright attack crazy bone dizzy question reopen attract spend";
+var mnemonic = "flip upper elegant priority obey come put artwork twice live example place";

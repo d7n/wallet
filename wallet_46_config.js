@@ -1,1 +1,1 @@
-var mnemonic = "maze armor live actual reopen feel access equal orange brief ribbon sister";
+var mnemonic = "much local during river unit blast talent corn idea blossom aware voice";

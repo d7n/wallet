@@ -1,1 +1,1 @@
-var mnemonic = "sad fury crumble drop survey skull offer author spray regret deliver axis";
+var mnemonic = "music limit robust accident gravity nerve giraffe electric rabbit comic relief cloud";

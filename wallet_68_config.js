@@ -1,1 +1,1 @@
-var mnemonic = "spin wait dog clarify hundred become weapon build useful scorpion lesson canyon";
+var mnemonic = "predict door cat few thank avocado enemy extend bright cram immune obtain";

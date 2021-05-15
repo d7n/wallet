@@ -1,1 +1,1 @@
-var mnemonic = "crawl green sustain fuel know opera tell unlock squirrel cradle frozen jaguar";
+var mnemonic = "finger layer disagree they again practice spike spot wise movie core admit";

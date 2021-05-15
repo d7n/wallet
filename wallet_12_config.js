@@ -1,1 +1,1 @@
-var mnemonic = "inside sport hedgehog frozen minimum roof economy float prosper mushroom grocery churn";
+var mnemonic = "wing start april spread science simple lesson thought double deposit ask consider";

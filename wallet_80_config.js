@@ -1,1 +1,1 @@
-var mnemonic = "cruise bus resist diamond insane inmate category dwarf cactus topple orchard swarm";
+var mnemonic = "sick battle else blood depend remove lunar fragile useful improve ability radar";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate cricket hybrid brother favorite village lucky order promote type insane soul";
+var mnemonic = "edit immense say gospel awesome noble scrap scrap wave sand bid able";

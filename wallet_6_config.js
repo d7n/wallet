@@ -1,1 +1,1 @@
-var mnemonic = "notice gospel cause citizen document kiss entry program minimum romance glove control";
+var mnemonic = "exotic volume giraffe quantum reunion retreat rubber hotel pretty bachelor orchard napkin";

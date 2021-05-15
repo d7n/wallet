@@ -1,1 +1,1 @@
-var mnemonic = "cigar canal invest base grace apart disagree describe wave athlete aware topic";
+var mnemonic = "front multiply gauge jelly tissue enhance few script blade orbit donate nut";

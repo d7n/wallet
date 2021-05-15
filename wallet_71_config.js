@@ -1,1 +1,1 @@
-var mnemonic = "host chest electric feed concert match level exact cable favorite license nest";
+var mnemonic = "wedding capable angle install base all dynamic coral edge organ project gate";

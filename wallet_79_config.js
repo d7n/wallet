@@ -1,1 +1,1 @@
-var mnemonic = "taste cactus mixed neutral humble elephant stairs butter rifle allow joke afraid";
+var mnemonic = "harsh divide rabbit board august rule lunch extend tube dry vital oppose";

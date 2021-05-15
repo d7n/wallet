@@ -1,1 +1,1 @@
-var mnemonic = "mobile dose uphold insect unusual own fit prosper disease dismiss brown expire";
+var mnemonic = "final palace nose hold oxygen mother innocent brush creek chalk joke ordinary";

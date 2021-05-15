@@ -1,1 +1,1 @@
-var mnemonic = "roast toward time syrup jeans nation twelve squeeze cactus bundle volume alter";
+var mnemonic = "skill sand vintage mechanic document attack shiver mosquito uphold snack chapter spot";

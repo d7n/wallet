@@ -1,1 +1,1 @@
-var mnemonic = "planet maximum slogan teach lens tree cigar have divorce again wild region";
+var mnemonic = "clog toss amateur figure rebuild live park purity trend pretty van bless";

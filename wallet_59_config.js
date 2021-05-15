@@ -1,1 +1,1 @@
-var mnemonic = "flee image cycle acoustic marine dumb maid estate soft dog bullet quote";
+var mnemonic = "finish risk drama number thrive meadow curve sport rate tree wish ghost";

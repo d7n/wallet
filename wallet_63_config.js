@@ -1,1 +1,1 @@
-var mnemonic = "nose pact gather jaguar million hole know manage security couple vapor paper";
+var mnemonic = "bring title purity trend fuel grass input leaf few engage bacon fabric";

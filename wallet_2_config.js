@@ -1,1 +1,1 @@
-var mnemonic = "garlic agent box pet express menu case menu slab increase grunt century";
+var mnemonic = "medal use upgrade siege metal reduce pluck useful innocent craft link bike";

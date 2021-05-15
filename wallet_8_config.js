@@ -1,1 +1,1 @@
-var mnemonic = "champion remain priority vivid error dumb diesel casual delay whip truck stuff";
+var mnemonic = "alarm talent increase affair tail mystery winner crystal gate lumber stamp skirt";

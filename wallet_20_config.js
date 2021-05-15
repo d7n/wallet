@@ -1,1 +1,1 @@
-var mnemonic = "venue situate hope ticket cabbage under ahead lazy scheme butter modify indoor";
+var mnemonic = "forward plug video library title intact shell opera acquire potato carpet rubber";

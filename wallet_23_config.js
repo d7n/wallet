@@ -1,1 +1,1 @@
-var mnemonic = "slim hat venue cave type focus grain uncover crack verify yard annual";
+var mnemonic = "spin army exchange panda catch sunny seven cost rhythm kidney suspect field";

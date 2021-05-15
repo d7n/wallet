@@ -1,1 +1,1 @@
-var mnemonic = "crowd fork twist better intact gown cluster attitude girl october express possible";
+var mnemonic = "chat eyebrow card put common hurry minute absurd capable opinion spell artist";

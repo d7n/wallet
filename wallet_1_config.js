@@ -1,1 +1,1 @@
-var mnemonic = "penalty hat spread capital skin tomorrow inhale entry donor dust wild question";
+var mnemonic = "close junk hurdle distance dolphin hurry beyond neutral jar buddy vital guilt";

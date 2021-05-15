@@ -1,1 +1,1 @@
-var mnemonic = "quiz valid rail buffalo flip loud exile retreat guitar canoe easily have";
+var mnemonic = "bargain group loud chalk utility admit minimum violin critic find tourist endless";

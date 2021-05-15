@@ -1,1 +1,1 @@
-var mnemonic = "vintage scorpion exit oil penalty top play giggle drama artist brown glare";
+var mnemonic = "style wet warm quantum typical kiss cinnamon water inform quick assume proof";

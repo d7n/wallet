@@ -1,1 +1,1 @@
-var mnemonic = "penalty horse coconut oval galaxy climb exit estate hover local gorilla say";
+var mnemonic = "absent occur fresh size joke stage indicate film buffalo soccer voyage fix";

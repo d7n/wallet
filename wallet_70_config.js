@@ -1,1 +1,1 @@
-var mnemonic = "element blouse assault canyon unique furnace polar tomato leopard canyon sentence hidden";
+var mnemonic = "exist dice one better yellow hero egg recycle famous false mean humor";

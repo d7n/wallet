@@ -1,1 +1,1 @@
-var mnemonic = "trust salon wink dress wife magnet rude mammal garlic city bomb jeans";
+var mnemonic = "expect holiday mushroom dove sand inhale soft strong rotate casino skin film";

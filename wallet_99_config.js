@@ -1,1 +1,1 @@
-var mnemonic = "awesome afraid cannon swarm slow survey chat chimney pill brown save useful";
+var mnemonic = "empower various give bless hat mimic paper action sphere fashion across trim";

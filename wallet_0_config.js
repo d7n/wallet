@@ -1,1 +1,1 @@
-var mnemonic = "need hunt unlock cargo moment thought hobby chef away pink onion machine";
+var mnemonic = "luxury call payment join child icon worth prize bring trigger step mosquito";

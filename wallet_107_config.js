@@ -1,1 +1,1 @@
-var mnemonic = "pupil suspect also net stomach frog swing orange issue bracket try quality";
+var mnemonic = "balcony punch famous main place club legend escape toast tent maid doctor";

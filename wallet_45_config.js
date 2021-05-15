@@ -1,1 +1,1 @@
-var mnemonic = "group ship bamboo cat idle hire suggest sister first warfare chimney media";
+var mnemonic = "symptom inspire stomach kiwi lamp range art story expire into fabric path";

@@ -1,1 +1,1 @@
-var mnemonic = "sick auction program taste stock symbol smoke swallow match later group plug";
+var mnemonic = "front detect hospital vessel faint mirror manual provide adjust arctic model hedgehog";

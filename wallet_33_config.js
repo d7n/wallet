@@ -1,1 +1,1 @@
-var mnemonic = "dinner thunder bleak today stamp brass alley control bulk cream fringe world";
+var mnemonic = "replace connect unhappy excuse predict mean diamond quarter palm absent detail text";

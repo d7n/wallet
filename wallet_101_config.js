@@ -1,1 +1,1 @@
-var mnemonic = "athlete unhappy pistol correct extend alien pudding demise protect lion step novel";
+var mnemonic = "mouse rabbit crew cake version trash hold amused bulk glow immense chief";

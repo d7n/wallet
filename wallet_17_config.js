@@ -1,1 +1,1 @@
-var mnemonic = "dawn essay return mandate tower attract switch sponsor shop roof interest trophy";
+var mnemonic = "luxury letter only despair until illness cherry climb basket crystal weapon budget";

@@ -1,1 +1,1 @@
-var mnemonic = "witness welcome cannon emotion nasty surround sad easily furnace south sock reflect";
+var mnemonic = "monster include advance web color machine subject grain series identify puzzle anchor";

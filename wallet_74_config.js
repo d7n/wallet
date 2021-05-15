@@ -1,1 +1,1 @@
-var mnemonic = "pause turkey worth disagree canoe fog adult kind chaos enough bachelor stereo";
+var mnemonic = "curious isolate soccer regret echo crazy voyage finish uncover follow tattoo hour";

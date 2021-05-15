@@ -1,1 +1,1 @@
-var mnemonic = "slogan problem cliff tomorrow loan source predict melody robust safe bleak wealth";
+var mnemonic = "meadow endless token canyon dice volcano hello wrong remain local neither arrow";

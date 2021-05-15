@@ -1,1 +1,1 @@
-var mnemonic = "elder limit three submit book dove fabric tide myself window game adjust";
+var mnemonic = "marine pull next equal lonely bulb balance seed flee thrive champion demise";

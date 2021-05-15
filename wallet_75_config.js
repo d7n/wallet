@@ -1,1 +1,1 @@
-var mnemonic = "airport erupt wisdom brisk seat hand grass skate fitness apple acoustic cage";
+var mnemonic = "century legal blast riot cricket attract issue capital betray subway flavor alien";

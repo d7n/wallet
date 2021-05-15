@@ -1,1 +1,1 @@
-var mnemonic = "boat spatial pottery kidney engine absent wagon key symbol discover oil mercy";
+var mnemonic = "maximum margin patrol kick remove sphere liberty live universe eager girl useless";

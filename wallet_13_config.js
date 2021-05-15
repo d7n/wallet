@@ -1,1 +1,1 @@
-var mnemonic = "lawn weird notable bless twenty negative symbol chalk edge detect lend apart";
+var mnemonic = "copper merit squeeze voice range taxi celery display calm way census finger";

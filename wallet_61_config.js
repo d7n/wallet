@@ -1,1 +1,1 @@
-var mnemonic = "pet much derive below hotel shiver blast abandon myself priority essay expose";
+var mnemonic = "expose glare pass put action fantasy play budget until april position transfer";

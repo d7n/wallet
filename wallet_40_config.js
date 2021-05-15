@@ -1,1 +1,1 @@
-var mnemonic = "when south dream congress page include frost enroll venture level reward fiber";
+var mnemonic = "inflict crater auction decade kind debris industry quarter chunk obtain base unlock";

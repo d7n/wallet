@@ -1,1 +1,1 @@
-var mnemonic = "upper brown hockey accuse nature anger carpet hire patch chapter object fossil";
+var mnemonic = "purity miracle hammer craft choose move assault acquire dance toy auction brown";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard camera rare front exhaust cigar aisle surprise scheme water purpose usual";
+var mnemonic = "avocado frown toe portion wisdom cat reason over humble sea business goddess";

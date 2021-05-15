@@ -1,1 +1,1 @@
-var mnemonic = "state rookie desk top age heart learn inherit pretty artefact during unlock";
+var mnemonic = "attend donkey chest cargo super supreme donor history solution license prepare this";

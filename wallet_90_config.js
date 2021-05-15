@@ -1,1 +1,1 @@
-var mnemonic = "coil hazard pulse embrace roast maze rely tongue twist affair option tuna";
+var mnemonic = "garage order render rhythm level mimic purpose paper chair twenty pelican review";

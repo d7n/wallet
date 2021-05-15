@@ -1,1 +1,1 @@
-var mnemonic = "proud hotel tail wait civil clip solar section express spot wing wrestle";
+var mnemonic = "glue naive galaxy muffin aware canvas benefit dynamic jungle display toy cannon";

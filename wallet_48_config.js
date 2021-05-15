@@ -1,1 +1,1 @@
-var mnemonic = "fatal ocean excite cram pet taste slow slogan oxygen flame earn polar";
+var mnemonic = "silly margin fall talent charge dawn wing ozone stomach swear foot board";

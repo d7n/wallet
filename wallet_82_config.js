@@ -1,1 +1,1 @@
-var mnemonic = "near ritual merit diary forward exit page fire exact canvas pelican shrug";
+var mnemonic = "august garment sand practice domain merry differ used civil timber glory mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "desk plate blade this thank wear rely hobby correct hammer before photo";
+var mnemonic = "culture gift rebel curious paper motion prosper skill indoor much chase attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd oval stomach gain dream brief text smooth phone yellow balance patch";
+var mnemonic = "figure tomorrow ticket scissors cream blood inspire panther caution neither ready ship";

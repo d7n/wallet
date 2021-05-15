@@ -1,1 +1,1 @@
-var mnemonic = "worth doll humor marble duck candy broccoli spider menu base remove column";
+var mnemonic = "universe pupil average gap board raccoon bubble code foster bulb force priority";

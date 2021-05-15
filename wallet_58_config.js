@@ -1,1 +1,1 @@
-var mnemonic = "rack axis alpha only clump empower post sphere misery actress frost sibling";
+var mnemonic = "library orient law earth upper credit eight asset island mammal various brief";

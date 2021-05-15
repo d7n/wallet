@@ -1,1 +1,1 @@
-var mnemonic = "work vault ripple trick match glimpse consider sorry hair toy west kiss";
+var mnemonic = "spawn tray stadium trial body spin aware lab test ginger mystery domain";

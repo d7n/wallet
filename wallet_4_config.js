@@ -1,1 +1,1 @@
-var mnemonic = "sentence ship visa run fix bacon fog ill dash illegal pyramid answer";
+var mnemonic = "question tree later timber piece year release party business glide exist spatial";

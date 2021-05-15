@@ -1,1 +1,1 @@
-var mnemonic = "symptom east fatigue legal define draft feed wrong flame trouble off save";
+var mnemonic = "actual nasty minute visa number dizzy bone divorce puppy blind maple whisper";

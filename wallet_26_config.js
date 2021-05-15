@@ -1,1 +1,1 @@
-var mnemonic = "planet gravity evolve magic jacket garment blossom bundle ensure inject hungry echo";
+var mnemonic = "own jealous observe suspect retreat waste moral tilt slow slender indoor today";

@@ -1,1 +1,1 @@
-var mnemonic = "alone bring quick kit supply crunch present assault brother ostrich embody salt";
+var mnemonic = "inside december urban discover more smart develop tent sauce clap stuff legend";

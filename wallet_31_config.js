@@ -1,1 +1,1 @@
-var mnemonic = "force charge crash pledge satisfy cake river credit tiny embark inject sand";
+var mnemonic = "august diesel cliff taxi interest carbon grab horn oak school emerge nation";

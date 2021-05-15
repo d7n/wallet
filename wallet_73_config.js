@@ -1,1 +1,1 @@
-var mnemonic = "know sibling salmon sausage oppose casino claw voyage boost smooth viable cube";
+var mnemonic = "boy hill shadow manual century okay recall erase regret believe vanish stand";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan endless spend display congress together talk grit icon post swap essay";
+var mnemonic = "impact derive blue crew dune route outside issue bag ability snap hollow";

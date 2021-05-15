@@ -1,1 +1,1 @@
-var mnemonic = "desk switch initial balance plug notice lizard sad teach vicious design arch";
+var mnemonic = "butter milk gaze loyal actor strategy uniform cave almost smooth shallow soda";

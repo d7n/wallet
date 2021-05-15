@@ -1,1 +1,1 @@
-var mnemonic = "rule avoid special giant sign rally charge sand immune wisdom outside palace";
+var mnemonic = "enter sick loud prevent main whisper onion claim news crime adjust item";

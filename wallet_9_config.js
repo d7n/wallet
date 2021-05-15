@@ -1,1 +1,1 @@
-var mnemonic = "twenty glow pair dizzy rely dentist want ball barely spice voice process";
+var mnemonic = "buyer web bronze pilot supreme swallow decide culture vital noble act crawl";
