@@ -1,1 +1,1 @@
-var mnemonic = "inmate auto wood hedgehog skate announce glass lend accident access cabbage glove";
+var mnemonic = "nasty lawsuit until egg grain pave country velvet heavy excess metal file";

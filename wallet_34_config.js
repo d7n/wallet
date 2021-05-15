@@ -1,1 +1,1 @@
-var mnemonic = "capital domain melody matrix slush door cotton solve electric else rural filter";
+var mnemonic = "cause attend beauty swear spoon tumble cause fold chronic kiss stool trade";

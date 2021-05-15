@@ -1,1 +1,1 @@
-var mnemonic = "flight cable object extra raccoon path imitate govern evoke knee excess outside";
+var mnemonic = "erode call future seed woman rug emotion coin session hamster true over";

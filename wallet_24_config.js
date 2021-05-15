@@ -1,1 +1,1 @@
-var mnemonic = "shallow heart bunker husband cotton young ordinary battle raven silver choice upon";
+var mnemonic = "deposit capital grit dream ready grief fade thing circle taste gadget hero";

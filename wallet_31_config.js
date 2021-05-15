@@ -1,1 +1,1 @@
-var mnemonic = "auto manage life wheel hope tumble shiver kangaroo magnet large engage garbage";
+var mnemonic = "visa green usage melt entire insane hole absent angry federal giggle choice";

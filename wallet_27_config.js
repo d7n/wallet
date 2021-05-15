@@ -1,1 +1,1 @@
-var mnemonic = "divide come bulk trap cabin loyal smooth perfect diet athlete potato gesture";
+var mnemonic = "ritual clump grow inquiry door trade daughter destroy permit quote expand hospital";

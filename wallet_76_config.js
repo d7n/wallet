@@ -1,1 +1,1 @@
-var mnemonic = "arctic mask glance valid laundry route resemble about kick february plug onion";
+var mnemonic = "exile museum laundry inform light crouch odor expire spawn swallow shed scissors";

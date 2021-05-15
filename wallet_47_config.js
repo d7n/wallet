@@ -1,1 +1,1 @@
-var mnemonic = "fine resist exhibit leg peasant flip manage march friend federal decorate violin";
+var mnemonic = "frost usage dad warrior defy cook shy busy blanket beef junior vibrant";

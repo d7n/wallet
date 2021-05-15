@@ -1,1 +1,1 @@
-var mnemonic = "palace style trumpet nature parent enforce eager traffic mask obvious volume illness";
+var mnemonic = "crucial engage access horror combine electric define design know thing follow save";

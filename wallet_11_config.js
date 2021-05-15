@@ -1,1 +1,1 @@
-var mnemonic = "gold maximum secret frequent leader attract escape conduct mango wealth midnight reveal";
+var mnemonic = "day busy virtual donor clerk middle common false special lounge stereo slender";

@@ -1,1 +1,1 @@
-var mnemonic = "guide leave easy online express arch bus sick cloud danger transfer early";
+var mnemonic = "pen loan dash cereal good bamboo journey vote random pulp gravity erase";

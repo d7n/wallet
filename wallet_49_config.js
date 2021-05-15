@@ -1,1 +1,1 @@
-var mnemonic = "nurse anger when drip session great fossil month tragic exhibit vague cute";
+var mnemonic = "idea maid knife liar worth voice oyster outside kick response outdoor okay";

@@ -1,1 +1,1 @@
-var mnemonic = "cart vessel track drop edge silly asthma gorilla trash piece equal tube";
+var mnemonic = "borrow tenant lady nuclear urge van cart electric prevent erode grow toddler";

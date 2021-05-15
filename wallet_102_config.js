@@ -1,1 +1,1 @@
-var mnemonic = "rule mention robot bulk wire heavy plug kitchen image receive peasant dinner";
+var mnemonic = "sick trick pudding soldier hockey elegant volcano remember note have chronic uniform";

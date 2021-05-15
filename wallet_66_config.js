@@ -1,1 +1,1 @@
-var mnemonic = "portion timber dignity merge hat thrive orbit order agent crystal depart stairs";
+var mnemonic = "easily mean street naive erode exhaust dolphin lake you split burden dwarf";

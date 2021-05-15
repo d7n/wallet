@@ -1,1 +1,1 @@
-var mnemonic = "gold emotion main memory forest plunge august rare excuse pizza please review";
+var mnemonic = "disorder violin furnace still theory decrease myself garage unknown shoot author digital";

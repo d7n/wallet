@@ -1,1 +1,1 @@
-var mnemonic = "drama stumble cage right enlist vacant stove phrase aisle divide oblige olympic";
+var mnemonic = "profit impulse trend rent old jazz orbit hint guitar rack hope noise";

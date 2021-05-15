@@ -1,1 +1,1 @@
-var mnemonic = "now industry hunt twice talk test sauce boss heart maid injury defy";
+var mnemonic = "olympic window ready furnace sword doctor any blind salt rocket treat canal";

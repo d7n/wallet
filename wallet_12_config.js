@@ -1,1 +1,1 @@
-var mnemonic = "frog cement grab vote flame raw churn bring group wide unique fuel";
+var mnemonic = "ability cook squirrel wagon isolate leaf vehicle unable broom vault busy this";

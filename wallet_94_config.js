@@ -1,1 +1,1 @@
-var mnemonic = "hand rally season square cool captain domain mobile split mixed nest high";
+var mnemonic = "remind prison hungry today hold drift shaft test margin modify rain able";

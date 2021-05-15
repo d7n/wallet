@@ -1,1 +1,1 @@
-var mnemonic = "setup crush rocket slot mystery monkey side left emerge duty occur code";
+var mnemonic = "distance nest help supreme loyal skull asset rail desk crisp lens pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "scale measure neglect gloom witness card logic vivid analyst teach shy bid";
+var mnemonic = "nice wealth decline frozen gaze remove else token picnic network vacant always";

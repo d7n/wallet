@@ -1,1 +1,1 @@
-var mnemonic = "power humor fade pond tree tool scare disagree stage adjust ankle peanut";
+var mnemonic = "curve bracket flag you hip bone unfold reflect fun identify audit digital";

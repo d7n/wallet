@@ -1,1 +1,1 @@
-var mnemonic = "mind upset keen shield review width fox dice empty used goat fiber";
+var mnemonic = "gift wrestle street quiz fiction clerk rent fork upset lesson suggest hundred";

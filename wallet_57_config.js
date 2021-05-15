@@ -1,1 +1,1 @@
-var mnemonic = "onion slogan safe final shuffle carpet piece illegal weird survey smooth cheese";
+var mnemonic = "short despair come diet scrap surprise agent session return you injury clown";

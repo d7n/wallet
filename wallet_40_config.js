@@ -1,1 +1,1 @@
-var mnemonic = "artefact slab injury foil brother immune rare twenty can quote weather save";
+var mnemonic = "garage quote inner disagree jaguar various island secret famous relax guitar doll";

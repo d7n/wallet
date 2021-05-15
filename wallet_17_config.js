@@ -1,1 +1,1 @@
-var mnemonic = "spray clock scan color veteran muscle text tribe pelican prefer corn convince";
+var mnemonic = "aspect amateur direct culture you spare unfair yard wealth border mean cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial puzzle season gate wreck lounge cook carpet polar crowd exile exhibit";
+var mnemonic = "ghost route drift retire chunk flee frog lucky protect busy run error";

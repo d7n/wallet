@@ -1,1 +1,1 @@
-var mnemonic = "nurse disorder sock cabbage juice silly trouble mention harvest reform law weird";
+var mnemonic = "doll taxi choose return jeans sea disease crucial blast document exit island";

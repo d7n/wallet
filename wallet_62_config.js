@@ -1,1 +1,1 @@
-var mnemonic = "under vendor airport proud candy banner adult either tank tuna survey flavor";
+var mnemonic = "chronic stumble web pen trial enrich raccoon nation scrub scissors ill scorpion";

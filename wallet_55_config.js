@@ -1,1 +1,1 @@
-var mnemonic = "armed promote plunge useful pattern quick gloom tornado utility sister still patient";
+var mnemonic = "write symptom oval never mammal supreme luggage vocal settle question beauty mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty park tide bitter mean memory start satisfy actor life obtain plunge";
+var mnemonic = "monster disease column found lab mixture tortoise act little bounce mixed build";

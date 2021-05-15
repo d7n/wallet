@@ -1,1 +1,1 @@
-var mnemonic = "fortune curious thank cake cherry chalk kick hybrid they paddle raccoon consider";
+var mnemonic = "purse couple digital pizza present goose sadness common dumb general blouse turtle";

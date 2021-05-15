@@ -1,1 +1,1 @@
-var mnemonic = "repair hip evolve dust orphan worth detect vapor track horror army thrive";
+var mnemonic = "six animal sniff maze practice winter mix document garage twist discover toe";

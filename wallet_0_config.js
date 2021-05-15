@@ -1,1 +1,1 @@
-var mnemonic = "buzz paddle face lift nerve carry unknown bridge envelope disease window goose";
+var mnemonic = "dial gesture side inhale goose recipe ready gaze wage reunion large rubber";

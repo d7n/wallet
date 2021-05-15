@@ -1,1 +1,1 @@
-var mnemonic = "pudding unveil slender chalk enjoy increase crumble taxi hour mom bag empty";
+var mnemonic = "early engine short fortune milk tiny payment gossip safe round kiwi middle";

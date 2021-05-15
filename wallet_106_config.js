@@ -1,1 +1,1 @@
-var mnemonic = "virtual blue screen sauce company tooth market afraid chuckle brisk endorse run";
+var mnemonic = "cliff town salmon parrot abandon steak example wasp inherit later zoo kangaroo";

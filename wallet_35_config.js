@@ -1,1 +1,1 @@
-var mnemonic = "razor enough urban cup sense shed clump spray mesh piano wrong lava";
+var mnemonic = "retreat absurd dry embark sibling aisle govern divert shiver fog earn actor";

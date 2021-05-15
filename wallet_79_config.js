@@ -1,1 +1,1 @@
-var mnemonic = "knee notable forward order today volcano mixed pave razor smoke symptom jealous";
+var mnemonic = "belt lens lonely promote extend poverty assist finger figure screen riot mansion";

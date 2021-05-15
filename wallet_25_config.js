@@ -1,1 +1,1 @@
-var mnemonic = "insane world tuna resource announce finger orchard direct human obscure vehicle same";
+var mnemonic = "trigger alcohol item online voyage rain hover dynamic large hurry path multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "pool author trumpet museum dove feed phrase time apology trash joy fog";
+var mnemonic = "cruise script dizzy moon great brass share rigid duty claim must caution";

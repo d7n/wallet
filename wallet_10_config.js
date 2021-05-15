@@ -1,1 +1,1 @@
-var mnemonic = "obey absent vacant future sheriff usual remain glory dish figure copper lonely";
+var mnemonic = "forward section wheel pottery clog fluid gauge trend sure better sense wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset liar rule smooth game dream join record leisure enforce flat gloom";
+var mnemonic = "tape lecture initial rifle mouse hawk bachelor churn also craft win peasant";

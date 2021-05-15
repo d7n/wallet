@@ -1,1 +1,1 @@
-var mnemonic = "actual trigger version spawn raw flag destroy lemon doll unaware buyer ghost";
+var mnemonic = "better town try dizzy sample crawl document rescue dinner equip notice put";

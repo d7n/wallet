@@ -1,1 +1,1 @@
-var mnemonic = "promote craft spice captain people sample around rude valid uncover morning pact";
+var mnemonic = "hope increase wedding sketch stage apple comfort praise oyster hazard tobacco gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "forward keep mesh adapt ask photo eight resist nurse raven convince pool";
+var mnemonic = "elbow digital coffee much damp pig describe panther copper paper junk olympic";

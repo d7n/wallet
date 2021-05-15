@@ -1,1 +1,1 @@
-var mnemonic = "reopen solar cruise ticket travel define next proud husband guilt consider say";
+var mnemonic = "special walk often chuckle frost forum topple ethics bag happy stock approve";

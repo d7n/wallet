@@ -1,1 +1,1 @@
-var mnemonic = "cup few absent win argue output first base extra never give ethics";
+var mnemonic = "double ginger van skirt erupt elbow anger faculty census awful stock fun";

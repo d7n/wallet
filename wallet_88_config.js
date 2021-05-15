@@ -1,1 +1,1 @@
-var mnemonic = "pizza knock crowd tone critic planet capital audit camera december true crawl";
+var mnemonic = "purse shrimp crash lake mom festival click amount athlete picnic venture best";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil weird harsh length miss human control brave quick immune can inspire";
+var mnemonic = "judge duty satisfy summer remove settle book dice special feed one only";

@@ -1,1 +1,1 @@
-var mnemonic = "honey bubble cheap chunk floor accident gauge cousin echo gun ordinary dinner";
+var mnemonic = "machine lecture visual put need adult merit vote can twelve meat vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology defy group spot bar speak afraid balcony ginger page honey ticket";
+var mnemonic = "account search response whip employ north disorder humor short because silver outer";

@@ -1,1 +1,1 @@
-var mnemonic = "donate oval sample chronic burden pulse rookie silly donor soda meadow become";
+var mnemonic = "coil mango universe tumble hub evidence wood vehicle cream myth raccoon fat";

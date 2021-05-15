@@ -1,1 +1,1 @@
-var mnemonic = "gift veteran conduct crowd morning mean fade hundred enact network salad virtual";
+var mnemonic = "plunge economy right ship loud claw fame elevator access cover lazy task";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue inspire load spirit dinosaur poem make present village vehicle shrimp humor";
+var mnemonic = "guilt maze mean upgrade private profit palace fine action monkey scissors announce";

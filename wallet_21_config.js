@@ -1,1 +1,1 @@
-var mnemonic = "ignore lava veteran casual that solve prosper salmon tennis chicken card elder";
+var mnemonic = "fit similar gasp asthma business wink morning chapter crack nasty glare naive";

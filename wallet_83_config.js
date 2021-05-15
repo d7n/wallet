@@ -1,1 +1,1 @@
-var mnemonic = "hundred whale buffalo mushroom city float repeat west close allow direct scatter";
+var mnemonic = "attract fruit lend august upgrade drift horse dwarf fatigue orient please wink";

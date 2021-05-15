@@ -1,1 +1,1 @@
-var mnemonic = "wreck undo stick desk fiction afford disagree basic hundred bean list curtain";
+var mnemonic = "dad twenty quiz answer pepper sheriff decrease invite license night cupboard skill";

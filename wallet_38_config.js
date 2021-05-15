@@ -1,1 +1,1 @@
-var mnemonic = "sample pink renew market luxury shaft dove steak erosion auction course uniform";
+var mnemonic = "minor draft stereo cannon race fabric source edit axis gasp emerge glide";

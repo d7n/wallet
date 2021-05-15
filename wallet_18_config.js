@@ -1,1 +1,1 @@
-var mnemonic = "day mystery wave festival hundred element dawn future best false swarm prepare";
+var mnemonic = "inject ramp crime glory half normal stairs discover fitness scout modify ethics";

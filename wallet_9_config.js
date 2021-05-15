@@ -1,1 +1,1 @@
-var mnemonic = "curve jacket similar leg rebuild return donate typical miracle glass average vast";
+var mnemonic = "tree badge airport age cool any group remind vast river tourist purity";

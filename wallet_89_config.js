@@ -1,1 +1,1 @@
-var mnemonic = "craft genuine uniform walk mail assume cube ticket oppose forest rookie list";
+var mnemonic = "true cash detect web endorse rookie tomato region carbon stamp priority control";

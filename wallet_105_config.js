@@ -1,1 +1,1 @@
-var mnemonic = "imitate tail federal truth cluster turkey basket turkey sausage trust arm cross";
+var mnemonic = "stay hello obvious eight recycle prison join garment between total list town";

@@ -1,1 +1,1 @@
-var mnemonic = "upon oval rather devote chuckle pioneer online cover dismiss govern melt pair";
+var mnemonic = "seminar release vintage inflict carbon pumpkin usual punch senior item rebel combine";

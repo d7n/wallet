@@ -1,1 +1,1 @@
-var mnemonic = "aware weather over rain casino salmon plastic main shrimp lobster spawn silk";
+var mnemonic = "lumber version duty razor this deputy finish valley fox buddy breeze lens";

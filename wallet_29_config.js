@@ -1,1 +1,1 @@
-var mnemonic = "caught eternal dose slush duck angle cactus soon skirt method account pelican";
+var mnemonic = "zone square include inquiry dose wrap remember frame advice math social wealth";

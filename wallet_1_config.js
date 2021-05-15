@@ -1,1 +1,1 @@
-var mnemonic = "prize enhance puppy path radio inject sell bar bubble junior tilt lava";
+var mnemonic = "nephew require bounce glance olive mass motor fatal employ exotic return dial";

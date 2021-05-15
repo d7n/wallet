@@ -1,1 +1,1 @@
-var mnemonic = "resource absorb upset piece nut card bicycle foster merit antique trust when";
+var mnemonic = "motion kit primary swift mom blossom glare wrong animal safe discover bomb";

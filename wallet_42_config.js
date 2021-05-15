@@ -1,1 +1,1 @@
-var mnemonic = "auto smooth coin country retire range private random popular coyote echo mom";
+var mnemonic = "trip sketch glory tag panda fantasy oyster soldier wash finish else rapid";

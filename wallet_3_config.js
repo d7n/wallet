@@ -1,1 +1,1 @@
-var mnemonic = "physical gap shove tip furnace almost cram spoil movie wink rough bachelor";
+var mnemonic = "illness orange garment seek uphold forward foil gap want blame lake slim";

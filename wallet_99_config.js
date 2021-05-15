@@ -1,1 +1,1 @@
-var mnemonic = "toast oblige depend cactus solid code gauge sphere base update vote measure";
+var mnemonic = "what trophy yellow buyer post oyster return nose ship shoulder acquire fold";

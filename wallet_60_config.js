@@ -1,1 +1,1 @@
-var mnemonic = "tiger hen session north crop drum erase sport punch demise ocean sphere";
+var mnemonic = "eagle surface useless army feature duck diet desk journey armed type scan";

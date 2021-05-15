@@ -1,1 +1,1 @@
-var mnemonic = "access blast badge cactus bracket vanish glare spatial legal differ emerge negative";
+var mnemonic = "idea tool distance limit pitch verify tragic parent select win smile season";

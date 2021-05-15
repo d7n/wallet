@@ -1,1 +1,1 @@
-var mnemonic = "father life wasp science close oppose error mouse panic inspire pond fish";
+var mnemonic = "elephant fortune cargo flush broccoli fortune taste depart hamster buzz night post";

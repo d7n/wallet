@@ -1,1 +1,1 @@
-var mnemonic = "viable deny ahead alley fold blood shield field picnic sentence lunar frog";
+var mnemonic = "strategy put trumpet bird feature position milk prize depart pluck peasant surround";

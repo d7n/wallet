@@ -1,1 +1,1 @@
-var mnemonic = "happy bag clarify badge resemble autumn sadness fire toss network drive love";
+var mnemonic = "rescue material chicken siren category magic cloud short travel mimic swift twice";

@@ -1,1 +1,1 @@
-var mnemonic = "siren close retire antenna gold intact powder skirt peace segment like hole";
+var mnemonic = "afraid tool deliver benefit horn bone alert pool velvet member unveil slender";

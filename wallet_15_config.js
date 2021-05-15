@@ -1,1 +1,1 @@
-var mnemonic = "author rice burger robust key pipe magic canoe expand trust come jazz";
+var mnemonic = "method safe frequent today frozen hair usual version like lend wink master";

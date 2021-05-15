@@ -1,1 +1,1 @@
-var mnemonic = "extra shadow future silk dish proof note bacon trophy topple outside cannon";
+var mnemonic = "shop thing horn glance hold clap midnight excess agent want loyal tunnel";

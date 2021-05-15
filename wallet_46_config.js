@@ -1,1 +1,1 @@
-var mnemonic = "simple kiss duty churn mountain detail health medal among narrow moment verify";
+var mnemonic = "lobster hint pulse champion modify receive harvest nest pen weather scene drop";

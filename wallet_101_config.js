@@ -1,1 +1,1 @@
-var mnemonic = "army prison retire tray brick mushroom hybrid prize tree empty orange fame";
+var mnemonic = "slot decade damp real install egg raven error item much bone when";

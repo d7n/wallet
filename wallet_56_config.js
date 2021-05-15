@@ -1,1 +1,1 @@
-var mnemonic = "fall arch ice talent toast segment smoke stay nature foster panda code";
+var mnemonic = "still clock denial soup weird famous refuse promote train spider seven peasant";

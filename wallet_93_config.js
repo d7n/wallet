@@ -1,1 +1,1 @@
-var mnemonic = "clay couch chaos chase ready chimney hamster baby copy library nest whip";
+var mnemonic = "same spirit together exclude dizzy chest extra glare grocery issue annual begin";

@@ -1,1 +1,1 @@
-var mnemonic = "bid boss noodle confirm neglect dry bright rebuild sorry torch lava picnic";
+var mnemonic = "bid audit car sentence bike patient pigeon tourist echo rude shallow future";

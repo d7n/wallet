@@ -1,1 +1,1 @@
-var mnemonic = "gossip unveil quality carbon lend marriage vicious siege fence stadium feed panther";
+var mnemonic = "opera evil chunk ocean little pink sight detail actual illegal owner ocean";

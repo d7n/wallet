@@ -1,1 +1,1 @@
-var mnemonic = "cat shove letter flower boring legend casual moon midnight daughter kick domain";
+var mnemonic = "protect cost good secret improve task vast doll nominee sorry bacon balcony";

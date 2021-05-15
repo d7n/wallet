@@ -1,1 +1,1 @@
-var mnemonic = "female jungle gloom copper snap defy large museum able want coffee crouch";
+var mnemonic = "uphold lazy oil hover business sugar margin finger property gate sphere build";

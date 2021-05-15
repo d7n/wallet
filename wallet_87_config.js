@@ -1,1 +1,1 @@
-var mnemonic = "tag river general math found arrange tragic prevent win adapt above obtain";
+var mnemonic = "ozone imitate almost mountain shift boring oak similar spy flag crop effort";

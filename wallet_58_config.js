@@ -1,1 +1,1 @@
-var mnemonic = "include napkin merry scale bread danger north rain seven gold robot also";
+var mnemonic = "sure radar model indicate profit safe quality satoshi pony donkey client neither";

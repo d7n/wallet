@@ -1,1 +1,1 @@
-var mnemonic = "delay anchor ordinary during inquiry fashion depart eternal ring world pill improve";
+var mnemonic = "unaware ozone scheme weapon nuclear october noise tape chief wink ceiling toe";

@@ -1,1 +1,1 @@
-var mnemonic = "govern fault capital teach walnut nose sudden bubble question way rug robot";
+var mnemonic = "dragon able nephew sister mixture cry opinion fringe loyal symptom initial alarm";

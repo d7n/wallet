@@ -1,1 +1,1 @@
-var mnemonic = "kitchen brave label taste bone spatial utility tennis amazing actual virtual drip";
+var mnemonic = "agent neither mutual primary evidence resist cute monkey smart route curious alarm";
