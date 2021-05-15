@@ -1,1 +1,1 @@
-var mnemonic = "clever reject hazard aim inner enjoy chronic panda kiss mixed farm common";
+var mnemonic = "wise runway exhibit frozen before deposit atom seek amused absorb glimpse tent";

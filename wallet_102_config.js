@@ -1,1 +1,1 @@
-var mnemonic = "cousin dash lab camera lake retreat dilemma silk tomato magic review useless";
+var mnemonic = "lemon city frequent absent cereal fee razor opinion cushion potato rice uncle";

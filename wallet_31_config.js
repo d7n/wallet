@@ -1,1 +1,1 @@
-var mnemonic = "escape bicycle pen unfold execute radio among swarm crime crucial notice poem";
+var mnemonic = "hair together truth slow speed myself engage idle mandate bless position nature";

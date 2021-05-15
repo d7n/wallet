@@ -1,1 +1,1 @@
-var mnemonic = "giant axis flag job camera general amused warfare roof milk aim canvas";
+var mnemonic = "decade flight found cattle hole praise hybrid milk art quantum october pride";

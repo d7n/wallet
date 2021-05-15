@@ -1,1 +1,1 @@
-var mnemonic = "raccoon member before mansion empty hat veteran approve above city vendor crunch";
+var mnemonic = "thunder gather zero abuse spike such machine valley south unusual chunk maze";

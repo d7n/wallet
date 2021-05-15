@@ -1,1 +1,1 @@
-var mnemonic = "train museum mouse prefer else gaze pen verb lazy fancy panda board";
+var mnemonic = "fringe apology stand argue satoshi weather shoe safe make stamp prepare custom";

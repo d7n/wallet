@@ -1,1 +1,1 @@
-var mnemonic = "sudden print struggle nest broccoli lunch gorilla avoid broom shock flock video";
+var mnemonic = "raw toward idle sponsor garbage emerge pyramid social try kit phrase until";

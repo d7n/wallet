@@ -1,1 +1,1 @@
-var mnemonic = "embrace search peanut crane apology ghost wonder master grape flower kangaroo stage";
+var mnemonic = "plug asthma tumble guilt fetch exotic alone lava join decrease quote attract";

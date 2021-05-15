@@ -1,1 +1,1 @@
-var mnemonic = "fame run little goose turtle essence present shoot feed know sort visit";
+var mnemonic = "rose change tribe oxygen vague evoke asthma expand army lion tube weather";

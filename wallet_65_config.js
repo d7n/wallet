@@ -1,1 +1,1 @@
-var mnemonic = "satisfy erase lava omit erupt debate before snow company call wild menu";
+var mnemonic = "rare floor pilot banana estate fit fold opera endorse govern initial foil";

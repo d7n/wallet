@@ -1,1 +1,1 @@
-var mnemonic = "where slender pupil off embody youth divorce skill maid asthma civil country";
+var mnemonic = "sun sad health total banana deposit test release weasel boring between theory";

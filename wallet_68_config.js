@@ -1,1 +1,1 @@
-var mnemonic = "parrot spread afraid depend increase border injury dinosaur royal island prevent obscure";
+var mnemonic = "flavor chicken spice lab regret asset spike mesh blood random piece innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete lady amazing isolate fortune arch pilot clutch anchor tired turn carbon";
+var mnemonic = "example sausage stay relief best enhance inform require adjust staff alter cable";

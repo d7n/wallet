@@ -1,1 +1,1 @@
-var mnemonic = "circle crystal spider aim arena crack marriage cousin enjoy visa october sample";
+var mnemonic = "hair beef alley major girl eagle torch blur harsh nuclear inject slow";

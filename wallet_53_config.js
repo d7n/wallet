@@ -1,1 +1,1 @@
-var mnemonic = "state doll asthma can hole angry orphan road mad actor business vapor";
+var mnemonic = "subject visit wear under alien man maximum pen smile taxi glance deposit";

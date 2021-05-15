@@ -1,1 +1,1 @@
-var mnemonic = "hire slow harbor turkey churn scout excess leaf fish birth chaos staff";
+var mnemonic = "essence before tobacco top picnic pole nose gown exact security ripple gate";

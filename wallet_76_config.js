@@ -1,1 +1,1 @@
-var mnemonic = "twice cabin owner return ship stay two boost false legend seat vault";
+var mnemonic = "artwork north occur cereal apart retreat depth cotton window peasant street extra";

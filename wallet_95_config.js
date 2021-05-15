@@ -1,1 +1,1 @@
-var mnemonic = "put width punch shove wisdom flash two patient review denial energy paddle";
+var mnemonic = "father jeans false hazard entire same yellow vault sniff fiscal fantasy assume";

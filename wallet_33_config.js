@@ -1,1 +1,1 @@
-var mnemonic = "fee finish maximum iron address sport rigid ill ostrich gadget admit hunt";
+var mnemonic = "essence trial harbor stock private release voyage monkey age kangaroo fall hockey";

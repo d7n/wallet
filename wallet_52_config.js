@@ -1,1 +1,1 @@
-var mnemonic = "build under divorce crazy mushroom life either box guess under rely offer";
+var mnemonic = "inform title pudding prize intact thrive museum hamster three piece plastic bind";

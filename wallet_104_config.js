@@ -1,1 +1,1 @@
-var mnemonic = "jelly cube vanish borrow output voyage pilot shrug boat educate simple unknown";
+var mnemonic = "lesson earn lend manage hedgehog spare night waste grain slot hundred debate";

@@ -1,1 +1,1 @@
-var mnemonic = "educate object still confirm extend donor doll fluid monster shallow sample basket";
+var mnemonic = "holiday blanket one erupt daughter outer toss box course warrior remove song";

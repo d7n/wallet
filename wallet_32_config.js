@@ -1,1 +1,1 @@
-var mnemonic = "type broom ceiling ecology dilemma current leader faculty energy ozone version laugh";
+var mnemonic = "among repair armor mercy knife connect hundred peasant snake march onion family";

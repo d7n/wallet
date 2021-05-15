@@ -1,1 +1,1 @@
-var mnemonic = "stable bridge switch vivid like ride drop start turn prize slot december";
+var mnemonic = "near ensure midnight almost announce reject page purse wear cheap virtual purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor liquid group program desert vacuum grain modify vote hedgehog ocean captain";
+var mnemonic = "flush oil agree ripple theme brisk diesel curious pretty suit crystal useless";

@@ -1,1 +1,1 @@
-var mnemonic = "erode hazard federal can logic story bright marine talent exhaust film climb";
+var mnemonic = "describe fee slot extend relax hope shoot canoe kingdom walk eagle usual";

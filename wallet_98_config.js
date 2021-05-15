@@ -1,1 +1,1 @@
-var mnemonic = "dumb company casual laugh typical vehicle party crew crop essence naive wait";
+var mnemonic = "firm melody adjust answer metal icon clarify easy settle employ tobacco gadget";

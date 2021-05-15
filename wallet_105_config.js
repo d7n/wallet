@@ -1,1 +1,1 @@
-var mnemonic = "flower item protect capital glow immune wish unable wink bike bean velvet";
+var mnemonic = "crisp dice chat choose program slice assist pause atom just song purse";

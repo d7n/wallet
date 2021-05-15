@@ -1,1 +1,1 @@
-var mnemonic = "stumble make hurdle flavor roof coffee aware divert phrase oblige ignore cargo";
+var mnemonic = "wasp lava pepper actual soccer split kingdom mammal river adapt good food";

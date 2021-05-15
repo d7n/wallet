@@ -1,1 +1,1 @@
-var mnemonic = "kite gorilla check unaware pattern sand already hint venue truth limb another";
+var mnemonic = "infant gravity agree nature question hunt captain divorce arrive like chest amused";

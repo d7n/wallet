@@ -1,1 +1,1 @@
-var mnemonic = "order tuna derive chapter face coil next image gasp rate thumb island";
+var mnemonic = "zebra sphere insane sword desk lizard bread fabric viable fix pepper stairs";

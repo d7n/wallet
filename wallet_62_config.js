@@ -1,1 +1,1 @@
-var mnemonic = "segment eternal guilt tongue social hidden loan orient hamster ecology proof bomb";
+var mnemonic = "around lake castle base select tag bind nurse bring pretty meadow render";

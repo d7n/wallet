@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sweet dinosaur drama connect bomb alley stamp indicate unlock increase doll";
+var mnemonic = "blade rice subject better segment clarify tooth weekend void curious morning alter";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect food apple fall pool bulb cradle reason bless digital false also";
+var mnemonic = "accident fork custom sure celery climb lady worry army life poet wait";

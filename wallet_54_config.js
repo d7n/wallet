@@ -1,1 +1,1 @@
-var mnemonic = "tide side left try detail silk beef october spend later version horn";
+var mnemonic = "before hockey direct junior immense august leopard paper treat horse scrub rebel";

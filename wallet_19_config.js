@@ -1,1 +1,1 @@
-var mnemonic = "across bag unable direct shift desert scorpion proof bread grocery cement firm";
+var mnemonic = "match penalty rug slim scale knock away grief scorpion breeze donor gravity";

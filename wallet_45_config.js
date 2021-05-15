@@ -1,1 +1,1 @@
-var mnemonic = "erode dilemma chef creek treat three major bus index flush below drum";
+var mnemonic = "south hollow solar bubble brother gossip violin tired trim useless bulk fiscal";

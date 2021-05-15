@@ -1,1 +1,1 @@
-var mnemonic = "afraid duck credit south draw hood apology tiger hair method canvas marble";
+var mnemonic = "iron scrap economy check food film youth inform over song tongue lesson";

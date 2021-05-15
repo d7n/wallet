@@ -1,1 +1,1 @@
-var mnemonic = "radio flame art all rule shove away amazing reveal sun minimum find";
+var mnemonic = "junk above thrive system decrease broken brush flag party tumble share approve";

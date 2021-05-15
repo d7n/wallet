@@ -1,1 +1,1 @@
-var mnemonic = "piano bike maze enroll pole achieve broom swear mention dragon panda great";
+var mnemonic = "flavor clerk palace believe senior salon runway forest banner scrap search harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "must pull door cable monster uncle distance acid wedding render shock beach";
+var mnemonic = "bottom oblige copy sleep arrow diesel remove final novel elder giggle raccoon";

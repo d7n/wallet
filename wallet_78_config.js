@@ -1,1 +1,1 @@
-var mnemonic = "museum wrap token fog figure wild ramp knee bless frame sketch entry";
+var mnemonic = "elegant leave shine disagree imitate wedding capable slush reunion lens steel hockey";

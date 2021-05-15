@@ -1,1 +1,1 @@
-var mnemonic = "remain dog canoe program junior traffic choice genre furnace earn misery submit";
+var mnemonic = "vault sad avocado organ craft plate bounce job drastic neglect owner runway";

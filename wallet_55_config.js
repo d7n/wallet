@@ -1,1 +1,1 @@
-var mnemonic = "reduce box hurdle next helmet sock ten village gold pudding lonely promote";
+var mnemonic = "ecology foam person celery force caution blood verify session when mule charge";

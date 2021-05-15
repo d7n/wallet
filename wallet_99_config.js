@@ -1,1 +1,1 @@
-var mnemonic = "horse twin inquiry glue wood loyal there cake hover pill island emerge";
+var mnemonic = "acquire slide upon burst pass gesture hood empty dove magic delay doll";

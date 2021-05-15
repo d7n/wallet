@@ -1,1 +1,1 @@
-var mnemonic = "tattoo title consider multiply animal setup drill labor quality giggle front ripple";
+var mnemonic = "panic rookie draw flash curtain girl fancy what foam river level boring";

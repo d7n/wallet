@@ -1,1 +1,1 @@
-var mnemonic = "busy gloom jazz life start catch caught genuine opera market snake occur";
+var mnemonic = "purpose giraffe title climb suggest fiber weird defy just chalk gentle farm";

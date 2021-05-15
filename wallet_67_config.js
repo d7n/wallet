@@ -1,1 +1,1 @@
-var mnemonic = "science unfold buddy shaft blame warrior denial female clinic document ability void";
+var mnemonic = "venue hidden embody stone season switch loop success fresh banner offer oppose";

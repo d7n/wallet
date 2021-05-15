@@ -1,1 +1,1 @@
-var mnemonic = "connect hockey cash either stuff genius repeat churn mail force man garbage";
+var mnemonic = "icon toy erase level gasp pledge legend awful speak cross sure forum";

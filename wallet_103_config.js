@@ -1,1 +1,1 @@
-var mnemonic = "spread envelope waste artist delay index permit garbage illness galaxy hire length";
+var mnemonic = "april fence home code orient talent camp supreme neutral radar nut horror";

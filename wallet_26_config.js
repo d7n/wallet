@@ -1,1 +1,1 @@
-var mnemonic = "disorder song need security deputy fiber what ivory sail bean ripple crush";
+var mnemonic = "lumber love immense film gossip flight almost genre jewel naive winter under";

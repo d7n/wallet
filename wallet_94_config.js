@@ -1,1 +1,1 @@
-var mnemonic = "alley birth program ignore fabric target sorry brief script draw mention lift";
+var mnemonic = "chase stool puppy life depend fog load file collect recall defy robust";

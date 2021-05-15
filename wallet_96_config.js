@@ -1,1 +1,1 @@
-var mnemonic = "wear tone kingdom oil capable suffer cheese sign feature weasel two picnic";
+var mnemonic = "plunge whip pepper attract loop harbor moral record arrest improve maximum release";

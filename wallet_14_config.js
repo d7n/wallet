@@ -1,1 +1,1 @@
-var mnemonic = "sheriff skirt answer better holiday arena case wait unhappy cousin rose kind";
+var mnemonic = "butter napkin churn draft force belt radio peanut inspire bunker mirror rough";

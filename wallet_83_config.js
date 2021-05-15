@@ -1,1 +1,1 @@
-var mnemonic = "embark radio rebel ozone stadium solve kiss reject divide dwarf waste cushion";
+var mnemonic = "saddle deputy weapon perfect universe honey hidden window merge battle bonus bike";

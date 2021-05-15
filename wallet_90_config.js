@@ -1,1 +1,1 @@
-var mnemonic = "payment obvious shoulder velvet fee ill clarify upgrade leopard capable pioneer silly";
+var mnemonic = "vendor buffalo pitch chest put chief casino knee slice melt equal shell";

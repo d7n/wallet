@@ -1,1 +1,1 @@
-var mnemonic = "pigeon relief sign barely hurdle hub empower knee trap twin knife give";
+var mnemonic = "other speak filter fetch whisper final consider clog mixture country unable heart";

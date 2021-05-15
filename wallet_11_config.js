@@ -1,1 +1,1 @@
-var mnemonic = "end solid rival correct manual answer pioneer dinner identify pigeon result fame";
+var mnemonic = "miracle bag aim debris differ actor cheap defy extend annual spare burger";

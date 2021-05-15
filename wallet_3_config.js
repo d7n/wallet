@@ -1,1 +1,1 @@
-var mnemonic = "damage machine grant suffer evil random fish super roast alien wrong intact";
+var mnemonic = "assist price fiscal this cactus deer wool sunset volume ridge finger harsh";

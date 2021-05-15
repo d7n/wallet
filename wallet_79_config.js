@@ -1,1 +1,1 @@
-var mnemonic = "infant caution hungry what slice human sing famous update soda slow resemble";
+var mnemonic = "across fall decide draft close photo vote raise cliff oval forward choose";

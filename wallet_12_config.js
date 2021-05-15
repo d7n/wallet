@@ -1,1 +1,1 @@
-var mnemonic = "all prepare primary client spike slot duck mushroom address tortoise avoid tower";
+var mnemonic = "frown mask cradle problem jealous black still wreck save deposit like million";

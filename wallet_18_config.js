@@ -1,1 +1,1 @@
-var mnemonic = "begin feed then oblige original fringe snow blood budget real letter isolate";
+var mnemonic = "bread narrow wise sure friend parade wide cliff poem goat normal addict";

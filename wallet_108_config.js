@@ -1,1 +1,1 @@
-var mnemonic = "fold add bench meadow curve brain vibrant wrist gravity night enhance cruise";
+var mnemonic = "night whale surprise into timber corn junk artefact wreck nurse pitch put";

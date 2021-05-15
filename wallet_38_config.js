@@ -1,1 +1,1 @@
-var mnemonic = "dust deposit injury melody sign confirm napkin hair secret strong thought album";
+var mnemonic = "route hybrid dinosaur crunch tail tumble away engine fetch source novel valid";

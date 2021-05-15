@@ -1,1 +1,1 @@
-var mnemonic = "silent drink holiday damage track wheel witness swim excuse tape safe engage";
+var mnemonic = "maze road wedding eternal rate clever noodle gather mixed swarm family nuclear";

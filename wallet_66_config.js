@@ -1,1 +1,1 @@
-var mnemonic = "anxiety feature rack kit test vanish hundred rifle toilet thunder possible verb";
+var mnemonic = "earn kidney finger matter moral chunk case length settle truck zoo crime";

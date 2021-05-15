@@ -1,1 +1,1 @@
-var mnemonic = "breeze trap possible damp gas birth sorry bleak wisdom sponsor leopard fun";
+var mnemonic = "scrub allow wink short heart matrix vessel soldier receive obey poem lake";

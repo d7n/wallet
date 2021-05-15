@@ -1,1 +1,1 @@
-var mnemonic = "negative identify bicycle grief mutual wheat pulse there brass want express bind";
+var mnemonic = "slide asset dolphin net egg screen sun move lock elder exist birth";

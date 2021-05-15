@@ -1,1 +1,1 @@
-var mnemonic = "innocent only play assault term chapter what deputy window state language return";
+var mnemonic = "truth name all industry curtain surprise gold bottom print tuna same someone";

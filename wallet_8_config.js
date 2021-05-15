@@ -1,1 +1,1 @@
-var mnemonic = "letter margin giant million athlete learn omit cabbage cargo subject permit employ";
+var mnemonic = "language spirit gauge baby same winter elephant ceiling oxygen thrive gossip eyebrow";

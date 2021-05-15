@@ -1,1 +1,1 @@
-var mnemonic = "omit believe cheap resist hire upper then equip zero size can toe";
+var mnemonic = "need depend travel razor kingdom mutual process shoot airport apology hello together";

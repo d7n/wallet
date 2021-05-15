@@ -1,1 +1,1 @@
-var mnemonic = "favorite never apple clip salt invite tennis put later ivory head saddle";
+var mnemonic = "stadium guitar example luxury meadow tree infant beef head remember jealous climb";

@@ -1,1 +1,1 @@
-var mnemonic = "return goose thunder over alone soul street rib deal latin oyster lawsuit";
+var mnemonic = "web danger soap key oppose property spread scrub cart carry voice skin";

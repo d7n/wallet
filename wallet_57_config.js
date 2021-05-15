@@ -1,1 +1,1 @@
-var mnemonic = "enemy safe electric dizzy slab huge wreck best swap fossil mass purse";
+var mnemonic = "chair cart merit easily pledge wasp unveil ladder before property sight potato";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat initial sad moon movie neutral bulb earn win eternal detect legal";
+var mnemonic = "filter forum siege alarm emotion quit clay depend train news across awake";

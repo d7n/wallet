@@ -1,1 +1,1 @@
-var mnemonic = "master weekend chunk cute garden casual salt pen caught wrestle expose thunder";
+var mnemonic = "actress cook swarm absorb drop earth street fortune swallow rely sample blush";

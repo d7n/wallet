@@ -1,1 +1,1 @@
-var mnemonic = "tooth pair open meat fee nurse dance illegal green slush gasp great";
+var mnemonic = "enjoy clinic frequent this lecture figure hen goat surprise flock dizzy minute";

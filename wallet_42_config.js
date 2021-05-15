@@ -1,1 +1,1 @@
-var mnemonic = "uncle crash marine run execute other book margin afford shadow suit antique";
+var mnemonic = "syrup nut push desk gaze spoil trophy final alcohol shy pumpkin orphan";

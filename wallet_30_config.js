@@ -1,1 +1,1 @@
-var mnemonic = "gospel whip sort prevent toward palace return sniff sweet arrest transfer income";
+var mnemonic = "load knock like strong eagle shallow early novel rifle swift trick siege";

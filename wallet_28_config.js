@@ -1,1 +1,1 @@
-var mnemonic = "settle donor book plug junk supply knock tube cry gravity reason clerk";
+var mnemonic = "arctic hawk woman away chronic exact convince neglect army episode burden mouse";

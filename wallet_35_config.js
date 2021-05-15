@@ -1,1 +1,1 @@
-var mnemonic = "clay ostrich comfort gravity corn island never ostrich gas electric shy web";
+var mnemonic = "during lottery click negative reduce law stand genre toe smooth bundle endless";

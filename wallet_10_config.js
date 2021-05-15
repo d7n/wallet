@@ -1,1 +1,1 @@
-var mnemonic = "unhappy beach pool void pretty pill street apology maid mango urban pond";
+var mnemonic = "leaf train rib dragon decrease ketchup miss recall occur case present deny";

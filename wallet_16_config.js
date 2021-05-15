@@ -1,1 +1,1 @@
-var mnemonic = "cry modify predict emerge daring wisdom sheriff early lava fiscal area energy";
+var mnemonic = "ostrich vapor rubber resemble switch force figure item oven fluid trumpet ugly";

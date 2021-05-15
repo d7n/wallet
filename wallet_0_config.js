@@ -1,1 +1,1 @@
-var mnemonic = "bronze coconut over arrange since adjust orbit bounce live plate future dwarf";
+var mnemonic = "bone prefer box surprise topic hurt keen repeat jar intact picnic december";

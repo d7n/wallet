@@ -1,1 +1,1 @@
-var mnemonic = "oak method torch observe wave alpha burden pulse barely grass body already";
+var mnemonic = "elephant lumber shrimp rally print dilemma bracket response animal winter opera park";

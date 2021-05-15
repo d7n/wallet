@@ -1,1 +1,1 @@
-var mnemonic = "reform earth tribe crystal tuition immune robot spawn urban worry science siren";
+var mnemonic = "burden cupboard sport always notice unfair antenna connect afraid benefit raw resemble";

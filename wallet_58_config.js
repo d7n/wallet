@@ -1,1 +1,1 @@
-var mnemonic = "snow where vote car join special until radio exhibit syrup leader high";
+var mnemonic = "account famous clap cliff album magnet blanket energy despair thumb faculty live";

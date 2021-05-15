@@ -1,1 +1,1 @@
-var mnemonic = "fitness deal deny wheel cable vote devote rebel fox reward recipe space";
+var mnemonic = "cute around gospel cross crime response spirit chase skull flame crisp walnut";

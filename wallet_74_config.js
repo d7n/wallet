@@ -1,1 +1,1 @@
-var mnemonic = "garlic runway entry island cabbage amount genre excess media real science ship";
+var mnemonic = "bronze fly inflict select select first love art grab mansion detail nest";

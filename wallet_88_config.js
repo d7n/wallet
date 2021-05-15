@@ -1,1 +1,1 @@
-var mnemonic = "dice slender used narrow client best effort model ordinary empty write front";
+var mnemonic = "move sight pulp hole swing spoon cousin once link ugly auto monitor";

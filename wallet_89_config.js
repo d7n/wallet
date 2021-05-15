@@ -1,1 +1,1 @@
-var mnemonic = "foam vacant snow fever unfair flavor move exchange smile toy blast exercise";
+var mnemonic = "verb put emerge bargain pair drill grain ghost organ knock lens test";

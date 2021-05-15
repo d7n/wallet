@@ -1,1 +1,1 @@
-var mnemonic = "carry raw staff laundry brain force eagle demise sphere update final sure";
+var mnemonic = "make south print slam royal worth pulp large arrow gas program option";

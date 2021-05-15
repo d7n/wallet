@@ -1,1 +1,1 @@
-var mnemonic = "try orchard guilt stove crater large style lion green depend know arctic";
+var mnemonic = "parrot sock inflict security body margin alcohol fancy output venture hollow quick";

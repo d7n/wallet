@@ -1,1 +1,1 @@
-var mnemonic = "notable crush lucky jump usual identify become biology fat typical chair chair";
+var mnemonic = "entire weapon asset crew erupt permit defy disagree basket scorpion deputy document";
