@@ -1,1 +1,1 @@
-var mnemonic = "salmon luggage finish awake report fit combine lesson voice parent topic casual";
+var mnemonic = "sock ancient soldier depend sleep garbage swap vast spider fame symbol lizard";

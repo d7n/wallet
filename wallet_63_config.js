@@ -1,1 +1,1 @@
-var mnemonic = "deposit boring involve sweet ancient hurt wave bracket melt pizza fiscal mass";
+var mnemonic = "because spoil mention injury core exact tornado social tail tonight blame helmet";

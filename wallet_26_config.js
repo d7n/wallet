@@ -1,1 +1,1 @@
-var mnemonic = "owner sting nerve girl thunder general panel hand design cradle stuff tone";
+var mnemonic = "reveal cancel hill weapon ozone question obvious verify modify carry tide square";

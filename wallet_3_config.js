@@ -1,1 +1,1 @@
-var mnemonic = "raw soul uncover pride mercy also post version resemble trade brain pilot";
+var mnemonic = "simple garage describe sibling casino spawn wine nasty lucky language exact another";

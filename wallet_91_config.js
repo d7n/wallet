@@ -1,1 +1,1 @@
-var mnemonic = "gloom lend room blind vote nation between family absurd fitness sail noble";
+var mnemonic = "cake great phone legend also capital wear already alert again sad disagree";

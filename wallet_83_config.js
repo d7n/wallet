@@ -1,1 +1,1 @@
-var mnemonic = "walk illegal size receive little clock collect banana radio urban jealous siege";
+var mnemonic = "praise lottery nut cruel celery brief sphere step general sketch mutual dumb";

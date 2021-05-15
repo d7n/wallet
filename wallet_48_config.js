@@ -1,1 +1,1 @@
-var mnemonic = "kitchen lazy like display mechanic atom canoe special rug bounce short client";
+var mnemonic = "thunder gauge quarter gym gentle culture palace dice seek pony turkey dad";

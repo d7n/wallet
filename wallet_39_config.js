@@ -1,1 +1,1 @@
-var mnemonic = "panther trial era private absent clarify hold creek foster bubble camp runway";
+var mnemonic = "that better strike exile yellow home toilet diet laundry board skate online";

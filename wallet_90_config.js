@@ -1,1 +1,1 @@
-var mnemonic = "action again volume lock napkin judge tuna left frog rice crouch music";
+var mnemonic = "subject hover daring yellow east sponsor pencil donor push approve chest tone";

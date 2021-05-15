@@ -1,1 +1,1 @@
-var mnemonic = "jazz illness bridge bulb resemble foil roof bulk doctor doll rely opinion";
+var mnemonic = "bright season cotton exercise plastic regret series skill income rain cream flavor";

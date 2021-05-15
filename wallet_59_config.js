@@ -1,1 +1,1 @@
-var mnemonic = "glance dismiss alter chalk poet bundle furnace race doll horn vast purity";
+var mnemonic = "fresh chapter boy error always crystal insect say record bid viable rail";

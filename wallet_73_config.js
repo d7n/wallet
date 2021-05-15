@@ -1,1 +1,1 @@
-var mnemonic = "position spider photo endless lawn awesome minor theme inquiry napkin small cool";
+var mnemonic = "submit love island canal coach fabric wrist immense gospel price peasant math";

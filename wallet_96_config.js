@@ -1,1 +1,1 @@
-var mnemonic = "orient gap never industry broccoli test diet orient hammer observe rubber genre";
+var mnemonic = "champion page rack nephew section first rain inch endorse index daughter search";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace wise film aunt because hollow reform enemy method length supreme version";
+var mnemonic = "crowd solar jungle earn female vapor document marble about grain ancient veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "valid arrest reject injury below cram diagram glance dune tube arctic december";
+var mnemonic = "unhappy junk list tomorrow lunar crane curtain bronze buddy ocean patient soup";

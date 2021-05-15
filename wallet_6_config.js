@@ -1,1 +1,1 @@
-var mnemonic = "wedding disorder secret admit document erosion shell jealous manage tool helmet weather";
+var mnemonic = "lift surround observe clutch buddy much yellow task early ladder position nation";

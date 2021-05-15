@@ -1,1 +1,1 @@
-var mnemonic = "prosper stamp fancy false unaware kid sphere sister exchange team final write";
+var mnemonic = "conduct pyramid surge ginger asset mom they inherit tennis answer real type";

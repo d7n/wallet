@@ -1,1 +1,1 @@
-var mnemonic = "follow walnut gap mind bacon attitude bleak insect fault return omit monster";
+var mnemonic = "reduce mention try work another sail glide tongue stage video evolve cable";

@@ -1,1 +1,1 @@
-var mnemonic = "cement air soccer balance hawk globe struggle rail sauce market occur chapter";
+var mnemonic = "float case shell snack potato unlock popular canyon midnight style weapon leisure";

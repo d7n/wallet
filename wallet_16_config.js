@@ -1,1 +1,1 @@
-var mnemonic = "retire decline cereal reduce ring document inmate plate twice sentence dress baby";
+var mnemonic = "endless flavor age also target donkey total pulse potato unveil primary tip";

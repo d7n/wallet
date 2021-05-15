@@ -1,1 +1,1 @@
-var mnemonic = "pass run exclude quality private nothing allow entire blouse gasp desk climb";
+var mnemonic = "custom media address disease execute rude trend knife nurse language chalk dove";

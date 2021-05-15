@@ -1,1 +1,1 @@
-var mnemonic = "reduce sun coral scrub pear grass bacon verify ghost elephant wing assume";
+var mnemonic = "rapid snake car neutral state wrap garbage wisdom proud view churn thank";

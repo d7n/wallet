@@ -1,1 +1,1 @@
-var mnemonic = "person govern access margin bullet creek have shop simple rigid learn axis";
+var mnemonic = "faculty road tape gesture swear lemon mistake breeze scissors toast tonight mystery";

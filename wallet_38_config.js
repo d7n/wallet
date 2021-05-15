@@ -1,1 +1,1 @@
-var mnemonic = "dismiss lemon install depart release subject sheriff deal jump air soon affair";
+var mnemonic = "polar honey canoe film fiber risk trap sugar derive news chicken clinic";

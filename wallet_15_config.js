@@ -1,1 +1,1 @@
-var mnemonic = "more hair girl loyal include hope clay patient almost virtual bargain candy";
+var mnemonic = "flag napkin primary donate surprise sense stadium amount clump simple hunt pave";

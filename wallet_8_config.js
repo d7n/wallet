@@ -1,1 +1,1 @@
-var mnemonic = "mirror inform inject excuse busy rocket wrist window prepare follow size pattern";
+var mnemonic = "index hole east lucky vivid vicious patch behind exclude total clip marriage";

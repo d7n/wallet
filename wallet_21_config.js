@@ -1,1 +1,1 @@
-var mnemonic = "today chaos rescue address roof buyer festival pact rate sport tooth luggage";
+var mnemonic = "enforce scorpion letter gift magic faith common ankle horror dwarf valve tragic";

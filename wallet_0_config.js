@@ -1,1 +1,1 @@
-var mnemonic = "among file prevent rule hat winter calm oak poet category duty orphan";
+var mnemonic = "soda wish cream broccoli upon cinnamon file promote gesture bike present milk";

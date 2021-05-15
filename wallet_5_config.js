@@ -1,1 +1,1 @@
-var mnemonic = "verb urge victory endless tunnel snake lava envelope hammer iron pass raven";
+var mnemonic = "enough oxygen vault thank erosion neutral apple army trigger sustain scrub sting";

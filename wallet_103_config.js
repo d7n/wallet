@@ -1,1 +1,1 @@
-var mnemonic = "area affair point infant occur congress appear jewel explain fringe marble arch";
+var mnemonic = "shrug emotion wagon behave blouse wear top cook wrestle isolate evoke choice";

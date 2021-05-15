@@ -1,1 +1,1 @@
-var mnemonic = "wrong tone napkin peace margin attack flower trade beach truth blind various";
+var mnemonic = "asset boy artist core beach weather essence arrange pond refuse decrease relief";

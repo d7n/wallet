@@ -1,1 +1,1 @@
-var mnemonic = "zone couch notable accident betray injury bag today hospital opinion add else";
+var mnemonic = "year wrong decline holiday sample forward draw reduce orange risk useful friend";

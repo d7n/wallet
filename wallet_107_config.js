@@ -1,1 +1,1 @@
-var mnemonic = "young siren cup tent helmet unusual conduct tomorrow junior cherry cradle cluster";
+var mnemonic = "dwarf bicycle arch own card craft depth physical build cube fantasy error";

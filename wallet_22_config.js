@@ -1,1 +1,1 @@
-var mnemonic = "shine camera midnight pink meadow tooth path school pair frozen pet under";
+var mnemonic = "gym moral document range police symbol width limb wagon purpose arch long";

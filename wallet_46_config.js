@@ -1,1 +1,1 @@
-var mnemonic = "stand rubber helmet goose add clarify popular dinosaur trash nest tube moral";
+var mnemonic = "spike journey advice juice cliff hard salute wish regular obscure view web";

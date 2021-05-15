@@ -1,1 +1,1 @@
-var mnemonic = "arrive loop joke auto envelope topic concert donkey arctic turtle coach season";
+var mnemonic = "correct craft junior attitude tiger visa detail awful estate abuse space simple";

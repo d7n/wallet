@@ -1,1 +1,1 @@
-var mnemonic = "confirm crack walnut genre melt subject worry misery lab limit script exclude";
+var mnemonic = "scale rose try churn senior ability quick unusual hidden defy mandate around";

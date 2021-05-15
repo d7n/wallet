@@ -1,1 +1,1 @@
-var mnemonic = "lift rice cry write slush crazy jaguar end price bronze useful spare";
+var mnemonic = "divert hurdle quality organ fault eyebrow pencil ball angry spatial parade weapon";

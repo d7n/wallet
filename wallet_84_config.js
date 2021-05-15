@@ -1,1 +1,1 @@
-var mnemonic = "special gather mix flush agree tape quantum shallow ensure clever farm process";
+var mnemonic = "two turkey toe question tongue scale lab basket unable frog clutch flush";

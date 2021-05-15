@@ -1,1 +1,1 @@
-var mnemonic = "maple depart need eternal excite stand car roof enter solution weird cram";
+var mnemonic = "purity lobster pilot genius detail thrive foil next retreat wagon comic chest";

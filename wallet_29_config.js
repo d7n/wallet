@@ -1,1 +1,1 @@
-var mnemonic = "govern simple bleak trigger jungle plate twist galaxy apart wasp avocado mouse";
+var mnemonic = "essence april switch apology dolphin rude hidden total type picture bike ahead";

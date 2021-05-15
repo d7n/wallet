@@ -1,1 +1,1 @@
-var mnemonic = "fix uncle endless one cash reunion whip toss stick embody lake topple";
+var mnemonic = "thank phone tool steel traffic sure urge home theory matrix pave deal";

@@ -1,1 +1,1 @@
-var mnemonic = "modify daughter muffin scrub eight fitness later test actor grid fruit aware";
+var mnemonic = "wing submit snake dynamic coffee snack empower almost rough smart element violin";

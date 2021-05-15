@@ -1,1 +1,1 @@
-var mnemonic = "half pistol chunk robot flower leisure glove angle accuse liberty nose ankle";
+var mnemonic = "oval mushroom stuff velvet relax chronic tip warm juice note staff kitchen";

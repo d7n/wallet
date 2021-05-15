@@ -1,1 +1,1 @@
-var mnemonic = "team fringe shrimp okay render force spoon purse pact grace ice relief";
+var mnemonic = "embark earn vast legend upset punch clarify bike jeans long useless oyster";

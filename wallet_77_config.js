@@ -1,1 +1,1 @@
-var mnemonic = "island fiscal conduct rookie syrup fence reason nephew orphan card subject message";
+var mnemonic = "where dry cloth dinner arrow grain cook open various wire weekend senior";

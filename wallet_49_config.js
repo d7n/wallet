@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ordinary illness bonus kind borrow chapter like reflect bundle used any";
+var mnemonic = "fox build act camp catch donor surround rabbit foam poet hair loop";

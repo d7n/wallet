@@ -1,1 +1,1 @@
-var mnemonic = "angle inside bridge harsh alpha real shop mushroom elbow sunset phone bubble";
+var mnemonic = "soup elephant disorder permit giant one fragile carry dial cup shoulder shed";

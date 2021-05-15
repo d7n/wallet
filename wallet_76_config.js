@@ -1,1 +1,1 @@
-var mnemonic = "virtual board buzz fetch worry elevator attack diamond stable system holiday retreat";
+var mnemonic = "inch weather promote doctor guitar truck talk claw like belt retire marriage";

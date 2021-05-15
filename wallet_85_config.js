@@ -1,1 +1,1 @@
-var mnemonic = "deputy maple melody air size wrap melody outer response farm library catalog";
+var mnemonic = "country strong intact old either whisper object dumb velvet cheap either thank";

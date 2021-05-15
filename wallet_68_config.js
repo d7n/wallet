@@ -1,1 +1,1 @@
-var mnemonic = "ring harvest clarify express model february identify ensure produce jump purchase again";
+var mnemonic = "net horn prevent lift hidden evoke circle buzz begin leopard sound ride";

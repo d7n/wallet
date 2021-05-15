@@ -1,1 +1,1 @@
-var mnemonic = "expect suit path scan must license just bulb pledge grunt slot tragic";
+var mnemonic = "voice cloth icon settle satoshi toast easily wheat stem chase damage husband";

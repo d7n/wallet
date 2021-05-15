@@ -1,1 +1,1 @@
-var mnemonic = "alien income earn another enrich sport mobile slice carpet earth connect route";
+var mnemonic = "loyal great home cloud general stand biology egg measure autumn innocent track";

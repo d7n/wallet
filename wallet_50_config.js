@@ -1,1 +1,1 @@
-var mnemonic = "ocean tattoo cable ethics file room involve rib dinner major employ silver";
+var mnemonic = "acid bargain naive pigeon wild endorse color actor soda hazard leisure marriage";

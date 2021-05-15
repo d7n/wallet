@@ -1,1 +1,1 @@
-var mnemonic = "relief crunch toilet want property village spell ahead habit such lava fantasy";
+var mnemonic = "throw field offer autumn debris expose unit clutch monster pumpkin drip caught";

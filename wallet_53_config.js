@@ -1,1 +1,1 @@
-var mnemonic = "then sniff normal sell install ocean remain remind bitter screen envelope twin";
+var mnemonic = "urge vocal harsh plug essence section property flat gorilla welcome dance miracle";

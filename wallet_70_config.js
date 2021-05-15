@@ -1,1 +1,1 @@
-var mnemonic = "anchor blast sphere wear domain fold label smooth ozone lunar equip river";
+var mnemonic = "predict make visual recipe coach jacket valid oyster gauge dismiss case whisper";

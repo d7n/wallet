@@ -1,1 +1,1 @@
-var mnemonic = "light nest celery civil wool wood neither choose shoulder grow cheese attack";
+var mnemonic = "sort bar night hold canoe walnut detail pave love agent climb drum";

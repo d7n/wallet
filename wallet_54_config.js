@@ -1,1 +1,1 @@
-var mnemonic = "swing pass matrix attitude width decade spread stick luggage food ranch hover";
+var mnemonic = "system essence quiz soap sentence crawl anchor marriage oblige exhibit maid step";

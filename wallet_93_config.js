@@ -1,1 +1,1 @@
-var mnemonic = "again lawsuit love same must misery idle best fault civil carry country";
+var mnemonic = "final evidence flip tilt bleak result ginger real write goddess truth fine";

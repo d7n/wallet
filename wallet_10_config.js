@@ -1,1 +1,1 @@
-var mnemonic = "wasp host insect track lesson empower toilet member when miss riot unaware";
+var mnemonic = "battle spoon habit beach vivid engage relax remember emerge rescue twelve rapid";

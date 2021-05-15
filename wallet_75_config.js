@@ -1,1 +1,1 @@
-var mnemonic = "water mango divert paddle two anxiety window sport shock goose focus pave";
+var mnemonic = "anxiety tragic scout test answer tag census receive pair news fog rally";

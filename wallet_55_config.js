@@ -1,1 +1,1 @@
-var mnemonic = "air caught guitar news rack bone lesson round artist auction deliver equip";
+var mnemonic = "police custom pull talk this destroy essay inch question carpet smooth follow";

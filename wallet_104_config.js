@@ -1,1 +1,1 @@
-var mnemonic = "repair anchor person ugly mind open balcony purity next inspire awesome pepper";
+var mnemonic = "resource vehicle model host mean electric debris praise you humble cotton breeze";

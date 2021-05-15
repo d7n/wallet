@@ -1,1 +1,1 @@
-var mnemonic = "badge later pistol exhaust neutral address clown already sorry sand top chase";
+var mnemonic = "tree soccer report vocal tumble evil retreat recycle rain reform defy silent";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich exercise marriage exercise blind eye gossip elegant recipe language erode mixture";
+var mnemonic = "oak warrior crunch glow metal ahead area busy wreck evolve blanket best";

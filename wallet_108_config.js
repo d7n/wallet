@@ -1,1 +1,1 @@
-var mnemonic = "lawn juice misery picnic bamboo labor fiber two safe liberty toss cream";
+var mnemonic = "embark gain chuckle injury asthma strong reject length increase pattern educate away";

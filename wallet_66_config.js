@@ -1,1 +1,1 @@
-var mnemonic = "strategy crane ancient cave nurse armor day defy loop famous random rocket";
+var mnemonic = "invite glad jar pupil swing layer hedgehog drill large enact dog forum";

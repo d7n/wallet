@@ -1,1 +1,1 @@
-var mnemonic = "aisle access fatal woman success two lecture capable wagon skin road plate";
+var mnemonic = "lake follow romance fruit again season gun tired holiday hat sand wall";

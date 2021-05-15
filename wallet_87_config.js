@@ -1,1 +1,1 @@
-var mnemonic = "blade baby renew educate abstract barrel market solution raccoon giraffe chunk protect";
+var mnemonic = "smart settle logic collect kiwi pitch among leaf arctic kiwi student brand";

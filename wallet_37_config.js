@@ -1,1 +1,1 @@
-var mnemonic = "speak erode piano episode chicken master moon claw miracle girl sell unique";
+var mnemonic = "zoo crew excuse spray hill repeat gentle cereal burden goddess whisper solution";

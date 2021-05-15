@@ -1,1 +1,1 @@
-var mnemonic = "host label input rifle master duty clarify popular chimney stone razor voyage";
+var mnemonic = "balance tomorrow dad diamond educate supreme science blue destroy huge orange human";

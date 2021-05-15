@@ -1,1 +1,1 @@
-var mnemonic = "creek enter dignity spoon shaft own current soap industry car trash firm";
+var mnemonic = "family program broom rib similar wool wife jazz renew soldier myself monkey";

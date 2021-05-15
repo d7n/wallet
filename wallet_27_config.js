@@ -1,1 +1,1 @@
-var mnemonic = "diary pretty song pact rain avoid napkin buddy subject bid foam grief";
+var mnemonic = "beach antique defense memory upset below argue trust clever trap melody embody";

@@ -1,1 +1,1 @@
-var mnemonic = "estate drive damage select trip board learn hire sun female kid valve";
+var mnemonic = "emotion street have hunt glow manage beef tongue ability gorilla patient clerk";

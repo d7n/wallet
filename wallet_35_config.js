@@ -1,1 +1,1 @@
-var mnemonic = "wink ketchup narrow pulse health impulse other debate cart indoor kidney woman";
+var mnemonic = "celery kiwi diesel width note over ranch peasant nominee gospel toy myth";

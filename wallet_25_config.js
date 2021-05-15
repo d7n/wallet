@@ -1,1 +1,1 @@
-var mnemonic = "believe sketch busy snack surface wait derive broken solid swear organ share";
+var mnemonic = "ecology puppy peanut cry roof liar teach high vintage fancy aerobic unaware";

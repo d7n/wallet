@@ -1,1 +1,1 @@
-var mnemonic = "warrior welcome wait copper arrow trash sweet crime churn honey give black";
+var mnemonic = "dynamic canvas autumn dizzy expand student bulb they make melt patient glance";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur stand choose scrub ensure coffee friend possible muffin video avocado meadow";
+var mnemonic = "guilt lunch own recall crazy deputy snap trigger shrug wide flavor deal";

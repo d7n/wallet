@@ -1,1 +1,1 @@
-var mnemonic = "reason sunset duck unique stool daughter tiger soccer depth list canvas joy";
+var mnemonic = "diamond version business average they build adult offer brain account issue olive";

@@ -1,1 +1,1 @@
-var mnemonic = "omit arrest tone hungry address refuse friend differ motion hole shell physical";
+var mnemonic = "solid grant beyond profit prison conduct hobby tube rose equip like glad";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor country myth rubber blush tourist swap retire scheme mix vast nothing";
+var mnemonic = "wall surface flock flash embrace crucial square easily comic river soap know";

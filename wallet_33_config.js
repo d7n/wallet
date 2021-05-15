@@ -1,1 +1,1 @@
-var mnemonic = "mention dish when pottery cereal book argue chuckle autumn ordinary ready hello";
+var mnemonic = "damp vault soup frequent frequent dilemma typical slogan crush shaft soft apology";

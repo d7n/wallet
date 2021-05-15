@@ -1,1 +1,1 @@
-var mnemonic = "hidden open oak genuine prize novel fury burst spy mesh hurt staff";
+var mnemonic = "nasty culture search valid gallery crystal crowd wage dumb cannon kitten smile";

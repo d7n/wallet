@@ -1,1 +1,1 @@
-var mnemonic = "message patrol glue oven impose gossip keen oven kick differ detect immense";
+var mnemonic = "crew capital panel final gallery ensure royal balcony trend face jump end";

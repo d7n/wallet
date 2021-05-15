@@ -1,1 +1,1 @@
-var mnemonic = "problem trumpet search maple viable interest fragile choice rain awkward jungle wagon";
+var mnemonic = "wisdom change never uphold stuff rice hen believe embody film theory beach";

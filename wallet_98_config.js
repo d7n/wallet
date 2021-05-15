@@ -1,1 +1,1 @@
-var mnemonic = "kidney grain wheat aware mirror culture warfare cat surprise zone pair scrap";
+var mnemonic = "notable end tag place west curious leaf sunny found observe common stay";

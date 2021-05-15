@@ -1,1 +1,1 @@
-var mnemonic = "gate knock congress cereal stuff save knife nuclear version gossip rate speak";
+var mnemonic = "repeat return cheese indoor found upgrade found oven gather point abandon dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "device business air laundry vacuum panic proud industry pink super upon mobile";
+var mnemonic = "finish digital neglect maple hunt thumb subway put fish artwork attitude habit";
