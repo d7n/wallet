@@ -1,1 +1,1 @@
-var mnemonic = "ticket sweet genuine neglect canoe game rack give head inflict reduce road";
+var mnemonic = "month bulb dentist claw three olympic vicious protect spoon earth praise repeat";

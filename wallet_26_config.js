@@ -1,1 +1,1 @@
-var mnemonic = "immense arm artist rug pledge trend physical once lemon army employ blossom";
+var mnemonic = "century shadow humble aware eye illegal tuna shrimp dragon harvest away taxi";

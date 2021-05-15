@@ -1,1 +1,1 @@
-var mnemonic = "glimpse course nurse tube hood company common teach run logic sponsor lake";
+var mnemonic = "salmon lens shove they egg review awkward mansion consider normal local dune";

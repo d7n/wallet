@@ -1,1 +1,1 @@
-var mnemonic = "also ability disease equal coral change join fade first mix odor degree";
+var mnemonic = "mind large image mountain friend caught tragic imitate submit odor kiss color";

@@ -1,1 +1,1 @@
-var mnemonic = "year actual stage suit wrong figure maple document view buzz wood weird";
+var mnemonic = "desk flee fitness mule useful stool kind dress rare heart employ asset";

@@ -1,1 +1,1 @@
-var mnemonic = "era squeeze few task fee call mom raccoon life double field fox";
+var mnemonic = "loop eager access dignity era strategy tobacco lunar episode cargo plug gather";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy job palace off sustain century chunk label liar trigger divorce easily";
+var mnemonic = "about borrow wing cruel melt barely local festival noodle system cover bright";

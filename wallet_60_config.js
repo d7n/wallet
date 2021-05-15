@@ -1,1 +1,1 @@
-var mnemonic = "liquid chicken display peace unique airport aisle deny caught resist tank video";
+var mnemonic = "kingdom ghost choice idea few zebra unveil duck direct peace action torch";

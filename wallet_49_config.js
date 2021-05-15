@@ -1,1 +1,1 @@
-var mnemonic = "lizard vacuum shrug ship either someone ozone worry mansion toddler oppose unit";
+var mnemonic = "knee flush derive birth over rapid easily note sting notice bulb whisper";

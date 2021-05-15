@@ -1,1 +1,1 @@
-var mnemonic = "tennis raven scheme robot almost title pair fiction live tuition typical accuse";
+var mnemonic = "marriage girl use clock clog print march electric safe actress solve object";

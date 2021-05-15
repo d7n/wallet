@@ -1,1 +1,1 @@
-var mnemonic = "domain wife chief injury pear quality put owner train spirit crane defense";
+var mnemonic = "cross talk anchor ask kangaroo alter sing bird visit exile symptom sound";

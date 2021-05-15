@@ -1,1 +1,1 @@
-var mnemonic = "filter purity hill visual pet fitness chief economy core bounce tired act";
+var mnemonic = "tumble annual rail creek sunny raccoon labor theory wide cry extra speak";

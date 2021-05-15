@@ -1,1 +1,1 @@
-var mnemonic = "shield warrior near liquid robot judge eager donate huge drastic jazz world";
+var mnemonic = "quiz decide ten coin ring visa quick spirit hobby network saddle animal";

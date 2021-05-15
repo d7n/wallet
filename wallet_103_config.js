@@ -1,1 +1,1 @@
-var mnemonic = "setup element prepare mandate dry light convince census slab over fiction climb";
+var mnemonic = "labor excite ceiling cart movie sausage uncle siren fresh disagree wave piano";

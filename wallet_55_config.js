@@ -1,1 +1,1 @@
-var mnemonic = "prevent model frequent random execute immune rich pony extra camera bubble airport";
+var mnemonic = "cement erosion left tank mimic lunch web capital jeans tower lab control";

@@ -1,1 +1,1 @@
-var mnemonic = "energy sword lonely polar debris twelve sand jazz love olive sniff special";
+var mnemonic = "best crash timber quit size mushroom crop cousin gold audit solid replace";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug illness gossip friend chief pistol believe music swap limb rhythm plate";
+var mnemonic = "pudding rule edge fish hero silk echo exist liar library laugh address";

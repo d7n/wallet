@@ -1,1 +1,1 @@
-var mnemonic = "suffer bundle story away urge bargain welcome envelope people robot mistake educate";
+var mnemonic = "decade below enhance badge table motor sentence flavor educate lamp pear electric";

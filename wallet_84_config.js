@@ -1,1 +1,1 @@
-var mnemonic = "garment carpet much park spread split pudding kit pulse strong fee replace";
+var mnemonic = "width glow toe tourist chase despair spoil bike marine silent three tiger";

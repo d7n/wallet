@@ -1,1 +1,1 @@
-var mnemonic = "screen soldier mom pyramid hungry critic risk boost calm picnic siren gaze";
+var mnemonic = "benefit connect celery pigeon invite ready neck found receive release aunt argue";

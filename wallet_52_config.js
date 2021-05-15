@@ -1,1 +1,1 @@
-var mnemonic = "hazard script owner run noise person flash expect machine hood grunt almost";
+var mnemonic = "diary divorce margin hover sleep husband tired ridge spin emotion film ceiling";

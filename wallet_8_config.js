@@ -1,1 +1,1 @@
-var mnemonic = "space short walnut paddle champion wire brisk chunk april maid usual ten";
+var mnemonic = "resemble feature run exile razor improve depart fantasy always deny donor various";

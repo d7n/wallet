@@ -1,1 +1,1 @@
-var mnemonic = "bamboo miss pass minor brush program caught focus renew cause giggle broken";
+var mnemonic = "concert sport solar mixture grid year slush vessel sick gossip clarify lawsuit";

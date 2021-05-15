@@ -1,1 +1,1 @@
-var mnemonic = "glare garlic disorder hat coral ahead rival pretty pair mail dial cycle";
+var mnemonic = "camera sock install whisper curve night leisure lyrics game cost taxi rather";

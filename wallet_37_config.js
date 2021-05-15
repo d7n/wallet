@@ -1,1 +1,1 @@
-var mnemonic = "decorate drastic claim bachelor fat tornado hill robot twin decorate talent hurry";
+var mnemonic = "when deliver hurdle wing trade sting sunny grocery acquire dismiss feature stamp";

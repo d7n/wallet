@@ -1,1 +1,1 @@
-var mnemonic = "song dress minute situate asthma brief juice junior odor crime honey shrug";
+var mnemonic = "window toy empty hero plunge slow rack trap corn blame torch apology";

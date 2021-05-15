@@ -1,1 +1,1 @@
-var mnemonic = "gas tenant ghost rural labor warfare kiwi cable void brisk summer siege";
+var mnemonic = "silk lady opinion clarify latin grab nephew upper speed glow length muffin";

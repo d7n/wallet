@@ -1,1 +1,1 @@
-var mnemonic = "culture ripple gas stay science attack case cost bargain price gather doctor";
+var mnemonic = "enjoy liquid right goose under pistol original armor public spring move time";

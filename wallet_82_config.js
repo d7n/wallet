@@ -1,1 +1,1 @@
-var mnemonic = "claim crystal bachelor urban science cherry bomb flower public element found into";
+var mnemonic = "inch camera oil city bottom erosion aspect balcony aware dance order attack";

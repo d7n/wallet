@@ -1,1 +1,1 @@
-var mnemonic = "canvas edge fever age salon essay yellow eye gown giraffe guide margin";
+var mnemonic = "bone borrow tone vocal border glory total fury pill fashion bird song";

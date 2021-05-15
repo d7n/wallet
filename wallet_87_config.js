@@ -1,1 +1,1 @@
-var mnemonic = "early taste nice hungry dizzy drastic lunar equip creek uncle trick venue";
+var mnemonic = "oblige latin lemon gym tongue ostrich spoon vessel ten dial glory welcome";

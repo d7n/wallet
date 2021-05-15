@@ -1,1 +1,1 @@
-var mnemonic = "night silver echo civil vault steak radio whip afford exit soft name";
+var mnemonic = "decide vicious grain hurt rather okay cash million toilet burst movie label";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge master submit soft clock disorder aerobic ethics exchange possible lobster comfort";
+var mnemonic = "basic tower six stomach fall soon script prevent nation day pave demise";

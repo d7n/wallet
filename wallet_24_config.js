@@ -1,1 +1,1 @@
-var mnemonic = "embark frozen syrup elite tilt oppose rabbit document scatter ramp marble job";
+var mnemonic = "issue situate refuse film name travel ahead swear sight burden occur unusual";

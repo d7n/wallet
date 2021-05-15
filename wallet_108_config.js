@@ -1,1 +1,1 @@
-var mnemonic = "vintage aerobic amazing canyon face damp ribbon such again sugar claw error";
+var mnemonic = "bid obscure used clown lemon vendor vicious miracle artist later prosper impose";

@@ -1,1 +1,1 @@
-var mnemonic = "trick father useless doctor aisle mistake hospital rude spend two chalk viable";
+var mnemonic = "demise pool people over estate fragile now fringe patient define joke gallery";

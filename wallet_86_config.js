@@ -1,1 +1,1 @@
-var mnemonic = "control hamster club slight tiger fruit three gaze fragile stem term amazing";
+var mnemonic = "helmet manual window defense sort meadow fox lunch bench grief hamster certain";

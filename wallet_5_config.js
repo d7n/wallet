@@ -1,1 +1,1 @@
-var mnemonic = "target until buzz parrot october vessel acid endorse craft blossom attack weasel";
+var mnemonic = "radio gaze layer evolve naive happy initial else badge sun mammal bachelor";

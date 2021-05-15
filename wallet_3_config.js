@@ -1,1 +1,1 @@
-var mnemonic = "flower elite detail useless rib yard evolve scrap random large off legal";
+var mnemonic = "search print point acid banner midnight exchange pigeon hood decline oak whisper";

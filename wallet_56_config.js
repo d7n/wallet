@@ -1,1 +1,1 @@
-var mnemonic = "dose benefit lunar stay rail task whip vendor crystal wolf wage regret";
+var mnemonic = "laugh diagram galaxy rail depart goddess desk tone frame ski industry lumber";

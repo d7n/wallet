@@ -1,1 +1,1 @@
-var mnemonic = "alpha weapon scatter penalty duty jeans reveal phone tired gun fee oval";
+var mnemonic = "olive street sphere pride settle crop piece cement unit space mixture ribbon";

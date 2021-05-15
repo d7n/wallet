@@ -1,1 +1,1 @@
-var mnemonic = "swear into fan monitor wet adjust ketchup essay tiny lend recipe orbit";
+var mnemonic = "page before menu dash diagram coast crush stable pistol oxygen monkey stereo";

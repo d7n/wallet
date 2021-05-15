@@ -1,1 +1,1 @@
-var mnemonic = "echo foam kitten topple glad pipe reject fall car people lizard digital";
+var mnemonic = "spatial flock brand else time tent muscle about nominee art journey pig";

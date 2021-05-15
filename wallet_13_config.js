@@ -1,1 +1,1 @@
-var mnemonic = "tuna trust horn force mirror embody february panther can cause upper upset";
+var mnemonic = "enter ability fashion canal swap promote eager bird govern bulb moon lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge thrive leaf thank utility subject guess embrace smart midnight stairs symptom";
+var mnemonic = "door dinner jungle giraffe actual novel praise guitar muscle stomach portion diagram";

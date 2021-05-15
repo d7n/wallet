@@ -1,1 +1,1 @@
-var mnemonic = "skill crumble blur virus accident group blouse city jeans defy critic radar";
+var mnemonic = "vital tattoo extra exotic knee gauge prepare crucial nuclear clarify wagon creek";

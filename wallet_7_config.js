@@ -1,1 +1,1 @@
-var mnemonic = "universe goddess dynamic right prize cherry salon angry afraid jacket slot all";
+var mnemonic = "motion aisle cry stairs hybrid twenty ball transfer dolphin visa butter ticket";

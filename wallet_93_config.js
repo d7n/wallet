@@ -1,1 +1,1 @@
-var mnemonic = "unfair tomato runway insane glad very myself cave alter sniff real curious";
+var mnemonic = "burden goddess story auto bird mother truth tomato rifle loop scale super";

@@ -1,1 +1,1 @@
-var mnemonic = "caution equal logic steak bunker hat wash wrong lab same horror few";
+var mnemonic = "person buyer start invest foster story certain transfer pole pet pill left";

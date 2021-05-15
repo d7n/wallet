@@ -1,1 +1,1 @@
-var mnemonic = "caught settle casino lion price legend adapt ordinary scheme ring language aspect";
+var mnemonic = "crush power window power stuff ensure ship voice scale flash impact boost";

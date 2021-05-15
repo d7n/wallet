@@ -1,1 +1,1 @@
-var mnemonic = "argue aspect detect erosion eternal man vacant cattle feature visit rack rack";
+var mnemonic = "leave violin paddle distance crawl tackle fire destroy alien vocal dynamic build";

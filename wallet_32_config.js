@@ -1,1 +1,1 @@
-var mnemonic = "bomb squirrel adjust age arrest eye address ghost lawn vacuum venue wheat";
+var mnemonic = "turkey wisdom cradle trade toward shove glove snake shuffle october length debate";

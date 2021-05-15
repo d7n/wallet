@@ -1,1 +1,1 @@
-var mnemonic = "fashion depend veteran result wrap entire chunk keen blur flag design focus";
+var mnemonic = "journey chicken super excess rival adjust nephew stock today device sorry demand";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid sound stage sure soap few comic dragon kick lyrics welcome fatigue";
+var mnemonic = "tomato tuna bacon whale rose kick sign year often vacant urban deal";

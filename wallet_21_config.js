@@ -1,1 +1,1 @@
-var mnemonic = "tired sunset belt panther bamboo ticket loan ladder liar brown inquiry left";
+var mnemonic = "swing board devote pipe safe abuse thunder jar seven enjoy treat tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot option regular chalk giant pigeon lunar cinnamon sudden twice brave toddler";
+var mnemonic = "eagle tragic below float umbrella order penalty oval unaware midnight hire wide";

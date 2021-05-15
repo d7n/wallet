@@ -1,1 +1,1 @@
-var mnemonic = "peasant army recall announce nothing bright art gown air critic brass endorse";
+var mnemonic = "pyramid increase hole clerk salmon virus magic jelly middle canvas meadow fresh";

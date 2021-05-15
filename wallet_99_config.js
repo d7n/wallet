@@ -1,1 +1,1 @@
-var mnemonic = "damp spirit fluid delay improve infant spin original company radio bright cheap";
+var mnemonic = "machine atom motor address upon gain fatal fantasy infant client slow sound";

@@ -1,1 +1,1 @@
-var mnemonic = "below grunt teach wash best hamster fabric erase reason fold girl tongue";
+var mnemonic = "tenant trophy tag question alert icon despair table wear peace express air";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion food artist letter profit inmate curve vague race knife recall uniform";
+var mnemonic = "panda super vendor friend mother canal find trend what quick glass antenna";

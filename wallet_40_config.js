@@ -1,1 +1,1 @@
-var mnemonic = "bar key run almost dust sauce double fuel panther slush lazy mystery";
+var mnemonic = "afraid write unit tattoo simple bless pool sudden finger require shaft disorder";

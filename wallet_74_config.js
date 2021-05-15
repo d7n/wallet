@@ -1,1 +1,1 @@
-var mnemonic = "asset ivory joke radio report biology trumpet mercy pottery assume inspire casual";
+var mnemonic = "cross shock cry dose grit assault clerk human about average awesome receive";

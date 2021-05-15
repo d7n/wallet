@@ -1,1 +1,1 @@
-var mnemonic = "someone paper suit distance tribe bleak level rent wrong protect genius fortune";
+var mnemonic = "alien attract poet horn buzz program hobby never girl check genuine horse";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol prepare quick helmet force open canvas summer razor hammer brain grape";
+var mnemonic = "gate sign announce solar decide fold fury tumble faith taste click latin";

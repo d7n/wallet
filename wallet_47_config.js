@@ -1,1 +1,1 @@
-var mnemonic = "rookie promote enlist select throw minute fabric essence little advice jazz error";
+var mnemonic = "parent panic torch near canyon crisp knock parade hold desert wagon rotate";

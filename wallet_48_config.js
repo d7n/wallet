@@ -1,1 +1,1 @@
-var mnemonic = "zoo shove yard fetch seminar future amazing eyebrow seat crowd tomato tragic";
+var mnemonic = "firm goose seven illegal case blur laundry airport decade decrease pyramid student";

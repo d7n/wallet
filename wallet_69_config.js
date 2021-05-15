@@ -1,1 +1,1 @@
-var mnemonic = "six spend giggle inflict kind age urban beach shield lecture tower file";
+var mnemonic = "focus maximum world jewel weekend merge punch area amount rocket amused joke";

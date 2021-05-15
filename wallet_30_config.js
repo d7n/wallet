@@ -1,1 +1,1 @@
-var mnemonic = "dad only flame account banana fork entry turkey frequent nature hunt rigid";
+var mnemonic = "universe license alter library retreat elephant alone cute imitate west deer person";

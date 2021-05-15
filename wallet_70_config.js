@@ -1,1 +1,1 @@
-var mnemonic = "upon voice vote load fat suffer vibrant main disagree excuse under life";
+var mnemonic = "audit nominee day lesson ready cruel dragon merit abandon brother surround hint";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket audit direct arrive acoustic three assume kick inflict laugh ready filter";
+var mnemonic = "dress kitchen blur tunnel sweet tonight bracket orchard fresh close talent fantasy";

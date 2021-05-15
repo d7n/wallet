@@ -1,1 +1,1 @@
-var mnemonic = "fringe example glimpse paper tip gossip spray record solar brown review belt";
+var mnemonic = "tilt start dilemma test simple spice outer bundle poverty divert stable genius";

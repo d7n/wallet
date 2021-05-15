@@ -1,1 +1,1 @@
-var mnemonic = "nothing still arrow bus general already comic velvet dentist agree wine wolf";
+var mnemonic = "harbor sun window lecture pluck vacuum behave wrong gentle clog slim fee";

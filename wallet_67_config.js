@@ -1,1 +1,1 @@
-var mnemonic = "small innocent wheat galaxy empower festival dolphin claw lake town fall empty";
+var mnemonic = "whip ice ability snack inmate strike arctic scrap rare struggle toddler shiver";

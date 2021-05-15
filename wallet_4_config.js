@@ -1,1 +1,1 @@
-var mnemonic = "rice tray butter agent transfer throw clever narrow promote volume swear pole";
+var mnemonic = "throw bronze pledge park cabin tragic snake upper minimum moment open roast";

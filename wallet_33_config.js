@@ -1,1 +1,1 @@
-var mnemonic = "rigid blame visa shiver such remind around trophy whip atom assault notice";
+var mnemonic = "frown brother enrich congress popular chaos unit venture suffer swim senior label";

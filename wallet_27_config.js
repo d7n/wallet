@@ -1,1 +1,1 @@
-var mnemonic = "clarify family taxi ask extend jeans tornado rebuild ring away stool web";
+var mnemonic = "faint daughter film skate zoo crush erase photo hungry always execute leader";

@@ -1,1 +1,1 @@
-var mnemonic = "sell parade crawl milk toast guitar mixture throw rotate shallow stairs tide";
+var mnemonic = "quiz funny sniff gauge success school process hobby shoe slush scrap pride";

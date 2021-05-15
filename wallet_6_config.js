@@ -1,1 +1,1 @@
-var mnemonic = "relax distance hockey hedgehog can drip guard north addict when fringe blouse";
+var mnemonic = "staff auction gadget click diesel baby mind page turn search rack disease";

@@ -1,1 +1,1 @@
-var mnemonic = "void useless field learn miss van ride family leopard seat fix govern";
+var mnemonic = "detect book cabbage salute scene shell own fluid topic inflict chunk blame";

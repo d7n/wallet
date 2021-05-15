@@ -1,1 +1,1 @@
-var mnemonic = "hour clump history baby shuffle claim gadget little frequent ticket lend kiwi";
+var mnemonic = "art noodle organ rent critic impact spoil prize neck weekend oven festival";

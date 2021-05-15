@@ -1,1 +1,1 @@
-var mnemonic = "library outdoor leg exercise east enlist glare choice village cry mix carry";
+var mnemonic = "pond priority outside push twist soda swear laundry equal code capital square";

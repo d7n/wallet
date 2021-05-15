@@ -1,1 +1,1 @@
-var mnemonic = "net purchase fantasy baby toilet wife lounge absent burger ramp hammer enroll";
+var mnemonic = "suit next inner pizza blade claw ketchup speed strong seven ship identify";

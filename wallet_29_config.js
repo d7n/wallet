@@ -1,1 +1,1 @@
-var mnemonic = "climb minute bring shallow verb account jazz blue panic leave exclude wealth";
+var mnemonic = "off flat worth oppose excess sail goose garment judge another express pony";

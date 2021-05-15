@@ -1,1 +1,1 @@
-var mnemonic = "solve bid fragile penalty steel violin page stage olive guitar bar sight";
+var mnemonic = "diesel type host spread river memory daring kidney same produce kick hen";

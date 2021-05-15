@@ -1,1 +1,1 @@
-var mnemonic = "fork jelly tunnel area penalty payment scan together blame suit make venture";
+var mnemonic = "lecture sunny fame east dance setup outer pilot beef arrange yard october";

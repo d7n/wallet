@@ -1,1 +1,1 @@
-var mnemonic = "scene bounce bullet reject devote clog hedgehog pipe explain cute vital speak";
+var mnemonic = "entire recycle left pyramid scissors monitor lazy predict nephew lazy jelly door";

@@ -1,1 +1,1 @@
-var mnemonic = "remind also air pause thunder submit attitude fade gold phone umbrella call";
+var mnemonic = "arctic duty insane plunge comfort chuckle dog elbow recipe planet chalk brush";

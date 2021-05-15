@@ -1,1 +1,1 @@
-var mnemonic = "ahead journey help dynamic off law pioneer detail together whisper oxygen vocal";
+var mnemonic = "inquiry volcano royal athlete simple fluid shove alter identify auto junk broom";

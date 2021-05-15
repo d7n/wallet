@@ -1,1 +1,1 @@
-var mnemonic = "mouse reunion inspire quality awesome protect silent treat proof cabbage artist talent";
+var mnemonic = "exotic supply brick kite claw belt clerk file yard truth cattle dilemma";

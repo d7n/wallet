@@ -1,1 +1,1 @@
-var mnemonic = "roof quote raise shove huge display resource armor able visa person manage";
+var mnemonic = "outdoor review announce remove ahead used dinner wrap garage detail grant mouse";

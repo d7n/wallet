@@ -1,1 +1,1 @@
-var mnemonic = "swift affair amazing able unit album cream hundred runway put ugly poverty";
+var mnemonic = "scrub spoon indicate trophy distance chicken brisk animal maid cheap dumb vast";

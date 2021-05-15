@@ -1,1 +1,1 @@
-var mnemonic = "six merge napkin daughter bus jealous web alley blast link olympic cross";
+var mnemonic = "cream cover bind unaware smoke trip tail kitchen leisure defy relax sick";

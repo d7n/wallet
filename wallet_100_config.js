@@ -1,1 +1,1 @@
-var mnemonic = "series spend typical one man hover bacon source subject blood shop dynamic";
+var mnemonic = "ramp exclude mask jelly excess during speak aim pride promote equip relax";

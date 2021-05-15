@@ -1,1 +1,1 @@
-var mnemonic = "suit random midnight easy bundle awkward tape advice sausage steak violin amount";
+var mnemonic = "inspire endless ankle someone region tooth away step wash orchard foot rival";

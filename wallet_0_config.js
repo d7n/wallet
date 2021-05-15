@@ -1,1 +1,1 @@
-var mnemonic = "possible that code limit ticket minimum chapter theory liar fruit patrol salad";
+var mnemonic = "position garage energy coyote giraffe fire endorse pumpkin flip autumn broom practice";
