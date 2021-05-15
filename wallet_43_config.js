@@ -1,1 +1,1 @@
-var mnemonic = "sample lamp damp retire canoe eyebrow track gun mansion shaft grocery ask";
+var mnemonic = "group popular fall agree that deputy shuffle true people practice tumble park";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch sausage kick fire flight sunset method climb spot source play scout";
+var mnemonic = "screen hybrid wall duck sentence retire bullet glove ask gate dilemma fit";

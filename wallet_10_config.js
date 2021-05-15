@@ -1,1 +1,1 @@
-var mnemonic = "derive humble amount hen orchard slogan super elder tongue alert maximum rice";
+var mnemonic = "woman either nation green scheme damage fruit sand lazy cloth define injury";

@@ -1,1 +1,1 @@
-var mnemonic = "trade agent enroll cupboard mean okay dawn cost immune drum leaf pattern";
+var mnemonic = "negative myself daughter segment fresh rocket cross trip fit awesome romance toddler";

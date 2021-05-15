@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur problem elder raise brick raw host decrease legal logic slight ugly";
+var mnemonic = "kidney mango require state dog sand pitch shine thing alley huge approve";

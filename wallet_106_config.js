@@ -1,1 +1,1 @@
-var mnemonic = "clip october sponsor club panda member goddess grid nation tent large math";
+var mnemonic = "soap own blade solar skull consider repeat master depth welcome desk flame";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion disease picnic abandon tool wonder era erosion series match spatial juice";
+var mnemonic = "flee curtain dragon giggle sentence expand kitchen magic honey luggage convince fog";

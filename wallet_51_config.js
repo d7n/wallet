@@ -1,1 +1,1 @@
-var mnemonic = "gym hurdle brain ocean mesh punch custom index glare tenant truly trust";
+var mnemonic = "index critic clock case spread much barrel pigeon wool erase weapon spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "language slow rely seven engage unfold update exhibit sheriff foster urge drum";
+var mnemonic = "powder shaft title point endless again hill flock twenty aunt year ritual";

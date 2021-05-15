@@ -1,1 +1,1 @@
-var mnemonic = "soon also jungle pony asthma recall silver torch atom laugh giggle gasp";
+var mnemonic = "dice still help spare august garlic token flame own satoshi plastic hammer";

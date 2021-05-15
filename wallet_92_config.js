@@ -1,1 +1,1 @@
-var mnemonic = "trumpet beach slab any sport load horror kidney obvious clutch silly jar";
+var mnemonic = "toward ramp tilt critic timber zone lounge acid mad deal captain access";

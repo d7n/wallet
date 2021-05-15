@@ -1,1 +1,1 @@
-var mnemonic = "current ecology vital lock rice flag check victory long spare silly monster";
+var mnemonic = "salmon skull crystal deposit throw pond canal success luxury once swing rain";

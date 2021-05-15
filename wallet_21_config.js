@@ -1,1 +1,1 @@
-var mnemonic = "step melody mouse size know mystery quarter marble army ordinary discover evolve";
+var mnemonic = "absurd journey melt park chicken comfort pitch unveil you valid unfold sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "base elephant auto van foster little cream wool asset typical struggle nation";
+var mnemonic = "submit luggage patch visit athlete elevator nurse school kitchen festival desk base";

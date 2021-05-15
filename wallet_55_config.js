@@ -1,1 +1,1 @@
-var mnemonic = "unhappy conduct round cry steak broom define wolf sentence shell floor hotel";
+var mnemonic = "finish token shuffle gauge lunch plug build awful marine rare toe ride";

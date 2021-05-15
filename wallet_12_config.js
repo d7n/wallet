@@ -1,1 +1,1 @@
-var mnemonic = "meat piano roast abuse hope simple noodle female adjust girl festival loyal";
+var mnemonic = "civil cute flock olympic upon talent invite battle lottery cruel tomorrow damp";

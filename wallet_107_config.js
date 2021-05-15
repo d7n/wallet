@@ -1,1 +1,1 @@
-var mnemonic = "auto similar deposit expect orbit desk turtle promote couple session brush anger";
+var mnemonic = "couch mutual top twice ready sail hat author confirm swing coyote spell";

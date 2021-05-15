@@ -1,1 +1,1 @@
-var mnemonic = "hundred build curve cruise kick zone raven robot order legal weasel donkey";
+var mnemonic = "pave link sock spider youth apology inform price blanket flower fiction actual";

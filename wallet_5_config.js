@@ -1,1 +1,1 @@
-var mnemonic = "mobile elite kangaroo tip lift biology bullet coach pupil hope silk year";
+var mnemonic = "theory wagon rely govern change drive glow stock all alien wagon enemy";

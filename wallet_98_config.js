@@ -1,1 +1,1 @@
-var mnemonic = "teach canvas belt travel allow window market young cruise hood rate badge";
+var mnemonic = "lyrics gate rice delay twice prison service sentence salt blood panda penalty";

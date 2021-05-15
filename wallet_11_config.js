@@ -1,1 +1,1 @@
-var mnemonic = "decorate bitter scout moon blame game portion more search cluster call essence";
+var mnemonic = "arrow much equip kite wasp hover hammer girl frost charge honey appear";

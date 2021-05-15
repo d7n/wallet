@@ -1,1 +1,1 @@
-var mnemonic = "speak share gasp pitch prepare crash solution rough script mango unlock boost";
+var mnemonic = "daughter bid illegal slot exhaust arrow mention connect client water govern unable";

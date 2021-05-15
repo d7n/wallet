@@ -1,1 +1,1 @@
-var mnemonic = "risk fault inside spy concert slush oak inform alcohol grit control slot";
+var mnemonic = "public question advice swing endless system flat novel august copy follow sick";

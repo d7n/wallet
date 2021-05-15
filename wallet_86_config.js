@@ -1,1 +1,1 @@
-var mnemonic = "pill exhibit bird field better such clip assist amazing point boost intact";
+var mnemonic = "board section skirt wage moral lion seven father deer jar conduct ginger";

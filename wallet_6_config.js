@@ -1,1 +1,1 @@
-var mnemonic = "rebel ten repeat estate snack cat balance margin chat blanket stereo argue";
+var mnemonic = "brief cart bundle transfer west foster cradle keep moon merry unlock figure";

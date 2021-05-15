@@ -1,1 +1,1 @@
-var mnemonic = "material shoe execute spell resemble hobby solve switch armor inhale thought capable";
+var mnemonic = "cupboard adult van bean harvest ahead burst degree dawn inhale desert client";

@@ -1,1 +1,1 @@
-var mnemonic = "guide major push useless health carpet loan benefit whale embody airport hair";
+var mnemonic = "battle churn custom smile upon tuition food feed thumb lecture fold best";

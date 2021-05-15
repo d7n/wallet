@@ -1,1 +1,1 @@
-var mnemonic = "rain injury kidney attitude suffer coconut blast behind attack stand slam donor";
+var mnemonic = "weather grief milk increase garbage two crisp treat fit credit pink garment";

@@ -1,1 +1,1 @@
-var mnemonic = "corn learn patient shrimp learn exotic pyramid focus unable meat fantasy under";
+var mnemonic = "gate point income nerve tuition soda front laugh sand dash divide find";

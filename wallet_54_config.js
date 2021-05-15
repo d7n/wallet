@@ -1,1 +1,1 @@
-var mnemonic = "tattoo sausage display tonight genuine impose uncover second amazing pepper dinosaur share";
+var mnemonic = "become become celery kiwi office situate inflict fragile history trophy install outer";

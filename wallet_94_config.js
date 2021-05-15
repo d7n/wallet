@@ -1,1 +1,1 @@
-var mnemonic = "accuse frost tattoo next alter avocado radar spoil arrive grace wrap echo";
+var mnemonic = "analyst what achieve tape hobby turn crunch recycle galaxy scrub tumble valve";

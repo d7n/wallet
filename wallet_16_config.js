@@ -1,1 +1,1 @@
-var mnemonic = "elevator observe glide burger anchor unit net suffer elder venue ritual vast";
+var mnemonic = "ribbon frequent shine trend razor forget soda charge either impulse theory grid";

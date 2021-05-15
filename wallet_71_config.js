@@ -1,1 +1,1 @@
-var mnemonic = "road ride thunder power author health bus witness bonus simple pond detail";
+var mnemonic = "pencil vehicle tumble cake account window airport snack panic marine reason must";

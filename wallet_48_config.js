@@ -1,1 +1,1 @@
-var mnemonic = "village mountain below sausage fringe claw rubber mammal accuse reform smoke chunk";
+var mnemonic = "autumn exile kitchen found hold divert prosper dragon pottery sure expand refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "surge entry orchard arrive output twelve ugly any food middle praise best";
+var mnemonic = "cupboard shell bacon canvas balcony measure inch fence size damp iron evil";

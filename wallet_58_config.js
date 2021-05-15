@@ -1,1 +1,1 @@
-var mnemonic = "visa actual alarm ship atom believe consider marriage toast funny tribe fine";
+var mnemonic = "grain fat right nasty month harsh duty awake shed exit estate add";

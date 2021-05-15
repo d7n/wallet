@@ -1,1 +1,1 @@
-var mnemonic = "tide stable unique wait profit alert situate steel legend decade battle vague";
+var mnemonic = "pitch stomach trigger silent hope lizard inform speak idle dice upgrade duty";

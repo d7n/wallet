@@ -1,1 +1,1 @@
-var mnemonic = "minimum seminar umbrella load act hat brain skill audit high tomato worth";
+var mnemonic = "kangaroo put busy job thing toss pond chalk wear patrol rude marine";

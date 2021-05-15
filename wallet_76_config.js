@@ -1,1 +1,1 @@
-var mnemonic = "tomato urban erupt state together drill chase ecology immune supply soldier mountain";
+var mnemonic = "alien eternal ceiling adjust sense visual subway grunt effort mind myself rather";

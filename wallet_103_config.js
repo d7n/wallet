@@ -1,1 +1,1 @@
-var mnemonic = "pill crane sister enroll song monkey hurdle unusual dentist core crush brisk";
+var mnemonic = "major gown other round cousin drum wasp only object oak exist mushroom";

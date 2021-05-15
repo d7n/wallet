@@ -1,1 +1,1 @@
-var mnemonic = "clock rude april ahead salt improve topple parade source shove opera truth";
+var mnemonic = "bike crop afraid oblige flag wonder picture loan humor ivory include tuition";

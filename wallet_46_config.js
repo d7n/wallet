@@ -1,1 +1,1 @@
-var mnemonic = "shed load blur tired neutral response baby post siren modify swear approve";
+var mnemonic = "carbon know rare scale share busy music draw balcony sausage tool never";

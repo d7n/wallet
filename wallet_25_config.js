@@ -1,1 +1,1 @@
-var mnemonic = "moral pottery drastic early zero junk cause viable glimpse wise swift fame";
+var mnemonic = "verify patch car travel option oil diary menu diesel approve police rookie";

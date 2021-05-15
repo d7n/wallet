@@ -1,1 +1,1 @@
-var mnemonic = "kind champion use receive stomach suit spare cupboard rural fade volcano federal";
+var mnemonic = "awesome author business faint replace wrong twice extend tunnel old smart ritual";

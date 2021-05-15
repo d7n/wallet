@@ -1,1 +1,1 @@
-var mnemonic = "gentle evil mask pioneer match suspect sentence push crane refuse agree utility";
+var mnemonic = "aunt cause boss west find wash dial veteran mechanic warfare relax energy";

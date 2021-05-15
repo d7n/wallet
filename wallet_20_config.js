@@ -1,1 +1,1 @@
-var mnemonic = "mango space mosquito gloom clarify pilot reduce social olive liar spike flee";
+var mnemonic = "tenant caught lock aim spin select make avoid protect badge speak mammal";

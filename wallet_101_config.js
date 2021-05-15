@@ -1,1 +1,1 @@
-var mnemonic = "palace soldier twice garbage zone knee good tribe access umbrella address mammal";
+var mnemonic = "essence quiz size switch neither improve traffic among nation swift dumb kite";

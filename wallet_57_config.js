@@ -1,1 +1,1 @@
-var mnemonic = "prosper fire safe fortune volume caution beyond omit quote choose trash sunny";
+var mnemonic = "frost window claw credit sea entry scatter key giant wood affair record";

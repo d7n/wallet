@@ -1,1 +1,1 @@
-var mnemonic = "gold pipe tomato educate sing gentle brain hurdle tone hazard canal news";
+var mnemonic = "camp box fury toy claim solve evil merge kick old announce bind";

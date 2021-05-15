@@ -1,1 +1,1 @@
-var mnemonic = "miracle recycle hundred note solar magic run dentist miss sudden illegal list";
+var mnemonic = "hood cook caught uphold agree gauge slice valley traffic icon voyage screen";

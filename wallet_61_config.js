@@ -1,1 +1,1 @@
-var mnemonic = "chase appear cram above web slam proud confirm pact oak veteran inquiry";
+var mnemonic = "tape captain suggest brush merge chat lesson flight maid social mix laugh";

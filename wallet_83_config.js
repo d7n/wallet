@@ -1,1 +1,1 @@
-var mnemonic = "mention orient note path math square elegant live grocery hero country empty";
+var mnemonic = "candy swarm embody window cigar congress run pyramid night scout tower fashion";

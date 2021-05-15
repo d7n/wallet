@@ -1,1 +1,1 @@
-var mnemonic = "segment decade vast giggle inform toy phone senior hand dish endorse hazard";
+var mnemonic = "wrestle end tornado time wire radar pizza scene three end phrase cook";

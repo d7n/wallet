@@ -1,1 +1,1 @@
-var mnemonic = "lunch brain essay bulk document habit shock frozen cruise strategy employ clap";
+var mnemonic = "pluck finish fuel live tourist token grid surge sun clarify scout blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "sound valve rocket radio expose path tribe lift online you become hub";
+var mnemonic = "sister arm gloom drift tent fun nominee pyramid lunar pipe rhythm essay";

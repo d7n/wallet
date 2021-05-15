@@ -1,1 +1,1 @@
-var mnemonic = "weekend lazy popular yellow city thumb vacuum crime current rude hint purpose";
+var mnemonic = "flee cave luxury enable also black zone dragon flush cool mansion what";

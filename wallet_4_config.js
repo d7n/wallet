@@ -1,1 +1,1 @@
-var mnemonic = "hat only broken pair puppy chest acquire emotion fetch lizard wash primary";
+var mnemonic = "army retire nerve rapid science check fury interest essay blanket mixture jaguar";

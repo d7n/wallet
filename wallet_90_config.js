@@ -1,1 +1,1 @@
-var mnemonic = "split penalty concert furnace skill treat clarify idle cabin price canyon chef";
+var mnemonic = "era dove pipe legend couch olympic joy double metal basic question property";

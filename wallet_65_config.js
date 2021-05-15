@@ -1,1 +1,1 @@
-var mnemonic = "debris derive age eight drift crucial miracle voyage inherit rival cement name";
+var mnemonic = "hammer orphan gaze video theme fragile border rib fossil dry recipe fit";

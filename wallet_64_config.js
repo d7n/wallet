@@ -1,1 +1,1 @@
-var mnemonic = "aspect balcony crop tongue wash target priority apology name seek curious hundred";
+var mnemonic = "float horror approve print fashion title club outside coyote actress reflect record";

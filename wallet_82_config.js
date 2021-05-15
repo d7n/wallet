@@ -1,1 +1,1 @@
-var mnemonic = "away frequent ticket box always critic cute breeze become emerge supply level";
+var mnemonic = "reduce impulse husband tool reveal physical innocent deal later kitten miracle pass";

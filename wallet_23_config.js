@@ -1,1 +1,1 @@
-var mnemonic = "bleak talk supply evolve aerobic fire muffin kangaroo hood crunch attract abuse";
+var mnemonic = "choice budget prosper guard ice circle panel cook razor promote empower mind";

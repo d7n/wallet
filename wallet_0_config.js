@@ -1,1 +1,1 @@
-var mnemonic = "gentle lawn leopard job exercise empty corn never hurry stove buddy glove";
+var mnemonic = "shuffle public siege toilet rural input village issue clap produce fatigue another";

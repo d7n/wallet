@@ -1,1 +1,1 @@
-var mnemonic = "copper edit odor grow decrease service shock vital scare bicycle still affair";
+var mnemonic = "lesson submit park water protect blood wage silver pond fold noble coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "switch sugar slim mesh obscure duty pink elder lounge note base tiger";
+var mnemonic = "rotate neck liquid shallow shrug spare hair spatial section reject season spawn";

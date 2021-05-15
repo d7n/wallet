@@ -1,1 +1,1 @@
-var mnemonic = "medal load vendor expand reopen monkey fog scare unveil boss enemy weather";
+var mnemonic = "welcome accuse expose stool lab point era bag seminar lunar amateur announce";

@@ -1,1 +1,1 @@
-var mnemonic = "glue scare shrimp curtain poverty surround start crater trophy clarify obvious giggle";
+var mnemonic = "baby resource mix smoke service father level sweet victory aspect rather risk";

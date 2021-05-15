@@ -1,1 +1,1 @@
-var mnemonic = "flame crystal net cigar utility velvet garage lava bacon approve random badge";
+var mnemonic = "seek cruise pluck gossip pear endorse damp pyramid control paper obtain forget";

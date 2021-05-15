@@ -1,1 +1,1 @@
-var mnemonic = "core injury velvet boss almost lesson push weapon must session enforce defense";
+var mnemonic = "sword elephant since answer gym scrub brief skull six step wealth nerve";

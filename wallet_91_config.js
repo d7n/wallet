@@ -1,1 +1,1 @@
-var mnemonic = "skirt helmet woman autumn rally evoke december cake month end morning breeze";
+var mnemonic = "energy moon become reward okay regular ecology direct craft bomb space math";

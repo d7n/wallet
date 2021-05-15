@@ -1,1 +1,1 @@
-var mnemonic = "denial matrix upon rich merit alpha venture hover execute army three misery";
+var mnemonic = "poverty bridge orchard cook account capable economy ozone quantum degree render cat";

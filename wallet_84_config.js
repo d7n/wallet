@@ -1,1 +1,1 @@
-var mnemonic = "carry hobby food cube menu quote benefit royal hamster car filter suggest";
+var mnemonic = "blast various comic pull where gate rocket sudden barely pepper inherit fee";

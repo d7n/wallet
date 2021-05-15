@@ -1,1 +1,1 @@
-var mnemonic = "auto dutch wild punch clump add duck wing envelope blood general enhance";
+var mnemonic = "wise orange seek connect only fat gloom volume rack immense electric armed";

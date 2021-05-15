@@ -1,1 +1,1 @@
-var mnemonic = "gaze arctic plate short vacuum message total biology prison palm kingdom involve";
+var mnemonic = "oil oblige apple butter property thought chase sight quit pizza pudding actor";

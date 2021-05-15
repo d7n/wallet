@@ -1,1 +1,1 @@
-var mnemonic = "attack mule uncover taxi typical differ arrange genius demand category unlock catch";
+var mnemonic = "gravity soap divert tell chef wrong ready immune lyrics until foil name";

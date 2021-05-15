@@ -1,1 +1,1 @@
-var mnemonic = "outdoor broccoli since wing magnet this notable hen start invite swamp infant";
+var mnemonic = "blast exhibit fortune leader gauge spray faith pumpkin input endless talent become";

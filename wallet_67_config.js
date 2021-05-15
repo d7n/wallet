@@ -1,1 +1,1 @@
-var mnemonic = "spray forum legal budget furnace fluid artefact crunch found wedding height pistol";
+var mnemonic = "disease pilot holiday public motor ask jewel myth coil tourist meadow license";

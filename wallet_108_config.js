@@ -1,1 +1,1 @@
-var mnemonic = "soap buffalo sure depart deny hold chaos forget december tobacco mother negative";
+var mnemonic = "opinion acid health slow spend liquid blame vague genius recall tube sing";

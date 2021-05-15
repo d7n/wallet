@@ -1,1 +1,1 @@
-var mnemonic = "have worry retire soft sustain feel voyage sense front merge evidence dad";
+var mnemonic = "fade gloom local obscure desert relax confirm festival genius fiscal tunnel consider";

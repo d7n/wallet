@@ -1,1 +1,1 @@
-var mnemonic = "base pelican erosion unique month firm credit width draw regular speak view";
+var mnemonic = "hour depth mind know trash search negative attend mother distance demise share";

@@ -1,1 +1,1 @@
-var mnemonic = "attract aunt just bunker diagram thunder time odor height grant front abandon";
+var mnemonic = "travel voice bottom remove tiny trial dress acquire chest inquiry main follow";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy beyond arch alter pattern such like summer sketch tip flock soul";
+var mnemonic = "lunch barely claw fame canoe solar banana dismiss amused century sugar ankle";

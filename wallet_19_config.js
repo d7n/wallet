@@ -1,1 +1,1 @@
-var mnemonic = "become warfare nose dirt magic apology wheel aisle eagle example nasty mass";
+var mnemonic = "family oval modify snap chuckle subject fruit final twelve under nature atom";

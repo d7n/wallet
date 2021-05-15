@@ -1,1 +1,1 @@
-var mnemonic = "ivory symptom plunge nuclear liquid resource grain decorate two firm prepare toss";
+var mnemonic = "expose drive edit visual day surround leaf humor purity route level vivid";

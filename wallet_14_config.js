@@ -1,1 +1,1 @@
-var mnemonic = "witness rug decline sugar fiber royal horse address length urge lunch dress";
+var mnemonic = "crop cart vault spot mail kick buyer soft sun pledge right reopen";

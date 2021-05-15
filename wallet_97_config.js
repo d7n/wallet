@@ -1,1 +1,1 @@
-var mnemonic = "dirt bicycle human junior raven wedding tank casual spin clean wide first";
+var mnemonic = "carpet mouse travel gather gravity guitar april depend theme danger skull rug";

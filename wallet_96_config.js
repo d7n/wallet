@@ -1,1 +1,1 @@
-var mnemonic = "panda globe shaft goat vague doll pigeon avocado anchor gym middle warfare";
+var mnemonic = "else apple face height surprise shed begin happy wheat chimney moment job";

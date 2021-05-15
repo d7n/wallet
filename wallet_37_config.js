@@ -1,1 +1,1 @@
-var mnemonic = "valid man estate vote fog output pudding cattle snap during memory nice";
+var mnemonic = "vendor farm polar thank network labor absent quote drama cluster iron catalog";

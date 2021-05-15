@@ -1,1 +1,1 @@
-var mnemonic = "library cat name collect beef inquiry soda horn until argue special shed";
+var mnemonic = "result ritual cannon hurdle replace wreck develop betray laptop bulk elder vendor";

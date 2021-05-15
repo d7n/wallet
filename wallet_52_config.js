@@ -1,1 +1,1 @@
-var mnemonic = "tired during execute appear lens dash label inhale shiver inquiry traffic loan";
+var mnemonic = "solution check dwarf excess clock caught deliver extra affair hidden great involve";

@@ -1,1 +1,1 @@
-var mnemonic = "cram narrow buzz team wear utility shock simple ozone can metal energy";
+var mnemonic = "forward exercise case author reveal submit forum hope gorilla music coconut cabbage";

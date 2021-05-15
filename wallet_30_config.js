@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow pen viable spice balance mistake stay lucky together seven noise ring";
+var mnemonic = "gold immune equal athlete fever athlete poverty leopard try divorce caution enact";
