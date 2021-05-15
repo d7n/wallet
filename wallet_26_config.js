@@ -1,1 +1,1 @@
-var mnemonic = "cute fetch manual panel bean umbrella guilt snack stuff glare wolf hammer";
+var mnemonic = "mixed industry stairs shrug escape swarm glad wife next fan inquiry sunset";

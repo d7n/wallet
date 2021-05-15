@@ -1,1 +1,1 @@
-var mnemonic = "danger car december chest citizen assume wave ignore quantum purity next situate";
+var mnemonic = "student session spy salon ozone name depth sugar gauge jacket wood negative";

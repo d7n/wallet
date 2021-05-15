@@ -1,1 +1,1 @@
-var mnemonic = "spatial nature media trial shoot crater room race mutual blame robot beauty";
+var mnemonic = "whale differ whisper hold bird typical century yellow blossom lend any stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin solution cloth comfort access six hub wedding pledge menu crime winner";
+var mnemonic = "endorse climb lumber sleep demand victory advance throw coach margin you favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort amused execute claw mirror neutral embark bridge boy between crash reform";
+var mnemonic = "hybrid approve horse shed describe accident again frame hidden frequent manage zero";

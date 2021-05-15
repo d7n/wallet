@@ -1,1 +1,1 @@
-var mnemonic = "mother cotton skate faith sphere keen love exit doctor deal monkey voyage";
+var mnemonic = "engine elite unfair arrest ice task edit unusual sugar all monkey fiber";

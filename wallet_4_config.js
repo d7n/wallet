@@ -1,1 +1,1 @@
-var mnemonic = "output exchange pencil tribe federal mad awkward begin fiction leopard real solution";
+var mnemonic = "museum buyer brave wage caution bright crater leopard peanut stove leader there";

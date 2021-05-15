@@ -1,1 +1,1 @@
-var mnemonic = "blossom void sphere thumb million sell taste silent travel cupboard shy giant";
+var mnemonic = "leader time diesel topple still chronic undo mom width mask polar robot";

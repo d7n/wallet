@@ -1,1 +1,1 @@
-var mnemonic = "electric just sock oven term issue crush bean bachelor pig check trigger";
+var mnemonic = "easily churn cinnamon rice better marriage wheat also empty blanket muscle carry";

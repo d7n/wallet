@@ -1,1 +1,1 @@
-var mnemonic = "parade guard autumn despair alley program pact man breeze fat lemon winter";
+var mnemonic = "actress jaguar sheriff bonus correct silver chef muffin pitch immune robot comic";

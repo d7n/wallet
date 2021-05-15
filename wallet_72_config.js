@@ -1,1 +1,1 @@
-var mnemonic = "dune depth baby album income churn stick gallery mother space garage under";
+var mnemonic = "coin enforce base symbol grow park flat goddess gain proud defense transfer";

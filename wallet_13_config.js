@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sample interest thank income hidden jump move regret cake slab stem";
+var mnemonic = "width dismiss error destroy retire design blossom cherry fat april play vocal";

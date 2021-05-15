@@ -1,1 +1,1 @@
-var mnemonic = "inspire table estate dwarf ignore sketch borrow vacant track meadow rebel phrase";
+var mnemonic = "video number elegant garden draw among message arrest buyer another drum warfare";

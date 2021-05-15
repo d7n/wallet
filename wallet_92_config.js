@@ -1,1 +1,1 @@
-var mnemonic = "visual maple case sunset during scheme general reflect frequent day guide ready";
+var mnemonic = "globe cabin master afford dice media unhappy frown raven people dolphin liberty";

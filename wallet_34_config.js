@@ -1,1 +1,1 @@
-var mnemonic = "female eye muffin march defy frog grunt else cherry dinosaur tribe burger";
+var mnemonic = "giraffe love good spin naive they album blade judge chapter shallow core";

@@ -1,1 +1,1 @@
-var mnemonic = "theme sunny merry glove moment before vast brass liar all hedgehog mixed";
+var mnemonic = "comic topple airport insect diamond cannon cake spread defense protect whisper junk";

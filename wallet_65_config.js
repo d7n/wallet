@@ -1,1 +1,1 @@
-var mnemonic = "pink obey tank sign legend rice snack symbol nest gadget require goat";
+var mnemonic = "medal exhaust segment damage coach about hedgehog enhance uphold trial hour question";

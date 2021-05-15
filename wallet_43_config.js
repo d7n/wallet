@@ -1,1 +1,1 @@
-var mnemonic = "snow supreme cost patient venue width panther surge among joke vapor typical";
+var mnemonic = "core kick extra mouse ethics spray vast fantasy sort swamp file vanish";

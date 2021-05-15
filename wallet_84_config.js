@@ -1,1 +1,1 @@
-var mnemonic = "oxygen action empower matter trick charge prison solve open shed theme coach";
+var mnemonic = "host desk hawk leopard favorite spoil field junk vicious coin primary capital";

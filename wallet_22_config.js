@@ -1,1 +1,1 @@
-var mnemonic = "hurdle purpose home pave chest cost genre shrimp bicycle immune oxygen oval";
+var mnemonic = "must slush afford detail voice zebra street ripple kitten fever sunset spray";

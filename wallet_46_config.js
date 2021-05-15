@@ -1,1 +1,1 @@
-var mnemonic = "bone race nasty churn crew elephant bag price major sunset retreat sister";
+var mnemonic = "duty frown super glance bitter oyster core puppy truck pact puzzle agree";

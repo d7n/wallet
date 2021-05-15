@@ -1,1 +1,1 @@
-var mnemonic = "behave hold sock lesson open feature level dry awful coffee village rose";
+var mnemonic = "such kick potato skate strong field diet evolve claw mandate train service";

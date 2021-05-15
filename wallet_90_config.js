@@ -1,1 +1,1 @@
-var mnemonic = "route dash gadget kid coil awake noodle admit attend twenty sibling number";
+var mnemonic = "barely clarify equal stool spice coach base write twin simple course host";

@@ -1,1 +1,1 @@
-var mnemonic = "receive traffic vintage shoe balcony firm between pistol runway autumn idea armed";
+var mnemonic = "matter pact zone table close family raccoon old cattle drift nest foot";

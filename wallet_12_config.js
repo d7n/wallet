@@ -1,1 +1,1 @@
-var mnemonic = "hole taxi security vicious gentle explain toward window sort aware soap thought";
+var mnemonic = "immense giggle social desk airport retire ketchup enable casual parent bundle screen";

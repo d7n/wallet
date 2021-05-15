@@ -1,1 +1,1 @@
-var mnemonic = "lava grant coast frozen aspect pepper ship galaxy turkey social glimpse social";
+var mnemonic = "reunion history normal vacant pole sick gospel author work rubber clap near";

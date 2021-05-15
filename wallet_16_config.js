@@ -1,1 +1,1 @@
-var mnemonic = "frog host coconut you struggle crew board funny casual ticket identify weapon";
+var mnemonic = "table pony harvest mobile trophy blame ivory noble stem matter base moral";

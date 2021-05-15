@@ -1,1 +1,1 @@
-var mnemonic = "dial budget follow cement false vendor mixed rocket demand ordinary hazard bulb";
+var mnemonic = "year east debris eyebrow energy join roast bid desk flip model side";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado jeans cube pupil space end inflict hover stock reveal unfair nominee";
+var mnemonic = "false pass field pelican robust cable abandon please hungry best silver soup";

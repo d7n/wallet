@@ -1,1 +1,1 @@
-var mnemonic = "amount syrup harvest cute region color coach candy resist zone tonight adult";
+var mnemonic = "injury fury swear quote sword fitness bread drift nothing arrest layer solar";

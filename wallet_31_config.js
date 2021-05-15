@@ -1,1 +1,1 @@
-var mnemonic = "library gravity valve shell permit urge oven add monster lemon issue drive";
+var mnemonic = "eye luggage number beauty noodle chest pear mimic shoe unfair dish arch";

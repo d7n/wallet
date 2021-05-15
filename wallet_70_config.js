@@ -1,1 +1,1 @@
-var mnemonic = "bread record ill weekend consider globe modify bottom chimney onion hat swap";
+var mnemonic = "intact clean slam educate trouble cat height inside sphere casino project rural";

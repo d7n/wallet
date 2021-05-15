@@ -1,1 +1,1 @@
-var mnemonic = "slight outer find exit feel track flag hair disagree typical labor pole";
+var mnemonic = "grunt girl almost mule chunk scatter upgrade symptom coin tilt pudding timber";

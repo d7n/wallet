@@ -1,1 +1,1 @@
-var mnemonic = "release season floor peasant cruise prepare general blossom orchard clerk flower also";
+var mnemonic = "scheme merit siege shy physical poverty area half rocket deny version pudding";

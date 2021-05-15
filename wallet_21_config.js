@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fade leave payment lobster chunk embrace amused capable rib exhibit say";
+var mnemonic = "actress special agent aim mosquito rifle state cement acid blush pistol stuff";

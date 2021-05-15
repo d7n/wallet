@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon soccer comic measure divorce noise release birth jungle silk bachelor radio";
+var mnemonic = "broom stomach letter syrup february romance buddy will lyrics fashion crash square";

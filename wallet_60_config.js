@@ -1,1 +1,1 @@
-var mnemonic = "earth olympic evil bless topple drink near powder calm later viable gesture";
+var mnemonic = "debate shallow suspect sunset smooth wolf switch maze poet devote puzzle region";

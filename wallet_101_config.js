@@ -1,1 +1,1 @@
-var mnemonic = "remain bonus refuse hold return hub bounce define crumble detail physical wave";
+var mnemonic = "replace clap knife excite wagon zebra doctor cost hurdle deliver fun palm";

@@ -1,1 +1,1 @@
-var mnemonic = "daring awesome middle undo project category turn reason letter unveil kiwi pool";
+var mnemonic = "device wide bleak outside north sugar online confirm people parrot bachelor bunker";

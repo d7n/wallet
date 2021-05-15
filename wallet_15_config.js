@@ -1,1 +1,1 @@
-var mnemonic = "drive famous uniform nation pumpkin allow mobile casino cabin tiger model tuna";
+var mnemonic = "earn worth nasty fancy mandate razor reunion patch demise health thought glide";

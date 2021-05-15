@@ -1,1 +1,1 @@
-var mnemonic = "treat axis win earn stem grab night crumble fabric soul tumble protect";
+var mnemonic = "harsh inquiry pilot onion orchard improve broken galaxy cycle silly amused vast";

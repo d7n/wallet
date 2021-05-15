@@ -1,1 +1,1 @@
-var mnemonic = "dish skate toast finger reopen symbol wink student mad hockey cave clerk";
+var mnemonic = "that maid image claim mouse dose earth scrub knock tobacco powder basket";

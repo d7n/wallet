@@ -1,1 +1,1 @@
-var mnemonic = "left shrug neutral sport require virtual major smart clever ship social nature";
+var mnemonic = "absent bamboo autumn bread kit permit detect resist board matter harvest trust";

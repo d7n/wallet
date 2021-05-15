@@ -1,1 +1,1 @@
-var mnemonic = "laugh wash found loop quick bulk jelly gravity fiction win poet tornado";
+var mnemonic = "tip deposit rose deputy claim rich manual oil arrest leg imitate taxi";

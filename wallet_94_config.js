@@ -1,1 +1,1 @@
-var mnemonic = "drill mobile use system envelope knee spread ice powder segment dog energy";
+var mnemonic = "toy museum input since ski olive protect antique month solve narrow slab";

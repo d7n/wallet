@@ -1,1 +1,1 @@
-var mnemonic = "universe digital civil daring wisdom trial salt rude sadness sphere height notice";
+var mnemonic = "army resemble dust fee average draw program frost brown girl pattern stage";

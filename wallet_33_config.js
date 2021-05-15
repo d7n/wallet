@@ -1,1 +1,1 @@
-var mnemonic = "boost empower flat bike sad satisfy calm gather poverty hollow soon flock";
+var mnemonic = "robot style random vessel beauty lock crisp rescue once loyal cram seek";

@@ -1,1 +1,1 @@
-var mnemonic = "disease joke rich chapter embrace dutch turtle shoot ghost ozone forward cook";
+var mnemonic = "shuffle exchange mention apology pulp often mushroom morning horror panda kiwi source";

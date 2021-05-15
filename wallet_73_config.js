@@ -1,1 +1,1 @@
-var mnemonic = "canal timber arm save alter reopen lift habit original tennis young hat";
+var mnemonic = "topic tiny corn diamond ticket hood song thought sorry cannon into any";

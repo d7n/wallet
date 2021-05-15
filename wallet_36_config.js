@@ -1,1 +1,1 @@
-var mnemonic = "seed school naive hurry boost blanket suffer infant smooth around image secret";
+var mnemonic = "average forward insane exhaust loan pigeon submit speed garden spy mass gas";

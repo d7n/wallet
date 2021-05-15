@@ -1,1 +1,1 @@
-var mnemonic = "tumble lazy gorilla burst bright pole orbit rail coil nephew unfair coyote";
+var mnemonic = "answer supply eager cup cause hold unit staff spot arrive silver sibling";

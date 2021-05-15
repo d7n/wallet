@@ -1,1 +1,1 @@
-var mnemonic = "ginger wall crime collect impact already bird mass alpha subway dance organ";
+var mnemonic = "end rare certain harvest trade flash erase female digital must say banana";

@@ -1,1 +1,1 @@
-var mnemonic = "maze surge combine trumpet bless scrap news suspect forest parrot chuckle alpha";
+var mnemonic = "castle bullet crawl giggle view name champion believe antenna cliff truly bring";

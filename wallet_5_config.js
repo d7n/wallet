@@ -1,1 +1,1 @@
-var mnemonic = "service aunt mandate attack humor legend also practice small catch salt edit";
+var mnemonic = "rhythm sphere journey cushion bulb lawn crew across middle rubber army require";

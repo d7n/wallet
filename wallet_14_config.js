@@ -1,1 +1,1 @@
-var mnemonic = "gown pledge obscure region fury loyal guide spoil inherit thought mango sunny";
+var mnemonic = "kid jacket famous arena harsh surge pear clinic potato key key length";

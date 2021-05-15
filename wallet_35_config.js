@@ -1,1 +1,1 @@
-var mnemonic = "oval thought damage fatal boil huge shell onion kick depart pelican bitter";
+var mnemonic = "peace model amazing fabric industry fan champion please lyrics initial potato quit";

@@ -1,1 +1,1 @@
-var mnemonic = "fan talk price draft fire copper crime domain miracle kick spell rifle";
+var mnemonic = "lucky famous minute renew merit bird sunny silk spawn jealous damage high";

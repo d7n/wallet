@@ -1,1 +1,1 @@
-var mnemonic = "run check body traffic empty garage stumble topple three fantasy broccoli aware";
+var mnemonic = "amount nasty door soccer zero whip kangaroo rabbit nephew rate stage oyster";

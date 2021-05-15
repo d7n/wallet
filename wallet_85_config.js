@@ -1,1 +1,1 @@
-var mnemonic = "tilt system notice involve move chair rack lonely exclude hamster behave hammer";
+var mnemonic = "hello globe carpet federal bright panel husband couch puzzle hunt seminar polar";

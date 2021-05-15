@@ -1,1 +1,1 @@
-var mnemonic = "crouch settle mixed bachelor warrior universe action slush opera pottery address busy";
+var mnemonic = "usage farm limit chat mask kick release license rural hint run battle";

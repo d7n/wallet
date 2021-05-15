@@ -1,1 +1,1 @@
-var mnemonic = "relax decorate surge park print coast lady quantum forward problem judge stone";
+var mnemonic = "symbol scene breeze script net give because tower survey accuse cup connect";

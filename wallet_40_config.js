@@ -1,1 +1,1 @@
-var mnemonic = "timber cook draw witness seed pupil setup topple hint boss remember illness";
+var mnemonic = "swallow disagree dwarf where diamond original use sauce head vessel travel crime";

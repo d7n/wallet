@@ -1,1 +1,1 @@
-var mnemonic = "mystery manual two sign dog bundle laugh fancy subway forum disease tiger";
+var mnemonic = "dignity primary object throw veteran ugly level steel caught physical hamster poem";

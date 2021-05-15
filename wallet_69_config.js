@@ -1,1 +1,1 @@
-var mnemonic = "health correct glue mean old job butter fence business firm lawn pact";
+var mnemonic = "youth face aisle patrol guard puppy matrix foam want video you fee";

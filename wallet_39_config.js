@@ -1,1 +1,1 @@
-var mnemonic = "audit mercy deputy improve length yard fever hood exchange staff shell together";
+var mnemonic = "word learn reduce wall rib hello matrix error blood office rough topple";

@@ -1,1 +1,1 @@
-var mnemonic = "prison pizza analyst coast avocado loyal oppose gap exile say syrup heavy";
+var mnemonic = "square they toward slow royal arch second hood you glare resist happy";

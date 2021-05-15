@@ -1,1 +1,1 @@
-var mnemonic = "eager choose steel brave photo sunset adapt abuse sleep together short rate";
+var mnemonic = "unaware original census disorder among work exhaust sponsor west sing cricket like";

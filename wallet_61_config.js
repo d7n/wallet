@@ -1,1 +1,1 @@
-var mnemonic = "detail tortoise quick drip scrap typical dress badge sausage baby unknown client";
+var mnemonic = "banner length word shrimp beyond renew very pole place churn rack fine";

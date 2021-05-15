@@ -1,1 +1,1 @@
-var mnemonic = "fun hip cluster master equip depend genre rapid broom range network obey";
+var mnemonic = "main deliver latin museum once convince rib upset inhale pioneer acquire yellow";

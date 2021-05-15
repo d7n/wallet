@@ -1,1 +1,1 @@
-var mnemonic = "stock must victory afford banana pepper pioneer degree total vibrant cup excess";
+var mnemonic = "drastic desert impulse quiz birth bus destroy arrest monitor seek increase decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse goose sauce balcony rubber release boost decide token rocket wrap entire";
+var mnemonic = "parrot base diet diamond method very satisfy enrich symbol assault subway shuffle";

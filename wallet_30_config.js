@@ -1,1 +1,1 @@
-var mnemonic = "emotion suggest flash shield primary cattle later embrace horror audit jungle elder";
+var mnemonic = "dinosaur twice canoe notable reopen seek error cigar clever visa brief today";

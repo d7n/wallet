@@ -1,1 +1,1 @@
-var mnemonic = "mango hover joke guitar away clap nerve outer caught angle aisle rookie";
+var mnemonic = "army arena captain payment trip link explain drastic thought top goose brain";

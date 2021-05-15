@@ -1,1 +1,1 @@
-var mnemonic = "edge garlic color audit universe close one layer dish where fat shoulder";
+var mnemonic = "round fiction bulk utility slogan panda marble govern powder range wing iron";

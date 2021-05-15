@@ -1,1 +1,1 @@
-var mnemonic = "sphere crane fantasy desert used rely industry valley combine abstract brush ladder";
+var mnemonic = "wagon soccer ten endless immense action trust play toast tissue wheel nasty";

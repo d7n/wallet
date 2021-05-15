@@ -1,1 +1,1 @@
-var mnemonic = "version caught merit nut bitter differ buyer shaft gaze nasty mix green";
+var mnemonic = "layer genre hunt liberty target garage kit pyramid believe virtual depth load";

@@ -1,1 +1,1 @@
-var mnemonic = "fox wrist measure fatal price shaft grit shift whale grain corn arena";
+var mnemonic = "between ordinary build burst text east put chest violin finger lens describe";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ethics test first domain badge marriage drop ten maze drop fresh";
+var mnemonic = "rack bomb feel rescue cover dumb sell this wait what exact visual";

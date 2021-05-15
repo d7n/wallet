@@ -1,1 +1,1 @@
-var mnemonic = "sustain chunk eagle sheriff panel coffee pistol excite kind much inner dune";
+var mnemonic = "joke burden pond below island coffee slam oak blind curtain number dinosaur";

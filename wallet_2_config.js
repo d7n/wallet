@@ -1,1 +1,1 @@
-var mnemonic = "wire ability change jaguar steel token raccoon cute canoe glance pole congress";
+var mnemonic = "yard cousin report lava physical venture uniform laugh cross color beef chair";

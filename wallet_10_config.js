@@ -1,1 +1,1 @@
-var mnemonic = "bless wedding quit major rapid sample oxygen response just grace ridge monster";
+var mnemonic = "foot nest guard air number bachelor coin shoulder erode sausage kind fever";

@@ -1,1 +1,1 @@
-var mnemonic = "bird mention kitchen excess minimum proud truly impulse grape beauty float game";
+var mnemonic = "limit helmet long divide puppy kick hero camp despair collect rose shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty sadness wash embrace point cheese struggle neglect skull drama coach unfold";
+var mnemonic = "noise taste copper ladder ahead pumpkin make forum brisk can prevent noble";

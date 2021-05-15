@@ -1,1 +1,1 @@
-var mnemonic = "essence mammal era lock gold mystery eyebrow rapid timber decide employ alarm";
+var mnemonic = "ski uncle hidden pledge sleep oil three gather border minute vote road";

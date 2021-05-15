@@ -1,1 +1,1 @@
-var mnemonic = "fiscal market matter man inmate viable twenty convince honey type prefer segment";
+var mnemonic = "upgrade become elegant tourist era spice clump live blood cruise survey receive";

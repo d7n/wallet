@@ -1,1 +1,1 @@
-var mnemonic = "firm spot armed erase cloud vote lawn visa denial chair sing possible";
+var mnemonic = "card army animal symptom salon topic inflict similar sponsor mouse mule shallow";

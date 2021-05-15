@@ -1,1 +1,1 @@
-var mnemonic = "exact music lake velvet clap patch case exit slogan apart flip pipe";
+var mnemonic = "express gas wisdom sphere educate garage festival breeze grunt bulk cactus photo";

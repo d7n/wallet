@@ -1,1 +1,1 @@
-var mnemonic = "potato extra sphere then regret gym aspect observe dance valve present addict";
+var mnemonic = "elegant cotton clump okay orient pear resource ankle expect pipe add trick";

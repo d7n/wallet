@@ -1,1 +1,1 @@
-var mnemonic = "lizard museum blame uncover rhythm rotate major lift fun salt brass diary";
+var mnemonic = "penalty wool cable sunset canoe salute page visit rotate title eager focus";
