@@ -1,1 +1,1 @@
-var mnemonic = "skull galaxy bomb frozen roast spawn pulp daring correct foot cabbage cancel";
+var mnemonic = "bring crisp reveal gentle siege used globe fold alien hood dad scout";

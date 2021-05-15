@@ -1,1 +1,1 @@
-var mnemonic = "plunge brother file bulk grass please victory wealth carry north salmon dove";
+var mnemonic = "physical offer exclude happy safe obey short brave spice diary famous brown";

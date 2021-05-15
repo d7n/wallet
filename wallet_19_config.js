@@ -1,1 +1,1 @@
-var mnemonic = "write river stable bicycle steak rate benefit chicken frame more misery mirror";
+var mnemonic = "spy direct subway veteran promote ginger tragic famous toss ancient forum pond";

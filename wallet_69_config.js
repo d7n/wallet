@@ -1,1 +1,1 @@
-var mnemonic = "civil manual ticket today gasp equal despair train enemy crew leave amazing";
+var mnemonic = "economy stove become narrow turtle million copy prison pepper blossom vivid tattoo";

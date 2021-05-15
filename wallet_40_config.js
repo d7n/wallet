@@ -1,1 +1,1 @@
-var mnemonic = "spoil napkin praise false promote august expire enough tuition foil enough floor";
+var mnemonic = "essay invite reward cake blur split real knife boil seed hub friend";

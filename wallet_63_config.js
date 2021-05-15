@@ -1,1 +1,1 @@
-var mnemonic = "repair forget book window index jeans erosion put appear shaft faint divorce";
+var mnemonic = "police sweet powder february private fetch situate shuffle review infant helmet glad";

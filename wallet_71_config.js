@@ -1,1 +1,1 @@
-var mnemonic = "room erosion south oppose tongue believe flip talent consider ramp tortoise legend";
+var mnemonic = "foam baby begin outdoor top father explain spray plunge stay chase tape";

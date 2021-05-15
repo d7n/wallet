@@ -1,1 +1,1 @@
-var mnemonic = "special hold blind pony penalty monkey face movie eyebrow episode swarm night";
+var mnemonic = "text wasp system physical grid awkward hair jeans myself viable symptom advice";

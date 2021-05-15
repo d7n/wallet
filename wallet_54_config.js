@@ -1,1 +1,1 @@
-var mnemonic = "sting alarm best federal erupt morning then suffer stock endless turn myself";
+var mnemonic = "good afford illegal fade voyage unfair illegal lesson angry ankle that supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "spread current auction mix kidney turn profit virus scare nose math today";
+var mnemonic = "shield weekend april reduce very foil again monster recycle emotion together valve";

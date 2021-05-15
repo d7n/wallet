@@ -1,1 +1,1 @@
-var mnemonic = "orphan illness van lesson useless radio today antenna exercise result right fault";
+var mnemonic = "electric absent knock paper sketch hybrid view night forest erupt cash wagon";

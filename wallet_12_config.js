@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur adult brush mutual arrest omit caught buzz body asset hurry charge";
+var mnemonic = "gadget build photo stomach recall prison item lend alcohol liberty whisper advance";

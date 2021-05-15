@@ -1,1 +1,1 @@
-var mnemonic = "gadget jewel skate belt when media correct ladder shoot left cage tortoise";
+var mnemonic = "model cloud equip toss common taste puzzle broom innocent liberty frown winner";

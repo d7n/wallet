@@ -1,1 +1,1 @@
-var mnemonic = "school inform display need owner together umbrella impact exchange pencil sponsor talent";
+var mnemonic = "rack barely ticket ill dose wool pitch broom else census fault fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "industry afford enroll turkey mixture pluck coconut spoon recall brain flavor tool";
+var mnemonic = "clever leaf snow farm cousin enough happy battle peanut stadium lock wrestle";

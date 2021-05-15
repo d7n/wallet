@@ -1,1 +1,1 @@
-var mnemonic = "leopard teach sad flock quick warfare rather evidence foot unlock armed viable";
+var mnemonic = "deny invest protect planet various return machine expand razor slab mystery party";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe glass reunion gossip question stock rhythm change garden head grow grunt";
+var mnemonic = "labor bid gaze nerve choose sun tiger jelly drop indicate ship link";

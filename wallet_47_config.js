@@ -1,1 +1,1 @@
-var mnemonic = "clerk trip head release typical typical mass country urban angry token hello";
+var mnemonic = "client federal chief reward inside radio stairs father lens mansion program mosquito";

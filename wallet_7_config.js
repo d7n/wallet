@@ -1,1 +1,1 @@
-var mnemonic = "thunder lecture arctic bitter crush ice tower identify accuse fan enable car";
+var mnemonic = "admit stock belt random useful outer old purity avocado flock during obvious";

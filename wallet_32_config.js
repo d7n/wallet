@@ -1,1 +1,1 @@
-var mnemonic = "run family behave say basic soup burden used cave pink crime stand";
+var mnemonic = "census empty mouse wedding team drift animal insane peace toss cheap human";

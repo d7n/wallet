@@ -1,1 +1,1 @@
-var mnemonic = "fatigue powder clean cement pretty ski account stuff clinic tree runway upgrade";
+var mnemonic = "urban fall clay approve original area wheel rhythm liar excuse forward exclude";

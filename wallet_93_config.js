@@ -1,1 +1,1 @@
-var mnemonic = "rich open fold company hunt rifle tree tobacco valve blouse expose bag";
+var mnemonic = "vault series goat put resemble gravity vote this strategy price elder control";

@@ -1,1 +1,1 @@
-var mnemonic = "hour kingdom purchase comic girl law timber giant claw shift crater come";
+var mnemonic = "core warrior honey toe apology change cheap vacuum since believe youth coin";

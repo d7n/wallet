@@ -1,1 +1,1 @@
-var mnemonic = "fitness stage crash melt ring bulb volume cube error poet notice neck";
+var mnemonic = "quantum prepare fever kiss season machine write sugar liquid answer piece dog";

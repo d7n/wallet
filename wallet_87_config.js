@@ -1,1 +1,1 @@
-var mnemonic = "festival unit evidence video stamp supreme tenant salad fiscal wolf push staff";
+var mnemonic = "trade essay make copper cricket smooth author wash unusual spend bag spot";

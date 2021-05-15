@@ -1,1 +1,1 @@
-var mnemonic = "lucky cute that soup funny light harsh genius divorce slam omit define";
+var mnemonic = "gossip walnut peace acid barely portion relax popular reject coyote domain fetch";

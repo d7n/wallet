@@ -1,1 +1,1 @@
-var mnemonic = "spy carry allow palace smile under hundred speed draft benefit harbor equip";
+var mnemonic = "whisper deposit void army mention heavy junk chat mosquito celery patch height";

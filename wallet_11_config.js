@@ -1,1 +1,1 @@
-var mnemonic = "web soup present air region point erosion weird thunder palm amount this";
+var mnemonic = "rug just magnet lawn galaxy install machine elbow shy abandon arch machine";

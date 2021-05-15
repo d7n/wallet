@@ -1,1 +1,1 @@
-var mnemonic = "merry travel ostrich curious depth scorpion profit hidden motion forest expose method";
+var mnemonic = "final start hobby surprise network cradle chair laugh shallow client naive nasty";

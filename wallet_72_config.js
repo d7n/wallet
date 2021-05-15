@@ -1,1 +1,1 @@
-var mnemonic = "trophy album term relax bunker brother arch phone defy idea safe resist";
+var mnemonic = "smile ship situate bone tomorrow repair syrup dinner piece announce dynamic receive";

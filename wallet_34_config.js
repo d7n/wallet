@@ -1,1 +1,1 @@
-var mnemonic = "hunt fresh delay scale primary retreat have remove impulse dirt save lava";
+var mnemonic = "title wish stage increase target kiwi cute friend uncover lava involve hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "humble ten behave able under bus proud treat primary deer hire record";
+var mnemonic = "farm false siren custom divide sample antique amount scan local metal powder";

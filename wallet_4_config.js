@@ -1,1 +1,1 @@
-var mnemonic = "veteran whip stay century grid urge truth cake seminar chuckle physical lock";
+var mnemonic = "capital census whisper install join tattoo file setup sun regret renew inject";

@@ -1,1 +1,1 @@
-var mnemonic = "lift tornado surface mother furnace pelican gesture point guess say much check";
+var mnemonic = "trip polar impose chicken grab thought gaze tent two myth frost alcohol";

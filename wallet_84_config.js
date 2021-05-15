@@ -1,1 +1,1 @@
-var mnemonic = "glory fit leopard east alien bind play reduce mask amazing depart sausage";
+var mnemonic = "fit junk blade ignore disorder fury chimney trick sunny top silk absent";

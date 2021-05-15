@@ -1,1 +1,1 @@
-var mnemonic = "body purse right spy suspect fiber label swarm mention army divert sing";
+var mnemonic = "random ivory three scrub grass into arrange arm inspire tower post exercise";

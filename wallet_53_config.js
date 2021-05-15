@@ -1,1 +1,1 @@
-var mnemonic = "royal submit produce carry dynamic camp release album lens walnut yard expect";
+var mnemonic = "chapter inform memory essay adult crash february crash matter occur weird weasel";

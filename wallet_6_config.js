@@ -1,1 +1,1 @@
-var mnemonic = "boring quit supreme broccoli calm cycle season cave basic action citizen divorce";
+var mnemonic = "casual joke wonder board select penalty army conduct update victory faculty muffin";

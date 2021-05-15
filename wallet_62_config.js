@@ -1,1 +1,1 @@
-var mnemonic = "twelve trouble give horror pledge crisp action soap around loud finish rather";
+var mnemonic = "medal catalog legal people time mistake three cheese current hen wear galaxy";

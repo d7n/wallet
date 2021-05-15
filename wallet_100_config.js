@@ -1,1 +1,1 @@
-var mnemonic = "couple again congress party dolphin immense recycle wedding boy machine melody need";
+var mnemonic = "image night exist image truly multiply faith dune mind attend dance rude";

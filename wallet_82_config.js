@@ -1,1 +1,1 @@
-var mnemonic = "federal chat hundred broken obscure february ribbon over genre trap sick screen";
+var mnemonic = "window stick scrub sadness lion entry raise salt country lunch sample trust";

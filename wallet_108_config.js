@@ -1,1 +1,1 @@
-var mnemonic = "exile path decade entire minimum spice garbage segment ridge poet clip you";
+var mnemonic = "mansion they goose slide abandon forget banana bleak arena odor spike behind";

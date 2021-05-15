@@ -1,1 +1,1 @@
-var mnemonic = "race industry machine rug silk penalty avocado neglect hybrid stem horror type";
+var mnemonic = "grain pigeon hedgehog box marble between wink bag talk oak record lava";

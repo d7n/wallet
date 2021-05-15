@@ -1,1 +1,1 @@
-var mnemonic = "wage square light pole observe high have fuel perfect echo such mosquito";
+var mnemonic = "crowd cream void strong sun rude praise advice vague clap core holiday";

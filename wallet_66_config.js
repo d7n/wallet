@@ -1,1 +1,1 @@
-var mnemonic = "monitor sorry edge fox enact echo visa priority slice nut original aunt";
+var mnemonic = "turkey demise into patrol general artefact vivid antenna grant slam borrow cake";

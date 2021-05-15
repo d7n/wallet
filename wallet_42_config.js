@@ -1,1 +1,1 @@
-var mnemonic = "claim capital absent tenant crisp settle bright lazy practice acid fat retreat";
+var mnemonic = "brick school notable alter false wild movie lecture gown clutch initial save";

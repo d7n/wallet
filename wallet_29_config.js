@@ -1,1 +1,1 @@
-var mnemonic = "gospel verify december great slender swarm swamp rule ostrich car genuine duty";
+var mnemonic = "menu yellow end remind meadow advice ordinary unique bracket almost level organ";

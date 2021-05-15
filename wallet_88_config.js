@@ -1,1 +1,1 @@
-var mnemonic = "muffin what party bulk february artist again sentence zebra medal adjust devote";
+var mnemonic = "beauty retire sustain kingdom bomb design divorce all ostrich polar fatigue essence";

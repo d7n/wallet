@@ -1,1 +1,1 @@
-var mnemonic = "rail fault client forget slow express stuff auto ahead rain liquid fresh";
+var mnemonic = "captain family agree upper injury mass upgrade glide lecture tone six faculty";

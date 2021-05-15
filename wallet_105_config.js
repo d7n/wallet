@@ -1,1 +1,1 @@
-var mnemonic = "scissors detail spin solve funny fancy roof verb speak cannon shop blue";
+var mnemonic = "then cannon fashion siege bunker erase sauce dune stove group practice paper";

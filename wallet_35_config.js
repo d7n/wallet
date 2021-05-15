@@ -1,1 +1,1 @@
-var mnemonic = "alarm tent romance pair donate unique sauce round net drift smoke absurd";
+var mnemonic = "license industry usage dish seed view surround human chalk permit over oxygen";

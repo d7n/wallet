@@ -1,1 +1,1 @@
-var mnemonic = "excess tornado glide news grain current announce dutch square true lonely mutual";
+var mnemonic = "debate drift west stereo half host memory deputy company danger cloud sniff";

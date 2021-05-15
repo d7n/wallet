@@ -1,1 +1,1 @@
-var mnemonic = "town switch elbow crack word cause will cycle sign drama unhappy estate";
+var mnemonic = "bird flip panther truth illness absent anger bulk attend wage define phone";

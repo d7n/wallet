@@ -1,1 +1,1 @@
-var mnemonic = "chief double exclude spend convince wreck monster zoo type myth fragile federal";
+var mnemonic = "final enrich depart same region earth immense behind depend destroy web popular";

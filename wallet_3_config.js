@@ -1,1 +1,1 @@
-var mnemonic = "flash brain monster chalk kingdom tag balance century guard morning buzz master";
+var mnemonic = "bottom shoot throw skate vanish blush fancy neck wrist mixture crush maple";

@@ -1,1 +1,1 @@
-var mnemonic = "dress night slam spend tool garden place wish shock cruise cabbage crush";
+var mnemonic = "visit prepare turkey frequent street olive boat sweet captain panel surface tobacco";

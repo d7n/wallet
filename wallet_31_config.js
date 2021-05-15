@@ -1,1 +1,1 @@
-var mnemonic = "before access lock silly distance dose glance write boring okay system know";
+var mnemonic = "orphan nest march youth engage sauce bicycle cloud produce flight lecture artefact";

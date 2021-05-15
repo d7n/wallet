@@ -1,1 +1,1 @@
-var mnemonic = "pistol shoulder force verify list acid illegal frame steel toss fiction bench";
+var mnemonic = "embrace survey adapt sniff warm crane impulse enter joy fence sign unaware";

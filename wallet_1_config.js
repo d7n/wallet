@@ -1,1 +1,1 @@
-var mnemonic = "praise crisp ribbon simple waste vessel wise beef drive width peanut law";
+var mnemonic = "diamond position bonus eyebrow field device judge cook absurd require bid relief";

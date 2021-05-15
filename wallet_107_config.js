@@ -1,1 +1,1 @@
-var mnemonic = "little okay diagram hybrid waste width learn bracket tank feature flame ripple";
+var mnemonic = "mistake scan liar company clever blind burden aim quote strategy vivid erase";

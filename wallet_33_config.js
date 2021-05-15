@@ -1,1 +1,1 @@
-var mnemonic = "sound twist squeeze okay boil term front permit vicious isolate laundry annual";
+var mnemonic = "whip office output buffalo machine sell choice legal frequent shine advance vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue dog aware measure biology spice soon open shed awake repeat offer";
+var mnemonic = "celery clip edge diamond minor aim arrest style visual evil motion rescue";

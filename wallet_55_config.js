@@ -1,1 +1,1 @@
-var mnemonic = "secret rule blood daring obey glare grain shoulder weird unlock upper cube";
+var mnemonic = "witness deliver retire club pigeon camera start spend hotel pretty ghost train";

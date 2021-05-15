@@ -1,1 +1,1 @@
-var mnemonic = "topic people two proof worth rely castle song person usual album enact";
+var mnemonic = "rude usage despair sweet viable wisdom have venue obtain wagon start below";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat supply point kite jelly furnace rug story company drip cushion obey";
+var mnemonic = "circle release athlete century eagle boss harvest truth carbon brand walnut reward";

@@ -1,1 +1,1 @@
-var mnemonic = "globe toy soon then baby loyal front afraid thumb write disorder gentle";
+var mnemonic = "despair tray celery pink husband banner above diagram sure check surprise mistake";

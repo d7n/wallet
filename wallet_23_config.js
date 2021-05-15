@@ -1,1 +1,1 @@
-var mnemonic = "excite skull scorpion lumber faint caution pelican face utility address solve mirror";
+var mnemonic = "art pig swallow advance digital aerobic park various produce above rabbit prosper";

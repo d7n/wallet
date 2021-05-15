@@ -1,1 +1,1 @@
-var mnemonic = "pond catch believe erosion invest analyst require increase tobacco term essay federal";
+var mnemonic = "salute inhale legal tackle direct open enforce rhythm milk depth copy today";

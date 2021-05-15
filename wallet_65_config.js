@@ -1,1 +1,1 @@
-var mnemonic = "eager sauce maximum kid energy moon luxury also close blanket number company";
+var mnemonic = "next senior calm nest wasp heart million surround frog allow grass lake";

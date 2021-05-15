@@ -1,1 +1,1 @@
-var mnemonic = "rural seat achieve crash round toddler interest number stable wolf donkey connect";
+var mnemonic = "cargo barely south drive bag rocket people capital sunset elevator retire tent";

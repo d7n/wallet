@@ -1,1 +1,1 @@
-var mnemonic = "fiction burst pyramid pelican kick sample increase infant smoke silk inner charge";
+var mnemonic = "never solid occur capital advance toy example ginger forget toddler group infant";

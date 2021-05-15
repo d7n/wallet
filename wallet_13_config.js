@@ -1,1 +1,1 @@
-var mnemonic = "credit kitten very kitten engine picnic merit adult section october gap raise";
+var mnemonic = "puppy crumble zone hole magic grow track opera seven thumb route theory";

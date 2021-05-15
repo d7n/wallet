@@ -1,1 +1,1 @@
-var mnemonic = "tomato oblige concert tone supreme rabbit biology avoid ocean jazz okay brand";
+var mnemonic = "insane air valley auto chunk expect vast depart dutch stove season choose";

@@ -1,1 +1,1 @@
-var mnemonic = "slot coral idle prepare squirrel cross grape approve memory list angry express";
+var mnemonic = "wedding sea tumble human fine forest annual noodle prepare about benefit silent";

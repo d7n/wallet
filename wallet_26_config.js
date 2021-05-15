@@ -1,1 +1,1 @@
-var mnemonic = "shoe long celery wolf bless enact lemon orange scare saddle busy giant";
+var mnemonic = "wage island quality reject salmon plastic property hire olympic deal force bread";

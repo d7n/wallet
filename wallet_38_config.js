@@ -1,1 +1,1 @@
-var mnemonic = "security utility lend film salad lumber grunt more argue trade mad crime";
+var mnemonic = "cram address corn twin poem board match learn angry endorse wink fine";

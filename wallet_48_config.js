@@ -1,1 +1,1 @@
-var mnemonic = "poem domain base shield rule gossip quantum tornado jaguar quick destroy notable";
+var mnemonic = "panther manual ladder best service civil mosquito diamond strong drastic suit punch";

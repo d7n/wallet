@@ -1,1 +1,1 @@
-var mnemonic = "panther imitate push zebra tortoise same flag two various region sugar puppy";
+var mnemonic = "core purse west spoon pigeon skin retreat field employ burden crouch blood";

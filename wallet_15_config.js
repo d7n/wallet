@@ -1,1 +1,1 @@
-var mnemonic = "climb welcome daughter rose profit change sheriff minor palm enroll vacuum fat";
+var mnemonic = "scene issue problem afford motor syrup shrug wall adjust coffee mango awkward";

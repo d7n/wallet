@@ -1,1 +1,1 @@
-var mnemonic = "provide boil arena ill flush unit total veteran outside ask peanut fever";
+var mnemonic = "apple blush forward emotion north six mechanic quit battle provide wide artefact";

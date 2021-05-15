@@ -1,1 +1,1 @@
-var mnemonic = "drink coast wonder liar bicycle glow true weapon convince kite text decrease";
+var mnemonic = "holiday pet cycle erase ice group wood snap pumpkin federal assault library";

@@ -1,1 +1,1 @@
-var mnemonic = "panic paper elbow undo mass about trial twenty resource fashion hard boss";
+var mnemonic = "screen warfare pitch defy mosquito elbow maximum prevent twin hero similar carpet";
