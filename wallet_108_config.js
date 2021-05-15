@@ -1,1 +1,1 @@
-var mnemonic = "actual wedding property rubber evidence crunch defense pizza flame clean gift trust";
+var mnemonic = "orient garment december pledge stick price friend gauge solve begin satoshi mail";

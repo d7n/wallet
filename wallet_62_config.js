@@ -1,1 +1,1 @@
-var mnemonic = "ability repeat harbor nation frame school inject forward music orange bundle shoulder";
+var mnemonic = "taxi unveil luggage double order robust achieve doll indicate maximum moment smile";

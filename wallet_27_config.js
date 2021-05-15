@@ -1,1 +1,1 @@
-var mnemonic = "shield pass agree sausage accuse park wage bright topple question tackle sponsor";
+var mnemonic = "monitor lesson coast noise exist shallow humor auto round guilt fit grocery";

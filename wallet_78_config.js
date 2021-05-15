@@ -1,1 +1,1 @@
-var mnemonic = "hurry special hover truck scrap salmon also time envelope early south mango";
+var mnemonic = "filter rude sphere whisper claim net rent rude process record vehicle seminar";

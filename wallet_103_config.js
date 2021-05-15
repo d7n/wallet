@@ -1,1 +1,1 @@
-var mnemonic = "smooth yard unfair heart tent spot few usual fun admit acoustic clarify";
+var mnemonic = "cube genre scene police tumble state spirit normal mean labor rapid defense";

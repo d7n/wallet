@@ -1,1 +1,1 @@
-var mnemonic = "category swamp swamp lunch seat calm wasp resist ceiling stool critic cart";
+var mnemonic = "always green foot same magnet valve person gloom always equip culture cram";

@@ -1,1 +1,1 @@
-var mnemonic = "town field order emerge huge regret actor width female endless mask flame";
+var mnemonic = "salute victory pig inhale grief hour remove crouch hybrid cruise burden resource";

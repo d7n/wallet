@@ -1,1 +1,1 @@
-var mnemonic = "orange sketch display romance lunar pair cat cotton history face wear edge";
+var mnemonic = "rather captain mansion job load try slam fortune hello double weekend marble";

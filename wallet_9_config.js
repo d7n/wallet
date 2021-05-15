@@ -1,1 +1,1 @@
-var mnemonic = "picnic soap dragon gather vacuum simple dove hidden course hand brush sure";
+var mnemonic = "payment cruel gift acquire pause runway entire tomato chair enroll bullet candy";

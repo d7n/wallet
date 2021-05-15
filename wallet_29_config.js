@@ -1,1 +1,1 @@
-var mnemonic = "elbow snack puppy home tribe water before panther rapid roast few slab";
+var mnemonic = "crystal slush leave fence damage outdoor van tumble affair bitter negative false";

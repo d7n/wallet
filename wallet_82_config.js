@@ -1,1 +1,1 @@
-var mnemonic = "error payment tilt tent click bleak ripple arena option runway pottery humor";
+var mnemonic = "attitude paper egg student pioneer pink swim diesel exotic tent coyote limit";

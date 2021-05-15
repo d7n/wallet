@@ -1,1 +1,1 @@
-var mnemonic = "ask enjoy perfect alter bargain mirror pride vicious apart offer space appear";
+var mnemonic = "analyst enrich sister laugh bronze imitate borrow share certain power purse tell";

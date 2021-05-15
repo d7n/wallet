@@ -1,1 +1,1 @@
-var mnemonic = "give drift price modify prefer piano push become oven what update planet";
+var mnemonic = "bean marine build kitten turtle arrow three better unable smart story economy";

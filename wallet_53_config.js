@@ -1,1 +1,1 @@
-var mnemonic = "onion link coast bottom giggle misery near kiss deal regret basic master";
+var mnemonic = "kind solid curtain liar spoon swarm search bright avoid romance shock crash";

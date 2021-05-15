@@ -1,1 +1,1 @@
-var mnemonic = "holiday sausage safe arrive cook dolphin clutch work pool tunnel amount minimum";
+var mnemonic = "tattoo knife angle mention border cat ostrich jeans already option federal crew";

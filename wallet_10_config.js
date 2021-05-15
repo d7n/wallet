@@ -1,1 +1,1 @@
-var mnemonic = "flee oyster doctor mercy place build enhance vocal argue cradle security boss";
+var mnemonic = "rocket parent shy measure empower junk spike explain seek throw edge airport";

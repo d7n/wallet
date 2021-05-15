@@ -1,1 +1,1 @@
-var mnemonic = "kite echo cat air menu yellow erupt action also omit diagram three";
+var mnemonic = "object infant popular witness pair pledge pigeon inhale reduce fork throw perfect";

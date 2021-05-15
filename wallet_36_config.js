@@ -1,1 +1,1 @@
-var mnemonic = "enemy canal service brother treat garment six garage health because enjoy unhappy";
+var mnemonic = "winter shaft lunch fine gloom spray hire jealous rate salute mention lawsuit";

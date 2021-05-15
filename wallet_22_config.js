@@ -1,1 +1,1 @@
-var mnemonic = "where canvas affair deputy save dust cereal word toss alcohol under morning";
+var mnemonic = "trial private fix predict skate income very filter jewel tongue club judge";

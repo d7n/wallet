@@ -1,1 +1,1 @@
-var mnemonic = "catalog stage remember collect trumpet fluid pluck bargain mind rigid absorb arrange";
+var mnemonic = "inhale abstract art medal duck unlock butter buyer orphan crime thank quote";

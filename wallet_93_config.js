@@ -1,1 +1,1 @@
-var mnemonic = "enjoy baby pudding arrive pole rhythm stable until lobster wide when duty";
+var mnemonic = "uncle badge speed general catalog leisure blouse october cool school curve banana";

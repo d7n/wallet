@@ -1,1 +1,1 @@
-var mnemonic = "little chief naive common inform found announce auto faint near lava talk";
+var mnemonic = "park hurt cluster choose index diet ridge acquire daring apology good witness";

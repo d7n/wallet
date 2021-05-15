@@ -1,1 +1,1 @@
-var mnemonic = "book awful wrist add mixture bronze buyer pizza fine demand scale tank";
+var mnemonic = "glory bread goddess brass panel plastic great multiply sniff afford donor essence";

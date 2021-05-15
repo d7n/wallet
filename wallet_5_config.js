@@ -1,1 +1,1 @@
-var mnemonic = "install lottery chronic dinner antique coast gossip dash alert source job bean";
+var mnemonic = "describe impulse damp brand useful meat ostrich actual drift cushion fever damp";

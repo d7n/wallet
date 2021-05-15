@@ -1,1 +1,1 @@
-var mnemonic = "focus parrot total juice media shop embody soccer surprise flag uphold valve";
+var mnemonic = "axis want stay bacon defy catch remember horse puppy sword ugly domain";

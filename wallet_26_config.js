@@ -1,1 +1,1 @@
-var mnemonic = "cradle force piano two injury nest camera glimpse black usage stable guitar";
+var mnemonic = "food blue lonely wave stereo drama aerobic fork twelve bench clerk lazy";

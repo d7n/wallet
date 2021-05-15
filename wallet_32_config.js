@@ -1,1 +1,1 @@
-var mnemonic = "resist flash error until endorse fame jealous assault person winner blame funny";
+var mnemonic = "scrub tide fox taste pottery tag agent poem under party final wet";

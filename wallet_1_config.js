@@ -1,1 +1,1 @@
-var mnemonic = "unit guitar label snack segment genuine jazz fee giraffe tenant mom blossom";
+var mnemonic = "prevent trumpet actual raven month orbit educate enlist consider knock pink embody";

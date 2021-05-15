@@ -1,1 +1,1 @@
-var mnemonic = "sponsor conduct proof uncover announce dirt derive dash winter define learn what";
+var mnemonic = "knee detail glance horn price fox cherry squeeze interest siege culture kind";

@@ -1,1 +1,1 @@
-var mnemonic = "nature wood shock wire label sword pond repair carry tackle gun fossil";
+var mnemonic = "baby success elite lens turtle crystal pulp code want treat endorse flat";

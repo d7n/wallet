@@ -1,1 +1,1 @@
-var mnemonic = "truck cinnamon exit valve cave scale dry mixed master better stove twice";
+var mnemonic = "vivid transfer will nation disease trap first crouch firm spoil modify record";

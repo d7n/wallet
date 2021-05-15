@@ -1,1 +1,1 @@
-var mnemonic = "brisk surge beef square idea title three wing run item level obey";
+var mnemonic = "proof purse key song immense orient razor rough era name hen satisfy";

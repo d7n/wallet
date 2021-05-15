@@ -1,1 +1,1 @@
-var mnemonic = "treat verify boss olive peasant horn pulp olive offer local whip outer";
+var mnemonic = "piano absorb cotton crush clerk claw cool curtain will inquiry seek profit";

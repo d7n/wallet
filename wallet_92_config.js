@@ -1,1 +1,1 @@
-var mnemonic = "knife setup member dumb uncover toast wear crash angry spike anchor wisdom";
+var mnemonic = "snap chase typical number shoe sausage suit canoe blouse chapter garment enrich";

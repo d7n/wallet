@@ -1,1 +1,1 @@
-var mnemonic = "daughter able shine century harvest argue myth marble cliff gossip nature squeeze";
+var mnemonic = "knock bring scene include exist object apple domain twist slight mammal section";

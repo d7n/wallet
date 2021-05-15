@@ -1,1 +1,1 @@
-var mnemonic = "idea purchase convince inflict clog heart knife degree inch forum motion couch";
+var mnemonic = "blood scheme reform february pattern party park attract sphere donkey ride such";

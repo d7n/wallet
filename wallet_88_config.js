@@ -1,1 +1,1 @@
-var mnemonic = "mansion distance tunnel crawl predict ridge stumble regret soccer race rib surface";
+var mnemonic = "dance inch craft bread dial piece spirit album pact load weather fall";

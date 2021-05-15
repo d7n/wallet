@@ -1,1 +1,1 @@
-var mnemonic = "squirrel they unknown shallow pact half relief trash hurry inject album gown";
+var mnemonic = "famous joke merry brand come hen safe rib inner laundry want husband";

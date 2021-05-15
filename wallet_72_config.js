@@ -1,1 +1,1 @@
-var mnemonic = "belt acoustic narrow trial indicate scorpion hurt island suit thumb viable arm";
+var mnemonic = "tribe depart okay shadow name worth wise tube love build blouse swamp";

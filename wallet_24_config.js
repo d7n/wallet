@@ -1,1 +1,1 @@
-var mnemonic = "leave cube convince noise half feel start audit butter diesel blue fog";
+var mnemonic = "junior horn mixture pizza cage feature elevator cabin assume banana strategy fix";

@@ -1,1 +1,1 @@
-var mnemonic = "hood crime wheel bag room profit miracle define knife famous olympic purity";
+var mnemonic = "liar rule help jelly worry train airport lawsuit canoe chest hard voice";

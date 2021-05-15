@@ -1,1 +1,1 @@
-var mnemonic = "wolf program captain hard legend blade course upon sea quiz interest vocal";
+var mnemonic = "depth sunset victory useful account loan fork address please jaguar merit right";

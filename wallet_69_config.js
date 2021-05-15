@@ -1,1 +1,1 @@
-var mnemonic = "vibrant useful that prize travel clinic robust worth erode minimum cushion seat";
+var mnemonic = "avocado report train unusual license region wild boil funny okay scan satoshi";

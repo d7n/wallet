@@ -1,1 +1,1 @@
-var mnemonic = "civil this unusual coast exchange style comfort marine blue perfect worry obey";
+var mnemonic = "amazing brown boring earn velvet emerge acquire bike body pause alcohol oblige";

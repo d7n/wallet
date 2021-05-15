@@ -1,1 +1,1 @@
-var mnemonic = "boss change monkey ketchup indoor copy become life drive any rubber fine";
+var mnemonic = "leisure gun vote meadow host electric lake fix alpha whale indoor travel";

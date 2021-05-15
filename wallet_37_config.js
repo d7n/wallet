@@ -1,1 +1,1 @@
-var mnemonic = "asset income tribe glad hamster owner north there invite bench mail pretty";
+var mnemonic = "glory ticket blade earth trap mail diary unit ripple illegal design energy";

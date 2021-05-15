@@ -1,1 +1,1 @@
-var mnemonic = "because bonus winter repair eternal rally mountain state real author tattoo thought";
+var mnemonic = "gown celery book miracle inner excuse secret federal monitor borrow vault public";

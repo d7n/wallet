@@ -1,1 +1,1 @@
-var mnemonic = "save short march dignity truth proof galaxy faculty obtain seven shove grit";
+var mnemonic = "replace auction smile light solve riot one jar rebuild waste order broccoli";

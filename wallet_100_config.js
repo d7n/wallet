@@ -1,1 +1,1 @@
-var mnemonic = "illegal slogan true shock annual cluster pen gas assist stone defy tuition";
+var mnemonic = "expand order meadow phrase turn slam dragon robot anchor flame inject describe";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal craft wool pear profit win slot dilemma cousin pool legal unit";
+var mnemonic = "finish panic original grass first tomato exclude outside swift paper old season";

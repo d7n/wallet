@@ -1,1 +1,1 @@
-var mnemonic = "sad draft idle elite record rally bring raven patient pool video seed";
+var mnemonic = "cute increase grape wrist obvious retreat trade magnet knee law oval opera";

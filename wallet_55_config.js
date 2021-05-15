@@ -1,1 +1,1 @@
-var mnemonic = "poet year upon life quit imitate service outside need scrub cage gospel";
+var mnemonic = "clever ensure pizza spawn sphere deliver guard key hub dignity clean time";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble ready vacant actor prepare remember trap fiscal title battle wet before";
+var mnemonic = "general screen husband unit cry permit prison welcome approve file pen mesh";

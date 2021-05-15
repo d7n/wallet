@@ -1,1 +1,1 @@
-var mnemonic = "end apple rich paddle sustain feel clinic wreck swift wash animal mansion";
+var mnemonic = "twist crack piece situate say one robust ship steel because february air";

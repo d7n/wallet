@@ -1,1 +1,1 @@
-var mnemonic = "cover fabric try snow text prefer rare morning sausage track cherry ticket";
+var mnemonic = "ketchup source theory eternal steak unknown cart body smart lecture excite salon";

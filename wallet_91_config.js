@@ -1,1 +1,1 @@
-var mnemonic = "cherry brass can emerge walk prefer print feature require foot jealous spare";
+var mnemonic = "dolphin verb basket clog immense tragic enroll novel frequent stomach common rail";

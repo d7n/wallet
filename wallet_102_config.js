@@ -1,1 +1,1 @@
-var mnemonic = "axis early lottery clump habit predict onion month net treat toilet rail";
+var mnemonic = "host tuition man omit code hold symbol guitar scatter spice horse reject";

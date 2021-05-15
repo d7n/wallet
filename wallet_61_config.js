@@ -1,1 +1,1 @@
-var mnemonic = "divorce attend asthma major fortune old shiver burden order author armed ready";
+var mnemonic = "shop sure situate beach give jewel media novel certain town try gospel";

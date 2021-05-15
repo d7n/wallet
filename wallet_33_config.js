@@ -1,1 +1,1 @@
-var mnemonic = "caution rare decrease battle remind main proof super critic leopard excuse chronic";
+var mnemonic = "radar secret neglect mechanic candy limb then upper saddle transfer behave twist";

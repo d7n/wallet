@@ -1,1 +1,1 @@
-var mnemonic = "grocery basket aim logic pause flight prize impact stick plastic dilemma leave";
+var mnemonic = "hawk title ensure gas wrist idea salad spend cancel forum like net";

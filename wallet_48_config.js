@@ -1,1 +1,1 @@
-var mnemonic = "hammer mom jazz happy shock lunch same name obscure animal ticket once";
+var mnemonic = "lady spin half anger claw trust state potato drill negative panther acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect guide blush puppy alter fish more earth train east release guess";
+var mnemonic = "load act salon volcano upgrade wedding paper detail member bronze stove heavy";

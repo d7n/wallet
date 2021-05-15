@@ -1,1 +1,1 @@
-var mnemonic = "salmon juice pepper heavy anger arctic gun west visa dwarf cat valve";
+var mnemonic = "bubble mesh summer lumber arrest wonder vacant glimpse insane impact describe cream";

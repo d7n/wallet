@@ -1,1 +1,1 @@
-var mnemonic = "clutch neutral double protect canyon connect inform kick reduce alter canyon uncle";
+var mnemonic = "slide inhale rabbit plug plastic quit room oval coyote toilet orient acoustic";

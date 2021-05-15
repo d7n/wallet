@@ -1,1 +1,1 @@
-var mnemonic = "connect author ostrich because move allow ritual unusual dinosaur bunker roof prison";
+var mnemonic = "canal field provide horn earth arrive suit basic hill mango auction harbor";

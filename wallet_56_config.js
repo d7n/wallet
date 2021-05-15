@@ -1,1 +1,1 @@
-var mnemonic = "coil neither reveal fiber weather twin avoid weekend letter vacuum neutral describe";
+var mnemonic = "myth biology clarify coin canoe mesh parade chief powder outside master seek";

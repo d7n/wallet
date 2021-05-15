@@ -1,1 +1,1 @@
-var mnemonic = "bitter balcony bronze broom total enforce glove peasant axis zebra steel pole";
+var mnemonic = "noble insect device empty soda hand unlock ocean mosquito trial novel inspire";

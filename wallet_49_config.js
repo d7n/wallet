@@ -1,1 +1,1 @@
-var mnemonic = "grass neutral arrow amateur estate kitchen another reason victory buzz practice naive";
+var mnemonic = "sad two boy sport broom pond mind muffin alpha lyrics card stadium";

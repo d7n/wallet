@@ -1,1 +1,1 @@
-var mnemonic = "slender beef lion fold someone example leg cannon dignity cool fruit leave";
+var mnemonic = "stamp dirt fortune client toss glass often ritual iron install scatter motor";

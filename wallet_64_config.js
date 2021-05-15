@@ -1,1 +1,1 @@
-var mnemonic = "cargo over puzzle spell garbage news climb gorilla poem donate bring voyage";
+var mnemonic = "relax truth theory garment ranch first dinosaur thank give next firm giraffe";

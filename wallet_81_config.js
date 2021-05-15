@@ -1,1 +1,1 @@
-var mnemonic = "athlete upper ivory creek legal sort gun achieve recall track fashion ecology";
+var mnemonic = "boil grunt pause dumb spirit grunt priority right giraffe entry about viable";

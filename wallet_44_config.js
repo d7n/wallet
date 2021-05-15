@@ -1,1 +1,1 @@
-var mnemonic = "crane pulp steak give float weird jeans please home project power inject";
+var mnemonic = "orphan tonight provide capital hurt announce disagree pave trim raccoon elbow income";

@@ -1,1 +1,1 @@
-var mnemonic = "young limb cattle patch magnet grow pole margin evil indicate spray large";
+var mnemonic = "manage similar drop roast exclude inhale fly easily fury distance razor smile";

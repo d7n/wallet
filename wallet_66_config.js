@@ -1,1 +1,1 @@
-var mnemonic = "toast unknown thunder slice tool other credit differ dentist spawn hazard forest";
+var mnemonic = "other ride unveil nest wink essay print sand local juice exhaust bone";

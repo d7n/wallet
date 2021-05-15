@@ -1,1 +1,1 @@
-var mnemonic = "increase maid mystery blue save expand gravity pact crime general sentence element";
+var mnemonic = "exhaust anchor pause grocery tobacco gorilla bright famous device faith lady clean";

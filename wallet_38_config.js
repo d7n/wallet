@@ -1,1 +1,1 @@
-var mnemonic = "drink render ivory shy gather style shiver just battle spice cargo twelve";
+var mnemonic = "segment portion window verb cinnamon drift welcome expand roof one canal genius";

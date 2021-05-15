@@ -1,1 +1,1 @@
-var mnemonic = "disorder limb dress edge swim prefer surprise still praise letter dynamic dune";
+var mnemonic = "office mosquito suit ribbon stadium family canyon lemon blur stand burden alter";

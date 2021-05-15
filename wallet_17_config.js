@@ -1,1 +1,1 @@
-var mnemonic = "man violin humble drum total fog increase fly quiz fresh humble glory";
+var mnemonic = "benefit buyer daring year client people vault fatal south cart certain caught";

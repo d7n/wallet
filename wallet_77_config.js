@@ -1,1 +1,1 @@
-var mnemonic = "maze critic reform across cube ability coast unlock bleak disagree leisure focus";
+var mnemonic = "filter vacant point try open divide base grain shuffle aisle element ill";

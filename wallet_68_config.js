@@ -1,1 +1,1 @@
-var mnemonic = "hair question identify exact skirt range try plug alley dilemma spoon luggage";
+var mnemonic = "bronze initial nephew you shaft rival salute despair game black pig decide";

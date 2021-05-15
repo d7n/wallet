@@ -1,1 +1,1 @@
-var mnemonic = "group toy home crater chicken culture involve slush pizza oyster inquiry loyal";
+var mnemonic = "ecology cargo crisp cloud dismiss grocery pledge input balcony knee thumb midnight";

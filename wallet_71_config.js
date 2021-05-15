@@ -1,1 +1,1 @@
-var mnemonic = "that balcony light royal paddle rifle easily garment clay gift nation voice";
+var mnemonic = "faint this furnace inspire bag cool health light phrase scan grow glory";

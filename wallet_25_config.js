@@ -1,1 +1,1 @@
-var mnemonic = "kiwi two hurt garbage marriage globe wait nation crush slice whisper manual";
+var mnemonic = "mistake radar federal worry good venue culture ramp congress odor seat amused";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter prize churn harbor world topic gaze brand pave danger scissors moment";
+var mnemonic = "mansion credit junior ten census mention idle throw crawl side essay what";

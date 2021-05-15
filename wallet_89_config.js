@@ -1,1 +1,1 @@
-var mnemonic = "clerk shift shaft senior custom onion afford green foil air sure achieve";
+var mnemonic = "brick rely finish gain crumble mouse immune exotic have glance since ritual";

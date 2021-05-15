@@ -1,1 +1,1 @@
-var mnemonic = "rare company network ball gas cruise cushion symbol float doctor trim wrist";
+var mnemonic = "yard circle giraffe bomb oxygen sustain ostrich six only barrel consider trumpet";

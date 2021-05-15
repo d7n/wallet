@@ -1,1 +1,1 @@
-var mnemonic = "forest gap over token link knife bright piano follow planet olympic what";
+var mnemonic = "exclude exercise leaf water congress reduce daughter finish fog exact setup marine";

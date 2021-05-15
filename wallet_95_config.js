@@ -1,1 +1,1 @@
-var mnemonic = "bicycle bargain category dream interest chief glide fade tilt segment scene glass";
+var mnemonic = "cherry current lunch super type mammal cheap toe sorry milk silver increase";

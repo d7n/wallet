@@ -1,1 +1,1 @@
-var mnemonic = "fatal lawsuit satoshi scrub torch resource museum snake sea toddler conduct achieve";
+var mnemonic = "runway stone adapt vast acquire banner water decorate young bulk sausage glimpse";

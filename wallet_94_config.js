@@ -1,1 +1,1 @@
-var mnemonic = "dentist slight volcano lamp when fragile damage voyage cluster inject gown parent";
+var mnemonic = "aisle artefact degree debris two current typical black fuel bicycle circle lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "price picture oven salad cave vendor pattern change virus much raw inform";
+var mnemonic = "elevator chronic sadness three allow very lens among effort creek forget firm";

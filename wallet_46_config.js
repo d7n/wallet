@@ -1,1 +1,1 @@
-var mnemonic = "negative suffer chimney capital damp minimum leaf dentist hub pottery relief remember";
+var mnemonic = "proof grape foster vote female pencil youth step talent answer actual proud";

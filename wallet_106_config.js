@@ -1,1 +1,1 @@
-var mnemonic = "mystery august maple attack remain wire seven topple recall uncle country profit";
+var mnemonic = "desk anchor army pause need prevent swing make body ritual allow camera";
