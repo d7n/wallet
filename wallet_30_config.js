@@ -1,1 +1,1 @@
-var mnemonic = "deny shiver record offer hard powder crater solution luxury usage canvas gentle";
+var mnemonic = "include device install stamp forget post resist prevent wealth betray awful amazing";

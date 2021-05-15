@@ -1,1 +1,1 @@
-var mnemonic = "blossom typical auto image response library again vapor farm drive danger giant";
+var mnemonic = "inmate skill curve water convince raven sword arrest garden glory knee toddler";

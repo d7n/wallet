@@ -1,1 +1,1 @@
-var mnemonic = "nose never length swamp produce nose bullet heavy erupt shaft minute casino";
+var mnemonic = "crunch below purse holiday market water change mercy miss elite box exit";

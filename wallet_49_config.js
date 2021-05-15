@@ -1,1 +1,1 @@
-var mnemonic = "pear silver muscle tank melt equip else birth double hamster cabin stove";
+var mnemonic = "grief celery swarm arrive best short sense luxury gym loyal holiday letter";

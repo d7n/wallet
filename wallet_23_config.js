@@ -1,1 +1,1 @@
-var mnemonic = "sell share pudding gym only coast mosquito blanket fence theme bridge cram";
+var mnemonic = "huge near abuse vehicle frog grit inflict ridge tunnel rebuild dry physical";

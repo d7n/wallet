@@ -1,1 +1,1 @@
-var mnemonic = "today project shift broccoli decrease spell shrimp wait skull essence twin scout";
+var mnemonic = "coin trumpet attend shiver sail remove original history scale jeans slice piano";

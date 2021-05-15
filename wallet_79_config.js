@@ -1,1 +1,1 @@
-var mnemonic = "cannon you sea next ginger mention squeeze worth throw jewel digital transfer";
+var mnemonic = "deal this mention silk best couple useless leg fury tenant armor door";

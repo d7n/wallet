@@ -1,1 +1,1 @@
-var mnemonic = "jeans minor chef fire fox hurt ugly claw worth ready put upon";
+var mnemonic = "trick same sword gadget west earn grain assist artist amazing stone tribe";

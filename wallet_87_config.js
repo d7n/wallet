@@ -1,1 +1,1 @@
-var mnemonic = "swing fiction vessel boy remove weather ripple expire detect puzzle boost improve";
+var mnemonic = "say link smooth frame pupil misery sell until shell venture end vote";

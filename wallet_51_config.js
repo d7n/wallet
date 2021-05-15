@@ -1,1 +1,1 @@
-var mnemonic = "index cable shock need stumble combine quiz toward noble bring baby gesture";
+var mnemonic = "resist bring just coil humble list spider useless cream lumber glare upper";

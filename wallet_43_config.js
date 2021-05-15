@@ -1,1 +1,1 @@
-var mnemonic = "fossil bracket rice desert width beach stable march nephew slim mutual ketchup";
+var mnemonic = "trash palm decorate business slam digital hold present remove permit knee ozone";

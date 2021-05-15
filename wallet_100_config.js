@@ -1,1 +1,1 @@
-var mnemonic = "hole essence unable cinnamon prosper inner rely hawk receive mandate buffalo angle";
+var mnemonic = "escape session rigid carry dream error mirror pupil normal attract lonely camera";

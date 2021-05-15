@@ -1,1 +1,1 @@
-var mnemonic = "choose multiply priority six acid wear bird protect jar protect runway pulse";
+var mnemonic = "turkey spin intact husband neck action stage brass universe rate ticket surprise";

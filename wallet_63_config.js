@@ -1,1 +1,1 @@
-var mnemonic = "train net between fatigue naive engine seed basket torch foil hand prevent";
+var mnemonic = "thumb bright junior exchange decade tomorrow balcony soul skate grab coach tank";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic whisper speak play myself coconut assault stay bright wonder poet stick";
+var mnemonic = "pigeon hat comfort release scale feel winner bitter write puppy saddle satisfy";

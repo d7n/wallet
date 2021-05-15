@@ -1,1 +1,1 @@
-var mnemonic = "scout draft accuse enable burden front broken expect prepare budget frozen balcony";
+var mnemonic = "network ribbon reward fire around poverty deny turkey poet quiz mother mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "vote miss matrix ski alarm total vibrant broccoli visual foil follow pride";
+var mnemonic = "advice brief coffee oblige struggle enact pole erase actress wasp sponsor sketch";

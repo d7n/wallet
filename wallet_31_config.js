@@ -1,1 +1,1 @@
-var mnemonic = "dizzy indoor cereal slight depend sail armed awesome sudden tide extra tower";
+var mnemonic = "lift cannon fatal biology arm clog aunt staff busy fix water wool";

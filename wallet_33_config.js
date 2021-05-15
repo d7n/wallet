@@ -1,1 +1,1 @@
-var mnemonic = "label load ship inherit rain bachelor much antenna direct naive donkey arctic";
+var mnemonic = "crawl athlete silver fix gown jump exhibit produce yellow resist test pill";

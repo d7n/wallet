@@ -1,1 +1,1 @@
-var mnemonic = "calm trend banner muscle spawn need beauty rescue lake trip zero vote";
+var mnemonic = "route young child horror order shield way token unit letter prefer creek";

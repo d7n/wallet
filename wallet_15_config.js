@@ -1,1 +1,1 @@
-var mnemonic = "oxygen brisk dance risk pencil trouble gate bird trash air elite shaft";
+var mnemonic = "check sort gloom share hold evoke voice wet crash calm brand barely";

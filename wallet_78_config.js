@@ -1,1 +1,1 @@
-var mnemonic = "able west lawn brand together lock fashion oak judge flash excuse switch";
+var mnemonic = "poverty fiction dress save mule stage license hotel window outdoor tape equal";

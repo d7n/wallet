@@ -1,1 +1,1 @@
-var mnemonic = "olympic cactus bunker magic twenty slim doll notice display skate choice bonus";
+var mnemonic = "best orchard toast forget asthma okay summer arrange deer trap glory host";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance shine gaze rhythm position rally water key tired unable rather away";
+var mnemonic = "great armor pizza enforce crew myth chaos price man beach able spoon";

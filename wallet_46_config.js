@@ -1,1 +1,1 @@
-var mnemonic = "cat luggage worth judge stuff together black photo beyond random spike book";
+var mnemonic = "twice someone mandate poem snow light cabin select shaft winter endless brave";

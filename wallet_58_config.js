@@ -1,1 +1,1 @@
-var mnemonic = "fiscal brother because include dutch task clarify tiger stick hard voyage grunt";
+var mnemonic = "income dinosaur clap scorpion next before thrive armed join bronze road leaf";

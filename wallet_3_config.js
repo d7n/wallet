@@ -1,1 +1,1 @@
-var mnemonic = "carpet earn purity bench butter similar nice boost switch verb twelve credit";
+var mnemonic = "north vast flash toilet loud name hello among error dinosaur shoot angry";

@@ -1,1 +1,1 @@
-var mnemonic = "ball give adult clump hawk gather grow prepare reform silent delay always";
+var mnemonic = "wine clog churn pudding measure black immense canvas quantum romance donor lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "powder panda wrist spy attitude brass tuition blush sheriff maid milk inhale";
+var mnemonic = "van wear congress blind occur blanket soldier cancel dinosaur wolf divorce render";

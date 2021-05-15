@@ -1,1 +1,1 @@
-var mnemonic = "pen style offer bulb grain useful truly economy visa unable fix disease";
+var mnemonic = "toast exhaust sign apology gravity raccoon right estate voyage save false milk";

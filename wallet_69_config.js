@@ -1,1 +1,1 @@
-var mnemonic = "above smile water mechanic menu raise dream stand income ask scatter vibrant";
+var mnemonic = "weather direct nephew net fit oxygen ethics impulse wheat blade dad tree";

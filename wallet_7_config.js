@@ -1,1 +1,1 @@
-var mnemonic = "identify mouse project unknown skill motion figure question night learn crunch spray";
+var mnemonic = "dawn gym damage fit voice chunk daughter fashion expect fee someone dynamic";

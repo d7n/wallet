@@ -1,1 +1,1 @@
-var mnemonic = "client prevent dragon rain laugh expect curious train improve law monkey angle";
+var mnemonic = "rural gallery genius impose execute palm humor truck guide cabbage vocal help";

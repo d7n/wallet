@@ -1,1 +1,1 @@
-var mnemonic = "modify circle since electric bag muffin capital dwarf scatter news valid million";
+var mnemonic = "cage equip gauge impact mansion state connect noodle layer sudden athlete under";

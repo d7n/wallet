@@ -1,1 +1,1 @@
-var mnemonic = "bar easily merge asthma movie staff hope bamboo ice peasant useful display";
+var mnemonic = "subject object monster route inside neck host melt bitter cousin sun photo";

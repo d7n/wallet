@@ -1,1 +1,1 @@
-var mnemonic = "know robust cover devote mirror begin sudden pass help album range daring";
+var mnemonic = "two bleak kind shield horse nominee furnace squeeze near garbage clown fresh";

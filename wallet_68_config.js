@@ -1,1 +1,1 @@
-var mnemonic = "alcohol myth life three pistol vehicle dilemma chicken undo cradle bag chief";
+var mnemonic = "moment abandon wild kingdom kidney negative pulse injury away spread seven genius";

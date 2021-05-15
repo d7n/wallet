@@ -1,1 +1,1 @@
-var mnemonic = "stick trash universe palm fence advice zero spirit shift kitchen school client";
+var mnemonic = "voice feed disease taxi dutch first travel diagram hire silent today flight";

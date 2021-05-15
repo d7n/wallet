@@ -1,1 +1,1 @@
-var mnemonic = "resemble control radio order casual media bench supply inside myth talent release";
+var mnemonic = "city favorite light friend possible quote thing fire chest dignity cost upon";

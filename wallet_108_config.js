@@ -1,1 +1,1 @@
-var mnemonic = "among paddle blade question inmate pond square excess install panda motion dirt";
+var mnemonic = "bring edge alpha helmet amused aspect office feature bunker weasel denial flavor";

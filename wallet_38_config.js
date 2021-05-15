@@ -1,1 +1,1 @@
-var mnemonic = "emerge security minor pipe quick bulk almost fragile mother fly sure until";
+var mnemonic = "grief language typical connect north empty prevent child wet gown spider develop";

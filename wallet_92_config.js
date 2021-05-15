@@ -1,1 +1,1 @@
-var mnemonic = "youth round coin swing fitness tree check squeeze carbon cattle drum toddler";
+var mnemonic = "thumb seven scene tennis window entry man funny equip absurd pottery write";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise glass leader isolate foam myself figure interest potato stock dinosaur detail";
+var mnemonic = "wet punch flight step afraid side february pretty actual drive hybrid tuna";

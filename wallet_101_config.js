@@ -1,1 +1,1 @@
-var mnemonic = "auto better scene cruel utility square seed elephant zero excess someone orange";
+var mnemonic = "maid visual atom month connect aisle whisper profit access casino library major";

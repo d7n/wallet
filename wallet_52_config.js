@@ -1,1 +1,1 @@
-var mnemonic = "skate must move number pencil valley child myself egg action merry domain";
+var mnemonic = "now valid gravity mechanic review three vessel sport kick museum decade glove";

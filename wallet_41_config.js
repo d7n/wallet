@@ -1,1 +1,1 @@
-var mnemonic = "human family aisle visual erupt remember tornado license rookie step illegal velvet";
+var mnemonic = "gold palace world curve gloom frequent undo voyage coach mansion beef lizard";

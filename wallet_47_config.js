@@ -1,1 +1,1 @@
-var mnemonic = "cigar hurt proud clarify able affair man ginger catch gentle napkin guard";
+var mnemonic = "web head mystery drama narrow degree salmon fiction best deer rather enemy";

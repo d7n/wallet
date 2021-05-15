@@ -1,1 +1,1 @@
-var mnemonic = "engage poem awful motion issue deal mercy payment hurdle today around capable";
+var mnemonic = "thrive say air mercy scrap fix mammal future loan buzz kangaroo mask";

@@ -1,1 +1,1 @@
-var mnemonic = "census feel toilet burger mom glow market valley trend purse buzz tenant";
+var mnemonic = "junior brief health voyage couple ride fade negative celery guide cross umbrella";

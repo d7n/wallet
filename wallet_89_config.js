@@ -1,1 +1,1 @@
-var mnemonic = "flame cheap lawsuit perfect record flee basic mistake idle local window lab";
+var mnemonic = "ramp eight valley notice sadness call cream onion own ghost ritual job";

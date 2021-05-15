@@ -1,1 +1,1 @@
-var mnemonic = "course paddle knee exclude canoe swap phrase always bamboo cargo gasp guide";
+var mnemonic = "ripple rigid flavor nothing torch caution sail conduct excite skull fabric betray";

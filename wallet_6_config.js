@@ -1,1 +1,1 @@
-var mnemonic = "canal window urge twice acid radio garden timber limb unfair twenty error";
+var mnemonic = "eight nephew raw spirit vivid near reflect genius rapid monster arrange sentence";

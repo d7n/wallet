@@ -1,1 +1,1 @@
-var mnemonic = "tumble month time myth private bunker dream harvest couch green pigeon olympic";
+var mnemonic = "lemon throw settle poet impose artist snack agent stand captain magic stove";

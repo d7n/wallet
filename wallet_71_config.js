@@ -1,1 +1,1 @@
-var mnemonic = "six add shell wild dwarf echo this gun other enable invest wait";
+var mnemonic = "ranch steak certain give gorilla tray soon economy brush already tiny expose";

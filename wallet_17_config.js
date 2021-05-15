@@ -1,1 +1,1 @@
-var mnemonic = "knock program humor among exhaust pill purity soft grab property fox blossom";
+var mnemonic = "around wisdom saddle unhappy myself okay balance opera game arrive hint lion";

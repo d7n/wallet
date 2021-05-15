@@ -1,1 +1,1 @@
-var mnemonic = "kid royal decide retire era priority worth shop green myth brand have";
+var mnemonic = "muffin scorpion goat table debris hero problem young permit core acquire evil";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal gate popular heart awkward afraid script index embody arm squeeze daughter";
+var mnemonic = "emotion parent energy private weasel lawsuit impulse oven crowd green dog gown";

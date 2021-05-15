@@ -1,1 +1,1 @@
-var mnemonic = "exchange tornado occur mushroom crouch million spell pear clerk insect add math";
+var mnemonic = "convince fire hotel subway like wedding owner middle off april wrong ready";

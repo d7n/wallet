@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit square copy hope coin mandate neck candy home punch dismiss nephew";
+var mnemonic = "foam acid coach sun level zebra glide magnet during give brick dizzy";

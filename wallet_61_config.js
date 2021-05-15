@@ -1,1 +1,1 @@
-var mnemonic = "hotel sun subject random clip couple effort seven panda candy check update";
+var mnemonic = "assist toe twist another caught pill payment damp modify unique spot demise";

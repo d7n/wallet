@@ -1,1 +1,1 @@
-var mnemonic = "cushion lab attract dismiss sugar infant delay tube bus casino sadness trust";
+var mnemonic = "peace glide pave inquiry diet merge claim expand ladder camp smart claim";

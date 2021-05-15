@@ -1,1 +1,1 @@
-var mnemonic = "foot sheriff bridge depend bomb spin civil body uniform unable small now";
+var mnemonic = "enrich marble cake grain diet romance guess surface unable inherit cup ring";

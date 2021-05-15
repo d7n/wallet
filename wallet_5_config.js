@@ -1,1 +1,1 @@
-var mnemonic = "twin swing service release bar perfect carbon youth choice loyal age ensure";
+var mnemonic = "round shell garden soap brick palace cause lift lunar tribe useless degree";

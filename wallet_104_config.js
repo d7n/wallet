@@ -1,1 +1,1 @@
-var mnemonic = "used sun physical cram citizen rifle company display among cabin ordinary ball";
+var mnemonic = "limb limb foil dismiss bone mule purse guess saddle punch hover summer";

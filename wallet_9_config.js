@@ -1,1 +1,1 @@
-var mnemonic = "super cement juice apple supreme gauge quarter owner cover pigeon saddle lawsuit";
+var mnemonic = "prosper monster gather note family slush vessel text tilt grunt much dress";

@@ -1,1 +1,1 @@
-var mnemonic = "able flat ankle fan face crunch sponsor person peanut amazing tattoo hurdle";
+var mnemonic = "royal simple tonight gym bring anxiety reveal try argue pipe film raven";

@@ -1,1 +1,1 @@
-var mnemonic = "embark angle milk caution battle black battle artwork type deputy hour wink";
+var mnemonic = "enemy provide bronze wait drastic wink industry cram van despair hidden game";

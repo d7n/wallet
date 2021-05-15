@@ -1,1 +1,1 @@
-var mnemonic = "route keep like ghost apple moral sword catalog deny session subject emotion";
+var mnemonic = "october system arm zone novel middle jar airport oven check series mystery";

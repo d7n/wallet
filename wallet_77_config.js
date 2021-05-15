@@ -1,1 +1,1 @@
-var mnemonic = "rural ready pulp clog satoshi corn repair beach okay prevent drip mercy";
+var mnemonic = "price explain pool popular young orphan swallow tag regular rude opinion umbrella";

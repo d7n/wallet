@@ -1,1 +1,1 @@
-var mnemonic = "sketch turkey label fix sad drastic girl fossil skirt build tag prefer";
+var mnemonic = "clay siege donor federal cherry lion gown rescue fit true prison cruise";

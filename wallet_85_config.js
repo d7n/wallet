@@ -1,1 +1,1 @@
-var mnemonic = "loud live abstract royal thank cash december buddy focus student matrix smoke";
+var mnemonic = "garage door utility fossil admit similar mass junior title equip tourist clay";

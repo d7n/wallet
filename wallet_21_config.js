@@ -1,1 +1,1 @@
-var mnemonic = "judge verb brief term worth damage unfair diamond craft grace jump alarm";
+var mnemonic = "wasp demand wool member bar ginger demand eagle tilt weapon make labor";

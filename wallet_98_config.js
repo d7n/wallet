@@ -1,1 +1,1 @@
-var mnemonic = "hobby tomorrow velvet mother frequent rug crime broom own business swamp pattern";
+var mnemonic = "embrace cross motor skin buffalo state web crazy grape exercise spray female";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture reject start car assault spice boost layer dust exchange rely day";
+var mnemonic = "pause early vessel avocado expect usual squirrel typical hawk have airport deny";

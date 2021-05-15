@@ -1,1 +1,1 @@
-var mnemonic = "wife drift venue approve sphere equal cram common rack wheat artefact west";
+var mnemonic = "actor error jungle proof bullet wedding lock viable prison remember mention cook";

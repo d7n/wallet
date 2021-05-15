@@ -1,1 +1,1 @@
-var mnemonic = "nephew little unfold manage legend lamp model cattle raven pretty excite fluid";
+var mnemonic = "kite sibling ignore theory million prepare unusual hurt bag execute joy ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber harvest cart tilt mutual laptop raven caution spin beach ladder acquire";
+var mnemonic = "scrap wasp wrist virus grocery afraid few random slow soft cheese body";

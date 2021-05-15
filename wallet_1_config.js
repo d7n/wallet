@@ -1,1 +1,1 @@
-var mnemonic = "vocal trip series deer title find eye fantasy skull drill select slim";
+var mnemonic = "diary lend input visit chat silly art whip paper resemble increase lottery";

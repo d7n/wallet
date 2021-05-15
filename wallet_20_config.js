@@ -1,1 +1,1 @@
-var mnemonic = "audit grief language know path domain vast jungle client vital phrase sting";
+var mnemonic = "orange upgrade element course pen science pact style bulb metal search guide";

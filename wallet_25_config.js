@@ -1,1 +1,1 @@
-var mnemonic = "eye deposit enough cute clog fringe cheap kid brown mask extra stove";
+var mnemonic = "assist abstract employ sniff amused puzzle spoil survey meadow prosper velvet surface";

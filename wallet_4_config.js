@@ -1,1 +1,1 @@
-var mnemonic = "pond cruise sleep zone puzzle later ladder bird long cradle hammer clog";
+var mnemonic = "success over armed crazy rotate assault puzzle memory deposit spell universe blur";

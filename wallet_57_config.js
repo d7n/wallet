@@ -1,1 +1,1 @@
-var mnemonic = "bread hamster vibrant negative nature blind unveil own bargain industry detail baby";
+var mnemonic = "curious that mammal lottery income major repair welcome text hockey tiger maze";

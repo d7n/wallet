@@ -1,1 +1,1 @@
-var mnemonic = "cushion fatigue opera where genius hurry neglect trophy quick cotton pig stamp";
+var mnemonic = "ticket drive extra stereo chapter wash picnic axis finger kidney fluid barely";

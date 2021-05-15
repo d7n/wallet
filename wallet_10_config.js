@@ -1,1 +1,1 @@
-var mnemonic = "spin again loop meadow early shadow green together slab life leader spy";
+var mnemonic = "review sheriff peace inject sand exercise sea spare humble nest sing profit";
