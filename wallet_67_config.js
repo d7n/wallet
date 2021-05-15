@@ -1,1 +1,1 @@
-var mnemonic = "kit liar interest potato pigeon bean walk hub boil pair fitness song";
+var mnemonic = "nasty flash switch pitch yellow glimpse spin typical symptom better medal flat";

@@ -1,1 +1,1 @@
-var mnemonic = "awful offer cream ostrich blanket expose near fitness survey monkey like rail";
+var mnemonic = "notice bulb debris spider dignity skirt story inspire project gown say october";

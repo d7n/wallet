@@ -1,1 +1,1 @@
-var mnemonic = "chaos clap theory course review educate uniform pond arm eyebrow helmet now";
+var mnemonic = "gravity oval federal say shoulder worth envelope word penalty manage wife become";

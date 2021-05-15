@@ -1,1 +1,1 @@
-var mnemonic = "kiwi miss legend keen wish fringe taste benefit pilot guide choice emotion";
+var mnemonic = "panic bachelor uphold laptop bullet antenna math adult certain essence lunch sample";

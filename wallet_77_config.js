@@ -1,1 +1,1 @@
-var mnemonic = "dad cost scene genuine account scale abstract tooth decade resemble twin acquire";
+var mnemonic = "van evidence depth original kind boil genre rough rather quality sun uncle";

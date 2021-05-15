@@ -1,1 +1,1 @@
-var mnemonic = "panel emotion sad toss bitter fault family crawl sound inhale scene private";
+var mnemonic = "property sail roast hobby cheese kid airport treat cliff gorilla obvious motion";

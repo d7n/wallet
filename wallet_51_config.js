@@ -1,1 +1,1 @@
-var mnemonic = "spice breeze skull unveil flash path layer volcano next edge hip coral";
+var mnemonic = "inhale inherit perfect route disease frost inner raven soda occur together critic";

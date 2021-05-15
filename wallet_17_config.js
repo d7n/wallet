@@ -1,1 +1,1 @@
-var mnemonic = "immune they best shallow toddler giggle hard subway dwarf chaos patrol evolve";
+var mnemonic = "load slush lecture tongue begin stereo setup prison trial switch river round";

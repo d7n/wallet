@@ -1,1 +1,1 @@
-var mnemonic = "odor top behind dial section into tobacco crop episode estate swap vicious";
+var mnemonic = "mistake boil already barrel exotic express enhance wash knife offer crush claw";

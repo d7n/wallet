@@ -1,1 +1,1 @@
-var mnemonic = "believe sugar glimpse tree increase across direct above boost twin verb pool";
+var mnemonic = "dirt sentence hundred bulk neutral again sun small tornado twenty run habit";

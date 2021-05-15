@@ -1,1 +1,1 @@
-var mnemonic = "sign cart tomorrow stem unhappy emotion illness regret aisle sadness panel trade";
+var mnemonic = "undo print plunge retreat zoo talent rescue fault dose lesson window similar";

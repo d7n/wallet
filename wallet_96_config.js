@@ -1,1 +1,1 @@
-var mnemonic = "hover dilemma cruel teach glory retire deal empower law electric deny legal";
+var mnemonic = "behave diet awkward inner where drama disease educate utility into tray rug";

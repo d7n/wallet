@@ -1,1 +1,1 @@
-var mnemonic = "refuse cool network hood maid limit income clean unfold cereal tomato soldier";
+var mnemonic = "twice key door mail rubber flight genius figure wolf grief raven unknown";

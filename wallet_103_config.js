@@ -1,1 +1,1 @@
-var mnemonic = "travel gift sad robot asset vivid friend casino twelve exotic egg dynamic";
+var mnemonic = "winner police honey endless remove ski exclude ring loop chase maze grab";

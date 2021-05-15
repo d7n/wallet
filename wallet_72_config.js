@@ -1,1 +1,1 @@
-var mnemonic = "youth equip title seek notice cry protect abstract robot industry trust wrist";
+var mnemonic = "story face faint develop abandon end mountain ceiling silent pigeon rookie orphan";

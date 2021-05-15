@@ -1,1 +1,1 @@
-var mnemonic = "brass raw deliver box era wage echo carbon donate puzzle spice angry";
+var mnemonic = "tower any comic obvious obtain interest lyrics embody fantasy grocery ordinary topic";

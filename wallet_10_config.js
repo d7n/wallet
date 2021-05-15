@@ -1,1 +1,1 @@
-var mnemonic = "cushion crisp truly crack depend bright thrive profit old gesture syrup train";
+var mnemonic = "fence world foil topple web jelly pipe enlist company exist cousin grab";

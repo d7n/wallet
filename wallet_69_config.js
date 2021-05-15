@@ -1,1 +1,1 @@
-var mnemonic = "force viable cram shield gym today mansion pact cube nerve manage sell";
+var mnemonic = "height stool never decade diet shop donkey certain tattoo eye fly wild";

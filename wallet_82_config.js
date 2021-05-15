@@ -1,1 +1,1 @@
-var mnemonic = "stool thing crop maze bus ranch quote forward whip adapt forward snack";
+var mnemonic = "bleak name day era organ siege adapt napkin tobacco muffin beauty page";

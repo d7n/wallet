@@ -1,1 +1,1 @@
-var mnemonic = "increase sister business arrive correct pony reveal muffin brave color crisp balcony";
+var mnemonic = "sock month dry post satoshi margin boring gun walnut output toward laundry";

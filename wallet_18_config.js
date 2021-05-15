@@ -1,1 +1,1 @@
-var mnemonic = "apple base gauge arena cluster critic run way arch visit magnet hurry";
+var mnemonic = "crisp dragon lumber metal deposit drill adjust armed warfare erase glare romance";

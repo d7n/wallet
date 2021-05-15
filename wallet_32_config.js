@@ -1,1 +1,1 @@
-var mnemonic = "grit nice outer stove steel spend poet divert zero attract uphold quarter";
+var mnemonic = "giggle elephant gesture eight wolf base obey impose candy citizen plastic coral";

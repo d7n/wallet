@@ -1,1 +1,1 @@
-var mnemonic = "shell catch wear tobacco nature lemon paddle hole social organ credit forum";
+var mnemonic = "giant three ridge youth access achieve bike name wine strike scheme end";

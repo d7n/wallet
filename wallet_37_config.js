@@ -1,1 +1,1 @@
-var mnemonic = "quit write faith dinner garment once memory mansion minimum easily filter over";
+var mnemonic = "broom awesome illness beach rapid supply like stereo seed urge elite bone";

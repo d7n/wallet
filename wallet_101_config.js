@@ -1,1 +1,1 @@
-var mnemonic = "unlock client angle latin auction corn book whip across honey buddy deposit";
+var mnemonic = "sunset holiday remain kite suspect retire creek walnut receive insane steak tone";

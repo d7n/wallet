@@ -1,1 +1,1 @@
-var mnemonic = "few push nuclear taste myself cereal congress stock engage friend figure assume";
+var mnemonic = "seminar tennis amused story ten drip resource uniform weasel concert ghost winter";

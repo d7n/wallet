@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lift symptom exit surge marine belt merit stool truck submit tackle";
+var mnemonic = "duck total defense spread husband uncle depart myself wide steel river ticket";

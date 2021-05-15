@@ -1,1 +1,1 @@
-var mnemonic = "myself major alcohol ankle runway glare moral loan shiver decide adult thought";
+var mnemonic = "exist quiz nephew choice spice unveil liquid tank amount argue inner soul";

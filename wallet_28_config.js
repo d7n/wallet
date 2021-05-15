@@ -1,1 +1,1 @@
-var mnemonic = "differ smile village funny hill law fancy dial auto either private party";
+var mnemonic = "admit clip that assist sheriff laundry toe laugh slow relief penalty agree";

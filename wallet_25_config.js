@@ -1,1 +1,1 @@
-var mnemonic = "grunt purse educate baby mean cabin daughter mirror ridge inch attitude between";
+var mnemonic = "train core start extend ask amount harsh vote entire festival joy direct";

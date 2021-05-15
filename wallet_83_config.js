@@ -1,1 +1,1 @@
-var mnemonic = "dutch employ together fiction weather ship force shy media casino bring frozen";
+var mnemonic = "dentist trouble material rose shaft scatter neither language dial machine chuckle lumber";

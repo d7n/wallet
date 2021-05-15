@@ -1,1 +1,1 @@
-var mnemonic = "tiny arch hand make cliff wonder agree lesson online buzz program federal";
+var mnemonic = "tourist drop fossil alcohol elbow unfold grit asset cause hammer gas swap";

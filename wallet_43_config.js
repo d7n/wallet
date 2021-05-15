@@ -1,1 +1,1 @@
-var mnemonic = "damage custom very smart cross fox capital knee work iron vehicle address";
+var mnemonic = "entry random harvest devote luggage outer invite lock enlist sheriff wave shy";

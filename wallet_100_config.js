@@ -1,1 +1,1 @@
-var mnemonic = "atom garbage movie nephew grit worth beef palace federal idle cannon park";
+var mnemonic = "juice joke bullet garment typical assault mountain real noodle during oak fold";

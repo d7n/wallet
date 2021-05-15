@@ -1,1 +1,1 @@
-var mnemonic = "seminar blue accident toward habit embody melt audit body erase kitchen pattern";
+var mnemonic = "denial harbor furnace symbol unaware want candy alley response orphan pride craft";

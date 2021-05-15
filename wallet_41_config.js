@@ -1,1 +1,1 @@
-var mnemonic = "also fluid peanut enlist define relax erosion paper tackle crisp club night";
+var mnemonic = "venue urge inner odor polar steel volume peasant useless sort fly erase";

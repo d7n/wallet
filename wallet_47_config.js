@@ -1,1 +1,1 @@
-var mnemonic = "mutual mistake tornado large comfort color result direct scatter smart park wrap";
+var mnemonic = "joke predict fork tip soon scorpion among monster annual diamond bar hedgehog";

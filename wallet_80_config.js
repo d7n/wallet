@@ -1,1 +1,1 @@
-var mnemonic = "kick true amused dream leg mistake source among salmon perfect fortune cloth";
+var mnemonic = "glove mirror carbon comfort october child little exhibit town wing box wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "maze buddy country mechanic busy secret sunset drama peanut robust wrist move";
+var mnemonic = "empower erupt bundle calm pipe save suggest country easy confirm light void";

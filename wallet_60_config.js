@@ -1,1 +1,1 @@
-var mnemonic = "ocean boring layer square blast change upon seven prevent diet army category";
+var mnemonic = "reject very sure ribbon one flavor column online roof pulp trap attack";

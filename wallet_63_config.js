@@ -1,1 +1,1 @@
-var mnemonic = "blouse accuse bar trophy apart forward garlic ginger absorb story wish spell";
+var mnemonic = "know toy unique merge cry hero embark miss episode afford blush diet";

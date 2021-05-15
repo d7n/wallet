@@ -1,1 +1,1 @@
-var mnemonic = "during used tool analyst movie flight alpha sun diagram sting clock around";
+var mnemonic = "emotion feature blind vapor ill vacant copper library quit valid digital upon";

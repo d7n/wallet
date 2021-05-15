@@ -1,1 +1,1 @@
-var mnemonic = "rebel mandate more recycle kangaroo toward place trigger spice sheriff need boss";
+var mnemonic = "clinic cake misery spend ranch ill rare surface rally convince faculty roast";

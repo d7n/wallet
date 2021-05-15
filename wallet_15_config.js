@@ -1,1 +1,1 @@
-var mnemonic = "legend awake endorse top celery chicken road side march point napkin orphan";
+var mnemonic = "code cruise suspect reduce cinnamon humor design bottom manual clinic essence fringe";

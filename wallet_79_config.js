@@ -1,1 +1,1 @@
-var mnemonic = "bullet random raccoon garlic marine announce earn lazy hidden law foil layer";
+var mnemonic = "hawk orphan chef tunnel pride subject member verb hope fix meadow rival";

@@ -1,1 +1,1 @@
-var mnemonic = "cool naive verb forward family burst breeze mesh group satoshi speed spice";
+var mnemonic = "civil isolate vacant move firm lock ask uphold spawn piano garden enemy";

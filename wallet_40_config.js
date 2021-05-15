@@ -1,1 +1,1 @@
-var mnemonic = "joke affair example trial heart canal absurd original trip convince inflict ensure";
+var mnemonic = "address follow siren key skate divert lunar ostrich mushroom tumble alarm urban";

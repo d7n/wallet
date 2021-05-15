@@ -1,1 +1,1 @@
-var mnemonic = "palm code gasp zero sunset entry elephant floor glide tissue this lonely";
+var mnemonic = "angle unveil twice two enable later cinnamon fashion pyramid avoid dolphin summer";

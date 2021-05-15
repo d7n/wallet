@@ -1,1 +1,1 @@
-var mnemonic = "bleak fit grocery grid lyrics immense taste jaguar tower surround rebuild inject";
+var mnemonic = "simple bird pear become belt vicious frozen draw crystal bullet taxi village";

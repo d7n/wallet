@@ -1,1 +1,1 @@
-var mnemonic = "grocery story pistol patrol marriage shoot minimum caution quiz wrestle butter egg";
+var mnemonic = "narrow uniform river april upon horror already dirt right cattle plug sleep";

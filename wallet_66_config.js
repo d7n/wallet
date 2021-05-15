@@ -1,1 +1,1 @@
-var mnemonic = "aunt burst slim reopen dynamic razor girl hollow slide rib donate opera";
+var mnemonic = "cycle kidney south version series inspire wisdom weapon near what odor emerge";

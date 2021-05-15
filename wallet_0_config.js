@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ecology eyebrow turtle artefact chuckle chronic belt witness census hour unfair";
+var mnemonic = "elephant lizard dune defy keen jar case resource tide lunar trip decrease";

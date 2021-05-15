@@ -1,1 +1,1 @@
-var mnemonic = "amount neither leaf design farm size capable oyster analyst stomach boat burger";
+var mnemonic = "tell digital wise nose text staff know cotton gift gallery ankle fatigue";

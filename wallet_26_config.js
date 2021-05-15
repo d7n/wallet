@@ -1,1 +1,1 @@
-var mnemonic = "staff season input stand project turtle produce pencil tumble broken robot behind";
+var mnemonic = "erupt vintage inmate phone climb dad lunch roof beef injury clog woman";

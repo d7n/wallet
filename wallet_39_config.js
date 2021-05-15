@@ -1,1 +1,1 @@
-var mnemonic = "taxi erase goddess bag awesome wage fatal hollow regret ankle index shoot";
+var mnemonic = "immune truly venue melt hire hour depth stomach century tunnel acquire because";

@@ -1,1 +1,1 @@
-var mnemonic = "come happy cream oval castle purchase section embrace seek resist rebuild miss";
+var mnemonic = "slim beauty cancel hidden nut baby sister life live usual farm dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "border demand cheese kiss often useful double final awesome rescue glue tag";
+var mnemonic = "kitchen click run marble slam regret open economy urban adult lady media";

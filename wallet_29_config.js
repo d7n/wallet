@@ -1,1 +1,1 @@
-var mnemonic = "seminar render wedding icon cry artefact major around surge jump jewel mistake";
+var mnemonic = "trip body fruit neck nephew text record canoe odor garment cave kite";

@@ -1,1 +1,1 @@
-var mnemonic = "tell festival inmate rebel budget north item kangaroo guess prevent leaf require";
+var mnemonic = "biology girl dirt wrestle air poet smoke fog dad poverty inform barely";

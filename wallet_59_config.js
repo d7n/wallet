@@ -1,1 +1,1 @@
-var mnemonic = "bargain recall airport fruit refuse kingdom cloth cool arrange people federal emotion";
+var mnemonic = "elder must swim design quick tag find card movie apart fade knee";

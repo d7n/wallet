@@ -1,1 +1,1 @@
-var mnemonic = "mixture mask night place secret hobby veteran bless reform hover movie lizard";
+var mnemonic = "address there praise faculty federal cream stem rice setup knock enlist balcony";

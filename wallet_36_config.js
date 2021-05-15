@@ -1,1 +1,1 @@
-var mnemonic = "chunk army connect need unaware sausage morning sock silent goddess frequent cinnamon";
+var mnemonic = "desert depend tank jacket tool shoe ill embrace evil ivory client sunset";

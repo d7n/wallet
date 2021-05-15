@@ -1,1 +1,1 @@
-var mnemonic = "opinion very brother shop swim excite walnut traffic cage salute save puzzle";
+var mnemonic = "route cheese direct identify please boat broken moment stomach stable avocado maximum";

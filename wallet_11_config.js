@@ -1,1 +1,1 @@
-var mnemonic = "wild tag foam galaxy plunge final that outer click canal current galaxy";
+var mnemonic = "ten brown gown mom end steel once casino blast vehicle such cotton";

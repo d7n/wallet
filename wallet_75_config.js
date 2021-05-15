@@ -1,1 +1,1 @@
-var mnemonic = "march normal excite record win lawn judge alley travel vanish begin genre";
+var mnemonic = "kind salmon egg way avocado remember polar thunder energy barrel mesh napkin";

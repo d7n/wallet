@@ -1,1 +1,1 @@
-var mnemonic = "bleak rare boring domain fun fiction short solve dawn cave rather load";
+var mnemonic = "train bone cereal pink bamboo original execute lazy dad employ science found";

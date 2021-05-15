@@ -1,1 +1,1 @@
-var mnemonic = "butter puppy clap cost frame margin seat snack until sibling wine antique";
+var mnemonic = "wrist devote enjoy cheese garlic mean trust trick mixture logic vacant spike";

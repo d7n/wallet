@@ -1,1 +1,1 @@
-var mnemonic = "crash marriage never buffalo stereo awesome salmon word youth conduct bicycle quit";
+var mnemonic = "mosquito explain spread blanket cycle print simple flip fossil seminar firm predict";

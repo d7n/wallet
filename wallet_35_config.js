@@ -1,1 +1,1 @@
-var mnemonic = "opera benefit lunch race refuse live pig sing type unveil blush try";
+var mnemonic = "harvest noise boring input ethics lion keep lake humor people mimic until";

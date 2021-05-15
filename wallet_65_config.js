@@ -1,1 +1,1 @@
-var mnemonic = "capital entry chimney enjoy chaos pipe gossip account stumble net agree virtual";
+var mnemonic = "ball faint foot climb loan heart stable senior giraffe normal better arrive";

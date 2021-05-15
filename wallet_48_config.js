@@ -1,1 +1,1 @@
-var mnemonic = "absent add stamp force immune sting fish useless when taxi denial plastic";
+var mnemonic = "wire sure leader ancient know display raccoon perfect canvas mirror slight erupt";

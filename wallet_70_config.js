@@ -1,1 +1,1 @@
-var mnemonic = "border mixed tumble nerve curve weapon announce guess rude shoulder travel grass";
+var mnemonic = "afraid drill kid price face book palace entry achieve indicate vintage wing";

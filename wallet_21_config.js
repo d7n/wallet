@@ -1,1 +1,1 @@
-var mnemonic = "silent two remain select sure super empower old envelope glare jealous absorb";
+var mnemonic = "banana private float protect code venture agree bronze razor farm crouch budget";

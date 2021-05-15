@@ -1,1 +1,1 @@
-var mnemonic = "stick spread coil orphan explain engage jungle love power move faint learn";
+var mnemonic = "enable blouse mountain canvas pulse pumpkin base review knee entire insect spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence ride depend profit input bright beauty gossip october address grape fresh";
+var mnemonic = "labor prepare pretty ozone club advance just marble dad kid song pave";

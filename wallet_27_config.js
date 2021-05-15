@@ -1,1 +1,1 @@
-var mnemonic = "fabric phone abandon pretty bleak pole great lesson lake swim swear coral";
+var mnemonic = "receive stable witness village end strong coconut man fence valid deer whale";

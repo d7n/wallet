@@ -1,1 +1,1 @@
-var mnemonic = "approve lunch dog addict movie cat silver high food practice forget want";
+var mnemonic = "review bounce outside indoor amount elbow volume try mean force patrol tribe";

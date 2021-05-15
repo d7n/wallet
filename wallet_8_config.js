@@ -1,1 +1,1 @@
-var mnemonic = "violin beach cry dutch slush little story bless tongue rib easily hub";
+var mnemonic = "hammer run trumpet extra dial prize stick filter neck speak injury super";

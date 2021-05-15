@@ -1,1 +1,1 @@
-var mnemonic = "oblige lucky model dream strong type nephew innocent intact road actual spy";
+var mnemonic = "asthma salute woman hold glad silent modify object hollow infant make spread";

@@ -1,1 +1,1 @@
-var mnemonic = "opera struggle peasant buyer doll able bracket ranch pole kind pupil patient";
+var mnemonic = "talent caught limb tent frown magnet inject patch arrange endless gallery churn";

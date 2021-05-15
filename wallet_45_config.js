@@ -1,1 +1,1 @@
-var mnemonic = "know feature joke manage crop talent note caught trophy clock check piano";
+var mnemonic = "cube cup file twenty when language okay rubber inhale attract brave cradle";

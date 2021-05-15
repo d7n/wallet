@@ -1,1 +1,1 @@
-var mnemonic = "inch awesome soup prevent sight digital vendor prison will salute observe awake";
+var mnemonic = "alone clever either holiday tip nasty report pizza elbow gossip there sense";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas cool trap all powder forum fatal split plastic chest depth tape";
+var mnemonic = "report elite oyster damp camera best suspect pull cactus mass cry satisfy";

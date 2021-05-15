@@ -1,1 +1,1 @@
-var mnemonic = "motion coral market globe expose wasp okay master inner inhale coyote fashion";
+var mnemonic = "income all amazing bag awesome sample flavor flash middle fox wink road";

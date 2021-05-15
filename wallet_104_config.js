@@ -1,1 +1,1 @@
-var mnemonic = "remind cloth street goat north oppose coach extra garden pudding skin artefact";
+var mnemonic = "insect circle venture liberty slot topple jewel accuse relax magic work limb";

@@ -1,1 +1,1 @@
-var mnemonic = "never clump summer unhappy shrimp mammal false inquiry alpha negative resemble major";
+var mnemonic = "observe wealth helmet upgrade capital doll useful prefer patch sunset cereal wise";

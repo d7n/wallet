@@ -1,1 +1,1 @@
-var mnemonic = "trap eyebrow chapter shaft parent oak inside dilemma olympic genre police timber";
+var mnemonic = "spread shove latin embody tape stomach list slight universe twin topple aunt";

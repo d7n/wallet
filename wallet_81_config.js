@@ -1,1 +1,1 @@
-var mnemonic = "trip patrol because soldier build autumn diamond grace chaos when front cement";
+var mnemonic = "poem solve attack thunder type slow garment urge bulk suggest double own";

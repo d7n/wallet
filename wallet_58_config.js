@@ -1,1 +1,1 @@
-var mnemonic = "section cube fashion kitchen liquid squeeze shove chalk never small recipe vapor";
+var mnemonic = "avoid drama mansion tomato chunk man harvest resist artist crime pudding cradle";

@@ -1,1 +1,1 @@
-var mnemonic = "jar message orbit demise rib cube latin range spatial bind card razor";
+var mnemonic = "use main joy section narrow annual bleak detail novel absurd receive use";

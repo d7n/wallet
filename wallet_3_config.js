@@ -1,1 +1,1 @@
-var mnemonic = "label garbage write smile vendor sniff better alcohol soup diamond life height";
+var mnemonic = "correct fruit desk fringe uncle supreme horn winter cushion good liquid deer";

@@ -1,1 +1,1 @@
-var mnemonic = "brother bleak input cabin robust system unhappy fitness rookie envelope join dutch";
+var mnemonic = "deputy topic push piece video another echo lock apart logic dog cancel";

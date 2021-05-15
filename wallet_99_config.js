@@ -1,1 +1,1 @@
-var mnemonic = "lecture surge million lady shiver menu dust design regret cushion copper always";
+var mnemonic = "upper pledge doctor nut outer flavor alter supreme detect grief pilot retire";

@@ -1,1 +1,1 @@
-var mnemonic = "roast brave chest proof leopard either melody trick view hollow review purse";
+var mnemonic = "spray museum tunnel glue unveil phrase ecology gun zoo venture render donkey";
