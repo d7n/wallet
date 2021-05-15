@@ -1,1 +1,1 @@
-var mnemonic = "supply current tunnel valid symbol sea limb garden burden general cat polar";
+var mnemonic = "tuna envelope confirm matter pact detect private copper defense gorilla speed session";

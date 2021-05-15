@@ -1,1 +1,1 @@
-var mnemonic = "song daughter raw summer master lawsuit among salon invest require panel tower";
+var mnemonic = "delay van light evolve pigeon surround artwork skin jaguar poem path general";

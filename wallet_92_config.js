@@ -1,1 +1,1 @@
-var mnemonic = "pet theme foot aerobic mixed cat keep climb work piece replace feel";
+var mnemonic = "man trash wire rally deal tip couple theory income weekend stamp hero";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar debris replace exist afraid just blade cushion eight army cost spatial";
+var mnemonic = "hen chapter belt theme drum grace ahead fold suggest already exact butter";

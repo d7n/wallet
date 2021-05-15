@@ -1,1 +1,1 @@
-var mnemonic = "just agent journey aspect olive magic mad embark silent lyrics theory bounce";
+var mnemonic = "view mail liberty rifle water fashion certain retreat galaxy blossom easy crucial";

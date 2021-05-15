@@ -1,1 +1,1 @@
-var mnemonic = "bomb usage cabbage sort silver injury drink absent infant solar turn more";
+var mnemonic = "pepper divert zoo soup process thunder aim trial regret attitude upper rain";

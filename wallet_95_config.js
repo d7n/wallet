@@ -1,1 +1,1 @@
-var mnemonic = "lucky found twice execute knee agree endless hover below furnace february ticket";
+var mnemonic = "shoe illness wheel shy onion expire safe vacant youth before warfare ignore";

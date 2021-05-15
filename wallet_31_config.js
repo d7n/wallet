@@ -1,1 +1,1 @@
-var mnemonic = "skate caught grit select coyote wisdom picture shoot photo party frown giant";
+var mnemonic = "old silent surprise method detect among earth health tonight typical supreme sort";

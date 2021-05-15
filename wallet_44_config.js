@@ -1,1 +1,1 @@
-var mnemonic = "word shine main radio change concert fabric tennis trust south filter cabin";
+var mnemonic = "library ancient good turn vapor arrange mention column inject address clerk drama";

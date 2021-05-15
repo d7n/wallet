@@ -1,1 +1,1 @@
-var mnemonic = "limit then fame genius jeans prepare bonus dinner invest ugly maximum melody";
+var mnemonic = "mobile riot suffer twin attitude seven saddle brain stool fat chicken margin";

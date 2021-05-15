@@ -1,1 +1,1 @@
-var mnemonic = "talk sniff perfect primary small wreck sudden muffin like net daring mirror";
+var mnemonic = "timber cry hour vessel devote airport pond off level tired adult wolf";

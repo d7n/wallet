@@ -1,1 +1,1 @@
-var mnemonic = "say picture piece hidden attend slab squirrel stool charge thrive inflict sell";
+var mnemonic = "throw ginger civil believe repair coast arena leaf surge name advance either";

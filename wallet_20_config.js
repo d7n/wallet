@@ -1,1 +1,1 @@
-var mnemonic = "series once fragile cheese destroy weapon reject evoke maze exist outside host";
+var mnemonic = "isolate cheese ill weasel convince security stamp fatal poem one anchor orient";

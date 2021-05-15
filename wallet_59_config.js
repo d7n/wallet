@@ -1,1 +1,1 @@
-var mnemonic = "play cat more canal absent nephew avoid venue image front maple top";
+var mnemonic = "around certain fine ritual pizza jelly buddy fever shuffle normal donor stable";

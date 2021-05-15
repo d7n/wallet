@@ -1,1 +1,1 @@
-var mnemonic = "thumb awkward salad enough shop paper state gap raccoon waste initial stand";
+var mnemonic = "betray mosquito raw record roof alien vacant mushroom educate intact fresh turkey";

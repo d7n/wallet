@@ -1,1 +1,1 @@
-var mnemonic = "crunch clarify work now april uniform answer wool duty timber tiny light";
+var mnemonic = "skirt spread defense muscle defy rotate tongue inflict isolate trouble final price";

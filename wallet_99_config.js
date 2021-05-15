@@ -1,1 +1,1 @@
-var mnemonic = "chapter remove web rifle little lottery cruise hole define lion fantasy impulse";
+var mnemonic = "miracle pledge flash equip current audit violin useful mad when gun ten";

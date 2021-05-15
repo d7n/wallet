@@ -1,1 +1,1 @@
-var mnemonic = "song mercy avoid chunk dawn worth inch pizza used popular stand general";
+var mnemonic = "friend night alert glide squeeze inhale demand february food approve venture aware";

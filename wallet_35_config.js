@@ -1,1 +1,1 @@
-var mnemonic = "nice scrap twenty real artwork innocent reflect sell humble junk client whale";
+var mnemonic = "drip dash belt lecture toilet cricket mango digital disorder already glue foster";

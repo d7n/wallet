@@ -1,1 +1,1 @@
-var mnemonic = "either patrol rural moment defy almost live ring parent seven spend infant";
+var mnemonic = "gain blur wheel cube strike settle opera shoe improve resist lumber code";

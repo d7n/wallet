@@ -1,1 +1,1 @@
-var mnemonic = "ramp palace garment smoke trick wine side route nephew giraffe soldier hole";
+var mnemonic = "board crawl crumble black ask patch fruit stamp share anchor release annual";

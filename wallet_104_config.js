@@ -1,1 +1,1 @@
-var mnemonic = "scout cloud eternal extra genre inch urge ranch age predict alarm major";
+var mnemonic = "hub point grab hill crew quit swamp glance fatal weird evoke evidence";

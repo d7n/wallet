@@ -1,1 +1,1 @@
-var mnemonic = "disagree fresh bag that tennis survey lobster pistol truth harsh catalog little";
+var mnemonic = "seat nominee tunnel jazz furnace sustain sight final zoo change rack stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch cloth dilemma pulse correct clump mail maple tortoise rebel snow basket";
+var mnemonic = "safe answer ripple kangaroo afraid sustain immune remind tree rib wash safe";

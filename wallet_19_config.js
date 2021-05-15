@@ -1,1 +1,1 @@
-var mnemonic = "you tube junk spring ice grit fatal april heavy height project mountain";
+var mnemonic = "ignore tower discover advance tide spot quality august kangaroo donate reject mention";

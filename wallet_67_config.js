@@ -1,1 +1,1 @@
-var mnemonic = "print love region neck eight bless keep enforce provide comfort relief company";
+var mnemonic = "post possible boss cube twelve approve wagon vote confirm fee job session";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito dentist before weird gown enter afford trial year put grant daring";
+var mnemonic = "zoo fringe pride absurd sunny mixture misery reform actor winter census slender";

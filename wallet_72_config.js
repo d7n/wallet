@@ -1,1 +1,1 @@
-var mnemonic = "raccoon home session leopard boss same tuna critic hat invest assist adapt";
+var mnemonic = "avocado base license keep anger echo neutral ceiling sick invite warfare crisp";

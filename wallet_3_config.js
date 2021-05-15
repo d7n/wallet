@@ -1,1 +1,1 @@
-var mnemonic = "notable wash cloud denial crop reform noble length beyond travel festival name";
+var mnemonic = "devote prefer pumpkin cook cool ensure thumb circle cube topic stereo stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "cube sample rifle admit limb still file novel diary decade leave melt";
+var mnemonic = "emotion cross glance draw rotate settle grief series cargo finish beef moon";

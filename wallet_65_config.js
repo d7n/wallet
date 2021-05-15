@@ -1,1 +1,1 @@
-var mnemonic = "comfort quantum tobacco inform acquire expire lecture virus snow fine hire recipe";
+var mnemonic = "practice awesome peasant expand august soldier destroy among thought embark spin job";

@@ -1,1 +1,1 @@
-var mnemonic = "wood fence master jealous tomorrow endorse own journey action worth recycle knife";
+var mnemonic = "slow inside sibling place immense physical soda small detect exist strong spoil";

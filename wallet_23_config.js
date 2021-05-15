@@ -1,1 +1,1 @@
-var mnemonic = "mesh slice exchange sunset imitate travel know pig wave village tone gaze";
+var mnemonic = "call stomach short kangaroo hurt source smooth blind peasant swallow convince able";

@@ -1,1 +1,1 @@
-var mnemonic = "immune rose budget mountain peasant undo close sauce devote foster episode gesture";
+var mnemonic = "team acoustic strategy position describe fabric can walnut claim adapt number sting";

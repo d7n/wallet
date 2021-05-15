@@ -1,1 +1,1 @@
-var mnemonic = "burger menu spatial learn property describe hundred trade old voyage owner style";
+var mnemonic = "magnet gasp venue invite often diamond hip person drive shrimp engine trend";

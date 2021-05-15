@@ -1,1 +1,1 @@
-var mnemonic = "absorb divide fiber copper squeeze elegant verb concert bonus health raise grid";
+var mnemonic = "fashion large shove warrior reduce exist proof eye visual inner shiver face";

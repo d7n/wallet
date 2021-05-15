@@ -1,1 +1,1 @@
-var mnemonic = "sound garage pear know hurdle possible royal solar spy club digital wire";
+var mnemonic = "lunar retire route citizen shrug delay amateur adjust town lazy humble alter";

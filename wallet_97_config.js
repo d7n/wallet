@@ -1,1 +1,1 @@
-var mnemonic = "topic ancient collect leisure pond pluck rack soldier cat world arena people";
+var mnemonic = "cereal juice improve shop shed include jar thunder hub toy cousin profit";

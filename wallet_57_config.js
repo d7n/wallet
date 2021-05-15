@@ -1,1 +1,1 @@
-var mnemonic = "find measure find lobster lab eager priority library hero exchange solar vast";
+var mnemonic = "timber cheese layer pulp harbor virtual spot maze talk rude curve rose";

@@ -1,1 +1,1 @@
-var mnemonic = "siren draw cushion idea recall degree month monster ring hospital negative sudden";
+var mnemonic = "inspire cute mixed genius myth visa rotate clinic blanket prevent shrimp equal";

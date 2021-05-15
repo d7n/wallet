@@ -1,1 +1,1 @@
-var mnemonic = "clump laundry oak record boy kind evil shock outside ketchup heart blush";
+var mnemonic = "other nurse little blame cat busy begin myth level lonely ship smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "crush echo license noise dose danger buzz suit find antenna dance priority";
+var mnemonic = "universe parrot mirror sheriff suffer glance quit mobile uphold mirror found muscle";

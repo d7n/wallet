@@ -1,1 +1,1 @@
-var mnemonic = "case agree search fitness youth stuff ten clog earth dismiss east monitor";
+var mnemonic = "speed lock coral subway away spider detect dolphin before modify merge pull";

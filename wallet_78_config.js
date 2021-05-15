@@ -1,1 +1,1 @@
-var mnemonic = "material fragile steak wool milk found tomato version employ acquire maid sort";
+var mnemonic = "test have army sheriff mention average satisfy beach nasty swear other capable";

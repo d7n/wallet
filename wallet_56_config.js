@@ -1,1 +1,1 @@
-var mnemonic = "love pledge panel joy cinnamon jealous code hundred sting velvet trust slam";
+var mnemonic = "thumb goose number track chimney odor muffin fox dinner west copy enhance";

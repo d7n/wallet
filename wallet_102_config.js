@@ -1,1 +1,1 @@
-var mnemonic = "fury top vital admit agree help need choice brother piece pumpkin novel";
+var mnemonic = "other involve royal clump crop title song loyal egg focus human rose";

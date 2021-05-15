@@ -1,1 +1,1 @@
-var mnemonic = "dignity kit arrow bubble injury grab unknown fog kingdom space manage asset";
+var mnemonic = "resource trust maze tape claw lyrics trust car shaft lab gap upgrade";

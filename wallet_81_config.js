@@ -1,1 +1,1 @@
-var mnemonic = "gym club reflect action sustain mind obey cruise cigar pigeon cover tenant";
+var mnemonic = "similar enough viable intact pulse bid people ahead clown glance punch tobacco";

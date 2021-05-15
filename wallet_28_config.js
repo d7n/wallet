@@ -1,1 +1,1 @@
-var mnemonic = "group shine replace lake crack search grab climb myself nothing jump lamp";
+var mnemonic = "notable still mountain rifle patch window poem click own input little bird";

@@ -1,1 +1,1 @@
-var mnemonic = "hero craft extra chalk kid want salon donor letter spare clever company";
+var mnemonic = "sight fragile bullet noble nurse similar lift right despair habit never above";

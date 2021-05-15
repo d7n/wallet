@@ -1,1 +1,1 @@
-var mnemonic = "fog correct lizard list stereo nothing robust define layer outdoor helmet worth";
+var mnemonic = "hurdle seven possible execute carbon ritual omit already cable neglect upgrade used";

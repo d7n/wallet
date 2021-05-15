@@ -1,1 +1,1 @@
-var mnemonic = "pottery pottery disease water hurry deputy minute gas caught all unaware author";
+var mnemonic = "injury liberty blossom close merit rent movie mad general milk random talent";

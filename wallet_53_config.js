@@ -1,1 +1,1 @@
-var mnemonic = "hat welcome hungry hawk crouch adapt market chronic bounce bonus scheme embody";
+var mnemonic = "unaware hero invite hawk olive improve jewel rose gospel lonely sad piece";

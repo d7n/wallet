@@ -1,1 +1,1 @@
-var mnemonic = "level fit sweet opinion very oblige long market barely sniff shaft bulk";
+var mnemonic = "cup tattoo merge month horn cave sniff undo very curve mushroom force";

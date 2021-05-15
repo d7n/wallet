@@ -1,1 +1,1 @@
-var mnemonic = "cigar crazy sadness hurdle gate despair problem boost mean taste exit make";
+var mnemonic = "extra wool forum profit burger pistol shop quote state buddy prevent dragon";

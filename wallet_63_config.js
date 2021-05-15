@@ -1,1 +1,1 @@
-var mnemonic = "punch tell strategy melt champion van power visit wild timber upset smooth";
+var mnemonic = "sea melody identify chair hill between record web bunker nephew print demise";

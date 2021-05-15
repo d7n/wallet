@@ -1,1 +1,1 @@
-var mnemonic = "over stamp seek utility parrot imitate ivory wheat live dream become stand";
+var mnemonic = "keen quiz early curve tornado oven tank couple mad penalty symbol laugh";

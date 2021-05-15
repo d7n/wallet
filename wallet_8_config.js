@@ -1,1 +1,1 @@
-var mnemonic = "steak goose gate tenant minor honey quote figure unit soldier police tunnel";
+var mnemonic = "card actual layer predict world awesome snake seek hat shiver faint huge";

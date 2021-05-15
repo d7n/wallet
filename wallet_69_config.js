@@ -1,1 +1,1 @@
-var mnemonic = "wonder theme student tornado market seminar travel mom pole staff inch gap";
+var mnemonic = "ozone shoe patrol child priority ostrich smart episode carbon action elbow episode";

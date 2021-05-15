@@ -1,1 +1,1 @@
-var mnemonic = "unit hungry stuff razor unique chair section elder census crisp primary coil";
+var mnemonic = "scare lawsuit magic region habit night clutch second tobacco regular brand fence";

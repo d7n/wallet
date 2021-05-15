@@ -1,1 +1,1 @@
-var mnemonic = "toddler one foster flash base digital afraid category fancy junior tiny speed";
+var mnemonic = "title cause fat casual nasty badge try flock brush cube baby chief";

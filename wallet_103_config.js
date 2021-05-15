@@ -1,1 +1,1 @@
-var mnemonic = "zebra require awesome frozen toast crane crater enable client much awkward dog";
+var mnemonic = "junk embody approve item sense parade same pitch bid version lawsuit vintage";

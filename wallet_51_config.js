@@ -1,1 +1,1 @@
-var mnemonic = "defense mass flush fiber myself famous chuckle tumble believe dog motion monster";
+var mnemonic = "fee height leave flash intact pepper differ minute inhale rival cup prosper";

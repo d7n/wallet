@@ -1,1 +1,1 @@
-var mnemonic = "walnut scene frozen machine kidney chimney maximum sea flag ozone argue stomach";
+var mnemonic = "old power script jacket jeans tonight mask element deer ill lift aisle";

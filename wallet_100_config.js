@@ -1,1 +1,1 @@
-var mnemonic = "earth federal rather urge knock divide father crack garage evoke fix album";
+var mnemonic = "dumb alcohol neglect prosper song digital slot vivid donkey repair number rail";

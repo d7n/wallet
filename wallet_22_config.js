@@ -1,1 +1,1 @@
-var mnemonic = "mule member maple brush blood soap vacant find token endless employ vehicle";
+var mnemonic = "vessel other attack minute minor hobby tilt air fetch romance refuse solution";

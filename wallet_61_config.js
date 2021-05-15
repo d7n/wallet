@@ -1,1 +1,1 @@
-var mnemonic = "tourist relief major cheese transfer fog aware tip region horse banana brand";
+var mnemonic = "anchor swing ecology harsh steel warm gather sea law project pair enough";

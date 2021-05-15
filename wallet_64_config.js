@@ -1,1 +1,1 @@
-var mnemonic = "capital elevator room enhance dolphin kingdom beef rose segment coral legend flight";
+var mnemonic = "alone truly digital trap enrich time shrimp bomb drift merit turn tumble";

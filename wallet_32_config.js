@@ -1,1 +1,1 @@
-var mnemonic = "method draw outer guard today friend glide climb napkin tray whip chimney";
+var mnemonic = "scare into milk embark coach wear mother seek unknown champion tank awesome";

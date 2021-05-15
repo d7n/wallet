@@ -1,1 +1,1 @@
-var mnemonic = "salt need okay invite iron main antenna garbage humble dune rifle scheme";
+var mnemonic = "glow steak stuff feed toddler crouch chef patch soft nurse cinnamon busy";

@@ -1,1 +1,1 @@
-var mnemonic = "horse weapon bubble below girl noble rhythm pact claw come buzz edge";
+var mnemonic = "great miracle exit clerk alone upper budget flight pill direct vast soft";

@@ -1,1 +1,1 @@
-var mnemonic = "girl garage uphold mansion culture fever beef inner area dry sort inherit";
+var mnemonic = "young famous amateur pottery tone need know ten twelve glance suspect bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "ring afraid oppose ride certain rose bread journey skill sadness provide song";
+var mnemonic = "claw quarter ugly axis assault castle visa excess margin witness number afford";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium gospel sudden warrior aisle caught avocado spike hidden lobster ski cute";
+var mnemonic = "bitter year carbon body swamp arrow magnet mixed uniform ramp course devote";

@@ -1,1 +1,1 @@
-var mnemonic = "biology burst diamond start iron they noise history stove funny issue shed";
+var mnemonic = "laundry bag satoshi milk cupboard pair report recycle slide chat obscure liar";

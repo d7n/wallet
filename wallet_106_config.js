@@ -1,1 +1,1 @@
-var mnemonic = "blind panda sure idle interest winter brass sing indoor dignity device swift";
+var mnemonic = "margin few battle unknown rate meadow grocery size unit angle gentle walk";

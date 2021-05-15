@@ -1,1 +1,1 @@
-var mnemonic = "genuine lobster mosquito runway shed able fossil scan student cross view dynamic";
+var mnemonic = "cruise damp offer never exile desert employ jacket square zebra crouch trick";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi soft size denial rally lock draft coast casual super wire usual";
+var mnemonic = "walk merge rebuild betray code element achieve bless figure bread wolf way";

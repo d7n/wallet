@@ -1,1 +1,1 @@
-var mnemonic = "gentle prepare common stairs pig clump prefer spell farm aunt side cattle";
+var mnemonic = "lobster flight medal thumb auto install candy cricket sunset tackle sick spike";

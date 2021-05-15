@@ -1,1 +1,1 @@
-var mnemonic = "focus clever fatigue census staff current wave more unknown since elite dream";
+var mnemonic = "clock acid copper enough core square fade ghost rather exercise scare ethics";

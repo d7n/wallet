@@ -1,1 +1,1 @@
-var mnemonic = "winner poverty net split satisfy program smooth brass cry shop visit squirrel";
+var mnemonic = "claim clap milk endorse behave misery foot caught bonus tribe cactus income";

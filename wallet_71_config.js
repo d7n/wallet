@@ -1,1 +1,1 @@
-var mnemonic = "true metal over album total hand scale narrow lady club burst feature";
+var mnemonic = "obvious man learn exercise pause swamp adult travel sister habit gallery topple";

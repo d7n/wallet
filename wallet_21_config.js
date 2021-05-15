@@ -1,1 +1,1 @@
-var mnemonic = "feed public supreme tooth soldier nest symptom slender thumb trick labor gym";
+var mnemonic = "rice wave where mango denial toddler expire excess marriage hero energy outdoor";

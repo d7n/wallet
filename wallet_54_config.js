@@ -1,1 +1,1 @@
-var mnemonic = "royal immune omit crunch diagram program fever clog weasel allow turkey name";
+var mnemonic = "present bundle universe absurd bachelor response choose flip quick deliver smart critic";

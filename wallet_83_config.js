@@ -1,1 +1,1 @@
-var mnemonic = "damage woman tail december mammal pool punch circle icon essence marble trap";
+var mnemonic = "stamp album enforce swing soldier core waste man blame urge glass error";

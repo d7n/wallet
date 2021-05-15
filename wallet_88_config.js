@@ -1,1 +1,1 @@
-var mnemonic = "resource segment mutual chase melody evoke property happy culture federal afraid fortune";
+var mnemonic = "forget food very ten over stand diet amazing erupt process angry firm";

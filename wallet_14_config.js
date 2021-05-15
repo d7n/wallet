@@ -1,1 +1,1 @@
-var mnemonic = "inside portion purity theme umbrella file brush cactus universe uniform enrich cash";
+var mnemonic = "around render harvest off minimum advice battle enable vintage omit prosper gauge";

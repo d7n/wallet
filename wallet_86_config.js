@@ -1,1 +1,1 @@
-var mnemonic = "lazy style dry panda leader scout tobacco neutral hurt install flat always";
+var mnemonic = "manage drink cruise still virtual project diagram badge fiscal brush aerobic cute";

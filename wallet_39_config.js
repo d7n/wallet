@@ -1,1 +1,1 @@
-var mnemonic = "found quantum island curtain ring curve flight sad rail image room aisle";
+var mnemonic = "scout fancy destroy primary matter focus clean rule deny maze pilot sphere";

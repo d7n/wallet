@@ -1,1 +1,1 @@
-var mnemonic = "rice lazy enemy grace make cinnamon banner seven sword mammal priority match";
+var mnemonic = "transfer lunar oak tip trash kiwi shrug sing ship near rescue solve";

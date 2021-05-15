@@ -1,1 +1,1 @@
-var mnemonic = "proof urban obtain ivory praise peasant future pigeon warfare old dwarf vapor";
+var mnemonic = "lazy sleep lottery enhance trade hover glimpse fold joke lesson off census";

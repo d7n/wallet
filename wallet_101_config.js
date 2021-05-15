@@ -1,1 +1,1 @@
-var mnemonic = "hen pledge worry benefit arrow shallow hundred tape second kiss hockey broken";
+var mnemonic = "daring struggle fame endless simple amateur above unusual grab flower virus faint";

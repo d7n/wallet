@@ -1,1 +1,1 @@
-var mnemonic = "paddle glare distance army chicken meat left asthma latin soldier smile great";
+var mnemonic = "insane hold ignore certain below good color spray remove silent short garden";
