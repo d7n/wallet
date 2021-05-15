@@ -1,1 +1,1 @@
-var mnemonic = "blade rice subject better segment clarify tooth weekend void curious morning alter";
+var mnemonic = "unusual hollow material mesh lesson pass return sketch burger replace label scout";

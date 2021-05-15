@@ -1,1 +1,1 @@
-var mnemonic = "ecology foam person celery force caution blood verify session when mule charge";
+var mnemonic = "firm pyramid power curious digital glance wine monster adult business size direct";

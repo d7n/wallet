@@ -1,1 +1,1 @@
-var mnemonic = "hair beef alley major girl eagle torch blur harsh nuclear inject slow";
+var mnemonic = "athlete embrace citizen donkey load assume series trim hope civil consider vocal";

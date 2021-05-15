@@ -1,1 +1,1 @@
-var mnemonic = "hair together truth slow speed myself engage idle mandate bless position nature";
+var mnemonic = "snow solid lock benefit want symbol monkey trick dinosaur trip quantum shell";

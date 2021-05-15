@@ -1,1 +1,1 @@
-var mnemonic = "bus position where supreme forum ketchup tell whale engine lounge comic profit";
+var mnemonic = "valley grocery upper dumb about switch knee brave aunt fire crisp antique";

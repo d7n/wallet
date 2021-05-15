@@ -1,1 +1,1 @@
-var mnemonic = "sun sad health total banana deposit test release weasel boring between theory";
+var mnemonic = "oblige output deputy proof text type deputy menu faith review spare give";

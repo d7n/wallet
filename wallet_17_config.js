@@ -1,1 +1,1 @@
-var mnemonic = "donkey hotel ill client puzzle gravity option gate color car dawn joy";
+var mnemonic = "apart ramp nose eagle sea cattle boy trade neglect imitate chat village";

@@ -1,1 +1,1 @@
-var mnemonic = "burden cupboard sport always notice unfair antenna connect afraid benefit raw resemble";
+var mnemonic = "muffin earn unhappy sock second kitten buyer foam leaf orchard allow someone";

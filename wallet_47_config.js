@@ -1,1 +1,1 @@
-var mnemonic = "describe fee slot extend relax hope shoot canoe kingdom walk eagle usual";
+var mnemonic = "loop pulp analyst deliver fortune oxygen arrange busy machine explain tank enroll";

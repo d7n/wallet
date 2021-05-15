@@ -1,1 +1,1 @@
-var mnemonic = "artwork north occur cereal apart retreat depth cotton window peasant street extra";
+var mnemonic = "venue dutch since pottery wealth mutual lawsuit crunch good fatal meat modify";

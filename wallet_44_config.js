@@ -1,1 +1,1 @@
-var mnemonic = "infant gravity agree nature question hunt captain divorce arrive like chest amused";
+var mnemonic = "episode forget visit green install enter home install dismiss choose story six";

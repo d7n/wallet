@@ -1,1 +1,1 @@
-var mnemonic = "before hockey direct junior immense august leopard paper treat horse scrub rebel";
+var mnemonic = "trash board humble buzz fade crunch child educate crisp glass despair renew";

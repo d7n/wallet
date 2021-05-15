@@ -1,1 +1,1 @@
-var mnemonic = "ostrich vapor rubber resemble switch force figure item oven fluid trumpet ugly";
+var mnemonic = "liar uniform tooth other wheel robot enroll drop ability artist amazing good";

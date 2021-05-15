@@ -1,1 +1,1 @@
-var mnemonic = "south hollow solar bubble brother gossip violin tired trim useless bulk fiscal";
+var mnemonic = "idle ask royal front search insect slush scorpion naive cancel delay huge";

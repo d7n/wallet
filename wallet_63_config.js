@@ -1,1 +1,1 @@
-var mnemonic = "wise runway exhibit frozen before deposit atom seek amused absorb glimpse tent";
+var mnemonic = "orphan spoil dragon hunt rigid behave fence away machine system marble olympic";

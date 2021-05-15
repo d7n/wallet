@@ -1,1 +1,1 @@
-var mnemonic = "chase stool puppy life depend fog load file collect recall defy robust";
+var mnemonic = "recipe cushion attract rebel spawn achieve twin large envelope recipe body ramp";

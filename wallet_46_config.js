@@ -1,1 +1,1 @@
-var mnemonic = "enjoy clinic frequent this lecture figure hen goat surprise flock dizzy minute";
+var mnemonic = "ceiling among then strike devote urban yellow three clay glory crisp chaos";

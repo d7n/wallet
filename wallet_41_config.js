@@ -1,1 +1,1 @@
-var mnemonic = "word account dirt buzz crowd absurd paddle spend chicken funny city ranch";
+var mnemonic = "picnic describe invite outside enact weather plastic lyrics tiger patch raw devote";

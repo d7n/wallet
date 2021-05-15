@@ -1,1 +1,1 @@
-var mnemonic = "essence before tobacco top picnic pole nose gown exact security ripple gate";
+var mnemonic = "fox food crouch silver lucky wine quiz cheese awesome cheese hint crime";

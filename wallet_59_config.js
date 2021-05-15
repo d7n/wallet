@@ -1,1 +1,1 @@
-var mnemonic = "welcome reflect small fetch expose mimic betray erode series sibling brush creek";
+var mnemonic = "link tired kitten catalog ring iron photo cry honey fork welcome cannon";

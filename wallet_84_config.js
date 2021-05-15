@@ -1,1 +1,1 @@
-var mnemonic = "junk above thrive system decrease broken brush flag party tumble share approve";
+var mnemonic = "muffin door envelope great remove solid churn fortune order guess leg throw";

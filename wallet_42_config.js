@@ -1,1 +1,1 @@
-var mnemonic = "syrup nut push desk gaze spoil trophy final alcohol shy pumpkin orphan";
+var mnemonic = "deer ability sight snack nature panel render toilet proud drift enjoy price";

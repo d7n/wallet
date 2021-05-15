@@ -1,1 +1,1 @@
-var mnemonic = "elephant lumber shrimp rally print dilemma bracket response animal winter opera park";
+var mnemonic = "invite climb magnet atom canoe suspect clog muffin trash pause gold pond";

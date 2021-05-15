@@ -1,1 +1,1 @@
-var mnemonic = "flavor chicken spice lab regret asset spike mesh blood random piece innocent";
+var mnemonic = "dutch six render solve piece buffalo spice animal want gorilla cycle patrol";

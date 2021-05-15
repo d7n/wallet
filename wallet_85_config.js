@@ -1,1 +1,1 @@
-var mnemonic = "holiday blanket one erupt daughter outer toss box course warrior remove song";
+var mnemonic = "breeze corn million panther inhale noble exhibit bubble among level edit inch";

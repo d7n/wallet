@@ -1,1 +1,1 @@
-var mnemonic = "bronze fly inflict select select first love art grab mansion detail nest";
+var mnemonic = "nut bid crew industry aunt monitor trap lecture hair boat add fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf train rib dragon decrease ketchup miss recall occur case present deny";
+var mnemonic = "empower order bulb rely suggest belt weapon betray become napkin camera poem";

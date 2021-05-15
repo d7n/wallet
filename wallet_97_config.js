@@ -1,1 +1,1 @@
-var mnemonic = "entire weapon asset crew erupt permit defy disagree basket scorpion deputy document";
+var mnemonic = "style rhythm shrimp soft expose tackle group sibling fatigue empty despair elder";

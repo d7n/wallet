@@ -1,1 +1,1 @@
-var mnemonic = "lemon city frequent absent cereal fee razor opinion cushion potato rice uncle";
+var mnemonic = "blame lake brother robot primary tray lawsuit gap catch inject bulb urge";

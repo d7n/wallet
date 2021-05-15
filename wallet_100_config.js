@@ -1,1 +1,1 @@
-var mnemonic = "example sausage stay relief best enhance inform require adjust staff alter cable";
+var mnemonic = "major detect enrich design galaxy twist achieve exotic lumber advance holiday quality";

@@ -1,1 +1,1 @@
-var mnemonic = "flush oil agree ripple theme brisk diesel curious pretty suit crystal useless";
+var mnemonic = "sunset arrow apology absorb lesson good weekend industry record seminar small memory";

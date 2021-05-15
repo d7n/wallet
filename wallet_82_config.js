@@ -1,1 +1,1 @@
-var mnemonic = "cross mad extra clinic pact pottery type cloud someone meat scorpion liberty";
+var mnemonic = "manual enforce length despair dice shove control fiber buzz dawn pluck hen";

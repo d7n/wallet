@@ -1,1 +1,1 @@
-var mnemonic = "actress cook swarm absorb drop earth street fortune swallow rely sample blush";
+var mnemonic = "garbage amateur social syrup image disagree valve burst travel play sorry sun";

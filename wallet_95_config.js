@@ -1,1 +1,1 @@
-var mnemonic = "father jeans false hazard entire same yellow vault sniff fiscal fantasy assume";
+var mnemonic = "forum seed diagram include negative token actress document prize mention service census";

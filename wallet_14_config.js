@@ -1,1 +1,1 @@
-var mnemonic = "butter napkin churn draft force belt radio peanut inspire bunker mirror rough";
+var mnemonic = "picture giant fiscal labor route logic slush final exhaust light unaware tree";

@@ -1,1 +1,1 @@
-var mnemonic = "web danger soap key oppose property spread scrub cart carry voice skin";
+var mnemonic = "ladder inch nominee slot web hotel lazy wink miracle chicken conduct pig";

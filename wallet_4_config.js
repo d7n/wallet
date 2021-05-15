@@ -1,1 +1,1 @@
-var mnemonic = "other speak filter fetch whisper final consider clog mixture country unable heart";
+var mnemonic = "pledge clog they concert omit bitter mail use drop virtual fiscal annual";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge whip pepper attract loop harbor moral record arrest improve maximum release";
+var mnemonic = "theme vote laundry decorate victory stool accident potato huge disagree hurry horse";

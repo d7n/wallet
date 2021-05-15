@@ -1,1 +1,1 @@
-var mnemonic = "earn kidney finger matter moral chunk case length settle truck zoo crime";
+var mnemonic = "voice wonder security today ceiling extend measure stem brush permit track cheap";

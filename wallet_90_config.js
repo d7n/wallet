@@ -1,1 +1,1 @@
-var mnemonic = "vendor buffalo pitch chest put chief casino knee slice melt equal shell";
+var mnemonic = "maid pulse share state jewel dentist shallow bounce traffic hood grid clap";

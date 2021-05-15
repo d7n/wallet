@@ -1,1 +1,1 @@
-var mnemonic = "nurse seven random resource cupboard win defense desk oblige bottom economy shoot";
+var mnemonic = "cheese swift sweet foil forest matrix body base ensure tiger fossil among";

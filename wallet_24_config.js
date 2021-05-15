@@ -1,1 +1,1 @@
-var mnemonic = "toward gold supply wheat boat bid use spirit fee clock leaf foster";
+var mnemonic = "wage road away lecture chase august poverty stem alarm orange chef right";

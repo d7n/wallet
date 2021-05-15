@@ -1,1 +1,1 @@
-var mnemonic = "cute around gospel cross crime response spirit chase skull flame crisp walnut";
+var mnemonic = "behind frozen bless lottery oxygen cloth kite drink impact sound sign illness";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle deputy weapon perfect universe honey hidden window merge battle bonus bike";
+var mnemonic = "drastic suggest fresh thing demise arrow all illness balance burger pipe liar";

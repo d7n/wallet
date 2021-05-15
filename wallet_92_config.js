@@ -1,1 +1,1 @@
-var mnemonic = "raw toward idle sponsor garbage emerge pyramid social try kit phrase until";
+var mnemonic = "weird mimic rookie buzz link cream panel asthma history flash find entry";

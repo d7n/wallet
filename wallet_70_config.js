@@ -1,1 +1,1 @@
-var mnemonic = "iron scrap economy check food film youth inform over song tongue lesson";
+var mnemonic = "accident orange correct win multiply steak hope girl sport dial unfair reward";

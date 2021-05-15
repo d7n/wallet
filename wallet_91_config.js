@@ -1,1 +1,1 @@
-var mnemonic = "need depend travel razor kingdom mutual process shoot airport apology hello together";
+var mnemonic = "verify liar gossip dish hurry sense liar wrong alcohol agent comic across";

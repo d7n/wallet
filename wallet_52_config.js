@@ -1,1 +1,1 @@
-var mnemonic = "inform title pudding prize intact thrive museum hamster three piece plastic bind";
+var mnemonic = "nice champion daring ginger glance crater term wagon eternal green basic peace";

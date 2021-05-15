@@ -1,1 +1,1 @@
-var mnemonic = "stadium guitar example luxury meadow tree infant beef head remember jealous climb";
+var mnemonic = "august slot spirit lamp large radio hill shoot spider found reform output";

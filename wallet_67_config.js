@@ -1,1 +1,1 @@
-var mnemonic = "venue hidden embody stone season switch loop success fresh banner offer oppose";
+var mnemonic = "ripple trim naive sniff fan blood welcome enough pride jaguar own shiver";

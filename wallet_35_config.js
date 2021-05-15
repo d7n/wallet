@@ -1,1 +1,1 @@
-var mnemonic = "during lottery click negative reduce law stand genre toe smooth bundle endless";
+var mnemonic = "infant close solid cool elevator swarm smile relief say run cargo stage";

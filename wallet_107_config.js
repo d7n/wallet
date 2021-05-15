@@ -1,1 +1,1 @@
-var mnemonic = "truth name all industry curtain surprise gold bottom print tuna same someone";
+var mnemonic = "leader observe melt job bulb bean useless clay sibling ivory trophy whisper";

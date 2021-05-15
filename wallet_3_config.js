@@ -1,1 +1,1 @@
-var mnemonic = "assist price fiscal this cactus deer wool sunset volume ridge finger harsh";
+var mnemonic = "subway wrap best movie trophy frame cash sibling concert accuse asthma seat";

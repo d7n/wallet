@@ -1,1 +1,1 @@
-var mnemonic = "crisp dice chat choose program slice assist pause atom just song purse";
+var mnemonic = "dad pink fault volcano miss senior either three leg miss surprise spin";

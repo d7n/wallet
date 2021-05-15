@@ -1,1 +1,1 @@
-var mnemonic = "chair cart merit easily pledge wasp unveil ladder before property sight potato";
+var mnemonic = "fitness car girl mosquito bring gentle type rent heart left surround quarter";

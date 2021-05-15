@@ -1,1 +1,1 @@
-var mnemonic = "canoe tent replace argue top market envelope focus rich tragic empower inch";
+var mnemonic = "struggle night various private fringe sense awkward pond search hen uniform imitate";

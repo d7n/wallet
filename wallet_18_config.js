@@ -1,1 +1,1 @@
-var mnemonic = "bread narrow wise sure friend parade wide cliff poem goat normal addict";
+var mnemonic = "cupboard hybrid kit cabbage female swing speak mail list rubber dad occur";

@@ -1,1 +1,1 @@
-var mnemonic = "route hybrid dinosaur crunch tail tumble away engine fetch source novel valid";
+var mnemonic = "hour donor occur brother worth expire leopard behind knee acoustic note lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub allow wink short heart matrix vessel soldier receive obey poem lake";
+var mnemonic = "strong midnight notice fan bounce laugh swear margin index toast economy all";

@@ -1,1 +1,1 @@
-var mnemonic = "maze road wedding eternal rate clever noodle gather mixed swarm family nuclear";
+var mnemonic = "blur subject main uphold plate fox garment video saddle someone cake hospital";

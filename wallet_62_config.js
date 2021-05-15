@@ -1,1 +1,1 @@
-var mnemonic = "around lake castle base select tag bind nurse bring pretty meadow render";
+var mnemonic = "success pencil wild shift curious mechanic fun obvious banana night track whisper";

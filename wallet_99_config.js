@@ -1,1 +1,1 @@
-var mnemonic = "acquire slide upon burst pass gesture hood empty dove magic delay doll";
+var mnemonic = "stem task pride glimpse cloth blouse icon during quit little asthma suspect";

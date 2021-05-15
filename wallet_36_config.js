@@ -1,1 +1,1 @@
-var mnemonic = "panic rookie draw flash curtain girl fancy what foam river level boring";
+var mnemonic = "ring emerge believe marine first vocal method text gadget leg correct piano";

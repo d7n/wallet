@@ -1,1 +1,1 @@
-var mnemonic = "purpose giraffe title climb suggest fiber weird defy just chalk gentle farm";
+var mnemonic = "arrange voyage hire second tag drama shine churn stock melt calm blur";

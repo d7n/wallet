@@ -1,1 +1,1 @@
-var mnemonic = "lumber love immense film gossip flight almost genre jewel naive winter under";
+var mnemonic = "fault absent disagree cattle team vault picnic patrol measure join thing permit";

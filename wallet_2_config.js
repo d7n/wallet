@@ -1,1 +1,1 @@
-var mnemonic = "replace differ cruel pelican sign hard verb pudding visit recall enlist defy";
+var mnemonic = "animal flag puzzle arrive food skirt brisk rule route spatial enlist dress";

@@ -1,1 +1,1 @@
-var mnemonic = "icon toy erase level gasp pledge legend awful speak cross sure forum";
+var mnemonic = "phone shaft trial struggle electric table list intact siren success category alien";

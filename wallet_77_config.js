@@ -1,1 +1,1 @@
-var mnemonic = "vault sad avocado organ craft plate bounce job drastic neglect owner runway";
+var mnemonic = "acquire web nominee sentence sock novel pulp achieve peanut erase spell mom";

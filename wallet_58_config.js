@@ -1,1 +1,1 @@
-var mnemonic = "account famous clap cliff album magnet blanket energy despair thumb faculty live";
+var mnemonic = "success wrist pair mix action inmate thank slender valid success donate clap";

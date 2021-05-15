@@ -1,1 +1,1 @@
-var mnemonic = "load knock like strong eagle shallow early novel rifle swift trick siege";
+var mnemonic = "shine rule call off retreat erupt frame device cloud surround toss coral";

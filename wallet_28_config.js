@@ -1,1 +1,1 @@
-var mnemonic = "arctic hawk woman away chronic exact convince neglect army episode burden mouse";
+var mnemonic = "quality violin loan equip van bar arch toast license slow knife suspect";

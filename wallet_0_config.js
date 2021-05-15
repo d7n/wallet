@@ -1,1 +1,1 @@
-var mnemonic = "bone prefer box surprise topic hurt keen repeat jar intact picnic december";
+var mnemonic = "exercise misery cook undo primary wasp basic fine script gain deputy please";

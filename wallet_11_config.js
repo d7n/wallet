@@ -1,1 +1,1 @@
-var mnemonic = "miracle bag aim debris differ actor cheap defy extend annual spare burger";
+var mnemonic = "march moon cake flight father skin midnight just spread sword silk sting";

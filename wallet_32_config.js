@@ -1,1 +1,1 @@
-var mnemonic = "among repair armor mercy knife connect hundred peasant snake march onion family";
+var mnemonic = "foster portion okay embark return usual polar nothing erupt tide science garbage";

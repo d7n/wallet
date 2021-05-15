@@ -1,1 +1,1 @@
-var mnemonic = "fringe apology stand argue satoshi weather shoe safe make stamp prepare custom";
+var mnemonic = "reflect word solution deer initial rich leader major apart message hair hire";

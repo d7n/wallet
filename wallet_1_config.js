@@ -1,1 +1,1 @@
-var mnemonic = "plug asthma tumble guilt fetch exotic alone lava join decrease quote attract";
+var mnemonic = "solution insane liquid gentle cross crystal owner puppy almost cinnamon luxury math";

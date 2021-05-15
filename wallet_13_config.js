@@ -1,1 +1,1 @@
-var mnemonic = "rose change tribe oxygen vague evoke asthma expand army lion tube weather";
+var mnemonic = "mean ocean excess gun budget lizard flight trend open order security chaos";

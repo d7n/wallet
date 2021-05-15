@@ -1,1 +1,1 @@
-var mnemonic = "settle razor start mobile point sleep enable message rigid erupt meadow few";
+var mnemonic = "edge gentle blush time nose myth boy direct please hungry lock cube";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot sock inflict security body margin alcohol fancy output venture hollow quick";
+var mnemonic = "magic cannon crystal debris casino smoke guard father ozone file stadium erupt";

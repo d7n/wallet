@@ -1,1 +1,1 @@
-var mnemonic = "subject visit wear under alien man maximum pen smile taxi glance deposit";
+var mnemonic = "scissors sphere energy sing bubble sight wear clever woman train spice acquire";

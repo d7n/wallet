@@ -1,1 +1,1 @@
-var mnemonic = "elegant leave shine disagree imitate wedding capable slush reunion lens steel hockey";
+var mnemonic = "snap million volcano galaxy rude flower field increase practice blur giant uncle";

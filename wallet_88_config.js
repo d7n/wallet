@@ -1,1 +1,1 @@
-var mnemonic = "move sight pulp hole swing spoon cousin once link ugly auto monitor";
+var mnemonic = "great giant dial december always lady region depend lawsuit brisk mango hard";

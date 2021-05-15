@@ -1,1 +1,1 @@
-var mnemonic = "accident fork custom sure celery climb lady worry army life poet wait";
+var mnemonic = "then vicious snake decline ankle library vehicle combine parrot rug art rapid";

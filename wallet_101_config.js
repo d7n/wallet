@@ -1,1 +1,1 @@
-var mnemonic = "fire now derive quick between seek cost diary concert subway robot hungry";
+var mnemonic = "need jazz neck ethics energy live arctic antenna melt travel spoon solution";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp lava pepper actual soccer split kingdom mammal river adapt good food";
+var mnemonic = "real warm gas forum walk alone reward zone black assault diagram leisure";

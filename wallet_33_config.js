@@ -1,1 +1,1 @@
-var mnemonic = "essence trial harbor stock private release voyage monkey age kangaroo fall hockey";
+var mnemonic = "salon decide squirrel tribe play among foster goat sword pigeon hundred give";

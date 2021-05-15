@@ -1,1 +1,1 @@
-var mnemonic = "filter forum siege alarm emotion quit clay depend train news across awake";
+var mnemonic = "empty mimic panel crisp suggest virtual river power guide neglect bird weather";

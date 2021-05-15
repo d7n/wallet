@@ -1,1 +1,1 @@
-var mnemonic = "language spirit gauge baby same winter elephant ceiling oxygen thrive gossip eyebrow";
+var mnemonic = "connect other day glance slender gorilla velvet boil someone edit vacant man";

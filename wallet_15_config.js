@@ -1,1 +1,1 @@
-var mnemonic = "bottom oblige copy sleep arrow diesel remove final novel elder giggle raccoon";
+var mnemonic = "stamp about twenty husband seven inspire dinosaur force notable toss jungle ordinary";

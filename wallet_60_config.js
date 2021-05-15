@@ -1,1 +1,1 @@
-var mnemonic = "zebra sphere insane sword desk lizard bread fabric viable fix pepper stairs";
+var mnemonic = "april hover thrive boy desk benefit patient record garden soup link random";
