@@ -1,1 +1,1 @@
-var mnemonic = "venture image warrior health bird chief erase sheriff multiply lobster rail rocket";
+var mnemonic = "eight sauce wave capable extra alone ivory science fabric hawk traffic smooth";

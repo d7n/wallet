@@ -1,1 +1,1 @@
-var mnemonic = "category orange certain blame monitor give already drink oven two stay envelope";
+var mnemonic = "easily panther share thunder region era diamond chuckle joy know culture question";

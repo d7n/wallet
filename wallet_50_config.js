@@ -1,1 +1,1 @@
-var mnemonic = "leader increase rotate sense vocal kite artist rib photo already slogan soldier";
+var mnemonic = "bean machine unusual vessel head dynamic busy ancient saddle census jaguar orange";

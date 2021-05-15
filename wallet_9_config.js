@@ -1,1 +1,1 @@
-var mnemonic = "item door second club egg repair drum just inhale tape waste cushion";
+var mnemonic = "lock already collect pyramid piece help upper birth portion pear humor evidence";

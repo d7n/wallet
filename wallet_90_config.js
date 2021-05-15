@@ -1,1 +1,1 @@
-var mnemonic = "border zebra wet violin nation since merit visual aunt side left shrug";
+var mnemonic = "deal flag welcome mean logic already debris physical plate grape regular vital";

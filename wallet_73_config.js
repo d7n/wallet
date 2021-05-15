@@ -1,1 +1,1 @@
-var mnemonic = "begin round huge order wagon alarm uphold frown plastic drink select acid";
+var mnemonic = "poet address purse wrist flavor must swear tobacco blush service intact delay";

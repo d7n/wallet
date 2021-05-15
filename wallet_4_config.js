@@ -1,1 +1,1 @@
-var mnemonic = "devote ride alert settle seminar field spare twist actress manual utility canal";
+var mnemonic = "trim nose taxi flip gasp taxi unaware solution cave recipe feed eight";

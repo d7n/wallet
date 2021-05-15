@@ -1,1 +1,1 @@
-var mnemonic = "armed board north top lobster cancel seven museum guard tide illegal cousin";
+var mnemonic = "torch crowd chuckle glance topic notice chimney because soon say explain predict";

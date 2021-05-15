@@ -1,1 +1,1 @@
-var mnemonic = "acid core example post tobacco globe crunch twelve amateur dial poem agent";
+var mnemonic = "add orbit lava icon snap add fall attend liberty garment fancy race";

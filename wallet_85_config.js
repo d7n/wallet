@@ -1,1 +1,1 @@
-var mnemonic = "meadow cool option music fashion prize private various bounce across correct dynamic";
+var mnemonic = "love artefact nothing beef drink sketch vibrant state priority just tank candy";

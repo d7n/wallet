@@ -1,1 +1,1 @@
-var mnemonic = "luxury owner final cheap snake expand awkward together visual build narrow stadium";
+var mnemonic = "core reveal auction able kitchen virtual record awful news sun home crash";

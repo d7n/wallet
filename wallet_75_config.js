@@ -1,1 +1,1 @@
-var mnemonic = "clump observe march banana across pilot runway stuff bind pet estate play";
+var mnemonic = "dose elite donor visual brick gaze average shallow pole rich tent file";

@@ -1,1 +1,1 @@
-var mnemonic = "gown pitch myself acoustic upset transfer nut horn hello target major main";
+var mnemonic = "rocket faith juice stamp use eye wish used cage stamp bicycle cloth";

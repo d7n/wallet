@@ -1,1 +1,1 @@
-var mnemonic = "route ice memory key print warfare tiger record math veteran found series";
+var mnemonic = "yard matrix tube inherit accuse dolphin suspect salad scrub hidden pyramid pumpkin";

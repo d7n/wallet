@@ -1,1 +1,1 @@
-var mnemonic = "super grunt property naive field unfair nerve law fit gorilla vessel girl";
+var mnemonic = "able novel because elephant harbor unlock copper final burst daring stairs nest";

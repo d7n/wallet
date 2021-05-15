@@ -1,1 +1,1 @@
-var mnemonic = "catalog income buyer actual cliff toilet energy outer evil image fit doll";
+var mnemonic = "muscle roast swarm know tag frown vital warm sense capital oval minimum";

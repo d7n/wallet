@@ -1,1 +1,1 @@
-var mnemonic = "swap echo flat cram tower weird believe cricket update still door announce";
+var mnemonic = "rookie blood uncover sing few say play either ridge only gospel bar";

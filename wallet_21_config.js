@@ -1,1 +1,1 @@
-var mnemonic = "kit all obtain drink donkey panda alarm section shop forum animal impose";
+var mnemonic = "remove raven viable idea brain tray circle town round height inch history";

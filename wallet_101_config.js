@@ -1,1 +1,1 @@
-var mnemonic = "raven amateur middle rebuild nature fence music tank trick seek wet earn";
+var mnemonic = "april enjoy spy menu ethics believe nerve rifle split symptom sister female";

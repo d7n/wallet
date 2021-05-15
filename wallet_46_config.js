@@ -1,1 +1,1 @@
-var mnemonic = "allow robust donate thunder year minimum pelican panel alpha tortoise foot lunar";
+var mnemonic = "village true park find public castle gesture grunt razor body pen prize";

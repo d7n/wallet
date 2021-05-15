@@ -1,1 +1,1 @@
-var mnemonic = "resource universe elevator gas middle taxi suit menu armor cup link diary";
+var mnemonic = "carbon laptop memory engine gadget merit various across era ceiling title buyer";

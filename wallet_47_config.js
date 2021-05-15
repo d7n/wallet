@@ -1,1 +1,1 @@
-var mnemonic = "loan verb oblige athlete sting border sun embark space merry balcony execute";
+var mnemonic = "snow poet robot rude tray toss visa winter true evil upper frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant more wool cube legend bonus farm smart giggle obey put prevent";
+var mnemonic = "pole pioneer silk pink exist suffer ahead increase melt suit brush move";

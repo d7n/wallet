@@ -1,1 +1,1 @@
-var mnemonic = "strong build scatter birth inherit blossom review media cherry real pepper simple";
+var mnemonic = "picnic enrich dish moment prevent tank milk know obey proud notice vital";

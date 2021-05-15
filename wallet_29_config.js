@@ -1,1 +1,1 @@
-var mnemonic = "diamond milk lava enemy quick argue glare ability anchor steak vacuum fold";
+var mnemonic = "noble salt cube borrow damp sign stage huge hope rocket stove jump";

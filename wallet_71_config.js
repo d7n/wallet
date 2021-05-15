@@ -1,1 +1,1 @@
-var mnemonic = "gain squeeze fire smooth math comfort urban give swallow frequent come winter";
+var mnemonic = "attitude fantasy final mom room mad solution income traffic october clog hill";

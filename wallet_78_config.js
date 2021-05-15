@@ -1,1 +1,1 @@
-var mnemonic = "syrup income pottery twenty mouse repair blossom permit twelve slow young kitchen";
+var mnemonic = "soon alcohol muscle spoon multiply speed better lonely sail talent purpose ticket";

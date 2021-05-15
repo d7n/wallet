@@ -1,1 +1,1 @@
-var mnemonic = "other vapor ritual public swamp promote curtain suffer alien side pretty aunt";
+var mnemonic = "ordinary bid medal open air clay voyage miss life maximum push crouch";

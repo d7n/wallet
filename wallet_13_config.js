@@ -1,1 +1,1 @@
-var mnemonic = "country seek sense crystal stay small avoid embody charge urge smart limit";
+var mnemonic = "usual asthma spawn attitude panda target language gold pair decide boy infant";

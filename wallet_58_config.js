@@ -1,1 +1,1 @@
-var mnemonic = "question real rather jealous cook shallow october hip awake trigger beach dress";
+var mnemonic = "dice eagle magnet hill cry license situate vivid cigar gown trust wreck";

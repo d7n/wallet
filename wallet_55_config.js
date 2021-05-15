@@ -1,1 +1,1 @@
-var mnemonic = "sound survey stomach door describe shrug iron garment retire bridge argue place";
+var mnemonic = "vapor food dose cake retire drive fiscal quote anger quiz valid ramp";

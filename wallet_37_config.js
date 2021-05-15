@@ -1,1 +1,1 @@
-var mnemonic = "anger very option cinnamon birth invite flower sing slight abandon noise gossip";
+var mnemonic = "hunt measure disagree iron foot toy twist yard chunk poverty uphold draw";

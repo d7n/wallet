@@ -1,1 +1,1 @@
-var mnemonic = "control crucial east power wash gaze oak huge pottery flight fever tongue";
+var mnemonic = "left inner grunt ten type tank sniff banana jeans manual canyon hire";

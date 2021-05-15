@@ -1,1 +1,1 @@
-var mnemonic = "unlock same remain sort october absorb fashion lift edge rapid shield typical";
+var mnemonic = "gaze belt object bar kingdom victory order lobster question rent script daring";

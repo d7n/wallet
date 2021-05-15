@@ -1,1 +1,1 @@
-var mnemonic = "story ready bind lecture able issue spatial industry extend welcome breeze admit";
+var mnemonic = "faith ramp peanut jacket slot zero coconut creek father impact follow salt";

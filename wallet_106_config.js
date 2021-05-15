@@ -1,1 +1,1 @@
-var mnemonic = "usual game noise breeze twin walk ethics keen garlic kingdom art chronic";
+var mnemonic = "nation picnic grape payment gossip penalty across magnet oak horn aunt battle";

@@ -1,1 +1,1 @@
-var mnemonic = "object winner alert modify despair fly wear skill siren among parent elbow";
+var mnemonic = "soup rib valid jazz sure echo hill scatter party capital engage exist";

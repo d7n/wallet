@@ -1,1 +1,1 @@
-var mnemonic = "right misery final slim boy blur suffer door capital timber drastic van";
+var mnemonic = "staff fruit tattoo mutual another music document february jelly satisfy leaf cover";

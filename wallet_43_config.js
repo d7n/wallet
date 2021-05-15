@@ -1,1 +1,1 @@
-var mnemonic = "rent pool delay submit churn awful dose vapor piece clay wrong giraffe";
+var mnemonic = "rebuild actual diamond shy eye rather style gossip desk daring away appear";

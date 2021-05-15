@@ -1,1 +1,1 @@
-var mnemonic = "nose mask wash slot glow unique move choose appear unveil nominee hire";
+var mnemonic = "stool wreck banana tomato ahead inherit accident illness hybrid salon limb oppose";

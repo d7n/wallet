@@ -1,1 +1,1 @@
-var mnemonic = "goat correct travel until pupil reward blur proof snap young impose ask";
+var mnemonic = "capable summer female dismiss welcome rotate march split area now style current";

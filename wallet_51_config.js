@@ -1,1 +1,1 @@
-var mnemonic = "target claw fault hurry wing narrow climb south better follow maximum jewel";
+var mnemonic = "junior rather umbrella initial fault burden float reveal arm cake crisp casual";

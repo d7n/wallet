@@ -1,1 +1,1 @@
-var mnemonic = "hurry tape truth benefit such obtain wisdom torch heavy decide forest pony";
+var mnemonic = "harbor note sadness usage print festival plunge join spend will peanut grief";

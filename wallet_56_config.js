@@ -1,1 +1,1 @@
-var mnemonic = "senior seek trap hazard behind below easily palace answer jelly boost dune";
+var mnemonic = "eagle wire pulp month morning nothing disorder ritual fabric bench legend pigeon";

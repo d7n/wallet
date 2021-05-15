@@ -1,1 +1,1 @@
-var mnemonic = "stand orange achieve apology tiger gap monster rifle border lyrics swap budget";
+var mnemonic = "kind yard extra vacant tilt detect travel series history baby act soup";

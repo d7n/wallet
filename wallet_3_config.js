@@ -1,1 +1,1 @@
-var mnemonic = "end culture wave quote system answer find unfold sauce blast cover pattern";
+var mnemonic = "razor shy alarm mad mechanic blue audit feature box giraffe better movie";

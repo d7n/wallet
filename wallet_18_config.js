@@ -1,1 +1,1 @@
-var mnemonic = "yard accuse what bind hospital speak curious dumb noise pond juice riot";
+var mnemonic = "venture guilt flame put under evolve chicken stage bulk pledge topic rifle";

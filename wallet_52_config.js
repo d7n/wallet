@@ -1,1 +1,1 @@
-var mnemonic = "apple about evolve cause reason kidney caught useless trend document canyon one";
+var mnemonic = "relax globe stage tank thing abstract power casino tomorrow reason rubber advice";

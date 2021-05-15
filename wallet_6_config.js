@@ -1,1 +1,1 @@
-var mnemonic = "carpet must exist gap collect enhance devote okay mean unknown equip talent";
+var mnemonic = "insane kidney guard job inner interest grace limit swear prize bubble crane";

@@ -1,1 +1,1 @@
-var mnemonic = "town antique escape attract nurse civil coffee fade tourist earth raise rival";
+var mnemonic = "fish whisper fatigue degree honey review engage divide reduce crunch iron evoke";

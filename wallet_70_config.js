@@ -1,1 +1,1 @@
-var mnemonic = "they enrich message omit confirm kiss intact fun column enact vessel garage";
+var mnemonic = "piano neck come mean measure jeans corn relax shuffle rough theme return";

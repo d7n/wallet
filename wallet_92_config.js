@@ -1,1 +1,1 @@
-var mnemonic = "knee suspect horror spider chalk spy civil scrub episode never toe square";
+var mnemonic = "rude lunar sun bitter kangaroo typical soft avoid rose guess afford universe";

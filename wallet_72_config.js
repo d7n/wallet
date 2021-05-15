@@ -1,1 +1,1 @@
-var mnemonic = "trap song hair title toward woman apart entry target better hazard lobster";
+var mnemonic = "throw online feature pigeon assume sniff cannon wait pledge step choose autumn";

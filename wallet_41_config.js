@@ -1,1 +1,1 @@
-var mnemonic = "anchor imitate emotion dose farm raven despair reject burden win purpose roof";
+var mnemonic = "aspect monitor orchard bless fury nerve guard double peanut keep tennis repair";

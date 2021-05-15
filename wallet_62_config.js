@@ -1,1 +1,1 @@
-var mnemonic = "enjoy glance future know usual huge vague absurd summer special there roast";
+var mnemonic = "galaxy dial seek nothing pause same abuse laptop useful original measure glide";

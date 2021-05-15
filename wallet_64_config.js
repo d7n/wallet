@@ -1,1 +1,1 @@
-var mnemonic = "dinner maid april floor window program squirrel key child sing absorb human";
+var mnemonic = "great point fault off blossom cause coin pulp deal mind siren double";

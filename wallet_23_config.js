@@ -1,1 +1,1 @@
-var mnemonic = "century unable crater square hospital load during biology explain rule split heart";
+var mnemonic = "kit window miracle immense illness express ignore funny spot rice vivid able";

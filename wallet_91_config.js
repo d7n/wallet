@@ -1,1 +1,1 @@
-var mnemonic = "mistake piece circle cloth acid churn trash skate gesture wife reject fold";
+var mnemonic = "strategy cactus note anger wear false soul awesome drop amount congress blue";

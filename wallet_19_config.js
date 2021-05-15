@@ -1,1 +1,1 @@
-var mnemonic = "forward library empty cabbage steel motor scrub proud canvas sell hero artefact";
+var mnemonic = "similar indicate stay fantasy off aim thank clutch benefit mirror dismiss vibrant";

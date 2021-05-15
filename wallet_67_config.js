@@ -1,1 +1,1 @@
-var mnemonic = "crucial pipe change aerobic renew female orphan fire long athlete lamp spot";
+var mnemonic = "fog feel virus rubber cage lizard action glove ankle taxi team oil";

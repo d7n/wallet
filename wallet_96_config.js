@@ -1,1 +1,1 @@
-var mnemonic = "because space angry impulse dirt where input call cereal globe silk glare";
+var mnemonic = "slot company way boy render deliver fossil panic hope ride sock birth";

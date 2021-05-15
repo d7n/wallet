@@ -1,1 +1,1 @@
-var mnemonic = "install expose bacon crystal ladder hockey library refuse deny raw aerobic pet";
+var mnemonic = "raise cake become north senior inner gown hip jump hurry noise dismiss";

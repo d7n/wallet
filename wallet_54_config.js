@@ -1,1 +1,1 @@
-var mnemonic = "various few swear ritual size weapon own certain favorite bag shift inherit";
+var mnemonic = "print good cage way resemble truth frequent once jungle hire access slow";

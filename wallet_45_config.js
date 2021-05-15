@@ -1,1 +1,1 @@
-var mnemonic = "clip able bitter wealth rival frog piece verb venue subway minute dog";
+var mnemonic = "grace two twice winter solution output bulk net tuna mask blur soda";

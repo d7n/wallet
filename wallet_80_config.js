@@ -1,1 +1,1 @@
-var mnemonic = "decline remain street near chalk carpet transfer wave oak deny young unveil";
+var mnemonic = "inflict eternal sample shove blur science island artwork laugh desert menu bitter";

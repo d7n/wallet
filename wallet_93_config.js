@@ -1,1 +1,1 @@
-var mnemonic = "resist clinic crawl again dog wild salt physical umbrella select lift marble";
+var mnemonic = "concert south impulse poet diesel swift giggle old orphan stay engage boat";

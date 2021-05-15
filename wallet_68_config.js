@@ -1,1 +1,1 @@
-var mnemonic = "wave river inside spare decrease valley creek bulb zebra census wool drift";
+var mnemonic = "betray anger slab check film fantasy eternal swamp foster milk decade never";

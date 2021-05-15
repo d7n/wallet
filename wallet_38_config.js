@@ -1,1 +1,1 @@
-var mnemonic = "either common knife inmate bottom prevent broom muscle protect poet hub symptom";
+var mnemonic = "ship april brush lyrics burger sniff energy inner trade above derive valley";

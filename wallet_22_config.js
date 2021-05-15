@@ -1,1 +1,1 @@
-var mnemonic = "urban become face smile world laundry record benefit grocery hip connect avocado";
+var mnemonic = "usual ancient believe quantum artefact north demand music hobby kite nice burst";

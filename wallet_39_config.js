@@ -1,1 +1,1 @@
-var mnemonic = "focus palace stay sphere surprise party final tide dream night document coconut";
+var mnemonic = "buyer cotton possible together find stable drive sure unique sustain pupil goose";

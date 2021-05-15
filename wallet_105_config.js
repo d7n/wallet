@@ -1,1 +1,1 @@
-var mnemonic = "gift poverty puzzle cinnamon element have reunion vessel human zoo govern method";
+var mnemonic = "hazard task damage scare code leave crumble lock guess security infant close";

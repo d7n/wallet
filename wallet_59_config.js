@@ -1,1 +1,1 @@
-var mnemonic = "dance wave tornado scissors dizzy orphan junior tip rapid ginger shift merge";
+var mnemonic = "south pistol spend hood crash tilt aspect tag biology possible pony trade";

@@ -1,1 +1,1 @@
-var mnemonic = "win garage rack kingdom give hip intact gasp make buddy punch crane";
+var mnemonic = "outdoor spider orange trade zebra sword mule select stage reject friend wage";

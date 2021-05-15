@@ -1,1 +1,1 @@
-var mnemonic = "scale cliff zebra sleep sound egg divert cloud jungle envelope clump airport";
+var mnemonic = "bulb toy pact animal swing skirt craft usual donor bicycle indoor face";

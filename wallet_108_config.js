@@ -1,1 +1,1 @@
-var mnemonic = "fade nominee crash mammal rocket trick cushion release frozen grace rescue then";
+var mnemonic = "fault member glance giant coast online eight mind shadow abstract flower hockey";

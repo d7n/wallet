@@ -1,1 +1,1 @@
-var mnemonic = "end vacuum crop danger health below bottom client attack almost local glance";
+var mnemonic = "suggest canvas vibrant hungry thank twist sphere drill attract once sight liar";

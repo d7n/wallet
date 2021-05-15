@@ -1,1 +1,1 @@
-var mnemonic = "sand fade aerobic blood jacket dish finger reveal portion stamp alien add";
+var mnemonic = "menu decade jeans victory effort recipe endless exotic usage capable supply turn";

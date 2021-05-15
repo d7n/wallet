@@ -1,1 +1,1 @@
-var mnemonic = "tone dynamic girl have canvas parrot uncle around bonus because okay sing";
+var mnemonic = "garlic city safe common machine year museum process detect release grid slot";

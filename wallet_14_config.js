@@ -1,1 +1,1 @@
-var mnemonic = "bind pluck food knock urban much bachelor topple sunny engage second rifle";
+var mnemonic = "solar chief social globe cabin boy fantasy violin coast force dynamic try";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos click syrup spice layer gap cross refuse junior initial exclude stool";
+var mnemonic = "opera soccer earn broom inhale palm interest cruel toe train awkward people";

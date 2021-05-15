@@ -1,1 +1,1 @@
-var mnemonic = "climb decade lift hundred virus blind expire mandate illness truth team rather";
+var mnemonic = "total pull banner fire judge cute amused spend lamp gloom crash spell";

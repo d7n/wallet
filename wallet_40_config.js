@@ -1,1 +1,1 @@
-var mnemonic = "term purchase dragon safe pudding change pig when planet eternal lady slight";
+var mnemonic = "motion simple donor tag fresh side aisle spirit assault spray oven slight";

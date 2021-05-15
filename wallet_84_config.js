@@ -1,1 +1,1 @@
-var mnemonic = "will either ranch observe medal filter frozen neglect inspire knock snow van";
+var mnemonic = "foster cross direct hello virus dust panda castle about april seek supreme";

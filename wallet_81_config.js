@@ -1,1 +1,1 @@
-var mnemonic = "witness strategy special multiply nurse action spawn trick coffee office crowd slush";
+var mnemonic = "tissue idea genuine under dance glance observe dumb cost sport genius violin";

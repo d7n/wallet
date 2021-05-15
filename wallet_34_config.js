@@ -1,1 +1,1 @@
-var mnemonic = "situate title bundle system genre favorite connect sister frame together toast amused";
+var mnemonic = "spawn swap master obtain dwarf love since duck expire basic cook limit";

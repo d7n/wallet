@@ -1,1 +1,1 @@
-var mnemonic = "cousin high poverty glue injury wet piece swift else tilt sketch surface";
+var mnemonic = "cart tenant mutual naive retire obey better inject peace parent short hurt";

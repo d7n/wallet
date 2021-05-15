@@ -1,1 +1,1 @@
-var mnemonic = "page trial alien barely sniff one music notice dwarf abandon cloud iron";
+var mnemonic = "notable avocado slice flee tape soon flower catch want auto ritual organ";

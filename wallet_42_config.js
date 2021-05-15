@@ -1,1 +1,1 @@
-var mnemonic = "trick buzz hotel amused nurse risk kitchen penalty wrap guitar voyage dragon";
+var mnemonic = "illegal funny spend situate hand replace olympic can rural chuckle solve bridge";
