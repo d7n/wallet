@@ -1,1 +1,1 @@
-var mnemonic = "magnet inch true gap rent harbor blade junk piano snack sphere discover";
+var mnemonic = "invest what nature mouse jungle web current daughter entire elephant absurd floor";

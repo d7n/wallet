@@ -1,1 +1,1 @@
-var mnemonic = "document cupboard system random place local thunder search kite protect common fire";
+var mnemonic = "document actress pilot orchard another song walk apart slight soldier bike love";

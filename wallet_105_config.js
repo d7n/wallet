@@ -1,1 +1,1 @@
-var mnemonic = "bike rival two student hunt craft opera animal furnace try orchard bus";
+var mnemonic = "divorce into cute globe lava youth depend usual focus behind that slam";

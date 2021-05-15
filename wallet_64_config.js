@@ -1,1 +1,1 @@
-var mnemonic = "weapon taste click exit donor fossil wheat night swamp image gentle pepper";
+var mnemonic = "earth antique gap velvet solid famous paddle orange attack art foam dad";

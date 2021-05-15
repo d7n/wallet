@@ -1,1 +1,1 @@
-var mnemonic = "left bind earth brief beyond awkward join drop nest smoke earth exhaust";
+var mnemonic = "soft away remove gospel raven appear shrimp cement pretty ill hospital bid";

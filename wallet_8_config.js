@@ -1,1 +1,1 @@
-var mnemonic = "multiply field hurt mom material ugly betray afford effort work primary near";
+var mnemonic = "wrong hungry copper giraffe illegal rural then ring deny tide effort pretty";

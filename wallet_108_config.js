@@ -1,1 +1,1 @@
-var mnemonic = "entry angle stereo similar crush woman salon weapon autumn case quality solid";
+var mnemonic = "license erode tuition tuna gallery describe cable stereo benefit lab federal kid";

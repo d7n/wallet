@@ -1,1 +1,1 @@
-var mnemonic = "coral mountain little long immune attract obvious either hole vendor rare false";
+var mnemonic = "blast tide icon food tree check toast frost amused dumb solar furnace";

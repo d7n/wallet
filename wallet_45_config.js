@@ -1,1 +1,1 @@
-var mnemonic = "donkey frost anxiety post brown know rabbit sudden drill sort peace dizzy";
+var mnemonic = "neither connect dawn learn track small midnight accident short fatigue oval guilt";

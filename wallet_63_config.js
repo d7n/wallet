@@ -1,1 +1,1 @@
-var mnemonic = "unlock tennis upset truly initial address curve athlete uphold riot pizza runway";
+var mnemonic = "fault bless eternal name exile shift buzz apple option spawn strike woman";

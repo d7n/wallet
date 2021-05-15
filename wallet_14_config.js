@@ -1,1 +1,1 @@
-var mnemonic = "define property horse stuff glory summer convince retreat stem outdoor again infant";
+var mnemonic = "venue again kiss tackle prosper uncle scout borrow clerk check first milk";

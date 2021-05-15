@@ -1,1 +1,1 @@
-var mnemonic = "allow mouse wife dragon comfort gesture monkey force afford banana weasel pave";
+var mnemonic = "ramp picnic awake copper weekend record cave limit pencil december flush mirror";

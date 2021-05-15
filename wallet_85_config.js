@@ -1,1 +1,1 @@
-var mnemonic = "speed cricket lesson tool category submit chalk verb cry sustain learn stage";
+var mnemonic = "hundred electric nasty survey plastic file guilt neither insane magic excuse office";

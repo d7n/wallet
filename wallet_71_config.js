@@ -1,1 +1,1 @@
-var mnemonic = "coast turn inform feature lunch margin base shrug scout dynamic egg example";
+var mnemonic = "heart point enjoy buzz decline unable since cycle deliver gospel kit effort";

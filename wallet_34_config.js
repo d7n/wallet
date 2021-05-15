@@ -1,1 +1,1 @@
-var mnemonic = "spread turtle rotate iron work absorb rely inflict risk awful escape eager";
+var mnemonic = "about night where miracle kingdom attract chronic angry ask gather scorpion lecture";

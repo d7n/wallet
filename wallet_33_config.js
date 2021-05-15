@@ -1,1 +1,1 @@
-var mnemonic = "wrap lab bridge coyote mystery foot pink air refuse lock trap open";
+var mnemonic = "chaos outdoor bird inform credit empower supply wool office occur false index";

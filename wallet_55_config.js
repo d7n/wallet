@@ -1,1 +1,1 @@
-var mnemonic = "earn churn wire leg race destroy work sleep where memory drift nerve";
+var mnemonic = "shrimp mad fuel equip receive advice normal shield dress cushion other material";

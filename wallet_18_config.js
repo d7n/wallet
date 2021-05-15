@@ -1,1 +1,1 @@
-var mnemonic = "warrior write stock hawk carry survey quarter token cage note crack car";
+var mnemonic = "final people muscle act tuna siege pelican push flavor corn hen ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "enable broom hour maze toilet purpose access entire admit spawn tonight material";
+var mnemonic = "panic merit pill demand vacant stay flower raw fresh chunk admit quality";

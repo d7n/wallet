@@ -1,1 +1,1 @@
-var mnemonic = "dress receive slow ice penalty thrive cattle win honey sure topple various";
+var mnemonic = "dune follow embrace spoon photo badge cable snack proud dizzy treat tape";

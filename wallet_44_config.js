@@ -1,1 +1,1 @@
-var mnemonic = "lyrics quiz cry ship economy grid catalog company honey trip tunnel twist";
+var mnemonic = "task middle copper strike degree enact tiny leg razor also ranch hobby";

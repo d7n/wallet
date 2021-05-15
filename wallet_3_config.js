@@ -1,1 +1,1 @@
-var mnemonic = "similar mutual vote huge tip member breeze minor glass notable oyster blue";
+var mnemonic = "domain there proud toddler rich dentist enlist reject congress step crucial knee";

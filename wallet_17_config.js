@@ -1,1 +1,1 @@
-var mnemonic = "still danger sign brief list kitten perfect announce wonder camera clarify absorb";
+var mnemonic = "vendor sunny prefer below senior under where cry soup state own fetch";

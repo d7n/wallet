@@ -1,1 +1,1 @@
-var mnemonic = "tide emotion attack route spoon trade worry cherry repair say lab rural";
+var mnemonic = "tackle miracle spin fork calm true today point modify scrub year execute";

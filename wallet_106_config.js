@@ -1,1 +1,1 @@
-var mnemonic = "transfer apple observe mammal sauce catalog slush scan color need solution sense";
+var mnemonic = "inform fork price math morning author cancel notice kiss angle broken bulk";

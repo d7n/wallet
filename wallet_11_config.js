@@ -1,1 +1,1 @@
-var mnemonic = "arm club disagree credit exercise narrow release hire ramp sister cause employ";
+var mnemonic = "number west thank hollow dignity whip edge truly video trap input forward";

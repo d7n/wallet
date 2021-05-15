@@ -1,1 +1,1 @@
-var mnemonic = "ensure theme provide federal adapt tunnel cute toward craft famous mom stage";
+var mnemonic = "start mixture control settle property scrub position exotic company all snap silly";

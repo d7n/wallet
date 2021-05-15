@@ -1,1 +1,1 @@
-var mnemonic = "tattoo act almost anger hidden case about cushion usual cheap page trap";
+var mnemonic = "ensure enough attract limb dice miracle hedgehog jump crime risk inherit choose";

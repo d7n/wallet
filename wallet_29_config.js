@@ -1,1 +1,1 @@
-var mnemonic = "choose garlic square code wash artwork jazz gospel face enhance spatial auction";
+var mnemonic = "digital slow runway night ankle canal rebel polar army now silver main";

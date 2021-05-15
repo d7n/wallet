@@ -1,1 +1,1 @@
-var mnemonic = "false online crucial bless step fragile fiber domain upgrade wedding net suggest";
+var mnemonic = "refuse october catalog pelican lamp welcome amazing plastic beef reduce home dawn";

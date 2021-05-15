@@ -1,1 +1,1 @@
-var mnemonic = "alcohol era thrive hat pilot talk right paddle oppose crowd sponsor code";
+var mnemonic = "nasty couple doll apology indicate error high connect hunt lend stable april";

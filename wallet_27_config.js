@@ -1,1 +1,1 @@
-var mnemonic = "impulse bullet supreme world oyster warfare rain tomato almost gossip search athlete";
+var mnemonic = "net crumble festival bracket follow rifle move place security coyote crowd vital";

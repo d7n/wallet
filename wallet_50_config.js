@@ -1,1 +1,1 @@
-var mnemonic = "guilt pottery zebra swarm bless suffer learn candy winter water produce trust";
+var mnemonic = "version brain wonder color zebra spatial stem mandate myself funny razor swim";

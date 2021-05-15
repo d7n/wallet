@@ -1,1 +1,1 @@
-var mnemonic = "essence age claim pledge hole amused matrix capable miss input student subway";
+var mnemonic = "shock aim leader borrow siren margin pass creek bean absorb valley better";

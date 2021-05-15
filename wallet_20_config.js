@@ -1,1 +1,1 @@
-var mnemonic = "profit couch wage edit patrol increase wage logic seed member trial thunder";
+var mnemonic = "clap angle nut royal group trick cost super other few evolve safe";

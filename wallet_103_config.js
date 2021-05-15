@@ -1,1 +1,1 @@
-var mnemonic = "trend push dinosaur slow girl mandate abuse real sweet group april usual";
+var mnemonic = "toss lawsuit jeans forum dove stone unhappy flag tragic flip wall useful";

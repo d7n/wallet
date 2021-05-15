@@ -1,1 +1,1 @@
-var mnemonic = "purpose find vocal harvest market load timber pumpkin this envelope buddy lift";
+var mnemonic = "opera thumb fiction unable nominee drift neglect nest egg album lottery dragon";

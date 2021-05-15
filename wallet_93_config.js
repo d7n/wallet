@@ -1,1 +1,1 @@
-var mnemonic = "clog defense runway find merge winner coach never crack party rotate educate";
+var mnemonic = "coast output country corn idle loan pipe write gift pitch they iron";

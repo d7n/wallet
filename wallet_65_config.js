@@ -1,1 +1,1 @@
-var mnemonic = "own inform always unveil dutch hazard glare limit fog spice abandon special";
+var mnemonic = "guide luxury pet bubble neck play face buddy drastic country report slot";

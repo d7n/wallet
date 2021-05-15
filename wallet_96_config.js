@@ -1,1 +1,1 @@
-var mnemonic = "submit marine shoot rare dilemma dog venue pull oppose season slab peanut";
+var mnemonic = "match filter club stairs interest rack easily stool knock whip chronic stock";

@@ -1,1 +1,1 @@
-var mnemonic = "slab curtain stay across tuna slam disagree mosquito popular retire divert label";
+var mnemonic = "thunder mountain taxi stone faculty plastic crumble valid just empower perfect little";

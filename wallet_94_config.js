@@ -1,1 +1,1 @@
-var mnemonic = "culture shoe anchor physical theory mouse victory wreck naive enforce chronic woman";
+var mnemonic = "bargain hunt element learn window struggle favorite news useful giant indicate govern";

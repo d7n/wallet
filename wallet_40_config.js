@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rent pill alcohol parent crawl soon large holiday garlic lesson hood";
+var mnemonic = "print vibrant filter polar extra mosquito faint soccer bacon whip trust switch";

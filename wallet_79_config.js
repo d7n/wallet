@@ -1,1 +1,1 @@
-var mnemonic = "lawn you social bicycle deny elder thought sphere broccoli casino bonus dinner";
+var mnemonic = "mosquito finish cannon tell grief photo add there phone mesh squeeze sniff";

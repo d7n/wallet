@@ -1,1 +1,1 @@
-var mnemonic = "slim movie ensure opinion praise execute shell giant hamster mistake cable first";
+var mnemonic = "knife north grit canal rate salute glove quarter novel audit stairs aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut taste special action ceiling hover produce party frequent input eyebrow buyer";
+var mnemonic = "wedding achieve match letter elegant paddle trial brush elder business destroy rich";

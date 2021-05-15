@@ -1,1 +1,1 @@
-var mnemonic = "smooth fine palace mask wife nature toddler town mad tiny lottery music";
+var mnemonic = "more wear network face frozen grain drama ghost version dash hurt test";

@@ -1,1 +1,1 @@
-var mnemonic = "mule normal hunt melody timber topple boring beauty foot riot suggest legal";
+var mnemonic = "hour direct olive grunt chapter anchor outside rain badge sleep shiver try";

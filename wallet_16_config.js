@@ -1,1 +1,1 @@
-var mnemonic = "cruel defy faint clutch outdoor absent copy undo gaze lion marriage hub";
+var mnemonic = "maximum clean olive smoke ozone hour twelve guitar cannon very camera hold";

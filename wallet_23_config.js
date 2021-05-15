@@ -1,1 +1,1 @@
-var mnemonic = "oyster dignity enhance aware plate shed raise annual battle cave describe cream";
+var mnemonic = "street drive assume skirt oppose nice scrap champion enter bench visa camp";

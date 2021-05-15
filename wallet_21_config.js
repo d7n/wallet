@@ -1,1 +1,1 @@
-var mnemonic = "vanish material snap board wreck breeze flock alarm kitchen chalk accident broom";
+var mnemonic = "fragile meat whale daughter stage gravity enlist mango world liberty attack silk";

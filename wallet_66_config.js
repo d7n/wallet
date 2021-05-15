@@ -1,1 +1,1 @@
-var mnemonic = "drink ahead canyon picnic chief innocent exercise equip over feel balance tray";
+var mnemonic = "abandon multiply robust fiber ecology vague buffalo off envelope spatial mouse kid";

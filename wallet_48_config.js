@@ -1,1 +1,1 @@
-var mnemonic = "cost fee umbrella learn captain heart half cushion frog palm announce material";
+var mnemonic = "wrestle word question taxi green melt effort muffin sunny village attend arctic";

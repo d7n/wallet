@@ -1,1 +1,1 @@
-var mnemonic = "addict penalty used you end profit square dinosaur beyond baby neutral ridge";
+var mnemonic = "view exchange blade escape soccer hurry slice auto marriage inflict board outdoor";

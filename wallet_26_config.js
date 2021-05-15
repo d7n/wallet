@@ -1,1 +1,1 @@
-var mnemonic = "mimic broken poet number flip spring inflict swamp palm hair seek damage";
+var mnemonic = "cycle fun cruel choice winter gym will major input melody damage small";

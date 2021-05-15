@@ -1,1 +1,1 @@
-var mnemonic = "reward since visit hint exhibit combine raise chest lock dutch diamond aware";
+var mnemonic = "purpose team mistake soon where skirt brass casino brisk display seven fiscal";

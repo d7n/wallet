@@ -1,1 +1,1 @@
-var mnemonic = "nasty border ketchup snap fall position swear cycle dilemma federal ribbon faint";
+var mnemonic = "recipe cabin job velvet learn fence comic east cause human cover melt";

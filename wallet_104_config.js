@@ -1,1 +1,1 @@
-var mnemonic = "else sweet double person able essence couch fruit hair genuine leave useful";
+var mnemonic = "angle illness egg beef ill chef patch gate energy arm option adjust";

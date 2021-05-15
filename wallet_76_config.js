@@ -1,1 +1,1 @@
-var mnemonic = "history absurd trap better blush detect inject crazy hint enough sibling roast";
+var mnemonic = "exile table series move solar omit learn stay renew private topic friend";

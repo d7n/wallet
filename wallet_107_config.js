@@ -1,1 +1,1 @@
-var mnemonic = "agree asthma mother dad curious clog pig early chief settle slab document";
+var mnemonic = "question term february upon exotic twice butter grace walk black manual smile";

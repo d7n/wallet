@@ -1,1 +1,1 @@
-var mnemonic = "usual pulse absent solar bomb water group rule dog material expose puppy";
+var mnemonic = "puzzle moral guess slide keen boring praise smoke joke axis double where";

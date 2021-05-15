@@ -1,1 +1,1 @@
-var mnemonic = "rotate dice soon oppose bus unlock movie fish travel minor clarify this";
+var mnemonic = "camera stamp person raw bonus bus gasp away butter item chef task";

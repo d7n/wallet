@@ -1,1 +1,1 @@
-var mnemonic = "ticket slice dial deposit tattoo cousin repair sadness large amateur melody ranch";
+var mnemonic = "hawk argue regular reunion panel scheme door twelve midnight denial educate someone";

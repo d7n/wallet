@@ -1,1 +1,1 @@
-var mnemonic = "open document elite pink oil little relax height audit alarm desk bulk";
+var mnemonic = "father net oblige vocal alert rally ozone broccoli camp paper laptop quantum";

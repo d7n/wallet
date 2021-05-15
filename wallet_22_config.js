@@ -1,1 +1,1 @@
-var mnemonic = "bamboo large beyond goddess ice allow mushroom fame sketch mammal call smart";
+var mnemonic = "reward lemon fury point pool struggle sudden satisfy search enhance rather galaxy";

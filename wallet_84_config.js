@@ -1,1 +1,1 @@
-var mnemonic = "seven return pizza gate satisfy favorite affair alert enemy school sausage cradle";
+var mnemonic = "stuff spider fade rigid media creek shop pen zoo science casual ordinary";

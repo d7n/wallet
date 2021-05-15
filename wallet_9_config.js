@@ -1,1 +1,1 @@
-var mnemonic = "laundry very pluck food endless size annual flower cigar three friend surprise";
+var mnemonic = "upgrade tent moral abandon lab welcome floor enter idle prize magic plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "legend dutch anxiety control tool proud field gentle behind cloud cliff velvet";
+var mnemonic = "toward abstract ethics oven great theme memory coffee again any wise glimpse";

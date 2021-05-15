@@ -1,1 +1,1 @@
-var mnemonic = "equip grant case insect top climb ticket despair dentist derive elevator tomato";
+var mnemonic = "brain average police cradle provide large jungle define museum hurry maple all";

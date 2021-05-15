@@ -1,1 +1,1 @@
-var mnemonic = "voice bridge roof tone picnic hawk patient faith ship van attend trophy";
+var mnemonic = "elite erosion stairs pilot twenty relax renew short reveal worry surround prevent";

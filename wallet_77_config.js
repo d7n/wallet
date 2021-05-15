@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur panda claim worry settle want tired throw front exotic senior neither";
+var mnemonic = "rifle clever bundle march approve good public century position bar expect scout";

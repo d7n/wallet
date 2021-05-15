@@ -1,1 +1,1 @@
-var mnemonic = "soccer blue kiwi tiny hazard clown camp evoke fatigue quote census mouse";
+var mnemonic = "choose resemble cool client exhibit silk spatial mobile only scorpion mail despair";

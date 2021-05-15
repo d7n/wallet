@@ -1,1 +1,1 @@
-var mnemonic = "grape speed risk express convince vibrant figure husband canoe pact chair spell";
+var mnemonic = "insect know size quality intact doll cherry once craft firm food angry";

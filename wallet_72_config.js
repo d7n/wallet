@@ -1,1 +1,1 @@
-var mnemonic = "lend artwork inside enjoy shy pet lecture help disorder doctor music field";
+var mnemonic = "cash carbon stamp peace found pepper radio skate fade shallow clap stick";

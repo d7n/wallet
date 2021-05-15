@@ -1,1 +1,1 @@
-var mnemonic = "laundry catch aim rib pistol scorpion cycle dinosaur change struggle purse burst";
+var mnemonic = "faculty orphan inflict rapid initial second merry number grant this wait crazy";

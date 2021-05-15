@@ -1,1 +1,1 @@
-var mnemonic = "team buzz coral apple timber portion fade beef green black spare honey";
+var mnemonic = "dog clutch mule predict quit wealth scissors act head have account fade";

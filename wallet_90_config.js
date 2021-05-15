@@ -1,1 +1,1 @@
-var mnemonic = "retire chronic seminar fine chunk senior glove tooth orphan middle attitude toe";
+var mnemonic = "federal boring used double sibling car flash ticket anger tone beach peasant";

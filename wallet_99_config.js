@@ -1,1 +1,1 @@
-var mnemonic = "brother august wood grow where juice crowd quit strong fork panel ship";
+var mnemonic = "desert nerve melody banana blouse cry female deliver cake goddess crouch thumb";

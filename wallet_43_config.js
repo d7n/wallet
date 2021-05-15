@@ -1,1 +1,1 @@
-var mnemonic = "buffalo episode speak science position ski stone label head nurse argue blind";
+var mnemonic = "outdoor one twist answer screen color never dance blood space stem myth";

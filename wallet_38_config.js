@@ -1,1 +1,1 @@
-var mnemonic = "elite reflect polar govern sweet uncover review steel vibrant fringe junior uphold";
+var mnemonic = "crisp cradle rent drink reason text phone dry trap cement swap earn";

@@ -1,1 +1,1 @@
-var mnemonic = "turn apology try bridge tool cheap believe refuse digital situate joke dirt";
+var mnemonic = "legend basic resist observe around lens evoke inspire rice charge refuse category";

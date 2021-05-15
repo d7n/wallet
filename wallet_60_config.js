@@ -1,1 +1,1 @@
-var mnemonic = "setup demand damage fiscal breeze great client organ daring dance uphold alpha";
+var mnemonic = "method harvest write runway problem coach fruit verify spice result spoil depart";

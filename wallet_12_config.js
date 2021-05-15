@@ -1,1 +1,1 @@
-var mnemonic = "maple area control alien idle double focus holiday cereal fruit first effort";
+var mnemonic = "scissors limb frog tide gadget desert skin include pilot piano bring hazard";

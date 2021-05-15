@@ -1,1 +1,1 @@
-var mnemonic = "quantum truck deposit phrase labor essay damp square file agent pumpkin swallow";
+var mnemonic = "tattoo wine speed toss tired pull cram order mesh stone oyster salmon";

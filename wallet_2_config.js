@@ -1,1 +1,1 @@
-var mnemonic = "panther virus loan margin leg attitude already burger spray boat deer tourist";
+var mnemonic = "live noodle warfare mercy rival example good expire century practice shoulder airport";

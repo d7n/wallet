@@ -1,1 +1,1 @@
-var mnemonic = "ritual eagle scrap mouse orchard push broccoli post review express carbon arrange";
+var mnemonic = "ring sad immune render rebuild ready tower army reflect armor jeans rose";

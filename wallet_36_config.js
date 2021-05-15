@@ -1,1 +1,1 @@
-var mnemonic = "market rug deposit pause copper athlete hungry apple chef wink bench sponsor";
+var mnemonic = "frog frame simple name prevent pepper bronze slide scene jacket width gossip";

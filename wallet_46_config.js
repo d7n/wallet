@@ -1,1 +1,1 @@
-var mnemonic = "peace night belt mosquito boat return salmon always spray sniff weird you";
+var mnemonic = "stock gloom give calm embrace abuse wrist humor brother gas rally spread";

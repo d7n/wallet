@@ -1,1 +1,1 @@
-var mnemonic = "emerge video imitate regular december nothing easy devote dentist large physical same";
+var mnemonic = "insect earn lumber fit era thank dignity festival work cheese vehicle cool";

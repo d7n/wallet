@@ -1,1 +1,1 @@
-var mnemonic = "lava beyond fix tiny burst wolf cram apple pill rug hammer brain";
+var mnemonic = "journey trim second about blade kit afraid route book shield alley slush";

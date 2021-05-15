@@ -1,1 +1,1 @@
-var mnemonic = "kitchen velvet please gadget wonder clap plug can onion echo law return";
+var mnemonic = "pudding caught horse guess again power lunar picnic concert act borrow cotton";

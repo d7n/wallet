@@ -1,1 +1,1 @@
-var mnemonic = "hard globe source raccoon burger spirit badge master explain rocket rotate village";
+var mnemonic = "achieve monkey wet mother fitness stuff enjoy swear myself govern pride coach";
