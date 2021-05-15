@@ -1,1 +1,1 @@
-var mnemonic = "chat eyebrow card put common hurry minute absurd capable opinion spell artist";
+var mnemonic = "sheriff skirt answer better holiday arena case wait unhappy cousin rose kind";

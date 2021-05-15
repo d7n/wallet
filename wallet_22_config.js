@@ -1,1 +1,1 @@
-var mnemonic = "donkey chuckle tower only key volcano youth noodle wedding small tuna anxiety";
+var mnemonic = "hire slow harbor turkey churn scout excess leaf fish birth chaos staff";

@@ -1,1 +1,1 @@
-var mnemonic = "monster include advance web color machine subject grain series identify puzzle anchor";
+var mnemonic = "reduce box hurdle next helmet sock ten village gold pudding lonely promote";

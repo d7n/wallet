@@ -1,1 +1,1 @@
-var mnemonic = "item pipe crumble inherit salt fashion nut jeans top rescue then govern";
+var mnemonic = "tattoo title consider multiply animal setup drill labor quality giggle front ripple";

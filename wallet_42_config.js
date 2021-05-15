@@ -1,1 +1,1 @@
-var mnemonic = "butter milk gaze loyal actor strategy uniform cave almost smooth shallow soda";
+var mnemonic = "uncle crash marine run execute other book margin afford shadow suit antique";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm talent increase affair tail mystery winner crystal gate lumber stamp skirt";
+var mnemonic = "letter margin giant million athlete learn omit cabbage cargo subject permit employ";

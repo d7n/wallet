@@ -1,1 +1,1 @@
-var mnemonic = "buyer web bronze pilot supreme swallow decide culture vital noble act crawl";
+var mnemonic = "try orchard guilt stove crater large style lion green depend know arctic";

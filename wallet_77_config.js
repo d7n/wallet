@@ -1,1 +1,1 @@
-var mnemonic = "meadow endless token canyon dice volcano hello wrong remain local neither arrow";
+var mnemonic = "remain dog canoe program junior traffic choice genre furnace earn misery submit";

@@ -1,1 +1,1 @@
-var mnemonic = "flip upper elegant priority obey come put artwork twice live example place";
+var mnemonic = "raccoon member before mansion empty hat veteran approve above city vendor crunch";

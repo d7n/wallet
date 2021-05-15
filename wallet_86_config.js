@@ -1,1 +1,1 @@
-var mnemonic = "pupil disorder aisle weird antique cup odor volume mountain fiber girl live";
+var mnemonic = "giant axis flag job camera general amused warfare roof milk aim canvas";

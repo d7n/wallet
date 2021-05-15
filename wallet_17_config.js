@@ -1,1 +1,1 @@
-var mnemonic = "luxury letter only despair until illness cherry climb basket crystal weapon budget";
+var mnemonic = "sniff domain idle thumb glide ski mandate ramp teach arrange actress leisure";

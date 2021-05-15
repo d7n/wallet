@@ -1,1 +1,1 @@
-var mnemonic = "direct always tumble gentle proud repeat vivid shadow relief head image dilemma";
+var mnemonic = "science unfold buddy shaft blame warrior denial female clinic document ability void";

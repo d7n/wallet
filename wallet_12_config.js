@@ -1,1 +1,1 @@
-var mnemonic = "wing start april spread science simple lesson thought double deposit ask consider";
+var mnemonic = "all prepare primary client spike slot duck mushroom address tortoise avoid tower";

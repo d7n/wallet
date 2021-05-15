@@ -1,1 +1,1 @@
-var mnemonic = "enter sick loud prevent main whisper onion claim news crime adjust item";
+var mnemonic = "cousin dash lab camera lake retreat dilemma silk tomato magic review useless";

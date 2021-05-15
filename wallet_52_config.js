@@ -1,1 +1,1 @@
-var mnemonic = "shoulder sense panic skill imitate fabric exhibit prosper toward rare rifle poet";
+var mnemonic = "build under divorce crazy mushroom life either box guess under rely offer";

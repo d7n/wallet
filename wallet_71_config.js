@@ -1,1 +1,1 @@
-var mnemonic = "wedding capable angle install base all dynamic coral edge organ project gate";
+var mnemonic = "wheat initial sad moon movie neutral bulb earn win eternal detect legal";

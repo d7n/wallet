@@ -1,1 +1,1 @@
-var mnemonic = "purity miracle hammer craft choose move assault acquire dance toy auction brown";
+var mnemonic = "across bag unable direct shift desert scorpion proof bread grocery cement firm";

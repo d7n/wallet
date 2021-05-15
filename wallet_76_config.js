@@ -1,1 +1,1 @@
-var mnemonic = "glue naive galaxy muffin aware canvas benefit dynamic jungle display toy cannon";
+var mnemonic = "twice cabin owner return ship stay two boost false legend seat vault";

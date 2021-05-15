@@ -1,1 +1,1 @@
-var mnemonic = "luxury call payment join child icon worth prize bring trigger step mosquito";
+var mnemonic = "bronze coconut over arrange since adjust orbit bounce live plate future dwarf";

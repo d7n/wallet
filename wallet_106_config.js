@@ -1,1 +1,1 @@
-var mnemonic = "duck key orphan super refuse lizard gasp left exist length army rate";
+var mnemonic = "silent drink holiday damage track wheel witness swim excuse tape safe engage";

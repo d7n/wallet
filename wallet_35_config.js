@@ -1,1 +1,1 @@
-var mnemonic = "edit immense say gospel awesome noble scrap scrap wave sand bid able";
+var mnemonic = "clay ostrich comfort gravity corn island never ostrich gas electric shy web";

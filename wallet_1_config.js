@@ -1,1 +1,1 @@
-var mnemonic = "close junk hurdle distance dolphin hurry beyond neutral jar buddy vital guilt";
+var mnemonic = "embrace search peanut crane apology ghost wonder master grape flower kangaroo stage";

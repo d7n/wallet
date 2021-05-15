@@ -1,1 +1,1 @@
-var mnemonic = "perfect sell glory select dress carbon rail pioneer hello dash birth stamp";
+var mnemonic = "above monster salmon volume forward dirt hint call empower myself when misery";

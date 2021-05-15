@@ -1,1 +1,1 @@
-var mnemonic = "defy gauge gap never wealth start wealth tank spoil tip hour mind";
+var mnemonic = "alley birth program ignore fabric target sorry brief script draw mention lift";

@@ -1,1 +1,1 @@
-var mnemonic = "castle wash weekend nominee grow bread skirt abandon oyster rather balcony scatter";
+var mnemonic = "negative identify bicycle grief mutual wheat pulse there brass want express bind";

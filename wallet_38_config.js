@@ -1,1 +1,1 @@
-var mnemonic = "claw when shop flash top hint run mule detail home idea case";
+var mnemonic = "dust deposit injury melody sign confirm napkin hair secret strong thought album";

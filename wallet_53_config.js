@@ -1,1 +1,1 @@
-var mnemonic = "universe pupil average gap board raccoon bubble code foster bulb force priority";
+var mnemonic = "state doll asthma can hole angry orphan road mad actor business vapor";

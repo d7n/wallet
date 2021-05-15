@@ -1,1 +1,1 @@
-var mnemonic = "upgrade review announce student arrange pencil clutch picnic spice purchase joke tiny";
+var mnemonic = "segment eternal guilt tongue social hidden loan orient hamster ecology proof bomb";

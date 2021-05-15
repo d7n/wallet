@@ -1,1 +1,1 @@
-var mnemonic = "symptom inspire stomach kiwi lamp range art story expire into fabric path";
+var mnemonic = "erode dilemma chef creek treat three major bus index flush below drum";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse rabbit crew cake version trash hold amused bulk glow immense chief";
+var mnemonic = "kidney elbow fence glide summer depart horn proud spread below finish man";

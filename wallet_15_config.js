@@ -1,1 +1,1 @@
-var mnemonic = "river rural hollow sibling payment account sketch enemy shed enforce puppy man";
+var mnemonic = "must pull door cable monster uncle distance acid wedding render shock beach";

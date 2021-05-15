@@ -1,1 +1,1 @@
-var mnemonic = "sick battle else blood depend remove lunar fragile useful improve ability radar";
+var mnemonic = "oak method torch observe wave alpha burden pulse barely grass body already";

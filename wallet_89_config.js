@@ -1,1 +1,1 @@
-var mnemonic = "stuff prepare meadow twin obvious wear drastic hurt salmon surge warm forward";
+var mnemonic = "foam vacant snow fever unfair flavor move exchange smile toy blast exercise";

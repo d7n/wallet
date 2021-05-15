@@ -1,1 +1,1 @@
-var mnemonic = "speak brick chalk drill capable cancel post squirrel smoke wagon gap muscle";
+var mnemonic = "favorite never apple clip salt invite tennis put later ivory head saddle";

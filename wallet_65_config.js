@@ -1,1 +1,1 @@
-var mnemonic = "expect holiday mushroom dove sand inhale soft strong rotate casino skin film";
+var mnemonic = "satisfy erase lava omit erupt debate before snow company call wild menu";

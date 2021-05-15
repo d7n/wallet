@@ -1,1 +1,1 @@
-var mnemonic = "bargain group loud chalk utility admit minimum violin critic find tourist endless";
+var mnemonic = "glimpse sweet dinosaur drama connect bomb alley stamp indicate unlock increase doll";

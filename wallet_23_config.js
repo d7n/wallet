@@ -1,1 +1,1 @@
-var mnemonic = "spin army exchange panda catch sunny seven cost rhythm kidney suspect field";
+var mnemonic = "reflect food apple fall pool bulb cradle reason bless digital false also";

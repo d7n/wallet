@@ -1,1 +1,1 @@
-var mnemonic = "august diesel cliff taxi interest carbon grab horn oak school emerge nation";
+var mnemonic = "escape bicycle pen unfold execute radio among swarm crime crucial notice poem";

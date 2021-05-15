@@ -1,1 +1,1 @@
-var mnemonic = "music limit robust accident gravity nerve giraffe electric rabbit comic relief cloud";
+var mnemonic = "kangaroo kitchen tortoise viable rack donate service crisp clinic try usual balcony";

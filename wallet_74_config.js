@@ -1,1 +1,1 @@
-var mnemonic = "curious isolate soccer regret echo crazy voyage finish uncover follow tattoo hour";
+var mnemonic = "garlic runway entry island cabbage amount genre excess media real science ship";

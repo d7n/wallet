@@ -1,1 +1,1 @@
-var mnemonic = "lounge park junior relief purchase pluck destroy flavor total foil hair slot";
+var mnemonic = "educate object still confirm extend donor doll fluid monster shallow sample basket";

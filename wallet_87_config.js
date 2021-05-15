@@ -1,1 +1,1 @@
-var mnemonic = "abstract rigid shy area across idle cotton spin tattoo library learn claw";
+var mnemonic = "glare velvet food extra fruit lesson soft coil pet stay clap smooth";

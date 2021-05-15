@@ -1,1 +1,1 @@
-var mnemonic = "panther punch pudding village stumble waste inmate render naive table mule combine";
+var mnemonic = "athlete lady amazing isolate fortune arch pilot clutch anchor tired turn carbon";

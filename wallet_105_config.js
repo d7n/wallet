@@ -1,1 +1,1 @@
-var mnemonic = "marine pull next equal lonely bulb balance seed flee thrive champion demise";
+var mnemonic = "flower item protect capital glow immune wish unable wink bike bean velvet";

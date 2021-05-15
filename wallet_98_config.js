@@ -1,1 +1,1 @@
-var mnemonic = "minute panda typical change sunset canal resemble abstract area finger pause diary";
+var mnemonic = "dumb company casual laugh typical vehicle party crew crop essence naive wait";

@@ -1,1 +1,1 @@
-var mnemonic = "finish risk drama number thrive meadow curve sport rate tree wish ghost";
+var mnemonic = "release slush uncle parent picture panic zebra margin phone dolphin thank twist";

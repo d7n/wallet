@@ -1,1 +1,1 @@
-var mnemonic = "tumble icon spread board damp decade zone apology all another add twelve";
+var mnemonic = "merry charge shop label destroy giggle mammal skirt segment left endorse client";

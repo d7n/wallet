@@ -1,1 +1,1 @@
-var mnemonic = "mansion example oyster icon build toy fiction defy riot invite faculty oppose";
+var mnemonic = "erode hazard federal can logic story bright marine talent exhaust film climb";

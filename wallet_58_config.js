@@ -1,1 +1,1 @@
-var mnemonic = "library orient law earth upper credit eight asset island mammal various brief";
+var mnemonic = "snow where vote car join special until radio exhibit syrup leader high";

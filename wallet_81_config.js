@@ -1,1 +1,1 @@
-var mnemonic = "soft tail today dinosaur soda code region author permit twice viable poem";
+var mnemonic = "carry raw staff laundry brain force eagle demise sphere update final sure";

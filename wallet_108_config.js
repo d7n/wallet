@@ -1,1 +1,1 @@
-var mnemonic = "finger layer disagree they again practice spike spot wise movie core admit";
+var mnemonic = "fold add bench meadow curve brain vibrant wrist gravity night enhance cruise";

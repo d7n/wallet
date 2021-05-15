@@ -1,1 +1,1 @@
-var mnemonic = "much local during river unit blast talent corn idea blossom aware voice";
+var mnemonic = "tooth pair open meat fee nurse dance illegal green slush gasp great";

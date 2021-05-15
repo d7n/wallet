@@ -1,1 +1,1 @@
-var mnemonic = "own jealous observe suspect retreat waste moral tilt slow slender indoor today";
+var mnemonic = "disorder song need security deputy fiber what ivory sail bean ripple crush";

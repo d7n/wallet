@@ -1,1 +1,1 @@
-var mnemonic = "final palace nose hold oxygen mother innocent brush creek chalk joke ordinary";
+var mnemonic = "rice mother state diary all choice like grant stable mango margin trigger";

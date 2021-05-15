@@ -1,1 +1,1 @@
-var mnemonic = "width erode health bargain wrap method wave enrich boost expect lucky whale";
+var mnemonic = "return goose thunder over alone soul street rib deal latin oyster lawsuit";

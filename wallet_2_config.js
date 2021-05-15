@@ -1,1 +1,1 @@
-var mnemonic = "medal use upgrade siege metal reduce pluck useful innocent craft link bike";
+var mnemonic = "crane hazard leisure reduce sustain choose daughter swing music page cousin expire";

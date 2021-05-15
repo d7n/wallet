@@ -1,1 +1,1 @@
-var mnemonic = "forward plug video library title intact shell opera acquire potato carpet rubber";
+var mnemonic = "busy gloom jazz life start catch caught genuine opera market snake occur";

@@ -1,1 +1,1 @@
-var mnemonic = "club hour learn concert dizzy pact maple face leopard flag feature thumb";
+var mnemonic = "stove cream weird box cycle picnic brush apart pole drip bitter black";

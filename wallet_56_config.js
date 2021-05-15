@@ -1,1 +1,1 @@
-var mnemonic = "absent occur fresh size joke stage indicate film buffalo soccer voyage fix";
+var mnemonic = "where slender pupil off embody youth divorce skill maid asthma civil country";

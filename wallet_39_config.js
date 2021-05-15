@@ -1,1 +1,1 @@
-var mnemonic = "clog toss amateur figure rebuild live park purity trend pretty van bless";
+var mnemonic = "stumble make hurdle flavor roof coffee aware divert phrase oblige ignore cargo";

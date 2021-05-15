@@ -1,1 +1,1 @@
-var mnemonic = "erupt lunch hollow prefer danger horse approve hundred interest solution there walk";
+var mnemonic = "end solid rival correct manual answer pioneer dinner identify pigeon result fame";

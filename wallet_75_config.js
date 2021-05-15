@@ -1,1 +1,1 @@
-var mnemonic = "century legal blast riot cricket attract issue capital betray subway flavor alien";
+var mnemonic = "bottom echo barely way lava illegal diet that used ugly hotel piano";

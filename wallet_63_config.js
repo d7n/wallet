@@ -1,1 +1,1 @@
-var mnemonic = "bring title purity trend fuel grass input leaf few engage bacon fabric";
+var mnemonic = "clever reject hazard aim inner enjoy chronic panda kiss mixed farm common";

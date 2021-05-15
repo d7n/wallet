@@ -1,1 +1,1 @@
-var mnemonic = "arrange leave away home lecture east tube gentle leisure elevator glance autumn";
+var mnemonic = "spirit around puppy gesture public holiday pass middle gentle cake salt window";

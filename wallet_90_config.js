@@ -1,1 +1,1 @@
-var mnemonic = "garage order render rhythm level mimic purpose paper chair twenty pelican review";
+var mnemonic = "payment obvious shoulder velvet fee ill clarify upgrade leopard capable pioneer silly";

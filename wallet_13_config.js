@@ -1,1 +1,1 @@
-var mnemonic = "copper merit squeeze voice range taxi celery display calm way census finger";
+var mnemonic = "fame run little goose turtle essence present shoot feed know sort visit";

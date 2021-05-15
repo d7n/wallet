@@ -1,1 +1,1 @@
-var mnemonic = "august garment sand practice domain merry differ used civil timber glory mimic";
+var mnemonic = "there honey toast address ball cliff stand canoe pudding mosquito neither document";

@@ -1,1 +1,1 @@
-var mnemonic = "skill sand vintage mechanic document attack shiver mosquito uphold snack chapter spot";
+var mnemonic = "put width punch shove wisdom flash two patient review denial energy paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "exist dice one better yellow hero egg recycle famous false mean humor";
+var mnemonic = "afraid duck credit south draw hood apology tiger hair method canvas marble";

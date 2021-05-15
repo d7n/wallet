@@ -1,1 +1,1 @@
-var mnemonic = "outer hunt chaos negative father rice noodle accident captain decorate spray luxury";
+var mnemonic = "sudden print struggle nest broccoli lunch gorilla avoid broom shock flock video";

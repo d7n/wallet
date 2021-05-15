@@ -1,1 +1,1 @@
-var mnemonic = "glow final swear math gap spoon fringe enrich bronze milk planet identify";
+var mnemonic = "type broom ceiling ecology dilemma current leader faculty energy ozone version laugh";

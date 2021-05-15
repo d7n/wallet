@@ -1,1 +1,1 @@
-var mnemonic = "front multiply gauge jelly tissue enhance few script blade orbit donate nut";
+var mnemonic = "radio flame art all rule shove away amazing reveal sun minimum find";

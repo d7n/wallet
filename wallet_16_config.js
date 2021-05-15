@@ -1,1 +1,1 @@
-var mnemonic = "actual nasty minute visa number dizzy bone divorce puppy blind maple whisper";
+var mnemonic = "cry modify predict emerge daring wisdom sheriff early lava fiscal area energy";

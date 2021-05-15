@@ -1,1 +1,1 @@
-var mnemonic = "inflict crater auction decade kind debris industry quarter chunk obtain base unlock";
+var mnemonic = "train museum mouse prefer else gaze pen verb lazy fancy panda board";

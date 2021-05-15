@@ -1,1 +1,1 @@
-var mnemonic = "shrug beach nasty audit jar raw tag pony order thumb home knock";
+var mnemonic = "gospel whip sort prevent toward palace return sniff sweet arrest transfer income";

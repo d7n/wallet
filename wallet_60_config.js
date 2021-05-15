@@ -1,1 +1,1 @@
-var mnemonic = "warfare march deliver chest pelican oil razor dance balcony coach kiss pause";
+var mnemonic = "order tuna derive chapter face coil next image gasp rate thumb island";

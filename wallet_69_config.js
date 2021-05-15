@@ -1,1 +1,1 @@
-var mnemonic = "avocado frown toe portion wisdom cat reason over humble sea business goddess";
+var mnemonic = "piano bike maze enroll pole achieve broom swear mention dragon panda great";

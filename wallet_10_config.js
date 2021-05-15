@@ -1,1 +1,1 @@
-var mnemonic = "culture gift rebel curious paper motion prosper skill indoor much chase attitude";
+var mnemonic = "unhappy beach pool void pretty pill street apology maid mango urban pond";

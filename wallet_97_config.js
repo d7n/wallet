@@ -1,1 +1,1 @@
-var mnemonic = "fly sea cinnamon marine lens turn resist stool under pride fit success";
+var mnemonic = "notable crush lucky jump usual identify become biology fat typical chair chair";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony punch famous main place club legend escape toast tent maid doctor";
+var mnemonic = "innocent only play assault term chapter what deputy window state language return";

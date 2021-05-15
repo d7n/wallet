@@ -1,1 +1,1 @@
-var mnemonic = "normal token poem suggest omit sister work baby upset will follow axis";
+var mnemonic = "circle crystal spider aim arena crack marriage cousin enjoy visa october sample";

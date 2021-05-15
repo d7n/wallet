@@ -1,1 +1,1 @@
-var mnemonic = "question tree later timber piece year release party business glide exist spatial";
+var mnemonic = "pigeon relief sign barely hurdle hub empower knee trap twin knife give";

@@ -1,1 +1,1 @@
-var mnemonic = "world glue wheel animal chef impact winter dial expand like journey confirm";
+var mnemonic = "begin feed then oblige original fringe snow blood budget real letter isolate";

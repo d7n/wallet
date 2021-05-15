@@ -1,1 +1,1 @@
-var mnemonic = "style wet warm quantum typical kiss cinnamon water inform quick assume proof";
+var mnemonic = "fitness deal deny wheel cable vote devote rebel fox reward recipe space";

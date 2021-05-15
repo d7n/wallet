@@ -1,1 +1,1 @@
-var mnemonic = "attend donkey chest cargo super supreme donor history solution license prepare this";
+var mnemonic = "settle donor book plug junk supply knock tube cry gravity reason clerk";

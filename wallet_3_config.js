@@ -1,1 +1,1 @@
-var mnemonic = "stand orphan tongue slab theme total index gain price orbit snap purpose";
+var mnemonic = "damage machine grant suffer evil random fish super roast alien wrong intact";

@@ -1,1 +1,1 @@
-var mnemonic = "life phone trial skin cherry either rally decrease sport fuel plug phone";
+var mnemonic = "master weekend chunk cute garden casual salt pen caught wrestle expose thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum margin patrol kick remove sphere liberty live universe eager girl useless";
+var mnemonic = "enemy safe electric dizzy slab huge wreck best swap fossil mass purse";

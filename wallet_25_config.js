@@ -1,1 +1,1 @@
-var mnemonic = "device screen food repeat art hat shoulder very online sure toss already";
+var mnemonic = "anchor liquid group program desert vacuum grain modify vote hedgehog ocean captain";

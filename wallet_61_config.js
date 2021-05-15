@@ -1,1 +1,1 @@
-var mnemonic = "expose glare pass put action fantasy play budget until april position transfer";
+var mnemonic = "stable bridge switch vivid like ride drop start turn prize slot december";
