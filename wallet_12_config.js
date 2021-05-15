@@ -1,1 +1,1 @@
-var mnemonic = "ski fetch govern army sister print smile scorpion clump virus duty confirm";
+var mnemonic = "idle tenant return thing final weather hurry tennis artwork test cup merit";

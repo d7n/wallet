@@ -1,1 +1,1 @@
-var mnemonic = "multiply spread dumb finger city inquiry chat orbit mass prevent birth casual";
+var mnemonic = "gown pepper brass neck build question thank museum below until bless size";

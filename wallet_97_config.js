@@ -1,1 +1,1 @@
-var mnemonic = "six urban drill normal narrow add dentist edge food answer culture frost";
+var mnemonic = "jacket wage rough dial can rather once section acoustic again tourist strong";

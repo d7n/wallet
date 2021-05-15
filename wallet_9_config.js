@@ -1,1 +1,1 @@
-var mnemonic = "lumber harbor boy elbow canvas claim slight tool seminar adapt risk myth";
+var mnemonic = "stick odor sick album pet frozen hand shrug layer plug trumpet curve";

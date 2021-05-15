@@ -1,1 +1,1 @@
-var mnemonic = "tank domain pipe captain equal shed lawsuit maximum soda liberty soap endorse";
+var mnemonic = "region inner thing panther odor embark lion trouble sleep patch infant team";

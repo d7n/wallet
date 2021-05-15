@@ -1,1 +1,1 @@
-var mnemonic = "glide scheme supply buddy infant news slide economy vacuum wrong distance smart";
+var mnemonic = "talk couch observe hidden present hill banana business pool use phrase drink";

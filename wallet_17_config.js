@@ -1,1 +1,1 @@
-var mnemonic = "oppose economy ticket ladder record fuel element water render large thumb coral";
+var mnemonic = "oppose swing sugar shift mean ridge deposit ketchup divorce nation pill fish";

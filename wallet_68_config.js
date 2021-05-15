@@ -1,1 +1,1 @@
-var mnemonic = "enough avocado ready game hospital welcome into arctic vacant urge song adapt";
+var mnemonic = "finger nose series border model antenna copy section rival goddess develop message";

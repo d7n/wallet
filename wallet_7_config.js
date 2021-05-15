@@ -1,1 +1,1 @@
-var mnemonic = "release develop delay latin bulb donor mix like arrow polar afford royal";
+var mnemonic = "prepare side lizard thumb wing awful problem return stadium awesome file warfare";

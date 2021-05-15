@@ -1,1 +1,1 @@
-var mnemonic = "attack atom flower broccoli donor pact tray sorry wear deposit midnight lyrics";
+var mnemonic = "industry simple food ethics scrub merry flat flock cereal hybrid grid injury";

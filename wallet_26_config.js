@@ -1,1 +1,1 @@
-var mnemonic = "medal bulk recall curtain exercise clock defense apart worth jealous crazy tape";
+var mnemonic = "confirm awful cube wave always return assault away tooth sell maid paper";

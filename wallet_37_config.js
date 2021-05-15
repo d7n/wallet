@@ -1,1 +1,1 @@
-var mnemonic = "rubber plastic suffer cry lonely mammal repair drip few start noble gadget";
+var mnemonic = "movie atom upper seminar lecture nephew pet anchor rocket lobster enforce genius";

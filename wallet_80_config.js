@@ -1,1 +1,1 @@
-var mnemonic = "obey market sword say direct sport stadium steel phone alone winter attack";
+var mnemonic = "boil ankle spoon sleep kitten between develop agree since jaguar tumble pear";

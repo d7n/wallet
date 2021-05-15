@@ -1,1 +1,1 @@
-var mnemonic = "speed dial crazy mansion real wage decline drink express parade reward gospel";
+var mnemonic = "casino sea hawk saddle arm fuel possible beach fine knock angry disorder";

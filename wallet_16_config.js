@@ -1,1 +1,1 @@
-var mnemonic = "million figure usage deny mind table march sail clay system nephew turtle";
+var mnemonic = "filter staff tennis kidney skirt stay flush step control start main candy";

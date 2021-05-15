@@ -1,1 +1,1 @@
-var mnemonic = "session pass powder fringe ghost march angry also quit bicycle cross cart";
+var mnemonic = "business burden loud knee feed ozone viable ordinary unhappy session because cash";

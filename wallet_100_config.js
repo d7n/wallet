@@ -1,1 +1,1 @@
-var mnemonic = "regret remind art goose sense deliver aware move satisfy exist universe jeans";
+var mnemonic = "entire polar razor race spoil valley vague couch differ whip amount ability";

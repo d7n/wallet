@@ -1,1 +1,1 @@
-var mnemonic = "inmate private axis chunk trigger depth draw various patch develop crush scare";
+var mnemonic = "there cost begin still laugh truly cry liquid taxi absorb brother mesh";

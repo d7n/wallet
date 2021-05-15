@@ -1,1 +1,1 @@
-var mnemonic = "hunt memory hollow chuckle path rude tortoise punch over sorry visa march";
+var mnemonic = "media eight horror satoshi rail antique skin concert glow satoshi timber gown";

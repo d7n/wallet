@@ -1,1 +1,1 @@
-var mnemonic = "display toy eye hamster long blossom pigeon help menu flock hair resource";
+var mnemonic = "wine video practice roast legend prosper virus crouch eagle crime fire farm";

@@ -1,1 +1,1 @@
-var mnemonic = "purity language crater endorse undo tourist weasel priority sword fabric width dynamic";
+var mnemonic = "gesture attack fix tiger snap network chief express absorb bracket spot cry";

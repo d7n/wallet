@@ -1,1 +1,1 @@
-var mnemonic = "day nothing vessel safe top hurt bounce remain jacket immune fossil dawn";
+var mnemonic = "path omit vanish diagram blame moment number spin hen pony exist race";

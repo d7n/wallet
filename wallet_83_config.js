@@ -1,1 +1,1 @@
-var mnemonic = "render country cliff pool giraffe wrap update approve morning nation dust company";
+var mnemonic = "corn eagle teach impose cousin order night furnace evidence two quarter street";

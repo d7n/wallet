@@ -1,1 +1,1 @@
-var mnemonic = "siege ship zoo nurse library era october prosper control enact script unlock";
+var mnemonic = "tornado language confirm photo resist brain muffin print opinion fuel extend diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral build donate then happy panda decrease sell armed trigger rotate fashion";
+var mnemonic = "time shallow prison layer dice carry skirt pink safe faint worth claim";

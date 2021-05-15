@@ -1,1 +1,1 @@
-var mnemonic = "harsh machine there system visit fat provide divorce arena shy stamp test";
+var mnemonic = "cube inspire extend narrow scheme genre report verify bar ride solve slice";

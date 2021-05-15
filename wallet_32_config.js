@@ -1,1 +1,1 @@
-var mnemonic = "attitude game cat intact melody lend water fashion auction gas mule knock";
+var mnemonic = "detail when consider rely ridge taxi fancy outdoor draw suffer stereo switch";

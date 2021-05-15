@@ -1,1 +1,1 @@
-var mnemonic = "skirt awkward proud vast phone review sniff hole genre opera grab video";
+var mnemonic = "nasty thought loop spider illegal enjoy diamond cruise off addict page push";

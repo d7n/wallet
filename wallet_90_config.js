@@ -1,1 +1,1 @@
-var mnemonic = "surface lift exchange bean violin permit human issue yellow now leopard spell";
+var mnemonic = "concert genuine suspect poverty term topple piece alpha rough crazy limit enjoy";

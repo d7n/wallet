@@ -1,1 +1,1 @@
-var mnemonic = "turkey cram pepper village jelly toss luggage fetch cost network win yard";
+var mnemonic = "museum spring caught congress shock exist coral deny crucial picture summer gentle";

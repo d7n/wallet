@@ -1,1 +1,1 @@
-var mnemonic = "cabbage normal shield tape hope inch vehicle coyote cabin museum address laundry";
+var mnemonic = "useful hair cool run feel verify buyer ankle soldier north error under";

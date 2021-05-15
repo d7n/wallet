@@ -1,1 +1,1 @@
-var mnemonic = "humble tunnel find consider common struggle budget yard crazy program pistol close";
+var mnemonic = "liar siren patch core mansion afford pyramid conduct ring upon reduce cupboard";

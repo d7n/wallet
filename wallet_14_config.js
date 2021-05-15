@@ -1,1 +1,1 @@
-var mnemonic = "faith express slam curious situate snap then rib palace artefact brief music";
+var mnemonic = "speed canvas desert nephew forget sustain wash confirm absorb bridge pattern view";

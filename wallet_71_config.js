@@ -1,1 +1,1 @@
-var mnemonic = "diet glory until measure shy boss glow tide neither soft rigid shoot";
+var mnemonic = "tiny draw text meat pave state runway divide purchase child fire enrich";

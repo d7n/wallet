@@ -1,1 +1,1 @@
-var mnemonic = "pottery stand dry guard item hurt amateur warrior oval follow rookie only";
+var mnemonic = "witness camera student nasty demise lobster media still endorse hobby also power";

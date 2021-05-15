@@ -1,1 +1,1 @@
-var mnemonic = "garment settle summer candy suspect hamster twenty illegal horn hotel priority spin";
+var mnemonic = "forget oval orient unique surprise very other cook hill horn frame task";

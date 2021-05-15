@@ -1,1 +1,1 @@
-var mnemonic = "ivory donate shoot kidney host slice bachelor theory deny fence mushroom album";
+var mnemonic = "stock wage avocado like brief way twenty exclude comfort render patient answer";

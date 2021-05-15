@@ -1,1 +1,1 @@
-var mnemonic = "demand comic laugh nose rule grow gospel tennis cargo inflict sword tell";
+var mnemonic = "ginger normal either label exact axis deny run wish spin olympic wish";

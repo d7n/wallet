@@ -1,1 +1,1 @@
-var mnemonic = "secret senior spawn bubble inherit gun high jaguar obey judge scare praise";
+var mnemonic = "kit ahead naive ostrich income enemy jealous interest forward leg hunt round";

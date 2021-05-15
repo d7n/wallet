@@ -1,1 +1,1 @@
-var mnemonic = "conduct december world hotel immense slight hungry artwork job seed blind luxury";
+var mnemonic = "wrist bread behave relief thing join offer solve anxiety oblige grace miss";

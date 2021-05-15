@@ -1,1 +1,1 @@
-var mnemonic = "solution enact trophy joy square december topic lizard filter shoot amazing throw";
+var mnemonic = "priority float wood tone noodle rigid spice faculty subject addict pattern topic";

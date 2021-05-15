@@ -1,1 +1,1 @@
-var mnemonic = "auction laugh then cost engine soap syrup robot noodle borrow silver april";
+var mnemonic = "seminar yard any guitar volcano mountain salon between topic dutch open night";

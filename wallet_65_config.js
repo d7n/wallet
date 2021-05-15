@@ -1,1 +1,1 @@
-var mnemonic = "road faculty license apology curve viable noodle angry vast frozen science suffer";
+var mnemonic = "unaware beach spell wasp banana dawn amazing key resemble toddler solve sick";

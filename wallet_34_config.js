@@ -1,1 +1,1 @@
-var mnemonic = "orange elevator expose utility scene enough fringe cliff pig olive bleak torch";
+var mnemonic = "merry air vanish truck jacket brush tell shrimp insect debris behave behind";

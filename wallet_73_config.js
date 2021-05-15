@@ -1,1 +1,1 @@
-var mnemonic = "honey fold isolate express steel lonely daring venue liberty renew shoe trend";
+var mnemonic = "attract situate rose horse physical census medal around solution flower nuclear husband";

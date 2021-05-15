@@ -1,1 +1,1 @@
-var mnemonic = "cart depth shoulder army rose ladder siege wet admit alpha uniform husband";
+var mnemonic = "rely noble fossil unfair gorilla rug call stuff page owner rug grant";

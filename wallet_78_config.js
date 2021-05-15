@@ -1,1 +1,1 @@
-var mnemonic = "mistake canvas insect east jelly chaos gorilla unaware shove rent merge sea";
+var mnemonic = "decrease actress practice choice multiply caution skin census maid cheap paper similar";

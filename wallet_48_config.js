@@ -1,1 +1,1 @@
-var mnemonic = "suspect saddle manage ancient vapor artwork ride legal chest bronze trash elephant";
+var mnemonic = "today doll mouse cheap syrup spice deputy midnight left hunt yard damp";

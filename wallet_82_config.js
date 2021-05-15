@@ -1,1 +1,1 @@
-var mnemonic = "taxi clap suspect reform village gain harsh wage pencil first vicious emotion";
+var mnemonic = "bunker ability slide put month surprise dentist move stuff crime museum isolate";

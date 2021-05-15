@@ -1,1 +1,1 @@
-var mnemonic = "finger either twenty earth matrix risk series sugar method embark slam junk";
+var mnemonic = "estate expire great concert latin know pottery point melody goat parrot clay";

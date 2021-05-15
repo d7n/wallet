@@ -1,1 +1,1 @@
-var mnemonic = "pulse juice paper office forward promote second divide result drink worry burger";
+var mnemonic = "outside fat boil pelican evidence because wagon pipe defense flee mutual maid";

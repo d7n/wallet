@@ -1,1 +1,1 @@
-var mnemonic = "blue excite truly modify rare room protect sun onion wink lock mass";
+var mnemonic = "where ensure update explain quiz figure jaguar park tackle prevent round forward";

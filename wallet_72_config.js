@@ -1,1 +1,1 @@
-var mnemonic = "certain try dust skate sweet ranch wire inside royal muffin thunder excuse";
+var mnemonic = "vacant lecture craft future fragile pulse vibrant desk you slight artwork awake";

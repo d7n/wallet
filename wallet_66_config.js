@@ -1,1 +1,1 @@
-var mnemonic = "squirrel wild love hover forest miracle light field dawn chief push gown";
+var mnemonic = "expire hundred rapid indoor order bird tobacco ignore myth reject merit rice";

@@ -1,1 +1,1 @@
-var mnemonic = "captain poverty saddle lemon web captain very injury tattoo plastic husband attend";
+var mnemonic = "forget family trumpet tobacco alter ship inject excuse subject into infant shuffle";

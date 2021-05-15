@@ -1,1 +1,1 @@
-var mnemonic = "pair term lemon sort phone butter once bamboo pill jar maple absorb";
+var mnemonic = "tiger crack video much soon finger pistol whale jelly coyote domain tube";

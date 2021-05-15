@@ -1,1 +1,1 @@
-var mnemonic = "wink doctor purpose board loan wet number credit approve beef fancy occur";
+var mnemonic = "horse mandate list month inquiry tribe flush friend reunion noodle peace charge";

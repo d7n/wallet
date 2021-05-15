@@ -1,1 +1,1 @@
-var mnemonic = "person avocado festival dry movie people mirror bronze police auto bar skirt";
+var mnemonic = "weather eye tip unlock swim panda melt unhappy amount grow sadness bird";

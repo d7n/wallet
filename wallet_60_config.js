@@ -1,1 +1,1 @@
-var mnemonic = "cross praise tiger envelope engine great twin cricket wide leader letter gun";
+var mnemonic = "extend mention basket dream shell episode display believe staff north horn youth";

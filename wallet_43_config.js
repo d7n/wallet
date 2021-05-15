@@ -1,1 +1,1 @@
-var mnemonic = "wedding loyal employ rural vocal chat worry unaware panda amount since robot";
+var mnemonic = "margin vivid pluck wedding confirm custom rubber scrub easily exotic mistake total";

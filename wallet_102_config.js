@@ -1,1 +1,1 @@
-var mnemonic = "flight aisle charge document blue swamp erosion detect swallow fitness quarter country";
+var mnemonic = "fade magic speed myth upon endorse thrive visit cram faint main ice";

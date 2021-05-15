@@ -1,1 +1,1 @@
-var mnemonic = "trap few sketch path typical lake destroy absent where human defense path";
+var mnemonic = "scare cost sauce scissors category lumber pluck black mail dish glove wild";

@@ -1,1 +1,1 @@
-var mnemonic = "annual cheese praise myself ethics judge magnet antique resource robust left pretty";
+var mnemonic = "climb equip real cement scare broom pottery uniform able juice once reward";

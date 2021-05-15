@@ -1,1 +1,1 @@
-var mnemonic = "horror word wool bomb secret normal trip smile eagle boss diamond behave";
+var mnemonic = "seat essay monster smooth people enhance physical shuffle smile pulp scene erupt";

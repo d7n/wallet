@@ -1,1 +1,1 @@
-var mnemonic = "exhaust notice exist use toss half split slender fame short basket demise";
+var mnemonic = "cover group parade entire what around layer either famous hawk engine tower";

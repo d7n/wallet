@@ -1,1 +1,1 @@
-var mnemonic = "pear snap edit token mule bitter hero merge abstract brisk post need";
+var mnemonic = "pitch volcano trim gym piece zoo fix parade truth join biology evil";

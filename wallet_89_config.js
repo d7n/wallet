@@ -1,1 +1,1 @@
-var mnemonic = "abstract since please aspect card comic table giraffe crush jazz green twist";
+var mnemonic = "agent fitness horn balcony maximum guilt panda wise rice acoustic keen hurry";

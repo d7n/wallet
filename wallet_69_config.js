@@ -1,1 +1,1 @@
-var mnemonic = "base reflect small shock push eager outer gap benefit barrel indicate lion";
+var mnemonic = "air gym captain zero portion ugly burden about slot decade green frown";

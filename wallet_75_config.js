@@ -1,1 +1,1 @@
-var mnemonic = "episode faith trophy idea minor toy any tonight poem rebuild escape sister";
+var mnemonic = "hope paper door certain bomb lawsuit pair famous chest humor candy powder";

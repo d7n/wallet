@@ -1,1 +1,1 @@
-var mnemonic = "vital balcony forget tissue august zero beyond busy nerve crazy nut galaxy";
+var mnemonic = "birth scene diagram velvet replace resemble summer rigid auction opinion food fiction";

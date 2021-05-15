@@ -1,1 +1,1 @@
-var mnemonic = "perfect clip ski gym faith tuition scrub draw hundred hub adapt sock";
+var mnemonic = "trend acid casual always cost stomach raise perfect liar warfare rival mimic";

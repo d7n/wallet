@@ -1,1 +1,1 @@
-var mnemonic = "salt labor inch empower tackle narrow siege bunker mutual boy panel member";
+var mnemonic = "aware banner sadness among route spoil evil timber section guess order dress";

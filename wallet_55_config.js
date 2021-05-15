@@ -1,1 +1,1 @@
-var mnemonic = "large dish camp paddle slide tone drama usage genre slide memory disease";
+var mnemonic = "talk yard bid unaware shy good naive excess chicken fiscal mirror over";

@@ -1,1 +1,1 @@
-var mnemonic = "describe describe patrol hobby exotic tomato breeze penalty online key inmate magnet";
+var mnemonic = "follow profit job pipe save replace illegal middle expose dwarf fossil hope";

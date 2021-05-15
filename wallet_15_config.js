@@ -1,1 +1,1 @@
-var mnemonic = "proud virus sweet novel air bag bench spell zero brown wait answer";
+var mnemonic = "wrestle music term share talk ridge neither casual tone please crouch lonely";

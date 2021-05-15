@@ -1,1 +1,1 @@
-var mnemonic = "early resource combine someone runway hamster upgrade debris horse vintage episode engine";
+var mnemonic = "vague craft patrol genre valve table inquiry ecology project obscure penalty explain";

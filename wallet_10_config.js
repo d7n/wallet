@@ -1,1 +1,1 @@
-var mnemonic = "joy blind increase edge engine rely private marriage scrap pilot improve group";
+var mnemonic = "volcano giggle predict dance noodle injury spread curtain crack define jewel camp";

@@ -1,1 +1,1 @@
-var mnemonic = "argue peanut spatial eyebrow acquire suffer produce rude kidney velvet jealous riot";
+var mnemonic = "wheel mention miracle bundle arm cushion eyebrow already marine room square brand";

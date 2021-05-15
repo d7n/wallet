@@ -1,1 +1,1 @@
-var mnemonic = "excuse scheme subway mandate kick gospel next vote cereal churn skull repair";
+var mnemonic = "lawn marriage rare frozen now cherry term youth broccoli pyramid record void";

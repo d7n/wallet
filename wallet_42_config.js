@@ -1,1 +1,1 @@
-var mnemonic = "slice text when afford orient equal march impact proof punch story cactus";
+var mnemonic = "mad light chest expose skirt village fiscal recycle virtual sustain battle almost";

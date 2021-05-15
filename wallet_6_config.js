@@ -1,1 +1,1 @@
-var mnemonic = "dish swap popular web modify giant isolate olive course spy client trade";
+var mnemonic = "afraid upset snake bright relief jar animal chunk barrel sing empty large";

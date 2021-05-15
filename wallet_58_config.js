@@ -1,1 +1,1 @@
-var mnemonic = "juice basket program either engine industry jump biology sister ugly match favorite";
+var mnemonic = "shove fly unknown laugh turtle outer annual behind seed clinic cliff net";

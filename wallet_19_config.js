@@ -1,1 +1,1 @@
-var mnemonic = "shine sauce object mom aware laundry kangaroo meat lunar tobacco key believe";
+var mnemonic = "news clever omit garlic game labor air shoe provide outer stumble attitude";

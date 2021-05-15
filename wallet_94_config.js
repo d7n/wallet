@@ -1,1 +1,1 @@
-var mnemonic = "tenant access wrap update result approve common snow olympic hood acoustic farm";
+var mnemonic = "fiber cause remove human lucky virus mountain more cheap erosion success sick";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard tone orient dish uncle bachelor avoid blind start resist habit nerve";
+var mnemonic = "poverty divert trumpet apology bicycle awesome know fuel animal reward when release";
