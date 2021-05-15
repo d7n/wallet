@@ -1,1 +1,1 @@
-var mnemonic = "fragile meat whale daughter stage gravity enlist mango world liberty attack silk";
+var mnemonic = "skirt assist fossil evil pigeon athlete movie panel couch road cabbage snake";

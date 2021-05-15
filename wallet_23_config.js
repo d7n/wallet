@@ -1,1 +1,1 @@
-var mnemonic = "street drive assume skirt oppose nice scrap champion enter bench visa camp";
+var mnemonic = "nominee custom galaxy student chat awkward address recipe angry spider ceiling ritual";

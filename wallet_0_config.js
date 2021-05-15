@@ -1,1 +1,1 @@
-var mnemonic = "camera stamp person raw bonus bus gasp away butter item chef task";
+var mnemonic = "luxury venture empower margin enjoy curve trash mention olympic transfer news list";

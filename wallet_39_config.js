@@ -1,1 +1,1 @@
-var mnemonic = "journey trim second about blade kit afraid route book shield alley slush";
+var mnemonic = "mention insane broken brief problem school attack hammer afraid spike code blood";

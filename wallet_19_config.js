@@ -1,1 +1,1 @@
-var mnemonic = "grunt myth brief hobby drastic fantasy blanket reason column cute equal orchard";
+var mnemonic = "motion palm ostrich priority able crater gossip worry limb coral vendor crumble";

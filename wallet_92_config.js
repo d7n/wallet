@@ -1,1 +1,1 @@
-var mnemonic = "ramp picnic awake copper weekend record cave limit pencil december flush mirror";
+var mnemonic = "anchor teach betray olympic zone later myself patient salmon fiber wife moment";

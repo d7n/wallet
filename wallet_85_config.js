@@ -1,1 +1,1 @@
-var mnemonic = "hundred electric nasty survey plastic file guilt neither insane magic excuse office";
+var mnemonic = "giant swarm equip involve series flame change impact scheme scissors denial flight";

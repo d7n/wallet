@@ -1,1 +1,1 @@
-var mnemonic = "bargain hunt element learn window struggle favorite news useful giant indicate govern";
+var mnemonic = "light odor goat list volcano diary stomach impulse faint olympic tissue glove";

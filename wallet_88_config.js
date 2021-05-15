@@ -1,1 +1,1 @@
-var mnemonic = "panic merit pill demand vacant stay flower raw fresh chunk admit quality";
+var mnemonic = "cloth year crisp such brother charge skull cave baby top melt prepare";

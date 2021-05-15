@@ -1,1 +1,1 @@
-var mnemonic = "decorate seven gather outside office excite snake bracket gain bacon solve address";
+var mnemonic = "range diesel congress orbit topple plunge column pottery tomorrow egg rail bring";

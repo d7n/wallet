@@ -1,1 +1,1 @@
-var mnemonic = "version brain wonder color zebra spatial stem mandate myself funny razor swim";
+var mnemonic = "jar own bean absorb all afraid bright vocal action mutual sketch horn";

@@ -1,1 +1,1 @@
-var mnemonic = "blast tide icon food tree check toast frost amused dumb solar furnace";
+var mnemonic = "silver waste indicate best rural duty small power kite gentle edit cat";

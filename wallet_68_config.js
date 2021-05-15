@@ -1,1 +1,1 @@
-var mnemonic = "achieve monkey wet mother fitness stuff enjoy swear myself govern pride coach";
+var mnemonic = "venture light wreck sponsor slam minute survey wrestle satisfy rabbit bind mobile";

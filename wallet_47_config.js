@@ -1,1 +1,1 @@
-var mnemonic = "embody soft river interest loan menu dirt prosper axis mandate program fine";
+var mnemonic = "dinner liberty fly quarter mail van cloud thought debate vessel claim hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "metal clinic run favorite foil picture angry honey sadness rude wonder wreck";
+var mnemonic = "april model squeeze awake frost topple brother badge topic cart artist cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "soft away remove gospel raven appear shrimp cement pretty ill hospital bid";
+var mnemonic = "candy primary grant mountain tip minimum upper loan pet purity pride avocado";

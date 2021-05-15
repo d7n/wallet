@@ -1,1 +1,1 @@
-var mnemonic = "wrong hungry copper giraffe illegal rural then ring deny tide effort pretty";
+var mnemonic = "stand museum noise autumn joy harvest project replace pottery casino art cup";

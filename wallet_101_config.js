@@ -1,1 +1,1 @@
-var mnemonic = "more wear network face frozen grain drama ghost version dash hurt test";
+var mnemonic = "mountain column sand barely cargo clip middle mechanic attack air general simple";

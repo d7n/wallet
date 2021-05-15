@@ -1,1 +1,1 @@
-var mnemonic = "invest what nature mouse jungle web current daughter entire elephant absurd floor";
+var mnemonic = "fossil unable crane bind apart regular deny toilet library screen pitch dry";

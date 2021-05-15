@@ -1,1 +1,1 @@
-var mnemonic = "abandon multiply robust fiber ecology vague buffalo off envelope spatial mouse kid";
+var mnemonic = "rapid mercy give napkin ten segment decline peanut define hurdle media whale";

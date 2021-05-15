@@ -1,1 +1,1 @@
-var mnemonic = "father net oblige vocal alert rally ozone broccoli camp paper laptop quantum";
+var mnemonic = "domain hurdle artist keep brave figure tuition evoke renew manage rent raise";

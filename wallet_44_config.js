@@ -1,1 +1,1 @@
-var mnemonic = "task middle copper strike degree enact tiny leg razor also ranch hobby";
+var mnemonic = "advance jar tower spice bench torch say trial initial drastic rotate negative";

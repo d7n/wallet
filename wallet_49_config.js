@@ -1,1 +1,1 @@
-var mnemonic = "puzzle moral guess slide keen boring praise smoke joke axis double where";
+var mnemonic = "improve inherit pitch bunker bleak area pluck just hen scare despair offer";

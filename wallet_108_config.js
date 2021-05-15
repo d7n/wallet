@@ -1,1 +1,1 @@
-var mnemonic = "license erode tuition tuna gallery describe cable stereo benefit lab federal kid";
+var mnemonic = "priority expand evoke various perfect swamp pencil bus wood hip garage lazy";

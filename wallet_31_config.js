@@ -1,1 +1,1 @@
-var mnemonic = "dog clutch mule predict quit wealth scissors act head have account fade";
+var mnemonic = "cigar evil viable leader sudden cute canoe sketch voyage cupboard panda broccoli";

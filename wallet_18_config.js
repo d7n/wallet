@@ -1,1 +1,1 @@
-var mnemonic = "final people muscle act tuna siege pelican push flavor corn hen ladder";
+var mnemonic = "sing garage maximum summer zone romance cat repeat reveal mixed flight waste";

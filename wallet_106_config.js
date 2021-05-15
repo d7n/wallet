@@ -1,1 +1,1 @@
-var mnemonic = "inform fork price math morning author cancel notice kiss angle broken bulk";
+var mnemonic = "enough mail syrup twelve effort naive october sister test boost kitchen domain";

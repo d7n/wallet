@@ -1,1 +1,1 @@
-var mnemonic = "shock aim leader borrow siren margin pass creek bean absorb valley better";
+var mnemonic = "monster park dress divert thought cliff jump melody okay noise garbage wagon";

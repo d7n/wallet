@@ -1,1 +1,1 @@
-var mnemonic = "since return huge announce potato apology uniform entry zebra angry soccer teach";
+var mnemonic = "unknown report trial gas thank earth siege base dutch setup cover render";

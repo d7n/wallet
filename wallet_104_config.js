@@ -1,1 +1,1 @@
-var mnemonic = "angle illness egg beef ill chef patch gate energy arm option adjust";
+var mnemonic = "grab chunk same bottom fly much ask ahead laundry solar smile bind";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo wine speed toss tired pull cram order mesh stone oyster salmon";
+var mnemonic = "middle differ float bundle pyramid gather judge project just almost mountain cactus";

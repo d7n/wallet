@@ -1,1 +1,1 @@
-var mnemonic = "thunder mountain taxi stone faculty plastic crumble valid just empower perfect little";
+var mnemonic = "warrior hat giggle emerge fiscal erode actual pass flat ice wedding during";

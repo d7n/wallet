@@ -1,1 +1,1 @@
-var mnemonic = "number west thank hollow dignity whip edge truly video trap input forward";
+var mnemonic = "fancy symbol woman fine powder young render cousin trophy opinion case mango";

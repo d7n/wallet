@@ -1,1 +1,1 @@
-var mnemonic = "scissors limb frog tide gadget desert skin include pilot piano bring hazard";
+var mnemonic = "quantum place jaguar accuse flight home marriage banana music gate obvious place";

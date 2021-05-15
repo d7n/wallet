@@ -1,1 +1,1 @@
-var mnemonic = "clap angle nut royal group trick cost super other few evolve safe";
+var mnemonic = "divert lady link apology sustain gallery weekend marriage endorse endorse happy recipe";

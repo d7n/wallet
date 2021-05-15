@@ -1,1 +1,1 @@
-var mnemonic = "question term february upon exotic twice butter grace walk black manual smile";
+var mnemonic = "way exile globe rival country opera betray fun census option wing burden";

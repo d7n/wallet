@@ -1,1 +1,1 @@
-var mnemonic = "wedding achieve match letter elegant paddle trial brush elder business destroy rich";
+var mnemonic = "much carbon knife pioneer indoor slab acoustic credit riot oval sad usage";

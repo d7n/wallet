@@ -1,1 +1,1 @@
-var mnemonic = "start mixture control settle property scrub position exotic company all snap silly";
+var mnemonic = "elephant canvas earn nice joy weekend bar frozen fever agree transfer august";

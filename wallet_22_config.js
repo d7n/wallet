@@ -1,1 +1,1 @@
-var mnemonic = "reward lemon fury point pool struggle sudden satisfy search enhance rather galaxy";
+var mnemonic = "monkey thought actual regular siege theory judge angry session sun walk sketch";

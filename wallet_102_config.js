@@ -1,1 +1,1 @@
-var mnemonic = "village awkward convince wet filter parrot lemon civil squeeze clump crew write";
+var mnemonic = "dove input crime motor august owner goat drill rule castle fringe stage";

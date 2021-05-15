@@ -1,1 +1,1 @@
-var mnemonic = "ring sad immune render rebuild ready tower army reflect armor jeans rose";
+var mnemonic = "axis tonight uniform actual stove guide season correct myth time dial gather";

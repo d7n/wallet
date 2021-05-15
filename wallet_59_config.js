@@ -1,1 +1,1 @@
-var mnemonic = "session equal brown dish category filter visual thumb turtle situate visit observe";
+var mnemonic = "square glimpse stomach craft knee version fringe mind inform spatial pet rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "season sport behind account uniform cushion chat lava dish duck parrot fame";
+var mnemonic = "cycle garage heart rhythm vacant credit enjoy brother early world search furnace";

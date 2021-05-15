@@ -1,1 +1,1 @@
-var mnemonic = "upgrade tent moral abandon lab welcome floor enter idle prize magic plastic";
+var mnemonic = "basket mass axis property bargain outside skate where net collect tilt sniff";

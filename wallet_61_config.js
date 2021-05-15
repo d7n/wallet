@@ -1,1 +1,1 @@
-var mnemonic = "word lamp collect token brave sunny lens forest razor leisure brave range";
+var mnemonic = "cream unfair sustain safe reform hazard jaguar coffee sadness invest shove tree";

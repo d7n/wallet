@@ -1,1 +1,1 @@
-var mnemonic = "domain there proud toddler rich dentist enlist reject congress step crucial knee";
+var mnemonic = "game office mansion glad chat pair pulse city lab word enroll pyramid";

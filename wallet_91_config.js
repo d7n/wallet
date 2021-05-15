@@ -1,1 +1,1 @@
-var mnemonic = "view exchange blade escape soccer hurry slice auto marriage inflict board outdoor";
+var mnemonic = "level novel because master wool kind vendor ginger short strategy firm imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty couple doll apology indicate error high connect hunt lend stable april";
+var mnemonic = "distance vibrant naive basket buddy local milk strategy champion luggage any satoshi";

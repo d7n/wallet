@@ -1,1 +1,1 @@
-var mnemonic = "advance siren prison arrest brisk lonely spring sort loyal grunt please design";
+var mnemonic = "vague rocket absent silver hazard lazy scrap shadow attack inspire focus announce";

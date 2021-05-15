@@ -1,1 +1,1 @@
-var mnemonic = "print vibrant filter polar extra mosquito faint soccer bacon whip trust switch";
+var mnemonic = "jungle magic cactus jealous spread hat loyal book flush ladder dove mix";

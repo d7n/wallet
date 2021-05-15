@@ -1,1 +1,1 @@
-var mnemonic = "coast output country corn idle loan pipe write gift pitch they iron";
+var mnemonic = "hurry foster inner grain address aspect name voyage rose base uncover labor";

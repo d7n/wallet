@@ -1,1 +1,1 @@
-var mnemonic = "refuse october catalog pelican lamp welcome amazing plastic beef reduce home dawn";
+var mnemonic = "dutch cash coach beyond swarm teach pitch provide order fitness travel already";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce into cute globe lava youth depend usual focus behind that slam";
+var mnemonic = "scorpion rebel refuse apology hair bind width please hawk kidney chest else";

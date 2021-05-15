@@ -1,1 +1,1 @@
-var mnemonic = "pudding caught horse guess again power lunar picnic concert act borrow cotton";
+var mnemonic = "deer basic boil silk hazard trophy slice reason chicken surround account between";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle clever bundle march approve good public century position bar expect scout";
+var mnemonic = "offer lend swear trophy copy weasel high canal stand silver unable flash";

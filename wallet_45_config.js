@@ -1,1 +1,1 @@
-var mnemonic = "neither connect dawn learn track small midnight accident short fatigue oval guilt";
+var mnemonic = "add session enhance chair lawn fall large scene credit security innocent cattle";

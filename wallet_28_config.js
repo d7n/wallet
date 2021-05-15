@@ -1,1 +1,1 @@
-var mnemonic = "legend basic resist observe around lens evoke inspire rice charge refuse category";
+var mnemonic = "diagram second elite normal corn keep morning ancient install task vintage fire";

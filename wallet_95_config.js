@@ -1,1 +1,1 @@
-var mnemonic = "ensure enough attract limb dice miracle hedgehog jump crime risk inherit choose";
+var mnemonic = "imitate drastic erode exit blind front silent oyster earn usual volcano gap";

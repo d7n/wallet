@@ -1,1 +1,1 @@
-var mnemonic = "digital slow runway night ankle canal rebel polar army now silver main";
+var mnemonic = "royal embrace hybrid potato hand region bonus success silver glimpse pupil impact";

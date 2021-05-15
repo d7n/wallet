@@ -1,1 +1,1 @@
-var mnemonic = "venue again kiss tackle prosper uncle scout borrow clerk check first milk";
+var mnemonic = "blouse dinosaur slight april domain limit jelly adult average history crunch fiscal";

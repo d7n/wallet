@@ -1,1 +1,1 @@
-var mnemonic = "roast rude like element pig sketch bless argue deer remove tornado patrol";
+var mnemonic = "off medal lucky follow echo rate tail enact lawsuit remain arrive great";

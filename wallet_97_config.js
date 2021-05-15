@@ -1,1 +1,1 @@
-var mnemonic = "hour direct olive grunt chapter anchor outside rain badge sleep shiver try";
+var mnemonic = "smooth lock vessel crazy clump friend memory vintage advance initial despair bean";

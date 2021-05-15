@@ -1,1 +1,1 @@
-var mnemonic = "federal boring used double sibling car flash ticket anger tone beach peasant";
+var mnemonic = "uncover alert sail symptom run window foster street seven cross space rookie";

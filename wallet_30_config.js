@@ -1,1 +1,1 @@
-var mnemonic = "elite erosion stairs pilot twenty relax renew short reveal worry surround prevent";
+var mnemonic = "mom autumn kitchen forward family split bright frown shadow blast proof morning";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle miracle spin fork calm true today point modify scrub year execute";
+var mnemonic = "awake drama ring differ velvet glad patch stove blossom chimney book below";

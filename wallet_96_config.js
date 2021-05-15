@@ -1,1 +1,1 @@
-var mnemonic = "match filter club stairs interest rack easily stool knock whip chronic stock";
+var mnemonic = "rate mask spring walk faculty mother spatial blush bottom spatial wolf bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "net crumble festival bracket follow rifle move place security coyote crowd vital";
+var mnemonic = "split giraffe unhappy soda drip nominee own power gasp swim soccer quit";

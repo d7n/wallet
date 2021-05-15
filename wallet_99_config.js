@@ -1,1 +1,1 @@
-var mnemonic = "desert nerve melody banana blouse cry female deliver cake goddess crouch thumb";
+var mnemonic = "barrel animal vote genre leg sentence come unaware wash chimney dry world";

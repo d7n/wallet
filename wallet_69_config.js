@@ -1,1 +1,1 @@
-var mnemonic = "dune follow embrace spoon photo badge cable snack proud dizzy treat tape";
+var mnemonic = "any spice split modify better wheat horn popular media treat hidden inform";

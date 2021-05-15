@@ -1,1 +1,1 @@
-var mnemonic = "exile table series move solar omit learn stay renew private topic friend";
+var mnemonic = "banner manual distance account common avoid treat prepare wise laundry advance friend";

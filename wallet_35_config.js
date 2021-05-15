@@ -1,1 +1,1 @@
-var mnemonic = "chef cost lobster elder echo siege first perfect quit wife destroy permit";
+var mnemonic = "bright live slim shoe ready vacant canoe festival stereo embody now medal";

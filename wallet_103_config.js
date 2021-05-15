@@ -1,1 +1,1 @@
-var mnemonic = "toss lawsuit jeans forum dove stone unhappy flag tragic flip wall useful";
+var mnemonic = "casual fit engine aunt matrix together slice wire endorse thing embody almost";

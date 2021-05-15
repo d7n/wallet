@@ -1,1 +1,1 @@
-var mnemonic = "opera thumb fiction unable nominee drift neglect nest egg album lottery dragon";
+var mnemonic = "supreme whale giraffe pool under suggest galaxy immune harvest grid rigid unlock";

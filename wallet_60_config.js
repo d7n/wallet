@@ -1,1 +1,1 @@
-var mnemonic = "method harvest write runway problem coach fruit verify spice result spoil depart";
+var mnemonic = "write early scan ridge voice perfect music poet awful minute fat patch";

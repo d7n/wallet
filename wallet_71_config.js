@@ -1,1 +1,1 @@
-var mnemonic = "heart point enjoy buzz decline unable since cycle deliver gospel kit effort";
+var mnemonic = "melody neutral swim unit walk entry old rather gesture stock oxygen govern";

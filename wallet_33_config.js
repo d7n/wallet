@@ -1,1 +1,1 @@
-var mnemonic = "chaos outdoor bird inform credit empower supply wool office occur false index";
+var mnemonic = "symbol manual habit agree rural opinion iron attend barrel phrase ice inmate";

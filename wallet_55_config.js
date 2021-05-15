@@ -1,1 +1,1 @@
-var mnemonic = "shrimp mad fuel equip receive advice normal shield dress cushion other material";
+var mnemonic = "crater extra cube potato foam build defy erupt master inquiry violin peasant";

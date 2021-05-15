@@ -1,1 +1,1 @@
-var mnemonic = "hawk argue regular reunion panel scheme door twelve midnight denial educate someone";
+var mnemonic = "announce game miss misery bomb silent donkey crash decrease chase fresh where";

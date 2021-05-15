@@ -1,1 +1,1 @@
-var mnemonic = "choose resemble cool client exhibit silk spatial mobile only scorpion mail despair";
+var mnemonic = "scale habit air victory tiger derive crane flavor donor choose symbol dose";

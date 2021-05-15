@@ -1,1 +1,1 @@
-var mnemonic = "recipe cabin job velvet learn fence comic east cause human cover melt";
+var mnemonic = "crush common garden fence trial chief skull purity large tuna glimpse razor";

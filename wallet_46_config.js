@@ -1,1 +1,1 @@
-var mnemonic = "stock gloom give calm embrace abuse wrist humor brother gas rally spread";
+var mnemonic = "zero alley cereal tattoo guitar never silver path roast business ecology more";

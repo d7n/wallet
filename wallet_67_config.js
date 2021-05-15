@@ -1,1 +1,1 @@
-var mnemonic = "gadget bomb possible lemon moon vacant arrow maze affair razor name wool";
+var mnemonic = "soft omit repair alpha cigar material panther hat notice theory shiver hole";

@@ -1,1 +1,1 @@
-var mnemonic = "insect earn lumber fit era thank dignity festival work cheese vehicle cool";
+var mnemonic = "grant clock come stereo neutral pitch clinic rely elbow express fringe layer";

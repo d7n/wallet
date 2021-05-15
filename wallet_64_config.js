@@ -1,1 +1,1 @@
-var mnemonic = "earth antique gap velvet solid famous paddle orange attack art foam dad";
+var mnemonic = "dry banner token noble embark enact desk rotate dad token speak tilt";

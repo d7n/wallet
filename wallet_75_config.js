@@ -1,1 +1,1 @@
-var mnemonic = "faculty orphan inflict rapid initial second merry number grant this wait crazy";
+var mnemonic = "ten door morning just stock gate pave swing spirit arctic spy water";

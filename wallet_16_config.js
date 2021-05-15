@@ -1,1 +1,1 @@
-var mnemonic = "maximum clean olive smoke ozone hour twelve guitar cannon very camera hold";
+var mnemonic = "fatigue behind escape vacuum slim weapon settle innocent carbon sponsor stage cloud";

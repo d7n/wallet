@@ -1,1 +1,1 @@
-var mnemonic = "insect know size quality intact doll cherry once craft firm food angry";
+var mnemonic = "obey salad disorder fork alert off garage vivid twist ketchup few cover";

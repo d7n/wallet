@@ -1,1 +1,1 @@
-var mnemonic = "fault bless eternal name exile shift buzz apple option spawn strike woman";
+var mnemonic = "slot yellow advance road suit ten room ice slot neither ball occur";

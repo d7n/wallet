@@ -1,1 +1,1 @@
-var mnemonic = "about night where miracle kingdom attract chronic angry ask gather scorpion lecture";
+var mnemonic = "elbow trash stomach job barely slam spoil song glare engine pond taxi";

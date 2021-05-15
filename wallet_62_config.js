@@ -1,1 +1,1 @@
-var mnemonic = "climb path jewel radar hub burger vicious appear inherit recycle they swallow";
+var mnemonic = "betray forum tone deer wolf broom trap tissue spawn galaxy burden gossip";
