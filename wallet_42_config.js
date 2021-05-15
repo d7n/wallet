@@ -1,1 +1,1 @@
-var mnemonic = "collect bean faint sunset ecology shiver social curve crunch luggage total claim";
+var mnemonic = "toe display force strategy solar gym type helmet worth frequent echo gravity";

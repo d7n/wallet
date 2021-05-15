@@ -1,1 +1,1 @@
-var mnemonic = "route young child horror order shield way token unit letter prefer creek";
+var mnemonic = "blossom void sphere thumb million sell taste silent travel cupboard shy giant";

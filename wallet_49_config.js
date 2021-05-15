@@ -1,1 +1,1 @@
-var mnemonic = "grief celery swarm arrive best short sense luxury gym loyal holiday letter";
+var mnemonic = "fault version error earn another prevent truck wing unusual repeat tooth fog";

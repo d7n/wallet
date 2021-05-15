@@ -1,1 +1,1 @@
-var mnemonic = "cage equip gauge impact mansion state connect noodle layer sudden athlete under";
+var mnemonic = "hurdle purpose home pave chest cost genre shrimp bicycle immune oxygen oval";

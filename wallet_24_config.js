@@ -1,1 +1,1 @@
-var mnemonic = "rural gallery genius impose execute palm humor truck guide cabbage vocal help";
+var mnemonic = "laugh wash found loop quick bulk jelly gravity fiction win poet tornado";

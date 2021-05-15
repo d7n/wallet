@@ -1,1 +1,1 @@
-var mnemonic = "van wear congress blind occur blanket soldier cancel dinosaur wolf divorce render";
+var mnemonic = "like fly voice kite logic dutch below debate cluster army day nature";

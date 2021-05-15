@@ -1,1 +1,1 @@
-var mnemonic = "dawn gym damage fit voice chunk daughter fashion expect fee someone dynamic";
+var mnemonic = "danger car december chest citizen assume wave ignore quantum purity next situate";

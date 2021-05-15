@@ -1,1 +1,1 @@
-var mnemonic = "north vast flash toilet loud name hello among error dinosaur shoot angry";
+var mnemonic = "tornado jeans cube pupil space end inflict hover stock reveal unfair nominee";

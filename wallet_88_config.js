@@ -1,1 +1,1 @@
-var mnemonic = "convince fire hotel subway like wedding owner middle off april wrong ready";
+var mnemonic = "oxygen ethics test first domain badge marriage drop ten maze drop fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "resist bring just coil humble list spider useless cream lumber glare upper";
+var mnemonic = "mystery manual two sign dog bundle laugh fancy subway forum disease tiger";

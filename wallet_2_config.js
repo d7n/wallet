@@ -1,1 +1,1 @@
-var mnemonic = "pause early vessel avocado expect usual squirrel typical hawk have airport deny";
+var mnemonic = "wire ability change jaguar steel token raccoon cute canoe glance pole congress";

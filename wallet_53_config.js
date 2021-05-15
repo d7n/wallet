@@ -1,1 +1,1 @@
-var mnemonic = "network ribbon reward fire around poverty deny turkey poet quiz mother mistake";
+var mnemonic = "inspire table estate dwarf ignore sketch borrow vacant track meadow rebel phrase";

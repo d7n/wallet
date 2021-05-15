@@ -1,1 +1,1 @@
-var mnemonic = "disorder actor trust trumpet oval venture sock turn spice need critic opera";
+var mnemonic = "oval thought damage fatal boil huge shell onion kick depart pelican bitter";

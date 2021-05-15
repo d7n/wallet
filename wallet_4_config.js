@@ -1,1 +1,1 @@
-var mnemonic = "success over armed crazy rotate assault puzzle memory deposit spell universe blur";
+var mnemonic = "output exchange pencil tribe federal mad awkward begin fiction leopard real solution";

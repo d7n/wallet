@@ -1,1 +1,1 @@
-var mnemonic = "ginger gospel diamond curious blouse damage rare dolphin virus when frame gauge";
+var mnemonic = "bird mention kitchen excess minimum proud truly impulse grape beauty float game";

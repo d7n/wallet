@@ -1,1 +1,1 @@
-var mnemonic = "inmate skill curve water convince raven sword arrest garden glory knee toddler";
+var mnemonic = "edge garlic color audit universe close one layer dish where fat shoulder";

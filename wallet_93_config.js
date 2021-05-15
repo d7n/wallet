@@ -1,1 +1,1 @@
-var mnemonic = "kite sibling ignore theory million prepare unusual hurt bag execute joy ivory";
+var mnemonic = "comfort amused execute claw mirror neutral embark bridge boy between crash reform";

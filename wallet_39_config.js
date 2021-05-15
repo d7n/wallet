@@ -1,1 +1,1 @@
-var mnemonic = "frog mind thing time verify clinic man undo journey lobster wing end";
+var mnemonic = "audit mercy deputy improve length yard fever hood exchange staff shell together";

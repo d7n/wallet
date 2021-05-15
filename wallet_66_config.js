@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow cupboard piano genre jump tired permit people desert rate produce crash";
+var mnemonic = "daring awesome middle undo project category turn reason letter unveil kiwi pool";

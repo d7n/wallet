@@ -1,1 +1,1 @@
-var mnemonic = "pigeon hat comfort release scale feel winner bitter write puppy saddle satisfy";
+var mnemonic = "dish skate toast finger reopen symbol wink student mad hockey cave clerk";

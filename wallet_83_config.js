@@ -1,1 +1,1 @@
-var mnemonic = "coin trumpet attend shiver sail remove original history scale jeans slice piano";
+var mnemonic = "fox wrist measure fatal price shaft grit shift whale grain corn arena";

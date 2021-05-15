@@ -1,1 +1,1 @@
-var mnemonic = "garage door utility fossil admit similar mass junior title equip tourist clay";
+var mnemonic = "tilt system notice involve move chair rack lonely exclude hamster behave hammer";

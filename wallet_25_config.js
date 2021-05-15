@@ -1,1 +1,1 @@
-var mnemonic = "assist abstract employ sniff amused puzzle spoil survey meadow prosper velvet surface";
+var mnemonic = "treat axis win earn stem grab night crumble fabric soul tumble protect";

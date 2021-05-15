@@ -1,1 +1,1 @@
-var mnemonic = "future wear depend rail skirt dust palm chapter surround grape bundle theme";
+var mnemonic = "broccoli crack cabbage submit thunder vessel replace chimney gallery matter power brave";

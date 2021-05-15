@@ -1,1 +1,1 @@
-var mnemonic = "voice feed disease taxi dutch first travel diagram hire silent today flight";
+var mnemonic = "march universe identify dismiss cupboard warm plug turn void acoustic hood poem";

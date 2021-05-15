@@ -1,1 +1,1 @@
-var mnemonic = "wasp demand wool member bar ginger demand eagle tilt weapon make labor";
+var mnemonic = "buffalo fade leave payment lobster chunk embrace amused capable rib exhibit say";

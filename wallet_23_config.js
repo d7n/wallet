@@ -1,1 +1,1 @@
-var mnemonic = "huge near abuse vehicle frog grit inflict ridge tunnel rebuild dry physical";
+var mnemonic = "club surprise sadness violin crawl also issue cup addict ignore pole father";

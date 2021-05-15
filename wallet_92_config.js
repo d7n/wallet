@@ -1,1 +1,1 @@
-var mnemonic = "thumb seven scene tennis window entry man funny equip absurd pottery write";
+var mnemonic = "visual maple case sunset during scheme general reflect frequent day guide ready";

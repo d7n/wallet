@@ -1,1 +1,1 @@
-var mnemonic = "gold palace world curve gloom frequent undo voyage coach mansion beef lizard";
+var mnemonic = "prison pizza analyst coast avocado loyal oppose gap exile say syrup heavy";

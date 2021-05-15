@@ -1,1 +1,1 @@
-var mnemonic = "october system arm zone novel middle jar airport oven check series mystery";
+var mnemonic = "run check body traffic empty garage stumble topple three fantasy broccoli aware";

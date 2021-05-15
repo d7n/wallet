@@ -1,1 +1,1 @@
-var mnemonic = "ripple rigid flavor nothing torch caution sail conduct excite skull fabric betray";
+var mnemonic = "seed school naive hurry boost blanket suffer infant smooth around image secret";

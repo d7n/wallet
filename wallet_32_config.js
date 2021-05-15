@@ -1,1 +1,1 @@
-var mnemonic = "clay siege donor federal cherry lion gown rescue fit true prison cruise";
+var mnemonic = "pistol lesson human avocado amateur minute lumber parrot cross taxi easy diagram";

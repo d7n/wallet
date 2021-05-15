@@ -1,1 +1,1 @@
-var mnemonic = "deal this mention silk best couple useless leg fury tenant armor door";
+var mnemonic = "relax decorate surge park print coast lady quantum forward problem judge stone";

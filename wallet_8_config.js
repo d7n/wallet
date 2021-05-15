@@ -1,1 +1,1 @@
-var mnemonic = "side song crew genius science huge valid grape business typical laptop captain";
+var mnemonic = "electric just sock oven term issue crush bean bachelor pig check trigger";

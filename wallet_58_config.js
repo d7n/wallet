@@ -1,1 +1,1 @@
-var mnemonic = "income dinosaur clap scorpion next before thrive armed join bronze road leaf";
+var mnemonic = "faculty sadness wash embrace point cheese struggle neglect skull drama coach unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "trip vehicle shock above vacuum regular jazz toast bomb nephew gloom blind";
+var mnemonic = "fiscal market matter man inmate viable twenty convince honey type prefer segment";

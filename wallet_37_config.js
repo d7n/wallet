@@ -1,1 +1,1 @@
-var mnemonic = "achieve hint fold bean slim motor term pencil book insect elevator cupboard";
+var mnemonic = "extend day system walnut also embody regular fat aisle general butter orbit";

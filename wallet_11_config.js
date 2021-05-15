@@ -1,1 +1,1 @@
-var mnemonic = "subject object monster route inside neck host melt bitter cousin sun photo";
+var mnemonic = "behave hold sock lesson open feature level dry awful coffee village rose";

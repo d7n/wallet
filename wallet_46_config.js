@@ -1,1 +1,1 @@
-var mnemonic = "twice someone mandate poem snow light cabin select shaft winter endless brave";
+var mnemonic = "bone race nasty churn crew elephant bag price major sunset retreat sister";

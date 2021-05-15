@@ -1,1 +1,1 @@
-var mnemonic = "city favorite light friend possible quote thing fire chest dignity cost upon";
+var mnemonic = "grain clip cannon cushion coconut arch soon captain brass spawn life april";

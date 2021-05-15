@@ -1,1 +1,1 @@
-var mnemonic = "lift cannon fatal biology arm clog aunt staff busy fix water wool";
+var mnemonic = "library gravity valve shell permit urge oven add monster lemon issue drive";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive say air mercy scrap fix mammal future loan buzz kangaroo mask";
+var mnemonic = "route dash gadget kid coil awake noodle admit attend twenty sibling number";

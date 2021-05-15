@@ -1,1 +1,1 @@
-var mnemonic = "crunch below purse holiday market water change mercy miss elite box exit";
+var mnemonic = "release season floor peasant cruise prepare general blossom orchard clerk flower also";

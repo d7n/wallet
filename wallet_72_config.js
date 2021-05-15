@@ -1,1 +1,1 @@
-var mnemonic = "anchor negative interest identify screen valid witness hard employ impact affair envelope";
+var mnemonic = "dune depth baby album income churn stick gallery mother space garage under";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace nuclear since fiction develop solid artefact olympic journey wire thank today";
+var mnemonic = "receive traffic vintage shoe balcony firm between pistol runway autumn idea armed";

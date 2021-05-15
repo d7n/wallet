@@ -1,1 +1,1 @@
-var mnemonic = "thumb bright junior exchange decade tomorrow balcony soul skate grab coach tank";
+var mnemonic = "maze surge combine trumpet bless scrap news suspect forest parrot chuckle alpha";

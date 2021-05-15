@@ -1,1 +1,1 @@
-var mnemonic = "ticket drive extra stereo chapter wash picnic axis finger kidney fluid barely";
+var mnemonic = "stock must victory afford banana pepper pioneer degree total vibrant cup excess";

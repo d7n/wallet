@@ -1,1 +1,1 @@
-var mnemonic = "ranch steak certain give gorilla tray soon economy brush already tiny expose";
+var mnemonic = "potato extra sphere then regret gym aspect observe dance valve present addict";

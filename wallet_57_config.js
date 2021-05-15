@@ -1,1 +1,1 @@
-var mnemonic = "curious that mammal lottery income major repair welcome text hockey tiger maze";
+var mnemonic = "disease joke rich chapter embrace dutch turtle shoot ghost ozone forward cook";

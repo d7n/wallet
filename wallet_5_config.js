@@ -1,1 +1,1 @@
-var mnemonic = "round shell garden soap brick palace cause lift lunar tribe useless degree";
+var mnemonic = "service aunt mandate attack humor legend also practice small catch salt edit";

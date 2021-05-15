@@ -1,1 +1,1 @@
-var mnemonic = "turkey spin intact husband neck action stage brass universe rate ticket surprise";
+var mnemonic = "drill mobile use system envelope knee spread ice powder segment dog energy";

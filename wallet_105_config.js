@@ -1,1 +1,1 @@
-var mnemonic = "wagon guide leave muscle trophy observe debate tree basket wool poet couch";
+var mnemonic = "axis trial essence cart exile frost prefer insane ridge utility west current";

@@ -1,1 +1,1 @@
-var mnemonic = "two bleak kind shield horse nominee furnace squeeze near garbage clown fresh";
+var mnemonic = "frog host coconut you struggle crew board funny casual ticket identify weapon";

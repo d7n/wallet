@@ -1,1 +1,1 @@
-var mnemonic = "earth vessel lion display half photo seminar message carpet marine urban thumb";
+var mnemonic = "version caught merit nut bitter differ buyer shaft gaze nasty mix green";

@@ -1,1 +1,1 @@
-var mnemonic = "frog morning letter attitude pipe run reveal hunt around picnic gun sustain";
+var mnemonic = "hybrid sample interest thank income hidden jump move regret cake slab stem";

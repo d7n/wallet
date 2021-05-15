@@ -1,1 +1,1 @@
-var mnemonic = "mercy amount polar please spare lizard learn decade column engine axis matter";
+var mnemonic = "crouch settle mixed bachelor warrior universe action slush opera pottery address busy";

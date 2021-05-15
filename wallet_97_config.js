@@ -1,1 +1,1 @@
-var mnemonic = "emotion parent energy private weasel lawsuit impulse oven crowd green dog gown";
+var mnemonic = "refuse goose sauce balcony rubber release boost decide token rocket wrap entire";

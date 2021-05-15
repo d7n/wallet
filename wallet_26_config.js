@@ -1,1 +1,1 @@
-var mnemonic = "enemy provide bronze wait drastic wink industry cram van despair hidden game";
+var mnemonic = "cute fetch manual panel bean umbrella guilt snack stuff glare wolf hammer";

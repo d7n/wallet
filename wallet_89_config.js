@@ -1,1 +1,1 @@
-var mnemonic = "ramp eight valley notice sadness call cream onion own ghost ritual job";
+var mnemonic = "fan talk price draft fire copper crime domain miracle kick spell rifle";

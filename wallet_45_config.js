@@ -1,1 +1,1 @@
-var mnemonic = "trick same sword gadget west earn grain assist artist amazing stone tribe";
+var mnemonic = "sun give friend truck wink hill pig body recipe wheel embrace cluster";

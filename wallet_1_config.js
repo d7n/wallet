@@ -1,1 +1,1 @@
-var mnemonic = "diary lend input visit chat silly art whip paper resemble increase lottery";
+var mnemonic = "sphere crane fantasy desert used rely industry valley combine abstract brush ladder";

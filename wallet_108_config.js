@@ -1,1 +1,1 @@
-var mnemonic = "bring edge alpha helmet amused aspect office feature bunker weasel denial flavor";
+var mnemonic = "sustain chunk eagle sheriff panel coffee pistol excite kind much inner dune";

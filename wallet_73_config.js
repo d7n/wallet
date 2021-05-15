@@ -1,1 +1,1 @@
-var mnemonic = "plate tower noise sing rain shell know throw crawl heavy fee door";
+var mnemonic = "canal timber arm save alter reopen lift habit original tennis young hat";

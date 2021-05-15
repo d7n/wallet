@@ -1,1 +1,1 @@
-var mnemonic = "dial faith spice confirm sun apple pencil pool wife rigid orphan vacuum";
+var mnemonic = "essence mammal era lock gold mystery eyebrow rapid timber decide employ alarm";

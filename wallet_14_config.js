@@ -1,1 +1,1 @@
-var mnemonic = "royal simple tonight gym bring anxiety reveal try argue pipe film raven";
+var mnemonic = "gown pledge obscure region fury loyal guide spoil inherit thought mango sunny";

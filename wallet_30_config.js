@@ -1,1 +1,1 @@
-var mnemonic = "include device install stamp forget post resist prevent wealth betray awful amazing";
+var mnemonic = "emotion suggest flash shield primary cattle later embrace horror audit jungle elder";

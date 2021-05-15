@@ -1,1 +1,1 @@
-var mnemonic = "wet punch flight step afraid side february pretty actual drive hybrid tuna";
+var mnemonic = "pink obey tank sign legend rice snack symbol nest gadget require goat";

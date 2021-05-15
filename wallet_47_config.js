@@ -1,1 +1,1 @@
-var mnemonic = "web head mystery drama narrow degree salmon fiction best deer rather enemy";
+var mnemonic = "theme sunny merry glove moment before vast brass liar all hedgehog mixed";

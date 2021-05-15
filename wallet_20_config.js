@@ -1,1 +1,1 @@
-var mnemonic = "orange upgrade element course pen science pact style bulb metal search guide";
+var mnemonic = "hover label error uphold surface balance total roof deal picture canyon vapor";

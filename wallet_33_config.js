@@ -1,1 +1,1 @@
-var mnemonic = "crawl athlete silver fix gown jump exhibit produce yellow resist test pill";
+var mnemonic = "boost empower flat bike sad satisfy calm gather poverty hollow soon flock";

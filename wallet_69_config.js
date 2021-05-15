@@ -1,1 +1,1 @@
-var mnemonic = "weather direct nephew net fit oxygen ethics impulse wheat blade dad tree";
+var mnemonic = "health correct glue mean old job butter fence business firm lawn pact";

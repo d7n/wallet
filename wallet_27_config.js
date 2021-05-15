@@ -1,1 +1,1 @@
-var mnemonic = "scrap wasp wrist virus grocery afraid few random slow soft cheese body";
+var mnemonic = "cabin solution cloth comfort access six hub wedding pledge menu crime winner";

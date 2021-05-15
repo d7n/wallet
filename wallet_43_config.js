@@ -1,1 +1,1 @@
-var mnemonic = "trash palm decorate business slam digital hold present remove permit knee ozone";
+var mnemonic = "snow supreme cost patient venue width panther surge among joke vapor typical";

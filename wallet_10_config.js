@@ -1,1 +1,1 @@
-var mnemonic = "review sheriff peace inject sand exercise sea spare humble nest sing profit";
+var mnemonic = "bless wedding quit major rapid sample oxygen response just grace ridge monster";

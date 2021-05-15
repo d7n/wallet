@@ -1,1 +1,1 @@
-var mnemonic = "foam acid coach sun level zebra glide magnet during give brick dizzy";
+var mnemonic = "ginger wall crime collect impact already bird mass alpha subway dance organ";

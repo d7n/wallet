@@ -1,1 +1,1 @@
-var mnemonic = "grief language typical connect north empty prevent child wet gown spider develop";
+var mnemonic = "exact music lake velvet clap patch case exit slogan apart flip pipe";

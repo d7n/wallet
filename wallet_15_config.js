@@ -1,1 +1,1 @@
-var mnemonic = "check sort gloom share hold evoke voice wet crash calm brand barely";
+var mnemonic = "drive famous uniform nation pumpkin allow mobile casino cabin tiger model tuna";

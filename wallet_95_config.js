@@ -1,1 +1,1 @@
-var mnemonic = "adapt thought remind spread arctic sausage net welcome wink inmate budget video";
+var mnemonic = "lava grant coast frozen aspect pepper ship galaxy turkey social glimpse social";

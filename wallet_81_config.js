@@ -1,1 +1,1 @@
-var mnemonic = "scare skin repeat scrap wear robust give sign fringe butter spend hundred";
+var mnemonic = "cinnamon soccer comic measure divorce noise release birth jungle silk bachelor radio";

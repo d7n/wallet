@@ -1,1 +1,1 @@
-var mnemonic = "update subject crisp blossom favorite bind federal track viable plastic know detect";
+var mnemonic = "banner patrol south afford affair expose hurdle math quiz help quit thumb";

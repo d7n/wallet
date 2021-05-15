@@ -1,1 +1,1 @@
-var mnemonic = "peace glide pave inquiry diet merge claim expand ladder camp smart claim";
+var mnemonic = "mother cotton skate faith sphere keen love exit doctor deal monkey voyage";

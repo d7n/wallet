@@ -1,1 +1,1 @@
-var mnemonic = "limb limb foil dismiss bone mule purse guess saddle punch hover summer";
+var mnemonic = "romance miss story expand stuff false actress coil total ladder odor rubber";

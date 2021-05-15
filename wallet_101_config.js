@@ -1,1 +1,1 @@
-var mnemonic = "maid visual atom month connect aisle whisper profit access casino library major";
+var mnemonic = "remain bonus refuse hold return hub bounce define crumble detail physical wave";

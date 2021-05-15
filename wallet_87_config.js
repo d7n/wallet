@@ -1,1 +1,1 @@
-var mnemonic = "say link smooth frame pupil misery sell until shell venture end vote";
+var mnemonic = "amount syrup harvest cute region color coach candy resist zone tonight adult";

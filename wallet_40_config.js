@@ -1,1 +1,1 @@
-var mnemonic = "best orchard toast forget asthma okay summer arrange deer trap glory host";
+var mnemonic = "timber cook draw witness seed pupil setup topple hint boss remember illness";

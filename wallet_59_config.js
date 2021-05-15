@@ -1,1 +1,1 @@
-var mnemonic = "siren suggest matter atom canoe give sponsor limb churn armed wide purpose";
+var mnemonic = "slight outer find exit feel track flag hair disagree typical labor pole";
