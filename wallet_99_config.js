@@ -1,1 +1,1 @@
-var mnemonic = "correct craft junior attitude tiger visa detail awful estate abuse space simple";
+var mnemonic = "goat slight duty verb book transfer ticket that course memory review forum";

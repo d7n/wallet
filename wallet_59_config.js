@@ -1,1 +1,1 @@
-var mnemonic = "fresh chapter boy error always crystal insect say record bid viable rail";
+var mnemonic = "country walnut club carry keep pass frown paper snow easily speak ladder";

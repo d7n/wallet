@@ -1,1 +1,1 @@
-var mnemonic = "bright season cotton exercise plastic regret series skill income rain cream flavor";
+var mnemonic = "begin odor swamp view leave arrow proof obvious entry vote cloth monster";

@@ -1,1 +1,1 @@
-var mnemonic = "essence april switch apology dolphin rude hidden total type picture bike ahead";
+var mnemonic = "truly gun mobile total music bunker weekend job adult clinic garden rapid";

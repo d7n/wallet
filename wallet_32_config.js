@@ -1,1 +1,1 @@
-var mnemonic = "tragic pool moon target fuel hedgehog business meat occur punch circle sphere";
+var mnemonic = "tail drift multiply chunk gorilla vital rather evil potato blossom close smile";

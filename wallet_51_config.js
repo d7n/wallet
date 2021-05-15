@@ -1,1 +1,1 @@
-var mnemonic = "custom media address disease execute rude trend knife nurse language chalk dove";
+var mnemonic = "please broccoli barrel sea bicycle banana grain dream fortune system topic town";

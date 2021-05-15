@@ -1,1 +1,1 @@
-var mnemonic = "sort bar night hold canoe walnut detail pave love agent climb drum";
+var mnemonic = "head crumble alone input family piece hub wagon river ethics exercise razor";

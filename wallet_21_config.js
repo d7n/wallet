@@ -1,1 +1,1 @@
-var mnemonic = "enforce scorpion letter gift magic faith common ankle horror dwarf valve tragic";
+var mnemonic = "treat relax crunch garbage grant acid lion seed like absurd silent stage";

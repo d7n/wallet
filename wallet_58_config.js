@@ -1,1 +1,1 @@
-var mnemonic = "inhale debris violin road unaware upset allow wing tumble suspect shy guess";
+var mnemonic = "civil quote embody pass exhaust retreat abandon danger dismiss stock depend march";

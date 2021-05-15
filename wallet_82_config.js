@@ -1,1 +1,1 @@
-var mnemonic = "conduct nephew wisdom panic fence limit shrimp dilemma humble salmon jewel square";
+var mnemonic = "brief diagram auction lottery problem limit alcohol also deer skate keen funny";

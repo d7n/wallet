@@ -1,1 +1,1 @@
-var mnemonic = "lake follow romance fruit again season gun tired holiday hat sand wall";
+var mnemonic = "champion concert certain claim airport mercy stick vote stuff damage rough short";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid snake car neutral state wrap garbage wisdom proud view churn thank";
+var mnemonic = "noodle shiver chicken august curtain style permit brass approve say fog logic";

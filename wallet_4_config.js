@@ -1,1 +1,1 @@
-var mnemonic = "voice cloth icon settle satoshi toast easily wheat stem chase damage husband";
+var mnemonic = "receive often pair dumb elite pass dish glove flip object drama vicious";

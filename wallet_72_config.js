@@ -1,1 +1,1 @@
-var mnemonic = "wing submit snake dynamic coffee snack empower almost rough smart element violin";
+var mnemonic = "fix flag inhale doctor middle donor magic tip acquire enemy during veteran";

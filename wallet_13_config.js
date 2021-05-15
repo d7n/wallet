@@ -1,1 +1,1 @@
-var mnemonic = "purity lobster pilot genius detail thrive foil next retreat wagon comic chest";
+var mnemonic = "hint bag skin belt hair sunny snake apart push daughter ensure grape";

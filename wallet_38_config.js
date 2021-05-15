@@ -1,1 +1,1 @@
-var mnemonic = "polar honey canoe film fiber risk trap sugar derive news chicken clinic";
+var mnemonic = "witness journey myth away crawl valid panel floor refuse master knife skate";

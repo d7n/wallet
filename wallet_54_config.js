@@ -1,1 +1,1 @@
-var mnemonic = "system essence quiz soap sentence crawl anchor marriage oblige exhibit maid step";
+var mnemonic = "tumble cable defense hockey access push shove trend abuse custom giant mule";

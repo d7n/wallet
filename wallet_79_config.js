@@ -1,1 +1,1 @@
-var mnemonic = "salt tornado potato ready forward want hour luxury horse nation outside polar";
+var mnemonic = "salmon weapon domain hammer movie typical stock crunch turtle exercise service day";

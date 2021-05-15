@@ -1,1 +1,1 @@
-var mnemonic = "acid bargain naive pigeon wild endorse color actor soda hazard leisure marriage";
+var mnemonic = "rifle adjust direct hedgehog dial daring panda punch yellow become merry witness";

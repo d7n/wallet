@@ -1,1 +1,1 @@
-var mnemonic = "lift surround observe clutch buddy much yellow task early ladder position nation";
+var mnemonic = "claim bonus sweet desert update frown hand olympic chair best argue paddle";

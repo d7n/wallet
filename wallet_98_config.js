@@ -1,1 +1,1 @@
-var mnemonic = "notable end tag place west curious leaf sunny found observe common stay";
+var mnemonic = "afraid awesome sort lobster area upper enter toward vanish small celery slam";

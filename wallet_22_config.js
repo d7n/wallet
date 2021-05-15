@@ -1,1 +1,1 @@
-var mnemonic = "gym moral document range police symbol width limb wagon purpose arch long";
+var mnemonic = "net pause tonight sniff scatter foam calm kick entry exhibit gas movie";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct pyramid surge ginger asset mom they inherit tennis answer real type";
+var mnemonic = "blouse apart cube topic board basic seminar online oak crater night head";

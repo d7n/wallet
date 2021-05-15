@@ -1,1 +1,1 @@
-var mnemonic = "dynamic canvas autumn dizzy expand student bulb they make melt patient glance";
+var mnemonic = "essay rule eight true adjust soft tragic shop veteran right sick comfort";

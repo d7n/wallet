@@ -1,1 +1,1 @@
-var mnemonic = "repeat return cheese indoor found upgrade found oven gather point abandon dinosaur";
+var mnemonic = "doctor where photo noodle can one under fiscal regular pink artefact among";

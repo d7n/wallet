@@ -1,1 +1,1 @@
-var mnemonic = "anxiety tragic scout test answer tag census receive pair news fog rally";
+var mnemonic = "onion pioneer gloom scheme pledge section olympic impulse sentence tool farm desk";

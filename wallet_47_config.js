@@ -1,1 +1,1 @@
-var mnemonic = "tree soccer report vocal tumble evil retreat recycle rain reform defy silent";
+var mnemonic = "tail enjoy close annual deputy enhance have smoke hat ten pair sea";

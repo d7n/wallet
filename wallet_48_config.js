@@ -1,1 +1,1 @@
-var mnemonic = "thunder gauge quarter gym gentle culture palace dice seek pony turkey dad";
+var mnemonic = "explain paper rule shoulder party attack absorb unfold curve rain emerge index";

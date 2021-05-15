@@ -1,1 +1,1 @@
-var mnemonic = "spike journey advice juice cliff hard salute wish regular obscure view web";
+var mnemonic = "catalog message route victory sweet cinnamon funny mixture glove hold spray comic";

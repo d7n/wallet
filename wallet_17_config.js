@@ -1,1 +1,1 @@
-var mnemonic = "thank phone tool steel traffic sure urge home theory matrix pave deal";
+var mnemonic = "spirit width path disagree sign aisle kind state pluck illness gorilla jump";

@@ -1,1 +1,1 @@
-var mnemonic = "oval mushroom stuff velvet relax chronic tip warm juice note staff kitchen";
+var mnemonic = "soon loyal bounce lawn crew into legal decade finger bottom maximum floor";

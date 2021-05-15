@@ -1,1 +1,1 @@
-var mnemonic = "spawn panel usual lecture mobile receive faith hurry clerk inform dial mixed";
+var mnemonic = "traffic you vacant prison license novel chimney term wasp inside consider witness";

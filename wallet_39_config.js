@@ -1,1 +1,1 @@
-var mnemonic = "that better strike exile yellow home toilet diet laundry board skate online";
+var mnemonic = "toward galaxy lunar draft truth never expose nuclear another hammer problem deny";

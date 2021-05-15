@@ -1,1 +1,1 @@
-var mnemonic = "crowd solar jungle earn female vapor document marble about grain ancient veteran";
+var mnemonic = "lend network swamp ceiling olympic squirrel demand radar truck material neutral end";

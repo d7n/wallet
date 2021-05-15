@@ -1,1 +1,1 @@
-var mnemonic = "wisdom change never uphold stuff rice hen believe embody film theory beach";
+var mnemonic = "jacket punch elbow phrase burst decide spoon quarter pond lava unfair corn";

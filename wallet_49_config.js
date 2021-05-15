@@ -1,1 +1,1 @@
-var mnemonic = "fox build act camp catch donor surround rabbit foam poet hair loop";
+var mnemonic = "rent silver nominee change cactus express game later feed crane human drill";

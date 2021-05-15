@@ -1,1 +1,1 @@
-var mnemonic = "dwarf bicycle arch own card craft depth physical build cube fantasy error";
+var mnemonic = "diary method tomato cruise inhale season stool talk occur gun pistol seven";

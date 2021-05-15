@@ -1,1 +1,1 @@
-var mnemonic = "simple garage describe sibling casino spawn wine nasty lucky language exact another";
+var mnemonic = "repair husband universe arrest into key hollow year indicate slam venture forum";

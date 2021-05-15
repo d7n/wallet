@@ -1,1 +1,1 @@
-var mnemonic = "inch weather promote doctor guitar truck talk claw like belt retire marriage";
+var mnemonic = "tourist robot suit merry grape lab video ginger design surround also stage";

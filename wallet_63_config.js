@@ -1,1 +1,1 @@
-var mnemonic = "because spoil mention injury core exact tornado social tail tonight blame helmet";
+var mnemonic = "round recall muscle patch actress pluck regret destroy hazard main leisure vault";

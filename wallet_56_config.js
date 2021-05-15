@@ -1,1 +1,1 @@
-var mnemonic = "emotion street have hunt glow manage beef tongue ability gorilla patient clerk";
+var mnemonic = "upgrade village six donor cabin inform smoke depth allow rigid sail equip";

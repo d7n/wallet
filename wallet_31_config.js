@@ -1,1 +1,1 @@
-var mnemonic = "away daring damage wife obvious carpet dice ramp crisp taste whip maple";
+var mnemonic = "cross violin market inform unlock glue produce fever market dove dream antenna";

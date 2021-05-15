@@ -1,1 +1,1 @@
-var mnemonic = "final evidence flip tilt bleak result ginger real write goddess truth fine";
+var mnemonic = "thrive museum basic tongue depart ill weekend voyage better bicycle click dune";

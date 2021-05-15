@@ -1,1 +1,1 @@
-var mnemonic = "family program broom rib similar wool wife jazz renew soldier myself monkey";
+var mnemonic = "sudden cherry sleep broken pyramid universe comfort only swamp shed soldier saddle";

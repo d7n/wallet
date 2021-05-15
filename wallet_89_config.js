@@ -1,1 +1,1 @@
-var mnemonic = "sock ancient soldier depend sleep garbage swap vast spider fame symbol lizard";
+var mnemonic = "toddler sail false else stick usual doctor alarm month chicken post feed";

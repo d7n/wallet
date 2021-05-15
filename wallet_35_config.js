@@ -1,1 +1,1 @@
-var mnemonic = "celery kiwi diesel width note over ranch peasant nominee gospel toy myth";
+var mnemonic = "earth mammal ride swarm fetch reflect glimpse cushion liar inflict pave inherit";

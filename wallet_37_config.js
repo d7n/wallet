@@ -1,1 +1,1 @@
-var mnemonic = "zoo crew excuse spray hill repeat gentle cereal burden goddess whisper solution";
+var mnemonic = "intact pink choose swim soap street simple orient horse vocal clutch ship";

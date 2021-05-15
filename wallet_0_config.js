@@ -1,1 +1,1 @@
-var mnemonic = "soda wish cream broccoli upon cinnamon file promote gesture bike present milk";
+var mnemonic = "shuffle salt swift hood antenna island pilot surround arrest about improve success";

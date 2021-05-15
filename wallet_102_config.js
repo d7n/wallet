@@ -1,1 +1,1 @@
-var mnemonic = "wall surface flock flash embrace crucial square easily comic river soap know";
+var mnemonic = "curve bright steak match ahead left enable tray point picnic foam pause";

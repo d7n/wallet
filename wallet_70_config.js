@@ -1,1 +1,1 @@
-var mnemonic = "predict make visual recipe coach jacket valid oyster gauge dismiss case whisper";
+var mnemonic = "dawn climb grace ability flash ill dismiss finger praise below crater spawn";

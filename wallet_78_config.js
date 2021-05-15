@@ -1,1 +1,1 @@
-var mnemonic = "crew capital panel final gallery ensure royal balcony trend face jump end";
+var mnemonic = "armed fiber giant few beach crowd sausage crane catalog special vibrant addict";

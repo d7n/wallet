@@ -1,1 +1,1 @@
-var mnemonic = "champion page rack nephew section first rain inch endorse index daughter search";
+var mnemonic = "rain load find only antique primary skirt weapon that pink prefer shoe";

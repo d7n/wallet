@@ -1,1 +1,1 @@
-var mnemonic = "index hole east lucky vivid vicious patch behind exclude total clip marriage";
+var mnemonic = "spawn enjoy problem chase hub coyote quantum hero humor purity weasel crew";

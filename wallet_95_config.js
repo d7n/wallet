@@ -1,1 +1,1 @@
-var mnemonic = "float case shell snack potato unlock popular canyon midnight style weapon leisure";
+var mnemonic = "wink beyond sponsor absent soldier pause drill axis exist unable maximum name";

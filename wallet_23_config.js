@@ -1,1 +1,1 @@
-var mnemonic = "soup elephant disorder permit giant one fragile carry dial cup shoulder shed";
+var mnemonic = "earn adapt soup task another slush army sting used rich comfort lab";

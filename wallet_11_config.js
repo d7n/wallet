@@ -1,1 +1,1 @@
-var mnemonic = "donate cradle spike stem cabbage wheat viable predict inside topple parrot unfold";
+var mnemonic = "secret extra tired bridge width own street bring common ring harvest purchase";

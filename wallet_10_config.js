@@ -1,1 +1,1 @@
-var mnemonic = "battle spoon habit beach vivid engage relax remember emerge rescue twelve rapid";
+var mnemonic = "gossip defy siege stage air diesel venture picnic shed found marine draw";

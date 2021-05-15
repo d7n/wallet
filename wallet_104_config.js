@@ -1,1 +1,1 @@
-var mnemonic = "resource vehicle model host mean electric debris praise you humble cotton breeze";
+var mnemonic = "leaf ocean road head field okay carpet keep share lazy isolate discover";

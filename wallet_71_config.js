@@ -1,1 +1,1 @@
-var mnemonic = "hub usual high path chaos risk advice assist betray taxi cactus hood";
+var mnemonic = "lyrics impact shop nose athlete sister tail palm together team option vessel";

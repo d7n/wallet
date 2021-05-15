@@ -1,1 +1,1 @@
-var mnemonic = "oak warrior crunch glow metal ahead area busy wreck evolve blanket best";
+var mnemonic = "love eternal tree segment focus myth jelly muffin extra slot insect silent";

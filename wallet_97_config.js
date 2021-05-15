@@ -1,1 +1,1 @@
-var mnemonic = "solid grant beyond profit prison conduct hobby tube rose equip like glad";
+var mnemonic = "artefact october idle behind click impulse until heavy warfare access pole vault";

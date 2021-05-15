@@ -1,1 +1,1 @@
-var mnemonic = "where dry cloth dinner arrow grain cook open various wire weekend senior";
+var mnemonic = "gain hour mean grape wheat clutch close humor notable omit wall topic";

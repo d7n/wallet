@@ -1,1 +1,1 @@
-var mnemonic = "submit love island canal coach fabric wrist immense gospel price peasant math";
+var mnemonic = "object shift elder naive bulb wedding flower neither weird skull bronze used";

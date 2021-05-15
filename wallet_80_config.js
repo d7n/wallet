@@ -1,1 +1,1 @@
-var mnemonic = "unique never credit panda ticket dial ability pony equal citizen fruit misery";
+var mnemonic = "afraid state mango joy lounge civil distance prosper crumble master card index";

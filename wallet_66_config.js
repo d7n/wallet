@@ -1,1 +1,1 @@
-var mnemonic = "invite glad jar pupil swing layer hedgehog drill large enact dog forum";
+var mnemonic = "outer lumber erosion evolve nice machine trigger foot inside hope kangaroo safe";

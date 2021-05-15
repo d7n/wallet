@@ -1,1 +1,1 @@
-var mnemonic = "year wrong decline holiday sample forward draw reduce orange risk useful friend";
+var mnemonic = "grant joke rib believe govern catalog income beef super craft pen test";

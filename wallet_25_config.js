@@ -1,1 +1,1 @@
-var mnemonic = "ecology puppy peanut cry roof liar teach high vintage fancy aerobic unaware";
+var mnemonic = "submit dice cabin orbit certain emotion ride april frown lawsuit oval welcome";

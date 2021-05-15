@@ -1,1 +1,1 @@
-var mnemonic = "shrug emotion wagon behave blouse wear top cook wrestle isolate evoke choice";
+var mnemonic = "leader witness lake later security three sugar verb occur put phone polar";

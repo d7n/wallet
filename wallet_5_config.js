@@ -1,1 +1,1 @@
-var mnemonic = "enough oxygen vault thank erosion neutral apple army trigger sustain scrub sting";
+var mnemonic = "photo imitate section curve amount vessel dust three vibrant frost useful sadness";

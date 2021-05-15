@@ -1,1 +1,1 @@
-var mnemonic = "endless flavor age also target donkey total pulse potato unveil primary tip";
+var mnemonic = "bicycle lucky glass mistake there card pottery bracket rice wife minute paper";

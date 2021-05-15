@@ -1,1 +1,1 @@
-var mnemonic = "urge vocal harsh plug essence section property flat gorilla welcome dance miracle";
+var mnemonic = "suspect eagle protect birth crush develop enhance manage all speak drastic hand";

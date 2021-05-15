@@ -1,1 +1,1 @@
-var mnemonic = "throw field offer autumn debris expose unit clutch monster pumpkin drip caught";
+var mnemonic = "spend enable marble vacuum join fossil capable motion virtual monkey flip there";

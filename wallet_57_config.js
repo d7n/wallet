@@ -1,1 +1,1 @@
-var mnemonic = "swim strong flight remain license avoid glow moment title siege during sign";
+var mnemonic = "advice material humor main soup wool dust olympic strategy old example reunion";

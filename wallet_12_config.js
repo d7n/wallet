@@ -1,1 +1,1 @@
-var mnemonic = "trust noise fly nose basic danger elegant tattoo exile consider accuse shift";
+var mnemonic = "ten pave hero credit guess jacket comfort poet occur dust antique suspect";

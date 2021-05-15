@@ -1,1 +1,1 @@
-var mnemonic = "scale rose try churn senior ability quick unusual hidden defy mandate around";
+var mnemonic = "grab purpose december mule rate shield correct length clap boss cycle soda";

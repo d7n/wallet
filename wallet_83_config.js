@@ -1,1 +1,1 @@
-var mnemonic = "praise lottery nut cruel celery brief sphere step general sketch mutual dumb";
+var mnemonic = "capable vault toward bunker sound session cabin tilt list often rescue radio";

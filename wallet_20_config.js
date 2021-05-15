@@ -1,1 +1,1 @@
-var mnemonic = "guilt lunch own recall crazy deputy snap trigger shrug wide flavor deal";
+var mnemonic = "suffer town double occur will gospel together man quality girl usage help";

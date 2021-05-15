@@ -1,1 +1,1 @@
-var mnemonic = "awesome atom marble invite rubber hundred depend health shadow swift answer hamster";
+var mnemonic = "dentist daring barrel flash ride swear inspire lock repeat vicious best nephew";

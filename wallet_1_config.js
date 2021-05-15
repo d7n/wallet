@@ -1,1 +1,1 @@
-var mnemonic = "balance tomorrow dad diamond educate supreme science blue destroy huge orange human";
+var mnemonic = "horror ski then check slow neck jewel task pupil vendor tornado hill";

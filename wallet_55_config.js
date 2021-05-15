@@ -1,1 +1,1 @@
-var mnemonic = "police custom pull talk this destroy essay inch question carpet smooth follow";
+var mnemonic = "garlic broken height north fly fall loyal sick lottery candy rain lazy";

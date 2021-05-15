@@ -1,1 +1,1 @@
-var mnemonic = "country strong intact old either whisper object dumb velvet cheap either thank";
+var mnemonic = "fog fun sound long coyote clean month craft use throw worth lake";

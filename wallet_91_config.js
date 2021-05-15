@@ -1,1 +1,1 @@
-var mnemonic = "cake great phone legend also capital wear already alert again sad disagree";
+var mnemonic = "about iron soul demise famous awesome manage fix chicken strategy artwork abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "expect unfair proof practice switch champion regret box bless ship shed february";
+var mnemonic = "hen wing pave project purity floor crowd train jelly cook empower modify";

@@ -1,1 +1,1 @@
-var mnemonic = "damp vault soup frequent frequent dilemma typical slogan crush shaft soft apology";
+var mnemonic = "finger tail wrestle brain giant solve sketch fury ivory charge protect defy";

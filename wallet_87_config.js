@@ -1,1 +1,1 @@
-var mnemonic = "smart settle logic collect kiwi pitch among leaf arctic kiwi student brand";
+var mnemonic = "quantum sad document grief staff ozone security gaze cave drum train admit";

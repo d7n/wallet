@@ -1,1 +1,1 @@
-var mnemonic = "faculty road tape gesture swear lemon mistake breeze scissors toast tonight mystery";
+var mnemonic = "finger liquid blur intact rescue alpha ill liberty similar very mom elite";

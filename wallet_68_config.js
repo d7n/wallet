@@ -1,1 +1,1 @@
-var mnemonic = "net horn prevent lift hidden evoke circle buzz begin leopard sound ride";
+var mnemonic = "hello glove will day sound legal index lobster gossip urge jar wear";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal cancel hill weapon ozone question obvious verify modify carry tide square";
+var mnemonic = "robust begin stage divorce basic rally focus relief faint nature myth cruise";

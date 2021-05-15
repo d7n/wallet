@@ -1,1 +1,1 @@
-var mnemonic = "evidence gentle doctor knee soda lab grit similar melody alter group distance";
+var mnemonic = "report trophy limb coconut fame learn discover ranch refuse elegant slim robot";

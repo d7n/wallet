@@ -1,1 +1,1 @@
-var mnemonic = "flag napkin primary donate surprise sense stadium amount clump simple hunt pave";
+var mnemonic = "destroy protect toy aunt mistake sure million culture winner trade scheme between";

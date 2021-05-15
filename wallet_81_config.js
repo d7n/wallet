@@ -1,1 +1,1 @@
-var mnemonic = "diamond version business average they build adult offer brain account issue olive";
+var mnemonic = "few picnic honey dizzy core deliver chase ribbon huge danger neglect famous";
