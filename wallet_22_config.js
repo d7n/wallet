@@ -1,1 +1,1 @@
-var mnemonic = "monkey thought actual regular siege theory judge angry session sun walk sketch";
+var mnemonic = "where canvas affair deputy save dust cereal word toss alcohol under morning";

@@ -1,1 +1,1 @@
-var mnemonic = "range diesel congress orbit topple plunge column pottery tomorrow egg rail bring";
+var mnemonic = "leave cube convince noise half feel start audit butter diesel blue fog";

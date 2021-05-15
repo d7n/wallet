@@ -1,1 +1,1 @@
-var mnemonic = "scale habit air victory tiger derive crane flavor donor choose symbol dose";
+var mnemonic = "kite echo cat air menu yellow erupt action also omit diagram three";

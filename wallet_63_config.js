@@ -1,1 +1,1 @@
-var mnemonic = "slot yellow advance road suit ten room ice slot neither ball occur";
+var mnemonic = "little chief naive common inform found announce auto faint near lava talk";

@@ -1,1 +1,1 @@
-var mnemonic = "much carbon knife pioneer indoor slab acoustic credit riot oval sad usage";
+var mnemonic = "flee oyster doctor mercy place build enhance vocal argue cradle security boss";

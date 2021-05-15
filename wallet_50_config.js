@@ -1,1 +1,1 @@
-var mnemonic = "jar own bean absorb all afraid bright vocal action mutual sketch horn";
+var mnemonic = "bitter balcony bronze broom total enforce glove peasant axis zebra steel pole";

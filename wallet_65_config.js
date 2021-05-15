@@ -1,1 +1,1 @@
-var mnemonic = "opinion true celery fork grief casino impulse permit need lunar express april";
+var mnemonic = "hood crime wheel bag room profit miracle define knife famous olympic purity";

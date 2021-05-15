@@ -1,1 +1,1 @@
-var mnemonic = "motion palm ostrich priority able crater gossip worry limb coral vendor crumble";
+var mnemonic = "home lucky peace bacon mandate canyon syrup captain jungle club dutch cross";

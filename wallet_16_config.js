@@ -1,1 +1,1 @@
-var mnemonic = "fatigue behind escape vacuum slim weapon settle innocent carbon sponsor stage cloud";
+var mnemonic = "perfect guide blush puppy alter fish more earth train east release guess";

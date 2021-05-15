@@ -1,1 +1,1 @@
-var mnemonic = "cigar evil viable leader sudden cute canoe sketch voyage cupboard panda broccoli";
+var mnemonic = "category swamp swamp lunch seat calm wasp resist ceiling stool critic cart";

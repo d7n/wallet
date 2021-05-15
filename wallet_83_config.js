@@ -1,1 +1,1 @@
-var mnemonic = "remove rely case symbol wage wrap secret search suspect special cradle peace";
+var mnemonic = "route journey glass shift puzzle flush organ knee click state tourist weather";

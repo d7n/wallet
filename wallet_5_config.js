@@ -1,1 +1,1 @@
-var mnemonic = "domain hurdle artist keep brave figure tuition evoke renew manage rent raise";
+var mnemonic = "install lottery chronic dinner antique coast gossip dash alert source job bean";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal magic ordinary admit remain crisp jealous climb glide there divide race";
+var mnemonic = "charge neither blur remove slush student spring orient rapid height ring legal";

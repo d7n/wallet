@@ -1,1 +1,1 @@
-var mnemonic = "venture light wreck sponsor slam minute survey wrestle satisfy rabbit bind mobile";
+var mnemonic = "hair question identify exact skirt range try plug alley dilemma spoon luggage";

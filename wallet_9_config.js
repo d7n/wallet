@@ -1,1 +1,1 @@
-var mnemonic = "basket mass axis property bargain outside skate where net collect tilt sniff";
+var mnemonic = "picnic soap dragon gather vacuum simple dove hidden course hand brush sure";

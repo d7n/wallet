@@ -1,1 +1,1 @@
-var mnemonic = "priority expand evoke various perfect swamp pencil bus wood hip garage lazy";
+var mnemonic = "actual wedding property rubber evidence crunch defense pizza flame clean gift trust";

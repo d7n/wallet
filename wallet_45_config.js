@@ -1,1 +1,1 @@
-var mnemonic = "add session enhance chair lawn fall large scene credit security innocent cattle";
+var mnemonic = "sad draft idle elite record rally bring raven patient pool video seed";

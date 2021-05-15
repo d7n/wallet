@@ -1,1 +1,1 @@
-var mnemonic = "advance jar tower spice bench torch say trial initial drastic rotate negative";
+var mnemonic = "crane pulp steak give float weird jeans please home project power inject";

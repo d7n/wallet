@@ -1,1 +1,1 @@
-var mnemonic = "square glimpse stomach craft knee version fringe mind inform spatial pet rifle";
+var mnemonic = "focus parrot total juice media shop embody soccer surprise flag uphold valve";

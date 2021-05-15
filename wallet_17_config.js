@@ -1,1 +1,1 @@
-var mnemonic = "shell gorilla tuition man increase garment grunt carry bamboo symbol want broom";
+var mnemonic = "man violin humble drum total fog increase fly quiz fresh humble glory";

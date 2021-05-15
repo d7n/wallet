@@ -1,1 +1,1 @@
-var mnemonic = "elephant canvas earn nice joy weekend bar frozen fever agree transfer august";
+var mnemonic = "catalog stage remember collect trumpet fluid pluck bargain mind rigid absorb arrange";

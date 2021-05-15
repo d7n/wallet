@@ -1,1 +1,1 @@
-var mnemonic = "announce game miss misery bomb silent donkey crash decrease chase fresh where";
+var mnemonic = "kiwi two hurt garbage marriage globe wait nation crush slice whisper manual";

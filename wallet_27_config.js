@@ -1,1 +1,1 @@
-var mnemonic = "split giraffe unhappy soda drip nominee own power gasp swim soccer quit";
+var mnemonic = "shield pass agree sausage accuse park wage bright topple question tackle sponsor";

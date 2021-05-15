@@ -1,1 +1,1 @@
-var mnemonic = "cream unfair sustain safe reform hazard jaguar coffee sadness invest shove tree";
+var mnemonic = "divorce attend asthma major fortune old shiver burden order author armed ready";

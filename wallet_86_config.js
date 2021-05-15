@@ -1,1 +1,1 @@
-var mnemonic = "silver waste indicate best rural duty small power kite gentle edit cat";
+var mnemonic = "siege wink drum faint leaf match grace skin green festival crew layer";

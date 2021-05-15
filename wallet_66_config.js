@@ -1,1 +1,1 @@
-var mnemonic = "rapid mercy give napkin ten segment decline peanut define hurdle media whale";
+var mnemonic = "toast unknown thunder slice tool other credit differ dentist spawn hazard forest";

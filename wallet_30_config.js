@@ -1,1 +1,1 @@
-var mnemonic = "mom autumn kitchen forward family split bright frown shadow blast proof morning";
+var mnemonic = "fatal lawsuit satoshi scrub torch resource museum snake sea toddler conduct achieve";

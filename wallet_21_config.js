@@ -1,1 +1,1 @@
-var mnemonic = "skirt assist fossil evil pigeon athlete movie panel couch road cabbage snake";
+var mnemonic = "end apple rich paddle sustain feel clinic wreck swift wash animal mansion";

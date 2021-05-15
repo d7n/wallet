@@ -1,1 +1,1 @@
-var mnemonic = "april model squeeze awake frost topple brother badge topic cart artist cruise";
+var mnemonic = "spare guard mule elephant visit involve fragile movie usual cable upgrade pact";

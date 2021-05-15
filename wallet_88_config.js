@@ -1,1 +1,1 @@
-var mnemonic = "cloth year crisp such brother charge skull cave baby top melt prepare";
+var mnemonic = "mansion distance tunnel crawl predict ridge stumble regret soccer race rib surface";

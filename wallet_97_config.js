@@ -1,1 +1,1 @@
-var mnemonic = "smooth lock vessel crazy clump friend memory vintage advance initial despair bean";
+var mnemonic = "boss change monkey ketchup indoor copy become life drive any rubber fine";

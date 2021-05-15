@@ -1,1 +1,1 @@
-var mnemonic = "offer lend swear trophy copy weasel high canal stand silver unable flash";
+var mnemonic = "maze critic reform across cube ability coast unlock bleak disagree leisure focus";

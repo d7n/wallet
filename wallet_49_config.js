@@ -1,1 +1,1 @@
-var mnemonic = "improve inherit pitch bunker bleak area pluck just hen scare despair offer";
+var mnemonic = "grass neutral arrow amateur estate kitchen another reason victory buzz practice naive";

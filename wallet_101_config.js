@@ -1,1 +1,1 @@
-var mnemonic = "mountain column sand barely cargo clip middle mechanic attack air general simple";
+var mnemonic = "civil this unusual coast exchange style comfort marine blue perfect worry obey";

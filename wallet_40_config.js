@@ -1,1 +1,1 @@
-var mnemonic = "jungle magic cactus jealous spread hat loyal book flush ladder dove mix";
+var mnemonic = "daughter able shine century harvest argue myth marble cliff gossip nature squeeze";

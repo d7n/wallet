@@ -1,1 +1,1 @@
-var mnemonic = "any spice split modify better wheat horn popular media treat hidden inform";
+var mnemonic = "vibrant useful that prize travel clinic robust worth erode minimum cushion seat";

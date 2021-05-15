@@ -1,1 +1,1 @@
-var mnemonic = "quantum place jaguar accuse flight home marriage banana music gate obvious place";
+var mnemonic = "brisk surge beef square idea title three wing run item level obey";

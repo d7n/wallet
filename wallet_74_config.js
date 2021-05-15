@@ -1,1 +1,1 @@
-var mnemonic = "unknown report trial gas thank earth siege base dutch setup cover render";
+var mnemonic = "rare want silver village reflect couple word second future property panic feed";

@@ -1,1 +1,1 @@
-var mnemonic = "phone mail north art cousin tide ready govern ignore song sphere entry";
+var mnemonic = "cradle force piano two injury nest camera glimpse black usage stable guitar";

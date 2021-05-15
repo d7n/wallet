@@ -1,1 +1,1 @@
-var mnemonic = "game office mansion glad chat pair pulse city lab word enroll pyramid";
+var mnemonic = "cover fabric try snow text prefer rare morning sausage track cherry ticket";

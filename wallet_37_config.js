@@ -1,1 +1,1 @@
-var mnemonic = "obey salad disorder fork alert off garage vivid twist ketchup few cover";
+var mnemonic = "asset income tribe glad hamster owner north there invite bench mail pretty";

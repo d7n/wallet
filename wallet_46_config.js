@@ -1,1 +1,1 @@
-var mnemonic = "zero alley cereal tattoo guitar never silver path roast business ecology more";
+var mnemonic = "negative suffer chimney capital damp minimum leaf dentist hub pottery relief remember";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle what short poverty rain dizzy jeans mosquito worth tower almost silver";
+var mnemonic = "drink render ivory shy gather style shiver just battle spice cargo twelve";

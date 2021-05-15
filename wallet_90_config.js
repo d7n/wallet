@@ -1,1 +1,1 @@
-var mnemonic = "uncover alert sail symptom run window foster street seven cross space rookie";
+var mnemonic = "slender beef lion fold someone example leg cannon dignity cool fruit leave";

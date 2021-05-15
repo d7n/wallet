@@ -1,1 +1,1 @@
-var mnemonic = "crush common garden fence trial chief skull purity large tuna glimpse razor";
+var mnemonic = "town field order emerge huge regret actor width female endless mask flame";

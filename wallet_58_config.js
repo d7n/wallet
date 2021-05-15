@@ -1,1 +1,1 @@
-var mnemonic = "glance tragic artwork mansion pony visit dose alter fit innocent skill bench";
+var mnemonic = "group toy home crater chicken culture involve slush pizza oyster inquiry loyal";

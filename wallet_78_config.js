@@ -1,1 +1,1 @@
-var mnemonic = "text ill benefit curious first erase snake album kidney trade master tourist";
+var mnemonic = "hurry special hover truck scrap salmon also time envelope early south mango";

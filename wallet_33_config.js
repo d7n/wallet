@@ -1,1 +1,1 @@
-var mnemonic = "symbol manual habit agree rural opinion iron attend barrel phrase ice inmate";
+var mnemonic = "caution rare decrease battle remind main proof super critic leopard excuse chronic";

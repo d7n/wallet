@@ -1,1 +1,1 @@
-var mnemonic = "middle differ float bundle pyramid gather judge project just almost mountain cactus";
+var mnemonic = "clerk shift shaft senior custom onion afford green foil air sure achieve";

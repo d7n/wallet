@@ -1,1 +1,1 @@
-var mnemonic = "ten door morning just stock gate pave swing spirit arctic spy water";
+var mnemonic = "gauge history enough first sister surge comfort over hungry three update chronic";

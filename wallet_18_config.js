@@ -1,1 +1,1 @@
-var mnemonic = "sing garage maximum summer zone romance cat repeat reveal mixed flight waste";
+var mnemonic = "orange sketch display romance lunar pair cat cotton history face wear edge";

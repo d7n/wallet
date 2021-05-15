@@ -1,1 +1,1 @@
-var mnemonic = "hurry foster inner grain address aspect name voyage rose base uncover labor";
+var mnemonic = "enjoy baby pudding arrive pole rhythm stable until lobster wide when duty";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury venture empower margin enjoy curve trash mention olympic transfer news list";
+var mnemonic = "tumble ready vacant actor prepare remember trap fiscal title battle wet before";

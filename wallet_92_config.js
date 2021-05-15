@@ -1,1 +1,1 @@
-var mnemonic = "anchor teach betray olympic zone later myself patient salmon fiber wife moment";
+var mnemonic = "knife setup member dumb uncover toast wear crash angry spike anchor wisdom";

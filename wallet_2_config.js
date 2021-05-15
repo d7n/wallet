@@ -1,1 +1,1 @@
-var mnemonic = "opera cheap romance system repair chase fabric joke pink despair napkin bench";
+var mnemonic = "group glass gentle benefit betray month kitten monitor thrive client breeze detect";

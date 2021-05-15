@@ -1,1 +1,1 @@
-var mnemonic = "pony dismiss flight maximum joy wink travel vacuum naive observe craft kitchen";
+var mnemonic = "because bonus winter repair eternal rally mountain state real author tattoo thought";

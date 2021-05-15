@@ -1,1 +1,1 @@
-var mnemonic = "bacon volcano frog toe arch reunion loan frozen feature saddle narrow label";
+var mnemonic = "bitter prize churn harbor world topic gaze brand pave danger scissors moment";

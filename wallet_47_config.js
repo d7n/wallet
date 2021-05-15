@@ -1,1 +1,1 @@
-var mnemonic = "dinner liberty fly quarter mail van cloud thought debate vessel claim hidden";
+var mnemonic = "holiday sausage safe arrive cook dolphin clutch work pool tunnel amount minimum";

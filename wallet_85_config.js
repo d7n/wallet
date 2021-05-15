@@ -1,1 +1,1 @@
-var mnemonic = "giant swarm equip involve series flame change impact scheme scissors denial flight";
+var mnemonic = "forest gap over token link knife bright piano follow planet olympic what";

@@ -1,1 +1,1 @@
-var mnemonic = "axis tonight uniform actual stove guide season correct myth time dial gather";
+var mnemonic = "make chair menu ozone merry spring glide basket link logic forward shop";

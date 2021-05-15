@@ -1,1 +1,1 @@
-var mnemonic = "soft omit repair alpha cigar material panther hat notice theory shiver hole";
+var mnemonic = "desert meadow silk ceiling brother garage tank target razor trade emotion silent";

@@ -1,1 +1,1 @@
-var mnemonic = "power flight cause shaft output inflict doctor steak antique gloom organ ankle";
+var mnemonic = "nature wood shock wire label sword pond repair carry tackle gun fossil";

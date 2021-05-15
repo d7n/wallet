@@ -1,1 +1,1 @@
-var mnemonic = "distance vibrant naive basket buddy local milk strategy champion luggage any satoshi";
+var mnemonic = "resist flash error until endorse fame jealous assault person winner blame funny";

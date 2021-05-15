@@ -1,1 +1,1 @@
-var mnemonic = "motion toast kingdom response forward gain scrap spy meadow door love mom";
+var mnemonic = "loyal craft wool pear profit win slot dilemma cousin pool legal unit";

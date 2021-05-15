@@ -1,1 +1,1 @@
-var mnemonic = "dove input crime motor august owner goat drill rule castle fringe stage";
+var mnemonic = "axis early lottery clump habit predict onion month net treat toilet rail";

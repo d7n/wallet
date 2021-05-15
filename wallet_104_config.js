@@ -1,1 +1,1 @@
-var mnemonic = "grab chunk same bottom fly much ask ahead laundry solar smile bind";
+var mnemonic = "cloth arctic mixed milk maid sting churn ring uncle coyote nephew melody";

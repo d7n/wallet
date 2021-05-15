@@ -1,1 +1,1 @@
-var mnemonic = "carry visual portion pigeon coast circle spawn giggle radar invite people upgrade";
+var mnemonic = "enemy canal service brother treat garment six garage health because enjoy unhappy";

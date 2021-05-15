@@ -1,1 +1,1 @@
-var mnemonic = "diagram second elite normal corn keep morning ancient install task vintage fire";
+var mnemonic = "smile grace fetch device kiss bicycle trust pass furnace trick rule snake";

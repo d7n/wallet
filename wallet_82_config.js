@@ -1,1 +1,1 @@
-var mnemonic = "candy primary grant mountain tip minimum upper loan pet purity pride avocado";
+var mnemonic = "error payment tilt tent click bleak ripple arena option runway pottery humor";

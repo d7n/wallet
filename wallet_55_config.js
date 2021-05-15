@@ -1,1 +1,1 @@
-var mnemonic = "crater extra cube potato foam build defy erupt master inquiry violin peasant";
+var mnemonic = "poet year upon life quit imitate service outside need scrub cage gospel";

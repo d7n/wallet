@@ -1,1 +1,1 @@
-var mnemonic = "awake drama ring differ velvet glad patch stove blossom chimney book below";
+var mnemonic = "coil neither reveal fiber weather twin avoid weekend letter vacuum neutral describe";

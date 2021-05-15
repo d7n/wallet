@@ -1,1 +1,1 @@
-var mnemonic = "fitness flat please crouch grant palm drama afford path stay already cook";
+var mnemonic = "young limb cattle patch magnet grow pole margin evil indicate spray large";

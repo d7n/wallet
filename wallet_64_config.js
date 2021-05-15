@@ -1,1 +1,1 @@
-var mnemonic = "dry banner token noble embark enact desk rotate dad token speak tilt";
+var mnemonic = "cargo over puzzle spell garbage news climb gorilla poem donate bring voyage";

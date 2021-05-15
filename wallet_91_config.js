@@ -1,1 +1,1 @@
-var mnemonic = "level novel because master wool kind vendor ginger short strategy firm imitate";
+var mnemonic = "cherry brass can emerge walk prefer print feature require foot jealous spare";

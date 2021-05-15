@@ -1,1 +1,1 @@
-var mnemonic = "rate mask spring walk faculty mother spatial blush bottom spatial wolf bullet";
+var mnemonic = "rare company network ball gas cruise cushion symbol float doctor trim wrist";

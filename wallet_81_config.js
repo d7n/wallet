@@ -1,1 +1,1 @@
-var mnemonic = "monster park dress divert thought cliff jump melody okay noise garbage wagon";
+var mnemonic = "athlete upper ivory creek legal sort gun achieve recall track fashion ecology";

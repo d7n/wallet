@@ -1,1 +1,1 @@
-var mnemonic = "fancy symbol woman fine powder young render cousin trophy opinion case mango";
+var mnemonic = "ask enjoy perfect alter bargain mirror pride vicious apart offer space appear";

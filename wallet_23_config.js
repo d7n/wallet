@@ -1,1 +1,1 @@
-var mnemonic = "nominee custom galaxy student chat awkward address recipe angry spider ceiling ritual";
+var mnemonic = "dawn text steak decline into ocean reflect rare twin rib tribe spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "vague rocket absent silver hazard lazy scrap shadow attack inspire focus announce";
+var mnemonic = "unit guitar label snack segment genuine jazz fee giraffe tenant mom blossom";

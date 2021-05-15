@@ -1,1 +1,1 @@
-var mnemonic = "cycle garage heart rhythm vacant credit enjoy brother early world search furnace";
+var mnemonic = "save short march dignity truth proof galaxy faculty obtain seven shove grit";

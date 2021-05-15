@@ -1,1 +1,1 @@
-var mnemonic = "used nut vicious rescue crush chuckle civil nerve dry wash bleak grant";
+var mnemonic = "belt acoustic narrow trial indicate scorpion hurt island suit thumb viable arm";

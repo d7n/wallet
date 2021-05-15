@@ -1,1 +1,1 @@
-var mnemonic = "divert lady link apology sustain gallery weekend marriage endorse endorse happy recipe";
+var mnemonic = "connect author ostrich because move allow ritual unusual dinosaur bunker roof prison";

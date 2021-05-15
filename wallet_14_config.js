@@ -1,1 +1,1 @@
-var mnemonic = "blouse dinosaur slight april domain limit jelly adult average history crunch fiscal";
+var mnemonic = "stool number ankle execute club dinosaur stairs tourist icon poverty usage jaguar";

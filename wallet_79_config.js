@@ -1,1 +1,1 @@
-var mnemonic = "onion hold crouch option melody merge bottom trip hedgehog canal forward match";
+var mnemonic = "clutch neutral double protect canyon connect inform kick reduce alter canyon uncle";

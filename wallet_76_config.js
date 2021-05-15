@@ -1,1 +1,1 @@
-var mnemonic = "banner manual distance account common avoid treat prepare wise laundry advance friend";
+var mnemonic = "wolf program captain hard legend blade course upon sea quiz interest vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "royal embrace hybrid potato hand region bonus success silver glimpse pupil impact";
+var mnemonic = "elbow snack puppy home tribe water before panther rapid roast few slab";

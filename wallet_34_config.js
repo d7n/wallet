@@ -1,1 +1,1 @@
-var mnemonic = "elbow trash stomach job barely slam spoil song glare engine pond taxi";
+var mnemonic = "truck cinnamon exit valve cave scale dry mixed master better stove twice";

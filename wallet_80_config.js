@@ -1,1 +1,1 @@
-var mnemonic = "dutch cash coach beyond swarm teach pitch provide order fitness travel already";
+var mnemonic = "price picture oven salad cave vendor pattern change virus much raw inform";

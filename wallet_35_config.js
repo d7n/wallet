@@ -1,1 +1,1 @@
-var mnemonic = "bright live slim shoe ready vacant canoe festival stereo embody now medal";
+var mnemonic = "idea purchase convince inflict clog heart knife degree inch forum motion couch";

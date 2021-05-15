@@ -1,1 +1,1 @@
-var mnemonic = "imitate drastic erode exit blind front silent oyster earn usual volcano gap";
+var mnemonic = "bicycle bargain category dream interest chief glide fade tilt segment scene glass";

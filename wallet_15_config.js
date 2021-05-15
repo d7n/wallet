@@ -1,1 +1,1 @@
-var mnemonic = "off medal lucky follow echo rate tail enact lawsuit remain arrive great";
+var mnemonic = "grocery basket aim logic pause flight prize impact stick plastic dilemma leave";

@@ -1,1 +1,1 @@
-var mnemonic = "melody neutral swim unit walk entry old rather gesture stock oxygen govern";
+var mnemonic = "that balcony light royal paddle rifle easily garment clay gift nation voice";

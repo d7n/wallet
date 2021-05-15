@@ -1,1 +1,1 @@
-var mnemonic = "deer basic boil silk hazard trophy slice reason chicken surround account between";
+var mnemonic = "book awful wrist add mixture bronze buyer pizza fine demand scale tank";

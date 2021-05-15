@@ -1,1 +1,1 @@
-var mnemonic = "light odor goat list volcano diary stomach impulse faint olympic tissue glove";
+var mnemonic = "dentist slight volcano lamp when fragile damage voyage cluster inject gown parent";
