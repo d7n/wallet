@@ -1,1 +1,1 @@
-var mnemonic = "noise order physical accident focus wing nature damage pause garment margin main";
+var mnemonic = "pottery eight tortoise verb mountain mobile word onion turkey skirt ensure mule";

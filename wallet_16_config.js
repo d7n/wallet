@@ -1,1 +1,1 @@
-var mnemonic = "menu source avocado banner cute slush prison crack jealous ozone level loyal";
+var mnemonic = "goat fruit soap just sick total hair solve cushion pitch project oblige";

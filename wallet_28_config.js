@@ -1,1 +1,1 @@
-var mnemonic = "giraffe wagon prepare account price eye casino install main famous awake can";
+var mnemonic = "connect dinner vacant observe find isolate scheme mule response window sorry major";

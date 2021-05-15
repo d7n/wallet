@@ -1,1 +1,1 @@
-var mnemonic = "artist hurt lucky hawk square enjoy inquiry lesson argue ecology matter away";
+var mnemonic = "health project spirit access taste frost reopen crumble usage butter assist student";

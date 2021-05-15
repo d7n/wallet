@@ -1,1 +1,1 @@
-var mnemonic = "reduce medal candy tail peace inquiry ability dragon arena book thing border";
+var mnemonic = "reward render mad throw have hamster envelope capable sibling absorb analyst path";

@@ -1,1 +1,1 @@
-var mnemonic = "seed odor economy share learn dad mix raw essay item perfect tongue";
+var mnemonic = "project crystal banana chimney catalog talk reject tree confirm display unit pulse";

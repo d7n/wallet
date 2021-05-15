@@ -1,1 +1,1 @@
-var mnemonic = "category volume outside anger december owner define toast excuse sock churn ice";
+var mnemonic = "clever torch short liar dish scare valve total bunker fox never crucial";

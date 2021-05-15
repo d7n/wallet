@@ -1,1 +1,1 @@
-var mnemonic = "genius enough fitness luxury fan hedgehog sausage net wheat elephant play once";
+var mnemonic = "twenty remove rhythm spatial rookie crowd school funny soap twelve rack boss";

@@ -1,1 +1,1 @@
-var mnemonic = "equip hedgehog offer dignity impact melody sad daring priority trouble enjoy situate";
+var mnemonic = "dirt enhance hybrid aerobic manual gentle month symbol guide grant attack budget";

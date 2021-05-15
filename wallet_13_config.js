@@ -1,1 +1,1 @@
-var mnemonic = "park rude tunnel spoon puzzle foster clump equip measure cause common wild";
+var mnemonic = "twice faint lemon door evolve cliff plunge buyer melody margin word boy";

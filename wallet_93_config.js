@@ -1,1 +1,1 @@
-var mnemonic = "six butter solve live wet hood bottom talk blind tone anger ancient";
+var mnemonic = "hollow orchard electric play tag power brand cruise lens olive prison estate";

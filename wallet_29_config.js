@@ -1,1 +1,1 @@
-var mnemonic = "need hollow neither attend slot scale evoke punch short regret rifle yard";
+var mnemonic = "extra split key salmon discover body glance consider faint leisure together spring";

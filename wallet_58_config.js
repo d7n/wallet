@@ -1,1 +1,1 @@
-var mnemonic = "pulp comic cancel fun grid coconut pave doll sibling kiss method creek";
+var mnemonic = "wish virtual river drill mystery clarify giggle bullet slam viable gossip museum";

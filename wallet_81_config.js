@@ -1,1 +1,1 @@
-var mnemonic = "speak duck sail quiz pair recipe someone broom regular jazz wave theme";
+var mnemonic = "runway great slide grow flock galaxy monitor right question cover planet behind";

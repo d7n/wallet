@@ -1,1 +1,1 @@
-var mnemonic = "tool drama silver faculty divorce hole country devote badge noise frozen series";
+var mnemonic = "supply assault sustain salute clean position swallow lion future give obscure panda";

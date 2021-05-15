@@ -1,1 +1,1 @@
-var mnemonic = "replace random hold scale book priority permit casino nerve glare birth law";
+var mnemonic = "window account gun nasty deer tomato magnet metal renew tribe federal prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant tip wolf daring fiber belt exclude blur nature sing struggle chapter";
+var mnemonic = "crush mosquito note come have chronic rifle flush need multiply vocal argue";

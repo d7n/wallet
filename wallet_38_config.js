@@ -1,1 +1,1 @@
-var mnemonic = "expand beyond split soap sheriff code diesel teach cube feel win object";
+var mnemonic = "uniform price father mistake vault explain denial believe license next odor perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "run index search smart rival caution rookie genius gown faith creek clever";
+var mnemonic = "entire giggle payment practice alert lunch spirit sand pear source tortoise rebuild";

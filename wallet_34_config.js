@@ -1,1 +1,1 @@
-var mnemonic = "mirror habit veteran unveil shaft discover radar oval thrive million trick rather";
+var mnemonic = "clever output venue column recall caught ghost quick draw milk disorder cover";

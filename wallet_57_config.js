@@ -1,1 +1,1 @@
-var mnemonic = "bag limb shadow enable idle uphold siren ridge left warrior champion success";
+var mnemonic = "duty view awesome local fence nasty margin ski pumpkin chaos clip fabric";

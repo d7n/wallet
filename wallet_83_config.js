@@ -1,1 +1,1 @@
-var mnemonic = "burger cat shoulder alien special body leg owner ramp object into coast";
+var mnemonic = "artefact upset game task dizzy mixture melt attract involve blossom diamond outer";

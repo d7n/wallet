@@ -1,1 +1,1 @@
-var mnemonic = "green arrow suit height manual gather finish fury drift grit parent donkey";
+var mnemonic = "then puzzle upgrade merry diet forest under venture favorite brush problem denial";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed oxygen gate citizen loyal easily benefit obscure same beef then loyal";
+var mnemonic = "depend afraid boil assume slim miracle erode wing creek exit hundred ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "alone deposit quiz bicycle exotic tortoise grape bunker reform nerve debris scrub";
+var mnemonic = "cousin lock never famous canoe end toe globe arrest gather claim fitness";

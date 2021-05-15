@@ -1,1 +1,1 @@
-var mnemonic = "fetch turn evoke surface eagle infant blanket adapt betray animal miss expire";
+var mnemonic = "confirm defense next duty canvas rebuild monitor myself infant genre mosquito nerve";

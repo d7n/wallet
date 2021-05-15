@@ -1,1 +1,1 @@
-var mnemonic = "protect whip worry lyrics sad mesh panel card wall tenant fence must";
+var mnemonic = "bracket truth army fresh runway medal goat daughter garage owner tired olympic";

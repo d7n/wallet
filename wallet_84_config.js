@@ -1,1 +1,1 @@
-var mnemonic = "audit flower border solve inform enlist orbit climb romance rhythm daring before";
+var mnemonic = "helmet immune dragon thrive magic blossom popular fault note reopen parent ability";

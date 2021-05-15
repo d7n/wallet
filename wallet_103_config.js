@@ -1,1 +1,1 @@
-var mnemonic = "trim social nature elite best pretty drum explain volcano alcohol case garden";
+var mnemonic = "mesh record matrix accuse load junior walk jelly much chair enjoy cool";

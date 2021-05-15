@@ -1,1 +1,1 @@
-var mnemonic = "crowd garment flavor during soft name hood tortoise door donkey pumpkin story";
+var mnemonic = "gym pepper wall aware right scare favorite spot clerk avoid rather inside";

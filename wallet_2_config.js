@@ -1,1 +1,1 @@
-var mnemonic = "unknown window valve render left wagon cream eye rack element away neutral";
+var mnemonic = "neither explain arctic tattoo husband ritual silk home live gloom regret skull";

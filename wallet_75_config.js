@@ -1,1 +1,1 @@
-var mnemonic = "ramp virtual dragon better virtual cake embrace marriage trade dinosaur common fat";
+var mnemonic = "south actual spatial answer vacuum eternal cricket polar sadness twist field scare";

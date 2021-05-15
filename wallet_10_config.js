@@ -1,1 +1,1 @@
-var mnemonic = "gravity team awful capital advice tuna aim flee quick album melt circle";
+var mnemonic = "argue hospital history barrel multiply shadow kiwi finger celery enemy armor grab";

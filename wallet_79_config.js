@@ -1,1 +1,1 @@
-var mnemonic = "angle grow humor buzz miracle shock path actress chef bike same smoke";
+var mnemonic = "december inner emerge razor hidden pizza tray sense oxygen marble cabbage reform";

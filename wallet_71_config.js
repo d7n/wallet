@@ -1,1 +1,1 @@
-var mnemonic = "wage when swallow able hover midnight describe chaos circle mercy bright hurt";
+var mnemonic = "slim dentist various castle sight chief globe behave eternal ghost glance retreat";

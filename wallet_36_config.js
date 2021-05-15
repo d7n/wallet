@@ -1,1 +1,1 @@
-var mnemonic = "purity wet truck shadow assume extra panda swear urban devote whale unknown";
+var mnemonic = "ancient craft route gym silver camera clog trap motion album omit sell";

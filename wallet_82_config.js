@@ -1,1 +1,1 @@
-var mnemonic = "record mad spoil ecology yard brother attack code flight front stand gold";
+var mnemonic = "spend film accident flame series canal catch floor item noise color call";

@@ -1,1 +1,1 @@
-var mnemonic = "service blouse palm quantum rate reform end skin pact rebel private depth";
+var mnemonic = "autumn circle suggest danger address smooth hurt mouse size good title sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "climb turkey life pear seat emerge slush dawn provide tumble equip remain";
+var mnemonic = "maid below unfair utility change mosquito foot list payment put brave later";

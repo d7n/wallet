@@ -1,1 +1,1 @@
-var mnemonic = "road around rival trigger talent despair elite child document kitchen receive hold";
+var mnemonic = "pull polar devote chronic antique enrich rather glove crisp barrel tag universe";

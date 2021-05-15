@@ -1,1 +1,1 @@
-var mnemonic = "risk trigger laptop equip spin tomorrow used work album upgrade escape unveil";
+var mnemonic = "blind depart script unfair soap oil initial suggest gallery push sail prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit viable post chronic duck spray cat ribbon light planet spin play";
+var mnemonic = "supply guitar trade liquid dune useful enemy boat aisle before salad laptop";

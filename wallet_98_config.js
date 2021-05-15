@@ -1,1 +1,1 @@
-var mnemonic = "judge quit truck machine wheat place defense coil asthma initial debris kidney";
+var mnemonic = "maze quick turkey lemon bike decade transfer smooth surprise sentence melody blanket";

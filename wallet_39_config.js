@@ -1,1 +1,1 @@
-var mnemonic = "friend job expand resemble pear grief steak muffin sugar west science gain";
+var mnemonic = "craft sense figure era harbor language month acoustic elevator width mixture animal";

@@ -1,1 +1,1 @@
-var mnemonic = "strike kid inmate glance deer diagram wealth helmet sudden cheap wool cannon";
+var mnemonic = "grow update clarify shove safe employ donate welcome gloom aerobic jump blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle elbow journey process human vague kite mosquito feature elder impulse skate";
+var mnemonic = "oval anxiety drop dove pen globe fat sad food roast what solution";

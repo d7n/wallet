@@ -1,1 +1,1 @@
-var mnemonic = "pledge they clean tongue fitness truth saddle kiss practice drum car head";
+var mnemonic = "photo sauce scheme furnace glory ketchup smoke treat bench vote collect idle";

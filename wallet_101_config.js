@@ -1,1 +1,1 @@
-var mnemonic = "approve junk virus equal coin limit elephant fossil announce price possible measure";
+var mnemonic = "column addict clap goose cook render hurdle tide alcohol oven strong harbor";

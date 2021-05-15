@@ -1,1 +1,1 @@
-var mnemonic = "episode rhythm wheat valid weekend vendor food walk still record mix prepare";
+var mnemonic = "oil cinnamon peasant movie narrow skirt hill tower empty tide vivid color";

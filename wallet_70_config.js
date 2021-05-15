@@ -1,1 +1,1 @@
-var mnemonic = "gloom ship poem predict tail luggage deputy swamp number grape that swift";
+var mnemonic = "final fly phone spare demise claw copy erase ladder caution audit please";

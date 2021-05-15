@@ -1,1 +1,1 @@
-var mnemonic = "toss sign item opera moral liar reject wife praise ghost use spice";
+var mnemonic = "medal problem grit antique bicycle strategy kick label extend outdoor member addict";

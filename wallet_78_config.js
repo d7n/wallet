@@ -1,1 +1,1 @@
-var mnemonic = "task swarm tourist plunge member grow luggage coral tomato situate poem elbow";
+var mnemonic = "grass build laptop riot lawn panel among cube cherry frown team typical";

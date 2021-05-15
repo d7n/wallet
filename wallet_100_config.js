@@ -1,1 +1,1 @@
-var mnemonic = "tribe curious estate fiber output face foil spell twist birth glimpse gravity";
+var mnemonic = "fruit bone spatial weapon swallow jazz seek loan pigeon knife okay arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "genius limb soup argue scan jealous melt private shoulder seek type prison";
+var mnemonic = "sense rural mad fossil hundred save elite dream cloth solid lyrics later";

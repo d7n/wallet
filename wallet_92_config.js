@@ -1,1 +1,1 @@
-var mnemonic = "profit else oppose what cart network popular latin glue genius marine glare";
+var mnemonic = "quarter ranch office cute identify high nephew candy rice clock person grit";

@@ -1,1 +1,1 @@
-var mnemonic = "rule chaos crystal cloud elite fancy involve zoo join orbit sell believe";
+var mnemonic = "invest claim affair real tip decide ill buffalo plate shine diary project";

@@ -1,1 +1,1 @@
-var mnemonic = "announce three carry frog embrace any kitten today give gown company sting";
+var mnemonic = "gaze menu climb cricket finish present snap notice lounge weekend cabbage brick";

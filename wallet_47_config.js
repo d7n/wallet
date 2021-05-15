@@ -1,1 +1,1 @@
-var mnemonic = "hurry unfair provide sword honey crucial relief tone veteran rebel net nose";
+var mnemonic = "promote alien roast follow ramp test twenty stand summer rare craft fire";

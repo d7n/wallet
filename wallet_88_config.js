@@ -1,1 +1,1 @@
-var mnemonic = "rhythm balance attack only match oval invite modify noise junior true tragic";
+var mnemonic = "paper muscle wire prevent cliff change upgrade fever explain detail spice woman";

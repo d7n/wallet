@@ -1,1 +1,1 @@
-var mnemonic = "suit verb kiwi early awesome arrow never squirrel enable keen improve flush";
+var mnemonic = "arrive island barely paper jelly mirror lumber seat glory robot average puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "edge profit uniform fresh juice install body jump near tube result sleep";
+var mnemonic = "entry dress chapter regret wheel owner jar large actress castle hub zone";

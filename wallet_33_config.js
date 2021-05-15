@@ -1,1 +1,1 @@
-var mnemonic = "sniff drink virus cruise rule wish exile album cattle anger knock tilt";
+var mnemonic = "fame segment situate gadget buzz common health awkward bright illness charge predict";

@@ -1,1 +1,1 @@
-var mnemonic = "grow error put hurry scout practice this muscle leisure talk draft minor";
+var mnemonic = "harbor observe arrest space picture destroy lab little movie vicious horror funny";

@@ -1,1 +1,1 @@
-var mnemonic = "aim patient olympic civil accident leader scout render real plate unveil mixture";
+var mnemonic = "exact couple reject sheriff economy crazy trip click test syrup glory metal";

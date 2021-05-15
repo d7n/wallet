@@ -1,1 +1,1 @@
-var mnemonic = "trade silly electric december level alpha void run brave control work water";
+var mnemonic = "fancy neglect razor give ugly over glory priority water dune nature useless";

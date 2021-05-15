@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo label cart box seed switch laundry mom wagon actress payment fold";
+var mnemonic = "pudding now square eagle rule dumb hunt open avoid unable grant apology";

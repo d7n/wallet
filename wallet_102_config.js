@@ -1,1 +1,1 @@
-var mnemonic = "beach organ quote token risk explain powder patrol innocent mixture hunt whisper";
+var mnemonic = "gain wise second woman runway gospel foster rotate brown fashion sad seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "melt final tenant myth wet wave pipe eternal found twin fluid camera";
+var mnemonic = "about ready false gauge increase tomorrow camera culture tank attitude history swear";

@@ -1,1 +1,1 @@
-var mnemonic = "sea globe swallow survey rug question farm cricket install green fault guitar";
+var mnemonic = "beef reform cram same acoustic govern master setup opera slim zone milk";

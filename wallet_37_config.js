@@ -1,1 +1,1 @@
-var mnemonic = "rebel liquid shaft wife execute marine elevator uncover bone feed crystal soon";
+var mnemonic = "explain suit dial faculty prepare play garbage secret gate chapter balance canal";

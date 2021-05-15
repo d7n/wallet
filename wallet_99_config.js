@@ -1,1 +1,1 @@
-var mnemonic = "then tone novel smart bring present tomato police fruit pigeon unable bench";
+var mnemonic = "loud biology inquiry clay mandate oven frost elite wash siren satoshi maze";

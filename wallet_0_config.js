@@ -1,1 +1,1 @@
-var mnemonic = "coin rather empty right pilot alley page foil suit celery crucial title";
+var mnemonic = "warm chase today silent this road snow cable extend two wheat process";

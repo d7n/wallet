@@ -1,1 +1,1 @@
-var mnemonic = "beauty close ten panel sustain sand pistol hazard entry chaos win cement";
+var mnemonic = "riot zebra side abstract uncover plastic fortune member rifle turkey initial crowd";

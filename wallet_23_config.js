@@ -1,1 +1,1 @@
-var mnemonic = "surface bird pattern nice bounce wear champion rule spoil pyramid drive eternal";
+var mnemonic = "window wrap claw airport warrior essence tongue lift sword tribe swap leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "live street imitate miracle powder scrub travel width tobacco hazard vessel theme";
+var mnemonic = "trouble primary range wing spoon include ivory fence olive ocean fashion march";

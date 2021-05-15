@@ -1,1 +1,1 @@
-var mnemonic = "moment alone key light account general grain opera remove sunny sign chase";
+var mnemonic = "easily galaxy scene tail hedgehog ladder disagree brain gown spread pioneer winner";

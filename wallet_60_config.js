@@ -1,1 +1,1 @@
-var mnemonic = "amateur urban pink visit march entire brass flavor turn viable pen essay";
+var mnemonic = "alone ensure version climb roof loan hurt thunder negative wing work grass";

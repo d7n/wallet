@@ -1,1 +1,1 @@
-var mnemonic = "exhibit clay heavy arctic banana kind hour aim regret blush cricket harvest";
+var mnemonic = "expose muscle boss shrug slender record question satoshi slogan genius dust expire";

@@ -1,1 +1,1 @@
-var mnemonic = "dust entry phone december sick address manual tower supreme hole measure best";
+var mnemonic = "coffee under fiction bread melody light enlist behave pipe you supply cage";

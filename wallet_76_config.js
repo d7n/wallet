@@ -1,1 +1,1 @@
-var mnemonic = "aerobic music raise occur benefit wagon anxiety someone fade debris denial job";
+var mnemonic = "lucky quality maple current accuse trust crew pledge mesh umbrella dignity pilot";

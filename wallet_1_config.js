@@ -1,1 +1,1 @@
-var mnemonic = "mixture glimpse mansion skate hand wasp dolphin village feed vacant little object";
+var mnemonic = "square alone general math transfer shoulder edge casino anger poverty slender club";

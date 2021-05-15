@@ -1,1 +1,1 @@
-var mnemonic = "online embark subway reduce play ordinary dream believe achieve exclude stamp prize";
+var mnemonic = "young because evolve cram sibling stand coast else wedding assist point roast";

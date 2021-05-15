@@ -1,1 +1,1 @@
-var mnemonic = "field example creek dose route spoon carbon myself action ranch lift light";
+var mnemonic = "result poverty breeze catalog ladder zero bright ankle have nature phone devote";

@@ -1,1 +1,1 @@
-var mnemonic = "forum chef skate midnight else wage vast ski profit hub add panther";
+var mnemonic = "dolphin forget size inquiry fragile horn cram solve height hotel beauty invest";

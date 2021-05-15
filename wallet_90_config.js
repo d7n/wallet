@@ -1,1 +1,1 @@
-var mnemonic = "oblige torch layer stand negative bird eagle tank undo laundry behave shrug";
+var mnemonic = "omit fetch talent arrest assist giraffe hat verb youth scorpion monster hill";

@@ -1,1 +1,1 @@
-var mnemonic = "physical tool talent gate planet artwork hamster wise spray insane track odor";
+var mnemonic = "helmet ghost permit often egg ancient gift between word solid system critic";
