@@ -1,1 +1,1 @@
-var mnemonic = "giggle ivory swim reunion boil universe city easily parent fetch whale clarify";
+var mnemonic = "luxury wrong chalk correct blossom wheat want hint actress witness catalog section";

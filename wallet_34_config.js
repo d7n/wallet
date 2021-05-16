@@ -1,1 +1,1 @@
-var mnemonic = "topple torch soul calm mass logic reveal reform symptom foam oak ahead";
+var mnemonic = "mystery trap century noise practice abstract raccoon surge cotton journey boil federal";

@@ -1,1 +1,1 @@
-var mnemonic = "slush sphere coffee donkey expire tuna aim weekend sentence dignity reduce grit";
+var mnemonic = "tower save company step undo boat flip rural icon base idea innocent";

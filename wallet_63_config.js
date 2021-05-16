@@ -1,1 +1,1 @@
-var mnemonic = "version meat remind ball mention measure mercy gold royal jacket drastic dizzy";
+var mnemonic = "toilet ocean deposit quote cage apology basic shed flower scatter labor idle";

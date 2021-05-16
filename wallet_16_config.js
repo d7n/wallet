@@ -1,1 +1,1 @@
-var mnemonic = "peanut target scan shy fever vacant unit pony gallery spirit dawn bunker";
+var mnemonic = "owner lazy lounge taxi claw save holiday ginger hurt solve rail damage";

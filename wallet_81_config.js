@@ -1,1 +1,1 @@
-var mnemonic = "cargo dinner alcohol ski milk tray submit seminar service impact glance identify";
+var mnemonic = "video regret february argue sound omit school side boat river island dynamic";

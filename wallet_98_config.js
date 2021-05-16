@@ -1,1 +1,1 @@
-var mnemonic = "theme dog remind purchase kid fitness caught luggage express raven table glance";
+var mnemonic = "mean bachelor jeans page oven loyal candy deal keen wolf afford rely";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid cruise adapt situate catch final weekend point stomach myth skate negative";
+var mnemonic = "echo curious lady cash spider offer arena river hotel balcony doctor bleak";

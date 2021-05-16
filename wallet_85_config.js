@@ -1,1 +1,1 @@
-var mnemonic = "fashion bread shrug twin boost mention salmon filter blind dove enlist embark";
+var mnemonic = "blood crane argue upset supply art escape vacuum milk lucky rack horn";

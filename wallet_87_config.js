@@ -1,1 +1,1 @@
-var mnemonic = "guide hill dry aware razor dolphin royal give work large tongue whip";
+var mnemonic = "innocent tunnel surround liberty gain company gossip popular soldier limit notable eye";

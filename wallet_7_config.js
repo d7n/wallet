@@ -1,1 +1,1 @@
-var mnemonic = "congress maximum off gift property setup filter express drill bachelor picture rapid";
+var mnemonic = "shift neither foot hole rain neutral flip ozone index north slice wait";

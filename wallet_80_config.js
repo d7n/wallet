@@ -1,1 +1,1 @@
-var mnemonic = "okay high powder guilt sing vintage actual tattoo neutral sniff garage method";
+var mnemonic = "inspire leopard almost during cat scout cliff tip fashion broom hotel borrow";

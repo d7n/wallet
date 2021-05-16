@@ -1,1 +1,1 @@
-var mnemonic = "stage hazard hazard luggage crumble exact double gravity salon liberty version phrase";
+var mnemonic = "roof chair toss cruise mirror meadow together gown pig tent nominee frost";

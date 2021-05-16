@@ -1,1 +1,1 @@
-var mnemonic = "race cream area vault wheel teach current select usage submit penalty consider";
+var mnemonic = "under decorate stem drill use oval wool live taste open van heart";

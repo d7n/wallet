@@ -1,1 +1,1 @@
-var mnemonic = "usage member you orchard list humor wear loan tuition brother toilet agree";
+var mnemonic = "shift gun engine piece stereo seat couple shaft gasp edge wisdom annual";

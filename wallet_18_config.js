@@ -1,1 +1,1 @@
-var mnemonic = "amazing exercise burst hair law pool amateur juice ski horror naive tray";
+var mnemonic = "tip crouch nose force sniff drive stock shy what orbit party size";

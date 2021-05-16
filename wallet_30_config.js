@@ -1,1 +1,1 @@
-var mnemonic = "garlic vault buddy home page bargain jealous light sing wine focus define";
+var mnemonic = "elite since badge stock hobby genuine occur ahead doll hood jacket cloth";

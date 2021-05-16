@@ -1,1 +1,1 @@
-var mnemonic = "odor soap spider anger spin hotel avocado october super era panther script";
+var mnemonic = "bounce divide idle convince ketchup depth melody motion hybrid fan source fade";

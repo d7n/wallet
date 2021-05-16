@@ -1,1 +1,1 @@
-var mnemonic = "chef mesh coconut stable click habit flag word scare fall salad cereal";
+var mnemonic = "cattle obtain glad degree busy mammal mix theory luxury enough harbor fitness";

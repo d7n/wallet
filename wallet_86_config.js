@@ -1,1 +1,1 @@
-var mnemonic = "cabin have analyst venture dinner family reveal laugh trigger address human tonight";
+var mnemonic = "crush phrase neutral face twelve forest tomorrow spoil glory acquire hat flash";

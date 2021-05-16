@@ -1,1 +1,1 @@
-var mnemonic = "system boring vendor novel market kidney box guard they blade absorb cargo";
+var mnemonic = "congress quit basic protect protect sample length bundle brief proud kangaroo soon";

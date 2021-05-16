@@ -1,1 +1,1 @@
-var mnemonic = "false kit loyal iron scorpion camera bulk wait vicious margin amateur blue";
+var mnemonic = "remember hole fine purse chaos clip just lawn oblige chuckle renew clinic";

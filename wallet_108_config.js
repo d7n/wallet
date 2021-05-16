@@ -1,1 +1,1 @@
-var mnemonic = "snake hat traffic gather dance earn pluck sample cupboard man tilt useful";
+var mnemonic = "force cube thrive eye patient ski crop lend top dawn combine plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "misery domain science example fan opinion since slogan crisp essay bus novel";
+var mnemonic = "slender grunt evidence hurdle absent cash song upon venue consider pole right";

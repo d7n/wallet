@@ -1,1 +1,1 @@
-var mnemonic = "speed blossom salute maple area race soup champion silk antique soft elegant";
+var mnemonic = "struggle ship alley upon model fork region like sunset stool marriage abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce upper remember love cement manual raven ready material act afraid dentist";
+var mnemonic = "culture august decorate truck supply tunnel drive ginger alien depend tumble boss";

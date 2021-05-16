@@ -1,1 +1,1 @@
-var mnemonic = "void barrel initial cargo antique cheese planet owner swap glad foster coconut";
+var mnemonic = "repair torch rally proud soup east prepare ridge unfold like scale antique";

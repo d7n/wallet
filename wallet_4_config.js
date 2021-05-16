@@ -1,1 +1,1 @@
-var mnemonic = "dentist plunge volcano zone barrel recipe dilemma unique mistake people sight come";
+var mnemonic = "custom turn behave hobby stage kite butter slogan present town clever stage";

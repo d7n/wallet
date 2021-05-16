@@ -1,1 +1,1 @@
-var mnemonic = "organ ghost hip stairs drop ignore supply area million spell glimpse express";
+var mnemonic = "stuff immune urge bulb fever carpet few baby program fitness that catch";

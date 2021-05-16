@@ -1,1 +1,1 @@
-var mnemonic = "brain success enter champion hospital direct equip column wheel cotton viable disagree";
+var mnemonic = "silly mass chimney museum foster develop tattoo index evil squirrel obscure inquiry";

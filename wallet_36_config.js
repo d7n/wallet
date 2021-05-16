@@ -1,1 +1,1 @@
-var mnemonic = "expand orchard bean know install wedding science swing divorce verb thrive toddler";
+var mnemonic = "jeans mention leisure prison verify art physical grass toss shoe lobster suit";

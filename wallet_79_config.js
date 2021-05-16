@@ -1,1 +1,1 @@
-var mnemonic = "sauce steak genius exclude ordinary drift silly exile scale mom dog test";
+var mnemonic = "setup destroy uncle concert verb radar off sleep virus stairs used arrow";

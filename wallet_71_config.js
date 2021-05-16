@@ -1,1 +1,1 @@
-var mnemonic = "cruel employ wage answer virtual hidden iron fruit bleak arrest limit year";
+var mnemonic = "clerk oil asset sound replace ignore drive mansion found raise alpha wine";

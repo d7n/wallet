@@ -1,1 +1,1 @@
-var mnemonic = "battle know enlist cream tennis consider dumb review bleak shoulder parade velvet";
+var mnemonic = "this domain charge depend venue insane adjust cruel friend gown novel review";

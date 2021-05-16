@@ -1,1 +1,1 @@
-var mnemonic = "december sorry tilt bicycle hunt cricket river hold sock siren dutch crunch";
+var mnemonic = "raise route ethics dune urban diet duck sample scatter pact old cross";

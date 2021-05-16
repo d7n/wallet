@@ -1,1 +1,1 @@
-var mnemonic = "drum parade theory obscure club caught embody hand faint grit essay lunch";
+var mnemonic = "dragon claw slice debris total food tilt humble alert sail excuse diesel";

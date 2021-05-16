@@ -1,1 +1,1 @@
-var mnemonic = "early filter tube trend transfer arrow garbage typical lock crop wall invest";
+var mnemonic = "smile month blush siren race install airport ensure ticket any gas reunion";

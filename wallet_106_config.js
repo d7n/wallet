@@ -1,1 +1,1 @@
-var mnemonic = "festival betray immense asthma goddess slim liquid heavy limb cabbage wrestle minute";
+var mnemonic = "fancy athlete radar toy same vacant awesome team movie depend used silent";

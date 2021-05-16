@@ -1,1 +1,1 @@
-var mnemonic = "win derive since oven travel fruit share trip force belt agree crew";
+var mnemonic = "trouble radio sunny shuffle suffer armed evolve current humble major ribbon between";

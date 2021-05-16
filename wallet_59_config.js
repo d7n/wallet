@@ -1,1 +1,1 @@
-var mnemonic = "popular story hedgehog garden planet trouble empower argue boring pet shoe treat";
+var mnemonic = "hood visit couch portion draft finger polar dash basket junk eight desk";

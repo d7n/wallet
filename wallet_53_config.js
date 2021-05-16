@@ -1,1 +1,1 @@
-var mnemonic = "fatigue excite raw scorpion wisdom course satisfy weather sketch exercise daring page";
+var mnemonic = "execute envelope execute isolate siren notable useful family boost loud cause addict";

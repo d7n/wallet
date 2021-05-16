@@ -1,1 +1,1 @@
-var mnemonic = "undo stomach hard cotton grocery say mushroom student found seed gym sound";
+var mnemonic = "shell people scheme home devote pretty giant fun bargain recipe embrace trigger";

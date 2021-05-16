@@ -1,1 +1,1 @@
-var mnemonic = "flight tool iron turn once letter canoe recycle confirm section address inch";
+var mnemonic = "blade image elegant cricket review devote puzzle genuine lottery south divorce include";

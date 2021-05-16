@@ -1,1 +1,1 @@
-var mnemonic = "swamp more side gift guilt craft extend fence wedding frame leg wrestle";
+var mnemonic = "stove congress screen title popular top stage negative olympic ice risk crowd";

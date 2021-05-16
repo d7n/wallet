@@ -1,1 +1,1 @@
-var mnemonic = "spare talk humor best swamp near large wrist eye mansion pelican leopard";
+var mnemonic = "parrot tree three observe uphold rose comic possible student flag strong input";

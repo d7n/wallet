@@ -1,1 +1,1 @@
-var mnemonic = "season august session hub ancient letter ecology utility frown tunnel warfare unique";
+var mnemonic = "engine ripple kind pioneer avoid utility brief census liquid lunar assume token";

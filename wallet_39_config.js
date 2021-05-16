@@ -1,1 +1,1 @@
-var mnemonic = "brick happy palm family ghost depend sauce poverty miss ankle cave twenty";
+var mnemonic = "exact engine valley ski oven orange snap undo bone seek flush chase";

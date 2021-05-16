@@ -1,1 +1,1 @@
-var mnemonic = "gloom swift wear hint enrich zero company laptop happy crouch core finger";
+var mnemonic = "staff inside gaze property thought priority increase hen fun tiny victory cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "end banner absent sleep alcohol inner cannon wreck have laugh sign prison";
+var mnemonic = "crunch decide stem strike couple annual aware final mask diet core chicken";

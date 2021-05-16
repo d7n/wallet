@@ -1,1 +1,1 @@
-var mnemonic = "south drill absorb wet join pair expose tourist middle kitten bomb pigeon";
+var mnemonic = "inhale gaze noble tent spray upgrade similar matter quiz over orphan fan";

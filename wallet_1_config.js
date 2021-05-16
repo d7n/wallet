@@ -1,1 +1,1 @@
-var mnemonic = "hurt plate layer almost wise element buzz have duty endless anxiety session";
+var mnemonic = "subway angle fruit useful shock lamp wash silly daughter hundred rare reason";

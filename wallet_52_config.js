@@ -1,1 +1,1 @@
-var mnemonic = "cart damp wisdom thrive school dwarf guard ancient path casual humble hundred";
+var mnemonic = "follow liquid insect steel describe people midnight flat cushion science decrease sugar";

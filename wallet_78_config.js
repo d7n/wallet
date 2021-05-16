@@ -1,1 +1,1 @@
-var mnemonic = "champion trip coyote shoe rich pen poet deal frown gather clump van";
+var mnemonic = "begin decide butter garlic dirt hope flush draw duty jewel health frequent";

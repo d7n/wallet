@@ -1,1 +1,1 @@
-var mnemonic = "mansion angry burden abandon drift outside illegal athlete able six olive magnet";
+var mnemonic = "royal hire bind hurdle cake space tooth sorry caution estate sorry inch";

@@ -1,1 +1,1 @@
-var mnemonic = "bar moral tackle junk small breeze fork option unique adjust palace review";
+var mnemonic = "beyond law dwarf before fiber edit mixture energy hat total burst spread";

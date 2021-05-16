@@ -1,1 +1,1 @@
-var mnemonic = "combine round reveal business tattoo ticket sense young angle viable luggage report";
+var mnemonic = "ordinary venue sleep salute sea rug input crazy green nature blast diet";

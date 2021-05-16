@@ -1,1 +1,1 @@
-var mnemonic = "toddler mad beauty world run dizzy caught silly romance job solve infant";
+var mnemonic = "screen category rare maid scheme mandate caution above tail trim orchard gold";

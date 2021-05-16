@@ -1,1 +1,1 @@
-var mnemonic = "unveil wealth office myth inch hen same spare obscure gorilla soft hollow";
+var mnemonic = "alert cargo narrow urban palm spot label resist indoor around cliff kiss";

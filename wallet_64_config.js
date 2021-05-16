@@ -1,1 +1,1 @@
-var mnemonic = "repeat weapon maid forest tray wasp raven around slight protect below true";
+var mnemonic = "zoo vital clutch security access hip timber verb alcohol primary coffee alone";

@@ -1,1 +1,1 @@
-var mnemonic = "receive strong erode nominee kitchen jar curious delay art tunnel verify day";
+var mnemonic = "guess access resist nice toddler leader leader auction omit spell kiss wrestle";

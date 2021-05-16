@@ -1,1 +1,1 @@
-var mnemonic = "prosper display fuel please flip salute amazing verb blast pupil dutch just";
+var mnemonic = "crumble little student merry baby swallow mobile innocent novel purpose security grid";

@@ -1,1 +1,1 @@
-var mnemonic = "viable lunar sorry wolf slush pitch knee brother virus icon gaze chest";
+var mnemonic = "frozen spot frequent sunset shiver pride bean second flat catch rifle sunset";

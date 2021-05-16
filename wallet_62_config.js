@@ -1,1 +1,1 @@
-var mnemonic = "garlic sign upgrade undo popular lend mad vapor sand party mixed dinosaur";
+var mnemonic = "amazing strategy eternal mango hope jar small fall access radar soft reward";

@@ -1,1 +1,1 @@
-var mnemonic = "push dinosaur december pipe slot state ticket scan food faculty angry south";
+var mnemonic = "mechanic mention spider feel because resemble category animal inject stadium disease loan";

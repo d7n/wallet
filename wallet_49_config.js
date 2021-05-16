@@ -1,1 +1,1 @@
-var mnemonic = "catalog daughter there rule cabin rose supply cliff renew web famous field";
+var mnemonic = "amateur child deposit boring photo gossip maze scrub cruise hat total orient";

@@ -1,1 +1,1 @@
-var mnemonic = "turn series oak sustain nurse law must letter magnet dust juice song";
+var mnemonic = "aisle diamond build oxygen trophy ancient evidence park giggle jeans benefit onion";

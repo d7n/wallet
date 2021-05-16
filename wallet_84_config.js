@@ -1,1 +1,1 @@
-var mnemonic = "hour blue measure gun unknown invite prison pupil mistake brisk tiny split";
+var mnemonic = "average away private draw scissors team leg across poem issue object mercy";

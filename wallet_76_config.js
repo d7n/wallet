@@ -1,1 +1,1 @@
-var mnemonic = "tell inject blue sound nerve foil sunset model business behave coral foam";
+var mnemonic = "ozone session skull maze robust extra ketchup invest message alone coconut color";

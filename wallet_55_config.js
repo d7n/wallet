@@ -1,1 +1,1 @@
-var mnemonic = "nut ginger track ready brave pipe prize pigeon equal twelve palm benefit";
+var mnemonic = "popular garlic denial undo humble water peanut evidence doll improve group pull";

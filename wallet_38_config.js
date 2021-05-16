@@ -1,1 +1,1 @@
-var mnemonic = "armed autumn unique soap battle soul envelope pole grain draw public devote";
+var mnemonic = "ripple vibrant brief horn bleak glory estate crop kiwi remain shine fresh";

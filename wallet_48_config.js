@@ -1,1 +1,1 @@
-var mnemonic = "buzz gas section fruit dinosaur gold hello trouble wild fly motor dream";
+var mnemonic = "latin answer tattoo drink aim analyst sail meadow field knee rapid bonus";

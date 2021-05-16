@@ -1,1 +1,1 @@
-var mnemonic = "arctic breeze love vast fiber buffalo breeze sudden master mirror flower addict";
+var mnemonic = "bid evolve bus excite pizza round funny cash echo female column outer";

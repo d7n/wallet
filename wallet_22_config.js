@@ -1,1 +1,1 @@
-var mnemonic = "wish manual this digital portion manual theme fog glue dinosaur route tired";
+var mnemonic = "profit bird razor tattoo always indoor tourist benefit impact gorilla rent help";

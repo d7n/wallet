@@ -1,1 +1,1 @@
-var mnemonic = "miracle swift tool share eyebrow dinner syrup gain task myth route clinic";
+var mnemonic = "segment all jeans divert wire mistake upset jeans lamp east monkey immune";

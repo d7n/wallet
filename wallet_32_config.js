@@ -1,1 +1,1 @@
-var mnemonic = "embody gesture phrase reduce fish key spin useless gown invest match guard";
+var mnemonic = "van vote warrior gun move genius busy shiver hair rate welcome select";

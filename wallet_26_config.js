@@ -1,1 +1,1 @@
-var mnemonic = "leisure retire below health lonely family dentist reject only barrel dutch network";
+var mnemonic = "toilet power denial logic monster response weasel melt cute business feed forum";

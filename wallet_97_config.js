@@ -1,1 +1,1 @@
-var mnemonic = "parade knife program pelican journey august adjust range slice toward airport glove";
+var mnemonic = "giraffe abstract harvest fold endorse again you good dice tree eye disagree";

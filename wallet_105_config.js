@@ -1,1 +1,1 @@
-var mnemonic = "mouse train rigid faith muscle gorilla wish couple region hurdle will nephew";
+var mnemonic = "lock insane erupt siege put inspire relax crack brisk maze setup ring";

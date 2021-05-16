@@ -1,1 +1,1 @@
-var mnemonic = "profit universe orient clown draw such tide turn wrong guitar creek cry";
+var mnemonic = "minute misery spatial gather bless increase target aim pottery style young used";

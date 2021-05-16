@@ -1,1 +1,1 @@
-var mnemonic = "bid solve organ era dice dove view cradle opera afford three market";
+var mnemonic = "purpose deposit language base virtual clever math tower what purse drift athlete";

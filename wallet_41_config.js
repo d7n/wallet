@@ -1,1 +1,1 @@
-var mnemonic = "lawn video hire female similar holiday dignity badge stool current nest affair";
+var mnemonic = "curtain pumpkin track dolphin actual under exclude jelly squeeze dash gift attitude";

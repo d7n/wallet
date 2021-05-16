@@ -1,1 +1,1 @@
-var mnemonic = "evolve today indoor local digital case sample ceiling spell visa observe elbow";
+var mnemonic = "album walnut square stand jacket paddle naive glass mammal leader draft thumb";

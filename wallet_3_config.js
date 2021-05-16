@@ -1,1 +1,1 @@
-var mnemonic = "never avocado burst tissue soccer wrist spring destroy vibrant vital way galaxy";
+var mnemonic = "divert letter genre island jealous note stamp dwarf oven mandate erode soon";

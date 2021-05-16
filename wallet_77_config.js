@@ -1,1 +1,1 @@
-var mnemonic = "purchase cereal six escape demise pulp ostrich cash chaos poem gravity loop";
+var mnemonic = "enrich season mouse lawn vehicle mobile three kiss agent unaware vessel domain";

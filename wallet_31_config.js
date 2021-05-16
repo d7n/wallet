@@ -1,1 +1,1 @@
-var mnemonic = "sudden retire brave weapon distance volume echo bronze crowd upgrade judge air";
+var mnemonic = "tiger rule wagon taste clutch grape boss bar gate flame icon goat";

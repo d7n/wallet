@@ -1,1 +1,1 @@
-var mnemonic = "tape child remain drink you indicate wink foam become return asset gravity";
+var mnemonic = "junk bounce patch document electric wild arrive fiction dish impact melody figure";

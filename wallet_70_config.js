@@ -1,1 +1,1 @@
-var mnemonic = "drum always moon language correct purpose twenty fall artwork item fever vessel";
+var mnemonic = "river session stomach grocery card exit alley cube sustain clay mandate sad";

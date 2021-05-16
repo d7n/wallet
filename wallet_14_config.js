@@ -1,1 +1,1 @@
-var mnemonic = "where dilemma cram hotel soap when lady letter gun limb relief entire";
+var mnemonic = "suggest edit close grape trophy clog cart ignore device power law disorder";

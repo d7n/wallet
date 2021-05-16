@@ -1,1 +1,1 @@
-var mnemonic = "waste board cousin empty please garage ketchup report mammal garage angle blade";
+var mnemonic = "surge glance best radio mutual music volume riot basic record secret scissors";

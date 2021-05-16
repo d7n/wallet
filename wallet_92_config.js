@@ -1,1 +1,1 @@
-var mnemonic = "metal melt observe choice vintage chimney fork aim action grab verb grant";
+var mnemonic = "elevator nice flush almost sport crystal pistol say trumpet until mimic pattern";

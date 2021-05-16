@@ -1,1 +1,1 @@
-var mnemonic = "fault spatial cheap detail prevent owner rate security add violin pyramid topic";
+var mnemonic = "over modify there fold coil credit clever spice junior degree wrist liberty";

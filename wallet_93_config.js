@@ -1,1 +1,1 @@
-var mnemonic = "size robust scorpion defense smile unveil fold annual gallery smart grab front";
+var mnemonic = "destroy buddy under clinic cute donate express trade ensure nerve piece way";

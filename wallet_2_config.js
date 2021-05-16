@@ -1,1 +1,1 @@
-var mnemonic = "apology unveil rival lady crash tomorrow cover lawn spice capable urban unique";
+var mnemonic = "truly can lava budget video vague code glide feel lonely guitar creek";

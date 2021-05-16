@@ -1,1 +1,1 @@
-var mnemonic = "gift arm cancel tunnel okay champion regret trumpet media certain pretty garbage";
+var mnemonic = "brave twenty bus excuse clarify minute march foot twist olympic escape awake";

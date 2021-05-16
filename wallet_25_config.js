@@ -1,1 +1,1 @@
-var mnemonic = "measure journey salt oven illness lemon junk box cheese follow future talk";
+var mnemonic = "brother stomach flee diagram weather three agree rifle battle happy hotel hour";

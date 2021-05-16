@@ -1,1 +1,1 @@
-var mnemonic = "impose mutual gym carbon acid legend give hill height skate legal spread";
+var mnemonic = "guess fall wire leopard circle pilot evoke thank blush prison confirm boil";
