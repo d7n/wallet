@@ -1,1 +1,1 @@
-var mnemonic = "amount cause slender tissue version real cheese mercy traffic shock man throw";
+var mnemonic = "hint object spring six river tool rival design random tone foster three";

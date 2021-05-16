@@ -1,1 +1,1 @@
-var mnemonic = "federal catalog rival mandate trial inner shop later valid cook staff route";
+var mnemonic = "wagon symptom motor pluck wall tent bus popular report enhance current debate";

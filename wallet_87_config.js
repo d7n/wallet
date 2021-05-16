@@ -1,1 +1,1 @@
-var mnemonic = "myself boy predict tuition damage tourist boss laundry rival pupil mansion capable";
+var mnemonic = "either giggle bracket carbon crumble length impulse home child trouble lobster loan";

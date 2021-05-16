@@ -1,1 +1,1 @@
-var mnemonic = "drift alpha veteran fantasy husband wear century sweet adult aspect course stereo";
+var mnemonic = "insane chimney canvas card genius cave sunset panel cave major giggle buzz";

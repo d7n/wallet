@@ -1,1 +1,1 @@
-var mnemonic = "power embody dune eagle they depth daring catch source paddle force weather";
+var mnemonic = "orbit arena normal present execute text super slide april differ bird camp";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper vehicle recall bird scorpion number soldier parrot female offer guide exit";
+var mnemonic = "rack project magnet cradle lawsuit enhance bounce company fantasy century valve learn";

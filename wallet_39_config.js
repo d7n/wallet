@@ -1,1 +1,1 @@
-var mnemonic = "female stereo student battle game soup frame crawl skin loud toss teach";
+var mnemonic = "nominee hen ticket verify clarify pudding metal suspect depart wasp garment guard";

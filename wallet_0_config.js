@@ -1,1 +1,1 @@
-var mnemonic = "radar latin unhappy escape blade trial marble hope weird arctic mystery side";
+var mnemonic = "urge surprise fatal neck only steak lion ginger day home palace fee";

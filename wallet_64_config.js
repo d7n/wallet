@@ -1,1 +1,1 @@
-var mnemonic = "kick fan lion dry crisp piano insect ethics next evidence calm fiction";
+var mnemonic = "east lift pilot fantasy also taxi figure goat liquid salt quality affair";

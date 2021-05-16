@@ -1,1 +1,1 @@
-var mnemonic = "hammer page north essence robot envelope depth soap demand repeat soccer chase";
+var mnemonic = "price unhappy belt spin track drop evil essay business hard powder vanish";

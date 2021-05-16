@@ -1,1 +1,1 @@
-var mnemonic = "remember swamp must wild jelly casual ten practice mother laugh reduce essence";
+var mnemonic = "choose brush diamond stadium obey link artist ripple mad unlock breeze list";

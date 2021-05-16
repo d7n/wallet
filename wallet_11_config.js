@@ -1,1 +1,1 @@
-var mnemonic = "pistol stone stairs bottom century outdoor sign capital crack exotic fence nice";
+var mnemonic = "remember music tortoise bundle siren mountain secret pink mad initial barely swap";

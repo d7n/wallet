@@ -1,1 +1,1 @@
-var mnemonic = "envelope vicious arctic exotic chimney south cancel federal zoo acid one mail";
+var mnemonic = "before awake pride blast cook lawn depth tag estate drama become mass";

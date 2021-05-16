@@ -1,1 +1,1 @@
-var mnemonic = "struggle shove mercy sense payment knock script visit good sell flat practice";
+var mnemonic = "pulp fox acquire cube space stem pizza ketchup bacon enforce salt chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "popular begin satisfy music picnic aspect amused accuse scale loyal lion island";
+var mnemonic = "donkey tourist burden doctor pave neither cube trophy moral happy whale speed";

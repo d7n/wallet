@@ -1,1 +1,1 @@
-var mnemonic = "blue dinosaur glide rose file another suggest vapor icon copper talent whale";
+var mnemonic = "parade spell donate story remind club bargain intact round orbit bike elephant";

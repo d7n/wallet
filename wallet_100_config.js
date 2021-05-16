@@ -1,1 +1,1 @@
-var mnemonic = "ceiling alert solution lock time spy pig dinner typical equal frog spice";
+var mnemonic = "awful proof weekend fish sponsor satoshi sort desert diamond blade multiply curious";

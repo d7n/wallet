@@ -1,1 +1,1 @@
-var mnemonic = "undo rebel cruel material mule mandate ice please stable behave mail right";
+var mnemonic = "that exit vanish filter man lift album quality desk grow knife guide";

@@ -1,1 +1,1 @@
-var mnemonic = "near axis patrol fit pencil work simple avoid try east object fancy";
+var mnemonic = "bag gown prevent bracket damp horse siren build buzz just rough globe";

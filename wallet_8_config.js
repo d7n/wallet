@@ -1,1 +1,1 @@
-var mnemonic = "shallow travel lucky skull fitness reveal gym rebuild offer drill cash virus";
+var mnemonic = "eternal deposit spot drill cave annual common clown acid animal glad spare";

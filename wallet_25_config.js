@@ -1,1 +1,1 @@
-var mnemonic = "traffic element define harvest engine media brief filter shell empty combine spot";
+var mnemonic = "april symbol vault rebel tell time usage exchange wear steel include boy";

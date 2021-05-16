@@ -1,1 +1,1 @@
-var mnemonic = "nation raise city gravity globe blur grunt donate ribbon voyage cable symptom";
+var mnemonic = "kick filter cover skill cart sketch home luggage bamboo twist author slab";

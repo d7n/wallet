@@ -1,1 +1,1 @@
-var mnemonic = "monkey banner ability easily whisper earn clean system office security rather absurd";
+var mnemonic = "bleak leg gate volume scrap whisper globe dial lawn original since indoor";

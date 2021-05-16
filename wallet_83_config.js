@@ -1,1 +1,1 @@
-var mnemonic = "federal rally record cheese model juice drum clay vapor ripple split poet";
+var mnemonic = "nerve begin later voyage detect order glue hope burst flame pyramid dumb";

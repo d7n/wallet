@@ -1,1 +1,1 @@
-var mnemonic = "twin wall draft cigar feed predict one employ flock betray scheme physical";
+var mnemonic = "latin gown blush speed crime sign act ski version remain candy simple";

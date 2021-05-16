@@ -1,1 +1,1 @@
-var mnemonic = "chunk patrol quarter course beauty project column project quarter raw demand blouse";
+var mnemonic = "select almost outdoor angry frequent slush address excite already unusual winter clinic";

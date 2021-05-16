@@ -1,1 +1,1 @@
-var mnemonic = "ankle chalk erupt dice rough more muffin balcony item lonely gloom dust";
+var mnemonic = "defense garment carpet warfare since gasp forum crawl render climb volcano someone";

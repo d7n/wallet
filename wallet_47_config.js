@@ -1,1 +1,1 @@
-var mnemonic = "journey badge gallery finish jungle fuel viable file coral another ribbon bone";
+var mnemonic = "virtual follow march level tobacco camera card auction naive main cause game";

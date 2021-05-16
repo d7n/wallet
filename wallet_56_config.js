@@ -1,1 +1,1 @@
-var mnemonic = "taste draw cliff deposit merit gloom vicious lyrics mind lava truly combine";
+var mnemonic = "coral income direct very peanut board advance across asthma dignity furnace turtle";

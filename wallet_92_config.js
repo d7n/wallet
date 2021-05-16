@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shine catalog miracle puppy old valley custom response gloom mirror oak";
+var mnemonic = "fetch valid only mom desk cheese sad river dutch case shadow awful";

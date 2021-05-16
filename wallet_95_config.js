@@ -1,1 +1,1 @@
-var mnemonic = "heavy blouse dry violin explain bottom relief inform image very vapor junk";
+var mnemonic = "habit coach mansion picture fossil spell always toe image pistol vivid denial";

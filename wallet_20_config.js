@@ -1,1 +1,1 @@
-var mnemonic = "ginger yard embark original join current patient mansion broom scatter august two";
+var mnemonic = "pilot you lift balance emotion sad gorilla electric grit spin diet struggle";

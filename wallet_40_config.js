@@ -1,1 +1,1 @@
-var mnemonic = "fruit rug message doctor envelope cave switch supreme gauge property media screen";
+var mnemonic = "input crush swap harbor clinic garlic faith swarm helmet spawn crush myself";

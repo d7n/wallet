@@ -1,1 +1,1 @@
-var mnemonic = "fame animal aim owner chronic suit notable market battle style yellow regular";
+var mnemonic = "diary option defense across neither mosquito grid swarm hair nothing zoo humor";

@@ -1,1 +1,1 @@
-var mnemonic = "any praise outer gain dinner once sauce faith analyst armed enrich pupil";
+var mnemonic = "style fever chat illness artist load blanket secret pretty major beauty funny";

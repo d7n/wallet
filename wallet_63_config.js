@@ -1,1 +1,1 @@
-var mnemonic = "loud innocent accuse october angry maple era harvest guitar name correct shock";
+var mnemonic = "author input ethics much grape universe split soap escape tone lucky public";

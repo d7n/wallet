@@ -1,1 +1,1 @@
-var mnemonic = "choose blast foot promote borrow salmon system coil flame dust eight weekend";
+var mnemonic = "churn tragic rural avoid top survey used board trend fan member train";

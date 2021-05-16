@@ -1,1 +1,1 @@
-var mnemonic = "open quiz steak all arrow false industry minute away hub police need";
+var mnemonic = "tone coast fat start vibrant cart extra stage empower luggage bubble sort";

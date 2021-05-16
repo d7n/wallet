@@ -1,1 +1,1 @@
-var mnemonic = "buyer upper essence topic disagree neutral tuition glimpse foam outside play ensure";
+var mnemonic = "undo source close april random glass hat jeans silent tonight drip brown";

@@ -1,1 +1,1 @@
-var mnemonic = "flag exclude flower salmon apple immune radio blush print icon sting ocean";
+var mnemonic = "hat outer virus guilt example area seed obtain gravity please state own";

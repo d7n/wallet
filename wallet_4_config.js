@@ -1,1 +1,1 @@
-var mnemonic = "casino weasel social erupt snow bronze super video advance assume brush loyal";
+var mnemonic = "float equal luxury scan cabin spin install priority build roof buyer sting";

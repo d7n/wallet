@@ -1,1 +1,1 @@
-var mnemonic = "winner spray artefact figure depart next pear noodle negative goddess wear various";
+var mnemonic = "sing forum museum online plug gain peace prefer ginger toss canoe diesel";

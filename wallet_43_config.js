@@ -1,1 +1,1 @@
-var mnemonic = "street negative cat element alcohol innocent fame inject miracle notable brand business";
+var mnemonic = "vote pistol rival stay quarter monkey cook razor solution sort stereo custom";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel nurse silly diagram bus gentle cruise real shock invest hover permit";
+var mnemonic = "enact will antique pigeon final decide power cricket hand route carry piano";

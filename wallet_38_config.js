@@ -1,1 +1,1 @@
-var mnemonic = "impose pass hour ignore wage eagle update sense ozone mutual where town";
+var mnemonic = "wool myself hill stereo aim work skirt during question blue fine much";

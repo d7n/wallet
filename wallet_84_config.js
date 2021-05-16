@@ -1,1 +1,1 @@
-var mnemonic = "sauce gauge evidence quarter super oblige blind clay trash first oppose media";
+var mnemonic = "swamp response shy nurse ride school near quick charge canvas step island";

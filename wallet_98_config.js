@@ -1,1 +1,1 @@
-var mnemonic = "tent reduce merge rifle nothing slight ghost brand uniform blast embark coach";
+var mnemonic = "sentence fury almost faculty chair heart mosquito warrior grocery case fee decade";

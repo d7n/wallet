@@ -1,1 +1,1 @@
-var mnemonic = "problem monitor neck sad jaguar artwork oblige video twist woman plate defense";
+var mnemonic = "grab crater body together chicken leisure invite palm rebuild weather pig allow";

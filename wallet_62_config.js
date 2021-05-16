@@ -1,1 +1,1 @@
-var mnemonic = "rail siege local conduct remove recipe sausage that verb embark divert enlist";
+var mnemonic = "vocal drive muscle double aunt crawl video steel blame outside input blade";

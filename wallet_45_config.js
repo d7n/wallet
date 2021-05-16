@@ -1,1 +1,1 @@
-var mnemonic = "insect black then float tip recipe when gain title nice there salute";
+var mnemonic = "always buyer ocean pupil detail diagram shed flock during old spread else";

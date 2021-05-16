@@ -1,1 +1,1 @@
-var mnemonic = "ring lamp toilet right dish carpet include wheat burger picnic silver finger";
+var mnemonic = "agree leader praise guilt remain cousin monitor fury long way erosion design";

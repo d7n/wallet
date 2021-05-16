@@ -1,1 +1,1 @@
-var mnemonic = "team exhaust family current left purchase picture surround panther paper slender tape";
+var mnemonic = "cram seat bus bundle brush need insane glance stage path apple observe";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair betray assume deny swift mention giggle credit century cushion razor notice";
+var mnemonic = "sleep clump figure spray pipe valid cloth evil quarter zone spin solve";

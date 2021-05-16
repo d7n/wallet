@@ -1,1 +1,1 @@
-var mnemonic = "cost visit angle mistake orphan deny finish carpet congress pumpkin prosper interest";
+var mnemonic = "load wet network very imitate weird soda coil know apology portion obscure";

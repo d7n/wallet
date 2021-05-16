@@ -1,1 +1,1 @@
-var mnemonic = "bacon update donor giant gallery call person assault summer animal glove regret";
+var mnemonic = "uniform nerve simple approve off extra blame demise fatal clever goddess legend";

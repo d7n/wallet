@@ -1,1 +1,1 @@
-var mnemonic = "canvas hello spatial hope rack iron act abstract lady fun movie gown";
+var mnemonic = "setup draw best check timber battle toss stem topic lady three diet";

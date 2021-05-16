@@ -1,1 +1,1 @@
-var mnemonic = "festival ask fury coral increase sick result already carpet jeans step art";
+var mnemonic = "master problem logic grant cook trumpet nephew minor axis abuse seminar frog";

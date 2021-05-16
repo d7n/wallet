@@ -1,1 +1,1 @@
-var mnemonic = "giraffe verb gravity glass stage lemon buffalo brass hidden spend pepper bright";
+var mnemonic = "diet owner mass decade another mandate brush robot person gentle manual code";

@@ -1,1 +1,1 @@
-var mnemonic = "engage kidney double gate fee repeat uniform destroy rigid middle shaft struggle";
+var mnemonic = "organ skate paddle satisfy flag harsh daughter first occur sleep daring assist";

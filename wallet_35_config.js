@@ -1,1 +1,1 @@
-var mnemonic = "inside author large meadow enforce confirm health spend final prison cause drama";
+var mnemonic = "labor enforce core rebel segment learn dumb coffee luxury toss athlete drip";

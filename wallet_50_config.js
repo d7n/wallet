@@ -1,1 +1,1 @@
-var mnemonic = "rapid april spider shove into vehicle snake desert journey clean train vintage";
+var mnemonic = "select poet disease popular update run divert shiver couple supreme breeze dance";

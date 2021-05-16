@@ -1,1 +1,1 @@
-var mnemonic = "cover trend symptom recycle ripple neglect inside follow plug century tray suit";
+var mnemonic = "engage solar motion tired alert betray gaze series write pattern run reason";

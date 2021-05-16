@@ -1,1 +1,1 @@
-var mnemonic = "frozen rookie deputy garbage blind blanket catalog dad pole shift gasp extra";
+var mnemonic = "busy employ they loud paddle blast earth ridge harsh tunnel topple cheese";

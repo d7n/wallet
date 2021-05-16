@@ -1,1 +1,1 @@
-var mnemonic = "dragon special point spread power bleak any radio venue inquiry pond toward";
+var mnemonic = "reward trend steel mask effort omit work planet tank battle away faint";

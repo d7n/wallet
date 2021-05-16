@@ -1,1 +1,1 @@
-var mnemonic = "arctic vendor impose wood exercise raccoon twenty level food winner spike favorite";
+var mnemonic = "early friend flower female process when march finger small remain ski blue";

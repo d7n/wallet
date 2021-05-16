@@ -1,1 +1,1 @@
-var mnemonic = "excite family marble zoo ignore require panther view million exotic agent grace";
+var mnemonic = "drastic kitchen motion lady cousin suffer vast arm consider rich excess hobby";

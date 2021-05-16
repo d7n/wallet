@@ -1,1 +1,1 @@
-var mnemonic = "lazy book relax symbol together whip jump shield example avoid rebuild stool";
+var mnemonic = "simple benefit front ridge flush border blade ensure horn pet very harbor";

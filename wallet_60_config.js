@@ -1,1 +1,1 @@
-var mnemonic = "daring oxygen stable lesson deposit brave boring worth roof chuckle purchase panther";
+var mnemonic = "aisle truly eight alpha visa west plastic enter shop paper fun insane";

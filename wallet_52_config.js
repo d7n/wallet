@@ -1,1 +1,1 @@
-var mnemonic = "bamboo shoulder possible gain stamp top basic nation sure quick path salad";
+var mnemonic = "flight secret goose super amused slush misery absorb donor puzzle favorite priority";

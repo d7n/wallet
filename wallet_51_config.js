@@ -1,1 +1,1 @@
-var mnemonic = "humor present inch fog divide swift increase arctic strong fire goddess clog";
+var mnemonic = "ugly short issue simple mansion few suggest cup steel satoshi absorb multiply";

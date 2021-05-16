@@ -1,1 +1,1 @@
-var mnemonic = "kitten decide bird crane material glow gentle oak roof evil skill response";
+var mnemonic = "custom comfort slab shaft prosper clutch powder evidence expose road chunk gallery";

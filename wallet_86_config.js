@@ -1,1 +1,1 @@
-var mnemonic = "garden juice provide dragon accident swing planet afford fence short quarter poem";
+var mnemonic = "tiny unlock ketchup hub dirt typical clarify body slab sea leave canvas";

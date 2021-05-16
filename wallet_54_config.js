@@ -1,1 +1,1 @@
-var mnemonic = "glad square crisp skirt enrich taste all earth uncle guide dose helmet";
+var mnemonic = "arctic eternal skill like destroy frequent lawn giggle surge credit fossil blanket";

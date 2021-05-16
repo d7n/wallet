@@ -1,1 +1,1 @@
-var mnemonic = "shrimp ordinary crop seat arrange carbon empty rubber inform hawk food wagon";
+var mnemonic = "exercise unusual depth garden river else trend smart theory mention arena salad";

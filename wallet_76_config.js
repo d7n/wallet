@@ -1,1 +1,1 @@
-var mnemonic = "year cactus supreme inner dice resemble cushion item thought people father summer";
+var mnemonic = "end immune found pepper hurdle tool toe ribbon timber asset differ sentence";

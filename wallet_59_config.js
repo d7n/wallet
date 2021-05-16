@@ -1,1 +1,1 @@
-var mnemonic = "purity transfer gospel scatter bounce breeze dice medal they beef search assault";
+var mnemonic = "neither ahead bar need flock seek good diary segment equip cigar stumble";

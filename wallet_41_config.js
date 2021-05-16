@@ -1,1 +1,1 @@
-var mnemonic = "into napkin brown rate actress push wink success order punch verify fox";
+var mnemonic = "abstract crack radio phrase rival comic travel air illness submit present stomach";

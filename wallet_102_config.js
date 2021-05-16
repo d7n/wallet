@@ -1,1 +1,1 @@
-var mnemonic = "process theory song response relief cook dizzy vehicle grocery opera grunt prepare";
+var mnemonic = "discover stomach guilt rigid draw stable actual october hint youth remember sadness";

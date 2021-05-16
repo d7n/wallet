@@ -1,1 +1,1 @@
-var mnemonic = "rug doctor void spider venue verb guess flee ring giant salmon friend";
+var mnemonic = "magnet correct exact hybrid fever garden kite attack first runway spell cycle";

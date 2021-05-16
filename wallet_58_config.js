@@ -1,1 +1,1 @@
-var mnemonic = "tennis gaze apart debate educate elbow era refuse loan huge sunset whale";
+var mnemonic = "allow diamond enroll fitness movie tag stone soul mind cave knife element";

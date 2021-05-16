@@ -1,1 +1,1 @@
-var mnemonic = "actor chalk text fitness fame record furnace draft answer manage night among";
+var mnemonic = "quick path divide become reason butter mixed point march chunk slam powder";

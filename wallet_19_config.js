@@ -1,1 +1,1 @@
-var mnemonic = "access inmate advice penalty curve find chief hazard rib ship carbon horror";
+var mnemonic = "jealous until female mouse improve common birth obey give yellow agree industry";

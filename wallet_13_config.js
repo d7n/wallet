@@ -1,1 +1,1 @@
-var mnemonic = "short harsh quick agree owner valve brick hotel hope suit useful key";
+var mnemonic = "boring note history outer mimic exit deer poem slender success pencil bring";

@@ -1,1 +1,1 @@
-var mnemonic = "large swing vintage chat door couch gloom fury soda recycle release wealth";
+var mnemonic = "flight badge trade siren void owner derive found stick employ super actress";

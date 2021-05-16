@@ -1,1 +1,1 @@
-var mnemonic = "evoke record notable harsh run brother blind finger ability lawsuit birth mix";
+var mnemonic = "diary comic near then holiday nephew stairs april worth garment lumber chimney";

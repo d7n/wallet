@@ -1,1 +1,1 @@
-var mnemonic = "battle another evoke recall final promote average method coral regret enter segment";
+var mnemonic = "regret drastic swamp hub refuse erode airport cupboard lecture ginger universe hint";

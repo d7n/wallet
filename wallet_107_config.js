@@ -1,1 +1,1 @@
-var mnemonic = "reason negative awake march mad supply couple fall they tribe hood busy";
+var mnemonic = "quick atom frozen rose certain latin high uncover knock rhythm arena chair";

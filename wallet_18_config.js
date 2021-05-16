@@ -1,1 +1,1 @@
-var mnemonic = "trouble thrive angry arrange modify seek dial barely there there resource process";
+var mnemonic = "fiscal style dune library cart awkward fall creek illness gadget fan hair";

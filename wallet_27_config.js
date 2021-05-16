@@ -1,1 +1,1 @@
-var mnemonic = "normal robot copper unusual impose purchase cheese crime settle glove obtain enough";
+var mnemonic = "oppose weapon damp myth retire comfort rule matter indicate jelly flip jump";

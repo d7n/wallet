@@ -1,1 +1,1 @@
-var mnemonic = "turkey ill valid oxygen wheat absorb rural depart dance wrap isolate walnut";
+var mnemonic = "flee warfare uniform dynamic target romance mass siren jungle elegant shrimp advice";

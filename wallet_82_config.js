@@ -1,1 +1,1 @@
-var mnemonic = "faint video merit sudden warrior rabbit grass pulse barely clerk castle wrist";
+var mnemonic = "phrase off present drastic amateur skirt orchard female vicious virtual aisle office";

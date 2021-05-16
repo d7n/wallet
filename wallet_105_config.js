@@ -1,1 +1,1 @@
-var mnemonic = "roof napkin large game prize prison leave fan patient minor naive young";
+var mnemonic = "note fluid pilot rebel knock rural narrow bone name square client fold";

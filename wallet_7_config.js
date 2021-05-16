@@ -1,1 +1,1 @@
-var mnemonic = "ceiling plunge once undo tonight organ business inhale trim apology resist december";
+var mnemonic = "shoulder bullet taxi balcony digital replace just carry merry yard cliff sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "ability fan spell jaguar frown dignity weird mutual between about unable flush";
+var mnemonic = "save two awkward spread reflect credit post spare path jazz box dish";
