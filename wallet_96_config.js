@@ -1,1 +1,1 @@
-var mnemonic = "edit panda gorilla pond giraffe heavy pitch decrease stove flee fresh love";
+var mnemonic = "depart vintage host cereal have language scrub habit surge genuine baby lava";

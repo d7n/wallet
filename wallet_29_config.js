@@ -1,1 +1,1 @@
-var mnemonic = "ball street feature subway lyrics chalk census cloud fuel clerk twice jewel";
+var mnemonic = "print length coil gentle evoke into pistol scrub oven cycle spider mad";

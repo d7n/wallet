@@ -1,1 +1,1 @@
-var mnemonic = "stable quantum latin height leisure where share wasp judge cluster riot winter";
+var mnemonic = "misery lamp keen catch jeans legend east question obtain toward kiwi upon";

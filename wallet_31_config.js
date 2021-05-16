@@ -1,1 +1,1 @@
-var mnemonic = "few lottery timber screen normal enroll wisdom bulb marine flush swift deer";
+var mnemonic = "engine humor icon push pistol alone trumpet settle toss jelly feed gas";

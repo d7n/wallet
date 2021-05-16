@@ -1,1 +1,1 @@
-var mnemonic = "leader list must south jacket attend alpha region mail isolate satoshi squeeze";
+var mnemonic = "defy balcony ivory gravity peace woman auction walnut crucial mistake medal core";

@@ -1,1 +1,1 @@
-var mnemonic = "allow climb sweet casino oak usual slim fee shield mercy evil mutual";
+var mnemonic = "ball total wool nominee marble extra taxi need humble erase inner help";

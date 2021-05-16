@@ -1,1 +1,1 @@
-var mnemonic = "pet medal sample mechanic sport together volume royal message case dose cattle";
+var mnemonic = "photo artist disorder poverty nurse true extra excess dish industry vicious man";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory target angle gasp shoot mask garment isolate stick pink employ tourist";
+var mnemonic = "shock empower night dutch dolphin spell affair cheap sunset afford aerobic pond";

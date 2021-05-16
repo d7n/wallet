@@ -1,1 +1,1 @@
-var mnemonic = "pilot speed fury until mention exit library junior ignore cake sunset deposit";
+var mnemonic = "cycle hard ability frown dirt crack nominee pelican dignity scale exhibit observe";

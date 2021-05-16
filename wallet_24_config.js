@@ -1,1 +1,1 @@
-var mnemonic = "story enter trumpet witness lunar cloth shallow bicycle hunt mixed super stage";
+var mnemonic = "sauce arch expect lecture rescue blossom service link typical trophy trap where";

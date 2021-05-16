@@ -1,1 +1,1 @@
-var mnemonic = "buyer size hole garlic feel olive arch taxi survey hybrid bulb carpet";
+var mnemonic = "find plate work soccer monitor edge napkin million crime celery brave eyebrow";

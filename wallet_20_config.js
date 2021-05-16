@@ -1,1 +1,1 @@
-var mnemonic = "fashion average firm glory arena pipe glow fan worth satoshi turtle prosper";
+var mnemonic = "coil alarm excess order rent glance benefit guitar kick curve endorse radio";

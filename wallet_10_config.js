@@ -1,1 +1,1 @@
-var mnemonic = "theory someone spy recipe feel fun weasel brisk room piece hundred olympic";
+var mnemonic = "consider hub leave foam vast moral prosper student imitate copy clinic bottom";

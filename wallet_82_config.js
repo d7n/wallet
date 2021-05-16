@@ -1,1 +1,1 @@
-var mnemonic = "network wisdom arrest gun gap yellow inform arctic explain behind balance ostrich";
+var mnemonic = "muffin bottom verb pink describe wet note goose caught bronze vague expose";

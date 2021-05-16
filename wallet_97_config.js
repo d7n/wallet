@@ -1,1 +1,1 @@
-var mnemonic = "route victory diamond satisfy great flight ceiling struggle drill wonder rack series";
+var mnemonic = "debate thrive lion afraid flame merry humor wave lottery laugh culture utility";

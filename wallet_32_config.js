@@ -1,1 +1,1 @@
-var mnemonic = "ice catalog margin little month table pluck evil grass leader duty sense";
+var mnemonic = "stable essence screen idle share outer plug speak off cattle vicious grief";

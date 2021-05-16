@@ -1,1 +1,1 @@
-var mnemonic = "animal doctor tunnel fall analyst weather mango poem diagram bus provide long";
+var mnemonic = "embrace feed planet keep bronze cargo elbow slender future box spin cream";

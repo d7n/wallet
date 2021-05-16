@@ -1,1 +1,1 @@
-var mnemonic = "puzzle act butter purse laptop panther antique match burger pigeon waste barrel";
+var mnemonic = "ketchup mind arrive employ remove hill artist short left step movie churn";

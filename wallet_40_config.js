@@ -1,1 +1,1 @@
-var mnemonic = "april deny rigid stay demise physical skirt liquid heart replace major oak";
+var mnemonic = "across sword picture pioneer holiday spy laundry group small join multiply slight";

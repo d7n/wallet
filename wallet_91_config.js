@@ -1,1 +1,1 @@
-var mnemonic = "bulb chronic earth rally piece plug impulse observe rough link lamp december";
+var mnemonic = "lizard royal picture nest hidden coil gift wide person fever century tumble";

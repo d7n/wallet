@@ -1,1 +1,1 @@
-var mnemonic = "couch garment modify turkey author wagon october glide slogan during pull dinosaur";
+var mnemonic = "series share coyote combine desert dial must print pill giggle yellow catalog";

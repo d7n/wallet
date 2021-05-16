@@ -1,1 +1,1 @@
-var mnemonic = "loop yellow shrug across sunny patient harbor copy attack volcano frame broken";
+var mnemonic = "hint assume heart assault evil episode detect together woman sorry doll book";

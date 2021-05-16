@@ -1,1 +1,1 @@
-var mnemonic = "alter equal come improve glow place method deal captain ready galaxy quick";
+var mnemonic = "cheap chase more tourist cargo annual front cricket hollow slender used seed";

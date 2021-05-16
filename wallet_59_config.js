@@ -1,1 +1,1 @@
-var mnemonic = "organ food banner sheriff purse name shrug outdoor zone pony joy movie";
+var mnemonic = "loan crop maximum brush soldier paper permit monitor average rubber possible size";

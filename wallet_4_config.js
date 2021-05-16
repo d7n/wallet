@@ -1,1 +1,1 @@
-var mnemonic = "opinion mercy cloth depart banana trend staff involve invite artist column noble";
+var mnemonic = "venue glue curtain panel nominee crunch announce original submit wear basket sure";

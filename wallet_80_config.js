@@ -1,1 +1,1 @@
-var mnemonic = "budget fiscal spatial legend unveil liquid agree fork multiply member exchange jelly";
+var mnemonic = "suit banner twin spare dragon session photo ticket resource bind honey expire";

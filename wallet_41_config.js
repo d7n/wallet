@@ -1,1 +1,1 @@
-var mnemonic = "what rare only edge source hockey physical zebra label index sport soldier";
+var mnemonic = "increase trial mechanic judge drink neither sweet struggle prosper comfort pass chunk";

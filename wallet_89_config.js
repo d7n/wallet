@@ -1,1 +1,1 @@
-var mnemonic = "chief stuff deny village knock swarm shield push during key morning debate";
+var mnemonic = "amazing return illegal reason hockey sail various forward private guide prison gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "chair ticket bottom better they mountain give match flame mail shove vessel";
+var mnemonic = "prefer actor nut parade gallery year juice umbrella exist adjust earn perfect";

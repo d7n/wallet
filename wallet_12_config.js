@@ -1,1 +1,1 @@
-var mnemonic = "hat before scissors boost hand bike return dinosaur favorite feel puppy caution";
+var mnemonic = "wisdom wrist drip toss moral real hold rude ethics fossil rent funny";

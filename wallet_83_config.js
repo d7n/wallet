@@ -1,1 +1,1 @@
-var mnemonic = "boss noble evoke ritual custom edge snap slogan drill chuckle eternal slow";
+var mnemonic = "large era peasant crystal planet razor hint random exotic eager pottery nothing";

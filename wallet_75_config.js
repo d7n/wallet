@@ -1,1 +1,1 @@
-var mnemonic = "help vicious major shoot evolve uncle warrior brand embody birth reject mobile";
+var mnemonic = "drum can visual brush rare young that choose badge print gym cycle";

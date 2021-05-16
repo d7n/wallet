@@ -1,1 +1,1 @@
-var mnemonic = "property lumber picnic skin cool around crisp differ total garden model receive";
+var mnemonic = "first trash rebel mechanic bracket dance lazy captain cram still fruit glow";

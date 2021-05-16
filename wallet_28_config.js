@@ -1,1 +1,1 @@
-var mnemonic = "wood air speak bonus improve escape suffer neither rail swift pumpkin rude";
+var mnemonic = "weasel thought offer thrive rude negative train mystery truth demise core acid";

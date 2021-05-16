@@ -1,1 +1,1 @@
-var mnemonic = "language wrong modify shoot buyer rice thought excite shadow like rib segment";
+var mnemonic = "spawn share honey account physical foil pistol grief depend table decade return";

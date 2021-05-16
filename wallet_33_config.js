@@ -1,1 +1,1 @@
-var mnemonic = "ranch escape game luxury collect guilt age easily focus cotton circle cruise";
+var mnemonic = "section female salute force nothing noodle shell board tattoo oblige stick remind";

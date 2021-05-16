@@ -1,1 +1,1 @@
-var mnemonic = "genius weapon weasel album raccoon case inquiry soon wealth morning type enlist";
+var mnemonic = "tone result tumble shock kitten put clerk buyer sense hurry diesel shuffle";

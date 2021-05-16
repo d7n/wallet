@@ -1,1 +1,1 @@
-var mnemonic = "improve demise session funny local never rent defy lady trim empty repeat";
+var mnemonic = "assume loan meadow cross oyster goose country love pattern ridge avocado sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "capital session faculty mouse deposit lunch vanish squirrel predict name verb cheese";
+var mnemonic = "need uncover hole right sniff proof common clutch arrive fame gauge wing";

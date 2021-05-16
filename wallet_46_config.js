@@ -1,1 +1,1 @@
-var mnemonic = "fortune warm hotel buffalo vibrant fresh better theory toss hope absent luxury";
+var mnemonic = "unveil cage royal weather bargain drill panel case letter travel way medal";

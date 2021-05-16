@@ -1,1 +1,1 @@
-var mnemonic = "surge delay cupboard chunk cloth sport injury pluck acid apple embark cushion";
+var mnemonic = "plate salmon leaf cereal over public swarm dynamic toddler decorate vocal spirit";

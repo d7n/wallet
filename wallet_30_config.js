@@ -1,1 +1,1 @@
-var mnemonic = "mountain improve excess increase rural beef carpet bag unfold purse raise buddy";
+var mnemonic = "reform jazz baby zone letter curtain flash swallow print february furnace orchard";

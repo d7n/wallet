@@ -1,1 +1,1 @@
-var mnemonic = "alpha vast manual exhibit excite borrow pet stove episode fragile reopen canvas";
+var mnemonic = "write door humor trust series wisdom better zero sorry pig join hedgehog";

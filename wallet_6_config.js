@@ -1,1 +1,1 @@
-var mnemonic = "advice attend camera pool level switch protect vast lava trumpet grocery decline";
+var mnemonic = "merge sustain prepare inherit magnet spin media bacon empty file spare baby";

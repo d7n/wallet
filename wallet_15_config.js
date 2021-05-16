@@ -1,1 +1,1 @@
-var mnemonic = "arena broccoli motor blue donkey budget hand dignity solar rabbit piece crater";
+var mnemonic = "faculty cotton amazing cause female media often all cannon caution control pencil";

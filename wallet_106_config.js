@@ -1,1 +1,1 @@
-var mnemonic = "leisure spell angry ecology describe lecture next document fiscal leg attack nest";
+var mnemonic = "cake flower time turtle include define kiss satoshi spring explain voice walk";

@@ -1,1 +1,1 @@
-var mnemonic = "require medal cycle evidence labor hockey already lizard rifle sell omit prison";
+var mnemonic = "tribe engage valve pole snake topple inform height monitor peace because armed";

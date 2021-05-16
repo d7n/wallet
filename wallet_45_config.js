@@ -1,1 +1,1 @@
-var mnemonic = "jacket hip race toddler couch abandon dog protect ticket royal name stick";
+var mnemonic = "sight key notice rail oxygen deliver fiction teach tunnel spot neglect rich";

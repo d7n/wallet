@@ -1,1 +1,1 @@
-var mnemonic = "just vote biology release exhaust comic pink undo puzzle fabric gauge forget";
+var mnemonic = "portion vintage panic hold hole pole welcome return acoustic clerk suspect street";

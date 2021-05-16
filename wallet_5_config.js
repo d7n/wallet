@@ -1,1 +1,1 @@
-var mnemonic = "ordinary shuffle practice suspect give praise undo increase noble tired pelican lunch";
+var mnemonic = "party glide autumn chicken hurt tide dash across nuclear divide honey gloom";

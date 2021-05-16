@@ -1,1 +1,1 @@
-var mnemonic = "require flat tongue quote debris either soda armed forward eight fury dog";
+var mnemonic = "magnet energy adapt chalk lend dragon crumble ladder venture hover just earth";

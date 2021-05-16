@@ -1,1 +1,1 @@
-var mnemonic = "scare bar jungle avoid sunny woman annual convince pact indicate level split";
+var mnemonic = "amateur ski skirt olive bean online warrior ticket search document rotate ostrich";

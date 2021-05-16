@@ -1,1 +1,1 @@
-var mnemonic = "twelve noble bind claim lawn ceiling dwarf mixed okay plastic lift idea";
+var mnemonic = "inherit copy inherit behave clip virus coin upset cage logic animal august";

@@ -1,1 +1,1 @@
-var mnemonic = "coin brave mean breeze kangaroo ski beyond render become lion song illness";
+var mnemonic = "sugar reopen sense tip teach catch humor wood blood dress world lunch";

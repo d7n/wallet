@@ -1,1 +1,1 @@
-var mnemonic = "paper focus away clinic welcome employ wink kangaroo leopard warfare flag when";
+var mnemonic = "kid lawsuit alert shift bird minute manual glare diary sock potato wall";

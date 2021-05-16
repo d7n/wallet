@@ -1,1 +1,1 @@
-var mnemonic = "meadow auction ostrich enrich sunny only glory other alcohol feed tissue focus";
+var mnemonic = "bag fall ostrich document easily web error else lab nerve crouch devote";

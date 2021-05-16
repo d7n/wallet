@@ -1,1 +1,1 @@
-var mnemonic = "craft pact blanket unfold pupil erosion duty field false embody clip need";
+var mnemonic = "element buddy climb chronic romance oxygen flip exist battle jewel cake poet";

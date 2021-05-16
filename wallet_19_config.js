@@ -1,1 +1,1 @@
-var mnemonic = "budget term arctic boil slush toast bridge pill snap pig correct traffic";
+var mnemonic = "crawl truth identify battle kangaroo salon stick type toilet nasty kiss voyage";

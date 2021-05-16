@@ -1,1 +1,1 @@
-var mnemonic = "change move confirm hair steel athlete office mimic liberty problem supply fringe";
+var mnemonic = "fitness spray author bulb height arrest distance opera artwork reveal rude monster";

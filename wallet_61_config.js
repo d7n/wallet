@@ -1,1 +1,1 @@
-var mnemonic = "swallow cricket proud flag universe assault memory movie sauce grief inform credit";
+var mnemonic = "reflect sustain jungle dice quarter actual hurry run nature mean arrow penalty";

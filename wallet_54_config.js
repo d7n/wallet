@@ -1,1 +1,1 @@
-var mnemonic = "august prison expect onion mountain cancel loud april tip decorate segment local";
+var mnemonic = "alone awake minor age favorite tongue age spoil you kidney device predict";

@@ -1,1 +1,1 @@
-var mnemonic = "scene height spring initial scatter want mosquito card now grocery object quality";
+var mnemonic = "pledge syrup year silent door wagon muffin ugly gadget boy alert offer";

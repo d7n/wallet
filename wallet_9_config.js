@@ -1,1 +1,1 @@
-var mnemonic = "zoo tool vintage deposit onion consider team antenna damage unlock iron matter";
+var mnemonic = "junior huge fence purse company effort suffer tree judge wave erupt present";

@@ -1,1 +1,1 @@
-var mnemonic = "local vessel achieve this baby embody comic food frequent summer bundle gesture";
+var mnemonic = "medal owner extend below child furnace start offer churn echo pool empower";

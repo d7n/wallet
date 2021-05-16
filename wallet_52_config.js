@@ -1,1 +1,1 @@
-var mnemonic = "best wrong tank adult hedgehog park hill devote cheap desk trick rain";
+var mnemonic = "believe hotel used lecture win profit jeans doctor noodle crash coach bird";

@@ -1,1 +1,1 @@
-var mnemonic = "school print purse kit bulk document hammer ensure foot check human burger";
+var mnemonic = "sadness same hover plug gasp mosquito metal print attend outside thumb bacon";

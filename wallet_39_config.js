@@ -1,1 +1,1 @@
-var mnemonic = "pave mammal donor fresh proud turn dust alert room escape soldier claim";
+var mnemonic = "drum hurdle near vendor around era honey lady album antique water unhappy";

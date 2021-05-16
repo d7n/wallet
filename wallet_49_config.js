@@ -1,1 +1,1 @@
-var mnemonic = "error company throw lottery woman zone general lawsuit figure gravity pattern moral";
+var mnemonic = "urge muscle fresh update sell artwork hole sell country foster sight snow";

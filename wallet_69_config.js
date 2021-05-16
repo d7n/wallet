@@ -1,1 +1,1 @@
-var mnemonic = "birth apple host dirt special gift space veteran insect crisp tent robot";
+var mnemonic = "genuine unlock nice already stomach item hazard biology avoid concert wheat arctic";

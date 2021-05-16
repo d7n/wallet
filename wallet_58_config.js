@@ -1,1 +1,1 @@
-var mnemonic = "shadow rely prevent coyote truck critic inhale equip machine wolf cram world";
+var mnemonic = "praise render snap inmate roof okay obtain expose dutch day common van";

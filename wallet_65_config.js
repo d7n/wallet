@@ -1,1 +1,1 @@
-var mnemonic = "trip holiday merge swallow enemy dawn nurse mammal earth young turn awful";
+var mnemonic = "kick tornado argue image future body pizza essay force sister impulse pride";

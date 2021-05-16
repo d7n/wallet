@@ -1,1 +1,1 @@
-var mnemonic = "mention census bundle mail lady inch label reform drill donor excess ecology";
+var mnemonic = "lesson nice shallow cluster build still extend rifle fossil kind invest forum";

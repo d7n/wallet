@@ -1,1 +1,1 @@
-var mnemonic = "wish walnut recipe iron jeans style material sphere tell sight rapid sponsor";
+var mnemonic = "cup voice dutch marine swamp silly warrior ranch before muffin style radio";

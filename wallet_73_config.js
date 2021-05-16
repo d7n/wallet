@@ -1,1 +1,1 @@
-var mnemonic = "either noodle panda trip group time gallery elephant benefit original together sausage";
+var mnemonic = "orphan retreat broom stock example hip dumb aware parent wedding swim slot";

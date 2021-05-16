@@ -1,1 +1,1 @@
-var mnemonic = "almost glad tomato bag sign flag depend shaft smile bird science govern";
+var mnemonic = "tenant whale push myself obtain people fossil zoo barely race then thought";

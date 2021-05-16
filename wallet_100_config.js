@@ -1,1 +1,1 @@
-var mnemonic = "mad dry state invite embark rug eye just force spare escape letter";
+var mnemonic = "reject cancel dumb stock diary clog shallow truck artefact sister leopard ugly";

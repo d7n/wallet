@@ -1,1 +1,1 @@
-var mnemonic = "broom whale gadget ability pipe upon short ridge agree debris diary frame";
+var mnemonic = "plug lab common sure spatial diagram cheese meat budget legend hungry boat";

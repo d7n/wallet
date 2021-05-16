@@ -1,1 +1,1 @@
-var mnemonic = "pony echo kiwi fire grocery usual drink vacuum dinosaur marble this act";
+var mnemonic = "turkey ripple wild stage upon walk decline lava race enlist target help";

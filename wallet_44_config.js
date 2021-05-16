@@ -1,1 +1,1 @@
-var mnemonic = "bench neck sheriff couple differ account surface hair yard amateur acid logic";
+var mnemonic = "novel clown art source rough security average buzz lawn swift diary filter";

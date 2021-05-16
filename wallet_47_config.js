@@ -1,1 +1,1 @@
-var mnemonic = "crater clerk squirrel sound hurry install surge awful blur success card argue";
+var mnemonic = "virtual dial trick door jealous portion that away found casual mystery honey";

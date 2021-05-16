@@ -1,1 +1,1 @@
-var mnemonic = "kid cricket share join category slow pledge demand cause movie electric pulse";
+var mnemonic = "feed arrest ten govern spoil harsh pelican shoot zebra raise sauce country";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet follow whale parade grit gloom breeze effort police swear special gauge";
+var mnemonic = "shift youth october drill inside level midnight method home thumb door end";

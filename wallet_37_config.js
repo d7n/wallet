@@ -1,1 +1,1 @@
-var mnemonic = "air trash whale noble jelly decrease sketch educate lobster version cabin punch";
+var mnemonic = "food talent couch pride quit enhance wife company clay sleep hobby rude";

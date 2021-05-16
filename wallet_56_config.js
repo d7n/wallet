@@ -1,1 +1,1 @@
-var mnemonic = "ring kite dynamic category cup alpha butter hint robot sister dynamic clinic";
+var mnemonic = "box clinic civil gospel upset sand crunch twist right bright nasty exhaust";

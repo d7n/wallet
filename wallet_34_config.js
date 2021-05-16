@@ -1,1 +1,1 @@
-var mnemonic = "squirrel inject rhythm infant clip consider spike coast witness select degree bleak";
+var mnemonic = "tone huge ready palm decrease scan camp swing fit blanket cement rhythm";

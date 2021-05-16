@@ -1,1 +1,1 @@
-var mnemonic = "oyster van vicious glare birth bread gown section tornado various bubble cupboard";
+var mnemonic = "morning category immune category various ostrich fury current ranch hole help spend";

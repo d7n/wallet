@@ -1,1 +1,1 @@
-var mnemonic = "hockey achieve record tree sort acid found same embody dash doctor wide";
+var mnemonic = "lab field dad zebra spot arrive sea token basic subway edge valid";

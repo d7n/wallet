@@ -1,1 +1,1 @@
-var mnemonic = "talk hidden pink crush tip nerve unknown pelican planet category vicious height";
+var mnemonic = "dilemma program kingdom group strategy lounge lunch loyal crazy tortoise siege equal";
