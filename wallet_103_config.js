@@ -1,1 +1,1 @@
-var mnemonic = "secret liar sorry paddle gift cup provide during modify direct truth jelly";
+var mnemonic = "rule keep spend assume art dream cereal pitch liquid mirror armor rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity core wear jealous nature bamboo cash primary total buffalo carpet beach";
+var mnemonic = "wrong toy service nerve inject income evidence share change square rich correct";

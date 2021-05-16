@@ -1,1 +1,1 @@
-var mnemonic = "elite clown raven dust ready curious bless rubber harbor insane during lucky";
+var mnemonic = "bacon scissors pretty balcony quit bag jungle escape bag select clarify above";

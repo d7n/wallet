@@ -1,1 +1,1 @@
-var mnemonic = "tray school damp forget bind matrix rent height runway present message assist";
+var mnemonic = "harvest frown basic small vanish jungle talk close cruel mandate treat cave";

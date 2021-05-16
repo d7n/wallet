@@ -1,1 +1,1 @@
-var mnemonic = "mango text select decide unveil ugly announce smart enforce limb series gentle";
+var mnemonic = "file hockey tornado tray camera tiger clock bulb situate catch merge cloud";

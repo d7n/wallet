@@ -1,1 +1,1 @@
-var mnemonic = "elder unfold easy tank purpose dad citizen hire bunker speak gate labor";
+var mnemonic = "thrive must bacon birth rice entire believe heavy roof profit fire divert";

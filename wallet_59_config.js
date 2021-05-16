@@ -1,1 +1,1 @@
-var mnemonic = "butter rigid little lunar love seminar task machine slender exercise ring cable";
+var mnemonic = "element crunch prison art view slice wrap judge adapt luggage faculty build";

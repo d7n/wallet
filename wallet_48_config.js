@@ -1,1 +1,1 @@
-var mnemonic = "festival social moment west chimney august possible end wrist axis employ always";
+var mnemonic = "name issue retire wealth slight main field club party address equip diesel";

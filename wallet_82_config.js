@@ -1,1 +1,1 @@
-var mnemonic = "away cash attack soft bread daring deposit organ question economy fall benefit";
+var mnemonic = "brief gasp order south address window payment protect youth rabbit shed shield";

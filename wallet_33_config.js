@@ -1,1 +1,1 @@
-var mnemonic = "slush slab feature melt citizen zebra essence destroy vapor voice demise shuffle";
+var mnemonic = "portion person spirit loop ramp special rival lesson cancel addict congress tobacco";

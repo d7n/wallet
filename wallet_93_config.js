@@ -1,1 +1,1 @@
-var mnemonic = "mammal wink picnic badge stone hurt manage pig forget twice arctic pact";
+var mnemonic = "depart any taxi hero true reflect begin myth fee month bounce wheel";

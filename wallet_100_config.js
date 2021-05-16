@@ -1,1 +1,1 @@
-var mnemonic = "forum horn clown spell east exclude this palace file cotton advance crucial";
+var mnemonic = "arch toe eyebrow tobacco now venue topic hand amount online primary north";

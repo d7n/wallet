@@ -1,1 +1,1 @@
-var mnemonic = "proof crystal lonely sail screen tornado west grocery reunion price wife lady";
+var mnemonic = "text million mention dinner regret ability gasp old swift jealous machine cattle";

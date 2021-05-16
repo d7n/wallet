@@ -1,1 +1,1 @@
-var mnemonic = "lizard become asset silk upon destroy peanut usage sure local mountain goddess";
+var mnemonic = "royal gaze prevent still orient add parent visa group long sleep subject";

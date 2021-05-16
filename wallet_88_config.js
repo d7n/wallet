@@ -1,1 +1,1 @@
-var mnemonic = "indoor quarter sheriff chief equip liar want attend cover harvest forest wing";
+var mnemonic = "energy symbol canal sibling rely furnace mule inmate mutual duck inquiry wise";

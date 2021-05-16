@@ -1,1 +1,1 @@
-var mnemonic = "agent upper creek gauge again reward lunar siren detect flush corn water";
+var mnemonic = "unfold response glove raw prosper enforce okay saddle price gallery alert quit";

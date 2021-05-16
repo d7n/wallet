@@ -1,1 +1,1 @@
-var mnemonic = "age abuse family employ snack stumble book tortoise scrap east visual vital";
+var mnemonic = "push kind setup walk double crisp debris crumble income vehicle mystery fire";

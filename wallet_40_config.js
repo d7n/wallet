@@ -1,1 +1,1 @@
-var mnemonic = "cradle setup arrive polar motion vintage guard tower blanket party small session";
+var mnemonic = "present vibrant lawn glimpse collect city perfect net recycle video draft input";

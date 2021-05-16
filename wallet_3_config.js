@@ -1,1 +1,1 @@
-var mnemonic = "blossom awesome always rural pulse member garden april catch trumpet unusual armor";
+var mnemonic = "order brand kiss venture useless mystery mixed shallow celery tornado edit eager";

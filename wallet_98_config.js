@@ -1,1 +1,1 @@
-var mnemonic = "balcony innocent seat soft level current bar struggle someone aunt affair ball";
+var mnemonic = "horse sunny alpha episode poet erase print model label dose lemon horn";

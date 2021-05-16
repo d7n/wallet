@@ -1,1 +1,1 @@
-var mnemonic = "wait town remain capital response couch find repeat faculty fat merry swamp";
+var mnemonic = "stuff stick broccoli wall hen paddle artwork neglect muffin copy process add";

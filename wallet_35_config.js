@@ -1,1 +1,1 @@
-var mnemonic = "across horse flash wheel rack park car equip turn north nerve bleak";
+var mnemonic = "hotel flavor layer turtle diary age day fossil junk permit yellow organ";

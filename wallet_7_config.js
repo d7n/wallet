@@ -1,1 +1,1 @@
-var mnemonic = "client rocket garment omit face summer attitude kite couple rifle stomach dinosaur";
+var mnemonic = "oval increase stay staff raven pear winter salt hat mean host exact";

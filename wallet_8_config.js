@@ -1,1 +1,1 @@
-var mnemonic = "ski ensure awake script farm jeans category dose elephant what accuse settle";
+var mnemonic = "meat version brick toss figure poverty clean trumpet vast foot beach autumn";

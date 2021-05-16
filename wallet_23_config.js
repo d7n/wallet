@@ -1,1 +1,1 @@
-var mnemonic = "topic hammer text impulse drama aisle ancient margin silk famous all private";
+var mnemonic = "clip industry egg industry coast rural police act drastic split boat force";

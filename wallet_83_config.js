@@ -1,1 +1,1 @@
-var mnemonic = "predict calm truth table tobacco bird basic reform pencil plate phone garment";
+var mnemonic = "spell mom reward fragile rain seek join fortune beef luggage clutch swim";

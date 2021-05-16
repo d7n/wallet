@@ -1,1 +1,1 @@
-var mnemonic = "cover keep excuse ready melody junior squirrel better wealth april find learn";
+var mnemonic = "muffin heavy vacuum gun detect danger elder upon make small coffee thing";

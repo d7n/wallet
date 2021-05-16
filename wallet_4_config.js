@@ -1,1 +1,1 @@
-var mnemonic = "false nut fault gallery pulse phrase love seven rural settle wall exit";
+var mnemonic = "feed title expand lazy wood gravity faculty brand fatal curve bulb hole";

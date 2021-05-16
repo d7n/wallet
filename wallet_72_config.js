@@ -1,1 +1,1 @@
-var mnemonic = "credit erupt renew rabbit peanut bulk harbor grief brush jewel torch left";
+var mnemonic = "correct uniform rival corn tooth isolate sustain icon wait teach frozen quality";

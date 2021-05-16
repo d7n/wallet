@@ -1,1 +1,1 @@
-var mnemonic = "face keep true note cube lucky keen vast undo office genius rigid";
+var mnemonic = "chalk shiver orphan earth dynamic market illegal seat craft faculty video off";

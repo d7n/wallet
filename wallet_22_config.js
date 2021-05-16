@@ -1,1 +1,1 @@
-var mnemonic = "lava school combine bargain spare frog slam bundle addict inspire body dry";
+var mnemonic = "vote latin visit chuckle fossil vintage early update punch alpha hub until";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon path degree license appear arena car kiwi pond echo series merry";
+var mnemonic = "obvious deer fish census dismiss permit wrap mobile neutral business time enable";

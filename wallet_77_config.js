@@ -1,1 +1,1 @@
-var mnemonic = "good robust narrow digital ball cup always discover act mobile flat rebuild";
+var mnemonic = "expect industry join urge monkey attend search gravity salmon father gym jacket";

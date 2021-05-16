@@ -1,1 +1,1 @@
-var mnemonic = "manage shift hint frame hover word ask bachelor father false develop rifle";
+var mnemonic = "improve only net unknown near wolf mention become avoid radar toy parade";

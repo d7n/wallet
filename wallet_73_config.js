@@ -1,1 +1,1 @@
-var mnemonic = "witness category whale whisper cover grief used city pluck solution disorder quick";
+var mnemonic = "pig entire believe sentence cricket card name panic struggle skin hold display";

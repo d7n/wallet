@@ -1,1 +1,1 @@
-var mnemonic = "grid wide blouse imitate vapor emotion slush want awkward fossil humble swamp";
+var mnemonic = "they exchange leader correct morning utility involve length portion economy garment cash";

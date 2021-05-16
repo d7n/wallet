@@ -1,1 +1,1 @@
-var mnemonic = "display friend quick old need always truly solid potato ancient swarm column";
+var mnemonic = "reunion chicken portion daughter arena victory certain vintage advance boost media broken";

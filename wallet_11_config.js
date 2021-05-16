@@ -1,1 +1,1 @@
-var mnemonic = "victory frost poverty eager already above town become cousin live impulse chronic";
+var mnemonic = "wage rival festival few pipe rigid clump expect few radio ready logic";

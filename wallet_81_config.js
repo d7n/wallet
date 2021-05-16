@@ -1,1 +1,1 @@
-var mnemonic = "bronze ball change happy light common kidney swap figure wool waste used";
+var mnemonic = "mom whale nest evidence limb canvas luxury cake salon venture amount lawn";

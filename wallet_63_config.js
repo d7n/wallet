@@ -1,1 +1,1 @@
-var mnemonic = "word ensure fever rescue erase oblige weird matrix best pact clip female";
+var mnemonic = "hundred knock casual fatigue split picnic maid skill pass catch opinion lend";

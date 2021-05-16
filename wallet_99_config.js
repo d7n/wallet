@@ -1,1 +1,1 @@
-var mnemonic = "frame reflect screen chimney priority general multiply vessel urban practice smile team";
+var mnemonic = "borrow garage blind owner shadow click door trip tray since gasp exhaust";

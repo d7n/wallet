@@ -1,1 +1,1 @@
-var mnemonic = "moral balcony denial spice payment hero fault witness work capital area shell";
+var mnemonic = "ill tray find tortoise peace rather pool surprise unusual load toward budget";

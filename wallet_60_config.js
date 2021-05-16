@@ -1,1 +1,1 @@
-var mnemonic = "more reduce tape useless pencil symbol stem frame result remove amount bitter";
+var mnemonic = "wheel adult plate maid dignity valley keen father response ensure vocal light";

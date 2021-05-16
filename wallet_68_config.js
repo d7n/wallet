@@ -1,1 +1,1 @@
-var mnemonic = "boy way garage slow broccoli merit adapt denial acid dog obvious flash";
+var mnemonic = "whale often solution ridge actor crop lunch toddler crawl suggest earn claim";

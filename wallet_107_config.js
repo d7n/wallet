@@ -1,1 +1,1 @@
-var mnemonic = "gaze hair wage symptom grow siege gravity season hole force enact joke";
+var mnemonic = "laundry enforce avoid walnut rib help vanish report during taste bottom firm";

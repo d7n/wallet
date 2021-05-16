@@ -1,1 +1,1 @@
-var mnemonic = "lumber twist such behave occur upon news portion worth post satisfy lecture";
+var mnemonic = "region differ mix genre primary taxi steel monkey brand cotton people picnic";

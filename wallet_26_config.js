@@ -1,1 +1,1 @@
-var mnemonic = "unknown maximum present blouse raven auto armor trial fan mimic misery oppose";
+var mnemonic = "brass woman never pupil gaze slender cat flight shoe bamboo voyage remind";

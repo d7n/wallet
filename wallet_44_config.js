@@ -1,1 +1,1 @@
-var mnemonic = "picnic process oval chat goose impose poverty cute provide quarter draft weekend";
+var mnemonic = "mail record accuse amateur vacant math clinic interest animal know favorite tribe";

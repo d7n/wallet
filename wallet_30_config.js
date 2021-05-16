@@ -1,1 +1,1 @@
-var mnemonic = "flag audit degree common attend wash satisfy busy pitch loop wrestle mix";
+var mnemonic = "achieve dry alley oblige dice mass budget stove mother pig long lend";

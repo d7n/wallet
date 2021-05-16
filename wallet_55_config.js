@@ -1,1 +1,1 @@
-var mnemonic = "general diamond electric grid bag lamp rice figure enjoy scene mesh wild";
+var mnemonic = "argue gate term infant foot discover add quarter hurdle display woman obey";

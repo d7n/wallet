@@ -1,1 +1,1 @@
-var mnemonic = "later nature blur hard wide lock company edit pizza afford husband witness";
+var mnemonic = "glue fee regular share judge promote purpose coast casino jump wrestle fashion";

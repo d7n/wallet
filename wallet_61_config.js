@@ -1,1 +1,1 @@
-var mnemonic = "robust town screen hedgehog easy exchange ancient install judge medal fragile topic";
+var mnemonic = "describe orbit stairs love biology poet switch front foil wood duty process";

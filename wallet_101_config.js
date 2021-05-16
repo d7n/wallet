@@ -1,1 +1,1 @@
-var mnemonic = "blur any pig guitar inner service twelve celery oak critic scrub cabin";
+var mnemonic = "crack audit home lyrics chest zebra one broom sing inject twin blouse";

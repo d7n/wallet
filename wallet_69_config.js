@@ -1,1 +1,1 @@
-var mnemonic = "mansion expect merry trend kite vacuum ecology lawn december pig radar cycle";
+var mnemonic = "media real debate review report list enhance leopard apart sustain hover hundred";

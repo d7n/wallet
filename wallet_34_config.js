@@ -1,1 +1,1 @@
-var mnemonic = "nerve sweet bag used decline lift attitude rug lounge absorb multiply gather";
+var mnemonic = "hedgehog later crystal book calm erode tuition fox second hockey frozen ridge";

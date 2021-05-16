@@ -1,1 +1,1 @@
-var mnemonic = "quit balance engage juice finish sense fee claw agent canal home moral";
+var mnemonic = "uniform alone neck double unlock version donor welcome panda blouse exit fall";

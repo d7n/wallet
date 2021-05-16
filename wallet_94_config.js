@@ -1,1 +1,1 @@
-var mnemonic = "soda dust report grit arrive gloom ghost remind human chef quit private";
+var mnemonic = "game frost senior release goddess small arch medal patch board rapid sting";

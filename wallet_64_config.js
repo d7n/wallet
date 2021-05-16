@@ -1,1 +1,1 @@
-var mnemonic = "jealous nerve walk across rescue amused impulse bachelor champion oppose hollow cart";
+var mnemonic = "common today shrimp dolphin pass brisk energy hair popular only prefer weird";

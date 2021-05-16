@@ -1,1 +1,1 @@
-var mnemonic = "eternal announce wall reject nuclear pen outdoor mother skirt loop curve category";
+var mnemonic = "coach among tilt unhappy able arrest practice glory fabric afford furnace senior";

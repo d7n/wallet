@@ -1,1 +1,1 @@
-var mnemonic = "cruel hidden pupil alert medal hammer nurse economy team snow tilt wonder";
+var mnemonic = "ecology trouble skull cube step hover evil course paper bargain feature indicate";

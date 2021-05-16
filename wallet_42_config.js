@@ -1,1 +1,1 @@
-var mnemonic = "symbol monitor apology sand luggage adjust few problem patient tray resist mountain";
+var mnemonic = "mother cross piece guitar cram gather indicate add chronic only tilt answer";

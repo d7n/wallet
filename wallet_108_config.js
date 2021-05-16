@@ -1,1 +1,1 @@
-var mnemonic = "decline soon bullet fatal bacon bachelor trophy spoon wisdom unit amazing casino";
+var mnemonic = "shallow supreme uniform slight west public announce until valve gesture flat junior";

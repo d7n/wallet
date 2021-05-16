@@ -1,1 +1,1 @@
-var mnemonic = "festival dinosaur dizzy eternal mixed run build usual grid lend goose rocket";
+var mnemonic = "that exit spot badge harbor carbon someone observe goddess liquid clever online";

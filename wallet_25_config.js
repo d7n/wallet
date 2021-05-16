@@ -1,1 +1,1 @@
-var mnemonic = "guard fiction observe bubble clinic weird candy bread absorb like thank focus";
+var mnemonic = "riot describe nose ladder fiction foil rack million pioneer unveil smooth bird";

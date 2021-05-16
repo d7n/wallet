@@ -1,1 +1,1 @@
-var mnemonic = "empty spatial series wrist garden lion chase pipe assume cluster tackle miss";
+var mnemonic = "limb other galaxy female melody drive fossil claim warfare volcano clinic way";

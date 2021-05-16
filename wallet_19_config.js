@@ -1,1 +1,1 @@
-var mnemonic = "remind satoshi priority diagram mass regret horn music biology clinic garbage satoshi";
+var mnemonic = "color cause bargain heart gadget wall jump assist priority assist exotic same";

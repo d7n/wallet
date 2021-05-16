@@ -1,1 +1,1 @@
-var mnemonic = "mango fire iron suffer fragile employ artist exercise laptop siren exact solar";
+var mnemonic = "green vicious pelican tribe bicycle among garden vacant uncover meat impact journey";

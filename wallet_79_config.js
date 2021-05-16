@@ -1,1 +1,1 @@
-var mnemonic = "slogan gap train element loyal final series use large fatal report when";
+var mnemonic = "coffee yellow dirt nerve alcohol during auction shrimp pave close strike six";

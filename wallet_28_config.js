@@ -1,1 +1,1 @@
-var mnemonic = "ship fix mix entry hen goat bronze spray skill patrol cup skate";
+var mnemonic = "task abstract glue mountain ecology repeat bring lady upon side unit quiz";

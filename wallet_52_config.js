@@ -1,1 +1,1 @@
-var mnemonic = "mistake impulse flame seminar crisp spawn inform ski actress wet horse side";
+var mnemonic = "vicious strategy quote motion federal culture equip end color myth burden language";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist more neither soup same wide race bus swift make kitten marble";
+var mnemonic = "library face tip arrive pear stay thought save huge legend security remove";

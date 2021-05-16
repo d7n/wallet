@@ -1,1 +1,1 @@
-var mnemonic = "inflict ancient soul type purse control private dry frame evil reflect educate";
+var mnemonic = "govern trial load drama toast good hair glad come float stage refuse";

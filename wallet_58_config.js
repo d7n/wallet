@@ -1,1 +1,1 @@
-var mnemonic = "initial tobacco wrist cinnamon segment response tower social flame cool egg emerge";
+var mnemonic = "inherit scan kingdom palace awful salon suffer feel stock unit cliff surprise";

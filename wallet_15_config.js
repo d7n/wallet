@@ -1,1 +1,1 @@
-var mnemonic = "someone retreat unlock salon peace horn bean castle damage knife soda mass";
+var mnemonic = "rail kit cushion manual tattoo jewel march slim razor cricket banana few";

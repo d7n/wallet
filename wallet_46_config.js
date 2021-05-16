@@ -1,1 +1,1 @@
-var mnemonic = "oppose monitor tobacco age habit use adjust syrup sausage comic practice remain";
+var mnemonic = "reward huge normal kingdom enjoy ancient depart apple nerve quick afraid grit";

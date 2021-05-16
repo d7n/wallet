@@ -1,1 +1,1 @@
-var mnemonic = "crouch weekend tissue capital car muscle error glass extra zone section praise";
+var mnemonic = "keen type world razor sand major chimney dirt maximum expect bread globe";

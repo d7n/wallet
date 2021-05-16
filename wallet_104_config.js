@@ -1,1 +1,1 @@
-var mnemonic = "spray ceiling range fortune patrol ill vacant cave rich mango tent endless";
+var mnemonic = "glove doll pair empower achieve animal place flavor bitter toast answer shadow";

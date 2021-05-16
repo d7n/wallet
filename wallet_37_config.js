@@ -1,1 +1,1 @@
-var mnemonic = "orange sad number assault police pond message surge then witness creek ocean";
+var mnemonic = "visual select build street web celery tilt stick ghost pet addict away";

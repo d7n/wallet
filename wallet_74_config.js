@@ -1,1 +1,1 @@
-var mnemonic = "usage spray try expire original possible produce bullet float slogan shed admit";
+var mnemonic = "scale decorate boy day scale embody speak useless pony diet amazing range";

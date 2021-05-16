@@ -1,1 +1,1 @@
-var mnemonic = "rug damage scene saddle dignity spend oblige shoot eyebrow obey series mechanic";
+var mnemonic = "design trigger only abuse weird hawk traffic abuse armor critic slot bread";

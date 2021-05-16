@@ -1,1 +1,1 @@
-var mnemonic = "credit tomorrow mammal price leave cereal riot system weather pink trust fog";
+var mnemonic = "blush agent sign electric turkey love upper trend sad spirit enrich blind";

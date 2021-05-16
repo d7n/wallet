@@ -1,1 +1,1 @@
-var mnemonic = "man destroy pottery destroy one suspect eagle planet twice file plunge taste";
+var mnemonic = "crime plug help transfer occur drama blouse wrong dune bench under wolf";

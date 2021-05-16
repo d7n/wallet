@@ -1,1 +1,1 @@
-var mnemonic = "cactus pupil pond north december surface drastic pyramid wreck sword nest notable";
+var mnemonic = "bracket pill index raccoon stem mansion despair wife ten swamp deal knee";

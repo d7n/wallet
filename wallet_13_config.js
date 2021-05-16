@@ -1,1 +1,1 @@
-var mnemonic = "table section abandon lizard viable tuition skate hawk nominee flip deal talk";
+var mnemonic = "whip biology enlist depart duty increase two shield fancy jar alone unknown";

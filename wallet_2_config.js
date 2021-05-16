@@ -1,1 +1,1 @@
-var mnemonic = "sheriff tent chef elbow alpha image salon fence joke wisdom unveil fee";
+var mnemonic = "rain stool reopen pave dignity river pluck shell else leopard develop toe";
