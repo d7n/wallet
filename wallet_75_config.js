@@ -1,1 +1,1 @@
-var mnemonic = "filter primary velvet doctor club agree curtain side match young decline develop";
+var mnemonic = "fatigue usage silly whisper lounge trip anchor invest scale brush arrange nominee";

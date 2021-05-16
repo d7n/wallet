@@ -1,1 +1,1 @@
-var mnemonic = "wonder avocado main monkey various street want tooth minor keen urban silent";
+var mnemonic = "giant allow symbol gravity later coach make weird unfair jewel chest cargo";

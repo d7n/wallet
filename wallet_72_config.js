@@ -1,1 +1,1 @@
-var mnemonic = "inject truck shadow absent column dad mad couch copper okay wedding tragic";
+var mnemonic = "tragic believe rival gasp wheel thrive appear script discover clerk boss crystal";

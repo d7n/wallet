@@ -1,1 +1,1 @@
-var mnemonic = "jealous pigeon indoor feed milk pumpkin excess pulp oyster loyal stay skate";
+var mnemonic = "assume sphere gossip merry guess cake avoid lounge clap bottom spend clump";

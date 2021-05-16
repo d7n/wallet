@@ -1,1 +1,1 @@
-var mnemonic = "domain problem buffalo unfair quiz winter myself metal focus explain blouse gauge";
+var mnemonic = "slush any segment tonight fresh unveil gentle inspire super swarm dry glimpse";

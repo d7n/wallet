@@ -1,1 +1,1 @@
-var mnemonic = "danger bench ceiling trend climb sad idea quarter era differ choose elder";
+var mnemonic = "noise fatal syrup muscle bundle unhappy path tenant wonder huge leaf army";

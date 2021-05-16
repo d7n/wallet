@@ -1,1 +1,1 @@
-var mnemonic = "season proof spoon age cactus law sheriff between museum drum used size";
+var mnemonic = "speed high weapon satoshi main run cattle pioneer pelican void describe imitate";

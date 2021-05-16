@@ -1,1 +1,1 @@
-var mnemonic = "gravity visual glimpse exit fly cactus enjoy symbol omit remove muffin fade";
+var mnemonic = "guess script canal orient claim amused poet turkey monitor maze now require";

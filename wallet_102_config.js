@@ -1,1 +1,1 @@
-var mnemonic = "cannon sister congress zone busy mind ticket busy fire shove similar orphan";
+var mnemonic = "rigid never demise hungry ship vault nature sniff urge multiply barely hurry";

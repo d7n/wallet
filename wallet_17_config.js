@@ -1,1 +1,1 @@
-var mnemonic = "motion early define joke water illegal boy add forum film text crumble";
+var mnemonic = "betray dynamic satisfy depart crazy gas toddler duck assume dial permit address";

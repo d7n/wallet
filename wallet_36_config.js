@@ -1,1 +1,1 @@
-var mnemonic = "embrace hold dry stage obtain rigid predict admit stuff thing grocery sunny";
+var mnemonic = "mind toward fun exhibit slender since flavor face stable loud icon pull";

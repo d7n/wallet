@@ -1,1 +1,1 @@
-var mnemonic = "room gain purity genuine bird elephant gravity gospel verb gentle hip risk";
+var mnemonic = "ceiling box add simple genius occur guess foster parade mushroom coast drum";

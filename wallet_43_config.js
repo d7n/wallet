@@ -1,1 +1,1 @@
-var mnemonic = "demand thumb diagram true salon best east leisure elegant soup suspect salt";
+var mnemonic = "enforce carpet increase people eager eight couch language music inflict certain occur";

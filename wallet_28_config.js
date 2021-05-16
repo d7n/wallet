@@ -1,1 +1,1 @@
-var mnemonic = "trick crystal sight hover proof mistake where raw know amateur betray dizzy";
+var mnemonic = "science slab interest inherit deal alone slide target lens smart immense shoe";

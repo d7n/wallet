@@ -1,1 +1,1 @@
-var mnemonic = "material found mirror dash ask key above bicycle radio abstract happy mention";
+var mnemonic = "peanut lobster lizard wonder income camp elbow ice season foot peace kind";

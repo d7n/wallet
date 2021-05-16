@@ -1,1 +1,1 @@
-var mnemonic = "robot gift picture manual blossom bean symptom network left usage close situate";
+var mnemonic = "thumb harbor travel slide arch into time million already explain practice exist";

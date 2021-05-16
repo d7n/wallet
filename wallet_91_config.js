@@ -1,1 +1,1 @@
-var mnemonic = "object taxi shock core rice nice dinosaur false pass ahead mistake sick";
+var mnemonic = "science winter autumn stock essence banner image tragic autumn gallery traffic exercise";

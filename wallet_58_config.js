@@ -1,1 +1,1 @@
-var mnemonic = "decade crop tissue scatter runway member behave beef edit level cause envelope";
+var mnemonic = "nut render picnic all fresh mirror ramp glide caught group swift talent";

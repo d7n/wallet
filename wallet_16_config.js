@@ -1,1 +1,1 @@
-var mnemonic = "tray spend hawk blush oyster group mom drop force gown lens possible";
+var mnemonic = "around switch update diary trim promote enter ball rocket jar exhibit popular";

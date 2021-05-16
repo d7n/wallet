@@ -1,1 +1,1 @@
-var mnemonic = "rapid future obvious across exile ceiling arena earth mercy pattern airport quote";
+var mnemonic = "hurry gap material coach brain diesel joke slush vacuum very need echo";

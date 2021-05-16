@@ -1,1 +1,1 @@
-var mnemonic = "teach collect core marine chuckle picture carbon payment violin shoot refuse kit";
+var mnemonic = "asthma zone scatter amateur company object divert outdoor marble foam update shy";

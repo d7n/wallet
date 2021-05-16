@@ -1,1 +1,1 @@
-var mnemonic = "library fee key depend dial switch roast diary curtain camera custom biology";
+var mnemonic = "double excuse mention pave girl rug end doll success obey hollow rather";

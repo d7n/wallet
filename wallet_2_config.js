@@ -1,1 +1,1 @@
-var mnemonic = "season train obey student shadow cherry chest provide math soap bachelor lecture";
+var mnemonic = "upon gadget fold shy hobby industry found route tell edge inmate kangaroo";

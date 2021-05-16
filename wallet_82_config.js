@@ -1,1 +1,1 @@
-var mnemonic = "alcohol market fresh assume polar father fever verify stove super interest claw";
+var mnemonic = "topic punch hockey couple wealth job ramp insane plug ice maximum awesome";

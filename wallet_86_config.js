@@ -1,1 +1,1 @@
-var mnemonic = "file tragic coach twenty december fat sound flee into tiger monkey nasty";
+var mnemonic = "advance curious army aerobic turkey nothing coral plug immune pluck when host";

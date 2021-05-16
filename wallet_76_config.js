@@ -1,1 +1,1 @@
-var mnemonic = "easily brave visit winter oil betray script rally market chronic crumble surround";
+var mnemonic = "adapt anger action vanish smile bonus genuine harvest void gaze orange honey";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum able hobby zoo drip dolphin erode stick eyebrow odor pool silly";
+var mnemonic = "dove tunnel glove monkey neck silent scale churn month session cave fork";

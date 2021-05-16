@@ -1,1 +1,1 @@
-var mnemonic = "paddle route ice improve thing clinic author next hurry year humble master";
+var mnemonic = "move slim inform shiver dog chronic expose tenant orient before intact pond";

@@ -1,1 +1,1 @@
-var mnemonic = "custom flock humor memory knock round argue forest drop teach nation slab";
+var mnemonic = "total large fog question mix spell author soul side industry mandate accuse";

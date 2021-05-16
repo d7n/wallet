@@ -1,1 +1,1 @@
-var mnemonic = "matter poverty school together trumpet club cake later gauge cheese kind describe";
+var mnemonic = "audit hair drift ethics rack gate sunny couch nice area happy success";

@@ -1,1 +1,1 @@
-var mnemonic = "index come dilemma certain any guilt biology enlist salmon victory cable image";
+var mnemonic = "chase mutual hobby awkward trap tuition soft crawl robust churn benefit lunar";

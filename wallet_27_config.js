@@ -1,1 +1,1 @@
-var mnemonic = "initial nominee quarter stable alley stand salute weasel wisdom chalk pigeon shell";
+var mnemonic = "veteran avocado enforce chicken leopard remind artist wage curtain coconut light park";

@@ -1,1 +1,1 @@
-var mnemonic = "express shuffle secret sentence panda genuine drink neglect require wage length void";
+var mnemonic = "print loyal day exact city rich relax hood guitar interest leisure item";

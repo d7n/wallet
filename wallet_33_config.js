@@ -1,1 +1,1 @@
-var mnemonic = "fringe energy napkin history mother parrot trouble weapon zone ensure pull convince";
+var mnemonic = "once slot seek lazy lend history exhibit strategy please dirt tobacco whip";

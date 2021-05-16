@@ -1,1 +1,1 @@
-var mnemonic = "market gift mule number window sniff pattern analyst deliver muscle true stadium";
+var mnemonic = "canoe giraffe athlete problem artist meadow cake normal flower flip sell illness";

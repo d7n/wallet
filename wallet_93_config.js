@@ -1,1 +1,1 @@
-var mnemonic = "kidney gain steel size cactus device void come inch broken demand imitate";
+var mnemonic = "climb town roast vital move prize over twin model found label arctic";

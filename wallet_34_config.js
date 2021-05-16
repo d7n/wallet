@@ -1,1 +1,1 @@
-var mnemonic = "sell suffer certain fee idle govern track general kind deny script aerobic";
+var mnemonic = "author oil display scheme member left daring obvious sell buddy potato pizza";

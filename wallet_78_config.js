@@ -1,1 +1,1 @@
-var mnemonic = "maze service analyst language brief six express sentence liberty portion castle teach";
+var mnemonic = "feel more blanket million job beach biology choose pioneer object obtain other";

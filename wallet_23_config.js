@@ -1,1 +1,1 @@
-var mnemonic = "furnace atom tip hill imitate erosion ginger park invest stadium ocean pioneer";
+var mnemonic = "undo way make flash visual tattoo east fish bench gap notable frog";

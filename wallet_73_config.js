@@ -1,1 +1,1 @@
-var mnemonic = "forward gather lizard market exclude defy already cry double candy list mind";
+var mnemonic = "tape dance copper gaze pyramid alley fog crane ahead word park share";

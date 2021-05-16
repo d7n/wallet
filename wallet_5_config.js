@@ -1,1 +1,1 @@
-var mnemonic = "grit fatal science problem soul frog label dad adjust diesel exist fence";
+var mnemonic = "hire grunt load team display alone angry rabbit drop glow glow present";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage album tank noble trade local want switch change blood trophy volcano";
+var mnemonic = "garage riot please album velvet wisdom avocado tuition celery pigeon bamboo slogan";

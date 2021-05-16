@@ -1,1 +1,1 @@
-var mnemonic = "chat tennis limb punch remind diagram enable vote aunt use federal charge";
+var mnemonic = "rude initial idea human letter vibrant coin tissue over hurry essay reveal";

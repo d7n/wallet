@@ -1,1 +1,1 @@
-var mnemonic = "shy super enemy coil boil dog jaguar frozen matrix daughter slice detail";
+var mnemonic = "emerge admit chicken guide tent gasp viable snake multiply polar simple margin";

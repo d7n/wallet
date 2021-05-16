@@ -1,1 +1,1 @@
-var mnemonic = "monster client century verb spot club large mobile praise broccoli purity level";
+var mnemonic = "broccoli envelope lawn tomorrow actress coin pluck elevator mule ticket stairs industry";

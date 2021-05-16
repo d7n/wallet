@@ -1,1 +1,1 @@
-var mnemonic = "require route endless moral asthma mouse hazard hover tomorrow entire attract client";
+var mnemonic = "entire smoke fresh deliver weather puzzle skull dragon buyer tumble whip august";

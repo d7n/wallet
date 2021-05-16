@@ -1,1 +1,1 @@
-var mnemonic = "renew script hedgehog mobile correct say thrive foam tourist edge settle describe";
+var mnemonic = "brain once choice inner vault rookie predict choose swear excite omit educate";

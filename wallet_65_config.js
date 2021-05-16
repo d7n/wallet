@@ -1,1 +1,1 @@
-var mnemonic = "pistol flight lunch require vessel salmon remember tube above energy hollow risk";
+var mnemonic = "current artefact nation grab broccoli ahead toddler slogan pipe neither stove summer";

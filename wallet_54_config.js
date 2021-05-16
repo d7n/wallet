@@ -1,1 +1,1 @@
-var mnemonic = "devote envelope expand various joy protect again fish shine glue once charge";
+var mnemonic = "nation hidden purity distance afraid champion rabbit black wave waste fly foil";

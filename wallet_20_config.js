@@ -1,1 +1,1 @@
-var mnemonic = "animal predict auto cheese south tube refuse trick ripple kid mammal capable";
+var mnemonic = "snack silent cannon logic warfare clever final next parrot try afraid before";

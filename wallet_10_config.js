@@ -1,1 +1,1 @@
-var mnemonic = "release escape recipe demand luxury exact bag ring number mule green stamp";
+var mnemonic = "now destroy position toward hurdle walk heart popular square ice sudden tired";

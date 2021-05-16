@@ -1,1 +1,1 @@
-var mnemonic = "wolf crisp express lesson noble click race snap party latin bitter swamp";
+var mnemonic = "prosper hope connect sock hope expand future injury honey voice click leave";

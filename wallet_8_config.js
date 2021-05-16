@@ -1,1 +1,1 @@
-var mnemonic = "thought orphan fluid armor act slow fury dry multiply measure depth absorb";
+var mnemonic = "pattern sunny kiss hazard uniform lake spoil clarify shoulder note lawsuit wing";

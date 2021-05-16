@@ -1,1 +1,1 @@
-var mnemonic = "middle decline parent sponsor behave humor swarm chase devote vintage joke guess";
+var mnemonic = "embrace neither among swallow during flame ancient pool honey head patient organ";

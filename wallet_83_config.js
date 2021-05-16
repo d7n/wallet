@@ -1,1 +1,1 @@
-var mnemonic = "approve crime coast visit unlock sleep depart unique release frog foil pyramid";
+var mnemonic = "damage false depart fever humble empty provide burden gift gesture antenna pond";

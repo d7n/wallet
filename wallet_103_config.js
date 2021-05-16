@@ -1,1 +1,1 @@
-var mnemonic = "pony enter find myth parade deputy ten turtle leaf oven protect shuffle";
+var mnemonic = "bracket offer alien artist floor rug pulp captain stick arch float zone";

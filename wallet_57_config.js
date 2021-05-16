@@ -1,1 +1,1 @@
-var mnemonic = "elegant renew clown dentist museum original advice lawn disagree anchor census neutral";
+var mnemonic = "secret demise elder gossip faith begin robot cousin index cloud can better";

@@ -1,1 +1,1 @@
-var mnemonic = "creek famous prevent capital ceiling car quarter hip eyebrow casino hip shell";
+var mnemonic = "harsh room meat carbon salt connect cool tonight absurd hazard card infant";

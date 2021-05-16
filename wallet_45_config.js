@@ -1,1 +1,1 @@
-var mnemonic = "rain miracle brick catch lyrics piece because hope drive library open rail";
+var mnemonic = "buffalo fork cycle message example major fantasy luggage slender visual column sheriff";

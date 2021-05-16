@@ -1,1 +1,1 @@
-var mnemonic = "general risk valve more paddle result grit pond attract vast copper suit";
+var mnemonic = "oppose manage special hybrid tomorrow adapt praise stock wet shaft brisk panel";

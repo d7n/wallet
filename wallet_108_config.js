@@ -1,1 +1,1 @@
-var mnemonic = "decide battle equip acoustic leisure impose engage issue kidney team sail edge";
+var mnemonic = "pear potato often south admit rug label width fiction medal alert arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "actual fitness person pottery winter hold age version assault swarm child select";
+var mnemonic = "rigid scissors occur father assume omit shrug genuine idea castle arctic dream";

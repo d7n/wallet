@@ -1,1 +1,1 @@
-var mnemonic = "drip rabbit rigid cancel clutch shock dream before erosion laptop kiwi jaguar";
+var mnemonic = "tail praise garage spin cluster adapt apple grape tree slide stock utility";

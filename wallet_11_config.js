@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin injury pink clean common clutch forest frozen option accuse friend degree";
+var mnemonic = "certain vocal gate truth hundred dust rotate change curious someone bunker time";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction try slam judge bacon right enter soccer client enhance tattoo tree";
+var mnemonic = "sadness kitchen screen symbol cool protect toy era catch multiply diamond print";

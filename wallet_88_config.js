@@ -1,1 +1,1 @@
-var mnemonic = "garage room glance panther grace staff visual sting win join catch valid";
+var mnemonic = "disorder salmon theme blouse bike polar kidney logic achieve phone tourist effort";

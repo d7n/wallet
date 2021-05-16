@@ -1,1 +1,1 @@
-var mnemonic = "once evolve crowd shine term share expand material since fitness sadness review";
+var mnemonic = "atom electric coyote seat shed relax cancel bronze emerge other trick rent";

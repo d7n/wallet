@@ -1,1 +1,1 @@
-var mnemonic = "pulp problem morning make supply volume sense orchard cherry drip wheel flavor";
+var mnemonic = "merge belt bean two among dog famous inmate absent flush jelly cherry";

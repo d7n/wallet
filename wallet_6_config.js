@@ -1,1 +1,1 @@
-var mnemonic = "junk express fiber rug attack verb dawn wool kitchen stone feel oval";
+var mnemonic = "planet obey author pet emotion subway wife better antique tower topic office";

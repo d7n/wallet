@@ -1,1 +1,1 @@
-var mnemonic = "enemy hen wheel depend awful lemon sell tube little disorder dress model";
+var mnemonic = "option organ cross nothing hover state grant dumb spy cycle matter avoid";

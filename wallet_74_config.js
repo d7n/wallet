@@ -1,1 +1,1 @@
-var mnemonic = "medal conduct approve betray cushion force grain manual crunch insane tragic infant";
+var mnemonic = "solve waste grab census odor cool sausage flavor latin bind oak donor";

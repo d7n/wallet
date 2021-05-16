@@ -1,1 +1,1 @@
-var mnemonic = "weird about emotion outside wagon robust cabin zoo sketch slide lecture clever";
+var mnemonic = "mouse emerge fresh broom devote spy loyal gold more shove wealth weekend";

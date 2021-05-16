@@ -1,1 +1,1 @@
-var mnemonic = "across fee trim erosion episode element canvas mass garage frost hurt hat";
+var mnemonic = "draw item young person garage book exercise sorry toddler risk misery satoshi";

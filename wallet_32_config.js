@@ -1,1 +1,1 @@
-var mnemonic = "favorite profit twin mechanic ceiling orient banana market tilt live stool girl";
+var mnemonic = "letter seven above because female smile agree dice feature idea now nation";

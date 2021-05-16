@@ -1,1 +1,1 @@
-var mnemonic = "wave diagram inmate century arm enhance spend method duck nature hundred bubble";
+var mnemonic = "oven grow turkey color wisdom captain shop trade tribe diamond nominee fruit";

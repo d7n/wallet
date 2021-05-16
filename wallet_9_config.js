@@ -1,1 +1,1 @@
-var mnemonic = "tomato faint rhythm camera situate season assault tenant bundle enjoy essay bullet";
+var mnemonic = "chuckle someone remember isolate dog diamond cage target moment brand tooth civil";

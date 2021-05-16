@@ -1,1 +1,1 @@
-var mnemonic = "announce action lottery lunar angry flush next toy account child train silk";
+var mnemonic = "film battle arrange anchor canvas explain crush achieve warfare page inflict tongue";

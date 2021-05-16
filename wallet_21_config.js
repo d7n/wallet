@@ -1,1 +1,1 @@
-var mnemonic = "balcony sword family hint normal hill hybrid pulp kidney like cross frost";
+var mnemonic = "breeze body swallow allow equal differ erode father innocent match polar promote";

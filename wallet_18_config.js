@@ -1,1 +1,1 @@
-var mnemonic = "tomato vicious grant orphan feature check eyebrow music connect spy upset space";
+var mnemonic = "type kite suit hub grace weapon bonus pilot struggle two exclude swap";

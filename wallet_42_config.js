@@ -1,1 +1,1 @@
-var mnemonic = "dream canal service pilot federal infant cotton zoo front slow again exclude";
+var mnemonic = "van green topple enroll retreat convince void horn shift unknown style gallery";

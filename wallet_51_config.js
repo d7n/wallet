@@ -1,1 +1,1 @@
-var mnemonic = "wrestle soap twin pluck sure train dumb dose laugh either zone mind";
+var mnemonic = "kingdom guard common sword enforce cook sad music unfold aware before grant";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect roast three smart immune travel flame weapon corn skull road pool";
+var mnemonic = "filter shadow retire answer essay mad soldier nothing life cupboard finish destroy";

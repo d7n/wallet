@@ -1,1 +1,1 @@
-var mnemonic = "exhibit foam secret mirror leaf dust mother topple equip vacuum exile brush";
+var mnemonic = "embody palace edit cricket forget mail shield remind club dismiss outdoor boring";

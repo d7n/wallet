@@ -1,1 +1,1 @@
-var mnemonic = "what fan year mirror other orphan normal broken coach remind wrong speak";
+var mnemonic = "country area dog undo gesture mango twenty picture north frown across level";

@@ -1,1 +1,1 @@
-var mnemonic = "crush toe donkey kingdom marine grief south blouse satoshi balcony turkey artwork";
+var mnemonic = "knee damp expect win eye wide case dry drift outdoor setup ancient";

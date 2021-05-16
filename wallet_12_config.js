@@ -1,1 +1,1 @@
-var mnemonic = "coil turkey lens dignity able letter regular dentist can trash inhale harsh";
+var mnemonic = "shock pizza group disorder equal spawn bonus rib mixture retire grass desk";

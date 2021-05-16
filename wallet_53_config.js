@@ -1,1 +1,1 @@
-var mnemonic = "whip stick dignity wisdom divorce patch piano decade frown drop tribe crop";
+var mnemonic = "setup satisfy learn void spoil captain crisp express ugly shadow soft reject";

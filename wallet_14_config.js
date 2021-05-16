@@ -1,1 +1,1 @@
-var mnemonic = "coin curve drum shed novel project dawn there hold bird unlock wall";
+var mnemonic = "genuine reform demand mystery wheat better assist cute nature snap symptom unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "chase belt wheat crane bring stand win grunt lesson detect sing device";
+var mnemonic = "speak draft script limb strong flock remove roast inherit earn speak upset";

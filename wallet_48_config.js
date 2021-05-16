@@ -1,1 +1,1 @@
-var mnemonic = "bulb poet view slice correct later setup slow muscle bamboo quick retreat";
+var mnemonic = "north prison often tone need chaos deliver record garbage hunt mass curious";

@@ -1,1 +1,1 @@
-var mnemonic = "slice essence photo ritual comfort alone entry catch guilt pride element cross";
+var mnemonic = "time harbor more system oven hybrid better sock stem anxiety unhappy grab";

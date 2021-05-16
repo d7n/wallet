@@ -1,1 +1,1 @@
-var mnemonic = "among position tragic milk attend estate time patient great slender approve scene";
+var mnemonic = "need bullet total venture suffer exchange gun tower rebel quick purpose runway";

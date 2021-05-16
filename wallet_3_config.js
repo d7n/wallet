@@ -1,1 +1,1 @@
-var mnemonic = "marble mix chef wish hover exhaust bird ritual alley bread olive oval";
+var mnemonic = "horse true element skirt venue grunt item junior ketchup income best dignity";

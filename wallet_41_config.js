@@ -1,1 +1,1 @@
-var mnemonic = "margin broom black arena release cabbage topic fringe laugh true legal orphan";
+var mnemonic = "illegal worth tip good marine keen raw sad over undo wrap addict";
