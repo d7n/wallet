@@ -1,1 +1,1 @@
-var mnemonic = "drill reunion stick cradle either fun city adult found actress animal stairs";
+var mnemonic = "dust minimum hunt atom quantum together stick pull unfold silver wire blame";

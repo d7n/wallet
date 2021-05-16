@@ -1,1 +1,1 @@
-var mnemonic = "swift derive enemy minimum voice text city leg wasp false satisfy edit";
+var mnemonic = "pledge federal ivory slam retreat loyal burden update maximum rough garlic february";

@@ -1,1 +1,1 @@
-var mnemonic = "bird pattern stadium mirror version special vote account hidden twenty already coral";
+var mnemonic = "neither accuse man current wisdom chair belt resource guitar window million impose";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce alpha speak arrest rocket stamp flip always walnut comic team core";
+var mnemonic = "pave door rabbit benefit pattern rude nerve salt toward sun flavor found";

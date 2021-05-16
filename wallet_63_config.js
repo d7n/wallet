@@ -1,1 +1,1 @@
-var mnemonic = "endless danger oblige library edge element walk reveal immense lunch differ pigeon";
+var mnemonic = "donkey mouse dose angry issue couch gather rural duck help switch now";

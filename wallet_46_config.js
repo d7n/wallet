@@ -1,1 +1,1 @@
-var mnemonic = "raven behind detail exchange pumpkin laptop entire bomb random light luggage short";
+var mnemonic = "tide cart margin cereal hub vicious fluid device elegant atom gesture good";

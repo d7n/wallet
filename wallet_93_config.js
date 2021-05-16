@@ -1,1 +1,1 @@
-var mnemonic = "route bronze favorite shoot snack panic layer either oil output marine lesson";
+var mnemonic = "strategy symbol advice mention catalog try stamp roof develop stool bonus slim";

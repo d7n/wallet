@@ -1,1 +1,1 @@
-var mnemonic = "stamp trip dress turn bicycle vintage transfer stadium sign sentence civil pumpkin";
+var mnemonic = "wasp ordinary already document give few crawl fuel spirit doctor magic often";

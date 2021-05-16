@@ -1,1 +1,1 @@
-var mnemonic = "ticket twist trade click metal spend height pride moment humble early end";
+var mnemonic = "kidney limit divorce rice pet amazing trial guide current love banner entire";

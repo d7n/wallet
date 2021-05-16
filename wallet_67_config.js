@@ -1,1 +1,1 @@
-var mnemonic = "assault zebra toe capital warm breeze uncle ability wedding plate current echo";
+var mnemonic = "cargo shell weird citizen thought fault item kitchen despair tattoo scheme virtual";

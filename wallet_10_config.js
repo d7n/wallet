@@ -1,1 +1,1 @@
-var mnemonic = "crack initial bonus cricket material subway any employ butter mosquito series vibrant";
+var mnemonic = "calm place witness rib gap power flat ball truly zero ill mail";

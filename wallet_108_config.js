@@ -1,1 +1,1 @@
-var mnemonic = "tree state foster oval number disagree base water wrestle shield inquiry silent";
+var mnemonic = "develop sample input other arrest hat agree learn unfold giraffe mad ocean";

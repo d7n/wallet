@@ -1,1 +1,1 @@
-var mnemonic = "piece marriage fossil forest pole jaguar success cattle quality issue super burst";
+var mnemonic = "stay luxury merge tool phrase permit calm swarm depart scorpion lucky garden";

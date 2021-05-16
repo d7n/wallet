@@ -1,1 +1,1 @@
-var mnemonic = "company denial trade gorilla guitar brisk ghost mercy now vapor razor ski";
+var mnemonic = "olive glide liar legend you laptop side visit fly fall off drill";

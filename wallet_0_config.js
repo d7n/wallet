@@ -1,1 +1,1 @@
-var mnemonic = "art actual friend water vintage cute horn behave payment ritual quality cube";
+var mnemonic = "service knee depart fence near bunker hold barrel lake shoe mystery ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "vital vacuum alter wolf truck dinosaur theme lounge unhappy hurdle blouse rain";
+var mnemonic = "sniff cliff scene edit beef pet excess want human air bitter car";

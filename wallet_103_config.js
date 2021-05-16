@@ -1,1 +1,1 @@
-var mnemonic = "garbage confirm glide shop renew attract review undo movie video job fix";
+var mnemonic = "neutral damp office rib hub unaware maple dilemma orchard neck hood sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "summer twelve glory window sorry valid fortune reduce history mail table brisk";
+var mnemonic = "rapid cargo abstract dad humor blood index onion yellow correct acquire visit";

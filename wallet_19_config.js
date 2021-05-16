@@ -1,1 +1,1 @@
-var mnemonic = "cluster vote solid tennis cloud canyon waste brisk sick kingdom ensure fringe";
+var mnemonic = "reflect tuna victory opinion common wage elevator boring relax candy addict dynamic";

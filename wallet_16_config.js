@@ -1,1 +1,1 @@
-var mnemonic = "aerobic happy kiss eight divert jacket road woman process puppy domain ski";
+var mnemonic = "penalty bean width monitor attitude vicious expire depart essay zone monkey present";

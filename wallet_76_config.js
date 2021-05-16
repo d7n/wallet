@@ -1,1 +1,1 @@
-var mnemonic = "rocket thrive energy child you help minimum calm vehicle early fantasy scare";
+var mnemonic = "because screen fancy border wreck among grape bench length vapor banana lawsuit";

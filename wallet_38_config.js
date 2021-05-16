@@ -1,1 +1,1 @@
-var mnemonic = "hero virus choose talent senior original flag tomato inject spike walnut salad";
+var mnemonic = "army dynamic voyage notable easy perfect rather injury holiday easily scheme junk";

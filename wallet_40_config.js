@@ -1,1 +1,1 @@
-var mnemonic = "present air crouch carry must decade olive observe imitate perfect extend balance";
+var mnemonic = "expect lake found obey tower eternal around fatal raven rotate chunk plate";

@@ -1,1 +1,1 @@
-var mnemonic = "smart crash pave salad jelly uniform execute example filter improve feed caution";
+var mnemonic = "figure smooth alone neglect exotic absorb laundry sell credit finish business wreck";

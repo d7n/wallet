@@ -1,1 +1,1 @@
-var mnemonic = "prefer glide reduce lens chase faculty guide planet smooth exit purse update";
+var mnemonic = "defy parent assist inhale resemble roast action citizen fault truly area illness";

@@ -1,1 +1,1 @@
-var mnemonic = "search strong hunt avoid salad depth excess wheel vivid erupt plunge tilt";
+var mnemonic = "task dinner finger senior wrong popular royal spend sell visa voyage oppose";

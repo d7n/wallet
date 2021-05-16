@@ -1,1 +1,1 @@
-var mnemonic = "depend leg great soup fuel fancy render truly hat work enough glad";
+var mnemonic = "nice sauce crunch dynamic wink bomb furnace seed sail trophy coral small";

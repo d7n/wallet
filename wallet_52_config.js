@@ -1,1 +1,1 @@
-var mnemonic = "team scrap major cheese flower juice blind beauty shaft warm social road";
+var mnemonic = "length weasel legal today distance rigid thrive risk blush economy decline ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "march must explain across person dream health sound cabbage census cube grid";
+var mnemonic = "chuckle chief turn arrive zebra blood ridge nasty artist caution donate pole";

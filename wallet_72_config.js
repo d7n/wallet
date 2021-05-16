@@ -1,1 +1,1 @@
-var mnemonic = "innocent off service humor idea amount cabin lecture february where pig local";
+var mnemonic = "price neck rookie voyage kidney unveil toss hollow laugh flag prepare truth";

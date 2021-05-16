@@ -1,1 +1,1 @@
-var mnemonic = "bracket deliver rail dry fix wet elder device lend same crime cushion";
+var mnemonic = "subject come mind photo siege admit vacuum coin direct worth also derive";

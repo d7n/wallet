@@ -1,1 +1,1 @@
-var mnemonic = "toast cake unlock lottery worth victory ring grant frequent way forum tower";
+var mnemonic = "pull exact stand brush security list giraffe beauty invest lucky all clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture stock move habit coach hair diagram crash dragon rapid off start";
+var mnemonic = "print jungle mountain bird tube dose maple bitter time damage silver aware";

@@ -1,1 +1,1 @@
-var mnemonic = "early join indicate whip resemble chat bunker upper super apology ladder hurdle";
+var mnemonic = "misery feed strategy hundred vibrant slush weather metal giggle quantum print secret";

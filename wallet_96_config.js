@@ -1,1 +1,1 @@
-var mnemonic = "fortune wage group unable trial private culture idea grunt version maximum leisure";
+var mnemonic = "rabbit neck extra visual antenna trash concert perfect forget paper erode help";

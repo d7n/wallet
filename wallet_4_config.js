@@ -1,1 +1,1 @@
-var mnemonic = "weather burger that phone warm lottery material toast spin cannon wall peanut";
+var mnemonic = "sea stool spin stem adjust film square math blue tank demise adjust";

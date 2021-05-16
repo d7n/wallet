@@ -1,1 +1,1 @@
-var mnemonic = "fan pair adjust water marine stock fence shrimp display hat carry jewel";
+var mnemonic = "seven dust timber earth tilt boil april ketchup grunt cause furnace behave";

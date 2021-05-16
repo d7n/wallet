@@ -1,1 +1,1 @@
-var mnemonic = "spoil clip dry alpha imitate oval motor happy leg fix clinic slogan";
+var mnemonic = "rack harsh purity leopard embrace medal penalty inject main bonus moment noble";

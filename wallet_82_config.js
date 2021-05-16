@@ -1,1 +1,1 @@
-var mnemonic = "top gossip goat approve young sausage blue month worry debris win pause";
+var mnemonic = "fault shadow vivid embark bulk globe type flower bean present panic diary";

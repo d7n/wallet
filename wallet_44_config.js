@@ -1,1 +1,1 @@
-var mnemonic = "increase cover gasp service rather roof vendor sea chuckle waste disagree empty";
+var mnemonic = "remove river focus post vehicle cotton diagram know alarm wisdom magic top";

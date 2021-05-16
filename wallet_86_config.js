@@ -1,1 +1,1 @@
-var mnemonic = "link anger manage coffee edit excuse amateur donkey then cave ride test";
+var mnemonic = "feed clean custom climb multiply wet hybrid bullet patch hurt scan inform";

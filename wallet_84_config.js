@@ -1,1 +1,1 @@
-var mnemonic = "foam front script stuff reveal toe depend east swear minute this end";
+var mnemonic = "end tell buzz assume girl picture source glad volume medal cry curve";

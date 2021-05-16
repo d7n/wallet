@@ -1,1 +1,1 @@
-var mnemonic = "chimney express bean club among average crumble equal aim memory arena mirror";
+var mnemonic = "mercy feature monkey orphan parent empty science alien version dumb stereo insane";

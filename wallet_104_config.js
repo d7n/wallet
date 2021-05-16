@@ -1,1 +1,1 @@
-var mnemonic = "hill phrase inquiry rack close injury uncover party merge height cage device";
+var mnemonic = "gym trick liberty spray gym thank evidence salon fly duty summer churn";

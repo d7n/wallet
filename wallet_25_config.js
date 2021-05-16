@@ -1,1 +1,1 @@
-var mnemonic = "certain reunion trigger perfect razor diary marble renew fancy vast congress cart";
+var mnemonic = "staff unable stumble harvest amazing sudden common churn urban useless high letter";

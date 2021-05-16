@@ -1,1 +1,1 @@
-var mnemonic = "quit flash bone seat reunion typical hurry dizzy achieve donkey satisfy style";
+var mnemonic = "truth thumb pizza exclude deposit silver float crater orbit candy slight dose";

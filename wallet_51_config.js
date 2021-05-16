@@ -1,1 +1,1 @@
-var mnemonic = "exile since april solid oven curve popular digital cause title ankle twist";
+var mnemonic = "involve thrive unlock armor used nice visit erupt card sugar mad foster";

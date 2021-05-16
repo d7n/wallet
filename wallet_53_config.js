@@ -1,1 +1,1 @@
-var mnemonic = "glow expose push umbrella hospital private usual deliver color collect father deal";
+var mnemonic = "poverty cereal virtual bullet cat turn convince primary sheriff brown notable favorite";

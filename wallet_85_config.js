@@ -1,1 +1,1 @@
-var mnemonic = "develop copper orphan walk lawsuit about width dial jelly opera jaguar scorpion";
+var mnemonic = "river essence afraid expose canvas hello tray bike theory satoshi grief blouse";

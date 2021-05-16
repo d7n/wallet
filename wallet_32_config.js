@@ -1,1 +1,1 @@
-var mnemonic = "wrestle suffer unknown galaxy slogan nation razor install assist next immense upon";
+var mnemonic = "ostrich normal present dismiss essence gym throw blade mouse chimney century gaze";

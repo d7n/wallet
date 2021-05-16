@@ -1,1 +1,1 @@
-var mnemonic = "detect music stay clock large buffalo crack noble acquire advance move boat";
+var mnemonic = "suggest permit around galaxy toss major student wife vessel connect inside hundred";

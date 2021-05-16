@@ -1,1 +1,1 @@
-var mnemonic = "parrot neither describe old sorry novel witness admit resemble stadium spin hood";
+var mnemonic = "tribe tide artwork hollow october quantum embark mutual position loop seat famous";

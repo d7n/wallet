@@ -1,1 +1,1 @@
-var mnemonic = "mean hard invest song dish never joke begin better gallery throw little";
+var mnemonic = "vocal dance light mutual power reopen chat fruit acoustic host casual concert";

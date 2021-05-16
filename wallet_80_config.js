@@ -1,1 +1,1 @@
-var mnemonic = "neutral elbow fork proof system vault boy scrap confirm omit miracle blouse";
+var mnemonic = "collect leader mandate angry bargain oven hockey oblige fox spatial joke grow";

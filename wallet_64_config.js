@@ -1,1 +1,1 @@
-var mnemonic = "reform rhythm wish swear offer will goose wrong ability clown dice bean";
+var mnemonic = "wrestle eagle museum vessel gather dolphin senior relax mercy surprise search nasty";

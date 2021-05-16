@@ -1,1 +1,1 @@
-var mnemonic = "bench world industry climb planet drop target elder afford perfect convince middle";
+var mnemonic = "slight novel guitar laptop strategy brick suspect hole must radar zebra glad";

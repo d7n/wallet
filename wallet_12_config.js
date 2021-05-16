@@ -1,1 +1,1 @@
-var mnemonic = "cannon federal hello idea voyage garage point guide garbage sick radar diesel";
+var mnemonic = "year invite will physical slot accident rib few trip series gentle tape";

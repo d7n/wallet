@@ -1,1 +1,1 @@
-var mnemonic = "dragon ethics pudding chicken nut crouch sting square depart key happy gloom";
+var mnemonic = "solution text burger drip program morning laundry avoid absent custom hip few";

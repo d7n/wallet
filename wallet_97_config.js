@@ -1,1 +1,1 @@
-var mnemonic = "brisk change top water choose hedgehog immune lunar silver inflict cruise journey";
+var mnemonic = "pony ugly explain put card bronze abuse marble crush game because vintage";

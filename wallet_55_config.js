@@ -1,1 +1,1 @@
-var mnemonic = "consider bean help carpet over humble bridge speed dinosaur world follow page";
+var mnemonic = "deliver room dentist opinion rare tower luxury neither lava segment fat outside";

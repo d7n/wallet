@@ -1,1 +1,1 @@
-var mnemonic = "repair bounce jacket relief then song skate domain orange bread cigar measure";
+var mnemonic = "seminar pretty room foil damp upgrade sing latin rotate olympic page head";

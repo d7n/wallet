@@ -1,1 +1,1 @@
-var mnemonic = "demise citizen purchase card grant episode media taxi clean wrist math couch";
+var mnemonic = "jewel extra soup observe amused sadness slender rookie apology small board club";

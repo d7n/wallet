@@ -1,1 +1,1 @@
-var mnemonic = "print east mention scale panic box ghost garden usage parent fatigue nature";
+var mnemonic = "three vague shrug assault fiber just lawsuit shell abuse dirt shoulder olive";

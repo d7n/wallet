@@ -1,1 +1,1 @@
-var mnemonic = "scout initial novel discover tomato rose rural cross female peace tomorrow hawk";
+var mnemonic = "actual alter animal depth ginger chief lyrics unfair silk hobby repeat diesel";

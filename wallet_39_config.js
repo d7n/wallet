@@ -1,1 +1,1 @@
-var mnemonic = "cotton squirrel pool reduce process coin demise cool debate dynamic host powder";
+var mnemonic = "chat inmate history improve bag day moon inflict figure intact gossip rapid";

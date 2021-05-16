@@ -1,1 +1,1 @@
-var mnemonic = "blanket tent document worth veteran six imitate pizza apart educate reduce perfect";
+var mnemonic = "copy prepare alley network solar income moral drill smoke true describe crowd";

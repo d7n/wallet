@@ -1,1 +1,1 @@
-var mnemonic = "lawn tilt pretty horse tube crumble response lava taste ahead quick industry";
+var mnemonic = "update figure assume bench bid peace error phrase clump waste connect wet";

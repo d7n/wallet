@@ -1,1 +1,1 @@
-var mnemonic = "february expand winner winner shine person bid husband together hunt shop ripple";
+var mnemonic = "army pet jewel film civil clock mouse candy october deputy town stone";

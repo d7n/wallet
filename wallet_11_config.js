@@ -1,1 +1,1 @@
-var mnemonic = "fit fury great lesson long original burst chair drink harvest inside august";
+var mnemonic = "expand connect reject purity stock wage clump all rug castle lion curve";

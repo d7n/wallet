@@ -1,1 +1,1 @@
-var mnemonic = "isolate blouse gas misery sweet man tower mirror mouse forest romance dress";
+var mnemonic = "decline dove mad social ordinary base find neglect imitate slow wing paper";

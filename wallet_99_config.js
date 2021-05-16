@@ -1,1 +1,1 @@
-var mnemonic = "virtual predict reward gentle fruit empty menu hard track cross mix hair";
+var mnemonic = "gospel dirt patch begin doll document shaft correct memory favorite material short";

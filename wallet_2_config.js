@@ -1,1 +1,1 @@
-var mnemonic = "canal absent convince bomb dish shine pyramid hybrid coconut diesel rare profit";
+var mnemonic = "much prepare casino bread erode ritual brass section pink mesh usual frozen";

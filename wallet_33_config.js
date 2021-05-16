@@ -1,1 +1,1 @@
-var mnemonic = "off veteran avocado skirt army bargain name draft panther organ idea observe";
+var mnemonic = "pole collect dismiss arrow wink danger hint forest myself crumble giggle vocal";

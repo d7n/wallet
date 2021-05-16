@@ -1,1 +1,1 @@
-var mnemonic = "pole soccer main good ride invest must replace render unit exercise cliff";
+var mnemonic = "syrup syrup give virtual hair spike rent fish concert lens frown barely";

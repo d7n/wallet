@@ -1,1 +1,1 @@
-var mnemonic = "special chaos upset barrel exile forget sense throw bike again enemy office";
+var mnemonic = "flower enter better beyond miracle alter fancy inquiry focus fire dynamic antenna";

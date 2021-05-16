@@ -1,1 +1,1 @@
-var mnemonic = "swap pull lion fiscal relax fiscal another boss space toilet guitar jazz";
+var mnemonic = "post float end exhaust owner master robot estate leopard model song surge";

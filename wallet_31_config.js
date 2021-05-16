@@ -1,1 +1,1 @@
-var mnemonic = "hurdle broccoli noise neutral vast barrel river weekend ritual blast island parade";
+var mnemonic = "sense unfold public drive width secret enable sadness pupil front drama scrub";

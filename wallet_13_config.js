@@ -1,1 +1,1 @@
-var mnemonic = "crouch scheme practice addict friend eye deliver family aunt hood finish glance";
+var mnemonic = "you cram miss pair despair tide guilt chunk abuse airport remove soap";

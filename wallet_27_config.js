@@ -1,1 +1,1 @@
-var mnemonic = "verb since alert shy icon surprise razor method slam flavor outdoor assist";
+var mnemonic = "until dentist input cake into stem trumpet opinion worth figure hill chief";

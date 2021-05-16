@@ -1,1 +1,1 @@
-var mnemonic = "young usage scan dilemma wash elder post expire coral used cannon zoo";
+var mnemonic = "borrow hotel erode ready notable produce absent trouble boring business wall pause";

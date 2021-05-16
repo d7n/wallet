@@ -1,1 +1,1 @@
-var mnemonic = "grief faint account series gold duty finish unfair own build toss enable";
+var mnemonic = "enjoy wife negative offer right law garlic night sick park wrist stage";

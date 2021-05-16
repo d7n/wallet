@@ -1,1 +1,1 @@
-var mnemonic = "license wagon bitter cargo dream tourist first renew effort medal wave strike";
+var mnemonic = "nice glow either embrace refuse maid rifle regret carbon impose crash bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "voice armed notice depart popular inflict program reward typical immune critic laptop";
+var mnemonic = "garlic into skin minute age weasel trigger govern upset sing dignity cycle";

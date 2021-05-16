@@ -1,1 +1,1 @@
-var mnemonic = "enlist manage trust note drip badge fruit vanish scene already sphere party";
+var mnemonic = "horse chuckle chuckle doctor social picture about width noise effort genius order";

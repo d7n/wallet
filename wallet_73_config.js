@@ -1,1 +1,1 @@
-var mnemonic = "concert universe adapt flavor apple monster day aware that fortune mushroom mind";
+var mnemonic = "grief faith fluid pole breeze media humor hard evolve honey clarify select";

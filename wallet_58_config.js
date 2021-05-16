@@ -1,1 +1,1 @@
-var mnemonic = "sign blast dragon anxiety unique grief auction kit forward room ticket chief";
+var mnemonic = "update east arctic panther amount always eternal lazy match pledge bicycle similar";

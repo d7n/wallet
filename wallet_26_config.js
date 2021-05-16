@@ -1,1 +1,1 @@
-var mnemonic = "pear budget endless repeat dinosaur tennis lobster divert dizzy smart change elbow";
+var mnemonic = "snake help filter wrestle snake glass you blanket garlic carpet cover chuckle";

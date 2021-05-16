@@ -1,1 +1,1 @@
-var mnemonic = "trash bag believe client differ disorder asset adjust solar aerobic ribbon daring";
+var mnemonic = "kiss sell holiday olive huge denial invite grain patrol like then fit";

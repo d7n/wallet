@@ -1,1 +1,1 @@
-var mnemonic = "rely quick cheap test write ordinary obvious help curtain point comic walnut";
+var mnemonic = "good seminar cloth inform bleak fatigue artwork kitchen parrot ripple air weird";

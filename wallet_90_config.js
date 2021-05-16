@@ -1,1 +1,1 @@
-var mnemonic = "pitch draft genius hundred common holiday crunch elite accuse entire steel over";
+var mnemonic = "easily scissors boat sand walnut total express spray brush denial puppy require";

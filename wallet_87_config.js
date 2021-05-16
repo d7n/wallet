@@ -1,1 +1,1 @@
-var mnemonic = "observe barely relax tree proud hood space garment quit pilot alcohol bubble";
+var mnemonic = "cliff remind gloom disorder shed amused segment say kingdom six together ramp";

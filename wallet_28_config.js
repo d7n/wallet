@@ -1,1 +1,1 @@
-var mnemonic = "invite destroy spoon today craft cigar daring stable arm large this raccoon";
+var mnemonic = "fee snack caution protect sword dog place proud whale antenna violin metal";

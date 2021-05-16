@@ -1,1 +1,1 @@
-var mnemonic = "hammer cruise cable teach twelve juice arrange voyage monster hood fork leopard";
+var mnemonic = "client two edge alpha elbow merit series key sustain fun brand ramp";

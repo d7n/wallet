@@ -1,1 +1,1 @@
-var mnemonic = "coyote know inform crowd again toe lemon garage diet guilt mouse ball";
+var mnemonic = "noble settle brave whale adjust boy metal junior mass raise bike tray";

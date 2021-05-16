@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sure mechanic mad whale hazard truly pig avoid agent refuse aim";
+var mnemonic = "pull supply biology antenna inquiry endless file bridge north try artwork fury";
