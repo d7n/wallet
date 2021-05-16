@@ -1,1 +1,1 @@
-var mnemonic = "truck plastic gym siren spatial lens expose wasp color inject cloth pair";
+var mnemonic = "swap neck across manual unfair problem voyage allow clerk assume little swim";

@@ -1,1 +1,1 @@
-var mnemonic = "comic term naive other salmon chair enlist puzzle kitchen twelve mixture crush";
+var mnemonic = "vicious opera suffer cattle guide spare super skirt story river skin surge";

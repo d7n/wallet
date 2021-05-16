@@ -1,1 +1,1 @@
-var mnemonic = "give suspect pair flee kangaroo stable stick start mother chronic govern tourist";
+var mnemonic = "security average whale glance way select easy lizard used vendor recall penalty";

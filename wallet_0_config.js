@@ -1,1 +1,1 @@
-var mnemonic = "smooth bounce hero stable damage gift cricket knife open cinnamon happy yard";
+var mnemonic = "shy gorilla horror found pledge cancel trim shell fortune road walnut voice";

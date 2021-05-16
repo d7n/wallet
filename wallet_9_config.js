@@ -1,1 +1,1 @@
-var mnemonic = "lamp artefact universe dutch seat violin square avocado sketch apart illness learn";
+var mnemonic = "inherit retreat omit decrease cover language delay napkin mass start naive reward";

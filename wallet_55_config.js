@@ -1,1 +1,1 @@
-var mnemonic = "snap burst wheel follow route egg original oyster inquiry hospital make outside";
+var mnemonic = "liar camera elbow common mixture scene pool stuff deputy region cotton skin";

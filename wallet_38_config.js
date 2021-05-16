@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sunset rib vanish thumb subway make assault banner sister dune type";
+var mnemonic = "lawsuit recipe shop mosquito style switch carpet load dove park corn rare";

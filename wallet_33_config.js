@@ -1,1 +1,1 @@
-var mnemonic = "ask before session trend prison scene nerve panther material only vacant hand";
+var mnemonic = "media congress hamster curtain craft document beach dry romance claim effort fog";

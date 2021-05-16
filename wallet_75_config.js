@@ -1,1 +1,1 @@
-var mnemonic = "ice state equal core catalog access hood trade setup much obscure toe";
+var mnemonic = "broom cotton crime frog exercise obey ginger slow slide add prevent logic";

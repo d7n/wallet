@@ -1,1 +1,1 @@
-var mnemonic = "van ankle saddle coffee foam crystal arrive scissors notice print buyer defy";
+var mnemonic = "very time embrace supreme plate kit lend task caution clown bargain olive";

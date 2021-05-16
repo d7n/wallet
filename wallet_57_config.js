@@ -1,1 +1,1 @@
-var mnemonic = "talent dose ill raccoon business helmet second engine seminar fatigue ball gasp";
+var mnemonic = "lunch unaware trigger tray still tuna access cool video suit marriage pave";

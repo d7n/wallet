@@ -1,1 +1,1 @@
-var mnemonic = "canyon memory own mercy fashion dry acid pulp myself gallery brother jazz";
+var mnemonic = "another attitude onion unhappy nurse exit session swing twin sail very broom";

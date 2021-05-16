@@ -1,1 +1,1 @@
-var mnemonic = "giant bonus hockey swear plunge ritual dizzy maple link access occur head";
+var mnemonic = "lonely outer address silver visa wife rhythm stay tag elevator pen exercise";

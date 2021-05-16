@@ -1,1 +1,1 @@
-var mnemonic = "vast belt open embody mutual toward recall coin asset dinosaur hobby oblige";
+var mnemonic = "orchard genre twenty exit across access brief private quarter skin update coast";

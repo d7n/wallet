@@ -1,1 +1,1 @@
-var mnemonic = "lawn flee item bomb catalog pizza volume chase improve public file wet";
+var mnemonic = "monitor stumble initial people green target cube main tragic vessel electric before";

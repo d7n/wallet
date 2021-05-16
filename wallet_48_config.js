@@ -1,1 +1,1 @@
-var mnemonic = "run reward yellow wedding turn rice pink swing portion welcome jaguar bulb";
+var mnemonic = "mystery imitate hair predict kangaroo situate that explain shrug strategy razor fade";

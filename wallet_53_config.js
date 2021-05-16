@@ -1,1 +1,1 @@
-var mnemonic = "federal firm level enforce cat rebuild jewel bid antenna mystery shine grab";
+var mnemonic = "yellow waste key disease pause begin arrange reopen tribe nest glove skill";

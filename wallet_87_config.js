@@ -1,1 +1,1 @@
-var mnemonic = "beach spray usage dream grape fashion pull best another oval journey crush";
+var mnemonic = "cover coil aisle follow cement pact dinosaur above enemy milk actual penalty";

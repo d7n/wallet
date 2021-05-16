@@ -1,1 +1,1 @@
-var mnemonic = "style motor cluster happy sing fence amused odor bonus shoe super begin";
+var mnemonic = "crack puzzle toddler hedgehog entire old remember transfer inside book process angry";

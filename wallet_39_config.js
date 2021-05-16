@@ -1,1 +1,1 @@
-var mnemonic = "chase liberty glove loop imitate vibrant reflect news extend pair absorb earth";
+var mnemonic = "paper version sniff canal oak hammer dirt congress pact pluck group reopen";

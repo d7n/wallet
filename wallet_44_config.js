@@ -1,1 +1,1 @@
-var mnemonic = "federal erosion increase tape clip brain emotion uncover voyage measure priority mail";
+var mnemonic = "you rent since isolate fame half wrestle slogan struggle bottom wise wrap";

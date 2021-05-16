@@ -1,1 +1,1 @@
-var mnemonic = "novel alien able long reflect law section artist relief circle brief lake";
+var mnemonic = "hazard duty soup tiger vapor invite pact edge agree hope dash rabbit";

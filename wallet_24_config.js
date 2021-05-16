@@ -1,1 +1,1 @@
-var mnemonic = "lumber border pact ramp cabbage leg grab crane visual whale blade welcome";
+var mnemonic = "primary north holiday verb force nerve display wet inhale abuse around destroy";

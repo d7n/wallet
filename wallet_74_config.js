@@ -1,1 +1,1 @@
-var mnemonic = "prevent this quarter someone civil pear demand fever open avocado mansion polar";
+var mnemonic = "purse finger refuse razor master bless bronze merit fit common pupil indoor";

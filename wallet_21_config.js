@@ -1,1 +1,1 @@
-var mnemonic = "retire eternal early extend possible cost early warfare twice people shoe abuse";
+var mnemonic = "injury lamp boss tomato critic wine morning match hurt culture delay bag";

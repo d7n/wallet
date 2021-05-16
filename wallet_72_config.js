@@ -1,1 +1,1 @@
-var mnemonic = "swing segment slow maximum client category leisure current street off secret roast";
+var mnemonic = "cute high envelope shoot gaze youth effort gorilla choice decade clog muscle";

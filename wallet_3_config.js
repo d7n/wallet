@@ -1,1 +1,1 @@
-var mnemonic = "carpet fork dish health violin math hover trim sunny tag stage filter";
+var mnemonic = "grunt measure police tail win perfect cram library excess trigger health alley";

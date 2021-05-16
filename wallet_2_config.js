@@ -1,1 +1,1 @@
-var mnemonic = "lounge leisure lizard follow only tennis demise pretty volume million defy tennis";
+var mnemonic = "cook tent hello shove basket scheme doll primary endless pistol under doll";

@@ -1,1 +1,1 @@
-var mnemonic = "language estate name excuse dentist asthma caught match degree bone final mutual";
+var mnemonic = "hood cake rough way clap hamster razor near tray cherry build soap";

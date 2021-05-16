@@ -1,1 +1,1 @@
-var mnemonic = "analyst wash sign hat alter control print bullet consider exhaust mad cream";
+var mnemonic = "run peace truck stomach belt allow warrior another already rude side gentle";

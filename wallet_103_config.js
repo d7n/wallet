@@ -1,1 +1,1 @@
-var mnemonic = "piece frown horror post ginger civil gallery leg client boss family hurry";
+var mnemonic = "saddle pledge shallow stamp rigid peanut nothing stable whisper ostrich calm admit";

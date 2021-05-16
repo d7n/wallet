@@ -1,1 +1,1 @@
-var mnemonic = "egg unlock style sun grocery endless echo bench bunker large stick raven";
+var mnemonic = "point uniform verb sphere word mesh fly account long cupboard champion sorry";

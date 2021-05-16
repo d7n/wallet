@@ -1,1 +1,1 @@
-var mnemonic = "walnut insect session extra rifle gas arrive elevator gorilla rug can solar";
+var mnemonic = "tower forward car aim bring target hope essay yellow sting river drink";

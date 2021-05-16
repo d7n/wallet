@@ -1,1 +1,1 @@
-var mnemonic = "occur also banner winter cupboard fever bicycle among any toward august sock";
+var mnemonic = "fabric label save organ receive age donkey lonely actress sort permit aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "hand pluck argue jungle siren resource source prevent matter crisp dignity trend";
+var mnemonic = "people carbon dream build same family uphold soldier fun require jacket risk";

@@ -1,1 +1,1 @@
-var mnemonic = "tank crunch usual weasel lounge drama donate surface hybrid mad index shadow";
+var mnemonic = "slide dish coffee gossip meadow athlete fluid miss health state noble horse";

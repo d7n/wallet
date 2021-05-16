@@ -1,1 +1,1 @@
-var mnemonic = "napkin census mango decade any member label horror select degree garden primary";
+var mnemonic = "camp beach outside else curious lion question must border brick mirror upper";

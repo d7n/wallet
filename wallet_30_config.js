@@ -1,1 +1,1 @@
-var mnemonic = "marble powder verify hard stick input imitate multiply twice bubble crucial machine";
+var mnemonic = "husband guilt error remain guitar flush laundry verb end cram humble crouch";

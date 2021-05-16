@@ -1,1 +1,1 @@
-var mnemonic = "hover wink win adapt busy industry broom miracle brush atom wheat renew";
+var mnemonic = "air steak warfare stage exact illegal script culture rapid worth divide ketchup";

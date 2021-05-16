@@ -1,1 +1,1 @@
-var mnemonic = "round kit million april mouse maximum penalty buffalo danger awful future express";
+var mnemonic = "gallery endless output satoshi actor avocado execute crazy grunt fortune lady powder";

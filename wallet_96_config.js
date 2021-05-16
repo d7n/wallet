@@ -1,1 +1,1 @@
-var mnemonic = "warrior tonight enforce state dial deposit fabric put depth wink come subject";
+var mnemonic = "salt assist custom dismiss pact onion boy grid final truck surge rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "congress virtual priority eight describe borrow script just song predict hero village";
+var mnemonic = "clerk mechanic pet dawn card shiver drip cute voyage switch fashion stand";

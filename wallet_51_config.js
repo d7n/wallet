@@ -1,1 +1,1 @@
-var mnemonic = "judge indoor stomach course autumn sport renew vivid circle wheel stable pet";
+var mnemonic = "among salad mandate pride same demise cupboard target wrist horse start innocent";

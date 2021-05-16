@@ -1,1 +1,1 @@
-var mnemonic = "glove shove cheap media knee clip salt refuse badge family dish over";
+var mnemonic = "remove mask time group anger swift angle item current critic pelican oval";

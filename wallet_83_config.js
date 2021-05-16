@@ -1,1 +1,1 @@
-var mnemonic = "win cool mail explain answer foam thrive pulse private label sausage warm";
+var mnemonic = "armed mystery upon reveal cradle minute price increase wear child stable short";

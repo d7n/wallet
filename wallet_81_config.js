@@ -1,1 +1,1 @@
-var mnemonic = "soldier fly decline toddler mountain bleak leopard tornado gain error scene track";
+var mnemonic = "stone skirt fork item diary sphere truck park orchard hotel interest school";

@@ -1,1 +1,1 @@
-var mnemonic = "large city elephant order degree turkey cousin deer soup village industry pulp";
+var mnemonic = "police force color angle horse list away level useful stool tomato grocery";

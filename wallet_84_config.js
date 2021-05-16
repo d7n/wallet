@@ -1,1 +1,1 @@
-var mnemonic = "party spread width shrug genuine coffee birth math flat describe chimney track";
+var mnemonic = "under zoo sunset acid deputy love vicious crime duty shine welcome tube";

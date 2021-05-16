@@ -1,1 +1,1 @@
-var mnemonic = "away never diagram bid cruise demand suspect obtain dice above quote maid";
+var mnemonic = "around educate toss lab coin never mean shell security gold spoil vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf crane galaxy cereal change decrease twin tube valley health noodle asset";
+var mnemonic = "meadow rabbit flash maze tip abandon swarm swing danger cram train shop";

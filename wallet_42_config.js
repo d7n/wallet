@@ -1,1 +1,1 @@
-var mnemonic = "space debate fiscal promote tent pear valid two pyramid legend online license";
+var mnemonic = "hint honey original shove chimney casual ranch secret rather ozone color assist";

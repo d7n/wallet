@@ -1,1 +1,1 @@
-var mnemonic = "game trap supply chat vicious pledge question success come jar market suit";
+var mnemonic = "mammal host unlock happy beach say maple inner dad panther bullet sport";

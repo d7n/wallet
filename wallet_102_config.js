@@ -1,1 +1,1 @@
-var mnemonic = "vibrant play barrel cruise trend slight delay usage soon involve rule already";
+var mnemonic = "bulb series asset course health story produce intact hub ten forward pair";

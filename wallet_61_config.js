@@ -1,1 +1,1 @@
-var mnemonic = "mind awesome onion tornado faculty quick another frown want can slogan task";
+var mnemonic = "ticket post list inch long reflect farm picnic elephant horse bunker summer";

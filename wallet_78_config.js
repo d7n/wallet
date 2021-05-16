@@ -1,1 +1,1 @@
-var mnemonic = "damage liquid wife senior lawsuit attitude gossip warm grocery rare cherry increase";
+var mnemonic = "make mean image ready dinosaur citizen crush decorate jungle matter strong animal";

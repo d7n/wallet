@@ -1,1 +1,1 @@
-var mnemonic = "budget web knife fringe false shaft snap game frame minimum fiscal wash";
+var mnemonic = "case pond frost pool bind size chef solid puppy spare weird history";

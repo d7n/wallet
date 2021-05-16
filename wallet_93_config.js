@@ -1,1 +1,1 @@
-var mnemonic = "what urban giggle beauty ramp core base thunder brush pottery session profit";
+var mnemonic = "rude neck balcony smile flash damp best exercise category actor slot someone";

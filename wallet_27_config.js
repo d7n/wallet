@@ -1,1 +1,1 @@
-var mnemonic = "sign whip aim other bean true blade spare foil raven bulb fringe";
+var mnemonic = "output civil hobby wood raise clerk cactus security pole obscure blanket soldier";

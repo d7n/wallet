@@ -1,1 +1,1 @@
-var mnemonic = "baby myth fitness stuff update gap crystal permit camp fashion asset idea";
+var mnemonic = "focus cable loop shield good unique anger rely tongue pig surface victory";

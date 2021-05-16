@@ -1,1 +1,1 @@
-var mnemonic = "juice pride girl fitness heart spend ability smart royal sponsor club grunt";
+var mnemonic = "basket hire drastic volume retire mother ethics agree tell alter season volume";

@@ -1,1 +1,1 @@
-var mnemonic = "measure nice sea garbage faith frame exhibit sword cruel antique desert near";
+var mnemonic = "glimpse office eternal badge fire define category away cup boy ugly pull";

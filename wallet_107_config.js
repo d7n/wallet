@@ -1,1 +1,1 @@
-var mnemonic = "truth angle story gift recipe fresh child add together citizen decide release";
+var mnemonic = "peasant vendor chronic jeans bone charge online slab mother page hip thrive";

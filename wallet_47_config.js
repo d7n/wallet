@@ -1,1 +1,1 @@
-var mnemonic = "task immune fetch warm volume during remain tornado key kingdom metal north";
+var mnemonic = "size hawk idle catch disorder mountain maple nut resource jewel traffic tape";

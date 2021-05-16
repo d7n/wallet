@@ -1,1 +1,1 @@
-var mnemonic = "indicate scorpion course merge sauce chest ridge oyster sadness view mass happy";
+var mnemonic = "hen nurse typical echo slot army bundle typical eye recipe palace ridge";

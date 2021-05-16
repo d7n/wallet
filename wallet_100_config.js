@@ -1,1 +1,1 @@
-var mnemonic = "chuckle boost clay cricket accuse response shield fan weather stem section adjust";
+var mnemonic = "range vintage oppose gloom shine service valve maximum suit enroll elder wagon";

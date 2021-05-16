@@ -1,1 +1,1 @@
-var mnemonic = "coin foster slide bar uniform ketchup dance fluid refuse aim prevent vicious";
+var mnemonic = "bind manage vague grab announce minute awesome oxygen sugar south neglect print";

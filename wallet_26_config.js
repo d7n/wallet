@@ -1,1 +1,1 @@
-var mnemonic = "void arena oval vibrant car client dust turtle noble elephant crash jazz";
+var mnemonic = "apart before smile stable fix cousin coconut country rich announce pilot silk";

@@ -1,1 +1,1 @@
-var mnemonic = "legend rice absurd exclude noble dust cluster hybrid develop bachelor drip alarm";
+var mnemonic = "chase fruit miracle sun reopen ticket fringe popular copper version final tube";

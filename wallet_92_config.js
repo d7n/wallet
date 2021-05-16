@@ -1,1 +1,1 @@
-var mnemonic = "into country flat icon idle clap gap step million motor knife eager";
+var mnemonic = "medal thrive margin pledge section defense wink network observe trick dust deputy";

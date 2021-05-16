@@ -1,1 +1,1 @@
-var mnemonic = "crucial vague photo pass ghost family pelican mean symptom lizard novel nature";
+var mnemonic = "arm hazard insane brave level price salute gallery grab model rather angry";

@@ -1,1 +1,1 @@
-var mnemonic = "excite laptop holiday garage stairs small shed album curve daughter scan polar";
+var mnemonic = "ceiling lumber admit cigar loop music unique govern stick fortune deny photo";

@@ -1,1 +1,1 @@
-var mnemonic = "joke six tuition first minute payment width orient pause anxiety gift suffer";
+var mnemonic = "peace body slide curtain analyst trim stove witness attend chalk kite shove";

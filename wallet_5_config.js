@@ -1,1 +1,1 @@
-var mnemonic = "photo craft company fancy source donor attend picture response yellow pet jealous";
+var mnemonic = "inject royal snap tank cruise tank result runway oppose brother asset mistake";

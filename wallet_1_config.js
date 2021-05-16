@@ -1,1 +1,1 @@
-var mnemonic = "width squirrel lecture aisle basket common ripple enemy expect abandon inner text";
+var mnemonic = "swing fat debate original hybrid taxi tomato cruel scatter decline century road";

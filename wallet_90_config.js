@@ -1,1 +1,1 @@
-var mnemonic = "slide home essence trim opinion draft protect pave panda engine giant track";
+var mnemonic = "pelican among museum image ill toy august toss together note sea gauge";

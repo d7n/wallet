@@ -1,1 +1,1 @@
-var mnemonic = "grow account denial give shrug joke pond pet measure steak diet copper";
+var mnemonic = "start interest bunker actor pen present culture general cycle share arch tape";

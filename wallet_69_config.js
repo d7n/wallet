@@ -1,1 +1,1 @@
-var mnemonic = "duck height brick similar sausage animal dad bench sell steak muscle soul";
+var mnemonic = "electric exile ranch change suspect unlock release seek sing magic ticket woman";

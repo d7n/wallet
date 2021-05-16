@@ -1,1 +1,1 @@
-var mnemonic = "average palace shop advance cage hover image robot quick clap access raven";
+var mnemonic = "tonight onion toss tunnel soon spatial symptom jaguar poverty require web cigar";

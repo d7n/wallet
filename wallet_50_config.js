@@ -1,1 +1,1 @@
-var mnemonic = "paper jungle today race orange chest luggage disease arrive flag minute piano";
+var mnemonic = "student skull system captain job safe idle start jump vital almost iron";

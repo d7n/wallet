@@ -1,1 +1,1 @@
-var mnemonic = "net cat change dune tell stem marriage report flight involve resist false";
+var mnemonic = "silent enact job express habit creek robot fence shift script resemble lounge";

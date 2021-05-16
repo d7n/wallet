@@ -1,1 +1,1 @@
-var mnemonic = "guitar lamp chase oblige senior damage flower excite choose doll nuclear stay";
+var mnemonic = "ladder bright syrup pledge pride ahead elbow grab guard sunny cat sniff";

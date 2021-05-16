@@ -1,1 +1,1 @@
-var mnemonic = "zebra galaxy daring fortune person denial neglect voice icon mother unit bag";
+var mnemonic = "donate axis path tone edit cup jaguar wrap exile tattoo escape secret";

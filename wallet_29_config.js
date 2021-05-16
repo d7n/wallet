@@ -1,1 +1,1 @@
-var mnemonic = "lock ribbon puppy hair poet mistake blood habit blood liberty census tape";
+var mnemonic = "puzzle glance interest west plunge yellow mystery attack word confirm urban paddle";

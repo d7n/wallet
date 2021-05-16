@@ -1,1 +1,1 @@
-var mnemonic = "observe virus issue rival make woman radar grid vendor desert bless ketchup";
+var mnemonic = "return worth banana exist sense know concert globe comic permit orbit science";

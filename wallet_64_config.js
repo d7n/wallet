@@ -1,1 +1,1 @@
-var mnemonic = "top huge either debate ramp turn coffee apple double genius stable unveil";
+var mnemonic = "monster sound advance album beach car ketchup actual valid sound sweet tonight";

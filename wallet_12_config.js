@@ -1,1 +1,1 @@
-var mnemonic = "uniform ensure brain student illegal shrug ritual wet start lawsuit core people";
+var mnemonic = "luggage armed weekend honey beach network camera common trust client elbow surge";

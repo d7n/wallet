@@ -1,1 +1,1 @@
-var mnemonic = "scout ceiling price genuine divide round twice crane code flush traffic seminar";
+var mnemonic = "oxygen pave vague burst rebuild limb cinnamon heavy switch above rain novel";

@@ -1,1 +1,1 @@
-var mnemonic = "keep shoe equal include caught panda steak loop diet question arctic amused";
+var mnemonic = "decline adult dolphin dynamic garlic someone suffer boy display vintage quiz first";

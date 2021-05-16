@@ -1,1 +1,1 @@
-var mnemonic = "parent patrol blade blue nation figure else bottom easy stuff sail assault";
+var mnemonic = "timber mercy crawl stem kangaroo jar smoke harsh broccoli notice direct beef";

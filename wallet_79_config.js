@@ -1,1 +1,1 @@
-var mnemonic = "alcohol act expire spell quantum used depart write intact reject awful hill";
+var mnemonic = "accident cave tuition welcome arena civil monitor exclude prize absorb imitate usual";

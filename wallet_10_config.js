@@ -1,1 +1,1 @@
-var mnemonic = "month cable trick cycle frequent fold strike glory balance depth number jacket";
+var mnemonic = "upgrade clown vanish grant cash offer duck subject depart length push weapon";

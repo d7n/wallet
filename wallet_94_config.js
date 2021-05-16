@@ -1,1 +1,1 @@
-var mnemonic = "trouble panel swim test umbrella disagree nation sniff end track online volcano";
+var mnemonic = "easily turkey stone trade rose rice right outdoor correct base wall slim";

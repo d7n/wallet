@@ -1,1 +1,1 @@
-var mnemonic = "wage asthma athlete total cube cupboard arena phrase unfair sun slide hill";
+var mnemonic = "bulb nose desk feed company injury canyon below grief ecology distance swing";

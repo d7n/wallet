@@ -1,1 +1,1 @@
-var mnemonic = "panda blur elephant burger pluck push script august pact maid knock gate";
+var mnemonic = "fan sorry tag hub tell output practice damage witness medal right whale";
