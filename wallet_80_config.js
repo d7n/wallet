@@ -1,1 +1,1 @@
-var mnemonic = "inspire leopard almost during cat scout cliff tip fashion broom hotel borrow";
+var mnemonic = "canyon common chase gesture punch fame segment use violin future dove parent";

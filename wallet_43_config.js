@@ -1,1 +1,1 @@
-var mnemonic = "crumble little student merry baby swallow mobile innocent novel purpose security grid";
+var mnemonic = "public quote identify sail title broom pride topic vital joy hazard shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "brave twenty bus excuse clarify minute march foot twist olympic escape awake";
+var mnemonic = "curtain vocal kitten virus isolate caught mesh comic blossom knee grape illegal";

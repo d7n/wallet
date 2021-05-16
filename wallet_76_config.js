@@ -1,1 +1,1 @@
-var mnemonic = "ozone session skull maze robust extra ketchup invest message alone coconut color";
+var mnemonic = "write axis point shiver stable glide main master jaguar panda pet crisp";

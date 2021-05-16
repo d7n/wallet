@@ -1,1 +1,1 @@
-var mnemonic = "begin decide butter garlic dirt hope flush draw duty jewel health frequent";
+var mnemonic = "echo energy wait pull casino elder flight federal blush panel high about";

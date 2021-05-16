@@ -1,1 +1,1 @@
-var mnemonic = "trouble radio sunny shuffle suffer armed evolve current humble major ribbon between";
+var mnemonic = "ignore gasp nerve forest device point elegant ill whisper holiday lab wheel";

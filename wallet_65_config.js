@@ -1,1 +1,1 @@
-var mnemonic = "stuff immune urge bulb fever carpet few baby program fitness that catch";
+var mnemonic = "chapter main theory sort drop salt reveal type umbrella eyebrow wide brush";

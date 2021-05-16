@@ -1,1 +1,1 @@
-var mnemonic = "jeans mention leisure prison verify art physical grass toss shoe lobster suit";
+var mnemonic = "electric price pyramid clog height eight split vanish frost dance win travel";

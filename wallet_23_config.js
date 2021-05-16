@@ -1,1 +1,1 @@
-var mnemonic = "struggle ship alley upon model fork region like sunset stool marriage abandon";
+var mnemonic = "mixed pen envelope need garden over skirt shuffle clean output domain have";

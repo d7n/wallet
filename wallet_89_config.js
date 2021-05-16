@@ -1,1 +1,1 @@
-var mnemonic = "dragon claw slice debris total food tilt humble alert sail excuse diesel";
+var mnemonic = "physical clean address hat debris twin honey example vicious cage say smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "smile month blush siren race install airport ensure ticket any gas reunion";
+var mnemonic = "poverty vivid use version office purpose gallery tonight total december future rescue";

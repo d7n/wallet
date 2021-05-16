@@ -1,1 +1,1 @@
-var mnemonic = "lock insane erupt siege put inspire relax crack brisk maze setup ring";
+var mnemonic = "lunar undo axis fiction scare often battle they cliff curtain marriage supreme";

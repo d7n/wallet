@@ -1,1 +1,1 @@
-var mnemonic = "process space master zero turn shy humble life scrap detail runway clinic";
+var mnemonic = "web vague crawl filter gallery rough script voyage sword axis pool catch";

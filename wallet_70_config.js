@@ -1,1 +1,1 @@
-var mnemonic = "river session stomach grocery card exit alley cube sustain clay mandate sad";
+var mnemonic = "butter nurse twice chief update ghost transfer ski task rule grass speak";

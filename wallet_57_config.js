@@ -1,1 +1,1 @@
-var mnemonic = "gain acid puzzle useless pledge now over lift empty foam fish hen";
+var mnemonic = "wave illness debate modify orange load inform box super food real globe";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch decide stem strike couple annual aware final mask diet core chicken";
+var mnemonic = "car sphere flag hidden inmate knee among mandate please chunk scrub good";

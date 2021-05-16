@@ -1,1 +1,1 @@
-var mnemonic = "inhale gaze noble tent spray upgrade similar matter quiz over orphan fan";
+var mnemonic = "found large used region joy sheriff mother island wine scale eight climb";

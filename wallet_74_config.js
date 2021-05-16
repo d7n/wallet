@@ -1,1 +1,1 @@
-var mnemonic = "engine ripple kind pioneer avoid utility brief census liquid lunar assume token";
+var mnemonic = "biology suit hover secret employ enrich cute grocery atom hockey clock axis";

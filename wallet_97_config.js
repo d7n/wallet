@@ -1,1 +1,1 @@
-var mnemonic = "giraffe abstract harvest fold endorse again you good dice tree eye disagree";
+var mnemonic = "foster fragile vast island define fever also change promote clap mention home";

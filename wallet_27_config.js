@@ -1,1 +1,1 @@
-var mnemonic = "alert cargo narrow urban palm spot label resist indoor around cliff kiss";
+var mnemonic = "indoor marble like traffic arctic cute pride fix can undo metal category";

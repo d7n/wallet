@@ -1,1 +1,1 @@
-var mnemonic = "mystery trap century noise practice abstract raccoon surge cotton journey boil federal";
+var mnemonic = "afford jelly spend cherry lucky twin organ egg option tag force debate";

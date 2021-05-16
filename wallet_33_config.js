@@ -1,1 +1,1 @@
-var mnemonic = "minute misery spatial gather bless increase target aim pottery style young used";
+var mnemonic = "adapt foam together weather dentist female lazy discover dream among visit wreck";

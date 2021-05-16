@@ -1,1 +1,1 @@
-var mnemonic = "mammal cushion match wage donate absurd pipe travel book grace vapor emotion";
+var mnemonic = "squirrel exotic remove sound onion leg math trumpet recipe clay rely resist";

@@ -1,1 +1,1 @@
-var mnemonic = "guess fall wire leopard circle pilot evoke thank blush prison confirm boil";
+var mnemonic = "medal monster mixed artist spatial file garden cat coil predict able shop";

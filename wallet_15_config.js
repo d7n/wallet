@@ -1,1 +1,1 @@
-var mnemonic = "stove congress screen title popular top stage negative olympic ice risk crowd";
+var mnemonic = "upon stadium drive rural replace age nurse marble disagree slab wrong kite";

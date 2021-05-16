@@ -1,1 +1,1 @@
-var mnemonic = "congress quit basic protect protect sample length bundle brief proud kangaroo soon";
+var mnemonic = "simple clever life phone guitar shoot garbage major prevent focus mango cycle";

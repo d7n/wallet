@@ -1,1 +1,1 @@
-var mnemonic = "force cube thrive eye patient ski crop lend top dawn combine plastic";
+var mnemonic = "arm joke cotton until adapt calm earth catch hundred chair pride merit";

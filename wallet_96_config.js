@@ -1,1 +1,1 @@
-var mnemonic = "under decorate stem drill use oval wool live taste open van heart";
+var mnemonic = "clerk near choose access tortoise sister like train upper symbol father ceiling";

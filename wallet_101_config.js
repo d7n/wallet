@@ -1,1 +1,1 @@
-var mnemonic = "beyond law dwarf before fiber edit mixture energy hat total burst spread";
+var mnemonic = "nice youth inspire toilet corn suggest rice ready agent obey post twenty";

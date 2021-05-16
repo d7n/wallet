@@ -1,1 +1,1 @@
-var mnemonic = "elite since badge stock hobby genuine occur ahead doll hood jacket cloth";
+var mnemonic = "network boy olympic giraffe innocent avoid spin about often cash nation build";

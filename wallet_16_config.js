@@ -1,1 +1,1 @@
-var mnemonic = "owner lazy lounge taxi claw save holiday ginger hurt solve rail damage";
+var mnemonic = "miracle gym skull vapor reject marble adapt canyon search mass deliver grief";

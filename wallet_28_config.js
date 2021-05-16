@@ -1,1 +1,1 @@
-var mnemonic = "sleep foam route begin valid whisper clerk shoe river cost ozone royal";
+var mnemonic = "lava hood coin hurt muffin pact sock usual reopen sheriff total song";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator nice flush almost sport crystal pistol say trumpet until mimic pattern";
+var mnemonic = "select swarm argue embody stand birth mushroom evoke lottery certain key adult";

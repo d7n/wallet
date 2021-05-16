@@ -1,1 +1,1 @@
-var mnemonic = "exact engine valley ski oven orange snap undo bone seek flush chase";
+var mnemonic = "balcony small tattoo index expose latin portion knock bubble item drive obtain";

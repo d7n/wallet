@@ -1,1 +1,1 @@
-var mnemonic = "screen category rare maid scheme mandate caution above tail trim orchard gold";
+var mnemonic = "behave drip empower kit extra swear pipe absorb front paddle bean army";

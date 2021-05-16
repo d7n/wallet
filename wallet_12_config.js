@@ -1,1 +1,1 @@
-var mnemonic = "blade image elegant cricket review devote puzzle genuine lottery south divorce include";
+var mnemonic = "exile pigeon digital grape again ribbon scale cart range garment hen reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary venue sleep salute sea rug input crazy green nature blast diet";
+var mnemonic = "attitude modify scissors winner tortoise question cabbage decade palace minor upset random";

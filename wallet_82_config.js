@@ -1,1 +1,1 @@
-var mnemonic = "slender grunt evidence hurdle absent cash song upon venue consider pole right";
+var mnemonic = "drama dial comfort baby round consider alien ahead travel eagle firm nasty";

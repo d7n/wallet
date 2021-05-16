@@ -1,1 +1,1 @@
-var mnemonic = "raise route ethics dune urban diet duck sample scatter pact old cross";
+var mnemonic = "snap suspect enough solution spatial chest home foster vault acoustic outside piano";

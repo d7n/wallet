@@ -1,1 +1,1 @@
-var mnemonic = "innocent tunnel surround liberty gain company gossip popular soldier limit notable eye";
+var mnemonic = "camp jelly rescue logic crack text mind wealth proud giggle sustain clarify";

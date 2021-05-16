@@ -1,1 +1,1 @@
-var mnemonic = "shift neither foot hole rain neutral flip ozone index north slice wait";
+var mnemonic = "law hurdle resource rent cereal enhance net shoot maid grow priority warrior";

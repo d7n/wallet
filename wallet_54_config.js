@@ -1,1 +1,1 @@
-var mnemonic = "tower save company step undo boat flip rural icon base idea innocent";
+var mnemonic = "found charge crisp super fabric share mushroom cinnamon unhappy have space phrase";

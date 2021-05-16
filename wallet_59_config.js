@@ -1,1 +1,1 @@
-var mnemonic = "hood visit couch portion draft finger polar dash basket junk eight desk";
+var mnemonic = "click fine bracket object barely verify verify journey wealth enough milk palm";

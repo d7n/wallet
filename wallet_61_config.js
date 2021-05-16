@@ -1,1 +1,1 @@
-var mnemonic = "staff inside gaze property thought priority increase hen fun tiny victory cancel";
+var mnemonic = "dilemma health crater will ankle mammal mail food daring rally that quarter";

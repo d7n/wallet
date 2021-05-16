@@ -1,1 +1,1 @@
-var mnemonic = "repeat cash banner walnut shoot hunt public coin jaguar tomato ramp fury";
+var mnemonic = "conduct before issue position brand barrel victory ring audit uniform harvest chat";

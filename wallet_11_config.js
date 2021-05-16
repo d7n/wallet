@@ -1,1 +1,1 @@
-var mnemonic = "roof chair toss cruise mirror meadow together gown pig tent nominee frost";
+var mnemonic = "sponsor rival imitate increase punch buffalo choice rely destroy boil error jewel";

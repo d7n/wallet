@@ -1,1 +1,1 @@
-var mnemonic = "typical lemon kit remove primary tail empower kiss cup vintage ignore saddle";
+var mnemonic = "resource laugh divert trim trade match soda chuckle item oven radio neglect";

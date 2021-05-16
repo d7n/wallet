@@ -1,1 +1,1 @@
-var mnemonic = "shell people scheme home devote pretty giant fun bargain recipe embrace trigger";
+var mnemonic = "feature genius essence sadness sadness december vacuum happy burst warrior rotate toy";

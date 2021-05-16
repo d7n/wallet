@@ -1,1 +1,1 @@
-var mnemonic = "surge glance best radio mutual music volume riot basic record secret scissors";
+var mnemonic = "salon client soup system party pig unhappy salt melt evolve range bind";

@@ -1,1 +1,1 @@
-var mnemonic = "echo curious lady cash spider offer arena river hotel balcony doctor bleak";
+var mnemonic = "upgrade exhaust blast reopen purse office salmon shield shoulder skate wolf cave";

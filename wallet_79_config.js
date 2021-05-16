@@ -1,1 +1,1 @@
-var mnemonic = "setup destroy uncle concert verb radar off sleep virus stairs used arrow";
+var mnemonic = "hover tomorrow lizard nerve roof kitchen travel fun mistake legend equip industry";

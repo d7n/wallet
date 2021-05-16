@@ -1,1 +1,1 @@
-var mnemonic = "enrich season mouse lawn vehicle mobile three kiss agent unaware vessel domain";
+var mnemonic = "funny fun when render space width destroy mystery hard mango dinosaur nature";

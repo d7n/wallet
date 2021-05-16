@@ -1,1 +1,1 @@
-var mnemonic = "culture august decorate truck supply tunnel drive ginger alien depend tumble boss";
+var mnemonic = "acid rule believe day fault nephew public tobacco town affair cradle erosion";

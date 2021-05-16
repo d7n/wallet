@@ -1,1 +1,1 @@
-var mnemonic = "aisle diamond build oxygen trophy ancient evidence park giggle jeans benefit onion";
+var mnemonic = "critic jazz found magnet unveil hero motion poverty innocent fatigue ramp metal";

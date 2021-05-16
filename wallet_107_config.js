@@ -1,1 +1,1 @@
-var mnemonic = "repair torch rally proud soup east prepare ridge unfold like scale antique";
+var mnemonic = "length assault bleak cook north leave culture fossil basket super poem noble";

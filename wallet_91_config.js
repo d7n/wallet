@@ -1,1 +1,1 @@
-var mnemonic = "youth novel submit cover cheese helmet panel link embark slot report try";
+var mnemonic = "bus youth place decide fox spike six build tired element reveal slim";

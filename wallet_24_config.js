@@ -1,1 +1,1 @@
-var mnemonic = "poverty blast skill tide milk index cabbage roof burst lift warm knife";
+var mnemonic = "mule sphere near agent ozone bundle diagram hedgehog tragic yellow fog unaware";

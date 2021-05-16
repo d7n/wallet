@@ -1,1 +1,1 @@
-var mnemonic = "frozen spot frequent sunset shiver pride bean second flat catch rifle sunset";
+var mnemonic = "write increase jaguar cupboard life mesh dish volume put hover similar beef";

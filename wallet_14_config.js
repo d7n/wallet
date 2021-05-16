@@ -1,1 +1,1 @@
-var mnemonic = "suggest edit close grape trophy clog cart ignore device power law disorder";
+var mnemonic = "swim shock parent melody holiday foam snap knock consider mistake recipe bright";

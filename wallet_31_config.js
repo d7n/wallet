@@ -1,1 +1,1 @@
-var mnemonic = "tiger rule wagon taste clutch grape boss bar gate flame icon goat";
+var mnemonic = "love silver impulse outside rough shine sing artist bracket vast rabbit only";

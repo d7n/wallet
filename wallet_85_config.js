@@ -1,1 +1,1 @@
-var mnemonic = "blood crane argue upset supply art escape vacuum milk lucky rack horn";
+var mnemonic = "slow notice wool awful recipe cruel hawk fame spider inside crisp pilot";

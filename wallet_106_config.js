@@ -1,1 +1,1 @@
-var mnemonic = "fancy athlete radar toy same vacant awesome team movie depend used silent";
+var mnemonic = "employ weekend viable park equip ripple bullet keen walnut execute level rival";

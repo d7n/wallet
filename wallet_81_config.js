@@ -1,1 +1,1 @@
-var mnemonic = "video regret february argue sound omit school side boat river island dynamic";
+var mnemonic = "state resist flock speed damage vendor dove floor marriage barrel interest modify";

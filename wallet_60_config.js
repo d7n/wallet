@@ -1,1 +1,1 @@
-var mnemonic = "clean dragon pencil arm diamond talent eternal solve broken ticket sort soon";
+var mnemonic = "about open soldier airport giggle rubber obscure small often muffin chapter must";

@@ -1,1 +1,1 @@
-var mnemonic = "van vote warrior gun move genius busy shiver hair rate welcome select";
+var mnemonic = "during jar outdoor teach culture topple sting cheap crack come south shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "tip crouch nose force sniff drive stock shy what orbit party size";
+var mnemonic = "hamster wonder champion miss best occur bounce matter excite script vessel toast";

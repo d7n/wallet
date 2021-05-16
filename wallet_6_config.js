@@ -1,1 +1,1 @@
-var mnemonic = "cattle obtain glad degree busy mammal mix theory luxury enough harbor fitness";
+var mnemonic = "finish artwork awful exhaust run brass super best mosquito payment guitar slam";

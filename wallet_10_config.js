@@ -1,1 +1,1 @@
-var mnemonic = "album walnut square stand jacket paddle naive glass mammal leader draft thumb";
+var mnemonic = "toe wrap arrive mushroom custom fat cradle glad volume tuition cart blind";

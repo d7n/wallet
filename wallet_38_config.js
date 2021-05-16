@@ -1,1 +1,1 @@
-var mnemonic = "ripple vibrant brief horn bleak glory estate crop kiwi remain shine fresh";
+var mnemonic = "arrive embody cloud liar brother zoo seed economy danger remind dizzy rib";

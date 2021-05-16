@@ -1,1 +1,1 @@
-var mnemonic = "toilet ocean deposit quote cage apology basic shed flower scatter labor idle";
+var mnemonic = "ankle drive bachelor tonight owner casual popular typical year talent seed term";

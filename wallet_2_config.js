@@ -1,1 +1,1 @@
-var mnemonic = "truly can lava budget video vague code glide feel lonely guitar creek";
+var mnemonic = "celery fringe alcohol beauty relief book urge paddle display air warrior work";

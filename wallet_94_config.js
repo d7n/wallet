@@ -1,1 +1,1 @@
-var mnemonic = "length token latin buyer salt popular slot miracle smart dynamic armed play";
+var mnemonic = "scan crack love glance tank tiny entry diamond swim ordinary ozone liberty";

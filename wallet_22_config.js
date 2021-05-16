@@ -1,1 +1,1 @@
-var mnemonic = "profit bird razor tattoo always indoor tourist benefit impact gorilla rent help";
+var mnemonic = "donor damp sound disease deposit leg fit say opera record crisp mail";

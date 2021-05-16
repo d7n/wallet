@@ -1,1 +1,1 @@
-var mnemonic = "exile imitate cigar century liquid asset smoke truly setup kiss amused common";
+var mnemonic = "member saddle oven monkey anchor gadget pole meadow custom unfold uncle theme";

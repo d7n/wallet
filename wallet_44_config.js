@@ -1,1 +1,1 @@
-var mnemonic = "this domain charge depend venue insane adjust cruel friend gown novel review";
+var mnemonic = "ocean case destroy neutral decide jazz shift pink collect timber enlist grit";

@@ -1,1 +1,1 @@
-var mnemonic = "subway angle fruit useful shock lamp wash silly daughter hundred rare reason";
+var mnemonic = "culture weather traffic sick enemy arena library iron belt script betray skill";

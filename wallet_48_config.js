@@ -1,1 +1,1 @@
-var mnemonic = "latin answer tattoo drink aim analyst sail meadow field knee rapid bonus";
+var mnemonic = "horror cup love dolphin uncover shock clarify exhibit chief desk lonely season";

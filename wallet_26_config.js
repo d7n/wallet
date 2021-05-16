@@ -1,1 +1,1 @@
-var mnemonic = "toilet power denial logic monster response weasel melt cute business feed forum";
+var mnemonic = "attack beef illness rubber brain expire road divert online cancel embrace sauce";

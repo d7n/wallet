@@ -1,1 +1,1 @@
-var mnemonic = "parrot tree three observe uphold rose comic possible student flag strong input";
+var mnemonic = "worry scene supply catch mouse motor surge copper opinion major park enemy";

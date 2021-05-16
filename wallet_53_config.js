@@ -1,1 +1,1 @@
-var mnemonic = "execute envelope execute isolate siren notable useful family boost loud cause addict";
+var mnemonic = "bike hill blanket vast stereo egg hen trouble inquiry craft blind palace";

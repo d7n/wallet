@@ -1,1 +1,1 @@
-var mnemonic = "remember hole fine purse chaos clip just lawn oblige chuckle renew clinic";
+var mnemonic = "elephant inspire liberty pass neither door solid student siege curve aunt two";

@@ -1,1 +1,1 @@
-var mnemonic = "divert letter genre island jealous note stamp dwarf oven mandate erode soon";
+var mnemonic = "giggle maid enrich robot come stadium stomach captain moon senior side dream";

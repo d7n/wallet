@@ -1,1 +1,1 @@
-var mnemonic = "crush phrase neutral face twelve forest tomorrow spoil glory acquire hat flash";
+var mnemonic = "grass air road wool snow enforce market soon alpha lamp carry virus";

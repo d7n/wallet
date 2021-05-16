@@ -1,1 +1,1 @@
-var mnemonic = "silly mass chimney museum foster develop tattoo index evil squirrel obscure inquiry";
+var mnemonic = "gospel green can more finger better combine teach art fee gesture remember";

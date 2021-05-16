@@ -1,1 +1,1 @@
-var mnemonic = "clerk oil asset sound replace ignore drive mansion found raise alpha wine";
+var mnemonic = "define slide ladder search pear glimpse recipe light absorb dinner average title";

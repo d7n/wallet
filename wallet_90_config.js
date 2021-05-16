@@ -1,1 +1,1 @@
-var mnemonic = "royal hire bind hurdle cake space tooth sorry caution estate sorry inch";
+var mnemonic = "lemon final alien display draft pull jacket among peace royal dragon project";

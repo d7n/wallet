@@ -1,1 +1,1 @@
-var mnemonic = "junk bounce patch document electric wild arrive fiction dish impact melody figure";
+var mnemonic = "harbor vibrant banana merry volume echo shrimp basic plunge empty finish clog";

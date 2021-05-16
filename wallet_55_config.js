@@ -1,1 +1,1 @@
-var mnemonic = "popular garlic denial undo humble water peanut evidence doll improve group pull";
+var mnemonic = "ensure silly monitor victory enjoy guitar admit major flush dwarf tornado junk";

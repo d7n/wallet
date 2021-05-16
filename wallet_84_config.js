@@ -1,1 +1,1 @@
-var mnemonic = "average away private draw scissors team leg across poem issue object mercy";
+var mnemonic = "bridge print suggest genius decide denial north follow danger bottom scheme curious";

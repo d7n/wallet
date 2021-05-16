@@ -1,1 +1,1 @@
-var mnemonic = "guess access resist nice toddler leader leader auction omit spell kiss wrestle";
+var mnemonic = "square battle giggle bulk buddy magic pilot moment cabbage since later wagon";
