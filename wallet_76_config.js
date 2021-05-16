@@ -1,1 +1,1 @@
-var mnemonic = "ceiling garbage believe clarify angry ill assume kiwi trouble vacuum spoil concert";
+var mnemonic = "void require tide exhibit lunch bird liberty adjust decline angle ketchup limb";

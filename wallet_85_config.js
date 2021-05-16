@@ -1,1 +1,1 @@
-var mnemonic = "exercise ivory next twelve earth book churn sock street spawn purchase disagree";
+var mnemonic = "federal soul kangaroo ensure unusual weather close embrace clinic present rabbit arrange";

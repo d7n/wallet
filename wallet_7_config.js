@@ -1,1 +1,1 @@
-var mnemonic = "spot blue eternal feel bulb easy slim describe original panther slab hidden";
+var mnemonic = "arrow flee dirt lunch way kid dwarf mobile fold interest arrow vanish";

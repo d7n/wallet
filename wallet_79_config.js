@@ -1,1 +1,1 @@
-var mnemonic = "match ship obvious olympic steel box imitate rally grain borrow permit agent";
+var mnemonic = "radio fever arrow mind purse girl topic special comfort deposit defense grocery";

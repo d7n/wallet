@@ -1,1 +1,1 @@
-var mnemonic = "dream erode become panther stool another ostrich device remind private minor couch";
+var mnemonic = "squirrel absent mean forward crucial wave bag height dutch hammer kitten tail";

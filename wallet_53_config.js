@@ -1,1 +1,1 @@
-var mnemonic = "buffalo mouse initial clip fortune melody fatal embody bird such quote tattoo";
+var mnemonic = "swallow scissors shrug before enter blue seat safe harvest token mule erupt";

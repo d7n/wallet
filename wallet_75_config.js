@@ -1,1 +1,1 @@
-var mnemonic = "meadow tortoise replace shuffle snack hello among fork heart entry salon gun";
+var mnemonic = "uncle resist field tooth unit moment remove liar slush brave swarm battle";

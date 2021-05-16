@@ -1,1 +1,1 @@
-var mnemonic = "ozone flower stone next friend critic student wrap buffalo umbrella powder obtain";
+var mnemonic = "dwarf protect popular shadow feature valid pass vendor purpose ecology match bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "vault truly prison crack nominee palm nose hope clap muscle lunar suffer";
+var mnemonic = "output blue zone blur shed latin gentle immense bench strategy noise caught";

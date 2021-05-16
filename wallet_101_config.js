@@ -1,1 +1,1 @@
-var mnemonic = "slush airport rotate quiz ladder stone sphere today ice tissue chest pond";
+var mnemonic = "hard wagon only ignore mercy mushroom jacket try eyebrow ladder thunder property";

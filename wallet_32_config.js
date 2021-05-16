@@ -1,1 +1,1 @@
-var mnemonic = "dust silly voyage nuclear galaxy salt social dilemma laptop veteran goat south";
+var mnemonic = "under resemble copy cage garlic license car leopard erode license unit struggle";

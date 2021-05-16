@@ -1,1 +1,1 @@
-var mnemonic = "juice record stable man fetch empty mercy kind until minor finish exotic";
+var mnemonic = "note quality help bridge weasel home hunt identify army trigger depart better";

@@ -1,1 +1,1 @@
-var mnemonic = "steak tell define bind tongue ripple fade jealous ask thing notice nest";
+var mnemonic = "shuffle miss mother phrase salon galaxy pass quick flash fatal cross pudding";

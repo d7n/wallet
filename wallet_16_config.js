@@ -1,1 +1,1 @@
-var mnemonic = "invite style crater dial pink round proof squeeze seek zone erase fox";
+var mnemonic = "trash defy puzzle supreme potato hurt divorce surge rely lecture tooth funny";

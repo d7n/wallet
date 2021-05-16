@@ -1,1 +1,1 @@
-var mnemonic = "walk sketch degree direct cluster then leopard come party welcome chimney orient";
+var mnemonic = "purchase marriage junk party silk lion six injury limit eye confirm actress";

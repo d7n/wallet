@@ -1,1 +1,1 @@
-var mnemonic = "figure stomach furnace market script race session recipe video fat poet agree";
+var mnemonic = "electric sea never happy pelican flee omit balcony state sound fortune dutch";

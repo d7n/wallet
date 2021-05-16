@@ -1,1 +1,1 @@
-var mnemonic = "width panda fiction squirrel thrive flight grain live model insane soft shy";
+var mnemonic = "peanut ill scare badge prize bonus urge record host mansion endorse garment";

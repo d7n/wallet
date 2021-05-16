@@ -1,1 +1,1 @@
-var mnemonic = "organ limb extra grief gloom merit chaos drum pink adapt allow public";
+var mnemonic = "address mansion disease under color deposit skill stuff wonder muffin deer select";

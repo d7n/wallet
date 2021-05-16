@@ -1,1 +1,1 @@
-var mnemonic = "forest cause drum target saddle train situate biology frog retire unaware valve";
+var mnemonic = "patient review inch stem humble impact cereal pretty harbor person pizza track";

@@ -1,1 +1,1 @@
-var mnemonic = "crater sad tissue border witness medal often tuna elegant wave casino action";
+var mnemonic = "seminar caution husband wing silver force dignity expand divorce garden pig purse";

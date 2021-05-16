@@ -1,1 +1,1 @@
-var mnemonic = "bar renew art isolate defense base shine imitate pigeon duty spirit thing";
+var mnemonic = "spirit together fortune pluck word gentle oppose alter retire bicycle kick drum";

@@ -1,1 +1,1 @@
-var mnemonic = "once beyond vacuum adjust elbow mail cube state warrior deal claw asthma";
+var mnemonic = "wash adjust gas solar yellow burst auction primary salon tooth journey arctic";

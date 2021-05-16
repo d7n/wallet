@@ -1,1 +1,1 @@
-var mnemonic = "pledge shrug slot essence upper calm ankle never absent script adjust once";
+var mnemonic = "various someone tourist sell peace hair alpha online tilt swamp door long";

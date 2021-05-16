@@ -1,1 +1,1 @@
-var mnemonic = "journey still clay lesson copy tornado luggage candy habit copy boy river";
+var mnemonic = "hand check plunge excuse universe cable potato ramp marine october various beach";

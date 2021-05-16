@@ -1,1 +1,1 @@
-var mnemonic = "yellow disease rich boost destroy arctic gasp fish whip morning trap motion";
+var mnemonic = "hope toy since kitchen illegal satoshi raw girl steak clarify core knife";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel olive pink chaos happy bid zebra social tag exclude muffin candy";
+var mnemonic = "abstract utility tray save mask model relax scissors typical lottery cart ridge";

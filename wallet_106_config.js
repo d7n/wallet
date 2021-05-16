@@ -1,1 +1,1 @@
-var mnemonic = "bicycle forum orange explain nerve pistol toddler erode any tenant they arrow";
+var mnemonic = "entry music ancient rotate speed put moment such hour digital sun million";

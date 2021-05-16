@@ -1,1 +1,1 @@
-var mnemonic = "amount pulse unusual delay riot knee win during pony delay trend equip";
+var mnemonic = "settle arrest rate web spice below urge hawk cluster oil immense modify";

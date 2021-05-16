@@ -1,1 +1,1 @@
-var mnemonic = "tape famous void firm service harsh midnight domain glory skirt talk finger";
+var mnemonic = "very grant first rice dish chimney argue course drum breeze distance ring";

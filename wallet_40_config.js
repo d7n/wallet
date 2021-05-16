@@ -1,1 +1,1 @@
-var mnemonic = "minor embark only famous narrow online trouble home such ladder increase relax";
+var mnemonic = "legal glory push climb dance pottery hen pluck banner gift marine wide";

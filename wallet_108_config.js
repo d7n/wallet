@@ -1,1 +1,1 @@
-var mnemonic = "path business winner awful toilet race hover journey pass receive neutral tone";
+var mnemonic = "emotion tragic pencil curve bicycle rural piano soft basket allow chase about";

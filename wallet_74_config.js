@@ -1,1 +1,1 @@
-var mnemonic = "flavor lemon brick creek west skate rotate control brisk bonus husband beach";
+var mnemonic = "barrel sing fix turtle chimney glimpse very despair lab joy people erode";

@@ -1,1 +1,1 @@
-var mnemonic = "limit whale disagree excuse spoon increase boat crumble hole large finish arrive";
+var mnemonic = "legend candy tip coffee curious soft juice fork toast spread glass crumble";

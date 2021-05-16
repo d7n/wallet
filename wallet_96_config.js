@@ -1,1 +1,1 @@
-var mnemonic = "remain robot coral adjust fog friend globe top clown hill burden torch";
+var mnemonic = "bomb fantasy maid huge gym mixture slim rare acid beef ritual rain";

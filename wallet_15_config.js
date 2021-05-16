@@ -1,1 +1,1 @@
-var mnemonic = "morning wheel afford small curve lumber miss royal attract gate another fog";
+var mnemonic = "renew apart saddle initial top polar same intact position length coconut chest";

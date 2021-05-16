@@ -1,1 +1,1 @@
-var mnemonic = "lucky daughter monitor soup tenant vague kingdom call bracket crime problem visit";
+var mnemonic = "era fall license tennis ski laptop satisfy zoo divert unknown market pupil";

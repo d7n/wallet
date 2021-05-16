@@ -1,1 +1,1 @@
-var mnemonic = "reward tip vocal enter thrive habit random can soon timber slide shuffle";
+var mnemonic = "force smooth engine measure mixture consider valve garden breeze joke breeze slow";

@@ -1,1 +1,1 @@
-var mnemonic = "slight treat tenant choose type drop amused save critic sauce joy axis";
+var mnemonic = "cruise balance suit since warm weapon enact wise tuna raw space deputy";

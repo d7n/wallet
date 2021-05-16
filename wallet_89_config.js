@@ -1,1 +1,1 @@
-var mnemonic = "vanish grain game subject despair plunge day slogan lonely size defy small";
+var mnemonic = "hollow try slice drink slot gaze sad over become forget muffin ability";

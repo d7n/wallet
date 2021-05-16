@@ -1,1 +1,1 @@
-var mnemonic = "magic spawn member police top top squeeze potato project jacket caution visa";
+var mnemonic = "suit country orient purpose mix click online engine unhappy jewel end rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle casino shuffle arrive voyage episode joy valley material fancy real buzz";
+var mnemonic = "session sauce pyramid try opinion mass latin grass chief dismiss abstract employ";

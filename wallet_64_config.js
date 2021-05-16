@@ -1,1 +1,1 @@
-var mnemonic = "swamp galaxy fall orphan valid marriage unfold walk weekend legend announce coin";
+var mnemonic = "today until naive crouch satoshi famous square turkey winter cross dinner argue";

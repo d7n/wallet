@@ -1,1 +1,1 @@
-var mnemonic = "monkey child this ridge october jelly little letter door winner top response";
+var mnemonic = "renew cruel water timber that wrong awesome blind screen ticket display direct";

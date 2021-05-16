@@ -1,1 +1,1 @@
-var mnemonic = "drill silent mobile list atom stairs wrap upgrade involve lava cattle tourist";
+var mnemonic = "club fatigue leave say result error lunch swap silver seven mail hamster";

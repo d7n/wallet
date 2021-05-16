@@ -1,1 +1,1 @@
-var mnemonic = "cover mushroom chronic ticket include open test image menu cart slogan food";
+var mnemonic = "cliff habit audit patrol ice system example belt adapt inner able monster";

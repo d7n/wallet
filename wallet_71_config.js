@@ -1,1 +1,1 @@
-var mnemonic = "hole tumble shy license drama team since service table replace depend wear";
+var mnemonic = "endless lend gas video asthma track glove duck dance fat fog reveal";

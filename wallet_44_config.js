@@ -1,1 +1,1 @@
-var mnemonic = "leaf trim wisdom view imitate symptom page seven scorpion orphan issue wood";
+var mnemonic = "harsh tape margin figure result average club tuna scan train endorse mom";

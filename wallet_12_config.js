@@ -1,1 +1,1 @@
-var mnemonic = "online tag control window twelve trap claw gas replace embody nation congress";
+var mnemonic = "acid differ chat position clap pulse invite alien tourist happy dose keep";

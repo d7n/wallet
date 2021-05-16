@@ -1,1 +1,1 @@
-var mnemonic = "minute quote then soft artefact aspect place income multiply treat pistol canyon";
+var mnemonic = "sock antenna mad risk oven live stumble burden amateur night opera laugh";

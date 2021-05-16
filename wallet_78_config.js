@@ -1,1 +1,1 @@
-var mnemonic = "trumpet ribbon pause weapon more alert frog drum mean century bacon race";
+var mnemonic = "check item sun turn trust crop explain great clump hidden trumpet smooth";

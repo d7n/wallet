@@ -1,1 +1,1 @@
-var mnemonic = "radio level service smooth toilet true slow grocery panic eternal loud soccer";
+var mnemonic = "bargain describe random reopen sustain rather town area airport lend force stem";

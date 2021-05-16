@@ -1,1 +1,1 @@
-var mnemonic = "cloud arrest sauce project snap cash ship fox divide among friend legend";
+var mnemonic = "spin sponsor toast coach noise list mother combine grass canvas club pig";

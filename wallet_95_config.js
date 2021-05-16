@@ -1,1 +1,1 @@
-var mnemonic = "glare electric joy switch equip loyal pluck festival escape frame crunch fly";
+var mnemonic = "chest predict faint talent lift metal enter consider fence match dignity absent";

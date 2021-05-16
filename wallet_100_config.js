@@ -1,1 +1,1 @@
-var mnemonic = "toe salt hunt math neglect rather chef nasty swing cushion hungry save";
+var mnemonic = "element blouse upper fox city genre pencil pitch border kite flash stand";

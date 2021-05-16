@@ -1,1 +1,1 @@
-var mnemonic = "verify issue mom attack make treat bar twelve obscure before aunt staff";
+var mnemonic = "brand inquiry trouble smart pretty audit divorce attend public accuse path immune";

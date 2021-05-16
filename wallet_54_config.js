@@ -1,1 +1,1 @@
-var mnemonic = "exist cousin search drama depend roof stove famous report pool asset chest";
+var mnemonic = "auto reason exotic pull crystal flee base auto twelve undo collect quote";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble apology trick doctor cattle able kiwi speed alarm receive flat select";
+var mnemonic = "program grape crystal like equal combine drive decade divert provide lucky absorb";

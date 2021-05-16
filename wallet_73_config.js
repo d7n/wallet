@@ -1,1 +1,1 @@
-var mnemonic = "nest arena bargain umbrella damp room refuse cabin timber eagle settle rookie";
+var mnemonic = "canyon wonder alone suffer drum path cancel opinion lyrics jungle mirror disagree";

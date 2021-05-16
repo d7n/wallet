@@ -1,1 +1,1 @@
-var mnemonic = "access rabbit join vacuum pelican stuff napkin confirm art science opera inquiry";
+var mnemonic = "lawn piano key camera creek search permit simple reject category wasp taxi";

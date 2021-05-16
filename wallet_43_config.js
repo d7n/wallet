@@ -1,1 +1,1 @@
-var mnemonic = "night labor leaf rose below wreck inside melody hint uniform spend judge";
+var mnemonic = "dignity title express reveal become blouse hat spread breeze pottery stock bicycle";

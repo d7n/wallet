@@ -1,1 +1,1 @@
-var mnemonic = "dream eye near pilot average cereal water load borrow market bronze oil";
+var mnemonic = "fee blush skate innocent polar depth fabric gather input deer erosion vanish";

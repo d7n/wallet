@@ -1,1 +1,1 @@
-var mnemonic = "design broccoli unit tonight gift lake cruise borrow place tobacco spawn cave";
+var mnemonic = "orbit flip tuna luxury diet shove trip believe chaos fade pool camera";

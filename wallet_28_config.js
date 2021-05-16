@@ -1,1 +1,1 @@
-var mnemonic = "route master blush marriage wide lucky ocean retire saddle alpha eagle opera";
+var mnemonic = "blame dust rebuild rare maid truly history expand paddle jungle draw latin";

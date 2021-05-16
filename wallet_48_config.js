@@ -1,1 +1,1 @@
-var mnemonic = "goat purse close media burger hold hazard promote meat tourist ladder scrap";
+var mnemonic = "anchor evoke junk swallow wisdom credit normal install input junk moment scrap";

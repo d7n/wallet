@@ -1,1 +1,1 @@
-var mnemonic = "inform badge slab powder grief ankle caution final buyer dice city sick";
+var mnemonic = "tilt aunt rookie document clay dizzy glad volcano march corn receive warm";

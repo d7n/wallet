@@ -1,1 +1,1 @@
-var mnemonic = "vessel know grain soup sister flag brass retreat subject nest collect kid";
+var mnemonic = "labor clump word mention silly space wedding unhappy stairs movie sense skill";

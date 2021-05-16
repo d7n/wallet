@@ -1,1 +1,1 @@
-var mnemonic = "baby between blast trophy volume split essence method disorder primary satisfy monkey";
+var mnemonic = "tragic thunder tonight exhibit guilt sleep cloud arrest pilot desk group shrug";

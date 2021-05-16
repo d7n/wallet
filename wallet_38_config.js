@@ -1,1 +1,1 @@
-var mnemonic = "art sing celery miss this trust gun trap gospel case indicate story";
+var mnemonic = "work enemy marble depart tooth twice seven bundle clutch high notice rail";

@@ -1,1 +1,1 @@
-var mnemonic = "coast donkey coyote biology lobster loud kiwi uniform oven lake ethics item";
+var mnemonic = "basic large you reveal until dignity screen cart concert talk kitten defy";

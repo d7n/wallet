@@ -1,1 +1,1 @@
-var mnemonic = "census spider blouse verify army miss steak margin concert cargo axis wolf";
+var mnemonic = "portion chair use volcano lady walnut state power captain flee improve one";

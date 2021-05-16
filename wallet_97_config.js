@@ -1,1 +1,1 @@
-var mnemonic = "funny embrace crack wreck brief voice salt strong pigeon soda dinosaur pill";
+var mnemonic = "melody mammal shock harbor section sword nurse deposit blossom victory ability guard";

@@ -1,1 +1,1 @@
-var mnemonic = "hood vague forum nothing thank master better east head motion west paddle";
+var mnemonic = "destroy miracle inspire destroy govern else escape robust invite light mercy cry";

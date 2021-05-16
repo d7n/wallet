@@ -1,1 +1,1 @@
-var mnemonic = "cave plunge traffic ethics minute mixed popular attitude ski mango able august";
+var mnemonic = "sustain umbrella net baby correct alien unit negative liberty share myth dumb";

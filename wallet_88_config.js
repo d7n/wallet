@@ -1,1 +1,1 @@
-var mnemonic = "cake tonight viable indoor carbon vapor develop quick cluster flag between twelve";
+var mnemonic = "today glass gauge brown admit strategy horse assault music stage casino siege";

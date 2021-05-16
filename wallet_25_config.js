@@ -1,1 +1,1 @@
-var mnemonic = "column kitchen must beyond upgrade april sibling liar code derive napkin memory";
+var mnemonic = "place genius hockey private dream obey recycle machine luxury loud hand bitter";

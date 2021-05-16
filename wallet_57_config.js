@@ -1,1 +1,1 @@
-var mnemonic = "opinion nerve matter pilot attack quiz vessel lawn economy coin lottery usage";
+var mnemonic = "battle target pave abuse time cancel hunt region dizzy violin axis furnace";

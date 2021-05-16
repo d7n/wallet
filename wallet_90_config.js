@@ -1,1 +1,1 @@
-var mnemonic = "circle chuckle process wave foil glory balcony myth yellow wash search grief";
+var mnemonic = "crystal tide once bargain swing emerge quick diet melt rib pioneer raccoon";

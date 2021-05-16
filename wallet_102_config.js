@@ -1,1 +1,1 @@
-var mnemonic = "luxury permit stomach guide embody quarter excite knock spawn distance asset captain";
+var mnemonic = "ghost mobile dizzy lyrics else rapid brain wife boss reflect sort retire";

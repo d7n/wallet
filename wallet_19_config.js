@@ -1,1 +1,1 @@
-var mnemonic = "endorse shove soap witness pluck axis base catalog crouch oxygen bar hurdle";
+var mnemonic = "pool return page mystery cat pilot honey planet quantum nerve one cream";

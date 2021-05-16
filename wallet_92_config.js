@@ -1,1 +1,1 @@
-var mnemonic = "accident senior absent gift thunder client insect display wrap mix across furnace";
+var mnemonic = "grief current bless fury tail earth bachelor garlic embrace lonely tortoise soft";

@@ -1,1 +1,1 @@
-var mnemonic = "idea unable orbit clay nominee dolphin pluck aim foster trend six distance";
+var mnemonic = "clinic symptom require toss trigger motor injury master story music slice push";

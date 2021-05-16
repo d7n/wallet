@@ -1,1 +1,1 @@
-var mnemonic = "broken smooth dad barrel kangaroo kangaroo mother suit erupt reject junk begin";
+var mnemonic = "face arrive satoshi embrace tortoise suggest start garden organ copy swift canoe";

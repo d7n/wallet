@@ -1,1 +1,1 @@
-var mnemonic = "know order kit cricket season rescue middle economy fault fortune fine army";
+var mnemonic = "magnet tiny duck music track hundred under advance ride ritual render unfair";

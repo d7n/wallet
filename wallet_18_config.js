@@ -1,1 +1,1 @@
-var mnemonic = "category carpet vocal afford banner nut wrap plunge size hint frozen funny";
+var mnemonic = "demise insane vintage energy great actual else combine sweet skate medal galaxy";

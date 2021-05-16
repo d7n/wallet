@@ -1,1 +1,1 @@
-var mnemonic = "cattle orphan delay soul grow sausage symptom spare fruit razor design admit";
+var mnemonic = "stock list ancient apple video retire injury bar enter aunt ranch rotate";

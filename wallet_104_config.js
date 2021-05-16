@@ -1,1 +1,1 @@
-var mnemonic = "find track pause output room end famous prefer lazy movie visual light";
+var mnemonic = "kitten morning october buffalo shock cancel produce coffee hamster cute warfare velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "math hamster coffee voyage call audit program twist news spell solid wood";
+var mnemonic = "cherry hen hat virtual fatigue smooth mechanic mercy way ahead confirm loan";

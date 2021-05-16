@@ -1,1 +1,1 @@
-var mnemonic = "material leave glide forget federal push rubber beauty vehicle page army trap";
+var mnemonic = "cattle lock clog armed multiply object page spirit soul piano menu usual";

@@ -1,1 +1,1 @@
-var mnemonic = "nut pull vanish congress utility degree insect wish polar drum glow image";
+var mnemonic = "quit awesome laptop able swift depend arch among track burden seat call";

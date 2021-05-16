@@ -1,1 +1,1 @@
-var mnemonic = "they margin muffin refuse false elegant decline among nerve kid morning proof";
+var mnemonic = "desk fan lens wave worth fiction news act broccoli involve critic swallow";

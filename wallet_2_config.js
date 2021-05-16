@@ -1,1 +1,1 @@
-var mnemonic = "cry festival borrow case void rifle suit put garage resist improve salmon";
+var mnemonic = "fog jazz enroll wedding recycle slight aunt hold uncle circle carbon stock";

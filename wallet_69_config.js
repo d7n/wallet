@@ -1,1 +1,1 @@
-var mnemonic = "come aim prison oven ripple clay scorpion cigar drum capable faith vibrant";
+var mnemonic = "jump buddy angle wasp detail horse mistake refuse adjust repair connect network";

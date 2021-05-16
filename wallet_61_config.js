@@ -1,1 +1,1 @@
-var mnemonic = "above enrich poverty crane angle adjust gym awkward proud front multiply path";
+var mnemonic = "symbol inquiry deposit ready replace sentence useless horn install airport rebel hand";

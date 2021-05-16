@@ -1,1 +1,1 @@
-var mnemonic = "twin already text horror word parade scan aisle glove drum emerge call";
+var mnemonic = "question actor similar render wear abandon taste body remove canal begin what";
