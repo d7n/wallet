@@ -1,1 +1,1 @@
-var mnemonic = "daughter earth fee average require forest oak marble author fog engage theme";
+var mnemonic = "process little horn bracket mandate cover another skull smart combine ski six";

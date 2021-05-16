@@ -1,1 +1,1 @@
-var mnemonic = "fence vital essence art cherry dance best nominee ring point hat lonely";
+var mnemonic = "dad morning shove page flock document flash blame divorce nice example alcohol";

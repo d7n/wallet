@@ -1,1 +1,1 @@
-var mnemonic = "burst shoe fury finish mystery way under anchor raccoon credit breeze abandon";
+var mnemonic = "daring market blame better stumble skill device thunder trick turtle patient nominee";

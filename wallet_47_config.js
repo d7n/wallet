@@ -1,1 +1,1 @@
-var mnemonic = "cloud address project barrel erupt since crystal move uphold material glory choose";
+var mnemonic = "viable icon little grass alcohol magnet shallow style pass upon pulse friend";

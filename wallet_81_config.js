@@ -1,1 +1,1 @@
-var mnemonic = "public vast spray idle gesture tilt camp hip actor tomorrow exist someone";
+var mnemonic = "opinion middle above duty govern ketchup ghost omit join alarm lake cactus";

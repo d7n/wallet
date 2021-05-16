@@ -1,1 +1,1 @@
-var mnemonic = "tooth business else mean jacket seven six prize undo minimum ten melody";
+var mnemonic = "dog sweet bid crumble immense slim color bind roof rubber mind balance";

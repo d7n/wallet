@@ -1,1 +1,1 @@
-var mnemonic = "credit popular ball dress any champion real submit enroll neutral brush cross";
+var mnemonic = "scissors lawn furnace obvious brother bone laugh excuse miracle chicken such owner";

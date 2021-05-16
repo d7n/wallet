@@ -1,1 +1,1 @@
-var mnemonic = "coil toe fragile rhythm odor mystery run piece casino unique group toddler";
+var mnemonic = "ask explain hedgehog scorpion famous true emotion spell aerobic method scissors rebel";

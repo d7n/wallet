@@ -1,1 +1,1 @@
-var mnemonic = "ranch resist insect duck eagle boring frown addict girl material sell pet";
+var mnemonic = "warrior creek trial tuition high donor trophy issue arena delay excuse hat";

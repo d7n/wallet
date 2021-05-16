@@ -1,1 +1,1 @@
-var mnemonic = "thumb cement plunge trade brisk side vessel abandon calm again duck learn";
+var mnemonic = "mind tiny own fossil usual pave kick pony melody employ once cousin";

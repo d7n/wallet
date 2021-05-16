@@ -1,1 +1,1 @@
-var mnemonic = "range okay eye chair brain clutch athlete bacon mesh online spray velvet";
+var mnemonic = "mountain egg bounce accuse better knee group police fitness pattern hundred obtain";

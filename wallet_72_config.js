@@ -1,1 +1,1 @@
-var mnemonic = "furnace kidney sphere eye donkey rely peanut bubble bomb trouble night manage";
+var mnemonic = "nut slight order also sponsor omit energy twin intact soap notable exotic";

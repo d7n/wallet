@@ -1,1 +1,1 @@
-var mnemonic = "defy country deliver there velvet doctor true foot mix uncle update foster";
+var mnemonic = "umbrella journey target fork soda upgrade bulk mixed sail nothing hawk badge";

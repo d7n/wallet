@@ -1,1 +1,1 @@
-var mnemonic = "uncover public expire pool finish bid opera demise spy town grape tuition";
+var mnemonic = "hair sauce garlic acid apple shallow another enact novel oxygen miracle helmet";

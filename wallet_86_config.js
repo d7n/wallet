@@ -1,1 +1,1 @@
-var mnemonic = "custom romance hand father annual below olympic demise man debate shrug bonus";
+var mnemonic = "relief dream dignity world helmet hill barely weather warfare clip rain owner";

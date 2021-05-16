@@ -1,1 +1,1 @@
-var mnemonic = "coach visa twelve glance fuel tower bamboo pig throw glue year emotion";
+var mnemonic = "curtain slide quality thank actor service few brave oak bid spider prison";

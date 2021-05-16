@@ -1,1 +1,1 @@
-var mnemonic = "casino session seven month exotic earth admit cannon disorder coffee false deer";
+var mnemonic = "find actual forget few fatal february sorry music inmate size matter sense";

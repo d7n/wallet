@@ -1,1 +1,1 @@
-var mnemonic = "liar six local sentence assume warrior collect renew clog tattoo undo found";
+var mnemonic = "pitch mountain chimney nut become frozen slab trumpet worry guess abandon village";

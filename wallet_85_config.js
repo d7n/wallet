@@ -1,1 +1,1 @@
-var mnemonic = "frost slim grass canyon spray apology raw glance mobile awesome present extra";
+var mnemonic = "wide economy bunker copy more alley tumble bracket voice camp clock piece";

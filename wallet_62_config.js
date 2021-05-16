@@ -1,1 +1,1 @@
-var mnemonic = "arch filter arrow reject drama hen food crush vital capable good become";
+var mnemonic = "spoil mammal height style pull brisk problem magic wasp chair security dismiss";

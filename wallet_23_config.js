@@ -1,1 +1,1 @@
-var mnemonic = "warm engage trophy thank double chronic fashion cargo cause dune leisure unknown";
+var mnemonic = "idle enrich fog athlete december spawn breeze ceiling describe pet toast candy";

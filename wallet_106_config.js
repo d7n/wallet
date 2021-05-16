@@ -1,1 +1,1 @@
-var mnemonic = "kiwi write airport patch tiny off favorite subject enough zoo flavor wing";
+var mnemonic = "lunar trap shadow auto master link family ladder camera emerge palm smart";

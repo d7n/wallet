@@ -1,1 +1,1 @@
-var mnemonic = "festival toy work harvest calm frozen dismiss one marriage off eyebrow business";
+var mnemonic = "imitate budget tunnel jealous kind west blind snow eager essence media tail";

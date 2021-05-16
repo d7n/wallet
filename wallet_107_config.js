@@ -1,1 +1,1 @@
-var mnemonic = "proof subway beauty lumber evidence antenna moon turtle suffer double vault course";
+var mnemonic = "elephant ceiling program like next black peasant milk lens symptom clock awkward";

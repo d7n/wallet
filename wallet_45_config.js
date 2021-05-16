@@ -1,1 +1,1 @@
-var mnemonic = "mix scout diesel dove beef daughter wife unfold pencil sand bind way";
+var mnemonic = "lend champion embrace castle guitar patient oblige avoid pear tenant secret end";

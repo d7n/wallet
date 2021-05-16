@@ -1,1 +1,1 @@
-var mnemonic = "because creek recycle push ripple equal private mobile episode excite sauce mom";
+var mnemonic = "divorce shallow body cruise power unknown myth ribbon enter dose husband valid";

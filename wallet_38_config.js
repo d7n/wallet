@@ -1,1 +1,1 @@
-var mnemonic = "close update matrix quit produce notable pond solid swift girl ability south";
+var mnemonic = "reflect toilet horse draw swap gym jelly unable gift strategy supreme connect";

@@ -1,1 +1,1 @@
-var mnemonic = "absent neck erosion song beauty top yellow brass clean tag empower question";
+var mnemonic = "goddess faith series twelve boy lyrics decide wheat else sorry route airport";

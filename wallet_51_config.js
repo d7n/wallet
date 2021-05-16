@@ -1,1 +1,1 @@
-var mnemonic = "second wrestle cargo key remain sketch model suit disease custom resource idle";
+var mnemonic = "slab capital fold leaf pond afraid mom web tortoise firm barrel practice";

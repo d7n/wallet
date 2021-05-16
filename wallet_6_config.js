@@ -1,1 +1,1 @@
-var mnemonic = "legend talk sword night horse use afraid wolf update helmet task cat";
+var mnemonic = "decorate swim question dismiss addict patrol scorpion giraffe caution frozen warrior issue";

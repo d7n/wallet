@@ -1,1 +1,1 @@
-var mnemonic = "spirit head girl industry goddess agent inflict price pet attack tumble spread";
+var mnemonic = "evidence gorilla action rigid cloth cotton mail choice tail depth uncle crime";

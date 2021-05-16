@@ -1,1 +1,1 @@
-var mnemonic = "force cause viable powder chapter bright salon whisper barrel powder kit inmate";
+var mnemonic = "top kitten copy affair twice brave avoid month detail grief pulp country";

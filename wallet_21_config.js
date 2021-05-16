@@ -1,1 +1,1 @@
-var mnemonic = "december anxiety lizard minimum traffic maze chase story aware chalk vintage warfare";
+var mnemonic = "genius rich cabbage badge useful exercise melody resemble either sense surround endorse";

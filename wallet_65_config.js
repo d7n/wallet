@@ -1,1 +1,1 @@
-var mnemonic = "arctic reform simple arrow dawn brisk elegant wheat sentence pride wife neither";
+var mnemonic = "average equip result tube album salmon pave bone toddler brief exhaust trim";

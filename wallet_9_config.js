@@ -1,1 +1,1 @@
-var mnemonic = "target fortune chalk flavor cube wash affair rail mimic remove armed loan";
+var mnemonic = "crunch trophy blossom spray eagle label gun smart submit defense salad web";

@@ -1,1 +1,1 @@
-var mnemonic = "solar food merry prefer become bench foil slam vicious peanut bind talent";
+var mnemonic = "cross side field orbit message burst accuse rule unusual sphere turn hold";

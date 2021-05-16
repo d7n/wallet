@@ -1,1 +1,1 @@
-var mnemonic = "face broccoli firm regret cinnamon hockey engage aerobic clog lottery title burden";
+var mnemonic = "proof impose walk leopard lecture shoulder busy lawsuit episode crowd hold inflict";

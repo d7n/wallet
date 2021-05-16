@@ -1,1 +1,1 @@
-var mnemonic = "luxury about body puzzle term awake target east rent tag spend wave";
+var mnemonic = "kick escape find crunch van frozen only clean amateur bulk supply nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "random mad winter concert drop method sausage float afraid soldier tape pupil";
+var mnemonic = "jeans bomb member cargo increase vanish perfect boy magic offer bone pupil";

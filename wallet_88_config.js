@@ -1,1 +1,1 @@
-var mnemonic = "trade text boss desk clutch mother apple where damp oven supreme alien";
+var mnemonic = "tree soccer twelve rubber bless assume auto dutch section cart dry kidney";

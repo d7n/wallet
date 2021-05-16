@@ -1,1 +1,1 @@
-var mnemonic = "sort aunt blade exact above write public century card clever balance craft";
+var mnemonic = "budget lava mirror genius dawn private glide garlic lecture cradle hour derive";

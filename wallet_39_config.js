@@ -1,1 +1,1 @@
-var mnemonic = "pink settle page mystery alarm glide lizard scare much fox lawn first";
+var mnemonic = "minute loyal chaos fee belt ranch estate luxury blanket loud merit pole";

@@ -1,1 +1,1 @@
-var mnemonic = "valve evolve segment reform empty safe slide siege someone just public near";
+var mnemonic = "argue victory jacket panel father grant any fragile road clutch best copper";

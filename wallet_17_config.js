@@ -1,1 +1,1 @@
-var mnemonic = "orient balance business table mango bicycle embrace invite goat copper mom bid";
+var mnemonic = "ignore topple increase panda tunnel palace unfair obey unaware flame narrow nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "solve uncover offer awful door desert ask still real analyst trigger lemon";
+var mnemonic = "wisdom middle snap excess insane affair nothing blind energy zebra garlic sing";

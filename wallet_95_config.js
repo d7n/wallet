@@ -1,1 +1,1 @@
-var mnemonic = "erode room abstract monkey remind update lend dynamic garment stamp exchange arctic";
+var mnemonic = "vacant useful result chicken liar blanket snap scale report life hire analyst";

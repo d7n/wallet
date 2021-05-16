@@ -1,1 +1,1 @@
-var mnemonic = "soda goat vanish fluid inquiry virus upset virtual amateur gloom palm this";
+var mnemonic = "laugh nut scare pipe addict caution suggest insane behind settle turtle student";

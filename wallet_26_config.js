@@ -1,1 +1,1 @@
-var mnemonic = "medal curve jacket infant pride solid diagram lady supply obtain number fine";
+var mnemonic = "record shift mobile east riot start much trick tail garment ghost faculty";

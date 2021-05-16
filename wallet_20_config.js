@@ -1,1 +1,1 @@
-var mnemonic = "leader tide bachelor idle between design seven blossom liar eager rookie post";
+var mnemonic = "sting become half echo cheap faith eager rural away spin absurd credit";

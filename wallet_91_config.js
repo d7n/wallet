@@ -1,1 +1,1 @@
-var mnemonic = "frame demand urge woman trumpet diamond industry resemble theory vital lesson urban";
+var mnemonic = "grit addict tide hello rabbit confirm curve orchard virus lemon gossip matrix";

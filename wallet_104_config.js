@@ -1,1 +1,1 @@
-var mnemonic = "ski skin public puppy carry soldier scheme smile feature thunder sphere artefact";
+var mnemonic = "ball consider shock arctic display buffalo carbon struggle party pole whale square";

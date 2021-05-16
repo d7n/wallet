@@ -1,1 +1,1 @@
-var mnemonic = "chaos welcome fruit diesel mercy recycle movie omit code pig hawk egg";
+var mnemonic = "disagree hire coin actual acid cannon tiny affair drum social orchard crazy";

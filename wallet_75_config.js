@@ -1,1 +1,1 @@
-var mnemonic = "weasel thrive power guard ozone dumb other raise twenty can faint alien";
+var mnemonic = "camp oblige shrimp awkward country decrease wrist any spot choice lawn wool";

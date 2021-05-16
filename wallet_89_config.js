@@ -1,1 +1,1 @@
-var mnemonic = "canal grab glove pool output clarify illness render fantasy funny slab inflict";
+var mnemonic = "trash card trap version shed crawl hold able prize feed simple web";

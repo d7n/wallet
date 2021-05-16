@@ -1,1 +1,1 @@
-var mnemonic = "silver rather sword cave poet sustain aspect unit cost impact much end";
+var mnemonic = "flavor enemy payment kick enroll exclude kind liar leopard bone fatigue scene";

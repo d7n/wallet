@@ -1,1 +1,1 @@
-var mnemonic = "eager judge say earn venue force soft churn refuse riot thrive weekend";
+var mnemonic = "enhance pole field coach script law strike warm ignore toy oxygen flip";

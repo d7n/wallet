@@ -1,1 +1,1 @@
-var mnemonic = "habit call cup term six elevator code claim kick donkey place afford";
+var mnemonic = "amount body cluster cargo pride liberty globe legal organ forum squeeze message";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy legend minimum push little text tree hip robust nut rice vibrant";
+var mnemonic = "skin hurry net sense rotate retire vote skill trade wrestle sting bomb";

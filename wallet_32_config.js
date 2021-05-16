@@ -1,1 +1,1 @@
-var mnemonic = "join job appear piece rookie where soldier neutral rhythm private jar today";
+var mnemonic = "come ill spell year conduct lounge owner blouse grape scan simple syrup";

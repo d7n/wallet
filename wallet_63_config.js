@@ -1,1 +1,1 @@
-var mnemonic = "parade hard setup tree solid crater skin kangaroo shaft glance harbor daughter";
+var mnemonic = "vast citizen kit travel place casual cry chaos goose east code habit";

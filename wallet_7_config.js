@@ -1,1 +1,1 @@
-var mnemonic = "salmon promote harbor sun twenty grab garbage ostrich document output someone cancel";
+var mnemonic = "prefer fee script observe work color stumble imitate wood satisfy cat trial";

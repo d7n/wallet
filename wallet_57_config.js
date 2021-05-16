@@ -1,1 +1,1 @@
-var mnemonic = "regret twenty typical prepare below hurt often mammal excite summer protect puzzle";
+var mnemonic = "coyote exercise title wall item tip olive tone jewel vicious swim note";

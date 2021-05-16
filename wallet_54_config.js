@@ -1,1 +1,1 @@
-var mnemonic = "corn raven spike what mango leg rough robot love unveil guard frown";
+var mnemonic = "helmet airport woman elevator hurdle victory issue face fiber cotton turtle punch";

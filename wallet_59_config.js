@@ -1,1 +1,1 @@
-var mnemonic = "portion arena innocent possible witness law traffic island frozen volume faculty exit";
+var mnemonic = "devote camp hidden famous hair web destroy view acoustic harvest cost visit";

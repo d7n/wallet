@@ -1,1 +1,1 @@
-var mnemonic = "boat wink tank hen fortune legal ozone liquid obvious census domain brass";
+var mnemonic = "wealth load leopard hair ahead garden involve field erode behind wisdom trip";

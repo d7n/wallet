@@ -1,1 +1,1 @@
-var mnemonic = "balcony jelly witness behind jelly jazz stomach already author return category pretty";
+var mnemonic = "shrimp wedding moment electric great often stick word cliff slide paper cry";

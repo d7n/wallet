@@ -1,1 +1,1 @@
-var mnemonic = "cactus potato spin monkey antenna daring home devote during mountain snow aerobic";
+var mnemonic = "found trophy solid cry memory depend example climb rifle medal repeat broken";

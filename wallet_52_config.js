@@ -1,1 +1,1 @@
-var mnemonic = "pen chuckle example couch head flee escape execute armed tower assist breeze";
+var mnemonic = "always between clay tumble energy yard tell income admit able dial mutual";

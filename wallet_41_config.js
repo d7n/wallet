@@ -1,1 +1,1 @@
-var mnemonic = "flat affair hip such enhance state blind proof sail photo pepper under";
+var mnemonic = "deer meat lawsuit mention comic street fruit enemy weasel leopard trim doll";

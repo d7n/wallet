@@ -1,1 +1,1 @@
-var mnemonic = "situate oyster prefer deal core bitter few ugly cherry off report claim";
+var mnemonic = "code secret script okay swear citizen elbow issue ticket over keep public";

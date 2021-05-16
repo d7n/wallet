@@ -1,1 +1,1 @@
-var mnemonic = "miracle expose chair flush milk wild car soap bag adjust betray crucial";
+var mnemonic = "doll erupt shove distance toward subject pottery source faint kind cactus jewel";

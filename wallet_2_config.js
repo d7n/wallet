@@ -1,1 +1,1 @@
-var mnemonic = "bulk promote sheriff enhance tent wire idle misery pitch pioneer museum father";
+var mnemonic = "phrase labor suggest pulp usual wisdom gallery flat panda edge recall picture";

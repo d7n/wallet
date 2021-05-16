@@ -1,1 +1,1 @@
-var mnemonic = "ghost coyote post judge foil exact moon olympic noodle super spike keen";
+var mnemonic = "west sight observe enforce hotel easily cream author bar try length stool";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie captain race lend huge gauge copper turkey night advance provide lake";
+var mnemonic = "high siege medal put ceiling orange life security disease box victory image";

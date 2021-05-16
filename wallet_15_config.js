@@ -1,1 +1,1 @@
-var mnemonic = "radar virus trumpet canyon urge chunk obtain treat churn wheat nation reward";
+var mnemonic = "proof cannon mercy upper grocery vital enter pumpkin shop lemon cram fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "grass mountain foam trumpet ready deliver void stuff scare bid curious joke";
+var mnemonic = "squirrel lunch almost token shrug enable achieve silly siege brown token curious";

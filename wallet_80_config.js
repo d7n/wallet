@@ -1,1 +1,1 @@
-var mnemonic = "tribe road turtle fold apple library marble peasant series world able penalty";
+var mnemonic = "fragile proud metal neutral produce ensure cotton egg alcohol gate ordinary initial";

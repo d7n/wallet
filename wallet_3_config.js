@@ -1,1 +1,1 @@
-var mnemonic = "panic stage acid job virus liberty fiber disorder trouble october then team";
+var mnemonic = "couch maid horror acoustic ice antenna sell sorry jump miracle filter fault";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum purity immune oyster elevator fetch visa ostrich grid logic trophy raise";
+var mnemonic = "essence rally electric panel slush shoulder either hybrid street spider outer rural";

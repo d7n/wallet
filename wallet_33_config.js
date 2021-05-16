@@ -1,1 +1,1 @@
-var mnemonic = "door ripple dirt bracket very blood stereo attitude business print addict cross";
+var mnemonic = "motion can ignore praise oppose trigger stand fashion script burden lamp umbrella";

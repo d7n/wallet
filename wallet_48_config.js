@@ -1,1 +1,1 @@
-var mnemonic = "vocal produce local float keep inch napkin absent snack debate alert company";
+var mnemonic = "mean course travel kidney sea human almost claw acoustic hood help chaos";

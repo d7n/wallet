@@ -1,1 +1,1 @@
-var mnemonic = "mountain winter mosquito distance draft sock deny possible hobby cook canyon fiction";
+var mnemonic = "jealous orient doll front expect until question web liquid fiscal girl novel";

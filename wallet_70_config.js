@@ -1,1 +1,1 @@
-var mnemonic = "have arena learn tenant honey fog angry bright office alley window amused";
+var mnemonic = "pretty soda you battle calm limb tortoise knee disease ocean person memory";

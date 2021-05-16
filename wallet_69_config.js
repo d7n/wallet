@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pull enforce fiction blouse decade predict mother that seat sustain panic";
+var mnemonic = "runway dolphin corn change eager cable stamp border agree dove twist control";

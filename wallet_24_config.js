@@ -1,1 +1,1 @@
-var mnemonic = "change stomach jazz urban high dash flat expect disagree twice stay kiwi";
+var mnemonic = "chuckle young trouble solid ready praise air bench random turkey stove mechanic";

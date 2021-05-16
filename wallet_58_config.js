@@ -1,1 +1,1 @@
-var mnemonic = "critic pyramid there step gorilla illegal deputy cancel lawsuit saddle bubble wall";
+var mnemonic = "cram nerve drum begin satisfy wrestle minute milk dish purse cactus mass";

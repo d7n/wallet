@@ -1,1 +1,1 @@
-var mnemonic = "ozone actress brave better devote custom food bar foster copper reflect catalog";
+var mnemonic = "antique shove harvest bacon crisp brother muscle lemon news cactus blind drama";

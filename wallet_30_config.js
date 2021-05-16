@@ -1,1 +1,1 @@
-var mnemonic = "crouch cake peace divert rule cotton theme flash height cricket zero member";
+var mnemonic = "angry tongue palm jewel mail globe magnet ridge dawn claw palace mango";

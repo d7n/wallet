@@ -1,1 +1,1 @@
-var mnemonic = "tribe dilemma wife fuel embrace visual picture decorate agent love thing siren";
+var mnemonic = "jelly foil iron frozen assist twelve cricket sight twenty blanket glance maid";

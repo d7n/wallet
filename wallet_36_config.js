@@ -1,1 +1,1 @@
-var mnemonic = "industry torch wall sea rebel goat bright genuine gadget coyote brick where";
+var mnemonic = "sample dentist march chase essence humble key hungry stage kind hover fire";

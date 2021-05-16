@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon kite enact naive discover fitness another credit engage used liberty patch";
+var mnemonic = "skin swallow angry accuse mixed flee siege shove pony salt swim they";

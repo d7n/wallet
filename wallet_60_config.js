@@ -1,1 +1,1 @@
-var mnemonic = "business position scout scare finish elite soon target permit later fruit tongue";
+var mnemonic = "home spirit stadium hazard indoor oxygen bracket cook push huge subject cycle";

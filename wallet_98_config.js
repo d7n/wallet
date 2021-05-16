@@ -1,1 +1,1 @@
-var mnemonic = "since flash law turkey obtain various frequent body flat wink effort warfare";
+var mnemonic = "name divert finger degree together potato winner cliff coin practice life cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "control label attract legal provide sunny trap course property exhibit duty pitch";
+var mnemonic = "tuna school maze popular canoe torch dose soup caution label again health";

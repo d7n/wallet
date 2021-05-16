@@ -1,1 +1,1 @@
-var mnemonic = "village tonight toilet wire ice dinosaur candy pair rough maple grit slice";
+var mnemonic = "noise reveal medal loud barely amateur scout receive lawn tell donate smoke";
