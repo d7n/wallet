@@ -1,1 +1,1 @@
-var mnemonic = "destroy only select gap label drop loan dolphin eyebrow actor alarm vapor";
+var mnemonic = "renew own plunge design like hedgehog unknown nice work fluid lawn language";

@@ -1,1 +1,1 @@
-var mnemonic = "burger kiwi that reunion age number draw sunny crowd august output stove";
+var mnemonic = "sheriff coyote oppose ketchup purpose duck nerve sight absurd lobster love aim";

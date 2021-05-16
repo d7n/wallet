@@ -1,1 +1,1 @@
-var mnemonic = "render cable bonus seminar cute gold leave scene night cage volcano shrug";
+var mnemonic = "display season yard infant town final vessel trip benefit broken window yard";

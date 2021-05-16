@@ -1,1 +1,1 @@
-var mnemonic = "combine cheese swear quarter dawn margin boring congress harvest wealth danger olive";
+var mnemonic = "envelope there possible system position oil liquid inhale alert odor gas empty";

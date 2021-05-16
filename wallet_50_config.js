@@ -1,1 +1,1 @@
-var mnemonic = "hobby pen defy episode excite future brick dance educate figure arrive drastic";
+var mnemonic = "dish assume chair system source scale pause reform sausage enlist poet book";

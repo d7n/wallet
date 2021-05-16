@@ -1,1 +1,1 @@
-var mnemonic = "require drastic ordinary style artist erosion exile exclude service digital cup crumble";
+var mnemonic = "amazing split proud world member settle uphold keen example exercise polar peasant";

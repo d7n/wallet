@@ -1,1 +1,1 @@
-var mnemonic = "regret decline depend trend elevator loud town favorite rack swear juice gun";
+var mnemonic = "clerk glue welcome ocean ready hole across vacuum visa sibling tooth moon";

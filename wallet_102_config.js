@@ -1,1 +1,1 @@
-var mnemonic = "spider butter aspect you stone scrap grab nose arrive meat salad icon";
+var mnemonic = "march moment swarm rally ozone mountain snake melody lonely print violin symbol";

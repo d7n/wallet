@@ -1,1 +1,1 @@
-var mnemonic = "usage toilet rigid rail aerobic security such nest twin clarify firm misery";
+var mnemonic = "resource setup flee assume easy royal diary food minute young fantasy left";

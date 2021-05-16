@@ -1,1 +1,1 @@
-var mnemonic = "film cave motion diary pattern palm legend more real rice couple arrest";
+var mnemonic = "whisper matrix mammal clump mesh win mixture album honey rib mass captain";

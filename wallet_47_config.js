@@ -1,1 +1,1 @@
-var mnemonic = "air economy key spoil pact split scatter report payment coach depth rally";
+var mnemonic = "taste humble patch coach lawsuit develop theory train wine elephant mix opera";

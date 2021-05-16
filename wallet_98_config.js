@@ -1,1 +1,1 @@
-var mnemonic = "speed impulse bullet run shove maximum cheese super clip farm swamp kiwi";
+var mnemonic = "turn sunset kitchen brother movie scorpion size august glory elevator fatal tenant";

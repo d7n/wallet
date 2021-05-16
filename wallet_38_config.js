@@ -1,1 +1,1 @@
-var mnemonic = "never boost rebuild debate sleep illness naive spy thumb upset sail process";
+var mnemonic = "seminar kitten erode advance reward rich wear guitar car february occur convince";

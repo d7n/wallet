@@ -1,1 +1,1 @@
-var mnemonic = "siege tail peace tennis wild walk loyal great nose middle magic swamp";
+var mnemonic = "switch cause fiber stereo crystal bless parent carry aware brave island paddle";

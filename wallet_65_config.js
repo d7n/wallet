@@ -1,1 +1,1 @@
-var mnemonic = "company unveil matrix athlete unfair wine wonder enter easy vocal rely silent";
+var mnemonic = "yard boring tenant educate adjust agent shadow decide wreck choose twenty entry";

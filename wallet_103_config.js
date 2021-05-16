@@ -1,1 +1,1 @@
-var mnemonic = "hammer valley addict mom glass trade isolate insane profit inform swing seat";
+var mnemonic = "live hover gas pioneer kit thought attack gun steel scrub radio begin";

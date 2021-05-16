@@ -1,1 +1,1 @@
-var mnemonic = "gospel burden hub library delay visa sword sight peasant first oak canal";
+var mnemonic = "illness suffer damp squeeze object april point major beef agree hole knock";

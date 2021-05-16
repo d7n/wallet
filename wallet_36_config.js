@@ -1,1 +1,1 @@
-var mnemonic = "permit above hat slow uniform surge twenty extra section guess unhappy best";
+var mnemonic = "harsh buzz sphere deputy because fame cargo promote syrup crazy uphold lab";

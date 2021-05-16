@@ -1,1 +1,1 @@
-var mnemonic = "worry limb sun yellow skirt term cost knock sweet width detail wisdom";
+var mnemonic = "unhappy cry frown one carry laundry trust fame energy rug volume warfare";

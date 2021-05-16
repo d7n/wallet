@@ -1,1 +1,1 @@
-var mnemonic = "three image survey faculty alone daring unlock silver slogan canvas usage crisp";
+var mnemonic = "addict valley beyond true bike ten patch slender stable daring mixed into";

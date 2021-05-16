@@ -1,1 +1,1 @@
-var mnemonic = "proud capable wheat burst patient client timber harbor phrase order vague permit";
+var mnemonic = "rocket muscle warfare stumble sadness lake adult another banner citizen common repeat";

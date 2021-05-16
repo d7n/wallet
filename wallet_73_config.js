@@ -1,1 +1,1 @@
-var mnemonic = "high know jungle machine left glow drink motor say police need mercy";
+var mnemonic = "slush van air blue congress kitchen lobster thank inspire dance jealous hotel";

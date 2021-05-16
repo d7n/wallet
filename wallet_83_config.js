@@ -1,1 +1,1 @@
-var mnemonic = "faculty box famous connect duty film group invite gain toy eager cotton";
+var mnemonic = "govern milk ridge text ritual situate miss jazz suggest bracket bone swift";

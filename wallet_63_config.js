@@ -1,1 +1,1 @@
-var mnemonic = "unlock sign weird steak gym foot unhappy obey endorse panther toy drill";
+var mnemonic = "emerge car write fix october evoke property column health volume depart develop";

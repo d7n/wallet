@@ -1,1 +1,1 @@
-var mnemonic = "pigeon plate cream pen east pyramid adult search razor style swing hammer";
+var mnemonic = "equal example pair tomato glimpse fatigue shell refuse cotton boost congress guard";

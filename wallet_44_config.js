@@ -1,1 +1,1 @@
-var mnemonic = "theme actor soul dutch witness grace squeeze skin need exotic under web";
+var mnemonic = "sweet warm rubber can blue boost rare famous mammal extend inherit news";

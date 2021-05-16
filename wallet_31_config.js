@@ -1,1 +1,1 @@
-var mnemonic = "rose benefit exotic woman depth smile useful area twenty frequent sport copy";
+var mnemonic = "cave trap profit language shed coil tackle duty machine web inspire arrive";

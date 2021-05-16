@@ -1,1 +1,1 @@
-var mnemonic = "coil beyond sure divide minimum faith provide decrease height artist fox danger";
+var mnemonic = "wage stable obey announce canoe olive mystery raccoon ill share science ride";

@@ -1,1 +1,1 @@
-var mnemonic = "renew celery muffin mask wheat hidden oak collect blast narrow goose casual";
+var mnemonic = "consider laundry broken fit defy cycle caution copy spice horse problem spend";

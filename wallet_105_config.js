@@ -1,1 +1,1 @@
-var mnemonic = "dirt neutral bridge rent regular inflict acid debris cross know ancient atom";
+var mnemonic = "slender join absorb moon volcano viable crash sort damp box woman company";

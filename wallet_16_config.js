@@ -1,1 +1,1 @@
-var mnemonic = "later across front cost anxiety artwork pledge subject action vessel chunk cement";
+var mnemonic = "tackle common woman please source imitate price universe vehicle render truck hand";

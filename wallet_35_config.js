@@ -1,1 +1,1 @@
-var mnemonic = "escape under toe material gown sunny basket antenna magic thing fever balance";
+var mnemonic = "grape lemon good surprise knife shadow ethics strong insane zone apology track";

@@ -1,1 +1,1 @@
-var mnemonic = "tone convince asthma token aim infant fiscal rapid wash cargo supreme critic";
+var mnemonic = "spirit thought solid coffee task receive bread panic swim leisure soon reunion";

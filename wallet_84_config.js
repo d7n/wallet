@@ -1,1 +1,1 @@
-var mnemonic = "gloom same release defy foam area autumn hobby twice fossil enhance lottery";
+var mnemonic = "tail maid media screen fury learn rude frown improve brave target parrot";

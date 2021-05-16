@@ -1,1 +1,1 @@
-var mnemonic = "party wrong ivory play joy dose subject neutral cherry soup census basket";
+var mnemonic = "awesome shaft fetch verify ethics accuse option gospel enjoy once wash lobster";

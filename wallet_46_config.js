@@ -1,1 +1,1 @@
-var mnemonic = "minimum arrest above steel again cave picnic stable sport loan depend joy";
+var mnemonic = "arrange tent paper sail grab rocket point unusual polar fuel retire lounge";

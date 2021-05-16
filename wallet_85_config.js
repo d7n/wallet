@@ -1,1 +1,1 @@
-var mnemonic = "ability rapid mirror cost drum floor bottom shed noise impact own crime";
+var mnemonic = "shoulder melody unique pony funny robust follow invest attitude choice come traffic";

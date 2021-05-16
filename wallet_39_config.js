@@ -1,1 +1,1 @@
-var mnemonic = "knife into spoil episode mom laundry design absorb retire achieve glove attitude";
+var mnemonic = "robust fiction blanket sport arrange error bicycle unit reject bleak desert fat";

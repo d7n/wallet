@@ -1,1 +1,1 @@
-var mnemonic = "suspect neglect manual upgrade rebel garage harsh apology two gospel price episode";
+var mnemonic = "apology zebra earn miracle struggle vintage letter wonder yellow breeze tourist play";

@@ -1,1 +1,1 @@
-var mnemonic = "sight loan lounge six fatigue dolphin elite fence result key crew open";
+var mnemonic = "neck unveil design gossip fresh hurry street biology farm horror club fossil";

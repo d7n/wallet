@@ -1,1 +1,1 @@
-var mnemonic = "broom boss hundred chalk venue agent review hazard favorite camp very sport";
+var mnemonic = "silver alcohol gesture subject century sand spot crawl project now miss carry";

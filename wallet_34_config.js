@@ -1,1 +1,1 @@
-var mnemonic = "lion sister pattern club topic song rule panther upset recall cupboard hole";
+var mnemonic = "forward because demand walnut found area split mistake visit style sustain middle";

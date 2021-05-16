@@ -1,1 +1,1 @@
-var mnemonic = "flavor demand wash surround turkey century woman gesture avoid live plug list";
+var mnemonic = "grass safe grow dream later anxiety display child hole document boss boss";

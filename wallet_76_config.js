@@ -1,1 +1,1 @@
-var mnemonic = "mosquito relief rookie gesture syrup either brisk payment rug excess mandate picture";
+var mnemonic = "soldier later lottery fork velvet fabric time then brass olive cash require";

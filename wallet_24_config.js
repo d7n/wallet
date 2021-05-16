@@ -1,1 +1,1 @@
-var mnemonic = "short hundred call toe forum circle above raw leisure broccoli neutral diagram";
+var mnemonic = "strike knife uphold tonight during orbit sick black table fat vote purpose";

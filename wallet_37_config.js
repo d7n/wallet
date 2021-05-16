@@ -1,1 +1,1 @@
-var mnemonic = "misery top vote produce because symbol very punch indoor income burger upon";
+var mnemonic = "kit slogan detail tell issue caught female menu parrot fiction beef antenna";

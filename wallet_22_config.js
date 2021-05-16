@@ -1,1 +1,1 @@
-var mnemonic = "business cross gravity rare liar evolve bomb cigar will weather sweet neck";
+var mnemonic = "behind jacket story crime eye route path festival oil seed curtain menu";

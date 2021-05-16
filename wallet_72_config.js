@@ -1,1 +1,1 @@
-var mnemonic = "man modify bunker menu ginger student silly capable lawsuit crack uphold wolf";
+var mnemonic = "replace similar mind desk decade ordinary marriage crunch motion entry lock always";

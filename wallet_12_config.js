@@ -1,1 +1,1 @@
-var mnemonic = "wave notice promote true subject bonus effort swim purchase armed attract salmon";
+var mnemonic = "label jelly street surround garlic lamp time panic field deputy battle cry";

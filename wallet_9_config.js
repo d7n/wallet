@@ -1,1 +1,1 @@
-var mnemonic = "cupboard quarter achieve faculty erase wish hint rather negative tumble tuna shiver";
+var mnemonic = "tissue display dutch eye goat digital leader beauty margin fragile army title";

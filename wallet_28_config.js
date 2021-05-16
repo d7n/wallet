@@ -1,1 +1,1 @@
-var mnemonic = "wool window upon slender before satoshi grain shield raise ribbon good slow";
+var mnemonic = "dwarf theory forward fine lake title pear bargain drink useful manual exist";

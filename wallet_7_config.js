@@ -1,1 +1,1 @@
-var mnemonic = "cake among congress syrup language ginger mushroom fix index rent forward wisdom";
+var mnemonic = "timber worth donor jelly fatal private tide strong pact box pride spatial";

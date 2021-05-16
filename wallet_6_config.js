@@ -1,1 +1,1 @@
-var mnemonic = "cotton caught fever gate miracle warrior match dress parrot palm panda harsh";
+var mnemonic = "suspect item major shallow nurse regular ship visa joke slam fossil attend";

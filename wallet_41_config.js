@@ -1,1 +1,1 @@
-var mnemonic = "equip enroll copy someone another glad oven soda furnace average senior nerve";
+var mnemonic = "honey leisure also salon skirt bomb brown noble abandon harsh recycle any";

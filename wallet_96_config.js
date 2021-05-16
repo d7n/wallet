@@ -1,1 +1,1 @@
-var mnemonic = "panic damage inflict onion pulp merge ice flower vivid brand woman future";
+var mnemonic = "leader reduce sock skin cabbage pig stuff tenant sheriff diesel glory soccer";

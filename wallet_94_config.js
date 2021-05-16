@@ -1,1 +1,1 @@
-var mnemonic = "document hood gather push velvet virtual mixture powder eight father pill oval";
+var mnemonic = "ginger economy tail fetch fold nominee grunt sting speed club change genius";

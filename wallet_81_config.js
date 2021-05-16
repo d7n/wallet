@@ -1,1 +1,1 @@
-var mnemonic = "cabin device summer reason salute chunk perfect shaft talent use dance virus";
+var mnemonic = "punch remember future engine amount nature whip maximum morning ivory civil dawn";

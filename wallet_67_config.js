@@ -1,1 +1,1 @@
-var mnemonic = "keen level depth impact virtual around cloud page general design album tumble";
+var mnemonic = "chat inform pave slide cook depart mechanic help obtain vessel middle old";

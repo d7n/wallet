@@ -1,1 +1,1 @@
-var mnemonic = "orphan leader refuse talent cross help plate cup street group fortune crazy";
+var mnemonic = "catalog bundle float tray pave dismiss theory vast topic gallery provide chair";

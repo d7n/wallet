@@ -1,1 +1,1 @@
-var mnemonic = "essence wonder task ketchup plug frequent fly seed cup guide satoshi tuition";
+var mnemonic = "sense text shaft exercise tail fence rack assist method dune excuse length";

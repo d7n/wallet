@@ -1,1 +1,1 @@
-var mnemonic = "vendor bachelor final keep endless vacant faint cactus sail gather rifle alcohol";
+var mnemonic = "scrap eagle shoe paddle any van hundred neglect move famous bike rubber";

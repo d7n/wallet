@@ -1,1 +1,1 @@
-var mnemonic = "genuine tragic oak cannon describe warfare multiply machine resource layer number company";
+var mnemonic = "reject vessel forget connect wheel invite flight bracket this record cradle pledge";

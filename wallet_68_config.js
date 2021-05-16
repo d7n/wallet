@@ -1,1 +1,1 @@
-var mnemonic = "armed mimic copper rely snack lend banana try resist blast afraid hero";
+var mnemonic = "style broom leave empty fox kiss elder assault aim educate whale you";

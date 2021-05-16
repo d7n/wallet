@@ -1,1 +1,1 @@
-var mnemonic = "office net happy supreme about return when salt find defy blur dance";
+var mnemonic = "sunny bridge coyote wise ask place pelican defense frown asset flat glance";

@@ -1,1 +1,1 @@
-var mnemonic = "motion grape muscle cool try fly cage alert fade crisp tone today";
+var mnemonic = "inquiry client found envelope cushion invest belt apple elder crane soldier husband";

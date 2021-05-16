@@ -1,1 +1,1 @@
-var mnemonic = "sleep onion laugh pen clog option vehicle live false music float episode";
+var mnemonic = "galaxy maximum spot harvest federal crater banner minimum divide analyst ecology distance";

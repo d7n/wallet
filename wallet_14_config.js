@@ -1,1 +1,1 @@
-var mnemonic = "radio attitude spike sight spike current inner ring load pledge jungle oyster";
+var mnemonic = "pudding door grow gain canvas knee pilot solid reduce silk unknown perfect";

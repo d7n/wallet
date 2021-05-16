@@ -1,1 +1,1 @@
-var mnemonic = "source ignore zebra hollow real boy world faith voice orient panther symbol";
+var mnemonic = "beyond egg misery anger dirt arrive deny position walk win define photo";

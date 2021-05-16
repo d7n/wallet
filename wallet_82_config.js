@@ -1,1 +1,1 @@
-var mnemonic = "hold enhance world august swap engine visit tired hungry guitar degree dad";
+var mnemonic = "rack topple napkin inflict fly crunch title juice panic teach young strategy";

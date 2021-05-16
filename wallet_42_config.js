@@ -1,1 +1,1 @@
-var mnemonic = "copy easy verb action valley fatal truly fan aim pattern chaos elder";
+var mnemonic = "bicycle east aspect tool tired already basket inquiry crash flower choice pond";

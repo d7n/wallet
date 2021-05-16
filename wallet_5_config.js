@@ -1,1 +1,1 @@
-var mnemonic = "idea rare adjust rich method dentist awkward great biology barely original oven";
+var mnemonic = "session frozen vehicle garage mistake economy truth wrist ridge cheese wish mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "pill wire tone security salad lava shrug slam soon family sing merge";
+var mnemonic = "venture better hundred fatigue very cupboard adjust flock fence fat danger trick";

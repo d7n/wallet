@@ -1,1 +1,1 @@
-var mnemonic = "mention turtle fortune kick ticket medal foster prefer chalk tag sketch float";
+var mnemonic = "chimney fame ladder put adult gold convince give erosion toy unveil purchase";

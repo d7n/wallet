@@ -1,1 +1,1 @@
-var mnemonic = "you primary sort leopard neutral ten trial desert cash usual dismiss acoustic";
+var mnemonic = "impact reason tonight cloth advance blame offer eternal royal wreck siren ginger";

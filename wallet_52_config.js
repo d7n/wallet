@@ -1,1 +1,1 @@
-var mnemonic = "coral pistol execute refuse sword hat venture when ice example common various";
+var mnemonic = "sure behind soccer obvious cricket fit render express color sword tortoise once";

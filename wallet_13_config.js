@@ -1,1 +1,1 @@
-var mnemonic = "hold sense tone small basket music bar accident frost turkey narrow remain";
+var mnemonic = "law control swing jealous cabbage argue split panel alpha pet liquid sound";

@@ -1,1 +1,1 @@
-var mnemonic = "summer canyon renew hero fork lecture ritual purpose coach near talk round";
+var mnemonic = "grocery foot friend rival canvas quiz narrow shop develop meat sting random";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward glare build option tree collect orchard seven absent position matrix glow";
+var mnemonic = "lamp pause goose river ski purchase make weapon random palm area razor";

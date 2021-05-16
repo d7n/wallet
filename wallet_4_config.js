@@ -1,1 +1,1 @@
-var mnemonic = "senior parade clarify device noodle lend tomorrow dog foil sail demise ancient";
+var mnemonic = "artefact firm kite drill sugar circle grit special brown name artwork speak";

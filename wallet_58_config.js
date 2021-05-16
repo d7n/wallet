@@ -1,1 +1,1 @@
-var mnemonic = "menu olive lottery allow verb recipe print congress grass horror welcome burden";
+var mnemonic = "enemy exact series token essay mixed praise target human humble cousin orphan";

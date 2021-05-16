@@ -1,1 +1,1 @@
-var mnemonic = "coast marriage door jar opera uncle viable boss business glare upgrade banner";
+var mnemonic = "early doll hockey business salon chaos increase purchase drive mansion decline despair";

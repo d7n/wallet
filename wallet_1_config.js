@@ -1,1 +1,1 @@
-var mnemonic = "much toss extend oak awake fresh runway eyebrow spawn stumble harbor trouble";
+var mnemonic = "clog ticket taste prison endorse laugh surface merge garbage indoor pudding sleep";

@@ -1,1 +1,1 @@
-var mnemonic = "tip alter uncover furnace love prize early time space check gentle fiscal";
+var mnemonic = "trash athlete run quote shiver walk dutch census whale unveil chair private";

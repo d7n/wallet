@@ -1,1 +1,1 @@
-var mnemonic = "fee wool erupt green eight business rapid muffin spike ranch odor oblige";
+var mnemonic = "stairs sheriff system essence off pilot network science twelve mouse nasty olympic";
