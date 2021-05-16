@@ -1,1 +1,1 @@
-var mnemonic = "rather aim aerobic expire skin cherry achieve brush model rural lyrics nation";
+var mnemonic = "cloud develop valve robust hundred region river leaf sponsor primary pride punch";

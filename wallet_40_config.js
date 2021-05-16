@@ -1,1 +1,1 @@
-var mnemonic = "hat kind bean bachelor off tortoise popular rail march renew plastic wrestle";
+var mnemonic = "idea any eternal track august tragic skate borrow settle entire elephant post";

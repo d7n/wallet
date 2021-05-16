@@ -1,1 +1,1 @@
-var mnemonic = "consider laundry broken fit defy cycle caution copy spice horse problem spend";
+var mnemonic = "pig color glance size wish saddle pyramid virtual wave this hurt purse";

@@ -1,1 +1,1 @@
-var mnemonic = "strike knife uphold tonight during orbit sick black table fat vote purpose";
+var mnemonic = "blossom afraid hip bless lava kingdom orient claw husband seat peanut situate";

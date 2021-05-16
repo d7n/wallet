@@ -1,1 +1,1 @@
-var mnemonic = "behind jacket story crime eye route path festival oil seed curtain menu";
+var mnemonic = "exact trade host kiss baby reduce pelican retire clock tuna coil seminar";

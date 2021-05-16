@@ -1,1 +1,1 @@
-var mnemonic = "until olive abuse match judge outside grief shock fault animal lawn sun";
+var mnemonic = "dose remind debris party express nut intact result lunar essence warrior mind";

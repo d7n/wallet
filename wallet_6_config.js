@@ -1,1 +1,1 @@
-var mnemonic = "suspect item major shallow nurse regular ship visa joke slam fossil attend";
+var mnemonic = "cruise panther syrup skate kiwi butter depth punch divide brisk rate mimic";

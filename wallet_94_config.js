@@ -1,1 +1,1 @@
-var mnemonic = "ginger economy tail fetch fold nominee grunt sting speed club change genius";
+var mnemonic = "add minute muscle flee taste crack laugh weapon drum ten dog artefact";

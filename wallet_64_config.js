@@ -1,1 +1,1 @@
-var mnemonic = "chimney fame ladder put adult gold convince give erosion toy unveil purchase";
+var mnemonic = "timber manual sight oppose narrow margin cricket rocket switch leopard tag imitate";

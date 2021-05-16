@@ -1,1 +1,1 @@
-var mnemonic = "turn sunset kitchen brother movie scorpion size august glory elevator fatal tenant";
+var mnemonic = "glow cram improve lumber lyrics kitten garage erosion harvest black rude army";

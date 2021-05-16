@@ -1,1 +1,1 @@
-var mnemonic = "soldier later lottery fork velvet fabric time then brass olive cash require";
+var mnemonic = "olympic force color crop salon eyebrow citizen jump asset peanut uncle magnet";

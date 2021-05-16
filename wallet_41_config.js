@@ -1,1 +1,1 @@
-var mnemonic = "honey leisure also salon skirt bomb brown noble abandon harsh recycle any";
+var mnemonic = "repeat parade occur raise anxiety print hunt visit skin human stem physical";

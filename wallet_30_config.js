@@ -1,1 +1,1 @@
-var mnemonic = "nothing canyon rapid error husband destroy author grab choose stumble army category";
+var mnemonic = "love victory worth exile nasty result act actress unfold jewel limit faint";

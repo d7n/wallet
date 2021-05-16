@@ -1,1 +1,1 @@
-var mnemonic = "style broom leave empty fox kiss elder assault aim educate whale you";
+var mnemonic = "rebuild spatial soldier hood woman square buddy strategy give idea human swap";

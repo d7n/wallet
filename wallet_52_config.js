@@ -1,1 +1,1 @@
-var mnemonic = "sure behind soccer obvious cricket fit render express color sword tortoise once";
+var mnemonic = "tell cotton afraid faith pigeon shadow topic flat hope cluster agent vessel";

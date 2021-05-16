@@ -1,1 +1,1 @@
-var mnemonic = "barely fiction genre sorry circle history fortune rocket visa milk knock brain";
+var mnemonic = "educate confirm barrel brush coconut canoe brown street faculty language day tube";

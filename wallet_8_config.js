@@ -1,1 +1,1 @@
-var mnemonic = "early doll hockey business salon chaos increase purchase drive mansion decline despair";
+var mnemonic = "accuse empty syrup wonder surge onion issue deny mind skill planet trouble";

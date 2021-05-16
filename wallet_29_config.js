@@ -1,1 +1,1 @@
-var mnemonic = "right keep ball grass smile thing expand hybrid stand race august crazy";
+var mnemonic = "swear blue tower sing leader traffic traffic fruit asthma sport trash benefit";

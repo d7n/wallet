@@ -1,1 +1,1 @@
-var mnemonic = "law control swing jealous cabbage argue split panel alpha pet liquid sound";
+var mnemonic = "pattern bamboo parent tackle unhappy radar cabin good dismiss alpha husband fluid";

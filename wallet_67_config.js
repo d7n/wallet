@@ -1,1 +1,1 @@
-var mnemonic = "chat inform pave slide cook depart mechanic help obtain vessel middle old";
+var mnemonic = "female guess borrow any thrive swamp insane amazing shadow script notice piece";

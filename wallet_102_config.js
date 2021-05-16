@@ -1,1 +1,1 @@
-var mnemonic = "march moment swarm rally ozone mountain snake melody lonely print violin symbol";
+var mnemonic = "quarter evolve obscure velvet just unable obtain wing shove clever brush salute";

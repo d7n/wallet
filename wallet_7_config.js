@@ -1,1 +1,1 @@
-var mnemonic = "timber worth donor jelly fatal private tide strong pact box pride spatial";
+var mnemonic = "mutual episode issue trim goose obscure immense help rebel chef outdoor goose";

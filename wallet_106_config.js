@@ -1,1 +1,1 @@
-var mnemonic = "scrap eagle shoe paddle any van hundred neglect move famous bike rubber";
+var mnemonic = "artefact heavy dad pilot soup paper choose govern sudden whisper amazing doll";

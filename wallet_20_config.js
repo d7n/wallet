@@ -1,1 +1,1 @@
-var mnemonic = "grass safe grow dream later anxiety display child hole document boss boss";
+var mnemonic = "possible switch mansion shop turn similar result board enlist shop dentist follow";

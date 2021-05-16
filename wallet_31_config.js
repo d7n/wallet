@@ -1,1 +1,1 @@
-var mnemonic = "cave trap profit language shed coil tackle duty machine web inspire arrive";
+var mnemonic = "witness video monkey indicate then half forest twist aunt guess include multiply";

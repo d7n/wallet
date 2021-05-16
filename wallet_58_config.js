@@ -1,1 +1,1 @@
-var mnemonic = "enemy exact series token essay mixed praise target human humble cousin orphan";
+var mnemonic = "whip hobby happy salt board relief phrase artwork wash toy language comic";

@@ -1,1 +1,1 @@
-var mnemonic = "display season yard infant town final vessel trip benefit broken window yard";
+var mnemonic = "pet route response scale seed middle crater economy fiction process ability bench";

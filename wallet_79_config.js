@@ -1,1 +1,1 @@
-var mnemonic = "beyond egg misery anger dirt arrive deny position walk win define photo";
+var mnemonic = "net river income water photo book love better deposit grape turkey patrol";

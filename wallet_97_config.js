@@ -1,1 +1,1 @@
-var mnemonic = "grocery foot friend rival canvas quiz narrow shop develop meat sting random";
+var mnemonic = "apart chef slender purse camera disorder describe rookie glue ahead rule play";

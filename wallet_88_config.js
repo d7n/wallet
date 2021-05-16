@@ -1,1 +1,1 @@
-var mnemonic = "fall enact inquiry usual monitor imitate wrong party dice heart welcome mixed";
+var mnemonic = "before real flavor uphold clock keep valve defy power mass miss viable";

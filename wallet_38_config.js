@@ -1,1 +1,1 @@
-var mnemonic = "seminar kitten erode advance reward rich wear guitar car february occur convince";
+var mnemonic = "want document nest drastic donkey thought dog buffalo okay chest style mansion";

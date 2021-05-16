@@ -1,1 +1,1 @@
-var mnemonic = "stuff defy fiber tomato below feed comic alien copy behave awful prefer";
+var mnemonic = "sell glove still glory limit park deputy tide upper lion foil coyote";

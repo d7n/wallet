@@ -1,1 +1,1 @@
-var mnemonic = "arrange tent paper sail grab rocket point unusual polar fuel retire lounge";
+var mnemonic = "gain steak harsh sock first guess gold dizzy mean basic evoke frequent";

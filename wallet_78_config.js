@@ -1,1 +1,1 @@
-var mnemonic = "illness suffer damp squeeze object april point major beef agree hole knock";
+var mnemonic = "future such orchard future nurse female practice sad clown easily can enough";

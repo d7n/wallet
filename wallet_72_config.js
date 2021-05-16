@@ -1,1 +1,1 @@
-var mnemonic = "replace similar mind desk decade ordinary marriage crunch motion entry lock always";
+var mnemonic = "dirt palace furnace gentle enlist boost super unable member conduct path acid";

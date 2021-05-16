@@ -1,1 +1,1 @@
-var mnemonic = "whisper matrix mammal clump mesh win mixture album honey rib mass captain";
+var mnemonic = "mad topic reopen tilt settle prosper female quarter half differ umbrella observe";

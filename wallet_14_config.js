@@ -1,1 +1,1 @@
-var mnemonic = "pudding door grow gain canvas knee pilot solid reduce silk unknown perfect";
+var mnemonic = "strong mind broccoli search turn vendor route next there home valley cycle";

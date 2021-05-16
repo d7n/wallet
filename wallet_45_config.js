@@ -1,1 +1,1 @@
-var mnemonic = "apology zebra earn miracle struggle vintage letter wonder yellow breeze tourist play";
+var mnemonic = "jazz divide topic bullet venture artwork improve insect loan argue behind result";

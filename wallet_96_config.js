@@ -1,1 +1,1 @@
-var mnemonic = "leader reduce sock skin cabbage pig stuff tenant sheriff diesel glory soccer";
+var mnemonic = "innocent aspect refuse letter forget inner ski wisdom move zebra silly width";

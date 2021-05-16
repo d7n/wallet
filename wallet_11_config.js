@@ -1,1 +1,1 @@
-var mnemonic = "disease render mutual sibling chimney mask craft ignore order resist woman cover";
+var mnemonic = "deputy frame aunt sibling napkin velvet argue acid pipe picture twice carry";

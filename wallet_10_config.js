@@ -1,1 +1,1 @@
-var mnemonic = "find clip frame raven observe injury shoulder mind piano order fall discover";
+var mnemonic = "drop artwork eternal lemon bubble bitter drop middle blind shadow balcony pizza";

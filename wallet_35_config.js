@@ -1,1 +1,1 @@
-var mnemonic = "grape lemon good surprise knife shadow ethics strong insane zone apology track";
+var mnemonic = "glance message report verb super mind search shy law next obvious half";

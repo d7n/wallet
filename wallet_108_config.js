@@ -1,1 +1,1 @@
-var mnemonic = "neutral praise add brisk frog journey public point split excuse front glove";
+var mnemonic = "sick bar evoke sheriff alpha oblige narrow tired aware wealth current corn";

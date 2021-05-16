@@ -1,1 +1,1 @@
-var mnemonic = "envelope there possible system position oil liquid inhale alert odor gas empty";
+var mnemonic = "nice traffic expose expose service garbage chase ordinary misery sheriff gather rhythm";

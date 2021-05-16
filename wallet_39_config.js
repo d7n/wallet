@@ -1,1 +1,1 @@
-var mnemonic = "robust fiction blanket sport arrange error bicycle unit reject bleak desert fat";
+var mnemonic = "govern myth over tooth behave exchange lunar lecture gospel order width helmet";

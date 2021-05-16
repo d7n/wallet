@@ -1,1 +1,1 @@
-var mnemonic = "slender join absorb moon volcano viable crash sort damp box woman company";
+var mnemonic = "abandon segment novel hurdle blade cloth cradle alley then gravity health sing";

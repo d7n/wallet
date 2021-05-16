@@ -1,1 +1,1 @@
-var mnemonic = "sense text shaft exercise tail fence rack assist method dune excuse length";
+var mnemonic = "nominee wrap shock leaf they dilemma nation cable input finger remain actress";

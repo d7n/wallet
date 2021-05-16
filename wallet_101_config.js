@@ -1,1 +1,1 @@
-var mnemonic = "major trap black pull shine express zone output breeze echo eight broken";
+var mnemonic = "piano island broom harbor option force success mean grow control illegal problem";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle east aspect tool tired already basket inquiry crash flower choice pond";
+var mnemonic = "bone giraffe have animal unusual capital inhale pulse outside great tree dry";

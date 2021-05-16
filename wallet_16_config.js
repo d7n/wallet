@@ -1,1 +1,1 @@
-var mnemonic = "tackle common woman please source imitate price universe vehicle render truck hand";
+var mnemonic = "car amount shoulder sadness thunder learn best case raw own air squirrel";

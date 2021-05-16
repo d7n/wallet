@@ -1,1 +1,1 @@
-var mnemonic = "region august grunt close grab garden cement broken wood potato gun toss";
+var mnemonic = "source indoor stock ten immune blame despair thought behave prefer invite divide";

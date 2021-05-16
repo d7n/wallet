@@ -1,1 +1,1 @@
-var mnemonic = "switch cause fiber stereo crystal bless parent carry aware brave island paddle";
+var mnemonic = "deal garden snack host actor unfair buddy modify dress tenant much sweet";

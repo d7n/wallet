@@ -1,1 +1,1 @@
-var mnemonic = "raccoon vote aspect love female frog gasp wonder satoshi multiply antique eagle";
+var mnemonic = "fossil seek clump hurry grocery service rifle panic host raven glory make";

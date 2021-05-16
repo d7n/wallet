@@ -1,1 +1,1 @@
-var mnemonic = "silver alcohol gesture subject century sand spot crawl project now miss carry";
+var mnemonic = "easily reform quality correct blade onion claw clog solve tell liquid fatigue";

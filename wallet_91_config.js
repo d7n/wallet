@@ -1,1 +1,1 @@
-var mnemonic = "neck unveil design gossip fresh hurry street biology farm horror club fossil";
+var mnemonic = "casual march lend wolf antique adult apple outdoor subway rebuild pipe expose";

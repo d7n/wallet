@@ -1,1 +1,1 @@
-var mnemonic = "catalog bundle float tray pave dismiss theory vast topic gallery provide chair";
+var mnemonic = "hockey neck umbrella drum pizza now picnic fall prosper remain helmet lecture";

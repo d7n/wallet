@@ -1,1 +1,1 @@
-var mnemonic = "crouch want owner indoor ostrich crunch power aspect tired satoshi analyst strike";
+var mnemonic = "float alien clinic pride salt notable seed dignity kitchen civil defense very";

@@ -1,1 +1,1 @@
-var mnemonic = "forward because demand walnut found area split mistake visit style sustain middle";
+var mnemonic = "unlock flee genuine defy aunt hat museum naive advice post someone pair";

@@ -1,1 +1,1 @@
-var mnemonic = "kit slogan detail tell issue caught female menu parrot fiction beef antenna";
+var mnemonic = "habit search sell symbol dragon noise quit save include night action pottery";

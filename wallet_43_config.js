@@ -1,1 +1,1 @@
-var mnemonic = "sunny bridge coyote wise ask place pelican defense frown asset flat glance";
+var mnemonic = "choice tip tragic rotate paper couch lion near differ caution there brave";

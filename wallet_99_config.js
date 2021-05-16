@@ -1,1 +1,1 @@
-var mnemonic = "rocket muscle warfare stumble sadness lake adult another banner citizen common repeat";
+var mnemonic = "garbage maze typical boil seven manual solve popular burden gravity deal neutral";

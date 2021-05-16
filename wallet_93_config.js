@@ -1,1 +1,1 @@
-var mnemonic = "renew own plunge design like hedgehog unknown nice work fluid lawn language";
+var mnemonic = "scissors zone athlete entire kick job expect slogan airport escape end club";

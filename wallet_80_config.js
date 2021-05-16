@@ -1,1 +1,1 @@
-var mnemonic = "wage stable obey announce canoe olive mystery raccoon ill share science ride";
+var mnemonic = "deposit waste distance spend tape celery limb sell inner tackle primary move";

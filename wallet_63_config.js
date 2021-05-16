@@ -1,1 +1,1 @@
-var mnemonic = "emerge car write fix october evoke property column health volume depart develop";
+var mnemonic = "problem shiver sword pumpkin dynamic spy loyal virus dwarf vague orbit engine";

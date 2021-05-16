@@ -1,1 +1,1 @@
-var mnemonic = "trash athlete run quote shiver walk dutch census whale unveil chair private";
+var mnemonic = "reward jacket mushroom pattern purse chief quick basic rescue claim candy boat";

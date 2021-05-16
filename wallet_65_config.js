@@ -1,1 +1,1 @@
-var mnemonic = "yard boring tenant educate adjust agent shadow decide wreck choose twenty entry";
+var mnemonic = "mention wheel infant half patrol sheriff diet choice that hover slow funny";

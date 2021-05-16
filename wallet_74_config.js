@@ -1,1 +1,1 @@
-var mnemonic = "amazing split proud world member settle uphold keen example exercise polar peasant";
+var mnemonic = "sugar cruise hungry depth stick cool fee between remove olive layer hold";

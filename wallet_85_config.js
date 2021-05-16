@@ -1,1 +1,1 @@
-var mnemonic = "shoulder melody unique pony funny robust follow invest attitude choice come traffic";
+var mnemonic = "system first job husband rival reflect update lobster play insane brown work";

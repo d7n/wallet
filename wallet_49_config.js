@@ -1,1 +1,1 @@
-var mnemonic = "blush helmet flight album soldier boss genre ribbon work obey rail endorse";
+var mnemonic = "canal raven cable circle agent cement over smooth bronze travel ginger able";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry client found envelope cushion invest belt apple elder crane soldier husband";
+var mnemonic = "crack camp dinner crime episode spend protect tenant strike split pattern cotton";

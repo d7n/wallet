@@ -1,1 +1,1 @@
-var mnemonic = "punch remember future engine amount nature whip maximum morning ivory civil dawn";
+var mnemonic = "media grunt update vibrant sponsor close before sport verify eyebrow primary ripple";

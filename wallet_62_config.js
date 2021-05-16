@@ -1,1 +1,1 @@
-var mnemonic = "reject vessel forget connect wheel invite flight bracket this record cradle pledge";
+var mnemonic = "truck urban session rebel give march any false sauce level sick amateur";

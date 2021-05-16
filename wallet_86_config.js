@@ -1,1 +1,1 @@
-var mnemonic = "spirit thought solid coffee task receive bread panic swim leisure soon reunion";
+var mnemonic = "wish drum cram cherry window alpha nephew measure wedding judge coach govern";

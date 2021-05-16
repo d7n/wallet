@@ -1,1 +1,1 @@
-var mnemonic = "bring float panel skin float autumn tape giraffe stable forget eternal pigeon";
+var mnemonic = "rhythm leader fly hub what slide ancient call dance mule because estate";

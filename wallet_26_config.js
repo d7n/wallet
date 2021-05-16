@@ -1,1 +1,1 @@
-var mnemonic = "venture better hundred fatigue very cupboard adjust flock fence fat danger trick";
+var mnemonic = "garden before promote since later scale body warrior spread view hungry sugar";

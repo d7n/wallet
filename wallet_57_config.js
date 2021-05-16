@@ -1,1 +1,1 @@
-var mnemonic = "sheriff coyote oppose ketchup purpose duck nerve sight absurd lobster love aim";
+var mnemonic = "build crawl kitten green adjust mutual purpose meat host price say oxygen";

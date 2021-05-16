@@ -1,1 +1,1 @@
-var mnemonic = "unhappy cry frown one carry laundry trust fame energy rug volume warfare";
+var mnemonic = "athlete length toast spike lock spirit return immune utility fit subway input";

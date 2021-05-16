@@ -1,1 +1,1 @@
-var mnemonic = "patch toast crack cram relief relax cigar fragile twenty huge squirrel share";
+var mnemonic = "kick left mesh hawk repeat olympic rail possible gloom ensure rhythm right";

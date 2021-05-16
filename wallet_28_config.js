@@ -1,1 +1,1 @@
-var mnemonic = "dwarf theory forward fine lake title pear bargain drink useful manual exist";
+var mnemonic = "half hundred host zero syrup silent library mesh mystery melody subway illegal";

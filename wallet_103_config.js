@@ -1,1 +1,1 @@
-var mnemonic = "live hover gas pioneer kit thought attack gun steel scrub radio begin";
+var mnemonic = "feed member require ability drill collect uncle analyst flavor galaxy escape balcony";

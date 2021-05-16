@@ -1,1 +1,1 @@
-var mnemonic = "card language man sunny purity ranch sample erupt true loop pact hospital";
+var mnemonic = "angle real phone turn blade very bundle place today goat ring cook";

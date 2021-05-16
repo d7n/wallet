@@ -1,1 +1,1 @@
-var mnemonic = "dish assume chair system source scale pause reform sausage enlist poet book";
+var mnemonic = "advice erase tuna salon mandate manual doctor palm title shoe cat census";

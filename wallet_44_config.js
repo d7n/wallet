@@ -1,1 +1,1 @@
-var mnemonic = "sweet warm rubber can blue boost rare famous mammal extend inherit news";
+var mnemonic = "photo cry point outdoor knock tortoise peace obey erode hybrid imitate march";

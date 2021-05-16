@@ -1,1 +1,1 @@
-var mnemonic = "stairs sheriff system essence off pilot network science twelve mouse nasty olympic";
+var mnemonic = "transfer view laptop nut firm sick shiver paper behind issue shoot exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp pause goose river ski purchase make weapon random palm area razor";
+var mnemonic = "glide source gauge receive garage yellow doctor glory blush math congress entire";

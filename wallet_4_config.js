@@ -1,1 +1,1 @@
-var mnemonic = "artefact firm kite drill sugar circle grit special brown name artwork speak";
+var mnemonic = "diet grit piano consider entire submit river sense audit artwork become oyster";

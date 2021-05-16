@@ -1,1 +1,1 @@
-var mnemonic = "galaxy decrease profit pull raven reveal spatial drop library critic toss control";
+var mnemonic = "rural pencil stable main grow stamp flag language recipe example resemble sun";

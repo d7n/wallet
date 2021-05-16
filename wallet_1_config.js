@@ -1,1 +1,1 @@
-var mnemonic = "clog ticket taste prison endorse laugh surface merge garbage indoor pudding sleep";
+var mnemonic = "unveil april rude ketchup file seminar card trade machine remember glow yard";

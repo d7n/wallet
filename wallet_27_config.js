@@ -1,1 +1,1 @@
-var mnemonic = "comic drum abuse digital excite crater wagon weapon hotel possible position cross";
+var mnemonic = "various move again option symbol shift asthma scissors finger wheat solve whip";

@@ -1,1 +1,1 @@
-var mnemonic = "label jelly street surround garlic lamp time panic field deputy battle cry";
+var mnemonic = "thought chicken pumpkin toddler people aisle pitch build truth quality ordinary sight";

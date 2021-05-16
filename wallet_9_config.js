@@ -1,1 +1,1 @@
-var mnemonic = "tissue display dutch eye goat digital leader beauty margin fragile army title";
+var mnemonic = "pencil during crumble recipe clip book eager praise vessel arch donate input";

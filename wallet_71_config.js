@@ -1,1 +1,1 @@
-var mnemonic = "clerk glue welcome ocean ready hole across vacuum visa sibling tooth moon";
+var mnemonic = "prepare access wage must glove industry junior parent pony trip wrestle mouse";

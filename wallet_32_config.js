@@ -1,1 +1,1 @@
-var mnemonic = "equal example pair tomato glimpse fatigue shell refuse cotton boost congress guard";
+var mnemonic = "tube disorder lens this leg social record stove sting weekend domain similar";

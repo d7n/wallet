@@ -1,1 +1,1 @@
-var mnemonic = "photo oblige venue gesture model hire twist float hawk song debate chief";
+var mnemonic = "include ring silver wide harsh thing this crisp over tell solve feature";

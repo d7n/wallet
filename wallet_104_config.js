@@ -1,1 +1,1 @@
-var mnemonic = "impact reason tonight cloth advance blame offer eternal royal wreck siren ginger";
+var mnemonic = "suffer clump oppose shiver student attract pig prosper possible merit wheel degree";

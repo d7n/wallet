@@ -1,1 +1,1 @@
-var mnemonic = "galaxy maximum spot harvest federal crater banner minimum divide analyst ecology distance";
+var mnemonic = "survey quality dial add flee oven denial problem identify october doctor find";
