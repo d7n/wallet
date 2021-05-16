@@ -1,1 +1,1 @@
-var mnemonic = "custom comfort slab shaft prosper clutch powder evidence expose road chunk gallery";
+var mnemonic = "rug damage scene saddle dignity spend oblige shoot eyebrow obey series mechanic";

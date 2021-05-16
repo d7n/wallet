@@ -1,1 +1,1 @@
-var mnemonic = "now purse morning need series tip verb silly emerge choose resist connect";
+var mnemonic = "secret liar sorry paddle gift cup provide during modify direct truth jelly";

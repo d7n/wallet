@@ -1,1 +1,1 @@
-var mnemonic = "flight secret goose super amused slush misery absorb donor puzzle favorite priority";
+var mnemonic = "mistake impulse flame seminar crisp spawn inform ski actress wet horse side";

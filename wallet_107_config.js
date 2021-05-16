@@ -1,1 +1,1 @@
-var mnemonic = "quick atom frozen rose certain latin high uncover knock rhythm arena chair";
+var mnemonic = "gaze hair wage symptom grow siege gravity season hole force enact joke";

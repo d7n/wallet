@@ -1,1 +1,1 @@
-var mnemonic = "drill veteran dove meat laptop oyster lesson chef open dress onion since";
+var mnemonic = "bronze ball change happy light common kidney swap figure wool waste used";

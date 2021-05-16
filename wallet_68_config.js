@@ -1,1 +1,1 @@
-var mnemonic = "quick path divide become reason butter mixed point march chunk slam powder";
+var mnemonic = "boy way garage slow broccoli merit adapt denial acid dog obvious flash";

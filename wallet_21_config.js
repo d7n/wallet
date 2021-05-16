@@ -1,1 +1,1 @@
-var mnemonic = "select almost outdoor angry frequent slush address excite already unusual winter clinic";
+var mnemonic = "eye stomach record bamboo dry burger humor situate differ keep festival season";

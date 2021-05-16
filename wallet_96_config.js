@@ -1,1 +1,1 @@
-var mnemonic = "defense garment carpet warfare since gasp forum crawl render climb volcano someone";
+var mnemonic = "face keep true note cube lucky keen vast undo office genius rigid";

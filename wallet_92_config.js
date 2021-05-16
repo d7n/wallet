@@ -1,1 +1,1 @@
-var mnemonic = "fetch valid only mom desk cheese sad river dutch case shadow awful";
+var mnemonic = "cable earth priority zebra tuition barely tiger student crystal gym rapid viable";

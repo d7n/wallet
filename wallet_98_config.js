@@ -1,1 +1,1 @@
-var mnemonic = "sentence fury almost faculty chair heart mosquito warrior grocery case fee decade";
+var mnemonic = "balcony innocent seat soft level current bar struggle someone aunt affair ball";

@@ -1,1 +1,1 @@
-var mnemonic = "simple benefit front ridge flush border blade ensure horn pet very harbor";
+var mnemonic = "soda dust report grit arrive gloom ghost remind human chef quit private";

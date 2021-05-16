@@ -1,1 +1,1 @@
-var mnemonic = "input crush swap harbor clinic garlic faith swarm helmet spawn crush myself";
+var mnemonic = "cradle setup arrive polar motion vintage guard tower blanket party small session";

@@ -1,1 +1,1 @@
-var mnemonic = "hat outer virus guilt example area seed obtain gravity please state own";
+var mnemonic = "picnic process oval chat goose impose poverty cute provide quarter draft weekend";

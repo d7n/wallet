@@ -1,1 +1,1 @@
-var mnemonic = "organ skate paddle satisfy flag harsh daughter first occur sleep daring assist";
+var mnemonic = "grid wide blouse imitate vapor emotion slush want awkward fossil humble swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic kitchen motion lady cousin suffer vast arm consider rich excess hobby";
+var mnemonic = "mansion expect merry trend kite vacuum ecology lawn december pig radar cycle";

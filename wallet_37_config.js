@@ -1,1 +1,1 @@
-var mnemonic = "problem any clarify ankle plunge situate lonely country remember noise penalty rib";
+var mnemonic = "orange sad number assault police pond message surge then witness creek ocean";

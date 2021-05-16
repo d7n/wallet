@@ -1,1 +1,1 @@
-var mnemonic = "latin gown blush speed crime sign act ski version remain candy simple";
+var mnemonic = "robust town screen hedgehog easy exchange ancient install judge medal fragile topic";

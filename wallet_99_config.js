@@ -1,1 +1,1 @@
-var mnemonic = "agree leader praise guilt remain cousin monitor fury long way erosion design";
+var mnemonic = "frame reflect screen chimney priority general multiply vessel urban practice smile team";

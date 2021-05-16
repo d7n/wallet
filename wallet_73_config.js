@@ -1,1 +1,1 @@
-var mnemonic = "bleak leg gate volume scrap whisper globe dial lawn original since indoor";
+var mnemonic = "witness category whale whisper cover grief used city pluck solution disorder quick";

@@ -1,1 +1,1 @@
-var mnemonic = "awful proof weekend fish sponsor satoshi sort desert diamond blade multiply curious";
+var mnemonic = "forum horn clown spell east exclude this palace file cotton advance crucial";

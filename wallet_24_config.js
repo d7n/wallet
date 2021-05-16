@@ -1,1 +1,1 @@
-var mnemonic = "magnet correct exact hybrid fever garden kite attack first runway spell cycle";
+var mnemonic = "lumber twist such behave occur upon news portion worth post satisfy lecture";

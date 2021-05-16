@@ -1,1 +1,1 @@
-var mnemonic = "float equal luxury scan cabin spin install priority build roof buyer sting";
+var mnemonic = "false nut fault gallery pulse phrase love seven rural settle wall exit";

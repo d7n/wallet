@@ -1,1 +1,1 @@
-var mnemonic = "busy employ they loud paddle blast earth ridge harsh tunnel topple cheese";
+var mnemonic = "indoor quarter sheriff chief equip liar want attend cover harvest forest wing";

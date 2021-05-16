@@ -1,1 +1,1 @@
-var mnemonic = "coral income direct very peanut board advance across asthma dignity furnace turtle";
+var mnemonic = "wait town remain capital response couch find repeat faculty fat merry swamp";

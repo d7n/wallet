@@ -1,1 +1,1 @@
-var mnemonic = "swamp response shy nurse ride school near quick charge canvas step island";
+var mnemonic = "gravity core wear jealous nature bamboo cash primary total buffalo carpet beach";

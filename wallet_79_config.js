@@ -1,1 +1,1 @@
-var mnemonic = "economy range clean soon nominee pool alarm clarify first gate unit patient";
+var mnemonic = "slogan gap train element loyal final series use large fatal report when";

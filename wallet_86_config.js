@@ -1,1 +1,1 @@
-var mnemonic = "tiny unlock ketchup hub dirt typical clarify body slab sea leave canvas";
+var mnemonic = "clump setup drip treat game assault peanut toy sound dose draw choose";

@@ -1,1 +1,1 @@
-var mnemonic = "inside acquire piece image web used comic tornado give can inquiry debate";
+var mnemonic = "slush slab feature melt citizen zebra essence destroy vapor voice demise shuffle";

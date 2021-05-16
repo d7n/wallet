@@ -1,1 +1,1 @@
-var mnemonic = "fiscal style dune library cart awkward fall creek illness gadget fan hair";
+var mnemonic = "manage shift hint frame hover word ask bachelor father false develop rifle";

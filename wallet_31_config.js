@@ -1,1 +1,1 @@
-var mnemonic = "tone coast fat start vibrant cart extra stage empower luggage bubble sort";
+var mnemonic = "entire salon maze gap sudden review pear tree embody during become list";

@@ -1,1 +1,1 @@
-var mnemonic = "reward trend steel mask effort omit work planet tank battle away faint";
+var mnemonic = "crouch weekend tissue capital car muscle error glass extra zone section praise";

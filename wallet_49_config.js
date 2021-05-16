@@ -1,1 +1,1 @@
-var mnemonic = "setup draw best check timber battle toss stem topic lady three diet";
+var mnemonic = "tomato rival pencil wear gap raise render dry sphere mail cover frozen";

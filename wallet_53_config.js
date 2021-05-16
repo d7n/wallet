@@ -1,1 +1,1 @@
-var mnemonic = "churn tragic rural avoid top survey used board trend fan member train";
+var mnemonic = "mango fire iron suffer fragile employ artist exercise laptop siren exact solar";

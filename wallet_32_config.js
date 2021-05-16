@@ -1,1 +1,1 @@
-var mnemonic = "illness patrol expire need average much fall claw blue funny apple blouse";
+var mnemonic = "moral balcony denial spice payment hero fault witness work capital area shell";

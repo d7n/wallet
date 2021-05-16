@@ -1,1 +1,1 @@
-var mnemonic = "flee warfare uniform dynamic target romance mass siren jungle elegant shrimp advice";
+var mnemonic = "proof crystal lonely sail screen tornado west grocery reunion price wife lady";

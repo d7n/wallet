@@ -1,1 +1,1 @@
-var mnemonic = "wagon symptom motor pluck wall tent bus popular report enhance current debate";
+var mnemonic = "flag audit degree common attend wash satisfy busy pitch loop wrestle mix";

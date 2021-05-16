@@ -1,1 +1,1 @@
-var mnemonic = "arctic eternal skill like destroy frequent lawn giggle surge credit fossil blanket";
+var mnemonic = "crater excuse coral begin digital lemon express benefit guard upset sustain biology";

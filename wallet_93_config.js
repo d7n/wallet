@@ -1,1 +1,1 @@
-var mnemonic = "uncle notable away empty fine wolf deal inch harvest enrich jacket call";
+var mnemonic = "mammal wink picnic badge stone hurt manage pig forget twice arctic pact";

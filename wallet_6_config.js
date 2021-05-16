@@ -1,1 +1,1 @@
-var mnemonic = "hint object spring six river tool rival design random tone foster three";
+var mnemonic = "meadow link seek canoe quantum birth green second system leg little stick";

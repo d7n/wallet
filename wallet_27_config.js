@@ -1,1 +1,1 @@
-var mnemonic = "oppose weapon damp myth retire comfort rule matter indicate jelly flip jump";
+var mnemonic = "jaguar manage meat absent normal edge combine truly clerk predict thank spice";

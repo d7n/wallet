@@ -1,1 +1,1 @@
-var mnemonic = "undo source close april random glass hat jeans silent tonight drip brown";
+var mnemonic = "cruel hidden pupil alert medal hammer nurse economy team snow tilt wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "neither ahead bar need flock seek good diary segment equip cigar stumble";
+var mnemonic = "butter rigid little lunar love seminar task machine slender exercise ring cable";

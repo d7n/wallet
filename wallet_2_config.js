@@ -1,1 +1,1 @@
-var mnemonic = "price unhappy belt spin track drop evil essay business hard powder vanish";
+var mnemonic = "sheriff tent chef elbow alpha image salon fence joke wisdom unveil fee";

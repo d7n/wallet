@@ -1,1 +1,1 @@
-var mnemonic = "bag gown prevent bracket damp horse siren build buzz just rough globe";
+var mnemonic = "almost category tank muffin finish scissors addict amateur inherit ready pool bench";

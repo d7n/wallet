@@ -1,1 +1,1 @@
-var mnemonic = "style fever chat illness artist load blanket secret pretty major beauty funny";
+var mnemonic = "man destroy pottery destroy one suspect eagle planet twice file plunge taste";

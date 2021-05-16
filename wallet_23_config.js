@@ -1,1 +1,1 @@
-var mnemonic = "noise smile slight twist ketchup taxi decrease ten wing real social ostrich";
+var mnemonic = "topic hammer text impulse drama aisle ancient margin silk famous all private";

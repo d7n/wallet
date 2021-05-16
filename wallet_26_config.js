@@ -1,1 +1,1 @@
-var mnemonic = "early friend flower female process when march finger small remain ski blue";
+var mnemonic = "unknown maximum present blouse raven auto armor trial fan mimic misery oppose";

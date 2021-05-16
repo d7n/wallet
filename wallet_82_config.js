@@ -1,1 +1,1 @@
-var mnemonic = "phrase off present drastic amateur skirt orchard female vicious virtual aisle office";
+var mnemonic = "away cash attack soft bread daring deposit organ question economy fall benefit";

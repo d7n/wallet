@@ -1,1 +1,1 @@
-var mnemonic = "cram seat bus bundle brush need insane glance stage path apple observe";
+var mnemonic = "nerve sweet bag used decline lift attitude rug lounge absorb multiply gather";

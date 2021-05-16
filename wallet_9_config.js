@@ -1,1 +1,1 @@
-var mnemonic = "insane chimney canvas card genius cave sunset panel cave major giggle buzz";
+var mnemonic = "agent upper creek gauge again reward lunar siren detect flush corn water";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot you lift balance emotion sad gorilla electric grit spin diet struggle";
+var mnemonic = "slender solution arena bullet grief profit coast mango grass mango shift quality";

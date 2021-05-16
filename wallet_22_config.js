@@ -1,1 +1,1 @@
-var mnemonic = "uniform nerve simple approve off extra blame demise fatal clever goddess legend";
+var mnemonic = "lava school combine bargain spare frog slam bundle addict inspire body dry";

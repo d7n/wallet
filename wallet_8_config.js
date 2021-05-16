@@ -1,1 +1,1 @@
-var mnemonic = "eternal deposit spot drill cave annual common clown acid animal glad spare";
+var mnemonic = "ski ensure awake script farm jeans category dose elephant what accuse settle";

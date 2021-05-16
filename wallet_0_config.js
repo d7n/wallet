@@ -1,1 +1,1 @@
-var mnemonic = "urge surprise fatal neck only steak lion ginger day home palace fee";
+var mnemonic = "weapon path degree license appear arena car kiwi pond echo series merry";

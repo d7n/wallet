@@ -1,1 +1,1 @@
-var mnemonic = "regret drastic swamp hub refuse erode airport cupboard lecture ginger universe hint";
+var mnemonic = "pumpkin buzz model kite enter differ eager grape jazz glance brief level";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly short issue simple mansion few suggest cup steel satoshi absorb multiply";
+var mnemonic = "eternal announce wall reject nuclear pen outdoor mother skirt loop curve category";

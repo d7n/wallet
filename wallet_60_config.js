@@ -1,1 +1,1 @@
-var mnemonic = "aisle truly eight alpha visa west plastic enter shop paper fun insane";
+var mnemonic = "more reduce tape useless pencil symbol stem frame result remove amount bitter";

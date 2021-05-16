@@ -1,1 +1,1 @@
-var mnemonic = "load wet network very imitate weird soda coil know apology portion obscure";
+var mnemonic = "enlist more neither soup same wide race bus swift make kitten marble";

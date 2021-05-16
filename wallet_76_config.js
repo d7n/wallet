@@ -1,1 +1,1 @@
-var mnemonic = "end immune found pepper hurdle tool toe ribbon timber asset differ sentence";
+var mnemonic = "quit balance engage juice finish sense fee claw agent canal home moral";

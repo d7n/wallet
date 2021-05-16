@@ -1,1 +1,1 @@
-var mnemonic = "engage solar motion tired alert betray gaze series write pattern run reason";
+var mnemonic = "later nature blur hard wide lock company edit pizza afford husband witness";

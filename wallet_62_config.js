@@ -1,1 +1,1 @@
-var mnemonic = "vocal drive muscle double aunt crawl video steel blame outside input blade";
+var mnemonic = "weather sea conduct vibrant execute upper fringe devote parade dynamic alcohol title";

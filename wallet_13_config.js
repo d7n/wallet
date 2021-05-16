@@ -1,1 +1,1 @@
-var mnemonic = "boring note history outer mimic exit deer poem slender success pencil bring";
+var mnemonic = "table section abandon lizard viable tuition skate hawk nominee flip deal talk";

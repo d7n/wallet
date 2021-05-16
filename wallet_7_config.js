@@ -1,1 +1,1 @@
-var mnemonic = "shoulder bullet taxi balcony digital replace just carry merry yard cliff sleep";
+var mnemonic = "client rocket garment omit face summer attitude kite couple rifle stomach dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "that exit vanish filter man lift album quality desk grow knife guide";
+var mnemonic = "click kind feel eye mushroom chalk chronic gasp next pool neither marble";

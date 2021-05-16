@@ -1,1 +1,1 @@
-var mnemonic = "east lift pilot fantasy also taxi figure goat liquid salt quality affair";
+var mnemonic = "jealous nerve walk across rescue amused impulse bachelor champion oppose hollow cart";

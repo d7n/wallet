@@ -1,1 +1,1 @@
-var mnemonic = "virtual follow march level tobacco camera card auction naive main cause game";
+var mnemonic = "scan pulse curve disease fire finish morning width illness test patrol special";

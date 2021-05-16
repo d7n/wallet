@@ -1,1 +1,1 @@
-var mnemonic = "parade spell donate story remind club bargain intact round orbit bike elephant";
+var mnemonic = "blur any pig guitar inner service twelve celery oak critic scrub cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "below hip step creek remain fitness crime return busy decorate reward modify";
+var mnemonic = "retreat brief three asset win unveil speak engine below pipe butter popular";

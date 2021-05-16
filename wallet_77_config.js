@@ -1,1 +1,1 @@
-var mnemonic = "flight badge trade siren void owner derive found stick employ super actress";
+var mnemonic = "good robust narrow digital ball cup always discover act mobile flat rebuild";

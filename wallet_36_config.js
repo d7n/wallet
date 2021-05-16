@@ -1,1 +1,1 @@
-var mnemonic = "exercise unusual depth garden river else trend smart theory mention arena salad";
+var mnemonic = "cover keep excuse ready melody junior squirrel better wealth april find learn";

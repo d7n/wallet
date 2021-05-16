@@ -1,1 +1,1 @@
-var mnemonic = "before awake pride blast cook lawn depth tag estate drama become mass";
+var mnemonic = "blossom awesome always rural pulse member garden april catch trumpet unusual armor";

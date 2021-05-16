@@ -1,1 +1,1 @@
-var mnemonic = "allow diamond enroll fitness movie tag stone soul mind cave knife element";
+var mnemonic = "initial tobacco wrist cinnamon segment response tower social flame cool egg emerge";

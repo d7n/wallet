@@ -1,1 +1,1 @@
-var mnemonic = "sing forum museum online plug gain peace prefer ginger toss canoe diesel";
+var mnemonic = "torch suspect grain crash twenty quarter donor ticket detail jacket horror inhale";

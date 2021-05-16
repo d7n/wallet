@@ -1,1 +1,1 @@
-var mnemonic = "select poet disease popular update run divert shiver couple supreme breeze dance";
+var mnemonic = "credit tomorrow mammal price leave cereal riot system weather pink trust fog";

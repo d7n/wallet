@@ -1,1 +1,1 @@
-var mnemonic = "april symbol vault rebel tell time usage exchange wear steel include boy";
+var mnemonic = "guard fiction observe bubble clinic weird candy bread absorb like thank focus";

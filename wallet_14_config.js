@@ -1,1 +1,1 @@
-var mnemonic = "grab crater body together chicken leisure invite palm rebuild weather pig allow";
+var mnemonic = "elder unfold easy tank purpose dad citizen hire bunker speak gate labor";

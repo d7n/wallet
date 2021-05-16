@@ -1,1 +1,1 @@
-var mnemonic = "dose glass tired exchange duck dog hair dry cry people excite faint";
+var mnemonic = "knife strong trouble pistol can sure obvious stomach girl book sight army";

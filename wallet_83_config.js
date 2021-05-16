@@ -1,1 +1,1 @@
-var mnemonic = "nerve begin later voyage detect order glue hope burst flame pyramid dumb";
+var mnemonic = "predict calm truth table tobacco bird basic reform pencil plate phone garment";

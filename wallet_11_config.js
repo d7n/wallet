@@ -1,1 +1,1 @@
-var mnemonic = "remember music tortoise bundle siren mountain secret pink mad initial barely swap";
+var mnemonic = "victory frost poverty eager already above town become cousin live impulse chronic";

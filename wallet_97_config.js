@@ -1,1 +1,1 @@
-var mnemonic = "master problem logic grant cook trumpet nephew minor axis abuse seminar frog";
+var mnemonic = "chunk rural outer valve tumble vendor light smile alert exact mobile depth";

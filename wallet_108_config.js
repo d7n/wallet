@@ -1,1 +1,1 @@
-var mnemonic = "orbit arena normal present execute text super slide april differ bird camp";
+var mnemonic = "decline soon bullet fatal bacon bachelor trophy spoon wisdom unit amazing casino";

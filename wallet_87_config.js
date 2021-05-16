@@ -1,1 +1,1 @@
-var mnemonic = "either giggle bracket carbon crumble length impulse home child trouble lobster loan";
+var mnemonic = "age abuse family employ snack stumble book tortoise scrap east visual vital";

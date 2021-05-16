@@ -1,1 +1,1 @@
-var mnemonic = "kick filter cover skill cart sketch home luggage bamboo twist author slab";
+var mnemonic = "usage spray try expire original possible produce bullet float slogan shed admit";

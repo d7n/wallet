@@ -1,1 +1,1 @@
-var mnemonic = "vote pistol rival stay quarter monkey cook razor solution sort stereo custom";
+var mnemonic = "display friend quick old need always truly solid potato ancient swarm column";

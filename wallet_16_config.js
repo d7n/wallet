@@ -1,1 +1,1 @@
-var mnemonic = "pulp fox acquire cube space stem pizza ketchup bacon enforce salt chuckle";
+var mnemonic = "tray school damp forget bind matrix rent height runway present message assist";

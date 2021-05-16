@@ -1,1 +1,1 @@
-var mnemonic = "catalog dynamic confirm multiply deal myth juice expect awful blast off hammer";
+var mnemonic = "cactus pupil pond north december surface drastic pyramid wreck sword nest notable";

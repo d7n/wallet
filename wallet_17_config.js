@@ -1,1 +1,1 @@
-var mnemonic = "fiber survey sting whip primary ball cube rare hospital fame same turn";
+var mnemonic = "empty spatial series wrist garden lion chase pipe assume cluster tackle miss";

@@ -1,1 +1,1 @@
-var mnemonic = "group decorate street nerve earth want nice twist special before glory comic";
+var mnemonic = "general diamond electric grid bag lamp rice figure enjoy scene mesh wild";

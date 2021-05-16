@@ -1,1 +1,1 @@
-var mnemonic = "donkey tourist burden doctor pave neither cube trophy moral happy whale speed";
+var mnemonic = "ship fix mix entry hen goat bronze spray skill patrol cup skate";
