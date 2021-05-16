@@ -1,1 +1,1 @@
-var mnemonic = "core vehicle artwork scene panda example injury panel bridge like core leg";
+var mnemonic = "diet tobacco bundle narrow current town essence surge game illegal food medal";

@@ -1,1 +1,1 @@
-var mnemonic = "enact fitness inherit drink quality uncle border apart hurdle buyer task noise";
+var mnemonic = "story joke valley much scorpion hotel deer pair cry flavor exact catch";

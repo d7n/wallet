@@ -1,1 +1,1 @@
-var mnemonic = "original sure million scene joke early elbow brass path bullet season damage";
+var mnemonic = "topic good section choose canvas bamboo viable goose stamp soap title gap";

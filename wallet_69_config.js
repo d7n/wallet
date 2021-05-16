@@ -1,1 +1,1 @@
-var mnemonic = "current trouble birth ability fiscal soda jelly height adult address bachelor twist";
+var mnemonic = "below strike thumb into nation elder brother noodle across rotate chronic vocal";

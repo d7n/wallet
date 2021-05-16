@@ -1,1 +1,1 @@
-var mnemonic = "empty negative outdoor biology drum glow delay mix junk isolate script culture";
+var mnemonic = "reopen palace position dinner high advance such door awake below extra lucky";

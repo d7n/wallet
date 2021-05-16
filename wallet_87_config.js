@@ -1,1 +1,1 @@
-var mnemonic = "before off spoil dry right useful result goose matrix pause roof faint";
+var mnemonic = "noise cushion envelope various forum fine member orange never hurdle alter sunny";

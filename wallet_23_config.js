@@ -1,1 +1,1 @@
-var mnemonic = "subject conduct tired trouble penalty unhappy horse require east bring upset fortune";
+var mnemonic = "wink present trend barrel tenant custom hospital main cupboard hurdle morning swing";

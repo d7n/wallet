@@ -1,1 +1,1 @@
-var mnemonic = "shuffle innocent fringe march basic aisle space end chicken slender rifle crater";
+var mnemonic = "cargo vicious time warfare lunch turtle wise bless cable plug model athlete";

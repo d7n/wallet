@@ -1,1 +1,1 @@
-var mnemonic = "harvest promote force story token recycle lumber bunker street announce universe crawl";
+var mnemonic = "negative bag when soda because inquiry country luggage elephant girl sponsor dial";

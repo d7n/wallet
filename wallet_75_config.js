@@ -1,1 +1,1 @@
-var mnemonic = "pudding bike hobby dismiss captain tone flock broom hole knock decline merge";
+var mnemonic = "lemon birth pilot tortoise sport kid envelope ugly sponsor news waste motor";

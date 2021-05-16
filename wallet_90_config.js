@@ -1,1 +1,1 @@
-var mnemonic = "undo ability hockey word angle question suggest naive word page tragic pipe";
+var mnemonic = "rookie squeeze random lecture inquiry space leaf dish below resource hat range";

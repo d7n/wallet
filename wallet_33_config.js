@@ -1,1 +1,1 @@
-var mnemonic = "diesel steel favorite net rocket wage omit salt clown joke recall camp";
+var mnemonic = "explain gesture butter consider letter average ocean achieve dish razor topic uncle";

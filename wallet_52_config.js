@@ -1,1 +1,1 @@
-var mnemonic = "hope despair refuse skill donate scan way crumble suggest quote high key";
+var mnemonic = "repair travel stumble belt alter motor obey limb link cattle kingdom crime";

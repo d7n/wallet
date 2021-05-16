@@ -1,1 +1,1 @@
-var mnemonic = "build round duty disorder burden pattern scout fit exhibit monitor thank pioneer";
+var mnemonic = "move gentle expire trim spike forum inherit machine melt label robust tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "story pave cricket system region farm cruise deny sketch boy summer tonight";
+var mnemonic = "zoo duty jealous hobby play assault expand pitch violin orange letter hint";

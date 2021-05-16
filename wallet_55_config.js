@@ -1,1 +1,1 @@
-var mnemonic = "cloud color mail angle hip fabric gasp canal obvious early spot mixture";
+var mnemonic = "jeans drama gospel swap kite knee salon exit bring practice funny route";

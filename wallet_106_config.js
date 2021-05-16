@@ -1,1 +1,1 @@
-var mnemonic = "off dress vague key old theme update endless quantum diagram cost ten";
+var mnemonic = "verify ranch cheap sell retreat wash angry nominee squeeze predict enable indoor";

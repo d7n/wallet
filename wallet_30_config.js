@@ -1,1 +1,1 @@
-var mnemonic = "sand swamp rigid blue axis hotel reward because chair scrub try category";
+var mnemonic = "arena educate portion bone salmon forum pig awful eyebrow glass suit fine";

@@ -1,1 +1,1 @@
-var mnemonic = "panther solution duck squeeze home guess cinnamon private auction sport disorder keep";
+var mnemonic = "miss eight estate picnic trash inquiry slender child buffalo address vocal control";

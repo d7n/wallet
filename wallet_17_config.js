@@ -1,1 +1,1 @@
-var mnemonic = "night arch cheap wolf crane destroy marriage voice rude echo fly attract";
+var mnemonic = "fence describe derive snack drop spend select beauty worth father pluck then";

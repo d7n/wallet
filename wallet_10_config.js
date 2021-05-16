@@ -1,1 +1,1 @@
-var mnemonic = "company guilt merry include traffic level want day kick under gown radar";
+var mnemonic = "unveil casino field region reject basket reward camera practice clerk gift arrest";

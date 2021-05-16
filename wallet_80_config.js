@@ -1,1 +1,1 @@
-var mnemonic = "sea comfort hazard few parade answer april until hard rail guilt theme";
+var mnemonic = "spell oval wonder badge pattern arm card cancel embrace soccer now invest";

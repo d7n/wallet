@@ -1,1 +1,1 @@
-var mnemonic = "tell casino vocal track turkey door oppose inch blouse gold disease sing";
+var mnemonic = "coil raccoon squeeze hill slam online into upset ethics second eight core";

@@ -1,1 +1,1 @@
-var mnemonic = "design tank wet bleak spoil island tower member unhappy boil just then";
+var mnemonic = "ready palace below zebra grant unique crawl ten elder donate oyster sing";

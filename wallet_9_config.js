@@ -1,1 +1,1 @@
-var mnemonic = "immense tissue card travel actor code debris morning drift alpha beauty that";
+var mnemonic = "ranch waste side chalk twelve reject debris tornado evolve cram jump weapon";

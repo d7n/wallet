@@ -1,1 +1,1 @@
-var mnemonic = "topple series claw rubber cargo clap soft finger off profit suspect face";
+var mnemonic = "luxury citizen legend mom biology cinnamon lemon ketchup strategy season toy glide";

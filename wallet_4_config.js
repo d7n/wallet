@@ -1,1 +1,1 @@
-var mnemonic = "kitchen inform seminar dice captain knock plug bounce extra umbrella arch giraffe";
+var mnemonic = "dismiss skull glove require private frown exile dash identify current knee violin";

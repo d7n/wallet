@@ -1,1 +1,1 @@
-var mnemonic = "copper foil advice antique power taxi dinner early victory anchor clip hawk";
+var mnemonic = "dwarf toilet retreat list swear wall circle wreck bounce uniform blossom ten";

@@ -1,1 +1,1 @@
-var mnemonic = "device brave garbage sadness raise open crucial today reason artefact oppose inherit";
+var mnemonic = "jar truck catch foil poverty place thrive ship page movie adjust guilt";

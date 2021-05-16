@@ -1,1 +1,1 @@
-var mnemonic = "stamp impose traffic three riot vocal expand fault buzz recipe blue list";
+var mnemonic = "pepper tribe burst lock crisp frog stone century whip cinnamon come ripple";

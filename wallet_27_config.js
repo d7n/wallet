@@ -1,1 +1,1 @@
-var mnemonic = "lobster zoo rabbit canvas helmet marine rally crime west husband top surge";
+var mnemonic = "blur hurt pull pet inherit drink abstract action useless unaware fabric promote";

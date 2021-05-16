@@ -1,1 +1,1 @@
-var mnemonic = "dismiss pretty sample arctic glare video amount hour inmate bounce forget smoke";
+var mnemonic = "safe carry shiver noise bone alpha account flash load vicious aerobic mother";

@@ -1,1 +1,1 @@
-var mnemonic = "renew security because demand coil organ excuse frozen cover invite jump gather";
+var mnemonic = "bean clerk bulk census dose hen sunny session area certain faint element";

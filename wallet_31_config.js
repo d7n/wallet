@@ -1,1 +1,1 @@
-var mnemonic = "symbol transfer decline merge relax grunt radar mind announce sting orbit loop";
+var mnemonic = "churn aim fancy oil depend adjust sport cherry rug abuse craft reunion";

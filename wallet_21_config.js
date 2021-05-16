@@ -1,1 +1,1 @@
-var mnemonic = "gesture flash sign large around frequent client radar bottom source column cheese";
+var mnemonic = "type range dawn okay bind fatigue tragic ladder essay vivid spawn later";

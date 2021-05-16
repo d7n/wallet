@@ -1,1 +1,1 @@
-var mnemonic = "outdoor conduct correct exercise dove enroll relax task review blind patch dinosaur";
+var mnemonic = "stage thank stuff misery junior above weird stem curve hidden wild unhappy";

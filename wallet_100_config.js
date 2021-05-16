@@ -1,1 +1,1 @@
-var mnemonic = "coffee wear very issue over vivid scan install crane famous since song";
+var mnemonic = "best witness toss real amazing trade theme saddle box purpose tiger great";

@@ -1,1 +1,1 @@
-var mnemonic = "boil poem record brief quote guilt soldier put amount comfort short dune";
+var mnemonic = "hurry dove bounce coin cage oak profit weird document bargain strike fringe";

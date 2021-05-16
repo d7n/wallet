@@ -1,1 +1,1 @@
-var mnemonic = "verify tiny fade yellow gesture expand tool auction youth first say one";
+var mnemonic = "way journey century awake useless adapt copy sad oppose hamster humor stove";

@@ -1,1 +1,1 @@
-var mnemonic = "shed brother wear hat carry object next mean eagle giggle vacuum secret";
+var mnemonic = "ribbon key vicious must ugly next hybrid ship meat more bottom possible";

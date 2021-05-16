@@ -1,1 +1,1 @@
-var mnemonic = "salon merry doctor unit grant amused shield gravity oppose moral element piece";
+var mnemonic = "base exclude tag glory local equal primary praise mass vicious swallow transfer";

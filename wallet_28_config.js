@@ -1,1 +1,1 @@
-var mnemonic = "tourist total image orient basket race film bless cloth mean child fat";
+var mnemonic = "gasp fine crop wagon elephant lunch recipe laptop tail wire milk exclude";

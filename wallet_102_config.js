@@ -1,1 +1,1 @@
-var mnemonic = "evolve before face track dash rigid once plastic holiday jump amazing pool";
+var mnemonic = "measure exile exhaust manual weird solar select glow supply mercy wasp holiday";

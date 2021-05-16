@@ -1,1 +1,1 @@
-var mnemonic = "horn garage report episode solid physical razor label spirit core beyond youth";
+var mnemonic = "flavor garment hint bargain remain debate sing bread bar brand zero frequent";

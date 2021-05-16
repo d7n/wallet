@@ -1,1 +1,1 @@
-var mnemonic = "regular mean purity famous abstract slice silver next silly song awkward bread";
+var mnemonic = "student patient fossil grape large phrase chair faculty marble imitate brave planet";

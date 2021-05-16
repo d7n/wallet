@@ -1,1 +1,1 @@
-var mnemonic = "scrap alpha visual harvest vicious stem gaze sea attitude alarm page autumn";
+var mnemonic = "pig weather situate city quick pact ginger assist pyramid kite calm gasp";

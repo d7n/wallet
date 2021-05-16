@@ -1,1 +1,1 @@
-var mnemonic = "picture over market raccoon mother engage raise table test bracket bronze gaze";
+var mnemonic = "find lyrics noble push matter orange equal memory street oil peace trophy";

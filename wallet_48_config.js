@@ -1,1 +1,1 @@
-var mnemonic = "jealous close syrup sand advice damage eagle desk fury mutual super resist";
+var mnemonic = "route possible limit level bright rice lemon element feature detail echo slice";

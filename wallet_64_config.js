@@ -1,1 +1,1 @@
-var mnemonic = "route giant link visual remember pigeon test sign bind smoke alcohol enough";
+var mnemonic = "stuff dad dutch power about corn perfect expose habit table admit viable";

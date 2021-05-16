@@ -1,1 +1,1 @@
-var mnemonic = "diesel prevent bind ticket rigid thank bargain vessel identify lawn metal grass";
+var mnemonic = "tenant vast leisure pass outdoor spoil turkey season patrol ice lizard toast";

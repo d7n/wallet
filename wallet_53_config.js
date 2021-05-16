@@ -1,1 +1,1 @@
-var mnemonic = "holiday soccer soul rifle diary breeze audit action village report hub detect";
+var mnemonic = "oppose baby pattern submit follow city ginger panic path veteran three ordinary";

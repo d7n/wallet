@@ -1,1 +1,1 @@
-var mnemonic = "betray vacuum faith mystery gesture dilemma desert hybrid police hen shield artwork";
+var mnemonic = "square gate traffic broccoli gas vintage delay try mom matter gown insect";

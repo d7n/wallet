@@ -1,1 +1,1 @@
-var mnemonic = "engage ability throw fitness twice fragile light maid muffin armor trip science";
+var mnemonic = "coast come fog patient rent enact diet garbage unable supply goat dirt";

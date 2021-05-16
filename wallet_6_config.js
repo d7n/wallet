@@ -1,1 +1,1 @@
-var mnemonic = "salt audit clutch city lawn monkey beef popular version ship often program";
+var mnemonic = "topic evil nurse describe region they abuse surge erode metal zebra artwork";

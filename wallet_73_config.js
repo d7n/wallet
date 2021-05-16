@@ -1,1 +1,1 @@
-var mnemonic = "lunch nephew tank priority dawn state love ethics oblige arrest surround proof";
+var mnemonic = "main lawsuit hunt decorate maze search outer proud derive hope index captain";

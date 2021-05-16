@@ -1,1 +1,1 @@
-var mnemonic = "crunch rate mechanic moon diary express unusual segment raw pistol knee stable";
+var mnemonic = "gather disorder record inspire drip twist setup scene canyon pass provide auto";

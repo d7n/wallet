@@ -1,1 +1,1 @@
-var mnemonic = "item salad voyage cake quit rubber regular large drink enforce senior genre";
+var mnemonic = "finger face uphold axis village siren stool code scale tumble recipe phrase";

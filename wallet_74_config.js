@@ -1,1 +1,1 @@
-var mnemonic = "forget occur relax memory artist addict resist tattoo child ribbon early rate";
+var mnemonic = "oxygen cherry resist decade flower barrel hedgehog put inside combine drive milk";

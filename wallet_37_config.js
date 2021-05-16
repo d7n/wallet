@@ -1,1 +1,1 @@
-var mnemonic = "glass seminar whisper middle gentle degree admit minimum reduce picnic other surprise";
+var mnemonic = "absent wink plastic dwarf share whisper armed dynamic tourist fuel age render";

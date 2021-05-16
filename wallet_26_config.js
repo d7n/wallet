@@ -1,1 +1,1 @@
-var mnemonic = "broom neutral february outer chalk control route flat flight feel hair display";
+var mnemonic = "large sugar taxi symptom electric crouch violin bird diamond pelican galaxy click";

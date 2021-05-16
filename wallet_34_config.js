@@ -1,1 +1,1 @@
-var mnemonic = "federal cancel betray click guess banner laptop excite sting session unveil top";
+var mnemonic = "media material female bench eight beef game purity planet join stadium desert";

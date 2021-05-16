@@ -1,1 +1,1 @@
-var mnemonic = "antenna stomach broccoli long island apart tail silly demise gain evil rule";
+var mnemonic = "achieve evolve common plastic arctic laptop fruit trouble one jelly absent under";

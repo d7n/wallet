@@ -1,1 +1,1 @@
-var mnemonic = "number belt love enter mule enforce cable hybrid bone child obvious hill";
+var mnemonic = "humble visa ranch view item uncle pear scrub someone welcome piece there";

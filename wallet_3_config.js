@@ -1,1 +1,1 @@
-var mnemonic = "scene second accuse stairs public thank polar desert magic column weekend minute";
+var mnemonic = "shove produce inmate maximum other outer gold penalty economy fuel sign public";

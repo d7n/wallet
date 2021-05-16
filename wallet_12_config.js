@@ -1,1 +1,1 @@
-var mnemonic = "shoe street curve van dumb input bubble stand antenna duck afraid spell";
+var mnemonic = "picnic amateur meadow prefer unable drill napkin paper comic say level again";

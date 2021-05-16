@@ -1,1 +1,1 @@
-var mnemonic = "enemy trial install detail dwarf during crush celery happy actual nut announce";
+var mnemonic = "message element hurry isolate napkin crouch coach ecology crucial message era physical";

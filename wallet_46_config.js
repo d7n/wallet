@@ -1,1 +1,1 @@
-var mnemonic = "drip federal wine three video permit brown come puppy gloom tree float";
+var mnemonic = "fiber check camp hurdle require pink any kitchen illness make valid hope";

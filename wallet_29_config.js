@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fancy match oppose fabric tomorrow danger foot major total miss easy";
+var mnemonic = "during position super smile stereo doll lonely fruit question excite never nothing";

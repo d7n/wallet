@@ -1,1 +1,1 @@
-var mnemonic = "clean naive media dumb field floor detect wage work infant agent monster";
+var mnemonic = "diamond penalty myself salon deer sand depend return journey suffer make vocal";

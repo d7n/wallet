@@ -1,1 +1,1 @@
-var mnemonic = "gorilla mistake rifle kiwi base text work mammal relax inherit during squirrel";
+var mnemonic = "auto title sauce shed ahead city praise element almost language tragic disorder";

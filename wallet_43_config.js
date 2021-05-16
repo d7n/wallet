@@ -1,1 +1,1 @@
-var mnemonic = "wrong game rose wise ketchup title warrior what remove catch pretty depart";
+var mnemonic = "useful sorry worth cycle patrol verb soda normal law drift demand stay";

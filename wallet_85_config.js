@@ -1,1 +1,1 @@
-var mnemonic = "pigeon border upgrade chef captain object apple youth audit obtain village march";
+var mnemonic = "funny exclude spice frozen neither jungle wreck charge card come soul lawn";

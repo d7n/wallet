@@ -1,1 +1,1 @@
-var mnemonic = "assault repair soldier column resemble lunch fee inmate crack dry indoor stereo";
+var mnemonic = "pluck perfect harvest leave capital federal turtle job battle tide denial turn";

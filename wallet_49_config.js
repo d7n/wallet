@@ -1,1 +1,1 @@
-var mnemonic = "muscle three table mass imitate occur myself frequent shed donor ocean manage";
+var mnemonic = "kind bargain river wash fury describe smoke stereo short ask garage just";

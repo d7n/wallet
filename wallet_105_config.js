@@ -1,1 +1,1 @@
-var mnemonic = "dizzy taste fashion suffer safe little swarm frame keep oblige toss crime";
+var mnemonic = "swing absorb sibling stable amount method brand spice remember destroy concert there";

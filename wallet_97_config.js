@@ -1,1 +1,1 @@
-var mnemonic = "female draft coach gaze flag custom judge shine output gloom deny matrix";
+var mnemonic = "eager shrimp change inside style kingdom festival marine royal scrap boss frost";

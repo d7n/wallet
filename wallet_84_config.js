@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pig tent window museum tunnel teach almost demand intact duck powder";
+var mnemonic = "walk output game timber penalty blast exit print clap clay another december";

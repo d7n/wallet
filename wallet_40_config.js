@@ -1,1 +1,1 @@
-var mnemonic = "shuffle hand rain action trap powder million achieve disagree rain brush blue";
+var mnemonic = "conduct husband mail they answer thumb expire real dose process dune tent";

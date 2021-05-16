@@ -1,1 +1,1 @@
-var mnemonic = "curious impulse project zone gap when ethics man call core network educate";
+var mnemonic = "like copper token fold piano engine inmate devote audit circle hint century";

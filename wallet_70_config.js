@@ -1,1 +1,1 @@
-var mnemonic = "alter pill dog window dentist urge scene couple trial tattoo city aware";
+var mnemonic = "shaft coyote edge adjust pluck attitude property typical defense broken culture rally";

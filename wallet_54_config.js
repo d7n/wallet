@@ -1,1 +1,1 @@
-var mnemonic = "define resist reveal scrap favorite join silly away purpose picture sibling pumpkin";
+var mnemonic = "indicate sister click disorder april river pelican foil donkey chapter wrap drill";

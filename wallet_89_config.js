@@ -1,1 +1,1 @@
-var mnemonic = "actual omit later carpet print festival height merry scrap double learn auction";
+var mnemonic = "artefact panda pulse bracket apology pony replace flash barely dial try dumb";

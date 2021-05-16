@@ -1,1 +1,1 @@
-var mnemonic = "nut host whip violin increase few anger banner educate marriage neck panther";
+var mnemonic = "stove entire profit father hawk isolate hand cousin draw music faculty left";

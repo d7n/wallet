@@ -1,1 +1,1 @@
-var mnemonic = "club vintage price seek park purity suit swim install region deny black";
+var mnemonic = "now trend lesson hedgehog dynamic already crime forum basic friend mercy yard";

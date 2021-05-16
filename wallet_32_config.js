@@ -1,1 +1,1 @@
-var mnemonic = "fiscal smoke wild maple cheap twin scrub village essence rack romance depart";
+var mnemonic = "jar because tattoo disorder raise profit alarm install garlic exchange world genius";

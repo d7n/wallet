@@ -1,1 +1,1 @@
-var mnemonic = "pattern patient bulk winner lawn celery snack strike rescue welcome math arch";
+var mnemonic = "knock comfort fantasy dune decline goose quality increase maximum phrase review decade";

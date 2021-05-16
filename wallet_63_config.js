@@ -1,1 +1,1 @@
-var mnemonic = "found verb car vessel tackle twice actor base antique toddler noble bottom";
+var mnemonic = "exhaust current corn okay remember battle shaft rubber pill mushroom lumber unveil";

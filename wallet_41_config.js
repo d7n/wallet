@@ -1,1 +1,1 @@
-var mnemonic = "will intact mixture bachelor surface pepper under vibrant yard solution mansion harbor";
+var mnemonic = "keep must trap sound arm south valve vendor resist battle dash fire";

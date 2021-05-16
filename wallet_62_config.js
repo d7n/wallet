@@ -1,1 +1,1 @@
-var mnemonic = "voice there cactus duck submit twice since when struggle claw length steel";
+var mnemonic = "fade illegal glance fame knee panda alpha hood way roast have real";

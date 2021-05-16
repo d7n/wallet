@@ -1,1 +1,1 @@
-var mnemonic = "excess logic once ritual between dynamic stool crisp student mercy object ugly";
+var mnemonic = "cattle almost submit eager horror topple emotion rhythm enforce hungry wrist pattern";

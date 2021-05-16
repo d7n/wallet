@@ -1,1 +1,1 @@
-var mnemonic = "patient future clarify almost hazard taste lobster program weasel duck scene leave";
+var mnemonic = "glow cancel pledge chuckle enough rail hole wreck nest review upper ocean";
