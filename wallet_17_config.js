@@ -1,1 +1,1 @@
-var mnemonic = "reward jacket mushroom pattern purse chief quick basic rescue claim candy boat";
+var mnemonic = "night arch cheap wolf crane destroy marriage voice rude echo fly attract";

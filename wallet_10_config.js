@@ -1,1 +1,1 @@
-var mnemonic = "drop artwork eternal lemon bubble bitter drop middle blind shadow balcony pizza";
+var mnemonic = "company guilt merry include traffic level want day kick under gown radar";

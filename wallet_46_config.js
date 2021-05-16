@@ -1,1 +1,1 @@
-var mnemonic = "gain steak harsh sock first guess gold dizzy mean basic evoke frequent";
+var mnemonic = "drip federal wine three video permit brown come puppy gloom tree float";

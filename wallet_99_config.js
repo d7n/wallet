@@ -1,1 +1,1 @@
-var mnemonic = "garbage maze typical boil seven manual solve popular burden gravity deal neutral";
+var mnemonic = "legal matter pluck squirrel aisle swarm cannon able kitten penalty leader purity";

@@ -1,1 +1,1 @@
-var mnemonic = "possible switch mansion shop turn similar result board enlist shop dentist follow";
+var mnemonic = "device brave garbage sadness raise open crucial today reason artefact oppose inherit";

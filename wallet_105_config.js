@@ -1,1 +1,1 @@
-var mnemonic = "abandon segment novel hurdle blade cloth cradle alley then gravity health sing";
+var mnemonic = "dizzy taste fashion suffer safe little swarm frame keep oblige toss crime";

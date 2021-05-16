@@ -1,1 +1,1 @@
-var mnemonic = "cruise panther syrup skate kiwi butter depth punch divide brisk rate mimic";
+var mnemonic = "salt audit clutch city lawn monkey beef popular version ship often program";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil during crumble recipe clip book eager praise vessel arch donate input";
+var mnemonic = "immense tissue card travel actor code debris morning drift alpha beauty that";

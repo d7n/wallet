@@ -1,1 +1,1 @@
-var mnemonic = "bone giraffe have animal unusual capital inhale pulse outside great tree dry";
+var mnemonic = "enact fitness inherit drink quality uncle border apart hurdle buyer task noise";

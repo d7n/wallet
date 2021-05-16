@@ -1,1 +1,1 @@
-var mnemonic = "deputy frame aunt sibling napkin velvet argue acid pipe picture twice carry";
+var mnemonic = "regular mean purity famous abstract slice silver next silly song awkward bread";

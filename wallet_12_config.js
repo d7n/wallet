@@ -1,1 +1,1 @@
-var mnemonic = "thought chicken pumpkin toddler people aisle pitch build truth quality ordinary sight";
+var mnemonic = "shoe street curve van dumb input bubble stand antenna duck afraid spell";

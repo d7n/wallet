@@ -1,1 +1,1 @@
-var mnemonic = "dirt palace furnace gentle enlist boost super unable member conduct path acid";
+var mnemonic = "shed brother wear hat carry object next mean eagle giggle vacuum secret";

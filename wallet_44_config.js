@@ -1,1 +1,1 @@
-var mnemonic = "photo cry point outdoor knock tortoise peace obey erode hybrid imitate march";
+var mnemonic = "harvest promote force story token recycle lumber bunker street announce universe crawl";

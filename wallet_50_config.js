@@ -1,1 +1,1 @@
-var mnemonic = "advice erase tuna salon mandate manual doctor palm title shoe cat census";
+var mnemonic = "scrap alpha visual harvest vicious stem gaze sea attitude alarm page autumn";

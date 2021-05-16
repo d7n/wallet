@@ -1,1 +1,1 @@
-var mnemonic = "timber manual sight oppose narrow margin cricket rocket switch leopard tag imitate";
+var mnemonic = "route giant link visual remember pigeon test sign bind smoke alcohol enough";

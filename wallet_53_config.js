@@ -1,1 +1,1 @@
-var mnemonic = "athlete length toast spike lock spirit return immune utility fit subway input";
+var mnemonic = "holiday soccer soul rifle diary breeze audit action village report hub detect";

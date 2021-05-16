@@ -1,1 +1,1 @@
-var mnemonic = "sick bar evoke sheriff alpha oblige narrow tired aware wealth current corn";
+var mnemonic = "patient future clarify almost hazard taste lobster program weasel duck scene leave";

@@ -1,1 +1,1 @@
-var mnemonic = "net river income water photo book love better deposit grape turkey patrol";
+var mnemonic = "picture over market raccoon mother engage raise table test bracket bronze gaze";

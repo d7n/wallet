@@ -1,1 +1,1 @@
-var mnemonic = "quarter evolve obscure velvet just unable obtain wing shove clever brush salute";
+var mnemonic = "evolve before face track dash rigid once plastic holiday jump amazing pool";

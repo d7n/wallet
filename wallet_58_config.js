@@ -1,1 +1,1 @@
-var mnemonic = "whip hobby happy salt board relief phrase artwork wash toy language comic";
+var mnemonic = "design tank wet bleak spoil island tower member unhappy boil just then";

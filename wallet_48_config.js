@@ -1,1 +1,1 @@
-var mnemonic = "deal garden snack host actor unfair buddy modify dress tenant much sweet";
+var mnemonic = "jealous close syrup sand advice damage eagle desk fury mutual super resist";

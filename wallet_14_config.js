@@ -1,1 +1,1 @@
-var mnemonic = "strong mind broccoli search turn vendor route next there home valley cycle";
+var mnemonic = "number belt love enter mule enforce cable hybrid bone child obvious hill";

@@ -1,1 +1,1 @@
-var mnemonic = "build crawl kitten green adjust mutual purpose meat host price say oxygen";
+var mnemonic = "tell casino vocal track turkey door oppose inch blouse gold disease sing";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual episode issue trim goose obscure immense help rebel chef outdoor goose";
+var mnemonic = "renew security because demand coil organ excuse frozen cover invite jump gather";

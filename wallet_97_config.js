@@ -1,1 +1,1 @@
-var mnemonic = "apart chef slender purse camera disorder describe rookie glue ahead rule play";
+var mnemonic = "female draft coach gaze flag custom judge shine output gloom deny matrix";

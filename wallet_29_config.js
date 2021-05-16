@@ -1,1 +1,1 @@
-var mnemonic = "swear blue tower sing leader traffic traffic fruit asthma sport trash benefit";
+var mnemonic = "mosquito fancy match oppose fabric tomorrow danger foot major total miss easy";

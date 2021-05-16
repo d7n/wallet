@@ -1,1 +1,1 @@
-var mnemonic = "crack camp dinner crime episode spend protect tenant strike split pattern cotton";
+var mnemonic = "alter pill dog window dentist urge scene couple trial tattoo city aware";

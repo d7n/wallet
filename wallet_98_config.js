@@ -1,1 +1,1 @@
-var mnemonic = "glow cram improve lumber lyrics kitten garage erosion harvest black rude army";
+var mnemonic = "engage ability throw fitness twice fragile light maid muffin armor trip science";

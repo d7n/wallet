@@ -1,1 +1,1 @@
-var mnemonic = "piano island broom harbor option force success mean grow control illegal problem";
+var mnemonic = "story pave cricket system region farm cruise deny sketch boy summer tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "screen adapt dust phone call rabbit brand safe start amateur subject flavor";
+var mnemonic = "over sun pause cycle uniform valid impose tilt blood eager clump report";

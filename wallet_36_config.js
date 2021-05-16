@@ -1,1 +1,1 @@
-var mnemonic = "enrich teach foil ritual cliff rally actor curtain craft faculty result filter";
+var mnemonic = "plate section grief bread wedding truck clog traffic father pear brother will";

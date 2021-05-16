@@ -1,1 +1,1 @@
-var mnemonic = "tell cotton afraid faith pigeon shadow topic flat hope cluster agent vessel";
+var mnemonic = "hope despair refuse skill donate scan way crumble suggest quote high key";

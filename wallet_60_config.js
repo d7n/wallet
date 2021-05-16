@@ -1,1 +1,1 @@
-var mnemonic = "hockey neck umbrella drum pizza now picnic fall prosper remain helmet lecture";
+var mnemonic = "betray vacuum faith mystery gesture dilemma desert hybrid police hen shield artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock flee genuine defy aunt hat museum naive advice post someone pair";
+var mnemonic = "federal cancel betray click guess banner laptop excite sting session unveil top";

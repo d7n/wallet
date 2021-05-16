@@ -1,1 +1,1 @@
-var mnemonic = "dose remind debris party express nut intact result lunar essence warrior mind";
+var mnemonic = "before off spoil dry right useful result goose matrix pause roof faint";

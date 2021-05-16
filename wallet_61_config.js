@@ -1,1 +1,1 @@
-var mnemonic = "jeans change palace jungle female rabbit future drop expose fiber humble lumber";
+var mnemonic = "dismiss pretty sample arctic glare video amount hour inmate bounce forget smoke";

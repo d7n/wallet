@@ -1,1 +1,1 @@
-var mnemonic = "sell glove still glory limit park deputy tide upper lion foil coyote";
+var mnemonic = "topple series claw rubber cargo clap soft finger off profit suspect face";

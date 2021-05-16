@@ -1,1 +1,1 @@
-var mnemonic = "feed member require ability drill collect uncle analyst flavor galaxy escape balcony";
+var mnemonic = "panther solution duck squeeze home guess cinnamon private auction sport disorder keep";

@@ -1,1 +1,1 @@
-var mnemonic = "angle real phone turn blade very bundle place today goat ring cook";
+var mnemonic = "flock bleak receive pepper joke slab metal tragic punch huge page explain";

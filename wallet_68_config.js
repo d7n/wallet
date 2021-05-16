@@ -1,1 +1,1 @@
-var mnemonic = "rebuild spatial soldier hood woman square buddy strategy give idea human swap";
+var mnemonic = "copper foil advice antique power taxi dinner early victory anchor clip hawk";

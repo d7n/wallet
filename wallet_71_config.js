@@ -1,1 +1,1 @@
-var mnemonic = "prepare access wage must glove industry junior parent pony trip wrestle mouse";
+var mnemonic = "popular umbrella myth evoke style sunset pact you lesson culture muscle harbor";

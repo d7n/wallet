@@ -1,1 +1,1 @@
-var mnemonic = "accuse empty syrup wonder surge onion issue deny mind skill planet trouble";
+var mnemonic = "core vehicle artwork scene panda example injury panel bridge like core leg";

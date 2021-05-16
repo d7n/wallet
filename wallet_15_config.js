@@ -1,1 +1,1 @@
-var mnemonic = "pet route response scale seed middle crater economy fiction process ability bench";
+var mnemonic = "original sure million scene joke early elbow brass path bullet season damage";

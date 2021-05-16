@@ -1,1 +1,1 @@
-var mnemonic = "repeat parade occur raise anxiety print hunt visit skin human stem physical";
+var mnemonic = "will intact mixture bachelor surface pepper under vibrant yard solution mansion harbor";

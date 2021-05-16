@@ -1,1 +1,1 @@
-var mnemonic = "artefact heavy dad pilot soup paper choose govern sudden whisper amazing doll";
+var mnemonic = "off dress vague key old theme update endless quantum diagram cost ten";

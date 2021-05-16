@@ -1,1 +1,1 @@
-var mnemonic = "truck urban session rebel give march any false sauce level sick amateur";
+var mnemonic = "voice there cactus duck submit twice since when struggle claw length steel";

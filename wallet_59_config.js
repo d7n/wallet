@@ -1,1 +1,1 @@
-var mnemonic = "truly physical innocent hedgehog such clay yard attack private royal level oval";
+var mnemonic = "enemy trial install detail dwarf during crush celery happy actual nut announce";

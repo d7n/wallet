@@ -1,1 +1,1 @@
-var mnemonic = "upper seven decline erase this tank toward february install multiply donor flag";
+var mnemonic = "undo ability hockey word angle question suggest naive word page tragic pipe";

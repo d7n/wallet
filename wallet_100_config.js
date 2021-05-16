@@ -1,1 +1,1 @@
-var mnemonic = "transfer view laptop nut firm sick shiver paper behind issue shoot exhibit";
+var mnemonic = "coffee wear very issue over vivid scan install crane famous since song";

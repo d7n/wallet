@@ -1,1 +1,1 @@
-var mnemonic = "glance message report verb super mind search shy law next obvious half";
+var mnemonic = "shuffle innocent fringe march basic aisle space end chicken slender rifle crater";

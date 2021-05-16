@@ -1,1 +1,1 @@
-var mnemonic = "habit search sell symbol dragon noise quit save include night action pottery";
+var mnemonic = "glass seminar whisper middle gentle degree admit minimum reduce picnic other surprise";

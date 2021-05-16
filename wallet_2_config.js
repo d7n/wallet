@@ -1,1 +1,1 @@
-var mnemonic = "fossil seek clump hurry grocery service rifle panic host raven glory make";
+var mnemonic = "crunch rate mechanic moon diary express unusual segment raw pistol knee stable";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic force color crop salon eyebrow citizen jump asset peanut uncle magnet";
+var mnemonic = "item salad voyage cake quit rubber regular large drink enforce senior genre";

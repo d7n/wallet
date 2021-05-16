@@ -1,1 +1,1 @@
-var mnemonic = "glide source gauge receive garage yellow doctor glory blush math congress entire";
+var mnemonic = "horn garage report episode solid physical razor label spirit core beyond youth";

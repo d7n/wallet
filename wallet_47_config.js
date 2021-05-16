@@ -1,1 +1,1 @@
-var mnemonic = "wisdom blame area laugh erupt essence apology wrong cause enforce sibling leader";
+var mnemonic = "lend wheat case lobster vast eternal wage rubber suffer among trend exclude";

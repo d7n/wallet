@@ -1,1 +1,1 @@
-var mnemonic = "scissors zone athlete entire kick job expect slogan airport escape end club";
+var mnemonic = "club vintage price seek park purity suit swim install region deny black";

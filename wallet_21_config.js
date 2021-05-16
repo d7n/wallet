@@ -1,1 +1,1 @@
-var mnemonic = "rhythm leader fly hub what slide ancient call dance mule because estate";
+var mnemonic = "gesture flash sign large around frequent client radar bottom source column cheese";

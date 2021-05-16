@@ -1,1 +1,1 @@
-var mnemonic = "rural pencil stable main grow stamp flag language recipe example resemble sun";
+var mnemonic = "diesel prevent bind ticket rigid thank bargain vessel identify lawn metal grass";

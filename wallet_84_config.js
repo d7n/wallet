@@ -1,1 +1,1 @@
-var mnemonic = "move salon fancy frog act lemon invest glue royal luxury company feed";
+var mnemonic = "fiscal pig tent window museum tunnel teach almost demand intact duck powder";

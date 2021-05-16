@@ -1,1 +1,1 @@
-var mnemonic = "future such orchard future nurse female practice sad clown easily can enough";
+var mnemonic = "clean naive media dumb field floor detect wage work infant agent monster";

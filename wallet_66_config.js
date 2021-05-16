@@ -1,1 +1,1 @@
-var mnemonic = "source indoor stock ten immune blame despair thought behave prefer invite divide";
+var mnemonic = "curious impulse project zone gap when ethics man call core network educate";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer clump oppose shiver student attract pig prosper possible merit wheel degree";
+var mnemonic = "outdoor conduct correct exercise dove enroll relax task review blind patch dinosaur";

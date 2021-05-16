@@ -1,1 +1,1 @@
-var mnemonic = "problem shiver sword pumpkin dynamic spy loyal virus dwarf vague orbit engine";
+var mnemonic = "found verb car vessel tackle twice actor base antique toddler noble bottom";

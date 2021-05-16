@@ -1,1 +1,1 @@
-var mnemonic = "witness video monkey indicate then half forest twist aunt guess include multiply";
+var mnemonic = "symbol transfer decline merge relax grunt radar mind announce sting orbit loop";

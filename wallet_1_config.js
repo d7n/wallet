@@ -1,1 +1,1 @@
-var mnemonic = "unveil april rude ketchup file seminar card trade machine remember glow yard";
+var mnemonic = "symbol nose emotion size toy pill glory stomach gravity focus reunion news";

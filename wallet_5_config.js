@@ -1,1 +1,1 @@
-var mnemonic = "clever wage betray lift engage west used person that fence remind pepper";
+var mnemonic = "gorilla mistake rifle kiwi base text work mammal relax inherit during squirrel";

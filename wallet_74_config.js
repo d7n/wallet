@@ -1,1 +1,1 @@
-var mnemonic = "sugar cruise hungry depth stick cool fee between remove olive layer hold";
+var mnemonic = "forget occur relax memory artist addict resist tattoo child ribbon early rate";

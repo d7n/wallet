@@ -1,1 +1,1 @@
-var mnemonic = "car amount shoulder sadness thunder learn best case raw own air squirrel";
+var mnemonic = "antenna stomach broccoli long island apart tail silly demise gain evil rule";

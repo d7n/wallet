@@ -1,1 +1,1 @@
-var mnemonic = "deposit waste distance spend tape celery limb sell inner tackle primary move";
+var mnemonic = "sea comfort hazard few parade answer april until hard rail guilt theme";

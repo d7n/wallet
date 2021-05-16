@@ -1,1 +1,1 @@
-var mnemonic = "nominee wrap shock leaf they dilemma nation cable input finger remain actress";
+var mnemonic = "nut host whip violin increase few anger banner educate marriage neck panther";

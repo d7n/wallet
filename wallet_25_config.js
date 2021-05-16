@@ -1,1 +1,1 @@
-var mnemonic = "nice traffic expose expose service garbage chase ordinary misery sheriff gather rhythm";
+var mnemonic = "various party shy scatter rack capital mutual practice fine latin topple become";

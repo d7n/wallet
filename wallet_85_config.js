@@ -1,1 +1,1 @@
-var mnemonic = "system first job husband rival reflect update lobster play insane brown work";
+var mnemonic = "pigeon border upgrade chef captain object apple youth audit obtain village march";

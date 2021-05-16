@@ -1,1 +1,1 @@
-var mnemonic = "float alien clinic pride salt notable seed dignity kitchen civil defense very";
+var mnemonic = "diesel steel favorite net rocket wage omit salt clown joke recall camp";

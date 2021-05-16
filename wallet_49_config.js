@@ -1,1 +1,1 @@
-var mnemonic = "canal raven cable circle agent cement over smooth bronze travel ginger able";
+var mnemonic = "muscle three table mass imitate occur myself frequent shed donor ocean manage";

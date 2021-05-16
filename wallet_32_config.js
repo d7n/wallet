@@ -1,1 +1,1 @@
-var mnemonic = "tube disorder lens this leg social record stove sting weekend domain similar";
+var mnemonic = "fiscal smoke wild maple cheap twin scrub village essence rack romance depart";

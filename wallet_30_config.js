@@ -1,1 +1,1 @@
-var mnemonic = "love victory worth exile nasty result act actress unfold jewel limit faint";
+var mnemonic = "sand swamp rigid blue axis hotel reward because chair scrub try category";

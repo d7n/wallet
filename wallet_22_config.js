@@ -1,1 +1,1 @@
-var mnemonic = "exact trade host kiss baby reduce pelican retire clock tuna coil seminar";
+var mnemonic = "company select sick distance sense skate gown warrior young vapor chair repeat";

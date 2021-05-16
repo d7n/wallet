@@ -1,1 +1,1 @@
-var mnemonic = "want document nest drastic donkey thought dog buffalo okay chest style mansion";
+var mnemonic = "empty negative outdoor biology drum glow delay mix junk isolate script culture";

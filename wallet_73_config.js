@@ -1,1 +1,1 @@
-var mnemonic = "target modify chunk possible injury veteran mixture dizzy silent seat unusual illegal";
+var mnemonic = "lunch nephew tank priority dawn state love ethics oblige arrest surround proof";

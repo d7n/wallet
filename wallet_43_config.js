@@ -1,1 +1,1 @@
-var mnemonic = "choice tip tragic rotate paper couch lion near differ caution there brave";
+var mnemonic = "wrong game rose wise ketchup title warrior what remove catch pretty depart";
