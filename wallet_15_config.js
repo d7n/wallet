@@ -1,1 +1,1 @@
-var mnemonic = "print where panda pony security enact bus enjoy oppose bullet salad train";
+var mnemonic = "exact ramp floor soft egg primary crowd ladder domain calm wall express";

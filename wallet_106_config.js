@@ -1,1 +1,1 @@
-var mnemonic = "depart peace garage labor advance wife pluck consider recycle stomach priority truck";
+var mnemonic = "black bullet once account erosion clever excite wagon receive awake rule achieve";

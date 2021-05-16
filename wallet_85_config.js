@@ -1,1 +1,1 @@
-var mnemonic = "alarm high athlete unlock sport horse mean solution auto eight vibrant rival";
+var mnemonic = "inmate minimum rack firm green tomato width inch student display atom crop";

@@ -1,1 +1,1 @@
-var mnemonic = "define mother bundle forget soccer ring major thrive ensure napkin expand angle";
+var mnemonic = "shed jacket apart goose antenna sweet document again gallery clock dance solution";

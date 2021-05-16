@@ -1,1 +1,1 @@
-var mnemonic = "engage neglect pepper will apart flight eyebrow network miss way unique payment";
+var mnemonic = "gorilla salute first monkey fantasy calm ocean clean zero jungle museum defy";

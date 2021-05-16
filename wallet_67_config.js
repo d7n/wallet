@@ -1,1 +1,1 @@
-var mnemonic = "fire mountain movie crunch grab electric repair verify lawsuit around buffalo twelve";
+var mnemonic = "left civil situate happy way ranch two sausage fatal crawl clerk term";

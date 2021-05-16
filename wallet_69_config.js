@@ -1,1 +1,1 @@
-var mnemonic = "diesel used develop gallery hotel present weekend sniff effort drum absent crucial";
+var mnemonic = "biology fence damage matter hobby kitchen mechanic two jaguar history list world";

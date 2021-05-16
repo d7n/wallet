@@ -1,1 +1,1 @@
-var mnemonic = "face bonus bottom skill decline fly flight arena easy focus witness hard";
+var mnemonic = "antenna cry slogan adapt foster cushion police able dance concert direct story";

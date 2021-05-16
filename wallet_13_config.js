@@ -1,1 +1,1 @@
-var mnemonic = "consider crash rabbit flip keep survey aware romance health immune dial glass";
+var mnemonic = "print filter tumble diet journey insect pigeon very chronic offer script pulse";

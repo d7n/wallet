@@ -1,1 +1,1 @@
-var mnemonic = "rubber sand mass jealous potato youth reduce identify will answer acid dutch";
+var mnemonic = "blood verb athlete lady choose reveal mention decade flower whip fiber extend";

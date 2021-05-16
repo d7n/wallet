@@ -1,1 +1,1 @@
-var mnemonic = "tail easily smile inquiry wreck verify credit senior pony dolphin absurd quote";
+var mnemonic = "inmate present little allow bench polar man select skull main list cruise";

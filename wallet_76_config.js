@@ -1,1 +1,1 @@
-var mnemonic = "ride skirt robot umbrella tomato chef ready rough below name outside object";
+var mnemonic = "edit vacant way sponsor crater cabin hunt leisure differ response vague message";

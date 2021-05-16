@@ -1,1 +1,1 @@
-var mnemonic = "total story pilot device wedding sleep explain inch castle lonely start idle";
+var mnemonic = "young walk axis slam pattern decline mistake copy lift vacant angle ceiling";

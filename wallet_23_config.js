@@ -1,1 +1,1 @@
-var mnemonic = "twelve tone divert space weekend wealth gravity front wild motion gown odor";
+var mnemonic = "follow rose supreme wheel soda quiz federal come morning stereo olive kite";

@@ -1,1 +1,1 @@
-var mnemonic = "foot elegant old bronze what will junk control anxiety blame claw crouch";
+var mnemonic = "access custom athlete hammer result seat steak deputy beyond roof hundred boring";

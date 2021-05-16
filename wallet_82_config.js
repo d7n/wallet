@@ -1,1 +1,1 @@
-var mnemonic = "all useful margin animal hope crouch year together legend under abuse caution";
+var mnemonic = "trick spatial tuition various unveil chief elephant salute clever govern join insane";

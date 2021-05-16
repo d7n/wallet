@@ -1,1 +1,1 @@
-var mnemonic = "quantum raccoon food time echo kangaroo wish blush lobster despair coin food";
+var mnemonic = "coast utility mix attend arena scale cannon banner vote candy certain paper";

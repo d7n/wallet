@@ -1,1 +1,1 @@
-var mnemonic = "comic appear spell remember equal such walnut route pledge accident spoon trumpet";
+var mnemonic = "craft garment hope tragic rifle lumber marriage potato tunnel loan jacket dirt";

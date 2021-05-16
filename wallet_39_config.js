@@ -1,1 +1,1 @@
-var mnemonic = "where pottery submit human spell sweet mass high depth term impulse manage";
+var mnemonic = "cabin dentist magic main whip happy dance evoke amateur final then crew";

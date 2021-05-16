@@ -1,1 +1,1 @@
-var mnemonic = "mechanic indoor fetch initial case glass type seat question creek angry cliff";
+var mnemonic = "bubble bridge siren post during grass menu reform near spoon bubble lyrics";

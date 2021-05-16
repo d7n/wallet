@@ -1,1 +1,1 @@
-var mnemonic = "wood panther stable service anger brother bounce letter throw alcohol ketchup search";
+var mnemonic = "among soon basket echo learn early reveal lunch obtain canyon tag monkey";

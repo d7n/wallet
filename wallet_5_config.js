@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog start burst romance oblige inmate ask idea term nation lyrics best";
+var mnemonic = "put market camera unable fiscal couple toward adult seven lesson illegal spatial";

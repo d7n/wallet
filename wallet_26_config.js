@@ -1,1 +1,1 @@
-var mnemonic = "code submit maximum pioneer devote wide involve spike smoke spread outside position";
+var mnemonic = "club foot heart mansion comic shove lend taxi leave film reform advice";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo magnet clump umbrella always correct hockey whale seek ensure ecology when";
+var mnemonic = "trophy panther walnut question true tissue mirror expect arrest upset sad item";

@@ -1,1 +1,1 @@
-var mnemonic = "despair original alone hurt high suggest music small panther carpet room close";
+var mnemonic = "busy kite craft robust attack trim work future educate there dance vital";

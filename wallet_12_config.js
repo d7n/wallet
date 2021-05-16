@@ -1,1 +1,1 @@
-var mnemonic = "keep smart transfer faint entry pen remain source tenant cat exist much";
+var mnemonic = "tent stove heavy possible aunt devote theme aim shed slush hero follow";

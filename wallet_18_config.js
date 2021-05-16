@@ -1,1 +1,1 @@
-var mnemonic = "order sustain adjust vibrant speak supreme discover they state strong horse lyrics";
+var mnemonic = "morning bean hill erode answer media chat page doctor cave spoil charge";

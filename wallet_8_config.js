@@ -1,1 +1,1 @@
-var mnemonic = "minimum guitar panther second fan catch demise orange isolate once small cluster";
+var mnemonic = "crew grunt dash reflect ecology arrest ritual lizard disorder broken index decide";

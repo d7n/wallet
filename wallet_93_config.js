@@ -1,1 +1,1 @@
-var mnemonic = "course inquiry dream scrap pledge decline tip mammal wink neglect artefact offer";
+var mnemonic = "goose drastic feature seed dentist mix hair slim add wool deer smooth";

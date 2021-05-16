@@ -1,1 +1,1 @@
-var mnemonic = "maze brief outer comfort pudding barely thought flip expect trust filter devote";
+var mnemonic = "wrap dream hello only tennis fatal lottery suggest digital throw vault brick";

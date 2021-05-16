@@ -1,1 +1,1 @@
-var mnemonic = "inform legend film phone head ship verb brown canvas flower awake convince";
+var mnemonic = "save click relief intact anger situate switch flight thumb garlic normal pumpkin";

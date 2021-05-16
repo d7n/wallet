@@ -1,1 +1,1 @@
-var mnemonic = "vast sun profit spend fog fish quick mansion brief match vendor eagle";
+var mnemonic = "crucial head primary civil write pupil blush fancy execute soldier derive table";

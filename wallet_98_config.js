@@ -1,1 +1,1 @@
-var mnemonic = "noodle holiday buffalo simple feel ankle dinner unhappy leader air only brain";
+var mnemonic = "trap knee level trigger month tag brother divert typical rocket vivid fold";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler kiwi myth tennis rent battle chase arch cram vault drive glimpse";
+var mnemonic = "able world oppose table cliff tower flock tape warfare eyebrow mixed tooth";

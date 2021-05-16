@@ -1,1 +1,1 @@
-var mnemonic = "trust main ghost oblige stuff expose demise puppy neck inform horn nut";
+var mnemonic = "fade inmate aunt oval course defense kingdom amused prefer bag gym lake";

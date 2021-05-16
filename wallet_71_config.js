@@ -1,1 +1,1 @@
-var mnemonic = "dilemma opinion suggest mango swallow pass tiger key much property measure ride";
+var mnemonic = "hill obvious tourist wing keep coral demand answer jaguar bind dream arrow";

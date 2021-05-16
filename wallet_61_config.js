@@ -1,1 +1,1 @@
-var mnemonic = "puppy autumn image swear grain hammer manual duty until front icon now";
+var mnemonic = "have biology father rail rookie famous enrich vicious farm wire hole song";

@@ -1,1 +1,1 @@
-var mnemonic = "radio urban thought broom twin eight pride ecology divorce seed tray actress";
+var mnemonic = "hero sniff acoustic never wreck sock soup soccer human hope airport keen";

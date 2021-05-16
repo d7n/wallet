@@ -1,1 +1,1 @@
-var mnemonic = "test nominee volume speed client stadium quantum extend photo orphan visa awesome";
+var mnemonic = "involve ready wedding hotel asthma stomach salmon bridge tip whip inherit riot";

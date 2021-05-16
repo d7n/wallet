@@ -1,1 +1,1 @@
-var mnemonic = "friend ancient blush ball detail congress regret effort utility much high occur";
+var mnemonic = "water lemon disorder panda anchor avocado nose enter alcohol agent universe green";

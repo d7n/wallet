@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin tennis slice supply plunge muscle science mad panther borrow move minute";
+var mnemonic = "desert coyote party icon plunge try water build olympic argue profit hen";

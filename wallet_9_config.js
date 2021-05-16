@@ -1,1 +1,1 @@
-var mnemonic = "faculty potato shrimp attack yard detail bright february action exit fortune glance";
+var mnemonic = "convince umbrella cattle blur unable army liquid observe sea refuse family unfold";

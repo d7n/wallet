@@ -1,1 +1,1 @@
-var mnemonic = "always human wall spoon protect genuine mobile fame power material spare undo";
+var mnemonic = "coffee sun coral private trouble fiber damage sudden magic cargo onion farm";

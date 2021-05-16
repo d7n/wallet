@@ -1,1 +1,1 @@
-var mnemonic = "stuff wheat burst uncle fluid canyon recall cargo isolate myth whale royal";
+var mnemonic = "people tired sugar guess drink toe napkin random earth library witness level";

@@ -1,1 +1,1 @@
-var mnemonic = "pave attitude glow shift square twenty imitate diagram rescue invest group rent";
+var mnemonic = "shed dad winner ribbon special author cloud range want shy glow obscure";

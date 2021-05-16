@@ -1,1 +1,1 @@
-var mnemonic = "field interest rural siege public aware february alert sword never only shop";
+var mnemonic = "pyramid change consider girl easy album music install attract exile casual apart";

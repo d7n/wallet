@@ -1,1 +1,1 @@
-var mnemonic = "bike afford attack sadness hand vapor monitor decade nature forest catalog rack";
+var mnemonic = "crawl correct future rescue velvet permit resist section peanut laugh segment parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "all switch away produce gas slender crazy worry share diet script head";
+var mnemonic = "dragon gain sick wage foil almost soda until excuse crush trial junior";

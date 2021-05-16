@@ -1,1 +1,1 @@
-var mnemonic = "anger must sausage clerk pelican pretty write sight injury wrist aspect bus";
+var mnemonic = "silent toward neglect average unlock repeat frog bird symptom cook shrug weekend";

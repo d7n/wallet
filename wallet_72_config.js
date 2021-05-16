@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fever agree helmet hill nurse provide paddle cart denial kick tape";
+var mnemonic = "body relief salt ecology disease empty book govern height card siren denial";

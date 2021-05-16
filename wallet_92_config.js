@@ -1,1 +1,1 @@
-var mnemonic = "suggest life merry pen balcony door artist message acquire abuse salmon wet";
+var mnemonic = "grape weather recycle walnut sentence liar evoke cram affair orient twelve almost";

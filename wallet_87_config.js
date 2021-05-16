@@ -1,1 +1,1 @@
-var mnemonic = "gesture crucial over bicycle sweet bottom stem couple wheat weasel produce unknown";
+var mnemonic = "guilt goddess rigid pool gain photo obtain then icon jealous danger escape";

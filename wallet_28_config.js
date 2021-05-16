@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin bargain oil record twist pull post stone vessel direct more industry";
+var mnemonic = "glimpse excess buffalo fiber treat warfare island quiz dynamic lazy wear worth";

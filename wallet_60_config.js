@@ -1,1 +1,1 @@
-var mnemonic = "crash border strategy march sense cycle project style slab latin light floor";
+var mnemonic = "diamond child vendor engine minute anxiety path bronze toss escape dog pond";

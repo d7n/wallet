@@ -1,1 +1,1 @@
-var mnemonic = "member rib gap trouble rely whisper twelve yellow grab void prevent market";
+var mnemonic = "keep voice black system isolate ginger nice ride fork today embody version";

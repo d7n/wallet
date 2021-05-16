@@ -1,1 +1,1 @@
-var mnemonic = "weather gorilla skin birth video define ball tower switch glass nose tenant";
+var mnemonic = "helmet barely wild vacant merit alarm top wife vapor make raise prepare";

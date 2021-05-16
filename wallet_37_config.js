@@ -1,1 +1,1 @@
-var mnemonic = "piece twist upgrade demand hour mix party leave office movie unaware civil";
+var mnemonic = "absent catch sphere win worth impulse vanish thank advance curve clarify ill";

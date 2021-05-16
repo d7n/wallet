@@ -1,1 +1,1 @@
-var mnemonic = "ghost soft carry salute walk toss grace swarm truck anger nut dynamic";
+var mnemonic = "liberty fade emerge produce still dose attack uncover one link improve hub";

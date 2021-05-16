@@ -1,1 +1,1 @@
-var mnemonic = "shaft endorse woman fence young welcome youth season skirt income expect ordinary";
+var mnemonic = "twin orphan position pilot giraffe settle team jealous owner cost diet wisdom";

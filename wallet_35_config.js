@@ -1,1 +1,1 @@
-var mnemonic = "present rail hour potato never short toddler shrimp game kick method rely";
+var mnemonic = "assist stereo unfold balcony demand raise conduct eye member success lazy beef";

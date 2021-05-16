@@ -1,1 +1,1 @@
-var mnemonic = "cause reopen stand skin sure update rough limit ketchup cousin huge unusual";
+var mnemonic = "huge ski cheap supreme goddess salt smart large receive outer until strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant brick double brain lemon between random skill pigeon ecology opinion gravity";
+var mnemonic = "erupt scheme topic guitar rose inflict pluck tourist tumble ethics begin base";

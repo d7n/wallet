@@ -1,1 +1,1 @@
-var mnemonic = "couch dawn tired pledge ridge walk place oppose uncle spell width usual";
+var mnemonic = "rotate hawk flame sausage dragon cigar stamp project icon burden response consider";

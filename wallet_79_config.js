@@ -1,1 +1,1 @@
-var mnemonic = "achieve dream current caution knee concert typical nest truly unveil web dose";
+var mnemonic = "slush minute head cereal run valve ordinary thank gift front adult upgrade";

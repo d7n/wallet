@@ -1,1 +1,1 @@
-var mnemonic = "talent lamp desk rose title rebuild vocal lottery surround blind collect annual";
+var mnemonic = "fox alley velvet fall grant grab foam dilemma friend equal ill frown";

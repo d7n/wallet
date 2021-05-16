@@ -1,1 +1,1 @@
-var mnemonic = "razor angle cattle like scare police ill brisk glass room leisure miracle";
+var mnemonic = "lecture message math grace wide trick slab around object dance junk jealous";

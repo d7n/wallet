@@ -1,1 +1,1 @@
-var mnemonic = "special trade flash grocery proud brass sphere trend increase oxygen romance clown";
+var mnemonic = "wing popular typical avocado limb borrow join party vague burger stomach month";

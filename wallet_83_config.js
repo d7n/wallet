@@ -1,1 +1,1 @@
-var mnemonic = "usual soup jelly apple sight benefit actor mean menu toast melt inhale";
+var mnemonic = "kitchen ladder dog connect deer bitter item rose slam poet turn vehicle";

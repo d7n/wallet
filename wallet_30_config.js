@@ -1,1 +1,1 @@
-var mnemonic = "fine during happy wrist auto apple fruit amazing antenna surprise proud catalog";
+var mnemonic = "ridge type surprise frown cliff hero regular situate sponsor mind useless mushroom";

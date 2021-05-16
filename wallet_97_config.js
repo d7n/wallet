@@ -1,1 +1,1 @@
-var mnemonic = "mesh maid tragic month output casino peace frost fashion raw copper rather";
+var mnemonic = "real box crush radar into burden apart layer ceiling hobby bean bench";

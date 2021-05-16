@@ -1,1 +1,1 @@
-var mnemonic = "ripple puppy easily pig cannon similar leader dune coach accident music ostrich";
+var mnemonic = "invite solar actress raw weird edit zebra atom planet apart cinnamon split";

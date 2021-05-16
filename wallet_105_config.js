@@ -1,1 +1,1 @@
-var mnemonic = "age photo spatial olive smile enemy great fat flavor error believe brush";
+var mnemonic = "case tissue multiply congress level anxiety drama august segment clarify royal aisle";

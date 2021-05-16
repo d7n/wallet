@@ -1,1 +1,1 @@
-var mnemonic = "prevent trouble act cousin mother daring cotton because silly various alone maple";
+var mnemonic = "whisper soda slam apart mammal hard hover object deputy fit sibling cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer cargo velvet session forget coral concert swift essay sketch bar negative";
+var mnemonic = "island rabbit maid absurd daring loyal insane drink spend script panel act";

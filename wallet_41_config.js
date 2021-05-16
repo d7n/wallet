@@ -1,1 +1,1 @@
-var mnemonic = "area mosquito drive chat peanut pave evoke cinnamon alter crop sustain sorry";
+var mnemonic = "vote load thought orphan place tip path mad drift provide erupt neutral";

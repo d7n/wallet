@@ -1,1 +1,1 @@
-var mnemonic = "oyster audit awkward female sword guide fabric taste keen bubble staff crater";
+var mnemonic = "fiction shy main coin foot rather trigger frog shop vessel slogan chronic";

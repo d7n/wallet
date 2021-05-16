@@ -1,1 +1,1 @@
-var mnemonic = "valley cream hurry please limit equip two increase crew knife man brief";
+var mnemonic = "hold armor light gather walk matter celery coconut rose cherry burden era";

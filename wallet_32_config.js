@@ -1,1 +1,1 @@
-var mnemonic = "badge wine spawn shuffle brief fire cotton gap nominee flat dentist side";
+var mnemonic = "evidence hammer offer business tree hurry mesh swift emotion force winner range";

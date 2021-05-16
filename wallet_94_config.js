@@ -1,1 +1,1 @@
-var mnemonic = "oppose kite setup punch virtual wave elegant answer choice nice must cave";
+var mnemonic = "armed rookie enemy mention simple design speed ceiling often dash aerobic fun";

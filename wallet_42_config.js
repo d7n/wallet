@@ -1,1 +1,1 @@
-var mnemonic = "wink obtain cause fade palace celery harsh rifle history kick escape best";
+var mnemonic = "much erode crawl shield erupt square permit champion mystery home vessel pistol";

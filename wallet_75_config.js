@@ -1,1 +1,1 @@
-var mnemonic = "before mixture rifle stem weird develop scare surprise home twice distance main";
+var mnemonic = "intact deal flame hope initial smile height mimic tennis sail orphan monitor";

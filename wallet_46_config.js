@@ -1,1 +1,1 @@
-var mnemonic = "start time crucial panel liberty rate recall picture pyramid letter limb donkey";
+var mnemonic = "win river swear index shell remain primary leopard blame garment position reject";

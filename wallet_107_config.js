@@ -1,1 +1,1 @@
-var mnemonic = "spice system fatigue expose grant soft emerge fault scan romance famous coffee";
+var mnemonic = "wrist expire candy novel eternal sniff midnight receive chapter rival wild paddle";

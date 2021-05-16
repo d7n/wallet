@@ -1,1 +1,1 @@
-var mnemonic = "fatigue valley tool journey enroll timber twelve fortune shiver gaze now vehicle";
+var mnemonic = "attend chase cherry figure twist middle creek peace portion worth negative hire";

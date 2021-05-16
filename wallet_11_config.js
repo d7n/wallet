@@ -1,1 +1,1 @@
-var mnemonic = "decline goat dwarf actor alley lens trash decrease vital now athlete cargo";
+var mnemonic = "security narrow nominee act cotton cram render marriage sweet shift alter oyster";

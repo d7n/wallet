@@ -1,1 +1,1 @@
-var mnemonic = "outdoor hospital fiction click blame try humble sketch awkward craft exist snack";
+var mnemonic = "wrist damp tackle globe speed tourist enhance penalty crew enroll whisper aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "cart beach clean rice that shoot obvious also couple never tooth blouse";
+var mnemonic = "excess bus soccer saddle parent melt earn judge juice victory spray security";

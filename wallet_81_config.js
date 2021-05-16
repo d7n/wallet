@@ -1,1 +1,1 @@
-var mnemonic = "combine catch online nature siege punch census early again nerve nose convince";
+var mnemonic = "corn raccoon wood glare news eternal alien install estate rug north sudden";

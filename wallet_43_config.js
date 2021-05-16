@@ -1,1 +1,1 @@
-var mnemonic = "clinic chair wall club shock venue noodle file sleep village lobster empty";
+var mnemonic = "copy good foam response rain source spider recall wheat tourist depart allow";

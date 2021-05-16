@@ -1,1 +1,1 @@
-var mnemonic = "royal awesome candy rabbit assist manage cloud ready caution sunny taxi dream";
+var mnemonic = "toast long stage elite disagree audit lunch crunch hub sad street glory";
