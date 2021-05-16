@@ -1,1 +1,1 @@
-var mnemonic = "drum can visual brush rare young that choose badge print gym cycle";
+var mnemonic = "special chaos upset barrel exile forget sense throw bike again enemy office";

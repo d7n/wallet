@@ -1,1 +1,1 @@
-var mnemonic = "virtual dial trick door jealous portion that away found casual mystery honey";
+var mnemonic = "guitar must ship tell arrange firm unique pony bench skill dolphin embark";

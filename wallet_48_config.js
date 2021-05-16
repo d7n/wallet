@@ -1,1 +1,1 @@
-var mnemonic = "fog alert tackle twist immune aspect wrap close cricket embody craft usual";
+var mnemonic = "spoil clip dry alpha imitate oval motor happy leg fix clinic slogan";

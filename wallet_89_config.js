@@ -1,1 +1,1 @@
-var mnemonic = "amazing return illegal reason hockey sail various forward private guide prison gospel";
+var mnemonic = "demise citizen purchase card grant episode media taxi clean wrist math couch";

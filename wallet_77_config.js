@@ -1,1 +1,1 @@
-var mnemonic = "turkey ripple wild stage upon walk decline lava race enlist target help";
+var mnemonic = "mean hard invest song dish never joke begin better gallery throw little";

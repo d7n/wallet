@@ -1,1 +1,1 @@
-var mnemonic = "private galaxy year order female hover melt unable teach design harbor ranch";
+var mnemonic = "drill reunion stick cradle either fun city adult found actress animal stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "find plate work soccer monitor edge napkin million crime celery brave eyebrow";
+var mnemonic = "pole soccer main good ride invest must replace render unit exercise cliff";

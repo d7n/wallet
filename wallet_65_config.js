@@ -1,1 +1,1 @@
-var mnemonic = "kick tornado argue image future body pizza essay force sister impulse pride";
+var mnemonic = "depend leg great soup fuel fancy render truly hat work enough glad";

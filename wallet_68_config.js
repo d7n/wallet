@@ -1,1 +1,1 @@
-var mnemonic = "lesson nice shallow cluster build still extend rifle fossil kind invest forum";
+var mnemonic = "access brisk sting mind absorb true siren until faculty surge copper endorse";

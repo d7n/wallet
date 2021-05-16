@@ -1,1 +1,1 @@
-var mnemonic = "meadow unlock adult lamp fragile pave master carry gain gas valve birth";
+var mnemonic = "enrich sweet melody extend later month endorse case doctor sell boat level";

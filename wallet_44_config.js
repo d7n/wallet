@@ -1,1 +1,1 @@
-var mnemonic = "novel clown art source rough security average buzz lawn swift diary filter";
+var mnemonic = "increase cover gasp service rather roof vendor sea chuckle waste disagree empty";

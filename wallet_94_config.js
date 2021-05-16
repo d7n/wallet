@@ -1,1 +1,1 @@
-var mnemonic = "fitness spray author bulb height arrest distance opera artwork reveal rude monster";
+var mnemonic = "piece marriage fossil forest pole jaguar success cattle quality issue super burst";

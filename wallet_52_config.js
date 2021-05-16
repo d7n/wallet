@@ -1,1 +1,1 @@
-var mnemonic = "believe hotel used lecture win profit jeans doctor noodle crash coach bird";
+var mnemonic = "team scrap major cheese flower juice blind beauty shaft warm social road";

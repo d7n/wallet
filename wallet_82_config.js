@@ -1,1 +1,1 @@
-var mnemonic = "muffin bottom verb pink describe wet note goose caught bronze vague expose";
+var mnemonic = "top gossip goat approve young sausage blue month worry debris win pause";

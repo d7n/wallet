@@ -1,1 +1,1 @@
-var mnemonic = "plate salmon leaf cereal over public swarm dynamic toddler decorate vocal spirit";
+var mnemonic = "reform rhythm wish swear offer will goose wrong ability clown dice bean";

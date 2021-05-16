@@ -1,1 +1,1 @@
-var mnemonic = "genuine unlock nice already stomach item hazard biology avoid concert wheat arctic";
+var mnemonic = "vital vacuum alter wolf truck dinosaur theme lounge unhappy hurdle blouse rain";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap chase more tourist cargo annual front cricket hollow slender used seed";
+var mnemonic = "glimpse sure mechanic mad whale hazard truly pig avoid agent refuse aim";

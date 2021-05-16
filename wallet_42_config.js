@@ -1,1 +1,1 @@
-var mnemonic = "kid lawsuit alert shift bird minute manual glare diary sock potato wall";
+var mnemonic = "involve improve famous resource wave awake broccoli used army curious wire arrange";

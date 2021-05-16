@@ -1,1 +1,1 @@
-var mnemonic = "mad season demise long crack core camera update enforce rare wool review";
+var mnemonic = "foam front script stuff reveal toe depend east swear minute this end";

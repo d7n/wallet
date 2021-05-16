@@ -1,1 +1,1 @@
-var mnemonic = "kiss wrap surprise impact rough course usual bring able love evidence silver";
+var mnemonic = "hammer cruise cable teach twelve juice arrange voyage monster hood fork leopard";

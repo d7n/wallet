@@ -1,1 +1,1 @@
-var mnemonic = "spawn share honey account physical foil pistol grief depend table decade return";
+var mnemonic = "young usage scan dilemma wash elder post expire coral used cannon zoo";

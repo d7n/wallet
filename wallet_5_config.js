@@ -1,1 +1,1 @@
-var mnemonic = "party glide autumn chicken hurt tide dash across nuclear divide honey gloom";
+var mnemonic = "doctor monitor category useless neck detail book clip velvet fever illegal train";

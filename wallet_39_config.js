@@ -1,1 +1,1 @@
-var mnemonic = "drum hurdle near vendor around era honey lady album antique water unhappy";
+var mnemonic = "cotton squirrel pool reduce process coin demise cool debate dynamic host powder";

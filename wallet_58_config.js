@@ -1,1 +1,1 @@
-var mnemonic = "praise render snap inmate roof okay obtain expose dutch day common van";
+var mnemonic = "sign blast dragon anxiety unique grief auction kit forward room ticket chief";

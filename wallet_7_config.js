@@ -1,1 +1,1 @@
-var mnemonic = "label umbrella aerobic situate fresh list fiction shallow crater calm hood insane";
+var mnemonic = "prefer glide reduce lens chase faculty guide planet smooth exit purse update";

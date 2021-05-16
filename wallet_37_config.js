@@ -1,1 +1,1 @@
-var mnemonic = "food talent couch pride quit enhance wife company clay sleep hobby rude";
+var mnemonic = "summer twelve glory window sorry valid fortune reduce history mail table brisk";

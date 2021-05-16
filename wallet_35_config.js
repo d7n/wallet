@@ -1,1 +1,1 @@
-var mnemonic = "inherit copy inherit behave clip virus coin upset cage logic animal august";
+var mnemonic = "search strong hunt avoid salad depth excess wheel vivid erupt plunge tilt";

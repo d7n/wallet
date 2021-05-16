@@ -1,1 +1,1 @@
-var mnemonic = "box clinic civil gospel upset sand crunch twist right bright nasty exhaust";
+var mnemonic = "dragon ethics pudding chicken nut crouch sting square depart key happy gloom";

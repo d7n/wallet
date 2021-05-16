@@ -1,1 +1,1 @@
-var mnemonic = "consider hub leave foam vast moral prosper student imitate copy clinic bottom";
+var mnemonic = "crack initial bonus cricket material subway any employ butter mosquito series vibrant";

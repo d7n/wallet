@@ -1,1 +1,1 @@
-var mnemonic = "receive return soup desk initial animal cactus mouse pear purity equip damage";
+var mnemonic = "ticket twist trade click metal spend height pride moment humble early end";

@@ -1,1 +1,1 @@
-var mnemonic = "goose split whale radio rapid skin exit access arctic impact rebel manage";
+var mnemonic = "fit fury great lesson long original burst chair drink harvest inside august";

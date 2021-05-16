@@ -1,1 +1,1 @@
-var mnemonic = "portion vintage panic hold hole pole welcome return acoustic clerk suspect street";
+var mnemonic = "crouch scheme practice addict friend eye deliver family aunt hood finish glance";

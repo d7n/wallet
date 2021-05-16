@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wrist drip toss moral real hold rude ethics fossil rent funny";
+var mnemonic = "cannon federal hello idea voyage garage point guide garbage sick radar diesel";

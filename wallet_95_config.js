@@ -1,1 +1,1 @@
-var mnemonic = "lab field dad zebra spot arrive sea token basic subway edge valid";
+var mnemonic = "quit flash bone seat reunion typical hurry dizzy achieve donkey satisfy style";

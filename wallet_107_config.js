@@ -1,1 +1,1 @@
-var mnemonic = "cycle hard ability frown dirt crack nominee pelican dignity scale exhibit observe";
+var mnemonic = "swift derive enemy minimum voice text city leg wasp false satisfy edit";

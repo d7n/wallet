@@ -1,1 +1,1 @@
-var mnemonic = "bag fall ostrich document easily web error else lab nerve crouch devote";
+var mnemonic = "stamp trip dress turn bicycle vintage transfer stadium sign sentence civil pumpkin";

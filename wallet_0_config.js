@@ -1,1 +1,1 @@
-var mnemonic = "need uncover hole right sniff proof common clutch arrive fame gauge wing";
+var mnemonic = "art actual friend water vintage cute horn behave payment ritual quality cube";

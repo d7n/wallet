@@ -1,1 +1,1 @@
-var mnemonic = "large era peasant crystal planet razor hint random exotic eager pottery nothing";
+var mnemonic = "early join indicate whip resemble chat bunker upper super apology ladder hurdle";

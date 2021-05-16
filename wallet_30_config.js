@@ -1,1 +1,1 @@
-var mnemonic = "reform jazz baby zone letter curtain flash swallow print february furnace orchard";
+var mnemonic = "acid tray suspect blade dragon stamp ordinary urban end honey leg venture";

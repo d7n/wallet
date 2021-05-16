@@ -1,1 +1,1 @@
-var mnemonic = "first trash rebel mechanic bracket dance lazy captain cram still fruit glow";
+var mnemonic = "verb since alert shy icon surprise razor method slam flavor outdoor assist";

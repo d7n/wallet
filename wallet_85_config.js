@@ -1,1 +1,1 @@
-var mnemonic = "appear retreat fitness cliff nuclear sell arm rally core raven grit fork";
+var mnemonic = "develop copper orphan walk lawsuit about width dial jelly opera jaguar scorpion";

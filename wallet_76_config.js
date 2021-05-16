@@ -1,1 +1,1 @@
-var mnemonic = "assume loan meadow cross oyster goose country love pattern ridge avocado sentence";
+var mnemonic = "rocket thrive energy child you help minimum calm vehicle early fantasy scare";

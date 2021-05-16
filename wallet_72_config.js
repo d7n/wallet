@@ -1,1 +1,1 @@
-var mnemonic = "disease spoon loyal filter surround liquid loud fiscal today park video slight";
+var mnemonic = "innocent off service humor idea amount cabin lecture february where pig local";

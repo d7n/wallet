@@ -1,1 +1,1 @@
-var mnemonic = "morning category immune category various ostrich fury current ranch hole help spend";
+var mnemonic = "slim achieve orphan faculty kid accident tonight steel menu host canal drink";

@@ -1,1 +1,1 @@
-var mnemonic = "debate thrive lion afraid flame merry humor wave lottery laugh culture utility";
+var mnemonic = "brisk change top water choose hedgehog immune lunar silver inflict cruise journey";

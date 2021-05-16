@@ -1,1 +1,1 @@
-var mnemonic = "dilemma program kingdom group strategy lounge lunch loyal crazy tortoise siege equal";
+var mnemonic = "parrot neither describe old sorry novel witness admit resemble stadium spin hood";

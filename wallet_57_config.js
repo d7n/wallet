@@ -1,1 +1,1 @@
-var mnemonic = "slide margin alpha clip evidence sand miracle arctic anger climb scene jaguar";
+var mnemonic = "scout initial novel discover tomato rose rural cross female peace tomorrow hawk";

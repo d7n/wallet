@@ -1,1 +1,1 @@
-var mnemonic = "tone result tumble shock kitten put clerk buyer sense hurry diesel shuffle";
+var mnemonic = "garbage confirm glide shop renew attract review undo movie video job fix";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur ski skirt olive bean online warrior ticket search document rotate ostrich";
+var mnemonic = "fresh alley pigeon cram shed minimum jewel reject zoo under point broken";

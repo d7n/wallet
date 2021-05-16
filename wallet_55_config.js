@@ -1,1 +1,1 @@
-var mnemonic = "cup voice dutch marine swamp silly warrior ranch before muffin style radio";
+var mnemonic = "consider bean help carpet over humble bridge speed dinosaur world follow page";

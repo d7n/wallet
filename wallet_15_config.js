@@ -1,1 +1,1 @@
-var mnemonic = "faculty cotton amazing cause female media often all cannon caution control pencil";
+var mnemonic = "umbrella skill will theory message wage draft scare diary defense leopard alcohol";

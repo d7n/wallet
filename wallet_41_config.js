@@ -1,1 +1,1 @@
-var mnemonic = "increase trial mechanic judge drink neither sweet struggle prosper comfort pass chunk";
+var mnemonic = "march must explain across person dream health sound cabbage census cube grid";

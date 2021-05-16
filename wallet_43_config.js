@@ -1,1 +1,1 @@
-var mnemonic = "dial people hollow hundred slender color media enough fine era raise season";
+var mnemonic = "rely quick cheap test write ordinary obvious help curtain point comic walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet energy adapt chalk lend dragon crumble ladder venture hover just earth";
+var mnemonic = "certain reunion trigger perfect razor diary marble renew fancy vast congress cart";

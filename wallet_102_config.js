@@ -1,1 +1,1 @@
-var mnemonic = "photo artist disorder poverty nurse true extra excess dish industry vicious man";
+var mnemonic = "company denial trade gorilla guitar brisk ghost mercy now vapor razor ski";

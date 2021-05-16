@@ -1,1 +1,1 @@
-var mnemonic = "print length coil gentle evoke into pistol scrub oven cycle spider mad";
+var mnemonic = "provide tobacco smile drink cliff pioneer clump identify twice practice quote habit";

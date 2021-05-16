@@ -1,1 +1,1 @@
-var mnemonic = "prefer actor nut parade gallery year juice umbrella exist adjust earn perfect";
+var mnemonic = "isolate blouse gas misery sweet man tower mirror mouse forest romance dress";

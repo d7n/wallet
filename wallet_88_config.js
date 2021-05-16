@@ -1,1 +1,1 @@
-var mnemonic = "misery lamp keen catch jeans legend east question obtain toward kiwi upon";
+var mnemonic = "repair bounce jacket relief then song skate domain orange bread cigar measure";

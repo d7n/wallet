@@ -1,1 +1,1 @@
-var mnemonic = "loan crop maximum brush soldier paper permit monitor average rubber possible size";
+var mnemonic = "mixture stock move habit coach hair diagram crash dragon rapid off start";

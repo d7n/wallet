@@ -1,1 +1,1 @@
-var mnemonic = "destroy aisle help genuine wolf twenty ribbon chief vault smoke image rain";
+var mnemonic = "assault zebra toe capital warm breeze uncle ability wedding plate current echo";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy repair depart age foil virus pistol feed okay scrub bitter pizza";
+var mnemonic = "toast cake unlock lottery worth victory ring grant frequent way forum tower";

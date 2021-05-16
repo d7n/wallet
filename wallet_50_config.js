@@ -1,1 +1,1 @@
-var mnemonic = "shock empower night dutch dolphin spell affair cheap sunset afford aerobic pond";
+var mnemonic = "bracket deliver rail dry fix wet elder device lend same crime cushion";

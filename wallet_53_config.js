@@ -1,1 +1,1 @@
-var mnemonic = "embrace feed planet keep bronze cargo elbow slender future box spin cream";
+var mnemonic = "glow expose push umbrella hospital private usual deliver color collect father deal";

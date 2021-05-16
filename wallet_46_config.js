@@ -1,1 +1,1 @@
-var mnemonic = "unveil cage royal weather bargain drill panel case letter travel way medal";
+var mnemonic = "raven behind detail exchange pumpkin laptop entire bomb random light luggage short";

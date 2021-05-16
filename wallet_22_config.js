@@ -1,1 +1,1 @@
-var mnemonic = "crunch stand together book pencil banner swamp wise brush ivory false mango";
+var mnemonic = "divorce alpha speak arrest rocket stamp flip always walnut comic team core";

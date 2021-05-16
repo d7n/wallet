@@ -1,1 +1,1 @@
-var mnemonic = "tenant whale push myself obtain people fossil zoo barely race then thought";
+var mnemonic = "tree state foster oval number disagree base water wrestle shield inquiry silent";

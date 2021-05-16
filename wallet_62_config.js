@@ -1,1 +1,1 @@
-var mnemonic = "sugar reopen sense tip teach catch humor wood blood dress world lunch";
+var mnemonic = "grief faint account series gold duty finish unfair own build toss enable";

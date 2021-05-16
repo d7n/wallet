@@ -1,1 +1,1 @@
-var mnemonic = "plug lab common sure spatial diagram cheese meat budget legend hungry boat";
+var mnemonic = "hero virus choose talent senior original flag tomato inject spike walnut salad";

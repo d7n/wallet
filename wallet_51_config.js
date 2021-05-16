@@ -1,1 +1,1 @@
-var mnemonic = "shift youth october drill inside level midnight method home thumb door end";
+var mnemonic = "exile since april solid oven curve popular digital cause title ankle twist";

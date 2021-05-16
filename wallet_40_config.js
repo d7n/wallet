@@ -1,1 +1,1 @@
-var mnemonic = "across sword picture pioneer holiday spy laundry group small join multiply slight";
+var mnemonic = "present air crouch carry must decade olive observe imitate perfect extend balance";

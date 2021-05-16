@@ -1,1 +1,1 @@
-var mnemonic = "lizard royal picture nest hidden coil gift wide person fever century tumble";
+var mnemonic = "bench world industry climb planet drop target elder afford perfect convince middle";

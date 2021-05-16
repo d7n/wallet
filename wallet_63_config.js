@@ -1,1 +1,1 @@
-var mnemonic = "ketchup mind arrive employ remove hill artist short left step movie churn";
+var mnemonic = "endless danger oblige library edge element walk reveal immense lunch differ pigeon";

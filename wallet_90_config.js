@@ -1,1 +1,1 @@
-var mnemonic = "element buddy climb chronic romance oxygen flip exist battle jewel cake poet";
+var mnemonic = "pitch draft genius hundred common holiday crunch elite accuse entire steel over";

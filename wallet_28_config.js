@@ -1,1 +1,1 @@
-var mnemonic = "weasel thought offer thrive rude negative train mystery truth demise core acid";
+var mnemonic = "invite destroy spoon today craft cigar daring stable arm large this raccoon";

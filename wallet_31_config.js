@@ -1,1 +1,1 @@
-var mnemonic = "engine humor icon push pistol alone trumpet settle toss jelly feed gas";
+var mnemonic = "hurdle broccoli noise neutral vast barrel river weekend ritual blast island parade";

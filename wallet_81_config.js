@@ -1,1 +1,1 @@
-var mnemonic = "tribe engage valve pole snake topple inform height monitor peace because armed";
+var mnemonic = "enlist manage trust note drip badge fruit vanish scene already sphere party";

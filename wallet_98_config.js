@@ -1,1 +1,1 @@
-var mnemonic = "pledge syrup year silent door wagon muffin ugly gadget boy alert offer";
+var mnemonic = "chimney express bean club among average crumble equal aim memory arena mirror";

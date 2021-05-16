@@ -1,1 +1,1 @@
-var mnemonic = "reject cancel dumb stock diary clog shallow truck artefact sister leopard ugly";
+var mnemonic = "damp rally bridge amateur decrease victory cycle ahead ribbon sudden absurd purity";

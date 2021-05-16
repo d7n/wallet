@@ -1,1 +1,1 @@
-var mnemonic = "ball total wool nominee marble extra taxi need humble erase inner help";
+var mnemonic = "hill phrase inquiry rack close injury uncover party merge height cage device";

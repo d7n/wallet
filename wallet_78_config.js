@@ -1,1 +1,1 @@
-var mnemonic = "series share coyote combine desert dial must print pill giggle yellow catalog";
+var mnemonic = "dirt shadow crime tribe tuna close process lab story magic cement clump";

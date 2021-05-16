@@ -1,1 +1,1 @@
-var mnemonic = "alone awake minor age favorite tongue age spoil you kidney device predict";
+var mnemonic = "detect music stay clock large buffalo crack noble acquire advance move boat";

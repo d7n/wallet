@@ -1,1 +1,1 @@
-var mnemonic = "sadness same hover plug gasp mosquito metal print attend outside thumb bacon";
+var mnemonic = "coyote know inform crowd again toe lemon garage diet guilt mouse ball";

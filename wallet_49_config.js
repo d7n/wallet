@@ -1,1 +1,1 @@
-var mnemonic = "urge muscle fresh update sell artwork hole sell country foster sight snow";
+var mnemonic = "lawn tilt pretty horse tube crumble response lava taste ahead quick industry";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect sustain jungle dice quarter actual hurry run nature mean arrow penalty";
+var mnemonic = "trash bag believe client differ disorder asset adjust solar aerobic ribbon daring";

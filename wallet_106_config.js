@@ -1,1 +1,1 @@
-var mnemonic = "cake flower time turtle include define kiss satoshi spring explain voice walk";
+var mnemonic = "february expand winner winner shine person bid husband together hunt shop ripple";

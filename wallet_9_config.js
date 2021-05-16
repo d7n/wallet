@@ -1,1 +1,1 @@
-var mnemonic = "junior huge fence purse company effort suffer tree judge wave erupt present";
+var mnemonic = "license wagon bitter cargo dream tourist first renew effort medal wave strike";
