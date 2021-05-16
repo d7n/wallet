@@ -1,1 +1,1 @@
-var mnemonic = "island rabbit maid absurd daring loyal insane drink spend script panel act";
+var mnemonic = "pumpkin satoshi despair sun priority inject improve fall random essence junk toe";

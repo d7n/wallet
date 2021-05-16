@@ -1,1 +1,1 @@
-var mnemonic = "much erode crawl shield erupt square permit champion mystery home vessel pistol";
+var mnemonic = "weird coffee ankle alpha nerve saddle recycle mobile inform cricket physical kit";

@@ -1,1 +1,1 @@
-var mnemonic = "biology fence damage matter hobby kitchen mechanic two jaguar history list world";
+var mnemonic = "pitch couch olympic finger radar exotic horn chapter round course stove grief";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge type surprise frown cliff hero regular situate sponsor mind useless mushroom";
+var mnemonic = "joy voice shiver imitate slot bike glare verb pave swing turn shrug";

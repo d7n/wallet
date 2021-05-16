@@ -1,1 +1,1 @@
-var mnemonic = "cabin dentist magic main whip happy dance evoke amateur final then crew";
+var mnemonic = "brand dad major void start ritual actress answer enemy chronic emerge van";

@@ -1,1 +1,1 @@
-var mnemonic = "able world oppose table cliff tower flock tape warfare eyebrow mixed tooth";
+var mnemonic = "charge change rate connect toddler useless cute obvious iron neutral remember rifle";

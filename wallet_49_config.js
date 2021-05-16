@@ -1,1 +1,1 @@
-var mnemonic = "people tired sugar guess drink toe napkin random earth library witness level";
+var mnemonic = "print nose day unable upon envelope buffalo master tribe garden easy love";

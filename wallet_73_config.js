@@ -1,1 +1,1 @@
-var mnemonic = "blood verb athlete lady choose reveal mention decade flower whip fiber extend";
+var mnemonic = "boil interest riot patrol hill become hamster wonder company lake coconut arch";

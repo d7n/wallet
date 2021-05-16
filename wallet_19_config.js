@@ -1,1 +1,1 @@
-var mnemonic = "bubble bridge siren post during grass menu reform near spoon bubble lyrics";
+var mnemonic = "venture tired electric crime draft south rally ship scene clown kiss fat";

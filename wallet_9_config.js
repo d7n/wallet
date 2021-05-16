@@ -1,1 +1,1 @@
-var mnemonic = "convince umbrella cattle blur unable army liquid observe sea refuse family unfold";
+var mnemonic = "forest trophy body grass method machine proof fame mountain purchase mask jump";

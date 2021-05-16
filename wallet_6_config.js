@@ -1,1 +1,1 @@
-var mnemonic = "sausage evolve snap modify april cruise worth devote autumn bench wage bar";
+var mnemonic = "shuffle nasty tent fine author despair garden strong devote pause path convince";

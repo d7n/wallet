@@ -1,1 +1,1 @@
-var mnemonic = "civil clarify need arrow absorb differ melody brown diesel harbor fire filter";
+var mnemonic = "word glide danger unaware shop flame grant dismiss supreme relief stool then";

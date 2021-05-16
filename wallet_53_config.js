@@ -1,1 +1,1 @@
-var mnemonic = "speed worth two board sustain donate timber soap belt bonus letter canoe";
+var mnemonic = "normal stadium venue fabric mushroom blush exit glance dynamic kiss burden happy";

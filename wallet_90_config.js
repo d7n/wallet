@@ -1,1 +1,1 @@
-var mnemonic = "hold armor light gather walk matter celery coconut rose cherry burden era";
+var mnemonic = "daughter donkey share festival buzz few ripple there valid host chair future";

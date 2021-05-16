@@ -1,1 +1,1 @@
-var mnemonic = "excess bus soccer saddle parent melt earn judge juice victory spray security";
+var mnemonic = "hard scatter envelope around toast food buddy zoo obscure client purse hand";

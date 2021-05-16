@@ -1,1 +1,1 @@
-var mnemonic = "wrist damp tackle globe speed tourist enhance penalty crew enroll whisper aisle";
+var mnemonic = "tired news private damp analyst farm yard mule ozone hair position addict";

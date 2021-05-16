@@ -1,1 +1,1 @@
-var mnemonic = "trick spatial tuition various unveil chief elephant salute clever govern join insane";
+var mnemonic = "rival smile arrow drip spirit scale found nature critic solid inch erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "crew grunt dash reflect ecology arrest ritual lizard disorder broken index decide";
+var mnemonic = "amount year flight immune ribbon document carry detect later outer kitchen thrive";

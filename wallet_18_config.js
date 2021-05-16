@@ -1,1 +1,1 @@
-var mnemonic = "morning bean hill erode answer media chat page doctor cave spoil charge";
+var mnemonic = "plastic crash soon indicate fence bar reveal brand antique trophy tube exhaust";

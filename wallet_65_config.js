@@ -1,1 +1,1 @@
-var mnemonic = "shed jacket apart goose antenna sweet document again gallery clock dance solution";
+var mnemonic = "push must spoil sphere feature venture enhance nice name circle card message";

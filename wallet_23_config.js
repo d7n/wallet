@@ -1,1 +1,1 @@
-var mnemonic = "follow rose supreme wheel soda quiz federal come morning stereo olive kite";
+var mnemonic = "festival ensure idle pizza health pluck usual rural document idle cute other";

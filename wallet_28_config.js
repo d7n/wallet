@@ -1,1 +1,1 @@
-var mnemonic = "glimpse excess buffalo fiber treat warfare island quiz dynamic lazy wear worth";
+var mnemonic = "cruel fragile cruel inherit pumpkin frozen chronic tribe river blur wife captain";

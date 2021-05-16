@@ -1,1 +1,1 @@
-var mnemonic = "access custom athlete hammer result seat steak deputy beyond roof hundred boring";
+var mnemonic = "bamboo lottery embrace mean ahead quit afraid grace toss trumpet wage lake";

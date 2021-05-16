@@ -1,1 +1,1 @@
-var mnemonic = "trap knee level trigger month tag brother divert typical rocket vivid fold";
+var mnemonic = "oil critic harsh lyrics cheap focus vicious early desert canal oppose pioneer";

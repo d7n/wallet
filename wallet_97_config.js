@@ -1,1 +1,1 @@
-var mnemonic = "real box crush radar into burden apart layer ceiling hobby bean bench";
+var mnemonic = "false wall swift return poem draft large end tip mass zero vacant";

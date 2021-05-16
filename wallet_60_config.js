@@ -1,1 +1,1 @@
-var mnemonic = "diamond child vendor engine minute anxiety path bronze toss escape dog pond";
+var mnemonic = "sport stairs tip solar room adult jealous amused catalog deny input boil";

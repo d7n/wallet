@@ -1,1 +1,1 @@
-var mnemonic = "wrist expire candy novel eternal sniff midnight receive chapter rival wild paddle";
+var mnemonic = "betray misery still flat wild impact napkin economy copy canvas sausage secret";

@@ -1,1 +1,1 @@
-var mnemonic = "huge ski cheap supreme goddess salt smart large receive outer until strategy";
+var mnemonic = "oval cousin make often move quote item habit outer cry audit fun";

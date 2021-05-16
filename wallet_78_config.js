@@ -1,1 +1,1 @@
-var mnemonic = "cat palm hill birth sign multiply clock return fit judge museum above";
+var mnemonic = "injury spread slight rice recipe hybrid end media equal huge devote tunnel";

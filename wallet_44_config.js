@@ -1,1 +1,1 @@
-var mnemonic = "attack miss orbit finish prize motor disorder baby stand adapt picture unlock";
+var mnemonic = "horror pledge farm gorilla border wire wrist media curious cart program wide";

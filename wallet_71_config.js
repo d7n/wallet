@@ -1,1 +1,1 @@
-var mnemonic = "hill obvious tourist wing keep coral demand answer jaguar bind dream arrow";
+var mnemonic = "slab guitar orphan blast edit earth day vessel grain cactus sun paddle";

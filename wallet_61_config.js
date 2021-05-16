@@ -1,1 +1,1 @@
-var mnemonic = "have biology father rail rookie famous enrich vicious farm wire hole song";
+var mnemonic = "tongue grab dinner caught carpet just addict almost gauge please welcome approve";

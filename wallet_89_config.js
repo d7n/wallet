@@ -1,1 +1,1 @@
-var mnemonic = "grunt clutch erode quantum trust transfer hat blast hospital sweet hen culture";
+var mnemonic = "unlock spoil quantum enter dance image pass fiction valve concert flush barrel";

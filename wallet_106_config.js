@@ -1,1 +1,1 @@
-var mnemonic = "black bullet once account erosion clever excite wagon receive awake rule achieve";
+var mnemonic = "steel click nut school build wet garden alarm lyrics yellow cloth glass";

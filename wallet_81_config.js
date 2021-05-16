@@ -1,1 +1,1 @@
-var mnemonic = "corn raccoon wood glare news eternal alien install estate rug north sudden";
+var mnemonic = "novel ethics autumn planet fire bundle design blind hard dismiss olympic program";

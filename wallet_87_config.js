@@ -1,1 +1,1 @@
-var mnemonic = "guilt goddess rigid pool gain photo obtain then icon jealous danger escape";
+var mnemonic = "luggage marine photo avoid rose rabbit double own onion couch sadness laugh";

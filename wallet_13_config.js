@@ -1,1 +1,1 @@
-var mnemonic = "print filter tumble diet journey insect pigeon very chronic offer script pulse";
+var mnemonic = "poet there purse merge real harvest census brief youth pulp goose join";

@@ -1,1 +1,1 @@
-var mnemonic = "model idea miss reject enrich devote hospital super stairs guilt sail waste";
+var mnemonic = "repair surround high invite ladder where today carpet kick solar tray torch";

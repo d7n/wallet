@@ -1,1 +1,1 @@
-var mnemonic = "edit vacant way sponsor crater cabin hunt leisure differ response vague message";
+var mnemonic = "miss undo warrior advice auto guitar apart relief vague model seat fat";

@@ -1,1 +1,1 @@
-var mnemonic = "shed dad winner ribbon special author cloud range want shy glow obscure";
+var mnemonic = "shell body broccoli shy juice armor maple garment wall riot pupil method";

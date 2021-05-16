@@ -1,1 +1,1 @@
-var mnemonic = "crawl visual farm receive assault decide helmet casino saddle april smart alpha";
+var mnemonic = "goddess century trophy tongue estate segment between initial exist protect bubble element";

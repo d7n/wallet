@@ -1,1 +1,1 @@
-var mnemonic = "armed rookie enemy mention simple design speed ceiling often dash aerobic fun";
+var mnemonic = "transfer all cereal wrestle pond field rude dentist arrange ready absorb tattoo";

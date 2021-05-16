@@ -1,1 +1,1 @@
-var mnemonic = "goose drastic feature seed dentist mix hair slim add wool deer smooth";
+var mnemonic = "daring dash awful repeat voice piece elite rule wonder adapt attend scrap";

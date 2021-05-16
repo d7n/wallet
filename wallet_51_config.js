@@ -1,1 +1,1 @@
-var mnemonic = "lecture message math grace wide trick slab around object dance junk jealous";
+var mnemonic = "sister unlock employ term erode pig glove great bulb use ketchup sunset";

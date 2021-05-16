@@ -1,1 +1,1 @@
-var mnemonic = "win river swear index shell remain primary leopard blame garment position reject";
+var mnemonic = "soon jump hill repair furnace dynamic sell behind roast produce excite share";

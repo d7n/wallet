@@ -1,1 +1,1 @@
-var mnemonic = "vivid quality absurd noble fun town devote acquire slim churn ankle zoo";
+var mnemonic = "fiscal pave fiber giggle else regular power bachelor ketchup robot icon purity";

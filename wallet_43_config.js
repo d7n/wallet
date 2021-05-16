@@ -1,1 +1,1 @@
-var mnemonic = "copy good foam response rain source spider recall wheat tourist depart allow";
+var mnemonic = "sphere govern fortune glare render burden heavy system scare magnet angle around";

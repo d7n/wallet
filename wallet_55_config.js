@@ -1,1 +1,1 @@
-var mnemonic = "rotate hawk flame sausage dragon cigar stamp project icon burden response consider";
+var mnemonic = "minimum security perfect tape load cancel broken tattoo draft lava describe bleak";

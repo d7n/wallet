@@ -1,1 +1,1 @@
-var mnemonic = "fade inmate aunt oval course defense kingdom amused prefer bag gym lake";
+var mnemonic = "away captain load exist comfort motion section lift nasty hand venture faint";

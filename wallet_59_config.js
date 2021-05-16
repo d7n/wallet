@@ -1,1 +1,1 @@
-var mnemonic = "pyramid change consider girl easy album music install attract exile casual apart";
+var mnemonic = "suit ancient expand regular pear question gorilla shed parrot around buffalo kid";

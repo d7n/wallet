@@ -1,1 +1,1 @@
-var mnemonic = "club foot heart mansion comic shove lend taxi leave film reform advice";
+var mnemonic = "path allow height rate catch glimpse arctic ignore orient hood total success";

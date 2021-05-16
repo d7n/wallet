@@ -1,1 +1,1 @@
-var mnemonic = "wrap dream hello only tennis fatal lottery suggest digital throw vault brick";
+var mnemonic = "coil leader naive parent bullet scene neither hammer merry balance object service";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence hammer offer business tree hurry mesh swift emotion force winner range";
+var mnemonic = "tonight talent leaf garage strong length oppose later report quick casual color";

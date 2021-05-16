@@ -1,1 +1,1 @@
-var mnemonic = "jazz rookie shed key grab turkey rule annual vacuum vanish road special";
+var mnemonic = "base doctor fury physical naive level become canoe crystal place give gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "vote load thought orphan place tip path mad drift provide erupt neutral";
+var mnemonic = "trend convince goddess differ glance coral shallow express hub until guide aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "coast utility mix attend arena scale cannon banner vote candy certain paper";
+var mnemonic = "friend cash funny fold home urban attack satisfy lift outer toward village";

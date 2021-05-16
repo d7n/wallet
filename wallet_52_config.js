@@ -1,1 +1,1 @@
-var mnemonic = "save click relief intact anger situate switch flight thumb garlic normal pumpkin";
+var mnemonic = "erosion sweet shuffle web very giant bitter inherit inform naive sense emerge";

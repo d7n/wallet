@@ -1,1 +1,1 @@
-var mnemonic = "invite solar actress raw weird edit zebra atom planet apart cinnamon split";
+var mnemonic = "robot lunar night struggle before property plastic cup food drastic owner album";

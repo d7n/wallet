@@ -1,1 +1,1 @@
-var mnemonic = "inmate minimum rack firm green tomato width inch student display atom crop";
+var mnemonic = "budget field fatal rent sure image wrestle cup manual join equal brand";

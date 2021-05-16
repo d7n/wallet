@@ -1,1 +1,1 @@
-var mnemonic = "garlic search arctic ceiling cup pupil arrange iron shoot ozone topic orbit";
+var mnemonic = "august traffic wreck supply antique novel topic file scissors dutch ankle female";

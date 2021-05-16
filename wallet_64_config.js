@@ -1,1 +1,1 @@
-var mnemonic = "tape boat blind shrug behind wet foot draft silent alley upset cost";
+var mnemonic = "polar south divert gorilla orient absurd during elder tiger prize banner always";

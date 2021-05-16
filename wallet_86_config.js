@@ -1,1 +1,1 @@
-var mnemonic = "twin orphan position pilot giraffe settle team jealous owner cost diet wisdom";
+var mnemonic = "puzzle mosquito purity hidden patch owner awful business radio once spring useful";

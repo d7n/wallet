@@ -1,1 +1,1 @@
-var mnemonic = "toast long stage elite disagree audit lunch crunch hub sad street glory";
+var mnemonic = "private road blast arrow mystery athlete bomb shaft fiscal mobile rack woman";

@@ -1,1 +1,1 @@
-var mnemonic = "desert coyote party icon plunge try water build olympic argue profit hen";
+var mnemonic = "elevator anger purpose wrist agent zero image exact mail peasant become apology";

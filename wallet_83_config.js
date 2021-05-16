@@ -1,1 +1,1 @@
-var mnemonic = "kitchen ladder dog connect deer bitter item rose slam poet turn vehicle";
+var mnemonic = "drive jeans situate spread pond thought glass worth earn buddy myth ramp";

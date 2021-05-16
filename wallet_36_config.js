@@ -1,1 +1,1 @@
-var mnemonic = "silent toward neglect average unlock repeat frog bird symptom cook shrug weekend";
+var mnemonic = "surround avocado execute mimic calm chuckle deputy odor trash vicious clump pause";

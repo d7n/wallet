@@ -1,1 +1,1 @@
-var mnemonic = "fox alley velvet fall grant grab foam dilemma friend equal ill frown";
+var mnemonic = "glance major deliver mention slogan hazard obscure dolphin attack flat tribe artist";

@@ -1,1 +1,1 @@
-var mnemonic = "put market camera unable fiscal couple toward adult seven lesson illegal spatial";
+var mnemonic = "copper path brisk vicious kid ostrich pyramid infant layer found approve tag";

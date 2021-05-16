@@ -1,1 +1,1 @@
-var mnemonic = "grape weather recycle walnut sentence liar evoke cram affair orient twelve almost";
+var mnemonic = "raven envelope purity talk avocado yellow charge today garlic adapt earth honey";

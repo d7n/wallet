@@ -1,1 +1,1 @@
-var mnemonic = "attend chase cherry figure twist middle creek peace portion worth negative hire";
+var mnemonic = "hand nasty soldier trash cousin gadget conduct certain woman mind hold elite";

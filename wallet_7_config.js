@@ -1,1 +1,1 @@
-var mnemonic = "empower essence borrow brave marine delay fabric frog bracket satisfy regular whip";
+var mnemonic = "obvious worry reveal dismiss cat hint parent miss sight furnace decide initial";

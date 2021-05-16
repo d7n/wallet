@@ -1,1 +1,1 @@
-var mnemonic = "left civil situate happy way ranch two sausage fatal crawl clerk term";
+var mnemonic = "mind home leopard absorb park cover rich hair deer sadness agree match";

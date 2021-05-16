@@ -1,1 +1,1 @@
-var mnemonic = "cake kid ethics test flush nominee onion fitness betray rich crawl slot";
+var mnemonic = "approve common cruise glass glove cotton stairs mail mind click license certain";

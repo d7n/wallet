@@ -1,1 +1,1 @@
-var mnemonic = "fiction shy main coin foot rather trigger frog shop vessel slogan chronic";
+var mnemonic = "practice media public swing maid fruit chaos evil laugh aisle exchange push";

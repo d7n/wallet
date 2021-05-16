@@ -1,1 +1,1 @@
-var mnemonic = "gorilla salute first monkey fantasy calm ocean clean zero jungle museum defy";
+var mnemonic = "forward alert siren rib brush century final mystery scan census west turtle";

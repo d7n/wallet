@@ -1,1 +1,1 @@
-var mnemonic = "antenna cry slogan adapt foster cushion police able dance concert direct story";
+var mnemonic = "casual provide loop size square sport swim fish tissue convince repeat town";

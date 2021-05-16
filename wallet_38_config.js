@@ -1,1 +1,1 @@
-var mnemonic = "whisper soda slam apart mammal hard hover object deputy fit sibling cliff";
+var mnemonic = "solve chuckle scorpion cabbage island adult wagon skin crush hover glimpse color";

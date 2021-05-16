@@ -1,1 +1,1 @@
-var mnemonic = "helmet barely wild vacant merit alarm top wife vapor make raise prepare";
+var mnemonic = "promote license narrow regret nation decrease drift gym any work fence table";

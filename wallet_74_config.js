@@ -1,1 +1,1 @@
-var mnemonic = "craft garment hope tragic rifle lumber marriage potato tunnel loan jacket dirt";
+var mnemonic = "cycle glare infant scout firm trial outdoor decline vapor farm hospital install";

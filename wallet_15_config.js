@@ -1,1 +1,1 @@
-var mnemonic = "exact ramp floor soft egg primary crowd ladder domain calm wall express";
+var mnemonic = "much paddle shrug laugh twist aisle paddle solid marriage patrol ugly position";

@@ -1,1 +1,1 @@
-var mnemonic = "slush minute head cereal run valve ordinary thank gift front adult upgrade";
+var mnemonic = "wide taxi surprise lion relax add steel inflict three prevent alcohol crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt scheme topic guitar rose inflict pluck tourist tumble ethics begin base";
+var mnemonic = "cage neutral earn banner burger crowd relax grace such barely tone inmate";

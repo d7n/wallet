@@ -1,1 +1,1 @@
-var mnemonic = "case tissue multiply congress level anxiety drama august segment clarify royal aisle";
+var mnemonic = "mosquito film jaguar belt rent zebra vault eight live resemble chicken jazz";

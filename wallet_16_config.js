@@ -1,1 +1,1 @@
-var mnemonic = "ostrich thumb embody tissue nation aspect expect corn style enrich novel give";
+var mnemonic = "ecology gesture penalty track type size kitchen shoulder dose indoor price rent";

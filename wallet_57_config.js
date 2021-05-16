@@ -1,1 +1,1 @@
-var mnemonic = "trophy panther walnut question true tissue mirror expect arrest upset sad item";
+var mnemonic = "umbrella estate digital expose antique token cabin cliff repeat lobster tuna tumble";

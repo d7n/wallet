@@ -1,1 +1,1 @@
-var mnemonic = "exact season furnace adjust snow mix game brisk about modify live refuse";
+var mnemonic = "assist junk wagon record birth dismiss cheap sauce bitter ranch health clean";

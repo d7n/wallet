@@ -1,1 +1,1 @@
-var mnemonic = "inmate present little allow bench polar man select skull main list cruise";
+var mnemonic = "destroy option income impose tape physical slow maid rail puzzle trim crowd";

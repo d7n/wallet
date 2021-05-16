@@ -1,1 +1,1 @@
-var mnemonic = "coffee sun coral private trouble fiber damage sudden magic cargo onion farm";
+var mnemonic = "shove vehicle smile symbol illness endless secret voyage rib endorse load trial";

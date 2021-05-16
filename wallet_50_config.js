@@ -1,1 +1,1 @@
-var mnemonic = "crucial head primary civil write pupil blush fancy execute soldier derive table";
+var mnemonic = "style lounge grid draft detect undo street panel congress puzzle deal indicate";

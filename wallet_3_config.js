@@ -1,1 +1,1 @@
-var mnemonic = "crawl correct future rescue velvet permit resist section peanut laugh segment parrot";
+var mnemonic = "fish cake resource moon slice bid rough margin asset trim carpet regret";
