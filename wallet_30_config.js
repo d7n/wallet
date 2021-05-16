@@ -1,1 +1,1 @@
-var mnemonic = "arena educate portion bone salmon forum pig awful eyebrow glass suit fine";
+var mnemonic = "danger bench ceiling trend climb sad idea quarter era differ choose elder";

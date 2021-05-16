@@ -1,1 +1,1 @@
-var mnemonic = "gather disorder record inspire drip twist setup scene canyon pass provide auto";
+var mnemonic = "season train obey student shadow cherry chest provide math soap bachelor lecture";

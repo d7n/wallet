@@ -1,1 +1,1 @@
-var mnemonic = "wink present trend barrel tenant custom hospital main cupboard hurdle morning swing";
+var mnemonic = "furnace atom tip hill imitate erosion ginger park invest stadium ocean pioneer";

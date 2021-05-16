@@ -1,1 +1,1 @@
-var mnemonic = "message element hurry isolate napkin crouch coach ecology crucial message era physical";
+var mnemonic = "season proof spoon age cactus law sheriff between museum drum used size";

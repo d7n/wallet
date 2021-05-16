@@ -1,1 +1,1 @@
-var mnemonic = "jeans drama gospel swap kite knee salon exit bring practice funny route";
+var mnemonic = "library fee key depend dial switch roast diary curtain camera custom biology";

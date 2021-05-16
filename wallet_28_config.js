@@ -1,1 +1,1 @@
-var mnemonic = "gasp fine crop wagon elephant lunch recipe laptop tail wire milk exclude";
+var mnemonic = "trick crystal sight hover proof mistake where raw know amateur betray dizzy";

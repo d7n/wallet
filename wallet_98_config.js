@@ -1,1 +1,1 @@
-var mnemonic = "coast come fog patient rent enact diet garbage unable supply goat dirt";
+var mnemonic = "material found mirror dash ask key above bicycle radio abstract happy mention";

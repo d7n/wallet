@@ -1,1 +1,1 @@
-var mnemonic = "pig weather situate city quick pact ginger assist pyramid kite calm gasp";
+var mnemonic = "pulp problem morning make supply volume sense orchard cherry drip wheel flavor";

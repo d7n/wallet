@@ -1,1 +1,1 @@
-var mnemonic = "flavor garment hint bargain remain debate sing bread bar brand zero frequent";
+var mnemonic = "paddle route ice improve thing clinic author next hurry year humble master";

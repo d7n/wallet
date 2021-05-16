@@ -1,1 +1,1 @@
-var mnemonic = "indicate sister click disorder april river pelican foil donkey chapter wrap drill";
+var mnemonic = "devote envelope expand various joy protect again fish shine glue once charge";

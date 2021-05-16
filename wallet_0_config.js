@@ -1,1 +1,1 @@
-var mnemonic = "luxury citizen legend mom biology cinnamon lemon ketchup strategy season toy glide";
+var mnemonic = "among position tragic milk attend estate time patient great slender approve scene";

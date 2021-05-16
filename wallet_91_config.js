@@ -1,1 +1,1 @@
-var mnemonic = "knock comfort fantasy dune decline goose quality increase maximum phrase review decade";
+var mnemonic = "object taxi shock core rice nice dinosaur false pass ahead mistake sick";

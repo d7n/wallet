@@ -1,1 +1,1 @@
-var mnemonic = "achieve evolve common plastic arctic laptop fruit trouble one jelly absent under";
+var mnemonic = "tray spend hawk blush oyster group mom drop force gown lens possible";

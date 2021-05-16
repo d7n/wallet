@@ -1,1 +1,1 @@
-var mnemonic = "stove entire profit father hawk isolate hand cousin draw music faculty left";
+var mnemonic = "what fan year mirror other orphan normal broken coach remind wrong speak";

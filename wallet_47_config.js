@@ -1,1 +1,1 @@
-var mnemonic = "exotic kind castle copper eight process essence unhappy sure catalog ocean face";
+var mnemonic = "enemy hen wheel depend awful lemon sell tube little disorder dress model";

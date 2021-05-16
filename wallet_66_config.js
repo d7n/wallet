@@ -1,1 +1,1 @@
-var mnemonic = "like copper token fold piano engine inmate devote audit circle hint century";
+var mnemonic = "across fee trim erosion episode element canvas mass garage frost hurt hat";

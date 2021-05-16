@@ -1,1 +1,1 @@
-var mnemonic = "hello hover ankle caution sorry symbol business drink powder hello hotel trash";
+var mnemonic = "embrace hold dry stage obtain rigid predict admit stuff thing grocery sunny";

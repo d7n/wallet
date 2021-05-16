@@ -1,1 +1,1 @@
-var mnemonic = "funny exclude spice frozen neither jungle wreck charge card come soul lawn";
+var mnemonic = "middle decline parent sponsor behave humor swarm chase devote vintage joke guess";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil casino field region reject basket reward camera practice clerk gift arrest";
+var mnemonic = "release escape recipe demand luxury exact bag ring number mule green stamp";

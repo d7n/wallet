@@ -1,1 +1,1 @@
-var mnemonic = "oppose baby pattern submit follow city ginger panic path veteran three ordinary";
+var mnemonic = "whip stick dignity wisdom divorce patch piano decade frown drop tribe crop";

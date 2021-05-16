@@ -1,1 +1,1 @@
-var mnemonic = "media material female bench eight beef game purity planet join stadium desert";
+var mnemonic = "sell suffer certain fee idle govern track general kind deny script aerobic";

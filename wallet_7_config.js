@@ -1,1 +1,1 @@
-var mnemonic = "bean clerk bulk census dose hen sunny session area certain faint element";
+var mnemonic = "vessel fitness genre resist unhappy best foam normal apology inch hungry grit";

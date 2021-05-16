@@ -1,1 +1,1 @@
-var mnemonic = "bottom use ring crisp certain nature chaos genius exhaust change jelly course";
+var mnemonic = "rain miracle brick catch lyrics piece because hope drive library open rail";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rescue corn draft resource inject hawk moral bus donate bitter theme";
+var mnemonic = "kiwi describe can divert stone coin marble parent salute confirm fatigue settle";

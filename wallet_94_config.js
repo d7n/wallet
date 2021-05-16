@@ -1,1 +1,1 @@
-var mnemonic = "pepper tribe burst lock crisp frog stone century whip cinnamon come ripple";
+var mnemonic = "custom flock humor memory knock round argue forest drop teach nation slab";

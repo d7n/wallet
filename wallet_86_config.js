@@ -1,1 +1,1 @@
-var mnemonic = "saddle quality gossip wrong sustain eyebrow disagree situate surround tortoise uniform snap";
+var mnemonic = "file tragic coach twenty december fat sound flee into tiger monkey nasty";

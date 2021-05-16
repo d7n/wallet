@@ -1,1 +1,1 @@
-var mnemonic = "walk output game timber penalty blast exit print clap clay another december";
+var mnemonic = "teach collect core marine chuckle picture carbon payment violin shoot refuse kit";

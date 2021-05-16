@@ -1,1 +1,1 @@
-var mnemonic = "yard again tiny canoe same combine define equal subject attitude rich stem";
+var mnemonic = "garbage album tank noble trade local want switch change blood trophy volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct husband mail they answer thumb expire real dose process dune tent";
+var mnemonic = "express shuffle secret sentence panda genuine drink neglect require wage length void";

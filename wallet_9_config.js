@@ -1,1 +1,1 @@
-var mnemonic = "ranch waste side chalk twelve reject debris tornado evolve cram jump weapon";
+var mnemonic = "tomato faint rhythm camera situate season assault tenant bundle enjoy essay bullet";

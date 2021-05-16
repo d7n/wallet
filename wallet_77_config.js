@@ -1,1 +1,1 @@
-var mnemonic = "hurry dove bounce coin cage oak profit weird document bargain strike fringe";
+var mnemonic = "domain problem buffalo unfair quiz winter myself metal focus explain blouse gauge";

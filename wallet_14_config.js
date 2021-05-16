@@ -1,1 +1,1 @@
-var mnemonic = "humble visa ranch view item uncle pear scrub someone welcome piece there";
+var mnemonic = "coin curve drum shed novel project dawn there hold bird unlock wall";

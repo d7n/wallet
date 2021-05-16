@@ -1,1 +1,1 @@
-var mnemonic = "repair travel stumble belt alter motor obey limb link cattle kingdom crime";
+var mnemonic = "peasant allow undo coast sponsor party tail verify they congress assume canyon";

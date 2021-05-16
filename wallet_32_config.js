@@ -1,1 +1,1 @@
-var mnemonic = "jar because tattoo disorder raise profit alarm install garlic exchange world genius";
+var mnemonic = "favorite profit twin mechanic ceiling orient banana market tilt live stool girl";

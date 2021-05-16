@@ -1,1 +1,1 @@
-var mnemonic = "topic evil nurse describe region they abuse surge erode metal zebra artwork";
+var mnemonic = "junk express fiber rug attack verb dawn wool kitchen stone feel oval";

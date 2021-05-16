@@ -1,1 +1,1 @@
-var mnemonic = "shrug kick vivid current live wear rubber humor stone ethics seven recipe";
+var mnemonic = "general risk valve more paddle result grit pond attract vast copper suit";

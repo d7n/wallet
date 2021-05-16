@@ -1,1 +1,1 @@
-var mnemonic = "story joke valley much scorpion hotel deer pair cry flavor exact catch";
+var mnemonic = "dream canal service pilot federal infant cotton zoo front slow again exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "type range dawn okay bind fatigue tragic ladder essay vivid spawn later";
+var mnemonic = "balcony sword family hint normal hill hybrid pulp kidney like cross frost";

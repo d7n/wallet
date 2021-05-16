@@ -1,1 +1,1 @@
-var mnemonic = "lemon birth pilot tortoise sport kid envelope ugly sponsor news waste motor";
+var mnemonic = "filter primary velvet doctor club agree curtain side match young decline develop";

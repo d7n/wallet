@@ -1,1 +1,1 @@
-var mnemonic = "now trend lesson hedgehog dynamic already crime forum basic friend mercy yard";
+var mnemonic = "kidney gain steel size cactus device void come inch broken demand imitate";

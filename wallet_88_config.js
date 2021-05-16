@@ -1,1 +1,1 @@
-var mnemonic = "stay clever record beauty drive clarify choice stereo enemy expire chief wet";
+var mnemonic = "garage room glance panther grace staff visual sting win join catch valid";

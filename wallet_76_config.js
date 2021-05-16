@@ -1,1 +1,1 @@
-var mnemonic = "finger face uphold axis village siren stool code scale tumble recipe phrase";
+var mnemonic = "easily brave visit winter oil betray script rally market chronic crumble surround";

@@ -1,1 +1,1 @@
-var mnemonic = "rookie squeeze random lecture inquiry space leaf dish below resource hat range";
+var mnemonic = "actual fitness person pottery winter hold age version assault swarm child select";

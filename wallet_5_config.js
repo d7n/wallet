@@ -1,1 +1,1 @@
-var mnemonic = "auto title sauce shed ahead city praise element almost language tragic disorder";
+var mnemonic = "grit fatal science problem soul frog label dad adjust diesel exist fence";

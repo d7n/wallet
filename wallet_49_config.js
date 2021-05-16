@@ -1,1 +1,1 @@
-var mnemonic = "kind bargain river wash fury describe smoke stereo short ask garage just";
+var mnemonic = "round view reward escape worth wide derive bone that nothing other music";

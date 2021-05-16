@@ -1,1 +1,1 @@
-var mnemonic = "useful sorry worth cycle patrol verb soda normal law drift demand stay";
+var mnemonic = "demand thumb diagram true salon best east leisure elegant soup suspect salt";

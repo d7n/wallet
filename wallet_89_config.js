@@ -1,1 +1,1 @@
-var mnemonic = "artefact panda pulse bracket apology pony replace flash barely dial try dumb";
+var mnemonic = "weird about emotion outside wagon robust cabin zoo sketch slide lecture clever";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic amateur meadow prefer unable drill napkin paper comic say level again";
+var mnemonic = "coil turkey lens dignity able letter regular dentist can trash inhale harsh";

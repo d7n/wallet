@@ -1,1 +1,1 @@
-var mnemonic = "below strike thumb into nation elder brother noodle across rotate chronic vocal";
+var mnemonic = "gravity visual glimpse exit fly cactus enjoy symbol omit remove muffin fade";

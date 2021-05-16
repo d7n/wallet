@@ -1,1 +1,1 @@
-var mnemonic = "zoo duty jealous hobby play assault expand pitch violin orange letter hint";
+var mnemonic = "jealous pigeon indoor feed milk pumpkin excess pulp oyster loyal stay skate";

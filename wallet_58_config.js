@@ -1,1 +1,1 @@
-var mnemonic = "ready palace below zebra grant unique crawl ten elder donate oyster sing";
+var mnemonic = "decade crop tissue scatter runway member behave beef edit level cause envelope";

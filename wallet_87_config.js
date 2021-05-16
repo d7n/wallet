@@ -1,1 +1,1 @@
-var mnemonic = "noise cushion envelope various forum fine member orange never hurdle alter sunny";
+var mnemonic = "quantum able hobby zoo drip dolphin erode stick eyebrow odor pool silly";

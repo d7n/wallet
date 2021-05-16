@@ -1,1 +1,1 @@
-var mnemonic = "coil raccoon squeeze hill slam online into upset ethics second eight core";
+var mnemonic = "elegant renew clown dentist museum original advice lawn disagree anchor census neutral";

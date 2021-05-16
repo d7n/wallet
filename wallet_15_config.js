@@ -1,1 +1,1 @@
-var mnemonic = "topic good section choose canvas bamboo viable goose stamp soap title gap";
+var mnemonic = "chat tennis limb punch remind diagram enable vote aunt use federal charge";

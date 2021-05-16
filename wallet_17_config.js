@@ -1,1 +1,1 @@
-var mnemonic = "fence describe derive snack drop spend select beauty worth father pluck then";
+var mnemonic = "motion early define joke water illegal boy add forum film text crumble";

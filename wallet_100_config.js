@@ -1,1 +1,1 @@
-var mnemonic = "best witness toss real amazing trade theme saddle box purpose tiger great";
+var mnemonic = "market gift mule number window sniff pattern analyst deliver muscle true stadium";

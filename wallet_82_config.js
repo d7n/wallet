@@ -1,1 +1,1 @@
-var mnemonic = "kit crunch better meat hope carpet door luggage evoke snap attitude execute";
+var mnemonic = "alcohol market fresh assume polar father fever verify stove super interest claw";

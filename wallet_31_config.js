@@ -1,1 +1,1 @@
-var mnemonic = "churn aim fancy oil depend adjust sport cherry rug abuse craft reunion";
+var mnemonic = "exhibit foam secret mirror leaf dust mother topple equip vacuum exile brush";

@@ -1,1 +1,1 @@
-var mnemonic = "safe carry shiver noise bone alpha account flash load vicious aerobic mother";
+var mnemonic = "robot gift picture manual blossom bean symptom network left usage close situate";

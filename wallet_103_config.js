@@ -1,1 +1,1 @@
-var mnemonic = "miss eight estate picnic trash inquiry slender child buffalo address vocal control";
+var mnemonic = "pony enter find myth parade deputy ten turtle leaf oven protect shuffle";

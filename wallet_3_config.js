@@ -1,1 +1,1 @@
-var mnemonic = "shove produce inmate maximum other outer gold penalty economy fuel sign public";
+var mnemonic = "marble mix chef wish hover exhaust bird ritual alley bread olive oval";

@@ -1,1 +1,1 @@
-var mnemonic = "way journey century awake useless adapt copy sad oppose hamster humor stove";
+var mnemonic = "tomato vicious grant orphan feature check eyebrow music connect spy upset space";

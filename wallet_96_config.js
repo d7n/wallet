@@ -1,1 +1,1 @@
-var mnemonic = "base exclude tag glory local equal primary praise mass vicious swallow transfer";
+var mnemonic = "index come dilemma certain any guilt biology enlist salmon victory cable image";

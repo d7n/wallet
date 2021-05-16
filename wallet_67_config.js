@@ -1,1 +1,1 @@
-var mnemonic = "bird panel small rhythm expose inflict genuine crystal jacket strong pepper tennis";
+var mnemonic = "hobby celery sponsor fall submit february trash pistol brave wonder effort super";

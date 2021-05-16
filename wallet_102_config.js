@@ -1,1 +1,1 @@
-var mnemonic = "measure exile exhaust manual weird solar select glow supply mercy wasp holiday";
+var mnemonic = "cannon sister congress zone busy mind ticket busy fire shove similar orphan";

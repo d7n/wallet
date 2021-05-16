@@ -1,1 +1,1 @@
-var mnemonic = "ill butter orchard size manual long sword drip suggest unable basic chicken";
+var mnemonic = "health slender tired cream advance lawn engage lens explain shed gold twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors local better suit brass burden view make midnight stage front valley";
+var mnemonic = "matter poverty school together trumpet club cake later gauge cheese kind describe";

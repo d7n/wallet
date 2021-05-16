@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cherry resist decade flower barrel hedgehog put inside combine drive milk";
+var mnemonic = "medal conduct approve betray cushion force grain manual crunch insane tragic infant";

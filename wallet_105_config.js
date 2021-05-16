@@ -1,1 +1,1 @@
-var mnemonic = "swing absorb sibling stable amount method brand spice remember destroy concert there";
+var mnemonic = "give upon among rate okay month detect harvest coil animal attend amount";

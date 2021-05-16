@@ -1,1 +1,1 @@
-var mnemonic = "move gentle expire trim spike forum inherit machine melt label robust tornado";
+var mnemonic = "suspect roast three smart immune travel flame weapon corn skull road pool";

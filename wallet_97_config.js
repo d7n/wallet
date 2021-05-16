@@ -1,1 +1,1 @@
-var mnemonic = "eager shrimp change inside style kingdom festival marine royal scrap boss frost";
+var mnemonic = "room gain purity genuine bird elephant gravity gospel verb gentle hip risk";

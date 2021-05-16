@@ -1,1 +1,1 @@
-var mnemonic = "dismiss skull glove require private frown exile dash identify current knee violin";
+var mnemonic = "drip rabbit rigid cancel clutch shock dream before erosion laptop kiwi jaguar";

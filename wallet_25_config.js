@@ -1,1 +1,1 @@
-var mnemonic = "better naive warrior just jaguar book tag wrap opinion strong nasty kitchen";
+var mnemonic = "crush toe donkey kingdom marine grief south blouse satoshi balcony turkey artwork";

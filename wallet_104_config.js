@@ -1,1 +1,1 @@
-var mnemonic = "stage thank stuff misery junior above weird stem curve hidden wild unhappy";
+var mnemonic = "wolf crisp express lesson noble click race snap party latin bitter swamp";

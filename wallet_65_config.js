@@ -1,1 +1,1 @@
-var mnemonic = "wide bomb ripple powder undo depth couple twenty pigeon toilet essence search";
+var mnemonic = "pistol flight lunch require vessel salmon remember tube above energy hollow risk";

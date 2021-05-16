@@ -1,1 +1,1 @@
-var mnemonic = "include account fiscal blade clean list manage expire expire alone glue clock";
+var mnemonic = "magnet soccer comic between behave right knife spice used horn ticket base";

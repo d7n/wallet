@@ -1,1 +1,1 @@
-var mnemonic = "dwarf toilet retreat list swear wall circle wreck bounce uniform blossom ten";
+var mnemonic = "wonder avocado main monkey various street want tooth minor keen urban silent";

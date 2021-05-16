@@ -1,1 +1,1 @@
-var mnemonic = "stuff dad dutch power about corn perfect expose habit table admit viable";
+var mnemonic = "renew script hedgehog mobile correct say thrive foam tourist edge settle describe";

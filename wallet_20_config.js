@@ -1,1 +1,1 @@
-var mnemonic = "jar truck catch foil poverty place thrive ship page movie adjust guilt";
+var mnemonic = "animal predict auto cheese south tube refuse trick ripple kid mammal capable";

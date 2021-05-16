@@ -1,1 +1,1 @@
-var mnemonic = "glow cancel pledge chuckle enough rail hole wreck nest review upper ocean";
+var mnemonic = "decide battle equip acoustic leisure impose engage issue kidney team sail edge";

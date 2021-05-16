@@ -1,1 +1,1 @@
-var mnemonic = "absent wink plastic dwarf share whisper armed dynamic tourist fuel age render";
+var mnemonic = "welcome mad elephant focus rent melt limit dolphin system pipe cat action";

@@ -1,1 +1,1 @@
-var mnemonic = "diet tobacco bundle narrow current town essence surge game illegal food medal";
+var mnemonic = "thought orphan fluid armor act slow fury dry multiply measure depth absorb";

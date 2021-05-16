@@ -1,1 +1,1 @@
-var mnemonic = "cargo vicious time warfare lunch turtle wise bless cable plug model athlete";
+var mnemonic = "pigeon crawl mechanic tiny gym camera shrug umbrella eagle dry alone train";

@@ -1,1 +1,1 @@
-var mnemonic = "spell oval wonder badge pattern arm card cancel embrace soccer now invest";
+var mnemonic = "animal treat notice midnight pipe analyst purchase near private banana design few";

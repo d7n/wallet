@@ -1,1 +1,1 @@
-var mnemonic = "blur hurt pull pet inherit drink abstract action useless unaware fabric promote";
+var mnemonic = "initial nominee quarter stable alley stand salute weasel wisdom chalk pigeon shell";

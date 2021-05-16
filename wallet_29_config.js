@@ -1,1 +1,1 @@
-var mnemonic = "during position super smile stereo doll lonely fruit question excite never nothing";
+var mnemonic = "clarify morning wheel two season gravity require copy cigar resemble stay vacant";

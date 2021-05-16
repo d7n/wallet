@@ -1,1 +1,1 @@
-var mnemonic = "verify ranch cheap sell retreat wash angry nominee squeeze predict enable indoor";
+var mnemonic = "fiction try slam judge bacon right enter soccer client enhance tattoo tree";

@@ -1,1 +1,1 @@
-var mnemonic = "square gate traffic broccoli gas vintage delay try mom matter gown insect";
+var mnemonic = "token shock vintage dry lesson area juice sample into menu uphold pigeon";

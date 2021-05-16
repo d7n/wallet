@@ -1,1 +1,1 @@
-var mnemonic = "fade illegal glance fame knee panda alpha hood way roast have real";
+var mnemonic = "require route endless moral asthma mouse hazard hover tomorrow entire attract client";

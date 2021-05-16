@@ -1,1 +1,1 @@
-var mnemonic = "large sugar taxi symptom electric crouch violin bird diamond pelican galaxy click";
+var mnemonic = "monster client century verb spot club large mobile praise broccoli purity level";

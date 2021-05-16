@@ -1,1 +1,1 @@
-var mnemonic = "diamond penalty myself salon deer sand depend return journey suffer make vocal";
+var mnemonic = "maze service analyst language brief six express sentence liberty portion castle teach";

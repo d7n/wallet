@@ -1,1 +1,1 @@
-var mnemonic = "ribbon key vicious must ugly next hybrid ship meat more bottom possible";
+var mnemonic = "inject truck shadow absent column dad mad couch copper okay wedding tragic";

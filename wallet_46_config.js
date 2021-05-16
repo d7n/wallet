@@ -1,1 +1,1 @@
-var mnemonic = "fiber check camp hurdle require pink any kitchen illness make valid hope";
+var mnemonic = "tobacco text walk feature usual end kid today wheat sunset cry gaze";

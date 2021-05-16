@@ -1,1 +1,1 @@
-var mnemonic = "pluck perfect harvest leave capital federal turtle job battle tide denial turn";
+var mnemonic = "once evolve crowd shine term share expand material since fitness sadness review";

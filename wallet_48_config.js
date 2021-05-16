@@ -1,1 +1,1 @@
-var mnemonic = "route possible limit level bright rice lemon element feature detail echo slice";
+var mnemonic = "bulb poet view slice correct later setup slow muscle bamboo quick retreat";

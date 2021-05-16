@@ -1,1 +1,1 @@
-var mnemonic = "shaft coyote edge adjust pluck attitude property typical defense broken culture rally";
+var mnemonic = "announce action lottery lunar angry flush next toy account child train silk";
