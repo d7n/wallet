@@ -1,1 +1,1 @@
-var mnemonic = "glory fame skull lecture fame judge battle since canoe warrior sheriff picture";
+var mnemonic = "team exhaust family current left purchase picture surround panther paper slender tape";

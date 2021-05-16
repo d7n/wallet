@@ -1,1 +1,1 @@
-var mnemonic = "push skill find laundry scheme turtle three company ghost neither advice surge";
+var mnemonic = "engage kidney double gate fee repeat uniform destroy rigid middle shaft struggle";

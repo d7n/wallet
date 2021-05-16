@@ -1,1 +1,1 @@
-var mnemonic = "sample keep ride tonight success rabbit lemon common bracket math novel deal";
+var mnemonic = "impose pass hour ignore wage eagle update sense ozone mutual where town";

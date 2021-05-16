@@ -1,1 +1,1 @@
-var mnemonic = "assume good stomach drill join uniform chunk gloom neither brick physical lumber";
+var mnemonic = "near axis patrol fit pencil work simple avoid try east object fancy";

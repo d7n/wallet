@@ -1,1 +1,1 @@
-var mnemonic = "confirm grass ride dust survey hole task erosion transfer diamond because goose";
+var mnemonic = "festival ask fury coral increase sick result already carpet jeans step art";

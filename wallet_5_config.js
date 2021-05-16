@@ -1,1 +1,1 @@
-var mnemonic = "blush truth wolf elder boost apart enable punch expire supply dust weasel";
+var mnemonic = "buyer upper essence topic disagree neutral tuition glimpse foam outside play ensure";

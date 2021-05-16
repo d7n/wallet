@@ -1,1 +1,1 @@
-var mnemonic = "frog vast black table illness track meadow stable seed pull ethics slim";
+var mnemonic = "remind huge vague nation canyon enter replace practice alien miss digital rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "behave tower fatal already alone panic rebel soon puppy tail into cute";
+var mnemonic = "play glue speak captain stem awkward convince crumble leopard slice vanish solid";

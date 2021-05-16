@@ -1,1 +1,1 @@
-var mnemonic = "memory gas stuff zoo case gesture athlete circle laundry basket slogan behind";
+var mnemonic = "casino weasel social erupt snow bronze super video advance assume brush loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor outside update catch reform trim treat gun wise short coral quality";
+var mnemonic = "canal into gap peasant obey valve spoon fit exhibit minimum betray bronze";

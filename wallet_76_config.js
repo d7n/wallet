@@ -1,1 +1,1 @@
-var mnemonic = "wool approve glide bridge river between bonus script artwork absorb pulse fly";
+var mnemonic = "year cactus supreme inner dice resemble cushion item thought people father summer";

@@ -1,1 +1,1 @@
-var mnemonic = "long canoe riot issue also cotton drink erosion decide nominee easily duck";
+var mnemonic = "federal catalog rival mandate trial inner shop later valid cook staff route";

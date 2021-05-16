@@ -1,1 +1,1 @@
-var mnemonic = "appear voice web skirt mutual subject tired cycle earn lab vehicle tornado";
+var mnemonic = "whisper vehicle recall bird scorpion number soldier parrot female offer guide exit";

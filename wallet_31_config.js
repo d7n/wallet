@@ -1,1 +1,1 @@
-var mnemonic = "neutral link tower weasel wisdom pyramid detail mix clock elder right pudding";
+var mnemonic = "open quiz steak all arrow false industry minute away hub police need";

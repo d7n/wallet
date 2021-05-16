@@ -1,1 +1,1 @@
-var mnemonic = "bike very undo crane satoshi guard runway predict vicious noble label detect";
+var mnemonic = "nation raise city gravity globe blur grunt donate ribbon voyage cable symptom";

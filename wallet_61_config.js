@@ -1,1 +1,1 @@
-var mnemonic = "island guess blanket flame empower practice brief avoid night butter want forum";
+var mnemonic = "twin wall draft cigar feed predict one employ flock betray scheme physical";

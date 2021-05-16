@@ -1,1 +1,1 @@
-var mnemonic = "detect warm exchange polar entire biology police flame coin coast spray fatigue";
+var mnemonic = "cover trend symptom recycle ripple neglect inside follow plug century tray suit";

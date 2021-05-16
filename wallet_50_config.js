@@ -1,1 +1,1 @@
-var mnemonic = "pink escape cotton error aim dust ecology mention tuition come ten robust";
+var mnemonic = "rapid april spider shove into vehicle snake desert journey clean train vintage";

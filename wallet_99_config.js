@@ -1,1 +1,1 @@
-var mnemonic = "raise dose genius special glide venue inherit utility bullet cry loop crowd";
+var mnemonic = "ring lamp toilet right dish carpet include wheat burger picnic silver finger";

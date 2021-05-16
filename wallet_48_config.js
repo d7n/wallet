@@ -1,1 +1,1 @@
-var mnemonic = "true junk assault zone mule rug orbit kid indicate evil repair east";
+var mnemonic = "crew west firm million ring detail clap bomb kick spider denial talk";

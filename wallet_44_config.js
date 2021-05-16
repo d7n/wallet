@@ -1,1 +1,1 @@
-var mnemonic = "pottery fix skirt split negative put balance cover voice door globe absurd";
+var mnemonic = "flag exclude flower salmon apple immune radio blush print icon sting ocean";

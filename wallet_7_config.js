@@ -1,1 +1,1 @@
-var mnemonic = "sudden truth romance only layer ozone season screen resist bamboo guess coffee";
+var mnemonic = "ceiling plunge once undo tonight organ business inhale trim apology resist december";

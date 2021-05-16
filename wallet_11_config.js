@@ -1,1 +1,1 @@
-var mnemonic = "salad muscle concert board sugar drift snake document luxury square olympic curious";
+var mnemonic = "pistol stone stairs bottom century outdoor sign capital crack exotic fence nice";

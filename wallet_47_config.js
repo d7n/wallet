@@ -1,1 +1,1 @@
-var mnemonic = "heart mushroom group cigar aim phrase betray quote enjoy cross gospel clerk";
+var mnemonic = "journey badge gallery finish jungle fuel viable file coral another ribbon bone";

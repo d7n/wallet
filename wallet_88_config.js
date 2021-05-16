@@ -1,1 +1,1 @@
-var mnemonic = "kitten option conduct sniff sheriff visit share squirrel drum client mirror ignore";
+var mnemonic = "frozen rookie deputy garbage blind blanket catalog dad pole shift gasp extra";

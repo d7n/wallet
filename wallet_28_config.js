@@ -1,1 +1,1 @@
-var mnemonic = "half fork someone rescue sphere super demise coral give expose shoot hero";
+var mnemonic = "popular begin satisfy music picnic aspect amused accuse scale loyal lion island";

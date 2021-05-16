@@ -1,1 +1,1 @@
-var mnemonic = "gauge wait menu way move shuffle over feed cloth yard appear mom";
+var mnemonic = "wire fork treat tobacco interest jaguar lobster enroll melody dream rude urban";

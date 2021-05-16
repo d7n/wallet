@@ -1,1 +1,1 @@
-var mnemonic = "drill second cheese under frozen cycle spatial cat wall degree smoke flee";
+var mnemonic = "tunnel nurse silly diagram bus gentle cruise real shock invest hover permit";

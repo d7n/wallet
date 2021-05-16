@@ -1,1 +1,1 @@
-var mnemonic = "helmet beef write flag parent unusual dinosaur bunker stuff onion girl fantasy";
+var mnemonic = "reason negative awake march mad supply couple fall they tribe hood busy";

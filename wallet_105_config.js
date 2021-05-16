@@ -1,1 +1,1 @@
-var mnemonic = "wine slice change scatter rocket hurdle able robot toast leader arch ribbon";
+var mnemonic = "roof napkin large game prize prison leave fan patient minor naive young";

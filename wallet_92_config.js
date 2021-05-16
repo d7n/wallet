@@ -1,1 +1,1 @@
-var mnemonic = "sense door seven suffer badge trip fever piece husband alter mystery miracle";
+var mnemonic = "unhappy shine catalog miracle puppy old valley custom response gloom mirror oak";

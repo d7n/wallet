@@ -1,1 +1,1 @@
-var mnemonic = "sleep machine matter vault exchange carry jeans time inspire enjoy memory purse";
+var mnemonic = "large swing vintage chat door couch gloom fury soda recycle release wealth";

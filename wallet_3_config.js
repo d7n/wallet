@@ -1,1 +1,1 @@
-var mnemonic = "cute arrange size cricket home gather wagon west novel happy label alarm";
+var mnemonic = "envelope vicious arctic exotic chimney south cancel federal zoo acid one mail";

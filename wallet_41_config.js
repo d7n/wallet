@@ -1,1 +1,1 @@
-var mnemonic = "section prevent second endorse fish plug plastic hybrid ignore bike snake cash";
+var mnemonic = "into napkin brown rate actress push wink success order punch verify fox";

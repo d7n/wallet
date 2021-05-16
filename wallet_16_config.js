@@ -1,1 +1,1 @@
-var mnemonic = "raw mechanic wish artist artwork banner argue noise inquiry exit pause wait";
+var mnemonic = "struggle shove mercy sense payment knock script visit good sell flat practice";

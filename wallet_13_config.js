@@ -1,1 +1,1 @@
-var mnemonic = "kidney popular obey post success install hunt final floor twenty elevator lawsuit";
+var mnemonic = "short harsh quick agree owner valve brick hotel hope suit useful key";

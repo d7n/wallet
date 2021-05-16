@@ -1,1 +1,1 @@
-var mnemonic = "special galaxy salt lift pair exercise observe ability runway lab gesture animal";
+var mnemonic = "heavy blouse dry violin explain bottom relief inform image very vapor junk";

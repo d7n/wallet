@@ -1,1 +1,1 @@
-var mnemonic = "confirm there jacket rather gallery twist visa episode spread smart moon forward";
+var mnemonic = "breeze auto fiscal drill mix lamp window sting garden rug supply scene";

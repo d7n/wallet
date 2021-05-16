@@ -1,1 +1,1 @@
-var mnemonic = "mule document bulb hungry empower floor ghost coin hour promote work jungle";
+var mnemonic = "loud innocent accuse october angry maple era harvest guitar name correct shock";

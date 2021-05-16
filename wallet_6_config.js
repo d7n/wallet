@@ -1,1 +1,1 @@
-var mnemonic = "define excess stamp ranch toy priority chalk olive anchor dolphin soup soup";
+var mnemonic = "amount cause slender tissue version real cheese mercy traffic shock man throw";

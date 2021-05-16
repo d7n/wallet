@@ -1,1 +1,1 @@
-var mnemonic = "strategy goddess bunker that seek sea clean uniform hair citizen verb balcony";
+var mnemonic = "evoke record notable harsh run brother blind finger ability lawsuit birth mix";

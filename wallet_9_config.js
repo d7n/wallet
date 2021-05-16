@@ -1,1 +1,1 @@
-var mnemonic = "quantum person era noise whip quit impulse source place just loan what";
+var mnemonic = "drift alpha veteran fantasy husband wear century sweet adult aspect course stereo";

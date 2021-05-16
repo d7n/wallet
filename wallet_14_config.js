@@ -1,1 +1,1 @@
-var mnemonic = "glance jewel film parade open involve move stem consider bulb man write";
+var mnemonic = "problem monitor neck sad jaguar artwork oblige video twist woman plate defense";

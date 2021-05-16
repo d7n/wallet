@@ -1,1 +1,1 @@
-var mnemonic = "coin celery gather twin segment atom novel pattern shy viable chuckle spider";
+var mnemonic = "fruit rug message doctor envelope cave switch supreme gauge property media screen";

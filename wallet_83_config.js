@@ -1,1 +1,1 @@
-var mnemonic = "crunch mystery reform hurry plunge raw accuse alien million ketchup job category";
+var mnemonic = "federal rally record cheese model juice drum clay vapor ripple split poet";

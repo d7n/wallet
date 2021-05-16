@@ -1,1 +1,1 @@
-var mnemonic = "patrol actor paper chase under dog bean grocery injury slide trim scrub";
+var mnemonic = "ceiling alert solution lock time spy pig dinner typical equal frog spice";

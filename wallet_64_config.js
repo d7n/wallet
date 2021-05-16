@@ -1,1 +1,1 @@
-var mnemonic = "animal receive pyramid reason breeze buzz victory spice keep wire mule regret";
+var mnemonic = "kick fan lion dry crisp piano insect ethics next evidence calm fiction";

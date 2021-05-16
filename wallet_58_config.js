@@ -1,1 +1,1 @@
-var mnemonic = "exchange child october beef sock toe celery isolate chunk question office bird";
+var mnemonic = "tennis gaze apart debate educate elbow era refuse loan huge sunset whale";

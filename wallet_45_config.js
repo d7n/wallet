@@ -1,1 +1,1 @@
-var mnemonic = "sausage garden smooth seek cement strong obscure draft tray lemon stairs thank";
+var mnemonic = "insect black then float tip recipe when gain title nice there salute";

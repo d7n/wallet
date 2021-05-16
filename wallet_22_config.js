@@ -1,1 +1,1 @@
-var mnemonic = "inform garbage more shoulder shadow gather market ghost unit leave carry advance";
+var mnemonic = "bacon update donor giant gallery call person assault summer animal glove regret";

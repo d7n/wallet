@@ -1,1 +1,1 @@
-var mnemonic = "tree trap zone voice cause same risk unfold ketchup limb people opera";
+var mnemonic = "purity transfer gospel scatter bounce breeze dice medal they beef search assault";

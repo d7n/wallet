@@ -1,1 +1,1 @@
-var mnemonic = "shock subway click round member guide laugh speed similar frown meat accident";
+var mnemonic = "subway comic fancy phrase cement wood limit finish bulk circle cloud track";

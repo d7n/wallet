@@ -1,1 +1,1 @@
-var mnemonic = "found usual matrix bench major safe degree fashion cross during alcohol swap";
+var mnemonic = "shallow travel lucky skull fitness reveal gym rebuild offer drill cash virus";

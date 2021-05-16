@@ -1,1 +1,1 @@
-var mnemonic = "either broken join round talent song naive couple name asthma lamp depart";
+var mnemonic = "female stereo student battle game soup frame crawl skin loud toss teach";

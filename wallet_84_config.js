@@ -1,1 +1,1 @@
-var mnemonic = "pottery state embrace medal pepper artist pitch endorse wear palace smoke enjoy";
+var mnemonic = "sauce gauge evidence quarter super oblige blind clay trash first oppose media";

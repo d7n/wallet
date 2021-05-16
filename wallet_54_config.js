@@ -1,1 +1,1 @@
-var mnemonic = "chef rug march gossip eight outdoor sibling combine lend foster boring ladder";
+var mnemonic = "glad square crisp skirt enrich taste all earth uncle guide dose helmet";

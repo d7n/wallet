@@ -1,1 +1,1 @@
-var mnemonic = "census disagree another leopard reunion sausage live shoot risk move type satisfy";
+var mnemonic = "excite family marble zoo ignore require panther view million exotic agent grace";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter option stage kind solution toss safe issue drift shell control entry";
+var mnemonic = "gym oppose disorder ordinary tackle axis group speed settle deal recycle pool";

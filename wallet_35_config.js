@@ -1,1 +1,1 @@
-var mnemonic = "squeeze draw edit hawk angle finger slim hobby indicate awkward fan honey";
+var mnemonic = "inside author large meadow enforce confirm health spend final prison cause drama";

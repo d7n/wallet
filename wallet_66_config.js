@@ -1,1 +1,1 @@
-var mnemonic = "relax crystal time fitness alarm feed away antique spy thumb renew disagree";
+var mnemonic = "unfair betray assume deny swift mention giggle credit century cushion razor notice";

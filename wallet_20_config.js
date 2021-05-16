@@ -1,1 +1,1 @@
-var mnemonic = "photo fly access sadness general manual satoshi general rice rotate boil alter";
+var mnemonic = "ginger yard embark original join current patient mansion broom scatter august two";

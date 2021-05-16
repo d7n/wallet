@@ -1,1 +1,1 @@
-var mnemonic = "current like chef alarm autumn cradle certain tiger pluck design inch already";
+var mnemonic = "foot fluid assist swallow plunge sorry group wait theory lizard craft mandate";

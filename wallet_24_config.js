@@ -1,1 +1,1 @@
-var mnemonic = "genuine story rocket tape genuine else cry capital excite project zone people";
+var mnemonic = "rug doctor void spider venue verb guess flee ring giant salmon friend";

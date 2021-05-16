@@ -1,1 +1,1 @@
-var mnemonic = "album neither trumpet exhibit radio sail floor report save lend text large";
+var mnemonic = "gain road grab chest combine arrange detail avocado rely away other citizen";

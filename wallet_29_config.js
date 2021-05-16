@@ -1,1 +1,1 @@
-var mnemonic = "tank stable ankle palace toward apology bring catalog alien aspect good story";
+var mnemonic = "remember swamp must wild jelly casual ten practice mother laugh reduce essence";

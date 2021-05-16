@@ -1,1 +1,1 @@
-var mnemonic = "when creek divert swing flat sketch heart tragic banana birth census soap";
+var mnemonic = "stuff general obscure fragile exile jazz approve mixed session legal swift couple";

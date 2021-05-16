@@ -1,1 +1,1 @@
-var mnemonic = "stuff spider length attract flock machine culture top end carpet oxygen inch";
+var mnemonic = "any praise outer gain dinner once sauce faith analyst armed enrich pupil";

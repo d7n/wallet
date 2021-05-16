@@ -1,1 +1,1 @@
-var mnemonic = "arm thing design fix plug monkey region rescue skin either trend when";
+var mnemonic = "daring oxygen stable lesson deposit brave boring worth roof chuckle purchase panther";

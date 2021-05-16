@@ -1,1 +1,1 @@
-var mnemonic = "vibrant squeeze camera canyon spice account undo hello rack section direct income";
+var mnemonic = "bamboo shoulder possible gain stamp top basic nation sure quick path salad";

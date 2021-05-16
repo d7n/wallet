@@ -1,1 +1,1 @@
-var mnemonic = "cement rather guitar scheme where guitar flat annual crucial feel diary patrol";
+var mnemonic = "battle another evoke recall final promote average method coral regret enter segment";

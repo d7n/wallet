@@ -1,1 +1,1 @@
-var mnemonic = "velvet visit quit business open defy defense credit unable era order receive";
+var mnemonic = "process theory song response relief cook dizzy vehicle grocery opera grunt prepare";

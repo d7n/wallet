@@ -1,1 +1,1 @@
-var mnemonic = "virtual kick scout nut forest country buffalo special task bonus guide public";
+var mnemonic = "chunk patrol quarter course beauty project column project quarter raw demand blouse";

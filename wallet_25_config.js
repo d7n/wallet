@@ -1,1 +1,1 @@
-var mnemonic = "situate item window buyer olympic sell usual melt hazard myself dwarf cluster";
+var mnemonic = "traffic element define harvest engine media brief filter shell empty combine spot";

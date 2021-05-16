@@ -1,1 +1,1 @@
-var mnemonic = "sell quantum episode remember soft twenty borrow bread tell siren upgrade snap";
+var mnemonic = "choose blast foot promote borrow salmon system coil flame dust eight weekend";

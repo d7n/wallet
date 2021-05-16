@@ -1,1 +1,1 @@
-var mnemonic = "illness ripple kangaroo blast indicate mail possible giraffe silly slush absurd year";
+var mnemonic = "actor chalk text fitness fame record furnace draft answer manage night among";

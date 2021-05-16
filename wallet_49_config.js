@@ -1,1 +1,1 @@
-var mnemonic = "congress alley hollow very wasp east insect body oven truly journey bright";
+var mnemonic = "canvas hello spatial hope rack iron act abstract lady fun movie gown";

@@ -1,1 +1,1 @@
-var mnemonic = "income forest negative favorite security treat degree aerobic exhaust fortune canyon zone";
+var mnemonic = "kitten decide bird crane material glow gentle oak roof evil skill response";

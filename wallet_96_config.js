@@ -1,1 +1,1 @@
-var mnemonic = "language vicious rabbit vehicle tuition strike control gadget few asthma height trumpet";
+var mnemonic = "ankle chalk erupt dice rough more muffin balcony item lonely gloom dust";

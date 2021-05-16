@@ -1,1 +1,1 @@
-var mnemonic = "melody neutral social weekend because square memory gaze unique sound light surprise";
+var mnemonic = "radar latin unhappy escape blade trial marble hope weird arctic mystery side";

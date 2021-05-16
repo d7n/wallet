@@ -1,1 +1,1 @@
-var mnemonic = "decide harsh reveal menu retreat ring one section spare office total aspect";
+var mnemonic = "ability fan spell jaguar frown dignity weird mutual between about unable flush";

@@ -1,1 +1,1 @@
-var mnemonic = "various cattle alert awake earn alien rifle artefact rhythm walnut shrug increase";
+var mnemonic = "street negative cat element alcohol innocent fame inject miracle notable brand business";

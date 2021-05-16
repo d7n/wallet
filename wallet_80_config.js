@@ -1,1 +1,1 @@
-var mnemonic = "toss federal pig fan blur behave wrist nerve essence casino impact one";
+var mnemonic = "fame animal aim owner chronic suit notable market battle style yellow regular";

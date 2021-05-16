@@ -1,1 +1,1 @@
-var mnemonic = "jar hundred call flock attitude essay like bounce forum prize idea tornado";
+var mnemonic = "giraffe verb gravity glass stage lemon buffalo brass hidden spend pepper bright";

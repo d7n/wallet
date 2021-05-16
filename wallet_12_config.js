@@ -1,1 +1,1 @@
-var mnemonic = "media accuse tone hurt razor silly goat stove reason resist fitness board";
+var mnemonic = "winner spray artefact figure depart next pear noodle negative goddess wear various";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual gaze come toddler orchard awake retreat amateur artwork size ecology van";
+var mnemonic = "trouble thrive angry arrange modify seek dial barely there there resource process";

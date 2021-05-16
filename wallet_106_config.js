@@ -1,1 +1,1 @@
-var mnemonic = "vocal describe clarify mandate robust witness panther display into pear dose diet";
+var mnemonic = "dragon special point spread power bleak any radio venue inquiry pond toward";

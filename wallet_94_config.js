@@ -1,1 +1,1 @@
-var mnemonic = "gospel fence glare mushroom supreme bargain gauge ribbon myth weather pioneer tilt";
+var mnemonic = "lazy book relax symbol together whip jump shield example avoid rebuild stool";

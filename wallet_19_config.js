@@ -1,1 +1,1 @@
-var mnemonic = "vote assume ready borrow copy food earth apart morning sound decide goose";
+var mnemonic = "access inmate advice penalty curve find chief hazard rib ship carbon horror";
