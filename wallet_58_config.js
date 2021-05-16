@@ -1,1 +1,1 @@
-var mnemonic = "update east arctic panther amount always eternal lazy match pledge bicycle similar";
+var mnemonic = "token gadget arena usage popular radio cabbage dash winter album fitness vintage";

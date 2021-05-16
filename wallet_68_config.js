@@ -1,1 +1,1 @@
-var mnemonic = "sister behind poverty report vapor bone intact afford three road movie country";
+var mnemonic = "obvious rich elder learn banana tennis shoulder toast walnut bid hollow cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid cargo abstract dad humor blood index onion yellow correct acquire visit";
+var mnemonic = "expect raccoon salmon egg sentence staff stereo royal health zone wise feel";

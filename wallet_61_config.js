@@ -1,1 +1,1 @@
-var mnemonic = "kiss sell holiday olive huge denial invite grain patrol like then fit";
+var mnemonic = "jaguar derive season speed atom rain genre network insect you scene crush";

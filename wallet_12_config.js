@@ -1,1 +1,1 @@
-var mnemonic = "year invite will physical slot accident rib few trip series gentle tape";
+var mnemonic = "suggest shy tiger apart lunar obscure inside mixture begin soul produce humble";

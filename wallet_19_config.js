@@ -1,1 +1,1 @@
-var mnemonic = "reflect tuna victory opinion common wage elevator boring relax candy addict dynamic";
+var mnemonic = "universe able gauge choice frown river pumpkin cousin often game rough stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "gym trick liberty spray gym thank evidence salon fly duty summer churn";
+var mnemonic = "detect link height tackle mind kite bullet check wild help over fox";

@@ -1,1 +1,1 @@
-var mnemonic = "price neck rookie voyage kidney unveil toss hollow laugh flag prepare truth";
+var mnemonic = "fee soldier faint random finger robust library shoe trim flock ozone film";

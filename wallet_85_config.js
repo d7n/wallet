@@ -1,1 +1,1 @@
-var mnemonic = "river essence afraid expose canvas hello tray bike theory satoshi grief blouse";
+var mnemonic = "female clog perfect heart cloth swing nerve utility viable still alert ritual";

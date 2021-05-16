@@ -1,1 +1,1 @@
-var mnemonic = "deliver room dentist opinion rare tower luxury neither lava segment fat outside";
+var mnemonic = "tower tree spare story pen oppose wrist kingdom anchor wash pond body";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy symbol advice mention catalog try stamp roof develop stool bonus slim";
+var mnemonic = "pretty job forest faculty ripple merit town act tattoo glimpse little receive";

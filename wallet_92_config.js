@@ -1,1 +1,1 @@
-var mnemonic = "wasp ordinary already document give few crawl fuel spirit doctor magic often";
+var mnemonic = "saddle absurd dish rival impulse chef leg correct absent tank black spy";

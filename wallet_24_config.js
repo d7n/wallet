@@ -1,1 +1,1 @@
-var mnemonic = "seven dust timber earth tilt boil april ketchup grunt cause furnace behave";
+var mnemonic = "love joy tourist today disorder solar slice barely region tape luggage sick";

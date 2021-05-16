@@ -1,1 +1,1 @@
-var mnemonic = "penalty bean width monitor attitude vicious expire depart essay zone monkey present";
+var mnemonic = "drip harsh review double firm flower steel below check trend measure virus";

@@ -1,1 +1,1 @@
-var mnemonic = "task dinner finger senior wrong popular royal spend sell visa voyage oppose";
+var mnemonic = "ten cupboard jungle ankle pigeon core amount hollow accident soccer month uphold";

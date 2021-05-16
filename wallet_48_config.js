@@ -1,1 +1,1 @@
-var mnemonic = "rack harsh purity leopard embrace medal penalty inject main bonus moment noble";
+var mnemonic = "choose sad orbit measure access vintage opinion leaf smart labor truth reopen";

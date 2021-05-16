@@ -1,1 +1,1 @@
-var mnemonic = "feed clean custom climb multiply wet hybrid bullet patch hurt scan inform";
+var mnemonic = "logic alone expire wage tape tunnel feed glove scrap kingdom excess upset";

@@ -1,1 +1,1 @@
-var mnemonic = "misery feed strategy hundred vibrant slush weather metal giggle quantum print secret";
+var mnemonic = "example code mammal frost destroy civil wise luggage grit emotion know weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle eagle museum vessel gather dolphin senior relax mercy surprise search nasty";
+var mnemonic = "venture kick acquire cash spice blast weird fiscal curtain uncle topic clinic";

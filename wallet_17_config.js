@@ -1,1 +1,1 @@
-var mnemonic = "syrup syrup give virtual hair spike rent fish concert lens frown barely";
+var mnemonic = "burst latin wall hungry wolf pink avoid trigger sentence gown fan noble";

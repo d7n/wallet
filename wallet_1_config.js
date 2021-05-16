@@ -1,1 +1,1 @@
-var mnemonic = "pull supply biology antenna inquiry endless file bridge north try artwork fury";
+var mnemonic = "injury strategy raven receive online gas ship copy step filter brave steak";

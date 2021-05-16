@@ -1,1 +1,1 @@
-var mnemonic = "expect lake found obey tower eternal around fatal raven rotate chunk plate";
+var mnemonic = "fresh harbor select virtual chicken conduct pottery cupboard sibling ugly grief drive";

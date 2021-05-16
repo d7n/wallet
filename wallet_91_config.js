@@ -1,1 +1,1 @@
-var mnemonic = "slight novel guitar laptop strategy brick suspect hole must radar zebra glad";
+var mnemonic = "correct laugh sense ensure wedding sell charge filter dash hen ship entire";

@@ -1,1 +1,1 @@
-var mnemonic = "flower enter better beyond miracle alter fancy inquiry focus fire dynamic antenna";
+var mnemonic = "invite endless maze birth video notable toward awkward chalk notice flame venture";

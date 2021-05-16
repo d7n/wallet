@@ -1,1 +1,1 @@
-var mnemonic = "expand connect reject purity stock wage clump all rug castle lion curve";
+var mnemonic = "myth violin arrange excuse excite sausage opera invest lottery inject across sick";

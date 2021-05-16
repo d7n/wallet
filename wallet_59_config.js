@@ -1,1 +1,1 @@
-var mnemonic = "print jungle mountain bird tube dose maple bitter time damage silver aware";
+var mnemonic = "leader pizza forget wolf twin limit agree divide rough orient six supreme";

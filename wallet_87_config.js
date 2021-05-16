@@ -1,1 +1,1 @@
-var mnemonic = "cliff remind gloom disorder shed amused segment say kingdom six together ramp";
+var mnemonic = "trend chef tray forward winter can scrap wild fault damp balance bubble";

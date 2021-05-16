@@ -1,1 +1,1 @@
-var mnemonic = "involve thrive unlock armor used nice visit erupt card sugar mad foster";
+var mnemonic = "quote achieve tragic guide letter twenty arena fury glue imitate length absurd";

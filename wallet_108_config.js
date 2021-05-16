@@ -1,1 +1,1 @@
-var mnemonic = "develop sample input other arrest hat agree learn unfold giraffe mad ocean";
+var mnemonic = "antenna cross damage sun identify mushroom cry bicycle napkin addict effort learn";

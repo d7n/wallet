@@ -1,1 +1,1 @@
-var mnemonic = "collect leader mandate angry bargain oven hockey oblige fox spatial joke grow";
+var mnemonic = "crater trap task rough lonely ride worry clean tragic panic pitch pet";

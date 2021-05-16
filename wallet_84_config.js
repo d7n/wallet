@@ -1,1 +1,1 @@
-var mnemonic = "end tell buzz assume girl picture source glad volume medal cry curve";
+var mnemonic = "fragile inhale tattoo confirm become enrich report ladder boy fault material flower";

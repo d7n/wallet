@@ -1,1 +1,1 @@
-var mnemonic = "army dynamic voyage notable easy perfect rather injury holiday easily scheme junk";
+var mnemonic = "zero problem river candy census goddess chalk dignity foam lunch sad resemble";

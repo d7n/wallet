@@ -1,1 +1,1 @@
-var mnemonic = "client two edge alpha elbow merit series key sustain fun brand ramp";
+var mnemonic = "youth parrot pen shift destroy light cancel vintage swamp indoor random pretty";

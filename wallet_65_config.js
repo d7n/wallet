@@ -1,1 +1,1 @@
-var mnemonic = "nice sauce crunch dynamic wink bomb furnace seed sail trophy coral small";
+var mnemonic = "banana sorry couch slim mix laptop hair another pond erode push expect";

@@ -1,1 +1,1 @@
-var mnemonic = "brush vague scare drop way path else digital mystery surge safe correct";
+var mnemonic = "blouse screen hotel result person noodle stairs critic local board solar agent";

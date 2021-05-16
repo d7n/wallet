@@ -1,1 +1,1 @@
-var mnemonic = "chuckle chief turn arrive zebra blood ridge nasty artist caution donate pole";
+var mnemonic = "acid erupt behave fire sweet fee accuse off over pupil update pistol";

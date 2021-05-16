@@ -1,1 +1,1 @@
-var mnemonic = "pulse earn cube fatigue recall canoe purpose gravity text say kiss domain";
+var mnemonic = "rabbit latin romance faith real approve pudding mango sun scout enforce duck";

@@ -1,1 +1,1 @@
-var mnemonic = "noble settle brave whale adjust boy metal junior mass raise bike tray";
+var mnemonic = "wave cart nasty dad torch side cheese clever game lazy mass fiber";

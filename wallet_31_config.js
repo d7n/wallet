@@ -1,1 +1,1 @@
-var mnemonic = "sense unfold public drive width secret enable sadness pupil front drama scrub";
+var mnemonic = "face release enemy foil opinion luggage pride youth punch spirit voice basic";

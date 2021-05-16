@@ -1,1 +1,1 @@
-var mnemonic = "rabbit neck extra visual antenna trash concert perfect forget paper erode help";
+var mnemonic = "medal fix spice just business senior chapter blush wine sight give maple";

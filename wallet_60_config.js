@@ -1,1 +1,1 @@
-var mnemonic = "wife script level habit canyon news trade cinnamon rude exile veteran claw";
+var mnemonic = "make toy invest slogan trial acoustic silent tent expire cradle garlic they";

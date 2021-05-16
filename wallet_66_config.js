@@ -1,1 +1,1 @@
-var mnemonic = "kidney limit divorce rice pet amazing trial guide current love banner entire";
+var mnemonic = "keen despair century roast motor valley tiny bounce deputy accuse alpha burst";

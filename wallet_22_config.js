@@ -1,1 +1,1 @@
-var mnemonic = "pave door rabbit benefit pattern rude nerve salt toward sun flavor found";
+var mnemonic = "major cross exact frog solve essay hip shuffle answer settle mixed laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "area invest cloth squirrel demand climb beef book clock soft win large";
+var mnemonic = "huge awkward walk swift injury fiction fever remember stable they sphere few";

@@ -1,1 +1,1 @@
-var mnemonic = "defy parent assist inhale resemble roast action citizen fault truly area illness";
+var mnemonic = "arm escape fall oxygen then fire argue bench column above error dove";

@@ -1,1 +1,1 @@
-var mnemonic = "good seminar cloth inform bleak fatigue artwork kitchen parrot ripple air weird";
+var mnemonic = "mammal one broccoli island dash hungry boy another tribe foot verify regular";

@@ -1,1 +1,1 @@
-var mnemonic = "chat inmate history improve bag day moon inflict figure intact gossip rapid";
+var mnemonic = "current dice core harsh then leave powder puzzle stool hawk shield tornado";

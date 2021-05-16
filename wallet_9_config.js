@@ -1,1 +1,1 @@
-var mnemonic = "nice glow either embrace refuse maid rifle regret carbon impose crash bamboo";
+var mnemonic = "hero gadget almost tell pistol setup stairs hidden frequent write fantasy section";

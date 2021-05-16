@@ -1,1 +1,1 @@
-var mnemonic = "poverty cereal virtual bullet cat turn convince primary sheriff brown notable favorite";
+var mnemonic = "track mushroom rebuild estate rocket weird cart slide clay unfold author three";

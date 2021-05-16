@@ -1,1 +1,1 @@
-var mnemonic = "neither accuse man current wisdom chair belt resource guitar window million impose";
+var mnemonic = "day copper elevator decide meat joy define require radar loop fit man";

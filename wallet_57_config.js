@@ -1,1 +1,1 @@
-var mnemonic = "actual alter animal depth ginger chief lyrics unfair silk hobby repeat diesel";
+var mnemonic = "index order spot antique huge impose knock usage curve crash faint topic";

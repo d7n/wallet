@@ -1,1 +1,1 @@
-var mnemonic = "snake help filter wrestle snake glass you blanket garlic carpet cover chuckle";
+var mnemonic = "swift celery finish arrive sausage display zero globe impose love census desert";

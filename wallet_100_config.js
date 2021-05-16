@@ -1,1 +1,1 @@
-var mnemonic = "brave master example tank injury pass brand hurdle regular either whisper urge";
+var mnemonic = "body little clutch harvest apart enjoy sword budget myself motor fine pet";

@@ -1,1 +1,1 @@
-var mnemonic = "update figure assume bench bid peace error phrase clump waste connect wet";
+var mnemonic = "tag affair apple upset rotate tail cross nurse wing park lobster lobster";

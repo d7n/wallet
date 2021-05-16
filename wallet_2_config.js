@@ -1,1 +1,1 @@
-var mnemonic = "much prepare casino bread erode ritual brass section pink mesh usual frozen";
+var mnemonic = "sword detail ethics arctic crucial sort tunnel ostrich soldier fever expose install";

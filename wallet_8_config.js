@@ -1,1 +1,1 @@
-var mnemonic = "copy prepare alley network solar income moral drill smoke true describe crowd";
+var mnemonic = "fever essay leaf october cream hip phrase inform sausage palm space tape";

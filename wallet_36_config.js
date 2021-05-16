@@ -1,1 +1,1 @@
-var mnemonic = "find wire marble strategy inquiry quality stage leaf morning mushroom trash game";
+var mnemonic = "vocal property monkey liberty squirrel future gap shell myself return cake firm";

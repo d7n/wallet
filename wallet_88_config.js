@@ -1,1 +1,1 @@
-var mnemonic = "seminar pretty room foil damp upgrade sing latin rotate olympic page head";
+var mnemonic = "pattern neither flower forget vehicle define soccer armor engine odor silver receive";

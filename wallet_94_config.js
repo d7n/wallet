@@ -1,1 +1,1 @@
-var mnemonic = "stay luxury merge tool phrase permit calm swarm depart scorpion lucky garden";
+var mnemonic = "magic people river middle rotate what baby come fix earn fit merit";

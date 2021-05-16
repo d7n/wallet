@@ -1,1 +1,1 @@
-var mnemonic = "diamond vacant weasel limit property another can damp canoe beauty dilemma dice";
+var mnemonic = "main evoke enhance green team frog kiwi track cabbage nasty tennis negative";

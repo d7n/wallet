@@ -1,1 +1,1 @@
-var mnemonic = "horse chuckle chuckle doctor social picture about width noise effort genius order";
+var mnemonic = "little wrong slim conduct despair master bamboo wreck view mountain owner equip";

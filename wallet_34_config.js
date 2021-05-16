@@ -1,1 +1,1 @@
-var mnemonic = "three vague shrug assault fiber just lawsuit shell abuse dirt shoulder olive";
+var mnemonic = "camp iron useless rain embody make smile general symbol horn damage ticket";

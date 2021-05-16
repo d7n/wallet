@@ -1,1 +1,1 @@
-var mnemonic = "subject come mind photo siege admit vacuum coin direct worth also derive";
+var mnemonic = "machine only social entire harvest decorate jewel admit canal search behind kit";

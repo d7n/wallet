@@ -1,1 +1,1 @@
-var mnemonic = "pledge federal ivory slam retreat loyal burden update maximum rough garlic february";
+var mnemonic = "illegal mix bridge pink doctor whip into rather napkin middle butter luggage";

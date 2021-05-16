@@ -1,1 +1,1 @@
-var mnemonic = "grief faith fluid pole breeze media humor hard evolve honey clarify select";
+var mnemonic = "bulk couple street sphere weird claw barely shiver credit quote truck spike";

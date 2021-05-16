@@ -1,1 +1,1 @@
-var mnemonic = "garlic into skin minute age weasel trigger govern upset sing dignity cycle";
+var mnemonic = "alien area panel ignore cycle owner equal spare online jelly sight gather";

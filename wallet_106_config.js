@@ -1,1 +1,1 @@
-var mnemonic = "army pet jewel film civil clock mouse candy october deputy town stone";
+var mnemonic = "tobacco very pepper champion improve fold close raw novel scissors wedding never";

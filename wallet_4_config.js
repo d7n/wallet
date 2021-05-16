@@ -1,1 +1,1 @@
-var mnemonic = "sea stool spin stem adjust film square math blue tank demise adjust";
+var mnemonic = "mixture key avoid brown pear wheat trust buddy wait paper demand misery";

@@ -1,1 +1,1 @@
-var mnemonic = "fault shadow vivid embark bulk globe type flower bean present panic diary";
+var mnemonic = "company doll butter grape original movie drink quantum combine card quit arrange";

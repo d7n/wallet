@@ -1,1 +1,1 @@
-var mnemonic = "service knee depart fence near bunker hold barrel lake shoe mystery ozone";
+var mnemonic = "almost expire observe example glance crouch clap giggle popular crater enough door";

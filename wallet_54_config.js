@@ -1,1 +1,1 @@
-var mnemonic = "suggest permit around galaxy toss major student wife vessel connect inside hundred";
+var mnemonic = "eternal slab twist great fix draw neither range float donor square sentence";

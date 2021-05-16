@@ -1,1 +1,1 @@
-var mnemonic = "easily scissors boat sand walnut total express spray brush denial puppy require";
+var mnemonic = "insect defense party wish spoon poem federal march right repair void warm";

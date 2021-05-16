@@ -1,1 +1,1 @@
-var mnemonic = "calm place witness rib gap power flat ball truly zero ill mail";
+var mnemonic = "venue abuse trick engage usual focus major puzzle bless liberty dry female";

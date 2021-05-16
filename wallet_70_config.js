@@ -1,1 +1,1 @@
-var mnemonic = "tribe tide artwork hollow october quantum embark mutual position loop seat famous";
+var mnemonic = "arrest brown couple cover lab apart victory caught entry leaf profit welcome";

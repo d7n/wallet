@@ -1,1 +1,1 @@
-var mnemonic = "donkey mouse dose angry issue couch gather rural duck help switch now";
+var mnemonic = "peace over empower gym can rude title venue trouble mixture feed fee";

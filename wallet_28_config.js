@@ -1,1 +1,1 @@
-var mnemonic = "fee snack caution protect sword dog place proud whale antenna violin metal";
+var mnemonic = "laugh arrest mobile split coast donkey gun win thank blade divert budget";

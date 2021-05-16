@@ -1,1 +1,1 @@
-var mnemonic = "staff unable stumble harvest amazing sudden common churn urban useless high letter";
+var mnemonic = "elephant vote together walnut parrot strike miracle monitor general bright lamp radio";

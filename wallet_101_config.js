@@ -1,1 +1,1 @@
-var mnemonic = "decline dove mad social ordinary base find neglect imitate slow wing paper";
+var mnemonic = "person tissue exercise airport ball cube side obscure rude cost laundry little";

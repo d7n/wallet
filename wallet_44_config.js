@@ -1,1 +1,1 @@
-var mnemonic = "remove river focus post vehicle cotton diagram know alarm wisdom magic top";
+var mnemonic = "eight spread connect board marine pink nominee sibling resemble shoe nation brief";

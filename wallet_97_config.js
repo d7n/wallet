@@ -1,1 +1,1 @@
-var mnemonic = "pony ugly explain put card bronze abuse marble crush game because vintage";
+var mnemonic = "basic gain furnace desk aisle cat barrel unaware snack subway cheap ghost";

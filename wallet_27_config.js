@@ -1,1 +1,1 @@
-var mnemonic = "until dentist input cake into stem trumpet opinion worth figure hill chief";
+var mnemonic = "march way drama afraid squirrel amount draw level ten rail evolve behave";

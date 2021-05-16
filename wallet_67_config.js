@@ -1,1 +1,1 @@
-var mnemonic = "cargo shell weird citizen thought fault item kitchen despair tattoo scheme virtual";
+var mnemonic = "enough vibrant pond cake little wild test sure series ladder critic feel";

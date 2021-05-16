@@ -1,1 +1,1 @@
-var mnemonic = "sniff cliff scene edit beef pet excess want human air bitter car";
+var mnemonic = "menu lecture series job caution door simple ensure crater shallow film shell";

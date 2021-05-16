@@ -1,1 +1,1 @@
-var mnemonic = "ripple claim lesson tone draft plastic twelve oval upset add nerve math";
+var mnemonic = "garden stage anger forget desert property hope able stay infant horror surprise";

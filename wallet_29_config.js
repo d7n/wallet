@@ -1,1 +1,1 @@
-var mnemonic = "kingdom whip catalog world dinner poet van proof climb drill pave sure";
+var mnemonic = "praise sausage budget hover spoon else face sure fame area evoke circle";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow hotel erode ready notable produce absent trouble boring business wall pause";
+var mnemonic = "goat salute figure rather tell cave practice borrow hammer attend blue gadget";

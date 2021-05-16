@@ -1,1 +1,1 @@
-var mnemonic = "post float end exhaust owner master robot estate leopard model song surge";
+var mnemonic = "oxygen betray emotion desert forward opinion decide tortoise valve sword frozen plug";

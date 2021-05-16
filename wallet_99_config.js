@@ -1,1 +1,1 @@
-var mnemonic = "gospel dirt patch begin doll document shaft correct memory favorite material short";
+var mnemonic = "rib erupt loan birth empower voyage shrug bitter general broken pear welcome";

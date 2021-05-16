@@ -1,1 +1,1 @@
-var mnemonic = "you cram miss pair despair tide guilt chunk abuse airport remove soap";
+var mnemonic = "wall tray leader mimic impact domain twenty already other smile heavy fatigue";

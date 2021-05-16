@@ -1,1 +1,1 @@
-var mnemonic = "ostrich normal present dismiss essence gym throw blade mouse chimney century gaze";
+var mnemonic = "merit weapon spare cat river usage current cable health box task harsh";

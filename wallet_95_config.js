@@ -1,1 +1,1 @@
-var mnemonic = "truth thumb pizza exclude deposit silver float crater orbit candy slight dose";
+var mnemonic = "rate try length health harbor visual muscle arena present room enact lab";
