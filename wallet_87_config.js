@@ -1,1 +1,1 @@
-var mnemonic = "among light unknown excess left impulse evidence other where awesome faculty modify";
+var mnemonic = "broccoli six cotton sense galaxy predict dad funny tree mystery pill unhappy";

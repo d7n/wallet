@@ -1,1 +1,1 @@
-var mnemonic = "witness meat winter pyramid alone portion toddler slab jar salmon problem inch";
+var mnemonic = "true junk assault zone mule rug orbit kid indicate evil repair east";

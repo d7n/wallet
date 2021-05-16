@@ -1,1 +1,1 @@
-var mnemonic = "fresh robot found stem height magnet result supply object view pilot turtle";
+var mnemonic = "coin celery gather twin segment atom novel pattern shy viable chuckle spider";

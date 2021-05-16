@@ -1,1 +1,1 @@
-var mnemonic = "security summer blush afford custom ill finish army talk able lyrics wait";
+var mnemonic = "velvet visit quit business open defy defense credit unable era order receive";

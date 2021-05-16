@@ -1,1 +1,1 @@
-var mnemonic = "hammer bonus olive fiscal age cannon rebuild tube exhaust pledge fortune usual";
+var mnemonic = "decide harsh reveal menu retreat ring one section spare office total aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "post very plate cinnamon avocado fitness device travel hybrid cloth real all";
+var mnemonic = "illness ripple kangaroo blast indicate mail possible giraffe silly slush absurd year";

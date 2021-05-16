@@ -1,1 +1,1 @@
-var mnemonic = "wet vessel rude hamster clarify urge mobile impose resemble deputy doll employ";
+var mnemonic = "mule document bulb hungry empower floor ghost coin hour promote work jungle";

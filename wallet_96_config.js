@@ -1,1 +1,1 @@
-var mnemonic = "shell harsh scrap glue open ostrich please talent ready couch donate spirit";
+var mnemonic = "language vicious rabbit vehicle tuition strike control gadget few asthma height trumpet";

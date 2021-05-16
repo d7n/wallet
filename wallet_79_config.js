@@ -1,1 +1,1 @@
-var mnemonic = "random unable cushion subway proof inform charge neither elbow absorb carbon chaos";
+var mnemonic = "behave tower fatal already alone panic rebel soon puppy tail into cute";

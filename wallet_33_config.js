@@ -1,1 +1,1 @@
-var mnemonic = "force drift exhibit merry carbon town hidden leave secret train victory purity";
+var mnemonic = "dash satoshi entry then coyote absent fox check any sponsor alter nothing";

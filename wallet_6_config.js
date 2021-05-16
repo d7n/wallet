@@ -1,1 +1,1 @@
-var mnemonic = "artist devote oven anger fitness farm hawk chief husband strike hen wonder";
+var mnemonic = "define excess stamp ranch toy priority chalk olive anchor dolphin soup soup";

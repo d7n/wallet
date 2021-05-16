@@ -1,1 +1,1 @@
-var mnemonic = "feed piano awful toilet wife exercise dance pull rocket valve shuffle plastic";
+var mnemonic = "album neither trumpet exhibit radio sail floor report save lend text large";

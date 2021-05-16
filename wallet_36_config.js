@@ -1,1 +1,1 @@
-var mnemonic = "minute warrior venue disease belt beach one depart tool chat jacket afraid";
+var mnemonic = "dutch vocal fox thought twice equip final hello cave teach junk invite";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster evil crater leg wrap genius custom issue blue eternal task judge";
+var mnemonic = "chef rug march gossip eight outdoor sibling combine lend foster boring ladder";

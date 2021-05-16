@@ -1,1 +1,1 @@
-var mnemonic = "crater fork surface put plate couple goat tunnel twenty chat fix hire";
+var mnemonic = "ritual gaze come toddler orchard awake retreat amateur artwork size ecology van";

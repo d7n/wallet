@@ -1,1 +1,1 @@
-var mnemonic = "steel unit afford narrow empower trouble liberty outdoor exchange apart suspect dutch";
+var mnemonic = "jar hundred call flock attitude essay like bounce forum prize idea tornado";

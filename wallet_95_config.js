@@ -1,1 +1,1 @@
-var mnemonic = "tornado shell mix soon wish spray march lumber melody bus gadget slender";
+var mnemonic = "special galaxy salt lift pair exercise observe ability runway lab gesture animal";

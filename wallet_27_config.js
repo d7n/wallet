@@ -1,1 +1,1 @@
-var mnemonic = "potato arctic foam chaos name trip battle valley rice foam talk prepare";
+var mnemonic = "diamond because wing library hair occur unlock only never flower garbage clutch";

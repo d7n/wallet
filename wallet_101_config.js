@@ -1,1 +1,1 @@
-var mnemonic = "trust human build method fame wealth salmon law ski delay naive impulse";
+var mnemonic = "goat feature always relief horse churn victory report pigeon lady usual slim";

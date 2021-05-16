@@ -1,1 +1,1 @@
-var mnemonic = "charge regular ball tail beef invest runway bring hope pact diary strong";
+var mnemonic = "install group organ cruel window kangaroo foot base wheat table stable popular";

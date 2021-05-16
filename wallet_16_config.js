@@ -1,1 +1,1 @@
-var mnemonic = "naive claw upgrade enjoy damp dice tell logic lazy ranch earth plate";
+var mnemonic = "raw mechanic wish artist artwork banner argue noise inquiry exit pause wait";

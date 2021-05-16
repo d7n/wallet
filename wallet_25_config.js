@@ -1,1 +1,1 @@
-var mnemonic = "crisp taste trophy near cloth hockey base genuine double next enrich defy";
+var mnemonic = "situate item window buyer olympic sell usual melt hazard myself dwarf cluster";

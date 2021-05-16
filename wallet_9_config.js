@@ -1,1 +1,1 @@
-var mnemonic = "gather glide danger embrace lumber snow link trade session cake tilt sword";
+var mnemonic = "quantum person era noise whip quit impulse source place just loan what";

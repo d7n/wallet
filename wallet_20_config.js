@@ -1,1 +1,1 @@
-var mnemonic = "endless hammer deputy require between treat obtain job turn soccer cricket leaf";
+var mnemonic = "photo fly access sadness general manual satoshi general rice rotate boil alter";

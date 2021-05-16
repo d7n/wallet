@@ -1,1 +1,1 @@
-var mnemonic = "situate come banner steak erode note awkward cave welcome patient exile knee";
+var mnemonic = "neutral link tower weasel wisdom pyramid detail mix clock elder right pudding";

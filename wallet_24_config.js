@@ -1,1 +1,1 @@
-var mnemonic = "fade rice decade couple decade glance write funny planet wave net aerobic";
+var mnemonic = "genuine story rocket tape genuine else cry capital excite project zone people";

@@ -1,1 +1,1 @@
-var mnemonic = "together cargo teach pattern coconut act engage smile bacon angle wealth raise";
+var mnemonic = "visit lunar toward symptom number finish subway canvas apology speed curious actor";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse people fee curious arch parent supply kite simple wealth myth team";
+var mnemonic = "long canoe riot issue also cotton drink erosion decide nominee easily duck";

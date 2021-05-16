@@ -1,1 +1,1 @@
-var mnemonic = "shine loud above spell cable suggest whisper host forum video alcohol remain";
+var mnemonic = "inform garbage more shoulder shadow gather market ghost unit leave carry advance";

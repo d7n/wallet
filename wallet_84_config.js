@@ -1,1 +1,1 @@
-var mnemonic = "jaguar pulp atom alarm olive humor baby broccoli thrive fetch armor person";
+var mnemonic = "pottery state embrace medal pepper artist pitch endorse wear palace smoke enjoy";

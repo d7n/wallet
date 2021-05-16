@@ -1,1 +1,1 @@
-var mnemonic = "before dice upgrade pill feed canal ranch orphan adapt phone notice thumb";
+var mnemonic = "congress alley hollow very wasp east insect body oven truly journey bright";

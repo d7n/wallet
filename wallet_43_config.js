@@ -1,1 +1,1 @@
-var mnemonic = "cave pitch sound armed someone patrol hurdle design lava rib pizza phrase";
+var mnemonic = "various cattle alert awake earn alien rifle artefact rhythm walnut shrug increase";

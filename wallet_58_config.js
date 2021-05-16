@@ -1,1 +1,1 @@
-var mnemonic = "cupboard slide slush stamp consider silver battle metal rude pluck top absurd";
+var mnemonic = "exchange child october beef sock toe celery isolate chunk question office bird";

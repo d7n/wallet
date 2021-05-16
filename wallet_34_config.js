@@ -1,1 +1,1 @@
-var mnemonic = "smoke shiver cigar flavor burden cube brother place couple jelly april hill";
+var mnemonic = "glory fame skull lecture fame judge battle since canoe warrior sheriff picture";

@@ -1,1 +1,1 @@
-var mnemonic = "exact save cactus clip alcohol glide copy glove merry network art around";
+var mnemonic = "animal receive pyramid reason breeze buzz victory spice keep wire mule regret";

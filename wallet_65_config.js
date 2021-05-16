@@ -1,1 +1,1 @@
-var mnemonic = "drum whip famous story differ teach spell travel blush success traffic impose";
+var mnemonic = "question sentence mother buddy code thank rural human brisk name friend response";

@@ -1,1 +1,1 @@
-var mnemonic = "island grid anger smoke display art critic add code volume near blur";
+var mnemonic = "melody neutral social weekend because square memory gaze unique sound light surprise";

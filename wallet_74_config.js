@@ -1,1 +1,1 @@
-var mnemonic = "paper oval avocado easily fitness any satoshi spend proof pupil still early";
+var mnemonic = "bike very undo crane satoshi guard runway predict vicious noble label detect";

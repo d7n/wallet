@@ -1,1 +1,1 @@
-var mnemonic = "guide shove shuffle cheese same regret boil waste merry oak essay unlock";
+var mnemonic = "wool approve glide bridge river between bonus script artwork absorb pulse fly";

@@ -1,1 +1,1 @@
-var mnemonic = "green chicken earth heavy enlist gold wave clown ball draw hotel enrich";
+var mnemonic = "heart mushroom group cigar aim phrase betray quote enjoy cross gospel clerk";

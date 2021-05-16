@@ -1,1 +1,1 @@
-var mnemonic = "pepper flee river solid dress sword range forest remove century humble lecture";
+var mnemonic = "current like chef alarm autumn cradle certain tiger pluck design inch already";

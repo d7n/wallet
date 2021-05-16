@@ -1,1 +1,1 @@
-var mnemonic = "leisure one average when minor apple jealous quit art local inquiry push";
+var mnemonic = "half fork someone rescue sphere super demise coral give expose shoot hero";

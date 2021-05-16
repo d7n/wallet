@@ -1,1 +1,1 @@
-var mnemonic = "rubber across wink turtle adult wolf ahead emerge people mail situate main";
+var mnemonic = "detect warm exchange polar entire biology police flame coin coast spray fatigue";

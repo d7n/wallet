@@ -1,1 +1,1 @@
-var mnemonic = "position eye mass maid oyster kangaroo avoid belt lesson siege purse priority";
+var mnemonic = "sense door seven suffer badge trip fever piece husband alter mystery miracle";

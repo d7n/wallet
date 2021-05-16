@@ -1,1 +1,1 @@
-var mnemonic = "panda endless utility tissue rapid hole exercise junk host bronze across wonder";
+var mnemonic = "raise dose genius special glide venue inherit utility bullet cry loop crowd";

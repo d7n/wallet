@@ -1,1 +1,1 @@
-var mnemonic = "angle moment guilt identify deny supply demise become giraffe oak abstract gaze";
+var mnemonic = "sausage garden smooth seek cement strong obscure draft tray lemon stairs thank";

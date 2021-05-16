@@ -1,1 +1,1 @@
-var mnemonic = "great vague later thought cement card identify body love misery doll evidence";
+var mnemonic = "require want evoke donate eternal lobster bar over damage clinic sand sheriff";

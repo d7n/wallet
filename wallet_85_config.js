@@ -1,1 +1,1 @@
-var mnemonic = "author unfold segment visa bachelor lyrics soup bleak joke goose curtain diesel";
+var mnemonic = "assume good stomach drill join uniform chunk gloom neither brick physical lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "skate approve lucky legal code head next network tobacco father small general";
+var mnemonic = "shy nephew glove heart dance glow provide run machine patient silly roof";

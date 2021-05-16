@@ -1,1 +1,1 @@
-var mnemonic = "indicate sun click shuffle digital ask middle wisdom skill shine high raccoon";
+var mnemonic = "apart record correct shove bubble uncle price skin roof ridge oppose pride";

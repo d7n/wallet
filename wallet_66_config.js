@@ -1,1 +1,1 @@
-var mnemonic = "later snack super link whip traffic best expire educate dust legal toast";
+var mnemonic = "relax crystal time fitness alarm feed away antique spy thumb renew disagree";

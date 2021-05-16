@@ -1,1 +1,1 @@
-var mnemonic = "rally balance rent dog chef glare large pelican dash laptop minor rib";
+var mnemonic = "kidney popular obey post success install hunt final floor twenty elevator lawsuit";

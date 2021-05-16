@@ -1,1 +1,1 @@
-var mnemonic = "hard mirror wire panel angry elegant month grow melt brick spread service";
+var mnemonic = "found usual matrix bench major safe degree fashion cross during alcohol swap";

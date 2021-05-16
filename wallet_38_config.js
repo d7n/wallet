@@ -1,1 +1,1 @@
-var mnemonic = "ocean require picture man nasty milk vicious hamster mutual tenant lyrics honey";
+var mnemonic = "sample keep ride tonight success rabbit lemon common bracket math novel deal";

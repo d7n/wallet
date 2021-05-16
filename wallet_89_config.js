@@ -1,1 +1,1 @@
-var mnemonic = "adapt canvas elbow solve clutch season denial area once plate feature lyrics";
+var mnemonic = "push skill find laundry scheme turtle three company ghost neither advice surge";

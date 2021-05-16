@@ -1,1 +1,1 @@
-var mnemonic = "what frown demand charge until village hip obtain unknown gloom soft rifle";
+var mnemonic = "grape course verb width deer birth afraid joy trophy verify gift habit";

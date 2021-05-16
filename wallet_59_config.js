@@ -1,1 +1,1 @@
-var mnemonic = "wheel penalty damp wink curve moon syrup pond pause tribe panel latin";
+var mnemonic = "tree trap zone voice cause same risk unfold ketchup limb people opera";

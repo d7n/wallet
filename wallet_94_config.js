@@ -1,1 +1,1 @@
-var mnemonic = "tiny staff october rebuild family blush curious viable slush wedding interest couch";
+var mnemonic = "gospel fence glare mushroom supreme bargain gauge ribbon myth weather pioneer tilt";

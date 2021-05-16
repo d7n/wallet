@@ -1,1 +1,1 @@
-var mnemonic = "swim emotion grape similar nice speak make sun rural opinion desert pilot";
+var mnemonic = "patrol actor paper chase under dog bean grocery injury slide trim scrub";

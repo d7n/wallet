@@ -1,1 +1,1 @@
-var mnemonic = "aerobic opera fetch merry carry crush home before smile virtual kitten wire";
+var mnemonic = "virtual kick scout nut forest country buffalo special task bonus guide public";

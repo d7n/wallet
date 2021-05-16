@@ -1,1 +1,1 @@
-var mnemonic = "lend name patient tent blade tennis reject silk frame blouse market rack";
+var mnemonic = "squeeze draw edit hawk angle finger slim hobby indicate awkward fan honey";

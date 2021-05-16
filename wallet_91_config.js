@@ -1,1 +1,1 @@
-var mnemonic = "eight asset subject fine rifle pave unable portion suit comic trip dolphin";
+var mnemonic = "shine rug anxiety off moment aspect gentle desert gloom what choose leaf";

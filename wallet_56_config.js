@@ -1,1 +1,1 @@
-var mnemonic = "fee penalty spider arrange luggage artefact spoon random force dinner net icon";
+var mnemonic = "dismiss correct learn shed tissue submit depart paper grunt enroll hard remove";

@@ -1,1 +1,1 @@
-var mnemonic = "lumber antenna cage verify bring treat over finish hour shop pact case";
+var mnemonic = "cement rather guitar scheme where guitar flat annual crucial feel diary patrol";

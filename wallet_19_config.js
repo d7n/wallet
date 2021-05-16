@@ -1,1 +1,1 @@
-var mnemonic = "hood endless ranch art song gravity until labor away sausage throw govern";
+var mnemonic = "vote assume ready borrow copy food earth apart morning sound decide goose";

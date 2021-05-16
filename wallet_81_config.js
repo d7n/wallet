@@ -1,1 +1,1 @@
-var mnemonic = "flat effort bitter crazy trash peasant clutch wealth very junior olive misery";
+var mnemonic = "shock subway click round member guide laugh speed similar frown meat accident";

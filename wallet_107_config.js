@@ -1,1 +1,1 @@
-var mnemonic = "banner act birth afford drip labor tone march confirm silly quality bid";
+var mnemonic = "helmet beef write flag parent unusual dinosaur bunker stuff onion girl fantasy";

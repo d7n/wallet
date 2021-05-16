@@ -1,1 +1,1 @@
-var mnemonic = "sport buddy scorpion derive rebuild will resemble mom fault gauge top focus";
+var mnemonic = "media accuse tone hurt razor silly goat stove reason resist fitness board";

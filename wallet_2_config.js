@@ -1,1 +1,1 @@
-var mnemonic = "humor topple give supreme close snow runway salt drill wing fiber dwarf";
+var mnemonic = "beef minor security visual rug field goat adult hotel evoke extend also";

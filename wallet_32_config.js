@@ -1,1 +1,1 @@
-var mnemonic = "marine much process mandate obvious glare limb tunnel enemy monster sand major";
+var mnemonic = "scatter option stage kind solution toss safe issue drift shell control entry";

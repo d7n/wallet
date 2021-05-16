@@ -1,1 +1,1 @@
-var mnemonic = "music wave mad author sound project start law uncle uniform assault pepper";
+var mnemonic = "confirm grass ride dust survey hole task erosion transfer diamond because goose";

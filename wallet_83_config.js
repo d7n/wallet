@@ -1,1 +1,1 @@
-var mnemonic = "roof hotel broom west ceiling flip write educate holiday debate gravity mimic";
+var mnemonic = "crunch mystery reform hurry plunge raw accuse alien million ketchup job category";

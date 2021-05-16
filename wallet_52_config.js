@@ -1,1 +1,1 @@
-var mnemonic = "book car oyster such pig wet south detect pelican tourist mystery taste";
+var mnemonic = "vibrant squeeze camera canyon spice account undo hello rack section direct income";

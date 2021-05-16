@@ -1,1 +1,1 @@
-var mnemonic = "slice crumble cat measure stairs age proof ordinary biology lucky sound hidden";
+var mnemonic = "when creek divert swing flat sketch heart tragic banana birth census soap";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor public gravity dog mobile cry miracle oppose idea quit grape distance";
+var mnemonic = "drill second cheese under frozen cycle spatial cat wall degree smoke flee";

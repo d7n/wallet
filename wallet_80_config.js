@@ -1,1 +1,1 @@
-var mnemonic = "fever shell surround ten assume acid sentence tattoo flavor issue butter answer";
+var mnemonic = "toss federal pig fan blur behave wrist nerve essence casino impact one";

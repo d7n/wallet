@@ -1,1 +1,1 @@
-var mnemonic = "walk person ice seven suspect can farm lyrics pumpkin round deal marriage";
+var mnemonic = "income forest negative favorite security treat degree aerobic exhaust fortune canyon zone";

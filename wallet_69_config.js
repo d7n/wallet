@@ -1,1 +1,1 @@
-var mnemonic = "opera shrug gravity address whisper short town giggle flower truck anchor trash";
+var mnemonic = "census disagree another leopard reunion sausage live shoot risk move type satisfy";

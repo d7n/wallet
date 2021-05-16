@@ -1,1 +1,1 @@
-var mnemonic = "few park unit double arrest side mechanic omit employ laptop future obey";
+var mnemonic = "kitten option conduct sniff sheriff visit share squirrel drum client mirror ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "way couch soup primary bus bulk summer kite marine fork speed cube";
+var mnemonic = "appear voice web skirt mutual subject tired cycle earn lab vehicle tornado";

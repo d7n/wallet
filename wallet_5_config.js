@@ -1,1 +1,1 @@
-var mnemonic = "mandate cattle task piano camera cheap jacket cry clump harsh warrior mix";
+var mnemonic = "blush truth wolf elder boost apart enable punch expire supply dust weasel";

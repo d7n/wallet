@@ -1,1 +1,1 @@
-var mnemonic = "immense list praise leader open enforce cover hero chimney palm resemble giggle";
+var mnemonic = "memory gas stuff zoo case gesture athlete circle laundry basket slogan behind";

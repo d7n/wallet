@@ -1,1 +1,1 @@
-var mnemonic = "cousin during help crumble load pottery image result account shoe work notice";
+var mnemonic = "pink escape cotton error aim dust ecology mention tuition come ten robust";

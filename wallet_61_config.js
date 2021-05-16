@@ -1,1 +1,1 @@
-var mnemonic = "maple illegal horse lobster deal slight friend maze faint absorb kitten carbon";
+var mnemonic = "island guess blanket flame empower practice brief avoid night butter want forum";

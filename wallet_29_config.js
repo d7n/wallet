@@ -1,1 +1,1 @@
-var mnemonic = "clip captain arena mouse ask reject curtain paper math slush relief gaze";
+var mnemonic = "tank stable ankle palace toward apology bring catalog alien aspect good story";

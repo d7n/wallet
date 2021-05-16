@@ -1,1 +1,1 @@
-var mnemonic = "ten enter denial any boss aunt moon account slow tennis switch regular";
+var mnemonic = "balance used mercy element final diet secret casino ice effort drill miss";

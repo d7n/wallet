@@ -1,1 +1,1 @@
-var mnemonic = "kite cliff live warm state dirt zebra horse emerge seven fever exhibit";
+var mnemonic = "frog vast black table illness track meadow stable seed pull ethics slim";

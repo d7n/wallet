@@ -1,1 +1,1 @@
-var mnemonic = "main notable joke dice found wide spread hidden return jaguar extend math";
+var mnemonic = "arm thing design fix plug monkey region rescue skin either trend when";

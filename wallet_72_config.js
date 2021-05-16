@@ -1,1 +1,1 @@
-var mnemonic = "debate guilt trouble move sorry pigeon front tomato flag huge ginger elegant";
+var mnemonic = "strategy goddess bunker that seek sea clean uniform hair citizen verb balcony";
