@@ -1,1 +1,1 @@
-var mnemonic = "ghost unknown super seminar club beach slab true train tag mechanic vacuum";
+var mnemonic = "correct use flag seek salon jump hover file snake reopen pumpkin tongue";

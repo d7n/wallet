@@ -1,1 +1,1 @@
-var mnemonic = "tortoise will post emotion pistol filter bonus rebuild front coil language deer";
+var mnemonic = "island visit indicate vocal banana swift island poem lamp crime urban title";

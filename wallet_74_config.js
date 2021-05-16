@@ -1,1 +1,1 @@
-var mnemonic = "liberty code guard misery smile gather stove wear push photo swim collect";
+var mnemonic = "drip moon festival region canyon high mixture salad accident brass cover fever";

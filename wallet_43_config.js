@@ -1,1 +1,1 @@
-var mnemonic = "area upper elder margin goose uncover nation solution stumble snack urban choice";
+var mnemonic = "fringe gasp mention brick cool leaf income feature wreck strike wreck metal";

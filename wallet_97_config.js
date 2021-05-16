@@ -1,1 +1,1 @@
-var mnemonic = "cabin patrol minimum kangaroo knock forum undo boil forest piece notice shove";
+var mnemonic = "hire range slender motion range mass festival gate switch adult want original";

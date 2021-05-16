@@ -1,1 +1,1 @@
-var mnemonic = "hurry call belt firm mechanic olive bless bless forum dove goddess stomach";
+var mnemonic = "fire mimic solar hedgehog walk gym flat protect ladder firm episode fade";

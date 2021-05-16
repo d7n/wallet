@@ -1,1 +1,1 @@
-var mnemonic = "seminar jazz naive diamond exhaust business imitate leaf unusual bullet panic doll";
+var mnemonic = "object devote bachelor clever hour cage sadness hold below machine fit famous";

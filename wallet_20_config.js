@@ -1,1 +1,1 @@
-var mnemonic = "breeze van auto wool voyage hat skate desert average couch siren ensure";
+var mnemonic = "path habit beauty stereo spend message dry dilemma sauce half sail october";

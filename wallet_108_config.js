@@ -1,1 +1,1 @@
-var mnemonic = "giant you sea soldier trophy pyramid boss field sign equip walnut suspect";
+var mnemonic = "include runway sausage bundle session bronze fit often quarter hole moral attend";

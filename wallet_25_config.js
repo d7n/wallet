@@ -1,1 +1,1 @@
-var mnemonic = "remember run tobacco glare improve slide salmon cloud time promote flash sample";
+var mnemonic = "ivory fat furnace tongue fashion trial twin wife horror blush meat renew";

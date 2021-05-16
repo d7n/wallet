@@ -1,1 +1,1 @@
-var mnemonic = "sand casino close resemble open spawn luggage execute hand voyage play puppy";
+var mnemonic = "arena matrix ticket sand noise sense bottom argue that drip abstract square";

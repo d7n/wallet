@@ -1,1 +1,1 @@
-var mnemonic = "fitness congress kid notice valve oxygen empower ready course duty avocado letter";
+var mnemonic = "say clock lonely width coast ecology turkey final entire short butter rebel";

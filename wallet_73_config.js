@@ -1,1 +1,1 @@
-var mnemonic = "elite myth security before give manual return congress math help comfort hero";
+var mnemonic = "puppy spell casino fresh dice office switch soda drop credit wheel renew";

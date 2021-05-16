@@ -1,1 +1,1 @@
-var mnemonic = "orange dynamic perfect melody clip order tilt oven filter symptom grab move";
+var mnemonic = "number will suggest tilt glue hazard will canoe time industry find home";

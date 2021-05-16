@@ -1,1 +1,1 @@
-var mnemonic = "chase cloud wreck loyal history attack quit pave foil bone all actual";
+var mnemonic = "salt jewel air bind rose run badge insane smart photo fold address";

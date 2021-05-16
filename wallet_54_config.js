@@ -1,1 +1,1 @@
-var mnemonic = "popular dynamic century moment fit nation timber stone tumble gold version faculty";
+var mnemonic = "bus rely capable sort predict wine excess sick child peanut measure unit";

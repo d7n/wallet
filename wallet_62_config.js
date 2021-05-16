@@ -1,1 +1,1 @@
-var mnemonic = "pigeon drive manual expand unknown alarm climb lumber grocery huge silent burst";
+var mnemonic = "volcano mom test grain fragile swap album intact permit paper quantum poem";

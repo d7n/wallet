@@ -1,1 +1,1 @@
-var mnemonic = "type thunder rude cable source valid powder yellow modify leopard photo trim";
+var mnemonic = "curious version lawn fortune host online humble poem panel brand minor turkey";

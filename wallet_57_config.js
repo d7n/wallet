@@ -1,1 +1,1 @@
-var mnemonic = "merit magic candy beef vicious flush remember bubble fever topple crazy human";
+var mnemonic = "sock someone dentist bleak tenant romance review foster body summer later network";

@@ -1,1 +1,1 @@
-var mnemonic = "have income panda tenant phone enhance south clerk flame room home someone";
+var mnemonic = "usual motor muscle eyebrow spice lift fragile hobby witness stool ginger peanut";

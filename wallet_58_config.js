@@ -1,1 +1,1 @@
-var mnemonic = "video butter direct suffer long old afford burden category urge change will";
+var mnemonic = "leaf pill vanish whip unusual pattern become once humble danger minute left";

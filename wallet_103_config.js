@@ -1,1 +1,1 @@
-var mnemonic = "calm faculty movie bulb flag swear dismiss exact luxury palm okay okay";
+var mnemonic = "medal load upset divide rose embody upset prosper juice zone forward business";

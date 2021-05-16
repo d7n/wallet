@@ -1,1 +1,1 @@
-var mnemonic = "summer diesel airport double chase key simple thank pig debate access boat";
+var mnemonic = "false salad artefact spare outside half wheat market turtle carry morning aspect";

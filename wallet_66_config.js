@@ -1,1 +1,1 @@
-var mnemonic = "purpose room congress bundle cat pioneer gallery blue rule battle believe cherry";
+var mnemonic = "flee receive stumble child route please police science edge naive village video";

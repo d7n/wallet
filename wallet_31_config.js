@@ -1,1 +1,1 @@
-var mnemonic = "pigeon weather stumble direct credit soul flame before rookie predict arrive episode";
+var mnemonic = "sadness teach oxygen address faculty team glad law notice cat cluster favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "angry soft abandon permit staff heart capital patch life master save soon";
+var mnemonic = "tired else magic pole stable amused logic humor sleep brass govern faint";

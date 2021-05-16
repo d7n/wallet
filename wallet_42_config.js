@@ -1,1 +1,1 @@
-var mnemonic = "custom when mention clip powder sausage upset feature refuse symptom phone job";
+var mnemonic = "purpose what horse confirm color fat teach vivid mean honey pudding hidden";

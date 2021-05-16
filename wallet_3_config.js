@@ -1,1 +1,1 @@
-var mnemonic = "sight autumn simple like view erode empower lesson tennis actual theory foam";
+var mnemonic = "crunch earn stereo board afraid clip lottery sphere ten valley inherit cruel";

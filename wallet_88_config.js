@@ -1,1 +1,1 @@
-var mnemonic = "control common loyal chat ill stove token pistol custom fame indicate junk";
+var mnemonic = "recall snake deputy license coast burger order inner month warm mandate fortune";

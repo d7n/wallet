@@ -1,1 +1,1 @@
-var mnemonic = "trial silent short person swap scare pen metal donor lion pulp heavy";
+var mnemonic = "ladder question choose strong lawsuit kitchen retire other unfold antenna hamster wood";

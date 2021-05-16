@@ -1,1 +1,1 @@
-var mnemonic = "humor city pear trick coconut interest cotton vendor walnut mention genius daughter";
+var mnemonic = "slight ginger agree mobile fold worth jungle valve vicious skull west pride";

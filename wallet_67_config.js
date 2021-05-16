@@ -1,1 +1,1 @@
-var mnemonic = "rough rebuild attend patient gold resist gentle fish okay enroll cancel horse";
+var mnemonic = "live social miracle cruel expect wolf license cook rescue dragon essence seven";

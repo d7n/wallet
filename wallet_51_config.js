@@ -1,1 +1,1 @@
-var mnemonic = "bone slide settle average alcohol jaguar exhibit eagle ball equal certain hunt";
+var mnemonic = "convince shiver sniff hill into viable marriage skin real cigar episode magic";

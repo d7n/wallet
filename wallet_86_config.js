@@ -1,1 +1,1 @@
-var mnemonic = "evolve manage spray galaxy theme boy observe burden floor enhance ability clarify";
+var mnemonic = "involve rocket because dolphin decade fame way reward eager smooth call barely";

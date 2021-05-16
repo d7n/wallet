@@ -1,1 +1,1 @@
-var mnemonic = "twenty payment tail true time purpose receive exact slight winter absorb cushion";
+var mnemonic = "social soft train filter bench crumble broken evil roast blur arrest scorpion";

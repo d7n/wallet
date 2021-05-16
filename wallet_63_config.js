@@ -1,1 +1,1 @@
-var mnemonic = "album museum cement acoustic basket suggest horse use label crowd fat load";
+var mnemonic = "ketchup provide damage error address cloth math decade wasp file virtual render";

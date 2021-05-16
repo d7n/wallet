@@ -1,1 +1,1 @@
-var mnemonic = "wedding sand desert suggest region update october ticket flag toss answer toward";
+var mnemonic = "zero alone embark frown slender size lift cupboard trick turkey imitate dad";

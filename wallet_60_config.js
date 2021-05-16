@@ -1,1 +1,1 @@
-var mnemonic = "debris frog slab concert donor near orphan filter evil liberty say bounce";
+var mnemonic = "control change live source inch stomach walnut disease repair news bicycle there";

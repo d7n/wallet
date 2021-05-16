@@ -1,1 +1,1 @@
-var mnemonic = "chronic consider case tag veteran wing middle session split chair draw rookie";
+var mnemonic = "theme point stumble require crop morning sniff ceiling pledge damage choice ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "kit sunset outdoor volume nice like ketchup payment exit acoustic ladder melt";
+var mnemonic = "decrease interest cigar people swing embody convince young illegal pigeon defy uncle";

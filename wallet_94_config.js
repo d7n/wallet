@@ -1,1 +1,1 @@
-var mnemonic = "hub bless afraid ocean split stamp frozen athlete erase alarm genuine pool";
+var mnemonic = "hurt patch media elbow drive fire mechanic enrich ordinary document lemon clean";

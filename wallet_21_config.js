@@ -1,1 +1,1 @@
-var mnemonic = "behind high arm spoon swallow wrestle danger trial explain session one blossom";
+var mnemonic = "roof hand verb reunion rain pupil unhappy identify cave dismiss gospel three";

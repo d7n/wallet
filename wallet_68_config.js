@@ -1,1 +1,1 @@
-var mnemonic = "hurdle hedgehog trend rare type fold mechanic merit clown frog parrot aunt";
+var mnemonic = "inside cloth give hero tail put resist cash win parade fiber traffic";

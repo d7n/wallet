@@ -1,1 +1,1 @@
-var mnemonic = "admit talk hockey urban faith crop segment south toward endless enough way";
+var mnemonic = "toss chief youth page crumble grid rescue uniform hedgehog office west option";

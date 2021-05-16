@@ -1,1 +1,1 @@
-var mnemonic = "funny ill obvious stick tomato april increase foot expire embody luxury laugh";
+var mnemonic = "green erupt good search swing tank gorilla riot hawk damage tiny loud";

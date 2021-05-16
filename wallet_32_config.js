@@ -1,1 +1,1 @@
-var mnemonic = "silly drive clever plastic few shell wrap tuna people artefact rail hungry";
+var mnemonic = "wine garment wait alley critic blossom risk carry act coil poem connect";

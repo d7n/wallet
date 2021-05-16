@@ -1,1 +1,1 @@
-var mnemonic = "sphere picnic castle develop veteran riot friend apology fabric final shell lava";
+var mnemonic = "symptom awesome bargain december hand equip ketchup pioneer purchase fog photo merge";

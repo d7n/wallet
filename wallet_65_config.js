@@ -1,1 +1,1 @@
-var mnemonic = "mom spoon practice edit couch shallow base debris portion phrase velvet shy";
+var mnemonic = "lunch huge when check hungry disagree raven injury truck push random lunch";

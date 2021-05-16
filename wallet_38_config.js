@@ -1,1 +1,1 @@
-var mnemonic = "garden day that asset middle daring brass shoulder drive warrior jelly inherit";
+var mnemonic = "recycle list camp blush pelican immune rhythm kitten leisure debate rotate bread";

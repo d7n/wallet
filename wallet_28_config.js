@@ -1,1 +1,1 @@
-var mnemonic = "need machine grid fiber upper mask try breeze palm purity attend sweet";
+var mnemonic = "call core door suspect mesh subject screen rose grant thought sniff release";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce mixture bind deposit away employ onion curious extend warfare long transfer";
+var mnemonic = "wood isolate bind dentist toy rifle horse vital tower first law february";

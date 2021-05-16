@@ -1,1 +1,1 @@
-var mnemonic = "tape tonight uniform oven mercy dune hundred all wisdom viable strategy oyster";
+var mnemonic = "helmet wash hazard finish pitch axis ocean addict want verify type stand";

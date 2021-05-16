@@ -1,1 +1,1 @@
-var mnemonic = "void heart disagree again ignore rebuild diesel myth body fork cupboard metal";
+var mnemonic = "color hidden cause maid crouch jealous estate betray zone tired card amazing";

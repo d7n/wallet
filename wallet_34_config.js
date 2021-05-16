@@ -1,1 +1,1 @@
-var mnemonic = "plug wage bundle physical parent super risk vague point muffin retire urge";
+var mnemonic = "green hawk sound utility already rule display hospital obey insect report print";

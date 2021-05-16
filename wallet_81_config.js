@@ -1,1 +1,1 @@
-var mnemonic = "hurry cannon kick upon mean road hat comic panic pig spot risk";
+var mnemonic = "anchor water cook math vintage catch anxiety pledge amused add panel bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "glass length old pull heart library undo undo benefit cruel congress happy";
+var mnemonic = "menu focus chair play spend priority actress roast timber gospel because level";

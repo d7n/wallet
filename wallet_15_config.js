@@ -1,1 +1,1 @@
-var mnemonic = "drastic improve velvet vacant another visa silk gate twist blue addict gold";
+var mnemonic = "vague adult because lamp fuel happy pave fresh dash task scan minor";

@@ -1,1 +1,1 @@
-var mnemonic = "receive what loan one brief nephew course borrow uncle spy mind lab";
+var mnemonic = "trouble magic crash now raise flock absurd increase draw artist rely educate";

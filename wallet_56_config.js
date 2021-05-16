@@ -1,1 +1,1 @@
-var mnemonic = "topple script exclude wish exclude chat solve tuna scene merry eternal moral";
+var mnemonic = "pulp flower ill supreme lucky shed hedgehog average achieve bottom ladder bracket";

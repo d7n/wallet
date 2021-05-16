@@ -1,1 +1,1 @@
-var mnemonic = "story olive kingdom foot rural tent pulse false car tennis any thrive";
+var mnemonic = "diagram cycle sword actress afraid doctor edit join chef sport ugly hybrid";

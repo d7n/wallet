@@ -1,1 +1,1 @@
-var mnemonic = "feel report material father move only pony carpet fitness slender company hurdle";
+var mnemonic = "act album crucial old fury budget open topple horror goddess urban review";

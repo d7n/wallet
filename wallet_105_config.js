@@ -1,1 +1,1 @@
-var mnemonic = "decline amazing oak claim text sure merry yard pledge romance ability response";
+var mnemonic = "remember want parade actor liar under satisfy coil deliver buzz eager lemon";

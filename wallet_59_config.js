@@ -1,1 +1,1 @@
-var mnemonic = "joy story manual thunder patch just jelly music total acoustic patch art";
+var mnemonic = "wise sample above caution enforce easily theme valley ten excite sample decrease";

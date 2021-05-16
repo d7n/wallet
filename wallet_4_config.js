@@ -1,1 +1,1 @@
-var mnemonic = "fringe brother spend buzz check lobster slogan disease armor sustain foster ladder";
+var mnemonic = "bone long budget public better exit orchard easily story novel plug decline";

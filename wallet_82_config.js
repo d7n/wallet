@@ -1,1 +1,1 @@
-var mnemonic = "wage cradle syrup wide vital tonight invite hungry share visa income orient";
+var mnemonic = "destroy moral service quote senior glad gorilla good box trip surround like";

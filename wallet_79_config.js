@@ -1,1 +1,1 @@
-var mnemonic = "cycle curious involve brother volcano connect olympic next aspect wash fatal pumpkin";
+var mnemonic = "option wisdom illegal maple license runway uphold radar insect mask sniff thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "library couch have example faith twelve problem liberty sweet truly pull help";
+var mnemonic = "doll almost biology stage error used elephant tonight section smile brown recycle";

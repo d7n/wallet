@@ -1,1 +1,1 @@
-var mnemonic = "wheat near already attack soul clump fee treat someone company crawl shift";
+var mnemonic = "mirror brisk output beauty cart child connect dynamic nation chimney prepare before";

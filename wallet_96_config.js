@@ -1,1 +1,1 @@
-var mnemonic = "imitate repair speak actual glance brother priority smooth staff eye resource add";
+var mnemonic = "tiger term print mechanic tuition oval unusual pig stay mechanic steel test";

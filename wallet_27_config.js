@@ -1,1 +1,1 @@
-var mnemonic = "open exhibit sunset pulse stereo basket balance twenty remove cage pistol prison";
+var mnemonic = "amateur vintage squeeze verb error fix real reflect surprise occur innocent duck";

@@ -1,1 +1,1 @@
-var mnemonic = "express narrow umbrella bamboo duty bring bird van body sauce prepare pistol";
+var mnemonic = "rug fresh alpha scrub glove destroy please also vault boy lucky process";

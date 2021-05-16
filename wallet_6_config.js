@@ -1,1 +1,1 @@
-var mnemonic = "denial surge hospital polar speed tonight total skin poet jazz timber sword";
+var mnemonic = "stable space glory laptop tree window second kingdom prize peanut filter fork";

@@ -1,1 +1,1 @@
-var mnemonic = "engage allow tiny measure clip off beach replace dice shrimp smoke lunar";
+var mnemonic = "ginger radio trust version inside tribe seed legal item crunch punch brick";

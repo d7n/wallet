@@ -1,1 +1,1 @@
-var mnemonic = "human oppose loyal daughter lottery jacket bacon imitate upgrade exhibit novel tired";
+var mnemonic = "rapid diesel adjust then cat floor help blanket catalog foam century confirm";

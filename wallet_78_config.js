@@ -1,1 +1,1 @@
-var mnemonic = "ceiling cheap exit husband execute patient happy surround army thing process bitter";
+var mnemonic = "latin tragic milk supreme reward cloth test genius utility lens young quiz";

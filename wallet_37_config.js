@@ -1,1 +1,1 @@
-var mnemonic = "craft garage curtain pink ritual join useless deposit rifle cup choose parent";
+var mnemonic = "argue path casino route about reject globe fun december luxury road young";

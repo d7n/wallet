@@ -1,1 +1,1 @@
-var mnemonic = "cousin solid coral reflect cover duck suit wink credit burden phone exhaust";
+var mnemonic = "tenant warfare custom brisk device pudding together subway famous cruise amateur cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "talk album globe memory wing exotic lawn soon velvet door school leader";
+var mnemonic = "mean dust clip fiber nothing strategy thunder gentle rocket among sunset boss";

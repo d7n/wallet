@@ -1,1 +1,1 @@
-var mnemonic = "initial renew ski swallow radio peace unique prison bracket mountain flush check";
+var mnemonic = "donate seek setup lounge maple riot wash scale heavy reject gap tongue";

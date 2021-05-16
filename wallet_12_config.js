@@ -1,1 +1,1 @@
-var mnemonic = "million crystal piano razor favorite tail flee shop hip write doctor roast";
+var mnemonic = "feel release increase law result cat evoke insect vendor area interest series";

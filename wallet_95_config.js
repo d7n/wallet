@@ -1,1 +1,1 @@
-var mnemonic = "diesel follow planet dress stock false tube enact wear great kite another";
+var mnemonic = "stand immense aspect cement head wasp host flush tray unfold museum engage";

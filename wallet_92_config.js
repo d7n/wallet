@@ -1,1 +1,1 @@
-var mnemonic = "wrap mandate royal accident ranch hawk float brief mask echo zero cook";
+var mnemonic = "tomato trial moral coffee assault beyond burst dad sun copper gown absorb";

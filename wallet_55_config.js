@@ -1,1 +1,1 @@
-var mnemonic = "stomach word record chest castle sick load escape real loud scan nothing";
+var mnemonic = "satisfy improve pill survey advice doll garlic author apple piece chef near";

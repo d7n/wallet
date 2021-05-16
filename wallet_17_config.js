@@ -1,1 +1,1 @@
-var mnemonic = "lumber melt coast body dignity clip sort anchor rescue pact antique stay";
+var mnemonic = "calm addict suit dove obvious math seek right steel again screen proud";

@@ -1,1 +1,1 @@
-var mnemonic = "amused recall shift office broccoli account digital field hotel gold input unit";
+var mnemonic = "banana twice green lumber address farm shed alpha toward tonight finger busy";
