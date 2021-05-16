@@ -1,1 +1,1 @@
-var mnemonic = "happy arrange base valley kingdom license early mosquito oak trend reward aim";
+var mnemonic = "math hamster coffee voyage call audit program twist news spell solid wood";

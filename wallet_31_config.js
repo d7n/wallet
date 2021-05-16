@@ -1,1 +1,1 @@
-var mnemonic = "media wrist account upset dragon hybrid sleep claim orient when method hobby";
+var mnemonic = "bicycle few also clock have capital sibling noble inner awful travel trend";

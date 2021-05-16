@@ -1,1 +1,1 @@
-var mnemonic = "cat guilt liberty smooth toss crater digital kingdom sign seek into arrest";
+var mnemonic = "morning wheel afford small curve lumber miss royal attract gate another fog";

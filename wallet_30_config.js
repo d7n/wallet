@@ -1,1 +1,1 @@
-var mnemonic = "sponsor purse fly lawn remember layer release music token swim dish hobby";
+var mnemonic = "crater sad tissue border witness medal often tuna elegant wave casino action";

@@ -1,1 +1,1 @@
-var mnemonic = "old program job roof nurse join senior scale valley hood clip blossom";
+var mnemonic = "spot blue eternal feel bulb easy slim describe original panther slab hidden";

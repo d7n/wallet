@@ -1,1 +1,1 @@
-var mnemonic = "admit core lawsuit discover cupboard depth cloth poem great insect cute stomach";
+var mnemonic = "come aim prison oven ripple clay scorpion cigar drum capable faith vibrant";

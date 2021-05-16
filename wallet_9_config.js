@@ -1,1 +1,1 @@
-var mnemonic = "zero must outer multiply room gate purity atom mammal suggest shadow recipe";
+var mnemonic = "ozone flower stone next friend critic student wrap buffalo umbrella powder obtain";

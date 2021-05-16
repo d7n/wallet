@@ -1,1 +1,1 @@
-var mnemonic = "business uncover click depth family garden resist ozone myth vehicle romance over";
+var mnemonic = "bubble apology trick doctor cattle able kiwi speed alarm receive flat select";

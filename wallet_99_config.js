@@ -1,1 +1,1 @@
-var mnemonic = "around series ahead effort physical service clerk front you drastic payment puzzle";
+var mnemonic = "organ limb extra grief gloom merit chaos drum pink adapt allow public";

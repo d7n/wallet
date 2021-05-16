@@ -1,1 +1,1 @@
-var mnemonic = "genius easily hip census pupil depth heavy honey hurry ignore soup frown";
+var mnemonic = "pride toss elegant garlic nature fog cake office praise boring mutual hole";

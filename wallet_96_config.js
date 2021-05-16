@@ -1,1 +1,1 @@
-var mnemonic = "frozen uniform satoshi oppose genuine cook math later buffalo involve alter earth";
+var mnemonic = "remain robot coral adjust fog friend globe top clown hill burden torch";

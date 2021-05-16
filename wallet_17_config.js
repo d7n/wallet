@@ -1,1 +1,1 @@
-var mnemonic = "congress primary arrow organ trial minor case equip sword ribbon output like";
+var mnemonic = "coast donkey coyote biology lobster loud kiwi uniform oven lake ethics item";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet comfort immune quality jewel nuclear area blind stairs slender suspect taxi";
+var mnemonic = "accident senior absent gift thunder client insect display wrap mix across furnace";

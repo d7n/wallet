@@ -1,1 +1,1 @@
-var mnemonic = "edge convince paddle smoke evoke stick minimum present city snack arrest depart";
+var mnemonic = "reward tip vocal enter thrive habit random can soon timber slide shuffle";

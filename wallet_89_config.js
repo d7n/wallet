@@ -1,1 +1,1 @@
-var mnemonic = "quick old issue spoon champion same mystery repair affair powder cherry lounge";
+var mnemonic = "vanish grain game subject despair plunge day slogan lonely size defy small";

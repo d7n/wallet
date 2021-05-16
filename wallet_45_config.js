@@ -1,1 +1,1 @@
-var mnemonic = "lottery street marine quit certain frozen maid wedding office mix wink garlic";
+var mnemonic = "verify issue mom attack make treat bar twelve obscure before aunt staff";

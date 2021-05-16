@@ -1,1 +1,1 @@
-var mnemonic = "pony birth tornado supply police north only reject bonus best canvas ostrich";
+var mnemonic = "width panda fiction squirrel thrive flight grain live model insane soft shy";

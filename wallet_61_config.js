@@ -1,1 +1,1 @@
-var mnemonic = "volume analyst already install enough grant wear peace prison public veteran sail";
+var mnemonic = "above enrich poverty crane angle adjust gym awkward proud front multiply path";

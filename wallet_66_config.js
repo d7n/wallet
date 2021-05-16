@@ -1,1 +1,1 @@
-var mnemonic = "mesh balance help hope erode noble gentle humble example rate mango visual";
+var mnemonic = "hood vague forum nothing thank master better east head motion west paddle";

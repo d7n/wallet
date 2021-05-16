@@ -1,1 +1,1 @@
-var mnemonic = "enjoy local common tennis amateur afford expire harsh skill myself nasty edge";
+var mnemonic = "improve light ritual citizen black wide enroll age route choose wild tone";

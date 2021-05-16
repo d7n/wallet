@@ -1,1 +1,1 @@
-var mnemonic = "output bamboo outer echo merge powder perfect predict swear thunder foil identify";
+var mnemonic = "know order kit cricket season rescue middle economy fault fortune fine army";

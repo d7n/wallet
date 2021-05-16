@@ -1,1 +1,1 @@
-var mnemonic = "iron emerge ceiling citizen cloth donor lunch figure coconut bus peanut balcony";
+var mnemonic = "cave plunge traffic ethics minute mixed popular attitude ski mango able august";

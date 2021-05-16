@@ -1,1 +1,1 @@
-var mnemonic = "circle theory elevator broccoli possible mobile burden gallery pull casual else bench";
+var mnemonic = "magic spawn member police top top squeeze potato project jacket caution visa";

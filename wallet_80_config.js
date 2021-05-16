@@ -1,1 +1,1 @@
-var mnemonic = "police clap clever nature oppose journey pluck vehicle apology movie fortune either";
+var mnemonic = "hill dilemma embrace amount aware runway rotate core drift duck cabbage dish";

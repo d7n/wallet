@@ -1,1 +1,1 @@
-var mnemonic = "expose onion course also general interest whip choose jewel bleak struggle eight";
+var mnemonic = "glare electric joy switch equip loyal pluck festival escape frame crunch fly";

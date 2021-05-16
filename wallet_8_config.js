@@ -1,1 +1,1 @@
-var mnemonic = "crouch chapter cruel action owner aerobic candy lunar canal street lady sustain";
+var mnemonic = "equip gasp equip injury error green level point mosquito old razor long";

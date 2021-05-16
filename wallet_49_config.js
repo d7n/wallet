@@ -1,1 +1,1 @@
-var mnemonic = "good protect omit peace question dash correct youth load budget salt antenna";
+var mnemonic = "dream eye near pilot average cereal water load borrow market bronze oil";

@@ -1,1 +1,1 @@
-var mnemonic = "kit behind tide tragic address exit load kick bamboo business layer clump";
+var mnemonic = "toe salt hunt math neglect rather chef nasty swing cushion hungry save";

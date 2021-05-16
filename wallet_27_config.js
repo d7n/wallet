@@ -1,1 +1,1 @@
-var mnemonic = "scissors sell deny enforce purity patient popular general confirm net video visa";
+var mnemonic = "journey still clay lesson copy tornado luggage candy habit copy boy river";

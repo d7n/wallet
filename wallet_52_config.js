@@ -1,1 +1,1 @@
-var mnemonic = "smile pen essence urge market crane latin arrow inflict must memory exact";
+var mnemonic = "paddle casino shuffle arrive voyage episode joy valley material fancy real buzz";

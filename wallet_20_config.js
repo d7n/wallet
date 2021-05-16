@@ -1,1 +1,1 @@
-var mnemonic = "olympic crack garbage canyon endless raise primary transfer valid match daring hurdle";
+var mnemonic = "yellow pistol profit still hello fine always twelve emotion vast poem visa";

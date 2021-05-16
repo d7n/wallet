@@ -1,1 +1,1 @@
-var mnemonic = "casual maple beyond uncle execute true prize mule flavor rug stone tissue";
+var mnemonic = "baby between blast trophy volume split essence method disorder primary satisfy monkey";

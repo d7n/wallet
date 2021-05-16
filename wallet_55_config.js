@@ -1,1 +1,1 @@
-var mnemonic = "stereo dune sand fever unveil miracle outside shrimp bulb great cabin purity";
+var mnemonic = "polar craft scheme unveil group amazing renew business zoo claim cat search";

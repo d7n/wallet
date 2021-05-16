@@ -1,1 +1,1 @@
-var mnemonic = "sketch prize theory project daughter bachelor uncle pool reward isolate they gauge";
+var mnemonic = "yellow disease rich boost destroy arctic gasp fish whip morning trap motion";

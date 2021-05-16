@@ -1,1 +1,1 @@
-var mnemonic = "warrior since fatal renew verb erupt decrease police female six crop cradle";
+var mnemonic = "dawn mechanic frame swift senior physical congress salute blouse lottery ball female";

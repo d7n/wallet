@@ -1,1 +1,1 @@
-var mnemonic = "current give despair when muffin problem merge punch access dust inject depth";
+var mnemonic = "twin already text horror word parade scan aisle glove drum emerge call";

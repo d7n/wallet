@@ -1,1 +1,1 @@
-var mnemonic = "detect airport suit wash shell toddler toddler casual lunar control guitar cereal";
+var mnemonic = "ceiling garbage believe clarify angry ill assume kiwi trouble vacuum spoil concert";

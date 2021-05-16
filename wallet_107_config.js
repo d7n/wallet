@@ -1,1 +1,1 @@
-var mnemonic = "voyage supreme three false paddle bounce museum domain price fuel liar crop";
+var mnemonic = "cloud arrest sauce project snap cash ship fox divide among friend legend";

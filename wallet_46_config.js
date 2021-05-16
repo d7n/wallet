@@ -1,1 +1,1 @@
-var mnemonic = "install hair barely runway kick side weekend silk flight digital phrase aspect";
+var mnemonic = "idea unable orbit clay nominee dolphin pluck aim foster trend six distance";

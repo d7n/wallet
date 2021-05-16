@@ -1,1 +1,1 @@
-var mnemonic = "kiwi thumb harbor immense letter muffin improve unknown soap device choice awkward";
+var mnemonic = "minute quote then soft artefact aspect place income multiply treat pistol canyon";

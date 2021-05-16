@@ -1,1 +1,1 @@
-var mnemonic = "abstract scout limb bottom act situate foster bronze enter worth spoon chimney";
+var mnemonic = "once beyond vacuum adjust elbow mail cube state warrior deal claw asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "olive history indicate pill grant inner neglect culture tackle congress mimic deer";
+var mnemonic = "figure stomach furnace market script race session recipe video fat poet agree";

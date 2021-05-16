@@ -1,1 +1,1 @@
-var mnemonic = "stadium still ancient knock turtle puzzle material young field swear else speak";
+var mnemonic = "tape famous void firm service harsh midnight domain glory skirt talk finger";

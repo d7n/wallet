@@ -1,1 +1,1 @@
-var mnemonic = "code claw summer crucial exotic blood sting wrestle staff exile grit scrub";
+var mnemonic = "trumpet ribbon pause weapon more alert frog drum mean century bacon race";

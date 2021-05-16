@@ -1,1 +1,1 @@
-var mnemonic = "fee forget lawsuit dutch fury infant sunset later auction desk nothing poem";
+var mnemonic = "walk sketch degree direct cluster then leopard come party welcome chimney orient";

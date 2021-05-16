@@ -1,1 +1,1 @@
-var mnemonic = "walk motor shop refuse duck early boy pull swap train notable buddy";
+var mnemonic = "material leave glide forget federal push rubber beauty vehicle page army trap";

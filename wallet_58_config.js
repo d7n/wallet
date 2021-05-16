@@ -1,1 +1,1 @@
-var mnemonic = "change reform hello say orchard identify edit practice report donkey memory couch";
+var mnemonic = "drill silent mobile list atom stairs wrap upgrade involve lava cattle tourist";

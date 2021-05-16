@@ -1,1 +1,1 @@
-var mnemonic = "biology worry place grit push media episode blast economy great town biology";
+var mnemonic = "funny embrace crack wreck brief voice salt strong pigeon soda dinosaur pill";

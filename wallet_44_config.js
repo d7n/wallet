@@ -1,1 +1,1 @@
-var mnemonic = "disagree consider clip receive hip chalk unique chase ignore inside put window";
+var mnemonic = "leaf trim wisdom view imitate symptom page seven scorpion orphan issue wood";

@@ -1,1 +1,1 @@
-var mnemonic = "picture response author crime blush neutral notice draft ribbon despair great write";
+var mnemonic = "cattle orphan delay soul grow sausage symptom spare fruit razor design admit";

@@ -1,1 +1,1 @@
-var mnemonic = "mask maximum master fuel metal when south print daring clerk program file";
+var mnemonic = "flip umbrella offer method animal rubber raw select midnight pipe power fine";

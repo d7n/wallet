@@ -1,1 +1,1 @@
-var mnemonic = "banana almost moral tissue december surface frozen coral second elephant rally problem";
+var mnemonic = "forest cause drum target saddle train situate biology frog retire unaware valve";

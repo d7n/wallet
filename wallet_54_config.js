@@ -1,1 +1,1 @@
-var mnemonic = "time pelican please ticket south subject position system secret kitchen cart laugh";
+var mnemonic = "exist cousin search drama depend roof stove famous report pool asset chest";

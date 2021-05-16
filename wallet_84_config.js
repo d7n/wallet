@@ -1,1 +1,1 @@
-var mnemonic = "depth congress bid base all inform better spoon ketchup film foster health";
+var mnemonic = "broken smooth dad barrel kangaroo kangaroo mother suit erupt reject junk begin";

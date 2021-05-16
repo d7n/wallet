@@ -1,1 +1,1 @@
-var mnemonic = "expect rabbit dad garden educate trap flower village letter manage ask ocean";
+var mnemonic = "onion salt clown must salmon unlock link april silk city glad make";

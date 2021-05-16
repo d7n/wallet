@@ -1,1 +1,1 @@
-var mnemonic = "robot close elegant woman grit police void monitor domain hospital all merge";
+var mnemonic = "exercise ivory next twelve earth book churn sock street spawn purchase disagree";

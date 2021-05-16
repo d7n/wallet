@@ -1,1 +1,1 @@
-var mnemonic = "certain wedding myself abandon say express genius leopard special recycle cushion buddy";
+var mnemonic = "art sing celery miss this trust gun trap gospel case indicate story";

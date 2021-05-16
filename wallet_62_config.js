@@ -1,1 +1,1 @@
-var mnemonic = "cattle execute catalog search level resource chair box nominee cigar eye rich";
+var mnemonic = "slight treat tenant choose type drop amused save critic sauce joy axis";

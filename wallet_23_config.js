@@ -1,1 +1,1 @@
-var mnemonic = "nation cream crop coral negative skull table muffin shoulder hole world slam";
+var mnemonic = "miss elite flee hand prize hour dune round baby path october fog";

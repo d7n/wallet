@@ -1,1 +1,1 @@
-var mnemonic = "future solution chief about news rigid danger inch tribe shiver service amount";
+var mnemonic = "hole tumble shy license drama team since service table replace depend wear";

@@ -1,1 +1,1 @@
-var mnemonic = "lift path spatial tag faint hard vanish demise elder chalk fancy web";
+var mnemonic = "invite style crater dial pink round proof squeeze seek zone erase fox";

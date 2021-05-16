@@ -1,1 +1,1 @@
-var mnemonic = "sentence soldier crush excite motion analyst paddle quarter lady pilot voice hammer";
+var mnemonic = "clip until nothing flag start income casino exercise record blouse photo light";

@@ -1,1 +1,1 @@
-var mnemonic = "verb mind cigar kick wrong recipe inherit blind eternal render prison soccer";
+var mnemonic = "nut pull vanish congress utility degree insect wish polar drum glow image";

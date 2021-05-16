@@ -1,1 +1,1 @@
-var mnemonic = "wrestle chapter strong stamp warm pattern talk present slice lock symptom sell";
+var mnemonic = "route master blush marriage wide lucky ocean retire saddle alpha eagle opera";

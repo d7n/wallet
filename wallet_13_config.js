@@ -1,1 +1,1 @@
-var mnemonic = "narrow coffee fiction fabric pear awake human announce fuel sphere fancy kiss";
+var mnemonic = "amount pulse unusual delay riot knee win during pony delay trend equip";

@@ -1,1 +1,1 @@
-var mnemonic = "blade rifle civil powder cross member coconut seminar remind govern object relief";
+var mnemonic = "meadow tortoise replace shuffle snack hello among fork heart entry salon gun";

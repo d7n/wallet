@@ -1,1 +1,1 @@
-var mnemonic = "immune diary indicate gauge faint carry manual miracle fame flip mimic dice";
+var mnemonic = "bicycle forum orange explain nerve pistol toddler erode any tenant they arrow";

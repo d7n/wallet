@@ -1,1 +1,1 @@
-var mnemonic = "consider aim loud left suspect library naive credit neck cushion smooth trick";
+var mnemonic = "minor embark only famous narrow online trouble home such ladder increase relax";

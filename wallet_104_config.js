@@ -1,1 +1,1 @@
-var mnemonic = "foot peanut master limit clay space clown artefact school craft labor atom";
+var mnemonic = "find track pause output room end famous prefer lazy movie visual light";

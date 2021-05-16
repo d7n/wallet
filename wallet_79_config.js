@@ -1,1 +1,1 @@
-var mnemonic = "february slice describe twelve session magnet bleak second stereo damage spot approve";
+var mnemonic = "match ship obvious olympic steel box imitate rally grain borrow permit agent";

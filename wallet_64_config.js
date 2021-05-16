@@ -1,1 +1,1 @@
-var mnemonic = "walnut edit betray wall hurdle visa age topple museum apple often liquid";
+var mnemonic = "swamp galaxy fall orphan valid marriage unfold walk weekend legend announce coin";

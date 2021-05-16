@@ -1,1 +1,1 @@
-var mnemonic = "artist rigid cactus hidden various cheese juice hurdle orbit shove swamp swing";
+var mnemonic = "pledge shrug slot essence upper calm ankle never absent script adjust once";

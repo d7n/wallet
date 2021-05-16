@@ -1,1 +1,1 @@
-var mnemonic = "spoil tackle giraffe lab behind glory clever illness amateur ensure lobster door";
+var mnemonic = "slush airport rotate quiz ladder stone sphere today ice tissue chest pond";

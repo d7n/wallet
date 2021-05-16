@@ -1,1 +1,1 @@
-var mnemonic = "arm panic fiber clog clock tenant error wink waste student shallow minute";
+var mnemonic = "flavor lemon brick creek west skate rotate control brisk bonus husband beach";

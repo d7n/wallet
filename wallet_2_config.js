@@ -1,1 +1,1 @@
-var mnemonic = "siege input giggle enemy delay life anxiety thought around word guilt only";
+var mnemonic = "cry festival borrow case void rifle suit put garage resist improve salmon";

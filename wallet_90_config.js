@@ -1,1 +1,1 @@
-var mnemonic = "bright reason about thunder atom equip survey use pole visit odor sad";
+var mnemonic = "circle chuckle process wave foil glory balcony myth yellow wash search grief";

@@ -1,1 +1,1 @@
-var mnemonic = "setup praise blouse winter number salad fly uncover jeans episode faith source";
+var mnemonic = "cover mushroom chronic ticket include open test image menu cart slogan food";

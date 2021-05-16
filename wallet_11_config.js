@@ -1,1 +1,1 @@
-var mnemonic = "gaze claw base dumb decrease motor drill leisure visual snake isolate pill";
+var mnemonic = "design broccoli unit tonight gift lake cruise borrow place tobacco spawn cave";

@@ -1,1 +1,1 @@
-var mnemonic = "liar pistol mixed subject cost tonight urban security risk quarter spirit fiscal";
+var mnemonic = "access rabbit join vacuum pelican stuff napkin confirm art science opera inquiry";

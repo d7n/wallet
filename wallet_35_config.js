@@ -1,1 +1,1 @@
-var mnemonic = "dolphin toward curious shoot blame then upgrade belt make super harbor theory";
+var mnemonic = "radio level service smooth toilet true slow grocery panic eternal loud soccer";

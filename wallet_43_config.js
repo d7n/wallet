@@ -1,1 +1,1 @@
-var mnemonic = "behind jar reward jaguar mean muscle jealous diagram cloth gather eight moral";
+var mnemonic = "night labor leaf rose below wreck inside melody hint uniform spend judge";

@@ -1,1 +1,1 @@
-var mnemonic = "never people answer note despair prefer rate endorse allow skill put patch";
+var mnemonic = "negative rotate control invest pony scissors supply bomb donor limit teach door";

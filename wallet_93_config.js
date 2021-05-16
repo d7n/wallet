@@ -1,1 +1,1 @@
-var mnemonic = "mango half oven protect sea virus seminar harbor focus rule nuclear shuffle";
+var mnemonic = "juice record stable man fetch empty mercy kind until minor finish exotic";

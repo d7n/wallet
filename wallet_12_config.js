@@ -1,1 +1,1 @@
-var mnemonic = "load frog rocket language proud clay nasty music kitchen power brass conduct";
+var mnemonic = "online tag control window twelve trap claw gas replace embody nation congress";

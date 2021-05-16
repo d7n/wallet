@@ -1,1 +1,1 @@
-var mnemonic = "hamster swarm fluid stem accuse multiply outside step buffalo account reflect leave";
+var mnemonic = "census spider blouse verify army miss steak margin concert cargo axis wolf";

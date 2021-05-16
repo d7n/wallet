@@ -1,1 +1,1 @@
-var mnemonic = "simple hero provide cycle enhance glare dolphin fatal cloth aisle camp today";
+var mnemonic = "monkey child this ridge october jelly little letter door winner top response";

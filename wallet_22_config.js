@@ -1,1 +1,1 @@
-var mnemonic = "pull gorilla depth grant glimpse leave comic injury supply screen ankle raw";
+var mnemonic = "grid neglect cheap pelican clarify dish behave soap dutch learn organ brush";

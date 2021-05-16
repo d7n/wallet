@@ -1,1 +1,1 @@
-var mnemonic = "pond rich diamond adapt feel desk miracle people canoe mango aerobic strong";
+var mnemonic = "opinion nerve matter pilot attack quiz vessel lawn economy coin lottery usage";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold spell spoon supply deer fringe scout curious old guilt drive pigeon";
+var mnemonic = "steak tell define bind tongue ripple fade jealous ask thing notice nest";
