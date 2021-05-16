@@ -1,1 +1,1 @@
-var mnemonic = "renew sketch corn smile exercise jacket field muffin flip desk seek save";
+var mnemonic = "tank crunch usual weasel lounge drama donate surface hybrid mad index shadow";

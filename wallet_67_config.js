@@ -1,1 +1,1 @@
-var mnemonic = "chunk pool letter pill clutch around pelican drill midnight hedgehog hour believe";
+var mnemonic = "joke six tuition first minute payment width orient pause anxiety gift suffer";

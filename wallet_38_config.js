@@ -1,1 +1,1 @@
-var mnemonic = "economy turkey pencil require access cabbage scorpion order census wine loan engage";
+var mnemonic = "acoustic sunset rib vanish thumb subway make assault banner sister dune type";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent elbow sniff plunge tackle wage trigger door blossom tonight tower kick";
+var mnemonic = "brand immune rapid embark result cereal conduct rate amused damage fork sauce";

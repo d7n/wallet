@@ -1,1 +1,1 @@
-var mnemonic = "brass pact stairs swing impulse call immune embrace goddess humble blind horror";
+var mnemonic = "occur also banner winter cupboard fever bicycle among any toward august sock";

@@ -1,1 +1,1 @@
-var mnemonic = "barely meadow vessel mom notice evoke used zone february gadget mutual choice";
+var mnemonic = "round kit million april mouse maximum penalty buffalo danger awful future express";

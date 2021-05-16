@@ -1,1 +1,1 @@
-var mnemonic = "dish nose pair cruel fortune foil age runway stock inform brand text";
+var mnemonic = "slide home essence trim opinion draft protect pave panda engine giant track";

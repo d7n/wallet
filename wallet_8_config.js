@@ -1,1 +1,1 @@
-var mnemonic = "execute weird ship blade oval safe six you document spice misery salad";
+var mnemonic = "silk thought cat crunch else timber letter honey donkey among shadow much";

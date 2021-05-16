@@ -1,1 +1,1 @@
-var mnemonic = "claim behave use limb ranch girl verify sort exhibit section twelve glance";
+var mnemonic = "path also before soul model mouse canoe security replace crash fruit secret";

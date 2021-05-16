@@ -1,1 +1,1 @@
-var mnemonic = "idle response acid inject rubber permit taste answer pepper pig father throw";
+var mnemonic = "leopard stool tissue floor flock payment tiny monster coral laugh engage drama";

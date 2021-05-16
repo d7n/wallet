@@ -1,1 +1,1 @@
-var mnemonic = "blur rib armed broken lizard symbol member interest soft trust hub escape";
+var mnemonic = "carpet fork dish health violin math hover trim sunny tag stage filter";

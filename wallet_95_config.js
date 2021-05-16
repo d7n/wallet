@@ -1,1 +1,1 @@
-var mnemonic = "file subject ridge deny sting notice orchard remove trip enforce come desk";
+var mnemonic = "remember pottery acquire across dynamic borrow velvet riot butter fever inquiry erase";

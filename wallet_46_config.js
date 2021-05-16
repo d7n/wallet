@@ -1,1 +1,1 @@
-var mnemonic = "ball robust minimum isolate aisle scale deny potato poem artist ill panda";
+var mnemonic = "budget web knife fringe false shaft snap game frame minimum fiscal wash";

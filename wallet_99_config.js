@@ -1,1 +1,1 @@
-var mnemonic = "list witness come input charge jelly bright marine chunk have reflect brain";
+var mnemonic = "glove shove cheap media knee clip salt refuse badge family dish over";

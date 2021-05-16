@@ -1,1 +1,1 @@
-var mnemonic = "timber wedding gauge ice suspect shallow match math stomach license series prize";
+var mnemonic = "give suspect pair flee kangaroo stable stick start mother chronic govern tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear chronic mountain inspire genuine another float film model alarm pony smoke";
+var mnemonic = "egg unlock style sun grocery endless echo bench bunker large stick raven";

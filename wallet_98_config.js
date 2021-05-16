@@ -1,1 +1,1 @@
-var mnemonic = "impulse bread rice open limb liquid enable spoil fiber mushroom sweet insane";
+var mnemonic = "wolf crane galaxy cereal change decrease twin tube valley health noodle asset";

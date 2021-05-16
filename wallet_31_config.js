@@ -1,1 +1,1 @@
-var mnemonic = "modify evolve exchange enhance guitar manual winner alien soccer skirt dinner secret";
+var mnemonic = "grow account denial give shrug joke pond pet measure steak diet copper";

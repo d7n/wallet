@@ -1,1 +1,1 @@
-var mnemonic = "hungry treat annual coconut poem return goose elder guard wage hip horse";
+var mnemonic = "federal firm level enforce cat rebuild jewel bid antenna mystery shine grab";

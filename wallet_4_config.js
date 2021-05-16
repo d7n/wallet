@@ -1,1 +1,1 @@
-var mnemonic = "captain purpose holiday always second salute diamond lift over afraid stove devote";
+var mnemonic = "celery argue toe ski muscle unveil ball please spatial impulse surround swallow";

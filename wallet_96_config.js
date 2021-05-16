@@ -1,1 +1,1 @@
-var mnemonic = "dry cable series tribe umbrella bubble birth stairs chunk rookie attract sausage";
+var mnemonic = "warrior tonight enforce state dial deposit fabric put depth wink come subject";

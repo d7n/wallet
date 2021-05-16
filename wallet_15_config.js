@@ -1,1 +1,1 @@
-var mnemonic = "just dawn segment candy buzz prefer cute female ripple lens popular trust";
+var mnemonic = "legend rice absurd exclude noble dust cluster hybrid develop bachelor drip alarm";

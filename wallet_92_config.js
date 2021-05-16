@@ -1,1 +1,1 @@
-var mnemonic = "maze pigeon party civil rather adjust garage neglect area blanket test follow";
+var mnemonic = "into country flat icon idle clap gap step million motor knife eager";

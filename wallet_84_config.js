@@ -1,1 +1,1 @@
-var mnemonic = "net subway ship good drive purse cotton distance winter possible unusual process";
+var mnemonic = "party spread width shrug genuine coffee birth math flat describe chimney track";

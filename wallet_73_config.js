@@ -1,1 +1,1 @@
-var mnemonic = "keen connect unhappy fuel swim innocent dwarf guilt field leisure pony wife";
+var mnemonic = "congress virtual priority eight describe borrow script just song predict hero village";

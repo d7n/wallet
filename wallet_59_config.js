@@ -1,1 +1,1 @@
-var mnemonic = "police blanket tail smoke table minor chunk foam give hope where stereo";
+var mnemonic = "vast belt open embody mutual toward recall coin asset dinosaur hobby oblige";

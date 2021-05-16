@@ -1,1 +1,1 @@
-var mnemonic = "emerge history under exclude prosper loan another super found sad income little";
+var mnemonic = "large city elephant order degree turkey cousin deer soup village industry pulp";

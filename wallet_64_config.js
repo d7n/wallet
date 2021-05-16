@@ -1,1 +1,1 @@
-var mnemonic = "spread curious matter because foster resist orbit attend choice elder return oven";
+var mnemonic = "top huge either debate ramp turn coffee apple double genius stable unveil";

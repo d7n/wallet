@@ -1,1 +1,1 @@
-var mnemonic = "similar unfold paper current canvas assist canoe title update calm round shield";
+var mnemonic = "soldier fly decline toddler mountain bleak leopard tornado gain error scene track";

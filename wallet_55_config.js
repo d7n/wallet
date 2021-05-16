@@ -1,1 +1,1 @@
-var mnemonic = "pulp alien essay capital try razor twice setup turkey super name hub";
+var mnemonic = "snap burst wheel follow route egg original oyster inquiry hospital make outside";

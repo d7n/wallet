@@ -1,1 +1,1 @@
-var mnemonic = "stand evidence weekend elbow educate vicious hire also burst fuel era silver";
+var mnemonic = "beach spray usage dream grape fashion pull best another oval journey crush";

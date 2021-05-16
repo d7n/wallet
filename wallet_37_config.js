@@ -1,1 +1,1 @@
-var mnemonic = "funny trouble tail spare parent hospital isolate candy dog jewel melody runway";
+var mnemonic = "canyon memory own mercy fashion dry acid pulp myself gallery brother jazz";

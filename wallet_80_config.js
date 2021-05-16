@@ -1,1 +1,1 @@
-var mnemonic = "animal habit gallery artefact chat grant hello eyebrow ceiling leader expect endless";
+var mnemonic = "guitar lamp chase oblige senior damage flower excite choose doll nuclear stay";

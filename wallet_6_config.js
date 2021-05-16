@@ -1,1 +1,1 @@
-var mnemonic = "general situate guilt result walnut barely guide desk dizzy ride brave permit";
+var mnemonic = "retire battle isolate moral diamond lion fall tape federal account plastic mask";

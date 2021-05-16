@@ -1,1 +1,1 @@
-var mnemonic = "hope undo steel subject fantasy double enrich virus labor panther unfold prevent";
+var mnemonic = "ask before session trend prison scene nerve panther material only vacant hand";

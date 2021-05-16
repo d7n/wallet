@@ -1,1 +1,1 @@
-var mnemonic = "alcohol congress rug link engage clump borrow enlist common firm cloth dune";
+var mnemonic = "lawn flee item bomb catalog pizza volume chase improve public file wet";

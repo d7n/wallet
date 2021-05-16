@@ -1,1 +1,1 @@
-var mnemonic = "game region exact huge bomb visual swarm floor canoe margin march derive";
+var mnemonic = "paper jungle today race orange chest luggage disease arrive flag minute piano";

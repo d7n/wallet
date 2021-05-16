@@ -1,1 +1,1 @@
-var mnemonic = "bike nephew blush cool faint path clarify topple enlist busy negative original";
+var mnemonic = "wage asthma athlete total cube cupboard arena phrase unfair sun slide hill";

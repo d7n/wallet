@@ -1,1 +1,1 @@
-var mnemonic = "machine bronze planet audit because negative curtain machine speed lunar gather mule";
+var mnemonic = "alcohol act expire spell quantum used depart write intact reject awful hill";

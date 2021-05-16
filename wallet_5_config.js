@@ -1,1 +1,1 @@
-var mnemonic = "finger hello abstract salad employ predict electric insane crucial act impulse belt";
+var mnemonic = "photo craft company fancy source donor attend picture response yellow pet jealous";

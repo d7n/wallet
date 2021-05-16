@@ -1,1 +1,1 @@
-var mnemonic = "slide response peasant vital swim pride water glue quiz catalog twice portion";
+var mnemonic = "slow crawl pass ignore curve crime relief sort sniff chalk style light";

@@ -1,1 +1,1 @@
-var mnemonic = "between board burst random demise riot impact february apart hole drift state";
+var mnemonic = "scout ceiling price genuine divide round twice crane code flush traffic seminar";

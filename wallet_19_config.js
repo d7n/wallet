@@ -1,1 +1,1 @@
-var mnemonic = "bacon version figure over flat zero volcano paper express grunt depth shoe";
+var mnemonic = "garlic little there between evil absurd delay pet fault luggage common route";

@@ -1,1 +1,1 @@
-var mnemonic = "degree educate crisp minor skirt grace slow dog plate volcano palm force";
+var mnemonic = "baby myth fitness stuff update gap crystal permit camp fashion asset idea";

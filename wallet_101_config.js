@@ -1,1 +1,1 @@
-var mnemonic = "similar tribe adjust father typical census gap hidden claim transfer thunder brisk";
+var mnemonic = "comic term naive other salmon chair enlist puzzle kitchen twelve mixture crush";

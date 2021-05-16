@@ -1,1 +1,1 @@
-var mnemonic = "cube record pipe federal correct beyond ride gold produce spoil width muffin";
+var mnemonic = "smooth bounce hero stable damage gift cricket knife open cinnamon happy yard";

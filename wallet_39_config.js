@@ -1,1 +1,1 @@
-var mnemonic = "review ski average virus hen neutral step about laundry expect stereo canal";
+var mnemonic = "chase liberty glove loop imitate vibrant reflect news extend pair absorb earth";

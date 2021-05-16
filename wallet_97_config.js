@@ -1,1 +1,1 @@
-var mnemonic = "praise two then venue plunge gaze lounge among bracket coil tomato wave";
+var mnemonic = "crucial vague photo pass ghost family pelican mean symptom lizard novel nature";

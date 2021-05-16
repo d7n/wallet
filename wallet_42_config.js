@@ -1,1 +1,1 @@
-var mnemonic = "goddess retire garment toy scatter reflect series edit shine silk crime crisp";
+var mnemonic = "space debate fiscal promote tent pear valid two pyramid legend online license";

@@ -1,1 +1,1 @@
-var mnemonic = "friend prefer alpha explain sun mosquito enrich idea poverty sister desk vital";
+var mnemonic = "walnut insect session extra rifle gas arrive elevator gorilla rug can solar";

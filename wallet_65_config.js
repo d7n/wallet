@@ -1,1 +1,1 @@
-var mnemonic = "offer believe parade unfair catch stool excuse budget duty tent survey swift";
+var mnemonic = "truck plastic gym siren spatial lens expose wasp color inject cloth pair";

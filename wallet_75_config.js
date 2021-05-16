@@ -1,1 +1,1 @@
-var mnemonic = "near record spoil notice core view tonight neutral rice month velvet impulse";
+var mnemonic = "ice state equal core catalog access hood trade setup much obscure toe";

@@ -1,1 +1,1 @@
-var mnemonic = "essay onion bulb ahead lesson case gather cause bean engine bulk output";
+var mnemonic = "keen essence online change equal knife age trial deliver impulse denial version";

@@ -1,1 +1,1 @@
-var mnemonic = "spider summer mushroom soldier various ankle coconut creek report crouch dance rose";
+var mnemonic = "style motor cluster happy sing fence amused odor bonus shoe super begin";

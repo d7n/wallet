@@ -1,1 +1,1 @@
-var mnemonic = "machine buddy pudding nothing civil author rack unlock traffic danger bracket isolate";
+var mnemonic = "duck height brick similar sausage animal dad bench sell steak muscle soul";

@@ -1,1 +1,1 @@
-var mnemonic = "away inhale betray approve enable laugh history inquiry echo beach rigid aerobic";
+var mnemonic = "piece frown horror post ginger civil gallery leg client boss family hurry";

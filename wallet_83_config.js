@@ -1,1 +1,1 @@
-var mnemonic = "hidden monkey high arctic remain way foot olympic two comic perfect same";
+var mnemonic = "win cool mail explain answer foam thrive pulse private label sausage warm";

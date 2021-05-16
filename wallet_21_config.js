@@ -1,1 +1,1 @@
-var mnemonic = "slush palm ceiling flame basket mother behave veteran claw various verify width";
+var mnemonic = "retire eternal early extend possible cost early warfare twice people shoe abuse";

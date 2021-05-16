@@ -1,1 +1,1 @@
-var mnemonic = "donate ask rabbit eager cheap chase spoil caught inmate steel wave there";
+var mnemonic = "uniform ensure brain student illegal shrug ritual wet start lawsuit core people";

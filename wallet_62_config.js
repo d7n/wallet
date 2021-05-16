@@ -1,1 +1,1 @@
-var mnemonic = "surprise gadget swap ability ill index elder veteran public dune casual false";
+var mnemonic = "coin foster slide bar uniform ketchup dance fluid refuse aim prevent vicious";

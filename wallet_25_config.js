@@ -1,1 +1,1 @@
-var mnemonic = "mobile supply recycle trip dish spatial innocent voice divert tool upgrade wealth";
+var mnemonic = "man brain curious else cricket detect evoke tourist upper chalk oxygen clutch";

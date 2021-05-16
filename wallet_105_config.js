@@ -1,1 +1,1 @@
-var mnemonic = "lend course rude stock second repeat ring cover puppy filter twenty dash";
+var mnemonic = "keep shoe equal include caught panda steak loop diet question arctic amused";

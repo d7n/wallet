@@ -1,1 +1,1 @@
-var mnemonic = "maple welcome push current balance they real odor venue century almost ceiling";
+var mnemonic = "judge indoor stomach course autumn sport renew vivid circle wheel stable pet";

@@ -1,1 +1,1 @@
-var mnemonic = "empty fox scare blouse spice click catalog donor rack injury solve tourist";
+var mnemonic = "mind awesome onion tornado faculty quick another frown want can slogan task";

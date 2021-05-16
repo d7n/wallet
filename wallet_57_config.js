@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fan bleak slam media side clap cannon bread joke theory fork";
+var mnemonic = "talent dose ill raccoon business helmet second engine seminar fatigue ball gasp";

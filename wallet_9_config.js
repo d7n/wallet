@@ -1,1 +1,1 @@
-var mnemonic = "upper inherit neutral rely celery grab rack scale shine damage twelve table";
+var mnemonic = "lamp artefact universe dutch seat violin square avocado sketch apart illness learn";

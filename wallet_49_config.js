@@ -1,1 +1,1 @@
-var mnemonic = "ritual rebel join unaware believe sunset neutral winner lamp gift economy predict";
+var mnemonic = "away never diagram bid cruise demand suspect obtain dice above quote maid";

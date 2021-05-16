@@ -1,1 +1,1 @@
-var mnemonic = "vapor spider rich crash marble ozone mango verb arrest unaware swamp cat";
+var mnemonic = "swing segment slow maximum client category leisure current street off secret roast";

@@ -1,1 +1,1 @@
-var mnemonic = "name practice arm reunion ride pole congress fever hill genius race service";
+var mnemonic = "indicate scorpion course merge sauce chest ridge oyster sadness view mass happy";

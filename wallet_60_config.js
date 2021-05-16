@@ -1,1 +1,1 @@
-var mnemonic = "universe pass bicycle verify document garlic stock loop survey holiday about lion";
+var mnemonic = "rookie plate sweet soda riot stay banana blood eyebrow deposit orphan style";

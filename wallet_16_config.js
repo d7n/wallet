@@ -1,1 +1,1 @@
-var mnemonic = "expand huge short only tunnel soldier surprise visa try rude squirrel afraid";
+var mnemonic = "net cat change dune tell stem marriage report flight involve resist false";

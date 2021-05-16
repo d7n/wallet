@@ -1,1 +1,1 @@
-var mnemonic = "rain file million nature move patrol muffin canvas silver leave mixture donor";
+var mnemonic = "task immune fetch warm volume during remain tornado key kingdom metal north";

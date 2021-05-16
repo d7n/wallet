@@ -1,1 +1,1 @@
-var mnemonic = "peace matrix steel enroll boy trim guitar wink lab apology flight cable";
+var mnemonic = "hand pluck argue jungle siren resource source prevent matter crisp dignity trend";

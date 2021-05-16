@@ -1,1 +1,1 @@
-var mnemonic = "always nose help two apology task over pig unable crucial success phone";
+var mnemonic = "lounge leisure lizard follow only tennis demise pretty volume million defy tennis";

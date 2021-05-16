@@ -1,1 +1,1 @@
-var mnemonic = "before feed approve shock heart vintage task ugly limb silver height decrease";
+var mnemonic = "damage liquid wife senior lawsuit attitude gossip warm grocery rare cherry increase";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom differ doctor ancient sponsor paper meat enemy february argue afford drink";
+var mnemonic = "month cable trick cycle frequent fold strike glory balance depth number jacket";

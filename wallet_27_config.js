@@ -1,1 +1,1 @@
-var mnemonic = "legal captain fringe energy sound search rural can object window toss leader";
+var mnemonic = "sign whip aim other bean true blade spare foil raven bulb fringe";

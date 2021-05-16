@@ -1,1 +1,1 @@
-var mnemonic = "talent give jaguar roof odor surge mean basic treat border still oak";
+var mnemonic = "panda blur elephant burger pluck push script august pact maid knock gate";

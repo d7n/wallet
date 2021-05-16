@@ -1,1 +1,1 @@
-var mnemonic = "trigger erode ozone column boy clown course cement joke swear acid work";
+var mnemonic = "chuckle boost clay cricket accuse response shield fan weather stem section adjust";

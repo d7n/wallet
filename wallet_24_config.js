@@ -1,1 +1,1 @@
-var mnemonic = "great mansion simple obey cushion pumpkin aware harbor owner knife work chef";
+var mnemonic = "lumber border pact ramp cabbage leg grab crane visual whale blade welcome";

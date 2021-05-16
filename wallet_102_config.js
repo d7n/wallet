@@ -1,1 +1,1 @@
-var mnemonic = "unfair frog shallow record enforce innocent simple orange demise squirrel man equip";
+var mnemonic = "vibrant play barrel cruise trend slight delay usage soon involve rule already";

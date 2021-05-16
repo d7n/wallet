@@ -1,1 +1,1 @@
-var mnemonic = "mule version truth virtual praise glory shoot that rescue aware radar option";
+var mnemonic = "void arena oval vibrant car client dust turtle noble elephant crash jazz";
