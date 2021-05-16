@@ -1,1 +1,1 @@
-var mnemonic = "lab utility airport upset arrest cliff modify tuition script program oven goddess";
+var mnemonic = "only spice prefer basket tomato upon clip shine access youth matrix skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "culture melt slice abstract uniform stool rose vessel say that border merge";
+var mnemonic = "craft garage curtain pink ritual join useless deposit rifle cup choose parent";

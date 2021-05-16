@@ -1,1 +1,1 @@
-var mnemonic = "truly crater skin panel axis cupboard slush hub nurse excess hole jar";
+var mnemonic = "express narrow umbrella bamboo duty bring bird van body sauce prepare pistol";

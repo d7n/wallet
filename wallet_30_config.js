@@ -1,1 +1,1 @@
-var mnemonic = "select odor tool census young throw follow liberty supreme caution scale circle";
+var mnemonic = "wedding sand desert suggest region update october ticket flag toss answer toward";

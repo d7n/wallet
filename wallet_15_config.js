@@ -1,1 +1,1 @@
-var mnemonic = "soon earth miracle garment lady crane latin aunt insane hurdle act screen";
+var mnemonic = "drastic improve velvet vacant another visa silk gate twist blue addict gold";

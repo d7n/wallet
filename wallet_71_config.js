@@ -1,1 +1,1 @@
-var mnemonic = "rare note credit uncover amount oven glide kitchen blouse minor arena manual";
+var mnemonic = "reflect erupt include issue render priority chalk kingdom world future liar visual";

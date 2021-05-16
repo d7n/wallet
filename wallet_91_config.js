@@ -1,1 +1,1 @@
-var mnemonic = "depend humble young vast come swear fragile priority casual burger pyramid result";
+var mnemonic = "sand casino close resemble open spawn luggage execute hand voyage play puppy";

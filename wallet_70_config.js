@@ -1,1 +1,1 @@
-var mnemonic = "divorce ketchup leaf number unlock refuse during reopen universe labor erosion spatial";
+var mnemonic = "kit sunset outdoor volume nice like ketchup payment exit acoustic ladder melt";

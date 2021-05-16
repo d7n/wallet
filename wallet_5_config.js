@@ -1,1 +1,1 @@
-var mnemonic = "lava mammal season trouble this donkey must youth clarify organ impact festival";
+var mnemonic = "chronic save coyote fiber donate nasty unhappy urge differ wrap bubble coin";

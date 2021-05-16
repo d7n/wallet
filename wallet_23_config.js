@@ -1,1 +1,1 @@
-var mnemonic = "clap leader fragile document world remain ritual keep razor jealous edge waste";
+var mnemonic = "ghost unknown super seminar club beach slab true train tag mechanic vacuum";

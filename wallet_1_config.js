@@ -1,1 +1,1 @@
-var mnemonic = "olive fault wealth true predict teach length crash word exchange sugar crash";
+var mnemonic = "receive what loan one brief nephew course borrow uncle spy mind lab";

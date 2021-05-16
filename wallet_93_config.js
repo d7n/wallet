@@ -1,1 +1,1 @@
-var mnemonic = "hero village cool source deny earn equal curtain obvious claim maze drift";
+var mnemonic = "library couch have example faith twelve problem liberty sweet truly pull help";

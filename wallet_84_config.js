@@ -1,1 +1,1 @@
-var mnemonic = "champion ignore middle trust flight harvest muffin summer feature certain all rally";
+var mnemonic = "bounce mixture bind deposit away employ onion curious extend warfare long transfer";

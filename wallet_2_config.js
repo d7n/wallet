@@ -1,1 +1,1 @@
-var mnemonic = "host upgrade patch project core exotic novel expire juice casino often moon";
+var mnemonic = "brother daring quarter skill fan simple inject grab depth bitter need message";

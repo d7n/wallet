@@ -1,1 +1,1 @@
-var mnemonic = "upper cloud access lawn police fatigue draft bomb section spoil cup notable";
+var mnemonic = "area upper elder margin goose uncover nation solution stumble snack urban choice";

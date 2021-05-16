@@ -1,1 +1,1 @@
-var mnemonic = "wire make private decrease rebuild claw horror term avocado slab island genuine";
+var mnemonic = "client aim draft dignity quit jewel universe ahead chair neutral shift able";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney until caution pig keen pet enough grape demise champion enrich shuffle";
+var mnemonic = "chronic consider case tag veteran wing middle session split chair draw rookie";

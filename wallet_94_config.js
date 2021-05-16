@@ -1,1 +1,1 @@
-var mnemonic = "spider sun satisfy portion narrow similar almost outdoor flight tone indicate proof";
+var mnemonic = "hub bless afraid ocean split stamp frozen athlete erase alarm genuine pool";

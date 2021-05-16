@@ -1,1 +1,1 @@
-var mnemonic = "accuse outer rate draw duty code caught barrel spray anchor divert banner";
+var mnemonic = "story olive kingdom foot rural tent pulse false car tennis any thrive";

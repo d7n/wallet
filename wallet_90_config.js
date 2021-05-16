@@ -1,1 +1,1 @@
-var mnemonic = "attitude lyrics nominee maze burst sheriff lazy grass habit horse hidden increase";
+var mnemonic = "humor city pear trick coconut interest cotton vendor walnut mention genius daughter";

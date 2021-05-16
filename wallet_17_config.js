@@ -1,1 +1,1 @@
-var mnemonic = "asset job tiny debate uncover position deposit very small silent coast party";
+var mnemonic = "lumber melt coast body dignity clip sort anchor rescue pact antique stay";

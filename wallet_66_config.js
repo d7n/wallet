@@ -1,1 +1,1 @@
-var mnemonic = "stuff expect ocean harsh satisfy lock dismiss alley shove dinosaur unfold benefit";
+var mnemonic = "purpose room congress bundle cat pioneer gallery blue rule battle believe cherry";

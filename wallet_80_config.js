@@ -1,1 +1,1 @@
-var mnemonic = "wet song cram smile session beach two cake machine nothing weapon valid";
+var mnemonic = "cousin solid coral reflect cover duck suit wink credit burden phone exhaust";

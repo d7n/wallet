@@ -1,1 +1,1 @@
-var mnemonic = "debris armor blush duck typical exhibit lab rude knife swing catalog nuclear";
+var mnemonic = "funny ill obvious stick tomato april increase foot expire embody luxury laugh";

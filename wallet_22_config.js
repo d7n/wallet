@@ -1,1 +1,1 @@
-var mnemonic = "poet harvest stable reduce any judge narrow swarm uncle balcony wealth finger";
+var mnemonic = "amused recall shift office broccoli account digital field hotel gold input unit";

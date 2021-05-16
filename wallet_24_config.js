@@ -1,1 +1,1 @@
-var mnemonic = "broom crystal access basic brief stand caught chef live conduct movie autumn";
+var mnemonic = "food sort public flock agree hub prosper magnet often royal debris resource";

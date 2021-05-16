@@ -1,1 +1,1 @@
-var mnemonic = "exotic hundred critic rubber rocket same stage potato seminar box over awake";
+var mnemonic = "merit magic candy beef vicious flush remember bubble fever topple crazy human";

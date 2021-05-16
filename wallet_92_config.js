@@ -1,1 +1,1 @@
-var mnemonic = "bomb word silent clinic spend royal bird impulse unable beauty rack coffee";
+var mnemonic = "wrap mandate royal accident ranch hawk float brief mask echo zero cook";

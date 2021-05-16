@@ -1,1 +1,1 @@
-var mnemonic = "iron subject note sphere romance empower sea foot turkey warrior brush renew";
+var mnemonic = "garden day that asset middle daring brass shoulder drive warrior jelly inherit";

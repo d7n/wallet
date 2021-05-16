@@ -1,1 +1,1 @@
-var mnemonic = "release demise net pony quiz kitchen shift spike what pact boost spoil";
+var mnemonic = "cycle curious involve brother volcano connect olympic next aspect wash fatal pumpkin";

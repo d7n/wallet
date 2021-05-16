@@ -1,1 +1,1 @@
-var mnemonic = "knife road fashion puppy inch dinner crew clog neglect brush skin inhale";
+var mnemonic = "chase cloud wreck loyal history attack quit pave foil bone all actual";

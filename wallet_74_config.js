@@ -1,1 +1,1 @@
-var mnemonic = "wreck copy deliver naive first bullet drill resemble hazard tuna antique anger";
+var mnemonic = "liberty code guard misery smile gather stove wear push photo swim collect";

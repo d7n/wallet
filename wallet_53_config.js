@@ -1,1 +1,1 @@
-var mnemonic = "shrug awake robust retire seminar raccoon siege august cruel hidden heart only";
+var mnemonic = "aim pear broken amount fade balance dawn problem oak choose grocery host";

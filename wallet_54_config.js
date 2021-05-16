@@ -1,1 +1,1 @@
-var mnemonic = "latin wrestle canal outdoor clay demand siren hood ski island warfare option";
+var mnemonic = "popular dynamic century moment fit nation timber stone tumble gold version faculty";

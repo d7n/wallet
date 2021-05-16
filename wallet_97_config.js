@@ -1,1 +1,1 @@
-var mnemonic = "blame protect zebra black avocado age raise rug lamp subway farm weasel";
+var mnemonic = "cabin patrol minimum kangaroo knock forum undo boil forest piece notice shove";

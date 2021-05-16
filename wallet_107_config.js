@@ -1,1 +1,1 @@
-var mnemonic = "ski click tray rural bike buzz space genius soft nature explain habit";
+var mnemonic = "phone adapt dolphin impact carpet group grace tiger light concert depth obscure";

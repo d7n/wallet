@@ -1,1 +1,1 @@
-var mnemonic = "wear member dance shy ethics impose online please world swallow pretty girl";
+var mnemonic = "million crystal piano razor favorite tail flee shop hip write doctor roast";

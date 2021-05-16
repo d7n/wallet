@@ -1,1 +1,1 @@
-var mnemonic = "swear gauge stem chase industry cradle burden list unveil multiply reveal cart";
+var mnemonic = "fringe brother spend buzz check lobster slogan disease armor sustain foster ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "merit alien humor curtain issue balcony bachelor elegant cradle sand diary slot";
+var mnemonic = "need machine grid fiber upper mask try breeze palm purity attend sweet";

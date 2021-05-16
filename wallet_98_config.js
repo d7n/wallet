@@ -1,1 +1,1 @@
-var mnemonic = "that notable apology image kite convince belt stand imitate siren nominee rail";
+var mnemonic = "ocean bottom island palace thank pride panther clock regular radio all nasty";

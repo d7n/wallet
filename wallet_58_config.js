@@ -1,1 +1,1 @@
-var mnemonic = "chimney voyage top resist direct sense innocent loop polar group park copy";
+var mnemonic = "video butter direct suffer long old afford burden category urge change will";

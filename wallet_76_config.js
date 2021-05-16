@@ -1,1 +1,1 @@
-var mnemonic = "blood panel burden laundry mad search october switch shy twenty swing dinosaur";
+var mnemonic = "feel report material father move only pony carpet fitness slender company hurdle";

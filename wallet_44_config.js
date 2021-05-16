@@ -1,1 +1,1 @@
-var mnemonic = "glove chicken result bread waste test member shock fiction decorate have bachelor";
+var mnemonic = "hurry call belt firm mechanic olive bless bless forum dove goddess stomach";

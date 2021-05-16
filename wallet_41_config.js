@@ -1,1 +1,1 @@
-var mnemonic = "mammal various radio metal dizzy art stay goat note street engine meat";
+var mnemonic = "talk album globe memory wing exotic lawn soon velvet door school leader";

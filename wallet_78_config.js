@@ -1,1 +1,1 @@
-var mnemonic = "hope found annual such insect neglect stable stuff torch maximum tuition arrow";
+var mnemonic = "ceiling cheap exit husband execute patient happy surround army thing process bitter";

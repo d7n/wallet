@@ -1,1 +1,1 @@
-var mnemonic = "spoon rhythm patch mom suggest run useful cable embark soon clay image";
+var mnemonic = "topple script exclude wish exclude chat solve tuna scene merry eternal moral";

@@ -1,1 +1,1 @@
-var mnemonic = "arm major demise verify sea exhaust auto step cabin seminar card jump";
+var mnemonic = "remember run tobacco glare improve slide salmon cloud time promote flash sample";

@@ -1,1 +1,1 @@
-var mnemonic = "december ceiling miss father cake weapon absorb fatigue sword border weapon useful";
+var mnemonic = "trial silent short person swap scare pen metal donor lion pulp heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "card palm prize estate skill urban accuse wife captain crew unfold fold";
+var mnemonic = "canyon inflict hawk cousin fatigue century keep slush pave second clock task";

@@ -1,1 +1,1 @@
-var mnemonic = "believe exchange oak robot hand manage grace meadow sketch bus walk among";
+var mnemonic = "behind high arm spoon swallow wrestle danger trial explain session one blossom";

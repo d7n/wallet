@@ -1,1 +1,1 @@
-var mnemonic = "already chunk twenty lamp news winner sun unlock fix finger lazy tragic";
+var mnemonic = "stomach word record chest castle sick load escape real loud scan nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "kind unfold coin measure calm love cabin involve roast endless mule route";
+var mnemonic = "diesel follow planet dress stock false tube enact wear great kite another";

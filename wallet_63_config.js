@@ -1,1 +1,1 @@
-var mnemonic = "spy wear thunder diet slot flee payment window want verify copy female";
+var mnemonic = "album museum cement acoustic basket suggest horse use label crowd fat load";

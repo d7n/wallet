@@ -1,1 +1,1 @@
-var mnemonic = "blast true disease congress evil ticket until quarter victory crash scene explain";
+var mnemonic = "summer diesel airport double chase key simple thank pig debate access boat";

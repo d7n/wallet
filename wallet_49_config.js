@@ -1,1 +1,1 @@
-var mnemonic = "duty task next elbow planet thumb level wheat carpet cube live melody";
+var mnemonic = "tourist cause bleak library legal course lake jewel setup olive knock leave";

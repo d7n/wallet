@@ -1,1 +1,1 @@
-var mnemonic = "aware you donate clean convince surround butter flush into alone test word";
+var mnemonic = "pigeon drive manual expand unknown alarm climb lumber grocery huge silent burst";

@@ -1,1 +1,1 @@
-var mnemonic = "neck plastic manage upset cupboard just base donor gaze six adapt liquid";
+var mnemonic = "engage allow tiny measure clip off beach replace dice shrimp smoke lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster divorce horn marble awesome easy gather hover sunset cause tissue spoil";
+var mnemonic = "plastic tent hope defy rich cram divorce candy strike wise useless predict";

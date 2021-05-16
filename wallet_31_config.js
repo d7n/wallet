@@ -1,1 +1,1 @@
-var mnemonic = "control measure turn journey key same select puppy just small caught sense";
+var mnemonic = "pigeon weather stumble direct credit soul flame before rookie predict arrive episode";

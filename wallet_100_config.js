@@ -1,1 +1,1 @@
-var mnemonic = "loop quick faith burst steel icon guard walk march shove float hour";
+var mnemonic = "top patient gravity lamp gravity wine donate chest reveal smart guilt doll";

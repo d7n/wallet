@@ -1,1 +1,1 @@
-var mnemonic = "oval silly sick alarm tattoo sad stable finger text write million certain";
+var mnemonic = "fitness congress kid notice valve oxygen empower ready course duty avocado letter";

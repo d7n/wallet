@@ -1,1 +1,1 @@
-var mnemonic = "scrub sword unfair nerve aunt orient smart bread avoid cluster hand shy";
+var mnemonic = "type thunder rude cable source valid powder yellow modify leopard photo trim";

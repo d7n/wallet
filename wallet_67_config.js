@@ -1,1 +1,1 @@
-var mnemonic = "high job inner chase coral dress toast flame among jaguar injury cave";
+var mnemonic = "rough rebuild attend patient gold resist gentle fish okay enroll cancel horse";

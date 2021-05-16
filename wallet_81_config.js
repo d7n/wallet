@@ -1,1 +1,1 @@
-var mnemonic = "section slim range stumble pioneer area mandate prefer inside demand basic together";
+var mnemonic = "hurry cannon kick upon mean road hat comic panic pig spot risk";

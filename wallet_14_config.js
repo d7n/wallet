@@ -1,1 +1,1 @@
-var mnemonic = "mouse spider public river wet gravity smooth pipe chat achieve grunt traffic";
+var mnemonic = "use tip world elder assume physical elder toward clump artist echo crater";

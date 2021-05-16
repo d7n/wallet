@@ -1,1 +1,1 @@
-var mnemonic = "find dumb misery rail pepper video silk shoe shadow half jaguar total";
+var mnemonic = "bone slide settle average alcohol jaguar exhibit eagle ball equal certain hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "ready fashion crystal ozone auction power capital just edit civil measure often";
+var mnemonic = "have income panda tenant phone enhance south clerk flame room home someone";

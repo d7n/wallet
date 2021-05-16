@@ -1,1 +1,1 @@
-var mnemonic = "target alcohol crazy exact step thing concert pyramid clever ensure exile sport";
+var mnemonic = "elite myth security before give manual return congress math help comfort hero";

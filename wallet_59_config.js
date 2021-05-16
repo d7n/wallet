@@ -1,1 +1,1 @@
-var mnemonic = "equip nurse solve segment buyer nuclear dawn soon chase apology allow recall";
+var mnemonic = "joy story manual thunder patch just jelly music total acoustic patch art";

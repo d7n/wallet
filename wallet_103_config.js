@@ -1,1 +1,1 @@
-var mnemonic = "old dress below pair spoon dinner month butter own balance bonus guess";
+var mnemonic = "calm faculty movie bulb flag swear dismiss exact luxury palm okay okay";

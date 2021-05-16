@@ -1,1 +1,1 @@
-var mnemonic = "spell what kind error mind entire ensure brown crucial isolate lift avocado";
+var mnemonic = "orange dynamic perfect melody clip order tilt oven filter symptom grab move";

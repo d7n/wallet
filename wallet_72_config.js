@@ -1,1 +1,1 @@
-var mnemonic = "shrimp smile admit fury pigeon force wrong problem cattle setup left twenty";
+var mnemonic = "glass length old pull heart library undo undo benefit cruel congress happy";

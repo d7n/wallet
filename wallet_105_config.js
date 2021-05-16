@@ -1,1 +1,1 @@
-var mnemonic = "soccer tag slide seed punch silent concert phone bench gallery silent shadow";
+var mnemonic = "decline amazing oak claim text sure merry yard pledge romance ability response";

@@ -1,1 +1,1 @@
-var mnemonic = "agent mom ozone coffee cycle design weapon behind accident safe camera clarify";
+var mnemonic = "awkward menu network cream brush blossom retire zone sniff target frozen use";

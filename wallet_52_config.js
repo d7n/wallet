@@ -1,1 +1,1 @@
-var mnemonic = "category once leg slice bracket foster angry depart card danger town puppy";
+var mnemonic = "seminar jazz naive diamond exhaust business imitate leaf unusual bullet panic doll";

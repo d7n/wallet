@@ -1,1 +1,1 @@
-var mnemonic = "wage off dose balcony tornado blame course render reward ridge fiscal foster";
+var mnemonic = "risk bulb cousin riot firm exclude vivid hold unable syrup permit weekend";

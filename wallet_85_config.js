@@ -1,1 +1,1 @@
-var mnemonic = "law gain animal shift silent truth exile fiscal scrap focus vivid seat";
+var mnemonic = "hunt uncover mobile sell team mutual advance tilt climb fragile prevent tower";

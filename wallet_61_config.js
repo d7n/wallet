@@ -1,1 +1,1 @@
-var mnemonic = "grace enough elder donkey online tent typical glory lesson vote possible panic";
+var mnemonic = "autumn loop scout hour recall when core about cruise table tomato rubber";

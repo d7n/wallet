@@ -1,1 +1,1 @@
-var mnemonic = "shoot confirm chuckle any key zebra mosquito junior pact hockey sustain develop";
+var mnemonic = "angry soft abandon permit staff heart capital patch life master save soon";

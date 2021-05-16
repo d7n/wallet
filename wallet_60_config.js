@@ -1,1 +1,1 @@
-var mnemonic = "run prosper enter chapter escape borrow abandon loan useful census umbrella morning";
+var mnemonic = "debris frog slab concert donor near orphan filter evil liberty say bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "teach action finger oven cloth nature skate this cushion another acid caution";
+var mnemonic = "open exhibit sunset pulse stereo basket balance twenty remove cage pistol prison";

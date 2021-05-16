@@ -1,1 +1,1 @@
-var mnemonic = "wink rapid army indoor endorse stumble escape wedding because body undo install";
+var mnemonic = "initial renew ski swallow radio peace unique prison bracket mountain flush check";

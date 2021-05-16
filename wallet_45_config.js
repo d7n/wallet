@@ -1,1 +1,1 @@
-var mnemonic = "abstract ginger cycle sting island unaware network truth mechanic exhibit tell shaft";
+var mnemonic = "aunt sniff crash aware aim float bomb soap mandate sand kick arrange";

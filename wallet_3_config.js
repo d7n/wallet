@@ -1,1 +1,1 @@
-var mnemonic = "dash tuna whale lamp treat meat silver lizard avoid hair today town";
+var mnemonic = "sight autumn simple like view erode empower lesson tennis actual theory foam";

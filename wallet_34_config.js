@@ -1,1 +1,1 @@
-var mnemonic = "resemble quality bottom version private such mixture rack snake ask rescue april";
+var mnemonic = "plug wage bundle physical parent super risk vague point muffin retire urge";

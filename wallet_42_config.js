@@ -1,1 +1,1 @@
-var mnemonic = "cable key liquid exclude baby crouch hundred ankle that hand transfer alarm";
+var mnemonic = "custom when mention clip powder sausage upset feature refuse symptom phone job";
