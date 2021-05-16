@@ -1,1 +1,1 @@
-var mnemonic = "fan sorry tag hub tell output practice damage witness medal right whale";
+var mnemonic = "twelve tone divert space weekend wealth gravity front wild motion gown odor";

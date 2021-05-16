@@ -1,1 +1,1 @@
-var mnemonic = "tonight onion toss tunnel soon spatial symptom jaguar poverty require web cigar";
+var mnemonic = "friend ancient blush ball detail congress regret effort utility much high occur";

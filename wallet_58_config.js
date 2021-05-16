@@ -1,1 +1,1 @@
-var mnemonic = "hood cake rough way clap hamster razor near tray cherry build soap";
+var mnemonic = "despair original alone hurt high suggest music small panther carpet room close";

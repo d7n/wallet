@@ -1,1 +1,1 @@
-var mnemonic = "accident cave tuition welcome arena civil monitor exclude prize absorb imitate usual";
+var mnemonic = "achieve dream current caution knee concert typical nest truly unveil web dose";

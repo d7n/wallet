@@ -1,1 +1,1 @@
-var mnemonic = "acoustic hollow gown era absurd chat exhibit toast tone discover wisdom right";
+var mnemonic = "ostrich hobby report cause symbol head aspect person talk lemon banana surround";

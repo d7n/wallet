@@ -1,1 +1,1 @@
-var mnemonic = "grunt measure police tail win perfect cram library excess trigger health alley";
+var mnemonic = "bike afford attack sadness hand vapor monitor decade nature forest catalog rack";

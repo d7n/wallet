@@ -1,1 +1,1 @@
-var mnemonic = "saddle pledge shallow stamp rigid peanut nothing stable whisper ostrich calm admit";
+var mnemonic = "trust main ghost oblige stuff expose demise puppy neck inform horn nut";

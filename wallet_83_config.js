@@ -1,1 +1,1 @@
-var mnemonic = "armed mystery upon reveal cradle minute price increase wear child stable short";
+var mnemonic = "usual soup jelly apple sight benefit actor mean menu toast melt inhale";

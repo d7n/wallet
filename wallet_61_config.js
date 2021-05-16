@@ -1,1 +1,1 @@
-var mnemonic = "ticket post list inch long reflect farm picnic elephant horse bunker summer";
+var mnemonic = "puppy autumn image swear grain hammer manual duty until front icon now";

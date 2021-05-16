@@ -1,1 +1,1 @@
-var mnemonic = "security average whale glance way select easy lizard used vendor recall penalty";
+var mnemonic = "foot elegant old bronze what will junk control anxiety blame claw crouch";

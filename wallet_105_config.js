@@ -1,1 +1,1 @@
-var mnemonic = "decline adult dolphin dynamic garlic someone suffer boy display vintage quiz first";
+var mnemonic = "age photo spatial olive smile enemy great fat flavor error believe brush";

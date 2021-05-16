@@ -1,1 +1,1 @@
-var mnemonic = "dad impulse begin endorse loop digital like toilet stick daughter medal anchor";
+var mnemonic = "quantum raccoon food time echo kangaroo wish blush lobster despair coin food";

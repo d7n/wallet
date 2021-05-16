@@ -1,1 +1,1 @@
-var mnemonic = "sock right eager spell skirt general indicate head virtual stock pumpkin video";
+var mnemonic = "suffer cargo velvet session forget coral concert swift essay sketch bar negative";

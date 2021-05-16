@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit recipe shop mosquito style switch carpet load dove park corn rare";
+var mnemonic = "prevent trouble act cousin mother daring cotton because silly various alone maple";

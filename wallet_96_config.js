@@ -1,1 +1,1 @@
-var mnemonic = "salt assist custom dismiss pact onion boy grid final truck surge rapid";
+var mnemonic = "ghost soft carry salute walk toss grace swarm truck anger nut dynamic";

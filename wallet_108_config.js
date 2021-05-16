@@ -1,1 +1,1 @@
-var mnemonic = "run peace truck stomach belt allow warrior another already rude side gentle";
+var mnemonic = "pave attitude glow shift square twenty imitate diagram rescue invest group rent";

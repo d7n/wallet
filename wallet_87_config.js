@@ -1,1 +1,1 @@
-var mnemonic = "cover coil aisle follow cement pact dinosaur above enemy milk actual penalty";
+var mnemonic = "gesture crucial over bicycle sweet bottom stem couple wheat weasel produce unknown";

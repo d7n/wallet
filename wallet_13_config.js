@@ -1,1 +1,1 @@
-var mnemonic = "hurt hen custom piece science unlock moment permit one infant cargo dinosaur";
+var mnemonic = "consider crash rabbit flip keep survey aware romance health immune dial glass";

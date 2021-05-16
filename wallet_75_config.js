@@ -1,1 +1,1 @@
-var mnemonic = "broom cotton crime frog exercise obey ginger slow slide add prevent logic";
+var mnemonic = "before mixture rifle stem weird develop scare surprise home twice distance main";

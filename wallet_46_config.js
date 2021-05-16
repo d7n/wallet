@@ -1,1 +1,1 @@
-var mnemonic = "case pond frost pool bind size chef solid puppy spare weird history";
+var mnemonic = "start time crucial panel liberty rate recall picture pyramid letter limb donkey";

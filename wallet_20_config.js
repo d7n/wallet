@@ -1,1 +1,1 @@
-var mnemonic = "bulb nose desk feed company injury canyon below grief ecology distance swing";
+var mnemonic = "member rib gap trouble rely whisper twelve yellow grab void prevent market";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican among museum image ill toy august toss together note sea gauge";
+var mnemonic = "valley cream hurry please limit equip two increase crew knife man brief";

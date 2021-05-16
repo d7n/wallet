@@ -1,1 +1,1 @@
-var mnemonic = "electric exile ranch change suspect unlock release seek sing magic ticket woman";
+var mnemonic = "diesel used develop gallery hotel present weekend sniff effort drum absent crucial";

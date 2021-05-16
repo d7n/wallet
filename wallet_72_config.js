@@ -1,1 +1,1 @@
-var mnemonic = "cute high envelope shoot gaze youth effort gorilla choice decade clog muscle";
+var mnemonic = "ketchup fever agree helmet hill nurse provide paddle cart denial kick tape";

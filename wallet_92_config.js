@@ -1,1 +1,1 @@
-var mnemonic = "medal thrive margin pledge section defense wink network observe trick dust deputy";
+var mnemonic = "suggest life merry pen balcony door artist message acquire abuse salmon wet";

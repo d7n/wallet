@@ -1,1 +1,1 @@
-var mnemonic = "cook tent hello shove basket scheme doll primary endless pistol under doll";
+var mnemonic = "iron choice flavor monitor gown soup swallow say pencil walnut rate parent";

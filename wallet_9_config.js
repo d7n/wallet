@@ -1,1 +1,1 @@
-var mnemonic = "inherit retreat omit decrease cover language delay napkin mass start naive reward";
+var mnemonic = "faculty potato shrimp attack yard detail bright february action exit fortune glance";

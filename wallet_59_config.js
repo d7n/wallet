@@ -1,1 +1,1 @@
-var mnemonic = "orchard genre twenty exit across access brief private quarter skin update coast";
+var mnemonic = "field interest rural siege public aware february alert sword never only shop";

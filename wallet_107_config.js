@@ -1,1 +1,1 @@
-var mnemonic = "peasant vendor chronic jeans bone charge online slab mother page hip thrive";
+var mnemonic = "spice system fatigue expose grant soft emerge fault scan romance famous coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "purse finger refuse razor master bless bronze merit fit common pupil indoor";
+var mnemonic = "comic appear spell remember equal such walnut route pledge accident spoon trumpet";

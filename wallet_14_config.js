@@ -1,1 +1,1 @@
-var mnemonic = "arrive float cool obvious soap laugh shift click oblige dry cost casino";
+var mnemonic = "total story pilot device wedding sleep explain inch castle lonely start idle";

@@ -1,1 +1,1 @@
-var mnemonic = "basket hire drastic volume retire mother ethics agree tell alter season volume";
+var mnemonic = "liar loud urban bulb poverty book hockey bike twin group urge winter";

@@ -1,1 +1,1 @@
-var mnemonic = "media congress hamster curtain craft document beach dry romance claim effort fog";
+var mnemonic = "liberty diet garlic acquire else focus trip pride cheese fancy mind detect";

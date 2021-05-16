@@ -1,1 +1,1 @@
-var mnemonic = "hen nurse typical echo slot army bundle typical eye recipe palace ridge";
+var mnemonic = "clinic chair wall club shock venue noodle file sleep village lobster empty";

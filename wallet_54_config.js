@@ -1,1 +1,1 @@
-var mnemonic = "police force color angle horse list away level useful stool tomato grocery";
+var mnemonic = "toddler kiwi myth tennis rent battle chase arch cram vault drive glimpse";

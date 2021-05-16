@@ -1,1 +1,1 @@
-var mnemonic = "yellow waste key disease pause begin arrange reopen tribe nest glove skill";
+var mnemonic = "damage fresh artwork put skate liar merry bounce shield spring resemble patch";

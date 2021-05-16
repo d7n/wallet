@@ -1,1 +1,1 @@
-var mnemonic = "fabric label save organ receive age donkey lonely actress sort permit aisle";
+var mnemonic = "test nominee volume speed client stadium quantum extend photo orphan visa awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "liar camera elbow common mixture scene pool stuff deputy region cotton skin";
+var mnemonic = "couch dawn tired pledge ridge walk place oppose uncle spell width usual";

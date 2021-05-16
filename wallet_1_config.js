@@ -1,1 +1,1 @@
-var mnemonic = "swing fat debate original hybrid taxi tomato cruel scatter decline century road";
+var mnemonic = "weather gorilla skin birth video define ball tower switch glass nose tenant";

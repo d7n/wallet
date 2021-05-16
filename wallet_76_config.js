@@ -1,1 +1,1 @@
-var mnemonic = "donate axis path tone edit cup jaguar wrap exile tattoo escape secret";
+var mnemonic = "ride skirt robot umbrella tomato chef ready rough below name outside object";

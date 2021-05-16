@@ -1,1 +1,1 @@
-var mnemonic = "chest identify debris priority prosper online average dune scatter together raven advance";
+var mnemonic = "inform legend film phone head ship verb brown canvas flower awake convince";

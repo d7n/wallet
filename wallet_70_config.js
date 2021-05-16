@@ -1,1 +1,1 @@
-var mnemonic = "atom defense season chapter torch derive twice pull fade rabbit deny solution";
+var mnemonic = "rally duck deer world ship tent exist observe angry globe fame bless";

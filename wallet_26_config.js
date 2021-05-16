@@ -1,1 +1,1 @@
-var mnemonic = "apart before smile stable fix cousin coconut country rich announce pilot silk";
+var mnemonic = "code submit maximum pioneer devote wide involve spike smoke spread outside position";

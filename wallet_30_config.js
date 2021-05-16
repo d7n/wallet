@@ -1,1 +1,1 @@
-var mnemonic = "husband guilt error remain guitar flush laundry verb end cram humble crouch";
+var mnemonic = "fine during happy wrist auto apple fruit amazing antenna surprise proud catalog";

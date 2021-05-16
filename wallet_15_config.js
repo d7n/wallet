@@ -1,1 +1,1 @@
-var mnemonic = "chase fruit miracle sun reopen ticket fringe popular copper version final tube";
+var mnemonic = "print where panda pony security enact bus enjoy oppose bullet salad train";

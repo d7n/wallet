@@ -1,1 +1,1 @@
-var mnemonic = "around educate toss lab coin never mean shell security gold spoil vocal";
+var mnemonic = "stuff wheat burst uncle fluid canyon recall cargo isolate myth whale royal";

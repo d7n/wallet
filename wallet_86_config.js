@@ -1,1 +1,1 @@
-var mnemonic = "point uniform verb sphere word mesh fly account long cupboard champion sorry";
+var mnemonic = "shaft endorse woman fence young welcome youth season skirt income expect ordinary";

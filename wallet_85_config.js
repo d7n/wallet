@@ -1,1 +1,1 @@
-var mnemonic = "timber mercy crawl stem kangaroo jar smoke harsh broccoli notice direct beef";
+var mnemonic = "alarm high athlete unlock sport horse mean solution auto eight vibrant rival";

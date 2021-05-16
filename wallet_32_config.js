@@ -1,1 +1,1 @@
-var mnemonic = "pig voice enable crucial marble cereal soul phrase slim wink rose garment";
+var mnemonic = "badge wine spawn shuffle brief fire cotton gap nominee flat dentist side";

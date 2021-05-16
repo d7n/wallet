@@ -1,1 +1,1 @@
-var mnemonic = "output civil hobby wood raise clerk cactus security pole obscure blanket soldier";
+var mnemonic = "always human wall spoon protect genuine mobile fame power material spare undo";

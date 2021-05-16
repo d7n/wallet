@@ -1,1 +1,1 @@
-var mnemonic = "injury lamp boss tomato critic wine morning match hurt culture delay bag";
+var mnemonic = "radio urban thought broom twin eight pride ecology divorce seed tray actress";

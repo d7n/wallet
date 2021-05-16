@@ -1,1 +1,1 @@
-var mnemonic = "glimpse office eternal badge fire define category away cup boy ugly pull";
+var mnemonic = "tail easily smile inquiry wreck verify credit senior pony dolphin absurd quote";

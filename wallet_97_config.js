@@ -1,1 +1,1 @@
-var mnemonic = "arm hazard insane brave level price salute gallery grab model rather angry";
+var mnemonic = "mesh maid tragic month output casino peace frost fashion raw copper rather";

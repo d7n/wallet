@@ -1,1 +1,1 @@
-var mnemonic = "mystery imitate hair predict kangaroo situate that explain shrug strategy razor fade";
+var mnemonic = "tank poem play deputy secret pilot state neglect journey galaxy prefer possible";

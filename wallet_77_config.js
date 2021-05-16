@@ -1,1 +1,1 @@
-var mnemonic = "sign become replace length glove auto stuff camera lawsuit account diet nest";
+var mnemonic = "ripple puppy easily pig cannon similar leader dune coach accident music ostrich";

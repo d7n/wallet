@@ -1,1 +1,1 @@
-var mnemonic = "inject royal snap tank cruise tank result runway oppose brother asset mistake";
+var mnemonic = "hedgehog start burst romance oblige inmate ask idea term nation lyrics best";

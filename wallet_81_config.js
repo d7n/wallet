@@ -1,1 +1,1 @@
-var mnemonic = "stone skirt fork item diary sphere truck park orchard hotel interest school";
+var mnemonic = "combine catch online nature siege punch census early again nerve nose convince";

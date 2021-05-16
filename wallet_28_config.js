@@ -1,1 +1,1 @@
-var mnemonic = "camp beach outside else curious lion question must border brick mirror upper";
+var mnemonic = "pumpkin bargain oil record twist pull post stone vessel direct more industry";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery endless output satoshi actor avocado execute crazy grunt fortune lady powder";
+var mnemonic = "depart peace garage labor advance wife pluck consider recycle stomach priority truck";

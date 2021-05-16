@@ -1,1 +1,1 @@
-var mnemonic = "sadness ridge awkward cart sustain pride advice verb corn imitate direct pattern";
+var mnemonic = "mechanic indoor fetch initial case glass type seat question creek angry cliff";

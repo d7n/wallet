@@ -1,1 +1,1 @@
-var mnemonic = "crack puzzle toddler hedgehog entire old remember transfer inside book process angry";
+var mnemonic = "lift review push inside bike pelican arm latin supreme february museum body";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage armed weekend honey beach network camera common trust client elbow surge";
+var mnemonic = "keep smart transfer faint entry pen remain source tenant cat exist much";

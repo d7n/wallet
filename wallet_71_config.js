@@ -1,1 +1,1 @@
-var mnemonic = "people carbon dream build same family uphold soldier fun require jacket risk";
+var mnemonic = "dilemma opinion suggest mango swallow pass tiger key much property measure ride";

@@ -1,1 +1,1 @@
-var mnemonic = "another attitude onion unhappy nurse exit session swing twin sail very broom";
+var mnemonic = "piece twist upgrade demand hour mix party leave office movie unaware civil";

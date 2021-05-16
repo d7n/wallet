@@ -1,1 +1,1 @@
-var mnemonic = "lonely outer address silver visa wife rhythm stay tag elevator pen exercise";
+var mnemonic = "anger must sausage clerk pelican pretty write sight injury wrist aspect bus";

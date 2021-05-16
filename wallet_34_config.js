@@ -1,1 +1,1 @@
-var mnemonic = "air steak warfare stage exact illegal script culture rapid worth divide ketchup";
+var mnemonic = "engage neglect pepper will apart flight eyebrow network miss way unique payment";

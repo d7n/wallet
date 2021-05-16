@@ -1,1 +1,1 @@
-var mnemonic = "hint honey original shove chimney casual ranch secret rather ozone color assist";
+var mnemonic = "wink obtain cause fade palace celery harsh rifle history kick escape best";

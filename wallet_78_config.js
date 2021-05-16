@@ -1,1 +1,1 @@
-var mnemonic = "make mean image ready dinosaur citizen crush decorate jungle matter strong animal";
+var mnemonic = "cupboard mean under cousin leader zone fine marine toy solid jeans sure";

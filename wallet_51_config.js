@@ -1,1 +1,1 @@
-var mnemonic = "among salad mandate pride same demise cupboard target wrist horse start innocent";
+var mnemonic = "razor angle cattle like scare police ill brisk glass room leisure miracle";

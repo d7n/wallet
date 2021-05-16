@@ -1,1 +1,1 @@
-var mnemonic = "monitor stumble initial people green target cube main tragic vessel electric before";
+var mnemonic = "cause reopen stand skin sure update rough limit ketchup cousin huge unusual";

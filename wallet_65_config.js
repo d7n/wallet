@@ -1,1 +1,1 @@
-var mnemonic = "swap neck across manual unfair problem voyage allow clerk assume little swim";
+var mnemonic = "define mother bundle forget soccer ring major thrive ensure napkin expand angle";

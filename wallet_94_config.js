@@ -1,1 +1,1 @@
-var mnemonic = "easily turkey stone trade rose rice right outdoor correct base wall slim";
+var mnemonic = "oppose kite setup punch virtual wave elegant answer choice nice must cave";

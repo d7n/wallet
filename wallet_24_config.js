@@ -1,1 +1,1 @@
-var mnemonic = "primary north holiday verb force nerve display wet inhale abuse around destroy";
+var mnemonic = "trick leisure practice index end gate limb gift fiscal reveal embody card";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard duty soup tiger vapor invite pact edge agree hope dash rabbit";
+var mnemonic = "decline goat dwarf actor alley lens trash decrease vital now athlete cargo";

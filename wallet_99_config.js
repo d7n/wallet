@@ -1,1 +1,1 @@
-var mnemonic = "remove mask time group anger swift angle item current critic pelican oval";
+var mnemonic = "glass scan museum fringe disagree daring time material switch become gold brown";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal host unlock happy beach say maple inner dad panther bullet sport";
+var mnemonic = "all useful margin animal hope crouch year together legend under abuse caution";

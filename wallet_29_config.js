@@ -1,1 +1,1 @@
-var mnemonic = "puzzle glance interest west plunge yellow mystery attack word confirm urban paddle";
+var mnemonic = "peasant brick double brain lemon between random skill pigeon ecology opinion gravity";

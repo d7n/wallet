@@ -1,1 +1,1 @@
-var mnemonic = "service yard loan memory critic obtain inmate repeat crush wise vibrant utility";
+var mnemonic = "minimum guitar panther second fan catch demise orange isolate once small cluster";

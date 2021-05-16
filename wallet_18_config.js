@@ -1,1 +1,1 @@
-var mnemonic = "very time embrace supreme plate kit lend task caution clown bargain olive";
+var mnemonic = "order sustain adjust vibrant speak supreme discover they state strong horse lyrics";

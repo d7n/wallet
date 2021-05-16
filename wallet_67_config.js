@@ -1,1 +1,1 @@
-var mnemonic = "peace body slide curtain analyst trim stove witness attend chalk kite shove";
+var mnemonic = "fire mountain movie crunch grab electric repair verify lawsuit around buffalo twelve";

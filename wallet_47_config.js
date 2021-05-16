@@ -1,1 +1,1 @@
-var mnemonic = "size hawk idle catch disorder mountain maple nut resource jewel traffic tape";
+var mnemonic = "cart beach clean rice that shoot obvious also couple never tooth blouse";

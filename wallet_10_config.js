@@ -1,1 +1,1 @@
-var mnemonic = "upgrade clown vanish grant cash offer duck subject depart length push weapon";
+var mnemonic = "oyster audit awkward female sword guide fabric taste keen bubble staff crater";

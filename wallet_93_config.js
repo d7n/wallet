@@ -1,1 +1,1 @@
-var mnemonic = "rude neck balcony smile flash damp best exercise category actor slot someone";
+var mnemonic = "course inquiry dream scrap pledge decline tip mammal wink neglect artefact offer";

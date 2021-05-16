@@ -1,1 +1,1 @@
-var mnemonic = "ladder bright syrup pledge pride ahead elbow grab guard sunny cat sniff";
+var mnemonic = "maze brief outer comfort pudding barely thought flip expect trust filter devote";

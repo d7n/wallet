@@ -1,1 +1,1 @@
-var mnemonic = "lunch unaware trigger tray still tuna access cool video suit marriage pave";
+var mnemonic = "cargo magnet clump umbrella always correct hockey whale seek ensure ecology when";

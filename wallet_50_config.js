@@ -1,1 +1,1 @@
-var mnemonic = "student skull system captain job safe idle start jump vital almost iron";
+var mnemonic = "vast sun profit spend fog fish quick mansion brief match vendor eagle";

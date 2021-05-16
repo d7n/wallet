@@ -1,1 +1,1 @@
-var mnemonic = "execute cluster follow hedgehog museum taste shoot human almost blade crack recall";
+var mnemonic = "suffer frozen baby warrior twenty own bid orchard spirit risk rely warrior";

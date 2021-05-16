@@ -1,1 +1,1 @@
-var mnemonic = "meadow rabbit flash maze tip abandon swarm swing danger cram train shop";
+var mnemonic = "noodle holiday buffalo simple feel ankle dinner unhappy leader air only brain";

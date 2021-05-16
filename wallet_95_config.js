@@ -1,1 +1,1 @@
-var mnemonic = "cotton liar love absent option course glue spend board end unlock junior";
+var mnemonic = "royal awesome candy rabbit assist manage cloud ready caution sunny taxi dream";
