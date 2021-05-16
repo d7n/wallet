@@ -1,1 +1,1 @@
-var mnemonic = "detect debris metal cause east find moment napkin robust heart antique harsh";
+var mnemonic = "helmet disease shop output climb answer gauge deposit satisfy blind grief boat";

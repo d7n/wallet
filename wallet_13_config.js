@@ -1,1 +1,1 @@
-var mnemonic = "ahead spike creek skull lift face maze multiply convince apart tattoo valley";
+var mnemonic = "height obey adult comfort rapid actress poverty kite immense parent offer summer";

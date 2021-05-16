@@ -1,1 +1,1 @@
-var mnemonic = "bind angle fiscal spy lizard orbit task account abandon able sort cloud";
+var mnemonic = "orange pulse garage jump wild join labor replace host shell picnic supply";

@@ -1,1 +1,1 @@
-var mnemonic = "tree dove sound exclude list furnace festival talk injury artwork atom entire";
+var mnemonic = "dog viable dad harsh dynamic art chimney desert cupboard series detail impact";

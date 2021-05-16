@@ -1,1 +1,1 @@
-var mnemonic = "demise fury more swing spy sell history mechanic weapon loop faint collect";
+var mnemonic = "minor icon neutral caution laugh drastic quantum bean polar push link patient";

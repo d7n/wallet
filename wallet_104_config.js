@@ -1,1 +1,1 @@
-var mnemonic = "oxygen layer video dad enemy action menu sudden chief credit public space";
+var mnemonic = "muscle vanish blast column humor dignity wear valid victory erase female soon";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion position picture speed beef direct draft hurdle shrug pitch rather category";
+var mnemonic = "tornado wish pumpkin anchor card write noble essence fold push luxury refuse";

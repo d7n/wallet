@@ -1,1 +1,1 @@
-var mnemonic = "pride orient choose fortune enlist off affair auction side effort undo team";
+var mnemonic = "wool milk asthma earn run sail position cute educate paddle youth rain";

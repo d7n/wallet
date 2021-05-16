@@ -1,1 +1,1 @@
-var mnemonic = "trumpet route sort elite holiday disagree umbrella uncle hill runway stable ceiling";
+var mnemonic = "kiss muffin street essay divert struggle easy vehicle reduce oblige blade blood";

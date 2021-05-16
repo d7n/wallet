@@ -1,1 +1,1 @@
-var mnemonic = "visual region girl mountain curious damp spice luggage sheriff rookie path decorate";
+var mnemonic = "ensure swim analyst family kingdom pigeon inform elder normal work change decorate";

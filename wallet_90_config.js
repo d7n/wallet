@@ -1,1 +1,1 @@
-var mnemonic = "labor vault ice reopen suit surface army agree sail pool palm primary";
+var mnemonic = "tortoise whip evolve voice advice script spider soft chicken shine gap section";

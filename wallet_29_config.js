@@ -1,1 +1,1 @@
-var mnemonic = "february song swift tiger myself company code bulk emerge pencil clock promote";
+var mnemonic = "learn pitch artwork sorry imitate comfort box group sniff trigger kid nation";

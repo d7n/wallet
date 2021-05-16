@@ -1,1 +1,1 @@
-var mnemonic = "book outdoor praise midnight minor volcano pencil circle purse impose avoid wise";
+var mnemonic = "order medal material venture sell end trial timber seminar lend limb icon";

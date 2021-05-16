@@ -1,1 +1,1 @@
-var mnemonic = "soda summer elegant parrot police chest phrase stand link skin visa deal";
+var mnemonic = "echo stool pistol glad palace oblige age mule nation disagree never park";

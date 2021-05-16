@@ -1,1 +1,1 @@
-var mnemonic = "abandon damp chimney citizen bench soul oil shed print tone luxury service";
+var mnemonic = "ordinary club neither satoshi crowd volcano pave unfair capable lava find three";

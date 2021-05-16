@@ -1,1 +1,1 @@
-var mnemonic = "comic into avoid expand erase eight slight salad town flash toilet ski";
+var mnemonic = "border funny kick rocket skate transfer leave foam lawn wheel tunnel disease";

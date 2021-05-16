@@ -1,1 +1,1 @@
-var mnemonic = "mystery suffer segment culture oxygen flush pyramid proud foot balcony sphere couch";
+var mnemonic = "wheel feed prison intact bamboo brush manage harbor wedding tip aim security";

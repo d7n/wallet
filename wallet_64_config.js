@@ -1,1 +1,1 @@
-var mnemonic = "online fashion recall violin hello common phone try direct breeze pluck warm";
+var mnemonic = "recipe resource extra screen cluster scrub arch mystery forward large guess insect";

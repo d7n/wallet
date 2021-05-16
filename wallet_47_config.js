@@ -1,1 +1,1 @@
-var mnemonic = "ankle another charge wonder angle delay consider slim tornado poverty nothing foam";
+var mnemonic = "exit fashion echo flock void deposit learn auction eternal brain hill atom";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic secret rubber bachelor duty advance deny garden mansion like love senior";
+var mnemonic = "museum dad inner drink brick artist reject silver cage legal invite across";

@@ -1,1 +1,1 @@
-var mnemonic = "clown proof salute receive family olympic alley chicken occur brick minute return";
+var mnemonic = "finger weasel case head night sample arch alien pencil cool feature work";

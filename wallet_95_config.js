@@ -1,1 +1,1 @@
-var mnemonic = "slogan nose display endless split walk news grow stereo joy claim maple";
+var mnemonic = "weasel volume eternal task patch marble task power bone post execute knee";

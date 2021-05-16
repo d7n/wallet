@@ -1,1 +1,1 @@
-var mnemonic = "detect evolve horse omit one radar dizzy rare during athlete tenant borrow";
+var mnemonic = "bring upgrade rough aim earn enrich rally news aware promote twin shield";

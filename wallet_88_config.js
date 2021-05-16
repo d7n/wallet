@@ -1,1 +1,1 @@
-var mnemonic = "elegant hawk tornado shrimp purity soul toilet execute vault sunset sing cabbage";
+var mnemonic = "pear pelican park razor virus copper special fog thought month electric include";

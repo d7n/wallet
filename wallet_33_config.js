@@ -1,1 +1,1 @@
-var mnemonic = "decorate lens below narrow banner salmon catalog blade harbor market agree steak";
+var mnemonic = "turkey safe mandate stumble result assume chef derive hole city wrist bulk";

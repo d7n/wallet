@@ -1,1 +1,1 @@
-var mnemonic = "vintage install until rib chef slush lunar final uniform army wrist tail";
+var mnemonic = "gallery orient subway consider romance physical happy meadow diesel sibling embark rotate";

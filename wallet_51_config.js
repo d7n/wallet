@@ -1,1 +1,1 @@
-var mnemonic = "supreme loud bench black prosper fan lava soon love plate join tide";
+var mnemonic = "danger carry winner symptom arrest school pen gauge rain bench oppose exhibit";

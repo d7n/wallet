@@ -1,1 +1,1 @@
-var mnemonic = "science cycle cry melody pudding increase tumble pulp treat chase best corn";
+var mnemonic = "soda daring jaguar air front weekend like about million elite myth weird";

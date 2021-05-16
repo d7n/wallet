@@ -1,1 +1,1 @@
-var mnemonic = "soft lottery list foil aspect satoshi seek garment battle level design pull";
+var mnemonic = "portion phrase lab grab gorilla discover sun basket surface usual aunt price";

@@ -1,1 +1,1 @@
-var mnemonic = "become ship excuse master shove slow intact year move announce miss analyst";
+var mnemonic = "maid cheese stuff rose lonely rifle army explain diesel hole thrive market";

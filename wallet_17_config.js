@@ -1,1 +1,1 @@
-var mnemonic = "heart chaos buyer surprise basic example civil review timber thunder frame toe";
+var mnemonic = "debate domain jazz mixed claim frost poet rifle broccoli ignore minimum design";

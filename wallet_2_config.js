@@ -1,1 +1,1 @@
-var mnemonic = "omit cigar follow short rubber awkward middle perfect awkward mind slush either";
+var mnemonic = "fire roast ranch fire umbrella gaze smile super design small grief grab";

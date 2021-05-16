@@ -1,1 +1,1 @@
-var mnemonic = "slush quarter sudden rapid mammal hold across draft cream fluid hungry deny";
+var mnemonic = "medal salmon hospital response hello maple grape pool federal diesel evil spawn";

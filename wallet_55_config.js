@@ -1,1 +1,1 @@
-var mnemonic = "affair spot normal honey pole long shine civil opera split fresh purpose";
+var mnemonic = "any find deliver library recycle famous dinner profit town fog axis sunset";

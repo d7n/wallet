@@ -1,1 +1,1 @@
-var mnemonic = "track husband equip beyond biology pen domain tilt mistake unusual atom now";
+var mnemonic = "orient deliver damage drum immense travel excite shaft wedding moral industry boat";

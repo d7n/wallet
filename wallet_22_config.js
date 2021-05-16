@@ -1,1 +1,1 @@
-var mnemonic = "flavor million relief rate coconut right clean rebuild crater movie little trumpet";
+var mnemonic = "super energy cancel conduct myself picnic mix oblige faith clinic salmon uniform";

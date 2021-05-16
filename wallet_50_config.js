@@ -1,1 +1,1 @@
-var mnemonic = "drink left glow make unfold burger dash split uniform physical anger pass";
+var mnemonic = "upon social mansion matrix chalk hockey indicate idle unique blue camp glare";

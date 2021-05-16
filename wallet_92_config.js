@@ -1,1 +1,1 @@
-var mnemonic = "vanish elite engine senior sad fault bike point castle public nature suggest";
+var mnemonic = "hello trust final net across small night resist summer defy clutch initial";

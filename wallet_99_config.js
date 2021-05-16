@@ -1,1 +1,1 @@
-var mnemonic = "gift plate motor prepare goose atom uncle auction nothing reunion build reflect";
+var mnemonic = "crazy million still mimic throw already lens try miracle choice range usual";

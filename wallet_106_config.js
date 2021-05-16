@@ -1,1 +1,1 @@
-var mnemonic = "appear hope wrist suggest dress deal rifle quality surge traffic result skin";
+var mnemonic = "slow immense proud umbrella radio happy rubber lift drip vibrant element adapt";

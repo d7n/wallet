@@ -1,1 +1,1 @@
-var mnemonic = "present feel hammer danger business oval car mobile fall mask squirrel level";
+var mnemonic = "because cannon flip pilot picture pluck hood fitness effort burst funny inject";

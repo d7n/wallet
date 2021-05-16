@@ -1,1 +1,1 @@
-var mnemonic = "update ceiling immense forest rural end sentence sentence love sign cat unlock";
+var mnemonic = "grass hour wood nurse bomb unfair owner boss silk captain home blind";

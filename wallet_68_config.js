@@ -1,1 +1,1 @@
-var mnemonic = "burger thought actress toe bridge beef stem vault repeat mushroom arrow palm";
+var mnemonic = "awful exotic analyst twin tenant tide call can play iron sugar skill";

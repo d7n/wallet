@@ -1,1 +1,1 @@
-var mnemonic = "fitness easily soccer fluid damage busy derive fat recycle enroll erosion retreat";
+var mnemonic = "cannon witness enhance uncle cloud clerk hollow afraid tilt cook aware pyramid";

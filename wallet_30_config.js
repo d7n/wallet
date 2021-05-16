@@ -1,1 +1,1 @@
-var mnemonic = "force oxygen color flat pond rude horn symbol lawn early old walk";
+var mnemonic = "victory shock lumber february hybrid promote turtle increase chaos brief drop fluid";

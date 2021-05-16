@@ -1,1 +1,1 @@
-var mnemonic = "evoke car toilet cute voice digital actor private rally mutual tenant glory";
+var mnemonic = "merge curious cash retreat baby hint burst search check panic scatter expect";

@@ -1,1 +1,1 @@
-var mnemonic = "spy focus knee draft vintage entry owner elbow outdoor run tonight ticket";
+var mnemonic = "shallow network color useful aware giggle ready fantasy unit wear hunt category";

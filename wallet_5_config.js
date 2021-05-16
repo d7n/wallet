@@ -1,1 +1,1 @@
-var mnemonic = "join gallery lucky live sauce draft poem rent canal hurry exit digital";
+var mnemonic = "chase wheat myth limb mesh cabin warm upper divert arrest stage north";

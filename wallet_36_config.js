@@ -1,1 +1,1 @@
-var mnemonic = "orchard once unable drama bracket cart else kitten exile cave upgrade morning";
+var mnemonic = "gospel remain kick wet render cupboard slim useless ask turtle useful cool";

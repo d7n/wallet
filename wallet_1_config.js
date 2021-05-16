@@ -1,1 +1,1 @@
-var mnemonic = "broken knock river marriage blast remember pet tomorrow machine fuel wool major";
+var mnemonic = "monitor north someone dry certain unhappy capable build embark juice parrot leader";

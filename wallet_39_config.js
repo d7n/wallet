@@ -1,1 +1,1 @@
-var mnemonic = "speak boost require mix decorate radio urban seven ethics foil never busy";
+var mnemonic = "click become adjust comfort blush hurry culture track empty grab cup impose";

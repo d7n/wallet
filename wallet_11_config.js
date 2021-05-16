@@ -1,1 +1,1 @@
-var mnemonic = "faint avocado rib wheat lucky exact egg beauty sunset correct property wild";
+var mnemonic = "baby mansion enhance like select upper series strong link labor oak reason";

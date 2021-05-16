@@ -1,1 +1,1 @@
-var mnemonic = "pair bean tennis omit park country rocket motor rude ritual minor month";
+var mnemonic = "drill title focus item change inflict record rack arena elegant put elite";

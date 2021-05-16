@@ -1,1 +1,1 @@
-var mnemonic = "vehicle coast pluck method toe decorate long vacant fatal gloom honey metal";
+var mnemonic = "collect dutch sand leave boring outer uniform hero hazard quantum donor wave";

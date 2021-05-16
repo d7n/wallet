@@ -1,1 +1,1 @@
-var mnemonic = "enemy monkey frame still real ivory unknown eternal roast butter leader spend";
+var mnemonic = "second donor pen impulse answer deposit fringe bench rabbit garage region multiply";

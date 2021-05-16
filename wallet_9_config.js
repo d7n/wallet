@@ -1,1 +1,1 @@
-var mnemonic = "swing proof check sister smooth behind actor warm sunset connect stuff genre";
+var mnemonic = "vital daring resist push lemon detect unknown radio nurse october help neglect";

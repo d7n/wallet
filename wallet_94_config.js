@@ -1,1 +1,1 @@
-var mnemonic = "like merge gift amount wheel service tail market caught owner spoon excess";
+var mnemonic = "script sign just fatal column sound priority topple arrive setup decade unfold";

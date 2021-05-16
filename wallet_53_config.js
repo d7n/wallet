@@ -1,1 +1,1 @@
-var mnemonic = "clap equal slight state wheat north away unable wear pull sadness again";
+var mnemonic = "bomb punch ritual raccoon culture panic car anger absent soap problem trophy";

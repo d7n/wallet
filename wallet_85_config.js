@@ -1,1 +1,1 @@
-var mnemonic = "aspect viable profit old churn aim exist response wrist odor romance thumb";
+var mnemonic = "unfold borrow patrol increase mask year silly candy cousin slow space pony";

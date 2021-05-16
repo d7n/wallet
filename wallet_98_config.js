@@ -1,1 +1,1 @@
-var mnemonic = "sausage sorry acoustic spirit tonight grid august crash mouse ordinary clap yellow";
+var mnemonic = "puppy blast steak width devote marriage fruit upon syrup close where arm";

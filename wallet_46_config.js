@@ -1,1 +1,1 @@
-var mnemonic = "dinner aim have clown air weather prevent faith seat mouse purpose mystery";
+var mnemonic = "curve width deny thunder floor fiber payment unit liar where ocean earn";

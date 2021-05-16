@@ -1,1 +1,1 @@
-var mnemonic = "umbrella fat another sunset balcony obtain tide dial trick system decline boost";
+var mnemonic = "gun typical engine project attack viable citizen pony manage butter milk vicious";

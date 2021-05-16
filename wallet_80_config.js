@@ -1,1 +1,1 @@
-var mnemonic = "lunch toe topic end since beef royal present assist candy story response";
+var mnemonic = "call believe grid stool magnet tattoo blind razor primary win comic busy";

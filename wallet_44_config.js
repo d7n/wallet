@@ -1,1 +1,1 @@
-var mnemonic = "common asthma chase lonely rival shell treat naive abstract nothing illegal stomach";
+var mnemonic = "trim pond argue giraffe trial bomb silk oval exit save tiger senior";

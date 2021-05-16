@@ -1,1 +1,1 @@
-var mnemonic = "candy warrior conduct normal actual juice cement crunch sunny soup candy potato";
+var mnemonic = "invest bar guess picture cute dirt popular elbow broom vacuum depend fit";

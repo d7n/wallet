@@ -1,1 +1,1 @@
-var mnemonic = "return guilt raise head fog life mistake nurse undo move ivory rich";
+var mnemonic = "erupt reduce cycle hobby custom mean service excuse arm real depth heavy";

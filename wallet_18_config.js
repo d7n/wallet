@@ -1,1 +1,1 @@
-var mnemonic = "view hundred during nominee model hero episode child violin despair armed hurry";
+var mnemonic = "access ship frown hybrid amateur lonely stage disorder cable before join upper";

@@ -1,1 +1,1 @@
-var mnemonic = "icon merit expand slight divide absent snack tackle snake seed observe silly";
+var mnemonic = "tray canyon true onion cheese dismiss file double kit library lady thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "utility work come scout lunch excite praise imitate around solution pulse floor";
+var mnemonic = "beef name outdoor moral opera bargain race crisp short raven special novel";

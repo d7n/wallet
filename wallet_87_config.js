@@ -1,1 +1,1 @@
-var mnemonic = "clip woman have gentle unique case claw photo slim atom duty illegal";
+var mnemonic = "visit nephew walnut moral embark lounge chef much flag waste kind person";

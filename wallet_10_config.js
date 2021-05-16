@@ -1,1 +1,1 @@
-var mnemonic = "spot purchase random route define illness scare dragon check chicken plastic flip";
+var mnemonic = "neither riot olive renew amused exclude genius scatter matter glimpse bar act";

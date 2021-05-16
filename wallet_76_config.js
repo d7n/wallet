@@ -1,1 +1,1 @@
-var mnemonic = "oven fresh habit drum wave snap fine half segment myth when always";
+var mnemonic = "unveil text push aim denial evidence glow diesel street horse dream heavy";

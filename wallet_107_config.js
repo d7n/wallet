@@ -1,1 +1,1 @@
-var mnemonic = "boost hobby opinion evil board egg extend jeans else quit oil day";
+var mnemonic = "concert prevent cause suspect recall kite fork envelope demise cat advice office";

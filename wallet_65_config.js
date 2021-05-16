@@ -1,1 +1,1 @@
-var mnemonic = "drum taste abuse awesome zone curious rival elegant upper gadget loyal asthma";
+var mnemonic = "cook anchor beyond mask cruise leisure taste near retreat scheme ethics since";

@@ -1,1 +1,1 @@
-var mnemonic = "current maze chuckle proud double crisp recall oven mango always sport future";
+var mnemonic = "print neutral test jeans course way agent coconut reflect parrot among undo";

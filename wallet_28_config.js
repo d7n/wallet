@@ -1,1 +1,1 @@
-var mnemonic = "omit hedgehog joy split bitter position age pizza balance razor divide average";
+var mnemonic = "erode ski enjoy iron fringe congress dash ozone present glove can high";

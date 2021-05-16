@@ -1,1 +1,1 @@
-var mnemonic = "dawn weasel congress legend giggle retreat sad tongue learn second grain exist";
+var mnemonic = "thank matrix vacuum fitness orbit announce erupt remain glue sketch text narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "mother egg junior prison into kick female sun view infant puzzle museum";
+var mnemonic = "pencil mouse song collect dash track ugly latin luggage army click account";

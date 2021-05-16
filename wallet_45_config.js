@@ -1,1 +1,1 @@
-var mnemonic = "attract repeat meat choose tower gold actual claim mobile isolate outdoor furnace";
+var mnemonic = "royal dumb lemon defy envelope enemy target convince cotton cup tell kit";

@@ -1,1 +1,1 @@
-var mnemonic = "mention sting chief bench always share provide host denial cereal scale river";
+var mnemonic = "puppy adult sleep aim endorse mammal very love program train member absent";

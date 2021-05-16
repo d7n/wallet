@@ -1,1 +1,1 @@
-var mnemonic = "sort venue much actual business hour surround armed awake behave spell height";
+var mnemonic = "pistol chapter gaze tragic inherit cabbage neither insect shadow style member family";

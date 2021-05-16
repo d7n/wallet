@@ -1,1 +1,1 @@
-var mnemonic = "empty iron bread annual open alter lamp educate wear tip reveal radar";
+var mnemonic = "turtle reason drive possible elder boil quarter pledge popular left cause thank";

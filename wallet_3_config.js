@@ -1,1 +1,1 @@
-var mnemonic = "balance island fresh chicken expose coil kid capital improve hello alpha thumb";
+var mnemonic = "sort sauce warm bulk plastic flash vacant drip web neither bus wage";

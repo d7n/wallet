@@ -1,1 +1,1 @@
-var mnemonic = "organ depth grass pencil essence shrimp light panic decrease sheriff perfect tobacco";
+var mnemonic = "soup install artwork mad service blood glimpse pottery father meat blade worry";

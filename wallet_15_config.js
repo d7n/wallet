@@ -1,1 +1,1 @@
-var mnemonic = "gossip copy invite refuse now cousin entry fat spirit hawk capable filter";
+var mnemonic = "staff sword bar night glory charge clerk dust share click combine unknown";

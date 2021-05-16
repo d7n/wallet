@@ -1,1 +1,1 @@
-var mnemonic = "gap ketchup code build rare senior fresh depart romance size youth mutual";
+var mnemonic = "valid catch brick pet boy miss curtain nephew melody detail march noodle";

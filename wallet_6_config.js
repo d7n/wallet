@@ -1,1 +1,1 @@
-var mnemonic = "scan slush kingdom display symptom grape spider skin reject tattoo doll armor";
+var mnemonic = "ship dog spawn tired letter swallow oven vault broken arctic zoo mistake";

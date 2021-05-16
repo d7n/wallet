@@ -1,1 +1,1 @@
-var mnemonic = "leopard orphan invite dose obtain quote combine sad twist hire blur recall";
+var mnemonic = "plunge frog portion reveal harsh sketch equal intact feature edge approve bunker";

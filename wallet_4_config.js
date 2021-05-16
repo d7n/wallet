@@ -1,1 +1,1 @@
-var mnemonic = "census stove elbow elevator sponsor flip jeans announce success swap treat table";
+var mnemonic = "orchard merge need tube myth depth barely solar reform evolve crop empower";

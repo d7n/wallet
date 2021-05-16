@@ -1,1 +1,1 @@
-var mnemonic = "cancel verb radio verb delay patch better mandate size wagon taste reduce";
+var mnemonic = "perfect sniff drama ring grunt album west inflict sure soup month smooth";
