@@ -1,1 +1,1 @@
-var mnemonic = "anchor water cook math vintage catch anxiety pledge amused add panel bomb";
+var mnemonic = "organ depth grass pencil essence shrimp light panic decrease sheriff perfect tobacco";

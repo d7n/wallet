@@ -1,1 +1,1 @@
-var mnemonic = "include runway sausage bundle session bronze fit often quarter hole moral attend";
+var mnemonic = "upset west top afford you giggle industry welcome dove increase uncover sunset";

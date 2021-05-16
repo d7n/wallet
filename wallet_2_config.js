@@ -1,1 +1,1 @@
-var mnemonic = "artefact pluck custom burger cheap strategy science quantum select hand obey couple";
+var mnemonic = "omit cigar follow short rubber awkward middle perfect awkward mind slush either";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness teach oxygen address faculty team glad law notice cat cluster favorite";
+var mnemonic = "trumpet route sort elite holiday disagree umbrella uncle hill runway stable ceiling";

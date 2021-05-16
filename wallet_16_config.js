@@ -1,1 +1,1 @@
-var mnemonic = "ginger radio trust version inside tribe seed legal item crunch punch brick";
+var mnemonic = "list cargo start spread anger onion slush diet stadium wrestle cushion pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "control change live source inch stomach walnut disease repair news bicycle there";
+var mnemonic = "nerve garage gauge employ rifle mechanic surge swim merry surface middle trophy";

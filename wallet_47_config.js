@@ -1,1 +1,1 @@
-var mnemonic = "helmet wash hazard finish pitch axis ocean addict want verify type stand";
+var mnemonic = "ankle another charge wonder angle delay consider slim tornado poverty nothing foam";

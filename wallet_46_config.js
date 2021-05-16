@@ -1,1 +1,1 @@
-var mnemonic = "worry volume display echo object nothing clever social kidney innocent adapt brain";
+var mnemonic = "dinner aim have clown air weather prevent faith seat mouse purpose mystery";

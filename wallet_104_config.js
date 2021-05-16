@@ -1,1 +1,1 @@
-var mnemonic = "usual motor muscle eyebrow spice lift fragile hobby witness stool ginger peanut";
+var mnemonic = "oxygen layer video dad enemy action menu sudden chief credit public space";

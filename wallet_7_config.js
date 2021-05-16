@@ -1,1 +1,1 @@
-var mnemonic = "island visit indicate vocal banana swift island poem lamp crime urban title";
+var mnemonic = "mystery suffer segment culture oxygen flush pyramid proud foot balcony sphere couch";

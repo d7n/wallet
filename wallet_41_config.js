@@ -1,1 +1,1 @@
-var mnemonic = "mean dust clip fiber nothing strategy thunder gentle rocket among sunset boss";
+var mnemonic = "tree dove sound exclude list furnace festival talk injury artwork atom entire";

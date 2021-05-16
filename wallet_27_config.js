@@ -1,1 +1,1 @@
-var mnemonic = "amateur vintage squeeze verb error fix real reflect surprise occur innocent duck";
+var mnemonic = "track husband equip beyond biology pen domain tilt mistake unusual atom now";

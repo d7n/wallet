@@ -1,1 +1,1 @@
-var mnemonic = "argue path casino route about reject globe fun december luxury road young";
+var mnemonic = "abandon damp chimney citizen bench soul oil shed print tone luxury service";

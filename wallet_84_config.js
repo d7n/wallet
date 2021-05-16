@@ -1,1 +1,1 @@
-var mnemonic = "wood isolate bind dentist toy rifle horse vital tower first law february";
+var mnemonic = "vault sustain table web quiz note hedgehog deliver exclude apology chronic supply";

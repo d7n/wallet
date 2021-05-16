@@ -1,1 +1,1 @@
-var mnemonic = "ladder question choose strong lawsuit kitchen retire other unfold antenna hamster wood";
+var mnemonic = "appear hope wrist suggest dress deal rifle quality surge traffic result skin";

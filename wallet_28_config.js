@@ -1,1 +1,1 @@
-var mnemonic = "call core door suspect mesh subject screen rose grant thought sniff release";
+var mnemonic = "omit hedgehog joy split bitter position age pizza balance razor divide average";

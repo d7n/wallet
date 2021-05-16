@@ -1,1 +1,1 @@
-var mnemonic = "green hawk sound utility already rule display hospital obey insect report print";
+var mnemonic = "detect debris metal cause east find moment napkin robust heart antique harsh";

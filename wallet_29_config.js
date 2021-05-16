@@ -1,1 +1,1 @@
-var mnemonic = "squeeze initial gas artwork vacuum race law ozone involve negative apart later";
+var mnemonic = "february song swift tiger myself company code bulk emerge pencil clock promote";

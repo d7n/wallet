@@ -1,1 +1,1 @@
-var mnemonic = "leaf pill vanish whip unusual pattern become once humble danger minute left";
+var mnemonic = "gap ketchup code build rare senior fresh depart romance size youth mutual";

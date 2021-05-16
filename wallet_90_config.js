@@ -1,1 +1,1 @@
-var mnemonic = "slight ginger agree mobile fold worth jungle valve vicious skull west pride";
+var mnemonic = "labor vault ice reopen suit surface army agree sail pool palm primary";

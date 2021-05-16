@@ -1,1 +1,1 @@
-var mnemonic = "curious version lawn fortune host online humble poem panel brand minor turkey";
+var mnemonic = "faint avocado rib wheat lucky exact egg beauty sunset correct property wild";

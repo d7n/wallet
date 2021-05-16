@@ -1,1 +1,1 @@
-var mnemonic = "stable space glory laptop tree window second kingdom prize peanut filter fork";
+var mnemonic = "scan slush kingdom display symptom grape spider skin reject tattoo doll armor";

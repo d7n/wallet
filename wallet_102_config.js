@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tissue choice rocket explain depart job dish stairs original leave anxiety";
+var mnemonic = "book outdoor praise midnight minor volcano pencil circle purse impose avoid wise";

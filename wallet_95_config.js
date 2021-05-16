@@ -1,1 +1,1 @@
-var mnemonic = "stand immense aspect cement head wasp host flush tray unfold museum engage";
+var mnemonic = "slogan nose display endless split walk news grow stereo joy claim maple";

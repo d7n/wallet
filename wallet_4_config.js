@@ -1,1 +1,1 @@
-var mnemonic = "bone long budget public better exit orchard easily story novel plug decline";
+var mnemonic = "census stove elbow elevator sponsor flip jeans announce success swap treat table";

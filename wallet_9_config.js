@@ -1,1 +1,1 @@
-var mnemonic = "false salad artefact spare outside half wheat market turtle carry morning aspect";
+var mnemonic = "swing proof check sister smooth behind actor warm sunset connect stuff genre";

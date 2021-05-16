@@ -1,1 +1,1 @@
-var mnemonic = "client sadness melt expect wagon define exclude lunar ability pizza awake cube";
+var mnemonic = "aspect viable profit old churn aim exist response wrist odor romance thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant warfare custom brisk device pudding together subway famous cruise amateur cotton";
+var mnemonic = "lunch toe topic end since beef royal present assist candy story response";

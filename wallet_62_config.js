@@ -1,1 +1,1 @@
-var mnemonic = "volcano mom test grain fragile swap album intact permit paper quantum poem";
+var mnemonic = "scissors relax seek problem reunion able neutral session detail end glass expand";

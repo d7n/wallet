@@ -1,1 +1,1 @@
-var mnemonic = "say clock lonely width coast ecology turkey final entire short butter rebel";
+var mnemonic = "erosion position picture speed beef direct draft hurdle shrug pitch rather category";

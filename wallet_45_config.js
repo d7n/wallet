@@ -1,1 +1,1 @@
-var mnemonic = "enact cup pizza lazy fish oxygen bird invite hammer shiver taste steak";
+var mnemonic = "attract repeat meat choose tower gold actual claim mobile isolate outdoor furnace";

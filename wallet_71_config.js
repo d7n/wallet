@@ -1,1 +1,1 @@
-var mnemonic = "wage donate antique critic mosquito lawn catch ocean world gun nature fan";
+var mnemonic = "then type frozen nothing dad frog enable ordinary pen strong prevent sniff";

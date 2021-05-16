@@ -1,1 +1,1 @@
-var mnemonic = "wine garment wait alley critic blossom risk carry act coil poem connect";
+var mnemonic = "exotic secret rubber bachelor duty advance deny garden mansion like love senior";

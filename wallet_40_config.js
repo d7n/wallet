@@ -1,1 +1,1 @@
-var mnemonic = "list rather orbit syrup garage tennis top cluster wasp rule fall genre";
+var mnemonic = "include silly base extra lunch damp begin poverty vault door devote good";

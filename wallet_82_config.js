@@ -1,1 +1,1 @@
-var mnemonic = "destroy moral service quote senior glad gorilla good box trip surround like";
+var mnemonic = "update ceiling immense forest rural end sentence sentence love sign cat unlock";

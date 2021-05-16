@@ -1,1 +1,1 @@
-var mnemonic = "arena matrix ticket sand noise sense bottom argue that drip abstract square";
+var mnemonic = "soft lottery list foil aspect satoshi seek garment battle level design pull";

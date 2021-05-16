@@ -1,1 +1,1 @@
-var mnemonic = "tiger term print mechanic tuition oval unusual pig stay mechanic steel test";
+var mnemonic = "clown proof salute receive family olympic alley chicken occur brick minute return";

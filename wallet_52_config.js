@@ -1,1 +1,1 @@
-var mnemonic = "object devote bachelor clever hour cage sadness hold below machine fit famous";
+var mnemonic = "candy warrior conduct normal actual juice cement crunch sunny soup candy potato";

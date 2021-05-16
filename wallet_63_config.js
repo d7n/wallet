@@ -1,1 +1,1 @@
-var mnemonic = "ketchup provide damage error address cloth math decade wasp file virtual render";
+var mnemonic = "present feel hammer danger business oval car mobile fall mask squirrel level";

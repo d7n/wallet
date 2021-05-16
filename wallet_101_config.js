@@ -1,1 +1,1 @@
-var mnemonic = "number will suggest tilt glue hazard will canoe time industry find home";
+var mnemonic = "camera arrange cradle marine lady mango output primary mask nasty repeat fee";

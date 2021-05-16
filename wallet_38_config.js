@@ -1,1 +1,1 @@
-var mnemonic = "recycle list camp blush pelican immune rhythm kitten leisure debate rotate bread";
+var mnemonic = "dawn weasel congress legend giggle retreat sad tongue learn second grain exist";

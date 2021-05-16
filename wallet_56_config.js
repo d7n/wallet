@@ -1,1 +1,1 @@
-var mnemonic = "pulp flower ill supreme lucky shed hedgehog average achieve bottom ladder bracket";
+var mnemonic = "umbrella fat another sunset balcony obtain tide dial trick system decline boost";

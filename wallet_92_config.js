@@ -1,1 +1,1 @@
-var mnemonic = "tomato trial moral coffee assault beyond burst dad sun copper gown absorb";
+var mnemonic = "vanish elite engine senior sad fault bike point castle public nature suggest";

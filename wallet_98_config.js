@@ -1,1 +1,1 @@
-var mnemonic = "sphere erode mystery asthma merit female brown weather winter pilot basic chest";
+var mnemonic = "sausage sorry acoustic spirit tonight grid august crash mouse ordinary clap yellow";

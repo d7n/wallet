@@ -1,1 +1,1 @@
-var mnemonic = "vague adult because lamp fuel happy pave fresh dash task scan minor";
+var mnemonic = "gossip copy invite refuse now cousin entry fat spirit hawk capable filter";

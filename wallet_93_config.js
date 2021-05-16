@@ -1,1 +1,1 @@
-var mnemonic = "doll almost biology stage error used elephant tonight section smile brown recycle";
+var mnemonic = "bamboo laugh guide art guard fire athlete tuition rail museum distance cup";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete robot theory world limb define angry wait animal tired flag symbol";
+var mnemonic = "bacon find orange sentence resemble bracket flat treat hurt nuclear parrot change";

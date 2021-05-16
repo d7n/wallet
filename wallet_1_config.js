@@ -1,1 +1,1 @@
-var mnemonic = "trouble magic crash now raise flock absurd increase draw artist rely educate";
+var mnemonic = "broken knock river marriage blast remember pet tomorrow machine fuel wool major";

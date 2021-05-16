@@ -1,1 +1,1 @@
-var mnemonic = "color hidden cause maid crouch jealous estate betray zone tired card amazing";
+var mnemonic = "visual region girl mountain curious damp spice luggage sheriff rookie path decorate";

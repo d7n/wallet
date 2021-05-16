@@ -1,1 +1,1 @@
-var mnemonic = "theme point stumble require crop morning sniff ceiling pledge damage choice ketchup";
+var mnemonic = "gift plate motor prepare goose atom uncle auction nothing reunion build reflect";

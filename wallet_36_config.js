@@ -1,1 +1,1 @@
-var mnemonic = "toss chief youth page crumble grid rescue uniform hedgehog office west option";
+var mnemonic = "orchard once unable drama bracket cart else kitten exile cave upgrade morning";

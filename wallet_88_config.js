@@ -1,1 +1,1 @@
-var mnemonic = "recall snake deputy license coast burger order inner month warm mandate fortune";
+var mnemonic = "elegant hawk tornado shrimp purity soul toilet execute vault sunset sing cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe gasp mention brick cool leaf income feature wreck strike wreck metal";
+var mnemonic = "horse ankle egg purpose food bamboo guess local hip card trust under";

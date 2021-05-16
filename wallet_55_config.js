@@ -1,1 +1,1 @@
-var mnemonic = "satisfy improve pill survey advice doll garlic author apple piece chef near";
+var mnemonic = "affair spot normal honey pole long shine civil opera split fresh purpose";

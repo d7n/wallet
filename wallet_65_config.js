@@ -1,1 +1,1 @@
-var mnemonic = "lunch huge when check hungry disagree raven injury truck push random lunch";
+var mnemonic = "drum taste abuse awesome zone curious rival elegant upper gadget loyal asthma";

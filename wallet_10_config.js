@@ -1,1 +1,1 @@
-var mnemonic = "social soft train filter bench crumble broken evil roast blur arrest scorpion";
+var mnemonic = "spot purchase random route define illness scare dragon check chicken plastic flip";

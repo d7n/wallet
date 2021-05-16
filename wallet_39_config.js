@@ -1,1 +1,1 @@
-var mnemonic = "danger print matrix dragon diagram autumn road farm eye improve try often";
+var mnemonic = "speak boost require mix decorate radio urban seven ethics foil never busy";

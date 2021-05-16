@@ -1,1 +1,1 @@
-var mnemonic = "symptom awesome bargain december hand equip ketchup pioneer purchase fog photo merge";
+var mnemonic = "cancel verb radio verb delay patch better mandate size wagon taste reduce";

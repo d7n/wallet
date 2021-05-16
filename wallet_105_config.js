@@ -1,1 +1,1 @@
-var mnemonic = "remember want parade actor liar under satisfy coil deliver buzz eager lemon";
+var mnemonic = "capital demand amount actor behind chunk coast bitter multiply juice insane tumble";

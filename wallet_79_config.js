@@ -1,1 +1,1 @@
-var mnemonic = "option wisdom illegal maple license runway uphold radar insect mask sniff thunder";
+var mnemonic = "sort venue much actual business hour surround armed awake behave spell height";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt patch media elbow drive fire mechanic enrich ordinary document lemon clean";
+var mnemonic = "like merge gift amount wheel service tail market caught owner spoon excess";

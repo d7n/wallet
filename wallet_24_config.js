@@ -1,1 +1,1 @@
-var mnemonic = "denial extend physical solve monitor theory practice shop twin wire goose expand";
+var mnemonic = "detect evolve horse omit one radar dizzy rare during athlete tenant borrow";

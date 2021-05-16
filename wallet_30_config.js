@@ -1,1 +1,1 @@
-var mnemonic = "zero alone embark frown slender size lift cupboard trick turkey imitate dad";
+var mnemonic = "force oxygen color flat pond rude horn symbol lawn early old walk";

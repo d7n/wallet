@@ -1,1 +1,1 @@
-var mnemonic = "minor process express gift fitness nominee call disorder regret gravity top awesome";
+var mnemonic = "pride orient choose fortune enlist off affair auction side effort undo team";

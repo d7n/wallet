@@ -1,1 +1,1 @@
-var mnemonic = "rapid diesel adjust then cat floor help blanket catalog foam century confirm";
+var mnemonic = "clip woman have gentle unique case claw photo slim atom duty illegal";

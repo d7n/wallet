@@ -1,1 +1,1 @@
-var mnemonic = "feel release increase law result cat evoke insect vendor area interest series";
+var mnemonic = "empty iron bread annual open alter lamp educate wear tip reveal radar";

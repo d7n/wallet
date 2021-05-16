@@ -1,1 +1,1 @@
-var mnemonic = "act album crucial old fury budget open topple horror goddess urban review";
+var mnemonic = "oven fresh habit drum wave snap fine half segment myth when always";

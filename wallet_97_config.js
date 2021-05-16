@@ -1,1 +1,1 @@
-var mnemonic = "hire range slender motion range mass festival gate switch adult want original";
+var mnemonic = "current maze chuckle proud double crisp recall oven mango always sport future";

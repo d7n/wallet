@@ -1,1 +1,1 @@
-var mnemonic = "menu focus chair play spend priority actress roast timber gospel because level";
+var mnemonic = "soda summer elegant parrot police chest phrase stand link skin visa deal";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst tray seed enlist tackle country vintage skill away calm kingdom summer";
+var mnemonic = "spy focus knee draft vintage entry owner elbow outdoor run tonight ticket";

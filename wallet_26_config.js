@@ -1,1 +1,1 @@
-var mnemonic = "human bonus century outside unaware scare sell rubber client lobster evil fit";
+var mnemonic = "leopard orphan invite dose obtain quote combine sad twist hire blur recall";

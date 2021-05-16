@@ -1,1 +1,1 @@
-var mnemonic = "donate seek setup lounge maple riot wash scale heavy reject gap tongue";
+var mnemonic = "online fashion recall violin hello common phone try direct breeze pluck warm";

@@ -1,1 +1,1 @@
-var mnemonic = "roof hand verb reunion rain pupil unhappy identify cave dismiss gospel three";
+var mnemonic = "exotic pond acoustic stomach sniff happy engine soft confirm walk hammer squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "chef swim ginger excite lyrics very oval valley emotion cabbage behave mountain";
+var mnemonic = "boost hobby opinion evil board egg extend jeans else quit oil day";

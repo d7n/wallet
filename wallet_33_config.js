@@ -1,1 +1,1 @@
-var mnemonic = "rug fresh alpha scrub glove destroy please also vault boy lucky process";
+var mnemonic = "decorate lens below narrow banner salmon catalog blade harbor market agree steak";

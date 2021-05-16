@@ -1,1 +1,1 @@
-var mnemonic = "medal load upset divide rose embody upset prosper juice zone forward business";
+var mnemonic = "utility work come scout lunch excite praise imitate around solution pulse floor";

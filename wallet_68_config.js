@@ -1,1 +1,1 @@
-var mnemonic = "inside cloth give hero tail put resist cash win parade fiber traffic";
+var mnemonic = "burger thought actress toe bridge beef stem vault repeat mushroom arrow palm";

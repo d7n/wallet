@@ -1,1 +1,1 @@
-var mnemonic = "crunch earn stereo board afraid clip lottery sphere ten valley inherit cruel";
+var mnemonic = "balance island fresh chicken expose coil kid capital improve hello alpha thumb";

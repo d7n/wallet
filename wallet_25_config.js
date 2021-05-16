@@ -1,1 +1,1 @@
-var mnemonic = "ivory fat furnace tongue fashion trial twin wife horror blush meat renew";
+var mnemonic = "evoke car toilet cute voice digital actor private rally mutual tenant glory";

@@ -1,1 +1,1 @@
-var mnemonic = "live social miracle cruel expect wolf license cook rescue dragon essence seven";
+var mnemonic = "return guilt raise head fog life mistake nurse undo move ivory rich";

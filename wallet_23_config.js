@@ -1,1 +1,1 @@
-var mnemonic = "correct use flag seek salon jump hover file snake reopen pumpkin tongue";
+var mnemonic = "become ship excuse master shove slow intact year move announce miss analyst";

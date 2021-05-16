@@ -1,1 +1,1 @@
-var mnemonic = "banana twice green lumber address farm shed alpha toward tonight finger busy";
+var mnemonic = "flavor million relief rate coconut right clean rebuild crater movie little trumpet";

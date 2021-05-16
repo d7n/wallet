@@ -1,1 +1,1 @@
-var mnemonic = "sock someone dentist bleak tenant romance review foster body summer later network";
+var mnemonic = "pair bean tennis omit park country rocket motor rude ritual minor month";

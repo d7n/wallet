@@ -1,1 +1,1 @@
-var mnemonic = "south despair observe crunch always tiger tiger broom pupil matrix project horror";
+var mnemonic = "clap equal slight state wheat north away unable wear pull sadness again";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose what horse confirm color fat teach vivid mean honey pudding hidden";
+var mnemonic = "enemy monkey frame still real ivory unknown eternal roast butter leader spend";

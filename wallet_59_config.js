@@ -1,1 +1,1 @@
-var mnemonic = "wise sample above caution enforce easily theme valley ten excite sample decrease";
+var mnemonic = "science cycle cry melody pudding increase tumble pulp treat chase best corn";

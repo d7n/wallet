@@ -1,1 +1,1 @@
-var mnemonic = "mirror brisk output beauty cart child connect dynamic nation chimney prepare before";
+var mnemonic = "exchange prosper suspect hope keen height chunk zebra author slender stock doctor";

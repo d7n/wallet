@@ -1,1 +1,1 @@
-var mnemonic = "drip moon festival region canyon high mixture salad accident brass cover fever";
+var mnemonic = "bind angle fiscal spy lizard orbit task account abandon able sort cloud";

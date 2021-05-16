@@ -1,1 +1,1 @@
-var mnemonic = "coach dumb wagon worth miracle grit sugar manage kick flower fragile inject";
+var mnemonic = "demise fury more swing spy sell history mechanic weapon loop faint collect";

@@ -1,1 +1,1 @@
-var mnemonic = "solution drive cluster prepare kitten coyote junk olive lonely toss gospel moment";
+var mnemonic = "join gallery lucky live sauce draft poem rent canal hurry exit digital";
