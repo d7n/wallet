@@ -1,1 +1,1 @@
-var mnemonic = "token gadget arena usage popular radio cabbage dash winter album fitness vintage";
+var mnemonic = "critic pyramid there step gorilla illegal deputy cancel lawsuit saddle bubble wall";

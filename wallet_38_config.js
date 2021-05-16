@@ -1,1 +1,1 @@
-var mnemonic = "zero problem river candy census goddess chalk dignity foam lunch sad resemble";
+var mnemonic = "close update matrix quit produce notable pond solid swift girl ability south";

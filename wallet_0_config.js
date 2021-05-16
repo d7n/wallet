@@ -1,1 +1,1 @@
-var mnemonic = "almost expire observe example glance crouch clap giggle popular crater enough door";
+var mnemonic = "soul pool yard clock glue pencil upon link color wrist issue turkey";

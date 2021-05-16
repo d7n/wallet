@@ -1,1 +1,1 @@
-var mnemonic = "merit weapon spare cat river usage current cable health box task harsh";
+var mnemonic = "join job appear piece rookie where soldier neutral rhythm private jar today";

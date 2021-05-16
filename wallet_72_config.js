@@ -1,1 +1,1 @@
-var mnemonic = "fee soldier faint random finger robust library shoe trim flock ozone film";
+var mnemonic = "furnace kidney sphere eye donkey rely peanut bubble bomb trouble night manage";

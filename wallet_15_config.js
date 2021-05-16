@@ -1,1 +1,1 @@
-var mnemonic = "huge awkward walk swift injury fiction fever remember stable they sphere few";
+var mnemonic = "radar virus trumpet canyon urge chunk obtain treat churn wheat nation reward";

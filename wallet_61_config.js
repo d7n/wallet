@@ -1,1 +1,1 @@
-var mnemonic = "jaguar derive season speed atom rain genre network insect you scene crush";
+var mnemonic = "defy country deliver there velvet doctor true foot mix uncle update foster";

@@ -1,1 +1,1 @@
-var mnemonic = "garden stage anger forget desert property hope able stay infant horror surprise";
+var mnemonic = "leader tide bachelor idle between design seven blossom liar eager rookie post";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh arrest mobile split coast donkey gun win thank blade divert budget";
+var mnemonic = "random mad winter concert drop method sausage float afraid soldier tape pupil";

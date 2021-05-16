@@ -1,1 +1,1 @@
-var mnemonic = "drip harsh review double firm flower steel below check trend measure virus";
+var mnemonic = "grass mountain foam trumpet ready deliver void stuff scare bid curious joke";

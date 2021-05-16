@@ -1,1 +1,1 @@
-var mnemonic = "acid erupt behave fire sweet fee accuse off over pupil update pistol";
+var mnemonic = "flat affair hip such enhance state blind proof sail photo pepper under";

@@ -1,1 +1,1 @@
-var mnemonic = "trend chef tray forward winter can scrap wild fault damp balance bubble";
+var mnemonic = "boat wink tank hen fortune legal ozone liquid obvious census domain brass";

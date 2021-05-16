@@ -1,1 +1,1 @@
-var mnemonic = "sword detail ethics arctic crucial sort tunnel ostrich soldier fever expose install";
+var mnemonic = "bulk promote sheriff enhance tent wire idle misery pitch pioneer museum father";

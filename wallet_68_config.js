@@ -1,1 +1,1 @@
-var mnemonic = "obvious rich elder learn banana tennis shoulder toast walnut bid hollow cheap";
+var mnemonic = "force cause viable powder chapter bright salon whisper barrel powder kit inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "eight spread connect board marine pink nominee sibling resemble shoe nation brief";
+var mnemonic = "minimum purity immune oyster elevator fetch visa ostrich grid logic trophy raise";

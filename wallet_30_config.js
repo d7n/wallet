@@ -1,1 +1,1 @@
-var mnemonic = "sister rally able lion input letter key tribe note nature fun night";
+var mnemonic = "crouch cake peace divert rule cotton theme flash height cricket zero member";

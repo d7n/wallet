@@ -1,1 +1,1 @@
-var mnemonic = "peace over empower gym can rude title venue trouble mixture feed fee";
+var mnemonic = "parade hard setup tree solid crater skin kangaroo shaft glance harbor daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "index order spot antique huge impose knock usage curve crash faint topic";
+var mnemonic = "regret twenty typical prepare below hurt often mammal excite summer protect puzzle";

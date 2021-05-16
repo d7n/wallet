@@ -1,1 +1,1 @@
-var mnemonic = "detect link height tackle mind kite bullet check wild help over fox";
+var mnemonic = "ski skin public puppy carry soldier scheme smile feature thunder sphere artefact";

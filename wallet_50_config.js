@@ -1,1 +1,1 @@
-var mnemonic = "machine only social entire harvest decorate jewel admit canal search behind kit";
+var mnemonic = "token produce immune card ritual viable witness edit skill acquire hungry such";

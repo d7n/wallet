@@ -1,1 +1,1 @@
-var mnemonic = "arm escape fall oxygen then fire argue bench column above error dove";
+var mnemonic = "salmon promote harbor sun twenty grab garbage ostrich document output someone cancel";

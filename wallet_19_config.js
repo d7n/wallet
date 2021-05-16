@@ -1,1 +1,1 @@
-var mnemonic = "universe able gauge choice frown river pumpkin cousin often game rough stadium";
+var mnemonic = "uncover public expire pool finish bid opera demise spy town grape tuition";

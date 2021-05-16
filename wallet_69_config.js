@@ -1,1 +1,1 @@
-var mnemonic = "menu lecture series job caution door simple ensure crater shallow film shell";
+var mnemonic = "inquiry pull enforce fiction blouse decade predict mother that seat sustain panic";

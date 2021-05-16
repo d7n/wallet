@@ -1,1 +1,1 @@
-var mnemonic = "company doll butter grape original movie drink quantum combine card quit arrange";
+var mnemonic = "coach visa twelve glance fuel tower bamboo pig throw glue year emotion";

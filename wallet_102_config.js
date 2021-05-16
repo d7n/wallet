@@ -1,1 +1,1 @@
-var mnemonic = "diary soon person fruit lunch assume lemon pigeon gift gravity resemble half";
+var mnemonic = "execute infant ahead fold moment bike fork pear major steak must river";

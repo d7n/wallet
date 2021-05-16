@@ -1,1 +1,1 @@
-var mnemonic = "senior cloth oak photo cinnamon breeze diagram cluster change exile friend chaos";
+var mnemonic = "spirit head girl industry goddess agent inflict price pet attack tumble spread";

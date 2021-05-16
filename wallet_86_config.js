@@ -1,1 +1,1 @@
-var mnemonic = "logic alone expire wage tape tunnel feed glove scrap kingdom excess upset";
+var mnemonic = "custom romance hand father annual below olympic demise man debate shrug bonus";

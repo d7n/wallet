@@ -1,1 +1,1 @@
-var mnemonic = "horn alarm release recycle poverty caution diary inch guard range twenty orbit";
+var mnemonic = "control label attract legal provide sunny trap course property exhibit duty pitch";

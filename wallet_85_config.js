@@ -1,1 +1,1 @@
-var mnemonic = "female clog perfect heart cloth swing nerve utility viable still alert ritual";
+var mnemonic = "frost slim grass canyon spray apology raw glance mobile awesome present extra";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle absurd dish rival impulse chef leg correct absent tank black spy";
+var mnemonic = "fence vital essence art cherry dance best nominee ring point hat lonely";

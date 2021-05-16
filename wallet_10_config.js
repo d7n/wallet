@@ -1,1 +1,1 @@
-var mnemonic = "venue abuse trick engage usual focus major puzzle bless liberty dry female";
+var mnemonic = "eager judge say earn venue force soft churn refuse riot thrive weekend";

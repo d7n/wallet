@@ -1,1 +1,1 @@
-var mnemonic = "enough vibrant pond cake little wild test sure series ladder critic feel";
+var mnemonic = "luxury about body puzzle term awake target east rent tag spend wave";

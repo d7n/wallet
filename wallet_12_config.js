@@ -1,1 +1,1 @@
-var mnemonic = "suggest shy tiger apart lunar obscure inside mixture begin soul produce humble";
+var mnemonic = "tribe dilemma wife fuel embrace visual picture decorate agent love thing siren";

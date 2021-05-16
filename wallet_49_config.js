@@ -1,1 +1,1 @@
-var mnemonic = "tag affair apple upset rotate tail cross nurse wing park lobster lobster";
+var mnemonic = "tooth business else mean jacket seven six prize undo minimum ten melody";

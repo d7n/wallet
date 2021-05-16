@@ -1,1 +1,1 @@
-var mnemonic = "main evoke enhance green team frog kiwi track cabbage nasty tennis negative";
+var mnemonic = "ghost coyote post judge foil exact moon olympic noodle super spike keen";

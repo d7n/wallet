@@ -1,1 +1,1 @@
-var mnemonic = "fragile inhale tattoo confirm become enrich report ladder boy fault material flower";
+var mnemonic = "peanut try race fatigue weapon jewel miss lamp learn walk brand process";

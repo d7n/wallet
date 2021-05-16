@@ -1,1 +1,1 @@
-var mnemonic = "love joy tourist today disorder solar slice barely region tape luggage sick";
+var mnemonic = "change stomach jazz urban high dash flat expect disagree twice stay kiwi";

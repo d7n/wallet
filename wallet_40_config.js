@@ -1,1 +1,1 @@
-var mnemonic = "fresh harbor select virtual chicken conduct pottery cupboard sibling ugly grief drive";
+var mnemonic = "solve uncover offer awful door desert ask still real analyst trigger lemon";

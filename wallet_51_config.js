@@ -1,1 +1,1 @@
-var mnemonic = "quote achieve tragic guide letter twenty arena fury glue imitate length absurd";
+var mnemonic = "second wrestle cargo key remain sketch model suit disease custom resource idle";

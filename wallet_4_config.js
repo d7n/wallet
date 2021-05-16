@@ -1,1 +1,1 @@
-var mnemonic = "mixture key avoid brown pear wheat trust buddy wait paper demand misery";
+var mnemonic = "mountain winter mosquito distance draft sock deny possible hobby cook canyon fiction";

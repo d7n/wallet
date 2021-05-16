@@ -1,1 +1,1 @@
-var mnemonic = "wave cart nasty dad torch side cheese clever game lazy mass fiber";
+var mnemonic = "coil toe fragile rhythm odor mystery run piece casino unique group toddler";

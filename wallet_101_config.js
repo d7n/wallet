@@ -1,1 +1,1 @@
-var mnemonic = "person tissue exercise airport ball cube side obscure rude cost laundry little";
+var mnemonic = "thumb cement plunge trade brisk side vessel abandon calm again duck learn";

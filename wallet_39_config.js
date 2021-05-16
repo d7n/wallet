@@ -1,1 +1,1 @@
-var mnemonic = "current dice core harsh then leave powder puzzle stool hawk shield tornado";
+var mnemonic = "pink settle page mystery alarm glide lizard scare much fox lawn first";

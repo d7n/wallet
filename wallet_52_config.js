@@ -1,1 +1,1 @@
-var mnemonic = "apple network index two rather zero proud welcome long drink gown panther";
+var mnemonic = "pen chuckle example couch head flee escape execute armed tower assist breeze";

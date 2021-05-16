@@ -1,1 +1,1 @@
-var mnemonic = "major cross exact frog solve essay hip shuffle answer settle mixed laundry";
+var mnemonic = "brass section express have agree hire chef into urge supply virus time";

@@ -1,1 +1,1 @@
-var mnemonic = "choose sad orbit measure access vintage opinion leaf smart labor truth reopen";
+var mnemonic = "vocal produce local float keep inch napkin absent snack debate alert company";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal property monkey liberty squirrel future gap shell myself return cake firm";
+var mnemonic = "industry torch wall sea rebel goat bright genuine gadget coyote brick where";

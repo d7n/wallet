@@ -1,1 +1,1 @@
-var mnemonic = "tobacco very pepper champion improve fold close raw novel scissors wedding never";
+var mnemonic = "kiwi write airport patch tiny off favorite subject enough zoo flavor wing";

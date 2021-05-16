@@ -1,1 +1,1 @@
-var mnemonic = "basic gain furnace desk aisle cat barrel unaware snack subway cheap ghost";
+var mnemonic = "ranch resist insect duck eagle boring frown addict girl material sell pet";

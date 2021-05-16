@@ -1,1 +1,1 @@
-var mnemonic = "camp iron useless rain embody make smile general symbol horn damage ticket";
+var mnemonic = "chaos welcome fruit diesel mercy recycle movie omit code pig hawk egg";

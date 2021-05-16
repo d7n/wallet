@@ -1,1 +1,1 @@
-var mnemonic = "praise sausage budget hover spoon else face sure fame area evoke circle";
+var mnemonic = "sort aunt blade exact above write public century card clever balance craft";

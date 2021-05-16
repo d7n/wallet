@@ -1,1 +1,1 @@
-var mnemonic = "hero gadget almost tell pistol setup stairs hidden frequent write fantasy section";
+var mnemonic = "target fortune chalk flavor cube wash affair rail mimic remove armed loan";

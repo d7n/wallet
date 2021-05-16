@@ -1,1 +1,1 @@
-var mnemonic = "blouse screen hotel result person noodle stairs critic local board solar agent";
+var mnemonic = "cactus potato spin monkey antenna daring home devote during mountain snow aerobic";

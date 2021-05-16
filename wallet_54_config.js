@@ -1,1 +1,1 @@
-var mnemonic = "eternal slab twist great fix draw neither range float donor square sentence";
+var mnemonic = "corn raven spike what mango leg rough robot love unveil guard frown";

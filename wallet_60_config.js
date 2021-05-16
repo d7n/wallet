@@ -1,1 +1,1 @@
-var mnemonic = "make toy invest slogan trial acoustic silent tent expire cradle garlic they";
+var mnemonic = "business position scout scare finish elite soon target permit later fruit tongue";

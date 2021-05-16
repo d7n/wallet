@@ -1,1 +1,1 @@
-var mnemonic = "face release enemy foil opinion luggage pride youth punch spirit voice basic";
+var mnemonic = "because creek recycle push ripple equal private mobile episode excite sauce mom";

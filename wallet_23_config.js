@@ -1,1 +1,1 @@
-var mnemonic = "goat salute figure rather tell cave practice borrow hammer attend blue gadget";
+var mnemonic = "warm engage trophy thank double chronic fashion cargo cause dune leisure unknown";

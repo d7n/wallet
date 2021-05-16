@@ -1,1 +1,1 @@
-var mnemonic = "magic people river middle rotate what baby come fix earn fit merit";
+var mnemonic = "cinnamon kite enact naive discover fitness another credit engage used liberty patch";

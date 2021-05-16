@@ -1,1 +1,1 @@
-var mnemonic = "fever essay leaf october cream hip phrase inform sausage palm space tape";
+var mnemonic = "clap deliver satoshi two leisure wise athlete garden index choose select auto";

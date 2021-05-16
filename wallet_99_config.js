@@ -1,1 +1,1 @@
-var mnemonic = "rib erupt loan birth empower voyage shrug bitter general broken pear welcome";
+var mnemonic = "rookie captain race lend huge gauge copper turkey night advance provide lake";

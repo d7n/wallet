@@ -1,1 +1,1 @@
-var mnemonic = "banana sorry couch slim mix laptop hair another pond erode push expect";
+var mnemonic = "arctic reform simple arrow dawn brisk elegant wheat sentence pride wife neither";

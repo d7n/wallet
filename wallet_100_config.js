@@ -1,1 +1,1 @@
-var mnemonic = "body little clutch harvest apart enjoy sword budget myself motor fine pet";
+var mnemonic = "sand onion man rifle please cheap thank lab shrimp jar unveil rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna cross damage sun identify mushroom cry bicycle napkin addict effort learn";
+var mnemonic = "ozone actress brave better devote custom food bar foster copper reflect catalog";

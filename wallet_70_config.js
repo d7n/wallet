@@ -1,1 +1,1 @@
-var mnemonic = "arrest brown couple cover lab apart victory caught entry leaf profit welcome";
+var mnemonic = "have arena learn tenant honey fog angry bright office alley window amused";

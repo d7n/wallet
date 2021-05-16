@@ -1,1 +1,1 @@
-var mnemonic = "illegal mix bridge pink doctor whip into rather napkin middle butter luggage";
+var mnemonic = "proof subway beauty lumber evidence antenna moon turtle suffer double vault course";

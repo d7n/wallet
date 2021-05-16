@@ -1,1 +1,1 @@
-var mnemonic = "alien area panel ignore cycle owner equal spare online jelly sight gather";
+var mnemonic = "liar six local sentence assume warrior collect renew clog tattoo undo found";

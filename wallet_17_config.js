@@ -1,1 +1,1 @@
-var mnemonic = "burst latin wall hungry wolf pink avoid trigger sentence gown fan noble";
+var mnemonic = "orient balance business table mango bicycle embrace invite goat copper mom bid";

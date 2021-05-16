@@ -1,1 +1,1 @@
-var mnemonic = "wall tray leader mimic impact domain twenty already other smile heavy fatigue";
+var mnemonic = "silver rather sword cave poet sustain aspect unit cost impact much end";

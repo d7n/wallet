@@ -1,1 +1,1 @@
-var mnemonic = "example code mammal frost destroy civil wise luggage grit emotion know weapon";
+var mnemonic = "heart twin pencil test paper gospel cruise episode print butter squeeze napkin";

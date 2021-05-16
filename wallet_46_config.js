@@ -1,1 +1,1 @@
-var mnemonic = "little fan sentence today swap furnace small achieve choice ceiling history sibling";
+var mnemonic = "absent neck erosion song beauty top yellow brass clean tag empower question";

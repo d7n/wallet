@@ -1,1 +1,1 @@
-var mnemonic = "rate try length health harbor visual muscle arena present room enact lab";
+var mnemonic = "erode room abstract monkey remind update lend dynamic garment stamp exchange arctic";

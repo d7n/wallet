@@ -1,1 +1,1 @@
-var mnemonic = "venture kick acquire cash spice blast weird fiscal curtain uncle topic clinic";
+var mnemonic = "casino session seven month exotic earth admit cannon disorder coffee false deer";

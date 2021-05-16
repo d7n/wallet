@@ -1,1 +1,1 @@
-var mnemonic = "myth violin arrange excuse excite sausage opera invest lottery inject across sick";
+var mnemonic = "credit popular ball dress any champion real submit enroll neutral brush cross";

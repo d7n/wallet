@@ -1,1 +1,1 @@
-var mnemonic = "tower tree spare story pen oppose wrist kingdom anchor wash pond body";
+var mnemonic = "solar food merry prefer become bench foil slam vicious peanut bind talent";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk couple street sphere weird claw barely shiver credit quote truck spike";
+var mnemonic = "valve evolve segment reform empty safe slide siege someone just public near";

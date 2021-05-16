@@ -1,1 +1,1 @@
-var mnemonic = "elephant vote together walnut parrot strike miracle monitor general bright lamp radio";
+var mnemonic = "ahead obvious grain weekend scene awake vacant cart voice guitar vapor teach";

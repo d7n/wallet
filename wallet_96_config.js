@@ -1,1 +1,1 @@
-var mnemonic = "medal fix spice just business senior chapter blush wine sight give maple";
+var mnemonic = "burst shoe fury finish mystery way under anchor raccoon credit breeze abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "ten cupboard jungle ankle pigeon core amount hollow accident soccer month uphold";
+var mnemonic = "habit call cup term six elevator code claim kick donkey place afford";

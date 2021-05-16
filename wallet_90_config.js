@@ -1,1 +1,1 @@
-var mnemonic = "insect defense party wish spoon poem federal march right repair void warm";
+var mnemonic = "situate oyster prefer deal core bitter few ugly cherry off report claim";

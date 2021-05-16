@@ -1,1 +1,1 @@
-var mnemonic = "injury strategy raven receive online gas ship copy step filter brave steak";
+var mnemonic = "ugly wild burden afford mountain angle mule bring bulk wagon photo rule";

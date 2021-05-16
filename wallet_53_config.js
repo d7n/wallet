@@ -1,1 +1,1 @@
-var mnemonic = "track mushroom rebuild estate rocket weird cart slide clay unfold author three";
+var mnemonic = "festival toy work harvest calm frozen dismiss one marriage off eyebrow business";

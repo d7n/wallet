@@ -1,1 +1,1 @@
-var mnemonic = "pattern neither flower forget vehicle define soccer armor engine odor silver receive";
+var mnemonic = "trade text boss desk clutch mother apple where damp oven supreme alien";

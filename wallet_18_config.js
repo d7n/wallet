@@ -1,1 +1,1 @@
-var mnemonic = "swing soft solar pull pave alarm blade task gym will lock retreat";
+var mnemonic = "village tonight toilet wire ice dinosaur candy pair rough maple grit slice";

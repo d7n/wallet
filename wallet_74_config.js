@@ -1,1 +1,1 @@
-var mnemonic = "rebuild toy replace floor visa verify rack special robot budget jealous sleep";
+var mnemonic = "miracle expose chair flush milk wild car soap bag adjust betray crucial";

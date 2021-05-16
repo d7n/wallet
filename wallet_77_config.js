@@ -1,1 +1,1 @@
-var mnemonic = "orient dad subject job arch method lend entry able month tuition access";
+var mnemonic = "accuse capable lady animal mask salmon conduct hurry can misery service vicious";

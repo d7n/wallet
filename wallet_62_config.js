@@ -1,1 +1,1 @@
-var mnemonic = "soul bone issue nuclear enough lamp pumpkin transfer uphold either rebuild dumb";
+var mnemonic = "arch filter arrow reject drama hen food crush vital capable good become";

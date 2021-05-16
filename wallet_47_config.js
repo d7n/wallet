@@ -1,1 +1,1 @@
-var mnemonic = "giant add giraffe shop canyon metal panel honey wish ketchup awake book";
+var mnemonic = "cloud address project barrel erupt since crystal move uphold material glory choose";

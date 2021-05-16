@@ -1,1 +1,1 @@
-var mnemonic = "day copper elevator decide meat joy define require radar loop fit man";
+var mnemonic = "face broccoli firm regret cinnamon hockey engage aerobic clog lottery title burden";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle enough tumble innocent tool crawl brick group build avoid journey script";
+var mnemonic = "legend talk sword night horse use afraid wolf update helmet task cat";

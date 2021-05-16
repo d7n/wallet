@@ -1,1 +1,1 @@
-var mnemonic = "body trade olympic burden stool body piece elbow often edge parrot spice";
+var mnemonic = "park expire pattern settle destroy dream size flat oxygen sting guess deny";

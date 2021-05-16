@@ -1,1 +1,1 @@
-var mnemonic = "mammal one broccoli island dash hungry boy another tribe foot verify regular";
+var mnemonic = "soda goat vanish fluid inquiry virus upset virtual amateur gloom palm this";

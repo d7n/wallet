@@ -1,1 +1,1 @@
-var mnemonic = "expect raccoon salmon egg sentence staff stereo royal health zone wise feel";
+var mnemonic = "range okay eye chair brain clutch athlete bacon mesh online spray velvet";
