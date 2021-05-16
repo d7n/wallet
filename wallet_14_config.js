@@ -1,1 +1,1 @@
-var mnemonic = "thrive must bacon birth rice entire believe heavy roof profit fire divert";
+var mnemonic = "radio attitude spike sight spike current inner ring load pledge jungle oyster";

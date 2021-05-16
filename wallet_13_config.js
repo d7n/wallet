@@ -1,1 +1,1 @@
-var mnemonic = "whip biology enlist depart duty increase two shield fancy jar alone unknown";
+var mnemonic = "hold sense tone small basket music bar accident frost turkey narrow remain";

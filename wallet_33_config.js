@@ -1,1 +1,1 @@
-var mnemonic = "portion person spirit loop ramp special rival lesson cancel addict congress tobacco";
+var mnemonic = "brave biology excess among unveil shoulder whisper salmon build security truly stage";

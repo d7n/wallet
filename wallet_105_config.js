@@ -1,1 +1,1 @@
-var mnemonic = "royal gaze prevent still orient add parent visa group long sleep subject";
+var mnemonic = "dirt neutral bridge rent regular inflict acid debris cross know ancient atom";

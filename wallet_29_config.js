@@ -1,1 +1,1 @@
-var mnemonic = "bacon scissors pretty balcony quit bag jungle escape bag select clarify above";
+var mnemonic = "confirm vanish patrol dilemma produce train weather lamp visit hedgehog kiss shove";

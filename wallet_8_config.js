@@ -1,1 +1,1 @@
-var mnemonic = "meat version brick toss figure poverty clean trumpet vast foot beach autumn";
+var mnemonic = "coast marriage door jar opera uncle viable boss business glare upgrade banner";

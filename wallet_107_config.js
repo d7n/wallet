@@ -1,1 +1,1 @@
-var mnemonic = "laundry enforce avoid walnut rib help vanish report during taste bottom firm";
+var mnemonic = "essence wonder task ketchup plug frequent fly seed cup guide satoshi tuition";

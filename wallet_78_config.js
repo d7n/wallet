@@ -1,1 +1,1 @@
-var mnemonic = "betray bike bundle wedding fabric peace custom wheel copy salt where manage";
+var mnemonic = "gospel burden hub library delay visa sword sight peasant first oak canal";

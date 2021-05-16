@@ -1,1 +1,1 @@
-var mnemonic = "century expect retreat first chef expire stay frog tower similar shrug garbage";
+var mnemonic = "rose benefit exotic woman depth smile useful area twenty frequent sport copy";

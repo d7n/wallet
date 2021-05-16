@@ -1,1 +1,1 @@
-var mnemonic = "visual select build street web celery tilt stick ghost pet addict away";
+var mnemonic = "misery top vote produce because symbol very punch indoor income burger upon";

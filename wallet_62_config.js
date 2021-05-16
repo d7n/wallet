@@ -1,1 +1,1 @@
-var mnemonic = "eager slow ask coast fork share spider enough gain gauge hobby water";
+var mnemonic = "genuine tragic oak cannon describe warfare multiply machine resource layer number company";

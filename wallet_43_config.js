@@ -1,1 +1,1 @@
-var mnemonic = "reunion chicken portion daughter arena victory certain vintage advance boost media broken";
+var mnemonic = "office net happy supreme about return when salt find defy blur dance";

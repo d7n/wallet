@@ -1,1 +1,1 @@
-var mnemonic = "planet bright hip jelly route today chalk athlete young ensure around predict";
+var mnemonic = "spider butter aspect you stone scrap grab nose arrive meat salad icon";

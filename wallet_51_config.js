@@ -1,1 +1,1 @@
-var mnemonic = "coach among tilt unhappy able arrest practice glory fabric afford furnace senior";
+var mnemonic = "elder phrase weird west adult edit cabin either discover arrest gravity already";

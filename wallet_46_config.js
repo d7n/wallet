@@ -1,1 +1,1 @@
-var mnemonic = "reward huge normal kingdom enjoy ancient depart apple nerve quick afraid grit";
+var mnemonic = "minimum arrest above steel again cave picnic stable sport loan depend joy";

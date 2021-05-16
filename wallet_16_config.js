@@ -1,1 +1,1 @@
-var mnemonic = "harvest frown basic small vanish jungle talk close cruel mandate treat cave";
+var mnemonic = "later across front cost anxiety artwork pledge subject action vessel chunk cement";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve dry alley oblige dice mass budget stove mother pig long lend";
+var mnemonic = "win clip impact quit taste future awesome van horror fiction client render";

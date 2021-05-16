@@ -1,1 +1,1 @@
-var mnemonic = "argue gate term infant foot discover add quarter hurdle display woman obey";
+var mnemonic = "mixed increase excuse sweet fashion pink false leader flag ozone crater quarter";

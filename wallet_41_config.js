@@ -1,1 +1,1 @@
-var mnemonic = "approve absent demand lion impact atom deliver patch ketchup cry world trim";
+var mnemonic = "equip enroll copy someone another glad oven soda furnace average senior nerve";

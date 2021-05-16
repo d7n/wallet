@@ -1,1 +1,1 @@
-var mnemonic = "present vibrant lawn glimpse collect city perfect net recycle video draft input";
+var mnemonic = "daring state visual obtain perfect human kit leg child wave unknown labor";

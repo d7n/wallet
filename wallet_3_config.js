@@ -1,1 +1,1 @@
-var mnemonic = "order brand kiss venture useless mystery mixed shallow celery tornado edit eager";
+var mnemonic = "three image survey faculty alone daring unlock silver slogan canvas usage crisp";

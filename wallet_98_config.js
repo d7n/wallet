@@ -1,1 +1,1 @@
-var mnemonic = "horse sunny alpha episode poet erase print model label dose lemon horn";
+var mnemonic = "speed impulse bullet run shove maximum cheese super clip farm swamp kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "damp inject glue coil apology bulb wink calm twist seed sand arctic";
+var mnemonic = "ability rapid mirror cost drum floor bottom shed noise impact own crime";

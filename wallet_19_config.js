@@ -1,1 +1,1 @@
-var mnemonic = "color cause bargain heart gadget wall jump assist priority assist exotic same";
+var mnemonic = "awkward glare build option tree collect orchard seven absent position matrix glow";

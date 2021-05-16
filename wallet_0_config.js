@@ -1,1 +1,1 @@
-var mnemonic = "obvious deer fish census dismiss permit wrap mobile neutral business time enable";
+var mnemonic = "ring buzz marine dish diagram couple used thing march wheel tobacco neglect";

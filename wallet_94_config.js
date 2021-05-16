@@ -1,1 +1,1 @@
-var mnemonic = "game frost senior release goddess small arch medal patch board rapid sting";
+var mnemonic = "document hood gather push velvet virtual mixture powder eight father pill oval";

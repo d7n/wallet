@@ -1,1 +1,1 @@
-var mnemonic = "hundred knock casual fatigue split picnic maid skill pass catch opinion lend";
+var mnemonic = "unlock sign weird steak gym foot unhappy obey endorse panther toy drill";

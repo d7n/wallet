@@ -1,1 +1,1 @@
-var mnemonic = "task abstract glue mountain ecology repeat bring lady upon side unit quiz";
+var mnemonic = "wool window upon slender before satoshi grain shield raise ribbon good slow";

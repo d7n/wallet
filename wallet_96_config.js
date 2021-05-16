@@ -1,1 +1,1 @@
-var mnemonic = "chalk shiver orphan earth dynamic market illegal seat craft faculty video off";
+var mnemonic = "panic damage inflict onion pulp merge ice flower vivid brand woman future";

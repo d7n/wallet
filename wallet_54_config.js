@@ -1,1 +1,1 @@
-var mnemonic = "afraid world dress release manual spring among record warfare plug account album";
+var mnemonic = "film cave motion diary pattern palm legend more real rice couple arrest";

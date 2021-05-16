@@ -1,1 +1,1 @@
-var mnemonic = "describe orbit stairs love biology poet switch front foil wood duty process";
+var mnemonic = "party wrong ivory play joy dose subject neutral cherry soup census basket";

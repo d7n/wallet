@@ -1,1 +1,1 @@
-var mnemonic = "arch toe eyebrow tobacco now venue topic hand amount online primary north";
+var mnemonic = "fee wool erupt green eight business rapid muffin spike ranch odor oblige";

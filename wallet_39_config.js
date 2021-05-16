@@ -1,1 +1,1 @@
-var mnemonic = "gorilla either adjust harvest snack punch situate answer claim view voyage cup";
+var mnemonic = "knife into spoil episode mom laundry design absorb retire achieve glove attitude";

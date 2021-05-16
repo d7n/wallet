@@ -1,1 +1,1 @@
-var mnemonic = "acoustic behind mercy tent start apology electric sleep hood foil move planet";
+var mnemonic = "never boost rebuild debate sleep illness naive spy thumb upset sail process";

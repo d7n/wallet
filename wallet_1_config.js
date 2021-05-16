@@ -1,1 +1,1 @@
-var mnemonic = "grief obtain bike tribe poet business erupt kit unlock screen tragic bitter";
+var mnemonic = "much toss extend oak awake fresh runway eyebrow spawn stumble harbor trouble";

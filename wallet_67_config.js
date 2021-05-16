@@ -1,1 +1,1 @@
-var mnemonic = "crime plug help transfer occur drama blouse wrong dune bench under wolf";
+var mnemonic = "keen level depth impact virtual around cloud page general design album tumble";

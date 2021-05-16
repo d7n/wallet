@@ -1,1 +1,1 @@
-var mnemonic = "that exit spot badge harbor carbon someone observe goddess liquid clever online";
+var mnemonic = "today east mountain food tower history ill omit woman daughter burst claw";

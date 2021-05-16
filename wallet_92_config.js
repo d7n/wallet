@@ -1,1 +1,1 @@
-var mnemonic = "super trial sting coyote great about suspect stable tattoo blame saddle snap";
+var mnemonic = "today random average close tackle inject message roast friend chunk air labor";

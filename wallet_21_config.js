@@ -1,1 +1,1 @@
-var mnemonic = "deny recall auto track wage master until appear dream joke harvest jaguar";
+var mnemonic = "caution illegal mammal awesome wet fade dream dad naive diamond cake balcony";

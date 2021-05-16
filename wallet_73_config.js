@@ -1,1 +1,1 @@
-var mnemonic = "pig entire believe sentence cricket card name panic struggle skin hold display";
+var mnemonic = "high know jungle machine left glow drink motor say police need mercy";

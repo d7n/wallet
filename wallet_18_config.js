@@ -1,1 +1,1 @@
-var mnemonic = "improve only net unknown near wolf mention become avoid radar toy parade";
+var mnemonic = "town ignore muffin acoustic breeze fresh cabbage suspect solar arrive lunar veteran";

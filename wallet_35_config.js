@@ -1,1 +1,1 @@
-var mnemonic = "hotel flavor layer turtle diary age day fossil junk permit yellow organ";
+var mnemonic = "escape under toe material gown sunny basket antenna magic thing fever balance";

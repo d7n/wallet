@@ -1,1 +1,1 @@
-var mnemonic = "govern trial load drama toast good hair glad come float stage refuse";
+var mnemonic = "allow remind confirm away coyote hood window budget client asthma scare catalog";

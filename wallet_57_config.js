@@ -1,1 +1,1 @@
-var mnemonic = "glue fee regular share judge promote purpose coast casino jump wrestle fashion";
+var mnemonic = "burger kiwi that reunion age number draw sunny crowd august output stove";

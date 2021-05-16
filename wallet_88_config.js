@@ -1,1 +1,1 @@
-var mnemonic = "energy symbol canal sibling rely furnace mule inmate mutual duck inquiry wise";
+var mnemonic = "book vacant neither rescue pass fit coconut icon sight now prison city";

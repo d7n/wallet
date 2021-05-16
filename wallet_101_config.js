@@ -1,1 +1,1 @@
-var mnemonic = "crack audit home lyrics chest zebra one broom sing inject twin blouse";
+var mnemonic = "shuffle cancel spend allow cabin street shift settle produce field suffer concert";

@@ -1,1 +1,1 @@
-var mnemonic = "brief gasp order south address window payment protect youth rabbit shed shield";
+var mnemonic = "hold enhance world august swap engine visit tired hungry guitar degree dad";

@@ -1,1 +1,1 @@
-var mnemonic = "rule keep spend assume art dream cereal pitch liquid mirror armor rotate";
+var mnemonic = "hammer valley addict mom glass trade isolate insane profit inform swing seat";

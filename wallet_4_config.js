@@ -1,1 +1,1 @@
-var mnemonic = "feed title expand lazy wood gravity faculty brand fatal curve bulb hole";
+var mnemonic = "senior parade clarify device noodle lend tomorrow dog foil sail demise ancient";

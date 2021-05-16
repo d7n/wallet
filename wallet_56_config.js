@@ -1,1 +1,1 @@
-var mnemonic = "stuff stick broccoli wall hen paddle artwork neglect muffin copy process add";
+var mnemonic = "broom boss hundred chalk venue agent review hazard favorite camp very sport";

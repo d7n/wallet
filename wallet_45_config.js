@@ -1,1 +1,1 @@
-var mnemonic = "brain course forget green layer fruit hammer solid universe cream alone dirt";
+var mnemonic = "suspect neglect manual upgrade rebel garage harsh apology two gospel price episode";

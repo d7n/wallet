@@ -1,1 +1,1 @@
-var mnemonic = "text million mention dinner regret ability gasp old swift jealous machine cattle";
+var mnemonic = "pact heart chunk spend light eager dove among normal trim agree piano";

@@ -1,1 +1,1 @@
-var mnemonic = "media real debate review report list enhance leopard apart sustain hover hundred";
+var mnemonic = "wrist sting silk main sure coach dry jar ocean lion resource crawl";

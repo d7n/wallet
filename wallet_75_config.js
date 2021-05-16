@@ -1,1 +1,1 @@
-var mnemonic = "design trigger only abuse weird hawk traffic abuse armor critic slot bread";
+var mnemonic = "sleep onion laugh pen clog option vehicle live false music float episode";

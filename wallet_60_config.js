@@ -1,1 +1,1 @@
-var mnemonic = "wheel adult plate maid dignity valley keen father response ensure vocal light";
+var mnemonic = "orphan leader refuse talent cross help plate cup street group fortune crazy";

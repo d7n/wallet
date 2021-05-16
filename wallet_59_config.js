@@ -1,1 +1,1 @@
-var mnemonic = "element crunch prison art view slice wrap judge adapt luggage faculty build";
+var mnemonic = "obvious flip enroll require pumpkin swift win exact leave chunk faint twist";

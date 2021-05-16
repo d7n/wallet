@@ -1,1 +1,1 @@
-var mnemonic = "muffin heavy vacuum gun detect danger elder upon make small coffee thing";
+var mnemonic = "permit above hat slow uniform surge twenty extra section guess unhappy best";

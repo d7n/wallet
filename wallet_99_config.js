@@ -1,1 +1,1 @@
-var mnemonic = "borrow garage blind owner shadow click door trip tray since gasp exhaust";
+var mnemonic = "proud capable wheat burst patient client timber harbor phrase order vague permit";

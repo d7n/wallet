@@ -1,1 +1,1 @@
-var mnemonic = "strong hedgehog force media huge address meadow bus genius demand gloom venture";
+var mnemonic = "push survey fiber jazz stand category possible expand muscle buyer message logic";

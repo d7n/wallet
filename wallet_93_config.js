@@ -1,1 +1,1 @@
-var mnemonic = "depart any taxi hero true reflect begin myth fee month bounce wheel";
+var mnemonic = "destroy only select gap label drop loan dolphin eyebrow actor alarm vapor";

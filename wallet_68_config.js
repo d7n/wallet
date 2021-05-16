@@ -1,1 +1,1 @@
-var mnemonic = "whale often solution ridge actor crop lunch toddler crawl suggest earn claim";
+var mnemonic = "armed mimic copper rely snack lend banana try resist blast afraid hero";

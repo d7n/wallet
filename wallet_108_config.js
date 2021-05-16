@@ -1,1 +1,1 @@
-var mnemonic = "shallow supreme uniform slight west public announce until valve gesture flat junior";
+var mnemonic = "forward scan loop raise possible loan season million wire salad acoustic demise";

@@ -1,1 +1,1 @@
-var mnemonic = "they exchange leader correct morning utility involve length portion economy garment cash";
+var mnemonic = "usage toilet rigid rail aerobic security such nest twin clarify firm misery";

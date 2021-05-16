@@ -1,1 +1,1 @@
-var mnemonic = "inherit scan kingdom palace awful salon suffer feel stock unit cliff surprise";
+var mnemonic = "menu olive lottery allow verb recipe print congress grass horror welcome burden";

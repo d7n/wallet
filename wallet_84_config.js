@@ -1,1 +1,1 @@
-var mnemonic = "wrong toy service nerve inject income evidence share change square rich correct";
+var mnemonic = "gloom same release defy foam area autumn hobby twice fossil enhance lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "mail record accuse amateur vacant math clinic interest animal know favorite tribe";
+var mnemonic = "theme actor soul dutch witness grace squeeze skin need exotic under web";

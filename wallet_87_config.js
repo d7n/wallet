@@ -1,1 +1,1 @@
-var mnemonic = "push kind setup walk double crisp debris crumble income vehicle mystery fire";
+var mnemonic = "become divorce dog differ bamboo level rookie couple seven volcano trim pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold response glove raw prosper enforce okay saddle price gallery alert quit";
+var mnemonic = "cupboard quarter achieve faculty erase wish hint rather negative tumble tuna shiver";

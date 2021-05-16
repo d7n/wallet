@@ -1,1 +1,1 @@
-var mnemonic = "sweet shallow discover match marriage infant elegant else wasp purse quick fat";
+var mnemonic = "tone convince asthma token aim infant fiscal rapid wash cargo supreme critic";

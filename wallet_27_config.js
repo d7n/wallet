@@ -1,1 +1,1 @@
-var mnemonic = "shield surface panel fetch better key gravity have boring submit radar attitude";
+var mnemonic = "apart egg left collect genius mosquito exact lend bleak endorse chimney cook";

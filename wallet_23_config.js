@@ -1,1 +1,1 @@
-var mnemonic = "clip industry egg industry coast rural police act drastic split boat force";
+var mnemonic = "renew celery muffin mask wheat hidden oak collect blast narrow goose casual";

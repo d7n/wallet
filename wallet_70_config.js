@@ -1,1 +1,1 @@
-var mnemonic = "bracket pill index raccoon stem mansion despair wife ten swamp deal knee";
+var mnemonic = "motion grape muscle cool try fly cage alert fade crisp tone today";

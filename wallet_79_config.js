@@ -1,1 +1,1 @@
-var mnemonic = "coffee yellow dirt nerve alcohol during auction shrimp pave close strike six";
+var mnemonic = "source ignore zebra hollow real boy world faith voice orient panther symbol";

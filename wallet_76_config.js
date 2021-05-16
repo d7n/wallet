@@ -1,1 +1,1 @@
-var mnemonic = "uniform alone neck double unlock version donor welcome panda blouse exit fall";
+var mnemonic = "mosquito relief rookie gesture syrup either brisk payment rug excess mandate picture";

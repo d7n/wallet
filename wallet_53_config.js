@@ -1,1 +1,1 @@
-var mnemonic = "green vicious pelican tribe bicycle among garden vacant uncover meat impact journey";
+var mnemonic = "worry limb sun yellow skirt term cost knock sweet width detail wisdom";

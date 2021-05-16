@@ -1,1 +1,1 @@
-var mnemonic = "scale decorate boy day scale embody speak useless pony diet amazing range";
+var mnemonic = "require drastic ordinary style artist erosion exile exclude service digital cup crumble";

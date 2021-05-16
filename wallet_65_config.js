@@ -1,1 +1,1 @@
-var mnemonic = "sense planet carpet ensure need mention give game middle seminar face glance";
+var mnemonic = "company unveil matrix athlete unfair wine wonder enter easy vocal rely silent";

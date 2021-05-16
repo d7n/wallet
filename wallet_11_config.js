@@ -1,1 +1,1 @@
-var mnemonic = "wage rival festival few pipe rigid clump expect few radio ready logic";
+var mnemonic = "pelican embody garment unit bread gaze buyer priority powder thought theory bicycle";

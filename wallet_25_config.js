@@ -1,1 +1,1 @@
-var mnemonic = "riot describe nose ladder fiction foil rack million pioneer unveil smooth bird";
+var mnemonic = "combine cheese swear quarter dawn margin boring congress harvest wealth danger olive";

@@ -1,1 +1,1 @@
-var mnemonic = "name issue retire wealth slight main field club party address equip diesel";
+var mnemonic = "siege tail peace tennis wild walk loyal great nose middle magic swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "rain stool reopen pave dignity river pluck shell else leopard develop toe";
+var mnemonic = "empty cactus giraffe include gate input pride egg grape ski range churn";

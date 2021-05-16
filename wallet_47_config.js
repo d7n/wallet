@@ -1,1 +1,1 @@
-var mnemonic = "question horror reduce novel adjust define question relief zebra warm together lonely";
+var mnemonic = "air economy key spoil pact split scatter report payment coach depth rally";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic torch abuse track symptom size hand lend observe turkey echo drop";
+var mnemonic = "wave notice promote true subject bonus effort swim purchase armed attract salmon";

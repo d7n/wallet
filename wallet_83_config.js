@@ -1,1 +1,1 @@
-var mnemonic = "spell mom reward fragile rain seek join fortune beef luggage clutch swim";
+var mnemonic = "faculty box famous connect duty film group invite gain toy eager cotton";

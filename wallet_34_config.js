@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog later crystal book calm erode tuition fox second hockey frozen ridge";
+var mnemonic = "lion sister pattern club topic song rule panther upset recall cupboard hole";

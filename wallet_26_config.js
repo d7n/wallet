@@ -1,1 +1,1 @@
-var mnemonic = "brass woman never pupil gaze slender cat flight shoe bamboo voyage remind";
+var mnemonic = "pill wire tone security salad lava shrug slam soon family sing merge";

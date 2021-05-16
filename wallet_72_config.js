@@ -1,1 +1,1 @@
-var mnemonic = "correct uniform rival corn tooth isolate sustain icon wait teach frozen quality";
+var mnemonic = "man modify bunker menu ginger student silly capable lawsuit crack uphold wolf";

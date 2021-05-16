@@ -1,1 +1,1 @@
-var mnemonic = "oval increase stay staff raven pear winter salt hat mean host exact";
+var mnemonic = "cake among congress syrup language ginger mushroom fix index rent forward wisdom";

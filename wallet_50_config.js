@@ -1,1 +1,1 @@
-var mnemonic = "blush agent sign electric turkey love upper trend sad spirit enrich blind";
+var mnemonic = "hobby pen defy episode excite future brick dance educate figure arrive drastic";

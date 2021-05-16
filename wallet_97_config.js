@@ -1,1 +1,1 @@
-var mnemonic = "connect illegal utility price memory ghost smoke similar vital onion wish miracle";
+var mnemonic = "summer canyon renew hero fork lecture ritual purpose coach near talk round";

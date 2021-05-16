@@ -1,1 +1,1 @@
-var mnemonic = "ill tray find tortoise peace rather pool surprise unusual load toward budget";
+var mnemonic = "pigeon plate cream pen east pyramid adult search razor style swing hammer";

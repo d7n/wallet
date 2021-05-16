@@ -1,1 +1,1 @@
-var mnemonic = "ecology trouble skull cube step hover evil course paper bargain feature indicate";
+var mnemonic = "idea rare adjust rich method dentist awkward great biology barely original oven";

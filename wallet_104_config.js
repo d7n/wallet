@@ -1,1 +1,1 @@
-var mnemonic = "glove doll pair empower achieve animal place flavor bitter toast answer shadow";
+var mnemonic = "you primary sort leopard neutral ten trial desert cash usual dismiss acoustic";

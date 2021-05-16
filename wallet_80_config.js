@@ -1,1 +1,1 @@
-var mnemonic = "color million game benefit wrestle outside soccer else smile accuse until guess";
+var mnemonic = "coil beyond sure divide minimum faith provide decrease height artist fox danger";
