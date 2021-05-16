@@ -1,1 +1,1 @@
-var mnemonic = "blade margin search grunt pitch brief fantasy beauty rib army camera chronic";
+var mnemonic = "answer stereo hollow equal refuse ceiling retire unlock canoe curve miracle unknown";

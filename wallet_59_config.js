@@ -1,1 +1,1 @@
-var mnemonic = "three vendor valley apple river enforce camp always train dizzy lock minor";
+var mnemonic = "lock similar amateur rotate cover hard payment involve pulse index input robot";

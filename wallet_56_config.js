@@ -1,1 +1,1 @@
-var mnemonic = "innocent sting gossip pear team cause trick busy lucky angle artwork clerk";
+var mnemonic = "air wedding tattoo verb clip bomb tongue trial bright hat mask race";

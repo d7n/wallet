@@ -1,1 +1,1 @@
-var mnemonic = "spring deliver private need year carpet lake trip goat pen stomach electric";
+var mnemonic = "engine creek rough foster typical clinic chaos depart memory appear jeans morning";

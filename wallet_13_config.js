@@ -1,1 +1,1 @@
-var mnemonic = "enlist symbol couch engage harbor symptom melt pretty cup work unit you";
+var mnemonic = "bright inflict clever above jealous target bulb carpet leg draw claw grain";

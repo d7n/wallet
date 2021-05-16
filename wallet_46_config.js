@@ -1,1 +1,1 @@
-var mnemonic = "disorder snack text air more venture merry enlist animal soccer despair amount";
+var mnemonic = "rural report monster season have silly lesson trial ancient bread improve mom";

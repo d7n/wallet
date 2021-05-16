@@ -1,1 +1,1 @@
-var mnemonic = "ignore layer shift buddy tray amateur tell modify mercy coffee task hill";
+var mnemonic = "whisper love abstract angle dish focus rain cement garage kitchen bread goddess";

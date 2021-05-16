@@ -1,1 +1,1 @@
-var mnemonic = "gasp cushion limb mansion unusual lawsuit program arrest electric narrow supply diagram";
+var mnemonic = "vocal early clarify recycle obvious kite insect small sock coffee bonus scare";

@@ -1,1 +1,1 @@
-var mnemonic = "romance gun subway type betray tomorrow video cost please frozen popular bright";
+var mnemonic = "live sentence garbage resist cash mystery push good message curious rough boy";

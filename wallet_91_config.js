@@ -1,1 +1,1 @@
-var mnemonic = "among arena ozone chronic appear social success jewel cinnamon staff early summer";
+var mnemonic = "anger throw hidden urban impulse stage canyon human dry panel cake marine";

@@ -1,1 +1,1 @@
-var mnemonic = "okay wrestle review friend equal fantasy soul orbit enter peasant helmet marble";
+var mnemonic = "bronze wheat walk load alarm time impulse jump report federal usage drastic";

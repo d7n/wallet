@@ -1,1 +1,1 @@
-var mnemonic = "boy despair chest oyster ability crystal hurdle jazz debris mimic rug black";
+var mnemonic = "peasant romance clean similar disease wheel tortoise valley dream river affair demand";

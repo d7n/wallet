@@ -1,1 +1,1 @@
-var mnemonic = "casual royal someone hint session sand leave save venue unaware bid arrest";
+var mnemonic = "weapon arrest domain brain chief net catalog naive often tattoo today media";

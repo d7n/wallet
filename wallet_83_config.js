@@ -1,1 +1,1 @@
-var mnemonic = "maximum profit admit siren bright month eye ladder sphere thumb mechanic tiny";
+var mnemonic = "enter check hole mixture end urban glow man laugh owner faith man";

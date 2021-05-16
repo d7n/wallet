@@ -1,1 +1,1 @@
-var mnemonic = "occur evidence soul harbor phrase envelope reject witness execute engage ostrich thunder";
+var mnemonic = "renew luxury ask trade owner inch fuel hospital river rally margin behind";

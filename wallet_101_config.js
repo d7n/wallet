@@ -1,1 +1,1 @@
-var mnemonic = "lunar exist cigar frost wonder plate vapor maid diagram slim retire keen";
+var mnemonic = "clown caution diamond evoke imitate disorder hold point lumber shove kite brown";

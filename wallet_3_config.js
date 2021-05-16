@@ -1,1 +1,1 @@
-var mnemonic = "midnight loop ignore lounge chapter dose brown junk piano item prison mail";
+var mnemonic = "rebel bid motor quick defense double raise trumpet tobacco enhance tent page";

@@ -1,1 +1,1 @@
-var mnemonic = "chief sword heavy ensure drastic today client alley december allow quote degree";
+var mnemonic = "eye ready cheese draft yard display peanut arm village hazard satoshi mystery";

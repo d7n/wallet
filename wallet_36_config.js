@@ -1,1 +1,1 @@
-var mnemonic = "kind gospel capable daring potato weapon gift lottery dune amateur float lottery";
+var mnemonic = "horn trick muffin scout just shoe quarter boost girl now wheat under";

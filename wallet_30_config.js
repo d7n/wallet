@@ -1,1 +1,1 @@
-var mnemonic = "possible improve glow buffalo carry trigger absorb ask action venture insane rib";
+var mnemonic = "defy armor oven basic country donor answer letter swear journey caution riot";

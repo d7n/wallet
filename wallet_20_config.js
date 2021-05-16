@@ -1,1 +1,1 @@
-var mnemonic = "around actor they kite cause danger congress fragile taxi seven sudden shuffle";
+var mnemonic = "thing lab enemy cabbage smooth cabbage object misery gauge story butter boil";

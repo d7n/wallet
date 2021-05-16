@@ -1,1 +1,1 @@
-var mnemonic = "betray expand bleak snake load pulp roof ancient fresh valve rifle head";
+var mnemonic = "piano floor this stumble team quote gas use style abstract evoke ramp";

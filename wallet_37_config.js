@@ -1,1 +1,1 @@
-var mnemonic = "patient park screen champion aisle pistol arena wait oven caution truly window";
+var mnemonic = "infant repeat scan few dust reveal such guitar hurry iron february company";

@@ -1,1 +1,1 @@
-var mnemonic = "guess feel exile wide behind second hawk limb plastic law execute ready";
+var mnemonic = "grain spice judge rabbit leisure melt feel subject party stem typical unveil";

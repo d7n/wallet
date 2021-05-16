@@ -1,1 +1,1 @@
-var mnemonic = "vault lawn city point tired twelve trick fog arrest size trade flag";
+var mnemonic = "stable wear point benefit crazy jump people second you soon pony spend";

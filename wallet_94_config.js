@@ -1,1 +1,1 @@
-var mnemonic = "update cost bonus dove ensure debris hundred gown either major goddess ahead";
+var mnemonic = "design yard crystal wall source twist dish double lazy speak ten game";

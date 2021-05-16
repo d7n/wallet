@@ -1,1 +1,1 @@
-var mnemonic = "deposit virtual awful defy lend give observe live visa valid eternal tired";
+var mnemonic = "mesh buffalo math job magic chef taste vague category surge order whisper";

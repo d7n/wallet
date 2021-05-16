@@ -1,1 +1,1 @@
-var mnemonic = "country sister correct enforce ten toast lift hawk embrace biology ill century";
+var mnemonic = "critic critic trim frame rug video evolve name runway insect click portion";

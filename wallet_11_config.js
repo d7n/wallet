@@ -1,1 +1,1 @@
-var mnemonic = "grape discover spider fluid detail beyond spider rescue glove level winter hobby";
+var mnemonic = "oxygen hole school abandon room pig goat tail blind scrap length tip";

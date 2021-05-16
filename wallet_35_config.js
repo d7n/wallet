@@ -1,1 +1,1 @@
-var mnemonic = "spin hope spy cloud electric news reject network abandon swap orient brother";
+var mnemonic = "forest wave spring banner real lawn zone lobster food leader add electric";

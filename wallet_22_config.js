@@ -1,1 +1,1 @@
-var mnemonic = "glory sphere into similar father cradle barrel office amateur dawn off squeeze";
+var mnemonic = "innocent traffic blouse eight join menu increase metal sick toss original wage";

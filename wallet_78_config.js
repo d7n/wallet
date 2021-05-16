@@ -1,1 +1,1 @@
-var mnemonic = "owner melody plunge degree write snake replace family access swallow over silver";
+var mnemonic = "snow giant bachelor adjust large frequent film modify kingdom lake blossom settle";

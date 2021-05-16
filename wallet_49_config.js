@@ -1,1 +1,1 @@
-var mnemonic = "very cricket public sample reason wheat name guard glare cry ranch exit";
+var mnemonic = "creek dignity certain sword era panda blouse ocean fruit dutch dynamic gesture";

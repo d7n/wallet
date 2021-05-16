@@ -1,1 +1,1 @@
-var mnemonic = "beauty luxury wet spell hamster antenna need panel vote guilt tumble fine";
+var mnemonic = "snow about online canoe before inhale bulk language bird wave diet logic";

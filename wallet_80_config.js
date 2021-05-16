@@ -1,1 +1,1 @@
-var mnemonic = "spice rival brother physical bulk already cactus fall shell you keep beauty";
+var mnemonic = "divide airport inquiry pulp conduct alter casino diet cry desk acoustic favorite";

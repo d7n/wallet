@@ -1,1 +1,1 @@
-var mnemonic = "smooth evil stone labor inch law purity soap remind price crush affair";
+var mnemonic = "image bag merge kiwi erosion minute panda process click large cactus vanish";

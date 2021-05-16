@@ -1,1 +1,1 @@
-var mnemonic = "arctic city steak dry another enable boss space chat blossom seed honey";
+var mnemonic = "thumb law science charge pole skirt ketchup page embrace broccoli argue build";

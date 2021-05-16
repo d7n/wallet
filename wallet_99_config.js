@@ -1,1 +1,1 @@
-var mnemonic = "thing feel staff design prefer orbit verify pulse push real share insane";
+var mnemonic = "lyrics width stove luxury ocean slender south mushroom trophy heart kingdom detail";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch ethics steel october shaft define lunar scheme sheriff banana burst chapter";
+var mnemonic = "child memory dry more deputy mutual jealous delay patch adjust topple alone";

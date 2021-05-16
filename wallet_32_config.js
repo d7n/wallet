@@ -1,1 +1,1 @@
-var mnemonic = "tide gather orange cute rookie trophy occur duty cost elite stairs divorce";
+var mnemonic = "sponsor travel control frost aim exchange sight toy lecture person odor wonder";

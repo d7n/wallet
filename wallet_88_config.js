@@ -1,1 +1,1 @@
-var mnemonic = "silver awful cost gentle equip aspect salad ball coach disagree such quantum";
+var mnemonic = "obey wheel slab fit analyst future crew enlist dolphin palace garbage slide";

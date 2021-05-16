@@ -1,1 +1,1 @@
-var mnemonic = "galaxy always attack mobile goose public arch demise critic upper humor tide";
+var mnemonic = "seven such will add vapor cloud enable clever agree pass swim bachelor";

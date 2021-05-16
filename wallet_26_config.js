@@ -1,1 +1,1 @@
-var mnemonic = "uncle bacon release evil link fun dignity industry client alert hip mixture";
+var mnemonic = "smooth aim deal uniform robust salad salad lava crunch area okay afford";

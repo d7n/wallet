@@ -1,1 +1,1 @@
-var mnemonic = "merit render fancy property joy matter obey useful skill funny banner replace";
+var mnemonic = "chase nominee estate violin west insane cover brand rely empty duck dove";

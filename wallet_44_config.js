@@ -1,1 +1,1 @@
-var mnemonic = "misery novel notice virus cabin actress denial fine lunch trim blossom around";
+var mnemonic = "net dry thought nerve garden drill siege chronic slush resemble erase hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "patch result balance milk garlic abandon critic gun myself pizza fiscal gauge";
+var mnemonic = "trim limit concert follow void front media jungle gallery soul rule horror";

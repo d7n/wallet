@@ -1,1 +1,1 @@
-var mnemonic = "rose fever clock pool fit brother floor analyst lumber book lawsuit cigar";
+var mnemonic = "enemy fame pink frog addict monster enroll sausage broom divide salon spatial";

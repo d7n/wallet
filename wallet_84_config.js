@@ -1,1 +1,1 @@
-var mnemonic = "time once kid dial promote lens chat divide claw ketchup unfold stay";
+var mnemonic = "tomato alert faculty discover require jeans various fork jaguar alien april process";

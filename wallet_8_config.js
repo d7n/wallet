@@ -1,1 +1,1 @@
-var mnemonic = "fade stand naive quote domain kiwi echo antique carpet rural calm danger";
+var mnemonic = "inspire world suggest nasty pond about census aunt joke average famous velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow scorpion shift force mechanic tunnel practice basket matrix shop minimum enlist";
+var mnemonic = "only sadness reward check engage opinion gather oval update boss dumb hurdle";

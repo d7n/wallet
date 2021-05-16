@@ -1,1 +1,1 @@
-var mnemonic = "surprise fork rebuild prison sadness pulse crystal plastic refuse minimum song ripple";
+var mnemonic = "apple jungle brush machine swamp around radio fossil brother venue save banana";

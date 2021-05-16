@@ -1,1 +1,1 @@
-var mnemonic = "nothing purity shell like robust also hip acoustic lion uncover rule used";
+var mnemonic = "copper alone rail shine runway buyer layer ribbon joy credit lab hurt";

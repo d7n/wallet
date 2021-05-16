@@ -1,1 +1,1 @@
-var mnemonic = "banner job veteran degree tiger find worry guard spot yard nation rib";
+var mnemonic = "because copper rookie humble volume hood this depart birth tonight dose hidden";

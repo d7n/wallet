@@ -1,1 +1,1 @@
-var mnemonic = "cat bargain cloud census ramp flower connect metal delay under sad rebel";
+var mnemonic = "danger bronze pudding search gospel shine cotton identify radar almost repair enhance";

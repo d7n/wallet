@@ -1,1 +1,1 @@
-var mnemonic = "chronic absurd update penalty affair helmet soda bag asset blind erase have";
+var mnemonic = "mention claim famous blood bicycle lyrics worry aisle farm cradle season motion";

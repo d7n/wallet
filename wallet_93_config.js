@@ -1,1 +1,1 @@
-var mnemonic = "yard simple awful crater butter junk immense season comfort cliff bounce today";
+var mnemonic = "decide fetch destroy poet divide history slam cash broom trash habit quarter";

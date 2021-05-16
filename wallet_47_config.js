@@ -1,1 +1,1 @@
-var mnemonic = "mixed indoor size tomato copy install letter provide code gate suspect gown";
+var mnemonic = "artist twin bus predict palm kitchen follow pelican lady language vacuum clever";

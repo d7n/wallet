@@ -1,1 +1,1 @@
-var mnemonic = "protect obey original blanket sea follow review force memory boat verify retreat";
+var mnemonic = "frown harvest verify valley street cinnamon wire update bacon file become habit";

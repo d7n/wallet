@@ -1,1 +1,1 @@
-var mnemonic = "author change step convince vast lion alcohol lava album frost hat express";
+var mnemonic = "ill galaxy audit note alien parade segment deny veteran inch around eternal";

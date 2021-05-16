@@ -1,1 +1,1 @@
-var mnemonic = "man trade palm flavor cement radar wasp spend canal opera whip enough";
+var mnemonic = "train impact brisk coral rigid sing magnet armed eagle acoustic accuse myself";

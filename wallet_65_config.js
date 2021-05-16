@@ -1,1 +1,1 @@
-var mnemonic = "nice minimum decide blur chase solution reward nation nut enjoy enhance pride";
+var mnemonic = "purchase reject crane water absent old hub celery vote glance huge chimney";

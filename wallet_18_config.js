@@ -1,1 +1,1 @@
-var mnemonic = "holiday range capital evidence side scorpion skin ten gospel lesson exhaust search";
+var mnemonic = "valve tape beach capable plunge dinner trigger mixed inmate mushroom screen two";

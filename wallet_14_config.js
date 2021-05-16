@@ -1,1 +1,1 @@
-var mnemonic = "rigid caught number scare shallow rail welcome trend expose keen subway glad";
+var mnemonic = "ticket lazy raven educate fossil infant receive genre electric market permit edge";

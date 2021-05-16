@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ghost profit mask grant clean depart depart border dog trade bind";
+var mnemonic = "pulse pilot clutch modify shallow word leisure push alert neither blush lend";

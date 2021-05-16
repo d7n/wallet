@@ -1,1 +1,1 @@
-var mnemonic = "drive table source approve brief squeeze limb pulse attitude barrel zero pull";
+var mnemonic = "portion cupboard episode business lake off theory define fitness animal much paddle";

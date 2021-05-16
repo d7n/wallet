@@ -1,1 +1,1 @@
-var mnemonic = "place phrase victory once mercy food supply climb test evolve vanish depend";
+var mnemonic = "town below scheme glimpse annual diary slice copper strong jelly cotton bid";

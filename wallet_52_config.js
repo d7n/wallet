@@ -1,1 +1,1 @@
-var mnemonic = "forest phone any salon snake demand that doctor clap mimic where elbow";
+var mnemonic = "seat utility cruise zebra ranch zero raise feed arrive cannon same misery";

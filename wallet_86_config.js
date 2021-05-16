@@ -1,1 +1,1 @@
-var mnemonic = "kiwi expose pony gesture resemble retire monkey better artwork girl fury silly";
+var mnemonic = "inner again glance kangaroo fuel payment coconut spell course draft plug dove";

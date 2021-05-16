@@ -1,1 +1,1 @@
-var mnemonic = "seed provide just wish viable ordinary outside exclude lift detect plate scheme";
+var mnemonic = "river language hungry easily lumber spray april later front either scrub proof";

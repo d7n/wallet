@@ -1,1 +1,1 @@
-var mnemonic = "alert embody spread captain guess survey six language crucial garage spy oppose";
+var mnemonic = "seed virus traffic magic runway exit oyster easy rare gym tail annual";

@@ -1,1 +1,1 @@
-var mnemonic = "medal edit hobby choose beauty path entire sheriff average horse rabbit sad";
+var mnemonic = "wrist disorder learn west virtual lady cattle visa bitter penalty cloth nice";

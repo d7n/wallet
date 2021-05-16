@@ -1,1 +1,1 @@
-var mnemonic = "often worry unaware clean fluid crystal grab silent crouch wish tenant crucial";
+var mnemonic = "color forward swear only rescue meat visit meat abstract veteran night horror";

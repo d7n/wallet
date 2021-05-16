@@ -1,1 +1,1 @@
-var mnemonic = "verify science plastic immense hurt hood fatal junior leaf elephant leader refuse";
+var mnemonic = "bamboo heavy license soccer regular evidence fine toilet arctic endless light negative";

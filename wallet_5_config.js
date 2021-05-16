@@ -1,1 +1,1 @@
-var mnemonic = "relax impulse bounce ozone elevator clap thing decline install cool pill ensure";
+var mnemonic = "sail awful begin give tiger blame forum shallow aspect practice profit comfort";

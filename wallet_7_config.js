@@ -1,1 +1,1 @@
-var mnemonic = "ghost prevent exit join trigger dumb earth mansion risk grit fox nerve";
+var mnemonic = "void despair cruise solar picture tell penalty junk type order fat alley";

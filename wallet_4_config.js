@@ -1,1 +1,1 @@
-var mnemonic = "upgrade car entire foster equal gather hawk gas jacket chronic trumpet canal";
+var mnemonic = "imitate winner retreat corn repeat language model loyal merry code spend toddler";

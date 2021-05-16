@@ -1,1 +1,1 @@
-var mnemonic = "clay tomorrow shoulder reflect shaft bronze asthma margin letter weekend album lawsuit";
+var mnemonic = "include primary manual position verify endorse lobster cupboard bleak front mention focus";

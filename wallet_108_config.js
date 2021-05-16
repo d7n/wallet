@@ -1,1 +1,1 @@
-var mnemonic = "pledge pole equip together wisdom card survey undo lock aware universe win";
+var mnemonic = "guide right witness total tone lyrics upset cube kangaroo glide rule choice";

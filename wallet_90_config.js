@@ -1,1 +1,1 @@
-var mnemonic = "acoustic drama donkey few inflict arrow junior whale equal drill color combine";
+var mnemonic = "expand above riot excuse fix balcony viable album label dawn rice fantasy";

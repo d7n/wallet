@@ -1,1 +1,1 @@
-var mnemonic = "inherit transfer quote game rice orange city fortune crumble task chunk stay";
+var mnemonic = "mind media there extend cook leaf unable file solution garment smoke tonight";

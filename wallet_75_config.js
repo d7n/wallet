@@ -1,1 +1,1 @@
-var mnemonic = "yard lab crop fortune slide quote short minor tail hamster hotel jar";
+var mnemonic = "hair piano liquid panel blind unveil patch novel before pact lounge trigger";

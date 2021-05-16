@@ -1,1 +1,1 @@
-var mnemonic = "photo road knee resemble fragile pen expect atom hungry reunion grab traffic";
+var mnemonic = "creek reunion forum axis food suggest water leopard dwarf expose guard cabbage";

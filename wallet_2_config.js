@@ -1,1 +1,1 @@
-var mnemonic = "seat soda urban chunk exist glove genre loud lazy swap cram explain";
+var mnemonic = "increase anchor approve actress yard hill tribe camp jealous sudden peasant ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "brass curtain river grid alert width wedding fiction spare crouch mandate hobby";
+var mnemonic = "zone relax bunker praise joke oil dragon rude rebuild photo trend cotton";

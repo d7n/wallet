@@ -1,1 +1,1 @@
-var mnemonic = "you rubber idle quiz travel bulb rate improve quit large plastic merry";
+var mnemonic = "awful add crush eagle tone onion tenant opinion pattern install forest rule";

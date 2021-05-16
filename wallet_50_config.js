@@ -1,1 +1,1 @@
-var mnemonic = "agent dismiss step isolate shiver pact stay awkward reopen baby lunch chalk";
+var mnemonic = "ecology april regular prepare cute oyster pave surface over tornado sing march";

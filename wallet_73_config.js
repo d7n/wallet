@@ -1,1 +1,1 @@
-var mnemonic = "toilet rural friend brain tip act hurt pyramid silver early truly pull";
+var mnemonic = "allow fly invite metal worry sure rhythm gossip silent select patient road";
