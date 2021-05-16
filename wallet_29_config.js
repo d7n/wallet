@@ -1,1 +1,1 @@
-var mnemonic = "bullet define rebuild flag zero tilt melt advice unusual already alcohol brother";
+var mnemonic = "kiwi thumb harbor immense letter muffin improve unknown soap device choice awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "noise fatal syrup muscle bundle unhappy path tenant wonder huge leaf army";
+var mnemonic = "sponsor purse fly lawn remember layer release music token swim dish hobby";

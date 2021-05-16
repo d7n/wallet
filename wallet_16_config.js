@@ -1,1 +1,1 @@
-var mnemonic = "around switch update diary trim promote enter ball rocket jar exhibit popular";
+var mnemonic = "lift path spatial tag faint hard vanish demise elder chalk fancy web";

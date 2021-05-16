@@ -1,1 +1,1 @@
-var mnemonic = "buffalo fork cycle message example major fantasy luggage slender visual column sheriff";
+var mnemonic = "lottery street marine quit certain frozen maid wedding office mix wink garlic";

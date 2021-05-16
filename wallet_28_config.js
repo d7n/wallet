@@ -1,1 +1,1 @@
-var mnemonic = "science slab interest inherit deal alone slide target lens smart immense shoe";
+var mnemonic = "wrestle chapter strong stamp warm pattern talk present slice lock symptom sell";

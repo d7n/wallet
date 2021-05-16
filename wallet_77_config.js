@@ -1,1 +1,1 @@
-var mnemonic = "slush any segment tonight fresh unveil gentle inspire super swarm dry glimpse";
+var mnemonic = "abstract scout limb bottom act situate foster bronze enter worth spoon chimney";

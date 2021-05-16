@@ -1,1 +1,1 @@
-var mnemonic = "now destroy position toward hurdle walk heart popular square ice sudden tired";
+var mnemonic = "mountain install day garage virtual mystery embody squirrel machine behind aisle random";

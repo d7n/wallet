@@ -1,1 +1,1 @@
-var mnemonic = "type kite suit hub grace weapon bonus pilot struggle two exclude swap";
+var mnemonic = "monitor tumble awful already excuse grit top plug duck near inflict session";

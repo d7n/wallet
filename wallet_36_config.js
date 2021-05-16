@@ -1,1 +1,1 @@
-var mnemonic = "mind toward fun exhibit slender since flavor face stable loud icon pull";
+var mnemonic = "melody fiber hollow purity silk coach end finger hawk aware brave fluid";

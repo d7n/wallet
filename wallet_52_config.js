@@ -1,1 +1,1 @@
-var mnemonic = "pudding strong salute chat truck remember sign bunker woman immune heavy column";
+var mnemonic = "smile pen essence urge market crane latin arrow inflict must memory exact";

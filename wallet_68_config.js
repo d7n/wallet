@@ -1,1 +1,1 @@
-var mnemonic = "giant allow symbol gravity later coach make weird unfair jewel chest cargo";
+var mnemonic = "rally price metal genuine train enlist absurd episode stand draw century twice";

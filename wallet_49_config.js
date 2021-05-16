@@ -1,1 +1,1 @@
-var mnemonic = "else easily embrace wrist choose net view between thought ritual typical dry";
+var mnemonic = "good protect omit peace question dash correct youth load budget salt antenna";

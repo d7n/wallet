@@ -1,1 +1,1 @@
-var mnemonic = "spy left divert slim news oak upon panther sound box post act";
+var mnemonic = "install hair barely runway kick side weekend silk flight digital phrase aspect";

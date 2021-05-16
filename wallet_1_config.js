@@ -1,1 +1,1 @@
-var mnemonic = "run size please possible input pyramid add grocery rescue gather crunch suspect";
+var mnemonic = "side song express loop orange legal forum omit test proof achieve design";

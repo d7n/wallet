@@ -1,1 +1,1 @@
-var mnemonic = "adapt anger action vanish smile bonus genuine harvest void gaze orange honey";
+var mnemonic = "detect airport suit wash shell toddler toddler casual lunar control guitar cereal";

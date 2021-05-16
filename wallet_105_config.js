@@ -1,1 +1,1 @@
-var mnemonic = "always logic receive cook mango obtain vote must gas concert fossil buyer";
+var mnemonic = "enjoy local common tennis amateur afford expire harsh skill myself nasty edge";

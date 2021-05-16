@@ -1,1 +1,1 @@
-var mnemonic = "prosper hope connect sock hope expand future injury honey voice click leave";
+var mnemonic = "foot peanut master limit clay space clown artefact school craft labor atom";

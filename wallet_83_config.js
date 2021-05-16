@@ -1,1 +1,1 @@
-var mnemonic = "damage false depart fever humble empty provide burden gift gesture antenna pond";
+var mnemonic = "artist rigid cactus hidden various cheese juice hurdle orbit shove swamp swing";

@@ -1,1 +1,1 @@
-var mnemonic = "feel more blanket million job beach biology choose pioneer object obtain other";
+var mnemonic = "code claw summer crucial exotic blood sting wrestle staff exile grit scrub";

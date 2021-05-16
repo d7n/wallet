@@ -1,1 +1,1 @@
-var mnemonic = "assume sphere gossip merry guess cake avoid lounge clap bottom spend clump";
+var mnemonic = "spoil tackle giraffe lab behind glory clever illness amateur ensure lobster door";

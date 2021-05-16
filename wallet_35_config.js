@@ -1,1 +1,1 @@
-var mnemonic = "position ten cloud foster curtain pig test carpet victory viable choice border";
+var mnemonic = "dolphin toward curious shoot blame then upgrade belt make super harbor theory";

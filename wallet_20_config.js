@@ -1,1 +1,1 @@
-var mnemonic = "snack silent cannon logic warfare clever final next parrot try afraid before";
+var mnemonic = "olympic crack garbage canyon endless raise primary transfer valid match daring hurdle";

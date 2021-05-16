@@ -1,1 +1,1 @@
-var mnemonic = "thumb harbor travel slide arch into time million already explain practice exist";
+var mnemonic = "volume analyst already install enough grant wear peace prison public veteran sail";

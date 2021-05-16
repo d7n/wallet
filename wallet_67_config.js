@@ -1,1 +1,1 @@
-var mnemonic = "estate okay mention found risk rude super arm club quantum hard guard";
+var mnemonic = "walk motor shop refuse duck early boy pull swap train notable buddy";

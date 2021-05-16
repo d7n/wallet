@@ -1,1 +1,1 @@
-var mnemonic = "chase mutual hobby awkward trap tuition soft crawl robust churn benefit lunar";
+var mnemonic = "frozen uniform satoshi oppose genuine cook math later buffalo involve alter earth";

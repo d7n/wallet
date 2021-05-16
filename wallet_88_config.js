@@ -1,1 +1,1 @@
-var mnemonic = "disorder salmon theme blouse bike polar kidney logic achieve phone tourist effort";
+var mnemonic = "vapor cement admit strategy scan light battle glimpse lift regular razor phrase";

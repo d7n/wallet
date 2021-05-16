@@ -1,1 +1,1 @@
-var mnemonic = "total large fog question mix spell author soul side industry mandate accuse";
+var mnemonic = "verb mind cigar kick wrong recipe inherit blind eternal render prison soccer";

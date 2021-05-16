@@ -1,1 +1,1 @@
-var mnemonic = "filter shadow retire answer essay mad soldier nothing life cupboard finish destroy";
+var mnemonic = "hamster swarm fluid stem accuse multiply outside step buffalo account reflect leave";

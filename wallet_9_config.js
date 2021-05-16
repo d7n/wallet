@@ -1,1 +1,1 @@
-var mnemonic = "chuckle someone remember isolate dog diamond cage target moment brand tooth civil";
+var mnemonic = "zero must outer multiply room gate purity atom mammal suggest shadow recipe";

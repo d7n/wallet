@@ -1,1 +1,1 @@
-var mnemonic = "double excuse mention pave girl rug end doll success obey hollow rather";
+var mnemonic = "stereo dune sand fever unveil miracle outside shrimp bulb great cabin purity";

@@ -1,1 +1,1 @@
-var mnemonic = "need bullet total venture suffer exchange gun tower rebel quick purpose runway";
+var mnemonic = "expect rabbit dad garden educate trap flower village letter manage ask ocean";

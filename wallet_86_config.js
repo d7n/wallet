@@ -1,1 +1,1 @@
-var mnemonic = "advance curious army aerobic turkey nothing coral plug immune pluck when host";
+var mnemonic = "warrior since fatal renew verb erupt decrease police female six crop cradle";

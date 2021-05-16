@@ -1,1 +1,1 @@
-var mnemonic = "pattern sunny kiss hazard uniform lake spoil clarify shoulder note lawsuit wing";
+var mnemonic = "crouch chapter cruel action owner aerobic candy lunar canal street lady sustain";

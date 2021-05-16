@@ -1,1 +1,1 @@
-var mnemonic = "enforce carpet increase people eager eight couch language music inflict certain occur";
+var mnemonic = "behind jar reward jaguar mean muscle jealous diagram cloth gather eight moral";

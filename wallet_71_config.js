@@ -1,1 +1,1 @@
-var mnemonic = "organ diary olympic chuckle citizen wisdom shaft dose daring rather bullet vocal";
+var mnemonic = "future solution chief about news rigid danger inch tribe shiver service amount";

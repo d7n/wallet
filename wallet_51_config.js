@@ -1,1 +1,1 @@
-var mnemonic = "kingdom guard common sword enforce cook sad music unfold aware before grant";
+var mnemonic = "mad rack protect frozen wasp army crisp maze ride flame arena wet";

@@ -1,1 +1,1 @@
-var mnemonic = "oven grow turkey color wisdom captain shop trade tribe diamond nominee fruit";
+var mnemonic = "disagree consider clip receive hip chalk unique chase ignore inside put window";

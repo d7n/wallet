@@ -1,1 +1,1 @@
-var mnemonic = "tail praise garage spin cluster adapt apple grape tree slide stock utility";
+var mnemonic = "current give despair when muffin problem merge punch access dust inject depth";

@@ -1,1 +1,1 @@
-var mnemonic = "solve waste grab census odor cool sausage flavor latin bind oak donor";
+var mnemonic = "arm panic fiber clog clock tenant error wink waste student shallow minute";

@@ -1,1 +1,1 @@
-var mnemonic = "embody palace edit cricket forget mail shield remind club dismiss outdoor boring";
+var mnemonic = "media wrist account upset dragon hybrid sleep claim orient when method hobby";

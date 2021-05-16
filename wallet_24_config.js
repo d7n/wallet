@@ -1,1 +1,1 @@
-var mnemonic = "time harbor more system oven hybrid better sock stem anxiety unhappy grab";
+var mnemonic = "stand comic spoon chimney shock shrimp tissue foil glimpse buzz glove glue";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze body swallow allow equal differ erode father innocent match polar promote";
+var mnemonic = "simple hero provide cycle enhance glare dolphin fatal cloth aisle camp today";

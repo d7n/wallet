@@ -1,1 +1,1 @@
-var mnemonic = "fire bar shadow major bright receive fetch quote victory flash cluster journey";
+var mnemonic = "happy arrange base valley kingdom license early mosquito oak trend reward aim";

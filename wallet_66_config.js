@@ -1,1 +1,1 @@
-var mnemonic = "draw item young person garage book exercise sorry toddler risk misery satoshi";
+var mnemonic = "mesh balance help hope erode noble gentle humble example rate mango visual";

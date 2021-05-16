@@ -1,1 +1,1 @@
-var mnemonic = "veteran avocado enforce chicken leopard remind artist wage curtain coconut light park";
+var mnemonic = "scissors sell deny enforce purity patient popular general confirm net video visa";

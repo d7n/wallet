@@ -1,1 +1,1 @@
-var mnemonic = "pear potato often south admit rug label width fiction medal alert arrest";
+var mnemonic = "noble space spatial junk polar eagle boring lucky carry angle exist chicken";

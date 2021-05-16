@@ -1,1 +1,1 @@
-var mnemonic = "length supreme trophy outdoor paddle conduct phrase couple swing twist topple heart";
+var mnemonic = "certain wedding myself abandon say express genius leopard special recycle cushion buddy";

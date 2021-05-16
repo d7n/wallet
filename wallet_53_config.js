@@ -1,1 +1,1 @@
-var mnemonic = "setup satisfy learn void spoil captain crisp express ugly shadow soft reject";
+var mnemonic = "assume mushroom dad enlist humor detect east goat liberty arch forest sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "nation hidden purity distance afraid champion rabbit black wave waste fly foil";
+var mnemonic = "time pelican please ticket south subject position system secret kitchen cart laugh";

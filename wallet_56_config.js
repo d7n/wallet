@@ -1,1 +1,1 @@
-var mnemonic = "oppose manage special hybrid tomorrow adapt praise stock wet shaft brisk panel";
+var mnemonic = "business uncover click depth family garden resist ozone myth vehicle romance over";

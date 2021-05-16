@@ -1,1 +1,1 @@
-var mnemonic = "van green topple enroll retreat convince void horn shift unknown style gallery";
+var mnemonic = "never people answer note despair prefer rate endorse allow skill put patch";

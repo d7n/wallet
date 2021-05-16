@@ -1,1 +1,1 @@
-var mnemonic = "hurry gap material coach brain diesel joke slush vacuum very need echo";
+var mnemonic = "edge convince paddle smoke evoke stick minimum present city snack arrest depart";

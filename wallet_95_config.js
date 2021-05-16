@@ -1,1 +1,1 @@
-var mnemonic = "speak draft script limb strong flock remove roast inherit earn speak upset";
+var mnemonic = "expose onion course also general interest whip choose jewel bleak struggle eight";

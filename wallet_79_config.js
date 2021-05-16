@@ -1,1 +1,1 @@
-var mnemonic = "harsh room meat carbon salt connect cool tonight absurd hazard card infant";
+var mnemonic = "february slice describe twelve session magnet bleak second stereo damage spot approve";

@@ -1,1 +1,1 @@
-var mnemonic = "betray dynamic satisfy depart crazy gas toddler duck assume dial permit address";
+var mnemonic = "congress primary arrow organ trial minor case equip sword ribbon output like";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic believe rival gasp wheel thrive appear script discover clerk boss crystal";
+var mnemonic = "illness one keen short radio domain dentist soda picture pig sort reform";

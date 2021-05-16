@@ -1,1 +1,1 @@
-var mnemonic = "tape dance copper gaze pyramid alley fog crane ahead word park share";
+var mnemonic = "kite metal speak odor pass orient bargain carry spare move language axis";

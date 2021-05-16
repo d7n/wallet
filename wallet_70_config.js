@@ -1,1 +1,1 @@
-var mnemonic = "film battle arrange anchor canvas explain crush achieve warfare page inflict tongue";
+var mnemonic = "stadium still ancient knock turtle puzzle material young field swear else speak";

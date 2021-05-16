@@ -1,1 +1,1 @@
-var mnemonic = "mouse emerge fresh broom devote spy loyal gold more shove wealth weekend";
+var mnemonic = "quick old issue spoon champion same mystery repair affair powder cherry lounge";

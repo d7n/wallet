@@ -1,1 +1,1 @@
-var mnemonic = "dove tunnel glove monkey neck silent scale churn month session cave fork";
+var mnemonic = "erosion suspect rug palm federal sense verb antenna coin aisle champion answer";

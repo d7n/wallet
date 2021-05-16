@@ -1,1 +1,1 @@
-var mnemonic = "rigid scissors occur father assume omit shrug genuine idea castle arctic dream";
+var mnemonic = "bright reason about thunder atom equip survey use pole visit odor sad";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal worth tip good marine keen raw sad over undo wrap addict";
+var mnemonic = "sentence soldier crush excite motion analyst paddle quarter lady pilot voice hammer";

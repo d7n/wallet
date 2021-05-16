@@ -1,1 +1,1 @@
-var mnemonic = "emerge admit chicken guide tent gasp viable snake multiply polar simple margin";
+var mnemonic = "around series ahead effort physical service clerk front you drastic payment puzzle";

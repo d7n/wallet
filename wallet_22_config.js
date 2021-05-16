@@ -1,1 +1,1 @@
-var mnemonic = "enroll game author float shock jar govern whale divide wild oppose bomb";
+var mnemonic = "pull gorilla depth grant glimpse leave comic injury supply screen ankle raw";

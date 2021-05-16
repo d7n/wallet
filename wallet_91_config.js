@@ -1,1 +1,1 @@
-var mnemonic = "science winter autumn stock essence banner image tragic autumn gallery traffic exercise";
+var mnemonic = "iron emerge ceiling citizen cloth donor lunch figure coconut bus peanut balcony";

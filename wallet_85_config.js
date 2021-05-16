@@ -1,1 +1,1 @@
-var mnemonic = "embrace neither among swallow during flame ancient pool honey head patient organ";
+var mnemonic = "robot close elegant woman grit police void monitor domain hospital all merge";

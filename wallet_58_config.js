@@ -1,1 +1,1 @@
-var mnemonic = "nut render picnic all fresh mirror ramp glide caught group swift talent";
+var mnemonic = "change reform hello say orchard identify edit practice report donkey memory couch";

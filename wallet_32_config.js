@@ -1,1 +1,1 @@
-var mnemonic = "letter seven above because female smile agree dice feature idea now nation";
+var mnemonic = "wagon order olive moon multiply carpet sea inner tortoise echo bone ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "audit hair drift ethics rack gate sunny couch nice area happy success";
+var mnemonic = "toilet comfort immune quality jewel nuclear area blind stairs slender suspect taxi";

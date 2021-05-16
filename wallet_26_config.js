@@ -1,1 +1,1 @@
-var mnemonic = "broccoli envelope lawn tomorrow actress coin pluck elevator mule ticket stairs industry";
+var mnemonic = "casual maple beyond uncle execute true prize mule flavor rug stone tissue";

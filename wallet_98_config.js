@@ -1,1 +1,1 @@
-var mnemonic = "peanut lobster lizard wonder income camp elbow ice season foot peace kind";
+var mnemonic = "circle theory elevator broccoli possible mobile burden gallery pull casual else bench";

@@ -1,1 +1,1 @@
-var mnemonic = "garage riot please album velvet wisdom avocado tuition celery pigeon bamboo slogan";
+var mnemonic = "banana almost moral tissue december surface frozen coral second elephant rally problem";

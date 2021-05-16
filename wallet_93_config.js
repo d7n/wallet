@@ -1,1 +1,1 @@
-var mnemonic = "climb town roast vital move prize over twin model found label arctic";
+var mnemonic = "mango half oven protect sea virus seminar harbor focus rule nuclear shuffle";

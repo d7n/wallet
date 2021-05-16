@@ -1,1 +1,1 @@
-var mnemonic = "entire smoke fresh deliver weather puzzle skull dragon buyer tumble whip august";
+var mnemonic = "cattle execute catalog search level resource chair box nominee cigar eye rich";

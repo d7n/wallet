@@ -1,1 +1,1 @@
-var mnemonic = "kit follow shiver actor simple curtain devote bullet hen brand tape basic";
+var mnemonic = "old program job roof nurse join senior scale valley hood clip blossom";

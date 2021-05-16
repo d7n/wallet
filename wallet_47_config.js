@@ -1,1 +1,1 @@
-var mnemonic = "option organ cross nothing hover state grant dumb spy cycle matter avoid";
+var mnemonic = "picture response author crime blush neutral notice draft ribbon despair great write";

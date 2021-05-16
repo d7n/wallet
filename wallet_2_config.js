@@ -1,1 +1,1 @@
-var mnemonic = "upon gadget fold shy hobby industry found route tell edge inmate kangaroo";
+var mnemonic = "siege input giggle enemy delay life anxiety thought around word guilt only";

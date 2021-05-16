@@ -1,1 +1,1 @@
-var mnemonic = "move slim inform shiver dog chronic expose tenant orient before intact pond";
+var mnemonic = "run arena tumble devote ready box mule innocent fly resemble fruit artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "topic punch hockey couple wealth job ramp insane plug ice maximum awesome";
+var mnemonic = "pony birth tornado supply police north only reject bonus best canvas ostrich";

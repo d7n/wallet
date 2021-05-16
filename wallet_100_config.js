@@ -1,1 +1,1 @@
-var mnemonic = "canoe giraffe athlete problem artist meadow cake normal flower flip sell illness";
+var mnemonic = "kit behind tide tragic address exit load kick bamboo business layer clump";

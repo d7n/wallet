@@ -1,1 +1,1 @@
-var mnemonic = "author oil display scheme member left daring obvious sell buddy potato pizza";
+var mnemonic = "setup praise blouse winter number salad fly uncover jeans episode faith source";

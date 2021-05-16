@@ -1,1 +1,1 @@
-var mnemonic = "ceiling box add simple genius occur guess foster parade mushroom coast drum";
+var mnemonic = "biology worry place grit push media episode blast economy great town biology";

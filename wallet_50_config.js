@@ -1,1 +1,1 @@
-var mnemonic = "merge belt bean two among dog famous inmate absent flush jelly cherry";
+var mnemonic = "three ribbon tag bind prevent relief glad smoke walk wrong sunset wink";

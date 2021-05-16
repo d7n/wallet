@@ -1,1 +1,1 @@
-var mnemonic = "shock pizza group disorder equal spawn bonus rib mixture retire grass desk";
+var mnemonic = "load frog rocket language proud clay nasty music kitchen power brass conduct";

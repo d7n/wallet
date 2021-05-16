@@ -1,1 +1,1 @@
-var mnemonic = "rigid never demise hungry ship vault nature sniff urge multiply barely hurry";
+var mnemonic = "dutch duty unfold patrol ivory angry tuna indoor pass armor wish loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "planet obey author pet emotion subway wife better antique tower topic office";
+var mnemonic = "output bamboo outer echo merge powder perfect predict swear thunder foil identify";

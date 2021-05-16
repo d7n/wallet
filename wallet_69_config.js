@@ -1,1 +1,1 @@
-var mnemonic = "guess script canal orient claim amused poet turkey monitor maze now require";
+var mnemonic = "admit core lawsuit discover cupboard depth cloth poem great insect cute stomach";

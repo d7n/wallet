@@ -1,1 +1,1 @@
-var mnemonic = "hire grunt load team display alone angry rabbit drop glow glow present";
+var mnemonic = "liar pistol mixed subject cost tonight urban security risk quarter spirit fiscal";

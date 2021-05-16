@@ -1,1 +1,1 @@
-var mnemonic = "rude initial idea human letter vibrant coin tissue over hurry essay reveal";
+var mnemonic = "cat guilt liberty smooth toss crater digital kingdom sign seek into arrest";

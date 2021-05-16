@@ -1,1 +1,1 @@
-var mnemonic = "speed high weapon satoshi main run cattle pioneer pelican void describe imitate";
+var mnemonic = "sketch prize theory project daughter bachelor uncle pool reward isolate they gauge";

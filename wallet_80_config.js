@@ -1,1 +1,1 @@
-var mnemonic = "nose ball seek toddler rival chunk tooth fuel outer trumpet margin found";
+var mnemonic = "police clap clever nature oppose journey pluck vehicle apology movie fortune either";

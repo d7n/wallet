@@ -1,1 +1,1 @@
-var mnemonic = "sadness kitchen screen symbol cool protect toy era catch multiply diamond print";
+var mnemonic = "immune diary indicate gauge faint carry manual miracle fame flip mimic dice";
