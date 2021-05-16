@@ -1,1 +1,1 @@
-var mnemonic = "taste window damage core lend bless drink song senior lottery emerge expose";
+var mnemonic = "street lift stereo curious chapter ignore supply output six hurry coach monkey";

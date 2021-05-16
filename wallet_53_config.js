@@ -1,1 +1,1 @@
-var mnemonic = "during enroll video salon library reject swift digital wish supply spice guess";
+var mnemonic = "burst crumble collect grain zero chalk leopard tired public party paper liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "light guilt moon citizen desert square flat stamp drop render arena poverty";
+var mnemonic = "iron nerve engage custom mansion random cash seed dirt wonder shoot sibling";

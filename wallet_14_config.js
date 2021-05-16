@@ -1,1 +1,1 @@
-var mnemonic = "clown invest island fabric slender cover month forget night profit wave exhibit";
+var mnemonic = "into word scene detail rebuild kid lava essay tattoo virtual cushion electric";

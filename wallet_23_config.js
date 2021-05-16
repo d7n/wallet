@@ -1,1 +1,1 @@
-var mnemonic = "resemble erupt animal claw wash fat invest base neglect vote accuse soldier";
+var mnemonic = "skin coyote hollow remove follow mean pyramid gaze shed vivid recall mad";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise battle soldier also oxygen slender dance affair tennis action normal runway";
+var mnemonic = "shove lyrics spot air title clarify tornado boss kick air possible sport";

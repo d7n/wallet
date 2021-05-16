@@ -1,1 +1,1 @@
-var mnemonic = "system situate review zebra crucial amazing crystal liar purity smoke antenna chunk";
+var mnemonic = "speed awkward offer wedding sad quantum tiny patrol elephant release toilet joy";

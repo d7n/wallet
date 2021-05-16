@@ -1,1 +1,1 @@
-var mnemonic = "olive rather month student fashion garbage universe dry twist scrub boost brush";
+var mnemonic = "uncover ignore news useless virus local doctor myself invite people congress name";

@@ -1,1 +1,1 @@
-var mnemonic = "device plate zebra glove barely sure license machine humor dragon cross spare";
+var mnemonic = "army merge gun capable price enact gentle quiz unique ocean boost link";

@@ -1,1 +1,1 @@
-var mnemonic = "payment share sting problem vocal airport oval cook drum soda submit monitor";
+var mnemonic = "power aerobic wheel trap sadness desert cash auto brisk space danger enlist";

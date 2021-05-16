@@ -1,1 +1,1 @@
-var mnemonic = "ten snake spray scale dumb kiwi crumble target cigar assault ahead medal";
+var mnemonic = "banner sketch town broom asthma blast crew country edge kind salad amused";

@@ -1,1 +1,1 @@
-var mnemonic = "survey orient ugly afford nose asset rice rather uncle reason bamboo story";
+var mnemonic = "tilt bulk west humble bubble similar essence razor time amazing taste prefer";

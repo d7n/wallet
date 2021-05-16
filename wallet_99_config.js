@@ -1,1 +1,1 @@
-var mnemonic = "image blanket base torch belt betray torch misery chimney hint blind vapor";
+var mnemonic = "awkward vessel cricket february target illness area regular usage hollow about knife";

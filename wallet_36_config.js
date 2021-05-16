@@ -1,1 +1,1 @@
-var mnemonic = "beach script arena section increase edge liberty salmon cheese obey bulk illness";
+var mnemonic = "shoe push gain egg hand item reduce cluster chunk lava ecology elevator";

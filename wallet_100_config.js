@@ -1,1 +1,1 @@
-var mnemonic = "clip sniff party piano brief sorry left snack tank elegant display renew";
+var mnemonic = "parade cry pig uphold inmate december swear kiwi game latin someone bird";

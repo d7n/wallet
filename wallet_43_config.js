@@ -1,1 +1,1 @@
-var mnemonic = "speak gesture wisdom prepare boost course broom duck squirrel either can nut";
+var mnemonic = "daring entry hire razor volume robust weather goose broom rapid rubber else";

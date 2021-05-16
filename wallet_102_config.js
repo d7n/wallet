@@ -1,1 +1,1 @@
-var mnemonic = "wet super duty collect buzz slot narrow hill vivid wage oven long";
+var mnemonic = "hundred panther weather kick another cement skill lake enrich praise ceiling fish";

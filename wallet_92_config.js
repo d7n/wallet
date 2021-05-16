@@ -1,1 +1,1 @@
-var mnemonic = "cheese potato game dignity frog category sunset history shoulder coral clap load";
+var mnemonic = "dash media doctor grid horror flash first champion win obvious fortune hold";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion wasp picture viable toddler riot repair blade state defense electric speak";
+var mnemonic = "element survey attract poem pipe lend debris like usual oppose type clean";

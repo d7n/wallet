@@ -1,1 +1,1 @@
-var mnemonic = "park cotton ladder corn glance chief nut aerobic rely salad isolate together";
+var mnemonic = "venue fly choose coyote phone proof toss human define confirm exile diamond";

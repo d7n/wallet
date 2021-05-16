@@ -1,1 +1,1 @@
-var mnemonic = "advance craft cool stem cement voyage forward subject water goat situate hybrid";
+var mnemonic = "amazing odor exact monitor item prevent sister forest edit income exercise pave";

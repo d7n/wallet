@@ -1,1 +1,1 @@
-var mnemonic = "punch element antique rare direct curtain ankle impulse version donate drama almost";
+var mnemonic = "secret exotic degree twin fuel quarter liberty medal crouch ticket hobby staff";

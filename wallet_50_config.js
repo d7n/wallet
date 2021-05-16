@@ -1,1 +1,1 @@
-var mnemonic = "add erode connect change matrix hero obscure group common quiz arrest trade";
+var mnemonic = "ramp bone people among stairs skirt prepare hub reason dial fly coin";

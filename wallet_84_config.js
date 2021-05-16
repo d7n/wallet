@@ -1,1 +1,1 @@
-var mnemonic = "extra tumble child whisper sting lazy more climb choose end deputy stable";
+var mnemonic = "kiwi wrist hand make bunker crime rotate letter inch spin dinosaur recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "raise aunt hard radar cargo language casual love video clinic powder lizard";
+var mnemonic = "senior opera hungry popular milk letter plunge put unveil begin cupboard stairs";

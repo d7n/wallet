@@ -1,1 +1,1 @@
-var mnemonic = "two crunch ski grit actress inquiry hill glow pause charge flee book";
+var mnemonic = "system depart apple hollow muffin cloud legend home dumb skill exact anchor";

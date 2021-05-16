@@ -1,1 +1,1 @@
-var mnemonic = "bottom hospital wing crop stick author amused curious rifle student hard consider";
+var mnemonic = "memory dog among off journey eagle guitar apology plunge crime detect border";

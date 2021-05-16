@@ -1,1 +1,1 @@
-var mnemonic = "trap runway enroll vast depart camera farm crop duck liquid ethics start";
+var mnemonic = "target castle silver congress save fault crush sudden wreck oval fitness drum";

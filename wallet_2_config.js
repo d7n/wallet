@@ -1,1 +1,1 @@
-var mnemonic = "pill cool olympic grace opera surge industry side ancient tribe anger swear";
+var mnemonic = "scrap comic scatter moral enroll stove minor expect fruit long night sure";

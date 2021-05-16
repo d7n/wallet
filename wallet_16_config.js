@@ -1,1 +1,1 @@
-var mnemonic = "bonus heavy solution crunch funny dignity erode absorb limb tattoo fine chase";
+var mnemonic = "amount vacant lamp merry pupil creek worry park column assume gloom sustain";

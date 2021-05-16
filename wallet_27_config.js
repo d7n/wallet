@@ -1,1 +1,1 @@
-var mnemonic = "federal repeat express swing shy wonder churn dilemma region december gap permit";
+var mnemonic = "spell arm stamp few cricket answer film off setup gain affair soccer";

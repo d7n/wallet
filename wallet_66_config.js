@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog lazy leaf sting finish primary sport thrive miss grid same soap";
+var mnemonic = "bind athlete across deputy trap current lumber ill fiber wait alpha blur";

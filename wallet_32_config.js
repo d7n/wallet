@@ -1,1 +1,1 @@
-var mnemonic = "habit isolate brave write canal lake cover roast seat crystal tiger alcohol";
+var mnemonic = "item budget cattle junior kiwi pet glow pluck risk loan test grain";

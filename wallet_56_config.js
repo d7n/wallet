@@ -1,1 +1,1 @@
-var mnemonic = "life sea photo question sunny soap child beef morning proud unveil choose";
+var mnemonic = "panic napkin camp useless tragic food oxygen clinic top fatigue north magic";

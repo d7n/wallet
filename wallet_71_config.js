@@ -1,1 +1,1 @@
-var mnemonic = "catalog bundle oxygen able before tuna sadness inflict delay shaft garlic warrior";
+var mnemonic = "mosquito fat casino category gap month logic whale possible actual earth kidney";

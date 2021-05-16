@@ -1,1 +1,1 @@
-var mnemonic = "borrow issue era kind pull guitar fluid elevator short prefer throw route";
+var mnemonic = "safe roast equip still pond advice stock glove dignity render comfort forest";

@@ -1,1 +1,1 @@
-var mnemonic = "aware dance arrive ceiling mystery thumb gown mass napkin opinion churn few";
+var mnemonic = "basic patrol blade someone round snake refuse early paper mutual power alien";

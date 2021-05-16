@@ -1,1 +1,1 @@
-var mnemonic = "gospel lounge again derive muscle until tribe mouse unusual snap hawk tide";
+var mnemonic = "say vanish lava flavor mistake ask exhibit tent derive deliver hip point";

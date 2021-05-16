@@ -1,1 +1,1 @@
-var mnemonic = "deposit normal lemon also sure cousin border february legal art edit quiz";
+var mnemonic = "game agent blade make caution term defense find buzz toast hundred claw";

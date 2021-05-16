@@ -1,1 +1,1 @@
-var mnemonic = "toy long basket fee off leg father blanket execute problem census code";
+var mnemonic = "improve car fix drum knock cook wheat spoil slogan perfect crop possible";

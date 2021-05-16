@@ -1,1 +1,1 @@
-var mnemonic = "park expand analyst anger say upgrade below exclude album aspect ask luggage";
+var mnemonic = "estate sail hard smooth much daring wealth mammal seven change media soda";

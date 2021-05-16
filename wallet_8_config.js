@@ -1,1 +1,1 @@
-var mnemonic = "glad neglect arctic axis train crush grain second dance various spoil card";
+var mnemonic = "release sleep tunnel syrup atom fly puzzle moral section choice liberty indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "void wish ankle candy dune organ couch run bar image bunker park";
+var mnemonic = "proud town pair valley inner adjust reunion chair amateur announce friend piece";

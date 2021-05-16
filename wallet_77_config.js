@@ -1,1 +1,1 @@
-var mnemonic = "hurry harvest quote medal speak lab decorate giant nominee improve pottery twenty";
+var mnemonic = "enemy upon term flip escape valid steak word wedding motor text pulse";

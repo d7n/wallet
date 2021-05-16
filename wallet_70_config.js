@@ -1,1 +1,1 @@
-var mnemonic = "wagon web combine current grid addict together unfold rice link phone supreme";
+var mnemonic = "injury hurt post public canal pull ketchup much deny wealth smart cattle";

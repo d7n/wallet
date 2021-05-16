@@ -1,1 +1,1 @@
-var mnemonic = "gun dirt level alley enlist rigid twenty gloom electric force rug quit";
+var mnemonic = "canoe valley equal crisp battle chef digital believe fashion digital busy pupil";

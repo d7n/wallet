@@ -1,1 +1,1 @@
-var mnemonic = "perfect trend zone tiger shoulder stand nominee poem junior six aspect depart";
+var mnemonic = "silk lizard hard couple inner answer sustain follow oil wreck trouble slush";

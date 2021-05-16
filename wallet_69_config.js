@@ -1,1 +1,1 @@
-var mnemonic = "awesome nurse either sure fit click earn wait fitness elephant ocean announce";
+var mnemonic = "surge height body under limb fury stove champion life merge snake leisure";

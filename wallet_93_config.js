@@ -1,1 +1,1 @@
-var mnemonic = "strategy bracket math smart worth express lobster mixture enter question tower spot";
+var mnemonic = "suggest prefer armor gain drop dumb bless ensure ask differ team three";

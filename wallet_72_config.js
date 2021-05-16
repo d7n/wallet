@@ -1,1 +1,1 @@
-var mnemonic = "pistol enact crowd whip sugar frost oak stove letter forum trash modify";
+var mnemonic = "unlock mix team small buzz fringe differ lizard screen daring grass cool";

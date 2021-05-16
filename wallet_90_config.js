@@ -1,1 +1,1 @@
-var mnemonic = "picnic fetch crop decade gather tortoise act dish ice easily mad inch";
+var mnemonic = "blade wide junior beef quick universe piece betray tribe voice enforce chicken";

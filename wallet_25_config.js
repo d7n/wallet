@@ -1,1 +1,1 @@
-var mnemonic = "conduct harbor tattoo soap hover female trophy desk wonder used salute measure";
+var mnemonic = "balcony cook amused soon develop leave oyster great toy oblige series spot";

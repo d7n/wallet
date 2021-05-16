@@ -1,1 +1,1 @@
-var mnemonic = "pony merge breeze solar frost dawn fit dog arrange photo globe royal";
+var mnemonic = "orphan hub oppose dolphin point animal purity hospital grab festival hazard radio";

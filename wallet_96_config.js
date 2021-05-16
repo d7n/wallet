@@ -1,1 +1,1 @@
-var mnemonic = "later iron sugar remind imitate match knee timber cloud movie say stereo";
+var mnemonic = "sister civil excess cook tenant genius pluck comfort verify layer once glory";

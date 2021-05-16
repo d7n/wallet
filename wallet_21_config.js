@@ -1,1 +1,1 @@
-var mnemonic = "yard media envelope moon nature item invest tired foil rifle elite chapter";
+var mnemonic = "dizzy leader horn stuff proud iron above stamp advance float menu since";

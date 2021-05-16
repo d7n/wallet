@@ -1,1 +1,1 @@
-var mnemonic = "chunk object travel cabbage upset spatial raw warfare owner cattle around uncover";
+var mnemonic = "online run goddess aim demise siege pudding icon happy spider release glide";

@@ -1,1 +1,1 @@
-var mnemonic = "initial amazing news lab wealth dignity focus family donate phrase quick quit";
+var mnemonic = "love child iron tourist insect poet enemy provide animal morning involve improve";

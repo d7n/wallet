@@ -1,1 +1,1 @@
-var mnemonic = "devote spring suggest prosper miss hybrid orange tool wasp thrive reveal initial";
+var mnemonic = "maid mail view february weekend puppy flower corn crane penalty casual distance";

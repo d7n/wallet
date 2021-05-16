@@ -1,1 +1,1 @@
-var mnemonic = "start essence annual dream poem company useless crunch chimney brand lens present";
+var mnemonic = "harsh acid candy sugar unlock supreme tape tackle grant supply entry cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect measure wrestle insect unaware initial guilt also advice wool say father";
+var mnemonic = "radar exit drastic dumb beach earn total zone taste absorb end tooth";

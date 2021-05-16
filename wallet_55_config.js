@@ -1,1 +1,1 @@
-var mnemonic = "spice doll promote stool swarm flock document upon tomato buffalo hard cherry";
+var mnemonic = "program staff approve vendor hole member clap woman hour motion enable collect";

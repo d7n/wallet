@@ -1,1 +1,1 @@
-var mnemonic = "annual ribbon pool damp sting advance rigid screen hover body avocado change";
+var mnemonic = "palace maximum woman crystal spoil million arrange coral brown security forward busy";

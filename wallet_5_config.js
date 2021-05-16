@@ -1,1 +1,1 @@
-var mnemonic = "tired hurry mixture service error december abandon lizard cause until churn law";
+var mnemonic = "undo spawn have card capable keep divert have suit rice zone between";

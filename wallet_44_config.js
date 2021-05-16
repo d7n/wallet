@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog air total shoulder regret blur coral syrup bird entire fiscal embark";
+var mnemonic = "kiwi stable click tail shield label coin congress sister abandon march furnace";

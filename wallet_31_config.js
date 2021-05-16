@@ -1,1 +1,1 @@
-var mnemonic = "genius smoke antique abuse table abandon payment light venture journey excite step";
+var mnemonic = "artefact volume huge winner call daughter valid nature neck trash prepare process";

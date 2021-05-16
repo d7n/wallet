@@ -1,1 +1,1 @@
-var mnemonic = "arctic middle found post stamp tiny brick leopard laugh impose admit inform";
+var mnemonic = "sell gauge dice mosquito arrange ostrich route style pilot plate fantasy thunder";

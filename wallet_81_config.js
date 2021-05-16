@@ -1,1 +1,1 @@
-var mnemonic = "cattle gas lift mountain garment crack leg switch tiny occur code mountain";
+var mnemonic = "culture combine remove maximum glare enlist question match forum urge enact hold";

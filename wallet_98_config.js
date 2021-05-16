@@ -1,1 +1,1 @@
-var mnemonic = "erase trigger force glance census brain lake piece plate water few bean";
+var mnemonic = "quiz nose cute pluck fragile sustain mansion add arctic explain address clown";

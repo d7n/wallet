@@ -1,1 +1,1 @@
-var mnemonic = "letter enroll guess rail swarm usage cousin gas nurse silver battle frame";
+var mnemonic = "narrow letter actual develop wide subway jeans hedgehog garden pony laundry process";

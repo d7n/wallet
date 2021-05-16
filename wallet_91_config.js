@@ -1,1 +1,1 @@
-var mnemonic = "seven minute where scare fury group shield fever awful genuine gravity evidence";
+var mnemonic = "salon evidence debate donor dismiss large actor advance fitness earn resource ridge";

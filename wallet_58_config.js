@@ -1,1 +1,1 @@
-var mnemonic = "weird image proof rapid achieve vapor dinosaur punch lake shoulder hamster citizen";
+var mnemonic = "tribe garlic expand treat fruit endless end milk ivory canal galaxy oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney inside kid moment primary awful hero stove lazy drum electric kitten";
+var mnemonic = "pepper also switch spy peanut vast popular inspire dentist century side liar";

@@ -1,1 +1,1 @@
-var mnemonic = "vast illegal task accident grant volcano lend remove effort anxiety junior shine";
+var mnemonic = "name letter thought arrow dial adjust slam office soft more lamp unveil";

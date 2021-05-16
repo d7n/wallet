@@ -1,1 +1,1 @@
-var mnemonic = "distance rough believe carpet define this solve hungry spy sister typical still";
+var mnemonic = "sell brief nasty try sail spoon under expire evolve chapter law assault";

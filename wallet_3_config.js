@@ -1,1 +1,1 @@
-var mnemonic = "climb view surround surface matter one food dad alarm loyal sound dirt";
+var mnemonic = "find pond spike upset forest reform loyal render travel pull swarm elevator";

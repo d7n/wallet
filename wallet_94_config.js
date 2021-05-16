@@ -1,1 +1,1 @@
-var mnemonic = "jacket siren grocery weird mandate device senior joy ahead spy curve food";
+var mnemonic = "just demise claw gossip cupboard equip now antique mandate toe cable hard";

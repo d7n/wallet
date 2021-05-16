@@ -1,1 +1,1 @@
-var mnemonic = "exhibit keen wrong economy noodle catch arena noise confirm cloth soon sword";
+var mnemonic = "round guard skirt barrel devote stereo feed erase puzzle sea minor tank";

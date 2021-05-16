@@ -1,1 +1,1 @@
-var mnemonic = "domain army joke invest bargain torch elite grocery burst bargain wheat moon";
+var mnemonic = "frown liar gravity century forum prevent area file oxygen alcohol swim flame";

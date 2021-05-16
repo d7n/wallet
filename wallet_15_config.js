@@ -1,1 +1,1 @@
-var mnemonic = "feel mask quote engage general relief only before oval pledge kite busy";
+var mnemonic = "frozen area sport version cross fade recycle unusual split chest fun earth";

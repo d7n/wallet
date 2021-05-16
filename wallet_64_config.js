@@ -1,1 +1,1 @@
-var mnemonic = "autumn paddle rescue world obtain split buffalo deal few tree vote scrap";
+var mnemonic = "secret wasp merit glimpse pilot theme beyond mule uncover leg loop knock";

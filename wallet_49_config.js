@@ -1,1 +1,1 @@
-var mnemonic = "denial master lizard culture express panther helmet cram invite resemble domain valley";
+var mnemonic = "essay wild reflect photo puppy onion tag escape senior inspire wasp ability";

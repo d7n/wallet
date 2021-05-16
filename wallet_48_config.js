@@ -1,1 +1,1 @@
-var mnemonic = "estate feed blur royal mirror vague right practice unusual bullet social ramp";
+var mnemonic = "noble hamster bulb lucky sweet wave essence mountain pudding film spring glance";

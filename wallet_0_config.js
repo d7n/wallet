@@ -1,1 +1,1 @@
-var mnemonic = "order question bachelor voyage solar tip rack rather danger flag field soup";
+var mnemonic = "palace intact news plug bag manual craft silver test caution loop select";

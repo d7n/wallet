@@ -1,1 +1,1 @@
-var mnemonic = "cash lemon top drill plunge awful cover throw scatter ring shaft essence";
+var mnemonic = "coral orient frog average trust parade shoot identify subway motor such student";

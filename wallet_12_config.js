@@ -1,1 +1,1 @@
-var mnemonic = "crime crack gate luggage general clump cruel lumber rug run way sentence";
+var mnemonic = "pencil begin merge gain cruise happy case wear worry arm attack squeeze";

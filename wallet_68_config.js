@@ -1,1 +1,1 @@
-var mnemonic = "assault silver umbrella pear polar century essay stool churn shallow hat struggle";
+var mnemonic = "auto occur armor stock bring logic push grace solid express tortoise grant";
