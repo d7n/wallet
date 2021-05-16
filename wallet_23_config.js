@@ -1,1 +1,1 @@
-var mnemonic = "festival ensure idle pizza health pluck usual rural document idle cute other";
+var mnemonic = "speed blossom salute maple area race soup champion silk antique soft elegant";

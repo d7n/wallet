@@ -1,1 +1,1 @@
-var mnemonic = "push must spoil sphere feature venture enhance nice name circle card message";
+var mnemonic = "organ ghost hip stairs drop ignore supply area million spell glimpse express";

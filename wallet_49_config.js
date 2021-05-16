@@ -1,1 +1,1 @@
-var mnemonic = "print nose day unable upon envelope buffalo master tribe garden easy love";
+var mnemonic = "catalog daughter there rule cabin rose supply cliff renew web famous field";

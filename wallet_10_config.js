@@ -1,1 +1,1 @@
-var mnemonic = "practice media public swing maid fruit chaos evil laugh aisle exchange push";
+var mnemonic = "evolve today indoor local digital case sample ceiling spell visa observe elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "raven envelope purity talk avocado yellow charge today garlic adapt earth honey";
+var mnemonic = "metal melt observe choice vintage chimney fork aim action grab verb grant";

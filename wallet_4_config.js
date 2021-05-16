@@ -1,1 +1,1 @@
-var mnemonic = "assist junk wagon record birth dismiss cheap sauce bitter ranch health clean";
+var mnemonic = "dentist plunge volcano zone barrel recipe dilemma unique mistake people sight come";

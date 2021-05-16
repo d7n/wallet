@@ -1,1 +1,1 @@
-var mnemonic = "shove vehicle smile symbol illness endless secret voyage rib endorse load trial";
+var mnemonic = "unveil wealth office myth inch hen same spare obscure gorilla soft hollow";

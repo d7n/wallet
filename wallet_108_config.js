@@ -1,1 +1,1 @@
-var mnemonic = "shell body broccoli shy juice armor maple garment wall riot pupil method";
+var mnemonic = "snake hat traffic gather dance earn pluck sample cupboard man tilt useful";

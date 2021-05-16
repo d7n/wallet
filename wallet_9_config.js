@@ -1,1 +1,1 @@
-var mnemonic = "forest trophy body grass method machine proof fame mountain purchase mask jump";
+var mnemonic = "waste board cousin empty please garage ketchup report mammal garage angle blade";

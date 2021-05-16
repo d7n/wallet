@@ -1,1 +1,1 @@
-var mnemonic = "unlock spoil quantum enter dance image pass fiction valve concert flush barrel";
+var mnemonic = "drum parade theory obscure club caught embody hand faint grit essay lunch";

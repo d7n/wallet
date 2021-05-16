@@ -1,1 +1,1 @@
-var mnemonic = "minimum security perfect tape load cancel broken tattoo draft lava describe bleak";
+var mnemonic = "nut ginger track ready brave pipe prize pigeon equal twelve palm benefit";

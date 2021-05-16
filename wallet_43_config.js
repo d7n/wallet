@@ -1,1 +1,1 @@
-var mnemonic = "sphere govern fortune glare render burden heavy system scare magnet angle around";
+var mnemonic = "prosper display fuel please flip salute amazing verb blast pupil dutch just";

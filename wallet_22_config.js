@@ -1,1 +1,1 @@
-var mnemonic = "say pluck tiger choose program shed satisfy venture bargain increase crush cushion";
+var mnemonic = "wish manual this digital portion manual theme fog glue dinosaur route tired";

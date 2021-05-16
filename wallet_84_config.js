@@ -1,1 +1,1 @@
-var mnemonic = "dove derive bottom field hour critic south kidney coil monitor spread chief";
+var mnemonic = "hour blue measure gun unknown invite prison pupil mistake brisk tiny split";

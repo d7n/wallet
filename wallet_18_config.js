@@ -1,1 +1,1 @@
-var mnemonic = "plastic crash soon indicate fence bar reveal brand antique trophy tube exhaust";
+var mnemonic = "amazing exercise burst hair law pool amateur juice ski horror naive tray";

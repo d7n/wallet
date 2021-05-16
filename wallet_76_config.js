@@ -1,1 +1,1 @@
-var mnemonic = "miss undo warrior advice auto guitar apart relief vague model seat fat";
+var mnemonic = "tell inject blue sound nerve foil sunset model business behave coral foam";

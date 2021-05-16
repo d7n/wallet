@@ -1,1 +1,1 @@
-var mnemonic = "destroy option income impose tape physical slow maid rail puzzle trim crowd";
+var mnemonic = "gift arm cancel tunnel okay champion regret trumpet media certain pretty garbage";

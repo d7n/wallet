@@ -1,1 +1,1 @@
-var mnemonic = "goddess century trophy tongue estate segment between initial exist protect bubble element";
+var mnemonic = "apology unveil rival lady crash tomorrow cover lawn spice capable urban unique";

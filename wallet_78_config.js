@@ -1,1 +1,1 @@
-var mnemonic = "injury spread slight rice recipe hybrid end media equal huge devote tunnel";
+var mnemonic = "champion trip coyote shoe rich pen poet deal frown gather clump van";

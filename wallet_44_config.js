@@ -1,1 +1,1 @@
-var mnemonic = "horror pledge farm gorilla border wire wrist media curious cart program wide";
+var mnemonic = "battle know enlist cream tennis consider dumb review bleak shoulder parade velvet";

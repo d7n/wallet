@@ -1,1 +1,1 @@
-var mnemonic = "surround avocado execute mimic calm chuckle deputy odor trash vicious clump pause";
+var mnemonic = "expand orchard bean know install wedding science swing divorce verb thrive toddler";

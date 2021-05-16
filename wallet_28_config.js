@@ -1,1 +1,1 @@
-var mnemonic = "cruel fragile cruel inherit pumpkin frozen chronic tribe river blur wife captain";
+var mnemonic = "captain hurt hurry file aunt mix left abuse agent rebuild potato finger";

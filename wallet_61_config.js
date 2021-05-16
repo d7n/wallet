@@ -1,1 +1,1 @@
-var mnemonic = "tongue grab dinner caught carpet just addict almost gauge please welcome approve";
+var mnemonic = "gloom swift wear hint enrich zero company laptop happy crouch core finger";

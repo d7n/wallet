@@ -1,1 +1,1 @@
-var mnemonic = "hint useless cry card typical squeeze daring slide neither record fashion lesson";
+var mnemonic = "undo stomach hard cotton grocery say mushroom student found seed gym sound";

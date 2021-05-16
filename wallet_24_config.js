@@ -1,1 +1,1 @@
-var mnemonic = "fiscal pave fiber giggle else regular power bachelor ketchup robot icon purity";
+var mnemonic = "believe genre lens learn spirit morning luxury please glory sweet issue age";

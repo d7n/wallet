@@ -1,1 +1,1 @@
-var mnemonic = "cage neutral earn banner burger crowd relax grace such barely tone inmate";
+var mnemonic = "odor soap spider anger spin hotel avocado october super era panther script";

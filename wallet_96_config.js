@@ -1,1 +1,1 @@
-var mnemonic = "attract crack sand recycle moon average warrior since noise soul buyer pear";
+var mnemonic = "race cream area vault wheel teach current select usage submit penalty consider";

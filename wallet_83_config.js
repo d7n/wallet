@@ -1,1 +1,1 @@
-var mnemonic = "drive jeans situate spread pond thought glass worth earn buddy myth ramp";
+var mnemonic = "end banner absent sleep alcohol inner cannon wreck have laugh sign prison";

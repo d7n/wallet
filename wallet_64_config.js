@@ -1,1 +1,1 @@
-var mnemonic = "polar south divert gorilla orient absurd during elder tiger prize banner always";
+var mnemonic = "repeat weapon maid forest tray wasp raven around slight protect below true";

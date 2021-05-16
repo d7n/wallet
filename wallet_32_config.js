@@ -1,1 +1,1 @@
-var mnemonic = "tonight talent leaf garage strong length oppose later report quick casual color";
+var mnemonic = "embody gesture phrase reduce fish key spin useless gown invest match guard";

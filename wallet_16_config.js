@@ -1,1 +1,1 @@
-var mnemonic = "ecology gesture penalty track type size kitchen shoulder dose indoor price rent";
+var mnemonic = "peanut target scan shy fever vacant unit pony gallery spirit dawn bunker";

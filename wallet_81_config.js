@@ -1,1 +1,1 @@
-var mnemonic = "novel ethics autumn planet fire bundle design blind hard dismiss olympic program";
+var mnemonic = "cargo dinner alcohol ski milk tray submit seminar service impact glance identify";

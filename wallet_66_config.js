@@ -1,1 +1,1 @@
-var mnemonic = "friend cash funny fold home urban attack satisfy lift outer toward village";
+var mnemonic = "giggle ivory swim reunion boil universe city easily parent fetch whale clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "priority insect marble diagram process mask drop amount hand dizzy casual amount";
+var mnemonic = "miracle swift tool share eyebrow dinner syrup gain task myth route clinic";

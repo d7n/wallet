@@ -1,1 +1,1 @@
-var mnemonic = "luggage marine photo avoid rose rabbit double own onion couch sadness laugh";
+var mnemonic = "guide hill dry aware razor dolphin royal give work large tongue whip";

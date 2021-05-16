@@ -1,1 +1,1 @@
-var mnemonic = "purity job innocent anchor warm deny adult silver adapt robot escape chicken";
+var mnemonic = "artist use farm history indicate float elite anger become motor woman chief";

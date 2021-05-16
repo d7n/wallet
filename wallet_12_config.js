@@ -1,1 +1,1 @@
-var mnemonic = "solar family charge universe diesel guide fresh enter mansion machine common repeat";
+var mnemonic = "flight tool iron turn once letter canoe recycle confirm section address inch";

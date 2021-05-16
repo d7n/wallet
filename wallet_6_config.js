@@ -1,1 +1,1 @@
-var mnemonic = "shuffle nasty tent fine author despair garden strong devote pause path convince";
+var mnemonic = "chef mesh coconut stable click habit flag word scare fall salad cereal";

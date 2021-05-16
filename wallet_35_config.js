@@ -1,1 +1,1 @@
-var mnemonic = "opera any try dinosaur moral retire police sphere pelican space adapt cinnamon";
+var mnemonic = "coral mesh predict erupt coil lesson arena change market sample cruise feel";

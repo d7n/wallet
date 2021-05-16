@@ -1,1 +1,1 @@
-var mnemonic = "sport stairs tip solar room adult jealous amused catalog deny input boil";
+var mnemonic = "brisk act staff foot sponsor develop rotate april clown embody nature hair";

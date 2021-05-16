@@ -1,1 +1,1 @@
-var mnemonic = "casual provide loop size square sport swim fish tissue convince repeat town";
+var mnemonic = "receive strong erode nominee kitchen jar curious delay art tunnel verify day";

@@ -1,1 +1,1 @@
-var mnemonic = "oil critic harsh lyrics cheap focus vicious early desert canal oppose pioneer";
+var mnemonic = "theme dog remind purchase kid fitness caught luggage express raven table glance";

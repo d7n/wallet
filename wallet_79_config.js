@@ -1,1 +1,1 @@
-var mnemonic = "wide taxi surprise lion relax add steel inflict three prevent alcohol crazy";
+var mnemonic = "sauce steak genius exclude ordinary drift silly exile scale mom dog test";

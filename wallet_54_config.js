@@ -1,1 +1,1 @@
-var mnemonic = "charge change rate connect toddler useless cute obvious iron neutral remember rifle";
+var mnemonic = "slush sphere coffee donkey expire tuna aim weekend sentence dignity reduce grit";

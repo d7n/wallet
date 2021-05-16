@@ -1,1 +1,1 @@
-var mnemonic = "style lounge grid draft detect undo street panel congress puzzle deal indicate";
+var mnemonic = "toddler mad beauty world run dizzy caught silly romance job solve infant";

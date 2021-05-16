@@ -1,1 +1,1 @@
-var mnemonic = "private road blast arrow mystery athlete bomb shaft fiscal mobile rack woman";
+var mnemonic = "spare talk humor best swamp near large wrist eye mansion pelican leopard";

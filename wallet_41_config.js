@@ -1,1 +1,1 @@
-var mnemonic = "trend convince goddess differ glance coral shallow express hub until guide aspect";
+var mnemonic = "lawn video hire female similar holiday dignity badge stool current nest affair";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle mosquito purity hidden patch owner awful business radio once spring useful";
+var mnemonic = "cabin have analyst venture dinner family reveal laugh trigger address human tonight";

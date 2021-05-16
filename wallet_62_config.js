@@ -1,1 +1,1 @@
-var mnemonic = "goddess wasp feel wealth fiber flush space tool couple begin tennis tell";
+var mnemonic = "garlic sign upgrade undo popular lend mad vapor sand party mixed dinosaur";

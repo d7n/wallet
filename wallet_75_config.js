@@ -1,1 +1,1 @@
-var mnemonic = "tortoise vibrant merry ticket describe toe explain measure total census hard flame";
+var mnemonic = "rapid cruise adapt situate catch final weekend point stomach myth skate negative";

@@ -1,1 +1,1 @@
-var mnemonic = "range topple weasel defense gentle humor brave embody total lawn bring focus";
+var mnemonic = "impose mutual gym carbon acid legend give hill height skate legal spread";

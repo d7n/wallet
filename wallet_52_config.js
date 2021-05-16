@@ -1,1 +1,1 @@
-var mnemonic = "erosion sweet shuffle web very giant bitter inherit inform naive sense emerge";
+var mnemonic = "cart damp wisdom thrive school dwarf guard ancient path casual humble hundred";

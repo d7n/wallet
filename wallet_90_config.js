@@ -1,1 +1,1 @@
-var mnemonic = "daughter donkey share festival buzz few ripple there valid host chair future";
+var mnemonic = "mansion angry burden abandon drift outside illegal athlete able six olive magnet";

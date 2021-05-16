@@ -1,1 +1,1 @@
-var mnemonic = "umbrella estate digital expose antique token cabin cliff repeat lobster tuna tumble";
+var mnemonic = "cheap novel dust sock history catch age shove have naive cousin twenty";

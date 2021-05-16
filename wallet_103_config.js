@@ -1,1 +1,1 @@
-var mnemonic = "away captain load exist comfort motion section lift nasty hand venture faint";
+var mnemonic = "salon test end negative season merge worth room dilemma ribbon replace jealous";

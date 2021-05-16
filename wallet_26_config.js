@@ -1,1 +1,1 @@
-var mnemonic = "path allow height rate catch glimpse arctic ignore orient hood total success";
+var mnemonic = "leisure retire below health lonely family dentist reject only barrel dutch network";

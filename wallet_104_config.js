@@ -1,1 +1,1 @@
-var mnemonic = "glance major deliver mention slogan hazard obscure dolphin attack flat tribe artist";
+var mnemonic = "right bottom raise miracle grace case put youth february sing hospital insect";

@@ -1,1 +1,1 @@
-var mnemonic = "normal stadium venue fabric mushroom blush exit glance dynamic kiss burden happy";
+var mnemonic = "fatigue excite raw scorpion wisdom course satisfy weather sketch exercise daring page";

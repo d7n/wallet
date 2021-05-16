@@ -1,1 +1,1 @@
-var mnemonic = "brand dad major void start ritual actress answer enemy chronic emerge van";
+var mnemonic = "brick happy palm family ghost depend sauce poverty miss ankle cave twenty";

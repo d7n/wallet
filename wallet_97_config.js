@@ -1,1 +1,1 @@
-var mnemonic = "false wall swift return poem draft large end tip mass zero vacant";
+var mnemonic = "parade knife program pelican journey august adjust range slice toward airport glove";

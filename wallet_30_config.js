@@ -1,1 +1,1 @@
-var mnemonic = "joy voice shiver imitate slot bike glare verb pave swing turn shrug";
+var mnemonic = "garlic vault buddy home page bargain jealous light sing wine focus define";

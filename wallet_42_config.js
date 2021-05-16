@@ -1,1 +1,1 @@
-var mnemonic = "weird coffee ankle alpha nerve saddle recycle mobile inform cricket physical kit";
+var mnemonic = "fault spatial cheap detail prevent owner rate security add violin pyramid topic";

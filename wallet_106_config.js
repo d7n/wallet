@@ -1,1 +1,1 @@
-var mnemonic = "steel click nut school build wet garden alarm lyrics yellow cloth glass";
+var mnemonic = "festival betray immense asthma goddess slim liquid heavy limb cabbage wrestle minute";

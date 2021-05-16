@@ -1,1 +1,1 @@
-var mnemonic = "approve common cruise glass glove cotton stairs mail mind click license certain";
+var mnemonic = "buzz gas section fruit dinosaur gold hello trouble wild fly motor dream";

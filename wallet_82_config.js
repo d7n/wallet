@@ -1,1 +1,1 @@
-var mnemonic = "rival smile arrow drip spirit scale found nature critic solid inch erosion";
+var mnemonic = "misery domain science example fan opinion since slogan crisp essay bus novel";

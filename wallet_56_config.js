@@ -1,1 +1,1 @@
-var mnemonic = "word glide danger unaware shop flame grant dismiss supreme relief stool then";
+var mnemonic = "reduce upper remember love cement manual raven ready material act afraid dentist";

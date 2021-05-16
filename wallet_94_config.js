@@ -1,1 +1,1 @@
-var mnemonic = "transfer all cereal wrestle pond field rude dentist arrange ready absorb tattoo";
+var mnemonic = "imitate child border bike adapt spoil mechanic walk suspect step dad ability";

@@ -1,1 +1,1 @@
-var mnemonic = "hard scatter envelope around toast food buddy zoo obscure client purse hand";
+var mnemonic = "push dinosaur december pipe slot state ticket scan food faculty angry south";

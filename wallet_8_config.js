@@ -1,1 +1,1 @@
-var mnemonic = "amount year flight immune ribbon document carry detect later outer kitchen thrive";
+var mnemonic = "turn series oak sustain nurse law must letter magnet dust juice song";

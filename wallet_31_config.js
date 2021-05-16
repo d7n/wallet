@@ -1,1 +1,1 @@
-var mnemonic = "hand nasty soldier trash cousin gadget conduct certain woman mind hold elite";
+var mnemonic = "sudden retire brave weapon distance volume echo bronze crowd upgrade judge air";

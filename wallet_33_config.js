@@ -1,1 +1,1 @@
-var mnemonic = "base doctor fury physical naive level become canoe crystal place give gossip";
+var mnemonic = "profit universe orient clown draw such tide turn wrong guitar creek cry";

@@ -1,1 +1,1 @@
-var mnemonic = "oval cousin make often move quote item habit outer cry audit fun";
+var mnemonic = "tragic hidden middle gap stomach leader invite income erosion glide video abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "venture tired electric crime draft south rally ship scene clown kiss fat";
+var mnemonic = "scan settle truth dash depend illness together meat hire budget lens example";

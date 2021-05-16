@@ -1,1 +1,1 @@
-var mnemonic = "elevator anger purpose wrist agent zero image exact mail peasant become apology";
+var mnemonic = "early filter tube trend transfer arrow garbage typical lock crop wall invest";

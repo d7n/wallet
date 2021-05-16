@@ -1,1 +1,1 @@
-var mnemonic = "luggage drill cram rate convince lion game amount certain spoon lava organ";
+var mnemonic = "where dilemma cram hotel soap when lady letter gun limb relief entire";

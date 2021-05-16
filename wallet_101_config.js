@@ -1,1 +1,1 @@
-var mnemonic = "tired news private damp analyst farm yard mule ozone hair position addict";
+var mnemonic = "bar moral tackle junk small breeze fork option unique adjust palace review";

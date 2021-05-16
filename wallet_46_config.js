@@ -1,1 +1,1 @@
-var mnemonic = "soon jump hill repair furnace dynamic sell behind roast produce excite share";
+var mnemonic = "south drill absorb wet join pair expose tourist middle kitten bomb pigeon";

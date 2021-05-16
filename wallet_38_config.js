@@ -1,1 +1,1 @@
-var mnemonic = "solve chuckle scorpion cabbage island adult wagon skin crush hover glimpse color";
+var mnemonic = "armed autumn unique soap battle soul envelope pole grain draw public devote";

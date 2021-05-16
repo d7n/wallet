@@ -1,1 +1,1 @@
-var mnemonic = "forward alert siren rib brush century final mystery scan census west turtle";
+var mnemonic = "topple torch soul calm mass logic reveal reform symptom foam oak ahead";

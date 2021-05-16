@@ -1,1 +1,1 @@
-var mnemonic = "slab guitar orphan blast edit earth day vessel grain cactus sun paddle";
+var mnemonic = "cruel employ wage answer virtual hidden iron fruit bleak arrest limit year";

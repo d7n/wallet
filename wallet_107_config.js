@@ -1,1 +1,1 @@
-var mnemonic = "betray misery still flat wild impact napkin economy copy canvas sausage secret";
+var mnemonic = "void barrel initial cargo antique cheese planet owner swap glad foster coconut";

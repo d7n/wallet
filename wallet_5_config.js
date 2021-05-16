@@ -1,1 +1,1 @@
-var mnemonic = "copper path brisk vicious kid ostrich pyramid infant layer found approve tag";
+var mnemonic = "viable lunar sorry wolf slush pitch knee brother virus icon gaze chest";

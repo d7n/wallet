@@ -1,1 +1,1 @@
-var mnemonic = "vintage harsh inquiry confirm bounce weather pig swear load hood fire smart";
+var mnemonic = "drum always moon language correct purpose twenty fall artwork item fever vessel";

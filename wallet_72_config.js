@@ -1,1 +1,1 @@
-var mnemonic = "involve arena skull canoe recipe struggle cage sausage media ice swallow speed";
+var mnemonic = "dove useful armed certain miss lottery victory leopard embrace guide manage vapor";

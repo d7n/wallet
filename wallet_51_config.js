@@ -1,1 +1,1 @@
-var mnemonic = "sister unlock employ term erode pig glove great bulb use ketchup sunset";
+var mnemonic = "false kit loyal iron scorpion camera bulk wait vicious margin amateur blue";

@@ -1,1 +1,1 @@
-var mnemonic = "mind home leopard absorb park cover rich hair deer sadness agree match";
+var mnemonic = "tape child remain drink you indicate wink foam become return asset gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "boil interest riot patrol hill become hamster wonder company lake coconut arch";
+var mnemonic = "arctic breeze love vast fiber buffalo breeze sudden master mirror flower addict";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo lottery embrace mean ahead quit afraid grace toss trumpet wage lake";
+var mnemonic = "usage member you orchard list humor wear loan tuition brother toilet agree";

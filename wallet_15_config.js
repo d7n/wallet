@@ -1,1 +1,1 @@
-var mnemonic = "much paddle shrug laugh twist aisle paddle solid marriage patrol ugly position";
+var mnemonic = "swamp more side gift guilt craft extend fence wedding frame leg wrestle";

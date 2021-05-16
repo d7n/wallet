@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin satoshi despair sun priority inject improve fall random essence junk toe";
+var mnemonic = "version meat remind ball mention measure mercy gold royal jacket drastic dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito film jaguar belt rent zebra vault eight live resemble chicken jazz";
+var mnemonic = "mouse train rigid faith muscle gorilla wish couple region hurdle will nephew";

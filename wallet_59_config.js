@@ -1,1 +1,1 @@
-var mnemonic = "suit ancient expand regular pear question gorilla shed parrot around buffalo kid";
+var mnemonic = "popular story hedgehog garden planet trouble empower argue boring pet shoe treat";

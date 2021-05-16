@@ -1,1 +1,1 @@
-var mnemonic = "august traffic wreck supply antique novel topic file scissors dutch ankle female";
+var mnemonic = "combine round reveal business tattoo ticket sense young angle viable luggage report";

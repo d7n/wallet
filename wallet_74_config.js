@@ -1,1 +1,1 @@
-var mnemonic = "cycle glare infant scout firm trial outdoor decline vapor farm hospital install";
+var mnemonic = "season august session hub ancient letter ecology utility frown tunnel warfare unique";
