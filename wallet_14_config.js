@@ -1,1 +1,1 @@
-var mnemonic = "dash verb few deputy dog stable swim village regular payment drop evolve";
+var mnemonic = "tonight lounge pretty equal erupt wreck similar safe half reduce february buzz";

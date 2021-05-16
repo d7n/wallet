@@ -1,1 +1,1 @@
-var mnemonic = "inflict input fury hen snake then web school lens deer attend left";
+var mnemonic = "connect just immense kiss pony escape output estate indoor gain poem invest";

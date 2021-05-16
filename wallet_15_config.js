@@ -1,1 +1,1 @@
-var mnemonic = "skill alley hair direct apart festival corn biology network wool inherit suspect";
+var mnemonic = "army release pepper group lawn install drastic riot hold leaf siren dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk frame design camp runway add version season idle noble patrol tell";
+var mnemonic = "penalty photo govern gorilla increase scorpion crouch odor grid hat cabbage velvet";

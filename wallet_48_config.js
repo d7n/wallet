@@ -1,1 +1,1 @@
-var mnemonic = "spare wash fabric boss craft food train depend era bike argue defy";
+var mnemonic = "surface bread rural stereo school track goat fatal emerge meat acquire crack";

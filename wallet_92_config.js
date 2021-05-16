@@ -1,1 +1,1 @@
-var mnemonic = "doctor text tree eager damp clown you dice awake bag similar tooth";
+var mnemonic = "trash bar lesson cannon wood woman voyage harvest have sick loud cake";

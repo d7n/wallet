@@ -1,1 +1,1 @@
-var mnemonic = "drama glare magic can powder wasp wire zoo vacant pelican gas clerk";
+var mnemonic = "siren clump demise hockey robot shoulder wool floor topic awake neck gadget";

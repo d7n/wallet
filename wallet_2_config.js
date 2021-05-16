@@ -1,1 +1,1 @@
-var mnemonic = "school trust someone dog olympic output pepper round thrive easy swap couple";
+var mnemonic = "movie negative nominee nasty panther tiger they feed flavor simple hazard tower";

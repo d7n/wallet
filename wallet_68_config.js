@@ -1,1 +1,1 @@
-var mnemonic = "leader draft aware tower scale cover bulk mirror tonight mule mad grab";
+var mnemonic = "cradle talent road viable token lazy involve dune question aware mom suit";

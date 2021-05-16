@@ -1,1 +1,1 @@
-var mnemonic = "long river gap make police shield wave inmate art allow poet assume";
+var mnemonic = "seminar check undo avoid conduct trash close recipe index cart camp slight";

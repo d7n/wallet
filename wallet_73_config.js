@@ -1,1 +1,1 @@
-var mnemonic = "grow mule sea rubber deer pupil dose garden logic hello prosper jar";
+var mnemonic = "salon expose teach divide doll universe pelican animal naive alter usage develop";

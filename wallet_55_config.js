@@ -1,1 +1,1 @@
-var mnemonic = "deposit choice fragile symbol element manage victory true moment net earth viable";
+var mnemonic = "depart faculty bar work dress dinner episode sample accuse spell bitter remain";

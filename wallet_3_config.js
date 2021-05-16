@@ -1,1 +1,1 @@
-var mnemonic = "lobster expose human ranch vital spike alpha ride spider material dress angle";
+var mnemonic = "shell alone ill develop govern raccoon renew hockey raise tissue year cute";

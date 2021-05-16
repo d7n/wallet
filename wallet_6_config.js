@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stamp electric airport spend menu possible tilt thing accuse spread happy";
+var mnemonic = "behind pulp ritual exhaust celery joy zone essay curious rescue rent wrestle";

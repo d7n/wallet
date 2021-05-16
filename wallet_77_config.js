@@ -1,1 +1,1 @@
-var mnemonic = "begin pencil sentence ball leopard attack taxi shell roof worry goose mention";
+var mnemonic = "diet brisk add unit wonder act favorite embody theme device speed secret";

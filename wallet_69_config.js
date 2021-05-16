@@ -1,1 +1,1 @@
-var mnemonic = "hawk danger stereo outer spare hurt invite edge other gadget recipe typical";
+var mnemonic = "kingdom pulse hip trust rug chapter tank reform pioneer execute luggage crunch";

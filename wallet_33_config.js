@@ -1,1 +1,1 @@
-var mnemonic = "squeeze doll swarm hotel author word travel float hockey merit renew fence";
+var mnemonic = "group breeze world oppose twelve nominee kit whip mixed problem donkey door";

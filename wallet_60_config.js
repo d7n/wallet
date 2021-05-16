@@ -1,1 +1,1 @@
-var mnemonic = "any clever switch ticket heart flame scorpion found lift horse blossom never";
+var mnemonic = "yellow people demise struggle visual debate common will kangaroo prepare enforce cute";

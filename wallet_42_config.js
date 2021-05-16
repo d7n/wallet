@@ -1,1 +1,1 @@
-var mnemonic = "despair simple vehicle pool hidden opera stomach deny tobacco monkey magnet castle";
+var mnemonic = "street myself velvet cargo top deny abstract saddle husband about van cake";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid expire work reason inspire below resist intact game radar eyebrow minute";
+var mnemonic = "crash sound topple scare fortune tennis lend phone camera item rigid brisk";

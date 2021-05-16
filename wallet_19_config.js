@@ -1,1 +1,1 @@
-var mnemonic = "finger robust bamboo bulb rubber culture lion find syrup local dutch various";
+var mnemonic = "awful legal matrix wheat flame ice demise suit baby need able project";

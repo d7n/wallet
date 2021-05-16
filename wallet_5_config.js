@@ -1,1 +1,1 @@
-var mnemonic = "talk price celery angry page devote forum kid dutch poverty essay vital";
+var mnemonic = "carry kit review fit february unfair tape better judge urban false punch";

@@ -1,1 +1,1 @@
-var mnemonic = "slab essence boil milk skirt top punch opinion happy diet relief curve";
+var mnemonic = "clump dose weather glass uniform squirrel silly collect item prevent place entry";

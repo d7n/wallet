@@ -1,1 +1,1 @@
-var mnemonic = "clarify joy force outside bracket mountain master chicken turkey soon habit coral";
+var mnemonic = "almost unveil cigar jealous fancy state nephew lesson transfer face alert race";

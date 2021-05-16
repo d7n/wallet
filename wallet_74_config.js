@@ -1,1 +1,1 @@
-var mnemonic = "change bundle unveil idea pepper remove dust embark reduce call brave believe";
+var mnemonic = "sick cup head siege range solve upon voice kit license baby hip";

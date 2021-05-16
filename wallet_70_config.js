@@ -1,1 +1,1 @@
-var mnemonic = "inflict shuffle village laundry elephant rely gravity devote negative useful raccoon shrimp";
+var mnemonic = "dizzy letter wage health ribbon picture loop real artwork like blame snack";

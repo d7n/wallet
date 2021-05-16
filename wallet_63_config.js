@@ -1,1 +1,1 @@
-var mnemonic = "gift captain act remove still improve season violin infant nest mass ramp";
+var mnemonic = "stadium plastic depend industry shine quit edit faculty fruit skate cargo valid";

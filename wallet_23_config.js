@@ -1,1 +1,1 @@
-var mnemonic = "chronic rhythm opinion cloud bomb special bean banner strategy february silver orient";
+var mnemonic = "cruel carbon renew differ luxury edge junior cram priority blame square enact";

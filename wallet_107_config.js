@@ -1,1 +1,1 @@
-var mnemonic = "sugar young truth truly perfect club program visa cake stool enjoy shrug";
+var mnemonic = "cheap latin item vote hill journey addict busy shield uniform immune order";

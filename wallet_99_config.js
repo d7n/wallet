@@ -1,1 +1,1 @@
-var mnemonic = "nothing swift fine side swamp core slice bubble salad lizard step pact";
+var mnemonic = "cage tenant margin crop style coil carry vendor energy atom symbol device";

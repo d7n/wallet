@@ -1,1 +1,1 @@
-var mnemonic = "future tooth gaze stove around want vintage almost what quality inner cause";
+var mnemonic = "team annual taste wheat corn tag sad heart nice explain tone lounge";

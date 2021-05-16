@@ -1,1 +1,1 @@
-var mnemonic = "screen hold market estate opinion anxiety eyebrow guitar bulk quote leisure rate";
+var mnemonic = "sell flight food perfect couch thumb father truck express erosion juice drama";

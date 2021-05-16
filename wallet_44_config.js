@@ -1,1 +1,1 @@
-var mnemonic = "random axis intact panic bronze calm canyon broken glad rich occur novel";
+var mnemonic = "trophy illness broom dog drift off disagree ketchup clean own rough topic";

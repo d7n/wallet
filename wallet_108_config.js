@@ -1,1 +1,1 @@
-var mnemonic = "marriage tail length inch history budget woman vague industry live process guess";
+var mnemonic = "consider copper material voice praise credit license order deputy car pistol sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy follow endorse kidney flavor napkin hold trade lesson trip satoshi sister";
+var mnemonic = "carpet lawsuit rain defy quick oxygen witness actor wide company panel tribe";

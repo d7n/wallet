@@ -1,1 +1,1 @@
-var mnemonic = "apple profit language rigid uniform time salmon hold replace orbit glove foot";
+var mnemonic = "write crane avocado index six series just parade daughter cook such earn";

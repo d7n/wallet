@@ -1,1 +1,1 @@
-var mnemonic = "grit close grab exist debris clay boil history awkward harvest aware tiny";
+var mnemonic = "skill exchange grocery define above quote sense suit asset retreat prepare brother";

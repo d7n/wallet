@@ -1,1 +1,1 @@
-var mnemonic = "secret broccoli wage initial sport require increase receive churn cash wish middle";
+var mnemonic = "clump meadow spatial question clip resist citizen ordinary equal gaze state check";

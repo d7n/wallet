@@ -1,1 +1,1 @@
-var mnemonic = "bundle panther visit skull autumn cruel twist coral mammal stove push east";
+var mnemonic = "change safe moral quantum apple vacuum fan enlist jacket anchor noble manual";

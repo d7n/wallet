@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sure install fluid fish airport utility error mobile obvious sadness filter";
+var mnemonic = "ramp grace flip harsh buddy clean bread tag purchase surface decide fish";

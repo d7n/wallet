@@ -1,1 +1,1 @@
-var mnemonic = "interest team tourist expand multiply also tooth online chunk enhance actor then";
+var mnemonic = "denial spice width yard found muscle host near category alarm then mango";

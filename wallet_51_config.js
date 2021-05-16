@@ -1,1 +1,1 @@
-var mnemonic = "cupboard any grain flame original air budget dad abstract reward cruise noodle";
+var mnemonic = "forward pond canal horse gentle nest solid amazing else grunt spy over";

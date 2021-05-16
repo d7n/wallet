@@ -1,1 +1,1 @@
-var mnemonic = "carbon legend desert clay couch odor scene grant draw suffer damage negative";
+var mnemonic = "fabric venture nest story similar favorite tail sudden pelican hazard bean dove";

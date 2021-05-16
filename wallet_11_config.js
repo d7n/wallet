@@ -1,1 +1,1 @@
-var mnemonic = "milk canoe slot force crack panda satisfy empower hamster domain march drive";
+var mnemonic = "race snake damp citizen silver immense tumble word already focus topple mask";

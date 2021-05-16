@@ -1,1 +1,1 @@
-var mnemonic = "dance joke blade knock shy random owner bleak useful upper artist series";
+var mnemonic = "fun point decide purse bronze bounce couple vessel fossil tomorrow program hen";

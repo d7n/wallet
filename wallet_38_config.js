@@ -1,1 +1,1 @@
-var mnemonic = "apple target there please olive orbit resource silver between napkin left sleep";
+var mnemonic = "holiday rebel left skull struggle fetch sorry crowd river view prevent course";

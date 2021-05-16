@@ -1,1 +1,1 @@
-var mnemonic = "answer shrimp fatal snake clown proud giggle host galaxy differ decrease tilt";
+var mnemonic = "middle bargain vanish promote situate forward junior vendor wagon proof pair session";

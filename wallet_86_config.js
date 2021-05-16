@@ -1,1 +1,1 @@
-var mnemonic = "between finger bread green often deny churn surprise prison limb leg unveil";
+var mnemonic = "brisk monster rather output canal grid mind kit toast possible blade curve";

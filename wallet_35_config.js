@@ -1,1 +1,1 @@
-var mnemonic = "noodle tenant long shock craft toy pause shoulder twelve rival culture proud";
+var mnemonic = "erosion lounge stage catalog pioneer excite lucky lazy stumble hero deputy release";

@@ -1,1 +1,1 @@
-var mnemonic = "joke brain health report clump betray potato hover weapon skull soccer aunt";
+var mnemonic = "loud velvet clarify carpet usage jazz stand before poet unveil camera appear";

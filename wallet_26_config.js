@@ -1,1 +1,1 @@
-var mnemonic = "injury ritual betray gift minor key tackle eagle afraid aware donkey caution";
+var mnemonic = "unusual olive test swim maximum olympic case social castle yard shaft sadness";

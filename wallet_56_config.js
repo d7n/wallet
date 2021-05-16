@@ -1,1 +1,1 @@
-var mnemonic = "clean rural way tourist wet fantasy length fun gold volume inmate drill";
+var mnemonic = "original aerobic virtual picnic fiction brave deliver faint ginger pull stone security";

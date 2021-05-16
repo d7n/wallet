@@ -1,1 +1,1 @@
-var mnemonic = "end obtain tiger cover raise wrong tide sort sheriff flee friend fall";
+var mnemonic = "hope opera loud road sugar clay two giraffe finger group picture dirt";

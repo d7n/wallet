@@ -1,1 +1,1 @@
-var mnemonic = "diagram arrange mass scare dinner pig weird fork develop muscle various traffic";
+var mnemonic = "salon category clump pony kid exotic art small race survey radio snow";

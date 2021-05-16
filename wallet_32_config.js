@@ -1,1 +1,1 @@
-var mnemonic = "hunt soldier wreck imitate script brain cave silent aunt ginger fiscal chest";
+var mnemonic = "purchase wisdom blanket buzz decide avoid medal must dizzy celery lunch foster";

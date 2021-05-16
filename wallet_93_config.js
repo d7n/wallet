@@ -1,1 +1,1 @@
-var mnemonic = "language subject captain stick young ozone impulse address safe plug guess ecology";
+var mnemonic = "diary that daughter digital drum bar process spirit chapter soldier hip adult";

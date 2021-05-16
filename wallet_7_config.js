@@ -1,1 +1,1 @@
-var mnemonic = "spell pair shell dirt best result tank seed panda peanut theory surface";
+var mnemonic = "differ approve puppy still must grass hair spice bag slam climb arm";

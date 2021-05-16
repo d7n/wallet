@@ -1,1 +1,1 @@
-var mnemonic = "stem can else swap shoe drink frame polar aware panel nice regular";
+var mnemonic = "sleep fossil someone day horn fortune exile where file cheap pond garbage";

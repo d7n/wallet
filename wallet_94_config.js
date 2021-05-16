@@ -1,1 +1,1 @@
-var mnemonic = "used vendor public vote blast victory digital voice rather load spy reflect";
+var mnemonic = "casino estate pull pet select page laptop depart add genre ginger vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "rack useful pulp board frog breeze liquid grit unveil garden tumble vanish";
+var mnemonic = "latin half arrest mandate remain fringe wine tackle intact keen garage spot";

@@ -1,1 +1,1 @@
-var mnemonic = "burger sand alcohol alien glory expect differ mango bronze merge lunch hello";
+var mnemonic = "suit pioneer muffin someone armed earn tobacco oxygen tail today jaguar voice";

@@ -1,1 +1,1 @@
-var mnemonic = "caution history walnut hurt typical consider kitchen route monitor green lunch shove";
+var mnemonic = "spray early size warfare hill jazz talent orange settle slim expose okay";

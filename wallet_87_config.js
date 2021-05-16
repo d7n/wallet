@@ -1,1 +1,1 @@
-var mnemonic = "churn never tower sunset detect cannon stick announce life board exile resource";
+var mnemonic = "believe eternal consider weasel glide forest check senior airport manage pitch strike";

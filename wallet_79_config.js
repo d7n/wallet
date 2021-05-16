@@ -1,1 +1,1 @@
-var mnemonic = "digital echo dismiss learn nephew mouse fitness wasp stand sail crime goat";
+var mnemonic = "awesome bacon tag mass taste unique census quality reduce mountain repeat fault";

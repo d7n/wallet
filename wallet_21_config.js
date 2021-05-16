@@ -1,1 +1,1 @@
-var mnemonic = "weasel notable cereal catch bronze turtle security wrist inner novel venture napkin";
+var mnemonic = "what isolate suffer flash smoke anchor regular neglect enlist belt taste veteran";

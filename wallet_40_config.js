@@ -1,1 +1,1 @@
-var mnemonic = "stove phrase basket utility come knock leaf sentence retreat kite apart arrange";
+var mnemonic = "angle rich hedgehog profit whale local couple figure wine vicious buddy limb";

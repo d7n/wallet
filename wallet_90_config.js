@@ -1,1 +1,1 @@
-var mnemonic = "scan normal fantasy van boring napkin estate tonight must either rival dove";
+var mnemonic = "put lift rate tunnel aim dutch random crash car quality pride cube";

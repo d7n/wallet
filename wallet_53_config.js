@@ -1,1 +1,1 @@
-var mnemonic = "shallow park oppose globe offer chimney uphold smart sausage start asthma desert";
+var mnemonic = "crunch moral cash symptom ordinary topic drop design panda tree weather dial";

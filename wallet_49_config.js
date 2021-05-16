@@ -1,1 +1,1 @@
-var mnemonic = "since march improve guilt supply census boring teach skill crisp style ozone";
+var mnemonic = "release donor bless pilot umbrella tornado bulk pencil admit chalk place exact";

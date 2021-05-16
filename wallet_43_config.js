@@ -1,1 +1,1 @@
-var mnemonic = "sock student recall faculty vessel surface apology key oil letter tissue vacant";
+var mnemonic = "weather athlete cool define essay enlist behave axis slender index exhaust absorb";

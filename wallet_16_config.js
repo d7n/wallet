@@ -1,1 +1,1 @@
-var mnemonic = "digital chunk question author whale banana genius hour soda shy wood strategy";
+var mnemonic = "engage unit barely speak clinic firm trash stumble frequent mobile chicken decide";

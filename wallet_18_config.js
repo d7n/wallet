@@ -1,1 +1,1 @@
-var mnemonic = "sand loud response minute orchard atom faint six wheel dad antique curious";
+var mnemonic = "enough clap juice predict patch biology below fury lab salad turn bid";

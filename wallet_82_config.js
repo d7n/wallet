@@ -1,1 +1,1 @@
-var mnemonic = "absorb because device baby engage dose calm decorate leopard cloud labor like";
+var mnemonic = "novel frog acquire host lunar relief happy spot fog country sail amazing";

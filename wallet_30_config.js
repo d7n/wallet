@@ -1,1 +1,1 @@
-var mnemonic = "adult chunk business clutch drift barely obtain home torch rural impose dynamic";
+var mnemonic = "buddy they patrol sock check visit badge obvious shove task brief approve";

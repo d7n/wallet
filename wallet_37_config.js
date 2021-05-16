@@ -1,1 +1,1 @@
-var mnemonic = "method palm april remember fiscal consider lounge asthma achieve pyramid copper exit";
+var mnemonic = "switch mail boat curve pony orange soul approve tone monitor media need";

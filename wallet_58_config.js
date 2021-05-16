@@ -1,1 +1,1 @@
-var mnemonic = "engage company sphere tomato beef weekend syrup poet normal hotel daughter rally";
+var mnemonic = "school impact nominee dirt quarter chicken venue pill they enrich trumpet scale";

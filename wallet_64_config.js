@@ -1,1 +1,1 @@
-var mnemonic = "wink juice hidden corn chef museum change recall genre embody return rebuild";
+var mnemonic = "acoustic afford atom bus kingdom august indicate bird inner alert sight symptom";

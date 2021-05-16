@@ -1,1 +1,1 @@
-var mnemonic = "nothing harbor frame dragon ribbon border melody call belt butter indicate zebra";
+var mnemonic = "tower april mechanic rain evil little buddy skill noise neck often absurd";

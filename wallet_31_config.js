@@ -1,1 +1,1 @@
-var mnemonic = "physical glass cart material ceiling drive space enemy cliff tuna life primary";
+var mnemonic = "husband live pioneer assume owner ridge color eager entry firm rate job";

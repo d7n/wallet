@@ -1,1 +1,1 @@
-var mnemonic = "brass mind ugly essence skull verb frost coin bid dash west pilot";
+var mnemonic = "move neither arrest toy core suffer rigid stock satisfy leopard item tree";

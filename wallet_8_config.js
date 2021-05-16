@@ -1,1 +1,1 @@
-var mnemonic = "resource beyond mail amazing sea spare spend trouble deny focus rain before";
+var mnemonic = "grape episode pool thunder wine north spin apple swallow regular cycle chunk";

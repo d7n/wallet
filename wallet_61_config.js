@@ -1,1 +1,1 @@
-var mnemonic = "plunge school rough involve assault goddess laptop field gloom foil obey game";
+var mnemonic = "join pony mammal bread error guitar amount idle jeans palace expire rotate";

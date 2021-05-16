@@ -1,1 +1,1 @@
-var mnemonic = "truth mass level climb lumber parade decline top index visit useless master";
+var mnemonic = "arch peasant other sniff upon river happy mobile session jelly scan laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "mix arm behind enhance merge thrive pause face wrap spoil raven meadow";
+var mnemonic = "remove elite auto surprise stereo find gauge link crater rich cement busy";
