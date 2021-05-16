@@ -1,1 +1,1 @@
-var mnemonic = "just patch unaware brick plastic diagram sign egg scissors twenty slush palm";
+var mnemonic = "net subway ship good drive purse cotton distance winter possible unusual process";

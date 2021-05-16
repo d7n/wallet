@@ -1,1 +1,1 @@
-var mnemonic = "secret upon rough unfair know improve upon safe soldier casino title grass";
+var mnemonic = "unfair frog shallow record enforce innocent simple orange demise squirrel man equip";

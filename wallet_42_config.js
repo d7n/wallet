@@ -1,1 +1,1 @@
-var mnemonic = "dry gun promote office junior saddle cook muscle move fox situate blade";
+var mnemonic = "goddess retire garment toy scatter reflect series edit shine silk crime crisp";

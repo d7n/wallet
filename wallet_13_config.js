@@ -1,1 +1,1 @@
-var mnemonic = "picnic tonight intact wood universe hover abuse useless radio husband black eagle";
+var mnemonic = "essay onion bulb ahead lesson case gather cause bean engine bulk output";

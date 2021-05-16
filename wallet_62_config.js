@@ -1,1 +1,1 @@
-var mnemonic = "crystal intact math equal army fossil select save milk change way family";
+var mnemonic = "surprise gadget swap ability ill index elder veteran public dune casual false";

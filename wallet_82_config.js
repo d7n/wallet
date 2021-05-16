@@ -1,1 +1,1 @@
-var mnemonic = "faith humble install frame royal demise identify three tomato plastic stomach honey";
+var mnemonic = "dirt head diamond raw castle february diagram barrel output pilot lonely parrot";

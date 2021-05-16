@@ -1,1 +1,1 @@
-var mnemonic = "swear impact random sugar repeat canal jacket mask rely type list shine";
+var mnemonic = "captain purpose holiday always second salute diamond lift over afraid stove devote";

@@ -1,1 +1,1 @@
-var mnemonic = "rely slow also radio piece review unknown emotion army aspect advance letter";
+var mnemonic = "keen connect unhappy fuel swim innocent dwarf guilt field leisure pony wife";

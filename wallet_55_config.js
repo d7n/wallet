@@ -1,1 +1,1 @@
-var mnemonic = "switch female spot good lift stomach over search answer swamp raw bid";
+var mnemonic = "pulp alien essay capital try razor twice setup turkey super name hub";

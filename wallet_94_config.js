@@ -1,1 +1,1 @@
-var mnemonic = "actor enter festival anchor fee tuna age negative still turn boss diet";
+var mnemonic = "stem wing limit someone mountain fog physical naive flag proud romance almost";

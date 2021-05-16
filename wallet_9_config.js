@@ -1,1 +1,1 @@
-var mnemonic = "discover broom crime shy enroll capital stadium message civil latin traffic layer";
+var mnemonic = "upper inherit neutral rely celery grab rack scale shine damage twelve table";

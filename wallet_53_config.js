@@ -1,1 +1,1 @@
-var mnemonic = "buzz toss unhappy rubber label aisle sugar stay horn issue tank vibrant";
+var mnemonic = "hungry treat annual coconut poem return goose elder guard wage hip horse";

@@ -1,1 +1,1 @@
-var mnemonic = "animal galaxy just animal chalk frog stay obvious that faculty wire fence";
+var mnemonic = "timber wedding gauge ice suspect shallow match math stomach license series prize";

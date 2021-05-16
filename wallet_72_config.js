@@ -1,1 +1,1 @@
-var mnemonic = "maze receive dove mammal glass grit organ copper seed affair effort much";
+var mnemonic = "vapor spider rich crash marble ozone mango verb arrest unaware swamp cat";

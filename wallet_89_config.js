@@ -1,1 +1,1 @@
-var mnemonic = "breeze clean hungry old autumn finger inspire age steel luggage lion dragon";
+var mnemonic = "spider summer mushroom soldier various ankle coconut creek report crouch dance rose";

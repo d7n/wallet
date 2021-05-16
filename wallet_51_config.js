@@ -1,1 +1,1 @@
-var mnemonic = "medal april mixed ticket motor sponsor average differ resemble during orchard fix";
+var mnemonic = "maple welcome push current balance they real odor venue century almost ceiling";

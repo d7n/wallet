@@ -1,1 +1,1 @@
-var mnemonic = "will taxi guess indicate call circle drip garden episode lawsuit dismiss strike";
+var mnemonic = "useful still woman whisper obey shoe license appear discover process salmon stable";

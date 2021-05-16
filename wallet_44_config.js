@@ -1,1 +1,1 @@
-var mnemonic = "kidney riot toilet orange gadget scrub illegal base envelope entire mule ridge";
+var mnemonic = "nation stool arrest equal cruise enrich physical slide deal badge blame fluid";

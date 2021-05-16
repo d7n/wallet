@@ -1,1 +1,1 @@
-var mnemonic = "journey plunge lake lunch magic curtain shove under portion floor heart unique";
+var mnemonic = "mushroom differ doctor ancient sponsor paper meat enemy february argue afford drink";

@@ -1,1 +1,1 @@
-var mnemonic = "engage scan genuine lunar grid pull moral fringe able indoor vapor practice";
+var mnemonic = "impulse bread rice open limb liquid enable spoil fiber mushroom sweet insane";

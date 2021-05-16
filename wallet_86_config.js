@@ -1,1 +1,1 @@
-var mnemonic = "hat height demand wait possible skull elevator ordinary add round spray always";
+var mnemonic = "nuclear chronic mountain inspire genuine another float film model alarm pony smoke";

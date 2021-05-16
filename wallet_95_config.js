@@ -1,1 +1,1 @@
-var mnemonic = "vehicle menu impose vote protect math box network together flower muffin body";
+var mnemonic = "file subject ridge deny sting notice orchard remove trip enforce come desk";

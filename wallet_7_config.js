@@ -1,1 +1,1 @@
-var mnemonic = "film coyote sketch skate come anchor agent weekend such icon bicycle coin";
+var mnemonic = "degree educate crisp minor skirt grace slow dog plate volcano palm force";

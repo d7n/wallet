@@ -1,1 +1,1 @@
-var mnemonic = "bitter lens involve gentle diet coin game photo moral opera aspect tuna";
+var mnemonic = "modify evolve exchange enhance guitar manual winner alien soccer skirt dinner secret";

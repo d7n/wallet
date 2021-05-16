@@ -1,1 +1,1 @@
-var mnemonic = "invite logic emerge team shrimp license clerk visa because shoe audit cat";
+var mnemonic = "donate ask rabbit eager cheap chase spoil caught inmate steel wave there";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon duty cry flush used ability course actress fee aisle genre public";
+var mnemonic = "hidden monkey high arctic remain way foot olympic two comic perfect same";

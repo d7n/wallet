@@ -1,1 +1,1 @@
-var mnemonic = "bullet wave mad chest meadow pretty artwork tiny tiger wrestle border arch";
+var mnemonic = "talent give jaguar roof odor surge mean basic treat border still oak";

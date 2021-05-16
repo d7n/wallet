@@ -1,1 +1,1 @@
-var mnemonic = "tank move ozone enlist sugar nothing column alarm remember collect buddy slim";
+var mnemonic = "split melody estate capable immune real gather walnut response indoor universe desert";

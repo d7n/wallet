@@ -1,1 +1,1 @@
-var mnemonic = "priority panic rose tongue success brief wall ready cook nest siege opinion";
+var mnemonic = "mule version truth virtual praise glory shoot that rescue aware radar option";

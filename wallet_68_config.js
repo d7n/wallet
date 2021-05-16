@@ -1,1 +1,1 @@
-var mnemonic = "found marriage another decorate call frozen never swing talk ring endless ramp";
+var mnemonic = "alcohol congress rug link engage clump borrow enlist common firm cloth dune";

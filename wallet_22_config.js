@@ -1,1 +1,1 @@
-var mnemonic = "thunder fantasy coconut anger orbit tape camp divide extend claim trust tobacco";
+var mnemonic = "brass pact stairs swing impulse call immune embrace goddess humble blind horror";

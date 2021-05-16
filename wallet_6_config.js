@@ -1,1 +1,1 @@
-var mnemonic = "weekend student general someone merit crop harsh evidence slush pitch feel dynamic";
+var mnemonic = "general situate guilt result walnut barely guide desk dizzy ride brave permit";

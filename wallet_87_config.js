@@ -1,1 +1,1 @@
-var mnemonic = "yard humor popular stand lucky discover split pride liar they antique giggle";
+var mnemonic = "stand evidence weekend elbow educate vicious hire also burst fuel era silver";

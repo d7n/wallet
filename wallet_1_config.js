@@ -1,1 +1,1 @@
-var mnemonic = "print because despair gold flag diamond reopen dish private winner reopen still";
+var mnemonic = "try apple surround cat category tuition alcohol sting annual mad property patch";

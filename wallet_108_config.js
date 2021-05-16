@@ -1,1 +1,1 @@
-var mnemonic = "symptom figure visit bless harsh solve poem mistake cloud front sun point";
+var mnemonic = "turkey hobby enable shrug very deputy civil yard this diesel sustain robot";

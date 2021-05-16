@@ -1,1 +1,1 @@
-var mnemonic = "jewel affair salmon excite ahead stage core usage whisper call action slot";
+var mnemonic = "machine buddy pudding nothing civil author rack unlock traffic danger bracket isolate";

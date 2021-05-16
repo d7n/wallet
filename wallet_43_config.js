@@ -1,1 +1,1 @@
-var mnemonic = "worry catch argue mad end eye oxygen traffic witness stereo upon media";
+var mnemonic = "name practice arm reunion ride pole congress fever hill genius race service";

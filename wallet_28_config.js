@@ -1,1 +1,1 @@
-var mnemonic = "fortune swim regret theme nice mountain wait eye soft almost pipe idea";
+var mnemonic = "situate zoo dose scrap lock room stick spoil bamboo menu jazz pipe";

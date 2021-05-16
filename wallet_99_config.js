@@ -1,1 +1,1 @@
-var mnemonic = "pistol give couch seminar tag behind mammal exact win pig weekend portion";
+var mnemonic = "list witness come input charge jelly bright marine chunk have reflect brain";

@@ -1,1 +1,1 @@
-var mnemonic = "valid ivory assault review twenty reduce fabric little kick connect uphold cruise";
+var mnemonic = "bike nephew blush cool faint path clarify topple enlist busy negative original";

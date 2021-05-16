@@ -1,1 +1,1 @@
-var mnemonic = "vendor cargo concert casino define truth pottery floor affair sentence happy deer";
+var mnemonic = "tide artwork torch boy express kick menu slender chalk circle help minor";

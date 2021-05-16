@@ -1,1 +1,1 @@
-var mnemonic = "carry find stable input agent vacant attack chair whale pilot sock urge";
+var mnemonic = "always nose help two apology task over pig unable crucial success phone";

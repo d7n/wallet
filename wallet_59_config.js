@@ -1,1 +1,1 @@
-var mnemonic = "increase antique divide easy liquid spirit crack rescue strong board picnic light";
+var mnemonic = "police blanket tail smoke table minor chunk foam give hope where stereo";

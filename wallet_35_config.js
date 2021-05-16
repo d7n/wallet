@@ -1,1 +1,1 @@
-var mnemonic = "jeans indicate market forest hip entry lyrics remind prosper worry kitten subway";
+var mnemonic = "renew sketch corn smile exercise jacket field muffin flip desk seek save";

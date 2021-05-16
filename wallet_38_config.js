@@ -1,1 +1,1 @@
-var mnemonic = "also garbage coral laptop novel rookie spend wool lunch squeeze utility acquire";
+var mnemonic = "economy turkey pencil require access cabbage scorpion order census wine loan engage";

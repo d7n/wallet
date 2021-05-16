@@ -1,1 +1,1 @@
-var mnemonic = "police equip before master job cover radar dry onion swing decide goddess";
+var mnemonic = "tribe cross child tiger link trade client energy wrist song bone zero";

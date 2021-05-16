@@ -1,1 +1,1 @@
-var mnemonic = "tissue erase exist rule smart ticket never month hen shiver follow year";
+var mnemonic = "canyon hello pipe breeze about diagram deny ring segment photo anxiety flash";

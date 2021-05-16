@@ -1,1 +1,1 @@
-var mnemonic = "middle myself gesture enjoy eyebrow bag ordinary asset network access cabin actual";
+var mnemonic = "offer believe parade unfair catch stool excuse budget duty tent survey swift";

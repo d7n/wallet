@@ -1,1 +1,1 @@
-var mnemonic = "security illegal ahead verify rally maximum document barely borrow enable host hammer";
+var mnemonic = "ritual rebel join unaware believe sunset neutral winner lamp gift economy predict";

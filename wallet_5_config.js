@@ -1,1 +1,1 @@
-var mnemonic = "weekend mouse pet raccoon oil beyond never protect beef company frost across";
+var mnemonic = "finger hello abstract salad employ predict electric insane crucial act impulse belt";

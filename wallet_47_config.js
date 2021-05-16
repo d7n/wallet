@@ -1,1 +1,1 @@
-var mnemonic = "swallow portion common elephant life dice verify there prevent muscle want hidden";
+var mnemonic = "rain file million nature move patrol muffin canvas silver leave mixture donor";

@@ -1,1 +1,1 @@
-var mnemonic = "stay page load odor paper black uphold tragic danger cloud bid inner";
+var mnemonic = "cement ripple kiwi link enrich exit ridge knee dismiss advice settle soda";

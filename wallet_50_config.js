@@ -1,1 +1,1 @@
-var mnemonic = "twin topic result prison adapt rack lucky manage special bean iron timber";
+var mnemonic = "game region exact huge bomb visual swarm floor canoe margin march derive";

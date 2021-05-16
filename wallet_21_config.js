@@ -1,1 +1,1 @@
-var mnemonic = "upset budget salmon helmet very icon version marble mass car have ring";
+var mnemonic = "slush palm ceiling flame basket mother behave veteran claw various verify width";

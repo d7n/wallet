@@ -1,1 +1,1 @@
-var mnemonic = "truth orchard unaware battle sound notice surround solid tourist slab pepper uphold";
+var mnemonic = "friend prefer alpha explain sun mosquito enrich idea poverty sister desk vital";

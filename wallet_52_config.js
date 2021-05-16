@@ -1,1 +1,1 @@
-var mnemonic = "drop rose name credit ghost follow huge label tourist web wear yard";
+var mnemonic = "slide response peasant vital swim pride water glue quiz catalog twice portion";

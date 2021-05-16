@@ -1,1 +1,1 @@
-var mnemonic = "hamster use scene prevent elegant modify fog miracle kite extra witness task";
+var mnemonic = "mandate coconut dutch put few crop earth swim lawsuit gadget west rail";

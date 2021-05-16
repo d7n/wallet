@@ -1,1 +1,1 @@
-var mnemonic = "story annual basic casual squeeze kidney diagram deposit hundred wise oblige public";
+var mnemonic = "machine bronze planet audit because negative curtain machine speed lunar gather mule";

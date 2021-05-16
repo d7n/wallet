@@ -1,1 +1,1 @@
-var mnemonic = "army bitter exotic guilt chair surround square leg clever enact armed renew";
+var mnemonic = "funny trouble tail spare parent hospital isolate candy dog jewel melody runway";

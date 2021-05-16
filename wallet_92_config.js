@@ -1,1 +1,1 @@
-var mnemonic = "cube special fancy fancy disorder silver park brand found paper across stable";
+var mnemonic = "maze pigeon party civil rather adjust garage neglect area blanket test follow";

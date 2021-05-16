@@ -1,1 +1,1 @@
-var mnemonic = "make web vote mouse melody push copy spike fault eight clog lizard";
+var mnemonic = "animal habit gallery artefact chat grant hello eyebrow ceiling leader expect endless";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster winner crouch proud acoustic birth blush rich hill pledge door dial";
+var mnemonic = "dish nose pair cruel fortune foil age runway stock inform brand text";

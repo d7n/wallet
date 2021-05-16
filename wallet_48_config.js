@@ -1,1 +1,1 @@
-var mnemonic = "bind siren winter right seven lobster plug punch chicken educate urge bike";
+var mnemonic = "alter exile wrap canvas industry corn vehicle sphere timber crouch mom vicious";

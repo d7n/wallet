@@ -1,1 +1,1 @@
-var mnemonic = "tuition sponsor expire cage mention fuel cheese control east nasty shuffle olympic";
+var mnemonic = "legal captain fringe energy sound search rural can object window toss leader";

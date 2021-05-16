@@ -1,1 +1,1 @@
-var mnemonic = "fee bless kangaroo youth erase trophy exclude entire lounge render unhappy faith";
+var mnemonic = "near record spoil notice core view tonight neutral rice month velvet impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "kind goddess bracket debris scrub truck speed ketchup require evoke dawn ridge";
+var mnemonic = "universe pass bicycle verify document garlic stock loop survey holiday about lion";

@@ -1,1 +1,1 @@
-var mnemonic = "open shiver left track plate scrub calm exact trumpet term antenna neutral";
+var mnemonic = "before feed approve shock heart vintage task ugly limb silver height decrease";

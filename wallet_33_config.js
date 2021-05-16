@@ -1,1 +1,1 @@
-var mnemonic = "keen join table shrug denial entire body unit dwarf shove rifle will";
+var mnemonic = "hope undo steel subject fantasy double enrich virus labor panther unfold prevent";

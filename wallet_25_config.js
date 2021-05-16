@@ -1,1 +1,1 @@
-var mnemonic = "future scene victory glad country next right mention violin canoe stove unlock";
+var mnemonic = "mobile supply recycle trip dish spatial innocent voice divert tool upgrade wealth";

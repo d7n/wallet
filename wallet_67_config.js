@@ -1,1 +1,1 @@
-var mnemonic = "produce glue mutual boy profit valid forest volume force build will tumble";
+var mnemonic = "chunk pool letter pill clutch around pelican drill midnight hedgehog hour believe";

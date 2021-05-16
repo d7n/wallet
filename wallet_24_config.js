@@ -1,1 +1,1 @@
-var mnemonic = "reopen toast olive era raise chronic document alter gadget sorry useful arch";
+var mnemonic = "great mansion simple obey cushion pumpkin aware harbor owner knife work chef";

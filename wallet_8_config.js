@@ -1,1 +1,1 @@
-var mnemonic = "funny grunt wisdom jelly detect bridge inflict carry safe violin smart attitude";
+var mnemonic = "execute weird ship blade oval safe six you document spice misery salad";

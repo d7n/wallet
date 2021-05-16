@@ -1,1 +1,1 @@
-var mnemonic = "crunch desk return seek comfort village paddle empty bless neck start strike";
+var mnemonic = "volcano lawsuit bulk tiny cute purpose material alcohol digital verb quarter above";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap pigeon unit frequent mix liquid vibrant own host envelope ridge bonus";
+var mnemonic = "emerge history under exclude prosper loan another super found sad income little";

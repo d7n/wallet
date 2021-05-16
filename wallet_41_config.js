@@ -1,1 +1,1 @@
-var mnemonic = "gasp sand hair exhaust leopard slide achieve squirrel goat rice invest half";
+var mnemonic = "vacuum toy organ turtle river install swap extend skirt ghost cluster poem";

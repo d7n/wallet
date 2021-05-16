@@ -1,1 +1,1 @@
-var mnemonic = "health despair ethics month oppose notice donate citizen atom doctor manage train";
+var mnemonic = "claim behave use limb ranch girl verify sort exhibit section twelve glance";

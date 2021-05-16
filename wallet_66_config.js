@@ -1,1 +1,1 @@
-var mnemonic = "tunnel dash palace order kiwi dolphin cushion tuna chief vapor toilet abandon";
+var mnemonic = "eager step cage cream sight absurd morning before ignore shine source name";

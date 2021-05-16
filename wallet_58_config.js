@@ -1,1 +1,1 @@
-var mnemonic = "panel upset crop evoke nature lock garment rebuild churn cook pill fatal";
+var mnemonic = "tattoo grocery ski century antenna interest enhance edit leader orbit tray leg";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual tornado black race orchard need federal author method vote pill wire";
+var mnemonic = "prevent elbow sniff plunge tackle wage trigger door blossom tonight tower kick";

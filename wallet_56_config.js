@@ -1,1 +1,1 @@
-var mnemonic = "erode bridge inspire couch govern nerve blame senior differ excuse door book";
+var mnemonic = "slight human slush lady daring antique public all bitter valley need cannon";

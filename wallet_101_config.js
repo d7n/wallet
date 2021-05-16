@@ -1,1 +1,1 @@
-var mnemonic = "tumble know chase glove trigger gold captain raven inherit cry hair review";
+var mnemonic = "similar tribe adjust father typical census gap hidden claim transfer thunder brisk";

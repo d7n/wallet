@@ -1,1 +1,1 @@
-var mnemonic = "during public expose fine plunge random uniform rude flame argue virtual metal";
+var mnemonic = "bacon version figure over flat zero volcano paper express grunt depth shoe";

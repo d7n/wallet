@@ -1,1 +1,1 @@
-var mnemonic = "guilt tail crystal census rare lyrics pet harsh mirror smart hungry kidney";
+var mnemonic = "gold test emerge puzzle roof voice spike betray broken nephew merit usage";

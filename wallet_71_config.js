@@ -1,1 +1,1 @@
-var mnemonic = "filter exclude elevator cigar nation tragic lucky small napkin swamp slogan clerk";
+var mnemonic = "peace matrix steel enroll boy trim guitar wink lab apology flight cable";

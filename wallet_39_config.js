@@ -1,1 +1,1 @@
-var mnemonic = "idle huge exhaust polar trash daughter spot defy live awesome refuse barrel";
+var mnemonic = "review ski average virus hen neutral step about laundry expect stereo canal";

@@ -1,1 +1,1 @@
-var mnemonic = "minute gain day fringe wheat pair ginger busy field section duck coach";
+var mnemonic = "praise two then venue plunge gaze lounge among bracket coil tomato wave";

@@ -1,1 +1,1 @@
-var mnemonic = "join bridge castle beach hub sail clutch acoustic muscle portion tonight cart";
+var mnemonic = "over sea clock point coach dolphin pipe mind unique december budget custom";

@@ -1,1 +1,1 @@
-var mnemonic = "punch ribbon clarify glad feed original animal flash weird manage syrup purchase";
+var mnemonic = "spread curious matter because foster resist orbit attend choice elder return oven";

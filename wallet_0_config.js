@@ -1,1 +1,1 @@
-var mnemonic = "vault trap soda jar fold hybrid olympic tell despair problem lift fog";
+var mnemonic = "cube record pipe federal correct beyond ride gold produce spoil width muffin";
