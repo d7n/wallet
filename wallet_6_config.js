@@ -1,1 +1,1 @@
-var mnemonic = "ship dog spawn tired letter swallow oven vault broken arctic zoo mistake";
+var mnemonic = "boost dutch wisdom glue figure antenna coconut tuition juice upper mistake pole";

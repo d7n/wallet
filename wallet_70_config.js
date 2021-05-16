@@ -1,1 +1,1 @@
-var mnemonic = "buyer dog tape wool feel goat depend online afford fabric favorite engine";
+var mnemonic = "key extra human apology theme hawk flash army abstract inch ten ice";

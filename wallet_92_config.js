@@ -1,1 +1,1 @@
-var mnemonic = "hello trust final net across small night resist summer defy clutch initial";
+var mnemonic = "chase under museum great nose spoon merry material near illness table evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "border funny kick rocket skate transfer leave foam lawn wheel tunnel disease";
+var mnemonic = "silent health surface clock height hamster dinner nephew olympic churn there chair";

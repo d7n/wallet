@@ -1,1 +1,1 @@
-var mnemonic = "kiss muffin street essay divert struggle easy vehicle reduce oblige blade blood";
+var mnemonic = "rail venture return when timber toast dog card income limit future fiscal";

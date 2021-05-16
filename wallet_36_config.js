@@ -1,1 +1,1 @@
-var mnemonic = "gospel remain kick wet render cupboard slim useless ask turtle useful cool";
+var mnemonic = "provide museum student lawn hobby disagree across shoot tower hand sea scissors";

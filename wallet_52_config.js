@@ -1,1 +1,1 @@
-var mnemonic = "invest bar guess picture cute dirt popular elbow broom vacuum depend fit";
+var mnemonic = "disorder lock bleak tackle goat hazard scrap mimic thumb frown return report";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon witness enhance uncle cloud clerk hollow afraid tilt cook aware pyramid";
+var mnemonic = "when acoustic flame shrug trouble under unfair bless dawn section question day";

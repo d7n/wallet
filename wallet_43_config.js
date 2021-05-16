@@ -1,1 +1,1 @@
-var mnemonic = "code sauce reason task easily embark mom armed account music leave book";
+var mnemonic = "memory mesh explain metal rescue range hammer ship honey arm clown radio";

@@ -1,1 +1,1 @@
-var mnemonic = "usage object brave toast artefact valley cry okay dinosaur lion marble soup";
+var mnemonic = "current exile learn insane sunset jaguar nose dentist milk heart enter enjoy";

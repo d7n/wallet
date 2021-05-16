@@ -1,1 +1,1 @@
-var mnemonic = "slow immense proud umbrella radio happy rubber lift drip vibrant element adapt";
+var mnemonic = "fringe frown pepper bachelor direct story tortoise history warm title wisdom can";

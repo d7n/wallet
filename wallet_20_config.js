@@ -1,1 +1,1 @@
-var mnemonic = "noise hawk hold young speak pitch success gain voice prefer swing stick";
+var mnemonic = "gun order lab athlete purchase endorse enter knee tiger used absent shed";

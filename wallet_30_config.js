@@ -1,1 +1,1 @@
-var mnemonic = "victory shock lumber february hybrid promote turtle increase chaos brief drop fluid";
+var mnemonic = "luxury convince badge trouble ride tent drift execute thumb volume soup air";

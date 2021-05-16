@@ -1,1 +1,1 @@
-var mnemonic = "royal dumb lemon defy envelope enemy target convince cotton cup tell kit";
+var mnemonic = "caught avoid imitate best end soldier position powder wrist capital history happy";

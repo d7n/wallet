@@ -1,1 +1,1 @@
-var mnemonic = "muscle vanish blast column humor dignity wear valid victory erase female soon";
+var mnemonic = "asthma fantasy crime bundle rude ordinary sudden weapon legend scare episode another";

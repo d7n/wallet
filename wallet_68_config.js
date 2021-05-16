@@ -1,1 +1,1 @@
-var mnemonic = "awful exotic analyst twin tenant tide call can play iron sugar skill";
+var mnemonic = "barrel resource lawsuit easy smoke okay phrase six spare flock foot hello";

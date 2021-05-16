@@ -1,1 +1,1 @@
-var mnemonic = "wheel feed prison intact bamboo brush manage harbor wedding tip aim security";
+var mnemonic = "dolphin snow remember sister this drill bulk vote apology wood fiber strategy";

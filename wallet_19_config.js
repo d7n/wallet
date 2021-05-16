@@ -1,1 +1,1 @@
-var mnemonic = "shallow network color useful aware giggle ready fantasy unit wear hunt category";
+var mnemonic = "tongue excess fruit amount eternal gorilla grab pepper nest future kangaroo pill";

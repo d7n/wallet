@@ -1,1 +1,1 @@
-var mnemonic = "height obey adult comfort rapid actress poverty kite immense parent offer summer";
+var mnemonic = "rug rose motion cook boat grocery trouble spider soft rough absorb bubble";

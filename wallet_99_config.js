@@ -1,1 +1,1 @@
-var mnemonic = "crazy million still mimic throw already lens try miracle choice range usual";
+var mnemonic = "pipe remember early swap conduct filter grief wage armed tornado slice calm";

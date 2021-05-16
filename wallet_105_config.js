@@ -1,1 +1,1 @@
-var mnemonic = "basic busy tortoise bleak win yard young smile lazy viable ghost knee";
+var mnemonic = "undo math exit mercy puppy behind arrow wood torch fresh melody hip";

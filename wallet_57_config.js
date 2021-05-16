@@ -1,1 +1,1 @@
-var mnemonic = "drill title focus item change inflict record rack arena elegant put elite";
+var mnemonic = "someone exact entire shallow use despair allow joy damage neither leave comic";

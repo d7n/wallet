@@ -1,1 +1,1 @@
-var mnemonic = "second donor pen impulse answer deposit fringe bench rabbit garage region multiply";
+var mnemonic = "dose arrange rabbit sweet shove olympic hurdle release regular theory clock solar";

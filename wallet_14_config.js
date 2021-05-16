@@ -1,1 +1,1 @@
-var mnemonic = "medal salmon hospital response hello maple grape pool federal diesel evil spawn";
+var mnemonic = "still gain enjoy recall body whisper actor patch volume tackle truth maximum";

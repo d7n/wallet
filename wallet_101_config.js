@@ -1,1 +1,1 @@
-var mnemonic = "sample winner into diamond simple bundle grow whale steak bless credit gentle";
+var mnemonic = "gift spot coyote super bleak melody east renew food fun cross dust";

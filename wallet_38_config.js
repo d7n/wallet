@@ -1,1 +1,1 @@
-var mnemonic = "thank matrix vacuum fitness orbit announce erupt remain glue sketch text narrow";
+var mnemonic = "creek lounge pulse fruit job citizen hotel giraffe lumber dilemma desert initial";

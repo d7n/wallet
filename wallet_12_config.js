@@ -1,1 +1,1 @@
-var mnemonic = "turtle reason drive possible elder boil quarter pledge popular left cause thank";
+var mnemonic = "famous region ribbon sauce oil oak rocket genre amused inform still unaware";

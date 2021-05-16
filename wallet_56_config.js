@@ -1,1 +1,1 @@
-var mnemonic = "gun typical engine project attack viable citizen pony manage butter milk vicious";
+var mnemonic = "remember together mansion vote major middle dry silly stumble bless traffic silk";

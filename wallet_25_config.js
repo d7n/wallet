@@ -1,1 +1,1 @@
-var mnemonic = "merge curious cash retreat baby hint burst search check panic scatter expect";
+var mnemonic = "endless engine spatial basket base wisdom merit have quantum pigeon fire wink";

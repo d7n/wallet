@@ -1,1 +1,1 @@
-var mnemonic = "chase wheat myth limb mesh cabin warm upper divert arrest stage north";
+var mnemonic = "refuse mercy state street label recipe wealth sign finger pumpkin boost devote";

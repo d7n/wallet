@@ -1,1 +1,1 @@
-var mnemonic = "click become adjust comfort blush hurry culture track empty grab cup impose";
+var mnemonic = "various priority rhythm pitch electric scale wide awkward pizza blind total clerk";

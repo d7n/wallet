@@ -1,1 +1,1 @@
-var mnemonic = "bring upgrade rough aim earn enrich rally news aware promote twin shield";
+var mnemonic = "help remember chief version never pill mistake valid sleep whisper cheese gate";

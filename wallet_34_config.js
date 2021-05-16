@@ -1,1 +1,1 @@
-var mnemonic = "helmet disease shop output climb answer gauge deposit satisfy blind grief boat";
+var mnemonic = "globe little sauce filter abstract little vanish gain spring cigar enemy keen";

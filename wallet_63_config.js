@@ -1,1 +1,1 @@
-var mnemonic = "because cannon flip pilot picture pluck hood fitness effort burst funny inject";
+var mnemonic = "scrap scrub kit kangaroo then cupboard later phone rescue reform inner forward";

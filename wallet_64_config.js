@@ -1,1 +1,1 @@
-var mnemonic = "recipe resource extra screen cluster scrub arch mystery forward large guess insect";
+var mnemonic = "spot bunker drastic behind struggle army urban aerobic horn foot leave film";

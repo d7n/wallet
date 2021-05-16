@@ -1,1 +1,1 @@
-var mnemonic = "monitor north someone dry certain unhappy capable build embark juice parrot leader";
+var mnemonic = "horror six buzz tomorrow merry daring regret job viable denial zebra empty";

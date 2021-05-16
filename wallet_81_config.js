@@ -1,1 +1,1 @@
-var mnemonic = "soup install artwork mad service blood glimpse pottery father meat blade worry";
+var mnemonic = "between supreme write entry fame taxi myth easily wear mammal danger curtain";

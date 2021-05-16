@@ -1,1 +1,1 @@
-var mnemonic = "grass hour wood nurse bomb unfair owner boss silk captain home blind";
+var mnemonic = "subject dwarf purse almost ordinary teach owner toward ability mammal hurry law";

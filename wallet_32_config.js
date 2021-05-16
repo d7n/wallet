@@ -1,1 +1,1 @@
-var mnemonic = "museum dad inner drink brick artist reject silver cage legal invite across";
+var mnemonic = "analyst dawn stock dry bus arch keen harsh clown acoustic share glove";

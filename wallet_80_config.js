@@ -1,1 +1,1 @@
-var mnemonic = "call believe grid stool magnet tattoo blind razor primary win comic busy";
+var mnemonic = "mom dune matter spend artist receive trust rigid skin split voice sister";

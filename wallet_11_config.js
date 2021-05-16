@@ -1,1 +1,1 @@
-var mnemonic = "baby mansion enhance like select upper series strong link labor oak reason";
+var mnemonic = "milk true prevent valley tomato bike shield test interest salt flush net";

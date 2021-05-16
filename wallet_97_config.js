@@ -1,1 +1,1 @@
-var mnemonic = "print neutral test jeans course way agent coconut reflect parrot among undo";
+var mnemonic = "marriage sister must floor net reflect inside strike behave kite betray dose";

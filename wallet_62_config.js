@@ -1,1 +1,1 @@
-var mnemonic = "hybrid chair skate believe holiday solution they plunge security mention whale muscle";
+var mnemonic = "february loop runway review theory place expose mercy mango alarm name affair";

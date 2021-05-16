@@ -1,1 +1,1 @@
-var mnemonic = "apple kingdom faculty relax notable night already indoor cupboard wrong around visa";
+var mnemonic = "minor spin economy focus screen ozone pumpkin gold shock excuse narrow supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt reduce cycle hobby custom mean service excuse arm real depth heavy";
+var mnemonic = "hundred special horse glimpse lake debate thrive upset very better sunset arch";

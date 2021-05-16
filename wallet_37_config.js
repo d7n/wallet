@@ -1,1 +1,1 @@
-var mnemonic = "ordinary club neither satoshi crowd volcano pave unfair capable lava find three";
+var mnemonic = "glide rabbit dinner potato hospital scatter fuel proof town twenty kind wash";

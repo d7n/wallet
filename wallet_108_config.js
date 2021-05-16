@@ -1,1 +1,1 @@
-var mnemonic = "minimum decade disorder remind energy myth soldier swift slice level short joke";
+var mnemonic = "street kiss mass cost game silly view wash minor sugar tonight despair";

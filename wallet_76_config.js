@@ -1,1 +1,1 @@
-var mnemonic = "unveil text push aim denial evidence glow diesel street horse dream heavy";
+var mnemonic = "mobile message ship stuff wheat scan prepare fox truth unknown review viable";

@@ -1,1 +1,1 @@
-var mnemonic = "dog viable dad harsh dynamic art chimney desert cupboard series detail impact";
+var mnemonic = "team actual primary bounce rose unaware reduce skill cook truly dwarf maze";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel volume eternal task patch marble task power bone post execute knee";
+var mnemonic = "luxury avocado thrive vast joke program camera card breeze victory never prize";

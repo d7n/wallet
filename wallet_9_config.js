@@ -1,1 +1,1 @@
-var mnemonic = "vital daring resist push lemon detect unknown radio nurse october help neglect";
+var mnemonic = "once happy farm palace smart symbol dry burden alcohol hammer easily latin";

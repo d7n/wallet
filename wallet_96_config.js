@@ -1,1 +1,1 @@
-var mnemonic = "finger weasel case head night sample arch alien pencil cool feature work";
+var mnemonic = "obscure push cart welcome village present tower derive clog modify pistol sun";

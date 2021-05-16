@@ -1,1 +1,1 @@
-var mnemonic = "nest spring echo enable option appear fitness disagree save camera choice wall";
+var mnemonic = "olympic display call hold seven escape violin identify law ancient little brown";

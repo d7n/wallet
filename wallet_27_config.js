@@ -1,1 +1,1 @@
-var mnemonic = "orient deliver damage drum immense travel excite shaft wedding moral industry boat";
+var mnemonic = "fatal rice outer miracle candy popular breeze force buzz banner fat course";

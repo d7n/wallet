@@ -1,1 +1,1 @@
-var mnemonic = "soda daring jaguar air front weekend like about million elite myth weird";
+var mnemonic = "prize confirm knock edit stem tissue like comic arena grab agree sibling";

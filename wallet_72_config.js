@@ -1,1 +1,1 @@
-var mnemonic = "echo stool pistol glad palace oblige age mule nation disagree never park";
+var mnemonic = "peasant build modify quality legal fox wear solid topic better until glass";

@@ -1,1 +1,1 @@
-var mnemonic = "trim pond argue giraffe trial bomb silk oval exit save tiger senior";
+var mnemonic = "remove pride latin piano over cost loud grass critic twist broken foot";

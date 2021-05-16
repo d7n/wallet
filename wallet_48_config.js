@@ -1,1 +1,1 @@
-var mnemonic = "perfect sniff drama ring grunt album west inflict sure soup month smooth";
+var mnemonic = "proud surprise tennis antenna output above apart pipe derive eager split expire";

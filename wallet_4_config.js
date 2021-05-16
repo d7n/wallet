@@ -1,1 +1,1 @@
-var mnemonic = "orchard merge need tube myth depth barely solar reform evolve crop empower";
+var mnemonic = "million multiply retire solar machine violin kite bamboo spray language beach syrup";

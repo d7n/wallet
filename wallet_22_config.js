@@ -1,1 +1,1 @@
-var mnemonic = "super energy cancel conduct myself picnic mix oblige faith clinic salmon uniform";
+var mnemonic = "pioneer crater alien pride survey pumpkin fish submit execute hill cruise online";

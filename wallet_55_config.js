@@ -1,1 +1,1 @@
-var mnemonic = "any find deliver library recycle famous dinner profit town fog axis sunset";
+var mnemonic = "field peanut lunar stage shoulder embrace head wrist father false car romance";

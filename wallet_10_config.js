@@ -1,1 +1,1 @@
-var mnemonic = "neither riot olive renew amused exclude genius scatter matter glimpse bar act";
+var mnemonic = "alien correct join toward speak pair kitten rate elegant monster fog ice";

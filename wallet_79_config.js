@@ -1,1 +1,1 @@
-var mnemonic = "pistol chapter gaze tragic inherit cabbage neither insect shadow style member family";
+var mnemonic = "hybrid tooth dove baby kick leave inmate stock alarm sketch scissors exist";

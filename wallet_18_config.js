@@ -1,1 +1,1 @@
-var mnemonic = "access ship frown hybrid amateur lonely stage disorder cable before join upper";
+var mnemonic = "tortoise stumble sketch tide onion damage enemy slow exit little check recipe";

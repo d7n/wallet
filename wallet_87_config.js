@@ -1,1 +1,1 @@
-var mnemonic = "visit nephew walnut moral embark lounge chef much flag waste kind person";
+var mnemonic = "paddle spike buzz broken much tenant radar apart radio gospel dash media";

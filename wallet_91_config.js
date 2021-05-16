@@ -1,1 +1,1 @@
-var mnemonic = "portion phrase lab grab gorilla discover sun basket surface usual aunt price";
+var mnemonic = "install opera basic thumb elbow glass accuse attitude amateur cream tiger under";

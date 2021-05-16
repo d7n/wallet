@@ -1,1 +1,1 @@
-var mnemonic = "ensure swim analyst family kingdom pigeon inform elder normal work change decorate";
+var mnemonic = "salmon park hover matrix tube sight general scorpion forest noise eagle boring";

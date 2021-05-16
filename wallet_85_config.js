@@ -1,1 +1,1 @@
-var mnemonic = "unfold borrow patrol increase mask year silly candy cousin slow space pony";
+var mnemonic = "magnet obscure master auto cash rule knee cheap next add main lift";

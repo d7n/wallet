@@ -1,1 +1,1 @@
-var mnemonic = "sort sauce warm bulk plastic flash vacant drip web neither bus wage";
+var mnemonic = "intact equal grid eye enough mutual fabric project aunt scrub fashion eager";

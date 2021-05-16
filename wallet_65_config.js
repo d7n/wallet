@@ -1,1 +1,1 @@
-var mnemonic = "cook anchor beyond mask cruise leisure taste near retreat scheme ethics since";
+var mnemonic = "height stairs more letter vacant govern special allow soft net excess future";

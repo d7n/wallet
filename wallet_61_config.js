@@ -1,1 +1,1 @@
-var mnemonic = "wool milk asthma earn run sail position cute educate paddle youth rain";
+var mnemonic = "cradle choose harvest puppy guard tired side impose fog wise disagree divorce";

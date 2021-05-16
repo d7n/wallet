@@ -1,1 +1,1 @@
-var mnemonic = "tray canyon true onion cheese dismiss file double kit library lady thumb";
+var mnemonic = "fine civil update youth relief marriage nest cause long gym mad abstract";

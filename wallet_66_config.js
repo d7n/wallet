@@ -1,1 +1,1 @@
-var mnemonic = "puppy adult sleep aim endorse mammal very love program train member absent";
+var mnemonic = "cotton pig ahead hover solve dwarf split prison festival siren page pause";

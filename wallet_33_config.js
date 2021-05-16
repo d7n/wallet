@@ -1,1 +1,1 @@
-var mnemonic = "turkey safe mandate stumble result assume chef derive hole city wrist bulk";
+var mnemonic = "sure brave immune grief soccer hole divorce rifle nerve exclude twin certain";

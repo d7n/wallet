@@ -1,1 +1,1 @@
-var mnemonic = "nothing donkey finish size result radio salon room select evil nose purse";
+var mnemonic = "pudding dilemma include cloud crash music opera rubber snake maze pull skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado wish pumpkin anchor card write noble essence fold push luxury refuse";
+var mnemonic = "rabbit ugly cheap harsh galaxy patrol betray parrot lottery patient name foot";

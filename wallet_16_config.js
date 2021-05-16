@@ -1,1 +1,1 @@
-var mnemonic = "gate long please run romance neither cruise evolve burger planet design primary";
+var mnemonic = "garage quote ride measure improve quiz guide hazard timber control wasp remove";

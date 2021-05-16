@@ -1,1 +1,1 @@
-var mnemonic = "erode ski enjoy iron fringe congress dash ozone present glove can high";
+var mnemonic = "rookie student ticket gesture casual biology acquire essence stage quiz soldier gate";

@@ -1,1 +1,1 @@
-var mnemonic = "local faith clay elevator mother apology float kiss square rude step sponsor";
+var mnemonic = "soldier acoustic oxygen cigar when whale adult easily imitate liar increase solid";

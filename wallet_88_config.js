@@ -1,1 +1,1 @@
-var mnemonic = "pear pelican park razor virus copper special fog thought month electric include";
+var mnemonic = "feel you ancient slush term nose such trade news tobacco nest barely";

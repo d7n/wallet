@@ -1,1 +1,1 @@
-var mnemonic = "puppy blast steak width devote marriage fruit upon syrup close where arm";
+var mnemonic = "enter crime rhythm field tiny huge pumpkin finish jeans valid engage blame";

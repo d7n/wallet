@@ -1,1 +1,1 @@
-var mnemonic = "beef name outdoor moral opera bargain race crisp short raven special novel";
+var mnemonic = "spot soccer pig require hire laptop agree water doctor puppy breeze firm";

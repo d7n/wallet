@@ -1,1 +1,1 @@
-var mnemonic = "exit fashion echo flock void deposit learn auction eternal brain hill atom";
+var mnemonic = "slice find trip dune glove thought sound exit faculty embrace dynamic crouch";

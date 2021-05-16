@@ -1,1 +1,1 @@
-var mnemonic = "plunge frog portion reveal harsh sketch equal intact feature edge approve bunker";
+var mnemonic = "canvas midnight razor outer title nest direct axis glance canyon spell bench";

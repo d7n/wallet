@@ -1,1 +1,1 @@
-var mnemonic = "gallery orient subway consider romance physical happy meadow diesel sibling embark rotate";
+var mnemonic = "bomb basket ladder tail chronic super law crack tube forward panic exact";

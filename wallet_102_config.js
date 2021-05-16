@@ -1,1 +1,1 @@
-var mnemonic = "order medal material venture sell end trial timber seminar lend limb icon";
+var mnemonic = "lab gaze account tooth choice capable favorite guide fox hire cute robust";

@@ -1,1 +1,1 @@
-var mnemonic = "maid cheese stuff rose lonely rifle army explain diesel hole thrive market";
+var mnemonic = "keen carpet thunder mixture race album sample focus cherry split phone prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony control swim area dog laundry photo accident flat plunge clown gaze";
+var mnemonic = "garden twist apple kangaroo top cake flight wheat burger huge three home";

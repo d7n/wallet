@@ -1,1 +1,1 @@
-var mnemonic = "valid catch brick pet boy miss curtain nephew melody detail march noodle";
+var mnemonic = "output engine addict plastic moment salt math occur dilemma proud kind civil";

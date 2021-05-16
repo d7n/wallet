@@ -1,1 +1,1 @@
-var mnemonic = "cart journey tip disagree oak artist ship climb legal mean hawk friend";
+var mnemonic = "pool soldier service egg among repair quantum wink where differ asset destroy";

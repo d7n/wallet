@@ -1,1 +1,1 @@
-var mnemonic = "concert prevent cause suspect recall kite fork envelope demise cat advice office";
+var mnemonic = "assume fiction private scatter butter cousin balance lab expect piece sound couple";
