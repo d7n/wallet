@@ -1,1 +1,1 @@
-var mnemonic = "tongue excess fruit amount eternal gorilla grab pepper nest future kangaroo pill";
+var mnemonic = "before laptop stuff grid clay unaware valley cushion absurd give rotate horn";

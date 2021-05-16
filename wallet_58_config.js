@@ -1,1 +1,1 @@
-var mnemonic = "output engine addict plastic moment salt math occur dilemma proud kind civil";
+var mnemonic = "require assault truth crazy year talk update toss never copy armor six";

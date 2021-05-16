@@ -1,1 +1,1 @@
-var mnemonic = "rug rose motion cook boat grocery trouble spider soft rough absorb bubble";
+var mnemonic = "blur bubble flee mistake brisk party wash border wrist broccoli oyster dizzy";

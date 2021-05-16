@@ -1,1 +1,1 @@
-var mnemonic = "cradle choose harvest puppy guard tired side impose fog wise disagree divorce";
+var mnemonic = "bonus crash vault loyal coast aspect final upset piece release chat miss";

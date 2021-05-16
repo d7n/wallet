@@ -1,1 +1,1 @@
-var mnemonic = "analyst dawn stock dry bus arch keen harsh clown acoustic share glove";
+var mnemonic = "interest coach potato trend boring feel control radio amazing solve bitter embody";

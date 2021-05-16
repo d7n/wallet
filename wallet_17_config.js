@@ -1,1 +1,1 @@
-var mnemonic = "retire this huge drink rapid siege swift artefact comic logic brisk dry";
+var mnemonic = "flavor hope flush lounge innocent tattoo fine drip mosquito demand marble clever";

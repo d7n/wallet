@@ -1,1 +1,1 @@
-var mnemonic = "barrel resource lawsuit easy smoke okay phrase six spare flock foot hello";
+var mnemonic = "gather live pond maple where exist barely rural torch chunk girl rapid";

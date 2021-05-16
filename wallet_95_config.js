@@ -1,1 +1,1 @@
-var mnemonic = "luxury avocado thrive vast joke program camera card breeze victory never prize";
+var mnemonic = "grain rhythm limit atom grab gasp misery side judge alone penalty yard";

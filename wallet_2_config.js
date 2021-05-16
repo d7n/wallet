@@ -1,1 +1,1 @@
-var mnemonic = "fluid forum stock measure slow allow whip salute uniform two mammal slim";
+var mnemonic = "lawn pulp satisfy canal success civil hundred struggle desk mirror bacon sustain";

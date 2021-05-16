@@ -1,1 +1,1 @@
-var mnemonic = "scrap scrub kit kangaroo then cupboard later phone rescue reform inner forward";
+var mnemonic = "immune exchange leaf demand image debate lizard gas defy maple snack insect";

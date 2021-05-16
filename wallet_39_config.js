@@ -1,1 +1,1 @@
-var mnemonic = "various priority rhythm pitch electric scale wide awkward pizza blind total clerk";
+var mnemonic = "great velvet what steel journey spread visa wage predict round pair barely";

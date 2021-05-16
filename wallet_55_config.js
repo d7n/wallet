@@ -1,1 +1,1 @@
-var mnemonic = "field peanut lunar stage shoulder embrace head wrist father false car romance";
+var mnemonic = "flag bike convince afraid draw trumpet suffer solid nice husband install crime";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise stumble sketch tide onion damage enemy slow exit little check recipe";
+var mnemonic = "high uphold humble sun twelve net expand element outside enact mirror cushion";

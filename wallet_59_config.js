@@ -1,1 +1,1 @@
-var mnemonic = "prize confirm knock edit stem tissue like comic arena grab agree sibling";
+var mnemonic = "stomach before blind asset narrow code display lens under host path track";

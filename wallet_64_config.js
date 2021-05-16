@@ -1,1 +1,1 @@
-var mnemonic = "spot bunker drastic behind struggle army urban aerobic horn foot leave film";
+var mnemonic = "neither student defense vast husband chat degree rotate boost exotic exotic lift";

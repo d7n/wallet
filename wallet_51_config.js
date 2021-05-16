@@ -1,1 +1,1 @@
-var mnemonic = "trial swift toward absent ski wheel raw slim vintage prepare balcony dance";
+var mnemonic = "eyebrow trigger calm alien crucial inherit mosquito artwork hero cactus cannon soft";

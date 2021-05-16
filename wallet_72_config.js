@@ -1,1 +1,1 @@
-var mnemonic = "peasant build modify quality legal fox wear solid topic better until glass";
+var mnemonic = "raven lonely creek choice abandon erosion lion tuna iron grocery mosquito scatter";

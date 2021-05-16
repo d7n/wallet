@@ -1,1 +1,1 @@
-var mnemonic = "street kiss mass cost game silly view wash minor sugar tonight despair";
+var mnemonic = "type account glass diary delay ranch army lizard dry poverty cool enemy";

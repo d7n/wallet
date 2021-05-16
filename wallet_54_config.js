@@ -1,1 +1,1 @@
-var mnemonic = "pudding dilemma include cloud crash music opera rubber snake maze pull skirt";
+var mnemonic = "angle festival camp close parent neck room height file supreme today hello";

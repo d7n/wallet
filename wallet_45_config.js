@@ -1,1 +1,1 @@
-var mnemonic = "caught avoid imitate best end soldier position powder wrist capital history happy";
+var mnemonic = "rifle vessel pear uncover surprise orphan trash offer patient frost cruel credit";

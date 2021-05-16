@@ -1,1 +1,1 @@
-var mnemonic = "pioneer crater alien pride survey pumpkin fish submit execute hill cruise online";
+var mnemonic = "remember mixed increase impose gym educate later diamond prefer motion ceiling clump";

@@ -1,1 +1,1 @@
-var mnemonic = "between supreme write entry fame taxi myth easily wear mammal danger curtain";
+var mnemonic = "field consider eyebrow notable staff fiscal wood faculty acid answer sea toddler";

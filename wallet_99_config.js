@@ -1,1 +1,1 @@
-var mnemonic = "pipe remember early swap conduct filter grief wage armed tornado slice calm";
+var mnemonic = "cherry release chaos smooth flight balcony alley cannon always already plug meat";

@@ -1,1 +1,1 @@
-var mnemonic = "when quality monster mansion sad dinosaur tennis close describe speak item cycle";
+var mnemonic = "matter insect moon day excuse system hill humble assist industry talent brisk";

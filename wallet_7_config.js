@@ -1,1 +1,1 @@
-var mnemonic = "dolphin snow remember sister this drill bulk vote apology wood fiber strategy";
+var mnemonic = "boat sphere beyond action shell electric outer connect jealous orbit home coconut";

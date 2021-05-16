@@ -1,1 +1,1 @@
-var mnemonic = "olympic display call hold seven escape violin identify law ancient little brown";
+var mnemonic = "firm improve transfer thunder tackle special funny kidney upon caught return portion";

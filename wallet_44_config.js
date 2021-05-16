@@ -1,1 +1,1 @@
-var mnemonic = "remove pride latin piano over cost loud grass critic twist broken foot";
+var mnemonic = "raw rifle dawn moral noodle science section wonder wisdom bike fortune author";

@@ -1,1 +1,1 @@
-var mnemonic = "mom dune matter spend artist receive trust rigid skin split voice sister";
+var mnemonic = "initial bracket reduce over ahead fiber excuse impose theme cable obscure sudden";

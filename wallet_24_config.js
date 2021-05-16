@@ -1,1 +1,1 @@
-var mnemonic = "help remember chief version never pill mistake valid sleep whisper cheese gate";
+var mnemonic = "lunch toilet special lake broken gain surprise subway trigger pull similar cover";

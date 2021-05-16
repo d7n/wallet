@@ -1,1 +1,1 @@
-var mnemonic = "minor spin economy focus screen ozone pumpkin gold shock excuse narrow supreme";
+var mnemonic = "huge flag ride eager parent market mystery young dolphin winner penalty snake";

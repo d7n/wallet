@@ -1,1 +1,1 @@
-var mnemonic = "keen carpet thunder mixture race album sample focus cherry split phone prepare";
+var mnemonic = "chronic three rude toast remain park solid pool surge hold thumb gloom";

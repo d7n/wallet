@@ -1,1 +1,1 @@
-var mnemonic = "refuse mercy state street label recipe wealth sign finger pumpkin boost devote";
+var mnemonic = "parent volcano need swamp timber poem pond size drip diet visual round";

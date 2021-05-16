@@ -1,1 +1,1 @@
-var mnemonic = "boost dutch wisdom glue figure antenna coconut tuition juice upper mistake pole";
+var mnemonic = "warm foam bus mixed okay fiction ski hour used victory brave ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "enter crime rhythm field tiny huge pumpkin finish jeans valid engage blame";
+var mnemonic = "local bulk tackle supreme click mistake upgrade prefer punch shiver material body";

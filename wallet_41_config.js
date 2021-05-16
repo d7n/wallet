@@ -1,1 +1,1 @@
-var mnemonic = "team actual primary bounce rose unaware reduce skill cook truly dwarf maze";
+var mnemonic = "bid acoustic soon road need grid wrong work monster tumble penalty since";

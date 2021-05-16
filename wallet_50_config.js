@@ -1,1 +1,1 @@
-var mnemonic = "advance law dignity someone hope hold ice style kit town fish multiply";
+var mnemonic = "bubble buffalo collect dress still snack distance merge betray dinner skate holiday";

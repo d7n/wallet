@@ -1,1 +1,1 @@
-var mnemonic = "february loop runway review theory place expose mercy mango alarm name affair";
+var mnemonic = "later model emerge diary pelican tenant they tree judge cruise hundred decade";

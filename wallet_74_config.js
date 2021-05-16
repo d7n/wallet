@@ -1,1 +1,1 @@
-var mnemonic = "cake agree faith describe nerve hundred artefact lamp beyond long parade legend";
+var mnemonic = "lumber hope huge animal jealous inquiry coil bridge seek chimney clerk scrub";

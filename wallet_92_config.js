@@ -1,1 +1,1 @@
-var mnemonic = "chase under museum great nose spoon merry material near illness table evolve";
+var mnemonic = "series body blind fix lady point feature flavor welcome battle never liar";

@@ -1,1 +1,1 @@
-var mnemonic = "alien correct join toward speak pair kitten rate elegant monster fog ice";
+var mnemonic = "humble tree wear win chalk love shiver magic grid profit bargain rigid";

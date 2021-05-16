@@ -1,1 +1,1 @@
-var mnemonic = "fine civil update youth relief marriage nest cause long gym mad abstract";
+var mnemonic = "betray kid ketchup transfer follow height autumn pizza convince keep rude pistol";

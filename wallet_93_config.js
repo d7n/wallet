@@ -1,1 +1,1 @@
-var mnemonic = "soldier acoustic oxygen cigar when whale adult easily imitate liar increase solid";
+var mnemonic = "detect casino asthma credit young vivid cradle ankle dune that squeeze ozone";

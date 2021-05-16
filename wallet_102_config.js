@@ -1,1 +1,1 @@
-var mnemonic = "lab gaze account tooth choice capable favorite guide fox hire cute robust";
+var mnemonic = "vacuum romance wage marble argue chief badge high fiber imitate wrestle hospital";

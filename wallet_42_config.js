@@ -1,1 +1,1 @@
-var mnemonic = "dose arrange rabbit sweet shove olympic hurdle release regular theory clock solar";
+var mnemonic = "brush beef tool super magic coral month film upper receive nest hotel";

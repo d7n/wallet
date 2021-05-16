@@ -1,1 +1,1 @@
-var mnemonic = "rail venture return when timber toast dog card income limit future fiscal";
+var mnemonic = "gentle color suggest choose culture time denial crucial immense cotton flush canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran door notable private scrap erase raven rely panda summer brass one";
+var mnemonic = "unlock canal wash task unfold nation artefact van spring poet remember direct";

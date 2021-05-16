@@ -1,1 +1,1 @@
-var mnemonic = "someone exact entire shallow use despair allow joy damage neither leave comic";
+var mnemonic = "shine usual hill upper cement unique photo reject resemble labor defy actress";

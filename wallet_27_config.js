@@ -1,1 +1,1 @@
-var mnemonic = "fatal rice outer miracle candy popular breeze force buzz banner fat course";
+var mnemonic = "general donkey fee gorilla praise tide galaxy mixed coin focus surround decade";

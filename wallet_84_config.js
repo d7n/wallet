@@ -1,1 +1,1 @@
-var mnemonic = "pool soldier service egg among repair quantum wink where differ asset destroy";
+var mnemonic = "exotic make pill episode remember silly risk exhibit lift top warm story";

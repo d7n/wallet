@@ -1,1 +1,1 @@
-var mnemonic = "intact equal grid eye enough mutual fabric project aunt scrub fashion eager";
+var mnemonic = "maid kiwi symbol project sweet hair just wall symbol number can vital";

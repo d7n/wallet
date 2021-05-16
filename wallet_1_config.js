@@ -1,1 +1,1 @@
-var mnemonic = "horror six buzz tomorrow merry daring regret job viable denial zebra empty";
+var mnemonic = "problem obtain gown often vault draw above leisure video exact kid page";

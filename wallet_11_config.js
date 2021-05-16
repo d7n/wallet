@@ -1,1 +1,1 @@
-var mnemonic = "milk true prevent valley tomato bike shield test interest salt flush net";
+var mnemonic = "tribe banner holiday reveal space maze curtain sense ready forget zoo kite";

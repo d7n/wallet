@@ -1,1 +1,1 @@
-var mnemonic = "marriage sister must floor net reflect inside strike behave kite betray dose";
+var mnemonic = "output alien demise series stereo vacant east nice body shadow misery strategy";

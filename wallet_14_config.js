@@ -1,1 +1,1 @@
-var mnemonic = "still gain enjoy recall body whisper actor patch volume tackle truth maximum";
+var mnemonic = "hotel deal member ski vacant multiply soup thank harsh symptom say bid";

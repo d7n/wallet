@@ -1,1 +1,1 @@
-var mnemonic = "silent health surface clock height hamster dinner nephew olympic churn there chair";
+var mnemonic = "quantum resource grief erupt live guard trash clump helmet liar stable carry";

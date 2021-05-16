@@ -1,1 +1,1 @@
-var mnemonic = "mobile message ship stuff wheat scan prepare fox truth unknown review viable";
+var mnemonic = "army goose belt chuckle shaft tissue price morning scrap term genre walk";

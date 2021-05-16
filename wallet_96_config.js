@@ -1,1 +1,1 @@
-var mnemonic = "obscure push cart welcome village present tower derive clog modify pistol sun";
+var mnemonic = "despair say ribbon simple simple elephant example crumble address flock celery bench";

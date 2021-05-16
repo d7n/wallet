@@ -1,1 +1,1 @@
-var mnemonic = "garden twist apple kangaroo top cake flight wheat burger huge three home";
+var mnemonic = "neglect fat cradle toward cattle bargain enjoy space shy mammal double index";

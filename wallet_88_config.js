@@ -1,1 +1,1 @@
-var mnemonic = "feel you ancient slush term nose such trade news tobacco nest barely";
+var mnemonic = "leaf bid planet rapid wish stock expire biology sad admit chicken busy";

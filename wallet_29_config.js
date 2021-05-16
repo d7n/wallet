@@ -1,1 +1,1 @@
-var mnemonic = "dentist mammal actress core hello castle forum suit tank dilemma what original";
+var mnemonic = "accident hurry garment upgrade tennis fitness require ship bless layer mail habit";

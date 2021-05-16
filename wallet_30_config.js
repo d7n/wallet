@@ -1,1 +1,1 @@
-var mnemonic = "luxury convince badge trouble ride tent drift execute thumb volume soup air";
+var mnemonic = "solar sock trend caught tiger educate oblige profit immune frost misery century";

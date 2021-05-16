@@ -1,1 +1,1 @@
-var mnemonic = "rabbit ugly cheap harsh galaxy patrol betray parrot lottery patient name foot";
+var mnemonic = "latin such easy duty meadow minimum shine cactus allow garage fuel length";

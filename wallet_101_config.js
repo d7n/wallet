@@ -1,1 +1,1 @@
-var mnemonic = "gift spot coyote super bleak melody east renew food fun cross dust";
+var mnemonic = "student twenty elephant luggage useful material sail flash bleak consider phrase model";

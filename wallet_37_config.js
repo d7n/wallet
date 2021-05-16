@@ -1,1 +1,1 @@
-var mnemonic = "glide rabbit dinner potato hospital scatter fuel proof town twenty kind wash";
+var mnemonic = "save basket retreat tide question there equal alert soda bean such meat";

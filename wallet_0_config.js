@@ -1,1 +1,1 @@
-var mnemonic = "endless pet thank crowd riot space evidence dove useful vendor edit green";
+var mnemonic = "disease design guide raven chief coconut frost glance school clarify adult man";

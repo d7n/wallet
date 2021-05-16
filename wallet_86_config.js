@@ -1,1 +1,1 @@
-var mnemonic = "current exile learn insane sunset jaguar nose dentist milk heart enter enjoy";
+var mnemonic = "cart damage produce convince negative merit usual melody focus install hedgehog price";

@@ -1,1 +1,1 @@
-var mnemonic = "provide museum student lawn hobby disagree across shoot tower hand sea scissors";
+var mnemonic = "sadness type crumble pottery subway steel staff egg floor unusual voyage brass";

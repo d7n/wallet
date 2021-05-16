@@ -1,1 +1,1 @@
-var mnemonic = "remember together mansion vote major middle dry silly stumble bless traffic silk";
+var mnemonic = "bargain steel kitten night output owner hollow action offer random heavy bonus";

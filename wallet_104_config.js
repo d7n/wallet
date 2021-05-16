@@ -1,1 +1,1 @@
-var mnemonic = "asthma fantasy crime bundle rude ordinary sudden weapon legend scare episode another";
+var mnemonic = "release situate jungle anchor culture talent math panic puppy funny head negative";

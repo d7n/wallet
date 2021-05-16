@@ -1,1 +1,1 @@
-var mnemonic = "install opera basic thumb elbow glass accuse attitude amateur cream tiger under";
+var mnemonic = "patrol tortoise profit amount glory powder belt once unique timber climb bid";

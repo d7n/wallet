@@ -1,1 +1,1 @@
-var mnemonic = "garage quote ride measure improve quiz guide hazard timber control wasp remove";
+var mnemonic = "kite leisure melt south fetch runway gallery jewel power ecology liar note";

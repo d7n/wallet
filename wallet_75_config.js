@@ -1,1 +1,1 @@
-var mnemonic = "tired base camp month arrow athlete usage suit result drink giraffe ancient";
+var mnemonic = "adult globe capital dentist before need vast code wagon feature lava trial";

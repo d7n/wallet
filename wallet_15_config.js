@@ -1,1 +1,1 @@
-var mnemonic = "layer edge lend proud budget have domain know lazy crouch scatter gain";
+var mnemonic = "spatial goddess fence also eyebrow keep rare model token old priority potato";

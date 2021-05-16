@@ -1,1 +1,1 @@
-var mnemonic = "magnet obscure master auto cash rule knee cheap next add main lift";
+var mnemonic = "dentist order track banana olive taxi pyramid country question bind predict piano";

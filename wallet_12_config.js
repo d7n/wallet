@@ -1,1 +1,1 @@
-var mnemonic = "famous region ribbon sauce oil oak rocket genre amused inform still unaware";
+var mnemonic = "jungle demand manual master label region diary quarter machine miracle casual comic";

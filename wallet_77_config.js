@@ -1,1 +1,1 @@
-var mnemonic = "web zebra tilt bracket master copy lens vacant busy wrong frequent wedding";
+var mnemonic = "congress antenna mention elevator spray organ affair wealth chef loud mixture select";

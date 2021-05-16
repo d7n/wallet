@@ -1,1 +1,1 @@
-var mnemonic = "fringe frown pepper bachelor direct story tortoise history warm title wisdom can";
+var mnemonic = "perfect fame attend across moral depend tumble arrange tired bench dismiss stuff";

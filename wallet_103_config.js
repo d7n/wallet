@@ -1,1 +1,1 @@
-var mnemonic = "spot soccer pig require hire laptop agree water doctor puppy breeze firm";
+var mnemonic = "kangaroo motor pull card neglect magic lock afraid sentence oxygen faith fragile";

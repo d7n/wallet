@@ -1,1 +1,1 @@
-var mnemonic = "undo math exit mercy puppy behind arrow wood torch fresh melody hip";
+var mnemonic = "ahead asthma leopard tell child kiss move vehicle viable empty correct wear";

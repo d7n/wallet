@@ -1,1 +1,1 @@
-var mnemonic = "hundred special horse glimpse lake debate thrive upset very better sunset arch";
+var mnemonic = "various sudden airport sure earth tent install frozen crystal now tape build";

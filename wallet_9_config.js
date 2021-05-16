@@ -1,1 +1,1 @@
-var mnemonic = "once happy farm palace smart symbol dry burden alcohol hammer easily latin";
+var mnemonic = "fresh egg hollow mercy afraid female crop simple dice rebel assume attract";

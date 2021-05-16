@@ -1,1 +1,1 @@
-var mnemonic = "assume fiction private scatter butter cousin balance lab expect piece sound couple";
+var mnemonic = "shoot bitter forward inflict gentle bag outdoor general seek claim alert tissue";

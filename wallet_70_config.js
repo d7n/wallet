@@ -1,1 +1,1 @@
-var mnemonic = "key extra human apology theme hawk flash army abstract inch ten ice";
+var mnemonic = "erupt sell never merit eagle fiction reopen elite tuna smooth portion model";

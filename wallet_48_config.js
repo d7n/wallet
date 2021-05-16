@@ -1,1 +1,1 @@
-var mnemonic = "proud surprise tennis antenna output above apart pipe derive eager split expire";
+var mnemonic = "safe melt young screen glory bunker impact entire grace oppose jump palm";

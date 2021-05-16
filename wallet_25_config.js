@@ -1,1 +1,1 @@
-var mnemonic = "endless engine spatial basket base wisdom merit have quantum pigeon fire wink";
+var mnemonic = "allow scare small hobby clarify oppose fine slush disorder dash ring detect";

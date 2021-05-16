@@ -1,1 +1,1 @@
-var mnemonic = "cotton pig ahead hover solve dwarf split prison festival siren page pause";
+var mnemonic = "inhale trap embody copper junk reflect beauty wonder apology shine veteran fiber";

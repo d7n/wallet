@@ -1,1 +1,1 @@
-var mnemonic = "disorder lock bleak tackle goat hazard scrap mimic thumb frown return report";
+var mnemonic = "run scan gap burden asset only success check salon garbage search solve";

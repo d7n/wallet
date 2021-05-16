@@ -1,1 +1,1 @@
-var mnemonic = "slice find trip dune glove thought sound exit faculty embrace dynamic crouch";
+var mnemonic = "frown garlic onion electric chief neither chat few robust lend cactus bird";

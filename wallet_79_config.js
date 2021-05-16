@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tooth dove baby kick leave inmate stock alarm sketch scissors exist";
+var mnemonic = "wreck whale canvas bitter member faith myself twelve hood option cute negative";
