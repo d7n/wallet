@@ -1,1 +1,1 @@
-var mnemonic = "hazard leopard bundle master obvious ranch lonely wolf keen leaf property desert";
+var mnemonic = "cattle gas lift mountain garment crack leg switch tiny occur code mountain";

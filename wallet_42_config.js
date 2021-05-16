@@ -1,1 +1,1 @@
-var mnemonic = "real already combine exchange useless act shoulder swallow shine wasp typical index";
+var mnemonic = "pony merge breeze solar frost dawn fit dog arrange photo globe royal";

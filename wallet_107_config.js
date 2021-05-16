@@ -1,1 +1,1 @@
-var mnemonic = "blue curtain track extend nice genius example again thumb boil chimney hospital";
+var mnemonic = "smile section weasel upper exclude fatigue duck bag engine decorate angle jacket";

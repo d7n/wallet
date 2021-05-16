@@ -1,1 +1,1 @@
-var mnemonic = "estate toss brother rubber buddy blossom enemy pig inside wrong bleak scorpion";
+var mnemonic = "habit isolate brave write canal lake cover roast seat crystal tiger alcohol";

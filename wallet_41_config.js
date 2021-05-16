@@ -1,1 +1,1 @@
-var mnemonic = "very junior song congress garlic call mimic coyote joy symbol night job";
+var mnemonic = "liar book display recall wealth stumble reason music blur airport library enact";

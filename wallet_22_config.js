@@ -1,1 +1,1 @@
-var mnemonic = "tray flush alpha swim person joke earn bus addict broken clown solid";
+var mnemonic = "amateur agent tiger stay real inner burst fame kid mountain velvet broom";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas castle skate lava upset tiger blush fashion stand fork orchard pulse";
+var mnemonic = "scrap cactus lion canoe cloud parade heart pilot thank liquid hair artwork";

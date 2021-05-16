@@ -1,1 +1,1 @@
-var mnemonic = "submit blanket animal shell umbrella tree small alien oppose minor olive reveal";
+var mnemonic = "vast illegal task accident grant volcano lend remove effort anxiety junior shine";

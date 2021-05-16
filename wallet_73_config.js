@@ -1,1 +1,1 @@
-var mnemonic = "climb wedding must leader injury cook fork bright mule animal soda ostrich";
+var mnemonic = "punch element antique rare direct curtain ankle impulse version donate drama almost";

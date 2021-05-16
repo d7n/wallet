@@ -1,1 +1,1 @@
-var mnemonic = "moral fatigue unusual visa frown feed hurdle intact office salute party rebuild";
+var mnemonic = "seven minute where scare fury group shield fever awful genuine gravity evidence";

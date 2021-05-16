@@ -1,1 +1,1 @@
-var mnemonic = "race affair shadow fresh siege crime file fiscal evolve check crack bread";
+var mnemonic = "start essence annual dream poem company useless crunch chimney brand lens present";

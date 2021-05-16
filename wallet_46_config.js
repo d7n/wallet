@@ -1,1 +1,1 @@
-var mnemonic = "mobile economy choice strong decorate grocery slim inspire session mixed taste version";
+var mnemonic = "borrow issue era kind pull guitar fluid elevator short prefer throw route";

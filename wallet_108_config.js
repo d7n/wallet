@@ -1,1 +1,1 @@
-var mnemonic = "glove gadget cupboard horse lecture volume section unfold shadow slender foot bus";
+var mnemonic = "gospel lounge again derive muscle until tribe mouse unusual snap hawk tide";

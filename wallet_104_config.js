@@ -1,1 +1,1 @@
-var mnemonic = "simple alien sail apple choose ramp acoustic home someone ill hint test";
+var mnemonic = "exhibit keen wrong economy noodle catch arena noise confirm cloth soon sword";

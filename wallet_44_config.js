@@ -1,1 +1,1 @@
-var mnemonic = "happy spoil inmate license edge one account vacant trend strike used coral";
+var mnemonic = "hedgehog air total shoulder regret blur coral syrup bird entire fiscal embark";

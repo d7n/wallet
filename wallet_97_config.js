@@ -1,1 +1,1 @@
-var mnemonic = "disorder library kiss hurdle skate legal abuse island drink aspect clip cabbage";
+var mnemonic = "swamp nation into burden swarm script glad cigar walk fine must survey";

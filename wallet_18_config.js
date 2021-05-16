@@ -1,1 +1,1 @@
-var mnemonic = "market enemy develop interest solar adult horror inner lend bracket van patient";
+var mnemonic = "deposit normal lemon also sure cousin border february legal art edit quiz";

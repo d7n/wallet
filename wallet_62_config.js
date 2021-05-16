@@ -1,1 +1,1 @@
-var mnemonic = "sister lonely drink sport insane exotic phrase abstract simple video crucial rare";
+var mnemonic = "reflect measure wrestle insect unaware initial guilt also advice wool say father";

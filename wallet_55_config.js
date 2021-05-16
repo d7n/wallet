@@ -1,1 +1,1 @@
-var mnemonic = "material maze blue month infant fossil kitchen race end bright exhibit bird";
+var mnemonic = "spice doll promote stool swarm flock document upon tomato buffalo hard cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "find edit actual hub panther twice twin recipe rhythm prepare travel valley";
+var mnemonic = "image blanket base torch belt betray torch misery chimney hint blind vapor";

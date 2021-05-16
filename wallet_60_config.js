@@ -1,1 +1,1 @@
-var mnemonic = "consider zone grant wisdom volcano uniform upon rich catch amount correct grocery";
+var mnemonic = "advance craft cool stem cement voyage forward subject water goat situate hybrid";

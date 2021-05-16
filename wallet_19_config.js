@@ -1,1 +1,1 @@
-var mnemonic = "mesh guess crush forward talent right filter give little hockey wink narrow";
+var mnemonic = "pig art cabbage empty physical review torch peasant crew chalk sudden enter";

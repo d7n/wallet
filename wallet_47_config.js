@@ -1,1 +1,1 @@
-var mnemonic = "cruel cloth idle south paper scare broom toward fit jealous blind song";
+var mnemonic = "survey orient ugly afford nose asset rice rather uncle reason bamboo story";

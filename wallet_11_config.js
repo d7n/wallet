@@ -1,1 +1,1 @@
-var mnemonic = "usage shadow pink practice cake better one citizen jaguar child intact make";
+var mnemonic = "reunion wasp picture viable toddler riot repair blade state defense electric speak";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy car middle crazy popular angry attend tourist goat problem open elbow";
+var mnemonic = "notice guard nice tourist volcano piece brisk video roof hurt fox actress";

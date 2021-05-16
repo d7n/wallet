@@ -1,1 +1,1 @@
-var mnemonic = "pipe drip ginger panic permit duty ribbon close speak fuel bundle before";
+var mnemonic = "initial amazing news lab wealth dignity focus family donate phrase quick quit";

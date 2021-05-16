@@ -1,1 +1,1 @@
-var mnemonic = "online exit biology member spike snake fringe room purchase actual fine tumble";
+var mnemonic = "domain army joke invest bargain torch elite grocery burst bargain wheat moon";

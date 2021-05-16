@@ -1,1 +1,1 @@
-var mnemonic = "quote violin rich fitness swamp penalty coast motion deal common rack goose";
+var mnemonic = "heart present tobacco salmon kit planet autumn proof unfair ocean amateur divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "update rigid wolf logic census joke pill void silent mesh fog shell";
+var mnemonic = "toy long basket fee off leg father blanket execute problem census code";

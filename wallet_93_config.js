@@ -1,1 +1,1 @@
-var mnemonic = "rate decide popular gun stick silly cost furnace sauce pumpkin fruit over";
+var mnemonic = "strategy bracket math smart worth express lobster mixture enter question tower spot";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant mystery disease sphere advance palm laptop zoo coin gold belt piano";
+var mnemonic = "cash lemon top drill plunge awful cover throw scatter ring shaft essence";

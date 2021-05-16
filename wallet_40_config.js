@@ -1,1 +1,1 @@
-var mnemonic = "cabbage response drip giraffe dial cool also candy away prosper feel pepper";
+var mnemonic = "cheese liberty joke arctic core author expose card news ordinary weather wasp";

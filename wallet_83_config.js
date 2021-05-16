@@ -1,1 +1,1 @@
-var mnemonic = "spice riot spy govern sword call air suggest still swim dream phone";
+var mnemonic = "arctic middle found post stamp tiny brick leopard laugh impose admit inform";

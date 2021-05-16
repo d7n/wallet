@@ -1,1 +1,1 @@
-var mnemonic = "science grit van grape amused gloom plug fork tackle today small dynamic";
+var mnemonic = "federal repeat express swing shy wonder churn dilemma region december gap permit";

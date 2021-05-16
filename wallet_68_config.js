@@ -1,1 +1,1 @@
-var mnemonic = "trophy undo regular coconut evil census muscle same follow step siege oblige";
+var mnemonic = "assault silver umbrella pear polar century essay stool churn shallow hat struggle";

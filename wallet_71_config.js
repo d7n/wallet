@@ -1,1 +1,1 @@
-var mnemonic = "arrow front spare inherit sweet move volume bullet observe burst sadness correct";
+var mnemonic = "catalog bundle oxygen able before tuna sadness inflict delay shaft garlic warrior";

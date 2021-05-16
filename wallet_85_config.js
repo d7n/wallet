@@ -1,1 +1,1 @@
-var mnemonic = "seminar snow runway cradle impact warrior olive true life soon dwarf volume";
+var mnemonic = "stamp meadow wing autumn mule huge arctic story around hospital album impact";

@@ -1,1 +1,1 @@
-var mnemonic = "open visual bronze acid bless space more green dish summer same unknown";
+var mnemonic = "crime crack gate luggage general clump cruel lumber rug run way sentence";

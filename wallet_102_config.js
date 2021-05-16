@@ -1,1 +1,1 @@
-var mnemonic = "member sphere modify move apology bottom vast marine summer symbol cloud athlete";
+var mnemonic = "wet super duty collect buzz slot narrow hill vivid wage oven long";

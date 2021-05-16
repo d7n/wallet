@@ -1,1 +1,1 @@
-var mnemonic = "glare quarter wrap transfer region accuse convince install force orange loyal select";
+var mnemonic = "device plate zebra glove barely sure license machine humor dragon cross spare";

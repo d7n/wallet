@@ -1,1 +1,1 @@
-var mnemonic = "disagree layer now media wide hedgehog soldier because rifle cheap fruit extra";
+var mnemonic = "erase trigger force glance census brain lake piece plate water few bean";

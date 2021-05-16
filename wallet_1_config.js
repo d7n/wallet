@@ -1,1 +1,1 @@
-var mnemonic = "hint jump mandate sheriff action require sponsor orange utility practice piece sister";
+var mnemonic = "catalog twist pizza satoshi black few bless brain become close school border";

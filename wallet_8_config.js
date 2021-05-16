@@ -1,1 +1,1 @@
-var mnemonic = "please saddle reduce almost anxiety length enrich elephant east damp luxury napkin";
+var mnemonic = "glad neglect arctic axis train crush grain second dance various spoil card";

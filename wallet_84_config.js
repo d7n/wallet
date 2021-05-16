@@ -1,1 +1,1 @@
-var mnemonic = "toy ceiling gaze prefer detail giggle saddle umbrella dentist borrow funny domain";
+var mnemonic = "extra tumble child whisper sting lazy more climb choose end deputy stable";

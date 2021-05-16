@@ -1,1 +1,1 @@
-var mnemonic = "merry secret cream pencil south pyramid betray planet window text rubber few";
+var mnemonic = "taste window damage core lend bless drink song senior lottery emerge expose";

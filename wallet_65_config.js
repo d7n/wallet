@@ -1,1 +1,1 @@
-var mnemonic = "amateur movie bomb still sense rough master more mixed chapter purse balance";
+var mnemonic = "bottom hospital wing crop stick author amused curious rifle student hard consider";

@@ -1,1 +1,1 @@
-var mnemonic = "possible gallery drill blue health farm stomach sport detect grape amateur noodle";
+var mnemonic = "later iron sugar remind imitate match knee timber cloud movie say stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry spoil museum machine coral glove lawsuit top march quiz decline coil";
+var mnemonic = "weird image proof rapid achieve vapor dinosaur punch lake shoulder hamster citizen";

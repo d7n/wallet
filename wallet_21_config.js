@@ -1,1 +1,1 @@
-var mnemonic = "mosquito skin phone fish state spatial dry cousin minimum skirt bless scrub";
+var mnemonic = "yard media envelope moon nature item invest tired foil rifle elite chapter";

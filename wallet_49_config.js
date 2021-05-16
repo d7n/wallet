@@ -1,1 +1,1 @@
-var mnemonic = "lion bubble boat medal upon address open cannon author marine venue indicate";
+var mnemonic = "denial master lizard culture express panther helmet cram invite resemble domain valley";

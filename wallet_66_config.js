@@ -1,1 +1,1 @@
-var mnemonic = "monster secret across kidney correct crawl attack history pencil favorite later unlock";
+var mnemonic = "hedgehog lazy leaf sting finish primary sport thrive miss grid same soap";

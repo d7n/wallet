@@ -1,1 +1,1 @@
-var mnemonic = "web blur question pitch buddy skull film usage leisure inspire father journey";
+var mnemonic = "pill cool olympic grace opera surge industry side ancient tribe anger swear";

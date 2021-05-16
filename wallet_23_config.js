@@ -1,1 +1,1 @@
-var mnemonic = "quality luggage hospital around extra bracket organ abandon swing wet any click";
+var mnemonic = "resemble erupt animal claw wash fat invest base neglect vote accuse soldier";

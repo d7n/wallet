@@ -1,1 +1,1 @@
-var mnemonic = "please second repeat input slow action multiply way social crowd plug dirt";
+var mnemonic = "wagon web combine current grid addict together unfold rice link phone supreme";

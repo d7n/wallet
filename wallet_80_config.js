@@ -1,1 +1,1 @@
-var mnemonic = "parent unaware secret enforce ritual combine family glow topic economy choose man";
+var mnemonic = "aware dance arrive ceiling mystery thumb gown mass napkin opinion churn few";

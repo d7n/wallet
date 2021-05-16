@@ -1,1 +1,1 @@
-var mnemonic = "myth youth skin strong dolphin general case neither angle accident this end";
+var mnemonic = "gun dirt level alley enlist rigid twenty gloom electric force rug quit";

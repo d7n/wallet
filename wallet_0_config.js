@@ -1,1 +1,1 @@
-var mnemonic = "wife decade satoshi champion carbon arrive script diamond mushroom table century rely";
+var mnemonic = "order question bachelor voyage solar tip rack rather danger flag field soup";

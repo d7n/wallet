@@ -1,1 +1,1 @@
-var mnemonic = "auction stereo reduce observe scheme piano hybrid once famous neglect flock wing";
+var mnemonic = "park cotton ladder corn glance chief nut aerobic rely salad isolate together";

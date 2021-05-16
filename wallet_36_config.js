@@ -1,1 +1,1 @@
-var mnemonic = "syrup palm desk author endorse include appear slim remember stove sight notice";
+var mnemonic = "beach script arena section increase edge liberty salmon cheese obey bulk illness";

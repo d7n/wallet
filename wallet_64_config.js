@@ -1,1 +1,1 @@
-var mnemonic = "victory jewel apart multiply tuition slam rapid rookie word butter hungry endorse";
+var mnemonic = "autumn paddle rescue world obtain split buffalo deal few tree vote scrap";

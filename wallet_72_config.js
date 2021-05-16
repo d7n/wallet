@@ -1,1 +1,1 @@
-var mnemonic = "pact bubble oil this plate piano devote mail six unusual antique grab";
+var mnemonic = "pistol enact crowd whip sugar frost oak stove letter forum trash modify";

@@ -1,1 +1,1 @@
-var mnemonic = "custom legend announce edge damage share weird fault fire decorate police output";
+var mnemonic = "jacket siren grocery weird mandate device senior joy ahead spy curve food";

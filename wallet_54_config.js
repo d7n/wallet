@@ -1,1 +1,1 @@
-var mnemonic = "giggle abstract tackle donkey major retreat match lecture poverty ribbon gasp wool";
+var mnemonic = "able movie detect utility subway proof coyote meadow spirit motion popular good";

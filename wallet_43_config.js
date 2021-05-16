@@ -1,1 +1,1 @@
-var mnemonic = "eight exchange liar immense afford puzzle stumble bind inflict bullet market carry";
+var mnemonic = "speak gesture wisdom prepare boost course broom duck squirrel either can nut";

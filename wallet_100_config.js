@@ -1,1 +1,1 @@
-var mnemonic = "labor gift gadget salad guard swallow group cave survey spatial jeans waste";
+var mnemonic = "clip sniff party piano brief sorry left snack tank elegant display renew";

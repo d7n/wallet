@@ -1,1 +1,1 @@
-var mnemonic = "hip mobile fire minute twist novel suggest air pelican moon camp ready";
+var mnemonic = "add erode connect change matrix hero obscure group common quiz arrest trade";

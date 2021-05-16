@@ -1,1 +1,1 @@
-var mnemonic = "come pupil cruise tiny sheriff provide baby until shrimp carbon pull solution";
+var mnemonic = "distance rough believe carpet define this solve hungry spy sister typical still";

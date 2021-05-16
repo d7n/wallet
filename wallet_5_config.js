@@ -1,1 +1,1 @@
-var mnemonic = "load orphan shuffle section mule virus like bridge fossil knee absurd monkey";
+var mnemonic = "tired hurry mixture service error december abandon lizard cause until churn law";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch often first glove merit acoustic panther midnight foster series when select";
+var mnemonic = "ten snake spray scale dumb kiwi crumble target cigar assault ahead medal";

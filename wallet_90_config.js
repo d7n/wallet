@@ -1,1 +1,1 @@
-var mnemonic = "friend gown undo dove short resource street super cattle shuffle coconut smile";
+var mnemonic = "picnic fetch crop decade gather tortoise act dish ice easily mad inch";

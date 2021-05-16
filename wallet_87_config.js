@@ -1,1 +1,1 @@
-var mnemonic = "initial bird express liberty grunt used episode similar faint sponsor embody embrace";
+var mnemonic = "void wish ankle candy dune organ couch run bar image bunker park";

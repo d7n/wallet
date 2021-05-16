@@ -1,1 +1,1 @@
-var mnemonic = "hello faint cart smooth between anxiety clarify volcano dress false suggest auto";
+var mnemonic = "estate feed blur royal mirror vague right practice unusual bullet social ramp";

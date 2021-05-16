@@ -1,1 +1,1 @@
-var mnemonic = "burden custom only broccoli faculty hip dad neck embody equal donate when";
+var mnemonic = "perfect trend zone tiger shoulder stand nominee poem junior six aspect depart";

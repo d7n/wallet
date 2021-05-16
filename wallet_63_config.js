@@ -1,1 +1,1 @@
-var mnemonic = "vendor cat ability summer emotion crime obvious section problem audit put dragon";
+var mnemonic = "letter enroll guess rail swarm usage cousin gas nurse silver battle frame";

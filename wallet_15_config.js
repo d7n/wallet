@@ -1,1 +1,1 @@
-var mnemonic = "rely exotic mule tree rural harsh combine echo pink program crumble identify";
+var mnemonic = "feel mask quote engage general relief only before oval pledge kite busy";

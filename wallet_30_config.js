@@ -1,1 +1,1 @@
-var mnemonic = "process cup iron banner spend bus together myth bread asset index dry";
+var mnemonic = "system situate review zebra crucial amazing crystal liar purity smoke antenna chunk";

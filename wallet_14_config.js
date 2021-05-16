@@ -1,1 +1,1 @@
-var mnemonic = "labor earth erode tube crystal delay version angry sauce phrase diet absent";
+var mnemonic = "clown invest island fabric slender cover month forget night profit wave exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "ability wheel autumn increase leader talent strong orange next visa act bounce";
+var mnemonic = "awesome nurse either sure fit click earn wait fitness elephant ocean announce";

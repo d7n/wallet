@@ -1,1 +1,1 @@
-var mnemonic = "swift neck laugh license brand sauce bird small since lounge cheese plunge";
+var mnemonic = "cheese potato game dignity frog category sunset history shoulder coral clap load";

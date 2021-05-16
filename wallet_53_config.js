@@ -1,1 +1,1 @@
-var mnemonic = "mobile place blanket core title image buffalo relax jelly cabin critic camp";
+var mnemonic = "during enroll video salon library reject swift digital wish supply spice guess";

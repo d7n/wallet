@@ -1,1 +1,1 @@
-var mnemonic = "panther vibrant layer organ work scene kit trial ski monster gloom hammer";
+var mnemonic = "cycle cause split burden seat tourist accuse truth few stage nature tongue";

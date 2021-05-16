@@ -1,1 +1,1 @@
-var mnemonic = "witness public master minimum indicate brush spoon key anger measure swallow merry";
+var mnemonic = "chimney inside kid moment primary awful hero stove lazy drum electric kitten";

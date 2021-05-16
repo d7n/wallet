@@ -1,1 +1,1 @@
-var mnemonic = "already captain honey orbit stay swarm urge dose luggage second glass much";
+var mnemonic = "park expand analyst anger say upgrade below exclude album aspect ask luggage";

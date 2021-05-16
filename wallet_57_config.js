@@ -1,1 +1,1 @@
-var mnemonic = "increase wasp into jungle office race stomach ladder scene later distance shock";
+var mnemonic = "trap runway enroll vast depart camera farm crop duck liquid ethics start";
