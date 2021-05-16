@@ -1,1 +1,1 @@
-var mnemonic = "right dog step sausage approve laugh ice keen milk deposit typical clip";
+var mnemonic = "dad female gym glue water large case subway harbor mosquito tunnel hungry";

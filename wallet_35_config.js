@@ -1,1 +1,1 @@
-var mnemonic = "focus arena list creek moon steak accident guilt food image language chimney";
+var mnemonic = "noodle tenant long shock craft toy pause shoulder twelve rival culture proud";

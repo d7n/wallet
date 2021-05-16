@@ -1,1 +1,1 @@
-var mnemonic = "nose away ordinary jaguar vacant open carry rich room soon intact drill";
+var mnemonic = "engage company sphere tomato beef weekend syrup poet normal hotel daughter rally";

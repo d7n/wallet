@@ -1,1 +1,1 @@
-var mnemonic = "old load weasel quiz season funny tiny sight swear weapon square accident";
+var mnemonic = "case original pudding speak super claim urban arm second give math stuff";

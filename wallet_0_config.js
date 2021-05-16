@@ -1,1 +1,1 @@
-var mnemonic = "vital garment list kit combine finger border vapor pig museum upon hamster";
+var mnemonic = "answer shrimp fatal snake clown proud giggle host galaxy differ decrease tilt";

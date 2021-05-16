@@ -1,1 +1,1 @@
-var mnemonic = "turkey rescue artist twin husband kid holiday soap clap faint magic photo";
+var mnemonic = "doctor text tree eager damp clown you dice awake bag similar tooth";

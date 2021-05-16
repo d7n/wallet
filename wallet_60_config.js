@@ -1,1 +1,1 @@
-var mnemonic = "bacon expire drama initial style squirrel image craft small provide electric gaze";
+var mnemonic = "any clever switch ticket heart flame scorpion found lift horse blossom never";

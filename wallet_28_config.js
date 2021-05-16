@@ -1,1 +1,1 @@
-var mnemonic = "diesel wisdom grit wrestle people click shaft pen utility critic crane immense";
+var mnemonic = "era pet soccer jealous hospital correct pear near buddy action hard cook";

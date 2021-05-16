@@ -1,1 +1,1 @@
-var mnemonic = "radio river race carbon seat embrace bargain trip horn bracket cricket carry";
+var mnemonic = "talk price celery angry page devote forum kid dutch poverty essay vital";

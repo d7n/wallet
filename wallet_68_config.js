@@ -1,1 +1,1 @@
-var mnemonic = "weapon wine recipe develop oak shallow decorate keep trim sound material brother";
+var mnemonic = "leader draft aware tower scale cover bulk mirror tonight mule mad grab";

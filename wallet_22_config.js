@@ -1,1 +1,1 @@
-var mnemonic = "just leisure element tree marine shine cactus text clip way load wisdom";
+var mnemonic = "screen hold market estate opinion anxiety eyebrow guitar bulk quote leisure rate";

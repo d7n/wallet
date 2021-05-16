@@ -1,1 +1,1 @@
-var mnemonic = "purse valley cruise nerve roast fossil noble salon network turtle ready inmate";
+var mnemonic = "digital echo dismiss learn nephew mouse fitness wasp stand sail crime goat";

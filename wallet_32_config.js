@@ -1,1 +1,1 @@
-var mnemonic = "analyst cram treat arctic noble inflict shell oxygen worry nurse fox dash";
+var mnemonic = "hunt soldier wreck imitate script brain cave silent aunt ginger fiscal chest";

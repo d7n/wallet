@@ -1,1 +1,1 @@
-var mnemonic = "balance someone appear moon make front wreck boss salon hazard gossip media";
+var mnemonic = "clean rural way tourist wet fantasy length fun gold volume inmate drill";

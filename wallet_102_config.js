@@ -1,1 +1,1 @@
-var mnemonic = "vault juice census kitten version useful prison analyst urban supreme life often";
+var mnemonic = "carbon legend desert clay couch odor scene grant draw suffer damage negative";

@@ -1,1 +1,1 @@
-var mnemonic = "dry figure expand raw seminar mouse grit want shoot scissors hero manual";
+var mnemonic = "entry pepper hold prosper bamboo when zoo devote distance empty turn job";

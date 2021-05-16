@@ -1,1 +1,1 @@
-var mnemonic = "crime rebuild humor evil claim engine barely space upper submit blouse require";
+var mnemonic = "stove phrase basket utility come knock leaf sentence retreat kite apart arrange";

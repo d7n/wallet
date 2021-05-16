@@ -1,1 +1,1 @@
-var mnemonic = "envelope pilot soap gauge long resist asthma baby cattle effort filter cube";
+var mnemonic = "divorce manage flower sister pulp better prefer double hurry alter rain sample";

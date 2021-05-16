@@ -1,1 +1,1 @@
-var mnemonic = "job turkey game someone column metal flower sick domain trumpet solution device";
+var mnemonic = "burger sand alcohol alien glory expect differ mango bronze merge lunch hello";

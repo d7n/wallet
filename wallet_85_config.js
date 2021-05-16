@@ -1,1 +1,1 @@
-var mnemonic = "borrow aim toy comic smoke exile vibrant link gravity memory middle dinosaur";
+var mnemonic = "prefer offer real oblige correct alien small south original aware tide hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "into weird trend addict bean broom scrap asthma wire safe ivory prize";
+var mnemonic = "shallow park oppose globe offer chimney uphold smart sausage start asthma desert";

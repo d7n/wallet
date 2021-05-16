@@ -1,1 +1,1 @@
-var mnemonic = "harsh horse express tiny impose use outdoor quiz course equal amused hawk";
+var mnemonic = "caution history walnut hurt typical consider kitchen route monitor green lunch shove";

@@ -1,1 +1,1 @@
-var mnemonic = "area garlic mix season region switch skull media asset confirm clog file";
+var mnemonic = "truth mass level climb lumber parade decline top index visit useless master";

@@ -1,1 +1,1 @@
-var mnemonic = "west pudding elbow clay damp degree bird famous logic join spy day";
+var mnemonic = "cupboard any grain flame original air budget dad abstract reward cruise noodle";

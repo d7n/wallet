@@ -1,1 +1,1 @@
-var mnemonic = "table blood web traffic mimic soft guide beef above idea sick solution";
+var mnemonic = "random axis intact panic bronze calm canyon broken glad rich occur novel";

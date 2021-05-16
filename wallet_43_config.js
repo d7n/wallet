@@ -1,1 +1,1 @@
-var mnemonic = "home mom insect snow rent tragic bus slot favorite depend title kick";
+var mnemonic = "sock student recall faculty vessel surface apology key oil letter tissue vacant";

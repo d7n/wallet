@@ -1,1 +1,1 @@
-var mnemonic = "pen prevent choose coast pigeon pool attitude confirm green behind mobile proud";
+var mnemonic = "dash verb few deputy dog stable swim village regular payment drop evolve";

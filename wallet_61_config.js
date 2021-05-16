@@ -1,1 +1,1 @@
-var mnemonic = "rough vocal donor master bridge person forget joy lawsuit foam can town";
+var mnemonic = "plunge school rough involve assault goddess laptop field gloom foil obey game";

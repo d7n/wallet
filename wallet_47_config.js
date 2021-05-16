@@ -1,1 +1,1 @@
-var mnemonic = "decline orphan trick embark apple hole arch provide stay hole label aware";
+var mnemonic = "acoustic sure install fluid fish airport utility error mobile obvious sadness filter";

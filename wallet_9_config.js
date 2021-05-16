@@ -1,1 +1,1 @@
-var mnemonic = "vacant civil tube float object fluid text empower accident burden install monitor";
+var mnemonic = "insane smile spray write approve furnace ridge chaos grocery kangaroo wall rigid";

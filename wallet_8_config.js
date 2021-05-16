@@ -1,1 +1,1 @@
-var mnemonic = "vacuum approve mosquito pet detail unveil enable entry arctic wish elbow attend";
+var mnemonic = "resource beyond mail amazing sea spare spend trouble deny focus rain before";

@@ -1,1 +1,1 @@
-var mnemonic = "trial light junk slight mountain cook install bike risk rapid surprise avocado";
+var mnemonic = "used vendor public vote blast victory digital voice rather load spy reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "toss fabric figure organ you embark hunt shoot divide worth embrace evidence";
+var mnemonic = "emerge cheese hedgehog use course casual receive trial wrong biology rotate oil";

@@ -1,1 +1,1 @@
-var mnemonic = "frost survey rice test laptop orphan chalk space alien speed ranch split";
+var mnemonic = "apple target there please olive orbit resource silver between napkin left sleep";

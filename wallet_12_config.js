@@ -1,1 +1,1 @@
-var mnemonic = "install six setup young behave wood dentist result taxi can enforce this";
+var mnemonic = "apple profit language rigid uniform time salmon hold replace orbit glove foot";

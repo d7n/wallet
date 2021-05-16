@@ -1,1 +1,1 @@
-var mnemonic = "modify alcohol gas risk ripple autumn able drift actor blame teach slice";
+var mnemonic = "spare wash fabric boss craft food train depend era bike argue defy";

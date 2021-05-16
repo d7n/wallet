@@ -1,1 +1,1 @@
-var mnemonic = "toddler legend sister rifle purity ability time space special profit mutual tape";
+var mnemonic = "inflict shuffle village laundry elephant rely gravity devote negative useful raccoon shrimp";

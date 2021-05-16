@@ -1,1 +1,1 @@
-var mnemonic = "glad trust type ladder analyst virtual letter juice execute nut alter beach";
+var mnemonic = "mandate drill enforce together tank kite invite roof sweet animal cloud cement";

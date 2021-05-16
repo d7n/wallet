@@ -1,1 +1,1 @@
-var mnemonic = "winner nut recall unable zero segment cool clutch drama course panel mistake";
+var mnemonic = "chronic rhythm opinion cloud bomb special bean banner strategy february silver orient";

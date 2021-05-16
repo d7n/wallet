@@ -1,1 +1,1 @@
-var mnemonic = "cruise employ upper face danger item margin three pen horror level enable";
+var mnemonic = "physical glass cart material ceiling drive space enemy cliff tuna life primary";

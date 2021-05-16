@@ -1,1 +1,1 @@
-var mnemonic = "toy fitness require author endorse thunder dish cool fatigue reject album quick";
+var mnemonic = "better alter rapid inhale jeans acquire phrase income hurry zero grief jungle";

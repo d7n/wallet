@@ -1,1 +1,1 @@
-var mnemonic = "clown mix sock rather item gold potato grocery ecology fee poet gym";
+var mnemonic = "hawk danger stereo outer spare hurt invite edge other gadget recipe typical";

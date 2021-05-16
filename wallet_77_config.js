@@ -1,1 +1,1 @@
-var mnemonic = "biology raw world staff fabric grow cheap coil prepare robust version venture";
+var mnemonic = "begin pencil sentence ball leopard attack taxi shell roof worry goose mention";

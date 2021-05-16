@@ -1,1 +1,1 @@
-var mnemonic = "morning able allow fame motor venture grocery mail canyon theme monitor pact";
+var mnemonic = "diagram arrange mass scare dinner pig weird fork develop muscle various traffic";

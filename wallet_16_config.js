@@ -1,1 +1,1 @@
-var mnemonic = "zebra festival bitter alone whip crush main guess damp empower monitor giant";
+var mnemonic = "digital chunk question author whale banana genius hour soda shy wood strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "force danger usual notice kick crowd wreck cigar boat often couple humble";
+var mnemonic = "joke brain health report clump betray potato hover weapon skull soccer aunt";

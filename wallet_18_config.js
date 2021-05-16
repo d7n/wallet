@@ -1,1 +1,1 @@
-var mnemonic = "minor orchard endorse tackle harvest neglect pepper lesson lyrics tail tobacco little";
+var mnemonic = "sand loud response minute orchard atom faint six wheel dad antique curious";

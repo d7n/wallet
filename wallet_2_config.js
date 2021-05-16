@@ -1,1 +1,1 @@
-var mnemonic = "cabbage clever pill clap sock purity hello latin across finish radar choice";
+var mnemonic = "school trust someone dog olympic output pepper round thrive easy swap couple";

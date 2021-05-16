@@ -1,1 +1,1 @@
-var mnemonic = "build ball stumble vintage brave fit divide bracket arctic index mixture exact";
+var mnemonic = "grit close grab exist debris clay boil history awkward harvest aware tiny";

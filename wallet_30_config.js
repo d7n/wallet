@@ -1,1 +1,1 @@
-var mnemonic = "silly fall orphan submit noble illness opera demise pole custom drastic eager";
+var mnemonic = "adult chunk business clutch drift barely obtain home torch rural impose dynamic";

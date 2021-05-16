@@ -1,1 +1,1 @@
-var mnemonic = "test eternal stereo sunny grace provide victory hood thrive speed purchase junior";
+var mnemonic = "injury ritual betray gift minor key tackle eagle afraid aware donkey caution";

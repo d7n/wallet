@@ -1,1 +1,1 @@
-var mnemonic = "clerk scale horror scout relax main whale chair calm basic fire finger";
+var mnemonic = "rack useful pulp board frog breeze liquid grit unveil garden tumble vanish";

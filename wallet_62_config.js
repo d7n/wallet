@@ -1,1 +1,1 @@
-var mnemonic = "together daughter faith dentist basket mask runway sign brush breeze filter assault";
+var mnemonic = "wheel grocery unfair submit march capable pattern helmet thing mix blush erupt";

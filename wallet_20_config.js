@@ -1,1 +1,1 @@
-var mnemonic = "waste spin lake trust mammal forward rotate scale pyramid spin merry inside";
+var mnemonic = "drama glare magic can powder wasp wire zoo vacant pelican gas clerk";

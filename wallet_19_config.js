@@ -1,1 +1,1 @@
-var mnemonic = "scan lens gauge lawsuit traffic shiver noodle kidney embark pretty save palm";
+var mnemonic = "finger robust bamboo bulb rubber culture lion find syrup local dutch various";

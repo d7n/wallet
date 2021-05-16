@@ -1,1 +1,1 @@
-var mnemonic = "dawn wheel senior alarm goddess expire critic result palace math neither patch";
+var mnemonic = "language subject captain stick young ozone impulse address safe plug guess ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom weasel copper next wheat vague wink forest call panel inject assist";
+var mnemonic = "hybrid expire work reason inspire below resist intact game radar eyebrow minute";

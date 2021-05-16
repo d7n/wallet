@@ -1,1 +1,1 @@
-var mnemonic = "roast magnet wave spin young photo dentist swift lemon issue tomorrow exhibit";
+var mnemonic = "weasel notable cereal catch bronze turtle security wrist inner novel venture napkin";

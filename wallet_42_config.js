@@ -1,1 +1,1 @@
-var mnemonic = "rival emotion unaware under wire dragon edge humble baby feel gentle camera";
+var mnemonic = "despair simple vehicle pool hidden opera stomach deny tobacco monkey magnet castle";

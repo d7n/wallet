@@ -1,1 +1,1 @@
-var mnemonic = "aisle over level maximum august gift art sick flash consider comic limit";
+var mnemonic = "erode stand hedgehog code junk ask science rotate armed flash tennis visa";

@@ -1,1 +1,1 @@
-var mnemonic = "maze cart convince donor limit ugly wide skate elevator wrong reason caught";
+var mnemonic = "middle labor cancel broken truck kick shove grocery innocent idle cliff bean";

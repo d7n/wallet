@@ -1,1 +1,1 @@
-var mnemonic = "rent grab fuel truck divorce seed mutual account trigger pistol sad absorb";
+var mnemonic = "sugar young truth truly perfect club program visa cake stool enjoy shrug";

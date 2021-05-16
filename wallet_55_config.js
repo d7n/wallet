@@ -1,1 +1,1 @@
-var mnemonic = "gold forest uncle together warfare tree orient surge run west good limb";
+var mnemonic = "deposit choice fragile symbol element manage victory true moment net earth viable";

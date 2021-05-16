@@ -1,1 +1,1 @@
-var mnemonic = "absurd island refuse strike climb turn only gesture enact kind human own";
+var mnemonic = "master describe again anxiety bracket pond curve camera lock present asset adapt";

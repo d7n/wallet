@@ -1,1 +1,1 @@
-var mnemonic = "sunset wife pulse race key chunk wife tag pioneer mule horror demise";
+var mnemonic = "scan normal fantasy van boring napkin estate tonight must either rival dove";

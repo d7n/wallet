@@ -1,1 +1,1 @@
-var mnemonic = "receive multiply actual van possible transfer little oppose carbon roast maid math";
+var mnemonic = "absorb because device baby engage dose calm decorate leopard cloud labor like";

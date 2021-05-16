@@ -1,1 +1,1 @@
-var mnemonic = "oil arctic always ketchup hero install pig theory ugly save poem side";
+var mnemonic = "marriage tail length inch history budget woman vague industry live process guess";

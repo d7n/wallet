@@ -1,1 +1,1 @@
-var mnemonic = "soul game dish guitar rug position gather audit bid visual music butter";
+var mnemonic = "between finger bread green often deny churn surprise prison limb leg unveil";

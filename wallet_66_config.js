@@ -1,1 +1,1 @@
-var mnemonic = "vacuum file crystal fragile nominee over uncle flame tourist sail depart isolate";
+var mnemonic = "future tooth gaze stove around want vintage almost what quality inner cause";

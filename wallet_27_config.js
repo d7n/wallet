@@ -1,1 +1,1 @@
-var mnemonic = "zoo green favorite potato mom bundle return coyote unfair sentence dose impact";
+var mnemonic = "brass mind ugly essence skull verb frost coin bid dash west pilot";

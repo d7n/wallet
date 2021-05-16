@@ -1,1 +1,1 @@
-var mnemonic = "panther language three cool mind snack bundle lumber manual fiction manage target";
+var mnemonic = "brisk frame design camp runway add version season idle noble patrol tell";

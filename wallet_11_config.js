@@ -1,1 +1,1 @@
-var mnemonic = "cover uncover glad aunt long unknown crater involve tuna gasp draw exit";
+var mnemonic = "milk canoe slot force crack panda satisfy empower hamster domain march drive";

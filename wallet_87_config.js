@@ -1,1 +1,1 @@
-var mnemonic = "health core power model farm matter athlete tooth crowd height rich nasty";
+var mnemonic = "churn never tower sunset detect cannon stick announce life board exile resource";

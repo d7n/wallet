@@ -1,1 +1,1 @@
-var mnemonic = "night tribe carbon angry list junior report antenna february place income undo";
+var mnemonic = "nothing swift fine side swamp core slice bubble salad lizard step pact";

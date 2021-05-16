@@ -1,1 +1,1 @@
-var mnemonic = "glide grain prize receive need broccoli belt creek wet myth salute quantum";
+var mnemonic = "bundle panther visit skull autumn cruel twist coral mammal stove push east";

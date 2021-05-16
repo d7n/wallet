@@ -1,1 +1,1 @@
-var mnemonic = "cupboard room fit unit ice ladder forum omit tragic employ hold cruel";
+var mnemonic = "fringe kid student license absurd receive gossip orbit wasp apple dish napkin";

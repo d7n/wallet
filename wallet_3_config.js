@@ -1,1 +1,1 @@
-var mnemonic = "unfair crisp rare future actor clock rib maid talent fold write bonus";
+var mnemonic = "lobster expose human ranch vital spike alpha ride spider material dress angle";

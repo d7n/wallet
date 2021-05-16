@@ -1,1 +1,1 @@
-var mnemonic = "document favorite snake wrestle fresh punch crop demand alien comfort foster affair";
+var mnemonic = "hybrid aerobic festival evidence kidney wing blood pyramid nothing blast off load";

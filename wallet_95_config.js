@@ -1,1 +1,1 @@
-var mnemonic = "brown jazz test share someone just salt learn sort sentence stool fruit";
+var mnemonic = "sunset useless peanut promote trend festival zero birth dizzy nut venue chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "scout argue fiction stage release same total mention stove crawl across alone";
+var mnemonic = "nothing harbor frame dragon ribbon border melody call belt butter indicate zebra";

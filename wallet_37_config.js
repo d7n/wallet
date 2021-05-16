@@ -1,1 +1,1 @@
-var mnemonic = "shadow battle tube anchor infant air load bubble crop cushion rude abandon";
+var mnemonic = "method palm april remember fiscal consider lounge asthma achieve pyramid copper exit";

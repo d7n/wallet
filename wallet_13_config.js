@@ -1,1 +1,1 @@
-var mnemonic = "party elder dirt rookie fog autumn tornado caught pretty favorite fan foot";
+var mnemonic = "satisfy follow endorse kidney flavor napkin hold trade lesson trip satoshi sister";

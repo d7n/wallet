@@ -1,1 +1,1 @@
-var mnemonic = "goddess pluck caution veteran awesome seminar resemble cushion embrace tree decrease object";
+var mnemonic = "august describe promote jealous warm impose card cannon jelly chase adapt problem";
