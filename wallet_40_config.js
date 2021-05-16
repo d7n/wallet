@@ -1,1 +1,1 @@
-var mnemonic = "online chase arctic flavor flock label arrive suit napkin lamp act story";
+var mnemonic = "fresh robot found stem height magnet result supply object view pilot turtle";

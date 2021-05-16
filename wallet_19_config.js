@@ -1,1 +1,1 @@
-var mnemonic = "ignore clay harsh drink captain donate mean mountain casino hair bulb cheese";
+var mnemonic = "hood endless ranch art song gravity until labor away sausage throw govern";

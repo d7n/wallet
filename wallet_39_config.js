@@ -1,1 +1,1 @@
-var mnemonic = "rate help frame air hard mountain couple put bread smart spend surface";
+var mnemonic = "clutch menu glass boy ten virtual gloom barrel inmate trend true day";

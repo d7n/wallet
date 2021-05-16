@@ -1,1 +1,1 @@
-var mnemonic = "bargain solution sunset cargo little scale develop shine they solid extend barely";
+var mnemonic = "music wave mad author sound project start law uncle uniform assault pepper";

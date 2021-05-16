@@ -1,1 +1,1 @@
-var mnemonic = "item hidden able acid inherit urban true media enemy you monster stable";
+var mnemonic = "pepper flee river solid dress sword range forest remove century humble lecture";

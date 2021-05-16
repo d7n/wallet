@@ -1,1 +1,1 @@
-var mnemonic = "pitch mutual cool when metal crime easily fox evolve medal acquire rich";
+var mnemonic = "force drift exhibit merry carbon town hidden leave secret train victory purity";

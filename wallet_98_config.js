@@ -1,1 +1,1 @@
-var mnemonic = "paper among civil uncle faculty birth oil shove bounce rule famous increase";
+var mnemonic = "charge regular ball tail beef invest runway bring hope pact diary strong";

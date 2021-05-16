@@ -1,1 +1,1 @@
-var mnemonic = "front result drum mesh prefer orbit amused meadow decrease scatter arch hover";
+var mnemonic = "among light unknown excess left impulse evidence other where awesome faculty modify";

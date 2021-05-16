@@ -1,1 +1,1 @@
-var mnemonic = "tent tonight shallow front loan east fruit capital involve guess noble cross";
+var mnemonic = "ocean require picture man nasty milk vicious hamster mutual tenant lyrics honey";

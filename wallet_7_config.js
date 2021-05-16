@@ -1,1 +1,1 @@
-var mnemonic = "pause beauty jump rich exhibit senior guitar vessel amount lucky polar van";
+var mnemonic = "rather forget naive chat annual surprise silver recipe art segment upset hammer";

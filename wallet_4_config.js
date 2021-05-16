@@ -1,1 +1,1 @@
-var mnemonic = "scrub snow rifle consider success rally cable benefit zone tiny pen butter";
+var mnemonic = "immense list praise leader open enforce cover hero chimney palm resemble giggle";

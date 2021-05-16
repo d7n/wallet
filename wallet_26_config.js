@@ -1,1 +1,1 @@
-var mnemonic = "hospital defense nation spatial manage gas chief valley light until nut antique";
+var mnemonic = "great vague later thought cement card identify body love misery doll evidence";

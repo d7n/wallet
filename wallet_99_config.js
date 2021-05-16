@@ -1,1 +1,1 @@
-var mnemonic = "raccoon tomorrow veteran nephew increase manage spy negative near beach staff paddle";
+var mnemonic = "panda endless utility tissue rapid hole exercise junk host bronze across wonder";

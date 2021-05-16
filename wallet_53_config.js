@@ -1,1 +1,1 @@
-var mnemonic = "erupt concert impulse shock cat fiction jewel eagle field virus zoo crumble";
+var mnemonic = "slush rare lab senior process adult damp exile evil patient two media";

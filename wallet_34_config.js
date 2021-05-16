@@ -1,1 +1,1 @@
-var mnemonic = "wise indoor quiz limb success street wrestle tortoise spatial cancel library science";
+var mnemonic = "smoke shiver cigar flavor burden cube brother place couple jelly april hill";

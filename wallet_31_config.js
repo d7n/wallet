@@ -1,1 +1,1 @@
-var mnemonic = "slot vacuum snow shift ridge way awake sort genre toe favorite indicate";
+var mnemonic = "situate come banner steak erode note awkward cave welcome patient exile knee";

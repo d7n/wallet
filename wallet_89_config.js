@@ -1,1 +1,1 @@
-var mnemonic = "ill father city discover talent rib cotton hungry hole frozen scissors slice";
+var mnemonic = "adapt canvas elbow solve clutch season denial area once plate feature lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "above stool belt neck draft thrive prevent feed height obtain hire goat";
+var mnemonic = "clip captain arena mouse ask reject curtain paper math slush relief gaze";

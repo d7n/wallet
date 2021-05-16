@@ -1,1 +1,1 @@
-var mnemonic = "dance lazy sunny doll novel faculty solve trophy portion chimney evil gather";
+var mnemonic = "author unfold segment visa bachelor lyrics soup bleak joke goose curtain diesel";

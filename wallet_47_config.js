@@ -1,1 +1,1 @@
-var mnemonic = "margin render adjust barrel napkin talent render tiger blouse assault march tonight";
+var mnemonic = "green chicken earth heavy enlist gold wave clown ball draw hotel enrich";

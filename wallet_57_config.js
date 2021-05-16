@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin palace today tourist volume cinnamon bacon hole horror usage trumpet bachelor";
+var mnemonic = "rubber across wink turtle adult wolf ahead emerge people mail situate main";

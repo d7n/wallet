@@ -1,1 +1,1 @@
-var mnemonic = "police squeeze motion govern save muffin width split indoor initial unhappy gadget";
+var mnemonic = "position eye mass maid oyster kangaroo avoid belt lesson siege purse priority";

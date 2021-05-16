@@ -1,1 +1,1 @@
-var mnemonic = "demand clinic meadow close vocal sauce someone struggle pill notable task episode";
+var mnemonic = "tiny staff october rebuild family blush curious viable slush wedding interest couch";

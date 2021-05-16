@@ -1,1 +1,1 @@
-var mnemonic = "inhale charge roof water chronic gate sun pony mercy master hurry jewel";
+var mnemonic = "together cargo teach pattern coconut act engage smile bacon angle wealth raise";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel hat alien effort slice fork dolphin gift length spend can bubble";
+var mnemonic = "cousin during help crumble load pottery image result account shoe work notice";

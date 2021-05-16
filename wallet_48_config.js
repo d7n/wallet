@@ -1,1 +1,1 @@
-var mnemonic = "evil opera ready dice pledge foam impose impose sport scan pluck mystery";
+var mnemonic = "witness meat winter pyramid alone portion toddler slab jar salmon problem inch";

@@ -1,1 +1,1 @@
-var mnemonic = "arm suggest gold room lady shell theory issue cinnamon hat wrong vocal";
+var mnemonic = "potato arctic foam chaos name trip battle valley rice foam talk prepare";

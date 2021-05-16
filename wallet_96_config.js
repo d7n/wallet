@@ -1,1 +1,1 @@
-var mnemonic = "crumble payment planet film monitor tackle pepper mention analyst balcony deposit mansion";
+var mnemonic = "shell harsh scrap glue open ostrich please talent ready couch donate spirit";

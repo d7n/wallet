@@ -1,1 +1,1 @@
-var mnemonic = "curious income oil vessel guitar box arch sad dad drum very payment";
+var mnemonic = "trust human build method fame wealth salmon law ski delay naive impulse";

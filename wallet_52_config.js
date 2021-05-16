@@ -1,1 +1,1 @@
-var mnemonic = "wise second silk senior side act diet trash skin any clap entire";
+var mnemonic = "book car oyster such pig wet south detect pelican tourist mystery taste";

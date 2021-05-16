@@ -1,1 +1,1 @@
-var mnemonic = "release slab because wreck insect power sudden misery husband few concert picnic";
+var mnemonic = "debate guilt trouble move sorry pigeon front tomato flag huge ginger elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "feed mom reject isolate stem pen ticket element tragic glare cash gate";
+var mnemonic = "wheel penalty damp wink curve moon syrup pond pause tribe panel latin";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead more car salute play raw nephew figure approve island inject future";
+var mnemonic = "main notable joke dice found wide spread hidden return jaguar extend math";

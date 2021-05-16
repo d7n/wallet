@@ -1,1 +1,1 @@
-var mnemonic = "donate build six immune letter oppose actor cat illegal spring range axis";
+var mnemonic = "humor topple give supreme close snow runway salt drill wing fiber dwarf";

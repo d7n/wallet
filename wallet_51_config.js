@@ -1,1 +1,1 @@
-var mnemonic = "divert spare seminar laptop copy diamond syrup card casino bleak inside table";
+var mnemonic = "ten enter denial any boss aunt moon account slow tennis switch regular";

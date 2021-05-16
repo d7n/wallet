@@ -1,1 +1,1 @@
-var mnemonic = "soda actor celery nephew comfort audit term clay picture thunder maid lecture";
+var mnemonic = "crisp taste trophy near cloth hockey base genuine double next enrich defy";

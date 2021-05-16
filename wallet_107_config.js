@@ -1,1 +1,1 @@
-var mnemonic = "hello fog tool scare blue castle junior three system whisper hazard arctic";
+var mnemonic = "banner act birth afford drip labor tone march confirm silly quality bid";

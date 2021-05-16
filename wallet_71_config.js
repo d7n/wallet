@@ -1,1 +1,1 @@
-var mnemonic = "tiny cat erosion gravity today sunset welcome bullet utility toy dice deny";
+var mnemonic = "lumber antenna cage verify bring treat over finish hour shop pact case";

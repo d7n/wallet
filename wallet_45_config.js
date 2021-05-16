@@ -1,1 +1,1 @@
-var mnemonic = "close tell hope run town orbit soldier planet supply pond federal weapon";
+var mnemonic = "angle moment guilt identify deny supply demise become giraffe oak abstract gaze";

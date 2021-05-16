@@ -1,1 +1,1 @@
-var mnemonic = "way spirit random theme fork pull excess identify aspect sausage crowd snack";
+var mnemonic = "female chimney inmate heart slice year method hero inside person yard glove";

@@ -1,1 +1,1 @@
-var mnemonic = "truly globe physical sausage hire share surface scan enhance subway boss gloom";
+var mnemonic = "inhale imitate whale digital home position master approve shed moment topple jewel";

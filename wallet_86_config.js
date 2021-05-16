@@ -1,1 +1,1 @@
-var mnemonic = "yellow reduce spider keen bring area robust winner light lumber warrior vapor";
+var mnemonic = "olive list drum rose ask level planet dragon address valid track since";

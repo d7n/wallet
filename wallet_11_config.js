@@ -1,1 +1,1 @@
-var mnemonic = "dust craft pill lottery story problem surround increase logic crystal seek wagon";
+var mnemonic = "wash affair cycle claim raise broccoli erode trade mule suggest flower cat";

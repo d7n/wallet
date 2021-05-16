@@ -1,1 +1,1 @@
-var mnemonic = "can property multiply then congress when scout keen captain west crop travel";
+var mnemonic = "naive claw upgrade enjoy damp dice tell logic lazy ranch earth plate";

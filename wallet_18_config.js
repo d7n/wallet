@@ -1,1 +1,1 @@
-var mnemonic = "force mountain exit drop margin industry venue camp pepper pole umbrella reopen";
+var mnemonic = "crater fork surface put plate couple goat tunnel twenty chat fix hire";

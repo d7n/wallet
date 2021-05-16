@@ -1,1 +1,1 @@
-var mnemonic = "beyond word question announce thing pistol rude autumn order dizzy kind slot";
+var mnemonic = "shine loud above spell cable suggest whisper host forum video alcohol remain";

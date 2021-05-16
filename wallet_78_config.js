@@ -1,1 +1,1 @@
-var mnemonic = "across abstract congress actor assault goat car rude radar hobby few crawl";
+var mnemonic = "slice crumble cat measure stairs age proof ordinary biology lucky sound hidden";

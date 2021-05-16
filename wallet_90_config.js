@@ -1,1 +1,1 @@
-var mnemonic = "approve cloud shell property hold attract purchase hammer outdoor engine talent offer";
+var mnemonic = "hammer bonus olive fiscal age cannon rebuild tube exhaust pledge fortune usual";

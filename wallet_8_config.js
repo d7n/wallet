@@ -1,1 +1,1 @@
-var mnemonic = "buyer drink leg differ hold toy repeat zoo gas weird slogan pony";
+var mnemonic = "hard mirror wire panel angry elegant month grow melt brick spread service";

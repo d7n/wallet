@@ -1,1 +1,1 @@
-var mnemonic = "script rival public rain easy garage write ghost enforce clip ignore sand";
+var mnemonic = "artist devote oven anger fitness farm hawk chief husband strike hen wonder";

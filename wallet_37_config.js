@@ -1,1 +1,1 @@
-var mnemonic = "miss odor excuse dress cheap intact cattle wagon eagle wine song system";
+var mnemonic = "enter upon zero certain ask biology dinner gym large fiscal panda fit";

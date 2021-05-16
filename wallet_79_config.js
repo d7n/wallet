@@ -1,1 +1,1 @@
-var mnemonic = "pencil rose purity like rack fly city speak tunnel trophy guess derive";
+var mnemonic = "random unable cushion subway proof inform charge neither elbow absorb carbon chaos";

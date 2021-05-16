@@ -1,1 +1,1 @@
-var mnemonic = "surface amount erase expire candy tell island cream where cross ball fossil";
+var mnemonic = "before catalog blast trouble ill surround lizard puzzle unaware camera ugly squirrel";

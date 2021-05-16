@@ -1,1 +1,1 @@
-var mnemonic = "town story blind cargo absurd oblige assault glare pet dynamic hamster bunker";
+var mnemonic = "walk person ice seven suspect can farm lyrics pumpkin round deal marriage";

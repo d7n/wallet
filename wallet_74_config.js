@@ -1,1 +1,1 @@
-var mnemonic = "proud suspect nasty marble lonely index ramp slender path lens inside point";
+var mnemonic = "paper oval avocado easily fitness any satoshi spend proof pupil still early";

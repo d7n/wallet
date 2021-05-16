@@ -1,1 +1,1 @@
-var mnemonic = "talent boy purpose cigar ability table border antenna coffee bounce exchange opinion";
+var mnemonic = "drum whip famous story differ teach spell travel blush success traffic impose";

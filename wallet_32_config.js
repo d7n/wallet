@@ -1,1 +1,1 @@
-var mnemonic = "bargain employ joy trial alone useless act three concert cigar news meat";
+var mnemonic = "marine much process mandate obvious glare limb tunnel enemy monster sand major";

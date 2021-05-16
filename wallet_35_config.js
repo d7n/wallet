@@ -1,1 +1,1 @@
-var mnemonic = "tuition explain street army false diamond chronic occur awake door conduct evil";
+var mnemonic = "lend name patient tent blade tennis reject silk frame blouse market rack";

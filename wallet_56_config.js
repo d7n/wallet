@@ -1,1 +1,1 @@
-var mnemonic = "capable license occur genius pizza scissors battle dizzy current tattoo merge cream";
+var mnemonic = "fee penalty spider arrange luggage artefact spoon random force dinner net icon";

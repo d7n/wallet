@@ -1,1 +1,1 @@
-var mnemonic = "twin lobster vague transfer gold super smile remind uniform basket apple inside";
+var mnemonic = "final raise pencil hollow dove pelican zebra mutual deposit secret walnut also";

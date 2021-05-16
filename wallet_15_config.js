@@ -1,1 +1,1 @@
-var mnemonic = "rain ride insect proud pink car material promote indoor term ten smoke";
+var mnemonic = "spring just rough hill fence ginger rhythm spot rather grid lecture code";

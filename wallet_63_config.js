@@ -1,1 +1,1 @@
-var mnemonic = "pole satisfy option lottery magic exit cricket upset balance apart world key";
+var mnemonic = "wet vessel rude hamster clarify urge mobile impose resemble deputy doll employ";

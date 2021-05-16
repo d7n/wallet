@@ -1,1 +1,1 @@
-var mnemonic = "brick remain fork actor faith ahead travel any victory media tennis salad";
+var mnemonic = "way couch soup primary bus bulk summer kite marine fork speed cube";

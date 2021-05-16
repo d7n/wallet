@@ -1,1 +1,1 @@
-var mnemonic = "sand pencil above huge soft depend robot jelly glue evidence episode head";
+var mnemonic = "accuse people fee curious arch parent supply kite simple wealth myth team";

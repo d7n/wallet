@@ -1,1 +1,1 @@
-var mnemonic = "shop movie decrease solar scissors ugly need bronze ritual aunt divide arrange";
+var mnemonic = "skate approve lucky legal code head next network tobacco father small general";

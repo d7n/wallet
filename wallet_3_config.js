@@ -1,1 +1,1 @@
-var mnemonic = "satisfy ugly sunny kite slush dismiss impact story avoid bamboo shell iron";
+var mnemonic = "law mimic below immense funny idea bubble hold hunt stage icon orchard";

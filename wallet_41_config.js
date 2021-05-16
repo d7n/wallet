@@ -1,1 +1,1 @@
-var mnemonic = "hero stamp pony among bulb reward feed fall connect enrich dutch excess";
+var mnemonic = "lesson siren pudding ladder moon tell gown weasel air audit creek jaguar";

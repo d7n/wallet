@@ -1,1 +1,1 @@
-var mnemonic = "section security stock oxygen salt dinosaur help disease baby genuine ordinary question";
+var mnemonic = "flat effort bitter crazy trash peasant clutch wealth very junior olive misery";

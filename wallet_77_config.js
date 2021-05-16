@@ -1,1 +1,1 @@
-var mnemonic = "slender harbor ketchup valve tomorrow remind loan toddler private future blanket satoshi";
+var mnemonic = "ability defense depth cattle explain odor sadness property clerk hawk emerge decrease";

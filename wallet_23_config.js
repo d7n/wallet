@@ -1,1 +1,1 @@
-var mnemonic = "topic solve thrive raw debris master ranch hero immune filter fever prison";
+var mnemonic = "feed piano awful toilet wife exercise dance pull rocket valve shuffle plastic";

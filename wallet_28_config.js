@@ -1,1 +1,1 @@
-var mnemonic = "spatial depend used glare monster story involve useless error clog snap cluster";
+var mnemonic = "leisure one average when minor apple jealous quit art local inquiry push";

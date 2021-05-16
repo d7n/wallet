@@ -1,1 +1,1 @@
-var mnemonic = "person tent simple security elegant bone leisure victory language iron flat stamp";
+var mnemonic = "island grid anger smoke display art critic add code volume near blur";

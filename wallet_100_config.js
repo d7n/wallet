@@ -1,1 +1,1 @@
-var mnemonic = "earn half pilot solid shoot now minute chest crop destroy sea swallow";
+var mnemonic = "swim emotion grape similar nice speak make sun rural opinion desert pilot";

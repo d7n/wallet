@@ -1,1 +1,1 @@
-var mnemonic = "glide seven hard broccoli puppy become area vivid win drama muffin taste";
+var mnemonic = "raw category sweet few noise dial reopen green turtle hand audit pool";

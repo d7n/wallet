@@ -1,1 +1,1 @@
-var mnemonic = "ketchup matter spin jelly decrease excite usual curious radio dinner van small";
+var mnemonic = "indicate sun click shuffle digital ask middle wisdom skill shine high raccoon";

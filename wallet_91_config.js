@@ -1,1 +1,1 @@
-var mnemonic = "observe almost text table search potato seminar safe kiss island page orbit";
+var mnemonic = "eight asset subject fine rifle pave unable portion suit comic trip dolphin";

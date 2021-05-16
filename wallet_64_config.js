@@ -1,1 +1,1 @@
-var mnemonic = "cereal lyrics elbow fix liar produce buffalo lobster security embrace club sign";
+var mnemonic = "exact save cactus clip alcohol glide copy glove merry network art around";

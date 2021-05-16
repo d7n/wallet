@@ -1,1 +1,1 @@
-var mnemonic = "clip same drastic raven under liquid copper judge push rib poet denial";
+var mnemonic = "what frown demand charge until village hip obtain unknown gloom soft rifle";

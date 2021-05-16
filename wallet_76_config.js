@@ -1,1 +1,1 @@
-var mnemonic = "object captain laundry proof school solar swing wrestle view finish survey piano";
+var mnemonic = "guide shove shuffle cheese same regret boil waste merry oak essay unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity street track cushion loop female near guitar nice upgrade sound action";
+var mnemonic = "mandate cattle task piano camera cheap jacket cry clump harsh warrior mix";

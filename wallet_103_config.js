@@ -1,1 +1,1 @@
-var mnemonic = "video basket chronic world glare hip release version wrong lake method artist";
+var mnemonic = "kite cliff live warm state dirt zebra horse emerge seven fever exhibit";

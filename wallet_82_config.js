@@ -1,1 +1,1 @@
-var mnemonic = "settle tone tuition rally sail coconut exchange can announce laugh once host";
+var mnemonic = "lucky measure void problem cause supply crowd rice still culture unknown rail";

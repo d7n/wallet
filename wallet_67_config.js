@@ -1,1 +1,1 @@
-var mnemonic = "pepper tube collect scale jealous screen prepare merit rent much ticket firm";
+var mnemonic = "rotate fish cube slot nest food student possible combine soft soccer again";

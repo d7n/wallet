@@ -1,1 +1,1 @@
-var mnemonic = "legal series pool vacuum frozen pepper slogan gospel sunny gravity permit also";
+var mnemonic = "rally balance rent dog chef glare large pelican dash laptop minor rib";

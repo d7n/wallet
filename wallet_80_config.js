@@ -1,1 +1,1 @@
-var mnemonic = "dirt march wild motion wall common reduce cruise soldier forget ocean jeans";
+var mnemonic = "fever shell surround ten assume acid sentence tattoo flavor issue butter answer";

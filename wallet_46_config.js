@@ -1,1 +1,1 @@
-var mnemonic = "away unlock gadget ranch smooth basket scout crane inform divert truly major";
+var mnemonic = "steel unit afford narrow empower trouble liberty outdoor exchange apart suspect dutch";

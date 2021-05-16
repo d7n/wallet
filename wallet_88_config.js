@@ -1,1 +1,1 @@
-var mnemonic = "update worry clever exist inch dance umbrella field track essay garage logic";
+var mnemonic = "few park unit double arrest side mechanic omit employ laptop future obey";

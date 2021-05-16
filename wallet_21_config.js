@@ -1,1 +1,1 @@
-var mnemonic = "person bind hundred news keen slogan hunt thunder tank frame heart donor";
+var mnemonic = "aerobic opera fetch merry carry crush home before smile virtual kitten wire";

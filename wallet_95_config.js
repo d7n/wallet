@@ -1,1 +1,1 @@
-var mnemonic = "okay parade decade ready bottom goose infant action sail cluster during shed";
+var mnemonic = "tornado shell mix soon wish spray march lumber melody bus gadget slender";

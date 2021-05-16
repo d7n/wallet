@@ -1,1 +1,1 @@
-var mnemonic = "easily proof pond flush afraid paddle economy shy believe ensure own reward";
+var mnemonic = "sponsor public gravity dog mobile cry miracle oppose idea quit grape distance";

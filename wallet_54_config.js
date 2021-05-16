@@ -1,1 +1,1 @@
-var mnemonic = "life fence hammer pitch boil song evil kit parent midnight pigeon twenty";
+var mnemonic = "oyster evil crater leg wrap genius custom issue blue eternal task judge";

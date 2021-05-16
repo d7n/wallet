@@ -1,1 +1,1 @@
-var mnemonic = "all priority second casino neglect toss clutch educate awesome pilot march nurse";
+var mnemonic = "later snack super link whip traffic best expire educate dust legal toast";

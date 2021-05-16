@@ -1,1 +1,1 @@
-var mnemonic = "expose inherit good bracket dish topic oxygen hen amused blast hurdle still";
+var mnemonic = "cave pitch sound armed someone patrol hurdle design lava rib pizza phrase";

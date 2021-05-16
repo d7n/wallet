@@ -1,1 +1,1 @@
-var mnemonic = "sauce sad quote way sort glance fame zero wing primary fly dose";
+var mnemonic = "fade rice decade couple decade glance write funny planet wave net aerobic";

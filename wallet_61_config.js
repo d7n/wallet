@@ -1,1 +1,1 @@
-var mnemonic = "inherit walk wheat era machine rice idle ramp october blast token current";
+var mnemonic = "maple illegal horse lobster deal slight friend maze faint absorb kitten carbon";

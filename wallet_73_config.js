@@ -1,1 +1,1 @@
-var mnemonic = "diet boring sweet render biology strategy roof foam stand crew practice insane";
+var mnemonic = "error smart harbor oven voyage machine picture this spell trick enlist exist";

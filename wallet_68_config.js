@@ -1,1 +1,1 @@
-var mnemonic = "guard wine foot reward attitude silver stone sausage conduct parent aunt mouse";
+var mnemonic = "post very plate cinnamon avocado fitness device travel hybrid cloth real all";
