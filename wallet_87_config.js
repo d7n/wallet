@@ -1,1 +1,1 @@
-var mnemonic = "believe eternal consider weasel glide forest check senior airport manage pitch strike";
+var mnemonic = "initial bird express liberty grunt used episode similar faint sponsor embody embrace";

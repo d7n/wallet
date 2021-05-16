@@ -1,1 +1,1 @@
-var mnemonic = "loud velvet clarify carpet usage jazz stand before poet unveil camera appear";
+var mnemonic = "syrup palm desk author endorse include appear slim remember stove sight notice";

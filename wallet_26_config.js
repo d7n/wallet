@@ -1,1 +1,1 @@
-var mnemonic = "unusual olive test swim maximum olympic case social castle yard shaft sadness";
+var mnemonic = "option black vapor alpha world garment hedgehog there uniform vocal social vendor";

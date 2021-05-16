@@ -1,1 +1,1 @@
-var mnemonic = "crash sound topple scare fortune tennis lend phone camera item rigid brisk";
+var mnemonic = "giggle abstract tackle donkey major retreat match lecture poverty ribbon gasp wool";

@@ -1,1 +1,1 @@
-var mnemonic = "differ approve puppy still must grass hair spice bag slam climb arm";
+var mnemonic = "mercy car middle crazy popular angry attend tourist goat problem open elbow";

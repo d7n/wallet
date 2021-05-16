@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pulse hip trust rug chapter tank reform pioneer execute luggage crunch";
+var mnemonic = "ability wheel autumn increase leader talent strong orange next visa act bounce";

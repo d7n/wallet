@@ -1,1 +1,1 @@
-var mnemonic = "army release pepper group lawn install drastic riot hold leaf siren dirt";
+var mnemonic = "rely exotic mule tree rural harsh combine echo pink program crumble identify";

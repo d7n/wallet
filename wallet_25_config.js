@@ -1,1 +1,1 @@
-var mnemonic = "sun flat destroy skill swing heart orphan beef survey morning brick faith";
+var mnemonic = "spread senior asset found alert stick truly short echo bounce royal leg";

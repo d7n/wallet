@@ -1,1 +1,1 @@
-var mnemonic = "inflict bubble squirrel plate system issue flip burger toy prize check gorilla";
+var mnemonic = "parent unaware secret enforce ritual combine family glow topic economy choose man";

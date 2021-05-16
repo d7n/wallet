@@ -1,1 +1,1 @@
-var mnemonic = "spray early size warfare hill jazz talent orange settle slim expose okay";
+var mnemonic = "hazard leopard bundle master obvious ranch lonely wolf keen leaf property desert";

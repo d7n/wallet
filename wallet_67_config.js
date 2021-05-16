@@ -1,1 +1,1 @@
-var mnemonic = "nut neglect wheel travel spirit subway erode tackle off tired anger setup";
+var mnemonic = "panther vibrant layer organ work scene kit trial ski monster gloom hammer";

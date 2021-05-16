@@ -1,1 +1,1 @@
-var mnemonic = "dawn lunar bench sketch cannon any guard evoke senior broom organ duty";
+var mnemonic = "broom sell assist report airport genius wild material movie gentle hockey sibling";

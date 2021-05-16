@@ -1,1 +1,1 @@
-var mnemonic = "angle rich hedgehog profit whale local couple figure wine vicious buddy limb";
+var mnemonic = "cabbage response drip giraffe dial cool also candy away prosper feel pepper";

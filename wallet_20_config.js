@@ -1,1 +1,1 @@
-var mnemonic = "siren clump demise hockey robot shoulder wool floor topic awake neck gadget";
+var mnemonic = "amount rice icon light energy tape cancel correct relief uphold sweet ready";

@@ -1,1 +1,1 @@
-var mnemonic = "clump dose weather glass uniform squirrel silly collect item prevent place entry";
+var mnemonic = "increase wasp into jungle office race stomach ladder scene later distance shock";

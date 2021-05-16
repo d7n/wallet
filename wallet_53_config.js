@@ -1,1 +1,1 @@
-var mnemonic = "crunch moral cash symptom ordinary topic drop design panda tree weather dial";
+var mnemonic = "mobile place blanket core title image buffalo relax jelly cabin critic camp";

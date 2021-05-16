@@ -1,1 +1,1 @@
-var mnemonic = "suit pioneer muffin someone armed earn tobacco oxygen tail today jaguar voice";
+var mnemonic = "simple alien sail apple choose ramp acoustic home someone ill hint test";

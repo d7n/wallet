@@ -1,1 +1,1 @@
-var mnemonic = "cage tenant margin crop style coil carry vendor energy atom symbol device";
+var mnemonic = "find edit actual hub panther twice twin recipe rhythm prepare travel valley";

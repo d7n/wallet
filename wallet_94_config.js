@@ -1,1 +1,1 @@
-var mnemonic = "casino estate pull pet select page laptop depart add genre ginger vicious";
+var mnemonic = "custom legend announce edge damage share weird fault fire decorate police output";

@@ -1,1 +1,1 @@
-var mnemonic = "olive science horn about slide search skill movie pudding final wing uncle";
+var mnemonic = "sister lonely drink sport insane exotic phrase abstract simple video crucial rare";

@@ -1,1 +1,1 @@
-var mnemonic = "move neither arrest toy core suffer rigid stock satisfy leopard item tree";
+var mnemonic = "science grit van grape amused gloom plug fork tackle today small dynamic";

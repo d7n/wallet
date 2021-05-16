@@ -1,1 +1,1 @@
-var mnemonic = "melody pitch give awake engage blossom travel library faint inflict upset surge";
+var mnemonic = "glare quarter wrap transfer region accuse convince install force orange loyal select";

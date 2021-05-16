@@ -1,1 +1,1 @@
-var mnemonic = "try blood panda kiss echo cross tennis brush gold mask that wave";
+var mnemonic = "doctor sister garbage melt absorb unlock inspire tomorrow leg project put champion";

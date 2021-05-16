@@ -1,1 +1,1 @@
-var mnemonic = "holiday rebel left skull struggle fetch sorry crowd river view prevent course";
+var mnemonic = "witness public master minimum indicate brush spoon key anger measure swallow merry";

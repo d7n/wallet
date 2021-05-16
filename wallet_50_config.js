@@ -1,1 +1,1 @@
-var mnemonic = "arch peasant other sniff upon river happy mobile session jelly scan laundry";
+var mnemonic = "hip mobile fire minute twist novel suggest air pelican moon camp ready";

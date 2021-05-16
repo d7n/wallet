@@ -1,1 +1,1 @@
-var mnemonic = "sleep fossil someone day horn fortune exile where file cheap pond garbage";
+var mnemonic = "bubble error magnet note make potato rescue potato shuffle festival salt mimic";

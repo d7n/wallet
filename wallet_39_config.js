@@ -1,1 +1,1 @@
-var mnemonic = "almost unveil cigar jealous fancy state nephew lesson transfer face alert race";
+var mnemonic = "buffalo leaf fruit cave virtual casual sausage include peasant prevent lunch trend";

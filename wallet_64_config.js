@@ -1,1 +1,1 @@
-var mnemonic = "acoustic afford atom bus kingdom august indicate bird inner alert sight symptom";
+var mnemonic = "victory jewel apart multiply tuition slam rapid rookie word butter hungry endorse";

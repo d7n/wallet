@@ -1,1 +1,1 @@
-var mnemonic = "original aerobic virtual picnic fiction brave deliver faint ginger pull stone security";
+var mnemonic = "thumb account galaxy furnace old rate toe notice craft analyst fan bleak";

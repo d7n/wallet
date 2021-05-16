@@ -1,1 +1,1 @@
-var mnemonic = "change safe moral quantum apple vacuum fan enlist jacket anchor noble manual";
+var mnemonic = "very junior song congress garlic call mimic coyote joy symbol night job";

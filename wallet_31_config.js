@@ -1,1 +1,1 @@
-var mnemonic = "husband live pioneer assume owner ridge color eager entry firm rate job";
+var mnemonic = "moon quarter message stay expand orange upper pass illegal view resist large";

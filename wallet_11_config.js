@@ -1,1 +1,1 @@
-var mnemonic = "race snake damp citizen silver immense tumble word already focus topple mask";
+var mnemonic = "usage shadow pink practice cake better one citizen jaguar child intact make";

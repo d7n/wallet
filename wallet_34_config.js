@@ -1,1 +1,1 @@
-var mnemonic = "gauge trick brother cloud cloth explain menu denial seven father deliver main";
+var mnemonic = "strategy afford choice stable clean grape frozen release present uncover heart screen";

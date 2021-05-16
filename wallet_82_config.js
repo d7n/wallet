@@ -1,1 +1,1 @@
-var mnemonic = "novel frog acquire host lunar relief happy spot fog country sail amazing";
+var mnemonic = "frozen gloom erosion catch spy labor oven point frame eight infant pet";

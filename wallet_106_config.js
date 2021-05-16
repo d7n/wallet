@@ -1,1 +1,1 @@
-var mnemonic = "model meat hazard goat task capable any blanket flag december twelve skill";
+var mnemonic = "already captain honey orbit stay swarm urge dose luggage second glass much";

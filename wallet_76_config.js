@@ -1,1 +1,1 @@
-var mnemonic = "skill exchange grocery define above quote sense suit asset retreat prepare brother";
+var mnemonic = "online exit biology member spike snake fringe room purchase actual fine tumble";

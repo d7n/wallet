@@ -1,1 +1,1 @@
-var mnemonic = "latin half arrest mandate remain fringe wine tackle intact keen garage spot";
+var mnemonic = "hint jump mandate sheriff action require sponsor orange utility practice piece sister";

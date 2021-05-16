@@ -1,1 +1,1 @@
-var mnemonic = "school impact nominee dirt quarter chicken venue pill they enrich trumpet scale";
+var mnemonic = "laundry spoil museum machine coral glove lawsuit top march quiz decline coil";

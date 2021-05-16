@@ -1,1 +1,1 @@
-var mnemonic = "purchase wisdom blanket buzz decide avoid medal must dizzy celery lunch foster";
+var mnemonic = "estate toss brother rubber buddy blossom enemy pig inside wrong bleak scorpion";

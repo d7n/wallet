@@ -1,1 +1,1 @@
-var mnemonic = "voice resource man lizard palm used idea erode boost canyon soda grape";
+var mnemonic = "illness dust subway quit fragile test blame abuse prize remind prosper rice";

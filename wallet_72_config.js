@@ -1,1 +1,1 @@
-var mnemonic = "salon category clump pony kid exotic art small race survey radio snow";
+var mnemonic = "pact bubble oil this plate piano devote mail six unusual antique grab";

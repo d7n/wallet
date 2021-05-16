@@ -1,1 +1,1 @@
-var mnemonic = "movie negative nominee nasty panther tiger they feed flavor simple hazard tower";
+var mnemonic = "web blur question pitch buddy skull film usage leisure inspire father journey";

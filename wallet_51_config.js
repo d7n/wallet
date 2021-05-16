@@ -1,1 +1,1 @@
-var mnemonic = "forward pond canal horse gentle nest solid amazing else grunt spy over";
+var mnemonic = "race affair shadow fresh siege crime file fiscal evolve check crack bread";

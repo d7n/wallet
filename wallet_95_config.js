@@ -1,1 +1,1 @@
-var mnemonic = "trap grocery jeans kiwi fine cheese repair pudding emotion entire coyote frequent";
+var mnemonic = "abandon army mix bus type image donor steak wild garment chalk salad";

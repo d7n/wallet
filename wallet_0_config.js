@@ -1,1 +1,1 @@
-var mnemonic = "middle bargain vanish promote situate forward junior vendor wagon proof pair session";
+var mnemonic = "wife decade satoshi champion carbon arrive script diamond mushroom table century rely";

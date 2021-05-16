@@ -1,1 +1,1 @@
-var mnemonic = "penalty photo govern gorilla increase scorpion crouch odor grid hat cabbage velvet";
+var mnemonic = "canvas castle skate lava upset tiger blush fashion stand fork orchard pulse";

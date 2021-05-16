@@ -1,1 +1,1 @@
-var mnemonic = "carpet lawsuit rain defy quick oxygen witness actor wide company panel tribe";
+var mnemonic = "submit blanket animal shell umbrella tree small alien oppose minor olive reveal";

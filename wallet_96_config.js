@@ -1,1 +1,1 @@
-var mnemonic = "praise finish trip term refuse crazy avoid dry pulp session soap pave";
+var mnemonic = "possible gallery drill blue health farm stomach sport detect grape amateur noodle";

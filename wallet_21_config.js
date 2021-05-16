@@ -1,1 +1,1 @@
-var mnemonic = "what isolate suffer flash smoke anchor regular neglect enlist belt taste veteran";
+var mnemonic = "mosquito skin phone fish state spatial dry cousin minimum skirt bless scrub";

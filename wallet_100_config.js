@@ -1,1 +1,1 @@
-var mnemonic = "hope nice language tooth alcohol square answer where potato couple surface venue";
+var mnemonic = "labor gift gadget salad guard swallow group cave survey spatial jeans waste";

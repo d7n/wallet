@@ -1,1 +1,1 @@
-var mnemonic = "taxi destroy twenty frozen toddler exhibit enjoy ginger knife cruise miss issue";
+var mnemonic = "amateur movie bomb still sense rough master more mixed chapter purse balance";

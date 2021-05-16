@@ -1,1 +1,1 @@
-var mnemonic = "yellow people demise struggle visual debate common will kangaroo prepare enforce cute";
+var mnemonic = "consider zone grant wisdom volcano uniform upon rich catch amount correct grocery";

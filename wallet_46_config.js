@@ -1,1 +1,1 @@
-var mnemonic = "carpet border private motion damage cactus obscure border turtle split lucky reduce";
+var mnemonic = "mobile economy choice strong decorate grocery slim inspire session mixed taste version";

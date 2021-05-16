@@ -1,1 +1,1 @@
-var mnemonic = "join pony mammal bread error guitar amount idle jeans palace expire rotate";
+var mnemonic = "myth youth skin strong dolphin general case neither angle accident this end";

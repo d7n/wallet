@@ -1,1 +1,1 @@
-var mnemonic = "write crane avocado index six series just parade daughter cook such earn";
+var mnemonic = "open visual bronze acid bless space more green dish summer same unknown";

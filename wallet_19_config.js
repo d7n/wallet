@@ -1,1 +1,1 @@
-var mnemonic = "awful legal matrix wheat flame ice demise suit baby need able project";
+var mnemonic = "mesh guess crush forward talent right filter give little hockey wink narrow";

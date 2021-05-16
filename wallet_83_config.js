@@ -1,1 +1,1 @@
-var mnemonic = "pride cycle enrich near flat never avoid wild spring galaxy van extra";
+var mnemonic = "spice riot spy govern sword call air suggest still swim dream phone";

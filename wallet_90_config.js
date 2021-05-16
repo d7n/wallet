@@ -1,1 +1,1 @@
-var mnemonic = "put lift rate tunnel aim dutch random crash car quality pride cube";
+var mnemonic = "friend gown undo dove short resource street super cattle shuffle coconut smile";

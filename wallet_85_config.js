@@ -1,1 +1,1 @@
-var mnemonic = "survey side half misery buffalo muffin talk tag cup close middle keep";
+var mnemonic = "seminar snow runway cradle impact warrior olive true life soon dwarf volume";

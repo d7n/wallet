@@ -1,1 +1,1 @@
-var mnemonic = "enough clap juice predict patch biology below fury lab salad turn bid";
+var mnemonic = "market enemy develop interest solar adult horror inner lend bracket van patient";

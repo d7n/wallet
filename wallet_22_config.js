@@ -1,1 +1,1 @@
-var mnemonic = "sell flight food perfect couch thumb father truck express erosion juice drama";
+var mnemonic = "tray flush alpha swim person joke earn bus addict broken clown solid";

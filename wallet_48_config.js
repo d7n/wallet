@@ -1,1 +1,1 @@
-var mnemonic = "surface bread rural stereo school track goat fatal emerge meat acquire crack";
+var mnemonic = "hello faint cart smooth between anxiety clarify volcano dress false suggest auto";

@@ -1,1 +1,1 @@
-var mnemonic = "team annual taste wheat corn tag sad heart nice explain tone lounge";
+var mnemonic = "monster secret across kidney correct crawl attack history pencil favorite later unlock";

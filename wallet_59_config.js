@@ -1,1 +1,1 @@
-var mnemonic = "seminar check undo avoid conduct trash close recipe index cart camp slight";
+var mnemonic = "dutch often first glove merit acoustic panther midnight foster series when select";

@@ -1,1 +1,1 @@
-var mnemonic = "carry kit review fit february unfair tape better judge urban false punch";
+var mnemonic = "load orphan shuffle section mule virus like bridge fossil knee absurd monkey";

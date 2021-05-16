@@ -1,1 +1,1 @@
-var mnemonic = "cradle talent road viable token lazy involve dune question aware mom suit";
+var mnemonic = "trophy undo regular coconut evil census muscle same follow step siege oblige";

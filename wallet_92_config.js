@@ -1,1 +1,1 @@
-var mnemonic = "trash bar lesson cannon wood woman voyage harvest have sick loud cake";
+var mnemonic = "swift neck laugh license brand sauce bird small since lounge cheese plunge";

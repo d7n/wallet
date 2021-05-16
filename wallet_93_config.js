@@ -1,1 +1,1 @@
-var mnemonic = "diary that daughter digital drum bar process spirit chapter soldier hip adult";
+var mnemonic = "rate decide popular gun stick silly cost furnace sauce pumpkin fruit over";

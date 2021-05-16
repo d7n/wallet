@@ -1,1 +1,1 @@
-var mnemonic = "ramp grace flip harsh buddy clean bread tag purchase surface decide fish";
+var mnemonic = "cruel cloth idle south paper scare broom toward fit jealous blind song";

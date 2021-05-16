@@ -1,1 +1,1 @@
-var mnemonic = "cheap latin item vote hill journey addict busy shield uniform immune order";
+var mnemonic = "blue curtain track extend nice genius example again thumb boil chimney hospital";

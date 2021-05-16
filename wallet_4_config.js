@@ -1,1 +1,1 @@
-var mnemonic = "arctic clay tip number stadium always gossip rifle kitten damage aspect donate";
+var mnemonic = "supreme notable eyebrow feature pistol unknown endorse uniform connect myself tennis galaxy";

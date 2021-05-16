@@ -1,1 +1,1 @@
-var mnemonic = "fun point decide purse bronze bounce couple vessel fossil tomorrow program hen";
+var mnemonic = "left sustain match wait pipe speed prevent balance aim pen century adapt";

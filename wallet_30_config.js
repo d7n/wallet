@@ -1,1 +1,1 @@
-var mnemonic = "buddy they patrol sock check visit badge obvious shove task brief approve";
+var mnemonic = "process cup iron banner spend bus together myth bread asset index dry";

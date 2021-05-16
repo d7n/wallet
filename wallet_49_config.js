@@ -1,1 +1,1 @@
-var mnemonic = "release donor bless pilot umbrella tornado bulk pencil admit chalk place exact";
+var mnemonic = "lion bubble boat medal upon address open cannon author marine venue indicate";

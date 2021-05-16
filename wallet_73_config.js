@@ -1,1 +1,1 @@
-var mnemonic = "salon expose teach divide doll universe pelican animal naive alter usage develop";
+var mnemonic = "climb wedding must leader injury cook fork bright mule animal soda ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight lounge pretty equal erupt wreck similar safe half reduce february buzz";
+var mnemonic = "labor earth erode tube crystal delay version angry sauce phrase diet absent";

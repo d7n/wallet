@@ -1,1 +1,1 @@
-var mnemonic = "brave tissue casino achieve exhaust blade frozen raise like scrub trim drink";
+var mnemonic = "toy ceiling gaze prefer detail giggle saddle umbrella dentist borrow funny domain";

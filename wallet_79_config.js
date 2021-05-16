@@ -1,1 +1,1 @@
-var mnemonic = "awesome bacon tag mass taste unique census quality reduce mountain repeat fault";
+var mnemonic = "come pupil cruise tiny sheriff provide baby until shrimp carbon pull solution";

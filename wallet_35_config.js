@@ -1,1 +1,1 @@
-var mnemonic = "erosion lounge stage catalog pioneer excite lucky lazy stumble hero deputy release";
+var mnemonic = "lens cheese much friend where hedgehog perfect cable abstract bundle tooth tumble";

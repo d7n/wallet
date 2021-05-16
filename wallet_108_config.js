@@ -1,1 +1,1 @@
-var mnemonic = "consider copper material voice praise credit license order deputy car pistol sweet";
+var mnemonic = "glove gadget cupboard horse lecture volume section unfold shadow slender foot bus";

@@ -1,1 +1,1 @@
-var mnemonic = "tower april mechanic rain evil little buddy skill noise neck often absurd";
+var mnemonic = "ride jungle behind road forest hungry blouse observe fragile lesson brand someone";

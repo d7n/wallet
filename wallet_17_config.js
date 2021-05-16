@@ -1,1 +1,1 @@
-var mnemonic = "reject night hollow expose race tomato family volcano pave finish spike frost";
+var mnemonic = "quote violin rich fitness swamp penalty coast motion deal common rack goose";

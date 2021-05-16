@@ -1,1 +1,1 @@
-var mnemonic = "weather athlete cool define essay enlist behave axis slender index exhaust absorb";
+var mnemonic = "eight exchange liar immense afford puzzle stumble bind inflict bullet market carry";

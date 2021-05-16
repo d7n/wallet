@@ -1,1 +1,1 @@
-var mnemonic = "hope opera loud road sugar clay two giraffe finger group picture dirt";
+var mnemonic = "cement shove milk print better oven ankle punch normal volume retire cheese";

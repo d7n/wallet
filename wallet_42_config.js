@@ -1,1 +1,1 @@
-var mnemonic = "street myself velvet cargo top deny abstract saddle husband about van cake";
+var mnemonic = "real already combine exchange useless act shoulder swallow shine wasp typical index";

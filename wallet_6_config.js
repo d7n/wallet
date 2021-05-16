@@ -1,1 +1,1 @@
-var mnemonic = "behind pulp ritual exhaust celery joy zone essay curious rescue rent wrestle";
+var mnemonic = "update rigid wolf logic census joke pill void silent mesh fog shell";

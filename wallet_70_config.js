@@ -1,1 +1,1 @@
-var mnemonic = "dizzy letter wage health ribbon picture loop real artwork like blame snack";
+var mnemonic = "please second repeat input slow action multiply way social crowd plug dirt";

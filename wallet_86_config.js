@@ -1,1 +1,1 @@
-var mnemonic = "brisk monster rather output canal grid mind kit toast possible blade curve";
+var mnemonic = "auction stereo reduce observe scheme piano hybrid once famous neglect flock wing";

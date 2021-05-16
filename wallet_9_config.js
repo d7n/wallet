@@ -1,1 +1,1 @@
-var mnemonic = "month void interest logic pattern pretty bitter wide inform patrol manage caution";
+var mnemonic = "vibrant mystery disease sphere advance palm laptop zoo coin gold belt piano";

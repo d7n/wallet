@@ -1,1 +1,1 @@
-var mnemonic = "cruel carbon renew differ luxury edge junior cram priority blame square enact";
+var mnemonic = "quality luggage hospital around extra bracket organ abandon swing wet any click";

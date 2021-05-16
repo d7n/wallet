@@ -1,1 +1,1 @@
-var mnemonic = "fabric venture nest story similar favorite tail sudden pelican hazard bean dove";
+var mnemonic = "member sphere modify move apology bottom vast marine summer symbol cloud athlete";

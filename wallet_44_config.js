@@ -1,1 +1,1 @@
-var mnemonic = "trophy illness broom dog drift off disagree ketchup clean own rough topic";
+var mnemonic = "happy spoil inmate license edge one account vacant trend strike used coral";

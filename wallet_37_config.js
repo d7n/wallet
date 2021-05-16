@@ -1,1 +1,1 @@
-var mnemonic = "switch mail boat curve pony orange soul approve tone monitor media need";
+var mnemonic = "tiny absorb blanket until census option need business hunt spider spare mistake";
