@@ -1,1 +1,1 @@
-var mnemonic = "doll erupt shove distance toward subject pottery source faint kind cactus jewel";
+var mnemonic = "cube trophy volume word edge trumpet panther loan garlic health wood wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate budget tunnel jealous kind west blind snow eager essence media tail";
+var mnemonic = "place phrase victory once mercy food supply climb test evolve vanish depend";

@@ -1,1 +1,1 @@
-var mnemonic = "couch maid horror acoustic ice antenna sell sorry jump miracle filter fault";
+var mnemonic = "midnight loop ignore lounge chapter dose brown junk piano item prison mail";

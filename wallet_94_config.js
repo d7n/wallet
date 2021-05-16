@@ -1,1 +1,1 @@
-var mnemonic = "skin swallow angry accuse mixed flee siege shove pony salt swim they";
+var mnemonic = "update cost bonus dove ensure debris hundred gown either major goddess ahead";

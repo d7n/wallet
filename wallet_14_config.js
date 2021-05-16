@@ -1,1 +1,1 @@
-var mnemonic = "pitch mountain chimney nut become frozen slab trumpet worry guess abandon village";
+var mnemonic = "rigid caught number scare shallow rail welcome trend expose keen subway glad";

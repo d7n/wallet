@@ -1,1 +1,1 @@
-var mnemonic = "argue victory jacket panel father grant any fragile road clutch best copper";
+var mnemonic = "toilet rural friend brain tip act hurt pyramid silver early truly pull";

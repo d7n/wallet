@@ -1,1 +1,1 @@
-var mnemonic = "jeans bomb member cargo increase vanish perfect boy magic offer bone pupil";
+var mnemonic = "cat bargain cloud census ramp flower connect metal delay under sad rebel";

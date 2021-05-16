@@ -1,1 +1,1 @@
-var mnemonic = "average equip result tube album salmon pave bone toddler brief exhaust trim";
+var mnemonic = "nice minimum decide blur chase solution reward nation nut enjoy enhance pride";

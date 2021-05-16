@@ -1,1 +1,1 @@
-var mnemonic = "cram nerve drum begin satisfy wrestle minute milk dish purse cactus mass";
+var mnemonic = "galaxy always attack mobile goose public arch demise critic upper humor tide";

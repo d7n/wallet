@@ -1,1 +1,1 @@
-var mnemonic = "cross side field orbit message burst accuse rule unusual sphere turn hold";
+var mnemonic = "hurdle ghost profit mask grant clean depart depart border dog trade bind";

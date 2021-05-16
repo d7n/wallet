@@ -1,1 +1,1 @@
-var mnemonic = "term worth math crater dirt ocean monster mechanic raw energy main uncle";
+var mnemonic = "glory sphere into similar father cradle barrel office amateur dawn off squeeze";

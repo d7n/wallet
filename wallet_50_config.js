@@ -1,1 +1,1 @@
-var mnemonic = "magic please float soccer suit kick maple notable nominee ankle wide rough";
+var mnemonic = "agent dismiss step isolate shiver pact stay awkward reopen baby lunch chalk";

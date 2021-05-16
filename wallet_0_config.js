@@ -1,1 +1,1 @@
-var mnemonic = "child odor business flame shell choose key mad cousin punch always acquire";
+var mnemonic = "casual royal someone hint session sand leave save venue unaware bid arrest";

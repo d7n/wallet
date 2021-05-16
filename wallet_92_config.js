@@ -1,1 +1,1 @@
-var mnemonic = "dad morning shove page flock document flash blame divorce nice example alcohol";
+var mnemonic = "guess feel exile wide behind second hawk limb plastic law execute ready";

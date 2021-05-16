@@ -1,1 +1,1 @@
-var mnemonic = "genius rich cabbage badge useful exercise melody resemble either sense surround endorse";
+var mnemonic = "country sister correct enforce ten toast lift hawk embrace biology ill century";

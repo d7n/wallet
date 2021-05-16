@@ -1,1 +1,1 @@
-var mnemonic = "gate chaos giggle stable steak wear element correct assist sudden give innocent";
+var mnemonic = "inherit transfer quote game rice orange city fortune crumble task chunk stay";

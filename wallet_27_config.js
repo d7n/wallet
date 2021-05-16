@@ -1,1 +1,1 @@
-var mnemonic = "shrimp wedding moment electric great often stick word cliff slide paper cry";
+var mnemonic = "agent spend frost friend silk tomorrow before online blame unit walnut hammer";

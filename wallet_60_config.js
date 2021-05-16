@@ -1,1 +1,1 @@
-var mnemonic = "home spirit stadium hazard indoor oxygen bracket cook push huge subject cycle";
+var mnemonic = "seed provide just wish viable ordinary outside exclude lift detect plate scheme";

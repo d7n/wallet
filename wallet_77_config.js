@@ -1,1 +1,1 @@
-var mnemonic = "frost drama city debate myself weekend glide swift aisle pattern price era";
+var mnemonic = "rose fever clock pool fit brother floor analyst lumber book lawsuit cigar";

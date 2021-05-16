@@ -1,1 +1,1 @@
-var mnemonic = "top kitten copy affair twice brave avoid month detail grief pulp country";
+var mnemonic = "force theme anchor manual invest rough acoustic jump exhaust false diamond ill";

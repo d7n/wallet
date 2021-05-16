@@ -1,1 +1,1 @@
-var mnemonic = "crunch trophy blossom spray eagle label gun smart submit defense salad web";
+var mnemonic = "alert embody spread captain guess survey six language crucial garage spy oppose";

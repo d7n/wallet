@@ -1,1 +1,1 @@
-var mnemonic = "slab capital fold leaf pond afraid mom web tortoise firm barrel practice";
+var mnemonic = "betray expand bleak snake load pulp roof ancient fresh valve rifle head";

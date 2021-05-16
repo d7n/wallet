@@ -1,1 +1,1 @@
-var mnemonic = "budget lava mirror genius dawn private glide garlic lecture cradle hour derive";
+var mnemonic = "obscure veteran suspect globe humble disagree fly hamster junk green year holiday";

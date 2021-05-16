@@ -1,1 +1,1 @@
-var mnemonic = "elephant ceiling program like next black peasant milk lens symptom clock awkward";
+var mnemonic = "giggle impulse expand helmet loud quiz coin chicken detect rough age sport";

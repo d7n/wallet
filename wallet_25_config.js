@@ -1,1 +1,1 @@
-var mnemonic = "parrot fuel wrap reject blur renew repeat when chef seek craft planet";
+var mnemonic = "panther movie satisfy loan symptom bundle call payment dial wrestle shoe amount";

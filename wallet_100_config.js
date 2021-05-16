@@ -1,1 +1,1 @@
-var mnemonic = "rib hood balcony worth equip clinic damage school guilt give fire bar";
+var mnemonic = "pulse few clutch muscle divorce celery pilot result main subway utility refuse";

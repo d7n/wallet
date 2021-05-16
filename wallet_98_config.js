@@ -1,1 +1,1 @@
-var mnemonic = "name divert finger degree together potato winner cliff coin practice life cloth";
+var mnemonic = "spring deliver private need year carpet lake trip goat pen stomach electric";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore topple increase panda tunnel palace unfair obey unaware flame narrow nephew";
+var mnemonic = "fetch ethics steel october shaft define lunar scheme sheriff banana burst chapter";

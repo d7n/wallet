@@ -1,1 +1,1 @@
-var mnemonic = "indoor sell civil lunch hope stumble permit remain girl domain replace vital";
+var mnemonic = "innocent sting gossip pear team cause trick busy lucky angle artwork clerk";

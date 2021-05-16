@@ -1,1 +1,1 @@
-var mnemonic = "noise reveal medal loud barely amateur scout receive lawn tell donate smoke";
+var mnemonic = "holiday range capital evidence side scorpion skin ten gospel lesson exhaust search";

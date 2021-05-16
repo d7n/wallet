@@ -1,1 +1,1 @@
-var mnemonic = "tuna school maze popular canoe torch dose soup caution label again health";
+var mnemonic = "desert giant kangaroo disagree depend wolf possible grass false coffee junior churn";

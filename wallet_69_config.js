@@ -1,1 +1,1 @@
-var mnemonic = "runway dolphin corn change eager cable stamp border agree dove twist control";
+var mnemonic = "vault lawn city point tired twelve trick fog arrest size trade flag";

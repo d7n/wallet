@@ -1,1 +1,1 @@
-var mnemonic = "essence rally electric panel slush shoulder either hybrid street spider outer rural";
+var mnemonic = "misery novel notice virus cabin actress denial fine lunch trim blossom around";

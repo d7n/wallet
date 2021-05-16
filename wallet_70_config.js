@@ -1,1 +1,1 @@
-var mnemonic = "pretty soda you battle calm limb tortoise knee disease ocean person memory";
+var mnemonic = "merit render fancy property joy matter obey useful skill funny banner replace";

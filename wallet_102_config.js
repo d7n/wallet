@@ -1,1 +1,1 @@
-var mnemonic = "display culture action prosper rate harbor kangaroo boring annual clock fantasy supreme";
+var mnemonic = "history peace series sell evil flower face nest range divide comfort twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase labor suggest pulp usual wisdom gallery flat panda edge recall picture";
+var mnemonic = "seat soda urban chunk exist glove genre loud lazy swap cram explain";

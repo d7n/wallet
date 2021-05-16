@@ -1,1 +1,1 @@
-var mnemonic = "wealth load leopard hair ahead garden involve field erode behind wisdom trip";
+var mnemonic = "patch result balance milk garlic abandon critic gun myself pizza fiscal gauge";

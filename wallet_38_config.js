@@ -1,1 +1,1 @@
-var mnemonic = "reflect toilet horse draw swap gym jelly unable gift strategy supreme connect";
+var mnemonic = "raccoon alarm brave devote draft height hurt room sadness job bicycle cabbage";

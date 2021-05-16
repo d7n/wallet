@@ -1,1 +1,1 @@
-var mnemonic = "scissors lawn furnace obvious brother bone laugh excuse miracle chicken such owner";
+var mnemonic = "grape discover spider fluid detail beyond spider rescue glove level winter hobby";

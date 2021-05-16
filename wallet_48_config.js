@@ -1,1 +1,1 @@
-var mnemonic = "mean course travel kidney sea human almost claw acoustic hood help chaos";
+var mnemonic = "short midnight spoon taxi sunny panther victory reward grunt soup alien length";

@@ -1,1 +1,1 @@
-var mnemonic = "sample dentist march chase essence humble key hungry stage kind hover fire";
+var mnemonic = "kind gospel capable daring potato weapon gift lottery dune amateur float lottery";

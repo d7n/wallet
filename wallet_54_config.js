@@ -1,1 +1,1 @@
-var mnemonic = "helmet airport woman elevator hurdle victory issue face fiber cotton turtle punch";
+var mnemonic = "chronic absurd update penalty affair helmet soda bag asset blind erase have";

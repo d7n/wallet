@@ -1,1 +1,1 @@
-var mnemonic = "always between clay tumble energy yard tell income admit able dial mutual";
+var mnemonic = "forest phone any salon snake demand that doctor clap mimic where elbow";

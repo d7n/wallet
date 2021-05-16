@@ -1,1 +1,1 @@
-var mnemonic = "process little horn bracket mandate cover another skull smart combine ski six";
+var mnemonic = "yard simple awful crater butter junk immense season comfort cliff bounce today";

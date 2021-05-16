@@ -1,1 +1,1 @@
-var mnemonic = "disagree cart boss solid violin problem limb choice message audit inch uphold";
+var mnemonic = "relax impulse bounce ozone elevator clap thing decline install cool pill ensure";

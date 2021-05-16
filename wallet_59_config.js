@@ -1,1 +1,1 @@
-var mnemonic = "devote camp hidden famous hair web destroy view acoustic harvest cost visit";
+var mnemonic = "three vendor valley apple river enforce camp always train dizzy lock minor";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom middle snap excess insane affair nothing blind energy zebra garlic sing";
+var mnemonic = "often worry unaware clean fluid crystal grab silent crouch wish tenant crucial";

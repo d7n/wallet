@@ -1,1 +1,1 @@
-var mnemonic = "nut slight order also sponsor omit energy twin intact soap notable exotic";
+var mnemonic = "verify science plastic immense hurt hood fatal junior leaf elephant leader refuse";

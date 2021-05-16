@@ -1,1 +1,1 @@
-var mnemonic = "jelly foil iron frozen assist twelve cricket sight twenty blanket glance maid";
+var mnemonic = "man trade palm flavor cement radar wasp spend canal opera whip enough";

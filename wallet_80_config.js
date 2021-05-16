@@ -1,1 +1,1 @@
-var mnemonic = "fragile proud metal neutral produce ensure cotton egg alcohol gate ordinary initial";
+var mnemonic = "spice rival brother physical bulk already cactus fall shell you keep beauty";

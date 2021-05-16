@@ -1,1 +1,1 @@
-var mnemonic = "amount body cluster cargo pride liberty globe legal organ forum squeeze message";
+var mnemonic = "spin hope spy cloud electric news reject network abandon swap orient brother";

@@ -1,1 +1,1 @@
-var mnemonic = "sting become half echo cheap faith eager rural away spin absurd credit";
+var mnemonic = "around actor they kite cause danger congress fragile taxi seven sudden shuffle";

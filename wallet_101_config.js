@@ -1,1 +1,1 @@
-var mnemonic = "mind tiny own fossil usual pave kick pony melody employ once cousin";
+var mnemonic = "lunar exist cigar frost wonder plate vapor maid diagram slim retire keen";

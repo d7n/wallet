@@ -1,1 +1,1 @@
-var mnemonic = "camp oblige shrimp awkward country decrease wrist any spot choice lawn wool";
+var mnemonic = "yard lab crop fortune slide quote short minor tail hamster hotel jar";

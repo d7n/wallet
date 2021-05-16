@@ -1,1 +1,1 @@
-var mnemonic = "wide economy bunker copy more alley tumble bracket voice camp clock piece";
+var mnemonic = "arctic city steak dry another enable boss space chat blossom seed honey";

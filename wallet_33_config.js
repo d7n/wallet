@@ -1,1 +1,1 @@
-var mnemonic = "motion can ignore praise oppose trigger stand fashion script burden lamp umbrella";
+var mnemonic = "banner job veteran degree tiger find worry guard spot yard nation rib";

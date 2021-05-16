@@ -1,1 +1,1 @@
-var mnemonic = "daring market blame better stumble skill device thunder trick turtle patient nominee";
+var mnemonic = "author change step convince vast lion alcohol lava album frost hat express";

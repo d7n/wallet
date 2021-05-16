@@ -1,1 +1,1 @@
-var mnemonic = "dog sweet bid crumble immense slim color bind roof rubber mind balance";
+var mnemonic = "very cricket public sample reason wheat name guard glare cry ranch exit";

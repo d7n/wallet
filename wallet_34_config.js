@@ -1,1 +1,1 @@
-var mnemonic = "disagree hire coin actual acid cannon tiny affair drum social orchard crazy";
+var mnemonic = "medal edit hobby choose beauty path entire sheriff average horse rabbit sad";

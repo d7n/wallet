@@ -1,1 +1,1 @@
-var mnemonic = "curtain slide quality thank actor service few brave oak bid spider prison";
+var mnemonic = "ignore layer shift buddy tray amateur tell modify mercy coffee task hill";

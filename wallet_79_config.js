@@ -1,1 +1,1 @@
-var mnemonic = "ask explain hedgehog scorpion famous true emotion spell aerobic method scissors rebel";
+var mnemonic = "romance gun subway type betray tomorrow video cost please frozen popular bright";

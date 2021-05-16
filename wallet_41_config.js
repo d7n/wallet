@@ -1,1 +1,1 @@
-var mnemonic = "deer meat lawsuit mention comic street fruit enemy weasel leopard trim doll";
+var mnemonic = "brass curtain river grid alert width wedding fiction spare crouch mandate hobby";

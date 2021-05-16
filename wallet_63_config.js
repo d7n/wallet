@@ -1,1 +1,1 @@
-var mnemonic = "vast citizen kit travel place casual cry chaos goose east code habit";
+var mnemonic = "eyebrow scorpion shift force mechanic tunnel practice basket matrix shop minimum enlist";

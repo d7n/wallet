@@ -1,1 +1,1 @@
-var mnemonic = "you skin lizard wisdom share nephew discover frog coil color tribe shadow";
+var mnemonic = "time once kid dial promote lens chat divide claw ketchup unfold stay";

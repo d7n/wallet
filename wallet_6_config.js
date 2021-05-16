@@ -1,1 +1,1 @@
-var mnemonic = "decorate swim question dismiss addict patrol scorpion giraffe caution frozen warrior issue";
+var mnemonic = "lottery method dune often doll coyote dry carbon sad spoil seed vehicle";

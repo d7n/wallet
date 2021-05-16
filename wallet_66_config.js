@@ -1,1 +1,1 @@
-var mnemonic = "purity news symbol friend check media rack main awake sorry play convince";
+var mnemonic = "photo road knee resemble fragile pen expect atom hungry reunion grab traffic";

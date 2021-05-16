@@ -1,1 +1,1 @@
-var mnemonic = "evidence gorilla action rigid cloth cotton mail choice tail depth uncle crime";
+var mnemonic = "broom sunset clutch visual suffer certain know load mixed catch wage similar";

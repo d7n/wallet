@@ -1,1 +1,1 @@
-var mnemonic = "goddess faith series twelve boy lyrics decide wheat else sorry route airport";
+var mnemonic = "disorder snack text air more venture merry enlist animal soccer despair amount";

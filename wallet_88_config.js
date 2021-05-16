@@ -1,1 +1,1 @@
-var mnemonic = "tree soccer twelve rubber bless assume auto dutch section cart dry kidney";
+var mnemonic = "silver awful cost gentle equip aspect salad ball coach disagree such quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant useful result chicken liar blanket snap scale report life hire analyst";
+var mnemonic = "clay tomorrow shoulder reflect shaft bronze asthma margin letter weekend album lawsuit";

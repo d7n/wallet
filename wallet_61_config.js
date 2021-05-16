@@ -1,1 +1,1 @@
-var mnemonic = "umbrella journey target fork soda upgrade bulk mixed sail nothing hawk badge";
+var mnemonic = "velvet exit any hire impulse narrow infant length rude join bench ride";

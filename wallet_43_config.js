@@ -1,1 +1,1 @@
-var mnemonic = "laugh nut scare pipe addict caution suggest insane behind settle turtle student";
+var mnemonic = "beauty luxury wet spell hamster antenna need panel vote guilt tumble fine";

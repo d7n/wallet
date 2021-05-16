@@ -1,1 +1,1 @@
-var mnemonic = "squirrel lunch almost token shrug enable achieve silly siege brown token curious";
+var mnemonic = "occur evidence soul harbor phrase envelope reject witness execute engage ostrich thunder";

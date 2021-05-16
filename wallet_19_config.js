@@ -1,1 +1,1 @@
-var mnemonic = "hair sauce garlic acid apple shallow another enact novel oxygen miracle helmet";
+var mnemonic = "protect obey original blanket sea follow review force memory boat verify retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor enemy payment kick enroll exclude kind liar leopard bone fatigue scene";
+var mnemonic = "enlist symbol couch engage harbor symptom melt pretty cup work unit you";

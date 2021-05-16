@@ -1,1 +1,1 @@
-var mnemonic = "minute loyal chaos fee belt ranch estate luxury blanket loud merit pole";
+var mnemonic = "fire window letter appear flame lawn element warfare fork alone nothing wealth";

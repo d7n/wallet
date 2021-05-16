@@ -1,1 +1,1 @@
-var mnemonic = "enhance pole field coach script law strike warm ignore toy oxygen flip";
+var mnemonic = "book surround broccoli jealous acoustic ecology unique seminar clown extra congress december";

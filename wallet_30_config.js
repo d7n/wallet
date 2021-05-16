@@ -1,1 +1,1 @@
-var mnemonic = "angry tongue palm jewel mail globe magnet ridge dawn claw palace mango";
+var mnemonic = "possible improve glow buffalo carry trigger absorb ask action venture insane rib";

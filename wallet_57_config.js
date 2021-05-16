@@ -1,1 +1,1 @@
-var mnemonic = "coyote exercise title wall item tip olive tone jewel vicious swim note";
+var mnemonic = "blade margin search grunt pitch brief fantasy beauty rib army camera chronic";

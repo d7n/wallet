@@ -1,1 +1,1 @@
-var mnemonic = "lunar trap shadow auto master link family ladder camera emerge palm smart";
+var mnemonic = "door bicycle parrot critic vicious cage spawn uncover need another canyon shoot";

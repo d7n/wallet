@@ -1,1 +1,1 @@
-var mnemonic = "high siege medal put ceiling orange life security disease box victory image";
+var mnemonic = "thing feel staff design prefer orbit verify pulse push real share insane";

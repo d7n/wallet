@@ -1,1 +1,1 @@
-var mnemonic = "come ill spell year conduct lounge owner blouse grape scan simple syrup";
+var mnemonic = "tide gather orange cute rookie trophy occur duty cost elite stairs divorce";

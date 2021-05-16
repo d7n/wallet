@@ -1,1 +1,1 @@
-var mnemonic = "viable icon little grass alcohol magnet shallow style pass upon pulse friend";
+var mnemonic = "mixed indoor size tomato copy install letter provide code gate suspect gown";

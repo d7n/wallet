@@ -1,1 +1,1 @@
-var mnemonic = "record shift mobile east riot start much trick tail garment ghost faculty";
+var mnemonic = "uncle bacon release evil link fun dignity industry client alert hip mixture";

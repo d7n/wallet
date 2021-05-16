@@ -1,1 +1,1 @@
-var mnemonic = "skirt media fine verb blue limb ship regret cave market amused own";
+var mnemonic = "fade stand naive quote domain kiwi echo antique carpet rural calm danger";

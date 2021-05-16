@@ -1,1 +1,1 @@
-var mnemonic = "divorce shallow body cruise power unknown myth ribbon enter dose husband valid";
+var mnemonic = "smooth evil stone labor inch law purity soap remind price crush affair";

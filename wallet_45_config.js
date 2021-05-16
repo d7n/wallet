@@ -1,1 +1,1 @@
-var mnemonic = "lend champion embrace castle guitar patient oblige avoid pear tenant secret end";
+var mnemonic = "deposit virtual awful defy lend give observe live visa valid eternal tired";

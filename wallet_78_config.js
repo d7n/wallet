@@ -1,1 +1,1 @@
-var mnemonic = "west sight observe enforce hotel easily cream author bar try length stool";
+var mnemonic = "owner melody plunge degree write snake replace family access swallow over silver";
