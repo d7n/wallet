@@ -1,1 +1,1 @@
-var mnemonic = "portion cupboard episode business lake off theory define fitness animal much paddle";
+var mnemonic = "easily proof pond flush afraid paddle economy shy believe ensure own reward";

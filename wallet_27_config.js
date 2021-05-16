@@ -1,1 +1,1 @@
-var mnemonic = "vital energy menu solve peanut vendor select quantum orient dentist bridge ability";
+var mnemonic = "arm suggest gold room lady shell theory issue cinnamon hat wrong vocal";

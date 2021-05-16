@@ -1,1 +1,1 @@
-var mnemonic = "crumble treat knee treat update pigeon body abuse wrestle very this endorse";
+var mnemonic = "sauce sad quote way sort glance fame zero wing primary fly dose";

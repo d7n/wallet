@@ -1,1 +1,1 @@
-var mnemonic = "lyrics width stove luxury ocean slender south mushroom trophy heart kingdom detail";
+var mnemonic = "raccoon tomorrow veteran nephew increase manage spy negative near beach staff paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "decide fetch destroy poet divide history slam cash broom trash habit quarter";
+var mnemonic = "way spirit random theme fork pull excess identify aspect sausage crowd snack";

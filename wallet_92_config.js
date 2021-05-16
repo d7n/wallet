@@ -1,1 +1,1 @@
-var mnemonic = "grain spice judge rabbit leisure melt feel subject party stem typical unveil";
+var mnemonic = "police squeeze motion govern save muffin width split indoor initial unhappy gadget";

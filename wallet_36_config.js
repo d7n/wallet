@@ -1,1 +1,1 @@
-var mnemonic = "horn trick muffin scout just shoe quarter boost girl now wheat under";
+var mnemonic = "spray crash end basket unfold wash meadow liquid first under width ignore";

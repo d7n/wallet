@@ -1,1 +1,1 @@
-var mnemonic = "creek dignity certain sword era panda blouse ocean fruit dutch dynamic gesture";
+var mnemonic = "source april burden quiz emerge camp armed flee dance obvious risk much";

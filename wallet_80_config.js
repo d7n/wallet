@@ -1,1 +1,1 @@
-var mnemonic = "divide airport inquiry pulp conduct alter casino diet cry desk acoustic favorite";
+var mnemonic = "dirt march wild motion wall common reduce cruise soldier forget ocean jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor travel control frost aim exchange sight toy lecture person odor wonder";
+var mnemonic = "bargain employ joy trial alone useless act three concert cigar news meat";

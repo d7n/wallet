@@ -1,1 +1,1 @@
-var mnemonic = "increase anchor approve actress yard hill tribe camp jealous sudden peasant ketchup";
+var mnemonic = "donate build six immune letter oppose actor cat illegal spring range axis";

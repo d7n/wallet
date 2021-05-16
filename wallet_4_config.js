@@ -1,1 +1,1 @@
-var mnemonic = "imitate winner retreat corn repeat language model loyal merry code spend toddler";
+var mnemonic = "scrub snow rifle consider success rally cable benefit zone tiny pen butter";

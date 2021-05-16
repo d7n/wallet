@@ -1,1 +1,1 @@
-var mnemonic = "vocal early clarify recycle obvious kite insect small sock coffee bonus scare";
+var mnemonic = "section security stock oxygen salt dinosaur help disease baby genuine ordinary question";

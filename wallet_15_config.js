@@ -1,1 +1,1 @@
-var mnemonic = "apple jungle brush machine swamp around radio fossil brother venue save banana";
+var mnemonic = "rain ride insect proud pink car material promote indoor term ten smoke";

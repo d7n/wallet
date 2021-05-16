@@ -1,1 +1,1 @@
-var mnemonic = "anger throw hidden urban impulse stage canyon human dry panel cake marine";
+var mnemonic = "observe almost text table search potato seminar safe kiss island page orbit";

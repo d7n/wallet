@@ -1,1 +1,1 @@
-var mnemonic = "mesh buffalo math job magic chef taste vague category surge order whisper";
+var mnemonic = "close tell hope run town orbit soldier planet supply pond federal weapon";

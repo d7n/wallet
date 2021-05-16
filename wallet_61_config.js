@@ -1,1 +1,1 @@
-var mnemonic = "camera gift few blast furnace annual mention thumb mad wheel trigger giant";
+var mnemonic = "inherit walk wheat era machine rice idle ramp october blast token current";

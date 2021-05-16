@@ -1,1 +1,1 @@
-var mnemonic = "bamboo heavy license soccer regular evidence fine toilet arctic endless light negative";
+var mnemonic = "release slab because wreck insect power sudden misery husband few concert picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "train impact brisk coral rigid sing magnet armed eagle acoustic accuse myself";
+var mnemonic = "tape neutral shadow program diamond ostrich loud bright hat buffalo gather buddy";

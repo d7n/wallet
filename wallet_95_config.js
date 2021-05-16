@@ -1,1 +1,1 @@
-var mnemonic = "include primary manual position verify endorse lobster cupboard bleak front mention focus";
+var mnemonic = "okay parade decade ready bottom goose infant action sail cluster during shed";

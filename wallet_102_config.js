@@ -1,1 +1,1 @@
-var mnemonic = "damp six people hamster shop vital dish person space advice scheme half";
+var mnemonic = "fault broken talk great scatter wife mystery topple brand twin blanket vibrant";

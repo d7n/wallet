@@ -1,1 +1,1 @@
-var mnemonic = "peasant romance clean similar disease wheel tortoise valley dream river affair demand";
+var mnemonic = "cereal lyrics elbow fix liar produce buffalo lobster security embrace club sign";

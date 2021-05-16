@@ -1,1 +1,1 @@
-var mnemonic = "pulse pilot clutch modify shallow word leisure push alert neither blush lend";
+var mnemonic = "inhale charge roof water chronic gate sun pony mercy master hurry jewel";

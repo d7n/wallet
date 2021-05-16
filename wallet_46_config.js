@@ -1,1 +1,1 @@
-var mnemonic = "rural report monster season have silly lesson trial ancient bread improve mom";
+var mnemonic = "away unlock gadget ranch smooth basket scout crane inform divert truly major";

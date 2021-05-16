@@ -1,1 +1,1 @@
-var mnemonic = "innocent traffic blouse eight join menu increase metal sick toss original wage";
+var mnemonic = "beyond word question announce thing pistol rude autumn order dizzy kind slot";

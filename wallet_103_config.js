@@ -1,1 +1,1 @@
-var mnemonic = "copper alone rail shine runway buyer layer ribbon joy credit lab hurt";
+var mnemonic = "video basket chronic world glare hip release version wrong lake method artist";

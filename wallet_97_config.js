@@ -1,1 +1,1 @@
-var mnemonic = "another conduct trip ivory salmon wool alcohol retire crater trust panda access";
+var mnemonic = "bargain solution sunset cargo little scale develop shine they solid extend barely";

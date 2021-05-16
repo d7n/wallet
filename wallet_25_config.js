@@ -1,1 +1,1 @@
-var mnemonic = "cruise knife kit love shrimp repair depth pistol avoid cake ginger enact";
+var mnemonic = "soda actor celery nephew comfort audit term clay picture thunder maid lecture";

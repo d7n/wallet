@@ -1,1 +1,1 @@
-var mnemonic = "clown caution diamond evoke imitate disorder hold point lumber shove kite brown";
+var mnemonic = "curious income oil vessel guitar box arch sad dad drum very payment";

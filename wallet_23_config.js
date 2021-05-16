@@ -1,1 +1,1 @@
-var mnemonic = "rose purse family tribe satoshi thrive scissors carbon table clap error payment";
+var mnemonic = "topic solve thrive raw debris master ranch hero immune filter fever prison";

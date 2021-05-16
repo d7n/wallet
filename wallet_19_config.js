@@ -1,1 +1,1 @@
-var mnemonic = "frown harvest verify valley street cinnamon wire update bacon file become habit";
+var mnemonic = "ignore clay harsh drink captain donate mean mountain casino hair bulb cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "void despair cruise solar picture tell penalty junk type order fat alley";
+var mnemonic = "pause beauty jump rich exhibit senior guitar vessel amount lucky polar van";

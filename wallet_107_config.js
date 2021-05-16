@@ -1,1 +1,1 @@
-var mnemonic = "open guitar size faint faculty domain glimpse baby layer escape book distance";
+var mnemonic = "hello fog tool scare blue castle junior three system whisper hazard arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "seat utility cruise zebra ranch zero raise feed arrive cannon same misery";
+var mnemonic = "wise second silk senior side act diet trash skin any clap entire";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket lazy raven educate fossil infant receive genre electric market permit edge";
+var mnemonic = "bike spread security fortune hybrid popular firm actual record memory bread icon";

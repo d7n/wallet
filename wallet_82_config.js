@@ -1,1 +1,1 @@
-var mnemonic = "whisper love abstract angle dish focus rain cement garage kitchen bread goddess";
+var mnemonic = "settle tone tuition rally sail coconut exchange can announce laugh once host";

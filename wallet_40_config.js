@@ -1,1 +1,1 @@
-var mnemonic = "color forward swear only rescue meat visit meat abstract veteran night horror";
+var mnemonic = "online chase arctic flavor flock label arrive suit napkin lamp act story";

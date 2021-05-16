@@ -1,1 +1,1 @@
-var mnemonic = "seed virus traffic magic runway exit oyster easy rare gym tail annual";
+var mnemonic = "nuclear trick vault monkey capable field mobile popular route decrease way entire";

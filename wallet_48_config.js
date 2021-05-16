@@ -1,1 +1,1 @@
-var mnemonic = "script tennis remain limb hint gloom legend horse tunnel ship crime lady";
+var mnemonic = "evil opera ready dice pledge foam impose impose sport scan pluck mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "artist twin bus predict palm kitchen follow pelican lady language vacuum clever";
+var mnemonic = "margin render adjust barrel napkin talent render tiger blouse assault march tonight";

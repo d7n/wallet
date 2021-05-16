@@ -1,1 +1,1 @@
-var mnemonic = "object april guess wheat seat drastic sad next exit oppose fire ability";
+var mnemonic = "glide seven hard broccoli puppy become area vivid win drama muffin taste";

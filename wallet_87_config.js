@@ -1,1 +1,1 @@
-var mnemonic = "trim limit concert follow void front media jungle gallery soul rule horror";
+var mnemonic = "front result drum mesh prefer orbit amused meadow decrease scatter arch hover";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle change pitch tower orphan spawn half ignore tissue craft sunny slide";
+var mnemonic = "tent tonight shallow front loan east fruit capital involve guess noble cross";

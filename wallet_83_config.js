@@ -1,1 +1,1 @@
-var mnemonic = "enter check hole mixture end urban glow man laugh owner faith man";
+var mnemonic = "present liquid ticket venue sick regret soul obey tomato help fee armed";

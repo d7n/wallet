@@ -1,1 +1,1 @@
-var mnemonic = "mention claim famous blood bicycle lyrics worry aisle farm cradle season motion";
+var mnemonic = "life fence hammer pitch boil song evil kit parent midnight pigeon twenty";

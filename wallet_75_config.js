@@ -1,1 +1,1 @@
-var mnemonic = "hair piano liquid panel blind unveil patch novel before pact lounge trigger";
+var mnemonic = "town story blind cargo absurd oblige assault glare pet dynamic hamster bunker";

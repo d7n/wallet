@@ -1,1 +1,1 @@
-var mnemonic = "forest wave spring banner real lawn zone lobster food leader add electric";
+var mnemonic = "tuition explain street army false diamond chronic occur awake door conduct evil";

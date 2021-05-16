@@ -1,1 +1,1 @@
-var mnemonic = "bright inflict clever above jealous target bulb carpet leg draw claw grain";
+var mnemonic = "legal series pool vacuum frozen pepper slogan gospel sunny gravity permit also";

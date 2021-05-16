@@ -1,1 +1,1 @@
-var mnemonic = "sail awful begin give tiger blame forum shallow aspect practice profit comfort";
+var mnemonic = "dignity street track cushion loop female near guitar nice upgrade sound action";

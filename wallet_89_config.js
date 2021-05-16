@@ -1,1 +1,1 @@
-var mnemonic = "eye ready cheese draft yard display peanut arm village hazard satoshi mystery";
+var mnemonic = "ill father city discover talent rib cotton hungry hole frozen scissors slice";

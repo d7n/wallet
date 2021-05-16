@@ -1,1 +1,1 @@
-var mnemonic = "river language hungry easily lumber spray april later front either scrub proof";
+var mnemonic = "ahead more car salute play raw nephew figure approve island inject future";

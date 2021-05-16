@@ -1,1 +1,1 @@
-var mnemonic = "worth crush section dove volcano notable turtle below mammal captain grow skull";
+var mnemonic = "tiny cat erosion gravity today sunset welcome bullet utility toy dice deny";

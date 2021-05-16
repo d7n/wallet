@@ -1,1 +1,1 @@
-var mnemonic = "ill galaxy audit note alien parade segment deny veteran inch around eternal";
+var mnemonic = "crumble payment planet film monitor tackle pepper mention analyst balcony deposit mansion";

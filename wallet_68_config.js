@@ -1,1 +1,1 @@
-var mnemonic = "canal confirm punch expect beyond fun rug jewel cat jar oval famous";
+var mnemonic = "guard wine foot reward attitude silver stone sausage conduct parent aunt mouse";

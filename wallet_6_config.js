@@ -1,1 +1,1 @@
-var mnemonic = "mixture tower destroy skin device pencil nature sketch apple tube blanket cram";
+var mnemonic = "script rival public rain easy garage write ghost enforce clip ignore sand";

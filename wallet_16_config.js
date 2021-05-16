@@ -1,1 +1,1 @@
-var mnemonic = "renew luxury ask trade owner inch fuel hospital river rally margin behind";
+var mnemonic = "can property multiply then congress when scout keen captain west crop travel";

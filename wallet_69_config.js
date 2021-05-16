@@ -1,1 +1,1 @@
-var mnemonic = "stable wear point benefit crazy jump people second you soon pony spend";
+var mnemonic = "cabbage tonight stomach dose skill wagon honey project broken gas scatter wait";

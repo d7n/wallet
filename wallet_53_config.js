@@ -1,1 +1,1 @@
-var mnemonic = "town below scheme glimpse annual diary slice copper strong jelly cotton bid";
+var mnemonic = "erupt concert impulse shock cat fiction jewel eagle field virus zoo crumble";

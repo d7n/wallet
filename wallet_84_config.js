@@ -1,1 +1,1 @@
-var mnemonic = "tomato alert faculty discover require jeans various fork jaguar alien april process";
+var mnemonic = "maid real category athlete crater brand mutual civil people media lyrics improve";

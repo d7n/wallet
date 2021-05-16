@@ -1,1 +1,1 @@
-var mnemonic = "valve tape beach capable plunge dinner trigger mixed inmate mushroom screen two";
+var mnemonic = "force mountain exit drop margin industry venue camp pepper pole umbrella reopen";

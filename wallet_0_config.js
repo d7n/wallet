@@ -1,1 +1,1 @@
-var mnemonic = "weapon arrest domain brain chief net catalog naive often tattoo today media";
+var mnemonic = "person tent simple security elegant bone leisure victory language iron flat stamp";

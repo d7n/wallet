@@ -1,1 +1,1 @@
-var mnemonic = "defy armor oven basic country donor answer letter swear journey caution riot";
+var mnemonic = "sand pencil above huge soft depend robot jelly glue evidence episode head";

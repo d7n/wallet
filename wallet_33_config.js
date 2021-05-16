@@ -1,1 +1,1 @@
-var mnemonic = "because copper rookie humble volume hood this depart birth tonight dose hidden";
+var mnemonic = "pitch mutual cool when metal crime easily fox evolve medal acquire rich";

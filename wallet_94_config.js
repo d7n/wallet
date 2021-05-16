@@ -1,1 +1,1 @@
-var mnemonic = "design yard crystal wall source twist dish double lazy speak ten game";
+var mnemonic = "demand clinic meadow close vocal sauce someone struggle pill notable task episode";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology april regular prepare cute oyster pave surface over tornado sing march";
+var mnemonic = "squirrel hat alien effort slice fork dolphin gift length spend can bubble";

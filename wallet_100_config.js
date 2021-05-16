@@ -1,1 +1,1 @@
-var mnemonic = "soldier save draw attack notable ocean climb chase trend shed knife flip";
+var mnemonic = "earn half pilot solid shoot now minute chest crop destroy sea swallow";

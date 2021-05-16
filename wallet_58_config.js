@@ -1,1 +1,1 @@
-var mnemonic = "seven such will add vapor cloud enable clever agree pass swim bachelor";
+var mnemonic = "winner liberty build erosion immune humble dance dentist scout cloth truly flavor";

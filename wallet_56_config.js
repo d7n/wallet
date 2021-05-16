@@ -1,1 +1,1 @@
-var mnemonic = "air wedding tattoo verb clip bomb tongue trial bright hat mask race";
+var mnemonic = "capable license occur genius pizza scissors battle dizzy current tattoo merge cream";

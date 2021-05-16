@@ -1,1 +1,1 @@
-var mnemonic = "awful add crush eagle tone onion tenant opinion pattern install forest rule";
+var mnemonic = "brick remain fork actor faith ahead travel any victory media tennis salad";

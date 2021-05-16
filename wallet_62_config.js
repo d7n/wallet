@@ -1,1 +1,1 @@
-var mnemonic = "bronze wheat walk load alarm time impulse jump report federal usage drastic";
+var mnemonic = "shop movie decrease solar scissors ugly need bronze ritual aunt divide arrange";

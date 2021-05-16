@@ -1,1 +1,1 @@
-var mnemonic = "liar acquire exchange brisk bargain witness april style total strong jump never";
+var mnemonic = "rate help frame air hard mountain couple put bread smart spend surface";

@@ -1,1 +1,1 @@
-var mnemonic = "piano floor this stumble team quote gas use style abstract evoke ramp";
+var mnemonic = "divert spare seminar laptop copy diamond syrup card casino bleak inside table";

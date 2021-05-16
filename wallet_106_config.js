@@ -1,1 +1,1 @@
-var mnemonic = "dance rich walnut session spatial fish discover moon shallow pupil coach page";
+var mnemonic = "sting sing school illness treat range green govern lazy enjoy pig output";

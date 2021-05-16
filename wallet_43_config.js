@@ -1,1 +1,1 @@
-var mnemonic = "snow about online canoe before inhale bulk language bird wave diet logic";
+var mnemonic = "expose inherit good bracket dish topic oxygen hen amused blast hurdle still";

@@ -1,1 +1,1 @@
-var mnemonic = "answer stereo hollow equal refuse ceiling retire unlock canoe curve miracle unknown";
+var mnemonic = "pumpkin palace today tourist volume cinnamon bacon hole horror usage trumpet bachelor";

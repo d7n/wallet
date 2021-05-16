@@ -1,1 +1,1 @@
-var mnemonic = "inspire world suggest nasty pond about census aunt joke average famous velvet";
+var mnemonic = "buyer drink leg differ hold toy repeat zoo gas weird slogan pony";

@@ -1,1 +1,1 @@
-var mnemonic = "thing lab enemy cabbage smooth cabbage object misery gauge story butter boil";
+var mnemonic = "become drop rice seven powder bring fragile eager dismiss bicycle shoe sword";

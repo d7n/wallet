@@ -1,1 +1,1 @@
-var mnemonic = "identify conduct future spin desk deputy fuel slim labor village fatigue chimney";
+var mnemonic = "clip same drastic raven under liquid copper judge push rib poet denial";

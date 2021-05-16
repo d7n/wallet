@@ -1,1 +1,1 @@
-var mnemonic = "pretty pigeon disorder depth spice habit evil island enforce science kingdom dawn";
+var mnemonic = "pepper tube collect scale jealous screen prepare merit rent much ticket firm";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen hole school abandon room pig goat tail blind scrap length tip";
+var mnemonic = "dust craft pill lottery story problem surround increase logic crystal seek wagon";

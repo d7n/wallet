@@ -1,1 +1,1 @@
-var mnemonic = "only sadness reward check engage opinion gather oval update boss dumb hurdle";
+var mnemonic = "pole satisfy option lottery magic exit cricket upset balance apart world key";

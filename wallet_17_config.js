@@ -1,1 +1,1 @@
-var mnemonic = "child memory dry more deputy mutual jealous delay patch adjust topple alone";
+var mnemonic = "twin lobster vague transfer gold super smile remind uniform basket apple inside";

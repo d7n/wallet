@@ -1,1 +1,1 @@
-var mnemonic = "lock similar amateur rotate cover hard payment involve pulse index input robot";
+var mnemonic = "feed mom reject isolate stem pen ticket element tragic glare cash gate";

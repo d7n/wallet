@@ -1,1 +1,1 @@
-var mnemonic = "industry umbrella demise exchange inside win stage memory sauce verb distance beef";
+var mnemonic = "above stool belt neck draft thrive prevent feed height obtain hire goat";

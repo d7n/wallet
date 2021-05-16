@@ -1,1 +1,1 @@
-var mnemonic = "critic critic trim frame rug video evolve name runway insect click portion";
+var mnemonic = "person bind hundred news keen slogan hunt thunder tank frame heart donor";

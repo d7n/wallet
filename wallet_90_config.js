@@ -1,1 +1,1 @@
-var mnemonic = "expand above riot excuse fix balcony viable album label dawn rice fantasy";
+var mnemonic = "approve cloud shell property hold attract purchase hammer outdoor engine talent offer";

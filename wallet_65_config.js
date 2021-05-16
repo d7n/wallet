@@ -1,1 +1,1 @@
-var mnemonic = "purchase reject crane water absent old hub celery vote glance huge chimney";
+var mnemonic = "talent boy purpose cigar ability table border antenna coffee bounce exchange opinion";

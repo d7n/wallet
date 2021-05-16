@@ -1,1 +1,1 @@
-var mnemonic = "mind media there extend cook leaf unable file solution garment smoke tonight";
+var mnemonic = "item hidden able acid inherit urban true media enemy you monster stable";

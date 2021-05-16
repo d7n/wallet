@@ -1,1 +1,1 @@
-var mnemonic = "engine creek rough foster typical clinic chaos depart memory appear jeans morning";
+var mnemonic = "paper among civil uncle faculty birth oil shove bounce rule famous increase";

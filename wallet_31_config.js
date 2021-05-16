@@ -1,1 +1,1 @@
-var mnemonic = "image bag merge kiwi erosion minute panda process click large cactus vanish";
+var mnemonic = "slot vacuum snow shift ridge way awake sort genre toe favorite indicate";

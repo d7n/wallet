@@ -1,1 +1,1 @@
-var mnemonic = "allow fly invite metal worry sure rhythm gossip silent select patient road";
+var mnemonic = "diet boring sweet render biology strategy roof foam stand crew practice insane";
