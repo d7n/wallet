@@ -1,1 +1,1 @@
-var mnemonic = "require assault truth crazy year talk update toss never copy armor six";
+var mnemonic = "panel upset crop evoke nature lock garment rebuild churn cook pill fatal";

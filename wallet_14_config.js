@@ -1,1 +1,1 @@
-var mnemonic = "hotel deal member ski vacant multiply soup thank harsh symptom say bid";
+var mnemonic = "ritual tornado black race orchard need federal author method vote pill wire";

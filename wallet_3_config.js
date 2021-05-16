@@ -1,1 +1,1 @@
-var mnemonic = "maid kiwi symbol project sweet hair just wall symbol number can vital";
+var mnemonic = "wire prefer kit food universe desert border quit hidden congress tone impose";

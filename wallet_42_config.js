@@ -1,1 +1,1 @@
-var mnemonic = "brush beef tool super magic coral month film upper receive nest hotel";
+var mnemonic = "dry gun promote office junior saddle cook muscle move fox situate blade";

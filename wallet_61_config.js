@@ -1,1 +1,1 @@
-var mnemonic = "bonus crash vault loyal coast aspect final upset piece release chat miss";
+var mnemonic = "small bag pepper obvious fashion farm grit book olive paper ozone place";

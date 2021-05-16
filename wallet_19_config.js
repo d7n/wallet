@@ -1,1 +1,1 @@
-var mnemonic = "before laptop stuff grid clay unaware valley cushion absurd give rotate horn";
+var mnemonic = "during public expose fine plunge random uniform rude flame argue virtual metal";

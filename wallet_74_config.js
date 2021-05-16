@@ -1,1 +1,1 @@
-var mnemonic = "lumber hope huge animal jealous inquiry coil bridge seek chimney clerk scrub";
+var mnemonic = "toward eagle game advance live flight axis top between youth echo tool";

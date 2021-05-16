@@ -1,1 +1,1 @@
-var mnemonic = "spatial goddess fence also eyebrow keep rare model token old priority potato";
+var mnemonic = "lion patrol switch broom ability term minute drip profit soldier orchard loyal";

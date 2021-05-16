@@ -1,1 +1,1 @@
-var mnemonic = "guitar side meat wish vessel when dose dust road brief intact shrug";
+var mnemonic = "sound fever bulb meadow rack arrange cat alter view expose thumb base";

@@ -1,1 +1,1 @@
-var mnemonic = "season item mixture rifle beyond tomato smooth fiction name beyond enjoy buffalo";
+var mnemonic = "copper slogan version ceiling empty ancient robust clump safe arena skill rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "genre spring bench trumpet cigar wagon oven exit output cheap draw scout";
+var mnemonic = "funny grunt wisdom jelly detect bridge inflict carry safe violin smart attitude";

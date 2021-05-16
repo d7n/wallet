@@ -1,1 +1,1 @@
-var mnemonic = "high uphold humble sun twelve net expand element outside enact mirror cushion";
+var mnemonic = "famous address term boring top correct minute coral broom math minute oven";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle color suggest choose culture time denial crucial immense cotton flush canoe";
+var mnemonic = "bitter lens involve gentle diet coin game photo moral opera aspect tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol tortoise profit amount glory powder belt once unique timber climb bid";
+var mnemonic = "guilt tail crystal census rare lyrics pet harsh mirror smart hungry kidney";

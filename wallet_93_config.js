@@ -1,1 +1,1 @@
-var mnemonic = "detect casino asthma credit young vivid cradle ankle dune that squeeze ozone";
+var mnemonic = "tank move ozone enlist sugar nothing column alarm remember collect buddy slim";

@@ -1,1 +1,1 @@
-var mnemonic = "frown garlic onion electric chief neither chat few robust lend cactus bird";
+var mnemonic = "swallow portion common elephant life dice verify there prevent muscle want hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "series body blind fix lady point feature flavor welcome battle never liar";
+var mnemonic = "cube special fancy fancy disorder silver park brand found paper across stable";

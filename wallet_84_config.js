@@ -1,1 +1,1 @@
-var mnemonic = "exotic make pill episode remember silly risk exhibit lift top warm story";
+var mnemonic = "just patch unaware brick plastic diagram sign egg scissors twenty slush palm";

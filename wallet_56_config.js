@@ -1,1 +1,1 @@
-var mnemonic = "bargain steel kitten night output owner hollow action offer random heavy bonus";
+var mnemonic = "erode bridge inspire couch govern nerve blame senior differ excuse door book";

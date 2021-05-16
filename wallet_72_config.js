@@ -1,1 +1,1 @@
-var mnemonic = "raven lonely creek choice abandon erosion lion tuna iron grocery mosquito scatter";
+var mnemonic = "maze receive dove mammal glass grit organ copper seed affair effort much";

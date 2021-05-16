@@ -1,1 +1,1 @@
-var mnemonic = "erupt sell never merit eagle fiction reopen elite tuna smooth portion model";
+var mnemonic = "health despair ethics month oppose notice donate citizen atom doctor manage train";

@@ -1,1 +1,1 @@
-var mnemonic = "save basket retreat tide question there equal alert soda bean such meat";
+var mnemonic = "army bitter exotic guilt chair surround square leg clever enact armed renew";

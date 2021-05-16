@@ -1,1 +1,1 @@
-var mnemonic = "raw rifle dawn moral noodle science section wonder wisdom bike fortune author";
+var mnemonic = "kidney riot toilet orange gadget scrub illegal base envelope entire mule ridge";

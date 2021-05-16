@@ -1,1 +1,1 @@
-var mnemonic = "interest coach potato trend boring feel control radio amazing solve bitter embody";
+var mnemonic = "attitude unlock travel normal sick jealous capable above gallery cheese merry tackle";

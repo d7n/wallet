@@ -1,1 +1,1 @@
-var mnemonic = "various sudden airport sure earth tent install frozen crystal now tape build";
+var mnemonic = "produce glue mutual boy profit valid forest volume force build will tumble";

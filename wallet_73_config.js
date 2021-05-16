@@ -1,1 +1,1 @@
-var mnemonic = "buddy over jaguar fruit can trial ready stool input celery calm talent";
+var mnemonic = "rely slow also radio piece review unknown emotion army aspect advance letter";

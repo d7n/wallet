@@ -1,1 +1,1 @@
-var mnemonic = "true club account deputy report journey obtain eye tooth sad churn album";
+var mnemonic = "fortune swim regret theme nice mountain wait eye soft almost pipe idea";

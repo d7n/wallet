@@ -1,1 +1,1 @@
-var mnemonic = "general donkey fee gorilla praise tide galaxy mixed coin focus surround decade";
+var mnemonic = "tuition sponsor expire cage mention fuel cheese control east nasty shuffle olympic";

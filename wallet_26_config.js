@@ -1,1 +1,1 @@
-var mnemonic = "connect summer ball supreme barely piece elder occur decrease engage flight pink";
+var mnemonic = "priority panic rose tongue success brief wall ready cook nest siege opinion";

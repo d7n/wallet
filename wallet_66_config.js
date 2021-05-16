@@ -1,1 +1,1 @@
-var mnemonic = "inhale trap embody copper junk reflect beauty wonder apology shine veteran fiber";
+var mnemonic = "tunnel dash palace order kiwi dolphin cushion tuna chief vapor toilet abandon";

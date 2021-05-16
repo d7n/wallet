@@ -1,1 +1,1 @@
-var mnemonic = "rifle vessel pear uncover surprise orphan trash offer patient frost cruel credit";
+var mnemonic = "animal galaxy just animal chalk frog stay obvious that faculty wire fence";

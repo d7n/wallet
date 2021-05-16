@@ -1,1 +1,1 @@
-var mnemonic = "belt auction flip surround rather awful manual what fossil rose jealous runway";
+var mnemonic = "jewel affair salmon excite ahead stage core usage whisper call action slot";

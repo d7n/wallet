@@ -1,1 +1,1 @@
-var mnemonic = "unlock canal wash task unfold nation artefact van spring poet remember direct";
+var mnemonic = "today saddle strike second flag episode risk axis sauce peace since family";

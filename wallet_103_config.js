@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo motor pull card neglect magic lock afraid sentence oxygen faith fragile";
+var mnemonic = "loan shaft saddle raise debate account crime day denial uphold corn dwarf";

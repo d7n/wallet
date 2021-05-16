@@ -1,1 +1,1 @@
-var mnemonic = "unaware ordinary large odor pet learn client private tower swear member ranch";
+var mnemonic = "swear impact random sugar repeat canal jacket mask rely type list shine";

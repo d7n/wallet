@@ -1,1 +1,1 @@
-var mnemonic = "adult globe capital dentist before need vast code wagon feature lava trial";
+var mnemonic = "fee bless kangaroo youth erase trophy exclude entire lounge render unhappy faith";

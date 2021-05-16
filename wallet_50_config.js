@@ -1,1 +1,1 @@
-var mnemonic = "bubble buffalo collect dress still snack distance merge betray dinner skate holiday";
+var mnemonic = "twin topic result prison adapt rack lucky manage special bean iron timber";

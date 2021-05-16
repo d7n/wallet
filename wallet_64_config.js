@@ -1,1 +1,1 @@
-var mnemonic = "neither student defense vast husband chat degree rotate boost exotic exotic lift";
+var mnemonic = "punch ribbon clarify glad feed original animal flash weird manage syrup purchase";

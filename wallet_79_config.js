@@ -1,1 +1,1 @@
-var mnemonic = "wreck whale canvas bitter member faith myself twelve hood option cute negative";
+var mnemonic = "story annual basic casual squeeze kidney diagram deposit hundred wise oblige public";

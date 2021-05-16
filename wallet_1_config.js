@@ -1,1 +1,1 @@
-var mnemonic = "problem obtain gown often vault draw above leisure video exact kid page";
+var mnemonic = "print because despair gold flag diamond reopen dish private winner reopen still";

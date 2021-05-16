@@ -1,1 +1,1 @@
-var mnemonic = "firm improve transfer thunder tackle special funny kidney upon caught return portion";
+var mnemonic = "debris heavy public proud crunch chunk pupil fabric project source mutual inside";

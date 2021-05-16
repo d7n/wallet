@@ -1,1 +1,1 @@
-var mnemonic = "allow scare small hobby clarify oppose fine slush disorder dash ring detect";
+var mnemonic = "future scene victory glad country next right mention violin canoe stove unlock";

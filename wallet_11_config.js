@@ -1,1 +1,1 @@
-var mnemonic = "tribe banner holiday reveal space maze curtain sense ready forget zoo kite";
+var mnemonic = "will taxi guess indicate call circle drip garden episode lawsuit dismiss strike";

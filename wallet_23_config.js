@@ -1,1 +1,1 @@
-var mnemonic = "chronic three rude toast remain park solid pool surge hold thumb gloom";
+var mnemonic = "bullet wave mad chest meadow pretty artwork tiny tiger wrestle border arch";

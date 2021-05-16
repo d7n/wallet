@@ -1,1 +1,1 @@
-var mnemonic = "shrug clog tag decrease loan cat aware select gadget country dune solid";
+var mnemonic = "actor enter festival anchor fee tuna age negative still turn boss diet";

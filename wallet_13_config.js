@@ -1,1 +1,1 @@
-var mnemonic = "blur bubble flee mistake brisk party wash border wrist broccoli oyster dizzy";
+var mnemonic = "picnic tonight intact wood universe hover abuse useless radio husband black eagle";

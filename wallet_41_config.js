@@ -1,1 +1,1 @@
-var mnemonic = "bid acoustic soon road need grid wrong work monster tumble penalty since";
+var mnemonic = "gasp sand hair exhaust leopard slide achieve squirrel goat rice invest half";

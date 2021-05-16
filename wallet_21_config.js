@@ -1,1 +1,1 @@
-var mnemonic = "imitate canvas mass chief focus love design know giant habit pottery clever";
+var mnemonic = "upset budget salmon helmet very icon version marble mass car have ring";

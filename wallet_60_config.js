@@ -1,1 +1,1 @@
-var mnemonic = "neglect fat cradle toward cattle bargain enjoy space shy mammal double index";
+var mnemonic = "kind goddess bracket debris scrub truck speed ketchup require evoke dawn ridge";

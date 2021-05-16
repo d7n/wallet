@@ -1,1 +1,1 @@
-var mnemonic = "boat sphere beyond action shell electric outer connect jealous orbit home coconut";
+var mnemonic = "film coyote sketch skate come anchor agent weekend such icon bicycle coin";

@@ -1,1 +1,1 @@
-var mnemonic = "nut grief bleak process rigid urge collect moral memory leaf text reject";
+var mnemonic = "buzz toss unhappy rubber label aisle sugar stay horn issue tank vibrant";

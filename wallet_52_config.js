@@ -1,1 +1,1 @@
-var mnemonic = "run scan gap burden asset only success check salon garbage search solve";
+var mnemonic = "drop rose name credit ghost follow huge label tourist web wear yard";

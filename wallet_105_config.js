@@ -1,1 +1,1 @@
-var mnemonic = "ahead asthma leopard tell child kiss move vehicle viable empty correct wear";
+var mnemonic = "issue bulk upper inspire cave purpose group celery rather rely sudden glove";

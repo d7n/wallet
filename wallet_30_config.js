@@ -1,1 +1,1 @@
-var mnemonic = "solar sock trend caught tiger educate oblige profit immune frost misery century";
+var mnemonic = "jazz soup ribbon surround top misery seek aim swing reject cash chalk";

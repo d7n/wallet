@@ -1,1 +1,1 @@
-var mnemonic = "stomach before blind asset narrow code display lens under host path track";
+var mnemonic = "increase antique divide easy liquid spirit crack rescue strong board picnic light";

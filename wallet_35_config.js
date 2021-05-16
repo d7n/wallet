@@ -1,1 +1,1 @@
-var mnemonic = "bottom wool erosion machine tail join sick joy basket cloth fan army";
+var mnemonic = "jeans indicate market forest hip entry lyrics remind prosper worry kitten subway";

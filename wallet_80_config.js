@@ -1,1 +1,1 @@
-var mnemonic = "initial bracket reduce over ahead fiber excuse impose theme cable obscure sudden";
+var mnemonic = "make web vote mouse melody push copy spike fault eight clog lizard";

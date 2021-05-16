@@ -1,1 +1,1 @@
-var mnemonic = "cherry release chaos smooth flight balcony alley cannon always already plug meat";
+var mnemonic = "pistol give couch seminar tag behind mammal exact win pig weekend portion";

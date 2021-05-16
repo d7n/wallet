@@ -1,1 +1,1 @@
-var mnemonic = "vacuum romance wage marble argue chief badge high fiber imitate wrestle hospital";
+var mnemonic = "secret upon rough unfair know improve upon safe soldier casino title grass";

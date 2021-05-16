@@ -1,1 +1,1 @@
-var mnemonic = "lunch toilet special lake broken gain surprise subway trigger pull similar cover";
+var mnemonic = "reopen toast olive era raise chronic document alter gadget sorry useful arch";

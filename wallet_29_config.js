@@ -1,1 +1,1 @@
-var mnemonic = "accident hurry garment upgrade tennis fitness require ship bless layer mail habit";
+var mnemonic = "join bridge castle beach hub sail clutch acoustic muscle portion tonight cart";

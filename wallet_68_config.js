@@ -1,1 +1,1 @@
-var mnemonic = "gather live pond maple where exist barely rural torch chunk girl rapid";
+var mnemonic = "found marriage another decorate call frozen never swing talk ring endless ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "liar autumn elevator tuna eight essay flock opinion loud basket crew census";
+var mnemonic = "valid ivory assault review twenty reduce fabric little kick connect uphold cruise";

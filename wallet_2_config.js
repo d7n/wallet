@@ -1,1 +1,1 @@
-var mnemonic = "lawn pulp satisfy canal success civil hundred struggle desk mirror bacon sustain";
+var mnemonic = "carry find stable input agent vacant attack chair whale pilot sock urge";

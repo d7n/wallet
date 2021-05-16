@@ -1,1 +1,1 @@
-var mnemonic = "output alien demise series stereo vacant east nice body shadow misery strategy";
+var mnemonic = "minute gain day fringe wheat pair ginger busy field section duck coach";

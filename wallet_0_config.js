@@ -1,1 +1,1 @@
-var mnemonic = "disease design guide raven chief coconut frost glance school clarify adult man";
+var mnemonic = "vault trap soda jar fold hybrid olympic tell despair problem lift fog";

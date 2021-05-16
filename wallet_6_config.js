@@ -1,1 +1,1 @@
-var mnemonic = "warm foam bus mixed okay fiction ski hour used victory brave ocean";
+var mnemonic = "weekend student general someone merit crop harsh evidence slush pitch feel dynamic";

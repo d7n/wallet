@@ -1,1 +1,1 @@
-var mnemonic = "wrestle poem seminar account alone party pond view gospel width total add";
+var mnemonic = "oyster winner crouch proud acoustic birth blush rich hill pledge door dial";

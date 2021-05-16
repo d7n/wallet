@@ -1,1 +1,1 @@
-var mnemonic = "flavor hope flush lounge innocent tattoo fine drip mosquito demand marble clever";
+var mnemonic = "tissue erase exist rule smart ticket never month hen shiver follow year";

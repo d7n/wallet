@@ -1,1 +1,1 @@
-var mnemonic = "betray kid ketchup transfer follow height autumn pizza convince keep rude pistol";
+var mnemonic = "canyon duty cry flush used ability course actress fee aisle genre public";

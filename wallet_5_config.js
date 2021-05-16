@@ -1,1 +1,1 @@
-var mnemonic = "parent volcano need swamp timber poem pond size drip diet visual round";
+var mnemonic = "weekend mouse pet raccoon oil beyond never protect beef company frost across";

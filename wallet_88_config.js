@@ -1,1 +1,1 @@
-var mnemonic = "leaf bid planet rapid wish stock expire biology sad admit chicken busy";
+var mnemonic = "stay page load odor paper black uphold tragic danger cloud bid inner";

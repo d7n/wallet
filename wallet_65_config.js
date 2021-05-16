@@ -1,1 +1,1 @@
-var mnemonic = "umbrella crawl reject decide turkey pipe fluid clarify trim want school inherit";
+var mnemonic = "middle myself gesture enjoy eyebrow bag ordinary asset network access cabin actual";

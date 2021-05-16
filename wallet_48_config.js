@@ -1,1 +1,1 @@
-var mnemonic = "safe melt young screen glory bunker impact entire grace oppose jump palm";
+var mnemonic = "bind siren winter right seven lobster plug punch chicken educate urge bike";

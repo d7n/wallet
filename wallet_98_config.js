@@ -1,1 +1,1 @@
-var mnemonic = "local bulk tackle supreme click mistake upgrade prefer punch shiver material body";
+var mnemonic = "engage scan genuine lunar grid pull moral fringe able indoor vapor practice";

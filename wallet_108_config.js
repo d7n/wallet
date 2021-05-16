@@ -1,1 +1,1 @@
-var mnemonic = "type account glass diary delay ranch army lizard dry poverty cool enemy";
+var mnemonic = "symptom figure visit bless harsh solve poem mistake cloud front sun point";

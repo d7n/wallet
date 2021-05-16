@@ -1,1 +1,1 @@
-var mnemonic = "field consider eyebrow notable staff fiscal wood faculty acid answer sea toddler";
+var mnemonic = "purse behind anger crunch praise mirror win brisk pet rocket strategy kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "stove script spatial transfer payment boat ribbon cotton pudding track brick hedgehog";
+var mnemonic = "faith humble install frame royal demise identify three tomato plastic stomach honey";

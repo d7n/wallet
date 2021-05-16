@@ -1,1 +1,1 @@
-var mnemonic = "perfect fame attend across moral depend tumble arrange tired bench dismiss stuff";
+var mnemonic = "wisdom use salute april pretty afford prize slow matter focus joke first";

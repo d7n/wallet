@@ -1,1 +1,1 @@
-var mnemonic = "wild vital whale agent century delay sand razor curious climb glare mad";
+var mnemonic = "worry catch argue mad end eye oxygen traffic witness stereo upon media";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness type crumble pottery subway steel staff egg floor unusual voyage brass";
+var mnemonic = "police equip before master job cover radar dry onion swing decide goddess";

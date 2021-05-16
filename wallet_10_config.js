@@ -1,1 +1,1 @@
-var mnemonic = "humble tree wear win chalk love shiver magic grid profit bargain rigid";
+var mnemonic = "journey plunge lake lunch magic curtain shove under portion floor heart unique";

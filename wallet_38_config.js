@@ -1,1 +1,1 @@
-var mnemonic = "can document tiger render clown rival mass empty any suspect swear crumble";
+var mnemonic = "also garbage coral laptop novel rookie spend wool lunch squeeze utility acquire";

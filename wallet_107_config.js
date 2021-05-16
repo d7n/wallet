@@ -1,1 +1,1 @@
-var mnemonic = "shoot bitter forward inflict gentle bag outdoor general seek claim alert tissue";
+var mnemonic = "unit right chronic vocal sketch silent fiber survey edge east country snack";

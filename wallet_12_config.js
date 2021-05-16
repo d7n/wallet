@@ -1,1 +1,1 @@
-var mnemonic = "jungle demand manual master label region diary quarter machine miracle casual comic";
+var mnemonic = "invite logic emerge team shrimp license clerk visa because shoe audit cat";

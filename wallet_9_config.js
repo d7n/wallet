@@ -1,1 +1,1 @@
-var mnemonic = "fresh egg hollow mercy afraid female crop simple dice rebel assume attract";
+var mnemonic = "discover broom crime shy enroll capital stadium message civil latin traffic layer";

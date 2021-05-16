@@ -1,1 +1,1 @@
-var mnemonic = "remember mixed increase impose gym educate later diamond prefer motion ceiling clump";
+var mnemonic = "thunder fantasy coconut anger orbit tape camp divide extend claim trust tobacco";

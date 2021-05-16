@@ -1,1 +1,1 @@
-var mnemonic = "congress antenna mention elevator spray organ affair wealth chef loud mixture select";
+var mnemonic = "hamster use scene prevent elegant modify fog miracle kite extra witness task";

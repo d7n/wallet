@@ -1,1 +1,1 @@
-var mnemonic = "angle festival camp close parent neck room height file supreme today hello";
+var mnemonic = "scrap pigeon unit frequent mix liquid vibrant own host envelope ridge bonus";

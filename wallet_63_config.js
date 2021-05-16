@@ -1,1 +1,1 @@
-var mnemonic = "immune exchange leaf demand image debate lizard gas defy maple snack insect";
+var mnemonic = "doctor famous slush visual member guard best inject cart review toe pumpkin";

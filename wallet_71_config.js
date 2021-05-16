@@ -1,1 +1,1 @@
-var mnemonic = "matter insect moon day excuse system hill humble assist industry talent brisk";
+var mnemonic = "filter exclude elevator cigar nation tragic lucky small napkin swamp slogan clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "shine usual hill upper cement unique photo reject resemble labor defy actress";
+var mnemonic = "april clog nest heart labor double dismiss raccoon license only change estate";

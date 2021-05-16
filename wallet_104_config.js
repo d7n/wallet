@@ -1,1 +1,1 @@
-var mnemonic = "release situate jungle anchor culture talent math panic puppy funny head negative";
+var mnemonic = "truth orchard unaware battle sound notice surround solid tourist slab pepper uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "kite leisure melt south fetch runway gallery jewel power ecology liar note";
+var mnemonic = "mixture battle noise lunch what stereo fish easy change bronze extend monkey";
