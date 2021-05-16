@@ -1,1 +1,1 @@
-var mnemonic = "session sauce pyramid try opinion mass latin grass chief dismiss abstract employ";
+var mnemonic = "category once leg slice bracket foster angry depart card danger town puppy";

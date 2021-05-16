@@ -1,1 +1,1 @@
-var mnemonic = "hard wagon only ignore mercy mushroom jacket try eyebrow ladder thunder property";
+var mnemonic = "spell what kind error mind entire ensure brown crucial isolate lift avocado";

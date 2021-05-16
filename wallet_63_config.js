@@ -1,1 +1,1 @@
-var mnemonic = "force smooth engine measure mixture consider valve garden breeze joke breeze slow";
+var mnemonic = "spy wear thunder diet slot flee payment window want verify copy female";

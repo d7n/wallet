@@ -1,1 +1,1 @@
-var mnemonic = "renew apart saddle initial top polar same intact position length coconut chest";
+var mnemonic = "soon earth miracle garment lady crane latin aunt insane hurdle act screen";

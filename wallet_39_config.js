@@ -1,1 +1,1 @@
-var mnemonic = "patient review inch stem humble impact cereal pretty harbor person pizza track";
+var mnemonic = "step exclude region position elegant fatal universe confirm already sniff blue flight";

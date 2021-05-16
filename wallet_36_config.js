@@ -1,1 +1,1 @@
-var mnemonic = "output blue zone blur shed latin gentle immense bench strategy noise caught";
+var mnemonic = "gate arrive episode offer cable differ hill chest walnut bridge galaxy stairs";

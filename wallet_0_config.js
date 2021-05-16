@@ -1,1 +1,1 @@
-var mnemonic = "stem exact jungle habit minute ritual material doll acid jar lab rule";
+var mnemonic = "cute reject disorder entry ladder mandate firm hill stamp sad pluck useless";

@@ -1,1 +1,1 @@
-var mnemonic = "grief current bless fury tail earth bachelor garlic embrace lonely tortoise soft";
+var mnemonic = "bomb word silent clinic spend royal bird impulse unable beauty rack coffee";

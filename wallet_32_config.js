@@ -1,1 +1,1 @@
-var mnemonic = "under resemble copy cage garlic license car leopard erode license unit struggle";
+var mnemonic = "wire patrol enjoy hover nut egg ticket gas crater nuclear plastic flash";

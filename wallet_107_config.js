@@ -1,1 +1,1 @@
-var mnemonic = "spin sponsor toast coach noise list mother combine grass canvas club pig";
+var mnemonic = "ski click tray rural bike buzz space genius soft nature explain habit";

@@ -1,1 +1,1 @@
-var mnemonic = "nut type royal unlock tackle explain cactus mind drum globe raise lawsuit";
+var mnemonic = "coffee kind exotic height snake odor dentist brand crunch mean volume pet";

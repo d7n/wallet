@@ -1,1 +1,1 @@
-var mnemonic = "fog jazz enroll wedding recycle slight aunt hold uncle circle carbon stock";
+var mnemonic = "host upgrade patch project core exotic novel expire juice casino often moon";

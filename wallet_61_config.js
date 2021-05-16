@@ -1,1 +1,1 @@
-var mnemonic = "symbol inquiry deposit ready replace sentence useless horn install airport rebel hand";
+var mnemonic = "grace enough elder donkey online tent typical glory lesson vote possible panic";

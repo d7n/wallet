@@ -1,1 +1,1 @@
-var mnemonic = "club fatigue leave say result error lunch swap silver seven mail hamster";
+var mnemonic = "chimney voyage top resist direct sense innocent loop polar group park copy";

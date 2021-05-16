@@ -1,1 +1,1 @@
-var mnemonic = "pool return page mystery cat pilot honey planet quantum nerve one cream";
+var mnemonic = "medal chicken drive cupboard online radio sister damage citizen social boost decide";

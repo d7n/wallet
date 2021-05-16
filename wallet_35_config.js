@@ -1,1 +1,1 @@
-var mnemonic = "bargain describe random reopen sustain rather town area airport lend force stem";
+var mnemonic = "lobster divorce horn marble awesome easy gather hover sunset cause tissue spoil";

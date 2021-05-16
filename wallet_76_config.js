@@ -1,1 +1,1 @@
-var mnemonic = "void require tide exhibit lunch bird liberty adjust decline angle ketchup limb";
+var mnemonic = "blood panel burden laundry mad search october switch shy twenty swing dinosaur";

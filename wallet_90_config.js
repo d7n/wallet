@@ -1,1 +1,1 @@
-var mnemonic = "crystal tide once bargain swing emerge quick diet melt rib pioneer raccoon";
+var mnemonic = "attitude lyrics nominee maze burst sheriff lazy grass habit horse hidden increase";

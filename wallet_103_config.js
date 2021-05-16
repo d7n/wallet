@@ -1,1 +1,1 @@
-var mnemonic = "purchase marriage junk party silk lion six injury limit eye confirm actress";
+var mnemonic = "old dress below pair spoon dinner month butter own balance bonus guess";

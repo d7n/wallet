@@ -1,1 +1,1 @@
-var mnemonic = "magnet tiny duck music track hundred under advance ride ritual render unfair";
+var mnemonic = "exhaust scout orchard latin drink again wait drink bitter october oppose fluid";

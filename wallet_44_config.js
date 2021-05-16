@@ -1,1 +1,1 @@
-var mnemonic = "harsh tape margin figure result average club tuna scan train endorse mom";
+var mnemonic = "glove chicken result bread waste test member shock fiction decorate have bachelor";

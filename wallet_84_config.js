@@ -1,1 +1,1 @@
-var mnemonic = "face arrive satoshi embrace tortoise suggest start garden organ copy swift canoe";
+var mnemonic = "champion ignore middle trust flight harvest muffin summer feature certain all rally";

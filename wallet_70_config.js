@@ -1,1 +1,1 @@
-var mnemonic = "very grant first rice dish chimney argue course drum breeze distance ring";
+var mnemonic = "divorce ketchup leaf number unlock refuse during reopen universe labor erosion spatial";

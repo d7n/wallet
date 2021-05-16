@@ -1,1 +1,1 @@
-var mnemonic = "spirit together fortune pluck word gentle oppose alter retire bicycle kick drum";
+var mnemonic = "rug decrease story curve detail humble reason rather giant normal wait bronze";

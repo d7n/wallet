@@ -1,1 +1,1 @@
-var mnemonic = "seminar caution husband wing silver force dignity expand divorce garden pig purse";
+var mnemonic = "select odor tool census young throw follow liberty supreme caution scale circle";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle resist field tooth unit moment remove liar slush brave swarm battle";
+var mnemonic = "agent mom ozone coffee cycle design weapon behind accident safe camera clarify";

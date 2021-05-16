@@ -1,1 +1,1 @@
-var mnemonic = "tragic thunder tonight exhibit guilt sleep cloud arrest pilot desk group shrug";
+var mnemonic = "wire make private decrease rebuild claw horror term avocado slab island genuine";

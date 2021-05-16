@@ -1,1 +1,1 @@
-var mnemonic = "canyon wonder alone suffer drum path cancel opinion lyrics jungle mirror disagree";
+var mnemonic = "target alcohol crazy exact step thing concert pyramid clever ensure exile sport";

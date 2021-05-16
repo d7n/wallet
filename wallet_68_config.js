@@ -1,1 +1,1 @@
-var mnemonic = "era fall license tennis ski laptop satisfy zoo divert unknown market pupil";
+var mnemonic = "owner era screen pole someone benefit use genre fault claw creek cry";

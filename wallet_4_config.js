@@ -1,1 +1,1 @@
-var mnemonic = "question actor similar render wear abandon taste body remove canal begin what";
+var mnemonic = "swear gauge stem chase industry cradle burden list unveil multiply reveal cart";

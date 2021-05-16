@@ -1,1 +1,1 @@
-var mnemonic = "peanut ill scare badge prize bonus urge record host mansion endorse garment";
+var mnemonic = "trade comic nerve club this message error below accuse forward antenna finish";

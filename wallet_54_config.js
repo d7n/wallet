@@ -1,1 +1,1 @@
-var mnemonic = "auto reason exotic pull crystal flee base auto twelve undo collect quote";
+var mnemonic = "latin wrestle canal outdoor clay demand siren hood ski island warfare option";

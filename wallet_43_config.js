@@ -1,1 +1,1 @@
-var mnemonic = "dignity title express reveal become blouse hat spread breeze pottery stock bicycle";
+var mnemonic = "upper cloud access lawn police fatigue draft bomb section spoil cup notable";

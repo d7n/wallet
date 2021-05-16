@@ -1,1 +1,1 @@
-var mnemonic = "sustain umbrella net baby correct alien unit negative liberty share myth dumb";
+var mnemonic = "depend humble young vast come swear fragile priority casual burger pyramid result";

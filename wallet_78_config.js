@@ -1,1 +1,1 @@
-var mnemonic = "check item sun turn trust crop explain great clump hidden trumpet smooth";
+var mnemonic = "hope found annual such insect neglect stable stuff torch maximum tuition arrow";

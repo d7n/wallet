@@ -1,1 +1,1 @@
-var mnemonic = "squirrel absent mean forward crucial wave bag height dutch hammer kitten tail";
+var mnemonic = "shrimp smile admit fury pigeon force wrong problem cattle setup left twenty";

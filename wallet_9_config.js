@@ -1,1 +1,1 @@
-var mnemonic = "dwarf protect popular shadow feature valid pass vendor purpose ecology match bundle";
+var mnemonic = "blast true disease congress evil ticket until quarter victory crash scene explain";

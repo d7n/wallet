@@ -1,1 +1,1 @@
-var mnemonic = "various someone tourist sell peace hair alpha online tilt swamp door long";
+var mnemonic = "knife road fashion puppy inch dinner crew clog neglect brush skin inhale";

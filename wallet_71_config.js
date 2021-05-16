@@ -1,1 +1,1 @@
-var mnemonic = "endless lend gas video asthma track glove duck dance fat fog reveal";
+var mnemonic = "rare note credit uncover amount oven glide kitchen blouse minor arena manual";

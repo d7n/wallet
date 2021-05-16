@@ -1,1 +1,1 @@
-var mnemonic = "element blouse upper fox city genre pencil pitch border kite flash stand";
+var mnemonic = "loop quick faith burst steel icon guard walk march shove float hour";

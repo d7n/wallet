@@ -1,1 +1,1 @@
-var mnemonic = "barrel sing fix turtle chimney glimpse very despair lab joy people erode";
+var mnemonic = "wreck copy deliver naive first bullet drill resemble hazard tuna antique anger";

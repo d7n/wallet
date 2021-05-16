@@ -1,1 +1,1 @@
-var mnemonic = "ghost mobile dizzy lyrics else rapid brain wife boss reflect sort retire";
+var mnemonic = "immune warrior seek police feel chef copper spring rocket garbage digital rookie";

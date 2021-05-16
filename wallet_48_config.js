@@ -1,1 +1,1 @@
-var mnemonic = "anchor evoke junk swallow wisdom credit normal install input junk moment scrap";
+var mnemonic = "over fever canyon sponsor wood draw napkin speak risk invite gas frown";

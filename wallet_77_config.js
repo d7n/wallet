@@ -1,1 +1,1 @@
-var mnemonic = "wash adjust gas solar yellow burst auction primary salon tooth journey arctic";
+var mnemonic = "shoot confirm chuckle any key zebra mosquito junior pact hockey sustain develop";

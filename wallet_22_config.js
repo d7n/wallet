@@ -1,1 +1,1 @@
-var mnemonic = "soccer wreck attend wisdom income lunch noise verify unhappy coach stable hire";
+var mnemonic = "poet harvest stable reduce any judge narrow swarm uncle balcony wealth finger";

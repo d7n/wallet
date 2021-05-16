@@ -1,1 +1,1 @@
-var mnemonic = "portion chair use volcano lady walnut state power captain flee improve one";
+var mnemonic = "section slim range stumble pioneer area mandate prefer inside demand basic together";

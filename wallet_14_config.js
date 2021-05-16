@@ -1,1 +1,1 @@
-var mnemonic = "spoon practice half actress game era silly donkey shield solution spot fatigue";
+var mnemonic = "mouse spider public river wet gravity smooth pipe chat achieve grunt traffic";

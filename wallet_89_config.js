@@ -1,1 +1,1 @@
-var mnemonic = "hollow try slice drink slot gaze sad over become forget muffin ability";
+var mnemonic = "oval silly sick alarm tattoo sad stable finger text write million certain";

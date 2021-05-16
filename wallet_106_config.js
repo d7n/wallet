@@ -1,1 +1,1 @@
-var mnemonic = "entry music ancient rotate speed put moment such hour digital sun million";
+var mnemonic = "december ceiling miss father cake weapon absorb fatigue sword border weapon useful";

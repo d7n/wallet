@@ -1,1 +1,1 @@
-var mnemonic = "radio fever arrow mind purse girl topic special comfort deposit defense grocery";
+var mnemonic = "release demise net pony quiz kitchen shift spike what pact boost spoil";

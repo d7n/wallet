@@ -1,1 +1,1 @@
-var mnemonic = "basic large you reveal until dignity screen cart concert talk kitten defy";
+var mnemonic = "asset job tiny debate uncover position deposit very small silent coast party";

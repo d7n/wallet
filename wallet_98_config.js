@@ -1,1 +1,1 @@
-var mnemonic = "suit country orient purpose mix click online engine unhappy jewel end rebuild";
+var mnemonic = "that notable apology image kite convince belt stand imitate siren nominee rail";

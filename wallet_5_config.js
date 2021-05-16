@@ -1,1 +1,1 @@
-var mnemonic = "lawn piano key camera creek search permit simple reject category wasp taxi";
+var mnemonic = "lava mammal season trouble this donkey must youth clarify organ impact festival";

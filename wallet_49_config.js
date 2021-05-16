@@ -1,1 +1,1 @@
-var mnemonic = "fee blush skate innocent polar depth fabric gather input deer erosion vanish";
+var mnemonic = "duty task next elbow planet thumb level wheat carpet cube live melody";

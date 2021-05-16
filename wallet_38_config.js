@@ -1,1 +1,1 @@
-var mnemonic = "work enemy marble depart tooth twice seven bundle clutch high notice rail";
+var mnemonic = "iron subject note sphere romance empower sea foot turkey warrior brush renew";

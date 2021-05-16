@@ -1,1 +1,1 @@
-var mnemonic = "rifle aisle always ocean primary very pelican actress uniform sudden grace mule";
+var mnemonic = "control measure turn journey key same select puppy just small caught sense";

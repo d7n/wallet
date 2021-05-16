@@ -1,1 +1,1 @@
-var mnemonic = "labor clump word mention silly space wedding unhappy stairs movie sense skill";
+var mnemonic = "broom crystal access basic brief stand caught chef live conduct movie autumn";

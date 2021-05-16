@@ -1,1 +1,1 @@
-var mnemonic = "clinic symptom require toss trigger motor injury master story music slice push";
+var mnemonic = "card palm prize estate skill urban accuse wife captain crew unfold fold";

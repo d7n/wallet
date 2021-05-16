@@ -1,1 +1,1 @@
-var mnemonic = "emotion tragic pencil curve bicycle rural piano soft basket allow chase about";
+var mnemonic = "repair proof play funny setup endless ahead mask false crucial spawn disease";

@@ -1,1 +1,1 @@
-var mnemonic = "legend candy tip coffee curious soft juice fork toast spread glass crumble";
+var mnemonic = "find dumb misery rail pepper video silk shoe shadow half jaguar total";

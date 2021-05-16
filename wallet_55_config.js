@@ -1,1 +1,1 @@
-var mnemonic = "appear maple march above spy expect pony inject jaguar churn time soda";
+var mnemonic = "already chunk twenty lamp news winner sun unlock fix finger lazy tragic";

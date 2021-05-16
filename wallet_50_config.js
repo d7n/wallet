@@ -1,1 +1,1 @@
-var mnemonic = "abstract utility tray save mask model relax scissors typical lottery cart ridge";
+var mnemonic = "wage off dose balcony tornado blame course render reward ridge fiscal foster";

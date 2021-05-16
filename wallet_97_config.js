@@ -1,1 +1,1 @@
-var mnemonic = "melody mammal shock harbor section sword nurse deposit blossom victory ability guard";
+var mnemonic = "blame protect zebra black avocado age raise rug lamp subway farm weasel";

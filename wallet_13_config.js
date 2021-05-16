@@ -1,1 +1,1 @@
-var mnemonic = "settle arrest rate web spice below urge hawk cluster oil immense modify";
+var mnemonic = "debris armor blush duck typical exhibit lab rude knife swing catalog nuclear";

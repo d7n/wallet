@@ -1,1 +1,1 @@
-var mnemonic = "destroy miracle inspire destroy govern else escape robust invite light mercy cry";
+var mnemonic = "stuff expect ocean harsh satisfy lock dismiss alley shove dinosaur unfold benefit";

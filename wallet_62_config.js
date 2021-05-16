@@ -1,1 +1,1 @@
-var mnemonic = "cruise balance suit since warm weapon enact wise tuna raw space deputy";
+var mnemonic = "aware you donate clean convince surround butter flush into alone test word";

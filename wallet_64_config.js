@@ -1,1 +1,1 @@
-var mnemonic = "today until naive crouch satoshi famous square turkey winter cross dinner argue";
+var mnemonic = "wink rapid army indoor endorse stumble escape wedding because body undo install";

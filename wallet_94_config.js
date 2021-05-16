@@ -1,1 +1,1 @@
-var mnemonic = "quit awesome laptop able swift depend arch among track burden seat call";
+var mnemonic = "spider sun satisfy portion narrow similar almost outdoor flight tone indicate proof";

@@ -1,1 +1,1 @@
-var mnemonic = "legal glory push climb dance pottery hen pluck banner gift marine wide";
+var mnemonic = "lab utility airport upset arrest cliff modify tuition script program oven goddess";

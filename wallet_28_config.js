@@ -1,1 +1,1 @@
-var mnemonic = "blame dust rebuild rare maid truly history expand paddle jungle draw latin";
+var mnemonic = "merit alien humor curtain issue balcony bachelor elegant cradle sand diary slot";

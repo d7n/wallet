@@ -1,1 +1,1 @@
-var mnemonic = "shuffle miss mother phrase salon galaxy pass quick flash fatal cross pudding";
+var mnemonic = "truly crater skin panel axis cupboard slush hub nurse excess hole jar";

@@ -1,1 +1,1 @@
-var mnemonic = "argue first still doctor predict gentle oxygen letter web dizzy skull hello";
+var mnemonic = "wet song cram smile session beach two cake machine nothing weapon valid";

@@ -1,1 +1,1 @@
-var mnemonic = "trash defy puzzle supreme potato hurt divorce surge rely lecture tooth funny";
+var mnemonic = "neck plastic manage upset cupboard just base donor gaze six adapt liquid";

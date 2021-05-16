@@ -1,1 +1,1 @@
-var mnemonic = "merry about device warrior wool advice danger embark report broken skate isolate";
+var mnemonic = "drift link muffin meat artwork frequent acquire agent rocket force change festival";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten morning october buffalo shock cancel produce coffee hamster cute warfare velvet";
+var mnemonic = "ready fashion crystal ozone auction power capital just edit civil measure often";

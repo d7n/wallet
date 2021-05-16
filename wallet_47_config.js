@@ -1,1 +1,1 @@
-var mnemonic = "stock list ancient apple video retire injury bar enter aunt ranch rotate";
+var mnemonic = "delay bar sample riot forget fabric shrug curve ice whisper physical exhaust";

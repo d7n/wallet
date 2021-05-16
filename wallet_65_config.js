@@ -1,1 +1,1 @@
-var mnemonic = "quantum guide crush wear beef federal outdoor fantasy much fog major various";
+var mnemonic = "student ensure upgrade resemble silk brisk lock hamster bargain ostrich deputy apart";

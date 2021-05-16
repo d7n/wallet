@@ -1,1 +1,1 @@
-var mnemonic = "cattle lock clog armed multiply object page spirit soul piano menu usual";
+var mnemonic = "high job inner chase coral dress toast flame among jaguar injury cave";

@@ -1,1 +1,1 @@
-var mnemonic = "federal soul kangaroo ensure unusual weather close embrace clinic present rabbit arrange";
+var mnemonic = "law gain animal shift silent truth exile fiscal scrap focus vivid seat";

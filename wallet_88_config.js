@@ -1,1 +1,1 @@
-var mnemonic = "today glass gauge brown admit strategy horse assault music stage casino siege";
+var mnemonic = "wear crack welcome educate talent way voyage knock napkin tomorrow vendor pull";

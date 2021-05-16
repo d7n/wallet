@@ -1,1 +1,1 @@
-var mnemonic = "electric sea never happy pelican flee omit balcony state sound fortune dutch";
+var mnemonic = "dash tuna whale lamp treat meat silver lizard avoid hair today town";

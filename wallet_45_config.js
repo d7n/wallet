@@ -1,1 +1,1 @@
-var mnemonic = "brand inquiry trouble smart pretty audit divorce attend public accuse path immune";
+var mnemonic = "abstract ginger cycle sting island unaware network truth mechanic exhibit tell shaft";

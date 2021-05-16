@@ -1,1 +1,1 @@
-var mnemonic = "fashion meat plate sudden piano oyster pave envelope kidney social roast canal";
+var mnemonic = "clap leader fragile document world remain ritual keep razor jealous edge waste";

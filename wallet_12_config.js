@@ -1,1 +1,1 @@
-var mnemonic = "acid differ chat position clap pulse invite alien tourist happy dose keep";
+var mnemonic = "wear member dance shy ethics impose online please world swallow pretty girl";

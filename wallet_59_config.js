@@ -1,1 +1,1 @@
-var mnemonic = "hope toy since kitchen illegal satoshi raw girl steak clarify core knife";
+var mnemonic = "equip nurse solve segment buyer nuclear dawn soon chase apology allow recall";

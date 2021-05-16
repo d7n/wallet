@@ -1,1 +1,1 @@
-var mnemonic = "blame wedding expect enemy shed field pilot bring behind another now camera";
+var mnemonic = "satoshi suffer warrior wing exclude shallow whisper hockey hood erase swing this";
