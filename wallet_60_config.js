@@ -1,1 +1,1 @@
-var mnemonic = "amazing odor exact monitor item prevent sister forest edit income exercise pave";
+var mnemonic = "oyster van vicious glare birth bread gown section tornado various bubble cupboard";

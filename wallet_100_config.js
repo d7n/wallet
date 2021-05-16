@@ -1,1 +1,1 @@
-var mnemonic = "parade cry pig uphold inmate december swear kiwi game latin someone bird";
+var mnemonic = "mad dry state invite embark rug eye just force spare escape letter";

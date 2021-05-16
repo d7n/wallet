@@ -1,1 +1,1 @@
-var mnemonic = "love child iron tourist insect poet enemy provide animal morning involve improve";
+var mnemonic = "best wrong tank adult hedgehog park hill devote cheap desk trick rain";

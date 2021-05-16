@@ -1,1 +1,1 @@
-var mnemonic = "name letter thought arrow dial adjust slam office soft more lamp unveil";
+var mnemonic = "just vote biology release exhaust comic pink undo puzzle fabric gauge forget";

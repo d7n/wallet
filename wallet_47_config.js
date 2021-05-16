@@ -1,1 +1,1 @@
-var mnemonic = "tilt bulk west humble bubble similar essence razor time amazing taste prefer";
+var mnemonic = "crater clerk squirrel sound hurry install surge awful blur success card argue";

@@ -1,1 +1,1 @@
-var mnemonic = "street lift stereo curious chapter ignore supply output six hurry coach monkey";
+var mnemonic = "help vicious major shoot evolve uncle warrior brand embody birth reject mobile";

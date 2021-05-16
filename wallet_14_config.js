@@ -1,1 +1,1 @@
-var mnemonic = "into word scene detail rebuild kid lava essay tattoo virtual cushion electric";
+var mnemonic = "lecture wasp budget adapt vacant art over heavy home object piano explain";

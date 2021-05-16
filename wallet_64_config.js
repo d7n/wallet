@@ -1,1 +1,1 @@
-var mnemonic = "secret wasp merit glimpse pilot theme beyond mule uncover leg loop knock";
+var mnemonic = "surge delay cupboard chunk cloth sport injury pluck acid apple embark cushion";

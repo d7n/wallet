@@ -1,1 +1,1 @@
-var mnemonic = "dash media doctor grid horror flash first champion win obvious fortune hold";
+var mnemonic = "meadow auction ostrich enrich sunny only glory other alcohol feed tissue focus";

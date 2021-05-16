@@ -1,1 +1,1 @@
-var mnemonic = "palace intact news plug bag manual craft silver test caution loop select";
+var mnemonic = "capital session faculty mouse deposit lunch vanish squirrel predict name verb cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "maid mail view february weekend puppy flower corn crane penalty casual distance";
+var mnemonic = "twelve noble bind claim lawn ceiling dwarf mixed okay plastic lift idea";

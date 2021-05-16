@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wrist hand make bunker crime rotate letter inch spin dinosaur recipe";
+var mnemonic = "ozone moon moral bright genuine transfer beauty tissue almost bundle foam vendor";

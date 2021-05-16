@@ -1,1 +1,1 @@
-var mnemonic = "stamp tube bitter noise caught vintage lecture decide tribe culture coil absorb";
+var mnemonic = "chief stuff deny village knock swarm shield push during key morning debate";

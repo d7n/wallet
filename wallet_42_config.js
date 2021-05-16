@@ -1,1 +1,1 @@
-var mnemonic = "orphan hub oppose dolphin point animal purity hospital grab festival hazard radio";
+var mnemonic = "paper focus away clinic welcome employ wink kangaroo leopard warfare flag when";

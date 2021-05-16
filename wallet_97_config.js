@@ -1,1 +1,1 @@
-var mnemonic = "edge market balance pole pink display rough below ramp private basket candy";
+var mnemonic = "route victory diamond satisfy great flight ceiling struggle drill wonder rack series";

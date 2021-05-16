@@ -1,1 +1,1 @@
-var mnemonic = "balcony cook amused soon develop leave oyster great toy oblige series spot";
+var mnemonic = "require flat tongue quote debris either soda armed forward eight fury dog";

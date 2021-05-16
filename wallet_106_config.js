@@ -1,1 +1,1 @@
-var mnemonic = "estate sail hard smooth much daring wealth mammal seven change media soda";
+var mnemonic = "leisure spell angry ecology describe lecture next document fiscal leg attack nest";

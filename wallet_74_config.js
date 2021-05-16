@@ -1,1 +1,1 @@
-var mnemonic = "silk lizard hard couple inner answer sustain follow oil wreck trouble slush";
+var mnemonic = "north renew monitor drive rack blossom topple whip history wrong load noise";

@@ -1,1 +1,1 @@
-var mnemonic = "amount vacant lamp merry pupil creek worry park column assume gloom sustain";
+var mnemonic = "local vessel achieve this baby embody comic food frequent summer bundle gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "act feature cotton write citizen gold spend bubble amazing tissue token finger";
+var mnemonic = "install drip chunk tone lazy liberty cheap loan height hint gauge oak";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor decrease tourist like pave rifle vessel silent absorb tip turtle method";
+var mnemonic = "april deny rigid stay demise physical skirt liquid heart replace major oak";

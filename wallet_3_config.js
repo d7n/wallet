@@ -1,1 +1,1 @@
-var mnemonic = "find pond spike upset forest reform loyal render travel pull swarm elevator";
+var mnemonic = "shock mango blame rabbit derive evoke step pulse trash slot hobby hawk";

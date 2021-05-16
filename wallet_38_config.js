@@ -1,1 +1,1 @@
-var mnemonic = "pepper also switch spy peanut vast popular inspire dentist century side liar";
+var mnemonic = "broom whale gadget ability pipe upon short ridge agree debris diary frame";

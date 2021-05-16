@@ -1,1 +1,1 @@
-var mnemonic = "venue fly choose coyote phone proof toss human define confirm exile diamond";
+var mnemonic = "alpha vast manual exhibit excite borrow pet stove episode fragile reopen canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "memory dog among off journey eagle guitar apology plunge crime detect border";
+var mnemonic = "trip holiday merge swallow enemy dawn nurse mammal earth young turn awful";

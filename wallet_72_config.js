@@ -1,1 +1,1 @@
-var mnemonic = "unlock mix team small buzz fringe differ lizard screen daring grass cool";
+var mnemonic = "cotton dash donate grain draw start poem remember oven mercy cloud forum";

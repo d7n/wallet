@@ -1,1 +1,1 @@
-var mnemonic = "canoe valley equal crisp battle chef digital believe fashion digital busy pupil";
+var mnemonic = "swallow cricket proud flag universe assault memory movie sauce grief inform credit";

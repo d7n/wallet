@@ -1,1 +1,1 @@
-var mnemonic = "secret exotic degree twin fuel quarter liberty medal crouch ticket hobby staff";
+var mnemonic = "either noodle panda trip group time gallery elephant benefit original together sausage";

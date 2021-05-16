@@ -1,1 +1,1 @@
-var mnemonic = "game agent blade make caution term defense find buzz toast hundred claw";
+var mnemonic = "doctor turtle hockey smile tooth conduct session toast permit milk shed target";

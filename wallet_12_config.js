@@ -1,1 +1,1 @@
-var mnemonic = "pencil begin merge gain cruise happy case wear worry arm attack squeeze";
+var mnemonic = "hat before scissors boost hand bike return dinosaur favorite feel puppy caution";

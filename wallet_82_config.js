@@ -1,1 +1,1 @@
-var mnemonic = "uncover ignore news useless virus local doctor myself invite people congress name";
+var mnemonic = "network wisdom arrest gun gap yellow inform arctic explain behind balance ostrich";

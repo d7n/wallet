@@ -1,1 +1,1 @@
-var mnemonic = "session echo exhaust medal sausage maple atom vast core federal panther utility";
+var mnemonic = "toe two coyote purse wife remain tip recycle pupil believe shiver paper";

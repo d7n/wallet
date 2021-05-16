@@ -1,1 +1,1 @@
-var mnemonic = "frown liar gravity century forum prevent area file oxygen alcohol swim flame";
+var mnemonic = "improve demise session funny local never rent defy lady trim empty repeat";

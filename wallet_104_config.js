@@ -1,1 +1,1 @@
-var mnemonic = "round guard skirt barrel devote stereo feed erase puzzle sea minor tank";
+var mnemonic = "allow climb sweet casino oak usual slim fee shield mercy evil mutual";

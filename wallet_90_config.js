@@ -1,1 +1,1 @@
-var mnemonic = "blade wide junior beef quick universe piece betray tribe voice enforce chicken";
+var mnemonic = "craft pact blanket unfold pupil erosion duty field false embody clip need";

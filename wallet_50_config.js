@@ -1,1 +1,1 @@
-var mnemonic = "ramp bone people among stairs skirt prepare hub reason dial fly coin";
+var mnemonic = "ivory target angle gasp shoot mask garment isolate stick pink employ tourist";

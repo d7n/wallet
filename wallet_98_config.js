@@ -1,1 +1,1 @@
-var mnemonic = "quiz nose cute pluck fragile sustain mansion add arctic explain address clown";
+var mnemonic = "scene height spring initial scatter want mosquito card now grocery object quality";

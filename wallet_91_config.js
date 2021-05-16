@@ -1,1 +1,1 @@
-var mnemonic = "salon evidence debate donor dismiss large actor advance fitness earn resource ridge";
+var mnemonic = "bulb chronic earth rally piece plug impulse observe rough link lamp december";

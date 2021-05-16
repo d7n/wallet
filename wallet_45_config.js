@@ -1,1 +1,1 @@
-var mnemonic = "power aerobic wheel trap sadness desert cash auto brisk space danger enlist";
+var mnemonic = "jacket hip race toddler couch abandon dog protect ticket royal name stick";

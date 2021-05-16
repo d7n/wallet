@@ -1,1 +1,1 @@
-var mnemonic = "diary error slush surprise trouble weather blue arm drama child across resource";
+var mnemonic = "budget term arctic boil slush toast bridge pill snap pig correct traffic";

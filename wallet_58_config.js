@@ -1,1 +1,1 @@
-var mnemonic = "tribe garlic expand treat fruit endless end milk ivory canal galaxy oppose";
+var mnemonic = "shadow rely prevent coyote truck critic inhale equip machine wolf cram world";

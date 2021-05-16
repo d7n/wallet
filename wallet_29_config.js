@@ -1,1 +1,1 @@
-var mnemonic = "palace maximum woman crystal spoil million arrange coral brown security forward busy";
+var mnemonic = "ball street feature subway lyrics chalk census cloud fuel clerk twice jewel";

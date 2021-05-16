@@ -1,1 +1,1 @@
-var mnemonic = "enemy upon term flip escape valid steak word wedding motor text pulse";
+var mnemonic = "pony echo kiwi fire grocery usual drink vacuum dinosaur marble this act";

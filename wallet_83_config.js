@@ -1,1 +1,1 @@
-var mnemonic = "sell gauge dice mosquito arrange ostrich route style pilot plate fantasy thunder";
+var mnemonic = "boss noble evoke ritual custom edge snap slogan drill chuckle eternal slow";

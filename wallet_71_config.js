@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fat casino category gap month logic whale possible actual earth kidney";
+var mnemonic = "evidence ugly include hungry toe submit grab execute dragon scan force apology";

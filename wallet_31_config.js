@@ -1,1 +1,1 @@
-var mnemonic = "artefact volume huge winner call daughter valid nature neck trash prepare process";
+var mnemonic = "few lottery timber screen normal enroll wisdom bulb marine flush swift deer";

@@ -1,1 +1,1 @@
-var mnemonic = "three artist fee play stool left deliver this collect theme install appear";
+var mnemonic = "august prison expect onion mountain cancel loud april tip decorate segment local";

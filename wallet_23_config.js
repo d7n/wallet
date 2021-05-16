@@ -1,1 +1,1 @@
-var mnemonic = "skin coyote hollow remove follow mean pyramid gaze shed vivid recall mad";
+var mnemonic = "language wrong modify shoot buyer rice thought excite shadow like rib segment";

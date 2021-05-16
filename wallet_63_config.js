@@ -1,1 +1,1 @@
-var mnemonic = "narrow letter actual develop wide subway jeans hedgehog garden pony laundry process";
+var mnemonic = "puzzle act butter purse laptop panther antique match burger pigeon waste barrel";

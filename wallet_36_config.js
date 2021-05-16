@@ -1,1 +1,1 @@
-var mnemonic = "shoe push gain egg hand item reduce cluster chunk lava ecology elevator";
+var mnemonic = "space forward deny reason best twice degree coin table wasp horn attract";

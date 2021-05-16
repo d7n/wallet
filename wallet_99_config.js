@@ -1,1 +1,1 @@
-var mnemonic = "awkward vessel cricket february target illness area regular usage hollow about knife";
+var mnemonic = "loop yellow shrug across sunny patient harbor copy attack volcano frame broken";

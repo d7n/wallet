@@ -1,1 +1,1 @@
-var mnemonic = "series bulb gold nut oak empty select net punch heart match fan";
+var mnemonic = "theory someone spy recipe feel fun weasel brisk room piece hundred olympic";

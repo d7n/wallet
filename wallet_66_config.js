@@ -1,1 +1,1 @@
-var mnemonic = "bind athlete across deputy trap current lumber ill fiber wait alpha blur";
+var mnemonic = "nasty place repair layer repeat end dragon sheriff cost typical flag evolve";

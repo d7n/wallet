@@ -1,1 +1,1 @@
-var mnemonic = "banner sketch town broom asthma blast crew country edge kind salad amused";
+var mnemonic = "organ food banner sheriff purse name shrug outdoor zone pony joy movie";

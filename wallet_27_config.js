@@ -1,1 +1,1 @@
-var mnemonic = "spell arm stamp few cricket answer film off setup gain affair soccer";
+var mnemonic = "property lumber picnic skin cool around crisp differ total garden model receive";

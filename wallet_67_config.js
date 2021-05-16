@@ -1,1 +1,1 @@
-var mnemonic = "warrior need paddle wheel grace fiction room bone foil cement drill receive";
+var mnemonic = "twin exist file width giggle draft hybrid annual sell cigar token shoulder";

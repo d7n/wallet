@@ -1,1 +1,1 @@
-var mnemonic = "coral orient frog average trust parade shoot identify subway motor such student";
+var mnemonic = "zoo tool vintage deposit onion consider team antenna damage unlock iron matter";

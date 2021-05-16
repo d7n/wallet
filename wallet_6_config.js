@@ -1,1 +1,1 @@
-var mnemonic = "improve car fix drum knock cook wheat spoil slogan perfect crop possible";
+var mnemonic = "advice attend camera pool level switch protect vast lava trumpet grocery decline";

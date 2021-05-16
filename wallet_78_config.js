@@ -1,1 +1,1 @@
-var mnemonic = "senior opera hungry popular milk letter plunge put unveil begin cupboard stairs";
+var mnemonic = "couch garment modify turkey author wagon october glide slogan during pull dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "speed awkward offer wedding sad quantum tiny patrol elephant release toilet joy";
+var mnemonic = "mountain improve excess increase rural beef carpet bag unfold purse raise buddy";

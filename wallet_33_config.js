@@ -1,1 +1,1 @@
-var mnemonic = "grab fade invite visa online museum draft approve govern away decide pledge";
+var mnemonic = "ranch escape game luxury collect guilt age easily focus cotton circle cruise";

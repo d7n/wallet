@@ -1,1 +1,1 @@
-var mnemonic = "item budget cattle junior kiwi pet glow pluck risk loan test grain";
+var mnemonic = "ice catalog margin little month table pluck evil grass leader duty sense";

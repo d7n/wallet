@@ -1,1 +1,1 @@
-var mnemonic = "harsh acid candy sugar unlock supreme tape tackle grant supply entry cabin";
+var mnemonic = "velvet follow whale parade grit gloom breeze effort police swear special gauge";

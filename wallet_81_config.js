@@ -1,1 +1,1 @@
-var mnemonic = "culture combine remove maximum glare enlist question match forum urge enact hold";
+var mnemonic = "require medal cycle evidence labor hockey already lizard rifle sell omit prison";

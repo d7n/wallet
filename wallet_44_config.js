@@ -1,1 +1,1 @@
-var mnemonic = "kiwi stable click tail shield label coin congress sister abandon march furnace";
+var mnemonic = "bench neck sheriff couple differ account surface hair yard amateur acid logic";

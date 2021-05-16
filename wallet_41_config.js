@@ -1,1 +1,1 @@
-var mnemonic = "elevator reflect lend hand laptop fruit ripple crucial elephant love vast cancel";
+var mnemonic = "what rare only edge source hockey physical zebra label index sport soldier";

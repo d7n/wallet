@@ -1,1 +1,1 @@
-var mnemonic = "shove lyrics spot air title clarify tornado boss kick air possible sport";
+var mnemonic = "lucky airport remind demand square swing safe damp radio sail easily toast";

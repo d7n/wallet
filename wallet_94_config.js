@@ -1,1 +1,1 @@
-var mnemonic = "just demise claw gossip cupboard equip now antique mandate toe cable hard";
+var mnemonic = "change move confirm hair steel athlete office mimic liberty problem supply fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel multiply fall urge winner space polar visa wonder discover below antique";
+var mnemonic = "hockey achieve record tree sort acid found same embody dash doctor wide";

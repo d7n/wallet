@@ -1,1 +1,1 @@
-var mnemonic = "program staff approve vendor hole member clap woman hour motion enable collect";
+var mnemonic = "wish walnut recipe iron jeans style material sphere tell sight rapid sponsor";

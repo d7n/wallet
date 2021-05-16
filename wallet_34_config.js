@@ -1,1 +1,1 @@
-var mnemonic = "question dynamic dog cliff moment much blanket bronze glad present meat brother";
+var mnemonic = "squirrel inject rhythm infant clip consider spike coast witness select degree bleak";

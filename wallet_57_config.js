@@ -1,1 +1,1 @@
-var mnemonic = "target castle silver congress save fault crush sudden wreck oval fitness drum";
+var mnemonic = "model poverty tennis solid clerk armor fuel vocal alpha ladder bike kit";

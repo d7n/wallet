@@ -1,1 +1,1 @@
-var mnemonic = "release sleep tunnel syrup atom fly puzzle moral section choice liberty indicate";
+var mnemonic = "danger resist library minimum tunnel oblige energy extra shove monitor forward bronze";

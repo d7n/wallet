@@ -1,1 +1,1 @@
-var mnemonic = "iron nerve engage custom mansion random cash seed dirt wonder shoot sibling";
+var mnemonic = "opinion mercy cloth depart banana trend staff involve invite artist column noble";

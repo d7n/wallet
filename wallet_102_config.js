@@ -1,1 +1,1 @@
-var mnemonic = "hundred panther weather kick another cement skill lake enrich praise ceiling fish";
+var mnemonic = "pet medal sample mechanic sport together volume royal message case dose cattle";

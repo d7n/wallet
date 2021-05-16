@@ -1,1 +1,1 @@
-var mnemonic = "surge height body under limb fury stove champion life merge snake leisure";
+var mnemonic = "birth apple host dirt special gift space veteran insect crisp tent robot";

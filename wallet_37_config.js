@@ -1,1 +1,1 @@
-var mnemonic = "carry this utility matrix athlete inherit intact identify visual lock smoke away";
+var mnemonic = "air trash whale noble jelly decrease sketch educate lobster version cabin punch";

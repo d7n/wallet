@@ -1,1 +1,1 @@
-var mnemonic = "auto occur armor stock bring logic push grace solid express tortoise grant";
+var mnemonic = "mention census bundle mail lady inch label reform drill donor excess ecology";

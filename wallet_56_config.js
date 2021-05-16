@@ -1,1 +1,1 @@
-var mnemonic = "panic napkin camp useless tragic food oxygen clinic top fatigue north magic";
+var mnemonic = "ring kite dynamic category cup alpha butter hint robot sister dynamic clinic";

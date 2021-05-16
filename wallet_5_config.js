@@ -1,1 +1,1 @@
-var mnemonic = "undo spawn have card capable keep divert have suit rice zone between";
+var mnemonic = "ordinary shuffle practice suspect give praise undo increase noble tired pelican lunch";

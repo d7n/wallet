@@ -1,1 +1,1 @@
-var mnemonic = "twin nation indicate diet power trade divert pulp favorite warrior weather tail";
+var mnemonic = "chair ticket bottom better they mountain give match flame mail shove vessel";

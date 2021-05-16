@@ -1,1 +1,1 @@
-var mnemonic = "jacket trophy tip ugly clever oven tourist era affair final pet crumble";
+var mnemonic = "genius weapon weasel album raccoon case inquiry soon wealth morning type enlist";

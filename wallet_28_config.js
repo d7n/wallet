@@ -1,1 +1,1 @@
-var mnemonic = "army merge gun capable price enact gentle quiz unique ocean boost link";
+var mnemonic = "wood air speak bonus improve escape suffer neither rail swift pumpkin rude";

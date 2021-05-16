@@ -1,1 +1,1 @@
-var mnemonic = "say vanish lava flavor mistake ask exhibit tent derive deliver hip point";
+var mnemonic = "almost glad tomato bag sign flag depend shaft smile bird science govern";

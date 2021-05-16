@@ -1,1 +1,1 @@
-var mnemonic = "exercise open scare abuse melody equip myth devote six reward first measure";
+var mnemonic = "alter equal come improve glow place method deal captain ready galaxy quick";

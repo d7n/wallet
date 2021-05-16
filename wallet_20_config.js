@@ -1,1 +1,1 @@
-var mnemonic = "system depart apple hollow muffin cloud legend home dumb skill exact anchor";
+var mnemonic = "fashion average firm glory arena pipe glow fan worth satoshi turtle prosper";

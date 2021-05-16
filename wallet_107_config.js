@@ -1,1 +1,1 @@
-var mnemonic = "light divorce open fantasy duty believe toe liquid riot buddy warm letter";
+var mnemonic = "pilot speed fury until mention exit library junior ignore cake sunset deposit";

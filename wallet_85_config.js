@@ -1,1 +1,1 @@
-var mnemonic = "cactus arrest chaos region can insect health obtain wave deposit unveil salute";
+var mnemonic = "rhythm path flee popular language oblige chronic seed combine recall wrap curtain";

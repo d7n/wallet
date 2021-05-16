@@ -1,1 +1,1 @@
-var mnemonic = "radar exit drastic dumb beach earn total zone taste absorb end tooth";
+var mnemonic = "coin brave mean breeze kangaroo ski beyond render become lion song illness";
