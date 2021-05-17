@@ -1,1 +1,1 @@
-var mnemonic = "edit juice sign learn require axis green minor alcohol ivory clarify flock";
+var mnemonic = "universe session poverty gather better gaze vendor over electric flee pitch patient";

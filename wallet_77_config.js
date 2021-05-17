@@ -1,1 +1,1 @@
-var mnemonic = "castle weird vast barrel mushroom tank term debate point bone together render";
+var mnemonic = "carpet april bid city bind flavor achieve poem bulk idle opinion crack";

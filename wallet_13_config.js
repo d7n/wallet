@@ -1,1 +1,1 @@
-var mnemonic = "settle weird excess wall wrestle boy item crunch that wrestle plug artwork";
+var mnemonic = "infant fragile climb worry grass eternal oven syrup deposit until identify wonder";

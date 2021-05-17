@@ -1,1 +1,1 @@
-var mnemonic = "health half prefer pond fix duty risk thing rapid ladder update lunar";
+var mnemonic = "between champion concert omit trust security drop trigger multiply resist east picnic";

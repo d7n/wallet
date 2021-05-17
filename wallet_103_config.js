@@ -1,1 +1,1 @@
-var mnemonic = "sunny game weekend just test fossil media define melody income science marine";
+var mnemonic = "tent electric figure text rose emerge always system plunge wife scorpion people";

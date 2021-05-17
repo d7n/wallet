@@ -1,1 +1,1 @@
-var mnemonic = "jungle retreat input chest tragic view hazard segment soda capable fox advance";
+var mnemonic = "purchase noble sign parrot memory august laundry dirt winner country entry code";

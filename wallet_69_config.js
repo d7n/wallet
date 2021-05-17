@@ -1,1 +1,1 @@
-var mnemonic = "pole mystery current bronze repeat fuel garage current awkward mom maze globe";
+var mnemonic = "salad man damp museum file aunt journey radio slow husband focus chest";

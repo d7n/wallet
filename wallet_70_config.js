@@ -1,1 +1,1 @@
-var mnemonic = "solve they front media page universe riot very liberty despair feature rescue";
+var mnemonic = "dizzy merge evolve price liberty same direct hurdle play bus believe what";

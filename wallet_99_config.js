@@ -1,1 +1,1 @@
-var mnemonic = "trend abuse ivory rug proud ribbon sense permit birth decade excuse alien";
+var mnemonic = "isolate fit relax youth roast this pattern envelope lizard safe divorce genre";

@@ -1,1 +1,1 @@
-var mnemonic = "absent license brass talent clean receive annual artist venture mixed humor ridge";
+var mnemonic = "noble off find boat fiction defy sibling story candy thunder walnut venture";

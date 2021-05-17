@@ -1,1 +1,1 @@
-var mnemonic = "believe expand bulk capable second guilt oyster high copper swim artwork bring";
+var mnemonic = "expose thunder body eight link park lizard ten noise peace garden certain";

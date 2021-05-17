@@ -1,1 +1,1 @@
-var mnemonic = "record square gallery strong laundry lazy athlete lecture that plate unfold charge";
+var mnemonic = "cute right tongue evoke inhale coffee puzzle seminar found beauty march depart";

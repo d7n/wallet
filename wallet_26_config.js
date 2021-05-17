@@ -1,1 +1,1 @@
-var mnemonic = "neck depth place ethics message explain later crime mad smile stamp unfair";
+var mnemonic = "lake rude reveal balance symbol other acid put parrot gas apple ancient";

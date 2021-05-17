@@ -1,1 +1,1 @@
-var mnemonic = "tree document jungle wheel print because surprise large depend dynamic muffin black";
+var mnemonic = "chronic measure number cheap carpet fabric switch like slow output paddle public";

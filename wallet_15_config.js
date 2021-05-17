@@ -1,1 +1,1 @@
-var mnemonic = "industry wrestle sing drama debris absent minimum analyst expose business joke bomb";
+var mnemonic = "scheme visual they fork couple humble garment unlock general swallow acquire piano";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub install energy front brief plug muscle race thought slim mouse raise";
+var mnemonic = "proud one evidence float vessel agree erosion height sting scene style surround";

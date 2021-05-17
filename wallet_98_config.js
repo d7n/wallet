@@ -1,1 +1,1 @@
-var mnemonic = "stomach detail impact walk copy shock poverty image day soda soup engage";
+var mnemonic = "song impulse same sport various lazy inside romance reform slogan cannon sea";

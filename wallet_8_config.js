@@ -1,1 +1,1 @@
-var mnemonic = "comic later upgrade coin skull describe photo arrest quality screen three tree";
+var mnemonic = "quantum trial corn jaguar crane kick broken warm mention tube bubble dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "base surge resemble volume reform mix lottery attract shrug tower armed when";
+var mnemonic = "tower mask bridge include kid aisle sketch pen safe honey sniff outside";

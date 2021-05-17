@@ -1,1 +1,1 @@
-var mnemonic = "gauge joke ladder gesture moon approve cart maid similar ghost sudden pull";
+var mnemonic = "exchange depth rare cancel potato clock swear supreme verb weasel strike simple";

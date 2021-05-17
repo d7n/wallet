@@ -1,1 +1,1 @@
-var mnemonic = "gold distance ketchup sudden orchard kitchen toss skill believe science baby couple";
+var mnemonic = "harvest cement myth provide same spoil season aunt peace december swear letter";

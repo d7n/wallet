@@ -1,1 +1,1 @@
-var mnemonic = "also hunt salad dial wish endless ladder prize victory tongue try frozen";
+var mnemonic = "coyote onion eager castle letter vacant rack surge pilot home squirrel carpet";

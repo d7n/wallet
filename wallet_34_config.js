@@ -1,1 +1,1 @@
-var mnemonic = "toy artist broccoli tomato two black upset shiver three gorilla detect olive";
+var mnemonic = "clump canal minimum toss proof cinnamon equip brave must hat afford drink";

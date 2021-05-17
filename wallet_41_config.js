@@ -1,1 +1,1 @@
-var mnemonic = "idea lunch rice avoid wash release find angry evolve drip legend come";
+var mnemonic = "fix skirt village hill blur jungle torch learn crash anger window under";

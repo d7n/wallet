@@ -1,1 +1,1 @@
-var mnemonic = "robust novel endless angry hawk sport box know faint margin stick transfer";
+var mnemonic = "goat inherit bitter hobby panel drastic portion echo jewel logic zone accuse";

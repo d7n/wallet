@@ -1,1 +1,1 @@
-var mnemonic = "pupil unique visit select one age boost whip undo catalog corn goat";
+var mnemonic = "evil kick smooth local clinic tomorrow shoe fringe bone have tail rival";

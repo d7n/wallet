@@ -1,1 +1,1 @@
-var mnemonic = "swamp alien school argue fox dirt supreme stage thrive palm end level";
+var mnemonic = "true buyer venture sadness noble march pulp enroll fiction engage illness move";

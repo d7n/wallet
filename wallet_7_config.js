@@ -1,1 +1,1 @@
-var mnemonic = "throw cave squirrel vote anger kitten mesh caution knee sorry again member";
+var mnemonic = "item fault wreck gown luxury steel upgrade frequent beauty unique remove element";

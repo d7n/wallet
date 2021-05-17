@@ -1,1 +1,1 @@
-var mnemonic = "degree tree spare sausage age opera learn delay mosquito high simple icon";
+var mnemonic = "juice sound ready divorce hidden scan mammal strike industry february wheat there";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt flip exclude genre trap salad long energy hand load rocket horror";
+var mnemonic = "home bone skin oppose advice possible six purse exotic machine fever dilemma";

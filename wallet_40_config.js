@@ -1,1 +1,1 @@
-var mnemonic = "plastic camp crowd type soon skirt airport simple online project wise pretty";
+var mnemonic = "table cluster frequent pluck belt enact mutual color require visit clever enforce";

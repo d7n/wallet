@@ -1,1 +1,1 @@
-var mnemonic = "guitar lava sense drink trouble tower spider faint always spider orchard club";
+var mnemonic = "jar leader quote manual twice wealth frost number mirror state filter obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "audit morning belt topple muffin teach scout burger token biology input weekend";
+var mnemonic = "accuse fun interest pair saddle give strategy addict hard elevator scorpion voyage";

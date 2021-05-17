@@ -1,1 +1,1 @@
-var mnemonic = "wink fault unfold siren know doll profit cruel desk wealth year fame";
+var mnemonic = "wreck patrol hat assault voyage wisdom cage inmate decide piano circle cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow mask wood reflect symptom iron sadness gown device master moral subject";
+var mnemonic = "spoil tongue sock rifle feed essay collect pupil gift symptom opinion noble";

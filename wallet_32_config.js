@@ -1,1 +1,1 @@
-var mnemonic = "hover media dwarf december motion method powder grass monster hurdle accuse pill";
+var mnemonic = "royal box hurt radar market army dumb spoil accident moment cherry strike";

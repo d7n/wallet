@@ -1,1 +1,1 @@
-var mnemonic = "park cause want hammer swamp melody project citizen belt member quarter wrist";
+var mnemonic = "manual legal board blade street cable fall window banana milk charge check";

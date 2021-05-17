@@ -1,1 +1,1 @@
-var mnemonic = "rabbit black poet enough river fan install into tape exhaust spike secret";
+var mnemonic = "garden mad more genuine sister afford exile ritual another tag umbrella twelve";

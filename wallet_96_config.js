@@ -1,1 +1,1 @@
-var mnemonic = "produce acquire grace alert uncover volume round dismiss either recipe hawk trumpet";
+var mnemonic = "lady pride horse warm alley notice direct actor grain polar audit much";

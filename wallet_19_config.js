@@ -1,1 +1,1 @@
-var mnemonic = "ancient episode elevator object steak primary duck winner reduce access suggest host";
+var mnemonic = "behind home jewel assume damp turtle trap possible era riot cement suffer";

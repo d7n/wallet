@@ -1,1 +1,1 @@
-var mnemonic = "retire little shoulder field fresh remind dignity exist code cheese salt notice";
+var mnemonic = "parade smart minute vendor cargo strategy feature scare original program author ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "park endless bullet math deposit law weekend first melt angle shop timber";
+var mnemonic = "illness harsh miss will decide write matrix flower assume lava amount sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "upper track noble gorilla alone dance spring list atom approve choice toward";
+var mnemonic = "captain betray gown crack attend announce topic catalog cinnamon picture ocean phrase";

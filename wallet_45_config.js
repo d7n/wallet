@@ -1,1 +1,1 @@
-var mnemonic = "benefit artist garbage bronze innocent cousin prison enrich coil junior culture artwork";
+var mnemonic = "buddy path ecology then wife enlist left steak this arch crane isolate";

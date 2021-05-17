@@ -1,1 +1,1 @@
-var mnemonic = "wrap mosquito dutch crush board rabbit obvious gaze blood equip dish exact";
+var mnemonic = "make rather credit bring execute before wash veteran maple bread web belt";

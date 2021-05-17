@@ -1,1 +1,1 @@
-var mnemonic = "cruel logic weird program cake turkey toilet dizzy chair project fancy deputy";
+var mnemonic = "myth bless wrist symptom imitate matrix barrel tool direct arm sheriff okay";

@@ -1,1 +1,1 @@
-var mnemonic = "radio thing cool unable loyal reject borrow learn diary predict other jump";
+var mnemonic = "enlist prison awful elevator cloth blush gather scatter slim alone nothing effort";

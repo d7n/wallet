@@ -1,1 +1,1 @@
-var mnemonic = "wet under lunch level extra endorse surface neglect venue punch enemy disagree";
+var mnemonic = "fan enlist claim fluid mixture width sign embody sniff regular diet inner";

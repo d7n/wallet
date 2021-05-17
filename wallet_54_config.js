@@ -1,1 +1,1 @@
-var mnemonic = "faith spend letter injury tag neutral orange panic dove armed crouch identify";
+var mnemonic = "appear inch pave try squirrel decorate paddle boring clog phone tribe leisure";

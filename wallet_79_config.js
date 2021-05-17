@@ -1,1 +1,1 @@
-var mnemonic = "patient wing avocado cook spend mercy remember they settle neck false concert";
+var mnemonic = "phrase monkey canal solve tiny promote ask story sniff drip spoon brisk";

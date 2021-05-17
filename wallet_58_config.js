@@ -1,1 +1,1 @@
-var mnemonic = "noodle bounce unique second bronze armor chef whale lion tank travel can";
+var mnemonic = "talent item twice hollow immune extend size custom square response differ shed";

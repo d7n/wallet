@@ -1,1 +1,1 @@
-var mnemonic = "maximum animal gadget agree company adjust draw essay raccoon pottery charge rice";
+var mnemonic = "light clinic bless thumb talk cake baby tent resemble wisdom bird relax";

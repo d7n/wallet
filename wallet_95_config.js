@@ -1,1 +1,1 @@
-var mnemonic = "mind work cement shift orphan sugar friend angry pause frame comic visual";
+var mnemonic = "hockey rural find smile capital child attack poem slice poet trick main";

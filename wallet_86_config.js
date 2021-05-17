@@ -1,1 +1,1 @@
-var mnemonic = "plastic report session detail become direct wealth animal scatter sport dignity type";
+var mnemonic = "beauty tube fortune dentist rigid thunder toy holiday knock flip example club";

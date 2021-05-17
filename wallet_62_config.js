@@ -1,1 +1,1 @@
-var mnemonic = "possible multiply ball embrace unique great fatigue snake anchor east upon decade";
+var mnemonic = "flavor either cloth east exile scissors party meat danger decide icon avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "hill file harbor grant bubble before latin test solution wait wash daughter";
+var mnemonic = "pepper among august grab unaware wire nuclear illegal crunch lucky lamp funny";

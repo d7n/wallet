@@ -1,1 +1,1 @@
-var mnemonic = "false decide lion rough armor joke neglect rhythm spy kid picnic stay";
+var mnemonic = "oak drill ankle rookie engine surprise arena cushion observe evoke rough vast";

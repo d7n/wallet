@@ -1,1 +1,1 @@
-var mnemonic = "prepare shock trim dress have stamp wolf blouse peace bamboo net marble";
+var mnemonic = "vacuum gate curve belt immune hat off wet leader nothing wool tuna";

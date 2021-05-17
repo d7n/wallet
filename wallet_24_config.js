@@ -1,1 +1,1 @@
-var mnemonic = "various view burger sword end learn mango donate anchor staff bomb satisfy";
+var mnemonic = "brief find gas zoo purity bid snap cluster because water marine exact";

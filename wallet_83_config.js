@@ -1,1 +1,1 @@
-var mnemonic = "perfect pistol denial grant notable such vessel occur obscure pig thrive circle";
+var mnemonic = "metal note bitter pupil vast wonder link memory ozone various mixed cook";

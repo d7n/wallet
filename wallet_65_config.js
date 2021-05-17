@@ -1,1 +1,1 @@
-var mnemonic = "ski easy purchase promote license youth truly sunny duck post rhythm popular";
+var mnemonic = "rhythm much pear carry make attitude aspect once dry pill carry bottom";

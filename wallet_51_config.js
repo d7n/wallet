@@ -1,1 +1,1 @@
-var mnemonic = "oval congress birth manual remember index again source distance casino night narrow";
+var mnemonic = "grocery excuse crystal onion admit inmate honey iron plug tone behind one";

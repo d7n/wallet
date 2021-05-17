@@ -1,1 +1,1 @@
-var mnemonic = "illegal mutual april ill emerge pretty gospel check token estate fix used";
+var mnemonic = "dawn spread zero lucky shy world bench garbage small legend divide boy";

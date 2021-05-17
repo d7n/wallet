@@ -1,1 +1,1 @@
-var mnemonic = "raven own minor identify salmon logic quit tongue tiny together result stove";
+var mnemonic = "whisper obtain magic list submit vanish error right enlist hundred average mimic";

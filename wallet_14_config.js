@@ -1,1 +1,1 @@
-var mnemonic = "elegant pistol reopen chest mammal ready dinner puppy essay camera train ketchup";
+var mnemonic = "paper spawn figure sadness drop range notice liberty reward guide sail ancient";

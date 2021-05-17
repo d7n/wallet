@@ -1,1 +1,1 @@
-var mnemonic = "crop ostrich leave boss slice ozone ostrich distance case bubble motor oak";
+var mnemonic = "silly snow educate peace dawn iron major exclude glimpse fly iron village";

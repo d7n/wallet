@@ -1,1 +1,1 @@
-var mnemonic = "endorse love taste mule leopard symbol slim color avoid small dutch machine";
+var mnemonic = "into elephant federal warm rocket inflict adapt stand pet satisfy afford spray";

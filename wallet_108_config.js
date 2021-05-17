@@ -1,1 +1,1 @@
-var mnemonic = "rhythm usual initial copper imitate void wedding else birth woman lecture throw";
+var mnemonic = "coast push frequent sun theory enter bar love allow sand brick pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "ill stock turn regret art squirrel disease hero tail letter sting more";
+var mnemonic = "warfare bachelor wash absorb diagram prefer pyramid pretty deliver occur antique usage";

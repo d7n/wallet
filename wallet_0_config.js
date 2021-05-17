@@ -1,1 +1,1 @@
-var mnemonic = "link nice gospel thumb glory skate sail better proof concert this goose";
+var mnemonic = "clip render route assault dismiss index winter space ancient process security damage";

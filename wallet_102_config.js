@@ -1,1 +1,1 @@
-var mnemonic = "monster problem finger ostrich screen blast off example border process grab float";
+var mnemonic = "draw mushroom sheriff cable belt cradle vibrant parrot stock dial second price";

@@ -1,1 +1,1 @@
-var mnemonic = "silent web tail topic amateur deer ketchup inch feel beach pipe door";
+var mnemonic = "account rain way crane flavor zero tiny garlic steak rigid short trip";

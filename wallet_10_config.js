@@ -1,1 +1,1 @@
-var mnemonic = "south amount evil control screen second cereal upon axis glass weasel destroy";
+var mnemonic = "job early search damage scare quote winter myth ramp surge canal increase";

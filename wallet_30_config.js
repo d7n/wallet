@@ -1,1 +1,1 @@
-var mnemonic = "wedding evil burst stable rate base position keen perfect buzz display hat";
+var mnemonic = "behave protect actress harvest donkey million modify crouch speak chuckle play warfare";

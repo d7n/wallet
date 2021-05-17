@@ -1,1 +1,1 @@
-var mnemonic = "upset mechanic jealous print decide timber door celery defy pottery safe carry";
+var mnemonic = "romance learn catalog grain raven assume engage shrimp stereo weapon relax memory";

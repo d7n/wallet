@@ -1,1 +1,1 @@
-var mnemonic = "certain bike cycle ecology size sauce area afford dice art mushroom occur";
+var mnemonic = "orphan spray brand room put shiver decline useful sheriff journey emerge gas";

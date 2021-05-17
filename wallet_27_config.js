@@ -1,1 +1,1 @@
-var mnemonic = "more yellow zoo bachelor shrimp mountain area hood amateur shine distance lounge";
+var mnemonic = "real about right fragile camp rely unit route attack chaos crawl delay";

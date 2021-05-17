@@ -1,1 +1,1 @@
-var mnemonic = "give mixed chimney mad saddle window vacuum embrace spider theme enrich evoke";
+var mnemonic = "wait turkey column creek glare stairs admit tree grit frost window motor";

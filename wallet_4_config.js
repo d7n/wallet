@@ -1,1 +1,1 @@
-var mnemonic = "ancient symbol clock east usual friend dream loop wheel engine false diary";
+var mnemonic = "aerobic husband rival famous height gain clap burst teach wash miss heavy";

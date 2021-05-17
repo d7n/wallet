@@ -1,1 +1,1 @@
-var mnemonic = "alter brain slogan void mean destroy grow space antique reward push quantum";
+var mnemonic = "liar own come plug stable rough dice patient gold door consider scout";

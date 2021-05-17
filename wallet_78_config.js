@@ -1,1 +1,1 @@
-var mnemonic = "conduct snack zoo that ugly error census caution shield pulse rug rack";
+var mnemonic = "crash curious guide spoon mule sight woman educate dwarf fun attitude spike";

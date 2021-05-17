@@ -1,1 +1,1 @@
-var mnemonic = "caution humble salmon glue segment vacant sudden bring confirm measure festival dilemma";
+var mnemonic = "burden sleep hotel duty soap frequent wolf axis bronze extra arctic night";

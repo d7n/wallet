@@ -1,1 +1,1 @@
-var mnemonic = "fit follow pistol few panther issue upset gather pause artist whisper insect";
+var mnemonic = "custom boss gossip wing hair country change entire human rebel mean alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology debate spider will borrow orbit man humble talent mango afraid deer";
+var mnemonic = "echo piano question aware tonight camp wise tobacco learn tattoo female destroy";

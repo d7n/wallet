@@ -1,1 +1,1 @@
-var mnemonic = "nose kidney place clay advice truth economy regret defense simple spider arch";
+var mnemonic = "treat asset liberty slice bless title dune oval monster erode wealth paddle";

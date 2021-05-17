@@ -1,1 +1,1 @@
-var mnemonic = "speed olympic gold profit arena panic tide critic matrix achieve laptop welcome";
+var mnemonic = "owner one brief actress thought raw demise month age vacant quote sponsor";

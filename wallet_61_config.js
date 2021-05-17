@@ -1,1 +1,1 @@
-var mnemonic = "dirt museum glue frame dry sudden session mention coconut zero loop start";
+var mnemonic = "gospel tortoise can wash weird tower alpha apart sphere rack hold broccoli";

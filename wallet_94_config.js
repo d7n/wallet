@@ -1,1 +1,1 @@
-var mnemonic = "project supreme great menu debate stamp city electric february second harbor burden";
+var mnemonic = "raccoon aware hello certain interest hockey gasp unusual ozone cherry gasp capable";

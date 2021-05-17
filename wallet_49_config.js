@@ -1,1 +1,1 @@
-var mnemonic = "upset turtle save rally afford reopen circle kidney erosion gaze chase bless";
+var mnemonic = "pencil announce chaos exercise motor cousin weather million amount palm have october";

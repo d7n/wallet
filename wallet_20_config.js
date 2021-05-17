@@ -1,1 +1,1 @@
-var mnemonic = "amused express harbor online aspect item hold decline weekend tornado art elegant";
+var mnemonic = "antique budget mail afraid promote thumb height crew salmon april metal cliff";
