@@ -1,1 +1,1 @@
-var mnemonic = "clap diet eyebrow type pizza street salad hedgehog flip length this install";
+var mnemonic = "reunion similar body employ senior youth exotic subway enlist amazing cool famous";

@@ -1,1 +1,1 @@
-var mnemonic = "advance close middle cradle sweet humble talent shy material cable buzz nasty";
+var mnemonic = "stereo arrest vast region oil fame great mother roast kitten course board";

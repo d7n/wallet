@@ -1,1 +1,1 @@
-var mnemonic = "year differ employ unusual syrup detect chalk scout elite earn where travel";
+var mnemonic = "key chronic fancy chimney live winter tiger judge joke scout bounce sweet";

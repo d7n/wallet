@@ -1,1 +1,1 @@
-var mnemonic = "glance enable scrub inherit toy ski breeze rely spirit clock embody subject";
+var mnemonic = "obtain stand hero meat script cupboard twist choose note topple shop uncover";

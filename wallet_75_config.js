@@ -1,1 +1,1 @@
-var mnemonic = "simple grain grief diesel have soldier grow smoke venue size orphan original";
+var mnemonic = "acquire bonus elite next brass february rail deal warm fringe gadget unknown";

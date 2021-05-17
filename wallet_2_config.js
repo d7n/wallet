@@ -1,1 +1,1 @@
-var mnemonic = "sense width rifle buffalo bracket quit talent gas cricket moment buyer payment";
+var mnemonic = "prefer forget thrive depend love treat grid quote long recipe such peace";

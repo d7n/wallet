@@ -1,1 +1,1 @@
-var mnemonic = "verb enter purpose onion heavy october tray lock layer unique north bullet";
+var mnemonic = "track coffee frown maze wagon yellow catalog truly magic ankle tilt pink";

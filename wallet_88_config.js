@@ -1,1 +1,1 @@
-var mnemonic = "unusual target metal robot tilt fuel garden dismiss husband utility bamboo junk";
+var mnemonic = "ceiling bronze master ship evil noise boy mention pigeon fiscal month office";

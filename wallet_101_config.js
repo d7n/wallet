@@ -1,1 +1,1 @@
-var mnemonic = "goose someone night city man habit chest digital motor armed output fiscal";
+var mnemonic = "weekend announce recall then clump antique load slow suggest adjust cool amount";

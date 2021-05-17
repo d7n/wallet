@@ -1,1 +1,1 @@
-var mnemonic = "excess tribe vital sibling bleak police gauge glad denial club icon alarm";
+var mnemonic = "wrong labor dry shine fuel morning bonus track border race sleep census";

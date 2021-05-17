@@ -1,1 +1,1 @@
-var mnemonic = "example estate beef image afford island use easily adapt vocal off behind";
+var mnemonic = "comfort arrest cute suspect tongue coconut tobacco meat royal write resist typical";

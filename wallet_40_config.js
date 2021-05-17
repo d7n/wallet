@@ -1,1 +1,1 @@
-var mnemonic = "adult innocent bid spray time miracle duty decrease shiver wing two claim";
+var mnemonic = "oyster total top motion alert conduct snake mule volcano judge lava scene";

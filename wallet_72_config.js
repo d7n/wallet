@@ -1,1 +1,1 @@
-var mnemonic = "shoot witness there pilot enroll suggest census plate myself wife rural town";
+var mnemonic = "agent online bean style slow practice axis motor group muscle lazy budget";

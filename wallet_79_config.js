@@ -1,1 +1,1 @@
-var mnemonic = "believe potato fish bundle van crash bird truth merge mobile olympic topic";
+var mnemonic = "chronic situate annual always midnight sketch label wire wear inquiry over artist";

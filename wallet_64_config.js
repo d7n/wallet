@@ -1,1 +1,1 @@
-var mnemonic = "connect shrimp vendor fringe smile grunt this hollow creek tribe crack fee";
+var mnemonic = "rebel cradle trophy wide number nominee silly gospel believe reunion unveil hunt";

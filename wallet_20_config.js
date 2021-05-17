@@ -1,1 +1,1 @@
-var mnemonic = "street creek hire arrow humor bunker excuse empower range image art upper";
+var mnemonic = "tilt ready dolphin motion stomach prevent swim boring april cruel plug lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle idle rack hello tobacco effort require learn gospel typical expose kid";
+var mnemonic = "notable double divide mountain often problem duty toddler injury nuclear end survey";

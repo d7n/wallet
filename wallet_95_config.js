@@ -1,1 +1,1 @@
-var mnemonic = "trophy use calm wave useless security across indoor keen person exit cactus";
+var mnemonic = "arctic brand toe spin hospital suspect next rug gesture mirror response maple";

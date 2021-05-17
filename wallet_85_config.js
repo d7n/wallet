@@ -1,1 +1,1 @@
-var mnemonic = "spoon arch area spice pill lamp illness market clay outer another escape";
+var mnemonic = "warfare position route fatal private belt right video state negative found isolate";

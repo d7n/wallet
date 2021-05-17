@@ -1,1 +1,1 @@
-var mnemonic = "practice cross raven foam bind hip cruise aim need wing reopen hunt";
+var mnemonic = "cheap naive snap tattoo gravity festival address sentence evidence faculty choose obvious";

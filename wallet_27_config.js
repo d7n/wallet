@@ -1,1 +1,1 @@
-var mnemonic = "night social nice siren detect kangaroo supply chapter small mosquito bonus reunion";
+var mnemonic = "gift saddle maze lens spirit ugly sauce tone daring winner fun panther";

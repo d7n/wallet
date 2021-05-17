@@ -1,1 +1,1 @@
-var mnemonic = "equip submit scale actress again shine found garden element cricket rug hole";
+var mnemonic = "share have boy water wrist express milk engine ten nurse hammer core";

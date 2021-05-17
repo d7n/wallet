@@ -1,1 +1,1 @@
-var mnemonic = "siren rebel beyond genre cliff pulp unlock position list valve feel only";
+var mnemonic = "mixture kind loop size bracket mother ozone fold sustain dash enter seven";

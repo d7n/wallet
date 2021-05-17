@@ -1,1 +1,1 @@
-var mnemonic = "chief venue fabric test tortoise drastic blind happy cute rigid lunch timber";
+var mnemonic = "nominee oxygen silent common earth seminar egg turtle bundle sibling assist limit";

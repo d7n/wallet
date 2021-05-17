@@ -1,1 +1,1 @@
-var mnemonic = "category wave napkin nasty zoo outside flash million cart donor torch border";
+var mnemonic = "ramp tone canyon test fiber letter endless shield square rotate wood frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "wise spatial tumble search payment void squirrel basket alarm farm chimney pottery";
+var mnemonic = "sponsor draw spare easy tent knife often foster legend truth visa return";

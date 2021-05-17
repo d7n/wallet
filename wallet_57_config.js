@@ -1,1 +1,1 @@
-var mnemonic = "surge clever coral border gold lamp viable next program task bar coil";
+var mnemonic = "must humor cherry occur duty impulse cactus copy fall soap inform earth";

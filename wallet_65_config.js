@@ -1,1 +1,1 @@
-var mnemonic = "click armor dismiss emotion dutch derive fault awkward about fence price culture";
+var mnemonic = "drift swear story surface expect filter pepper want cattle misery merit february";

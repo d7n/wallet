@@ -1,1 +1,1 @@
-var mnemonic = "dust lucky action find portion bus bracket such plate inherit ostrich balcony";
+var mnemonic = "result evil extra long payment occur real undo chase chimney melody bomb";

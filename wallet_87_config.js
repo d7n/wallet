@@ -1,1 +1,1 @@
-var mnemonic = "fee idle dismiss nation matter brother hill into library romance list turtle";
+var mnemonic = "course fiction steak guitar pear year gospel include walk resemble cage calm";

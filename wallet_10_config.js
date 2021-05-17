@@ -1,1 +1,1 @@
-var mnemonic = "winter current cup journey happy seminar acoustic girl parade toward cotton utility";
+var mnemonic = "problem adapt chalk flush crush potato fine drastic okay young curtain journey";

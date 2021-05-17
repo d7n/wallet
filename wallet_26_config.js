@@ -1,1 +1,1 @@
-var mnemonic = "sheriff resist involve three sand mutual trophy eagle physical lottery code blur";
+var mnemonic = "about sock steel humor poverty rural wasp chapter farm world situate enemy";

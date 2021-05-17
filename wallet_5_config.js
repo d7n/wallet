@@ -1,1 +1,1 @@
-var mnemonic = "melody capable base actress pond they item torch goose baby level metal";
+var mnemonic = "voyage tent during expire offer snow appear focus spawn pizza owner they";

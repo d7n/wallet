@@ -1,1 +1,1 @@
-var mnemonic = "zero waste vibrant priority tribe stumble educate mango arrest describe suggest jewel";
+var mnemonic = "right canoe diesel erupt absorb lobster pistol exotic screen shop grunt tiny";

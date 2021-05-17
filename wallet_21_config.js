@@ -1,1 +1,1 @@
-var mnemonic = "spring grape foil item stereo easily sphere tissue cigar submit wink cake";
+var mnemonic = "cheap act drift cloud promote cup surround maple clerk inside sting fix";

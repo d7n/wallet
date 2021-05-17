@@ -1,1 +1,1 @@
-var mnemonic = "remain vapor air arctic bargain speed broken imitate unit symbol photo april";
+var mnemonic = "flock place fantasy fiber diet next neglect laundry rapid return maximum law";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract relax hub blush guitar eager wide poet drink chef sugar panel";
+var mnemonic = "talent absent hover viable oven sad canvas fatigue group glare network thrive";

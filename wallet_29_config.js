@@ -1,1 +1,1 @@
-var mnemonic = "romance decade wisdom promote dragon noble print sadness paper rescue style delay";
+var mnemonic = "aspect bunker spirit bundle cannon pull mountain monster stand write multiply clay";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet blast age buddy guard pet middle kitchen release juice shuffle crystal";
+var mnemonic = "net humble interest outer account cradle cotton sword tornado account satisfy absorb";

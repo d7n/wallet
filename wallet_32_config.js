@@ -1,1 +1,1 @@
-var mnemonic = "tone hockey talk chicken sunset truth warm tackle pull staff bread december";
+var mnemonic = "gorilla acoustic breeze elbow trial lounge shoe moon physical claim mutual inch";

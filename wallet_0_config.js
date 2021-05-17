@@ -1,1 +1,1 @@
-var mnemonic = "ancient modify depend banner observe lady bench fancy bubble scan sing shop";
+var mnemonic = "improve rely tunnel point wife dinner sketch road cave goose dentist toss";

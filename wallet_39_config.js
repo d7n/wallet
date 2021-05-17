@@ -1,1 +1,1 @@
-var mnemonic = "head upgrade dizzy guide axis seminar daughter civil toast poet mean annual";
+var mnemonic = "choice casino float load year project sustain pride wood ordinary fitness taste";

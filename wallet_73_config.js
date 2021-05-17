@@ -1,1 +1,1 @@
-var mnemonic = "easy organ despair bread bring mule divert column cherry still reason hurry";
+var mnemonic = "duty coach climb diesel eyebrow shove ozone kitten panic shiver between urge";

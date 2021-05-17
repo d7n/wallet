@@ -1,1 +1,1 @@
-var mnemonic = "strike vehicle devote jar globe dice present share enrich account shrimp defy";
+var mnemonic = "student amateur place napkin erosion scrap move gate blouse marble wealth castle";

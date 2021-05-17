@@ -1,1 +1,1 @@
-var mnemonic = "law dog brief illness one left stairs vibrant pattern prevent found potato";
+var mnemonic = "strategy wheel pact peace into good because agent hammer grit wet alley";

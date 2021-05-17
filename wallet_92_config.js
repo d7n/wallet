@@ -1,1 +1,1 @@
-var mnemonic = "misery gospel accuse donkey labor sheriff pact vacuum soul one success orbit";
+var mnemonic = "bulk puzzle argue host final stand notable eternal install clip vehicle speed";

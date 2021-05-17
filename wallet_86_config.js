@@ -1,1 +1,1 @@
-var mnemonic = "install brown trophy recipe rule smile attitude menu matter uncover regret you";
+var mnemonic = "harbor pact shift gun picnic pulse absent exhibit sausage improve shrimp business";

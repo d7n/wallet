@@ -1,1 +1,1 @@
-var mnemonic = "use grant banana assist whip caution nation reopen elder middle master gadget";
+var mnemonic = "pilot glove ancient digital husband print hurdle nephew home include appear cotton";

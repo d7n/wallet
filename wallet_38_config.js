@@ -1,1 +1,1 @@
-var mnemonic = "side never scan horse shy hire sunset camera enter chronic couple bracket";
+var mnemonic = "arena dash icon crane column violin coyote prevent summer under ride file";

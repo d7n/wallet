@@ -1,1 +1,1 @@
-var mnemonic = "satoshi barrel sudden drastic board grief match carbon awful deny rate visit";
+var mnemonic = "there mammal man kiwi candy insane student mail defy make zebra trophy";

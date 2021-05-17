@@ -1,1 +1,1 @@
-var mnemonic = "crime cage crop okay visit repair stay gold suspect tackle ribbon envelope";
+var mnemonic = "trim sing arch combine mechanic glance ceiling blade habit where today squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "lava input able throw mask list purpose unveil breeze vapor airport divide";
+var mnemonic = "spawn turtle have ketchup demise gauge room strong speed elegant express cross";

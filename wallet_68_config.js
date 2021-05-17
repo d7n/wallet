@@ -1,1 +1,1 @@
-var mnemonic = "cliff dose confirm copy group minor hire movie amazing horse rhythm fiction";
+var mnemonic = "police congress into once miss develop student dizzy clay general lucky hover";

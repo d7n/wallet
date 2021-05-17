@@ -1,1 +1,1 @@
-var mnemonic = "sister usual barrel boat umbrella define pride conduct joy hip sunset fuel";
+var mnemonic = "glide deal echo horn figure cable inner frame ignore guard ghost will";

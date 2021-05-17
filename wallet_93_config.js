@@ -1,1 +1,1 @@
-var mnemonic = "muffin fashion since come sorry rival license announce act raven harsh episode";
+var mnemonic = "chunk crowd about resource shine comfort cupboard unit salute hurdle design dune";

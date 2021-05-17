@@ -1,1 +1,1 @@
-var mnemonic = "fade rally shiver convince animal water chat verb detail rebuild future primary";
+var mnemonic = "chuckle crazy pole drive moral catch nurse flat manage issue effort copy";

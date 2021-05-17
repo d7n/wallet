@@ -1,1 +1,1 @@
-var mnemonic = "salt bullet cargo hockey mean buffalo reward verify surprise print worry tunnel";
+var mnemonic = "faith priority chief jacket size where box mean penalty skirt wrestle travel";

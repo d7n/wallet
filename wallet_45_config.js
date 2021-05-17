@@ -1,1 +1,1 @@
-var mnemonic = "already blossom pen echo plate field fury lumber trick deer joy speed";
+var mnemonic = "ugly among decorate rubber nominee fork hamster weapon able couch update hire";

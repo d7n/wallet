@@ -1,1 +1,1 @@
-var mnemonic = "scan balance pole school elbow skull you ramp school ordinary develop shed";
+var mnemonic = "bulb bid camp arrange robot north hold current wide birth light absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse quiz pretty nephew alter warm clock believe swarm method system fade";
+var mnemonic = "youth grid butter reject purity amateur under mandate mansion adapt puppy people";

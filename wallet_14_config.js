@@ -1,1 +1,1 @@
-var mnemonic = "shoe border globe bind film mind three excess embark popular decorate follow";
+var mnemonic = "cruel aim during sudden target laptop okay auto depth public gaze time";

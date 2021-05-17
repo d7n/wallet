@@ -1,1 +1,1 @@
-var mnemonic = "dress old mutual control firm quiz turtle ranch rapid beef aware viable";
+var mnemonic = "snow bomb insane useless fall volume edit search menu section relax begin";

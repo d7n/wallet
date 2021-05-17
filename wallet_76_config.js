@@ -1,1 +1,1 @@
-var mnemonic = "pipe galaxy owner olympic apart rice garment vendor minimum donkey genius hub";
+var mnemonic = "rally raw access oak loan air hero pyramid detail notable region fever";

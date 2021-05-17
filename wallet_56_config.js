@@ -1,1 +1,1 @@
-var mnemonic = "run portion cotton leisure still educate depth firm drop until cherry detail";
+var mnemonic = "resemble debate sibling draw artwork eight swim nose that dutch custom govern";

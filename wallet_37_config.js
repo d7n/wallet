@@ -1,1 +1,1 @@
-var mnemonic = "fantasy dolphin close dish finish process grow level grain spray rebuild fresh";
+var mnemonic = "amount cage more close shine weapon zebra unknown hockey moral turn alter";

@@ -1,1 +1,1 @@
-var mnemonic = "shy stove teach answer sight satisfy tuna arrange glance sausage riot teach";
+var mnemonic = "brown doll badge over tragic ensure culture step seminar news length dog";

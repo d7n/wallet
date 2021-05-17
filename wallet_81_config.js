@@ -1,1 +1,1 @@
-var mnemonic = "carbon episode solution cycle dutch consider horn report prevent weekend equip undo";
+var mnemonic = "rice silver purpose detail common icon addict consider found monster grain cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "federal excess asset valley athlete like bleak art blanket cart tortoise recipe";
+var mnemonic = "era goddess ball young drink grass story author grace bicycle december foster";

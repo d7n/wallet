@@ -1,1 +1,1 @@
-var mnemonic = "smart decrease tumble ladder float torch crucial grow erode heart grit pistol";
+var mnemonic = "coach flag tail permit punch cotton flash midnight jaguar cook mother taste";

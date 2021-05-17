@@ -1,1 +1,1 @@
-var mnemonic = "nuclear medal emerge deer mosquito grain call nerve interest trade turtle exhaust";
+var mnemonic = "begin duck inspire frost loyal curve shield mask valid choice hope mesh";

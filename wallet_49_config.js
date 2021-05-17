@@ -1,1 +1,1 @@
-var mnemonic = "limb note lock valley receive exercise shrimp pony first deal oppose shop";
+var mnemonic = "goddess loop fury moment gloom orphan web museum write copy gloom struggle";

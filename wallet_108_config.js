@@ -1,1 +1,1 @@
-var mnemonic = "swap debris picture uniform depth tape horror sport carpet grocery leopard erase";
+var mnemonic = "hundred hunt grunt grab marriage pause print safe urge ignore wife source";

@@ -1,1 +1,1 @@
-var mnemonic = "fence cattle zoo fluid author giggle limit anxiety walk mammal usage thrive";
+var mnemonic = "setup assault clinic flat donate wait sand art express dash eyebrow crowd";

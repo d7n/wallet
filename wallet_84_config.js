@@ -1,1 +1,1 @@
-var mnemonic = "joke seed again dance dove polar future decrease antique anchor orient board";
+var mnemonic = "festival cigar measure flame erupt sphere switch buzz medal smooth cannon remember";

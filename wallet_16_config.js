@@ -1,1 +1,1 @@
-var mnemonic = "inhale flag wild extra move hunt broom radio olive torch mutual scorpion";
+var mnemonic = "travel burger story kick main science couch faith stairs whisper mom link";

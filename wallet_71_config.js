@@ -1,1 +1,1 @@
-var mnemonic = "rescue blind champion climb plug nothing auto talk insane will toward notice";
+var mnemonic = "insect raven orange escape canyon sign merit story enroll room glue onion";

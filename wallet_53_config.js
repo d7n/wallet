@@ -1,1 +1,1 @@
-var mnemonic = "ketchup depth umbrella mom hamster globe square broken defy desk fault slab";
+var mnemonic = "awkward label uphold blast random winner salad fee only rack today bitter";

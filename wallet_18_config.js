@@ -1,1 +1,1 @@
-var mnemonic = "sand kite one story level payment steak mimic garden volume close cement";
+var mnemonic = "build buzz record admit reward pet wrong pen gym thought suspect field";

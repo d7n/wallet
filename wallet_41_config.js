@@ -1,1 +1,1 @@
-var mnemonic = "panel occur enact evidence return genius stumble humble leader about feature heart";
+var mnemonic = "bulb list market divert odor payment flight tell own angle foster slender";

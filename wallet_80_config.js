@@ -1,1 +1,1 @@
-var mnemonic = "various vehicle jacket wink purse torch earn fortune flight indoor pill life";
+var mnemonic = "fork drink cube talent laugh dolphin owner dinner gold nerve entry sort";

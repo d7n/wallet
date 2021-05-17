@@ -1,1 +1,1 @@
-var mnemonic = "label quantum bonus fence toddler purpose slot tent market gain bunker job";
+var mnemonic = "embody ceiling better want grocery net pudding elbow rival develop impose struggle";

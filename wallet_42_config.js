@@ -1,1 +1,1 @@
-var mnemonic = "clarify physical cluster ivory bone bid essay galaxy grit shoot version forget";
+var mnemonic = "into present public violin diagram pupil word custom shove office orient mix";

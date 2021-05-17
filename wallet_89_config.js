@@ -1,1 +1,1 @@
-var mnemonic = "target size honey fiber pledge garbage output demand engage avoid surface gasp";
+var mnemonic = "lazy vintage obvious leg spoil police virtual antenna defy stove moment wear";

@@ -1,1 +1,1 @@
-var mnemonic = "present oxygen what orchard wave disorder crunch carpet favorite nominee history stool";
+var mnemonic = "tomorrow artwork increase sheriff learn gloom blast reject poverty volcano tone essay";

@@ -1,1 +1,1 @@
-var mnemonic = "phone wonder human ivory alien sibling because judge mean throw midnight else";
+var mnemonic = "hold switch clip universe west rich skin hope problem family harvest decide";

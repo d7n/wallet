@@ -1,1 +1,1 @@
-var mnemonic = "remove issue certain mean young admit turtle zebra wet brave excuse unique";
+var mnemonic = "happy around try armed gift what history thank speak desk fire rail";

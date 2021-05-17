@@ -1,1 +1,1 @@
-var mnemonic = "upon weather derive hurry captain near caught design pen wealth pony tree";
+var mnemonic = "picture destroy owner oxygen keen stone laundry member tortoise home better envelope";

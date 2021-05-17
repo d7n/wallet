@@ -1,1 +1,1 @@
-var mnemonic = "drop injury record benefit leisure organ trade client expose maze party term";
+var mnemonic = "merit field depend surge divide glide miss moment pole tornado plug defy";

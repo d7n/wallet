@@ -1,1 +1,1 @@
-var mnemonic = "essay myth wonder mobile acquire cup recipe omit relax quantum edit acoustic";
+var mnemonic = "any cable screen copper start venture ocean laugh bird gold home level";

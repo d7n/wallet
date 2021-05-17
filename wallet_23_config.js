@@ -1,1 +1,1 @@
-var mnemonic = "law merge monster exchange tank disorder tube nasty venue wrap friend unit";
+var mnemonic = "whisper miss cloth shove average glass candy pledge supply decrease token mean";

@@ -1,1 +1,1 @@
-var mnemonic = "minute already tonight note claim accident punch picnic own sting magic thunder";
+var mnemonic = "label online end jeans resemble hip swift loan broccoli nurse hurdle ability";

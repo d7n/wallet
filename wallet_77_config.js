@@ -1,1 +1,1 @@
-var mnemonic = "divert now annual fiction reason wonder kind erupt island private settle blush";
+var mnemonic = "cream digital region option correct behind minute silly erosion elevator salad lamp";

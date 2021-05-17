@@ -1,1 +1,1 @@
-var mnemonic = "ready captain odor federal sample way deal possible hair tomorrow vital month";
+var mnemonic = "unknown slush upper cube jewel aisle music resist sheriff guitar ecology crazy";

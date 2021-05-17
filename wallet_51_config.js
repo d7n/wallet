@@ -1,1 +1,1 @@
-var mnemonic = "come access lesson birth time exotic protect agree giant betray similar volcano";
+var mnemonic = "dune man delay confirm boring reopen spray gym broom erode foot weird";

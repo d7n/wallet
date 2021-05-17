@@ -1,1 +1,1 @@
-var mnemonic = "broccoli link unaware calm unit lyrics champion uncover ball light abandon wrap";
+var mnemonic = "dutch congress dry ancient modify orange project guitar kit tone scorpion west";

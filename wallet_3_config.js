@@ -1,1 +1,1 @@
-var mnemonic = "couch file doll update useful female grass weird drastic violin vast put";
+var mnemonic = "glance sad rely then festival diagram tackle age bright stay six disagree";
