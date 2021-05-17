@@ -1,1 +1,1 @@
-var mnemonic = "assume ball snow divert right treat faith obvious use element boy youth";
+var mnemonic = "luxury oak service sight odor expand innocent elder safe alter review friend";

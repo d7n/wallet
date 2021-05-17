@@ -1,1 +1,1 @@
-var mnemonic = "license level page online connect aerobic casual knock vendor frown thunder sign";
+var mnemonic = "uncle volume reduce major trend cannon sport live trash use sail relax";

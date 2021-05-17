@@ -1,1 +1,1 @@
-var mnemonic = "rather return bachelor limb vintage stomach patch blade chimney weekend what brown";
+var mnemonic = "clinic mango surface heart dial throw deer radar bridge ability client light";

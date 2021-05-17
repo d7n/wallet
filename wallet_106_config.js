@@ -1,1 +1,1 @@
-var mnemonic = "aisle rare fluid mouse olympic grocery wine emotion exit valley renew blind";
+var mnemonic = "lens hip until loan report build giraffe describe coconut sport welcome hip";

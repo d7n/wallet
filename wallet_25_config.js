@@ -1,1 +1,1 @@
-var mnemonic = "display piece region token snap tackle hurry crash tornado column habit subject";
+var mnemonic = "ride clown aisle hope reduce first tomato top hidden select labor arrive";

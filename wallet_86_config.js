@@ -1,1 +1,1 @@
-var mnemonic = "issue diamond violin enroll welcome sort rocket uncle arm rug profit camera";
+var mnemonic = "essence hub grunt credit goose panda just zone teach matrix affair appear";

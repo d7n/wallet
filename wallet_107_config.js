@@ -1,1 +1,1 @@
-var mnemonic = "clap reopen giggle alpha olive fiction turn metal damage can owner nature";
+var mnemonic = "around image rebuild worry original drink light loyal ahead beyond retire budget";

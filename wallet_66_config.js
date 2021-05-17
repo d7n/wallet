@@ -1,1 +1,1 @@
-var mnemonic = "puppy mean mother remind undo shrug nuclear rare lock castle session strategy";
+var mnemonic = "junk slush drama twenty reform twice brave doctor various funny age dynamic";

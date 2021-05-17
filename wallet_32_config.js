@@ -1,1 +1,1 @@
-var mnemonic = "flame crack great glance orient pact next punch that under devote brief";
+var mnemonic = "entire antenna crisp sample monkey chief frost private subway tackle thought pause";

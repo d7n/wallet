@@ -1,1 +1,1 @@
-var mnemonic = "awesome drive grunt close potato vessel obey city devote stone wall ridge";
+var mnemonic = "fat wheel novel fence coach assault kitten visual drink ceiling life arm";

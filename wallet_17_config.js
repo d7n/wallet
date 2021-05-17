@@ -1,1 +1,1 @@
-var mnemonic = "regret silly garden motor feel lucky gasp wrong affair deputy cry tumble";
+var mnemonic = "thing very expose wing barrel shock brass reopen wrist army adult disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "fee interest fork oyster security surround vocal kiwi carry party kit general";
+var mnemonic = "maid margin license vague reward uniform elbow drum envelope reason anchor broken";

@@ -1,1 +1,1 @@
-var mnemonic = "main roof orchard keep kick hurry exercise asset announce salad report fuel";
+var mnemonic = "better bar pony bicycle rabbit cloth camera that tragic cash burger ensure";

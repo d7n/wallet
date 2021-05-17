@@ -1,1 +1,1 @@
-var mnemonic = "pen stairs music family salon relief gossip crunch pluck tree struggle audit";
+var mnemonic = "impose seed ceiling used trash option addict exchange wall senior spoon hurdle";

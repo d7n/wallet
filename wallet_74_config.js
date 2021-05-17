@@ -1,1 +1,1 @@
-var mnemonic = "rigid erosion retreat tuna civil heavy salute season omit panic family file";
+var mnemonic = "shy deliver enforce miss act click illegal glue patch spy ostrich breeze";

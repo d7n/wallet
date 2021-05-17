@@ -1,1 +1,1 @@
-var mnemonic = "reduce clever work slot dolphin harsh jelly shine equal circle lawsuit buzz";
+var mnemonic = "urban need iron right chest grass digital reward frequent limit simple honey";

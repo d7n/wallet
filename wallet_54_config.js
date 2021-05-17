@@ -1,1 +1,1 @@
-var mnemonic = "people wear hidden blast fly crush certain antenna remove matter age brave";
+var mnemonic = "retire steak away frozen offer dust joy carry cage shed coach nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "movie hope lounge blast season slab paddle lottery caution perfect trophy supply";
+var mnemonic = "transfer blur simple banner gadget twenty pencil close exercise shop curtain mammal";

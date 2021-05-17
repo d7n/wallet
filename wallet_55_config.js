@@ -1,1 +1,1 @@
-var mnemonic = "orange chief destroy swift hotel tilt mountain scheme depth task crunch thumb";
+var mnemonic = "together bottom soldier bulb old earn access faith boat busy olive jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "school finger slot wreck empower volume casino range humor vacant air zero";
+var mnemonic = "pioneer unveil napkin copper level glue mouse style miracle favorite badge segment";

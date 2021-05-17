@@ -1,1 +1,1 @@
-var mnemonic = "betray afford common valve party bacon crouch occur wagon subway syrup monkey";
+var mnemonic = "night ski kitten connect magnet reform slab maid alone horn benefit cherry";

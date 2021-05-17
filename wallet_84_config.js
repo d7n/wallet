@@ -1,1 +1,1 @@
-var mnemonic = "ask sustain typical squeeze target allow exclude bullet useful ski venue exit";
+var mnemonic = "rocket height return bright deposit lady submit gauge list cement sister please";

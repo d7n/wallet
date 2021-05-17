@@ -1,1 +1,1 @@
-var mnemonic = "uncover staff ankle dune patrol mouse duty mother bottom tuna wrong ritual";
+var mnemonic = "fortune denial sweet license kidney churn quiz vicious problem spice sight pride";

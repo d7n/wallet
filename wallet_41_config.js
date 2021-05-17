@@ -1,1 +1,1 @@
-var mnemonic = "unaware hero convince repair half flash reform later seek name unknown people";
+var mnemonic = "doctor clay economy sponsor capable picture quote wash battle spare ugly breeze";

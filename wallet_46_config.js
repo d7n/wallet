@@ -1,1 +1,1 @@
-var mnemonic = "baby cherry place quick decline clever relax forward reform below picnic below";
+var mnemonic = "move across pig response plunge oxygen edge two screen action remind fork";

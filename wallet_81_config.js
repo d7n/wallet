@@ -1,1 +1,1 @@
-var mnemonic = "shoulder forum crouch atom ramp twenty escape fault paper fade life organ";
+var mnemonic = "decorate actress glare bag zero toward book festival among safe crawl slide";

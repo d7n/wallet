@@ -1,1 +1,1 @@
-var mnemonic = "olive floor glide favorite excuse liberty play wink dial canal captain blossom";
+var mnemonic = "sample interest goat unhappy drink worth autumn chunk early teach web rich";

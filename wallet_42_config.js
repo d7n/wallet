@@ -1,1 +1,1 @@
-var mnemonic = "reunion capital parade wisdom skate frown nasty month deputy laundry unveil element";
+var mnemonic = "pipe surround leisure toilet upper arena van staff usual ozone illegal oval";

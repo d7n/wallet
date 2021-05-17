@@ -1,1 +1,1 @@
-var mnemonic = "absurd number pony question punch annual dog close gentle blue future sentence";
+var mnemonic = "trial menu feature beach buzz energy attack era wheel twenty soda forum";

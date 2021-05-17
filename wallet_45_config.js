@@ -1,1 +1,1 @@
-var mnemonic = "balance frost cloud dolphin maze boss virtual plug welcome layer park knock";
+var mnemonic = "cinnamon auto veteran drink clever alcohol piano pioneer bike belt market rare";

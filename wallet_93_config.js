@@ -1,1 +1,1 @@
-var mnemonic = "chunk whisper mutual mask frequent often pigeon donkey approve swing daring click";
+var mnemonic = "never rescue average runway aerobic joy wife relax scrub second what boat";

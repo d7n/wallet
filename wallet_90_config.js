@@ -1,1 +1,1 @@
-var mnemonic = "rice beyond estate lounge donate super once quarter patrol grass menu material";
+var mnemonic = "dragon used there submit unusual kitchen body fetch salmon fantasy primary index";

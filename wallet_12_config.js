@@ -1,1 +1,1 @@
-var mnemonic = "inhale tourist wear cheap false vast talent away island aisle plastic success";
+var mnemonic = "ginger castle choice hill badge appear mule slam measure lumber angle afraid";

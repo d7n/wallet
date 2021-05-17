@@ -1,1 +1,1 @@
-var mnemonic = "verify canyon into blur ramp library also primary face lift sunny law";
+var mnemonic = "number fatigue pipe craft unveil duty ability behave globe move glimpse shock";

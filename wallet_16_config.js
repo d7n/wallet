@@ -1,1 +1,1 @@
-var mnemonic = "shallow forget sniff way expect flip fringe gorilla episode seminar edge cattle";
+var mnemonic = "habit kidney excuse taxi aerobic ghost aspect impulse good frog flock attend";

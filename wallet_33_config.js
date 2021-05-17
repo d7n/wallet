@@ -1,1 +1,1 @@
-var mnemonic = "thrive avocado memory segment addict key knife beach theme canal you pear";
+var mnemonic = "feel rigid unaware food pottery marine nation decade scene junk target gorilla";

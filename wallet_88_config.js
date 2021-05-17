@@ -1,1 +1,1 @@
-var mnemonic = "comfort way adapt purity error wrist enroll inner green credit income water";
+var mnemonic = "panda begin dial used slush sister knock original slide sheriff cancel this";

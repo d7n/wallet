@@ -1,1 +1,1 @@
-var mnemonic = "tongue tip share marine garment spare stem outer ensure surround nothing hair";
+var mnemonic = "joy surge inflict prepare wool fan ribbon emotion balcony choice bench country";

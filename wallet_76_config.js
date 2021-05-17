@@ -1,1 +1,1 @@
-var mnemonic = "jaguar palace brain sadness chunk review siege donor era nut govern april";
+var mnemonic = "copy clutch pudding movie swap soft list text first rail depart tourist";

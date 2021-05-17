@@ -1,1 +1,1 @@
-var mnemonic = "rack town riot wood around capable horse strong undo hold bless asset";
+var mnemonic = "receive dentist glimpse junior benefit increase knock basket dinner tip survey three";

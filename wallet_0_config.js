@@ -1,1 +1,1 @@
-var mnemonic = "test warm tide bitter matter blood raw purity extra pledge rail trial";
+var mnemonic = "dawn hammer when agent stadium bag glory summer birth also decade ahead";

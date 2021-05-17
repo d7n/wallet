@@ -1,1 +1,1 @@
-var mnemonic = "bunker friend ethics topic dad ugly material sustain dumb during detail exile";
+var mnemonic = "betray copper deal congress supreme garage expand finish nerve piece decrease truly";

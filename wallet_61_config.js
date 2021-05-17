@@ -1,1 +1,1 @@
-var mnemonic = "road until race total expose pink record shine someone grief card middle";
+var mnemonic = "inspire subway humble impose emotion sell stomach spike chapter verb attitude derive";

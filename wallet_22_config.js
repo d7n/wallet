@@ -1,1 +1,1 @@
-var mnemonic = "smoke disorder once summer display canyon enjoy scheme define diet digital bring";
+var mnemonic = "benefit random certain sea ozone arrange success habit repair deposit lecture west";

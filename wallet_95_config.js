@@ -1,1 +1,1 @@
-var mnemonic = "black half welcome electric doctor immense junk gas elephant fine poem bulb";
+var mnemonic = "item vast tiger dad claw middle ball wine shock rookie town cannon";

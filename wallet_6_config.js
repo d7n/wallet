@@ -1,1 +1,1 @@
-var mnemonic = "laptop federal promote actress size spell cook flash monster frame swim shine";
+var mnemonic = "earn student cruise decline wrist setup fatal struggle predict sauce alone grow";

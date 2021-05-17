@@ -1,1 +1,1 @@
-var mnemonic = "payment swamp spoon cook shrug soap into upgrade limb cool rely drum";
+var mnemonic = "fortune net final trust clown mixture run brief marine tunnel mind spawn";

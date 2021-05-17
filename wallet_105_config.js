@@ -1,1 +1,1 @@
-var mnemonic = "frequent prize century crucial rescue october pen relax bunker stone bid loud";
+var mnemonic = "left silver orange audit viable kitchen juice surface spatial shock alter rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "yard hello orphan genius maze monster state clerk pitch indoor cement fiber";
+var mnemonic = "panel file resist around decorate feel slice auction reveal enemy burger jeans";

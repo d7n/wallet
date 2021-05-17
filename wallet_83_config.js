@@ -1,1 +1,1 @@
-var mnemonic = "van phrase faint onion farm fly thank pelican there palace obey post";
+var mnemonic = "harvest call system ship never slender exhibit loyal goat armor uncover light";

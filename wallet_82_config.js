@@ -1,1 +1,1 @@
-var mnemonic = "hammer combine daughter sibling prepare solve snow member aunt disagree purity strategy";
+var mnemonic = "asset enrich spell prize crater dolphin wheel cigar summer warrior deer false";

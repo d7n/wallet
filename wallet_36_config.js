@@ -1,1 +1,1 @@
-var mnemonic = "marine entry away pudding avocado bargain large leg brave number mom spawn";
+var mnemonic = "arrive approve aware element now fan during trigger lobster ranch cushion ready";

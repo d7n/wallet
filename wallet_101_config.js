@@ -1,1 +1,1 @@
-var mnemonic = "coin couple sentence produce coyote critic age you off coach fish empty";
+var mnemonic = "actor fiscal attract ridge shop material animal turtle clean plastic journey answer";

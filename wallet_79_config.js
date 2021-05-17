@@ -1,1 +1,1 @@
-var mnemonic = "tired entry aim design truly sail toss prosper fall robust travel estate";
+var mnemonic = "seek drill comfort defense wrap liquid slab cargo august estate fruit faculty";

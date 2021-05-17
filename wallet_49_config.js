@@ -1,1 +1,1 @@
-var mnemonic = "mushroom runway convince sugar warrior jacket jewel correct float doctor artwork pitch";
+var mnemonic = "stage doctor erosion mixed segment cheap label monster uniform grass parent lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "feel chase stumble summer steel salute drip initial cluster pudding east door";
+var mnemonic = "recipe echo civil glad swallow increase apart chunk quit royal say tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "guide magic add fly pumpkin ten share figure document assist size reason";
+var mnemonic = "fish valve crystal hedgehog around canvas rigid noise trim write order art";

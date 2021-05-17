@@ -1,1 +1,1 @@
-var mnemonic = "defy robust alter image labor left fiction glory gauge live worry rain";
+var mnemonic = "game bomb motion bicycle nation junk immense movie onion point firm trigger";

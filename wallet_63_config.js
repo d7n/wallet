@@ -1,1 +1,1 @@
-var mnemonic = "street husband risk enough essence rocket still light dismiss rain mad joy";
+var mnemonic = "cram ceiling sort library endless point web dove angry smoke mystery talent";

@@ -1,1 +1,1 @@
-var mnemonic = "goose clerk ranch vote build citizen kind lava wood spy situate view";
+var mnemonic = "cool album youth crawl spike valve picnic window milk toilet valley empty";

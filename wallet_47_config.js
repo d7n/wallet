@@ -1,1 +1,1 @@
-var mnemonic = "test sport cherry transfer embark razor load enroll logic begin deliver blast";
+var mnemonic = "bacon must rose inquiry meat short winter stool absent quick more glance";

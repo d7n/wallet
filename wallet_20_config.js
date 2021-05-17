@@ -1,1 +1,1 @@
-var mnemonic = "kiss vault neither census short metal electric chest cousin door shrug boat";
+var mnemonic = "fashion street delay skirt tongue multiply liquid april humble say wisdom master";

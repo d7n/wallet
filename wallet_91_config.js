@@ -1,1 +1,1 @@
-var mnemonic = "ice embody senior base confirm pink era wear face decide buyer awkward";
+var mnemonic = "quick know gather tongue appear hidden mixture update short gauge ketchup baby";

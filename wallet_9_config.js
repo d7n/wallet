@@ -1,1 +1,1 @@
-var mnemonic = "lady club quarter chase fix salt grunt rabbit private true leisure clip";
+var mnemonic = "orbit faith jaguar door taste glue kingdom grace impose print suffer close";

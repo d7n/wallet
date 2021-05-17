@@ -1,1 +1,1 @@
-var mnemonic = "also cushion lobster once gloom dizzy sick glass bone gift dirt smile";
+var mnemonic = "unlock universe sniff turtle record alley borrow ready liberty evil misery wheel";

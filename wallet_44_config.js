@@ -1,1 +1,1 @@
-var mnemonic = "soccer stamp garden intact flee peanut humor crucial puzzle pledge tuition legend";
+var mnemonic = "swap outside move swim fuel tobacco valid answer document negative fire leopard";

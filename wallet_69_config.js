@@ -1,1 +1,1 @@
-var mnemonic = "board curtain ticket program flee island month long eight vapor siren boy";
+var mnemonic = "sunny bunker rate honey school hill rescue acquire pink horror advance boss";

@@ -1,1 +1,1 @@
-var mnemonic = "girl snap offer drastic armed seed basket shine purchase nut anger truly";
+var mnemonic = "gym bargain bench couch lend faith wheel boy fruit alarm stuff pulp";

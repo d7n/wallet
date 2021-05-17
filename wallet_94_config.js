@@ -1,1 +1,1 @@
-var mnemonic = "fuel route addict half gift industry rubber cactus best solution agent daughter";
+var mnemonic = "bottom catalog coconut regret dice apart draft door clay banner guitar fabric";

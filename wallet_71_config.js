@@ -1,1 +1,1 @@
-var mnemonic = "raise inspire under stumble theme never grocery spray able kidney nice penalty";
+var mnemonic = "animal hammer hurt kiss basic leisure actress flat snake alter crew deny";

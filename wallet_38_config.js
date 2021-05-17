@@ -1,1 +1,1 @@
-var mnemonic = "cherry same walnut soda situate type can immune escape sure announce reward";
+var mnemonic = "chair daughter pet traffic clown powder obtain stomach similar proof like number";

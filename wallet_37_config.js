@@ -1,1 +1,1 @@
-var mnemonic = "dry engage panda all blade gravity taxi alter sphere soldier hour almost";
+var mnemonic = "lamp liar flip aware crack awful business december quality toast kick turkey";

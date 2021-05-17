@@ -1,1 +1,1 @@
-var mnemonic = "dice key nest ocean bottom column knee silk holiday suggest goddess tooth";
+var mnemonic = "reform produce turtle other lyrics width razor between boil brain tag nuclear";

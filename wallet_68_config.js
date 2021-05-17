@@ -1,1 +1,1 @@
-var mnemonic = "curious submit element private join crystal weird valve talk hungry vendor fluid";
+var mnemonic = "write lazy shop window tuition cat picnic bench arrest siege winter fuel";

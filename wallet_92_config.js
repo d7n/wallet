@@ -1,1 +1,1 @@
-var mnemonic = "rich rely sing abuse sell symbol treat world huge domain that twelve";
+var mnemonic = "win scan salmon cattle demise dish destroy rough wear member decade hundred";

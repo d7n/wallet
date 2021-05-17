@@ -1,1 +1,1 @@
-var mnemonic = "isolate glide light sweet boil ancient room stool attend blind gather whip";
+var mnemonic = "confirm interest already page private tape shield seven raise venue bubble silly";

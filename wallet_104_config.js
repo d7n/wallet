@@ -1,1 +1,1 @@
-var mnemonic = "oval goose neither title wall notable lesson pitch monitor jeans boss early";
+var mnemonic = "auto case lottery point dinosaur valve tissue offer horn luggage muffin wool";

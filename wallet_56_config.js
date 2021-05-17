@@ -1,1 +1,1 @@
-var mnemonic = "clutch virus coin ahead safe elephant transfer gain auto april test lyrics";
+var mnemonic = "tissue eight two perfect final merry shaft treat divorce action slight layer";

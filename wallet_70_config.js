@@ -1,1 +1,1 @@
-var mnemonic = "maple rail where goat oxygen innocent own motor zero section rice palace";
+var mnemonic = "firm evil depend sleep unusual spoon spoon issue amazing kidney mandate domain";

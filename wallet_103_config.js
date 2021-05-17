@@ -1,1 +1,1 @@
-var mnemonic = "cluster abandon unveil void horse birth bus lecture mule clerk sausage picnic";
+var mnemonic = "awesome tortoise monster escape must regular dinner life airport plate defense engine";

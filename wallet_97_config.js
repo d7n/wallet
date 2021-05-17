@@ -1,1 +1,1 @@
-var mnemonic = "crime okay try wheat venture combine trophy gorilla fabric chaos wait ozone";
+var mnemonic = "dry arrange student gasp deny bag elder royal jelly require remove tiny";

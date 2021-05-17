@@ -1,1 +1,1 @@
-var mnemonic = "involve bomb fish silent throw gate village taste brief reduce glass antenna";
+var mnemonic = "hurry blame episode swap hedgehog rain exercise embrace embody innocent width crisp";

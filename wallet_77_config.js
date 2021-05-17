@@ -1,1 +1,1 @@
-var mnemonic = "bench tongue must price there frequent unknown cradle message play salute grape";
+var mnemonic = "valid wink pilot eternal calm way trap swear reduce cancel onion ill";

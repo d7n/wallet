@@ -1,1 +1,1 @@
-var mnemonic = "hammer snake juice reduce magic improve dog birth original inform extra reform";
+var mnemonic = "matter increase uphold ketchup lamp prevent tail demand slice erase tiger solution";

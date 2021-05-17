@@ -1,1 +1,1 @@
-var mnemonic = "abandon rocket frozen symptom resemble moral mansion dance net glory armor color";
+var mnemonic = "reform foot brown awkward cloth raccoon country mind charge problem topic jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi media visit paddle subway dune faculty race cousin cousin trust album";
+var mnemonic = "quote melody lift winner room smart inspire exile tiger peanut cloud worry";

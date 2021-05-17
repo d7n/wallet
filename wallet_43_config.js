@@ -1,1 +1,1 @@
-var mnemonic = "rookie coil dilemma mother garment agree wealth cable bag cute evolve runway";
+var mnemonic = "problem universe company gasp such neck amateur cradle calm decline tree amused";

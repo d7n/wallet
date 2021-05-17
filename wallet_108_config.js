@@ -1,1 +1,1 @@
-var mnemonic = "remain damage cave subway install zero baby suggest trap depend pass sustain";
+var mnemonic = "barely source begin vintage warm two suit essay arrow wide off moral";

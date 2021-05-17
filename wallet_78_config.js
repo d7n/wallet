@@ -1,1 +1,1 @@
-var mnemonic = "slush earn mimic junk pact thing tree guide shrug bleak slow intact";
+var mnemonic = "express wonder grape cement rude soul element fetch paddle else fringe detail";

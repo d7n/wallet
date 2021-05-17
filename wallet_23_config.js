@@ -1,1 +1,1 @@
-var mnemonic = "spoil casual treat space omit pottery civil discover grant collect rib ripple";
+var mnemonic = "coach foster access transfer okay lift unlock avocado exit broken tornado truth";

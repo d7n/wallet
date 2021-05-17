@@ -1,1 +1,1 @@
-var mnemonic = "lottery front rookie grid popular swim economy december bracket empty birth vendor";
+var mnemonic = "glare palm accuse bamboo debate teach victory focus heart bomb cheese small";
