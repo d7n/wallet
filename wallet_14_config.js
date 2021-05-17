@@ -1,1 +1,1 @@
-var mnemonic = "expire broom direct slow panda quality rose night gym nurse canyon draft";
+var mnemonic = "lock service scrub suspect wheel pipe exclude drive seek team pattern ill";

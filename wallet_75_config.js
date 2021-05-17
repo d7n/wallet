@@ -1,1 +1,1 @@
-var mnemonic = "humor torch plastic soda balance mercy pool decade female leaf tooth whip";
+var mnemonic = "antique shop mansion tuna cattle oxygen fancy spider curtain layer anxiety menu";

@@ -1,1 +1,1 @@
-var mnemonic = "west return already melt foam hamster lock ghost together sadness dream habit";
+var mnemonic = "praise become thumb camera bronze during steak fold slogan ankle degree miracle";

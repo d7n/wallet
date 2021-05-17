@@ -1,1 +1,1 @@
-var mnemonic = "black kid seminar purse kit dwarf fence shallow leader hollow song capital";
+var mnemonic = "shoe sunset fashion prefer forget angle author nest height boss stone setup";

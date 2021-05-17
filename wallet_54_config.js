@@ -1,1 +1,1 @@
-var mnemonic = "run bike hurdle change word hurry catch suspect impulse sample stay library";
+var mnemonic = "purpose depart rice notable isolate cute mountain season equip false fabric cannon";

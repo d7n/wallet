@@ -1,1 +1,1 @@
-var mnemonic = "dignity fee bronze wrap scissors route town outside gold nest pilot hidden";
+var mnemonic = "sound pledge door just isolate swing cliff neglect elbow tone trumpet alone";

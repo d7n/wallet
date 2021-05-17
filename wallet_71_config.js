@@ -1,1 +1,1 @@
-var mnemonic = "subway panda witness give quantum amateur manual tooth pepper avoid science endless";
+var mnemonic = "build oak finger fruit lock patient broken excess tent cloth excite bar";

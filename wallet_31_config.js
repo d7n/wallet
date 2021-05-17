@@ -1,1 +1,1 @@
-var mnemonic = "usage bench slide volcano place slide doctor orient about museum verb distance";
+var mnemonic = "federal ice dinner domain lady engage horse oil figure flush fame fruit";

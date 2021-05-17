@@ -1,1 +1,1 @@
-var mnemonic = "where neither inform loyal supply gym stamp urban spread later trouble robot";
+var mnemonic = "outdoor brief shock found hotel fitness print unusual pumpkin test false describe";

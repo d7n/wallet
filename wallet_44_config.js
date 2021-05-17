@@ -1,1 +1,1 @@
-var mnemonic = "artist knee analyst vessel trumpet arctic velvet hungry planet just festival stove";
+var mnemonic = "mutual supply dance thought lyrics genre glove gauge minimum spice stumble magnet";

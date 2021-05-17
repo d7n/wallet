@@ -1,1 +1,1 @@
-var mnemonic = "bus wish cable ranch teach pudding ethics there bright cup aisle valve";
+var mnemonic = "adapt spray frog illegal once ecology milk husband dinner select often cargo";

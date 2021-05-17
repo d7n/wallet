@@ -1,1 +1,1 @@
-var mnemonic = "category unknown gate air firm avocado leisure victory arrow vintage mistake raccoon";
+var mnemonic = "indoor explain future valley face hand grocery area nerve hazard camp lemon";

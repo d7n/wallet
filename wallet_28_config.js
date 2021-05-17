@@ -1,1 +1,1 @@
-var mnemonic = "build radio lazy best identify dinosaur exact today edge wet floor author";
+var mnemonic = "craft across extra tent symptom phrase antique ticket arm brass window blind";

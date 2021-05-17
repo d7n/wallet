@@ -1,1 +1,1 @@
-var mnemonic = "love glory life husband mushroom write virus more fatal three alone clip";
+var mnemonic = "job worth funny share water timber artefact frozen era photo labor truck";

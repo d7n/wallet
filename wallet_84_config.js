@@ -1,1 +1,1 @@
-var mnemonic = "next people spirit lounge creek mouse plastic warrior bitter talent energy rude";
+var mnemonic = "front slogan actress path giraffe alarm lizard ship orient wise audit panic";

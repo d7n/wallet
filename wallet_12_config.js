@@ -1,1 +1,1 @@
-var mnemonic = "duck depth run prevent satoshi harvest forget typical jacket radar thrive demise";
+var mnemonic = "output matter confirm danger source wrestle desert secret vote infant desert trigger";

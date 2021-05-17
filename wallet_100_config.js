@@ -1,1 +1,1 @@
-var mnemonic = "process board van deal can glove float business leader swarm garage situate";
+var mnemonic = "chat emerge train invite juice portion fiction nature also upgrade action list";

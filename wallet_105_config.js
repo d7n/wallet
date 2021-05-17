@@ -1,1 +1,1 @@
-var mnemonic = "wish elephant involve impulse industry address world ceiling guitar please suggest injury";
+var mnemonic = "rail economy novel cradle plunge glue eye mimic leaf turn spoil wash";

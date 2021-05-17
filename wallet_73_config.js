@@ -1,1 +1,1 @@
-var mnemonic = "island ugly number woman connect cheap amazing knock similar scheme butter divert";
+var mnemonic = "jump frozen rocket symbol primary melody gospel exact orange reduce annual tumble";

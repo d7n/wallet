@@ -1,1 +1,1 @@
-var mnemonic = "then exotic screen define federal ramp fossil hazard exercise message eagle fragile";
+var mnemonic = "anchor abandon flight about armed card mean gown defense boy mistake april";

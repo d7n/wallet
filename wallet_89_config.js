@@ -1,1 +1,1 @@
-var mnemonic = "market front since wear brand code purse love chef motor glove cage";
+var mnemonic = "awake tenant winter verb ritual border you world defy liar space orphan";

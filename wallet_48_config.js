@@ -1,1 +1,1 @@
-var mnemonic = "celery evil report key drill imitate where fruit leave dwarf spread bean";
+var mnemonic = "food giraffe head then pass palace push fiscal year odor bag add";

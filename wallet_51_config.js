@@ -1,1 +1,1 @@
-var mnemonic = "address ridge glad today spell grain reunion rail squirrel truck clock page";
+var mnemonic = "gossip aerobic unhappy begin tape pave kangaroo test provide reform cannon author";

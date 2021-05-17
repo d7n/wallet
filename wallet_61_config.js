@@ -1,1 +1,1 @@
-var mnemonic = "lottery crash champion tell frog mean monkey error radar thunder judge service";
+var mnemonic = "interest rude athlete bamboo gate noble shiver ethics advice priority uniform feel";

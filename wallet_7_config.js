@@ -1,1 +1,1 @@
-var mnemonic = "vehicle animal vintage case wish venue network grocery cream gospel category segment";
+var mnemonic = "siege aunt sudden tape retire shield return umbrella sing impose loop spirit";

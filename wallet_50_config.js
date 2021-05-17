@@ -1,1 +1,1 @@
-var mnemonic = "sing upgrade beef olympic sick calm claim globe myself hold aunt invite";
+var mnemonic = "protect country bone strategy almost swear quantum medal chunk uphold engage memory";

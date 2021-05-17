@@ -1,1 +1,1 @@
-var mnemonic = "cat toe game equal riot example soccer symptom about talk vacuum drift";
+var mnemonic = "tattoo wonder wheat notice animal fossil galaxy force short ghost feature affair";

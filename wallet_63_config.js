@@ -1,1 +1,1 @@
-var mnemonic = "insane exit inspire mail fabric rigid festival cherry maple elephant flee sudden";
+var mnemonic = "teach fatigue calm opera fog flush hockey hockey rare beef bean oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "box color march hedgehog equal board embody mammal fatigue nature govern more";
+var mnemonic = "phone jaguar become legal hood text number remove monster swing cash erase";

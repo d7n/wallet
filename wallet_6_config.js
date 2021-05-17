@@ -1,1 +1,1 @@
-var mnemonic = "prepare reward lawsuit patrol sort own fat pulse argue weapon average link";
+var mnemonic = "history wasp spring expose act copy cage diet special media round choose";

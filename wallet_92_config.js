@@ -1,1 +1,1 @@
-var mnemonic = "physical update worry potato course twelve manage quick impulse uncover island airport";
+var mnemonic = "moral valid cabin adjust example subject obey include elevator rice screen vacant";

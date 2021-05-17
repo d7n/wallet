@@ -1,1 +1,1 @@
-var mnemonic = "scare oblige yard side cause health gas despair era milk pelican scare";
+var mnemonic = "vehicle mistake blouse oblige enemy matrix letter excess phrase profit skate love";

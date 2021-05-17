@@ -1,1 +1,1 @@
-var mnemonic = "remind neck trip private few modify club tooth flush avoid message swap";
+var mnemonic = "year half glory rebuild color elbow clarify surface exercise blossom giant attack";

@@ -1,1 +1,1 @@
-var mnemonic = "art tornado select height luggage luxury gasp brick risk order shed rookie";
+var mnemonic = "breeze shield eternal island inmate february card mercy consider wife smoke brush";

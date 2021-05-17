@@ -1,1 +1,1 @@
-var mnemonic = "spatial absorb struggle few vivid general require spray bread sail identify ranch";
+var mnemonic = "time stereo sketch morning once crash era gesture dizzy rug noodle embody";

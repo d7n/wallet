@@ -1,1 +1,1 @@
-var mnemonic = "rally reflect expose bargain gesture cinnamon march remain fall immense drift merit";
+var mnemonic = "cat unknown aerobic hurdle mention tool half sing chief caution unlock mule";

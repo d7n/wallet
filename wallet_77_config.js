@@ -1,1 +1,1 @@
-var mnemonic = "moment rhythm audit coconut scare credit fabric cost ticket must large decrease";
+var mnemonic = "south punch amount palm swim image grit reduce differ next chef man";

@@ -1,1 +1,1 @@
-var mnemonic = "figure lounge edge ill truth device surprise stand vast topic scrub fuel";
+var mnemonic = "knife delay dumb mind evil faint impose boost symbol define invest pelican";

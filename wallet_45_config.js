@@ -1,1 +1,1 @@
-var mnemonic = "online govern book ginger lift clip axis deposit guitar diamond describe average";
+var mnemonic = "unusual electric finish until notable layer jump east artist first sad figure";

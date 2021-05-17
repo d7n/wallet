@@ -1,1 +1,1 @@
-var mnemonic = "actress tiger film opinion live orchard latin once receive tiger promote faint";
+var mnemonic = "mad extend turtle imitate torch observe stadium police pigeon stone crystal old";

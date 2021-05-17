@@ -1,1 +1,1 @@
-var mnemonic = "require news kidney nation hole best father inch color never merit drink";
+var mnemonic = "error cute toe valve tank lift awkward kick wish burden unhappy discover";

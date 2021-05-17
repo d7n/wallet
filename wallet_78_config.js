@@ -1,1 +1,1 @@
-var mnemonic = "oil bounce ethics aunt danger snake run horse couple coral empty lady";
+var mnemonic = "ugly amazing bread exhaust another nose fury net oil tilt march front";

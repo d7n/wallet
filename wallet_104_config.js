@@ -1,1 +1,1 @@
-var mnemonic = "brisk lumber smoke humor print avocado flower cancel antenna fence guard fault";
+var mnemonic = "exact response violin script benefit arrange oyster bind trim idle distance oppose";

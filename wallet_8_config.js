@@ -1,1 +1,1 @@
-var mnemonic = "fuel follow action toward egg nasty choice kiss whale about pumpkin place";
+var mnemonic = "labor shoe dune breeze book sail check fish life moon clerk skate";

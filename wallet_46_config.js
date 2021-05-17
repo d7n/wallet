@@ -1,1 +1,1 @@
-var mnemonic = "approve match screen logic message ranch claw renew puzzle magic blast worry";
+var mnemonic = "uphold perfect gauge evoke purity cup inner demise loan middle celery host";

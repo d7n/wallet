@@ -1,1 +1,1 @@
-var mnemonic = "smoke tooth tree depend sense minor web tiger harvest fantasy horror step";
+var mnemonic = "recipe food decorate bike essence fury empower machine shoot ready around turn";

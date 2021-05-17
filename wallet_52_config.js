@@ -1,1 +1,1 @@
-var mnemonic = "primary loop runway resemble avocado odor correct picnic alarm secret erosion feed";
+var mnemonic = "quality reopen oppose praise proud weekend spy try reduce hour scrub surge";

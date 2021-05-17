@@ -1,1 +1,1 @@
-var mnemonic = "twin flat april siren foster boil person light reward flat lady buffalo";
+var mnemonic = "vintage profit term solution fish confirm tape minute input already toast joy";

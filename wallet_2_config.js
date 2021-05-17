@@ -1,1 +1,1 @@
-var mnemonic = "release artwork position such kit dumb tent fatigue exotic luxury help salon";
+var mnemonic = "wise donor wave switch uphold promote note motion three soft social assist";

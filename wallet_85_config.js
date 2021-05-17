@@ -1,1 +1,1 @@
-var mnemonic = "amount ocean duck tent awful champion top great cereal island ill buddy";
+var mnemonic = "cement protect foot swallow inch lyrics young word jeans rebuild wish simple";

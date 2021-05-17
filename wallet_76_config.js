@@ -1,1 +1,1 @@
-var mnemonic = "snake flee bottom hat debris shift install grape chief weasel seminar amazing";
+var mnemonic = "witness fly invest brush stairs afford asset proud radar combine tiger dad";

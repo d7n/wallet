@@ -1,1 +1,1 @@
-var mnemonic = "sleep sing demand course street cool laugh brand trim ring thought raven";
+var mnemonic = "stock sunset age crucial box enlist since stumble pattern maze valley giggle";

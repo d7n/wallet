@@ -1,1 +1,1 @@
-var mnemonic = "gravity stairs loud relax ill barrel speed occur grass sting basic auction";
+var mnemonic = "aim wrestle ecology tumble extra will reveal price lesson quit penalty trick";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm major gym series kitchen echo cheap desk tonight style coil shy";
+var mnemonic = "fashion festival genius kingdom family mention urge shift venture neck figure hammer";

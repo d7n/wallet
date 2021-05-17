@@ -1,1 +1,1 @@
-var mnemonic = "music youth rapid phrase token rebuild swing catch enhance rack gospel ordinary";
+var mnemonic = "culture blade tone armor owner novel toe birth swap nice gesture bulk";

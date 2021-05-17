@@ -1,1 +1,1 @@
-var mnemonic = "monster plate roof loop cinnamon siege rabbit diagram maple stamp hope mimic";
+var mnemonic = "upon long distance flee hello tilt raven carpet change depart wish hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "renew regret pencil funny rent flash library thrive clean join carpet leg";
+var mnemonic = "top matter delay kiwi typical side truly equal flag turkey actor smart";

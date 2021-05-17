@@ -1,1 +1,1 @@
-var mnemonic = "slim dance pledge chronic kit pond jelly satoshi example indoor version amused";
+var mnemonic = "grape coast still loop merge aisle way move answer limit visual leisure";

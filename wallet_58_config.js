@@ -1,1 +1,1 @@
-var mnemonic = "silver candy payment neither alter curtain fortune record outer silent vacuum reveal";
+var mnemonic = "orchard skill behind spare senior sense review forum mass twice paddle quarter";

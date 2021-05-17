@@ -1,1 +1,1 @@
-var mnemonic = "hurdle cactus design dry garage birth sign music width cost purse install";
+var mnemonic = "engage fade nut fog evil unaware roast split nurse opinion surface apart";

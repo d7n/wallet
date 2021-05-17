@@ -1,1 +1,1 @@
-var mnemonic = "hope price file matter online tourist success blouse winter casual glad aspect";
+var mnemonic = "seat winner upgrade apple grit trim ridge ladder check mother olive praise";

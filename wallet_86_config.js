@@ -1,1 +1,1 @@
-var mnemonic = "between toddler inflict ladder lumber tenant embody smoke bless spoil wait sketch";
+var mnemonic = "water inflict copper hawk tomato topple leaf remove daughter endless congress claw";

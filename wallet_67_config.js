@@ -1,1 +1,1 @@
-var mnemonic = "pelican belt finger bind ramp police always window dress tape reveal diesel";
+var mnemonic = "leader arm kitten young man rose hungry debate collect bike search start";

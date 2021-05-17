@@ -1,1 +1,1 @@
-var mnemonic = "fever liar clog tomorrow property mobile bread refuse season weapon shoe shiver";
+var mnemonic = "defense protect coconut chronic sand noise faint cargo image front satisfy copper";

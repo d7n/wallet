@@ -1,1 +1,1 @@
-var mnemonic = "suspect december brass worry nothing quote mammal nothing wheel sheriff coil pizza";
+var mnemonic = "warfare swift fix imitate found language view taste weekend piece brain undo";

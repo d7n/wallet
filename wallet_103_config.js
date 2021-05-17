@@ -1,1 +1,1 @@
-var mnemonic = "magnet about milk race nest turn bicycle deputy tell roof become banner";
+var mnemonic = "elephant pepper first vacuum thought way divert test truck pitch erupt combine";

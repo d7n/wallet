@@ -1,1 +1,1 @@
-var mnemonic = "loan garment leader siren toss document stick inmate lady present argue reopen";
+var mnemonic = "surprise vibrant crunch pond elite cushion poverty stone camera dirt august reunion";

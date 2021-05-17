@@ -1,1 +1,1 @@
-var mnemonic = "walk marriage black toilet bounce goddess coffee other leader slot flag sauce";
+var mnemonic = "slide dance hammer orange surface defy seek glue clog safe nose forward";

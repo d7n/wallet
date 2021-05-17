@@ -1,1 +1,1 @@
-var mnemonic = "picture analyst soft deal usual car rug lazy scare enforce page history";
+var mnemonic = "tiny shop verb toss elegant lady april thumb effort isolate slogan stuff";

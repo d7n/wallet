@@ -1,1 +1,1 @@
-var mnemonic = "avocado family swamp blade chalk leave upgrade monkey easily guitar brief myth";
+var mnemonic = "member erupt person symptom ketchup banana wagon profit cost claw mail scale";

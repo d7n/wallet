@@ -1,1 +1,1 @@
-var mnemonic = "stand salt beyond outer rally mango quantum spoil pet announce viable resource";
+var mnemonic = "section salon speak type remain define glue grape crisp spy parent divorce";

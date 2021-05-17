@@ -1,1 +1,1 @@
-var mnemonic = "ocean wear please drastic speak group limb joy antique sweet witness cliff";
+var mnemonic = "nest antenna cart dizzy nasty ginger bounce honey idle record toast nation";

@@ -1,1 +1,1 @@
-var mnemonic = "curve attack foil tattoo rifle stay grant tonight mutual silver outdoor scissors";
+var mnemonic = "unknown hold athlete local harbor gift obscure manual dolphin broccoli warm reflect";

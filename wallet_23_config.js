@@ -1,1 +1,1 @@
-var mnemonic = "diamond benefit day acquire actress fly organ regret strike huge emotion drum";
+var mnemonic = "pioneer foot start kidney ozone quiz source all cross copper squirrel jump";

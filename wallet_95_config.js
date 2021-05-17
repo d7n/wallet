@@ -1,1 +1,1 @@
-var mnemonic = "ribbon display february leopard bench pill define fruit stone mobile fat favorite";
+var mnemonic = "curious build soap above health can fuel knife celery visual permit broken";

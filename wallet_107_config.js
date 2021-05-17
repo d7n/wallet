@@ -1,1 +1,1 @@
-var mnemonic = "bone direct patient slab adapt advice canoe tree almost size multiply monster";
+var mnemonic = "film method add busy dwarf vintage bid deer ill puppy unfold town";

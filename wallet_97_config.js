@@ -1,1 +1,1 @@
-var mnemonic = "hospital field health drive faith flag oyster laundry crowd another surprise just";
+var mnemonic = "frost squeeze stand feed rotate door brick phrase awful core note tourist";

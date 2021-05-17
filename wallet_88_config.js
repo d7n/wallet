@@ -1,1 +1,1 @@
-var mnemonic = "panel jelly swap harsh robot pool main drastic question deny clay concert";
+var mnemonic = "decade charge bamboo false valve bright mosquito suffer beef primary forget glare";

@@ -1,1 +1,1 @@
-var mnemonic = "intact code carry pistol spray supply cotton gorilla harsh glad advance senior";
+var mnemonic = "derive acid decorate trial city february weekend library ceiling leg junior ketchup";

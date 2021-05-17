@@ -1,1 +1,1 @@
-var mnemonic = "rug ten ensure mixture truly behave wash inquiry spot blind convince vessel";
+var mnemonic = "satisfy doctor vast impose cactus truck vacuum fly wet either embrace angle";

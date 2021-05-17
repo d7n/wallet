@@ -1,1 +1,1 @@
-var mnemonic = "energy duty worth explain party exist differ curve plastic awful oyster bracket";
+var mnemonic = "now saddle escape unique kite bid issue wrong gain grab organ glove";

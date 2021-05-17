@@ -1,1 +1,1 @@
-var mnemonic = "seminar olympic kind fresh bachelor museum noble wolf choose adult all manage";
+var mnemonic = "inmate give young hard vanish unique announce close priority ostrich execute salt";

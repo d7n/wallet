@@ -1,1 +1,1 @@
-var mnemonic = "arch velvet poet sugar ten parent core illegal slender wing popular home";
+var mnemonic = "blossom eager lava place space glove cotton wealth mosquito praise short another";

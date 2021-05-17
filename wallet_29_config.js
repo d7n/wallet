@@ -1,1 +1,1 @@
-var mnemonic = "coconut switch sword rose regular tank remain luxury level bomb wasp snow";
+var mnemonic = "column faint beauty own orient absurd sick april web must weapon mixture";

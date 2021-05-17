@@ -1,1 +1,1 @@
-var mnemonic = "genius employ roof mesh float leader version find notable blouse ignore merry";
+var mnemonic = "hunt middle license tornado identify lazy sausage laundry exhibit urge topple pluck";

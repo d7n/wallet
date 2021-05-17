@@ -1,1 +1,1 @@
-var mnemonic = "joke adapt welcome input artist evil clutch mad damage chief tilt wage";
+var mnemonic = "version mirror reflect omit gas aim steel sadness physical regular bamboo pretty";

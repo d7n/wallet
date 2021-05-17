@@ -1,1 +1,1 @@
-var mnemonic = "surge actress high heart control enhance music lazy patient defense brain sure";
+var mnemonic = "curtain honey enhance key dash town picture embody depth allow fame issue";

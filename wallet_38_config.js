@@ -1,1 +1,1 @@
-var mnemonic = "spray cream allow suspect wear remain cage betray tonight mother club island";
+var mnemonic = "flip decide turkey area cable control fatigue access flash ready bubble shy";
