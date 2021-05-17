@@ -1,1 +1,1 @@
-var mnemonic = "obvious emotion fantasy banner hen input buddy stand floor venue family nerve";
+var mnemonic = "ahead piece cereal modify tank day fetch agent remember jazz defy earth";

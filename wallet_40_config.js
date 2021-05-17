@@ -1,1 +1,1 @@
-var mnemonic = "broom riot pear coconut master eager enjoy rubber win quantum easy discover";
+var mnemonic = "shadow tank ill become wire coil catalog tuna canyon dinosaur parrot note";

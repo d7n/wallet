@@ -1,1 +1,1 @@
-var mnemonic = "material table arm timber slam grow hat economy topic online later practice";
+var mnemonic = "chunk video mind nature people exact load table auction letter start rough";

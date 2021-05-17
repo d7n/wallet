@@ -1,1 +1,1 @@
-var mnemonic = "stuff pause strategy weapon load vocal admit giggle gaze winner tissue reflect";
+var mnemonic = "ability charge weapon piano divert impact imitate blur lecture pulse black until";

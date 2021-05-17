@@ -1,1 +1,1 @@
-var mnemonic = "frame keen inherit judge guilt series agent upper virtual main maze front";
+var mnemonic = "emerge mad sword tray inject human mystery blood average top cloth clock";

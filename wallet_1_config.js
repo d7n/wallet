@@ -1,1 +1,1 @@
-var mnemonic = "kingdom table half pencil basic flavor visa want small athlete betray motion";
+var mnemonic = "angle base tuna argue roast memory close review attend want zebra permit";

@@ -1,1 +1,1 @@
-var mnemonic = "climb marine left catch cry bomb quote junior mule tongue box people";
+var mnemonic = "intact note snake coconut jewel elegant access festival liberty topple symptom parent";

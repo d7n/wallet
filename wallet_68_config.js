@@ -1,1 +1,1 @@
-var mnemonic = "fruit stove sunset traffic jacket sail miracle jump vanish guide disease trade";
+var mnemonic = "announce include story cruel icon table pig glue raven judge pave side";

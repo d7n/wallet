@@ -1,1 +1,1 @@
-var mnemonic = "kite foster casual leg honey balcony picnic arrow razor museum reflect domain";
+var mnemonic = "fan thank notice collect basket cram balcony symbol seven penalty distance light";

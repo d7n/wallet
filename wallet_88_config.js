@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow visit nasty vehicle weasel click cover weird approve only okay relief";
+var mnemonic = "scout inner arrive mandate cigar ice cost indoor grow mutual leg hold";

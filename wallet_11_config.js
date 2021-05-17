@@ -1,1 +1,1 @@
-var mnemonic = "sleep crush venture advance notice edge muscle trash merge razor grunt dress";
+var mnemonic = "child away annual total elite safe jealous mirror advice fragile brand elephant";

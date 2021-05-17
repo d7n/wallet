@@ -1,1 +1,1 @@
-var mnemonic = "tattoo oyster good enforce laptop little thunder scissors aware person idea cat";
+var mnemonic = "size velvet ride upper lab purse chair sock entry come birth album";

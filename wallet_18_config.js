@@ -1,1 +1,1 @@
-var mnemonic = "floor sense aspect shed fever future tag about search anger salute park";
+var mnemonic = "frozen upon amount result fitness burger weird coconut major toast jaguar observe";

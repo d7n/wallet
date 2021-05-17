@@ -1,1 +1,1 @@
-var mnemonic = "dream hat detect govern olympic home caution seek swift shed cable mushroom";
+var mnemonic = "mass potato valley route clump pair public misery slide immense yellow razor";

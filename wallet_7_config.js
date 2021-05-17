@@ -1,1 +1,1 @@
-var mnemonic = "coil badge rubber loud catch inject boat rookie wonder ship endless climb";
+var mnemonic = "energy eager denial shine attend good avocado garbage obtain tooth acid clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "dice thing finger steak lobster deputy order reduce december current flash water";
+var mnemonic = "immense moon wish space child media notable elephant female easily insect cup";

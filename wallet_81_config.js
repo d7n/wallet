@@ -1,1 +1,1 @@
-var mnemonic = "hub waste oyster woman rigid aerobic explain music erupt broom grief butter";
+var mnemonic = "dentist select loyal tiger olympic dove together chest crouch casino enroll goat";

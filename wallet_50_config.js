@@ -1,1 +1,1 @@
-var mnemonic = "describe anxiety secret legal spend actress borrow balance double fat proud drop";
+var mnemonic = "citizen collect rescue chunk fence budget rare wink luxury tragic artist soon";

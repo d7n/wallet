@@ -1,1 +1,1 @@
-var mnemonic = "unhappy play enter globe panda force swap addict angry kitchen fish rescue";
+var mnemonic = "iron labor shoe announce lab course employ potato clog rocket senior problem";

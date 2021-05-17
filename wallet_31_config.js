@@ -1,1 +1,1 @@
-var mnemonic = "airport liquid hunt trend tonight until acquire advice news foot wait couch";
+var mnemonic = "gun mail pelican fiscal trap dress keep try join merit social powder";

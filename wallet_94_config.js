@@ -1,1 +1,1 @@
-var mnemonic = "ignore proud lizard plastic dinner distance turtle quit snake weekend modify crew";
+var mnemonic = "require bridge giant abuse garbage test left sphere student theory tree cricket";

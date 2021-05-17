@@ -1,1 +1,1 @@
-var mnemonic = "bulb blur work lab memory deliver uncover tobacco left bonus indoor hard";
+var mnemonic = "advice auto throw real modify plastic door dragon caution pilot occur fortune";

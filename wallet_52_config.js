@@ -1,1 +1,1 @@
-var mnemonic = "all face poet rural seminar pause piece use exhaust ostrich burden biology";
+var mnemonic = "across lamp pattern gold mail beyond evoke someone able dynamic pelican detect";

@@ -1,1 +1,1 @@
-var mnemonic = "figure burden blouse black grow pull glove add giant picnic balance odor";
+var mnemonic = "tribe manual host ginger mask exact million pause rate brass home base";

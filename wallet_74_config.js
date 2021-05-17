@@ -1,1 +1,1 @@
-var mnemonic = "nerve attend iron village nose wedding agree renew dish valid thumb moon";
+var mnemonic = "receive reopen flock upgrade random then inform reform february carbon gaze guess";

@@ -1,1 +1,1 @@
-var mnemonic = "response dragon comic evil possible culture surface mind unknown reform basic electric";
+var mnemonic = "grab hover rent flash carbon bid step horror pilot unknown immense vintage";

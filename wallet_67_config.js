@@ -1,1 +1,1 @@
-var mnemonic = "add once ritual airport worth fee use labor essay balance wait equip";
+var mnemonic = "unveil help inmate flee couch slab chuckle evolve tool tourist control help";

@@ -1,1 +1,1 @@
-var mnemonic = "circle board sunny debate upgrade range ecology century online like denial hedgehog";
+var mnemonic = "motor wedding danger imitate whip execute dune toast shrug hundred song album";

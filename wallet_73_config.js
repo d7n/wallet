@@ -1,1 +1,1 @@
-var mnemonic = "high already vague program diamond fatigue voice tag envelope scheme afford extend";
+var mnemonic = "draw crowd include sound monkey penalty salmon unaware foster alarm labor wheat";

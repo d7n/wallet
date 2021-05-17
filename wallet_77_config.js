@@ -1,1 +1,1 @@
-var mnemonic = "quit split isolate tragic sort fashion shuffle suggest state pool rifle rural";
+var mnemonic = "hole fox fresh call tiny lizard speak occur problem awake velvet fade";

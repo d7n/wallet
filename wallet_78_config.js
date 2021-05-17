@@ -1,1 +1,1 @@
-var mnemonic = "shadow moment rebuild photo diet document remind solar excite worth crisp pigeon";
+var mnemonic = "extend mask impact squeeze analyst clerk bulb oil sugar increase slim clock";

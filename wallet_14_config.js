@@ -1,1 +1,1 @@
-var mnemonic = "cricket steak milk sure timber emerge key wrap ring blind fiction budget";
+var mnemonic = "merry slot camp athlete text noodle hunt anchor page mind duck charge";

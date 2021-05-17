@@ -1,1 +1,1 @@
-var mnemonic = "ozone theory marriage match surround chair brain ceiling panel fine aim light";
+var mnemonic = "item trust wheat again credit exclude organ start guilt duty auto item";

@@ -1,1 +1,1 @@
-var mnemonic = "output orchard gallery time fire soccer mandate dice sunset gasp narrow fold";
+var mnemonic = "scare notice club brick few mother learn vanish concert sick deal badge";

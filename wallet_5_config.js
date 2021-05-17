@@ -1,1 +1,1 @@
-var mnemonic = "humble scissors wage clip trade enrich absent shop use chalk diet actor";
+var mnemonic = "oak cup unit unaware divide century fashion divorce choice inquiry first faculty";

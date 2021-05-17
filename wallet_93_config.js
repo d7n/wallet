@@ -1,1 +1,1 @@
-var mnemonic = "maple client bacon local aunt sail coast blade oven have grab nothing";
+var mnemonic = "tragic file music critic promote hand bulk bronze argue observe hungry modify";

@@ -1,1 +1,1 @@
-var mnemonic = "subject pill addict actual siege treat cheap mandate lucky toward solar shallow";
+var mnemonic = "source guitar repair steel load harsh pepper category diesel gown filter mushroom";

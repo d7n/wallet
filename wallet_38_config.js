@@ -1,1 +1,1 @@
-var mnemonic = "fortune record mail talent endless dirt capable ramp degree barely must denial";
+var mnemonic = "culture evidence awkward change pyramid glow obscure digital rebuild story love battle";

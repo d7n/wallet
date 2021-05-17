@@ -1,1 +1,1 @@
-var mnemonic = "curve oxygen window amazing cloth family eight pair empower certain truly carry";
+var mnemonic = "strike frown very tobacco train solve ranch illegal tongue beach life nasty";

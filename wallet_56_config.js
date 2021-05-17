@@ -1,1 +1,1 @@
-var mnemonic = "offer ordinary gas fossil notable tattoo name gap decide auto guess lunch";
+var mnemonic = "gun engage solar tourist make dinner soldier square promote announce merge muffin";

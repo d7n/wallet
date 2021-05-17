@@ -1,1 +1,1 @@
-var mnemonic = "column twelve render basket name vital shiver prepare pilot laptop wink slender";
+var mnemonic = "slot ghost armed empower chunk main cargo lend endorse style fix nurse";

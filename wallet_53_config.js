@@ -1,1 +1,1 @@
-var mnemonic = "curious sketch inside pink weasel noodle basic approve verb spirit immune chronic";
+var mnemonic = "love alert project champion ocean gap agree mobile clap never pony feel";

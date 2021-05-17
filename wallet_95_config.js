@@ -1,1 +1,1 @@
-var mnemonic = "expect fatigue clerk happy confirm nuclear fish find ranch sand ghost length";
+var mnemonic = "earn tomorrow hope brief silent explain antique art ocean pledge abandon paper";

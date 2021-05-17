@@ -1,1 +1,1 @@
-var mnemonic = "garage scorpion seven car angle skull eye odor inch proof blossom evidence";
+var mnemonic = "battle leisure height price athlete response avoid acoustic recall sail zoo give";

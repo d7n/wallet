@@ -1,1 +1,1 @@
-var mnemonic = "gossip female squirrel truly govern myth armed effort save toy apology divorce";
+var mnemonic = "alone elbow morning during island movie donkey raw reason setup lumber oblige";

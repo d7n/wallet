@@ -1,1 +1,1 @@
-var mnemonic = "novel lonely assume under life gap maple maid room brush torch worry";
+var mnemonic = "impose duck evil teach stone feature goat power flush blade vocal office";

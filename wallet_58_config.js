@@ -1,1 +1,1 @@
-var mnemonic = "fortune surge brain program load arrest trouble true youth sunny rookie coast";
+var mnemonic = "tortoise pool bench uniform churn slow cool order addict conduct exit drama";

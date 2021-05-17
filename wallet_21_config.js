@@ -1,1 +1,1 @@
-var mnemonic = "before vast nuclear pig dose foster segment current employ salon decline kingdom";
+var mnemonic = "laugh legal cook elegant junior manage citizen deer color shallow crew bunker";

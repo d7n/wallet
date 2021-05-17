@@ -1,1 +1,1 @@
-var mnemonic = "corn cash toss spread grain ship diamond soda hello between eager noodle";
+var mnemonic = "slim hamster vessel meat trumpet pride elegant asset maze trial fine execute";

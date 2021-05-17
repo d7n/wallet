@@ -1,1 +1,1 @@
-var mnemonic = "calm same gesture egg neck consider equip direct mention must clarify goddess";
+var mnemonic = "scissors arch shield tornado second excuse sing naive step nasty wealth team";

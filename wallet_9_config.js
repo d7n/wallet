@@ -1,1 +1,1 @@
-var mnemonic = "senior cattle despair raccoon genre ignore crouch session flash language soon gentle";
+var mnemonic = "gadget bulk gadget armed eight desert race airport select elevator dolphin actor";

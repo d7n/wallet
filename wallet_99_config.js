@@ -1,1 +1,1 @@
-var mnemonic = "wrap love unable music birth census analyst fresh gown bachelor silly monkey";
+var mnemonic = "fortune alter attitude wreck sword camp force blood cake identify cloth demand";

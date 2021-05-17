@@ -1,1 +1,1 @@
-var mnemonic = "smoke know reduce learn cheese post enlist spatial clown dose stem okay";
+var mnemonic = "seek protect very destroy special tenant girl close pink crumble melody network";

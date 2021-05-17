@@ -1,1 +1,1 @@
-var mnemonic = "sausage unknown flame enemy concert garbage gift broom teach depend vapor awake";
+var mnemonic = "puppy update alone hunt circle ten arrow senior country leaf twin debris";

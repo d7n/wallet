@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pelican despair inject art fuel chase runway share twelve despair estate";
+var mnemonic = "charge dynamic place clog submit trap smooth circle drive exit fragile solid";

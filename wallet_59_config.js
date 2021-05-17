@@ -1,1 +1,1 @@
-var mnemonic = "note exhaust scheme vibrant debate pink mother price basic around lyrics moon";
+var mnemonic = "refuse stairs crash chimney arrange green rich erase deal maximum range wife";

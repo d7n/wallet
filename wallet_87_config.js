@@ -1,1 +1,1 @@
-var mnemonic = "salon amused please spare draft plug viable truck ridge canoe high veteran";
+var mnemonic = "few convince loyal alpha devote toast case okay gauge castle antique object";

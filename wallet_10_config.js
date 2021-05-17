@@ -1,1 +1,1 @@
-var mnemonic = "plastic upon face stable swallow virtual roof federal uniform novel hat ability";
+var mnemonic = "weapon number race notable split mule suspect matter impact metal battle result";

@@ -1,1 +1,1 @@
-var mnemonic = "crush relief quit thought pass hamster weapon lady keen mesh exile pluck";
+var mnemonic = "sister cash fork swift vault country soup weapon vote demise purse mansion";

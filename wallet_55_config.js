@@ -1,1 +1,1 @@
-var mnemonic = "true primary wasp nest entire arctic onion diet velvet regret disagree cry";
+var mnemonic = "matter disorder rabbit bench genuine exhaust sample advice anger slow tube dutch";

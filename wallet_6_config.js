@@ -1,1 +1,1 @@
-var mnemonic = "party text cactus ring scatter usual monster panel pretty pulse typical tiny";
+var mnemonic = "vague uncle feature rain apart pistol phrase coil visual insane bundle attitude";

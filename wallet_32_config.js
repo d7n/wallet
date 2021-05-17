@@ -1,1 +1,1 @@
-var mnemonic = "layer blouse lab isolate bind dolphin right say notice mind bench start";
+var mnemonic = "old alpha surround help female prepare zero drive buyer speak charge monitor";

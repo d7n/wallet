@@ -1,1 +1,1 @@
-var mnemonic = "find famous oak forget steel change task alcohol any local afford amazing";
+var mnemonic = "answer budget toilet imitate reflect pair nice next rubber dumb lamp snake";

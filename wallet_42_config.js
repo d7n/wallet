@@ -1,1 +1,1 @@
-var mnemonic = "crazy duty alien couch lecture provide range know arrow segment parrot leave";
+var mnemonic = "vacuum grow proof more broken spot grain grit apology lend catalog hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "much eternal flash course donor vanish embark water habit slim ball carry";
+var mnemonic = "diary abuse mix either close coach midnight world wedding job demand few";

@@ -1,1 +1,1 @@
-var mnemonic = "since exhaust female aerobic trip around tide reflect smoke flat banana afford";
+var mnemonic = "exercise beauty table fragile connect people flavor whip diamond arrow butter flower";

@@ -1,1 +1,1 @@
-var mnemonic = "finish pole cry floor define liberty purse sand actor twice pony path";
+var mnemonic = "motion toward repeat square panda comic that around atom sustain common turn";

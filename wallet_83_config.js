@@ -1,1 +1,1 @@
-var mnemonic = "brick matter artwork empty slide vintage guide flight forum electric affair loud";
+var mnemonic = "adapt decrease pluck sustain swift dice power joke summer antenna upon believe";

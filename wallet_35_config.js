@@ -1,1 +1,1 @@
-var mnemonic = "lecture exercise alarm recipe scan knock brown armor aerobic pill marriage wish";
+var mnemonic = "level six test cart suspect torch puppy whisper add bunker worry struggle";

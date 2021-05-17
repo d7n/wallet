@@ -1,1 +1,1 @@
-var mnemonic = "doctor quarter effort lunch appear cage muffin shed baby height wisdom blush";
+var mnemonic = "loyal cram process hole dress evolve cousin crumble frog safe car print";

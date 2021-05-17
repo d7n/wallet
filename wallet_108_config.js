@@ -1,1 +1,1 @@
-var mnemonic = "bridge expect rose life kitten world layer oil photo inquiry humble diamond";
+var mnemonic = "else width iron alter electric hill decade embody vanish control stone noodle";

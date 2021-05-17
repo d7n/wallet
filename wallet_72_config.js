@@ -1,1 +1,1 @@
-var mnemonic = "screen ozone kid fan digital small elevator sweet identify rebuild laptop author";
+var mnemonic = "twin guard belt fruit embrace ladder donkey story bomb belt exhaust second";

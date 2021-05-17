@@ -1,1 +1,1 @@
-var mnemonic = "collect silly diet finish salon limb grow barrel chronic floor unaware own";
+var mnemonic = "second cinnamon distance rack breeze any robot country scrap learn market melt";

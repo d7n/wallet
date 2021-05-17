@@ -1,1 +1,1 @@
-var mnemonic = "photo cycle huge smooth manual exhaust pond fog length album mansion clarify";
+var mnemonic = "high stem case expose jewel juice process exercise leopard now civil ready";

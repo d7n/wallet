@@ -1,1 +1,1 @@
-var mnemonic = "differ surprise crush follow nature soon civil confirm lottery bracket file panic";
+var mnemonic = "invite custom display shrug talent waste ribbon path need okay science wise";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror away gloom broken champion erosion milk border mosquito blame meat target";
+var mnemonic = "crime atom frozen test visit nature gas order spend rabbit upset cousin";

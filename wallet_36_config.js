@@ -1,1 +1,1 @@
-var mnemonic = "wreck monster mixture uncle series alley outdoor fever able absurd flavor say";
+var mnemonic = "chronic amateur tortoise fork follow monster violin shove move glass heavy soda";

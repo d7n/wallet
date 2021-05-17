@@ -1,1 +1,1 @@
-var mnemonic = "word forget item wash weapon include limit plunge depth cereal goat feature";
+var mnemonic = "powder squeeze credit alcohol advance settle medal unknown blush repair train stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "easy truly design photo evolve assault fence whale light dutch bless antique";
+var mnemonic = "minute image impose square march popular saddle repair damage invite solid tent";

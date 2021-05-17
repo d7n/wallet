@@ -1,1 +1,1 @@
-var mnemonic = "champion stage erase box borrow middle wasp kidney behave small coach blue";
+var mnemonic = "insect chalk seven web coil reward agree adjust smooth drive property mask";

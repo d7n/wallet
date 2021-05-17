@@ -1,1 +1,1 @@
-var mnemonic = "insane goose lonely skate glass expire answer hill amateur ensure coil asthma";
+var mnemonic = "album skate swarm pottery ride clarify labor mean detail you donkey nature";

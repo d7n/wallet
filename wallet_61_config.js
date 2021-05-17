@@ -1,1 +1,1 @@
-var mnemonic = "lemon poet shift argue slogan shell direct prosper economy word twice candy";
+var mnemonic = "gospel stand husband excuse seek thought paper below screen ethics awkward muscle";

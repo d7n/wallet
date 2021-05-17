@@ -1,1 +1,1 @@
-var mnemonic = "grass again protect medal firm organ trophy mixed oven pear dirt car";
+var mnemonic = "install canoe beauty present crash must much undo elite culture stem cake";

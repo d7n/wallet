@@ -1,1 +1,1 @@
-var mnemonic = "pudding foil phrase embrace morning random relief rich toy mutual visa foot";
+var mnemonic = "rookie sphere deer garment fork can hedgehog tank pond congress below solar";

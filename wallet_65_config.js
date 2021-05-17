@@ -1,1 +1,1 @@
-var mnemonic = "near science else quarter carry say provide cross bleak predict deer unfair";
+var mnemonic = "perfect artwork tackle scrub entire machine pencil oppose grit barely noodle face";

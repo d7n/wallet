@@ -1,1 +1,1 @@
-var mnemonic = "measure best quantum erode initial pact middle grow earn dish increase drift";
+var mnemonic = "steak clap fox enable main club butter process february female execute trash";

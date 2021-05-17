@@ -1,1 +1,1 @@
-var mnemonic = "follow one paddle vintage control soldier huge advice melt crack injury result";
+var mnemonic = "before fury print butter proud occur trust cousin humor amount south drama";

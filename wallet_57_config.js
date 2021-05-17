@@ -1,1 +1,1 @@
-var mnemonic = "cradle reform impulse version warm dumb boil entire island trap team stereo";
+var mnemonic = "fresh enough carpet cliff history sugar impose copy learn stuff sudden budget";
