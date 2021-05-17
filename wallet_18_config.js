@@ -1,1 +1,1 @@
-var mnemonic = "random term lizard lawsuit wood pony fantasy lake clean case wide iron";
+var mnemonic = "argue thought flee airport nothing gorilla curve unfair staff task copper ordinary";

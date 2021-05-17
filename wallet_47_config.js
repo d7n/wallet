@@ -1,1 +1,1 @@
-var mnemonic = "grass episode process easily night multiply rotate uncover tuna arrange bacon clarify";
+var mnemonic = "win average twelve gorilla level economy garlic session truck hub shield beach";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich attack enforce canal hammer mention will list antique angry accident thumb";
+var mnemonic = "real fold quit spawn skirt smooth resist daughter unfair attack economy rescue";

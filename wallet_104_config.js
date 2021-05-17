@@ -1,1 +1,1 @@
-var mnemonic = "match polar donkey ridge entire economy weird silly fashion work cinnamon hamster";
+var mnemonic = "captain else evolve much critic enable hurdle boil melody side fun spare";

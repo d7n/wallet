@@ -1,1 +1,1 @@
-var mnemonic = "cycle awake slab erupt devote bullet enable flip ahead remember salt empty";
+var mnemonic = "machine maid oxygen crop portion clock scissors stem knock gadget very fun";

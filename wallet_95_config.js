@@ -1,1 +1,1 @@
-var mnemonic = "drill group word deliver equip goat radio multiply soldier sick used core";
+var mnemonic = "orphan tongue butter cigar innocent abstract provide naive used kit rack clarify";

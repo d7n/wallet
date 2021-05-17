@@ -1,1 +1,1 @@
-var mnemonic = "local million slide spray success cherry adjust decline income fiber over debate";
+var mnemonic = "put notable fetch below senior bracket nature window candy taste guess client";

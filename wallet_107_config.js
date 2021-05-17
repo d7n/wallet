@@ -1,1 +1,1 @@
-var mnemonic = "portion good enforce enough more craft intact sphere shrimp become carpet drift";
+var mnemonic = "notable express van alone throw limit dumb sibling harsh coin square raise";

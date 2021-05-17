@@ -1,1 +1,1 @@
-var mnemonic = "train jungle option example brand brother tomorrow finish edit argue dress fantasy";
+var mnemonic = "public scrap jazz snap together device mention avoid nothing water wire across";

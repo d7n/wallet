@@ -1,1 +1,1 @@
-var mnemonic = "glare surge head display sample casual first enemy speed welcome range false";
+var mnemonic = "lock actress beyond retreat card whale private parent emotion faith arrange film";

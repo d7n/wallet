@@ -1,1 +1,1 @@
-var mnemonic = "key fiber party creek drop cage audit shell awful service refuse asthma";
+var mnemonic = "upon boil outside mule inmate hamster main daughter bus call cabin peace";

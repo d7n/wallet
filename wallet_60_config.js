@@ -1,1 +1,1 @@
-var mnemonic = "siege add glide mixed benefit artefact worry miss order correct must swallow";
+var mnemonic = "actual you flush culture scrub coffee junk month always street maid cruel";

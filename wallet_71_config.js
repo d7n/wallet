@@ -1,1 +1,1 @@
-var mnemonic = "urban galaxy label sting bread sudden hospital hazard switch turkey media paper";
+var mnemonic = "fix glove cart chuckle hybrid piece avocado toward admit link desk copy";

@@ -1,1 +1,1 @@
-var mnemonic = "patient attitude index ghost live fiction anchor pink cause grunt finish resemble";
+var mnemonic = "orchard mule garbage online spatial blame ability winter own gas thumb entry";

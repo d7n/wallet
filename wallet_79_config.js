@@ -1,1 +1,1 @@
-var mnemonic = "unusual example embody pluck sock twenty liar typical envelope soldier swamp wool";
+var mnemonic = "essence speed limb destroy trick clutch defense ball gaze seek gain rescue";

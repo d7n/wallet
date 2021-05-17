@@ -1,1 +1,1 @@
-var mnemonic = "direct body fruit spring never brisk album sniff goddess attitude deputy group";
+var mnemonic = "tower myself news ceiling notice capable tribe lesson eager bulk tank pulp";

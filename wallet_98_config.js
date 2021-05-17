@@ -1,1 +1,1 @@
-var mnemonic = "sauce matrix dash result bubble music auto right apart confirm home detail";
+var mnemonic = "palm combine voice syrup tomorrow armed degree sweet diet reflect horn zone";

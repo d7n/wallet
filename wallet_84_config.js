@@ -1,1 +1,1 @@
-var mnemonic = "chapter immune embrace cradle rare dutch scorpion clap only cave flag all";
+var mnemonic = "offer round enough height lens capable broken sustain jar warm treat boost";

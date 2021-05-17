@@ -1,1 +1,1 @@
-var mnemonic = "shoulder city narrow fox paper pink suffer alone replace yard service gaze";
+var mnemonic = "pool supply parade ethics tiger flat put host practice account spatial focus";

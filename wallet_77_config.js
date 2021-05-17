@@ -1,1 +1,1 @@
-var mnemonic = "habit regret fox panel kind such diesel demise curious spell rail lawn";
+var mnemonic = "achieve abuse into spice artefact lift real fringe jelly strong friend cluster";

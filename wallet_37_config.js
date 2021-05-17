@@ -1,1 +1,1 @@
-var mnemonic = "oblige mirror crush swamp exhaust twist dream asset slam devote spice physical";
+var mnemonic = "boy cement salute humor firm error exhibit tiger typical whisper collect chunk";

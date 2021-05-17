@@ -1,1 +1,1 @@
-var mnemonic = "dignity race coconut quit rack habit elite journey menu twelve dune fee";
+var mnemonic = "fruit hello rebel bunker notable clown medal fringe glory announce accident capital";

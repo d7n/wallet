@@ -1,1 +1,1 @@
-var mnemonic = "imitate kick setup angry olympic income kind brand job there nerve clever";
+var mnemonic = "begin balance smooth boring length alone august coin man humble north once";

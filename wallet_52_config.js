@@ -1,1 +1,1 @@
-var mnemonic = "gasp feature vote butter robot cradle bid spray summer census moral stairs";
+var mnemonic = "sunny elder feel also income agent pyramid simple release pair travel tent";

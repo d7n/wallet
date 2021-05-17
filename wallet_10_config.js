@@ -1,1 +1,1 @@
-var mnemonic = "enroll north whale lawn stand list hat unusual upon skirt jewel cash";
+var mnemonic = "use receive swamp assault urban head spring bright fire top column orbit";

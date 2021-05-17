@@ -1,1 +1,1 @@
-var mnemonic = "clump stable embark labor nerve sign hundred village round witness purse claw";
+var mnemonic = "used april author extra spray helmet cook say tray barrel want push";

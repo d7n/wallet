@@ -1,1 +1,1 @@
-var mnemonic = "exact guess three quit salute sweet source emotion arrest stem pact cactus";
+var mnemonic = "valid duty inflict normal night number width survey whale fury orient love";

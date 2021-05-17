@@ -1,1 +1,1 @@
-var mnemonic = "retreat apology history chat slow version kick blur fold super split adult";
+var mnemonic = "icon angry weekend noble sister chicken iron view swallow prison demise teach";

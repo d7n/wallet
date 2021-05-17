@@ -1,1 +1,1 @@
-var mnemonic = "win lounge paper salad tip amazing water example property exercise alter utility";
+var mnemonic = "elephant fetch pattern coin pretty survey lonely dash risk detail space have";

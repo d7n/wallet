@@ -1,1 +1,1 @@
-var mnemonic = "video this twist brick carbon silly cram ramp upper sea glue ancient";
+var mnemonic = "marine alert stock interest section cotton kite debris repeat tuition attitude true";

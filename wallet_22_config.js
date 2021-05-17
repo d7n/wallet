@@ -1,1 +1,1 @@
-var mnemonic = "push sight clerk supreme desk actual corn yard laundry shallow skate day";
+var mnemonic = "pyramid mass system embark hire enjoy sea wrong annual method noble term";

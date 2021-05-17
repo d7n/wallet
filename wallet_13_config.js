@@ -1,1 +1,1 @@
-var mnemonic = "orient film depth lyrics travel soon glove toy buffalo helmet marine swift";
+var mnemonic = "fiction claw phone fantasy answer become purpose blind tomorrow remind mechanic front";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny strategy danger vote bachelor remember view skin broccoli latin egg bracket";
+var mnemonic = "often matrix brisk door leaf guess slow movie secret column angle frown";

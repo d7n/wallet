@@ -1,1 +1,1 @@
-var mnemonic = "armor real assume scan victory move famous cupboard vendor piece charge bring";
+var mnemonic = "during mom token canal final clown above because small speed scrub close";

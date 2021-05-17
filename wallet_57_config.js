@@ -1,1 +1,1 @@
-var mnemonic = "inch suffer stone educate attract setup dawn pencil census quiz juice basket";
+var mnemonic = "sniff fitness slab cannon million leg chat bundle summer number hamster image";

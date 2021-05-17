@@ -1,1 +1,1 @@
-var mnemonic = "audit normal cinnamon diamond rocket sort mammal useful useless shine creek business";
+var mnemonic = "flag height mom grow obvious settle recall metal insane because uphold high";

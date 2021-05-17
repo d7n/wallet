@@ -1,1 +1,1 @@
-var mnemonic = "quick yard other wagon divorce album waste smooth foster roast elder tongue";
+var mnemonic = "sniff access vocal issue quantum also panel reduce select wife resemble mom";

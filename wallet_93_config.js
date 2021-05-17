@@ -1,1 +1,1 @@
-var mnemonic = "battle order grant enemy mansion mail either dinosaur guilt toy road alert";
+var mnemonic = "demand bone salad letter arena flight across clerk hat spot pen drive";

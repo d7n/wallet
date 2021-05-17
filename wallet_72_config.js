@@ -1,1 +1,1 @@
-var mnemonic = "valve entire claw hurdle dawn catch apart road decade carry arrow civil";
+var mnemonic = "immense cry dog infant doll pony stereo actress one occur execute hurt";

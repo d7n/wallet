@@ -1,1 +1,1 @@
-var mnemonic = "math figure hungry devote door safe across funny master cross rule twelve";
+var mnemonic = "moral memory comfort critic turn finish wreck vessel title half close elite";

@@ -1,1 +1,1 @@
-var mnemonic = "cram hunt horn miss sort year entry call chair mom barely across";
+var mnemonic = "bone evil thrive bike snack match ticket result barrel iron wreck lamp";

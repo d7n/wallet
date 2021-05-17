@@ -1,1 +1,1 @@
-var mnemonic = "seed odor dawn cycle cluster veteran acoustic must artefact swing build cannon";
+var mnemonic = "vapor stereo dizzy fluid punch slab escape dream laptop vibrant smart deposit";

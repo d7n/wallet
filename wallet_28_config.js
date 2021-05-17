@@ -1,1 +1,1 @@
-var mnemonic = "country equip season mad behave rain chalk harvest neutral bracket equip dizzy";
+var mnemonic = "law exchange advice promote ring language mail total settle stock what client";

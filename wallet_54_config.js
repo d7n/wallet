@@ -1,1 +1,1 @@
-var mnemonic = "engage glide ecology power drip victory rough spoon stuff pause ring image";
+var mnemonic = "ocean when patrol execute observe disorder risk style risk stool black oil";

@@ -1,1 +1,1 @@
-var mnemonic = "unit proud gallery submit doctor praise segment wash dolphin hope must fabric";
+var mnemonic = "track enforce used scrub wreck swallow grunt dirt match balance chest multiply";

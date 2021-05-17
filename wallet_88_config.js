@@ -1,1 +1,1 @@
-var mnemonic = "profit broken flock pilot series possible fiscal promote long remind female vessel";
+var mnemonic = "area pill kiss change cable immense estate person pave merit glory just";

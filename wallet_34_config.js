@@ -1,1 +1,1 @@
-var mnemonic = "interest erosion slice situate neck doctor purse tennis october during main legal";
+var mnemonic = "warrior slab nominee swear section daring drive raven pretty segment minor flight";

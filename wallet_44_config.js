@@ -1,1 +1,1 @@
-var mnemonic = "early enter now blue divide animal mother glass gold fade risk agree";
+var mnemonic = "stove grass evolve wrong expose session mimic provide build lab stomach output";

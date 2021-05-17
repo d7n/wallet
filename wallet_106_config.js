@@ -1,1 +1,1 @@
-var mnemonic = "diesel snake elephant pluck decrease fruit mobile neck limb clarify artefact rack";
+var mnemonic = "payment collect mosquito dose bicycle deposit goddess canoe clock erupt tray swear";

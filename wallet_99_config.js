@@ -1,1 +1,1 @@
-var mnemonic = "lonely omit budget tube laugh car topic electric apology arrow unaware trick";
+var mnemonic = "vessel glad what aunt expire absurd depth advance attitude write name skin";

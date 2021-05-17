@@ -1,1 +1,1 @@
-var mnemonic = "disagree game slogan hold eyebrow fiction sorry kid hello ranch daring spider";
+var mnemonic = "license staff long police priority slender material torch there impose traffic couch";

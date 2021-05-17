@@ -1,1 +1,1 @@
-var mnemonic = "thunder symptom sure theme sing future fuel cool under bus hire endorse";
+var mnemonic = "elevator swear lemon situate acquire electric salon dynamic penalty mistake fame nut";

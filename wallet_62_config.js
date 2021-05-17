@@ -1,1 +1,1 @@
-var mnemonic = "test already vintage dignity kingdom usage nature clog disagree voyage isolate approve";
+var mnemonic = "idea whale transfer love rally accident swap shrimp hidden rich seek accuse";

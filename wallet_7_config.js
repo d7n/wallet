@@ -1,1 +1,1 @@
-var mnemonic = "only bright afford town hole toddler sibling loud predict cruel creek camera";
+var mnemonic = "bind ghost wagon insect syrup afraid curtain pact loan guard also girl";

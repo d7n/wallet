@@ -1,1 +1,1 @@
-var mnemonic = "wink still unfair pact tomorrow bike all try exhibit fever sniff random";
+var mnemonic = "assume pelican curtain escape purpose cluster spend firm romance wool near fit";

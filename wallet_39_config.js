@@ -1,1 +1,1 @@
-var mnemonic = "butter maze spider father tuna record mind there hamster couch point flag";
+var mnemonic = "lesson enter nerve talk document slam duck margin rice thrive online peace";

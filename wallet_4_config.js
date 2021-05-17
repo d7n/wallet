@@ -1,1 +1,1 @@
-var mnemonic = "warfare very lady few syrup humor doctor salute carpet media hotel mountain";
+var mnemonic = "antenna morning now pulse legal length chaos toast sail unit hedgehog maze";

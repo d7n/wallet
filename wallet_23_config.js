@@ -1,1 +1,1 @@
-var mnemonic = "hope orbit siren toast tonight isolate document divorce tired shine loan tenant";
+var mnemonic = "frost minimum scout bind kind actual neglect enroll prize asset simple pill";

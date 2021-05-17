@@ -1,1 +1,1 @@
-var mnemonic = "electric cotton invest lunch minute resemble road noise tag attack excuse purpose";
+var mnemonic = "bind jewel chaos exclude surprise merge enable depart lift lunar taste want";

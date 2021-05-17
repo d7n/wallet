@@ -1,1 +1,1 @@
-var mnemonic = "run update strong ostrich forget border blind bike chef alien poet swing";
+var mnemonic = "vivid toddler click park screen choose crop assist sunset normal galaxy upon";

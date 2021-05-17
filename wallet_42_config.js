@@ -1,1 +1,1 @@
-var mnemonic = "recall garbage merry heavy catalog text top state quiz degree faculty coyote";
+var mnemonic = "conduct hurt blouse bus creek nose oxygen cushion post purpose entire copper";

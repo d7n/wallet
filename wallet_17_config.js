@@ -1,1 +1,1 @@
-var mnemonic = "good kick eternal desert pattern second hurdle alpha abuse tired cannon topple";
+var mnemonic = "brain sleep travel picture pepper true engine school code young visual clump";

@@ -1,1 +1,1 @@
-var mnemonic = "valve rare civil stand situate useless phone barely voyage unit machine bitter";
+var mnemonic = "purity slim mosquito secret prevent nut can cereal hover elephant leg spend";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic skull reject luggage few alone pretty open crater stool combine purchase";
+var mnemonic = "confirm razor weird expect obey guard scorpion gaze myself volume hospital tonight";

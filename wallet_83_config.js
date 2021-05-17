@@ -1,1 +1,1 @@
-var mnemonic = "absorb distance gauge wool gentle merit young merry piano curious harsh exact";
+var mnemonic = "portion sun pen demise flight insect deposit gloom divorce nothing mercy armed";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone raccoon limb toward enforce inject size ancient zoo file shoulder slam";
+var mnemonic = "soul second outer child canyon public auction end biology child danger rent";

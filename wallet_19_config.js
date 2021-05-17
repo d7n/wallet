@@ -1,1 +1,1 @@
-var mnemonic = "scale garlic aware embrace bid screen industry hospital excite gallery seat exhaust";
+var mnemonic = "camp random human brief coil disease sock outside suffer team potato deer";

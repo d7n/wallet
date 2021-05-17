@@ -1,1 +1,1 @@
-var mnemonic = "daring panda boost ensure song coffee spend awkward orange behave thing good";
+var mnemonic = "mask legend vague force wrap undo chaos cigar device harvest minor present";

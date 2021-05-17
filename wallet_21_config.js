@@ -1,1 +1,1 @@
-var mnemonic = "snack mimic casino perfect cotton brother orient method embrace wreck loan parrot";
+var mnemonic = "buyer silly quantum east surge ivory fire palace language cricket awake post";

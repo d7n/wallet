@@ -1,1 +1,1 @@
-var mnemonic = "foot ribbon clean chief there tube swim boil mammal catalog mango labor";
+var mnemonic = "penalty puzzle twenty pyramid above dial tool sausage pear key uniform arena";

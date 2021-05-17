@@ -1,1 +1,1 @@
-var mnemonic = "script tribe federal enroll feature cancel ring taxi couch north chest anchor";
+var mnemonic = "other update basket stay equal art soon quote lazy clip dish need";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard double collect frown mixture foam owner arctic news park wasp index";
+var mnemonic = "mansion zero just aunt reject symbol whisper top fly skirt release chair";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue use laugh parade poverty club beach switch interest crawl coconut million";
+var mnemonic = "judge hint narrow pond ecology response heavy supreme tomorrow citizen powder east";

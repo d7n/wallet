@@ -1,1 +1,1 @@
-var mnemonic = "throw fine discover enlist between nerve profit age whale innocent state carry";
+var mnemonic = "raise rubber cereal wheel anxiety coral aware exile club easy cluster language";

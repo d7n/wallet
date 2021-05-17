@@ -1,1 +1,1 @@
-var mnemonic = "climb poverty reunion emotion organ voice rival equal swap artefact they input";
+var mnemonic = "soon color accuse capital identify modify tell wash prison baby couple burden";

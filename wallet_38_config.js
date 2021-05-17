@@ -1,1 +1,1 @@
-var mnemonic = "reopen gold slice cannon thought below lyrics audit ride organ upper elevator";
+var mnemonic = "theory crucial lift arrive effort vessel student smooth scene enable enrich release";

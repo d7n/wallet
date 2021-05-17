@@ -1,1 +1,1 @@
-var mnemonic = "robot place nothing token chat clarify future key panda maximum marble mercy";
+var mnemonic = "horse maze weird either require sauce turn turn monkey trust expire rug";

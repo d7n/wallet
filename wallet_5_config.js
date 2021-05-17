@@ -1,1 +1,1 @@
-var mnemonic = "long steel load praise section unusual labor toward author else agree result";
+var mnemonic = "mixture agree enforce lyrics demise pride crunch avoid kid label breeze liar";

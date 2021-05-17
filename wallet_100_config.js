@@ -1,1 +1,1 @@
-var mnemonic = "cross trick curtain material rug clown museum deliver buddy fold turkey visa";
+var mnemonic = "dumb mention where sweet lava axis velvet text future nose seminar canyon";

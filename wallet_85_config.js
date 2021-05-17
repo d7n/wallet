@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cute way attitude paddle student novel install romance onion danger video";
+var mnemonic = "dress myth lunar develop vague remain power dice horror crop ahead naive";

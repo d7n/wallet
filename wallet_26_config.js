@@ -1,1 +1,1 @@
-var mnemonic = "ice hammer allow decorate phrase female guilt document aware feature change jar";
+var mnemonic = "illness insane electric milk vicious bulk property require tornado flip knife royal";

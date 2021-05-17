@@ -1,1 +1,1 @@
-var mnemonic = "salon used below gorilla goose amateur social mimic diet crime lecture elbow";
+var mnemonic = "frozen include drastic chunk popular drift dune analyst income blush merry sense";

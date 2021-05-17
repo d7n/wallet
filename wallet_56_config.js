@@ -1,1 +1,1 @@
-var mnemonic = "badge holiday inflict offer tackle nothing cup shrimp display reject nephew ozone";
+var mnemonic = "scrap miss note pyramid foster fan dirt lemon cube collect okay gather";

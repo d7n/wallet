@@ -1,1 +1,1 @@
-var mnemonic = "festival illness lunch differ indicate solid tackle limit chapter secret hamster heavy";
+var mnemonic = "illegal nut leg floor matter rapid tornado coach wave ritual soup lucky";
