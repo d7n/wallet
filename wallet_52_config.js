@@ -1,1 +1,1 @@
-var mnemonic = "belt bacon sight six stage author region quality conduct first maple will";
+var mnemonic = "empower size vast blame east deer gym frost arrow puzzle radar phone";

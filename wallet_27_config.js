@@ -1,1 +1,1 @@
-var mnemonic = "ill home window foot rapid gym candy game weird plunge payment sphere";
+var mnemonic = "divert collect tenant box tag valid spend buffalo camera lounge rib pretty";

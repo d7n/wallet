@@ -1,1 +1,1 @@
-var mnemonic = "runway emerge alley drink horror rescue trust brave fancy oven squirrel supply";
+var mnemonic = "verify special scout shove amused learn jacket lottery truth better dragon cereal";

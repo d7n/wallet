@@ -1,1 +1,1 @@
-var mnemonic = "kitchen siren script middle recycle deposit chaos sun foster swim immense era";
+var mnemonic = "absent hub relax floor crush nephew pepper idea quit earn sadness middle";

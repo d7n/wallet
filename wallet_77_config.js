@@ -1,1 +1,1 @@
-var mnemonic = "suit figure spike spread deposit loyal help upset siren close skull rose";
+var mnemonic = "fox during such life breeze only slice explain try way coach double";

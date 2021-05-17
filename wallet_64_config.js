@@ -1,1 +1,1 @@
-var mnemonic = "verb also square crew someone daughter thumb today capital learn pear smoke";
+var mnemonic = "sister steel tide combine limb buyer hip drift silent drastic lawn spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely hockey small gossip wait letter attack gossip scene foil super problem";
+var mnemonic = "mule month fall essence right primary result ring output distance best job";

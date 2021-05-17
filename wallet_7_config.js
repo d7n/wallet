@@ -1,1 +1,1 @@
-var mnemonic = "trash visit dash trick friend snake this blade weapon melody purpose alone";
+var mnemonic = "busy great hub funny minute tackle ghost boring sibling boat volcano subway";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair alone push glass kidney effort priority caught hello drop cupboard drill";
+var mnemonic = "dish arrange cigar pool range embark random connect flee switch light lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious raise inquiry pear scrub equip card else aim bird cereal casual";
+var mnemonic = "hill sad fiction soup cabin mean degree found state general route what";

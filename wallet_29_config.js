@@ -1,1 +1,1 @@
-var mnemonic = "cycle rookie amused question airport poem badge prepare twenty satisfy sausage slim";
+var mnemonic = "still ritual hint battle lava else shoulder lizard decline evidence cloud style";

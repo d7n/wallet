@@ -1,1 +1,1 @@
-var mnemonic = "tower critic penalty interest airport speed pizza hour ladder skill laptop scout";
+var mnemonic = "cactus local enroll belt poet hawk invest edit soda panic trumpet ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "effort bone hero sun diesel sausage feel series muscle cousin spike twist";
+var mnemonic = "fine night youth surround helmet sword away grass veteran forward goddess federal";

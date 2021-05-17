@@ -1,1 +1,1 @@
-var mnemonic = "fresh afford soft enlist exile battle chuckle track stock delay bicycle spoil";
+var mnemonic = "profit boil popular romance aspect abstract addict frozen cupboard balance direct lawsuit";

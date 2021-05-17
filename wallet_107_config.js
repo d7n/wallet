@@ -1,1 +1,1 @@
-var mnemonic = "federal hobby little coast endorse notable love balance churn soul oil entire";
+var mnemonic = "elite space income brisk concert science repair drift long cute acoustic vault";

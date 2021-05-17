@@ -1,1 +1,1 @@
-var mnemonic = "chuckle okay clown bless trust leisure runway furnace journey eager film claw";
+var mnemonic = "dad raccoon alcohol chronic sense cook lunar trial candy brief destroy spy";

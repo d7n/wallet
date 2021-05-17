@@ -1,1 +1,1 @@
-var mnemonic = "dial leaf dwarf bright average success chronic basket syrup wire lobster yellow";
+var mnemonic = "disease duck sibling cradle bridge broken cable damp diet siege aware crew";

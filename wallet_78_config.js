@@ -1,1 +1,1 @@
-var mnemonic = "palm lawn silk pride atom decide dolphin wish try lizard cause sail";
+var mnemonic = "dream scrap leopard truck desk bottom atom exit pole elevator stairs relax";

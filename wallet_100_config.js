@@ -1,1 +1,1 @@
-var mnemonic = "ripple earn joke winter two machine notice neglect broccoli fruit toward ostrich";
+var mnemonic = "merry sentence present paper tobacco chase will annual dragon survey news eight";

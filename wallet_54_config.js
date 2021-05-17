@@ -1,1 +1,1 @@
-var mnemonic = "fault rescue ladder celery convince silver range float riot gather adult upset";
+var mnemonic = "kid staff private patient like loop famous receive fun abandon custom ocean";

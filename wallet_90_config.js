@@ -1,1 +1,1 @@
-var mnemonic = "thing seat glove step dove code display hat proud match cram shy";
+var mnemonic = "salon loud expand decorate bargain okay deal saddle enhance ceiling sugar matter";

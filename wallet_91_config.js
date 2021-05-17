@@ -1,1 +1,1 @@
-var mnemonic = "funny learn sister play crouch camera hurt sustain brand soul hour barely";
+var mnemonic = "hub father draft save van wait calm table family between tragic pattern";

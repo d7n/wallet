@@ -1,1 +1,1 @@
-var mnemonic = "hungry steak thumb ramp scatter cargo syrup slam share deal cushion resemble";
+var mnemonic = "measure scatter leaf distance hair fence churn bless pepper giant company spare";

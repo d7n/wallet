@@ -1,1 +1,1 @@
-var mnemonic = "need auction myth dinosaur flash awesome physical swear common captain obvious deny";
+var mnemonic = "fitness decorate orient surprise build keen waste shrug prosper stuff gather web";

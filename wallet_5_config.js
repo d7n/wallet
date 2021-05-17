@@ -1,1 +1,1 @@
-var mnemonic = "mass pumpkin group cream win ability crowd wisdom attend mercy broccoli fatal";
+var mnemonic = "allow pipe glow cannon sausage prefer powder gain crush riot wrap basic";

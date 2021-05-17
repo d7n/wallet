@@ -1,1 +1,1 @@
-var mnemonic = "symptom now proof name abandon iron spy wink drastic alter label allow";
+var mnemonic = "april gaze follow camera patrol left proof earth switch visit impulse program";

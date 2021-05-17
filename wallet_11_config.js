@@ -1,1 +1,1 @@
-var mnemonic = "entire kidney used erupt home tuna about connect lava easy letter impose";
+var mnemonic = "express come recipe lock field soccer culture evoke bean craft print common";

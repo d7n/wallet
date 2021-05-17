@@ -1,1 +1,1 @@
-var mnemonic = "one car sustain patient battle frequent engine impose stadium robust body december";
+var mnemonic = "cry march coin cloth elder bounce sail cluster broccoli soda error rocket";

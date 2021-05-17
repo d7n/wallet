@@ -1,1 +1,1 @@
-var mnemonic = "buyer sing analyst visa impose glance steel throw zoo thrive ketchup cupboard";
+var mnemonic = "poem skill rookie bridge clay keep boy silent control carry museum among";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz box noodle define oxygen start mobile hand october vague prosper metal";
+var mnemonic = "wreck imitate bubble wish daughter achieve hidden maple mule cradle tragic ecology";

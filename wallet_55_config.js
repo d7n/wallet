@@ -1,1 +1,1 @@
-var mnemonic = "lion belt siege present dentist super duty chef endorse candy garage error";
+var mnemonic = "coconut orange mule lecture nerve extend bronze depart real shed portion nothing";

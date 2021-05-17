@@ -1,1 +1,1 @@
-var mnemonic = "what squeeze ramp fork between clarify congress repeat boat shoe color diesel";
+var mnemonic = "expire reject soul drastic vague knock endorse fiction tilt vanish lab craft";

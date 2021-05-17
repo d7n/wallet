@@ -1,1 +1,1 @@
-var mnemonic = "sentence critic mass garlic ordinary fortune federal heavy earth angle slab crack";
+var mnemonic = "know observe follow common fire model swallow weekend six cancel duty security";

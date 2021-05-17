@@ -1,1 +1,1 @@
-var mnemonic = "rate pond staff tray foil swarm capable fly switch guess curve jealous";
+var mnemonic = "involve profit silver fitness gallery loan sea april half answer barely remind";

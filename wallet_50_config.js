@@ -1,1 +1,1 @@
-var mnemonic = "size exercise tribe burst velvet item zero settle agree tube tribe lazy";
+var mnemonic = "twin matrix onion panic warrior inform actress decade wave hero jar ordinary";

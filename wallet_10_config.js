@@ -1,1 +1,1 @@
-var mnemonic = "bless hire venture wagon bird estate shock simple matrix raven barely mirror";
+var mnemonic = "seminar thank gadget twelve impulse image want scissors fire when oppose gospel";

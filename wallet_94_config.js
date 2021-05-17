@@ -1,1 +1,1 @@
-var mnemonic = "habit caught mushroom input subject myth gravity path into head helmet poet";
+var mnemonic = "salt language matrix toddler soul term analyst october differ mansion foil cave";

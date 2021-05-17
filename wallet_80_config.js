@@ -1,1 +1,1 @@
-var mnemonic = "angry annual open enable vessel slogan biology smoke keep mimic safe harbor";
+var mnemonic = "soldier defense upgrade pitch detail wing margin rally minor meat mandate promote";

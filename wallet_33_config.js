@@ -1,1 +1,1 @@
-var mnemonic = "mean phone regret online snow phone true dismiss book reason chapter behave";
+var mnemonic = "grow hunt aisle hammer skull deliver wolf skate lesson onion venue message";

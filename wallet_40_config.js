@@ -1,1 +1,1 @@
-var mnemonic = "soup long few cliff happy lift cart junk coin churn media address";
+var mnemonic = "armor achieve city aware silent pear grow bundle indicate matrix prize dice";

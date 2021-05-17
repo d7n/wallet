@@ -1,1 +1,1 @@
-var mnemonic = "silver region champion gap vault orchard fox disorder foot north ivory talent";
+var mnemonic = "very gallery scare orbit scale cheese orient hurt wire sleep demand jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "long report order unlock captain ankle fortune wagon ensure move solar capable";
+var mnemonic = "enemy sight creek sad cushion snap rich anger clock boy gaze secret";

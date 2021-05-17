@@ -1,1 +1,1 @@
-var mnemonic = "adult rotate reflect liberty square mesh fabric one cook comic head attend";
+var mnemonic = "wrist twenty artefact flavor clean kidney stand cash august dizzy galaxy vague";

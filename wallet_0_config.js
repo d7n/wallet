@@ -1,1 +1,1 @@
-var mnemonic = "swear story come vocal endless solar treat gift audit key input snap";
+var mnemonic = "payment sock salt glass sausage shoulder vessel crew cram hip machine siren";

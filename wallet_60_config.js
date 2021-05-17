@@ -1,1 +1,1 @@
-var mnemonic = "praise female wagon dutch act crash gauge obtain casino midnight rally route";
+var mnemonic = "target unable deposit anchor involve pencil ability left fine congress trophy alien";

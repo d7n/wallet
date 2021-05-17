@@ -1,1 +1,1 @@
-var mnemonic = "bubble anchor tackle side code caught february cheap violin puzzle frown raise";
+var mnemonic = "head grief until focus guilt share nominee april tuna advance allow cry";

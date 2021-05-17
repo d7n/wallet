@@ -1,1 +1,1 @@
-var mnemonic = "ask napkin liberty intact meat opera drive scan fence design limit inform";
+var mnemonic = "grow kangaroo usual sock jump draw property parrot buffalo survey frown problem";

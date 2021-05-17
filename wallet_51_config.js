@@ -1,1 +1,1 @@
-var mnemonic = "orbit reason combine inside benefit arrive thought believe journey attract cradle nephew";
+var mnemonic = "obey weasel dizzy patch flee whip unusual gift endless dust abuse sentence";

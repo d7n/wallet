@@ -1,1 +1,1 @@
-var mnemonic = "during neglect horror exhibit chunk oven material dance misery fun suspect autumn";
+var mnemonic = "sound loyal parade sauce off moment aerobic patch lady camera pause pyramid";

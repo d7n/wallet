@@ -1,1 +1,1 @@
-var mnemonic = "coffee check vehicle tip extra injury clean oppose figure antique hand section";
+var mnemonic = "knock adapt trophy around stock hello know slight around empty tuna mystery";

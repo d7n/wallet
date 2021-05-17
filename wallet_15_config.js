@@ -1,1 +1,1 @@
-var mnemonic = "connect they valley vendor distance elder daring hover recipe strong argue human";
+var mnemonic = "deliver dog portion case mercy welcome portion note flash dust breeze crystal";

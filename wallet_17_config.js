@@ -1,1 +1,1 @@
-var mnemonic = "prosper language artist tourist book tank slender remove road drum grow approve";
+var mnemonic = "acquire health knee canyon ripple goat usual loop powder anxiety success load";

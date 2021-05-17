@@ -1,1 +1,1 @@
-var mnemonic = "have raise roof grid trap monitor actual rely surround resemble crucial hunt";
+var mnemonic = "base cinnamon word during purity black believe army drip federal wave sniff";

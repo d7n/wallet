@@ -1,1 +1,1 @@
-var mnemonic = "climb unknown advice parade skull process lumber salute major tag raw again";
+var mnemonic = "vast spell edit grape run barely dutch chapter clerk switch ladder soon";

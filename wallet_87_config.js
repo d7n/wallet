@@ -1,1 +1,1 @@
-var mnemonic = "vessel lunch diagram antenna debate radar balance embrace zone solar walk fiscal";
+var mnemonic = "promote stadium abstract dress merge infant feel family miracle speed cool move";

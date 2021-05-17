@@ -1,1 +1,1 @@
-var mnemonic = "just dune throw assume want tired hunt eager point industry tissue duck";
+var mnemonic = "ask address leopard barely diesel trust bind game impulse divert fine trim";

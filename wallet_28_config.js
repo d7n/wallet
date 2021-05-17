@@ -1,1 +1,1 @@
-var mnemonic = "sustain ask top picnic evoke awesome shy old bunker bronze icon diet";
+var mnemonic = "manage news push tattoo second style wine dove wonder shaft suffer turn";

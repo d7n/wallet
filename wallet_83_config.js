@@ -1,1 +1,1 @@
-var mnemonic = "tackle level hobby true vicious sniff patch dry solar draw post gauge";
+var mnemonic = "mom better chapter shuffle spatial own casual stadium era mystery fortune icon";

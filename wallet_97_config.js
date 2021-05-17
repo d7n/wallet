@@ -1,1 +1,1 @@
-var mnemonic = "wrestle unveil link enforce abuse tell arrange marriage glue range cross pigeon";
+var mnemonic = "swamp pretty measure match pulse twenty box ostrich trim fabric social tumble";

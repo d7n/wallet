@@ -1,1 +1,1 @@
-var mnemonic = "vocal region genuine whale flavor hold fee clump indoor gold giant loyal";
+var mnemonic = "pony garment finish anxiety tail mixture antique misery cash scissors strike right";

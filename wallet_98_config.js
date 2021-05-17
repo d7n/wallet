@@ -1,1 +1,1 @@
-var mnemonic = "poem scale stick retire meat code frown citizen picture park slam try";
+var mnemonic = "track diary acid sting receive weekend message tissue flame dentist match spy";

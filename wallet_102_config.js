@@ -1,1 +1,1 @@
-var mnemonic = "round mind erupt gain trophy trade come assist avoid immune pledge express";
+var mnemonic = "bar unveil art fruit pass chest siren fly sister media aim seed";

@@ -1,1 +1,1 @@
-var mnemonic = "method envelope man zoo fork radar ankle debris slot light pilot apology";
+var mnemonic = "play bone midnight clip easily oak airport cargo veteran ladder route mail";

@@ -1,1 +1,1 @@
-var mnemonic = "insane abandon book convince birth kit ocean grace report chief blast shed";
+var mnemonic = "exit device month team govern fortune tired giraffe link prefer outside cigar";

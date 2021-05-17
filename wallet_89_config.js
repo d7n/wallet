@@ -1,1 +1,1 @@
-var mnemonic = "range prefer swing bitter confirm foot upset eternal opinion minimum master cry";
+var mnemonic = "latin rice orbit office open arch addict blue domain avoid broom choose";

@@ -1,1 +1,1 @@
-var mnemonic = "shock unhappy knife lunch useful achieve umbrella enemy typical apology mirror liar";
+var mnemonic = "organ token abandon horn mistake clarify satisfy body green orient orange lesson";

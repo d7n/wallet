@@ -1,1 +1,1 @@
-var mnemonic = "below hollow limb noise curtain receive artwork excite shine cactus bomb leave";
+var mnemonic = "bridge grape thrive private satisfy comic consider sketch zebra curious aspect switch";

@@ -1,1 +1,1 @@
-var mnemonic = "demand scheme obvious detail avocado museum snake early sea sleep tribe cross";
+var mnemonic = "vacant cliff length motion upper fix bus horn trip vast orchard room";

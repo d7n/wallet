@@ -1,1 +1,1 @@
-var mnemonic = "dignity often output fold soccer budget sand drink wink chase soul light";
+var mnemonic = "anxiety edge try fun negative faculty guide zone mother turn lens moral";

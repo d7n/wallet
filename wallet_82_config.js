@@ -1,1 +1,1 @@
-var mnemonic = "wild borrow panda draw enrich fortune nasty hint jelly donor dust arm";
+var mnemonic = "elegant method under expect sad movie wing grocery opera when piano forget";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson road space accuse napkin stomach alone bulb kitten trouble wrist spoon";
+var mnemonic = "plate enact equal exhibit theme guard similar finish fatal top midnight spawn";

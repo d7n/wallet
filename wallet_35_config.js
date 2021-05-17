@@ -1,1 +1,1 @@
-var mnemonic = "giant begin volcano leg treat slush agent law grit border clever sniff";
+var mnemonic = "pledge outer west deny genre pledge horror black attract dress fetch tiny";

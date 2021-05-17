@@ -1,1 +1,1 @@
-var mnemonic = "prison control replace face fit shrimp goat receive bacon useless castle avocado";
+var mnemonic = "wheat boil enroll coconut false hammer consider over please flag mesh alien";

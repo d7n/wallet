@@ -1,1 +1,1 @@
-var mnemonic = "glare suspect chief farm clever term fluid arrow aunt outer judge devote";
+var mnemonic = "fall unlock scare raccoon bacon vote oblige note receive genius diet soon";

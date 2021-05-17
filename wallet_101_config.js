@@ -1,1 +1,1 @@
-var mnemonic = "essay few later frog possible venture squirrel prefer siege salt neck this";
+var mnemonic = "globe east merge piano tent civil brick erosion hazard grunt prison ramp";

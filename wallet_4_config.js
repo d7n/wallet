@@ -1,1 +1,1 @@
-var mnemonic = "joy pact small rotate frown pizza human copy worry sign daring sell";
+var mnemonic = "foster resist silent cinnamon bounce swear clown immense hurdle frown absurd walnut";

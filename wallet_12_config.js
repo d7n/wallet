@@ -1,1 +1,1 @@
-var mnemonic = "leopard only wasp enemy super inner charge oblige course receive clip answer";
+var mnemonic = "super venture clog moon topic inflict sugar pen uncle endless any jaguar";

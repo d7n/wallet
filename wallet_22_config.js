@@ -1,1 +1,1 @@
-var mnemonic = "empower beach glance embody confirm just kind frozen year boat behind device";
+var mnemonic = "cat smooth giraffe auction onion ride fresh boil junior kiss medal quit";

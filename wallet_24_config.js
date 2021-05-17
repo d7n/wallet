@@ -1,1 +1,1 @@
-var mnemonic = "pluck yellow rule term kind defense roast mushroom monkey improve connect blush";
+var mnemonic = "thumb soccer frozen pigeon adult sun cross doll dwarf harvest require elbow";

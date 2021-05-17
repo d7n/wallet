@@ -1,1 +1,1 @@
-var mnemonic = "valley image omit raise tomato swallow battle claim wolf horror nut volume";
+var mnemonic = "cat upgrade aware wish erase virus fetch smooth razor kite elite coast";

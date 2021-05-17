@@ -1,1 +1,1 @@
-var mnemonic = "monster story equal mom forget crunch fury urban prevent excite olympic topple";
+var mnemonic = "sell awkward favorite vessel hold skin rather heavy health stand scan child";

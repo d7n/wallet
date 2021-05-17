@@ -1,1 +1,1 @@
-var mnemonic = "creek trim chase blouse three inspire leg crane clean diesel phrase pupil";
+var mnemonic = "advice decline cost track mail evidence height peanut junk state true angry";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit helmet market lion chapter exhaust top awesome piano boy dolphin leisure";
+var mnemonic = "pigeon song interest awesome panther opinion error input actor room mixture canal";

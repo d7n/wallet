@@ -1,1 +1,1 @@
-var mnemonic = "fold poem acquire fiscal they knock anxiety reveal balance stone picnic luxury";
+var mnemonic = "remember suit tool two avoid cool unveil add about remind setup slender";

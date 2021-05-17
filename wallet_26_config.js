@@ -1,1 +1,1 @@
-var mnemonic = "giant benefit happy crumble river gain congress net bag essay fire flight";
+var mnemonic = "wave nuclear airport jeans cycle eight census toast resource promote concert drum";

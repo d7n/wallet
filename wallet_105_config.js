@@ -1,1 +1,1 @@
-var mnemonic = "barrel topic balance trick latin water grit mass fetch square student tape";
+var mnemonic = "false air frog where minute ask deny common parrot please isolate future";

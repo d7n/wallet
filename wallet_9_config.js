@@ -1,1 +1,1 @@
-var mnemonic = "enhance tide genius spare fire fire nice lion ghost ask rebuild grocery";
+var mnemonic = "clean blast merge know stamp side toy place list aim grab donkey";

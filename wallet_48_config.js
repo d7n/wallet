@@ -1,1 +1,1 @@
-var mnemonic = "trust better win sting primary toe duck exit divert panel wave lazy";
+var mnemonic = "shoe soccer more diamond rare jaguar coach human figure guitar torch transfer";

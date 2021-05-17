@@ -1,1 +1,1 @@
-var mnemonic = "hurry dirt gown tide cousin artwork fan only sting clump summer spray";
+var mnemonic = "expire first diagram virtual blade federal physical spray pigeon great frozen street";

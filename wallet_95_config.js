@@ -1,1 +1,1 @@
-var mnemonic = "mechanic drastic peace steel atom spot dizzy sheriff vintage lava mom suffer";
+var mnemonic = "valid energy episode stairs clip material enlist apology just leave blind banana";

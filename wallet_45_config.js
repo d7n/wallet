@@ -1,1 +1,1 @@
-var mnemonic = "mention spot cinnamon exact thing dignity inspire shine rough sail seed enforce";
+var mnemonic = "emotion exist ripple nation outdoor weapon slogan habit inmate cat alert robust";

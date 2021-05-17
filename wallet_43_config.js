@@ -1,1 +1,1 @@
-var mnemonic = "vital expand black laugh expect hundred build horn yellow present share mail";
+var mnemonic = "news adapt next crawl patient antenna able seat text essay there point";

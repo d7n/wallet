@@ -1,1 +1,1 @@
-var mnemonic = "cake furnace hero flock inject chicken arrive happy quote bring frozen barrel";
+var mnemonic = "rent monkey jacket butter swarm surprise cradle pitch gown between reward hour";

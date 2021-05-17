@@ -1,1 +1,1 @@
-var mnemonic = "blind hurry neglect rain canoe until odor lawn deposit bamboo hire quit";
+var mnemonic = "hundred run capable wall viable fiction detail knife clinic tray tissue fatigue";

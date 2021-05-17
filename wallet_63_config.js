@@ -1,1 +1,1 @@
-var mnemonic = "payment young write marine jewel order bid bleak west near devote fabric";
+var mnemonic = "pact cake casino result spoil rare wage coil shiver dice guard crouch";

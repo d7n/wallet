@@ -1,1 +1,1 @@
-var mnemonic = "citizen renew sick flat blame message mimic become sniff dwarf floor verify";
+var mnemonic = "main animal honey tissue rifle country diet exotic fluid chicken vapor around";
