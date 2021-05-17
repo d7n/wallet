@@ -1,1 +1,1 @@
-var mnemonic = "work view raven mix tape harbor release bacon immense fashion open emotion";
+var mnemonic = "soda pupil mesh unveil wage pipe labor ripple famous begin mind material";

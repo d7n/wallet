@@ -1,1 +1,1 @@
-var mnemonic = "filter guitar erase fatal smooth liar six clean scout olive seek profit";
+var mnemonic = "picnic divert total soup galaxy waste cup pencil space across start convince";

@@ -1,1 +1,1 @@
-var mnemonic = "survey flock genre fault business shoulder card project crumble million flee kick";
+var mnemonic = "sing tooth blouse planet wild vote soup either produce release album save";

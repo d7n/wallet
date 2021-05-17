@@ -1,1 +1,1 @@
-var mnemonic = "cycle nominee accuse banana message surprise appear torch fan able belt mutual";
+var mnemonic = "roast balance popular charge apology upon slice sentence surround improve couple traffic";

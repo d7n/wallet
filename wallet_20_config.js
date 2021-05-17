@@ -1,1 +1,1 @@
-var mnemonic = "lobster pistol raw math cheap stumble liberty cement sense piano choose record";
+var mnemonic = "text inflict monster miss banana good brass junior road current purpose unhappy";

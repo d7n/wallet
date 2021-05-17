@@ -1,1 +1,1 @@
-var mnemonic = "wait invite wood hospital vanish bid manual marriage pipe flag ability swarm";
+var mnemonic = "immune index wink hotel egg marine melt age visit present tired extend";

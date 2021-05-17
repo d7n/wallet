@@ -1,1 +1,1 @@
-var mnemonic = "baby try kit voice bronze base unaware swallow jazz history firm concert";
+var mnemonic = "daring army check chat midnight gun wink walk world rough barely organ";

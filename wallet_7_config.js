@@ -1,1 +1,1 @@
-var mnemonic = "furnace oven coil hood jealous endless smile piece illness myth general key";
+var mnemonic = "scorpion cover episode exile trim fatal affair wild menu unique spin fish";

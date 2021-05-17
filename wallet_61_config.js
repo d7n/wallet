@@ -1,1 +1,1 @@
-var mnemonic = "pulse enough ten term describe boat sorry battle notice goddess noodle travel";
+var mnemonic = "hockey alarm spatial buffalo antenna disease struggle give various effort bless other";

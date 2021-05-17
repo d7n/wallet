@@ -1,1 +1,1 @@
-var mnemonic = "orbit original motor street recall leave cruise excuse nuclear cram empower market";
+var mnemonic = "oval coach language cycle sense material giraffe then diet air gentle pluck";

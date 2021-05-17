@@ -1,1 +1,1 @@
-var mnemonic = "thing height orphan busy spy can female clerk ritual raw time gasp";
+var mnemonic = "cross jump express minor flash local hurry nephew liar immense emerge weird";

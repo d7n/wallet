@@ -1,1 +1,1 @@
-var mnemonic = "book tail first banana outdoor scatter napkin just suggest copper strike alter";
+var mnemonic = "cloud belt attract tower blur speed fetch crime frown tissue mind thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll celery era must together mad inner stove orphan session sunny despair";
+var mnemonic = "certain either media imitate cactus caution super warrior fit reveal person crater";

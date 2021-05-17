@@ -1,1 +1,1 @@
-var mnemonic = "valve ready salmon rude velvet crazy entire price infant dice close skill";
+var mnemonic = "grid eager round jelly improve tortoise wrap gentle miracle obscure idea bike";

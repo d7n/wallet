@@ -1,1 +1,1 @@
-var mnemonic = "saddle scare retire sunset frown home route sun actor cigar cherry ethics";
+var mnemonic = "comic exact weekend leave valid hip smart pact useful critic dove powder";

@@ -1,1 +1,1 @@
-var mnemonic = "mother mechanic title simple aspect sudden trend crunch wolf blade turkey digital";
+var mnemonic = "prefer mutual comfort spend whisper alcohol glimpse student wrong mixed cloud typical";

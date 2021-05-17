@@ -1,1 +1,1 @@
-var mnemonic = "alter number favorite funny hollow fog update bone song humor catch job";
+var mnemonic = "island album twice awkward ivory cricket song since genius mouse auto stay";

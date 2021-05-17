@@ -1,1 +1,1 @@
-var mnemonic = "mad inspire scene piano limit isolate notable elevator gesture market bracket echo";
+var mnemonic = "staff shoulder globe permit you now text web useless birth august ripple";

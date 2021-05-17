@@ -1,1 +1,1 @@
-var mnemonic = "file cook dream culture drop success repair cream since bleak table bubble";
+var mnemonic = "flame volcano process fiber dash aim make clap keen follow legal early";

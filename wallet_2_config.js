@@ -1,1 +1,1 @@
-var mnemonic = "submit scorpion curve winner current noble bid search phrase neutral bitter pulse";
+var mnemonic = "angry yard ketchup milk list mandate spatial ritual penalty surface pact marble";

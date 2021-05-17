@@ -1,1 +1,1 @@
-var mnemonic = "truly degree few unfold spell security bleak mind rubber cheese tenant remind";
+var mnemonic = "wait move cotton panic midnight hover electric mixture humble confirm write guide";

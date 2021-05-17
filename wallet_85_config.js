@@ -1,1 +1,1 @@
-var mnemonic = "wash long learn present endorse demand simple route vacant wisdom cake always";
+var mnemonic = "sentence frown arm never book shrimp deer clap alcohol endorse final process";

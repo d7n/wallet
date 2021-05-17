@@ -1,1 +1,1 @@
-var mnemonic = "bullet symbol extend bar cricket thought power flip catch blue october hollow";
+var mnemonic = "deal dinosaur shift pencil ethics puppy law someone mixed wealth leg picture";

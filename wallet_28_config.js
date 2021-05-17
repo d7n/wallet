@@ -1,1 +1,1 @@
-var mnemonic = "obvious earn treat birth cattle once purity snack coffee mansion emerge piano";
+var mnemonic = "purpose buddy east curve boat pause spike only type excuse asthma quality";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet lobster under ten comic park man cabin wood marble october panic";
+var mnemonic = "exist resource gym mutual vicious dizzy envelope slot metal rescue miracle civil";

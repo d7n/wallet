@@ -1,1 +1,1 @@
-var mnemonic = "tourist ivory middle acoustic stem hint manage stumble beach depth thumb swap";
+var mnemonic = "october drill devote path demand pen utility secret lucky invite aspect cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "august outdoor garlic near refuse artefact clay act usage legal bean vehicle";
+var mnemonic = "funny total goat butter first shop arm lyrics canvas away junk height";

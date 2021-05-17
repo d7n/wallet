@@ -1,1 +1,1 @@
-var mnemonic = "easy entire pizza miss pudding market review soon coffee shove health draft";
+var mnemonic = "depend loud quality reject normal explain stumble knee crowd stage casual vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "position coil body siren infant soon version increase clarify produce renew bring";
+var mnemonic = "jealous marriage nominee divide weapon trouble bread dish try man conduct moral";

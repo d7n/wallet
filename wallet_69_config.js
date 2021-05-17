@@ -1,1 +1,1 @@
-var mnemonic = "unknown choice easy original salt atom horror promote endorse match awesome recycle";
+var mnemonic = "noodle weasel employ jelly letter dose steel sponsor light input west long";

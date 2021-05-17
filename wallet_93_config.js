@@ -1,1 +1,1 @@
-var mnemonic = "crash climb abstract poverty crunch school audit young cabin setup risk assist";
+var mnemonic = "grain govern repeat lake buyer frequent squeeze wish chunk claw net twelve";

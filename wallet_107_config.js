@@ -1,1 +1,1 @@
-var mnemonic = "upgrade atom quiz pony country supreme harbor come boat park sunny aware";
+var mnemonic = "tail join prepare toward violin security hill service scatter such butter vintage";

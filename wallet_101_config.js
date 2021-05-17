@@ -1,1 +1,1 @@
-var mnemonic = "bright sugar stamp child garlic bargain drill cover exotic useless sand card";
+var mnemonic = "local chuckle real mouse forest under render phrase expect spy lemon avoid";

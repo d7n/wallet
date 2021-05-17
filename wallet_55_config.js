@@ -1,1 +1,1 @@
-var mnemonic = "weather seed index harvest coral nation enjoy mimic relief divide goose diamond";
+var mnemonic = "exclude infant onion educate expect portion almost fancy stadium dinosaur symptom scheme";

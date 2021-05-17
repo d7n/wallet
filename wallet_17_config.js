@@ -1,1 +1,1 @@
-var mnemonic = "edit topple festival comfort vocal polar museum picnic stock soup fold observe";
+var mnemonic = "famous game cotton column cheese marble engage boy income task face again";

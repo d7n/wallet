@@ -1,1 +1,1 @@
-var mnemonic = "hover absurd isolate enjoy chair magnet mansion catch warfare oil sunset news";
+var mnemonic = "exhaust ankle onion sight board coral morning dilemma luxury labor foot fiber";

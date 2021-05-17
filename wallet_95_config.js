@@ -1,1 +1,1 @@
-var mnemonic = "injury story engine loop reform drink erase agree rifle cliff abandon salt";
+var mnemonic = "alter soldier coconut west wing planet expose vanish hawk seven pigeon crowd";

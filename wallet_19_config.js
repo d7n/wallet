@@ -1,1 +1,1 @@
-var mnemonic = "canvas country consider grid license high ramp undo profit limit term rescue";
+var mnemonic = "blast vivid anxiety repeat maid urge island radio zebra settle clinic forest";

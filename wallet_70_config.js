@@ -1,1 +1,1 @@
-var mnemonic = "tide camera cabbage shock raw square runway brick lobster review timber gravity";
+var mnemonic = "odor fatigue earth actor divorce virtual icon provide harbor giant burden mesh";

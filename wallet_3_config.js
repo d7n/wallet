@@ -1,1 +1,1 @@
-var mnemonic = "trust smart copy olympic movie sing text wait brush legal jar cloth";
+var mnemonic = "canoe stem holiday crazy prize buzz immune jelly gain hurry bubble just";

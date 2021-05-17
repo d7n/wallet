@@ -1,1 +1,1 @@
-var mnemonic = "junk work trade local city diary field leisure village coffee session prepare";
+var mnemonic = "eagle bomb picture figure else theory coil dismiss scrub nuclear brain rare";

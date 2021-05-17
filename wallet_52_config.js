@@ -1,1 +1,1 @@
-var mnemonic = "sell sound ozone drum over maple execute border west excuse awkward morning";
+var mnemonic = "best hunt health crisp episode filter first girl mad click disagree provide";

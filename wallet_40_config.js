@@ -1,1 +1,1 @@
-var mnemonic = "powder acoustic village dry genius traffic aerobic uphold rifle nothing tonight lobster";
+var mnemonic = "hawk color purpose confirm stereo afraid filter rescue frozen cigar elephant sand";

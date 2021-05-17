@@ -1,1 +1,1 @@
-var mnemonic = "about spider illegal risk join conduct fiction torch enforce vessel burden usual";
+var mnemonic = "reject aunt arrest meadow primary category able victory gym steak fee you";

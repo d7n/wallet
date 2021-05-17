@@ -1,1 +1,1 @@
-var mnemonic = "seat roof rotate degree whale veteran blind story sketch extend staff mobile";
+var mnemonic = "cabin rotate acquire spin rain trap ignore exhaust border car deputy dad";

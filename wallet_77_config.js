@@ -1,1 +1,1 @@
-var mnemonic = "nasty retire deny whale knife property course talk cloth once echo skull";
+var mnemonic = "kiss cargo machine aspect life winter discover want ticket lazy sign volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "any hair island silk hidden claim energy arena emerge glory cliff december";
+var mnemonic = "undo leader direct roast erosion valley cabin alley wrong clog sport few";

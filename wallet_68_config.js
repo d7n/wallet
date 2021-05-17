@@ -1,1 +1,1 @@
-var mnemonic = "slam found report online crumble around route truly goddess public already assault";
+var mnemonic = "throw device bridge like curious ensure foil dutch desk vault bulk rocket";

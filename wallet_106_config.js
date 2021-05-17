@@ -1,1 +1,1 @@
-var mnemonic = "surface roof rice please clip fantasy inform vocal sleep merit video gap";
+var mnemonic = "only gauge paper impose wild quality used stool work choice gossip parent";

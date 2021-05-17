@@ -1,1 +1,1 @@
-var mnemonic = "faint cloth curtain siege shrimp aerobic guard file clever evidence lonely trial";
+var mnemonic = "parent unaware claim unknown panic smart whisper hip hat joke truly rose";

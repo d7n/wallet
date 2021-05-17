@@ -1,1 +1,1 @@
-var mnemonic = "depend mask flower reason close upon there wild ritual border joy quick";
+var mnemonic = "fiction faith pumpkin mimic valley switch lens alone question truth produce tattoo";

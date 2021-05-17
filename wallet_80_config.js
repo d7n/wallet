@@ -1,1 +1,1 @@
-var mnemonic = "noise voyage peasant people raise pluck gain dutch crumble return curious castle";
+var mnemonic = "hurt useful dismiss elder pepper pond piece real arrange demise age shop";

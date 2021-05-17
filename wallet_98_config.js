@@ -1,1 +1,1 @@
-var mnemonic = "prefer silly monster jungle electric play say couple neither nominee depth access";
+var mnemonic = "knee fancy talk dignity happy boil uncover stereo resemble tower maximum real";

@@ -1,1 +1,1 @@
-var mnemonic = "twist ramp turkey dust shock minute sick ketchup garment success soup chapter";
+var mnemonic = "hole double become know salute vanish layer senior suggest sentence cargo music";

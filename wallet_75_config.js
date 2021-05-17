@@ -1,1 +1,1 @@
-var mnemonic = "quarter palace screen rally wild puzzle only sheriff advance morning rival mom";
+var mnemonic = "drive theme correct prosper gossip gospel huge layer sentence match fence jacket";

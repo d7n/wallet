@@ -1,1 +1,1 @@
-var mnemonic = "vicious boil snake bomb brother skin enact fatigue stomach ridge grid job";
+var mnemonic = "tone sign pull start damp swift basket ramp denial dilemma digital open";

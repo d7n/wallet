@@ -1,1 +1,1 @@
-var mnemonic = "field follow like cancel brief hobby salt jungle knee adult path stock";
+var mnemonic = "guilt east width connect soft floor forest image time shine version rail";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise speak mixture venue catch wear invite throw throw sand bind useful";
+var mnemonic = "chronic drastic resemble treat nation exist direct render bacon museum timber assault";

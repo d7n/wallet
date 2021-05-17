@@ -1,1 +1,1 @@
-var mnemonic = "caution hotel much cart voice exit duty expose finger shaft spread defense";
+var mnemonic = "walnut tragic artefact festival vessel crumble surprise peasant hockey account mandate host";

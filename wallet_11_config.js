@@ -1,1 +1,1 @@
-var mnemonic = "ladder menu gentle high else frog summer inherit improve joke obvious mango";
+var mnemonic = "invite grant suspect creek vocal fragile horn gloom client fuel giraffe census";

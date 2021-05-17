@@ -1,1 +1,1 @@
-var mnemonic = "hill police gift fever pink galaxy satoshi blind now planet aisle vital";
+var mnemonic = "used differ favorite nominee indoor potato own buddy inspire element exile fabric";

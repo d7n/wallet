@@ -1,1 +1,1 @@
-var mnemonic = "evil smile dream describe genuine stumble foot friend click deal utility odor";
+var mnemonic = "seminar stereo smile pipe buzz doll idle fame course midnight fiber snack";

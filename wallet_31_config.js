@@ -1,1 +1,1 @@
-var mnemonic = "almost antenna endorse absurd bench wealth flip hurdle damp shop cost genuine";
+var mnemonic = "future interest paper ginger finger noise easily wide shoulder dawn chair stage";

@@ -1,1 +1,1 @@
-var mnemonic = "student hundred unknown camp finger drive tape cruel apart fire hint globe";
+var mnemonic = "pill broken eternal uphold thank copper tiger mean three account affair action";

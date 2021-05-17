@@ -1,1 +1,1 @@
-var mnemonic = "tell twenty stove mass disagree donkey produce sorry glimpse scheme west cradle";
+var mnemonic = "west tomorrow point torch track level capable churn spatial art garage gasp";

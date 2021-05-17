@@ -1,1 +1,1 @@
-var mnemonic = "debate occur allow adapt chief glare original wood frog lawn coil bring";
+var mnemonic = "inch leave bean divorce clump pencil canvas trim oval drum try cable";

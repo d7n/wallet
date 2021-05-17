@@ -1,1 +1,1 @@
-var mnemonic = "twice cruise envelope verify replace march bread annual chronic toward board magic";
+var mnemonic = "twice autumn sudden detail genre belt sting employ vanish mean food rib";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver planet minimum fish soup throw message toe mention alpha sad roast";
+var mnemonic = "coil forward blush digital sample boy tornado seat three half limb coffee";

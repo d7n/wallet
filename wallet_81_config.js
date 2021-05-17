@@ -1,1 +1,1 @@
-var mnemonic = "west feature embody voice problem picture man popular theory expose purchase select";
+var mnemonic = "toward fire girl riot mix mouse occur fan tribe ignore plunge guess";

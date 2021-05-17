@@ -1,1 +1,1 @@
-var mnemonic = "nasty uncle picture stick royal roast crew grocery priority early parade health";
+var mnemonic = "climb govern absent stock kind color river teach finish release cliff master";

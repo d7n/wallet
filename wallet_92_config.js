@@ -1,1 +1,1 @@
-var mnemonic = "world modify unfair outer sight black front clever roof keep impose comfort";
+var mnemonic = "letter hub cabbage match curious episode category raise help practice success harsh";

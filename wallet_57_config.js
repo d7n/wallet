@@ -1,1 +1,1 @@
-var mnemonic = "power analyst refuse timber infant appear empty ship record vivid lion grid";
+var mnemonic = "bread panda banner lunch recycle govern trophy strong camera bomb card nurse";

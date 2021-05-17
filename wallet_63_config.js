@@ -1,1 +1,1 @@
-var mnemonic = "achieve property melt taste minor come escape hobby tiger label primary process";
+var mnemonic = "ugly segment believe fly situate window acid despair profit alley auto seat";

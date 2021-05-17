@@ -1,1 +1,1 @@
-var mnemonic = "flip throw pumpkin venture unique sponsor mushroom review elegant able tribe crash";
+var mnemonic = "day steel sunset tunnel foam guess weasel charge critic field soda fish";

@@ -1,1 +1,1 @@
-var mnemonic = "anger unusual match north absent slight success update load assume february chat";
+var mnemonic = "suffer table judge return enrich onion anxiety reform label orchard clinic solve";

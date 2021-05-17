@@ -1,1 +1,1 @@
-var mnemonic = "limit depart animal boost you struggle outer tourist jealous wedding meadow joke";
+var mnemonic = "sunny size mountain better indicate sport eight curious summer sister pencil lounge";

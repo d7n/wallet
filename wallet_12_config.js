@@ -1,1 +1,1 @@
-var mnemonic = "narrow robust hint few cake load box power flag noise clip father";
+var mnemonic = "illegal entire brave spin half unlock curtain grace survey security beef measure";

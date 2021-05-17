@@ -1,1 +1,1 @@
-var mnemonic = "pen concert divorce turn oval reunion edge sketch offer govern relax syrup";
+var mnemonic = "drastic remind equal subject spider garbage fabric angry chief humble vessel sock";

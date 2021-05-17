@@ -1,1 +1,1 @@
-var mnemonic = "grow arrange lock view deny claw defense shop flight powder brown oppose";
+var mnemonic = "truly popular noise soft detail correct bottom indicate lizard spray bundle copy";

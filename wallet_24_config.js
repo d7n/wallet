@@ -1,1 +1,1 @@
-var mnemonic = "rough furnace share load result state bright weird club divert lyrics clean";
+var mnemonic = "desk open next balance screen embark when limit diet loan coin ordinary";

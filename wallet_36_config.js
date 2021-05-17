@@ -1,1 +1,1 @@
-var mnemonic = "salmon season orbit explain figure rose gun gadget daughter ring oil soda";
+var mnemonic = "call area today nature virus master asset fiber sentence soul cry mirror";

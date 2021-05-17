@@ -1,1 +1,1 @@
-var mnemonic = "slim narrow remain young define today hospital bar refuse cheap girl crumble";
+var mnemonic = "reject sick ignore broccoli brisk link column multiply poet obtain oppose swap";

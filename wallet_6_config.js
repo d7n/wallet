@@ -1,1 +1,1 @@
-var mnemonic = "isolate check wall expose advance task history motor mobile hand congress april";
+var mnemonic = "benefit swear exotic fatal feed basket cabin riot first ship allow style";

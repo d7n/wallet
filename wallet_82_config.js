@@ -1,1 +1,1 @@
-var mnemonic = "civil process lounge club clog pioneer orchard pupil churn invest juice space";
+var mnemonic = "foil master bulk beyond finish reject client human soap museum rebel random";

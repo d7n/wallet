@@ -1,1 +1,1 @@
-var mnemonic = "valid erase build sudden portion clog result again person border fly suspect";
+var mnemonic = "pupil gym ritual toward clerk wire upon hurdle rule fever nation spirit";

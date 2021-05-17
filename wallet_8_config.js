@@ -1,1 +1,1 @@
-var mnemonic = "hole unknown stool device stuff decade uphold keep remember drift snack reduce";
+var mnemonic = "obvious match empty buyer dizzy allow weird alley flight silk argue jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch result mirror mix sibling broken cram art liquid end update cost";
+var mnemonic = "lens flag sunset crisp upon learn brave material life obey casual cattle";

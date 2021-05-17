@@ -1,1 +1,1 @@
-var mnemonic = "soft increase pink uncle rate spread galaxy try claw hedgehog social cage";
+var mnemonic = "exact shop tennis open believe armed betray gasp chief name quick jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder knee rural beyond unfold hole obtain basket clock april horn bread";
+var mnemonic = "inhale pill shock skirt toss nest immense purpose prevent diary oval knee";

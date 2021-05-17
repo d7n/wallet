@@ -1,1 +1,1 @@
-var mnemonic = "open decide crazy easily start ladder traffic little night obscure benefit garden";
+var mnemonic = "device state frown chunk dish gorilla page pave fine attitude length emerge";

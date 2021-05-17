@@ -1,1 +1,1 @@
-var mnemonic = "hurry flame noodle scissors purpose siren local wisdom rabbit mean raccoon arrive";
+var mnemonic = "monster manage tube follow lemon cream skull sell cigar route bounce rib";

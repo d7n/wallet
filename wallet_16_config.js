@@ -1,1 +1,1 @@
-var mnemonic = "divorce steel quarter priority body resemble daughter nuclear churn render flight anxiety";
+var mnemonic = "update current anger depth turtle wait verify pony noble absorb permit spatial";

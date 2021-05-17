@@ -1,1 +1,1 @@
-var mnemonic = "velvet sail supreme enroll rhythm merit sick strike stadium report wet route";
+var mnemonic = "cereal armed common slight shock miracle next group wheel pulse elephant position";
