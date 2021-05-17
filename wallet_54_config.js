@@ -1,1 +1,1 @@
-var mnemonic = "rail build age marine shrimp sponsor observe swarm luxury sauce vibrant blue";
+var mnemonic = "olympic hockey deliver snap doctor step eagle rent plug merge language wolf";

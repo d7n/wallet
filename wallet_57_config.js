@@ -1,1 +1,1 @@
-var mnemonic = "velvet key announce song fiction note cattle sight reveal hollow foil race";
+var mnemonic = "prize gun amount input loan day glory boy isolate result farm body";

@@ -1,1 +1,1 @@
-var mnemonic = "toast dutch siege mandate logic amused buzz ridge jacket cake rocket meadow";
+var mnemonic = "derive theory excuse when math rookie spider dwarf walk increase sheriff iron";

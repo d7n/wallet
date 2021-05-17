@@ -1,1 +1,1 @@
-var mnemonic = "cancel vault stereo web pair baby famous asthma cruise crucial eight clump";
+var mnemonic = "short million wreck dress grass error frame slab fresh exile castle verify";

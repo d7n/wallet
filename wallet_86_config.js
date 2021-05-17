@@ -1,1 +1,1 @@
-var mnemonic = "vault swift captain lunar odor gallery good ceiling size master sweet move";
+var mnemonic = "car domain since size weird peanut effort shy inch legend wait merit";

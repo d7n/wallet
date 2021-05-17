@@ -1,1 +1,1 @@
-var mnemonic = "mouse tumble junk parent art permit renew attend solution ring endless educate";
+var mnemonic = "energy battle margin mirror beach fruit monitor bullet oppose scan empty verify";

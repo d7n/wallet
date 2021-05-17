@@ -1,1 +1,1 @@
-var mnemonic = "dizzy tissue foot earn hollow defy illegal town vault captain firm above";
+var mnemonic = "frost audit twin nut produce april such cattle wing table fluid rural";

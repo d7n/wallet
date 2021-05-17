@@ -1,1 +1,1 @@
-var mnemonic = "license panel during sail because magnet chronic lava dust waste garbage tongue";
+var mnemonic = "judge bomb what dose pitch laptop fish distance clay warrior access goddess";

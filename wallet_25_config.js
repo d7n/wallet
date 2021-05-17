@@ -1,1 +1,1 @@
-var mnemonic = "defense repeat path surface resemble bar height pear present bullet quiz electric";
+var mnemonic = "please trash fat dynamic cage return convince chunk above merit lamp magnet";

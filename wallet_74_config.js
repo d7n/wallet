@@ -1,1 +1,1 @@
-var mnemonic = "fork rough reflect suspect spirit shoulder engine soap sniff agent dose spend";
+var mnemonic = "window rent alcohol ginger hat photo connect regular gesture despair sense kite";

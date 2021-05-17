@@ -1,1 +1,1 @@
-var mnemonic = "embrace indicate hen thunder congress prevent undo insane alone need face bread";
+var mnemonic = "drastic lamp fall anchor smoke dawn mask aspect party until fat run";

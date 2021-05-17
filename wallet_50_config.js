@@ -1,1 +1,1 @@
-var mnemonic = "brand few update pilot into milk behave rate spray abuse mention ensure";
+var mnemonic = "cream tape distance purity salmon valve gospel topple picnic title suffer coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "guard color pass mushroom sword reject liar tired enable deer paddle wage";
+var mnemonic = "among warrior claim clown garlic blouse regret buffalo craft lazy clump gravity";

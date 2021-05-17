@@ -1,1 +1,1 @@
-var mnemonic = "scrap fiscal disease false palm kite voyage lab educate muscle rail soon";
+var mnemonic = "debate ladder current strategy exist advance sweet supply clap dish joke catalog";

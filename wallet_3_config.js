@@ -1,1 +1,1 @@
-var mnemonic = "smooth gesture flame tumble iron vessel solid ride tonight keep process oval";
+var mnemonic = "feel open upgrade shove rally danger charge similar summer scrap consider give";

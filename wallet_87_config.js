@@ -1,1 +1,1 @@
-var mnemonic = "move silent cereal curve runway you tornado evil salmon surround stove tide";
+var mnemonic = "state luxury output crime dry quick vacant primary bone civil embark motion";

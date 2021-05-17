@@ -1,1 +1,1 @@
-var mnemonic = "bunker noise near feature roast foster crush valley company february skin time";
+var mnemonic = "around tree dinner income tonight sample trigger monster artist mean twelve soap";

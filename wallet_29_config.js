@@ -1,1 +1,1 @@
-var mnemonic = "describe hen hello buyer unlock dinner west album waste ivory pair odor";
+var mnemonic = "special detect between cheese horse search width execute crouch rocket display skirt";

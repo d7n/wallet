@@ -1,1 +1,1 @@
-var mnemonic = "limb cake mirror notable town brick cake amazing stem opera veteran winter";
+var mnemonic = "lion rain flee van lion switch mad soon action rigid solid power";

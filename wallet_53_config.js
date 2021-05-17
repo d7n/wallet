@@ -1,1 +1,1 @@
-var mnemonic = "jar ranch bachelor coconut oil protect jealous faint bounce open limit flee";
+var mnemonic = "paddle humor limb sorry season cube educate choose roast demise patrol source";

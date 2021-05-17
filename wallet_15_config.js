@@ -1,1 +1,1 @@
-var mnemonic = "night elevator weekend earn prefer absent live unfold woman demand glance execute";
+var mnemonic = "equal elder nominee health crash debate first sausage culture trust engine glove";

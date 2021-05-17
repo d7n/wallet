@@ -1,1 +1,1 @@
-var mnemonic = "slide hockey shine feel ozone situate level drift cat carbon cluster hollow";
+var mnemonic = "return taste public task siren exhibit gorilla cost six monster glimpse agent";

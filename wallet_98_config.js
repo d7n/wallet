@@ -1,1 +1,1 @@
-var mnemonic = "solar angry soft stereo among weather purity add dumb proud tomorrow human";
+var mnemonic = "enrich dad romance staff table review orphan lawn alter grocery away embody";

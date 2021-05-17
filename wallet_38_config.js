@@ -1,1 +1,1 @@
-var mnemonic = "invest always sister false earth sunset seat torch bacon stove price rule";
+var mnemonic = "sheriff letter risk chest bitter cluster assist ozone cat fence grab diagram";

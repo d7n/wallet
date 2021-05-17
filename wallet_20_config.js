@@ -1,1 +1,1 @@
-var mnemonic = "author sorry fit rich jaguar correct cycle maple zone beef utility spy";
+var mnemonic = "lecture want crazy oil zoo pottery happy uphold liquid myth siege injury";

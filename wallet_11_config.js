@@ -1,1 +1,1 @@
-var mnemonic = "struggle scare gossip quality usual abandon comic save dry debate agree name";
+var mnemonic = "symptom unit stem report staff trend torch muscle immune glimpse eager cage";

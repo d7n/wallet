@@ -1,1 +1,1 @@
-var mnemonic = "walk vault spike lizard goat pulse taxi oil situate valley toast capital";
+var mnemonic = "goddess agree card weasel arrest reduce ring crazy pride together either grow";

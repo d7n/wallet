@@ -1,1 +1,1 @@
-var mnemonic = "certain around loop snow front purchase suffer bamboo awesome nuclear file outside";
+var mnemonic = "biology hedgehog custom any churn giggle autumn various glance bargain kit salt";

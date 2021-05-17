@@ -1,1 +1,1 @@
-var mnemonic = "combine stamp divide action name pull diagram bottom muscle sense agree hint";
+var mnemonic = "coconut ancient gallery bid resemble quote penalty silent crater nerve avocado assume";

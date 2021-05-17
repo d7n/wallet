@@ -1,1 +1,1 @@
-var mnemonic = "coffee option civil diet price move draw proud wink tuition bleak basic";
+var mnemonic = "ginger disagree transfer jaguar vivid tooth ugly lumber vote obtain opinion jelly";

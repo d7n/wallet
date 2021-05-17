@@ -1,1 +1,1 @@
-var mnemonic = "mango stable time zone flame economy target razor genre release quality toast";
+var mnemonic = "rely loud olympic brother worry access remove pig guess around pulp abstract";

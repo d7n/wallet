@@ -1,1 +1,1 @@
-var mnemonic = "inside rose split sight love category pepper master stand polar stuff unlock";
+var mnemonic = "bean usual worth feature barely divorce plate similar people predict summer grunt";

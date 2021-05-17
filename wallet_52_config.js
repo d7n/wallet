@@ -1,1 +1,1 @@
-var mnemonic = "pulp setup trash soccer essence planet rent salon bamboo supreme game column";
+var mnemonic = "spider blind flavor outside chuckle second soap garment verb history early curtain";

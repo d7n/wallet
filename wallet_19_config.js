@@ -1,1 +1,1 @@
-var mnemonic = "account bicycle silver mask label lunar pulp reward napkin muscle flight glue";
+var mnemonic = "quote topple saddle scatter angle diet universe crisp stairs thrive permit elder";

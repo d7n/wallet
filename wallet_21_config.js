@@ -1,1 +1,1 @@
-var mnemonic = "couch sheriff plate scatter hip cake neglect mule net below exact vast";
+var mnemonic = "mind odor noise ranch soup female apple toe minor random boring omit";

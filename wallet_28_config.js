@@ -1,1 +1,1 @@
-var mnemonic = "humble salute vote clap destroy sunset gorilla vacuum faculty shift ankle jacket";
+var mnemonic = "bachelor setup range brush clean garment now olympic occur daughter nest local";

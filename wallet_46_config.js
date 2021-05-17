@@ -1,1 +1,1 @@
-var mnemonic = "evil sword give stamp divide segment van sound finger useless parade run";
+var mnemonic = "undo misery sell name cost always flock divide pig gentle ribbon sugar";

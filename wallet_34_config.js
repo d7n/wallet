@@ -1,1 +1,1 @@
-var mnemonic = "mountain hazard wreck panther noodle boat frequent easy note unfold yellow general";
+var mnemonic = "demise wire ridge silk stool pipe unfair annual angle air test blade";

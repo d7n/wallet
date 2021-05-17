@@ -1,1 +1,1 @@
-var mnemonic = "beef spoil damp kiwi glory radio expire change scissors gym cross mobile";
+var mnemonic = "hole sweet close knife possible sister autumn short visit decorate clinic sea";

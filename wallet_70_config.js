@@ -1,1 +1,1 @@
-var mnemonic = "tissue check debris dune thunder soon document link ride hungry put fun";
+var mnemonic = "unfair dove adjust material body neglect oven churn betray muffin pioneer end";

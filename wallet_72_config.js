@@ -1,1 +1,1 @@
-var mnemonic = "enlist attack yard sea guitar provide reduce quiz blouse decide check leg";
+var mnemonic = "response accident butter hip stay damage panic pony turtle ring drip disagree";

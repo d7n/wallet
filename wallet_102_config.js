@@ -1,1 +1,1 @@
-var mnemonic = "dynamic purpose pattern hundred gasp verify plunge federal wheat theory hawk plastic";
+var mnemonic = "seed aunt eagle general insect burden sentence nurse comic velvet ostrich artist";

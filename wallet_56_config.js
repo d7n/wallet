@@ -1,1 +1,1 @@
-var mnemonic = "fiscal frown notice empower dune gap thank grocery issue strong kiwi giggle";
+var mnemonic = "cliff pool wild grid space genuine iron wish agent suit tent drift";

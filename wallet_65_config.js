@@ -1,1 +1,1 @@
-var mnemonic = "crazy flush smile grief race stone away expire soon deputy actress already";
+var mnemonic = "clinic silk brass liquid eagle daring voice media history zebra stomach tuna";

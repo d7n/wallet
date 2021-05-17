@@ -1,1 +1,1 @@
-var mnemonic = "summer raccoon awful fresh great brother yard fog patch exotic tide decorate";
+var mnemonic = "such best garlic clump scale build boost output minute captain film rubber";

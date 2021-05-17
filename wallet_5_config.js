@@ -1,1 +1,1 @@
-var mnemonic = "orbit orbit tourist mind fossil used cash aerobic voyage normal ramp sustain";
+var mnemonic = "version surge adapt cat arrange shaft special biology unhappy attend average false";

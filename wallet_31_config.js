@@ -1,1 +1,1 @@
-var mnemonic = "laundry sick crouch token punch whip any holiday firm give banner treat";
+var mnemonic = "rhythm drop add warm mercy hand coffee whale talk park number special";

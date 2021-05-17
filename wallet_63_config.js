@@ -1,1 +1,1 @@
-var mnemonic = "trade famous govern toast dash board december arch flip dish cabin again";
+var mnemonic = "merit tobacco kiss ask lend assume lock hazard stereo flash fiber mimic";

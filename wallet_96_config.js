@@ -1,1 +1,1 @@
-var mnemonic = "purchase wild cactus patrol trim stomach caught expose filter lion buyer guess";
+var mnemonic = "zone deputy before arena develop long prevent tape float visa purpose depend";

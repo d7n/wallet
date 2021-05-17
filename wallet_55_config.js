@@ -1,1 +1,1 @@
-var mnemonic = "acquire wet error behind fluid taxi sound strong razor isolate orchard sure";
+var mnemonic = "cereal topple total ghost almost awkward drive gather royal provide else right";

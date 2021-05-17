@@ -1,1 +1,1 @@
-var mnemonic = "issue shine dilemma hire faint rely pottery now cake iron love wisdom";
+var mnemonic = "inject quote forget visit memory visit issue rabbit velvet spoil pitch harvest";

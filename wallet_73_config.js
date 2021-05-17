@@ -1,1 +1,1 @@
-var mnemonic = "demise meadow next pulp depth enough lab glow typical river huge grab";
+var mnemonic = "identify regular airport strike legal bridge cricket call trend duty behave patrol";

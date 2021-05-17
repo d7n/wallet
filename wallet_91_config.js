@@ -1,1 +1,1 @@
-var mnemonic = "possible practice tree drill say can guilt film when kiwi exclude zero";
+var mnemonic = "tornado usage dress cover slab used venture icon food place such dinner";

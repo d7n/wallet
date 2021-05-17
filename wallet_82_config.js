@@ -1,1 +1,1 @@
-var mnemonic = "morning half flavor roof hundred vendor penalty motor next lemon reflect leisure";
+var mnemonic = "develop outside video fall toast flight filter song antique diagram prepare theory";

@@ -1,1 +1,1 @@
-var mnemonic = "height nothing lonely orange conduct field rebuild exercise until slush chaos scan";
+var mnemonic = "cream camp melt job wrap bridge chimney gloom pepper siege spike juice";

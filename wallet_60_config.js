@@ -1,1 +1,1 @@
-var mnemonic = "scout bridge noise way bracket one message bubble rule middle window assault";
+var mnemonic = "shine involve twist can century exotic drip blood expose love dumb fit";

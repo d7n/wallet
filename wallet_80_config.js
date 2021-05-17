@@ -1,1 +1,1 @@
-var mnemonic = "topic another spray crucial shy quiz riot dash icon curtain intact recipe";
+var mnemonic = "board pond record melt promote trust lawn lift slab response mouse culture";

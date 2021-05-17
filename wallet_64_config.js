@@ -1,1 +1,1 @@
-var mnemonic = "hint clutch flag rate discover truly syrup joke pill duck speak senior";
+var mnemonic = "boy tobacco physical spy satoshi shrimp artwork bid decorate demise draw stone";

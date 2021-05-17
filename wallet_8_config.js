@@ -1,1 +1,1 @@
-var mnemonic = "napkin wait uphold struggle between couch hover brand pen camera ten travel";
+var mnemonic = "lottery wave carbon air neglect suffer aim waste slot bean stay stadium";

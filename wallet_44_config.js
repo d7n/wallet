@@ -1,1 +1,1 @@
-var mnemonic = "legend glory dust three human inspire uphold leg gather penalty help dragon";
+var mnemonic = "fantasy cable unveil heart elite remove carbon portion opera modify slide wild";

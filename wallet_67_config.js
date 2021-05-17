@@ -1,1 +1,1 @@
-var mnemonic = "fetch orchard jungle scout assist case decide flock scorpion level truly rack";
+var mnemonic = "saddle warfare tape sign disorder sure wide morning rabbit brush wheel brave";

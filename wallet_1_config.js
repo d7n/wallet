@@ -1,1 +1,1 @@
-var mnemonic = "change shiver coyote venture odor spread anchor prize cover face staff impulse";
+var mnemonic = "slogan idle route crunch skirt electric sleep food logic embark tongue chimney";

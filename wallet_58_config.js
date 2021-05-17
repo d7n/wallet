@@ -1,1 +1,1 @@
-var mnemonic = "adult balance draw cram tip reduce quiz nasty planet deposit rocket depth";
+var mnemonic = "spend neglect wrestle post teach uncover thumb lava hospital culture anger sail";

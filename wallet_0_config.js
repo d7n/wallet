@@ -1,1 +1,1 @@
-var mnemonic = "awake weapon theme toddler theory custom lonely creek east skin increase people";
+var mnemonic = "chaos rude relief search exotic glimpse future turtle group legal because sock";

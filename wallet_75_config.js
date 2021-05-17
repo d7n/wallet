@@ -1,1 +1,1 @@
-var mnemonic = "broccoli lazy owner kid team slogan syrup rail side pepper dust core";
+var mnemonic = "penalty vital wave license engine gown possible roof mushroom industry around enjoy";

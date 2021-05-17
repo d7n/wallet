@@ -1,1 +1,1 @@
-var mnemonic = "bronze spend stem venue crew estate glance letter habit divorce rough loud";
+var mnemonic = "surge earth captain venue story gas era weather odor elevator strong clog";

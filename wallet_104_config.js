@@ -1,1 +1,1 @@
-var mnemonic = "isolate else donate ripple twice orphan crime diesel collect focus ribbon tiger";
+var mnemonic = "nephew poet insane crisp yard lift any purity account sponsor rare forum";

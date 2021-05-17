@@ -1,1 +1,1 @@
-var mnemonic = "glow custom essay minute danger ozone tomato say loyal aunt wasp stove";
+var mnemonic = "kite certain ability scrub salute direct census another figure best tube problem";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt source funny again wave tone give fitness wrist reward wrestle thumb";
+var mnemonic = "abuse logic depend giant echo runway pumpkin grid solution grunt number stove";

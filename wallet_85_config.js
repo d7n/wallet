@@ -1,1 +1,1 @@
-var mnemonic = "tank abuse since post neglect table save permit claim horse shallow rice";
+var mnemonic = "mechanic jungle grab naive angry swift polar input diagram spoon before fury";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon solution old boss demand harbor lab syrup hunt city room beach";
+var mnemonic = "tomorrow hidden when output observe bridge judge arrive interest final lumber invite";

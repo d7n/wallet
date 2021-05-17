@@ -1,1 +1,1 @@
-var mnemonic = "tape bamboo matrix wood cotton metal icon icon absorb wild mountain critic";
+var mnemonic = "pledge kidney donate envelope hammer ice salt divide nose embrace rookie reform";

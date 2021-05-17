@@ -1,1 +1,1 @@
-var mnemonic = "supreme monitor access access answer sketch sunny slice sand staff kitchen blame";
+var mnemonic = "chaos obscure later matrix rain draw april crush october review focus army";

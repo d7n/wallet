@@ -1,1 +1,1 @@
-var mnemonic = "extend unknown thumb corn rib require eyebrow accuse cluster muscle ring picnic";
+var mnemonic = "income fancy pony velvet hedgehog happy job ordinary spider average radio cry";

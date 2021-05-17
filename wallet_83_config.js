@@ -1,1 +1,1 @@
-var mnemonic = "task bacon wedding swamp razor praise dignity grow insane recycle day subject";
+var mnemonic = "when sleep include concert blouse ladder version person convince fade element market";

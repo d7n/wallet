@@ -1,1 +1,1 @@
-var mnemonic = "game hurry bunker coil wash insect rule valve snack fluid rebuild gap";
+var mnemonic = "tuition praise near world warm cannon future sibling talent impose erode point";

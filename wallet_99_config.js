@@ -1,1 +1,1 @@
-var mnemonic = "vocal sail sing rain bag kid chalk feature talk joy income cabbage";
+var mnemonic = "medal boost rather tiger visual train economy hood receive skin canyon average";

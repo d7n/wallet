@@ -1,1 +1,1 @@
-var mnemonic = "behave mosquito rare key wage accuse zero market pudding scissors taste outer";
+var mnemonic = "favorite glide panther wife carpet beef rigid champion dinner erupt chunk census";

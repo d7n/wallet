@@ -1,1 +1,1 @@
-var mnemonic = "near refuse flag negative cage tag royal island absurd news leave material";
+var mnemonic = "advice divorce rocket hazard adjust butter dignity speed whisper rigid increase upper";

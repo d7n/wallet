@@ -1,1 +1,1 @@
-var mnemonic = "chief carpet avocado surface surge strike fold puzzle warrior flower salute foil";
+var mnemonic = "age sea curtain match soul split toe enroll chalk wide prevent oval";

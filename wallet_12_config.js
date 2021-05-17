@@ -1,1 +1,1 @@
-var mnemonic = "motor clinic exercise visual black trim can convince country transfer submit move";
+var mnemonic = "alert glove mask absurd announce margin napkin east shine expect remember detail";

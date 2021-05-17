@@ -1,1 +1,1 @@
-var mnemonic = "remain doctor female gift segment divide annual into people enlist faith network";
+var mnemonic = "base taxi museum walk unique mixture clarify kidney light hobby duck write";

@@ -1,1 +1,1 @@
-var mnemonic = "mind cruise physical safe search sausage duck often error replace depart since";
+var mnemonic = "chuckle spring elephant pilot banana hungry flight hover churn wild gas calm";

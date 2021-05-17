@@ -1,1 +1,1 @@
-var mnemonic = "march pilot board machine inner fiscal above shed foot burden focus today";
+var mnemonic = "taste option upset divorce use concert amount side anger recall fee example";

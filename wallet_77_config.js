@@ -1,1 +1,1 @@
-var mnemonic = "key dilemma lonely disorder goose mask tortoise cute slide joy wedding fly";
+var mnemonic = "elegant mouse exist address cube push toss surprise motion brand evidence brother";

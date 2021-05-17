@@ -1,1 +1,1 @@
-var mnemonic = "improve hawk diet ready body life seven powder interest obscure video resource";
+var mnemonic = "predict cement service moon tribe flower marble disorder ankle festival train mixed";

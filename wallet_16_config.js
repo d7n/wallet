@@ -1,1 +1,1 @@
-var mnemonic = "security child stone blade curious spin liberty employ place undo motor rubber";
+var mnemonic = "task mad elegant settle lobster leisure damage subject dry gospel park hire";

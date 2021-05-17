@@ -1,1 +1,1 @@
-var mnemonic = "picnic dose couch chunk silly lab stool youth taxi hood stage garlic";
+var mnemonic = "mixture error shrimp dish mail leave lake fashion improve install follow glass";

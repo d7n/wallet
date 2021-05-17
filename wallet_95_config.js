@@ -1,1 +1,1 @@
-var mnemonic = "door fitness toddler agree motor during aspect chest undo wine artist entire";
+var mnemonic = "analyst double pill giant next fabric tray diamond reward blood network under";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle enroll imitate evil slam concert address ten broom gossip truck before";
+var mnemonic = "sudden donor grocery cherry arctic fold luggage case bread rather shadow obtain";

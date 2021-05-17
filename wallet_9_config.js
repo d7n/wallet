@@ -1,1 +1,1 @@
-var mnemonic = "faint girl celery eyebrow ancient obscure they enlist melt dignity wisdom limit";
+var mnemonic = "pottery leaf illegal carpet fuel lunch favorite private blanket attack excite warrior";
