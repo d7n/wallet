@@ -1,1 +1,1 @@
-var mnemonic = "curious sound immense west change balcony latin vault cabin label insane liberty";
+var mnemonic = "tank abuse since post neglect table save permit claim horse shallow rice";

@@ -1,1 +1,1 @@
-var mnemonic = "damp reveal fashion ghost category october couple dentist light smile agent shift";
+var mnemonic = "cancel vault stereo web pair baby famous asthma cruise crucial eight clump";

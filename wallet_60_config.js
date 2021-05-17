@@ -1,1 +1,1 @@
-var mnemonic = "field pride shy rail task muffin business dynamic lamp walnut afraid cash";
+var mnemonic = "scout bridge noise way bracket one message bubble rule middle window assault";

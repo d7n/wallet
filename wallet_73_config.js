@@ -1,1 +1,1 @@
-var mnemonic = "room wood bench inherit update sea rapid clinic crowd extend convince cheap";
+var mnemonic = "demise meadow next pulp depth enough lab glow typical river huge grab";

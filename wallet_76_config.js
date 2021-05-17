@@ -1,1 +1,1 @@
-var mnemonic = "top case era that under dash nasty kiwi leader door apart inmate";
+var mnemonic = "height nothing lonely orange conduct field rebuild exercise until slush chaos scan";

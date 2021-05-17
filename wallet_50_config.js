@@ -1,1 +1,1 @@
-var mnemonic = "run purpose connect child library garment narrow roast essence whip multiply staff";
+var mnemonic = "brand few update pilot into milk behave rate spray abuse mention ensure";

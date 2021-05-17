@@ -1,1 +1,1 @@
-var mnemonic = "allow oblige tragic engine hard myth steak fragile cluster tragic audit tissue";
+var mnemonic = "legend glory dust three human inspire uphold leg gather penalty help dragon";

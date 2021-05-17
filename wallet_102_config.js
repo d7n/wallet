@@ -1,1 +1,1 @@
-var mnemonic = "sleep suit vital come child ring afford march champion arena flip build";
+var mnemonic = "dynamic purpose pattern hundred gasp verify plunge federal wheat theory hawk plastic";

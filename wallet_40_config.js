@@ -1,1 +1,1 @@
-var mnemonic = "veteran game behind want crumble seek spoil ankle fossil inspire agent tape";
+var mnemonic = "combine stamp divide action name pull diagram bottom muscle sense agree hint";

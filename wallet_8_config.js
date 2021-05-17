@@ -1,1 +1,1 @@
-var mnemonic = "ride vessel emotion vibrant shadow nice grow yard wagon flag join afraid";
+var mnemonic = "napkin wait uphold struggle between couch hover brand pen camera ten travel";

@@ -1,1 +1,1 @@
-var mnemonic = "race december odor draw fantasy neglect remind faculty cheese antique walnut near";
+var mnemonic = "coffee option civil diet price move draw proud wink tuition bleak basic";

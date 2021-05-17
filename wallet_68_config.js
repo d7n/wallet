@@ -1,1 +1,1 @@
-var mnemonic = "habit pretty notable island season attitude tragic give scene heavy noodle minor";
+var mnemonic = "picnic dose couch chunk silly lab stool youth taxi hood stage garlic";

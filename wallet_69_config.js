@@ -1,1 +1,1 @@
-var mnemonic = "veteran return clarify tone mimic page measure manage code foil below near";
+var mnemonic = "chief carpet avocado surface surge strike fold puzzle warrior flower salute foil";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom code praise erosion vicious autumn junior ladder curve hill federal luggage";
+var mnemonic = "game hurry bunker coil wash insect rule valve snack fluid rebuild gap";

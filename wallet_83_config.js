@@ -1,1 +1,1 @@
-var mnemonic = "vendor remember awake record similar pilot merit fee nut promote beyond reveal";
+var mnemonic = "task bacon wedding swamp razor praise dignity grow insane recycle day subject";

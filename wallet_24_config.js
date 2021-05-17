@@ -1,1 +1,1 @@
-var mnemonic = "curtain demand easy same mad rebuild barely adjust cousin tape ivory address";
+var mnemonic = "improve hawk diet ready body life seven powder interest obscure video resource";

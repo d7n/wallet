@@ -1,1 +1,1 @@
-var mnemonic = "replace what iron fall almost february aisle rib volume harbor similar blossom";
+var mnemonic = "rifle enroll imitate evil slam concert address ten broom gossip truck before";

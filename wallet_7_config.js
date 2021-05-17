@@ -1,1 +1,1 @@
-var mnemonic = "exhibit cruel sell answer track similar hammer gain milk spell noodle victory";
+var mnemonic = "orchard evidence table observe spin night early employ patient pill shuffle gorilla";

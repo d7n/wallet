@@ -1,1 +1,1 @@
-var mnemonic = "cart alter chimney luggage laundry relax canal announce stomach fuel cotton throw";
+var mnemonic = "cement keep error forget demand vote buffalo truck enter advice swift pumpkin";

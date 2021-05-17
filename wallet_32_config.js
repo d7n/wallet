@@ -1,1 +1,1 @@
-var mnemonic = "green egg stove myth glance promote still seek worth normal inject shuffle";
+var mnemonic = "extend unknown thumb corn rib require eyebrow accuse cluster muscle ring picnic";

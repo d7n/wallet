@@ -1,1 +1,1 @@
-var mnemonic = "umbrella loud cry swap buddy axis divorce rocket sheriff snake clump allow";
+var mnemonic = "sleep bracket subway foot fluid extra baby vendor boost baby surface security";

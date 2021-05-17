@@ -1,1 +1,1 @@
-var mnemonic = "cute quick unusual silver claim skate please crew cause answer basic wreck";
+var mnemonic = "solar angry soft stereo among weather purity add dumb proud tomorrow human";

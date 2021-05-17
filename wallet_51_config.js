@@ -1,1 +1,1 @@
-var mnemonic = "retire cost police motor shy surround broken sick gloom denial grief crazy";
+var mnemonic = "supreme monitor access access answer sketch sunny slice sand staff kitchen blame";

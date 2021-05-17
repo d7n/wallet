@@ -1,1 +1,1 @@
-var mnemonic = "trophy cake exit sting spell door merit olive purchase ill reflect laundry";
+var mnemonic = "couch sheriff plate scatter hip cake neglect mule net below exact vast";

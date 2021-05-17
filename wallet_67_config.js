@@ -1,1 +1,1 @@
-var mnemonic = "reunion elevator tenant success giraffe scissors girl vehicle summer earth civil pulse";
+var mnemonic = "fetch orchard jungle scout assist case decide flock scorpion level truly rack";

@@ -1,1 +1,1 @@
-var mnemonic = "smile arrest govern seek water card immense expose insect burst submit taste";
+var mnemonic = "mind cruise physical safe search sausage duck often error replace depart since";

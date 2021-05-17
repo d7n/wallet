@@ -1,1 +1,1 @@
-var mnemonic = "gap name income wonder announce foam bundle tackle question people mimic reveal";
+var mnemonic = "glow custom essay minute danger ozone tomato say loyal aunt wasp stove";

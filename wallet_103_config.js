@@ -1,1 +1,1 @@
-var mnemonic = "jungle motion apple wild life someone hedgehog offer supply innocent similar surge";
+var mnemonic = "hunt source funny again wave tone give fitness wrist reward wrestle thumb";

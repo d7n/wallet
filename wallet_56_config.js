@@ -1,1 +1,1 @@
-var mnemonic = "please champion entire table enhance note certain dose whisper sun people float";
+var mnemonic = "fiscal frown notice empower dune gap thank grocery issue strong kiwi giggle";

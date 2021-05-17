@@ -1,1 +1,1 @@
-var mnemonic = "game wreck nasty brain win episode robot romance sure fresh nose alley";
+var mnemonic = "topic another spray crucial shy quiz riot dash icon curtain intact recipe";

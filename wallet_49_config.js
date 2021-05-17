@@ -1,1 +1,1 @@
-var mnemonic = "profit chest tool blind worth slot pizza lens cloud six describe month";
+var mnemonic = "anchor list minute return rocket alpha else case coyote sentence two argue";

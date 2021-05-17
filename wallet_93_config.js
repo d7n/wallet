@@ -1,1 +1,1 @@
-var mnemonic = "confirm click silent decrease vintage curtain illness remind dismiss opera priority scale";
+var mnemonic = "route black unit dilemma bracket mesh visa token panel buzz spoon height";

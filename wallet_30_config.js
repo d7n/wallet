@@ -1,1 +1,1 @@
-var mnemonic = "able route hybrid session verify borrow enrich potato omit amazing whale exercise";
+var mnemonic = "bronze spend stem venue crew estate glance letter habit divorce rough loud";

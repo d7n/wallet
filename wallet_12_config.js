@@ -1,1 +1,1 @@
-var mnemonic = "act there wet various produce shiver squeeze involve cave solid fury fiber";
+var mnemonic = "motor clinic exercise visual black trim can convince country transfer submit move";

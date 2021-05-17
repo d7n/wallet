@@ -1,1 +1,1 @@
-var mnemonic = "maze monitor trend tone patch banana talk enforce twenty regret vague trip";
+var mnemonic = "possible practice tree drill say can guilt film when kiwi exclude zero";

@@ -1,1 +1,1 @@
-var mnemonic = "market flavor speed garage position object cake pen color tree finger cook";
+var mnemonic = "march pilot board machine inner fiscal above shed foot burden focus today";

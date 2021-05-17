@@ -1,1 +1,1 @@
-var mnemonic = "dumb gas tell cost occur limit correct despair curve rug lend off";
+var mnemonic = "enemy film anxiety zebra note caution immense paddle satoshi chimney curve panda";

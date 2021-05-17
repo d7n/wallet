@@ -1,1 +1,1 @@
-var mnemonic = "hazard observe leopard bid alien rare begin consider calm sun cheap enact";
+var mnemonic = "tape bamboo matrix wood cotton metal icon icon absorb wild mountain critic";

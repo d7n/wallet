@@ -1,1 +1,1 @@
-var mnemonic = "rare picture voyage draft cactus juice tunnel upon gasp upon razor trumpet";
+var mnemonic = "limb cake mirror notable town brick cake amazing stem opera veteran winter";

@@ -1,1 +1,1 @@
-var mnemonic = "extra own moment first copper supply slice meadow narrow remind october foil";
+var mnemonic = "vault swift captain lunar odor gallery good ceiling size master sweet move";

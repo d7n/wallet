@@ -1,1 +1,1 @@
-var mnemonic = "already half valley tattoo safe gloom sentence frozen hat bid pipe venture";
+var mnemonic = "laundry sick crouch token punch whip any holiday firm give banner treat";

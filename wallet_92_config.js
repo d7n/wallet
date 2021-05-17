@@ -1,1 +1,1 @@
-var mnemonic = "used limit skill test gallery section curtain robot safe enough salmon brush";
+var mnemonic = "cereal buffalo december until security cloud cricket drink neither mistake clay green";

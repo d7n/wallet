@@ -1,1 +1,1 @@
-var mnemonic = "knife chase surround elite work thrive scissors desk true ketchup music fiber";
+var mnemonic = "frozen solve spawn power hospital this crouch blast light inmate sure zone";

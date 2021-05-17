@@ -1,1 +1,1 @@
-var mnemonic = "company basic warfare soup husband member exile gossip sock better fog turn";
+var mnemonic = "door fitness toddler agree motor during aspect chest undo wine artist entire";

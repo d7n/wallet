@@ -1,1 +1,1 @@
-var mnemonic = "convince legal solar drum useless question mistake nut slight inhale unlock leisure";
+var mnemonic = "struggle scare gossip quality usual abandon comic save dry debate agree name";

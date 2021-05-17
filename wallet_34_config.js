@@ -1,1 +1,1 @@
-var mnemonic = "bus elegant runway spy romance weird fence ignore wheat recipe pottery south";
+var mnemonic = "mountain hazard wreck panther noodle boat frequent easy note unfold yellow general";

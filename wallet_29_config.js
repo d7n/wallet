@@ -1,1 +1,1 @@
-var mnemonic = "cool entry candy rebuild regret fat oven clinic nephew two cruise ordinary";
+var mnemonic = "describe hen hello buyer unlock dinner west album waste ivory pair odor";

@@ -1,1 +1,1 @@
-var mnemonic = "dress sword length learn person tiger vote web solid robust solve dash";
+var mnemonic = "license panel during sail because magnet chronic lava dust waste garbage tongue";

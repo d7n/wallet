@@ -1,1 +1,1 @@
-var mnemonic = "ill donkey water april other home early guess jaguar unknown outside crop";
+var mnemonic = "raccoon solution old boss demand harbor lab syrup hunt city room beach";

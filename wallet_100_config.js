@@ -1,1 +1,1 @@
-var mnemonic = "sight sunset song glory parade better cupboard wall cancel quote thrive august";
+var mnemonic = "glass belt mistake public more ginger novel organ negative front assume early";

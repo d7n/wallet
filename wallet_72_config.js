@@ -1,1 +1,1 @@
-var mnemonic = "type group salt book vendor tool square shed lab pioneer humor mobile";
+var mnemonic = "enlist attack yard sea guitar provide reduce quiz blouse decide check leg";

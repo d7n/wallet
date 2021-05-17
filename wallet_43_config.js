@@ -1,1 +1,1 @@
-var mnemonic = "surface access flower series collect furnace pudding wrong wrestle disagree friend entry";
+var mnemonic = "scrap fiscal disease false palm kite voyage lab educate muscle rail soon";

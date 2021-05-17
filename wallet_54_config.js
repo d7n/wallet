@@ -1,1 +1,1 @@
-var mnemonic = "suspect erode venue diesel crowd swallow genius actor kind type orbit brain";
+var mnemonic = "rail build age marine shrimp sponsor observe swarm luxury sauce vibrant blue";

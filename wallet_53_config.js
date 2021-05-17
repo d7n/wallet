@@ -1,1 +1,1 @@
-var mnemonic = "obscure figure phone wood exhaust aspect final gravity jealous property permit fan";
+var mnemonic = "jar ranch bachelor coconut oil protect jealous faint bounce open limit flee";

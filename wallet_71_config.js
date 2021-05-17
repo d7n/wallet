@@ -1,1 +1,1 @@
-var mnemonic = "capital flag crucial pluck art cargo siren near confirm water harvest gap";
+var mnemonic = "walk vault spike lizard goat pulse taxi oil situate valley toast capital";

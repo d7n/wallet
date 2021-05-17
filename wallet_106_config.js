@@ -1,1 +1,1 @@
-var mnemonic = "other honey finish crumble also camera wreck teach goose grid mixed march";
+var mnemonic = "nice mistake urban glare dentist vocal pumpkin weapon donate diary ensure banner";

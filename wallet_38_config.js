@@ -1,1 +1,1 @@
-var mnemonic = "ankle joy bulk valley fork museum width boat dolphin tomorrow runway lawsuit";
+var mnemonic = "invest always sister false earth sunset seat torch bacon stove price rule";

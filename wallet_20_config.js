@@ -1,1 +1,1 @@
-var mnemonic = "veteran wrap kiss ability obtain source real boss away can people there";
+var mnemonic = "author sorry fit rich jaguar correct cycle maple zone beef utility spy";

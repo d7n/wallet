@@ -1,1 +1,1 @@
-var mnemonic = "duck injury boring fetch pave planet myth celery cheap country voyage rebuild";
+var mnemonic = "faint girl celery eyebrow ancient obscure they enlist melt dignity wisdom limit";

@@ -1,1 +1,1 @@
-var mnemonic = "snap spray whisper quiz must soft exact load pottery seek jelly vacant";
+var mnemonic = "dizzy tissue foot earn hollow defy illegal town vault captain firm above";

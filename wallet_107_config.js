@@ -1,1 +1,1 @@
-var mnemonic = "because life exclude merry guard century tank bullet blood execute fossil raccoon";
+var mnemonic = "certain around loop snow front purchase suffer bamboo awesome nuclear file outside";

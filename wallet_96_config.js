@@ -1,1 +1,1 @@
-var mnemonic = "list sauce present auction multiply motor ordinary indoor car deal hover bright";
+var mnemonic = "purchase wild cactus patrol trim stomach caught expose filter lion buyer guess";

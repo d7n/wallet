@@ -1,1 +1,1 @@
-var mnemonic = "offer sea enough ketchup exact butter sting update predict rural retreat creek";
+var mnemonic = "pulp setup trash soccer essence planet rent salon bamboo supreme game column";

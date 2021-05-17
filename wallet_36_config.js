@@ -1,1 +1,1 @@
-var mnemonic = "cannon general robot skin demise broken decline dignity two odor pride pride";
+var mnemonic = "mango stable time zone flame economy target razor genre release quality toast";

@@ -1,1 +1,1 @@
-var mnemonic = "render patient ankle nasty series observe cluster sheriff when security frown october";
+var mnemonic = "mouse tumble junk parent art permit renew attend solution ring endless educate";

@@ -1,1 +1,1 @@
-var mnemonic = "feed library absurd reward zoo gloom depth region clean beauty mushroom exist";
+var mnemonic = "change shiver coyote venture odor spread anchor prize cover face staff impulse";

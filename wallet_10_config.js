@@ -1,1 +1,1 @@
-var mnemonic = "vault twin cart boring isolate connect capable course pair uphold miss wedding";
+var mnemonic = "bunker noise near feature roast foster crush valley company february skin time";

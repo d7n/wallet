@@ -1,1 +1,1 @@
-var mnemonic = "mother apple autumn heavy umbrella episode helmet egg collect sponsor super chronic";
+var mnemonic = "average novel size divide usage section primary frozen high visual apart ten";

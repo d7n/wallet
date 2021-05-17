@@ -1,1 +1,1 @@
-var mnemonic = "crew access convince tree marble ranch sniff first ridge digital farm option";
+var mnemonic = "velvet key announce song fiction note cattle sight reveal hollow foil race";

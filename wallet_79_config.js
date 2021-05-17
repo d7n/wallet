@@ -1,1 +1,1 @@
-var mnemonic = "tree grace case later boring game seven remember decide hero sniff vocal";
+var mnemonic = "inside rose split sight love category pepper master stand polar stuff unlock";

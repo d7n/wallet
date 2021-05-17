@@ -1,1 +1,1 @@
-var mnemonic = "maze spray fire venue knife buffalo bench surface success prevent small wage";
+var mnemonic = "broccoli lazy owner kid team slogan syrup rail side pepper dust core";

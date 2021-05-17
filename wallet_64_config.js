@@ -1,1 +1,1 @@
-var mnemonic = "indicate devote balcony save away know naive language eager south west shy";
+var mnemonic = "hint clutch flag rate discover truly syrup joke pill duck speak senior";

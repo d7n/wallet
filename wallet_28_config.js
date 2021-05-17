@@ -1,1 +1,1 @@
-var mnemonic = "joke fee choice sound erupt again hint sausage used awake visa dismiss";
+var mnemonic = "humble salute vote clap destroy sunset gorilla vacuum faculty shift ankle jacket";

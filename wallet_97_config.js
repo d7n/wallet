@@ -1,1 +1,1 @@
-var mnemonic = "movie mule world field hair adapt float excite air trust deputy breeze";
+var mnemonic = "echo legend amazing lab arrive mushroom tumble raw grunt hope amused beach";

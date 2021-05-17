@@ -1,1 +1,1 @@
-var mnemonic = "merry famous tip flower modify mention like unable butter cabin brother wealth";
+var mnemonic = "beef spoil damp kiwi glory radio expire change scissors gym cross mobile";

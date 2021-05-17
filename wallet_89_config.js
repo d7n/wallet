@@ -1,1 +1,1 @@
-var mnemonic = "fruit nuclear noodle object fantasy turkey apart sadness voyage device refuse village";
+var mnemonic = "issue shine dilemma hire faint rely pottery now cake iron love wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "estate right end virus despair wood chunk border involve select section monster";
+var mnemonic = "defense repeat path surface resemble bar height pear present bullet quiz electric";

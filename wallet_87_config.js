@@ -1,1 +1,1 @@
-var mnemonic = "sign program favorite wet lyrics term hard critic margin biology decline salon";
+var mnemonic = "move silent cereal curve runway you tornado evil salmon surround stove tide";

@@ -1,1 +1,1 @@
-var mnemonic = "course mobile echo quote also boil feel way copy age trick person";
+var mnemonic = "slide hockey shine feel ozone situate level drift cat carbon cluster hollow";

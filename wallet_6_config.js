@@ -1,1 +1,1 @@
-var mnemonic = "market use exhaust false field simple climb box gym first melt pool";
+var mnemonic = "segment old gun own already energy female rapid payment dumb warfare robot";

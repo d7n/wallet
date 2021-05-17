@@ -1,1 +1,1 @@
-var mnemonic = "camera sleep forum abandon web lounge army chaos hedgehog sad cool palace";
+var mnemonic = "crazy flush smile grief race stone away expire soon deputy actress already";

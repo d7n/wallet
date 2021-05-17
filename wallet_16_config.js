@@ -1,1 +1,1 @@
-var mnemonic = "alarm more balcony dilemma exile guard fun wagon mercy forward cannon dizzy";
+var mnemonic = "security child stone blade curious spin liberty employ place undo motor rubber";

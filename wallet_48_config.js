@@ -1,1 +1,1 @@
-var mnemonic = "pigeon ordinary video machine remain gas mansion squeeze action decide elbow eager";
+var mnemonic = "embrace indicate hen thunder congress prevent undo insane alone need face bread";

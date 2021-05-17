@@ -1,1 +1,1 @@
-var mnemonic = "catch illegal milk climb ahead invite turkey that step gentle diary cave";
+var mnemonic = "remain doctor female gift segment divide annual into people enlist faith network";

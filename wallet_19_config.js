@@ -1,1 +1,1 @@
-var mnemonic = "devote fashion pig wash frequent animal disorder reward hamster music below mix";
+var mnemonic = "account bicycle silver mask label lunar pulp reward napkin muscle flight glue";

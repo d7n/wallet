@@ -1,1 +1,1 @@
-var mnemonic = "about move genius top cram audit bridge use reopen cherry rubber maid";
+var mnemonic = "morning half flavor roof hundred vendor penalty motor next lemon reflect leisure";

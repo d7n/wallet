@@ -1,1 +1,1 @@
-var mnemonic = "object artwork gauge system maple column merry talent decorate venture corn fee";
+var mnemonic = "evil sword give stamp divide segment van sound finger useless parade run";

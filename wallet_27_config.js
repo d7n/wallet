@@ -1,1 +1,1 @@
-var mnemonic = "act recipe mean siren mystery camp dinosaur expose page ethics absurd accident";
+var mnemonic = "same inner jar path addict forum brisk correct bread pelican viable people";

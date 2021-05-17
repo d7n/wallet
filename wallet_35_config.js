@@ -1,1 +1,1 @@
-var mnemonic = "exchange column shoot perfect item right trip urban trial blade vintage armor";
+var mnemonic = "cherry amount kangaroo share enhance face vintage stuff game attend spend theme";

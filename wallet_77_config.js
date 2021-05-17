@@ -1,1 +1,1 @@
-var mnemonic = "evil execute sense bright enjoy simple decade turkey coffee crystal minimum desert";
+var mnemonic = "key dilemma lonely disorder goose mask tortoise cute slide joy wedding fly";

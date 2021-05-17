@@ -1,1 +1,1 @@
-var mnemonic = "torch west shine add sense invest victory copper erupt employ recall vendor";
+var mnemonic = "chalk fat rigid lawn define leg fiber second huge session pact drink";

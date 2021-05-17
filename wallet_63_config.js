@@ -1,1 +1,1 @@
-var mnemonic = "noise much device dismiss brown debate awful chief use great speed asthma";
+var mnemonic = "trade famous govern toast dash board december arch flip dish cabin again";

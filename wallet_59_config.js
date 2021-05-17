@@ -1,1 +1,1 @@
-var mnemonic = "year stamp spawn salt run muscle lucky sustain twelve summer vicious genre";
+var mnemonic = "near refuse flag negative cage tag royal island absurd news leave material";
