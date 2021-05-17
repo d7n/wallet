@@ -1,1 +1,1 @@
-var mnemonic = "witness fly invest brush stairs afford asset proud radar combine tiger dad";
+var mnemonic = "ceiling gesture rocket reward patient pencil ladder level pitch love ankle scale";

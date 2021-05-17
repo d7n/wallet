@@ -1,1 +1,1 @@
-var mnemonic = "indoor explain future valley face hand grocery area nerve hazard camp lemon";
+var mnemonic = "rubber lab worth silver lucky hospital text mixture spray desert eager section";

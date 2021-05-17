@@ -1,1 +1,1 @@
-var mnemonic = "curious build soap above health can fuel knife celery visual permit broken";
+var mnemonic = "surprise cycle drift dune hood phrase toss cliff deliver library cream cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "film method add busy dwarf vintage bid deer ill puppy unfold town";
+var mnemonic = "library frequent keen cable catalog aware biology galaxy rebel lava merit tail";

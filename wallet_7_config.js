@@ -1,1 +1,1 @@
-var mnemonic = "siege aunt sudden tape retire shield return umbrella sing impose loop spirit";
+var mnemonic = "shift caught pioneer welcome answer scare disease mandate patch fiscal youth banner";

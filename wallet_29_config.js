@@ -1,1 +1,1 @@
-var mnemonic = "column faint beauty own orient absurd sick april web must weapon mixture";
+var mnemonic = "timber decline void gain garbage trap dish smooth girl fitness open saddle";

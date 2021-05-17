@@ -1,1 +1,1 @@
-var mnemonic = "tattoo wonder wheat notice animal fossil galaxy force short ghost feature affair";
+var mnemonic = "clap violin perfect carpet seat brother cancel stool mutual spawn middle chair";

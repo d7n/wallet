@@ -1,1 +1,1 @@
-var mnemonic = "sting toast eye disagree entire attract exile often setup enough recall coin";
+var mnemonic = "magnet spirit random fitness magnet crystal device album light across solid enough";

@@ -1,1 +1,1 @@
-var mnemonic = "phone jaguar become legal hood text number remove monster swing cash erase";
+var mnemonic = "picture icon bulk bless arrow face crime harvest motion finger captain mixture";

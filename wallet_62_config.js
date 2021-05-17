@@ -1,1 +1,1 @@
-var mnemonic = "top matter delay kiwi typical side truly equal flag turkey actor smart";
+var mnemonic = "gym satoshi fiction diesel opinion wrist leaf situate honey brief glory cabbage";

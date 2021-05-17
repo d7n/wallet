@@ -1,1 +1,1 @@
-var mnemonic = "erode grid ship argue blind refuse daughter pattern vintage asthma afford tuition";
+var mnemonic = "broccoli float tiny quick elder crack alone stool pause clerk gorilla screen";

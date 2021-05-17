@@ -1,1 +1,1 @@
-var mnemonic = "shoe sunset fashion prefer forget angle author nest height boss stone setup";
+var mnemonic = "example front rule wage actress noble candy invite spot top wife select";

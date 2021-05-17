@@ -1,1 +1,1 @@
-var mnemonic = "section salon speak type remain define glue grape crisp spy parent divorce";
+var mnemonic = "outer ghost ripple depth long obey rifle better mix trap canvas skirt";

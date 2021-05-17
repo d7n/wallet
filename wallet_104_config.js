@@ -1,1 +1,1 @@
-var mnemonic = "exact response violin script benefit arrange oyster bind trim idle distance oppose";
+var mnemonic = "snack level blush exercise life casino stage street tuna luxury party lounge";

@@ -1,1 +1,1 @@
-var mnemonic = "culture blade tone armor owner novel toe birth swap nice gesture bulk";
+var mnemonic = "tribe grow torch wise version casino spot income label oblige mobile furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "rail economy novel cradle plunge glue eye mimic leaf turn spoil wash";
+var mnemonic = "transfer pave alone brisk anger silent lunch travel point denial ordinary tortoise";

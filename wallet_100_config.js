@@ -1,1 +1,1 @@
-var mnemonic = "chat emerge train invite juice portion fiction nature also upgrade action list";
+var mnemonic = "aerobic insect congress conduct family major virus secret color diesel atom educate";

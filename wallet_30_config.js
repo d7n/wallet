@@ -1,1 +1,1 @@
-var mnemonic = "melody wave attend base pizza steak sign captain now thought risk seminar";
+var mnemonic = "total inmate indoor potato toast unknown base era trash goddess catch thrive";

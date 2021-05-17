@@ -1,1 +1,1 @@
-var mnemonic = "job worth funny share water timber artefact frozen era photo labor truck";
+var mnemonic = "crumble tunnel reward silly plunge stone proof enrich observe they surround negative";

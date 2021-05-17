@@ -1,1 +1,1 @@
-var mnemonic = "adapt spray frog illegal once ecology milk husband dinner select often cargo";
+var mnemonic = "robot turtle always seven coral verb defy initial chair parent humble media";

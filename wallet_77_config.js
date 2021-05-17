@@ -1,1 +1,1 @@
-var mnemonic = "south punch amount palm swim image grit reduce differ next chef man";
+var mnemonic = "thought any forest fiscal direct inject volcano slush charge fan meadow onion";

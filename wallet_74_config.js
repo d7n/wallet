@@ -1,1 +1,1 @@
-var mnemonic = "symptom knock strategy rapid sausage stage vehicle mirror half question put cattle";
+var mnemonic = "snow sense assist casino child envelope barely urge assist gentle brand donor";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose depart rice notable isolate cute mountain season equip false fabric cannon";
+var mnemonic = "night boat horse puzzle refuse toe pen kick girl settle must chunk";

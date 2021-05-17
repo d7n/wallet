@@ -1,1 +1,1 @@
-var mnemonic = "label sleep resist save jazz purity diet swarm wreck danger sheriff dirt";
+var mnemonic = "cupboard there wasp burger twin apart vocal speak off laptop case hurry";

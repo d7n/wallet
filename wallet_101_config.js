@@ -1,1 +1,1 @@
-var mnemonic = "flash air door miracle wood derive live turn guard hip chair actress";
+var mnemonic = "veteran moment praise casual people detect initial trouble admit page foot blind";

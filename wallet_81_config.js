@@ -1,1 +1,1 @@
-var mnemonic = "upon long distance flee hello tilt raven carpet change depart wish hospital";
+var mnemonic = "proud pepper vivid unhappy expire cereal unusual eagle sadness glimpse hello cattle";

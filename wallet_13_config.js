@@ -1,1 +1,1 @@
-var mnemonic = "where science topic buzz jewel wolf game protect pact faith proof off";
+var mnemonic = "buddy sadness smooth man arrive chief history chaos flavor buffalo use minute";

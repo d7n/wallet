@@ -1,1 +1,1 @@
-var mnemonic = "awake tenant winter verb ritual border you world defy liar space orphan";
+var mnemonic = "arrest invite raven robust million chunk keep frog flock input maze bulb";

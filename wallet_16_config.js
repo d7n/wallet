@@ -1,1 +1,1 @@
-var mnemonic = "nest antenna cart dizzy nasty ginger bounce honey idle record toast nation";
+var mnemonic = "style scan column robust corn arctic glad live pride fall eager today";

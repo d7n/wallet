@@ -1,1 +1,1 @@
-var mnemonic = "creek fit canal hidden attend reduce belt spare cigar select indoor best";
+var mnemonic = "oxygen cement pretty bind judge banner faint glare pilot movie upgrade weapon";

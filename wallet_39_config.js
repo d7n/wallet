@@ -1,1 +1,1 @@
-var mnemonic = "peanut scout bind gossip people cousin bean detect surround power galaxy zone";
+var mnemonic = "amazing replace average embody maze rebuild critic planet price margin grant jewel";

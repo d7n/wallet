@@ -1,1 +1,1 @@
-var mnemonic = "knife delay dumb mind evil faint impose boost symbol define invest pelican";
+var mnemonic = "recycle water reform call october assume breeze slight intact lesson heart horse";

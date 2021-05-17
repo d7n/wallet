@@ -1,1 +1,1 @@
-var mnemonic = "jump frozen rocket symbol primary melody gospel exact orange reduce annual tumble";
+var mnemonic = "obscure elbow athlete hour tray heart struggle leisure garlic expand script pact";

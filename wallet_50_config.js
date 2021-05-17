@@ -1,1 +1,1 @@
-var mnemonic = "protect country bone strategy almost swear quantum medal chunk uphold engage memory";
+var mnemonic = "airport edge people chimney school fury card cupboard heavy keep have ball";

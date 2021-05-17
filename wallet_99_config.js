@@ -1,1 +1,1 @@
-var mnemonic = "inmate give young hard vanish unique announce close priority ostrich execute salt";
+var mnemonic = "celery have spell cheap bonus dentist unaware announce order betray congress reason";

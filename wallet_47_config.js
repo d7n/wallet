@@ -1,1 +1,1 @@
-var mnemonic = "breeze shield eternal island inmate february card mercy consider wife smoke brush";
+var mnemonic = "sense behave elephant shift skin broccoli want tumble harsh urban carbon scheme";

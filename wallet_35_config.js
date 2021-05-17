@@ -1,1 +1,1 @@
-var mnemonic = "recipe food decorate bike essence fury empower machine shoot ready around turn";
+var mnemonic = "blind dawn bulk ribbon picture soccer replace unfold fuel piano cat vivid";

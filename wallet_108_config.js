@@ -1,1 +1,1 @@
-var mnemonic = "carpet pond town account smile wink enough holiday magnet renew frost thrive";
+var mnemonic = "sphere energy poverty divide real please jaguar phrase crouch proud arena ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "version ten nurse slush document someone supply drive cage giant cash acoustic";
+var mnemonic = "deliver night fun ignore inquiry angry include certain flip sign throw claim";

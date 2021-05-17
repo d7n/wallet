@@ -1,1 +1,1 @@
-var mnemonic = "version mirror reflect omit gas aim steel sadness physical regular bamboo pretty";
+var mnemonic = "blame broken engage wall balcony green run dentist project body unfold memory";

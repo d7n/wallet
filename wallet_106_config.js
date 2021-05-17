@@ -1,1 +1,1 @@
-var mnemonic = "blossom eager lava place space glove cotton wealth mosquito praise short another";
+var mnemonic = "produce crash skin achieve drink bleak rate certain thunder amateur benefit muffin";

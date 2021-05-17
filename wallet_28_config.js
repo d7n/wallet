@@ -1,1 +1,1 @@
-var mnemonic = "craft across extra tent symptom phrase antique ticket arm brass window blind";
+var mnemonic = "royal spoon december wear surge also tooth toward patch clog where raw";

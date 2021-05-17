@@ -1,1 +1,1 @@
-var mnemonic = "member erupt person symptom ketchup banana wagon profit cost claw mail scale";
+var mnemonic = "recall crane brush design manage sunset consider table acoustic bind decorate winner";

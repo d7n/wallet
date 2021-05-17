@@ -1,1 +1,1 @@
-var mnemonic = "surprise vibrant crunch pond elite cushion poverty stone camera dirt august reunion";
+var mnemonic = "mansion toast reunion flip laugh once noble calm immune brain elite eagle";

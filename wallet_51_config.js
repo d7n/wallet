@@ -1,1 +1,1 @@
-var mnemonic = "gossip aerobic unhappy begin tape pave kangaroo test provide reform cannon author";
+var mnemonic = "mechanic spawn pizza robust rely kite critic soft adapt lunch junk rice";

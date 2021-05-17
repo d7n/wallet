@@ -1,1 +1,1 @@
-var mnemonic = "uphold perfect gauge evoke purity cup inner demise loan middle celery host";
+var mnemonic = "liberty slender style pen group awkward door raise copy giggle guilt tenant";

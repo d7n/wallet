@@ -1,1 +1,1 @@
-var mnemonic = "hunt middle license tornado identify lazy sausage laundry exhibit urge topple pluck";
+var mnemonic = "ticket occur fun senior ribbon clump cup saddle approve noise alone hood";

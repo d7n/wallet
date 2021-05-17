@@ -1,1 +1,1 @@
-var mnemonic = "year half glory rebuild color elbow clarify surface exercise blossom giant attack";
+var mnemonic = "return lemon enforce blur embark diagram wage destroy wheel wall home antique";

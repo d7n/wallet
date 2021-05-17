@@ -1,1 +1,1 @@
-var mnemonic = "rude cigar wagon tube million left tell napkin guitar stairs bullet north";
+var mnemonic = "vast require loop nose slide runway man problem chapter wrestle unique category";

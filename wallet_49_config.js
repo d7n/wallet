@@ -1,1 +1,1 @@
-var mnemonic = "stock sunset age crucial box enlist since stumble pattern maze valley giggle";
+var mnemonic = "milk plunge idea vibrant gain banner brave notice elephant remind law judge";

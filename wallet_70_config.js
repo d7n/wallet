@@ -1,1 +1,1 @@
-var mnemonic = "tiny shop verb toss elegant lady april thumb effort isolate slogan stuff";
+var mnemonic = "sword enough add blast drive tunnel pledge scale cute culture evoke library";

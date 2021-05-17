@@ -1,1 +1,1 @@
-var mnemonic = "engage fade nut fog evil unaware roast split nurse opinion surface apart";
+var mnemonic = "frame loud shine denial tone response multiply because robot balcony whale rally";

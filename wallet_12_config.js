@@ -1,1 +1,1 @@
-var mnemonic = "output matter confirm danger source wrestle desert secret vote infant desert trigger";
+var mnemonic = "vintage text village fury figure food observe claw seminar burden scene write";

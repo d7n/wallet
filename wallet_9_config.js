@@ -1,1 +1,1 @@
-var mnemonic = "seat winner upgrade apple grit trim ridge ladder check mother olive praise";
+var mnemonic = "income wear toddler element liar web toward list grant crash bike tone";

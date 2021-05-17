@@ -1,1 +1,1 @@
-var mnemonic = "build oak finger fruit lock patient broken excess tent cloth excite bar";
+var mnemonic = "boat farm term dentist simple play funny tomorrow hidden ordinary poem flat";

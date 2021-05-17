@@ -1,1 +1,1 @@
-var mnemonic = "trap bus topple update fabric derive check cage unusual yard have sadness";
+var mnemonic = "diesel frown kiss such virtual room float require coil expect gravity senior";

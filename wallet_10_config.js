@@ -1,1 +1,1 @@
-var mnemonic = "warfare swift fix imitate found language view taste weekend piece brain undo";
+var mnemonic = "ostrich inquiry rice neutral razor rescue hazard define resist kite outside snap";

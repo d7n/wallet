@@ -1,1 +1,1 @@
-var mnemonic = "anchor abandon flight about armed card mean gown defense boy mistake april";
+var mnemonic = "tattoo cotton blue security model option ranch corn someone ahead medal radio";

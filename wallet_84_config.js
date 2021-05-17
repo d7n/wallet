@@ -1,1 +1,1 @@
-var mnemonic = "front slogan actress path giraffe alarm lizard ship orient wise audit panic";
+var mnemonic = "inch arrest extra day code rabbit agent swear champion unusual intact gate";

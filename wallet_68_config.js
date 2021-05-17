@@ -1,1 +1,1 @@
-var mnemonic = "now saddle escape unique kite bid issue wrong gain grab organ glove";
+var mnemonic = "citizen wonder elder fence walk kind denial panda police blast day vivid";

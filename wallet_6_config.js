@@ -1,1 +1,1 @@
-var mnemonic = "history wasp spring expose act copy cage diet special media round choose";
+var mnemonic = "dismiss option dial share hurry leaf ramp boat install equip never mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "error cute toe valve tank lift awkward kick wish burden unhappy discover";
+var mnemonic = "twice pilot wire eternal chicken nerve captain club beach beyond bless royal";

@@ -1,1 +1,1 @@
-var mnemonic = "poem only harsh post spell chair move velvet grape pipe defy envelope";
+var mnemonic = "raven spatial detail response scout dolphin ancient cable tool salon sponsor employ";

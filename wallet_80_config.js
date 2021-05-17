@@ -1,1 +1,1 @@
-var mnemonic = "weather vault board canal casual opinion wood top unable another hello poverty";
+var mnemonic = "way describe put grid reveal select intact sketch ancient toy library chapter";

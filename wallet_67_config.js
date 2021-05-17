@@ -1,1 +1,1 @@
-var mnemonic = "leader arm kitten young man rose hungry debate collect bike search start";
+var mnemonic = "boil trigger penalty city beef fatal book pupil notable asset hotel portion";

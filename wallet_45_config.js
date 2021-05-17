@@ -1,1 +1,1 @@
-var mnemonic = "unusual electric finish until notable layer jump east artist first sad figure";
+var mnemonic = "unhappy treat easy spring inject protect fitness celery cruel juice humble expand";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain honey enhance key dash town picture embody depth allow fame issue";
+var mnemonic = "siren sorry curtain present grant blouse path gentle mass advance topple table";

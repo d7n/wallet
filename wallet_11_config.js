@@ -1,1 +1,1 @@
-var mnemonic = "satisfy doctor vast impose cactus truck vacuum fly wet either embrace angle";
+var mnemonic = "gym nice try protect place quantum enjoy worry add hospital cruise violin";

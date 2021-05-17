@@ -1,1 +1,1 @@
-var mnemonic = "frost squeeze stand feed rotate door brick phrase awful core note tourist";
+var mnemonic = "hungry sister pumpkin tiger catch sketch steak three chair gallery client brush";

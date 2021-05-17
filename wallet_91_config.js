@@ -1,1 +1,1 @@
-var mnemonic = "mad extend turtle imitate torch observe stadium police pigeon stone crystal old";
+var mnemonic = "obtain easily human unlock sea collect measure eight address owner dutch hello";

@@ -1,1 +1,1 @@
-var mnemonic = "cable make van sudden select aspect once tomorrow bargain voyage ostrich concert";
+var mnemonic = "panther moon carry gain million lecture frown jeans quick lucky solar grace";

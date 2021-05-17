@@ -1,1 +1,1 @@
-var mnemonic = "aim wrestle ecology tumble extra will reveal price lesson quit penalty trick";
+var mnemonic = "urge lawsuit regret thumb invest jacket meadow cause real drift multiply puzzle";

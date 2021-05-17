@@ -1,1 +1,1 @@
-var mnemonic = "move pen vendor wash random sausage aerobic gloom they knock spice youth";
+var mnemonic = "twist session solar vicious height nothing load future leisure giggle acoustic swing";

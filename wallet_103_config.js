@@ -1,1 +1,1 @@
-var mnemonic = "elephant pepper first vacuum thought way divert test truck pitch erupt combine";
+var mnemonic = "pave picnic cash cattle bulb virus catalog gossip return recycle high horse";

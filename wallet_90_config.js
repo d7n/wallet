@@ -1,1 +1,1 @@
-var mnemonic = "grape coast still loop merge aisle way move answer limit visual leisure";
+var mnemonic = "visual trumpet found crumble orchard organ castle blood tortoise layer disagree amount";

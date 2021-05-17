@@ -1,1 +1,1 @@
-var mnemonic = "input problem trash anchor spawn setup brush cause pave stay frown truth";
+var mnemonic = "garbage capable timber type client tuna pitch garlic name choice salute vintage";

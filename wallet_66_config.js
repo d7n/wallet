@@ -1,1 +1,1 @@
-var mnemonic = "medal milk scout invite million subject glance execute baby original develop valid";
+var mnemonic = "busy swallow index happy what enroll odor cloud script depend argue sun";

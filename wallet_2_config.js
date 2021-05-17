@@ -1,1 +1,1 @@
-var mnemonic = "wise donor wave switch uphold promote note motion three soft social assist";
+var mnemonic = "floor truly swallow strike window glide assault frame wise social shield cousin";

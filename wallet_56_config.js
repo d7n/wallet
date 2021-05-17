@@ -1,1 +1,1 @@
-var mnemonic = "fashion festival genius kingdom family mention urge shift venture neck figure hammer";
+var mnemonic = "obtain online embrace suit cricket earth once absurd valid travel market sell";

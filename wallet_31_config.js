@@ -1,1 +1,1 @@
-var mnemonic = "federal ice dinner domain lady engage horse oil figure flush fame fruit";
+var mnemonic = "fatigue clump huge garment enough front advice wage feed segment stuff nephew";

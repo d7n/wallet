@@ -1,1 +1,1 @@
-var mnemonic = "decade charge bamboo false valve bright mosquito suffer beef primary forget glare";
+var mnemonic = "hour fortune segment sudden unfold catch penalty animal inquiry estate identify gym";

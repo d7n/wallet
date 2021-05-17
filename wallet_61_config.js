@@ -1,1 +1,1 @@
-var mnemonic = "interest rude athlete bamboo gate noble shiver ethics advice priority uniform feel";
+var mnemonic = "sponsor sniff notice prefer panda asthma soul polar cup stadium outer radio";

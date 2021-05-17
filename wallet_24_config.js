@@ -1,1 +1,1 @@
-var mnemonic = "vintage profit term solution fish confirm tape minute input already toast joy";
+var mnemonic = "alley search casino about junk mule habit reduce toast sick off game";

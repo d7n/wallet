@@ -1,1 +1,1 @@
-var mnemonic = "pioneer foot start kidney ozone quiz source all cross copper squirrel jump";
+var mnemonic = "scrub thunder seed try error wave aisle whisper figure series either setup";

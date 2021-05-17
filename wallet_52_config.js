@@ -1,1 +1,1 @@
-var mnemonic = "quality reopen oppose praise proud weekend spy try reduce hour scrub surge";
+var mnemonic = "crazy print punch dry dinosaur injury measure embark panic direct mobile resemble";

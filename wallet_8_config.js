@@ -1,1 +1,1 @@
-var mnemonic = "labor shoe dune breeze book sail check fish life moon clerk skate";
+var mnemonic = "question moral rigid observe ask south blossom ranch crime cousin master check";

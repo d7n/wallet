@@ -1,1 +1,1 @@
-var mnemonic = "wood nephew panic soldier horror home lyrics require tank rally enjoy interest";
+var mnemonic = "pistol virus announce more jewel divorce entry world repeat grace inform tenant";
