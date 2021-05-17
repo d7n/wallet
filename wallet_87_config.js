@@ -1,1 +1,1 @@
-var mnemonic = "garage leave keen report olive derive frown giggle flame vote leg vanish";
+var mnemonic = "gadget exit gospel saddle release bring food bargain diamond neither reveal asthma";

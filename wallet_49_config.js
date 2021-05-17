@@ -1,1 +1,1 @@
-var mnemonic = "trade replace bronze rain accuse defense unusual hello chaos reform tree syrup";
+var mnemonic = "pull bleak squeeze loyal village toward rookie december maximum replace wrong rookie";

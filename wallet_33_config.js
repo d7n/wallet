@@ -1,1 +1,1 @@
-var mnemonic = "home between sand beauty best invite load vehicle prosper giraffe mushroom stairs";
+var mnemonic = "razor decline civil error decrease define account amazing sorry lunch curtain usual";

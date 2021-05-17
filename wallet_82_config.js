@@ -1,1 +1,1 @@
-var mnemonic = "promote fossil slide denial reflect exchange surge three bottom tail morning ginger";
+var mnemonic = "escape jacket virtual laptop just dad distance glow risk labor ripple narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow page text fork ugly height surge drift vote perfect party rude";
+var mnemonic = "fix grocery reopen sing casual will job ivory buzz episode skirt sword";

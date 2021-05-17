@@ -1,1 +1,1 @@
-var mnemonic = "day ostrich word twice razor wear name fruit veteran infant upper ocean";
+var mnemonic = "earn carpet marble veteran sugar gallery minor hunt wrestle animal bench symbol";

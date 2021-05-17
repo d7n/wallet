@@ -1,1 +1,1 @@
-var mnemonic = "fruit winter rebuild six snake kid used bird demise badge river tongue";
+var mnemonic = "spatial salt fence first clever hobby movie frame scatter remind paddle loan";

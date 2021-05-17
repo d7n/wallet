@@ -1,1 +1,1 @@
-var mnemonic = "prison pole major injury blame bronze image admit tribe alien husband weather";
+var mnemonic = "crisp beef scene tuna canoe valley accident lyrics pipe chalk mammal scale";

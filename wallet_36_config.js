@@ -1,1 +1,1 @@
-var mnemonic = "syrup regret convince surge salmon add neglect street fuel avoid bounce version";
+var mnemonic = "once lend budget cool fit mosquito tonight unable velvet tenant assault rate";

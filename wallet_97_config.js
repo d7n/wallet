@@ -1,1 +1,1 @@
-var mnemonic = "deal inside option member magic snap pipe dolphin toward arrange pulse tuition";
+var mnemonic = "pluck congress climb expand monkey document column genius merry elephant gym multiply";

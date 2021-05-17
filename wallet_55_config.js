@@ -1,1 +1,1 @@
-var mnemonic = "lesson cargo auction rate slot embody educate cactus hazard furnace bridge rebel";
+var mnemonic = "cabbage final elder village good high mix decorate mesh trim advice history";

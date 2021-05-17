@@ -1,1 +1,1 @@
-var mnemonic = "cram prosper hello insect soccer opinion mass entry twice hair sand rally";
+var mnemonic = "evil snow taste retreat diesel soldier mad remind captain soul search decade";

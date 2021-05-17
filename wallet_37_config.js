@@ -1,1 +1,1 @@
-var mnemonic = "equal horror busy decrease time supreme gorilla ask twin inflict mimic dress";
+var mnemonic = "donkey wisdom soldier year title mind idle abandon embark warrior swim oblige";

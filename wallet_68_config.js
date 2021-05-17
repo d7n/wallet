@@ -1,1 +1,1 @@
-var mnemonic = "pony what brush share minimum truly stable coconut torch exchange edge pyramid";
+var mnemonic = "source have seek slab shift witness before envelope dad digital diet slogan";

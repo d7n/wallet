@@ -1,1 +1,1 @@
-var mnemonic = "total shaft mountain ginger team position rich stand solve please involve faint";
+var mnemonic = "current spell clarify casual muscle control hunt budget film interest idea antenna";

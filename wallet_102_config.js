@@ -1,1 +1,1 @@
-var mnemonic = "smile proof dove devote attract series oval drink hip any roast result";
+var mnemonic = "carbon minimum pudding rain carry sad fish work music alpha creek image";

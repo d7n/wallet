@@ -1,1 +1,1 @@
-var mnemonic = "survey say lecture trial evolve reward quit arrange cause orphan waste also";
+var mnemonic = "almost civil owner tank simple steak patrol trial suffer person brand fatal";

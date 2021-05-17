@@ -1,1 +1,1 @@
-var mnemonic = "fish reduce scissors leaf practice often uncover adult park cross hurdle oval";
+var mnemonic = "host remove female holiday veteran shop pool prosper lend laugh ankle decide";

@@ -1,1 +1,1 @@
-var mnemonic = "latin film loop gospel fatigue grant calm govern network short place level";
+var mnemonic = "lazy subway cost cousin identify stuff hello lunch put audit mutual during";

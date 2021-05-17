@@ -1,1 +1,1 @@
-var mnemonic = "decorate beef figure grow security era snow wage goose float spike divide";
+var mnemonic = "dry stairs else memory glue auction pistol when wet chest thumb elder";

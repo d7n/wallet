@@ -1,1 +1,1 @@
-var mnemonic = "nerve sort cabbage whip viable fat domain mixture wet oppose pupil size";
+var mnemonic = "canal almost lion offer gate dinosaur divert memory search tree vendor lab";

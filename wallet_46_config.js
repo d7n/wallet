@@ -1,1 +1,1 @@
-var mnemonic = "online have recipe person velvet hurdle add system antique pupil brush pizza";
+var mnemonic = "narrow put effort spoil copper either economy silly brave test control ostrich";

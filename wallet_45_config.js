@@ -1,1 +1,1 @@
-var mnemonic = "type sun hobby destroy subject quality video song rabbit patrol coin hammer";
+var mnemonic = "maid gloom immense vague rice april sponsor company expire grace midnight unveil";

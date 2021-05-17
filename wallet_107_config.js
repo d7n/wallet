@@ -1,1 +1,1 @@
-var mnemonic = "ribbon october van alarm grass grape cereal slight prize cute ticket bring";
+var mnemonic = "purchase stone between theme donate know sphere near such modify love fine";

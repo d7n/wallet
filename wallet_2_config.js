@@ -1,1 +1,1 @@
-var mnemonic = "loop tobacco correct zoo floor impulse camera shrug return whip airport right";
+var mnemonic = "acquire rice north enjoy exhaust unit wise moral universe want flee fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "main west van victory fantasy arch husband almost captain inmate erosion dash";
+var mnemonic = "giant grit cricket fit renew eyebrow despair tuition jazz fish bright autumn";

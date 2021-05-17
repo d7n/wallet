@@ -1,1 +1,1 @@
-var mnemonic = "conduct expose lava label eye ticket benefit print oval hire talent bracket";
+var mnemonic = "detect manual toe vault vessel edge deputy soccer jelly modify machine hello";

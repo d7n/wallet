@@ -1,1 +1,1 @@
-var mnemonic = "chest spring impose sunset love move gospel argue old physical cream churn";
+var mnemonic = "foot crawl kind mixed soap fancy stamp clean history autumn category deny";

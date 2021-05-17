@@ -1,1 +1,1 @@
-var mnemonic = "federal fancy oppose lawn whip lottery evoke denial stadium seven where fantasy";
+var mnemonic = "excuse ugly heavy chair van busy tone energy diesel gas gorilla swear";

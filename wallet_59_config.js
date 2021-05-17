@@ -1,1 +1,1 @@
-var mnemonic = "anger actual aim logic glue another below myself praise gasp woman now";
+var mnemonic = "patrol wash bounce achieve say unknown true vault report reform trap inmate";

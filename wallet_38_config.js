@@ -1,1 +1,1 @@
-var mnemonic = "chest stage lawn margin bulk humor benefit retreat announce price govern exit";
+var mnemonic = "gentle float client phrase engage betray rack switch brother reject small december";

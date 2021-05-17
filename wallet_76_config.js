@@ -1,1 +1,1 @@
-var mnemonic = "rebel sell push broken biology repair borrow ranch spare drink wild erupt";
+var mnemonic = "grow glow hope picture diamond program erupt glove escape beach rough dismiss";

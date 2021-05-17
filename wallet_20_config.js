@@ -1,1 +1,1 @@
-var mnemonic = "extra spider lunar donate super tide three salute carry foil segment roof";
+var mnemonic = "rich aerobic inflict math grab prefer alpha equal ripple story clutch pass";

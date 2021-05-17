@@ -1,1 +1,1 @@
-var mnemonic = "drum notable click obscure frown exclude sock bright engage daughter name boil";
+var mnemonic = "regret inquiry ski stable inherit tonight traffic speak fatal sock grace oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "diet old tail day wall calm museum pet sea ivory scrap enhance";
+var mnemonic = "mushroom project stuff easy agent fire mandate pelican often empty zoo myself";

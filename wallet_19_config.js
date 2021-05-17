@@ -1,1 +1,1 @@
-var mnemonic = "birth away high lava fix tenant fragile prevent woman scare riot cliff";
+var mnemonic = "lounge law release glass token damp solution step conduct remove picnic tuna";

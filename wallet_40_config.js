@@ -1,1 +1,1 @@
-var mnemonic = "suspect witness team apology toss endless three hello list grief bonus refuse";
+var mnemonic = "use cruise couple undo manage aerobic distance brief adult dolphin nerve hungry";

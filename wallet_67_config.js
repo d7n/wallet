@@ -1,1 +1,1 @@
-var mnemonic = "sport salon giant dinner winner pool evidence want raven muffin century margin";
+var mnemonic = "thumb must agree adapt history sausage barely involve claw dragon rug index";

@@ -1,1 +1,1 @@
-var mnemonic = "alone element slot easy lend work mansion maximum vicious upset toe gas";
+var mnemonic = "melody orchard trend again wisdom mad honey permit cross gasp electric kangaroo";

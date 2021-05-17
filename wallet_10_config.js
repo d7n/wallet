@@ -1,1 +1,1 @@
-var mnemonic = "skate exchange tuna name differ program buzz gospel inspire omit safe pull";
+var mnemonic = "blanket primary craft elephant meadow hobby pass antenna leisure rebuild obscure try";

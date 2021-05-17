@@ -1,1 +1,1 @@
-var mnemonic = "cherry arrow aspect armed machine object silk among kiss distance utility avocado";
+var mnemonic = "soul merit hammer never wreck upset call few universe room code comic";

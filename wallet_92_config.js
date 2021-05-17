@@ -1,1 +1,1 @@
-var mnemonic = "labor unusual response idea bulb general check dynamic number purpose mention erase";
+var mnemonic = "write cancel urge keen harvest maximum mandate lounge wasp young midnight swap";

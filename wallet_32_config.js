@@ -1,1 +1,1 @@
-var mnemonic = "measure wash delay hospital rhythm isolate hotel cycle when until board silent";
+var mnemonic = "salt deputy coil dog harvest stage mother flip hamster orient pond ladder";

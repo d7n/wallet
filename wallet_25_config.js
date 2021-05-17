@@ -1,1 +1,1 @@
-var mnemonic = "supply hazard limb physical sample mule board media rather discover ignore suggest";
+var mnemonic = "kit school fly define collect culture famous vanish elephant million this update";

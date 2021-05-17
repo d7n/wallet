@@ -1,1 +1,1 @@
-var mnemonic = "discover surface ecology evidence naive able soup census ten sail advice deputy";
+var mnemonic = "damp glance fringe fun escape culture concert very shed rely scale accuse";

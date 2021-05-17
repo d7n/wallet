@@ -1,1 +1,1 @@
-var mnemonic = "essay laundry hobby father plug cross much banner emotion private echo joke";
+var mnemonic = "reflect retreat kiss express slice busy snack expire salt sort hour extra";

@@ -1,1 +1,1 @@
-var mnemonic = "game develop near sheriff woman miracle soup hard view physical weather method";
+var mnemonic = "boat pencil ceiling chaos ancient enrich that lamp sustain student useless retreat";

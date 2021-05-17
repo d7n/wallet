@@ -1,1 +1,1 @@
-var mnemonic = "negative among diagram orient receive method siren share merry skin athlete tilt";
+var mnemonic = "denial rebuild economy project parrot hood rule access advance three depart pulp";

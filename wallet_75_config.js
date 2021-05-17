@@ -1,1 +1,1 @@
-var mnemonic = "slow tobacco radio arm labor also endless pause put holiday repeat north";
+var mnemonic = "focus shield pizza easily best language bring sure faculty jungle wife brother";

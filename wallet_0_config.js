@@ -1,1 +1,1 @@
-var mnemonic = "smile social sure blouse crater marine warrior autumn dentist coach cargo file";
+var mnemonic = "term oak erupt salad gaze hungry manual fog brief relax lunar broccoli";

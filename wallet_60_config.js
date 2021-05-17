@@ -1,1 +1,1 @@
-var mnemonic = "alien blanket slide spray risk gadget industry rocket aunt pupil traffic group";
+var mnemonic = "claw delay track walnut axis output side jacket torch fade gold axis";

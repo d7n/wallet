@@ -1,1 +1,1 @@
-var mnemonic = "north metal visa winter immense detail nice help fine gift suffer spend";
+var mnemonic = "have onion collect album ring frown decrease school air snap reform outer";

@@ -1,1 +1,1 @@
-var mnemonic = "melody rug bitter sheriff develop sleep lizard pilot lounge culture infant trial";
+var mnemonic = "merit aisle naive lemon mobile faint syrup peace remain maid split snap";

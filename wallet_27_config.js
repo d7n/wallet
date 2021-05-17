@@ -1,1 +1,1 @@
-var mnemonic = "rubber bind rich day trust energy anchor happy whale sign mixture ivory";
+var mnemonic = "stuff dose among list rescue swap easy someone umbrella struggle talk south";

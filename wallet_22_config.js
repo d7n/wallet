@@ -1,1 +1,1 @@
-var mnemonic = "book answer royal injury mix cactus cube spoil hard song toilet dice";
+var mnemonic = "novel hurt anchor riot share amazing blur roast chalk aisle barely swift";

@@ -1,1 +1,1 @@
-var mnemonic = "culture design umbrella mixed garlic ahead latin crew syrup balcony retire train";
+var mnemonic = "future grab inch miracle vague nuclear nerve daring lion explain purpose aunt";

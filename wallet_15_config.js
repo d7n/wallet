@@ -1,1 +1,1 @@
-var mnemonic = "girl elder core toy maid ridge subject resource rural drive what nation";
+var mnemonic = "hill chimney stove dinner suffer innocent nice swear flower message tribe say";

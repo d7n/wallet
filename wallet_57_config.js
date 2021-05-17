@@ -1,1 +1,1 @@
-var mnemonic = "august excess make shoe business road alter cost devote pact suffer kiwi";
+var mnemonic = "liar weasel include bulk antique person oppose save claim sheriff wrist close";

@@ -1,1 +1,1 @@
-var mnemonic = "cook relax pride body weather dose kind tray peace mask hollow erosion";
+var mnemonic = "science proud birth scrap basket elegant village fox power van tragic tool";

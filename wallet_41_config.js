@@ -1,1 +1,1 @@
-var mnemonic = "bleak lion invite dose install spike satisfy resemble stage burger gasp chest";
+var mnemonic = "wrestle involve retreat dentist inject jazz same sponsor screen height vivid onion";

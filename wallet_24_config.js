@@ -1,1 +1,1 @@
-var mnemonic = "quit time drive deal tongue one false cave faint celery process phone";
+var mnemonic = "oval grain fiction arena room hundred hello huge beyond castle envelope scan";

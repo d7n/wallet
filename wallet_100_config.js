@@ -1,1 +1,1 @@
-var mnemonic = "gravity desert atom habit update hope hole shaft swap vibrant turn replace";
+var mnemonic = "inhale try talent join treat sentence race cement camera easy almost brain";

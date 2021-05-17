@@ -1,1 +1,1 @@
-var mnemonic = "atom miss drastic viable typical escape stadium rack movie useful dilemma ketchup";
+var mnemonic = "orbit globe soon great repair goddess snack squirrel pitch task pumpkin choice";

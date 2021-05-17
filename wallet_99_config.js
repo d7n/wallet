@@ -1,1 +1,1 @@
-var mnemonic = "summer dinner minimum design faint reform stove rigid bench march umbrella weather";
+var mnemonic = "symbol addict neglect exact movie salad right select toe consider direct object";

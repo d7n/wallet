@@ -1,1 +1,1 @@
-var mnemonic = "tenant another outside clutch kite aunt sleep host alpha sunny balance eternal";
+var mnemonic = "lion length cave vocal deputy scale toss panther ill jar treat coral";

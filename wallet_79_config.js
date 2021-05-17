@@ -1,1 +1,1 @@
-var mnemonic = "hand shift tourist diagram mom refuse denial occur tree prefer stick thunder";
+var mnemonic = "cricket nothing melody almost engine pipe will gentle avoid fancy news virus";

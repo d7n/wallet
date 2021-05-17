@@ -1,1 +1,1 @@
-var mnemonic = "guide april fiscal decade drastic core physical transfer real extra glide spread";
+var mnemonic = "prison together tobacco sponsor weird suit depth spare gown dance dentist robot";

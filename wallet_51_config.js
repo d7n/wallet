@@ -1,1 +1,1 @@
-var mnemonic = "expose elite this drastic inherit puppy turn giggle rib way math average";
+var mnemonic = "diesel merge fatigue label must wrist hotel sausage clutch behave undo figure";

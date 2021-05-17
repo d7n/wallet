@@ -1,1 +1,1 @@
-var mnemonic = "document endorse coast scare physical brown hire young wash swamp comfort evidence";
+var mnemonic = "again library license wedding buzz occur diet dad baby decline envelope unable";

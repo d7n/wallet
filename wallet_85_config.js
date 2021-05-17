@@ -1,1 +1,1 @@
-var mnemonic = "perfect glow fresh grocery matrix salute tourist gather pond rocket chef bind";
+var mnemonic = "seat timber worry over funny comic welcome trust staff orient balcony grief";

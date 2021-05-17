@@ -1,1 +1,1 @@
-var mnemonic = "lend noble yellow easily party kite siren shallow pink hint brisk refuse";
+var mnemonic = "virus tide stereo federal surface napkin treat flame photo exchange strike trumpet";

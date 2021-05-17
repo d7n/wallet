@@ -1,1 +1,1 @@
-var mnemonic = "foam mountain alone census road season neck wild camera scrub pitch design";
+var mnemonic = "bench guitar lunch limb tell twice sleep produce chapter myself slab mouse";

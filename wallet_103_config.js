@@ -1,1 +1,1 @@
-var mnemonic = "retire claim party bicycle cotton name design tide notice ribbon audit ignore";
+var mnemonic = "assault fork hurt monitor whale alcohol opinion art someone siren result spot";

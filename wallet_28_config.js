@@ -1,1 +1,1 @@
-var mnemonic = "nature draw laugh pair possible output devote lonely hill admit kidney earth";
+var mnemonic = "neutral often grief loan achieve chief dutch entire ethics harvest obtain elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude benefit sell town pave melt vehicle strong impact judge arm tree";
+var mnemonic = "child accuse among taxi utility innocent sheriff poem example play captain end";

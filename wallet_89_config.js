@@ -1,1 +1,1 @@
-var mnemonic = "pave bless shoot motor core term hover hurry badge dose token tunnel";
+var mnemonic = "good tuition keen logic dolphin kidney narrow celery palm strategy crush connect";

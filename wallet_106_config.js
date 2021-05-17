@@ -1,1 +1,1 @@
-var mnemonic = "ring wink barrel slab junior come negative oven winter purpose slogan swarm";
+var mnemonic = "bind breeze trigger mask leg seven away wink glow include proud course";

@@ -1,1 +1,1 @@
-var mnemonic = "misery tourist horn only gesture embrace payment explain have feel size wood";
+var mnemonic = "involve shove scout vital suspect trick furnace round royal neither attend apple";

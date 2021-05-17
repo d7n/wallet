@@ -1,1 +1,1 @@
-var mnemonic = "deliver stadium trade vendor spider treat soft success shift country example indicate";
+var mnemonic = "raccoon pony meat pyramid effort foam cluster measure van arrest amused seven";

@@ -1,1 +1,1 @@
-var mnemonic = "certain jazz victory angle siege merry pluck solar kite lounge ginger cube";
+var mnemonic = "danger bulb kitten strategy suspect wise bracket lottery approve reject convince lawn";

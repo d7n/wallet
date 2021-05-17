@@ -1,1 +1,1 @@
-var mnemonic = "pen wasp picnic correct day observe boss reveal slender advance account olympic";
+var mnemonic = "sight run dad dice climb invest bench become inner dirt sweet abuse";

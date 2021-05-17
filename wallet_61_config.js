@@ -1,1 +1,1 @@
-var mnemonic = "husband type punch august utility bounce truly fetch escape universe tomorrow faculty";
+var mnemonic = "derive trim route alpha forward crush program spell bridge ball sign insane";

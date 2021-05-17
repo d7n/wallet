@@ -1,1 +1,1 @@
-var mnemonic = "chest despair drink save produce cable genius blur broom rubber wait symbol";
+var mnemonic = "joy stadium army quick opera update sustain ridge soul hire wool exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch canyon cheap vocal entire route ceiling victory electric check jungle industry";
+var mnemonic = "bus limb upset volcano canoe cereal clinic glimpse correct enjoy excuse brave";

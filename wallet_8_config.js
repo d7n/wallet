@@ -1,1 +1,1 @@
-var mnemonic = "license expand fiber spirit mind matter shiver another hill follow mushroom flower";
+var mnemonic = "key input urban debate blame winter entire stove vacuum raven click secret";

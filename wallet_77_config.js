@@ -1,1 +1,1 @@
-var mnemonic = "index pipe calm gallery loud bulb tape area nerve grape label mesh";
+var mnemonic = "blind race chief whip start trade bridge together unfold deposit move fiber";

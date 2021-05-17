@@ -1,1 +1,1 @@
-var mnemonic = "general palace kingdom keep resource tattoo diesel ice bacon repair enact donate";
+var mnemonic = "hard bird subway trophy soldier possible unable joy rib wash cave silly";

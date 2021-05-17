@@ -1,1 +1,1 @@
-var mnemonic = "punch exile muffin gasp high stamp adjust shoulder saddle observe link chair";
+var mnemonic = "salon execute happy protect bone myth wedding extend gaze click join cross";

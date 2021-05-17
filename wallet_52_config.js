@@ -1,1 +1,1 @@
-var mnemonic = "laptop scrap live quiz amount inner vacant lumber steak reveal rose require";
+var mnemonic = "cargo search sting pole teach mercy lizard unusual flight bundle lumber pelican";

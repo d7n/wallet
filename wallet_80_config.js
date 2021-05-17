@@ -1,1 +1,1 @@
-var mnemonic = "miss lemon shell spread renew reform skirt relief walnut chimney matrix urge";
+var mnemonic = "caution style scatter grunt few sleep shoot slice idea echo forget menu";

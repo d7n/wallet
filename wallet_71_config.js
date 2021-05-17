@@ -1,1 +1,1 @@
-var mnemonic = "fluid erosion upgrade firm problem patch mother guess vacant quiz wine narrow";
+var mnemonic = "cup unknown bottom cancel vapor raccoon south cash parent kind swarm foam";
