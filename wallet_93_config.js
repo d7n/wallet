@@ -1,1 +1,1 @@
-var mnemonic = "cupboard say fox clump animal boil best result embark tumble maid girl";
+var mnemonic = "swarm coconut animal brick title evolve avoid knock hawk soul number million";

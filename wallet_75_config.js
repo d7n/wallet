@@ -1,1 +1,1 @@
-var mnemonic = "focus shield pizza easily best language bring sure faculty jungle wife brother";
+var mnemonic = "acid curve sail beach seven appear doctor total surround pitch claw reject";

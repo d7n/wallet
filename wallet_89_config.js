@@ -1,1 +1,1 @@
-var mnemonic = "good tuition keen logic dolphin kidney narrow celery palm strategy crush connect";
+var mnemonic = "also night future grief pond else reflect skirt ghost panic cover manage";

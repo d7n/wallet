@@ -1,1 +1,1 @@
-var mnemonic = "blind race chief whip start trade bridge together unfold deposit move fiber";
+var mnemonic = "margin frame agent mother drum parrot pole catch gallery lucky sure orbit";

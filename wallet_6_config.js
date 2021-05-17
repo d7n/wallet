@@ -1,1 +1,1 @@
-var mnemonic = "bench guitar lunch limb tell twice sleep produce chapter myself slab mouse";
+var mnemonic = "secret endorse limit nation grief vital town all father swarm either faith";

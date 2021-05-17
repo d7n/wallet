@@ -1,1 +1,1 @@
-var mnemonic = "canal almost lion offer gate dinosaur divert memory search tree vendor lab";
+var mnemonic = "skull claw deal problem occur purpose scorpion hero pull silent unfold pair";

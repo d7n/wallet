@@ -1,1 +1,1 @@
-var mnemonic = "spatial salt fence first clever hobby movie frame scatter remind paddle loan";
+var mnemonic = "alpha prepare crumble cart insect filter category peanut noise cook height interest";

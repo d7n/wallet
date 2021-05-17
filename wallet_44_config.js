@@ -1,1 +1,1 @@
-var mnemonic = "scene yellow pink thrive people course company must finish virtual fame guess";
+var mnemonic = "weird normal outside badge expire reunion duty spray urban risk grunt turkey";

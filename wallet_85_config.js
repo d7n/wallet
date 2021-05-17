@@ -1,1 +1,1 @@
-var mnemonic = "seat timber worry over funny comic welcome trust staff orient balcony grief";
+var mnemonic = "secret celery price style blur crisp soul usage window rail moment ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "current spell clarify casual muscle control hunt budget film interest idea antenna";
+var mnemonic = "patient divide federal long maximum mutual zebra slender poet outdoor arch whip";

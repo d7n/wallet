@@ -1,1 +1,1 @@
-var mnemonic = "escape jacket virtual laptop just dad distance glow risk labor ripple narrow";
+var mnemonic = "coffee buzz mimic floor improve distance unveil umbrella donor engage forward brown";

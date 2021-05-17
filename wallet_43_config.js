@@ -1,1 +1,1 @@
-var mnemonic = "bus limb upset volcano canoe cereal clinic glimpse correct enjoy excuse brave";
+var mnemonic = "sad cupboard route coffee arrow fatal ordinary silk enemy today shove mention";

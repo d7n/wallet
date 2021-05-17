@@ -1,1 +1,1 @@
-var mnemonic = "term oak erupt salad gaze hungry manual fog brief relax lunar broccoli";
+var mnemonic = "jelly nothing symptom behave negative picture wedding confirm diesel sing discover spoon";

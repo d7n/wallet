@@ -1,1 +1,1 @@
-var mnemonic = "write cancel urge keen harvest maximum mandate lounge wasp young midnight swap";
+var mnemonic = "power mistake cave burger uncle salt trip behave derive awkward anger name";

@@ -1,1 +1,1 @@
-var mnemonic = "fix grocery reopen sing casual will job ivory buzz episode skirt sword";
+var mnemonic = "insane tilt find skin absorb sweet grab symptom sweet brisk minute female";

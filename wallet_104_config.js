@@ -1,1 +1,1 @@
-var mnemonic = "glance lemon royal address tray disorder burger silk balcony dinosaur crime used";
+var mnemonic = "pet rule want pioneer spider service bamboo spoil mirror coin metal trap";

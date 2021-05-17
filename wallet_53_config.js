@@ -1,1 +1,1 @@
-var mnemonic = "talk metal series range must actress typical warm enemy clap cross possible";
+var mnemonic = "hard come search extra victory account cash stable possible drift water swim";

@@ -1,1 +1,1 @@
-var mnemonic = "liar weasel include bulk antique person oppose save claim sheriff wrist close";
+var mnemonic = "diet popular lady subway indoor friend olive educate brisk anxiety evoke tray";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy subway cost cousin identify stuff hello lunch put audit mutual during";
+var mnemonic = "aware enter purity gentle frown bounce snack funny remember someone index illegal";

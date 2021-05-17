@@ -1,1 +1,1 @@
-var mnemonic = "orbit globe soon great repair goddess snack squirrel pitch task pumpkin choice";
+var mnemonic = "toss great rebel question diet clever rely cinnamon erase evoke shell effort";

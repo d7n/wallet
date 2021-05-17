@@ -1,1 +1,1 @@
-var mnemonic = "symbol addict neglect exact movie salad right select toe consider direct object";
+var mnemonic = "fortune enhance arrive odor finish cover poem retreat lion mango much pen";

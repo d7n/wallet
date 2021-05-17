@@ -1,1 +1,1 @@
-var mnemonic = "raccoon pony meat pyramid effort foam cluster measure van arrest amused seven";
+var mnemonic = "bracket dynamic ethics fatigue sadness bind helmet range problem ocean assault south";

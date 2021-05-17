@@ -1,1 +1,1 @@
-var mnemonic = "earn carpet marble veteran sugar gallery minor hunt wrestle animal bench symbol";
+var mnemonic = "allow abandon neutral patient discover aunt age seed square vast wife disagree";

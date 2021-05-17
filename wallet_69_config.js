@@ -1,1 +1,1 @@
-var mnemonic = "sight run dad dice climb invest bench become inner dirt sweet abuse";
+var mnemonic = "gun fame manage novel shine gap blast acoustic window blade ramp capable";

@@ -1,1 +1,1 @@
-var mnemonic = "almost civil owner tank simple steak patrol trial suffer person brand fatal";
+var mnemonic = "chef insect pulp series science pair before mango snap skull syrup gate";

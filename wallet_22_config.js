@@ -1,1 +1,1 @@
-var mnemonic = "novel hurt anchor riot share amazing blur roast chalk aisle barely swift";
+var mnemonic = "jeans best water frost erosion organ dragon trend van emerge plastic rough";

@@ -1,1 +1,1 @@
-var mnemonic = "swim interest agree strike ridge call second garbage tragic muscle fame keen";
+var mnemonic = "before whale primary need phone device maze blame satoshi category gadget exhibit";

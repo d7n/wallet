@@ -1,1 +1,1 @@
-var mnemonic = "narrow put effort spoil copper either economy silly brave test control ostrich";
+var mnemonic = "vintage ethics truck hand picture rapid weather yellow cage suit mixed olive";

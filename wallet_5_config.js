@@ -1,1 +1,1 @@
-var mnemonic = "have onion collect album ring frown decrease school air snap reform outer";
+var mnemonic = "few security hold poem noise garden armor collect trash flash swim tube";

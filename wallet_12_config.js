@@ -1,1 +1,1 @@
-var mnemonic = "wheat grass apology fan warfare defy owner hover tenant evidence cattle wage";
+var mnemonic = "liberty view alarm width tell boil oil buffalo story market satisfy minor";

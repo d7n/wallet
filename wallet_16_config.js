@@ -1,1 +1,1 @@
-var mnemonic = "boat pencil ceiling chaos ancient enrich that lamp sustain student useless retreat";
+var mnemonic = "page rare traffic era border birth ship artefact report digital green card";

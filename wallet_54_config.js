@@ -1,1 +1,1 @@
-var mnemonic = "involve shove scout vital suspect trick furnace round royal neither attend apple";
+var mnemonic = "aware swamp chat stairs burden describe maximum fatal possible risk forest climb";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage final elder village good high mix decorate mesh trim advice history";
+var mnemonic = "tourist lawsuit sketch wire village junk sea thrive federal hold useless panel";

@@ -1,1 +1,1 @@
-var mnemonic = "virus tide stereo federal surface napkin treat flame photo exchange strike trumpet";
+var mnemonic = "bulb adjust head walnut crowd confirm satisfy dash luxury allow tomorrow plastic";

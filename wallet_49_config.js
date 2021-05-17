@@ -1,1 +1,1 @@
-var mnemonic = "pull bleak squeeze loyal village toward rookie december maximum replace wrong rookie";
+var mnemonic = "mango junk reunion arrest warrior renew emotion swamp disease speak rescue mansion";

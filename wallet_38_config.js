@@ -1,1 +1,1 @@
-var mnemonic = "gentle float client phrase engage betray rack switch brother reject small december";
+var mnemonic = "belt crunch caught unveil what carpet fetch mix faith elevator joke torch";

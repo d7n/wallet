@@ -1,1 +1,1 @@
-var mnemonic = "denial rebuild economy project parrot hood rule access advance three depart pulp";
+var mnemonic = "filter cook divorce shield language century stand impose number income acid blast";

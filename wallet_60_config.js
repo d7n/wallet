@@ -1,1 +1,1 @@
-var mnemonic = "claw delay track walnut axis output side jacket torch fade gold axis";
+var mnemonic = "quote scheme outer slight someone door rocket goddess hawk huge venture name";

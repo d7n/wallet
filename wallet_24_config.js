@@ -1,1 +1,1 @@
-var mnemonic = "oval grain fiction arena room hundred hello huge beyond castle envelope scan";
+var mnemonic = "silver during caution candy pretty narrow pause ahead mammal nothing sand siege";

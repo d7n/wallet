@@ -1,1 +1,1 @@
-var mnemonic = "steel tilt tomato knee claim height member pony cheap menu knock super";
+var mnemonic = "animal swim appear detect stove million stumble bike tray liquid hybrid party";

@@ -1,1 +1,1 @@
-var mnemonic = "hard bird subway trophy soldier possible unable joy rib wash cave silly";
+var mnemonic = "crunch patch cause stem patient swift goddess sauce main online script ribbon";

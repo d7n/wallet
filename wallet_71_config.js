@@ -1,1 +1,1 @@
-var mnemonic = "cup unknown bottom cancel vapor raccoon south cash parent kind swarm foam";
+var mnemonic = "usual raw hurt female federal culture tissue basket frost duck lunch express";

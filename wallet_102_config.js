@@ -1,1 +1,1 @@
-var mnemonic = "carbon minimum pudding rain carry sad fish work music alpha creek image";
+var mnemonic = "call pencil language pelican real inside resemble float weird pony opera hour";

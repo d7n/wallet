@@ -1,1 +1,1 @@
-var mnemonic = "joy stadium army quick opera update sustain ridge soul hire wool exercise";
+var mnemonic = "six write shield huge frequent grit village lucky solid city unknown cup";

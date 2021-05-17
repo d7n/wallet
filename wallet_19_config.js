@@ -1,1 +1,1 @@
-var mnemonic = "lounge law release glass token damp solution step conduct remove picnic tuna";
+var mnemonic = "focus current laugh clutch board hen drink rich visa caught used insane";

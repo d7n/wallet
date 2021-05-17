@@ -1,1 +1,1 @@
-var mnemonic = "neutral often grief loan achieve chief dutch entire ethics harvest obtain elephant";
+var mnemonic = "sense proof forest cloth age dance animal member maid swap present castle";

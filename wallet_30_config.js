@@ -1,1 +1,1 @@
-var mnemonic = "captain design team add chase federal stick artist oval tilt ribbon lonely";
+var mnemonic = "together try eternal nose goddess dial weekend ginger upgrade stone crane list";

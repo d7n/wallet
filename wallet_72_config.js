@@ -1,1 +1,1 @@
-var mnemonic = "seven despair doctor impose today hockey panther galaxy nest network certain chimney";
+var mnemonic = "second fun page identify alone surface between advice afraid okay north there";

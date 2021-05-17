@@ -1,1 +1,1 @@
-var mnemonic = "prison together tobacco sponsor weird suit depth spare gown dance dentist robot";
+var mnemonic = "kid broom gun tragic marine sail verb strategy peanut liquid box casino";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck congress climb expand monkey document column genius merry elephant gym multiply";
+var mnemonic = "truck cry copy leader conduct exit sell grass universe vault rate fly";

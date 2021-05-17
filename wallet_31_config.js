@@ -1,1 +1,1 @@
-var mnemonic = "detect manual toe vault vessel edge deputy soccer jelly modify machine hello";
+var mnemonic = "scare bright ride predict liberty summer nature right device token prevent web";

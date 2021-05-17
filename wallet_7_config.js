@@ -1,1 +1,1 @@
-var mnemonic = "harbor rose under foam lens habit ozone disagree social praise city receive";
+var mnemonic = "tattoo inhale pizza weekend amazing broom lucky roof start fly rabbit style";

@@ -1,1 +1,1 @@
-var mnemonic = "once lend budget cool fit mosquito tonight unable velvet tenant assault rate";
+var mnemonic = "rent crazy feature scan domain copy coyote canal protect express accident knock";

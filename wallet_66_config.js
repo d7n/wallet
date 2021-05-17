@@ -1,1 +1,1 @@
-var mnemonic = "giant grit cricket fit renew eyebrow despair tuition jazz fish bright autumn";
+var mnemonic = "random under tenant rail weather farm icon sample detect tank federal spare";

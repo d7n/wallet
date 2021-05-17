@@ -1,1 +1,1 @@
-var mnemonic = "patrol wash bounce achieve say unknown true vault report reform trap inmate";
+var mnemonic = "brand novel trigger kite funny yard blanket palm menu nuclear double exile";

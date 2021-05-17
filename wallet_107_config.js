@@ -1,1 +1,1 @@
-var mnemonic = "purchase stone between theme donate know sphere near such modify love fine";
+var mnemonic = "vanish clip video cargo culture dumb bread scale nuclear math throw crystal";

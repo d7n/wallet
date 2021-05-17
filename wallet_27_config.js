@@ -1,1 +1,1 @@
-var mnemonic = "stuff dose among list rescue swap easy someone umbrella struggle talk south";
+var mnemonic = "success melt arch indicate sniff what column material pledge car morning skate";

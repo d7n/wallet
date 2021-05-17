@@ -1,1 +1,1 @@
-var mnemonic = "focus ceiling decide usage hole unfair morning minute market kiwi chaos door";
+var mnemonic = "empty gain turn forward merge foot ketchup response coin correct leisure health";

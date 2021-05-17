@@ -1,1 +1,1 @@
-var mnemonic = "grow glow hope picture diamond program erupt glove escape beach rough dismiss";
+var mnemonic = "powder mom any body confirm chest south upgrade worth again inherit bulb";

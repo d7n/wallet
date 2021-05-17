@@ -1,1 +1,1 @@
-var mnemonic = "dry stairs else memory glue auction pistol when wet chest thumb elder";
+var mnemonic = "normal figure december chimney slab happy song sort float glove energy eight";

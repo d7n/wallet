@@ -1,1 +1,1 @@
-var mnemonic = "promote kiwi neither change major grab pipe become thumb maze island exchange";
+var mnemonic = "catch pair entry gentle shield tragic steak risk peanut submit february document";

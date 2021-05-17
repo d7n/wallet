@@ -1,1 +1,1 @@
-var mnemonic = "hill chimney stove dinner suffer innocent nice swear flower message tribe say";
+var mnemonic = "client decrease rate turn exhaust crater margin bus jelly bag naive dish";

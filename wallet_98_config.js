@@ -1,1 +1,1 @@
-var mnemonic = "regret inquiry ski stable inherit tonight traffic speak fatal sock grace oyster";
+var mnemonic = "vague normal reunion build brick dry card trouble camera assault ice gorilla";

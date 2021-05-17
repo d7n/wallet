@@ -1,1 +1,1 @@
-var mnemonic = "stamp embody upon method veteran favorite borrow source impact way basic notable";
+var mnemonic = "miracle scale couple noise clutch ill room ticket unable stove tower section";

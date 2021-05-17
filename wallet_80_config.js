@@ -1,1 +1,1 @@
-var mnemonic = "caution style scatter grunt few sleep shoot slice idea echo forget menu";
+var mnemonic = "buzz wisdom bacon indoor close you elite common live output color prosper";

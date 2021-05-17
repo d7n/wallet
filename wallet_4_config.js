@@ -1,1 +1,1 @@
-var mnemonic = "child accuse among taxi utility innocent sheriff poem example play captain end";
+var mnemonic = "road since distance oak parade media join harsh door scan cup unable";

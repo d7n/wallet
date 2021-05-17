@@ -1,1 +1,1 @@
-var mnemonic = "rich aerobic inflict math grab prefer alpha equal ripple story clutch pass";
+var mnemonic = "matrix wedding amount dawn uniform cage during escape gather promote coast team";

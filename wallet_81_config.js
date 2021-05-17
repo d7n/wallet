@@ -1,1 +1,1 @@
-var mnemonic = "point forget arrange rough student satoshi bone throw okay involve exhaust give";
+var mnemonic = "spring dismiss execute neutral lake unhappy slush behind pill jelly minimum certain";

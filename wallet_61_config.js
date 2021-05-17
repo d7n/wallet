@@ -1,1 +1,1 @@
-var mnemonic = "derive trim route alpha forward crush program spell bridge ball sign insane";
+var mnemonic = "sunset nothing sock trash success nuclear solar base lazy stable helmet tired";

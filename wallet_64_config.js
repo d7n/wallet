@@ -1,1 +1,1 @@
-var mnemonic = "excuse ugly heavy chair van busy tone energy diesel gas gorilla swear";
+var mnemonic = "genius alert bench file throw pact dwarf pencil skate expand shine night";

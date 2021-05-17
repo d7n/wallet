@@ -1,1 +1,1 @@
-var mnemonic = "science proud birth scrap basket elegant village fox power van tragic tool";
+var mnemonic = "fame album amazing stem citizen pulp bounce fun decline coil diesel satoshi";

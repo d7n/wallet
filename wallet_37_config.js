@@ -1,1 +1,1 @@
-var mnemonic = "donkey wisdom soldier year title mind idle abandon embark warrior swim oblige";
+var mnemonic = "rare anger clock outdoor employ economy sister actor rude diesel relax confirm";

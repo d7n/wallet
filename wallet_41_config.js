@@ -1,1 +1,1 @@
-var mnemonic = "wrestle involve retreat dentist inject jazz same sponsor screen height vivid onion";
+var mnemonic = "acquire rent menu wrist wedding narrow direct hockey patch hole shrug arrow";

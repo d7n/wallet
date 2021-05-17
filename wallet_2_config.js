@@ -1,1 +1,1 @@
-var mnemonic = "acquire rice north enjoy exhaust unit wise moral universe want flee fossil";
+var mnemonic = "since pet wasp junk magnet swarm chronic sense success plug debris cushion";

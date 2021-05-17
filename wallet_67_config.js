@@ -1,1 +1,1 @@
-var mnemonic = "thumb must agree adapt history sausage barely involve claw dragon rug index";
+var mnemonic = "dilemma head arrow hungry lesson school hello treat decline rigid behind renew";

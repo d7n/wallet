@@ -1,1 +1,1 @@
-var mnemonic = "assault fork hurt monitor whale alcohol opinion art someone siren result spot";
+var mnemonic = "address history fire aunt taxi goat oxygen dial invite case welcome actor";

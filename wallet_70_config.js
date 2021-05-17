@@ -1,1 +1,1 @@
-var mnemonic = "disease entry skill eager coach able road various sure problem tube coconut";
+var mnemonic = "exist say behind circle rib fortune humble profit market lawsuit find quote";

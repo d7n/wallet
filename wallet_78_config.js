@@ -1,1 +1,1 @@
-var mnemonic = "again library license wedding buzz occur diet dad baby decline envelope unable";
+var mnemonic = "green cup myth furnace theme ocean urge smoke elbow hour group monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "salon execute happy protect bone myth wedding extend gaze click join cross";
+var mnemonic = "unable seven choose burden seven fee moon burst animal firm program behave";

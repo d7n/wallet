@@ -1,1 +1,1 @@
-var mnemonic = "danger bulb kitten strategy suspect wise bracket lottery approve reject convince lawn";
+var mnemonic = "few front city cover market lava antenna shell boy quick decade describe";

@@ -1,1 +1,1 @@
-var mnemonic = "razor decline civil error decrease define account amazing sorry lunch curtain usual";
+var mnemonic = "industry luxury canal total turn sting dog link young warm large series";

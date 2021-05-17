@@ -1,1 +1,1 @@
-var mnemonic = "cricket nothing melody almost engine pipe will gentle avoid fancy news virus";
+var mnemonic = "decrease better leaf calm wrist evolve bundle awkward gasp unknown meadow dolphin";

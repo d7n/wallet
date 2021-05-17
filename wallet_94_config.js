@@ -1,1 +1,1 @@
-var mnemonic = "evil snow taste retreat diesel soldier mad remind captain soul search decade";
+var mnemonic = "dizzy wash jazz park add ecology input sing path dignity stick sugar";

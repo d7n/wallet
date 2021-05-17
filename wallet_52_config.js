@@ -1,1 +1,1 @@
-var mnemonic = "cargo search sting pole teach mercy lizard unusual flight bundle lumber pelican";
+var mnemonic = "eager describe faint town tomato original sword attack relief rigid obscure pilot";

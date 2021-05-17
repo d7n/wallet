@@ -1,1 +1,1 @@
-var mnemonic = "gadget exit gospel saddle release bring food bargain diamond neither reveal asthma";
+var mnemonic = "fury volcano angry pen topple donor cereal stuff garlic build fix episode";

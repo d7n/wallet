@@ -1,1 +1,1 @@
-var mnemonic = "bind breeze trigger mask leg seven away wink glow include proud course";
+var mnemonic = "accident claw dash face forget rebel danger topple plug below insect quantum";

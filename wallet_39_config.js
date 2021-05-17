@@ -1,1 +1,1 @@
-var mnemonic = "reflect retreat kiss express slice busy snack expire salt sort hour extra";
+var mnemonic = "now expect marble wrist fat bundle lumber garment cabin drum lock cute";

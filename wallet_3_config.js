@@ -1,1 +1,1 @@
-var mnemonic = "melody orchard trend again wisdom mad honey permit cross gasp electric kangaroo";
+var mnemonic = "foil like load impose issue quality universe isolate loop slot tornado cover";

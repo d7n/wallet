@@ -1,1 +1,1 @@
-var mnemonic = "use cruise couple undo manage aerobic distance brief adult dolphin nerve hungry";
+var mnemonic = "age object unaware will pupil cycle gown rice sustain type history dawn";

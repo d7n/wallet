@@ -1,1 +1,1 @@
-var mnemonic = "source have seek slab shift witness before envelope dad digital diet slogan";
+var mnemonic = "side top gossip reject soon erupt patrol lecture food occur jungle youth";

@@ -1,1 +1,1 @@
-var mnemonic = "soul merit hammer never wreck upset call few universe room code comic";
+var mnemonic = "panel asset mansion agree simple quarter cup build arrange this genuine grape";

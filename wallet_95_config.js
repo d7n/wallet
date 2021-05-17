@@ -1,1 +1,1 @@
-var mnemonic = "mushroom project stuff easy agent fire mandate pelican often empty zoo myself";
+var mnemonic = "hero glimpse achieve robot sail consider muscle lens angry chapter target input";
