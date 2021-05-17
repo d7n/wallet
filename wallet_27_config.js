@@ -1,1 +1,1 @@
-var mnemonic = "real about right fragile camp rely unit route attack chaos crawl delay";
+var mnemonic = "night social nice siren detect kangaroo supply chapter small mosquito bonus reunion";

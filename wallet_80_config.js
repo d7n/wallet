@@ -1,1 +1,1 @@
-var mnemonic = "home bone skin oppose advice possible six purse exotic machine fever dilemma";
+var mnemonic = "various vehicle jacket wink purse torch earn fortune flight indoor pill life";

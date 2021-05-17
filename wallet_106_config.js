@@ -1,1 +1,1 @@
-var mnemonic = "once honey globe pottery stuff crime label elevator silly gallery ceiling sock";
+var mnemonic = "borrow furnace pause spike donkey genuine shed dune immense aerobic analyst wink";

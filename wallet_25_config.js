@@ -1,1 +1,1 @@
-var mnemonic = "also neither choice wrap cousin response nose receive suspect upgrade chapter lemon";
+var mnemonic = "phone wonder human ivory alien sibling because judge mean throw midnight else";

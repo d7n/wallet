@@ -1,1 +1,1 @@
-var mnemonic = "manual legal board blade street cable fall window banana milk charge check";
+var mnemonic = "pipe galaxy owner olympic apart rice garment vendor minimum donkey genius hub";

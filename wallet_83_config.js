@@ -1,1 +1,1 @@
-var mnemonic = "metal note bitter pupil vast wonder link memory ozone various mixed cook";
+var mnemonic = "satoshi barrel sudden drastic board grief match carbon awful deny rate visit";

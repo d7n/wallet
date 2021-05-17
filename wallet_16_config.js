@@ -1,1 +1,1 @@
-var mnemonic = "proud one evidence float vessel agree erosion height sting scene style surround";
+var mnemonic = "inhale flag wild extra move hunt broom radio olive torch mutual scorpion";

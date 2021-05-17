@@ -1,1 +1,1 @@
-var mnemonic = "buddy path ecology then wife enlist left steak this arch crane isolate";
+var mnemonic = "already blossom pen echo plate field fury lumber trick deer joy speed";

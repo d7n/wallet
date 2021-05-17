@@ -1,1 +1,1 @@
-var mnemonic = "royal box hurt radar market army dumb spoil accident moment cherry strike";
+var mnemonic = "tone hockey talk chicken sunset truth warm tackle pull staff bread december";

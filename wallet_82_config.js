@@ -1,1 +1,1 @@
-var mnemonic = "enlist prison awful elevator cloth blush gather scatter slim alone nothing effort";
+var mnemonic = "remove issue certain mean young admit turtle zebra wet brave excuse unique";

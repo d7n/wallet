@@ -1,1 +1,1 @@
-var mnemonic = "romance learn catalog grain raven assume engage shrimp stereo weapon relax memory";
+var mnemonic = "drop injury record benefit leisure organ trade client expose maze party term";

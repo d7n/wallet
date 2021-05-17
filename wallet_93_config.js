@@ -1,1 +1,1 @@
-var mnemonic = "burden sleep hotel duty soap frequent wolf axis bronze extra arctic night";
+var mnemonic = "muffin fashion since come sorry rival license announce act raven harsh episode";

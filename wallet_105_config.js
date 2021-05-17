@@ -1,1 +1,1 @@
-var mnemonic = "tower mask bridge include kid aisle sketch pen safe honey sniff outside";
+var mnemonic = "advance close middle cradle sweet humble talent shy material cable buzz nasty";

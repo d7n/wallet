@@ -1,1 +1,1 @@
-var mnemonic = "human moon coconut gadget salmon entry quarter usual below inch ankle crucial";
+var mnemonic = "smart decrease tumble ladder float torch crucial grow erode heart grit pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "wait turkey column creek glare stairs admit tree grit frost window motor";
+var mnemonic = "fence cattle zoo fluid author giggle limit anxiety walk mammal usage thrive";

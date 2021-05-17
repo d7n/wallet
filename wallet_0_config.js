@@ -1,1 +1,1 @@
-var mnemonic = "clip render route assault dismiss index winter space ancient process security damage";
+var mnemonic = "ancient modify depend banner observe lady bench fancy bubble scan sing shop";

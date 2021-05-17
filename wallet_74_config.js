@@ -1,1 +1,1 @@
-var mnemonic = "whisper obtain magic list submit vanish error right enlist hundred average mimic";
+var mnemonic = "panel sense this already morning father spatial veteran idea apology fetch spare";

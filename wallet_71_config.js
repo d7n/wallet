@@ -1,1 +1,1 @@
-var mnemonic = "light clinic bless thumb talk cake baby tent resemble wisdom bird relax";
+var mnemonic = "rescue blind champion climb plug nothing auto talk insane will toward notice";

@@ -1,1 +1,1 @@
-var mnemonic = "submit century young blade shine bamboo sorry brave smart spot tube deer";
+var mnemonic = "misery gospel accuse donkey labor sheriff pact vacuum soul one success orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn spread zero lucky shy world bench garbage small legend divide boy";
+var mnemonic = "gown push exercise account party evil auto virtual layer glance either vicious";

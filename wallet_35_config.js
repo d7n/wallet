@@ -1,1 +1,1 @@
-var mnemonic = "spoil tongue sock rifle feed essay collect pupil gift symptom opinion noble";
+var mnemonic = "fade rally shiver convince animal water chat verb detail rebuild future primary";

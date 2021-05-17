@@ -1,1 +1,1 @@
-var mnemonic = "lady pride horse warm alley notice direct actor grain polar audit much";
+var mnemonic = "excess tribe vital sibling bleak police gauge glad denial club icon alarm";

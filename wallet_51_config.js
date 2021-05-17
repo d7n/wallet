@@ -1,1 +1,1 @@
-var mnemonic = "grocery excuse crystal onion admit inmate honey iron plug tone behind one";
+var mnemonic = "come access lesson birth time exotic protect agree giant betray similar volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum trial corn jaguar crane kick broken warm mention tube bubble dinosaur";
+var mnemonic = "shy stove teach answer sight satisfy tuna arrange glance sausage riot teach";

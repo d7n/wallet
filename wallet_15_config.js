@@ -1,1 +1,1 @@
-var mnemonic = "scheme visual they fork couple humble garment unlock general swallow acquire piano";
+var mnemonic = "lava input able throw mask list purpose unveil breeze vapor airport divide";

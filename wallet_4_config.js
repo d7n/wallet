@@ -1,1 +1,1 @@
-var mnemonic = "aerobic husband rival famous height gain clap burst teach wash miss heavy";
+var mnemonic = "clap diet eyebrow type pizza street salad hedgehog flip length this install";

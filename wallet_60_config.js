@@ -1,1 +1,1 @@
-var mnemonic = "system wild amount crisp chuckle farm spring demand absorb actual army delay";
+var mnemonic = "wise spatial tumble search payment void squirrel basket alarm farm chimney pottery";

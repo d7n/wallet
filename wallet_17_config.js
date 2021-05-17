@@ -1,1 +1,1 @@
-var mnemonic = "chronic measure number cheap carpet fabric switch like slow output paddle public";
+var mnemonic = "crime cage crop okay visit repair stay gold suspect tackle ribbon envelope";

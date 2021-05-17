@@ -1,1 +1,1 @@
-var mnemonic = "nuclear garment produce inspire again pumpkin guilt detail soft divert maze bunker";
+var mnemonic = "melody capable base actress pond they item torch goose baby level metal";

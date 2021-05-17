@@ -1,1 +1,1 @@
-var mnemonic = "rhythm much pear carry make attitude aspect once dry pill carry bottom";
+var mnemonic = "click armor dismiss emotion dutch derive fault awkward about fence price culture";

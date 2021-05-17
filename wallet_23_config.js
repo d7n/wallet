@@ -1,1 +1,1 @@
-var mnemonic = "girl dove fury project coin tenant wine addict enter glory desk flip";
+var mnemonic = "law merge monster exchange tank disorder tube nasty venue wrap friend unit";

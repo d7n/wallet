@@ -1,1 +1,1 @@
-var mnemonic = "expose long finger vapor kangaroo wire note delay glimpse other great scout";
+var mnemonic = "monster champion october such bus gain shrimp absent damp arrange egg cheap";

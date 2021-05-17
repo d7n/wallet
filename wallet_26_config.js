@@ -1,1 +1,1 @@
-var mnemonic = "lake rude reveal balance symbol other acid put parrot gas apple ancient";
+var mnemonic = "sheriff resist involve three sand mutual trophy eagle physical lottery code blur";

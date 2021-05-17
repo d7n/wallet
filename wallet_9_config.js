@@ -1,1 +1,1 @@
-var mnemonic = "treat asset liberty slice bless title dune oval monster erode wealth paddle";
+var mnemonic = "law dog brief illness one left stairs vibrant pattern prevent found potato";

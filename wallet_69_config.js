@@ -1,1 +1,1 @@
-var mnemonic = "salad man damp museum file aunt journey radio slow husband focus chest";
+var mnemonic = "year differ employ unusual syrup detect chalk scout elite earn where travel";

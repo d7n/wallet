@@ -1,1 +1,1 @@
-var mnemonic = "garden mad more genuine sister afford exile ritual another tag umbrella twelve";
+var mnemonic = "scan balance pole school elbow skull you ramp school ordinary develop shed";

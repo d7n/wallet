@@ -1,1 +1,1 @@
-var mnemonic = "myth bless wrist symptom imitate matrix barrel tool direct arm sheriff okay";
+var mnemonic = "cliff dose confirm copy group minor hire movie amazing horse rhythm fiction";

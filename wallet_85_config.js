@@ -1,1 +1,1 @@
-var mnemonic = "captain betray gown crack attend announce topic catalog cinnamon picture ocean phrase";
+var mnemonic = "spoon arch area spice pill lamp illness market clay outer another escape";

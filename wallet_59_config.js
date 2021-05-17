@@ -1,1 +1,1 @@
-var mnemonic = "silly snow educate peace dawn iron major exclude glimpse fly iron village";
+var mnemonic = "practice cross raven foam bind hip cruise aim need wing reopen hunt";

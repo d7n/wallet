@@ -1,1 +1,1 @@
-var mnemonic = "carpet april bid city bind flavor achieve poem bulk idle opinion crack";
+var mnemonic = "divert now annual fiction reason wonder kind erupt island private settle blush";

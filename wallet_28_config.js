@@ -1,1 +1,1 @@
-var mnemonic = "accuse fun interest pair saddle give strategy addict hard elevator scorpion voyage";
+var mnemonic = "nuclear medal emerge deer mosquito grain call nerve interest trade turtle exhaust";

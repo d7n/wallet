@@ -1,1 +1,1 @@
-var mnemonic = "echo piano question aware tonight camp wise tobacco learn tattoo female destroy";
+var mnemonic = "bundle zone sport practice industry model bracket sugar tiny chat chronic bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic auto rubber interest dance dune tunnel actual tool domain test lemon";
+var mnemonic = "siren rebel beyond genre cliff pulp unlock position list valve feel only";

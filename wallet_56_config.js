@@ -1,1 +1,1 @@
-var mnemonic = "into elephant federal warm rocket inflict adapt stand pet satisfy afford spray";
+var mnemonic = "run portion cotton leisure still educate depth firm drop until cherry detail";

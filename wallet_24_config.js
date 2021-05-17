@@ -1,1 +1,1 @@
-var mnemonic = "brief find gas zoo purity bid snap cluster because water marine exact";
+var mnemonic = "example estate beef image afford island use easily adapt vocal off behind";

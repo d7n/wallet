@@ -1,1 +1,1 @@
-var mnemonic = "job early search damage scare quote winter myth ramp surge canal increase";
+var mnemonic = "winter current cup journey happy seminar acoustic girl parade toward cotton utility";

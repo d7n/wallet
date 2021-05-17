@@ -1,1 +1,1 @@
-var mnemonic = "wreck patrol hat assault voyage wisdom cage inmate decide piano circle cigar";
+var mnemonic = "salt bullet cargo hockey mean buffalo reward verify surprise print worry tunnel";

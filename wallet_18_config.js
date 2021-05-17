@@ -1,1 +1,1 @@
-var mnemonic = "oak drill ankle rookie engine surprise arena cushion observe evoke rough vast";
+var mnemonic = "sand kite one story level payment steak mimic garden volume close cement";

@@ -1,1 +1,1 @@
-var mnemonic = "expose thunder body eight link park lizard ten noise peace garden certain";
+var mnemonic = "couch file doll update useful female grass weird drastic violin vast put";

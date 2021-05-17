@@ -1,1 +1,1 @@
-var mnemonic = "liar own come plug stable rough dice patient gold door consider scout";
+var mnemonic = "accuse quiz pretty nephew alter warm clock believe swarm method system fade";

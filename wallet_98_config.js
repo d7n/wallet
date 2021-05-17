@@ -1,1 +1,1 @@
-var mnemonic = "song impulse same sport various lazy inside romance reform slogan cannon sea";
+var mnemonic = "sport private poet pistol creek nephew pretty segment climb exist virus zebra";

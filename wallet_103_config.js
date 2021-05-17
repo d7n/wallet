@@ -1,1 +1,1 @@
-var mnemonic = "tent electric figure text rose emerge always system plunge wife scorpion people";
+var mnemonic = "upon weather derive hurry captain near caught design pen wealth pony tree";

@@ -1,1 +1,1 @@
-var mnemonic = "evil kick smooth local clinic tomorrow shoe fringe bone have tail rival";
+var mnemonic = "essay myth wonder mobile acquire cup recipe omit relax quantum edit acoustic";

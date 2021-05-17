@@ -1,1 +1,1 @@
-var mnemonic = "gospel tortoise can wash weird tower alpha apart sphere rack hold broccoli";
+var mnemonic = "symbol history recipe pepper crowd ignore nasty rebuild arrest valve sugar album";

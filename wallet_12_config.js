@@ -1,1 +1,1 @@
-var mnemonic = "random solution control select utility symptom neutral runway village evil flock horse";
+var mnemonic = "script security flame south clap else rapid wild attract void relax review";

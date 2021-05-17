@@ -1,1 +1,1 @@
-var mnemonic = "seek eternal enhance slam torch seminar area family humble engage knee near";
+var mnemonic = "arctic seven media execute until exile tell guitar hamster normal version honey";

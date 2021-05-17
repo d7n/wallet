@@ -1,1 +1,1 @@
-var mnemonic = "orphan spray brand room put shiver decline useful sheriff journey emerge gas";
+var mnemonic = "joke seed again dance dove polar future decrease antique anchor orient board";

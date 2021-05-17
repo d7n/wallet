@@ -1,1 +1,1 @@
-var mnemonic = "hockey rural find smile capital child attack poem slice poet trick main";
+var mnemonic = "trophy use calm wave useless security across indoor keen person exit cactus";

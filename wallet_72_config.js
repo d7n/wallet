@@ -1,1 +1,1 @@
-var mnemonic = "illness harsh miss will decide write matrix flower assume lava amount sketch";
+var mnemonic = "shoot witness there pilot enroll suggest census plate myself wife rural town";

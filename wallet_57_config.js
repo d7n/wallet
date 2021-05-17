@@ -1,1 +1,1 @@
-var mnemonic = "true buyer venture sadness noble march pulp enroll fiction engage illness move";
+var mnemonic = "surge clever coral border gold lamp viable next program task bar coil";

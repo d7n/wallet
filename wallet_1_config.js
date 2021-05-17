@@ -1,1 +1,1 @@
-var mnemonic = "apology source correct boost exit permit collect impact satisfy improve asthma report";
+var mnemonic = "use grant banana assist whip caution nation reopen elder middle master gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "coast push frequent sun theory enter bar love allow sand brick pulse";
+var mnemonic = "swap debris picture uniform depth tape horror sport carpet grocery leopard erase";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil announce chaos exercise motor cousin weather million amount palm have october";
+var mnemonic = "limb note lock valley receive exercise shrimp pony first deal oppose shop";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum gate curve belt immune hat off wet leader nothing wool tuna";
+var mnemonic = "minute already tonight note claim accident punch picnic own sting magic thunder";

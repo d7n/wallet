@@ -1,1 +1,1 @@
-var mnemonic = "item fault wreck gown luxury steel upgrade frequent beauty unique remove element";
+var mnemonic = "wrestle idle rack hello tobacco effort require learn gospel typical expose kid";

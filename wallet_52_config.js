@@ -1,1 +1,1 @@
-var mnemonic = "pepper among august grab unaware wire nuclear illegal crunch lucky lamp funny";
+var mnemonic = "glance enable scrub inherit toy ski breeze rely spirit clock embody subject";

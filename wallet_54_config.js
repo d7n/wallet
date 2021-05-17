@@ -1,1 +1,1 @@
-var mnemonic = "appear inch pave try squirrel decorate paddle boring clog phone tribe leisure";
+var mnemonic = "pear recycle indicate fabric mesh icon rubber old material pact cancel tiger";

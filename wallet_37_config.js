@@ -1,1 +1,1 @@
-var mnemonic = "fan enlist claim fluid mixture width sign embody sniff regular diet inner";
+var mnemonic = "fantasy dolphin close dish finish process grow level grain spray rebuild fresh";

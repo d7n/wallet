@@ -1,1 +1,1 @@
-var mnemonic = "paper spawn figure sadness drop range notice liberty reward guide sail ancient";
+var mnemonic = "shoe border globe bind film mind three excess embark popular decorate follow";

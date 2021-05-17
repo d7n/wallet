@@ -1,1 +1,1 @@
-var mnemonic = "coyote onion eager castle letter vacant rack surge pilot home squirrel carpet";
+var mnemonic = "romance decade wisdom promote dragon noble print sadness paper rescue style delay";

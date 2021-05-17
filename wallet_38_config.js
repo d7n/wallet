@@ -1,1 +1,1 @@
-var mnemonic = "noble off find boat fiction defy sibling story candy thunder walnut venture";
+var mnemonic = "side never scan horse shy hire sunset camera enter chronic couple bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange depth rare cancel potato clock swear supreme verb weasel strike simple";
+var mnemonic = "laundry climb lunch build street tooth idea arch author produce slim word";

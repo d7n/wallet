@@ -1,1 +1,1 @@
-var mnemonic = "flavor either cloth east exile scissors party meat danger decide icon avocado";
+var mnemonic = "abstract relax hub blush guitar eager wide poet drink chef sugar panel";

@@ -1,1 +1,1 @@
-var mnemonic = "make rather credit bring execute before wash veteran maple bread web belt";
+var mnemonic = "connect shrimp vendor fringe smile grunt this hollow creek tribe crack fee";

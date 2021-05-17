@@ -1,1 +1,1 @@
-var mnemonic = "between champion concert omit trust security drop trigger multiply resist east picnic";
+var mnemonic = "fee idle dismiss nation matter brother hill into library romance list turtle";

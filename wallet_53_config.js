@@ -1,1 +1,1 @@
-var mnemonic = "owner one brief actress thought raw demise month age vacant quote sponsor";
+var mnemonic = "ketchup depth umbrella mom hamster globe square broken defy desk fault slab";

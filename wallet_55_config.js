@@ -1,1 +1,1 @@
-var mnemonic = "parade smart minute vendor cargo strategy feature scare original program author ceiling";
+var mnemonic = "equip submit scale actress again shine found garden element cricket rug hole";

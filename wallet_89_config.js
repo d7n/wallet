@@ -1,1 +1,1 @@
-var mnemonic = "mind theme talent frost defy loan inhale release nuclear thing burger inmate";
+var mnemonic = "target size honey fiber pledge garbage output demand engage avoid surface gasp";

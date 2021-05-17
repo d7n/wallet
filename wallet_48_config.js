@@ -1,1 +1,1 @@
-var mnemonic = "cute right tongue evoke inhale coffee puzzle seminar found beauty march depart";
+var mnemonic = "chief venue fabric test tortoise drastic blind happy cute rigid lunch timber";

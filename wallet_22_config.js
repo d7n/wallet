@@ -1,1 +1,1 @@
-var mnemonic = "sight loyal thrive purchase real fabric library unfold shoot position vague toilet";
+var mnemonic = "pride infant drastic rose window favorite hood zone first amount poem rookie";

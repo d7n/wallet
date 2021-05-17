@@ -1,1 +1,1 @@
-var mnemonic = "inform lonely company woman uniform dumb embark meat badge fox mechanic other";
+var mnemonic = "carbon episode solution cycle dutch consider horn report prevent weekend equip undo";

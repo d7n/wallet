@@ -1,1 +1,1 @@
-var mnemonic = "jar leader quote manual twice wealth frost number mirror state filter obvious";
+var mnemonic = "head upgrade dizzy guide axis seminar daughter civil toast poet mean annual";

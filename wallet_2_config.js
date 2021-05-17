@@ -1,1 +1,1 @@
-var mnemonic = "custom boss gossip wing hair country change entire human rebel mean alcohol";
+var mnemonic = "sense width rifle buffalo bracket quit talent gas cricket moment buyer payment";

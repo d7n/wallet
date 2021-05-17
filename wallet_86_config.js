@@ -1,1 +1,1 @@
-var mnemonic = "beauty tube fortune dentist rigid thunder toy holiday knock flip example club";
+var mnemonic = "install brown trophy recipe rule smile attitude menu matter uncover regret you";

@@ -1,1 +1,1 @@
-var mnemonic = "crash curious guide spoon mule sight woman educate dwarf fun attitude spike";
+var mnemonic = "strike vehicle devote jar globe dice present share enrich account shrimp defy";

@@ -1,1 +1,1 @@
-var mnemonic = "table cluster frequent pluck belt enact mutual color require visit clever enforce";
+var mnemonic = "adult innocent bid spray time miracle duty decrease shiver wing two claim";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest cement myth provide same spoil season aunt peace december swear letter";
+var mnemonic = "clarify physical cluster ivory bone bid essay galaxy grit shoot version forget";

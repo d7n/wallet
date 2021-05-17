@@ -1,1 +1,1 @@
-var mnemonic = "draw mushroom sheriff cable belt cradle vibrant parrot stock dial second price";
+var mnemonic = "verb enter purpose onion heavy october tray lock layer unique north bullet";

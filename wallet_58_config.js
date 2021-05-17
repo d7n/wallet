@@ -1,1 +1,1 @@
-var mnemonic = "talent item twice hollow immune extend size custom square response differ shed";
+var mnemonic = "ready captain odor federal sample way deal possible hair tomorrow vital month";

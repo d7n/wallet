@@ -1,1 +1,1 @@
-var mnemonic = "juice sound ready divorce hidden scan mammal strike industry february wheat there";
+var mnemonic = "dress old mutual control firm quiz turtle ranch rapid beef aware viable";

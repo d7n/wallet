@@ -1,1 +1,1 @@
-var mnemonic = "phrase monkey canal solve tiny promote ask story sniff drip spoon brisk";
+var mnemonic = "believe potato fish bundle van crash bird truth merge mobile olympic topic";

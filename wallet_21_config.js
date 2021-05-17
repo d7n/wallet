@@ -1,1 +1,1 @@
-var mnemonic = "account rain way crane flavor zero tiny garlic steak rigid short trip";
+var mnemonic = "spring grape foil item stereo easily sphere tissue cigar submit wink cake";

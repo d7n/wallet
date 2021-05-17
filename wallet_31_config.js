@@ -1,1 +1,1 @@
-var mnemonic = "flat trouble helmet team recycle clerk share limit pulse boil town embark";
+var mnemonic = "present oxygen what orchard wave disorder crunch carpet favorite nominee history stool";
