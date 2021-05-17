@@ -1,1 +1,1 @@
-var mnemonic = "protect waste panther betray acquire athlete bean lend number theory dwarf wink";
+var mnemonic = "hurry enact slow normal purse deliver farm cereal violin list system govern";

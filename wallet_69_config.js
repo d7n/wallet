@@ -1,1 +1,1 @@
-var mnemonic = "post jewel firm park inform clock quiz genre enroll purpose parrot leopard";
+var mnemonic = "neck town bird frost clog estate lyrics drink weekend sound miracle race";

@@ -1,1 +1,1 @@
-var mnemonic = "exact hub unable lab solve wise plastic funny spring story cinnamon vehicle";
+var mnemonic = "color unknown style social service pet sport sell trash rather board volume";

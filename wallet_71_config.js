@@ -1,1 +1,1 @@
-var mnemonic = "rude gauge kit minute switch off spread snap door pause curve lady";
+var mnemonic = "chunk nice approve like element strong ignore side armed box trophy harbor";

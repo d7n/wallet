@@ -1,1 +1,1 @@
-var mnemonic = "spirit hand snow fade economy industry remain man tongue notable benefit bottom";
+var mnemonic = "release scorpion check vibrant coast slight essay arena depart mercy clerk runway";

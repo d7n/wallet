@@ -1,1 +1,1 @@
-var mnemonic = "sausage bomb share what define treat cry loud possible winner spike palm";
+var mnemonic = "rapid powder parade submit food design leopard assume sketch swim kid cave";

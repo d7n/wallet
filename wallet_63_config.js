@@ -1,1 +1,1 @@
-var mnemonic = "section name stove title student dwarf apart bulk coral base ostrich buyer";
+var mnemonic = "job lion tomato alter web heavy example can derive power gasp unhappy";

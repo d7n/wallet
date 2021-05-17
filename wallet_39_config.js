@@ -1,1 +1,1 @@
-var mnemonic = "dinner host liar exercise come butter junior knife public awkward ordinary deliver";
+var mnemonic = "actress orient outside any demise over thank tank hint axis coil toe";

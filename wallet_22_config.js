@@ -1,1 +1,1 @@
-var mnemonic = "inflict dirt hazard horror weather need silk try brave hedgehog cat foster";
+var mnemonic = "predict author tray limb toast video ethics beef chat shell roof valley";

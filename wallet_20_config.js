@@ -1,1 +1,1 @@
-var mnemonic = "since bright coconut firm lottery tomato behind erode strong volcano kite cactus";
+var mnemonic = "original local margin output hub slot method walk siege tool present wave";

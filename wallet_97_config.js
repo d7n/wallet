@@ -1,1 +1,1 @@
-var mnemonic = "tired february design elbow keen jungle disorder ethics begin truth original slush";
+var mnemonic = "build convince roof envelope forward around rich route honey mean pipe abuse";

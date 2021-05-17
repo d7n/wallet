@@ -1,1 +1,1 @@
-var mnemonic = "brush dwarf section spell hard book parade degree wave palm athlete coin";
+var mnemonic = "celery route today else lake pigeon cabbage derive tonight donkey rabbit fiber";

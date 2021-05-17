@@ -1,1 +1,1 @@
-var mnemonic = "flip cook police draw slush panda mention document limit angle able burden";
+var mnemonic = "question inch lobster bridge hybrid enhance erode attitude mirror found half raw";

@@ -1,1 +1,1 @@
-var mnemonic = "wing alter present truth rally gun pitch picnic discover swap select shadow";
+var mnemonic = "north powder cricket midnight control envelope quantum swamp plug garden van sentence";

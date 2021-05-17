@@ -1,1 +1,1 @@
-var mnemonic = "cycle excess border top rival remind ancient velvet result expire leisure tomato";
+var mnemonic = "tomorrow grant loud always clutch first taxi exile destroy clerk tuition equal";

@@ -1,1 +1,1 @@
-var mnemonic = "annual armed spawn keen crop arrange rebel twist mom list sense venue";
+var mnemonic = "tomato length fatigue satoshi family horror neutral grab rescue female victory wire";

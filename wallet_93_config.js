@@ -1,1 +1,1 @@
-var mnemonic = "scrub sister supreme zebra camp dentist oxygen ahead key unusual lottery twist";
+var mnemonic = "quarter glimpse odor panic lunch cram disagree parade whale core van pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter wing present segment menu item share gate will correct artefact canoe";
+var mnemonic = "flee island script concert style visa shiver improve impose direct coconut canyon";

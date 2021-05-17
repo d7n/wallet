@@ -1,1 +1,1 @@
-var mnemonic = "expose moral note pair order weekend lawn enlist submit dog card betray";
+var mnemonic = "rely proud custom velvet say wide garage aerobic exotic vague lobster voyage";

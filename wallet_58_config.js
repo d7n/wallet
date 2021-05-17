@@ -1,1 +1,1 @@
-var mnemonic = "stairs job cram will since unit cluster keen episode vintage winner forward";
+var mnemonic = "thunder resist deposit firm wrestle awkward hub trial promote wild push orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum satoshi race lend seat pink assume glimpse vapor frame stool lucky";
+var mnemonic = "venue glory game bleak dawn hole wave hospital swim story script win";

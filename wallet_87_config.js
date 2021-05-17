@@ -1,1 +1,1 @@
-var mnemonic = "ask scrub loyal obscure antenna medal announce task flat soft notice rabbit";
+var mnemonic = "such retire unveil shallow olive glance chunk dizzy solution repeat blossom second";

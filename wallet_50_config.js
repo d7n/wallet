@@ -1,1 +1,1 @@
-var mnemonic = "second nature spoon typical desk client sunset celery farm theme outside shallow";
+var mnemonic = "large quick desk pole goose route february trumpet equip pass couch cage";

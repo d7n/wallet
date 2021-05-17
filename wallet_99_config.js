@@ -1,1 +1,1 @@
-var mnemonic = "split humble cabin smooth hunt fine avoid hello rose jelly language embrace";
+var mnemonic = "minor push lumber attract island ketchup battle potato tonight trash afraid carpet";

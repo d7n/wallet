@@ -1,1 +1,1 @@
-var mnemonic = "custom spare tiger grow cart lion sudden manage eager suggest space fatal";
+var mnemonic = "stage leave copy wine deer venture deer coffee fork cliff wash keep";

@@ -1,1 +1,1 @@
-var mnemonic = "donate poverty loud inmate neglect pave saddle champion cream talent candy rude";
+var mnemonic = "ritual buffalo aim alien matrix clarify claw material off onion trouble ill";

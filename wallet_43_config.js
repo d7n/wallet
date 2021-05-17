@@ -1,1 +1,1 @@
-var mnemonic = "double skull laptop volcano mean put inhale prosper true ozone daring grit";
+var mnemonic = "rib symptom merit disorder useful cruel ladder orange book sell strike now";

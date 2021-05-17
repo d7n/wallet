@@ -1,1 +1,1 @@
-var mnemonic = "group matter casino youth easy poet letter grid target coyote habit giraffe";
+var mnemonic = "whale similar immune stone level learn aerobic wealth camp age brown horror";

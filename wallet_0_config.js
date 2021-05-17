@@ -1,1 +1,1 @@
-var mnemonic = "drum fiber when bacon fork have nephew coast host spin expand rich";
+var mnemonic = "crucial brave avocado myth define dolphin carpet solve control grape cruel digital";

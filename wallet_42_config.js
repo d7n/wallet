@@ -1,1 +1,1 @@
-var mnemonic = "blossom connect riot engine budget spray mystery gorilla kid equip broom talent";
+var mnemonic = "siren pattern curve pizza neutral vacant always margin exclude climb eyebrow clerk";

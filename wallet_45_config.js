@@ -1,1 +1,1 @@
-var mnemonic = "slab flush bleak secret dizzy library world omit curious strike rose movie";
+var mnemonic = "sauce eager reveal village veteran assault mansion predict project misery giraffe hour";

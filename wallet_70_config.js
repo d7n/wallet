@@ -1,1 +1,1 @@
-var mnemonic = "predict plastic upgrade snap spring tool list artist soup escape modify dentist";
+var mnemonic = "hobby original rival diet ginger biology energy notable brush install pitch purchase";

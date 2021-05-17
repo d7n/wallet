@@ -1,1 +1,1 @@
-var mnemonic = "sign distance define behave mask input addict nest blood figure voice cannon";
+var mnemonic = "artefact region birth evil wrestle manage runway dismiss burger middle siren trumpet";

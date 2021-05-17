@@ -1,1 +1,1 @@
-var mnemonic = "harbor country rib tackle glad weekend best shoulder wet reason leader disease";
+var mnemonic = "spray inch arrest range safe alter guess inherit climb panic table praise";

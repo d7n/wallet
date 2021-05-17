@@ -1,1 +1,1 @@
-var mnemonic = "dog owner luggage code mistake solid town cattle symptom festival diary recall";
+var mnemonic = "clinic sadness party pole course rib sea carpet tornado autumn execute holiday";

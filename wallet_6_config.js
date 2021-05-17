@@ -1,1 +1,1 @@
-var mnemonic = "unveil wood whale shift inmate erupt harbor garage myth laugh fatigue phone";
+var mnemonic = "wait eyebrow camp swarm sail upper wrong dust nose axis ocean afford";

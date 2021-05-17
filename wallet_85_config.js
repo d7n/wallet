@@ -1,1 +1,1 @@
-var mnemonic = "rail quiz strategy flower shaft service athlete task broom eternal egg private";
+var mnemonic = "field sudden gaze stamp auction move adult spring host impact mountain pulp";

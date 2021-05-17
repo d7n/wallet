@@ -1,1 +1,1 @@
-var mnemonic = "paddle income solve author metal wealth ladder clump toilet gather again primary";
+var mnemonic = "coach tumble loan welcome text road best capital come inject elegant tragic";

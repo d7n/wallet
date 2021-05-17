@@ -1,1 +1,1 @@
-var mnemonic = "chef frozen diet scene stove region curtain card outside stick about asthma";
+var mnemonic = "region segment about two battle hockey okay pluck century uncover salon test";

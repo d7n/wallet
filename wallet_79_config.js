@@ -1,1 +1,1 @@
-var mnemonic = "suggest produce sausage virtual figure develop orbit brick cloth parade model logic";
+var mnemonic = "borrow pool about maze refuse poem result stable tree romance combine zone";

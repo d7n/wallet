@@ -1,1 +1,1 @@
-var mnemonic = "bring agree any eager march media grow tired boil allow shiver mushroom";
+var mnemonic = "horror immense faith region wasp field better knife proof deny trumpet fix";

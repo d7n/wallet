@@ -1,1 +1,1 @@
-var mnemonic = "number van account slender simple argue cheap convince shiver assault present lion";
+var mnemonic = "frown case market post divorce meadow reject taste senior crew squirrel desk";

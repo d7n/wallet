@@ -1,1 +1,1 @@
-var mnemonic = "cup moon miss session float stairs effort fruit toilet quick chair vacant";
+var mnemonic = "raw one top guilt tilt deliver session polar shrug strong crouch hen";

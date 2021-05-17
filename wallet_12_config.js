@@ -1,1 +1,1 @@
-var mnemonic = "child original august pipe olympic own abuse bullet fall produce diamond gym";
+var mnemonic = "net service merit crash cereal share patch aunt dismiss drink develop since";

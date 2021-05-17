@@ -1,1 +1,1 @@
-var mnemonic = "agree alert coyote task orphan virus later ethics announce student junk panda";
+var mnemonic = "float tattoo panic level cereal subway faint treat left post marine rabbit";

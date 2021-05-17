@@ -1,1 +1,1 @@
-var mnemonic = "math elegant island clock side utility struggle rate ball silver silver explain";
+var mnemonic = "unhappy sweet verb senior stereo smart air nice opera diamond agent cliff";

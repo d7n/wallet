@@ -1,1 +1,1 @@
-var mnemonic = "amused update also tornado doctor clean border own drop siren tape brother";
+var mnemonic = "doctor stomach dash accuse mutual suit license increase cloth ritual avoid purse";

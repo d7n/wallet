@@ -1,1 +1,1 @@
-var mnemonic = "trumpet equal damp nasty will antique traffic media bamboo effort stamp fault";
+var mnemonic = "spatial gun joy exile assume fence lawsuit uncle category release trim noise";

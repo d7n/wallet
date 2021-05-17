@@ -1,1 +1,1 @@
-var mnemonic = "also bird glance truth claw attend stairs transfer parade weasel series vague";
+var mnemonic = "industry tail powder speed click private connect tobacco recall anxiety catalog version";

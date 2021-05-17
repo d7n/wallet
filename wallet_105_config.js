@@ -1,1 +1,1 @@
-var mnemonic = "today virus goat rain top snap stand cinnamon april true author settle";
+var mnemonic = "total nephew wood turkey industry either suggest glow shift eyebrow change wire";

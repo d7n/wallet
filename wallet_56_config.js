@@ -1,1 +1,1 @@
-var mnemonic = "harvest wisdom river author route deer fan invite unfold skin amateur crowd";
+var mnemonic = "caught always quit maid sniff stadium ice wrap inch general purchase mouse";

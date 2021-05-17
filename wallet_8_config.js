@@ -1,1 +1,1 @@
-var mnemonic = "arm slow glory option raise struggle lens expect good frown focus thing";
+var mnemonic = "bike alien what delay glory biology spin exact distance enhance river donor";

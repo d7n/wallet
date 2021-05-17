@@ -1,1 +1,1 @@
-var mnemonic = "pulp drive mercy venture era bike manual normal banana subject limit broom";
+var mnemonic = "tank athlete fun ginger property aunt chronic topple pipe accuse duck canvas";

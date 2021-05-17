@@ -1,1 +1,1 @@
-var mnemonic = "tiny situate drill lecture grab citizen accuse brand donkey talk script mean";
+var mnemonic = "crowd muffin bundle argue avoid jewel obscure shiver feed loud account alien";

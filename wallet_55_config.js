@@ -1,1 +1,1 @@
-var mnemonic = "appear wish fever silver excuse process sight soap above dirt fog mule";
+var mnemonic = "pact bitter alone enjoy route iron ripple dinosaur grow settle word win";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator sheriff three plug decline cradle mixed approve much bring quit cloud";
+var mnemonic = "future when rebuild gadget save nice enact amateur seat unknown excess marble";

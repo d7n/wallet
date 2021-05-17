@@ -1,1 +1,1 @@
-var mnemonic = "amazing trap random beef match acoustic argue will toilet foam maid host";
+var mnemonic = "enroll strike stable little monkey bullet turn cabbage modify pen embark joke";

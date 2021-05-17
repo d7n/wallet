@@ -1,1 +1,1 @@
-var mnemonic = "resemble speak course melody isolate side half fun pioneer fiber clock pencil";
+var mnemonic = "cactus stereo long twelve concert peasant fire erode inject harbor zone casual";

@@ -1,1 +1,1 @@
-var mnemonic = "cook only super visual wrist unit ride stomach soldier improve divert maximum";
+var mnemonic = "common still include approve verify stem try either glow trigger relax fuel";

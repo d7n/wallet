@@ -1,1 +1,1 @@
-var mnemonic = "destroy sea face relax movie dignity squirrel outer eight near drop pistol";
+var mnemonic = "style shoulder news receive damp someone play invest better film swear mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk juice true later margin oppose sick shrimp about mention airport maid";
+var mnemonic = "spell gym return motor ski quantum admit sign copy curve pizza vivid";

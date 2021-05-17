@@ -1,1 +1,1 @@
-var mnemonic = "loyal appear skate install gown steel alone maple rigid drift eight idle";
+var mnemonic = "night balance then awake visa token help jump noble keep laugh resemble";

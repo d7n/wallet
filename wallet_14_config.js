@@ -1,1 +1,1 @@
-var mnemonic = "shadow youth hole egg virtual screen scorpion attack pig rack dynamic wear";
+var mnemonic = "view praise enemy depend tornado fabric wrap ritual movie genre term evoke";

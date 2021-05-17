@@ -1,1 +1,1 @@
-var mnemonic = "number away disorder upper task gospel pulp kitten plastic neither doctor circle";
+var mnemonic = "seat joke rally toddler bone sail hat reason wheat bachelor ivory stove";

@@ -1,1 +1,1 @@
-var mnemonic = "soul deal camp unhappy dose pink write ability shed bracket donate heavy";
+var mnemonic = "flag canal category rude uncle group melody elevator prison arena concert helmet";

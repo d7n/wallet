@@ -1,1 +1,1 @@
-var mnemonic = "print few bacon aisle quantum bleak birth seed gravity sword pencil hero";
+var mnemonic = "absurd bulb wedding decrease test pill butter seed train bacon hunt grit";

@@ -1,1 +1,1 @@
-var mnemonic = "alone toe practice length abstract toast session galaxy bid such frost mention";
+var mnemonic = "mixed maid tragic ski cover enjoy sell family arm street spring dream";

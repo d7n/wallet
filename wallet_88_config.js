@@ -1,1 +1,1 @@
-var mnemonic = "wasp video filter lunch tell embark piece arrive silent lucky large leave";
+var mnemonic = "enrich share inmate wild exist dice amount boy toward legend panic way";

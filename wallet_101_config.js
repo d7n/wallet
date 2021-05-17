@@ -1,1 +1,1 @@
-var mnemonic = "pride space vacant limb anger message merit spray decrease social soda clean";
+var mnemonic = "lamp grow document media razor drive lunar trash defy lift piece labor";

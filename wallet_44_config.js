@@ -1,1 +1,1 @@
-var mnemonic = "bring cargo wild rotate despair raven rocket adjust letter common general boost";
+var mnemonic = "unfold quarter like rain usage vapor replace album boy bracket rich prefer";

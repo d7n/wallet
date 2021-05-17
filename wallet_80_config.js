@@ -1,1 +1,1 @@
-var mnemonic = "demise exercise reduce scene monitor blossom bargain trial sort motor tail convince";
+var mnemonic = "lonely slush enable catch human fit price patch saddle name polar kitten";

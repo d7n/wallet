@@ -1,1 +1,1 @@
-var mnemonic = "anger devote that jelly sentence poverty ecology wedding tank menu obscure fiber";
+var mnemonic = "casual match man usage seven vessel meadow spy stadium surprise exhaust color";

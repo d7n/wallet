@@ -1,1 +1,1 @@
-var mnemonic = "brain riot harsh fringe shiver spirit agree dish exile expose dice census";
+var mnemonic = "person erase close illness piece chapter choice pepper guard above answer much";

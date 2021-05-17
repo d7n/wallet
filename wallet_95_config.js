@@ -1,1 +1,1 @@
-var mnemonic = "subject resist suspect inflict arena able skirt end town youth sock obscure";
+var mnemonic = "detect price essay tree error soup hockey problem baby erosion inherit noise";

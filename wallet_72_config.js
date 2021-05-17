@@ -1,1 +1,1 @@
-var mnemonic = "phone guard click orchard under hunt thumb borrow always priority economy capital";
+var mnemonic = "genius nominee frozen damp cost shallow destroy toss yellow buzz team unit";

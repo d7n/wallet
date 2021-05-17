@@ -1,1 +1,1 @@
-var mnemonic = "gentle noise magic bottom matrix blouse plunge inject secret december area traffic";
+var mnemonic = "quick blind drill portion amount drive yard idea amazing skin danger border";

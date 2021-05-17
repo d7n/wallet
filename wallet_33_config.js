@@ -1,1 +1,1 @@
-var mnemonic = "sting sport near silly brown glass unlock wing stomach hair base capital";
+var mnemonic = "rich catch wave avocado still anger drill lawsuit wrap hollow symbol strong";

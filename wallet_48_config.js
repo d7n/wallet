@@ -1,1 +1,1 @@
-var mnemonic = "fame slim double amount firm burst toe wet steak ski sand dice";
+var mnemonic = "agree settle youth unit solid false month layer card powder bicycle prevent";

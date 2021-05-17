@@ -1,1 +1,1 @@
-var mnemonic = "loan know traffic mom satisfy traffic dry inner hope dry caught celery";
+var mnemonic = "couch spoon since lift keep boring shoulder squeeze quote keep lucky replace";

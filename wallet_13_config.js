@@ -1,1 +1,1 @@
-var mnemonic = "approve punch young choose fuel attitude toward scale domain window episode wedding";
+var mnemonic = "illness oval horror rate banner noodle clump derive debris embody banner subject";

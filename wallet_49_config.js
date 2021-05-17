@@ -1,1 +1,1 @@
-var mnemonic = "else alone order zebra fold view note rude dash egg easy tail";
+var mnemonic = "glide dolphin armed artist inhale print fabric trash human diet input close";

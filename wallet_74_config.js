@@ -1,1 +1,1 @@
-var mnemonic = "close apology oxygen effort dismiss action stadium together spell cabbage dial surround";
+var mnemonic = "kitchen major sausage know diary six canvas library great size act assault";

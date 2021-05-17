@@ -1,1 +1,1 @@
-var mnemonic = "birth celery can artefact truth topple future interest pelican trigger heart remain";
+var mnemonic = "wrestle depend steak offer couple accuse notice guitar essence fiction educate diet";

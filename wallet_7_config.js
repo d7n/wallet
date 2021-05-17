@@ -1,1 +1,1 @@
-var mnemonic = "mansion vacant crack cradle saddle million quick diary globe island deposit window";
+var mnemonic = "indicate armor text transfer breeze salad judge bomb have capable narrow sniff";

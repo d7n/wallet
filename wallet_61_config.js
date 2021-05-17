@@ -1,1 +1,1 @@
-var mnemonic = "science fold huge buzz group scorpion bike calm orphan uncover amazing board";
+var mnemonic = "unknown ignore muffin metal hedgehog attitude fever face twin walnut final motion";

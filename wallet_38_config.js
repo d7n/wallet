@@ -1,1 +1,1 @@
-var mnemonic = "cave urban delay lamp side agree unfold easily profit broccoli island observe";
+var mnemonic = "long kitten lens guitar knock cook actor damp draw hybrid cigar smoke";
