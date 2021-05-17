@@ -1,1 +1,1 @@
-var mnemonic = "hurry enact slow normal purse deliver farm cereal violin list system govern";
+var mnemonic = "rubber purse choice century trim burden next squeeze sample fury noodle share";

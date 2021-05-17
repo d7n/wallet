@@ -1,1 +1,1 @@
-var mnemonic = "absurd bulb wedding decrease test pill butter seed train bacon hunt grit";
+var mnemonic = "plunge one oppose twelve video whisper hockey this perfect rescue forest green";

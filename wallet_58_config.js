@@ -1,1 +1,1 @@
-var mnemonic = "thunder resist deposit firm wrestle awkward hub trial promote wild push orchard";
+var mnemonic = "burst tomorrow treat jelly once practice arrest brave alien faculty absurd extend";

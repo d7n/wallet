@@ -1,1 +1,1 @@
-var mnemonic = "fatal weird maximum edit life banana air tower buddy banana convince month";
+var mnemonic = "round vicious fossil soon save empty another maze right cluster chronic express";

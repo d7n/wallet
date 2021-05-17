@@ -1,1 +1,1 @@
-var mnemonic = "dilemma item anger faint illness nut short thumb urban smile monkey century";
+var mnemonic = "donkey hen arrow shaft crack orange logic fence example elder shiver exit";

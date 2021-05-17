@@ -1,1 +1,1 @@
-var mnemonic = "crucial brave avocado myth define dolphin carpet solve control grape cruel digital";
+var mnemonic = "what rival want harsh lady just soul strategy media amazing edit thumb";

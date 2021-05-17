@@ -1,1 +1,1 @@
-var mnemonic = "common still include approve verify stem try either glow trigger relax fuel";
+var mnemonic = "cherry task memory train couch race behind slam autumn income group excite";

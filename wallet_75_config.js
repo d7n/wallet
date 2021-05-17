@@ -1,1 +1,1 @@
-var mnemonic = "area hood album brand urban wolf dose erupt material enough body brown";
+var mnemonic = "silent enemy outer exclude inflict document broom wash glance whale network adjust";

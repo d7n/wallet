@@ -1,1 +1,1 @@
-var mnemonic = "night balance then awake visa token help jump noble keep laugh resemble";
+var mnemonic = "lava banner number change best dove lounge zero prosper surprise unusual write";

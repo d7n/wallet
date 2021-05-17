@@ -1,1 +1,1 @@
-var mnemonic = "scare swing cause follow dice bacon rack dial double another discover license";
+var mnemonic = "journey acquire harbor pave magnet intact cloud quote pilot icon measure property";

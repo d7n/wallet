@@ -1,1 +1,1 @@
-var mnemonic = "enroll strike stable little monkey bullet turn cabbage modify pen embark joke";
+var mnemonic = "math shrug gather dilemma amount file pride slice photo flee reduce check";

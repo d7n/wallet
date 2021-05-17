@@ -1,1 +1,1 @@
-var mnemonic = "sauce eager reveal village veteran assault mansion predict project misery giraffe hour";
+var mnemonic = "simple few travel confirm sheriff rapid erupt man truly frost accident grocery";

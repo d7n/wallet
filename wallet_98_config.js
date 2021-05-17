@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow grant loud always clutch first taxi exile destroy clerk tuition equal";
+var mnemonic = "trip old simple onion acoustic time bachelor enable aspect question talk echo";

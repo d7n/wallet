@@ -1,1 +1,1 @@
-var mnemonic = "proof poem father replace slow settle abuse chest inhale food knife observe";
+var mnemonic = "patch topple drill model relax width void advice local catalog assume road";

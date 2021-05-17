@@ -1,1 +1,1 @@
-var mnemonic = "chunk nice approve like element strong ignore side armed box trophy harbor";
+var mnemonic = "phone injury intact chuckle crop smoke orange rent sense audit program assume";

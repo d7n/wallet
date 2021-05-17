@@ -1,1 +1,1 @@
-var mnemonic = "actress orient outside any demise over thank tank hint axis coil toe";
+var mnemonic = "artefact bamboo legal royal leaf number blush cannon erosion sign fire apology";

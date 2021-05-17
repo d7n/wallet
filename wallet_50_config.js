@@ -1,1 +1,1 @@
-var mnemonic = "large quick desk pole goose route february trumpet equip pass couch cage";
+var mnemonic = "endorse produce program service basket much naive endless ginger mule vast syrup";

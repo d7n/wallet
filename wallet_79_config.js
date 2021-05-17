@@ -1,1 +1,1 @@
-var mnemonic = "borrow pool about maze refuse poem result stable tree romance combine zone";
+var mnemonic = "label destroy language awkward fat accuse poet canyon fork grow rough expire";

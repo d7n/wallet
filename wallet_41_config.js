@@ -1,1 +1,1 @@
-var mnemonic = "stamp ramp bomb few detail reject gadget unlock library goddess emotion pet";
+var mnemonic = "penalty shine outdoor damage board resist quiz shock random exotic stand letter";

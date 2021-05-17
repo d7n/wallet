@@ -1,1 +1,1 @@
-var mnemonic = "frown case market post divorce meadow reject taste senior crew squirrel desk";
+var mnemonic = "health eyebrow accident tooth fold slide tuition tourist desk artefact collect suggest";

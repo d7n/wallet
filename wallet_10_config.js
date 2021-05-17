@@ -1,1 +1,1 @@
-var mnemonic = "one stem garbage other depart will issue warfare write frown smooth pledge";
+var mnemonic = "pride spider fluid bundle where raven six gasp emotion exercise derive tunnel";

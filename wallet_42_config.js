@@ -1,1 +1,1 @@
-var mnemonic = "siren pattern curve pizza neutral vacant always margin exclude climb eyebrow clerk";
+var mnemonic = "picture build frog focus grocery answer famous wool spell rail bean obey";

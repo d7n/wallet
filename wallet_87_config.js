@@ -1,1 +1,1 @@
-var mnemonic = "such retire unveil shallow olive glance chunk dizzy solution repeat blossom second";
+var mnemonic = "rib convince charge spot taxi festival armed friend arena box method vintage";

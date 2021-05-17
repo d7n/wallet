@@ -1,1 +1,1 @@
-var mnemonic = "predict author tray limb toast video ethics beef chat shell roof valley";
+var mnemonic = "purse arrive lava odor rotate mesh opera improve region profit brother comfort";

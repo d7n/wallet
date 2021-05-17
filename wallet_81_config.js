@@ -1,1 +1,1 @@
-var mnemonic = "rely proud custom velvet say wide garage aerobic exotic vague lobster voyage";
+var mnemonic = "stick jungle enrich shy hour choice flavor liquid media mention type hybrid";

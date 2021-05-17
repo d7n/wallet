@@ -1,1 +1,1 @@
-var mnemonic = "flight issue auto auction purity churn wedding ecology scatter off come swarm";
+var mnemonic = "gravity minute orange board table time mountain face gospel dove body weasel";

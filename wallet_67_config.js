@@ -1,1 +1,1 @@
-var mnemonic = "stage leave copy wine deer venture deer coffee fork cliff wash keep";
+var mnemonic = "exhibit choose cannon riot found income grain stamp drill okay violin search";

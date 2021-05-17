@@ -1,1 +1,1 @@
-var mnemonic = "flee island script concert style visa shiver improve impose direct coconut canyon";
+var mnemonic = "soap cereal try space little ostrich hurt solve ladder cargo tackle scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "float tattoo panic level cereal subway faint treat left post marine rabbit";
+var mnemonic = "deny fiction brain globe dog candy stadium sand friend twin tip stone";

@@ -1,1 +1,1 @@
-var mnemonic = "quick blind drill portion amount drive yard idea amazing skin danger border";
+var mnemonic = "remember guitar bar lecture early direct follow walnut vacant endless example spray";

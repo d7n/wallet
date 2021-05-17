@@ -1,1 +1,1 @@
-var mnemonic = "garment grass motor lend traffic group staff alien before coral inject author";
+var mnemonic = "that admit ensure deer salon owner walnut sing humor above crater poet";

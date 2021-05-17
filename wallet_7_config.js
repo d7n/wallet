@@ -1,1 +1,1 @@
-var mnemonic = "indicate armor text transfer breeze salad judge bomb have capable narrow sniff";
+var mnemonic = "figure infant mystery tired victory must dune toward shaft balance music nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "country warrior electric turn all coast toilet hawk captain more defense reflect";
+var mnemonic = "index body stool join melody rubber shop youth eagle slow rail image";

@@ -1,1 +1,1 @@
-var mnemonic = "detect price essay tree error soup hockey problem baby erosion inherit noise";
+var mnemonic = "raccoon novel term grape later family chalk insect aspect pipe during liar";

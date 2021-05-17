@@ -1,1 +1,1 @@
-var mnemonic = "venue glory game bleak dawn hole wave hospital swim story script win";
+var mnemonic = "ranch label require window slight clever narrow shaft near inhale monster inch";

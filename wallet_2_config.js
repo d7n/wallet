@@ -1,1 +1,1 @@
-var mnemonic = "north powder cricket midnight control envelope quantum swamp plug garden van sentence";
+var mnemonic = "harbor roast blame retreat depth mass bean alter since profit peanut safe";

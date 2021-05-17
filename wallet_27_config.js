@@ -1,1 +1,1 @@
-var mnemonic = "flag canal category rude uncle group melody elevator prison arena concert helmet";
+var mnemonic = "physical clarify voyage come observe era push miss define arrow garden limit";

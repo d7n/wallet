@@ -1,1 +1,1 @@
-var mnemonic = "unfold quarter like rain usage vapor replace album boy bracket rich prefer";
+var mnemonic = "test wedding snow exhibit payment hunt table ignore hurry note adjust valid";

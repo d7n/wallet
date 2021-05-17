@@ -1,1 +1,1 @@
-var mnemonic = "tank athlete fun ginger property aunt chronic topple pipe accuse duck canvas";
+var mnemonic = "bulk bar royal chunk shock page rely eternal size wheat siren easy";

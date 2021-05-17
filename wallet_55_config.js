@@ -1,1 +1,1 @@
-var mnemonic = "pact bitter alone enjoy route iron ripple dinosaur grow settle word win";
+var mnemonic = "dune until chapter note lake place awkward mimic engage know alarm club";

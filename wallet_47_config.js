@@ -1,1 +1,1 @@
-var mnemonic = "tomato length fatigue satoshi family horror neutral grab rescue female victory wire";
+var mnemonic = "dentist course crash sheriff miss loop believe still zone boring curve raise";

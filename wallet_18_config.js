@@ -1,1 +1,1 @@
-var mnemonic = "question inch lobster bridge hybrid enhance erode attitude mirror found half raw";
+var mnemonic = "card stumble spawn item try say beyond deposit jungle aerobic key impact";

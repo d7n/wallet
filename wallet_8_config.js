@@ -1,1 +1,1 @@
-var mnemonic = "bike alien what delay glory biology spin exact distance enhance river donor";
+var mnemonic = "scheme field grab vibrant choose plug essay expire inner fork digital prize";

@@ -1,1 +1,1 @@
-var mnemonic = "spell gym return motor ski quantum admit sign copy curve pizza vivid";
+var mnemonic = "bid waste fetch bag address wheel crime great scrub myself barely rail";

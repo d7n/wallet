@@ -1,1 +1,1 @@
-var mnemonic = "stand hip window ramp month consider corn movie beyond sugar favorite warfare";
+var mnemonic = "royal pupil jeans bag viable spirit flight elbow toy coin easily syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "method spot deal lift joke state deposit will admit only solve since";
+var mnemonic = "assist soul silent flame apple admit visa pupil simple keep stem source";

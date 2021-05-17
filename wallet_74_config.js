@@ -1,1 +1,1 @@
-var mnemonic = "kitchen major sausage know diary six canvas library great size act assault";
+var mnemonic = "swim account blame diary crater sing skirt answer liquid sing ranch judge";

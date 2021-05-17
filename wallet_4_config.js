@@ -1,1 +1,1 @@
-var mnemonic = "small vendor above grab ghost give collect misery olympic round plate once";
+var mnemonic = "flavor figure erosion critic crouch wrap off guard ski cage kangaroo write";

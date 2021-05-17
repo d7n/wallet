@@ -1,1 +1,1 @@
-var mnemonic = "doctor stomach dash accuse mutual suit license increase cloth ritual avoid purse";
+var mnemonic = "ill moon merge buffalo weird empower join toss liquid oxygen still attack";

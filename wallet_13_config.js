@@ -1,1 +1,1 @@
-var mnemonic = "illness oval horror rate banner noodle clump derive debris embody banner subject";
+var mnemonic = "margin april advance flash left come sun radar talent educate mountain erase";

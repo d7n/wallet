@@ -1,1 +1,1 @@
-var mnemonic = "agree settle youth unit solid false month layer card powder bicycle prevent";
+var mnemonic = "dust inch switch portion myself index physical blind uncle zoo snow genre";

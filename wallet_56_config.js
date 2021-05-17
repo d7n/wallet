@@ -1,1 +1,1 @@
-var mnemonic = "caught always quit maid sniff stadium ice wrap inch general purchase mouse";
+var mnemonic = "inject ozone buyer grid session casino trumpet profit lazy column ride meadow";

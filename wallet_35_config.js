@@ -1,1 +1,1 @@
-var mnemonic = "celery route today else lake pigeon cabbage derive tonight donkey rabbit fiber";
+var mnemonic = "stadium sock swear bunker chest equal cousin price pluck aisle maximum monitor";

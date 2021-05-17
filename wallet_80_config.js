@@ -1,1 +1,1 @@
-var mnemonic = "lonely slush enable catch human fit price patch saddle name polar kitten";
+var mnemonic = "solar discover matter cement choice day engage sponsor vocal bulk team salute";

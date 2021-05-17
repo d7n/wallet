@@ -1,1 +1,1 @@
-var mnemonic = "job lion tomato alter web heavy example can derive power gasp unhappy";
+var mnemonic = "torch shine view latin chat art trophy damage suspect upset coil trash";

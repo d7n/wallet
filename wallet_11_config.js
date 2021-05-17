@@ -1,1 +1,1 @@
-var mnemonic = "couch spoon since lift keep boring shoulder squeeze quote keep lucky replace";
+var mnemonic = "knock whale urge mystery north tuition square extend shoot exotic waste turn";

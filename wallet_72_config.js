@@ -1,1 +1,1 @@
-var mnemonic = "genius nominee frozen damp cost shallow destroy toss yellow buzz team unit";
+var mnemonic = "butter unable panda huge album crater picnic club obscure taste giggle crumble";

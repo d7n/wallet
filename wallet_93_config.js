@@ -1,1 +1,1 @@
-var mnemonic = "quarter glimpse odor panic lunch cram disagree parade whale core van pilot";
+var mnemonic = "outer avoid series fall blame nut better anchor useful acoustic coast flock";

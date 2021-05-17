@@ -1,1 +1,1 @@
-var mnemonic = "release scorpion check vibrant coast slight essay arena depart mercy clerk runway";
+var mnemonic = "load vital pulse maple miss bright extend person used nice buddy capable";

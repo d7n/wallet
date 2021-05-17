@@ -1,1 +1,1 @@
-var mnemonic = "seat joke rally toddler bone sail hat reason wheat bachelor ivory stove";
+var mnemonic = "gentle write mechanic kitten similar banana second permit clean guess eyebrow dance";

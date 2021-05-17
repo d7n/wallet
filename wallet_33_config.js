@@ -1,1 +1,1 @@
-var mnemonic = "rich catch wave avocado still anger drill lawsuit wrap hollow symbol strong";
+var mnemonic = "you hard uniform frame spawn appear radio talent multiply timber scrub west";

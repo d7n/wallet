@@ -1,1 +1,1 @@
-var mnemonic = "today brush jelly rather soldier depart number miss snack arrow text iron";
+var mnemonic = "lounge welcome infant dove program robust drop frozen upgrade fabric enemy solar";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion shock bean just leave winter banana grant common great club caution";
+var mnemonic = "equal position rule install satisfy base beef soft quiz initial diesel luggage";

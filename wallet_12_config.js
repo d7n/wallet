@@ -1,1 +1,1 @@
-var mnemonic = "net service merit crash cereal share patch aunt dismiss drink develop since";
+var mnemonic = "buyer apart crush cross ghost face radar spatial use screen prepare tortoise";

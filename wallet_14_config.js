@@ -1,1 +1,1 @@
-var mnemonic = "view praise enemy depend tornado fabric wrap ritual movie genre term evoke";
+var mnemonic = "caution boat vibrant raccoon valid pink large dolphin negative dish fitness find";

@@ -1,1 +1,1 @@
-var mnemonic = "master virtual shoulder urban social choice action lens until duty live kid";
+var mnemonic = "just mango night parrot amateur humor course burden ritual believe shallow fox";

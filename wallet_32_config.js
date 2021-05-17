@@ -1,1 +1,1 @@
-var mnemonic = "mixed maid tragic ski cover enjoy sell family arm street spring dream";
+var mnemonic = "deny dutch divert attack when scrap area grain session moral parade harvest";

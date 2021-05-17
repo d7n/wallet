@@ -1,1 +1,1 @@
-var mnemonic = "crowd muffin bundle argue avoid jewel obscure shiver feed loud account alien";
+var mnemonic = "tourist pave punch alarm woman cost man media elbow muffin fossil attack";

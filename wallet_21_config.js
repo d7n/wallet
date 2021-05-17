@@ -1,1 +1,1 @@
-var mnemonic = "artefact region birth evil wrestle manage runway dismiss burger middle siren trumpet";
+var mnemonic = "saddle correct off sort cousin screen clump floor still slide ritual pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp grow document media razor drive lunar trash defy lift piece labor";
+var mnemonic = "thunder cloud tent pupil weird modify faith finger coyote hen drift buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown ignore muffin metal hedgehog attitude fever face twin walnut final motion";
+var mnemonic = "card disorder enlist achieve envelope clump runway coast anchor phone seed wave";

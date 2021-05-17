@@ -1,1 +1,1 @@
-var mnemonic = "long kitten lens guitar knock cook actor damp draw hybrid cigar smoke";
+var mnemonic = "visual cannon bomb thing devote fire service worth sting again frost price";

@@ -1,1 +1,1 @@
-var mnemonic = "style shoulder news receive damp someone play invest better film swear mobile";
+var mnemonic = "disease flip vast action cost address surround vehicle boring method stage finger";

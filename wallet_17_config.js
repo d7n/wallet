@@ -1,1 +1,1 @@
-var mnemonic = "horror immense faith region wasp field better knife proof deny trumpet fix";
+var mnemonic = "attend return express wedding cover hurry edge carpet rotate shrug weird upon";

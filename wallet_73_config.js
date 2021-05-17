@@ -1,1 +1,1 @@
-var mnemonic = "ritual buffalo aim alien matrix clarify claw material off onion trouble ill";
+var mnemonic = "van fun recycle word radio good grow advice stomach exchange party horn";

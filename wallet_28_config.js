@@ -1,1 +1,1 @@
-var mnemonic = "cactus stereo long twelve concert peasant fire erode inject harbor zone casual";
+var mnemonic = "earn plate parade captain tuna illness shield gym roof muscle jump tuition";

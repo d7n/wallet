@@ -1,1 +1,1 @@
-var mnemonic = "spray inch arrest range safe alter guess inherit climb panic table praise";
+var mnemonic = "celery chest insect observe can glow crack husband voice mimic road nothing";

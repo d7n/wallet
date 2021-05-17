@@ -1,1 +1,1 @@
-var mnemonic = "unhappy sweet verb senior stereo smart air nice opera diamond agent cliff";
+var mnemonic = "crash humor village squirrel mechanic model victory link circle valid mix reject";

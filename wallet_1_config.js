@@ -1,1 +1,1 @@
-var mnemonic = "region segment about two battle hockey okay pluck century uncover salon test";
+var mnemonic = "wet emerge miracle isolate later project property myself hazard height swarm spirit";

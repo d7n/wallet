@@ -1,1 +1,1 @@
-var mnemonic = "industry tail powder speed click private connect tobacco recall anxiety catalog version";
+var mnemonic = "quit east pass kiwi rescue scale target hollow visa wing congress awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "wait eyebrow camp swarm sail upper wrong dust nose axis ocean afford";
+var mnemonic = "fury cabin mule filter camp boy story smart popular feel harsh describe";

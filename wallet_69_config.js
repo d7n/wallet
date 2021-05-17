@@ -1,1 +1,1 @@
-var mnemonic = "neck town bird frost clog estate lyrics drink weekend sound miracle race";
+var mnemonic = "open cat load prison that spoon control knock erosion point marble such";

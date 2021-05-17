@@ -1,1 +1,1 @@
-var mnemonic = "original local margin output hub slot method walk siege tool present wave";
+var mnemonic = "raccoon gentle hockey capable upgrade state angry rally grief sentence armed gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby original rival diet ginger biology energy notable brush install pitch purchase";
+var mnemonic = "hard pill hedgehog mechanic asset fault grief cost fly upon myself orchard";

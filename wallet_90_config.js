@@ -1,1 +1,1 @@
-var mnemonic = "rapid powder parade submit food design leopard assume sketch swim kid cave";
+var mnemonic = "romance wrong measure wheat slim exist senior quality citizen tenant art web";

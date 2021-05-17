@@ -1,1 +1,1 @@
-var mnemonic = "future when rebuild gadget save nice enact amateur seat unknown excess marble";
+var mnemonic = "boost mule satoshi grain vote normal electric olive other kitten proof thrive";

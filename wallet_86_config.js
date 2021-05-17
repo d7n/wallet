@@ -1,1 +1,1 @@
-var mnemonic = "museum toss pass roast water jewel type candy heart shadow pull movie";
+var mnemonic = "raccoon case emotion improve heart potato quality enter faint confirm current arrest";

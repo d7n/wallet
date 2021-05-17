@@ -1,1 +1,1 @@
-var mnemonic = "total nephew wood turkey industry either suggest glow shift eyebrow change wire";
+var mnemonic = "price garbage volume ethics dish dash final mistake auto struggle liberty curtain";

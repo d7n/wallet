@@ -1,1 +1,1 @@
-var mnemonic = "field sudden gaze stamp auction move adult spring host impact mountain pulp";
+var mnemonic = "online flat card distance coin fine country wing flee pigeon enemy wolf";
