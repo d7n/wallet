@@ -1,1 +1,1 @@
-var mnemonic = "vacant cliff length motion upper fix bus horn trip vast orchard room";
+var mnemonic = "dismiss spirit permit token wood grief island private congress armed orient ritual";

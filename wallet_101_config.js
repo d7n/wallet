@@ -1,1 +1,1 @@
-var mnemonic = "globe east merge piano tent civil brick erosion hazard grunt prison ramp";
+var mnemonic = "collect limit common effort monster boat deliver december minute access ocean raccoon";

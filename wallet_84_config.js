@@ -1,1 +1,1 @@
-var mnemonic = "dad raccoon alcohol chronic sense cook lunar trial candy brief destroy spy";
+var mnemonic = "avocado silent inmate festival involve bike bar dumb birth bicycle health gap";

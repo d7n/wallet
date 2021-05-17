@@ -1,1 +1,1 @@
-var mnemonic = "valve another holiday feel gorilla reform used mandate vacuum shy multiply age";
+var mnemonic = "saddle apart sock mosquito debate smooth allow shrimp dance expect ginger canvas";

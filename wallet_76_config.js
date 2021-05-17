@@ -1,1 +1,1 @@
-var mnemonic = "rent monkey jacket butter swarm surprise cradle pitch gown between reward hour";
+var mnemonic = "gap turkey decide music forget reflect client tuition envelope settle wheel ship";

@@ -1,1 +1,1 @@
-var mnemonic = "plate enact equal exhibit theme guard similar finish fatal top midnight spawn";
+var mnemonic = "pride install settle awful crouch analyst safe vocal mosquito patch motion hope";

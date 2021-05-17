@@ -1,1 +1,1 @@
-var mnemonic = "advice decline cost track mail evidence height peanut junk state true angry";
+var mnemonic = "reunion announce deny fault will print mixture pen patient hood wash square";

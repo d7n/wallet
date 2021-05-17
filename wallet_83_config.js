@@ -1,1 +1,1 @@
-var mnemonic = "mom better chapter shuffle spatial own casual stadium era mystery fortune icon";
+var mnemonic = "happy doctor disease erase cactus shallow tumble major pattern athlete grace car";

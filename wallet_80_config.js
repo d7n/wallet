@@ -1,1 +1,1 @@
-var mnemonic = "soldier defense upgrade pitch detail wing margin rally minor meat mandate promote";
+var mnemonic = "brain remind cave cinnamon tuition keen accident alert infant image search guilt";

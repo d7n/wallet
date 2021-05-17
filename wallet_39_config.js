@@ -1,1 +1,1 @@
-var mnemonic = "remember suit tool two avoid cool unveil add about remind setup slender";
+var mnemonic = "thank bitter race average wrap pool depend step minimum island harvest mansion";

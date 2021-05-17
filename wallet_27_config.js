@@ -1,1 +1,1 @@
-var mnemonic = "divert collect tenant box tag valid spend buffalo camera lounge rib pretty";
+var mnemonic = "decrease famous resource all book immense refuse yard one snack chicken galaxy";

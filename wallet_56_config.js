@@ -1,1 +1,1 @@
-var mnemonic = "toy march ask leave edge day choice curve tourist explain girl marriage";
+var mnemonic = "diagram six patrol wave nasty repeat ritual sorry entire grace pull rather";

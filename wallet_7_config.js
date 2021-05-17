@@ -1,1 +1,1 @@
-var mnemonic = "busy great hub funny minute tackle ghost boring sibling boat volcano subway";
+var mnemonic = "brown clown window thrive abandon pipe ketchup climb van inject gas leg";

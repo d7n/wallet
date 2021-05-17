@@ -1,1 +1,1 @@
-var mnemonic = "news adapt next crawl patient antenna able seat text essay there point";
+var mnemonic = "gloom memory hybrid agree civil sort dizzy rain any protect model once";

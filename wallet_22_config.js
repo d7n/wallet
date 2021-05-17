@@ -1,1 +1,1 @@
-var mnemonic = "cat smooth giraffe auction onion ride fresh boil junior kiss medal quit";
+var mnemonic = "march mass fatigue winner crane mouse nut hurry quit surface peanut dignity";

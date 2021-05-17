@@ -1,1 +1,1 @@
-var mnemonic = "thumb soccer frozen pigeon adult sun cross doll dwarf harvest require elbow";
+var mnemonic = "festival mail away motor enhance coral motion define caution service coral woman";

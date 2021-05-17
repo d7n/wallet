@@ -1,1 +1,1 @@
-var mnemonic = "vast spell edit grape run barely dutch chapter clerk switch ladder soon";
+var mnemonic = "tone false bunker chief sketch castle burden gravity sock scatter dizzy card";

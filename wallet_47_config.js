@@ -1,1 +1,1 @@
-var mnemonic = "very gallery scare orbit scale cheese orient hurt wire sleep demand jealous";
+var mnemonic = "pig shove style record taxi dwarf exercise left park outdoor talent apple";

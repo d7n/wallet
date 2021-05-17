@@ -1,1 +1,1 @@
-var mnemonic = "enemy sight creek sad cushion snap rich anger clock boy gaze secret";
+var mnemonic = "marble dumb spirit egg green disease dial bacon mesh tourist river orchard";

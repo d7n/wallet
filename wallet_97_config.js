@@ -1,1 +1,1 @@
-var mnemonic = "swamp pretty measure match pulse twenty box ostrich trim fabric social tumble";
+var mnemonic = "flee heavy prefer provide media coast crucial powder laptop gesture fault attract";

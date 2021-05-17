@@ -1,1 +1,1 @@
-var mnemonic = "fall unlock scare raccoon bacon vote oblige note receive genius diet soon";
+var mnemonic = "other absorb soon disease month visual gold peanut bird family steak mail";

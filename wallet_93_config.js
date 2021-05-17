@@ -1,1 +1,1 @@
-var mnemonic = "knock adapt trophy around stock hello know slight around empty tuna mystery";
+var mnemonic = "planet cancel proud hope label program rubber gorilla chef inspire pool remember";

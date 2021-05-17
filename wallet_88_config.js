@@ -1,1 +1,1 @@
-var mnemonic = "cactus local enroll belt poet hawk invest edit soda panic trumpet ketchup";
+var mnemonic = "obscure find food what average cigar myself differ old feed wonder bracket";

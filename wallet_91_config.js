@@ -1,1 +1,1 @@
-var mnemonic = "hub father draft save van wait calm table family between tragic pattern";
+var mnemonic = "drastic loop whale bean thought cram enable point silk behind skull cave";

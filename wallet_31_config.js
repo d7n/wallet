@@ -1,1 +1,1 @@
-var mnemonic = "involve profit silver fitness gallery loan sea april half answer barely remind";
+var mnemonic = "silver push rabbit estate usual steak evil first useful crush tobacco invite";

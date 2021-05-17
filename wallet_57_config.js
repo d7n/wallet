@@ -1,1 +1,1 @@
-var mnemonic = "main animal honey tissue rifle country diet exotic fluid chicken vapor around";
+var mnemonic = "leisure token fault chaos chest raccoon siren identify assume card joke weekend";

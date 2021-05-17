@@ -1,1 +1,1 @@
-var mnemonic = "promote stadium abstract dress merge infant feel family miracle speed cool move";
+var mnemonic = "verify tomato fee panel frost bind leopard neutral river split coffee sock";

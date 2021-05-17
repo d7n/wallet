@@ -1,1 +1,1 @@
-var mnemonic = "absent hub relax floor crush nephew pepper idea quit earn sadness middle";
+var mnemonic = "review lift intact enemy power squirrel select hour draw cotton photo pencil";

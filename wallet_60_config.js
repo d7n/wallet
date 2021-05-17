@@ -1,1 +1,1 @@
-var mnemonic = "target unable deposit anchor involve pencil ability left fine congress trophy alien";
+var mnemonic = "miracle arrest law absent core lemon slab have proud phone daughter horn";

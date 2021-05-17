@@ -1,1 +1,1 @@
-var mnemonic = "wrist twenty artefact flavor clean kidney stand cash august dizzy galaxy vague";
+var mnemonic = "sing adjust upon focus evolve black uncle school shy eye issue name";

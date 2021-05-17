@@ -1,1 +1,1 @@
-var mnemonic = "elite space income brisk concert science repair drift long cute acoustic vault";
+var mnemonic = "first bind meadow clown cram guess team street orange salon argue relief";

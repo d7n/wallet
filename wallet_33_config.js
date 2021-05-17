@@ -1,1 +1,1 @@
-var mnemonic = "grow hunt aisle hammer skull deliver wolf skate lesson onion venue message";
+var mnemonic = "hobby hurt lift file almost normal hurry fan indicate angry razor expect";

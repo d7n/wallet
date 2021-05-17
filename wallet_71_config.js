@@ -1,1 +1,1 @@
-var mnemonic = "rice birth pencil only ball address police pistol brass decorate cousin capital";
+var mnemonic = "join pond robust dinner flag pond business shine lunar chaos slim chuckle";

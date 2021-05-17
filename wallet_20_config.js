@@ -1,1 +1,1 @@
-var mnemonic = "disease duck sibling cradle bridge broken cable damp diet siege aware crew";
+var mnemonic = "march lunar furnace bomb deal grain nation tone boy climb try forget";

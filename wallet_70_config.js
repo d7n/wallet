@@ -1,1 +1,1 @@
-var mnemonic = "hungry faith rich magnet scale forward disagree record damage cabbage analyst sign";
+var mnemonic = "pause door panic verify thought bind wild spice pen denial orient normal";

@@ -1,1 +1,1 @@
-var mnemonic = "fox during such life breeze only slice explain try way coach double";
+var mnemonic = "ritual arctic wheat west usual flee flavor scale grace close unit adjust";

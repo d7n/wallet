@@ -1,1 +1,1 @@
-var mnemonic = "dream scrap leopard truck desk bottom atom exit pole elevator stairs relax";
+var mnemonic = "hobby rose intact gap apart either fruit vague identify clinic foil pole";

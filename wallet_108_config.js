@@ -1,1 +1,1 @@
-var mnemonic = "emotion slush fossil laugh donor kind punch outer crack mandate broccoli post";
+var mnemonic = "morning planet stone transfer change flip cabin shine asthma silk asset belt";

@@ -1,1 +1,1 @@
-var mnemonic = "expire first diagram virtual blade federal physical spray pigeon great frozen street";
+var mnemonic = "radio chimney rapid envelope suit ketchup fluid scheme odor state occur artefact";

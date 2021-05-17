@@ -1,1 +1,1 @@
-var mnemonic = "acquire health knee canyon ripple goat usual loop powder anxiety success load";
+var mnemonic = "labor enlist hair strategy purchase dad screen field measure nature curious buzz";

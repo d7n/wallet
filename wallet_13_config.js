@@ -1,1 +1,1 @@
-var mnemonic = "profit boil popular romance aspect abstract addict frozen cupboard balance direct lawsuit";
+var mnemonic = "thumb decorate taxi coast mail soft now captain sentence trap like engage";

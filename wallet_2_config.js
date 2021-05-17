@@ -1,1 +1,1 @@
-var mnemonic = "border thrive grape cruel culture dog concert velvet bubble else sport shoulder";
+var mnemonic = "price senior rain rail glide loyal clump wife column matter creek way";

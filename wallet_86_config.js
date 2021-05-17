@@ -1,1 +1,1 @@
-var mnemonic = "ask address leopard barely diesel trust bind game impulse divert fine trim";
+var mnemonic = "adult undo coil maximum fresh orange dust shield enough drift devote speak";

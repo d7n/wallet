@@ -1,1 +1,1 @@
-var mnemonic = "head grief until focus guilt share nominee april tuna advance allow cry";
+var mnemonic = "dad attract burger acquire filter helmet case fiber expose history sheriff file";

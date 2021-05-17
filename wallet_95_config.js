@@ -1,1 +1,1 @@
-var mnemonic = "valid energy episode stairs clip material enlist apology just leave blind banana";
+var mnemonic = "fashion island trim style obtain tooth update accuse odor ask boy dad";

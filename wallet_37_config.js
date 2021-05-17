@@ -1,1 +1,1 @@
-var mnemonic = "recall wise before grocery deal elevator world cheap ocean borrow birth lonely";
+var mnemonic = "balance artefact bag say moral smart kit rice just frame adjust identify";

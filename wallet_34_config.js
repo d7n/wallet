@@ -1,1 +1,1 @@
-var mnemonic = "dish arrange cigar pool range embark random connect flee switch light lonely";
+var mnemonic = "law require popular glue ecology menu magic spread burst strong fish paddle";

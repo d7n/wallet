@@ -1,1 +1,1 @@
-var mnemonic = "wave nuclear airport jeans cycle eight census toast resource promote concert drum";
+var mnemonic = "mother joy picture rack choose cage affair retire oppose intact afraid robot";

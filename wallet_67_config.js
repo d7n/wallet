@@ -1,1 +1,1 @@
-var mnemonic = "exit device month team govern fortune tired giraffe link prefer outside cigar";
+var mnemonic = "juice seed town avocado ripple open prosper retire tribe alcohol uniform bar";

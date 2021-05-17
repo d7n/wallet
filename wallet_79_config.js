@@ -1,1 +1,1 @@
-var mnemonic = "organ token abandon horn mistake clarify satisfy body green orient orange lesson";
+var mnemonic = "year bachelor base beach salmon mom force action stay put fold glove";

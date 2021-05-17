@@ -1,1 +1,1 @@
-var mnemonic = "kid staff private patient like loop famous receive fun abandon custom ocean";
+var mnemonic = "arrange sauce seven correct unhappy legal woman exist nice execute grain include";

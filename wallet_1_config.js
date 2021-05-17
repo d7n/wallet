@@ -1,1 +1,1 @@
-var mnemonic = "flower blur husband rare critic prefer demand pencil eagle tornado local system";
+var mnemonic = "faith mix easy fitness shaft often beyond inflict ostrich pen upon coffee";

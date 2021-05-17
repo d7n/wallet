@@ -1,1 +1,1 @@
-var mnemonic = "bar unveil art fruit pass chest siren fly sister media aim seed";
+var mnemonic = "first alcohol occur tooth rough bike collect fluid feel come tent employ";

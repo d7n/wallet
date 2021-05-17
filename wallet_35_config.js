@@ -1,1 +1,1 @@
-var mnemonic = "pledge outer west deny genre pledge horror black attract dress fetch tiny";
+var mnemonic = "trash swim grunt rely large bid shoot leader cheap dumb reflect solution";

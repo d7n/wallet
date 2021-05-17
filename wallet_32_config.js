@@ -1,1 +1,1 @@
-var mnemonic = "hundred run capable wall viable fiction detail knife clinic tray tissue fatigue";
+var mnemonic = "level dragon mom half reflect absurd zone damage planet mule luxury across";

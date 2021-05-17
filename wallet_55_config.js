@@ -1,1 +1,1 @@
-var mnemonic = "coconut orange mule lecture nerve extend bronze depart real shed portion nothing";
+var mnemonic = "govern knife novel regret wall era produce urge deputy blind hood burden";

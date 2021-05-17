@@ -1,1 +1,1 @@
-var mnemonic = "grow kangaroo usual sock jump draw property parrot buffalo survey frown problem";
+var mnemonic = "general wonder mixture diesel friend salute want fish odor tower flavor frozen";

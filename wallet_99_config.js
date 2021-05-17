@@ -1,1 +1,1 @@
-var mnemonic = "bridge grape thrive private satisfy comic consider sketch zebra curious aspect switch";
+var mnemonic = "observe decline catch daring taste skill mystery amused three tag usage erase";

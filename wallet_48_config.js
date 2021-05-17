@@ -1,1 +1,1 @@
-var mnemonic = "shoe soccer more diamond rare jaguar coach human figure guitar torch transfer";
+var mnemonic = "foam pink rubber alert annual west front add laundry tree spawn suit";

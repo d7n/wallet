@@ -1,1 +1,1 @@
-var mnemonic = "play bone midnight clip easily oak airport cargo veteran ladder route mail";
+var mnemonic = "warm taxi core forget model foot cute nest pair print kit kitten";

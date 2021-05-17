@@ -1,1 +1,1 @@
-var mnemonic = "wreck imitate bubble wish daughter achieve hidden maple mule cradle tragic ecology";
+var mnemonic = "cook robust soldier immense accident sun picture similar theory palm nice mountain";

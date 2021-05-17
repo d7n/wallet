@@ -1,1 +1,1 @@
-var mnemonic = "emotion exist ripple nation outdoor weapon slogan habit inmate cat alert robust";
+var mnemonic = "squeeze sponsor chunk void ketchup mad stamp glad stereo radar text addict";

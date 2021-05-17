@@ -1,1 +1,1 @@
-var mnemonic = "know observe follow common fire model swallow weekend six cancel duty security";
+var mnemonic = "sail bonus security usage address give asset thumb gown warfare gift magnet";

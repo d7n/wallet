@@ -1,1 +1,1 @@
-var mnemonic = "super venture clog moon topic inflict sugar pen uncle endless any jaguar";
+var mnemonic = "extra umbrella river scrap dust steak approve special nation close omit chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar thank gadget twelve impulse image want scissors fire when oppose gospel";
+var mnemonic = "client occur syrup bottom nation ugly feed fresh talk swift fuel lend";

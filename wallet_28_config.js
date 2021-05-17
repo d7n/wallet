@@ -1,1 +1,1 @@
-var mnemonic = "manage news push tattoo second style wine dove wonder shaft suffer turn";
+var mnemonic = "divert boring awake scatter gossip broken planet burden sample wash theory random";

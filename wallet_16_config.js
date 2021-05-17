@@ -1,1 +1,1 @@
-var mnemonic = "swim alert when word fee refuse copy abandon eyebrow garden aware comfort";
+var mnemonic = "shallow render vague acid gallery twice prosper oil junior ability width begin";

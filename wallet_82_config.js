@@ -1,1 +1,1 @@
-var mnemonic = "elegant method under expect sad movie wing grocery opera when piano forget";
+var mnemonic = "tool nice fall engine keep danger easily saddle faculty few conduct connect";

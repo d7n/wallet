@@ -1,1 +1,1 @@
-var mnemonic = "allow pipe glow cannon sausage prefer powder gain crush riot wrap basic";
+var mnemonic = "better cute kidney weekend achieve right naive riot okay mutual slab ugly";

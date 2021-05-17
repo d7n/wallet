@@ -1,1 +1,1 @@
-var mnemonic = "sound loyal parade sauce off moment aerobic patch lady camera pause pyramid";
+var mnemonic = "defense orient gallery bamboo stable foster warrior execute jealous cupboard juice design";

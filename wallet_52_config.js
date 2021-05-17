@@ -1,1 +1,1 @@
-var mnemonic = "empower size vast blame east deer gym frost arrow puzzle radar phone";
+var mnemonic = "ice digital bacon orchard pool group plug host install hurdle quality inherit";

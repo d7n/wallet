@@ -1,1 +1,1 @@
-var mnemonic = "cry march coin cloth elder bounce sail cluster broccoli soda error rocket";
+var mnemonic = "brass next tomorrow jaguar fabric bike orphan mind grain tourist focus more";

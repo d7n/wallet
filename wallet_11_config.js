@@ -1,1 +1,1 @@
-var mnemonic = "express come recipe lock field soccer culture evoke bean craft print common";
+var mnemonic = "wife useless grow ivory faint hawk mystery legal enlist express snack vivid";

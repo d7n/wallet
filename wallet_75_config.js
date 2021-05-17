@@ -1,1 +1,1 @@
-var mnemonic = "napkin know squirrel bus fun there syrup ivory example food kangaroo imitate";
+var mnemonic = "poverty sell rather trial laugh wife kingdom amazing rookie spider disease rescue";

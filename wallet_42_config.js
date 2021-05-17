@@ -1,1 +1,1 @@
-var mnemonic = "april gaze follow camera patrol left proof earth switch visit impulse program";
+var mnemonic = "such power hollow million depart snake tray inquiry olympic say arrive harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness decorate orient surprise build keen waste shrug prosper stuff gather web";
+var mnemonic = "kitten spatial post despair mother elder parrot car space believe flip skate";

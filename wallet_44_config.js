@@ -1,1 +1,1 @@
-var mnemonic = "verify special scout shove amused learn jacket lottery truth better dragon cereal";
+var mnemonic = "myth topic filter crunch egg sort exist height fee inmate venture apart";

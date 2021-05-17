@@ -1,1 +1,1 @@
-var mnemonic = "measure scatter leaf distance hair fence churn bless pepper giant company spare";
+var mnemonic = "love link tomorrow gain antique pet ignore morning sick card legal main";

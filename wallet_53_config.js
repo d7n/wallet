@@ -1,1 +1,1 @@
-var mnemonic = "fine night youth surround helmet sword away grass veteran forward goddess federal";
+var mnemonic = "improve pause luxury message dose just dish where bacon ocean enforce height";

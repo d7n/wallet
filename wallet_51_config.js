@@ -1,1 +1,1 @@
-var mnemonic = "obey weasel dizzy patch flee whip unusual gift endless dust abuse sentence";
+var mnemonic = "veteran quantum arrive kidney cherry search slide tone cram mask hammer merry";

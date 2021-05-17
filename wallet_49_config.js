@@ -1,1 +1,1 @@
-var mnemonic = "pigeon song interest awesome panther opinion error input actor room mixture canal";
+var mnemonic = "acoustic track tribe congress limb topple leave pill plug prevent fatal party";

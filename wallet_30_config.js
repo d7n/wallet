@@ -1,1 +1,1 @@
-var mnemonic = "mule month fall essence right primary result ring output distance best job";
+var mnemonic = "couch length saddle wisdom rotate suspect vocal marine onion siege bus jaguar";

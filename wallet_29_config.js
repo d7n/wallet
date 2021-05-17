@@ -1,1 +1,1 @@
-var mnemonic = "still ritual hint battle lava else shoulder lizard decline evidence cloud style";
+var mnemonic = "social treat future wage moral ridge coast weekend guitar describe submit vibrant";
