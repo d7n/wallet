@@ -1,1 +1,1 @@
-var mnemonic = "walk either acid enter talk wrestle rookie bomb there kingdom bubble bone";
+var mnemonic = "easy truly design photo evolve assault fence whale light dutch bless antique";

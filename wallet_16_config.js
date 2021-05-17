@@ -1,1 +1,1 @@
-var mnemonic = "side ketchup payment cousin ghost mountain hair ghost smoke enjoy still require";
+var mnemonic = "output orchard gallery time fire soccer mandate dice sunset gasp narrow fold";

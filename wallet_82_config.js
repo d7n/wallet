@@ -1,1 +1,1 @@
-var mnemonic = "outdoor round domain globe bulb hazard furnace unaware rebel all language solid";
+var mnemonic = "gossip female squirrel truly govern myth armed effort save toy apology divorce";

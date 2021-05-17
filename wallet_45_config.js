@@ -1,1 +1,1 @@
-var mnemonic = "busy tilt title pear path strategy reduce faculty marriage style napkin day";
+var mnemonic = "grass again protect medal firm organ trophy mixed oven pear dirt car";

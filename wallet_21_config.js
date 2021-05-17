@@ -1,1 +1,1 @@
-var mnemonic = "grocery either sight nephew flash regret blood stairs pen sponsor pencil sport";
+var mnemonic = "before vast nuclear pig dose foster segment current employ salon decline kingdom";

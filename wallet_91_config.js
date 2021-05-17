@@ -1,1 +1,1 @@
-var mnemonic = "rough muffin shaft island deposit year travel coffee genuine whale holiday punch";
+var mnemonic = "replace celery enforce base sense spike nerve special mango iron oblige gorilla";

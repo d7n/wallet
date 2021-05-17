@@ -1,1 +1,1 @@
-var mnemonic = "exact mask doctor final tuition energy fantasy basket message action pill fabric";
+var mnemonic = "bulb blur work lab memory deliver uncover tobacco left bonus indoor hard";

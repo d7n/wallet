@@ -1,1 +1,1 @@
-var mnemonic = "stage bless blind question raccoon beauty inherit defense baby tide denial school";
+var mnemonic = "maple client bacon local aunt sail coast blade oven have grab nothing";

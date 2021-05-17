@@ -1,1 +1,1 @@
-var mnemonic = "rhythm duty ring piece trumpet spare shoot pull rose speed expect raise";
+var mnemonic = "expect find brain control always alcohol volcano select clip aim old pole";

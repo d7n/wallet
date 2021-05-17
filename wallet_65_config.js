@@ -1,1 +1,1 @@
-var mnemonic = "old prize hurry legal clay empower grief print hurry tumble fame arm";
+var mnemonic = "near science else quarter carry say provide cross bleak predict deer unfair";

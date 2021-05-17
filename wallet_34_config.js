@@ -1,1 +1,1 @@
-var mnemonic = "breeze quick slide tackle sunset world twenty bulb device attitude plate toast";
+var mnemonic = "arctic ahead judge payment fork print silk unusual snow pill marriage expire";

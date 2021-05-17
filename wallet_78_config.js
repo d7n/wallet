@@ -1,1 +1,1 @@
-var mnemonic = "junior test ice ecology still toe purse tube reject company option size";
+var mnemonic = "shadow moment rebuild photo diet document remind solar excite worth crisp pigeon";

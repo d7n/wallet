@@ -1,1 +1,1 @@
-var mnemonic = "wise obscure honey away slogan video mind patch lamp case drive employ";
+var mnemonic = "ignore proud lizard plastic dinner distance turtle quit snake weekend modify crew";

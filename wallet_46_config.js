@@ -1,1 +1,1 @@
-var mnemonic = "panic chat manage jealous around nice talk legal update season source pitch";
+var mnemonic = "circle board sunny debate upgrade range ecology century online like denial hedgehog";

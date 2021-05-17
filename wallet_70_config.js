@@ -1,1 +1,1 @@
-var mnemonic = "valve bone better outside burger sea good parrot silent betray gloom tongue";
+var mnemonic = "smoke know reduce learn cheese post enlist spatial clown dose stem okay";

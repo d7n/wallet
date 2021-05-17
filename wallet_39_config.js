@@ -1,1 +1,1 @@
-var mnemonic = "festival clap female verb dance spare distance expand word analyst odor idea";
+var mnemonic = "loyal minimum erase master moral call net public room scissors picnic truck";

@@ -1,1 +1,1 @@
-var mnemonic = "mix goose stone burden fold clerk reform arctic pill front clinic arm";
+var mnemonic = "photo cycle huge smooth manual exhaust pond fog length album mansion clarify";

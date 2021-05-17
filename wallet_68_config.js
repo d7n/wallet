@@ -1,1 +1,1 @@
-var mnemonic = "square title uphold coach good truck sponsor kick book moral deer health";
+var mnemonic = "fruit stove sunset traffic jacket sail miracle jump vanish guide disease trade";

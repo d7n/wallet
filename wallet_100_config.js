@@ -1,1 +1,1 @@
-var mnemonic = "purse label train can enlist outer tunnel cluster alien initial garbage transfer";
+var mnemonic = "novel lonely assume under life gap maple maid room brush torch worry";

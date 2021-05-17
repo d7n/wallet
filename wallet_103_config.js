@@ -1,1 +1,1 @@
-var mnemonic = "wire million cargo horn beyond liberty cricket limit erosion crime usage habit";
+var mnemonic = "bamboo enforce enter ahead course sense local art nut member another sick";

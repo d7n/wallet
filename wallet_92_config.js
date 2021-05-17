@@ -1,1 +1,1 @@
-var mnemonic = "anger narrow tourist start silver tail pig pizza success try fury gather";
+var mnemonic = "material table arm timber slam grow hat economy topic online later practice";

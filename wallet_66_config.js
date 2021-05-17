@@ -1,1 +1,1 @@
-var mnemonic = "move sweet leg melody maximum blast cereal purity beyond artefact dawn steel";
+var mnemonic = "much eternal flash course donor vanish embark water habit slim ball carry";

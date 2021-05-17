@@ -1,1 +1,1 @@
-var mnemonic = "tone chef calm expose bleak elbow zero quote vintage turkey dumb vapor";
+var mnemonic = "collect silly diet finish salon limb grow barrel chronic floor unaware own";

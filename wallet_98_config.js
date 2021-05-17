@@ -1,1 +1,1 @@
-var mnemonic = "sorry domain base cloth paper car furnace start copper prosper decade change";
+var mnemonic = "unhappy play enter globe panda force swap addict angry kitchen fish rescue";

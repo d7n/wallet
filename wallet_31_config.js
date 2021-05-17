@@ -1,1 +1,1 @@
-var mnemonic = "slab leave tiny advice praise depth twice film bacon error liquid clog";
+var mnemonic = "airport liquid hunt trend tonight until acquire advice news foot wait couch";

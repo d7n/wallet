@@ -1,1 +1,1 @@
-var mnemonic = "change dish sound little twin middle issue obscure spin fox picture firm";
+var mnemonic = "gun fiction virus agent combine cabbage robot daring axis embrace pear will";

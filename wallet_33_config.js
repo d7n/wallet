@@ -1,1 +1,1 @@
-var mnemonic = "field possible dust dizzy bag apple enlist female hole intact exclude major";
+var mnemonic = "curve oxygen window amazing cloth family eight pair empower certain truly carry";

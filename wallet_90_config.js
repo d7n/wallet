@@ -1,1 +1,1 @@
-var mnemonic = "exchange shrug jungle wait firm immense depend buyer riot add piano crawl";
+var mnemonic = "better visual hidden ancient tank sight glare borrow inner account coyote vibrant";

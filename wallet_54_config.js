@@ -1,1 +1,1 @@
-var mnemonic = "fuel start pelican giraffe sound snow subway wear now airport chaos license";
+var mnemonic = "ozone theory marriage match surround chair brain ceiling panel fine aim light";

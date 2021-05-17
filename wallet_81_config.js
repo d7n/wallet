@@ -1,1 +1,1 @@
-var mnemonic = "lumber air emotion soccer ordinary kangaroo music voice dinosaur wine stone grass";
+var mnemonic = "hub waste oyster woman rigid aerobic explain music erupt broom grief butter";

@@ -1,1 +1,1 @@
-var mnemonic = "enough echo exclude modify radar amateur clog match lucky rent magnet proof";
+var mnemonic = "figure burden blouse black grow pull glove add giant picnic balance odor";

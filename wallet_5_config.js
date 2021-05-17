@@ -1,1 +1,1 @@
-var mnemonic = "whale shallow noise yard skate evoke elite scare deliver suggest negative hat";
+var mnemonic = "humble scissors wage clip trade enrich absent shop use chalk diet actor";

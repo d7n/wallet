@@ -1,1 +1,1 @@
-var mnemonic = "arena project wage lottery uphold home upgrade chase rural broccoli token filter";
+var mnemonic = "all face poet rural seminar pause piece use exhaust ostrich burden biology";

@@ -1,1 +1,1 @@
-var mnemonic = "edit bright century wild hero industry first gap explain spoon ignore post";
+var mnemonic = "response dragon comic evil possible culture surface mind unknown reform basic electric";

@@ -1,1 +1,1 @@
-var mnemonic = "metal three web salute thing abuse dignity play shadow birth fossil swallow";
+var mnemonic = "trip dutch champion airport knee expand more quick general fox similar use";

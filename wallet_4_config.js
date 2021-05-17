@@ -1,1 +1,1 @@
-var mnemonic = "cage bounce reject dinner turkey talent scatter ritual member actress grunt retreat";
+var mnemonic = "find famous oak forget steel change task alcohol any local afford amazing";

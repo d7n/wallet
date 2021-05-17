@@ -1,1 +1,1 @@
-var mnemonic = "voice gossip salt double employ suspect hungry debate write slow champion mango";
+var mnemonic = "crush relief quit thought pass hamster weapon lady keen mesh exile pluck";

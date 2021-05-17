@@ -1,1 +1,1 @@
-var mnemonic = "divide biology report derive cotton hire envelope pyramid logic siren timber flash";
+var mnemonic = "calm same gesture egg neck consider equip direct mention must clarify goddess";

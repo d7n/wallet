@@ -1,1 +1,1 @@
-var mnemonic = "uniform ignore excuse pepper option rebel soon steak boil photo tennis crime";
+var mnemonic = "screen ozone kid fan digital small elevator sweet identify rebuild laptop author";

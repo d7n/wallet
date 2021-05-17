@@ -1,1 +1,1 @@
-var mnemonic = "they escape adult cluster car concert side torch vacant bright piece race";
+var mnemonic = "true primary wasp nest entire arctic onion diet velvet regret disagree cry";

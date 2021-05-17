@@ -1,1 +1,1 @@
-var mnemonic = "pattern else zebra stereo boat leave unlock weird spray shed bulb sail";
+var mnemonic = "broom riot pear coconut master eager enjoy rubber win quantum easy discover";

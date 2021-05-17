@@ -1,1 +1,1 @@
-var mnemonic = "wrong sun depth mechanic trophy wish gossip zoo drive tell grace then";
+var mnemonic = "add once ritual airport worth fee use labor essay balance wait equip";

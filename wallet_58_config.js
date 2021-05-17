@@ -1,1 +1,1 @@
-var mnemonic = "collect affair milk silly throw vacant put ridge peanut slot forum crush";
+var mnemonic = "fortune surge brain program load arrest trouble true youth sunny rookie coast";

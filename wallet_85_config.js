@@ -1,1 +1,1 @@
-var mnemonic = "trim panther uncle dad reject detect long wait that clerk jazz upset";
+var mnemonic = "include hobby protect absurd tissue twenty trial concert scatter just hat peace";

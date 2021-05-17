@@ -1,1 +1,1 @@
-var mnemonic = "trouble young dice congress thumb arch warm radar noise amount make boil";
+var mnemonic = "sleep crush venture advance notice edge muscle trash merge razor grunt dress";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow feel master become seed hood confirm naive gesture banner wheat mammal";
+var mnemonic = "layer blouse lab isolate bind dolphin right say notice mind bench start";

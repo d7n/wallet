@@ -1,1 +1,1 @@
-var mnemonic = "glow open make text lizard hint educate boring combine vacant color stadium";
+var mnemonic = "lemon poet shift argue slogan shell direct prosper economy word twice candy";

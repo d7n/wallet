@@ -1,1 +1,1 @@
-var mnemonic = "area camp spray innocent inner near alpha illegal this gentle install property";
+var mnemonic = "kite foster casual leg honey balcony picnic arrow razor museum reflect domain";

@@ -1,1 +1,1 @@
-var mnemonic = "surround spare earn puzzle catch nut demand essay next decrease snow prison";
+var mnemonic = "peanut faint baby input bounce around man inject loyal candy silent advice";

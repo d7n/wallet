@@ -1,1 +1,1 @@
-var mnemonic = "ostrich spider orient various decrease update tilt skull spike taste confirm cargo";
+var mnemonic = "note exhaust scheme vibrant debate pink mother price basic around lyrics moon";

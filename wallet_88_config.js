@@ -1,1 +1,1 @@
-var mnemonic = "boat settle catalog rival bulb craft grid emerge menu dress topple omit";
+var mnemonic = "tomorrow visit nasty vehicle weasel click cover weird approve only okay relief";

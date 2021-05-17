@@ -1,1 +1,1 @@
-var mnemonic = "coffee human copper end capable excess spice ignore raccoon wealth category grid";
+var mnemonic = "main devote assist foster boy cave umbrella refuse beef salute laptop company";

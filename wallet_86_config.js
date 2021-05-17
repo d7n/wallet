@@ -1,1 +1,1 @@
-var mnemonic = "pizza current drop swamp panther insect task smoke glory humor warrior example";
+var mnemonic = "champion stage erase box borrow middle wasp kidney behave small coach blue";

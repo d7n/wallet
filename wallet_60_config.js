@@ -1,1 +1,1 @@
-var mnemonic = "night eyebrow shell access left couple year screen retire bone achieve approve";
+var mnemonic = "stuff pause strategy weapon load vocal admit giggle gaze winner tissue reflect";

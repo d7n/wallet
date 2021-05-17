@@ -1,1 +1,1 @@
-var mnemonic = "media female banner cage ordinary cram leisure chat yard divorce custom actual";
+var mnemonic = "doctor quarter effort lunch appear cage muffin shed baby height wisdom blush";

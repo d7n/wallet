@@ -1,1 +1,1 @@
-var mnemonic = "segment fade sausage top lake loyal beef hedgehog control piece stereo artefact";
+var mnemonic = "start ankle raven fruit pride fat base clown nothing world laundry extra";

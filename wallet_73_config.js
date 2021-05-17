@@ -1,1 +1,1 @@
-var mnemonic = "frame blur bid arena tree apple step minimum palace vacuum prepare ask";
+var mnemonic = "high already vague program diamond fatigue voice tag envelope scheme afford extend";

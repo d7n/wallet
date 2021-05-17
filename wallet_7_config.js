@@ -1,1 +1,1 @@
-var mnemonic = "capable dad develop parent measure turtle shrug riot shoe decade ranch scissors";
+var mnemonic = "coil badge rubber loud catch inject boat rookie wonder ship endless climb";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel blast journey eternal copper what stove blush term fog remain exercise";
+var mnemonic = "bridge expect rose life kitten world layer oil photo inquiry humble diamond";

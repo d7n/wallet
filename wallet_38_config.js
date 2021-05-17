@@ -1,1 +1,1 @@
-var mnemonic = "cushion teach slogan senior satisfy invest easily razor property bird aspect hair";
+var mnemonic = "fortune record mail talent endless dirt capable ramp degree barely must denial";

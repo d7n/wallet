@@ -1,1 +1,1 @@
-var mnemonic = "orient kitten absurd once check gate sudden know meadow bounce wall unlock";
+var mnemonic = "climb marine left catch cry bomb quote junior mule tongue box people";

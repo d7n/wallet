@@ -1,1 +1,1 @@
-var mnemonic = "fade man twice west silent replace labor program stick bulb next vote";
+var mnemonic = "tattoo oyster good enforce laptop little thunder scissors aware person idea cat";

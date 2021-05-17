@@ -1,1 +1,1 @@
-var mnemonic = "satoshi twelve media inch pact color easily useless mobile milk cook devote";
+var mnemonic = "cricket steak milk sure timber emerge key wrap ring blind fiction budget";

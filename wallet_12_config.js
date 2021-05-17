@@ -1,1 +1,1 @@
-var mnemonic = "split draw quarter dress steel august alter reform design confirm morning bamboo";
+var mnemonic = "corn cash toss spread grain ship diamond soda hello between eager noodle";

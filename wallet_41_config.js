@@ -1,1 +1,1 @@
-var mnemonic = "loop marble citizen pride crane muffin head bone thing person barrel detail";
+var mnemonic = "insane goose lonely skate glass expire answer hill amateur ensure coil asthma";

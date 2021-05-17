@@ -1,1 +1,1 @@
-var mnemonic = "swift reopen virus slab hood tumble occur august place print permit visit";
+var mnemonic = "frame keen inherit judge guilt series agent upper virtual main maze front";

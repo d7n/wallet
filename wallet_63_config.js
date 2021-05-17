@@ -1,1 +1,1 @@
-var mnemonic = "affair fringe flip tuition genre protect trend earth scan spike pony slide";
+var mnemonic = "measure best quantum erode initial pact middle grow earn dish increase drift";

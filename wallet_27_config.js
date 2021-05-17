@@ -1,1 +1,1 @@
-var mnemonic = "dumb river demise hazard sponsor meat october curious decrease avoid speed fragile";
+var mnemonic = "speak toe amused width cinnamon material hobby nation actress address raven grape";

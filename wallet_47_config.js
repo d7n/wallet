@@ -1,1 +1,1 @@
-var mnemonic = "parent spoon normal scene correct rail uncle rule edge scorpion mean gloom";
+var mnemonic = "again zone lunch thrive error brown unlock grant relief pyramid sweet swamp";

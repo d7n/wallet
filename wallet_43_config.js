@@ -1,1 +1,1 @@
-var mnemonic = "neither figure category gain disagree tonight length frown stairs limit cash repeat";
+var mnemonic = "system hammer park obscure carry move robust pluck toe fiber original suggest";

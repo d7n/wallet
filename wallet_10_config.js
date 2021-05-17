@@ -1,1 +1,1 @@
-var mnemonic = "desk police cement battle lucky hat utility husband mask become spoil box";
+var mnemonic = "plastic upon face stable swallow virtual roof federal uniform novel hat ability";

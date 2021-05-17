@@ -1,1 +1,1 @@
-var mnemonic = "stable hip bag category economy cute live fan depend endless monitor bunker";
+var mnemonic = "wreck monster mixture uncle series alley outdoor fever able absurd flavor say";

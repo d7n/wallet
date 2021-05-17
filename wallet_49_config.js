@@ -1,1 +1,1 @@
-var mnemonic = "dragon already main pumpkin vault auction brief industry visit goddess exact elbow";
+var mnemonic = "mirror away gloom broken champion erosion milk border mosquito blame meat target";

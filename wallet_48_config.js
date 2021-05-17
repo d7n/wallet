@@ -1,1 +1,1 @@
-var mnemonic = "illegal start shield wagon anxiety push slight anger champion arrow physical rely";
+var mnemonic = "word forget item wash weapon include limit plunge depth cereal goat feature";

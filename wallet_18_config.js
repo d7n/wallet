@@ -1,1 +1,1 @@
-var mnemonic = "family stable there often drum strong fabric vendor group blast type culture";
+var mnemonic = "floor sense aspect shed fever future tag about search anger salute park";

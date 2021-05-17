@@ -1,1 +1,1 @@
-var mnemonic = "fade people loan drink mimic round weird apology cat kitchen area cement";
+var mnemonic = "sock derive maximum naive hurdle layer used damp road release laptop actor";

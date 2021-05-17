@@ -1,1 +1,1 @@
-var mnemonic = "wolf lizard fiber sand scissors cost rich found curtain aim estate biology";
+var mnemonic = "column twelve render basket name vital shiver prepare pilot laptop wink slender";

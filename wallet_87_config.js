@@ -1,1 +1,1 @@
-var mnemonic = "time fitness shadow thank sunset near artwork pattern tail lottery beach absurd";
+var mnemonic = "salon amused please spare draft plug viable truck ridge canoe high veteran";

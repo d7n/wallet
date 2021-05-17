@@ -1,1 +1,1 @@
-var mnemonic = "trigger clerk wonder car barrel web excuse situate mutual valid subject wrap";
+var mnemonic = "curious sketch inside pink weasel noodle basic approve verb spirit immune chronic";

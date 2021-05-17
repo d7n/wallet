@@ -1,1 +1,1 @@
-var mnemonic = "husband denial laundry welcome mad advice paddle notice doctor region anchor evolve";
+var mnemonic = "offer ordinary gas fossil notable tattoo name gap decide auto guess lunch";

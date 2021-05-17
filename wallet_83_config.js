@@ -1,1 +1,1 @@
-var mnemonic = "barely crouch maximum hen paper erupt gadget donor excite garment sense traffic";
+var mnemonic = "brick matter artwork empty slide vintage guide flight forum electric affair loud";

@@ -1,1 +1,1 @@
-var mnemonic = "trash shrug action patient agree bridge sword noise end announce person doll";
+var mnemonic = "party text cactus ring scatter usual monster panel pretty pulse typical tiny";

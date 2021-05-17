@@ -1,1 +1,1 @@
-var mnemonic = "caught cannon column whip kitchen net impact program answer bright woman country";
+var mnemonic = "crazy duty alien couch lecture provide range know arrow segment parrot leave";

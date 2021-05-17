@@ -1,1 +1,1 @@
-var mnemonic = "august loud method amount mouse verify mutual dog keep grief strategy cook";
+var mnemonic = "lecture exercise alarm recipe scan knock brown armor aerobic pill marriage wish";

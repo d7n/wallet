@@ -1,1 +1,1 @@
-var mnemonic = "climb impulse ship slab mixed tape urban nuclear embrace admit chase item";
+var mnemonic = "price doctor network one lottery soldier pool dilemma quarter always saddle claim";

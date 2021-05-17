@@ -1,1 +1,1 @@
-var mnemonic = "barely candy impose crouch surface address dinner glad lyrics cheese coin follow";
+var mnemonic = "south liberty wash entry science bid dinosaur issue party lab talk pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "clean derive source cherry decade trouble online craft cart crop immune say";
+var mnemonic = "senior cattle despair raccoon genre ignore crouch session flash language soon gentle";

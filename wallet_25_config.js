@@ -1,1 +1,1 @@
-var mnemonic = "train shell detail lock actor crater theory produce sample typical blouse remove";
+var mnemonic = "since exhaust female aerobic trip around tide reflect smoke flat banana afford";

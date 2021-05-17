@@ -1,1 +1,1 @@
-var mnemonic = "viable rent still capital plug canal original woman side window sting mechanic";
+var mnemonic = "nerve attend iron village nose wedding agree renew dish valid thumb moon";
