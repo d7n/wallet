@@ -1,1 +1,1 @@
-var mnemonic = "eager describe faint town tomato original sword attack relief rigid obscure pilot";
+var mnemonic = "primary loop runway resemble avocado odor correct picnic alarm secret erosion feed";

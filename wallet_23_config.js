@@ -1,1 +1,1 @@
-var mnemonic = "aware enter purity gentle frown bounce snack funny remember someone index illegal";
+var mnemonic = "diamond benefit day acquire actress fly organ regret strike huge emotion drum";

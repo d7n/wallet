@@ -1,1 +1,1 @@
-var mnemonic = "acquire rent menu wrist wedding narrow direct hockey patch hole shrug arrow";
+var mnemonic = "surge actress high heart control enhance music lazy patient defense brain sure";

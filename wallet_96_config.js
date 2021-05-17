@@ -1,1 +1,1 @@
-var mnemonic = "fame album amazing stem citizen pulp bounce fun decline coil diesel satoshi";
+var mnemonic = "base material this wrist seminar pill gauge exercise despair stem model enforce";

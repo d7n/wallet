@@ -1,1 +1,1 @@
-var mnemonic = "jeans best water frost erosion organ dragon trend van emerge plastic rough";
+var mnemonic = "spatial absorb struggle few vivid general require spray bread sail identify ranch";

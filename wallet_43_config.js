@@ -1,1 +1,1 @@
-var mnemonic = "sad cupboard route coffee arrow fatal ordinary silk enemy today shove mention";
+var mnemonic = "hurdle cactus design dry garage birth sign music width cost purse install";

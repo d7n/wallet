@@ -1,1 +1,1 @@
-var mnemonic = "frozen correct suggest polar swap entry ignore car victory uncle wife medal";
+var mnemonic = "bus wish cable ranch teach pudding ethics there bright cup aisle valve";

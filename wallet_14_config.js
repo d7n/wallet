@@ -1,1 +1,1 @@
-var mnemonic = "kid broom gun tragic marine sail verb strategy peanut liquid box casino";
+var mnemonic = "expire broom direct slow panda quality rose night gym nurse canyon draft";

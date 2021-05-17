@@ -1,1 +1,1 @@
-var mnemonic = "liberty view alarm width tell boil oil buffalo story market satisfy minor";
+var mnemonic = "duck depth run prevent satoshi harvest forget typical jacket radar thrive demise";

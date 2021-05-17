@@ -1,1 +1,1 @@
-var mnemonic = "truck cry copy leader conduct exit sell grass universe vault rate fly";
+var mnemonic = "hospital field health drive faith flag oyster laundry crowd another surprise just";

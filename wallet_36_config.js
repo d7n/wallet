@@ -1,1 +1,1 @@
-var mnemonic = "rent crazy feature scan domain copy coyote canal protect express accident knock";
+var mnemonic = "domain try mercy alcohol design abandon mansion lawsuit crime super ridge glass";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade this immune stick current insect leg blame tackle elite version gym";
+var mnemonic = "fuel follow action toward egg nasty choice kiss whale about pumpkin place";

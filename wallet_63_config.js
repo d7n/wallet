@@ -1,1 +1,1 @@
-var mnemonic = "empty gain turn forward merge foot ketchup response coin correct leisure health";
+var mnemonic = "insane exit inspire mail fabric rigid festival cherry maple elephant flee sudden";

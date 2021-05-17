@@ -1,1 +1,1 @@
-var mnemonic = "address history fire aunt taxi goat oxygen dial invite case welcome actor";
+var mnemonic = "magnet about milk race nest turn bicycle deputy tell roof become banner";

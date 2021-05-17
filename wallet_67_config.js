@@ -1,1 +1,1 @@
-var mnemonic = "dilemma head arrow hungry lesson school hello treat decline rigid behind renew";
+var mnemonic = "pelican belt finger bind ramp police always window dress tape reveal diesel";

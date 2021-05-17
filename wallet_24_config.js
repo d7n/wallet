@@ -1,1 +1,1 @@
-var mnemonic = "silver during caution candy pretty narrow pause ahead mammal nothing sand siege";
+var mnemonic = "twin flat april siren foster boil person light reward flat lady buffalo";

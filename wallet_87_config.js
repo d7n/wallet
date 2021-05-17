@@ -1,1 +1,1 @@
-var mnemonic = "fury volcano angry pen topple donor cereal stuff garlic build fix episode";
+var mnemonic = "cat toe game equal riot example soccer symptom about talk vacuum drift";

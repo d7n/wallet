@@ -1,1 +1,1 @@
-var mnemonic = "vintage ethics truck hand picture rapid weather yellow cage suit mixed olive";
+var mnemonic = "approve match screen logic message ranch claw renew puzzle magic blast worry";

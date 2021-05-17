@@ -1,1 +1,1 @@
-var mnemonic = "six write shield huge frequent grit village lucky solid city unknown cup";
+var mnemonic = "dignity fee bronze wrap scissors route town outside gold nest pilot hidden";

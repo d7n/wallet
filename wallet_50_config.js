@@ -1,1 +1,1 @@
-var mnemonic = "live about trophy afraid treat sunset omit maze fever zone net ridge";
+var mnemonic = "sing upgrade beef olympic sick calm claim globe myself hold aunt invite";

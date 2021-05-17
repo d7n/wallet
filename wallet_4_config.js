@@ -1,1 +1,1 @@
-var mnemonic = "road since distance oak parade media join harsh door scan cup unable";
+var mnemonic = "reward easy better asthma adjust toast bulk choose group amazing lawsuit defy";

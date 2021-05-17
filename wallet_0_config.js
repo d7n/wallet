@@ -1,1 +1,1 @@
-var mnemonic = "jelly nothing symptom behave negative picture wedding confirm diesel sing discover spoon";
+var mnemonic = "box color march hedgehog equal board embody mammal fatigue nature govern more";

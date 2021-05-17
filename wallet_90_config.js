@@ -1,1 +1,1 @@
-var mnemonic = "goose outer grace axis smart exotic melody coral dust march sick dwarf";
+var mnemonic = "slim dance pledge chronic kit pond jelly satoshi example indoor version amused";

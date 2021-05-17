@@ -1,1 +1,1 @@
-var mnemonic = "toss great rebel question diet clever rely cinnamon erase evoke shell effort";
+var mnemonic = "also interest coil answer engine emerge cover crazy sheriff wave salad sadness";

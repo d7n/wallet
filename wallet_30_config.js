@@ -1,1 +1,1 @@
-var mnemonic = "together try eternal nose goddess dial weekend ginger upgrade stone crane list";
+var mnemonic = "entire dilemma burst pact narrow deal produce okay figure gold coin text";

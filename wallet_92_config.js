@@ -1,1 +1,1 @@
-var mnemonic = "power mistake cave burger uncle salt trip behave derive awkward anger name";
+var mnemonic = "physical update worry potato course twelve manage quick impulse uncover island airport";

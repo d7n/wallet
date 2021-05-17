@@ -1,1 +1,1 @@
-var mnemonic = "radar arrange dance unlock obtain imitate wise clock liquid powder museum judge";
+var mnemonic = "joke adapt welcome input artist evil clutch mad damage chief tilt wage";

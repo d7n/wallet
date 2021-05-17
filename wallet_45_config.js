@@ -1,1 +1,1 @@
-var mnemonic = "rebel enter life mercy ribbon prison valid sister about base laundry beauty";
+var mnemonic = "online govern book ginger lift clip axis deposit guitar diamond describe average";

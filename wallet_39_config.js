@@ -1,1 +1,1 @@
-var mnemonic = "now expect marble wrist fat bundle lumber garment cabin drum lock cute";
+var mnemonic = "arch acid govern nut blur divorce like fabric toilet sphere oak pool";

@@ -1,1 +1,1 @@
-var mnemonic = "success melt arch indicate sniff what column material pledge car morning skate";
+var mnemonic = "avocado family swamp blade chalk leave upgrade monkey easily guitar brief myth";

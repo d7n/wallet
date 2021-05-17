@@ -1,1 +1,1 @@
-var mnemonic = "dad arrow lunar glory ritual giggle appear master still flip oyster basic";
+var mnemonic = "swarm major gym series kitchen echo cheap desk tonight style coil shy";

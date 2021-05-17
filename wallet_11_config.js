@@ -1,1 +1,1 @@
-var mnemonic = "alpha prepare crumble cart insect filter category peanut noise cook height interest";
+var mnemonic = "rug ten ensure mixture truly behave wash inquiry spot blind convince vessel";

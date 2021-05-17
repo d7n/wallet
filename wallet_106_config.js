@@ -1,1 +1,1 @@
-var mnemonic = "accident claw dash face forget rebel danger topple plug below insect quantum";
+var mnemonic = "arch velvet poet sugar ten parent core illegal slender wing popular home";

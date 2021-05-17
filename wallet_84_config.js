@@ -1,1 +1,1 @@
-var mnemonic = "skull claw deal problem occur purpose scorpion hero pull silent unfold pair";
+var mnemonic = "next people spirit lounge creek mouse plastic warrior bitter talent energy rude";

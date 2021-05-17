@@ -1,1 +1,1 @@
-var mnemonic = "unable seven choose burden seven fee moon burst animal firm program behave";
+var mnemonic = "group bonus glide early soccer stool suggest dizzy eternal off conduct rhythm";

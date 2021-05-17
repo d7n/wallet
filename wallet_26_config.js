@@ -1,1 +1,1 @@
-var mnemonic = "animal swim appear detect stove million stumble bike tray liquid hybrid party";
+var mnemonic = "napkin thrive rally cycle recipe minimum loan wild enough peace borrow window";

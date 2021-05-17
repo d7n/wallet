@@ -1,1 +1,1 @@
-var mnemonic = "hard come search extra victory account cash stable possible drift water swim";
+var mnemonic = "curve attack foil tattoo rifle stay grant tonight mutual silver outdoor scissors";

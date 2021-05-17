@@ -1,1 +1,1 @@
-var mnemonic = "sense proof forest cloth age dance animal member maid swap present castle";
+var mnemonic = "build radio lazy best identify dinosaur exact today edge wet floor author";

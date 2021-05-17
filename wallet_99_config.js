@@ -1,1 +1,1 @@
-var mnemonic = "fortune enhance arrive odor finish cover poem retreat lion mango much pen";
+var mnemonic = "seminar olympic kind fresh bachelor museum noble wolf choose adult all manage";

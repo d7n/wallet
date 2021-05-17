@@ -1,1 +1,1 @@
-var mnemonic = "rare anger clock outdoor employ economy sister actor rude diesel relax confirm";
+var mnemonic = "feel book juice sleep sort loyal shrug swift boil license apple coffee";

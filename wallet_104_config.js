@@ -1,1 +1,1 @@
-var mnemonic = "pet rule want pioneer spider service bamboo spoil mirror coin metal trap";
+var mnemonic = "brisk lumber smoke humor print avocado flower cancel antenna fence guard fault";

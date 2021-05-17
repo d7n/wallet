@@ -1,1 +1,1 @@
-var mnemonic = "coffee buzz mimic floor improve distance unveil umbrella donor engage forward brown";
+var mnemonic = "where neither inform loyal supply gym stamp urban spread later trouble robot";

@@ -1,1 +1,1 @@
-var mnemonic = "insane tilt find skin absorb sweet grab symptom sweet brisk minute female";
+var mnemonic = "silver candy payment neither alter curtain fortune record outer silent vacuum reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain glue asthma banner myth diesel jelly shadow leader tourist inject trip";
+var mnemonic = "walk marriage black toilet bounce goddess coffee other leader slot flag sauce";

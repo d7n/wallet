@@ -1,1 +1,1 @@
-var mnemonic = "industry luxury canal total turn sting dog link young warm large series";
+var mnemonic = "wink couple average very wrap almost spawn egg despair equal photo intact";

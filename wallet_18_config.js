@@ -1,1 +1,1 @@
-var mnemonic = "jaguar wink below layer avocado grit giggle promote solid piece caught reduce";
+var mnemonic = "music youth rapid phrase token rebuild swing catch enhance rack gospel ordinary";

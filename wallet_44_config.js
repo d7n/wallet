@@ -1,1 +1,1 @@
-var mnemonic = "weird normal outside badge expire reunion duty spray urban risk grunt turkey";
+var mnemonic = "artist knee analyst vessel trumpet arctic velvet hungry planet just festival stove";

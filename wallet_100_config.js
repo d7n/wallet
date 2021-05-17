@@ -1,1 +1,1 @@
-var mnemonic = "fetch wave intact kiss spring video dream fatigue fiction rigid trouble kind";
+var mnemonic = "process board van deal can glove float business leader swarm garage situate";

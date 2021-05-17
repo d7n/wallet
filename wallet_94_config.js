@@ -1,1 +1,1 @@
-var mnemonic = "dizzy wash jazz park add ecology input sing path dignity stick sugar";
+var mnemonic = "mandate grief fault demand tuna neither snake creek cross deputy base play";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease better leaf calm wrist evolve bundle awkward gasp unknown meadow dolphin";
+var mnemonic = "rally reflect expose bargain gesture cinnamon march remain fall immense drift merit";

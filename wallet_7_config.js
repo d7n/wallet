@@ -1,1 +1,1 @@
-var mnemonic = "tattoo inhale pizza weekend amazing broom lucky roof start fly rabbit style";
+var mnemonic = "vehicle animal vintage case wish venue network grocery cream gospel category segment";

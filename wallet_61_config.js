@@ -1,1 +1,1 @@
-var mnemonic = "sunset nothing sock trash success nuclear solar base lazy stable helmet tired";
+var mnemonic = "lottery crash champion tell frog mean monkey error radar thunder judge service";

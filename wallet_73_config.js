@@ -1,1 +1,1 @@
-var mnemonic = "miracle scale couple noise clutch ill room ticket unable stove tower section";
+var mnemonic = "island ugly number woman connect cheap amazing knock similar scheme butter divert";

@@ -1,1 +1,1 @@
-var mnemonic = "call pencil language pelican real inside resemble float weird pony opera hour";
+var mnemonic = "remind neck trip private few modify club tooth flush avoid message swap";

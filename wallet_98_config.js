@@ -1,1 +1,1 @@
-var mnemonic = "vague normal reunion build brick dry card trouble camera assault ice gorilla";
+var mnemonic = "scare oblige yard side cause health gas despair era milk pelican scare";

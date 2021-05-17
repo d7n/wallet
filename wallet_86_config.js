@@ -1,1 +1,1 @@
-var mnemonic = "filter cook divorce shield language century stand impose number income acid blast";
+var mnemonic = "between toddler inflict ladder lumber tenant embody smoke bless spoil wait sketch";

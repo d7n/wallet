@@ -1,1 +1,1 @@
-var mnemonic = "matrix wedding amount dawn uniform cage during escape gather promote coast team";
+var mnemonic = "intact code carry pistol spray supply cotton gorilla harsh glad advance senior";

@@ -1,1 +1,1 @@
-var mnemonic = "secret celery price style blur crisp soul usage window rail moment ridge";
+var mnemonic = "amount ocean duck tent awful champion top great cereal island ill buddy";

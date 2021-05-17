@@ -1,1 +1,1 @@
-var mnemonic = "aware swamp chat stairs burden describe maximum fatal possible risk forest climb";
+var mnemonic = "run bike hurdle change word hurry catch suspect impulse sample stay library";

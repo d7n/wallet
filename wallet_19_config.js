@@ -1,1 +1,1 @@
-var mnemonic = "focus current laugh clutch board hen drink rich visa caught used insane";
+var mnemonic = "love glory life husband mushroom write virus more fatal three alone clip";

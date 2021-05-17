@@ -1,1 +1,1 @@
-var mnemonic = "page rare traffic era border birth ship artefact report digital green card";
+var mnemonic = "ocean wear please drastic speak group limb joy antique sweet witness cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb adjust head walnut crowd confirm satisfy dash luxury allow tomorrow plastic";
+var mnemonic = "panel jelly swap harsh robot pool main drastic question deny clay concert";

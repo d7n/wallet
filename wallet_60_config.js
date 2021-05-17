@@ -1,1 +1,1 @@
-var mnemonic = "quote scheme outer slight someone door rocket goddess hawk huge venture name";
+var mnemonic = "black kid seminar purse kit dwarf fence shallow leader hollow song capital";

@@ -1,1 +1,1 @@
-var mnemonic = "belt crunch caught unveil what carpet fetch mix faith elevator joke torch";
+var mnemonic = "spray cream allow suspect wear remain cage betray tonight mother club island";

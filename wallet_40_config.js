@@ -1,1 +1,1 @@
-var mnemonic = "age object unaware will pupil cycle gown rice sustain type history dawn";
+var mnemonic = "figure lounge edge ill truth device surprise stand vast topic scrub fuel";

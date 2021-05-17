@@ -1,1 +1,1 @@
-var mnemonic = "catch pair entry gentle shield tragic steak risk peanut submit february document";
+var mnemonic = "celery evil report key drill imitate where fruit leave dwarf spread bean";

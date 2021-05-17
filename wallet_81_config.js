@@ -1,1 +1,1 @@
-var mnemonic = "spring dismiss execute neutral lake unhappy slush behind pill jelly minimum certain";
+var mnemonic = "monster plate roof loop cinnamon siege rabbit diagram maple stamp hope mimic";

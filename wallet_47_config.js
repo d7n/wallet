@@ -1,1 +1,1 @@
-var mnemonic = "crunch patch cause stem patient swift goddess sauce main online script ribbon";
+var mnemonic = "art tornado select height luggage luxury gasp brick risk order shed rookie";

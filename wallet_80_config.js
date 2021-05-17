@@ -1,1 +1,1 @@
-var mnemonic = "buzz wisdom bacon indoor close you elite common live output color prosper";
+var mnemonic = "empty super interest lemon message today test unlock genuine tuition want cement";

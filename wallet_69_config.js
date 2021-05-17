@@ -1,1 +1,1 @@
-var mnemonic = "gun fame manage novel shine gap blast acoustic window blade ramp capable";
+var mnemonic = "random merry blush punch okay color vague flower west language deposit attack";

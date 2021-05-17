@@ -1,1 +1,1 @@
-var mnemonic = "powder mom any body confirm chest south upgrade worth again inherit bulb";
+var mnemonic = "snake flee bottom hat debris shift install grape chief weasel seminar amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist lawsuit sketch wire village junk sea thrive federal hold useless panel";
+var mnemonic = "gravity stairs loud relax ill barrel speed occur grass sting basic auction";

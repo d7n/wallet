@@ -1,1 +1,1 @@
-var mnemonic = "random under tenant rail weather farm icon sample detect tank federal spare";
+var mnemonic = "puzzle matrix style rug bring mother energy argue december effort congress napkin";

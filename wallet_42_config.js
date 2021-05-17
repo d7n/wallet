@@ -1,1 +1,1 @@
-var mnemonic = "snake gas uncover drastic film chicken chronic also person vacuum youth finger";
+var mnemonic = "fever liar clog tomorrow property mobile bread refuse season weapon shoe shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal bean gossip east cigar harsh mandate curious proud end ask inside";
+var mnemonic = "require news kidney nation hole best father inch color never merit drink";

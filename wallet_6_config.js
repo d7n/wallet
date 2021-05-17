@@ -1,1 +1,1 @@
-var mnemonic = "secret endorse limit nation grief vital town all father swarm either faith";
+var mnemonic = "prepare reward lawsuit patrol sort own fat pulse argue weapon average link";

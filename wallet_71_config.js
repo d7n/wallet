@@ -1,1 +1,1 @@
-var mnemonic = "usual raw hurt female federal culture tissue basket frost duck lunch express";
+var mnemonic = "subway panda witness give quantum amateur manual tooth pepper avoid science endless";

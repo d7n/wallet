@@ -1,1 +1,1 @@
-var mnemonic = "brand novel trigger kite funny yard blanket palm menu nuclear double exile";
+var mnemonic = "category unknown gate air firm avocado leisure victory arrow vintage mistake raccoon";

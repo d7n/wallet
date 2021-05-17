@@ -1,1 +1,1 @@
-var mnemonic = "acid curve sail beach seven appear doctor total surround pitch claw reject";
+var mnemonic = "humor torch plastic soda balance mercy pool decade female leaf tooth whip";

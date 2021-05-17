@@ -1,1 +1,1 @@
-var mnemonic = "chef insect pulp series science pair before mango snap skull syrup gate";
+var mnemonic = "wish elephant involve impulse industry address world ceiling guitar please suggest injury";

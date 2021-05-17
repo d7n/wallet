@@ -1,1 +1,1 @@
-var mnemonic = "vanish clip video cargo culture dumb bread scale nuclear math throw crystal";
+var mnemonic = "bone direct patient slab adapt advice canoe tree almost size multiply monster";

@@ -1,1 +1,1 @@
-var mnemonic = "hero glimpse achieve robot sail consider muscle lens angry chapter target input";
+var mnemonic = "ribbon display february leopard bench pill define fruit stone mobile fat favorite";

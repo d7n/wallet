@@ -1,1 +1,1 @@
-var mnemonic = "scare bright ride predict liberty summer nature right device token prevent web";
+var mnemonic = "usage bench slide volcano place slide doctor orient about museum verb distance";

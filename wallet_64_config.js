@@ -1,1 +1,1 @@
-var mnemonic = "genius alert bench file throw pact dwarf pencil skate expand shine night";
+var mnemonic = "stand salt beyond outer rally mango quantum spoil pet announce viable resource";

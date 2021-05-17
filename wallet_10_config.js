@@ -1,1 +1,1 @@
-var mnemonic = "couple ripple such garbage fan solution amount put carpet define margin salmon";
+var mnemonic = "suspect december brass worry nothing quote mammal nothing wheel sheriff coil pizza";

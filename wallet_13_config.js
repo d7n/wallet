@@ -1,1 +1,1 @@
-var mnemonic = "gym define ritual canal this urban over metal sword black apology material";
+var mnemonic = "fox summer ladder sound spare behind market cotton nurse slender sphere sock";

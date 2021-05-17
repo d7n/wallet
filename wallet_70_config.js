@@ -1,1 +1,1 @@
-var mnemonic = "exist say behind circle rib fortune humble profit market lawsuit find quote";
+var mnemonic = "picture analyst soft deal usual car rug lazy scare enforce page history";

@@ -1,1 +1,1 @@
-var mnemonic = "since pet wasp junk magnet swarm chronic sense success plug debris cushion";
+var mnemonic = "release artwork position such kit dumb tent fatigue exotic luxury help salon";

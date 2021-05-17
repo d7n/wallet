@@ -1,1 +1,1 @@
-var mnemonic = "side top gossip reject soon erupt patrol lecture food occur jungle youth";
+var mnemonic = "energy duty worth explain party exist differ curve plastic awful oyster bracket";

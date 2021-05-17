@@ -1,1 +1,1 @@
-var mnemonic = "margin frame agent mother drum parrot pole catch gallery lucky sure orbit";
+var mnemonic = "moment rhythm audit coconut scare credit fabric cost ticket must large decrease";
