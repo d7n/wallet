@@ -1,1 +1,1 @@
-var mnemonic = "radio chimney rapid envelope suit ketchup fluid scheme odor state occur artefact";
+var mnemonic = "virtual sheriff suit wedding grow deputy traffic steak bread resemble erosion intact";

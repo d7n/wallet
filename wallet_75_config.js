@@ -1,1 +1,1 @@
-var mnemonic = "poverty sell rather trial laugh wife kingdom amazing rookie spider disease rescue";
+var mnemonic = "limit school cinnamon dinner chef warrior debris clock believe frost dignity lottery";

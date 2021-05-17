@@ -1,1 +1,1 @@
-var mnemonic = "enroll right today cabin skate indicate super habit swift chase output fever";
+var mnemonic = "chest range build blush duck series subject topic student route trophy nominee";

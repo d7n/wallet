@@ -1,1 +1,1 @@
-var mnemonic = "level dragon mom half reflect absurd zone damage planet mule luxury across";
+var mnemonic = "inherit brave visit disease person wreck blame amazing elder pupil raccoon level";

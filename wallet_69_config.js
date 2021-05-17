@@ -1,1 +1,1 @@
-var mnemonic = "vintage keen survey certain element toy left budget add muscle jump dinosaur";
+var mnemonic = "doctor caught before skate crumble distance hello also faint hidden gun member";

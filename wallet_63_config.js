@@ -1,1 +1,1 @@
-var mnemonic = "bread alter antenna outer sniff earth image near point electric sentence world";
+var mnemonic = "future half circle fly educate diary enter sad tide devote hotel genre";

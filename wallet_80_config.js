@@ -1,1 +1,1 @@
-var mnemonic = "brain remind cave cinnamon tuition keen accident alert infant image search guilt";
+var mnemonic = "fresh boring muscle message option equal target media fever federal arrow risk";

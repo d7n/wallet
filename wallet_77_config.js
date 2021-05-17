@@ -1,1 +1,1 @@
-var mnemonic = "ritual arctic wheat west usual flee flavor scale grace close unit adjust";
+var mnemonic = "pattern divorce immune arrest talent wrist thunder license market slogan surface kiwi";

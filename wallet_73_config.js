@@ -1,1 +1,1 @@
-var mnemonic = "ginger elbow forum crystal moon boy staff style subject desert spirit head";
+var mnemonic = "decide glue gesture soap matrix forward taste bring yellow network uphold dirt";

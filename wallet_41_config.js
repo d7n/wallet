@@ -1,1 +1,1 @@
-var mnemonic = "general wonder mixture diesel friend salute want fish odor tower flavor frozen";
+var mnemonic = "warfare possible target woman client carpet food borrow uniform depth turkey differ";

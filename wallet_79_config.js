@@ -1,1 +1,1 @@
-var mnemonic = "year bachelor base beach salmon mom force action stay put fold glove";
+var mnemonic = "shine finish sad copper magic prefer butter journey brass online eternal barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "mother joy picture rack choose cage affair retire oppose intact afraid robot";
+var mnemonic = "pond valve armed cram donkey venture buzz scrap very ripple job salad";

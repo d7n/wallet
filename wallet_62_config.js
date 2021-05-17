@@ -1,1 +1,1 @@
-var mnemonic = "love link tomorrow gain antique pet ignore morning sick card legal main";
+var mnemonic = "appear visa prison club merit ocean junior learn cotton mimic deliver vast";

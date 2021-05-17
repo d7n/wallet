@@ -1,1 +1,1 @@
-var mnemonic = "govern knife novel regret wall era produce urge deputy blind hood burden";
+var mnemonic = "myth crumble faith rebuild mosquito visit energy put episode athlete silly weird";

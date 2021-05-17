@@ -1,1 +1,1 @@
-var mnemonic = "planet cancel proud hope label program rubber gorilla chef inspire pool remember";
+var mnemonic = "real unlock oak coral cattle addict bar slot boss resemble region useless";

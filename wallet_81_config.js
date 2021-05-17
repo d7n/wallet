@@ -1,1 +1,1 @@
-var mnemonic = "cook robust soldier immense accident sun picture similar theory palm nice mountain";
+var mnemonic = "attract gate alcohol heart major silk mansion draft razor anxiety spoon off";

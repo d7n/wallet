@@ -1,1 +1,1 @@
-var mnemonic = "brass next tomorrow jaguar fabric bike orphan mind grain tourist focus more";
+var mnemonic = "rival beef wash prevent system cattle balcony build stairs depth aunt enforce";

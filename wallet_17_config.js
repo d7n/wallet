@@ -1,1 +1,1 @@
-var mnemonic = "labor enlist hair strategy purchase dad screen field measure nature curious buzz";
+var mnemonic = "super mail brief often say bottom shell cook convince motor cost author";

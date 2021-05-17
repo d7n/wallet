@@ -1,1 +1,1 @@
-var mnemonic = "rent office mesh false cannon wrong brisk reunion toss sell sense clean";
+var mnemonic = "visual achieve retire truth enjoy cradle bench notable sweet head weather celery";

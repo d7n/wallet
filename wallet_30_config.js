@@ -1,1 +1,1 @@
-var mnemonic = "couch length saddle wisdom rotate suspect vocal marine onion siege bus jaguar";
+var mnemonic = "ball unveil view track film air vicious check toddler plug team unusual";

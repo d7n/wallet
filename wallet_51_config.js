@@ -1,1 +1,1 @@
-var mnemonic = "veteran quantum arrive kidney cherry search slide tone cram mask hammer merry";
+var mnemonic = "grace sniff track brush soldier student people hire clarify bunker admit vapor";

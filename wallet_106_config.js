@@ -1,1 +1,1 @@
-var mnemonic = "marble dumb spirit egg green disease dial bacon mesh tourist river orchard";
+var mnemonic = "shop appear heavy swing rigid erupt answer educate arrest piano era poet";

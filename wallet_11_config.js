@@ -1,1 +1,1 @@
-var mnemonic = "wife useless grow ivory faint hawk mystery legal enlist express snack vivid";
+var mnemonic = "junk alone cause canyon neglect mom cake small monster whale kind tiger";

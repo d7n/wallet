@@ -1,1 +1,1 @@
-var mnemonic = "first alcohol occur tooth rough bike collect fluid feel come tent employ";
+var mnemonic = "clean enough tent leisure mutual swim dream floor trophy upon shine razor";

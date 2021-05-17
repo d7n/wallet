@@ -1,1 +1,1 @@
-var mnemonic = "arrange sauce seven correct unhappy legal woman exist nice execute grain include";
+var mnemonic = "cute secret ensure sibling subject bless just pipe access candy soon when";

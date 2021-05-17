@@ -1,1 +1,1 @@
-var mnemonic = "strong keep luxury scare claim worth talk system series few cram ripple";
+var mnemonic = "scout device vocal visa occur window gauge crawl connect matrix submit shy";

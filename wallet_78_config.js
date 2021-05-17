@@ -1,1 +1,1 @@
-var mnemonic = "hobby rose intact gap apart either fruit vague identify clinic foil pole";
+var mnemonic = "gift print pole spider urban shell tell cream horse stadium judge aware";

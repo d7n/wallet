@@ -1,1 +1,1 @@
-var mnemonic = "tone false bunker chief sketch castle burden gravity sock scatter dizzy card";
+var mnemonic = "scene pear chalk learn noodle decade foil desk depend race grass food";

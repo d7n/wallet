@@ -1,1 +1,1 @@
-var mnemonic = "dish you credit success occur vicious badge shop slow outer damage answer";
+var mnemonic = "alley whisper shop census video upgrade orbit copy swift merit catch load";

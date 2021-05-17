@@ -1,1 +1,1 @@
-var mnemonic = "miracle arrest law absent core lemon slab have proud phone daughter horn";
+var mnemonic = "duck fiber surround february furnace radar race cool prosper medal snap horn";

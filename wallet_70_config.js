@@ -1,1 +1,1 @@
-var mnemonic = "pause door panic verify thought bind wild spice pen denial orient normal";
+var mnemonic = "frame depth test volume harbor program split because youth senior discover balance";

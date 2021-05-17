@@ -1,1 +1,1 @@
-var mnemonic = "join pond robust dinner flag pond business shine lunar chaos slim chuckle";
+var mnemonic = "brass index meat stuff pattern business flash invest cotton kiss domain bean";

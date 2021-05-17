@@ -1,1 +1,1 @@
-var mnemonic = "trash swim grunt rely large bid shoot leader cheap dumb reflect solution";
+var mnemonic = "primary upper poverty shrimp hour slide cash favorite matter point blind garden";

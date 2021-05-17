@@ -1,1 +1,1 @@
-var mnemonic = "neck toe train belt nuclear loud rifle hood soccer video soccer outdoor";
+var mnemonic = "assist grace corn puppy october scale evil resemble wave unable witness carry";

@@ -1,1 +1,1 @@
-var mnemonic = "frame proof romance tank young attack patrol mass omit feed left during";
+var mnemonic = "coconut praise shift gas smart involve neutral ugly earth code unveil muscle";

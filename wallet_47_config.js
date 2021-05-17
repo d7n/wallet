@@ -1,1 +1,1 @@
-var mnemonic = "pig shove style record taxi dwarf exercise left park outdoor talent apple";
+var mnemonic = "icon bounce fox old seven fly curve indicate spread donate burden allow";

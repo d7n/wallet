@@ -1,1 +1,1 @@
-var mnemonic = "thank bitter race average wrap pool depend step minimum island harvest mansion";
+var mnemonic = "hybrid laundry open fork guide depend change say frozen empty era foster";

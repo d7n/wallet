@@ -1,1 +1,1 @@
-var mnemonic = "swarm theory way salon laundry lizard company hello web husband calm mutual";
+var mnemonic = "rib enlist vanish laptop dove churn weapon total baby two orient tobacco";

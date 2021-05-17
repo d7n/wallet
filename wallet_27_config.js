@@ -1,1 +1,1 @@
-var mnemonic = "decrease famous resource all book immense refuse yard one snack chicken galaxy";
+var mnemonic = "pigeon horror attitude ceiling just undo west will inject jaguar stove bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sponsor chunk void ketchup mad stamp glad stereo radar text addict";
+var mnemonic = "taxi mom timber easily kiss skate vessel bunker since taxi inch bless";

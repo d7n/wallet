@@ -1,1 +1,1 @@
-var mnemonic = "saddle apart sock mosquito debate smooth allow shrimp dance expect ginger canvas";
+var mnemonic = "tomorrow antenna rhythm tumble welcome plug rice kitten chuckle town harsh truth";

@@ -1,1 +1,1 @@
-var mnemonic = "foam pink rubber alert annual west front add laundry tree spawn suit";
+var mnemonic = "scheme tobacco cement neutral alone zone guilt into board medal clever young";

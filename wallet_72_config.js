@@ -1,1 +1,1 @@
-var mnemonic = "dismiss spirit permit token wood grief island private congress armed orient ritual";
+var mnemonic = "garlic utility shove assist action swap exit enjoy quick blur staff flip";

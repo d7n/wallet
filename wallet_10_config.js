@@ -1,1 +1,1 @@
-var mnemonic = "client occur syrup bottom nation ugly feed fresh talk swift fuel lend";
+var mnemonic = "size cry soon bottom mandate cool caught spoon fruit social aerobic lounge";

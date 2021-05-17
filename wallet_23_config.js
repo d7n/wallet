@@ -1,1 +1,1 @@
-var mnemonic = "kitten spatial post despair mother elder parrot car space believe flip skate";
+var mnemonic = "shift brother insane glide hockey artwork pluck peanut illness rough edge code";

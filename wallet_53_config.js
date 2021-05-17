@@ -1,1 +1,1 @@
-var mnemonic = "improve pause luxury message dose just dish where bacon ocean enforce height";
+var mnemonic = "vendor habit drastic stick yard present cigar fatigue promote copper embark author";

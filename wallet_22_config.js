@@ -1,1 +1,1 @@
-var mnemonic = "march mass fatigue winner crane mouse nut hurry quit surface peanut dignity";
+var mnemonic = "amazing van pottery exhibit easily lens sell oyster one play black type";

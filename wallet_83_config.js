@@ -1,1 +1,1 @@
-var mnemonic = "happy doctor disease erase cactus shallow tumble major pattern athlete grace car";
+var mnemonic = "artwork mind diesel math fatigue loyal child badge measure either because absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "price senior rain rail glide loyal clump wife column matter creek way";
+var mnemonic = "trigger index twenty attend island pig inside smooth profit waste volume divert";

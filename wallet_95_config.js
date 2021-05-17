@@ -1,1 +1,1 @@
-var mnemonic = "fashion island trim style obtain tooth update accuse odor ask boy dad";
+var mnemonic = "avoid borrow roast endless early adapt embark fit canoe firm mystery hazard";

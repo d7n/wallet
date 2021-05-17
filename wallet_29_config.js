@@ -1,1 +1,1 @@
-var mnemonic = "social treat future wage moral ridge coast weekend guitar describe submit vibrant";
+var mnemonic = "census admit juice gain banner motor capable copy comfort casino whale diagram";

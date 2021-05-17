@@ -1,1 +1,1 @@
-var mnemonic = "thumb decorate taxi coast mail soft now captain sentence trap like engage";
+var mnemonic = "veteran doll planet coyote series young stable crash together tower guide around";

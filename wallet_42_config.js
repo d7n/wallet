@@ -1,1 +1,1 @@
-var mnemonic = "such power hollow million depart snake tray inquiry olympic say arrive harvest";
+var mnemonic = "sausage injury one tomorrow tiger marriage system romance loan exhibit apology emotion";

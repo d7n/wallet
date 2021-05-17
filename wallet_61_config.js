@@ -1,1 +1,1 @@
-var mnemonic = "defense orient gallery bamboo stable foster warrior execute jealous cupboard juice design";
+var mnemonic = "cactus broccoli comfort crazy sick valve deliver airport regular balance slow airport";

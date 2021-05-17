@@ -1,1 +1,1 @@
-var mnemonic = "first bind meadow clown cram guess team street orange salon argue relief";
+var mnemonic = "limit card surround warrior stereo retire visa farm tackle emotion glide gather";

@@ -1,1 +1,1 @@
-var mnemonic = "original song multiply talk caution join brick mutual glory eager burst combine";
+var mnemonic = "stomach lyrics praise help clean pelican arrive bird tortoise used require rifle";

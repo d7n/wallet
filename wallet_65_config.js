@@ -1,1 +1,1 @@
-var mnemonic = "pride install settle awful crouch analyst safe vocal mosquito patch motion hope";
+var mnemonic = "seminar negative galaxy trumpet goddess select option moon unfold cigar base assault";

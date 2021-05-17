@@ -1,1 +1,1 @@
-var mnemonic = "extra umbrella river scrap dust steak approve special nation close omit chapter";
+var mnemonic = "color swap kiwi razor elephant often park body practice employ parade daring";

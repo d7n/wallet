@@ -1,1 +1,1 @@
-var mnemonic = "sing adjust upon focus evolve black uncle school shy eye issue name";
+var mnemonic = "alpha best crumble cabbage shaft erupt odor raccoon rival chair glimpse distance";

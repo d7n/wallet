@@ -1,1 +1,1 @@
-var mnemonic = "divert boring awake scatter gossip broken planet burden sample wash theory random";
+var mnemonic = "grid glass present member assault subject small exhibit increase limb know steel";

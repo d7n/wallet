@@ -1,1 +1,1 @@
-var mnemonic = "ice digital bacon orchard pool group plug host install hurdle quality inherit";
+var mnemonic = "arch sting method dilemma spoil remember drive phrase bind pass famous orphan";

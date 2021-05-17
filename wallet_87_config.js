@@ -1,1 +1,1 @@
-var mnemonic = "verify tomato fee panel frost bind leopard neutral river split coffee sock";
+var mnemonic = "post honey hint elite merit join employ eager action image mammal trend";

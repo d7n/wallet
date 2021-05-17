@@ -1,1 +1,1 @@
-var mnemonic = "brother ticket category write misery orient galaxy eight violin maid adapt win";
+var mnemonic = "grit badge apart initial cotton kiwi infant glove chicken another real cradle";

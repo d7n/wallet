@@ -1,1 +1,1 @@
-var mnemonic = "shallow render vague acid gallery twice prosper oil junior ability width begin";
+var mnemonic = "cool crack plunge know cereal remember enter edge enroll impose chief mean";

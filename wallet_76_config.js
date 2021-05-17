@@ -1,1 +1,1 @@
-var mnemonic = "gap turkey decide music forget reflect client tuition envelope settle wheel ship";
+var mnemonic = "drama spatial enrich dutch lunar fire film estate left pluck sure all";

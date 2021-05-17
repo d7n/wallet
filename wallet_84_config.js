@@ -1,1 +1,1 @@
-var mnemonic = "avocado silent inmate festival involve bike bar dumb birth bicycle health gap";
+var mnemonic = "pupil library few tag whip doctor smoke mistake valve desk wine caught";

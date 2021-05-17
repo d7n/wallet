@@ -1,1 +1,1 @@
-var mnemonic = "collect limit common effort monster boat deliver december minute access ocean raccoon";
+var mnemonic = "humble nasty raccoon holiday finger banana sunset color dizzy security faint nuclear";

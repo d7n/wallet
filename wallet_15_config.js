@@ -1,1 +1,1 @@
-var mnemonic = "birth october width burst ship swift hip fossil pull cook express bomb";
+var mnemonic = "action blind fatigue saddle alone burger bid six card clinic dial soft";

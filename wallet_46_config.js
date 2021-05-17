@@ -1,1 +1,1 @@
-var mnemonic = "review lift intact enemy power squirrel select hour draw cotton photo pencil";
+var mnemonic = "license work gaze blanket chuckle venue motor alley magic tissue medal cable";

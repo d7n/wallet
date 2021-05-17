@@ -1,1 +1,1 @@
-var mnemonic = "token win weird stove cherry glimpse spend cable antenna army scissors indicate";
+var mnemonic = "major session truth avoid online any plunge debate laptop north doctor matrix";

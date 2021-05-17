@@ -1,1 +1,1 @@
-var mnemonic = "march lunar furnace bomb deal grain nation tone boy climb try forget";
+var mnemonic = "few swing face advance cigar face crawl cluster ready spawn thank scout";

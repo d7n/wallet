@@ -1,1 +1,1 @@
-var mnemonic = "silver push rabbit estate usual steak evil first useful crush tobacco invite";
+var mnemonic = "agree exhaust soccer fragile poem strong tissue other daring silver face clarify";

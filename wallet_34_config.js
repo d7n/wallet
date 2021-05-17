@@ -1,1 +1,1 @@
-var mnemonic = "law require popular glue ecology menu magic spread burst strong fish paddle";
+var mnemonic = "jungle summer month evidence country example state shop family gold interest father";

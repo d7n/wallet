@@ -1,1 +1,1 @@
-var mnemonic = "sail bonus security usage address give asset thumb gown warfare gift magnet";
+var mnemonic = "spice denial swap spoil crush ill eight name awful relief two sugar";

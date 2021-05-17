@@ -1,1 +1,1 @@
-var mnemonic = "leisure token fault chaos chest raccoon siren identify assume card joke weekend";
+var mnemonic = "gun thing panther put science execute broom sock know rapid head roast";

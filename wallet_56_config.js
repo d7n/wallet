@@ -1,1 +1,1 @@
-var mnemonic = "diagram six patrol wave nasty repeat ritual sorry entire grace pull rather";
+var mnemonic = "install aware medal trigger public approve term arrest broken vocal park select";

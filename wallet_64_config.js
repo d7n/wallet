@@ -1,1 +1,1 @@
-var mnemonic = "cactus master upon used control antenna solar hawk close utility weasel shop";
+var mnemonic = "type acid plug mail dose venture dog grocery burst cost thought lake";

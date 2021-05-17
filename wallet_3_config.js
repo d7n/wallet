@@ -1,1 +1,1 @@
-var mnemonic = "warm taxi core forget model foot cute nest pair print kit kitten";
+var mnemonic = "pony indicate analyst warrior issue label actress diet final release seven park";

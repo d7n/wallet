@@ -1,1 +1,1 @@
-var mnemonic = "faith mix easy fitness shaft often beyond inflict ostrich pen upon coffee";
+var mnemonic = "thing area churn practice clinic champion reflect scare still fitness acid habit";

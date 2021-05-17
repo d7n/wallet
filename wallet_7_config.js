@@ -1,1 +1,1 @@
-var mnemonic = "brown clown window thrive abandon pipe ketchup climb van inject gas leg";
+var mnemonic = "else cinnamon column chief onion ramp hair spread loop mad velvet spell";

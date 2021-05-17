@@ -1,1 +1,1 @@
-var mnemonic = "obscure find food what average cigar myself differ old feed wonder bracket";
+var mnemonic = "latin license there pulse pilot wage cabbage beyond prevent damage disorder diary";

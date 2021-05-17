@@ -1,1 +1,1 @@
-var mnemonic = "adult undo coil maximum fresh orange dust shield enough drift devote speak";
+var mnemonic = "barely brand hidden merry setup duck explain spice place drama bless ritual";

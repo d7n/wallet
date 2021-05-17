@@ -1,1 +1,1 @@
-var mnemonic = "juice seed town avocado ripple open prosper retire tribe alcohol uniform bar";
+var mnemonic = "decline stage genuine garage tape holiday kitchen undo legend ship next dizzy";

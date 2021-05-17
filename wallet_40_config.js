@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow identify ship gift supply patch scare oval large youth gossip drop";
+var mnemonic = "edge ability depth cause vacant body much window increase govern express squeeze";
