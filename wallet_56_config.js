@@ -1,1 +1,1 @@
-var mnemonic = "also movie main pony library action dilemma neither silly toe amount walnut";
+var mnemonic = "uphold pizza promote guess devote monitor capital question version leave use furnace";

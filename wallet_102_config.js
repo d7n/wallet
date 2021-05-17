@@ -1,1 +1,1 @@
-var mnemonic = "gas spin sing cheap crouch corn survey mandate region onion now dash";
+var mnemonic = "void bench flock right dune lizard strike earn winter lunar fix size";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard fever future thing neck chest mad nature shove wife erupt endless";
+var mnemonic = "scrub napkin journey sea awesome festival teach merry luggage net much base";

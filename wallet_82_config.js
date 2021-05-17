@@ -1,1 +1,1 @@
-var mnemonic = "borrow echo about slide fetch allow jar vault please weasel alarm general";
+var mnemonic = "senior economy script soft wrong sustain pepper device palm inject under hero";

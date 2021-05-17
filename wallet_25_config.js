@@ -1,1 +1,1 @@
-var mnemonic = "carpet donkey fiction any tag few mobile flock fence rabbit chat cash";
+var mnemonic = "deposit sock segment lounge eagle differ toddler expose region vote tent smooth";

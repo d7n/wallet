@@ -1,1 +1,1 @@
-var mnemonic = "limit general interest observe critic employ impulse salad garage method manual thing";
+var mnemonic = "project hobby warrior museum want powder magnet romance bamboo muscle real life";

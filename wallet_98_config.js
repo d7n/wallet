@@ -1,1 +1,1 @@
-var mnemonic = "antique outer exercise glimpse claw bomb much wine cluster sign room select";
+var mnemonic = "coil wedding mosquito grain reform galaxy shiver dish screen fat crawl joy";

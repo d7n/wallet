@@ -1,1 +1,1 @@
-var mnemonic = "half awake member lunch travel buyer rapid license ginger advance cabbage ball";
+var mnemonic = "gold boss gentle smooth satisfy canyon alter evidence muffin buzz assume arena";

@@ -1,1 +1,1 @@
-var mnemonic = "doll absorb wealth enough pudding simple jealous poverty shop riot remove length";
+var mnemonic = "afford grace owner farm shrimp video empower menu motion focus salt conduct";

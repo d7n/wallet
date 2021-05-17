@@ -1,1 +1,1 @@
-var mnemonic = "process tank cat humble chimney pluck hobby cliff arch win museum sentence";
+var mnemonic = "nothing genius wrist detail staff battle length venue drum soon funny spot";

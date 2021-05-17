@@ -1,1 +1,1 @@
-var mnemonic = "noble trade carry enrich slab attend name beauty like banner burst glance";
+var mnemonic = "artwork odor always concert purse casino powder verify glory will grid antique";

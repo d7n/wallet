@@ -1,1 +1,1 @@
-var mnemonic = "point border festival two hover kitchen rather marine seat into initial rough";
+var mnemonic = "broken useful rail main mango spirit jazz ribbon life bus toward sniff";

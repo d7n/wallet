@@ -1,1 +1,1 @@
-var mnemonic = "tray museum rubber board noodle rug person ostrich brown arena major hip";
+var mnemonic = "huge awkward ostrich ask original economy embrace grass festival resource vacant vapor";

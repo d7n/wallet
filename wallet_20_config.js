@@ -1,1 +1,1 @@
-var mnemonic = "inside memory grass first scale hint wool flavor boy tooth glue gasp";
+var mnemonic = "luggage describe humble outer law process slender private amazing lend require tissue";

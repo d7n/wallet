@@ -1,1 +1,1 @@
-var mnemonic = "twelve runway hello spray photo puppy slide ankle jazz erosion manual north";
+var mnemonic = "canvas isolate sunset bachelor ticket fiction whale drip magnet basket public grass";

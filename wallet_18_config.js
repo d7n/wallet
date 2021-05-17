@@ -1,1 +1,1 @@
-var mnemonic = "either then near mushroom wear cost idea gravity minute mansion canoe plug";
+var mnemonic = "draft misery camp trumpet combine fetch hint core casual ahead museum river";

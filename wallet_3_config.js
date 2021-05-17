@@ -1,1 +1,1 @@
-var mnemonic = "apple course glory because wreck security helmet strike album century piano obtain";
+var mnemonic = "divide broken phone nasty diagram shrimp duck husband digital laundry sight anchor";

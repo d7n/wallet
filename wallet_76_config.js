@@ -1,1 +1,1 @@
-var mnemonic = "tray relax used veteran faint orbit oval keen country spare mistake dry";
+var mnemonic = "enter start hand miss crack fatal tonight gauge garlic quit flash dance";

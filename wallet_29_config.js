@@ -1,1 +1,1 @@
-var mnemonic = "win hamster anger magic twin uncle diesel umbrella choose manage icon poet";
+var mnemonic = "emerge jacket satisfy disorder false amateur ugly car copper come buyer man";

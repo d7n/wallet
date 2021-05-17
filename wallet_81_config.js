@@ -1,1 +1,1 @@
-var mnemonic = "column ribbon math method green birth negative follow cloud idea over august";
+var mnemonic = "someone lazy venue employ kit modify agree air anger lobster battle episode";

@@ -1,1 +1,1 @@
-var mnemonic = "hold excuse dry trigger ask parrot skate dove simple immune device bitter";
+var mnemonic = "benefit slam parrot earth dignity avoid tip suffer rug wide wheat orbit";

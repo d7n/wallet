@@ -1,1 +1,1 @@
-var mnemonic = "rookie title crisp drum trumpet like later virtual chalk shoe there drive";
+var mnemonic = "hobby flame reward armor rabbit ripple sing law seven gentle stomach hover";

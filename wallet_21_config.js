@@ -1,1 +1,1 @@
-var mnemonic = "fossil pistol report chalk turkey lens veteran wheat crisp yard enforce tube";
+var mnemonic = "pyramid garden excuse fluid village entry index banner elegant matter output require";

@@ -1,1 +1,1 @@
-var mnemonic = "shy history front earth elder crane enough crunch mouse drum slice economy";
+var mnemonic = "excess sunny truly cigar ghost choice wealth dove law another next drama";

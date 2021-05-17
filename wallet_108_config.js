@@ -1,1 +1,1 @@
-var mnemonic = "element belt gesture fantasy camera bleak pig lion junior remain idea mammal";
+var mnemonic = "sell canyon where sound sweet brave squirrel curious game rapid memory spell";

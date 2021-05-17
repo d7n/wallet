@@ -1,1 +1,1 @@
-var mnemonic = "patrol sausage trial farm convince earn claim plug caution ginger theme open";
+var mnemonic = "wreck cattle original angle feed harsh employ news meadow harsh next breeze";

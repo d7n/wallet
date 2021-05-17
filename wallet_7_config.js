@@ -1,1 +1,1 @@
-var mnemonic = "wild olive skirt boy trim board quarter husband leg climb legend surround";
+var mnemonic = "vendor immune web dizzy genre saddle swing tumble farm hundred inflict hope";

@@ -1,1 +1,1 @@
-var mnemonic = "age machine split match inmate act once hundred human obey grant cinnamon";
+var mnemonic = "dinosaur supply argue energy sea antenna brick odor live lunar accuse minor";

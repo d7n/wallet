@@ -1,1 +1,1 @@
-var mnemonic = "venture gadget drum bleak knee slush lab funny gun axis segment crucial";
+var mnemonic = "traffic hint chair cheese sniff history weapon blossom material object marble abandon";

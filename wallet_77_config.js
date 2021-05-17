@@ -1,1 +1,1 @@
-var mnemonic = "genre sense split open plug case print brand outside floor reduce escape";
+var mnemonic = "pass coil stadium hill learn snow antique improve cage hair loop speed";

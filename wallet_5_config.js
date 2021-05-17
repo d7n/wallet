@@ -1,1 +1,1 @@
-var mnemonic = "decline floor citizen truck future victory buzz blush crowd fee satisfy quote";
+var mnemonic = "rib village fluid pilot marble rail glow spread nasty carpet erode arrow";

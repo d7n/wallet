@@ -1,1 +1,1 @@
-var mnemonic = "violin floor choice wrestle own faith tag strong approve stone nose knife";
+var mnemonic = "increase minute excite item lunch health weird talent rail solution guide tray";

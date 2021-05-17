@@ -1,1 +1,1 @@
-var mnemonic = "chunk quality isolate orange quantum sell token boss surprise avoid tornado goose";
+var mnemonic = "crack city actual agent twist dentist intact sad thunder elbow sport involve";

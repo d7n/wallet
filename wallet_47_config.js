@@ -1,1 +1,1 @@
-var mnemonic = "top mosquito nice syrup mesh venture chat daring wave bless basic limit";
+var mnemonic = "mirror improve poet lend brave will skate machine pause that equal because";

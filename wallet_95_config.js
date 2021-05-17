@@ -1,1 +1,1 @@
-var mnemonic = "man opera check fortune want obey canoe view spice tag until myth";
+var mnemonic = "float spare silent anchor pill plug firm transfer room core chest expect";

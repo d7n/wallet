@@ -1,1 +1,1 @@
-var mnemonic = "predict uphold life mouse symbol song vast alter sing knock goose expire";
+var mnemonic = "summer accident face auction fever reunion flash zoo sudden crack van skull";

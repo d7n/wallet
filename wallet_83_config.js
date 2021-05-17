@@ -1,1 +1,1 @@
-var mnemonic = "answer snake settle page tell lucky endorse improve wheel stable swamp moral";
+var mnemonic = "plastic above animal area maximum analyst address paddle nerve mountain enough sport";

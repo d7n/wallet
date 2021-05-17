@@ -1,1 +1,1 @@
-var mnemonic = "flower pitch guilt island focus piano corn crystal seminar solar broken afford";
+var mnemonic = "parade foil later movie wet document pigeon kind lumber sort pledge public";

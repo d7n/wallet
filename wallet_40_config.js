@@ -1,1 +1,1 @@
-var mnemonic = "tackle side castle card forest trophy reject captain test flush leg invest";
+var mnemonic = "junk similar quantum glue panda book harsh guard glass dog price beyond";

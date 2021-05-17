@@ -1,1 +1,1 @@
-var mnemonic = "lobster palace core fragile traffic swift speak donor play crystal lyrics tribe";
+var mnemonic = "leave glimpse fluid evidence all express february script sell isolate punch cereal";

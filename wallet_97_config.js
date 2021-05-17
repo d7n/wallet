@@ -1,1 +1,1 @@
-var mnemonic = "flee diesel buddy february always cupboard flower add syrup project orbit retreat";
+var mnemonic = "heavy armor grain dice opera theory always relief enemy amateur defense soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit harsh leopard similar dress peasant fetch fee culture aim dilemma trim";
+var mnemonic = "castle audit retreat buzz physical suit together fish mad water coyote divert";

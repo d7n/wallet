@@ -1,1 +1,1 @@
-var mnemonic = "bus wish penalty buffalo brief company sad antenna mother tobacco forum reform";
+var mnemonic = "team until tennis hill fold material shell bunker unusual rule essence stable";

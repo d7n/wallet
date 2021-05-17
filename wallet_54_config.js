@@ -1,1 +1,1 @@
-var mnemonic = "birth barely mixture erosion brown strike uphold hood novel wreck exile caught";
+var mnemonic = "virtual target aisle utility faint move picnic rubber obvious pyramid favorite execute";

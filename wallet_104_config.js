@@ -1,1 +1,1 @@
-var mnemonic = "oyster general rocket prepare remember work friend north gallery erupt credit giraffe";
+var mnemonic = "curtain doll danger fiber miss bubble excite group execute shrug guard random";

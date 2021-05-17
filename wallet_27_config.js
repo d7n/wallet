@@ -1,1 +1,1 @@
-var mnemonic = "ride stone milk diesel loyal define fan document mix argue segment oven";
+var mnemonic = "helmet unfold regret balance erase soul excess combine deliver large echo renew";

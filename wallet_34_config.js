@@ -1,1 +1,1 @@
-var mnemonic = "win volcano culture immune rocket autumn sorry flee height census small position";
+var mnemonic = "pen loan muffin increase basket south when mother veteran chair famous repeat";

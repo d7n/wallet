@@ -1,1 +1,1 @@
-var mnemonic = "gloom consider ahead drift wait expect find close pet screen thank nation";
+var mnemonic = "nephew head chunk stem trust tool sponsor bridge blast kind clarify long";

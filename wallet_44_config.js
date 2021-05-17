@@ -1,1 +1,1 @@
-var mnemonic = "phrase knee convince bamboo breeze remain slot kitchen ridge often output dinosaur";
+var mnemonic = "fat bottom sample tone faint paddle stool sign grid worth swim source";

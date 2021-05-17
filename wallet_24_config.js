@@ -1,1 +1,1 @@
-var mnemonic = "help check toy snake ancient unveil present drive music solution tomato scrub";
+var mnemonic = "topple giraffe spray lock spy gossip flag kind month benefit find book";

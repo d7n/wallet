@@ -1,1 +1,1 @@
-var mnemonic = "argue vanish foster youth topple width aerobic idle oval amateur clap border";
+var mnemonic = "kid loop visual wear timber cheap build toast rely sauce tiger please";

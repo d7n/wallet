@@ -1,1 +1,1 @@
-var mnemonic = "split tide chunk stereo double woman auction gauge doctor mountain property school";
+var mnemonic = "host author initial present original diamond foam trend lake pretty enact deny";

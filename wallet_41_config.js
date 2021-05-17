@@ -1,1 +1,1 @@
-var mnemonic = "year faculty situate wisdom champion increase curtain consider common fall shine woman";
+var mnemonic = "peasant intact civil chief disorder wreck arrange fruit setup radar digital dinosaur";

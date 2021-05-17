@@ -1,1 +1,1 @@
-var mnemonic = "position page burden bounce soft labor riot traffic utility wall chest claim";
+var mnemonic = "dial injury pottery evoke century copper nation drastic mail act interest brand";

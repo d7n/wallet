@@ -1,1 +1,1 @@
-var mnemonic = "guard jealous make believe ring thumb system bundle hollow joy husband shed";
+var mnemonic = "bronze gentle tag fish horror suit army chimney legend life unhappy ice";

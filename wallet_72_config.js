@@ -1,1 +1,1 @@
-var mnemonic = "ecology initial later hard aware thunder doctor wide trip small shed client";
+var mnemonic = "rely van umbrella now someone small derive wink sunny stuff simple caution";

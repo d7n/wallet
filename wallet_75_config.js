@@ -1,1 +1,1 @@
-var mnemonic = "bacon say aim fossil spare level brief bounce item bamboo maple fossil";
+var mnemonic = "approve brush pipe rural vague evolve pioneer wrestle insect slam fiscal choose";

@@ -1,1 +1,1 @@
-var mnemonic = "surround join rhythm denial dumb pond rain oak initial witness duck solve";
+var mnemonic = "help tower crush visit either cable adapt start face steak patrol defy";

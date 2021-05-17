@@ -1,1 +1,1 @@
-var mnemonic = "tennis duck domain guide donkey solve switch outer width visit company kit";
+var mnemonic = "army saddle artefact alone dial jealous seminar useless clump sorry advice exile";

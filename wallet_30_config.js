@@ -1,1 +1,1 @@
-var mnemonic = "solve quit awkward funny dice twin rather cool use music raccoon bullet";
+var mnemonic = "remember electric museum chest resemble oppose buddy grass guilt worth alone maid";

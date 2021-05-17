@@ -1,1 +1,1 @@
-var mnemonic = "trend cart what nature situate child guitar text october lecture comfort notable";
+var mnemonic = "cloud learn pyramid kick peasant bone emotion chaos custom electric praise gospel";

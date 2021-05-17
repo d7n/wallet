@@ -1,1 +1,1 @@
-var mnemonic = "swarm census brief popular quote key fine garden wide venture wage author";
+var mnemonic = "youth inflict direct slim umbrella flee target tone demise swallow left area";

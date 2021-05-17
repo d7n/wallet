@@ -1,1 +1,1 @@
-var mnemonic = "inflict pony music praise witness advance wife birth scrub grab human day";
+var mnemonic = "claw kitten intact various album auto law laugh frost mule meadow warm";

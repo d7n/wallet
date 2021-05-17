@@ -1,1 +1,1 @@
-var mnemonic = "obey inherit fly control acid polar captain blouse science stamp beach lemon";
+var mnemonic = "bulb ski midnight vintage velvet convince alter novel segment desert armor high";

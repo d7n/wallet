@@ -1,1 +1,1 @@
-var mnemonic = "glass hen exile humor buzz there meat short equip useless toy patient";
+var mnemonic = "speak material toddler exhaust only upper early ride short output erosion wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "image where farm library latin arrive hole turtle submit present engage sorry";
+var mnemonic = "flight jar same aerobic era south luggage ranch embrace grid word cricket";

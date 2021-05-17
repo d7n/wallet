@@ -1,1 +1,1 @@
-var mnemonic = "eternal enhance actress unveil about phrase jacket better happy salmon drift rescue";
+var mnemonic = "slice primary very empty magic floor change medal rule join morning that";

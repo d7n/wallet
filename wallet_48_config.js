@@ -1,1 +1,1 @@
-var mnemonic = "aim section inch palm insect beauty feature capable post cattle setup sail";
+var mnemonic = "silent burger sudden noble noble ozone improve soap sight eternal divert garden";

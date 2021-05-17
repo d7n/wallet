@@ -1,1 +1,1 @@
-var mnemonic = "fat episode siren dream funny climb reform casual piano already stage vote";
+var mnemonic = "seminar erase clip perfect pizza sound area tip broken remain modify brass";

@@ -1,1 +1,1 @@
-var mnemonic = "donor royal damp fix deputy spawn zebra monster hurry suit runway wall";
+var mnemonic = "load hour join amused siege only entire biology project maximum uphold miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal critic wolf trip gasp lawsuit arrest mosquito know picture brown pupil";
+var mnemonic = "hurdle lady soldier tired imitate cargo such lava oxygen run inquiry wool";

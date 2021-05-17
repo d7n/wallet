@@ -1,1 +1,1 @@
-var mnemonic = "ugly grape resist volcano wrong gas among thunder real hobby slogan fury";
+var mnemonic = "broccoli raven tree task solid plunge crisp heart pluck puzzle about biology";

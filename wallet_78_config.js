@@ -1,1 +1,1 @@
-var mnemonic = "hour exercise spin fiscal member shed head hen cement unhappy silver brand";
+var mnemonic = "disorder oven nominee like anxiety million carry jeans client despair angry glad";

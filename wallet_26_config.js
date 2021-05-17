@@ -1,1 +1,1 @@
-var mnemonic = "cupboard exact trial ready business camera pull witness top spawn spell health";
+var mnemonic = "eye away harsh comfort crucial window slush dose path heavy woman come";

@@ -1,1 +1,1 @@
-var mnemonic = "denial raccoon radio dove tomato belt advice hidden evil sight eye taste";
+var mnemonic = "yard summer sugar fruit try crawl velvet profit palm exhaust safe dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "clever until off liberty guitar impulse side ecology umbrella rally winter enjoy";
+var mnemonic = "train join blast eternal mango stone aerobic pledge brain large north emotion";

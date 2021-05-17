@@ -1,1 +1,1 @@
-var mnemonic = "father never movie shed thought various mule tool wall year walnut deliver";
+var mnemonic = "result conduct smoke lonely edit yellow oak image mechanic matter prize catalog";

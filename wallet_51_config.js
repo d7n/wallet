@@ -1,1 +1,1 @@
-var mnemonic = "demand again erosion among client knee text steel put sound october actual";
+var mnemonic = "eternal south version merge under agent awake master hazard clutch crime answer";

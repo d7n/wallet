@@ -1,1 +1,1 @@
-var mnemonic = "quote comic acquire shrug luggage insane fabric hawk must unveil stomach kiss";
+var mnemonic = "village innocent cram ring collect garage message vacuum crystal situate spray innocent";

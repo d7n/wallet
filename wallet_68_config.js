@@ -1,1 +1,1 @@
-var mnemonic = "spin unknown canvas error swim heavy awake garden soft finish skill ginger";
+var mnemonic = "remain chaos scare father pepper term napkin few broccoli spin few dwarf";

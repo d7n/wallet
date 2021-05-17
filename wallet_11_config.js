@@ -1,1 +1,1 @@
-var mnemonic = "swallow vintage will uphold toe home assume silly hen snow chronic weird";
+var mnemonic = "net table flower coin frame host unfold invite alone act patient column";

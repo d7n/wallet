@@ -1,1 +1,1 @@
-var mnemonic = "comfort mimic virus canoe crew vast zero joy fiction debate forum fish";
+var mnemonic = "assume pride math envelope ice knee tuna rack subject suggest ginger bus";

@@ -1,1 +1,1 @@
-var mnemonic = "initial month hip fluid original palace wood urban barrel wet exhaust mobile";
+var mnemonic = "milk dentist chest defy special badge half tenant angle attitude junior cushion";

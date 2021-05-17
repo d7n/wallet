@@ -1,1 +1,1 @@
-var mnemonic = "cute leaf need banana quit garbage ride brave vessel segment walk hill";
+var mnemonic = "away kid purse like suggest okay offer answer vapor cat people silver";

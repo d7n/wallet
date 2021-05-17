@@ -1,1 +1,1 @@
-var mnemonic = "put current nurse impulse rule crazy snap response truck travel mimic trick";
+var mnemonic = "about cabin club knife vote same raw can paper board animal soon";

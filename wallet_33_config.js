@@ -1,1 +1,1 @@
-var mnemonic = "kite deposit addict lake violin sense ecology note become prize glow silk";
+var mnemonic = "until economy ribbon emerge priority behind behind connect tell gas asthma club";

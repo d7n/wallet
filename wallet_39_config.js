@@ -1,1 +1,1 @@
-var mnemonic = "oxygen around cross lottery tuition chest soldier remind tissue stomach cry normal";
+var mnemonic = "behave busy arrive survey swarm long buddy park affair east figure crash";

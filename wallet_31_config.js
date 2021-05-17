@@ -1,1 +1,1 @@
-var mnemonic = "electric dish series engine song that sunny chair half gentle autumn category";
+var mnemonic = "couple about puppy rebuild sail popular calm obscure seven corn horn student";
