@@ -1,1 +1,1 @@
-var mnemonic = "doll property feature put drill asset glow robot assume reveal pause garbage";
+var mnemonic = "tree document jungle wheel print because surprise large depend dynamic muffin black";

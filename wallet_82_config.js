@@ -1,1 +1,1 @@
-var mnemonic = "size where tuna dose plastic syrup tired position fossil bus swim cable";
+var mnemonic = "radio thing cool unable loyal reject borrow learn diary predict other jump";

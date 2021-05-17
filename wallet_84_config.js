@@ -1,1 +1,1 @@
-var mnemonic = "spell seven gossip want shallow absorb walk pigeon street burger lawn venture";
+var mnemonic = "certain bike cycle ecology size sauce area afford dice art mushroom occur";

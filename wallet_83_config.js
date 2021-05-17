@@ -1,1 +1,1 @@
-var mnemonic = "quarter three check once black suit december feel punch clinic scrap omit";
+var mnemonic = "perfect pistol denial grant notable such vessel occur obscure pig thrive circle";

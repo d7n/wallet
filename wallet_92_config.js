@@ -1,1 +1,1 @@
-var mnemonic = "jacket train gadget rare appear across unable ignore speed picnic outside fine";
+var mnemonic = "property budget slender unhappy suggest ginger planet play trade provide harbor scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "visa husband year glimpse private satisfy dwarf bomb bracket chapter toast canoe";
+var mnemonic = "rabbit black poet enough river fan install into tape exhaust spike secret";

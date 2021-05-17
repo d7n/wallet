@@ -1,1 +1,1 @@
-var mnemonic = "express sight chapter upset phrase decide fan baby mother castle swear drift";
+var mnemonic = "glue bullet spider sample explain kit winner hockey dash dinosaur better trip";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow fiscal cruel game absent wife wink obtain asset puzzle thrive shy";
+var mnemonic = "speed olympic gold profit arena panic tide critic matrix achieve laptop welcome";

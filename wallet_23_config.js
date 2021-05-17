@@ -1,1 +1,1 @@
-var mnemonic = "waste glance pride weekend oppose region runway monkey forest fringe increase correct";
+var mnemonic = "approve sand diamond near rifle book pigeon next hero bicycle lady practice";

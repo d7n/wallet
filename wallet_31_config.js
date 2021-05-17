@@ -1,1 +1,1 @@
-var mnemonic = "monitor general note stumble foam powder pulse cover way life note cherry";
+var mnemonic = "artwork tuition interest turn picnic mail board devote craft frog ask unaware";

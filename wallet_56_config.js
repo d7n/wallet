@@ -1,1 +1,1 @@
-var mnemonic = "job hen dinosaur rubber seed original boost vendor trial head olive country";
+var mnemonic = "endorse love taste mule leopard symbol slim color avoid small dutch machine";

@@ -1,1 +1,1 @@
-var mnemonic = "term friend hub cook nasty hood multiply mail remain crouch absent dismiss";
+var mnemonic = "base surge resemble volume reform mix lottery attract shrug tower armed when";

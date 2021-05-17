@@ -1,1 +1,1 @@
-var mnemonic = "stock today snack above spray mule ribbon right purse parrot under knee";
+var mnemonic = "hunt flip exclude genre trap salad long energy hand load rocket horror";

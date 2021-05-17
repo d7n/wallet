@@ -1,1 +1,1 @@
-var mnemonic = "oil game violin pet wave element collect fire slogan orient fitness embody";
+var mnemonic = "settle weird excess wall wrestle boy item crunch that wrestle plug artwork";

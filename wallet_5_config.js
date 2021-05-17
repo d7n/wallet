@@ -1,1 +1,1 @@
-var mnemonic = "essence pulp satisfy cheap sustain cabbage burger muffin village abstract crop force";
+var mnemonic = "honey key illegal hurt loop disagree host bean lion grab super water";

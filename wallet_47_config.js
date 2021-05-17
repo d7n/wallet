@@ -1,1 +1,1 @@
-var mnemonic = "slim clock series million alert liquid already bar direct snake donkey sing";
+var mnemonic = "digital elder toe pretty train intact about supply occur earth item tool";

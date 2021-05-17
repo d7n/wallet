@@ -1,1 +1,1 @@
-var mnemonic = "casual ketchup tobacco draft cabin north lonely radar idle sister sand luggage";
+var mnemonic = "patient wing avocado cook spend mercy remember they settle neck false concert";

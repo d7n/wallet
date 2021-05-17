@@ -1,1 +1,1 @@
-var mnemonic = "nominee mansion orient table web sunset item cat dose hollow collect puppy";
+var mnemonic = "square truck milk claim excuse noise divorce alpha memory river have same";

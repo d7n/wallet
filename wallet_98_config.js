@@ -1,1 +1,1 @@
-var mnemonic = "until match agree burst mango husband manage sad civil lizard trophy bullet";
+var mnemonic = "stomach detail impact walk copy shock poverty image day soda soup engage";

@@ -1,1 +1,1 @@
-var mnemonic = "very drum north tip mad fox become give right broken roof evidence";
+var mnemonic = "upper track noble gorilla alone dance spring list atom approve choice toward";

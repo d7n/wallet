@@ -1,1 +1,1 @@
-var mnemonic = "wheel hire hamster before bulb close champion abstract transfer disagree ten cupboard";
+var mnemonic = "throw cave squirrel vote anger kitten mesh caution knee sorry again member";

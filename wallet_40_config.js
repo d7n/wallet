@@ -1,1 +1,1 @@
-var mnemonic = "provide wink frown shoot salute alter fancy outer defy olive evil fresh";
+var mnemonic = "plastic camp crowd type soon skirt airport simple online project wise pretty";

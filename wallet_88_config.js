@@ -1,1 +1,1 @@
-var mnemonic = "guilt exercise treat exit blood lend mixed camp gap snow assume flower";
+var mnemonic = "since monitor rare virtual project assault boring yellow spin advice slice train";

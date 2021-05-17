@@ -1,1 +1,1 @@
-var mnemonic = "couple victory agree tragic stuff sight opera trick prize enough february obey";
+var mnemonic = "myth loan unlock still all love dice bar toe club state bread";

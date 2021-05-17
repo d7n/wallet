@@ -1,1 +1,1 @@
-var mnemonic = "juice logic barely say ceiling safe clap radar custom search buyer quiz";
+var mnemonic = "heart crater shell doctor lucky trial steak betray minute network box source";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge cube judge benefit chief ginger pudding express lonely tube cart maximum";
+var mnemonic = "wink fault unfold siren know doll profit cruel desk wealth year fame";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal usual dinosaur shuffle gossip stay hammer opinion radio join rigid biology";
+var mnemonic = "castle weird vast barrel mushroom tank term debate point bone together render";

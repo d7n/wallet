@@ -1,1 +1,1 @@
-var mnemonic = "outdoor heart hen parade parent minimum slender ghost fiction airport nephew drive";
+var mnemonic = "edit juice sign learn require axis green minor alcohol ivory clarify flock";

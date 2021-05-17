@@ -1,1 +1,1 @@
-var mnemonic = "upon glue chicken nephew science hybrid tape garden wear example invite merit";
+var mnemonic = "record square gallery strong laundry lazy athlete lecture that plate unfold charge";

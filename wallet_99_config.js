@@ -1,1 +1,1 @@
-var mnemonic = "you shoot clerk mosquito absorb desert drip edit lake faculty cradle detail";
+var mnemonic = "trend abuse ivory rug proud ribbon sense permit birth decade excuse alien";

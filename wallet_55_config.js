@@ -1,1 +1,1 @@
-var mnemonic = "task friend faculty wear tortoise differ wall fossil churn gas season torch";
+var mnemonic = "retire little shoulder field fresh remind dignity exist code cheese salt notice";

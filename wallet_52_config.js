@@ -1,1 +1,1 @@
-var mnemonic = "practice nose venue hospital barrel police seat nest settle nut mind large";
+var mnemonic = "hill file harbor grant bubble before latin test solution wait wash daughter";

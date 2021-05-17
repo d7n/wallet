@@ -1,1 +1,1 @@
-var mnemonic = "miss regret wisdom human genius rough claw solar uncle acquire large trust";
+var mnemonic = "monster problem finger ostrich screen blast off example border process grab float";

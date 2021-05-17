@@ -1,1 +1,1 @@
-var mnemonic = "scrub crumble banner help mutual liberty wall veteran element charge help bird";
+var mnemonic = "jungle retreat input chest tragic view hazard segment soda capable fox advance";

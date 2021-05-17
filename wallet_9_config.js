@@ -1,1 +1,1 @@
-var mnemonic = "north report april add actress quantum virus claim wide length source run";
+var mnemonic = "nose kidney place clay advice truth economy regret defense simple spider arch";

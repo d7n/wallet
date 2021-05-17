@@ -1,1 +1,1 @@
-var mnemonic = "innocent upper wait grab remain east toe click hamster avocado first cook";
+var mnemonic = "fit follow pistol few panther issue upset gather pause artist whisper insect";

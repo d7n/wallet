@@ -1,1 +1,1 @@
-var mnemonic = "snake describe trend stable genre evil minute cushion dice gun parade story";
+var mnemonic = "panel mind lottery bean gate illegal twice medal arrange yellow core inquiry";

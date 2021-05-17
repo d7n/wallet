@@ -1,1 +1,1 @@
-var mnemonic = "slice organ awesome capital hurry click wagon pride benefit flee artwork royal";
+var mnemonic = "upset mechanic jealous print decide timber door celery defy pottery safe carry";

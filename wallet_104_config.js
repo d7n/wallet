@@ -1,1 +1,1 @@
-var mnemonic = "skin proud syrup face pledge piece drum blanket unlock enlist habit broccoli";
+var mnemonic = "found mom cloud human build buyer road tomorrow comic universe inner elite";

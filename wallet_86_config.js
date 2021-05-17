@@ -1,1 +1,1 @@
-var mnemonic = "spoon friend crime repeat spin siren ancient innocent wrong imitate pottery economy";
+var mnemonic = "plastic report session detail become direct wealth animal scatter sport dignity type";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion great matrix coyote patrol arch very satisfy park idea trigger rotate";
+var mnemonic = "scrub install energy front brief plug muscle race thought slim mouse raise";

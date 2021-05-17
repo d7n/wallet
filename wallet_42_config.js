@@ -1,1 +1,1 @@
-var mnemonic = "dismiss brave rocket share level minor change torch scrub spice inspire advance";
+var mnemonic = "gold distance ketchup sudden orchard kitchen toss skill believe science baby couple";

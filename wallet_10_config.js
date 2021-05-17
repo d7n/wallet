@@ -1,1 +1,1 @@
-var mnemonic = "truly local zebra bounce wealth horror parent ozone purse thunder advance credit";
+var mnemonic = "south amount evil control screen second cereal upon axis glass weasel destroy";

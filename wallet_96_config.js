@@ -1,1 +1,1 @@
-var mnemonic = "range milk intact royal twist luggage faint drip thunder wife output valley";
+var mnemonic = "produce acquire grace alert uncover volume round dismiss either recipe hawk trumpet";

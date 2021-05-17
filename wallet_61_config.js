@@ -1,1 +1,1 @@
-var mnemonic = "mixture nasty auction uncover save surprise toward throw nasty smoke swear meadow";
+var mnemonic = "dirt museum glue frame dry sudden session mention coconut zero loop start";

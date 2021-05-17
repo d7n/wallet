@@ -1,1 +1,1 @@
-var mnemonic = "glow board food fold gold layer glow pink someone because uncover profit";
+var mnemonic = "project supreme great menu debate stamp city electric february second harbor burden";

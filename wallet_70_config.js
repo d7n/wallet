@@ -1,1 +1,1 @@
-var mnemonic = "boy real blame index virtual smoke limit net grocery chase detect liberty";
+var mnemonic = "solve they front media page universe riot very liberty despair feature rescue";

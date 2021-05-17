@@ -1,1 +1,1 @@
-var mnemonic = "seven dizzy flee razor scissors keen soup still another insect shove depend";
+var mnemonic = "degree tree spare sausage age opera learn delay mosquito high simple icon";

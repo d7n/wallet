@@ -1,1 +1,1 @@
-var mnemonic = "insect method please wide guilt solid calm protect tissue tray today swift";
+var mnemonic = "wedding evil burst stable rate base position keen perfect buzz display hat";

@@ -1,1 +1,1 @@
-var mnemonic = "train polar dragon tape begin firm lounge good alley toilet guilt spring";
+var mnemonic = "health half prefer pond fix duty risk thing rapid ladder update lunar";

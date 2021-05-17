@@ -1,1 +1,1 @@
-var mnemonic = "sketch prepare consider million holiday artist drama decline impact garbage tag apology";
+var mnemonic = "pole mystery current bronze repeat fuel garage current awkward mom maze globe";

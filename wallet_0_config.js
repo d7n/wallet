@@ -1,1 +1,1 @@
-var mnemonic = "magnet sell neglect beach club issue amused weapon arctic chief drift flee";
+var mnemonic = "link nice gospel thumb glory skate sail better proof concert this goose";

@@ -1,1 +1,1 @@
-var mnemonic = "verb popular rose asthma avoid junior slim tuna actor fork comic alter";
+var mnemonic = "curious dad edge crop cup pizza enact output limit ocean bubble swamp";

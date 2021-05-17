@@ -1,1 +1,1 @@
-var mnemonic = "blood tone salute drum chimney resource normal hedgehog scorpion carpet moon huge";
+var mnemonic = "reunion wave earn render warrior decorate avoid pelican evidence upgrade view reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "impact hurt tree shield grunt guide audit torch gospel edit mango degree";
+var mnemonic = "audit morning belt topple muffin teach scout burger token biology input weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware goddess face casino pink attract glove review mutual tent moral rocket";
+var mnemonic = "pupil unique visit select one age boost whip undo catalog corn goat";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier weapon execute smooth client wife copy wage gown lonely capable blur";
+var mnemonic = "park cause want hammer swamp melody project citizen belt member quarter wrist";

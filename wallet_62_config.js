@@ -1,1 +1,1 @@
-var mnemonic = "citizen coast wonder expire blanket drastic buzz firm steel height arena gossip";
+var mnemonic = "possible multiply ball embrace unique great fatigue snake anchor east upon decade";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pass project twist weekend cruise essay prison fossil zone off meadow";
+var mnemonic = "industry wrestle sing drama debris absent minimum analyst expose business joke bomb";

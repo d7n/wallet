@@ -1,1 +1,1 @@
-var mnemonic = "truck desert lemon legal radar donate cloth decorate blade sausage power inside";
+var mnemonic = "prepare shock trim dress have stamp wolf blouse peace bamboo net marble";

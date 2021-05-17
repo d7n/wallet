@@ -1,1 +1,1 @@
-var mnemonic = "visit morning mean quiz man cream pistol iron swear merry library soccer";
+var mnemonic = "wet under lunch level extra endorse surface neglect venue punch enemy disagree";

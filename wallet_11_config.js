@@ -1,1 +1,1 @@
-var mnemonic = "diagram verb inhale exclude castle story also panda canvas lift badge lab";
+var mnemonic = "alter brain slogan void mean destroy grow space antique reward push quantum";

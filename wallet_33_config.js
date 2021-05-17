@@ -1,1 +1,1 @@
-var mnemonic = "acquire host pioneer near mother know artefact topple slam process club depart";
+var mnemonic = "gauge joke ladder gesture moon approve cart maid similar ghost sudden pull";

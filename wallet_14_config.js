@@ -1,1 +1,1 @@
-var mnemonic = "mansion humble danger admit please hundred object copper high aisle drift favorite";
+var mnemonic = "elegant pistol reopen chest mammal ready dinner puppy essay camera train ketchup";

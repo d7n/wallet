@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur dawn skin apart taxi match mandate angry lyrics polar arena method";
+var mnemonic = "ancient episode elevator object steak primary duck winner reduce access suggest host";

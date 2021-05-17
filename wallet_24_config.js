@@ -1,1 +1,1 @@
-var mnemonic = "salad hole captain forget member input draft enroll rebel camp junior human";
+var mnemonic = "various view burger sword end learn mango donate anchor staff bomb satisfy";

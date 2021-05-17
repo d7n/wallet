@@ -1,1 +1,1 @@
-var mnemonic = "quit cart half tent pole rhythm aisle symptom marine situate fruit purchase";
+var mnemonic = "comic later upgrade coin skull describe photo arrest quality screen three tree";

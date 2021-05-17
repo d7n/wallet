@@ -1,1 +1,1 @@
-var mnemonic = "grief vacuum copy give option velvet faculty degree grief prevent better gap";
+var mnemonic = "noodle bounce unique second bronze armor chef whale lion tank travel can";

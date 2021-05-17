@@ -1,1 +1,1 @@
-var mnemonic = "measure problem decorate autumn advance churn rather credit board shift face milk";
+var mnemonic = "believe expand bulk capable second guilt oyster high copper swim artwork bring";

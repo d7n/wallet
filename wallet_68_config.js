@@ -1,1 +1,1 @@
-var mnemonic = "april dune wise genius good leaf illegal broom certain meadow alcohol legend";
+var mnemonic = "cruel logic weird program cake turkey toilet dizzy chair project fancy deputy";

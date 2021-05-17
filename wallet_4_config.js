@@ -1,1 +1,1 @@
-var mnemonic = "early brave ready sustain pencil earn federal stove issue tuition resemble consider";
+var mnemonic = "ancient symbol clock east usual friend dream loop wheel engine false diary";

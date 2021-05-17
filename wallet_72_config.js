@@ -1,1 +1,1 @@
-var mnemonic = "sea genre beach ancient ghost abandon mosquito milk enhance come festival hybrid";
+var mnemonic = "park endless bullet math deposit law weekend first melt angle shop timber";

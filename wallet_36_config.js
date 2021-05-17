@@ -1,1 +1,1 @@
-var mnemonic = "swift nut poet once lecture hill silk erosion hover eye often into";
+var mnemonic = "illegal mutual april ill emerge pretty gospel check token estate fix used";

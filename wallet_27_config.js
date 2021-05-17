@@ -1,1 +1,1 @@
-var mnemonic = "loud galaxy used romance debate wait pattern position panda hero such toward";
+var mnemonic = "more yellow zoo bachelor shrimp mountain area hood amateur shine distance lounge";

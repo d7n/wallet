@@ -1,1 +1,1 @@
-var mnemonic = "coach glare rate leader key squirrel equal toilet hotel phrase air raven";
+var mnemonic = "soul odor another oval memory broom crowd hazard fish hole wife bridge";

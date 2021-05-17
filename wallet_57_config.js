@@ -1,1 +1,1 @@
-var mnemonic = "birth lawn error auto blush swift message boss patrol agree south lounge";
+var mnemonic = "swamp alien school argue fox dirt supreme stage thrive palm end level";

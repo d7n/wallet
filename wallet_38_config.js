@@ -1,1 +1,1 @@
-var mnemonic = "property must coyote boss oyster thrive diary polar summer allow supply fat";
+var mnemonic = "absent license brass talent clean receive annual artist venture mixed humor ridge";

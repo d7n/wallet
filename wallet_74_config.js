@@ -1,1 +1,1 @@
-var mnemonic = "trouble always remind tomorrow hover broom transfer sick prevent saddle scan ugly";
+var mnemonic = "raven own minor identify salmon logic quit tongue tiny together result stove";

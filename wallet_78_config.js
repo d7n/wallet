@@ -1,1 +1,1 @@
-var mnemonic = "brother season junk sport season tuition dentist still diamond night seven sight";
+var mnemonic = "conduct snack zoo that ugly error census caution shield pulse rug rack";

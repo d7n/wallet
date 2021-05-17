@@ -1,1 +1,1 @@
-var mnemonic = "large window broken orphan motor ladder apple barely spoil kiwi desert olive";
+var mnemonic = "crop ostrich leave boss slice ozone ostrich distance case bubble motor oak";

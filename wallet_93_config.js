@@ -1,1 +1,1 @@
-var mnemonic = "stock hint advice carpet farm measure someone muscle squirrel neutral soon later";
+var mnemonic = "caution humble salmon glue segment vacant sudden bring confirm measure festival dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "body surface blur injury metal cancel detail dance buffalo acquire elite economy";
+var mnemonic = "mind work cement shift orphan sugar friend angry pause frame comic visual";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle vehicle disagree identify name unit sphere cost farm glide present wear";
+var mnemonic = "drop mobile speak record address raven consider hello blame crowd involve autumn";

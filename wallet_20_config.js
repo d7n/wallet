@@ -1,1 +1,1 @@
-var mnemonic = "embark federal trap infant luggage arrange book tourist room size gap senior";
+var mnemonic = "amused express harbor online aspect item hold decline weekend tornado art elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "atom mammal copper run click swap chapter core silent install final shallow";
+var mnemonic = "benefit artist garbage bronze innocent cousin prison enrich coil junior culture artwork";

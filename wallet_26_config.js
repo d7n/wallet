@@ -1,1 +1,1 @@
-var mnemonic = "race okay bid clay fitness reopen notice car october solve token sun";
+var mnemonic = "neck depth place ethics message explain later crime mad smile stamp unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "spell topple assault test lyrics exact foil umbrella ladder ring neglect endorse";
+var mnemonic = "wrap mosquito dutch crush board rabbit obvious gaze blood equip dish exact";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp south blouse vicious tool guide claim fox sport sport drink leisure";
+var mnemonic = "oval congress birth manual remember index again source distance casino night narrow";

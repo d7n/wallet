@@ -1,1 +1,1 @@
-var mnemonic = "spoil census much inhale spike again total document floor annual stairs drastic";
+var mnemonic = "ill stock turn regret art squirrel disease hero tail letter sting more";

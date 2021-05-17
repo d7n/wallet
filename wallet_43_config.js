@@ -1,1 +1,1 @@
-var mnemonic = "bread try common wrestle absent permit test source gold taxi pizza adjust";
+var mnemonic = "ecology debate spider will borrow orbit man humble talent mango afraid deer";

@@ -1,1 +1,1 @@
-var mnemonic = "coast pledge february summer stock shed praise monkey chest crane rescue buzz";
+var mnemonic = "give mixed chimney mad saddle window vacuum embrace spider theme enrich evoke";

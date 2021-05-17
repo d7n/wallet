@@ -1,1 +1,1 @@
-var mnemonic = "whisper know rose whip flower miracle monkey genre melody embark exercise busy";
+var mnemonic = "upset turtle save rally afford reopen circle kidney erosion gaze chase bless";
