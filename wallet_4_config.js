@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow hidden when output observe bridge judge arrive interest final lumber invite";
+var mnemonic = "athlete man process camera vehicle since pool ten oak pass erase critic";

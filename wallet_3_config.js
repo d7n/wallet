@@ -1,1 +1,1 @@
-var mnemonic = "feel open upgrade shove rally danger charge similar summer scrap consider give";
+var mnemonic = "lens apology december announce afford word hello detect flat purse safe yard";

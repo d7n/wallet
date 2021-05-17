@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spring elephant pilot banana hungry flight hover churn wild gas calm";
+var mnemonic = "disorder various mutual floor reject sample ladder dust category interest crystal cart";

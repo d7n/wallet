@@ -1,1 +1,1 @@
-var mnemonic = "brand violin infant venture wear they negative evidence voyage atom jar uncle";
+var mnemonic = "bread enjoy obvious hello tower embrace stem vivid banana brother update wrong";

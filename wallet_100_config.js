@@ -1,1 +1,1 @@
-var mnemonic = "fly author depart tree chronic start brain great decorate question silk amount";
+var mnemonic = "joke chimney cargo illegal scale clock tiny window miracle side keep side";

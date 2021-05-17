@@ -1,1 +1,1 @@
-var mnemonic = "income fancy pony velvet hedgehog happy job ordinary spider average radio cry";
+var mnemonic = "amateur flush picture busy grid pass main giggle reveal extra tourist other";

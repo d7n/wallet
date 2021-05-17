@@ -1,1 +1,1 @@
-var mnemonic = "elegant mouse exist address cube push toss surprise motion brand evidence brother";
+var mnemonic = "own detail silly ice fun dog embark alpha property spike still beef";

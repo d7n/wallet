@@ -1,1 +1,1 @@
-var mnemonic = "pledge kidney donate envelope hammer ice salt divide nose embrace rookie reform";
+var mnemonic = "keep neglect dutch clean ozone glimpse purchase dream stay upper kangaroo differ";

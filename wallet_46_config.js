@@ -1,1 +1,1 @@
-var mnemonic = "undo misery sell name cost always flock divide pig gentle ribbon sugar";
+var mnemonic = "cycle effort aerobic online theory ethics wrestle neglect afraid boat clock useful";

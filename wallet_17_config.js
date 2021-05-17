@@ -1,1 +1,1 @@
-var mnemonic = "labor lizard blanket easy poet phrase misery exclude dynamic foster winner flat";
+var mnemonic = "enemy valley matrix worry pet super dove useless strike wagon damp interest";

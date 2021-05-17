@@ -1,1 +1,1 @@
-var mnemonic = "uncover nephew april network toss collect indoor number organ carpet agent excuse";
+var mnemonic = "radar lobster program guitar junk bargain six double pyramid license area furnace";

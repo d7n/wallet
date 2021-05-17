@@ -1,1 +1,1 @@
-var mnemonic = "spider blind flavor outside chuckle second soap garment verb history early curtain";
+var mnemonic = "law tiny vicious simple much struggle deny coil master young cereal material";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado usage dress cover slab used venture icon food place such dinner";
+var mnemonic = "tilt pipe ten garden raccoon visit try arrow box tired vital orange";

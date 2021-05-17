@@ -1,1 +1,1 @@
-var mnemonic = "when sleep include concert blouse ladder version person convince fade element market";
+var mnemonic = "tuna stand method thing member segment juice strategy fun slender edge jewel";

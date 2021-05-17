@@ -1,1 +1,1 @@
-var mnemonic = "such best garlic clump scale build boost output minute captain film rubber";
+var mnemonic = "fossil diagram mix since slender pull volume reject nature multiply enemy confirm";

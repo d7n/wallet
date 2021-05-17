@@ -1,1 +1,1 @@
-var mnemonic = "favorite glide panther wife carpet beef rigid champion dinner erupt chunk census";
+var mnemonic = "trick universe magic brown depend bomb victory obtain pulp fury path metal";

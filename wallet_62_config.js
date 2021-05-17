@@ -1,1 +1,1 @@
-var mnemonic = "short million wreck dress grass error frame slab fresh exile castle verify";
+var mnemonic = "drama check cage slice van double blame since join arch decline era";

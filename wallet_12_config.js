@@ -1,1 +1,1 @@
-var mnemonic = "alert glove mask absurd announce margin napkin east shine expect remember detail";
+var mnemonic = "crane barrel spatial brisk gold clarify mule share vicious ozone lake mail";

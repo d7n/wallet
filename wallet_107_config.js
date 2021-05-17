@@ -1,1 +1,1 @@
-var mnemonic = "biology hedgehog custom any churn giggle autumn various glance bargain kit salt";
+var mnemonic = "bus theme tone side dentist square fine dragon lyrics cotton skirt bitter";

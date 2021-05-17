@@ -1,1 +1,1 @@
-var mnemonic = "rely loud olympic brother worry access remove pig guess around pulp abstract";
+var mnemonic = "subject museum old suit heart ski bicycle hurt link truly sorry acoustic";

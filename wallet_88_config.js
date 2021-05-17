@@ -1,1 +1,1 @@
-var mnemonic = "ginger disagree transfer jaguar vivid tooth ugly lumber vote obtain opinion jelly";
+var mnemonic = "voice foam layer honey year forest metal rely mixture target erase toe";

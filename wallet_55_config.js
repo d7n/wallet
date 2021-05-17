@@ -1,1 +1,1 @@
-var mnemonic = "cereal topple total ghost almost awkward drive gather royal provide else right";
+var mnemonic = "hen kite lobster stick situate gloom history hat income legend shy actress";

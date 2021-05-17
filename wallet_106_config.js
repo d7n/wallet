@@ -1,1 +1,1 @@
-var mnemonic = "better lion brand tissue valley vacuum fade piano magnet cliff useful cinnamon";
+var mnemonic = "inflict life oyster original forget cram add funny huge bag slender verify";

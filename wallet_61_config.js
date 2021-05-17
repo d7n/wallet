@@ -1,1 +1,1 @@
-var mnemonic = "hole sweet close knife possible sister autumn short visit decorate clinic sea";
+var mnemonic = "width vacant gun record senior effort main tornado sample offer appear smart";

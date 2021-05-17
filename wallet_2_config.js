@@ -1,1 +1,1 @@
-var mnemonic = "frost audit twin nut produce april such cattle wing table fluid rural";
+var mnemonic = "mushroom slice atom submit ranch dinner wedding edge talk screen now real";

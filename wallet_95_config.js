@@ -1,1 +1,1 @@
-var mnemonic = "analyst double pill giant next fabric tray diamond reward blood network under";
+var mnemonic = "tortoise cereal mansion tattoo balance echo slim speak pyramid addict idle suspect";

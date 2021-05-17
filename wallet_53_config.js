@@ -1,1 +1,1 @@
-var mnemonic = "paddle humor limb sorry season cube educate choose roast demise patrol source";
+var mnemonic = "open forget wheel dawn utility artefact fan magnet crash method become sand";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden donor grocery cherry arctic fold luggage case bread rather shadow obtain";
+var mnemonic = "praise supreme zebra toddler lady spoil sheriff door board vehicle join increase";

@@ -1,1 +1,1 @@
-var mnemonic = "please trash fat dynamic cage return convince chunk above merit lamp magnet";
+var mnemonic = "tired planet master section develop loop finger duck famous cross abstract inmate";

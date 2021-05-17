@@ -1,1 +1,1 @@
-var mnemonic = "sheriff letter risk chest bitter cluster assist ozone cat fence grab diagram";
+var mnemonic = "open ensure poem pyramid love always swarm output afraid lend flee taste";

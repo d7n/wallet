@@ -1,1 +1,1 @@
-var mnemonic = "rhythm drop add warm mercy hand coffee whale talk park number special";
+var mnemonic = "october egg body beach uncle fold coast library april poem because super";

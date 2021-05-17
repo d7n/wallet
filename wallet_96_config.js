@@ -1,1 +1,1 @@
-var mnemonic = "zone deputy before arena develop long prevent tape float visa purpose depend";
+var mnemonic = "phrase journey upper infant silk undo casual taxi peace bring nature swap";

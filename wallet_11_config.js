@@ -1,1 +1,1 @@
-var mnemonic = "symptom unit stem report staff trend torch muscle immune glimpse eager cage";
+var mnemonic = "tissue soup anxiety drop mesh clown twelve broom address worry body gaze";

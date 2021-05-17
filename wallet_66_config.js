@@ -1,1 +1,1 @@
-var mnemonic = "taste option upset divorce use concert amount side anger recall fee example";
+var mnemonic = "absurd wire absurd absurd enrich coffee useful lunch discover near useless manage";

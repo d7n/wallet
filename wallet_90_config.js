@@ -1,1 +1,1 @@
-var mnemonic = "spider holiday pig among ranch violin latin shift loan hidden foot laptop";
+var mnemonic = "negative price ridge palace major garden license stamp brain object drama search";

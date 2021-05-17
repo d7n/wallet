@@ -1,1 +1,1 @@
-var mnemonic = "chaos rude relief search exotic glimpse future turtle group legal because sock";
+var mnemonic = "gloom mimic normal winner base joke melt oblige scissors magic actor bread";

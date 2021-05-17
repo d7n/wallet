@@ -1,1 +1,1 @@
-var mnemonic = "trade wide patient swallow divorce oak average permit goat tube demise hungry";
+var mnemonic = "frown field kiwi banner blind antique virtual company equal spot radio used";

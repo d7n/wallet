@@ -1,1 +1,1 @@
-var mnemonic = "energy battle margin mirror beach fruit monitor bullet oppose scan empty verify";
+var mnemonic = "mass funny prepare weapon dwarf cute purchase casual antique busy mandate able";

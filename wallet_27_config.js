@@ -1,1 +1,1 @@
-var mnemonic = "popular certain misery toss skin remove skirt degree mercy swap laundry series";
+var mnemonic = "immune original concert cage leaf valve voyage remove priority chat club patch";

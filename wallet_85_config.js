@@ -1,1 +1,1 @@
-var mnemonic = "mechanic jungle grab naive angry swift polar input diagram spoon before fury";
+var mnemonic = "sense mad clay rough brush win female vast hundred toe couch loyal";

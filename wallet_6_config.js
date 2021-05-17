@@ -1,1 +1,1 @@
-var mnemonic = "coral tomato laptop carpet little wise cash wear shuffle spend almost quantum";
+var mnemonic = "say hold find room label curious seek stick mesh such season soft";

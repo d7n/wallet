@@ -1,1 +1,1 @@
-var mnemonic = "around tree dinner income tonight sample trigger monster artist mean twelve soap";
+var mnemonic = "grow spread omit potato approve cross affair wine hawk rare undo pilot";

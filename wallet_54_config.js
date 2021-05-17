@@ -1,1 +1,1 @@
-var mnemonic = "olympic hockey deliver snap doctor step eagle rent plug merge language wolf";
+var mnemonic = "exile produce swarm resource bronze suspect bundle country iron topple room copper";

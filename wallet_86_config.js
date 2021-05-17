@@ -1,1 +1,1 @@
-var mnemonic = "car domain since size weird peanut effort shy inch legend wait merit";
+var mnemonic = "move bulk dynamic help away stage misery despair next cry amazing erosion";

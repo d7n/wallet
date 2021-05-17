@@ -1,1 +1,1 @@
-var mnemonic = "penalty vital wave license engine gown possible roof mushroom industry around enjoy";
+var mnemonic = "deliver glare virus tooth element angle chicken cushion armor absorb devote venue";

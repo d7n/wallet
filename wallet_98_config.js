@@ -1,1 +1,1 @@
-var mnemonic = "enrich dad romance staff table review orphan lawn alter grocery away embody";
+var mnemonic = "bulb host bring anchor slot fatal parent quantum fog steel doctor solar";

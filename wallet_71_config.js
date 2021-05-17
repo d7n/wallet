@@ -1,1 +1,1 @@
-var mnemonic = "goddess agree card weasel arrest reduce ring crazy pride together either grow";
+var mnemonic = "fence actual maze sing spider broccoli panther uniform order sting wild also";

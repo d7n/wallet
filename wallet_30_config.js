@@ -1,1 +1,1 @@
-var mnemonic = "surge earth captain venue story gas era weather odor elevator strong clog";
+var mnemonic = "credit tilt awkward panda rent critic turkey run bonus defy panda rare";

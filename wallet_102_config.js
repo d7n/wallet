@@ -1,1 +1,1 @@
-var mnemonic = "seed aunt eagle general insect burden sentence nurse comic velvet ostrich artist";
+var mnemonic = "price arctic first this seed utility sword admit coin amateur decade soap";

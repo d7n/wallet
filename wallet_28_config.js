@@ -1,1 +1,1 @@
-var mnemonic = "bachelor setup range brush clean garment now olympic occur daughter nest local";
+var mnemonic = "pair measure group scene repair sponsor window lobster weekend island attend alley";

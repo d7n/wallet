@@ -1,1 +1,1 @@
-var mnemonic = "nature wrestle space cannon fence away legal this skull doctor ask circle";
+var mnemonic = "property fresh volcano twin front right stand cute shuffle inch bike trend";

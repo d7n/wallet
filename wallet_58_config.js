@@ -1,1 +1,1 @@
-var mnemonic = "spend neglect wrestle post teach uncover thumb lava hospital culture anger sail";
+var mnemonic = "fringe easily impose insane month hawk draft wall denial walk virus job";

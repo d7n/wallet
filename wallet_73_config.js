@@ -1,1 +1,1 @@
-var mnemonic = "identify regular airport strike legal bridge cricket call trend duty behave patrol";
+var mnemonic = "obtain mention monkey chuckle cattle unable curious then glide wing lounge motion";

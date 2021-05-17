@@ -1,1 +1,1 @@
-var mnemonic = "local liberty sad mean state act silver valid guard sentence mercy scale";
+var mnemonic = "resource curtain symbol seek lock trade will frame leopard decade shaft picture";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery wave carbon air neglect suffer aim waste slot bean stay stadium";
+var mnemonic = "bench peasant dream victory galaxy normal ten entry moon scrub forest pretty";

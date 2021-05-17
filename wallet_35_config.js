@@ -1,1 +1,1 @@
-var mnemonic = "silver gym maple share logic speed elephant dismiss exchange trust champion bachelor";
+var mnemonic = "convince skin solve curve state aim measure deny oxygen glimpse shuffle law";

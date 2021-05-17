@@ -1,1 +1,1 @@
-var mnemonic = "clinic silk brass liquid eagle daring voice media history zebra stomach tuna";
+var mnemonic = "long exist jacket whale cycle naive neither woman call smile brisk airport";

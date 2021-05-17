@@ -1,1 +1,1 @@
-var mnemonic = "quote topple saddle scatter angle diet universe crisp stairs thrive permit elder";
+var mnemonic = "immune magic leaf trouble carry advance vacant clock chief cream trap sketch";

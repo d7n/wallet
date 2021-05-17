@@ -1,1 +1,1 @@
-var mnemonic = "hand expire together midnight slide joke paper coil phone snake lumber parrot";
+var mnemonic = "alone broccoli unfair throw zero blind annual recycle ocean stumble around caught";

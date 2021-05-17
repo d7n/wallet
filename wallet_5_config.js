@@ -1,1 +1,1 @@
-var mnemonic = "version surge adapt cat arrange shaft special biology unhappy attend average false";
+var mnemonic = "modify regret primary february hotel census marble pill symptom panel can barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair dove adjust material body neglect oven churn betray muffin pioneer end";
+var mnemonic = "dignity knee result crime picture welcome engine blur black fringe ahead breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "age sea curtain match soul split toe enroll chalk wide prevent oval";
+var mnemonic = "basic metal duty glide meat relax client only survey tenant twist kit";

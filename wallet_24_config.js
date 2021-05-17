@@ -1,1 +1,1 @@
-var mnemonic = "predict cement service moon tribe flower marble disorder ankle festival train mixed";
+var mnemonic = "menu old phone blood defense help dragon inherit test knock behind employ";

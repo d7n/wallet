@@ -1,1 +1,1 @@
-var mnemonic = "demise wire ridge silk stool pipe unfair annual angle air test blade";
+var mnemonic = "review second fee adult jaguar carpet position asset bar audit like base";

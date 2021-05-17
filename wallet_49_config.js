@@ -1,1 +1,1 @@
-var mnemonic = "crumble auction delay lecture runway neutral guess medal expire weasel wear distance";
+var mnemonic = "hole immune table quarter august labor street eight orange isolate inch select";

@@ -1,1 +1,1 @@
-var mnemonic = "mind odor noise ranch soup female apple toe minor random boring omit";
+var mnemonic = "demise weather shallow swap orchard pilot clown sail diesel obvious best blade";

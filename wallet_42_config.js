@@ -1,1 +1,1 @@
-var mnemonic = "kite certain ability scrub salute direct census another figure best tube problem";
+var mnemonic = "primary belt south display neither shop drip absurd myself place loyal capable";

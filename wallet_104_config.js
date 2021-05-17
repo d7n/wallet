@@ -1,1 +1,1 @@
-var mnemonic = "nephew poet insane crisp yard lift any purity account sponsor rare forum";
+var mnemonic = "prison peace hello hard material olympic toddler blossom phrase cage guard scatter";

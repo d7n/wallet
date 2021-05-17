@@ -1,1 +1,1 @@
-var mnemonic = "special detect between cheese horse search width execute crouch rocket display skirt";
+var mnemonic = "water father garage rib media sound gas change alien rely pigeon reflect";

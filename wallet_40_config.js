@@ -1,1 +1,1 @@
-var mnemonic = "coconut ancient gallery bid resemble quote penalty silent crater nerve avocado assume";
+var mnemonic = "whip bicycle sad menu offer then margin donate local mention cage phrase";

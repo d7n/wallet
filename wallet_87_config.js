@@ -1,1 +1,1 @@
-var mnemonic = "state luxury output crime dry quick vacant primary bone civil embark motion";
+var mnemonic = "nest pilot turkey pelican gasp ecology train lizard rare ugly side nurse";

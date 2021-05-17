@@ -1,1 +1,1 @@
-var mnemonic = "prize gun amount input loan day glory boy isolate result farm body";
+var mnemonic = "body hurry sad pistol affair find spend dilemma apple top emotion wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture error shrimp dish mail leave lake fashion improve install follow glass";
+var mnemonic = "hurdle action sibling rabbit shrug noise photo lunar trust make atom alter";

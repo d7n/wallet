@@ -1,1 +1,1 @@
-var mnemonic = "cream camp melt job wrap bridge chimney gloom pepper siege spike juice";
+var mnemonic = "vapor infant depth acid pretty slush cool report ostrich common category engine";

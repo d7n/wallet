@@ -1,1 +1,1 @@
-var mnemonic = "lion rain flee van lion switch mad soon action rigid solid power";
+var mnemonic = "dragon other brisk glove grocery famous used science move parrot pipe monkey";

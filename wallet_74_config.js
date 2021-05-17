@@ -1,1 +1,1 @@
-var mnemonic = "window rent alcohol ginger hat photo connect regular gesture despair sense kite";
+var mnemonic = "upper near blur taxi ability select absent slam acid punch excuse rice";

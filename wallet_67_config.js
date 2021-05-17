@@ -1,1 +1,1 @@
-var mnemonic = "saddle warfare tape sign disorder sure wide morning rabbit brush wheel brave";
+var mnemonic = "season quantum impact glare give sadness girl quit beach rail bird parrot";

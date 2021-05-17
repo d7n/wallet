@@ -1,1 +1,1 @@
-var mnemonic = "inject quote forget visit memory visit issue rabbit velvet spoil pitch harvest";
+var mnemonic = "genius logic youth other stuff green broom media release machine lift extend";

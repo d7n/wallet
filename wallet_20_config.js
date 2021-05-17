@@ -1,1 +1,1 @@
-var mnemonic = "lecture want crazy oil zoo pottery happy uphold liquid myth siege injury";
+var mnemonic = "saddle citizen lamp onion spare churn dizzy stable invest regret shoe any";

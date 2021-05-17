@@ -1,1 +1,1 @@
-var mnemonic = "shine involve twist can century exotic drip blood expose love dumb fit";
+var mnemonic = "yellow ceiling coast jealous history wagon word immense wing hub artefact olympic";

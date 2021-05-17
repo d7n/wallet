@@ -1,1 +1,1 @@
-var mnemonic = "return taste public task siren exhibit gorilla cost six monster glimpse agent";
+var mnemonic = "final parade rate romance honey odor onion wrong stable twice blue tube";

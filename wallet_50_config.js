@@ -1,1 +1,1 @@
-var mnemonic = "cream tape distance purity salmon valve gospel topple picnic title suffer coffee";
+var mnemonic = "film month cupboard wage crime quote anger recipe fly vacant alien excess";

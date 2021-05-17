@@ -1,1 +1,1 @@
-var mnemonic = "derive theory excuse when math rookie spider dwarf walk increase sheriff iron";
+var mnemonic = "kid uncover isolate invest century spray risk silk uniform paper never thank";

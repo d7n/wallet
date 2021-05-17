@@ -1,1 +1,1 @@
-var mnemonic = "merit tobacco kiss ask lend assume lock hazard stereo flash fiber mimic";
+var mnemonic = "piano wave life truth ceiling danger bonus exile bike loan theory body";
