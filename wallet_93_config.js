@@ -1,1 +1,1 @@
-var mnemonic = "chunk crowd about resource shine comfort cupboard unit salute hurdle design dune";
+var mnemonic = "mom fault odor couch mirror hotel wrestle injury sorry recipe crystal artwork";

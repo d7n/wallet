@@ -1,1 +1,1 @@
-var mnemonic = "bulb list market divert odor payment flight tell own angle foster slender";
+var mnemonic = "cave gravity game quarter sick cactus improve comfort save happy emotion hazard";

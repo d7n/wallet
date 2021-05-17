@@ -1,1 +1,1 @@
-var mnemonic = "any cable screen copper start venture ocean laugh bird gold home level";
+var mnemonic = "craft bright liberty steak want kid reject super arena actual bullet shoe";

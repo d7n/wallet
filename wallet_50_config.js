@@ -1,1 +1,1 @@
-var mnemonic = "coach flag tail permit punch cotton flash midnight jaguar cook mother taste";
+var mnemonic = "lyrics enable bonus menu where guard crouch food tray budget endless hedgehog";

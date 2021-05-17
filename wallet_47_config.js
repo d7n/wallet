@@ -1,1 +1,1 @@
-var mnemonic = "label bargain fame stable gate tribe benefit disagree suspect code enemy good";
+var mnemonic = "brisk sausage awkward decrease sustain author barrel industry amused vocal box intact";

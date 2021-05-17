@@ -1,1 +1,1 @@
-var mnemonic = "there mammal man kiwi candy insane student mail defy make zebra trophy";
+var mnemonic = "enter scissors put pumpkin buddy word fiber foam ostrich vague furnace sniff";

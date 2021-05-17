@@ -1,1 +1,1 @@
-var mnemonic = "share have boy water wrist express milk engine ten nurse hammer core";
+var mnemonic = "express label path finger ostrich left lucky comic illness harvest infant together";

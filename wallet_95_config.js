@@ -1,1 +1,1 @@
-var mnemonic = "arctic brand toe spin hospital suspect next rug gesture mirror response maple";
+var mnemonic = "normal ocean damage crack carry shield spread march devote brick swap camp";

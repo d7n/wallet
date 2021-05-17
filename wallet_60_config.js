@@ -1,1 +1,1 @@
-var mnemonic = "sponsor draw spare easy tent knife often foster legend truth visa return";
+var mnemonic = "degree bulk stand nasty harsh hundred deny staff alert cargo tag crack";

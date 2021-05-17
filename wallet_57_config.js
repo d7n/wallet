@@ -1,1 +1,1 @@
-var mnemonic = "must humor cherry occur duty impulse cactus copy fall soap inform earth";
+var mnemonic = "parade wise ecology cost bulb flip source leaf balcony foam split own";

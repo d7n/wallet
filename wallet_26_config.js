@@ -1,1 +1,1 @@
-var mnemonic = "about sock steel humor poverty rural wasp chapter farm world situate enemy";
+var mnemonic = "coconut tragic tag peasant enrich just field rack hedgehog object energy bag";

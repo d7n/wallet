@@ -1,1 +1,1 @@
-var mnemonic = "bulb bid camp arrange robot north hold current wide birth light absurd";
+var mnemonic = "duck draw forward kid miracle wrist fuel patch extra alert puppy either";

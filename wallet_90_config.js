@@ -1,1 +1,1 @@
-var mnemonic = "snow bomb insane useless fall volume edit search menu section relax begin";
+var mnemonic = "siege burden reduce cherry domain fever nice kitten ride intact sphere chicken";

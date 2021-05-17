@@ -1,1 +1,1 @@
-var mnemonic = "notable double divide mountain often problem duty toddler injury nuclear end survey";
+var mnemonic = "then piano away jealous ability island gold achieve gallery hand will wagon";

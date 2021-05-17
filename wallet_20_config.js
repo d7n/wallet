@@ -1,1 +1,1 @@
-var mnemonic = "tilt ready dolphin motion stomach prevent swim boring april cruel plug lecture";
+var mnemonic = "tennis outside tomato brick odor vicious merge demand tube rebel paper aspect";

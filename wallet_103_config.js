@@ -1,1 +1,1 @@
-var mnemonic = "picture destroy owner oxygen keen stone laundry member tortoise home better envelope";
+var mnemonic = "candy ring amazing tonight purse turkey escape wide ride doll urban melody";

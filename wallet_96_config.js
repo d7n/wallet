@@ -1,1 +1,1 @@
-var mnemonic = "wrong labor dry shine fuel morning bonus track border race sleep census";
+var mnemonic = "above raise report dilemma window museum seminar month thing shed scan inherit";

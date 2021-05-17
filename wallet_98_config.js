@@ -1,1 +1,1 @@
-var mnemonic = "affair medal shy rose attend tent sad attract kiwi husband unit rough";
+var mnemonic = "away present diagram connect mistake insane where luggage rain tattoo garage sand";

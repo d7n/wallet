@@ -1,1 +1,1 @@
-var mnemonic = "setup assault clinic flat donate wait sand art express dash eyebrow crowd";
+var mnemonic = "salute athlete express giggle practice mammal more plate churn dragon census miss";

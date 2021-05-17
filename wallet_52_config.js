@@ -1,1 +1,1 @@
-var mnemonic = "obtain stand hero meat script cupboard twist choose note topple shop uncover";
+var mnemonic = "spend woman youth dwarf cruel hover much direct thrive crime top cliff";

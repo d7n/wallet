@@ -1,1 +1,1 @@
-var mnemonic = "harbor pact shift gun picnic pulse absent exhibit sausage improve shrimp business";
+var mnemonic = "miracle bicycle dry tiger explain turn unable ocean pulse whisper shell anchor";

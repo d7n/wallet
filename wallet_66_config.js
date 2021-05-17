@@ -1,1 +1,1 @@
-var mnemonic = "era goddess ball young drink grass story author grace bicycle december foster";
+var mnemonic = "hip fragile drive depart oval chef very oxygen visual muscle solid crawl";

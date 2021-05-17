@@ -1,1 +1,1 @@
-var mnemonic = "gift saddle maze lens spirit ugly sauce tone daring winner fun panther";
+var mnemonic = "kangaroo select lecture urban inner junior champion spoil scene strategy hair rabbit";

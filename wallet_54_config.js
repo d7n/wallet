@@ -1,1 +1,1 @@
-var mnemonic = "inspire camera once embody popular click east surface item fish scatter silver";
+var mnemonic = "sport ride token lobster thank honey caution slide drama shallow detail indicate";

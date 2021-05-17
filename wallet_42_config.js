@@ -1,1 +1,1 @@
-var mnemonic = "into present public violin diagram pupil word custom shove office orient mix";
+var mnemonic = "airport delay match dutch scatter fiscal reject topple remind toast van potato";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy vintage obvious leg spoil police virtual antenna defy stove moment wear";
+var mnemonic = "sample leopard drill amateur recycle summer alter leopard own velvet battle margin";

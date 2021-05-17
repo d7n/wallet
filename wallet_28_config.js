@@ -1,1 +1,1 @@
-var mnemonic = "begin duck inspire frost loyal curve shield mask valid choice hope mesh";
+var mnemonic = "carbon chase burst mountain run same task rough melody away present raven";

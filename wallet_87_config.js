@@ -1,1 +1,1 @@
-var mnemonic = "course fiction steak guitar pear year gospel include walk resemble cage calm";
+var mnemonic = "section talent alley bachelor mountain belt sign two west adjust exercise rebel";

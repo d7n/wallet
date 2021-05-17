@@ -1,1 +1,1 @@
-var mnemonic = "ugly among decorate rubber nominee fork hamster weapon able couch update hire";
+var mnemonic = "hidden trial bleak poem welcome woman thank dose tomato balcony put evidence";

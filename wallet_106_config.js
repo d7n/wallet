@@ -1,1 +1,1 @@
-var mnemonic = "material veteran reform source rescue reopen secret garage toddler basic air stamp";
+var mnemonic = "rail sibling magnet depart birth wealth book crane region one bracket invite";

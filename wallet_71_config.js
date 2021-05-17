@@ -1,1 +1,1 @@
-var mnemonic = "insect raven orange escape canyon sign merit story enroll room glue onion";
+var mnemonic = "index curtain border dentist team always tomorrow method slight canal ethics other";

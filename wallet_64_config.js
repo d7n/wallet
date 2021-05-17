@@ -1,1 +1,1 @@
-var mnemonic = "rebel cradle trophy wide number nominee silly gospel believe reunion unveil hunt";
+var mnemonic = "page gallery wood client marriage elbow thrive hazard eternal saddle adult hedgehog";

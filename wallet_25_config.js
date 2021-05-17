@@ -1,1 +1,1 @@
-var mnemonic = "hold switch clip universe west rich skin hope problem family harvest decide";
+var mnemonic = "swamp consider napkin destroy crane spice crane brisk build garage blade hair";

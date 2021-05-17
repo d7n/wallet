@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow artwork increase sheriff learn gloom blast reject poverty volcano tone essay";
+var mnemonic = "elbow decide become broken lake message vibrant analyst tongue goddess olive top";

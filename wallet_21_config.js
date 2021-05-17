@@ -1,1 +1,1 @@
-var mnemonic = "cheap act drift cloud promote cup surround maple clerk inside sting fix";
+var mnemonic = "year veteran mass electric welcome reveal dynamic small sister armor dirt just";

@@ -1,1 +1,1 @@
-var mnemonic = "caught muscle east claim denial prepare river exclude text child twin goat";
+var mnemonic = "coil quote awkward evoke joke electric cotton always enough giraffe still oblige";

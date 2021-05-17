@@ -1,1 +1,1 @@
-var mnemonic = "clinic crucial borrow almost bubble cement must omit genre fiscal urban curve";
+var mnemonic = "grace twist broccoli enhance swear suffer try achieve update clarify kidney distance";

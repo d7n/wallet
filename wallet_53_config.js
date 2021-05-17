@@ -1,1 +1,1 @@
-var mnemonic = "awkward label uphold blast random winner salad fee only rack today bitter";
+var mnemonic = "please guitar figure grace flat thought rule roof bulk fringe prison bicycle";

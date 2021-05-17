@@ -1,1 +1,1 @@
-var mnemonic = "stereo arrest vast region oil fame great mother roast kitten course board";
+var mnemonic = "cluster rigid brain develop rebel prevent baby vote random owner food laptop";

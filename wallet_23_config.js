@@ -1,1 +1,1 @@
-var mnemonic = "whisper miss cloth shove average glass candy pledge supply decrease token mean";
+var mnemonic = "victory merge trumpet fury romance flock market nature praise wire today rhythm";

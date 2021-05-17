@@ -1,1 +1,1 @@
-var mnemonic = "duty coach climb diesel eyebrow shove ozone kitten panic shiver between urge";
+var mnemonic = "strong derive obtain all addict wood school siren print enable sword dentist";

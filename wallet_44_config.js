@@ -1,1 +1,1 @@
-var mnemonic = "mixture kind loop size bracket mother ozone fold sustain dash enter seven";
+var mnemonic = "narrow brother almost seat stick humor next jewel cigar win hurt blade";

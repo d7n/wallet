@@ -1,1 +1,1 @@
-var mnemonic = "faith priority chief jacket size where box mean penalty skirt wrestle travel";
+var mnemonic = "live alone trend liar tube satoshi filter occur island high wedding drink";

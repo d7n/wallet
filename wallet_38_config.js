@@ -1,1 +1,1 @@
-var mnemonic = "arena dash icon crane column violin coyote prevent summer under ride file";
+var mnemonic = "permit garage rally humble kit hollow trade wire develop law easy myth";

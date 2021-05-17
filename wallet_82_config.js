@@ -1,1 +1,1 @@
-var mnemonic = "happy around try armed gift what history thank speak desk fire rail";
+var mnemonic = "catch resemble chunk glory quote employ govern tail square skirt adapt mountain";

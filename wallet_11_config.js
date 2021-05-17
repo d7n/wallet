@@ -1,1 +1,1 @@
-var mnemonic = "youth grid butter reject purity amateur under mandate mansion adapt puppy people";
+var mnemonic = "pistol shaft bicycle vehicle speed wine radar salt garbage credit story wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "talent absent hover viable oven sad canvas fatigue group glare network thrive";
+var mnemonic = "borrow lumber glide globe gym wrap alone flat peanut music clip busy";

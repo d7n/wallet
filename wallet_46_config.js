@@ -1,1 +1,1 @@
-var mnemonic = "label online end jeans resemble hip swift loan broccoli nurse hurdle ability";
+var mnemonic = "art race lawsuit pipe rotate insect image album message glad symbol eternal";

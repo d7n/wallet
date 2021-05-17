@@ -1,1 +1,1 @@
-var mnemonic = "dune man delay confirm boring reopen spray gym broom erode foot weird";
+var mnemonic = "box bread gasp shock treat stairs same spoon spray much include pen";

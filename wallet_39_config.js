@@ -1,1 +1,1 @@
-var mnemonic = "choice casino float load year project sustain pride wood ordinary fitness taste";
+var mnemonic = "license mixture hedgehog often hen turtle win clock actress put host bullet";

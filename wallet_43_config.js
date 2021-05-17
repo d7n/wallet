@@ -1,1 +1,1 @@
-var mnemonic = "word indicate lab ladder drill worth steel rigid tiger glow aim tired";
+var mnemonic = "repair arena indoor music parade tool report suspect funny churn quick fan";

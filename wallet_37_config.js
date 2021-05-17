@@ -1,1 +1,1 @@
-var mnemonic = "amount cage more close shine weapon zebra unknown hockey moral turn alter";
+var mnemonic = "thunder brass forward clip year lawn garbage whisper minor collect achieve plastic";

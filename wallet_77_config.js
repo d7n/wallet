@@ -1,1 +1,1 @@
-var mnemonic = "cream digital region option correct behind minute silly erosion elevator salad lamp";
+var mnemonic = "radio genuine kidney session loyal maid wrap parrot develop boy purchase coral";

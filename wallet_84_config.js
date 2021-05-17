@@ -1,1 +1,1 @@
-var mnemonic = "festival cigar measure flame erupt sphere switch buzz medal smooth cannon remember";
+var mnemonic = "thank floor soon yellow renew furnace now duck grab conduct gasp taste";

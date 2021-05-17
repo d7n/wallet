@@ -1,1 +1,1 @@
-var mnemonic = "student amateur place napkin erosion scrap move gate blouse marble wealth castle";
+var mnemonic = "wire tenant consider host report custom later cart pulse step evil amateur";

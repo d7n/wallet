@@ -1,1 +1,1 @@
-var mnemonic = "rice silver purpose detail common icon addict consider found monster grain cousin";
+var mnemonic = "print shift tattoo alarm buddy crunch utility impose matter slender super keep";

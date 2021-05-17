@@ -1,1 +1,1 @@
-var mnemonic = "reunion similar body employ senior youth exotic subway enlist amazing cool famous";
+var mnemonic = "journey session yellow wing private ordinary differ amused fluid host lemon make";

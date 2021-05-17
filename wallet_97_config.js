@@ -1,1 +1,1 @@
-var mnemonic = "dutch congress dry ancient modify orange project guitar kit tone scorpion west";
+var mnemonic = "vault job produce fragile animal bind among grunt tomato mistake breeze satoshi";

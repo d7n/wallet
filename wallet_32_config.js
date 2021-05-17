@@ -1,1 +1,1 @@
-var mnemonic = "gorilla acoustic breeze elbow trial lounge shoe moon physical claim mutual inch";
+var mnemonic = "brain repair click latin snow refuse item inside fruit youth ride face";

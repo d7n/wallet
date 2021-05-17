@@ -1,1 +1,1 @@
-var mnemonic = "travel burger story kick main science couch faith stairs whisper mom link";
+var mnemonic = "avoid pioneer used speed mutual purchase echo cargo oven debate wine misery";

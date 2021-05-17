@@ -1,1 +1,1 @@
-var mnemonic = "bulk puzzle argue host final stand notable eternal install clip vehicle speed";
+var mnemonic = "during enough carbon satisfy vendor chuckle leisure aerobic palace audit buddy fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect bunker spirit bundle cannon pull mountain monster stand write multiply clay";
+var mnemonic = "zone shiver pig river famous swamp area nerve spray ribbon oblige boat";

@@ -1,1 +1,1 @@
-var mnemonic = "key chronic fancy chimney live winter tiger judge joke scout bounce sweet";
+var mnemonic = "valve grace system summer wealth front identify chicken aware vintage because stairs";

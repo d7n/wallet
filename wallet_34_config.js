@@ -1,1 +1,1 @@
-var mnemonic = "embody ceiling better want grocery net pudding elbow rival develop impose struggle";
+var mnemonic = "view people help access slender resource monster zero pact fever girl snap";

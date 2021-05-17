@@ -1,1 +1,1 @@
-var mnemonic = "result evil extra long payment occur real undo chase chimney melody bomb";
+var mnemonic = "illness sand mistake day prevent vocal property erode october estate lunch boring";

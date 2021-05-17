@@ -1,1 +1,1 @@
-var mnemonic = "acquire bonus elite next brass february rail deal warm fringe gadget unknown";
+var mnemonic = "vessel sail cash ship fiscal mad beef famous dirt mimic couple rose";

@@ -1,1 +1,1 @@
-var mnemonic = "cheap naive snap tattoo gravity festival address sentence evidence faculty choose obvious";
+var mnemonic = "quarter frame shed dust sunset ankle crucial club mechanic replace panel pepper";

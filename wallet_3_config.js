@@ -1,1 +1,1 @@
-var mnemonic = "glance sad rely then festival diagram tackle age bright stay six disagree";
+var mnemonic = "oyster alarm regular food seat grocery deer warfare purpose staff door regret";

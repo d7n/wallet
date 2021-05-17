@@ -1,1 +1,1 @@
-var mnemonic = "chronic situate annual always midnight sketch label wire wear inquiry over artist";
+var mnemonic = "wagon isolate hope often pair seat leader unique planet flee expect clutch";

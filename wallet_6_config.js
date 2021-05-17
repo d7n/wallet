@@ -1,1 +1,1 @@
-var mnemonic = "merit field depend surge divide glide miss moment pole tornado plug defy";
+var mnemonic = "cinnamon cage mule grape opinion burst tooth hidden around label skull shine";

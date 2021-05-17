@@ -1,1 +1,1 @@
-var mnemonic = "agent online bean style slow practice axis motor group muscle lazy budget";
+var mnemonic = "gather indoor announce start rib machine theory noble eyebrow play retire sausage";

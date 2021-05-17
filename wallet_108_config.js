@@ -1,1 +1,1 @@
-var mnemonic = "hundred hunt grunt grab marriage pause print safe urge ignore wife source";
+var mnemonic = "tone neglect cake write toddler cheap chimney seat wage person ozone output";

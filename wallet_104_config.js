@@ -1,1 +1,1 @@
-var mnemonic = "right canoe diesel erupt absorb lobster pistol exotic screen shop grunt tiny";
+var mnemonic = "thunder comfort love ready town waste notable improve festival trend armor hover";

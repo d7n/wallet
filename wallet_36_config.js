@@ -1,1 +1,1 @@
-var mnemonic = "hunt gravity echo bridge arena toilet gap elegant romance corn length worth";
+var mnemonic = "duty duck animal easily quit egg degree ticket throw bounce gate middle";

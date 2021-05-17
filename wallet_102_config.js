@@ -1,1 +1,1 @@
-var mnemonic = "track coffee frown maze wagon yellow catalog truly magic ankle tilt pink";
+var mnemonic = "duck edge engine tissue hybrid bargain amateur neglect version arm identify toe";

@@ -1,1 +1,1 @@
-var mnemonic = "brown doll badge over tragic ensure culture step seminar news length dog";
+var mnemonic = "monkey gain hundred owner sustain foam arm buddy fiscal jacket master receive";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn turtle have ketchup demise gauge room strong speed elegant express cross";
+var mnemonic = "pig clay gauge zero night water emerge occur defy midnight join ranch";

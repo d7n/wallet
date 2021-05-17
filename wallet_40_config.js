@@ -1,1 +1,1 @@
-var mnemonic = "oyster total top motion alert conduct snake mule volcano judge lava scene";
+var mnemonic = "picnic acquire jeans armed seven demand stay abstract garment exhibit private grow";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare position route fatal private belt right video state negative found isolate";
+var mnemonic = "surround side spare zoo talent speak settle mad hair guitar setup position";

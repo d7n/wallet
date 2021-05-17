@@ -1,1 +1,1 @@
-var mnemonic = "cruel aim during sudden target laptop okay auto depth public gaze time";
+var mnemonic = "extra history parade kingdom found physical zero boss pitch nothing permit bar";

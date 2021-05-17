@@ -1,1 +1,1 @@
-var mnemonic = "unknown slush upper cube jewel aisle music resist sheriff guitar ecology crazy";
+var mnemonic = "doctor foot cricket husband artefact figure hundred sustain foster upper nasty claim";

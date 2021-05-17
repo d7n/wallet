@@ -1,1 +1,1 @@
-var mnemonic = "comfort arrest cute suspect tongue coconut tobacco meat royal write resist typical";
+var mnemonic = "afraid chunk fantasy emotion acid cliff that agent trust more unfair giraffe";

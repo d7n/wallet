@@ -1,1 +1,1 @@
-var mnemonic = "problem adapt chalk flush crush potato fine drastic okay young curtain journey";
+var mnemonic = "dynamic carry valve upset off wrist shop squeeze sunny address can artist";

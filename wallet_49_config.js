@@ -1,1 +1,1 @@
-var mnemonic = "goddess loop fury moment gloom orphan web museum write copy gloom struggle";
+var mnemonic = "agree lecture worth auto canoe judge isolate rent dust chronic result able";

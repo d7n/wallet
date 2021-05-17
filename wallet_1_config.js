@@ -1,1 +1,1 @@
-var mnemonic = "pilot glove ancient digital husband print hurdle nephew home include appear cotton";
+var mnemonic = "level female twice desk biology merge dice shove pause tank pool august";

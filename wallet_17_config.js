@@ -1,1 +1,1 @@
-var mnemonic = "trim sing arch combine mechanic glance ceiling blade habit where today squirrel";
+var mnemonic = "report intact since crater ocean essence purchase visit rude basket recycle shiver";

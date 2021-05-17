@@ -1,1 +1,1 @@
-var mnemonic = "prefer forget thrive depend love treat grid quote long recipe such peace";
+var mnemonic = "surround merry clinic fat addict aunt mouse net gossip dial surround arch";

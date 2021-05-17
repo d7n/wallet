@@ -1,1 +1,1 @@
-var mnemonic = "weekend announce recall then clump antique load slow suggest adjust cool amount";
+var mnemonic = "history valve idle motion change seminar armed easy hen february glare reduce";
