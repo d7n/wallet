@@ -1,1 +1,1 @@
-var mnemonic = "boring jar census increase vital sure kick exit unveil catalog tuna arena";
+var mnemonic = "lemon message beyond pen dilemma illegal dawn jealous harvest head maze manual";

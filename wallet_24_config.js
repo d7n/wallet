@@ -1,1 +1,1 @@
-var mnemonic = "input smart jewel labor also slight educate return olympic fix hotel viable";
+var mnemonic = "uniform ride stairs rebuild elevator excess trial elder later pass narrow hospital";

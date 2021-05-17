@@ -1,1 +1,1 @@
-var mnemonic = "witness pistol salt engage health sunset someone scissors public supply game action";
+var mnemonic = "start sense blouse burger salon critic bike diagram catalog rich pride neutral";

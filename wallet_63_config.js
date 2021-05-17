@@ -1,1 +1,1 @@
-var mnemonic = "giggle cake spray dilemma thrive soul pumpkin edit eyebrow infant lens garment";
+var mnemonic = "guilt else day timber blue galaxy edit smart speak engage dust pudding";

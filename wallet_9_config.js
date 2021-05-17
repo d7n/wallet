@@ -1,1 +1,1 @@
-var mnemonic = "patrol nature mistake essence kingdom often recipe sail airport mixture cupboard auto";
+var mnemonic = "old chapter kiss maze soccer special correct slide wreck chicken agree airport";

@@ -1,1 +1,1 @@
-var mnemonic = "market wool useless glory grief dog repeat print forward memory act learn";
+var mnemonic = "market tape process exact satoshi lamp usage grunt bag brand sustain bachelor";

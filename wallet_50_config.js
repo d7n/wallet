@@ -1,1 +1,1 @@
-var mnemonic = "clown midnight voice trash rug boat sight air over float swarm iron";
+var mnemonic = "spike response cargo spoon social genre detail park tape give mule host";

@@ -1,1 +1,1 @@
-var mnemonic = "yard thunder profit cherry voyage rose pole oval quarter term pause math";
+var mnemonic = "rather flower finish tip venue need adult fun train portion soda legal";

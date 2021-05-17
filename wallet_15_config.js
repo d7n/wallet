@@ -1,1 +1,1 @@
-var mnemonic = "unhappy dynamic spread obscure tent reduce atom network mail fame sock multiply";
+var mnemonic = "produce gossip input solar walnut muffin number cat robot pitch observe palm";

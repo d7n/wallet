@@ -1,1 +1,1 @@
-var mnemonic = "rose vault bind essay october mammal title general scissors flee dash laundry";
+var mnemonic = "kitchen friend mass achieve way tape have faculty top rubber whip cycle";

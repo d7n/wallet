@@ -1,1 +1,1 @@
-var mnemonic = "tonight antique hood before island remember inquiry normal ticket gap perfect crack";
+var mnemonic = "illness fever phone vendor whale march crash topple holiday network wet sponsor";

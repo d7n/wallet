@@ -1,1 +1,1 @@
-var mnemonic = "nothing auto message stumble frog nuclear hover suffer lake stumble clever card";
+var mnemonic = "hard suit track deputy stand custom wasp garden valve survey avoid illegal";

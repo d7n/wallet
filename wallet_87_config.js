@@ -1,1 +1,1 @@
-var mnemonic = "jewel carbon else loan illness today dumb eager sure question there gather";
+var mnemonic = "trade awake urban cereal october learn name false shoe tonight border rabbit";

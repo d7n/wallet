@@ -1,1 +1,1 @@
-var mnemonic = "tired umbrella lawsuit noodle enjoy number capable unveil bulk shove clown banner";
+var mnemonic = "child butter estate seat crater frozen drill express clay chase rigid naive";

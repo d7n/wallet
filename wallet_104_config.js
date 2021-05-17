@@ -1,1 +1,1 @@
-var mnemonic = "cloth army rocket world enough car lunch when night elephant gallery fiction";
+var mnemonic = "cannon issue wing dish chest lottery day ocean walnut success wise cruel";

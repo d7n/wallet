@@ -1,1 +1,1 @@
-var mnemonic = "similar wreck cash uphold kidney bench keep car expect tail bread dry";
+var mnemonic = "border maid icon face please frog involve client cloth option consider torch";

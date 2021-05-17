@@ -1,1 +1,1 @@
-var mnemonic = "all marble moon suit security fancy month grace neglect prepare tornado below";
+var mnemonic = "eternal path runway system twelve shrug jar gaze wing vote bitter one";

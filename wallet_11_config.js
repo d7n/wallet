@@ -1,1 +1,1 @@
-var mnemonic = "cake public maple hollow speak tip blossom such upon shop window ripple";
+var mnemonic = "famous grunt repeat puppy kit protect august engine enroll produce fall green";

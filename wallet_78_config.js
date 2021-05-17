@@ -1,1 +1,1 @@
-var mnemonic = "fluid syrup shock orchard dose park dinner bitter motion fiction broken fish";
+var mnemonic = "parrot embark game clever turkey coconut best property tunnel then winter field";

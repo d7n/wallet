@@ -1,1 +1,1 @@
-var mnemonic = "punch never flame jelly loud motor sad camp opinion mind you pyramid";
+var mnemonic = "degree airport reform rug record you bike car riot stove confirm biology";

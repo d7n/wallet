@@ -1,1 +1,1 @@
-var mnemonic = "stove border grunt setup mother shallow sheriff guard buffalo present example main";
+var mnemonic = "trim measure fashion winter clarify fuel vapor prepare song special evil dial";

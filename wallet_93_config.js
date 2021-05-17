@@ -1,1 +1,1 @@
-var mnemonic = "urban culture foot song tortoise limit one robust poem govern intact room";
+var mnemonic = "neglect away chimney sure nature inject jealous sport fringe nerve industry dismiss";

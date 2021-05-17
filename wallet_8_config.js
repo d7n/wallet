@@ -1,1 +1,1 @@
-var mnemonic = "job foster supply rival lizard medal defy curve duck bless secret maze";
+var mnemonic = "weasel gym cabbage thunder beauty love obvious hundred identify siege weekend second";

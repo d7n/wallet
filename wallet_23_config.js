@@ -1,1 +1,1 @@
-var mnemonic = "hotel wild globe volcano genius cabin skin bundle mechanic drama rich gas";
+var mnemonic = "fog when shift limb churn more soon phone salon tag lemon grace";

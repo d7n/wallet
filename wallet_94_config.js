@@ -1,1 +1,1 @@
-var mnemonic = "cherry rather cattle remain utility agent federal dance front charge crush meadow";
+var mnemonic = "test move assume chunk tower tank list casino almost switch bunker tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "void mistake crime hat dizzy cycle soda beef fortune since result enforce";
+var mnemonic = "rice thank involve brand world pair design force symbol error lock select";

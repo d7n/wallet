@@ -1,1 +1,1 @@
-var mnemonic = "youth cycle conduct marble actual excuse catalog between connect access top void";
+var mnemonic = "father moment ramp soul earth appear swear rain blame absorb spread example";

@@ -1,1 +1,1 @@
-var mnemonic = "work spatial snack business clump frost minimum slab debris motion artefact grace";
+var mnemonic = "wagon very whip favorite mammal away material ethics once borrow glad bar";

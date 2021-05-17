@@ -1,1 +1,1 @@
-var mnemonic = "runway next taxi mutual orchard oppose crime burden celery wash nest sign";
+var mnemonic = "promote viable unfold cushion extend mouse debate disorder nose glow almost remove";

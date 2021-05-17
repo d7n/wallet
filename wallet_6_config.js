@@ -1,1 +1,1 @@
-var mnemonic = "primary cram budget suffer predict dawn aerobic moral butter pioneer shift capable";
+var mnemonic = "poverty must salute else furnace sure sea bean enable family top minute";

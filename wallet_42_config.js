@@ -1,1 +1,1 @@
-var mnemonic = "army silent city afford enact know picture cricket cruel stuff tortoise enable";
+var mnemonic = "august eternal arena become select snake portion abstract again emotion voice report";

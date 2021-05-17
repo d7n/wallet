@@ -1,1 +1,1 @@
-var mnemonic = "fork never width discover decorate response demise future reject enemy shadow speed";
+var mnemonic = "yard unfold skin wash knock face nose desert student baby moment ribbon";

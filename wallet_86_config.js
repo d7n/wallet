@@ -1,1 +1,1 @@
-var mnemonic = "ocean foster pupil train space exhaust venue carpet inhale thank primary payment";
+var mnemonic = "flame worry mixed blind hybrid good until into boss few broken galaxy";

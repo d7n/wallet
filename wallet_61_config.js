@@ -1,1 +1,1 @@
-var mnemonic = "theory soup betray trip mouse style edit cheese farm prefer slogan naive";
+var mnemonic = "bamboo mandate latin horn exile hammer wreck million beauty fragile despair tooth";

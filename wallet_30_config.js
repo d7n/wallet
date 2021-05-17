@@ -1,1 +1,1 @@
-var mnemonic = "series sense invite exact camp cable clap bean gesture retire fire able";
+var mnemonic = "occur team history disorder put ranch knock fade half tape detect alley";

@@ -1,1 +1,1 @@
-var mnemonic = "green delay chef venture moment cherry squeeze first chimney vibrant bacon unhappy";
+var mnemonic = "decade blind music quantum proof transfer amount lock grape fine hedgehog book";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle exit polar mail grocery merge culture wagon desk lottery hospital forest";
+var mnemonic = "enhance noble liberty give recall left interest aisle battle rack vital train";

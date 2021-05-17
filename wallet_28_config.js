@@ -1,1 +1,1 @@
-var mnemonic = "enable mesh canoe bulb forum ritual license grunt since head reduce vintage";
+var mnemonic = "entry lyrics there width quantum denial jump question kangaroo stay chair apple";

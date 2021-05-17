@@ -1,1 +1,1 @@
-var mnemonic = "dwarf camera inmate brass vivid brisk fault judge smile place culture device";
+var mnemonic = "eight shove cover panda gain enact volcano mammal cool uncover sauce inner";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze foil tail time rice wedding cost road sadness slush enrich slide";
+var mnemonic = "odor solution cram gossip write demise multiply mistake guitar pelican spirit coyote";

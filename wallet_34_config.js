@@ -1,1 +1,1 @@
-var mnemonic = "bottom giant know unfold melody require point rabbit episode primary secret parent";
+var mnemonic = "sustain impose prepare cake vintage fetch again fiction control large away sponsor";

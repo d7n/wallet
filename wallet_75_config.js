@@ -1,1 +1,1 @@
-var mnemonic = "list connect bench fiction win evolve horse volume ensure since trick link";
+var mnemonic = "purpose tide bulk tired maple recycle ticket column phrase abuse organ spread";

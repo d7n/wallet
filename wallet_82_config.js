@@ -1,1 +1,1 @@
-var mnemonic = "helmet ability carbon spring appear attack half mammal sheriff legend remind orange";
+var mnemonic = "carbon arrest aunt release elite sponsor joke pole resource sadness aware miracle";

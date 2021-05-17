@@ -1,1 +1,1 @@
-var mnemonic = "toast genius saddle eternal another blouse sense update million decide must other";
+var mnemonic = "trend crop slogan love tiny begin raise civil owner day cute step";

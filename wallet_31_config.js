@@ -1,1 +1,1 @@
-var mnemonic = "razor pitch tuna display upon pattern festival snow figure decrease buffalo curtain";
+var mnemonic = "verb ginger vanish pottery quick genre math must venue desert awkward excess";

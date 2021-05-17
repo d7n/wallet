@@ -1,1 +1,1 @@
-var mnemonic = "news own mammal style mandate patch habit dentist exchange regret gym harsh";
+var mnemonic = "joke minimum cheese person energy ignore ridge good tiger violin quiz craft";

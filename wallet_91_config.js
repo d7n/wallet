@@ -1,1 +1,1 @@
-var mnemonic = "fork brass crunch prison output detail stand scorpion host phone cable another";
+var mnemonic = "detail talk ethics custom seed tortoise bargain hour antique virus cage venue";

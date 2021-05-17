@@ -1,1 +1,1 @@
-var mnemonic = "ugly attend skin exact zoo satoshi climb champion display better acid subway";
+var mnemonic = "pistol achieve smart nerve certain move edit target twist reduce enhance liberty";

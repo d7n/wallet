@@ -1,1 +1,1 @@
-var mnemonic = "scrub anchor top verb normal wool end acid cat item junior finger";
+var mnemonic = "ready stereo clay lizard life width ten lecture divert network room olympic";

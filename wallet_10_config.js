@@ -1,1 +1,1 @@
-var mnemonic = "joke diet protect metal ready mutual unable item ten web during august";
+var mnemonic = "melt purse swamp alien remind join six addict reduce mixed olympic excess";

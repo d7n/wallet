@@ -1,1 +1,1 @@
-var mnemonic = "connect legend pause safe cupboard mirror call reason tag antenna twist scale";
+var mnemonic = "kangaroo dad breeze animal reunion document powder milk shock vapor air leave";

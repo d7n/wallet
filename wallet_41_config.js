@@ -1,1 +1,1 @@
-var mnemonic = "fuel olympic trip wild achieve blind include aunt sentence soft initial blur";
+var mnemonic = "burst animal aunt dumb march valve cube deer palm improve result duty";

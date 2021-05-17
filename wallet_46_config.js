@@ -1,1 +1,1 @@
-var mnemonic = "ticket elbow miracle spawn wire agent brain walnut wasp quality confirm joke";
+var mnemonic = "exile level what area bean spawn slide spirit mechanic crouch burst planet";

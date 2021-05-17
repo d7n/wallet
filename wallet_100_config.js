@@ -1,1 +1,1 @@
-var mnemonic = "index top wing uncle age can victory odor target divert airport jealous";
+var mnemonic = "cattle drift bundle edit high miracle video toilet remain exit normal parade";

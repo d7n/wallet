@@ -1,1 +1,1 @@
-var mnemonic = "company thrive divide point crash genius dinosaur city collect position file zone";
+var mnemonic = "improve fit unhappy stay poem spell ability erupt salute trouble rail equal";

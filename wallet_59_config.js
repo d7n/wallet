@@ -1,1 +1,1 @@
-var mnemonic = "error rival pigeon approve mobile envelope butter tumble order vault predict inspire";
+var mnemonic = "mammal repeat swarm veteran regular swear recipe essence never punch ocean risk";

@@ -1,1 +1,1 @@
-var mnemonic = "false tree grant shaft attitude example rookie merge umbrella view cupboard inhale";
+var mnemonic = "love inhale blue battle teach cash soup echo phrase tent cactus crash";

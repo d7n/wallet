@@ -1,1 +1,1 @@
-var mnemonic = "private number cool cross south frog rocket earn trial eyebrow priority human";
+var mnemonic = "focus adapt balance airport catalog autumn arch chronic ensure service canal tiger";

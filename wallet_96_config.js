@@ -1,1 +1,1 @@
-var mnemonic = "hold torch wrap envelope step crew expire warrior agree salt army north";
+var mnemonic = "job kangaroo error tennis ignore nose supreme protect security include juice level";

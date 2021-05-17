@@ -1,1 +1,1 @@
-var mnemonic = "wood action hold witness salon filter sorry jaguar cloth cook boring gauge";
+var mnemonic = "horn abuse hurt tooth garment jungle deposit pioneer cactus lawn aerobic swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "talent auction season bargain ketchup live bunker disagree endless blind truck two";
+var mnemonic = "judge laugh ostrich during good drink action book arm joke cushion dune";

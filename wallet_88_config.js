@@ -1,1 +1,1 @@
-var mnemonic = "clarify release mango lava mango fruit mutual unknown silent dial coil question";
+var mnemonic = "guitar ozone near ceiling sudden shoe solid weapon invite exact bar focus";

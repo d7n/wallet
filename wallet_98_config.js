@@ -1,1 +1,1 @@
-var mnemonic = "invite avocado subway security sport tank senior math loan beef age critic";
+var mnemonic = "luxury moon badge appear knee energy tell april tissue nephew unlock antique";

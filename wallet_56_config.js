@@ -1,1 +1,1 @@
-var mnemonic = "certain mutual involve gorilla work cake whale drip glimpse state debris wrist";
+var mnemonic = "oak foster agent daughter genre aisle year lock solution twice wagon bulk";

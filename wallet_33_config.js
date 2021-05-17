@@ -1,1 +1,1 @@
-var mnemonic = "fog bounce beyond artist entire below describe quantum holiday solution true faculty";
+var mnemonic = "frost theme body trash bind robust hurdle peanut love stairs excite dash";

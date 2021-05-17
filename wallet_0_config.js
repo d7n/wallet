@@ -1,1 +1,1 @@
-var mnemonic = "margin narrow public husband cycle blanket embrace paddle shaft river just atom";
+var mnemonic = "woman arm proof mention surface device pull split route permit pizza venue";

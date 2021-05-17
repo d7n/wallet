@@ -1,1 +1,1 @@
-var mnemonic = "orbit case can tray riot benefit beef neither deal record fence hole";
+var mnemonic = "palm option install radar talent target trust silly cover fly rough card";

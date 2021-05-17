@@ -1,1 +1,1 @@
-var mnemonic = "rare short reform grant note mom train inform crystal name pond buyer";
+var mnemonic = "lesson merry razor among shrug broccoli want lake neglect clap scrap nominee";

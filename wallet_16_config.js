@@ -1,1 +1,1 @@
-var mnemonic = "dinner siege rate wet gas range govern west olympic fee damp suggest";
+var mnemonic = "goat dignity train example praise diesel measure denial voyage rich catalog thought";

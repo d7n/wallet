@@ -1,1 +1,1 @@
-var mnemonic = "awkward dish stable pattern movie pelican ride traffic wrestle jelly nest number";
+var mnemonic = "primary apart orbit muffin happy inspire plastic business burger brand cattle record";

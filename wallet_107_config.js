@@ -1,1 +1,1 @@
-var mnemonic = "narrow shoulder turtle begin mass loan keen country myth present mammal clog";
+var mnemonic = "decorate lens young dice afraid regular believe silk heavy unhappy rebuild teach";

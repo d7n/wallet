@@ -1,1 +1,1 @@
-var mnemonic = "satoshi forest swing scatter cream trade say table edit segment water skill";
+var mnemonic = "wait allow relax pilot group change pause siren hamster dream insane scare";

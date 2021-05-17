@@ -1,1 +1,1 @@
-var mnemonic = "amused truly wave arm sauce swim eager boil violin fold little topple";
+var mnemonic = "expect destroy joke debris seek fuel welcome edge real ring polar pluck";

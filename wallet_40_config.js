@@ -1,1 +1,1 @@
-var mnemonic = "aisle echo boat because merry exclude direct trash fantasy sword armor health";
+var mnemonic = "disease water transfer coin expire baby multiply play picnic blossom wrist result";

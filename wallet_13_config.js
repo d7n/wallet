@@ -1,1 +1,1 @@
-var mnemonic = "mad hollow dog kiss frown scale ahead paddle what fire legend leg";
+var mnemonic = "page kitchen adult olympic such mercy strike crumble pear useful swarm uphold";

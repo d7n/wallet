@@ -1,1 +1,1 @@
-var mnemonic = "salt seven axis elder kit blade mom betray finger census flight forward";
+var mnemonic = "aspect perfect despair veteran boss suggest crew guard attack wide unknown swim";

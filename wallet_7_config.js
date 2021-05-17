@@ -1,1 +1,1 @@
-var mnemonic = "leader uniform rookie cost trick tool silver solve print tool adjust drink";
+var mnemonic = "medal normal alcohol industry flat bicycle diagram next novel relief lift bronze";

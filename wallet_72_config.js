@@ -1,1 +1,1 @@
-var mnemonic = "marriage able gaze venture pencil wonder recycle senior wasp rabbit meadow fee";
+var mnemonic = "twelve movie tail salmon balcony leader spirit february aspect sausage mixed fuel";

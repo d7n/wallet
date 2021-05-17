@@ -1,1 +1,1 @@
-var mnemonic = "gain very math steak off ankle churn inner quarter mammal wrestle swallow";
+var mnemonic = "race learn reject version message donor solar goose flush miracle immune brother";

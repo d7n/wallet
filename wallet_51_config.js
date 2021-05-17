@@ -1,1 +1,1 @@
-var mnemonic = "strategy menu lamp claim disease enroll text nation rocket bleak truck win";
+var mnemonic = "squeeze frozen maple burden brown inmate time song silk glove kiss night";

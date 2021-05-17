@@ -1,1 +1,1 @@
-var mnemonic = "father quarter change remind soon clap genuine tornado dentist make elder busy";
+var mnemonic = "sauce treat night destroy cram hazard unique need furnace discover sail fun";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage want physical arrest fire biology gallery recipe sentence shrug blind quick";
+var mnemonic = "park express keep work soft access fine flight defense other rookie winter";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue idle wealth card arm evil detect flush enroll reward sustain tube";
+var mnemonic = "enemy hover stadium nerve capable regret laundry day power baby enrich repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "split tray monkey weasel drum oblige boring crucial nose sustain aspect congress";
+var mnemonic = "cricket among phrase sick risk long like identify paddle common sun own";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak vague abuse spider proof present dream stereo supply board lend cage";
+var mnemonic = "cherry excess stomach first leader able gorilla table horn goat fitness lady";

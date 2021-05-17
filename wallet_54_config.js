@@ -1,1 +1,1 @@
-var mnemonic = "truck punch replace asset tiger elevator huge casino lonely alley hour marriage";
+var mnemonic = "treat cabin inspire castle uphold eager buyer shrimp history tobacco welcome circle";

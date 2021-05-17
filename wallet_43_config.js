@@ -1,1 +1,1 @@
-var mnemonic = "rebel crystal speed seminar wagon skin bonus winter myth elegant farm helmet";
+var mnemonic = "salon video voyage outside acoustic cricket end clown fresh hunt clarify item";

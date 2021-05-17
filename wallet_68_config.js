@@ -1,1 +1,1 @@
-var mnemonic = "material verb oval easy help provide gift robot talk glimpse word course";
+var mnemonic = "garment smooth nature mystery salute series famous journey illness valley then upper";

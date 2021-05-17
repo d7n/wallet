@@ -1,1 +1,1 @@
-var mnemonic = "rocket apple coach dizzy drum solid audit robust idea olympic student enforce";
+var mnemonic = "region rural what swear protect series pact tomato device uncover divert alcohol";

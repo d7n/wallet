@@ -1,1 +1,1 @@
-var mnemonic = "portion summer ball punch federal make rough approve iron grain pizza identify";
+var mnemonic = "slight ozone retreat polar badge cement cereal clap thunder wrist miss laundry";

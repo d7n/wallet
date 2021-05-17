@@ -1,1 +1,1 @@
-var mnemonic = "umbrella million glimpse mind struggle track famous tuna transfer will usage vanish";
+var mnemonic = "blossom just doll victory anxiety never upgrade quick uniform vacant stone defy";
