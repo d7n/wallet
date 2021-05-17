@@ -1,1 +1,1 @@
-var mnemonic = "art race lawsuit pipe rotate insect image album message glad symbol eternal";
+var mnemonic = "bag push scrap hurdle situate short capable expire year spin flash ski";

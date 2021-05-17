@@ -1,1 +1,1 @@
-var mnemonic = "candy ring amazing tonight purse turkey escape wide ride doll urban melody";
+var mnemonic = "cup excuse pioneer pelican urge wealth conduct member reflect struggle purchase govern";

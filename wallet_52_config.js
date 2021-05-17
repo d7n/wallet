@@ -1,1 +1,1 @@
-var mnemonic = "spend woman youth dwarf cruel hover much direct thrive crime top cliff";
+var mnemonic = "chaos among desk response make roof embrace hungry subject radio more scout";

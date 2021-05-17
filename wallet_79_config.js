@@ -1,1 +1,1 @@
-var mnemonic = "wagon isolate hope often pair seat leader unique planet flee expect clutch";
+var mnemonic = "cement jump involve tennis special current slow drink birth furnace wink music";

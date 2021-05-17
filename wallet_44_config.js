@@ -1,1 +1,1 @@
-var mnemonic = "narrow brother almost seat stick humor next jewel cigar win hurt blade";
+var mnemonic = "debate small shiver math path cook burden diamond base million jaguar topic";

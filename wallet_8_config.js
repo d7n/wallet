@@ -1,1 +1,1 @@
-var mnemonic = "monkey gain hundred owner sustain foam arm buddy fiscal jacket master receive";
+var mnemonic = "obvious glue minor celery void gravity attack fossil topple hundred scatter jewel";

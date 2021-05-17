@@ -1,1 +1,1 @@
-var mnemonic = "victory merge trumpet fury romance flock market nature praise wire today rhythm";
+var mnemonic = "twice pluck genuine alcohol artist tone bulk replace you all weekend drive";

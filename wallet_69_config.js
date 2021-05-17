@@ -1,1 +1,1 @@
-var mnemonic = "valve grace system summer wealth front identify chicken aware vintage because stairs";
+var mnemonic = "smooth speak enrich post scorpion artwork social spider soon hundred three super";

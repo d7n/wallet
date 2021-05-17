@@ -1,1 +1,1 @@
-var mnemonic = "bulb car minimum claim juice virus virtual race under coconut crush rich";
+var mnemonic = "grow trumpet high century act bridge coyote close depth accuse conduct loyal";

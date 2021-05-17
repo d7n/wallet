@@ -1,1 +1,1 @@
-var mnemonic = "sample leopard drill amateur recycle summer alter leopard own velvet battle margin";
+var mnemonic = "forward leg jelly face holiday satoshi talent science fragile glide argue orphan";

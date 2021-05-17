@@ -1,1 +1,1 @@
-var mnemonic = "miracle bicycle dry tiger explain turn unable ocean pulse whisper shell anchor";
+var mnemonic = "race retreat atom someone egg merry island toy busy offer carry daring";

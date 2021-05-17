@@ -1,1 +1,1 @@
-var mnemonic = "thunder earn car gaze nation history vast ensure kidney twice huge dragon";
+var mnemonic = "little song scissors magic believe truly salad useless estate pistol wish myth";

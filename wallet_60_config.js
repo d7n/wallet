@@ -1,1 +1,1 @@
-var mnemonic = "degree bulk stand nasty harsh hundred deny staff alert cargo tag crack";
+var mnemonic = "tuna fossil bubble uncover envelope lottery soldier ecology much arctic forget any";

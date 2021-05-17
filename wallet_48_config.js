@@ -1,1 +1,1 @@
-var mnemonic = "turn rail way scissors venture evoke mammal bike neutral jacket client that";
+var mnemonic = "horse service federal give hundred milk focus desert run foil ghost net";

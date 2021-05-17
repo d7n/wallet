@@ -1,1 +1,1 @@
-var mnemonic = "brisk sausage awkward decrease sustain author barrel industry amused vocal box intact";
+var mnemonic = "another name couple school finger enroll yard course stand twice embark guilt";

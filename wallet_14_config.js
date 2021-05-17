@@ -1,1 +1,1 @@
-var mnemonic = "extra history parade kingdom found physical zero boss pitch nothing permit bar";
+var mnemonic = "brother original legal harbor tiny walnut supreme confirm obvious soccer lab consider";

@@ -1,1 +1,1 @@
-var mnemonic = "wire tenant consider host report custom later cart pulse step evil amateur";
+var mnemonic = "beyond foster you exchange verify horn ridge bulk tomorrow pigeon lab shoot";

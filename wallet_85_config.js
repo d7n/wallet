@@ -1,1 +1,1 @@
-var mnemonic = "surround side spare zoo talent speak settle mad hair guitar setup position";
+var mnemonic = "region region maple february glare nominee west purse aspect broom symbol mom";

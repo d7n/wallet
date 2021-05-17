@@ -1,1 +1,1 @@
-var mnemonic = "illness sand mistake day prevent vocal property erode october estate lunch boring";
+var mnemonic = "mouse movie barrel skill wine idle naive drift quantum input treat dwarf";

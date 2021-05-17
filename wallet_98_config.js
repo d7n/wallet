@@ -1,1 +1,1 @@
-var mnemonic = "away present diagram connect mistake insane where luggage rain tattoo garage sand";
+var mnemonic = "betray hold decrease another fault plastic polar meadow tip public grant hockey";

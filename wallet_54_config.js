@@ -1,1 +1,1 @@
-var mnemonic = "sport ride token lobster thank honey caution slide drama shallow detail indicate";
+var mnemonic = "primary market item skill mercy key fault warfare demise save okay frame";

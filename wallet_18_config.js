@@ -1,1 +1,1 @@
-var mnemonic = "annual decide arch syrup magic session tilt fall boil foil jewel joy";
+var mnemonic = "mutual ski above stage zone paper stand when token slogan file pitch";

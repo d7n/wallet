@@ -1,1 +1,1 @@
-var mnemonic = "work water holiday ill burger lazy indoor charge focus pupil wide culture";
+var mnemonic = "liberty rely obey worth weasel sentence example visual punch make stereo silver";

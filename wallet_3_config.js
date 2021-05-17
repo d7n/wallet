@@ -1,1 +1,1 @@
-var mnemonic = "oyster alarm regular food seat grocery deer warfare purpose staff door regret";
+var mnemonic = "modify number basket huge chunk soccer panel vocal surge fluid such spend";

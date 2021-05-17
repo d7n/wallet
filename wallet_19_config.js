@@ -1,1 +1,1 @@
-var mnemonic = "pizza subject marble organ random then dose clap topple museum sock gadget";
+var mnemonic = "runway crack avocado trial orphan lunar finger jaguar monkey novel trigger black";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder brass forward clip year lawn garbage whisper minor collect achieve plastic";
+var mnemonic = "illegal rigid network drastic scorpion furnace surprise impose pet bike ski vintage";

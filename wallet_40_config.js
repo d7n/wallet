@@ -1,1 +1,1 @@
-var mnemonic = "picnic acquire jeans armed seven demand stay abstract garment exhibit private grow";
+var mnemonic = "foot flame trouble common bean habit focus stadium nerve ghost alert chunk";

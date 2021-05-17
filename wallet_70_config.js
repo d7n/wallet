@@ -1,1 +1,1 @@
-var mnemonic = "ecology sail canyon accident force husband post narrow occur motor trim benefit";
+var mnemonic = "evoke upgrade pulse skin invest sunny fortune deliver cruise mutual original sort";

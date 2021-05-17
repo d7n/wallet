@@ -1,1 +1,1 @@
-var mnemonic = "normal ocean damage crack carry shield spread march devote brick swap camp";
+var mnemonic = "promote sun merit spring hard veteran bronze excuse liar venture click pen";

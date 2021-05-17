@@ -1,1 +1,1 @@
-var mnemonic = "pistol shaft bicycle vehicle speed wine radar salt garbage credit story wagon";
+var mnemonic = "auction rather arrange dutch demand airport tone ginger glimpse embody boat practice";

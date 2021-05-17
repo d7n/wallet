@@ -1,1 +1,1 @@
-var mnemonic = "section talent alley bachelor mountain belt sign two west adjust exercise rebel";
+var mnemonic = "battle prison drill smooth winner undo outdoor behave edit subway hood gossip";

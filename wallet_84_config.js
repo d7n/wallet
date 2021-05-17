@@ -1,1 +1,1 @@
-var mnemonic = "thank floor soon yellow renew furnace now duck grab conduct gasp taste";
+var mnemonic = "reject tube evidence rally heart spare zero cattle mystery square auto alien";

@@ -1,1 +1,1 @@
-var mnemonic = "august spider tree menu lumber more artwork glide evolve zebra silent cigar";
+var mnemonic = "bulk supply wrong piano canyon quality caution neutral opinion pave cattle obtain";

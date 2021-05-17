@@ -1,1 +1,1 @@
-var mnemonic = "duty duck animal easily quit egg degree ticket throw bounce gate middle";
+var mnemonic = "evolve pony educate powder close insane bargain panel dinosaur broken exhibit pitch";

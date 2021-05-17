@@ -1,1 +1,1 @@
-var mnemonic = "syrup filter glimpse dog blouse belt chunk neutral expire common combine razor";
+var mnemonic = "census mixed ready cash drop glide pledge virtual armed fiction reduce sibling";

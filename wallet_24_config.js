@@ -1,1 +1,1 @@
-var mnemonic = "afraid chunk fantasy emotion acid cliff that agent trust more unfair giraffe";
+var mnemonic = "language casual point resemble brave rose manual cage fiction super narrow trigger";

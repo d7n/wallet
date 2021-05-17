@@ -1,1 +1,1 @@
-var mnemonic = "lyrics enable bonus menu where guard crouch food tray budget endless hedgehog";
+var mnemonic = "uncover walk guitar sniff private forward cover benefit honey desk human squeeze";

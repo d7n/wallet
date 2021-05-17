@@ -1,1 +1,1 @@
-var mnemonic = "obtain sport cancel busy feed act federal evil fit adapt deposit kingdom";
+var mnemonic = "fat segment subway fiction that photo blue welcome boy bounce beef admit";

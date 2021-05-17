@@ -1,1 +1,1 @@
-var mnemonic = "duck draw forward kid miracle wrist fuel patch extra alert puppy either";
+var mnemonic = "awful sign neglect rhythm miracle appear panel mixed holiday wealth heavy language";

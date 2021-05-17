@@ -1,1 +1,1 @@
-var mnemonic = "quarter frame shed dust sunset ankle crucial club mechanic replace panel pepper";
+var mnemonic = "diet rate chief virtual any grass famous light report icon marine person";

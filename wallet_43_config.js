@@ -1,1 +1,1 @@
-var mnemonic = "repair arena indoor music parade tool report suspect funny churn quick fan";
+var mnemonic = "reduce crumble desert all switch index increase annual foot height list symbol";

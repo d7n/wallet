@@ -1,1 +1,1 @@
-var mnemonic = "salute athlete express giggle practice mammal more plate churn dragon census miss";
+var mnemonic = "tank abuse mesh manage peasant much buzz oven deny hold hero control";

@@ -1,1 +1,1 @@
-var mnemonic = "index curtain border dentist team always tomorrow method slight canal ethics other";
+var mnemonic = "orange file glow gap riot tail negative under miracle erosion sport island";

@@ -1,1 +1,1 @@
-var mnemonic = "cup lemon position grab occur rate spy army found paddle trial frog";
+var mnemonic = "mixed clip sense harvest modify legend have guide snow process warfare rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "cave gravity game quarter sick cactus improve comfort save happy emotion hazard";
+var mnemonic = "twenty color elegant purpose police nephew patrol riot front estate surround away";

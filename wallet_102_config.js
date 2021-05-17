@@ -1,1 +1,1 @@
-var mnemonic = "duck edge engine tissue hybrid bargain amateur neglect version arm identify toe";
+var mnemonic = "asset carpet inner will federal payment column blame explain enough trigger manage";

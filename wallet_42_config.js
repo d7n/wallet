@@ -1,1 +1,1 @@
-var mnemonic = "airport delay match dutch scatter fiscal reject topple remind toast van potato";
+var mnemonic = "debris chief black boost minute parade frost predict bronze cabin napkin erupt";

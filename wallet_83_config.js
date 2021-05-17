@@ -1,1 +1,1 @@
-var mnemonic = "enter scissors put pumpkin buddy word fiber foam ostrich vague furnace sniff";
+var mnemonic = "lecture taste alarm space wild test pony grass brass mix bulb denial";

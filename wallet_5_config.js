@@ -1,1 +1,1 @@
-var mnemonic = "filter athlete coconut south three because kiwi chicken match now trophy marriage";
+var mnemonic = "rebel pupil another multiply summer confirm top pave car web meat sting";

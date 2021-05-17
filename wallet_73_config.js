@@ -1,1 +1,1 @@
-var mnemonic = "strong derive obtain all addict wood school siren print enable sword dentist";
+var mnemonic = "assist enrich awake motor frame spare olympic marine call oyster blind fortune";

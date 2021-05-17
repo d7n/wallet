@@ -1,1 +1,1 @@
-var mnemonic = "catch resemble chunk glory quote employ govern tail square skirt adapt mountain";
+var mnemonic = "nice weekend dish tone scare whisper issue material shrimp symptom flush black";

@@ -1,1 +1,1 @@
-var mnemonic = "vault job produce fragile animal bind among grunt tomato mistake breeze satoshi";
+var mnemonic = "draft ten invite pelican hurry chicken habit time south consider rigid extend";

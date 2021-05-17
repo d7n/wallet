@@ -1,1 +1,1 @@
-var mnemonic = "journey session yellow wing private ordinary differ amused fluid host lemon make";
+var mnemonic = "cattle base will peanut wasp patrol chunk crawl dice immense evoke nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut tragic tag peasant enrich just field rack hedgehog object energy bag";
+var mnemonic = "pond coral shove replace small ugly cook open clock follow hazard purpose";

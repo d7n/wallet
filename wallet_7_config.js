@@ -1,1 +1,1 @@
-var mnemonic = "then piano away jealous ability island gold achieve gallery hand will wagon";
+var mnemonic = "noise glory mimic rug upset sound taxi wisdom scorpion balcony old vanish";

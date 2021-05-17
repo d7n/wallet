@@ -1,1 +1,1 @@
-var mnemonic = "coil quote awkward evoke joke electric cotton always enough giraffe still oblige";
+var mnemonic = "order casual cloth mind hawk essay learn artefact vivid alert arrive angry";

@@ -1,1 +1,1 @@
-var mnemonic = "year veteran mass electric welcome reveal dynamic small sister armor dirt just";
+var mnemonic = "bid coral raw sand add order donor border end grief grunt tide";

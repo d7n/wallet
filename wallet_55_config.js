@@ -1,1 +1,1 @@
-var mnemonic = "express label path finger ostrich left lucky comic illness harvest infant together";
+var mnemonic = "skate cigar walnut illness whip nasty hamster exclude adult hunt weasel artwork";

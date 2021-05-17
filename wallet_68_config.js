@@ -1,1 +1,1 @@
-var mnemonic = "educate basic marine result broom spare sponsor all sea tail portion cricket";
+var mnemonic = "evolve deliver tragic gesture fabric dream skill glow side fit lecture material";

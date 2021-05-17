@@ -1,1 +1,1 @@
-var mnemonic = "parade wise ecology cost bulb flip source leaf balcony foam split own";
+var mnemonic = "slim farm artist congress silly knife pattern depend early old update local";

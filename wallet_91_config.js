@@ -1,1 +1,1 @@
-var mnemonic = "craft bright liberty steak want kid reject super arena actual bullet shoe";
+var mnemonic = "pelican hockey useless glass away jaguar lesson become aim blouse attack easily";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon chase burst mountain run same task rough melody away present raven";
+var mnemonic = "draft echo primary cram universe clutch economy rude cupboard velvet detect duty";

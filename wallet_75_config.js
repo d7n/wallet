@@ -1,1 +1,1 @@
-var mnemonic = "vessel sail cash ship fiscal mad beef famous dirt mimic couple rose";
+var mnemonic = "animal culture outside hurry razor verify safe trim brick noise possible climb";

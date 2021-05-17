@@ -1,1 +1,1 @@
-var mnemonic = "thunder comfort love ready town waste notable improve festival trend armor hover";
+var mnemonic = "tray glide nature trim truth pioneer observe powder window box foot roof";

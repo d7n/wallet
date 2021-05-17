@@ -1,1 +1,1 @@
-var mnemonic = "hidden trial bleak poem welcome woman thank dose tomato balcony put evidence";
+var mnemonic = "charge fantasy sword unhappy super october rocket twenty sea monkey opera era";

@@ -1,1 +1,1 @@
-var mnemonic = "stove foam desk drum argue aunt music collect teach energy famous invite";
+var mnemonic = "control novel grunt supply swear theory snow lens cheap traffic organ actual";

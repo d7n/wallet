@@ -1,1 +1,1 @@
-var mnemonic = "siege burden reduce cherry domain fever nice kitten ride intact sphere chicken";
+var mnemonic = "illegal praise urban rule client bike ill umbrella slight laugh produce umbrella";

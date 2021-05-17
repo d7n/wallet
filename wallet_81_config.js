@@ -1,1 +1,1 @@
-var mnemonic = "print shift tattoo alarm buddy crunch utility impose matter slender super keep";
+var mnemonic = "veteran glad chimney someone pulse second festival mom genius treat dry grab";

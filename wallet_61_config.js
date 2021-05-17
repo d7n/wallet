@@ -1,1 +1,1 @@
-var mnemonic = "future apart tourist faint digital assault name wink buzz pitch sun blur";
+var mnemonic = "hamster wage fire traffic vendor feel note dish hire sunset glide cliff";

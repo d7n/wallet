@@ -1,1 +1,1 @@
-var mnemonic = "borrow lumber glide globe gym wrap alone flat peanut music clip busy";
+var mnemonic = "ring spice series source divorce chuckle park float million betray floor found";

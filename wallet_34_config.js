@@ -1,1 +1,1 @@
-var mnemonic = "view people help access slender resource monster zero pact fever girl snap";
+var mnemonic = "fox meadow doctor wall know genre top cattle faculty mystery buffalo diamond";

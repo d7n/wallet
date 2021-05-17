@@ -1,1 +1,1 @@
-var mnemonic = "pig clay gauge zero night water emerge occur defy midnight join ranch";
+var mnemonic = "asthma medal throw trial swim recall lab neck fade patrol monster hawk";

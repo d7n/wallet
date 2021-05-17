@@ -1,1 +1,1 @@
-var mnemonic = "zone shiver pig river famous swamp area nerve spray ribbon oblige boat";
+var mnemonic = "tone loan brown east leg opera oven reveal vast magnet girl pet";

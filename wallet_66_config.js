@@ -1,1 +1,1 @@
-var mnemonic = "hip fragile drive depart oval chef very oxygen visual muscle solid crawl";
+var mnemonic = "music surprise man culture sword borrow invest jazz quarter modify dilemma chair";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow decide become broken lake message vibrant analyst tongue goddess olive top";
+var mnemonic = "carbon skull patrol picture tonight grain harvest remember mosquito about royal hen";

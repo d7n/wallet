@@ -1,1 +1,1 @@
-var mnemonic = "mom fault odor couch mirror hotel wrestle injury sorry recipe crystal artwork";
+var mnemonic = "reflect test loan lonely myself screen alone human wage tag injury release";

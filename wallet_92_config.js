@@ -1,1 +1,1 @@
-var mnemonic = "during enough carbon satisfy vendor chuckle leisure aerobic palace audit buddy fuel";
+var mnemonic = "cotton energy between save help boss hair general teach spice bracket act";

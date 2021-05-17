@@ -1,1 +1,1 @@
-var mnemonic = "surround merry clinic fat addict aunt mouse net gossip dial surround arch";
+var mnemonic = "wagon brain timber assault era property sketch fossil alpha eight gap describe";

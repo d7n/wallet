@@ -1,1 +1,1 @@
-var mnemonic = "above raise report dilemma window museum seminar month thing shed scan inherit";
+var mnemonic = "universe list cattle insect motion bundle copper place apart zone sense draw";

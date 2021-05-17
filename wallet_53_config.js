@@ -1,1 +1,1 @@
-var mnemonic = "please guitar figure grace flat thought rule roof bulk fringe prison bicycle";
+var mnemonic = "extra afraid frown unfold below auto school across fabric crack loan buzz";

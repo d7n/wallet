@@ -1,1 +1,1 @@
-var mnemonic = "agree lecture worth auto canoe judge isolate rent dust chronic result able";
+var mnemonic = "believe hint plate solid wage grain spoon welcome radar spatial lion before";

@@ -1,1 +1,1 @@
-var mnemonic = "report intact since crater ocean essence purchase visit rude basket recycle shiver";
+var mnemonic = "remind notable position original cry gown pyramid release awesome angle organ glove";

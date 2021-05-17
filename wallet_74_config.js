@@ -1,1 +1,1 @@
-var mnemonic = "grace twist broccoli enhance swear suffer try achieve update clarify kidney distance";
+var mnemonic = "act easily sudden rigid phone tumble leg journey sister east toss valid";

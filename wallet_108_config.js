@@ -1,1 +1,1 @@
-var mnemonic = "tone neglect cake write toddler cheap chimney seat wage person ozone output";
+var mnemonic = "fiber cancel alien venue cool december choose frozen galaxy glory card slush";

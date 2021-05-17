@@ -1,1 +1,1 @@
-var mnemonic = "radio genuine kidney session loyal maid wrap parrot develop boy purchase coral";
+var mnemonic = "dad dad warrior apart fury enter fix escape decide body update expose";

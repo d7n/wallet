@@ -1,1 +1,1 @@
-var mnemonic = "cluster rigid brain develop rebel prevent baby vote random owner food laptop";
+var mnemonic = "prefer become remind twenty buffalo know hungry apology hundred arch endless fabric";

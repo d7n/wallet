@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo select lecture urban inner junior champion spoil scene strategy hair rabbit";
+var mnemonic = "jazz cloud cactus subway middle bullet gentle accident fire split poem depart";

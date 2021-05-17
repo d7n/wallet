@@ -1,1 +1,1 @@
-var mnemonic = "live alone trend liar tube satoshi filter occur island high wedding drink";
+var mnemonic = "shed okay rotate flavor young grab make glance spare term situate exit";

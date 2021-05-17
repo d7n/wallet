@@ -1,1 +1,1 @@
-var mnemonic = "page gallery wood client marriage elbow thrive hazard eternal saddle adult hedgehog";
+var mnemonic = "punch gravity comic dismiss provide focus morning stool measure rice ugly thing";
