@@ -1,1 +1,1 @@
-var mnemonic = "color close december code allow nut alarm able blast cherry distance family";
+var mnemonic = "ride vessel emotion vibrant shadow nice grow yard wagon flag join afraid";

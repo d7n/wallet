@@ -1,1 +1,1 @@
-var mnemonic = "cousin scrap eye disorder arrive swamp mirror tomato romance various maple lazy";
+var mnemonic = "exhibit cruel sell answer track similar hammer gain milk spell noodle victory";

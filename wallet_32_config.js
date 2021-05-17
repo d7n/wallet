@@ -1,1 +1,1 @@
-var mnemonic = "entire antenna crisp sample monkey chief frost private subway tackle thought pause";
+var mnemonic = "green egg stove myth glance promote still seek worth normal inject shuffle";

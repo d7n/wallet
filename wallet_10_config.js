@@ -1,1 +1,1 @@
-var mnemonic = "vessel copper visual record amazing drill clock bullet attend silk pelican bronze";
+var mnemonic = "vault twin cart boring isolate connect capable course pair uphold miss wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit faith jaguar door taste glue kingdom grace impose print suffer close";
+var mnemonic = "duck injury boring fetch pave planet myth celery cheap country voyage rebuild";

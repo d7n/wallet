@@ -1,1 +1,1 @@
-var mnemonic = "pioneer unveil napkin copper level glue mouse style miracle favorite badge segment";
+var mnemonic = "run purpose connect child library garment narrow roast essence whip multiply staff";

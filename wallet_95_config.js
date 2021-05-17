@@ -1,1 +1,1 @@
-var mnemonic = "item vast tiger dad claw middle ball wine shock rookie town cannon";
+var mnemonic = "company basic warfare soup husband member exile gossip sock better fog turn";

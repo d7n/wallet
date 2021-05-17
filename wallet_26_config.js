@@ -1,1 +1,1 @@
-var mnemonic = "quote melody lift winner room smart inspire exile tiger peanut cloud worry";
+var mnemonic = "dress sword length learn person tiger vote web solid robust solve dash";

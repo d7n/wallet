@@ -1,1 +1,1 @@
-var mnemonic = "transfer blur simple banner gadget twenty pencil close exercise shop curtain mammal";
+var mnemonic = "already half valley tattoo safe gloom sentence frozen hat bid pipe venture";

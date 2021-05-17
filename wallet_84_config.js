@@ -1,1 +1,1 @@
-var mnemonic = "rocket height return bright deposit lady submit gauge list cement sister please";
+var mnemonic = "mother apple autumn heavy umbrella episode helmet egg collect sponsor super chronic";

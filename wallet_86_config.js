@@ -1,1 +1,1 @@
-var mnemonic = "essence hub grunt credit goose panda just zone teach matrix affair appear";
+var mnemonic = "extra own moment first copper supply slice meadow narrow remind october foil";

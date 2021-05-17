@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon auto veteran drink clever alcohol piano pioneer bike belt market rare";
+var mnemonic = "render patient ankle nasty series observe cluster sheriff when security frown october";

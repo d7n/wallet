@@ -1,1 +1,1 @@
-var mnemonic = "retire steak away frozen offer dust joy carry cage shed coach nothing";
+var mnemonic = "suspect erode venue diesel crowd swallow genius actor kind type orbit brain";

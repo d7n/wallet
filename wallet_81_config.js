@@ -1,1 +1,1 @@
-var mnemonic = "decorate actress glare bag zero toward book festival among safe crawl slide";
+var mnemonic = "hazard observe leopard bid alien rare begin consider calm sun cheap enact";

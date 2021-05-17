@@ -1,1 +1,1 @@
-var mnemonic = "betray copper deal congress supreme garage expand finish nerve piece decrease truly";
+var mnemonic = "room wood bench inherit update sea rapid clinic crowd extend convince cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "lens hip until loan report build giraffe describe coconut sport welcome hip";
+var mnemonic = "other honey finish crumble also camera wreck teach goose grid mixed march";

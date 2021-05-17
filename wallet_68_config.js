@@ -1,1 +1,1 @@
-var mnemonic = "write lazy shop window tuition cat picnic bench arrest siege winter fuel";
+var mnemonic = "habit pretty notable island season attitude tragic give scene heavy noodle minor";

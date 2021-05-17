@@ -1,1 +1,1 @@
-var mnemonic = "game bomb motion bicycle nation junk immense movie onion point firm trigger";
+var mnemonic = "exile radar season dust warm cook east school mad point arch track";

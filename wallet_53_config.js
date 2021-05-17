@@ -1,1 +1,1 @@
-var mnemonic = "unit affair aunt music client meat any utility enough avoid antenna fix";
+var mnemonic = "obscure figure phone wood exhaust aspect final gravity jealous property permit fan";

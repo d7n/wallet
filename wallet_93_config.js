@@ -1,1 +1,1 @@
-var mnemonic = "never rescue average runway aerobic joy wife relax scrub second what boat";
+var mnemonic = "confirm click silent decrease vintage curtain illness remind dismiss opera priority scale";

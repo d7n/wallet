@@ -1,1 +1,1 @@
-var mnemonic = "valid wink pilot eternal calm way trap swear reduce cancel onion ill";
+var mnemonic = "evil execute sense bright enjoy simple decade turkey coffee crystal minimum desert";

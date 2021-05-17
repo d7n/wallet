@@ -1,1 +1,1 @@
-var mnemonic = "trial menu feature beach buzz energy attack era wheel twenty soda forum";
+var mnemonic = "field pride shy rail task muffin business dynamic lamp walnut afraid cash";

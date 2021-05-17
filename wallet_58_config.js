@@ -1,1 +1,1 @@
-var mnemonic = "very bronze end room point girl shell brief future payment forest sheriff";
+var mnemonic = "disease pool cool lemon flag pottery better stage embrace resemble market lake";

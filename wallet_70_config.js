@@ -1,1 +1,1 @@
-var mnemonic = "firm evil depend sleep unusual spoon spoon issue amazing kidney mandate domain";
+var mnemonic = "real ridge girl ready try cover puppy dream wink surround cargo remove";

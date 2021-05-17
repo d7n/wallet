@@ -1,1 +1,1 @@
-var mnemonic = "around image rebuild worry original drink light loyal ahead beyond retire budget";
+var mnemonic = "because life exclude merry guard century tank bullet blood execute fossil raccoon";

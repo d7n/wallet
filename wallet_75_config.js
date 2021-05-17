@@ -1,1 +1,1 @@
-var mnemonic = "hurry blame episode swap hedgehog rain exercise embrace embody innocent width crisp";
+var mnemonic = "maze spray fire venue knife buffalo bench surface success prevent small wage";

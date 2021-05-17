@@ -1,1 +1,1 @@
-var mnemonic = "fish valve crystal hedgehog around canvas rigid noise trim write order art";
+var mnemonic = "veteran game behind want crumble seek spoil ankle fossil inspire agent tape";

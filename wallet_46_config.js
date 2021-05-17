@@ -1,1 +1,1 @@
-var mnemonic = "move across pig response plunge oxygen edge two screen action remind fork";
+var mnemonic = "object artwork gauge system maple column merry talent decorate venture corn fee";

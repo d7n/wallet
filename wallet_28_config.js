@@ -1,1 +1,1 @@
-var mnemonic = "unlock universe sniff turtle record alley borrow ready liberty evil misery wheel";
+var mnemonic = "joke fee choice sound erupt again hint sausage used awake visa dismiss";

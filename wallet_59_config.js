@@ -1,1 +1,1 @@
-var mnemonic = "matter increase uphold ketchup lamp prevent tail demand slice erase tiger solution";
+var mnemonic = "year stamp spawn salt run muscle lucky sustain twelve summer vicious genre";

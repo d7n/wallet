@@ -1,1 +1,1 @@
-var mnemonic = "arrive approve aware element now fan during trigger lobster ranch cushion ready";
+var mnemonic = "cannon general robot skin demise broken decline dignity two odor pride pride";

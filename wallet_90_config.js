@@ -1,1 +1,1 @@
-var mnemonic = "dragon used there submit unusual kitchen body fetch salmon fantasy primary index";
+var mnemonic = "torch west shine add sense invest victory copper erupt employ recall vendor";

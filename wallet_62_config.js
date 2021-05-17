@@ -1,1 +1,1 @@
-var mnemonic = "cool album youth crawl spike valve picnic window milk toilet valley empty";
+var mnemonic = "damp reveal fashion ghost category october couple dentist light smile agent shift";

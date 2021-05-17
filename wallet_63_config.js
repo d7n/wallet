@@ -1,1 +1,1 @@
-var mnemonic = "cram ceiling sort library endless point web dove angry smoke mystery talent";
+var mnemonic = "noise much device dismiss brown debate awful chief use great speed asthma";

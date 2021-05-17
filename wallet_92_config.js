@@ -1,1 +1,1 @@
-var mnemonic = "win scan salmon cattle demise dish destroy rough wear member decade hundred";
+var mnemonic = "used limit skill test gallery section curtain robot safe enough salmon brush";

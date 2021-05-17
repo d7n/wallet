@@ -1,1 +1,1 @@
-var mnemonic = "tourist area alert often chaos lift horror dial burden upgrade next deputy";
+var mnemonic = "curious sound immense west change balcony latin vault cabin label insane liberty";

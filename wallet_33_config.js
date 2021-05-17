@@ -1,1 +1,1 @@
-var mnemonic = "feel rigid unaware food pottery marine nation decade scene junk target gorilla";
+var mnemonic = "catch illegal milk climb ahead invite turkey that step gentle diary cave";

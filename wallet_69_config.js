@@ -1,1 +1,1 @@
-var mnemonic = "sunny bunker rate honey school hill rescue acquire pink horror advance boss";
+var mnemonic = "veteran return clarify tone mimic page measure manage code foil below near";

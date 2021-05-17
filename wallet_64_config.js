@@ -1,1 +1,1 @@
-var mnemonic = "reform foot brown awkward cloth raccoon country mind charge problem topic jaguar";
+var mnemonic = "indicate devote balcony save away know naive language eager south west shy";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion street delay skirt tongue multiply liquid april humble say wisdom master";
+var mnemonic = "veteran wrap kiss ability obtain source real boss away can people there";

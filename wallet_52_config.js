@@ -1,1 +1,1 @@
-var mnemonic = "better bar pony bicycle rabbit cloth camera that tragic cash burger ensure";
+var mnemonic = "offer sea enough ketchup exact butter sting update predict rural retreat creek";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe surround leisure toilet upper arena van staff usual ozone illegal oval";
+var mnemonic = "gap name income wonder announce foam bundle tackle question people mimic reveal";

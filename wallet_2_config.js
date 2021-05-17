@@ -1,1 +1,1 @@
-var mnemonic = "glare palm accuse bamboo debate teach victory focus heart bomb cheese small";
+var mnemonic = "snap spray whisper quiz must soft exact load pottery seek jelly vacant";

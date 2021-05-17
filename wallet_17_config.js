@@ -1,1 +1,1 @@
-var mnemonic = "thing very expose wing barrel shock brass reopen wrist army adult disagree";
+var mnemonic = "knife chase surround elite work thrive scissors desk true ketchup music fiber";

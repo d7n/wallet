@@ -1,1 +1,1 @@
-var mnemonic = "drill diamond alley wave result jewel melt achieve market copper sail zero";
+var mnemonic = "list sauce present auction multiply motor ordinary indoor car deal hover bright";

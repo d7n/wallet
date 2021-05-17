@@ -1,1 +1,1 @@
-var mnemonic = "tissue eight two perfect final merry shaft treat divorce action slight layer";
+var mnemonic = "please champion entire table enhance note certain dose whisper sun people float";

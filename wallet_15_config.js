@@ -1,1 +1,1 @@
-var mnemonic = "night ski kitten connect magnet reform slab maid alone horn benefit cherry";
+var mnemonic = "project detect taxi company unable fix glove term reflect east size stay";

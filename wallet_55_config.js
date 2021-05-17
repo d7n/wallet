@@ -1,1 +1,1 @@
-var mnemonic = "together bottom soldier bulb old earn access faith boat busy olive jeans";
+var mnemonic = "decrease camera brush carry become toilet refuse security surround system buyer peasant";

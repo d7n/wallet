@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow unveil worth bench jacket merry dolphin calm lizard forget member panther";
+var mnemonic = "course mobile echo quote also boil feel way copy age trick person";

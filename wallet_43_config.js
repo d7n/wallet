@@ -1,1 +1,1 @@
-var mnemonic = "problem universe company gasp such neck amateur cradle calm decline tree amused";
+var mnemonic = "surface access flower series collect furnace pudding wrong wrestle disagree friend entry";

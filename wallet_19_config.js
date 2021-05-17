@@ -1,1 +1,1 @@
-var mnemonic = "confirm interest already page private tape shield seven raise venue bubble silly";
+var mnemonic = "devote fashion pig wash frequent animal disorder reward hamster music below mix";

@@ -1,1 +1,1 @@
-var mnemonic = "birth pizza direct entry weasel cream install crisp wage lyrics parent foil";
+var mnemonic = "borrow okay forum pave unlock police under stamp save just reopen squeeze";

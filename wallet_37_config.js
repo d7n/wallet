@@ -1,1 +1,1 @@
-var mnemonic = "lamp liar flip aware crack awful business december quality toast kick turkey";
+var mnemonic = "dumb gas tell cost occur limit correct despair curve rug lend off";

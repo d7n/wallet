@@ -1,1 +1,1 @@
-var mnemonic = "panel file resist around decorate feel slice auction reveal enemy burger jeans";
+var mnemonic = "sign program favorite wet lyrics term hard critic margin biology decline salon";

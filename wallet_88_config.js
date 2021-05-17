@@ -1,1 +1,1 @@
-var mnemonic = "panda begin dial used slush sister knock original slide sheriff cancel this";
+var mnemonic = "race december odor draw fantasy neglect remind faculty cheese antique walnut near";

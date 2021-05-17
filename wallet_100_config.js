@@ -1,1 +1,1 @@
-var mnemonic = "fortune net final trust clown mixture run brief marine tunnel mind spawn";
+var mnemonic = "sight sunset song glory parade better cupboard wall cancel quote thrive august";

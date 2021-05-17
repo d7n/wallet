@@ -1,1 +1,1 @@
-var mnemonic = "ginger castle choice hill badge appear mule slam measure lumber angle afraid";
+var mnemonic = "act there wet various produce shiver squeeze involve cave solid fury fiber";

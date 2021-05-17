@@ -1,1 +1,1 @@
-var mnemonic = "recipe echo civil glad swallow increase apart chunk quit royal say tonight";
+var mnemonic = "curtain demand easy same mad rebuild barely adjust cousin tape ivory address";

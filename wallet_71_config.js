@@ -1,1 +1,1 @@
-var mnemonic = "animal hammer hurt kiss basic leisure actress flat snake alter crew deny";
+var mnemonic = "capital flag crucial pluck art cargo siren near confirm water harvest gap";

@@ -1,1 +1,1 @@
-var mnemonic = "seek drill comfort defense wrap liquid slab cargo august estate fruit faculty";
+var mnemonic = "tree grace case later boring game seven remember decide hero sniff vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "sample interest goat unhappy drink worth autumn chunk early teach web rich";
+var mnemonic = "blanket plug ankle pause sheriff fiber relief pluck park shallow news quality";

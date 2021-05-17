@@ -1,1 +1,1 @@
-var mnemonic = "swap outside move swim fuel tobacco valid answer document negative fire leopard";
+var mnemonic = "allow oblige tragic engine hard myth steak fragile cluster tragic audit tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome tortoise monster escape must regular dinner life airport plate defense engine";
+var mnemonic = "jungle motion apple wild life someone hedgehog offer supply innocent similar surge";

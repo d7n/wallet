@@ -1,1 +1,1 @@
-var mnemonic = "news credit ozone mother subject merit chaos liberty clean faculty finish erase";
+var mnemonic = "exchange column shoot perfect item right trip urban trial blade vintage armor";

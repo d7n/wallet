@@ -1,1 +1,1 @@
-var mnemonic = "actor fiscal attract ridge shop material animal turtle clean plastic journey answer";
+var mnemonic = "replace what iron fall almost february aisle rib volume harbor similar blossom";

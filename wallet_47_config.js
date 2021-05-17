@@ -1,1 +1,1 @@
-var mnemonic = "bacon must rose inquiry meat short winter stool absent quick more glance";
+var mnemonic = "soldier unknown picture time funny coffee digital hen ramp payment session tiger";

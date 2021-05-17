@@ -1,1 +1,1 @@
-var mnemonic = "dawn hammer when agent stadium bag glory summer birth also decade ahead";
+var mnemonic = "south they hen north bracket angle nation snap resemble believe sail silk";

@@ -1,1 +1,1 @@
-var mnemonic = "express wonder grape cement rude soul element fetch paddle else fringe detail";
+var mnemonic = "smile arrest govern seek water card immense expose insect burst submit taste";

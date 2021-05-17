@@ -1,1 +1,1 @@
-var mnemonic = "inflict erupt adapt fruit nest large damage dune response visit deny mention";
+var mnemonic = "pigeon ordinary video machine remain gas mansion squeeze action decide elbow eager";

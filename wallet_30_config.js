@@ -1,1 +1,1 @@
-var mnemonic = "uncle volume reduce major trend cannon sport live trash use sail relax";
+var mnemonic = "able route hybrid session verify borrow enrich potato omit amazing whale exercise";

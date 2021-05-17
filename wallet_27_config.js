@@ -1,1 +1,1 @@
-var mnemonic = "urban need iron right chest grass digital reward frequent limit simple honey";
+var mnemonic = "act recipe mean siren mystery camp dinosaur expose page ethics absurd accident";

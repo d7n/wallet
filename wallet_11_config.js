@@ -1,1 +1,1 @@
-var mnemonic = "index acquire rabbit urge hidden shell night emotion height jar industry satisfy";
+var mnemonic = "convince legal solar drum useless question mistake nut slight inhale unlock leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "stage doctor erosion mixed segment cheap label monster uniform grass parent lottery";
+var mnemonic = "profit chest tool blind worth slot pizza lens cloud six describe month";

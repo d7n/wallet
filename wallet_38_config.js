@@ -1,1 +1,1 @@
-var mnemonic = "chair daughter pet traffic clown powder obtain stomach similar proof like number";
+var mnemonic = "ankle joy bulk valley fork museum width boat dolphin tomorrow runway lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom catalog coconut regret dice apart draft door clay banner guitar fabric";
+var mnemonic = "trouble hockey symbol case bleak ethics void anger trophy stairs long describe";

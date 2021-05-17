@@ -1,1 +1,1 @@
-var mnemonic = "impose seed ceiling used trash option addict exchange wall senior spoon hurdle";
+var mnemonic = "bus elegant runway spy romance weird fence ignore wheat recipe pottery south";

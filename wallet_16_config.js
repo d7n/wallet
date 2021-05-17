@@ -1,1 +1,1 @@
-var mnemonic = "habit kidney excuse taxi aerobic ghost aspect impulse good frog flock attend";
+var mnemonic = "alarm more balcony dilemma exile guard fun wagon mercy forward cannon dizzy";

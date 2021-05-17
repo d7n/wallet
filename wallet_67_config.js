@@ -1,1 +1,1 @@
-var mnemonic = "joy surge inflict prepare wool fan ribbon emotion balcony choice bench country";
+var mnemonic = "reunion elevator tenant success giraffe scissors girl vehicle summer earth civil pulse";

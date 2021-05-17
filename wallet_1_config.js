@@ -1,1 +1,1 @@
-var mnemonic = "number fatigue pipe craft unveil duty ability behave globe move glimpse shock";
+var mnemonic = "feed library absurd reward zoo gloom depth region clean beauty mushroom exist";

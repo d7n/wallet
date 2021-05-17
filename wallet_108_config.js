@@ -1,1 +1,1 @@
-var mnemonic = "barely source begin vintage warm two suit essay arrow wide off moral";
+var mnemonic = "someone defense memory brisk sniff naive apology bar discover bring garlic ready";

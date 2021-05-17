@@ -1,1 +1,1 @@
-var mnemonic = "quick know gather tongue appear hidden mixture update short gauge ketchup baby";
+var mnemonic = "maze monitor trend tone patch banana talk enforce twenty regret vague trip";

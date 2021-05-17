@@ -1,1 +1,1 @@
-var mnemonic = "cause local balcony harvest glory flower demand crisp hero insect transfer crack";
+var mnemonic = "type group salt book vendor tool square shed lab pioneer humor mobile";

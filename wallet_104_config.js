@@ -1,1 +1,1 @@
-var mnemonic = "auto case lottery point dinosaur valve tissue offer horn luggage muffin wool";
+var mnemonic = "want kiss demise pilot cable green switch shed ship inside winter attack";

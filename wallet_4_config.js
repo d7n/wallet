@@ -1,1 +1,1 @@
-var mnemonic = "luxury oak service sight odor expand innocent elder safe alter review friend";
+var mnemonic = "ill donkey water april other home early guess jaguar unknown outside crop";

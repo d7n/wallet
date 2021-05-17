@@ -1,1 +1,1 @@
-var mnemonic = "asset enrich spell prize crater dolphin wheel cigar summer warrior deer false";
+var mnemonic = "about move genius top cram audit bridge use reopen cherry rubber maid";

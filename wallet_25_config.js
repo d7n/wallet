@@ -1,1 +1,1 @@
-var mnemonic = "ride clown aisle hope reduce first tomato top hidden select labor arrive";
+var mnemonic = "estate right end virus despair wood chunk border involve select section monster";

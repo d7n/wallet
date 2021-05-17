@@ -1,1 +1,1 @@
-var mnemonic = "wolf tattoo element frame render genius lounge smart exit before expect food";
+var mnemonic = "rare picture voyage draft cactus juice tunnel upon gasp upon razor trumpet";
