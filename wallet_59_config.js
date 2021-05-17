@@ -1,1 +1,1 @@
-var mnemonic = "refuse stairs crash chimney arrange green rich erase deal maximum range wife";
+var mnemonic = "hammer snake juice reduce magic improve dog birth original inform extra reform";

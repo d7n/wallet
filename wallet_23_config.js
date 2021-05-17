@@ -1,1 +1,1 @@
-var mnemonic = "charge dynamic place clog submit trap smooth circle drive exit fragile solid";
+var mnemonic = "spoil casual treat space omit pottery civil discover grant collect rib ripple";

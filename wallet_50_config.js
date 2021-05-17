@@ -1,1 +1,1 @@
-var mnemonic = "citizen collect rescue chunk fence budget rare wink luxury tragic artist soon";
+var mnemonic = "school finger slot wreck empower volume casino range humor vacant air zero";

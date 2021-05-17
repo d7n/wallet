@@ -1,1 +1,1 @@
-var mnemonic = "slender course deny book describe picture ring dinosaur fuel copper front talent";
+var mnemonic = "dice key nest ocean bottom column knee silk holiday suggest goddess tooth";

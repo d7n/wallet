@@ -1,1 +1,1 @@
-var mnemonic = "frozen upon amount result fitness burger weird coconut major toast jaguar observe";
+var mnemonic = "bone worth genre gaze dragon risk believe desk option equip myself ancient";

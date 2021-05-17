@@ -1,1 +1,1 @@
-var mnemonic = "slot ghost armed empower chunk main cargo lend endorse style fix nurse";
+var mnemonic = "girl snap offer drastic armed seed basket shine purchase nut anger truly";

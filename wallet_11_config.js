@@ -1,1 +1,1 @@
-var mnemonic = "child away annual total elite safe jealous mirror advice fragile brand elephant";
+var mnemonic = "elite sad clinic museum shield visit pistol night obtain nice abuse merit";

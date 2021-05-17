@@ -1,1 +1,1 @@
-var mnemonic = "item trust wheat again credit exclude organ start guilt duty auto item";
+var mnemonic = "people wear hidden blast fly crush certain antenna remove matter age brave";

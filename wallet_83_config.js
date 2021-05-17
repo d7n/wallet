@@ -1,1 +1,1 @@
-var mnemonic = "adapt decrease pluck sustain swift dice power joke summer antenna upon believe";
+var mnemonic = "van phrase faint onion farm fly thank pelican there palace obey post";

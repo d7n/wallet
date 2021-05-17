@@ -1,1 +1,1 @@
-var mnemonic = "announce include story cruel icon table pig glue raven judge pave side";
+var mnemonic = "curious submit element private join crystal weird valve talk hungry vendor fluid";

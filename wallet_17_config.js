@@ -1,1 +1,1 @@
-var mnemonic = "second cinnamon distance rack breeze any robot country scrap learn market melt";
+var mnemonic = "regret silly garden motor feel lucky gasp wrong affair deputy cry tumble";

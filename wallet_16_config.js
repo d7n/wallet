@@ -1,1 +1,1 @@
-var mnemonic = "scare notice club brick few mother learn vanish concert sick deal badge";
+var mnemonic = "shallow forget sniff way expect flip fringe gorilla episode seminar edge cattle";

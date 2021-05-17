@@ -1,1 +1,1 @@
-var mnemonic = "iron labor shoe announce lab course employ potato clog rocket senior problem";
+var mnemonic = "just deal finger use dash vanish evoke human sentence forest odor reform";

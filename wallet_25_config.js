@@ -1,1 +1,1 @@
-var mnemonic = "exercise beauty table fragile connect people flavor whip diamond arrow butter flower";
+var mnemonic = "display piece region token snap tackle hurry crash tornado column habit subject";

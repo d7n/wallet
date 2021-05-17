@@ -1,1 +1,1 @@
-var mnemonic = "invite custom display shrug talent waste ribbon path need okay science wise";
+var mnemonic = "narrow volcano come share fog inherit eyebrow laundry filter badge symbol swing";

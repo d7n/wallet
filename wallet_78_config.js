@@ -1,1 +1,1 @@
-var mnemonic = "extend mask impact squeeze analyst clerk bulb oil sugar increase slim clock";
+var mnemonic = "slush earn mimic junk pact thing tree guide shrug bleak slow intact";

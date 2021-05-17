@@ -1,1 +1,1 @@
-var mnemonic = "advice auto throw real modify plastic door dragon caution pilot occur fortune";
+var mnemonic = "despair author bread fault chef ticket diet obtain trust sponsor play surface";

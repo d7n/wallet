@@ -1,1 +1,1 @@
-var mnemonic = "angle base tuna argue roast memory close review attend want zebra permit";
+var mnemonic = "verify canyon into blur ramp library also primary face lift sunny law";

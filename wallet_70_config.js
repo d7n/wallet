@@ -1,1 +1,1 @@
-var mnemonic = "seek protect very destroy special tenant girl close pink crumble melody network";
+var mnemonic = "maple rail where goat oxygen innocent own motor zero section rice palace";

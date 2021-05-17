@@ -1,1 +1,1 @@
-var mnemonic = "scout inner arrive mandate cigar ice cost indoor grow mutual leg hold";
+var mnemonic = "comfort way adapt purity error wrist enroll inner green credit income water";

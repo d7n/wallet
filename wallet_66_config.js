@@ -1,1 +1,1 @@
-var mnemonic = "diary abuse mix either close coach midnight world wedding job demand few";
+var mnemonic = "puppy mean mother remind undo shrug nuclear rare lock castle session strategy";

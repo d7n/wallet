@@ -1,1 +1,1 @@
-var mnemonic = "insect chalk seven web coil reward agree adjust smooth drive property mask";
+var mnemonic = "issue diamond violin enroll welcome sort rocket uncle arm rug profit camera";

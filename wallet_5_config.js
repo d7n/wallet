@@ -1,1 +1,1 @@
-var mnemonic = "oak cup unit unaware divide century fashion divorce choice inquiry first faculty";
+var mnemonic = "olive floor glide favorite excuse liberty play wink dial canal captain blossom";

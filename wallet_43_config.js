@@ -1,1 +1,1 @@
-var mnemonic = "snow danger view mail expose hub marble select crunch focus bus rate";
+var mnemonic = "rookie coil dilemma mother garment agree wealth cable bag cute evolve runway";

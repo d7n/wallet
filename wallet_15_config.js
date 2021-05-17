@@ -1,1 +1,1 @@
-var mnemonic = "immense moon wish space child media notable elephant female easily insect cup";
+var mnemonic = "betray afford common valve party bacon crouch occur wagon subway syrup monkey";

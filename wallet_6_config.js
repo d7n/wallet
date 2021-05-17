@@ -1,1 +1,1 @@
-var mnemonic = "vague uncle feature rain apart pistol phrase coil visual insane bundle attitude";
+var mnemonic = "laptop federal promote actress size spell cook flash monster frame swim shine";

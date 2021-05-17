@@ -1,1 +1,1 @@
-var mnemonic = "ridge cloth core outside aisle goddess ice federal pyramid yard ignore math";
+var mnemonic = "ice embody senior base confirm pink era wear face decide buyer awkward";

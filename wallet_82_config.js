@@ -1,1 +1,1 @@
-var mnemonic = "alone elbow morning during island movie donkey raw reason setup lumber oblige";
+var mnemonic = "hammer combine daughter sibling prepare solve snow member aunt disagree purity strategy";

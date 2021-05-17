@@ -1,1 +1,1 @@
-var mnemonic = "weapon number race notable split mule suspect matter impact metal battle result";
+var mnemonic = "entry disagree kiss lab become point wife bike potato sound next office";

@@ -1,1 +1,1 @@
-var mnemonic = "mass potato valley route clump pair public misery slide immense yellow razor";
+var mnemonic = "rather return bachelor limb vintage stomach patch blade chimney weekend what brown";

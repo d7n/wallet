@@ -1,1 +1,1 @@
-var mnemonic = "similar cotton light end medal program festival wear baby photo double nation";
+var mnemonic = "test sport cherry transfer embark razor load enroll logic begin deliver blast";

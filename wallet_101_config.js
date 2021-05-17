@@ -1,1 +1,1 @@
-var mnemonic = "scissors arch shield tornado second excuse sing naive step nasty wealth team";
+var mnemonic = "coin couple sentence produce coyote critic age you off coach fish empty";

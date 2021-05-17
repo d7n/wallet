@@ -1,1 +1,1 @@
-var mnemonic = "energy eager denial shine attend good avocado garbage obtain tooth acid clinic";
+var mnemonic = "copper winter purse step elevator wise never cook catalog awkward announce suspect";

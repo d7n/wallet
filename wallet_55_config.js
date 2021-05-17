@@ -1,1 +1,1 @@
-var mnemonic = "matter disorder rabbit bench genuine exhaust sample advice anger slow tube dutch";
+var mnemonic = "orange chief destroy swift hotel tilt mountain scheme depth task crunch thumb";

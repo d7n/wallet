@@ -1,1 +1,1 @@
-var mnemonic = "vacuum grow proof more broken spot grain grit apology lend catalog hurdle";
+var mnemonic = "reunion capital parade wisdom skate frown nasty month deputy laundry unveil element";

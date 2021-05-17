@@ -1,1 +1,1 @@
-var mnemonic = "hole fox fresh call tiny lizard speak occur problem awake velvet fade";
+var mnemonic = "bench tongue must price there frequent unknown cradle message play salute grape";

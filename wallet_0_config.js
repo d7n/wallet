@@ -1,1 +1,1 @@
-var mnemonic = "minute image impose square march popular saddle repair damage invite solid tent";
+var mnemonic = "test warm tide bitter matter blood raw purity extra pledge rail trial";

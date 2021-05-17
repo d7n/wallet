@@ -1,1 +1,1 @@
-var mnemonic = "shadow tank ill become wire coil catalog tuna canyon dinosaur parrot note";
+var mnemonic = "guide magic add fly pumpkin ten share figure document assist size reason";

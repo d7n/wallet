@@ -1,1 +1,1 @@
-var mnemonic = "answer budget toilet imitate reflect pair nice next rubber dumb lamp snake";
+var mnemonic = "assume ball snow divert right treat faith obvious use element boy youth";

@@ -1,1 +1,1 @@
-var mnemonic = "across lamp pattern gold mail beyond evoke someone able dynamic pelican detect";
+var mnemonic = "main roof orchard keep kick hurry exercise asset announce salad report fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "super muscle food nephew bubble black decline one huge coin bitter buzz";
+var mnemonic = "list burst retire erupt daring beyond item inspire luxury success future debris";

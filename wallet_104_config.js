@@ -1,1 +1,1 @@
-var mnemonic = "rookie sphere deer garment fork can hedgehog tank pond congress below solar";
+var mnemonic = "oval goose neither title wall notable lesson pitch monitor jeans boss early";

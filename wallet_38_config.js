@@ -1,1 +1,1 @@
-var mnemonic = "culture evidence awkward change pyramid glow obscure digital rebuild story love battle";
+var mnemonic = "cherry same walnut soda situate type can immune escape sure announce reward";

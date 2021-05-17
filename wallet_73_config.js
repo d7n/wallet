@@ -1,1 +1,1 @@
-var mnemonic = "draw crowd include sound monkey penalty salmon unaware foster alarm labor wheat";
+var mnemonic = "bunker friend ethics topic dad ugly material sustain dumb during detail exile";

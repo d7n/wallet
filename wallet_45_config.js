@@ -1,1 +1,1 @@
-var mnemonic = "install canoe beauty present crash must much undo elite culture stem cake";
+var mnemonic = "balance frost cloud dolphin maze boss virtual plug welcome layer park knock";

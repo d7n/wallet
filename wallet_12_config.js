@@ -1,1 +1,1 @@
-var mnemonic = "slim hamster vessel meat trumpet pride elegant asset maze trial fine execute";
+var mnemonic = "inhale tourist wear cheap false vast talent away island aisle plastic success";

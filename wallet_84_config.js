@@ -1,1 +1,1 @@
-var mnemonic = "before fury print butter proud occur trust cousin humor amount south drama";
+var mnemonic = "ask sustain typical squeeze target allow exclude bullet useful ski venue exit";

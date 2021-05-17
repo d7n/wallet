@@ -1,1 +1,1 @@
-var mnemonic = "ability charge weapon piano divert impact imitate blur lecture pulse black until";
+var mnemonic = "absurd number pony question punch annual dog close gentle blue future sentence";

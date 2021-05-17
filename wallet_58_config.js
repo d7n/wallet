@@ -1,1 +1,1 @@
-var mnemonic = "tortoise pool bench uniform churn slow cool order addict conduct exit drama";
+var mnemonic = "captain soft soap glide situate cloth sorry chaos spawn alarm feel brand";

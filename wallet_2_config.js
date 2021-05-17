@@ -1,1 +1,1 @@
-var mnemonic = "puppy update alone hunt circle ten arrow senior country leaf twin debris";
+var mnemonic = "lottery front rookie grid popular swim economy december bracket empty birth vendor";

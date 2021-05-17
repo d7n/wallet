@@ -1,1 +1,1 @@
-var mnemonic = "few convince loyal alpha devote toast case okay gauge castle antique object";
+var mnemonic = "yard hello orphan genius maze monster state clerk pitch indoor cement fiber";

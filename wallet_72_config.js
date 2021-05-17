@@ -1,1 +1,1 @@
-var mnemonic = "twin guard belt fruit embrace ladder donkey story bomb belt exhaust second";
+var mnemonic = "eyebrow extend scrub mansion web review black merge raccoon column upgrade right";

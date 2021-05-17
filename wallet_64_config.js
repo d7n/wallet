@@ -1,1 +1,1 @@
-var mnemonic = "size velvet ride upper lab purse chair sock entry come birth album";
+var mnemonic = "abandon rocket frozen symptom resemble moral mansion dance net glory armor color";

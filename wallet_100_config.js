@@ -1,1 +1,1 @@
-var mnemonic = "impose duck evil teach stone feature goat power flush blade vocal office";
+var mnemonic = "payment swamp spoon cook shrug soap into upgrade limb cool rely drum";

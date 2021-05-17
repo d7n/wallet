@@ -1,1 +1,1 @@
-var mnemonic = "list agree piano habit dentist material winner void master mushroom suit ready";
+var mnemonic = "reduce clever work slot dolphin harsh jelly shine equal circle lawsuit buzz";

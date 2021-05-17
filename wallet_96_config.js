@@ -1,1 +1,1 @@
-var mnemonic = "flag crawl next seat silly deal blue early raven drift visual father";
+var mnemonic = "magic target huge paper divert material web federal knife category chronic struggle";

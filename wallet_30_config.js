@@ -1,1 +1,1 @@
-var mnemonic = "emerge mad sword tray inject human mystery blood average top cloth clock";
+var mnemonic = "license level page online connect aerobic casual knock vendor frown thunder sign";

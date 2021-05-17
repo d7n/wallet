@@ -1,1 +1,1 @@
-var mnemonic = "strike frown very tobacco train solve ranch illegal tongue beach life nasty";
+var mnemonic = "thrive avocado memory segment addict key knife beach theme canal you pear";

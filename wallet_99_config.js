@@ -1,1 +1,1 @@
-var mnemonic = "fortune alter attitude wreck sword camp force blood cake identify cloth demand";
+var mnemonic = "enhance impact dilemma strategy game degree now turkey goose swift trophy nothing";

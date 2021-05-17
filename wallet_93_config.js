@@ -1,1 +1,1 @@
-var mnemonic = "tragic file music critic promote hand bulk bronze argue observe hungry modify";
+var mnemonic = "chunk whisper mutual mask frequent often pigeon donkey approve swing daring click";

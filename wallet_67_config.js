@@ -1,1 +1,1 @@
-var mnemonic = "unveil help inmate flee couch slab chuckle evolve tool tourist control help";
+var mnemonic = "tongue tip share marine garment spare stem outer ensure surround nothing hair";

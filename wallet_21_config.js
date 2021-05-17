@@ -1,1 +1,1 @@
-var mnemonic = "laugh legal cook elegant junior manage citizen deer color shallow crew bunker";
+var mnemonic = "awesome drive grunt close potato vessel obey city devote stone wall ridge";

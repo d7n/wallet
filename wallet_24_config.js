@@ -1,1 +1,1 @@
-var mnemonic = "brick ten tray glove link dove decorate access engage ticket fever arch";
+var mnemonic = "feel chase stumble summer steel salute drip initial cluster pudding east door";

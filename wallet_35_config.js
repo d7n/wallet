@@ -1,1 +1,1 @@
-var mnemonic = "level six test cart suspect torch puppy whisper add bunker worry struggle";
+var mnemonic = "tuition pull accident chunk coyote metal link genre plug ocean embark umbrella";

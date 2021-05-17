@@ -1,1 +1,1 @@
-var mnemonic = "tongue detail claw payment bridge exchange protect nephew bacon screen unique nothing";
+var mnemonic = "aisle rare fluid mouse olympic grocery wine emotion exit valley renew blind";

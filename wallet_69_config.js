@@ -1,1 +1,1 @@
-var mnemonic = "intact note snake coconut jewel elegant access festival liberty topple symptom parent";
+var mnemonic = "board curtain ticket program flee island month long eight vapor siren boy";

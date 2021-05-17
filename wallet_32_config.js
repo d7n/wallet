@@ -1,1 +1,1 @@
-var mnemonic = "old alpha surround help female prepare zero drive buyer speak charge monitor";
+var mnemonic = "flame crack great glance orient pact next punch that under devote brief";

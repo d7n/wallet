@@ -1,1 +1,1 @@
-var mnemonic = "powder squeeze credit alcohol advance settle medal unknown blush repair train stereo";
+var mnemonic = "injury guard village sock dynamic myth shop income cannon spy sun boost";

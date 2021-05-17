@@ -1,1 +1,1 @@
-var mnemonic = "sister cash fork swift vault country soup weapon vote demise purse mansion";
+var mnemonic = "frequent prize century crucial rescue october pen relax bunker stone bid loud";

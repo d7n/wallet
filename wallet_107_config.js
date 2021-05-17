@@ -1,1 +1,1 @@
-var mnemonic = "grab hover rent flash carbon bid step horror pilot unknown immense vintage";
+var mnemonic = "clap reopen giggle alpha olive fiction turn metal damage can owner nature";

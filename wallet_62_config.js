@@ -1,1 +1,1 @@
-var mnemonic = "source guitar repair steel load harsh pepper category diesel gown filter mushroom";
+var mnemonic = "goose clerk ranch vote build citizen kind lava wood spy situate view";

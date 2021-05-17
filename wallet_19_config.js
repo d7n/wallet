@@ -1,1 +1,1 @@
-var mnemonic = "gift illegal gentle head pulp magnet family vanish orient fee diesel hidden";
+var mnemonic = "isolate glide light sweet boil ancient room stool attend blind gather whip";

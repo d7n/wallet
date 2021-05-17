@@ -1,1 +1,1 @@
-var mnemonic = "motion toward repeat square panda comic that around atom sustain common turn";
+var mnemonic = "uncover staff ankle dune patrol mouse duty mother bottom tuna wrong ritual";

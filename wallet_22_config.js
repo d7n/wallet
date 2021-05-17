@@ -1,1 +1,1 @@
-var mnemonic = "ahead piece cereal modify tank day fetch agent remember jazz defy earth";
+var mnemonic = "smoke disorder once summer display canyon enjoy scheme define diet digital bring";

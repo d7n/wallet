@@ -1,1 +1,1 @@
-var mnemonic = "stone excite silent crumble photo spice canyon lunch pill shed answer true";
+var mnemonic = "pen stairs music family salon relief gossip crunch pluck tree struggle audit";

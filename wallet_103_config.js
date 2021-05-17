@@ -1,1 +1,1 @@
-var mnemonic = "multiply mango document album process music chronic accuse insane uphold layer another";
+var mnemonic = "cluster abandon unveil void horse birth bus lecture mule clerk sausage picnic";

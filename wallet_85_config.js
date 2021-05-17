@@ -1,1 +1,1 @@
-var mnemonic = "suspect pass accuse vocal short prevent afraid decorate insane language liquid draft";
+var mnemonic = "swear saddle govern pause sleep brick diet glide cushion labor thank brave";

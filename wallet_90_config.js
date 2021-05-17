@@ -1,1 +1,1 @@
-var mnemonic = "rack bid price ranch damage success joy shield pipe hotel cactus buddy";
+var mnemonic = "rice beyond estate lounge donate super once quarter patrol grass menu material";

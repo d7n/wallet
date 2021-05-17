@@ -1,1 +1,1 @@
-var mnemonic = "steak clap fox enable main club butter process february female execute trash";
+var mnemonic = "street husband risk enough essence rocket still light dismiss rain mad joy";

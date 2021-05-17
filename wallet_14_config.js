@@ -1,1 +1,1 @@
-var mnemonic = "merry slot camp athlete text noodle hunt anchor page mind duck charge";
+var mnemonic = "little bachelor pride charge rely loop similar phone evidence electric defense wage";

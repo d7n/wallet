@@ -1,1 +1,1 @@
-var mnemonic = "chronic amateur tortoise fork follow monster violin shove move glass heavy soda";
+var mnemonic = "marine entry away pudding avocado bargain large leg brave number mom spawn";

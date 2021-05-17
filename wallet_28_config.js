@@ -1,1 +1,1 @@
-var mnemonic = "fan thank notice collect basket cram balcony symbol seven penalty distance light";
+var mnemonic = "also cushion lobster once gloom dizzy sick glass bone gift dirt smile";

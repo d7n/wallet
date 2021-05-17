@@ -1,1 +1,1 @@
-var mnemonic = "receive reopen flock upgrade random then inform reform february carbon gaze guess";
+var mnemonic = "rigid erosion retreat tuna civil heavy salute season omit panic family file";

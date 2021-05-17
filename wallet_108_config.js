@@ -1,1 +1,1 @@
-var mnemonic = "else width iron alter electric hill decade embody vanish control stone noodle";
+var mnemonic = "remain damage cave subway install zero baby suggest trap depend pass sustain";

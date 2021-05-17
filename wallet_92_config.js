@@ -1,1 +1,1 @@
-var mnemonic = "chunk video mind nature people exact load table auction letter start rough";
+var mnemonic = "rich rely sing abuse sell symbol treat world huge domain that twelve";

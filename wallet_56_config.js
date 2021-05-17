@@ -1,1 +1,1 @@
-var mnemonic = "gun engage solar tourist make dinner soldier square promote announce merge muffin";
+var mnemonic = "clutch virus coin ahead safe elephant transfer gain auto april test lyrics";

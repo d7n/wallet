@@ -1,1 +1,1 @@
-var mnemonic = "motor wedding danger imitate whip execute dune toast shrug hundred song album";
+var mnemonic = "baby cherry place quick decline clever relax forward reform below picnic below";

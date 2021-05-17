@@ -1,1 +1,1 @@
-var mnemonic = "fresh enough carpet cliff history sugar impose copy learn stuff sudden budget";
+var mnemonic = "fee interest fork oyster security surround vocal kiwi carry party kit general";

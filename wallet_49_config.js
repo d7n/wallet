@@ -1,1 +1,1 @@
-var mnemonic = "crime atom frozen test visit nature gas order spend rabbit upset cousin";
+var mnemonic = "mushroom runway convince sugar warrior jacket jewel correct float doctor artwork pitch";
