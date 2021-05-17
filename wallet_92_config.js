@@ -1,1 +1,1 @@
-var mnemonic = "donor document ordinary wave oven crater repair twenty caught category cheap swap";
+var mnemonic = "bubble anchor tackle side code caught february cheap violin puzzle frown raise";

@@ -1,1 +1,1 @@
-var mnemonic = "powder fly upset segment tired misery bullet mechanic private receive clay vital";
+var mnemonic = "during neglect horror exhibit chunk oven material dance misery fun suspect autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt chicken train hedgehog welcome lion reunion awake alter mixed calm reject";
+var mnemonic = "kitchen siren script middle recycle deposit chaos sun foster swim immense era";

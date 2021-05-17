@@ -1,1 +1,1 @@
-var mnemonic = "buzz electric oval volcano pulse card spring expand panda opinion current sunny";
+var mnemonic = "shock unhappy knife lunch useful achieve umbrella enemy typical apology mirror liar";

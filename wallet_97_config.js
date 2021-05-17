@@ -1,1 +1,1 @@
-var mnemonic = "can flock alter doctor olive citizen client forget penalty ticket bicycle umbrella";
+var mnemonic = "wrestle unveil link enforce abuse tell arrange marriage glue range cross pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "sport swarm grain match riot beach excess novel arrange argue buzz what";
+var mnemonic = "benefit helmet market lion chapter exhaust top awesome piano boy dolphin leisure";

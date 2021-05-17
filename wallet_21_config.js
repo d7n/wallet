@@ -1,1 +1,1 @@
-var mnemonic = "decide drink visit patch bike floor universe pepper hub file symbol muffin";
+var mnemonic = "sentence critic mass garlic ordinary fortune federal heavy earth angle slab crack";

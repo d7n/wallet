@@ -1,1 +1,1 @@
-var mnemonic = "lamp cousin excess floor crawl canal vintage advice globe local symptom fuel";
+var mnemonic = "ill home window foot rapid gym candy game weird plunge payment sphere";

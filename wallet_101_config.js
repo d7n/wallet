@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pupil candy pole harbor fat fabric patch license chair inform egg";
+var mnemonic = "essay few later frog possible venture squirrel prefer siege salt neck this";

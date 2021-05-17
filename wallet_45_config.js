@@ -1,1 +1,1 @@
-var mnemonic = "essay hungry east theory goat unknown diet depth recipe shadow donor absent";
+var mnemonic = "mention spot cinnamon exact thing dignity inspire shine rough sail seed enforce";

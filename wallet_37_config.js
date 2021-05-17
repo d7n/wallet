@@ -1,1 +1,1 @@
-var mnemonic = "token coach path grocery over pass foil door true token say usual";
+var mnemonic = "deer unknown fish thrive eye peace oven forum voice clutch position pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "wing exile install shaft umbrella brass amateur border violin person another between";
+var mnemonic = "unfair alone push glass kidney effort priority caught hello drop cupboard drill";

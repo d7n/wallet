@@ -1,1 +1,1 @@
-var mnemonic = "shaft into solid gift wing private subway stove gallery start blouse nerve";
+var mnemonic = "angry annual open enable vessel slogan biology smoke keep mimic safe harbor";

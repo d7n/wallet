@@ -1,1 +1,1 @@
-var mnemonic = "tiny travel venue plastic final online siege area caution patient mercy physical";
+var mnemonic = "dignity often output fold soccer budget sand drink wink chase soul light";

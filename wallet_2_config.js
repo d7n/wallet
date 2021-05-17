@@ -1,1 +1,1 @@
-var mnemonic = "across swallow congress enhance include worth season skate orbit quick excite vivid";
+var mnemonic = "huge unhappy tape deny clinic educate oak dish wave warm gravity dress";

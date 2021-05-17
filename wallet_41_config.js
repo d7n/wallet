@@ -1,1 +1,1 @@
-var mnemonic = "mountain into furnace flock shield jelly company feed mystery brave coach awful";
+var mnemonic = "ask napkin liberty intact meat opera drive scan fence design limit inform";

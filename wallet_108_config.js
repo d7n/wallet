@@ -1,1 +1,1 @@
-var mnemonic = "inspire viable arrow render know sword warrior kit ridge town price isolate";
+var mnemonic = "another tail movie human food life security stuff tragic stumble cover accuse";

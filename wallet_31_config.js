@@ -1,1 +1,1 @@
-var mnemonic = "power regret myself carbon half zero order easily conduct rifle toilet energy";
+var mnemonic = "rate pond staff tray foil swarm capable fly switch guess curve jealous";

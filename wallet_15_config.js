@@ -1,1 +1,1 @@
-var mnemonic = "lab snap soap orient suggest certain nature among butter motor boy enable";
+var mnemonic = "connect they valley vendor distance elder daring hover recipe strong argue human";

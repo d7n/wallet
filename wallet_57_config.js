@@ -1,1 +1,1 @@
-var mnemonic = "spend wood tumble swallow indoor spoil dream during slow engage rare blade";
+var mnemonic = "citizen renew sick flat blame message mimic become sniff dwarf floor verify";

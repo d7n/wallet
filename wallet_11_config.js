@@ -1,1 +1,1 @@
-var mnemonic = "oyster language orange oval region leave hello arctic walk expand sock garment";
+var mnemonic = "entire kidney used erupt home tuna about connect lava easy letter impose";

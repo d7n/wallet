@@ -1,1 +1,1 @@
-var mnemonic = "panther adjust balance cinnamon mom actor paper ramp key canyon six enact";
+var mnemonic = "payment young write marine jewel order bid bleak west near devote fabric";

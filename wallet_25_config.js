@@ -1,1 +1,1 @@
-var mnemonic = "nephew own rain brick fossil tired tiny pen useful save transfer weasel";
+var mnemonic = "one car sustain patient battle frequent engine impose stadium robust body december";

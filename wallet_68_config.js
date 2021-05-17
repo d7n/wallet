@@ -1,1 +1,1 @@
-var mnemonic = "grief history mutual flavor expect involve addict butter confirm eager dial multiply";
+var mnemonic = "obvious raise inquiry pear scrub equip card else aim bird cereal casual";

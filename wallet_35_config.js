@@ -1,1 +1,1 @@
-var mnemonic = "awake dish awful imitate blush scrap shine distance main drum figure cheese";
+var mnemonic = "giant begin volcano leg treat slush agent law grit border clever sniff";

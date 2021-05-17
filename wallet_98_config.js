@@ -1,1 +1,1 @@
-var mnemonic = "march nuclear entry ice enroll oven twin matter thing boat woman quit";
+var mnemonic = "poem scale stick retire meat code frown citizen picture park slam try";

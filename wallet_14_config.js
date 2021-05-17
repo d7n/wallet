@@ -1,1 +1,1 @@
-var mnemonic = "drum eager young connect junior gold nasty magic end sword expose stairs";
+var mnemonic = "hurry dirt gown tide cousin artwork fan only sting clump summer spray";

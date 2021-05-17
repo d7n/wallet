@@ -1,1 +1,1 @@
-var mnemonic = "empty usual onion network guilt crash lesson together monitor swing time crime";
+var mnemonic = "range prefer swing bitter confirm foot upset eternal opinion minimum master cry";

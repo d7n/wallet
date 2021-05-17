@@ -1,1 +1,1 @@
-var mnemonic = "miss know lucky unfold feel van gas cupboard twenty jazz spike glue";
+var mnemonic = "trash visit dash trick friend snake this blade weapon melody purpose alone";

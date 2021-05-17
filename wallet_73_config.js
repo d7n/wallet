@@ -1,1 +1,1 @@
-var mnemonic = "wash race replace foster bind chief burger chimney manual lift scrap reward";
+var mnemonic = "have raise roof grid trap monitor actual rely surround resemble crucial hunt";

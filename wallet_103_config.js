@@ -1,1 +1,1 @@
-var mnemonic = "gasp reward trial cargo salon pitch furnace please spot scorpion olive latin";
+var mnemonic = "monster story equal mom forget crunch fury urban prevent excite olympic topple";

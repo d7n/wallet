@@ -1,1 +1,1 @@
-var mnemonic = "wing balcony flower fatigue vehicle maid return grain layer farm remind around";
+var mnemonic = "glare suspect chief farm clever term fluid arrow aunt outer judge devote";

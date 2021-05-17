@@ -1,1 +1,1 @@
-var mnemonic = "flee topple sing vocal vault history system diary this between innocent pool";
+var mnemonic = "tower critic penalty interest airport speed pizza hour ladder skill laptop scout";

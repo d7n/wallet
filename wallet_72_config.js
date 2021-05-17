@@ -1,1 +1,1 @@
-var mnemonic = "pause betray lake treat deputy useful fashion tiny weapon cactus load bunker";
+var mnemonic = "demand scheme obvious detail avocado museum snake early sea sleep tribe cross";

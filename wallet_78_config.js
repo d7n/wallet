@@ -1,1 +1,1 @@
-var mnemonic = "topple goose dismiss type high address wisdom execute depth remember that potato";
+var mnemonic = "palm lawn silk pride atom decide dolphin wish try lizard cause sail";

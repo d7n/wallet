@@ -1,1 +1,1 @@
-var mnemonic = "muscle asset unveil divide rabbit horse believe absorb afford magnet salad race";
+var mnemonic = "praise female wagon dutch act crash gauge obtain casino midnight rally route";

@@ -1,1 +1,1 @@
-var mnemonic = "logic kiss soon crop reopen layer woman assault tragic carry tray main";
+var mnemonic = "federal hobby little coast endorse notable love balance churn soul oil entire";

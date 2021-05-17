@@ -1,1 +1,1 @@
-var mnemonic = "employ wise display song pluck sight spread anxiety elevator august army health";
+var mnemonic = "giant benefit happy crumble river gain congress net bag essay fire flight";

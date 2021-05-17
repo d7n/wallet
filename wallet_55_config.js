@@ -1,1 +1,1 @@
-var mnemonic = "disorder joy coyote thought fresh fall release position bid giant urban cruise";
+var mnemonic = "lion belt siege present dentist super duty chef endorse candy garage error";

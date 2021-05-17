@@ -1,1 +1,1 @@
-var mnemonic = "cute sea sort claw typical roast try produce summer ugly found argue";
+var mnemonic = "orbit reason combine inside benefit arrive thought believe journey attract cradle nephew";

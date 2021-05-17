@@ -1,1 +1,1 @@
-var mnemonic = "struggle iron brand round undo owner nerve cancel turtle park cover hint";
+var mnemonic = "fresh afford soft enlist exile battle chuckle track stock delay bicycle spoil";

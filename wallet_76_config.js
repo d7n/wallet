@@ -1,1 +1,1 @@
-var mnemonic = "truck joke blame pill fade life door solar pony oak ankle frequent";
+var mnemonic = "cake furnace hero flock inject chicken arrive happy quote bring frozen barrel";

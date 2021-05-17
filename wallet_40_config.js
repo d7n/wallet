@@ -1,1 +1,1 @@
-var mnemonic = "improve grit base girl citizen buyer box chest expect elder all fire";
+var mnemonic = "soup long few cliff happy lift cart junk coin churn media address";

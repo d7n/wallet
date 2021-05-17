@@ -1,1 +1,1 @@
-var mnemonic = "exclude nasty galaxy day spy believe rice flower harsh scrub inflict state";
+var mnemonic = "habit caught mushroom input subject myth gravity path into head helmet poet";

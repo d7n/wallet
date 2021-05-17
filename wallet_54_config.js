@@ -1,1 +1,1 @@
-var mnemonic = "shrug bench arm cactus glory waste gap midnight adult dove arrange toddler";
+var mnemonic = "fault rescue ladder celery convince silver range float riot gather adult upset";

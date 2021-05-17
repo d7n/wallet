@@ -1,1 +1,1 @@
-var mnemonic = "debris inspire scheme orchard loan able fashion rigid defense shrimp brass claw";
+var mnemonic = "barrel topic balance trick latin water grit mass fetch square student tape";

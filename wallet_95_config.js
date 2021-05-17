@@ -1,1 +1,1 @@
-var mnemonic = "expire clog frog reject half believe rather age size ill boost indicate";
+var mnemonic = "mechanic drastic peace steel atom spot dizzy sheriff vintage lava mom suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "expose canyon mushroom stable title remember brain wrist clerk miss upgrade rival";
+var mnemonic = "fold poem acquire fiscal they knock anxiety reveal balance stone picnic luxury";

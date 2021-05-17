@@ -1,1 +1,1 @@
-var mnemonic = "debate increase ghost receive tattoo road lucky wreck dizzy drill side enroll";
+var mnemonic = "round mind erupt gain trophy trade come assist avoid immune pledge express";

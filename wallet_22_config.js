@@ -1,1 +1,1 @@
-var mnemonic = "carpet mountain october van client topic wife fringe almost hamster mean about";
+var mnemonic = "empower beach glance embody confirm just kind frozen year boat behind device";

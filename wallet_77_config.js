@@ -1,1 +1,1 @@
-var mnemonic = "convince high regret monitor novel consider hunt loan source joke cargo milk";
+var mnemonic = "suit figure spike spread deposit loyal help upset siren close skull rose";

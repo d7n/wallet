@@ -1,1 +1,1 @@
-var mnemonic = "hockey knock link whisper scene broom tired cousin romance upon render main";
+var mnemonic = "valley image omit raise tomato swallow battle claim wolf horror nut volume";

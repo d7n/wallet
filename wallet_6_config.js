@@ -1,1 +1,1 @@
-var mnemonic = "loan tree awkward today shed wife what option excess enforce sun problem";
+var mnemonic = "what squeeze ramp fork between clarify congress repeat boat shoe color diesel";

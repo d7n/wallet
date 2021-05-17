@@ -1,1 +1,1 @@
-var mnemonic = "grow father dad idle social divorce element toy road misery start tongue";
+var mnemonic = "verb also square crew someone daughter thumb today capital learn pear smoke";

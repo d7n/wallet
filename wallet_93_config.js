@@ -1,1 +1,1 @@
-var mnemonic = "version exhaust panda spray method version build draw dirt vote kitten cotton";
+var mnemonic = "coffee check vehicle tip extra injury clean oppose figure antique hand section";

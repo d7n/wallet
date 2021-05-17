@@ -1,1 +1,1 @@
-var mnemonic = "fog absurd one check transfer tray range grab present budget palm model";
+var mnemonic = "lonely hockey small gossip wait letter attack gossip scene foil super problem";

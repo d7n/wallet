@@ -1,1 +1,1 @@
-var mnemonic = "deliver bounce young rug unique tip siege grain luxury quantum donate design";
+var mnemonic = "brass involve submit syrup summer poem alert runway dismiss execute plunge ceiling";

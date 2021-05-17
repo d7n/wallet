@@ -1,1 +1,1 @@
-var mnemonic = "talk kick force lion believe cupboard like opinion winner double any fit";
+var mnemonic = "accident high spread current neutral hedgehog brisk harsh page shell fruit finish";

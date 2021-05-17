@@ -1,1 +1,1 @@
-var mnemonic = "urban design glue walnut turn empty hawk dress type update myth blind";
+var mnemonic = "cry fatal attitude ski strong right arctic bullet push banner cheese bargain";

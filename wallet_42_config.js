@@ -1,1 +1,1 @@
-var mnemonic = "angry disagree pencil space magnet drip tourist network actor arch benefit absorb";
+var mnemonic = "symptom now proof name abandon iron spy wink drastic alter label allow";

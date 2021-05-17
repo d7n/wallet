@@ -1,1 +1,1 @@
-var mnemonic = "smart more creek movie fox walnut derive spatial card length response sheriff";
+var mnemonic = "method envelope man zoo fork radar ankle debris slot light pilot apology";

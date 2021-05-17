@@ -1,1 +1,1 @@
-var mnemonic = "swallow iron celery tell myth sweet deny draft fancy decrease actress nation";
+var mnemonic = "junk imitate sound shed banner proud abandon meadow antenna love game home";

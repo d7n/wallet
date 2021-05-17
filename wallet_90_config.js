@@ -1,1 +1,1 @@
-var mnemonic = "impulse crater sun vague chalk critic novel violin scorpion canyon essence trial";
+var mnemonic = "thing seat glove step dove code display hat proud match cram shy";

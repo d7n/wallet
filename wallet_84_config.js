@@ -1,1 +1,1 @@
-var mnemonic = "sibling someone coach shoot fetch cotton shadow gadget use opera file border";
+var mnemonic = "chuckle okay clown bless trust leisure runway furnace journey eager film claw";

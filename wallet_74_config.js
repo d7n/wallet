@@ -1,1 +1,1 @@
-var mnemonic = "much bulb letter swarm ecology reform device zoo avocado print silk earn";
+var mnemonic = "buyer sing analyst visa impose glance steel throw zoo thrive ketchup cupboard";

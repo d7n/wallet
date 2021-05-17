@@ -1,1 +1,1 @@
-var mnemonic = "marriage adjust rescue stay wasp mean solution fitness trash token bachelor zoo";
+var mnemonic = "pluck yellow rule term kind defense roast mushroom monkey improve connect blush";

@@ -1,1 +1,1 @@
-var mnemonic = "timber legend churn undo man menu grass pull detail elder list object";
+var mnemonic = "vital expand black laugh expect hundred build horn yellow present share mail";

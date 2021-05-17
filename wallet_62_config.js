@@ -1,1 +1,1 @@
-var mnemonic = "claim walk school side hire frozen spring chair recycle elite raccoon cat";
+var mnemonic = "hungry steak thumb ramp scatter cargo syrup slam share deal cushion resemble";

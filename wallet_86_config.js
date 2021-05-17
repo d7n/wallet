@@ -1,1 +1,1 @@
-var mnemonic = "siren doll volume summer lift essence timber ritual adult like surge inform";
+var mnemonic = "just dune throw assume want tired hunt eager point industry tissue duck";

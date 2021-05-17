@@ -1,1 +1,1 @@
-var mnemonic = "armor loop brave fetch cereal silver output flag miracle age cotton baby";
+var mnemonic = "tackle level hobby true vicious sniff patch dry solar draw post gauge";

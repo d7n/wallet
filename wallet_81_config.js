@@ -1,1 +1,1 @@
-var mnemonic = "uphold also chest era forest three salt hint hammer despair rain immune";
+var mnemonic = "jazz box noodle define oxygen start mobile hand october vague prosper metal";

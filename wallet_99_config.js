@@ -1,1 +1,1 @@
-var mnemonic = "celery vocal code tomato brain evidence dignity until open dumb dog inherit";
+var mnemonic = "below hollow limb noise curtain receive artwork excite shine cactus bomb leave";

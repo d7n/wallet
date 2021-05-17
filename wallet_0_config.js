@@ -1,1 +1,1 @@
-var mnemonic = "unaware nation cheese rug note asthma material quantum express bomb topple polar";
+var mnemonic = "swear story come vocal endless solar treat gift audit key input snap";

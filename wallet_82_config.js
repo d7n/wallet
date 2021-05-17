@@ -1,1 +1,1 @@
-var mnemonic = "match raccoon multiply alpha sting purse write run mix surge staff leg";
+var mnemonic = "wild borrow panda draw enrich fortune nasty hint jelly donor dust arm";

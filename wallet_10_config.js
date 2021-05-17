@@ -1,1 +1,1 @@
-var mnemonic = "aunt song lesson plate clog diet snap firm stadium discover stick embark";
+var mnemonic = "bless hire venture wagon bird estate shock simple matrix raven barely mirror";

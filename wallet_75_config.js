@@ -1,1 +1,1 @@
-var mnemonic = "payment tilt disagree before void cream object average between wink style special";
+var mnemonic = "fiscal school vintage inspire wild appear camp glue trade ticket sauce destroy";

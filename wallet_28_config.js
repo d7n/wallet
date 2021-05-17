@@ -1,1 +1,1 @@
-var mnemonic = "sudden slide amount wave various arrive document grow manual evidence hood gadget";
+var mnemonic = "sustain ask top picnic evoke awesome shy old bunker bronze icon diet";

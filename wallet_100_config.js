@@ -1,1 +1,1 @@
-var mnemonic = "write task priority eagle exist coast quote auto buzz cruise unveil wasp";
+var mnemonic = "ripple earn joke winter two machine notice neglect broccoli fruit toward ostrich";

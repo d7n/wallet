@@ -1,1 +1,1 @@
-var mnemonic = "loan soda chimney eye tornado portion impose amount kick bike toddler keep";
+var mnemonic = "size exercise tribe burst velvet item zero settle agree tube tribe lazy";

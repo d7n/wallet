@@ -1,1 +1,1 @@
-var mnemonic = "lab call radio umbrella spin fantasy panel image adjust okay frog luggage";
+var mnemonic = "adult rotate reflect liberty square mesh fabric one cook comic head attend";

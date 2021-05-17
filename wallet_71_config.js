@@ -1,1 +1,1 @@
-var mnemonic = "fox twice net cup visual marble vote cloud train round shallow bicycle";
+var mnemonic = "mechanic mandate report still price dinosaur balance outside supreme entry hungry fit";

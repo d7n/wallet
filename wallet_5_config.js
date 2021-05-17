@@ -1,1 +1,1 @@
-var mnemonic = "enforce focus act fat island moon luggage mean donate such badge mule";
+var mnemonic = "mass pumpkin group cream win ability crowd wisdom attend mercy broccoli fatal";

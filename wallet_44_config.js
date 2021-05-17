@@ -1,1 +1,1 @@
-var mnemonic = "caught surprise wait cousin stand push cloth armed exist cruise also tool";
+var mnemonic = "runway emerge alley drink horror rescue trust brave fancy oven squirrel supply";

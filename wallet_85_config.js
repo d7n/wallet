@@ -1,1 +1,1 @@
-var mnemonic = "team topple cannon kingdom rally initial broken mesh phone drastic trip useful";
+var mnemonic = "vocal region genuine whale flavor hold fee clump indoor gold giant loyal";

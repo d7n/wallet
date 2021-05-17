@@ -1,1 +1,1 @@
-var mnemonic = "expand drift piano organ tunnel neutral evolve way bring horse interest screen";
+var mnemonic = "climb unknown advice parade skull process lumber salute major tag raw again";

@@ -1,1 +1,1 @@
-var mnemonic = "six train butter bleak panel mutual mail morning join soccer degree shine";
+var mnemonic = "joy pact small rotate frown pizza human copy worry sign daring sell";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dove tuition cup robust sugar trigger problem pulp virus visa gossip";
+var mnemonic = "cycle rookie amused question airport poem badge prepare twenty satisfy sausage slim";

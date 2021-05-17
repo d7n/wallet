@@ -1,1 +1,1 @@
-var mnemonic = "nice mesh ensure evolve cloud spike blush label source scene people lake";
+var mnemonic = "mean phone regret online snow phone true dismiss book reason chapter behave";

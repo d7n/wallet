@@ -1,1 +1,1 @@
-var mnemonic = "velvet gospel win weekend turtle embark consider reason web smile denial wheat";
+var mnemonic = "enhance tide genius spare fire fire nice lion ghost ask rebuild grocery";

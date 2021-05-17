@@ -1,1 +1,1 @@
-var mnemonic = "empty soda guilt skin limb dinner fish exercise army enjoy economy palace";
+var mnemonic = "vessel lunch diagram antenna debate radar balance embrace zone solar walk fiscal";

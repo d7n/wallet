@@ -1,1 +1,1 @@
-var mnemonic = "reflect wire squirrel agent wink want talk plunge panther spare gorilla defy";
+var mnemonic = "blind hurry neglect rain canoe until odor lawn deposit bamboo hire quit";
