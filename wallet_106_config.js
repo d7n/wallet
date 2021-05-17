@@ -1,1 +1,1 @@
-var mnemonic = "spin keen benefit corn suit toward hip normal wing display easily select";
+var mnemonic = "grow athlete wheel kiss motor material conduct canoe joy grow bench copper";

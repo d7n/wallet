@@ -1,1 +1,1 @@
-var mnemonic = "trade method lab essence person okay february unknown prefer stool consider abandon";
+var mnemonic = "earn soup balcony evolve unfair leopard alone decide purchase salon nephew giraffe";

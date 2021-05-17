@@ -1,1 +1,1 @@
-var mnemonic = "setup close junior much nut crowd text pottery pass stone gaze when";
+var mnemonic = "suffer brain two rib hunt sadness stairs jazz anger cable kiwi alone";

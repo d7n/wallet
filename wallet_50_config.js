@@ -1,1 +1,1 @@
-var mnemonic = "absurd expand cricket either tonight indoor gym home early thunder exile unlock";
+var mnemonic = "meat tonight end expand return decline april patch grunt predict seminar betray";

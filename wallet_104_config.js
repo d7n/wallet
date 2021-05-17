@@ -1,1 +1,1 @@
-var mnemonic = "hard grain dance sad jeans walk inhale save hour quote melody that";
+var mnemonic = "unit ripple helmet all better drama reform gallery sting lab balance unknown";

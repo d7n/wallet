@@ -1,1 +1,1 @@
-var mnemonic = "erupt unhappy fit abuse setup soda toe odor summer youth north maid";
+var mnemonic = "brain turtle flush focus awful cabbage reduce kind joke aware sword bone";

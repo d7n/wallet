@@ -1,1 +1,1 @@
-var mnemonic = "seed minimum column law laptop kingdom balcony copper squirrel quantum deposit three";
+var mnemonic = "invest lawsuit nothing forget beef chair quarter work tuition nephew tragic replace";

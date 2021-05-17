@@ -1,1 +1,1 @@
-var mnemonic = "album harsh orbit entry tunnel helmet license body cable camp over trial";
+var mnemonic = "emerge cradle normal reform tenant cinnamon type code approve limb helmet episode";

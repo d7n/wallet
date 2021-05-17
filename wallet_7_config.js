@@ -1,1 +1,1 @@
-var mnemonic = "shuffle boy venture agent vocal just spin nurse shed walnut salad hollow";
+var mnemonic = "rack length suspect manual gentle dilemma swap section base manual sort acquire";

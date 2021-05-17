@@ -1,1 +1,1 @@
-var mnemonic = "mango rabbit acoustic sand biology wrap escape bachelor glory price plastic file";
+var mnemonic = "area motion title globe push earth song apple uniform patrol congress quiz";

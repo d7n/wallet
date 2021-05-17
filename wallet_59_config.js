@@ -1,1 +1,1 @@
-var mnemonic = "emotion into dance coach refuse case miss beef float spice join recipe";
+var mnemonic = "method shed business twice broom unveil sad child scorpion crash erase tube";

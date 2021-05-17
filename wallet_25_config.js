@@ -1,1 +1,1 @@
-var mnemonic = "craft wrap cave brass pretty coconut enough decorate army busy mirror creek";
+var mnemonic = "fat simple phrase spy yard scissors later open bachelor wise kangaroo bid";

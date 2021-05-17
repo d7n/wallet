@@ -1,1 +1,1 @@
-var mnemonic = "reason size answer idle oblige admit lawsuit family blanket purchase swarm shaft";
+var mnemonic = "climb lawsuit party room ripple retire parade away gaze vital dad same";

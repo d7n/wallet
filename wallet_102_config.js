@@ -1,1 +1,1 @@
-var mnemonic = "school nothing wait abandon clown clerk finish tackle unique effort crack guard";
+var mnemonic = "fault own second wool black hero city gas express despair fresh help";

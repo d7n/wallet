@@ -1,1 +1,1 @@
-var mnemonic = "donor deny clump avoid welcome okay enlist fluid rally secret ball small";
+var mnemonic = "wedding bicycle potato usual gospel divorce endless defy country van priority intact";

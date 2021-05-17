@@ -1,1 +1,1 @@
-var mnemonic = "vanish that army genre wait box joy speed essay furnace deny admit";
+var mnemonic = "turkey weekend expand human breeze rubber silly bacon visual salon air sand";

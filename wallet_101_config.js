@@ -1,1 +1,1 @@
-var mnemonic = "visual path enhance prevent adjust evoke lunch foam mobile bulb depend measure";
+var mnemonic = "outside enjoy oil host interest aerobic tray giraffe dream vanish carry urban";

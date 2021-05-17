@@ -1,1 +1,1 @@
-var mnemonic = "logic wink web hour found state panic shock behind require hazard anchor";
+var mnemonic = "dirt brick swing moral shift typical resemble typical message science ceiling measure";

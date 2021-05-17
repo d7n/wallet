@@ -1,1 +1,1 @@
-var mnemonic = "man symbol ticket obscure force weasel air region excite feed ripple first";
+var mnemonic = "assist corn pudding ancient loud replace table aerobic insect crystal spare surface";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol possible zero prize satoshi empty amazing gaze world toss wage organ";
+var mnemonic = "oyster baby fold wonder area fiber woman subject beach disorder clean rug";

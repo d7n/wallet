@@ -1,1 +1,1 @@
-var mnemonic = "globe update town business brief angle fun must vanish almost table rug";
+var mnemonic = "kite ranch bring forest drift attend east tool fury amazing twin verify";

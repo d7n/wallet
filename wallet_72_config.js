@@ -1,1 +1,1 @@
-var mnemonic = "wave history only tired broken pottery allow razor stamp olive peanut marine";
+var mnemonic = "vapor spice favorite rude jaguar float wage blind lend guilt swim orient";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle pool erosion either design maze orchard master carpet breeze sheriff kid";
+var mnemonic = "moon aspect radar flight super barely enact parade helmet olympic join toast";

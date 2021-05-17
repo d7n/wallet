@@ -1,1 +1,1 @@
-var mnemonic = "case tiny boat gap alarm must ritual load blue magic organ poverty";
+var mnemonic = "slice police secret zoo crisp trophy bright sketch page betray actual search";

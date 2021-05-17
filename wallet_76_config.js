@@ -1,1 +1,1 @@
-var mnemonic = "kitchen myself river crack total eyebrow price swamp kick advice near wedding";
+var mnemonic = "win upper pumpkin tray reason more buzz damage menu below vacant stuff";

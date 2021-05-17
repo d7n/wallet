@@ -1,1 +1,1 @@
-var mnemonic = "monkey narrow razor cereal eager announce amused soldier current uncover fatigue glass";
+var mnemonic = "trip sleep random glare label sample best case heavy pulse minimum depth";

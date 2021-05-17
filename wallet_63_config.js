@@ -1,1 +1,1 @@
-var mnemonic = "flight hero twenty random sphere genius image jacket select owner garden trophy";
+var mnemonic = "venue sudden pyramid tornado hollow attend disorder mammal celery echo trigger local";

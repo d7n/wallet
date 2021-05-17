@@ -1,1 +1,1 @@
-var mnemonic = "insane scrap offer proof style deny repair flat harbor envelope sail tragic";
+var mnemonic = "couch monster sea glow novel exit arrange creek dust frozen execute range";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity ring write grape novel together vault city length federal where ecology";
+var mnemonic = "bless attract resource local rabbit doctor never know bridge curve must uncover";

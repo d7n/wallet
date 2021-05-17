@@ -1,1 +1,1 @@
-var mnemonic = "tail tissue drastic size afraid absent position explain clip female silly feel";
+var mnemonic = "script cheap model betray tell beef limit liquid axis roof deer evil";

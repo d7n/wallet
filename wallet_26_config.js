@@ -1,1 +1,1 @@
-var mnemonic = "wool turn lunch giggle ethics zero scale rice genuine beauty inherit permit";
+var mnemonic = "keep school cake stamp total valley bless panda recipe injury refuse main";

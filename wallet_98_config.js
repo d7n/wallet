@@ -1,1 +1,1 @@
-var mnemonic = "gas notice rib animal broken excess narrow neither hockey old kiwi misery";
+var mnemonic = "paddle glare prepare general amount dice demand kangaroo shed frost turtle cause";

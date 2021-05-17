@@ -1,1 +1,1 @@
-var mnemonic = "exit ribbon cage brick furnace math fiscal child twice scout beyond dizzy";
+var mnemonic = "gloom pulp artefact grape woman move apology wrist engine make wine fossil";

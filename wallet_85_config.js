@@ -1,1 +1,1 @@
-var mnemonic = "chalk cactus century poet black recycle sand absent wild domain peace under";
+var mnemonic = "harvest need ready metal leg popular army tennis ostrich sister guilt lake";

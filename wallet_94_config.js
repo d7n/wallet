@@ -1,1 +1,1 @@
-var mnemonic = "wise fantasy test fatal frost tank radio frost safe song monkey blouse";
+var mnemonic = "gentle senior mistake despair deputy basic favorite kitten bacon swallow spatial aisle";

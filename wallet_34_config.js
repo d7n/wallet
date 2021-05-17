@@ -1,1 +1,1 @@
-var mnemonic = "lamp action advice dish easily universe note connect ugly carbon connect daughter";
+var mnemonic = "plug bottom absorb artwork omit lady similar skull cool limb dog island";

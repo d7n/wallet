@@ -1,1 +1,1 @@
-var mnemonic = "collect ribbon exact come security rabbit can brave faculty drive inch fun";
+var mnemonic = "tuna pupil blame dream spin visa memory outside oval real panel cheap";

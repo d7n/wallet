@@ -1,1 +1,1 @@
-var mnemonic = "casino confirm face movie vendor will sing man differ return mixed debris";
+var mnemonic = "amused wedding swim confirm type health ask trash liar tuition life thrive";

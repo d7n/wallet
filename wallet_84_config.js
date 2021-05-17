@@ -1,1 +1,1 @@
-var mnemonic = "give midnight pioneer cage transfer choose lonely shoe slim canal mask flag";
+var mnemonic = "slow ticket frozen leaf rib merge term zone father cheese series humor";

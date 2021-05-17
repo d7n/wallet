@@ -1,1 +1,1 @@
-var mnemonic = "screen biology bitter cable company key climb embrace pluck emotion bunker miss";
+var mnemonic = "swallow lyrics brave spawn magnet behind pistol foil photo gun favorite gather";

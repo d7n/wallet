@@ -1,1 +1,1 @@
-var mnemonic = "clever aspect stand wonder crash swap kiss achieve vapor point girl circle";
+var mnemonic = "team genre ostrich public blue copy chief buyer steel guitar jaguar pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "spice unhappy ready alcohol slice shadow cream mimic hip edge foster robust";
+var mnemonic = "confirm okay equip lift leaf open provide solid rough ivory brass dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "shield casual spy stage bread flash reveal direct code about isolate crazy";
+var mnemonic = "knife crystal warfare express census celery blade file evoke end original velvet";

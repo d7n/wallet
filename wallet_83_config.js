@@ -1,1 +1,1 @@
-var mnemonic = "normal cook affair speed actual taste devote what patient hen mouse reflect";
+var mnemonic = "menu spy reform exhibit cable kind pave harsh marriage napkin master invest";

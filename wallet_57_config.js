@@ -1,1 +1,1 @@
-var mnemonic = "depend reject flat hockey forward craft aspect ring glimpse crumble champion spell";
+var mnemonic = "ancient arena genius leaf dial engage mixed news potato found attitude head";

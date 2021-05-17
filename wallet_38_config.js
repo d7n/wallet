@@ -1,1 +1,1 @@
-var mnemonic = "elite steak fox leave exact upon lecture patient give define spray image";
+var mnemonic = "void moment island shiver jungle also art inch ball admit source meat";

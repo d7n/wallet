@@ -1,1 +1,1 @@
-var mnemonic = "execute salad load essence trash comfort shrug help glory share juice science";
+var mnemonic = "panda miss funny kick wait machine run tip cart action stove debate";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup suspect winter gate spike ship width arrow estate rescue video lucky";
+var mnemonic = "vacuum calm random kit blind enroll organ try ecology staff disease moral";

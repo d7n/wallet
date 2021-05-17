@@ -1,1 +1,1 @@
-var mnemonic = "entry engage dune draft easily waste casino corn purchase stereo dawn industry";
+var mnemonic = "guitar merge review lumber reason script merry broom cover afraid opinion gospel";

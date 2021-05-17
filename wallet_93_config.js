@@ -1,1 +1,1 @@
-var mnemonic = "tiny order invest color walk demise theme rose lobster tiny rural tenant";
+var mnemonic = "carry page over tunnel cargo switch person mansion enough flight photo okay";

@@ -1,1 +1,1 @@
-var mnemonic = "decade priority vendor sign media student vital bone script lab balcony assist";
+var mnemonic = "like join electric trumpet curtain festival item hurry accuse decrease hospital grant";

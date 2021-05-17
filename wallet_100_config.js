@@ -1,1 +1,1 @@
-var mnemonic = "educate void make steak need shy calm knee medal heavy size glimpse";
+var mnemonic = "piano smile spot divide victory wealth master solution scout fever now scare";

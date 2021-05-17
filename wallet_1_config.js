@@ -1,1 +1,1 @@
-var mnemonic = "cereal tell opera dinner dad ghost kick fragile still nose fatal silver";
+var mnemonic = "spatial sight sail image cherry tunnel treat stick bullet real doctor foot";

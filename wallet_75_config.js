@@ -1,1 +1,1 @@
-var mnemonic = "library measure slice carbon police guide sentence strike trap resemble shiver merge";
+var mnemonic = "hamster dish above virus ticket offer evil all soda kingdom grocery shy";

@@ -1,1 +1,1 @@
-var mnemonic = "soul bomb lunar outdoor caution swarm daring truth alley stumble garden know";
+var mnemonic = "increase run describe donor material bless decide disagree find fade effort kind";

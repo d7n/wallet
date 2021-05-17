@@ -1,1 +1,1 @@
-var mnemonic = "amazing puzzle absorb kind treat dwarf close buzz smart local matter garment";
+var mnemonic = "year shock soft good visit protect bulb loan feed order segment doctor";

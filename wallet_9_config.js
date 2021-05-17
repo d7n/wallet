@@ -1,1 +1,1 @@
-var mnemonic = "that rather filter goose gasp sunny pond public bronze company woman sentence";
+var mnemonic = "happy rent squeeze raven junior lamp gap clarify dilemma undo mistake wine";

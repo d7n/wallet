@@ -1,1 +1,1 @@
-var mnemonic = "either couple stairs merge slight faith arrive injury term guitar winter brass";
+var mnemonic = "lamp motion labor false lunar twist area finger winter jacket birth twice";

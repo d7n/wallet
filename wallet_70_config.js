@@ -1,1 +1,1 @@
-var mnemonic = "unit student swap cream protect eye fault bless crack fox gravity various";
+var mnemonic = "bonus step uncover coil federal master shoe route insane kind smart mention";

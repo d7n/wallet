@@ -1,1 +1,1 @@
-var mnemonic = "nature jungle merry joke nation slam hockey join climb alarm return claim";
+var mnemonic = "human bundle state champion brick rain dentist engine drink found guilt library";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware elite west boy erosion street frame torch crunch tourist sponsor release";
+var mnemonic = "case engine miracle yard floor drip midnight sleep scale harvest crowd still";

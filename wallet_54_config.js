@@ -1,1 +1,1 @@
-var mnemonic = "guess course rebuild argue faith lawn coconut open addict race engine mass";
+var mnemonic = "sing cradle announce stick fix trigger tissue impose ostrich gauge need mandate";

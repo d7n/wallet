@@ -1,1 +1,1 @@
-var mnemonic = "wrestle normal dismiss episode dream rib merit crawl later magic dragon vendor";
+var mnemonic = "deputy spider judge right brick amazing rain emotion innocent traffic number way";

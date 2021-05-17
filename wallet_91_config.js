@@ -1,1 +1,1 @@
-var mnemonic = "piece beach blur pizza slender ordinary canvas power grace clarify annual attitude";
+var mnemonic = "honey mean draft never fall board climb eternal afraid spoil spy insane";

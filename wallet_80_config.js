@@ -1,1 +1,1 @@
-var mnemonic = "vapor derive pattern viable desk hip enroll language desert wear mango radio";
+var mnemonic = "canyon diet wire spare nice rail transfer pencil fancy smoke sister warrior";

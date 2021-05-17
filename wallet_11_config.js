@@ -1,1 +1,1 @@
-var mnemonic = "hint negative attack friend bunker lobster symptom myself zone fortune civil soul";
+var mnemonic = "street fancy fossil arena wink unfair proof chunk resemble man marble neither";

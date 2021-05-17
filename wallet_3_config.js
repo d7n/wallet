@@ -1,1 +1,1 @@
-var mnemonic = "hen vault excess coach inherit escape reason inform open jewel panic walk";
+var mnemonic = "illness promote provide height concert cigar window spot fence section spot hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "away abuse obey together gift winner shield include school fuel dog potato";
+var mnemonic = "smoke south slab adult glad save matter twin chalk focus nut delay";

@@ -1,1 +1,1 @@
-var mnemonic = "render grid honey swift story fiber obtain audit wrap this pyramid sauce";
+var mnemonic = "unique grape suspect viable silent fatigue double help shield swap issue device";

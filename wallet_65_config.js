@@ -1,1 +1,1 @@
-var mnemonic = "napkin buddy cost grab perfect brown cancel fence dirt vapor owner acid";
+var mnemonic = "fame equip task coin erosion biology mammal curious vacant above odor pride";

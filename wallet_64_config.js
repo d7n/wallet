@@ -1,1 +1,1 @@
-var mnemonic = "two flat theme culture reason acid swear bomb ribbon ripple frequent shell";
+var mnemonic = "wrap blade ask stone quality holiday squeeze ritual siege menu best village";

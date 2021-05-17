@@ -1,1 +1,1 @@
-var mnemonic = "laptop month skill flat guard bring thunder path talent draw bullet embrace";
+var mnemonic = "element useless alcohol advance dry proud praise require umbrella dawn certain suit";

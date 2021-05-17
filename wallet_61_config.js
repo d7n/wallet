@@ -1,1 +1,1 @@
-var mnemonic = "jazz lounge camp protect category inquiry ethics bone syrup library result hint";
+var mnemonic = "aware love upgrade smart yard giraffe echo movie earth develop often link";

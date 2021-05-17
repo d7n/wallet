@@ -1,1 +1,1 @@
-var mnemonic = "sense private slender boost such piano hero deputy armor coin riot into";
+var mnemonic = "involve cash either olive attack pioneer panda hub clinic lab nuclear tide";

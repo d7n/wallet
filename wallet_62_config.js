@@ -1,1 +1,1 @@
-var mnemonic = "common what around radar describe puzzle coast paddle silver critic key tunnel";
+var mnemonic = "picture sock letter tail tobacco also execute eagle increase place level cream";

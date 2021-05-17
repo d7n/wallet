@@ -1,1 +1,1 @@
-var mnemonic = "treat holiday vocal slogan list acoustic blood tornado skull fruit want deny";
+var mnemonic = "anchor genuine purchase curve club junk barrel cactus tuition fiction blast fire";

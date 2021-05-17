@@ -1,1 +1,1 @@
-var mnemonic = "order organ pretty choose adapt confirm estate deer limit circle symptom joy";
+var mnemonic = "hat reward tag avoid early frost flower worth market tape thrive photo";

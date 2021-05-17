@@ -1,1 +1,1 @@
-var mnemonic = "dynamic frozen repair crush feel pulp toy poem cheese other cotton into";
+var mnemonic = "royal strong broccoli patient hen much evidence stuff solution script coin must";

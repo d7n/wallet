@@ -1,1 +1,1 @@
-var mnemonic = "yard join tank win ridge innocent meat rate woman grocery cereal cement";
+var mnemonic = "paper myself this adult jealous mouse guide exhaust atom west burden maze";

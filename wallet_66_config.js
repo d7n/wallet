@@ -1,1 +1,1 @@
-var mnemonic = "play accident pyramid obvious faculty eight job dirt time drift culture east";
+var mnemonic = "stereo wear above receive winner remind wedding dish mansion become priority execute";

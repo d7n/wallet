@@ -1,1 +1,1 @@
-var mnemonic = "polar hire stamp stuff spare jaguar earth canyon faint feed faint congress";
+var mnemonic = "text drink vital session stock dolphin believe crawl flock concert injury mesh";

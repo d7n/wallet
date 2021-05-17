@@ -1,1 +1,1 @@
-var mnemonic = "bundle network law return winter sunset jungle social cement famous elder brick";
+var mnemonic = "flower stick wear cry rule lamp range girl tackle maple empower jealous";
