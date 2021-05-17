@@ -1,1 +1,1 @@
-var mnemonic = "steak absurd sugar gather better evil surface occur photo street need erase";
+var mnemonic = "lab call radio umbrella spin fantasy panel image adjust okay frog luggage";

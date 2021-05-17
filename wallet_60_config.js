@@ -1,1 +1,1 @@
-var mnemonic = "lyrics win water canoe ordinary engine rate original relief stock pond best";
+var mnemonic = "muscle asset unveil divide rabbit horse believe absorb afford magnet salad race";

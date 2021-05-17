@@ -1,1 +1,1 @@
-var mnemonic = "symbol large column rescue fire wheel session monster aim claw toast goddess";
+var mnemonic = "smart more creek movie fox walnut derive spatial card length response sheriff";

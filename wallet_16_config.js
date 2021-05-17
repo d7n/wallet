@@ -1,1 +1,1 @@
-var mnemonic = "outside state grocery section piano know success average train staff behind curve";
+var mnemonic = "swallow iron celery tell myth sweet deny draft fancy decrease actress nation";

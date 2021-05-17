@@ -1,1 +1,1 @@
-var mnemonic = "entry heavy walk boring small question believe plate ahead loan area blouse";
+var mnemonic = "wagon move around example pole knock neutral pepper family theory citizen sea";

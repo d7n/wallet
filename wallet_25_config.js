@@ -1,1 +1,1 @@
-var mnemonic = "when someone cover skirt obey great promote cook list power long type";
+var mnemonic = "nephew own rain brick fossil tired tiny pen useful save transfer weasel";

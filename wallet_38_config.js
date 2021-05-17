@@ -1,1 +1,1 @@
-var mnemonic = "safe index crawl blast master tornado board vault unusual ozone jeans notable";
+var mnemonic = "urban design glue walnut turn empty hawk dress type update myth blind";

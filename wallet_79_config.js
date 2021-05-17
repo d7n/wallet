@@ -1,1 +1,1 @@
-var mnemonic = "lens panda liar festival bring trigger obey cluster snake unhappy bounce joy";
+var mnemonic = "buzz electric oval volcano pulse card spring expand panda opinion current sunny";

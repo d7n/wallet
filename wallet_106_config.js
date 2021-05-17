@@ -1,1 +1,1 @@
-var mnemonic = "much erase cattle coconut pattern subject guilt wrap figure warrior rigid humble";
+var mnemonic = "beach pulse salute lend exclude security soccer better absurd hospital behave lounge";

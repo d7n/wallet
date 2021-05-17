@@ -1,1 +1,1 @@
-var mnemonic = "base simple equal lift rigid bag common label grocery satisfy zone envelope";
+var mnemonic = "wash race replace foster bind chief burger chimney manual lift scrap reward";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse picnic address canoe destroy west produce rude congress over pool attract";
+var mnemonic = "improve grit base girl citizen buyer box chest expect elder all fire";

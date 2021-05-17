@@ -1,1 +1,1 @@
-var mnemonic = "catch response range critic ask artist color north error donor fringe quick";
+var mnemonic = "nice mesh ensure evolve cloud spike blush label source scene people lake";

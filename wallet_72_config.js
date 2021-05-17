@@ -1,1 +1,1 @@
-var mnemonic = "refuse art toy dilemma regret nurse dirt debris mandate eye mouse balcony";
+var mnemonic = "pause betray lake treat deputy useful fashion tiny weapon cactus load bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor victory assume between spy action sustain inside achieve tiny minor window";
+var mnemonic = "firm garlic refuse main town screen use border child hungry brass property";

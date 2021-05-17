@@ -1,1 +1,1 @@
-var mnemonic = "curious east bicycle add task relief summer concert fold liquid address despair";
+var mnemonic = "caught surprise wait cousin stand push cloth armed exist cruise also tool";

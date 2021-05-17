@@ -1,1 +1,1 @@
-var mnemonic = "enough drop destroy cloud frog record wood solid circle mobile weasel march";
+var mnemonic = "much bulb letter swarm ecology reform device zoo avocado print silk earn";

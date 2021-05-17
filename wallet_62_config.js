@@ -1,1 +1,1 @@
-var mnemonic = "index retire able curve dice toe bomb output trigger into soldier broom";
+var mnemonic = "claim walk school side hire frozen spring chair recycle elite raccoon cat";

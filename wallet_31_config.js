@@ -1,1 +1,1 @@
-var mnemonic = "open bubble pass quick critic purpose message broken merit fix payment oxygen";
+var mnemonic = "power regret myself carbon half zero order easily conduct rifle toilet energy";

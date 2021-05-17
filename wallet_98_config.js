@@ -1,1 +1,1 @@
-var mnemonic = "mention chair tired weather also myth eyebrow suit rain unveil grid sponsor";
+var mnemonic = "march nuclear entry ice enroll oven twin matter thing boat woman quit";

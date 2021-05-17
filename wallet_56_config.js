@@ -1,1 +1,1 @@
-var mnemonic = "voyage maximum version come frozen pig sample trap history task skull write";
+var mnemonic = "deliver bounce young rug unique tip siege grain luxury quantum donate design";

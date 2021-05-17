@@ -1,1 +1,1 @@
-var mnemonic = "champion bachelor surprise repair need radio couple cost level ripple bullet deal";
+var mnemonic = "lamp cousin excess floor crawl canal vintage advice globe local symptom fuel";

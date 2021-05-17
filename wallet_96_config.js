@@ -1,1 +1,1 @@
-var mnemonic = "soldier bread edge laugh liar coral later more mammal tackle success easy";
+var mnemonic = "tiny travel venue plastic final online siege area caution patient mercy physical";

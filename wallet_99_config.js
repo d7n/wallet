@@ -1,1 +1,1 @@
-var mnemonic = "alone canvas burger link animal feel feed powder diet marine upset air";
+var mnemonic = "celery vocal code tomato brain evidence dignity until open dumb dog inherit";

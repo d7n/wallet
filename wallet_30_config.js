@@ -1,1 +1,1 @@
-var mnemonic = "garden giant clock torch park enjoy hold exhaust carry ribbon crop ride";
+var mnemonic = "fog absurd one check transfer tray range grab present budget palm model";

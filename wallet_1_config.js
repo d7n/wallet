@@ -1,1 +1,1 @@
-var mnemonic = "silly jump quarter child visual miss entire slice display asset happy velvet";
+var mnemonic = "talk kick force lion believe cupboard like opinion winner double any fit";

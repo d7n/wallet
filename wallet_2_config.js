@@ -1,1 +1,1 @@
-var mnemonic = "comic symbol yellow report attitude few wrestle order odor marble joke second";
+var mnemonic = "across swallow congress enhance include worth season skate orbit quick excite vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige put glass sell copy traffic million six vanish salute paddle lonely";
+var mnemonic = "angry disagree pencil space magnet drip tourist network actor arch benefit absorb";

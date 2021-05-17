@@ -1,1 +1,1 @@
-var mnemonic = "topic pact shrug icon omit civil claw worry crew bubble miss student";
+var mnemonic = "debris inspire scheme orchard loan able fashion rigid defense shrimp brass claw";

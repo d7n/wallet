@@ -1,1 +1,1 @@
-var mnemonic = "regular depth purchase gospel off claim ticket ostrich category insane push gas";
+var mnemonic = "they roof army depart omit media mixture december good cause account illness";

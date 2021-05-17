@@ -1,1 +1,1 @@
-var mnemonic = "price mimic spirit snack tired matter script segment camp view airport lounge";
+var mnemonic = "debate increase ghost receive tattoo road lucky wreck dizzy drill side enroll";

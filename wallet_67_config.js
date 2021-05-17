@@ -1,1 +1,1 @@
-var mnemonic = "carry foil siren kind buzz wrong keep essence rice place story nephew";
+var mnemonic = "dream topic trick basket play shuffle volcano jazz mountain venture lounge manage";

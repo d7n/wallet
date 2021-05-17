@@ -1,1 +1,1 @@
-var mnemonic = "what party absorb under spoil brief crumble anchor throw consider fitness food";
+var mnemonic = "develop crater dignity climb vapor visit peanut chat panda olive universe fatal";

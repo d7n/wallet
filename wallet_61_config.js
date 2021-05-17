@@ -1,1 +1,1 @@
-var mnemonic = "copy evoke stereo actor man harvest feel reward olive pulse soul develop";
+var mnemonic = "powder fly upset segment tired misery bullet mechanic private receive clay vital";

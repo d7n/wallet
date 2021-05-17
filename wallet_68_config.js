@@ -1,1 +1,1 @@
-var mnemonic = "reunion nurse police affair brush speak option ignore grow consider kind census";
+var mnemonic = "grief history mutual flavor expect involve addict butter confirm eager dial multiply";

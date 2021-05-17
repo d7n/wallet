@@ -1,1 +1,1 @@
-var mnemonic = "trick exhaust item child warrior ability gun monster oppose alpha enhance liar";
+var mnemonic = "miss know lucky unfold feel van gas cupboard twenty jazz spike glue";

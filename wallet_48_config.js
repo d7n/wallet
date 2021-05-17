@@ -1,1 +1,1 @@
-var mnemonic = "myself pilot unusual tunnel dash myself tail leave swap code mercy height";
+var mnemonic = "door shell jaguar hobby together you club satisfy offer chat feel crucial";

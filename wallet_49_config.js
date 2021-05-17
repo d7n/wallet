@@ -1,1 +1,1 @@
-var mnemonic = "glare aware spike tattoo theme emotion amateur awesome hole square wire cannon";
+var mnemonic = "sport swarm grain match riot beach excess novel arrange argue buzz what";

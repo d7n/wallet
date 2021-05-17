@@ -1,1 +1,1 @@
-var mnemonic = "album vast pilot pony limit park runway win weird coral slide shield";
+var mnemonic = "six train butter bleak panel mutual mail morning join soccer degree shine";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch second patrol opinion legend sample oblige cool measure credit ill sense";
+var mnemonic = "believe spare smooth always scene glass use cherry original nation husband media";

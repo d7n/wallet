@@ -1,1 +1,1 @@
-var mnemonic = "van drastic donkey onion feel fun planet cigar promote barely tank seminar";
+var mnemonic = "write task priority eagle exist coast quote auto buzz cruise unveil wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus film act fabric peace harvest outer trigger close hope noise wheel";
+var mnemonic = "convince high regret monitor novel consider hunt loan source joke cargo milk";

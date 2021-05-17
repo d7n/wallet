@@ -1,1 +1,1 @@
-var mnemonic = "art window mouse trade thumb main police mimic primary loyal ability expect";
+var mnemonic = "struggle iron brand round undo owner nerve cancel turtle park cover hint";

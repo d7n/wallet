@@ -1,1 +1,1 @@
-var mnemonic = "mountain whip expire beyond pupil analyst plate feel venue window cart apology";
+var mnemonic = "pioneer output worry hat language pottery orphan love soul leopard wrap churn";

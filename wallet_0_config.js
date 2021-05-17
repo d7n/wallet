@@ -1,1 +1,1 @@
-var mnemonic = "blade supreme ride one art oil front decade mercy replace olive nice";
+var mnemonic = "unaware nation cheese rug note asthma material quantum express bomb topple polar";

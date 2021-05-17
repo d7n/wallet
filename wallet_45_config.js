@@ -1,1 +1,1 @@
-var mnemonic = "find theory aim jealous frost castle melody grunt dynamic pass enact burger";
+var mnemonic = "essay hungry east theory goat unknown diet depth recipe shadow donor absent";

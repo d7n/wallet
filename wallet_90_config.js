@@ -1,1 +1,1 @@
-var mnemonic = "intact pioneer exile sight garage obey congress salt close pig wear fiber";
+var mnemonic = "impulse crater sun vague chalk critic novel violin scorpion canyon essence trial";

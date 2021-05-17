@@ -1,1 +1,1 @@
-var mnemonic = "welcome exile lottery scrap doll movie blur clog scissors soup security special";
+var mnemonic = "empty soda guilt skin limb dinner fish exercise army enjoy economy palace";

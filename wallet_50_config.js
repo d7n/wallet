@@ -1,1 +1,1 @@
-var mnemonic = "cloud essence ordinary volcano hotel lecture lady welcome banner message vessel fringe";
+var mnemonic = "loan soda chimney eye tornado portion impose amount kick bike toddler keep";

@@ -1,1 +1,1 @@
-var mnemonic = "foster mother fee broken glad step security profit next minute tiger opera";
+var mnemonic = "habit tissue course sentence cage female fix glad evoke tunnel actress garlic";

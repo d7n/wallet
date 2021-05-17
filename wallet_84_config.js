@@ -1,1 +1,1 @@
-var mnemonic = "museum action vote young opera minimum ready fragile security kingdom oppose spare";
+var mnemonic = "sibling someone coach shoot fetch cotton shadow gadget use opera file border";

@@ -1,1 +1,1 @@
-var mnemonic = "unique gaze swim cause find shine desert target liberty artist thumb enable";
+var mnemonic = "eyebrow dove tuition cup robust sugar trigger problem pulp virus visa gossip";

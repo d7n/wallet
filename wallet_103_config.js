@@ -1,1 +1,1 @@
-var mnemonic = "clog travel velvet edit relief solution sample blind witness hard glass exotic";
+var mnemonic = "gasp reward trial cargo salon pitch furnace please spot scorpion olive latin";

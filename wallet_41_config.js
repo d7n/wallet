@@ -1,1 +1,1 @@
-var mnemonic = "fame buddy certain indoor bonus garment error report used fish witness multiply";
+var mnemonic = "mountain into furnace flock shield jelly company feed mystery brave coach awful";

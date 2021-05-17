@@ -1,1 +1,1 @@
-var mnemonic = "skull whisper idle arm adapt faculty project profit impose bunker make mushroom";
+var mnemonic = "loan tree awkward today shed wife what option excess enforce sun problem";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel power jewel grace multiply exchange almost train alarm catalog nature sweet";
+var mnemonic = "velvet gospel win weekend turtle embark consider reason web smile denial wheat";

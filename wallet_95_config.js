@@ -1,1 +1,1 @@
-var mnemonic = "churn wire valve endorse spy fresh history slight dawn leaf decline duck";
+var mnemonic = "expire clog frog reject half believe rather age size ill boost indicate";

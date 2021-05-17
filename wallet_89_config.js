@@ -1,1 +1,1 @@
-var mnemonic = "rail mansion odor name voice cool body rose gesture income juice wall";
+var mnemonic = "empty usual onion network guilt crash lesson together monitor swing time crime";

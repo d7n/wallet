@@ -1,1 +1,1 @@
-var mnemonic = "chalk chest chronic wolf glimpse crouch symptom oil hobby iron eternal gaze";
+var mnemonic = "gift enlist unfold maple pattern suggest drink then dry tired art zero";

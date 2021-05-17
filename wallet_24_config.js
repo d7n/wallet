@@ -1,1 +1,1 @@
-var mnemonic = "save virtual ball chase upper crew art usage lizard barrel foot fiction";
+var mnemonic = "marriage adjust rescue stay wasp mean solution fitness trash token bachelor zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "cake latin spend south clown draft traffic eternal above electric media purchase";
+var mnemonic = "shaft into solid gift wing private subway stove gallery start blouse nerve";

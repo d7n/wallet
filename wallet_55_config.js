@@ -1,1 +1,1 @@
-var mnemonic = "affair shed creek enter scan affair fitness abuse vivid crack foam sand";
+var mnemonic = "disorder joy coyote thought fresh fall release position bid giant urban cruise";

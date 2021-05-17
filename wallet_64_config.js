@@ -1,1 +1,1 @@
-var mnemonic = "walk office cabbage happy tunnel proud recall bounce stick laugh walk eyebrow";
+var mnemonic = "grow father dad idle social divorce element toy road misery start tongue";

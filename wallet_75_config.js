@@ -1,1 +1,1 @@
-var mnemonic = "dove egg increase bench hollow flip real park crew sheriff script ridge";
+var mnemonic = "payment tilt disagree before void cream object average between wink style special";

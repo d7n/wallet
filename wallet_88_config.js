@@ -1,1 +1,1 @@
-var mnemonic = "pistol spot plate dove initial frozen old quit pear palm hire second";
+var mnemonic = "flee topple sing vocal vault history system diary this between innocent pool";

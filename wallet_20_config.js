@@ -1,1 +1,1 @@
-var mnemonic = "car friend royal strong now ladder stamp choice ozone family salute indoor";
+var mnemonic = "clever sport first venue genius celery seed quit long hunt ball shrug";

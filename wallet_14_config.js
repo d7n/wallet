@@ -1,1 +1,1 @@
-var mnemonic = "history meadow walnut resource force mosquito impose member monitor satisfy love drill";
+var mnemonic = "drum eager young connect junior gold nasty magic end sword expose stairs";

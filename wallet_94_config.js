@@ -1,1 +1,1 @@
-var mnemonic = "pole identify blue nephew meadow canoe grab business mixed limb fall tool";
+var mnemonic = "exclude nasty galaxy day spy believe rice flower harsh scrub inflict state";

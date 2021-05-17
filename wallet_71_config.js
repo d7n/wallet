@@ -1,1 +1,1 @@
-var mnemonic = "slight cage also peace gesture young print ceiling trash arctic person bacon";
+var mnemonic = "fox twice net cup visual marble vote cloud train round shallow bicycle";

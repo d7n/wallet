@@ -1,1 +1,1 @@
-var mnemonic = "human unveil label dawn zone camera census fantasy obvious fever blind say";
+var mnemonic = "awake dish awful imitate blush scrap shine distance main drum figure cheese";

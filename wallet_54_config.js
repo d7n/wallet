@@ -1,1 +1,1 @@
-var mnemonic = "fatigue idea bubble unaware rocket decline insane witness margin typical attract captain";
+var mnemonic = "shrug bench arm cactus glory waste gap midnight adult dove arrange toddler";

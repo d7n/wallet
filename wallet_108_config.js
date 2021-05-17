@@ -1,1 +1,1 @@
-var mnemonic = "exercise island west maple sugar head crack furnace modify age memory glue";
+var mnemonic = "inspire viable arrow render know sword warrior kit ridge town price isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "idle expand display chuckle buffalo rare monitor file blur usage media apple";
+var mnemonic = "hat pyramid panel convince shallow expire actual help bench promote poet forward";

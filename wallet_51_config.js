@@ -1,1 +1,1 @@
-var mnemonic = "claim disorder certain funny surface loud flip cancel combine bargain equip know";
+var mnemonic = "cute sea sort claw typical roast try produce summer ugly found argue";

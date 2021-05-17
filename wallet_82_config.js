@@ -1,1 +1,1 @@
-var mnemonic = "solar dignity innocent group civil type solve modify tomorrow pass later behave";
+var mnemonic = "match raccoon multiply alpha sting purse write run mix surge staff leg";

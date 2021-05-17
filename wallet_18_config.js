@@ -1,1 +1,1 @@
-var mnemonic = "robot canal chief exist dog aerobic garage diamond fuel raven vibrant staff";
+var mnemonic = "hip rebel shoot ahead fresh target void stock word flock must sort";

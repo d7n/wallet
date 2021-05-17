@@ -1,1 +1,1 @@
-var mnemonic = "thrive endless resemble decade bag castle label torch useless coach nerve season";
+var mnemonic = "token coach path grocery over pass foil door true token say usual";

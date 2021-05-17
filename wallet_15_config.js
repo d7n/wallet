@@ -1,1 +1,1 @@
-var mnemonic = "twist kit baby decide fish exact behave arena horn head benefit weasel";
+var mnemonic = "lab snap soap orient suggest certain nature among butter motor boy enable";

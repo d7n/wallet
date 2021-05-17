@@ -1,1 +1,1 @@
-var mnemonic = "peasant mass grain hedgehog conduct boy submit very wheel camp lawsuit prosper";
+var mnemonic = "oyster language orange oval region leave hello arctic walk expand sock garment";

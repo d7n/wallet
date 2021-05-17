@@ -1,1 +1,1 @@
-var mnemonic = "memory novel surprise dial steel lottery mystery expect menu diagram tape dizzy";
+var mnemonic = "carpet mountain october van client topic wife fringe almost hamster mean about";

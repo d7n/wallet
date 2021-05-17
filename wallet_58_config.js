@@ -1,1 +1,1 @@
-var mnemonic = "impose just caution tiny spread more original fold drift near happy blossom";
+var mnemonic = "expand drift piano organ tunnel neutral evolve way bring horse interest screen";

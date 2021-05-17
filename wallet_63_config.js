@@ -1,1 +1,1 @@
-var mnemonic = "brass educate helmet wasp dynamic save rapid desert rich bar chef more";
+var mnemonic = "panther adjust balance cinnamon mom actor paper ramp key canyon six enact";

@@ -1,1 +1,1 @@
-var mnemonic = "manage better section slice okay oak tomato siege element police grit tag";
+var mnemonic = "can flock alter doctor olive citizen client forget penalty ticket bicycle umbrella";

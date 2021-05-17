@@ -1,1 +1,1 @@
-var mnemonic = "spend spatial host group radar artefact neither heart exercise urban entry bridge";
+var mnemonic = "topple goose dismiss type high address wisdom execute depth remember that potato";

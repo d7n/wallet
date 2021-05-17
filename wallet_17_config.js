@@ -1,1 +1,1 @@
-var mnemonic = "unfold taste kangaroo bid mango stadium list clog useful play funny praise";
+var mnemonic = "puppy marriage observe inquiry spray genius auction anger nominee wear promote flee";

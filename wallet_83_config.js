@@ -1,1 +1,1 @@
-var mnemonic = "isolate voyage weapon broccoli sword chief coin diet tourist insect mechanic canal";
+var mnemonic = "armor loop brave fetch cereal silver output flag miracle age cotton baby";

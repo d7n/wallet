@@ -1,1 +1,1 @@
-var mnemonic = "group bicycle neither release dream orient donkey vicious chunk music engage lift";
+var mnemonic = "expose canyon mushroom stable title remember brain wrist clerk miss upgrade rival";

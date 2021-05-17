@@ -1,1 +1,1 @@
-var mnemonic = "wide edge pond forest leg erupt absurd husband write grace radar sketch";
+var mnemonic = "spend wood tumble swallow indoor spoil dream during slow engage rare blade";

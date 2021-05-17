@@ -1,1 +1,1 @@
-var mnemonic = "dove wood cement tragic render this satisfy casino ask shove vacuum quiz";
+var mnemonic = "team topple cannon kingdom rally initial broken mesh phone drastic trip useful";
