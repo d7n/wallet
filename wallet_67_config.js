@@ -1,1 +1,1 @@
-var mnemonic = "soda pupil mesh unveil wage pipe labor ripple famous begin mind material";
+var mnemonic = "verify loud ill ranch muffin cannon kite near cute nation erode modify";

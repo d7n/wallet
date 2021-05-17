@@ -1,1 +1,1 @@
-var mnemonic = "purpose buddy east curve boat pause spike only type excuse asthma quality";
+var mnemonic = "reunion leader dove where slice uncover mad cream ordinary expose upset image";

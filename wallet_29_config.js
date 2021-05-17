@@ -1,1 +1,1 @@
-var mnemonic = "jealous marriage nominee divide weapon trouble bread dish try man conduct moral";
+var mnemonic = "loyal deliver trip couple panda rug coyote govern accident exhibit science crucial";

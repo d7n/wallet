@@ -1,1 +1,1 @@
-var mnemonic = "parent unaware claim unknown panic smart whisper hip hat joke truly rose";
+var mnemonic = "other ocean clock planet march black text real page ethics south exhibit";

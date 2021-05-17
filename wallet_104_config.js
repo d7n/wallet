@@ -1,1 +1,1 @@
-var mnemonic = "certain either media imitate cactus caution super warrior fit reveal person crater";
+var mnemonic = "wisdom rely beach bronze miss like spy around blast idle sorry metal";

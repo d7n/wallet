@@ -1,1 +1,1 @@
-var mnemonic = "grain govern repeat lake buyer frequent squeeze wish chunk claw net twelve";
+var mnemonic = "marble lift mammal journey change tree body write flee collect display assume";

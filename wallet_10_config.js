@@ -1,1 +1,1 @@
-var mnemonic = "pill broken eternal uphold thank copper tiger mean three account affair action";
+var mnemonic = "rhythm abandon today size fresh ramp sorry stick extra good minimum layer";

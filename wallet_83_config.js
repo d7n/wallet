@@ -1,1 +1,1 @@
-var mnemonic = "cross jump express minor flash local hurry nephew liar immense emerge weird";
+var mnemonic = "airport goat rely buddy flower horror crane mesh tragic solve brush version";

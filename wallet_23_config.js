@@ -1,1 +1,1 @@
-var mnemonic = "drastic remind equal subject spider garbage fabric angry chief humble vessel sock";
+var mnemonic = "joke leisure hurry volume item delay giggle rude rookie glad margin play";

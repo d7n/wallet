@@ -1,1 +1,1 @@
-var mnemonic = "truly popular noise soft detail correct bottom indicate lizard spray bundle copy";
+var mnemonic = "country change wet cannon health educate gym barely ring illegal top excess";

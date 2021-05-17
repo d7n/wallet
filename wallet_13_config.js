@@ -1,1 +1,1 @@
-var mnemonic = "immune index wink hotel egg marine melt age visit present tired extend";
+var mnemonic = "grow bridge toss return profit cushion guide field faculty certain awful forest";

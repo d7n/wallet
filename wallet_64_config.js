@@ -1,1 +1,1 @@
-var mnemonic = "inch leave bean divorce clump pencil canvas trim oval drum try cable";
+var mnemonic = "spare upper iron sand cliff eight crush wide evoke lemon scatter kind";

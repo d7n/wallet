@@ -1,1 +1,1 @@
-var mnemonic = "hurt useful dismiss elder pepper pond piece real arrange demise age shop";
+var mnemonic = "affair later raise hen fever chief turn strike face scene fine fold";

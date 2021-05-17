@@ -1,1 +1,1 @@
-var mnemonic = "comic exact weekend leave valid hip smart pact useful critic dove powder";
+var mnemonic = "rail palace odor put piece slot blue credit owner cherry voice balance";

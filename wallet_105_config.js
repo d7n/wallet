@@ -1,1 +1,1 @@
-var mnemonic = "inhale pill shock skirt toss nest immense purpose prevent diary oval knee";
+var mnemonic = "loud veteran attitude course purchase consider pattern hill say plate honey lens";

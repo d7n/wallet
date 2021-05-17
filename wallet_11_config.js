@@ -1,1 +1,1 @@
-var mnemonic = "invite grant suspect creek vocal fragile horn gloom client fuel giraffe census";
+var mnemonic = "talent monkey verb wagon topple confirm funny milk biology example ice position";

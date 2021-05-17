@@ -1,1 +1,1 @@
-var mnemonic = "dragon square rare seven awake finger false amateur gate modify choice link";
+var mnemonic = "fancy melt caution trade action surface tenant swap satoshi recipe fee edge";

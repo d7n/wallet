@@ -1,1 +1,1 @@
-var mnemonic = "fiction faith pumpkin mimic valley switch lens alone question truth produce tattoo";
+var mnemonic = "envelope tomato any lobster grab unable cancel month card ghost short onion";

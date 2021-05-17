@@ -1,1 +1,1 @@
-var mnemonic = "obvious match empty buyer dizzy allow weird alley flight silk argue jelly";
+var mnemonic = "force blush gadget once riot endless autumn half will across city blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "depend loud quality reject normal explain stumble knee crowd stage casual vacuum";
+var mnemonic = "corn battle hire middle mouse equal bind ceiling ability fault helmet core";

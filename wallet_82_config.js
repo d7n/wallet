@@ -1,1 +1,1 @@
-var mnemonic = "foil master bulk beyond finish reject client human soap museum rebel random";
+var mnemonic = "happy ordinary donkey civil tunnel one bike odor special vendor panic pole";

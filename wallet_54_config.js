@@ -1,1 +1,1 @@
-var mnemonic = "october drill devote path demand pen utility secret lucky invite aspect cabbage";
+var mnemonic = "comic sight ten bread check artefact spot belt luggage black near game";

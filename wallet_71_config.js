@@ -1,1 +1,1 @@
-var mnemonic = "guilt east width connect soft floor forest image time shine version rail";
+var mnemonic = "stadium margin episode trophy setup pride clap debate asthma clerk trust law";

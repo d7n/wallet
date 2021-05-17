@@ -1,1 +1,1 @@
-var mnemonic = "odor fatigue earth actor divorce virtual icon provide harbor giant burden mesh";
+var mnemonic = "polar right swallow answer walk phrase school skirt trial link chimney strike";

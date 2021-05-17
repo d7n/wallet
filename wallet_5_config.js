@@ -1,1 +1,1 @@
-var mnemonic = "blush suggest profit hurdle subject boss drip brand cluster sad ecology vacant";
+var mnemonic = "urban melt stone prison acquire power paper wink plastic vault father unhappy";

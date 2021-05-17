@@ -1,1 +1,1 @@
-var mnemonic = "only gauge paper impose wild quality used stool work choice gossip parent";
+var mnemonic = "brown sketch innocent pave mass fresh lion clip crater negative reason prevent";

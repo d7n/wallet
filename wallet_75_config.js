@@ -1,1 +1,1 @@
-var mnemonic = "drive theme correct prosper gossip gospel huge layer sentence match fence jacket";
+var mnemonic = "other message magnet junior vast deposit chaos roast train govern misery debris";

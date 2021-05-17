@@ -1,1 +1,1 @@
-var mnemonic = "undo leader direct roast erosion valley cabin alley wrong clog sport few";
+var mnemonic = "fiscal wise steak enjoy brand wear rib surface robot predict wedding height";

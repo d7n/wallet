@@ -1,1 +1,1 @@
-var mnemonic = "sentence frown arm never book shrimp deer clap alcohol endorse final process";
+var mnemonic = "fabric embrace choice address space glue goddess fever noodle put apology print";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward scan trip follow path cattle sun despair snow wrestle art venture";
+var mnemonic = "crystal payment quote carpet draft bunker suffer battle negative area pear crop";

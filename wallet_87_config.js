@@ -1,1 +1,1 @@
-var mnemonic = "hole double become know salute vanish layer senior suggest sentence cargo music";
+var mnemonic = "weather dinosaur lunar phone monster want track fury spoon enough choice deny";

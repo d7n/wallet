@@ -1,1 +1,1 @@
-var mnemonic = "actress crime common broccoli ignore guilt paper regular churn use unknown rifle";
+var mnemonic = "fabric jaguar food waste orchard pioneer elder vehicle kitchen apology jacket amused";

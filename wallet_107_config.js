@@ -1,1 +1,1 @@
-var mnemonic = "tail join prepare toward violin security hill service scatter such butter vintage";
+var mnemonic = "hospital split twice rather cattle where talent right broom match clarify front";

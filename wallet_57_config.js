@@ -1,1 +1,1 @@
-var mnemonic = "bread panda banner lunch recycle govern trophy strong camera bomb card nurse";
+var mnemonic = "exclude embody pig concert lion tiger civil again major survey electric tip";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe stem holiday crazy prize buzz immune jelly gain hurry bubble just";
+var mnemonic = "denial two fine cover list chat crack buffalo lift normal buddy goddess";

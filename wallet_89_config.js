@@ -1,1 +1,1 @@
-var mnemonic = "oval coach language cycle sense material giraffe then diet air gentle pluck";
+var mnemonic = "cry seed connect fade garlic teach camp history antenna sound tackle humble";

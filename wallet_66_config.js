@@ -1,1 +1,1 @@
-var mnemonic = "walnut tragic artefact festival vessel crumble surprise peasant hockey account mandate host";
+var mnemonic = "initial bar pioneer follow chest love clarify arrow dwarf mule review stool";

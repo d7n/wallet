@@ -1,1 +1,1 @@
-var mnemonic = "pig urban venue life come affair expire define echo transfer pupil pioneer";
+var mnemonic = "midnight uncle obvious float soup myth sea taste long health defense ski";

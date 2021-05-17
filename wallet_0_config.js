@@ -1,1 +1,1 @@
-var mnemonic = "staff shoulder globe permit you now text web useless birth august ripple";
+var mnemonic = "arrange angry jewel beach gift matrix lemon wasp cycle place razor vapor";

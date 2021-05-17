@@ -1,1 +1,1 @@
-var mnemonic = "text inflict monster miss banana good brass junior road current purpose unhappy";
+var mnemonic = "process sample arrive robust connect merit found pluck found wink napkin bubble";

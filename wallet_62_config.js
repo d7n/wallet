@@ -1,1 +1,1 @@
-var mnemonic = "pupil gym ritual toward clerk wire upon hurdle rule fever nation spirit";
+var mnemonic = "crouch decide key gospel icon secret labor country gap humor ill ride";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny size mountain better indicate sport eight curious summer sister pencil lounge";
+var mnemonic = "essence only glove friend fiber sand primary shy orchard defense nerve body";

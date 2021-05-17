@@ -1,1 +1,1 @@
-var mnemonic = "jewel deposit skate prepare curtain coach reduce oval kitchen essence diet youth";
+var mnemonic = "lab love wonder nature spread artefact mix fruit venue engage police kitten";

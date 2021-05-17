@@ -1,1 +1,1 @@
-var mnemonic = "call area today nature virus master asset fiber sentence soul cry mirror";
+var mnemonic = "purchase social illegal large defense turtle calm describe silver finish sausage ladder";

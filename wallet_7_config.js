@@ -1,1 +1,1 @@
-var mnemonic = "scorpion cover episode exile trim fatal affair wild menu unique spin fish";
+var mnemonic = "giraffe pipe depend tumble like sound resource finish traffic cloth canyon tree";

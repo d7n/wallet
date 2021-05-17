@@ -1,1 +1,1 @@
-var mnemonic = "west tomorrow point torch track level capable churn spatial art garage gasp";
+var mnemonic = "split summer trick illness magic sketch border subway snake spare monster hat";

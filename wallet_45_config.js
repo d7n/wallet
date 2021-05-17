@@ -1,1 +1,1 @@
-var mnemonic = "reject sick ignore broccoli brisk link column multiply poet obtain oppose swap";
+var mnemonic = "someone rack squeeze brass chimney exist army lemon truth island page hip";

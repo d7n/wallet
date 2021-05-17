@@ -1,1 +1,1 @@
-var mnemonic = "prefer mutual comfort spend whisper alcohol glimpse student wrong mixed cloud typical";
+var mnemonic = "nut embark pink nothing fish ring trap divert tag refuse culture hurt";

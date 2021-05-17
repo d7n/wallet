@@ -1,1 +1,1 @@
-var mnemonic = "picnic divert total soup galaxy waste cup pencil space across start convince";
+var mnemonic = "quote mercy space mirror suffer van explain camp cave note zoo minimum";

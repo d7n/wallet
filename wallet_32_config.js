@@ -1,1 +1,1 @@
-var mnemonic = "wait move cotton panic midnight hover electric mixture humble confirm write guide";
+var mnemonic = "train gravity flower vicious dream lock laptop symptom evidence gain share boy";

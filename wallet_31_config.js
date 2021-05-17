@@ -1,1 +1,1 @@
-var mnemonic = "future interest paper ginger finger noise easily wide shoulder dawn chair stage";
+var mnemonic = "member walk matrix appear rain defy brown hazard merge picture bicycle short";

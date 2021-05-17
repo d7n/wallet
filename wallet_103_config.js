@@ -1,1 +1,1 @@
-var mnemonic = "day steel sunset tunnel foam guess weasel charge critic field soda fish";
+var mnemonic = "alien near chronic ethics pigeon long smile dilemma viable slice artefact trend";

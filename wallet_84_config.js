@@ -1,1 +1,1 @@
-var mnemonic = "tuna add tail young one hill crucial adult pupil include notable game";
+var mnemonic = "unaware pizza board denial couple text elbow box doctor shell ankle million";

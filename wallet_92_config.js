@@ -1,1 +1,1 @@
-var mnemonic = "letter hub cabbage match curious episode category raise help practice success harsh";
+var mnemonic = "blame turkey rose edge beyond spawn adult large acoustic hammer feature tail";

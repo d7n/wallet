@@ -1,1 +1,1 @@
-var mnemonic = "chronic drastic resemble treat nation exist direct render bacon museum timber assault";
+var mnemonic = "guard peasant quick discover eye student voyage job permit brick link assault";

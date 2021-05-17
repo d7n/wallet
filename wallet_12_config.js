@@ -1,1 +1,1 @@
-var mnemonic = "illegal entire brave spin half unlock curtain grace survey security beef measure";
+var mnemonic = "oppose result miss amused volcano marble census kiwi number opera lizard chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle weasel employ jelly letter dose steel sponsor light input west long";
+var mnemonic = "inhale empower wrestle vibrant addict math rough embody business comic axis steak";

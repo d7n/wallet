@@ -1,1 +1,1 @@
-var mnemonic = "exist resource gym mutual vicious dizzy envelope slot metal rescue miracle civil";
+var mnemonic = "tired spawn process genre luggage mountain usage cactus audit badge choose scene";

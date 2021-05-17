@@ -1,1 +1,1 @@
-var mnemonic = "knee fancy talk dignity happy boil uncover stereo resemble tower maximum real";
+var mnemonic = "bid fall disagree mouse engine fall drastic vital sword debate ginger wrestle";

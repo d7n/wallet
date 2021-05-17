@@ -1,1 +1,1 @@
-var mnemonic = "cereal armed common slight shock miracle next group wheel pulse elephant position";
+var mnemonic = "portion cliff delay trap common fury right crater course twin boy top";

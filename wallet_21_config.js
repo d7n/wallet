@@ -1,1 +1,1 @@
-var mnemonic = "island album twice awkward ivory cricket song since genius mouse auto stay";
+var mnemonic = "aim wall forum crash leg nice utility desert burger crouch liberty attack";

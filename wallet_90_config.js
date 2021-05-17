@@ -1,1 +1,1 @@
-var mnemonic = "exact shop tennis open believe armed betray gasp chief name quick jealous";
+var mnemonic = "tell lab hammer situate select actual ability cat walk clean portion length";

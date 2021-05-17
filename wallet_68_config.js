@@ -1,1 +1,1 @@
-var mnemonic = "throw device bridge like curious ensure foil dutch desk vault bulk rocket";
+var mnemonic = "hello pig gift giant unique deputy fence give recall cousin roast genius";

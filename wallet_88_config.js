@@ -1,1 +1,1 @@
-var mnemonic = "funny total goat butter first shop arm lyrics canvas away junk height";
+var mnemonic = "similar position sphere fragile oblige fancy skill produce allow kind mimic creek";

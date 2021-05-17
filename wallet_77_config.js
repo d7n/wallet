@@ -1,1 +1,1 @@
-var mnemonic = "kiss cargo machine aspect life winter discover want ticket lazy sign volcano";
+var mnemonic = "want stove enjoy lazy mass frost trap upgrade educate garbage cover decline";

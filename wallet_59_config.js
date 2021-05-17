@@ -1,1 +1,1 @@
-var mnemonic = "seminar stereo smile pipe buzz doll idle fame course midnight fiber snack";
+var mnemonic = "shove invest country script bronze wheel off crew evil rhythm bean question";

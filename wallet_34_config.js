@@ -1,1 +1,1 @@
-var mnemonic = "waste unfair emotion car gap omit birth arrange record claw spy yard";
+var mnemonic = "increase umbrella foot foster convince expand develop brick suffer put safe paddle";

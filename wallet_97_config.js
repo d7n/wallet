@@ -1,1 +1,1 @@
-var mnemonic = "monster manage tube follow lemon cream skull sell cigar route bounce rib";
+var mnemonic = "bus inhale cereal shaft warm border plate pony ramp young pluck review";

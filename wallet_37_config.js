@@ -1,1 +1,1 @@
-var mnemonic = "grid eager round jelly improve tortoise wrap gentle miracle obscure idea bike";
+var mnemonic = "color catch sun price dentist memory invest what purity game cheese avoid";

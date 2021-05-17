@@ -1,1 +1,1 @@
-var mnemonic = "angry yard ketchup milk list mandate spatial ritual penalty surface pact marble";
+var mnemonic = "outside hen topple farm famous grain penalty devote salon sphere journey lyrics";

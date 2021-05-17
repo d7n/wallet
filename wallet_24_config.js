@@ -1,1 +1,1 @@
-var mnemonic = "desk open next balance screen embark when limit diet loan coin ordinary";
+var mnemonic = "youth rough afraid swing friend lens client enact struggle enhance coin have";

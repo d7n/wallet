@@ -1,1 +1,1 @@
-var mnemonic = "coil forward blush digital sample boy tornado seat three half limb coffee";
+var mnemonic = "master suggest circle stairs collect orchard inhale repeat engage impact vocal pact";

@@ -1,1 +1,1 @@
-var mnemonic = "reject aunt arrest meadow primary category able victory gym steak fee you";
+var mnemonic = "embody dream dutch analyst two special viable leaf alarm net punch wealth";

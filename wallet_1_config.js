@@ -1,1 +1,1 @@
-var mnemonic = "climb govern absent stock kind color river teach finish release cliff master";
+var mnemonic = "thunder victory replace screen sister project initial basic program boost fault afford";

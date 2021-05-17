@@ -1,1 +1,1 @@
-var mnemonic = "hockey alarm spatial buffalo antenna disease struggle give various effort bless other";
+var mnemonic = "vault steel address assault dust extra enlist hurt renew master holiday pill";

@@ -1,1 +1,1 @@
-var mnemonic = "flame volcano process fiber dash aim make clap keen follow legal early";
+var mnemonic = "soldier alone type vocal basket sunset sauce robust opera reform clever mad";

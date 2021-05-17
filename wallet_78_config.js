@@ -1,1 +1,1 @@
-var mnemonic = "device state frown chunk dish gorilla page pave fine attitude length emerge";
+var mnemonic = "fitness notice negative skate slight aisle select toy climb effort tribe coral";

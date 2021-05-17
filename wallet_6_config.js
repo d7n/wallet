@@ -1,1 +1,1 @@
-var mnemonic = "benefit swear exotic fatal feed basket cabin riot first ship allow style";
+var mnemonic = "able melt friend throw raccoon search genuine boat wagon result expire insane";

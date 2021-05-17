@@ -1,1 +1,1 @@
-var mnemonic = "cabin rotate acquire spin rain trap ignore exhaust border car deputy dad";
+var mnemonic = "giraffe battle core pilot air volcano turkey option senior unaware buffalo concert";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk color purpose confirm stereo afraid filter rescue frozen cigar elephant sand";
+var mnemonic = "rhythm duck report obvious narrow quality learn predict job tragic feature burden";

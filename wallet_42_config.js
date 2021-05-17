@@ -1,1 +1,1 @@
-var mnemonic = "twice autumn sudden detail genre belt sting employ vanish mean food rib";
+var mnemonic = "mean never receive economy detail banner analyst august auto carry enrich abuse";

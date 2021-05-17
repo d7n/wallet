@@ -1,1 +1,1 @@
-var mnemonic = "eagle bomb picture figure else theory coil dismiss scrub nuclear brain rare";
+var mnemonic = "total goose foster guilt image virtual swift notice puppy raise meat bag";

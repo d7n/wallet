@@ -1,1 +1,1 @@
-var mnemonic = "pen slide flame art check aim shallow rival seek east guess resemble";
+var mnemonic = "broccoli drastic thrive fantasy present again unusual above turtle cattle kind joy";

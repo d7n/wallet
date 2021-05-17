@@ -1,1 +1,1 @@
-var mnemonic = "toward fire girl riot mix mouse occur fan tribe ignore plunge guess";
+var mnemonic = "census picture seven cash decrease joke goose echo height settle mistake crack";

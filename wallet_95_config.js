@@ -1,1 +1,1 @@
-var mnemonic = "alter soldier coconut west wing planet expose vanish hawk seven pigeon crowd";
+var mnemonic = "solid business accident jungle toss live item jungle until happy purchase pilot";

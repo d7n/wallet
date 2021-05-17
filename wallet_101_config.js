@@ -1,1 +1,1 @@
-var mnemonic = "local chuckle real mouse forest under render phrase expect spy lemon avoid";
+var mnemonic = "average cheap dragon reflect music stable cousin knee install hockey salute uphold";
