@@ -1,1 +1,1 @@
-var mnemonic = "miss enter tide buyer disorder update velvet fresh crucial tunnel survey talent";
+var mnemonic = "truly local zebra bounce wealth horror parent ozone purse thunder advance credit";

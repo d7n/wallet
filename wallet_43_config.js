@@ -1,1 +1,1 @@
-var mnemonic = "price outside clever credit alter smart hold elegant peasant lady tourist curious";
+var mnemonic = "bread try common wrestle absent permit test source gold taxi pizza adjust";

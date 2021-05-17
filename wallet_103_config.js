@@ -1,1 +1,1 @@
-var mnemonic = "account elbow garbage must chest build copper camp sweet valve turn coil";
+var mnemonic = "snake address rain raise earn spider immense start top color turkey chaos";

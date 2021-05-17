@@ -1,1 +1,1 @@
-var mnemonic = "banana truth forest birth sail iron way little runway monkey bamboo party";
+var mnemonic = "provide wink frown shoot salute alter fancy outer defy olive evil fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "faith large license tide bitter wisdom near sample learn accuse keep foot";
+var mnemonic = "blood tone salute drum chimney resource normal hedgehog scorpion carpet moon huge";

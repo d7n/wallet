@@ -1,1 +1,1 @@
-var mnemonic = "multiply elder gorilla peanut gloom spell nest olympic coyote solution later share";
+var mnemonic = "sun fun goose crime enjoy supreme elite upgrade remind sphere voyage ceiling";

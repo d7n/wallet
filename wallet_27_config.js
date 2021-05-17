@@ -1,1 +1,1 @@
-var mnemonic = "exclude buffalo total repeat scene there mesh wait inmate minute regret wedding";
+var mnemonic = "loud galaxy used romance debate wait pattern position panda hero such toward";

@@ -1,1 +1,1 @@
-var mnemonic = "violin wing universe legal file island suffer crush left faith pen rapid";
+var mnemonic = "miss regret wisdom human genius rough claw solar uncle acquire large trust";

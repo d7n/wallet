@@ -1,1 +1,1 @@
-var mnemonic = "noble scissors satisfy phone lawn print unique woman buffalo announce scare cook";
+var mnemonic = "range milk intact royal twist luggage faint drip thunder wife output valley";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon spell volume bone tent loyal chef income muffin desk tortoise hobby";
+var mnemonic = "spell seven gossip want shallow absorb walk pigeon street burger lawn venture";

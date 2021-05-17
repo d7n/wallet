@@ -1,1 +1,1 @@
-var mnemonic = "little address orange sleep stone accuse badge piano release rabbit shoulder alpha";
+var mnemonic = "visit morning mean quiz man cream pistol iron swear merry library soccer";

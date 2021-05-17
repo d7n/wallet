@@ -1,1 +1,1 @@
-var mnemonic = "gesture final forum roof awful loan system canal pluck december vocal judge";
+var mnemonic = "scrap boss payment second shield visa basic where grocery flame magic shuffle";

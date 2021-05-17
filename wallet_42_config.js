@@ -1,1 +1,1 @@
-var mnemonic = "copper sail trial sea main eternal original wall analyst faith cage blanket";
+var mnemonic = "dismiss brave rocket share level minor change torch scrub spice inspire advance";

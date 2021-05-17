@@ -1,1 +1,1 @@
-var mnemonic = "admit where print shrimp appear salt wait oak chunk battle protect mountain";
+var mnemonic = "insect method please wide guilt solid calm protect tissue tray today swift";

@@ -1,1 +1,1 @@
-var mnemonic = "table team drum search midnight giraffe first stadium tongue myself master picnic";
+var mnemonic = "service sign jungle limb ski kingdom honey slow wrong battle outdoor lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner pond creek warfare toy audit outside cancel cream chimney clump defense";
+var mnemonic = "trouble always remind tomorrow hover broom transfer sick prevent saddle scan ugly";

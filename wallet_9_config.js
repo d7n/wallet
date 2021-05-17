@@ -1,1 +1,1 @@
-var mnemonic = "toss answer foster aware club panther pottery bargain that wage sorry stool";
+var mnemonic = "north report april add actress quantum virus claim wide length source run";

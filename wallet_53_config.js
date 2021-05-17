@@ -1,1 +1,1 @@
-var mnemonic = "gold payment humble young until behind nature transfer march vast margin purse";
+var mnemonic = "yellow fiscal cruel game absent wife wink obtain asset puzzle thrive shy";

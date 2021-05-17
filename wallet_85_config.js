@@ -1,1 +1,1 @@
-var mnemonic = "tennis all pencil burst slim autumn mom live biology rent maid gauge";
+var mnemonic = "very drum north tip mad fox become give right broken roof evidence";

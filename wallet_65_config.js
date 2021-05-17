@@ -1,1 +1,1 @@
-var mnemonic = "hospital endorse permit convince wrist erupt hockey castle upgrade join wear genius";
+var mnemonic = "enjoy thank tribe another evoke nurse eager thought notable seat slam play";

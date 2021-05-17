@@ -1,1 +1,1 @@
-var mnemonic = "clip health spell sure feature sign hold salmon inquiry young ribbon famous";
+var mnemonic = "upon glue chicken nephew science hybrid tape garden wear example invite merit";

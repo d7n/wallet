@@ -1,1 +1,1 @@
-var mnemonic = "response report eagle divert tennis thank critic execute result comic uncover ice";
+var mnemonic = "salad hole captain forget member input draft enroll rebel camp junior human";

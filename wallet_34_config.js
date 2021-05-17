@@ -1,1 +1,1 @@
-var mnemonic = "merry water grunt alert spawn fly water wine curve tissue dune corn";
+var mnemonic = "fiction build fiction steak dilemma time leopard merge pig dragon attitude pretty";

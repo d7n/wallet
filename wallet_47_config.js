@@ -1,1 +1,1 @@
-var mnemonic = "never neck need smoke sting you laundry oblige brother flavor appear punch";
+var mnemonic = "slim clock series million alert liquid already bar direct snake donkey sing";

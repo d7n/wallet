@@ -1,1 +1,1 @@
-var mnemonic = "race front combine echo confirm taste consider embody pigeon lamp rug video";
+var mnemonic = "stock hint advice carpet farm measure someone muscle squirrel neutral soon later";

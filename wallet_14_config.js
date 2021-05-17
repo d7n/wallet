@@ -1,1 +1,1 @@
-var mnemonic = "gym million name blood pulse steak yellow estate merge common friend diary";
+var mnemonic = "mansion humble danger admit please hundred object copper high aisle drift favorite";

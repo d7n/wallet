@@ -1,1 +1,1 @@
-var mnemonic = "lava girl crash defense group stairs gun tool domain illegal barely focus";
+var mnemonic = "vehicle pass project twist weekend cruise essay prison fossil zone off meadow";

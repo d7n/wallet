@@ -1,1 +1,1 @@
-var mnemonic = "attend tonight chat dad praise churn cancel curve multiply icon simple mix";
+var mnemonic = "gauge cube judge benefit chief ginger pudding express lonely tube cart maximum";

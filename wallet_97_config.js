@@ -1,1 +1,1 @@
-var mnemonic = "merry brave gate arch twenty word fragile frozen casual cupboard child curtain";
+var mnemonic = "outdoor heart hen parade parent minimum slender ghost fiction airport nephew drive";

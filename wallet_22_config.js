@@ -1,1 +1,1 @@
-var mnemonic = "pioneer bean situate tragic message swarm common custom calm fever clean guide";
+var mnemonic = "nominee mansion orient table web sunset item cat dose hollow collect puppy";

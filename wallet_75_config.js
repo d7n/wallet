@@ -1,1 +1,1 @@
-var mnemonic = "benefit wonder plug treat season submit wait cinnamon bring faculty evil swear";
+var mnemonic = "scrub crumble banner help mutual liberty wall veteran element charge help bird";

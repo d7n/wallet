@@ -1,1 +1,1 @@
-var mnemonic = "unlock group topic bargain laptop switch draft duck interest genre elevator carbon";
+var mnemonic = "april dune wise genius good leaf illegal broom certain meadow alcohol legend";

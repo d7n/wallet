@@ -1,1 +1,1 @@
-var mnemonic = "oval possible lift jazz swap capital group faith various detect mom brisk";
+var mnemonic = "job hen dinosaur rubber seed original boost vendor trial head olive country";

@@ -1,1 +1,1 @@
-var mnemonic = "execute return category copy steel february wave net lonely neither diamond rib";
+var mnemonic = "task friend faculty wear tortoise differ wall fossil churn gas season torch";

@@ -1,1 +1,1 @@
-var mnemonic = "noble tomato veteran concert senior hen combine decorate trumpet fruit breeze father";
+var mnemonic = "unaware goddess face casino pink attract glove review mutual tent moral rocket";

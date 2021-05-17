@@ -1,1 +1,1 @@
-var mnemonic = "metal umbrella idle public receive what saddle runway frozen monkey gap pistol";
+var mnemonic = "ramp south blouse vicious tool guide claim fox sport sport drink leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "merry attack gather usage surface uphold lava owner today cry lonely giraffe";
+var mnemonic = "atom mammal copper run click swap chapter core silent install final shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown salute smooth oblige ordinary leader cement dilemma question enough master crush";
+var mnemonic = "birth lawn error auto blush swift message boss patrol agree south lounge";

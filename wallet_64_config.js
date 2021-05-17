@@ -1,1 +1,1 @@
-var mnemonic = "ride melody pitch daring bean quiz crack icon ecology boil empty caught";
+var mnemonic = "spell topple assault test lyrics exact foil umbrella ladder ring neglect endorse";

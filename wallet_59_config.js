@@ -1,1 +1,1 @@
-var mnemonic = "pipe lawn road cage vendor wealth portion senior labor feed target pig";
+var mnemonic = "large window broken orphan motor ladder apple barely spoil kiwi desert olive";

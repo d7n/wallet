@@ -1,1 +1,1 @@
-var mnemonic = "spring curious name afraid shoe scorpion lottery ritual slide achieve add surge";
+var mnemonic = "share onion outer error wagon frozen chapter assist secret gentle super shadow";

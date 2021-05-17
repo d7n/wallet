@@ -1,1 +1,1 @@
-var mnemonic = "air buyer notable envelope also outdoor lobster test sphere toss often answer";
+var mnemonic = "express sight chapter upset phrase decide fan baby mother castle swear drift";

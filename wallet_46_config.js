@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow wide detail bless vault cheap smooth whip play figure banana barrel";
+var mnemonic = "truck desert lemon legal radar donate cloth decorate blade sausage power inside";

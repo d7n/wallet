@@ -1,1 +1,1 @@
-var mnemonic = "maple melody crack effort differ river eager ordinary sign choice web enjoy";
+var mnemonic = "eagle vehicle disagree identify name unit sphere cost farm glide present wear";

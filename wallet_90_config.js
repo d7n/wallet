@@ -1,1 +1,1 @@
-var mnemonic = "exercise wise rival proud habit aim innocent leisure bacon snake host baby";
+var mnemonic = "seven dizzy flee razor scissors keen soup still another insect shove depend";

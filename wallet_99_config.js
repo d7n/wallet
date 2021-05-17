@@ -1,1 +1,1 @@
-var mnemonic = "roof giraffe panther assist medal route home jazz reform engage loyal soup";
+var mnemonic = "you shoot clerk mosquito absorb desert drip edit lake faculty cradle detail";

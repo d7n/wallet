@@ -1,1 +1,1 @@
-var mnemonic = "chase elegant shrug gun couch stamp comfort usage critic sense idea purchase";
+var mnemonic = "coach glare rate leader key squirrel equal toilet hotel phrase air raven";

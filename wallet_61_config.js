@@ -1,1 +1,1 @@
-var mnemonic = "episode matter save flip gossip radio remind off that owner strategy spin";
+var mnemonic = "mixture nasty auction uncover save surprise toward throw nasty smoke swear meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp unaware unable sauce kingdom dune dry explain direct artist salmon bachelor";
+var mnemonic = "spoil census much inhale spike again total document floor annual stairs drastic";

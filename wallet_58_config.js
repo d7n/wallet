@@ -1,1 +1,1 @@
-var mnemonic = "always amused used core eight friend jungle small trash chapter prefer eight";
+var mnemonic = "grief vacuum copy give option velvet faculty degree grief prevent better gap";

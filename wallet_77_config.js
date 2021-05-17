@@ -1,1 +1,1 @@
-var mnemonic = "blast alarm extend account train stereo illness else wash deal pave resist";
+var mnemonic = "loyal usual dinosaur shuffle gossip stay hammer opinion radio join rigid biology";

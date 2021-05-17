@@ -1,1 +1,1 @@
-var mnemonic = "fame cart sentence occur piano stomach shock good disease practice ugly spirit";
+var mnemonic = "term friend hub cook nasty hood multiply mail remain crouch absent dismiss";

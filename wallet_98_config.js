@@ -1,1 +1,1 @@
-var mnemonic = "inflict tilt damage vacuum gloom strong say sun behave glimpse hamster unaware";
+var mnemonic = "until match agree burst mango husband manage sad civil lizard trophy bullet";

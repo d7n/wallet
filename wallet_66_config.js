@@ -1,1 +1,1 @@
-var mnemonic = "harvest title era claim rabbit situate planet artwork pattern where razor nature";
+var mnemonic = "result emerge easy offer report fresh scorpion innocent isolate fall swarm carbon";

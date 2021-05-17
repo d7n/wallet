@@ -1,1 +1,1 @@
-var mnemonic = "marine chronic flip major comic sun brick obey ostrich engine banner canal";
+var mnemonic = "snake describe trend stable genre evil minute cushion dice gun parade story";

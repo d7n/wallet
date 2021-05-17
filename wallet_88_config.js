@@ -1,1 +1,1 @@
-var mnemonic = "victory baby real abandon axis kitten addict cherry lab milk birth trouble";
+var mnemonic = "guilt exercise treat exit blood lend mixed camp gap snow assume flower";

@@ -1,1 +1,1 @@
-var mnemonic = "grab turkey crawl cross fame nut defy scorpion tool merit exercise owner";
+var mnemonic = "jacket train gadget rare appear across unable ignore speed picnic outside fine";

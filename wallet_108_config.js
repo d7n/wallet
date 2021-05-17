@@ -1,1 +1,1 @@
-var mnemonic = "decade use buddy ticket soon expand razor brother canvas chunk twelve discover";
+var mnemonic = "same suggest identify want cliff that siren project ski room taste oppose";

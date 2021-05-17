@@ -1,1 +1,1 @@
-var mnemonic = "reject fresh ready tortoise brown step again pipe treat august debris theory";
+var mnemonic = "sketch prepare consider million holiday artist drama decline impact garbage tag apology";

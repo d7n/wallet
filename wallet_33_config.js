@@ -1,1 +1,1 @@
-var mnemonic = "zebra churn during game cup bamboo exact huge aerobic orange witness trend";
+var mnemonic = "acquire host pioneer near mother know artefact topple slam process club depart";

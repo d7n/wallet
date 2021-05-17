@@ -1,1 +1,1 @@
-var mnemonic = "frost change elite medal twice reflect float betray olive globe battle manual";
+var mnemonic = "essence pulp satisfy cheap sustain cabbage burger muffin village abstract crop force";

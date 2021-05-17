@@ -1,1 +1,1 @@
-var mnemonic = "happy rough intact similar floor bitter pulse oyster asset trumpet arm auction";
+var mnemonic = "casual ketchup tobacco draft cabin north lonely radar idle sister sand luggage";

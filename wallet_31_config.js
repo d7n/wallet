@@ -1,1 +1,1 @@
-var mnemonic = "spring this begin merry fitness circle hawk dinosaur unit host young permit";
+var mnemonic = "monitor general note stumble foam powder pulse cover way life note cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "property olive arrest transfer crisp whisper useless nuclear cousin coast repeat armor";
+var mnemonic = "embark federal trap infant luggage arrange book tourist room size gap senior";

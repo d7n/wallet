@@ -1,1 +1,1 @@
-var mnemonic = "embody visual doctor favorite extra jungle nephew roast drill negative there attitude";
+var mnemonic = "boy real blame index virtual smoke limit net grocery chase detect liberty";

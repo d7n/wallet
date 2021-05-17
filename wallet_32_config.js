@@ -1,1 +1,1 @@
-var mnemonic = "live defy circle dolphin camp differ muffin forest unfair pride pistol devote";
+var mnemonic = "host frame brain minor jazz shock leaf innocent manual pupil grunt rotate";

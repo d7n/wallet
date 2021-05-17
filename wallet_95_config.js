@@ -1,1 +1,1 @@
-var mnemonic = "spin bacon echo stereo agree vote wave beauty engine mystery group unusual";
+var mnemonic = "body surface blur injury metal cancel detail dance buffalo acquire elite economy";

@@ -1,1 +1,1 @@
-var mnemonic = "frame mail brand tray wall leader scorpion secret add unique soda fragile";
+var mnemonic = "oil game violin pet wave element collect fire slogan orient fitness embody";

@@ -1,1 +1,1 @@
-var mnemonic = "wink put ask oil impact force spell company sort thrive floor sauce";
+var mnemonic = "race okay bid clay fitness reopen notice car october solve token sun";

@@ -1,1 +1,1 @@
-var mnemonic = "coach addict gossip tool tape aunt remind noise they humor lady pink";
+var mnemonic = "battle circle donate odor gain wagon world decide praise shed caught plunge";

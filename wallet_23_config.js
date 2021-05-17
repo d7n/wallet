@@ -1,1 +1,1 @@
-var mnemonic = "analyst perfect dolphin pudding stem stereo mention soccer just raven motor beef";
+var mnemonic = "waste glance pride weekend oppose region runway monkey forest fringe increase correct";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado river stem stone aware evoke reunion mimic rural avoid despair another";
+var mnemonic = "brother season junk sport season tuition dentist still diamond night seven sight";

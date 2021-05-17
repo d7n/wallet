@@ -1,1 +1,1 @@
-var mnemonic = "tree drip enter local inform base elegant senior enforce garlic tattoo radio";
+var mnemonic = "magnet sell neglect beach club issue amused weapon arctic chief drift flee";

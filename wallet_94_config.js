@@ -1,1 +1,1 @@
-var mnemonic = "opera rabbit maple wagon skirt radar search wedding fringe slight boost ivory";
+var mnemonic = "glow board food fold gold layer glow pink someone because uncover profit";

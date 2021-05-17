@@ -1,1 +1,1 @@
-var mnemonic = "release burden liberty kit corn cube steak ill hazard situate length feature";
+var mnemonic = "doll property feature put drill asset glow robot assume reveal pause garbage";

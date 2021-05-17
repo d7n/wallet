@@ -1,1 +1,1 @@
-var mnemonic = "turkey present pig quantum wet noodle kind truth anchor chimney review gap";
+var mnemonic = "slice organ awesome capital hurry click wagon pride benefit flee artwork royal";

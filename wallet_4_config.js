@@ -1,1 +1,1 @@
-var mnemonic = "logic deal save job open lumber situate peasant team young use game";
+var mnemonic = "early brave ready sustain pencil earn federal stove issue tuition resemble consider";

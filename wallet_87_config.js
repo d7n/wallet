@@ -1,1 +1,1 @@
-var mnemonic = "fold hospital valley fault acquire trust arm census monster kick edge math";
+var mnemonic = "train polar dragon tape begin firm lounge good alley toilet guilt spring";

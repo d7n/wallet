@@ -1,1 +1,1 @@
-var mnemonic = "car cook bike twelve science dumb remember amateur input trumpet piece usual";
+var mnemonic = "size where tuna dose plastic syrup tired position fossil bus swim cable";

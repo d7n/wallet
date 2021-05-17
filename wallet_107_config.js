@@ -1,1 +1,1 @@
-var mnemonic = "glove cereal desk drama owner radar suggest family boss exclude cook video";
+var mnemonic = "coast pledge february summer stock shed praise monkey chest crane rescue buzz";

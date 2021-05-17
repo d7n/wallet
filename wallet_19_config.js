@@ -1,1 +1,1 @@
-var mnemonic = "series drip can own tool awful circle base treat scorpion bicycle country";
+var mnemonic = "dinosaur dawn skin apart taxi match mandate angry lyrics polar arena method";

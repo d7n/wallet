@@ -1,1 +1,1 @@
-var mnemonic = "clock wagon inject boost loyal drop title once liar yellow dice ostrich";
+var mnemonic = "innocent upper wait grab remain east toe click hamster avocado first cook";

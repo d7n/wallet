@@ -1,1 +1,1 @@
-var mnemonic = "unable special visa grape assist wrap beauty cloud deal pen great illegal";
+var mnemonic = "divert record rescue place fresh choose crunch earth whale holiday interest planet";

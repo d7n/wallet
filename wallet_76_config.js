@@ -1,1 +1,1 @@
-var mnemonic = "vivid virtual midnight quick shiver demise thrive clock hint appear angle follow";
+var mnemonic = "soldier weapon execute smooth client wife copy wage gown lonely capable blur";

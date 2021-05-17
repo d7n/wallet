@@ -1,1 +1,1 @@
-var mnemonic = "vicious mad warm boy conduct marriage antenna burger wash general size tell";
+var mnemonic = "citizen coast wonder expire blanket drastic buzz firm steel height arena gossip";

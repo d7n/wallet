@@ -1,1 +1,1 @@
-var mnemonic = "chapter reward chronic crew exclude receive tomorrow retire local again fork tennis";
+var mnemonic = "convince knock purpose success sword amazing curtain hospital extend measure strong awake";

@@ -1,1 +1,1 @@
-var mnemonic = "broom average acoustic fish tag oval silk similar roof health spot model";
+var mnemonic = "swift nut poet once lecture hill silk erosion hover eye often into";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil hidden oppose ketchup angle very amount bundle leopard admit island risk";
+var mnemonic = "marriage special execute embrace case army regular dash plastic trick major soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "receive siren turtle journey budget rice apple denial curious shallow involve rule";
+var mnemonic = "property must coyote boss oyster thrive diary polar summer allow supply fat";

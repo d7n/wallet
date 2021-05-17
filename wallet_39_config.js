@@ -1,1 +1,1 @@
-var mnemonic = "stage tuna reject marine spirit recall flush again sign upon smile trip";
+var mnemonic = "afraid train scout because wife tragic bag end awesome force autumn have";
