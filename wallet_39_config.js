@@ -1,1 +1,1 @@
-var mnemonic = "lesson enter nerve talk document slam duck margin rice thrive online peace";
+var mnemonic = "festival clap female verb dance spare distance expand word analyst odor idea";

@@ -1,1 +1,1 @@
-var mnemonic = "idea whale transfer love rally accident swap shrimp hidden rich seek accuse";
+var mnemonic = "fortune scatter rabbit suit motion shaft remain hat run spirit scout photo";

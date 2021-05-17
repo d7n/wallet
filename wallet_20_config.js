@@ -1,1 +1,1 @@
-var mnemonic = "bone evil thrive bike snack match ticket result barrel iron wreck lamp";
+var mnemonic = "climb impulse ship slab mixed tape urban nuclear embrace admit chase item";

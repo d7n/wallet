@@ -1,1 +1,1 @@
-var mnemonic = "hair climb iron roof approve train spell obtain review bubble modify flame";
+var mnemonic = "trigger clerk wonder car barrel web excuse situate mutual valid subject wrap";

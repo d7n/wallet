@@ -1,1 +1,1 @@
-var mnemonic = "pool supply parade ethics tiger flat put host practice account spatial focus";
+var mnemonic = "frame blur bid arena tree apple step minimum palace vacuum prepare ask";

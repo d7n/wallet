@@ -1,1 +1,1 @@
-var mnemonic = "vapor stereo dizzy fluid punch slab escape dream laptop vibrant smart deposit";
+var mnemonic = "stable hip bag category economy cute live fan depend endless monitor bunker";

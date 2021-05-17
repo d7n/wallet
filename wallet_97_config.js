@@ -1,1 +1,1 @@
-var mnemonic = "cross junk sauce suspect mixed citizen veteran liquid angle reunion current lobster";
+var mnemonic = "media female banner cage ordinary cram leisure chat yard divorce custom actual";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil vault someone lab trash tattoo fault inform midnight worth jacket thank";
+var mnemonic = "slab leave tiny advice praise depth twice film bacon error liquid clog";

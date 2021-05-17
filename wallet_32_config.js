@@ -1,1 +1,1 @@
-var mnemonic = "crumble random daughter chicken spend furnace nature boy huge cricket prefer tide";
+var mnemonic = "yellow feel master become seed hood confirm naive gesture banner wheat mammal";

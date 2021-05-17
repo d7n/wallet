@@ -1,1 +1,1 @@
-var mnemonic = "design leave same wash letter stick monster spike dolphin govern air solar";
+var mnemonic = "pizza current drop swamp panther insect task smoke glory humor warrior example";

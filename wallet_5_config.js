@@ -1,1 +1,1 @@
-var mnemonic = "mixture agree enforce lyrics demise pride crunch avoid kid label breeze liar";
+var mnemonic = "whale shallow noise yard skate evoke elite scare deliver suggest negative hat";

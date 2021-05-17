@@ -1,1 +1,1 @@
-var mnemonic = "during mom token canal final clown above because small speed scrub close";
+var mnemonic = "viable rent still capital plug canal original woman side window sting mechanic";

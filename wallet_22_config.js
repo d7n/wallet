@@ -1,1 +1,1 @@
-var mnemonic = "pyramid mass system embark hire enjoy sea wrong annual method noble term";
+var mnemonic = "canal winter field reject amused protect gadget manual wine defense lawsuit target";

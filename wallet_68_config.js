@@ -1,1 +1,1 @@
-var mnemonic = "orchard mule garbage online spatial blame ability winter own gas thumb entry";
+var mnemonic = "square title uphold coach good truck sponsor kick book moral deer health";

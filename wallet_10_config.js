@@ -1,1 +1,1 @@
-var mnemonic = "use receive swamp assault urban head spring bright fire top column orbit";
+var mnemonic = "desk police cement battle lucky hat utility husband mask become spoil box";

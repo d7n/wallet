@@ -1,1 +1,1 @@
-var mnemonic = "license staff long police priority slender material torch there impose traffic couch";
+var mnemonic = "crystal exclude cage street nephew display virus hazard filter rely outer pizza";

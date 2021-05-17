@@ -1,1 +1,1 @@
-var mnemonic = "raise rubber cereal wheel anxiety coral aware exile club easy cluster language";
+var mnemonic = "rather shiver kiss crash month paper already dove alone pact square capable";

@@ -1,1 +1,1 @@
-var mnemonic = "slim alpha room more category range lesson calm enlist father charge kick";
+var mnemonic = "dragon already main pumpkin vault auction brief industry visit goddess exact elbow";

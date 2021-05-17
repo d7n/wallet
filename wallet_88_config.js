@@ -1,1 +1,1 @@
-var mnemonic = "area pill kiss change cable immense estate person pave merit glory just";
+var mnemonic = "boat settle catalog rival bulb craft grid emerge menu dress topple omit";

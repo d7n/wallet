@@ -1,1 +1,1 @@
-var mnemonic = "often matrix brisk door leaf guess slow movie secret column angle frown";
+var mnemonic = "wire million cargo horn beyond liberty cricket limit erosion crime usage habit";

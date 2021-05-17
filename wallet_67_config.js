@@ -1,1 +1,1 @@
-var mnemonic = "elevator swear lemon situate acquire electric salon dynamic penalty mistake fame nut";
+var mnemonic = "wrong sun depth mechanic trophy wish gossip zoo drive tell grace then";

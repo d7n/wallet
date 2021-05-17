@@ -1,1 +1,1 @@
-var mnemonic = "camp random human brief coil disease sock outside suffer team potato deer";
+var mnemonic = "fade people loan drink mimic round weird apology cat kitchen area cement";

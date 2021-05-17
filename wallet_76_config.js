@@ -1,1 +1,1 @@
-var mnemonic = "begin trim sword jump real end open pistol nice awesome spice artefact";
+var mnemonic = "convince usual admit put skate burden excuse snow goddess soda include reject";

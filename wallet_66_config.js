@@ -1,1 +1,1 @@
-var mnemonic = "bind jewel chaos exclude surprise merge enable depart lift lunar taste want";
+var mnemonic = "move sweet leg melody maximum blast cereal purity beyond artefact dawn steel";

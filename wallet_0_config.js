@@ -1,1 +1,1 @@
-var mnemonic = "soon color accuse capital identify modify tell wash prison baby couple burden";
+var mnemonic = "walk either acid enter talk wrestle rookie bomb there kingdom bubble bone";

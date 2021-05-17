@@ -1,1 +1,1 @@
-var mnemonic = "moral memory comfort critic turn finish wreck vessel title half close elite";
+var mnemonic = "time fitness shadow thank sunset near artwork pattern tail lottery beach absurd";

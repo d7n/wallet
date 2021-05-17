@@ -1,1 +1,1 @@
-var mnemonic = "purity slim mosquito secret prevent nut can cereal hover elephant leg spend";
+var mnemonic = "side ketchup payment cousin ghost mountain hair ghost smoke enjoy still require";

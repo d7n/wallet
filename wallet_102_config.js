@@ -1,1 +1,1 @@
-var mnemonic = "bag flame impose piece cricket pig drum lecture isolate prosper curious clock";
+var mnemonic = "wolf lizard fiber sand scissors cost rich found curtain aim estate biology";

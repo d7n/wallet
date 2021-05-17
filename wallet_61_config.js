@@ -1,1 +1,1 @@
-var mnemonic = "used april author extra spray helmet cook say tray barrel want push";
+var mnemonic = "glow open make text lizard hint educate boring combine vacant color stadium";

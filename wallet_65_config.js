@@ -1,1 +1,1 @@
-var mnemonic = "judge hint narrow pond ecology response heavy supreme tomorrow citizen powder east";
+var mnemonic = "old prize hurry legal clay empower grief print hurry tumble fame arm";

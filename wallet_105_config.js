@@ -1,1 +1,1 @@
-var mnemonic = "bless other brush balance member laundry fuel feature trust wreck inmate blouse";
+var mnemonic = "voice gossip salt double employ suspect hungry debate write slow champion mango";

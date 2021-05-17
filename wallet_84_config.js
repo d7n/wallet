@@ -1,1 +1,1 @@
-var mnemonic = "offer round enough height lens capable broken sustain jar warm treat boost";
+var mnemonic = "napkin concert antenna extra hole hungry gym volume movie powder one melt";

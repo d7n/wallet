@@ -1,1 +1,1 @@
-var mnemonic = "other update basket stay equal art soon quote lazy clip dish need";
+var mnemonic = "lumber air emotion soccer ordinary kangaroo music voice dinosaur wine stone grass";

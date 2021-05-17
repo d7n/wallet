@@ -1,1 +1,1 @@
-var mnemonic = "assume pelican curtain escape purpose cluster spend firm romance wool near fit";
+var mnemonic = "august loud method amount mouse verify mutual dog keep grief strategy cook";

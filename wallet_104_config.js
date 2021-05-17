@@ -1,1 +1,1 @@
-var mnemonic = "captain else evolve much critic enable hurdle boil melody side fun spare";
+var mnemonic = "derive miss math detect crush claim into nerve annual gather blind ramp";

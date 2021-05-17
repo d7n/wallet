@@ -1,1 +1,1 @@
-var mnemonic = "machine maid oxygen crop portion clock scissors stem knock gadget very fun";
+var mnemonic = "wise obscure honey away slogan video mind patch lamp case drive employ";

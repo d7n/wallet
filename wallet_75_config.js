@@ -1,1 +1,1 @@
-var mnemonic = "lock actress beyond retreat card whale private parent emotion faith arrange film";
+var mnemonic = "enough echo exclude modify radar amateur clog match lucky rent magnet proof";

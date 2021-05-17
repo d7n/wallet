@@ -1,1 +1,1 @@
-var mnemonic = "scrap miss note pyramid foster fan dirt lemon cube collect okay gather";
+var mnemonic = "husband denial laundry welcome mad advice paddle notice doctor region anchor evolve";

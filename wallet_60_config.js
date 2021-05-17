@@ -1,1 +1,1 @@
-var mnemonic = "actual you flush culture scrub coffee junk month always street maid cruel";
+var mnemonic = "night eyebrow shell access left couple year screen retire bone achieve approve";

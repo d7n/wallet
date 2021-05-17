@@ -1,1 +1,1 @@
-var mnemonic = "icon angry weekend noble sister chicken iron view swallow prison demise teach";
+var mnemonic = "junior test ice ecology still toe purse tube reject company option size";

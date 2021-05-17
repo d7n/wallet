@@ -1,1 +1,1 @@
-var mnemonic = "frost minimum scout bind kind actual neglect enroll prize asset simple pill";
+var mnemonic = "poet recipe fiscal sniff height soap badge vintage idea crawl bunker join";

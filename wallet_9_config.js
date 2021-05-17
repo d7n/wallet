@@ -1,1 +1,1 @@
-var mnemonic = "vehicle grain shuffle borrow soda pact visual price dice bless afraid satoshi";
+var mnemonic = "clean derive source cherry decade trouble online craft cart crop immune say";

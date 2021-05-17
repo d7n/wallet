@@ -1,1 +1,1 @@
-var mnemonic = "poem east fault goddess curve book dinner skill volcano valve next laundry";
+var mnemonic = "ostrich spider orient various decrease update tilt skull spike taste confirm cargo";

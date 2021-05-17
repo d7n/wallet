@@ -1,1 +1,1 @@
-var mnemonic = "vessel glad what aunt expire absurd depth advance attitude write name skin";
+var mnemonic = "genius sunset cool cloth police actor pepper walnut eye jacket eternal random";

@@ -1,1 +1,1 @@
-var mnemonic = "upon boil outside mule inmate hamster main daughter bus call cabin peace";
+var mnemonic = "trash shrug action patient agree bridge sword noise end announce person doll";

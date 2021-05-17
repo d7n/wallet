@@ -1,1 +1,1 @@
-var mnemonic = "marine alert stock interest section cotton kite debris repeat tuition attitude true";
+var mnemonic = "trouble young dice congress thumb arch warm radar noise amount make boil";

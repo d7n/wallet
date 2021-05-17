@@ -1,1 +1,1 @@
-var mnemonic = "ocean when patrol execute observe disorder risk style risk stool black oil";
+var mnemonic = "fuel start pelican giraffe sound snow subway wear now airport chaos license";

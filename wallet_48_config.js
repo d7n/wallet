@@ -1,1 +1,1 @@
-var mnemonic = "public scrap jazz snap together device mention avoid nothing water wire across";
+var mnemonic = "illegal start shield wagon anxiety push slight anger champion arrow physical rely";

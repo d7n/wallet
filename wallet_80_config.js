@@ -1,1 +1,1 @@
-var mnemonic = "mask legend vague force wrap undo chaos cigar device harvest minor present";
+var mnemonic = "metal three web salute thing abuse dignity play shadow birth fossil swallow";

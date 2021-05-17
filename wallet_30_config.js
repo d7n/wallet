@@ -1,1 +1,1 @@
-var mnemonic = "confirm razor weird expect obey guard scorpion gaze myself volume hospital tonight";
+var mnemonic = "swift reopen virus slab hood tumble occur august place print permit visit";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen include drastic chunk popular drift dune analyst income blush merry sense";
+var mnemonic = "outdoor round domain globe bulb hazard furnace unaware rebel all language solid";

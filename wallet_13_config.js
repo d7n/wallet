@@ -1,1 +1,1 @@
-var mnemonic = "fiction claw phone fantasy answer become purpose blind tomorrow remind mechanic front";
+var mnemonic = "rhythm duty ring piece trumpet spare shoot pull rose speed expect raise";

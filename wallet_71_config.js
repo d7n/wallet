@@ -1,1 +1,1 @@
-var mnemonic = "fix glove cart chuckle hybrid piece avocado toward admit link desk copy";
+var mnemonic = "segment fade sausage top lake loyal beef hedgehog control piece stereo artefact";

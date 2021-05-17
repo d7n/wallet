@@ -1,1 +1,1 @@
-var mnemonic = "sniff fitness slab cannon million leg chat bundle summer number hamster image";
+var mnemonic = "leader peanut walk analyst please volcano dignity city exotic acoustic digital ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "submit vague taste differ corn father burden grape bitter weekend enroll van";
+var mnemonic = "train shell detail lock actor crater theory produce sample typical blouse remove";

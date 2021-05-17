@@ -1,1 +1,1 @@
-var mnemonic = "illness insane electric milk vicious bulk property require tornado flip knife royal";
+var mnemonic = "barely candy impose crouch surface address dinner glad lyrics cheese coin follow";

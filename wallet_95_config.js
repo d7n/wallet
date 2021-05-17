@@ -1,1 +1,1 @@
-var mnemonic = "orphan tongue butter cigar innocent abstract provide naive used kit rack clarify";
+var mnemonic = "canyon opera obtain rent session plug double share mosquito vague drastic mimic";

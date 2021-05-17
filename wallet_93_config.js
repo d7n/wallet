@@ -1,1 +1,1 @@
-var mnemonic = "demand bone salad letter arena flight across clerk hat spot pen drive";
+var mnemonic = "stage bless blind question raccoon beauty inherit defense baby tide denial school";

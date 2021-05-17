@@ -1,1 +1,1 @@
-var mnemonic = "control rescue ethics soon luggage toward floor across barely north small dust";
+var mnemonic = "coffee human copper end capable excess spice ignore raccoon wealth category grid";

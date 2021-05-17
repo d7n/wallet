@@ -1,1 +1,1 @@
-var mnemonic = "sniff access vocal issue quantum also panel reduce select wife resemble mom";
+var mnemonic = "anger narrow tourist start silver tail pig pizza success try fury gather";

@@ -1,1 +1,1 @@
-var mnemonic = "win average twelve gorilla level economy garlic session truck hub shield beach";
+var mnemonic = "parent spoon normal scene correct rail uncle rule edge scorpion mean gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior slab nominee swear section daring drive raven pretty segment minor flight";
+var mnemonic = "breeze quick slide tackle sunset world twenty bulb device attitude plate toast";

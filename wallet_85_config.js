@@ -1,1 +1,1 @@
-var mnemonic = "dress myth lunar develop vague remain power dice horror crop ahead naive";
+var mnemonic = "trim panther uncle dad reject detect long wait that clerk jazz upset";

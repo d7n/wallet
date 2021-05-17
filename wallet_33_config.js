@@ -1,1 +1,1 @@
-var mnemonic = "soul second outer child canyon public auction end biology child danger rent";
+var mnemonic = "field possible dust dizzy bag apple enlist female hole intact exclude major";

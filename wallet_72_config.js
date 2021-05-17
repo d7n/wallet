@@ -1,1 +1,1 @@
-var mnemonic = "immense cry dog infant doll pony stereo actress one occur execute hurt";
+var mnemonic = "uniform ignore excuse pepper option rebel soon steak boil photo tennis crime";

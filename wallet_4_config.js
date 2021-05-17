@@ -1,1 +1,1 @@
-var mnemonic = "antenna morning now pulse legal length chaos toast sail unit hedgehog maze";
+var mnemonic = "cage bounce reject dinner turkey talent scatter ritual member actress grunt retreat";

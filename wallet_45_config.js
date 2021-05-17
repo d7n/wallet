@@ -1,1 +1,1 @@
-var mnemonic = "mansion zero just aunt reject symbol whisper top fly skirt release chair";
+var mnemonic = "busy tilt title pear path strategy reduce faculty marriage style napkin day";

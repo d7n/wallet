@@ -1,1 +1,1 @@
-var mnemonic = "civil certain range involve avocado talk traffic model atom also bacon use";
+var mnemonic = "satoshi twelve media inch pact color easily useless mobile milk cook devote";

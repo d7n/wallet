@@ -1,1 +1,1 @@
-var mnemonic = "elephant fetch pattern coin pretty survey lonely dash risk detail space have";
+var mnemonic = "flame craft cherry legend clown choose dust family royal unknown win more";

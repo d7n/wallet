@@ -1,1 +1,1 @@
-var mnemonic = "vivid toddler click park screen choose crop assist sunset normal galaxy upon";
+var mnemonic = "panic chat manage jealous around nice talk legal update season source pitch";

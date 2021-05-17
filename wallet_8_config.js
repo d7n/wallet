@@ -1,1 +1,1 @@
-var mnemonic = "valid duty inflict normal night number width survey whale fury orient love";
+var mnemonic = "mix goose stone burden fold clerk reform arctic pill front clinic arm";

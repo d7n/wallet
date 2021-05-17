@@ -1,1 +1,1 @@
-var mnemonic = "shoe wasp front busy cash banner melt balcony add project foot system";
+var mnemonic = "tiny cotton sight friend circle rude swap combine valley horse divert improve";

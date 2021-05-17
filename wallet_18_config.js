@@ -1,1 +1,1 @@
-var mnemonic = "argue thought flee airport nothing gorilla curve unfair staff task copper ordinary";
+var mnemonic = "family stable there often drum strong fabric vendor group blast type culture";

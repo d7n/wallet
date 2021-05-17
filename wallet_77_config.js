@@ -1,1 +1,1 @@
-var mnemonic = "achieve abuse into spice artefact lift real fringe jelly strong friend cluster";
+var mnemonic = "nest erupt stereo popular spare cancel palm style inmate various slush mean";

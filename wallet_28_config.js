@@ -1,1 +1,1 @@
-var mnemonic = "law exchange advice promote ring language mail total settle stock what client";
+var mnemonic = "area camp spray innocent inner near alpha illegal this gentle install property";

@@ -1,1 +1,1 @@
-var mnemonic = "begin balance smooth boring length alone august coin man humble north once";
+var mnemonic = "exchange shrug jungle wait firm immense depend buyer riot add piano crawl";

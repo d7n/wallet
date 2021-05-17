@@ -1,1 +1,1 @@
-var mnemonic = "gap found foster season place snap cherry mom alter enrich assault identify";
+var mnemonic = "keen swap height minimum cargo story first angry brick kidney master renew";

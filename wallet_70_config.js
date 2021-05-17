@@ -1,1 +1,1 @@
-var mnemonic = "cliff swift toy logic trust harvest immune rail endless peanut meadow bar";
+var mnemonic = "valve bone better outside burger sea good parrot silent betray gloom tongue";

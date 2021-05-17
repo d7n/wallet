@@ -1,1 +1,1 @@
-var mnemonic = "put notable fetch below senior bracket nature window candy taste guess client";
+var mnemonic = "analyst already lion elevator topic wide original truck mango noble fog toward";

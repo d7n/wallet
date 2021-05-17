@@ -1,1 +1,1 @@
-var mnemonic = "illegal nut leg floor matter rapid tornado coach wave ritual soup lucky";
+var mnemonic = "split draw quarter dress steel august alter reform design confirm morning bamboo";

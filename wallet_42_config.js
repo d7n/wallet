@@ -1,1 +1,1 @@
-var mnemonic = "conduct hurt blouse bus creek nose oxygen cushion post purpose entire copper";
+var mnemonic = "caught cannon column whip kitchen net impact program answer bright woman country";

@@ -1,1 +1,1 @@
-var mnemonic = "stove grass evolve wrong expose session mimic provide build lab stomach output";
+var mnemonic = "meat someone labor often faith acid obey chimney bottom clerk scare mention";

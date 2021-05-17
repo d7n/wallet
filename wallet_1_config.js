@@ -1,1 +1,1 @@
-var mnemonic = "fruit hello rebel bunker notable clown medal fringe glory announce accident capital";
+var mnemonic = "fold benefit food satisfy right teach detail elder tape ask rookie sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "track enforce used scrub wreck swallow grunt dirt match balance chest multiply";
+var mnemonic = "affair fringe flip tuition genre protect trend earth scan spike pony slide";

@@ -1,1 +1,1 @@
-var mnemonic = "theory crucial lift arrive effort vessel student smooth scene enable enrich release";
+var mnemonic = "cushion teach slogan senior satisfy invest easily razor property bird aspect hair";

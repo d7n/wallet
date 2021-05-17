@@ -1,1 +1,1 @@
-var mnemonic = "actor replace more rib two stamp cactus patch giggle face announce toy";
+var mnemonic = "divide biology report derive cotton hire envelope pyramid logic siren timber flash";

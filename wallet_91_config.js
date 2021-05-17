@@ -1,1 +1,1 @@
-var mnemonic = "ability assume check nominee donor picture fit rain illness grunt purse symptom";
+var mnemonic = "rough muffin shaft island deposit year travel coffee genuine whale holiday punch";
