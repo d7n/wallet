@@ -1,1 +1,1 @@
-var mnemonic = "client laugh include message attack share hint side visual rug wonder wear";
+var mnemonic = "pencil civil maid elephant zoo coach power curve youth steak reward reject";

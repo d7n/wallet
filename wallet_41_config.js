@@ -1,1 +1,1 @@
-var mnemonic = "alone broccoli unfair throw zero blind annual recycle ocean stumble around caught";
+var mnemonic = "orchard innocent retreat accident split happy laundry nice fat tell dinosaur success";

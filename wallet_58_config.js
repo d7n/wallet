@@ -1,1 +1,1 @@
-var mnemonic = "fringe easily impose insane month hawk draft wall denial walk virus job";
+var mnemonic = "april deputy blame vapor matrix forward robot sock leave roof dolphin fault";

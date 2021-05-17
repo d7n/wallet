@@ -1,1 +1,1 @@
-var mnemonic = "property fresh volcano twin front right stand cute shuffle inch bike trend";
+var mnemonic = "street magic ostrich sick child deer actor sheriff text tribe lab enlist";

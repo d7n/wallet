@@ -1,1 +1,1 @@
-var mnemonic = "innocent interest medal talk alert vicious cave bacon slush couch cement city";
+var mnemonic = "baby enlist deal sock wear prison staff oak seat wing cry border";

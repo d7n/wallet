@@ -1,1 +1,1 @@
-var mnemonic = "disorder various mutual floor reject sample ladder dust category interest crystal cart";
+var mnemonic = "sustain youth enroll leave wool snake slush wisdom pupil afraid can heart";

@@ -1,1 +1,1 @@
-var mnemonic = "blame wife tomato picture gospel void isolate aim bread section other rescue";
+var mnemonic = "maid atom disease gentle cushion office cradle dumb blood confirm over riot";

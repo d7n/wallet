@@ -1,1 +1,1 @@
-var mnemonic = "bus theme tone side dentist square fine dragon lyrics cotton skirt bitter";
+var mnemonic = "labor cute course cool rice slot indoor silver network aware twice require";

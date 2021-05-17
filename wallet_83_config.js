@@ -1,1 +1,1 @@
-var mnemonic = "tuna stand method thing member segment juice strategy fun slender edge jewel";
+var mnemonic = "welcome initial horror find planet hybrid dynamic cruel october endorse meadow glow";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict life oyster original forget cram add funny huge bag slender verify";
+var mnemonic = "afraid snap scrap train early orphan risk empower knee system position visa";

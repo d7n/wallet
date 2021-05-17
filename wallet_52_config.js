@@ -1,1 +1,1 @@
-var mnemonic = "law tiny vicious simple much struggle deny coil master young cereal material";
+var mnemonic = "resemble call bullet control system twelve music element supreme move swim pet";

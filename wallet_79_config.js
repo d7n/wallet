@@ -1,1 +1,1 @@
-var mnemonic = "prevent option rally tiger install ridge melody shop path bus position put";
+var mnemonic = "wagon pink river citizen glare crucial tape increase typical fluid clinic hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "genius logic youth other stuff green broom media release machine lift extend";
+var mnemonic = "midnight alpha live mystery orchard torch desert viable liquid parade engine almost";

@@ -1,1 +1,1 @@
-var mnemonic = "tired planet master section develop loop finger duck famous cross abstract inmate";
+var mnemonic = "check trigger unusual female abandon blind sea genre before aim weather empower";

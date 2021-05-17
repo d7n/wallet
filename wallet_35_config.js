@@ -1,1 +1,1 @@
-var mnemonic = "convince skin solve curve state aim measure deny oxygen glimpse shuffle law";
+var mnemonic = "neutral soldier amateur drink enhance daughter royal tank salad private face clog";

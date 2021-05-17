@@ -1,1 +1,1 @@
-var mnemonic = "slow regret neglect float run festival royal make mammal end guide enjoy";
+var mnemonic = "bulk future remove mention volume swift cherry budget grocery clerk stock shift";

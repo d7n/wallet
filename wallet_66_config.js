@@ -1,1 +1,1 @@
-var mnemonic = "absurd wire absurd absurd enrich coffee useful lunch discover near useless manage";
+var mnemonic = "between armed power rifle echo cancel art boat crouch what east unhappy";

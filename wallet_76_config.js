@@ -1,1 +1,1 @@
-var mnemonic = "vapor infant depth acid pretty slush cool report ostrich common category engine";
+var mnemonic = "anger material super better blood olive order muffin dinner scissors hen merge";

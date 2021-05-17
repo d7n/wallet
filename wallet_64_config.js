@@ -1,1 +1,1 @@
-var mnemonic = "boring quiz brick effort easy chicken elegant budget toast frown during during";
+var mnemonic = "mixture crack camp film before bulb clarify waste giraffe easily hunt tape";

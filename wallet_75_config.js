@@ -1,1 +1,1 @@
-var mnemonic = "deliver glare virus tooth element angle chicken cushion armor absorb devote venue";
+var mnemonic = "royal excess wire enact patient cave domain dry soup horse junior exchange";

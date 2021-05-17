@@ -1,1 +1,1 @@
-var mnemonic = "upper near blur taxi ability select absent slam acid punch excuse rice";
+var mnemonic = "feel puppy improve cycle main draw vintage filter worth faith evolve convince";

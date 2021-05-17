@@ -1,1 +1,1 @@
-var mnemonic = "whip bicycle sad menu offer then margin donate local mention cage phrase";
+var mnemonic = "weekend online cushion trim frozen clinic media comic harvest impose mansion exile";

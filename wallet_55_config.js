@@ -1,1 +1,1 @@
-var mnemonic = "hen kite lobster stick situate gloom history hat income legend shy actress";
+var mnemonic = "coil unit route pet pigeon social reduce worry entry yard pizza begin";

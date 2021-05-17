@@ -1,1 +1,1 @@
-var mnemonic = "review second fee adult jaguar carpet position asset bar audit like base";
+var mnemonic = "promote grief mistake uncover rough zero doctor have online wreck song give";

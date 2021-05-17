@@ -1,1 +1,1 @@
-var mnemonic = "film month cupboard wage crime quote anger recipe fly vacant alien excess";
+var mnemonic = "outside usual mail wheat cool good satisfy occur meat feature minor enjoy";

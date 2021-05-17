@@ -1,1 +1,1 @@
-var mnemonic = "bulb host bring anchor slot fatal parent quantum fog steel doctor solar";
+var mnemonic = "bike abandon number true leaf puzzle service release bargain ladder bright harbor";

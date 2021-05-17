@@ -1,1 +1,1 @@
-var mnemonic = "fossil diagram mix since slender pull volume reject nature multiply enemy confirm";
+var mnemonic = "expire slight essence charge also essence wish exchange fame talent scissors distance";

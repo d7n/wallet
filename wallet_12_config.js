@@ -1,1 +1,1 @@
-var mnemonic = "crane barrel spatial brisk gold clarify mule share vicious ozone lake mail";
+var mnemonic = "oppose find spin grunt empty average abandon clutch worth gift easily vessel";

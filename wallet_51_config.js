@@ -1,1 +1,1 @@
-var mnemonic = "waste month ship cabbage captain curtain swift trumpet camp urge april host";
+var mnemonic = "sense excess traffic fetch prepare cargo consider trouble need hope episode unusual";

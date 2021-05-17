@@ -1,1 +1,1 @@
-var mnemonic = "athlete man process camera vehicle since pool ten oak pass erase critic";
+var mnemonic = "inmate lock source melody two seminar coach evolve fault tongue goose field";

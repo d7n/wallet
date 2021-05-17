@@ -1,1 +1,1 @@
-var mnemonic = "bullet inherit vocal divorce lecture purchase loop helmet upset kite base sport";
+var mnemonic = "cute time truck horn narrow express text dragon priority caution hungry secret";

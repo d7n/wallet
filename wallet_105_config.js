@@ -1,1 +1,1 @@
-var mnemonic = "lazy innocent mammal pause stuff cupboard account dragon flock bamboo enlist stool";
+var mnemonic = "column cinnamon reveal whisper soft suspect because despair lend permit subject advance";

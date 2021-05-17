@@ -1,1 +1,1 @@
-var mnemonic = "october egg body beach uncle fold coast library april poem because super";
+var mnemonic = "olympic balance mind rude police kangaroo display more payment goat that thank";

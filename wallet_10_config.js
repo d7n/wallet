@@ -1,1 +1,1 @@
-var mnemonic = "grow spread omit potato approve cross affair wine hawk rare undo pilot";
+var mnemonic = "shed predict blush wide crunch debate item pride captain drum pride pattern";

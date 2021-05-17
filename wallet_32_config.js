@@ -1,1 +1,1 @@
-var mnemonic = "amateur flush picture busy grid pass main giggle reveal extra tourist other";
+var mnemonic = "nurse wire demise dawn couch village stand copy gap exotic draft coach";

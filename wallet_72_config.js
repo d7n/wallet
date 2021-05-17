@@ -1,1 +1,1 @@
-var mnemonic = "enrich electric object cry excite pitch soda hill second diary awake notice";
+var mnemonic = "impact sword roof dirt danger web drama mean special glad estate quantum";

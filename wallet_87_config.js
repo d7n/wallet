@@ -1,1 +1,1 @@
-var mnemonic = "nest pilot turkey pelican gasp ecology train lizard rare ugly side nurse";
+var mnemonic = "consider push dentist degree amused reason flag dolphin cheap pull brave route";

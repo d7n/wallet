@@ -1,1 +1,1 @@
-var mnemonic = "phrase journey upper infant silk undo casual taxi peace bring nature swap";
+var mnemonic = "glance rocket tube twelve entry fiscal vehicle filter convince castle program agree";

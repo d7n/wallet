@@ -1,1 +1,1 @@
-var mnemonic = "gloom mimic normal winner base joke melt oblige scissors magic actor bread";
+var mnemonic = "follow uncover title rack random monkey enroll swamp away focus similar slot";

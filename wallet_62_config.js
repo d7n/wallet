@@ -1,1 +1,1 @@
-var mnemonic = "drama check cage slice van double blame since join arch decline era";
+var mnemonic = "puzzle abstract sort bracket decade rib horror female one draft giraffe penalty";

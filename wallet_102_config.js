@@ -1,1 +1,1 @@
-var mnemonic = "price arctic first this seed utility sword admit coin amateur decade soap";
+var mnemonic = "scout web winner into garden legend lawn need thank impose junior bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "kid uncover isolate invest century spray risk silk uniform paper never thank";
+var mnemonic = "despair total pair retreat squeeze poem panic crisp car barely screen mix";

@@ -1,1 +1,1 @@
-var mnemonic = "negative price ridge palace major garden license stamp brain object drama search";
+var mnemonic = "open fruit way level capital hole twice fold fee attend dust spawn";

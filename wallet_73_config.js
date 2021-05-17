@@ -1,1 +1,1 @@
-var mnemonic = "obtain mention monkey chuckle cattle unable curious then glide wing lounge motion";
+var mnemonic = "rival forest mango clog bunker add car dash above charge staff surge";

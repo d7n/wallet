@@ -1,1 +1,1 @@
-var mnemonic = "pair measure group scene repair sponsor window lobster weekend island attend alley";
+var mnemonic = "bullet syrup hungry bullet sorry atom they elder melt edge exit keen";

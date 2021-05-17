@@ -1,1 +1,1 @@
-var mnemonic = "credit tilt awkward panda rent critic turkey run bonus defy panda rare";
+var mnemonic = "oak dignity column place suffer balcony banner plug nurse sad castle machine";

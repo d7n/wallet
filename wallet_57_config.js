@@ -1,1 +1,1 @@
-var mnemonic = "body hurry sad pistol affair find spend dilemma apple top emotion wonder";
+var mnemonic = "master lunch body inside draw practice van portion quick wage together fruit";

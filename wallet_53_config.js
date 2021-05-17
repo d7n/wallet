@@ -1,1 +1,1 @@
-var mnemonic = "open forget wheel dawn utility artefact fan magnet crash method become sand";
+var mnemonic = "exhaust gossip baby olympic believe exclude fork modify cover project benefit orange";

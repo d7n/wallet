@@ -1,1 +1,1 @@
-var mnemonic = "bread enjoy obvious hello tower embrace stem vivid banana brother update wrong";
+var mnemonic = "bird crunch avoid trick peace clog bright symptom large walnut mask deal";

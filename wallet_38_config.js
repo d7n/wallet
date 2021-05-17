@@ -1,1 +1,1 @@
-var mnemonic = "open ensure poem pyramid love always swarm output afraid lend flee taste";
+var mnemonic = "weasel hamster wagon usage police cave frozen author demand couch crash lizard";

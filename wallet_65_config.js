@@ -1,1 +1,1 @@
-var mnemonic = "long exist jacket whale cycle naive neither woman call smile brisk airport";
+var mnemonic = "blanket expose beef deliver code december split reopen seminar split jacket small";

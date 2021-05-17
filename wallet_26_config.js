@@ -1,1 +1,1 @@
-var mnemonic = "possible favorite great skin spare distance minimum poet robust lawsuit brown gospel";
+var mnemonic = "lava broccoli eternal junk isolate frown paddle arrow chicken ranch sausage frog";

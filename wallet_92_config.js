@@ -1,1 +1,1 @@
-var mnemonic = "loop want goose waste brave drip august spice reform keep next garlic";
+var mnemonic = "end cave wide nature horn gift ahead fluid black fortune knife moon";

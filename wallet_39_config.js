@@ -1,1 +1,1 @@
-var mnemonic = "dragon other brisk glove grocery famous used science move parrot pipe monkey";
+var mnemonic = "mass bulk vacuum despair canoe sand ticket cheap dash foster suffer kitchen";

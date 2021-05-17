@@ -1,1 +1,1 @@
-var mnemonic = "lazy faint install always pencil anger seminar page door find budget unusual";
+var mnemonic = "okay verify suit cabbage decide swear never news hint library disorder try";

@@ -1,1 +1,1 @@
-var mnemonic = "ill vote bulk sick egg fatal viable aerobic inner dust odor weasel";
+var mnemonic = "child this point box require sample shock option cross bonus month history";

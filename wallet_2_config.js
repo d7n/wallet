@@ -1,1 +1,1 @@
-var mnemonic = "mushroom slice atom submit ranch dinner wedding edge talk screen now real";
+var mnemonic = "soccer achieve burst nose mango young fresh rebel poet party force series";

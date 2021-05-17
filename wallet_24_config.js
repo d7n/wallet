@@ -1,1 +1,1 @@
-var mnemonic = "menu old phone blood defense help dragon inherit test knock behind employ";
+var mnemonic = "lawn shrimp alone upon hammer sight lonely visual program lunar seed adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "fence actual maze sing spider broccoli panther uniform order sting wild also";
+var mnemonic = "close outdoor fit mosquito demand can velvet license accident arctic history case";

@@ -1,1 +1,1 @@
-var mnemonic = "immune original concert cage leaf valve voyage remove priority chat club patch";
+var mnemonic = "way type country upgrade shed satisfy benefit burden range token uncle shiver";

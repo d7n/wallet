@@ -1,1 +1,1 @@
-var mnemonic = "immune magic leaf trouble carry advance vacant clock chief cream trap sketch";
+var mnemonic = "palm apple oxygen muscle object alcohol menu warm school issue coral machine";

@@ -1,1 +1,1 @@
-var mnemonic = "primary belt south display neither shop drip absurd myself place loyal capable";
+var mnemonic = "spell supply fever borrow wild arrow host banana crucial reveal chest usage";

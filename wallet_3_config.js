@@ -1,1 +1,1 @@
-var mnemonic = "lens apology december announce afford word hello detect flat purse safe yard";
+var mnemonic = "tobacco rubber year rely differ anxiety inside urban primary sure release comic";

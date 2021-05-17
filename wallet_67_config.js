@@ -1,1 +1,1 @@
-var mnemonic = "season quantum impact glare give sadness girl quit beach rail bird parrot";
+var mnemonic = "gloom remind achieve uncover feel ski pumpkin review music later vague wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue soup anxiety drop mesh clown twelve broom address worry body gaze";
+var mnemonic = "gossip hawk alien patient puppy lesson push shy music subject couch plate";

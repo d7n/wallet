@@ -1,1 +1,1 @@
-var mnemonic = "subject museum old suit heart ski bicycle hurt link truly sorry acoustic";
+var mnemonic = "laugh trust view adjust stamp gasp wing math borrow interest video crawl";

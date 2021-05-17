@@ -1,1 +1,1 @@
-var mnemonic = "bench peasant dream victory galaxy normal ten entry moon scrub forest pretty";
+var mnemonic = "grit unveil leg satisfy exhibit inflict festival pull famous runway fabric badge";

@@ -1,1 +1,1 @@
-var mnemonic = "praise supreme zebra toddler lady spoil sheriff door board vehicle join increase";
+var mnemonic = "struggle virus spy give under obscure direct radio curve home brave enroll";

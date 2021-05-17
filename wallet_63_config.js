@@ -1,1 +1,1 @@
-var mnemonic = "piano wave life truth ceiling danger bonus exile bike loan theory body";
+var mnemonic = "differ order man increase exact abandon route place sibling income always act";

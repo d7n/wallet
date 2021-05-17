@@ -1,1 +1,1 @@
-var mnemonic = "tortoise cereal mansion tattoo balance echo slim speak pyramid addict idle suspect";
+var mnemonic = "glance butter trend vacant wage zone visit sustain ball target cupboard corn";

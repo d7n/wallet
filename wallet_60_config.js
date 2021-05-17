@@ -1,1 +1,1 @@
-var mnemonic = "yellow ceiling coast jealous history wagon word immense wing hub artefact olympic";
+var mnemonic = "carbon nominee head divorce grain riot token grit trumpet place supreme hub";

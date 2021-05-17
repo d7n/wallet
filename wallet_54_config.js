@@ -1,1 +1,1 @@
-var mnemonic = "exile produce swarm resource bronze suspect bundle country iron topple room copper";
+var mnemonic = "poem artwork wife aisle oven surge install nature assume dragon panic margin";

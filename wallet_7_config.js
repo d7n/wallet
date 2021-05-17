@@ -1,1 +1,1 @@
-var mnemonic = "resource curtain symbol seek lock trade will frame leopard decade shaft picture";
+var mnemonic = "display success inspire skill early taxi maximum select lemon victory alone park";

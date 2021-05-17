@@ -1,1 +1,1 @@
-var mnemonic = "sense mad clay rough brush win female vast hundred toe couch loyal";
+var mnemonic = "crowd sword clinic ugly dynamic nominee relief best snake valley leader ready";

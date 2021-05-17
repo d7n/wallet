@@ -1,1 +1,1 @@
-var mnemonic = "hurdle action sibling rabbit shrug noise photo lunar trust make atom alter";
+var mnemonic = "bunker alley final craft raise lobster helmet hero useful target feed tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "hill brush network hip home scrub pledge evolve stock spice spatial raise";
+var mnemonic = "frame frost road element forward potato sheriff country machine student antenna embrace";

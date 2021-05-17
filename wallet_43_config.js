@@ -1,1 +1,1 @@
-var mnemonic = "list west prosper echo act leisure coast surface float civil stove crush";
+var mnemonic = "income wish enroll fox primary vanish exhibit sleep glide acid ahead ridge";

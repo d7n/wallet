@@ -1,1 +1,1 @@
-var mnemonic = "enemy valley matrix worry pet super dove useless strike wagon damp interest";
+var mnemonic = "when stomach there embody around apology rude myth love three donor occur";

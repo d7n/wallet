@@ -1,1 +1,1 @@
-var mnemonic = "voice foam layer honey year forest metal rely mixture target erase toe";
+var mnemonic = "response belt provide radio announce defy cargo timber soap provide mix cram";

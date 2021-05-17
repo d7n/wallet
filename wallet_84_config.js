@@ -1,1 +1,1 @@
-var mnemonic = "radar lobster program guitar junk bargain six double pyramid license area furnace";
+var mnemonic = "ramp high defense neglect fiscal leopard cruel island april tongue olympic affair";

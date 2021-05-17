@@ -1,1 +1,1 @@
-var mnemonic = "keep neglect dutch clean ozone glimpse purchase dream stay upper kangaroo differ";
+var mnemonic = "amateur grunt inner attack gain alter bone lounge rescue object razor frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "basic metal duty glide meat relax client only survey tenant twist kit";
+var mnemonic = "nuclear dry napkin craft target can armed also annual nation web doll";

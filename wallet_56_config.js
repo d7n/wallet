@@ -1,1 +1,1 @@
-var mnemonic = "pupil holiday off ritual wear merge calm spend amused humor smile adult";
+var mnemonic = "vapor belt private sunny kit keen wife tree brother dolphin history limb";

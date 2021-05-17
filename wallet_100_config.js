@@ -1,1 +1,1 @@
-var mnemonic = "joke chimney cargo illegal scale clock tiny window miracle side keep side";
+var mnemonic = "beyond tray vacuum narrow pass phone side soup chase mosquito cave live";
