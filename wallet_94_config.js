@@ -1,1 +1,1 @@
-var mnemonic = "author total culture cement crack rescue salad sick distance syrup adapt iron";
+var mnemonic = "junk work trade local city diary field leisure village coffee session prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "spot gate million market document random ensure canvas pole bid jeans fuel";
+var mnemonic = "noise voyage peasant people raise pluck gain dutch crumble return curious castle";

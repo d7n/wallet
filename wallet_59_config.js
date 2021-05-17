@@ -1,1 +1,1 @@
-var mnemonic = "material short pistol crater tower eye estate sting bring perfect loud balance";
+var mnemonic = "evil smile dream describe genuine stumble foot friend click deal utility odor";

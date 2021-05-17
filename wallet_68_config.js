@@ -1,1 +1,1 @@
-var mnemonic = "tilt effort spirit opera cloth garment fault kitten similar priority judge winter";
+var mnemonic = "slam found report online crumble around route truly goddess public already assault";

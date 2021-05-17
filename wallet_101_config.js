@@ -1,1 +1,1 @@
-var mnemonic = "safe ritual notice tackle dilemma shuffle major man impose face come cactus";
+var mnemonic = "bright sugar stamp child garlic bargain drill cover exotic useless sand card";

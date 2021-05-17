@@ -1,1 +1,1 @@
-var mnemonic = "give coyote bitter victory fire list witness oil catch mushroom eye soul";
+var mnemonic = "hole unknown stool device stuff decade uphold keep remember drift snack reduce";

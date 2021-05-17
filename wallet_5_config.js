@@ -1,1 +1,1 @@
-var mnemonic = "rare sphere claim list pill flower drip media cook eagle idle solid";
+var mnemonic = "upset talent road pause steak bubble debris ripple rain real fix army";

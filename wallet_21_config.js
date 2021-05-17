@@ -1,1 +1,1 @@
-var mnemonic = "gloom north public stage catch upon century swim decline scout visa arrive";
+var mnemonic = "alter number favorite funny hollow fog update bone song humor catch job";

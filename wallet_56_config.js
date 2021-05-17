@@ -1,1 +1,1 @@
-var mnemonic = "boat charge turtle left core welcome steel razor quiz ready smart misery";
+var mnemonic = "shiver planet minimum fish soup throw message toe mention alpha sad roast";

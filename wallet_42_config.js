@@ -1,1 +1,1 @@
-var mnemonic = "skate glove hybrid under shoot scorpion giant three mention direct dinner rabbit";
+var mnemonic = "twice cruise envelope verify replace march bread annual chronic toward board magic";

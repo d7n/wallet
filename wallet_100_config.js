@@ -1,1 +1,1 @@
-var mnemonic = "arrest merge spray paper armed clutch fatal melt habit shoe side negative";
+var mnemonic = "spot venture before bargain fury exclude elder used latin enjoy olympic foam";

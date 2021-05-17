@@ -1,1 +1,1 @@
-var mnemonic = "profit frozen super teach protect enable ski scatter board festival later husband";
+var mnemonic = "depend mask flower reason close upon there wild ritual border joy quick";

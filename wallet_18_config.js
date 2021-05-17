@@ -1,1 +1,1 @@
-var mnemonic = "rely alien pyramid sunset inmate human stable physical lesson plug echo genius";
+var mnemonic = "dove opinion unable repair silver version range tank display area dog nominee";

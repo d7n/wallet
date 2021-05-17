@@ -1,1 +1,1 @@
-var mnemonic = "debris noble build excuse crash elevator setup actor enemy favorite drink visual";
+var mnemonic = "field follow like cancel brief hobby salt jungle knee adult path stock";

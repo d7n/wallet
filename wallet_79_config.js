@@ -1,1 +1,1 @@
-var mnemonic = "enhance half side employ critic setup route pioneer buddy iron engage myself";
+var mnemonic = "any hair island silk hidden claim energy arena emerge glory cliff december";

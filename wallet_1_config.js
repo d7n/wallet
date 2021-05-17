@@ -1,1 +1,1 @@
-var mnemonic = "pen submit daughter afraid want hat what tongue attack theme seminar people";
+var mnemonic = "nasty uncle picture stick royal roast crew grocery priority early parade health";

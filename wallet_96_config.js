@@ -1,1 +1,1 @@
-var mnemonic = "boss link diary stone cream oak summer loyal party young dog climb";
+var mnemonic = "hill police gift fever pink galaxy satoshi blind now planet aisle vital";

@@ -1,1 +1,1 @@
-var mnemonic = "dial term source actual order seminar other south fog inflict orange burden";
+var mnemonic = "view prepare october coffee rotate crouch magnet zero jaguar squeeze rocket candy";

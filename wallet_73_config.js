@@ -1,1 +1,1 @@
-var mnemonic = "large apple lesson arctic drift can blast credit jelly keep picnic awful";
+var mnemonic = "credit misery critic inquiry wine rule unit cry jelly supreme lonely sentence";

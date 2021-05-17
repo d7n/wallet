@@ -1,1 +1,1 @@
-var mnemonic = "any snap grow track youth improve height spider story decade butter elegant";
+var mnemonic = "world modify unfair outer sight black front clever roof keep impose comfort";

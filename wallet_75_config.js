@@ -1,1 +1,1 @@
-var mnemonic = "cram nasty punch connect twelve pony enhance angry artist permit slogan alpha";
+var mnemonic = "quarter palace screen rally wild puzzle only sheriff advance morning rival mom";

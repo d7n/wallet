@@ -1,1 +1,1 @@
-var mnemonic = "frown enter city elephant cable leg glass mistake link stay penalty action";
+var mnemonic = "isolate check wall expose advance task history motor mobile hand congress april";

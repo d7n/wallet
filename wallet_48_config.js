@@ -1,1 +1,1 @@
-var mnemonic = "accuse minute tail intact enforce rail immune armor stage quick say praise";
+var mnemonic = "limit depart animal boost you struggle outer tourist jealous wedding meadow joke";

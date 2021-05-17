@@ -1,1 +1,1 @@
-var mnemonic = "soda dial clarify service current heavy exercise athlete random fragile include island";
+var mnemonic = "velvet sail supreme enroll rhythm merit sick strike stadium report wet route";

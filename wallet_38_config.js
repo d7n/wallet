@@ -1,1 +1,1 @@
-var mnemonic = "involve envelope lend fix increase humble luggage answer plug knock enlist admit";
+var mnemonic = "exercise speak mixture venue catch wear invite throw throw sand bind useful";

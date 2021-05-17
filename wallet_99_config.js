@@ -1,1 +1,1 @@
-var mnemonic = "census grab paddle genius toilet between twice mystery remove sketch suit hawk";
+var mnemonic = "symbol crisp inflict misery betray gold ordinary lava floor able left lake";

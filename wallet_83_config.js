@@ -1,1 +1,1 @@
-var mnemonic = "legend release yard alter decrease room sign divide arctic ball print resource";
+var mnemonic = "thing height orphan busy spy can female clerk ritual raw time gasp";

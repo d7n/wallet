@@ -1,1 +1,1 @@
-var mnemonic = "tag grief topple memory find payment nerve brave laugh loyal reveal sketch";
+var mnemonic = "vicious boil snake bomb brother skin enact fatigue stomach ridge grid job";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch figure genuine switch waste hair afraid card feel glimpse horn wife";
+var mnemonic = "pulse enough ten term describe boat sorry battle notice goddess noodle travel";

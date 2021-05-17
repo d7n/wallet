@@ -1,1 +1,1 @@
-var mnemonic = "street east interest mobile despair eternal brass intact furnace shed frost shop";
+var mnemonic = "chair combine venue endorse soup earn bread family card tank wide ride";

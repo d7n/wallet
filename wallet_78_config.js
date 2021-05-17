@@ -1,1 +1,1 @@
-var mnemonic = "reform flip twenty fade ahead pelican cage suspect one spare fragile fortune";
+var mnemonic = "open decide crazy easily start ladder traffic little night obscure benefit garden";

@@ -1,1 +1,1 @@
-var mnemonic = "flame frequent salt join sausage rocket just sign turkey target warm excite";
+var mnemonic = "truly degree few unfold spell security bleak mind rubber cheese tenant remind";

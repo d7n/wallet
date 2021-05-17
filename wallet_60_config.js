@@ -1,1 +1,1 @@
-var mnemonic = "diamond exotic win awful caught wealth dash ripple sorry keen okay side";
+var mnemonic = "talk radar evidence gesture wisdom lift fuel razor ugly noise city eagle";

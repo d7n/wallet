@@ -1,1 +1,1 @@
-var mnemonic = "artwork card cricket bless flush april shine nation cruise rather abuse busy";
+var mnemonic = "trust smart copy olympic movie sing text wait brush legal jar cloth";

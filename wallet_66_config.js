@@ -1,1 +1,1 @@
-var mnemonic = "parrot museum hero control bike inner ski exotic silly own impulse cabin";
+var mnemonic = "caution hotel much cart voice exit duty expose finger shaft spread defense";

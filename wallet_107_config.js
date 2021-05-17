@@ -1,1 +1,1 @@
-var mnemonic = "jump dumb town foster easy motor sock month endless father differ record";
+var mnemonic = "upgrade atom quiz pony country supreme harbor come boat park sunny aware";

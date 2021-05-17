@@ -1,1 +1,1 @@
-var mnemonic = "oak oyster calm element ketchup slam modify unit member tree napkin permit";
+var mnemonic = "orbit original motor street recall leave cruise excuse nuclear cram empower market";

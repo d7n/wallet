@@ -1,1 +1,1 @@
-var mnemonic = "struggle city orbit access supreme desert poet industry blossom board orbit model";
+var mnemonic = "mother mechanic title simple aspect sudden trend crunch wolf blade turkey digital";

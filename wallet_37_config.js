@@ -1,1 +1,1 @@
-var mnemonic = "obey throw happy diet beyond young device sustain wing pen acoustic car";
+var mnemonic = "valve ready salmon rude velvet crazy entire price infant dice close skill";

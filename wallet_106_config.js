@@ -1,1 +1,1 @@
-var mnemonic = "over race cluster subway fall child victory pass maze visit cart country";
+var mnemonic = "surface roof rice please clip fantasy inform vocal sleep merit video gap";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor recall case column hub hollow sting insect defense shift unknown sketch";
+var mnemonic = "lobster pistol raw math cheap stumble liberty cement sense piano choose record";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster surprise weekend guilt tooth cheap wire gift spot someone smile usual";
+var mnemonic = "valid erase build sudden portion clog result again person border fly suspect";

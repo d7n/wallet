@@ -1,1 +1,1 @@
-var mnemonic = "sausage rough slogan layer angle noodle link favorite phrase define night document";
+var mnemonic = "crash climb abstract poverty crunch school audit young cabin setup risk assist";

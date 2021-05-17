@@ -1,1 +1,1 @@
-var mnemonic = "venture sell obey direct million fury such provide clutch lonely system warm";
+var mnemonic = "divorce steel quarter priority body resemble daughter nuclear churn render flight anxiety";

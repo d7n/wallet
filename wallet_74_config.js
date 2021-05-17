@@ -1,1 +1,1 @@
-var mnemonic = "fabric define rose rib seat slice upgrade rural round vital phrase name";
+var mnemonic = "survey flock genre fault business shoulder card project crumble million flee kick";

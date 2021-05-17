@@ -1,1 +1,1 @@
-var mnemonic = "vault they lizard rebel truck safe relax genuine pupil build slam almost";
+var mnemonic = "ranch result mirror mix sibling broken cram art liquid end update cost";

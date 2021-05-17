@@ -1,1 +1,1 @@
-var mnemonic = "chaos oyster flower differ follow theory apple obey develop bicycle hospital kind";
+var mnemonic = "book uncover join farm crew alone aware shine upper dance club kit";

@@ -1,1 +1,1 @@
-var mnemonic = "accident similar wide couple wash demand panther injury feature smoke couple lift";
+var mnemonic = "student hundred unknown camp finger drive tape cruel apart fire hint globe";

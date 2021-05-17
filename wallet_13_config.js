@@ -1,1 +1,1 @@
-var mnemonic = "sound raccoon guitar stage marriage empty enable stereo tower mesh problem tackle";
+var mnemonic = "wait invite wood hospital vanish bid manual marriage pipe flag ability swarm";

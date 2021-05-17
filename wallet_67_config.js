@@ -1,1 +1,1 @@
-var mnemonic = "level liberty demise service online enrich say organ future letter choose debris";
+var mnemonic = "work view raven mix tape harbor release bacon immense fashion open emotion";

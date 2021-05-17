@@ -1,1 +1,1 @@
-var mnemonic = "wish winter soft legend step gallery license net elevator outside neutral simple";
+var mnemonic = "salmon season orbit explain figure rose gun gadget daughter ring oil soda";

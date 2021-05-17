@@ -1,1 +1,1 @@
-var mnemonic = "friend off village coconut wolf can uniform cluster drip seed symbol banner";
+var mnemonic = "baby try kit voice bronze base unaware swallow jazz history firm concert";

@@ -1,1 +1,1 @@
-var mnemonic = "submit salon across modify shock lock tube spring aware spirit shield october";
+var mnemonic = "file cook dream culture drop success repair cream since bleak table bubble";

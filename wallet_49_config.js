@@ -1,1 +1,1 @@
-var mnemonic = "judge person weather captain foil marriage either hip proof gravity course tray";
+var mnemonic = "hover absurd isolate enjoy chair magnet mansion catch warfare oil sunset news";

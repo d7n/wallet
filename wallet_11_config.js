@@ -1,1 +1,1 @@
-var mnemonic = "program rival marine topic expect clog grace account gospel panic entry mass";
+var mnemonic = "ladder menu gentle high else frog summer inherit improve joke obvious mango";

@@ -1,1 +1,1 @@
-var mnemonic = "club repair shaft finish another soap later actor cruise grace imitate fantasy";
+var mnemonic = "tell twenty stove mass disagree donkey produce sorry glimpse scheme west cradle";

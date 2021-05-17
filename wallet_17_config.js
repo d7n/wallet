@@ -1,1 +1,1 @@
-var mnemonic = "balance fringe audit like resist hat sport deer example pet force novel";
+var mnemonic = "edit topple festival comfort vocal polar museum picnic stock soup fold observe";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare wrong length amount cricket tenant grass rapid donkey immense album giggle";
+var mnemonic = "bullet symbol extend bar cricket thought power flip catch blue october hollow";

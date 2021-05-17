@@ -1,1 +1,1 @@
-var mnemonic = "beauty laugh behind person couple despair zebra feature disease view trend exile";
+var mnemonic = "tourist ivory middle acoustic stem hint manage stumble beach depth thumb swap";

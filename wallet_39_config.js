@@ -1,1 +1,1 @@
-var mnemonic = "country document treat source orbit hello breeze phrase garden alone scrap toilet";
+var mnemonic = "unable tower cycle width edit anger video cage dress split nephew liberty";

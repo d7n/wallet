@@ -1,1 +1,1 @@
-var mnemonic = "scrap trick journey donate gorilla razor strategy dolphin arch bullet across future";
+var mnemonic = "enroll celery era must together mad inner stove orphan session sunny despair";

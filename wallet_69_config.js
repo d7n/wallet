@@ -1,1 +1,1 @@
-var mnemonic = "uniform shiver elbow apple frozen century square loyal left sell taxi keen";
+var mnemonic = "unknown choice easy original salt atom horror promote endorse match awesome recycle";

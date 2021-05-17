@@ -1,1 +1,1 @@
-var mnemonic = "pool stem ticket lawsuit desert normal wheel alien right stock endless field";
+var mnemonic = "purchase one olympic attack latin error music ecology pyramid mad turtle diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "sample pyramid detect staff thing mechanic innocent lens involve trust air banner";
+var mnemonic = "grow arrange lock view deny claw defense shop flight powder brown oppose";

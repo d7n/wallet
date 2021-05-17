@@ -1,1 +1,1 @@
-var mnemonic = "december airport silly limit robust uncle naive quote false noise meat future";
+var mnemonic = "filter guitar erase fatal smooth liar six clean scout olive seek profit";

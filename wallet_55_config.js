@@ -1,1 +1,1 @@
-var mnemonic = "original adjust mother chat gaze work monitor assume cradle scrap frozen hold";
+var mnemonic = "weather seed index harvest coral nation enjoy mimic relief divide goose diamond";

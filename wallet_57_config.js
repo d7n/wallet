@@ -1,1 +1,1 @@
-var mnemonic = "noble phrase setup describe basket prevent gift poem canyon snow palace unique";
+var mnemonic = "power analyst refuse timber infant appear empty ship record vivid lion grid";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday race silk fetch task dove tunnel start garment banana reject warm";
+var mnemonic = "civil process lounge club clog pioneer orchard pupil churn invest juice space";

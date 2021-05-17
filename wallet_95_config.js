@@ -1,1 +1,1 @@
-var mnemonic = "piece expand veteran border wrist fetch dog shield jump innocent wire quote";
+var mnemonic = "injury story engine loop reform drink erase agree rifle cliff abandon salt";

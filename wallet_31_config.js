@@ -1,1 +1,1 @@
-var mnemonic = "observe uniform taxi claim insane bubble party slide nephew short garage tell";
+var mnemonic = "almost antenna endorse absurd bench wealth flip hurdle damp shop cost genuine";

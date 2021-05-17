@@ -1,1 +1,1 @@
-var mnemonic = "spend axis thunder weapon story midnight envelope coil material casual lumber genuine";
+var mnemonic = "anger unusual match north absent slight success update load assume february chat";

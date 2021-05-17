@@ -1,1 +1,1 @@
-var mnemonic = "harvest lobster degree agent slam paper risk connect salad jazz forward prosper";
+var mnemonic = "saddle scare retire sunset frown home route sun actor cigar cherry ethics";

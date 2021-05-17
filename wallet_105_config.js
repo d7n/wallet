@@ -1,1 +1,1 @@
-var mnemonic = "race hire other nuclear intact view marriage enlist service large exhaust mirror";
+var mnemonic = "disorder knee rural beyond unfold hole obtain basket clock april horn bread";

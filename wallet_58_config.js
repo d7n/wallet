@@ -1,1 +1,1 @@
-var mnemonic = "web size aunt question royal friend sorry chunk believe cinnamon tail number";
+var mnemonic = "toss endless final bright salon teach ignore lawn pencil unfold accident when";

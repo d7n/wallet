@@ -1,1 +1,1 @@
-var mnemonic = "adjust poem vintage beyond spy ordinary width retire south runway dilemma merit";
+var mnemonic = "twist ramp turkey dust shock minute sick ketchup garment success soup chapter";

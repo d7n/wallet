@@ -1,1 +1,1 @@
-var mnemonic = "twice acoustic mammal gaze dream mystery resist disease play display segment narrow";
+var mnemonic = "powder acoustic village dry genius traffic aerobic uphold rifle nothing tonight lobster";

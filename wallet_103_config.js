@@ -1,1 +1,1 @@
-var mnemonic = "census protect swap addict alley thrive blade tired trophy maximum child garlic";
+var mnemonic = "flip throw pumpkin venture unique sponsor mushroom review elegant able tribe crash";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise worth chest size fantasy lava tortoise chair material angle foam rotate";
+var mnemonic = "duty ozone paper glance possible crawl estate glove budget embrace fun notice";

@@ -1,1 +1,1 @@
-var mnemonic = "brave cook vapor laundry impulse settle spread wall worry ritual basic meat";
+var mnemonic = "debate occur allow adapt chief glare original wood frog lawn coil bring";

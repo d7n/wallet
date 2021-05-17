@@ -1,1 +1,1 @@
-var mnemonic = "height famous casual drip bid powder frog unit host exist endorse siege";
+var mnemonic = "trumpet lobster under ten comic park man cabin wood marble october panic";

@@ -1,1 +1,1 @@
-var mnemonic = "renew large video student rural young stem mirror swarm payment high stool";
+var mnemonic = "sell sound ozone drum over maple execute border west excuse awkward morning";

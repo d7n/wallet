@@ -1,1 +1,1 @@
-var mnemonic = "update staff client source visit oppose flee ensure proof tennis danger make";
+var mnemonic = "cycle nominee accuse banana message surprise appear torch fan able belt mutual";

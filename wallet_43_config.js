@@ -1,1 +1,1 @@
-var mnemonic = "until country carpet execute sand shadow wet excuse place item pony company";
+var mnemonic = "seat roof rotate degree whale veteran blind story sketch extend staff mobile";

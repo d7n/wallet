@@ -1,1 +1,1 @@
-var mnemonic = "dose lend comfort model build know vivid mask nothing outdoor nest patch";
+var mnemonic = "august outdoor garlic near refuse artefact clay act usage legal bean vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant account found estate leave private unveil eagle humor orbit replace obtain";
+var mnemonic = "now evolve mask diesel pencil hold frown mutual twice market lift squirrel";

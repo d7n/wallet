@@ -1,1 +1,1 @@
-var mnemonic = "reflect obtain can violin marriage begin garden perfect seminar excess first vast";
+var mnemonic = "rough furnace share load result state bright weird club divert lyrics clean";

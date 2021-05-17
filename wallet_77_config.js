@@ -1,1 +1,1 @@
-var mnemonic = "omit opera first alert detail mansion one mother virtual bind then stock";
+var mnemonic = "nasty retire deny whale knife property course talk cloth once echo skull";

@@ -1,1 +1,1 @@
-var mnemonic = "style round away shed stage hero flat resource rather twist innocent awake";
+var mnemonic = "book tail first banana outdoor scatter napkin just suggest copper strike alter";
