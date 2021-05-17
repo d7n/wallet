@@ -1,1 +1,1 @@
-var mnemonic = "census picture seven cash decrease joke goose echo height settle mistake crack";
+var mnemonic = "script tribe federal enroll feature cancel ring taxi couch north chest anchor";

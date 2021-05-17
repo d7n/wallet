@@ -1,1 +1,1 @@
-var mnemonic = "fabric jaguar food waste orchard pioneer elder vehicle kitchen apology jacket amused";
+var mnemonic = "stuff profit reject drop sausage endless impulse oven explain slight dad capable";

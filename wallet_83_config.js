@@ -1,1 +1,1 @@
-var mnemonic = "airport goat rely buddy flower horror crane mesh tragic solve brush version";
+var mnemonic = "absorb distance gauge wool gentle merit young merry piano curious harsh exact";

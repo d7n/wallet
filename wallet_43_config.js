@@ -1,1 +1,1 @@
-var mnemonic = "giraffe battle core pilot air volcano turkey option senior unaware buffalo concert";
+var mnemonic = "direct body fruit spring never brisk album sniff goddess attitude deputy group";

@@ -1,1 +1,1 @@
-var mnemonic = "worry draw miss same human nice learn path fan west party autumn";
+var mnemonic = "good kick eternal desert pattern second hurdle alpha abuse tired cannon topple";

@@ -1,1 +1,1 @@
-var mnemonic = "corn battle hire middle mouse equal bind ceiling ability fault helmet core";
+var mnemonic = "fiber absent peasant morning minimum fabric dream coin indicate story tennis cradle";

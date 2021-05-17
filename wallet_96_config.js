@@ -1,1 +1,1 @@
-var mnemonic = "floor auction equip parent improve section boss meadow coral bench snake monster";
+var mnemonic = "audit normal cinnamon diamond rocket sort mammal useful useless shine creek business";

@@ -1,1 +1,1 @@
-var mnemonic = "shove invest country script bronze wheel off crew evil rhythm bean question";
+var mnemonic = "chair industry destroy cabbage doll water story gym goddess guard noodle north";

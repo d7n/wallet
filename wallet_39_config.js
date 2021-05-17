@@ -1,1 +1,1 @@
-var mnemonic = "crystal payment quote carpet draft bunker suffer battle negative area pear crop";
+var mnemonic = "butter maze spider father tuna record mind there hamster couch point flag";

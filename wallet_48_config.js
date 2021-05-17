@@ -1,1 +1,1 @@
-var mnemonic = "essence only glove friend fiber sand primary shy orchard defense nerve body";
+var mnemonic = "train jungle option example brand brother tomorrow finish edit argue dress fantasy";

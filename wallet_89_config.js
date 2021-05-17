@@ -1,1 +1,1 @@
-var mnemonic = "cry seed connect fade garlic teach camp history antenna sound tackle humble";
+var mnemonic = "local million slide spray success cherry adjust decline income fiber over debate";

@@ -1,1 +1,1 @@
-var mnemonic = "process sample arrive robust connect merit found pluck found wink napkin bubble";
+var mnemonic = "cram hunt horn miss sort year entry call chair mom barely across";

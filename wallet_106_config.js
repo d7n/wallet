@@ -1,1 +1,1 @@
-var mnemonic = "brown sketch innocent pave mass fresh lion clip crater negative reason prevent";
+var mnemonic = "diesel snake elephant pluck decrease fruit mobile neck limb clarify artefact rack";

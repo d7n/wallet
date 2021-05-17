@@ -1,1 +1,1 @@
-var mnemonic = "mean never receive economy detail banner analyst august auto carry enrich abuse";
+var mnemonic = "recall garbage merry heavy catalog text top state quiz degree faculty coyote";

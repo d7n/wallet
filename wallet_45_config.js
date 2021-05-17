@@ -1,1 +1,1 @@
-var mnemonic = "someone rack squeeze brass chimney exist army lemon truth island page hip";
+var mnemonic = "lizard double collect frown mixture foam owner arctic news park wasp index";

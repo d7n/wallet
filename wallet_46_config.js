@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sphere cruel usual forum curtain often ridge hand future elbow invite";
+var mnemonic = "run update strong ostrich forget border blind bike chef alien poet swing";

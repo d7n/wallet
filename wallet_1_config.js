@@ -1,1 +1,1 @@
-var mnemonic = "thunder victory replace screen sister project initial basic program boost fault afford";
+var mnemonic = "dignity race coconut quit rack habit elite journey menu twelve dune fee";

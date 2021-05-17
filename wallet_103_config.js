@@ -1,1 +1,1 @@
-var mnemonic = "alien near chronic ethics pigeon long smile dilemma viable slice artefact trend";
+var mnemonic = "sunny strategy danger vote bachelor remember view skin broccoli latin egg bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli drastic thrive fantasy present again unusual above turtle cattle kind joy";
+var mnemonic = "shoulder city narrow fox paper pink suffer alone replace yard service gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier alone type vocal basket sunset sauce robust opera reform clever mad";
+var mnemonic = "magic syrup gasp duck secret duck matrix lumber delay extend walk vendor";

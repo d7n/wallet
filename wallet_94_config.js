@@ -1,1 +1,1 @@
-var mnemonic = "total goose foster guilt image virtual swift notice puppy raise meat bag";
+var mnemonic = "cycle awake slab erupt devote bullet enable flip ahead remember salt empty";

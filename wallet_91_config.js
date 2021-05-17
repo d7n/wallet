@@ -1,1 +1,1 @@
-var mnemonic = "mountain reject fade earn boat plug thought wool diesel ability timber blossom";
+var mnemonic = "plug sting finish stock strong satisfy autumn table grocery actress sight pulse";

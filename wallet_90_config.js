@@ -1,1 +1,1 @@
-var mnemonic = "tell lab hammer situate select actual ability cat walk clean portion length";
+var mnemonic = "imitate kick setup angry olympic income kind brand job there nerve clever";

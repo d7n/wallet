@@ -1,1 +1,1 @@
-var mnemonic = "bus inhale cereal shaft warm border plate pony ramp young pluck review";
+var mnemonic = "traffic afford garment unit giant empower chunk loyal tuition bike staff song";

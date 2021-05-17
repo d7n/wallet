@@ -1,1 +1,1 @@
-var mnemonic = "grow bridge toss return profit cushion guide field faculty certain awful forest";
+var mnemonic = "orient film depth lyrics travel soon glove toy buffalo helmet marine swift";

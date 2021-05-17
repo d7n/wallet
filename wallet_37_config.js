@@ -1,1 +1,1 @@
-var mnemonic = "color catch sun price dentist memory invest what purity game cheese avoid";
+var mnemonic = "oblige mirror crush swamp exhaust twist dream asset slam devote spice physical";

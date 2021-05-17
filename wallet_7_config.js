@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pipe depend tumble like sound resource finish traffic cloth canyon tree";
+var mnemonic = "only bright afford town hole toddler sibling loud predict cruel creek camera";

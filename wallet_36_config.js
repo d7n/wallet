@@ -1,1 +1,1 @@
-var mnemonic = "purchase social illegal large defense turtle calm describe silver finish sausage ladder";
+var mnemonic = "seed odor dawn cycle cluster veteran acoustic must artefact swing build cannon";

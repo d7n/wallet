@@ -1,1 +1,1 @@
-var mnemonic = "rhythm duck report obvious narrow quality learn predict job tragic feature burden";
+var mnemonic = "average zoo fame bomb brave endless champion pluck snow slow subject focus";

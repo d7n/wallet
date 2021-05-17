@@ -1,1 +1,1 @@
-var mnemonic = "weather dinosaur lunar phone monster want track fury spoon enough choice deny";
+var mnemonic = "math figure hungry devote door safe across funny master cross rule twelve";

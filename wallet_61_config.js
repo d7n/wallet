@@ -1,1 +1,1 @@
-var mnemonic = "vault steel address assault dust extra enlist hurt renew master holiday pill";
+var mnemonic = "clump stable embark labor nerve sign hundred village round witness purse claw";

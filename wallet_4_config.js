@@ -1,1 +1,1 @@
-var mnemonic = "rail palace odor put piece slot blue credit owner cherry voice balance";
+var mnemonic = "warfare very lady few syrup humor doctor salute carpet media hotel mountain";

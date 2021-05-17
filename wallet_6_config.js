@@ -1,1 +1,1 @@
-var mnemonic = "able melt friend throw raccoon search genuine boat wagon result expire insane";
+var mnemonic = "key fiber party creek drop cage audit shell awful service refuse asthma";

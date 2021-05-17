@@ -1,1 +1,1 @@
-var mnemonic = "average cheap dragon reflect music stable cousin knee install hockey salute uphold";
+var mnemonic = "monitor original festival suspect language wonder bring mirror area opinion dust become";

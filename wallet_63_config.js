@@ -1,1 +1,1 @@
-var mnemonic = "disease orange gentle piece unique night upper iron magnet velvet chair fee";
+var mnemonic = "unit proud gallery submit doctor praise segment wash dolphin hope must fabric";

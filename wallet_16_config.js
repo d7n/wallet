@@ -1,1 +1,1 @@
-var mnemonic = "during isolate deputy total unhappy curve upper mask ginger mistake world razor";
+var mnemonic = "valve rare civil stand situate useless phone barely voyage unit machine bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "want stove enjoy lazy mass frost trap upgrade educate garbage cover decline";
+var mnemonic = "habit regret fox panel kind such diesel demise curious spell rail lawn";

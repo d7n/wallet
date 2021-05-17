@@ -1,1 +1,1 @@
-var mnemonic = "spare upper iron sand cliff eight crush wide evoke lemon scatter kind";
+var mnemonic = "foot ribbon clean chief there tube swim boil mammal catalog mango labor";

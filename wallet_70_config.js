@@ -1,1 +1,1 @@
-var mnemonic = "polar right swallow answer walk phrase school skirt trial link chimney strike";
+var mnemonic = "spin fiction quality sort pair split device column engage tragic fork hospital";

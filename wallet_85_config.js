@@ -1,1 +1,1 @@
-var mnemonic = "fabric embrace choice address space glue goddess fever noodle put apology print";
+var mnemonic = "anxiety cute way attitude paddle student novel install romance onion danger video";

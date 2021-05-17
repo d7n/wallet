@@ -1,1 +1,1 @@
-var mnemonic = "blame turkey rose edge beyond spawn adult large acoustic hammer feature tail";
+var mnemonic = "quick yard other wagon divorce album waste smooth foster roast elder tongue";

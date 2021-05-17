@@ -1,1 +1,1 @@
-var mnemonic = "master suggest circle stairs collect orchard inhale repeat engage impact vocal pact";
+var mnemonic = "badge holiday inflict offer tackle nothing cup shrimp display reject nephew ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual sight myself belt muscle defy fiction smile brain first grain other";
+var mnemonic = "ice hammer allow decorate phrase female guilt document aware feature change jar";

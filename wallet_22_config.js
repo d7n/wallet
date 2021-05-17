@@ -1,1 +1,1 @@
-var mnemonic = "bacon short purpose cook fringe manage chest awkward behave misery road final";
+var mnemonic = "push sight clerk supreme desk actual corn yard laundry shallow skate day";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude embody pig concert lion tiger civil again major survey electric tip";
+var mnemonic = "inch suffer stone educate attract setup dawn pencil census quiz juice basket";

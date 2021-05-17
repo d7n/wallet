@@ -1,1 +1,1 @@
-var mnemonic = "outside hen topple farm famous grain penalty devote salon sphere journey lyrics";
+var mnemonic = "disagree game slogan hold eyebrow fiction sorry kid hello ranch daring spider";

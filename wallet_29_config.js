@@ -1,1 +1,1 @@
-var mnemonic = "loyal deliver trip couple panda rug coyote govern accident exhibit science crucial";
+var mnemonic = "enable heavy citizen act long comfort dice again love slab tool badge";

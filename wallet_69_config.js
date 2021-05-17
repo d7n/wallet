@@ -1,1 +1,1 @@
-var mnemonic = "inhale empower wrestle vibrant addict math rough embody business comic axis steak";
+var mnemonic = "bid diamond issue senior donate one predict design skate casino quit junior";

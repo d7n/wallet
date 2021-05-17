@@ -1,1 +1,1 @@
-var mnemonic = "similar position sphere fragile oblige fancy skill produce allow kind mimic creek";
+var mnemonic = "profit broken flock pilot series possible fiscal promote long remind female vessel";

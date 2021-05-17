@@ -1,1 +1,1 @@
-var mnemonic = "fitness notice negative skate slight aisle select toy climb effort tribe coral";
+var mnemonic = "retreat apology history chat slow version kick blur fold super split adult";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope tomato any lobster grab unable cancel month card ghost short onion";
+var mnemonic = "robot place nothing token chat clarify future key panda maximum marble mercy";

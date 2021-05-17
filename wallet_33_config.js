@@ -1,1 +1,1 @@
-var mnemonic = "okay hockey town finger yard often absurd song toe antenna boil disorder";
+var mnemonic = "ozone raccoon limb toward enforce inject size ancient zoo file shoulder slam";

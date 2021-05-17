@@ -1,1 +1,1 @@
-var mnemonic = "happy ordinary donkey civil tunnel one bike odor special vendor panic pole";
+var mnemonic = "salon used below gorilla goose amateur social mimic diet crime lecture elbow";

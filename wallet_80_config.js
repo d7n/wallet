@@ -1,1 +1,1 @@
-var mnemonic = "affair later raise hen fever chief turn strike face scene fine fold";
+var mnemonic = "daring panda boost ensure song coffee spend awkward orange behave thing good";

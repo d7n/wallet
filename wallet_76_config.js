@@ -1,1 +1,1 @@
-var mnemonic = "quote mercy space mirror suffer van explain camp cave note zoo minimum";
+var mnemonic = "bargain crowd target state okay pelican stomach alpha pyramid fit toward faint";

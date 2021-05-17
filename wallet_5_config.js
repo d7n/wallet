@@ -1,1 +1,1 @@
-var mnemonic = "urban melt stone prison acquire power paper wink plastic vault father unhappy";
+var mnemonic = "long steel load praise section unusual labor toward author else agree result";

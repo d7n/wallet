@@ -1,1 +1,1 @@
-var mnemonic = "wisdom rely beach bronze miss like spy around blast idle sorry metal";
+var mnemonic = "match polar donkey ridge entire economy weird silly fashion work cinnamon hamster";

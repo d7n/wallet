@@ -1,1 +1,1 @@
-var mnemonic = "force blush gadget once riot endless autumn half will across city blanket";
+var mnemonic = "exact guess three quit salute sweet source emotion arrest stem pact cactus";

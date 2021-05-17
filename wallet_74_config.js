@@ -1,1 +1,1 @@
-var mnemonic = "poverty pitch exist umbrella knee better average finger fiction diary slide net";
+var mnemonic = "armor real assume scan victory move famous cupboard vendor piece charge bring";

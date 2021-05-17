@@ -1,1 +1,1 @@
-var mnemonic = "aim wall forum crash leg nice utility desert burger crouch liberty attack";
+var mnemonic = "snack mimic casino perfect cotton brother orient method embrace wreck loan parrot";

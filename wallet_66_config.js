@@ -1,1 +1,1 @@
-var mnemonic = "initial bar pioneer follow chest love clarify arrow dwarf mule review stool";
+var mnemonic = "electric cotton invest lunch minute resemble road noise tag attack excuse purpose";

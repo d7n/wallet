@@ -1,1 +1,1 @@
-var mnemonic = "envelope autumn hidden prize busy knife one involve slot chapter round nose";
+var mnemonic = "scale garlic aware embrace bid screen industry hospital excite gallery seat exhaust";

@@ -1,1 +1,1 @@
-var mnemonic = "member walk matrix appear rain defy brown hazard merge picture bicycle short";
+var mnemonic = "famous swift meadow display lab until foil devote bulk speak warfare correct";

@@ -1,1 +1,1 @@
-var mnemonic = "verify loud ill ranch muffin cannon kite near cute nation erode modify";
+var mnemonic = "thunder symptom sure theme sing future fuel cool under bus hire endorse";

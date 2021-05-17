@@ -1,1 +1,1 @@
-var mnemonic = "portion cliff delay trap common fury right crater course twin boy top";
+var mnemonic = "chronic skull reject luggage few alone pretty open crater stool combine purchase";

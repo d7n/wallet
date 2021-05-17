@@ -1,1 +1,1 @@
-var mnemonic = "hospital split twice rather cattle where talent right broom match clarify front";
+var mnemonic = "portion good enforce enough more craft intact sphere shrimp become carpet drift";

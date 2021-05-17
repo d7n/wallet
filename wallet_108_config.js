@@ -1,1 +1,1 @@
-var mnemonic = "tired spawn process genre luggage mountain usage cactus audit badge choose scene";
+var mnemonic = "ostrich attack enforce canal hammer mention will list antique angry accident thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "train gravity flower vicious dream lock laptop symptom evidence gain share boy";
+var mnemonic = "turtle visual scout dry write lucky release protect awkward tired expand runway";

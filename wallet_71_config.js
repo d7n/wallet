@@ -1,1 +1,1 @@
-var mnemonic = "stadium margin episode trophy setup pride clap debate asthma clerk trust law";
+var mnemonic = "urban galaxy label sting bread sudden hospital hazard switch turkey media paper";

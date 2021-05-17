@@ -1,1 +1,1 @@
-var mnemonic = "solid business accident jungle toss live item jungle until happy purchase pilot";
+var mnemonic = "drill group word deliver equip goat radio multiply soldier sick used core";

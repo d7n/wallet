@@ -1,1 +1,1 @@
-var mnemonic = "youth rough afraid swing friend lens client enact struggle enhance coin have";
+var mnemonic = "admit degree permit menu donor pen laugh cloud clay idle shove option";

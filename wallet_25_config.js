@@ -1,1 +1,1 @@
-var mnemonic = "embody dream dutch analyst two special viable leaf alarm net punch wealth";
+var mnemonic = "wing future adapt draft clown journey blossom tortoise point blanket glory wedding";

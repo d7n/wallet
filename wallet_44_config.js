@@ -1,1 +1,1 @@
-var mnemonic = "route year fish famous trick hybrid all silver ball before spin crush";
+var mnemonic = "early enter now blue divide animal mother glass gold fade risk agree";

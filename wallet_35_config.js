@@ -1,1 +1,1 @@
-var mnemonic = "midnight uncle obvious float soup myth sea taste long health defense ski";
+var mnemonic = "wink still unfair pact tomorrow bike all try exhibit fever sniff random";

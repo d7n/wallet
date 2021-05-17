@@ -1,1 +1,1 @@
-var mnemonic = "urban uncle nut cream maze digital roast enact divide round write issue";
+var mnemonic = "gasp feature vote butter robot cradle bid spray summer census moral stairs";

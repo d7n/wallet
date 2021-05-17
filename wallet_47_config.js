@@ -1,1 +1,1 @@
-var mnemonic = "country change wet cannon health educate gym barely ring illegal top excess";
+var mnemonic = "grass episode process easily night multiply rotate uncover tuna arrange bacon clarify";

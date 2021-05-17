@@ -1,1 +1,1 @@
-var mnemonic = "unaware pizza board denial couple text elbow box doctor shell ankle million";
+var mnemonic = "chapter immune embrace cradle rare dutch scorpion clap only cave flag all";

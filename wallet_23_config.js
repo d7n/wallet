@@ -1,1 +1,1 @@
-var mnemonic = "joke leisure hurry volume item delay giggle rude rookie glad margin play";
+var mnemonic = "hope orbit siren toast tonight isolate document divorce tired shine loan tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "other message magnet junior vast deposit chaos roast train govern misery debris";
+var mnemonic = "glare surge head display sample casual first enemy speed welcome range false";

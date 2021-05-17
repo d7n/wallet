@@ -1,1 +1,1 @@
-var mnemonic = "denial two fine cover list chat crack buffalo lift normal buddy goddess";
+var mnemonic = "decade embrace peace engine bottom front neglect fall monster reflect fix era";

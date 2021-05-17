@@ -1,1 +1,1 @@
-var mnemonic = "crouch decide key gospel icon secret labor country gap humor ill ride";
+var mnemonic = "test already vintage dignity kingdom usage nature clog disagree voyage isolate approve";

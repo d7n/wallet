@@ -1,1 +1,1 @@
-var mnemonic = "loud veteran attitude course purchase consider pattern hill say plate honey lens";
+var mnemonic = "before media kingdom never couch safe three team runway private lounge admit";

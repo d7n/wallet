@@ -1,1 +1,1 @@
-var mnemonic = "protect mom emerge grain awful oppose title birth engine glad govern foster";
+var mnemonic = "garment swift remain cherry across kingdom dune differ monkey dream check brief";

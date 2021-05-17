@@ -1,1 +1,1 @@
-var mnemonic = "oppose result miss amused volcano marble census kiwi number opera lizard chalk";
+var mnemonic = "festival illness lunch differ indicate solid tackle limit chapter secret hamster heavy";

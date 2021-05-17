@@ -1,1 +1,1 @@
-var mnemonic = "bomb eyebrow melt real huge bargain ceiling cloth crowd crouch pond news";
+var mnemonic = "cross trick curtain material rug clown museum deliver buddy fold turkey visa";

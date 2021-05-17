@@ -1,1 +1,1 @@
-var mnemonic = "rhythm abandon today size fresh ramp sorry stick extra good minimum layer";
+var mnemonic = "enroll north whale lawn stand list hat unusual upon skirt jewel cash";

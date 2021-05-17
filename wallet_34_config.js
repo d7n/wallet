@@ -1,1 +1,1 @@
-var mnemonic = "increase umbrella foot foster convince expand develop brick suffer put safe paddle";
+var mnemonic = "interest erosion slice situate neck doctor purse tennis october during main legal";

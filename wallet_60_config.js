@@ -1,1 +1,1 @@
-var mnemonic = "bind flame proud weird piano morning faculty coach empty flag view rent";
+var mnemonic = "siege add glide mixed benefit artefact worry miss order correct must swallow";

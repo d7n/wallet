@@ -1,1 +1,1 @@
-var mnemonic = "guard peasant quick discover eye student voyage job permit brick link assault";
+var mnemonic = "reopen gold slice cannon thought below lyrics audit ride organ upper elevator";

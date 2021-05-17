@@ -1,1 +1,1 @@
-var mnemonic = "rent strike gown stumble erosion tomato initial ask eager develop grocery library";
+var mnemonic = "throw fine discover enlist between nerve profit age whale innocent state carry";

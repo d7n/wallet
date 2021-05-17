@@ -1,1 +1,1 @@
-var mnemonic = "dismiss gadget danger pave slender win truth joke pioneer latin across raise";
+var mnemonic = "tissue use laugh parade poverty club beach switch interest crawl coconut million";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange angry jewel beach gift matrix lemon wasp cycle place razor vapor";
+var mnemonic = "climb poverty reunion emotion organ voice rival equal swap artefact they input";

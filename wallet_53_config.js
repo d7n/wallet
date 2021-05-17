@@ -1,1 +1,1 @@
-var mnemonic = "lab love wonder nature spread artefact mix fruit venue engage police kitten";
+var mnemonic = "tobacco pipe column actual shrimp country shove forward gate mass place ribbon";

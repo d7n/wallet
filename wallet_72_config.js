@@ -1,1 +1,1 @@
-var mnemonic = "stairs oil rebuild brisk duck later inherit object weasel uniform screen original";
+var mnemonic = "valve entire claw hurdle dawn catch apart road decade carry arrow civil";
