@@ -1,1 +1,1 @@
-var mnemonic = "lunar undo axis fiction scare often battle they cliff curtain marriage supreme";
+var mnemonic = "race hire other nuclear intact view marriage enlist service large exhaust mirror";

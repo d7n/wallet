@@ -1,1 +1,1 @@
-var mnemonic = "web vague crawl filter gallery rough script voyage sword axis pool catch";
+var mnemonic = "census protect swap addict alley thrive blade tired trophy maximum child garlic";

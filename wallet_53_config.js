@@ -1,1 +1,1 @@
-var mnemonic = "bike hill blanket vast stereo egg hen trouble inquiry craft blind palace";
+var mnemonic = "shaft bind hood antenna unique smart doll reduce camera van output decorate";

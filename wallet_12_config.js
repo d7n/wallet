@@ -1,1 +1,1 @@
-var mnemonic = "exile pigeon digital grape again ribbon scale cart range garment hen reunion";
+var mnemonic = "truck coin dry trophy disease school wreck magnet casino document victory swallow";

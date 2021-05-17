@@ -1,1 +1,1 @@
-var mnemonic = "omit airport crouch kind time blast burden empty patch argue life vital";
+var mnemonic = "harvest lobster degree agent slam paper risk connect salad jazz forward prosper";

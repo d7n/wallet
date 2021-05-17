@@ -1,1 +1,1 @@
-var mnemonic = "worry scene supply catch mouse motor surge copper opinion major park enemy";
+var mnemonic = "piece expand veteran border wrist fetch dog shield jump innocent wire quote";

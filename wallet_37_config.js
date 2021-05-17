@@ -1,1 +1,1 @@
-var mnemonic = "ignore gasp nerve forest device point elegant ill whisper holiday lab wheel";
+var mnemonic = "obey throw happy diet beyond young device sustain wing pen acoustic car";

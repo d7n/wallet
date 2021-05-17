@@ -1,1 +1,1 @@
-var mnemonic = "capital fork cram elder bridge spring trade narrow world number sock tiny";
+var mnemonic = "profit frozen super teach protect enable ski scatter board festival later husband";

@@ -1,1 +1,1 @@
-var mnemonic = "length assault bleak cook north leave culture fossil basket super poem noble";
+var mnemonic = "jump dumb town foster easy motor sock month endless father differ record";

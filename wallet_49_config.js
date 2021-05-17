@@ -1,1 +1,1 @@
-var mnemonic = "amount warrior trouble chaos draw donate pave trade hero soft reduce enter";
+var mnemonic = "judge person weather captain foil marriage either hip proof gravity course tray";

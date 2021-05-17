@@ -1,1 +1,1 @@
-var mnemonic = "excess staff rigid core void divorce unlock clutch certain involve major slab";
+var mnemonic = "skate glove hybrid under shoot scorpion giant three mention direct dinner rabbit";

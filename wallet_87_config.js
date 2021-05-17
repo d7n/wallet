@@ -1,1 +1,1 @@
-var mnemonic = "camp jelly rescue logic crack text mind wealth proud giggle sustain clarify";
+var mnemonic = "adjust poem vintage beyond spy ordinary width retire south runway dilemma merit";

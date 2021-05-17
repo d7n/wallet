@@ -1,1 +1,1 @@
-var mnemonic = "elephant inspire liberty pass neither door solid student siege curve aunt two";
+var mnemonic = "bless execute penalty parrot amused window blade earth deer like category ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "treat media rare cargo fog upgrade mutual coil rose list puppy tiny";
+var mnemonic = "brave cook vapor laundry impulse settle spread wall worry ritual basic meat";

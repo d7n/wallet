@@ -1,1 +1,1 @@
-var mnemonic = "snap suspect enough solution spatial chest home foster vault acoustic outside piano";
+var mnemonic = "census grab paddle genius toilet between twice mystery remove sketch suit hawk";

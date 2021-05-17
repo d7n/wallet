@@ -1,1 +1,1 @@
-var mnemonic = "member saddle oven monkey anchor gadget pole meadow custom unfold uncle theme";
+var mnemonic = "web size aunt question royal friend sorry chunk believe cinnamon tail number";

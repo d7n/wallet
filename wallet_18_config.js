@@ -1,1 +1,1 @@
-var mnemonic = "hamster wonder champion miss best occur bounce matter excite script vessel toast";
+var mnemonic = "rely alien pyramid sunset inmate human stable physical lesson plug echo genius";

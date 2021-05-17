@@ -1,1 +1,1 @@
-var mnemonic = "mule sphere near agent ozone bundle diagram hedgehog tragic yellow fog unaware";
+var mnemonic = "reflect obtain can violin marriage begin garden perfect seminar excess first vast";

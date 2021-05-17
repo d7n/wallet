@@ -1,1 +1,1 @@
-var mnemonic = "write axis point shiver stable glide main master jaguar panda pet crisp";
+var mnemonic = "december airport silly limit robust uncle naive quote false noise meat future";

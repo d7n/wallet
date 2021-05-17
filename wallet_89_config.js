@@ -1,1 +1,1 @@
-var mnemonic = "physical clean address hat debris twin honey example vicious cage say smooth";
+var mnemonic = "oak oyster calm element ketchup slam modify unit member tree napkin permit";

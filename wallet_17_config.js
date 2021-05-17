@@ -1,1 +1,1 @@
-var mnemonic = "curtain vocal kitten virus isolate caught mesh comic blossom knee grape illegal";
+var mnemonic = "balance fringe audit like resist hat sport deer example pet force novel";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel green can more finger better combine teach art fee gesture remember";
+var mnemonic = "twice acoustic mammal gaze dream mystery resist disease play display segment narrow";

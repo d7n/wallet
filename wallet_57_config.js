@@ -1,1 +1,1 @@
-var mnemonic = "wave illness debate modify orange load inform box super food real globe";
+var mnemonic = "noble phrase setup describe basket prevent gift poem canyon snow palace unique";

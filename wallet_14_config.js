@@ -1,1 +1,1 @@
-var mnemonic = "swim shock parent melody holiday foam snap knock consider mistake recipe bright";
+var mnemonic = "chaos oyster flower differ follow theory apple obey develop bicycle hospital kind";

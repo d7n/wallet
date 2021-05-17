@@ -1,1 +1,1 @@
-var mnemonic = "nice youth inspire toilet corn suggest rice ready agent obey post twenty";
+var mnemonic = "safe ritual notice tackle dilemma shuffle major man impose face come cactus";

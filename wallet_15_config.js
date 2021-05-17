@@ -1,1 +1,1 @@
-var mnemonic = "upon stadium drive rural replace age nurse marble disagree slab wrong kite";
+var mnemonic = "struggle city orbit access supreme desert poet industry blossom board orbit model";

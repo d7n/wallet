@@ -1,1 +1,1 @@
-var mnemonic = "foster fragile vast island define fever also change promote clap mention home";
+var mnemonic = "sun various deputy danger live crater avoid laugh rent claw unusual able";

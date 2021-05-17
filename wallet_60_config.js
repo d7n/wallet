@@ -1,1 +1,1 @@
-var mnemonic = "about open soldier airport giggle rubber obscure small often muffin chapter must";
+var mnemonic = "diamond exotic win awful caught wealth dash ripple sorry keen okay side";

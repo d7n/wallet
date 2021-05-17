@@ -1,1 +1,1 @@
-var mnemonic = "medal monster mixed artist spatial file garden cat coil predict able shop";
+var mnemonic = "tag grief topple memory find payment nerve brave laugh loyal reveal sketch";

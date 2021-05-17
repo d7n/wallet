@@ -1,1 +1,1 @@
-var mnemonic = "electric price pyramid clog height eight split vanish frost dance win travel";
+var mnemonic = "wish winter soft legend step gallery license net elevator outside neutral simple";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter main theory sort drop salt reveal type umbrella eyebrow wide brush";
+var mnemonic = "warfare wrong length amount cricket tenant grass rapid donkey immense album giggle";

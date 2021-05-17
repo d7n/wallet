@@ -1,1 +1,1 @@
-var mnemonic = "canyon common chase gesture punch fame segment use violin future dove parent";
+var mnemonic = "spot gate million market document random ensure canvas pole bid jeans fuel";

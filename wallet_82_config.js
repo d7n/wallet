@@ -1,1 +1,1 @@
-var mnemonic = "drama dial comfort baby round consider alien ahead travel eagle firm nasty";
+var mnemonic = "holiday race silk fetch task dove tunnel start garment banana reject warm";

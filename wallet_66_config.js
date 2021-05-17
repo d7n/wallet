@@ -1,1 +1,1 @@
-var mnemonic = "biology exercise next soul figure atom bright chair fiber sight slice reform";
+var mnemonic = "parrot museum hero control bike inner ski exotic silly own impulse cabin";

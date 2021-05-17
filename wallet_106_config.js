@@ -1,1 +1,1 @@
-var mnemonic = "employ weekend viable park equip ripple bullet keen walnut execute level rival";
+var mnemonic = "over race cluster subway fall child victory pass maze visit cart country";

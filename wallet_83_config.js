@@ -1,1 +1,1 @@
-var mnemonic = "car sphere flag hidden inmate knee among mandate please chunk scrub good";
+var mnemonic = "legend release yard alter decrease room sign divide arctic ball print resource";

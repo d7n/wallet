@@ -1,1 +1,1 @@
-var mnemonic = "love silver impulse outside rough shine sing artist bracket vast rabbit only";
+var mnemonic = "observe uniform taxi claim insane bubble party slide nephew short garage tell";

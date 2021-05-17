@@ -1,1 +1,1 @@
-var mnemonic = "balcony small tattoo index expose latin portion knock bubble item drive obtain";
+var mnemonic = "country document treat source orbit hello breeze phrase garden alone scrap toilet";

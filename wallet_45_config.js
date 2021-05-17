@@ -1,1 +1,1 @@
-var mnemonic = "surround oak gallery cabbage marriage silk east narrow fire zoo embark lunch";
+var mnemonic = "stool earn leave universe poet tongue again fury cat future denial proof";

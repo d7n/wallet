@@ -1,1 +1,1 @@
-var mnemonic = "square battle giggle bulk buddy magic pilot moment cabbage since later wagon";
+var mnemonic = "arrest merge spray paper armed clutch fatal melt habit shoe side negative";

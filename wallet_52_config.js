@@ -1,1 +1,1 @@
-var mnemonic = "copper when horse miss announce frame proof empty curious stage cushion clean";
+var mnemonic = "renew large video student rural young stem mirror swarm payment high stool";

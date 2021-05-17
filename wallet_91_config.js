@@ -1,1 +1,1 @@
-var mnemonic = "bus youth place decide fox spike six build tired element reveal slim";
+var mnemonic = "dial term source actual order seminar other south fog inflict orange burden";

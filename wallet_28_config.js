@@ -1,1 +1,1 @@
-var mnemonic = "lava hood coin hurt muffin pact sock usual reopen sheriff total song";
+var mnemonic = "junk tuna hand slam turkey pluck powder furnace behind index clarify science";

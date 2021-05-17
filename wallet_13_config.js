@@ -1,1 +1,1 @@
-var mnemonic = "simple clever life phone guitar shoot garbage major prevent focus mango cycle";
+var mnemonic = "sound raccoon guitar stage marriage empty enable stereo tower mesh problem tackle";

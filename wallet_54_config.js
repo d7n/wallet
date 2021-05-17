@@ -1,1 +1,1 @@
-var mnemonic = "found charge crisp super fabric share mushroom cinnamon unhappy have space phrase";
+var mnemonic = "beauty laugh behind person couple despair zebra feature disease view trend exile";

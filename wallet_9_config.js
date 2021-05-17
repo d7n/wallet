@@ -1,1 +1,1 @@
-var mnemonic = "salon client soup system party pig unhappy salt melt evolve range bind";
+var mnemonic = "club repair shaft finish another soap later actor cruise grace imitate fantasy";

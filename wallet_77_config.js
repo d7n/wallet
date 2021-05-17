@@ -1,1 +1,1 @@
-var mnemonic = "funny fun when render space width destroy mystery hard mango dinosaur nature";
+var mnemonic = "omit opera first alert detail mansion one mother virtual bind then stock";

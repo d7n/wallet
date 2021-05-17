@@ -1,1 +1,1 @@
-var mnemonic = "network boy olympic giraffe innocent avoid spin about often cash nation build";
+var mnemonic = "soda dial clarify service current heavy exercise athlete random fragile include island";

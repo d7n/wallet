@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mansion stomach sense inmate orbit place company will brief alone knife";
+var mnemonic = "fault deposit coffee ill degree oak young paper timber liquid add crime";

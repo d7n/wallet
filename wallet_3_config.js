@@ -1,1 +1,1 @@
-var mnemonic = "giggle maid enrich robot come stadium stomach captain moon senior side dream";
+var mnemonic = "artwork card cricket bless flush april shine nation cruise rather abuse busy";

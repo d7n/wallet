@@ -1,1 +1,1 @@
-var mnemonic = "donor damp sound disease deposit leg fit say opera record crisp mail";
+var mnemonic = "spend axis thunder weapon story midnight envelope coil material casual lumber genuine";

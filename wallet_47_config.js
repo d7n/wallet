@@ -1,1 +1,1 @@
-var mnemonic = "economy leaf typical good section country crucial error label orphan trade zero";
+var mnemonic = "sample pyramid detect staff thing mechanic innocent lens involve trust air banner";

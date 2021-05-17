@@ -1,1 +1,1 @@
-var mnemonic = "indoor marble like traffic arctic cute pride fix can undo metal category";
+var mnemonic = "soft office innocent cloth manual someone frost orange wool magnet neck deposit";

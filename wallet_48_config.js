@@ -1,1 +1,1 @@
-var mnemonic = "horror cup love dolphin uncover shock clarify exhibit chief desk lonely season";
+var mnemonic = "accuse minute tail intact enforce rail immune armor stage quick say praise";

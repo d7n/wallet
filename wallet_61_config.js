@@ -1,1 +1,1 @@
-var mnemonic = "dilemma health crater will ankle mammal mail food daring rally that quarter";
+var mnemonic = "clutch figure genuine switch waste hair afraid card feel glimpse horn wife";

@@ -1,1 +1,1 @@
-var mnemonic = "public quote identify sail title broom pride topic vital joy hazard shadow";
+var mnemonic = "until country carpet execute sand shadow wet excuse place item pony company";

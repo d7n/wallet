@@ -1,1 +1,1 @@
-var mnemonic = "room liquid pattern stairs amazing cross laundry thank unit chalk phone artwork";
+var mnemonic = "sausage rough slogan layer angle noodle link favorite phrase define night document";

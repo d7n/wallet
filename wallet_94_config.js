@@ -1,1 +1,1 @@
-var mnemonic = "scan crack love glance tank tiny entry diamond swim ordinary ozone liberty";
+var mnemonic = "author total culture cement crack rescue salad sick distance syrup adapt iron";

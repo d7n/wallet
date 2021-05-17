@@ -1,1 +1,1 @@
-var mnemonic = "butter nurse twice chief update ghost transfer ski task rule grass speak";
+var mnemonic = "sample cancel battle crater young afford guard sad sudden payment situate cycle";

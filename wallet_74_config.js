@@ -1,1 +1,1 @@
-var mnemonic = "biology suit hover secret employ enrich cute grocery atom hockey clock axis";
+var mnemonic = "fabric define rose rib seat slice upgrade rural round vital phrase name";

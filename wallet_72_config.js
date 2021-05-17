@@ -1,1 +1,1 @@
-var mnemonic = "squirrel exotic remove sound onion leg math trumpet recipe clay rely resist";
+var mnemonic = "vacant account found estate leave private unveil eagle humor orbit replace obtain";

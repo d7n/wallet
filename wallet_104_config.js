@@ -1,1 +1,1 @@
-var mnemonic = "farm company dizzy minimum faith unusual cable slogan rose always cool exercise";
+var mnemonic = "scrap trick journey donate gorilla razor strategy dolphin arch bullet across future";

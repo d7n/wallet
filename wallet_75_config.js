@@ -1,1 +1,1 @@
-var mnemonic = "upgrade exhaust blast reopen purse office salmon shield shoulder skate wolf cave";
+var mnemonic = "cram nasty punch connect twelve pony enhance angry artist permit slogan alpha";

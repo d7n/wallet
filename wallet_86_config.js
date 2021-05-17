@@ -1,1 +1,1 @@
-var mnemonic = "grass air road wool snow enforce market soon alpha lamp carry virus";
+var mnemonic = "submit salon across modify shock lock tube spring aware spirit shield october";

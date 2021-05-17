@@ -1,1 +1,1 @@
-var mnemonic = "rubber whale goose loyal tree seminar web picnic palm robust ethics magic";
+var mnemonic = "uniform shiver elbow apple frozen century square loyal left sell taxi keen";

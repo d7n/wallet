@@ -1,1 +1,1 @@
-var mnemonic = "hover tomorrow lizard nerve roof kitchen travel fun mistake legend equip industry";
+var mnemonic = "enhance half side employ critic setup route pioneer buddy iron engage myself";

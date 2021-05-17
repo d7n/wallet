@@ -1,1 +1,1 @@
-var mnemonic = "evolve help belt slam cross husband lesson onion rigid soccer orchard scrap";
+var mnemonic = "lobster surprise weekend guilt tooth cheap wire gift spot someone smile usual";

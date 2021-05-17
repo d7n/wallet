@@ -1,1 +1,1 @@
-var mnemonic = "behave drip empower kit extra swear pipe absorb front paddle bean army";
+var mnemonic = "friend off village coconut wolf can uniform cluster drip seed symbol banner";

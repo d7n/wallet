@@ -1,1 +1,1 @@
-var mnemonic = "bridge print suggest genius decide denial north follow danger bottom scheme curious";
+var mnemonic = "tortoise worth chest size fantasy lava tortoise chair material angle foam rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle drive bachelor tonight owner casual popular typical year talent seed term";
+var mnemonic = "magic clock mean rebel awkward spoil illness fun leave visual repair soda";

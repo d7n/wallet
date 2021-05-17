@@ -1,1 +1,1 @@
-var mnemonic = "draw vanish return salad carbon crew code speed robust country cash sort";
+var mnemonic = "vapor recall case column hub hollow sting insect defense shift unknown sketch";

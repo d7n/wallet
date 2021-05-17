@@ -1,1 +1,1 @@
-var mnemonic = "arrive embody cloud liar brother zoo seed economy danger remind dizzy rib";
+var mnemonic = "involve envelope lend fix increase humble luggage answer plug knock enlist admit";

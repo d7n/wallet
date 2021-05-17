@@ -1,1 +1,1 @@
-var mnemonic = "found large used region joy sheriff mother island wine scale eight climb";
+var mnemonic = "update staff client source visit oppose flee ensure proof tennis danger make";

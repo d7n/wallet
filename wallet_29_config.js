@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fade agree umbrella rain wonder odor scene immune jealous depth awful";
+var mnemonic = "soon hollow ranch hill oppose wait public trigger innocent state valley year";

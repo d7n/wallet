@@ -1,1 +1,1 @@
-var mnemonic = "hospital frog virtual language fortune also occur silent hurt bulk insane tool";
+var mnemonic = "large apple lesson arctic drift can blast credit jelly keep picnic awful";

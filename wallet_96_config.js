@@ -1,1 +1,1 @@
-var mnemonic = "clerk near choose access tortoise sister like train upper symbol father ceiling";
+var mnemonic = "boss link diary stone cream oak summer loyal party young dog climb";

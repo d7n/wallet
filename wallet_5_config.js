@@ -1,1 +1,1 @@
-var mnemonic = "write increase jaguar cupboard life mesh dish volume put hover similar beef";
+var mnemonic = "rare sphere claim list pill flower drip media cook eagle idle solid";

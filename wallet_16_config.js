@@ -1,1 +1,1 @@
-var mnemonic = "miracle gym skull vapor reject marble adapt canyon search mass deliver grief";
+var mnemonic = "venture sell obey direct million fury such provide clutch lonely system warm";

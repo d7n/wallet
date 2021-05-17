@@ -1,1 +1,1 @@
-var mnemonic = "slow notice wool awful recipe cruel hawk fame spider inside crisp pilot";
+var mnemonic = "wing smart dust sugar want metal next drip seat typical peasant common";

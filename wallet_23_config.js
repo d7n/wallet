@@ -1,1 +1,1 @@
-var mnemonic = "mixed pen envelope need garden over skirt shuffle clean output domain have";
+var mnemonic = "candy blanket situate present must owner push outer cement dismiss room belt";

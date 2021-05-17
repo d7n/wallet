@@ -1,1 +1,1 @@
-var mnemonic = "ocean case destroy neutral decide jazz shift pink collect timber enlist grit";
+var mnemonic = "style round away shed stage hero flat resource rather twist innocent awake";

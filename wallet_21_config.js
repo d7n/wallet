@@ -1,1 +1,1 @@
-var mnemonic = "feature genius essence sadness sadness december vacuum happy burst warrior rotate toy";
+var mnemonic = "gloom north public stage catch upon century swim decline scout visa arrive";

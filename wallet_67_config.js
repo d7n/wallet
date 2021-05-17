@@ -1,1 +1,1 @@
-var mnemonic = "harbor vibrant banana merry volume echo shrimp basic plunge empty finish clog";
+var mnemonic = "level liberty demise service online enrich say organ future letter choose debris";

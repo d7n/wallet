@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rival imitate increase punch buffalo choice rely destroy boil error jewel";
+var mnemonic = "program rival marine topic expect clog grace account gospel panic entry mass";

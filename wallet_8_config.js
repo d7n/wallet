@@ -1,1 +1,1 @@
-var mnemonic = "critic jazz found magnet unveil hero motion poverty innocent fatigue ramp metal";
+var mnemonic = "give coyote bitter victory fire list witness oil catch mushroom eye soul";

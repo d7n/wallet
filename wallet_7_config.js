@@ -1,1 +1,1 @@
-var mnemonic = "law hurdle resource rent cereal enhance net shoot maid grow priority warrior";
+var mnemonic = "educate half door lottery picnic business ecology mobile note media worry concert";

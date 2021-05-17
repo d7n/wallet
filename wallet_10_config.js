@@ -1,1 +1,1 @@
-var mnemonic = "toe wrap arrive mushroom custom fat cradle glad volume tuition cart blind";
+var mnemonic = "accident similar wide couple wash demand panther injury feature smoke couple lift";

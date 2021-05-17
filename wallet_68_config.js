@@ -1,1 +1,1 @@
-var mnemonic = "vault fly fabric obscure helmet foot hundred switch peanut smile anxiety unlock";
+var mnemonic = "tilt effort spirit opera cloth garment fault kitten similar priority judge winter";

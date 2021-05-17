@@ -1,1 +1,1 @@
-var mnemonic = "afford jelly spend cherry lucky twin organ egg option tag force debate";
+var mnemonic = "tooth blade hamster satisfy barely thrive please mercy inject wall cousin spot";

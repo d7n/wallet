@@ -1,1 +1,1 @@
-var mnemonic = "attitude modify scissors winner tortoise question cabbage decade palace minor upset random";
+var mnemonic = "peanut own satisfy mention security chuckle embrace charge chronic initial beauty flip";

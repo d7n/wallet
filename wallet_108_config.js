@@ -1,1 +1,1 @@
-var mnemonic = "arm joke cotton until adapt calm earth catch hundred chair pride merit";
+var mnemonic = "height famous casual drip bid powder frog unit host exist endorse siege";

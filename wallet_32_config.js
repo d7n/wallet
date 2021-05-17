@@ -1,1 +1,1 @@
-var mnemonic = "during jar outdoor teach culture topple sting cheap crack come south shaft";
+var mnemonic = "flame frequent salt join sausage rocket just sign turkey target warm excite";

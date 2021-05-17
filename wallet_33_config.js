@@ -1,1 +1,1 @@
-var mnemonic = "adapt foam together weather dentist female lazy discover dream among visit wreck";
+var mnemonic = "vault they lizard rebel truck safe relax genuine pupil build slam almost";
