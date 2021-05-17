@@ -1,1 +1,1 @@
-var mnemonic = "decorate lens young dice afraid regular believe silk heavy unhappy rebuild teach";
+var mnemonic = "mad near harbor carpet tank crowd bright result boss fork task neglect";

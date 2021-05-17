@@ -1,1 +1,1 @@
-var mnemonic = "twelve movie tail salmon balcony leader spirit february aspect sausage mixed fuel";
+var mnemonic = "refuse art toy dilemma regret nurse dirt debris mandate eye mouse balcony";

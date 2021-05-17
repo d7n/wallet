@@ -1,1 +1,1 @@
-var mnemonic = "enemy hover stadium nerve capable regret laundry day power baby enrich repeat";
+var mnemonic = "clog travel velvet edit relief solution sample blind witness hard glass exotic";

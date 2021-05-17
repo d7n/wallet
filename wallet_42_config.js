@@ -1,1 +1,1 @@
-var mnemonic = "august eternal arena become select snake portion abstract again emotion voice report";
+var mnemonic = "oblige put glass sell copy traffic million six vanish salute paddle lonely";

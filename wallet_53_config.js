@@ -1,1 +1,1 @@
-var mnemonic = "lemon message beyond pen dilemma illegal dawn jealous harvest head maze manual";
+var mnemonic = "wage portion pistol hollow muscle sick trumpet palm picnic air siren jaguar";

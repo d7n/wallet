@@ -1,1 +1,1 @@
-var mnemonic = "flame worry mixed blind hybrid good until into boss few broken galaxy";
+var mnemonic = "peasant busy tribe adjust wave must marble okay absorb boat curious suspect";

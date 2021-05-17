@@ -1,1 +1,1 @@
-var mnemonic = "blossom just doll victory anxiety never upgrade quick uniform vacant stone defy";
+var mnemonic = "when someone cover skirt obey great promote cook list power long type";

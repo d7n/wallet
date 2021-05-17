@@ -1,1 +1,1 @@
-var mnemonic = "medal normal alcohol industry flat bicycle diagram next novel relief lift bronze";
+var mnemonic = "trick exhaust item child warrior ability gun monster oppose alpha enhance liar";

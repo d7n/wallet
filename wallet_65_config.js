@@ -1,1 +1,1 @@
-var mnemonic = "endless apart wide near yard pair print obvious nerve liar insect supreme";
+var mnemonic = "chalk chest chronic wolf glimpse crouch symptom oil hobby iron eternal gaze";

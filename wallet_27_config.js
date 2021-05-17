@@ -1,1 +1,1 @@
-var mnemonic = "eternal path runway system twelve shrug jar gaze wing vote bitter one";
+var mnemonic = "champion bachelor surprise repair need radio couple cost level ripple bullet deal";

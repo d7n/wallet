@@ -1,1 +1,1 @@
-var mnemonic = "eight shove cover panda gain enact volcano mammal cool uncover sauce inner";
+var mnemonic = "impose just caution tiny spread more original fold drift near happy blossom";

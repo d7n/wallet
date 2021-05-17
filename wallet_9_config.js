@@ -1,1 +1,1 @@
-var mnemonic = "old chapter kiss maze soccer special correct slide wreck chicken agree airport";
+var mnemonic = "wheel power jewel grace multiply exchange almost train alarm catalog nature sweet";

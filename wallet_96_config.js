@@ -1,1 +1,1 @@
-var mnemonic = "job kangaroo error tennis ignore nose supreme protect security include juice level";
+var mnemonic = "soldier bread edge laugh liar coral later more mammal tackle success easy";

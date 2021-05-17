@@ -1,1 +1,1 @@
-var mnemonic = "exile level what area bean spawn slide spirit mechanic crouch burst planet";
+var mnemonic = "assume run mango uncle twin save diesel shrug tent brief hat unhappy";

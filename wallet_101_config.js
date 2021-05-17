@@ -1,1 +1,1 @@
-var mnemonic = "wagon very whip favorite mammal away material ethics once borrow glad bar";
+var mnemonic = "final verb flock reform flavor clever february remind dentist similar dumb enough";

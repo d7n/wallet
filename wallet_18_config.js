@@ -1,1 +1,1 @@
-var mnemonic = "pistol achieve smart nerve certain move edit target twist reduce enhance liberty";
+var mnemonic = "robot canal chief exist dog aerobic garage diamond fuel raven vibrant staff";

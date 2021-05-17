@@ -1,1 +1,1 @@
-var mnemonic = "multiply wonder dice sponsor scout sunset ranch olive lift skirt capable answer";
+var mnemonic = "flavor victory assume between spy action sustain inside achieve tiny minor window";

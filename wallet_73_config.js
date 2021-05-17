@@ -1,1 +1,1 @@
-var mnemonic = "picture language edge notice match thought mad agree autumn trumpet focus neck";
+var mnemonic = "base simple equal lift rigid bag common label grocery satisfy zone envelope";

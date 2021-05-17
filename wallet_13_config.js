@@ -1,1 +1,1 @@
-var mnemonic = "page kitchen adult olympic such mercy strike crumble pear useful swarm uphold";
+var mnemonic = "art window mouse trade thumb main police mimic primary loyal ability expect";

@@ -1,1 +1,1 @@
-var mnemonic = "decade blind music quantum proof transfer amount lock grape fine hedgehog book";
+var mnemonic = "churn wire valve endorse spy fresh history slight dawn leaf decline duck";

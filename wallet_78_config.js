@@ -1,1 +1,1 @@
-var mnemonic = "parrot embark game clever turkey coconut best property tunnel then winter field";
+var mnemonic = "spend spatial host group radar artefact neither heart exercise urban entry bridge";

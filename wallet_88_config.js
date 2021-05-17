@@ -1,1 +1,1 @@
-var mnemonic = "guitar ozone near ceiling sudden shoe solid weapon invite exact bar focus";
+var mnemonic = "pistol spot plate dove initial frozen old quit pear palm hire second";

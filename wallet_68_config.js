@@ -1,1 +1,1 @@
-var mnemonic = "garment smooth nature mystery salute series famous journey illness valley then upper";
+var mnemonic = "reunion nurse police affair brush speak option ignore grow consider kind census";

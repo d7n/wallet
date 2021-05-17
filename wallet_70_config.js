@@ -1,1 +1,1 @@
-var mnemonic = "father moment ramp soul earth appear swear rain blame absorb spread example";
+var mnemonic = "entry heavy walk boring small question believe plate ahead loan area blouse";

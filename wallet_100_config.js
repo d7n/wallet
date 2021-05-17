@@ -1,1 +1,1 @@
-var mnemonic = "cattle drift bundle edit high miracle video toilet remain exit normal parade";
+var mnemonic = "van drastic donkey onion feel fun planet cigar promote barely tank seminar";

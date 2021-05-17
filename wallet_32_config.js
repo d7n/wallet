@@ -1,1 +1,1 @@
-var mnemonic = "border maid icon face please frog involve client cloth option consider torch";
+var mnemonic = "phone enhance correct razor correct gentle occur hungry whisper unknown insane radar";

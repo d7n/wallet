@@ -1,1 +1,1 @@
-var mnemonic = "focus adapt balance airport catalog autumn arch chronic ensure service canal tiger";
+var mnemonic = "pitch harbor idea secret another seed tree wheat identify nerve length flock";

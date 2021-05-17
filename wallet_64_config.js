@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dad breeze animal reunion document powder milk shock vapor air leave";
+var mnemonic = "walk office cabbage happy tunnel proud recall bounce stick laugh walk eyebrow";

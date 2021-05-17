@@ -1,1 +1,1 @@
-var mnemonic = "secret occur candy scheme disagree album chef axis hard flame sausage music";
+var mnemonic = "cake latin spend south clown draft traffic eternal above electric media purchase";

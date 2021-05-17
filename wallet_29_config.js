@@ -1,1 +1,1 @@
-var mnemonic = "rather flower finish tip venue need adult fun train portion soda legal";
+var mnemonic = "unique gaze swim cause find shine desert target liberty artist thumb enable";

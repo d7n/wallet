@@ -1,1 +1,1 @@
-var mnemonic = "amazing wear detect organ bleak network pigeon much equal media chronic shift";
+var mnemonic = "alone canvas burger link animal feel feed powder diet marine upset air";

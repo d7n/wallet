@@ -1,1 +1,1 @@
-var mnemonic = "place barrel hockey what mixed slide breeze this smoke medal mansion sock";
+var mnemonic = "lyrics win water canoe ordinary engine rate original relief stock pond best";

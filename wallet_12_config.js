@@ -1,1 +1,1 @@
-var mnemonic = "magic chair squeeze oblige shock ripple pledge clump reopen advance wood park";
+var mnemonic = "what party absorb under spoil brief crumble anchor throw consider fitness food";

@@ -1,1 +1,1 @@
-var mnemonic = "produce gossip input solar walnut muffin number cat robot pitch observe palm";
+var mnemonic = "twist kit baby decide fish exact behave arena horn head benefit weasel";

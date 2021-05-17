@@ -1,1 +1,1 @@
-var mnemonic = "frost theme body trash bind robust hurdle peanut love stairs excite dash";
+var mnemonic = "catch response range critic ask artist color north error donor fringe quick";

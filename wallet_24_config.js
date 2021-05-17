@@ -1,1 +1,1 @@
-var mnemonic = "uniform ride stairs rebuild elevator excess trial elder later pass narrow hospital";
+var mnemonic = "save virtual ball chase upper crew art usage lizard barrel foot fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "degree airport reform rug record you bike car riot stove confirm biology";
+var mnemonic = "museum action vote young opera minimum ready fragile security kingdom oppose spare";

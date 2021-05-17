@@ -1,1 +1,1 @@
-var mnemonic = "spider gather wish aspect act dilemma public neck excite behave soldier expand";
+var mnemonic = "frog south cook arrow visit castle shield talk deal wheel basket web";

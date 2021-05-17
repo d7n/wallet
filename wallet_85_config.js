@@ -1,1 +1,1 @@
-var mnemonic = "region rural what swear protect series pact tomato device uncover divert alcohol";
+var mnemonic = "dove wood cement tragic render this satisfy casino ask shove vacuum quiz";

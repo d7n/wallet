@@ -1,1 +1,1 @@
-var mnemonic = "weather will fantasy surround ugly bonus release recycle drink slogan inherit artefact";
+var mnemonic = "topic pact shrug icon omit civil claw worry crew bubble miss student";

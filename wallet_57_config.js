@@ -1,1 +1,1 @@
-var mnemonic = "ready stereo clay lizard life width ten lecture divert network room olympic";
+var mnemonic = "wide edge pond forest leg erupt absurd husband write grace radar sketch";

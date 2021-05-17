@@ -1,1 +1,1 @@
-var mnemonic = "cherry excess stomach first leader able gorilla table horn goat fitness lady";
+var mnemonic = "lens panda liar festival bring trigger obey cluster snake unhappy bounce joy";

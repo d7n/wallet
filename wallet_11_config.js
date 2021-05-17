@@ -1,1 +1,1 @@
-var mnemonic = "famous grunt repeat puppy kit protect august engine enroll produce fall green";
+var mnemonic = "peasant mass grain hedgehog conduct boy submit very wheel camp lawsuit prosper";

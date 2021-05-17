@@ -1,1 +1,1 @@
-var mnemonic = "entry lyrics there width quantum denial jump question kangaroo stay chair apple";
+var mnemonic = "craft purpose fall rich ensure episode craft exist soldier sing together fall";

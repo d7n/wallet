@@ -1,1 +1,1 @@
-var mnemonic = "occur team history disorder put ranch knock fade half tape detect alley";
+var mnemonic = "garden giant clock torch park enjoy hold exhaust carry ribbon crop ride";

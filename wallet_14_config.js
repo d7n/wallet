@@ -1,1 +1,1 @@
-var mnemonic = "race learn reject version message donor solar goose flush miracle immune brother";
+var mnemonic = "history meadow walnut resource force mosquito impose member monitor satisfy love drill";

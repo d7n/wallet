@@ -1,1 +1,1 @@
-var mnemonic = "treat cabin inspire castle uphold eager buyer shrimp history tobacco welcome circle";
+var mnemonic = "fatigue idea bubble unaware rocket decline insane witness margin typical attract captain";

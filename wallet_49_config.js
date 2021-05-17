@@ -1,1 +1,1 @@
-var mnemonic = "expect destroy joke debris seek fuel welcome edge real ring polar pluck";
+var mnemonic = "glare aware spike tattoo theme emotion amateur awesome hole square wire cannon";

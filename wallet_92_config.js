@@ -1,1 +1,1 @@
-var mnemonic = "month bring raise say parent six lion nut also accident print donkey";
+var mnemonic = "junk dinner kid enhance luxury sketch sing fan orphan snow vacant wedding";

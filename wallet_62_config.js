@@ -1,1 +1,1 @@
-var mnemonic = "gesture now system cook bind recall problem hub census oppose picture pitch";
+var mnemonic = "index retire able curve dice toe bomb output trigger into soldier broom";

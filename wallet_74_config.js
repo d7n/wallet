@@ -1,1 +1,1 @@
-var mnemonic = "child butter estate seat crater frozen drill express clay chase rigid naive";
+var mnemonic = "enough drop destroy cloud frog record wood solid circle mobile weasel march";

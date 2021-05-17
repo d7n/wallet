@@ -1,1 +1,1 @@
-var mnemonic = "aspect perfect despair veteran boss suggest crew guard attack wide unknown swim";
+var mnemonic = "employ shine wave galaxy wrap side vital enough stock laundry genuine icon";

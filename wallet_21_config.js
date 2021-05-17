@@ -1,1 +1,1 @@
-var mnemonic = "palm option install radar talent target trust silly cover fly rough card";
+var mnemonic = "pigeon tooth yard boat spare home today siren frozen tool pave judge";

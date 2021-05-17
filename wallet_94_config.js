@@ -1,1 +1,1 @@
-var mnemonic = "test move assume chunk tower tank list casino almost switch bunker tackle";
+var mnemonic = "pole identify blue nephew meadow canoe grab business mixed limb fall tool";

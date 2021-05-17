@@ -1,1 +1,1 @@
-var mnemonic = "trend crop slogan love tiny begin raise civil owner day cute step";
+var mnemonic = "cactus film act fabric peace harvest outer trigger close hope noise wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance noble liberty give recall left interest aisle battle rack vital train";
+var mnemonic = "memory novel surprise dial steel lottery mystery expect menu diagram tape dizzy";

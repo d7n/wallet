@@ -1,1 +1,1 @@
-var mnemonic = "odor solution cram gossip write demise multiply mistake guitar pelican spirit coyote";
+var mnemonic = "safe index crawl blast master tornado board vault unusual ozone jeans notable";

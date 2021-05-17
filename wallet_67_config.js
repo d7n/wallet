@@ -1,1 +1,1 @@
-var mnemonic = "unhappy column online supreme actual trip push issue unusual give sphere legal";
+var mnemonic = "carry foil siren kind buzz wrong keep essence rice place story nephew";

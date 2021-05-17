@@ -1,1 +1,1 @@
-var mnemonic = "wait allow relax pilot group change pause siren hamster dream insane scare";
+var mnemonic = "dutch second patrol opinion legend sample oblige cool measure credit ill sense";

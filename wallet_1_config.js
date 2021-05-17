@@ -1,1 +1,1 @@
-var mnemonic = "promote viable unfold cushion extend mouse debate disorder nose glow almost remove";
+var mnemonic = "silly jump quarter child visual miss entire slice display asset happy velvet";

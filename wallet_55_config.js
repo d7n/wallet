@@ -1,1 +1,1 @@
-var mnemonic = "horn abuse hurt tooth garment jungle deposit pioneer cactus lawn aerobic swamp";
+var mnemonic = "affair shed creek enter scan affair fitness abuse vivid crack foam sand";

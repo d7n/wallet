@@ -1,1 +1,1 @@
-var mnemonic = "goat dignity train example praise diesel measure denial voyage rich catalog thought";
+var mnemonic = "outside state grocery section piano know success average train staff behind curve";

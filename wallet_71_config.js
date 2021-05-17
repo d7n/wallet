@@ -1,1 +1,1 @@
-var mnemonic = "judge laugh ostrich during good drink action book arm joke cushion dune";
+var mnemonic = "slight cage also peace gesture young print ceiling trash arctic person bacon";

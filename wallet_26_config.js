@@ -1,1 +1,1 @@
-var mnemonic = "lemon wage start bottom hat process occur bachelor room beef flat drum";
+var mnemonic = "peace rich enemy mixed curious drum avocado cradle much glance spice tuna";

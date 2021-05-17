@@ -1,1 +1,1 @@
-var mnemonic = "sauce treat night destroy cram hazard unique need furnace discover sail fun";
+var mnemonic = "album vast pilot pony limit park runway win weird coral slide shield";

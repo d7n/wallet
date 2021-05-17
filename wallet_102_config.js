@@ -1,1 +1,1 @@
-var mnemonic = "improve fit unhappy stay poem spell ability erupt salute trouble rail equal";
+var mnemonic = "price mimic spirit snack tired matter script segment camp view airport lounge";

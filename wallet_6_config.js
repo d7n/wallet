@@ -1,1 +1,1 @@
-var mnemonic = "poverty must salute else furnace sure sea bean enable family top minute";
+var mnemonic = "skull whisper idle arm adapt faculty project profit impose bunker make mushroom";

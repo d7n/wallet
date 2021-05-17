@@ -1,1 +1,1 @@
-var mnemonic = "cricket among phrase sick risk long like identify paddle common sun own";
+var mnemonic = "idle expand display chuckle buffalo rare monitor file blur usage media apple";

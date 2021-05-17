@@ -1,1 +1,1 @@
-var mnemonic = "sustain impose prepare cake vintage fetch again fiction control large away sponsor";
+var mnemonic = "deposit brief point caught turtle coffee cabbage worth tired welcome rate like";

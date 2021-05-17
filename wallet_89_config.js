@@ -1,1 +1,1 @@
-var mnemonic = "park express keep work soft access fine flight defense other rookie winter";
+var mnemonic = "rail mansion odor name voice cool body rose gesture income juice wall";

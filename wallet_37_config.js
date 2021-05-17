@@ -1,1 +1,1 @@
-var mnemonic = "joke minimum cheese person energy ignore ridge good tiger violin quiz craft";
+var mnemonic = "thrive endless resemble decade bag castle label torch useless coach nerve season";

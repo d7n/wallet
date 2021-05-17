@@ -1,1 +1,1 @@
-var mnemonic = "market tape process exact satoshi lamp usage grunt bag brand sustain bachelor";
+var mnemonic = "comic symbol yellow report attitude few wrestle order odor marble joke second";

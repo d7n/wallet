@@ -1,1 +1,1 @@
-var mnemonic = "yard unfold skin wash knock face nose desert student baby moment ribbon";
+var mnemonic = "foster mother fee broken glad step security profit next minute tiger opera";

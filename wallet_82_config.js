@@ -1,1 +1,1 @@
-var mnemonic = "carbon arrest aunt release elite sponsor joke pole resource sadness aware miracle";
+var mnemonic = "solar dignity innocent group civil type solve modify tomorrow pass later behave";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel gym cabbage thunder beauty love obvious hundred identify siege weekend second";
+var mnemonic = "toast crystal talk summer document country response pluck gun shield twelve sausage";

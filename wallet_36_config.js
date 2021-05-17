@@ -1,1 +1,1 @@
-var mnemonic = "kitchen friend mass achieve way tape have faculty top rubber whip cycle";
+var mnemonic = "vibrant drift picnic chicken laundry indoor nurse celery glory explain version draw";

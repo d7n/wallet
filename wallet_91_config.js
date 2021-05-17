@@ -1,1 +1,1 @@
-var mnemonic = "detail talk ethics custom seed tortoise bargain hour antique virus cage venue";
+var mnemonic = "mountain whip expire beyond pupil analyst plate feel venue window cart apology";

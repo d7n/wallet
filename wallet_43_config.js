@@ -1,1 +1,1 @@
-var mnemonic = "salon video voyage outside acoustic cricket end clown fresh hunt clarify item";
+var mnemonic = "loud alien mad wide urge crisp attend giraffe horror manage away notable";

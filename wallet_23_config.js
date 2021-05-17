@@ -1,1 +1,1 @@
-var mnemonic = "fog when shift limb churn more soon phone salon tag lemon grace";
+var mnemonic = "regular depth purchase gospel off claim ticket ostrich category insane push gas";

@@ -1,1 +1,1 @@
-var mnemonic = "coral raven drive gadget dream still toddler enhance unknown tired amazing congress";
+var mnemonic = "human unveil label dawn zone camera census fantasy obvious fever blind say";

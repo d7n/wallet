@@ -1,1 +1,1 @@
-var mnemonic = "primary apart orbit muffin happy inspire plastic business burger brand cattle record";
+var mnemonic = "myself pilot unusual tunnel dash myself tail leave swap code mercy height";

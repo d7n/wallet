@@ -1,1 +1,1 @@
-var mnemonic = "slight ozone retreat polar badge cement cereal clap thunder wrist miss laundry";
+var mnemonic = "manage better section slice okay oak tomato siege element police grit tag";

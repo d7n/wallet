@@ -1,1 +1,1 @@
-var mnemonic = "delay screen half omit green scrap husband waste keen awful dream time";
+var mnemonic = "unfold taste kangaroo bid mango stadium list clog useful play funny praise";

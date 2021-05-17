@@ -1,1 +1,1 @@
-var mnemonic = "verb ginger vanish pottery quick genre math must venue desert awkward excess";
+var mnemonic = "open bubble pass quick critic purpose message broken merit fix payment oxygen";

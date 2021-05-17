@@ -1,1 +1,1 @@
-var mnemonic = "oak foster agent daughter genre aisle year lock solution twice wagon bulk";
+var mnemonic = "voyage maximum version come frozen pig sample trap history task skull write";

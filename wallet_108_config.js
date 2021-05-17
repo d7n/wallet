@@ -1,1 +1,1 @@
-var mnemonic = "hard suit track deputy stand custom wasp garden valve survey avoid illegal";
+var mnemonic = "exercise island west maple sugar head crack furnace modify age memory glue";

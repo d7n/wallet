@@ -1,1 +1,1 @@
-var mnemonic = "love inhale blue battle teach cash soup echo phrase tent cactus crash";
+var mnemonic = "much erase cattle coconut pattern subject guilt wrap figure warrior rigid humble";

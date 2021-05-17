@@ -1,1 +1,1 @@
-var mnemonic = "disease water transfer coin expire baby multiply play picnic blossom wrist result";
+var mnemonic = "excuse picnic address canoe destroy west produce rude congress over pool attract";

@@ -1,1 +1,1 @@
-var mnemonic = "spike response cargo spoon social genre detail park tape give mule host";
+var mnemonic = "cloud essence ordinary volcano hotel lecture lady welcome banner message vessel fringe";

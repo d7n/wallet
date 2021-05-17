@@ -1,1 +1,1 @@
-var mnemonic = "cannon issue wing dish chest lottery day ocean walnut success wise cruel";
+var mnemonic = "top credit account portion spell monkey only nose rice depend awesome second";

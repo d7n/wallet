@@ -1,1 +1,1 @@
-var mnemonic = "design ecology winter mass cigar inside oyster soup retreat intact split grunt";
+var mnemonic = "find theory aim jealous frost castle melody grunt dynamic pass enact burger";
