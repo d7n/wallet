@@ -1,1 +1,1 @@
-var mnemonic = "rude journey modify zone vibrant frozen tip maze draft peanut sword match";
+var mnemonic = "tail tissue drastic size afraid absent position explain clip female silly feel";

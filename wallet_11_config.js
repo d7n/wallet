@@ -1,1 +1,1 @@
-var mnemonic = "gym nice try protect place quantum enjoy worry add hospital cruise violin";
+var mnemonic = "hint negative attack friend bunker lobster symptom myself zone fortune civil soul";

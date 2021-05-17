@@ -1,1 +1,1 @@
-var mnemonic = "snow sense assist casino child envelope barely urge assist gentle brand donor";
+var mnemonic = "ketchup suspect winter gate spike ship width arrow estate rescue video lucky";

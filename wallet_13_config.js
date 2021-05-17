@@ -1,1 +1,1 @@
-var mnemonic = "buddy sadness smooth man arrive chief history chaos flavor buffalo use minute";
+var mnemonic = "hold safe sting cube ugly grace urban original thank aunt wrestle addict";

@@ -1,1 +1,1 @@
-var mnemonic = "royal spoon december wear surge also tooth toward patch clog where raw";
+var mnemonic = "setup close junior much nut crowd text pottery pass stone gaze when";

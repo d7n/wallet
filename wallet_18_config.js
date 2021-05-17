@@ -1,1 +1,1 @@
-var mnemonic = "tribe grow torch wise version casino spot income label oblige mobile furnace";
+var mnemonic = "casino confirm face movie vendor will sing man differ return mixed debris";

@@ -1,1 +1,1 @@
-var mnemonic = "foot shoe secret pyramid tumble sign lawsuit follow vacuum oxygen junior mad";
+var mnemonic = "flight hero twenty random sphere genius image jacket select owner garden trophy";

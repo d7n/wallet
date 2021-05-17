@@ -1,1 +1,1 @@
-var mnemonic = "police swamp unknown wheat adult frozen power trash cactus patient special glimpse";
+var mnemonic = "either couple stairs merge slight faith arrive injury term guitar winter brass";

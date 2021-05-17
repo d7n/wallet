@@ -1,1 +1,1 @@
-var mnemonic = "patient nerve afraid ready ordinary aware solution promote bonus mix inject input";
+var mnemonic = "chalk cactus century poet black recycle sand absent wild domain peace under";

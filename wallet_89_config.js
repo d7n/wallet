@@ -1,1 +1,1 @@
-var mnemonic = "arrest invite raven robust million chunk keep frog flock input maze bulb";
+var mnemonic = "laptop month skill flat guard bring thunder path talent draw bullet embrace";

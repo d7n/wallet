@@ -1,1 +1,1 @@
-var mnemonic = "vintage text village fury figure food observe claw seminar burden scene write";
+var mnemonic = "erupt unhappy fit abuse setup soda toe odor summer youth north maid";

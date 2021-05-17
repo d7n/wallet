@@ -1,1 +1,1 @@
-var mnemonic = "sphere energy poverty divide real please jaguar phrase crouch proud arena ridge";
+var mnemonic = "amazing puzzle absorb kind treat dwarf close buzz smart local matter garment";

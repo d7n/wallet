@@ -1,1 +1,1 @@
-var mnemonic = "pencil pause marine olympic delay obscure interest shoot tumble barrel weapon style";
+var mnemonic = "library measure slice carbon police guide sentence strike trap resemble shiver merge";

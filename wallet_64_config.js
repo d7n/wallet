@@ -1,1 +1,1 @@
-var mnemonic = "outer ghost ripple depth long obey rifle better mix trap canvas skirt";
+var mnemonic = "two flat theme culture reason acid swear bomb ribbon ripple frequent shell";

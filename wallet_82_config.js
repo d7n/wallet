@@ -1,1 +1,1 @@
-var mnemonic = "profit hammer favorite skull avoid volcano olive snap size trick rib barrel";
+var mnemonic = "seed swim chef various affair panda sniff village fit profit toddler muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "boat farm term dentist simple play funny tomorrow hidden ordinary poem flat";
+var mnemonic = "monkey narrow razor cereal eager announce amused soldier current uncover fatigue glass";

@@ -1,1 +1,1 @@
-var mnemonic = "twice pilot wire eternal chicken nerve captain club beach beyond bless royal";
+var mnemonic = "execute salad load essence trash comfort shrug help glory share juice science";

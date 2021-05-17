@@ -1,1 +1,1 @@
-var mnemonic = "question moral rigid observe ask south blossom ranch crime cousin master check";
+var mnemonic = "paddle pool erosion either design maze orchard master carpet breeze sheriff kid";

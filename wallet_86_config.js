@@ -1,1 +1,1 @@
-var mnemonic = "always olive switch casino like direct attack civil obey chicken damage cloud";
+var mnemonic = "join else obscure news regular jeans alley donate wine cargo income engine";

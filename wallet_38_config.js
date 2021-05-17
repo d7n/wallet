@@ -1,1 +1,1 @@
-var mnemonic = "master total ring cloud split aerobic hundred force federal wall fluid win";
+var mnemonic = "elite steak fox leave exact upon lecture patient give define spray image";

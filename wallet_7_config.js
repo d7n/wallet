@@ -1,1 +1,1 @@
-var mnemonic = "shift caught pioneer welcome answer scare disease mandate patch fiscal youth banner";
+var mnemonic = "shuffle boy venture agent vocal just spin nurse shed walnut salad hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "return lemon enforce blur embark diagram wage destroy wheel wall home antique";
+var mnemonic = "school nothing wait abandon clown clerk finish tackle unique effort crack guard";

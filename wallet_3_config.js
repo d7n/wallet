@@ -1,1 +1,1 @@
-var mnemonic = "twist session solar vicious height nothing load future leisure giggle acoustic swing";
+var mnemonic = "hen vault excess coach inherit escape reason inform open jewel panic walk";

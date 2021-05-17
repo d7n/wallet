@@ -1,1 +1,1 @@
-var mnemonic = "deliver night fun ignore inquiry angry include certain flip sign throw claim";
+var mnemonic = "fence inmate ride expose tackle grape echo village drive public burst little";

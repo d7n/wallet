@@ -1,1 +1,1 @@
-var mnemonic = "mechanic spawn pizza robust rely kite critic soft adapt lunch junk rice";
+var mnemonic = "wrestle normal dismiss episode dream rib merit crawl later magic dragon vendor";

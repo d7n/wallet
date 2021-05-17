@@ -1,1 +1,1 @@
-var mnemonic = "frame loud shine denial tone response multiply because robot balcony whale rally";
+var mnemonic = "soul bomb lunar outdoor caution swarm daring truth alley stumble garden know";

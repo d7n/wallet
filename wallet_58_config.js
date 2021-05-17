@@ -1,1 +1,1 @@
-var mnemonic = "squirrel jump aware staff stone fall oxygen shove alley gaze suffer deposit";
+var mnemonic = "exit ribbon cage brick furnace math fiscal child twice scout beyond dizzy";

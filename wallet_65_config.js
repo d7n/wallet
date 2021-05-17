@@ -1,1 +1,1 @@
-var mnemonic = "conduct permit cancel alien school box vehicle thought fun describe doll acquire";
+var mnemonic = "napkin buddy cost grab perfect brown cancel fence dirt vapor owner acid";

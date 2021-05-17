@@ -1,1 +1,1 @@
-var mnemonic = "crumble tunnel reward silly plunge stone proof enrich observe they surround negative";
+var mnemonic = "cement cinnamon wash then industry argue deal vapor execute pony seminar cabin";

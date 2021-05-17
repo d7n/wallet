@@ -1,1 +1,1 @@
-var mnemonic = "gym satoshi fiction diesel opinion wrist leaf situate honey brief glory cabbage";
+var mnemonic = "common what around radar describe puzzle coast paddle silver critic key tunnel";

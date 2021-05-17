@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cement pretty bind judge banner faint glare pilot movie upgrade weapon";
+var mnemonic = "tiny order invest color walk demise theme rose lobster tiny rural tenant";

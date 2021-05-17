@@ -1,1 +1,1 @@
-var mnemonic = "hour fortune segment sudden unfold catch penalty animal inquiry estate identify gym";
+var mnemonic = "update exclude nest heart caught universe resist column universe pretty repair check";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise cycle drift dune hood phrase toss cliff deliver library cream cloud";
+var mnemonic = "treat holiday vocal slogan list acoustic blood tornado skull fruit want deny";

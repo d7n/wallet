@@ -1,1 +1,1 @@
-var mnemonic = "picture icon bulk bless arrow face crime harvest motion finger captain mixture";
+var mnemonic = "yard join tank win ridge innocent meat rate woman grocery cereal cement";

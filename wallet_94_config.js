@@ -1,1 +1,1 @@
-var mnemonic = "magnet spirit random fitness magnet crystal device album light across solid enough";
+var mnemonic = "wise fantasy test fatal frost tank radio frost safe song monkey blouse";

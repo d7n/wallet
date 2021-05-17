@@ -1,1 +1,1 @@
-var mnemonic = "scrub thunder seed try error wave aisle whisper figure series either setup";
+var mnemonic = "unaware elite west boy erosion street frame torch crunch tourist sponsor release";

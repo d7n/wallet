@@ -1,1 +1,1 @@
-var mnemonic = "wet liberty time march program prepare credit ignore book strike outside soap";
+var mnemonic = "super bread nominee sense mountain polar guilt utility isolate hobby salon sound";

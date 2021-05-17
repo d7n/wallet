@@ -1,1 +1,1 @@
-var mnemonic = "blind dawn bulk ribbon picture soccer replace unfold fuel piano cat vivid";
+var mnemonic = "entry engage dune draft easily waste casino corn purchase stereo dawn industry";

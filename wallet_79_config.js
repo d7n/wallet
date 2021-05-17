@@ -1,1 +1,1 @@
-var mnemonic = "vacuum february best balance dial ranch leopard you riot hobby art face";
+var mnemonic = "candy jeans table stumble critic jungle clean figure buzz fee toss column";

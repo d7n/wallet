@@ -1,1 +1,1 @@
-var mnemonic = "sword enough add blast drive tunnel pledge scale cute culture evoke library";
+var mnemonic = "unit student swap cream protect eye fault bless crack fox gravity various";

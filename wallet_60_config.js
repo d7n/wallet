@@ -1,1 +1,1 @@
-var mnemonic = "example front rule wage actress noble candy invite spot top wife select";
+var mnemonic = "donor deny clump avoid welcome okay enlist fluid rally secret ball small";

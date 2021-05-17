@@ -1,1 +1,1 @@
-var mnemonic = "raven spatial detail response scout dolphin ancient cable tool salon sponsor employ";
+var mnemonic = "collect ribbon exact come security rabbit can brave faculty drive inch fun";

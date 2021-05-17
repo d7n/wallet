@@ -1,1 +1,1 @@
-var mnemonic = "visual trumpet found crumble orchard organ castle blood tortoise layer disagree amount";
+var mnemonic = "logic wink web hour found state panic shock behind require hazard anchor";

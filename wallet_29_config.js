@@ -1,1 +1,1 @@
-var mnemonic = "timber decline void gain garbage trap dish smooth girl fitness open saddle";
+var mnemonic = "order organ pretty choose adapt confirm estate deer limit circle symptom joy";

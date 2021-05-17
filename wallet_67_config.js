@@ -1,1 +1,1 @@
-var mnemonic = "boil trigger penalty city beef fatal book pupil notable asset hotel portion";
+var mnemonic = "snap ridge exclude amateur tag dad traffic scorpion dance return know tortoise";

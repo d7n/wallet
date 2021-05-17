@@ -1,1 +1,1 @@
-var mnemonic = "panther moon carry gain million lecture frown jeans quick lucky solar grace";
+var mnemonic = "screen biology bitter cable company key climb embrace pluck emotion bunker miss";

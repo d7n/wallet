@@ -1,1 +1,1 @@
-var mnemonic = "recycle water reform call october assume breeze slight intact lesson heart horse";
+var mnemonic = "render grid honey swift story fiber obtain audit wrap this pyramid sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "film style share shadow diesel wisdom sort mystery decide exile record major";
+var mnemonic = "dynamic frozen repair crush feel pulp toy poem cheese other cotton into";

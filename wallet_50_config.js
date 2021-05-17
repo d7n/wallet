@@ -1,1 +1,1 @@
-var mnemonic = "airport edge people chimney school fury card cupboard heavy keep have ball";
+var mnemonic = "absurd expand cricket either tonight indoor gym home early thunder exile unlock";

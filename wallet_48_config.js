@@ -1,1 +1,1 @@
-var mnemonic = "undo catalog paddle blossom excess pass knock vacuum start science session mouse";
+var mnemonic = "shield casual spy stage bread flash reveal direct code about isolate crazy";

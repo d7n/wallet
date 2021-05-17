@@ -1,1 +1,1 @@
-var mnemonic = "diesel frown kiss such virtual room float require coil expect gravity senior";
+var mnemonic = "alcohol possible zero prize satoshi empty amazing gaze world toss wage organ";

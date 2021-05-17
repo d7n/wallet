@@ -1,1 +1,1 @@
-var mnemonic = "dismiss option dial share hurry leaf ramp boat install equip never mouse";
+var mnemonic = "mouse expand combine drift gentle misery rebuild option version bitter attend pottery";

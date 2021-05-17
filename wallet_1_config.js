@@ -1,1 +1,1 @@
-var mnemonic = "robot turtle always seven coral verb defy initial chair parent humble media";
+var mnemonic = "cereal tell opera dinner dad ghost kick fragile still nose fatal silver";

@@ -1,1 +1,1 @@
-var mnemonic = "siren sorry curtain present grant blouse path gentle mass advance topple table";
+var mnemonic = "trade method lab essence person okay february unknown prefer stool consider abandon";

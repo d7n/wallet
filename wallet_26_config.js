@@ -1,1 +1,1 @@
-var mnemonic = "cupboard there wasp burger twin apart vocal speak off laptop case hurry";
+var mnemonic = "wool turn lunch giggle ethics zero scale rice genuine beauty inherit permit";

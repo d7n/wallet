@@ -1,1 +1,1 @@
-var mnemonic = "proud pepper vivid unhappy expire cereal unusual eagle sadness glimpse hello cattle";
+var mnemonic = "vocal dash toward sauce define slim grass goose giraffe tunnel north small";

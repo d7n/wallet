@@ -1,1 +1,1 @@
-var mnemonic = "liberty slender style pen group awkward door raise copy giggle guilt tenant";
+var mnemonic = "decade priority vendor sign media student vital bone script lab balcony assist";

@@ -1,1 +1,1 @@
-var mnemonic = "blame broken engage wall balcony green run dentist project body unfold memory";
+var mnemonic = "such denial ahead asset flock shop away pepper become boil song scrub";

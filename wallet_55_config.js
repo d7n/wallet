@@ -1,1 +1,1 @@
-var mnemonic = "urge lawsuit regret thumb invest jacket meadow cause real drift multiply puzzle";
+var mnemonic = "globe update town business brief angle fun must vanish almost table rug";

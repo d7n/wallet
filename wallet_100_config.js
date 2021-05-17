@@ -1,1 +1,1 @@
-var mnemonic = "aerobic insect congress conduct family major virus secret color diesel atom educate";
+var mnemonic = "educate void make steak need shy calm knee medal heavy size glimpse";

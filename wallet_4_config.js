@@ -1,1 +1,1 @@
-var mnemonic = "broccoli float tiny quick elder crack alone stool pause clerk gorilla screen";
+var mnemonic = "envelope gas casual ivory note jeans federal popular annual enlist neither calm";

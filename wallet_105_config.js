@@ -1,1 +1,1 @@
-var mnemonic = "transfer pave alone brisk anger silent lunch travel point denial ordinary tortoise";
+var mnemonic = "same amount sudden winter market abstract chat shop sort view course injury";

@@ -1,1 +1,1 @@
-var mnemonic = "style scan column robust corn arctic glad live pride fall eager today";
+var mnemonic = "nature jungle merry joke nation slam hockey join climb alarm return claim";

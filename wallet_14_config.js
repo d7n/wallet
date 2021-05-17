@@ -1,1 +1,1 @@
-var mnemonic = "ugly volume prosper one bind special ketchup project stadium museum jacket okay";
+var mnemonic = "faith legal inside salon photo wagon steak vanish give truth debate index";

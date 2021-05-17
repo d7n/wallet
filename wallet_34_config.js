@@ -1,1 +1,1 @@
-var mnemonic = "saddle crew dumb book border odor feature spoil mesh explain airport tortoise";
+var mnemonic = "lamp action advice dish easily universe note connect ugly carbon connect daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "night boat horse puzzle refuse toe pen kick girl settle must chunk";
+var mnemonic = "guess course rebuild argue faith lawn coconut open addict race engine mass";

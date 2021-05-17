@@ -1,1 +1,1 @@
-var mnemonic = "ostrich inquiry rice neutral razor rescue hazard define resist kite outside snap";
+var mnemonic = "clever aspect stand wonder crash swap kiss achieve vapor point girl circle";

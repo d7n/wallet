@@ -1,1 +1,1 @@
-var mnemonic = "thought any forest fiscal direct inject volcano slush charge fan meadow onion";
+var mnemonic = "view cake library rain connect cause project crumble royal genre rough leave";

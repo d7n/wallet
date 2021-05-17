@@ -1,1 +1,1 @@
-var mnemonic = "hungry sister pumpkin tiger catch sketch steak three chair gallery client brush";
+var mnemonic = "page second thrive volcano casino baby drill park throw audit horror fringe";

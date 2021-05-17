@@ -1,1 +1,1 @@
-var mnemonic = "income wear toddler element liar web toward list grant crash bike tone";
+var mnemonic = "that rather filter goose gasp sunny pond public bronze company woman sentence";

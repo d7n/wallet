@@ -1,1 +1,1 @@
-var mnemonic = "produce crash skin achieve drink bleak rate certain thunder amateur benefit muffin";
+var mnemonic = "spin keen benefit corn suit toward hip normal wing display easily select";

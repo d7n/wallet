@@ -1,1 +1,1 @@
-var mnemonic = "obscure elbow athlete hour tray heart struggle leisure garlic expand script pact";
+var mnemonic = "mango rabbit acoustic sand biology wrap escape bachelor glory price plastic file";

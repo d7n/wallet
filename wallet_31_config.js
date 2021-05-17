@@ -1,1 +1,1 @@
-var mnemonic = "fatigue clump huge garment enough front advice wage feed segment stuff nephew";
+var mnemonic = "album harsh orbit entry tunnel helmet license body cable camp over trial";

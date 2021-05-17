@@ -1,1 +1,1 @@
-var mnemonic = "amazing replace average embody maze rebuild critic planet price margin grant jewel";
+var mnemonic = "february palm draft collect check early goose sight worry inherit forget hurt";

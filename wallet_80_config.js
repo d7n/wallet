@@ -1,1 +1,1 @@
-var mnemonic = "way describe put grid reveal select intact sketch ancient toy library chapter";
+var mnemonic = "vapor derive pattern viable desk hip enroll language desert wear mango radio";

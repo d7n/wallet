@@ -1,1 +1,1 @@
-var mnemonic = "crazy print punch dry dinosaur injury measure embark panic direct mobile resemble";
+var mnemonic = "inch pave play screen purity auction hope raven bleak wheel candy keep";

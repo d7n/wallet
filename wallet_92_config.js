@@ -1,1 +1,1 @@
-var mnemonic = "figure airport mystery embark flock box tone dash struggle badge twin turtle";
+var mnemonic = "reason size answer idle oblige admit lawsuit family blanket purchase swarm shaft";

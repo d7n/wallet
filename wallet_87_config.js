@@ -1,1 +1,1 @@
-var mnemonic = "clap violin perfect carpet seat brother cancel stool mutual spawn middle chair";
+var mnemonic = "dignity ring write grape novel together vault city length federal where ecology";

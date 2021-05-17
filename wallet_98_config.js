@@ -1,1 +1,1 @@
-var mnemonic = "lake loyal broccoli indoor sniff royal fringe boat coconut screen circle balance";
+var mnemonic = "gas notice rib animal broken excess narrow neither hockey old kiwi misery";

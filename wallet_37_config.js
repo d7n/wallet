@@ -1,1 +1,1 @@
-var mnemonic = "vast require loop nose slide runway man problem chapter wrestle unique category";
+var mnemonic = "spice unhappy ready alcohol slice shadow cream mimic hip edge foster robust";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling gesture rocket reward patient pencil ladder level pitch love ankle scale";
+var mnemonic = "kitchen myself river crack total eyebrow price swamp kick advice near wedding";

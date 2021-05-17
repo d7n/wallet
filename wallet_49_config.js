@@ -1,1 +1,1 @@
-var mnemonic = "milk plunge idea vibrant gain banner brave notice elephant remind law judge";
+var mnemonic = "sense private slender boost such piano hero deputy armor coin riot into";

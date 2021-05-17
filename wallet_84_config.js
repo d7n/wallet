@@ -1,1 +1,1 @@
-var mnemonic = "inch arrest extra day code rabbit agent swear champion unusual intact gate";
+var mnemonic = "give midnight pioneer cage transfer choose lonely shoe slim canal mask flag";

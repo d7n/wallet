@@ -1,1 +1,1 @@
-var mnemonic = "decrease culture prosper own slow round beauty retreat second cinnamon hobby require";
+var mnemonic = "ripple zoo body bounce example roof learn safe song make soft bamboo";

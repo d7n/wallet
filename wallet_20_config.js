@@ -1,1 +1,1 @@
-var mnemonic = "save build keen ivory chicken tree soldier favorite express knock coil tube";
+var mnemonic = "seed minimum column law laptop kingdom balcony copper squirrel quantum deposit three";

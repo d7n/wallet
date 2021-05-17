@@ -1,1 +1,1 @@
-var mnemonic = "pave picnic cash cattle bulb virus catalog gossip return recycle high horse";
+var mnemonic = "polar hire stamp stuff spare jaguar earth canyon faint feed faint congress";

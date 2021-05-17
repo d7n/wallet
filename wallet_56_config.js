@@ -1,1 +1,1 @@
-var mnemonic = "obtain online embrace suit cricket earth once absurd valid travel market sell";
+var mnemonic = "salt city wife tank humble regular flag test rhythm zoo lens resemble";

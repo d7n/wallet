@@ -1,1 +1,1 @@
-var mnemonic = "ticket occur fun senior ribbon clump cup saddle approve noise alone hood";
+var mnemonic = "normal cook affair speed actual taste devote what patient hen mouse reflect";

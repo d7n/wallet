@@ -1,1 +1,1 @@
-var mnemonic = "tattoo cotton blue security model option ranch corn someone ahead medal radio";
+var mnemonic = "depend reject flat hockey forward craft aspect ring glimpse crumble champion spell";

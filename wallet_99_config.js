@@ -1,1 +1,1 @@
-var mnemonic = "celery have spell cheap bonus dentist unaware announce order betray congress reason";
+var mnemonic = "insane scrap offer proof style deny repair flat harbor envelope sail tragic";
