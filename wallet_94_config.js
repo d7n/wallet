@@ -1,1 +1,1 @@
-var mnemonic = "visual achieve retire truth enjoy cradle bench notable sweet head weather celery";
+var mnemonic = "opera rabbit maple wagon skirt radar search wedding fringe slight boost ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "civil limit loan goat slush comic jungle top orange vocal define orange";
+var mnemonic = "tennis all pencil burst slim autumn mom live biology rent maid gauge";

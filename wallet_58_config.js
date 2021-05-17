@@ -1,1 +1,1 @@
-var mnemonic = "scene pear chalk learn noodle decade foil desk depend race grass food";
+var mnemonic = "always amused used core eight friend jungle small trash chapter prefer eight";

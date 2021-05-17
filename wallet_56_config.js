@@ -1,1 +1,1 @@
-var mnemonic = "install aware medal trigger public approve term arrest broken vocal park select";
+var mnemonic = "oval possible lift jazz swap capital group faith various detect mom brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "size cry soon bottom mandate cool caught spoon fruit social aerobic lounge";
+var mnemonic = "miss enter tide buyer disorder update velvet fresh crucial tunnel survey talent";

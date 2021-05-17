@@ -1,1 +1,1 @@
-var mnemonic = "two rug angry rally budget corn carpet filter unknown flame someone merry";
+var mnemonic = "account elbow garbage must chest build copper camp sweet valve turn coil";

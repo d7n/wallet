@@ -1,1 +1,1 @@
-var mnemonic = "decide glue gesture soap matrix forward taste bring yellow network uphold dirt";
+var mnemonic = "gesture final forum roof awful loan system canal pluck december vocal judge";

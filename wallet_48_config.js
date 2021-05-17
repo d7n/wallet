@@ -1,1 +1,1 @@
-var mnemonic = "scheme tobacco cement neutral alone zone guilt into board medal clever young";
+var mnemonic = "clip health spell sure feature sign hold salmon inquiry young ribbon famous";

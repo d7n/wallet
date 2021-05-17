@@ -1,1 +1,1 @@
-var mnemonic = "drama spatial enrich dutch lunar fire film estate left pluck sure all";
+var mnemonic = "vivid virtual midnight quick shiver demise thrive clock hint appear angle follow";

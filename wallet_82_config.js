@@ -1,1 +1,1 @@
-var mnemonic = "tattoo hybrid muffin choose worth tent maple auction volcano soda silver wide";
+var mnemonic = "car cook bike twelve science dumb remember amateur input trumpet piece usual";

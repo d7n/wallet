@@ -1,1 +1,1 @@
-var mnemonic = "edge ability depth cause vacant body much window increase govern express squeeze";
+var mnemonic = "banana truth forest birth sail iron way little runway monkey bamboo party";

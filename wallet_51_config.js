@@ -1,1 +1,1 @@
-var mnemonic = "grace sniff track brush soldier student people hire clarify bunker admit vapor";
+var mnemonic = "metal umbrella idle public receive what saddle runway frozen monkey gap pistol";

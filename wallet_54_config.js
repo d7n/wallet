@@ -1,1 +1,1 @@
-var mnemonic = "cute secret ensure sibling subject bless just pipe access candy soon when";
+var mnemonic = "spring curious name afraid shoe scorpion lottery ritual slide achieve add surge";

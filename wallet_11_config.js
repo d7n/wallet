@@ -1,1 +1,1 @@
-var mnemonic = "junk alone cause canyon neglect mom cake small monster whale kind tiger";
+var mnemonic = "already general garden amused bless enable equip clown fiction patch gym hip";

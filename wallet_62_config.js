@@ -1,1 +1,1 @@
-var mnemonic = "appear visa prison club merit ocean junior learn cotton mimic deliver vast";
+var mnemonic = "vicious mad warm boy conduct marriage antenna burger wash general size tell";

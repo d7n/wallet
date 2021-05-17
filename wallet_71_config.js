@@ -1,1 +1,1 @@
-var mnemonic = "brass index meat stuff pattern business flash invest cotton kiss domain bean";
+var mnemonic = "table team drum search midnight giraffe first stadium tongue myself master picnic";

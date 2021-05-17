@@ -1,1 +1,1 @@
-var mnemonic = "agree exhaust soccer fragile poem strong tissue other daring silver face clarify";
+var mnemonic = "spring this begin merry fitness circle hawk dinosaur unit host young permit";

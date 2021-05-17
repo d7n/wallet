@@ -1,1 +1,1 @@
-var mnemonic = "thing area churn practice clinic champion reflect scare still fitness acid habit";
+var mnemonic = "draw hunt velvet six ball nuclear segment risk female hedgehog derive fancy";

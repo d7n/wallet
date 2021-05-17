@@ -1,1 +1,1 @@
-var mnemonic = "owner valid happy inch pig choose click dad permit relief pet exit";
+var mnemonic = "unlock group topic bargain laptop switch draft duck interest genre elevator carbon";

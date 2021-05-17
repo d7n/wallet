@@ -1,1 +1,1 @@
-var mnemonic = "clean enough tent leisure mutual swim dream floor trophy upon shine razor";
+var mnemonic = "violin wing universe legal file island suffer crush left faith pen rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "limit card surround warrior stereo retire visa farm tackle emotion glide gather";
+var mnemonic = "glove cereal desk drama owner radar suggest family boss exclude cook video";

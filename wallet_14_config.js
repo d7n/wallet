@@ -1,1 +1,1 @@
-var mnemonic = "virtual sheriff suit wedding grow deputy traffic steak bread resemble erosion intact";
+var mnemonic = "gym million name blood pulse steak yellow estate merge common friend diary";

@@ -1,1 +1,1 @@
-var mnemonic = "spice denial swap spoil crush ill eight name awful relief two sugar";
+var mnemonic = "elevator crystal seek initial skate salon draft ocean talent open pond banana";

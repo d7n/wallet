@@ -1,1 +1,1 @@
-var mnemonic = "color swap kiwi razor elephant often park body practice employ parade daring";
+var mnemonic = "unveil hidden oppose ketchup angle very amount bundle leopard admit island risk";

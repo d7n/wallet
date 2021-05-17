@@ -1,1 +1,1 @@
-var mnemonic = "soul dune can message attract plug garbage exile fall cool lunar steel";
+var mnemonic = "noble tomato veteran concert senior hen combine decorate trumpet fruit breeze father";

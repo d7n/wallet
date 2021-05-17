@@ -1,1 +1,1 @@
-var mnemonic = "amazing van pottery exhibit easily lens sell oyster one play black type";
+var mnemonic = "pioneer bean situate tragic message swarm common custom calm fever clean guide";

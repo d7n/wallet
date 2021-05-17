@@ -1,1 +1,1 @@
-var mnemonic = "sausage injury one tomorrow tiger marriage system romance loan exhibit apology emotion";
+var mnemonic = "copper sail trial sea main eternal original wall analyst faith cage blanket";

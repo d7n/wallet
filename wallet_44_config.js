@@ -1,1 +1,1 @@
-var mnemonic = "possible badge horror carry example essence expect inside uniform tide twelve lava";
+var mnemonic = "air buyer notable envelope also outdoor lobster test sphere toss often answer";

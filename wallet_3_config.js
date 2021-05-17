@@ -1,1 +1,1 @@
-var mnemonic = "pony indicate analyst warrior issue label actress diet final release seven park";
+var mnemonic = "sausage vessel slight bargain where almost diagram renew change report load clip";

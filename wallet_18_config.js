@@ -1,1 +1,1 @@
-var mnemonic = "scout device vocal visa occur window gauge crawl connect matrix submit shy";
+var mnemonic = "coach addict gossip tool tape aunt remind noise they humor lady pink";

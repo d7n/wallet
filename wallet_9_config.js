@@ -1,1 +1,1 @@
-var mnemonic = "glide wrestle front bounce wheel question certain assist purpose best museum mushroom";
+var mnemonic = "toss answer foster aware club panther pottery bargain that wage sorry stool";

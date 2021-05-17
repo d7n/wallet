@@ -1,1 +1,1 @@
-var mnemonic = "rival beef wash prevent system cattle balcony build stairs depth aunt enforce";
+var mnemonic = "bullet sound hair skull rebuild ladder skin brand spy scare climb wave";

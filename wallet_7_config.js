@@ -1,1 +1,1 @@
-var mnemonic = "else cinnamon column chief onion ramp hair spread loop mad velvet spell";
+var mnemonic = "smoke feel erosion chimney elder suggest earn alley wolf wheat quarter habit";

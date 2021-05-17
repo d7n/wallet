@@ -1,1 +1,1 @@
-var mnemonic = "pupil library few tag whip doctor smoke mistake valve desk wine caught";
+var mnemonic = "dragon spell volume bone tent loyal chef income muffin desk tortoise hobby";

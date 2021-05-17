@@ -1,1 +1,1 @@
-var mnemonic = "license work gaze blanket chuckle venue motor alley magic tissue medal cable";
+var mnemonic = "tomorrow wide detail bless vault cheap smooth whip play figure banana barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "gift print pole spider urban shell tell cream horse stadium judge aware";
+var mnemonic = "avocado river stem stone aware evoke reunion mimic rural avoid despair another";

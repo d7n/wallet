@@ -1,1 +1,1 @@
-var mnemonic = "grid glass present member assault subject small exhibit increase limb know steel";
+var mnemonic = "grab remember floor father wrap nasty immense just over brain sunny moon";

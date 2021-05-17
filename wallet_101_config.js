@@ -1,1 +1,1 @@
-var mnemonic = "humble nasty raccoon holiday finger banana sunset color dizzy security faint nuclear";
+var mnemonic = "crisp unaware unable sauce kingdom dune dry explain direct artist salmon bachelor";

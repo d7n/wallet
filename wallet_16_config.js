@@ -1,1 +1,1 @@
-var mnemonic = "cool crack plunge know cereal remember enter edge enroll impose chief mean";
+var mnemonic = "car spatial direct cat fury cruel silver average priority renew earn tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "major session truth avoid online any plunge debate laptop north doctor matrix";
+var mnemonic = "chapter reward chronic crew exclude receive tomorrow retire local again fork tennis";

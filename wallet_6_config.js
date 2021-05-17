@@ -1,1 +1,1 @@
-var mnemonic = "together dish hand dilemma mercy fun phrase pony imitate vault throw august";
+var mnemonic = "turkey present pig quantum wet noodle kind truth anchor chimney review gap";

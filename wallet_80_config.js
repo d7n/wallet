@@ -1,1 +1,1 @@
-var mnemonic = "fresh boring muscle message option equal target media fever federal arrow risk";
+var mnemonic = "actress broccoli come know humble tonight agree envelope zero tattoo mountain success";

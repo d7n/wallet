@@ -1,1 +1,1 @@
-var mnemonic = "match comfort someone symbol portion obey away uncover casual beauty pool cheese";
+var mnemonic = "decade use buddy ticket soon expand razor brother canvas chunk twelve discover";

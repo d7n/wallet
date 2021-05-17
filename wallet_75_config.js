@@ -1,1 +1,1 @@
-var mnemonic = "limit school cinnamon dinner chef warrior debris clock believe frost dignity lottery";
+var mnemonic = "benefit wonder plug treat season submit wait cinnamon bring faculty evil swear";

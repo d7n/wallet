@@ -1,1 +1,1 @@
-var mnemonic = "assist grace corn puppy october scale evil resemble wave unable witness carry";
+var mnemonic = "fame cart sentence occur piano stomach shock good disease practice ugly spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "winner similar observe lawsuit extend relief liberty turn grape similar language timber";
+var mnemonic = "leaf extra battle tobacco spirit ability excess chuckle whisper always chronic path";

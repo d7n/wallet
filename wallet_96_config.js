@@ -1,1 +1,1 @@
-var mnemonic = "ketchup uphold summer express meat fiber avoid above blue code van prevent";
+var mnemonic = "noble scissors satisfy phone lawn print unique woman buffalo announce scare cook";

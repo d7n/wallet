@@ -1,1 +1,1 @@
-var mnemonic = "frame depth test volume harbor program split because youth senior discover balance";
+var mnemonic = "embody visual doctor favorite extra jungle nephew roast drill negative there attitude";

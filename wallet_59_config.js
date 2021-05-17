@@ -1,1 +1,1 @@
-var mnemonic = "alpha best crumble cabbage shaft erupt odor raccoon rival chair glimpse distance";
+var mnemonic = "pipe lawn road cage vendor wealth portion senior labor feed target pig";

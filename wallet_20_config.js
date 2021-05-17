@@ -1,1 +1,1 @@
-var mnemonic = "few swing face advance cigar face crawl cluster ready spawn thank scout";
+var mnemonic = "property olive arrest transfer crisp whisper useless nuclear cousin coast repeat armor";

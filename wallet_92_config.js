@@ -1,1 +1,1 @@
-var mnemonic = "episode file body gym country random island mesh spoon suspect luggage situate";
+var mnemonic = "grab turkey crawl cross fame nut defy scorpion tool merit exercise owner";

@@ -1,1 +1,1 @@
-var mnemonic = "chest range build blush duck series subject topic student route trophy nominee";
+var mnemonic = "harvest title era claim rabbit situate planet artwork pattern where razor nature";

@@ -1,1 +1,1 @@
-var mnemonic = "grit badge apart initial cotton kiwi infant glove chicken another real cradle";
+var mnemonic = "tree drip enter local inform base elegant senior enforce garlic tattoo radio";

@@ -1,1 +1,1 @@
-var mnemonic = "shine finish sad copper magic prefer butter journey brass online eternal barrel";
+var mnemonic = "happy rough intact similar floor bitter pulse oyster asset trumpet arm auction";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor habit drastic stick yard present cigar fatigue promote copper embark author";
+var mnemonic = "gold payment humble young until behind nature transfer march vast margin purse";

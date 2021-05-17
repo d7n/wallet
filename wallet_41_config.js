@@ -1,1 +1,1 @@
-var mnemonic = "warfare possible target woman client carpet food borrow uniform depth turkey differ";
+var mnemonic = "multiply elder gorilla peanut gloom spell nest olympic coyote solution later share";

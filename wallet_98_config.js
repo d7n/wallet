@@ -1,1 +1,1 @@
-var mnemonic = "firm story agree deposit juice use visa sea slim subway turn brick";
+var mnemonic = "inflict tilt damage vacuum gloom strong say sun behave glimpse hamster unaware";

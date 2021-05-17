@@ -1,1 +1,1 @@
-var mnemonic = "gun thing panther put science execute broom sock know rapid head roast";
+var mnemonic = "unknown salute smooth oblige ordinary leader cement dilemma question enough master crush";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic utility shove assist action swap exit enjoy quick blur staff flip";
+var mnemonic = "indoor stuff quit captain appear manual future dutch shrimp lucky avoid pledge";

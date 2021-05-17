@@ -1,1 +1,1 @@
-var mnemonic = "veteran doll planet coyote series young stable crash together tower guide around";
+var mnemonic = "frame mail brand tray wall leader scorpion secret add unique soda fragile";

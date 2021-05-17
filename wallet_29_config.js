@@ -1,1 +1,1 @@
-var mnemonic = "census admit juice gain banner motor capable copy comfort casino whale diagram";
+var mnemonic = "unable special visa grape assist wrap beauty cloud deal pen great illegal";

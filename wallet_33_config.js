@@ -1,1 +1,1 @@
-var mnemonic = "until hero plunge degree harbor laundry antenna artist stick fix manual crew";
+var mnemonic = "zebra churn during game cup bamboo exact huge aerobic orange witness trend";

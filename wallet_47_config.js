@@ -1,1 +1,1 @@
-var mnemonic = "icon bounce fox old seven fly curve indicate spread donate burden allow";
+var mnemonic = "never neck need smoke sting you laundry oblige brother flavor appear punch";

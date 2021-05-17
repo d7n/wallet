@@ -1,1 +1,1 @@
-var mnemonic = "inherit brave visit disease person wreck blame amazing elder pupil raccoon level";
+var mnemonic = "live defy circle dolphin camp differ muffin forest unfair pride pistol devote";

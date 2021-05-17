@@ -1,1 +1,1 @@
-var mnemonic = "roof fee oyster amazing pencil park snake false snack supply notice parade";
+var mnemonic = "frequent enact device soldier water gasp when super squirrel vast lottery grit";

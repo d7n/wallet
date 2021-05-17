@@ -1,1 +1,1 @@
-var mnemonic = "jungle summer month evidence country example state shop family gold interest father";
+var mnemonic = "merry water grunt alert spawn fly water wine curve tissue dune corn";

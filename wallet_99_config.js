@@ -1,1 +1,1 @@
-var mnemonic = "swift decline arrest feature ritual foam essay gown gravity warrior allow suit";
+var mnemonic = "roof giraffe panther assist medal route home jazz reform engage loyal soup";

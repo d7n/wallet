@@ -1,1 +1,1 @@
-var mnemonic = "barely brand hidden merry setup duck explain spice place drama bless ritual";
+var mnemonic = "jungle lucky slender twelve when huge someone junior physical marine word phone";

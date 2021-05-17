@@ -1,1 +1,1 @@
-var mnemonic = "primary upper poverty shrimp hour slide cash favorite matter point blind garden";
+var mnemonic = "steak limit young output moment lobster digital attack buzz zoo latin feature";

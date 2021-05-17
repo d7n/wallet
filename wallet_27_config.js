@@ -1,1 +1,1 @@
-var mnemonic = "pigeon horror attitude ceiling just undo west will inject jaguar stove bronze";
+var mnemonic = "exclude buffalo total repeat scene there mesh wait inmate minute regret wedding";

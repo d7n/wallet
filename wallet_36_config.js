@@ -1,1 +1,1 @@
-var mnemonic = "patrol remind sell foster cereal hollow author flee brave people leader gold";
+var mnemonic = "broom average acoustic fish tag oval silk similar roof health spot model";

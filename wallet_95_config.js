@@ -1,1 +1,1 @@
-var mnemonic = "avoid borrow roast endless early adapt embark fit canoe firm mystery hazard";
+var mnemonic = "spin bacon echo stereo agree vote wave beauty engine mystery group unusual";

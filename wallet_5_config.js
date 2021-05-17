@@ -1,1 +1,1 @@
-var mnemonic = "dad track vocal give dragon exile sell real paddle meat tube enough";
+var mnemonic = "frost change elite medal twice reflect float betray olive globe battle manual";

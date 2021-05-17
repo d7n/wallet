@@ -1,1 +1,1 @@
-var mnemonic = "taxi mom timber easily kiss skate vessel bunker since taxi inch bless";
+var mnemonic = "merry attack gather usage surface uphold lava owner today cry lonely giraffe";

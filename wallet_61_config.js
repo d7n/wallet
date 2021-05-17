@@ -1,1 +1,1 @@
-var mnemonic = "cactus broccoli comfort crazy sick valve deliver airport regular balance slow airport";
+var mnemonic = "episode matter save flip gossip radio remind off that owner strategy spin";

@@ -1,1 +1,1 @@
-var mnemonic = "copper worth tray enforce luggage market panic ship exercise hair more train";
+var mnemonic = "little address orange sleep stone accuse badge piano release rabbit shoulder alpha";

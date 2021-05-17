@@ -1,1 +1,1 @@
-var mnemonic = "ball unveil view track film air vicious check toddler plug team unusual";
+var mnemonic = "admit where print shrimp appear salt wait oak chunk battle protect mountain";

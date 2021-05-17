@@ -1,1 +1,1 @@
-var mnemonic = "eager bullet emotion clerk someone trash indicate welcome hazard face fan bless";
+var mnemonic = "series drip can own tool awful circle base treat scorpion bicycle country";

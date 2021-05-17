@@ -1,1 +1,1 @@
-var mnemonic = "arch sting method dilemma spoil remember drive phrase bind pass famous orphan";
+var mnemonic = "ability miracle step cute program bracket special myself hedgehog slogan normal fix";

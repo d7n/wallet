@@ -1,1 +1,1 @@
-var mnemonic = "stomach lyrics praise help clean pelican arrive bird tortoise used require rifle";
+var mnemonic = "exercise wise rival proud habit aim innocent leisure bacon snake host baby";

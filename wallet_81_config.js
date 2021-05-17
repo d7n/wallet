@@ -1,1 +1,1 @@
-var mnemonic = "attract gate alcohol heart major silk mansion draft razor anxiety spoon off";
+var mnemonic = "maple melody crack effort differ river eager ordinary sign choice web enjoy";

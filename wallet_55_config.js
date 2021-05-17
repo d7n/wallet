@@ -1,1 +1,1 @@
-var mnemonic = "myth crumble faith rebuild mosquito visit energy put episode athlete silly weird";
+var mnemonic = "execute return category copy steel february wave net lonely neither diamond rib";

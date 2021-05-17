@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow antenna rhythm tumble welcome plug rice kitten chuckle town harsh truth";
+var mnemonic = "receive siren turtle journey budget rice apple denial curious shallow involve rule";

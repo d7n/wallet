@@ -1,1 +1,1 @@
-var mnemonic = "shift brother insane glide hockey artwork pluck peanut illness rough edge code";
+var mnemonic = "analyst perfect dolphin pudding stem stereo mention soccer just raven motor beef";

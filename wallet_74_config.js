@@ -1,1 +1,1 @@
-var mnemonic = "amused maze tourist mixed travel can group forest dumb gospel stove pottery";
+var mnemonic = "dinner pond creek warfare toy audit outside cancel cream chimney clump defense";

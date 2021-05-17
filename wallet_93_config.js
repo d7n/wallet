@@ -1,1 +1,1 @@
-var mnemonic = "real unlock oak coral cattle addict bar slot boss resemble region useless";
+var mnemonic = "race front combine echo confirm taste consider embody pigeon lamp rug video";
