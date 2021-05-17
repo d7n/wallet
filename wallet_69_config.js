@@ -1,1 +1,1 @@
-var mnemonic = "nuclear dry napkin craft target can armed also annual nation web doll";
+var mnemonic = "pen wasp picnic correct day observe boss reveal slender advance account olympic";

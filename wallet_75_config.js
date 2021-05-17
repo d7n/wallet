@@ -1,1 +1,1 @@
-var mnemonic = "royal excess wire enact patient cave domain dry soup horse junior exchange";
+var mnemonic = "slow tobacco radio arm labor also endless pause put holiday repeat north";

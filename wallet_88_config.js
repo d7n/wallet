@@ -1,1 +1,1 @@
-var mnemonic = "response belt provide radio announce defy cargo timber soap provide mix cram";
+var mnemonic = "lend noble yellow easily party kite siren shallow pink hint brisk refuse";

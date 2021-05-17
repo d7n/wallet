@@ -1,1 +1,1 @@
-var mnemonic = "feel puppy improve cycle main draw vintage filter worth faith evolve convince";
+var mnemonic = "punch exile muffin gasp high stamp adjust shoulder saddle observe link chair";

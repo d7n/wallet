@@ -1,1 +1,1 @@
-var mnemonic = "nurse wire demise dawn couch village stand copy gap exotic draft coach";
+var mnemonic = "measure wash delay hospital rhythm isolate hotel cycle when until board silent";

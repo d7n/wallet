@@ -1,1 +1,1 @@
-var mnemonic = "master lunch body inside draw practice van portion quick wage together fruit";
+var mnemonic = "august excess make shoe business road alter cost devote pact suffer kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "expire slight essence charge also essence wish exchange fame talent scissors distance";
+var mnemonic = "general palace kingdom keep resource tattoo diesel ice bacon repair enact donate";

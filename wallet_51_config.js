@@ -1,1 +1,1 @@
-var mnemonic = "sense excess traffic fetch prepare cargo consider trouble need hope episode unusual";
+var mnemonic = "expose elite this drastic inherit puppy turn giggle rib way math average";

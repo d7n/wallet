@@ -1,1 +1,1 @@
-var mnemonic = "mixture crack camp film before bulb clarify waste giraffe easily hunt tape";
+var mnemonic = "federal fancy oppose lawn whip lottery evoke denial stadium seven where fantasy";

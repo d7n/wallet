@@ -1,1 +1,1 @@
-var mnemonic = "weekend online cushion trim frozen clinic media comic harvest impose mansion exile";
+var mnemonic = "suspect witness team apology toss endless three hello list grief bonus refuse";

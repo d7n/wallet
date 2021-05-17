@@ -1,1 +1,1 @@
-var mnemonic = "beyond tray vacuum narrow pass phone side soup chase mosquito cave live";
+var mnemonic = "gravity desert atom habit update hope hole shaft swap vibrant turn replace";

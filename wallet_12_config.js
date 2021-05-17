@@ -1,1 +1,1 @@
-var mnemonic = "oppose find spin grunt empty average abandon clutch worth gift easily vessel";
+var mnemonic = "wreck hope sing axis pizza approve demand night visual cream wing pigeon";

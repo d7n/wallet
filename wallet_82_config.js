@@ -1,1 +1,1 @@
-var mnemonic = "maid atom disease gentle cushion office cradle dumb blood confirm over riot";
+var mnemonic = "promote fossil slide denial reflect exchange surge three bottom tail morning ginger";

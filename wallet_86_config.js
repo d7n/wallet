@@ -1,1 +1,1 @@
-var mnemonic = "promote palm honey trust glove arrange patch trumpet actor air wide strong";
+var mnemonic = "negative among diagram orient receive method siren share merry skin athlete tilt";

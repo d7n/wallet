@@ -1,1 +1,1 @@
-var mnemonic = "shed predict blush wide crunch debate item pride captain drum pride pattern";
+var mnemonic = "skate exchange tuna name differ program buzz gospel inspire omit safe pull";

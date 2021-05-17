@@ -1,1 +1,1 @@
-var mnemonic = "nerve anchor direct jump task rely bag rocket dentist great shaft together";
+var mnemonic = "young heavy empower onion moral logic cream result repair among talent giraffe";

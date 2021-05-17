@@ -1,1 +1,1 @@
-var mnemonic = "income wish enroll fox primary vanish exhibit sleep glide acid ahead ridge";
+var mnemonic = "dutch canyon cheap vocal entire route ceiling victory electric check jungle industry";

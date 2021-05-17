@@ -1,1 +1,1 @@
-var mnemonic = "inmate lock source melody two seminar coach evolve fault tongue goose field";
+var mnemonic = "attitude benefit sell town pave melt vehicle strong impact judge arm tree";

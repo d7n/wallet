@@ -1,1 +1,1 @@
-var mnemonic = "lawn shrimp alone upon hammer sight lonely visual program lunar seed adjust";
+var mnemonic = "quit time drive deal tongue one false cave faint celery process phone";

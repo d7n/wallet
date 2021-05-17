@@ -1,1 +1,1 @@
-var mnemonic = "wife parade glance flame exist sausage become alarm bicycle furnace volcano viable";
+var mnemonic = "index pipe calm gallery loud bulb tape area nerve grape label mesh";

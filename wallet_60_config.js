@@ -1,1 +1,1 @@
-var mnemonic = "carbon nominee head divorce grain riot token grit trumpet place supreme hub";
+var mnemonic = "alien blanket slide spray risk gadget industry rocket aunt pupil traffic group";

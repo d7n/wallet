@@ -1,1 +1,1 @@
-var mnemonic = "scrub trust long inch resource gospel eight deal runway smart pink myth";
+var mnemonic = "game develop near sheriff woman miracle soup hard view physical weather method";

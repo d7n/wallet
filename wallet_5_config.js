@@ -1,1 +1,1 @@
-var mnemonic = "major dilemma model canyon claim suit animal fossil silk dragon noise topic";
+var mnemonic = "north metal visa winter immense detail nice help fine gift suffer spend";

@@ -1,1 +1,1 @@
-var mnemonic = "mass bulk vacuum despair canoe sand ticket cheap dash foster suffer kitchen";
+var mnemonic = "essay laundry hobby father plug cross much banner emotion private echo joke";

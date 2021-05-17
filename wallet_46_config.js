@@ -1,1 +1,1 @@
-var mnemonic = "mandate company prize idea elegant produce between panel creek return soldier drill";
+var mnemonic = "online have recipe person velvet hurdle add system antique pupil brush pizza";

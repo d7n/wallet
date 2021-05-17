@@ -1,1 +1,1 @@
-var mnemonic = "gloom remind achieve uncover feel ski pumpkin review music later vague wealth";
+var mnemonic = "sport salon giant dinner winner pool evidence want raven muffin century margin";

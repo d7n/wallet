@@ -1,1 +1,1 @@
-var mnemonic = "follow uncover title rack random monkey enroll swamp away focus similar slot";
+var mnemonic = "smile social sure blouse crater marine warrior autumn dentist coach cargo file";

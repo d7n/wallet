@@ -1,1 +1,1 @@
-var mnemonic = "display success inspire skill early taxi maximum select lemon victory alone park";
+var mnemonic = "update mixture level add blur average remove polar taxi educate alien kit";

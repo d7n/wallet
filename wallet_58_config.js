@@ -1,1 +1,1 @@
-var mnemonic = "april deputy blame vapor matrix forward robot sock leave roof dolphin fault";
+var mnemonic = "narrow page text fork ugly height surge drift vote perfect party rude";

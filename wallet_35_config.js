@@ -1,1 +1,1 @@
-var mnemonic = "neutral soldier amateur drink enhance daughter royal tank salad private face clog";
+var mnemonic = "orange just leisure alert island obey uncle negative output olive spring someone";

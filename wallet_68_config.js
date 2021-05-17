@@ -1,1 +1,1 @@
-var mnemonic = "bunker alley final craft raise lobster helmet hero useful target feed tornado";
+var mnemonic = "pony what brush share minimum truly stable coconut torch exchange edge pyramid";

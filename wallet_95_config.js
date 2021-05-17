@@ -1,1 +1,1 @@
-var mnemonic = "glance butter trend vacant wage zone visit sustain ball target cupboard corn";
+var mnemonic = "diet old tail day wall calm museum pet sea ivory scrap enhance";

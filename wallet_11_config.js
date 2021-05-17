@@ -1,1 +1,1 @@
-var mnemonic = "gossip hawk alien patient puppy lesson push shy music subject couch plate";
+var mnemonic = "fruit winter rebuild six snake kid used bird demise badge river tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh trust view adjust stamp gasp wing math borrow interest video crawl";
+var mnemonic = "syrup regret convince surge salmon add neglect street fuel avoid bounce version";

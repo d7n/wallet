@@ -1,1 +1,1 @@
-var mnemonic = "afraid snap scrap train early orphan risk empower knee system position visa";
+var mnemonic = "ring wink barrel slab junior come negative oven winter purpose slogan swarm";

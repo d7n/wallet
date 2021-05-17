@@ -1,1 +1,1 @@
-var mnemonic = "wagon pink river citizen glare crucial tape increase typical fluid clinic hospital";
+var mnemonic = "hand shift tourist diagram mom refuse denial occur tree prefer stick thunder";

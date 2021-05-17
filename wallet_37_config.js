@@ -1,1 +1,1 @@
-var mnemonic = "street magic ostrich sick child deer actor sheriff text tribe lab enlist";
+var mnemonic = "equal horror busy decrease time supreme gorilla ask twin inflict mimic dress";

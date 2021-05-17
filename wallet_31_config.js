@@ -1,1 +1,1 @@
-var mnemonic = "olympic balance mind rude police kangaroo display more payment goat that thank";
+var mnemonic = "conduct expose lava label eye ticket benefit print oval hire talent bracket";

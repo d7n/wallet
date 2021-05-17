@@ -1,1 +1,1 @@
-var mnemonic = "day aspect trust odor civil trigger soldier federal carbon chef unique banana";
+var mnemonic = "foam mountain alone census road season neck wild camera scrub pitch design";

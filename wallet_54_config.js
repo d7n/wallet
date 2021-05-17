@@ -1,1 +1,1 @@
-var mnemonic = "poem artwork wife aisle oven surge install nature assume dragon panic margin";
+var mnemonic = "misery tourist horn only gesture embrace payment explain have feel size wood";

@@ -1,1 +1,1 @@
-var mnemonic = "chef wagon zone bleak combine extend problem battle fossil antenna advance hen";
+var mnemonic = "girl elder core toy maid ridge subject resource rural drive what nation";

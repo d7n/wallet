@@ -1,1 +1,1 @@
-var mnemonic = "lava broccoli eternal junk isolate frown paddle arrow chicken ranch sausage frog";
+var mnemonic = "surprise exercise tip awake cheese tenant face joke alley tone turkey material";

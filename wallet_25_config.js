@@ -1,1 +1,1 @@
-var mnemonic = "check trigger unusual female abandon blind sea genre before aim weather empower";
+var mnemonic = "supply hazard limb physical sample mule board media rather discover ignore suggest";

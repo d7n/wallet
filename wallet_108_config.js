@@ -1,1 +1,1 @@
-var mnemonic = "dawn recycle market notable narrow glad orchard near pulp rate permit black";
+var mnemonic = "nurse high runway medal equal blade wide blur kitchen view embody sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "grit unveil leg satisfy exhibit inflict festival pull famous runway fabric badge";
+var mnemonic = "license expand fiber spirit mind matter shiver another hill follow mushroom flower";

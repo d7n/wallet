@@ -1,1 +1,1 @@
-var mnemonic = "column cinnamon reveal whisper soft suspect because despair lend permit subject advance";
+var mnemonic = "survey say lecture trial evolve reward quit arrange cause orphan waste also";

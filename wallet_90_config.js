@@ -1,1 +1,1 @@
-var mnemonic = "open fruit way level capital hole twice fold fee attend dust spawn";
+var mnemonic = "culture design umbrella mixed garlic ahead latin crew syrup balcony retire train";

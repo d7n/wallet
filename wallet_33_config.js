@@ -1,1 +1,1 @@
-var mnemonic = "walnut ordinary disease usual marble admit monster effort tomato arch record slim";
+var mnemonic = "home between sand beauty best invite load vehicle prosper giraffe mushroom stairs";

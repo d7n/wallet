@@ -1,1 +1,1 @@
-var mnemonic = "frame frost road element forward potato sheriff country machine student antenna embrace";
+var mnemonic = "chest spring impose sunset love move gospel argue old physical cream churn";

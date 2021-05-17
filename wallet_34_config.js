@@ -1,1 +1,1 @@
-var mnemonic = "promote grief mistake uncover rough zero doctor have online wreck song give";
+var mnemonic = "chest despair drink save produce cable genius blur broom rubber wait symbol";

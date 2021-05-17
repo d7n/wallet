@@ -1,1 +1,1 @@
-var mnemonic = "end cave wide nature horn gift ahead fluid black fortune knife moon";
+var mnemonic = "labor unusual response idea bulb general check dynamic number purpose mention erase";

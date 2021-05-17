@@ -1,1 +1,1 @@
-var mnemonic = "sustain youth enroll leave wool snake slush wisdom pupil afraid can heart";
+var mnemonic = "document endorse coast scare physical brown hire young wash swamp comfort evidence";

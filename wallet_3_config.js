@@ -1,1 +1,1 @@
-var mnemonic = "tobacco rubber year rely differ anxiety inside urban primary sure release comic";
+var mnemonic = "alone element slot easy lend work mansion maximum vicious upset toe gas";

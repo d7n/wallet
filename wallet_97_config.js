@@ -1,1 +1,1 @@
-var mnemonic = "baby enlist deal sock wear prison staff oak seat wing cry border";
+var mnemonic = "deal inside option member magic snap pipe dolphin toward arrange pulse tuition";

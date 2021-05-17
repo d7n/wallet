@@ -1,1 +1,1 @@
-var mnemonic = "car feed assist goose gold denial mail cruel child inside abstract dish";
+var mnemonic = "win panic believe vast secret betray edit attract wear wink neither hawk";

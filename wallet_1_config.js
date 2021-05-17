@@ -1,1 +1,1 @@
-var mnemonic = "plastic exotic cave educate oval cliff pencil derive family apart lock indicate";
+var mnemonic = "interest section link stairs close grass mutual occur gown wedding fury math";

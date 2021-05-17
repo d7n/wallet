@@ -1,1 +1,1 @@
-var mnemonic = "okay verify suit cabbage decide swear never news hint library disorder try";
+var mnemonic = "height essence enjoy lobster blue sword excite monster cry rural potato length";

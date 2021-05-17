@@ -1,1 +1,1 @@
-var mnemonic = "bulk future remove mention volume swift cherry budget grocery clerk stock shift";
+var mnemonic = "decorate beef figure grow security era snow wage goose float spike divide";

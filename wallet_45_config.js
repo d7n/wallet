@@ -1,1 +1,1 @@
-var mnemonic = "horror pipe artist swear online hello hidden rain regret black monkey gain";
+var mnemonic = "type sun hobby destroy subject quality video song rabbit patrol coin hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel hamster wagon usage police cave frozen author demand couch crash lizard";
+var mnemonic = "chest stage lawn margin bulk humor benefit retreat announce price govern exit";

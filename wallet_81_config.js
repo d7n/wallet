@@ -1,1 +1,1 @@
-var mnemonic = "amateur grunt inner attack gain alter bone lounge rescue object razor frequent";
+var mnemonic = "ready senior behind vital squeeze country cluster beauty spin jump tumble arrange";

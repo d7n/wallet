@@ -1,1 +1,1 @@
-var mnemonic = "anger material super better blood olive order muffin dinner scissors hen merge";
+var mnemonic = "rebel sell push broken biology repair borrow ranch spare drink wild erupt";

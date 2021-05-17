@@ -1,1 +1,1 @@
-var mnemonic = "bike abandon number true leaf puzzle service release bargain ladder bright harbor";
+var mnemonic = "drum notable click obscure frown exclude sock bright engage daughter name boil";

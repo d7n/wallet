@@ -1,1 +1,1 @@
-var mnemonic = "bird crunch avoid trick peace clog bright symptom large walnut mask deal";
+var mnemonic = "humble liar lake royal fitness coffee boil pottery talent bless chef comic";

@@ -1,1 +1,1 @@
-var mnemonic = "coil unit route pet pigeon social reduce worry entry yard pizza begin";
+var mnemonic = "lesson cargo auction rate slot embody educate cactus hazard furnace bridge rebel";

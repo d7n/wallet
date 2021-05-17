@@ -1,1 +1,1 @@
-var mnemonic = "kite danger gold cover visit click train detail multiply atom crew machine";
+var mnemonic = "latin film loop gospel fatigue grant calm govern network short place level";

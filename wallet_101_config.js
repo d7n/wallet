@@ -1,1 +1,1 @@
-var mnemonic = "struggle virus spy give under obscure direct radio curve home brave enroll";
+var mnemonic = "atom miss drastic viable typical escape stadium rack movie useful dilemma ketchup";

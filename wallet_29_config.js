@@ -1,1 +1,1 @@
-var mnemonic = "detect frog mechanic parrot trophy body pride evil snow biology wrestle oppose";
+var mnemonic = "cherry arrow aspect armed machine object silk among kiss distance utility avocado";

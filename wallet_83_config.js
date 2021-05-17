@@ -1,1 +1,1 @@
-var mnemonic = "welcome initial horror find planet hybrid dynamic cruel october endorse meadow glow";
+var mnemonic = "shaft fish plastic improve custom artefact modify flag rough surge wise obvious";

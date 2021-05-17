@@ -1,1 +1,1 @@
-var mnemonic = "glance rocket tube twelve entry fiscal vehicle filter convince castle program agree";
+var mnemonic = "cook relax pride body weather dose kind tray peace mask hollow erosion";

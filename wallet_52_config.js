@@ -1,1 +1,1 @@
-var mnemonic = "resemble call bullet control system twelve music element supreme move swim pet";
+var mnemonic = "laptop scrap live quiz amount inner vacant lumber steak reveal rose require";

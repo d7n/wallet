@@ -1,1 +1,1 @@
-var mnemonic = "consider push dentist degree amused reason flag dolphin cheap pull brave route";
+var mnemonic = "garage leave keen report olive derive frown giggle flame vote leg vanish";

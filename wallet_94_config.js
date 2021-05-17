@@ -1,1 +1,1 @@
-var mnemonic = "crunch file bulk organ kick car air afraid blouse arrest girl silk";
+var mnemonic = "cram prosper hello insect soccer opinion mass entry twice hair sand rally";

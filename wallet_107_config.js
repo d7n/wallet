@@ -1,1 +1,1 @@
-var mnemonic = "labor cute course cool rice slot indoor silver network aware twice require";
+var mnemonic = "ribbon october van alarm grass grape cereal slight prize cute ticket bring";

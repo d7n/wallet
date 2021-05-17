@@ -1,1 +1,1 @@
-var mnemonic = "orchard innocent retreat accident split happy laundry nice fat tell dinosaur success";
+var mnemonic = "bleak lion invite dose install spike satisfy resemble stage burger gasp chest";

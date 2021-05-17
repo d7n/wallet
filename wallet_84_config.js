@@ -1,1 +1,1 @@
-var mnemonic = "ramp high defense neglect fiscal leopard cruel island april tongue olympic affair";
+var mnemonic = "nerve sort cabbage whip viable fat domain mixture wet oppose pupil size";

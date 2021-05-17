@@ -1,1 +1,1 @@
-var mnemonic = "rival forest mango clog bunker add car dash above charge staff surge";
+var mnemonic = "enough switch roof immense bus bounce ocean enemy cover okay potato foot";

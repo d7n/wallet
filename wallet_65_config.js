@@ -1,1 +1,1 @@
-var mnemonic = "blanket expose beef deliver code december split reopen seminar split jacket small";
+var mnemonic = "certain jazz victory angle siege merry pluck solar kite lounge ginger cube";

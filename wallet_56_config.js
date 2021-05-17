@@ -1,1 +1,1 @@
-var mnemonic = "vapor belt private sunny kit keen wife tree brother dolphin history limb";
+var mnemonic = "melody rug bitter sheriff develop sleep lizard pilot lounge culture infant trial";

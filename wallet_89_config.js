@@ -1,1 +1,1 @@
-var mnemonic = "midnight alpha live mystery orchard torch desert viable liquid parade engine almost";
+var mnemonic = "pave bless shoot motor core term hover hurry badge dose token tunnel";

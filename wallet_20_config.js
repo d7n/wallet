@@ -1,1 +1,1 @@
-var mnemonic = "pen omit suit poet rug device leaf rapid giggle vault assault opera";
+var mnemonic = "extra spider lunar donate super tide three salute carry foil segment roof";

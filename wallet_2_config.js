@@ -1,1 +1,1 @@
-var mnemonic = "soccer achieve burst nose mango young fresh rebel poet party force series";
+var mnemonic = "loop tobacco correct zoo floor impulse camera shrug return whip airport right";

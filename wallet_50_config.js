@@ -1,1 +1,1 @@
-var mnemonic = "outside usual mail wheat cool good satisfy occur meat feature minor enjoy";
+var mnemonic = "fish reduce scissors leaf practice often uncover adult park cross hurdle oval";

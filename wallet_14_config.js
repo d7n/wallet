@@ -1,1 +1,1 @@
-var mnemonic = "cute time truck horn narrow express text dragon priority caution hungry secret";
+var mnemonic = "guide april fiscal decade drastic core physical transfer real extra glide spread";

@@ -1,1 +1,1 @@
-var mnemonic = "oak dignity column place suffer balcony banner plug nurse sad castle machine";
+var mnemonic = "summer this faint edit unfold exercise equip wild couch orphan occur material";

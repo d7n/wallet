@@ -1,1 +1,1 @@
-var mnemonic = "lunar profit library limb ill fatigue rib damp practice saddle fabric smart";
+var mnemonic = "trade replace bronze rain accuse defense unusual hello chaos reform tree syrup";

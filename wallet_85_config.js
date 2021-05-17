@@ -1,1 +1,1 @@
-var mnemonic = "crowd sword clinic ugly dynamic nominee relief best snake valley leader ready";
+var mnemonic = "perfect glow fresh grocery matrix salute tourist gather pond rocket chef bind";

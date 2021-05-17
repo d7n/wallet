@@ -1,1 +1,1 @@
-var mnemonic = "spell supply fever borrow wild arrow host banana crucial reveal chest usage";
+var mnemonic = "tenant another outside clutch kite aunt sleep host alpha sunny balance eternal";

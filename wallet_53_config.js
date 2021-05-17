@@ -1,1 +1,1 @@
-var mnemonic = "exhaust gossip baby olympic believe exclude fork modify cover project benefit orange";
+var mnemonic = "discover friend able unique breeze already hood gate fame rival act inspire";

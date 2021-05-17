@@ -1,1 +1,1 @@
-var mnemonic = "daughter once library pilot ozone only clean bind kitten among peasant blame";
+var mnemonic = "summer dinner minimum design faint reform stove rigid bench march umbrella weather";

@@ -1,1 +1,1 @@
-var mnemonic = "child this point box require sample shock option cross bonus month history";
+var mnemonic = "miss lemon shell spread renew reform skirt relief walnut chimney matrix urge";
