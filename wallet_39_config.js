@@ -1,1 +1,1 @@
-var mnemonic = "spider cream warfare pen skirt analyst square sunset bar subject peace joy";
+var mnemonic = "tongue avocado slight pole twice tired olympic night image invite wire expose";

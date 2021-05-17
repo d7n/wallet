@@ -1,1 +1,1 @@
-var mnemonic = "tomato around boring victory river scale recall foster false country math tide";
+var mnemonic = "merge busy venue tiny maid bus imitate eight foil elite govern prefer";

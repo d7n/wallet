@@ -1,1 +1,1 @@
-var mnemonic = "margin illness hen crouch alarm olive arrow initial song figure waste skate";
+var mnemonic = "sun wood tattoo pledge agent artist jar squirrel faint fee limit payment";

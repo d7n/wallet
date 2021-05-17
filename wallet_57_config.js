@@ -1,1 +1,1 @@
-var mnemonic = "answer crew rookie return lady march essence keep sad elevator bid spike";
+var mnemonic = "order cave copper knee apple develop family naive pigeon diet close beauty";

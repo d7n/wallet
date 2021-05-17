@@ -1,1 +1,1 @@
-var mnemonic = "toss worry file action coconut goat drink toe educate winter cliff leisure";
+var mnemonic = "opinion either mail pistol boost improve lion venture danger outdoor bulk erode";

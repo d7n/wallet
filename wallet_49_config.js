@@ -1,1 +1,1 @@
-var mnemonic = "great theme able genius oil profit return ignore degree anxiety clip unveil";
+var mnemonic = "embody grab vehicle divert leader lady exile economy stem tomato faint month";

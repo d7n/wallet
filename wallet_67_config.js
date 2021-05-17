@@ -1,1 +1,1 @@
-var mnemonic = "damp vintage mansion maple endless start best wedding satisfy power manage fabric";
+var mnemonic = "prize win inside obtain unique ball endless skin quantum defense common horror";

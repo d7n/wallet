@@ -1,1 +1,1 @@
-var mnemonic = "employ nasty balance drink service badge burden erupt awkward silly hole glass";
+var mnemonic = "flee column link hover stumble spell valley whisper worry logic minimum clock";

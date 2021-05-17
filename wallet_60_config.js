@@ -1,1 +1,1 @@
-var mnemonic = "join stone one card dish ritual uncover jacket chief flame stage grab";
+var mnemonic = "recall very glad cute nominee belt fitness island company ten nature price";

@@ -1,1 +1,1 @@
-var mnemonic = "dance advice police fence auction scissors side burst coast oblige shield escape";
+var mnemonic = "rotate cricket able bulb way wear rate hello gentle fork sea vault";

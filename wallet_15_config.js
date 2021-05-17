@@ -1,1 +1,1 @@
-var mnemonic = "another pink sunny month crush inherit bus then actual denial rival mimic";
+var mnemonic = "stool record urge example motor expire crime elevator empty blame scrub object";

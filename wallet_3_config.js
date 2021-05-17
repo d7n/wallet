@@ -1,1 +1,1 @@
-var mnemonic = "sell setup glance pipe forward will tank turtle wolf force scare marble";
+var mnemonic = "clerk sword injury spawn glory profit suffer flavor vicious trick hen hollow";

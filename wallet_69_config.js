@@ -1,1 +1,1 @@
-var mnemonic = "unique effort inherit curious peasant soap tackle holiday castle sadness rally fame";
+var mnemonic = "early bounce staff endless glow evoke aware find hair lemon train sun";

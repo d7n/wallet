@@ -1,1 +1,1 @@
-var mnemonic = "cruise flat object yard aim approve enforce animal hospital exotic spoon film";
+var mnemonic = "aerobic stage wrap divide buddy leave rabbit please distance post goddess cage";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy nothing gesture alarm start proud blue avocado cost napkin retire into";
+var mnemonic = "gym special turtle myself tornado march lazy mammal hill slender wedding solid";

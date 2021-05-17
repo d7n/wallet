@@ -1,1 +1,1 @@
-var mnemonic = "later dove replace also cigar trumpet aerobic broken toddler reflect ankle asset";
+var mnemonic = "cereal imitate together picture fault frog tunnel zebra silent retire goat runway";

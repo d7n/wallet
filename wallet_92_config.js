@@ -1,1 +1,1 @@
-var mnemonic = "mushroom sort hedgehog leaf lecture rebel daughter believe lounge era quick broccoli";
+var mnemonic = "outdoor case usual surprise seat merit harvest large kid educate miracle alone";

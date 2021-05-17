@@ -1,1 +1,1 @@
-var mnemonic = "orchard shiver water fetch potato myth identify rather fatigue mistake connect ozone";
+var mnemonic = "charge cake payment garment panther trial strategy output double beef floor scrub";

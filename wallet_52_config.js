@@ -1,1 +1,1 @@
-var mnemonic = "opera run alley property material march oval resource problem borrow general menu";
+var mnemonic = "board current essay human supply dutch cinnamon culture goose then drift mass";

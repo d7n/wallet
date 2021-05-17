@@ -1,1 +1,1 @@
-var mnemonic = "crumble habit target warrior vivid century submit swamp lounge visual grow hamster";
+var mnemonic = "cool tenant lift script dragon ahead cycle live slow vault trend lab";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse congress staff cook taste switch zoo spike avoid again among attitude";
+var mnemonic = "busy youth melody walk fun trend tunnel what caution under vicious toy";

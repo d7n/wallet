@@ -1,1 +1,1 @@
-var mnemonic = "broom rookie entry butter balance depth garden group find guess maze plastic";
+var mnemonic = "claw power oxygen stick mad capable digital task night angry jelly rural";

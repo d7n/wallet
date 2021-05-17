@@ -1,1 +1,1 @@
-var mnemonic = "energy direct chief general slim holiday giraffe despair senior among wire fantasy";
+var mnemonic = "badge pool casino nuclear leg nominee chimney lawsuit gate flush team hobby";

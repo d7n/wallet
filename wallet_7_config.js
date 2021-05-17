@@ -1,1 +1,1 @@
-var mnemonic = "jump trumpet father skull defense knife capable satoshi alien next benefit lift";
+var mnemonic = "gun lady cart play bomb rib damage twice apology shrimp cute month";

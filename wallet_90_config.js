@@ -1,1 +1,1 @@
-var mnemonic = "arrow mango top soul shove remind cause hello stereo adapt lunar act";
+var mnemonic = "gym barely inflict history furnace grunt jar drill envelope garden index pigeon";

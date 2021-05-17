@@ -1,1 +1,1 @@
-var mnemonic = "episode demand trial only raven scrap alpha core equal swing twist response";
+var mnemonic = "idea now demise deputy icon network transfer enact miracle seek oven oblige";

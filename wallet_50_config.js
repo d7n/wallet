@@ -1,1 +1,1 @@
-var mnemonic = "zone adult chat option artwork fever online other finish shrimp youth wing";
+var mnemonic = "west frost cream plunge soon lift matter warfare lion decrease reason minute";

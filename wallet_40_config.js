@@ -1,1 +1,1 @@
-var mnemonic = "twice stable travel tonight blame switch switch measure balcony trigger gospel cycle";
+var mnemonic = "opera call busy wrap hour drip aisle assist result genre curtain empower";

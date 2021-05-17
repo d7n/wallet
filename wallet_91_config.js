@@ -1,1 +1,1 @@
-var mnemonic = "often twenty decline river exercise cigar object quick eight supply degree jar";
+var mnemonic = "muffin example message feed regular clinic over bomb design guilt ritual welcome";

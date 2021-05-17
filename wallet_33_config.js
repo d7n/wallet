@@ -1,1 +1,1 @@
-var mnemonic = "ripple dragon wrestle oak choice warfare elevator quiz faint goddess donkey surround";
+var mnemonic = "hire attack rural capital repair fish suspect left maximum excite husband long";

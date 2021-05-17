@@ -1,1 +1,1 @@
-var mnemonic = "scale alley october fix major armed trust dolphin news orchard runway slot";
+var mnemonic = "crouch they food hour school laundry sight onion envelope civil maximum tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur door below dove camp student small admit panther code dutch fiction";
+var mnemonic = "outer interest execute era multiply lend rally cricket army arrow picnic lamp";

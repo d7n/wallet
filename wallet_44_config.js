@@ -1,1 +1,1 @@
-var mnemonic = "anger liar energy prefer awful arena chuckle upper rail pudding bulk elder";
+var mnemonic = "atom nephew anger around rural seek security mercy medal address fee remember";

@@ -1,1 +1,1 @@
-var mnemonic = "december tower poet foster bracket blouse vacant come leisure hobby bullet advance";
+var mnemonic = "lemon evoke sunny cruel laundry print shadow submit neutral hockey shrimp solution";

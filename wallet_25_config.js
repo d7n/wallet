@@ -1,1 +1,1 @@
-var mnemonic = "robot account happy middle planet gym web purse oppose final gold found";
+var mnemonic = "spider south three laptop water act matrix joke flag try effort arch";

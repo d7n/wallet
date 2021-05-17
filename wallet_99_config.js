@@ -1,1 +1,1 @@
-var mnemonic = "pioneer work fat old cram private column step squeeze tent resist bench";
+var mnemonic = "dry afford seven squirrel sound portion sketch wisdom approve wide neither volume";

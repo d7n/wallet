@@ -1,1 +1,1 @@
-var mnemonic = "throw human end crush outdoor muffin cruise donate banner brass link still";
+var mnemonic = "sand curtain then assist light scatter pig plate innocent slide fix park";

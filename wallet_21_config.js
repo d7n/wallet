@@ -1,1 +1,1 @@
-var mnemonic = "filter acid clarify nest proud there deputy dry ribbon raw grocery public";
+var mnemonic = "museum language powder prosper hotel sting circle west feel spirit nest box";

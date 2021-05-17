@@ -1,1 +1,1 @@
-var mnemonic = "tuna trash castle ensure bird radar choice current grace fit forward obvious";
+var mnemonic = "spike move express episode carry sister hundred battle harsh drink opera blind";

@@ -1,1 +1,1 @@
-var mnemonic = "village endless stool solution much reward price mistake absent shuffle beach denial";
+var mnemonic = "vocal cluster kiss nose enemy danger cheap grocery alpha zero vast abuse";

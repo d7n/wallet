@@ -1,1 +1,1 @@
-var mnemonic = "begin protect crop hole chapter spoon crush doll salt aim aunt model";
+var mnemonic = "invest budget order neutral echo cloud blame brief tackle glad boring mystery";

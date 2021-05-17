@@ -1,1 +1,1 @@
-var mnemonic = "wing melt brass subject have matter easily throw thought sock usual filter";
+var mnemonic = "stand harsh permit cricket original file human broccoli demand giant online mail";

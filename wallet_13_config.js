@@ -1,1 +1,1 @@
-var mnemonic = "short danger drift liberty addict inject destroy amazing foster always exchange share";
+var mnemonic = "ginger pipe cable bargain north clog region deal snake render diary airport";

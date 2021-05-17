@@ -1,1 +1,1 @@
-var mnemonic = "noodle vast trade planet shallow age enroll sentence first physical because cotton";
+var mnemonic = "subway head heart three correct window image tower cover wash army close";

@@ -1,1 +1,1 @@
-var mnemonic = "improve valley click truly canvas spare room sign crime curve cereal riot";
+var mnemonic = "bundle path legend zoo dream boat pool pencil chapter twelve board mandate";

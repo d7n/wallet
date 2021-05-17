@@ -1,1 +1,1 @@
-var mnemonic = "sugar smile sort false agree volcano safe anxiety furnace hockey ivory roof";
+var mnemonic = "seat nest skate tourist whisper quantum worth service utility dizzy brave gym";

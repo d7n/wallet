@@ -1,1 +1,1 @@
-var mnemonic = "ethics answer scrap unfold same bean stick party clap submit artefact pistol";
+var mnemonic = "odor dress lonely elevator harsh olympic treat thing car crime season diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ranch nut explain lazy lake trick guilt funny banana guitar emerge";
+var mnemonic = "soft boss angry album kitchen come able grid ocean artist cute frost";

@@ -1,1 +1,1 @@
-var mnemonic = "apart best endless nominee hero dress stove brass analyst knock turtle wrist";
+var mnemonic = "vague rocket fiscal organ satisfy learn mind target snap repeat drastic razor";

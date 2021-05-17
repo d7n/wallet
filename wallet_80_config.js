@@ -1,1 +1,1 @@
-var mnemonic = "coach list stairs rent outside differ atom festival basic special pride street";
+var mnemonic = "indoor right chef mountain skill cost rhythm online abandon citizen make caution";

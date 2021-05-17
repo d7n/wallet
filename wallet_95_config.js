@@ -1,1 +1,1 @@
-var mnemonic = "service ketchup assault decorate whip april dad ozone exact convince slow tribe";
+var mnemonic = "float speak bag brisk weapon execute flag crane piece goddess arch pass";

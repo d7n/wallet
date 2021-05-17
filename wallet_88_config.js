@@ -1,1 +1,1 @@
-var mnemonic = "situate swamp solid rug scale risk trim sea biology raise service spike";
+var mnemonic = "cup bind wife logic file attack ring uphold skirt piece renew pig";

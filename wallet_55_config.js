@@ -1,1 +1,1 @@
-var mnemonic = "modify raise swift wall garment priority reason tent father fancy zone orphan";
+var mnemonic = "soup borrow sort crisp tilt tribe fiction best exotic paper nerve patch";

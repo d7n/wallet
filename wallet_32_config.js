@@ -1,1 +1,1 @@
-var mnemonic = "syrup shrimp penalty airport shift lucky clinic copper female grid notice sick";
+var mnemonic = "else skill abstract bless alpha picture grain merit reflect inmate night viable";

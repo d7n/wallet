@@ -1,1 +1,1 @@
-var mnemonic = "muffin gift nose scan runway ring want relax novel virus business broom";
+var mnemonic = "card income tomorrow balance blade arrange cupboard weird catch gravity produce gentle";

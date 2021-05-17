@@ -1,1 +1,1 @@
-var mnemonic = "fatal orange motor provide solve other ethics model captain trust gospel setup";
+var mnemonic = "raise feature shield weather fence air lock mask diesel walnut dumb clay";

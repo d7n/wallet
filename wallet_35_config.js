@@ -1,1 +1,1 @@
-var mnemonic = "insect notable mirror wood input position avoid group focus grab journey grant";
+var mnemonic = "quality economy slim foster drip unaware pluck poverty tattoo idea skull true";

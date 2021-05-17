@@ -1,1 +1,1 @@
-var mnemonic = "away service attend unable enjoy surge asset service bronze dizzy abuse zebra";
+var mnemonic = "pact sugar there carbon thunder bundle collect inner task marriage result notable";

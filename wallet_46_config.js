@@ -1,1 +1,1 @@
-var mnemonic = "mystery prison test tiger trigger slot spare thing phrase pole radio vicious";
+var mnemonic = "wagon come inmate rib marine print sister aware champion web absurd identify";

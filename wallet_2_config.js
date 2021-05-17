@@ -1,1 +1,1 @@
-var mnemonic = "cherry village tunnel frost series ice guard favorite pact lawsuit material response";
+var mnemonic = "vintage canyon engine thunder cake toddler mass nature video chicken stool daring";

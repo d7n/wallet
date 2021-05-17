@@ -1,1 +1,1 @@
-var mnemonic = "kingdom pottery screen issue artefact depth point clog truck tumble angle best";
+var mnemonic = "emerge crumble wasp alter achieve logic live ensure asset degree color pause";

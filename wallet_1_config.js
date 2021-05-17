@@ -1,1 +1,1 @@
-var mnemonic = "edit rich throw rely force impulse trip invest valve over learn left";
+var mnemonic = "hospital multiply hip yellow twist grace define arctic crunch arctic game image";

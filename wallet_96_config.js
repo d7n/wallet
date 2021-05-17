@@ -1,1 +1,1 @@
-var mnemonic = "battle response gate stuff famous solar riot kingdom make cliff arrow master";
+var mnemonic = "pen save gather distance pumpkin one clump plate faint chief diagram subway";

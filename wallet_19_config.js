@@ -1,1 +1,1 @@
-var mnemonic = "elbow season brave rib else arctic anxiety patch curtain rebuild recall choose";
+var mnemonic = "thought tide depend shy acquire garlic ridge save urge view accident action";

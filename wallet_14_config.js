@@ -1,1 +1,1 @@
-var mnemonic = "clown sleep abstract artefact reopen scissors hundred cruise paper across cry portion";
+var mnemonic = "dismiss blood pony liberty ask legend cancel upgrade lake exhibit option slim";

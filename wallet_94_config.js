@@ -1,1 +1,1 @@
-var mnemonic = "neglect strategy sketch weekend language gadget vote alone legal document occur climb";
+var mnemonic = "sugar long wedding hint memory tag fabric where know obey forget thing";

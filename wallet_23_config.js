@@ -1,1 +1,1 @@
-var mnemonic = "young reflect blame carpet planet giant pair lucky still ethics carbon bottom";
+var mnemonic = "gossip loyal cannon now space salon spirit battle symbol smile embrace write";

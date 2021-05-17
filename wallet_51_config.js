@@ -1,1 +1,1 @@
-var mnemonic = "nest feel galaxy crime own dignity assist park mosquito kiwi process mail";
+var mnemonic = "neglect adapt liberty gold taxi basic cup length song ignore orient improve";

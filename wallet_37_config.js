@@ -1,1 +1,1 @@
-var mnemonic = "awake reopen hybrid analyst snow hat move impact pact spawn web slow";
+var mnemonic = "runway idea length action legal fan unable pulp lazy layer veteran wish";

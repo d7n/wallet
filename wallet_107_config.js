@@ -1,1 +1,1 @@
-var mnemonic = "fun random shoulder critic enhance stay permit crush abuse kingdom hill window";
+var mnemonic = "symbol beef wrestle thing air approve mimic sad seed height avoid forest";

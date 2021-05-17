@@ -1,1 +1,1 @@
-var mnemonic = "skirt inhale addict robust obtain gun round settle bind similar transfer divide";
+var mnemonic = "fault execute weekend clinic arrange review winner dinosaur display mobile silent swear";

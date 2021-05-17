@@ -1,1 +1,1 @@
-var mnemonic = "blossom skate abandon maximum glow save kingdom merit beauty merit mountain clarify";
+var mnemonic = "version nerve photo gasp pony aim rhythm pulse tilt such erosion exhaust";

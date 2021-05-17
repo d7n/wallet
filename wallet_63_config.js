@@ -1,1 +1,1 @@
-var mnemonic = "first galaxy journey round above stereo mixed dice cute spatial spell conduct";
+var mnemonic = "claim still boat face dolphin cement real swarm area zero soup lyrics";

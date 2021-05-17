@@ -1,1 +1,1 @@
-var mnemonic = "rice entire elegant soda spirit wrestle vicious lawsuit rookie repeat patrol hospital";
+var mnemonic = "coach alarm true often end peace hurdle hammer broccoli good labor best";

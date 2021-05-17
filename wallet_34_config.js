@@ -1,1 +1,1 @@
-var mnemonic = "view solution card lava deal drum grid enter stay current decade eternal";
+var mnemonic = "cover verb midnight joke lawn father fever sugar very ready prosper dinner";

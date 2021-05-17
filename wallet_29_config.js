@@ -1,1 +1,1 @@
-var mnemonic = "smart wire glide bunker dash subject carbon fee supply shift rose lumber";
+var mnemonic = "barely achieve slogan aspect position gloom warrior correct then energy huge urban";

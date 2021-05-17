@@ -1,1 +1,1 @@
-var mnemonic = "behind inspire mad busy recipe man youth stadium pluck sort home junk";
+var mnemonic = "coffee coin chef clarify wisdom walk attend never ring rhythm priority clown";

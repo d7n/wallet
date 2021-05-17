@@ -1,1 +1,1 @@
-var mnemonic = "entry soup captain clown announce rotate fold suit donor powder zebra able";
+var mnemonic = "art agree bright glare grit segment kite pass joke best bulk front";

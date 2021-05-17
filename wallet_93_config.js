@@ -1,1 +1,1 @@
-var mnemonic = "unique current cloth senior discover fabric reveal example art stadium left joke";
+var mnemonic = "then swap gold emotion jeans office diamond thought sense slush lady bench";

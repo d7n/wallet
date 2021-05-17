@@ -1,1 +1,1 @@
-var mnemonic = "course modify auto message engage green tornado crunch cover romance unhappy daring";
+var mnemonic = "excess trap forum expire direct business zebra stem anger peace power start";

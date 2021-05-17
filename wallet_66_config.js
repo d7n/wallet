@@ -1,1 +1,1 @@
-var mnemonic = "crazy brick electric pond taste tired point exchange obscure fringe neck nasty";
+var mnemonic = "secret warfare travel title truly home item spoil noise artist victory farm";

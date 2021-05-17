@@ -1,1 +1,1 @@
-var mnemonic = "wet fragile cabbage net cabin custom accuse patrol away silly stage snow";
+var mnemonic = "security glow empty amount leaf patient bread unfair wash stomach trade matter";

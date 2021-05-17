@@ -1,1 +1,1 @@
-var mnemonic = "awesome device example fever upon giant rare find walk reform lucky bean";
+var mnemonic = "chimney weasel that fat join abuse cube hen debate honey token body";

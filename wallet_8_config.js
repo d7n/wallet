@@ -1,1 +1,1 @@
-var mnemonic = "club survey position gloom clinic lottery world melt busy able vintage dolphin";
+var mnemonic = "document fame damp case matrix radio spray own loyal cram logic humble";

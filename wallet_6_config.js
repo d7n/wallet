@@ -1,1 +1,1 @@
-var mnemonic = "discover anchor destroy scout catch carry paper build park present peanut reduce";
+var mnemonic = "april grid cycle person copy ride wise cheap mercy return worry stone";
