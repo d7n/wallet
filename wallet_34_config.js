@@ -1,1 +1,1 @@
-var mnemonic = "cover verb midnight joke lawn father fever sugar very ready prosper dinner";
+var mnemonic = "bottom giant know unfold melody require point rabbit episode primary secret parent";

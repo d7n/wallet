@@ -1,1 +1,1 @@
-var mnemonic = "vintage canyon engine thunder cake toddler mass nature video chicken stool daring";
+var mnemonic = "market wool useless glory grief dog repeat print forward memory act learn";

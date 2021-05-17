@@ -1,1 +1,1 @@
-var mnemonic = "secret warfare travel title truly home item spoil noise artist victory farm";
+var mnemonic = "salt seven axis elder kit blade mom betray finger census flight forward";

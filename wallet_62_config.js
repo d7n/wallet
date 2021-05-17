@@ -1,1 +1,1 @@
-var mnemonic = "aerobic stage wrap divide buddy leave rabbit please distance post goddess cage";
+var mnemonic = "ghost decade pledge front victory dismiss solution person almost expose bamboo aisle";

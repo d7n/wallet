@@ -1,1 +1,1 @@
-var mnemonic = "life genuine certain aisle boring believe diary auto coin fossil power expire";
+var mnemonic = "punch never flame jelly loud motor sad camp opinion mind you pyramid";

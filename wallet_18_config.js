@@ -1,1 +1,1 @@
-var mnemonic = "patch speak target business angle tank hub suspect taste enact oil flee";
+var mnemonic = "ugly attend skin exact zoo satoshi climb champion display better acid subway";

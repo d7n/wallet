@@ -1,1 +1,1 @@
-var mnemonic = "devote connect love that mean coil north blast mutual desk always swift";
+var mnemonic = "series sense invite exact camp cable clap bean gesture retire fire able";

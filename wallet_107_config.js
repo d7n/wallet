@@ -1,1 +1,1 @@
-var mnemonic = "symbol beef wrestle thing air approve mimic sad seed height avoid forest";
+var mnemonic = "narrow shoulder turtle begin mass loan keen country myth present mammal clog";

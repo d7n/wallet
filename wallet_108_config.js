@@ -1,1 +1,1 @@
-var mnemonic = "sun wood tattoo pledge agent artist jar squirrel faint fee limit payment";
+var mnemonic = "nothing auto message stumble frog nuclear hover suffer lake stumble clever card";

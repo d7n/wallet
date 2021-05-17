@@ -1,1 +1,1 @@
-var mnemonic = "opinion either mail pistol boost improve lion venture danger outdoor bulk erode";
+var mnemonic = "joy veteran brick junior lab join improve topple canyon rebel minimum trash";

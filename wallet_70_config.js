@@ -1,1 +1,1 @@
-var mnemonic = "agree fire captain maze avoid soldier mobile define double bar wage bread";
+var mnemonic = "youth cycle conduct marble actual excuse catalog between connect access top void";

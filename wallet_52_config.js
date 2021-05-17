@@ -1,1 +1,1 @@
-var mnemonic = "board current essay human supply dutch cinnamon culture goose then drift mass";
+var mnemonic = "fork never width discover decorate response demise future reject enemy shadow speed";

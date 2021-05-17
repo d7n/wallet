@@ -1,1 +1,1 @@
-var mnemonic = "quality economy slim foster drip unaware pluck poverty tattoo idea skull true";
+var mnemonic = "tonight sheriff woman panel divorce muscle combine caution voyage benefit purpose science";

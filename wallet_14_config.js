@@ -1,1 +1,1 @@
-var mnemonic = "dismiss blood pony liberty ask legend cancel upgrade lake exhibit option slim";
+var mnemonic = "gain very math steak off ankle churn inner quarter mammal wrestle swallow";

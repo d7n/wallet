@@ -1,1 +1,1 @@
-var mnemonic = "raise feature shield weather fence air lock mask diesel walnut dumb clay";
+var mnemonic = "cradle scrap layer beach elbow spare submit submit exercise torch remain purity";

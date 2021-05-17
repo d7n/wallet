@@ -1,1 +1,1 @@
-var mnemonic = "museum language powder prosper hotel sting circle west feel spirit nest box";
+var mnemonic = "orbit case can tray riot benefit beef neither deal record fence hole";

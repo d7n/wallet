@@ -1,1 +1,1 @@
-var mnemonic = "vocal cluster kiss nose enemy danger cheap grocery alpha zero vast abuse";
+var mnemonic = "toast genius saddle eternal another blouse sense update million decide must other";

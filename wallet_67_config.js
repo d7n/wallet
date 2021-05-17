@@ -1,1 +1,1 @@
-var mnemonic = "prize win inside obtain unique ball endless skin quantum defense common horror";
+var mnemonic = "elephant worth master blossom right cherry such train erupt unhappy sound track";

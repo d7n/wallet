@@ -1,1 +1,1 @@
-var mnemonic = "seat nest skate tourist whisper quantum worth service utility dizzy brave gym";
+var mnemonic = "awkward dish stable pattern movie pelican ride traffic wrestle jelly nest number";

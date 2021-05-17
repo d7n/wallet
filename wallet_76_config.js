@@ -1,1 +1,1 @@
-var mnemonic = "security glow empty amount leaf patient bread unfair wash stomach trade matter";
+var mnemonic = "private number cool cross south frog rocket earn trial eyebrow priority human";

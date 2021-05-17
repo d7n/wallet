@@ -1,1 +1,1 @@
-var mnemonic = "pink limb visual business decade replace steak never visa grunt cute estate";
+var mnemonic = "globe jelly easily glance cotton label panther idea viable maze month topic";

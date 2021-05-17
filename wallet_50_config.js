@@ -1,1 +1,1 @@
-var mnemonic = "west frost cream plunge soon lift matter warfare lion decrease reason minute";
+var mnemonic = "clown midnight voice trash rug boat sight air over float swarm iron";

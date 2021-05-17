@@ -1,1 +1,1 @@
-var mnemonic = "bundle path legend zoo dream boat pool pencil chapter twelve board mandate";
+var mnemonic = "index top wing uncle age can victory odor target divert airport jealous";

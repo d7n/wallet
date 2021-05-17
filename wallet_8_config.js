@@ -1,1 +1,1 @@
-var mnemonic = "document fame damp case matrix radio spray own loyal cram logic humble";
+var mnemonic = "job foster supply rival lizard medal defy curve duck bless secret maze";

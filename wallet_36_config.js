@@ -1,1 +1,1 @@
-var mnemonic = "crew ordinary test jump shift throw remind lawn diagram jazz behave brand";
+var mnemonic = "rose vault bind essay october mammal title general scissors flee dash laundry";

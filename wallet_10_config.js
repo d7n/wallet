@@ -1,1 +1,1 @@
-var mnemonic = "fault execute weekend clinic arrange review winner dinosaur display mobile silent swear";
+var mnemonic = "joke diet protect metal ready mutual unable item ten web during august";

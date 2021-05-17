@@ -1,1 +1,1 @@
-var mnemonic = "else skill abstract bless alpha picture grain merit reflect inmate night viable";
+var mnemonic = "similar wreck cash uphold kidney bench keep car expect tail bread dry";

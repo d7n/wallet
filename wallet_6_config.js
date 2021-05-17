@@ -1,1 +1,1 @@
-var mnemonic = "april grid cycle person copy ride wise cheap mercy return worry stone";
+var mnemonic = "primary cram budget suffer predict dawn aerobic moral butter pioneer shift capable";

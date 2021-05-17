@@ -1,1 +1,1 @@
-var mnemonic = "box actress strike myth april march season broom upset rare security hospital";
+var mnemonic = "father quarter change remind soon clap genuine tornado dentist make elder busy";

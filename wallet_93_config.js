@@ -1,1 +1,1 @@
-var mnemonic = "then swap gold emotion jeans office diamond thought sense slush lady bench";
+var mnemonic = "urban culture foot song tortoise limit one robust poem govern intact room";

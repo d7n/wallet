@@ -1,1 +1,1 @@
-var mnemonic = "lazy nuclear gather inhale fox win lazy spray accident ship grief omit";
+var mnemonic = "rocket apple coach dizzy drum solid audit robust idea olympic student enforce";

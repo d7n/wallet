@@ -1,1 +1,1 @@
-var mnemonic = "pen save gather distance pumpkin one clump plate faint chief diagram subway";
+var mnemonic = "hold torch wrap envelope step crew expire warrior agree salt army north";

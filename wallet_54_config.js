@@ -1,1 +1,1 @@
-var mnemonic = "outer interest execute era multiply lend rally cricket army arrow picnic lamp";
+var mnemonic = "truck punch replace asset tiger elevator huge casino lonely alley hour marriage";

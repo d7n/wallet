@@ -1,1 +1,1 @@
-var mnemonic = "merge busy venue tiny maid bus imitate eight foil elite govern prefer";
+var mnemonic = "list connect bench fiction win evolve horse volume ensure since trick link";

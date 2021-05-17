@@ -1,1 +1,1 @@
-var mnemonic = "coffee coin chef clarify wisdom walk attend never ring rhythm priority clown";
+var mnemonic = "breeze foil tail time rice wedding cost road sadness slush enrich slide";

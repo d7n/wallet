@@ -1,1 +1,1 @@
-var mnemonic = "rice raise sadness unaware style couch pottery now food brother humor say";
+var mnemonic = "fuel olympic trip wild achieve blind include aunt sentence soft initial blur";

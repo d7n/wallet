@@ -1,1 +1,1 @@
-var mnemonic = "ship mutual cake offer write turn timber again ready bird tragic amused";
+var mnemonic = "margin narrow public husband cycle blanket embrace paddle shaft river just atom";

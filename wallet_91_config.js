@@ -1,1 +1,1 @@
-var mnemonic = "muffin example message feed regular clinic over bomb design guilt ritual welcome";
+var mnemonic = "fork brass crunch prison output detail stand scorpion host phone cable another";

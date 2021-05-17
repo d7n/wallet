@@ -1,1 +1,1 @@
-var mnemonic = "vague rocket fiscal organ satisfy learn mind target snap repeat drastic razor";
+var mnemonic = "rebel crystal speed seminar wagon skin bonus winter myth elegant farm helmet";

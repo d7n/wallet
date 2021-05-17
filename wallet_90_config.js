@@ -1,1 +1,1 @@
-var mnemonic = "gym barely inflict history furnace grunt jar drill envelope garden index pigeon";
+var mnemonic = "stove border grunt setup mother shallow sheriff guard buffalo present example main";

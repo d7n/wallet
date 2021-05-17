@@ -1,1 +1,1 @@
-var mnemonic = "stool record urge example motor expire crime elevator empty blame scrub object";
+var mnemonic = "unhappy dynamic spread obscure tent reduce atom network mail fame sock multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "sand curtain then assist light scatter pig plate innocent slide fix park";
+var mnemonic = "work spatial snack business clump frost minimum slab debris motion artefact grace";

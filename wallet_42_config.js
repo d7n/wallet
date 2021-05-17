@@ -1,1 +1,1 @@
-var mnemonic = "idea now demise deputy icon network transfer enact miracle seek oven oblige";
+var mnemonic = "army silent city afford enact know picture cricket cruel stuff tortoise enable";

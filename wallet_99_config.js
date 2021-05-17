@@ -1,1 +1,1 @@
-var mnemonic = "dry afford seven squirrel sound portion sketch wisdom approve wide neither volume";
+var mnemonic = "warrior real immense attend talk helmet slow evidence display saddle few blur";

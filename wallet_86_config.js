@@ -1,1 +1,1 @@
-var mnemonic = "version nerve photo gasp pony aim rhythm pulse tilt such erosion exhaust";
+var mnemonic = "ocean foster pupil train space exhaust venue carpet inhale thank primary payment";

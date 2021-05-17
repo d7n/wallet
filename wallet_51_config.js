@@ -1,1 +1,1 @@
-var mnemonic = "neglect adapt liberty gold taxi basic cup length song ignore orient improve";
+var mnemonic = "strategy menu lamp claim disease enroll text nation rocket bleak truck win";

@@ -1,1 +1,1 @@
-var mnemonic = "soul busy degree daring grid era jewel fragile gauge time wrap machine";
+var mnemonic = "invite avocado subway security sport tank senior math loan beef age critic";

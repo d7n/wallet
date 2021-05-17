@@ -1,1 +1,1 @@
-var mnemonic = "soft boss angry album kitchen come able grid ocean artist cute frost";
+var mnemonic = "company thrive divide point crash genius dinosaur city collect position file zone";

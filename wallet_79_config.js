@@ -1,1 +1,1 @@
-var mnemonic = "crouch they food hour school laundry sight onion envelope civil maximum tiger";
+var mnemonic = "bleak vague abuse spider proof present dream stereo supply board lend cage";

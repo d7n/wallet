@@ -1,1 +1,1 @@
-var mnemonic = "cup bind wife logic file attack ring uphold skirt piece renew pig";
+var mnemonic = "clarify release mango lava mango fruit mutual unknown silent dial coil question";

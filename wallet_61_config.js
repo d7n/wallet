@@ -1,1 +1,1 @@
-var mnemonic = "cereal imitate together picture fault frog tunnel zebra silent retire goat runway";
+var mnemonic = "theory soup betray trip mouse style edit cheese farm prefer slogan naive";

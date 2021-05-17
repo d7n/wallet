@@ -1,1 +1,1 @@
-var mnemonic = "mercy limit palace between sight urge maid surge task attend industry since";
+var mnemonic = "material verb oval easy help provide gift robot talk glimpse word course";

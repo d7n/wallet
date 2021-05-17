@@ -1,1 +1,1 @@
-var mnemonic = "castle night security bullet toilet pact giant move sausage garbage ball genius";
+var mnemonic = "talent auction season bargain ketchup live bunker disagree endless blind truck two";

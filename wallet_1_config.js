@@ -1,1 +1,1 @@
-var mnemonic = "hospital multiply hip yellow twist grace define arctic crunch arctic game image";
+var mnemonic = "runway next taxi mutual orchard oppose crime burden celery wash nest sign";

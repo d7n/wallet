@@ -1,1 +1,1 @@
-var mnemonic = "method ostrich inside marine argue left letter chicken margin also trust turn";
+var mnemonic = "error rival pigeon approve mobile envelope butter tumble order vault predict inspire";

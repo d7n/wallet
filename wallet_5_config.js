@@ -1,1 +1,1 @@
-var mnemonic = "fetch shop region proof vendor own coach silent castle rate connect disagree";
+var mnemonic = "spin hole usage young ordinary abstract destroy thank second nurse right online";

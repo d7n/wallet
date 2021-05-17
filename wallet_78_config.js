@@ -1,1 +1,1 @@
-var mnemonic = "excess trap forum expire direct business zebra stem anger peace power start";
+var mnemonic = "fluid syrup shock orchard dose park dinner bitter motion fiction broken fish";

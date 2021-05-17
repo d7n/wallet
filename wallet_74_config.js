@@ -1,1 +1,1 @@
-var mnemonic = "charge cake payment garment panther trial strategy output double beef floor scrub";
+var mnemonic = "tired umbrella lawsuit noodle enjoy number capable unveil bulk shove clown banner";

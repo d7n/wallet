@@ -1,1 +1,1 @@
-var mnemonic = "gym special turtle myself tornado march lazy mammal hill slender wedding solid";
+var mnemonic = "all marble moon suit security fancy month grace neglect prepare tornado below";

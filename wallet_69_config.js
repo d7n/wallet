@@ -1,1 +1,1 @@
-var mnemonic = "early bounce staff endless glow evoke aware find hair lemon train sun";
+var mnemonic = "slogan warm arrest skirt glide congress goose liar decade put analyst coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "train wrestle network parade vote enact harvest pill century gas auction mercy";
+var mnemonic = "cake public maple hollow speak tip blossom such upon shop window ripple";

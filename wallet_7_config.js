@@ -1,1 +1,1 @@
-var mnemonic = "gun lady cart play bomb rib damage twice apology shrimp cute month";
+var mnemonic = "leader uniform rookie cost trick tool silver solve print tool adjust drink";

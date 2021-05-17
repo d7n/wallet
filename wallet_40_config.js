@@ -1,1 +1,1 @@
-var mnemonic = "opera call busy wrap hour drip aisle assist result genre curtain empower";
+var mnemonic = "aisle echo boat because merry exclude direct trash fantasy sword armor health";

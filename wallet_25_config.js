@@ -1,1 +1,1 @@
-var mnemonic = "spider south three laptop water act matrix joke flag try effort arch";
+var mnemonic = "umbrella million glimpse mind struggle track famous tuna transfer will usage vanish";

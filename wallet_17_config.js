@@ -1,1 +1,1 @@
-var mnemonic = "cool tenant lift script dragon ahead cycle live slow vault trend lab";
+var mnemonic = "scare easy taste promote credit coach truly toast orchard sauce save math";

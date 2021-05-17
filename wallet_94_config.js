@@ -1,1 +1,1 @@
-var mnemonic = "sugar long wedding hint memory tag fabric where know obey forget thing";
+var mnemonic = "cherry rather cattle remain utility agent federal dance front charge crush meadow";

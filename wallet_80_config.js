@@ -1,1 +1,1 @@
-var mnemonic = "indoor right chef mountain skill cost rhythm online abandon citizen make caution";
+var mnemonic = "fog foam slab essay elder lady you fish excite build lock index";

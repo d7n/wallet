@@ -1,1 +1,1 @@
-var mnemonic = "claw power oxygen stick mad capable digital task night angry jelly rural";
+var mnemonic = "satoshi forest swing scatter cream trade say table edit segment water skill";

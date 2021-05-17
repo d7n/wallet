@@ -1,1 +1,1 @@
-var mnemonic = "stand harsh permit cricket original file human broccoli demand giant online mail";
+var mnemonic = "razor pitch tuna display upon pattern festival snow figure decrease buffalo curtain";

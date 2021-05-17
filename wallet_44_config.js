@@ -1,1 +1,1 @@
-var mnemonic = "atom nephew anger around rural seek security mercy medal address fee remember";
+var mnemonic = "club uphold saddle employ move search print butter occur copy frequent universe";

@@ -1,1 +1,1 @@
-var mnemonic = "busy youth melody walk fun trend tunnel what caution under vicious toy";
+var mnemonic = "boring jar census increase vital sure kick exit unveil catalog tuna arena";

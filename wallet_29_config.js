@@ -1,1 +1,1 @@
-var mnemonic = "barely achieve slogan aspect position gloom warrior correct then energy huge urban";
+var mnemonic = "yard thunder profit cherry voyage rose pole oval quarter term pause math";

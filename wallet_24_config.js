@@ -1,1 +1,1 @@
-var mnemonic = "salad still theme hire valley crucial item few scheme diet afraid accuse";
+var mnemonic = "input smart jewel labor also slight educate return olympic fix hotel viable";

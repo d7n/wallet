@@ -1,1 +1,1 @@
-var mnemonic = "lemon evoke sunny cruel laundry print shadow submit neutral hockey shrimp solution";
+var mnemonic = "rare short reform grant note mom train inform crystal name pond buyer";

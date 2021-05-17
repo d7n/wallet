@@ -1,1 +1,1 @@
-var mnemonic = "jacket dial eye laugh kick fire length wonder among promote talent pulse";
+var mnemonic = "tongue idle wealth card arm evil detect flush enroll reward sustain tube";

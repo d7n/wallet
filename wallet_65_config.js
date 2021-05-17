@@ -1,1 +1,1 @@
-var mnemonic = "explain document cart vague earn husband stem fault blood sunny noodle enlist";
+var mnemonic = "become web dutch table vendor vacant color risk march captain ship decide";

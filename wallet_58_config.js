@@ -1,1 +1,1 @@
-var mnemonic = "chimney weasel that fat join abuse cube hen debate honey token body";
+var mnemonic = "dwarf camera inmate brass vivid brisk fault judge smile place culture device";

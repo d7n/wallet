@@ -1,1 +1,1 @@
-var mnemonic = "easy length kitchen height street vehicle master kitchen tribe guide rule rib";
+var mnemonic = "mistake foil negative flame vivid toe cable defy paper blue camp end";

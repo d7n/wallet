@@ -1,1 +1,1 @@
-var mnemonic = "wagon come inmate rib marine print sister aware champion web absurd identify";
+var mnemonic = "ticket elbow miracle spawn wire agent brain walnut wasp quality confirm joke";

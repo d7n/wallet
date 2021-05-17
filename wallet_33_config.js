@@ -1,1 +1,1 @@
-var mnemonic = "hire attack rural capital repair fish suspect left maximum excite husband long";
+var mnemonic = "fog bounce beyond artist entire below describe quantum holiday solution true faculty";

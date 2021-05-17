@@ -1,1 +1,1 @@
-var mnemonic = "tongue avocado slight pole twice tired olympic night image invite wire expose";
+var mnemonic = "tonight antique hood before island remember inquiry normal ticket gap perfect crack";

@@ -1,1 +1,1 @@
-var mnemonic = "card income tomorrow balance blade arrange cupboard weird catch gravity produce gentle";
+var mnemonic = "enable mesh canoe bulb forum ritual license grunt since head reduce vintage";

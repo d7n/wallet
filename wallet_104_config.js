@@ -1,1 +1,1 @@
-var mnemonic = "wrestle grass oven ranch push spice about feel rice retreat whale this";
+var mnemonic = "cloth army rocket world enough car lunch when night elephant gallery fiction";

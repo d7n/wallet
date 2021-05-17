@@ -1,1 +1,1 @@
-var mnemonic = "coach alarm true often end peace hurdle hammer broccoli good labor best";
+var mnemonic = "blur drift cruel pioneer ensure dove this window swarm fire exchange concert";

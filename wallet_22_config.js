@@ -1,1 +1,1 @@
-var mnemonic = "emerge crumble wasp alter achieve logic live ensure asset degree color pause";
+var mnemonic = "jungle exit polar mail grocery merge culture wagon desk lottery hospital forest";

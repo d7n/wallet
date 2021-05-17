@@ -1,1 +1,1 @@
-var mnemonic = "invest budget order neutral echo cloud blame brief tackle glad boring mystery";
+var mnemonic = "helmet ability carbon spring appear attack half mammal sheriff legend remind orange";

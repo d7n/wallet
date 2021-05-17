@@ -1,1 +1,1 @@
-var mnemonic = "ginger pipe cable bargain north clog region deal snake render diary airport";
+var mnemonic = "mad hollow dog kiss frown scale ahead paddle what fire legend leg";

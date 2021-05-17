@@ -1,1 +1,1 @@
-var mnemonic = "pact sugar there carbon thunder bundle collect inner task marriage result notable";
+var mnemonic = "jewel carbon else loan illness today dumb eager sure question there gather";

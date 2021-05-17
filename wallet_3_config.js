@@ -1,1 +1,1 @@
-var mnemonic = "clerk sword injury spawn glory profit suffer flavor vicious trick hen hollow";
+var mnemonic = "witness pistol salt engage health sunset someone scissors public supply game action";

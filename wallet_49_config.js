@@ -1,1 +1,1 @@
-var mnemonic = "embody grab vehicle divert leader lady exile economy stem tomato faint month";
+var mnemonic = "amused truly wave arm sauce swim eager boil violin fold little topple";

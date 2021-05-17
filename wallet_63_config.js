@@ -1,1 +1,1 @@
-var mnemonic = "claim still boat face dolphin cement real swarm area zero soup lyrics";
+var mnemonic = "giggle cake spray dilemma thrive soul pumpkin edit eyebrow infant lens garment";

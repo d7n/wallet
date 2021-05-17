@@ -1,1 +1,1 @@
-var mnemonic = "runway idea length action legal fan unable pulp lazy layer veteran wish";
+var mnemonic = "news own mammal style mandate patch habit dentist exchange regret gym harsh";

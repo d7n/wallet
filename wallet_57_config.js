@@ -1,1 +1,1 @@
-var mnemonic = "order cave copper knee apple develop family naive pigeon diet close beauty";
+var mnemonic = "scrub anchor top verb normal wool end acid cat item junior finger";

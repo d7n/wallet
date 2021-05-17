@@ -1,1 +1,1 @@
-var mnemonic = "outdoor case usual surprise seat merit harvest large kid educate miracle alone";
+var mnemonic = "special way bundle castle error trick drink best walk clarify noodle patient";

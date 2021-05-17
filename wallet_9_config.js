@@ -1,1 +1,1 @@
-var mnemonic = "art agree bright glare grit segment kite pass joke best bulk front";
+var mnemonic = "patrol nature mistake essence kingdom often recipe sail airport mixture cupboard auto";
