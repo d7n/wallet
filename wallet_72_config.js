@@ -1,1 +1,1 @@
-var mnemonic = "alter speed rhythm medal program slow address voice movie edit route print";
+var mnemonic = "flip common cycle enlist slim trick assume table lunch idle double satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover walk guitar sniff private forward cover benefit honey desk human squeeze";
+var mnemonic = "maze cheap shove supreme table merge album wheat comfort survey kidney arrest";

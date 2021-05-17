@@ -1,1 +1,1 @@
-var mnemonic = "noise glory mimic rug upset sound taxi wisdom scorpion balcony old vanish";
+var mnemonic = "junior alarm crystal asthma wagon neglect thank ethics fancy comic uniform either";

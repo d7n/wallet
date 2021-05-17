@@ -1,1 +1,1 @@
-var mnemonic = "horse service federal give hundred milk focus desert run foil ghost net";
+var mnemonic = "expire leave decrease sweet enjoy damage disagree vivid wasp fold upon cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic current fatal clown know clever kitchen marine wheel deliver token range";
+var mnemonic = "end hotel size diagram scrub bid toe core question liberty damage brown";

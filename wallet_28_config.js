@@ -1,1 +1,1 @@
-var mnemonic = "draft echo primary cram universe clutch economy rude cupboard velvet detect duty";
+var mnemonic = "road lava bridge account squeeze secret index onion divide scene super envelope";

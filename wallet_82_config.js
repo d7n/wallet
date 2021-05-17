@@ -1,1 +1,1 @@
-var mnemonic = "nice weekend dish tone scare whisper issue material shrimp symptom flush black";
+var mnemonic = "wealth inquiry gold theory average damage have you slender silent edit shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "promote sun merit spring hard veteran bronze excuse liar venture click pen";
+var mnemonic = "coil vivid lazy route anxiety news bus duck inmate sauce master filter";

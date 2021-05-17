@@ -1,1 +1,1 @@
-var mnemonic = "draft ten invite pelican hurry chicken habit time south consider rigid extend";
+var mnemonic = "avocado say pudding fame addict turn dynamic bicycle sponsor tray sight eyebrow";

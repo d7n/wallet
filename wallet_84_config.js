@@ -1,1 +1,1 @@
-var mnemonic = "reject tube evidence rally heart spare zero cattle mystery square auto alien";
+var mnemonic = "math order excuse attack spray this crunch robot emerge smart original faith";

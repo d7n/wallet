@@ -1,1 +1,1 @@
-var mnemonic = "betray hold decrease another fault plastic polar meadow tip public grant hockey";
+var mnemonic = "install pass cook present age naive woman trend number crumble kitchen basic";

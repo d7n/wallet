@@ -1,1 +1,1 @@
-var mnemonic = "census mixed ready cash drop glide pledge virtual armed fiction reduce sibling";
+var mnemonic = "brother bus resource grid urban soldier caught physical affair pact police shrug";

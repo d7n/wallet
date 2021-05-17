@@ -1,1 +1,1 @@
-var mnemonic = "smooth speak enrich post scorpion artwork social spider soon hundred three super";
+var mnemonic = "assume clock cliff you torch entire tower aspect prefer garlic enter dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "bag push scrap hurdle situate short capable expire year spin flash ski";
+var mnemonic = "recycle energy dinner lobster twist attend correct device this tooth marriage dash";

@@ -1,1 +1,1 @@
-var mnemonic = "tone genius daring april laptop letter apology impulse start point spatial cannon";
+var mnemonic = "cattle enact forward again universe egg level scrap meadow return bean sudden";

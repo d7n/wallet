@@ -1,1 +1,1 @@
-var mnemonic = "cotton journey cheese almost cousin lady best social rule abuse ready define";
+var mnemonic = "second farm reunion hedgehog resist finger kind mystery post explain cruise delay";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican hockey useless glass away jaguar lesson become aim blouse attack easily";
+var mnemonic = "alien junior cat acid pool left someone code sample jeans shock athlete";

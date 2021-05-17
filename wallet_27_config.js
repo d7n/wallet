@@ -1,1 +1,1 @@
-var mnemonic = "jazz cloud cactus subway middle bullet gentle accident fire split poem depart";
+var mnemonic = "ecology dynamic abuse spend grunt wide tiny uncle mouse sell tongue bacon";

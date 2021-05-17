@@ -1,1 +1,1 @@
-var mnemonic = "bid coral raw sand add order donor border end grief grunt tide";
+var mnemonic = "tuition vague obey smart antique stereo build taste burger debate nuclear resemble";

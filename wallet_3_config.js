@@ -1,1 +1,1 @@
-var mnemonic = "modify number basket huge chunk soccer panel vocal surge fluid such spend";
+var mnemonic = "rule idea clean jaguar genuine inside win brain misery inflict market crop";

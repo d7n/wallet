@@ -1,1 +1,1 @@
-var mnemonic = "unfair correct axis human shoe body roast hood right awake matrix intact";
+var mnemonic = "wish session spoil famous bar exotic sniff identify sea picture myth jeans";

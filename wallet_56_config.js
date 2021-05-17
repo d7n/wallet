@@ -1,1 +1,1 @@
-var mnemonic = "little song scissors magic believe truly salad useless estate pistol wish myth";
+var mnemonic = "festival joy visual laugh stem domain dust bitter width ensure unfair sort";

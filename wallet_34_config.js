@@ -1,1 +1,1 @@
-var mnemonic = "fox meadow doctor wall know genre top cattle faculty mystery buffalo diamond";
+var mnemonic = "various meadow income piano okay actor awake rather lounge bless supply cheese";

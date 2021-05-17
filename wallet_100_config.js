@@ -1,1 +1,1 @@
-var mnemonic = "shed okay rotate flavor young grab make glance spare term situate exit";
+var mnemonic = "vibrant distance street age digital cancel inform funny better music depth sustain";

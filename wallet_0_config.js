@@ -1,1 +1,1 @@
-var mnemonic = "control novel grunt supply swear theory snow lens cheap traffic organ actual";
+var mnemonic = "cotton brave mosquito because year section meadow throw cigar squeeze museum evil";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle base will peanut wasp patrol chunk crawl dice immense evoke nuclear";
+var mnemonic = "consider erase crush wash denial chef voyage slender school cash wild aware";

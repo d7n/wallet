@@ -1,1 +1,1 @@
-var mnemonic = "tuna fossil bubble uncover envelope lottery soldier ecology much arctic forget any";
+var mnemonic = "attend crater noodle gadget stem matrix oven glove setup emerge inch amount";

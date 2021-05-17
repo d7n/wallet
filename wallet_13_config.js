@@ -1,1 +1,1 @@
-var mnemonic = "latin large tourist page sure option amateur top very shed quote butter";
+var mnemonic = "exhibit ride bean cash brand hollow creek observe chat alter poverty romance";

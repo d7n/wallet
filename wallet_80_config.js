@@ -1,1 +1,1 @@
-var mnemonic = "volume hurry enact crunch diamond foam nation add fatal dolphin scorpion opera";
+var mnemonic = "guard chat near father layer top inherit broom path lumber fox symbol";

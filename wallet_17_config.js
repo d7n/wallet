@@ -1,1 +1,1 @@
-var mnemonic = "remind notable position original cry gown pyramid release awesome angle organ glove";
+var mnemonic = "common engage tuition boat slight gain naive remember normal hurt birth debris";

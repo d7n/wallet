@@ -1,1 +1,1 @@
-var mnemonic = "universe list cattle insect motion bundle copper place apart zone sense draw";
+var mnemonic = "decrease bone fossil script ivory coil glue father humble gorilla axis cry";

@@ -1,1 +1,1 @@
-var mnemonic = "extra afraid frown unfold below auto school across fabric crack loan buzz";
+var mnemonic = "remind then quick put brief behind purity kit sea stem loop supreme";

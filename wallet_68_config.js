@@ -1,1 +1,1 @@
-var mnemonic = "evolve deliver tragic gesture fabric dream skill glow side fit lecture material";
+var mnemonic = "top okay door seed dignity steel happy video truth timber lazy club";

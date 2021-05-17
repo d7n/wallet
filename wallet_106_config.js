@@ -1,1 +1,1 @@
-var mnemonic = "mixture hamster obtain gospel tooth pledge era mercy shove ordinary oil jungle";
+var mnemonic = "regret slight nurse security warm figure volume guess discover school hour mimic";

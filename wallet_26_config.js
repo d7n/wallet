@@ -1,1 +1,1 @@
-var mnemonic = "pond coral shove replace small ugly cook open clock follow hazard purpose";
+var mnemonic = "wise aunt tool mango wreck ship faculty shrimp slab finger chalk chalk";

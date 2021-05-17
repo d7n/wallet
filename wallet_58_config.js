@@ -1,1 +1,1 @@
-var mnemonic = "situate envelope arrest connect spring deposit coach cover useful easily lawn old";
+var mnemonic = "ranch always okay try mystery horn test repair bamboo that erase toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond foster you exchange verify horn ridge bulk tomorrow pigeon lab shoot";
+var mnemonic = "similar feature story liar swim box run entry sibling celery cook box";

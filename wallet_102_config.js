@@ -1,1 +1,1 @@
-var mnemonic = "asset carpet inner will federal payment column blame explain enough trigger manage";
+var mnemonic = "allow misery perfect modify know cargo spot poem enforce valid easily basket";

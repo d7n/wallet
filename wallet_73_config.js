@@ -1,1 +1,1 @@
-var mnemonic = "assist enrich awake motor frame spare olympic marine call oyster blind fortune";
+var mnemonic = "river effort rescue swarm sick appear early gate order sorry victory glad";

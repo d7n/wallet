@@ -1,1 +1,1 @@
-var mnemonic = "diet rate chief virtual any grass famous light report icon marine person";
+var mnemonic = "spoon front index audit health unknown reject length deer express fashion unveil";

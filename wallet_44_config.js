@@ -1,1 +1,1 @@
-var mnemonic = "debate small shiver math path cook burden diamond base million jaguar topic";
+var mnemonic = "online tone consider problem journey puppy elegant rice snow finger add blade";

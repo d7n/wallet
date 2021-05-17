@@ -1,1 +1,1 @@
-var mnemonic = "theme gospel wedding seat useless quit echo habit solid change charge actress";
+var mnemonic = "shoe arrive doctor brief media split banner differ proud attract brother similar";

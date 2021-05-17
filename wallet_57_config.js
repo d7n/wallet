@@ -1,1 +1,1 @@
-var mnemonic = "slim farm artist congress silly knife pattern depend early old update local";
+var mnemonic = "nasty couch order evolve number health search vital arena own fragile embrace";

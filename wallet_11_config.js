@@ -1,1 +1,1 @@
-var mnemonic = "auction rather arrange dutch demand airport tone ginger glimpse embody boat practice";
+var mnemonic = "clean narrow essay atom battle public firm elder toilet autumn insane pond";

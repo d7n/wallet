@@ -1,1 +1,1 @@
-var mnemonic = "radio table output picnic pretty resemble control valley gun smile chunk shoulder";
+var mnemonic = "burden base tray process panel rural describe video pave excite result chapter";

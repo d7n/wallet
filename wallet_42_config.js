@@ -1,1 +1,1 @@
-var mnemonic = "debris chief black boost minute parade frost predict bronze cabin napkin erupt";
+var mnemonic = "review shoot supply section basket slide iron camera dish margin tired attract";

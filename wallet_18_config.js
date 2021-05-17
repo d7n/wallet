@@ -1,1 +1,1 @@
-var mnemonic = "mutual ski above stage zone paper stand when token slogan file pitch";
+var mnemonic = "hawk galaxy guess nasty cherry web light evil table ladder glimpse catch";

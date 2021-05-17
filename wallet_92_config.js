@@ -1,1 +1,1 @@
-var mnemonic = "cotton energy between save help boss hair general teach spice bracket act";
+var mnemonic = "nephew mobile royal viable vessel check lucky affair design ozone approve cancel";

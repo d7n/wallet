@@ -1,1 +1,1 @@
-var mnemonic = "bulk supply wrong piano canyon quality caution neutral opinion pave cattle obtain";
+var mnemonic = "dizzy pool awkward inherit match orange security resource law success guitar trigger";

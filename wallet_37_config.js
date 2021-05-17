@@ -1,1 +1,1 @@
-var mnemonic = "illegal rigid network drastic scorpion furnace surprise impose pet bike ski vintage";
+var mnemonic = "stick tissue over eye arrange expire forest reject near pig sketch pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "forward leg jelly face holiday satoshi talent science fragile glide argue orphan";
+var mnemonic = "primary news reunion wrestle short scale balcony dress edge robust amateur picnic";

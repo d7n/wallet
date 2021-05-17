@@ -1,1 +1,1 @@
-var mnemonic = "prefer become remind twenty buffalo know hungry apology hundred arch endless fabric";
+var mnemonic = "student slim rent injury track another penalty chunk enlist tribe record ginger";

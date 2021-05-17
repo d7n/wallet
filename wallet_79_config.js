@@ -1,1 +1,1 @@
-var mnemonic = "cement jump involve tennis special current slow drink birth furnace wink music";
+var mnemonic = "deal walnut pen south embark youth execute mail emerge cube kangaroo thought";

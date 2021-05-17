@@ -1,1 +1,1 @@
-var mnemonic = "brother original legal harbor tiny walnut supreme confirm obvious soccer lab consider";
+var mnemonic = "attend frost convince lonely diagram license unfair later galaxy festival supply blade";

@@ -1,1 +1,1 @@
-var mnemonic = "fat segment subway fiction that photo blue welcome boy bounce beef admit";
+var mnemonic = "midnight squirrel reform settle lucky comfort vocal enforce vicious mind curious clock";

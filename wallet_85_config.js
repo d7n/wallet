@@ -1,1 +1,1 @@
-var mnemonic = "region region maple february glare nominee west purse aspect broom symbol mom";
+var mnemonic = "eager proud cause pride hamster pledge empower beef submit tuna exclude panel";

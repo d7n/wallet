@@ -1,1 +1,1 @@
-var mnemonic = "town mobile picnic strike nominee save biology brisk hello round screen basket";
+var mnemonic = "soft forward salmon robot youth bid volume slight funny plug capital april";

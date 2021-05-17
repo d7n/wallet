@@ -1,1 +1,1 @@
-var mnemonic = "tone loan brown east leg opera oven reveal vast magnet girl pet";
+var mnemonic = "olympic alter stereo absorb element merge hawk someone since street sense abandon";

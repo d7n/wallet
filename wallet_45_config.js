@@ -1,1 +1,1 @@
-var mnemonic = "charge fantasy sword unhappy super october rocket twenty sea monkey opera era";
+var mnemonic = "diesel lamp nominee action note exercise disease like best nephew urban kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "animal culture outside hurry razor verify safe trim brick noise possible climb";
+var mnemonic = "burger belt dose hockey chuckle come multiply torch deposit position burden much";

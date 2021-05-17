@@ -1,1 +1,1 @@
-var mnemonic = "evoke upgrade pulse skin invest sunny fortune deliver cruise mutual original sort";
+var mnemonic = "hamster vital army sail raven sadness cross small plug level surface reunion";

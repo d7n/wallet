@@ -1,1 +1,1 @@
-var mnemonic = "hamster wage fire traffic vendor feel note dish hire sunset glide cliff";
+var mnemonic = "edge broccoli blush table stool eye theme roof access tired wire hollow";

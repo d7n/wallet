@@ -1,1 +1,1 @@
-var mnemonic = "liberty rely obey worth weasel sentence example visual punch make stereo silver";
+var mnemonic = "enact mutual armed invite flip next shell sauce couple lake vault sausage";

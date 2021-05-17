@@ -1,1 +1,1 @@
-var mnemonic = "reduce crumble desert all switch index increase annual foot height list symbol";
+var mnemonic = "wall find fruit mad resist anchor popular torch ship slim reward goose";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber cancel alien venue cool december choose frozen galaxy glory card slush";
+var mnemonic = "slow odor custom level improve lizard enough donkey segment that rather baby";

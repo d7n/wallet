@@ -1,1 +1,1 @@
-var mnemonic = "tank abuse mesh manage peasant much buzz oven deny hold hero control";
+var mnemonic = "social current north derive person obscure any forward umbrella tobacco canyon analyst";

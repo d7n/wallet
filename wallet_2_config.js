@@ -1,1 +1,1 @@
-var mnemonic = "wagon brain timber assault era property sketch fossil alpha eight gap describe";
+var mnemonic = "dry pepper blanket isolate awake divert venue already arena satoshi seven suit";

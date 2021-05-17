@@ -1,1 +1,1 @@
-var mnemonic = "orange file glow gap riot tail negative under miracle erosion sport island";
+var mnemonic = "step car vehicle menu orchard wisdom host left cabin danger bamboo supply";

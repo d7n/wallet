@@ -1,1 +1,1 @@
-var mnemonic = "evolve pony educate powder close insane bargain panel dinosaur broken exhibit pitch";
+var mnemonic = "derive valve october fury detail dawn worry fall super lumber nut fence";

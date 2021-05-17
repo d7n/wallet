@@ -1,1 +1,1 @@
-var mnemonic = "force loyal agree body museum confirm canvas verify gentle margin survey alcohol";
+var mnemonic = "frame timber hint mix private move way donor obvious method hundred slight";

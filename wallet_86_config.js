@@ -1,1 +1,1 @@
-var mnemonic = "race retreat atom someone egg merry island toy busy offer carry daring";
+var mnemonic = "autumn pony bench column fold notable recall immune slender never safe bounce";

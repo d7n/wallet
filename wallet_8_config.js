@@ -1,1 +1,1 @@
-var mnemonic = "obvious glue minor celery void gravity attack fossil topple hundred scatter jewel";
+var mnemonic = "smart city shy infant answer skin tent warfare lobster skirt term security";

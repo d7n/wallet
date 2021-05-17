@@ -1,1 +1,1 @@
-var mnemonic = "dad dad warrior apart fury enter fix escape decide body update expose";
+var mnemonic = "spend wet group endless barrel tilt faith funny fever cancel undo stairs";

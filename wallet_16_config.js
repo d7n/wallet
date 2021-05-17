@@ -1,1 +1,1 @@
-var mnemonic = "elbow awesome casino enhance dress vapor sample tunnel abandon parent purchase squirrel";
+var mnemonic = "sound tip much floor tone charge innocent shield amazing clerk provide make";

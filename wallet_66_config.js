@@ -1,1 +1,1 @@
-var mnemonic = "music surprise man culture sword borrow invest jazz quarter modify dilemma chair";
+var mnemonic = "board unaware lamp march misery burger dismiss offer parrot ill blade harsh";

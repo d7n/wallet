@@ -1,1 +1,1 @@
-var mnemonic = "battle prison drill smooth winner undo outdoor behave edit subway hood gossip";
+var mnemonic = "bag rhythm loyal ankle lucky piece naive believe blind inform avoid scare";

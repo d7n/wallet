@@ -1,1 +1,1 @@
-var mnemonic = "rebel pupil another multiply summer confirm top pave car web meat sting";
+var mnemonic = "broom calm rice topic dry swallow swallow write base shrug gorilla push";

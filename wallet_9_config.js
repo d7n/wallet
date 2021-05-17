@@ -1,1 +1,1 @@
-var mnemonic = "grow trumpet high century act bridge coyote close depth accuse conduct loyal";
+var mnemonic = "come enter marine domain cereal domain item prepare time infant fiscal abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "twice pluck genuine alcohol artist tone bulk replace you all weekend drive";
+var mnemonic = "pen gaze evoke erode elevator marriage project over sketch eagle fork alien";

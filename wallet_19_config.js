@@ -1,1 +1,1 @@
-var mnemonic = "runway crack avocado trial orphan lunar finger jaguar monkey novel trigger black";
+var mnemonic = "immense anxiety funny crane slim leaf margin zebra face enable river judge";

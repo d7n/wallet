@@ -1,1 +1,1 @@
-var mnemonic = "dream much sail wife million near avocado inherit rail myself taste bench";
+var mnemonic = "apart awkward brass horse pause when liquid two finish power fish oblige";

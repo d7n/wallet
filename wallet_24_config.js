@@ -1,1 +1,1 @@
-var mnemonic = "language casual point resemble brave rose manual cage fiction super narrow trigger";
+var mnemonic = "impact frequent switch diesel rack chimney field raccoon they throw soldier wide";

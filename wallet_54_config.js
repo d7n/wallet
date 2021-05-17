@@ -1,1 +1,1 @@
-var mnemonic = "primary market item skill mercy key fault warfare demise save okay frame";
+var mnemonic = "basic attitude couch sun drift metal giraffe boost crack surround pretty dawn";

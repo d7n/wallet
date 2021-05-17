@@ -1,1 +1,1 @@
-var mnemonic = "act easily sudden rigid phone tumble leg journey sister east toss valid";
+var mnemonic = "bring baby correct pyramid spoon tunnel blur arrest marine chase inspire miss";

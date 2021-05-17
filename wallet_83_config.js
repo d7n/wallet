@@ -1,1 +1,1 @@
-var mnemonic = "lecture taste alarm space wild test pony grass brass mix bulb denial";
+var mnemonic = "identify worth parrot recycle cradle regular desert nuclear crush fee minute essence";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon skull patrol picture tonight grain harvest remember mosquito about royal hen";
+var mnemonic = "combine universe render shoe frown stock estate original neutral palace decide table";

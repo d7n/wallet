@@ -1,1 +1,1 @@
-var mnemonic = "order casual cloth mind hawk essay learn artefact vivid alert arrive angry";
+var mnemonic = "humor struggle draw fun scheme rather catch harvest wash crunch essay kitchen";

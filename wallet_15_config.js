@@ -1,1 +1,1 @@
-var mnemonic = "asthma medal throw trial swim recall lab neck fade patrol monster hawk";
+var mnemonic = "suggest often world blur include host tilt increase square salt feel stuff";

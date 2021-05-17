@@ -1,1 +1,1 @@
-var mnemonic = "punch gravity comic dismiss provide focus morning stool measure rice ugly thing";
+var mnemonic = "oxygen target worth pioneer novel repair few monkey erosion letter relax crumble";

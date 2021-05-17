@@ -1,1 +1,1 @@
-var mnemonic = "believe hint plate solid wage grain spoon welcome radar spatial lion before";
+var mnemonic = "father panic index chef hope issue dentist short pill net agent camera";

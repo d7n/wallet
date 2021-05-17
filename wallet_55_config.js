@@ -1,1 +1,1 @@
-var mnemonic = "skate cigar walnut illness whip nasty hamster exclude adult hunt weasel artwork";
+var mnemonic = "reason rebuild salon swim setup derive slogan slogan sing hidden time enrich";

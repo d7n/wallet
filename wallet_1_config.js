@@ -1,1 +1,1 @@
-var mnemonic = "derive buyer spring price mistake supply screen face fitness plate scale hazard";
+var mnemonic = "adult face ride true weird sure rent strategy initial dad half jaguar";
