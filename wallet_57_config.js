@@ -1,1 +1,1 @@
-var mnemonic = "soap cereal try space little ostrich hurt solve ladder cargo tackle scatter";
+var mnemonic = "answer crew rookie return lady march essence keep sad elevator bid spike";

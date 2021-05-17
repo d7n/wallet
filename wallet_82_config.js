@@ -1,1 +1,1 @@
-var mnemonic = "cherry task memory train couch race behind slam autumn income group excite";
+var mnemonic = "begin protect crop hole chapter spoon crush doll salt aim aunt model";

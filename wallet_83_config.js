@@ -1,1 +1,1 @@
-var mnemonic = "little skate oven excuse coach wish flat bridge notice tent clump poem";
+var mnemonic = "tuna trash castle ensure bird radar choice current grace fit forward obvious";

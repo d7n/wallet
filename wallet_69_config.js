@@ -1,1 +1,1 @@
-var mnemonic = "open cat load prison that spoon control knock erosion point marble such";
+var mnemonic = "unique effort inherit curious peasant soap tackle holiday castle sadness rally fame";

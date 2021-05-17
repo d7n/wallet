@@ -1,1 +1,1 @@
-var mnemonic = "use motor capital defense brisk theory sport future bless lawsuit jealous success";
+var mnemonic = "energy direct chief general slim holiday giraffe despair senior among wire fantasy";

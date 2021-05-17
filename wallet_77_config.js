@@ -1,1 +1,1 @@
-var mnemonic = "math shrug gather dilemma amount file pride slice photo flee reduce check";
+var mnemonic = "village endless stool solution much reward price mistake absent shuffle beach denial";

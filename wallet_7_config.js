@@ -1,1 +1,1 @@
-var mnemonic = "figure infant mystery tired victory must dune toward shaft balance music nephew";
+var mnemonic = "jump trumpet father skull defense knife capable satoshi alien next benefit lift";

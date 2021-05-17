@@ -1,1 +1,1 @@
-var mnemonic = "harsh office balance side bright hood lake hole head garbage hero often";
+var mnemonic = "pioneer work fat old cram private column step squeeze tent resist bench";

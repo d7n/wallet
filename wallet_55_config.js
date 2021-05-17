@@ -1,1 +1,1 @@
-var mnemonic = "dune until chapter note lake place awkward mimic engage know alarm club";
+var mnemonic = "modify raise swift wall garment priority reason tent father fancy zone orphan";

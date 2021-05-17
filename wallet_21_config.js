@@ -1,1 +1,1 @@
-var mnemonic = "saddle correct off sort cousin screen clump floor still slide ritual pudding";
+var mnemonic = "filter acid clarify nest proud there deputy dry ribbon raw grocery public";

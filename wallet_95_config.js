@@ -1,1 +1,1 @@
-var mnemonic = "raccoon novel term grape later family chalk insect aspect pipe during liar";
+var mnemonic = "service ketchup assault decorate whip april dad ozone exact convince slow tribe";

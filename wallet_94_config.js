@@ -1,1 +1,1 @@
-var mnemonic = "bid waste fetch bag address wheel crime great scrub myself barely rail";
+var mnemonic = "neglect strategy sketch weekend language gadget vote alone legal document occur climb";

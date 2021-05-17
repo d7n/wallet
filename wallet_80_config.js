@@ -1,1 +1,1 @@
-var mnemonic = "solar discover matter cement choice day engage sponsor vocal bulk team salute";
+var mnemonic = "coach list stairs rent outside differ atom festival basic special pride street";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme field grab vibrant choose plug essay expire inner fork digital prize";
+var mnemonic = "club survey position gloom clinic lottery world melt busy able vintage dolphin";

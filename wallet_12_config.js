@@ -1,1 +1,1 @@
-var mnemonic = "buyer apart crush cross ghost face radar spatial use screen prepare tortoise";
+var mnemonic = "fatal orange motor provide solve other ethics model captain trust gospel setup";

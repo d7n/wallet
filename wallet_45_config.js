@@ -1,1 +1,1 @@
-var mnemonic = "simple few travel confirm sheriff rapid erupt man truly frost accident grocery";
+var mnemonic = "valid letter split night fork stool chronic genre woman chaos patrol monkey";

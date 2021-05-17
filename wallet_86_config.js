@@ -1,1 +1,1 @@
-var mnemonic = "raccoon case emotion improve heart potato quality enter faint confirm current arrest";
+var mnemonic = "blossom skate abandon maximum glow save kingdom merit beauty merit mountain clarify";

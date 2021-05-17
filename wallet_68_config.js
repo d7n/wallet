@@ -1,1 +1,1 @@
-var mnemonic = "remember guitar bar lecture early direct follow walnut vacant endless example spray";
+var mnemonic = "number giant evolve inspire accuse corn topple fiscal embody field say exact";

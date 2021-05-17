@@ -1,1 +1,1 @@
-var mnemonic = "assist soul silent flame apple admit visa pupil simple keep stem source";
+var mnemonic = "way december lady smooth lemon style express prize garage sense decline snap";

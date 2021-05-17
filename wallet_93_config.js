@@ -1,1 +1,1 @@
-var mnemonic = "outer avoid series fall blame nut better anchor useful acoustic coast flock";
+var mnemonic = "unique current cloth senior discover fabric reveal example art stadium left joke";

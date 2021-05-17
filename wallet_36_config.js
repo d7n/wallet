@@ -1,1 +1,1 @@
-var mnemonic = "plunge one oppose twelve video whisper hockey this perfect rescue forest green";
+var mnemonic = "harbor make initial main broccoli foil field crawl purpose blast few exact";

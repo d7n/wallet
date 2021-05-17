@@ -1,1 +1,1 @@
-var mnemonic = "quit east pass kiwi rescue scale target hollow visa wing congress awkward";
+var mnemonic = "dance advice police fence auction scissors side burst coast oblige shield escape";

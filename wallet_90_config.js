@@ -1,1 +1,1 @@
-var mnemonic = "romance wrong measure wheat slim exist senior quality citizen tenant art web";
+var mnemonic = "arrow mango top soul shove remind cause hello stereo adapt lunar act";

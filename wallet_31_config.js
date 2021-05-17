@@ -1,1 +1,1 @@
-var mnemonic = "index body stool join melody rubber shop youth eagle slow rail image";
+var mnemonic = "wing melt brass subject have matter easily throw thought sock usual filter";

@@ -1,1 +1,1 @@
-var mnemonic = "stick jungle enrich shy hour choice flavor liquid media mention type hybrid";
+var mnemonic = "rather flat dream north thumb achieve adjust behind climb indoor coach diesel";

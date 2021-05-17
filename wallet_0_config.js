@@ -1,1 +1,1 @@
-var mnemonic = "what rival want harsh lady just soul strategy media amazing edit thumb";
+var mnemonic = "boat ranch dash type head author feel pigeon giggle avoid omit antique";

@@ -1,1 +1,1 @@
-var mnemonic = "deny fiction brain globe dog candy stadium sand friend twin tip stone";
+var mnemonic = "sell setup glance pipe forward will tank turtle wolf force scare marble";

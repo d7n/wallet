@@ -1,1 +1,1 @@
-var mnemonic = "just mango night parrot amateur humor course burden ritual believe shallow fox";
+var mnemonic = "brick ecology neutral erase autumn ripple woman wasp march dynamic vague excuse";

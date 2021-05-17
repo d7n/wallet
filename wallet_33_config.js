@@ -1,1 +1,1 @@
-var mnemonic = "you hard uniform frame spawn appear radio talent multiply timber scrub west";
+var mnemonic = "ripple dragon wrestle oak choice warfare elevator quiz faint goddess donkey surround";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist pave punch alarm woman cost man media elbow muffin fossil attack";
+var mnemonic = "elbow season brave rib else arctic anxiety patch curtain rebuild recall choose";

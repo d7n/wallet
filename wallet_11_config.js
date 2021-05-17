@@ -1,1 +1,1 @@
-var mnemonic = "knock whale urge mystery north tuition square extend shoot exotic waste turn";
+var mnemonic = "symbol zebra poem lesson horror real cost shiver skin snack note job";

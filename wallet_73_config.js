@@ -1,1 +1,1 @@
-var mnemonic = "van fun recycle word radio good grow advice stomach exchange party horn";
+var mnemonic = "rice entire elegant soda spirit wrestle vicious lawsuit rookie repeat patrol hospital";

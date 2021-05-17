@@ -1,1 +1,1 @@
-var mnemonic = "trip old simple onion acoustic time bachelor enable aspect question talk echo";
+var mnemonic = "vacuum flock empty family soccer video vague today soup forest live brother";

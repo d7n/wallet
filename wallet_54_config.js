@@ -1,1 +1,1 @@
-var mnemonic = "health eyebrow accident tooth fold slide tuition tourist desk artefact collect suggest";
+var mnemonic = "amateur door below dove camp student small admit panther code dutch fiction";

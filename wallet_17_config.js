@@ -1,1 +1,1 @@
-var mnemonic = "attend return express wedding cover hurry edge carpet rotate shrug weird upon";
+var mnemonic = "crumble habit target warrior vivid century submit swamp lounge visual grow hamster";

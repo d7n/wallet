@@ -1,1 +1,1 @@
-var mnemonic = "caution boat vibrant raccoon valid pink large dolphin negative dish fitness find";
+var mnemonic = "clown sleep abstract artefact reopen scissors hundred cruise paper across cry portion";

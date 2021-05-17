@@ -1,1 +1,1 @@
-var mnemonic = "load vital pulse maple miss bright extend person used nice buddy capable";
+var mnemonic = "join stone one card dish ritual uncover jacket chief flame stage grab";

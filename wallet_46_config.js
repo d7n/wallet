@@ -1,1 +1,1 @@
-var mnemonic = "among slow afraid hidden ridge wild sick pluck horse income fee vacant";
+var mnemonic = "mystery prison test tiger trigger slot spare thing phrase pole radio vicious";

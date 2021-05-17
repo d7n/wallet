@@ -1,1 +1,1 @@
-var mnemonic = "ill moon merge buffalo weird empower join toss liquid oxygen still attack";
+var mnemonic = "opera run alley property material march oval resource problem borrow general menu";

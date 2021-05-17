@@ -1,1 +1,1 @@
-var mnemonic = "flavor figure erosion critic crouch wrap off guard ski cage kangaroo write";
+var mnemonic = "like document copper arrow license artefact reject glide suggest awesome young remove";

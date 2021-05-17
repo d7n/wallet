@@ -1,1 +1,1 @@
-var mnemonic = "penalty shine outdoor damage board resist quiz shock random exotic stand letter";
+var mnemonic = "sleep yellow flag drip sea hospital priority session merge concert climb envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "price garbage volume ethics dish dash final mistake auto struggle liberty curtain";
+var mnemonic = "toss worry file action coconut goat drink toe educate winter cliff leisure";

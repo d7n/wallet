@@ -1,1 +1,1 @@
-var mnemonic = "eight sign winter slogan cost assault sunset theory equip border mirror viable";
+var mnemonic = "smart wire glide bunker dash subject carbon fee supply shift rose lumber";

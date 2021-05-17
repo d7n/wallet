@@ -1,1 +1,1 @@
-var mnemonic = "afraid magic danger dog report artwork exhibit capable syrup indicate dress tragic";
+var mnemonic = "course modify auto message engage green tornado crunch cover romance unhappy daring";

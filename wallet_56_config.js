@@ -1,1 +1,1 @@
-var mnemonic = "inject ozone buyer grid session casino trumpet profit lazy column ride meadow";
+var mnemonic = "aspect nephew survey caught token omit science roast crane rotate ladder siren";

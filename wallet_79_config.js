@@ -1,1 +1,1 @@
-var mnemonic = "label destroy language awkward fat accuse poet canyon fork grow rough expire";
+var mnemonic = "scale alley october fix major armed trust dolphin news orchard runway slot";

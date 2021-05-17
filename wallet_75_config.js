@@ -1,1 +1,1 @@
-var mnemonic = "silent enemy outer exclude inflict document broom wash glance whale network adjust";
+var mnemonic = "tomato around boring victory river scale recall foster false country math tide";

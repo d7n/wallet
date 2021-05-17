@@ -1,1 +1,1 @@
-var mnemonic = "plastic gain clutch ribbon ostrich coffee narrow pond dirt rival voice puppy";
+var mnemonic = "margin illness hen crouch alarm olive arrow initial song figure waste skate";

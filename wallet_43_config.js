@@ -1,1 +1,1 @@
-var mnemonic = "illness volcano virtual lunar merit review sample rare twice desert install gain";
+var mnemonic = "apart best endless nominee hero dress stove brass analyst knock turtle wrist";

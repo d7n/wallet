@@ -1,1 +1,1 @@
-var mnemonic = "physical clarify voyage come observe era push miss define arrow garden limit";
+var mnemonic = "enjoy nothing gesture alarm start proud blue avocado cost napkin retire into";

@@ -1,1 +1,1 @@
-var mnemonic = "swim account blame diary crater sing skirt answer liquid sing ranch judge";
+var mnemonic = "orchard shiver water fetch potato myth identify rather fatigue mistake connect ozone";

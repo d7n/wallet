@@ -1,1 +1,1 @@
-var mnemonic = "exhibit choose cannon riot found income grain stamp drill okay violin search";
+var mnemonic = "damp vintage mansion maple endless start best wedding satisfy power manage fabric";

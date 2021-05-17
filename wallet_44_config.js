@@ -1,1 +1,1 @@
-var mnemonic = "test wedding snow exhibit payment hunt table ignore hurry note adjust valid";
+var mnemonic = "anger liar energy prefer awful arena chuckle upper rail pudding bulk elder";

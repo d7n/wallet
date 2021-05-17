@@ -1,1 +1,1 @@
-var mnemonic = "dentist course crash sheriff miss loop believe still zone boring curve raise";
+var mnemonic = "broom rookie entry butter balance depth garden group find guess maze plastic";

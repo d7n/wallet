@@ -1,1 +1,1 @@
-var mnemonic = "equal position rule install satisfy base beef soft quiz initial diesel luggage";
+var mnemonic = "park damage snow cat brown dad brush bar impulse physical nerve devote";

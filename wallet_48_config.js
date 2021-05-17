@@ -1,1 +1,1 @@
-var mnemonic = "dust inch switch portion myself index physical blind uncle zoo snow genre";
+var mnemonic = "sugar smile sort false agree volcano safe anxiety furnace hockey ivory roof";

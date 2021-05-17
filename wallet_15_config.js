@@ -1,1 +1,1 @@
-var mnemonic = "patch topple drill model relax width void advice local catalog assume road";
+var mnemonic = "another pink sunny month crush inherit bus then actual denial rival mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "phone injury intact chuckle crop smoke orange rent sense audit program assume";
+var mnemonic = "rookie funny excuse arrange soap miss shift road panel trial major keen";

@@ -1,1 +1,1 @@
-var mnemonic = "picture build frog focus grocery answer famous wool spell rail bean obey";
+var mnemonic = "episode demand trial only raven scrap alpha core equal swing twist response";

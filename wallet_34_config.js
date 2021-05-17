@@ -1,1 +1,1 @@
-var mnemonic = "boost mule satoshi grain vote normal electric olive other kitten proof thrive";
+var mnemonic = "view solution card lava deal drum grid enter stay current decade eternal";

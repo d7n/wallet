@@ -1,1 +1,1 @@
-var mnemonic = "crash humor village squirrel mechanic model victory link circle valid mix reject";
+var mnemonic = "move venture close loan salad gown east rude amount weird buzz decline";

@@ -1,1 +1,1 @@
-var mnemonic = "card disorder enlist achieve envelope clump runway coast anchor phone seed wave";
+var mnemonic = "later dove replace also cigar trumpet aerobic broken toddler reflect ankle asset";

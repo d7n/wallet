@@ -1,1 +1,1 @@
-var mnemonic = "rubber purse choice century trim burden next squeeze sample fury noodle share";
+var mnemonic = "often twenty decline river exercise cigar object quick eight supply degree jar";

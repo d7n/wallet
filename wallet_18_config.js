@@ -1,1 +1,1 @@
-var mnemonic = "card stumble spawn item try say beyond deposit jungle aerobic key impact";
+var mnemonic = "fall fashion traffic trick gloom top elite turkey rigid practice wash panic";

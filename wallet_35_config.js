@@ -1,1 +1,1 @@
-var mnemonic = "stadium sock swear bunker chest equal cousin price pluck aisle maximum monitor";
+var mnemonic = "insect notable mirror wood input position avoid group focus grab journey grant";

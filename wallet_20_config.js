@@ -1,1 +1,1 @@
-var mnemonic = "raccoon gentle hockey capable upgrade state angry rally grief sentence armed gentle";
+var mnemonic = "december tower poet foster bracket blouse vacant come leisure hobby bullet advance";

@@ -1,1 +1,1 @@
-var mnemonic = "visual cannon bomb thing devote fire service worth sting again frost price";
+var mnemonic = "behind inspire mad busy recipe man youth stadium pluck sort home junk";

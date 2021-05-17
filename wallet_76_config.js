@@ -1,1 +1,1 @@
-var mnemonic = "intact mammal plunge walnut broccoli august wink science brief chunk ordinary salute";
+var mnemonic = "wet fragile cabbage net cabin custom accuse patrol away silly stage snow";

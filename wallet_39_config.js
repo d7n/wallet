@@ -1,1 +1,1 @@
-var mnemonic = "artefact bamboo legal royal leaf number blush cannon erosion sign fire apology";
+var mnemonic = "spider cream warfare pen skirt analyst square sunset bar subject peace joy";

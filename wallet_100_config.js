@@ -1,1 +1,1 @@
-var mnemonic = "bulk bar royal chunk shock page rely eternal size wheat siren easy";
+var mnemonic = "improve valley click truly canvas spare room sign crime curve cereal riot";

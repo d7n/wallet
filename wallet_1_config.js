@@ -1,1 +1,1 @@
-var mnemonic = "wet emerge miracle isolate later project property myself hazard height swarm spirit";
+var mnemonic = "edit rich throw rely force impulse trip invest valve over learn left";

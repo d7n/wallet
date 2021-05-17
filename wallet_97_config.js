@@ -1,1 +1,1 @@
-var mnemonic = "prepare beef juice riot wire margin action dry season session brown clip";
+var mnemonic = "nothing sketch mirror jealous jump vintage east orchard doll nasty refuse oak";

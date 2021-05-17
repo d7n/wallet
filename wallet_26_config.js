@@ -1,1 +1,1 @@
-var mnemonic = "artwork security novel tobacco feel husband grant doctor love mouse math envelope";
+var mnemonic = "raven skill sphere album twist dawn question plunge wear surface buffalo maze";

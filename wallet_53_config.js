@@ -1,1 +1,1 @@
-var mnemonic = "that admit ensure deer salon owner walnut sing humor above crater poet";
+var mnemonic = "impulse congress staff cook taste switch zoo spike avoid again among attitude";

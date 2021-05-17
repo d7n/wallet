@@ -1,1 +1,1 @@
-var mnemonic = "earn plate parade captain tuna illness shield gym roof muscle jump tuition";
+var mnemonic = "muffin gift nose scan runway ring want relax novel virus business broom";

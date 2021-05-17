@@ -1,1 +1,1 @@
-var mnemonic = "lava banner number change best dove lounge zero prosper surprise unusual write";
+var mnemonic = "awake reopen hybrid analyst snow hat move impact pact spawn web slow";

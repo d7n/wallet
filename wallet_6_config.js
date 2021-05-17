@@ -1,1 +1,1 @@
-var mnemonic = "fury cabin mule filter camp boy story smart popular feel harsh describe";
+var mnemonic = "discover anchor destroy scout catch carry paper build park present peanut reduce";

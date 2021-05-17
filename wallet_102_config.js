@@ -1,1 +1,1 @@
-var mnemonic = "ranch label require window slight clever narrow shaft near inhale monster inch";
+var mnemonic = "gorilla ranch nut explain lazy lake trick guilt funny banana guitar emerge";

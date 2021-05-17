@@ -1,1 +1,1 @@
-var mnemonic = "use wall auction purchase imitate inner day angle pipe lemon stable govern";
+var mnemonic = "great theme able genius oil profit return ignore degree anxiety clip unveil";

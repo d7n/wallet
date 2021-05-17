@@ -1,1 +1,1 @@
-var mnemonic = "deny dutch divert attack when scrap area grain session moral parade harvest";
+var mnemonic = "syrup shrimp penalty airport shift lucky clinic copper female grid notice sick";

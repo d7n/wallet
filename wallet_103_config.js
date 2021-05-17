@@ -1,1 +1,1 @@
-var mnemonic = "gentle write mechanic kitten similar banana second permit clean guess eyebrow dance";
+var mnemonic = "defense gorilla open bird solid coast embrace engine when judge salad weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "hard pill hedgehog mechanic asset fault grief cost fly upon myself orchard";
+var mnemonic = "worth action shop debate learn perfect swap grace decline hub awful warm";

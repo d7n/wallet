@@ -1,1 +1,1 @@
-var mnemonic = "foam torch prize zone dumb congress thumb junior crumble century brick iron";
+var mnemonic = "noodle vast trade planet shallow age enroll sentence first physical because cotton";

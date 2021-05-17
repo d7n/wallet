@@ -1,1 +1,1 @@
-var mnemonic = "disease flip vast action cost address surround vehicle boring method stage finger";
+var mnemonic = "entry soup captain clown announce rotate fold suit donor powder zebra able";

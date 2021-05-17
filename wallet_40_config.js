@@ -1,1 +1,1 @@
-var mnemonic = "tell cousin detail sheriff sure ocean federal chase word mind priority gallery";
+var mnemonic = "twice stable travel tonight blame switch switch measure balcony trigger gospel cycle";

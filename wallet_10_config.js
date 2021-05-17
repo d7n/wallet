@@ -1,1 +1,1 @@
-var mnemonic = "pride spider fluid bundle where raven six gasp emotion exercise derive tunnel";
+var mnemonic = "skirt inhale addict robust obtain gun round settle bind similar transfer divide";

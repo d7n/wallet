@@ -1,1 +1,1 @@
-var mnemonic = "radio hidden blossom lens nation renew people pioneer ice hint poverty mansion";
+var mnemonic = "what lizard novel success panic promote repeat chimney blind chapter quit used";

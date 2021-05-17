@@ -1,1 +1,1 @@
-var mnemonic = "slice horror frown hidden caught neutral venue hobby solve boost suspect glare";
+var mnemonic = "employ nasty balance drink service badge burden erupt awkward silly hole glass";

@@ -1,1 +1,1 @@
-var mnemonic = "margin april advance flash left come sun radar talent educate mountain erase";
+var mnemonic = "short danger drift liberty addict inject destroy amazing foster always exchange share";

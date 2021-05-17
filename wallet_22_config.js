@@ -1,1 +1,1 @@
-var mnemonic = "purse arrive lava odor rotate mesh opera improve region profit brother comfort";
+var mnemonic = "kingdom pottery screen issue artefact depth point clog truck tumble angle best";

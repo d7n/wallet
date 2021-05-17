@@ -1,1 +1,1 @@
-var mnemonic = "royal pupil jeans bag viable spirit flight elbow toy coin easily syrup";
+var mnemonic = "robot account happy middle planet gym web purse oppose final gold found";

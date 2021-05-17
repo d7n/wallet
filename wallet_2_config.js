@@ -1,1 +1,1 @@
-var mnemonic = "harbor roast blame retreat depth mass bean alter since profit peanut safe";
+var mnemonic = "cherry village tunnel frost series ice guard favorite pact lawsuit material response";

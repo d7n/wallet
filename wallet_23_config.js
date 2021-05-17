@@ -1,1 +1,1 @@
-var mnemonic = "buffalo virtual disease warm morning radar undo frown sorry degree river trim";
+var mnemonic = "young reflect blame carpet planet giant pair lucky still ethics carbon bottom";
