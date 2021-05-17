@@ -1,1 +1,1 @@
-var mnemonic = "vacuum calm random kit blind enroll organ try ecology staff disease moral";
+var mnemonic = "item struggle size guitar comfort west busy steak bone news small tennis";

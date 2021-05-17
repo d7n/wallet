@@ -1,1 +1,1 @@
-var mnemonic = "flee clutch acid agent forest noodle crouch vacuum border celery stable deliver";
+var mnemonic = "surround join rhythm denial dumb pond rain oak initial witness duck solve";

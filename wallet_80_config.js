@@ -1,1 +1,1 @@
-var mnemonic = "canyon diet wire spare nice rail transfer pencil fancy smoke sister warrior";
+var mnemonic = "process tank cat humble chimney pluck hobby cliff arch win museum sentence";

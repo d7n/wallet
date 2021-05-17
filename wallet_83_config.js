@@ -1,1 +1,1 @@
-var mnemonic = "menu spy reform exhibit cable kind pave harsh marriage napkin master invest";
+var mnemonic = "answer snake settle page tell lucky endorse improve wheel stable swamp moral";

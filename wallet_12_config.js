@@ -1,1 +1,1 @@
-var mnemonic = "brain turtle flush focus awful cabbage reduce kind joke aware sword bone";
+var mnemonic = "waste anchor mix resemble gold tooth vacuum allow brush inherit round keep";

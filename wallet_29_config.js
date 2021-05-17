@@ -1,1 +1,1 @@
-var mnemonic = "hat reward tag avoid early frost flower worth market tape thrive photo";
+var mnemonic = "win hamster anger magic twin uncle diesel umbrella choose manage icon poet";

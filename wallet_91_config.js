@@ -1,1 +1,1 @@
-var mnemonic = "honey mean draft never fall board climb eternal afraid spoil spy insane";
+var mnemonic = "melt famous tribe next never elevator bag student grape actor slot occur";

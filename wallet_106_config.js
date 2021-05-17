@@ -1,1 +1,1 @@
-var mnemonic = "grow athlete wheel kiss motor material conduct canoe joy grow bench copper";
+var mnemonic = "vocal critic wolf trip gasp lawsuit arrest mosquito know picture brown pupil";

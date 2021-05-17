@@ -1,1 +1,1 @@
-var mnemonic = "script cheap model betray tell beef limit liquid axis roof deer evil";
+var mnemonic = "cave bright fetch toward goat shiver kitten cable decade seed check caught";

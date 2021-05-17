@@ -1,1 +1,1 @@
-var mnemonic = "win upper pumpkin tray reason more buzz damage menu below vacant stuff";
+var mnemonic = "tray relax used veteran faint orbit oval keen country spare mistake dry";

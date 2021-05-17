@@ -1,1 +1,1 @@
-var mnemonic = "method shed business twice broom unveil sad child scorpion crash erase tube";
+var mnemonic = "flower pitch guilt island focus piano corn crystal seminar solar broken afford";

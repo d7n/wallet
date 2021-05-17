@@ -1,1 +1,1 @@
-var mnemonic = "void moment island shiver jungle also art inch ball admit source meat";
+var mnemonic = "stumble language roof beauty cabbage defense cabin script foil siren hood behind";

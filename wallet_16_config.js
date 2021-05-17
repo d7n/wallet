@@ -1,1 +1,1 @@
-var mnemonic = "human bundle state champion brick rain dentist engine drink found guilt library";
+var mnemonic = "radio behind letter region guitar either sort cage credit scan gather visa";

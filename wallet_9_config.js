@@ -1,1 +1,1 @@
-var mnemonic = "happy rent squeeze raven junior lamp gap clarify dilemma undo mistake wine";
+var mnemonic = "expire figure curtain oyster swap mail damage pupil render material rack scan";

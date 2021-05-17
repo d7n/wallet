@@ -1,1 +1,1 @@
-var mnemonic = "team genre ostrich public blue copy chief buyer steel guitar jaguar pioneer";
+var mnemonic = "doll absorb wealth enough pudding simple jealous poverty shop riot remove length";

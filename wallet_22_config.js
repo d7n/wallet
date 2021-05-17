@@ -1,1 +1,1 @@
-var mnemonic = "lamp motion labor false lunar twist area finger winter jacket birth twice";
+var mnemonic = "rabbit harsh leopard similar dress peasant fetch fee culture aim dilemma trim";

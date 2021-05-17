@@ -1,1 +1,1 @@
-var mnemonic = "smoke south slab adult glad save matter twin chalk focus nut delay";
+var mnemonic = "solve quit awkward funny dice twin rather cool use music raccoon bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom pulp artefact grape woman move apology wrist engine make wine fossil";
+var mnemonic = "clever until off liberty guitar impulse side ecology umbrella rally winter enjoy";

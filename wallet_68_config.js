@@ -1,1 +1,1 @@
-var mnemonic = "industry brass often cabin fence never craft innocent buyer bid excess repeat";
+var mnemonic = "spin unknown canvas error swim heavy awake garden soft finish skill ginger";

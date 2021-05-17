@@ -1,1 +1,1 @@
-var mnemonic = "wrap blade ask stone quality holiday squeeze ritual siege menu best village";
+var mnemonic = "half awake member lunch travel buyer rapid license ginger advance cabbage ball";

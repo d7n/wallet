@@ -1,1 +1,1 @@
-var mnemonic = "suffer brain two rib hunt sadness stairs jazz anger cable kiwi alone";
+var mnemonic = "chunk quality isolate orange quantum sell token boss surprise avoid tornado goose";

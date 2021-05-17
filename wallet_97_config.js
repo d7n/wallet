@@ -1,1 +1,1 @@
-var mnemonic = "brick notable uphold crunch gravity pitch near turkey fuel tragic sad mixture";
+var mnemonic = "flee diesel buddy february always cupboard flower add syrup project orbit retreat";

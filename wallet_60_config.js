@@ -1,1 +1,1 @@
-var mnemonic = "wedding bicycle potato usual gospel divorce endless defy country van priority intact";
+var mnemonic = "bus wish penalty buffalo brief company sad antenna mother tobacco forum reform";

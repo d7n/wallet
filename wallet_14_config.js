@@ -1,1 +1,1 @@
-var mnemonic = "parade cushion object reduce live affair defy crunch extend behave silver boy";
+var mnemonic = "obey inherit fly control acid polar captain blouse science stamp beach lemon";

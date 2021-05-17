@@ -1,1 +1,1 @@
-var mnemonic = "way upgrade undo neutral walk urban urge avoid coin slogan spawn inmate";
+var mnemonic = "borrow echo about slide fetch allow jar vault please weasel alarm general";

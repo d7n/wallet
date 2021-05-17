@@ -1,1 +1,1 @@
-var mnemonic = "special aspect modify behave illness bundle usage symbol box carbon reform farm";
+var mnemonic = "put current nurse impulse rule crazy snap response truck travel mimic trick";

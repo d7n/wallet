@@ -1,1 +1,1 @@
-var mnemonic = "illness promote provide height concert cigar window spot fence section spot hobby";
+var mnemonic = "apple course glory because wreck security helmet strike album century piano obtain";

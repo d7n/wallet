@@ -1,1 +1,1 @@
-var mnemonic = "slice police secret zoo crisp trophy bright sketch page betray actual search";
+var mnemonic = "shy history front earth elder crane enough crunch mouse drum slice economy";

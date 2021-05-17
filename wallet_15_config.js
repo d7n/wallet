@@ -1,1 +1,1 @@
-var mnemonic = "tragic write sadness price talent ring exact similar isolate anxiety camp income";
+var mnemonic = "age machine split match inmate act once hundred human obey grant cinnamon";

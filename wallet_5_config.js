@@ -1,1 +1,1 @@
-var mnemonic = "swallow lyrics brave spawn magnet behind pistol foil photo gun favorite gather";
+var mnemonic = "decline floor citizen truck future victory buzz blush crowd fee satisfy quote";

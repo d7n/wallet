@@ -1,1 +1,1 @@
-var mnemonic = "tuna pupil blame dream spin visa memory outside oval real panel cheap";
+var mnemonic = "image where farm library latin arrive hole turtle submit present engage sorry";

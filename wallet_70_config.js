@@ -1,1 +1,1 @@
-var mnemonic = "bonus step uncover coil federal master shoe route insane kind smart mention";
+var mnemonic = "eternal enhance actress unveil about phrase jacket better happy salmon drift rescue";

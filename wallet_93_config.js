@@ -1,1 +1,1 @@
-var mnemonic = "carry page over tunnel cargo switch person mansion enough flight photo okay";
+var mnemonic = "initial month hip fluid original palace wood urban barrel wet exhaust mobile";

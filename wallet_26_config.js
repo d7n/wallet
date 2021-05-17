@@ -1,1 +1,1 @@
-var mnemonic = "keep school cake stamp total valley bless panda recipe injury refuse main";
+var mnemonic = "cupboard exact trial ready business camera pull witness top spawn spell health";

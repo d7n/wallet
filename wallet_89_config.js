@@ -1,1 +1,1 @@
-var mnemonic = "element useless alcohol advance dry proud praise require umbrella dawn certain suit";
+var mnemonic = "asset royal spray market estate harsh brass badge music image motion poem";

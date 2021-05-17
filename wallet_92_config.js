@@ -1,1 +1,1 @@
-var mnemonic = "climb lawsuit party room ripple retire parade away gaze vital dad same";
+var mnemonic = "cabbage ensure raccoon borrow guilt message method divorce pulp bird okay rose";

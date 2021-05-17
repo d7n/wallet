@@ -1,1 +1,1 @@
-var mnemonic = "rally trend parent ramp party uncover burger size human enemy pull front";
+var mnemonic = "hour exercise spin fiscal member shed head hen cement unhappy silver brand";

@@ -1,1 +1,1 @@
-var mnemonic = "body ivory polar speak screen retreat alter wife destroy mercy blood erode";
+var mnemonic = "fiber soup purity elder kidney magic ticket oblige credit blind more cotton";

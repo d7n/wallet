@@ -1,1 +1,1 @@
-var mnemonic = "street fancy fossil arena wink unfair proof chunk resemble man marble neither";
+var mnemonic = "swallow vintage will uphold toe home assume silly hen snow chronic weird";

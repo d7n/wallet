@@ -1,1 +1,1 @@
-var mnemonic = "sing cradle announce stick fix trigger tissue impose ostrich gauge need mandate";
+var mnemonic = "birth barely mixture erosion brown strike uphold hood novel wreck exile caught";

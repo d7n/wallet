@@ -1,1 +1,1 @@
-var mnemonic = "moon aspect radar flight super barely enact parade helmet olympic join toast";
+var mnemonic = "trend cart what nature situate child guitar text october lecture comfort notable";

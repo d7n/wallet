@@ -1,1 +1,1 @@
-var mnemonic = "text drink vital session stock dolphin believe crawl flock concert injury mesh";
+var mnemonic = "twelve runway hello spray photo puppy slide ankle jazz erosion manual north";

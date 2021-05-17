@@ -1,1 +1,1 @@
-var mnemonic = "wrap frozen rely shaft bacon tragic praise march crunch electric grace meat";
+var mnemonic = "quote comic acquire shrug luggage insane fabric hawk must unveil stomach kiss";

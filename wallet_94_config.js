@@ -1,1 +1,1 @@
-var mnemonic = "gentle senior mistake despair deputy basic favorite kitten bacon swallow spatial aisle";
+var mnemonic = "lizard fever future thing neck chest mad nature shove wife erupt endless";

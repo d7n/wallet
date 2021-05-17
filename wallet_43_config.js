@@ -1,1 +1,1 @@
-var mnemonic = "increase run describe donor material bless decide disagree find fade effort kind";
+var mnemonic = "shoulder cart host empty inside warfare hobby capital add armed salmon expect";

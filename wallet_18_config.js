@@ -1,1 +1,1 @@
-var mnemonic = "amused wedding swim confirm type health ask trash liar tuition life thrive";
+var mnemonic = "either then near mushroom wear cost idea gravity minute mansion canoe plug";

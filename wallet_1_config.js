@@ -1,1 +1,1 @@
-var mnemonic = "spatial sight sail image cherry tunnel treat stick bullet real doctor foot";
+var mnemonic = "violin floor choice wrestle own faith tag strong approve stone nose knife";

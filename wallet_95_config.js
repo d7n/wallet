@@ -1,1 +1,1 @@
-var mnemonic = "anchor genuine purchase curve club junk barrel cactus tuition fiction blast fire";
+var mnemonic = "man opera check fortune want obey canoe view spice tag until myth";

@@ -1,1 +1,1 @@
-var mnemonic = "fault own second wool black hero city gas express despair fresh help";
+var mnemonic = "gas spin sing cheap crouch corn survey mandate region onion now dash";

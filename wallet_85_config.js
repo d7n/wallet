@@ -1,1 +1,1 @@
-var mnemonic = "harvest need ready metal leg popular army tennis ostrich sister guilt lake";
+var mnemonic = "fat episode siren dream funny climb reform casual piano already stage vote";

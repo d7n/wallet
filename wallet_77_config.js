@@ -1,1 +1,1 @@
-var mnemonic = "umbrella discover embody broken large indoor federal spoon couple wide source theory";
+var mnemonic = "genre sense split open plug case print brand outside floor reduce escape";

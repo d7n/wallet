@@ -1,1 +1,1 @@
-var mnemonic = "guitar merge review lumber reason script merry broom cover afraid opinion gospel";
+var mnemonic = "tray museum rubber board noodle rug person ostrich brown arena major hip";

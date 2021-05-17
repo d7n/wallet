@@ -1,1 +1,1 @@
-var mnemonic = "royal strong broccoli patient hen much evidence stuff solution script coin must";
+var mnemonic = "purpose card oak suit crater dice silver accuse banner lawn capable token";

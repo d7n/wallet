@@ -1,1 +1,1 @@
-var mnemonic = "earn soup balcony evolve unfair leopard alone decide purchase salon nephew giraffe";
+var mnemonic = "year faculty situate wisdom champion increase curtain consider common fall shine woman";

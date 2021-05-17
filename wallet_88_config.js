@@ -1,1 +1,1 @@
-var mnemonic = "betray danger correct claw camera latin intact auto tray exercise gain manage";
+var mnemonic = "noble trade carry enrich slab attend name beauty like banner burst glance";

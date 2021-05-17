@@ -1,1 +1,1 @@
-var mnemonic = "area motion title globe push earth song apple uniform patrol congress quiz";
+var mnemonic = "cute leaf need banana quit garbage ride brave vessel segment walk hill";

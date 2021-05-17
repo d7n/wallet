@@ -1,1 +1,1 @@
-var mnemonic = "deputy spider judge right brick amazing rain emotion innocent traffic number way";
+var mnemonic = "demand again erosion among client knee text steel put sound october actual";

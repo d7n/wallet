@@ -1,1 +1,1 @@
-var mnemonic = "year shock soft good visit protect bulb loan feed order segment doctor";
+var mnemonic = "element belt gesture fantasy camera bleak pig lion junior remain idea mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "marine clog hard dune erosion series cruise equip edit cattle robot raw";
+var mnemonic = "kite deposit addict lake violin sense ecology note become prize glow silk";

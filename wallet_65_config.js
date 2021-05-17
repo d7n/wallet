@@ -1,1 +1,1 @@
-var mnemonic = "fame equip task coin erosion biology mammal curious vacant above odor pride";
+var mnemonic = "style flight similar scrap frog scatter muffin donate elegant biology age crystal";

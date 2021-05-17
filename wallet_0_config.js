@@ -1,1 +1,1 @@
-var mnemonic = "paper myself this adult jealous mouse guide exhaust atom west burden maze";
+var mnemonic = "glass hen exile humor buzz there meat short equip useless toy patient";

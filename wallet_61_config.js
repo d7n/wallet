@@ -1,1 +1,1 @@
-var mnemonic = "aware love upgrade smart yard giraffe echo movie earth develop often link";
+var mnemonic = "media hurdle example curious open end this winner emerge month reject renew";

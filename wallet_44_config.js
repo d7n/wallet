@@ -1,1 +1,1 @@
-var mnemonic = "fade green twin speak trend route minor stumble run night useless echo";
+var mnemonic = "phrase knee convince bamboo breeze remain slot kitchen ridge often output dinosaur";

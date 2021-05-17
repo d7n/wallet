@@ -1,1 +1,1 @@
-var mnemonic = "mushroom eye stamp skirt chase cloud ladder text smile before cliff credit";
+var mnemonic = "oxygen around cross lottery tuition chest soldier remind tissue stomach cry normal";

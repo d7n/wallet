@@ -1,1 +1,1 @@
-var mnemonic = "pause interest label key patient calm bridge song comic shrimp run alley";
+var mnemonic = "party unknown pond category rather seminar actual collect word stem girl process";

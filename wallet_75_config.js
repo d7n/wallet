@@ -1,1 +1,1 @@
-var mnemonic = "hamster dish above virus ticket offer evil all soda kingdom grocery shy";
+var mnemonic = "bacon say aim fossil spare level brief bounce item bamboo maple fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "history curtain enrich night auto hole steel match fortune crawl toward kid";
+var mnemonic = "father never movie shed thought various mule tool wall year walnut deliver";

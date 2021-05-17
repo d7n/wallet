@@ -1,1 +1,1 @@
-var mnemonic = "bless attract resource local rabbit doctor never know bridge curve must uncover";
+var mnemonic = "dish step game talent wife gym believe quarter enact mystery entry salad";

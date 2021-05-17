@@ -1,1 +1,1 @@
-var mnemonic = "vapor spice favorite rude jaguar float wage blind lend guilt swim orient";
+var mnemonic = "ecology initial later hard aware thunder doctor wide trip small shed client";

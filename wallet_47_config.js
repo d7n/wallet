@@ -1,1 +1,1 @@
-var mnemonic = "violin razor knife saddle gain monster olive wrong jacket soda genius poem";
+var mnemonic = "top mosquito nice syrup mesh venture chat daring wave bless basic limit";

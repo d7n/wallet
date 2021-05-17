@@ -1,1 +1,1 @@
-var mnemonic = "ancient arena genius leaf dial engage mixed news potato found attitude head";
+var mnemonic = "predict uphold life mouse symbol song vast alter sing knock goose expire";

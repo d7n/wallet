@@ -1,1 +1,1 @@
-var mnemonic = "unique grape suspect viable silent fatigue double help shield swap issue device";
+var mnemonic = "tackle side castle card forest trophy reject captain test flush leg invest";

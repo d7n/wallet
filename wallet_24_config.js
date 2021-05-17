@@ -1,1 +1,1 @@
-var mnemonic = "turkey weekend expand human breeze rubber silly bacon visual salon air sand";
+var mnemonic = "help check toy snake ancient unveil present drive music solution tomato scrub";

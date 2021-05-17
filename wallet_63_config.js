@@ -1,1 +1,1 @@
-var mnemonic = "venue sudden pyramid tornado hollow attend disorder mammal celery echo trigger local";
+var mnemonic = "ugly grape resist volcano wrong gas among thunder real hobby slogan fury";

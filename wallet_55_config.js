@@ -1,1 +1,1 @@
-var mnemonic = "kite ranch bring forest drift attend east tool fury amazing twin verify";
+var mnemonic = "position page burden bounce soft labor riot traffic utility wall chest claim";

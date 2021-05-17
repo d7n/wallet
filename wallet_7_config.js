@@ -1,1 +1,1 @@
-var mnemonic = "rack length suspect manual gentle dilemma swap section base manual sort acquire";
+var mnemonic = "wild olive skirt boy trim board quarter husband leg climb legend surround";

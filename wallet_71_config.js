@@ -1,1 +1,1 @@
-var mnemonic = "trip sleep random glare label sample best case heavy pulse minimum depth";
+var mnemonic = "tip time omit item busy stem cushion stand rug wagon shrimp fatigue";

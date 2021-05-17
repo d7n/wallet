@@ -1,1 +1,1 @@
-var mnemonic = "work seminar decline online erode universe claim young sound language rotate candy";
+var mnemonic = "argue vanish foster youth topple width aerobic idle oval amateur clap border";

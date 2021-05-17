@@ -1,1 +1,1 @@
-var mnemonic = "pull soft power unusual average stumble appear excess clog taxi filter stable";
+var mnemonic = "swarm census brief popular quote key fine garden wide venture wage author";

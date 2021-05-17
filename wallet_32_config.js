@@ -1,1 +1,1 @@
-var mnemonic = "panda miss funny kick wait machine run tip cart action stove debate";
+var mnemonic = "donor royal damp fix deputy spawn zebra monster hurry suit runway wall";

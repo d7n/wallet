@@ -1,1 +1,1 @@
-var mnemonic = "lens moral all thank atom hazard then hand immune message health robot";
+var mnemonic = "drum clog left just fossil wrong over hurry rival drip penalty crowd";

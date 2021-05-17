@@ -1,1 +1,1 @@
-var mnemonic = "plug bottom absorb artwork omit lady similar skull cool limb dog island";
+var mnemonic = "win volcano culture immune rocket autumn sorry flee height census small position";

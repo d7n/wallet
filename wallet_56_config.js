@@ -1,1 +1,1 @@
-var mnemonic = "saddle trip romance swear spray prison debate tank forget model opera rival";
+var mnemonic = "also movie main pony library action dilemma neither silly toe amount walnut";

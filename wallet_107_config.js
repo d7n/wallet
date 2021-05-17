@@ -1,1 +1,1 @@
-var mnemonic = "capital car inner helmet between funny parade olive ladder wreck behave elder";
+var mnemonic = "guard jealous make believe ring thumb system bundle hollow joy husband shed";

@@ -1,1 +1,1 @@
-var mnemonic = "couch monster sea glow novel exit arrange creek dust frozen execute range";
+var mnemonic = "rookie title crisp drum trumpet like later virtual chalk shoe there drive";

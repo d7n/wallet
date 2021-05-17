@@ -1,1 +1,1 @@
-var mnemonic = "unit ripple helmet all better drama reform gallery sting lab balance unknown";
+var mnemonic = "oyster general rocket prepare remember work friend north gallery erupt credit giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "like join electric trumpet curtain festival item hurry accuse decrease hospital grant";
+var mnemonic = "venture gadget drum bleak knee slush lab funny gun axis segment crucial";

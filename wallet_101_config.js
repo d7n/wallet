@@ -1,1 +1,1 @@
-var mnemonic = "outside enjoy oil host interest aerobic tray giraffe dream vanish carry urban";
+var mnemonic = "inflict pony music praise witness advance wife birth scrub grab human day";

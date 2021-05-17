@@ -1,1 +1,1 @@
-var mnemonic = "invest lawsuit nothing forget beef chair quarter work tuition nephew tragic replace";
+var mnemonic = "inside memory grass first scale hint wool flavor boy tooth glue gasp";

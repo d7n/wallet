@@ -1,1 +1,1 @@
-var mnemonic = "unit wedding pig case enroll ten pony cat ship budget wife penalty";
+var mnemonic = "balance lift avocado similar illness ancient dolphin miss school misery whale damage";

@@ -1,1 +1,1 @@
-var mnemonic = "meat tonight end expand return decline april patch grunt predict seminar betray";
+var mnemonic = "toss pole latin patrol inmate mind bird claw coach hire gaze dune";

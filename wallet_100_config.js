@@ -1,1 +1,1 @@
-var mnemonic = "piano smile spot divide victory wealth master solution scout fever now scare";
+var mnemonic = "hold excuse dry trigger ask parrot skate dove simple immune device bitter";

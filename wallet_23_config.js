@@ -1,1 +1,1 @@
-var mnemonic = "case engine miracle yard floor drip midnight sleep scale harvest crowd still";
+var mnemonic = "lobster palace core fragile traffic swift speak donor play crystal lyrics tribe";

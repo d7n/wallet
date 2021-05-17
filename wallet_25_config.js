@@ -1,1 +1,1 @@
-var mnemonic = "fat simple phrase spy yard scissors later open bachelor wise kangaroo bid";
+var mnemonic = "carpet donkey fiction any tag few mobile flock fence rabbit chat cash";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt brick swing moral shift typical resemble typical message science ceiling measure";
+var mnemonic = "point border festival two hover kitchen rather marine seat into initial rough";

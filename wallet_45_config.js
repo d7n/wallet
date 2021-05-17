@@ -1,1 +1,1 @@
-var mnemonic = "flower stick wear cry rule lamp range girl tackle maple empower jealous";
+var mnemonic = "tennis duck domain guide donkey solve switch outer width visit company kit";

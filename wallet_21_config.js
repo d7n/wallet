@@ -1,1 +1,1 @@
-var mnemonic = "oyster baby fold wonder area fiber woman subject beach disorder clean rug";
+var mnemonic = "fossil pistol report chalk turkey lens veteran wheat crisp yard enforce tube";
