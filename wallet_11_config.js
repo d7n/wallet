@@ -1,1 +1,1 @@
-var mnemonic = "net table flower coin frame host unfold invite alone act patient column";
+var mnemonic = "loan know traffic mom satisfy traffic dry inner hope dry caught celery";

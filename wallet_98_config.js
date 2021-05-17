@@ -1,1 +1,1 @@
-var mnemonic = "coil wedding mosquito grain reform galaxy shiver dish screen fat crawl joy";
+var mnemonic = "cycle excess border top rival remind ancient velvet result expire leisure tomato";

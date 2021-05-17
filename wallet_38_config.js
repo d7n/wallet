@@ -1,1 +1,1 @@
-var mnemonic = "response nasty feed practice bundle true brush sauce company walnut version ostrich";
+var mnemonic = "cave urban delay lamp side agree unfold easily profit broccoli island observe";

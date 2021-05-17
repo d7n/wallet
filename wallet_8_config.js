@@ -1,1 +1,1 @@
-var mnemonic = "cloud learn pyramid kick peasant bone emotion chaos custom electric praise gospel";
+var mnemonic = "arm slow glory option raise struggle lens expect good frown focus thing";

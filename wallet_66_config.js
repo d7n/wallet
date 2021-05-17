@@ -1,1 +1,1 @@
-var mnemonic = "endless top monster fat theory edit lizard pill adjust admit old shock";
+var mnemonic = "mammal puzzle inner web hero barely decade tent fiber hour dance recipe";

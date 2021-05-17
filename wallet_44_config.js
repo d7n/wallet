@@ -1,1 +1,1 @@
-var mnemonic = "fat bottom sample tone faint paddle stool sign grid worth swim source";
+var mnemonic = "bring cargo wild rotate despair raven rocket adjust letter common general boost";

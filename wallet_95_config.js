@@ -1,1 +1,1 @@
-var mnemonic = "float spare silent anchor pill plug firm transfer room core chest expect";
+var mnemonic = "subject resist suspect inflict arena able skirt end town youth sock obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz hurry recipe deputy reflect position steak deliver answer put nature mutual";
+var mnemonic = "ask scrub loyal obscure antenna medal announce task flat soft notice rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "huge awkward ostrich ask original economy embrace grass festival resource vacant vapor";
+var mnemonic = "brush dwarf section spell hard book parade degree wave palm athlete coin";

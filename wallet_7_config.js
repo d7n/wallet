@@ -1,1 +1,1 @@
-var mnemonic = "vendor immune web dizzy genre saddle swing tumble farm hundred inflict hope";
+var mnemonic = "mansion vacant crack cradle saddle million quick diary globe island deposit window";

@@ -1,1 +1,1 @@
-var mnemonic = "castle audit retreat buzz physical suit together fish mad water coyote divert";
+var mnemonic = "inflict dirt hazard horror weather need silk try brave hedgehog cat foster";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck cattle original angle feed harsh employ news meadow harsh next breeze";
+var mnemonic = "paddle income solve author metal wealth ladder clump toilet gather again primary";

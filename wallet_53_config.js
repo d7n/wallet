@@ -1,1 +1,1 @@
-var mnemonic = "ticket twist resource afraid stomach mansion method any museum wet trumpet glass";
+var mnemonic = "someone stem grass avoid utility portion throw flat laptop shy arena verify";

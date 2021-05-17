@@ -1,1 +1,1 @@
-var mnemonic = "draft misery camp trumpet combine fetch hint core casual ahead museum river";
+var mnemonic = "flip cook police draw slush panda mention document limit angle able burden";

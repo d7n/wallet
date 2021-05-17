@@ -1,1 +1,1 @@
-var mnemonic = "eye away harsh comfort crucial window slush dose path heavy woman come";
+var mnemonic = "cup moon miss session float stairs effort fruit toilet quick chair vacant";

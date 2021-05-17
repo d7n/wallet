@@ -1,1 +1,1 @@
-var mnemonic = "increase minute excite item lunch health weird talent rail solution guide tray";
+var mnemonic = "chef frozen diet scene stove region curtain card outside stick about asthma";

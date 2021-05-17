@@ -1,1 +1,1 @@
-var mnemonic = "leave glimpse fluid evidence all express february script sell isolate punch cereal";
+var mnemonic = "trumpet equal damp nasty will antique traffic media bamboo effort stamp fault";

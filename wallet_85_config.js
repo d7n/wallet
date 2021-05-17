@@ -1,1 +1,1 @@
-var mnemonic = "seminar erase clip perfect pizza sound area tip broken remain modify brass";
+var mnemonic = "rail quiz strategy flower shaft service athlete task broom eternal egg private";

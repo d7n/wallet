@@ -1,1 +1,1 @@
-var mnemonic = "speak material toddler exhaust only upper early ride short output erosion wreck";
+var mnemonic = "drum fiber when bacon fork have nephew coast host spin expand rich";

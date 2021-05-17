@@ -1,1 +1,1 @@
-var mnemonic = "army saddle artefact alone dial jealous seminar useless clump sorry advice exile";
+var mnemonic = "slab flush bleak secret dizzy library world omit curious strike rose movie";

@@ -1,1 +1,1 @@
-var mnemonic = "dial injury pottery evoke century copper nation drastic mail act interest brand";
+var mnemonic = "appear wish fever silver excuse process sight soap above dirt fog mule";

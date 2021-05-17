@@ -1,1 +1,1 @@
-var mnemonic = "heavy armor grain dice opera theory always relief enemy amateur defense soccer";
+var mnemonic = "tired february design elbow keen jungle disorder ethics begin truth original slush";

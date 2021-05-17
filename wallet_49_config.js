@@ -1,1 +1,1 @@
-var mnemonic = "host author initial present original diamond foam trend lake pretty enact deny";
+var mnemonic = "else alone order zebra fold view note rude dash egg easy tail";

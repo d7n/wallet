@@ -1,1 +1,1 @@
-var mnemonic = "uphold pizza promote guess devote monitor capital question version leave use furnace";
+var mnemonic = "harvest wisdom river author route deer fan invite unfold skin amateur crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing genius wrist detail staff battle length venue drum soon funny spot";
+var mnemonic = "demise exercise reduce scene monitor blossom bargain trial sort motor tail convince";

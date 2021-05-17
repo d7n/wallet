@@ -1,1 +1,1 @@
-var mnemonic = "junk similar quantum glue panda book harsh guard glass dog price beyond";
+var mnemonic = "birth celery can artefact truth topple future interest pelican trigger heart remain";

@@ -1,1 +1,1 @@
-var mnemonic = "travel rude start link fish mention rate daughter engage wool tennis sense";
+var mnemonic = "ripple balcony stool conduct stick fat awkward blind cute approve eager lab";

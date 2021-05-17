@@ -1,1 +1,1 @@
-var mnemonic = "excess sunny truly cigar ghost choice wealth dove law another next drama";
+var mnemonic = "print few bacon aisle quantum bleak birth seed gravity sword pencil hero";

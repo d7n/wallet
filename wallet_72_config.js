@@ -1,1 +1,1 @@
-var mnemonic = "rely van umbrella now someone small derive wink sunny stuff simple caution";
+var mnemonic = "phone guard click orchard under hunt thumb borrow always priority economy capital";

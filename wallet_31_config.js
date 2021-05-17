@@ -1,1 +1,1 @@
-var mnemonic = "couple about puppy rebuild sail popular calm obscure seven corn horn student";
+var mnemonic = "resemble dwarf number afford crawl stairs waste force shuffle mom film capital";

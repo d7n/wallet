@@ -1,1 +1,1 @@
-var mnemonic = "benefit slam parrot earth dignity avoid tip suffer rug wide wheat orbit";
+var mnemonic = "pulp drive mercy venture era bike manual normal banana subject limit broom";

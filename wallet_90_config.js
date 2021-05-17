@@ -1,1 +1,1 @@
-var mnemonic = "broken useful rail main mango spirit jazz ribbon life bus toward sniff";
+var mnemonic = "sausage bomb share what define treat cry loud possible winner spike palm";

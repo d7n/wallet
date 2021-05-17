@@ -1,1 +1,1 @@
-var mnemonic = "sort decrease lake broccoli custom visit wreck swift advance tackle another license";
+var mnemonic = "rude gauge kit minute switch off spread snap door pause curve lady";

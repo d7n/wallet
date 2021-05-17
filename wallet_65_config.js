@@ -1,1 +1,1 @@
-var mnemonic = "truth cherry enjoy nut armor crush lonely visit seat twenty forest minor";
+var mnemonic = "math elegant island clock side utility struggle rate ball silver silver explain";

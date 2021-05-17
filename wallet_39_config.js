@@ -1,1 +1,1 @@
-var mnemonic = "behave busy arrive survey swarm long buddy park affair east figure crash";
+var mnemonic = "dinner host liar exercise come butter junior knife public awkward ordinary deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby flame reward armor rabbit ripple sing law seven gentle stomach hover";
+var mnemonic = "split humble cabin smooth hunt fine avoid hello rose jelly language embrace";

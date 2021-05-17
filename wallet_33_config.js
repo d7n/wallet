@@ -1,1 +1,1 @@
-var mnemonic = "until economy ribbon emerge priority behind behind connect tell gas asthma club";
+var mnemonic = "sting sport near silly brown glass unlock wing stomach hair base capital";

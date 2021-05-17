@@ -1,1 +1,1 @@
-var mnemonic = "virtual target aisle utility faint move picnic rubber obvious pyramid favorite execute";
+var mnemonic = "number van account slender simple argue cheap convince shiver assault present lion";

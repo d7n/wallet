@@ -1,1 +1,1 @@
-var mnemonic = "nephew head chunk stem trust tool sponsor bridge blast kind clarify long";
+var mnemonic = "harbor country rib tackle glad weekend best shoulder wet reason leader disease";

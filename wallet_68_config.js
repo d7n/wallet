@@ -1,1 +1,1 @@
-var mnemonic = "remain chaos scare father pepper term napkin few broccoli spin few dwarf";
+var mnemonic = "gentle noise magic bottom matrix blouse plunge inject secret december area traffic";

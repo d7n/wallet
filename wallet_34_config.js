@@ -1,1 +1,1 @@
-var mnemonic = "pen loan muffin increase basket south when mother veteran chair famous repeat";
+var mnemonic = "elevator sheriff three plug decline cradle mixed approve much bring quit cloud";

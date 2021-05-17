@@ -1,1 +1,1 @@
-var mnemonic = "about cabin club knife vote same raw can paper board animal soon";
+var mnemonic = "amused update also tornado doctor clean border own drop siren tape brother";

@@ -1,1 +1,1 @@
-var mnemonic = "genius umbrella sand spider pipe mango you claw volume garlic popular tag";
+var mnemonic = "post jewel firm park inform clock quiz genre enroll purpose parrot leopard";

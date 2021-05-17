@@ -1,1 +1,1 @@
-var mnemonic = "emerge jacket satisfy disorder false amateur ugly car copper come buyer man";
+var mnemonic = "brain riot harsh fringe shiver spirit agree dish exile expose dice census";

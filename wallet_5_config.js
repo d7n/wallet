@@ -1,1 +1,1 @@
-var mnemonic = "rib village fluid pilot marble rail glow spread nasty carpet erode arrow";
+var mnemonic = "just cheap trouble survey diesel amazing glow warm gun armed exact section";

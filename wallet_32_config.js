@@ -1,1 +1,1 @@
-var mnemonic = "load hour join amused siege only entire biology project maximum uphold miracle";
+var mnemonic = "alone toe practice length abstract toast session galaxy bid such frost mention";

@@ -1,1 +1,1 @@
-var mnemonic = "prison early taste forest glory bleak fence pass ketchup task carbon price";
+var mnemonic = "bring agree any eager march media grow tired boil allow shiver mushroom";

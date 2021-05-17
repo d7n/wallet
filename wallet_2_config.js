@@ -1,1 +1,1 @@
-var mnemonic = "yard summer sugar fruit try crawl velvet profit palm exhaust safe dinosaur";
+var mnemonic = "wing alter present truth rally gun pitch picnic discover swap select shadow";

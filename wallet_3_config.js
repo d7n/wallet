@@ -1,1 +1,1 @@
-var mnemonic = "divide broken phone nasty diagram shrimp duck husband digital laundry sight anchor";
+var mnemonic = "agree alert coyote task orphan virus later ethics announce student junk panda";

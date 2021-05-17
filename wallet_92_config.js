@@ -1,1 +1,1 @@
-var mnemonic = "head apart spirit output cheap craft entire voyage smooth pyramid benefit stool";
+var mnemonic = "life feature steel rally priority frost ordinary water gun shrug rug kitten";

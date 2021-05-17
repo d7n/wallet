@@ -1,1 +1,1 @@
-var mnemonic = "elegant short zone harsh trip riot engage clean alien pupil disorder rally";
+var mnemonic = "unveil wood whale shift inmate erupt harbor garage myth laugh fatigue phone";

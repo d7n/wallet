@@ -1,1 +1,1 @@
-var mnemonic = "project hobby warrior museum want powder magnet romance bamboo muscle real life";
+var mnemonic = "tiny situate drill lecture grab citizen accuse brand donkey talk script mean";

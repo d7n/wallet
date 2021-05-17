@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur supply argue energy sea antenna brick odor live lunar accuse minor";
+var mnemonic = "catch frown few test favorite dizzy alcohol reunion point twelve crew vague";

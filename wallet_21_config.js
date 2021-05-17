@@ -1,1 +1,1 @@
-var mnemonic = "pyramid garden excuse fluid village entry index banner elegant matter output require";
+var mnemonic = "sign distance define behave mask input addict nest blood figure voice cannon";

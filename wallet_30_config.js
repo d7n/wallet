@@ -1,1 +1,1 @@
-var mnemonic = "remember electric museum chest resemble oppose buddy grass guilt worth alone maid";
+var mnemonic = "luggage pair client tuition clump vacant virus member cake method vapor grow";

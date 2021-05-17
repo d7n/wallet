@@ -1,1 +1,1 @@
-var mnemonic = "result conduct smoke lonely edit yellow oak image mechanic matter prize catalog";
+var mnemonic = "muscle invest convince misery artefact maid again expand drama oxygen balance gloom";

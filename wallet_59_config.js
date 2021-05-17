@@ -1,1 +1,1 @@
-var mnemonic = "parade foil later movie wet document pigeon kind lumber sort pledge public";
+var mnemonic = "exact hub unable lab solve wise plastic funny spring story cinnamon vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "away kid purse like suggest okay offer answer vapor cat people silver";
+var mnemonic = "donate poverty loud inmate neglect pave saddle champion cream talent candy rude";

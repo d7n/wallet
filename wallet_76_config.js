@@ -1,1 +1,1 @@
-var mnemonic = "enter start hand miss crack fatal tonight gauge garlic quit flash dance";
+var mnemonic = "group matter casino youth easy poet letter grid target coyote habit giraffe";

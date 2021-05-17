@@ -1,1 +1,1 @@
-var mnemonic = "team until tennis hill fold material shell bunker unusual rule essence stable";
+var mnemonic = "spirit hand snow fade economy industry remain man tongue notable benefit bottom";

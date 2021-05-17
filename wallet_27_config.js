@@ -1,1 +1,1 @@
-var mnemonic = "helmet unfold regret balance erase soul excess combine deliver large echo renew";
+var mnemonic = "soul deal camp unhappy dose pink write ability shed bracket donate heavy";

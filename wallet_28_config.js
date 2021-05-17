@@ -1,1 +1,1 @@
-var mnemonic = "crack city actual agent twist dentist intact sad thunder elbow sport involve";
+var mnemonic = "resemble speak course melody isolate side half fun pioneer fiber clock pencil";

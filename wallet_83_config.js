@@ -1,1 +1,1 @@
-var mnemonic = "plastic above animal area maximum analyst address paddle nerve mountain enough sport";
+var mnemonic = "anger devote that jelly sentence poverty ecology wedding tank menu obscure fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "summer accident face auction fever reunion flash zoo sudden crack van skull";
+var mnemonic = "bitter wing present segment menu item share gate will correct artefact canoe";

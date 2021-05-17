@@ -1,1 +1,1 @@
-var mnemonic = "slice primary very empty magic floor change medal rule join morning that";
+var mnemonic = "predict plastic upgrade snap spring tool list artist soup escape modify dentist";

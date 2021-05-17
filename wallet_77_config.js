@@ -1,1 +1,1 @@
-var mnemonic = "pass coil stadium hill learn snow antique improve cage hair loop speed";
+var mnemonic = "amazing trap random beef match acoustic argue will toilet foam maid host";

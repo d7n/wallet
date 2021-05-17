@@ -1,1 +1,1 @@
-var mnemonic = "bulb ski midnight vintage velvet convince alter novel segment desert armor high";
+var mnemonic = "shadow youth hole egg virtual screen scorpion attack pig rack dynamic wear";

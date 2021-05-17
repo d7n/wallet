@@ -1,1 +1,1 @@
-var mnemonic = "youth inflict direct slim umbrella flee target tone demise swallow left area";
+var mnemonic = "approve punch young choose fuel attitude toward scale domain window episode wedding";

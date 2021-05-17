@@ -1,1 +1,1 @@
-var mnemonic = "canvas isolate sunset bachelor ticket fiction whale drip magnet basket public grass";
+var mnemonic = "number away disorder upper task gospel pulp kitten plastic neither doctor circle";

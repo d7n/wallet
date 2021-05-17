@@ -1,1 +1,1 @@
-var mnemonic = "office sense three youth track pattern industry card fever loop owner pass";
+var mnemonic = "double skull laptop volcano mean put inhale prosper true ozone daring grit";

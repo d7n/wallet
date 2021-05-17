@@ -1,1 +1,1 @@
-var mnemonic = "approve brush pipe rural vague evolve pioneer wrestle insect slam fiscal choose";
+var mnemonic = "quit obey title hurry help final tenant remind betray lava odor umbrella";

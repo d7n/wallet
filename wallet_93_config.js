@@ -1,1 +1,1 @@
-var mnemonic = "milk dentist chest defy special badge half tenant angle attitude junior cushion";
+var mnemonic = "scrub sister supreme zebra camp dentist oxygen ahead key unusual lottery twist";

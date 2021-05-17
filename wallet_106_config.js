@@ -1,1 +1,1 @@
-var mnemonic = "hurdle lady soldier tired imitate cargo such lava oxygen run inquiry wool";
+var mnemonic = "soup outer label brisk melt ship another engage brief voyage often boost";

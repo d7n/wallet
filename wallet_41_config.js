@@ -1,1 +1,1 @@
-var mnemonic = "peasant intact civil chief disorder wreck arrange fruit setup radar digital dinosaur";
+var mnemonic = "remove negative receive worth basic local toilet recycle record firm clutch fiscal";

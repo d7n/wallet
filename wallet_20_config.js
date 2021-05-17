@@ -1,1 +1,1 @@
-var mnemonic = "luggage describe humble outer law process slender private amazing lend require tissue";
+var mnemonic = "since bright coconut firm lottery tomato behind erode strong volcano kite cactus";

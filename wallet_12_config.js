@@ -1,1 +1,1 @@
-var mnemonic = "warfare guitar ritual lock obey lunar daring stamp ordinary top clinic remind";
+var mnemonic = "child original august pipe olympic own abuse bullet fall produce diamond gym";

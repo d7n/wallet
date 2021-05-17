@@ -1,1 +1,1 @@
-var mnemonic = "curtain doll danger fiber miss bubble excite group execute shrug guard random";
+var mnemonic = "grow palm yellow lady elevator lion mechanic math wave soon color tilt";

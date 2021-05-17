@@ -1,1 +1,1 @@
-var mnemonic = "drum real deputy art rocket arrow spring tomorrow tail maximum doll step";
+var mnemonic = "suggest produce sausage virtual figure develop orbit brick cloth parade model logic";

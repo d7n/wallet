@@ -1,1 +1,1 @@
-var mnemonic = "eternal south version merge under agent awake master hazard clutch crime answer";
+var mnemonic = "engine friend sweet cousin surround grit innocent globe nature essence barely slim";

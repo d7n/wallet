@@ -1,1 +1,1 @@
-var mnemonic = "train join blast eternal mango stone aerobic pledge brain large north emotion";
+var mnemonic = "stairs job cram will since unit cluster keen episode vintage winner forward";

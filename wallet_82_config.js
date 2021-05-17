@@ -1,1 +1,1 @@
-var mnemonic = "senior economy script soft wrong sustain pepper device palm inject under hero";
+var mnemonic = "cook only super visual wrist unit ride stomach soldier improve divert maximum";

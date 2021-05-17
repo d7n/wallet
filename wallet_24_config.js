@@ -1,1 +1,1 @@
-var mnemonic = "topple giraffe spray lock spy gossip flag kind month benefit find book";
+var mnemonic = "more harsh garage oak couple squeeze balance firm eight mass motion various";

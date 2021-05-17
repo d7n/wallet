@@ -1,1 +1,1 @@
-var mnemonic = "drum lemon refuse cook crowd distance legend learn clarify fix cage describe";
+var mnemonic = "close apology oxygen effort dismiss action stadium together spell cabbage dial surround";

@@ -1,1 +1,1 @@
-var mnemonic = "sight lunch worth stool weapon glass federal bacon dose jump coast sick";
+var mnemonic = "custom spare tiger grow cart lion sudden manage eager suggest space fatal";

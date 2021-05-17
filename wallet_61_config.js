@@ -1,1 +1,1 @@
-var mnemonic = "obscure soccer result lend slide hen fragile sauce raccoon forest snake absent";
+var mnemonic = "science fold huge buzz group scorpion bike calm orphan uncover amazing board";

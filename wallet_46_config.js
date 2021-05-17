@@ -1,1 +1,1 @@
-var mnemonic = "traffic hint chair cheese sniff history weapon blossom material object marble abandon";
+var mnemonic = "effort logic cruel happy way leopard south educate add consider casual pet";

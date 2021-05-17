@@ -1,1 +1,1 @@
-var mnemonic = "tourist urban skull verify actual robust romance unfold table enter annual badge";
+var mnemonic = "volcano neutral floor wave joke click end chief sword wasp spray kiss";

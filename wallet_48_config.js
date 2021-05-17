@@ -1,1 +1,1 @@
-var mnemonic = "silent burger sudden noble noble ozone improve soap sight eternal divert garden";
+var mnemonic = "fame slim double amount firm burst toe wet steak ski sand dice";

@@ -1,1 +1,1 @@
-var mnemonic = "claw kitten intact various album auto law laugh frost mule meadow warm";
+var mnemonic = "pride space vacant limb anger message merit spray decrease social soda clean";

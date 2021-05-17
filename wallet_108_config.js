@@ -1,1 +1,1 @@
-var mnemonic = "sell canyon where sound sweet brave squirrel curious game rapid memory spell";
+var mnemonic = "dog owner luggage code mistake solid town cattle symptom festival diary recall";

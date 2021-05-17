@@ -1,1 +1,1 @@
-var mnemonic = "village innocent cram ring collect garage message vacuum crystal situate spray innocent";
+var mnemonic = "today virus goat rain top snap stand cinnamon april true author settle";

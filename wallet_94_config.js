@@ -1,1 +1,1 @@
-var mnemonic = "scrub napkin journey sea awesome festival teach merry luggage net much base";
+var mnemonic = "chunk juice true later margin oppose sick shrimp about mention airport maid";

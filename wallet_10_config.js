@@ -1,1 +1,1 @@
-var mnemonic = "afford grace owner farm shrimp video empower menu motion focus salt conduct";
+var mnemonic = "prison bargain dress north garage rapid unlock give subject vintage grab wasp";

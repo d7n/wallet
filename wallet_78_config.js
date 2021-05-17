@@ -1,1 +1,1 @@
-var mnemonic = "disorder oven nominee like anxiety million carry jeans client despair angry glad";
+var mnemonic = "slow mean elegant globe course eager arm number rare finger venture brave";

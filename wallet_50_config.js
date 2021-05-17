@@ -1,1 +1,1 @@
-var mnemonic = "rice neck multiply hip cup treat artefact can deposit work come mechanic";
+var mnemonic = "second nature spoon typical desk client sunset celery farm theme outside shallow";
