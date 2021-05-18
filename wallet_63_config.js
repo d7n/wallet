@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog amazing health rebuild flat riot harvest honey apart produce betray torch";
+var mnemonic = "man access tool own detail diagram suspect cycle floor keen blue moment";

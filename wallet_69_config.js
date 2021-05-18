@@ -1,1 +1,1 @@
-var mnemonic = "party dinner heart bean inner borrow dice oval away gather release mad";
+var mnemonic = "mutual album planet today citizen basic course two unique tank obey goddess";

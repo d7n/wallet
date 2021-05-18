@@ -1,1 +1,1 @@
-var mnemonic = "dash knock steak beef daring unusual cram brush radio talent boost bread";
+var mnemonic = "pumpkin road sweet review funny congress hen decorate oxygen caught apple creek";

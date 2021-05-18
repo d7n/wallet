@@ -1,1 +1,1 @@
-var mnemonic = "funny insect hair tuna axis shuffle betray claim blouse tragic finger olympic";
+var mnemonic = "raw cushion amazing injury fit salon mosquito lyrics way desert pair demise";

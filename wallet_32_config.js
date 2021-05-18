@@ -1,1 +1,1 @@
-var mnemonic = "ostrich zoo erosion lunch dish jar candy bitter size snake vivid picnic";
+var mnemonic = "own mansion fade silent peace table uniform item tribe cloth blue erosion";

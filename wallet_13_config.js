@@ -1,1 +1,1 @@
-var mnemonic = "puppy cart orange correct save spare pen joy twist flavor aunt culture";
+var mnemonic = "later large dance rent rival disagree law six horror ozone bronze great";

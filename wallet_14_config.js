@@ -1,1 +1,1 @@
-var mnemonic = "you spring deal absurd shallow domain answer valid later during use monitor";
+var mnemonic = "spice hurt oval devote paper choice aerobic elder salt reveal wet grid";

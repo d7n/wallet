@@ -1,1 +1,1 @@
-var mnemonic = "vacuum believe web sense bench plate rug panther festival adapt cube eyebrow";
+var mnemonic = "exit impact chimney polar push custom stand another inmate swarm waste spin";

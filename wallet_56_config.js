@@ -1,1 +1,1 @@
-var mnemonic = "talk attitude garden seek feature admit sketch spy upset journey energy badge";
+var mnemonic = "announce primary absurd capital exact face photo thumb dust honey define coin";

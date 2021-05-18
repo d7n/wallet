@@ -1,1 +1,1 @@
-var mnemonic = "color frog party glue ten car tower culture able kingdom fan balance";
+var mnemonic = "truly pill render prepare dawn arrest update rose save lunch advance catalog";

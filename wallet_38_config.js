@@ -1,1 +1,1 @@
-var mnemonic = "curtain prize analyst liar science trade spice hold length someone head level";
+var mnemonic = "vote version crisp organ undo spice saddle panic jacket message hire receive";

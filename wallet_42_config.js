@@ -1,1 +1,1 @@
-var mnemonic = "world true hazard spoil skin earn cushion budget absorb patient possible satisfy";
+var mnemonic = "produce road razor dentist tragic injury dial flush bulk please patch steel";

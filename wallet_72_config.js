@@ -1,1 +1,1 @@
-var mnemonic = "mule way clever zoo nasty nest fade vendor machine shoe pull praise";
+var mnemonic = "car fog ring firm clog alter space battle rely liquid admit aerobic";

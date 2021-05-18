@@ -1,1 +1,1 @@
-var mnemonic = "either electric leopard witness able obscure flush ordinary wall genre timber gather";
+var mnemonic = "educate symptom pave parade shuffle turtle maze firm dust still mechanic caught";

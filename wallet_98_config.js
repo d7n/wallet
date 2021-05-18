@@ -1,1 +1,1 @@
-var mnemonic = "balance ghost busy proud myth music burger open hour various assume drip";
+var mnemonic = "slight typical plate order forest trim race abuse consider wheel real link";

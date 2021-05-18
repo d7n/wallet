@@ -1,1 +1,1 @@
-var mnemonic = "diesel update steel desk machine trophy word elder nasty city crawl unveil";
+var mnemonic = "test fish three cannon little swarm exact swift narrow program amateur intact";

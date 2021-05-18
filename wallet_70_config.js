@@ -1,1 +1,1 @@
-var mnemonic = "stuff coach payment curve cousin busy illegal flower quarter virtual sing light";
+var mnemonic = "tuna chest upon target renew visual label clinic sugar draw coin flower";

@@ -1,1 +1,1 @@
-var mnemonic = "extend mean riot gentle satoshi novel thank light clarify cake reject panda";
+var mnemonic = "jealous scan assault twice girl salad engine canoe pride dose toe harvest";

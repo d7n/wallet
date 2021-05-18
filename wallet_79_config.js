@@ -1,1 +1,1 @@
-var mnemonic = "legal penalty magic they beef final hospital lock hurt alley clean stamp";
+var mnemonic = "setup genuine cotton gallery sponsor margin inject current grit what amount leave";

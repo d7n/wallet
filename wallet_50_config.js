@@ -1,1 +1,1 @@
-var mnemonic = "window snake embark renew seven kiss lava rose soup outside prevent nation";
+var mnemonic = "stereo gate diary column dance error box absurd tree travel matrix wreck";

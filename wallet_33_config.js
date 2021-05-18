@@ -1,1 +1,1 @@
-var mnemonic = "kingdom eagle super puppy produce shove adult size truth permit magic grain";
+var mnemonic = "timber catch exact various prison apology ocean trouble harbor burst camera write";

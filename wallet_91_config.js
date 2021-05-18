@@ -1,1 +1,1 @@
-var mnemonic = "fatal armed winner rhythm bag crystal job flat ice sun obvious absurd";
+var mnemonic = "dinosaur pattern deny cancel ocean combine over film clay thunder jump air";

@@ -1,1 +1,1 @@
-var mnemonic = "pair regular hen idea video daring hover opera oblige sword sadness agree";
+var mnemonic = "first potato notable derive until ethics room fold twice alpha present win";

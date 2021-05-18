@@ -1,1 +1,1 @@
-var mnemonic = "ozone bring hard twist amount sight knee pact weekend day engine test";
+var mnemonic = "foster essay together struggle pluck orange desk observe bird aisle say basket";

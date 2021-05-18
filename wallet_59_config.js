@@ -1,1 +1,1 @@
-var mnemonic = "emerge mango scare wood betray fossil next bulb claw elite laptop sing";
+var mnemonic = "region sure genuine embark resist tank remember borrow outdoor enlist cable near";

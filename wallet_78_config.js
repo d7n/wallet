@@ -1,1 +1,1 @@
-var mnemonic = "novel master dutch circle soccer suffer model cereal goddess front client twin";
+var mnemonic = "develop afraid elbow apology never surround real venture jump second pelican galaxy";

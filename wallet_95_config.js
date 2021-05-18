@@ -1,1 +1,1 @@
-var mnemonic = "badge thumb suggest light keep fury actual cage dream kid scout initial";
+var mnemonic = "satisfy able spike vault lesson crawl express bubble carpet grit quiz west";

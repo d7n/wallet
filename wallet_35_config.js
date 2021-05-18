@@ -1,1 +1,1 @@
-var mnemonic = "awful bomb apple anxiety spoon grace settle brown shift short indicate rapid";
+var mnemonic = "dash kiss avocado scare rice vicious mouse album link genuine chicken vast";

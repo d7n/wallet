@@ -1,1 +1,1 @@
-var mnemonic = "fever winner typical pulse damp mix mind client scorpion poverty emerge flower";
+var mnemonic = "orient fork rent cake butter clinic arrest green pact try trim mad";

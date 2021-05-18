@@ -1,1 +1,1 @@
-var mnemonic = "large yellow lumber come team stock wool number certain century certain taxi";
+var mnemonic = "equip name carpet waste grass tragic system deer patient art radar fan";

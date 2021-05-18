@@ -1,1 +1,1 @@
-var mnemonic = "name ugly dignity kangaroo interest copper forest plastic suggest valve movie amazing";
+var mnemonic = "analyst oil alley oxygen remove fee claim team eagle left correct rain";

@@ -1,1 +1,1 @@
-var mnemonic = "again toilet neglect spray wire pistol capital way zero labor nest limit";
+var mnemonic = "yellow lens hobby dress danger ship rude boil mirror march tree knee";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake gap cute kid expect relief notice genre village discover must draw";
+var mnemonic = "twice furnace journey beach final twist easily snow syrup text elder mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "honey vapor grape hospital story trigger what more profit nominee tiger install";
+var mnemonic = "open wrong boat valid peanut west paddle meat output matrix width crash";

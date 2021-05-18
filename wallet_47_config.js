@@ -1,1 +1,1 @@
-var mnemonic = "corn balance ripple canyon hold brand slice shop enlist offer march shoot";
+var mnemonic = "champion tourist kid sweet monkey aspect praise have razor clip sort edit";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose fruit neither pause hunt tornado region gorilla flush powder fold slice";
+var mnemonic = "over wash shield retire utility casino mystery fiber hour erosion cotton length";

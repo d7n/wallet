@@ -1,1 +1,1 @@
-var mnemonic = "exist column congress mountain this hen fatal minimum expire tackle shift mean";
+var mnemonic = "female velvet record elevator first cannon remind capital blade nice reduce either";

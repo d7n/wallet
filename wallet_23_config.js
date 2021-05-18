@@ -1,1 +1,1 @@
-var mnemonic = "stable number south display summer trick dragon aunt material battle bring ice";
+var mnemonic = "kit great obey enter intact release beauty march bus crystal mad hood";

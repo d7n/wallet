@@ -1,1 +1,1 @@
-var mnemonic = "broom science glide powder shaft expire what answer fix solar exhaust voyage";
+var mnemonic = "afford someone input cram chief during cycle report october property tray system";

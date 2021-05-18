@@ -1,1 +1,1 @@
-var mnemonic = "glue response come express pipe miss aisle thunder exile kidney wall air";
+var mnemonic = "long obscure canal you cigar glad gospel garden game syrup vanish badge";

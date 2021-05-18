@@ -1,1 +1,1 @@
-var mnemonic = "anxiety enable toddler art super mixture borrow script inhale outer topic mean";
+var mnemonic = "find funny exist laundry what real ribbon steel near group pizza whale";

@@ -1,1 +1,1 @@
-var mnemonic = "convince uniform notice grape ride tilt asset ankle tool please expect hazard";
+var mnemonic = "divorce random patch north similar impact tragic lava govern fork pig label";

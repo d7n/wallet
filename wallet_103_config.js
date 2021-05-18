@@ -1,1 +1,1 @@
-var mnemonic = "arrange daring oblige about horn member bounce express ticket obtain face pumpkin";
+var mnemonic = "shop setup silk decline chronic bone brain oak purpose raccoon public measure";

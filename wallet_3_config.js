@@ -1,1 +1,1 @@
-var mnemonic = "trap attract sheriff clump trade sample castle canoe alien pigeon hammer asset";
+var mnemonic = "spider plunge now lab between pitch improve comfort rabbit input add juice";

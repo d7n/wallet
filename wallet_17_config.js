@@ -1,1 +1,1 @@
-var mnemonic = "gate hurdle green mixture manual sun fancy mammal warfare outer brisk spider";
+var mnemonic = "throw weird path wait bronze just monitor kangaroo canal creek husband hole";

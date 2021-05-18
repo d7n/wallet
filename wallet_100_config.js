@@ -1,1 +1,1 @@
-var mnemonic = "fade cheap fox salad cat biology six tired plug awesome apology bind";
+var mnemonic = "snake pink degree pony lion collect pear canyon palm off aisle that";

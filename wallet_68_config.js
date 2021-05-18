@@ -1,1 +1,1 @@
-var mnemonic = "salon spoil session medal thought decrease abuse rack sound much hint witness";
+var mnemonic = "snake nation copy alone window salmon horror educate order cattle brief reason";

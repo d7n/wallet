@@ -1,1 +1,1 @@
-var mnemonic = "payment puppy exhaust audit sausage engine orphan aisle price toddler purchase regret";
+var mnemonic = "reduce friend permit great rigid output cheap garment horse say vehicle net";

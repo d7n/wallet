@@ -1,1 +1,1 @@
-var mnemonic = "eagle tray coyote year lazy brush two unit unveil option scale vacant";
+var mnemonic = "owner tuition wrestle feel collect demand ready please panther damage attitude tail";

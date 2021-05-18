@@ -1,1 +1,1 @@
-var mnemonic = "reopen indicate bean twice walnut segment finish space physical famous cost key";
+var mnemonic = "transfer latin gain normal hour blue remember depth sadness indicate electric list";

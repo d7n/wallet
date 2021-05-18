@@ -1,1 +1,1 @@
-var mnemonic = "practice return harvest fame rural level they tank knock prison fix ensure";
+var mnemonic = "pill yard bacon crucial upon rigid mercy private genre typical citizen timber";

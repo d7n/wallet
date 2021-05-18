@@ -1,1 +1,1 @@
-var mnemonic = "gospel uncle start radio logic ramp quit pill marine sweet smile indicate";
+var mnemonic = "music want ozone negative reduce drama summer below enemy smoke normal holiday";

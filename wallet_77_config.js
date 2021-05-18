@@ -1,1 +1,1 @@
-var mnemonic = "junk barely scare odor limit guilt bamboo edit black bubble electric private";
+var mnemonic = "cherry cabin dirt pipe able walk dry melody cram palace sponsor rebuild";

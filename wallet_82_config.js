@@ -1,1 +1,1 @@
-var mnemonic = "palm lava oven embody ball confirm monitor grief fall off obtain prefer";
+var mnemonic = "depend property similar acid pill second broken calm tilt grab hub tank";

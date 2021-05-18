@@ -1,1 +1,1 @@
-var mnemonic = "mirror boat gun interest find check pattern infant syrup network record fix";
+var mnemonic = "vanish any despair subject valid culture odor drum return tribe gap coffee";

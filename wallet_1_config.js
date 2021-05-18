@@ -1,1 +1,1 @@
-var mnemonic = "shoe wasp fancy husband cup ranch wasp online inform shrug endless buddy";
+var mnemonic = "cigar aerobic clarify office ranch hour admit autumn engage coffee pattern address";

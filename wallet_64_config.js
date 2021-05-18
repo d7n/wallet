@@ -1,1 +1,1 @@
-var mnemonic = "drama adult urge general melody wealth mobile prepare dizzy quit wheel story";
+var mnemonic = "surface ugly arch grant barely ice error marriage glass abandon predict goddess";

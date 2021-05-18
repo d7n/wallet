@@ -1,1 +1,1 @@
-var mnemonic = "motor globe silent cart unveil unable deal peasant purity cloud fatal ridge";
+var mnemonic = "lounge sell high frog gift meat foam labor alarm inside slight north";

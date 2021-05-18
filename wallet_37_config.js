@@ -1,1 +1,1 @@
-var mnemonic = "excite differ process polar twist essence pair alley blue dragon century weapon";
+var mnemonic = "decline trash tired story benefit summer hard useful easily move pride potato";

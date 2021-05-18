@@ -1,1 +1,1 @@
-var mnemonic = "vibrant impact grocery gate inmate insect donor slam version inflict slogan ride";
+var mnemonic = "surge gossip buddy adjust enroll visa hole clever wife heavy daring frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "mind alert hammer jump regret october inmate admit victory mixture brother absurd";
+var mnemonic = "remain two comic unknown economy easily anchor april rose source cancel yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty spice wrap miss hour situate struggle pear primary rough alter vintage";
+var mnemonic = "mom pond monster pass addict sadness hotel term hat kitchen tower oil";

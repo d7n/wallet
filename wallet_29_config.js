@@ -1,1 +1,1 @@
-var mnemonic = "lonely enrich burden surge doctor captain member exclude dove multiply clarify dad";
+var mnemonic = "sorry rate purse million fancy produce general entry cable rely shiver help";

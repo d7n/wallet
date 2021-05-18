@@ -1,1 +1,1 @@
-var mnemonic = "embody west tent smoke pave mother smooth enroll wife lens crane garage";
+var mnemonic = "end bubble dinner perfect carry pool bomb winter ancient gallery joy flavor";

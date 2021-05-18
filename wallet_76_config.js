@@ -1,1 +1,1 @@
-var mnemonic = "cry describe window tumble siege sell hand mail boil toilet circle egg";
+var mnemonic = "parade gaze warrior eagle soldier side hidden govern sunset perfect lyrics mean";

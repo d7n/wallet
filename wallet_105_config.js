@@ -1,1 +1,1 @@
-var mnemonic = "craft phone acquire believe unlock smooth have clinic limb solution early future";
+var mnemonic = "know aware panic interest finish reopen slush extra upgrade fabric intact hurry";

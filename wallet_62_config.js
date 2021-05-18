@@ -1,1 +1,1 @@
-var mnemonic = "glove file bar jeans above way valid blame reveal trip depend cousin";
+var mnemonic = "race coyote address zero plunge erupt latin tourist area round soda identify";

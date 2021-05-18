@@ -1,1 +1,1 @@
-var mnemonic = "solve finger access peanut asset fruit borrow raise mandate profit point hair";
+var mnemonic = "purchase steak kind radar silk midnight merge twenty now guide wreck abuse";

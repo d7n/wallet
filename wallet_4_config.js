@@ -1,1 +1,1 @@
-var mnemonic = "vendor opinion unveil dune coyote rhythm endless cotton antenna office awake spice";
+var mnemonic = "file relief cactus doll fan kiwi draw risk health lend spring body";

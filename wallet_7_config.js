@@ -1,1 +1,1 @@
-var mnemonic = "rabbit face volcano sister mansion journey there sock scorpion blood such try";
+var mnemonic = "hat bid tooth inform best walnut sand wish useless draw fire price";

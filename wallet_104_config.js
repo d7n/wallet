@@ -1,1 +1,1 @@
-var mnemonic = "vast double guilt can daughter future husband shock theme include cushion choose";
+var mnemonic = "mimic oval van hunt patient calm mule erupt wreck hospital sun lava";

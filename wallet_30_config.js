@@ -1,1 +1,1 @@
-var mnemonic = "fitness lab lobster jeans frozen oppose once outer brass morning mammal reopen";
+var mnemonic = "law sun upon equal select inform crew ask erosion lens ridge extend";

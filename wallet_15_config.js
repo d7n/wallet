@@ -1,1 +1,1 @@
-var mnemonic = "pelican fabric october arrange inspire hen undo tip exclude claim damp romance";
+var mnemonic = "blood lobster office drift fortune insane vicious alcohol oak provide pool renew";

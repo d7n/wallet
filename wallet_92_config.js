@@ -1,1 +1,1 @@
-var mnemonic = "title wall general open check accident fee render calm margin oppose display";
+var mnemonic = "run burst absent game uniform enlist adult parrot measure poverty hen stomach";

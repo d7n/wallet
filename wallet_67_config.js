@@ -1,1 +1,1 @@
-var mnemonic = "olympic cliff dash bulk attract filter burst size jacket cabin desert laundry";
+var mnemonic = "soon agree debate modify brave crucial film explain inflict favorite envelope topic";

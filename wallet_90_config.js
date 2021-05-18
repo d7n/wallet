@@ -1,1 +1,1 @@
-var mnemonic = "auction cream glide fringe cherry worry inform infant cheap pelican fault phone";
+var mnemonic = "civil flower actual kitten civil voice amount solve talent tower silk addict";

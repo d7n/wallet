@@ -1,1 +1,1 @@
-var mnemonic = "canvas detect fiscal this grid boost history bomb obey cook write usual";
+var mnemonic = "review dinosaur shallow mango weekend social couple result admit view favorite mouse";

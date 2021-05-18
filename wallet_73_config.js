@@ -1,1 +1,1 @@
-var mnemonic = "about family bid party toilet mask dentist blind fiber problem expand diamond";
+var mnemonic = "civil now gather aerobic wrist farm toddler illegal obscure fuel soda tiger";

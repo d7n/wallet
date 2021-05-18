@@ -1,1 +1,1 @@
-var mnemonic = "wagon punch shuffle suggest switch dignity zebra fruit unveil wolf when project";
+var mnemonic = "permit actor bag oak vocal ten six top plug club write salon";

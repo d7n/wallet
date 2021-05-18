@@ -1,1 +1,1 @@
-var mnemonic = "retire crush fever next tape purpose radar pond yard pink original bulb";
+var mnemonic = "okay negative awesome isolate couple expand friend purity member saddle switch illness";

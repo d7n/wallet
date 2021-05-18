@@ -1,1 +1,1 @@
-var mnemonic = "ramp evolve capable pave roof chest trouble alert attract useful cool float";
+var mnemonic = "must opera cage example idea solve artefact cement tomato fitness october then";

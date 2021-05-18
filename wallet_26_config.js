@@ -1,1 +1,1 @@
-var mnemonic = "prize spike clock among citizen alley mean breeze inspire exchange cushion march";
+var mnemonic = "miracle belt option winter glue grit myth sibling peasant control sound document";

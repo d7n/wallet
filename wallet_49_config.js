@@ -1,1 +1,1 @@
-var mnemonic = "home panic mom mobile marriage crater kiss dress bullet own toddler monitor";
+var mnemonic = "choose tilt phone ceiling spend shove evidence mutual away chapter hunt awful";

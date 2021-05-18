@@ -1,1 +1,1 @@
-var mnemonic = "pause rural buddy valley motion follow build weekend year vast feed speak";
+var mnemonic = "auction across pioneer mercy brave obvious lion segment off public border cake";

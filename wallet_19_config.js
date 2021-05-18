@@ -1,1 +1,1 @@
-var mnemonic = "day humor rare trick obey steel payment theory novel valley rapid survey";
+var mnemonic = "bundle auction cliff night any prison total unusual interest barrel jaguar try";

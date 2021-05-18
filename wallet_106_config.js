@@ -1,1 +1,1 @@
-var mnemonic = "before bean sick drip coconut museum minute vapor scorpion beyond globe elder";
+var mnemonic = "music column napkin eyebrow ceiling foam veteran grab reject excess trend staff";

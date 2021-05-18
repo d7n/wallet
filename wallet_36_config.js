@@ -1,1 +1,1 @@
-var mnemonic = "enjoy choose border clay evoke pottery mansion soap theme when dish phrase";
+var mnemonic = "crush gain note flush suit cloud raise such fox guard order grit";

@@ -1,1 +1,1 @@
-var mnemonic = "produce divorce robust over shed better once dose van situate category biology";
+var mnemonic = "blue manual figure animal avocado uphold tuition illegal festival horse beyond elegant";

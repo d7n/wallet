@@ -1,1 +1,1 @@
-var mnemonic = "language action front rose stable civil script master stadium crisp call about";
+var mnemonic = "seed amazing rookie bleak glide spoon great phone chaos path almost olive";
