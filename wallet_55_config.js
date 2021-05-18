@@ -1,1 +1,1 @@
-var mnemonic = "update yard olympic drop meadow bread rack panic flower maximum slot rescue";
+var mnemonic = "payment sunny orient retire salmon flavor ranch myth hundred fiction approve script";

@@ -1,1 +1,1 @@
-var mnemonic = "this violin water zero penalty fragile armor tank crouch theme merit tiger";
+var mnemonic = "rival absurd void welcome coconut kitten text attend critic winter zero rib";

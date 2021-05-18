@@ -1,1 +1,1 @@
-var mnemonic = "weather exercise orbit boy inch tone hamster gown lucky fiber execute aunt";
+var mnemonic = "special excuse cereal fold decline paddle fitness nation retreat first sweet truly";

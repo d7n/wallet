@@ -1,1 +1,1 @@
-var mnemonic = "play develop kingdom machine venue arena poet patch slush slush dinner cable";
+var mnemonic = "message torch pool renew fragile latin raccoon glory potato ski myth knife";

@@ -1,1 +1,1 @@
-var mnemonic = "glance foot planet purpose banana cinnamon comic faith magnet joke scene topic";
+var mnemonic = "custom radio peanut another cry nephew wonder portion child smoke expect slim";

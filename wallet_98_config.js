@@ -1,1 +1,1 @@
-var mnemonic = "bonus turkey peace possible grain term wool total hurry cage clutch giggle";
+var mnemonic = "almost cause six best jar open minimum icon gown shrug ramp spend";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn upset scan fall repeat sad absorb artefact share scout remain jacket";
+var mnemonic = "mom dream spoil copper dice used dress barely knife glare fence target";

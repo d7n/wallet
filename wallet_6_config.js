@@ -1,1 +1,1 @@
-var mnemonic = "proof edit current this taxi bind purity practice goddess enough almost fiscal";
+var mnemonic = "bone beach play ripple fit young field width trap bid wish win";

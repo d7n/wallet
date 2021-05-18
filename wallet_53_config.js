@@ -1,1 +1,1 @@
-var mnemonic = "victory wool frost boss grant coach enhance ready stock fine valley midnight";
+var mnemonic = "celery imitate company west staff casual alley fold angle impulse frog accident";

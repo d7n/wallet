@@ -1,1 +1,1 @@
-var mnemonic = "spawn horse divorce citizen welcome sausage grape bright visit better crucial oyster";
+var mnemonic = "axis foil prison balcony snow teach match rival stairs trial there today";

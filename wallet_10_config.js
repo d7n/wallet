@@ -1,1 +1,1 @@
-var mnemonic = "hood three switch truly armed beach win disease tiny thrive recall position";
+var mnemonic = "metal faint word heart float giant charge pool domain engage zebra pet";

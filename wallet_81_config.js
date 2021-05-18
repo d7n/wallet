@@ -1,1 +1,1 @@
-var mnemonic = "camera call capital primary maple salute direct repeat galaxy shove cable into";
+var mnemonic = "letter amazing brief abandon comfort innocent umbrella drop kingdom economy praise cigar";

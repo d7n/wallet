@@ -1,1 +1,1 @@
-var mnemonic = "soap away parrot canoe blur cereal rhythm tomato crucial detect exclude stuff";
+var mnemonic = "violin blood collect monkey happy invite flock wage innocent thumb come verb";

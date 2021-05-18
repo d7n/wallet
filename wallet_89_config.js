@@ -1,1 +1,1 @@
-var mnemonic = "will suspect member object swallow because crouch cash friend eternal negative enough";
+var mnemonic = "behave omit top silent carpet net hurry produce pupil raccoon survey issue";

@@ -1,1 +1,1 @@
-var mnemonic = "orient stand mercy olympic help blast donor crew pioneer barely neither snack";
+var mnemonic = "young flock link tell mobile agree hub foot modify crunch glove mail";

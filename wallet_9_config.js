@@ -1,1 +1,1 @@
-var mnemonic = "runway visa opinion fun salad oil ship cloth side margin color gift";
+var mnemonic = "turkey stamp total nasty surround glue survey furnace ensure barely sock volume";

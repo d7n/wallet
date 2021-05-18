@@ -1,1 +1,1 @@
-var mnemonic = "addict wise jump bone fall fine hurdle staff kitchen fortune cage tongue";
+var mnemonic = "love lobster laptop road march reopen beef enhance public ignore virtual beyond";

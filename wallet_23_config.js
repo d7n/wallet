@@ -1,1 +1,1 @@
-var mnemonic = "erupt surface spike aerobic sheriff angle like million match length program silent";
+var mnemonic = "unfair glide celery grass upgrade relief feel logic trap glimpse gun summer";

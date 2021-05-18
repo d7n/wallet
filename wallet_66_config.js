@@ -1,1 +1,1 @@
-var mnemonic = "detail orient tooth step truly staff spell code biology crowd balcony invest";
+var mnemonic = "crowd improve miss unable chase ill put fork noise run boy drip";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor dial legal churn access bronze liar call drift artist safe ignore";
+var mnemonic = "tube antique lyrics unlock bench debris endless cute hunt poverty elephant account";

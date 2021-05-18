@@ -1,1 +1,1 @@
-var mnemonic = "monkey fetch actor shadow second abstract try round amount hill fog harvest";
+var mnemonic = "skull clump collect crazy pumpkin rude quiz exotic slot upper venture sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "video prison return still box frost order cluster ready hundred shrimp fault";
+var mnemonic = "shrug orient oil menu furnace empower hint intact cotton material proud shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "token cherry almost surprise bundle state attack client phone buddy behave celery";
+var mnemonic = "auto voyage vague match wheel secret hamster able crazy vault define spin";

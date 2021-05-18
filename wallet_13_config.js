@@ -1,1 +1,1 @@
-var mnemonic = "convince laptop grass critic sister arch situate blood push crush refuse where";
+var mnemonic = "pupil gain trouble possible news palm unfair target next vanish blade stamp";

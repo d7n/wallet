@@ -1,1 +1,1 @@
-var mnemonic = "under cruel wink jazz again habit suggest pipe guess hello video seed";
+var mnemonic = "sausage weekend rifle common trim jelly turkey gospel bind general want fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "where enroll accident spray steel atom moral arrange original guard right island";
+var mnemonic = "burger stable address sketch whale pumpkin wrong globe sustain empty catalog grief";

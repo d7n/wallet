@@ -1,1 +1,1 @@
-var mnemonic = "scale tent enough pull viable near frequent tornado play bright legend return";
+var mnemonic = "unique clap paddle eye tragic panic hammer apology clock print feed priority";

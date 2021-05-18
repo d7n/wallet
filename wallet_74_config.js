@@ -1,1 +1,1 @@
-var mnemonic = "promote parrot all text pill napkin train mask arctic scissors file daring";
+var mnemonic = "clown govern stairs problem nurse comfort virtual gossip benefit length miss monitor";

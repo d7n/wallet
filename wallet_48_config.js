@@ -1,1 +1,1 @@
-var mnemonic = "bright pony umbrella crawl burst before strategy helmet setup vicious ritual stock";
+var mnemonic = "evil inhale flower small robot ridge awake vivid isolate mystery column glad";

@@ -1,1 +1,1 @@
-var mnemonic = "during vintage liquid layer tuition rabbit summer mystery ridge level grab gadget";
+var mnemonic = "collect public grief shell cabbage visual burden cycle tag library argue peace";

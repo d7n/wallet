@@ -1,1 +1,1 @@
-var mnemonic = "invest advice front legend dial solve figure adult arrow demise make crunch";
+var mnemonic = "ranch carpet across rich buddy wave salad nation reduce flash plate scissors";

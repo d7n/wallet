@@ -1,1 +1,1 @@
-var mnemonic = "place hood ordinary coast feature wrong brass fiscal online effort lift verify";
+var mnemonic = "second manage barrel walnut annual avocado collect marble chase coin negative history";

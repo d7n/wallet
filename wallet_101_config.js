@@ -1,1 +1,1 @@
-var mnemonic = "second rich vehicle abuse advance aware suspect yellow poverty similar bring reveal";
+var mnemonic = "cousin motor screen snake text table case popular online ripple donor marriage";

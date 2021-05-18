@@ -1,1 +1,1 @@
-var mnemonic = "resource tumble coyote approve carry junior home portion burden people south vendor";
+var mnemonic = "coral coil ozone truck first athlete crane broken dinosaur poverty urban pond";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum gesture neither since air negative sea gravity proof various salad domain";
+var mnemonic = "crouch dance attitude settle version income spoon face explain fatigue food same";

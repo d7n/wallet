@@ -1,1 +1,1 @@
-var mnemonic = "tag wet call violin strong remember path confirm vacuum junk dash beef";
+var mnemonic = "final rely conduct proud royal reunion bulk lift cattle avocado shiver young";

@@ -1,1 +1,1 @@
-var mnemonic = "pill glad comic farm school icon concert depth sheriff say lab render";
+var mnemonic = "bone dune trumpet drastic rally label bid boost amazing draw relax shell";

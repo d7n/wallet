@@ -1,1 +1,1 @@
-var mnemonic = "crazy keep feed gloom embody fancy donkey speed best aerobic rule swing";
+var mnemonic = "gadget jewel average area thing diet amateur bounce pottery wolf expose glue";

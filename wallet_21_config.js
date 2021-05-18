@@ -1,1 +1,1 @@
-var mnemonic = "nest cave distance oil heart metal spider catalog obtain phrase dream shine";
+var mnemonic = "neither kitten enforce horn prevent option pluck sport cat nest book soft";

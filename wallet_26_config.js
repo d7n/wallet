@@ -1,1 +1,1 @@
-var mnemonic = "put exit clever ladder cook cement project seat allow sudden rocket head";
+var mnemonic = "rifle venue twice solar erase model draw attract black horn blood addict";

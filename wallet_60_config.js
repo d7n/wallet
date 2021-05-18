@@ -1,1 +1,1 @@
-var mnemonic = "clever corn rapid believe move mention able spatial chalk render gas quantum";
+var mnemonic = "obscure gloom fiction sample say response poverty combine system wash access eager";

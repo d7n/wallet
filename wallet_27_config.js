@@ -1,1 +1,1 @@
-var mnemonic = "dizzy desk forest also patch fall identify fluid knife doll minimum enjoy";
+var mnemonic = "boring away blur direct nice seat either problem vintage tuna ramp vague";

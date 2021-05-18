@@ -1,1 +1,1 @@
-var mnemonic = "copy avoid citizen spoon valley idea chunk enjoy dinosaur scissors base enrich";
+var mnemonic = "miracle flag vault rally owner hill sound pole net face pass business";

@@ -1,1 +1,1 @@
-var mnemonic = "pair system quit omit dragon column slogan belt poverty ski honey toward";
+var mnemonic = "hidden street leisure sand dinner bleak bitter oppose master simple lottery client";

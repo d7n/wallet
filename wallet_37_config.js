@@ -1,1 +1,1 @@
-var mnemonic = "prefer nurse sunset truly follow answer summer nature rapid toe point surface";
+var mnemonic = "then desert napkin pepper keep sting domain venture fox heart metal daring";

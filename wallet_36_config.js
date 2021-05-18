@@ -1,1 +1,1 @@
-var mnemonic = "exit youth settle useful already advance circle stem broken tide vehicle again";
+var mnemonic = "spend dismiss supreme solid lizard purity alert neck include copper tuna code";

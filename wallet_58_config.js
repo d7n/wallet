@@ -1,1 +1,1 @@
-var mnemonic = "cash journey common crouch upset net spider merry glare another gap pair";
+var mnemonic = "gold pony ghost thrive chunk bridge coral essay bamboo chair item burst";

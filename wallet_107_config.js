@@ -1,1 +1,1 @@
-var mnemonic = "chief next auto sorry ginger check come raise middle wealth drip spot";
+var mnemonic = "fee camera pill drama misery scrub nature gather certain public attend depth";

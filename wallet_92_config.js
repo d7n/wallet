@@ -1,1 +1,1 @@
-var mnemonic = "fresh position ghost rotate elbow casual metal clerk mask goose horror give";
+var mnemonic = "project rich cloth visa use fiction laundry auction indicate couple license excuse";

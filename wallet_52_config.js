@@ -1,1 +1,1 @@
-var mnemonic = "happy discover bronze famous shoot envelope reform spin second recall maze one";
+var mnemonic = "cage balance basket suggest garage hill assume donkey slight fun tone type";

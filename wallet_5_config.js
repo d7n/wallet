@@ -1,1 +1,1 @@
-var mnemonic = "earth resource cinnamon fork outer pigeon indicate owner lava oak staff source";
+var mnemonic = "donkey inform civil month mobile task sunset decorate adult trust grain hospital";

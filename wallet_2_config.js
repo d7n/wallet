@@ -1,1 +1,1 @@
-var mnemonic = "palace calm write oven faculty rhythm tape curve exact detect name purpose";
+var mnemonic = "message vivid engage pattern voice scrap raise ski artefact south this meat";

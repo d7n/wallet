@@ -1,1 +1,1 @@
-var mnemonic = "bachelor kingdom movie make case laptop rack science nurse material liquid razor";
+var mnemonic = "tumble comic champion crash enable main abstract hospital want walk regret dilemma";

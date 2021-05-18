@@ -1,1 +1,1 @@
-var mnemonic = "quantum sudden robust dragon target december token orange apple emotion remind chaos";
+var mnemonic = "sentence lounge taste gate earn frozen border cricket smooth canoe require snap";

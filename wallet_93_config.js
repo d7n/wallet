@@ -1,1 +1,1 @@
-var mnemonic = "leisure blush hurt master car normal avoid marriage shed since strong coyote";
+var mnemonic = "recycle grocery donate grace lobster detail fix capable spoil just settle lottery";

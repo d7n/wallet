@@ -1,1 +1,1 @@
-var mnemonic = "tuna today give dog caught shallow attend off asthma identify chuckle kingdom";
+var mnemonic = "poverty wrist assume swim south fork ozone narrow local turn step fence";

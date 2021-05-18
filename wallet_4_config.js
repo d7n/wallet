@@ -1,1 +1,1 @@
-var mnemonic = "shiver more scheme lemon update actor caution belt pumpkin voice heart acquire";
+var mnemonic = "game liar slice wood denial liquid window property winter lobster shrug lecture";

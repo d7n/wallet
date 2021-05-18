@@ -1,1 +1,1 @@
-var mnemonic = "expose globe spoon filter code fall educate lady taxi view village salt";
+var mnemonic = "trash wage sport popular sausage kingdom barrel forward rely runway plastic donkey";

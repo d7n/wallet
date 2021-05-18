@@ -1,1 +1,1 @@
-var mnemonic = "laugh opera pig into finish expand rural desert body fashion sing sort";
+var mnemonic = "blind theory wreck legend chunk abandon such connect find sport core shed";

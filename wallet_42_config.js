@@ -1,1 +1,1 @@
-var mnemonic = "dolphin gap wife because universe slab asthma tilt spy soda cost gallery";
+var mnemonic = "web deposit purse proof sight casino govern rocket win direct wise now";

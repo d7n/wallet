@@ -1,1 +1,1 @@
-var mnemonic = "wish audit small vendor hotel general emerge piano quote leopard equip book";
+var mnemonic = "erode tone spirit suspect fly hood absent uncle click canoe cry alter";

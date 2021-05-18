@@ -1,1 +1,1 @@
-var mnemonic = "little liberty taxi flip wear opera pact body tonight host shrimp avoid";
+var mnemonic = "code float across deer patient swallow afraid large grocery list later write";

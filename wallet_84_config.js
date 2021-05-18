@@ -1,1 +1,1 @@
-var mnemonic = "estate case eyebrow fox average viable black riot pencil august final online";
+var mnemonic = "coach long mistake wire demise miracle believe piano chaos still cream glow";

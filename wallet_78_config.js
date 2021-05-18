@@ -1,1 +1,1 @@
-var mnemonic = "boil broom grant bulk occur stomach only human discover giant boring never";
+var mnemonic = "better cushion now alcohol acid help cluster shine lion diamond hope cradle";

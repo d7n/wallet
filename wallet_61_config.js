@@ -1,1 +1,1 @@
-var mnemonic = "swim immune auto start thought fit kiwi guard online deliver inform betray";
+var mnemonic = "lens priority plate drift coil assume truly this firm demand style supply";

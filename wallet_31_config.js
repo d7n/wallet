@@ -1,1 +1,1 @@
-var mnemonic = "during library source theory term what vendor grace stamp guilt little impact";
+var mnemonic = "duty clerk elephant biology gown modify grid language squeeze clog dose bind";

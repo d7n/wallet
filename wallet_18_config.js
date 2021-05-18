@@ -1,1 +1,1 @@
-var mnemonic = "alarm escape feel immune just fall make travel ride bamboo buddy cactus";
+var mnemonic = "direct youth release pencil festival eagle ecology bar cash rotate plastic leaf";

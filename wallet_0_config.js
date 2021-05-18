@@ -1,1 +1,1 @@
-var mnemonic = "reunion capable mango mimic security dog spike frog laptop wave bird borrow";
+var mnemonic = "gaze carbon maximum primary matrix lesson brick leopard trial actress damage village";

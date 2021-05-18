@@ -1,1 +1,1 @@
-var mnemonic = "second cup little embody wisdom absorb laugh duty spread stuff avoid ancient";
+var mnemonic = "polar snap shop cry syrup weasel width fit denial pistol yellow zone";

@@ -1,1 +1,1 @@
-var mnemonic = "valley farm pink buddy wet guard trade remove fitness west pull biology";
+var mnemonic = "people destroy unknown month zone identify heavy exit relief awake entire soft";

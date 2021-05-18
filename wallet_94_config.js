@@ -1,1 +1,1 @@
-var mnemonic = "skull twenty barrel harsh crime supreme clap crucial call appear laugh swarm";
+var mnemonic = "predict brain car brief board point denial below scrap open impulse balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom magnet loop around over name kitchen escape tip prize swing square";
+var mnemonic = "range pool city interest spin rebuild buyer can margin library public more";

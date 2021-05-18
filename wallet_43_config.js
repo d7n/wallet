@@ -1,1 +1,1 @@
-var mnemonic = "session million obey tribe add thank this decide someone kitten tooth bamboo";
+var mnemonic = "gaze correct nest repeat arch hawk inject addict brain crater sniff someone";

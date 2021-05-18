@@ -1,1 +1,1 @@
-var mnemonic = "bus sister rail view south danger shift cabbage genre clip problem crush";
+var mnemonic = "kiss layer vital tone similar ensure exile toe card harvest category river";

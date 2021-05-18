@@ -1,1 +1,1 @@
-var mnemonic = "blouse fossil lumber favorite pond best filter flight stomach symptom cereal sport";
+var mnemonic = "film swarm cage fortune young ghost firm south basket cancel canyon trap";

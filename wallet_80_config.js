@@ -1,1 +1,1 @@
-var mnemonic = "tissue shock profit slender away weather turn guard junk polar mouse symbol";
+var mnemonic = "floor write legal wish nature regular decrease pyramid alarm pass grunt outside";

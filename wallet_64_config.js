@@ -1,1 +1,1 @@
-var mnemonic = "camp pluck sample adjust gentle absent orphan fetch win mix slice income";
+var mnemonic = "add citizen story law milk grow candy real artefact lottery tuna exercise";

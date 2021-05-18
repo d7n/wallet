@@ -1,1 +1,1 @@
-var mnemonic = "fly gesture onion input disease control eight vague ancient month blue you";
+var mnemonic = "cigar shield divorce radar tuna army truth hill defense fog between dry";

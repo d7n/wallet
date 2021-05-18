@@ -1,1 +1,1 @@
-var mnemonic = "flip private coffee boost obey fuel six draw scrap print lunar impulse";
+var mnemonic = "trade sign cement mango result culture position flight hockey ketchup pony message";

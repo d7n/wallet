@@ -1,1 +1,1 @@
-var mnemonic = "father target risk finger embrace reward term silent novel spin era surge";
+var mnemonic = "together angry coil laundry human flock fall noodle duck merry move demand";

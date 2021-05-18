@@ -1,1 +1,1 @@
-var mnemonic = "eye bleak van tool curtain grain oil high addict light luxury pear";
+var mnemonic = "bar rain cruise ensure canyon lady short like tomorrow lazy reopen eager";

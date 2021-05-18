@@ -1,1 +1,1 @@
-var mnemonic = "knee hollow feature benefit rookie trade mechanic easily change cruel love bind";
+var mnemonic = "swim pull dinosaur profit fall vessel accuse wolf burger crystal nation lake";

@@ -1,1 +1,1 @@
-var mnemonic = "assume rather rude bracket stove hen soap cotton town can brave jazz";
+var mnemonic = "exclude brass census arrest cereal empower maid soul token time index lion";

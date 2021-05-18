@@ -1,1 +1,1 @@
-var mnemonic = "rookie crush beef police belt traffic cinnamon afraid dumb kiwi anger prosper";
+var mnemonic = "frog tragic desk shrimp cart skin excess damp urge method drive juice";

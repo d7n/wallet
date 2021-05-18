@@ -1,1 +1,1 @@
-var mnemonic = "betray gate build jeans ugly post border vacant pink auto cave print";
+var mnemonic = "vanish dignity puppy pledge trouble that anchor tank ship ten route floor";

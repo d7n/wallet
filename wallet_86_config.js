@@ -1,1 +1,1 @@
-var mnemonic = "deliver stumble wrist bright stadium punch alley plunge gap outdoor purse apology";
+var mnemonic = "find olive child melt subway solve glow symbol submit tobacco more goddess";

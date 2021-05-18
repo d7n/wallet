@@ -1,1 +1,1 @@
-var mnemonic = "noise unique curve acquire since vessel balcony aspect acid inquiry army own";
+var mnemonic = "fence safe kidney route twice lift episode spider phone modify chuckle train";

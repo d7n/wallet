@@ -1,1 +1,1 @@
-var mnemonic = "music piano crunch obscure wreck exact again trim twelve about dog brush";
+var mnemonic = "they usual same gentle flush prosper legend defense gentle history glass force";
