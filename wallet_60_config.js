@@ -1,1 +1,1 @@
-var mnemonic = "able town floor rather top list carbon boat benefit promote option flee";
+var mnemonic = "convince uniform notice grape ride tilt asset ankle tool please expect hazard";

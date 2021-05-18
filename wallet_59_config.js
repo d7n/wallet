@@ -1,1 +1,1 @@
-var mnemonic = "expand inherit between relax rug exile adult rebuild fork sign chicken nurse";
+var mnemonic = "emerge mango scare wood betray fossil next bulb claw elite laptop sing";

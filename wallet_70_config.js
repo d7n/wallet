@@ -1,1 +1,1 @@
-var mnemonic = "swim shadow nose fog wrong lab fatigue vast balcony crash cabbage grain";
+var mnemonic = "stuff coach payment curve cousin busy illegal flower quarter virtual sing light";

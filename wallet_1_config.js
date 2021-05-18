@@ -1,1 +1,1 @@
-var mnemonic = "debate grid stick swap wish electric reform neck pair tree lock boat";
+var mnemonic = "shoe wasp fancy husband cup ranch wasp online inform shrug endless buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "tape nature digital bitter prefer outdoor voyage during stadium wrap gate fine";
+var mnemonic = "fade aerobic carry ketchup increase vacuum crawl speak vague pretty menu loud";

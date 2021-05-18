@@ -1,1 +1,1 @@
-var mnemonic = "vivid sell resource second open raccoon next dash argue wide twin cereal";
+var mnemonic = "mule way clever zoo nasty nest fade vendor machine shoe pull praise";

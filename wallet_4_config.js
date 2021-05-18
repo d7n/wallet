@@ -1,1 +1,1 @@
-var mnemonic = "success weasel describe hollow crowd hazard sauce car run when never settle";
+var mnemonic = "vendor opinion unveil dune coyote rhythm endless cotton antenna office awake spice";

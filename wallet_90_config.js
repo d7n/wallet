@@ -1,1 +1,1 @@
-var mnemonic = "antique only trend trash truth more peanut lyrics various insane exhaust cannon";
+var mnemonic = "auction cream glide fringe cherry worry inform infant cheap pelican fault phone";

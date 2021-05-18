@@ -1,1 +1,1 @@
-var mnemonic = "when pair axis two embrace direct helmet hobby resist type erosion toy";
+var mnemonic = "penalty spice wrap miss hour situate struggle pear primary rough alter vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "swap wish model suspect mixture episode slide spring history swap gallery network";
+var mnemonic = "letter food adapt critic asthma pottery gloom stove barrel umbrella surround frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "sword mind long predict coil calm junior toss certain victory exit jelly";
+var mnemonic = "craft phone acquire believe unlock smooth have clinic limb solution early future";

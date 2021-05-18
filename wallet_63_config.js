@@ -1,1 +1,1 @@
-var mnemonic = "scatter volume return color tray main devote game denial keep ugly adjust";
+var mnemonic = "hedgehog amazing health rebuild flat riot harvest honey apart produce betray torch";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist chair digital portion diary jeans young away video rain model avocado";
+var mnemonic = "stock involve below exotic movie song taxi depth impose bounce arm effort";

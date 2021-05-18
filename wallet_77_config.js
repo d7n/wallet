@@ -1,1 +1,1 @@
-var mnemonic = "such note brisk surface again panic surprise someone mixed hammer pepper kingdom";
+var mnemonic = "junk barely scare odor limit guilt bamboo edit black bubble electric private";

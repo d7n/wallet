@@ -1,1 +1,1 @@
-var mnemonic = "invite theme trend someone salt element audit ridge century card unlock thumb";
+var mnemonic = "canvas detect fiscal this grid boost history bomb obey cook write usual";

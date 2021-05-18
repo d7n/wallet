@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cancel blue tuition impulse tip first tiger unhappy language blush blur";
+var mnemonic = "arrange daring oblige about horn member bounce express ticket obtain face pumpkin";

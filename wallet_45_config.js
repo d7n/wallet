@@ -1,1 +1,1 @@
-var mnemonic = "east cancel bless crystal sweet spring chest chuckle capital jar fox wool";
+var mnemonic = "again toilet neglect spray wire pistol capital way zero labor nest limit";

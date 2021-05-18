@@ -1,1 +1,1 @@
-var mnemonic = "amused retreat smoke reform script bottom wink local craft exile still side";
+var mnemonic = "motor globe silent cart unveil unable deal peasant purity cloud fatal ridge";

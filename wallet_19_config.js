@@ -1,1 +1,1 @@
-var mnemonic = "shed rebuild elevator matrix clay soccer access lumber fence click erode sea";
+var mnemonic = "day humor rare trick obey steel payment theory novel valley rapid survey";

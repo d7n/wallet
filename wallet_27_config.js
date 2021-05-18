@@ -1,1 +1,1 @@
-var mnemonic = "hotel super guard camera library clean pipe orphan depend album couch search";
+var mnemonic = "purpose fruit neither pause hunt tornado region gorilla flush powder fold slice";

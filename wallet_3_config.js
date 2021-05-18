@@ -1,1 +1,1 @@
-var mnemonic = "reward purse armed abandon section dose rule spice throw fashion chalk such";
+var mnemonic = "trap attract sheriff clump trade sample castle canoe alien pigeon hammer asset";

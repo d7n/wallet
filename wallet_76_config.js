@@ -1,1 +1,1 @@
-var mnemonic = "special bid border mix offer penalty crime juice member antenna brief symbol";
+var mnemonic = "cry describe window tumble siege sell hand mail boil toilet circle egg";

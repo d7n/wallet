@@ -1,1 +1,1 @@
-var mnemonic = "volcano vehicle blood ketchup jelly great arrive sketch tag leopard price drop";
+var mnemonic = "gate hurdle green mixture manual sun fancy mammal warfare outer brisk spider";

@@ -1,1 +1,1 @@
-var mnemonic = "series zero toward already trade rigid profit normal combine kiwi symptom scrap";
+var mnemonic = "stable number south display summer trick dragon aunt material battle bring ice";

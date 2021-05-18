@@ -1,1 +1,1 @@
-var mnemonic = "copper glimpse near spare flame pride father double risk lab barely mistake";
+var mnemonic = "vacuum believe web sense bench plate rug panther festival adapt cube eyebrow";

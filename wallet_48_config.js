@@ -1,1 +1,1 @@
-var mnemonic = "february leave model conduct antique element travel hamster copper humor school aspect";
+var mnemonic = "weekend dilemma local fish eight mango borrow call exist ribbon sense exact";

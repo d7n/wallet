@@ -1,1 +1,1 @@
-var mnemonic = "hip elephant clay rare history enforce brush leave explain garden mimic flower";
+var mnemonic = "vast double guilt can daughter future husband shock theme include cushion choose";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe gravity adapt gadget skirt try firm north second become soon practice";
+var mnemonic = "pelican fabric october arrange inspire hen undo tip exclude claim damp romance";

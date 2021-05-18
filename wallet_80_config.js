@@ -1,1 +1,1 @@
-var mnemonic = "obvious main abuse suggest taxi exotic theory stadium sort three snap blame";
+var mnemonic = "wide input ability video project write key slogan film case urge organ";

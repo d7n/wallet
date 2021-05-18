@@ -1,1 +1,1 @@
-var mnemonic = "page settle lottery middle must sting baby joke awake multiply buffalo bone";
+var mnemonic = "fatal armed winner rhythm bag crystal job flat ice sun obvious absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "strong just photo veteran priority grow identify collect asset safe regular easy";
+var mnemonic = "funny insect hair tuna axis shuffle betray claim blouse tragic finger olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "seven offer quality avocado mention try reflect bulb mosquito property disagree produce";
+var mnemonic = "world true hazard spoil skin earn cushion budget absorb patient possible satisfy";

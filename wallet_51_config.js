@@ -1,1 +1,1 @@
-var mnemonic = "arrange acquire glass liar salad balance cable wealth welcome fade pond divert";
+var mnemonic = "color frog party glue ten car tower culture able kingdom fan balance";

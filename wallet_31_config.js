@@ -1,1 +1,1 @@
-var mnemonic = "answer dinosaur price cricket animal strike plunge foot rule original glow best";
+var mnemonic = "ozone bring hard twist amount sight knee pact weekend day engine test";

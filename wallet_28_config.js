@@ -1,1 +1,1 @@
-var mnemonic = "kitchen adult furnace spread bonus pear glance issue kidney alert minor traffic";
+var mnemonic = "pair regular hen idea video daring hover opera oblige sword sadness agree";

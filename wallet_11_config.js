@@ -1,1 +1,1 @@
-var mnemonic = "enact tooth heavy wood series secret grant message lens hundred struggle neck";
+var mnemonic = "switch year brother repair jewel silver wrong virus abstract kind hockey know";

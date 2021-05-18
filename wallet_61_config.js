@@ -1,1 +1,1 @@
-var mnemonic = "always digital amused nuclear obey cupboard swear all veteran hello license sell";
+var mnemonic = "anxiety enable toddler art super mixture borrow script inhale outer topic mean";

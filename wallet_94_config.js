@@ -1,1 +1,1 @@
-var mnemonic = "sheriff region thank decrease wealth lock elegant valid print coin rare gospel";
+var mnemonic = "mind alert hammer jump regret october inmate admit victory mixture brother absurd";

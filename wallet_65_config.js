@@ -1,1 +1,1 @@
-var mnemonic = "symbol crouch marble judge hire hawk awful vessel easy open hood there";
+var mnemonic = "ozone amateur expect bamboo sword child buzz coil soon vivid smart merit";

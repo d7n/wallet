@@ -1,1 +1,1 @@
-var mnemonic = "click armed process depend soft city mechanic learn arrange robust bounce coconut";
+var mnemonic = "title wall general open check accident fee render calm margin oppose display";

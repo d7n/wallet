@@ -1,1 +1,1 @@
-var mnemonic = "hat obey trial often drive travel else enact frown country theory ghost";
+var mnemonic = "okay dilemma foil wagon shy renew visual mass estate clump noble try";

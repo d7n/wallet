@@ -1,1 +1,1 @@
-var mnemonic = "window middle ridge uniform spider panther kangaroo ski planet island decorate flag";
+var mnemonic = "despair trouble tiny area ahead topic hat post glory ceiling joke inside";

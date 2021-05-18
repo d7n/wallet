@@ -1,1 +1,1 @@
-var mnemonic = "matter gorilla april attitude diary dinosaur kind tribe swap siege battle delay";
+var mnemonic = "embody west tent smoke pave mother smooth enroll wife lens crane garage";

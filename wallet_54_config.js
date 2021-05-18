@@ -1,1 +1,1 @@
-var mnemonic = "author ski client sample idle waste fabric liquid print earth rail target";
+var mnemonic = "eagle tray coyote year lazy brush two unit unveil option scale vacant";

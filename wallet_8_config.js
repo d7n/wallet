@@ -1,1 +1,1 @@
-var mnemonic = "shiver misery total embrace defy pulse crane common scare manual dragon scan";
+var mnemonic = "solve finger access peanut asset fruit borrow raise mandate profit point hair";

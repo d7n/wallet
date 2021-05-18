@@ -1,1 +1,1 @@
-var mnemonic = "home frost ridge monster engage teach easily later field much festival juice";
+var mnemonic = "novel master dutch circle soccer suffer model cereal goddess front client twin";

@@ -1,1 +1,1 @@
-var mnemonic = "increase thunder vague glare great gravity tuna misery type connect file blush";
+var mnemonic = "area unfair cruel adult rebel bamboo parrot energy vague remove connect opera";

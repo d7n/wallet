@@ -1,1 +1,1 @@
-var mnemonic = "payment advance wife figure baby atom ghost weird post chase bus oval";
+var mnemonic = "mirror boat gun interest find check pattern infant syrup network record fix";

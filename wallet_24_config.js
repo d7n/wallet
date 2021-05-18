@@ -1,1 +1,1 @@
-var mnemonic = "badge oxygen tenant visual tiger vibrant leaf upset spin mutual nest help";
+var mnemonic = "glue response come express pipe miss aisle thunder exile kidney wall air";

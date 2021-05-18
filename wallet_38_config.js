@@ -1,1 +1,1 @@
-var mnemonic = "fluid credit slab still guide bar tape lion hip find meat swift";
+var mnemonic = "curtain prize analyst liar science trade spice hold length someone head level";

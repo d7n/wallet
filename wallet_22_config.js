@@ -1,1 +1,1 @@
-var mnemonic = "defy actual ginger split atom chair wash simple common vast light settle";
+var mnemonic = "anxiety emotion job weapon hour rotate bone wrap desk hotel grit slam";

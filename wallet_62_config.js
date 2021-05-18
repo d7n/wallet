@@ -1,1 +1,1 @@
-var mnemonic = "smooth pigeon test oven weasel scrub asset divide lesson rib print shrimp";
+var mnemonic = "glove file bar jeans above way valid blame reveal trip depend cousin";

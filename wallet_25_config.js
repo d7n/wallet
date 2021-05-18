@@ -1,1 +1,1 @@
-var mnemonic = "evidence source slender reform peanut festival track tree gossip cave summer help";
+var mnemonic = "gospel uncle start radio logic ramp quit pill marine sweet smile indicate";

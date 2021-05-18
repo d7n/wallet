@@ -1,1 +1,1 @@
-var mnemonic = "episode will tail acoustic film train inmate season early expire horror cannon";
+var mnemonic = "vibrant impact grocery gate inmate insect donor slam version inflict slogan ride";

@@ -1,1 +1,1 @@
-var mnemonic = "blush page mention monitor kingdom fatigue tone urban amateur dial tooth expose";
+var mnemonic = "practice return harvest fame rural level they tank knock prison fix ensure";

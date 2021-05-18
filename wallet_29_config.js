@@ -1,1 +1,1 @@
-var mnemonic = "industry unit fault auction buyer shuffle faculty avoid luxury you evolve unlock";
+var mnemonic = "lonely enrich burden surge doctor captain member exclude dove multiply clarify dad";

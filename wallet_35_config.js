@@ -1,1 +1,1 @@
-var mnemonic = "know stage beauty donate chef treat when group car pair cricket convince";
+var mnemonic = "awful bomb apple anxiety spoon grace settle brown shift short indicate rapid";

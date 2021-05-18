@@ -1,1 +1,1 @@
-var mnemonic = "female bamboo exact goose act bomb creek coil catalog swift happy chronic";
+var mnemonic = "lab electric blue common grant lens unusual tool dinner tenant credit salad";

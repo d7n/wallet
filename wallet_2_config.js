@@ -1,1 +1,1 @@
-var mnemonic = "waste enrich law later account skirt pottery slot dust muffin review sheriff";
+var mnemonic = "broom science glide powder shaft expire what answer fix solar exhaust voyage";

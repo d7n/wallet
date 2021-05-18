@@ -1,1 +1,1 @@
-var mnemonic = "spirit wide north flock march behave kangaroo broccoli reveal bid carpet fresh";
+var mnemonic = "either electric leopard witness able obscure flush ordinary wall genre timber gather";

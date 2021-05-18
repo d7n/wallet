@@ -1,1 +1,1 @@
-var mnemonic = "urge coconut trick blanket ill dignity dolphin melody useful stick forward purse";
+var mnemonic = "enjoy choose border clay evoke pottery mansion soap theme when dish phrase";

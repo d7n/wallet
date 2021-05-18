@@ -1,1 +1,1 @@
-var mnemonic = "damage when session cloth october mercy sort art road atom cheese side";
+var mnemonic = "puppy cart orange correct save spare pen joy twist flavor aunt culture";

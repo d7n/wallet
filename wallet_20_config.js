@@ -1,1 +1,1 @@
-var mnemonic = "okay plunge fox nothing portion long stamp asthma hawk holiday web slow";
+var mnemonic = "exist column congress mountain this hen fatal minimum expire tackle shift mean";

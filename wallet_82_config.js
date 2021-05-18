@@ -1,1 +1,1 @@
-var mnemonic = "wave random easily real blast abstract lend physical wait scheme wish kangaroo";
+var mnemonic = "palm lava oven embody ball confirm monitor grief fall off obtain prefer";

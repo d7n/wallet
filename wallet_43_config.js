@@ -1,1 +1,1 @@
-var mnemonic = "town lady cook mercy vicious right kind act wolf hen album member";
+var mnemonic = "payment puppy exhaust audit sausage engine orphan aisle price toddler purchase regret";

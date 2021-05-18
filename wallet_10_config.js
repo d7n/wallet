@@ -1,1 +1,1 @@
-var mnemonic = "scan wine connect impose carbon glue main face alcohol material keep summer";
+var mnemonic = "retire crush fever next tape purpose radar pond yard pink original bulb";

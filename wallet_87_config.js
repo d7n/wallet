@@ -1,1 +1,1 @@
-var mnemonic = "student eternal town empower stamp relax audit cave own grace office object";
+var mnemonic = "adult trumpet other north blue steak exile script strategy still morning sketch";

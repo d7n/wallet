@@ -1,1 +1,1 @@
-var mnemonic = "record laptop top object ahead traffic provide history radar lava among salmon";
+var mnemonic = "honey vapor grape hospital story trigger what more profit nominee tiger install";

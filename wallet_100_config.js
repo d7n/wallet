@@ -1,1 +1,1 @@
-var mnemonic = "hotel seek demise you fever trash champion turn solid color chuckle point";
+var mnemonic = "fade cheap fox salad cat biology six tired plug awesome apology bind";

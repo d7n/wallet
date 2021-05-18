@@ -1,1 +1,1 @@
-var mnemonic = "blind busy science meadow lobster start asthma plunge tilt reveal soccer beef";
+var mnemonic = "other lion trim general way race host between please poverty frown drop";

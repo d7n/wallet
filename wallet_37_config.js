@@ -1,1 +1,1 @@
-var mnemonic = "sport near extend logic just original drill olive naive act food catch";
+var mnemonic = "excite differ process polar twist essence pair alley blue dragon century weapon";

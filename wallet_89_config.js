@@ -1,1 +1,1 @@
-var mnemonic = "clump sunny weird menu nice because figure vague rebel trumpet scrap grid";
+var mnemonic = "dash knock steak beef daring unusual cram brush radio talent boost bread";

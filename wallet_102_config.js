@@ -1,1 +1,1 @@
-var mnemonic = "bracket involve expose relax grit knife dignity fade cargo neutral jar festival";
+var mnemonic = "truly legend tree endorse battle garage element twenty erode live motion twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "canal onion faculty pool fatal bid wife motion ginger outdoor rocket innocent";
+var mnemonic = "today cry labor patch level above hold weasel spirit giraffe welcome case";

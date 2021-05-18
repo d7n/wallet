@@ -1,1 +1,1 @@
-var mnemonic = "walk belt humor good pond utility visa six aunt grief large december";
+var mnemonic = "fever winner typical pulse damp mix mind client scorpion poverty emerge flower";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic human law mixed will kind magnet coil hungry uniform urge message";
+var mnemonic = "before bean sick drip coconut museum minute vapor scorpion beyond globe elder";

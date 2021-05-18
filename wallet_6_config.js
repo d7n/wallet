@@ -1,1 +1,1 @@
-var mnemonic = "coconut market draft husband enough donor whisper doll absurd census between spike";
+var mnemonic = "language action front rose stable civil script master stadium crisp call about";

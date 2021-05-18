@@ -1,1 +1,1 @@
-var mnemonic = "common inquiry foil use kid three head learn chunk fog quality more";
+var mnemonic = "select increase galaxy jeans better sister office grain three gas awake dragon";

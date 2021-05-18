@@ -1,1 +1,1 @@
-var mnemonic = "sight donor mind festival beauty theme spawn rough swallow ready rural make";
+var mnemonic = "about family bid party toilet mask dentist blind fiber problem expand diamond";

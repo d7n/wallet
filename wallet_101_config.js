@@ -1,1 +1,1 @@
-var mnemonic = "blood subway tomato rain shrimp crystal cheese okay jewel surprise public history";
+var mnemonic = "extend mean riot gentle satoshi novel thank light clarify cake reject panda";

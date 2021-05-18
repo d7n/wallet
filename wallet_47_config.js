@@ -1,1 +1,1 @@
-var mnemonic = "shadow neglect retire drum worry razor glue violin confirm picture mimic item";
+var mnemonic = "corn balance ripple canyon hold brand slice shop enlist offer march shoot";

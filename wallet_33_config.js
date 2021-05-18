@@ -1,1 +1,1 @@
-var mnemonic = "domain cliff gorilla rotate soldier either lounge sentence banana cancel like actual";
+var mnemonic = "kingdom eagle super puppy produce shove adult size truth permit magic grain";

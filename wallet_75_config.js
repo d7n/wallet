@@ -1,1 +1,1 @@
-var mnemonic = "cash auction involve knife axis hero dog quiz soap index cabin gap";
+var mnemonic = "wagon punch shuffle suggest switch dignity zebra fruit unveil wolf when project";

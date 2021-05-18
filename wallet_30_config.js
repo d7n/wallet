@@ -1,1 +1,1 @@
-var mnemonic = "battle cancel best nice vessel feel age sport van digital rent myself";
+var mnemonic = "fitness lab lobster jeans frozen oppose once outer brass morning mammal reopen";

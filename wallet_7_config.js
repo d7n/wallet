@@ -1,1 +1,1 @@
-var mnemonic = "across small page obtain three road ramp broken dress again upper bridge";
+var mnemonic = "rabbit face volcano sister mansion journey there sock scorpion blood such try";

@@ -1,1 +1,1 @@
-var mnemonic = "rice inquiry wolf toast way actress junior convince purse found retire ribbon";
+var mnemonic = "drama adult urge general melody wealth mobile prepare dizzy quit wheel story";

@@ -1,1 +1,1 @@
-var mnemonic = "exile metal pupil web minor foster utility where aisle enact capable move";
+var mnemonic = "name ugly dignity kangaroo interest copper forest plastic suggest valve movie amazing";

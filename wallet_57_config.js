@@ -1,1 +1,1 @@
-var mnemonic = "fluid road oppose market robot unfold enable toast borrow talent write more";
+var mnemonic = "mistake gap cute kid expect relief notice genre village discover must draw";

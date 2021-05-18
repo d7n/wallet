@@ -1,1 +1,1 @@
-var mnemonic = "mutual stem vocal notable eager violin rescue goose diamond six identify skirt";
+var mnemonic = "talk attitude garden seek feature admit sketch spy upset journey energy badge";

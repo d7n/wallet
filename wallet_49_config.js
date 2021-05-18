@@ -1,1 +1,1 @@
-var mnemonic = "excite action south mixed silent polar input spread budget cotton person spot";
+var mnemonic = "home panic mom mobile marriage crater kiss dress bullet own toddler monitor";

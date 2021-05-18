@@ -1,1 +1,1 @@
-var mnemonic = "crumble cargo appear coast crumble emerge rent tag balance asset food select";
+var mnemonic = "large yellow lumber come team stock wool number certain century certain taxi";

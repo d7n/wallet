@@ -1,1 +1,1 @@
-var mnemonic = "gauge slow evoke grant hat head chicken evolve flock weasel truly oval";
+var mnemonic = "toe rare page bleak steak prefer liberty pill great swallow garden improve";
