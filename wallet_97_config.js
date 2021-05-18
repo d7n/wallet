@@ -1,1 +1,1 @@
-var mnemonic = "february vacant before flash rural they female ability hawk advice essay inspire";
+var mnemonic = "silk lawsuit clutch vault argue false flight gas crush host text sign";

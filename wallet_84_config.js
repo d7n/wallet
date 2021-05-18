@@ -1,1 +1,1 @@
-var mnemonic = "tortoise explain slice lottery wrap absurd fragile paddle pony gallery absorb method";
+var mnemonic = "emotion direct lobster alley base glow derive narrow morning observe measure type";

@@ -1,1 +1,1 @@
-var mnemonic = "solid gate latin void winter shaft system birth bright slogan ginger funny";
+var mnemonic = "sweet sunny toward balance about limb bring ignore base vast potato glow";

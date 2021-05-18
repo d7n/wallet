@@ -1,1 +1,1 @@
-var mnemonic = "bottom elephant maple eye have tenant lucky average zero uncle doctor goose";
+var mnemonic = "cheese claw tip subway cute quiz ask elephant ranch under machine nest";

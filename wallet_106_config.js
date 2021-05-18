@@ -1,1 +1,1 @@
-var mnemonic = "hundred taxi night avocado perfect motion lunch senior short issue toilet north";
+var mnemonic = "history adult kiss remain wolf laundry author absurd test only trigger afford";

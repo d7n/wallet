@@ -1,1 +1,1 @@
-var mnemonic = "borrow dog stand tunnel wolf risk poem bitter heart huge heavy suit";
+var mnemonic = "view bridge mosquito indoor inhale disease palm scene project fabric move slush";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon wife doll stool turkey girl domain spoil whip caught remember powder";
+var mnemonic = "cotton razor minute dad orphan almost dinosaur invest arrive affair exercise blue";

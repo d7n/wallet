@@ -1,1 +1,1 @@
-var mnemonic = "mail harsh excuse shoe dove mean ivory today swamp cost fog orbit";
+var mnemonic = "west blood goat artefact roast verb drink fence cave staff junk private";

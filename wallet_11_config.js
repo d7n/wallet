@@ -1,1 +1,1 @@
-var mnemonic = "smart goat victory family antenna grid certain raise patch page come front";
+var mnemonic = "judge spring observe finish excite bronze unit token genre lock horn trade";

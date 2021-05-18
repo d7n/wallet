@@ -1,1 +1,1 @@
-var mnemonic = "salt adult shine receive body camp all library action unlock exercise curtain";
+var mnemonic = "average beach demand desert mean rate since make resource need into nice";

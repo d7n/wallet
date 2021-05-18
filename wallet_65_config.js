@@ -1,1 +1,1 @@
-var mnemonic = "glow clock brother aspect jungle surround quit strike device entire charge jazz";
+var mnemonic = "judge rally mimic shoot always salmon weather cluster blood poverty depend upon";

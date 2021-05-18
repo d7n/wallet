@@ -1,1 +1,1 @@
-var mnemonic = "rely slight piece tilt hospital motion topic song grow reveal sure duty";
+var mnemonic = "garden seven excuse have glance prevent three sea agree similar brass infant";

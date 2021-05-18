@@ -1,1 +1,1 @@
-var mnemonic = "intact risk fame bubble witness pass mention crop rival theory faculty clever";
+var mnemonic = "diesel mule insane plastic tool decade minor job cause crucial sure cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer crack once print situate object scatter collect tail answer explain flock";
+var mnemonic = "squirrel crumble often ill write spatial trash stove cross tonight group parrot";

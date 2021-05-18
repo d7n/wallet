@@ -1,1 +1,1 @@
-var mnemonic = "visa good hurry consider over cheap scene abuse owner enjoy birth occur";
+var mnemonic = "dune torch illegal head admit dove repair inmate buyer owner bunker balcony";

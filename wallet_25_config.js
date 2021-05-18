@@ -1,1 +1,1 @@
-var mnemonic = "sad monitor ethics such arrest drop poem coral sheriff equip auto lab";
+var mnemonic = "practice urge tip shield wage paddle renew motion excess humble squirrel comfort";

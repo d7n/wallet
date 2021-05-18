@@ -1,1 +1,1 @@
-var mnemonic = "health embrace twenty legal design cousin deny pigeon ensure shoe float penalty";
+var mnemonic = "rule garage pyramid perfect unusual habit gravity gloom inside hood remove powder";

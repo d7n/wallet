@@ -1,1 +1,1 @@
-var mnemonic = "stable sting weasel select utility region burst couch tree account turkey menu";
+var mnemonic = "range ticket february solve cave woman smart priority confirm sure become sight";

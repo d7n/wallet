@@ -1,1 +1,1 @@
-var mnemonic = "summer fly refuse pigeon must memory slot south fresh thought fade carbon";
+var mnemonic = "until family bridge magnet profit gold visa quit amazing ripple duck sort";

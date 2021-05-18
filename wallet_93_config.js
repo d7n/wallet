@@ -1,1 +1,1 @@
-var mnemonic = "echo spot betray field garment ready physical trumpet diagram bring prison enroll";
+var mnemonic = "crash myth village pelican burden vendor tribe art daring weasel school atom";

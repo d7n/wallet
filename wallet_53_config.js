@@ -1,1 +1,1 @@
-var mnemonic = "toe unveil gentle cluster wedding detect conduct material vocal term enrich song";
+var mnemonic = "route hungry chef cement analyst genius derive reform rather goose device path";

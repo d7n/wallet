@@ -1,1 +1,1 @@
-var mnemonic = "almost zoo scorpion limit eternal path family casino order someone dwarf april";
+var mnemonic = "ready shadow same gold blush obscure include find stem tennis salmon truth";

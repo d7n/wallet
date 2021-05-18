@@ -1,1 +1,1 @@
-var mnemonic = "embrace super castle crater strike sweet large match devote valley expose kick";
+var mnemonic = "suffer pair chaos anger elegant saddle repair move month tackle erupt brand";

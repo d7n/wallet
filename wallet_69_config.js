@@ -1,1 +1,1 @@
-var mnemonic = "version bottom business symptom miss sketch intact method gaze autumn good scheme";
+var mnemonic = "body account base song awesome elevator expire bone announce bird trend solid";

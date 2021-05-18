@@ -1,1 +1,1 @@
-var mnemonic = "one lock skill figure issue fish shadow sponsor boat music awkward debris";
+var mnemonic = "medal select laptop mirror whale error account digital decline venture above stone";

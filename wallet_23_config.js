@@ -1,1 +1,1 @@
-var mnemonic = "noodle devote brief oblige sick thank input unknown clever blast plug rescue";
+var mnemonic = "later lazy extra hood bind guilt essence travel truly blast laugh census";

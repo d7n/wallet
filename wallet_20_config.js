@@ -1,1 +1,1 @@
-var mnemonic = "raw similar grace barrel forest common shallow miracle cancel region admit pigeon";
+var mnemonic = "just drastic logic pill load link invest elite cradle rebel loan armed";

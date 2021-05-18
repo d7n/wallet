@@ -1,1 +1,1 @@
-var mnemonic = "subject comic fat pulp knee rigid casual wrist bean keen blood frown";
+var mnemonic = "credit auto diamond siren flag labor shuffle help hello stool bicycle apple";

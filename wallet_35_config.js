@@ -1,1 +1,1 @@
-var mnemonic = "play shuffle frequent thing guess educate rule right life render bring argue";
+var mnemonic = "first outer shield unable banana siren jaguar twelve climb draft hurdle change";

@@ -1,1 +1,1 @@
-var mnemonic = "divert under rate double arrange april magic elite assist fire goddess barrel";
+var mnemonic = "glimpse hidden rib attract sight develop rookie major margin night grain kitchen";

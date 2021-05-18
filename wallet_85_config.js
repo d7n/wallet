@@ -1,1 +1,1 @@
-var mnemonic = "climb february flash enough remind copper toilet lab response size weekend practice";
+var mnemonic = "lava recall pause daring soft fatal jump elbow river permit bone belt";

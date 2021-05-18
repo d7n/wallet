@@ -1,1 +1,1 @@
-var mnemonic = "jewel exact earth shoulder super twelve column cool lesson glare orange relax";
+var mnemonic = "polar alcohol vital foam mesh unusual crater risk source below text copper";

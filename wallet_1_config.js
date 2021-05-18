@@ -1,1 +1,1 @@
-var mnemonic = "water wet lottery fabric wine holiday life ice suspect comic rifle marble";
+var mnemonic = "canvas social cute menu tomato wild approve into hotel hub ability retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "battle hour crime dog extra apple club empower insane stomach pioneer snap";
+var mnemonic = "satisfy once transfer coyote border story oil quality author govern element flock";

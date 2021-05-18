@@ -1,1 +1,1 @@
-var mnemonic = "vault rubber shock ignore despair river thrive end code allow patient divide";
+var mnemonic = "trade visit lawsuit feed host dog wool minimum unhappy crime famous song";

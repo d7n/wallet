@@ -1,1 +1,1 @@
-var mnemonic = "orbit twice anger file grit unaware jaguar pattern enroll mixture object apple";
+var mnemonic = "arm deposit chaos bird action acid sausage decide chat pink inhale question";

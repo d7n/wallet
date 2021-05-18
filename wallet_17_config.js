@@ -1,1 +1,1 @@
-var mnemonic = "grow crumble hello crash wagon garment rigid major pet document nature mention";
+var mnemonic = "fruit opera armed decorate cattle ghost allow van blur where coin park";

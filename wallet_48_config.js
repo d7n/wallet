@@ -1,1 +1,1 @@
-var mnemonic = "coil produce glide bargain tuition then pull luggage shrimp picnic inmate crisp";
+var mnemonic = "behind verb shaft when certain light river mix category crunch dumb traffic";

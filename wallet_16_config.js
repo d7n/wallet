@@ -1,1 +1,1 @@
-var mnemonic = "sad valley group text anxiety smart need jeans mass enroll pupil pulp";
+var mnemonic = "breeze achieve man human fame sister flash change problem message icon below";

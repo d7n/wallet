@@ -1,1 +1,1 @@
-var mnemonic = "direct outer window inch omit husband suggest hood debris eye seed screen";
+var mnemonic = "better noodle emotion inch predict ecology scatter eager gloom faint crew laptop";

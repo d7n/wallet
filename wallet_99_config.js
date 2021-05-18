@@ -1,1 +1,1 @@
-var mnemonic = "conduct crash urge quiz custom flower vocal town rotate toast carpet bundle";
+var mnemonic = "ribbon grief example monster elephant forum drastic dignity machine enjoy piano metal";

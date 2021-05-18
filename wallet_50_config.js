@@ -1,1 +1,1 @@
-var mnemonic = "ordinary observe order begin blade marriage antenna original cross coffee mail hedgehog";
+var mnemonic = "guide settle elephant property clean mask motor road truth limit priority best";

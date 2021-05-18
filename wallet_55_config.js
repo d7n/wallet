@@ -1,1 +1,1 @@
-var mnemonic = "birth reveal artist grape replace brother cost salad forum page good grow";
+var mnemonic = "dinner surface divorce spare dilemma august include blame runway setup grocery target";

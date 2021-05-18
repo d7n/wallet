@@ -1,1 +1,1 @@
-var mnemonic = "mask win debris chair insane shoot cheap saddle mention ivory length educate";
+var mnemonic = "sustain insect universe party fatigue journey forum curious move juice thing wing";

@@ -1,1 +1,1 @@
-var mnemonic = "know tumble target merge nasty word envelope side install sudden youth spy";
+var mnemonic = "display sad lens sauce tuna bunker embody nice chase palm kiss crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "scout stool can light advice thought pudding limit sheriff base expire donor";
+var mnemonic = "web cave item enter romance bread myth obtain rebuild wet famous crane";

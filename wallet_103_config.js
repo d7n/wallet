@@ -1,1 +1,1 @@
-var mnemonic = "barely access street innocent broccoli duty feature purse portion limit find ball";
+var mnemonic = "castle include raw stick together wrap capable lab elegant skill pond excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb fault wing churn private genius mystery have rebel extra used wise";
+var mnemonic = "system make survey open spirit check search twenty knock excess loop clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "result remove blue heavy dilemma furnace turtle dismiss purchase sphere onion slight";
+var mnemonic = "vanish lawn arch shop lion actress cargo vague able ugly night one";

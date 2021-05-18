@@ -1,1 +1,1 @@
-var mnemonic = "bottom exact anger predict rhythm people space enhance flush gym prosper blast";
+var mnemonic = "dutch faint uniform chaos twelve field toddler orchard siege habit start cook";

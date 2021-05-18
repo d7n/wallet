@@ -1,1 +1,1 @@
-var mnemonic = "more custom helmet virus vocal attack physical improve author segment protect sniff";
+var mnemonic = "plug radio fold comfort air garlic dance robust charge winner rent grace";

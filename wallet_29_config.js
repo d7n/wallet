@@ -1,1 +1,1 @@
-var mnemonic = "just hamster duty under page quality figure swallow crew problem oil piece";
+var mnemonic = "grant solar sausage chef wing year piano moment feature cook fork version";

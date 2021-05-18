@@ -1,1 +1,1 @@
-var mnemonic = "warm swamp unfold sniff dilemma pond end alert olive master battle kid";
+var mnemonic = "ethics debate rough advice kit spice crawl shell radar boil marble scrub";

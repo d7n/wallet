@@ -1,1 +1,1 @@
-var mnemonic = "extend net tissue thunder loan milk ill sausage soup ozone expect blossom";
+var mnemonic = "finger earth force wealth also feature invest brand file valve play icon";

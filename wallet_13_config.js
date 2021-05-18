@@ -1,1 +1,1 @@
-var mnemonic = "upper noise major example west situate tomato apart crucial write junior heart";
+var mnemonic = "illegal hurry artwork sauce calm excuse carry rigid suspect online inform nest";

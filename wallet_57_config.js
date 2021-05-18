@@ -1,1 +1,1 @@
-var mnemonic = "debris struggle wagon above test blade physical garlic version animal song shoe";
+var mnemonic = "half secret inch sign sort hip sniff clog copy ill talk layer";

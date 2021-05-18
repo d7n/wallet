@@ -1,1 +1,1 @@
-var mnemonic = "wage cloth tank pet giraffe please sell fence puppy laugh finger surface";
+var mnemonic = "gaze allow raccoon math demand crisp frame kit ketchup electric speak magic";

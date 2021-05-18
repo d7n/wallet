@@ -1,1 +1,1 @@
-var mnemonic = "plate charge vintage soul copy base neglect ugly screen peanut drama spike";
+var mnemonic = "fade picnic about attract broken pave sustain vintage napkin surprise margin amateur";

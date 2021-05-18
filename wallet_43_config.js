@@ -1,1 +1,1 @@
-var mnemonic = "source over practice man foil danger quick jeans grace clerk dial soon";
+var mnemonic = "robot sauce note ladder depart swallow assault clog blood assist position sign";

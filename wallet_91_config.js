@@ -1,1 +1,1 @@
-var mnemonic = "dismiss test street warrior bottom afford define slow laundry air ski orbit";
+var mnemonic = "stock salt citizen sick pigeon maid game glass bid off verb enforce";

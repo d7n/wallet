@@ -1,1 +1,1 @@
-var mnemonic = "enlist wheel suggest inherit can man hammer filter angle million taste blouse";
+var mnemonic = "salon pencil vital there pond exact spell immune symptom grace verb later";

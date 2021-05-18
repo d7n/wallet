@@ -1,1 +1,1 @@
-var mnemonic = "tortoise churn mesh fish grass spring cereal region abstract vacant relax plastic";
+var mnemonic = "upper elevator current require inherit meadow track cup valid know void mosquito";

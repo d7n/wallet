@@ -1,1 +1,1 @@
-var mnemonic = "govern scare wrap skate faith narrow dog square crumble ski capital provide";
+var mnemonic = "gym across wave demise feel stage virtual badge logic floor resist artwork";

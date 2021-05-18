@@ -1,1 +1,1 @@
-var mnemonic = "street learn comic inmate spider domain seat stable useful rhythm oblige chat";
+var mnemonic = "unusual balance like text expect jar own help slogan risk valve obvious";

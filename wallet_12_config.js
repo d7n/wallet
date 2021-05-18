@@ -1,1 +1,1 @@
-var mnemonic = "mad cram target decide shed square option eagle dune fresh lounge cook";
+var mnemonic = "miracle pass toward swap coast ripple allow robot galaxy together metal open";

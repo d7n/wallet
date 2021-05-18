@@ -1,1 +1,1 @@
-var mnemonic = "insect moon old wave decorate frog nose round vendor lawsuit ticket arrive";
+var mnemonic = "absurd make razor dance aspect sugar suffer verify trick inner strategy kidney";

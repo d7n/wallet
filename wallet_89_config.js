@@ -1,1 +1,1 @@
-var mnemonic = "media slot jar position team strike gospel sort road reject cheap park";
+var mnemonic = "blur match reject test olive aerobic inflict tongue wedding flower laundry quiz";

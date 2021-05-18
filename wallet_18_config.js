@@ -1,1 +1,1 @@
-var mnemonic = "credit apple quit control involve require fame token worth illegal arrange dinner";
+var mnemonic = "pupil lift soldier blue raccoon sail usual juice alcohol sorry tragic bind";

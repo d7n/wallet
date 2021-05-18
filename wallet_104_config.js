@@ -1,1 +1,1 @@
-var mnemonic = "course make deer picture place identify van suffer leave cabbage decade mango";
+var mnemonic = "lava betray census estate wife blind pigeon soda medal exit infant scene";

@@ -1,1 +1,1 @@
-var mnemonic = "keen side skirt tilt thank home vocal flat rebuild honey obtain fitness";
+var mnemonic = "juice recycle enrich convince finger about salute day punch snow tool smart";

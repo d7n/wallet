@@ -1,1 +1,1 @@
-var mnemonic = "axis camera joke demand dash purity rely runway visit arena proof early";
+var mnemonic = "section ostrich then apology label ball egg unaware jewel inner canoe sense";

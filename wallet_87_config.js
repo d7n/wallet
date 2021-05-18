@@ -1,1 +1,1 @@
-var mnemonic = "erupt history neck science just vault stone just ethics harbor day leave";
+var mnemonic = "claw panda actor pudding armor vintage noble antique awesome forward acoustic design";

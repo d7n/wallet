@@ -1,1 +1,1 @@
-var mnemonic = "solar spy welcome use blush opinion velvet fuel combine news laundry wool";
+var mnemonic = "gold edge renew level swift biology donkey course giraffe size dress supreme";

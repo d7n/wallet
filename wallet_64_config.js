@@ -1,1 +1,1 @@
-var mnemonic = "you copper spot job diamond crash salt diamond jealous offer furnace join";
+var mnemonic = "zebra galaxy fortune snack minor hen curious that audit clown base together";

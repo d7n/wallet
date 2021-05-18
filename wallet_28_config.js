@@ -1,1 +1,1 @@
-var mnemonic = "cousin magic mistake name hidden neck rookie trophy flip flight myself deputy";
+var mnemonic = "husband fire vibrant cram jacket soda fever employ dance start almost come";

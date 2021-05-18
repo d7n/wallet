@@ -1,1 +1,1 @@
-var mnemonic = "blast fold furnace occur talk include south core dance bachelor acid need";
+var mnemonic = "reflect voyage valley hunt term again radio lamp october sausage fuel aim";

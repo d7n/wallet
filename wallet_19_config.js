@@ -1,1 +1,1 @@
-var mnemonic = "dove guilt income enter thing outside muscle crisp sort develop public decrease";
+var mnemonic = "acquire photo small tourist proud turtle frame liberty unable soon someone tilt";

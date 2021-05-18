@@ -1,1 +1,1 @@
-var mnemonic = "banana shoulder broom west warrior walnut check credit short fat crop honey";
+var mnemonic = "slush enrich boss hair baby movie slide tiny pencil dolphin advice gauge";

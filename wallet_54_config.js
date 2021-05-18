@@ -1,1 +1,1 @@
-var mnemonic = "tongue path spring slender below fortune quarter indoor loyal fluid arrange fan";
+var mnemonic = "earn popular case bundle trade chat excite aisle pull prize start forward";

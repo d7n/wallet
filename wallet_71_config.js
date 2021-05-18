@@ -1,1 +1,1 @@
-var mnemonic = "enemy speak salt moral metal often away brief jazz kiwi profit offer";
+var mnemonic = "height slow across okay deal essay satoshi ranch range buffalo decline fiction";

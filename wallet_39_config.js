@@ -1,1 +1,1 @@
-var mnemonic = "affair pledge device prison blur coyote stone idea subject wolf slide father";
+var mnemonic = "task quote faint carry civil youth garlic various lock arch attack canal";

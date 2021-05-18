@@ -1,1 +1,1 @@
-var mnemonic = "album arrest kiwi artist student measure process isolate frozen moment fiction spatial";
+var mnemonic = "affair deny squirrel economy ancient wrap garage unhappy barrel tourist head antenna";

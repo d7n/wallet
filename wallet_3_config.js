@@ -1,1 +1,1 @@
-var mnemonic = "multiply brother hollow sense guide bone siren jungle fat brush poem must";
+var mnemonic = "jelly cruel unable repair deposit car coin mirror alcohol truth syrup female";

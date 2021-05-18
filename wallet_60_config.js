@@ -1,1 +1,1 @@
-var mnemonic = "grape blade mixed tumble urge book dash slam story bulk bone eternal";
+var mnemonic = "glove abuse exhibit body approve over wife diet pulse embrace rose artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent tent fruit universe angry wife blast august parent wool media ranch";
+var mnemonic = "bachelor original code wave kidney reward fantasy key glare canal emotion sting";

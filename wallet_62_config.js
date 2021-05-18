@@ -1,1 +1,1 @@
-var mnemonic = "income among rocket hidden aerobic similar company damage inhale stand want audit";
+var mnemonic = "stand race bar blouse media alcohol like slender purity mask domain bless";

@@ -1,1 +1,1 @@
-var mnemonic = "snack spy million catalog push sorry horror develop immense enforce ivory october";
+var mnemonic = "congress dune antenna wild retreat excuse evolve salute mule host mango dress";

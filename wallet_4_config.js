@@ -1,1 +1,1 @@
-var mnemonic = "element urban enlist system improve shuffle index trip remove song gentle genre";
+var mnemonic = "case zero robot lyrics twenty very crawl mobile true hidden uncover correct";

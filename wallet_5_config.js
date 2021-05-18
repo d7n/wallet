@@ -1,1 +1,1 @@
-var mnemonic = "identify inflict blush flush ten fame chat mistake muffin cup sea aerobic";
+var mnemonic = "genre antique domain when object ranch local inject upgrade sign cream pistol";

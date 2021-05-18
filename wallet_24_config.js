@@ -1,1 +1,1 @@
-var mnemonic = "online member tunnel shoot case doctor cart bar girl obvious glimpse search";
+var mnemonic = "caution slab worth black hazard radio before corn glue season spray master";

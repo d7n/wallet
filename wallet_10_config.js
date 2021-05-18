@@ -1,1 +1,1 @@
-var mnemonic = "marble cruel cereal file clerk trim market equal recycle match six width";
+var mnemonic = "wink physical fiction stem raw own chat company crop like slush grief";

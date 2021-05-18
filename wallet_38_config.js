@@ -1,1 +1,1 @@
-var mnemonic = "position spin weather square mandate culture decorate glad stick brown evidence purse";
+var mnemonic = "deposit marine coast sell eye void volcano fish ability banner clinic venue";

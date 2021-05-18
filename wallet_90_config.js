@@ -1,1 +1,1 @@
-var mnemonic = "tip pride promote alcohol dream science trim alpha capital ripple ball kangaroo";
+var mnemonic = "attack route excuse plug faculty edit issue vote prosper cliff shoe fatal";

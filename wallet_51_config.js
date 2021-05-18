@@ -1,1 +1,1 @@
-var mnemonic = "barrel sing hungry carbon point raccoon message erase stomach wall rally empty";
+var mnemonic = "catalog prevent spoil number cost caution grain floor kit gospel since scale";
