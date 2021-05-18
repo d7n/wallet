@@ -1,1 +1,1 @@
-var mnemonic = "labor join language paddle unit tip zone basic sight flavor fish settle";
+var mnemonic = "service success tide country broken sudden invest diagram swallow undo guide fire";

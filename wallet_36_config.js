@@ -1,1 +1,1 @@
-var mnemonic = "arrest obvious metal exact jeans search rocket survey fluid approve market gadget";
+var mnemonic = "discover genius portion boy follow credit ranch east smile cry divide quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "fever column symptom sport case force planet demise network shrug rack alley";
+var mnemonic = "camera range collect voyage crumble spoon olive humble service method piano avocado";

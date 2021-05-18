@@ -1,1 +1,1 @@
-var mnemonic = "right dawn figure horn lobster finish adjust lottery fault elder sign session";
+var mnemonic = "hand law alley seat rotate casual exile bird skin profit chat cost";

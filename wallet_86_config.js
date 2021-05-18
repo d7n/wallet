@@ -1,1 +1,1 @@
-var mnemonic = "vocal column valve sound embody ten theory garden face shaft stone base";
+var mnemonic = "suggest cry veteran entire decade rose session vast kid buzz breeze flush";

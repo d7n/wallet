@@ -1,1 +1,1 @@
-var mnemonic = "train champion energy diet firm weapon soldier liberty address army riot cloud";
+var mnemonic = "notable false athlete magnet sight outer sunny laundry suspect much spend cinnamon";

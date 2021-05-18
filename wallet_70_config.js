@@ -1,1 +1,1 @@
-var mnemonic = "situate echo gown soul mix board unhappy raven damp clean topic sort";
+var mnemonic = "motor coyote citizen space learn source vault mass beauty ball render become";

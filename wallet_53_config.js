@@ -1,1 +1,1 @@
-var mnemonic = "dawn illegal work receive bone volume tonight fossil behave reject sick vital";
+var mnemonic = "below arrow gorilla primary fortune together lock sense stairs fragile flee code";

@@ -1,1 +1,1 @@
-var mnemonic = "brain attend rude soft rural knock potato horn light antenna gain join";
+var mnemonic = "monkey degree dolphin burst close then almost vicious bird number recall vivid";

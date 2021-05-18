@@ -1,1 +1,1 @@
-var mnemonic = "forest clock update skin income hamster anger ankle include luxury congress canoe";
+var mnemonic = "vehicle cash tail chronic chalk snow pen farm ceiling wasp country ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "van strategy hub local arena salute pencil bubble ethics swallow remove shift";
+var mnemonic = "grid swear sting walnut great reward practice prize below employ wisdom arch";

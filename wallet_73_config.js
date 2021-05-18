@@ -1,1 +1,1 @@
-var mnemonic = "hen pistol hour multiply curious enroll blur sing trim jewel cave cabin";
+var mnemonic = "adjust pelican cannon soldier private old muffin soap blade retreat pizza cabbage";

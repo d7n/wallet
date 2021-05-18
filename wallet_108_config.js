@@ -1,1 +1,1 @@
-var mnemonic = "pattern polar enhance feature entire assist wage today little gauge theory jealous";
+var mnemonic = "ramp protect artwork citizen wave tenant vapor mixture voice finish armor mansion";

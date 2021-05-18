@@ -1,1 +1,1 @@
-var mnemonic = "field spice cart wear hen melt mystery cream bundle about maximum pigeon";
+var mnemonic = "fantasy plate clock fish letter debate chief valley acquire boat trigger athlete";

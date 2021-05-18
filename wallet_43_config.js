@@ -1,1 +1,1 @@
-var mnemonic = "cupboard remember gather crunch sudden hospital group insane social claw length monkey";
+var mnemonic = "cram shrimp three ride delay green column evolve property lunar much kingdom";

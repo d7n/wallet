@@ -1,1 +1,1 @@
-var mnemonic = "remove benefit knee trouble panda business goddess winner rocket enable dynamic demise";
+var mnemonic = "jelly improve response nice prison inject fashion shine catch comfort gift crumble";

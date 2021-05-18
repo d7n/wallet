@@ -1,1 +1,1 @@
-var mnemonic = "expire maple smart member that usual isolate fun neither brief ghost public";
+var mnemonic = "ceiling nominee noble pause scrub sad change other domain brown insane budget";

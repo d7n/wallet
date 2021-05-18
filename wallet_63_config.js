@@ -1,1 +1,1 @@
-var mnemonic = "rival canyon knock quiz nothing profit casino hybrid jazz because cable budget";
+var mnemonic = "lesson fruit police gentle sing three industry during renew conduct hedgehog comfort";

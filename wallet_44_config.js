@@ -1,1 +1,1 @@
-var mnemonic = "sibling rally hamster nerve ahead layer name magic art also exchange fish";
+var mnemonic = "hour manage ancient stomach always stairs caught ranch buzz lunar twelve idea";

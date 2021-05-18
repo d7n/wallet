@@ -1,1 +1,1 @@
-var mnemonic = "weekend around force danger team baby usual cycle top guilt infant dignity";
+var mnemonic = "bacon addict pool girl doll fire help canal aspect eyebrow sun craft";

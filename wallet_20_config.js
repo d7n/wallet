@@ -1,1 +1,1 @@
-var mnemonic = "wisdom easy vapor pattern attend noble brother demand van noble sibling thrive";
+var mnemonic = "hire multiply plastic velvet shaft wet outdoor lucky help bonus coin useless";

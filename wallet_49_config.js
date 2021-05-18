@@ -1,1 +1,1 @@
-var mnemonic = "nuclear dust pond powder amused marine satisfy library keen mosquito flight sugar";
+var mnemonic = "shine burger alone ivory cousin enable barely ride only lizard capable jazz";

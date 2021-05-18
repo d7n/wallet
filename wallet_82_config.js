@@ -1,1 +1,1 @@
-var mnemonic = "reduce awkward hockey current drive jealous detail penalty vivid more stand boss";
+var mnemonic = "garbage easily panic render endless catch note human expand fire thought kite";

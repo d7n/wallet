@@ -1,1 +1,1 @@
-var mnemonic = "curtain stereo cycle liberty ankle muscle spike nephew basket earn suffer mountain";
+var mnemonic = "liberty company sport mouse undo eyebrow swallow quiz trial busy flip south";

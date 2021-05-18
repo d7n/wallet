@@ -1,1 +1,1 @@
-var mnemonic = "brand habit prison such naive pulp flat ride dawn clock wedding moon";
+var mnemonic = "picnic cushion solar jar diesel valve museum strong route wealth mesh desert";

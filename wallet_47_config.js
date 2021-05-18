@@ -1,1 +1,1 @@
-var mnemonic = "left paddle helmet adult wisdom dose apart master hundred juice road draft";
+var mnemonic = "whip ring renew clean arena leopard agent dizzy shoulder dune garlic sphere";

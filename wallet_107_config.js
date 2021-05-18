@@ -1,1 +1,1 @@
-var mnemonic = "glide vague whip text moment rebel cushion pupil champion key divorce achieve";
+var mnemonic = "jar glow urge amazing elevator involve used thunder hotel stay fatigue foam";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding fat amused final foster spell trend blur fault swear client phrase";
+var mnemonic = "often toddler enlist music finish laundry hobby leopard cinnamon thumb hollow butter";

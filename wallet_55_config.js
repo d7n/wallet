@@ -1,1 +1,1 @@
-var mnemonic = "two rely paddle height child clump syrup derive recycle bright pair rebel";
+var mnemonic = "wood install adapt legend grunt egg spoil absent lemon struggle filter text";

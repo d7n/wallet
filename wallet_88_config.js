@@ -1,1 +1,1 @@
-var mnemonic = "ticket please false tuna donate resource issue usual knock girl demise modify";
+var mnemonic = "alert begin advance mushroom dolphin sleep put annual eternal response pass lazy";

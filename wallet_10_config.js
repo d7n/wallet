@@ -1,1 +1,1 @@
-var mnemonic = "learn honey dial whisper harvest vapor access mandate key barrel enlist gauge";
+var mnemonic = "arch tissue wheel hazard cancel brave lonely give frozen cousin city captain";

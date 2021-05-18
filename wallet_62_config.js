@@ -1,1 +1,1 @@
-var mnemonic = "bless adult hotel romance you elevator analyst elite shell rule awkward magic";
+var mnemonic = "rose device view term alter feel property solve muscle hood mobile enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage february amount piece science logic wood they fluid asthma assume rural";
+var mnemonic = "normal tilt mad soul crack bench dumb warfare patrol bicycle garden average";

@@ -1,1 +1,1 @@
-var mnemonic = "debris field transfer else scout torch nerve must east wage equip exhaust";
+var mnemonic = "catalog decorate gentle dinosaur young mushroom inquiry spray catch ready salute candy";

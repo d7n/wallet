@@ -1,1 +1,1 @@
-var mnemonic = "hello trip point aisle crunch surround dad broken wine sorry globe champion";
+var mnemonic = "clip series cruel trip rival illness recycle hollow talent expose undo erode";

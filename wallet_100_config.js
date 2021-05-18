@@ -1,1 +1,1 @@
-var mnemonic = "guard organ nut faculty task apart magnet beyond figure drama voyage cool";
+var mnemonic = "ready feature inmate pen bracket stove breeze dice bag spice toast tomato";

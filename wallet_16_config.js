@@ -1,1 +1,1 @@
-var mnemonic = "panda buyer front emotion boat inject explain human stamp cancel gesture kitchen";
+var mnemonic = "output become tape garage leave father opera amount high noodle imitate wing";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar impact obvious frequent nut suspect exact stove tunnel observe stove despair";
+var mnemonic = "wheel cheese raven giant document parent rubber opinion town hint soccer opera";

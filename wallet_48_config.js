@@ -1,1 +1,1 @@
-var mnemonic = "hybrid local enemy law range inquiry spend round hip orchard usage boss";
+var mnemonic = "fiber prosper almost blush sample horn toddler naive meadow flash curious swarm";

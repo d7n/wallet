@@ -1,1 +1,1 @@
-var mnemonic = "cram yellow pepper fury notice achieve thumb solar access enable uniform enforce";
+var mnemonic = "history birth behind thank lamp stool ten possible winter west saddle flush";

@@ -1,1 +1,1 @@
-var mnemonic = "figure exit trust brown video vintage busy pause ancient cruise target advance";
+var mnemonic = "once joke door coin balance record tackle miss atom promote basic poem";

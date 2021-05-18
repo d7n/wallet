@@ -1,1 +1,1 @@
-var mnemonic = "loyal tuition motor fee vintage next depth pave vanish clock pill bone";
+var mnemonic = "busy crisp ethics easily puzzle regular vital snake globe insane blood emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "art poverty kind circle file rail hammer whisper exist theme craft you";
+var mnemonic = "ripple never switch rug hurt flight clever decide parade use radio diesel";

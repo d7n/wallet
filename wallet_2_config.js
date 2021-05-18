@@ -1,1 +1,1 @@
-var mnemonic = "girl wide mass page good club boring accident picnic silk crane breeze";
+var mnemonic = "nephew priority buyer taste proud rifle judge ordinary toilet seven excite decrease";

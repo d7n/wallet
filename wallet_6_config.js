@@ -1,1 +1,1 @@
-var mnemonic = "faith cost enroll mom monitor hard spoon alone divide damp science useless";
+var mnemonic = "fashion wet joy leg chaos chase install edge joke cake test cigar";

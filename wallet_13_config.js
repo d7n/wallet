@@ -1,1 +1,1 @@
-var mnemonic = "clown alley hair include market volcano write affair nasty opera oven shine";
+var mnemonic = "unusual claim marine filter awkward link dream into welcome prize sock maid";

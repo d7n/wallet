@@ -1,1 +1,1 @@
-var mnemonic = "fragile rate fancy exchange reward face cactus cabbage casino clap manage wild";
+var mnemonic = "switch flower globe awake describe almost oven poverty curve size gown ship";

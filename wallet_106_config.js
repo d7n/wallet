@@ -1,1 +1,1 @@
-var mnemonic = "window size cross tackle agree agent venture dinner lyrics blur select gossip";
+var mnemonic = "exist heavy fresh initial retreat sound topic awkward stage equip index resource";

@@ -1,1 +1,1 @@
-var mnemonic = "champion stove rice snow sound cigar witness camp all omit game sister";
+var mnemonic = "custom choice quantum cannon pretty garden heart renew immune hamster jealous error";

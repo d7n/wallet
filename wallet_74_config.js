@@ -1,1 +1,1 @@
-var mnemonic = "spoil joy team motor track pelican kidney upper episode little shrug valve";
+var mnemonic = "unfair man range alone wood flag security popular royal best focus bench";

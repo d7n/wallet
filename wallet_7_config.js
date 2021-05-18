@@ -1,1 +1,1 @@
-var mnemonic = "metal file visit laptop camera isolate thunder skate damp alert pair skate";
+var mnemonic = "spoil zebra flag point clog what menu purse move dignity gym artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety theme behave power unaware legend grace cruise defense idle category concert";
+var mnemonic = "blade park nature unable diet orchard sweet eager original below light stadium";

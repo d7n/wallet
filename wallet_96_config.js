@@ -1,1 +1,1 @@
-var mnemonic = "often bulb tilt year monkey soft stumble sniff version polar differ ladder";
+var mnemonic = "kitten road clog help shield install afford milk frozen ripple novel fall";

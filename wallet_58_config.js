@@ -1,1 +1,1 @@
-var mnemonic = "sadness jeans rescue inject adult chronic shrug system tooth spice crash swim";
+var mnemonic = "egg vague inflict december dune tomato art giraffe history chair amount arrange";

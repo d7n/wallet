@@ -1,1 +1,1 @@
-var mnemonic = "trick slim kit uphold logic rib engage remember slim wave boat stay";
+var mnemonic = "adjust alcohol cram tip pink unknown summer page lend fog fuel another";

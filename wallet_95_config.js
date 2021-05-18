@@ -1,1 +1,1 @@
-var mnemonic = "subject scan weather alone piece fresh discover walnut fork lunar beyond critic";
+var mnemonic = "lava exercise neither wire column forget wedding order fetch vast hockey run";

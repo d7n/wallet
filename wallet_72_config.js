@@ -1,1 +1,1 @@
-var mnemonic = "hen sport shallow slogan cancel polar away elevator diagram salon document object";
+var mnemonic = "bullet candy erode name fatigue please amused visit one raccoon fragile because";

@@ -1,1 +1,1 @@
-var mnemonic = "slide glass frequent steak column total gadget guilt confirm mechanic express victory";
+var mnemonic = "forest flat theory favorite enough trust fee reason cousin slight frame permit";

@@ -1,1 +1,1 @@
-var mnemonic = "useless shine claw scissors neither dismiss jewel oil bus shoe start glue";
+var mnemonic = "guess step raw wagon loop perfect logic urban about delay suspect strike";

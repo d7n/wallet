@@ -1,1 +1,1 @@
-var mnemonic = "jeans permit refuse mandate vague mango begin crop firm name silver switch";
+var mnemonic = "change floor aim glue hover gloom work gain ability battle very already";

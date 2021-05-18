@@ -1,1 +1,1 @@
-var mnemonic = "history slight session glimpse pole crush present birth screen alien tree tool";
+var mnemonic = "spider supreme bargain spray brown royal village festival have blame rural alter";

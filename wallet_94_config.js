@@ -1,1 +1,1 @@
-var mnemonic = "pet help edge since address ripple veteran street ankle avoid result grace";
+var mnemonic = "milk pluck exclude analyst bubble kick dune almost unveil frame glare reform";

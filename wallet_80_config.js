@@ -1,1 +1,1 @@
-var mnemonic = "lend disease aware shed carpet rally trust elevator raven shrimp raise desert";
+var mnemonic = "camp oval proof harvest ribbon favorite first awful evidence near twelve guess";

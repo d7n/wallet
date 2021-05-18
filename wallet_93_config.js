@@ -1,1 +1,1 @@
-var mnemonic = "fold ginger learn cart manual venue wedding cattle figure load slab gentle";
+var mnemonic = "account label juice away ancient crowd material era stone destroy insane grant";

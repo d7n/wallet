@@ -1,1 +1,1 @@
-var mnemonic = "science motor protect lion useful zebra begin proud okay oblige luggage surge";
+var mnemonic = "liberty dinosaur farm forward recipe clinic invite park affair picture mobile segment";

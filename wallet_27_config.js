@@ -1,1 +1,1 @@
-var mnemonic = "short moment captain main rocket city section fatal verb arrest second cute";
+var mnemonic = "gun order month wrestle swift crush trade foster garlic glimpse nerve shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "agent crash gloom rigid sadness hold clock coin deliver moon aim warfare";
+var mnemonic = "winner furnace you scorpion report gun account bicycle almost couch major robot";

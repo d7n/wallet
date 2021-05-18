@@ -1,1 +1,1 @@
-var mnemonic = "idle saddle obtain entire garden grain exhibit three ethics diet arctic remain";
+var mnemonic = "seek canyon order journey pole cup pill ostrich album wealth ecology total";

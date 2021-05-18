@@ -1,1 +1,1 @@
-var mnemonic = "reform clump shrimp hood timber palace piano like talk tongue private baby";
+var mnemonic = "point once member visual barrel slow eager wire body jar group tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy praise mango pizza risk initial because brass chunk old icon sleep";
+var mnemonic = "tent cliff pond engage little visual gravity web final axis envelope drop";

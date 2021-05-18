@@ -1,1 +1,1 @@
-var mnemonic = "girl vicious girl welcome very toss soda resist snake average problem panther";
+var mnemonic = "note silk task grant icon cook track twenty mutual teach estate impact";

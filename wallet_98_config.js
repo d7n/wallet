@@ -1,1 +1,1 @@
-var mnemonic = "mechanic elite slush final earth evolve typical mandate prize coin eye purpose";
+var mnemonic = "february almost govern lava elephant just pool message damp disagree gloom gun";

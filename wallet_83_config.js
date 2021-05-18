@@ -1,1 +1,1 @@
-var mnemonic = "circle route note know mosquito walnut festival festival clay minimum road copy";
+var mnemonic = "skate believe scan throw uncle learn tip hedgehog laundry child early gate";

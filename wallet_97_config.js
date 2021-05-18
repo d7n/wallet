@@ -1,1 +1,1 @@
-var mnemonic = "harvest hold eight fashion night fiber have insect slide tag sort club";
+var mnemonic = "assist guilt wage thunder search delay human turn occur gate know mask";

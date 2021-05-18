@@ -1,1 +1,1 @@
-var mnemonic = "mechanic employ silver evidence someone property essay yard trim any spike vivid";
+var mnemonic = "evil tomato rapid hard plug giggle common mimic episode dash fiscal off";

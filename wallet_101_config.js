@@ -1,1 +1,1 @@
-var mnemonic = "fall wasp goat fever general extend cancel glad wheat mansion stomach strong";
+var mnemonic = "logic split endless bean galaxy palace sting winner rent march owner index";

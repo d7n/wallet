@@ -1,1 +1,1 @@
-var mnemonic = "chase phrase bar wagon warrior buddy reform ordinary envelope spirit voyage need";
+var mnemonic = "size bright ride smooth capable shell ordinary proud mixture rule flip glow";

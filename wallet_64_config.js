@@ -1,1 +1,1 @@
-var mnemonic = "snap mango junior service salon into caught town neck cargo occur correct";
+var mnemonic = "flag urban dinosaur mixture square relax noble mystery mom cart hedgehog pumpkin";

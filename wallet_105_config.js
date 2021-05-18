@@ -1,1 +1,1 @@
-var mnemonic = "firm mail motor ill obvious decrease body close arena spray rural unaware";
+var mnemonic = "ability work sun genuine fit initial rubber select blush ski blossom tired";

@@ -1,1 +1,1 @@
-var mnemonic = "device pitch skull depart usual member inhale better slight vicious peanut leg";
+var mnemonic = "trend infant culture fun split direct lady wild team decade scene soft";

@@ -1,1 +1,1 @@
-var mnemonic = "cement balance depart culture orphan else session armor moral crack follow farm";
+var mnemonic = "giggle milk orchard dose endorse give kitten twice mimic price ecology patient";

@@ -1,1 +1,1 @@
-var mnemonic = "soul deputy soap symbol shuffle frown write hip push hero cricket void";
+var mnemonic = "rubber photo abandon box horror cactus violin rude wheat canoe tomorrow voice";

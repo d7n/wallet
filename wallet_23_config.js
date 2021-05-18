@@ -1,1 +1,1 @@
-var mnemonic = "animal void urban humor candy attend roast assault one road speak brisk";
+var mnemonic = "top bacon begin please useful ancient reward lazy card science permit column";

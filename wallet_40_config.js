@@ -1,1 +1,1 @@
-var mnemonic = "marriage shine choice portion soon mail move hero isolate jazz ignore behave";
+var mnemonic = "camp cart engage weather bronze chase same harsh end boil police universe";
