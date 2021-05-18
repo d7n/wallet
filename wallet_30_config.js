@@ -1,1 +1,1 @@
-var mnemonic = "buzz length lens day urge phrase cricket obtain black cactus siege credit";
+var mnemonic = "stool tank senior giant cable job steel flag lava travel also spare";

@@ -1,1 +1,1 @@
-var mnemonic = "focus yellow since south refuse oval play pistol velvet produce capital wagon";
+var mnemonic = "drum income prize glimpse bargain boil stem doll purity combine random outdoor";

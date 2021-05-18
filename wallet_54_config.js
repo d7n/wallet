@@ -1,1 +1,1 @@
-var mnemonic = "palm wish ticket quality sugar sudden trend essay merry soft judge solar";
+var mnemonic = "fat home chest soul ribbon much loyal kiss build surprise wild onion";

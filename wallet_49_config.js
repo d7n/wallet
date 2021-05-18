@@ -1,1 +1,1 @@
-var mnemonic = "reflect aim festival palace scatter nerve elbow stairs harvest shed engage young";
+var mnemonic = "text quality celery cart desk impose fiscal method matter wisdom liar material";

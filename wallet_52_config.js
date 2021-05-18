@@ -1,1 +1,1 @@
-var mnemonic = "book cause govern learn ethics bind know giggle social tumble rotate source";
+var mnemonic = "select nature news royal since script always echo wrist sight isolate wall";

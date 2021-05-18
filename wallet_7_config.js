@@ -1,1 +1,1 @@
-var mnemonic = "online lunar earn rose fork hole cave family tragic seek duck alley";
+var mnemonic = "betray inch column label tail usage bacon museum torch urge embody athlete";

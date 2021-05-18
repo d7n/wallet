@@ -1,1 +1,1 @@
-var mnemonic = "supreme calm what choose favorite office ensure blame waste approve accuse pony";
+var mnemonic = "coyote emerge step someone side hello quote model pumpkin room alcohol mushroom";

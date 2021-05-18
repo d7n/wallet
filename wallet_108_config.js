@@ -1,1 +1,1 @@
-var mnemonic = "response relief note frozen twice jelly axis offer ugly close arrange category";
+var mnemonic = "labor wave food napkin pear speak sunny announce scheme group moral link";

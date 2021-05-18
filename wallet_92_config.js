@@ -1,1 +1,1 @@
-var mnemonic = "release tourist divide ribbon grab ill assault coral engage reunion milk middle";
+var mnemonic = "shoe into release gorilla speak drama speed acquire betray notice wrestle island";

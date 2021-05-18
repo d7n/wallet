@@ -1,1 +1,1 @@
-var mnemonic = "duck one weapon surprise warfare fever turkey drink steak example near truck";
+var mnemonic = "slight trouble jungle maze asthma match attend pepper left smart install survey";

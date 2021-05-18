@@ -1,1 +1,1 @@
-var mnemonic = "better van hero anxiety bean panda faculty moon clog legend immense good";
+var mnemonic = "move betray immune title member joy various jewel stool wagon figure clap";

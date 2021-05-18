@@ -1,1 +1,1 @@
-var mnemonic = "shock property aunt card foster above ignore verb seven artist wagon soft";
+var mnemonic = "lab lucky oxygen again reopen rail twin meadow burst enlist hat card";

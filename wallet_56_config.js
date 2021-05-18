@@ -1,1 +1,1 @@
-var mnemonic = "tool loyal must mass civil derive tourist glow radar year apology tragic";
+var mnemonic = "grocery purpose exist farm wall pumpkin swamp flavor anxiety draft birth honey";

@@ -1,1 +1,1 @@
-var mnemonic = "kind glimpse desk pigeon gadget hobby flavor table atom rack help defy";
+var mnemonic = "inquiry thank holiday fall either dose address donkey guilt error party turn";

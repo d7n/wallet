@@ -1,1 +1,1 @@
-var mnemonic = "pride river lawsuit oval employ material wagon approve require tip song exhibit";
+var mnemonic = "nurse miracle marble coin matter auto notice rate invest disorder favorite valve";

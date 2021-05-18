@@ -1,1 +1,1 @@
-var mnemonic = "moment noise maze cabin critic cheese fade soccer elder explain endless spoon";
+var mnemonic = "brief laugh inspire student rally abstract another inquiry primary crash advance grid";

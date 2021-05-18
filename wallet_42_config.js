@@ -1,1 +1,1 @@
-var mnemonic = "mixed armed sniff desk canyon fan duck pigeon river limit notice collect";
+var mnemonic = "above isolate giggle bless video cannon gap tip security alone alone talk";

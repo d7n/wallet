@@ -1,1 +1,1 @@
-var mnemonic = "fancy double alarm mask room lift dinner guess boy strong hand taxi";
+var mnemonic = "young nothing tent rate pole shine truck clever argue cherry reason under";

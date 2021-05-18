@@ -1,1 +1,1 @@
-var mnemonic = "ethics office peanut mind siren common open morning tunnel garage tortoise distance";
+var mnemonic = "that wash embark level aim kangaroo weasel tribe situate live kit slim";

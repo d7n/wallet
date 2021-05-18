@@ -1,1 +1,1 @@
-var mnemonic = "acoustic private spray gossip know cost income grain picture combine evoke magic";
+var mnemonic = "engage boil design ceiling virus loyal profit place drama few river virus";

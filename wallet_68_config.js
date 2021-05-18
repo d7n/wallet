@@ -1,1 +1,1 @@
-var mnemonic = "lonely cereal spirit much jacket gorilla canal space birth floor unit festival";
+var mnemonic = "tissue witness mushroom shuffle need grocery mimic mom enable morning place opinion";

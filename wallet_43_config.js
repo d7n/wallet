@@ -1,1 +1,1 @@
-var mnemonic = "farm fork try dream list walk asthma report good dish alien symptom";
+var mnemonic = "drama famous cost anger strategy bridge pave age angry angle boy proud";

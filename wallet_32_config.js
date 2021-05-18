@@ -1,1 +1,1 @@
-var mnemonic = "uniform regret sister forum monkey goat wire rigid arch ceiling beef explain";
+var mnemonic = "shrimp crouch theme turkey shoulder invite keep blast gadget plunge sight prevent";

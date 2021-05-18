@@ -1,1 +1,1 @@
-var mnemonic = "minimum ostrich drive syrup excuse diagram knife enjoy side farm fringe desert";
+var mnemonic = "spirit dirt faith health bless pull inflict quarter come humble hungry weather";

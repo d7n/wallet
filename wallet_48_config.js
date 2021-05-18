@@ -1,1 +1,1 @@
-var mnemonic = "hour bread shrimp velvet image bracket stem tunnel loyal aware tattoo symbol";
+var mnemonic = "between gap history gold such fix arrest game delay lock blur aisle";

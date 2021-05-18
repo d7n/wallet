@@ -1,1 +1,1 @@
-var mnemonic = "asthma march base cruise bronze try surface cheap friend develop ring snack";
+var mnemonic = "aware couple sell unknown increase foil champion flee upset toy bomb cause";

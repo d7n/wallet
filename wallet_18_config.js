@@ -1,1 +1,1 @@
-var mnemonic = "olive adapt crouch loud order test universe artist cinnamon afford essence room";
+var mnemonic = "clay coral slab believe among work buyer faculty scrap appear panther stadium";

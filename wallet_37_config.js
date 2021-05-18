@@ -1,1 +1,1 @@
-var mnemonic = "theory scissors valley typical goat great report hire lunar letter spend gospel";
+var mnemonic = "crystal fiction stuff provide rally rely mesh clap saddle ensure carbon carry";

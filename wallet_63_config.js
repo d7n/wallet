@@ -1,1 +1,1 @@
-var mnemonic = "daring hat light brother width pledge hello salon rebel near feature lesson";
+var mnemonic = "spy spend nose tape exotic great exotic spawn energy jaguar sea increase";

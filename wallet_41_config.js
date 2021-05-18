@@ -1,1 +1,1 @@
-var mnemonic = "bone stairs bone viable faith guide broccoli organ shove punch scare exotic";
+var mnemonic = "learn lizard concert vessel visual public hollow scrub sting bulk exhibit tuna";

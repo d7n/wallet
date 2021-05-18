@@ -1,1 +1,1 @@
-var mnemonic = "ocean ship virus scorpion mansion rich cloud upon bounce reopen uniform slide";
+var mnemonic = "token original lake eagle cloth disagree jelly find piece card hidden child";

@@ -1,1 +1,1 @@
-var mnemonic = "split trophy say quantum keen era grocery interest sea chapter attack exact";
+var mnemonic = "barely test echo divert depth cousin short dog zebra search squirrel urge";

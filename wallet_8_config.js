@@ -1,1 +1,1 @@
-var mnemonic = "reduce alert nothing ginger diamond citizen unaware jazz sweet cloud tumble beef";
+var mnemonic = "inspire admit symbol cancel legal better hurdle together crew monster crop stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "whale creek emotion art december snap bike category ticket fan gain lizard";
+var mnemonic = "gloom alcohol ensure trim where today attack inform solid robot torch fetch";

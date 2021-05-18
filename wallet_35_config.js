@@ -1,1 +1,1 @@
-var mnemonic = "primary either acquire design student ice brush loud label earn price oil";
+var mnemonic = "consider inner filter bicycle dream chunk desk awkward require poem route fitness";

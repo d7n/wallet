@@ -1,1 +1,1 @@
-var mnemonic = "bundle learn afraid rocket lunar friend decorate machine fly often remember jewel";
+var mnemonic = "muscle mail gas taste carry inside flee grape today stand lazy rotate";

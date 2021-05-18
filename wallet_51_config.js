@@ -1,1 +1,1 @@
-var mnemonic = "truth hybrid spare hand pear pepper bulk stove warfare fragile parade shy";
+var mnemonic = "chuckle design coach woman tag sphere solar siege morning medal body believe";

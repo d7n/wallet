@@ -1,1 +1,1 @@
-var mnemonic = "defy velvet hope wine dinosaur artwork beef flock jeans merit object shell";
+var mnemonic = "rhythm doctor inmate eye select suffer innocent home turtle visa monkey museum";

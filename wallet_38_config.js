@@ -1,1 +1,1 @@
-var mnemonic = "pear skill lunar umbrella curious prison child vast motion squirrel border erupt";
+var mnemonic = "tray marriage company pumpkin act tilt friend legend what feed cliff smoke";

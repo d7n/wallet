@@ -1,1 +1,1 @@
-var mnemonic = "charge fury timber find liar pact alone frame sister happy program alone";
+var mnemonic = "fatigue suit humor impose vehicle comic century absent alley hunt wing liar";

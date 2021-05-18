@@ -1,1 +1,1 @@
-var mnemonic = "cook wonder pretty fee swing artwork judge pool dragon replace spoon atom";
+var mnemonic = "business absorb eager shoot holiday begin cotton fury space corn flash thought";

@@ -1,1 +1,1 @@
-var mnemonic = "mass brown example select wage diagram hint ability page essence clever wasp";
+var mnemonic = "smoke sustain switch adult steak mixed rose post liar arrest tiny history";

@@ -1,1 +1,1 @@
-var mnemonic = "page ride cloth base bone desk noodle group stumble voyage inhale move";
+var mnemonic = "betray speed pole lawn gospel decade dragon festival nation hundred ankle kiwi";

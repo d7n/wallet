@@ -1,1 +1,1 @@
-var mnemonic = "layer bag bachelor ski pencil cable divide steel tenant word seek empty";
+var mnemonic = "desert aisle frozen ship prevent immense garbage cable hedgehog raccoon grow wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "iron earn firm ginger curve then shift tiger old peace system crack";
+var mnemonic = "surface pen delay normal radar steel tenant long clean include faculty must";

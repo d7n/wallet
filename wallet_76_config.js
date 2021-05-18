@@ -1,1 +1,1 @@
-var mnemonic = "icon edit pledge elevator fish coral cable develop screen bridge almost foot";
+var mnemonic = "thought pretty divert orbit hammer tomorrow wheel spot minimum chair load soccer";

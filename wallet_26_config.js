@@ -1,1 +1,1 @@
-var mnemonic = "clap cream fantasy allow weird wise vague exist hat enough daughter earn";
+var mnemonic = "between garlic distance short nothing move casino menu stumble rough wire raven";

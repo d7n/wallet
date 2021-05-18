@@ -1,1 +1,1 @@
-var mnemonic = "split program warm total squeeze robust brave warrior end state divide axis";
+var mnemonic = "violin start solve bounce subway green april capital library cube glue boy";

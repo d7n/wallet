@@ -1,1 +1,1 @@
-var mnemonic = "stick song defy open end style ranch royal outside jeans master slogan";
+var mnemonic = "initial outside heavy luggage cover pepper nest initial exhibit fence mule tool";

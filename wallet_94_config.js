@@ -1,1 +1,1 @@
-var mnemonic = "deal dynamic nephew illness nut will trick figure receive replace unit light";
+var mnemonic = "immune ticket empower raven weather toast height awful chat viable beyond custom";

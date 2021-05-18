@@ -1,1 +1,1 @@
-var mnemonic = "month spoil token ramp video dolphin slim rebuild explain page source exile";
+var mnemonic = "trim runway spice canoe decline airport ecology return mail transfer pipe devote";

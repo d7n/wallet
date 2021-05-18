@@ -1,1 +1,1 @@
-var mnemonic = "aunt legal sense mean summer key scrap brother hand blast loan baby";
+var mnemonic = "increase pool second burden addict double main toy myth grocery cheap great";

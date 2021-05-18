@@ -1,1 +1,1 @@
-var mnemonic = "dizzy impulse allow pyramid shed stay hair unable size coach stadium nephew";
+var mnemonic = "decade borrow behave mixture coconut problem afraid umbrella raven stadium adjust language";

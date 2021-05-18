@@ -1,1 +1,1 @@
-var mnemonic = "frozen rely alter exhibit soldier sad crane romance must age exile box";
+var mnemonic = "february omit analyst hub pottery shop token local spike pony such strong";

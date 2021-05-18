@@ -1,1 +1,1 @@
-var mnemonic = "stumble hair baby fence syrup crop wall grant task vault finger hard";
+var mnemonic = "okay bitter coil silly first giggle deliver surge language bike note hunt";

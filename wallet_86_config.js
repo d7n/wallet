@@ -1,1 +1,1 @@
-var mnemonic = "domain gorilla fossil door transfer roof trade keep truly special motor gossip";
+var mnemonic = "neglect swallow arch help van ability under fat hair timber want oval";

@@ -1,1 +1,1 @@
-var mnemonic = "bread order leader coral midnight coral phrase jealous elevator mix treat benefit";
+var mnemonic = "picnic resemble thunder slam tomorrow double patrol plate foot nominee aware silly";

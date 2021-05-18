@@ -1,1 +1,1 @@
-var mnemonic = "fat bargain pull hedgehog police cinnamon waste crop rigid share scheme boss";
+var mnemonic = "rate ready enroll audit catalog bunker milk escape agree dream nurse cushion";

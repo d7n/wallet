@@ -1,1 +1,1 @@
-var mnemonic = "dash canvas repair jaguar pool boil orchard benefit game seven usual goose";
+var mnemonic = "order body scare antique mechanic student excuse addict daughter box inform harvest";

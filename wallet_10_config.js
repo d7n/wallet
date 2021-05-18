@@ -1,1 +1,1 @@
-var mnemonic = "tragic distance avocado into post jungle bonus evoke angle enemy excuse duck";
+var mnemonic = "blanket long dinner curve country salt stage step edge load crawl soldier";

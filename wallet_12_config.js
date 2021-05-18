@@ -1,1 +1,1 @@
-var mnemonic = "balance family master clip tonight jump oxygen symptom piano monkey animal kid";
+var mnemonic = "quantum dismiss vote disagree rain fun suffer perfect hybrid chat absurd myth";

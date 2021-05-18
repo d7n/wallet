@@ -1,1 +1,1 @@
-var mnemonic = "assist buyer tray auction educate riot enact snack question cruise cool desert";
+var mnemonic = "stay plastic illegal help winter sting rare reunion defy extend wall wish";

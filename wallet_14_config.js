@@ -1,1 +1,1 @@
-var mnemonic = "element clip object govern team frown merit absurd broom alpha approve wrap";
+var mnemonic = "donkey wait nut adapt antique front deer deer clean nuclear member rice";

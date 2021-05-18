@@ -1,1 +1,1 @@
-var mnemonic = "grow scan ivory rice soul penalty earn mesh stamp this believe pipe";
+var mnemonic = "embrace auto attend state boy hospital alone noodle umbrella limit symptom disagree";

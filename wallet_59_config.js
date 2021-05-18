@@ -1,1 +1,1 @@
-var mnemonic = "fine slide bus almost venture song race churn annual amused asset hat";
+var mnemonic = "limit elevator point skirt extend news dry canoe host bullet kid oxygen";

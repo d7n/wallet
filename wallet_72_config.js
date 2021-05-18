@@ -1,1 +1,1 @@
-var mnemonic = "tiny sing liquid change fortune allow armed crazy nurse industry month skate";
+var mnemonic = "aunt sadness census stock mule first mean credit element exact ticket ranch";

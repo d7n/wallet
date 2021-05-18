@@ -1,1 +1,1 @@
-var mnemonic = "suggest soul wage senior fury two kangaroo faith rain cluster early gym";
+var mnemonic = "bonus fiscal tree record float guitar basket hidden torch fault absent employ";

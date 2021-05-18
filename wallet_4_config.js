@@ -1,1 +1,1 @@
-var mnemonic = "helmet rich chase monkey gap street corn fire thing vintage force ribbon";
+var mnemonic = "cause ensure ribbon swallow crew section evoke world diagram cage top hunt";

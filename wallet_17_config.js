@@ -1,1 +1,1 @@
-var mnemonic = "certain burst grant great defy surprise square anchor parrot blouse citizen swallow";
+var mnemonic = "trip chair obey argue dry parent dwarf cherry ceiling hidden soldier gas";

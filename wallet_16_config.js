@@ -1,1 +1,1 @@
-var mnemonic = "dizzy rug happy replace elbow panda walk gossip short brass fruit warm";
+var mnemonic = "patrol ranch voice violin corn deny quiz dynamic soccer anger manual claw";

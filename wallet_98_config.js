@@ -1,1 +1,1 @@
-var mnemonic = "meadow base present reopen genuine apart month match elder someone crop pizza";
+var mnemonic = "chunk type what name slab under frown indicate flame indoor apology rapid";

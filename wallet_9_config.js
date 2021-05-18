@@ -1,1 +1,1 @@
-var mnemonic = "fish hat sorry crane tonight enhance security among rival unfold equip screen";
+var mnemonic = "chunk world flower peasant more food board blade page barely canoe borrow";

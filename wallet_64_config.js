@@ -1,1 +1,1 @@
-var mnemonic = "embark reform soccer shed electric march tape acquire mule toy jeans equip";
+var mnemonic = "raccoon general poverty carbon shaft sheriff upset abandon deal file way actor";

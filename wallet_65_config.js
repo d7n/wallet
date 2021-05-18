@@ -1,1 +1,1 @@
-var mnemonic = "choose small guilt enforce acquire unfair bright glory addict winner enable middle";
+var mnemonic = "section ensure sword turkey crucial kit hand inject news web liquid team";

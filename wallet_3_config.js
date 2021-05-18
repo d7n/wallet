@@ -1,1 +1,1 @@
-var mnemonic = "paddle animal milk wrap vault mother correct negative celery drift planet legal";
+var mnemonic = "lunch december protect frozen abstract click mushroom spot glare shoe trend chicken";

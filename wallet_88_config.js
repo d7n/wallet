@@ -1,1 +1,1 @@
-var mnemonic = "chunk barely muscle hand patrol popular addict crazy arrow author clinic ecology";
+var mnemonic = "cat coffee step regret dove glass dance pistol gaze extra easy position";

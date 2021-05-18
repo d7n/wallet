@@ -1,1 +1,1 @@
-var mnemonic = "minor oval else garlic fresh combine version file resemble job edit cost";
+var mnemonic = "bacon skin token young pause invite tool tomorrow man valid mesh soup";

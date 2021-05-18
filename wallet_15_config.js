@@ -1,1 +1,1 @@
-var mnemonic = "earth buddy only school wool edge fragile jungle trip nature laugh bundle";
+var mnemonic = "elite spike ice talent zoo snap alone general broken hundred grunt chest";

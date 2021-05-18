@@ -1,1 +1,1 @@
-var mnemonic = "poem habit holiday visual evolve innocent penalty quarter dream tilt paddle insane";
+var mnemonic = "frame elbow winner famous cream clerk noise aunt hen output weapon flag";

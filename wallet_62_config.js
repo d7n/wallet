@@ -1,1 +1,1 @@
-var mnemonic = "nest promote trial burst advice jungle obey casino congress open suggest dice";
+var mnemonic = "improve smooth leg talk age dutch drill fiscal point version clean squirrel";

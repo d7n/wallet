@@ -1,1 +1,1 @@
-var mnemonic = "virtual spirit affair maze poem cheap prize news walnut purity state garbage";
+var mnemonic = "when consider wing blossom fringe grass twin kite same spin crime book";

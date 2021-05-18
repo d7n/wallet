@@ -1,1 +1,1 @@
-var mnemonic = "early direct solve giggle dinner car circle inject worth vicious thank taxi";
+var mnemonic = "foot burst dream excite shield despair indicate march kitten view parade nurse";

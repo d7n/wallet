@@ -1,1 +1,1 @@
-var mnemonic = "sausage direct man similar inmate depend enable various type loyal radar broken";
+var mnemonic = "file retreat scene need february then moral reward diesel tongue rack clarify";

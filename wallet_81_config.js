@@ -1,1 +1,1 @@
-var mnemonic = "moon horse awful cancel range timber powder hour lesson behind build release";
+var mnemonic = "wing rabbit gain eagle recipe turtle object rich ski piano swarm girl";

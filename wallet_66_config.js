@@ -1,1 +1,1 @@
-var mnemonic = "utility pill say satoshi tackle taste sibling struggle satisfy permit fold quick";
+var mnemonic = "toilet sport unknown cloth witness miss vote phone height decade pelican advice";

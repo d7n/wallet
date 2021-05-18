@@ -1,1 +1,1 @@
-var mnemonic = "will nice fan pride track genuine element sniff obtain clerk true inject";
+var mnemonic = "nose inject hotel dad battle annual enforce original genuine leave stand pledge";

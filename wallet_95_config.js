@@ -1,1 +1,1 @@
-var mnemonic = "reward omit catch crack mom nephew family divide identify sleep regret own";
+var mnemonic = "gadget photo subway kick dentist base yard mirror rebel hair hunt proof";

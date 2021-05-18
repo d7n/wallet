@@ -1,1 +1,1 @@
-var mnemonic = "remain juice draw zone another young rural bind honey dignity embrace story";
+var mnemonic = "tip tattoo burger also hello tag festival engine become goose tooth flame";

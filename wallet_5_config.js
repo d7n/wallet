@@ -1,1 +1,1 @@
-var mnemonic = "scare concert modify spoon height trigger evil girl sadness letter range sad";
+var mnemonic = "essence area pattern mosquito upper senior produce receive congress around brain luggage";

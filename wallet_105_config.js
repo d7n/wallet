@@ -1,1 +1,1 @@
-var mnemonic = "harvest clever army peanut mouse rely seat suspect shed ill memory uphold";
+var mnemonic = "naive total service violin fat popular win release social mule fiscal lesson";
