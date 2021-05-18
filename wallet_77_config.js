@@ -1,1 +1,1 @@
-var mnemonic = "onion bag average mirror bronze final bounce drum congress armed welcome october";
+var mnemonic = "excess hawk festival sudden squirrel snap frost receive oval section large visa";

@@ -1,1 +1,1 @@
-var mnemonic = "apple wrist mother twin session urge heart banana outside draw extra obvious";
+var mnemonic = "return that rebel violin milk crash warfare organ around brand cigar riot";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet combine family issue job review exit fashion jungle helmet violin laptop";
+var mnemonic = "bracket trade gravity labor suit pond text lyrics grab general raccoon multiply";

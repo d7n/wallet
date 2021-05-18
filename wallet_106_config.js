@@ -1,1 +1,1 @@
-var mnemonic = "regret walnut wood silly afraid cushion card chair merge story arrange tower";
+var mnemonic = "combine correct habit bachelor hour scan exclude drum gallery field rather session";

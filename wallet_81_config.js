@@ -1,1 +1,1 @@
-var mnemonic = "damage wonder library sing hello metal orbit hammer ill lesson around share";
+var mnemonic = "wage wish skill bulk grace dumb come pond tree code repeat runway";

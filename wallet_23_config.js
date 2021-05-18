@@ -1,1 +1,1 @@
-var mnemonic = "teach leg fire identify outer lend stable sign video mandate flight uncover";
+var mnemonic = "cream wire planet robot street settle blossom lecture swarm stadium pear rack";

@@ -1,1 +1,1 @@
-var mnemonic = "twin soda tooth when eager rebel size blossom logic struggle garbage calm";
+var mnemonic = "dynamic cry manual where aerobic reform stamp body scrap play venue flight";

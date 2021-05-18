@@ -1,1 +1,1 @@
-var mnemonic = "rain point leaf bridge parent agree dove ugly vessel belt cradle attack";
+var mnemonic = "gesture amazing size thought obtain problem play sense mistake comfort aunt cherry";

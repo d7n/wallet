@@ -1,1 +1,1 @@
-var mnemonic = "interest load cricket scatter aim night improve unaware effort output perfect pen";
+var mnemonic = "capable brother tide whip into crew oven analyst awesome actor nothing save";

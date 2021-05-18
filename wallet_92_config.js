@@ -1,1 +1,1 @@
-var mnemonic = "audit tone wasp conduct thank glow lazy blanket join pupil vast decide";
+var mnemonic = "defense drift differ federal curious example nest employ style useless mother disagree";

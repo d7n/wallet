@@ -1,1 +1,1 @@
-var mnemonic = "random cruel option tiny rifle shell aspect visit elite neglect torch stick";
+var mnemonic = "donate regular despair hollow that stadium blade ranch wait high rebel interest";

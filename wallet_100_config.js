@@ -1,1 +1,1 @@
-var mnemonic = "exist bitter december fashion fatigue palm junior clump body host unique crime";
+var mnemonic = "web first fault month alone garment carry gown page dragon truly present";

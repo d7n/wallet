@@ -1,1 +1,1 @@
-var mnemonic = "runway tourist submit excess business replace banana utility differ scrap educate depth";
+var mnemonic = "pyramid bone note above supreme charge cinnamon lady position exact net easy";

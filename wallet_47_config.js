@@ -1,1 +1,1 @@
-var mnemonic = "sample jeans bring school chapter soon sand arm horror lonely slender dove";
+var mnemonic = "cushion bus beyond left forest salute shop guess pull glow office leave";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle path provide skirt raise list across message despair force actual author";
+var mnemonic = "endorse pole once february cherry undo rare stereo ice arena off base";

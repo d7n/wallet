@@ -1,1 +1,1 @@
-var mnemonic = "uphold exhibit pupil prison response local infant area today drastic energy local";
+var mnemonic = "spider sense favorite core case comic settle tag remain consider defy crazy";

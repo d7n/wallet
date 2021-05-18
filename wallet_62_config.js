@@ -1,1 +1,1 @@
-var mnemonic = "behave machine middle vacant tank slogan fault betray jaguar exact busy deliver";
+var mnemonic = "grab judge potato better lend burger evidence title actress salmon verb sweet";

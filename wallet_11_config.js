@@ -1,1 +1,1 @@
-var mnemonic = "wine merry scheme forest dream velvet resemble inside strategy baby access armor";
+var mnemonic = "wild say winter provide soldier cherry know mail shoulder barrel gym please";

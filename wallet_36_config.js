@@ -1,1 +1,1 @@
-var mnemonic = "happy summer season wisdom federal body ethics detect clay exclude art finish";
+var mnemonic = "odor giant remain pyramid toss crash ankle scan punch view together equal";

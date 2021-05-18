@@ -1,1 +1,1 @@
-var mnemonic = "thumb onion feature repeat grocery melt bulk walk beach ladder refuse omit";
+var mnemonic = "flash slot era live stand input position tone farm climb kite aerobic";

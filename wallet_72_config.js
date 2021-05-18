@@ -1,1 +1,1 @@
-var mnemonic = "song deputy enrich domain salad similar uniform item tonight hope caution resemble";
+var mnemonic = "mind kidney lizard trick couple hat become corn winner purpose rent debate";

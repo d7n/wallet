@@ -1,1 +1,1 @@
-var mnemonic = "trash confirm soup again chef mimic arena gaze produce barrel settle life";
+var mnemonic = "margin turn help brain merry balcony all mansion gadget blouse cave draft";

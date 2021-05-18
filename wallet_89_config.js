@@ -1,1 +1,1 @@
-var mnemonic = "ranch double vehicle pyramid human limit health perfect abandon avoid cat benefit";
+var mnemonic = "amateur april maximum student return trust session stage option phone flash fence";

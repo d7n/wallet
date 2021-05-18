@@ -1,1 +1,1 @@
-var mnemonic = "utility special gym because era cream clerk waste next sponsor burger review";
+var mnemonic = "first empty fiber kangaroo lecture buffalo suspect short always clap snack maze";

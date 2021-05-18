@@ -1,1 +1,1 @@
-var mnemonic = "chunk fitness wife alley safe system tortoise crisp foam asthma organ deposit";
+var mnemonic = "because someone cabin now page notice seek reward elephant bottom wave property";

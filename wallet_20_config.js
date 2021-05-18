@@ -1,1 +1,1 @@
-var mnemonic = "acquire setup keep glass thumb innocent dinosaur physical diesel property inquiry attitude";
+var mnemonic = "feed student ripple couch guitar hammer head know evil diesel hill clerk";

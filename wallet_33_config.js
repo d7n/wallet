@@ -1,1 +1,1 @@
-var mnemonic = "jewel young flavor hope lyrics regret column ice grass emerge uncle reflect";
+var mnemonic = "oblige loud banner cushion judge there merge output person grain purchase purpose";

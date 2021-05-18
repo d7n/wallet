@@ -1,1 +1,1 @@
-var mnemonic = "credit humble street base pitch cube waste width feature sad come unhappy";
+var mnemonic = "apology saddle often scout reason more prison elbow knee front hospital vault";

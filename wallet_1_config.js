@@ -1,1 +1,1 @@
-var mnemonic = "rigid tourist engage draw puzzle device auto castle salute person prize minute";
+var mnemonic = "jealous rich gym captain okay style wrestle shadow useful adult girl cabin";

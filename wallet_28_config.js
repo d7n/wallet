@@ -1,1 +1,1 @@
-var mnemonic = "code twice picture peanut silk wing arrow lamp agent primary bitter rocket";
+var mnemonic = "address omit describe damage birth renew sail rare valley siren provide state";

@@ -1,1 +1,1 @@
-var mnemonic = "alone moon response blood collect seat convince teach radar shrimp october civil";
+var mnemonic = "recipe radar forward equal become pelican outdoor bottom squirrel tornado broken apart";

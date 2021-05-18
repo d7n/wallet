@@ -1,1 +1,1 @@
-var mnemonic = "plunge chest staff swallow indoor track benefit innocent palace mobile hen sign";
+var mnemonic = "food unable short tunnel swamp already address similar juice split cotton belt";

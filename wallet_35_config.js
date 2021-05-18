@@ -1,1 +1,1 @@
-var mnemonic = "reward robot style daughter economy extra stick cube sorry olive again adjust";
+var mnemonic = "brush birth isolate congress never equip toe struggle improve nurse glow enforce";

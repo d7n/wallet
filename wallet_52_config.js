@@ -1,1 +1,1 @@
-var mnemonic = "brush plug cabbage skull disease grunt then lens vibrant sword weird reunion";
+var mnemonic = "weekend toddler equip lawn chase vapor pass try jazz mind gloom include";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper biology album essence spirit cancel other opinion exhibit comic wrong common";
+var mnemonic = "humor genre uphold midnight video dinosaur drift vacuum wild tongue anger round";

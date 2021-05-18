@@ -1,1 +1,1 @@
-var mnemonic = "music rug harbor quick damp audit broken practice cruel salmon diamond pact";
+var mnemonic = "category twist panda suffer token credit organ organ door mirror unlock success";

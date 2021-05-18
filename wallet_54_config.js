@@ -1,1 +1,1 @@
-var mnemonic = "tissue found reject frost truth soccer intact rookie matter destroy praise rocket";
+var mnemonic = "frequent tray dash unaware power diesel bean planet truly crystal blame odor";

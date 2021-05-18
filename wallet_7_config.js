@@ -1,1 +1,1 @@
-var mnemonic = "cost verb word door cactus lemon asset certain require swear avocado pipe";
+var mnemonic = "mango clog excuse trigger exile visa output sick swim payment kind liberty";

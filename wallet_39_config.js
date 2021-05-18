@@ -1,1 +1,1 @@
-var mnemonic = "dream flush donor voice win doll festival spot helmet typical mercy stick";
+var mnemonic = "purpose pluck infant list punch forest company motion mean float toss devote";

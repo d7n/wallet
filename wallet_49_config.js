@@ -1,1 +1,1 @@
-var mnemonic = "assault region subway phone brush furnace blind fun valid thumb perfect advice";
+var mnemonic = "ranch turn rough grain coil welcome battle nation vapor clutch slogan barrel";

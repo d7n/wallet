@@ -1,1 +1,1 @@
-var mnemonic = "robust gadget nerve snack excite maze trigger save media table vivid magnet";
+var mnemonic = "general brick music good boss toss urban pioneer jewel panel during hundred";

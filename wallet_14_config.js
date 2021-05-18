@@ -1,1 +1,1 @@
-var mnemonic = "choice dwarf found page salad enter credit salmon bright deliver legend skate";
+var mnemonic = "possible bone patrol roof stage repeat soda nasty rescue bleak scissors pudding";

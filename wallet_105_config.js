@@ -1,1 +1,1 @@
-var mnemonic = "coast park arctic surge size jacket music head slim ring bench cloth";
+var mnemonic = "onion kick giraffe promote belt analyst auction fix mom mystery citizen goose";

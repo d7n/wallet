@@ -1,1 +1,1 @@
-var mnemonic = "lawn dog exclude hungry tent clog pause wage message despair shell lawn";
+var mnemonic = "sister affair layer truck ball improve have van index six parrot drift";

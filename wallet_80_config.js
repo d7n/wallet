@@ -1,1 +1,1 @@
-var mnemonic = "skull anger grape bring bachelor street chat intact sure maple vintage way";
+var mnemonic = "party wreck sting injury banner muscle proof release voice solar dirt garden";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid live collect trick dinner talk private recycle pear favorite talk fiscal";
+var mnemonic = "wrap cool swallow message mango edge net shuffle arrest million gorilla seek";

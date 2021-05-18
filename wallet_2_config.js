@@ -1,1 +1,1 @@
-var mnemonic = "outside heavy cinnamon chief kidney voice above pencil post race relief include";
+var mnemonic = "hair popular broken myself key dentist tumble bar monkey catch whip cat";

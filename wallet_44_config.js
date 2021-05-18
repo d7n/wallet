@@ -1,1 +1,1 @@
-var mnemonic = "walk immense flash nice mango possible evoke energy armed globe ticket jewel";
+var mnemonic = "basket actress moon mouse animal scrap potato machine bean music language royal";

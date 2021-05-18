@@ -1,1 +1,1 @@
-var mnemonic = "snow network drift amazing panic october true busy train soon nose more";
+var mnemonic = "stairs devote bacon north pulse blur change public icon carbon evidence grunt";

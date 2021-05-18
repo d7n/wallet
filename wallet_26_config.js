@@ -1,1 +1,1 @@
-var mnemonic = "worry bounce fan soldier scheme boring regret artwork put craft oil pear";
+var mnemonic = "dose symptom awful satisfy sister boat cheap snow just digital pact enact";

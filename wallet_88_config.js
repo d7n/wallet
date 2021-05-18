@@ -1,1 +1,1 @@
-var mnemonic = "curtain panther expire donate cherry rug lounge quantum area wing slim grab";
+var mnemonic = "glue hollow below bacon purse chapter note lemon magnet nice joy damage";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder much blanket catch actual beach net midnight divorce liberty approve run";
+var mnemonic = "vital have raise render they exchange cricket soul sausage cradle tree accident";

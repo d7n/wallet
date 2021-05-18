@@ -1,1 +1,1 @@
-var mnemonic = "size oval display bird harsh cart axis hurdle neutral bronze salon net";
+var mnemonic = "upset expose rare pole panic hedgehog window prosper wealth flame decrease walk";

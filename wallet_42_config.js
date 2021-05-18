@@ -1,1 +1,1 @@
-var mnemonic = "cruise obvious license industry uphold pave consider stomach exclude episode nature harsh";
+var mnemonic = "cliff setup already front reflect repeat melody clerk vintage foot wheat dizzy";

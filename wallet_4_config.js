@@ -1,1 +1,1 @@
-var mnemonic = "vacuum bird bundle abandon gate cage cram pottery fault vivid borrow inject";
+var mnemonic = "garment step relax black april fine radio salute force magnet gate wide";

@@ -1,1 +1,1 @@
-var mnemonic = "visual chalk tank practice above spread silk monkey one left spot type";
+var mnemonic = "room cliff universe banana pig drastic timber disease car inspire cloud retreat";

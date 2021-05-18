@@ -1,1 +1,1 @@
-var mnemonic = "sample tower assume cat protect able secret sell laugh rapid elegant draw";
+var mnemonic = "point hotel spice bless magnet short tent seven paddle way ancient drive";

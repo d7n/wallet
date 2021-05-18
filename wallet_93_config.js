@@ -1,1 +1,1 @@
-var mnemonic = "opinion nuclear salmon symbol labor patch receive lady morning portion evoke cube";
+var mnemonic = "tide adult lake episode keen device access scrap pond orphan blood game";

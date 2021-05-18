@@ -1,1 +1,1 @@
-var mnemonic = "cave gain trigger rack hood food during hero inject hollow make barrel";
+var mnemonic = "average service scan diet cash grain credit plunge point wonder still boy";

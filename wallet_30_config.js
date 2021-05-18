@@ -1,1 +1,1 @@
-var mnemonic = "absorb uphold find pair unknown hurry child face benefit romance venture patch";
+var mnemonic = "wasp flip library capital expect uniform pull episode armed kitten include nest";

@@ -1,1 +1,1 @@
-var mnemonic = "burden palm afford brother craft kitten grass forum arm mansion any mom";
+var mnemonic = "alpha antique monitor hello tank confirm three flat obvious aerobic spatial tobacco";

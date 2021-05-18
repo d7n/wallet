@@ -1,1 +1,1 @@
-var mnemonic = "jacket bronze ugly forum over action milk entry when wrong noise gym";
+var mnemonic = "minor shield orphan save chaos eyebrow rapid exhibit million work very shop";

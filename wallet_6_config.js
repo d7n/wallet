@@ -1,1 +1,1 @@
-var mnemonic = "grit step pistol during appear cost copy month nut clap faith entry";
+var mnemonic = "aisle game appear gospel release capable audit dolphin chronic close tilt cloud";

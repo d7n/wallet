@@ -1,1 +1,1 @@
-var mnemonic = "reason casino output cool whisper west federal feed cover flat magnet debate";
+var mnemonic = "kangaroo satoshi any patch blush smoke asthma half filter type rough key";

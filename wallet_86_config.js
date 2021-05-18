@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur ask device kick typical special flight over bicycle brisk horse student";
+var mnemonic = "sword barrel stamp squeeze ready barrel ahead leader swap swarm rival enable";

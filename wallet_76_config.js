@@ -1,1 +1,1 @@
-var mnemonic = "cool dove salad wagon news limit citizen dilemma involve solar moral media";
+var mnemonic = "scatter spot worry leg fragile order fire duty mystery pizza pitch tell";

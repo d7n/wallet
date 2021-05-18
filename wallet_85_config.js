@@ -1,1 +1,1 @@
-var mnemonic = "monster follow spot mass tribe author winner cloud biology audit nothing dry";
+var mnemonic = "yellow nephew pink trial tuna slender amazing absent hill skull drink frost";

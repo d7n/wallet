@@ -1,1 +1,1 @@
-var mnemonic = "west year diesel early seminar cage sentence faint velvet when fetch grant";
+var mnemonic = "reason ramp increase baby churn gather unveil rug vapor elbow loop slogan";

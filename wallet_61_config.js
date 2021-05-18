@@ -1,1 +1,1 @@
-var mnemonic = "student liquid super grant clay point funny horn urban runway limit toe";
+var mnemonic = "cricket pony wide rain yard party visual such poverty wall grocery kitchen";

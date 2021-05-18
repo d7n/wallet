@@ -1,1 +1,1 @@
-var mnemonic = "fabric way gun book transfer crumble siege maze border artist pet jacket";
+var mnemonic = "summer peasant heart gauge maze owner infant rapid local bunker assist return";

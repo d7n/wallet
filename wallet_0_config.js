@@ -1,1 +1,1 @@
-var mnemonic = "black sight cash gesture february sustain there dutch loan crack nephew dash";
+var mnemonic = "pupil concert spy history treat raven neutral dilemma dinner lunch ahead clean";

@@ -1,1 +1,1 @@
-var mnemonic = "flat tumble ozone educate often horse rent uniform stable express disagree brass";
+var mnemonic = "public before hold seek swing empower general spin food snap air vote";

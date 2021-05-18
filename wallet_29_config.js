@@ -1,1 +1,1 @@
-var mnemonic = "arctic time churn ship loan barely security blossom crucial ozone timber behave";
+var mnemonic = "grocery regular old stem water robust spot nerve left news globe obtain";

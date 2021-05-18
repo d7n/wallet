@@ -1,1 +1,1 @@
-var mnemonic = "visit dust aspect prevent federal butter taste hidden stove pause bag mouse";
+var mnemonic = "great sunny moon dad because math view lift install payment hunt coconut";

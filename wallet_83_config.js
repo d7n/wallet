@@ -1,1 +1,1 @@
-var mnemonic = "uncover farm they goose feed about pig urban refuse pulse motor castle";
+var mnemonic = "october banana athlete element favorite series claim unhappy hold wheat wait symptom";

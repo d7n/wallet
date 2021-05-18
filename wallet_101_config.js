@@ -1,1 +1,1 @@
-var mnemonic = "cereal start bulk produce armed then until matter cotton pave squirrel extra";
+var mnemonic = "smoke boost trumpet vacuum core jump east off penalty hurt grain discover";

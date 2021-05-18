@@ -1,1 +1,1 @@
-var mnemonic = "clinic unveil vote tribe garlic judge limit shock profit drum skirt toddler";
+var mnemonic = "ridge trim bridge update dentist van powder enhance cinnamon valve sustain taste";

@@ -1,1 +1,1 @@
-var mnemonic = "swing excite bench hockey relax ramp trust narrow winter marine drive globe";
+var mnemonic = "bulk awesome copy oxygen various country gentle hero diary tent resemble term";

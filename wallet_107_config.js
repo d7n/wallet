@@ -1,1 +1,1 @@
-var mnemonic = "pond hammer shell kite short day glow symptom nature library snack such";
+var mnemonic = "quit lock two car resource mix cool alert family address cotton stuff";

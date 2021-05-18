@@ -1,1 +1,1 @@
-var mnemonic = "hero change empower phrase worth maximum team junk common alpha leaf code";
+var mnemonic = "private dry session worry destroy shock speed smile glove remember twice diet";

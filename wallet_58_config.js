@@ -1,1 +1,1 @@
-var mnemonic = "flush robust borrow skirt year unfold side walk tuition merit tumble develop";
+var mnemonic = "empower hollow refuse air retreat saddle balance boost day exercise save label";

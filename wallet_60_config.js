@@ -1,1 +1,1 @@
-var mnemonic = "pond walk trash divorce olive eagle trash knee program valley frozen expand";
+var mnemonic = "rice side unknown pet embrace make west town truly awkward normal wrestle";

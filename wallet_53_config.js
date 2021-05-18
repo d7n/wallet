@@ -1,1 +1,1 @@
-var mnemonic = "romance run cannon theory image ghost flame sing license food bitter canoe";
+var mnemonic = "spell pelican crawl marriage mountain flavor nut square pistol tree economy sadness";

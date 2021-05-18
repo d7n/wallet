@@ -1,1 +1,1 @@
-var mnemonic = "predict turtle cousin give extra voyage raw vital beauty poem arena fork";
+var mnemonic = "write guitar price behind series brush august sibling keen put hurt lonely";

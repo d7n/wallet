@@ -1,1 +1,1 @@
-var mnemonic = "live inside client gun leisure badge bench cloth rabbit body fold assume";
+var mnemonic = "upper twice since elephant upgrade place reduce chest bean siege series kitten";

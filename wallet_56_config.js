@@ -1,1 +1,1 @@
-var mnemonic = "airport social maid anger auction flower panic favorite fossil draw lawn real";
+var mnemonic = "vocal axis rigid cement slender expose ketchup chuckle cousin damp wage toddler";

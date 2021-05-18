@@ -1,1 +1,1 @@
-var mnemonic = "tobacco ceiling foot network chimney alley clown cabbage quality planet rebuild lecture";
+var mnemonic = "cricket pyramid impact cradle base curve frown cupboard design portion armor minor";
