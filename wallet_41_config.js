@@ -1,1 +1,1 @@
-var mnemonic = "surround frost danger route tower hello about raccoon clarify indoor long small";
+var mnemonic = "castle original track glide table during ivory change siege edge cycle goat";

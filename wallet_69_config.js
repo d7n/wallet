@@ -1,1 +1,1 @@
-var mnemonic = "chunk that hobby enlist mimic ladder attack wrist lyrics own roof orange";
+var mnemonic = "during vintage liquid layer tuition rabbit summer mystery ridge level grab gadget";

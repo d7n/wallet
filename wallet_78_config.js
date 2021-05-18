@@ -1,1 +1,1 @@
-var mnemonic = "punch prefer renew popular sing usage village salt jar denial only skirt";
+var mnemonic = "boil broom grant bulk occur stomach only human discover giant boring never";

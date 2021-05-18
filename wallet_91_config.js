@@ -1,1 +1,1 @@
-var mnemonic = "immune draft open quiz speed tree good hill anger mandate snake pottery";
+var mnemonic = "spawn upset scan fall repeat sad absorb artefact share scout remain jacket";

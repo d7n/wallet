@@ -1,1 +1,1 @@
-var mnemonic = "method unusual universe fever silk achieve drift manage indicate vehicle orbit actress";
+var mnemonic = "reunion capable mango mimic security dog spike frog laptop wave bird borrow";

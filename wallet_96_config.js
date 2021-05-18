@@ -1,1 +1,1 @@
-var mnemonic = "prevent nature topic robust tide palace stock road army nuclear acoustic soldier";
+var mnemonic = "eternal cushion paddle bulk ramp sail neutral tonight wonder arrange zebra dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "legal six dash near end portion junior helmet position front trap skill";
+var mnemonic = "wish audit small vendor hotel general emerge piano quote leopard equip book";

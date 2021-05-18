@@ -1,1 +1,1 @@
-var mnemonic = "canal excuse hair tennis vibrant gown method scrub reunion media trade nothing";
+var mnemonic = "maximum gesture neither since air negative sea gravity proof various salad domain";

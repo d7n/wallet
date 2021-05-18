@@ -1,1 +1,1 @@
-var mnemonic = "popular all maximum they ecology dash opinion over cherry until holiday execute";
+var mnemonic = "atom duck lunar size cool blush quarter first resource elbow run lion";

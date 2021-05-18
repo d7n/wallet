@@ -1,1 +1,1 @@
-var mnemonic = "industry short dry pause exotic enroll female author junk core tissue fatigue";
+var mnemonic = "happy discover bronze famous shoot envelope reform spin second recall maze one";

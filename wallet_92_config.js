@@ -1,1 +1,1 @@
-var mnemonic = "hover pact capable umbrella electric slow cereal nice under earn child minor";
+var mnemonic = "fresh position ghost rotate elbow casual metal clerk mask goose horror give";

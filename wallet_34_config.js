@@ -1,1 +1,1 @@
-var mnemonic = "fever hazard during unveil mammal student nominee chase smart cruise salad trick";
+var mnemonic = "spawn horse divorce citizen welcome sausage grape bright visit better crucial oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "distance abuse sunset box fashion cheap race exclude giggle amateur merge loop";
+var mnemonic = "change unlock floor much input lava fresh reduce mango left senior focus";

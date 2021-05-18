@@ -1,1 +1,1 @@
-var mnemonic = "arctic wool satisfy merry admit cause scatter axis reflect flip chuckle rent";
+var mnemonic = "retreat traffic shoulder catch olive earth rotate learn test orient cigar bread";

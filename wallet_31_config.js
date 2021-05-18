@@ -1,1 +1,1 @@
-var mnemonic = "bicycle segment when tip goose crater right kind sphere debris future slight";
+var mnemonic = "during library source theory term what vendor grace stamp guilt little impact";

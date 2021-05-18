@@ -1,1 +1,1 @@
-var mnemonic = "pave town pencil sort pen dust stay naive screen debate success amount";
+var mnemonic = "video prison return still box frost order cluster ready hundred shrimp fault";

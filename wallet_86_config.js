@@ -1,1 +1,1 @@
-var mnemonic = "cruise witness love alter tag whale injury outdoor monitor material problem prepare";
+var mnemonic = "deliver stumble wrist bright stadium punch alley plunge gap outdoor purse apology";

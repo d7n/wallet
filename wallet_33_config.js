@@ -1,1 +1,1 @@
-var mnemonic = "disorder spider pond kangaroo brick idle sphere page glove relief resemble identify";
+var mnemonic = "assume army uphold goose imitate left bacon lift ankle spray coast lumber";

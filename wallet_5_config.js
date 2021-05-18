@@ -1,1 +1,1 @@
-var mnemonic = "shaft join present olympic quality depth robot dove peasant palm useful outside";
+var mnemonic = "earth resource cinnamon fork outer pigeon indicate owner lava oak staff source";

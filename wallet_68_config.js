@@ -1,1 +1,1 @@
-var mnemonic = "piano empty coffee sock day common limb gym usual amateur reject excuse";
+var mnemonic = "fly gesture onion input disease control eight vague ancient month blue you";

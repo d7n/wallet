@@ -1,1 +1,1 @@
-var mnemonic = "nest attack wave equal ignore office zoo warfare burden state nest deliver";
+var mnemonic = "crazy keep feed gloom embody fancy donkey speed best aerobic rule swing";

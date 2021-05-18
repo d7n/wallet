@@ -1,1 +1,1 @@
-var mnemonic = "what cotton hint cushion accuse sun cave device mail gather resemble current";
+var mnemonic = "eye bleak van tool curtain grain oil high addict light luxury pear";

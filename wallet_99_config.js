@@ -1,1 +1,1 @@
-var mnemonic = "camp gospel bracket gossip fit vanish random december glad square brave paper";
+var mnemonic = "noise unique curve acquire since vessel balcony aspect acid inquiry army own";

@@ -1,1 +1,1 @@
-var mnemonic = "agent frozen lawn soap glow acid sand surface episode share crew multiply";
+var mnemonic = "outer victory domain ability engage story coach firm shield human fashion tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "gown stereo essence resource claim pipe shrug dog zoo tank repeat draw";
+var mnemonic = "alarm escape feel immune just fall make travel ride bamboo buddy cactus";

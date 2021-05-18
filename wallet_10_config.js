@@ -1,1 +1,1 @@
-var mnemonic = "nose color very inherit cement sea consider region follow layer regret rebel";
+var mnemonic = "hood three switch truly armed beach win disease tiny thrive recall position";

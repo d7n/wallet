@@ -1,1 +1,1 @@
-var mnemonic = "ahead claim design gasp snow legend zoo sniff tilt reveal senior team";
+var mnemonic = "dizzy desk forest also patch fall identify fluid knife doll minimum enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "desert file keep monkey floor write double muscle spot cube marine term";
+var mnemonic = "valley farm pink buddy wet guard trade remove fitness west pull biology";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid captain remind solution open chapter deliver moral spin cup cruel notice";
+var mnemonic = "addict wise jump bone fall fine hurdle staff kitchen fortune cage tongue";

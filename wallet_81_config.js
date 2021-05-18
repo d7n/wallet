@@ -1,1 +1,1 @@
-var mnemonic = "angle tunnel resource enhance blade agree there forward uphold tone arrive scare";
+var mnemonic = "camera call capital primary maple salute direct repeat galaxy shove cable into";

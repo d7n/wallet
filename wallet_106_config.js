@@ -1,1 +1,1 @@
-var mnemonic = "about sign fuel pilot include behave garment slab arena quote bulk rail";
+var mnemonic = "profit ride annual doll planet finger evoke kitten together member gown express";

@@ -1,1 +1,1 @@
-var mnemonic = "edge pledge else lend select wear rural chicken shadow artwork slam access";
+var mnemonic = "put exit clever ladder cook cement project seat allow sudden rocket head";

@@ -1,1 +1,1 @@
-var mnemonic = "because phrase zebra switch rotate leave quote valve vibrant drastic antique modify";
+var mnemonic = "where enroll accident spray steel atom moral arrange original guard right island";

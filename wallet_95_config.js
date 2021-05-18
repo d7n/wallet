@@ -1,1 +1,1 @@
-var mnemonic = "logic shine tennis deny jump talent father atom announce assist fatigue crystal";
+var mnemonic = "tuna today give dog caught shallow attend off asthma identify chuckle kingdom";

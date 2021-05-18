@@ -1,1 +1,1 @@
-var mnemonic = "pottery dove galaxy observe fancy matrix bone grab leader brass wrong rescue";
+var mnemonic = "camp pluck sample adjust gentle absent orphan fetch win mix slice income";

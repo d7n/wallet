@@ -1,1 +1,1 @@
-var mnemonic = "lonely mango east birth flavor coconut valve humor flavor section floor mix";
+var mnemonic = "gift grocery settle path outdoor zebra friend nose arrive nut screen start";

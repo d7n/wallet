@@ -1,1 +1,1 @@
-var mnemonic = "limb outdoor kind birth rent mix network electric alone castle salad twist";
+var mnemonic = "promote parrot all text pill napkin train mask arctic scissors file daring";

@@ -1,1 +1,1 @@
-var mnemonic = "click enjoy renew tube design spice rain reduce bomb toilet immune club";
+var mnemonic = "prefer nurse sunset truly follow answer summer nature rapid toe point surface";

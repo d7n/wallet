@@ -1,1 +1,1 @@
-var mnemonic = "agree crane protect couple cigar sugar diary word across curtain strong immune";
+var mnemonic = "bonus turkey peace possible grain term wool total hurry cage clutch giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "purse video creek sword punch display head urge across panel tired hobby";
+var mnemonic = "pair system quit omit dragon column slogan belt poverty ski honey toward";

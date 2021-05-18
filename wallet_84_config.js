@@ -1,1 +1,1 @@
-var mnemonic = "quality tuition merit apple crawl peace head write accuse panel harbor retire";
+var mnemonic = "estate case eyebrow fox average viable black riot pencil august final online";

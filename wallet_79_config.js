@@ -1,1 +1,1 @@
-var mnemonic = "advance puzzle river youth summer odor plunge label thunder salute material decrease";
+var mnemonic = "bottom magnet loop around over name kitchen escape tip prize swing square";

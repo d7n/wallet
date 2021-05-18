@@ -1,1 +1,1 @@
-var mnemonic = "problem tenant good dream lady evolve apology dentist imitate hip verb clap";
+var mnemonic = "dolphin gap wife because universe slab asthma tilt spy soda cost gallery";

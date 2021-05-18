@@ -1,1 +1,1 @@
-var mnemonic = "accuse galaxy crouch glory energy paddle cute liquid keep ocean crush neutral";
+var mnemonic = "cash journey common crouch upset net spider merry glare another gap pair";

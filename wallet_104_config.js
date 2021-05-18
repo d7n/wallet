@@ -1,1 +1,1 @@
-var mnemonic = "improve label man forest hockey merry odor bone suit valid metal trick";
+var mnemonic = "bus sister rail view south danger shift cabbage genre clip problem crush";

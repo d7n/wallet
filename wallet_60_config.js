@@ -1,1 +1,1 @@
-var mnemonic = "grocery illegal audit pride artefact tennis bundle powder couch like west carry";
+var mnemonic = "clever corn rapid believe move mention able spatial chalk render gas quantum";

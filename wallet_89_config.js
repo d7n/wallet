@@ -1,1 +1,1 @@
-var mnemonic = "empower start finger come bean letter abandon armed science east today sport";
+var mnemonic = "will suspect member object swallow because crouch cash friend eternal negative enough";

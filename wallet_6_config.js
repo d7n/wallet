@@ -1,1 +1,1 @@
-var mnemonic = "unveil shadow manage express cinnamon kiss safe famous nice rifle never valid";
+var mnemonic = "proof edit current this taxi bind purity practice goddess enough almost fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "clay unveil tomato congress squeeze enhance text scatter fitness donkey host rather";
+var mnemonic = "betray gate build jeans ugly post border vacant pink auto cave print";

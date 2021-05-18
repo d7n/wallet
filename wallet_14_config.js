@@ -1,1 +1,1 @@
-var mnemonic = "oil void organ inquiry receive anger trophy dynamic island man vessel rich";
+var mnemonic = "under cruel wink jazz again habit suggest pipe guess hello video seed";

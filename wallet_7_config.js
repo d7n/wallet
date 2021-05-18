@@ -1,1 +1,1 @@
-var mnemonic = "wish wise hold black point hospital team day maximum draw quantum olive";
+var mnemonic = "weather exercise orbit boy inch tone hamster gown lucky fiber execute aunt";

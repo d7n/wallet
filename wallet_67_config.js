@@ -1,1 +1,1 @@
-var mnemonic = "build empty garlic replace service cause monster nasty still quality vessel chimney";
+var mnemonic = "rookie crush beef police belt traffic cinnamon afraid dumb kiwi anger prosper";

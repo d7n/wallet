@@ -1,1 +1,1 @@
-var mnemonic = "letter coil remember dial enemy equal amazing bind danger truly success pull";
+var mnemonic = "glance foot planet purpose banana cinnamon comic faith magnet joke scene topic";

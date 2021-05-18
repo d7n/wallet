@@ -1,1 +1,1 @@
-var mnemonic = "nest brick quality general sugar example dignity hawk veteran month great leaf";
+var mnemonic = "assume rather rude bracket stove hen soap cotton town can brave jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "knife day lab cruel wave film uncle struggle cable alter spin cake";
+var mnemonic = "outdoor dial legal churn access bronze liar call drift artist safe ignore";

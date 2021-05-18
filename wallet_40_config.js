@@ -1,1 +1,1 @@
-var mnemonic = "end immune milk video lizard west among wealth exclude guide envelope bunker";
+var mnemonic = "book plug bird accident tribe liar intact practice breeze coast rate canvas";

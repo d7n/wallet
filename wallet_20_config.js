@@ -1,1 +1,1 @@
-var mnemonic = "tennis collect trumpet sleep direct palm disease power only attitude flavor dress";
+var mnemonic = "bachelor kingdom movie make case laptop rack science nurse material liquid razor";

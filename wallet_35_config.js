@@ -1,1 +1,1 @@
-var mnemonic = "snow library few marine ice magnet coral aunt buffalo neglect company armor";
+var mnemonic = "relax vacant grab cabbage melody symbol tennis exotic access couch until burden";

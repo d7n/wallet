@@ -1,1 +1,1 @@
-var mnemonic = "okay embark spot cereal asset atom speed rate basket miss dash craft";
+var mnemonic = "session million obey tribe add thank this decide someone kitten tooth bamboo";

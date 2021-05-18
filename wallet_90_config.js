@@ -1,1 +1,1 @@
-var mnemonic = "torch exit midnight observe napkin impose sponsor matter proof upset traffic calm";
+var mnemonic = "pill glad comic farm school icon concert depth sheriff say lab render";

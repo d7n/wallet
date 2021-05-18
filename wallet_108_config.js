@@ -1,1 +1,1 @@
-var mnemonic = "resource butter excuse spy sail vault quit brave bitter notable panda same";
+var mnemonic = "expose globe spoon filter code fall educate lady taxi view village salt";

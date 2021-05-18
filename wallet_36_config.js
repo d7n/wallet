@@ -1,1 +1,1 @@
-var mnemonic = "unique region bacon diamond library write violin pilot hen spider worry velvet";
+var mnemonic = "exit youth settle useful already advance circle stem broken tide vehicle again";

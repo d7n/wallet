@@ -1,1 +1,1 @@
-var mnemonic = "liberty same humble glad card solve enable weather grace fiscal force visa";
+var mnemonic = "chief next auto sorry ginger check come raise middle wealth drip spot";

@@ -1,1 +1,1 @@
-var mnemonic = "economy between anger vanish eight october yard medal always put cruel letter";
+var mnemonic = "quantum sudden robust dragon target december token orange apple emotion remind chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "man bonus pen recall source daughter still fame decade enemy never sausage";
+var mnemonic = "resource tumble coyote approve carry junior home portion burden people south vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "kite yard dismiss boring admit youth smart fork shed purpose card giraffe";
+var mnemonic = "play develop kingdom machine venue arena poet patch slush slush dinner cable";

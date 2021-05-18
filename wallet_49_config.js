@@ -1,1 +1,1 @@
-var mnemonic = "regular virus swift dash rival open letter pill cotton loop couch luggage";
+var mnemonic = "monkey fetch actor shadow second abstract try round amount hill fog harvest";

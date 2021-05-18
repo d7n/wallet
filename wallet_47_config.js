@@ -1,1 +1,1 @@
-var mnemonic = "chicken rib raccoon shrimp evolve page opera tragic scene glad cheese win";
+var mnemonic = "scale tent enough pull viable near frequent tornado play bright legend return";

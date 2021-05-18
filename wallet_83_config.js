@@ -1,1 +1,1 @@
-var mnemonic = "rough now shuffle either border talk victory rival combine purity cradle pluck";
+var mnemonic = "eye cereal entry bounce remember know proud dawn fringe believe cram crew";

@@ -1,1 +1,1 @@
-var mnemonic = "local speed mosquito push poem bracket cherry text calm fetch rude bag";
+var mnemonic = "orient stand mercy olympic help blast donor crew pioneer barely neither snack";

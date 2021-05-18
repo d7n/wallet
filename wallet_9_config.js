@@ -1,1 +1,1 @@
-var mnemonic = "culture chicken lizard arrive inch extra burger shoulder major salon around glue";
+var mnemonic = "runway visa opinion fun salad oil ship cloth side margin color gift";

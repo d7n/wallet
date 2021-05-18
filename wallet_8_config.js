@@ -1,1 +1,1 @@
-var mnemonic = "now fatal town bridge appear treat axis robot flat disease boat purse";
+var mnemonic = "tiny average uphold expand super seven yard manage inspire please team other";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate capital safe account meadow illness category hold output custom round ugly";
+var mnemonic = "second cup little embody wisdom absorb laugh duty spread stuff avoid ancient";

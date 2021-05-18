@@ -1,1 +1,1 @@
-var mnemonic = "lizard jaguar come banana marine rebel whale bus gasp settle harvest drill";
+var mnemonic = "tissue shock profit slender away weather turn guard junk polar mouse symbol";

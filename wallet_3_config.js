@@ -1,1 +1,1 @@
-var mnemonic = "keen twist model road casino test scare segment dignity snack ensure rhythm";
+var mnemonic = "place hood ordinary coast feature wrong brass fiscal online effort lift verify";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet latin rib moon critic fat friend bamboo luggage scheme ride predict";
+var mnemonic = "nest cave distance oil heart metal spider catalog obtain phrase dream shine";

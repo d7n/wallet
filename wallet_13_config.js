@@ -1,1 +1,1 @@
-var mnemonic = "reveal tell liar owner notice cart genre skill ride glimpse behave drive";
+var mnemonic = "convince laptop grass critic sister arch situate blood push crush refuse where";

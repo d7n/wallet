@@ -1,1 +1,1 @@
-var mnemonic = "please crime face flower weekend nation much know capital isolate exist nephew";
+var mnemonic = "detail orient tooth step truly staff spell code biology crowd balcony invest";

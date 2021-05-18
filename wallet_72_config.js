@@ -1,1 +1,1 @@
-var mnemonic = "spell reform clarify need rigid ensure bonus office olympic shadow alert similar";
+var mnemonic = "laugh opera pig into finish expand rural desert body fashion sing sort";

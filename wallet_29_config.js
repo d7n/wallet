@@ -1,1 +1,1 @@
-var mnemonic = "food genius era island glance supply mutual sight erase prevent reform gate";
+var mnemonic = "this violin water zero penalty fragile armor tank crouch theme merit tiger";

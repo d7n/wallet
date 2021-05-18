@@ -1,1 +1,1 @@
-var mnemonic = "spirit meat bench thunder scare few noise library cute riot that pepper";
+var mnemonic = "little liberty taxi flip wear opera pact body tonight host shrimp avoid";

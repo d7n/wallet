@@ -1,1 +1,1 @@
-var mnemonic = "cannon rotate cereal boring clay inform shrimp cart original smoke save avocado";
+var mnemonic = "skull twenty barrel harsh crime supreme clap crucial call appear laugh swarm";

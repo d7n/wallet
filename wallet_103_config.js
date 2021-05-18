@@ -1,1 +1,1 @@
-var mnemonic = "able bar craft inner youth shed fever trip focus tray wedding jar";
+var mnemonic = "code firm lake utility town message science whale civil release smart frost";

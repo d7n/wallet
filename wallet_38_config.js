@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon since amazing mandate sentence city hunt private zone radio robust unlock";
+var mnemonic = "antique person barely trust wall celery net snap ticket cliff cinnamon you";

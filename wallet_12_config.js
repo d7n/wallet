@@ -1,1 +1,1 @@
-var mnemonic = "essay soccer else cloud absurd reject flavor leg fox sign already culture";
+var mnemonic = "unaware clarify observe elite attitude tooth ask net nominee cliff reflect lab";

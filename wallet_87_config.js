@@ -1,1 +1,1 @@
-var mnemonic = "bracket mention below lyrics slight furnace inherit promote october cram relax height";
+var mnemonic = "father target risk finger embrace reward term silent novel spin era surge";

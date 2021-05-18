@@ -1,1 +1,1 @@
-var mnemonic = "dice quarter document erase put slab witness coral cliff empower echo carbon";
+var mnemonic = "bright pony umbrella crawl burst before strategy helmet setup vicious ritual stock";

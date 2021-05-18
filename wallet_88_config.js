@@ -1,1 +1,1 @@
-var mnemonic = "below aware foam armed repeat gain believe cook quick manual quarter media";
+var mnemonic = "music piano crunch obscure wreck exact again trim twelve about dog brush";

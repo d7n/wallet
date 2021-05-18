@@ -1,1 +1,1 @@
-var mnemonic = "resemble grain sense arrange push give nerve gym icon achieve grass traffic";
+var mnemonic = "victory wool frost boss grant coach enhance ready stock fine valley midnight";

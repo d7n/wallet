@@ -1,1 +1,1 @@
-var mnemonic = "wave oblige truly open coconut atom soldier mad above cabin actual baby";
+var mnemonic = "flip private coffee boost obey fuel six draw scrap print lunar impulse";

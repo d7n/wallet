@@ -1,1 +1,1 @@
-var mnemonic = "web laptop little resemble nest key wrap sheriff device true expire future";
+var mnemonic = "soap away parrot canoe blur cereal rhythm tomato crucial detect exclude stuff";

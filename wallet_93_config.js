@@ -1,1 +1,1 @@
-var mnemonic = "meat priority poet glance novel wise mechanic artwork wave teach town zero";
+var mnemonic = "leisure blush hurt master car normal avoid marriage shed since strong coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "member accuse minor hat mention father custom rapid initial horse profit task";
+var mnemonic = "salute pizza annual brass tragic assume throw various dash injury fantasy way";
