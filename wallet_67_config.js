@@ -1,1 +1,1 @@
-var mnemonic = "fence bag deliver october hamster foam worry dutch crouch release over skate";
+var mnemonic = "trash rifle mosquito extra citizen napkin side undo swim subway feature conduct";

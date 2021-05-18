@@ -1,1 +1,1 @@
-var mnemonic = "say tongue ranch umbrella meat ostrich mercy immense van feed dust start";
+var mnemonic = "goddess sheriff isolate baby rack target hat hobby label wise update deliver";

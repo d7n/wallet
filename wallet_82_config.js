@@ -1,1 +1,1 @@
-var mnemonic = "wink provide agent design tail rely physical school silver affair soccer moment";
+var mnemonic = "insane spot daring employ birth mirror also target fragile cabin security salute";

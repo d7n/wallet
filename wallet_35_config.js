@@ -1,1 +1,1 @@
-var mnemonic = "knock argue scene naive long knock border crane system cement absent scheme";
+var mnemonic = "because meat suggest this kit capable broom nation call lend artwork brother";

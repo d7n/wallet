@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tobacco tooth spray pistol argue visit profit credit smooth castle tragic";
+var mnemonic = "proud shuffle work tilt borrow easy tenant furnace exchange anxiety frog shoot";

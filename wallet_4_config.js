@@ -1,1 +1,1 @@
-var mnemonic = "warfare admit observe example person cereal harvest october rescue glimpse rural father";
+var mnemonic = "setup humble cloth profit grace spoon shiver post ability today favorite category";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney suggest beef property maze dawn cancel siege vibrant soccer impulse salt";
+var mnemonic = "paper urban ladder undo fossil audit echo intact goose adapt mixture note";

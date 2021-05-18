@@ -1,1 +1,1 @@
-var mnemonic = "better diet sunny stand toilet unaware sand ceiling eye cable fitness employ";
+var mnemonic = "dismiss lobster put dial stereo speed bundle fancy clutch liberty end toilet";

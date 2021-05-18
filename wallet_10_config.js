@@ -1,1 +1,1 @@
-var mnemonic = "horse seven stool fury radar apple divide tooth destroy trip indoor noise";
+var mnemonic = "reduce dish peace chest there course art fury flight loud excess local";

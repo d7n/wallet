@@ -1,1 +1,1 @@
-var mnemonic = "flush anger nuclear cruel odor entry morning sorry mad decorate firm false";
+var mnemonic = "present rifle wreck explain faculty grid intact sort shift song melt voice";

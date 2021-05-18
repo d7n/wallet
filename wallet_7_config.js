@@ -1,1 +1,1 @@
-var mnemonic = "review invite village settle cigar author valid point bonus cake close custom";
+var mnemonic = "practice pretty net divide check favorite normal setup color sustain grow wreck";

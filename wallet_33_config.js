@@ -1,1 +1,1 @@
-var mnemonic = "train borrow whale deer material welcome rally carry call life glimpse town";
+var mnemonic = "decorate topple arrange milk north violin avocado apology reduce grunt change small";

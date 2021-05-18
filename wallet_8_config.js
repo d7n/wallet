@@ -1,1 +1,1 @@
-var mnemonic = "bird into green broom heart warrior daring nature film zone drama shoulder";
+var mnemonic = "jewel enrich farm offer strong staff clap tray accident cherry wolf absorb";

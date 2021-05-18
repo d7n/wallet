@@ -1,1 +1,1 @@
-var mnemonic = "culture hurdle decorate squeeze credit level bullet foot quarter tell potato crowd";
+var mnemonic = "wing book episode horn legend autumn wise gossip churn thunder pretty between";

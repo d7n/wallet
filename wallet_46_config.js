@@ -1,1 +1,1 @@
-var mnemonic = "east aim fog narrow language erosion upgrade music crew kind account nature";
+var mnemonic = "craft novel wagon purchase yellow hello noble monkey indoor taste vital vote";

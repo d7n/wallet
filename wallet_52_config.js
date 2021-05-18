@@ -1,1 +1,1 @@
-var mnemonic = "allow hood force habit demise swap page traffic dish gossip dolphin exit";
+var mnemonic = "anchor truth two miracle path lamp estate space office taxi expose sentence";

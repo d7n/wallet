@@ -1,1 +1,1 @@
-var mnemonic = "process immense laundry arm icon enjoy left eager hungry draft original sustain";
+var mnemonic = "inspire scorpion help claw move maid reward scout tunnel room together curve";

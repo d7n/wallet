@@ -1,1 +1,1 @@
-var mnemonic = "library final own athlete settle wise pudding album grant random leave multiply";
+var mnemonic = "detail bullet tiger alter click panel else voice decade ability demise quick";

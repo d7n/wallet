@@ -1,1 +1,1 @@
-var mnemonic = "between canoe uncle dove write civil salt target tank detail forward estate";
+var mnemonic = "steak auction little raise song rebel inform clever join want lounge smart";

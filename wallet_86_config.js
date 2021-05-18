@@ -1,1 +1,1 @@
-var mnemonic = "combine cancel lunch dad orient bridge net abstract enact wear skirt network";
+var mnemonic = "please net silk illness december exotic eager process thumb helmet bleak brisk";

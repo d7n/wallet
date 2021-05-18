@@ -1,1 +1,1 @@
-var mnemonic = "arm hour fade glad hello message grab ghost elephant tunnel vague bench";
+var mnemonic = "clog comfort high stamp involve exotic ugly orchard achieve index will grief";

@@ -1,1 +1,1 @@
-var mnemonic = "crane wage animal direct hover sadness air voice machine regret pumpkin view";
+var mnemonic = "sheriff walk change suspect team organ screen kitchen awful donkey little about";

@@ -1,1 +1,1 @@
-var mnemonic = "foil boring earth degree lucky taxi used magic swim spot arrow budget";
+var mnemonic = "clarify praise oil shed achieve black hello accident shove very country female";

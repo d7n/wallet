@@ -1,1 +1,1 @@
-var mnemonic = "peace tiger fix session sunset such sport width plug jewel fog siren";
+var mnemonic = "winner whisper under crash essence raw offer very exhaust witness fitness canal";

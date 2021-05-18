@@ -1,1 +1,1 @@
-var mnemonic = "scene vapor wife lunar maid stuff forum danger between body yellow punch";
+var mnemonic = "frame display baby boss oppose ugly desert leaf purpose enough spring debate";

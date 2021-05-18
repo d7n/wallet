@@ -1,1 +1,1 @@
-var mnemonic = "summer peasant acoustic million before foot course shed soda slight clip diet";
+var mnemonic = "stand dream garbage thing horror ethics cage empower park stomach unable wheat";

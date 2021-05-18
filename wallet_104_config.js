@@ -1,1 +1,1 @@
-var mnemonic = "merge fog security spoil cousin atom alpha adapt diet sense vessel father";
+var mnemonic = "salute team correct plate cancel indoor habit erupt famous school hybrid source";

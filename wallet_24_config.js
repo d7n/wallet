@@ -1,1 +1,1 @@
-var mnemonic = "digital okay vicious original valve trim guilt lumber sample blue area welcome";
+var mnemonic = "produce raw desk matter thumb cover raccoon inhale cave output capital marriage";

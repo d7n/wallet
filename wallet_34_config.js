@@ -1,1 +1,1 @@
-var mnemonic = "jump lonely double velvet forward coil pool wear random phone regret laugh";
+var mnemonic = "history suggest flag excuse wood latin impose puppy cruel top bachelor space";

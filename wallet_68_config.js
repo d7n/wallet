@@ -1,1 +1,1 @@
-var mnemonic = "income setup regret size civil master armor strategy evoke script bleak identify";
+var mnemonic = "ranch finger group priority govern orient devote pretty jacket pencil excess end";

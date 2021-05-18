@@ -1,1 +1,1 @@
-var mnemonic = "blood human all trash able consider wink breeze match rail pencil castle";
+var mnemonic = "sunny account ten baby autumn travel trip ketchup install token pluck major";

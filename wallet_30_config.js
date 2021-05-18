@@ -1,1 +1,1 @@
-var mnemonic = "rabbit cushion staff satoshi bench ceiling deliver bar dinosaur picnic arctic medal";
+var mnemonic = "now confirm grid eight skirt churn replace life barrel income connect merit";

@@ -1,1 +1,1 @@
-var mnemonic = "road domain quantum reward manual busy bag sock glow conduct wash boss";
+var mnemonic = "penalty produce divert merit blind crystal swing eight cabin major dismiss quote";

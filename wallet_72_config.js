@@ -1,1 +1,1 @@
-var mnemonic = "decide brush tennis minimum math venture tuna squirrel fish slush world guide";
+var mnemonic = "vanish hungry question cheese upgrade dismiss invite crew reform anchor extra orient";

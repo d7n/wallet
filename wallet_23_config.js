@@ -1,1 +1,1 @@
-var mnemonic = "advance napkin gain echo idle tooth search arena escape surge mushroom onion";
+var mnemonic = "desk angle waste false soon perfect news vanish improve mind pluck wire";

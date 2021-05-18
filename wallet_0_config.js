@@ -1,1 +1,1 @@
-var mnemonic = "work maze wedding denial title entire young link lyrics fee guess basket";
+var mnemonic = "where observe daring impact chaos comfort depth general fatigue divert rug gadget";

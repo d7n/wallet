@@ -1,1 +1,1 @@
-var mnemonic = "injury now brisk adapt jar cycle gallery purpose real maple surprise mail";
+var mnemonic = "supply copy intact magnet abstract any stone twice museum unusual amount foster";

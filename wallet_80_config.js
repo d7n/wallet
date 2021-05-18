@@ -1,1 +1,1 @@
-var mnemonic = "hello budget pelican mouse they sign gasp tide slot cash know popular";
+var mnemonic = "illegal lunch need discover best upset error steak fancy food snack morning";

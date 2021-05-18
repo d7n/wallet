@@ -1,1 +1,1 @@
-var mnemonic = "typical help rule school mandate result vibrant gossip warfare swear alarm change";
+var mnemonic = "shoe now put donkey there wreck enable march guitar eager pioneer update";

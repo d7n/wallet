@@ -1,1 +1,1 @@
-var mnemonic = "script lava long romance front black catalog risk ancient green dune attack";
+var mnemonic = "where switch scrap gate humble heavy submit barrel bind denial this swap";

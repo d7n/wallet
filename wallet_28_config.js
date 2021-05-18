@@ -1,1 +1,1 @@
-var mnemonic = "excuse mean force depend beauty require minute feed stem talk holiday enable";
+var mnemonic = "disease sand possible aware still erode wet check verify path million name";

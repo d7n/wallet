@@ -1,1 +1,1 @@
-var mnemonic = "gold hope income gap globe monster must chat seven bring make brief";
+var mnemonic = "doll circle virus toy tornado memory divert opera decorate laugh concert street";

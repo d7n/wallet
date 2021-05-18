@@ -1,1 +1,1 @@
-var mnemonic = "code uncover dynamic situate merit trophy thunder typical cruel travel trick often";
+var mnemonic = "arena head height choose ivory kit couple pull finger hunt top calm";

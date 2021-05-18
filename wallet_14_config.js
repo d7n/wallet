@@ -1,1 +1,1 @@
-var mnemonic = "veteran happy movie seed develop crane resemble conduct menu remind sea sword";
+var mnemonic = "crumble peasant chase soccer emotion sauce aspect neutral slush ocean decrease impose";

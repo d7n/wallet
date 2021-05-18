@@ -1,1 +1,1 @@
-var mnemonic = "funny board bargain skull spend oven cousin sentence promote extend lamp salute";
+var mnemonic = "rude uphold enlist stay clap midnight mail slight victory payment city noodle";

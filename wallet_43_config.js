@@ -1,1 +1,1 @@
-var mnemonic = "physical fade gospel obey into wrestle orbit sea life insane doctor gossip";
+var mnemonic = "burst motor differ forest proof walk pause must comfort song flame rubber";

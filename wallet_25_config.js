@@ -1,1 +1,1 @@
-var mnemonic = "that update auction word unhappy pelican disagree emerge slight boy adjust annual";
+var mnemonic = "figure vicious brush asthma dawn wink atom company destroy curious cross ecology";

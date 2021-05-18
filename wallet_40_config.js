@@ -1,1 +1,1 @@
-var mnemonic = "able code soccer party stick human rude venue later boil expire oppose";
+var mnemonic = "visit way debate rubber air viable plastic tool bench lock leisure language";

@@ -1,1 +1,1 @@
-var mnemonic = "lake corn poverty two erosion client infant about remember route exchange ceiling";
+var mnemonic = "deposit sausage symptom ordinary echo stool season kangaroo crystal result hole viable";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty flash inner suspect gather garbage corn prison giraffe render leopard inspire";
+var mnemonic = "notice popular family ugly during comfort buddy water dilemma motor dwarf promote";

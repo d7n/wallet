@@ -1,1 +1,1 @@
-var mnemonic = "soul penalty canoe earn fury prepare panic cabbage smooth ring trip bean";
+var mnemonic = "oil resemble rule addict picture taxi obey rookie accident blast soon ill";

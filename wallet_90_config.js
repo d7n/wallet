@@ -1,1 +1,1 @@
-var mnemonic = "rebuild banner swallow parrot history father oil noise liar hurdle nose song";
+var mnemonic = "hard sniff gravity master neglect shed loop that switch gauge ceiling spike";

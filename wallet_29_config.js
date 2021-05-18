@@ -1,1 +1,1 @@
-var mnemonic = "tone soda kitten lobster multiply siege cross analyst family clump impact prison";
+var mnemonic = "manual group extend kitten level notice normal palace mix rhythm item addict";

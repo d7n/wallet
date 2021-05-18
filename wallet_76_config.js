@@ -1,1 +1,1 @@
-var mnemonic = "bullet label tooth device result twice bargain parade leg profit jewel almost";
+var mnemonic = "journey pattern essay foot close vicious forum carbon order abandon few reform";

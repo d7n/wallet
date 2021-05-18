@@ -1,1 +1,1 @@
-var mnemonic = "electric dentist shell fine pudding net wage easy rule fence color crime";
+var mnemonic = "loop shoulder wolf upset matrix tuna elephant spawn march twelve drill repair";

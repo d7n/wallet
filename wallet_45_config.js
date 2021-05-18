@@ -1,1 +1,1 @@
-var mnemonic = "food obscure excess true camera script display dove abandon casual struggle settle";
+var mnemonic = "spice trial brisk juice sister apology choice slice fabric light tool bread";

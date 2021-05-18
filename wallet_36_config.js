@@ -1,1 +1,1 @@
-var mnemonic = "slender pulp exile blame forget divert key trial kite verify promote choose";
+var mnemonic = "chunk shock crucial negative loyal wealth woman radar mystery absurd theory appear";

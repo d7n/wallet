@@ -1,1 +1,1 @@
-var mnemonic = "economy melt cruise crane flame degree liquid situate okay festival neglect hybrid";
+var mnemonic = "sponsor route loud rich own bless degree pelican medal strike virtual funny";

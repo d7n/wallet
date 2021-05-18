@@ -1,1 +1,1 @@
-var mnemonic = "traffic essence runway film speed attend sock earth salute math horn gun";
+var mnemonic = "ensure sleep garbage shell skate puzzle pluck syrup liar desk coil bounce";

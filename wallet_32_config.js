@@ -1,1 +1,1 @@
-var mnemonic = "glory pool slide spoil consider raise wise marriage across cushion nation start";
+var mnemonic = "spin invite develop above divide access cup settle decide shrug uncover yard";

@@ -1,1 +1,1 @@
-var mnemonic = "leave cute rude cream acid cabin copper wealth bamboo palace box timber";
+var mnemonic = "clip draw atom critic slush roast one journey champion aim fall behind";

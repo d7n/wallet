@@ -1,1 +1,1 @@
-var mnemonic = "diamond novel romance metal suggest bicycle draft arch weather cliff foster approve";
+var mnemonic = "slow state plastic reflect dynamic assault worth stool exhibit angle sorry spend";

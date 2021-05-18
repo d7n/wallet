@@ -1,1 +1,1 @@
-var mnemonic = "elephant blame kitten expire taxi cotton artefact oak original fashion artist hungry";
+var mnemonic = "away pottery phrase mad enact rabbit vocal notable cross best habit toe";

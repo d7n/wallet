@@ -1,1 +1,1 @@
-var mnemonic = "absent mean wrap weekend firm sunny fiscal crouch mass miss drastic voice";
+var mnemonic = "manage fuel release gossip sudden metal vacuum elegant acquire bread chicken six";

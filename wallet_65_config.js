@@ -1,1 +1,1 @@
-var mnemonic = "slow viable caution cherry tip modify theory staff comfort verify sheriff exact";
+var mnemonic = "bottom empower spot target lottery badge lounge kite inside leave frog consider";

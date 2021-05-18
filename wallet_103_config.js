@@ -1,1 +1,1 @@
-var mnemonic = "photo inspire meat minor flag general put similar dawn select upon erase";
+var mnemonic = "guess message alert bid network car local crunch weather era impulse crew";

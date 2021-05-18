@@ -1,1 +1,1 @@
-var mnemonic = "faith alter sniff boy model tourist harvest smile there lounge large away";
+var mnemonic = "same behave purpose orient never drift pet later immune banner sketch butter";

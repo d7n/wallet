@@ -1,1 +1,1 @@
-var mnemonic = "sample ensure top narrow future skull obscure mention shiver scrub figure trim";
+var mnemonic = "session movie come canyon enlist urge moral two click culture scrap uncover";

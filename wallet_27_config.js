@@ -1,1 +1,1 @@
-var mnemonic = "idea pair shaft boat argue duck ahead abuse security expose assault like";
+var mnemonic = "sunny deer text round juice barrel prefer wave defy double simple pyramid";

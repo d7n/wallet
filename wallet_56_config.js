@@ -1,1 +1,1 @@
-var mnemonic = "way witness month trophy fix genre demand funny loud nice yellow exercise";
+var mnemonic = "glance pulp silent shrimp action moon impose honey record much meadow refuse";

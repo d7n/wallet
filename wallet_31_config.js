@@ -1,1 +1,1 @@
-var mnemonic = "amount follow reunion must hollow evil smooth gloom truth ugly ride license";
+var mnemonic = "evidence wedding athlete turkey dirt junk exact stumble renew shoe because assume";

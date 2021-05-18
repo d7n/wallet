@@ -1,1 +1,1 @@
-var mnemonic = "skill fatal seminar develop angle absurd drastic sport outer flat aunt program";
+var mnemonic = "light boat solar speak stuff clog walk aisle wheat stamp senior moral";

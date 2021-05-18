@@ -1,1 +1,1 @@
-var mnemonic = "damp long educate couch elephant prefer decade cycle traffic fringe dignity fix";
+var mnemonic = "stem drift cook first involve calm rail say rapid large roast option";

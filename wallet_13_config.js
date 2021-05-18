@@ -1,1 +1,1 @@
-var mnemonic = "oval uncle price pattern bar weird sister festival retreat gorilla want mouse";
+var mnemonic = "potato gun other finger involve angry humble fall exist neither path suggest";

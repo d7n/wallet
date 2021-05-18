@@ -1,1 +1,1 @@
-var mnemonic = "cargo orange remove rubber wreck talk embody cattle smart tumble skin venue";
+var mnemonic = "dial oblige stand inflict family south until mouse raw soap labor stool";

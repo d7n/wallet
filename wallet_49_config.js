@@ -1,1 +1,1 @@
-var mnemonic = "exile caution foam turkey casual sphere eye rely goat strong wire mouse";
+var mnemonic = "reduce siege liberty perfect daughter timber ramp meat keen coach connect miracle";

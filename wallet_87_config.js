@@ -1,1 +1,1 @@
-var mnemonic = "unaware light once divide olympic drop dash mandate ski trend open husband";
+var mnemonic = "emotion topple dune staff faint marine lyrics section clock ranch mass recipe";

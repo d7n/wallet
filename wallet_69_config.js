@@ -1,1 +1,1 @@
-var mnemonic = "quick neither symbol drive empty edge intact talent undo include soap fruit";
+var mnemonic = "reunion unfold spirit lemon stand culture obvious impose welcome luxury catalog manual";

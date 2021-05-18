@@ -1,1 +1,1 @@
-var mnemonic = "basket fun tomorrow story outdoor wonder note awkward all surge clap share";
+var mnemonic = "pattern worth belt brass win already luggage forum bulk beauty vintage piece";

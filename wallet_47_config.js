@@ -1,1 +1,1 @@
-var mnemonic = "garment more destroy winner girl cheese exile antique muscle such glue uncle";
+var mnemonic = "subway student explain traffic squirrel inherit awake barely hat bleak bacon logic";

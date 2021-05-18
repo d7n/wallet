@@ -1,1 +1,1 @@
-var mnemonic = "false surge increase battle medal nation pepper talk syrup asthma proof return";
+var mnemonic = "impact settle fork deposit march ahead betray volcano genius job clown cream";

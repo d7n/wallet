@@ -1,1 +1,1 @@
-var mnemonic = "own sting decline sustain clarify gallery wrap runway answer hint cook balcony";
+var mnemonic = "know sport water ginger prevent ship abandon cement scorpion artwork nephew kiwi";

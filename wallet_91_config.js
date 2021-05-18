@@ -1,1 +1,1 @@
-var mnemonic = "choice snap mesh little drip concert decide include toilet notice cover liquid";
+var mnemonic = "enable coach unfair major cupboard jeans coyote movie modify giant keen begin";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet security water myself rocket castle ceiling problem tenant glove rare solid";
+var mnemonic = "firm topple wolf drop cannon imitate maple leisure suffer humble random black";

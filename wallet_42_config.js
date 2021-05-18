@@ -1,1 +1,1 @@
-var mnemonic = "umbrella private unit useless orange ahead milk bread relief october window dance";
+var mnemonic = "trust slush police chimney stadium betray dinosaur mimic heavy horror supreme worry";

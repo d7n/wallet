@@ -1,1 +1,1 @@
-var mnemonic = "random renew insect sing theory quiz pave squeeze charge problem faculty erosion";
+var mnemonic = "shoot between desk imitate judge brass repeat perfect duck stumble have host";

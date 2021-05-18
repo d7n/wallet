@@ -1,1 +1,1 @@
-var mnemonic = "favorite odor noble leave notice bounce thrive unit trick door spice hotel";
+var mnemonic = "paddle culture vivid joy party ladder hurt need shift primary nominee inmate";
