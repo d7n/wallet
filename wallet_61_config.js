@@ -1,1 +1,1 @@
-var mnemonic = "depart way body main fashion then scheme mobile section capable cluster over";
+var mnemonic = "yard unveil pistol forum drill pave hurry furnace deal present deal elbow";

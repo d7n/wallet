@@ -1,1 +1,1 @@
-var mnemonic = "digital victory risk pyramid certain absorb service athlete vivid snake bless escape";
+var mnemonic = "ready tired easily satoshi album midnight hip girl vanish enact evil position";

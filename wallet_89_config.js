@@ -1,1 +1,1 @@
-var mnemonic = "twin custom bless rate vanish exclude grain must icon skull fault focus";
+var mnemonic = "eyebrow giant rescue mountain code unhappy surface gown afraid pizza good genius";

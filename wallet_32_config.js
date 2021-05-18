@@ -1,1 +1,1 @@
-var mnemonic = "fix cram measure record issue fault glow crouch blossom this sword hungry";
+var mnemonic = "input kidney nest learn denial escape front endless gloom remove bunker quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "clap ketchup hollow calm type laptop noodle sorry appear position cheap antenna";
+var mnemonic = "amazing twenty grace what fiscal wing tube smooth fork regret menu armor";

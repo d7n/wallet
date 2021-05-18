@@ -1,1 +1,1 @@
-var mnemonic = "west silver exclude gun wing file table three wreck print exhaust frozen";
+var mnemonic = "grape rookie congress cabbage fury fluid gospel disease elite dish amused copy";

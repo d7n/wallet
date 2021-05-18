@@ -1,1 +1,1 @@
-var mnemonic = "orchard tenant ride tattoo canvas alcohol same away convince chimney crystal furnace";
+var mnemonic = "cactus upon pole carbon client outside dune culture honey view rely hockey";

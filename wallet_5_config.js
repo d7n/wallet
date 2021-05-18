@@ -1,1 +1,1 @@
-var mnemonic = "unlock hat pet suggest welcome occur popular current please wealth section test";
+var mnemonic = "glue cotton solar harvest name disagree palm summer response paper engine glass";

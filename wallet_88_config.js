@@ -1,1 +1,1 @@
-var mnemonic = "wrong strong drum battle since candy empower obvious token festival multiply correct";
+var mnemonic = "ten inhale century duck news supreme initial relief accuse foil collect live";

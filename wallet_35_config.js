@@ -1,1 +1,1 @@
-var mnemonic = "canoe man hurt rigid chief nice decorate transfer approve balcony option mechanic";
+var mnemonic = "mimic allow click turtle spread awful wide reunion field ancient open drip";

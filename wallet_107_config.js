@@ -1,1 +1,1 @@
-var mnemonic = "december prefer jewel climb smooth dance awkward clerk swap survey galaxy defense";
+var mnemonic = "law unusual bike work table skin celery roof nation dune dentist parade";

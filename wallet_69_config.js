@@ -1,1 +1,1 @@
-var mnemonic = "finish venture various ramp depart amateur guitar icon foster source hockey royal";
+var mnemonic = "hip dog render submit scorpion clump walk noble hard enact copper velvet";

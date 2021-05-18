@@ -1,1 +1,1 @@
-var mnemonic = "wait super pudding august report genius unit law fine stomach heart must";
+var mnemonic = "assist extra improve electric injury mechanic planet speak online burger story foil";

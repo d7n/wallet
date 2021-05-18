@@ -1,1 +1,1 @@
-var mnemonic = "matter govern chief kit mistake morning result model hint advice maid alcohol";
+var mnemonic = "matrix fluid tired derive sure name drink cause twist mercy fringe raccoon";

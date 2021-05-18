@@ -1,1 +1,1 @@
-var mnemonic = "journey away mule hybrid tomorrow turtle chuckle subject cement portion exhibit milk";
+var mnemonic = "provide gas vacant hawk much grocery discover sponsor lyrics benefit spring tissue";

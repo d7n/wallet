@@ -1,1 +1,1 @@
-var mnemonic = "uncover chunk clap issue void tongue tank around health during caution remember";
+var mnemonic = "ripple achieve announce advance soup right fortune era video hedgehog crop tube";

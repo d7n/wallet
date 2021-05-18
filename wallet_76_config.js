@@ -1,1 +1,1 @@
-var mnemonic = "grow visa moral have clarify river flash govern chronic cotton visual crater";
+var mnemonic = "cliff police monkey all sick august need romance drive scrub tourist vessel";

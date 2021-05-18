@@ -1,1 +1,1 @@
-var mnemonic = "grit denial gas card note solution right couple chicken floor undo group";
+var mnemonic = "cook farm any unfair beauty comic lab strong brother notice year history";

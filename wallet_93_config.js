@@ -1,1 +1,1 @@
-var mnemonic = "sing scatter turn poverty frog supreme local crucial police mosquito drastic claim";
+var mnemonic = "hybrid hedgehog category umbrella raw body peasant tree achieve beauty add earth";

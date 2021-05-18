@@ -1,1 +1,1 @@
-var mnemonic = "right shaft rural danger collect clinic salad spy exercise enact tip since";
+var mnemonic = "escape gas force battle style dove evolve supply seek demise near skate";

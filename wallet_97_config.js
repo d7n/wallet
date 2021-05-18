@@ -1,1 +1,1 @@
-var mnemonic = "salmon person custom quantum regret design trick dutch window deer allow thing";
+var mnemonic = "health struggle innocent detail degree local matrix glove glue dynamic magic repeat";

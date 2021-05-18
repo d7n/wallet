@@ -1,1 +1,1 @@
-var mnemonic = "clown name trigger disagree awesome renew basket universe exercise code narrow crumble";
+var mnemonic = "clever host hybrid forum agree quantum screen copy embark original digital shoulder";

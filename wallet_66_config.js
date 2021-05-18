@@ -1,1 +1,1 @@
-var mnemonic = "agent service call volume wave shrug champion stove eager crack walk tag";
+var mnemonic = "slogan movie evoke job stuff picnic sun blame vanish remember august cry";

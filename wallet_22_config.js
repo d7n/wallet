@@ -1,1 +1,1 @@
-var mnemonic = "rival kiss diagram young slow goat room ripple vapor battle way canal";
+var mnemonic = "blade muscle emerge decline culture decade company first suspect immense lion symbol";

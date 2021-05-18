@@ -1,1 +1,1 @@
-var mnemonic = "shoe quick city wet december injury nut region tattoo people diesel voice";
+var mnemonic = "arm clap image shell dose humble office suffer riot mix cute little";

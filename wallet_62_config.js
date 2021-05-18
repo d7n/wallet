@@ -1,1 +1,1 @@
-var mnemonic = "cargo scout increase skill pond manage squeeze bench sauce arctic among toe";
+var mnemonic = "music sand joke dune silly blame mouse limb reason tonight waste clock";

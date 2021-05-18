@@ -1,1 +1,1 @@
-var mnemonic = "hip cinnamon pupil aspect discover ceiling addict calm tunnel message trophy film";
+var mnemonic = "skill allow husband hero deny market noise other tube shield frown drastic";

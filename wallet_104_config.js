@@ -1,1 +1,1 @@
-var mnemonic = "oven peanut twist lobster glad axis practice green behave brush help magic";
+var mnemonic = "suit lady clean craft recall eye fashion primary romance gauge razor provide";

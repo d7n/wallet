@@ -1,1 +1,1 @@
-var mnemonic = "exit legend dolphin rebuild universe seminar style prevent provide curious vicious odor";
+var mnemonic = "eagle sport verify olympic basket clown burden nurse benefit slender fancy title";

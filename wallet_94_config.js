@@ -1,1 +1,1 @@
-var mnemonic = "win behave mountain rapid note ball alley indicate before coil bomb law";
+var mnemonic = "inner upper capable during cover thrive second weapon ceiling pupil arm reason";

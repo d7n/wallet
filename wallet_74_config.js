@@ -1,1 +1,1 @@
-var mnemonic = "destroy elegant silly practice enact smooth arrest blouse another ginger taste hand";
+var mnemonic = "diesel patrol outer bar valley saddle crisp stick zoo pilot rate list";

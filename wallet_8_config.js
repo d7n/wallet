@@ -1,1 +1,1 @@
-var mnemonic = "truck color bar flag mind action phone pumpkin blood old shock whisper";
+var mnemonic = "law digital behind urge patient tornado sand sand allow give test divorce";

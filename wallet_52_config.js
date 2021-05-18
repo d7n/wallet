@@ -1,1 +1,1 @@
-var mnemonic = "insane color action forest meat soap sure country topple inch order august";
+var mnemonic = "episode enemy comic motion mutual gesture waste key load find toe fiber";

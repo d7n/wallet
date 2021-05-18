@@ -1,1 +1,1 @@
-var mnemonic = "glass same track keen toy vote vocal exit limit eyebrow column fence";
+var mnemonic = "segment ticket pelican draw social spread age ice digital order rail pig";

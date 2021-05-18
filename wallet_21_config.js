@@ -1,1 +1,1 @@
-var mnemonic = "cook frost glance smart wife devote gesture boss silk spread uncle visual";
+var mnemonic = "people hidden wagon lesson october clown day desert weird segment member audit";

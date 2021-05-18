@@ -1,1 +1,1 @@
-var mnemonic = "fabric screen boil mobile amateur off debris carbon tool lava scare daring";
+var mnemonic = "rather steel cram trap rose open black trigger bike paper another beauty";

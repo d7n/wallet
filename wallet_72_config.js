@@ -1,1 +1,1 @@
-var mnemonic = "point lab catch fault enforce test eagle same wheel puzzle add action";
+var mnemonic = "clap predict relax speed erupt ankle hen brisk isolate ecology exist dress";

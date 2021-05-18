@@ -1,1 +1,1 @@
-var mnemonic = "pipe chef fade zero record donor walk online water squirrel draft alter";
+var mnemonic = "wrestle scatter account shoe ski favorite inform frown possible gap soon champion";

@@ -1,1 +1,1 @@
-var mnemonic = "across derive welcome alley drastic name ribbon destroy project year item east";
+var mnemonic = "cart design awful surprise document screen scan throw hub faint black razor";

@@ -1,1 +1,1 @@
-var mnemonic = "carry spike deny minute relief upon trophy involve endorse observe earn organ";
+var mnemonic = "exchange food gold horse clutch cash axis aspect attend find once example";

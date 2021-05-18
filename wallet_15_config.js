@@ -1,1 +1,1 @@
-var mnemonic = "zero artist receive bargain minute life town omit wrestle vehicle like silly";
+var mnemonic = "pipe quick drastic pave middle bitter pumpkin empty quality reform current large";

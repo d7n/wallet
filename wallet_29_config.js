@@ -1,1 +1,1 @@
-var mnemonic = "edit kidney subway wink eternal black jar unit blast space struggle trade";
+var mnemonic = "addict ketchup balance genre unhappy cattle excuse spy high coconut slim almost";

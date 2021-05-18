@@ -1,1 +1,1 @@
-var mnemonic = "lake best glory orchard orbit slender only auto civil chuckle exhibit adapt";
+var mnemonic = "deny afraid have ahead image power carpet uncle shadow category solution hobby";

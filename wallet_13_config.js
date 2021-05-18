@@ -1,1 +1,1 @@
-var mnemonic = "salad clap giggle ugly ball exist morning march say network cinnamon alley";
+var mnemonic = "clever chapter dutch floor shaft height knock exchange depart ranch spend claim";

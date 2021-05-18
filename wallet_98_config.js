@@ -1,1 +1,1 @@
-var mnemonic = "crush sketch label place frog betray width hub damp spend stool rich";
+var mnemonic = "target special cat pulp kiwi history bring climb bless live pond alone";

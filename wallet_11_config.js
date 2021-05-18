@@ -1,1 +1,1 @@
-var mnemonic = "oxygen property pony throw resource surprise price inject pluck consider symbol slot";
+var mnemonic = "census turkey very leg smoke mystery door virtual senior feature monitor wave";

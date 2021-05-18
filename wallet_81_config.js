@@ -1,1 +1,1 @@
-var mnemonic = "kind nature always gauge dove chest object transfer soft lunch impulse multiply";
+var mnemonic = "usage announce vacant ribbon curve syrup web sight write alter gallery brick";

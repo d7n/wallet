@@ -1,1 +1,1 @@
-var mnemonic = "joke effort force express cruel wrong topple absurd fossil ketchup hill slender";
+var mnemonic = "fatal second melody object opera next kiss provide curtain diagram diesel bind";

@@ -1,1 +1,1 @@
-var mnemonic = "school name vicious kiss subway pull unusual woman universe business wait foam";
+var mnemonic = "eyebrow online expose when flash bench project frown awkward afford romance wool";

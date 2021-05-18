@@ -1,1 +1,1 @@
-var mnemonic = "bachelor hope chunk inch topic age excuse enemy poem list peasant pass";
+var mnemonic = "visit cream lava aim bag public dish logic deny once asthma mimic";

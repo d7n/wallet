@@ -1,1 +1,1 @@
-var mnemonic = "various pluck expand edge dentist comic rack awful sense parrot brother solution";
+var mnemonic = "liberty reason prefer scout barrel bacon orchard movie soldier pool fun equal";

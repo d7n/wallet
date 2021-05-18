@@ -1,1 +1,1 @@
-var mnemonic = "pilot security lonely jazz reduce pistol pencil violin grace nephew awful distance";
+var mnemonic = "walk fall ask pear join glad busy east exist remain horror mail";

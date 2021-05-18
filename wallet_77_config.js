@@ -1,1 +1,1 @@
-var mnemonic = "chimney shove misery strategy rocket ribbon slight spend learn chimney energy kingdom";
+var mnemonic = "trim side sword around output universe treat wagon elbow word blanket ribbon";

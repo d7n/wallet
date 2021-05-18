@@ -1,1 +1,1 @@
-var mnemonic = "strategy off benefit pistol ocean lift lens board genre view ridge sunset";
+var mnemonic = "expand rookie install between flip approve insane office salt hope state mobile";

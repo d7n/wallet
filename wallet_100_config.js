@@ -1,1 +1,1 @@
-var mnemonic = "build hazard mandate index alcohol churn that tent spawn switch float reopen";
+var mnemonic = "march sign valid shove twice pattern web honey inside radio autumn casino";

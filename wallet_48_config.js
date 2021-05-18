@@ -1,1 +1,1 @@
-var mnemonic = "bridge outdoor leader erase oyster pave slide force woman breeze cactus mask";
+var mnemonic = "frown silver reunion pear portion humble neither erase grace parrot little slow";

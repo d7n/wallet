@@ -1,1 +1,1 @@
-var mnemonic = "vacuum joke physical clinic like object abstract limit merit post kiwi run";
+var mnemonic = "ahead century luggage rough juice tobacco century umbrella coffee caution increase laundry";

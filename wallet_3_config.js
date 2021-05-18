@@ -1,1 +1,1 @@
-var mnemonic = "cigar theme message inquiry firm three cereal army bar heart acoustic general";
+var mnemonic = "ship current idea disorder rough legend detect cactus side play autumn embody";

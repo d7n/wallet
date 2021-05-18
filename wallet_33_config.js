@@ -1,1 +1,1 @@
-var mnemonic = "trial field uncle ocean merge scorpion pink notice praise surprise mouse dilemma";
+var mnemonic = "fade road crisp candy payment fury eyebrow couple clip vocal swap account";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse daring sort artefact foot chapter ball involve equip engine gasp secret";
+var mnemonic = "fresh afraid hat language foster grain image year service fuel warfare trust";

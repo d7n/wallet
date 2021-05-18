@@ -1,1 +1,1 @@
-var mnemonic = "legal nose town feed person brass marriage hair capable casual project tiny";
+var mnemonic = "perfect kitchen tuition direct crouch melody spider push prison marriage tired bubble";

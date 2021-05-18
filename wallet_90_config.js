@@ -1,1 +1,1 @@
-var mnemonic = "craft come stereo daring radio quantum elegant clarify brick spin heart another";
+var mnemonic = "kind cook result where glory super dune shiver uncle crater theme impose";

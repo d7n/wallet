@@ -1,1 +1,1 @@
-var mnemonic = "dice stage pledge give sweet egg income pass reason tuition now critic";
+var mnemonic = "high opera census such sunset funny donkey twice team explain desk inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst talent decorate crash true carpet horse flip october evolve window history";
+var mnemonic = "stumble family permit pepper vicious accident achieve make gentle fever basket jar";

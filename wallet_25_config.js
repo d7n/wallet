@@ -1,1 +1,1 @@
-var mnemonic = "better funny gas swift defy squirrel ripple travel raise vast local involve";
+var mnemonic = "crumble teach drip wrist shadow decline predict toe weasel detail draw panda";

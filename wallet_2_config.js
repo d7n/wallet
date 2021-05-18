@@ -1,1 +1,1 @@
-var mnemonic = "prosper main tree luggage hobby ivory chimney ship welcome notable output whale";
+var mnemonic = "thunder hard promote gun erosion rapid control core mimic degree hip boost";

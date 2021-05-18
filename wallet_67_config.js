@@ -1,1 +1,1 @@
-var mnemonic = "team silent salad diet knife strategy manage eternal vendor sleep asthma lock";
+var mnemonic = "industry deny ordinary code fold knock pelican wine embrace cube goose public";

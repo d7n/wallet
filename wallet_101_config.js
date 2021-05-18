@@ -1,1 +1,1 @@
-var mnemonic = "unusual meat swing fame across repair seminar plastic token fever jaguar knife";
+var mnemonic = "fatal chicken craft spatial member modify apple annual night today goose essence";

@@ -1,1 +1,1 @@
-var mnemonic = "merry brisk sad harbor salt penalty leisure initial pattern runway wonder urge";
+var mnemonic = "drastic approve execute barely news search type misery valid garment bag jungle";

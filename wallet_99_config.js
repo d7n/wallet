@@ -1,1 +1,1 @@
-var mnemonic = "slight dish again reopen garage alert typical pride trend agent choice impose";
+var mnemonic = "chuckle balcony stone good rebel thrive barely grace lounge leaf marble exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger eyebrow such vacuum display decrease bubble fork trial hybrid cloth source";
+var mnemonic = "sure fix sand winner time hammer lawsuit normal cricket public base bottom";

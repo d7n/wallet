@@ -1,1 +1,1 @@
-var mnemonic = "february tiger deliver property loyal away lucky bus enroll wool assist base";
+var mnemonic = "sketch cattle record account alcohol file two type wreck utility length knife";

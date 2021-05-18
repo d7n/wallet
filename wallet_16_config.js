@@ -1,1 +1,1 @@
-var mnemonic = "trigger syrup drift they genre super ecology comfort alone dignity visual human";
+var mnemonic = "huge still donor rapid fiction salad stadium side august pair pool hobby";

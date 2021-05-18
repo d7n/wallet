@@ -1,1 +1,1 @@
-var mnemonic = "awesome text wood want early oven regular common west boil guess palace";
+var mnemonic = "summer enforce distance list tackle chase liquid high goddess tragic monkey degree";

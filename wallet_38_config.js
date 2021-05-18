@@ -1,1 +1,1 @@
-var mnemonic = "pioneer leg tornado phrase cake mistake outdoor sort planet negative uphold bright";
+var mnemonic = "move swim width foster culture metal valve often rifle embrace lottery rocket";

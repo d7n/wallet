@@ -1,1 +1,1 @@
-var mnemonic = "exchange swap primary hybrid cook junk dream enforce later couple armed engage";
+var mnemonic = "rigid adapt coach speed term thought maximum pride dawn decorate unit cash";

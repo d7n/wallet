@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon lizard video figure cereal ghost umbrella hello little panther test frequent";
+var mnemonic = "home action mandate hundred tissue bridge release census own piece verify pill";

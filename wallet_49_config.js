@@ -1,1 +1,1 @@
-var mnemonic = "judge display yard visual thunder judge tomato doll genius undo march ostrich";
+var mnemonic = "buffalo thank couch riot help bread when impulse gate tuna gain space";

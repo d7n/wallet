@@ -1,1 +1,1 @@
-var mnemonic = "photo patient ancient spike parade author visa brick quote castle razor cheap";
+var mnemonic = "steel brother rigid lonely bicycle shiver lamp tool code word avoid stable";

@@ -1,1 +1,1 @@
-var mnemonic = "siren shy resemble gloom govern hand drop various exact coffee gift pulse";
+var mnemonic = "glance drive genius crush inform palm thank tell twist wheat sadness stairs";

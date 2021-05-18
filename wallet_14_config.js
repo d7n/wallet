@@ -1,1 +1,1 @@
-var mnemonic = "cool unaware lemon palm claim tobacco destroy ask scene clump badge include";
+var mnemonic = "reveal blossom regret chest about charge alpha junior retire celery abstract smoke";

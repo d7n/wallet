@@ -1,1 +1,1 @@
-var mnemonic = "tourist image hurry lecture feed analyst silk vehicle gorilla like brick huge";
+var mnemonic = "left best derive lawn fortune better desert occur canoe morning smile useful";

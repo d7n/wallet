@@ -1,1 +1,1 @@
-var mnemonic = "silk then purity oven verify fly tooth menu uniform toward flight butter";
+var mnemonic = "approve airport topple grocery swallow piano tired name today month robust decade";

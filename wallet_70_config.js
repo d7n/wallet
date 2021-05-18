@@ -1,1 +1,1 @@
-var mnemonic = "produce abstract dog join toddler give boring power sweet husband document combine";
+var mnemonic = "wrap push virtual rug bar office bind effort dentist help vapor hat";

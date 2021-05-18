@@ -1,1 +1,1 @@
-var mnemonic = "gift side idle collect upgrade bird frown oxygen shock lounge argue addict";
+var mnemonic = "arrow denial smoke delay tissue tongue peasant wife essence keen famous sheriff";

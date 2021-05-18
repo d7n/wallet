@@ -1,1 +1,1 @@
-var mnemonic = "matrix about resource vanish zoo squeeze water cook start blade engine shrug";
+var mnemonic = "pizza anxiety eternal riot seek usual nuclear bike pact oven shift upper";

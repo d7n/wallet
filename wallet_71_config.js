@@ -1,1 +1,1 @@
-var mnemonic = "tissue praise ramp fat capital electric health hungry smile rigid blood volcano";
+var mnemonic = "fork rug abuse supreme brown view ketchup typical party soft analyst actual";

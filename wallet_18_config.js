@@ -1,1 +1,1 @@
-var mnemonic = "card mother few vapor dutch insane what shadow left gun satisfy twist";
+var mnemonic = "member like flower time step rubber like shrug pear second shield glow";
