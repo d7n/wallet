@@ -1,1 +1,1 @@
-var mnemonic = "skirt aerobic tragic ensure virtual voice ancient parrot poem welcome prosper pride";
+var mnemonic = "bid alter scorpion animal reopen essay mom cotton notable grunt tape feed";

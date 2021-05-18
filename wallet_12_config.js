@@ -1,1 +1,1 @@
-var mnemonic = "junk crowd enforce carry slender animal soda scrap alien fire bamboo festival";
+var mnemonic = "caught stay response melt opinion phrase palm math then awake slight pipe";

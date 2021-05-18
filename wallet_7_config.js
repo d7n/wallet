@@ -1,1 +1,1 @@
-var mnemonic = "orange morning earn six tone magic belt cargo until about rare salon";
+var mnemonic = "extra guitar round control biology answer short stove dutch pitch eye erosion";

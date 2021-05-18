@@ -1,1 +1,1 @@
-var mnemonic = "clip kiss wear donate oval decide large save used sorry myth impose";
+var mnemonic = "feel divide stuff vendor key faith wave entire invest repeat follow height";

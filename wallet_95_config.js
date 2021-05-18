@@ -1,1 +1,1 @@
-var mnemonic = "moment amazing crunch rather harbor seek goat path cook conduct corn method";
+var mnemonic = "demise style company bachelor lava divert bunker vibrant neutral mixture engage inject";

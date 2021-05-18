@@ -1,1 +1,1 @@
-var mnemonic = "rescue runway victory pepper fit quote satisfy insect void lemon alley wheel";
+var mnemonic = "glide symptom unlock deal vanish journey sample expand brand pig bird home";

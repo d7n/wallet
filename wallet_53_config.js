@@ -1,1 +1,1 @@
-var mnemonic = "will myself install cousin frog broccoli minimum coffee clinic soldier cushion arrive";
+var mnemonic = "achieve sibling pencil debris unusual asthma poem open size spatial frequent wish";

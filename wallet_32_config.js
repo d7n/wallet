@@ -1,1 +1,1 @@
-var mnemonic = "daughter spread legal brush job ship bread month adapt run merit lend";
+var mnemonic = "blame exchange club salmon slogan dinosaur review detect flock you jelly fossil";

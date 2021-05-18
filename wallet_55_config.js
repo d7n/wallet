@@ -1,1 +1,1 @@
-var mnemonic = "satoshi item strategy embody blush grant memory story talk mixture design nest";
+var mnemonic = "inspire knee scrub tobacco pride example total bracket install razor manual token";

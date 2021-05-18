@@ -1,1 +1,1 @@
-var mnemonic = "logic stove evidence viable sing feed seed skate glass midnight turkey olympic";
+var mnemonic = "infant laugh such surface slot dolphin used consider fan gentle occur exist";

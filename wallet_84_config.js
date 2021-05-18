@@ -1,1 +1,1 @@
-var mnemonic = "bomb theory deputy seven black elbow switch rocket embody neutral patrol ask";
+var mnemonic = "rather canoe horse analyst silver vicious fault leaf when pill shallow neck";

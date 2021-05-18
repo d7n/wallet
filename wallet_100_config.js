@@ -1,1 +1,1 @@
-var mnemonic = "caution motion hover guitar normal patrol ribbon easy hidden term range sentence";
+var mnemonic = "noise awkward ski plunge upon device soldier pitch satisfy range awesome sunny";

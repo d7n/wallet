@@ -1,1 +1,1 @@
-var mnemonic = "sea unable engage fox horror seven couple frequent change female force grow";
+var mnemonic = "side august potato injury spring road dawn blush obvious shuffle camp thank";

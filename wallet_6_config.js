@@ -1,1 +1,1 @@
-var mnemonic = "eye thing step cost play coffee inherit before entire demand oven genre";
+var mnemonic = "alien stomach pencil unfold pool reform run animal into slush balcony camp";

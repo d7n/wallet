@@ -1,1 +1,1 @@
-var mnemonic = "curtain venture trend ugly useful senior sun hazard open reveal must width";
+var mnemonic = "monitor brave burger desk aspect wash used void royal total leg odor";

@@ -1,1 +1,1 @@
-var mnemonic = "report icon crisp first what know snap better same swallow merge craft";
+var mnemonic = "clutch urban odor promote choose hand genuine warfare ordinary deal puppy trial";

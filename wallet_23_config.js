@@ -1,1 +1,1 @@
-var mnemonic = "mixture tuna solve property wave tunnel join jungle loud bridge distance above";
+var mnemonic = "curve vivid push barrel airport lawsuit card swamp horse bargain rich exist";

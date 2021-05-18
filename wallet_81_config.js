@@ -1,1 +1,1 @@
-var mnemonic = "boy rebel symbol kid human someone hire large rare village walk suggest";
+var mnemonic = "snap spin adjust leave clap narrow connect idle clap avoid lonely when";

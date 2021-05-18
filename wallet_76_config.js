@@ -1,1 +1,1 @@
-var mnemonic = "must across under solution usual worry theme nation tomorrow cup oil kangaroo";
+var mnemonic = "auto final push agent person cool fine mechanic welcome weapon error tray";

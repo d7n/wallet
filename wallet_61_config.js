@@ -1,1 +1,1 @@
-var mnemonic = "still pledge treat gloom junk gym lonely jealous gauge pact employ bronze";
+var mnemonic = "finish sport ozone scheme stove all lemon coffee layer lobster type rack";

@@ -1,1 +1,1 @@
-var mnemonic = "seat thunder gun space put auction shoulder only announce sibling post shallow";
+var mnemonic = "approve claim replace whip obscure match narrow search sketch nut echo bundle";

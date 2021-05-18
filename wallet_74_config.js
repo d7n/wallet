@@ -1,1 +1,1 @@
-var mnemonic = "hope wreck comic height chuckle stairs capital pulse medal inflict beauty infant";
+var mnemonic = "task logic credit remain armor hub reward panel illness vacant blast become";

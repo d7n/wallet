@@ -1,1 +1,1 @@
-var mnemonic = "twenty phrase video behave sudden inmate equal decrease gospel all must palm";
+var mnemonic = "veteran person spike upset supreme image gold truly above near picture caught";

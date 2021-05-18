@@ -1,1 +1,1 @@
-var mnemonic = "combine myself agent odor auction opera glow message key make industry kingdom";
+var mnemonic = "transfer avoid mercy lunch maze indoor fantasy ready number bid used secret";

@@ -1,1 +1,1 @@
-var mnemonic = "dial bulb thought stove hire normal possible addict mirror arena panda enable";
+var mnemonic = "aspect message skirt spy season athlete insane stomach corn brother believe close";

@@ -1,1 +1,1 @@
-var mnemonic = "below electric ill mandate buzz minor diet top squeeze long swamp miracle";
+var mnemonic = "brain angry volume ordinary bar bulb tuna hold wasp panda common pistol";

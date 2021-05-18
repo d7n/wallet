@@ -1,1 +1,1 @@
-var mnemonic = "punch evidence frost shock powder father solution public powder ribbon cost cause";
+var mnemonic = "measure urge grocery immense album penalty brief vapor inside advance play abuse";

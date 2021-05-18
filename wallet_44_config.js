@@ -1,1 +1,1 @@
-var mnemonic = "verb suffer proud vocal skull result weasel east bridge relief solution produce";
+var mnemonic = "join chaos shoot blue flight hand famous venue turn tackle hood later";

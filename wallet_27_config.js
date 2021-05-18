@@ -1,1 +1,1 @@
-var mnemonic = "confirm base case bargain fault pet clump assault sail caught boil upper";
+var mnemonic = "legal toddler bread raven snack ship jacket runway taste snake salon shaft";

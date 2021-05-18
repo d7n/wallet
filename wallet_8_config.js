@@ -1,1 +1,1 @@
-var mnemonic = "sort abstract offer build entire only hurdle pitch neck stairs gravity popular";
+var mnemonic = "service used arrow barrel mail trim faculty salt stomach oak hawk dizzy";

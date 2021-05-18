@@ -1,1 +1,1 @@
-var mnemonic = "shove cement teach pool add enforce shallow pumpkin source strategy split exhibit";
+var mnemonic = "stumble detail practice chicken embrace shoot always comic frozen false boring iron";

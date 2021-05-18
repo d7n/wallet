@@ -1,1 +1,1 @@
-var mnemonic = "avocado guitar movie cattle scissors shy napkin coast toss street sort solid";
+var mnemonic = "grunt exercise absent doctor glance bundle match phrase day urban text grace";

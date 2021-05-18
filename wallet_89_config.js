@@ -1,1 +1,1 @@
-var mnemonic = "box forget boil main universe outdoor useful distance pyramid elite earn element";
+var mnemonic = "first crop bid slot acid twist dolphin coach ring stool bind echo";

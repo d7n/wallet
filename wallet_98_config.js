@@ -1,1 +1,1 @@
-var mnemonic = "palm pony guitar join local fatigue mean sponsor coral critic marine coffee";
+var mnemonic = "piano sauce collect regret group panda pipe receive sock wet under lava";

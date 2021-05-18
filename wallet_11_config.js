@@ -1,1 +1,1 @@
-var mnemonic = "range prize rich atom panther armor clog runway answer fat decide tragic";
+var mnemonic = "swear empower echo program stuff swing dwarf inform kite ocean relief hope";

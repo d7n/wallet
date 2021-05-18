@@ -1,1 +1,1 @@
-var mnemonic = "despair gentle ecology artist vicious hungry cradle easy ability alarm raccoon camp";
+var mnemonic = "march relief gesture taste swarm street glide fold state promote reject derive";

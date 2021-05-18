@@ -1,1 +1,1 @@
-var mnemonic = "camera note penalty balcony step install rice perfect between glove loan bright";
+var mnemonic = "drink come flip clean harvest sorry neck blush matrix process sample blind";

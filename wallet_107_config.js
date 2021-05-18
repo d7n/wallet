@@ -1,1 +1,1 @@
-var mnemonic = "recall farm engine scan because drum jealous hawk session mystery chalk certain";
+var mnemonic = "sport ski art scheme catch lobster crop paper scissors cave scatter spirit";

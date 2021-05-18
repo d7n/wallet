@@ -1,1 +1,1 @@
-var mnemonic = "special merge slab possible north link service symbol garbage surge april consider";
+var mnemonic = "note number minute genius finger parent trick science sport excuse cricket almost";

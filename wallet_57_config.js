@@ -1,1 +1,1 @@
-var mnemonic = "lens soccer salon rotate school target differ scrap awake lens burst piano";
+var mnemonic = "march develop goddess era life copy buzz either simple accuse acoustic siren";

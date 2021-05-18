@@ -1,1 +1,1 @@
-var mnemonic = "purpose car draw canvas orange myth minimum dynamic ranch skin banner depart";
+var mnemonic = "skate comic expand pipe small hip also point spend cable fall air";

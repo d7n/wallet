@@ -1,1 +1,1 @@
-var mnemonic = "door mail spoon monkey inflict remember eight cupboard certain secret van festival";
+var mnemonic = "movie piano umbrella season unfold donate bunker daughter observe bicycle pattern sound";

@@ -1,1 +1,1 @@
-var mnemonic = "feed blind asthma tragic leaf park early emerge broken brass pepper meat";
+var mnemonic = "add gospel wrong gentle genuine remind ritual parent stable welcome response start";

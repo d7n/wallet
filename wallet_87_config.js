@@ -1,1 +1,1 @@
-var mnemonic = "night weather west drum paper cover fatal sniff scheme armed suit broom";
+var mnemonic = "budget off spider tornado click auto excite ocean foil olive stool fly";

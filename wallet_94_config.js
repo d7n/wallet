@@ -1,1 +1,1 @@
-var mnemonic = "grass pizza wolf artist exact stomach person kangaroo escape exact pact aspect";
+var mnemonic = "six forward ancient noise movie quote either bread frequent ostrich humor lunar";

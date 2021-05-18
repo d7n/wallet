@@ -1,1 +1,1 @@
-var mnemonic = "item tiger atom force below ostrich sign aunt run expand face north";
+var mnemonic = "bike category river clump more east mushroom bleak orange tent civil stove";

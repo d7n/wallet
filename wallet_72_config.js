@@ -1,1 +1,1 @@
-var mnemonic = "suggest paddle maximum dynamic mechanic smoke priority vocal foster marriage female engine";
+var mnemonic = "survey captain forget found bread patient shoe disease domain neutral type truck";

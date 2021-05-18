@@ -1,1 +1,1 @@
-var mnemonic = "visual cargo clay insane behave comic void unveil gauge cancel chef layer";
+var mnemonic = "choose banana curtain when toss expire fly purpose ask tape erase side";

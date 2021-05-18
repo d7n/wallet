@@ -1,1 +1,1 @@
-var mnemonic = "weird language gold tiny lazy eye say desk purchase burger face velvet";
+var mnemonic = "rural argue entry once february nation exotic inhale cigar purse virtual floor";

@@ -1,1 +1,1 @@
-var mnemonic = "second sight exchange load swear point face swallow room slogan sentence involve";
+var mnemonic = "magic autumn second stay camera oppose lunar glad broom merge live capable";

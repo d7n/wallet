@@ -1,1 +1,1 @@
-var mnemonic = "mass include strong spray wing object supreme phrase impose edit earn salon";
+var mnemonic = "chair account old voice quick diary top warfare pool version today crew";

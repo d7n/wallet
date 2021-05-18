@@ -1,1 +1,1 @@
-var mnemonic = "develop arm picnic inmate model twenty ankle frequent swallow spring notice brother";
+var mnemonic = "logic uncle pole muffin crash senior afford wrist kiss volume rather sister";

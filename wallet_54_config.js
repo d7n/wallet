@@ -1,1 +1,1 @@
-var mnemonic = "tuna regular isolate life square glide asthma spoil never math coyote tornado";
+var mnemonic = "wait extra beef secret ship parade autumn medal eternal merit kangaroo coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza warrior deal three budget shy domain myth swim way social stamp";
+var mnemonic = "cram under talk swift economy sheriff table depend little pill dinner spell";

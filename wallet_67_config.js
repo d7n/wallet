@@ -1,1 +1,1 @@
-var mnemonic = "student salon fine goddess private alien object fun town anxiety arena casual";
+var mnemonic = "spawn core pistol income crouch spin snake input claim ill purity someone";

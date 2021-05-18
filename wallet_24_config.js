@@ -1,1 +1,1 @@
-var mnemonic = "gas gravity face ginger valve amateur live cluster later mammal youth funny";
+var mnemonic = "pair dawn fit dose valley pudding swear coral debate omit garbage tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "easy device hover depend purpose thought door series remove season friend sing";
+var mnemonic = "area magic term hotel logic elite sponsor ill river square garage heart";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe century dismiss uncle work word lab two holiday pink member awkward";
+var mnemonic = "promote gaze impulse hint unveil lesson marriage toy thumb loop sadness prison";

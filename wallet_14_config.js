@@ -1,1 +1,1 @@
-var mnemonic = "almost couch hotel gate globe bless bone essay misery celery grape vocal";
+var mnemonic = "raw hedgehog speak near adapt motor exchange swear alert priority code develop";

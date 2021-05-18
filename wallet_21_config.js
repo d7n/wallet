@@ -1,1 +1,1 @@
-var mnemonic = "work essay turtle field butter miss carpet benefit august oppose cherry oxygen";
+var mnemonic = "member horse ostrich kitchen auction divert unusual dry furnace flavor drive capable";

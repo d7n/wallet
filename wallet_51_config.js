@@ -1,1 +1,1 @@
-var mnemonic = "stick wonder few occur surge chunk valve prosper clown carpet digital motor";
+var mnemonic = "squirrel movie exhibit water absorb ostrich close write amused possible sweet clinic";

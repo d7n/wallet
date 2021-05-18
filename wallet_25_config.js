@@ -1,1 +1,1 @@
-var mnemonic = "blanket brain wave social steak glory milk identify broken kidney then task";
+var mnemonic = "help switch leave empty undo skill route moral tooth huge treat seminar";

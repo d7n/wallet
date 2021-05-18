@@ -1,1 +1,1 @@
-var mnemonic = "utility lazy certain account curtain conduct asthma any slow service title loud";
+var mnemonic = "near leaf old tell again million depth mistake grief ski dwarf prefer";

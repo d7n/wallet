@@ -1,1 +1,1 @@
-var mnemonic = "side reduce arrow bind delay bird grid snow rival size ill audit";
+var mnemonic = "pledge submit vanish concert jungle level shove among mother outer there release";

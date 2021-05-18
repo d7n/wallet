@@ -1,1 +1,1 @@
-var mnemonic = "bulk rice dizzy collect trouble undo place you buddy mimic trash choose";
+var mnemonic = "bag history crater cash mesh salon fee top correct kiwi lunch message";

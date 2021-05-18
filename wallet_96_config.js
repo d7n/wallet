@@ -1,1 +1,1 @@
-var mnemonic = "leg swing plug gown hurt radar pioneer city belt display target game";
+var mnemonic = "brass beyond sail mammal fox million lizard license lift bargain pact gorilla";

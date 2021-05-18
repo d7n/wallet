@@ -1,1 +1,1 @@
-var mnemonic = "carbon gauge input symptom satoshi finger adapt copy conduct wet match since";
+var mnemonic = "soldier code virus gadget gain faculty build apart pride common hospital weapon";

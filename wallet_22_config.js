@@ -1,1 +1,1 @@
-var mnemonic = "yard until ride purchase pulse duty game rocket victory excess mirror manage";
+var mnemonic = "frown royal rally phone lucky order south humor observe foster woman undo";

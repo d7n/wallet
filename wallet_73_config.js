@@ -1,1 +1,1 @@
-var mnemonic = "trust choice brother candy risk rival story hotel hope fan velvet patrol";
+var mnemonic = "inner annual hold poem bid almost tail one pottery tent guide speak";

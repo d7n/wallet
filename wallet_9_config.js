@@ -1,1 +1,1 @@
-var mnemonic = "arrest they film relief monkey husband arch mind dance blur convince oxygen";
+var mnemonic = "tag slim arch zone number arrest casual armor upset shed scatter end";

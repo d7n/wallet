@@ -1,1 +1,1 @@
-var mnemonic = "possible still endorse actor screen render faith tunnel noodle label hungry food";
+var mnemonic = "swear cinnamon search rotate velvet spring print deny document beef cabin story";

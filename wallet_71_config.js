@@ -1,1 +1,1 @@
-var mnemonic = "fly congress debate spread equal fever fly inject still strategy night tenant";
+var mnemonic = "curious spell wing biology vintage grape captain dinosaur style safe carry client";

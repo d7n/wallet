@@ -1,1 +1,1 @@
-var mnemonic = "tent mistake patch badge claw allow profit old one remember index cannon";
+var mnemonic = "luxury another indoor buzz blind tomorrow pledge left bless broccoli month also";

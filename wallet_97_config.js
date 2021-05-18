@@ -1,1 +1,1 @@
-var mnemonic = "knee song squeeze jungle stock arena puppy dizzy other milk crazy pony";
+var mnemonic = "claim grid cheese vivid window cloud income super must ocean control game";

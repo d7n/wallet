@@ -1,1 +1,1 @@
-var mnemonic = "phone interest quit divide stick crumble proud flame announce calm often fortune";
+var mnemonic = "dress memory series solar onion solar surround rebuild ticket parrot evoke skirt";

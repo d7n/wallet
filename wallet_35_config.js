@@ -1,1 +1,1 @@
-var mnemonic = "state example urge liquid zone fortune about autumn sense shoot spike stove";
+var mnemonic = "ozone youth world exotic funny wrist erase extend design tissue oppose corn";

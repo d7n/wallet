@@ -1,1 +1,1 @@
-var mnemonic = "harvest soldier health catalog stick man grunt program eye oppose climb pen";
+var mnemonic = "hazard cricket awful blame lift diesel brave rain liar tenant click excite";

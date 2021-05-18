@@ -1,1 +1,1 @@
-var mnemonic = "honey vague payment ensure hard install just aim focus soup column lonely";
+var mnemonic = "depth milk special void flee trade network plate color century fan adult";

@@ -1,1 +1,1 @@
-var mnemonic = "attack mouse net cherry refuse aerobic discover act exhibit amazing pulp alarm";
+var mnemonic = "two peanut horse mutual category moon rack guilt clock system stay agent";

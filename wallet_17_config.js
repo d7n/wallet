@@ -1,1 +1,1 @@
-var mnemonic = "ginger worry area industry various nerve spatial rapid thumb custom useless admit";
+var mnemonic = "alone movie home cool kingdom ladder harbor gasp suffer mad will margin";

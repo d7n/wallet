@@ -1,1 +1,1 @@
-var mnemonic = "offer runway action roast demise addict giggle news equip slender salmon awake";
+var mnemonic = "smart hospital horror front uncle minor uphold target audit half chuckle endless";

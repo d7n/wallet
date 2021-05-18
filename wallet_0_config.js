@@ -1,1 +1,1 @@
-var mnemonic = "expire gorilla prefer enough struggle vivid farm coconut labor come van salmon";
+var mnemonic = "appear scissors truth pool opera neck fashion unique future morning logic page";

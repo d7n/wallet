@@ -1,1 +1,1 @@
-var mnemonic = "sauce film great heart elephant taste coin glove pave enjoy hope scorpion";
+var mnemonic = "praise dry escape crawl property empty chapter frozen clarify nose ski solution";

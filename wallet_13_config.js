@@ -1,1 +1,1 @@
-var mnemonic = "phrase basket benefit phone arctic silk eight pottery include attract seven angle";
+var mnemonic = "scorpion expose anger before gym copy giraffe owner over tourist galaxy tag";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote pigeon wedding elegant apart figure donate luxury session asset swift pet";
+var mnemonic = "portion catalog stick coconut transfer write opera wide return reunion skate flee";

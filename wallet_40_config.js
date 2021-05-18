@@ -1,1 +1,1 @@
-var mnemonic = "lottery jealous borrow round case defense fire require hamster eye army picnic";
+var mnemonic = "laundry limb airport basic bacon flag industry enemy ice ahead angle atom";
