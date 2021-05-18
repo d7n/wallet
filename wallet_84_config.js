@@ -1,1 +1,1 @@
-var mnemonic = "shiver iron air age coast laptop aerobic lion balcony hundred peanut mad";
+var mnemonic = "nut top point trophy case dream cradle end program toast orphan toy";

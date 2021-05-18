@@ -1,1 +1,1 @@
-var mnemonic = "almost drama rate black rather account connect recall you brain index soap";
+var mnemonic = "depend cube viable merry various attitude text load broken wheel now tool";

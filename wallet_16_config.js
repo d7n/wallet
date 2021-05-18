@@ -1,1 +1,1 @@
-var mnemonic = "size near involve silent front taste snake stand sorry hard age stick";
+var mnemonic = "glass cake input symptom kiss wet visa banner almost high lock tattoo";

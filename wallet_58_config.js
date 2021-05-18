@@ -1,1 +1,1 @@
-var mnemonic = "weekend type breeze giant toe old language session float possible awake kick";
+var mnemonic = "major rare people exhaust ring leg lounge sea glad cushion slogan chest";

@@ -1,1 +1,1 @@
-var mnemonic = "enough chef mystery basic assist slab frog prize farm matter breeze tortoise";
+var mnemonic = "enhance horse shop photo virus dose state unfold betray glove decrease journey";

@@ -1,1 +1,1 @@
-var mnemonic = "payment upper struggle wear reveal dry change artefact wish viable reflect weekend";
+var mnemonic = "ready oblige village give regret sound welcome unable december attitude train chalk";

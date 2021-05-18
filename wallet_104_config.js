@@ -1,1 +1,1 @@
-var mnemonic = "nerve escape cry bone pen scout rebuild order bicycle immense fix address";
+var mnemonic = "pulp girl hello stick more radar old melody myself clarify accident fruit";

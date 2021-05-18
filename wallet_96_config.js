@@ -1,1 +1,1 @@
-var mnemonic = "metal nasty unit weekend try envelope three forest answer steel stereo atom";
+var mnemonic = "panic vendor damage hidden powder sea pony foot reform fox final manual";

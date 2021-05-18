@@ -1,1 +1,1 @@
-var mnemonic = "wagon brown solar tube clay parent hub beach old comic milk anger";
+var mnemonic = "captain close dust indicate together riot nut gasp sunset push language surge";

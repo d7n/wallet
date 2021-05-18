@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow test divorce notice sweet giggle hobby want ten design outside hospital";
+var mnemonic = "clog describe craft example hamster universe flush garment fix cool scan fluid";

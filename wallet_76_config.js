@@ -1,1 +1,1 @@
-var mnemonic = "stem exhaust cruel rhythm gold hundred distance retreat bag member involve soul";
+var mnemonic = "hungry good entire swift limit thumb change guess cover prefer wrap point";

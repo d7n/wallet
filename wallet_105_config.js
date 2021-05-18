@@ -1,1 +1,1 @@
-var mnemonic = "lab evil can desk badge denial estate subject tired example kid stove";
+var mnemonic = "vacuum glass aware jewel weasel below settle since powder wise depart lab";

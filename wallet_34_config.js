@@ -1,1 +1,1 @@
-var mnemonic = "office answer north common easily vessel toe scrub scare armed fade width";
+var mnemonic = "end abstract man student sure stomach tool erupt globe cable dress adjust";

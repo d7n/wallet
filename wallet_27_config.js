@@ -1,1 +1,1 @@
-var mnemonic = "used muffin pave lazy human enhance spider reunion track shoe cement sphere";
+var mnemonic = "broccoli rebuild safe chunk lion good walk attitude hockey elder torch barely";

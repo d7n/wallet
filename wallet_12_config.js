@@ -1,1 +1,1 @@
-var mnemonic = "project iron siren agent solution knock father ostrich hurry noise cube slush";
+var mnemonic = "fortune screen whale cream state advance peace snow dish jaguar icon wedding";

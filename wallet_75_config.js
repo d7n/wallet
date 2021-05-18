@@ -1,1 +1,1 @@
-var mnemonic = "major siege sadness cable shock spoil midnight auto jewel mesh verb jewel";
+var mnemonic = "unusual trophy render curtain decide innocent lady fiscal inner picture fresh entire";

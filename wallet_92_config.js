@@ -1,1 +1,1 @@
-var mnemonic = "produce cement what tiny useless motion draw advice budget warm bike infant";
+var mnemonic = "dad scare enter mail pink cabin sun cherry siege future mule benefit";

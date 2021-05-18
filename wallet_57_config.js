@@ -1,1 +1,1 @@
-var mnemonic = "method item damp awful can aspect try basket negative mansion bench economy";
+var mnemonic = "course robot brisk heavy catch glue runway deny syrup annual thrive purpose";

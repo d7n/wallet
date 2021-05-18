@@ -1,1 +1,1 @@
-var mnemonic = "sword dad fame attract grid range river dragon green cup cage echo";
+var mnemonic = "typical umbrella butter certain crush network ill round trigger make imitate youth";

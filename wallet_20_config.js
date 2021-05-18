@@ -1,1 +1,1 @@
-var mnemonic = "voyage lemon crunch include puzzle water lyrics immense approve feel unable reunion";
+var mnemonic = "tuna shock shy source tragic lounge extend cycle clerk agree say online";

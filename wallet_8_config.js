@@ -1,1 +1,1 @@
-var mnemonic = "flag aim garden peasant window pipe game pizza void session knife improve";
+var mnemonic = "float little pact outdoor wire used finger similar stay evil such decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "include judge lizard icon arrange bridge people diesel orphan quote sugar long";
+var mnemonic = "vast arm enhance hollow shield general brother ceiling entire aim issue elevator";

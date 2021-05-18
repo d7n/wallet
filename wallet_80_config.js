@@ -1,1 +1,1 @@
-var mnemonic = "east rule embrace defy someone mirror maple scorpion quiz cricket sorry develop";
+var mnemonic = "bleak program like crystal embody afford skull world into story uphold human";

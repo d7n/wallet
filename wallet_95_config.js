@@ -1,1 +1,1 @@
-var mnemonic = "oxygen open scale tower strike fork insect sell habit today pigeon sketch";
+var mnemonic = "quick dragon cross meadow field destroy manage attack census action lawn fly";

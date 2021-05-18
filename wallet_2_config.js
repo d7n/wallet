@@ -1,1 +1,1 @@
-var mnemonic = "joy seven subway erosion paddle minor chest replace fix plug web section";
+var mnemonic = "attract arrest oyster panda love rescue nose umbrella lizard option price defense";

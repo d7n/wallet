@@ -1,1 +1,1 @@
-var mnemonic = "nose slim snow person vivid banner couch hammer lecture globe box rude";
+var mnemonic = "update hamster idea melody refuse host skull bean pluck dish gorilla mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "hair wine dress gym measure skate water vibrant enter discover kangaroo drift";
+var mnemonic = "gym donor rain drama slight destroy dove regular script bronze develop comic";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub brain sibling cannon scare heavy question stock honey cricket secret electric";
+var mnemonic = "below zoo breeze parade receive allow tower worth clip ladder essay science";

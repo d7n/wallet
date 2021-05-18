@@ -1,1 +1,1 @@
-var mnemonic = "rose bird senior friend step twelve lounge pottery decrease dismiss put canal";
+var mnemonic = "owner shiver love there note observe orient vault omit remain dentist desk";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ranch light steel day struggle cactus couple grunt palm actress clean";
+var mnemonic = "swallow child burst crystal tragic canyon luggage mammal honey lunch cattle coffee";

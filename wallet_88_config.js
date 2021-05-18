@@ -1,1 +1,1 @@
-var mnemonic = "toast gauge clap flame chat brave aim inform tuna digital dignity bunker";
+var mnemonic = "thunder bike shrug goose hammer device under force thrive scatter spread gadget";

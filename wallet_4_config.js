@@ -1,1 +1,1 @@
-var mnemonic = "analyst polar enroll brother monitor arch fancy pumpkin dish accuse sorry caught";
+var mnemonic = "planet monkey tooth home monitor bless speak pulse chapter know arrest crouch";

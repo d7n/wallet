@@ -1,1 +1,1 @@
-var mnemonic = "distance innocent favorite parrot punch flock hungry nothing room few crouch excess";
+var mnemonic = "nephew enroll void amount tide tissue forward crack cigar wage dust detail";

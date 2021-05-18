@@ -1,1 +1,1 @@
-var mnemonic = "stove clip season crumble busy rebel cactus guitar jealous veteran pause lake";
+var mnemonic = "renew army page estate brother youth mansion wolf normal person love tissue";

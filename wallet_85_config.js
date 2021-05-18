@@ -1,1 +1,1 @@
-var mnemonic = "talk slow mirror anchor arrive random dog size super swarm member december";
+var mnemonic = "infant tribe false arch present wagon spoon rail wild reduce enjoy glory";

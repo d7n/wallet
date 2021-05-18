@@ -1,1 +1,1 @@
-var mnemonic = "over nerve oyster flavor resource knee boring food under slide symbol strike";
+var mnemonic = "kitten tell grunt ski weird goose predict race curtain coin shoe law";

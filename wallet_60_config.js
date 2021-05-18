@@ -1,1 +1,1 @@
-var mnemonic = "bench elder network express boost pledge husband flame where blast step turkey";
+var mnemonic = "harsh artwork travel suspect all ocean flip stomach trigger mammal enhance jacket";

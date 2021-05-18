@@ -1,1 +1,1 @@
-var mnemonic = "elegant resemble photo crawl hat grant sketch infant disagree own brand bunker";
+var mnemonic = "twin only found pulse thunder borrow elevator below lecture teach manage trumpet";

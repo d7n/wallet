@@ -1,1 +1,1 @@
-var mnemonic = "visa foster limb check siren pen forum anger rib toward apology summer";
+var mnemonic = "bulk cereal near wool public rely book defense village grocery aisle original";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition leaf large amazing cabin memory pass symbol original ready measure dove";
+var mnemonic = "clump tattoo bird bubble chunk gown rebel excite life remember capital slight";

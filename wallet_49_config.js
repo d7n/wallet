@@ -1,1 +1,1 @@
-var mnemonic = "warm aim duck skirt detail wasp solar false tribe between unaware tube";
+var mnemonic = "tobacco rug museum sketch reveal pink camp like unfold busy bunker reopen";

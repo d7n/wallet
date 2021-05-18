@@ -1,1 +1,1 @@
-var mnemonic = "luggage board squirrel injury push suspect tortoise only van actor urban stand";
+var mnemonic = "silent reunion gorilla swallow round wisdom suspect hope arrow smooth decade wrap";

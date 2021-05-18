@@ -1,1 +1,1 @@
-var mnemonic = "pistol admit settle faculty rocket cement emotion peanut great peace tree club";
+var mnemonic = "galaxy acid barrel long venture allow salmon solar crop salad mystery claim";

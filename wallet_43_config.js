@@ -1,1 +1,1 @@
-var mnemonic = "reopen found enact behind crouch twenty genre maid grocery width oil great";
+var mnemonic = "erupt obvious hold rare proof thrive silent write action when sugar direct";

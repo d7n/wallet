@@ -1,1 +1,1 @@
-var mnemonic = "drive rare bench odor tumble mouse chest decorate wasp jaguar wolf sheriff";
+var mnemonic = "present loan dignity zebra grocery charge rebel empty idea matter utility zone";

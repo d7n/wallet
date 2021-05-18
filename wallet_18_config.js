@@ -1,1 +1,1 @@
-var mnemonic = "swarm drift reward ranch float nasty million upgrade bunker return jealous valid";
+var mnemonic = "robust capital feature trouble street curious disorder eyebrow chapter enact upset ordinary";

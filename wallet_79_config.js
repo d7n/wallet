@@ -1,1 +1,1 @@
-var mnemonic = "confirm solve prison account away option blur accident leopard crawl chuckle alter";
+var mnemonic = "tape vapor brush daring artist giggle major color stick tomato upper turn";

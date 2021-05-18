@@ -1,1 +1,1 @@
-var mnemonic = "cat afford alone pull arrange small render voyage carpet attract riot remember";
+var mnemonic = "crop action oyster rapid news ensure muscle strong tired matrix move feel";

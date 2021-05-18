@@ -1,1 +1,1 @@
-var mnemonic = "version bamboo dad rival recycle scare define copy argue together into hip";
+var mnemonic = "grant almost law blast trend kitten double weasel decrease lesson enforce win";

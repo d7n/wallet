@@ -1,1 +1,1 @@
-var mnemonic = "during worth alcohol require opinion dismiss fiber ripple among spatial giraffe teach";
+var mnemonic = "diagram hole mountain employ drive surprise tribe expire swallow demand father enact";

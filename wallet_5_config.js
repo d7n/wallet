@@ -1,1 +1,1 @@
-var mnemonic = "dynamic sustain happy december erode fish east into mask faint amount excuse";
+var mnemonic = "element recall ski hint update rare penalty define donor error matrix view";

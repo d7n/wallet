@@ -1,1 +1,1 @@
-var mnemonic = "gain wrist priority top tortoise ethics gift valve interest budget clap rich";
+var mnemonic = "benefit tooth then bright island chief ski village only blame pact layer";

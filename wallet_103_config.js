@@ -1,1 +1,1 @@
-var mnemonic = "panel radio eight stairs bullet normal general giraffe eyebrow hobby category caution";
+var mnemonic = "pigeon coast depth stone drop merry second cream consider again lazy swim";

@@ -1,1 +1,1 @@
-var mnemonic = "program apology husband eye layer siren mango put party grief crazy ceiling";
+var mnemonic = "exhibit walk oblige magic punch urban together silly estate ready upgrade kangaroo";

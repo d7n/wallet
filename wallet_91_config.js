@@ -1,1 +1,1 @@
-var mnemonic = "vibrant tissue engage shaft pool file need loud tent defy core option";
+var mnemonic = "jacket what fatigue magic own fan uncle domain setup vague stem pistol";

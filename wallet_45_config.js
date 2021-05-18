@@ -1,1 +1,1 @@
-var mnemonic = "attract doll pudding perfect hip repair sphere estate recipe tiny frozen swallow";
+var mnemonic = "farm shoe turtle curious erupt inmate trigger path cry comic aisle humor";

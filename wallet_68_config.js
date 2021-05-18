@@ -1,1 +1,1 @@
-var mnemonic = "husband drive rib struggle oven very physical jazz enhance brave dismiss loop";
+var mnemonic = "bird hip tragic length behave mirror wish feature village juice since mercy";

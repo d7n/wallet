@@ -1,1 +1,1 @@
-var mnemonic = "night arena invite life found silk market below rescue quit doll romance";
+var mnemonic = "gun ocean effort winter seminar paper fury salad someone frost lounge piece";

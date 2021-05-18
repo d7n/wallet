@@ -1,1 +1,1 @@
-var mnemonic = "level basket impose plate wet tell syrup front priority wolf shadow favorite";
+var mnemonic = "depth sausage width ugly gain mutual bulb stand melody lock hover hand";

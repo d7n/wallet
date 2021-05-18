@@ -1,1 +1,1 @@
-var mnemonic = "slender brisk orient pair obtain endorse true curtain toy border collect miss";
+var mnemonic = "boil stem list vapor strike pill super credit stable tragic dentist stay";

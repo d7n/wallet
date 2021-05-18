@@ -1,1 +1,1 @@
-var mnemonic = "deputy visa garbage shoot guitar promote again join public butter safe narrow";
+var mnemonic = "photo garlic soft risk donkey false remind town sausage test mirror sketch";

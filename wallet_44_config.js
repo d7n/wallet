@@ -1,1 +1,1 @@
-var mnemonic = "want cook ten reform nothing century finish dish input rice ensure pen";
+var mnemonic = "cross blue churn effort time ability smart small maze coffee cat chair";

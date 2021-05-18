@@ -1,1 +1,1 @@
-var mnemonic = "aerobic beef marriage joy render alert ability loop toss pepper choice receive";
+var mnemonic = "fold check kiss father addict visa crater whisper file awesome black legend";

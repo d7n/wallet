@@ -1,1 +1,1 @@
-var mnemonic = "slam priority spike buzz father animal comfort couple aspect already poem dial";
+var mnemonic = "misery must hollow brass turkey apology federal idle pill click spin wish";

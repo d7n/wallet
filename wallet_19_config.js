@@ -1,1 +1,1 @@
-var mnemonic = "over ethics accuse nasty urban excess solid pledge custom weasel note uncle";
+var mnemonic = "impose diagram basket kind small invest fancy cart soccer canoe mother twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "nut secret detect renew kitchen april garlic guess sauce puppy model team";
+var mnemonic = "chase stamp grief bachelor such soap around celery scale cloth advice sand";

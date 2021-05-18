@@ -1,1 +1,1 @@
-var mnemonic = "lonely offer safe cement turn bullet width slow bar cable river toward";
+var mnemonic = "between jungle broccoli success armed chaos they armor neutral season gauge bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard wild royal invite town segment place coffee grant solar smoke poverty";
+var mnemonic = "lawn slide settle journey push decline club pave want body ancient visa";

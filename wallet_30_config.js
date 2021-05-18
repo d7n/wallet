@@ -1,1 +1,1 @@
-var mnemonic = "melody divide crawl tree master field remember bounce unfold diary perfect fat";
+var mnemonic = "spice woman mobile decide dice life material glow water talk power zero";

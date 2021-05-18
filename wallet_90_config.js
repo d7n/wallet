@@ -1,1 +1,1 @@
-var mnemonic = "window stock same above wide clever tube slush gallery slush mother glance";
+var mnemonic = "memory save night disease diary mouse emerge pair prosper gym security normal";

@@ -1,1 +1,1 @@
-var mnemonic = "hover vibrant balance price labor alone rude stick turtle drive subway monitor";
+var mnemonic = "climb shrug truly library found elite seed wine clever badge possible drip";

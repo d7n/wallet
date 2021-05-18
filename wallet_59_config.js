@@ -1,1 +1,1 @@
-var mnemonic = "device best noble chunk estate stereo twin inquiry dash insane program hood";
+var mnemonic = "young various judge bonus margin recall nest album mouse axis neutral radar";

@@ -1,1 +1,1 @@
-var mnemonic = "blur river custom sing bring armor normal champion team embody nation obvious";
+var mnemonic = "account silent climb cost exile person summer car unit oven fire judge";

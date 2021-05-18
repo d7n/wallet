@@ -1,1 +1,1 @@
-var mnemonic = "mirror pudding what creek judge safe lounge hire giraffe kite normal spread";
+var mnemonic = "odor hammer dream blur road eyebrow alcohol west proud danger media health";

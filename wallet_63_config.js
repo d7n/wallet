@@ -1,1 +1,1 @@
-var mnemonic = "claw file solar grocery bubble before picnic clip soda require motor thumb";
+var mnemonic = "other flush require wolf involve furnace submit asthma cushion brick promote night";

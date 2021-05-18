@@ -1,1 +1,1 @@
-var mnemonic = "flight layer very page explain rice entire warfare cigar square family curve";
+var mnemonic = "hour inherit hockey salon silver electric boy morning hawk taste mind speak";

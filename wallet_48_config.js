@@ -1,1 +1,1 @@
-var mnemonic = "song law dust toe pave ridge whip pluck wall winter property vacant";
+var mnemonic = "lady letter enrich life skirt between pyramid rich cash slush harsh wreck";

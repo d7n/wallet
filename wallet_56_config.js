@@ -1,1 +1,1 @@
-var mnemonic = "organ cake organ used page desert bronze void toss often napkin wedding";
+var mnemonic = "average tobacco door valley glow fan enrich split long warm put course";

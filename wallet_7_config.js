@@ -1,1 +1,1 @@
-var mnemonic = "alcohol museum large pottery token grunt stadium they axis juice strong garment";
+var mnemonic = "minute test convince already air question march leopard pepper scale wave goddess";

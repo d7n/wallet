@@ -1,1 +1,1 @@
-var mnemonic = "cry input flavor hockey husband flight income endorse carry rate erase lounge";
+var mnemonic = "grant certain vacuum indoor urban later heart universe ticket limit ignore emerge";

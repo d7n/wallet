@@ -1,1 +1,1 @@
-var mnemonic = "outside allow exhaust hedgehog balcony defy cupboard celery twist once fish any";
+var mnemonic = "advice iron hurry correct pride increase rotate catch tone sting swim gadget";

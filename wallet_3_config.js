@@ -1,1 +1,1 @@
-var mnemonic = "language police quantum merge group render payment mistake cry arrest ticket slide";
+var mnemonic = "blouse private shift concert recall metal round erase mansion crisp link ceiling";

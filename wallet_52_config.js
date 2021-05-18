@@ -1,1 +1,1 @@
-var mnemonic = "series loan erupt build sweet hawk model animal ensure view gorilla sea";
+var mnemonic = "valve chunk right nephew pioneer kind faculty melt knife present recall shiver";

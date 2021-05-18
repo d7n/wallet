@@ -1,1 +1,1 @@
-var mnemonic = "foot cook decide donate ahead search dash concert involve minute village siren";
+var mnemonic = "omit salad swallow attend swallow neck welcome pass rally vintage myself damage";

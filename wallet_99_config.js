@@ -1,1 +1,1 @@
-var mnemonic = "peanut symptom during inner slice globe rocket genuine hotel concert despair urge";
+var mnemonic = "hip ticket garage aim clip maple response rich panda laundry still multiply";

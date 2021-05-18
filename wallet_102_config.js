@@ -1,1 +1,1 @@
-var mnemonic = "pact speed time result erupt hope staff elite virus bone logic basic";
+var mnemonic = "flat more income segment option art merge eagle weather bless orient loan";

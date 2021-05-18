@@ -1,1 +1,1 @@
-var mnemonic = "alter jungle series prevent happy reunion sweet wish friend chest check physical";
+var mnemonic = "federal unlock genuine cook belt gap aisle cactus fade name onion enroll";

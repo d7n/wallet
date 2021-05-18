@@ -1,1 +1,1 @@
-var mnemonic = "tongue sweet you drift guilt goddess believe mixed area knife bulb stem";
+var mnemonic = "ticket pen shock visual drive excess child arm bracket episode label nuclear";

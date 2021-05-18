@@ -1,1 +1,1 @@
-var mnemonic = "nephew swap suffer trash early smoke theme rally daughter orient all stable";
+var mnemonic = "intact impose gather various verify tool head face total universe romance gold";

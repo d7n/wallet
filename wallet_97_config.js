@@ -1,1 +1,1 @@
-var mnemonic = "guard quiz salt allow margin obscure floor dish core mansion chair squirrel";
+var mnemonic = "ranch deer sister tomorrow poem cement bundle credit always section grow purity";

@@ -1,1 +1,1 @@
-var mnemonic = "field again moral analyst act peanut pool begin scare child issue sun";
+var mnemonic = "soft pen choose rather attract priority elder print quiz practice wish please";

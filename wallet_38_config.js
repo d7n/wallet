@@ -1,1 +1,1 @@
-var mnemonic = "forward session pond mention execute clap live crunch castle journey base that";
+var mnemonic = "shift enter depart upset become type fade reason sock earth artist party";

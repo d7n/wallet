@@ -1,1 +1,1 @@
-var mnemonic = "infant crash organ naive track fury just library industry nothing jacket talk";
+var mnemonic = "champion used citizen trick advance measure mosquito useless either never park range";

@@ -1,1 +1,1 @@
-var mnemonic = "front boil only comfort joke cactus save village palace sun insect dice";
+var mnemonic = "pear monitor guess antique tunnel exact above eyebrow still prepare category lion";
