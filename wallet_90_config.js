@@ -1,1 +1,1 @@
-var mnemonic = "hard sniff gravity master neglect shed loop that switch gauge ceiling spike";
+var mnemonic = "question pill final miss adapt prefer umbrella myth top start setup profit";

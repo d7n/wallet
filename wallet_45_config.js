@@ -1,1 +1,1 @@
-var mnemonic = "spice trial brisk juice sister apology choice slice fabric light tool bread";
+var mnemonic = "depth hundred you always swim buzz example uncle security siege consider appear";

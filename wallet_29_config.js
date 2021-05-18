@@ -1,1 +1,1 @@
-var mnemonic = "manual group extend kitten level notice normal palace mix rhythm item addict";
+var mnemonic = "tuna state spot february cactus provide coffee change kind sound expect stick";

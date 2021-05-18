@@ -1,1 +1,1 @@
-var mnemonic = "clip draw atom critic slush roast one journey champion aim fall behind";
+var mnemonic = "toy cost topple exile vacuum angry album around unfair skin reflect airport";

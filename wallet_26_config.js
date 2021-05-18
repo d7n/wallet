@@ -1,1 +1,1 @@
-var mnemonic = "impact settle fork deposit march ahead betray volcano genius job clown cream";
+var mnemonic = "coil solution sibling amazing glide usage over toddler unable mistake during source";

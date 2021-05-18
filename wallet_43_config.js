@@ -1,1 +1,1 @@
-var mnemonic = "burst motor differ forest proof walk pause must comfort song flame rubber";
+var mnemonic = "chest sample chimney license dune future behave slender salt snack subject mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "proud shuffle work tilt borrow easy tenant furnace exchange anxiety frog shoot";
+var mnemonic = "motor thrive exhaust riot sort height ring oil enough phrase update toddler";

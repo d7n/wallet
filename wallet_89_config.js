@@ -1,1 +1,1 @@
-var mnemonic = "penalty produce divert merit blind crystal swing eight cabin major dismiss quote";
+var mnemonic = "laundry course embody fitness wrong slam census inform pave quiz essay shiver";

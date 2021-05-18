@@ -1,1 +1,1 @@
-var mnemonic = "salute team correct plate cancel indoor habit erupt famous school hybrid source";
+var mnemonic = "can couple garment perfect october divide repeat metal slight album anxiety wise";

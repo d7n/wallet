@@ -1,1 +1,1 @@
-var mnemonic = "vanish hungry question cheese upgrade dismiss invite crew reform anchor extra orient";
+var mnemonic = "limb pear grief burger always maximum sense voyage inform beach text century";

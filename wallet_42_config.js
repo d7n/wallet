@@ -1,1 +1,1 @@
-var mnemonic = "trust slush police chimney stadium betray dinosaur mimic heavy horror supreme worry";
+var mnemonic = "humble accident clay gas tooth reform mention kid save path cave police";

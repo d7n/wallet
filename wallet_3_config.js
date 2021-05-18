@@ -1,1 +1,1 @@
-var mnemonic = "detect subject title fossil build raccoon enforce hockey humor digital theory exhaust";
+var mnemonic = "only disorder feed eternal danger scene modify stand six daughter island message";

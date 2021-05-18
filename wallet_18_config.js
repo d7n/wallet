@@ -1,1 +1,1 @@
-var mnemonic = "sunny account ten baby autumn travel trip ketchup install token pluck major";
+var mnemonic = "frozen amazing fork catalog make joke leader cruel trumpet throw until whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "rude uphold enlist stay clap midnight mail slight victory payment city noodle";
+var mnemonic = "current innocent day festival fan excess inch key peasant reduce approve clog";

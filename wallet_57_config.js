@@ -1,1 +1,1 @@
-var mnemonic = "stem drift cook first involve calm rail say rapid large roast option";
+var mnemonic = "gentle clog ball awful giant clean flee around tooth bubble misery prefer";

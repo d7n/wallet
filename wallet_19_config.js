@@ -1,1 +1,1 @@
-var mnemonic = "slow state plastic reflect dynamic assault worth stool exhibit angle sorry spend";
+var mnemonic = "swift useful pause sign cricket dog when fog web uphold embrace unusual";

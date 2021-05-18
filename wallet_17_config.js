@@ -1,1 +1,1 @@
-var mnemonic = "clog comfort high stamp involve exotic ugly orchard achieve index will grief";
+var mnemonic = "split appear furnace embrace hair car wait reflect style put twelve kite";

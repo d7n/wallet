@@ -1,1 +1,1 @@
-var mnemonic = "clarify praise oil shed achieve black hello accident shove very country female";
+var mnemonic = "athlete absurd warfare sound endless luxury fly element proof cliff issue funny";

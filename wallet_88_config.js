@@ -1,1 +1,1 @@
-var mnemonic = "tenant announce client elegant adjust same oil metal phone field unaware evolve";
+var mnemonic = "rabbit clever scare undo demand cook cake corn relief image sell kit";

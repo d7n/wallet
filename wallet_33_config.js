@@ -1,1 +1,1 @@
-var mnemonic = "decorate topple arrange milk north violin avocado apology reduce grunt change small";
+var mnemonic = "gadget snow crop nice path entire point salute laugh egg clog assault";

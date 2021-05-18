@@ -1,1 +1,1 @@
-var mnemonic = "present rifle wreck explain faculty grid intact sort shift song melt voice";
+var mnemonic = "chicken prize sunny film lazy spray grape person foam endorse song boat";

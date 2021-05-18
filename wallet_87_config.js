@@ -1,1 +1,1 @@
-var mnemonic = "emotion topple dune staff faint marine lyrics section clock ranch mass recipe";
+var mnemonic = "purchase vendor uniform copy knock race more device involve genre notice autumn";

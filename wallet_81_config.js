@@ -1,1 +1,1 @@
-var mnemonic = "deposit sausage symptom ordinary echo stool season kangaroo crystal result hole viable";
+var mnemonic = "spot picnic fever lunar govern tank potato zero anchor order dash involve";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern worth belt brass win already luggage forum bulk beauty vintage piece";
+var mnemonic = "panther dust lesson test harvest mango word girl scale love purity jungle";

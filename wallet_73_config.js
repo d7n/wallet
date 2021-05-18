@@ -1,1 +1,1 @@
-var mnemonic = "sponsor route loud rich own bless degree pelican medal strike virtual funny";
+var mnemonic = "disagree basket wait layer oblige sport barely waste sound gorilla physical very";

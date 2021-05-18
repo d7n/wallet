@@ -1,1 +1,1 @@
-var mnemonic = "ranch finger group priority govern orient devote pretty jacket pencil excess end";
+var mnemonic = "soup priority moment bone offer frog congress guess addict skill unique trophy";

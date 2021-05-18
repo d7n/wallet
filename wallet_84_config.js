@@ -1,1 +1,1 @@
-var mnemonic = "frame display baby boss oppose ugly desert leaf purpose enough spring debate";
+var mnemonic = "dinner two sheriff release flush wrong profit inmate pupil include three unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "light boat solar speak stuff clog walk aisle wheat stamp senior moral";
+var mnemonic = "tattoo normal toward victory pride execute found ahead morning decorate churn lesson";

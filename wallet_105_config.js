@@ -1,1 +1,1 @@
-var mnemonic = "crawl kiwi damage warrior ethics make novel aisle mountain miracle flush better";
+var mnemonic = "melody work faint lawn floor burden resist upset head cigar sudden snake";

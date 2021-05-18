@@ -1,1 +1,1 @@
-var mnemonic = "guess message alert bid network car local crunch weather era impulse crew";
+var mnemonic = "skull end pride plastic exhibit episode review impose elite wing model escape";

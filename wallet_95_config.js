@@ -1,1 +1,1 @@
-var mnemonic = "east ancient unusual move peasant hundred credit ticket toilet drink gadget two";
+var mnemonic = "butter pyramid reopen possible virus arch zero over yard sister sing neglect";

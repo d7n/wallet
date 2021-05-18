@@ -1,1 +1,1 @@
-var mnemonic = "history suggest flag excuse wood latin impose puppy cruel top bachelor space";
+var mnemonic = "quit deliver thought quick news whisper staff measure auction coach romance long";

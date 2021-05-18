@@ -1,1 +1,1 @@
-var mnemonic = "jewel enrich farm offer strong staff clap tray accident cherry wolf absorb";
+var mnemonic = "garden uncle dice shy assault sting public suit bridge capital baby swear";

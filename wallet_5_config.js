@@ -1,1 +1,1 @@
-var mnemonic = "quit head demise tomato stamp wool wrestle noble door chase cat cause";
+var mnemonic = "peasant captain decade goose purity helmet place later raccoon hybrid ladder disease";

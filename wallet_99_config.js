@@ -1,1 +1,1 @@
-var mnemonic = "nothing angle reject search patrol snake confirm mountain kitten vessel end output";
+var mnemonic = "mesh screen coast pause stumble wasp heart doll actress month one casino";

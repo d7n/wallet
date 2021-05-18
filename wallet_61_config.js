@@ -1,1 +1,1 @@
-var mnemonic = "doll circle virus toy tornado memory divert opera decorate laugh concert street";
+var mnemonic = "undo ancient false bone planet clump oven awful creek marble priority stomach";

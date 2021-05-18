@@ -1,1 +1,1 @@
-var mnemonic = "arena head height choose ivory kit couple pull finger hunt top calm";
+var mnemonic = "deputy gallery wrist antique feature staff twice whale hip business sing boss";

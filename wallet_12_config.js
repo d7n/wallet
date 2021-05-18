@@ -1,1 +1,1 @@
-var mnemonic = "where switch scrap gate humble heavy submit barrel bind denial this swap";
+var mnemonic = "hello author picture evil novel hip surge equal wire chicken near drift";

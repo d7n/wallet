@@ -1,1 +1,1 @@
-var mnemonic = "enable coach unfair major cupboard jeans coyote movie modify giant keen begin";
+var mnemonic = "shoot acid inch donkey bridge excite try super change asthma loud enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle culture vivid joy party ladder hurt need shift primary nominee inmate";
+var mnemonic = "goose begin depend must glass link leaf timber blouse panic fox piece";

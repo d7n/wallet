@@ -1,1 +1,1 @@
-var mnemonic = "project wheat scrub number reopen coin slender shrug raw kiss drastic wall";
+var mnemonic = "medal lock below plug kitten illegal way bike reduce scatter clap rack";

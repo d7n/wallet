@@ -1,1 +1,1 @@
-var mnemonic = "bounce hurdle hotel medal depth gaze gloom combine deal crunch tube across";
+var mnemonic = "estate tornado city leisure pioneer field finger food cupboard eternal present razor";

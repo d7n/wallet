@@ -1,1 +1,1 @@
-var mnemonic = "practice pretty net divide check favorite normal setup color sustain grow wreck";
+var mnemonic = "transfer minimum woman story page ring news shop during seminar summer review";

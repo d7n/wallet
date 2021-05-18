@@ -1,1 +1,1 @@
-var mnemonic = "crumble peasant chase soccer emotion sauce aspect neutral slush ocean decrease impose";
+var mnemonic = "tenant left apple half furnace purse soft journey cluster more rebel bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "differ useful figure often one dish soap essence tomato raven suspect ahead";
+var mnemonic = "cannon soul impact code empty garage monster argue accuse jelly surprise lend";

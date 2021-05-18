@@ -1,1 +1,1 @@
-var mnemonic = "fly swift matter crack ticket glue crucial napkin vote ceiling spatial swallow";
+var mnemonic = "friend party mean flower armor bronze throw group ski olive grid stage";

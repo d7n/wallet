@@ -1,1 +1,1 @@
-var mnemonic = "shoe now put donkey there wreck enable march guitar eager pioneer update";
+var mnemonic = "vault remember club wage right panda also cream disagree vapor stock make";

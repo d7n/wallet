@@ -1,1 +1,1 @@
-var mnemonic = "useful cheese border safe gun misery ready skin pool tragic memory reveal";
+var mnemonic = "rival aim casual world episode cliff leg useful toddler toe edit pottery";

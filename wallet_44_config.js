@@ -1,1 +1,1 @@
-var mnemonic = "relief clay bonus like maximum sustain detect hungry minimum mom smooth era";
+var mnemonic = "void rebel vote diagram together theme quit enforce engage scan lift boy";

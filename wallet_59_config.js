@@ -1,1 +1,1 @@
-var mnemonic = "stand dream garbage thing horror ethics cage empower park stomach unable wheat";
+var mnemonic = "wolf track quarter planet uphold student girl moon brush book raven month";

@@ -1,1 +1,1 @@
-var mnemonic = "remain holiday orange sort aerobic galaxy double heavy pudding loyal crystal transfer";
+var mnemonic = "lake coyote bomb indicate find charge galaxy access marble often idea boost";

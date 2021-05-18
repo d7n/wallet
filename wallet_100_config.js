@@ -1,1 +1,1 @@
-var mnemonic = "practice spend road nurse palm sphere dance crack access boy pretty degree";
+var mnemonic = "runway shoulder abuse caution filter defense ready notable screen rude field employ";

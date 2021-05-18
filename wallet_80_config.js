@@ -1,1 +1,1 @@
-var mnemonic = "illegal lunch need discover best upset error steak fancy food snack morning";
+var mnemonic = "donor promote carpet movie nerve guess return mixed toy march have lens";

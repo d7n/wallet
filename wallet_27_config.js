@@ -1,1 +1,1 @@
-var mnemonic = "sunny deer text round juice barrel prefer wave defy double simple pyramid";
+var mnemonic = "safe mimic summer surge inside cash grid lucky match dinosaur soda reject";

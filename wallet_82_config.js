@@ -1,1 +1,1 @@
-var mnemonic = "insane spot daring employ birth mirror also target fragile cabin security salute";
+var mnemonic = "dress uncover rebel bargain bicycle board bomb document traffic skull zebra switch";

@@ -1,1 +1,1 @@
-var mnemonic = "journey pattern essay foot close vicious forum carbon order abandon few reform";
+var mnemonic = "daughter tonight electric latin draw main inmate oil subway where fuel wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "steak auction little raise song rebel inform clever join want lounge smart";
+var mnemonic = "six walnut opinion grace game collect level royal rain error evil owner";

@@ -1,1 +1,1 @@
-var mnemonic = "session movie come canyon enlist urge moral two click culture scrap uncover";
+var mnemonic = "rapid any elite normal cat heart maple oak frog board oblige fluid";

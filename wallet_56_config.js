@@ -1,1 +1,1 @@
-var mnemonic = "glance pulp silent shrimp action moon impose honey record much meadow refuse";
+var mnemonic = "tissue dawn solar knife prevent voyage initial tube depart winter quote law";

@@ -1,1 +1,1 @@
-var mnemonic = "firm topple wolf drop cannon imitate maple leisure suffer humble random black";
+var mnemonic = "bread amused found evil crater stand come play thank fiction sorry setup";

@@ -1,1 +1,1 @@
-var mnemonic = "have dutch stairs enforce cousin vintage cup real hope under spoon neither";
+var mnemonic = "father simple illegal ocean during despair crouch urban know matter blind differ";

@@ -1,1 +1,1 @@
-var mnemonic = "please net silk illness december exotic eager process thumb helmet bleak brisk";
+var mnemonic = "brief seek minimum cousin awful tag message item jacket toddler maple angle";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor truth two miracle path lamp estate space office taxi expose sentence";
+var mnemonic = "dove arrive connect baby syrup rapid market shy execute segment crush start";

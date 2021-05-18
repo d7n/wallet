@@ -1,1 +1,1 @@
-var mnemonic = "reunion unfold spirit lemon stand culture obvious impose welcome luxury catalog manual";
+var mnemonic = "cause process entire thrive tower battle balcony need siege green glow engine";

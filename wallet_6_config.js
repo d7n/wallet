@@ -1,1 +1,1 @@
-var mnemonic = "valley attitude deputy fiber hat ketchup swift erupt jar metal clarify fly";
+var mnemonic = "pet eager collect drive train leaf rely glow whip belt shy uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "produce raw desk matter thumb cover raccoon inhale cave output capital marriage";
+var mnemonic = "sick warfare ghost release maple symptom pizza color oak naive original aim";

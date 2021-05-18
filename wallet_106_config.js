@@ -1,1 +1,1 @@
-var mnemonic = "ensure sleep garbage shell skate puzzle pluck syrup liar desk coil bounce";
+var mnemonic = "bicycle mimic sure upper cool diary tunnel misery loyal join basket treat";

@@ -1,1 +1,1 @@
-var mnemonic = "notice popular family ugly during comfort buddy water dilemma motor dwarf promote";
+var mnemonic = "old burger crazy subject wash present rain venture shuffle exit vacuum silly";

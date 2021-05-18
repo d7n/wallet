@@ -1,1 +1,1 @@
-var mnemonic = "refuse interest door envelope middle lunch usage orbit ice height farm creek";
+var mnemonic = "cover gown noise bulk today address drop embrace middle despair midnight brisk";

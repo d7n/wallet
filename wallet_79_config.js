@@ -1,1 +1,1 @@
-var mnemonic = "sheriff walk change suspect team organ screen kitchen awful donkey little about";
+var mnemonic = "lift reject reunion captain voyage loud drive bubble course mind tackle only";

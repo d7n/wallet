@@ -1,1 +1,1 @@
-var mnemonic = "away pottery phrase mad enact rabbit vocal notable cross best habit toe";
+var mnemonic = "spice mirror shoe abandon garment draft true cat account around mountain gold";

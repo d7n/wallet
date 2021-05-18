@@ -1,1 +1,1 @@
-var mnemonic = "chunk shock crucial negative loyal wealth woman radar mystery absurd theory appear";
+var mnemonic = "system vivid virus lamp tired sight box wonder borrow grow paper math";

@@ -1,1 +1,1 @@
-var mnemonic = "because meat suggest this kit capable broom nation call lend artwork brother";
+var mnemonic = "solar artwork win song filter endorse together kick rookie spike prosper alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm mail inherit answer fault region minute work tilt mind poet bag";
+var mnemonic = "guitar song globe eagle color machine version fresh seven rocket lion reopen";

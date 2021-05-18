@@ -1,1 +1,1 @@
-var mnemonic = "lottery wine clip predict dinner dish rookie grain real describe token force";
+var mnemonic = "decide absurd balcony hand bomb memory clog area quote left pink grace";

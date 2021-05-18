@@ -1,1 +1,1 @@
-var mnemonic = "supply copy intact magnet abstract any stone twice museum unusual amount foster";
+var mnemonic = "useless useful worth arrest royal bounce public fetch month water project shoulder";

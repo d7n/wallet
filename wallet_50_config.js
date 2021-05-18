@@ -1,1 +1,1 @@
-var mnemonic = "library layer material cave work swarm identify bomb afford meat blush monitor";
+var mnemonic = "conduct job open brave security shallow laundry uniform scout front miss dolphin";

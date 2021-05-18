@@ -1,1 +1,1 @@
-var mnemonic = "figure vicious brush asthma dawn wink atom company destroy curious cross ecology";
+var mnemonic = "extend grass wine fatal rib head vibrant weasel mushroom artefact device wrong";

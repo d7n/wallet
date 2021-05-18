@@ -1,1 +1,1 @@
-var mnemonic = "wing book episode horn legend autumn wise gossip churn thunder pretty between";
+var mnemonic = "foot whip page stand stomach blossom fish tunnel bag section history puzzle";

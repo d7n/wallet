@@ -1,1 +1,1 @@
-var mnemonic = "potato gun other finger involve angry humble fall exist neither path suggest";
+var mnemonic = "omit devote connect answer cat wheel salad leisure athlete hawk beef bubble";

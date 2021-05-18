@@ -1,1 +1,1 @@
-var mnemonic = "oil resemble rule addict picture taxi obey rookie accident blast soon ill";
+var mnemonic = "icon plate family spring reject major fiber occur box select define access";

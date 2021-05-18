@@ -1,1 +1,1 @@
-var mnemonic = "disease sand possible aware still erode wet check verify path million name";
+var mnemonic = "just laptop giggle manual husband mule fog void grab cross ladder resemble";

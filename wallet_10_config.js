@@ -1,1 +1,1 @@
-var mnemonic = "reduce dish peace chest there course art fury flight loud excess local";
+var mnemonic = "wait early disagree volume elegant curve excuse citizen autumn sea sand nut";

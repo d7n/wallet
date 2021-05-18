@@ -1,1 +1,1 @@
-var mnemonic = "reduce siege liberty perfect daughter timber ramp meat keen coach connect miracle";
+var mnemonic = "lens awesome pull coast prefer cupboard usual average mushroom wife wonder hire";

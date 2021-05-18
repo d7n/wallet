@@ -1,1 +1,1 @@
-var mnemonic = "evidence wedding athlete turkey dirt junk exact stumble renew shoe because assume";
+var mnemonic = "vacant world suit moon bomb silent flush exchange between spend insane call";

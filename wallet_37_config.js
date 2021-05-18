@@ -1,1 +1,1 @@
-var mnemonic = "same behave purpose orient never drift pet later immune banner sketch butter";
+var mnemonic = "foot diagram drill rely advance exist oppose similar quantum auto among fitness";

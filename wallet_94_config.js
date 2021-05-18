@@ -1,1 +1,1 @@
-var mnemonic = "detail bullet tiger alter click panel else voice decade ability demise quick";
+var mnemonic = "metal lawn disease this olympic endless angry record anchor group cube pen";

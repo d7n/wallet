@@ -1,1 +1,1 @@
-var mnemonic = "craft novel wagon purchase yellow hello noble monkey indoor taste vital vote";
+var mnemonic = "pony wagon hour hope volcano suffer negative unfold income input flower say";

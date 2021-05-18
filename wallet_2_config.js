@@ -1,1 +1,1 @@
-var mnemonic = "inspire scorpion help claw move maid reward scout tunnel room together curve";
+var mnemonic = "outside outer tennis sketch thunder kangaroo cruel tail label tide nature pool";

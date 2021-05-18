@@ -1,1 +1,1 @@
-var mnemonic = "shoot between desk imitate judge brass repeat perfect duck stumble have host";
+var mnemonic = "dutch stone cement expose organ begin outdoor bind spatial grief cram quick";

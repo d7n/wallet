@@ -1,1 +1,1 @@
-var mnemonic = "subway student explain traffic squirrel inherit awake barely hat bleak bacon logic";
+var mnemonic = "grass there crop faint today foster crisp sand boil process sign model";

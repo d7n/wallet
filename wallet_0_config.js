@@ -1,1 +1,1 @@
-var mnemonic = "where observe daring impact chaos comfort depth general fatigue divert rug gadget";
+var mnemonic = "usage list remove desk wet kind oppose play scale view mosquito seminar";
