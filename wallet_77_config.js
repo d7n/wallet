@@ -1,1 +1,1 @@
-var mnemonic = "assume slogan swallow brush solar brass junk warm employ dismiss soon wonder";
+var mnemonic = "letter coil remember dial enemy equal amazing bind danger truly success pull";

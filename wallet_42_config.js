@@ -1,1 +1,1 @@
-var mnemonic = "only column noodle tag dynamic miracle supreme travel protect music voice border";
+var mnemonic = "problem tenant good dream lady evolve apology dentist imitate hip verb clap";

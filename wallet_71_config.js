@@ -1,1 +1,1 @@
-var mnemonic = "avoid legal wealth object solar call curtain salon vicious music exclude barely";
+var mnemonic = "bulk antenna tongue news approve shrimp oil emerge popular menu track tiny";

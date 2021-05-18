@@ -1,1 +1,1 @@
-var mnemonic = "retire hero tuna stick announce asset awful seat basic maximum cargo property";
+var mnemonic = "punch prefer renew popular sing usage village salt jar denial only skirt";

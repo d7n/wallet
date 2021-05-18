@@ -1,1 +1,1 @@
-var mnemonic = "glow weather depart lens profit laundry salon gadget assist chase festival pyramid";
+var mnemonic = "advance puzzle river youth summer odor plunge label thunder salute material decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "visit winter evil elite fence hero disease robot unusual slow size field";
+var mnemonic = "unique region bacon diamond library write violin pilot hen spider worry velvet";

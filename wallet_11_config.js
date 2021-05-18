@@ -1,1 +1,1 @@
-var mnemonic = "nasty battle code chuckle win skull face thank peasant problem nuclear fashion";
+var mnemonic = "little patient tobacco salt nephew pride tomorrow snack risk marriage isolate crystal";

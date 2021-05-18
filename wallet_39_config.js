@@ -1,1 +1,1 @@
-var mnemonic = "medal vintage copy tank sting return orbit expose endless foil tribe era";
+var mnemonic = "kite yard dismiss boring admit youth smart fork shed purpose card giraffe";

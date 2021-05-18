@@ -1,1 +1,1 @@
-var mnemonic = "shrug truly case flower couple multiply peace armor bacon swallow portion elevator";
+var mnemonic = "margin bulb fold good rare coconut illegal symbol fancy swallow castle annual";

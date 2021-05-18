@@ -1,1 +1,1 @@
-var mnemonic = "attitude raccoon name pyramid diagram plastic student attend now sail shuffle mushroom";
+var mnemonic = "culture chicken lizard arrive inch extra burger shoulder major salon around glue";

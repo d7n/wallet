@@ -1,1 +1,1 @@
-var mnemonic = "neck adult until pause dinner input coil flash clinic ankle retire kingdom";
+var mnemonic = "snow library few marine ice magnet coral aunt buffalo neglect company armor";

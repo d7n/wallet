@@ -1,1 +1,1 @@
-var mnemonic = "celery around plate gun oblige guilt thumb tonight whale pause book dose";
+var mnemonic = "method unusual universe fever silk achieve drift manage indicate vehicle orbit actress";

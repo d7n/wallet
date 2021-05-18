@@ -1,1 +1,1 @@
-var mnemonic = "buffalo faint neck predict liar world reward erupt resource boost stadium first";
+var mnemonic = "keen twist model road casino test scare segment dignity snack ensure rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "clog pill dream client season puzzle length era try fine author flight";
+var mnemonic = "lake length bullet chicken capital furnace stool weasel knee foil chronic shoulder";

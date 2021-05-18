@@ -1,1 +1,1 @@
-var mnemonic = "pride wife roof fiber lava brief cabbage wage embrace cruise deal pair";
+var mnemonic = "canal excuse hair tennis vibrant gown method scrub reunion media trade nothing";

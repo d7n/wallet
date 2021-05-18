@@ -1,1 +1,1 @@
-var mnemonic = "link wool artefact season script barely outdoor satoshi six urban close impact";
+var mnemonic = "gown stereo essence resource claim pipe shrug dog zoo tank repeat draw";

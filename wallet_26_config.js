@@ -1,1 +1,1 @@
-var mnemonic = "couple squeeze decade hello exhaust snake sweet achieve ask vast wrong chat";
+var mnemonic = "edge pledge else lend select wear rural chicken shadow artwork slam access";

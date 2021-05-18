@@ -1,1 +1,1 @@
-var mnemonic = "dragon valley topic bamboo rate season people bike bone educate funny vocal";
+var mnemonic = "ahead claim design gasp snow legend zoo sniff tilt reveal senior team";

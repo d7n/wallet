@@ -1,1 +1,1 @@
-var mnemonic = "prefer remind chimney giraffe mushroom harsh erase gather mail unit bar net";
+var mnemonic = "torch exit midnight observe napkin impose sponsor matter proof upset traffic calm";

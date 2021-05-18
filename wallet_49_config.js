@@ -1,1 +1,1 @@
-var mnemonic = "document license adult banana parent urban focus sword bench focus bring race";
+var mnemonic = "regular virus swift dash rival open letter pill cotton loop couch luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "grain fat beyond once dice aerobic hurry notable box cliff elegant answer";
+var mnemonic = "liberty same humble glad card solve enable weather grace fiscal force visa";

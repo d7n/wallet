@@ -1,1 +1,1 @@
-var mnemonic = "easy category capital bullet cabin session sister artist hybrid coconut plug sting";
+var mnemonic = "build empty garlic replace service cause monster nasty still quality vessel chimney";

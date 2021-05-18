@@ -1,1 +1,1 @@
-var mnemonic = "suffer rigid critic noble dragon brass invest predict traffic join surround already";
+var mnemonic = "tennis collect trumpet sleep direct palm disease power only attitude flavor dress";

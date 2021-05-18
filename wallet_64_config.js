@@ -1,1 +1,1 @@
-var mnemonic = "faculty next family orange shoot penalty jazz horror razor idle fruit then";
+var mnemonic = "pottery dove galaxy observe fancy matrix bone grab leader brass wrong rescue";

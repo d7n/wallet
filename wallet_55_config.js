@@ -1,1 +1,1 @@
-var mnemonic = "robust artist fitness result yard now chicken robot paddle decline blood churn";
+var mnemonic = "bus quick visa cricket other brand engine field violin impulse certain dune";

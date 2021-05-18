@@ -1,1 +1,1 @@
-var mnemonic = "voice gap diesel floor clock moon accuse ready evil inflict sweet expose";
+var mnemonic = "accuse galaxy crouch glory energy paddle cute liquid keep ocean crush neutral";

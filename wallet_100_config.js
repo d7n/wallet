@@ -1,1 +1,1 @@
-var mnemonic = "elegant bachelor wagon frost clinic figure crater explain snap chunk hood erupt";
+var mnemonic = "whip over october winter table bracket afraid chief animal coral business become";

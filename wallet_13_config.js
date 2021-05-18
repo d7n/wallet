@@ -1,1 +1,1 @@
-var mnemonic = "merry win piano engage into tissue drum process wisdom evidence swap prize";
+var mnemonic = "reveal tell liar owner notice cart genre skill ride glimpse behave drive";

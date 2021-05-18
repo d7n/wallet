@@ -1,1 +1,1 @@
-var mnemonic = "letter hip travel ozone vehicle appear copper picture tumble later melody bullet";
+var mnemonic = "shaft join present olympic quality depth robot dove peasant palm useful outside";

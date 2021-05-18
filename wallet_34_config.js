@@ -1,1 +1,1 @@
-var mnemonic = "boy owner patient puzzle chase ivory six vocal stay spot edge civil";
+var mnemonic = "fever hazard during unveil mammal student nominee chase smart cruise salad trick";

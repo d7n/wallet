@@ -1,1 +1,1 @@
-var mnemonic = "genre tomorrow rebuild universe extra mom hurry finger solution mind extra clean";
+var mnemonic = "cinnamon since amazing mandate sentence city hunt private zone radio robust unlock";

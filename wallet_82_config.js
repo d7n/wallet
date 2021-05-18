@@ -1,1 +1,1 @@
-var mnemonic = "lyrics change scrap indicate fetch whisper curious piano garment retreat hello give";
+var mnemonic = "man bonus pen recall source daughter still fame decade enemy never sausage";

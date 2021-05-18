@@ -1,1 +1,1 @@
-var mnemonic = "quality useless like angry chunk idle link census laptop physical neutral answer";
+var mnemonic = "industry short dry pause exotic enroll female author junk core tissue fatigue";

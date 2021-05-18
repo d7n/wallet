@@ -1,1 +1,1 @@
-var mnemonic = "little census fall position flower beyond render fall coin abstract require arm";
+var mnemonic = "popular all maximum they ecology dash opinion over cherry until holiday execute";

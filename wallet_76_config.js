@@ -1,1 +1,1 @@
-var mnemonic = "cup punch gather solid palace damp jar worry deposit fringe boost ill";
+var mnemonic = "rose inform absurd wasp envelope soft orphan tenant such rival motion topic";

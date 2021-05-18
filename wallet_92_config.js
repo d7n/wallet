@@ -1,1 +1,1 @@
-var mnemonic = "dad enhance army laptop neglect romance company select vital spy slice surround";
+var mnemonic = "hover pact capable umbrella electric slow cereal nice under earn child minor";

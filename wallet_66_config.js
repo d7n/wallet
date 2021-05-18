@@ -1,1 +1,1 @@
-var mnemonic = "patrol taxi betray focus express birth road armed stem when furnace question";
+var mnemonic = "please crime face flower weekend nation much know capital isolate exist nephew";

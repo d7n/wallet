@@ -1,1 +1,1 @@
-var mnemonic = "allow grain usage verb apology dolphin digital behind indicate total require pattern";
+var mnemonic = "lonely mango east birth flavor coconut valve humor flavor section floor mix";

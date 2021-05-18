@@ -1,1 +1,1 @@
-var mnemonic = "document trend radio keep fiber bulk chest amazing raccoon excite polar bone";
+var mnemonic = "chunk that hobby enlist mimic ladder attack wrist lyrics own roof orange";

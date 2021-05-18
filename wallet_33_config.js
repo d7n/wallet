@@ -1,1 +1,1 @@
-var mnemonic = "normal stand wild drop bar spoon logic leg crowd toddler health gentle";
+var mnemonic = "disorder spider pond kangaroo brick idle sphere page glove relief resemble identify";

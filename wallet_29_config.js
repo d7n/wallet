@@ -1,1 +1,1 @@
-var mnemonic = "beyond immense skirt tube usual ball scheme risk mobile pigeon penalty must";
+var mnemonic = "food genius era island glance supply mutual sight erase prevent reform gate";

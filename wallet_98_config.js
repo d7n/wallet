@@ -1,1 +1,1 @@
-var mnemonic = "sand gym broken sentence guard elegant fancy latin tired pioneer orphan piece";
+var mnemonic = "agree crane protect couple cigar sugar diary word across curtain strong immune";

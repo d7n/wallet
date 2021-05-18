@@ -1,1 +1,1 @@
-var mnemonic = "south van august ahead library grass steel forest learn fantasy flavor economy";
+var mnemonic = "bracket mention below lyrics slight furnace inherit promote october cram relax height";

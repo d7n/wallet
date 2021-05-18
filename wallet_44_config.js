@@ -1,1 +1,1 @@
-var mnemonic = "matrix gown clap buyer example notable domain sick shock chief update sort";
+var mnemonic = "web laptop little resemble nest key wrap sheriff device true expire future";

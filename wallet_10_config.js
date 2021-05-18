@@ -1,1 +1,1 @@
-var mnemonic = "advice abandon giggle elder then uniform hazard okay skill tenant display agree";
+var mnemonic = "nose color very inherit cement sea consider region follow layer regret rebel";

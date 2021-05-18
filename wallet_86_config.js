@@ -1,1 +1,1 @@
-var mnemonic = "stone breeze rigid weird glue husband artwork whale caught glory spread quiz";
+var mnemonic = "cruise witness love alter tag whale injury outdoor monitor material problem prepare";

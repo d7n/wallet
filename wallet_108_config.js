@@ -1,1 +1,1 @@
-var mnemonic = "duty prize assault enforce proof icon hill garlic lawn cruise gun cushion";
+var mnemonic = "resource butter excuse spy sail vault quit brave bitter notable panda same";

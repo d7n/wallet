@@ -1,1 +1,1 @@
-var mnemonic = "divorce between inmate ramp wolf dog face swing auction close evoke timber";
+var mnemonic = "resemble grain sense arrange push give nerve gym icon achieve grass traffic";

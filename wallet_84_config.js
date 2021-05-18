@@ -1,1 +1,1 @@
-var mnemonic = "modify resource call market grape meadow tortoise toilet tiny story early labor";
+var mnemonic = "quality tuition merit apple crawl peace head write accuse panel harbor retire";

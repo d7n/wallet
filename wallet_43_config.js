@@ -1,1 +1,1 @@
-var mnemonic = "divorce vapor tree coyote misery horse lonely occur casino silent flash flat";
+var mnemonic = "okay embark spot cereal asset atom speed rate basket miss dash craft";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage laptop oil tumble diamond right disorder coral used lucky hurt human";
+var mnemonic = "nest brick quality general sugar example dignity hawk veteran month great leaf";

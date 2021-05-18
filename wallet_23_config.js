@@ -1,1 +1,1 @@
-var mnemonic = "oak valley wrist slide view plastic board flower tunnel left squeeze bitter";
+var mnemonic = "try taste token battle soul siren scissors butter girl shuffle engage glove";

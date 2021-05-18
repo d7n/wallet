@@ -1,1 +1,1 @@
-var mnemonic = "usage welcome update bid choose silk lecture ugly pumpkin raccoon photo state";
+var mnemonic = "unveil shadow manage express cinnamon kiss safe famous nice rifle never valid";

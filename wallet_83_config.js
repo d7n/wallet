@@ -1,1 +1,1 @@
-var mnemonic = "cotton mechanic omit discover iron palm multiply hundred coffee rug panther view";
+var mnemonic = "rough now shuffle either border talk victory rival combine purity cradle pluck";

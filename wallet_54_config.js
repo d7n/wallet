@@ -1,1 +1,1 @@
-var mnemonic = "speed sword spray because hurdle become crisp nominee lock narrow reduce tennis";
+var mnemonic = "inch inside deer organ squeeze blur thing city couch tongue buffalo federal";

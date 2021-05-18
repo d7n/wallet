@@ -1,1 +1,1 @@
-var mnemonic = "lend cross tattoo brief proud hawk cover beyond knee reform balance drastic";
+var mnemonic = "dish wheel police mango drink object excess snow wish target panda luggage";

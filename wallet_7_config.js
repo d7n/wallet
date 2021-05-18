@@ -1,1 +1,1 @@
-var mnemonic = "miss excess ostrich mystery mask embody between find laptop snap exercise luxury";
+var mnemonic = "wish wise hold black point hospital team day maximum draw quantum olive";

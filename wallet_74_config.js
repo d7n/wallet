@@ -1,1 +1,1 @@
-var mnemonic = "enroll novel license place plastic guide walnut allow vault stomach faint act";
+var mnemonic = "limb outdoor kind birth rent mix network electric alone castle salad twist";

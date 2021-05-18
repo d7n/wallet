@@ -1,1 +1,1 @@
-var mnemonic = "ball bunker sadness off chronic goat mixture chuckle syrup hawk motion gadget";
+var mnemonic = "prevent nature topic robust tide palace stock road army nuclear acoustic soldier";

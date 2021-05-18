@@ -1,1 +1,1 @@
-var mnemonic = "afford pony excess giraffe gym smoke kind inch history anger three worry";
+var mnemonic = "grocery illegal audit pride artefact tennis bundle powder couch like west carry";

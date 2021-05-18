@@ -1,1 +1,1 @@
-var mnemonic = "bean month mom hidden minor genuine width later fatal hollow arrest sheriff";
+var mnemonic = "spell reform clarify need rigid ensure bonus office olympic shadow alert similar";

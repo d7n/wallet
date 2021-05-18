@@ -1,1 +1,1 @@
-var mnemonic = "wisdom concert alone vanish stock host position action mushroom country asthma program";
+var mnemonic = "magic curious mention need again light middle repeat six trial nominee ridge";

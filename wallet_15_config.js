@@ -1,1 +1,1 @@
-var mnemonic = "welcome lava side toast deputy supply bright sting mosquito appear dentist push";
+var mnemonic = "game bicycle tobacco trap glass expect horror energy into lonely note endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "current pilot banner distance sustain style speak view trip umbrella nasty glue";
+var mnemonic = "local speed mosquito push poem bracket cherry text calm fetch rude bag";

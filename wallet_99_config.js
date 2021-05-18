@@ -1,1 +1,1 @@
-var mnemonic = "crowd skin fee success kick song year twin inner grocery family target";
+var mnemonic = "camp gospel bracket gossip fit vanish random december glad square brave paper";

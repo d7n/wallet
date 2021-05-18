@@ -1,1 +1,1 @@
-var mnemonic = "shield power live satisfy fence clap lunch awkward venue ginger symbol describe";
+var mnemonic = "spirit meat bench thunder scare few noise library cute riot that pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis soon sudden hammer deer maze report taxi local receive eyebrow crash";
+var mnemonic = "distance abuse sunset box fashion cheap race exclude giggle amateur merge loop";

@@ -1,1 +1,1 @@
-var mnemonic = "flee promote fetch income lobster twist cactus grief fuel mercy private bacon";
+var mnemonic = "knife day lab cruel wave film uncle struggle cable alter spin cake";

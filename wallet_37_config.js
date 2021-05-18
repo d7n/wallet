@@ -1,1 +1,1 @@
-var mnemonic = "estate initial situate grit three cloud tennis frown soap lab rally expect";
+var mnemonic = "click enjoy renew tube design spice rain reduce bomb toilet immune club";

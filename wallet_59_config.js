@@ -1,1 +1,1 @@
-var mnemonic = "random sponsor humble scheme stem ring rotate apology place dry party frozen";
+var mnemonic = "member accuse minor hat mention father custom rapid initial horse profit task";

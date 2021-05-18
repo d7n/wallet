@@ -1,1 +1,1 @@
-var mnemonic = "disease yard chapter wise winter business coffee armor essay solution safe mechanic";
+var mnemonic = "rapid captain remind solution open chapter deliver moral spin cup cruel notice";

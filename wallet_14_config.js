@@ -1,1 +1,1 @@
-var mnemonic = "perfect quality health can oil bid token snack fantasy win breeze glare";
+var mnemonic = "oil void organ inquiry receive anger trophy dynamic island man vessel rich";

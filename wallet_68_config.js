@@ -1,1 +1,1 @@
-var mnemonic = "time call glimpse month scorpion aunt armor ketchup ski unusual holiday girl";
+var mnemonic = "piano empty coffee sock day common limb gym usual amateur reject excuse";

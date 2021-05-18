@@ -1,1 +1,1 @@
-var mnemonic = "message comfort jelly stove crush unhappy rapid oven sell model divide regular";
+var mnemonic = "rotate capital safe account meadow illness category hold output custom round ugly";

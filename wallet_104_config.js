@@ -1,1 +1,1 @@
-var mnemonic = "brief casino knife tent naive gorilla keen rocket burst tackle assault price";
+var mnemonic = "improve label man forest hockey merry odor bone suit valid metal trick";

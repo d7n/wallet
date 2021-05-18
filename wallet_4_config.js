@@ -1,1 +1,1 @@
-var mnemonic = "occur imitate chair idle aspect sunset version peace spirit fashion tray frame";
+var mnemonic = "frown swarm flee tent item chief proof ghost dutch dog ecology shell";

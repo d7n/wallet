@@ -1,1 +1,1 @@
-var mnemonic = "sure element salt social civil coast small thumb trim desk pact insect";
+var mnemonic = "nest attack wave equal ignore office zoo warfare burden state nest deliver";

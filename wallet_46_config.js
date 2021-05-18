@@ -1,1 +1,1 @@
-var mnemonic = "volcano novel honey sibling asthma vintage couple shove tail car chimney decrease";
+var mnemonic = "what cotton hint cushion accuse sun cave device mail gather resemble current";

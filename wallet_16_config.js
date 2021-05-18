@@ -1,1 +1,1 @@
-var mnemonic = "hundred life balance squeeze tortoise cricket jazz gloom lyrics tackle miss amused";
+var mnemonic = "economy between anger vanish eight october yard medal always put cruel letter";

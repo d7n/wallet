@@ -1,1 +1,1 @@
-var mnemonic = "cost suit rain fatigue warfare relief dove great ordinary donor gadget morning";
+var mnemonic = "pave town pencil sort pen dust stay naive screen debate success amount";

@@ -1,1 +1,1 @@
-var mnemonic = "sell surface own issue chalk script hammer raven cancel cattle neutral because";
+var mnemonic = "agent frozen lawn soap glow acid sand surface episode share crew multiply";

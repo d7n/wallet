@@ -1,1 +1,1 @@
-var mnemonic = "snap tape profit cushion athlete peasant weekend clip black crazy squeeze minute";
+var mnemonic = "essay soccer else cloud absurd reject flavor leg fox sign already culture";

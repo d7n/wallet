@@ -1,1 +1,1 @@
-var mnemonic = "vicious chef clerk agent hockey sketch cluster breeze illness have prison auto";
+var mnemonic = "empower start finger come bean letter abandon armed science east today sport";

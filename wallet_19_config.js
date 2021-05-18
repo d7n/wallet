@@ -1,1 +1,1 @@
-var mnemonic = "yard stamp prosper fetch dynamic type country few sister room giggle chair";
+var mnemonic = "depart urge quiz special tuna coach lottery muffin grunt prison piano kick";

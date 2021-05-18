@@ -1,1 +1,1 @@
-var mnemonic = "various bulb gas hold miss field warrior topic below tennis cube term";
+var mnemonic = "about sign fuel pilot include behave garment slab arena quote bulk rail";

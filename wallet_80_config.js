@@ -1,1 +1,1 @@
-var mnemonic = "planet problem outdoor supreme fly involve lava install exclude resource smoke valid";
+var mnemonic = "lizard jaguar come banana marine rebel whale bus gasp settle harvest drill";

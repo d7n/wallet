@@ -1,1 +1,1 @@
-var mnemonic = "once acid express group spoil input worry cram join evoke broccoli banner";
+var mnemonic = "immune draft open quiz speed tree good hill anger mandate snake pottery";
