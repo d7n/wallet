@@ -1,1 +1,1 @@
-var mnemonic = "into layer discover method travel news exotic tiger design income vendor clump";
+var mnemonic = "used muffin pave lazy human enhance spider reunion track shoe cement sphere";

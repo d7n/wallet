@@ -1,1 +1,1 @@
-var mnemonic = "blossom antique inject modify egg design news only cradle ski rich loud";
+var mnemonic = "size near involve silent front taste snake stand sorry hard age stick";

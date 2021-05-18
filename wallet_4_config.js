@@ -1,1 +1,1 @@
-var mnemonic = "budget destroy sustain swear fox cliff oxygen priority express sick exchange hunt";
+var mnemonic = "analyst polar enroll brother monitor arch fancy pumpkin dish accuse sorry caught";

@@ -1,1 +1,1 @@
-var mnemonic = "flock rotate horse detect bomb judge tide raccoon trophy pyramid any agree";
+var mnemonic = "vault alter rack during table unique trend slender muffin minute invest race";

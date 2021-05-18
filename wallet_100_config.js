@@ -1,1 +1,1 @@
-var mnemonic = "core burger name message fault bounce daughter warm length length vessel arrest";
+var mnemonic = "road squirrel camera yellow fiction just weird alien harvest enable wolf prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "actress delay scorpion planet cruel army anxiety advance tunnel hub village normal";
+var mnemonic = "cry input flavor hockey husband flight income endorse carry rate erase lounge";

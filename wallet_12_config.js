@@ -1,1 +1,1 @@
-var mnemonic = "blast success clinic you truly baby rough couch eyebrow jump dismiss brother";
+var mnemonic = "project iron siren agent solution knock father ostrich hurry noise cube slush";

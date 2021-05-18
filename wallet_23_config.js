@@ -1,1 +1,1 @@
-var mnemonic = "human unusual angle code wish cover rough mammal brick popular absent nuclear";
+var mnemonic = "program apology husband eye layer siren mango put party grief crazy ceiling";

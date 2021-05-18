@@ -1,1 +1,1 @@
-var mnemonic = "degree win clinic live employ uniform supreme before giraffe bounce bike cover";
+var mnemonic = "weather shrimp business magic health achieve seed draft scissors toss ghost estate";

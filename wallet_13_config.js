@@ -1,1 +1,1 @@
-var mnemonic = "fold satisfy rookie enact citizen garden above roof shoulder drift worth village";
+var mnemonic = "gain wrist priority top tortoise ethics gift valve interest budget clap rich";

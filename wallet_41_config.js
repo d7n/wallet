@@ -1,1 +1,1 @@
-var mnemonic = "ice depart jaguar gym pizza ride holiday quiz always ugly essay bag";
+var mnemonic = "tomorrow test divorce notice sweet giggle hobby want ten design outside hospital";

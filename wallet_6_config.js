@@ -1,1 +1,1 @@
-var mnemonic = "allow oppose busy luggage glance sun armor sausage excess balcony disagree cabbage";
+var mnemonic = "update cream harsh tape virtual dwarf spell judge salmon menu awesome priority";

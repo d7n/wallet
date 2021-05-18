@@ -1,1 +1,1 @@
-var mnemonic = "scheme piano frown expect dinner toss grow pledge rib satisfy refuse move";
+var mnemonic = "husband drive rib struggle oven very physical jazz enhance brave dismiss loop";

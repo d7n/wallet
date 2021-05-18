@@ -1,1 +1,1 @@
-var mnemonic = "genre fame six episode giraffe fire equip city live oven electric hurt";
+var mnemonic = "scrub brain sibling cannon scare heavy question stock honey cricket secret electric";

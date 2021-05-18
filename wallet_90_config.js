@@ -1,1 +1,1 @@
-var mnemonic = "visual huge thought govern reunion board patrol alcohol enlist donate number twice";
+var mnemonic = "window stock same above wide clever tube slush gallery slush mother glance";

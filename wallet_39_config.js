@@ -1,1 +1,1 @@
-var mnemonic = "marble marine duck obscure inflict borrow since master trophy praise blouse topic";
+var mnemonic = "visa foster limb check siren pen forum anger rib toward apology summer";

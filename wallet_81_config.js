@@ -1,1 +1,1 @@
-var mnemonic = "tree assault dose forget august cat train husband humor wonder accuse region";
+var mnemonic = "infant crash organ naive track fury just library industry nothing jacket talk";

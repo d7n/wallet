@@ -1,1 +1,1 @@
-var mnemonic = "level radio catalog climb artist settle movie claw combine energy emotion crash";
+var mnemonic = "mirror pudding what creek judge safe lounge hire giraffe kite normal spread";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy execute cheap defense weapon legend you since rose guide heart inherit";
+var mnemonic = "destroy dutch release better stadium click very dawn wagon shiver frequent museum";

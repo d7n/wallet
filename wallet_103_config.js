@@ -1,1 +1,1 @@
-var mnemonic = "enact laugh trouble video moon divide paddle cage whip book cream attract";
+var mnemonic = "panel radio eight stairs bullet normal general giraffe eyebrow hobby category caution";

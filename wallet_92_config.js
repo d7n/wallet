@@ -1,1 +1,1 @@
-var mnemonic = "among addict dolphin fly muscle hero simple dune awesome dentist finish drink";
+var mnemonic = "produce cement what tiny useless motion draw advice budget warm bike infant";

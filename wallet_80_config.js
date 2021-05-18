@@ -1,1 +1,1 @@
-var mnemonic = "sadness swim soccer round humble prosper type shell slam essence copy frequent";
+var mnemonic = "east rule embrace defy someone mirror maple scorpion quiz cricket sorry develop";

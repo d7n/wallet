@@ -1,1 +1,1 @@
-var mnemonic = "entire chat ship cradle field only dynamic race uphold expand kidney team";
+var mnemonic = "extend enable better pause calm elegant alien snake maximum rate leisure syrup";

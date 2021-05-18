@@ -1,1 +1,1 @@
-var mnemonic = "broom pistol marriage craft invest festival web harsh weasel focus predict tired";
+var mnemonic = "outside allow exhaust hedgehog balcony defy cupboard celery twist once fish any";

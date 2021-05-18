@@ -1,1 +1,1 @@
-var mnemonic = "then anchor medal soldier major strike valid news news avocado pill bundle";
+var mnemonic = "language police quantum merge group render payment mistake cry arrest ticket slide";

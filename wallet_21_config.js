@@ -1,1 +1,1 @@
-var mnemonic = "senior injury post fossil magic author key boring dolphin stool mention attitude";
+var mnemonic = "field again moral analyst act peanut pool begin scare child issue sun";

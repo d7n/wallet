@@ -1,1 +1,1 @@
-var mnemonic = "surface spike credit thrive knee mention famous bubble increase ketchup abuse giraffe";
+var mnemonic = "payment upper struggle wear reveal dry change artefact wish viable reflect weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "extend sustain saddle man hybrid agree divorce garlic undo borrow session junior";
+var mnemonic = "language grocery dust push once mixed point illness mix happy glass usual";

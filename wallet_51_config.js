@@ -1,1 +1,1 @@
-var mnemonic = "shed fossil turn glow potato quote rare magic arrive fetch unaware grab";
+var mnemonic = "gym better dog endorse indoor salmon narrow border anchor orchard prize roof";

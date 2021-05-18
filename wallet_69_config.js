@@ -1,1 +1,1 @@
-var mnemonic = "motor grid onion achieve valid ski tape alone fluid glass rifle patient";
+var mnemonic = "blur river custom sing bring armor normal champion team embody nation obvious";

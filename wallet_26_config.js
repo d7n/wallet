@@ -1,1 +1,1 @@
-var mnemonic = "motion squeeze execute include cargo satoshi lend measure discover crawl twenty clip";
+var mnemonic = "nephew swap suffer trash early smoke theme rally daughter orient all stable";

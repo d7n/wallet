@@ -1,1 +1,1 @@
-var mnemonic = "renew inmate repeat false witness solid hidden diagram truck consider fetch employ";
+var mnemonic = "alter jungle series prevent happy reunion sweet wish friend chest check physical";

@@ -1,1 +1,1 @@
-var mnemonic = "expect tool feel nice sad grocery fold balcony adult castle crush robust";
+var mnemonic = "drive rare bench odor tumble mouse chest decorate wasp jaguar wolf sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious essence seat right bag scale state electric innocent elder wild old";
+var mnemonic = "deputy visa garbage shoot guitar promote again join public butter safe narrow";

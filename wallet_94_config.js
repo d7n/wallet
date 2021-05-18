@@ -1,1 +1,1 @@
-var mnemonic = "boost talent cushion gadget useful inherit sound mansion scout infant diary link";
+var mnemonic = "earth armor six venue palace stand rookie effort couple either prepare guilt";

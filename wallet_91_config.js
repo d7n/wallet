@@ -1,1 +1,1 @@
-var mnemonic = "aunt employ noise fire sponsor chair head jump horn solve world during";
+var mnemonic = "vibrant tissue engage shaft pool file need loud tent defy core option";

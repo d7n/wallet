@@ -1,1 +1,1 @@
-var mnemonic = "bracket hip town suit fatigue congress bacon glue stereo hunt hospital entry";
+var mnemonic = "elegant resemble photo crawl hat grant sketch infant disagree own brand bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon educate apple device umbrella inch rent execute demand gun roast judge";
+var mnemonic = "device best noble chunk estate stereo twin inquiry dash insane program hood";

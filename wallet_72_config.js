@@ -1,1 +1,1 @@
-var mnemonic = "define maximum business inhale axis all much remove kiss resemble document donkey";
+var mnemonic = "anxiety method voice twist globe adapt tattoo noodle inherit cup benefit lecture";

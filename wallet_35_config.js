@@ -1,1 +1,1 @@
-var mnemonic = "flame main deposit situate delay crew valley focus wisdom steak romance snow";
+var mnemonic = "slender brisk orient pair obtain endorse true curtain toy border collect miss";

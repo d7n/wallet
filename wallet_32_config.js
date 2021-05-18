@@ -1,1 +1,1 @@
-var mnemonic = "rural face tennis panel cream bar mail huge exhibit polar agree appear";
+var mnemonic = "rose bird senior friend step twelve lounge pottery decrease dismiss put canal";

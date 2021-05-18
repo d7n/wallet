@@ -1,1 +1,1 @@
-var mnemonic = "tired panic mean flat zoo join bulk strategy fit choice tail suffer";
+var mnemonic = "over nerve oyster flavor resource knee boring food under slide symbol strike";

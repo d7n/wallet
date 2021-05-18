@@ -1,1 +1,1 @@
-var mnemonic = "capable ostrich beef frozen service absent chunk blouse glow fade chase staff";
+var mnemonic = "bench elder network express boost pledge husband flame where blast step turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh company car dial around kidney also raise beach hint execute curve";
+var mnemonic = "include judge lizard icon arrange bridge people diesel orphan quote sugar long";

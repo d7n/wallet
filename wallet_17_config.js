@@ -1,1 +1,1 @@
-var mnemonic = "bamboo current birth drum tunnel evolve quiz soul label predict strong combine";
+var mnemonic = "cupboard wild royal invite town segment place coffee grant solar smoke poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "silent bronze mandate stick cable holiday shrug trade hybrid regret scrap planet";
+var mnemonic = "pistol kick short nuclear furnace orange document input ill fire mirror jacket";

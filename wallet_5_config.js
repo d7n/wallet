@@ -1,1 +1,1 @@
-var mnemonic = "notable submit submit exit degree pink cinnamon stone property grit twice swamp";
+var mnemonic = "dynamic sustain happy december erode fish east into mask faint amount excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "lava shy century reveal reduce swap transfer fetch tip attitude yellow bubble";
+var mnemonic = "almost drama rate black rather account connect recall you brain index soap";

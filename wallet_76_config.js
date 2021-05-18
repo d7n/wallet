@@ -1,1 +1,1 @@
-var mnemonic = "security vacuum dynamic hair royal morning brown weapon visa crew dune elite";
+var mnemonic = "stem exhaust cruel rhythm gold hundred distance retreat bag member involve soul";

@@ -1,1 +1,1 @@
-var mnemonic = "piano goose shadow okay fog when heavy rich present can ordinary laptop";
+var mnemonic = "alcohol museum large pottery token grunt stadium they axis juice strong garment";

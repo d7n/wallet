@@ -1,1 +1,1 @@
-var mnemonic = "toy correct physical focus hood music north excuse cabin leisure satisfy dignity";
+var mnemonic = "flight layer very page explain rice entire warfare cigar square family curve";

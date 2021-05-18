@@ -1,1 +1,1 @@
-var mnemonic = "theme degree thought bean suit despair access soccer trend race replace calm";
+var mnemonic = "pact speed time result erupt hope staff elite virus bone logic basic";

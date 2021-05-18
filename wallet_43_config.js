@@ -1,1 +1,1 @@
-var mnemonic = "galaxy liar scout gather clap become web federal welcome elegant scan weasel";
+var mnemonic = "reopen found enact behind crouch twenty genre maid grocery width oil great";

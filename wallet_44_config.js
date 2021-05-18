@@ -1,1 +1,1 @@
-var mnemonic = "stick chunk dentist girl select pipe crouch sound prosper angry produce december";
+var mnemonic = "want cook ten reform nothing century finish dish input rice ensure pen";

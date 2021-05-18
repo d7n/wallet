@@ -1,1 +1,1 @@
-var mnemonic = "nose smart abstract lion bless secret slight churn tank resource organ income";
+var mnemonic = "badge index become subway clump lottery mountain correct poet poem panther gravity";

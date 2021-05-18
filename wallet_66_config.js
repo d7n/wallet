@@ -1,1 +1,1 @@
-var mnemonic = "north alien welcome improve bid recall faith system unaware venture normal become";
+var mnemonic = "front boil only comfort joke cactus save village palace sun insect dice";

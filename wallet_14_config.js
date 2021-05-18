@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bread bronze math ostrich visual direct stand bachelor imitate stumble scrub";
+var mnemonic = "fault hurt cabin egg upper later slab shield disagree saddle dune sugar";

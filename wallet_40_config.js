@@ -1,1 +1,1 @@
-var mnemonic = "tumble title pass proud correct galaxy release trap urban ignore wedding enable";
+var mnemonic = "scorpion ranch light steel day struggle cactus couple grunt palm actress clean";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt cement give canyon emerge helmet lazy depth brief squeeze indicate pitch";
+var mnemonic = "lab evil can desk badge denial estate subject tired example kid stove";

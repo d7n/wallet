@@ -1,1 +1,1 @@
-var mnemonic = "power couple torch april alley corn recipe small cat lamp program announce";
+var mnemonic = "pistol admit settle faculty rocket cement emotion peanut great peace tree club";

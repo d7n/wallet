@@ -1,1 +1,1 @@
-var mnemonic = "cloud apology float federal idle search sleep warm address drink open toast";
+var mnemonic = "claw file solar grocery bubble before picnic clip soda require motor thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "tape obscure define boat curve area frost anxiety thought wait gasp estate";
+var mnemonic = "actress now denial explain hunt leader credit fresh easily enhance trash romance";

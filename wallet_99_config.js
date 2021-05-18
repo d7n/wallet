@@ -1,1 +1,1 @@
-var mnemonic = "spike steak agree reduce tilt bargain tongue level lazy celery pig cycle";
+var mnemonic = "peanut symptom during inner slice globe rocket genuine hotel concert despair urge";

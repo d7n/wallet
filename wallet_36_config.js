@@ -1,1 +1,1 @@
-var mnemonic = "lemon range envelope mix summer upgrade seek clap bid almost biology insect";
+var mnemonic = "enough chef mystery basic assist slab frog prize farm matter breeze tortoise";

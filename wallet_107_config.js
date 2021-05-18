@@ -1,1 +1,1 @@
-var mnemonic = "current chase monkey tourist sleep spoil story girl honey enable armor enact";
+var mnemonic = "tongue sweet you drift guilt goddess believe mixed area knife bulb stem";

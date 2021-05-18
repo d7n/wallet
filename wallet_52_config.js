@@ -1,1 +1,1 @@
-var mnemonic = "forum advice cat finger paper soft boy cricket plastic panel renew error";
+var mnemonic = "series loan erupt build sweet hawk model animal ensure view gorilla sea";

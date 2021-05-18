@@ -1,1 +1,1 @@
-var mnemonic = "erosion rebel local knife chaos opera music blur mouse clay country mobile";
+var mnemonic = "melody divide crawl tree master field remember bounce unfold diary perfect fat";

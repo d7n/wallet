@@ -1,1 +1,1 @@
-var mnemonic = "prison glove quit twice vague lounge myth danger gown wear arch jewel";
+var mnemonic = "version bamboo dad rival recycle scare define copy argue together into hip";

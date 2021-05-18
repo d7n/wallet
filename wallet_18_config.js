@@ -1,1 +1,1 @@
-var mnemonic = "elevator rubber escape oak romance shoulder believe asset start typical fiscal genuine";
+var mnemonic = "swarm drift reward ranch float nasty million upgrade bunker return jealous valid";

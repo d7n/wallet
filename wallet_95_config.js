@@ -1,1 +1,1 @@
-var mnemonic = "include eager glare bunker warfare milk soldier quit window argue boat same";
+var mnemonic = "oxygen open scale tower strike fork insect sell habit today pigeon sketch";

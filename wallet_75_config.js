@@ -1,1 +1,1 @@
-var mnemonic = "acquire trigger hurt slush pulp future target apple plug void again sheriff";
+var mnemonic = "major siege sadness cable shock spoil midnight auto jewel mesh verb jewel";

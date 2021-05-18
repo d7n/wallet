@@ -1,1 +1,1 @@
-var mnemonic = "dumb invest lend chaos act transfer dinosaur clap wheel people detail correct";
+var mnemonic = "organ cake organ used page desert bronze void toss often napkin wedding";

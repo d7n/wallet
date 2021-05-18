@@ -1,1 +1,1 @@
-var mnemonic = "brass local argue heart ostrich sibling tired twist clerk height solution expect";
+var mnemonic = "hair wine dress gym measure skate water vibrant enter discover kangaroo drift";

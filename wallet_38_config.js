@@ -1,1 +1,1 @@
-var mnemonic = "protect ghost apology globe harbor like upper ocean coral three sibling happy";
+var mnemonic = "forward session pond mention execute clap live crunch castle journey base that";

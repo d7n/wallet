@@ -1,1 +1,1 @@
-var mnemonic = "foil tomorrow produce acid acid defy blanket child police erupt warm champion";
+var mnemonic = "talk slow mirror anchor arrive random dog size super swarm member december";

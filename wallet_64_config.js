@@ -1,1 +1,1 @@
-var mnemonic = "sleep doll negative movie paper brush order budget holiday dial document evidence";
+var mnemonic = "hover vibrant balance price labor alone rude stick turtle drive subway monitor";

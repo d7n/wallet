@@ -1,1 +1,1 @@
-var mnemonic = "acoustic better never ski fabric able bronze typical column organ fortune gaze";
+var mnemonic = "warm aim duck skirt detail wasp solar false tribe between unaware tube";

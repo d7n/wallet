@@ -1,1 +1,1 @@
-var mnemonic = "airport three force lava heavy airport occur visual misery advice shrimp mobile";
+var mnemonic = "night arena invite life found silk market below rescue quit doll romance";

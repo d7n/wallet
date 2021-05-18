@@ -1,1 +1,1 @@
-var mnemonic = "size fiscal helmet range fun play sponsor gentle escape bullet riot horse";
+var mnemonic = "toast gauge clap flame chat brave aim inform tuna digital dignity bunker";

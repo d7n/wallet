@@ -1,1 +1,1 @@
-var mnemonic = "grunt hole surround position suffer dune hybrid steak inform blade knock remove";
+var mnemonic = "nerve escape cry bone pen scout rebuild order bicycle immense fix address";

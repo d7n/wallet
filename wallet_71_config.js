@@ -1,1 +1,1 @@
-var mnemonic = "simple lion account weather forest horse steel example abuse calm mushroom session";
+var mnemonic = "lonely offer safe cement turn bullet width slow bar cable river toward";

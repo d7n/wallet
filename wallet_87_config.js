@@ -1,1 +1,1 @@
-var mnemonic = "soap vendor orchard erode never same trouble mushroom giggle jar rack glad";
+var mnemonic = "sword dad fame attract grid range river dragon green cup cage echo";

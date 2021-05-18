@@ -1,1 +1,1 @@
-var mnemonic = "lamp vast heart merry language frost cattle kit youth tilt basic universe";
+var mnemonic = "weekend type breeze giant toe old language session float possible awake kick";

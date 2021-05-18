@@ -1,1 +1,1 @@
-var mnemonic = "nuclear avocado guilt thank yard seed thunder tobacco obscure mule liquid crush";
+var mnemonic = "shiver iron air age coast laptop aerobic lion balcony hundred peanut mad";

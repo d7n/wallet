@@ -1,1 +1,1 @@
-var mnemonic = "volume shop fly tower ability aerobic silly tower net civil riot phone";
+var mnemonic = "attract doll pudding perfect hip repair sphere estate recipe tiny frozen swallow";

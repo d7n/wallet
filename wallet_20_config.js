@@ -1,1 +1,1 @@
-var mnemonic = "skate welcome multiply guess design puzzle device table pepper perfect pill know";
+var mnemonic = "voyage lemon crunch include puzzle water lyrics immense approve feel unable reunion";

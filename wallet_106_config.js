@@ -1,1 +1,1 @@
-var mnemonic = "ritual total morning intact alert rent fit salute earn hobby vintage jungle";
+var mnemonic = "iron saddle trap person announce combine hat few resource magnet ancient tower";

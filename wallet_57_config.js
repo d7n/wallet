@@ -1,1 +1,1 @@
-var mnemonic = "belt bacon retire congress reject lab illegal romance chicken allow wedding random";
+var mnemonic = "method item damp awful can aspect try basket negative mansion bench economy";

@@ -1,1 +1,1 @@
-var mnemonic = "round parrot table learn thing eagle apology alter runway life angle hint";
+var mnemonic = "tuition leaf large amazing cabin memory pass symbol original ready measure dove";
