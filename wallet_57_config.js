@@ -1,1 +1,1 @@
-var mnemonic = "choice thing useful arena prepare sense buyer olympic able lawn must keen";
+var mnemonic = "elbow utility ill melt twice weapon image snow forget spread corn air";

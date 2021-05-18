@@ -1,1 +1,1 @@
-var mnemonic = "dwarf unaware shrimp sing marriage profit fade sort piano move detail paddle";
+var mnemonic = "destroy analyst round correct connect crisp aspect glimpse route beauty beach action";

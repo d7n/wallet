@@ -1,1 +1,1 @@
-var mnemonic = "hard post shoulder soap unit cliff unfold amount west switch three inhale";
+var mnemonic = "vessel island slogan nature crack ability mean swift inject project pave reveal";

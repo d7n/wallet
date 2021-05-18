@@ -1,1 +1,1 @@
-var mnemonic = "garage early bus type dry chapter fire plastic term person fuel meadow";
+var mnemonic = "share huge knock piano breeze worry join cover fiber found skate remind";

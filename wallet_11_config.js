@@ -1,1 +1,1 @@
-var mnemonic = "gas bring pottery clog model decade mix hip level wide outside still";
+var mnemonic = "banana width coach organ enhance feature hotel crash benefit decrease creek power";

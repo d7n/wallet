@@ -1,1 +1,1 @@
-var mnemonic = "metal hill gravity grab tragic hurdle wish mixture turkey garment document manual";
+var mnemonic = "spoon long can arena sister immune output habit fruit mushroom script tired";

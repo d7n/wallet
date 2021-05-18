@@ -1,1 +1,1 @@
-var mnemonic = "glide liberty intact regular insane vital green old wave property museum pottery";
+var mnemonic = "pull obvious disagree real adapt surface volume volume cry theme town manage";

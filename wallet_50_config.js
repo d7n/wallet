@@ -1,1 +1,1 @@
-var mnemonic = "use rib talent seven mechanic mention scan entire kitchen friend mind hobby";
+var mnemonic = "pioneer segment prosper actual else patrol chef coin promote prison loyal client";

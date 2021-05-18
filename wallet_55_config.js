@@ -1,1 +1,1 @@
-var mnemonic = "liar march era midnight soda banner virus anger base setup oven enhance";
+var mnemonic = "around attract useful assist what radio stone height pulp edit wrong abuse";

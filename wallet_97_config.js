@@ -1,1 +1,1 @@
-var mnemonic = "ivory scorpion flip opera mango scheme clog social injury rhythm oyster dune";
+var mnemonic = "link flock episode furnace play crouch nothing insane off electric hope ethics";

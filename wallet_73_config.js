@@ -1,1 +1,1 @@
-var mnemonic = "provide little mention target control breeze bar host huge lazy degree erosion";
+var mnemonic = "wrap act nuclear cargo exotic believe average tornado spoil basic better live";

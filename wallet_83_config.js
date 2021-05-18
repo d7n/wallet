@@ -1,1 +1,1 @@
-var mnemonic = "wrong intact absorb soldier practice define adult birth twin enforce educate blind";
+var mnemonic = "skin cliff leave theme hair property skill same drastic health spatial stool";

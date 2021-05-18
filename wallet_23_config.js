@@ -1,1 +1,1 @@
-var mnemonic = "poverty document crime release situate evolve usual thrive eye escape dose dinosaur";
+var mnemonic = "struggle canoe unusual cheese unaware debate asset install craft eager glass box";

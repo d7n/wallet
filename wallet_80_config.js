@@ -1,1 +1,1 @@
-var mnemonic = "junk prison sister devote timber weird secret sock enroll armor decline spoon";
+var mnemonic = "coin fade domain sun member void proud cannon vintage luggage fold guess";

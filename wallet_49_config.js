@@ -1,1 +1,1 @@
-var mnemonic = "diamond remember camp night trophy snake silly digital ethics soup during bag";
+var mnemonic = "mail turtle glove primary torch jungle evil final agent chat atom ability";

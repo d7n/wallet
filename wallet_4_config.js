@@ -1,1 +1,1 @@
-var mnemonic = "pause gravity arctic input online win diamond sauce wasp choice dial ski";
+var mnemonic = "gesture sight eager celery skill finish will mixed amused inflict problem bomb";

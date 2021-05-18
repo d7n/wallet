@@ -1,1 +1,1 @@
-var mnemonic = "zoo envelope sister calm emotion duck luggage shop salt teach review earn";
+var mnemonic = "subway super game walk fruit cereal three letter slot buzz bus opera";

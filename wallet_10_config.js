@@ -1,1 +1,1 @@
-var mnemonic = "agree sphere collect combine position fix dirt index club ship duck trouble";
+var mnemonic = "assault velvet allow tuition topple trash ghost proof abstract light spare coin";

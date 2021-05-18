@@ -1,1 +1,1 @@
-var mnemonic = "panic ice bone horse lawn puppy universe festival toss inspire length gap";
+var mnemonic = "flight piano base neglect tobacco small arrange girl web cook have vibrant";

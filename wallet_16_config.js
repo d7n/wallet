@@ -1,1 +1,1 @@
-var mnemonic = "bicycle alarm explain keen jeans must gadget true program unusual assist seminar";
+var mnemonic = "foam alone wrist sport inform jealous future uncle other practice grass repeat";

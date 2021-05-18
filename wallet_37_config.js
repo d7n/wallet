@@ -1,1 +1,1 @@
-var mnemonic = "fold kitchen gauge kid avoid palace learn permit grape debris sting sunny";
+var mnemonic = "farm eternal cattle staff eyebrow video kitten chase merit adjust edge oven";

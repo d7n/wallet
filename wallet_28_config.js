@@ -1,1 +1,1 @@
-var mnemonic = "gentle flash inquiry jar weapon exercise case liar nuclear correct gesture attend";
+var mnemonic = "august already club churn draft antenna apart return hybrid patient load grain";

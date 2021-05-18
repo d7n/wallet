@@ -1,1 +1,1 @@
-var mnemonic = "spy dentist coast wrestle seed clump balcony grow brand oppose olympic language";
+var mnemonic = "baby mutual mechanic case deposit surprise guard come method art paper junk";

@@ -1,1 +1,1 @@
-var mnemonic = "modify captain quick best thrive grab cause spray intact organ horn enter";
+var mnemonic = "crush still swap crazy giraffe hair hair club ribbon tornado virus hole";

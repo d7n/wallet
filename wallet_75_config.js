@@ -1,1 +1,1 @@
-var mnemonic = "fix rent senior unaware praise wife math liberty dice cross retire differ";
+var mnemonic = "shrimp athlete jewel scorpion celery any tower picture social alone notice visit";

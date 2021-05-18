@@ -1,1 +1,1 @@
-var mnemonic = "girl future apart siren scare drop sign report prepare bullet sun knock";
+var mnemonic = "exchange voice group edit hair elder legal search grocery avocado tattoo retire";

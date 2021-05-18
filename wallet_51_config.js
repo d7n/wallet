@@ -1,1 +1,1 @@
-var mnemonic = "era tennis wrap sorry have cushion kind march normal swarm load upgrade";
+var mnemonic = "choice write initial image impulse innocent once run coin poet chalk image";

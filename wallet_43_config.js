@@ -1,1 +1,1 @@
-var mnemonic = "segment educate pattern tribe scrub mom still desk kid chicken west hungry";
+var mnemonic = "stem save come sea enough bench focus present banana maid coil half";

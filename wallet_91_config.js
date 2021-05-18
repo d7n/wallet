@@ -1,1 +1,1 @@
-var mnemonic = "rocket welcome culture just voyage praise second frown ethics novel hurry initial";
+var mnemonic = "okay seven practice common orange barely trick traffic element addict spin swear";

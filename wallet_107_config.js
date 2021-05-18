@@ -1,1 +1,1 @@
-var mnemonic = "spike flag drama subway poet cash often neglect knee marble bulk style";
+var mnemonic = "auto hammer unfair dinosaur adult alpha version detail side country twice favorite";

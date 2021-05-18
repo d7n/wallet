@@ -1,1 +1,1 @@
-var mnemonic = "pepper box move picture tuna maze hand again glide convince addict butter";
+var mnemonic = "august east soda almost topic faint woman steel worry write space enemy";

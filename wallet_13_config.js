@@ -1,1 +1,1 @@
-var mnemonic = "peace bargain toss sorry parade deer illegal flush program draft intact license";
+var mnemonic = "spell okay private ostrich math brave absorb skate connect stick snake defense";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut unique gravity combine era multiply legend ensure creek glare much dry";
+var mnemonic = "case gown vessel term belt tonight episode brown dream huge fame runway";

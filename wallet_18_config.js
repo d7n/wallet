@@ -1,1 +1,1 @@
-var mnemonic = "host unit south evolve trust embody digital recipe tape alarm umbrella advance";
+var mnemonic = "buyer copy chaos essay churn orphan accuse start prosper hour enlist often";

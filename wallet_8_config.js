@@ -1,1 +1,1 @@
-var mnemonic = "general gasp horn vacuum two upper cousin ship scout will tell question";
+var mnemonic = "daughter retreat explain fade turn entire voice dutch latin taste extra clay";

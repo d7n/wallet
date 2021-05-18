@@ -1,1 +1,1 @@
-var mnemonic = "donkey flower attend castle uniform exit rebuild enable salt version property indoor";
+var mnemonic = "artist young control honey field neutral check parrot differ need make narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "supply negative erosion rich liquid disagree wheel scout regular leader leader dizzy";
+var mnemonic = "select awkward trumpet morning inquiry lunch ahead ability glow pigeon sock upset";

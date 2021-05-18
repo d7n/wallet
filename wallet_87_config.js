@@ -1,1 +1,1 @@
-var mnemonic = "text first brother try hole recipe maze outer shiver health wink drive";
+var mnemonic = "noodle rose cotton robust win biology sand paper today safe funny ability";

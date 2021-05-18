@@ -1,1 +1,1 @@
-var mnemonic = "truth habit army across cruel physical latin acid chief jump vital hollow";
+var mnemonic = "able use enjoy child marble window extend force tube cute target file";

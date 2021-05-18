@@ -1,1 +1,1 @@
-var mnemonic = "tone accident angry fold much bronze april pond cheese come speak execute";
+var mnemonic = "time sibling divide pudding wagon aspect obvious dust joy vehicle attitude together";

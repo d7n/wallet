@@ -1,1 +1,1 @@
-var mnemonic = "supply fossil minor negative act snack live upset today crew ranch alien";
+var mnemonic = "infant blame visual dwarf forest weekend barely pepper raw tape dove opera";

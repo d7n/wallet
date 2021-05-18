@@ -1,1 +1,1 @@
-var mnemonic = "evolve verb random beyond injury pupil link hurry fatal hard deal network";
+var mnemonic = "tent fall source record flash come typical pond strong wide portion solid";

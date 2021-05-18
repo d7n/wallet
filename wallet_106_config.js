@@ -1,1 +1,1 @@
-var mnemonic = "pluck divert genre minimum scheme addict business soldier soccer embrace copy forget";
+var mnemonic = "matrix luggage switch vibrant reveal verb weasel practice bar oppose alpha amused";

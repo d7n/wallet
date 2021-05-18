@@ -1,1 +1,1 @@
-var mnemonic = "before drama double next crucial olympic audit dice display any share tunnel";
+var mnemonic = "comic furnace talk such wagon opinion until icon rely festival wedding filter";

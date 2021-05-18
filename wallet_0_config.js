@@ -1,1 +1,1 @@
-var mnemonic = "inside arch ozone cement marble jewel athlete found enrich typical grass olive";
+var mnemonic = "wash matrix multiply patch dinosaur accuse derive soft novel wolf fork because";

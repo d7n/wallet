@@ -1,1 +1,1 @@
-var mnemonic = "swear device alone neglect cousin hurt vessel wrestle move powder since icon";
+var mnemonic = "piano put museum maid share connect gospel split solar dream muscle bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup upgrade visa art auction orbit pause setup matrix gadget zero air";
+var mnemonic = "stumble settle surge member notice silent world idea joke hen detail brain";

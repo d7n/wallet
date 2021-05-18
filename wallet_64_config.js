@@ -1,1 +1,1 @@
-var mnemonic = "sibling repair six interest fetch addict hedgehog gloom sport swamp tank assume";
+var mnemonic = "gauge hen law talent stove special future frozen vote neck romance category";

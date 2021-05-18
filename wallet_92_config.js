@@ -1,1 +1,1 @@
-var mnemonic = "excess allow tube hunt episode honey vague surface wisdom mixed search afraid";
+var mnemonic = "upgrade wood side truth cry muffin crater carbon crack spice unusual course";

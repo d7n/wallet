@@ -1,1 +1,1 @@
-var mnemonic = "wash giggle private only flat clerk drip silver foil wonder other jungle";
+var mnemonic = "weird army volcano first write only evil taste find hero volume crawl";

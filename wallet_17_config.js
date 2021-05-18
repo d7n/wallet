@@ -1,1 +1,1 @@
-var mnemonic = "mask guitar execute exhibit time okay night feed royal siren tell kitten";
+var mnemonic = "sunset climb output label double young jewel arch destroy wrestle useful wink";

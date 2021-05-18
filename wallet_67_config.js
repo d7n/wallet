@@ -1,1 +1,1 @@
-var mnemonic = "wire shoot drill priority equal welcome improve beauty coffee job employ ankle";
+var mnemonic = "fit clip rotate rich ball chief wing broccoli soda explain guard fox";

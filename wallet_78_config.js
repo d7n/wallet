@@ -1,1 +1,1 @@
-var mnemonic = "side wash pipe exchange action absent mosquito hazard deliver boring legend toddler";
+var mnemonic = "reopen accident kitchen slam december odor narrow fresh catalog host rough pattern";

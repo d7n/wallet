@@ -1,1 +1,1 @@
-var mnemonic = "rain depend future border tired discover blouse sunny pumpkin prepare lumber outside";
+var mnemonic = "credit have express next what hill economy mutual brush drastic input fitness";

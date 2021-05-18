@@ -1,1 +1,1 @@
-var mnemonic = "account amused remove candy jar issue august series goat second rare mention";
+var mnemonic = "ocean indoor happy bean derive aisle teach grunt bright trigger strategy abandon";

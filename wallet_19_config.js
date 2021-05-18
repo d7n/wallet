@@ -1,1 +1,1 @@
-var mnemonic = "orient mercy add romance maximum absurd muffin want region endorse grace census";
+var mnemonic = "index develop aisle total eye step logic vendor old twelve dash cube";

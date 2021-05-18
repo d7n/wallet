@@ -1,1 +1,1 @@
-var mnemonic = "control begin thing cable attract universe notable tower brown key leader wine";
+var mnemonic = "multiply gift deliver throw pattern device maze weapon grape child panel gorilla";

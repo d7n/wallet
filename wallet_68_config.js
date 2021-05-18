@@ -1,1 +1,1 @@
-var mnemonic = "plug output wise dice track undo bike surprise adapt wood mom sunset";
+var mnemonic = "taste camp empower balance repair because broken size language borrow cheese valid";

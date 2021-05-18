@@ -1,1 +1,1 @@
-var mnemonic = "title spatial mom venue bacon pluck local view endorse grit weasel nest";
+var mnemonic = "flash empty comfort unit frozen army lawn grab spider despair result patient";

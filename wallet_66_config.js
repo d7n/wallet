@@ -1,1 +1,1 @@
-var mnemonic = "either canyon legend zoo act much dose whip unable trial foam mention";
+var mnemonic = "error rotate whale cable strike shaft inside debate fatigue try decrease ceiling";

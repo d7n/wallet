@@ -1,1 +1,1 @@
-var mnemonic = "talk chef twice grow basic among doll favorite head cover pass prefer";
+var mnemonic = "deal pupil doctor veteran ensure position legend yard strong open echo kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "sight burst impose february fan card delay dragon grape social auto frog";
+var mnemonic = "bracket trial planet usage afraid void hybrid ranch swap digital culture shock";

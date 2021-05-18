@@ -1,1 +1,1 @@
-var mnemonic = "leopard off analyst iron hotel trick crystal gas pet address nose spike";
+var mnemonic = "attack about grid ramp goose clip search key fetch ball critic assist";

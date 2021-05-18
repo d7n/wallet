@@ -1,1 +1,1 @@
-var mnemonic = "birth scatter scatter program prize vanish run solve amused clinic word bottom";
+var mnemonic = "century alone initial fashion dynamic essay tape swift below copy scheme ivory";

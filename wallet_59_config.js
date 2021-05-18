@@ -1,1 +1,1 @@
-var mnemonic = "royal salad strong glare cook abandon drop medal valley example head patient";
+var mnemonic = "inquiry tennis panther female together parrot hover harbor refuse immune health spend";

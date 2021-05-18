@@ -1,1 +1,1 @@
-var mnemonic = "shrimp helmet police atom away royal ostrich quantum suggest pole hold market";
+var mnemonic = "route sunset hold census pencil dwarf tuition lazy upon home discover silent";

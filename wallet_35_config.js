@@ -1,1 +1,1 @@
-var mnemonic = "segment float turtle walnut phrase actress trade pen whip series door excess";
+var mnemonic = "term arch blur enough recipe profit unusual airport afford tennis wrong marriage";

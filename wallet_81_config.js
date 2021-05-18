@@ -1,1 +1,1 @@
-var mnemonic = "health world tattoo cluster grit ancient capital fresh smooth grass throw side";
+var mnemonic = "remind method stamp super soul spy only near shed moment icon flag";

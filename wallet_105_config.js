@@ -1,1 +1,1 @@
-var mnemonic = "control lock tone slim pony bullet arch only cruel rack notable apart";
+var mnemonic = "tunnel various unlock unfair hidden fossil inmate public brass obvious speak lawn";

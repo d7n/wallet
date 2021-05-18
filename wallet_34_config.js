@@ -1,1 +1,1 @@
-var mnemonic = "pledge luxury return rent bottom dynamic pill sketch table method shield genius";
+var mnemonic = "cart skirt lucky cricket prevent ritual grace airport orchard column walk you";

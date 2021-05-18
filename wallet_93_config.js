@@ -1,1 +1,1 @@
-var mnemonic = "immense vault zone bulb power borrow lounge detect very gentle regret message";
+var mnemonic = "matter dish park select traffic excess mandate devote pipe gentle arch flee";

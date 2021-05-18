@@ -1,1 +1,1 @@
-var mnemonic = "dress fox wise town explain album chronic siege crunch oil tone cradle";
+var mnemonic = "bicycle era pull answer coast word submit decade tortoise dance idea type";

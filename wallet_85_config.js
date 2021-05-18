@@ -1,1 +1,1 @@
-var mnemonic = "toddler rubber alley diary change risk pretty dragon wasp achieve satoshi innocent";
+var mnemonic = "say split ceiling indoor asthma palace paddle glove model assist decade rain";

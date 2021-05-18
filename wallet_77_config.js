@@ -1,1 +1,1 @@
-var mnemonic = "hobby orange bean scene merry wagon excite plunge bundle unfold scrub pulp";
+var mnemonic = "require ride wheel camera thunder palace humor lecture okay property supreme police";

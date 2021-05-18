@@ -1,1 +1,1 @@
-var mnemonic = "glare royal best ordinary current calm century false exotic trust box pool";
+var mnemonic = "wisdom use butter merge dry identify clay trim equip hero pilot catalog";

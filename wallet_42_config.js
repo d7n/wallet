@@ -1,1 +1,1 @@
-var mnemonic = "veteran debate hamster lunch zero wonder brisk evil expose mercy powder liar";
+var mnemonic = "lift puzzle syrup egg fresh tennis common knee six stadium gasp cross";

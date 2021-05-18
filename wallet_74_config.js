@@ -1,1 +1,1 @@
-var mnemonic = "skin crystal razor shallow tumble image bamboo ignore biology burger topic mind";
+var mnemonic = "december camp provide fly below reunion lend quote still trim explain icon";

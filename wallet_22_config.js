@@ -1,1 +1,1 @@
-var mnemonic = "surprise deer invite exit scare wrestle together satoshi fit october danger reform";
+var mnemonic = "will pelican pitch cram helmet love clarify license game aspect kitchen museum";

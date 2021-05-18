@@ -1,1 +1,1 @@
-var mnemonic = "inside merit lawsuit spoil pill allow bridge waste artwork gossip squeeze funny";
+var mnemonic = "wait dish month woman describe sample dragon nest sphere baby ceiling chef";

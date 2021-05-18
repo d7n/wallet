@@ -1,1 +1,1 @@
-var mnemonic = "decide tongue laugh board family will right voyage like nuclear liar noise";
+var mnemonic = "better flush claw under egg agree resist banner orchard young glide zero";

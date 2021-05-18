@@ -1,1 +1,1 @@
-var mnemonic = "milk thunder sting supply machine fabric battle carbon client mean place sure";
+var mnemonic = "seat dragon window onion adjust draft regular orchard enough general fit super";

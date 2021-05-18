@@ -1,1 +1,1 @@
-var mnemonic = "evolve rain frost bread inmate sibling audit noble entire blush attitude hope";
+var mnemonic = "dash know guide wrist all giggle coach energy wave record vapor peace";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer hope when survey indicate thumb produce swift film produce pig pumpkin";
+var mnemonic = "card void repeat fitness clarify manage phone fatal huge credit special cute";

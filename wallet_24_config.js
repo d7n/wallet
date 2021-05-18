@@ -1,1 +1,1 @@
-var mnemonic = "shield eternal goddess scrap pause police radar bulb faint scout girl rice";
+var mnemonic = "submit never aisle trap midnight wing stick habit grace enact gaze film";

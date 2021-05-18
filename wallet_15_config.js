@@ -1,1 +1,1 @@
-var mnemonic = "luggage plastic ring sponsor hollow path roof cram vintage smile shoulder junior";
+var mnemonic = "hidden decide afford cheese tank vast trash yard inform coast surround trust";

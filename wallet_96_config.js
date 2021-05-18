@@ -1,1 +1,1 @@
-var mnemonic = "endless card utility club journey mule tattoo spirit ship glory alter remember";
+var mnemonic = "cage powder away square corn deal candy pizza position position drama draft";

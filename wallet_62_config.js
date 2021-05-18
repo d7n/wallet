@@ -1,1 +1,1 @@
-var mnemonic = "habit pony royal track denial such marble win hurry amazing disagree erupt";
+var mnemonic = "aisle leisure globe power milk tonight garbage lens type brief prize buyer";

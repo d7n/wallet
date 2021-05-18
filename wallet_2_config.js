@@ -1,1 +1,1 @@
-var mnemonic = "slush pony dash flee boost piano crucial wrestle inmate gold wheat document";
+var mnemonic = "street section digital develop icon amazing depart anxiety slight bottom spot output";

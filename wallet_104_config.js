@@ -1,1 +1,1 @@
-var mnemonic = "rule beyond sorry bright dinner runway either scrub grit decide tilt alone";
+var mnemonic = "clown ordinary search luxury abstract suspect guilt slim master noodle where health";

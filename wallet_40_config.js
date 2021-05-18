@@ -1,1 +1,1 @@
-var mnemonic = "correct stuff twenty guilt jealous during again current hundred check chef wink";
+var mnemonic = "evidence dove license word march simple quit spell thunder fresh cradle trap";

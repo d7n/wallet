@@ -1,1 +1,1 @@
-var mnemonic = "fat absent universe video soda derive rug uncover sure bring cross brick";
+var mnemonic = "strategy hover priority circle rice kite brand proof piano couple random team";

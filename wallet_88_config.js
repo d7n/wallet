@@ -1,1 +1,1 @@
-var mnemonic = "shield permit grid puppy olympic planet series bicycle able point blanket flat";
+var mnemonic = "vibrant service swing order vehicle make security domain addict quit advice stairs";

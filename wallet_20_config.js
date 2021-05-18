@@ -1,1 +1,1 @@
-var mnemonic = "lady glance salt able empower boring this wash coast december analyst together";
+var mnemonic = "transfer exist reveal just equal broken project dragon city member follow fever";
