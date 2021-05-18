@@ -1,1 +1,1 @@
-var mnemonic = "lake wage retire rigid park forget sketch food favorite upper ski tomorrow";
+var mnemonic = "news stadium veteran hazard mind fluid brand raise enlist ask beach combine";

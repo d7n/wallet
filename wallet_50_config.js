@@ -1,1 +1,1 @@
-var mnemonic = "rubber noble glide able honey reward supreme veteran tray cost shy unfold";
+var mnemonic = "early direct solve giggle dinner car circle inject worth vicious thank taxi";

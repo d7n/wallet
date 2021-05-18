@@ -1,1 +1,1 @@
-var mnemonic = "lounge any island detail prepare glue jump have cherry entire boat load";
+var mnemonic = "lonely cereal spirit much jacket gorilla canal space birth floor unit festival";

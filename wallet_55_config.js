@@ -1,1 +1,1 @@
-var mnemonic = "sell group child six despair call spawn truth west fancy symptom belt";
+var mnemonic = "minimum ostrich drive syrup excuse diagram knife enjoy side farm fringe desert";

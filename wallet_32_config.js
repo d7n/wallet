@@ -1,1 +1,1 @@
-var mnemonic = "eye bubble appear boss service acid blast spend lemon delay discover movie";
+var mnemonic = "uniform regret sister forum monkey goat wire rigid arch ceiling beef explain";

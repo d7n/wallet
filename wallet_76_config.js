@@ -1,1 +1,1 @@
-var mnemonic = "struggle together banner utility glimpse wolf carry original network side wide eager";
+var mnemonic = "icon edit pledge elevator fish coral cable develop screen bridge almost foot";

@@ -1,1 +1,1 @@
-var mnemonic = "drip fuel guide spoil sketch space illness extra empty credit gallery three";
+var mnemonic = "remain juice draw zone another young rural bind honey dignity embrace story";

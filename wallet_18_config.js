@@ -1,1 +1,1 @@
-var mnemonic = "success ranch small proof style remove angle outdoor wife grief merry cash";
+var mnemonic = "olive adapt crouch loud order test universe artist cinnamon afford essence room";

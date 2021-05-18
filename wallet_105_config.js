@@ -1,1 +1,1 @@
-var mnemonic = "avocado that spider aware screen shop label desert middle path cancel imitate";
+var mnemonic = "harvest clever army peanut mouse rely seat suspect shed ill memory uphold";

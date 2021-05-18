@@ -1,1 +1,1 @@
-var mnemonic = "toss bounce cash destroy number nature ridge satisfy come tomato cotton name";
+var mnemonic = "supreme calm what choose favorite office ensure blame waste approve accuse pony";

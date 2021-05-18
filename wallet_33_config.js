@@ -1,1 +1,1 @@
-var mnemonic = "cluster inject furnace cereal portion treat chalk axis ribbon minor gift vanish";
+var mnemonic = "month spoil token ramp video dolphin slim rebuild explain page source exile";

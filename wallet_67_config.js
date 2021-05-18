@@ -1,1 +1,1 @@
-var mnemonic = "match glow hotel lecture same awake resemble region merry home involve dash";
+var mnemonic = "duck one weapon surprise warfare fever turkey drink steak example near truck";

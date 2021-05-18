@@ -1,1 +1,1 @@
-var mnemonic = "depend predict hint ocean master minimum dumb garlic afford palm senior public";
+var mnemonic = "meadow base present reopen genuine apart month match elder someone crop pizza";

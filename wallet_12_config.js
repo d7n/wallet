@@ -1,1 +1,1 @@
-var mnemonic = "caution size truly cover strike zero piano vendor game erupt spare betray";
+var mnemonic = "balance family master clip tonight jump oxygen symptom piano monkey animal kid";

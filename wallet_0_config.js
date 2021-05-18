@@ -1,1 +1,1 @@
-var mnemonic = "tube pencil duty glow peace jazz alert prepare globe tennis omit jar";
+var mnemonic = "narrow arrow this outside despair patch among produce table material soap web";

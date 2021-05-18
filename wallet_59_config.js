@@ -1,1 +1,1 @@
-var mnemonic = "choose fatal record thank fetch hill three lab possible range cable rain";
+var mnemonic = "fine slide bus almost venture song race churn annual amused asset hat";

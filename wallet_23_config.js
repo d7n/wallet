@@ -1,1 +1,1 @@
-var mnemonic = "toe tray muffin sad audit enable ticket service bar seven vehicle oblige";
+var mnemonic = "discover pave resource actress punch bag surprise arrive gospel gift only curtain";

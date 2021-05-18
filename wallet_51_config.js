@@ -1,1 +1,1 @@
-var mnemonic = "plastic wonder real pattern ginger float moment dog accident boy shop combine";
+var mnemonic = "truth hybrid spare hand pear pepper bulk stove warfare fragile parade shy";

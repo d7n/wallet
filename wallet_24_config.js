@@ -1,1 +1,1 @@
-var mnemonic = "disease december cargo hope timber puppy joy region lend citizen crime fuel";
+var mnemonic = "kangaroo arrow govern cycle slice debris seat manual patch gate lesson grape";

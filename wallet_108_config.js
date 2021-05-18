@@ -1,1 +1,1 @@
-var mnemonic = "useless people shine connect typical surround wire agree blind view fruit camera";
+var mnemonic = "response relief note frozen twice jelly axis offer ugly close arrange category";

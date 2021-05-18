@@ -1,1 +1,1 @@
-var mnemonic = "grain paddle thank siren knock ancient enemy harsh slush save write glory";
+var mnemonic = "helmet rich chase monkey gap street corn fire thing vintage force ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "soul ancient coach cotton alter believe combine actress purse duty north win";
+var mnemonic = "suggest soul wage senior fury two kangaroo faith rain cluster early gym";

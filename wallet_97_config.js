@@ -1,1 +1,1 @@
-var mnemonic = "error dove panic improve awful summer weird liquid chicken coconut stage coral";
+var mnemonic = "aunt legal sense mean summer key scrap brother hand blast loan baby";

@@ -1,1 +1,1 @@
-var mnemonic = "boost gather cover little wall churn nose kit text mouse desk artefact";
+var mnemonic = "assist buyer tray auction educate riot enact snack question cruise cool desert";

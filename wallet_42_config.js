@@ -1,1 +1,1 @@
-var mnemonic = "sunny captain awkward vacant short smoke sustain umbrella benefit hour cricket mention";
+var mnemonic = "mixed armed sniff desk canyon fan duck pigeon river limit notice collect";

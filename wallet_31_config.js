@@ -1,1 +1,1 @@
-var mnemonic = "tooth awful axis damage crumble bubble expire model memory sing there tumble";
+var mnemonic = "defy velvet hope wine dinosaur artwork beef flock jeans merit object shell";

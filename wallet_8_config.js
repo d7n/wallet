@@ -1,1 +1,1 @@
-var mnemonic = "furnace pulp garden suffer dream mule hint remember viable spider cannon believe";
+var mnemonic = "reduce alert nothing ginger diamond citizen unaware jazz sweet cloud tumble beef";

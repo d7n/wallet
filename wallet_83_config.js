@@ -1,1 +1,1 @@
-var mnemonic = "warrior roast flavor fancy inch point bitter obvious airport angry draw caution";
+var mnemonic = "virtual spirit affair maze poem cheap prize news walnut purity state garbage";

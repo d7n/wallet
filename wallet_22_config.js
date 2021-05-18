@@ -1,1 +1,1 @@
-var mnemonic = "syrup second reform saddle depart valid brick approve middle miss inquiry wood";
+var mnemonic = "layer bag bachelor ski pencil cable divide steel tenant word seek empty";

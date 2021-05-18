@@ -1,1 +1,1 @@
-var mnemonic = "genre afford dove thought curious ankle ozone salmon senior hint beauty corn";
+var mnemonic = "minor oval else garlic fresh combine version file resemble job edit cost";

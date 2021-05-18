@@ -1,1 +1,1 @@
-var mnemonic = "bracket hood memory cattle banana spawn marble idea answer since safe orbit";
+var mnemonic = "whale creek emotion art december snap bike category ticket fan gain lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "problem mansion welcome age coffee rack summer hover bargain pluck anger hawk";
+var mnemonic = "buzz length lens day urge phrase cricket obtain black cactus siege credit";

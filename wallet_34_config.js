@@ -1,1 +1,1 @@
-var mnemonic = "kiss path barrel spike helmet mother face canvas position famous page gentle";
+var mnemonic = "dash canvas repair jaguar pool boil orchard benefit game seven usual goose";

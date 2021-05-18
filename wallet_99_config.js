@@ -1,1 +1,1 @@
-var mnemonic = "force way merit broken evoke holiday kiss mom enhance because negative rate";
+var mnemonic = "differ canvas sponsor wait huge recycle palm object design improve board toss";

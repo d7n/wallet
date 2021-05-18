@@ -1,1 +1,1 @@
-var mnemonic = "cake army hunt example give sketch logic labor net morning tent cost";
+var mnemonic = "element clip object govern team frown merit absurd broom alpha approve wrap";

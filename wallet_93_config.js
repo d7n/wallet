@@ -1,1 +1,1 @@
-var mnemonic = "gold expire segment dynamic purity affair dirt spray slender million stamp merry";
+var mnemonic = "ocean ship virus scorpion mansion rich cloud upon bounce reopen uniform slide";

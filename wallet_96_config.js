@@ -1,1 +1,1 @@
-var mnemonic = "cover device switch pelican record mother razor nut anxiety two electric basket";
+var mnemonic = "dizzy impulse allow pyramid shed stay hair unable size coach stadium nephew";

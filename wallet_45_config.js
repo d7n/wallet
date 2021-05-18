@@ -1,1 +1,1 @@
-var mnemonic = "wage network web chaos rug fruit moral muffin puzzle usage horror brother";
+var mnemonic = "mass brown example select wage diagram hint ability page essence clever wasp";

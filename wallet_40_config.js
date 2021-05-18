@@ -1,1 +1,1 @@
-var mnemonic = "attract disease valve next noble level april addict wear dwarf lizard legend";
+var mnemonic = "frozen rely alter exhibit soldier sad crane romance must age exile box";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy boost must stock warrior hood gospel uniform blade flavor drift circle";
+var mnemonic = "dynamic dove video elbow arrive gain salt horn burden pen obscure roast";

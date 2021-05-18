@@ -1,1 +1,1 @@
-var mnemonic = "record search master system pattern canvas polar sniff expose enable sausage wife";
+var mnemonic = "pear skill lunar umbrella curious prison child vast motion squirrel border erupt";

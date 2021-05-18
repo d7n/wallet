@@ -1,1 +1,1 @@
-var mnemonic = "receive disease entry asthma frozen cricket base scissors enlist hip rival abuse";
+var mnemonic = "online lunar earn rose fork hole cave family tragic seek duck alley";

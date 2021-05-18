@@ -1,1 +1,1 @@
-var mnemonic = "fresh kid crystal panda moon lunar verb price multiply kitchen spare common";
+var mnemonic = "will nice fan pride track genuine element sniff obtain clerk true inject";

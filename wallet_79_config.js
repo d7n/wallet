@@ -1,1 +1,1 @@
-var mnemonic = "wonder again sound problem woman sword own slice tomorrow opinion wait inquiry";
+var mnemonic = "moment noise maze cabin critic cheese fade soccer elder explain endless spoon";

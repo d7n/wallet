@@ -1,1 +1,1 @@
-var mnemonic = "margin awake torch short before various document box first polar industry swim";
+var mnemonic = "prepare grunt believe mind crawl always police picnic verb valid match never";

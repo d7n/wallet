@@ -1,1 +1,1 @@
-var mnemonic = "toward admit mail divorce connect devote nothing online exist cabbage visual under";
+var mnemonic = "iron earn firm ginger curve then shift tiger old peace system crack";

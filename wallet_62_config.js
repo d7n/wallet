@@ -1,1 +1,1 @@
-var mnemonic = "giant churn agree conduct awake slide impulse claw pig town provide mean";
+var mnemonic = "nest promote trial burst advice jungle obey casino congress open suggest dice";

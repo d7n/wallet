@@ -1,1 +1,1 @@
-var mnemonic = "shy boring engine noise typical pave lecture stage enemy elder inquiry error";
+var mnemonic = "embark reform soccer shed electric march tape acquire mule toy jeans equip";

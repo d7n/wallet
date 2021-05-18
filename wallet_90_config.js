@@ -1,1 +1,1 @@
-var mnemonic = "file future rug silent raise inner blossom plate burst miracle obvious label";
+var mnemonic = "pride river lawsuit oval employ material wagon approve require tip song exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "key second script media lobster decide rival radio element will hat hub";
+var mnemonic = "clap cream fantasy allow weird wise vague exist hat enough daughter earn";

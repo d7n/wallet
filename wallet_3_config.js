@@ -1,1 +1,1 @@
-var mnemonic = "rice dolphin bunker shuffle biology orient near upon remember ridge digital truly";
+var mnemonic = "paddle animal milk wrap vault mother correct negative celery drift planet legal";

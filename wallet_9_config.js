@@ -1,1 +1,1 @@
-var mnemonic = "this region beyond lock attend return sketch blade idle three zoo wife";
+var mnemonic = "fish hat sorry crane tonight enhance security among rival unfold equip screen";

@@ -1,1 +1,1 @@
-var mnemonic = "void figure school arena original lady opinion stage stairs symptom glue table";
+var mnemonic = "grow scan ivory rice soul penalty earn mesh stamp this believe pipe";

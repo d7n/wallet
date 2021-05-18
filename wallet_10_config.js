@@ -1,1 +1,1 @@
-var mnemonic = "faint yellow coyote opera picnic lucky tobacco story sound warfare garment cable";
+var mnemonic = "tragic distance avocado into post jungle bonus evoke angle enemy excuse duck";

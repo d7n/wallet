@@ -1,1 +1,1 @@
-var mnemonic = "around rifle cotton strong dream bleak media bacon elegant sibling rural document";
+var mnemonic = "bone stairs bone viable faith guide broccoli organ shove punch scare exotic";

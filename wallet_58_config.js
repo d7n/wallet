@@ -1,1 +1,1 @@
-var mnemonic = "ankle skull jump canal pumpkin cheap cheese term pumpkin success inch rack";
+var mnemonic = "charge fury timber find liar pact alone frame sister happy program alone";

@@ -1,1 +1,1 @@
-var mnemonic = "either double warfare funny fire finger short blur system rival theme lift";
+var mnemonic = "certain burst grant great defy surprise square anchor parrot blouse citizen swallow";

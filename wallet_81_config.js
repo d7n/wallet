@@ -1,1 +1,1 @@
-var mnemonic = "clean antique undo mirror pigeon used hill swift bar banner suggest fatal";
+var mnemonic = "moon horse awful cancel range timber powder hour lesson behind build release";

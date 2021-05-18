@@ -1,1 +1,1 @@
-var mnemonic = "shock cake globe give egg quick skate exhaust beauty come silk grocery";
+var mnemonic = "earth buddy only school wool edge fragile jungle trip nature laugh bundle";

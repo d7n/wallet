@@ -1,1 +1,1 @@
-var mnemonic = "diet buffalo metal imitate layer angle panic half ridge train this neither";
+var mnemonic = "split trophy say quantum keen era grocery interest sea chapter attack exact";

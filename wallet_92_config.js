@@ -1,1 +1,1 @@
-var mnemonic = "genius maple couple lobster merry lyrics off asthma equip math neglect craft";
+var mnemonic = "release tourist divide ribbon grab ill assault coral engage reunion milk middle";

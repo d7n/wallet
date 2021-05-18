@@ -1,1 +1,1 @@
-var mnemonic = "rib pact cattle oxygen lemon word surprise pilot now carbon sleep average";
+var mnemonic = "bracket soup element history horse twice drama bottom say drum verb ancient";

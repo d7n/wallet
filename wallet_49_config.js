@@ -1,1 +1,1 @@
-var mnemonic = "spell huge truck snake silver quality panel viable novel option remain fortune";
+var mnemonic = "reflect aim festival palace scatter nerve elbow stairs harvest shed engage young";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce planet crane dose human dream sustain sleep host bleak autumn chair";
+var mnemonic = "scare concert modify spoon height trigger evil girl sadness letter range sad";

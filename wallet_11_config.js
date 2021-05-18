@@ -1,1 +1,1 @@
-var mnemonic = "race witness sense exercise glide such verify habit dust praise vocal regret";
+var mnemonic = "bread order leader coral midnight coral phrase jealous elevator mix treat benefit";

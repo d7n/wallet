@@ -1,1 +1,1 @@
-var mnemonic = "first violin book grape undo harvest verify lyrics bacon hawk act opera";
+var mnemonic = "fat bargain pull hedgehog police cinnamon waste crop rigid share scheme boss";

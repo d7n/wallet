@@ -1,1 +1,1 @@
-var mnemonic = "under salon time wool uniform practice track obey submit tumble journey casino";
+var mnemonic = "poem habit holiday visual evolve innocent penalty quarter dream tilt paddle insane";

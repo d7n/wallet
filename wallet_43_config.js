@@ -1,1 +1,1 @@
-var mnemonic = "head picnic stable way soldier prosper real doctor forward pond lava air";
+var mnemonic = "farm fork try dream list walk asthma report good dish alien symptom";

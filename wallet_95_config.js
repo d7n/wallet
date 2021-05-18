@@ -1,1 +1,1 @@
-var mnemonic = "decorate dress metal cement pioneer style giraffe gown vacant vault seek bird";
+var mnemonic = "reward omit catch crack mom nephew family divide identify sleep regret own";

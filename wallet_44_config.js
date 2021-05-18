@@ -1,1 +1,1 @@
-var mnemonic = "again assume toe cheap endorse wisdom rail walnut detail slam load cricket";
+var mnemonic = "sausage direct man similar inmate depend enable various type loyal radar broken";

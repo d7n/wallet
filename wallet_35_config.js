@@ -1,1 +1,1 @@
-var mnemonic = "stadium donate young attract strike high elbow shrug edit suspect valve mad";
+var mnemonic = "primary either acquire design student ice brush loud label earn price oil";

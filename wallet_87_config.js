@@ -1,1 +1,1 @@
-var mnemonic = "goose grass garden found draft hover rain afraid stem chicken permit slow";
+var mnemonic = "asthma march base cruise bronze try surface cheap friend develop ring snack";

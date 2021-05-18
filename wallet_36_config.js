@@ -1,1 +1,1 @@
-var mnemonic = "draft script hover black abstract toast unusual finish close truth adapt fork";
+var mnemonic = "innocent infant abstract start save property phrase endless nice aspect blue march";

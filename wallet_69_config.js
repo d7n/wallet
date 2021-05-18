@@ -1,1 +1,1 @@
-var mnemonic = "school aerobic bright yellow race slender ridge connect enjoy cute satisfy blanket";
+var mnemonic = "sense hope invest cup slender cement betray powder genius link half inside";

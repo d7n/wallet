@@ -1,1 +1,1 @@
-var mnemonic = "piano misery intact lesson attend process debate foster fragile install year spoon";
+var mnemonic = "choose small guilt enforce acquire unfair bright glory addict winner enable middle";

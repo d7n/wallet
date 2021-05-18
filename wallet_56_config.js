@@ -1,1 +1,1 @@
-var mnemonic = "verb cool senior thumb pull reopen congress rice eyebrow market despair skill";
+var mnemonic = "tool loyal must mass civil derive tourist glow radar year apology tragic";

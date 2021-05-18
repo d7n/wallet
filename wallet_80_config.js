@@ -1,1 +1,1 @@
-var mnemonic = "appear boy cash buzz gaze wheel visa combine goose pulse sketch piece";
+var mnemonic = "ethics office peanut mind siren common open morning tunnel garage tortoise distance";

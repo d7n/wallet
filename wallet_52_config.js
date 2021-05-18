@@ -1,1 +1,1 @@
-var mnemonic = "own nut lock boss boy pioneer indicate brother ritual enlist rubber harvest";
+var mnemonic = "book cause govern learn ethics bind know giggle social tumble rotate source";

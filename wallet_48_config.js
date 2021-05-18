@@ -1,1 +1,1 @@
-var mnemonic = "picture rack shell spirit churn zone swallow twelve patch bird pool unlock";
+var mnemonic = "hour bread shrimp velvet image bracket stem tunnel loyal aware tattoo symbol";

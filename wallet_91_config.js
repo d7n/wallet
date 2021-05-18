@@ -1,1 +1,1 @@
-var mnemonic = "cabbage afford vanish fiber local tourist atom code initial hockey sauce zoo";
+var mnemonic = "fancy double alarm mask room lift dinner guess boy strong hand taxi";

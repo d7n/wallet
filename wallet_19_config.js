@@ -1,1 +1,1 @@
-var mnemonic = "method ostrich text escape sphere soldier neither panel pupil leaf fine aware";
+var mnemonic = "kind glimpse desk pigeon gadget hobby flavor table atom rack help defy";

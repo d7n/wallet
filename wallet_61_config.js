@@ -1,1 +1,1 @@
-var mnemonic = "road cancel happy tiger peanut tip lonely reject essence quiz labor street";
+var mnemonic = "bundle learn afraid rocket lunar friend decorate machine fly often remember jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "model asset sentence catalog rent dry cruel sting ahead demand swarm rigid";
+var mnemonic = "disorder expose when panda conduct lazy sun brick baby token flush toss";

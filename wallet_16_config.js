@@ -1,1 +1,1 @@
-var mnemonic = "guitar space empty coffee cement element tide already february couch ask check";
+var mnemonic = "dizzy rug happy replace elbow panda walk gossip short brass fruit warm";

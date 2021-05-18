@@ -1,1 +1,1 @@
-var mnemonic = "improve swallow sure laundry wish skin seven goddess phone trigger margin state";
+var mnemonic = "cook wonder pretty fee swing artwork judge pool dragon replace spoon atom";

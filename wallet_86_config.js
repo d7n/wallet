@@ -1,1 +1,1 @@
-var mnemonic = "boost infant oppose sniff shift occur noise hire select caution debate guilt";
+var mnemonic = "domain gorilla fossil door transfer roof trade keep truly special motor gossip";

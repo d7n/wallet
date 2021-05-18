@@ -1,1 +1,1 @@
-var mnemonic = "proof weird arrest fence draw recycle tray afford nephew help mosquito slogan";
+var mnemonic = "deal dynamic nephew illness nut will trick figure receive replace unit light";

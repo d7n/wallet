@@ -1,1 +1,1 @@
-var mnemonic = "diagram steel liberty decline travel fantasy finger soap lucky ranch guilt labor";
+var mnemonic = "better van hero anxiety bean panda faculty moon clog legend immense good";

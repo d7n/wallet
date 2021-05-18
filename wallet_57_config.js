@@ -1,1 +1,1 @@
-var mnemonic = "note wing seek client state habit neglect notice stumble neck minor cram";
+var mnemonic = "shock property aunt card foster above ignore verb seven artist wagon soft";

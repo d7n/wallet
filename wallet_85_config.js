@@ -1,1 +1,1 @@
-var mnemonic = "proof you prefer ahead aware swap access case man furnace fade round";
+var mnemonic = "multiply coach guilt give thrive insect vicious champion capital treat business dutch";

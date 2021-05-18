@@ -1,1 +1,1 @@
-var mnemonic = "success weapon middle glance other whisper local energy under joy grit wedding";
+var mnemonic = "file belt dance father burst axis enforce feed cereal wear rival smart";

@@ -1,1 +1,1 @@
-var mnemonic = "choice release hunt lizard pony member arena issue sort flight raise hidden";
+var mnemonic = "chunk barely muscle hand patrol popular addict crazy arrow author clinic ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "brick labor slow chair spoil parent planet speak color february worth joy";
+var mnemonic = "daring hat light brother width pledge hello salon rebel near feature lesson";

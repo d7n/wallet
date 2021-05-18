@@ -1,1 +1,1 @@
-var mnemonic = "leopard baby choose purchase cart lens post earth south powder absorb unknown";
+var mnemonic = "split program warm total squeeze robust brave warrior end state divide axis";

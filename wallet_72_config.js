@@ -1,1 +1,1 @@
-var mnemonic = "similar dignity beyond remove supply pudding arrow sound exhibit rocket vote system";
+var mnemonic = "tiny sing liquid change fortune allow armed crazy nurse industry month skate";
