@@ -1,1 +1,1 @@
-var mnemonic = "daring angry fox damage toddler wise mean shoulder elder outdoor leisure spy";
+var mnemonic = "cousin sock arrow unlock diagram limit van shoulder urge width forget master";

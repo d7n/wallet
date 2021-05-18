@@ -1,1 +1,1 @@
-var mnemonic = "trigger genius van critic video deer leader future review bamboo cruel friend";
+var mnemonic = "inhale try volume salon broccoli scale another behave question onion junk myself";

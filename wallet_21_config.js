@@ -1,1 +1,1 @@
-var mnemonic = "chat jar maze flavor deal clip twin apart valley album various capable";
+var mnemonic = "assume public lawn cousin pen day circle pelican upgrade rally they fruit";

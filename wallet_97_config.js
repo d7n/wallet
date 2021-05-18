@@ -1,1 +1,1 @@
-var mnemonic = "hub toss envelope pole bacon second erode clay fragile hospital plate grant";
+var mnemonic = "route name cattle machine despair can float quit senior tongue damp dumb";

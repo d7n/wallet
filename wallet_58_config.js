@@ -1,1 +1,1 @@
-var mnemonic = "sting embark carpet knee bachelor trash home extend casino hover uncle damp";
+var mnemonic = "staff spice egg about army busy end denial price cabin main cram";

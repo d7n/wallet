@@ -1,1 +1,1 @@
-var mnemonic = "car leader zoo debate sugar area gas always decide foam crowd slim";
+var mnemonic = "weather dry feel feature shoot bag front village correct wheel pact busy";

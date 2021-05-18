@@ -1,1 +1,1 @@
-var mnemonic = "core wolf mule win master never sibling supply myself please gasp prefer";
+var mnemonic = "dilemma hazard luxury raise switch tail keep foam similar genius arrest december";

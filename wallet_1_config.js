@@ -1,1 +1,1 @@
-var mnemonic = "wheel swarm pigeon sphere differ hidden banana debris become sand slam endless";
+var mnemonic = "alcohol diamond tool execute oxygen visual zoo credit sauce jacket level hand";

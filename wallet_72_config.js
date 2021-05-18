@@ -1,1 +1,1 @@
-var mnemonic = "innocent coin aerobic cost injury fabric bike audit garbage donkey car sorry";
+var mnemonic = "shed lift estate client sing vendor giggle kingdom custom situate ski toward";

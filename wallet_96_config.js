@@ -1,1 +1,1 @@
-var mnemonic = "pen talk bachelor valve cute close obscure kidney like dutch orphan cupboard";
+var mnemonic = "ranch media hard rebel foster bike sad metal coral winner pepper major";

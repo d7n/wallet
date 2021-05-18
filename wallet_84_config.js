@@ -1,1 +1,1 @@
-var mnemonic = "kit guitar strong table cigar kidney coyote fossil sibling destroy pen crystal";
+var mnemonic = "surface core decide pulp joke rebuild empower lady human pony father allow";

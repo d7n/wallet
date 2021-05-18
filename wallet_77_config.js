@@ -1,1 +1,1 @@
-var mnemonic = "together hope canyon soup run denial puppy play term gadget fetch cat";
+var mnemonic = "pause gesture merit broken caution attack perfect guess hurdle area gown damp";

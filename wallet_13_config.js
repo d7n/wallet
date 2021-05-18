@@ -1,1 +1,1 @@
-var mnemonic = "antenna omit stuff garden stamp skull bargain rural equip spoon wave ancient";
+var mnemonic = "door clump few cushion motor despair change lounge fuel install harsh obvious";

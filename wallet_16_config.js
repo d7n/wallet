@@ -1,1 +1,1 @@
-var mnemonic = "result hotel hundred neither sign avocado luggage side public diamond crew hip";
+var mnemonic = "dice exact quarter pulp top urge orbit foster inherit fury dismiss believe";

@@ -1,1 +1,1 @@
-var mnemonic = "usage script perfect three toward either shell easily random current puppy bus";
+var mnemonic = "normal shield talk symbol fiber virus credit bread yard ordinary alcohol wheel";

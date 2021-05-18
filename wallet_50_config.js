@@ -1,1 +1,1 @@
-var mnemonic = "diet bean kidney relief food benefit only gold release scorpion one upgrade";
+var mnemonic = "skill abandon roast odor grant sort arrest green dwarf remember penalty also";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect pluck pilot ranch save bachelor conduct account card minor quarter boring";
+var mnemonic = "differ ridge patch energy hub accident theory slice position bless accident give";

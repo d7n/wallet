@@ -1,1 +1,1 @@
-var mnemonic = "affair purpose pear trip shield jar bus else repeat crisp lend library";
+var mnemonic = "culture tilt trap upgrade merry popular wrap rhythm grit cycle salute shadow";

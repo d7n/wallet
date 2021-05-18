@@ -1,1 +1,1 @@
-var mnemonic = "pioneer radio penalty artist undo trend card habit owner please item sort";
+var mnemonic = "table tiny soul swing loyal wedding envelope slab symbol number airport wheel";

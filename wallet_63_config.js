@@ -1,1 +1,1 @@
-var mnemonic = "capable snap dinner viable faith talent strong fluid nest legend guide denial";
+var mnemonic = "put gather rally forget pond pig quality save abandon maximum issue setup";

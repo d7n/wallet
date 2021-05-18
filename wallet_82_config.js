@@ -1,1 +1,1 @@
-var mnemonic = "crystal emotion horror rebel expand base install coffee patient judge carbon force";
+var mnemonic = "neither envelope cabin truck bottom crawl powder expose pause monkey begin pen";

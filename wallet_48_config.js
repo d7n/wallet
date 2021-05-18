@@ -1,1 +1,1 @@
-var mnemonic = "disagree merit ostrich old embrace hope syrup drill glory siege camera joy";
+var mnemonic = "exchange match interest apple arrive visa lunar grit brief exhaust wheel visit";

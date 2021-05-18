@@ -1,1 +1,1 @@
-var mnemonic = "glove play huge ugly fancy debris valley earth snow ritual mean snack";
+var mnemonic = "tattoo jar rural twice orchard oak claim rebel void cherry frozen degree";

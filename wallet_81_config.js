@@ -1,1 +1,1 @@
-var mnemonic = "custom visit bless increase enough crouch type episode relief ride wise helmet";
+var mnemonic = "fashion travel trigger robot human door image raccoon mixture push sing case";

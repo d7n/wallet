@@ -1,1 +1,1 @@
-var mnemonic = "extend stable brand truly bright raccoon crack exhaust survey unit climb scale";
+var mnemonic = "bonus color cheap foam audit horse wall desk scene mushroom tiger fish";

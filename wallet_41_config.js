@@ -1,1 +1,1 @@
-var mnemonic = "royal rely tide puppy depend earn club hover brush derive harsh this";
+var mnemonic = "pretty unlock bounce moment spider mandate civil horn bounce orphan special minor";

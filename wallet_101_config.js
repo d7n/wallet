@@ -1,1 +1,1 @@
-var mnemonic = "stairs remove jelly point original motor tumble vivid design clinic float develop";
+var mnemonic = "banner multiply wall feel animal want surround vintage carbon funny fix indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel art little much strong renew task zoo left will merge sunny";
+var mnemonic = "method title more master music obscure fit farm unfold decide nuclear tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "huge pledge stay ridge peace original rebel orbit monster segment evil include";
+var mnemonic = "vote episode outside below certain cloud poverty treat ill clutch loyal faith";

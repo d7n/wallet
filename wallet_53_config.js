@@ -1,1 +1,1 @@
-var mnemonic = "dragon echo ten grunt soap bean act sweet endorse green ride find";
+var mnemonic = "glow twist vivid host iron become dune surge frown exact consider diet";

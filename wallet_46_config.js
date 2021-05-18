@@ -1,1 +1,1 @@
-var mnemonic = "siege mixed region peasant sting strong civil orient endorse next borrow permit";
+var mnemonic = "dinner smooth adjust burden shadow involve cable drill float rice noise broccoli";

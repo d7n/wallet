@@ -1,1 +1,1 @@
-var mnemonic = "melody toast category device come slot display soon jaguar rug decline earth";
+var mnemonic = "later dignity act this arrest mango choose finish bamboo office item phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "clown mixture orient music loop guide pet excite size panic drift expire";
+var mnemonic = "diamond push toy gun again injury aisle tiny caution enroll cable ten";

@@ -1,1 +1,1 @@
-var mnemonic = "arena dizzy bamboo switch soda scale town donor silent betray nation swing";
+var mnemonic = "hazard tomorrow fade wear life gorilla salmon maple brick explain aim north";

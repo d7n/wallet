@@ -1,1 +1,1 @@
-var mnemonic = "clean wisdom culture truth mother kit still envelope crowd fold bar robot";
+var mnemonic = "fold spatial world shield crumble typical message brown skull uncover panel frog";

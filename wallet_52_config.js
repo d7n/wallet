@@ -1,1 +1,1 @@
-var mnemonic = "bomb chalk frost electric security hospital ball penalty copy glass shuffle bench";
+var mnemonic = "bless blanket trick glimpse shop pear taste sugar phrase program afraid emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "argue any liquid critic unable hamster act valve mail stock rice nerve";
+var mnemonic = "recall nest inherit renew rude toss regular dream already age hockey demand";

@@ -1,1 +1,1 @@
-var mnemonic = "deer circle wait ship fringe jaguar shy inch place carry worth keen";
+var mnemonic = "captain miracle loud youth alone panel tower member strike soul shock seven";

@@ -1,1 +1,1 @@
-var mnemonic = "aware example donkey silent leopard fiber flip improve unveil panel father announce";
+var mnemonic = "lava glue diary rookie potato alley drill lucky evoke ribbon play fire";

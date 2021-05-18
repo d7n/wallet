@@ -1,1 +1,1 @@
-var mnemonic = "genre grab siege mind twin material sand lizard custom fat length obey";
+var mnemonic = "polar away remain luggage senior tower vibrant any walnut excess push soup";

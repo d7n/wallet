@@ -1,1 +1,1 @@
-var mnemonic = "cluster nation piece spoil velvet toddler gas screen acid situate hybrid nominee";
+var mnemonic = "receive inform detect olympic attack rocket primary weather side rug marble cradle";

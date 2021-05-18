@@ -1,1 +1,1 @@
-var mnemonic = "coast stuff dwarf mad essence miss audit axis oval smoke sign ethics";
+var mnemonic = "lift move lens crew glue until valve rubber local visit pact rug";

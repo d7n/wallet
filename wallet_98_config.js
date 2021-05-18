@@ -1,1 +1,1 @@
-var mnemonic = "symbol rib print tongue off post harsh diamond opera vote sad expand";
+var mnemonic = "simple sponsor trust saddle party trap girl thunder essay proof general rude";

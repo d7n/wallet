@@ -1,1 +1,1 @@
-var mnemonic = "method winter home length snack green crack resist business thank desk various";
+var mnemonic = "exist seminar oxygen end twist harvest blouse radio various snack various banner";

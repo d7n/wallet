@@ -1,1 +1,1 @@
-var mnemonic = "gift bubble charge method dress magnet skin indicate ghost dirt fury miracle";
+var mnemonic = "present october column hire ecology casual copper eternal parade indicate boil bread";

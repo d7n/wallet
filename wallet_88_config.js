@@ -1,1 +1,1 @@
-var mnemonic = "display connect cabbage venue name marriage goose train rifle wild sample annual";
+var mnemonic = "humble dash decline jewel update tomato give near truly try miracle banner";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna save human cinnamon science winner history filter floor anchor cry sustain";
+var mnemonic = "reject figure slender snap farm fragile cloth fantasy skirt fitness dolphin tissue";

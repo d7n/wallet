@@ -1,1 +1,1 @@
-var mnemonic = "industry barely risk resist genius casino amount involve morning measure drink alter";
+var mnemonic = "basket tunnel mammal breeze alien stadium hurry kangaroo sell female vessel minor";

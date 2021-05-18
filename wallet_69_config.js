@@ -1,1 +1,1 @@
-var mnemonic = "uncover tattoo state butter shoulder celery usual floor wall panda learn address";
+var mnemonic = "busy penalty blame source volume regret train claw remain defense treat slam";

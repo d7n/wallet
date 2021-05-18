@@ -1,1 +1,1 @@
-var mnemonic = "finish device scrub act stomach panel super wet catch keep general upgrade";
+var mnemonic = "music settle mind fish struggle frog tone before bar lobster middle crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "jar cheese treat relax affair apart calm excuse grit resource glance borrow";
+var mnemonic = "sibling april sing plunge guitar envelope friend dice deer cousin install will";

@@ -1,1 +1,1 @@
-var mnemonic = "strong garden pattern lounge street duty escape bargain venue hurry unlock wine";
+var mnemonic = "calm aware genuine artefact wage upon cube subway brain gasp pipe vivid";

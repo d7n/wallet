@@ -1,1 +1,1 @@
-var mnemonic = "minute play exercise settle town ring general minute soup journey grass state";
+var mnemonic = "combine illness decade dice prize zero drama school shoulder dune panel physical";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure rural veteran weekend club embrace flame carpet angle illness talent enroll";
+var mnemonic = "sock during venture prepare seven open essay quarter security inmate exchange curious";

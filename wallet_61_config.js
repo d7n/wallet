@@ -1,1 +1,1 @@
-var mnemonic = "purpose patient isolate gallery index letter boy copper apple shell polar place";
+var mnemonic = "receive trophy tray border tourist tuna hint tongue apology crane steel cook";

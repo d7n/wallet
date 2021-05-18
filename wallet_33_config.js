@@ -1,1 +1,1 @@
-var mnemonic = "cabbage toddler client firm wrist music episode treat tumble indoor method addict";
+var mnemonic = "host two unhappy game hawk grace attitude solid during canvas spot solid";

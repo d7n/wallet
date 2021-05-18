@@ -1,1 +1,1 @@
-var mnemonic = "give hurry expect suffer glue plunge pledge swap index box chunk vintage";
+var mnemonic = "mom very flip sniff predict know outside forward sleep veteran unfold off";

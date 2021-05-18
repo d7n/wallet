@@ -1,1 +1,1 @@
-var mnemonic = "manual huge design dragon shoot wash skill switch message toss super say";
+var mnemonic = "ask length become equal wink strong palace country public visa field later";

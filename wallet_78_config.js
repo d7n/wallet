@@ -1,1 +1,1 @@
-var mnemonic = "rally truth cancel hip salon level assume galaxy humor boost impulse secret";
+var mnemonic = "amazing frost yellow measure donkey access tilt team bachelor together merit soft";

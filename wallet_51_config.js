@@ -1,1 +1,1 @@
-var mnemonic = "frog unlock cupboard wine crunch glove meat diamond reform true since purse";
+var mnemonic = "private dial firm school yellow mass fence dynamic can name join nothing";

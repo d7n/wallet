@@ -1,1 +1,1 @@
-var mnemonic = "ghost child hat great trade protect actor cluster ancient solve hospital utility";
+var mnemonic = "obey intact tongue betray nice define buffalo cycle destroy estate wool garlic";

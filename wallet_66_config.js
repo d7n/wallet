@@ -1,1 +1,1 @@
-var mnemonic = "limit ripple deliver galaxy outer hamster century wall genuine hazard galaxy leader";
+var mnemonic = "hint liquid child injury source glory boy service split entire dynamic envelope";

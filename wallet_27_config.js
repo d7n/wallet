@@ -1,1 +1,1 @@
-var mnemonic = "agent sock street search title giant test public pistol brain arrange pond";
+var mnemonic = "antenna fiscal alarm fever when example time wrist crop slot miracle robot";

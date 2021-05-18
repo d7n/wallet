@@ -1,1 +1,1 @@
-var mnemonic = "runway stomach fiction embrace dentist remember galaxy cluster unaware rebuild apple brave";
+var mnemonic = "same owner either cube abstract cousin history match era duck butter recipe";

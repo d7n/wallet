@@ -1,1 +1,1 @@
-var mnemonic = "inject cage cost decline doll movie purse pupil prevent expose situate quantum";
+var mnemonic = "pigeon cereal skirt romance fly diary symbol void profit simple winner sponsor";

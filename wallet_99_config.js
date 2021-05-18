@@ -1,1 +1,1 @@
-var mnemonic = "treat heart oval depth enforce seven harvest cruel orchard skate advice peasant";
+var mnemonic = "equal enforce enrich grocery bird chaos exit bird gravity private picnic initial";

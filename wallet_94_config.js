@@ -1,1 +1,1 @@
-var mnemonic = "inform remain govern body enough mad awesome between then utility venture render";
+var mnemonic = "royal forum fresh element cancel execute puzzle couple student giggle cruel cloth";

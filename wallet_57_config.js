@@ -1,1 +1,1 @@
-var mnemonic = "other antenna latin hub height inside vivid purse sick cousin glimpse camp";
+var mnemonic = "attack silk orbit cup half symptom health please pipe alone tackle stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude credit into dress february initial donor cement insect ahead guitar this";
+var mnemonic = "develop spawn desert chase almost brisk abstract answer soldier major elevator bundle";

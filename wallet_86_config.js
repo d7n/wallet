@@ -1,1 +1,1 @@
-var mnemonic = "fork local okay pattern avocado monitor universe prize update spike describe promote";
+var mnemonic = "renew suspect mistake spike seven spread prepare impose destroy private trust object";

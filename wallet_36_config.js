@@ -1,1 +1,1 @@
-var mnemonic = "fiber silk clap term thrive mixed pudding perfect delay stereo prevent stone";
+var mnemonic = "cattle outside recall ostrich index raccoon crumble floor help shiver review spell";

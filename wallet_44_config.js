@@ -1,1 +1,1 @@
-var mnemonic = "eye approve sunny fall give boy such fresh wisdom soul bus coral";
+var mnemonic = "spoon mechanic buffalo differ dose trash client clap history never fruit rebuild";

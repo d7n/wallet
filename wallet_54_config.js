@@ -1,1 +1,1 @@
-var mnemonic = "prison inflict craft way swift local crystal connect marriage another prevent miss";
+var mnemonic = "upgrade double inspire flavor expire letter leopard garbage more angle angry split";

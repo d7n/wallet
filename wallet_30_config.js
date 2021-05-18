@@ -1,1 +1,1 @@
-var mnemonic = "viable surge pig name boil piece obtain honey taxi method brick similar";
+var mnemonic = "diet fix calm friend treat spike double calm wear chest trip trick";

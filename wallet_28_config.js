@@ -1,1 +1,1 @@
-var mnemonic = "endless brisk topple syrup vendor globe dragon curtain silent primary dream carry";
+var mnemonic = "affair sick recycle good tiny scout middle jump there endless trend purpose";

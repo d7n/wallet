@@ -1,1 +1,1 @@
-var mnemonic = "march skin cycle vicious program country team six annual peace coast sad";
+var mnemonic = "alpha double damage success town that black setup insect issue heart auto";

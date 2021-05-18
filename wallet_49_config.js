@@ -1,1 +1,1 @@
-var mnemonic = "coffee parade banana mesh liquid foil void general travel physical tongue local";
+var mnemonic = "picnic already area magnet talent hint burden apology remove jealous pudding all";

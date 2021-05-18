@@ -1,1 +1,1 @@
-var mnemonic = "move intact topple wood liquid lens hero tree comfort basic approve salad";
+var mnemonic = "still guide oyster runway output crack desert supreme mixed safe inmate melt";

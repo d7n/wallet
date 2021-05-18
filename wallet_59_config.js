@@ -1,1 +1,1 @@
-var mnemonic = "spy control melt concert provide cement negative foil hole brother toy logic";
+var mnemonic = "chapter eight junior convince bitter urge around twice captain differ social happy";

@@ -1,1 +1,1 @@
-var mnemonic = "noble ensure into myth city credit fall arrow lonely skin frost acquire";
+var mnemonic = "blush elephant bubble midnight absorb upgrade equal ask holiday upgrade purity student";

@@ -1,1 +1,1 @@
-var mnemonic = "shove please faith coffee addict limb two camera pioneer discover inherit order";
+var mnemonic = "trouble plastic asset heavy town smart outdoor veteran cross rely margin hundred";

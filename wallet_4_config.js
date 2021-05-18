@@ -1,1 +1,1 @@
-var mnemonic = "village rookie must boost real hen across sphere reward monitor sphere outside";
+var mnemonic = "mix galaxy remind stairs hollow proof easy table vanish coin hope equal";

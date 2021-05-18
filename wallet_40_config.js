@@ -1,1 +1,1 @@
-var mnemonic = "achieve ski trophy domain screen peace identify adult flag flag cash educate";
+var mnemonic = "soda index welcome habit elegant educate crime dentist find width flavor tortoise";

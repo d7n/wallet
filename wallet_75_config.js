@@ -1,1 +1,1 @@
-var mnemonic = "switch gentle vanish mask second barely matrix jeans receive hybrid lawsuit print";
+var mnemonic = "arch shoe innocent already sunset enough indoor pole observe curious become plate";

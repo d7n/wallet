@@ -1,1 +1,1 @@
-var mnemonic = "canal bring tennis picnic unusual explain leader enable scare glove cable crouch";
+var mnemonic = "approve alpha catalog never remember logic athlete average apology local direct enjoy";

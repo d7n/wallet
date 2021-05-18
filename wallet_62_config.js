@@ -1,1 +1,1 @@
-var mnemonic = "garlic illness aspect decline tennis craft maid proud level outdoor palace basket";
+var mnemonic = "physical update speed picnic guide medal refuse claim bread mixture power antique";

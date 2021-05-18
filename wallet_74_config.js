@@ -1,1 +1,1 @@
-var mnemonic = "taste ensure initial language domain balcony pizza stay roast name common sibling";
+var mnemonic = "magic oxygen wrestle scout inmate pony gloom cushion inhale zone champion section";

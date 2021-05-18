@@ -1,1 +1,1 @@
-var mnemonic = "drip debate donate thought eyebrow fury truth burden fuel famous chef matter";
+var mnemonic = "arrive jacket lift title portion romance nuclear paddle fuel wonder blind logic";

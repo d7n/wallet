@@ -1,1 +1,1 @@
-var mnemonic = "hybrid rail warfare wide alone extend top toss normal shuffle noise pretty";
+var mnemonic = "own extend source black suggest someone allow render absorb crowd scare index";

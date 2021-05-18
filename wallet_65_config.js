@@ -1,1 +1,1 @@
-var mnemonic = "iron tragic soldier wolf whip elbow spider dynamic casino cereal frown scatter";
+var mnemonic = "bitter swallow seminar misery inform face trouble rifle famous vocal cave parent";

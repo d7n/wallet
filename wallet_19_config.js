@@ -1,1 +1,1 @@
-var mnemonic = "field fire romance bundle offer grunt upset horn capital hero soft adapt";
+var mnemonic = "piano material holiday wrist elite poverty trade clog tired invest hobby object";

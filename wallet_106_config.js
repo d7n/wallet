@@ -1,1 +1,1 @@
-var mnemonic = "gesture turtle orient bleak spice acoustic destroy mother sugar carry total arrow";
+var mnemonic = "shoe portion just right chapter buffalo balcony tobacco history black divide ability";

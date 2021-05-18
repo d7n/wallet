@@ -1,1 +1,1 @@
-var mnemonic = "suffer journey course rally catalog glide victory exhibit screen knife echo cover";
+var mnemonic = "message tape hurry snack bitter current scan rebel cause kid solar symbol";

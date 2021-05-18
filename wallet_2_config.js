@@ -1,1 +1,1 @@
-var mnemonic = "jacket gloom aerobic find lion emotion conduct differ total razor utility join";
+var mnemonic = "youth hand jealous blossom snack add jelly edit expose chalk advance liquid";

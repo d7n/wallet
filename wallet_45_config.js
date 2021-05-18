@@ -1,1 +1,1 @@
-var mnemonic = "choice crop swallow begin spring husband view crime drink column gossip culture";
+var mnemonic = "actor galaxy come above fame naive jeans design tiny language clever speak";

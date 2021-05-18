@@ -1,1 +1,1 @@
-var mnemonic = "lecture replace memory west offer capable foil sphere exile rice night explain";
+var mnemonic = "stumble evil gadget vicious trap door tilt endorse depart strategy text harbor";

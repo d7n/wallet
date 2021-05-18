@@ -1,1 +1,1 @@
-var mnemonic = "female about critic unable undo midnight arena boy fall army path advance";
+var mnemonic = "oven useless bean pretty motion true knife ship suggest fuel hidden unlock";
