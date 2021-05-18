@@ -1,1 +1,1 @@
-var mnemonic = "jealous scan assault twice girl salad engine canoe pride dose toe harvest";
+var mnemonic = "slogan midnight debate seek remember soccer train idle hamster inhale release program";

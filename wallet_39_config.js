@@ -1,1 +1,1 @@
-var mnemonic = "load essay budget immense ceiling quality uniform figure slogan slice vendor merry";
+var mnemonic = "river future coast way siege cigar language term fruit approve legal smart";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic oval van hunt patient calm mule erupt wreck hospital sun lava";
+var mnemonic = "chunk weapon tilt cabbage address cloud amused law clog symptom replace pioneer";

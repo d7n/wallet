@@ -1,1 +1,1 @@
-var mnemonic = "wealth race hour envelope novel sign harbor kiwi blast exhibit dust salmon";
+var mnemonic = "noise predict iron wasp target rapid broom lava pretty sail bid labor";

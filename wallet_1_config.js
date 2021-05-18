@@ -1,1 +1,1 @@
-var mnemonic = "cigar aerobic clarify office ranch hour admit autumn engage coffee pattern address";
+var mnemonic = "olympic steak toy tuition found burst cart opinion boat shove olive coil";

@@ -1,1 +1,1 @@
-var mnemonic = "blood lobster office drift fortune insane vicious alcohol oak provide pool renew";
+var mnemonic = "orphan core over west clinic salt invite vacuum spell industry ritual inch";

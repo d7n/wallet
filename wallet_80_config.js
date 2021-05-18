@@ -1,1 +1,1 @@
-var mnemonic = "divide ball close verify million replace report bridge monitor net kangaroo habit";
+var mnemonic = "student dove owner pride volcano enrich gadget frog leader legal assume little";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder grit oyster zone stem cute assault crouch master title stairs remove";
+var mnemonic = "vault label loud miss swallow agent online amazing direct flight post zebra";

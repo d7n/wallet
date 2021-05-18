@@ -1,1 +1,1 @@
-var mnemonic = "afford someone input cram chief during cycle report october property tray system";
+var mnemonic = "track eternal system romance bounce hidden jacket mobile tuna define forest glass";

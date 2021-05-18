@@ -1,1 +1,1 @@
-var mnemonic = "winter arch feature easy solar obscure reason spider youth fantasy accident meadow";
+var mnemonic = "olympic seek reunion rookie lock spice short exotic frozen double kind develop";

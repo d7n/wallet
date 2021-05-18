@@ -1,1 +1,1 @@
-var mnemonic = "over wash shield retire utility casino mystery fiber hour erosion cotton length";
+var mnemonic = "diet outside lawsuit clog knife kick heart turtle pen faculty curious push";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy able spike vault lesson crawl express bubble carpet grit quiz west";
+var mnemonic = "oven vague lonely involve inspire antenna layer goose when tobacco enemy mystery";

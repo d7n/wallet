@@ -1,1 +1,1 @@
-var mnemonic = "setup genuine cotton gallery sponsor margin inject current grit what amount leave";
+var mnemonic = "knife truck struggle defense rice person coach youth borrow neutral lamp poet";

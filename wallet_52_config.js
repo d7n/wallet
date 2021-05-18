@@ -1,1 +1,1 @@
-var mnemonic = "vanish any despair subject valid culture odor drum return tribe gap coffee";
+var mnemonic = "same match beef resource cause item ordinary loyal tired palace anxiety pen";

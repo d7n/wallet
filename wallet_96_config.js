@@ -1,1 +1,1 @@
-var mnemonic = "ancient crime end blade labor hawk right offer air angle budget puzzle";
+var mnemonic = "meadow poverty staff coyote property grace sting keep coil sauce smooth dream";

@@ -1,1 +1,1 @@
-var mnemonic = "spice hurt oval devote paper choice aerobic elder salt reveal wet grid";
+var mnemonic = "glimpse library dumb quote ivory peace chronic crystal fashion end orient soup";

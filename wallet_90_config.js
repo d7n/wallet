@@ -1,1 +1,1 @@
-var mnemonic = "civil flower actual kitten civil voice amount solve talent tower silk addict";
+var mnemonic = "animal reason unusual nominee lesson basket clinic custom enjoy subject cupboard when";

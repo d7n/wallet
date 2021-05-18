@@ -1,1 +1,1 @@
-var mnemonic = "parade gaze warrior eagle soldier side hidden govern sunset perfect lyrics mean";
+var mnemonic = "oyster suit dismiss position vintage acoustic result ill aspect strike horse harsh";

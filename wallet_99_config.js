@@ -1,1 +1,1 @@
-var mnemonic = "surge gossip buddy adjust enroll visa hole clever wife heavy daring frequent";
+var mnemonic = "idea text weasel edge hurt magnet student melt arrive home eight conduct";

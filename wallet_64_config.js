@@ -1,1 +1,1 @@
-var mnemonic = "surface ugly arch grant barely ice error marriage glass abandon predict goddess";
+var mnemonic = "maple robust rival drama wire asthma wool trick toast enforce nothing rocket";

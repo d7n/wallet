@@ -1,1 +1,1 @@
-var mnemonic = "pencil ghost rocket derive forget swallow ancient poem bamboo glory alert shoe";
+var mnemonic = "long spring syrup author erode zone kind hamster wife edge pride exotic";

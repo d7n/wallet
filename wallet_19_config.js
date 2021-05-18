@@ -1,1 +1,1 @@
-var mnemonic = "bundle auction cliff night any prison total unusual interest barrel jaguar try";
+var mnemonic = "candy merry toward beauty box affair orbit hammer mass start mushroom blur";

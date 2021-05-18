@@ -1,1 +1,1 @@
-var mnemonic = "auction across pioneer mercy brave obvious lion segment off public border cake";
+var mnemonic = "nasty coffee retire average elephant slender task slice genuine exit note item";

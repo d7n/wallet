@@ -1,1 +1,1 @@
-var mnemonic = "produce road razor dentist tragic injury dial flush bulk please patch steel";
+var mnemonic = "state child runway popular cruise license oil aunt film mutual such subject";

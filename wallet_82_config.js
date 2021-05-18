@@ -1,1 +1,1 @@
-var mnemonic = "depend property similar acid pill second broken calm tilt grab hub tank";
+var mnemonic = "immune hurt frost warm still acquire arrive seek wish town portion deer";

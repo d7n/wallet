@@ -1,1 +1,1 @@
-var mnemonic = "test fish three cannon little swarm exact swift narrow program amateur intact";
+var mnemonic = "toss below victory earn chuckle business unfair supply useless desert rival public";

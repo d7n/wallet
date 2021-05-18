@@ -1,1 +1,1 @@
-var mnemonic = "transfer latin gain normal hour blue remember depth sadness indicate electric list";
+var mnemonic = "note endorse chimney claim melt drama debate mixed object glare sign clerk";

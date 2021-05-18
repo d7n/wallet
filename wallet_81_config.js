@@ -1,1 +1,1 @@
-var mnemonic = "huge engine almost topple neglect soup insect soul select kiss kiss response";
+var mnemonic = "gaze truly pulse vanish key color valve hover voyage spread apart open";

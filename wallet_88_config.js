@@ -1,1 +1,1 @@
-var mnemonic = "must opera cage example idea solve artefact cement tomato fitness october then";
+var mnemonic = "vast unlock across march view ritual raise load shove dynamic athlete warm";

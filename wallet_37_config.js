@@ -1,1 +1,1 @@
-var mnemonic = "decline trash tired story benefit summer hard useful easily move pride potato";
+var mnemonic = "olympic spoon yard pen provide ready abandon depth coffee tomorrow write ribbon";

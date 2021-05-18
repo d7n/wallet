@@ -1,1 +1,1 @@
-var mnemonic = "dutch skin matter dragon collect lawsuit language spirit hollow salad broom attitude";
+var mnemonic = "affair various beyond opera unhappy destroy shift caution trumpet room awkward limit";

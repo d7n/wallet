@@ -1,1 +1,1 @@
-var mnemonic = "know aware panic interest finish reopen slush extra upgrade fabric intact hurry";
+var mnemonic = "casino please shock dry inch toddler beef welcome scrap tourist forget acquire";

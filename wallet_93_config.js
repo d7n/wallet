@@ -1,1 +1,1 @@
-var mnemonic = "breeze fresh grow lake decade broom can head twin inherit clown vibrant";
+var mnemonic = "antenna action dog junior vessel runway invite cliff spatial trip noodle lion";

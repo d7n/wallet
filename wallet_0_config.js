@@ -1,1 +1,1 @@
-var mnemonic = "orient fork rent cake butter clinic arrest green pact try trim mad";
+var mnemonic = "puppy pepper review afraid roof vast aspect phrase miss recycle proof cliff";

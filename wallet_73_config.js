@@ -1,1 +1,1 @@
-var mnemonic = "civil now gather aerobic wrist farm toddler illegal obscure fuel soda tiger";
+var mnemonic = "retire old party unhappy frozen coconut cargo solve spread fluid army invite";

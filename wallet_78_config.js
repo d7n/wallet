@@ -1,1 +1,1 @@
-var mnemonic = "develop afraid elbow apology never surround real venture jump second pelican galaxy";
+var mnemonic = "section bullet gloom antenna valve prize give survey across elegant hospital believe";

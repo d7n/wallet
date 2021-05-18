@@ -1,1 +1,1 @@
-var mnemonic = "number frame hat cabbage palace close stable once fluid gasp reject joy";
+var mnemonic = "claim setup say junior horn dirt just warfare copper wish theory faint";

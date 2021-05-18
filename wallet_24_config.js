@@ -1,1 +1,1 @@
-var mnemonic = "long obscure canal you cigar glad gospel garden game syrup vanish badge";
+var mnemonic = "kind jazz vote narrow toss gasp hour simple furnace when swing chef";

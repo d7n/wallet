@@ -1,1 +1,1 @@
-var mnemonic = "soon agree debate modify brave crucial film explain inflict favorite envelope topic";
+var mnemonic = "tank use affair hair spend coconut student fix shock lunch jaguar jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "file relief cactus doll fan kiwi draw risk health lend spring body";
+var mnemonic = "morning side defense song diary enough pioneer main razor excite dish diesel";

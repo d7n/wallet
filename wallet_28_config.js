@@ -1,1 +1,1 @@
-var mnemonic = "first potato notable derive until ethics room fold twice alpha present win";
+var mnemonic = "liar recall ride warfare sister audit embody pride true front meat skirt";

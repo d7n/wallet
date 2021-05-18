@@ -1,1 +1,1 @@
-var mnemonic = "spider plunge now lab between pitch improve comfort rabbit input add juice";
+var mnemonic = "agree point wet circle frown tennis bottom diesel they turtle approve document";

@@ -1,1 +1,1 @@
-var mnemonic = "pill yard bacon crucial upon rigid mercy private genre typical citizen timber";
+var mnemonic = "since manage prosper example cereal please circle second wolf moon check cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry cabin dirt pipe able walk dry melody cram palace sponsor rebuild";
+var mnemonic = "over cruise merit course allow pretty random fan foam era make other";

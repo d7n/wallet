@@ -1,1 +1,1 @@
-var mnemonic = "sorry rate purse million fancy produce general entry cable rely shiver help";
+var mnemonic = "any hire divide woman banana rely fragile eternal thrive lobster cruise scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "foster essay together struggle pluck orange desk observe bird aisle say basket";
+var mnemonic = "carry feature decorate horse odor turtle adjust blanket stairs where maid comic";

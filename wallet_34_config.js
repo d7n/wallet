@@ -1,1 +1,1 @@
-var mnemonic = "mom pond monster pass addict sadness hotel term hat kitchen tower oil";
+var mnemonic = "despair bar cage reject book movie remember common balcony ozone enable nose";

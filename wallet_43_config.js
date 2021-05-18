@@ -1,1 +1,1 @@
-var mnemonic = "reduce friend permit great rigid output cheap garment horse say vehicle net";
+var mnemonic = "fiber flip catalog rifle stage clog pride novel small narrow dentist labor";

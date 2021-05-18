@@ -1,1 +1,1 @@
-var mnemonic = "law sun upon equal select inform crew ask erosion lens ridge extend";
+var mnemonic = "wrist sound clown foam clinic camera equal arm noise animal roast square";

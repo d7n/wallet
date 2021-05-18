@@ -1,1 +1,1 @@
-var mnemonic = "choose tilt phone ceiling spend shove evidence mutual away chapter hunt awful";
+var mnemonic = "park sister skin banana very rate stay enact office spawn army attitude";

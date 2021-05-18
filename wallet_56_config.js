@@ -1,1 +1,1 @@
-var mnemonic = "announce primary absurd capital exact face photo thumb dust honey define coin";
+var mnemonic = "neck cave ill material diary alcohol table blast truly express machine mad";

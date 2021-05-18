@@ -1,1 +1,1 @@
-var mnemonic = "yellow lens hobby dress danger ship rude boil mirror march tree knee";
+var mnemonic = "shrug provide tube leopard spoon kidney invite layer visa catalog spare repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "music column napkin eyebrow ceiling foam veteran grab reject excess trend staff";
+var mnemonic = "supply joy have couple holiday doctor else team memory neglect reform sunny";

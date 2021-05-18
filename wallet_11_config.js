@@ -1,1 +1,1 @@
-var mnemonic = "follow meadow leisure acoustic thrive clarify achieve settle digital physical grunt prosper";
+var mnemonic = "giant blade quality icon federal forget slice focus ice margin imitate police";

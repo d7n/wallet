@@ -1,1 +1,1 @@
-var mnemonic = "equip name carpet waste grass tragic system deer patient art radar fan";
+var mnemonic = "hip double citizen upset tell decide era hover melody bus stem age";

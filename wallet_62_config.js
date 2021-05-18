@@ -1,1 +1,1 @@
-var mnemonic = "race coyote address zero plunge erupt latin tourist area round soda identify";
+var mnemonic = "rely torch exit bind have soccer banner lion belt thing hill toe";

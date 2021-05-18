@@ -1,1 +1,1 @@
-var mnemonic = "phrase jaguar jelly bracket ill voyage can column beach dawn orbit afford";
+var mnemonic = "cat blouse leave loud adapt arrest friend sudden another person fiber picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual album planet today citizen basic course two unique tank obey goddess";
+var mnemonic = "today soap world believe expose error spirit roast never bridge engine luxury";

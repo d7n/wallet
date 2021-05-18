@@ -1,1 +1,1 @@
-var mnemonic = "stereo gate diary column dance error box absurd tree travel matrix wreck";
+var mnemonic = "beauty father online tuition life blast area color legend conduct disorder assault";

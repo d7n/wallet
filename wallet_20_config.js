@@ -1,1 +1,1 @@
-var mnemonic = "female velvet record elevator first cannon remind capital blade nice reduce either";
+var mnemonic = "giant armor ride join forward two ask another cage antique deny like";

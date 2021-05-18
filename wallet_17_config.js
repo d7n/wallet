@@ -1,1 +1,1 @@
-var mnemonic = "throw weird path wait bronze just monitor kangaroo canal creek husband hole";
+var mnemonic = "goddess soft angry suffer slab soup plunge supply business tornado human plug";

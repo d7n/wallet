@@ -1,1 +1,1 @@
-var mnemonic = "kit great obey enter intact release beauty march bus crystal mad hood";
+var mnemonic = "hospital settle eyebrow rebel area rapid insect gallery whip scout ice stool";

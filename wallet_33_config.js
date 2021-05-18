@@ -1,1 +1,1 @@
-var mnemonic = "timber catch exact various prison apology ocean trouble harbor burst camera write";
+var mnemonic = "mix recycle ship hair copper cricket obey more female quantum flat bamboo";

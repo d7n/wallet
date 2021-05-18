@@ -1,1 +1,1 @@
-var mnemonic = "man access tool own detail diagram suspect cycle floor keen blue moment";
+var mnemonic = "fan cruel mixed carpet cheap buffalo orange skirt energy blind retire job";

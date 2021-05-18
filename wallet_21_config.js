@@ -1,1 +1,1 @@
-var mnemonic = "review dinosaur shallow mango weekend social couple result admit view favorite mouse";
+var mnemonic = "exclude common reopen brother wage alter veteran gospel hamster cabin enter marble";

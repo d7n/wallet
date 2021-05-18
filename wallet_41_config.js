@@ -1,1 +1,1 @@
-var mnemonic = "lounge sell high frog gift meat foam labor alarm inside slight north";
+var mnemonic = "draw mom render arrive display clean drift bachelor sun ethics indicate energy";

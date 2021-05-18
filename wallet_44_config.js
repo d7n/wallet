@@ -1,1 +1,1 @@
-var mnemonic = "open wrong boat valid peanut west paddle meat output matrix width crash";
+var mnemonic = "hazard fabric artwork night main item produce crack duty trial inner replace";

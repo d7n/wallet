@@ -1,1 +1,1 @@
-var mnemonic = "slight typical plate order forest trim race abuse consider wheel real link";
+var mnemonic = "draft object cement fossil mechanic option orange hobby stable between frown blood";

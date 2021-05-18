@@ -1,1 +1,1 @@
-var mnemonic = "snake pink degree pony lion collect pear canyon palm off aisle that";
+var mnemonic = "equip life detect leopard narrow poem gather effort black rate cousin arctic";

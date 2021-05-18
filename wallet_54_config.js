@@ -1,1 +1,1 @@
-var mnemonic = "owner tuition wrestle feel collect demand ready please panther damage attitude tail";
+var mnemonic = "mandate enter glow erode guide convince track describe lottery anchor junk tobacco";

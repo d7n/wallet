@@ -1,1 +1,1 @@
-var mnemonic = "find funny exist laundry what real ribbon steel near group pizza whale";
+var mnemonic = "tooth odor track lava deputy profit veteran useless fortune switch crop brother";

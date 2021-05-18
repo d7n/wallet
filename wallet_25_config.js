@@ -1,1 +1,1 @@
-var mnemonic = "music want ozone negative reduce drama summer below enemy smoke normal holiday";
+var mnemonic = "heavy shoot rule journey local dry prison stage feed immune romance paper";

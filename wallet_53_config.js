@@ -1,1 +1,1 @@
-var mnemonic = "blue manual figure animal avocado uphold tuition illegal festival horse beyond elegant";
+var mnemonic = "pact dove interest romance clump law produce family siren season harsh injury";

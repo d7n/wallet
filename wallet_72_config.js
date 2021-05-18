@@ -1,1 +1,1 @@
-var mnemonic = "car fog ring firm clog alter space battle rely liquid admit aerobic";
+var mnemonic = "rough eye lonely entire region fade toast dream peace law bachelor twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "expect wash sun wagon rain garlic dial fiscal merit biology almost bid";
+var mnemonic = "sugar mention capital blur hungry neglect puzzle unveil scatter nest regret happy";

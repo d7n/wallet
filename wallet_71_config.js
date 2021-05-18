@@ -1,1 +1,1 @@
-var mnemonic = "exit impact chimney polar push custom stand another inmate swarm waste spin";
+var mnemonic = "deer gasp six muffin twin shuffle spray exist category hundred bracket neglect";

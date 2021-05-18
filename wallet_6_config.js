@@ -1,1 +1,1 @@
-var mnemonic = "seed amazing rookie bleak glide spoon great phone chaos path almost olive";
+var mnemonic = "lyrics boat resist grocery cushion keen force erosion make depth describe dove";

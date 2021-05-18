@@ -1,1 +1,1 @@
-var mnemonic = "hat bid tooth inform best walnut sand wish useless draw fire price";
+var mnemonic = "profit blossom switch light broken panther shrug random kidney prevent slow sound";

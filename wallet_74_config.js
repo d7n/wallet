@@ -1,1 +1,1 @@
-var mnemonic = "raw cushion amazing injury fit salon mosquito lyrics way desert pair demise";
+var mnemonic = "arch relax cabbage surge fitness donor forum cheese oppose dash nephew ecology";

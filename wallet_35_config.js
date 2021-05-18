@@ -1,1 +1,1 @@
-var mnemonic = "dash kiss avocado scare rice vicious mouse album link genuine chicken vast";
+var mnemonic = "black high pizza boss advance garbage real squeeze curious park produce current";

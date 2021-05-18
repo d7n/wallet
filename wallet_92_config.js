@@ -1,1 +1,1 @@
-var mnemonic = "run burst absent game uniform enlist adult parrot measure poverty hen stomach";
+var mnemonic = "paddle usual more earth grunt vessel parrot room verify nation clarify disorder";

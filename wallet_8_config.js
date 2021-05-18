@@ -1,1 +1,1 @@
-var mnemonic = "purchase steak kind radar silk midnight merge twenty now guide wreck abuse";
+var mnemonic = "solution fantasy adjust wedding shop icon leaf elder brand come hamster pave";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge toward quick syrup nominee stone saddle memory liquid undo monster final";
+var mnemonic = "joy enrich urge else gloom cherry mail scrap bone wonder mimic enlist";

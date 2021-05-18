@@ -1,1 +1,1 @@
-var mnemonic = "miracle belt option winter glue grit myth sibling peasant control sound document";
+var mnemonic = "visual doll art access naive nasty diagram link habit diesel snack fitness";

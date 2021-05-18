@@ -1,1 +1,1 @@
-var mnemonic = "remain two comic unknown economy easily anchor april rose source cancel yellow";
+var mnemonic = "senior couple desert enemy remember best farm axis tiny angle habit face";

@@ -1,1 +1,1 @@
-var mnemonic = "wool tilt spirit peanut urge maze matter frost tackle avocado skill gloom";
+var mnemonic = "palm capable utility settle floor sleep life stock betray upper express bicycle";

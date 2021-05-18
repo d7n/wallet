@@ -1,1 +1,1 @@
-var mnemonic = "analyst oil alley oxygen remove fee claim team eagle left correct rain";
+var mnemonic = "setup voice raise rare shaft drill spray trophy hedgehog balcony width dumb";

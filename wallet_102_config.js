@@ -1,1 +1,1 @@
-var mnemonic = "uncover emerge comfort often witness grit nut patrol lobster moral punch task";
+var mnemonic = "bubble offer quit student bind property name bicycle copy agree duck gate";

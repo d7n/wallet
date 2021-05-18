@@ -1,1 +1,1 @@
-var mnemonic = "snake nation copy alone window salmon horror educate order cattle brief reason";
+var mnemonic = "purse notice leaf fox island similar wheel diet seek orphan excite topic";

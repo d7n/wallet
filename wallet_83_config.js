@@ -1,1 +1,1 @@
-var mnemonic = "end bubble dinner perfect carry pool bomb winter ancient gallery joy flavor";
+var mnemonic = "bicycle pattern above damage apology mind solid kid adapt heavy night fault";

@@ -1,1 +1,1 @@
-var mnemonic = "own mansion fade silent peace table uniform item tribe cloth blue erosion";
+var mnemonic = "impose source glow erode wing lunch diamond snow leg side patient tourist";

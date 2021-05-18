@@ -1,1 +1,1 @@
-var mnemonic = "later large dance rent rival disagree law six horror ozone bronze great";
+var mnemonic = "foil bonus scene agent coach gift voyage observe shy vibrant smile excite";

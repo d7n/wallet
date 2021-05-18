@@ -1,1 +1,1 @@
-var mnemonic = "define forum humble civil rent awkward coconut wedding today fresh rigid speed";
+var mnemonic = "secret regret cinnamon tide mushroom owner comic cute relax omit source crucial";

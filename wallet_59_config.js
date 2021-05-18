@@ -1,1 +1,1 @@
-var mnemonic = "region sure genuine embark resist tank remember borrow outdoor enlist cable near";
+var mnemonic = "coyote skin broom artefact bitter twist derive silk repair sure column jelly";
