@@ -1,1 +1,1 @@
-var mnemonic = "snap spin adjust leave clap narrow connect idle clap avoid lonely when";
+var mnemonic = "body afraid obey simple slam deliver middle sock worry exhibit vanish mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "horror spread memory hotel owner dentist parade copy bean light purse spirit";
+var mnemonic = "tortoise various artefact useful mobile south rival swift please system window joy";

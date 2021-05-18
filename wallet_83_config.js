@@ -1,1 +1,1 @@
-var mnemonic = "embrace similar thumb ceiling cargo swallow impose rely undo inhale curious mandate";
+var mnemonic = "peasant area video open upset canyon deputy conduct cute usage reduce panda";

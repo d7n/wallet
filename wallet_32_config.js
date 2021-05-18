@@ -1,1 +1,1 @@
-var mnemonic = "blame exchange club salmon slogan dinosaur review detect flock you jelly fossil";
+var mnemonic = "toy laundry daring crop decline calm knee payment sugar shy quality body";

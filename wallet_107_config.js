@@ -1,1 +1,1 @@
-var mnemonic = "sport ski art scheme catch lobster crop paper scissors cave scatter spirit";
+var mnemonic = "favorite rabbit crawl depend cluster divert object festival exhibit celery like shift";

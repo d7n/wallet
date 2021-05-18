@@ -1,1 +1,1 @@
-var mnemonic = "drink come flip clean harvest sorry neck blush matrix process sample blind";
+var mnemonic = "pact media design tornado force indoor matter slide field once circle skin";

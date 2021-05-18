@@ -1,1 +1,1 @@
-var mnemonic = "impose grocery clog transfer noble stem fee health joke bitter return brick";
+var mnemonic = "spare bargain observe fit raccoon lecture afraid diet demand ramp dolphin biology";

@@ -1,1 +1,1 @@
-var mnemonic = "bid alter scorpion animal reopen essay mom cotton notable grunt tape feed";
+var mnemonic = "trumpet genre result fitness accident you warm tail slush inner close excess";

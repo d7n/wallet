@@ -1,1 +1,1 @@
-var mnemonic = "achieve sibling pencil debris unusual asthma poem open size spatial frequent wish";
+var mnemonic = "arm tiny employ infant favorite select brand wisdom option aisle regret artist";

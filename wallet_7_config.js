@@ -1,1 +1,1 @@
-var mnemonic = "extra guitar round control biology answer short stove dutch pitch eye erosion";
+var mnemonic = "govern fragile earn dash bullet around upon embrace stem custom lock fashion";

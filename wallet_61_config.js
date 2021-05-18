@@ -1,1 +1,1 @@
-var mnemonic = "finish sport ozone scheme stove all lemon coffee layer lobster type rack";
+var mnemonic = "ocean near kite excite mind shoulder ramp abuse huge century company distance";

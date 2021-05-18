@@ -1,1 +1,1 @@
-var mnemonic = "luxury rail quit kingdom entire into dawn visit million organ seek toast";
+var mnemonic = "turkey secret biology season tonight song chicken sugar occur post satisfy net";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor brave burger desk aspect wash used void royal total leg odor";
+var mnemonic = "slide census always devote setup fragile trim buyer float invest stumble denial";

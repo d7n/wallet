@@ -1,1 +1,1 @@
-var mnemonic = "magic autumn second stay camera oppose lunar glad broom merge live capable";
+var mnemonic = "gesture unfold laptop pupil slogan tennis chunk decrease disease envelope yard pledge";

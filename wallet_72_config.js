@@ -1,1 +1,1 @@
-var mnemonic = "survey captain forget found bread patient shoe disease domain neutral type truck";
+var mnemonic = "shy crack over kingdom damp enable pride air captain rate toast tortoise";

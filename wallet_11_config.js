@@ -1,1 +1,1 @@
-var mnemonic = "swear empower echo program stuff swing dwarf inform kite ocean relief hope";
+var mnemonic = "hello witness cereal they sauce deal moon shoe news raccoon south title";

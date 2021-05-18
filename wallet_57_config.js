@@ -1,1 +1,1 @@
-var mnemonic = "march develop goddess era life copy buzz either simple accuse acoustic siren";
+var mnemonic = "cat deer anchor urge mammal logic head century impose prevent educate addict";

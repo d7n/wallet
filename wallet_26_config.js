@@ -1,1 +1,1 @@
-var mnemonic = "portion catalog stick coconut transfer write opera wide return reunion skate flee";
+var mnemonic = "truth magnet mammal episode member point coconut comfort typical flat display stable";

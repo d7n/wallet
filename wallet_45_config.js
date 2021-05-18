@@ -1,1 +1,1 @@
-var mnemonic = "march relief gesture taste swarm street glide fold state promote reject derive";
+var mnemonic = "office normal nephew pact shock mention monster valve liberty hospital near connect";

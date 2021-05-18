@@ -1,1 +1,1 @@
-var mnemonic = "scorpion expose anger before gym copy giraffe owner over tourist galaxy tag";
+var mnemonic = "gentle decline end quit prison claim eternal slide time version ancient piano";

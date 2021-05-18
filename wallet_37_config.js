@@ -1,1 +1,1 @@
-var mnemonic = "alarm own audit piano arena legend report ticket obey punch found little";
+var mnemonic = "deliver fever antenna lawsuit oval tiger birth ginger middle shy hint arrest";

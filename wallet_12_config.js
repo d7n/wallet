@@ -1,1 +1,1 @@
-var mnemonic = "caught stay response melt opinion phrase palm math then awake slight pipe";
+var mnemonic = "horn beef build weekend away trip submit dizzy ignore match october vacuum";

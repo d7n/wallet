@@ -1,1 +1,1 @@
-var mnemonic = "ozone youth world exotic funny wrist erase extend design tissue oppose corn";
+var mnemonic = "view floor hen dirt copy old vintage tobacco live ride mix basic";

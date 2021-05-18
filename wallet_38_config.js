@@ -1,1 +1,1 @@
-var mnemonic = "choose banana curtain when toss expire fly purpose ask tape erase side";
+var mnemonic = "develop list thrive tomato modify vacuum pull wife cactus shield monster ride";

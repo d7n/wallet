@@ -1,1 +1,1 @@
-var mnemonic = "stumble detail practice chicken embrace shoot always comic frozen false boring iron";
+var mnemonic = "frame enable cheese embrace fire myth tank force apple total panic cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "feel divide stuff vendor key faith wave entire invest repeat follow height";
+var mnemonic = "science orchard caught milk pass chalk camera salon purpose buzz brass estate";

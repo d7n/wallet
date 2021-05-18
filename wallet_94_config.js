@@ -1,1 +1,1 @@
-var mnemonic = "six forward ancient noise movie quote either bread frequent ostrich humor lunar";
+var mnemonic = "cotton fashion garden where adapt visa era double spice amount clean faith";

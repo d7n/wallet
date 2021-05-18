@@ -1,1 +1,1 @@
-var mnemonic = "over ill gauge adjust cherry that flee series cable diagram net judge";
+var mnemonic = "wrestle prevent silk weekend target flash estate brown mushroom cost turn drama";

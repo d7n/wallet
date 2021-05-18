@@ -1,1 +1,1 @@
-var mnemonic = "eight maximum bus stable lyrics reopen soccer trust myself cliff stay major";
+var mnemonic = "essay woman art want dad swallow drama anchor arrow rug void enter";

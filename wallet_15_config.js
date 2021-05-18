@@ -1,1 +1,1 @@
-var mnemonic = "measure urge grocery immense album penalty brief vapor inside advance play abuse";
+var mnemonic = "knock expect eight scrub about govern wheat affair swarm scout dish gospel";

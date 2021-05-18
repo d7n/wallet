@@ -1,1 +1,1 @@
-var mnemonic = "smart hospital horror front uncle minor uphold target audit half chuckle endless";
+var mnemonic = "power snack until leaf remain hold perfect such option meadow senior deny";

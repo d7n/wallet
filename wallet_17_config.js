@@ -1,1 +1,1 @@
-var mnemonic = "alone movie home cool kingdom ladder harbor gasp suffer mad will margin";
+var mnemonic = "nurse library april then canal table galaxy detect fan figure kingdom smoke";

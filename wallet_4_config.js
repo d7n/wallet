@@ -1,1 +1,1 @@
-var mnemonic = "glide symptom unlock deal vanish journey sample expand brand pig bird home";
+var mnemonic = "spray pair blade armed tired undo brush shine engage physical border click";

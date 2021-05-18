@@ -1,1 +1,1 @@
-var mnemonic = "depth milk special void flee trade network plate color century fan adult";
+var mnemonic = "motor box scare device fabric around shed brush present year tower cause";

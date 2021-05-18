@@ -1,1 +1,1 @@
-var mnemonic = "prepare jazz birth claw trial satoshi elbow cash online clarify arena educate";
+var mnemonic = "cruel average snap glue erupt burden trust topic wage finish crouch coin";

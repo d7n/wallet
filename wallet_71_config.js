@@ -1,1 +1,1 @@
-var mnemonic = "curious spell wing biology vintage grape captain dinosaur style safe carry client";
+var mnemonic = "educate faith rhythm capital crack lawsuit author quote profit play maid genius";

@@ -1,1 +1,1 @@
-var mnemonic = "movie piano umbrella season unfold donate bunker daughter observe bicycle pattern sound";
+var mnemonic = "journey trumpet power orange surprise oyster country giant task grant harvest myth";

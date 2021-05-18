@@ -1,1 +1,1 @@
-var mnemonic = "elegant assume grape goat all alert omit fire enable month math innocent";
+var mnemonic = "program analyst they lava other piece salt afraid whale enjoy motor toy";

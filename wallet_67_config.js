@@ -1,1 +1,1 @@
-var mnemonic = "spawn core pistol income crouch spin snake input claim ill purity someone";
+var mnemonic = "abstract maze train boost basic alter gown ball share shine nothing affair";

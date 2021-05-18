@@ -1,1 +1,1 @@
-var mnemonic = "promote gaze impulse hint unveil lesson marriage toy thumb loop sadness prison";
+var mnemonic = "snake lottery law drink antenna gun mutual box entry chapter match worry";

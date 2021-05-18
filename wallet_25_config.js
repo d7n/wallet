@@ -1,1 +1,1 @@
-var mnemonic = "help switch leave empty undo skill route moral tooth huge treat seminar";
+var mnemonic = "baby person pigeon glory stairs catalog swim hedgehog neglect attract health crush";

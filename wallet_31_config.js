@@ -1,1 +1,1 @@
-var mnemonic = "rhythm elbow crew syrup obvious fan kingdom swap glance volcano member tragic";
+var mnemonic = "brave horn nephew door warrior invite upper fault verify erosion ten pudding";

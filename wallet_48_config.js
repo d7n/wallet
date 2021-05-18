@@ -1,1 +1,1 @@
-var mnemonic = "dance pizza lumber emotion flat media friend approve embark similar noodle segment";
+var mnemonic = "celery opinion love review slam assume material apology sample illness remove group";

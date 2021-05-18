@@ -1,1 +1,1 @@
-var mnemonic = "add gospel wrong gentle genuine remind ritual parent stable welcome response start";
+var mnemonic = "symbol pass ring such maze announce cushion swift vacant unit address useless";

@@ -1,1 +1,1 @@
-var mnemonic = "wait extra beef secret ship parade autumn medal eternal merit kangaroo coconut";
+var mnemonic = "teach engine swear tag vintage robot floor pink pledge garment local stand";

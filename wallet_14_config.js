@@ -1,1 +1,1 @@
-var mnemonic = "raw hedgehog speak near adapt motor exchange swear alert priority code develop";
+var mnemonic = "salon property boring once ostrich gaze dilemma unveil creek silly news pattern";

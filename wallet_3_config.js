@@ -1,1 +1,1 @@
-var mnemonic = "daring bulb rich category turtle afford next rude rare bridge dizzy exist";
+var mnemonic = "october science normal obvious apple crop anger fog skirt ladder hotel dress";

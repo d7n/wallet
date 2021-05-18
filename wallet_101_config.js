@@ -1,1 +1,1 @@
-var mnemonic = "praise dry escape crawl property empty chapter frozen clarify nose ski solution";
+var mnemonic = "best pact atom permit window horror skirt message top twelve wreck pilot";

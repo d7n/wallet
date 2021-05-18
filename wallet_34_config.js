@@ -1,1 +1,1 @@
-var mnemonic = "scout seven recall actual scheme negative wreck crane hat already amazing clap";
+var mnemonic = "powder metal quit goddess skill tornado heart boat satisfy release paddle ghost";

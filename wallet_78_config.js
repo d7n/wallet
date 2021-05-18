@@ -1,1 +1,1 @@
-var mnemonic = "dress memory series solar onion solar surround rebuild ticket parrot evoke skirt";
+var mnemonic = "cruel issue enlist entry victory trim leave monkey remember jar game reflect";

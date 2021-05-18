@@ -1,1 +1,1 @@
-var mnemonic = "inner annual hold poem bid almost tail one pottery tent guide speak";
+var mnemonic = "evidence chunk act sketch sad tattoo salmon sight involve you squeeze infant";

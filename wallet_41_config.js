@@ -1,1 +1,1 @@
-var mnemonic = "swear cinnamon search rotate velvet spring print deny document beef cabin story";
+var mnemonic = "segment problem second improve craft myself educate ride belt crouch coffee shadow";

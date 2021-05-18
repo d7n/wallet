@@ -1,1 +1,1 @@
-var mnemonic = "join chaos shoot blue flight hand famous venue turn tackle hood later";
+var mnemonic = "exchange book endorse day offer gravity light now toast soon wild oven";

@@ -1,1 +1,1 @@
-var mnemonic = "note number minute genius finger parent trick science sport excuse cricket almost";
+var mnemonic = "december ice craft number oil away differ mechanic cook keep stomach hobby";

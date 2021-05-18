@@ -1,1 +1,1 @@
-var mnemonic = "area magic term hotel logic elite sponsor ill river square garage heart";
+var mnemonic = "bundle zoo error horror topic zero tiger screen hill luxury online knife";

@@ -1,1 +1,1 @@
-var mnemonic = "task logic credit remain armor hub reward panel illness vacant blast become";
+var mnemonic = "day version affair quick squeeze rural only section giggle pen upgrade ugly";

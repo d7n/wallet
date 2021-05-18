@@ -1,1 +1,1 @@
-var mnemonic = "neck client traffic easy model odor sleep almost tag rib coil color";
+var mnemonic = "awesome pave jar credit grunt when sunset dumb approve birth desert meadow";

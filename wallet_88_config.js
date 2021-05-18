@@ -1,1 +1,1 @@
-var mnemonic = "cram under talk swift economy sheriff table depend little pill dinner spell";
+var mnemonic = "feed traffic ritual strategy thought gold ensure enroll machine practice hollow public";

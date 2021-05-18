@@ -1,1 +1,1 @@
-var mnemonic = "first crop bid slot acid twist dolphin coach ring stool bind echo";
+var mnemonic = "dignity math gravity legal mountain sure parent team wing daring betray host";

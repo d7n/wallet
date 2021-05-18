@@ -1,1 +1,1 @@
-var mnemonic = "tag slim arch zone number arrest casual armor upset shed scatter end";
+var mnemonic = "opinion acid vendor bomb frost onion fade frost style visit avoid canvas";

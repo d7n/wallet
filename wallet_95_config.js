@@ -1,1 +1,1 @@
-var mnemonic = "demise style company bachelor lava divert bunker vibrant neutral mixture engage inject";
+var mnemonic = "spy mean coconut employ base response enact local unique lemon horn suggest";

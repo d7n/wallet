@@ -1,1 +1,1 @@
-var mnemonic = "bag history crater cash mesh salon fee top correct kiwi lunch message";
+var mnemonic = "mechanic guess filter noble police drift gold busy mean ordinary joy adjust";

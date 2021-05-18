@@ -1,1 +1,1 @@
-var mnemonic = "legal toddler bread raven snack ship jacket runway taste snake salon shaft";
+var mnemonic = "sadness velvet another sleep foil soap census source bacon happy gift cake";

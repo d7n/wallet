@@ -1,1 +1,1 @@
-var mnemonic = "inspire knee scrub tobacco pride example total bracket install razor manual token";
+var mnemonic = "snack brief flash hover display bread wealth observe maid patient color find";

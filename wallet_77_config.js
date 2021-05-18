@@ -1,1 +1,1 @@
-var mnemonic = "pledge submit vanish concert jungle level shove among mother outer there release";
+var mnemonic = "crush student mandate federal budget timber ritual mushroom useless knock humble river";

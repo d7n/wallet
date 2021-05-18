@@ -1,1 +1,1 @@
-var mnemonic = "skate comic expand pipe small hip also point spend cable fall air";
+var mnemonic = "tag eight ghost oyster earn iron column expose cheap police same fly";

@@ -1,1 +1,1 @@
-var mnemonic = "advance planet wish canal grow loop tool insect anger rival couple knife";
+var mnemonic = "wood achieve add near road appear diet crunch maximum join joke rescue";

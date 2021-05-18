@@ -1,1 +1,1 @@
-var mnemonic = "laundry limb airport basic bacon flag industry enemy ice ahead angle atom";
+var mnemonic = "wife ridge problem pill crisp blush arrive toward song kitchen ring dial";

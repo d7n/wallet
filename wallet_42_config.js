@@ -1,1 +1,1 @@
-var mnemonic = "aspect message skirt spy season athlete insane stomach corn brother believe close";
+var mnemonic = "quarter stable elevator ostrich weasel involve pill three song code develop border";

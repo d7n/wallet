@@ -1,1 +1,1 @@
-var mnemonic = "series middle olympic hotel toast utility icon miss thumb execute avocado share";
+var mnemonic = "mystery since paper market urge april earn differ fruit kangaroo goose mechanic";

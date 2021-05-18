@@ -1,1 +1,1 @@
-var mnemonic = "grunt exercise absent doctor glance bundle match phrase day urban text grace";
+var mnemonic = "exist dinosaur coyote armed case suit art fabric motion harsh myself carry";

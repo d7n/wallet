@@ -1,1 +1,1 @@
-var mnemonic = "auto final push agent person cool fine mechanic welcome weapon error tray";
+var mnemonic = "slight click twin wine deposit cake bracket law battle ship van mask";

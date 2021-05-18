@@ -1,1 +1,1 @@
-var mnemonic = "rural argue entry once february nation exotic inhale cigar purse virtual floor";
+var mnemonic = "include ahead private boy tuna moment coconut guess shadow media like cool";

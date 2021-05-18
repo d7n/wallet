@@ -1,1 +1,1 @@
-var mnemonic = "approve claim replace whip obscure match narrow search sketch nut echo bundle";
+var mnemonic = "lend letter pilot change avoid wall destroy between machine update orient river";

@@ -1,1 +1,1 @@
-var mnemonic = "bike category river clump more east mushroom bleak orange tent civil stove";
+var mnemonic = "season slim mobile object ceiling cradle obvious casual dragon better idea print";

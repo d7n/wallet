@@ -1,1 +1,1 @@
-var mnemonic = "squirrel movie exhibit water absorb ostrich close write amused possible sweet clinic";
+var mnemonic = "edit chief huge interest noble future afford balcony film lamp also laugh";

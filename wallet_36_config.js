@@ -1,1 +1,1 @@
-var mnemonic = "luxury another indoor buzz blind tomorrow pledge left bless broccoli month also";
+var mnemonic = "rhythm people cruel liar cream sausage treat pond sibling speak upper grief";

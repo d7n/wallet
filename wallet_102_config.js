@@ -1,1 +1,1 @@
-var mnemonic = "chair account old voice quick diary top warfare pool version today crew";
+var mnemonic = "trap february essay employ fashion venue silver enhance clown scissors antique include";

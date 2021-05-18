@@ -1,1 +1,1 @@
-var mnemonic = "amateur voice crawl marble under winter illegal same torch then caught sting";
+var mnemonic = "deal push sell vacuum matter jealous skill stable need film orange visit";

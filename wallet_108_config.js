@@ -1,1 +1,1 @@
-var mnemonic = "hazard cricket awful blame lift diesel brave rain liar tenant click excite";
+var mnemonic = "satoshi wink tiger myth walnut relief sample erupt nut web chair lesson";

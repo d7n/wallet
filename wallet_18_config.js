@@ -1,1 +1,1 @@
-var mnemonic = "veteran person spike upset supreme image gold truly above near picture caught";
+var mnemonic = "owner true forward breeze when about apology leopard boost demand upset gorilla";

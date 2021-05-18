@@ -1,1 +1,1 @@
-var mnemonic = "budget off spider tornado click auto excite ocean foil olive stool fly";
+var mnemonic = "erase ridge desk pretty syrup song depth amused can inmate journey banner";

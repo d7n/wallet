@@ -1,1 +1,1 @@
-var mnemonic = "alien stomach pencil unfold pool reform run animal into slush balcony camp";
+var mnemonic = "sad crowd present enter mimic clip section armed session act item rhythm";

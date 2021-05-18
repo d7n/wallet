@@ -1,1 +1,1 @@
-var mnemonic = "pair dawn fit dose valley pudding swear coral debate omit garbage tennis";
+var mnemonic = "search tissue step shop please plunge rally employ permit comic snow decide";

@@ -1,1 +1,1 @@
-var mnemonic = "curve vivid push barrel airport lawsuit card swamp horse bargain rich exist";
+var mnemonic = "butter pizza buyer extend siren release east enrich acid brick away pride";

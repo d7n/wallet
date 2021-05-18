@@ -1,1 +1,1 @@
-var mnemonic = "rather canoe horse analyst silver vicious fault leaf when pill shallow neck";
+var mnemonic = "crop announce alcohol whip that history pig erode animal cake draft random";

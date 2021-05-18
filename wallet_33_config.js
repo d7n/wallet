@@ -1,1 +1,1 @@
-var mnemonic = "boy panel broom canoe evil owner reflect outside clinic dinosaur reflect kite";
+var mnemonic = "ketchup gentle butter battle plug abstract cinnamon mom broom spoil venue typical";

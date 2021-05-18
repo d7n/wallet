@@ -1,1 +1,1 @@
-var mnemonic = "transfer avoid mercy lunch maze indoor fantasy ready number bid used secret";
+var mnemonic = "whale scatter idea observe bicycle digital note mother easily february disease repeat";

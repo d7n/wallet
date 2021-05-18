@@ -1,1 +1,1 @@
-var mnemonic = "member horse ostrich kitchen auction divert unusual dry furnace flavor drive capable";
+var mnemonic = "always zero expose shock honey awake input fragile decrease industry trim fortune";

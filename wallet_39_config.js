@@ -1,1 +1,1 @@
-var mnemonic = "clutch urban odor promote choose hand genuine warfare ordinary deal puppy trial";
+var mnemonic = "burst chat actor assault elbow achieve secret night bag nice smooth small";

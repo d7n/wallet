@@ -1,1 +1,1 @@
-var mnemonic = "logic uncle pole muffin crash senior afford wrist kiss volume rather sister";
+var mnemonic = "skull country lend report column artwork lamp junk edit ceiling youth foil";

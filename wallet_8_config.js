@@ -1,1 +1,1 @@
-var mnemonic = "service used arrow barrel mail trim faculty salt stomach oak hawk dizzy";
+var mnemonic = "dwarf eyebrow pepper faint cross update coconut knee brief change awkward drive";

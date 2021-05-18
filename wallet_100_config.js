@@ -1,1 +1,1 @@
-var mnemonic = "noise awkward ski plunge upon device soldier pitch satisfy range awesome sunny";
+var mnemonic = "devote void neglect degree sort advice cereal impulse miracle narrow begin actual";

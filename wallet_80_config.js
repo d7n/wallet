@@ -1,1 +1,1 @@
-var mnemonic = "side august potato injury spring road dawn blush obvious shuffle camp thank";
+var mnemonic = "dish mercy nurse hire fly cargo tissue theory genre piece mixed enable";

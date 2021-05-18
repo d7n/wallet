@@ -1,1 +1,1 @@
-var mnemonic = "addict notable fine remain reject interest laundry funny catch interest tank car";
+var mnemonic = "sketch door cycle entry chef output exhaust leopard grant peanut solution logic";

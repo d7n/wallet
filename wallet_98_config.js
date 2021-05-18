@@ -1,1 +1,1 @@
-var mnemonic = "piano sauce collect regret group panda pipe receive sock wet under lava";
+var mnemonic = "category voyage suffer grass person myth modify sunset farm clerk guitar box";

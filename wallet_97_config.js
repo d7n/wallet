@@ -1,1 +1,1 @@
-var mnemonic = "claim grid cheese vivid window cloud income super must ocean control game";
+var mnemonic = "story velvet pulse fresh eight palm novel clean nerve faith biology twelve";

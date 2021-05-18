@@ -1,1 +1,1 @@
-var mnemonic = "frown royal rally phone lucky order south humor observe foster woman undo";
+var mnemonic = "special boy reform garden indicate afford drip dynamic method play stadium move";

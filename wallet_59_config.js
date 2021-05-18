@@ -1,1 +1,1 @@
-var mnemonic = "brain angry volume ordinary bar bulb tuna hold wasp panda common pistol";
+var mnemonic = "alarm grunt hammer excess kite truck old gown keen young evolve globe";

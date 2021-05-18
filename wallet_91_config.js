@@ -1,1 +1,1 @@
-var mnemonic = "phone donate illegal aisle glide stone spawn ensure federal throw route whisper";
+var mnemonic = "cluster cash lab pride badge filter replace mistake pepper judge route various";
