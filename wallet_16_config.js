@@ -1,1 +1,1 @@
-var mnemonic = "urge weasel arrive discover unique swing merit cruise deer physical clog option";
+var mnemonic = "ignore net capital rain robust exchange link describe dust educate benefit green";

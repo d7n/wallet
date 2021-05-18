@@ -1,1 +1,1 @@
-var mnemonic = "common similar liar spy dolphin valley honey floor margin wool ghost pink";
+var mnemonic = "chicken pumpkin wreck arrest kitchen disorder rhythm giggle rate glide mail force";

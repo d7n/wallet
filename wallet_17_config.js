@@ -1,1 +1,1 @@
-var mnemonic = "state predict shaft attend bar fan kite news enroll birth ostrich powder";
+var mnemonic = "student season spring join ramp cook pizza repeat margin credit surface enact";

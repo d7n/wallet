@@ -1,1 +1,1 @@
-var mnemonic = "quit tent forget envelope ugly heart program clip dwarf patrol wise input";
+var mnemonic = "skate shine change noodle august common arctic museum trial raccoon skirt news";

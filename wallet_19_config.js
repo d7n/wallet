@@ -1,1 +1,1 @@
-var mnemonic = "dish mixture prepare fire satoshi humor century leaf bleak any chronic wagon";
+var mnemonic = "early jewel helmet regular excite dolphin crazy street write detect term couple";

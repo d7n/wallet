@@ -1,1 +1,1 @@
-var mnemonic = "crop comic armor until north feel trophy trick major lake milk rice";
+var mnemonic = "school knee dream shoot put vibrant ready rule spoil gas history dawn";

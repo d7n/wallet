@@ -1,1 +1,1 @@
-var mnemonic = "cabin fuel sure bottom maple doctor there destroy grab humor trend thunder";
+var mnemonic = "swap boost burger hero indicate sign duck address rescue believe riot slam";

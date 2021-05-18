@@ -1,1 +1,1 @@
-var mnemonic = "about sun vital turtle this stem casual anxiety mountain rug sun pudding";
+var mnemonic = "lawn industry viable liar wheel until valid purpose lady pudding pride foster";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle gesture damage nest matter allow pumpkin awesome door kitten couch always";
+var mnemonic = "lamp believe together panic video attend boost match citizen renew hint angry";

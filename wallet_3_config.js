@@ -1,1 +1,1 @@
-var mnemonic = "list jeans machine dinner immense fashion possible cram media uncover hurdle empty";
+var mnemonic = "gauge enable sheriff subway humble strike violin true orchard grape prevent wine";

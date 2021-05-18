@@ -1,1 +1,1 @@
-var mnemonic = "young custom sign foot between lab cradle easily sorry tool say identify";
+var mnemonic = "off elbow paddle able remind about artwork purity course bulb crisp about";

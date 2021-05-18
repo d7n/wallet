@@ -1,1 +1,1 @@
-var mnemonic = "scare jacket before analyst pill one jealous amount language aspect pioneer project";
+var mnemonic = "moment pulp protect hover spice soon capital much blast minimum ordinary decade";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange mountain more praise ranch note bread clip limit finger atom exchange";
+var mnemonic = "nothing found double hybrid wagon guide hold ship pair dynamic obey tomato";

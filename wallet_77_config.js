@@ -1,1 +1,1 @@
-var mnemonic = "coast resemble news cereal rib comfort hill six either cart shift pair";
+var mnemonic = "horror empty casino timber absorb fly salmon virtual silly veteran cluster lounge";

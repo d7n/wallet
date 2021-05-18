@@ -1,1 +1,1 @@
-var mnemonic = "clinic indicate game august toe second one immense blue submit ugly frozen";
+var mnemonic = "solution parrot right public cattle traffic salmon assault dune rebel champion brother";

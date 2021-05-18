@@ -1,1 +1,1 @@
-var mnemonic = "novel actor acid vibrant coyote sunny one uphold casino gauge salt real";
+var mnemonic = "adult rapid long ready draw furnace glimpse health future jealous welcome fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper insect slow ecology certain athlete rug sing cement rule copy citizen";
+var mnemonic = "tank size favorite pipe path refuse auction divide latin tenant machine early";

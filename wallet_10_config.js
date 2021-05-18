@@ -1,1 +1,1 @@
-var mnemonic = "absent own squeeze jewel finger eager unveil hen junk despair claw useful";
+var mnemonic = "humble day gap truck sun laugh strong oppose chunk spell saddle find";

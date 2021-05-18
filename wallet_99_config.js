@@ -1,1 +1,1 @@
-var mnemonic = "phrase tank gallery sentence focus chapter away multiply extend huge fault soap";
+var mnemonic = "make device cousin shadow smart weird shoe outer gift palm render wool";

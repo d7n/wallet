@@ -1,1 +1,1 @@
-var mnemonic = "result ticket mind dream drastic rookie marble edge alter seven shine cream";
+var mnemonic = "eyebrow dose knee test catch panda bar fuel walk neither yard aim";

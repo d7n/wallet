@@ -1,1 +1,1 @@
-var mnemonic = "panda setup office federal audit term top track also east latin river";
+var mnemonic = "aisle evidence trap trap liar shiver wink silent taxi gloom jelly tone";

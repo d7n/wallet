@@ -1,1 +1,1 @@
-var mnemonic = "bag since oppose arrange glare video toe history magnet rocket chimney pole";
+var mnemonic = "prosper beach index prosper enter syrup company require mesh robust day forest";

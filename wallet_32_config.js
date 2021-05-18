@@ -1,1 +1,1 @@
-var mnemonic = "naive wine damage hand merge capital endless opera captain doll author tag";
+var mnemonic = "year pyramid canoe path arrange put army client bean sudden moral genius";

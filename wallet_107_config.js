@@ -1,1 +1,1 @@
-var mnemonic = "already relief hold miracle disagree name nuclear escape torch machine trigger pill";
+var mnemonic = "thrive vacant local demise pigeon design hunt elder shiver economy invite rhythm";

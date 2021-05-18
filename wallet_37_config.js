@@ -1,1 +1,1 @@
-var mnemonic = "bicycle upgrade pledge picture confirm vibrant tonight father south perfect struggle vacant";
+var mnemonic = "source object develop grunt seek device rib visa paper because capital polar";

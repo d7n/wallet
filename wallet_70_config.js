@@ -1,1 +1,1 @@
-var mnemonic = "behind depart allow tail hospital vapor pond age act acid glove whale";
+var mnemonic = "trick behave head defy bronze quote motor cloud opera improve smile admit";

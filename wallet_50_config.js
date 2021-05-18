@@ -1,1 +1,1 @@
-var mnemonic = "motion general glimpse hire still decade sphere wood song crouch cram priority";
+var mnemonic = "diet injury credit ring skill fox six stick garden useless neutral base";

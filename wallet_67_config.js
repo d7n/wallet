@@ -1,1 +1,1 @@
-var mnemonic = "marble forget secret chef trust work guilt eternal smart team asset stairs";
+var mnemonic = "cradle urban combine crunch chest audit toilet edge velvet leg salad title";

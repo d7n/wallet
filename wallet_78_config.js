@@ -1,1 +1,1 @@
-var mnemonic = "around spread scare entry pair gasp submit region music gaze gun rug";
+var mnemonic = "act task amazing cotton choose gadget critic snake enforce screen matter beef";

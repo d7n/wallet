@@ -1,1 +1,1 @@
-var mnemonic = "can win ready say alpha audit crisp pet alien column memory trouble";
+var mnemonic = "peanut climb diesel trash evolve elegant poem game recipe blood focus double";

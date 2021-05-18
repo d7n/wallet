@@ -1,1 +1,1 @@
-var mnemonic = "canoe daring false easily region pottery beauty rhythm laptop soldier water ball";
+var mnemonic = "actress distance brush delay observe coin museum cost tobacco enlist cheese army";

@@ -1,1 +1,1 @@
-var mnemonic = "talk unfair habit useful then rate bid crouch road concert arm betray";
+var mnemonic = "elbow runway laugh cart bless uphold benefit jealous assist timber success sport";

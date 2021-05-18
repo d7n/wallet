@@ -1,1 +1,1 @@
-var mnemonic = "agree rate circle basic mail spoon february use second pencil tell battle";
+var mnemonic = "sister tape need glue include panther devote nurse spare pride drastic enjoy";

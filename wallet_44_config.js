@@ -1,1 +1,1 @@
-var mnemonic = "setup neglect suffer alley firm already parade intact mouse bird call reward";
+var mnemonic = "sugar sick stumble violin wood miracle win mountain mechanic rubber burst custom";

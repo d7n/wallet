@@ -1,1 +1,1 @@
-var mnemonic = "believe hockey bean local state today manage city purchase ramp fold also";
+var mnemonic = "weasel mansion scale food obvious mule leopard hand wood color flash prepare";

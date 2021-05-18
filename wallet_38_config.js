@@ -1,1 +1,1 @@
-var mnemonic = "wild muscle city insect mixture oval happy coach silly end trade arrive";
+var mnemonic = "flight chalk health safe song hope raise acid person neutral elephant found";

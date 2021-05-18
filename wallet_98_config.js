@@ -1,1 +1,1 @@
-var mnemonic = "humor upper antenna mom cannon eyebrow tourist review person vendor alien apology";
+var mnemonic = "violin mean afraid spare nut slide half traffic become that cargo beauty";

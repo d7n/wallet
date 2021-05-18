@@ -1,1 +1,1 @@
-var mnemonic = "cliff shock client polar mango behave keep try pride merry horn more";
+var mnemonic = "despair moral joke dose magnet iron receive cloud super electric appear tenant";

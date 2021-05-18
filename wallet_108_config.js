@@ -1,1 +1,1 @@
-var mnemonic = "night outdoor seminar emotion sunny flock chair resource project make tourist roof";
+var mnemonic = "adjust armed deer tomato lady cheap shoot select lab solid rifle genuine";

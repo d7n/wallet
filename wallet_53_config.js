@@ -1,1 +1,1 @@
-var mnemonic = "lens crowd measure toward canvas sell tennis point physical power crane toward";
+var mnemonic = "coil suffer kind host next light visual drum blush dress feed security";

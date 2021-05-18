@@ -1,1 +1,1 @@
-var mnemonic = "sphere jaguar nut obvious october tube expire appear recall bring retire split";
+var mnemonic = "decorate kind rent shoe setup clerk feature chaos public nice apart sock";

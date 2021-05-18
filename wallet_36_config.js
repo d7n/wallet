@@ -1,1 +1,1 @@
-var mnemonic = "coil trumpet scheme gun collect bulb enable rigid hungry hold visa tomorrow";
+var mnemonic = "canal neutral elegant fuel menu physical alley surround between airport brother dream";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage suffer ahead board until face anchor buyer route birth october double";
+var mnemonic = "message convince render truck injury useless october captain decline nerve thought still";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery piano barrel pause empty robust snow talk nasty undo carpet amused";
+var mnemonic = "story sock foster borrow ill crane snack palm raven sponsor dirt cluster";

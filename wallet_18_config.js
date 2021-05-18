@@ -1,1 +1,1 @@
-var mnemonic = "helmet outside orbit journey believe fancy swim lady cactus come jewel forest";
+var mnemonic = "fault never south portion kidney now grid belt element rural possible whale";

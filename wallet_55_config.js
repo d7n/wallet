@@ -1,1 +1,1 @@
-var mnemonic = "board raise toilet together orbit wear nut acoustic person genre blur bleak";
+var mnemonic = "similar miracle lunch merit uncle sphere assault key umbrella goddess myth sing";

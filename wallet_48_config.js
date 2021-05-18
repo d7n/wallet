@@ -1,1 +1,1 @@
-var mnemonic = "erode roof album fame debate guard clinic dress bottom govern apart creek";
+var mnemonic = "danger bitter please tired divide tilt degree library nasty bag deputy pulse";

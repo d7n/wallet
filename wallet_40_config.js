@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fun approve leave party monitor hurry minute divide sorry tell great";
+var mnemonic = "weird payment gun income pencil choice lock say pulp people laptop dynamic";

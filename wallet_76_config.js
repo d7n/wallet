@@ -1,1 +1,1 @@
-var mnemonic = "nothing exclude decline outer math pond master news taxi mean pattern cancel";
+var mnemonic = "else clip turn cereal balcony spike gain pledge monster august movie turtle";

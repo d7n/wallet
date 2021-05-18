@@ -1,1 +1,1 @@
-var mnemonic = "asthma length hero scheme job then exercise crane vapor lawn slide dove";
+var mnemonic = "wheat general steak joke library same sort grow cake course oval uncle";

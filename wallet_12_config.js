@@ -1,1 +1,1 @@
-var mnemonic = "ranch merry vintage hold shy iron spy name music gesture chase away";
+var mnemonic = "win initial state thought valve dress analyst crime tortoise found worry know";

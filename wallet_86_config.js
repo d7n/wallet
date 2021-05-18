@@ -1,1 +1,1 @@
-var mnemonic = "race insect present cost topic charge wise blade juice bronze dose satisfy";
+var mnemonic = "enough drive strategy crucial leader gorilla six mesh relax helmet expand plunge";

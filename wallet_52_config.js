@@ -1,1 +1,1 @@
-var mnemonic = "rib exist float again physical figure style govern buzz soul deputy blood";
+var mnemonic = "seek critic excess split throw about theme very quit pulse flag rice";

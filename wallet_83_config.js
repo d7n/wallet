@@ -1,1 +1,1 @@
-var mnemonic = "achieve elbow sand element execute cement truck theory excite banana hobby seed";
+var mnemonic = "onion across hedgehog void fun search sense fog above light learn bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey end deposit day wedding happy cry useful slab ketchup task bulb";
+var mnemonic = "review arctic hover tissue program cradle asset curtain engine game strike cherry";

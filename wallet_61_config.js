@@ -1,1 +1,1 @@
-var mnemonic = "shock already strong senior wife maple evolve trip design tool toss across";
+var mnemonic = "category syrup nerve need omit share brisk hover shop eager clay indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "allow chimney later bitter ocean vacant force yard holiday half salt milk";
+var mnemonic = "knock cable style divorce reopen victory spell damage brass ramp proof pony";

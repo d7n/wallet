@@ -1,1 +1,1 @@
-var mnemonic = "pretty voyage twist tag vapor right ramp wise brother swamp light safe";
+var mnemonic = "famous wild gas dune better boat beyond sea deliver vintage abstract modify";

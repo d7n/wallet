@@ -1,1 +1,1 @@
-var mnemonic = "unusual bind arrest head negative adjust orient giggle drum merit lazy tumble";
+var mnemonic = "exercise refuse eyebrow toss blind legal tattoo daring ankle faith point response";

@@ -1,1 +1,1 @@
-var mnemonic = "post sorry guess frost cash evolve lazy plunge wreck zebra report wash";
+var mnemonic = "mass season observe setup exact timber giraffe discover foot cost divorce mercy";

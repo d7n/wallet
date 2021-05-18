@@ -1,1 +1,1 @@
-var mnemonic = "live sniff soon vapor devote riot dilemma pudding bacon motion curious fabric";
+var mnemonic = "loop total series vanish build climb artefact delay throw illness apology amateur";

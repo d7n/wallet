@@ -1,1 +1,1 @@
-var mnemonic = "about swim busy garbage door elder dwarf above almost comic conduct clean";
+var mnemonic = "virus sound popular repeat empty enter help treat have govern fatal safe";

@@ -1,1 +1,1 @@
-var mnemonic = "throw rare memory antenna confirm deputy coil govern punch mom decorate song";
+var mnemonic = "library hamster snap loan diamond flash wet six visual hint ridge review";

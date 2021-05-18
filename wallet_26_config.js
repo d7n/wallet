@@ -1,1 +1,1 @@
-var mnemonic = "mushroom come usage clap asthma among drama seven beef sustain soccer merry";
+var mnemonic = "believe place afford sound alley beauty tornado sea smart female test present";

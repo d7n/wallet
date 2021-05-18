@@ -1,1 +1,1 @@
-var mnemonic = "dutch clerk satisfy top mistake monkey pencil display symbol lizard utility corn";
+var mnemonic = "broccoli swallow balance link gas plunge identify shadow ice ability beach mad";

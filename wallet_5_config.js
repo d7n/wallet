@@ -1,1 +1,1 @@
-var mnemonic = "target abstract dose hover video butter lamp found remember put zone great";
+var mnemonic = "enter eyebrow dice accident pistol model link ripple tray member open grace";

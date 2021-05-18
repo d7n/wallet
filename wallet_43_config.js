@@ -1,1 +1,1 @@
-var mnemonic = "bus immense stool merge metal coil track escape road elegant aunt venue";
+var mnemonic = "horse inspire soon huge episode pave worry first cause dove point valve";

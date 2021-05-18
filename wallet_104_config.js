@@ -1,1 +1,1 @@
-var mnemonic = "across post true poverty vehicle piece over adult melody mandate month pottery";
+var mnemonic = "label boy clown suffer wing vital champion jealous edge ankle piece plate";

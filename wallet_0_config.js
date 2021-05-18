@@ -1,1 +1,1 @@
-var mnemonic = "olive rain tank victory dad diesel buddy regular hammer diamond shield hope";
+var mnemonic = "tenant unknown index dad this unable practice metal list caught valley riot";

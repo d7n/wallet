@@ -1,1 +1,1 @@
-var mnemonic = "same real arrow flavor saddle nest wink squeeze banner pig jeans dune";
+var mnemonic = "beef card multiply inquiry sniff creek cushion front primary napkin insect slender";

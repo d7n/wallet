@@ -1,1 +1,1 @@
-var mnemonic = "ribbon right critic defense wedding food horn initial love garlic install beyond";
+var mnemonic = "usage buzz cupboard illegal inquiry layer pluck off poverty script ceiling heart";

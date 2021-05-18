@@ -1,1 +1,1 @@
-var mnemonic = "matter engine library mesh fatigue shed decrease silly round poem grit problem";
+var mnemonic = "crazy surround stereo angry cat keen dice yard glue install edge flee";

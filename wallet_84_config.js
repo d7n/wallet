@@ -1,1 +1,1 @@
-var mnemonic = "morning puppy cabbage sugar ensure curious elephant peace pink close sudden asset";
+var mnemonic = "river entire survey vendor brick sail defy snack poem fluid erase better";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase milk muscle cabbage lake call liquid siren milk debate very nut";
+var mnemonic = "hawk mandate seat very reveal build apology mom train asthma nuclear hamster";

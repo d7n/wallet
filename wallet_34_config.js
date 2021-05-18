@@ -1,1 +1,1 @@
-var mnemonic = "that flock clip square surface sheriff fog host water silk stove sun";
+var mnemonic = "tattoo alter holiday stomach resemble since text busy bleak school another duty";

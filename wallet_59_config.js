@@ -1,1 +1,1 @@
-var mnemonic = "pill vanish observe wave brother tobacco vehicle amateur pumpkin oil plastic inhale";
+var mnemonic = "lecture write scrap law room bicycle trip hip satoshi lunar daughter draw";

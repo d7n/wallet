@@ -1,1 +1,1 @@
-var mnemonic = "useless tennis state select hungry seat embrace nephew vendor style lawsuit future";
+var mnemonic = "gentle width material island flee cigar panel bullet cinnamon guard grief index";

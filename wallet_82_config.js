@@ -1,1 +1,1 @@
-var mnemonic = "hand trigger hen rookie auction lumber yard price renew light start produce";
+var mnemonic = "uncle panel valve way miracle evil imitate steel hope need carry fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "find present notice cotton concert rocket provide connect screen glue siren moon";
+var mnemonic = "tuition kick reject address unable cloth silly antenna exile inspire clap vessel";

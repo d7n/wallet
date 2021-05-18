@@ -1,1 +1,1 @@
-var mnemonic = "cluster news burger print young position chat copper cactus alarm cool car";
+var mnemonic = "tourist task will target entry never rough game acid together whale deer";

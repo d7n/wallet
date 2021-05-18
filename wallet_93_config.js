@@ -1,1 +1,1 @@
-var mnemonic = "sword pond awake fantasy town rule tool armed warm humble ten pepper";
+var mnemonic = "wait mind exit zero drill manage snack mutual certain federal husband rate";

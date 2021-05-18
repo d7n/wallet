@@ -1,1 +1,1 @@
-var mnemonic = "drive nominee jaguar artwork deputy equal trip couple mind orbit input ritual";
+var mnemonic = "coffee purse help antenna stumble wrist rough solar expose shield bacon solar";

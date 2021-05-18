@@ -1,1 +1,1 @@
-var mnemonic = "column grief adult mule toddler next sword dress daring galaxy front monkey";
+var mnemonic = "check rose crowd mobile plastic crawl unit offer remain daughter pluck reward";

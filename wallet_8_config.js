@@ -1,1 +1,1 @@
-var mnemonic = "offer suspect alcohol stuff inmate love equal jeans bulk finger forum adjust";
+var mnemonic = "help exhibit mean sight reopen track inch maximum cause minor danger check";

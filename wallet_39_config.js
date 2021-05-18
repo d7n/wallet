@@ -1,1 +1,1 @@
-var mnemonic = "demise suspect amused exhaust creek auto report vast now lunar time spend";
+var mnemonic = "what gap usual monster dutch say banner use pulp please armed scale";

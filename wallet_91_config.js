@@ -1,1 +1,1 @@
-var mnemonic = "ostrich auction awake liquid parade dilemma high inhale gold romance weird catch";
+var mnemonic = "clinic thought rely lawn buddy foam display amazing acid fade vacuum feel";

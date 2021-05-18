@@ -1,1 +1,1 @@
-var mnemonic = "hurt neck fossil demand day trick embody still protect country sure social";
+var mnemonic = "sport figure rescue scorpion intact tortoise cactus afraid gun lamp olive frog";
