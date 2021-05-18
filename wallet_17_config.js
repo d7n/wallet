@@ -1,1 +1,1 @@
-var mnemonic = "sunset climb output label double young jewel arch destroy wrestle useful wink";
+var mnemonic = "chicken swear citizen capital change wrap jelly verb explain begin finish clever";

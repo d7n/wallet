@@ -1,1 +1,1 @@
-var mnemonic = "require ride wheel camera thunder palace humor lecture okay property supreme police";
+var mnemonic = "slogan law share gold shed bundle chaos limit round false tail tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "attack about grid ramp goose clip search key fetch ball critic assist";
+var mnemonic = "chicken sorry giant stamp subject stem deliver flavor then smoke also pass";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle rose cotton robust win biology sand paper today safe funny ability";
+var mnemonic = "claim mesh fringe reveal almost iron kid sample next trap fun mango";

@@ -1,1 +1,1 @@
-var mnemonic = "comic furnace talk such wagon opinion until icon rely festival wedding filter";
+var mnemonic = "first erase genre race income spray zoo worry engine maid artwork barrel";

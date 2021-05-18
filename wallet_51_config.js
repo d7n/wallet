@@ -1,1 +1,1 @@
-var mnemonic = "choice write initial image impulse innocent once run coin poet chalk image";
+var mnemonic = "taxi depth escape upper spirit fatigue stamp matrix pretty fuel thing photo";

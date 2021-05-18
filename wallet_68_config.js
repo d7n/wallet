@@ -1,1 +1,1 @@
-var mnemonic = "taste camp empower balance repair because broken size language borrow cheese valid";
+var mnemonic = "shell sweet anger isolate album want waste pulse use another organ vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant service swing order vehicle make security domain addict quit advice stairs";
+var mnemonic = "boy clap few album moment chronic result vessel mimic sphere amused increase";

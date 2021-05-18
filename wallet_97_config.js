@@ -1,1 +1,1 @@
-var mnemonic = "link flock episode furnace play crouch nothing insane off electric hope ethics";
+var mnemonic = "mule pole innocent switch inherit there cup between use property ethics venue";

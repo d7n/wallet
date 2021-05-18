@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit when there rack frost harvest ride enforce tissue funny few educate";
+var mnemonic = "chaos long goddess flight subject owner black flat bronze village abuse melody";

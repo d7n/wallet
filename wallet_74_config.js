@@ -1,1 +1,1 @@
-var mnemonic = "december camp provide fly below reunion lend quote still trim explain icon";
+var mnemonic = "dragon festival crisp dust lizard pole glow impulse stuff erupt nominee galaxy";

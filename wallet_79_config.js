@@ -1,1 +1,1 @@
-var mnemonic = "spoon long can arena sister immune output habit fruit mushroom script tired";
+var mnemonic = "bubble orange industry toward evolve gun gasp empty keep burden course original";

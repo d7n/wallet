@@ -1,1 +1,1 @@
-var mnemonic = "hidden decide afford cheese tank vast trash yard inform coast surround trust";
+var mnemonic = "call coyote unique pottery safe rate tornado mention dinosaur world judge umbrella";

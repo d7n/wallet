@@ -1,1 +1,1 @@
-var mnemonic = "share huge knock piano breeze worry join cover fiber found skate remind";
+var mnemonic = "mushroom canoe ocean nerve excite impose add term minimum cancel talk symptom";

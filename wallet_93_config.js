@@ -1,1 +1,1 @@
-var mnemonic = "matter dish park select traffic excess mandate devote pipe gentle arch flee";
+var mnemonic = "ill blade bird thunder boat fade finish breeze spoon tackle trophy tip";

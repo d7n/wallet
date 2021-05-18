@@ -1,1 +1,1 @@
-var mnemonic = "slide anger card virus then elegant envelope achieve avocado crystal save repeat";
+var mnemonic = "cause short egg eight moral mean thing obey length goddess frequent travel";

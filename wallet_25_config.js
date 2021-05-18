@@ -1,1 +1,1 @@
-var mnemonic = "bracket trial planet usage afraid void hybrid ranch swap digital culture shock";
+var mnemonic = "region action slender source depart champion ask stand cycle flip replace soup";

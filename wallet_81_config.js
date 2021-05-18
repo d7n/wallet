@@ -1,1 +1,1 @@
-var mnemonic = "remind method stamp super soul spy only near shed moment icon flag";
+var mnemonic = "judge bubble physical atom awkward milk flip give good trade wisdom coast";

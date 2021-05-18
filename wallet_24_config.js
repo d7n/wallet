@@ -1,1 +1,1 @@
-var mnemonic = "submit never aisle trap midnight wing stick habit grace enact gaze film";
+var mnemonic = "rotate more double boss speak coil liberty upon car energy assault live";

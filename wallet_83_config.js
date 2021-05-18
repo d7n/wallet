@@ -1,1 +1,1 @@
-var mnemonic = "skin cliff leave theme hair property skill same drastic health spatial stool";
+var mnemonic = "index narrow legend goose casual mosquito antique cry globe bulb hotel outside";

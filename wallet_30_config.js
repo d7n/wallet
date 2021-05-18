@@ -1,1 +1,1 @@
-var mnemonic = "card void repeat fitness clarify manage phone fatal huge credit special cute";
+var mnemonic = "forest input salute pear spike blue grab keep van earth anchor gym";

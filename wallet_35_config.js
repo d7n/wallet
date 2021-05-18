@@ -1,1 +1,1 @@
-var mnemonic = "term arch blur enough recipe profit unusual airport afford tennis wrong marriage";
+var mnemonic = "indoor siren increase final unique tray outer flip blind ill casual brand";

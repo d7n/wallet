@@ -1,1 +1,1 @@
-var mnemonic = "destroy analyst round correct connect crisp aspect glimpse route beauty beach action";
+var mnemonic = "sunset penalty advice mango praise away brave erosion faculty morning burst shoe";

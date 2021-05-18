@@ -1,1 +1,1 @@
-var mnemonic = "clown ordinary search luxury abstract suspect guilt slim master noodle where health";
+var mnemonic = "detail symbol defy load acoustic journey submit unfair brown inquiry truth dynamic";

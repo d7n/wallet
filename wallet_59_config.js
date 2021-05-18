@@ -1,1 +1,1 @@
-var mnemonic = "inquiry tennis panther female together parrot hover harbor refuse immune health spend";
+var mnemonic = "achieve pen basic absent service soap farm call large kid exotic exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom use butter merge dry identify clay trim equip hero pilot catalog";
+var mnemonic = "chunk mechanic clap fortune arena omit legal eye attract guess alert very";

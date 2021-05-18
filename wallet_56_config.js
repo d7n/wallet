@@ -1,1 +1,1 @@
-var mnemonic = "exchange voice group edit hair elder legal search grocery avocado tattoo retire";
+var mnemonic = "attitude just pelican width analyst lend illness reveal spice abstract ride floor";

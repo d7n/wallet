@@ -1,1 +1,1 @@
-var mnemonic = "ocean indoor happy bean derive aisle teach grunt bright trigger strategy abandon";
+var mnemonic = "symptom tragic news prevent neglect village same copper crop swing snow pair";

@@ -1,1 +1,1 @@
-var mnemonic = "spell okay private ostrich math brave absorb skate connect stick snake defense";
+var mnemonic = "rubber shadow forward depart spread odor supply trick aisle real inspire gown";

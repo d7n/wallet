@@ -1,1 +1,1 @@
-var mnemonic = "buyer copy chaos essay churn orphan accuse start prosper hour enlist often";
+var mnemonic = "sustain load light orange daughter knock sketch vote adapt field amount obey";

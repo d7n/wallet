@@ -1,1 +1,1 @@
-var mnemonic = "coin fade domain sun member void proud cannon vintage luggage fold guess";
+var mnemonic = "elbow sick divorce rigid insane pink light gentle victory funny warrior kind";

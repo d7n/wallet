@@ -1,1 +1,1 @@
-var mnemonic = "select awkward trumpet morning inquiry lunch ahead ability glow pigeon sock upset";
+var mnemonic = "trend worry gorilla bread flush lecture october scheme program memory glove antique";

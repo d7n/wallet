@@ -1,1 +1,1 @@
-var mnemonic = "crush still swap crazy giraffe hair hair club ribbon tornado virus hole";
+var mnemonic = "rich mandate dizzy alone believe cannon powder spike virus guess salon you";

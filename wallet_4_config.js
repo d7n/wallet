@@ -1,1 +1,1 @@
-var mnemonic = "gesture sight eager celery skill finish will mixed amused inflict problem bomb";
+var mnemonic = "axis dolphin table silent unknown wave sting neglect next arrive book session";

@@ -1,1 +1,1 @@
-var mnemonic = "claw duck assault welcome civil change usual clown anchor acquire behave mountain";
+var mnemonic = "monkey category sausage menu bag remember young update season armed demand need";

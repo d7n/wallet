@@ -1,1 +1,1 @@
-var mnemonic = "multiply gift deliver throw pattern device maze weapon grape child panel gorilla";
+var mnemonic = "large burger wheat entry bless caught rescue era grape frost entry october";

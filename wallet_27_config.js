@@ -1,1 +1,1 @@
-var mnemonic = "case gown vessel term belt tonight episode brown dream huge fame runway";
+var mnemonic = "art remind size kitten wine sweet inhale fatigue eager short spoil lizard";

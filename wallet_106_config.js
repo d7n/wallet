@@ -1,1 +1,1 @@
-var mnemonic = "matrix luggage switch vibrant reveal verb weasel practice bar oppose alpha amused";
+var mnemonic = "session make priority cotton borrow tennis column undo brisk describe tattoo off";

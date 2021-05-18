@@ -1,1 +1,1 @@
-var mnemonic = "deal pupil doctor veteran ensure position legend yard strong open echo kidney";
+var mnemonic = "garbage rude peasant curve equip gym milk jaguar hover dove since worry";

@@ -1,1 +1,1 @@
-var mnemonic = "auto hammer unfair dinosaur adult alpha version detail side country twice favorite";
+var mnemonic = "rug core shell detail worry swear salad year poet core gain force";

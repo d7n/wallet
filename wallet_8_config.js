@@ -1,1 +1,1 @@
-var mnemonic = "daughter retreat explain fade turn entire voice dutch latin taste extra clay";
+var mnemonic = "man afraid plunge remember decrease deposit kiwi promote unable slender pool boat";

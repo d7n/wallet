@@ -1,1 +1,1 @@
-var mnemonic = "evidence dove license word march simple quit spell thunder fresh cradle trap";
+var mnemonic = "success alone walk amateur enough wrestle spoil discover drastic oak february correct";

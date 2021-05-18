@@ -1,1 +1,1 @@
-var mnemonic = "time sibling divide pudding wagon aspect obvious dust joy vehicle attitude together";
+var mnemonic = "act amount person snap garden negative give anchor eternal notice drop permit";

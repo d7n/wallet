@@ -1,1 +1,1 @@
-var mnemonic = "baby mutual mechanic case deposit surprise guard come method art paper junk";
+var mnemonic = "mail protect file finger honey easily nephew letter hedgehog angry option cigar";

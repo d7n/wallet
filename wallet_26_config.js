@@ -1,1 +1,1 @@
-var mnemonic = "credit have express next what hill economy mutual brush drastic input fitness";
+var mnemonic = "kitten copy convince modify broccoli rapid parade only enough honey kitten safe";

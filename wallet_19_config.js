@@ -1,1 +1,1 @@
-var mnemonic = "index develop aisle total eye step logic vendor old twelve dash cube";
+var mnemonic = "current soap demand skill coil gown win leisure avoid steak energy behave";

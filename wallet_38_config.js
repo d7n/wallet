@@ -1,1 +1,1 @@
-var mnemonic = "stomach goat clown alpha admit solution exhibit snow stock odor castle coconut";
+var mnemonic = "mountain person guess pudding horn coyote twelve isolate snack beach check museum";

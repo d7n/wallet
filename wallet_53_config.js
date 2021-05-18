@@ -1,1 +1,1 @@
-var mnemonic = "wait dish month woman describe sample dragon nest sphere baby ceiling chef";
+var mnemonic = "element rhythm distance nerve ski tiger mean cliff frown cost settle wise";

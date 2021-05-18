@@ -1,1 +1,1 @@
-var mnemonic = "mix slide save silk glow torch example day goddess brain solid arrange";
+var mnemonic = "favorite priority science across surround tag flower voice mail olive depend mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "august already club churn draft antenna apart return hybrid patient load grain";
+var mnemonic = "frequent trouble radar staff close slender embrace glare bread enjoy danger blanket";

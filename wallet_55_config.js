@@ -1,1 +1,1 @@
-var mnemonic = "around attract useful assist what radio stone height pulp edit wrong abuse";
+var mnemonic = "share tiger noise oak target syrup attend menu slot symptom expect dumb";

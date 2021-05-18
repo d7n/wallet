@@ -1,1 +1,1 @@
-var mnemonic = "dash know guide wrist all giggle coach energy wave record vapor peace";
+var mnemonic = "patch civil cabin hundred tower issue crumble dune relief stumble fantasy maximum";

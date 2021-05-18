@@ -1,1 +1,1 @@
-var mnemonic = "aisle leisure globe power milk tonight garbage lens type brief prize buyer";
+var mnemonic = "derive tool dentist ketchup leisure void right salute crunch catalog harsh actual";

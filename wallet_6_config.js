@@ -1,1 +1,1 @@
-var mnemonic = "infant blame visual dwarf forest weekend barely pepper raw tape dove opera";
+var mnemonic = "blind box doctor spray skill rude kangaroo bike marine another purpose member";

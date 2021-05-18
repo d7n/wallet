@@ -1,1 +1,1 @@
-var mnemonic = "vendor risk shoot journey antique celery cradle lock auction shift earn weather";
+var mnemonic = "bundle unusual inform remove slim dentist claim figure verb bright source exotic";

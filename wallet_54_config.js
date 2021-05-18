@@ -1,1 +1,1 @@
-var mnemonic = "toilet ordinary stomach blanket dove warrior session above distance outdoor swap present";
+var mnemonic = "same jaguar account happy prevent purchase nominee pear hero labor people pitch";

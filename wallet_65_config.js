@@ -1,1 +1,1 @@
-var mnemonic = "behind arch school giraffe oval orchard example story laundry march quick bulb";
+var mnemonic = "window flag jar monitor much labor what spare maid clarify duck replace";

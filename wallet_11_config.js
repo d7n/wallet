@@ -1,1 +1,1 @@
-var mnemonic = "banana width coach organ enhance feature hotel crash benefit decrease creek power";
+var mnemonic = "little season scout truth glimpse stuff horse reason armed swing soft fringe";

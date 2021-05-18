@@ -1,1 +1,1 @@
-var mnemonic = "art enhance night violin affair horn charge roast paddle artefact physical visual";
+var mnemonic = "vault meat flash unlock canvas trick shine sun sing disorder enter pistol";

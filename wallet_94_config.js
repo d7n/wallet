@@ -1,1 +1,1 @@
-var mnemonic = "cherry super drastic mouse liberty angry year upon off slice benefit cake";
+var mnemonic = "average improve deputy monster control relief grocery vanish viable method cargo that";

@@ -1,1 +1,1 @@
-var mnemonic = "better flush claw under egg agree resist banner orchard young glide zero";
+var mnemonic = "total faculty bean churn runway permit claim seven sniff corn coral pyramid";

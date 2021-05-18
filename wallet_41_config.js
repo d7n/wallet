@@ -1,1 +1,1 @@
-var mnemonic = "pull obvious disagree real adapt surface volume volume cry theme town manage";
+var mnemonic = "cheese engine hood twice off useless educate open purse frequent believe heart";

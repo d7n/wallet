@@ -1,1 +1,1 @@
-var mnemonic = "able use enjoy child marble window extend force tube cute target file";
+var mnemonic = "knife imitate apology sign split account domain sick ramp crop century wise";

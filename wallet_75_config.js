@@ -1,1 +1,1 @@
-var mnemonic = "shrimp athlete jewel scorpion celery any tower picture social alone notice visit";
+var mnemonic = "virtual parrot catalog timber together chest grain purchase unlock route soap twenty";

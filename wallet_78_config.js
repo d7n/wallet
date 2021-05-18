@@ -1,1 +1,1 @@
-var mnemonic = "reopen accident kitchen slam december odor narrow fresh catalog host rough pattern";
+var mnemonic = "glove net pave asthma close course damage body pet garment model grace";

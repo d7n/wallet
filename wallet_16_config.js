@@ -1,1 +1,1 @@
-var mnemonic = "foam alone wrist sport inform jealous future uncle other practice grass repeat";
+var mnemonic = "rain talent abandon enemy blind diesel fish crouch circle thought silk tissue";

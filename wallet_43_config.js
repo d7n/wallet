@@ -1,1 +1,1 @@
-var mnemonic = "stem save come sea enough bench focus present banana maid coil half";
+var mnemonic = "path much balcony stem oxygen remind pencil cattle swear blouse this virtual";

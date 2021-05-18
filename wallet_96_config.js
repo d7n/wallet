@@ -1,1 +1,1 @@
-var mnemonic = "cage powder away square corn deal candy pizza position position drama draft";
+var mnemonic = "cart debate picnic eagle pretty raven column merit estate dish write elegant";

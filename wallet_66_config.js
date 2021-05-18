@@ -1,1 +1,1 @@
-var mnemonic = "error rotate whale cable strike shaft inside debate fatigue try decrease ceiling";
+var mnemonic = "aim slim cook kangaroo crazy skate script slam appear mammal student ceiling";

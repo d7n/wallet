@@ -1,1 +1,1 @@
-var mnemonic = "weird army volcano first write only evil taste find hero volume crawl";
+var mnemonic = "excess nature alley fragile pilot always genius that morning accident north where";

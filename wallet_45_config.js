@@ -1,1 +1,1 @@
-var mnemonic = "stumble settle surge member notice silent world idea joke hen detail brain";
+var mnemonic = "fold scale talk young tennis permit desert fiction salmon trend shy tackle";

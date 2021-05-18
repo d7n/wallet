@@ -1,1 +1,1 @@
-var mnemonic = "transfer exist reveal just equal broken project dragon city member follow fever";
+var mnemonic = "dumb someone chat forward marble teach involve cream amount skirt junk photo";

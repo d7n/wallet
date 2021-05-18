@@ -1,1 +1,1 @@
-var mnemonic = "pioneer segment prosper actual else patrol chef coin promote prison loyal client";
+var mnemonic = "winner flush climb toward spray real august congress renew inmate cheese half";

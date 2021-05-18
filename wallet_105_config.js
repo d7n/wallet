@@ -1,1 +1,1 @@
-var mnemonic = "tunnel various unlock unfair hidden fossil inmate public brass obvious speak lawn";
+var mnemonic = "sea brisk poet come advice dry seek excite spray business cook shed";

@@ -1,1 +1,1 @@
-var mnemonic = "say split ceiling indoor asthma palace paddle glove model assist decade rain";
+var mnemonic = "vibrant pyramid deputy atom undo bind duty decline exhaust rotate public bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wood side truth cry muffin crater carbon crack spice unusual course";
+var mnemonic = "cook keen target cry belt absorb rice annual ensure off lawsuit agree";

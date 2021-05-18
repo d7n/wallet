@@ -1,1 +1,1 @@
-var mnemonic = "gauge hen law talent stove special future frozen vote neck romance category";
+var mnemonic = "effort silk left window father judge clump grab pencil fence chunk tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "attract indoor scare raise when puzzle arena paper anchor apology where inform";
+var mnemonic = "mammal glue crumble spread already immune endless trophy december soda rate share";

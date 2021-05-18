@@ -1,1 +1,1 @@
-var mnemonic = "farm eternal cattle staff eyebrow video kitten chase merit adjust edge oven";
+var mnemonic = "never lucky hat top slow body wait despair middle alter nest vibrant";

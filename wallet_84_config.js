@@ -1,1 +1,1 @@
-var mnemonic = "vessel island slogan nature crack ability mean swift inject project pave reveal";
+var mnemonic = "actual empty mesh swarm soup will medal steel build kiwi profit multiply";

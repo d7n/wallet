@@ -1,1 +1,1 @@
-var mnemonic = "medal denial clown hill glare edge rhythm rural ride iron deposit someone";
+var mnemonic = "now can consider base offer tuition foot tiger gaze kingdom use noble";

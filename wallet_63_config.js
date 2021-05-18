@@ -1,1 +1,1 @@
-var mnemonic = "bicycle era pull answer coast word submit decade tortoise dance idea type";
+var mnemonic = "globe legend barely relief gallery when air purse relief trend lucky alpha";

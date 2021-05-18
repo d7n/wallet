@@ -1,1 +1,1 @@
-var mnemonic = "rebuild exist acquire witness gasp despair lecture drip visual bright settle syrup";
+var mnemonic = "heavy damp ski lawsuit marriage swap canvas metal fine tribe blade frog";

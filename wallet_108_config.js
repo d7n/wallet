@@ -1,1 +1,1 @@
-var mnemonic = "strategy hover priority circle rice kite brand proof piano couple random team";
+var mnemonic = "fade pitch coil upon trouble illness enroll ask same senior journey midnight";

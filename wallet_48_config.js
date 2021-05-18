@@ -1,1 +1,1 @@
-var mnemonic = "early cannon involve celery auto winter soap convince skin enact more vacant";
+var mnemonic = "segment party act section have panel siege loan adjust wish try evoke";

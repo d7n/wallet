@@ -1,1 +1,1 @@
-var mnemonic = "wash matrix multiply patch dinosaur accuse derive soft novel wolf fork because";
+var mnemonic = "shop good diesel dust crawl melt play tape host ensure double rug";

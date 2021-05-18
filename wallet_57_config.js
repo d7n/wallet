@@ -1,1 +1,1 @@
-var mnemonic = "elbow utility ill melt twice weapon image snow forget spread corn air";
+var mnemonic = "limit then lend face galaxy mystery ship capable detail charge carpet amount";

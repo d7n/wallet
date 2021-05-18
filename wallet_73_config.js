@@ -1,1 +1,1 @@
-var mnemonic = "wrap act nuclear cargo exotic believe average tornado spoil basic better live";
+var mnemonic = "hunt word nerve frown shuffle mean fish jar spoon edge viable frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "flight piano base neglect tobacco small arrange girl web cook have vibrant";
+var mnemonic = "fold juice wood annual hole island estate crumble cover charge caught gauge";

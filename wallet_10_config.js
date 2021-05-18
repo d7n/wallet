@@ -1,1 +1,1 @@
-var mnemonic = "assault velvet allow tuition topple trash ghost proof abstract light spare coin";
+var mnemonic = "distance novel kiwi fabric current sure sunny true turtle fluid drill vessel";
