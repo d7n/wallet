@@ -1,1 +1,1 @@
-var mnemonic = "rabbit clever scare undo demand cook cake corn relief image sell kit";
+var mnemonic = "ticket please false tuna donate resource issue usual knock girl demise modify";

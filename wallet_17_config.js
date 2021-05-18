@@ -1,1 +1,1 @@
-var mnemonic = "split appear furnace embrace hair car wait reflect style put twelve kite";
+var mnemonic = "trick slim kit uphold logic rib engage remember slim wave boat stay";

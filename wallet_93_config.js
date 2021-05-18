@@ -1,1 +1,1 @@
-var mnemonic = "current innocent day festival fan excess inch key peasant reduce approve clog";
+var mnemonic = "fold ginger learn cart manual venue wedding cattle figure load slab gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer minimum woman story page ring news shop during seminar summer review";
+var mnemonic = "metal file visit laptop camera isolate thunder skate damp alert pair skate";

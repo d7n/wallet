@@ -1,1 +1,1 @@
-var mnemonic = "disagree basket wait layer oblige sport barely waste sound gorilla physical very";
+var mnemonic = "hen pistol hour multiply curious enroll blur sing trim jewel cave cabin";

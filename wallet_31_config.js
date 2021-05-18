@@ -1,1 +1,1 @@
-var mnemonic = "vacant world suit moon bomb silent flush exchange between spend insane call";
+var mnemonic = "idle saddle obtain entire garden grain exhibit three ethics diet arctic remain";

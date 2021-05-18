@@ -1,1 +1,1 @@
-var mnemonic = "grass there crop faint today foster crisp sand boil process sign model";
+var mnemonic = "left paddle helmet adult wisdom dose apart master hundred juice road draft";

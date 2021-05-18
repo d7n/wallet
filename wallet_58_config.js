@@ -1,1 +1,1 @@
-var mnemonic = "toy cost topple exile vacuum angry album around unfair skin reflect airport";
+var mnemonic = "sadness jeans rescue inject adult chronic shrug system tooth spice crash swim";

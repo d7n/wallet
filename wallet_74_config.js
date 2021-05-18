@@ -1,1 +1,1 @@
-var mnemonic = "rival aim casual world episode cliff leg useful toddler toe edit pottery";
+var mnemonic = "spoil joy team motor track pelican kidney upper episode little shrug valve";

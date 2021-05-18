@@ -1,1 +1,1 @@
-var mnemonic = "sick warfare ghost release maple symptom pizza color oak naive original aim";
+var mnemonic = "cigar impact obvious frequent nut suspect exact stove tunnel observe stove despair";

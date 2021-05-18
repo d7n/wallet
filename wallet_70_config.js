@@ -1,1 +1,1 @@
-var mnemonic = "guitar song globe eagle color machine version fresh seven rocket lion reopen";
+var mnemonic = "situate echo gown soul mix board unhappy raven damp clean topic sort";

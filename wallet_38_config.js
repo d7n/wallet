@@ -1,1 +1,1 @@
-var mnemonic = "deputy gallery wrist antique feature staff twice whale hip business sing boss";
+var mnemonic = "weekend around force danger team baby usual cycle top guilt infant dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "swift useful pause sign cricket dog when fog web uphold embrace unusual";
+var mnemonic = "marriage february amount piece science logic wood they fluid asthma assume rural";

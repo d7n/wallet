@@ -1,1 +1,1 @@
-var mnemonic = "matter cave doctor viable idle genre impose aisle curve rocket happy inch";
+var mnemonic = "reform clump shrimp hood timber palace piano like talk tongue private baby";

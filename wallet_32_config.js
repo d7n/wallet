@@ -1,1 +1,1 @@
-var mnemonic = "frame pigeon innocent festival lonely crew abuse vicious pluck disagree caught reject";
+var mnemonic = "hint nominee wall silver devote umbrella invest impose slice melody reflect kiss";

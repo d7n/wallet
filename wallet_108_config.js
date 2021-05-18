@@ -1,1 +1,1 @@
-var mnemonic = "dutch stone cement expose organ begin outdoor bind spatial grief cram quick";
+var mnemonic = "pattern polar enhance feature entire assist wage today little gauge theory jealous";

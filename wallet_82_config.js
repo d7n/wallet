@@ -1,1 +1,1 @@
-var mnemonic = "dress uncover rebel bargain bicycle board bomb document traffic skull zebra switch";
+var mnemonic = "reduce awkward hockey current drive jealous detail penalty vivid more stand boss";

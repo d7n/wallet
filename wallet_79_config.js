@@ -1,1 +1,1 @@
-var mnemonic = "lift reject reunion captain voyage loud drive bubble course mind tackle only";
+var mnemonic = "van strategy hub local arena salute pencil bubble ethics swallow remove shift";

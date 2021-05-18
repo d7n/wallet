@@ -1,1 +1,1 @@
-var mnemonic = "donor promote carpet movie nerve guess return mixed toy march have lens";
+var mnemonic = "lend disease aware shed carpet rally trust elevator raven shrimp raise desert";

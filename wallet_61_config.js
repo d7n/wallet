@@ -1,1 +1,1 @@
-var mnemonic = "undo ancient false bone planet clump oven awful creek marble priority stomach";
+var mnemonic = "jeans permit refuse mandate vague mango begin crop firm name silver switch";

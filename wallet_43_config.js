@@ -1,1 +1,1 @@
-var mnemonic = "chest sample chimney license dune future behave slender salt snack subject mistake";
+var mnemonic = "cupboard remember gather crunch sudden hospital group insane social claw length monkey";

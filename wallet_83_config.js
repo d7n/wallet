@@ -1,1 +1,1 @@
-var mnemonic = "excess mom friend prize cherry palace voice correct chapter exhaust knee visa";
+var mnemonic = "circle route note know mosquito walnut festival festival clay minimum road copy";

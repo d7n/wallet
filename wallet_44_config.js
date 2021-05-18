@@ -1,1 +1,1 @@
-var mnemonic = "void rebel vote diagram together theme quit enforce engage scan lift boy";
+var mnemonic = "sibling rally hamster nerve ahead layer name magic art also exchange fish";

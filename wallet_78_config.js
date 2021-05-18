@@ -1,1 +1,1 @@
-var mnemonic = "demand cream artefact weapon extend welcome swamp shed invite autumn grit umbrella";
+var mnemonic = "vocal acid outer another oven venture lake ivory puppy fee olympic aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo normal toward victory pride execute found ahead morning decorate churn lesson";
+var mnemonic = "harvest hold eight fashion night fiber have insect slide tag sort club";

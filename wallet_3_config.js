@@ -1,1 +1,1 @@
-var mnemonic = "only disorder feed eternal danger scene modify stand six daughter island message";
+var mnemonic = "swim shallow board hood allow grocery attack author inform crawl problem shoulder";

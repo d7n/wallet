@@ -1,1 +1,1 @@
-var mnemonic = "athlete absurd warfare sound endless luxury fly element proof cliff issue funny";
+var mnemonic = "hybrid local enemy law range inquiry spend round hip orchard usage boss";

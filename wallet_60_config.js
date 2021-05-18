@@ -1,1 +1,1 @@
-var mnemonic = "spice mirror shoe abandon garment draft true cat account around mountain gold";
+var mnemonic = "pudding fat amused final foster spell trend blur fault swear client phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "wait early disagree volume elegant curve excuse citizen autumn sea sand nut";
+var mnemonic = "learn honey dial whisper harvest vapor access mandate key barrel enlist gauge";

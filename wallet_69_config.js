@@ -1,1 +1,1 @@
-var mnemonic = "cause process entire thrive tower battle balcony need siege green glow engine";
+var mnemonic = "agent crash gloom rigid sadness hold clock coin deliver moon aim warfare";

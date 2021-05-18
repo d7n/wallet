@@ -1,1 +1,1 @@
-var mnemonic = "hello author picture evil novel hip surge equal wire chicken near drift";
+var mnemonic = "train champion energy diet firm weapon soldier liberty address army riot cloud";

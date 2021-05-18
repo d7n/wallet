@@ -1,1 +1,1 @@
-var mnemonic = "sunny club surface during soft anxiety harsh pig face maze sketch noise";
+var mnemonic = "animal void urban humor candy attend roast assault one road speak brisk";

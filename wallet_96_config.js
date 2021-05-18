@@ -1,1 +1,1 @@
-var mnemonic = "bread amused found evil crater stand come play thank fiction sorry setup";
+var mnemonic = "often bulb tilt year monkey soft stumble sniff version polar differ ladder";

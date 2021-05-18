@@ -1,1 +1,1 @@
-var mnemonic = "cannon soul impact code empty garage monster argue accuse jelly surprise lend";
+var mnemonic = "wisdom easy vapor pattern attend noble brother demand van noble sibling thrive";

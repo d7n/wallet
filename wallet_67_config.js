@@ -1,1 +1,1 @@
-var mnemonic = "siren skirt wedding galaxy health slight fix measure permit hire lesson ordinary";
+var mnemonic = "cave excess whip valley chair treat napkin middle drastic stomach bubble butter";

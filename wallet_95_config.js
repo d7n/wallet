@@ -1,1 +1,1 @@
-var mnemonic = "butter pyramid reopen possible virus arch zero over yard sister sing neglect";
+var mnemonic = "subject scan weather alone piece fresh discover walnut fork lunar beyond critic";

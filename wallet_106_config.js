@@ -1,1 +1,1 @@
-var mnemonic = "bicycle mimic sure upper cool diary tunnel misery loyal join basket treat";
+var mnemonic = "window size cross tackle agree agent venture dinner lyrics blur select gossip";

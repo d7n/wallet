@@ -1,1 +1,1 @@
-var mnemonic = "weasel warm cancel best payment orbit gesture sniff mansion corn marriage element";
+var mnemonic = "raven patrol people tank fire reveal video live tomorrow soap mixed orange";

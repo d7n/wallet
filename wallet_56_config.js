@@ -1,1 +1,1 @@
-var mnemonic = "tissue dawn solar knife prevent voyage initial tube depart winter quote law";
+var mnemonic = "remove benefit knee trouble panda business goddess winner rocket enable dynamic demise";

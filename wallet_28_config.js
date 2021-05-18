@@ -1,1 +1,1 @@
-var mnemonic = "just laptop giggle manual husband mule fog void grab cross ladder resemble";
+var mnemonic = "excuse memory pull cousin circle glory farm chair pioneer myself young puzzle";

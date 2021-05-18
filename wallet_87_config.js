@@ -1,1 +1,1 @@
-var mnemonic = "purchase vendor uniform copy knock race more device involve genre notice autumn";
+var mnemonic = "primary ranch clog lunch dizzy check club gauge okay radar shove small";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle clog ball awful giant clean flee around tooth bubble misery prefer";
+var mnemonic = "labor join language paddle unit tip zone basic sight flavor fish settle";

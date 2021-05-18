@@ -1,1 +1,1 @@
-var mnemonic = "father simple illegal ocean during despair crouch urban know matter blind differ";
+var mnemonic = "anxiety theme behave power unaware legend grace cruise defense idle category concert";

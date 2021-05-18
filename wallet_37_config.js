@@ -1,1 +1,1 @@
-var mnemonic = "foot diagram drill rely advance exist oppose similar quantum auto among fitness";
+var mnemonic = "bundle permit torch hollow sample olympic gravity vacuum tone palace foster culture";

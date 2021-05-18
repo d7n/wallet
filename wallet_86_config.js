@@ -1,1 +1,1 @@
-var mnemonic = "brief seek minimum cousin awful tag message item jacket toddler maple angle";
+var mnemonic = "vocal column valve sound embody ten theory garden face shaft stone base";

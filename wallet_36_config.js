@@ -1,1 +1,1 @@
-var mnemonic = "system vivid virus lamp tired sight box wonder borrow grow paper math";
+var mnemonic = "arrest obvious metal exact jeans search rocket survey fluid approve market gadget";

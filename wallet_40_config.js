@@ -1,1 +1,1 @@
-var mnemonic = "melody result left logic window range mother cheese genuine need peanut install";
+var mnemonic = "marriage shine choice portion soon mail move hero isolate jazz ignore behave";

@@ -1,1 +1,1 @@
-var mnemonic = "useless useful worth arrest royal bounce public fetch month water project shoulder";
+var mnemonic = "soul deputy soap symbol shuffle frown write hip push hero cricket void";

@@ -1,1 +1,1 @@
-var mnemonic = "hire poem sight enlist lesson unique federal party trial glass betray rare";
+var mnemonic = "depend walk upgrade hurdle wheat fashion scan plate ticket side exclude risk";

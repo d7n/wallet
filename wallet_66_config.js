@@ -1,1 +1,1 @@
-var mnemonic = "exchange differ seat family gown peanut okay bachelor vehicle wealth symptom fog";
+var mnemonic = "patch hero fossil tennis news barely enter old skate process pact naive";

@@ -1,1 +1,1 @@
-var mnemonic = "draw celery garage sea leaf afraid april position gate rebuild bargain prefer";
+var mnemonic = "fragile rate fancy exchange reward face cactus cabbage casino clap manage wild";

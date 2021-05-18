@@ -1,1 +1,1 @@
-var mnemonic = "lens awesome pull coast prefer cupboard usual average mushroom wife wonder hire";
+var mnemonic = "nuclear dust pond powder amused marine satisfy library keen mosquito flight sugar";

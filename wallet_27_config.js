@@ -1,1 +1,1 @@
-var mnemonic = "safe mimic summer surge inside cash grid lucky match dinosaur soda reject";
+var mnemonic = "short moment captain main rocket city section fatal verb arrest second cute";

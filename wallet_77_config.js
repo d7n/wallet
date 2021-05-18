@@ -1,1 +1,1 @@
-var mnemonic = "six walnut opinion grace game collect level royal rain error evil owner";
+var mnemonic = "loyal tuition motor fee vintage next depth pave vanish clock pill bone";

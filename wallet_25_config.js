@@ -1,1 +1,1 @@
-var mnemonic = "extend grass wine fatal rib head vibrant weasel mushroom artefact device wrong";
+var mnemonic = "slide glass frequent steak column total gadget guilt confirm mechanic express victory";

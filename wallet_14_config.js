@@ -1,1 +1,1 @@
-var mnemonic = "tenant left apple half furnace purse soft journey cluster more rebel bargain";
+var mnemonic = "champion stove rice snow sound cigar witness camp all omit game sister";

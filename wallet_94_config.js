@@ -1,1 +1,1 @@
-var mnemonic = "metal lawn disease this olympic endless angry record anchor group cube pen";
+var mnemonic = "pet help edge since address ripple veteran street ankle avoid result grace";

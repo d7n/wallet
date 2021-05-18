@@ -1,1 +1,1 @@
-var mnemonic = "coil solution sibling amazing glide usage over toddler unable mistake during source";
+var mnemonic = "art poverty kind circle file rail hammer whisper exist theme craft you";

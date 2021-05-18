@@ -1,1 +1,1 @@
-var mnemonic = "rapid any elite normal cat heart maple oak frog board oblige fluid";
+var mnemonic = "dawn illegal work receive bone volume tonight fossil behave reject sick vital";

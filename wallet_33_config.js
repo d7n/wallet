@@ -1,1 +1,1 @@
-var mnemonic = "gadget snow crop nice path entire point salute laugh egg clog assault";
+var mnemonic = "few minute rebuild tattoo detail runway soap crane chimney royal pumpkin express";

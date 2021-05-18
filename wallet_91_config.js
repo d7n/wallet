@@ -1,1 +1,1 @@
-var mnemonic = "shoot acid inch donkey bridge excite try super change asthma loud enrich";
+var mnemonic = "useless shine claw scissors neither dismiss jewel oil bus shoe start glue";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter tonight electric latin draw main inmate oil subway where fuel wedding";
+var mnemonic = "device pitch skull depart usual member inhale better slight vicious peanut leg";

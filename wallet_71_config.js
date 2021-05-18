@@ -1,1 +1,1 @@
-var mnemonic = "estate tornado city leisure pioneer field finger food cupboard eternal present razor";
+var mnemonic = "field spice cart wear hen melt mystery cream bundle about maximum pigeon";

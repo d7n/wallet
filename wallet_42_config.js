@@ -1,1 +1,1 @@
-var mnemonic = "humble accident clay gas tooth reform mention kid save path cave police";
+var mnemonic = "curtain stereo cycle liberty ankle muscle spike nephew basket earn suffer mountain";

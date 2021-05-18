@@ -1,1 +1,1 @@
-var mnemonic = "differ loud street front forget share olympic assist hen snow consider ivory";
+var mnemonic = "cement balance depart culture orphan else session armor moral crack follow farm";

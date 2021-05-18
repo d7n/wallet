@@ -1,1 +1,1 @@
-var mnemonic = "old burger crazy subject wash present rain venture shuffle exit vacuum silly";
+var mnemonic = "mechanic elite slush final earth evolve typical mandate prize coin eye purpose";

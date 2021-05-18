@@ -1,1 +1,1 @@
-var mnemonic = "pony wagon hour hope volcano suffer negative unfold income input flower say";
+var mnemonic = "dry soap hollow jaguar legend enforce tribe much bring brand flavor hole";

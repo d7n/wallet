@@ -1,1 +1,1 @@
-var mnemonic = "limb pear grief burger always maximum sense voyage inform beach text century";
+var mnemonic = "hen sport shallow slogan cancel polar away elevator diagram salon document object";

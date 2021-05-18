@@ -1,1 +1,1 @@
-var mnemonic = "mesh screen coast pause stumble wasp heart doll actress month one casino";
+var mnemonic = "labor install depth caution distance stumble marine mass inject brief inch scare";

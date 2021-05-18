@@ -1,1 +1,1 @@
-var mnemonic = "foot whip page stand stomach blossom fish tunnel bag section history puzzle";
+var mnemonic = "fall wasp goat fever general extend cancel glad wheat mansion stomach strong";

@@ -1,1 +1,1 @@
-var mnemonic = "goose begin depend must glass link leaf timber blouse panic fox piece";
+var mnemonic = "hello trip point aisle crunch surround dad broken wine sorry globe champion";

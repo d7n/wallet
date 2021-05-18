@@ -1,1 +1,1 @@
-var mnemonic = "decide absurd balcony hand bomb memory clog area quote left pink grace";
+var mnemonic = "glide vague whip text moment rebel cushion pupil champion key divorce achieve";

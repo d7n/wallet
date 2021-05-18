@@ -1,1 +1,1 @@
-var mnemonic = "very report what ice inherit hero avocado lunar culture install sand distance";
+var mnemonic = "rival canyon knock quiz nothing profit casino hybrid jazz because cable budget";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna state spot february cactus provide coffee change kind sound expect stick";
+var mnemonic = "carry vivid afraid provide document lounge volume enable learn media enjoy quick";

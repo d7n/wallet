@@ -1,1 +1,1 @@
-var mnemonic = "stay fatal size paper they again assist wreck crash waste girl omit";
+var mnemonic = "wife cry relax hill where aim short toilet wrestle disorder tape place";

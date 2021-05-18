@@ -1,1 +1,1 @@
-var mnemonic = "panther dust lesson test harvest mango word girl scale love purity jungle";
+var mnemonic = "figure exit trust brown video vintage busy pause ancient cruise target advance";

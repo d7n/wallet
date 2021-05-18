@@ -1,1 +1,1 @@
-var mnemonic = "wolf track quarter planet uphold student girl moon brush book raven month";
+var mnemonic = "upgrade dash ketchup refuse someone pumpkin sail express scrub code people shoulder";

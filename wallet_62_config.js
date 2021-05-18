@@ -1,1 +1,1 @@
-var mnemonic = "vault remember club wage right panda also cream disagree vapor stock make";
+var mnemonic = "bless adult hotel romance you elevator analyst elite shell rule awkward magic";

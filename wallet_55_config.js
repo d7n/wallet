@@ -1,1 +1,1 @@
-var mnemonic = "lake coyote bomb indicate find charge galaxy access marble often idea boost";
+var mnemonic = "two rely paddle height child clump syrup derive recycle bright pair rebel";

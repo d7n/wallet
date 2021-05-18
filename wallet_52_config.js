@@ -1,1 +1,1 @@
-var mnemonic = "dove arrive connect baby syrup rapid market shy execute segment crush start";
+var mnemonic = "hurt diamond twelve filter ski monster item slot silent feature alley cook";

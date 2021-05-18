@@ -1,1 +1,1 @@
-var mnemonic = "inject galaxy unaware patch admit lizard track company purse bubble bounce insect";
+var mnemonic = "history slight session glimpse pole crush present birth screen alien tree tool";

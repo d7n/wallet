@@ -1,1 +1,1 @@
-var mnemonic = "pet eager collect drive train leaf rely glow whip belt shy uncover";
+var mnemonic = "faith cost enroll mom monitor hard spoon alone divide damp science useless";

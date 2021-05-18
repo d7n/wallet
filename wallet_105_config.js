@@ -1,1 +1,1 @@
-var mnemonic = "melody work faint lawn floor burden resist upset head cigar sudden snake";
+var mnemonic = "firm mail motor ill obvious decrease body close arena spray rural unaware";

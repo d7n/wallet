@@ -1,1 +1,1 @@
-var mnemonic = "battle demise again hungry skirt false critic address ignore tree crime icon";
+var mnemonic = "panda buyer front emotion boat inject explain human stamp cancel gesture kitchen";

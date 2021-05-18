@@ -1,1 +1,1 @@
-var mnemonic = "medal lock below plug kitten illegal way bike reduce scatter clap rack";
+var mnemonic = "cram yellow pepper fury notice achieve thumb solar access enable uniform enforce";

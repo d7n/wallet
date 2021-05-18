@@ -1,1 +1,1 @@
-var mnemonic = "chicken prize sunny film lazy spray grape person foam endorse song boat";
+var mnemonic = "snap mango junior service salon into caught town neck cargo occur correct";

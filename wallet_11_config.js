@@ -1,1 +1,1 @@
-var mnemonic = "cover gown noise bulk today address drop embrace middle despair midnight brisk";
+var mnemonic = "chase phrase bar wagon warrior buddy reform ordinary envelope spirit voyage need";

@@ -1,1 +1,1 @@
-var mnemonic = "taste game violin settle life calm clown crystal pudding crowd despair funny";
+var mnemonic = "awesome upgrade wine viable capable radar lift sand novel voyage letter retreat";

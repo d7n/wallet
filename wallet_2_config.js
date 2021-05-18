@@ -1,1 +1,1 @@
-var mnemonic = "outside outer tennis sketch thunder kangaroo cruel tail label tide nature pool";
+var mnemonic = "girl wide mass page good club boring accident picnic silk crane breeze";

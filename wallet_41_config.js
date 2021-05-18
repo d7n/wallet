@@ -1,1 +1,1 @@
-var mnemonic = "motor thrive exhaust riot sort height ring oil enough phrase update toddler";
+var mnemonic = "expire maple smart member that usual isolate fun neither brief ghost public";

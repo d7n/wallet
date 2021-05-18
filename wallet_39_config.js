@@ -1,1 +1,1 @@
-var mnemonic = "friend party mean flower armor bronze throw group ski olive grid stage";
+var mnemonic = "girl vicious girl welcome very toss soda resist snake average problem panther";
