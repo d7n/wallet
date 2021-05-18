@@ -1,1 +1,1 @@
-var mnemonic = "boil denial gesture evolve recall replace face follow input acoustic myself brand";
+var mnemonic = "evidence rhythm ivory kind airport water educate mom digital grant exist banner";

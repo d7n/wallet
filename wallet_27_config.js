@@ -1,1 +1,1 @@
-var mnemonic = "model audit code holiday power butter inquiry abandon cancel evil drip deposit";
+var mnemonic = "retreat code solar crew argue brass arrive grab castle nephew alert ancient";

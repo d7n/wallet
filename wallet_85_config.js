@@ -1,1 +1,1 @@
-var mnemonic = "achieve monkey genre fabric hockey tumble comfort argue advice witness receive oxygen";
+var mnemonic = "raise debris tape salt bird omit shrimp outside common shaft sell pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "repair load joy domain curve kind napkin umbrella weekend aware seven cupboard";
+var mnemonic = "exile evolve purchase hazard resource search jar shell pole advice flock head";

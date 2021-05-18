@@ -1,1 +1,1 @@
-var mnemonic = "minimum mandate swear poem plug divert tired race duck elevator joke cattle";
+var mnemonic = "social uncle glove reduce drink deer merry shallow essay border addict vessel";

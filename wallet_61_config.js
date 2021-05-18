@@ -1,1 +1,1 @@
-var mnemonic = "squeeze equip shop fragile insane stumble auto prison child spray trumpet proud";
+var mnemonic = "prize sail hockey that sea kind one canoe metal profit model drive";

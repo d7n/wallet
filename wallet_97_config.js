@@ -1,1 +1,1 @@
-var mnemonic = "toddler dash unusual inner true student rocket salt empower noble weapon length";
+var mnemonic = "salad tube uncover screen comfort behind manage unfold inspire old suit crew";

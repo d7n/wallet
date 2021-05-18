@@ -1,1 +1,1 @@
-var mnemonic = "device leave entire history elephant guess train globe predict enrich what elevator";
+var mnemonic = "anger supply motion bean develop shock oil arrow venture defense bird depart";

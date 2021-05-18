@@ -1,1 +1,1 @@
-var mnemonic = "verify floor blouse guitar elephant paddle alpha evidence boat blue unusual trip";
+var mnemonic = "wealth safe clerk pitch purpose verify peace doctor private holiday broom spin";

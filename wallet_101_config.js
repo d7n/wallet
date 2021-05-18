@@ -1,1 +1,1 @@
-var mnemonic = "black black spike save track simple mobile say suit green lonely burden";
+var mnemonic = "veteran assault female kingdom knife sniff bachelor penalty now force symbol cake";

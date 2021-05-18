@@ -1,1 +1,1 @@
-var mnemonic = "song arch baby into know sign goddess pause face shock suit mutual";
+var mnemonic = "window vague jazz famous atom into knock globe life message absorb replace";

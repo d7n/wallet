@@ -1,1 +1,1 @@
-var mnemonic = "fluid unusual bonus neck extend among innocent isolate young myth feature actual";
+var mnemonic = "position local tone grain dentist divert pig segment gasp office approve door";

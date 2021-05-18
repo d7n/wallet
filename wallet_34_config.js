@@ -1,1 +1,1 @@
-var mnemonic = "comfort impulse echo tag roast crew robot powder exercise inspire cave install";
+var mnemonic = "devote nose clock report solution edge pigeon bean master film mystery rose";

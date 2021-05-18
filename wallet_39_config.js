@@ -1,1 +1,1 @@
-var mnemonic = "relief candy fury fever swing cancel cousin scorpion flame suggest arrive surround";
+var mnemonic = "essence child bonus athlete tobacco fragile blossom dolphin discover recipe blouse remember";

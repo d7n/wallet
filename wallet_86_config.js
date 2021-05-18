@@ -1,1 +1,1 @@
-var mnemonic = "erode cupboard hood govern record rigid basic flip frown buddy such always";
+var mnemonic = "stem dizzy insane truth apology glide uniform risk juice palm regular rate";

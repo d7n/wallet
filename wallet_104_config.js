@@ -1,1 +1,1 @@
-var mnemonic = "coconut assault poet tenant sister perfect soft suggest green mention law useless";
+var mnemonic = "reunion cheap device traffic enemy fog glue display ancient panic hollow affair";

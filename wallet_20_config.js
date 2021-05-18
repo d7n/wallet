@@ -1,1 +1,1 @@
-var mnemonic = "fruit bicycle kit pencil fragile scene track between eyebrow isolate used elegant";
+var mnemonic = "hat spray tower fury able arch try tree blush elbow harsh illness";

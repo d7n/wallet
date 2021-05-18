@@ -1,1 +1,1 @@
-var mnemonic = "tray expire torch busy walk country anxiety repair congress tree arrest marriage";
+var mnemonic = "great hurdle usual rhythm squirrel curious champion vacant pen erosion fabric screen";

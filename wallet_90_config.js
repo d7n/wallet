@@ -1,1 +1,1 @@
-var mnemonic = "thrive mistake mushroom lion arrange make absurd object pill toilet pluck lonely";
+var mnemonic = "arctic paper monitor seat impulse aisle slow barrel fee rubber slight harvest";

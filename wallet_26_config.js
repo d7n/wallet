@@ -1,1 +1,1 @@
-var mnemonic = "breeze pass dragon object lucky oppose chalk mandate hire scan patrol quick";
+var mnemonic = "model electric repair chest tumble media famous false someone situate label huge";

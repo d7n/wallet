@@ -1,1 +1,1 @@
-var mnemonic = "know forum mean error appear steel trash inmate fat forward holiday chalk";
+var mnemonic = "unknown captain liberty display baby crime budget attract gym network promote mammal";

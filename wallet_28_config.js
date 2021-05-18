@@ -1,1 +1,1 @@
-var mnemonic = "nut hero endorse acoustic current ridge interest manual dizzy where super allow";
+var mnemonic = "answer buzz claw electric point parade brass possible pulse clump dad bid";

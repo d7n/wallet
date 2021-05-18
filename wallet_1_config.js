@@ -1,1 +1,1 @@
-var mnemonic = "length atom trade hand potato ten dumb legal ski stem leader away";
+var mnemonic = "wine funny evolve noodle iron snack advice list barely orbit lawsuit clean";

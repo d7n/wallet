@@ -1,1 +1,1 @@
-var mnemonic = "opinion autumn custom crawl occur smile soccer rather explain catch false farm";
+var mnemonic = "upper pet scare acquire guard tonight defy panic lecture gain burst rather";

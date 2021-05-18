@@ -1,1 +1,1 @@
-var mnemonic = "can soon alcohol agree rescue omit doctor sample alert hockey illness assist";
+var mnemonic = "seek neutral top reopen short help exit chimney harvest finish base pioneer";

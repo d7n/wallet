@@ -1,1 +1,1 @@
-var mnemonic = "laundry film rose dwarf eye special fashion ignore razor payment above desert";
+var mnemonic = "math boil nasty buffalo permit fun size tennis style vapor shock voyage";

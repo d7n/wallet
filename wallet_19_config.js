@@ -1,1 +1,1 @@
-var mnemonic = "drift device father mom acquire another noble appear jungle math north happy";
+var mnemonic = "girl trumpet eye dynamic page honey dish auction hidden valid mask swift";

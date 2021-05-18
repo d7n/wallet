@@ -1,1 +1,1 @@
-var mnemonic = "inner wheat bounce notice degree soldier mask wedding point shop join lock";
+var mnemonic = "else property because success divorce mutual issue fossil hill uncover faint buzz";

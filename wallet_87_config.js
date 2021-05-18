@@ -1,1 +1,1 @@
-var mnemonic = "material couch apple quarter soup fox split sense flock wrap what pizza";
+var mnemonic = "chunk adult supreme wing strong brisk shiver shrug snap news begin fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "close traffic mansion month catch poem album aunt just lawn require never";
+var mnemonic = "object combine manage intact case affair cross museum enhance symbol series sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "scan guitar volume lift stumble kite clever axis year churn film pledge";
+var mnemonic = "jacket spy sting claw define shoot goat ask exist bounce eight capital";

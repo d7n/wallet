@@ -1,1 +1,1 @@
-var mnemonic = "visit exchange debris outdoor stand pigeon during honey client visual purity expire";
+var mnemonic = "celery equal donate capital scissors early matrix limit current like hazard dinosaur";

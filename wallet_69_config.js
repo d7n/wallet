@@ -1,1 +1,1 @@
-var mnemonic = "enable bone express body find prison scan already scare ring person reason";
+var mnemonic = "current surround squeeze steak awake wild muffin inner enable stamp decrease beef";

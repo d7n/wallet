@@ -1,1 +1,1 @@
-var mnemonic = "legend quick fury rely exact explain spot vivid child moral bean mass";
+var mnemonic = "bleak then drum eyebrow cruel much armed vanish gate rotate donate short";

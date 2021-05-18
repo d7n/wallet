@@ -1,1 +1,1 @@
-var mnemonic = "material accuse trash clay unaware believe mandate task jungle result once mosquito";
+var mnemonic = "odor scissors act dove make melt fiber truly motion burst else mansion";

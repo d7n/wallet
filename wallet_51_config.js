@@ -1,1 +1,1 @@
-var mnemonic = "exchange bless silk firm radar border system develop blanket talent fan portion";
+var mnemonic = "report thumb claw clinic okay invite index when mesh grass meadow wagon";

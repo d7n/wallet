@@ -1,1 +1,1 @@
-var mnemonic = "boost junk where denial aspect kitten black cute mule hollow edge yard";
+var mnemonic = "blush arrange blame glide fix punch rule now flight naive rhythm weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "twist flavor girl hold cry party rack horror defense absurd pioneer forward";
+var mnemonic = "output exotic bullet address damage bunker long rifle text guard guilt cost";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil visit dismiss rigid topple salt asthma ensure stick lend canal undo";
+var mnemonic = "gift earth pear goose engine rocket crouch obtain narrow link save smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "praise trip thank edge knife canvas artwork uncle seminar zoo turn margin";
+var mnemonic = "aerobic permit response unknown imitate repair become sheriff shy toss oil art";

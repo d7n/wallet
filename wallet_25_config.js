@@ -1,1 +1,1 @@
-var mnemonic = "speak sponsor system unusual unable rotate stumble burger fabric desert slot better";
+var mnemonic = "habit paper journey subway garbage curtain silver arrow chief elder noodle worth";

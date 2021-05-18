@@ -1,1 +1,1 @@
-var mnemonic = "clip rare sentence february answer toe pretty produce enemy long equip south";
+var mnemonic = "velvet hair major parade amount only amateur wire smooth dance jeans sheriff";

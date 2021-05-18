@@ -1,1 +1,1 @@
-var mnemonic = "march onion cash clock grow kind extend joke brisk obtain protect envelope";
+var mnemonic = "cruise vault furnace violin idle bread awake soul actress budget excite swallow";

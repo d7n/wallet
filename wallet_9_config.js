@@ -1,1 +1,1 @@
-var mnemonic = "panel token immune cereal web exact inject cost thrive used patient educate";
+var mnemonic = "example upper across wedding clean chief unaware album congress peasant give fashion";

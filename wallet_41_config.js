@@ -1,1 +1,1 @@
-var mnemonic = "bamboo brass switch fragile moral angle bless junior panic dizzy rigid worth";
+var mnemonic = "film other humble broccoli hard purpose estate client lawn loud embody employ";

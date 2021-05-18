@@ -1,1 +1,1 @@
-var mnemonic = "shoulder mushroom enough ill borrow twelve tobacco virtual skate clip siege nuclear";
+var mnemonic = "retreat glue joke piece duck million tree keep reunion decorate metal mail";

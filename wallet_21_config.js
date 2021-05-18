@@ -1,1 +1,1 @@
-var mnemonic = "magnet glue chat athlete powder green alter year submit toy now need";
+var mnemonic = "boost replace unable witness machine glass cement rabbit garbage mind walnut scissors";

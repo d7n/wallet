@@ -1,1 +1,1 @@
-var mnemonic = "current album square vivid blame connect model wave prevent table rival special";
+var mnemonic = "online math thumb table hobby useful honey icon toddler lift marble scan";

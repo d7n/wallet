@@ -1,1 +1,1 @@
-var mnemonic = "when december suit post bamboo warm unveil machine remind rotate ugly stage";
+var mnemonic = "tornado winter guilt crunch bar account moon movie enroll nest poverty poet";

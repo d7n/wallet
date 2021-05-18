@@ -1,1 +1,1 @@
-var mnemonic = "faint bomb topple round motion cement scare syrup virtual isolate super feel";
+var mnemonic = "stem coast aisle decline narrow bean certain fault brand credit course garbage";

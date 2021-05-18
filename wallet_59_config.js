@@ -1,1 +1,1 @@
-var mnemonic = "clinic choose link melt cotton panel permit warfare know interest involve deal";
+var mnemonic = "skate loud sure ugly what boss swap screen rural other spot about";

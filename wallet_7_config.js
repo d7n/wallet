@@ -1,1 +1,1 @@
-var mnemonic = "sweet arrow head stereo issue grace item alone chair one brick visa";
+var mnemonic = "outer high awesome talent chase cart bunker emotion truth foot chuckle exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "castle pluck toy recall shoe detail sheriff thumb rail cruel supreme noble";
+var mnemonic = "road double direct card silver film clown apology gun immense scissors spare";

@@ -1,1 +1,1 @@
-var mnemonic = "soul salmon shell acquire episode quality drink sustain rescue size cream lamp";
+var mnemonic = "hotel member outdoor repair quiz just comfort sauce session notable orange insane";

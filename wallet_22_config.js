@@ -1,1 +1,1 @@
-var mnemonic = "cable oyster business tooth push sand slight else waste brain melt damp";
+var mnemonic = "actor follow consider add hold elite antique rule oval invest supply action";

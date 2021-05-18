@@ -1,1 +1,1 @@
-var mnemonic = "faith tissue people end cave vocal thrive first drip okay skull now";
+var mnemonic = "hazard food egg top cram news genuine aerobic basic call alert affair";

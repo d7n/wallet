@@ -1,1 +1,1 @@
-var mnemonic = "spice amateur canyon umbrella angle rude math window remain enhance scale nut";
+var mnemonic = "poem camera stumble fork naive parrot under sugar regular tray thunder sad";

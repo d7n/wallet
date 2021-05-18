@@ -1,1 +1,1 @@
-var mnemonic = "reject key guide suffer maximum satoshi across stove champion choice liquid comic";
+var mnemonic = "keep final enough census escape myself weapon giant country material lab music";

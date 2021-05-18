@@ -1,1 +1,1 @@
-var mnemonic = "raise piece disease toss assist library elevator hundred target craft invite ball";
+var mnemonic = "shrimp disagree surface invest enough naive post hunt fiction finish draft lens";

@@ -1,1 +1,1 @@
-var mnemonic = "fork robot always hair charge usage motion dad input pink will pottery";
+var mnemonic = "note frame click tourist blood alcohol ramp absurd release equal family dove";

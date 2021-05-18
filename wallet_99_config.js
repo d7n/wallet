@@ -1,1 +1,1 @@
-var mnemonic = "man rare junior wool gauge hole since forum essence vanish kidney side";
+var mnemonic = "wagon practice toddler measure endorse patient assist civil key nasty waste foster";

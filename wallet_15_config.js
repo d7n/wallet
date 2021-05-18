@@ -1,1 +1,1 @@
-var mnemonic = "fiscal visual check neutral gentle solve attitude inside toe dolphin fix loyal";
+var mnemonic = "story jeans focus syrup deputy loan sing elegant holiday pulse senior apology";

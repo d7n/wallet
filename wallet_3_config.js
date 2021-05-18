@@ -1,1 +1,1 @@
-var mnemonic = "wild accident display people toss toe prevent bag hand delay climb grape";
+var mnemonic = "army hover logic filter answer series ill island explain salt dune belt";

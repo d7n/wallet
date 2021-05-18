@@ -1,1 +1,1 @@
-var mnemonic = "since typical coconut claw garment purchase gesture dolphin fabric size foil accident";
+var mnemonic = "mountain talent price come early run merry umbrella shrug mushroom proof mandate";

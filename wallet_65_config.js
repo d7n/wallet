@@ -1,1 +1,1 @@
-var mnemonic = "surge brand protect salad impulse deny gorilla quantum view setup famous pepper";
+var mnemonic = "warrior poet video lamp quiz about bike nominee hero heart blast process";

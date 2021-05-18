@@ -1,1 +1,1 @@
-var mnemonic = "giant need walnut dress aerobic mail quiz hundred tattoo bronze peasant unveil";
+var mnemonic = "survey transfer bring novel right virus stairs tag play primary vanish across";

@@ -1,1 +1,1 @@
-var mnemonic = "glory obvious gold drum person have museum open dad poet chair neither";
+var mnemonic = "cattle winter vault scrub tumble face veteran media mind access dizzy analyst";

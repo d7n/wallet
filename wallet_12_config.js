@@ -1,1 +1,1 @@
-var mnemonic = "harbor squeeze shallow employ culture mechanic someone below wait answer cycle exclude";
+var mnemonic = "cat sister surge venture try sweet bind siege cushion addict enforce advance";

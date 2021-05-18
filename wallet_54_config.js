@@ -1,1 +1,1 @@
-var mnemonic = "address prize auction cool undo bid paper orbit shy virtual unveil demand";
+var mnemonic = "gospel valid success govern near obvious hundred minute civil dawn party indicate";

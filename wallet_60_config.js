@@ -1,1 +1,1 @@
-var mnemonic = "harbor payment black drill hockey food cloth soccer pretty jar reward pear";
+var mnemonic = "lecture fat moon able auto list hundred frog obscure inner original appear";

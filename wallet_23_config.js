@@ -1,1 +1,1 @@
-var mnemonic = "cricket together salmon catalog noodle seven peace shed giraffe run enroll speak";
+var mnemonic = "spread loud night eager laundry lion alpha excess company banana pond fancy";

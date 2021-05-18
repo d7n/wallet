@@ -1,1 +1,1 @@
-var mnemonic = "dolphin kit foam tired spin comic cruel connect speak treat topic hip";
+var mnemonic = "jazz neck day dry woman dash diagram this afraid click vocal galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "monster inch hard wrap country honey adjust notice prefer legal exclude happy";
+var mnemonic = "wife concert surprise cry upset spend license erase peanut sword unfair mean";

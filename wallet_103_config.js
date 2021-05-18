@@ -1,1 +1,1 @@
-var mnemonic = "autumn album outside depart quote boss sad recipe cash addict traffic soccer";
+var mnemonic = "pistol lock try balance garment laptop layer dwarf tell vendor host pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant budget coffee aisle voyage proud kitten arrange able reduce rookie reward";
+var mnemonic = "hungry very renew pencil muffin crime narrow speed input music address alien";

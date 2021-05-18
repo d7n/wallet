@@ -1,1 +1,1 @@
-var mnemonic = "chronic giggle six wedding crucial gun citizen tail hand flag observe danger";
+var mnemonic = "educate swap wheat antique citizen peanut cheese hub lift cigar hunt just";

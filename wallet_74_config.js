@@ -1,1 +1,1 @@
-var mnemonic = "trip balcony science sauce permit audit tank assume easily season open step";
+var mnemonic = "ring trust absurd hard jar math neither zero army acquire venue aunt";

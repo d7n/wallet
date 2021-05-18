@@ -1,1 +1,1 @@
-var mnemonic = "balcony media distance hire identify cherry april orphan quote brush save predict";
+var mnemonic = "evidence glance tube health vessel cook tomorrow awake aerobic over student ridge";

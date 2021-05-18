@@ -1,1 +1,1 @@
-var mnemonic = "laugh thunder october dog wing bachelor despair clerk easily toilet clump nephew";
+var mnemonic = "bus voice write question album hunt festival quote flavor beauty fluid bicycle";

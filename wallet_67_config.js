@@ -1,1 +1,1 @@
-var mnemonic = "maximum exclude office cliff theme health next paddle cushion inject tonight gown";
+var mnemonic = "view peace boil they measure tobacco cherry edit coin lock regret notice";

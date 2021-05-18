@@ -1,1 +1,1 @@
-var mnemonic = "anger project divorce course wrestle arrow barrel change memory better cause endless";
+var mnemonic = "lens enhance crisp report stomach beyond celery vague nature peace daughter finger";

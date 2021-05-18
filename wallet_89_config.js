@@ -1,1 +1,1 @@
-var mnemonic = "noise pepper hello awake same opinion raw eyebrow taxi syrup hazard yard";
+var mnemonic = "biology inner worry neck faculty length sheriff remove pave cute spin arctic";

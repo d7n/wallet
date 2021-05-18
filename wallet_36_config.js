@@ -1,1 +1,1 @@
-var mnemonic = "profit ball history dry little course explain ski undo clip order mandate";
+var mnemonic = "cake series like thought suffer satisfy elephant grit iron wet rubber pill";

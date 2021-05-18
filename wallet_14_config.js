@@ -1,1 +1,1 @@
-var mnemonic = "chuckle budget nature what bamboo radar badge reveal gown comic novel great";
+var mnemonic = "naive team hospital metal breeze spread oxygen body potato silk diary question";

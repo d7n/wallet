@@ -1,1 +1,1 @@
-var mnemonic = "shrug memory second mention fever limit menu thrive lesson lawsuit loop radio";
+var mnemonic = "work boy among crime island job cruel fresh heart amateur wonder permit";

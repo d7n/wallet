@@ -1,1 +1,1 @@
-var mnemonic = "shield fancy rough learn awake civil tree pottery bleak certain faint fossil";
+var mnemonic = "census salad bird walk cousin dash august present transfer grass add brisk";
