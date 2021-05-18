@@ -1,1 +1,1 @@
-var mnemonic = "urban frown era ozone nuclear original lawn invest orphan leaf little festival";
+var mnemonic = "identify stomach crumble urge eager current buddy balcony elite curtain axis penalty";

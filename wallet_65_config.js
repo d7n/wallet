@@ -1,1 +1,1 @@
-var mnemonic = "festival actor odor smart alone bachelor circle shallow letter wedding you budget";
+var mnemonic = "glow clock brother aspect jungle surround quit strike device entire charge jazz";

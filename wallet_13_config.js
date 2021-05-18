@@ -1,1 +1,1 @@
-var mnemonic = "chapter traffic swamp pull license mandate increase rifle enjoy carry test chief";
+var mnemonic = "upper noise major example west situate tomato apart crucial write junior heart";

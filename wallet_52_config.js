@@ -1,1 +1,1 @@
-var mnemonic = "gold tower dream blur code exact august violin hawk song swim creek";
+var mnemonic = "health embrace twenty legal design cousin deny pigeon ensure shoe float penalty";

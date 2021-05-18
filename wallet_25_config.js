@@ -1,1 +1,1 @@
-var mnemonic = "old youth segment draft charge kitchen split giraffe strong scare guard air";
+var mnemonic = "sad monitor ethics such arrest drop poem coral sheriff equip auto lab";

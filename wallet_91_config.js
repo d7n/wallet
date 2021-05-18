@@ -1,1 +1,1 @@
-var mnemonic = "book access distance render bubble powder custom surge diagram blade giraffe sheriff";
+var mnemonic = "dismiss test street warrior bottom afford define slow laundry air ski orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "physical hamster walk essay giggle ski inquiry fame pelican section sunset latin";
+var mnemonic = "version bottom business symptom miss sketch intact method gaze autumn good scheme";

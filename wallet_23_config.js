@@ -1,1 +1,1 @@
-var mnemonic = "output churn endless involve insane during expect initial goose define imitate blur";
+var mnemonic = "noodle devote brief oblige sick thank input unknown clever blast plug rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "decide hurry enable region drama alcohol wisdom pupil tumble snow defy holiday";
+var mnemonic = "raccoon wife doll stool turkey girl domain spoil whip caught remember powder";

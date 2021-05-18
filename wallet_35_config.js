@@ -1,1 +1,1 @@
-var mnemonic = "shield pupil tribe faint orange airport vibrant evil crop ordinary amount wrap";
+var mnemonic = "play shuffle frequent thing guess educate rule right life render bring argue";

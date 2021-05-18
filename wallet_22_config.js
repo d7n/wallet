@@ -1,1 +1,1 @@
-var mnemonic = "essay code gym must need voyage rose comic concert accident assume lyrics";
+var mnemonic = "borrow dog stand tunnel wolf risk poem bitter heart huge heavy suit";

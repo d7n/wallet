@@ -1,1 +1,1 @@
-var mnemonic = "trash grunt memory fabric text draft seek rug turkey gadget enemy pioneer";
+var mnemonic = "echo spot betray field garment ready physical trumpet diagram bring prison enroll";

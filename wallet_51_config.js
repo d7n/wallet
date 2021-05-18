@@ -1,1 +1,1 @@
-var mnemonic = "crack curve broccoli ball banner settle bracket potato latin toe combine team";
+var mnemonic = "barrel sing hungry carbon point raccoon message erase stomach wall rally empty";

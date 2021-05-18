@@ -1,1 +1,1 @@
-var mnemonic = "apology shrug private outdoor fatigue sand mosquito soon column rural wedding liar";
+var mnemonic = "keen side skirt tilt thank home vocal flat rebuild honey obtain fitness";

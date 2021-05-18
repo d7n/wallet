@@ -1,1 +1,1 @@
-var mnemonic = "ketchup gasp evil dwarf purse flock unfold oven charge axis put this";
+var mnemonic = "gravity juice scrub search inhale style silver lunar word buffalo color evidence";

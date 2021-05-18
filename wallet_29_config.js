@@ -1,1 +1,1 @@
-var mnemonic = "purse plate someone love social alarm oval puzzle quit shove cup tragic";
+var mnemonic = "just hamster duty under page quality figure swallow crew problem oil piece";

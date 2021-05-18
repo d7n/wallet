@@ -1,1 +1,1 @@
-var mnemonic = "museum multiply room capable monster day cheese describe buddy frozen salmon near";
+var mnemonic = "multiply brother hollow sense guide bone siren jungle fat brush poem must";

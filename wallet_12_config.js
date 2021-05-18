@@ -1,1 +1,1 @@
-var mnemonic = "hospital soldier plate glare finger bachelor skate seven illegal hazard lift oxygen";
+var mnemonic = "mad cram target decide shed square option eagle dune fresh lounge cook";

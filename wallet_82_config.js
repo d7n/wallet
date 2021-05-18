@@ -1,1 +1,1 @@
-var mnemonic = "update despair hurt soap nothing dinner excess practice pulp security staff scan";
+var mnemonic = "title upset wrestle hybrid absent color wrong crane cycle action dove shaft";

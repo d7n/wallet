@@ -1,1 +1,1 @@
-var mnemonic = "ostrich goddess aware cabin average music festival cruel keen federal surface absent";
+var mnemonic = "orbit twice anger file grit unaware jaguar pattern enroll mixture object apple";

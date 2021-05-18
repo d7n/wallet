@@ -1,1 +1,1 @@
-var mnemonic = "auction cheese father magnet zero material mushroom siren again alter luxury cat";
+var mnemonic = "identify inflict blush flush ten fame chat mistake muffin cup sea aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil metal master clip type current exotic program wish wheel arm hybrid";
+var mnemonic = "sad valley group text anxiety smart need jeans mass enroll pupil pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "punch fix material rubber sun click frown just weekend medal basic give";
+var mnemonic = "subject comic fat pulp knee rigid casual wrist bean keen blood frown";

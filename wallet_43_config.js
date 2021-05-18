@@ -1,1 +1,1 @@
-var mnemonic = "innocent gorilla wire myself odor home wild stay coast orphan milk express";
+var mnemonic = "source over practice man foil danger quick jeans grace clerk dial soon";

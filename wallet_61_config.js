@@ -1,1 +1,1 @@
-var mnemonic = "spare palm envelope provide strike certain sight mail weird spoon kangaroo genre";
+var mnemonic = "divert under rate double arrange april magic elite assist fire goddess barrel";

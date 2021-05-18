@@ -1,1 +1,1 @@
-var mnemonic = "now example tackle error horror execute odor lazy coyote horror right better";
+var mnemonic = "intact risk fame bubble witness pass mention crop rival theory faculty clever";

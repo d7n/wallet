@@ -1,1 +1,1 @@
-var mnemonic = "select protect average dress buyer scrap click penalty limb practice usual genius";
+var mnemonic = "street learn comic inmate spider domain seat stable useful rhythm oblige chat";

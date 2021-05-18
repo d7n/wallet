@@ -1,1 +1,1 @@
-var mnemonic = "march domain holiday pulp silent pact noble chest trade advance common image";
+var mnemonic = "transfer crack once print situate object scatter collect tail answer explain flock";

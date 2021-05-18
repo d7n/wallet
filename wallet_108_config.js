@@ -1,1 +1,1 @@
-var mnemonic = "category rate book ecology grass hire online whisper build artefact host topple";
+var mnemonic = "innocent tent fruit universe angry wife blast august parent wool media ranch";

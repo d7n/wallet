@@ -1,1 +1,1 @@
-var mnemonic = "margin leave firm balcony athlete stereo opera fee cradle sudden reflect review";
+var mnemonic = "enlist wheel suggest inherit can man hammer filter angle million taste blouse";

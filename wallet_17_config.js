@@ -1,1 +1,1 @@
-var mnemonic = "oval teach turn unveil spy aunt spy main dose present ordinary input";
+var mnemonic = "grow crumble hello crash wagon garment rigid major pet document nature mention";

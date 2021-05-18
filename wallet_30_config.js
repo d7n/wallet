@@ -1,1 +1,1 @@
-var mnemonic = "noise need film spy inflict recycle tomorrow deputy priority whisper drum guilt";
+var mnemonic = "battle hour crime dog extra apple club empower insane stomach pioneer snap";

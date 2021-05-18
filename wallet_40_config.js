@@ -1,1 +1,1 @@
-var mnemonic = "town garlic apology uniform divert truth round during aerobic perfect bundle taste";
+var mnemonic = "brain vessel ramp decade sauce mosquito solid blind kick topic soda pioneer";

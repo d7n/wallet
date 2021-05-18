@@ -1,1 +1,1 @@
-var mnemonic = "wear typical order roof file jaguar age danger code wasp raw cradle";
+var mnemonic = "extend net tissue thunder loan milk ill sausage soup ozone expect blossom";

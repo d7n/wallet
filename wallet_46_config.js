@@ -1,1 +1,1 @@
-var mnemonic = "life plate any mammal dismiss suit hamster chair square add junior garage";
+var mnemonic = "solid gate latin void winter shaft system birth bright slogan ginger funny";

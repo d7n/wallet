@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bar slush taxi sheriff unhappy clown cradle jar neglect sentence monkey";
+var mnemonic = "segment vapor clog metal protect stock alley safe possible person wear knee";

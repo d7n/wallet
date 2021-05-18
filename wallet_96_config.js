@@ -1,1 +1,1 @@
-var mnemonic = "enrich divide bracket beef social rent hockey nose curious prefer elegant comfort";
+var mnemonic = "one lock skill figure issue fish shadow sponsor boat music awkward debris";

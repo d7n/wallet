@@ -1,1 +1,1 @@
-var mnemonic = "twice rebuild price weather video gentle blur fun dizzy pottery hurry cart";
+var mnemonic = "you copper spot job diamond crash salt diamond jealous offer furnace join";

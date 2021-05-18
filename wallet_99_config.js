@@ -1,1 +1,1 @@
-var mnemonic = "slot day lazy question case cram cat sponsor betray stairs bird undo";
+var mnemonic = "conduct crash urge quiz custom flower vocal town rotate toast carpet bundle";

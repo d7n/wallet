@@ -1,1 +1,1 @@
-var mnemonic = "infant little blanket tired skull attitude auto result parade fruit forum process";
+var mnemonic = "almost zoo scorpion limit eternal path family casino order someone dwarf april";

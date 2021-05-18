@@ -1,1 +1,1 @@
-var mnemonic = "mistake fever choose trash lumber install tenant mule addict quick roof wood";
+var mnemonic = "among patch announce elite spike vivid lion sister response panda wise milk";

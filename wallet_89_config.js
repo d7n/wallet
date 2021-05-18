@@ -1,1 +1,1 @@
-var mnemonic = "glow trick drum gorilla buyer announce kiwi mesh arrest diamond drill video";
+var mnemonic = "media slot jar position team strike gospel sort road reject cheap park";

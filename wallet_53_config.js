@@ -1,1 +1,1 @@
-var mnemonic = "laundry tone end season milk lab sugar grit basket nothing material account";
+var mnemonic = "toe unveil gentle cluster wedding detect conduct material vocal term enrich song";

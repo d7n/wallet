@@ -1,1 +1,1 @@
-var mnemonic = "wedding crash tree cloth forward purse blanket tent fog soft grid wall";
+var mnemonic = "ring speak focus squeeze solution trim blush play bronze attitude affair reward";

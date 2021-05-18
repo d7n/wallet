@@ -1,1 +1,1 @@
-var mnemonic = "cereal fabric easily poet keep vivid bundle spring pride mutual spice menu";
+var mnemonic = "scout stool can light advice thought pudding limit sheriff base expire donor";

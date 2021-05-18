@@ -1,1 +1,1 @@
-var mnemonic = "pledge faculty wine sea produce social rare old slogan cross response hungry";
+var mnemonic = "stable sting weasel select utility region burst couch tree account turkey menu";

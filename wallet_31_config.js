@@ -1,1 +1,1 @@
-var mnemonic = "fury stairs chief strike define onion festival mammal arch essay diary sell";
+var mnemonic = "insect moon old wave decorate frog nose round vendor lawsuit ticket arrive";

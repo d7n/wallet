@@ -1,1 +1,1 @@
-var mnemonic = "panther gadget live skull renew prosper beauty trip solution fiction govern bracket";
+var mnemonic = "correct alter virtual silent plunge scissors coast gather flight urge fork apple";

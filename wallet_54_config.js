@@ -1,1 +1,1 @@
-var mnemonic = "tourist excess blade seminar viable hungry cinnamon spot addict choice carbon february";
+var mnemonic = "tongue path spring slender below fortune quarter indoor loyal fluid arrange fan";

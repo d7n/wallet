@@ -1,1 +1,1 @@
-var mnemonic = "melody lion fiction piece decide shine case embrace task beach subway belt";
+var mnemonic = "solar spy welcome use blush opinion velvet fuel combine news laundry wool";

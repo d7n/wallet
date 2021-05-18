@@ -1,1 +1,1 @@
-var mnemonic = "worry venture clay hidden muffin sell clay task wool floor put rebel";
+var mnemonic = "affair pledge device prison blur coyote stone idea subject wolf slide father";

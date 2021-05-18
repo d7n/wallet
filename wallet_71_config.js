@@ -1,1 +1,1 @@
-var mnemonic = "furnace inhale genuine section bonus relief gossip lemon empower pave gown original";
+var mnemonic = "enemy speak salt moral metal often away brief jazz kiwi profit offer";

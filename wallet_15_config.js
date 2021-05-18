@@ -1,1 +1,1 @@
-var mnemonic = "atom one glide major coffee slam fancy cheese torch rocket adult pink";
+var mnemonic = "mask win debris chair insane shoot cheap saddle mention ivory length educate";

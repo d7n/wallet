@@ -1,1 +1,1 @@
-var mnemonic = "trim slab live cook evil daring reject velvet misery taxi federal skate";
+var mnemonic = "rely slight piece tilt hospital motion topic song grow reveal sure duty";

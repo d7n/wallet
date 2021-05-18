@@ -1,1 +1,1 @@
-var mnemonic = "deny radio what indicate update scrap interest exercise mandate pipe slice casual";
+var mnemonic = "direct outer window inch omit husband suggest hood debris eye seed screen";

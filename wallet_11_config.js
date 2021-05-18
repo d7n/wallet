@@ -1,1 +1,1 @@
-var mnemonic = "sea dad spy address eagle alter art long smoke property trim file";
+var mnemonic = "smart goat victory family antenna grid certain raise patch page come front";

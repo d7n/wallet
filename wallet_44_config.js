@@ -1,1 +1,1 @@
-var mnemonic = "ancient canvas demand move inch blur miss reunion salon rely erosion youth";
+var mnemonic = "plate charge vintage soul copy base neglect ugly screen peanut drama spike";

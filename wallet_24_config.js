@@ -1,1 +1,1 @@
-var mnemonic = "burst degree truth father green life left awake end focus wait catalog";
+var mnemonic = "online member tunnel shoot case doctor cart bar girl obvious glimpse search";

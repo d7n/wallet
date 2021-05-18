@@ -1,1 +1,1 @@
-var mnemonic = "cream thought blood setup gun object ankle shell permit reflect alpha trick";
+var mnemonic = "result remove blue heavy dilemma furnace turtle dismiss purchase sphere onion slight";

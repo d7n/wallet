@@ -1,1 +1,1 @@
-var mnemonic = "crazy affair cram tobacco addict glare grit nothing metal salmon caught sheriff";
+var mnemonic = "visa good hurry consider over cheap scene abuse owner enjoy birth occur";

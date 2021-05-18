@@ -1,1 +1,1 @@
-var mnemonic = "bundle photo turtle silent rocket glove youth silk middle today kangaroo lunch";
+var mnemonic = "element urban enlist system improve shuffle index trip remove song gentle genre";

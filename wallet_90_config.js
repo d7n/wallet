@@ -1,1 +1,1 @@
-var mnemonic = "stage best reason blush limit adult rail battle helmet black unfold baby";
+var mnemonic = "tip pride promote alcohol dream science trim alpha capital ripple ball kangaroo";

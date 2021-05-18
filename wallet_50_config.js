@@ -1,1 +1,1 @@
-var mnemonic = "vague test goddess globe leader juice shed senior indicate three faith border";
+var mnemonic = "ordinary observe order begin blade marriage antenna original cross coffee mail hedgehog";

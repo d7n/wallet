@@ -1,1 +1,1 @@
-var mnemonic = "medal orchard uncover smart table similar sweet moment dirt blouse rich notice";
+var mnemonic = "coin drift already flat fever weapon gasp jungle circle fantasy correct shine";

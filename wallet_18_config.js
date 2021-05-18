@@ -1,1 +1,1 @@
-var mnemonic = "vivid oblige tag vivid chef rate fury cloth unit blade violin image";
+var mnemonic = "credit apple quit control involve require fame token worth illegal arrange dinner";

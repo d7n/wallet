@@ -1,1 +1,1 @@
-var mnemonic = "conduct vessel engine orchard sunset shell panther claim medal hour ethics genre";
+var mnemonic = "fence honey bridge volcano bean usual kiwi soul envelope consider price satisfy";

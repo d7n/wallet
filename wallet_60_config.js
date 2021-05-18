@@ -1,1 +1,1 @@
-var mnemonic = "water engine place canal head story pencil surprise mother tray fire crack";
+var mnemonic = "grape blade mixed tumble urge book dash slam story bulk bone eternal";

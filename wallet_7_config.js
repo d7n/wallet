@@ -1,1 +1,1 @@
-var mnemonic = "kidney tube engine quit bachelor will three asset rain know tiger gauge";
+var mnemonic = "banana shoulder broom west warrior walnut check credit short fat crop honey";

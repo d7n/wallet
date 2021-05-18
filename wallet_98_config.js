@@ -1,1 +1,1 @@
-var mnemonic = "picture work diesel buyer quarter total long monitor woman indicate garbage suspect";
+var mnemonic = "snack spy million catalog push sorry horror develop immense enforce ivory october";

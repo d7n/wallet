@@ -1,1 +1,1 @@
-var mnemonic = "tone skill jacket satoshi ill crazy tiger doctor about exit canal army";
+var mnemonic = "embrace super castle crater strike sweet large match devote valley expose kick";

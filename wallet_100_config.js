@@ -1,1 +1,1 @@
-var mnemonic = "paper mobile estate oven census about rich expand essence zebra leisure anxiety";
+var mnemonic = "vault rubber shock ignore despair river thrive end code allow patient divide";

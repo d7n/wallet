@@ -1,1 +1,1 @@
-var mnemonic = "unable such august state leopard tone huge twelve again exit frame hint";
+var mnemonic = "tortoise explain slice lottery wrap absurd fragile paddle pony gallery absorb method";

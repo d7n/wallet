@@ -1,1 +1,1 @@
-var mnemonic = "lunch cook outer panther neither case exile refuse public idea imitate north";
+var mnemonic = "dove guilt income enter thing outside muscle crisp sort develop public decrease";

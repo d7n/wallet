@@ -1,1 +1,1 @@
-var mnemonic = "peasant unusual foil file question faculty until logic have slogan corn sketch";
+var mnemonic = "mail harsh excuse shoe dove mean ivory today swamp cost fog orbit";

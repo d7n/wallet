@@ -1,1 +1,1 @@
-var mnemonic = "rabbit decrease sketch lonely zero next elbow ability jaguar include cattle addict";
+var mnemonic = "bottom exact anger predict rhythm people space enhance flush gym prosper blast";

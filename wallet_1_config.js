@@ -1,1 +1,1 @@
-var mnemonic = "erosion drive hotel dignity income dry demand few chronic pulp huge pottery";
+var mnemonic = "water wet lottery fabric wine holiday life ice suspect comic rifle marble";

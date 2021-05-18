@@ -1,1 +1,1 @@
-var mnemonic = "know alien defy master blame chief unique relax smooth delay laundry beauty";
+var mnemonic = "cousin magic mistake name hidden neck rookie trophy flip flight myself deputy";

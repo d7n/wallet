@@ -1,1 +1,1 @@
-var mnemonic = "empower invite motor steak copper style siren novel magic ability coyote voyage";
+var mnemonic = "fun parrot unfair tenant agent object decline urge smoke educate region seven";

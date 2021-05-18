@@ -1,1 +1,1 @@
-var mnemonic = "split employ ghost evil ability sudden merry slice blanket click target lab";
+var mnemonic = "hundred taxi night avocado perfect motion lunch senior short issue toilet north";

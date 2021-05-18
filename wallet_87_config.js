@@ -1,1 +1,1 @@
-var mnemonic = "select bleak impose chalk harvest pause blast prize debris march bundle rhythm";
+var mnemonic = "erupt history neck science just vault stone just ethics harbor day leave";

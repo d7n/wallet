@@ -1,1 +1,1 @@
-var mnemonic = "clump opinion solution craft rate please swamp joke cream fatigue agree vessel";
+var mnemonic = "birth reveal artist grape replace brother cost salad forum page good grow";

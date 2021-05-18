@@ -1,1 +1,1 @@
-var mnemonic = "bone feature season dizzy surge file embody music indicate just alpha pony";
+var mnemonic = "album arrest kiwi artist student measure process isolate frozen moment fiction spatial";

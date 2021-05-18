@@ -1,1 +1,1 @@
-var mnemonic = "tennis walnut inmate empty garden sunny two tumble wing never frost resource";
+var mnemonic = "debris struggle wagon above test blade physical garlic version animal song shoe";

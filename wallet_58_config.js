@@ -1,1 +1,1 @@
-var mnemonic = "wine shuffle whip volcano angle identify execute grain armor ball soccer able";
+var mnemonic = "salt adult shine receive body camp all library action unlock exercise curtain";

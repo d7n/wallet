@@ -1,1 +1,1 @@
-var mnemonic = "drill upon oven indoor heart manage brief circle surface vault pottery lake";
+var mnemonic = "blast fold furnace occur talk include south core dance bachelor acid need";

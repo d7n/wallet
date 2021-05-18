@@ -1,1 +1,1 @@
-var mnemonic = "piece style fury flat yellow puzzle stool object crop mind agree range";
+var mnemonic = "govern scare wrap skate faith narrow dog square crumble ski capital provide";
