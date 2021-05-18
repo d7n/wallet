@@ -1,1 +1,1 @@
-var mnemonic = "unfair man range alone wood flag security popular royal best focus bench";
+var mnemonic = "ensure forget gun avoid clip ripple sport hungry above spatial fly heart";

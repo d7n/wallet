@@ -1,1 +1,1 @@
-var mnemonic = "output become tape garage leave father opera amount high noodle imitate wing";
+var mnemonic = "tuition shift enjoy risk sauce tool cereal exhaust vivid build divide affair";

@@ -1,1 +1,1 @@
-var mnemonic = "spider supreme bargain spray brown royal village festival have blame rural alter";
+var mnemonic = "rookie chunk pact cactus text angle host divorce sausage stumble chief receive";

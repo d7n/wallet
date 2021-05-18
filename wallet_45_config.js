@@ -1,1 +1,1 @@
-var mnemonic = "carry purse tree nest debris net twenty maple vendor armed ordinary sample";
+var mnemonic = "degree odor destroy raw pride sport wolf educate subway basic nose hole";

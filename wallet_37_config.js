@@ -1,1 +1,1 @@
-var mnemonic = "half festival traffic task file loan view enough rough spare bounce length";
+var mnemonic = "dog hockey panic skill pluck joke insane stereo enforce essay welcome fix";

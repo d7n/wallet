@@ -1,1 +1,1 @@
-var mnemonic = "chair inflict total exact damp puzzle country soul claim eight asthma empty";
+var mnemonic = "frog trigger wrestle this kitten maid smoke immune quarter depth habit theory";

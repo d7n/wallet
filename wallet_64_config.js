@@ -1,1 +1,1 @@
-var mnemonic = "flag urban dinosaur mixture square relax noble mystery mom cart hedgehog pumpkin";
+var mnemonic = "beyond welcome toe waste layer cabbage switch exile cry inherit magic athlete";

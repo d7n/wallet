@@ -1,1 +1,1 @@
-var mnemonic = "motor coyote citizen space learn source vault mass beauty ball render become";
+var mnemonic = "flower congress polar floor shrug doll satisfy drum dismiss advance surge young";

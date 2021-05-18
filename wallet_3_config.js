@@ -1,1 +1,1 @@
-var mnemonic = "total impact stomach fiscal dune taste jungle nothing earth quit logic lift";
+var mnemonic = "actor impose elevator empty pond about depend crumble early father key twice";

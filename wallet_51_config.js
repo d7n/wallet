@@ -1,1 +1,1 @@
-var mnemonic = "chase way crack top elevator pyramid copy together arrive vapor bless wrong";
+var mnemonic = "used warfare van process captain split middle gap master kangaroo nerve lamp";

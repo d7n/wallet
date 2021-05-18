@@ -1,1 +1,1 @@
-var mnemonic = "verb exhaust key busy throw memory sword omit bind walnut please buddy";
+var mnemonic = "baby jewel math adult wheat girl humble flock blanket want space stick";

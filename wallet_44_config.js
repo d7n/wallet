@@ -1,1 +1,1 @@
-var mnemonic = "hour manage ancient stomach always stairs caught ranch buzz lunar twelve idea";
+var mnemonic = "limit drum sadness change thunder blanket brain surprise pool cute angle like";

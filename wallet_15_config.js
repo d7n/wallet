@@ -1,1 +1,1 @@
-var mnemonic = "rubber photo abandon box horror cactus violin rude wheat canoe tomorrow voice";
+var mnemonic = "pool cool dawn feel convince response novel penalty detail goat raccoon upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "trend infant culture fun split direct lady wild team decade scene soft";
+var mnemonic = "meadow like journey kangaroo work such again future other balance venue embody";

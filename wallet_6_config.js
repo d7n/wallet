@@ -1,1 +1,1 @@
-var mnemonic = "fashion wet joy leg chaos chase install edge joke cake test cigar";
+var mnemonic = "enter champion cousin shoulder addict comic sweet dial habit garment tragic table";

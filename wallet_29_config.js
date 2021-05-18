@@ -1,1 +1,1 @@
-var mnemonic = "exit heavy crawl process brain athlete fame equip chalk claw ahead forest";
+var mnemonic = "echo section future reject organ squirrel august ritual soon endorse arrow extend";

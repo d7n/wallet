@@ -1,1 +1,1 @@
-var mnemonic = "service success tide country broken sudden invest diagram swallow undo guide fire";
+var mnemonic = "glue field gown prison van search mirror lazy deer pact remember shed";

@@ -1,1 +1,1 @@
-var mnemonic = "guess step raw wagon loop perfect logic urban about delay suspect strike";
+var mnemonic = "intact armor organ sunset funny drift brief conduct typical planet dwarf million";

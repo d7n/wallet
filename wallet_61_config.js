@@ -1,1 +1,1 @@
-var mnemonic = "change floor aim glue hover gloom work gain ability battle very already";
+var mnemonic = "citizen vessel weapon sock torch piano divorce chef extra spot toward bamboo";

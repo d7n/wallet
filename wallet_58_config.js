@@ -1,1 +1,1 @@
-var mnemonic = "egg vague inflict december dune tomato art giraffe history chair amount arrange";
+var mnemonic = "top before cover dilemma asset panther actual corn shrug gesture baby poverty";

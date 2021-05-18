@@ -1,1 +1,1 @@
-var mnemonic = "switch flower globe awake describe almost oven poverty curve size gown ship";
+var mnemonic = "core body trim dress month light attitude wink alarm bar atom noise";

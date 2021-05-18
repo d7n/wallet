@@ -1,1 +1,1 @@
-var mnemonic = "camp oval proof harvest ribbon favorite first awful evidence near twelve guess";
+var mnemonic = "render parent chapter scorpion ugly enrich goat lawn era eager joke shell";

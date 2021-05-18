@@ -1,1 +1,1 @@
-var mnemonic = "top bacon begin please useful ancient reward lazy card science permit column";
+var mnemonic = "forget jar school hidden any uncover page toddler illegal toilet recycle seminar";

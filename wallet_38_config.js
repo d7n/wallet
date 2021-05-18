@@ -1,1 +1,1 @@
-var mnemonic = "bacon addict pool girl doll fire help canal aspect eyebrow sun craft";
+var mnemonic = "denial orient economy diary plate resemble perfect rally lyrics wedding estate soup";

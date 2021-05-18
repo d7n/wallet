@@ -1,1 +1,1 @@
-var mnemonic = "garbage easily panic render endless catch note human expand fire thought kite";
+var mnemonic = "table erase cross coach crazy cement drift dumb coral wool address disagree";

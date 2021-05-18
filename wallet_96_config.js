@@ -1,1 +1,1 @@
-var mnemonic = "kitten road clog help shield install afford milk frozen ripple novel fall";
+var mnemonic = "sun heavy journey egg glue tribe winner vintage country crucial scrub sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "camp cart engage weather bronze chase same harsh end boil police universe";
+var mnemonic = "front short federal shove orange wage small coil napkin before betray victory";

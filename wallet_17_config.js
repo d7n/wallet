@@ -1,1 +1,1 @@
-var mnemonic = "adjust alcohol cram tip pink unknown summer page lend fog fuel another";
+var mnemonic = "arrow secret churn airport cry alert ship pottery sting mosquito path liquid";

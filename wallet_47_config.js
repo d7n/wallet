@@ -1,1 +1,1 @@
-var mnemonic = "whip ring renew clean arena leopard agent dizzy shoulder dune garlic sphere";
+var mnemonic = "guilt work trouble gospel trouble sword ivory fossil govern pudding okay there";

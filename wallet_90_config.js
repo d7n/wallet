@@ -1,1 +1,1 @@
-var mnemonic = "evil tomato rapid hard plug giggle common mimic episode dash fiscal off";
+var mnemonic = "throw glad position approve blanket curious typical evil casual chalk pony consider";

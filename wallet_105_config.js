@@ -1,1 +1,1 @@
-var mnemonic = "ability work sun genuine fit initial rubber select blush ski blossom tired";
+var mnemonic = "dirt snack suffer receive walnut step aisle era little rotate tray forget";

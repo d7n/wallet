@@ -1,1 +1,1 @@
-var mnemonic = "alert begin advance mushroom dolphin sleep put annual eternal response pass lazy";
+var mnemonic = "hammer asset vehicle shop truck give color album toss spatial escape supply";

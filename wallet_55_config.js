@@ -1,1 +1,1 @@
-var mnemonic = "wood install adapt legend grunt egg spoil absent lemon struggle filter text";
+var mnemonic = "trade fiction chimney purity sunny tragic wage drastic label hill inflict utility";

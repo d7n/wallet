@@ -1,1 +1,1 @@
-var mnemonic = "tent cliff pond engage little visual gravity web final axis envelope drop";
+var mnemonic = "mechanic road pond metal dress manual odor yellow meadow work bench copy";

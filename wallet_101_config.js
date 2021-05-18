@@ -1,1 +1,1 @@
-var mnemonic = "logic split endless bean galaxy palace sting winner rent march owner index";
+var mnemonic = "admit toddler hip spy miracle cheap twist envelope ice park shell tool";

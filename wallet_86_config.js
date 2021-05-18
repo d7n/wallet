@@ -1,1 +1,1 @@
-var mnemonic = "suggest cry veteran entire decade rose session vast kid buzz breeze flush";
+var mnemonic = "vapor captain pipe blade drop defy depart alpha dawn finger coffee jar";

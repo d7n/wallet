@@ -1,1 +1,1 @@
-var mnemonic = "often toddler enlist music finish laundry hobby leopard cinnamon thumb hollow butter";
+var mnemonic = "shine vacant dirt tobacco fabric fortune alert cook beauty endless diary announce";

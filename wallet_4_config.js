@@ -1,1 +1,1 @@
-var mnemonic = "giggle milk orchard dose endorse give kitten twice mimic price ecology patient";
+var mnemonic = "nest floor seven moral coil analyst toe craft volcano violin video trial";

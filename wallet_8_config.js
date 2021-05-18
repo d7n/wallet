@@ -1,1 +1,1 @@
-var mnemonic = "hand law alley seat rotate casual exile bird skin profit chat cost";
+var mnemonic = "crisp genius guitar someone dentist youth marriage only build thumb index defense";

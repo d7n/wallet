@@ -1,1 +1,1 @@
-var mnemonic = "cram shrimp three ride delay green column evolve property lunar much kingdom";
+var mnemonic = "mention worry spoil violin now change buddy tower either solution know afraid";

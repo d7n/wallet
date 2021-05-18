@@ -1,1 +1,1 @@
-var mnemonic = "normal tilt mad soul crack bench dumb warfare patrol bicycle garden average";
+var mnemonic = "attract print hurdle summer pattern random foster drum pipe weasel match mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "note silk task grant icon cook track twenty mutual teach estate impact";
+var mnemonic = "vault onion frost attend leave find this pelican round orange damage expose";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty company sport mouse undo eyebrow swallow quiz trial busy flip south";
+var mnemonic = "bar obscure print throw goose mix good deputy tone screen become gentle";

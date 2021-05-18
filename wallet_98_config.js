@@ -1,1 +1,1 @@
-var mnemonic = "february almost govern lava elephant just pool message damp disagree gloom gun";
+var mnemonic = "afford notable service word tag skin truth long old butter thrive puzzle";

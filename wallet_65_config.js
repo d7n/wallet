@@ -1,1 +1,1 @@
-var mnemonic = "fringe deposit legend require output carry timber food jewel floor monitor elevator";
+var mnemonic = "apple slim fitness smooth increase sure clinic rookie liquid floor jaguar lounge";

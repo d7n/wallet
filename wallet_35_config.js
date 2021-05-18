@@ -1,1 +1,1 @@
-var mnemonic = "catalog decorate gentle dinosaur young mushroom inquiry spray catch ready salute candy";
+var mnemonic = "initial tower food witness south height maid end pulp spot trip pattern";

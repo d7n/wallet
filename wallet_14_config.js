@@ -1,1 +1,1 @@
-var mnemonic = "custom choice quantum cannon pretty garden heart renew immune hamster jealous error";
+var mnemonic = "gasp east remain scan mass bronze series release bless stock maple enhance";

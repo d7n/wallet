@@ -1,1 +1,1 @@
-var mnemonic = "skate believe scan throw uncle learn tip hedgehog laundry child early gate";
+var mnemonic = "edit local layer thumb tree cheese hurdle immense inflict become always city";

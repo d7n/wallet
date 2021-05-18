@@ -1,1 +1,1 @@
-var mnemonic = "picnic cushion solar jar diesel valve museum strong route wealth mesh desert";
+var mnemonic = "snack gas spoil cheese escape hole need make paper apology piece hood";

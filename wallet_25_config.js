@@ -1,1 +1,1 @@
-var mnemonic = "forest flat theory favorite enough trust fee reason cousin slight frame permit";
+var mnemonic = "found slow viable occur section immense basket minor bar dress unveil milk";

@@ -1,1 +1,1 @@
-var mnemonic = "survey elephant broken outdoor buzz pool convince million short spot bless hip";
+var mnemonic = "couple august dignity draft business city asset either current leaf vivid poem";

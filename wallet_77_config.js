@@ -1,1 +1,1 @@
-var mnemonic = "busy crisp ethics easily puzzle regular vital snake globe insane blood emotion";
+var mnemonic = "primary soccer luggage tooth copper whale return depth hello gasp sport drastic";

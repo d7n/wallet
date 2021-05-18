@@ -1,1 +1,1 @@
-var mnemonic = "lesson fruit police gentle sing three industry during renew conduct hedgehog comfort";
+var mnemonic = "work cage hungry hen thrive slice carbon anchor hungry glory blame abuse";

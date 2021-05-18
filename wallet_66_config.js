@@ -1,1 +1,1 @@
-var mnemonic = "diet asthma retire quantum horse turkey identify employ leopard lawn unhappy garden";
+var mnemonic = "tackle clap mean juice hybrid rubber thumb oblige immune stove poem fruit";

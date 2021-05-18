@@ -1,1 +1,1 @@
-var mnemonic = "ripple never switch rug hurt flight clever decide parade use radio diesel";
+var mnemonic = "vehicle cube outdoor pulp cram diet supreme alter impulse trophy earth sense";

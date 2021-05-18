@@ -1,1 +1,1 @@
-var mnemonic = "ready feature inmate pen bracket stove breeze dice bag spice toast tomato";
+var mnemonic = "mixed manual end give vessel cable curve puzzle night glimpse venue hundred";

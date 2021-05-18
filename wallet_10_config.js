@@ -1,1 +1,1 @@
-var mnemonic = "arch tissue wheel hazard cancel brave lonely give frozen cousin city captain";
+var mnemonic = "orphan tail flat agent nephew climb notable youth melody seminar attitude brick";

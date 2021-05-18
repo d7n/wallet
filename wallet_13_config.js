@@ -1,1 +1,1 @@
-var mnemonic = "unusual claim marine filter awkward link dream into welcome prize sock maid";
+var mnemonic = "give junk enhance face fever combine squeeze occur run element muscle fence";

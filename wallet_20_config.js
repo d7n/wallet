@@ -1,1 +1,1 @@
-var mnemonic = "hire multiply plastic velvet shaft wet outdoor lucky help bonus coin useless";
+var mnemonic = "predict run globe effort simple supply apology notable phrase oppose return armed";

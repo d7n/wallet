@@ -1,1 +1,1 @@
-var mnemonic = "fiber prosper almost blush sample horn toddler naive meadow flash curious swarm";
+var mnemonic = "local host uphold sure position often urge daring comic uniform junk ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "security among wool surface file bar narrow ticket divide inquiry random dream";
+var mnemonic = "steak civil blossom intact elephant have drastic enjoy exotic rely layer weapon";

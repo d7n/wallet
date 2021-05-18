@@ -1,1 +1,1 @@
-var mnemonic = "jelly improve response nice prison inject fashion shine catch comfort gift crumble";
+var mnemonic = "master junk arrow error brave invite ordinary dune fury wagon regret session";

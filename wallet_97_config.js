@@ -1,1 +1,1 @@
-var mnemonic = "assist guilt wage thunder search delay human turn occur gate know mask";
+var mnemonic = "rely grid isolate valve pitch ghost soccer involve tank produce shiver wrestle";

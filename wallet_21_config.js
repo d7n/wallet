@@ -1,1 +1,1 @@
-var mnemonic = "clip series cruel trip rival illness recycle hollow talent expose undo erode";
+var mnemonic = "few silent lawn woman plate open cloud hundred inside answer tilt wisdom";

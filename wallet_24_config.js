@@ -1,1 +1,1 @@
-var mnemonic = "wheel cheese raven giant document parent rubber opinion town hint soccer opera";
+var mnemonic = "maze garment point park bacon note divert cave prize chicken yellow sense";

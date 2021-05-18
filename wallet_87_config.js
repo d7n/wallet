@@ -1,1 +1,1 @@
-var mnemonic = "riot alarm derive spike verb raccoon ecology pumpkin announce scrap shadow invite";
+var mnemonic = "victory zero drum bright heavy hunt lounge walnut december retire library pact";

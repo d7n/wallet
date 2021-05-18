@@ -1,1 +1,1 @@
-var mnemonic = "liberty dinosaur farm forward recipe clinic invite park affair picture mobile segment";
+var mnemonic = "try auction ill wear inch bike media spread young income screen host";

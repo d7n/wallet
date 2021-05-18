@@ -1,1 +1,1 @@
-var mnemonic = "twelve blind jump demise mouse play thought radio stove puzzle riot buddy";
+var mnemonic = "stick item net endless poverty account gallery wrestle snack tattoo wrap brush";

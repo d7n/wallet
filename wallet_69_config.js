@@ -1,1 +1,1 @@
-var mnemonic = "winner furnace you scorpion report gun account bicycle almost couch major robot";
+var mnemonic = "fog hurry merit matrix dentist video almost royal lounge ball oblige column";

@@ -1,1 +1,1 @@
-var mnemonic = "shiver hollow logic machine chase pond category scrap refuse dish unknown regret";
+var mnemonic = "add doll cushion chaos silent rice sleep season powder like salute sad";

@@ -1,1 +1,1 @@
-var mnemonic = "exist heavy fresh initial retreat sound topic awkward stage equip index resource";
+var mnemonic = "various addict cake isolate village ready trumpet quality flip road hint false";

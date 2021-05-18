@@ -1,1 +1,1 @@
-var mnemonic = "nephew priority buyer taste proud rifle judge ordinary toilet seven excite decrease";
+var mnemonic = "dismiss mushroom palm parade limit dolphin acquire fine avocado plate sound behind";

@@ -1,1 +1,1 @@
-var mnemonic = "milk pluck exclude analyst bubble kick dune almost unveil frame glare reform";
+var mnemonic = "grief common quit ozone acquire cage later pair candy crash title knock";

@@ -1,1 +1,1 @@
-var mnemonic = "seek canyon order journey pole cup pill ostrich album wealth ecology total";
+var mnemonic = "cabbage aisle law hollow tortoise candy magnet bomb dose mistake rent this";

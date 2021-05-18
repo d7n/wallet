@@ -1,1 +1,1 @@
-var mnemonic = "spoil zebra flag point clog what menu purse move dignity gym artefact";
+var mnemonic = "fiscal matrix that fade mercy pottery wing edge creek wealth game talent";

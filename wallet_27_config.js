@@ -1,1 +1,1 @@
-var mnemonic = "gun order month wrestle swift crush trade foster garlic glimpse nerve shoe";
+var mnemonic = "broom loud grass stay under super pilot chicken predict outdoor sibling earth";

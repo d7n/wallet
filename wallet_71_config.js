@@ -1,1 +1,1 @@
-var mnemonic = "fantasy plate clock fish letter debate chief valley acquire boat trigger athlete";
+var mnemonic = "rather defy chicken dinosaur cheap apple fluid medal nephew alter bargain wrist";

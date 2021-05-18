@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cash tail chronic chalk snow pen farm ceiling wasp country ocean";
+var mnemonic = "actual lawsuit sheriff strategy middle detect welcome shoulder present ski alpha lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling nominee noble pause scrub sad change other domain brown insane budget";
+var mnemonic = "donor quit muscle memory vintage hood age digital awful wave badge vibrant";

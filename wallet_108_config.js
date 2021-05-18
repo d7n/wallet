@@ -1,1 +1,1 @@
-var mnemonic = "ramp protect artwork citizen wave tenant vapor mixture voice finish armor mansion";
+var mnemonic = "rent praise hair coral infant hat arrest around cannon chuckle surge crack";

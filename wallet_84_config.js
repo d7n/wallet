@@ -1,1 +1,1 @@
-var mnemonic = "monkey degree dolphin burst close then almost vicious bird number recall vivid";
+var mnemonic = "eager scrub rare oxygen ivory green behave middle mention sense domain emotion";

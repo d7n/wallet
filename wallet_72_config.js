@@ -1,1 +1,1 @@
-var mnemonic = "bullet candy erode name fatigue please amused visit one raccoon fragile because";
+var mnemonic = "label crash office coral aunt mix tank first smart whisper rookie chaos";

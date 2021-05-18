@@ -1,1 +1,1 @@
-var mnemonic = "history birth behind thank lamp stool ten possible winter west saddle flush";
+var mnemonic = "detail oxygen vacuum cart account deputy royal guitar solid short absent random";

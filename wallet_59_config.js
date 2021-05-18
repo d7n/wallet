@@ -1,1 +1,1 @@
-var mnemonic = "dinner until inquiry cricket heart exile struggle door pair erupt embody upset";
+var mnemonic = "disease picnic broken breeze clutch medal flower abuse float remember vault arrive";

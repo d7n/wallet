@@ -1,1 +1,1 @@
-var mnemonic = "account label juice away ancient crowd material era stone destroy insane grant";
+var mnemonic = "jealous sadness collect inquiry gravity vivid speak parrot gas text work tiger";

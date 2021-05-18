@@ -1,1 +1,1 @@
-var mnemonic = "draw anger spike tunnel buyer learn ill online apart north south health";
+var mnemonic = "siege cliff vibrant pilot arrow empower salute merry drop rack salmon address";

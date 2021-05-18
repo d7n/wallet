@@ -1,1 +1,1 @@
-var mnemonic = "notable false athlete magnet sight outer sunny laundry suspect much spend cinnamon";
+var mnemonic = "wild hero athlete course sugar write anxiety crumble visa fame napkin office";

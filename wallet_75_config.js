@@ -1,1 +1,1 @@
-var mnemonic = "soul adapt pencil clog upgrade fortune equal high salad distance festival invest";
+var mnemonic = "income rich spoil reduce ahead famous height symptom then flame angry frozen";

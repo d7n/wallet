@@ -1,1 +1,1 @@
-var mnemonic = "above run page egg physical property nice cube robust other table nest";
+var mnemonic = "hamster position switch duck machine machine mule enroll staff despair exhaust swing";

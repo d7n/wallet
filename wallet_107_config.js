@@ -1,1 +1,1 @@
-var mnemonic = "jar glow urge amazing elevator involve used thunder hotel stay fatigue foam";
+var mnemonic = "prison denial furnace beach engine veteran arena come hedgehog giant provide until";

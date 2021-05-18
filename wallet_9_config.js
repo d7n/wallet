@@ -1,1 +1,1 @@
-var mnemonic = "swift canal warfare invest amazing journey trip spike accuse cotton check huge";
+var mnemonic = "sea switch sponsor annual auction refuse fish catch friend useful plug goat";

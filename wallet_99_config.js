@@ -1,1 +1,1 @@
-var mnemonic = "cruise before catalog demise judge pen stage mom barely youth dance summer";
+var mnemonic = "lady above reunion make desert shock wrist travel bracket cheese fish best";
