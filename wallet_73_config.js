@@ -1,1 +1,1 @@
-var mnemonic = "scene assault caught naive intact seven coral element pumpkin elevator giant witness";
+var mnemonic = "manage adapt head cliff swallow crack health vibrant vivid rib black medal";

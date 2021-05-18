@@ -1,1 +1,1 @@
-var mnemonic = "denial reunion subway water rice soda light rebuild shallow fetch cigar job";
+var mnemonic = "usage welcome update bid choose silk lecture ugly pumpkin raccoon photo state";

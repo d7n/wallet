@@ -1,1 +1,1 @@
-var mnemonic = "key envelope diet corn frequent fault critic choice clump raise sibling state";
+var mnemonic = "surface danger evoke extend shift trash hundred shrimp resist urban spoon rival";

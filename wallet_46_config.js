@@ -1,1 +1,1 @@
-var mnemonic = "copy reform process tomorrow credit desert offer ozone tattoo polar music found";
+var mnemonic = "volcano novel honey sibling asthma vintage couple shove tail car chimney decrease";

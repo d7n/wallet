@@ -1,1 +1,1 @@
-var mnemonic = "slender retire decrease chicken off utility case frown bronze slogan near want";
+var mnemonic = "cost suit rain fatigue warfare relief dove great ordinary donor gadget morning";

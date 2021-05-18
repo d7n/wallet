@@ -1,1 +1,1 @@
-var mnemonic = "add blade alcohol earn enemy miss knee door erupt fiction pass pony";
+var mnemonic = "ball bunker sadness off chronic goat mixture chuckle syrup hawk motion gadget";

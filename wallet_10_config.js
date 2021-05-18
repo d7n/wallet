@@ -1,1 +1,1 @@
-var mnemonic = "then elevator uniform access rifle tent seven rifle identify shift link close";
+var mnemonic = "advice abandon giggle elder then uniform hazard okay skill tenant display agree";

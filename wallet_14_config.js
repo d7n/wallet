@@ -1,1 +1,1 @@
-var mnemonic = "under axis project aisle advance grid awful since hero stereo good alone";
+var mnemonic = "perfect quality health can oil bid token snack fantasy win breeze glare";

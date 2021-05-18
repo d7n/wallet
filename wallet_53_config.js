@@ -1,1 +1,1 @@
-var mnemonic = "pond barely climb inquiry team manage mushroom orchard inner very enemy chronic";
+var mnemonic = "divorce between inmate ramp wolf dog face swing auction close evoke timber";

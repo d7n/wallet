@@ -1,1 +1,1 @@
-var mnemonic = "poem leopard chef tag upset valve useful flag arrow obey owner pelican";
+var mnemonic = "yard stamp prosper fetch dynamic type country few sister room giggle chair";

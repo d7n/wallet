@@ -1,1 +1,1 @@
-var mnemonic = "magic sniff drive glide plastic stereo steak cream volume cage bicycle purpose";
+var mnemonic = "distance churn toy put notable title twist student manage sibling sibling cage";

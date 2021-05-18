@@ -1,1 +1,1 @@
-var mnemonic = "mushroom turn uncover galaxy abstract popular bomb account job mouse quit clutch";
+var mnemonic = "bamboo expand pistol spy toy bench open pepper film board repeat settle";

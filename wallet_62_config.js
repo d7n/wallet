@@ -1,1 +1,1 @@
-var mnemonic = "tackle twin soul favorite chief debris much ritual lunch innocent happy cherry";
+var mnemonic = "history inherit message modify sock various all tilt tube forest version now";

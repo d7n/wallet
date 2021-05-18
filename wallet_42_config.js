@@ -1,1 +1,1 @@
-var mnemonic = "manual topic theory burden laugh announce address accuse early pulp cute give";
+var mnemonic = "only column noodle tag dynamic miracle supreme travel protect music voice border";

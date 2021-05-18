@@ -1,1 +1,1 @@
-var mnemonic = "soap daughter aspect box unknown rule sure season match gain hill detect";
+var mnemonic = "hundred life balance squeeze tortoise cricket jazz gloom lyrics tackle miss amused";

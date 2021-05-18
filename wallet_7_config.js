@@ -1,1 +1,1 @@
-var mnemonic = "lounge force turtle gallery move canoe town maple romance walnut left budget";
+var mnemonic = "miss excess ostrich mystery mask embody between find laptop snap exercise luxury";

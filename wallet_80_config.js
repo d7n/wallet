@@ -1,1 +1,1 @@
-var mnemonic = "scrap steak sweet exhibit dawn suspect warfare pumpkin dose evil scissors wheat";
+var mnemonic = "planet problem outdoor supreme fly involve lava install exclude resource smoke valid";

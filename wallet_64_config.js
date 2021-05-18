@@ -1,1 +1,1 @@
-var mnemonic = "orange power alley then inform client liberty level good top century medal";
+var mnemonic = "faculty next family orange shoot penalty jazz horror razor idle fruit then";

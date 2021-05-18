@@ -1,1 +1,1 @@
-var mnemonic = "guard teach student cupboard thank crush example boss learn soft nothing neglect";
+var mnemonic = "nasty battle code chuckle win skull face thank peasant problem nuclear fashion";

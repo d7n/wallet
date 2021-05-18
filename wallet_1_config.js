@@ -1,1 +1,1 @@
-var mnemonic = "hamster vanish tongue into opera main fancy nominee exhaust error flavor hybrid";
+var mnemonic = "fatal wet raven raccoon cigar system prize near atom arrive crash cinnamon";

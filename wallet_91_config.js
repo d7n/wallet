@@ -1,1 +1,1 @@
-var mnemonic = "yard jaguar fall economy scorpion fossil special glow capable island vanish civil";
+var mnemonic = "once acid express group spoil input worry cram join evoke broccoli banner";

@@ -1,1 +1,1 @@
-var mnemonic = "addict develop shift range inch stove bargain nature round soul match erode";
+var mnemonic = "sell surface own issue chalk script hammer raven cancel cattle neutral because";

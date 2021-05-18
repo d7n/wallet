@@ -1,1 +1,1 @@
-var mnemonic = "moment street clerk style climb decade caution possible absurd rhythm squirrel supreme";
+var mnemonic = "modify resource call market grape meadow tortoise toilet tiny story early labor";

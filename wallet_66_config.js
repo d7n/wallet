@@ -1,1 +1,1 @@
-var mnemonic = "text urge initial cool shy prevent awesome donor solution oval hub spend";
+var mnemonic = "patrol taxi betray focus express birth road armed stem when furnace question";

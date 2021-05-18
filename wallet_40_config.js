@@ -1,1 +1,1 @@
-var mnemonic = "solar involve tissue solve riot grass guess arctic neglect cave peanut leopard";
+var mnemonic = "float silk nuclear light double fragile victory quarter symptom kit profit man";

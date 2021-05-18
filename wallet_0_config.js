@@ -1,1 +1,1 @@
-var mnemonic = "remember grocery parrot hobby double enforce ceiling witness lock zoo soda witness";
+var mnemonic = "celery around plate gun oblige guilt thumb tonight whale pause book dose";

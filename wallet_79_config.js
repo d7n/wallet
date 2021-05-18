@@ -1,1 +1,1 @@
-var mnemonic = "flag label improve wrist occur egg phone ethics seminar pond sadness exchange";
+var mnemonic = "glow weather depart lens profit laundry salon gadget assist chase festival pyramid";

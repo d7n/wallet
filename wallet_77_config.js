@@ -1,1 +1,1 @@
-var mnemonic = "disorder main lawn pass senior media hybrid lounge light cruise pear fiscal";
+var mnemonic = "assume slogan swallow brush solar brass junk warm employ dismiss soon wonder";

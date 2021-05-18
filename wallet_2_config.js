@@ -1,1 +1,1 @@
-var mnemonic = "electric exclude banana fiber major recycle knee december term settle fever banana";
+var mnemonic = "shrug truly case flower couple multiply peace armor bacon swallow portion elevator";

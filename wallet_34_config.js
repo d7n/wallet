@@ -1,1 +1,1 @@
-var mnemonic = "climb pitch powder bacon electric torch sausage bind uncle course canvas island";
+var mnemonic = "boy owner patient puzzle chase ivory six vocal stay spot edge civil";

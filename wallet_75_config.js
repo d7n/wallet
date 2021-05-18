@@ -1,1 +1,1 @@
-var mnemonic = "symptom height stuff uncover eternal once lyrics ensure blade escape spawn churn";
+var mnemonic = "flee promote fetch income lobster twist cactus grief fuel mercy private bacon";

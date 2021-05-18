@@ -1,1 +1,1 @@
-var mnemonic = "panther aim patrol alter wear lounge cover chuckle insect error job joy";
+var mnemonic = "wagon wall spirit truth gown monster design task arrange eager fade pencil";

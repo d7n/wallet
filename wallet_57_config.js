@@ -1,1 +1,1 @@
-var mnemonic = "rate ship polar tooth draw flower fold hint zone surface tent term";
+var mnemonic = "message comfort jelly stove crush unhappy rapid oven sell model divide regular";

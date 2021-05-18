@@ -1,1 +1,1 @@
-var mnemonic = "fall script wing middle legend grain alert size blade sad illegal rival";
+var mnemonic = "document license adult banana parent urban focus sword bench focus bring race";

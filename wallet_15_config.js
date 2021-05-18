@@ -1,1 +1,1 @@
-var mnemonic = "pair shuffle lift monkey story scare defy couple equip hair still avoid";
+var mnemonic = "welcome lava side toast deputy supply bright sting mosquito appear dentist push";

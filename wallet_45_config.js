@@ -1,1 +1,1 @@
-var mnemonic = "usage ridge luggage fancy blush screen fiction write output left glue bring";
+var mnemonic = "sure element salt social civil coast small thumb trim desk pact insect";

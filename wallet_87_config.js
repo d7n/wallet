@@ -1,1 +1,1 @@
-var mnemonic = "wrestle current attack sing wolf heavy language glue ripple clarify fox dilemma";
+var mnemonic = "south van august ahead library grass steel forest learn fantasy flavor economy";

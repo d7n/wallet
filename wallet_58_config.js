@@ -1,1 +1,1 @@
-var mnemonic = "detect anger rabbit wheat depart company chunk aspect nation talk message sure";
+var mnemonic = "voice gap diesel floor clock moon accuse ready evil inflict sweet expose";

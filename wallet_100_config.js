@@ -1,1 +1,1 @@
-var mnemonic = "circle melt pistol slogan razor spray catalog alcohol style thunder minor ghost";
+var mnemonic = "elegant bachelor wagon frost clinic figure crater explain snap chunk hood erupt";

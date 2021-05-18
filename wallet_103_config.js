@@ -1,1 +1,1 @@
-var mnemonic = "recall custom morning pave horn always lawn goddess hammer image apology bike";
+var mnemonic = "daughter resemble solution company sample rocket script taxi pepper jacket unlock wild";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder tobacco tiny miss anxiety slam ethics number tool fatigue napkin long";
+var mnemonic = "grain fat beyond once dice aerobic hurry notable box cliff elegant answer";

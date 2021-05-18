@@ -1,1 +1,1 @@
-var mnemonic = "mistake spread history hobby success access aim traffic secret figure mammal orbit";
+var mnemonic = "buffalo faint neck predict liar world reward erupt resource boost stadium first";

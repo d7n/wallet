@@ -1,1 +1,1 @@
-var mnemonic = "grid rug under vintage danger rocket dream leisure arrive avoid any innocent";
+var mnemonic = "suffer rigid critic noble dragon brass invest predict traffic join surround already";

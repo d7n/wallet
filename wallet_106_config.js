@@ -1,1 +1,1 @@
-var mnemonic = "output coconut demise alarm save muscle element apology can trash giant patrol";
+var mnemonic = "various bulb gas hold miss field warrior topic below tennis cube term";

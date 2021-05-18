@@ -1,1 +1,1 @@
-var mnemonic = "train strategy lift away auto normal guard upgrade useful sight grunt now";
+var mnemonic = "random sponsor humble scheme stem ring rotate apology place dry party frozen";

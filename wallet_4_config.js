@@ -1,1 +1,1 @@
-var mnemonic = "august filter sunny lazy digital knife game work broken evolve girl execute";
+var mnemonic = "occur imitate chair idle aspect sunset version peace spirit fashion tray frame";

@@ -1,1 +1,1 @@
-var mnemonic = "version crush rich topic captain fetch pear antique host hip spin girl";
+var mnemonic = "stone breeze rigid weird glue husband artwork whale caught glory spread quiz";

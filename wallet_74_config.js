@@ -1,1 +1,1 @@
-var mnemonic = "trim runway punch hover rabbit unlock shuffle glad left pattern subway little";
+var mnemonic = "enroll novel license place plastic guide walnut allow vault stomach faint act";

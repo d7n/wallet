@@ -1,1 +1,1 @@
-var mnemonic = "slow multiply emerge morning sort athlete asthma glass siren pizza window short";
+var mnemonic = "way ball decrease bachelor pole bridge piece invite silk flight labor damp";

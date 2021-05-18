@@ -1,1 +1,1 @@
-var mnemonic = "erase banner bachelor hard smoke wrestle fresh fancy fault thank rate bone";
+var mnemonic = "easy category capital bullet cabin session sister artist hybrid coconut plug sting";

@@ -1,1 +1,1 @@
-var mnemonic = "horror logic defy gate universe govern radio whisper stool hurdle penalty special";
+var mnemonic = "bean month mom hidden minor genuine width later fatal hollow arrest sheriff";

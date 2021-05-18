@@ -1,1 +1,1 @@
-var mnemonic = "cry load energy penalty prison develop wink behind barely wedding pyramid business";
+var mnemonic = "dragon valley topic bamboo rate season people bike bone educate funny vocal";

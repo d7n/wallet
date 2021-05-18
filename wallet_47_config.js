@@ -1,1 +1,1 @@
-var mnemonic = "furnace monitor idea raise then result bachelor alert worry whip kitchen claw";
+var mnemonic = "drama practice walk ridge verify toddler moment indoor master sentence globe media";

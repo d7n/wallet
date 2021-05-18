@@ -1,1 +1,1 @@
-var mnemonic = "link visual flock opinion bird matter banana anxiety denial guide base renew";
+var mnemonic = "allow grain usage verb apology dolphin digital behind indicate total require pattern";

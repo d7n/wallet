@@ -1,1 +1,1 @@
-var mnemonic = "fancy gym smooth surge ball pride tail walnut bitter iron stamp stem";
+var mnemonic = "vicious chef clerk agent hockey sketch cluster breeze illness have prison auto";

@@ -1,1 +1,1 @@
-var mnemonic = "office proud angry raccoon cigar off clinic reflect casino around length laptop";
+var mnemonic = "lend cross tattoo brief proud hawk cover beyond knee reform balance drastic";

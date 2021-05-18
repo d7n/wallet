@@ -1,1 +1,1 @@
-var mnemonic = "alien close uniform mind local unable february artefact movie vital oak acoustic";
+var mnemonic = "dad enhance army laptop neglect romance company select vital spy slice surround";

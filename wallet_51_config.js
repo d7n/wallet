@@ -1,1 +1,1 @@
-var mnemonic = "coconut push panda library dawn extra slam gasp tide guitar merry tissue";
+var mnemonic = "math forest connect ripple busy hood club tray camera reopen eager fix";

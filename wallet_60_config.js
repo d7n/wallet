@@ -1,1 +1,1 @@
-var mnemonic = "exact frame vast palm insect mandate shine legal arrange pioneer slide mechanic";
+var mnemonic = "afford pony excess giraffe gym smoke kind inch history anger three worry";

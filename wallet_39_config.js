@@ -1,1 +1,1 @@
-var mnemonic = "peasant color debris diagram youth winter symbol shiver submit vicious message drift";
+var mnemonic = "medal vintage copy tank sting return orbit expose endless foil tribe era";

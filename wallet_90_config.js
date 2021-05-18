@@ -1,1 +1,1 @@
-var mnemonic = "poet obvious moon actress session leave blue climb lottery blame hospital protect";
+var mnemonic = "prefer remind chimney giraffe mushroom harsh erase gather mail unit bar net";

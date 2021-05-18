@@ -1,1 +1,1 @@
-var mnemonic = "toe dignity sniff three produce cinnamon print diagram bronze ocean live ensure";
+var mnemonic = "cargo claim draw mix negative unable order pelican program inner panda nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "make nose input decide library account gym elegant text treat rice special";
+var mnemonic = "shield power live satisfy fence clap lunch awkward venue ginger symbol describe";

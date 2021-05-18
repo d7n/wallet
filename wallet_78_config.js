@@ -1,1 +1,1 @@
-var mnemonic = "slab federal arrow column wheat quarter please between acid visual hamster order";
+var mnemonic = "retire hero tuna stick announce asset awful seat basic maximum cargo property";

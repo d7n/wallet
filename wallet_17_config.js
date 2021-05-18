@@ -1,1 +1,1 @@
-var mnemonic = "egg expose tray radio acid pelican point protect render solution pepper elephant";
+var mnemonic = "desert palm leaf armed paper rival chapter labor combine gun amazing match";

@@ -1,1 +1,1 @@
-var mnemonic = "situate minute hen base antique load true fabric situate autumn congress cinnamon";
+var mnemonic = "genre tomorrow rebuild universe extra mom hurry finger solution mind extra clean";

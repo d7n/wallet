@@ -1,1 +1,1 @@
-var mnemonic = "syrup father cream action admit tattoo life behind process speak knock coral";
+var mnemonic = "visit winter evil elite fence hero disease robot unusual slow size field";

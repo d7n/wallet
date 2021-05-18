@@ -1,1 +1,1 @@
-var mnemonic = "blast help pretty vehicle pair notable list calm lazy alley kangaroo chef";
+var mnemonic = "normal stand wild drop bar spoon logic leg crowd toddler health gentle";

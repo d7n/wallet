@@ -1,1 +1,1 @@
-var mnemonic = "final trouble cloud copy tone chalk time like pill lake receive release";
+var mnemonic = "pride wife roof fiber lava brief cabbage wage embrace cruise deal pair";

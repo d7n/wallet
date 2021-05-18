@@ -1,1 +1,1 @@
-var mnemonic = "end chimney rally spatial rice corn cluster social ugly keep security bronze";
+var mnemonic = "link wool artefact season script barely outdoor satoshi six urban close impact";

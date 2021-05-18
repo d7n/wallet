@@ -1,1 +1,1 @@
-var mnemonic = "excite tilt poet comic multiply toward struggle welcome daring employ solve tomato";
+var mnemonic = "merry win piano engage into tissue drum process wisdom evidence swap prize";

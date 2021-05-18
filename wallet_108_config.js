@@ -1,1 +1,1 @@
-var mnemonic = "trouble sleep lawsuit over tissue awkward alien dragon crowd husband poem exotic";
+var mnemonic = "duty prize assault enforce proof icon hill garlic lawn cruise gun cushion";

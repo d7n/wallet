@@ -1,1 +1,1 @@
-var mnemonic = "seek dolphin cruel busy also venture maze mass problem catalog detail patient";
+var mnemonic = "crowd skin fee success kick song year twin inner grocery family target";

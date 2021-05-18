@@ -1,1 +1,1 @@
-var mnemonic = "absorb lamp accident envelope cricket volcano harbor exact grace enter flight manage";
+var mnemonic = "twist road stumble another wise wine mother involve good good vapor stable";

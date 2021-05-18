@@ -1,1 +1,1 @@
-var mnemonic = "common need salt stomach glare pear bless pencil issue travel egg lend";
+var mnemonic = "snap tape profit cushion athlete peasant weekend clip black crazy squeeze minute";

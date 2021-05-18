@@ -1,1 +1,1 @@
-var mnemonic = "toddler issue ordinary exhaust item island faith group upgrade adapt economy amused";
+var mnemonic = "firm message safe faculty cluster thumb circle arena patient cat kite raw";

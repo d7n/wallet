@@ -1,1 +1,1 @@
-var mnemonic = "lesson ticket blossom stereo peasant alley piece umbrella rich wealth march tackle";
+var mnemonic = "avoid legal wealth object solar call curtain salon vicious music exclude barely";

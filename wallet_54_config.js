@@ -1,1 +1,1 @@
-var mnemonic = "fringe ill avocado liar bike wife glue century trigger cupboard company blind";
+var mnemonic = "speed sword spray because hurdle become crisp nominee lock narrow reduce tennis";

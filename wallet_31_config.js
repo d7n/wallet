@@ -1,1 +1,1 @@
-var mnemonic = "shift someone joke defy bulk clip welcome gallery mountain avocado dish high";
+var mnemonic = "wide castle relax act project gather ski cycle decide virtual era believe";

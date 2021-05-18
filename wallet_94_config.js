@@ -1,1 +1,1 @@
-var mnemonic = "embrace tortoise forward dog original drastic mixed swap exchange exchange depend scale";
+var mnemonic = "cabbage north pottery balcony bulk blood about toward next scan predict decline";

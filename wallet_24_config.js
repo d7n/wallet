@@ -1,1 +1,1 @@
-var mnemonic = "camera business remove found swallow convince guitar meat ability army clerk recall";
+var mnemonic = "wisdom concert alone vanish stock host position action mushroom country asthma program";

@@ -1,1 +1,1 @@
-var mnemonic = "vague disagree game more defense letter gain bachelor suggest misery fantasy scan";
+var mnemonic = "disease yard chapter wise winter business coffee armor essay solution safe mechanic";

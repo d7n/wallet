@@ -1,1 +1,1 @@
-var mnemonic = "maple glass august bronze squirrel shoot depart history surge total pelican royal";
+var mnemonic = "divorce vapor tree coyote misery horse lonely occur casino silent flash flat";

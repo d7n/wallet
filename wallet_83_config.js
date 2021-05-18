@@ -1,1 +1,1 @@
-var mnemonic = "marine run tag uphold surprise tongue earth mule girl rib poverty pole";
+var mnemonic = "cotton mechanic omit discover iron palm multiply hundred coffee rug panther view";

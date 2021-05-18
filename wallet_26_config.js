@@ -1,1 +1,1 @@
-var mnemonic = "where rebuild enjoy fit word rubber nominee deer indoor junior matrix erode";
+var mnemonic = "couple squeeze decade hello exhaust snake sweet achieve ask vast wrong chat";

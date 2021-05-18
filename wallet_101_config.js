@@ -1,1 +1,1 @@
-var mnemonic = "relief inch various cattle father today weapon visit same tuition grant much";
+var mnemonic = "clog pill dream client season puzzle length era try fine author flight";

@@ -1,1 +1,1 @@
-var mnemonic = "input picture grow any lock orchard average dust entry erupt meadow cloud";
+var mnemonic = "neck adult until pause dinner input coil flash clinic ankle retire kingdom";

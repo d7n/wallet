@@ -1,1 +1,1 @@
-var mnemonic = "bus success brisk capable fox tilt usual inside general second clinic toddler";
+var mnemonic = "document trend radio keep fiber bulk chest amazing raccoon excite polar bone";

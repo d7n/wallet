@@ -1,1 +1,1 @@
-var mnemonic = "circle riot memory core lizard nose gospel alone sound unusual void lens";
+var mnemonic = "garbage laptop oil tumble diamond right disorder coral used lucky hurt human";

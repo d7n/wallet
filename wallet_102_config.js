@@ -1,1 +1,1 @@
-var mnemonic = "pudding act morning floor noise oppose vivid flight relief security embrace stairs";
+var mnemonic = "addict they valley shaft street ozone sun alien have afford few settle";

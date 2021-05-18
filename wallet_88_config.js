@@ -1,1 +1,1 @@
-var mnemonic = "village crucial weekend cricket december vapor chest desert seat doll unfair club";
+var mnemonic = "clarify into object elegant deposit skirt author dance tonight square cram remember";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture canoe decrease bright special rebuild sword salt jungle during man promote";
+var mnemonic = "brief casino knife tent naive gorilla keen rocket burst tackle assault price";
