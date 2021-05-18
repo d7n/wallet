@@ -1,1 +1,1 @@
-var mnemonic = "banana report regret punch risk music walk keen frozen lemon host work";
+var mnemonic = "oval uncle price pattern bar weird sister festival retreat gorilla want mouse";

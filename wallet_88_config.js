@@ -1,1 +1,1 @@
-var mnemonic = "cricket cargo sing genuine empty leaf extra cute rose style ensure cruise";
+var mnemonic = "slogan evidence solid great awful village damage ridge swamp drive industry meat";

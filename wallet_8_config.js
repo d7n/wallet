@@ -1,1 +1,1 @@
-var mnemonic = "abandon pupil connect flavor curtain voice guess symbol mansion torch flock grow";
+var mnemonic = "bird into green broom heart warrior daring nature film zone drama shoulder";

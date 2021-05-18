@@ -1,1 +1,1 @@
-var mnemonic = "case bronze lunar oil culture six peace fog hurry autumn pact table";
+var mnemonic = "favorite odor noble leave notice bounce thrive unit trick door spice hotel";

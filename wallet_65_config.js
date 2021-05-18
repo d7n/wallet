@@ -1,1 +1,1 @@
-var mnemonic = "isolate number tragic force guilt patch oil garlic friend point visit small";
+var mnemonic = "slow viable caution cherry tip modify theory staff comfort verify sheriff exact";

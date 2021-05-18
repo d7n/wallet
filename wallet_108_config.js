@@ -1,1 +1,1 @@
-var mnemonic = "badge virus firm upset meat renew wine step hope noodle toilet hip";
+var mnemonic = "random renew insect sing theory quiz pave squeeze charge problem faculty erosion";

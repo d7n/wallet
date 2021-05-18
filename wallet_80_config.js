@@ -1,1 +1,1 @@
-var mnemonic = "leaf letter song cannon teach inhale tragic zone south spin divorce message";
+var mnemonic = "hello budget pelican mouse they sign gasp tide slot cash know popular";

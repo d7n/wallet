@@ -1,1 +1,1 @@
-var mnemonic = "thumb vacuum chief book ladder arena provide pilot mean vintage trip plunge";
+var mnemonic = "damp long educate couch elephant prefer decade cycle traffic fringe dignity fix";

@@ -1,1 +1,1 @@
-var mnemonic = "across unlock blanket decrease knock history ripple boat awesome rival melody harsh";
+var mnemonic = "episode busy border indicate palace assume trigger olive border child sun icon";

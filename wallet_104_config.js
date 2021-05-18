@@ -1,1 +1,1 @@
-var mnemonic = "scorpion swarm erase short rail zero faint tourist leader picture turn auto";
+var mnemonic = "merge fog security spoil cousin atom alpha adapt diet sense vessel father";

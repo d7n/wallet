@@ -1,1 +1,1 @@
-var mnemonic = "license divorce vendor phrase regret property alpha planet earn place velvet turn";
+var mnemonic = "unaware light once divide olympic drop dash mandate ski trend open husband";

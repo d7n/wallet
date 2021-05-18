@@ -1,1 +1,1 @@
-var mnemonic = "amateur output toy ostrich limit awesome blade eye execute cruel soldier mosquito";
+var mnemonic = "way witness month trophy fix genre demand funny loud nice yellow exercise";

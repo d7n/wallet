@@ -1,1 +1,1 @@
-var mnemonic = "confirm angry bracket lab roast response cause cereal off tape innocent clown";
+var mnemonic = "chase garlic skull blind globe trap sort aisle napkin space portion prize";

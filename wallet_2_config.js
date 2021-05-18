@@ -1,1 +1,1 @@
-var mnemonic = "busy torch mountain country hamster security sight practice color thing awkward sister";
+var mnemonic = "process immense laundry arm icon enjoy left eager hungry draft original sustain";

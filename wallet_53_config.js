@@ -1,1 +1,1 @@
-var mnemonic = "exit reform glove hero laptop pen dumb town social slender kite quit";
+var mnemonic = "sample ensure top narrow future skull obscure mention shiver scrub figure trim";

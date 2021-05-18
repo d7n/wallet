@@ -1,1 +1,1 @@
-var mnemonic = "tuna dinner danger sound above usage toe avoid scale undo common list";
+var mnemonic = "glory pool slide spoil consider raise wise marriage across cushion nation start";

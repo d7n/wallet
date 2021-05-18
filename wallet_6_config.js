@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rival opera segment erupt together budget sense rural large display bread";
+var mnemonic = "cry engage dune say cabbage high predict honey daughter slam demise retreat";

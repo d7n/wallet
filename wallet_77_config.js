@@ -1,1 +1,1 @@
-var mnemonic = "such review mix dial blanket drip search various observe casual improve exact";
+var mnemonic = "between canoe uncle dove write civil salt target tank detail forward estate";

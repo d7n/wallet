@@ -1,1 +1,1 @@
-var mnemonic = "frown pet cotton until seven idea lucky kite puppy judge arch throw";
+var mnemonic = "train borrow whale deer material welcome rally carry call life glimpse town";

@@ -1,1 +1,1 @@
-var mnemonic = "machine learn render input soda arrive pluck shaft minor endless case opera";
+var mnemonic = "train gaze avoid sphere course cabin town weekend six half minor way";

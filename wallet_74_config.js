@@ -1,1 +1,1 @@
-var mnemonic = "excuse service wreck very era pull rescue horn payment kangaroo trust elephant";
+var mnemonic = "dwarf asthma master federal firm parade alert guess estate tonight giraffe foster";

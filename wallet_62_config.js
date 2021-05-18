@@ -1,1 +1,1 @@
-var mnemonic = "garage host thank ill cloth shallow farm volume combine dream pigeon husband";
+var mnemonic = "typical help rule school mandate result vibrant gossip warfare swear alarm change";

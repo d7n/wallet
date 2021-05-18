@@ -1,1 +1,1 @@
-var mnemonic = "purchase caution explain assist lock adapt rival delay better toddler loop estate";
+var mnemonic = "gold hope income gap globe monster must chat seven bring make brief";

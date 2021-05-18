@@ -1,1 +1,1 @@
-var mnemonic = "flee copper room divert chat envelope quiz mind possible possible company belt";
+var mnemonic = "advance napkin gain echo idle tooth search arena escape surge mushroom onion";

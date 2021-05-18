@@ -1,1 +1,1 @@
-var mnemonic = "burden repeat web topple vault visual senior vague ordinary sound board wash";
+var mnemonic = "quick neither symbol drive empty edge intact talent undo include soap fruit";

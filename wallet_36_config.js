@@ -1,1 +1,1 @@
-var mnemonic = "hub ready find deny smart high worth element rebuild emotion security rule";
+var mnemonic = "slender pulp exile blame forget divert key trial kite verify promote choose";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp humble project ramp inspire half unveil guilt ice mass vital blade";
+var mnemonic = "excuse mean force depend beauty require minute feed stem talk holiday enable";

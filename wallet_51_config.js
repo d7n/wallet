@@ -1,1 +1,1 @@
-var mnemonic = "trial narrow mean fun food voice wait coach wise visit maple spray";
+var mnemonic = "cargo orange remove rubber wreck talk embody cattle smart tumble skin venue";

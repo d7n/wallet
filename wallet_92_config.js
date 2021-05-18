@@ -1,1 +1,1 @@
-var mnemonic = "gallery man gap blur final shove stumble almost replace game champion shaft";
+var mnemonic = "own sting decline sustain clarify gallery wrap runway answer hint cook balcony";

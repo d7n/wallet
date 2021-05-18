@@ -1,1 +1,1 @@
-var mnemonic = "flight own basket hunt rose guard keen stable have nut swap ugly";
+var mnemonic = "culture hurdle decorate squeeze credit level bullet foot quarter tell potato crowd";

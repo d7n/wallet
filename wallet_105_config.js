@@ -1,1 +1,1 @@
-var mnemonic = "scale uniform swap cannon runway benefit upset weapon yard donkey pepper seek";
+var mnemonic = "garage foam doctor parade group artwork blanket truck earth hedgehog panther interest";

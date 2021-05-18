@@ -1,1 +1,1 @@
-var mnemonic = "dog base episode giant myself hunt remind great scatter able toward renew";
+var mnemonic = "injury now brisk adapt jar cycle gallery purpose real maple surprise mail";

@@ -1,1 +1,1 @@
-var mnemonic = "engine merry jewel kangaroo solve zone skin scatter dune evidence desk pretty";
+var mnemonic = "blood human all trash able consider wink breeze match rail pencil castle";

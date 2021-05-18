@@ -1,1 +1,1 @@
-var mnemonic = "example clutch canvas ketchup sand often bind claim phrase glance virtual blast";
+var mnemonic = "amount follow reunion must hollow evil smooth gloom truth ugly ride license";

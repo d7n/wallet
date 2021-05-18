@@ -1,1 +1,1 @@
-var mnemonic = "pizza toe calm relax cover rigid slam tomorrow rebuild defy domain domain";
+var mnemonic = "decide brush tennis minimum math venture tuna squirrel fish slush world guide";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kitchen crush cage test scan food win bottom abuse lounge strategy";
+var mnemonic = "electric dentist shell fine pudding net wage easy rule fence color crime";

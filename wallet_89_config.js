@@ -1,1 +1,1 @@
-var mnemonic = "oil spread country month popular boost hard milk toss pluck wisdom chuckle";
+var mnemonic = "road domain quantum reward manual busy bag sock glow conduct wash boss";

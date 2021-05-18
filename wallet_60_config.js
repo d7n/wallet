@@ -1,1 +1,1 @@
-var mnemonic = "pencil van evoke mention end lunch primary iron quantum trash crush find";
+var mnemonic = "elephant blame kitten expire taxi cotton artefact oak original fashion artist hungry";

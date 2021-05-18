@@ -1,1 +1,1 @@
-var mnemonic = "capable explain merge police palm charge luxury diet pipe used ill fabric";
+var mnemonic = "absent mean wrap weekend firm sunny fiscal crouch mass miss drastic voice";

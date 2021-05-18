@@ -1,1 +1,1 @@
-var mnemonic = "stage talent stage fury renew garlic pool coast mad anchor rice deer";
+var mnemonic = "skill fatal seminar develop angle absurd drastic sport outer flat aunt program";

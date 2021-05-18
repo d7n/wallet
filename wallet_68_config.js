@@ -1,1 +1,1 @@
-var mnemonic = "plastic diesel rhythm include believe network robust music camera right addict devote";
+var mnemonic = "income setup regret size civil master armor strategy evoke script bleak identify";

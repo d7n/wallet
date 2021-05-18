@@ -1,1 +1,1 @@
-var mnemonic = "fiber elite nasty borrow memory prosper try rookie differ indicate panel bulb";
+var mnemonic = "rebuild banner swallow parrot history father oil noise liar hurdle nose song";

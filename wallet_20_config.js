@@ -1,1 +1,1 @@
-var mnemonic = "sniff slim region alcohol pilot expect piano pumpkin decorate future antenna sibling";
+var mnemonic = "link what pulse dice term program weapon arctic minimum drastic maple leaf";

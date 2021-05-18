@@ -1,1 +1,1 @@
-var mnemonic = "usual badge regret chronic antenna degree gown core motion link security forum";
+var mnemonic = "false surge increase battle medal nation pepper talk syrup asthma proof return";

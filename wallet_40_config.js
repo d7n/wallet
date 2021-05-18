@@ -1,1 +1,1 @@
-var mnemonic = "vague lab valve egg cricket lava sustain emerge involve danger twelve estate";
+var mnemonic = "able code soccer party stick human rude venue later boil expire oppose";

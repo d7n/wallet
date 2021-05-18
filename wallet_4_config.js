@@ -1,1 +1,1 @@
-var mnemonic = "feed pigeon time cash modify action erode fashion spice hospital wing cool";
+var mnemonic = "warfare admit observe example person cereal harvest october rescue glimpse rural father";

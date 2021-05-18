@@ -1,1 +1,1 @@
-var mnemonic = "north edge used admit post dice toss air law caught unfair clinic";
+var mnemonic = "leave cute rude cream acid cabin copper wealth bamboo palace box timber";

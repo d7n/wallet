@@ -1,1 +1,1 @@
-var mnemonic = "tone ramp net curious erode dinner panda rice endorse top kidney oxygen";
+var mnemonic = "physical fade gospel obey into wrestle orbit sea life insane doctor gossip";

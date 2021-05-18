@@ -1,1 +1,1 @@
-var mnemonic = "end hurdle clinic churn deal issue slab stem work abstract shift inject";
+var mnemonic = "holiday vacuum skull design gym defy measure barely ripple cabbage oblige fragile";

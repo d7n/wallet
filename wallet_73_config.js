@@ -1,1 +1,1 @@
-var mnemonic = "half crucial shadow member matrix visit bless sponsor friend snake hockey parade";
+var mnemonic = "economy melt cruise crane flame degree liquid situate okay festival neglect hybrid";

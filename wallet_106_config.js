@@ -1,1 +1,1 @@
-var mnemonic = "skate milk cargo code believe story match swamp lucky equip drum addict";
+var mnemonic = "traffic essence runway film speed attend sock earth salute math horn gun";

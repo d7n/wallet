@@ -1,1 +1,1 @@
-var mnemonic = "dwarf theory grid witness gift stadium vehicle fuel way prosper loud cloud";
+var mnemonic = "summer peasant acoustic million before foot course shed soda slight clip diet";

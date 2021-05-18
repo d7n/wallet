@@ -1,1 +1,1 @@
-var mnemonic = "call father tonight finish follow another heart then loyal trust lawn stadium";
+var mnemonic = "code uncover dynamic situate merit trophy thunder typical cruel travel trick often";

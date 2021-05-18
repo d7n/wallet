@@ -1,1 +1,1 @@
-var mnemonic = "alter primary salute chronic shuffle furnace valley strike album satisfy satisfy meadow";
+var mnemonic = "bench monkey paddle cereal wolf cup once evil super sight custom balcony";

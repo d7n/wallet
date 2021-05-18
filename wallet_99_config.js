@@ -1,1 +1,1 @@
-var mnemonic = "process deliver evolve alcohol document gadget rent foster found divorce grape device";
+var mnemonic = "click finish dutch copper fall anchor avocado choose organ song tooth right";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer slab tornado grid desert index pattern marble glory curious dry around";
+var mnemonic = "soul penalty canoe earn fury prepare panic cabbage smooth ring trip bean";

@@ -1,1 +1,1 @@
-var mnemonic = "range decrease empower champion abuse lesson ghost hurry teach crater bulk belt";
+var mnemonic = "pretty flash inner suspect gather garbage corn prison giraffe render leopard inspire";

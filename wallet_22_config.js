@@ -1,1 +1,1 @@
-var mnemonic = "direct charge outside service cream cute tuition isolate bring evolve beauty define";
+var mnemonic = "ladder jacket arctic expand leaf benefit announce start manage cancel argue buzz";

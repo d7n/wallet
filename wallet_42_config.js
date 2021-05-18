@@ -1,1 +1,1 @@
-var mnemonic = "tomato plastic gorilla fly suspect bus roof avocado tired dad spy soccer";
+var mnemonic = "umbrella private unit useless orange ahead milk bread relief october window dance";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty clarify rice giant riot nominee actress execute index humor romance grunt";
+var mnemonic = "diamond novel romance metal suggest bicycle draft arch weather cliff foster approve";

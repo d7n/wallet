@@ -1,1 +1,1 @@
-var mnemonic = "dance spare purchase fine verify club attack rescue culture little hour fantasy";
+var mnemonic = "knock argue scene naive long knock border crane system cement absent scheme";

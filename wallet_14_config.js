@@ -1,1 +1,1 @@
-var mnemonic = "exact dad whale trust artist humor gospel digital frame popular fan sentence";
+var mnemonic = "veteran happy movie seed develop crane resemble conduct menu remind sea sword";

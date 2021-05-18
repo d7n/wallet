@@ -1,1 +1,1 @@
-var mnemonic = "loop unit swallow entry cream club drive erupt music defense shy about";
+var mnemonic = "flush anger nuclear cruel odor entry morning sorry mad decorate firm false";

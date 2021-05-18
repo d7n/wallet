@@ -1,1 +1,1 @@
-var mnemonic = "panther artwork shell veteran message vacuum glad just tonight elephant chef forum";
+var mnemonic = "food obscure excess true camera script display dove abandon casual struggle settle";

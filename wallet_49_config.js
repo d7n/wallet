@@ -1,1 +1,1 @@
-var mnemonic = "neutral moon excite diagram unhappy broken story genuine inside blame loop engine";
+var mnemonic = "exile caution foam turkey casual sphere eye rely goat strong wire mouse";

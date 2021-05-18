@@ -1,1 +1,1 @@
-var mnemonic = "whisper grief crane smoke adjust usual leader fuel skull obtain bunker fall";
+var mnemonic = "idea pair shaft boat argue duck ahead abuse security expose assault like";

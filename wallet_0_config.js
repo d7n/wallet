@@ -1,1 +1,1 @@
-var mnemonic = "mention gain inside audit awkward property spin oyster left live tornado tragic";
+var mnemonic = "work maze wedding denial title entire young link lyrics fee guess basket";

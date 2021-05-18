@@ -1,1 +1,1 @@
-var mnemonic = "ramp window icon lava zoo accuse space virtual stool taxi napkin vital";
+var mnemonic = "digital okay vicious original valve trim guilt lumber sample blue area welcome";

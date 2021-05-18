@@ -1,1 +1,1 @@
-var mnemonic = "matter rebuild duty radio hundred crouch detail symbol popular hat globe lock";
+var mnemonic = "bullet label tooth device result twice bargain parade leg profit jewel almost";

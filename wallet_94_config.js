@@ -1,1 +1,1 @@
-var mnemonic = "another path eyebrow float number short write able visit lift acoustic captain";
+var mnemonic = "library final own athlete settle wise pudding album grant random leave multiply";

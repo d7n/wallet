@@ -1,1 +1,1 @@
-var mnemonic = "robot tide drama document fun correct morning index news rural suffer poverty";
+var mnemonic = "purity sadness afford creek sniff veteran there expire safe cement assume squeeze";

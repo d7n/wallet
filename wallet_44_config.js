@@ -1,1 +1,1 @@
-var mnemonic = "olympic tape cost unknown case clean pluck awful ten mistake judge butter";
+var mnemonic = "genre riot plug garbage great mass harvest lawsuit patrol violin between front";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll theme soul brand virus illness vapor uphold squeeze bid random enforce";
+var mnemonic = "color unique idea salad payment minimum shoot cram stove brand venture pink";

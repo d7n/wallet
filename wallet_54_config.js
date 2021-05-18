@@ -1,1 +1,1 @@
-var mnemonic = "opera vivid slim wedding bring congress beach laundry medal jeans hamster video";
+var mnemonic = "basket fun tomorrow story outdoor wonder note awkward all surge clap share";

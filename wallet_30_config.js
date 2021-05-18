@@ -1,1 +1,1 @@
-var mnemonic = "enable satisfy audit female funny ostrich grief magnet resemble youth stuff drastic";
+var mnemonic = "rabbit cushion staff satoshi bench ceiling deliver bar dinosaur picnic arctic medal";

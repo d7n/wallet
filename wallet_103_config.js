@@ -1,1 +1,1 @@
-var mnemonic = "seminar time rival left flock rapid basket movie tooth powder object tube";
+var mnemonic = "photo inspire meat minor flag general put similar dawn select upon erase";

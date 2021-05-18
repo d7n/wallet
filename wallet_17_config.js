@@ -1,1 +1,1 @@
-var mnemonic = "work dress moment pulse range crater robot remain remove now trash reflect";
+var mnemonic = "arm hour fade glad hello message grab ghost elephant tunnel vague bench";

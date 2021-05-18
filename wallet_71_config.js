@@ -1,1 +1,1 @@
-var mnemonic = "air unique ocean fringe gravity junior combine neutral drift finish foam provide";
+var mnemonic = "mechanic kiwi spot turn space indicate plunge water smile sword drink flower";

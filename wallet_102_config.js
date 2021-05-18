@@ -1,1 +1,1 @@
-var mnemonic = "lobster tuna brass spring swing junk file fitness salute lazy piano cash";
+var mnemonic = "better diet sunny stand toilet unaware sand ceiling eye cable fitness employ";

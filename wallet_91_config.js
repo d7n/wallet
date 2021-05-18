@@ -1,1 +1,1 @@
-var mnemonic = "chalk record hunt faith style frozen echo body wagon address daring avoid";
+var mnemonic = "choice snap mesh little drip concert decide include toilet notice cover liquid";

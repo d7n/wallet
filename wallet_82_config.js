@@ -1,1 +1,1 @@
-var mnemonic = "calm amused frame broken topic round card track dove drum entire moon";
+var mnemonic = "wink provide agent design tail rely physical school silver affair soccer moment";

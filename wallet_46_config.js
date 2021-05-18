@@ -1,1 +1,1 @@
-var mnemonic = "yellow modify fun disorder wild mask swim cupboard bulk license broom output";
+var mnemonic = "east aim fog narrow language erosion upgrade music crew kind account nature";

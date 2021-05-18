@@ -1,1 +1,1 @@
-var mnemonic = "always zebra decide sad sure radar exhibit vehicle chief wide feel response";
+var mnemonic = "tone soda kitten lobster multiply siege cross analyst family clump impact prison";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight mixture trade chat crumble swamp cool child chat sustain nasty lemon";
+var mnemonic = "immune extra heart helmet jaguar frost shell exhibit oxygen bitter myself narrow";

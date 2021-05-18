@@ -1,1 +1,1 @@
-var mnemonic = "maze already rookie nerve goose upgrade another slab only crucial eager tail";
+var mnemonic = "horse seven stool fury radar apple divide tooth destroy trip indoor noise";

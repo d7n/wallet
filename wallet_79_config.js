@@ -1,1 +1,1 @@
-var mnemonic = "priority reopen hunt differ belt path unaware monitor capital coyote hidden mountain";
+var mnemonic = "crane wage animal direct hover sadness air voice machine regret pumpkin view";

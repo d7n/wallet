@@ -1,1 +1,1 @@
-var mnemonic = "apology clever keep deputy zebra stick girl kite refuse turtle ticket tumble";
+var mnemonic = "lake corn poverty two erosion client infant about remember route exchange ceiling";

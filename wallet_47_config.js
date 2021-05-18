@@ -1,1 +1,1 @@
-var mnemonic = "letter eagle hotel saddle near chair dutch grape grab engine regret hover";
+var mnemonic = "garment more destroy winner girl cheese exile antique muscle such glue uncle";

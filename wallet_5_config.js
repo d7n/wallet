@@ -1,1 +1,1 @@
-var mnemonic = "burger nest social scrap screen tell panda key response cricket rich first";
+var mnemonic = "key section eager rookie abandon gun roast easy seven maple service crowd";

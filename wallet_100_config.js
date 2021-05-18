@@ -1,1 +1,1 @@
-var mnemonic = "enforce toast call marriage benefit derive army naive prison evidence program achieve";
+var mnemonic = "leg coyote slice oyster olive club shed amused kiwi sing sauce spin";
