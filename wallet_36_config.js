@@ -1,1 +1,1 @@
-var mnemonic = "odor giant remain pyramid toss crash ankle scan punch view together equal";
+var mnemonic = "display stereo hint angry short autumn goat uniform volume tortoise pupil witness";

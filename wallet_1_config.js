@@ -1,1 +1,1 @@
-var mnemonic = "jealous rich gym captain okay style wrestle shadow useful adult girl cabin";
+var mnemonic = "erosion drive hotel dignity income dry demand few chronic pulp huge pottery";

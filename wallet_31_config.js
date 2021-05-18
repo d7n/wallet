@@ -1,1 +1,1 @@
-var mnemonic = "endorse pole once february cherry undo rare stereo ice arena off base";
+var mnemonic = "fury stairs chief strike define onion festival mammal arch essay diary sell";

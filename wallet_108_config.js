@@ -1,1 +1,1 @@
-var mnemonic = "vital have raise render they exchange cricket soul sausage cradle tree accident";
+var mnemonic = "category rate book ecology grass hire online whisper build artefact host topple";

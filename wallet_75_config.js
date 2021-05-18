@@ -1,1 +1,1 @@
-var mnemonic = "humor genre uphold midnight video dinosaur drift vacuum wild tongue anger round";
+var mnemonic = "manage zebra oven lady essay brisk fiction review match defense same chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe radar forward equal become pelican outdoor bottom squirrel tornado broken apart";
+var mnemonic = "innocent gorilla wire myself odor home wild stay coast orphan milk express";

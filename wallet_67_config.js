@@ -1,1 +1,1 @@
-var mnemonic = "public before hold seek swing empower general spin food snap air vote";
+var mnemonic = "peasant unusual foil file question faculty until logic have slogan corn sketch";

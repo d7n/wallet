@@ -1,1 +1,1 @@
-var mnemonic = "because someone cabin now page notice seek reward elephant bottom wave property";
+var mnemonic = "twice rebuild price weather video gentle blur fun dizzy pottery hurry cart";

@@ -1,1 +1,1 @@
-var mnemonic = "web first fault month alone garment carry gown page dragon truly present";
+var mnemonic = "paper mobile estate oven census about rich expand essence zebra leisure anxiety";

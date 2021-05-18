@@ -1,1 +1,1 @@
-var mnemonic = "sword barrel stamp squeeze ready barrel ahead leader swap swarm rival enable";
+var mnemonic = "ostrich goddess aware cabin average music festival cruel keen federal surface absent";

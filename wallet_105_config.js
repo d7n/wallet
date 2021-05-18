@@ -1,1 +1,1 @@
-var mnemonic = "onion kick giraffe promote belt analyst auction fix mom mystery citizen goose";
+var mnemonic = "apology shrug private outdoor fatigue sand mosquito soon column rural wedding liar";

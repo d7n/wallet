@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cry manual where aerobic reform stamp body scrap play venue flight";
+var mnemonic = "chapter traffic swamp pull license mandate increase rifle enjoy carry test chief";

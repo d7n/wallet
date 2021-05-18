@@ -1,1 +1,1 @@
-var mnemonic = "garment step relax black april fine radio salute force magnet gate wide";
+var mnemonic = "bundle photo turtle silent rocket glove youth silk middle today kangaroo lunch";

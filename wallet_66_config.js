@@ -1,1 +1,1 @@
-var mnemonic = "donate regular despair hollow that stadium blade ranch wait high rebel interest";
+var mnemonic = "hero small clap economy reopen general coast sorry dose piano wrestle heart";

@@ -1,1 +1,1 @@
-var mnemonic = "capable brother tide whip into crew oven analyst awesome actor nothing save";
+var mnemonic = "have hidden seven goose chaos salmon west lamp friend glance minute panic";

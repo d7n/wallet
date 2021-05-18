@@ -1,1 +1,1 @@
-var mnemonic = "category twist panda suffer token credit organ organ door mirror unlock success";
+var mnemonic = "nuclear bar slush taxi sheriff unhappy clown cradle jar neglect sentence monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "write guitar price behind series brush august sibling keen put hurt lonely";
+var mnemonic = "vivid oblige tag vivid chef rate fury cloth unit blade violin image";

@@ -1,1 +1,1 @@
-var mnemonic = "combine correct habit bachelor hour scan exclude drum gallery field rather session";
+var mnemonic = "split employ ghost evil ability sudden merry slice blanket click target lab";

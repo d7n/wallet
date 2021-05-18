@@ -1,1 +1,1 @@
-var mnemonic = "hair popular broken myself key dentist tumble bar monkey catch whip cat";
+var mnemonic = "crazy affair cram tobacco addict glare grit nothing metal salmon caught sheriff";

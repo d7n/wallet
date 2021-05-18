@@ -1,1 +1,1 @@
-var mnemonic = "pupil concert spy history treat raven neutral dilemma dinner lunch ahead clean";
+var mnemonic = "cream thought blood setup gun object ankle shell permit reflect alpha trick";

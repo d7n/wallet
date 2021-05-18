@@ -1,1 +1,1 @@
-var mnemonic = "room cliff universe banana pig drastic timber disease car inspire cloud retreat";
+var mnemonic = "now example tackle error horror execute odor lazy coyote horror right better";

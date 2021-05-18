@@ -1,1 +1,1 @@
-var mnemonic = "ranch turn rough grain coil welcome battle nation vapor clutch slogan barrel";
+var mnemonic = "panther gadget live skull renew prosper beauty trip solution fiction govern bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "quit lock two car resource mix cool alert family address cotton stuff";
+var mnemonic = "dolphin raven merit affair lion mystery correct rib topic drink tag bench";

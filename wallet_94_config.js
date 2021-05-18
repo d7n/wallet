@@ -1,1 +1,1 @@
-var mnemonic = "upset expose rare pole panic hedgehog window prosper wealth flame decrease walk";
+var mnemonic = "empower invite motor steak copper style siren novel magic ability coyote voyage";

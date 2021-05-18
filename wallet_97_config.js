@@ -1,1 +1,1 @@
-var mnemonic = "embark speed crazy demise title idle oppose height style quit gas interest";
+var mnemonic = "thing october rigid perfect finger save wear sustain topic logic art bounce";

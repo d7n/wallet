@@ -1,1 +1,1 @@
-var mnemonic = "wasp flip library capital expect uniform pull episode armed kitten include nest";
+var mnemonic = "noise need film spy inflict recycle tomorrow deputy priority whisper drum guilt";

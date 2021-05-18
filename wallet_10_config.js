@@ -1,1 +1,1 @@
-var mnemonic = "great sunny moon dad because math view lift install payment hunt coconut";
+var mnemonic = "vacant edge excite sure cheap deposit please patient food foster antenna diet";

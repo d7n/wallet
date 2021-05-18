@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo satoshi any patch blush smoke asthma half filter type rough key";
+var mnemonic = "conduct vessel engine orchard sunset shell panther claim medal hour ethics genre";

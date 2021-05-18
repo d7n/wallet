@@ -1,1 +1,1 @@
-var mnemonic = "food unable short tunnel swamp already address similar juice split cotton belt";
+var mnemonic = "book access distance render bubble powder custom surge diagram blade giraffe sheriff";

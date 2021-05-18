@@ -1,1 +1,1 @@
-var mnemonic = "wild say winter provide soldier cherry know mail shoulder barrel gym please";
+var mnemonic = "sea dad spy address eagle alter art long smoke property trim file";

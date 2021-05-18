@@ -1,1 +1,1 @@
-var mnemonic = "yellow nephew pink trial tuna slender amazing absent hill skull drink frost";
+var mnemonic = "rack panda frown term keep version crazy slow donor sea citizen zero";

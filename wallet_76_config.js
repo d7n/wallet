@@ -1,1 +1,1 @@
-var mnemonic = "scatter spot worry leg fragile order fire duty mystery pizza pitch tell";
+var mnemonic = "pledge faculty wine sea produce social rare old slogan cross response hungry";

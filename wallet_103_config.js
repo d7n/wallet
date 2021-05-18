@@ -1,1 +1,1 @@
-var mnemonic = "giggle idle ritual visa recipe fine april melt congress hedgehog cost fiction";
+var mnemonic = "raise exhibit bring dry engine balance brother detail valid link setup hat";

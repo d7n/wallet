@@ -1,1 +1,1 @@
-var mnemonic = "return that rebel violin milk crash warfare organ around brand cigar riot";
+var mnemonic = "museum multiply room capable monster day cheese describe buddy frozen salmon near";

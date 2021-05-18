@@ -1,1 +1,1 @@
-var mnemonic = "summer peasant heart gauge maze owner infant rapid local bunker assist return";
+var mnemonic = "update despair hurt soap nothing dinner excess practice pulp security staff scan";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed welcome movie kite flavor clip clown miss chronic nut when lunch";
+var mnemonic = "wedding crash tree cloth forward purse blanket tent fog soft grid wall";

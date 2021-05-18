@@ -1,1 +1,1 @@
-var mnemonic = "private dry session worry destroy shock speed smile glove remember twice diet";
+var mnemonic = "vague test goddess globe leader juice shed senior indicate three faith border";

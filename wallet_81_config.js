@@ -1,1 +1,1 @@
-var mnemonic = "wage wish skill bulk grace dumb come pond tree code repeat runway";
+var mnemonic = "wear typical order roof file jaguar age danger code wasp raw cradle";

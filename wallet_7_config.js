@@ -1,1 +1,1 @@
-var mnemonic = "mango clog excuse trigger exile visa output sick swim payment kind liberty";
+var mnemonic = "kidney tube engine quit bachelor will three asset rain know tiger gauge";

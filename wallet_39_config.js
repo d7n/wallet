@@ -1,1 +1,1 @@
-var mnemonic = "purpose pluck infant list punch forest company motion mean float toss devote";
+var mnemonic = "worry venture clay hidden muffin sell clay task wool floor put rebel";

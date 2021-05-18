@@ -1,1 +1,1 @@
-var mnemonic = "express awkward female tooth unusual vague nice comfort chicken flee wait unique";
+var mnemonic = "burst degree truth father green life left awake end focus wait catalog";

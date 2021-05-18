@@ -1,1 +1,1 @@
-var mnemonic = "nothing fine ill door gravity music material egg stairs toe luxury wear";
+var mnemonic = "select bleak impose chalk harvest pause blast prize debris march bundle rhythm";

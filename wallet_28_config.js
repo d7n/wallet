@@ -1,1 +1,1 @@
-var mnemonic = "address omit describe damage birth renew sail rare valley siren provide state";
+var mnemonic = "know alien defy master blame chief unique relax smooth delay laundry beauty";

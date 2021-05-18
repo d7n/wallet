@@ -1,1 +1,1 @@
-var mnemonic = "gesture amazing size thought obtain problem play sense mistake comfort aunt cherry";
+var mnemonic = "clump opinion solution craft rate please swamp joke cream fatigue agree vessel";

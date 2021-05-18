@@ -1,1 +1,1 @@
-var mnemonic = "oblige loud banner cushion judge there merge output person grain purchase purpose";
+var mnemonic = "urban frown era ozone nuclear original lawn invest orphan leaf little festival";

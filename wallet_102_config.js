@@ -1,1 +1,1 @@
-var mnemonic = "pioneer hard essence lunch same snake twist stomach okay domain put tuition";
+var mnemonic = "ketchup gasp evil dwarf purse flock unfold oven charge axis put this";

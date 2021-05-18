@@ -1,1 +1,1 @@
-var mnemonic = "feed student ripple couch guitar hammer head know evil diesel hill clerk";
+var mnemonic = "portion brush album junior donate fix income bring negative sorry wise glimpse";

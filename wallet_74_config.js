@@ -1,1 +1,1 @@
-var mnemonic = "entry evidence certain endless bacon final error answer fox shop trophy merge";
+var mnemonic = "punch fix material rubber sun click frown just weekend medal basic give";

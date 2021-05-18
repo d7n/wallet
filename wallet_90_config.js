@@ -1,1 +1,1 @@
-var mnemonic = "minor shield orphan save chaos eyebrow rapid exhibit million work very shop";
+var mnemonic = "stage best reason blush limit adult rail battle helmet black unfold baby";

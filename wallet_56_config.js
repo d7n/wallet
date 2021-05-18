@@ -1,1 +1,1 @@
-var mnemonic = "vocal axis rigid cement slender expose ketchup chuckle cousin damp wage toddler";
+var mnemonic = "cereal fabric easily poet keep vivid bundle spring pride mutual spice menu";

@@ -1,1 +1,1 @@
-var mnemonic = "glue hollow below bacon purse chapter note lemon magnet nice joy damage";
+var mnemonic = "tone skill jacket satoshi ill crazy tiger doctor about exit canal army";

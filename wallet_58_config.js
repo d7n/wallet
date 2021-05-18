@@ -1,1 +1,1 @@
-var mnemonic = "empower hollow refuse air retreat saddle balance boost day exercise save label";
+var mnemonic = "wine shuffle whip volcano angle identify execute grain armor ball soccer able";

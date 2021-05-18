@@ -1,1 +1,1 @@
-var mnemonic = "cream wire planet robot street settle blossom lecture swarm stadium pear rack";
+var mnemonic = "output churn endless involve insane during expect initial goose define imitate blur";

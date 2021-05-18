@@ -1,1 +1,1 @@
-var mnemonic = "swear noodle dice nice fringe decide yellow arrow pact hurt text visit";
+var mnemonic = "picture work diesel buyer quarter total long monitor woman indicate garbage suspect";

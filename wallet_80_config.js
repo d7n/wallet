@@ -1,1 +1,1 @@
-var mnemonic = "party wreck sting injury banner muscle proof release voice solar dirt garden";
+var mnemonic = "safe away sadness borrow rose essence foam over leisure drill index subway";

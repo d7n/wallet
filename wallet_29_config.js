@@ -1,1 +1,1 @@
-var mnemonic = "grocery regular old stem water robust spot nerve left news globe obtain";
+var mnemonic = "purse plate someone love social alarm oval puzzle quit shove cup tragic";

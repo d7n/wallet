@@ -1,1 +1,1 @@
-var mnemonic = "grab judge potato better lend burger evidence title actress salmon verb sweet";
+var mnemonic = "pumpkin truly excite renew special glass produce document pattern grunt solution sweet";

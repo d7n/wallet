@@ -1,1 +1,1 @@
-var mnemonic = "october banana athlete element favorite series claim unhappy hold wheat wait symptom";
+var mnemonic = "bone feature season dizzy surge file embody music indicate just alpha pony";

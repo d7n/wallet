@@ -1,1 +1,1 @@
-var mnemonic = "amateur april maximum student return trust session stage option phone flash fence";
+var mnemonic = "glow trick drum gorilla buyer announce kiwi mesh arrest diamond drill video";

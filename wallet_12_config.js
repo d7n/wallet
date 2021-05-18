@@ -1,1 +1,1 @@
-var mnemonic = "bulk awesome copy oxygen various country gentle hero diary tent resemble term";
+var mnemonic = "hospital soldier plate glare finger bachelor skate seven illegal hazard lift oxygen";

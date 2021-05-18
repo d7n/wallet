@@ -1,1 +1,1 @@
-var mnemonic = "theory wear meadow planet view boil electric ankle body choose steak summer";
+var mnemonic = "essay code gym must need voyage rose comic concert accident assume lyrics";

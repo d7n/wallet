@@ -1,1 +1,1 @@
-var mnemonic = "give hand copy inherit deposit blue spread ivory pill unfair update soul";
+var mnemonic = "atom one glide major coffee slam fancy cheese torch rocket adult pink";

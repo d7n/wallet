@@ -1,1 +1,1 @@
-var mnemonic = "direct collect nephew female grass melody token ozone lake super doll clarify";
+var mnemonic = "pill initial fashion egg jazz fence sauce order ride lawn damp oil";

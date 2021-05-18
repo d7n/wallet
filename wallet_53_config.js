@@ -1,1 +1,1 @@
-var mnemonic = "spell pelican crawl marriage mountain flavor nut square pistol tree economy sadness";
+var mnemonic = "laundry tone end season milk lab sugar grit basket nothing material account";

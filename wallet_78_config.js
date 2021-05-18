@@ -1,1 +1,1 @@
-var mnemonic = "alpha antique monitor hello tank confirm three flat obvious aerobic spatial tobacco";
+var mnemonic = "hunt praise casual pause mad winner street spread zone plunge famous hockey";

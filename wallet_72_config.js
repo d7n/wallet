@@ -1,1 +1,1 @@
-var mnemonic = "mind kidney lizard trick couple hat become corn winner purpose rent debate";
+var mnemonic = "piano cactus damage duty check oblige hollow toss bike scrub meat wine";

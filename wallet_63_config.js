@@ -1,1 +1,1 @@
-var mnemonic = "pyramid bone note above supreme charge cinnamon lady position exact net easy";
+var mnemonic = "margin leave firm balcony athlete stereo opera fee cradle sudden reflect review";

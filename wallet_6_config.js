@@ -1,1 +1,1 @@
-var mnemonic = "aisle game appear gospel release capable audit dolphin chronic close tilt cloud";
+var mnemonic = "drill upon oven indoor heart manage brief circle surface vault pottery lake";

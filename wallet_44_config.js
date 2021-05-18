@@ -1,1 +1,1 @@
-var mnemonic = "basket actress moon mouse animal scrap potato machine bean music language royal";
+var mnemonic = "ancient canvas demand move inch blur miss reunion salon rely erosion youth";

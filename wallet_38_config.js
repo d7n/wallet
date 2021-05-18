@@ -1,1 +1,1 @@
-var mnemonic = "equip bracket junior engine afford win tape filter category razor envelope talent";
+var mnemonic = "solid jar poet science joy motor vanish kangaroo squeeze emerge adjust scheme";

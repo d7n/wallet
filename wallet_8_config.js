@@ -1,1 +1,1 @@
-var mnemonic = "flash slot era live stand input position tone farm climb kite aerobic";
+var mnemonic = "trim slab live cook evil daring reject velvet misery taxi federal skate";

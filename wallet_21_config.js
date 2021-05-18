@@ -1,1 +1,1 @@
-var mnemonic = "sister affair layer truck ball improve have van index six parrot drift";
+var mnemonic = "rabbit decrease sketch lonely zero next elbow ability jaguar include cattle addict";

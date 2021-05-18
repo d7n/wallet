@@ -1,1 +1,1 @@
-var mnemonic = "cricket pony wide rain yard party visual such poverty wall grocery kitchen";
+var mnemonic = "spare palm envelope provide strike certain sight mail weird spoon kangaroo genre";

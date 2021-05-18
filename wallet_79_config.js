@@ -1,1 +1,1 @@
-var mnemonic = "pipe lamp crumble planet seven soldier uncover egg same axis symbol media";
+var mnemonic = "follow faith wire drip plunge firm strong tag crush chimney nuclear valve";

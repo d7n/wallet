@@ -1,1 +1,1 @@
-var mnemonic = "excess hawk festival sudden squirrel snap frost receive oval section large visa";
+var mnemonic = "decide hurry enable region drama alcohol wisdom pupil tumble snow defy holiday";

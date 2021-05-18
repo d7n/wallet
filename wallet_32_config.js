@@ -1,1 +1,1 @@
-var mnemonic = "write powder void twice receive such lecture enough tool hospital because surface";
+var mnemonic = "mistake fever choose trash lumber install tenant mule addict quick roof wood";

@@ -1,1 +1,1 @@
-var mnemonic = "brush birth isolate congress never equip toe struggle improve nurse glow enforce";
+var mnemonic = "shield pupil tribe faint orange airport vibrant evil crop ordinary amount wrap";

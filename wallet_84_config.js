@@ -1,1 +1,1 @@
-var mnemonic = "abuse alley illegal tenant magnet easily convince cloud mutual arrest home sheriff";
+var mnemonic = "unable such august state leopard tone huge twelve again exit frame hint";

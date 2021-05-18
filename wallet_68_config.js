@@ -1,1 +1,1 @@
-var mnemonic = "general brick music good boss toss urban pioneer jewel panel during hundred";
+var mnemonic = "melody lion fiction piece decide shine case embrace task beach subway belt";

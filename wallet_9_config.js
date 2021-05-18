@@ -1,1 +1,1 @@
-var mnemonic = "spider sense favorite core case comic settle tag remain consider defy crazy";
+var mnemonic = "infant little blanket tired skull attitude auto result parade fruit forum process";

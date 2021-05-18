@@ -1,1 +1,1 @@
-var mnemonic = "possible bone patrol roof stage repeat soda nasty rescue bleak scissors pudding";
+var mnemonic = "weird kite curious cool infant toilet grab crystal cabin ivory limb ecology";

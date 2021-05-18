@@ -1,1 +1,1 @@
-var mnemonic = "weekend toddler equip lawn chase vapor pass try jazz mind gloom include";
+var mnemonic = "gold tower dream blur code exact august violin hawk song swim creek";

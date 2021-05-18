@@ -1,1 +1,1 @@
-var mnemonic = "grape fluid valley pair consider senior damp glimpse fiction shell thought crane";
+var mnemonic = "furnace inhale genuine section bonus relief gossip lemon empower pave gown original";

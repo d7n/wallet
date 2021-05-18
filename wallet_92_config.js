@@ -1,1 +1,1 @@
-var mnemonic = "defense drift differ federal curious example nest employ style useless mother disagree";
+var mnemonic = "deny radio what indicate update scrap interest exercise mandate pipe slice casual";

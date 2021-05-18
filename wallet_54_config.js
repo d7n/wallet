@@ -1,1 +1,1 @@
-var mnemonic = "frequent tray dash unaware power diesel bean planet truly crystal blame odor";
+var mnemonic = "tourist excess blade seminar viable hungry cinnamon spot addict choice carbon february";

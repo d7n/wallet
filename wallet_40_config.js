@@ -1,1 +1,1 @@
-var mnemonic = "reason ramp increase baby churn gather unveil rug vapor elbow loop slogan";
+var mnemonic = "town garlic apology uniform divert truth round during aerobic perfect bundle taste";

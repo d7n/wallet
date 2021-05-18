@@ -1,1 +1,1 @@
-var mnemonic = "ridge trim bridge update dentist van powder enhance cinnamon valve sustain taste";
+var mnemonic = "cover thunder display unfair mirror lamp engage erode dilemma drum gorilla stock";

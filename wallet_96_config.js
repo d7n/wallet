@@ -1,1 +1,1 @@
-var mnemonic = "point hotel spice bless magnet short tent seven paddle way ancient drive";
+var mnemonic = "enrich divide bracket beef social rent hockey nose curious prefer elegant comfort";

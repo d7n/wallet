@@ -1,1 +1,1 @@
-var mnemonic = "upper twice since elephant upgrade place reduce chest bean siege series kitten";
+var mnemonic = "physical hamster walk essay giggle ski inquiry fame pelican section sunset latin";

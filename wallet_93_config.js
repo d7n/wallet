@@ -1,1 +1,1 @@
-var mnemonic = "tide adult lake episode keen device access scrap pond orphan blood game";
+var mnemonic = "trash grunt memory fabric text draft seek rug turkey gadget enemy pioneer";

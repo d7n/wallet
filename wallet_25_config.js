@@ -1,1 +1,1 @@
-var mnemonic = "apology saddle often scout reason more prison elbow knee front hospital vault";
+var mnemonic = "old youth segment draft charge kitchen split giraffe strong scare guard air";

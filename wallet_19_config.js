@@ -1,1 +1,1 @@
-var mnemonic = "first empty fiber kangaroo lecture buffalo suspect short always clap snack maze";
+var mnemonic = "lunch cook outer panther neither case exile refuse public idea imitate north";

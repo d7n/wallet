@@ -1,1 +1,1 @@
-var mnemonic = "bracket trade gravity labor suit pond text lyrics grab general raccoon multiply";
+var mnemonic = "auction cheese father magnet zero material mushroom siren again alter luxury cat";
