@@ -1,1 +1,1 @@
-var mnemonic = "pill unable flame enact middle concert program close fiction ticket onion economy";
+var mnemonic = "fury outer occur unable matter candy puppy position mask gloom region move";

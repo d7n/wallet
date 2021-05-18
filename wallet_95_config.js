@@ -1,1 +1,1 @@
-var mnemonic = "summer lawsuit stomach announce spirit urban cloth hockey toe wood chalk smile";
+var mnemonic = "risk retire wood surface ugly film glass around iron cereal fire salmon";

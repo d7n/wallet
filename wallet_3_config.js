@@ -1,1 +1,1 @@
-var mnemonic = "army hover logic filter answer series ill island explain salt dune belt";
+var mnemonic = "bitter attitude board detect equal canoe voice spirit child purchase abandon glue";

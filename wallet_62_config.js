@@ -1,1 +1,1 @@
-var mnemonic = "great eight illegal domain viable ignore gentle awesome deal palm short loyal";
+var mnemonic = "ketchup scissors switch remind bounce twelve antenna derive across uncover pulse sauce";

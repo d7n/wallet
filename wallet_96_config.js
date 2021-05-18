@@ -1,1 +1,1 @@
-var mnemonic = "blush arrange blame glide fix punch rule now flight naive rhythm weapon";
+var mnemonic = "soup insect athlete vanish shallow sell jar delay office collect royal reveal";

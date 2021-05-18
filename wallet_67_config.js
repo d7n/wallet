@@ -1,1 +1,1 @@
-var mnemonic = "view peace boil they measure tobacco cherry edit coin lock regret notice";
+var mnemonic = "cabbage hire daring wreck often that very mechanic ugly soccer champion milk";

@@ -1,1 +1,1 @@
-var mnemonic = "metal next depend demand dose essence detail unaware armor scan someone foil";
+var mnemonic = "topple maze mandate exact spice busy pretty opera oak neck aisle decline";

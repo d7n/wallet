@@ -1,1 +1,1 @@
-var mnemonic = "wealth safe clerk pitch purpose verify peace doctor private holiday broom spin";
+var mnemonic = "polar artist hedgehog lucky slush fever hurdle clap viable undo sting sentence";

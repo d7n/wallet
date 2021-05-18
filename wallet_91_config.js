@@ -1,1 +1,1 @@
-var mnemonic = "lens enhance crisp report stomach beyond celery vague nature peace daughter finger";
+var mnemonic = "lunch deposit edge surprise good pill sea describe release neck wet street";

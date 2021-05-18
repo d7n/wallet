@@ -1,1 +1,1 @@
-var mnemonic = "note frame click tourist blood alcohol ramp absurd release equal family dove";
+var mnemonic = "exist erosion fashion super pencil base state slim grant kiss latin say";

@@ -1,1 +1,1 @@
-var mnemonic = "example upper across wedding clean chief unaware album congress peasant give fashion";
+var mnemonic = "law garlic lift vocal laptop reflect duck betray medal soldier spatial orange";

@@ -1,1 +1,1 @@
-var mnemonic = "purity essay shy mule super liberty suit hen maid jealous runway verify";
+var mnemonic = "ancient devote benefit system toy great bench crash dune oil liberty situate";

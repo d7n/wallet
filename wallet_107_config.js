@@ -1,1 +1,1 @@
-var mnemonic = "atom output still raven rabbit peanut mandate bench walk among key candy";
+var mnemonic = "spatial rubber pulp reject actress ensure choice asset lion quote drip inside";

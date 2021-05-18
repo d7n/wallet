@@ -1,1 +1,1 @@
-var mnemonic = "evidence rhythm ivory kind airport water educate mom digital grant exist banner";
+var mnemonic = "legal pair involve bring advice six impose uphold shield clump section left";

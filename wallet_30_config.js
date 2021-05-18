@@ -1,1 +1,1 @@
-var mnemonic = "rookie prison hedgehog concert body hockey dutch captain lyrics train spider stuff";
+var mnemonic = "exchange sign mesh kitten run case detail reunion garden pigeon raise depend";

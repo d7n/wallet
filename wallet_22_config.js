@@ -1,1 +1,1 @@
-var mnemonic = "actor follow consider add hold elite antique rule oval invest supply action";
+var mnemonic = "try adult lawsuit shoot update crew box rigid evoke budget power outer";

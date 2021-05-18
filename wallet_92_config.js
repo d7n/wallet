@@ -1,1 +1,1 @@
-var mnemonic = "feed proud drastic among portion please run suspect deliver under reunion recycle";
+var mnemonic = "vast casual crush stone put desert matrix fat beyond blind suit gasp";

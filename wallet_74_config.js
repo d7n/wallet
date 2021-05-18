@@ -1,1 +1,1 @@
-var mnemonic = "ring trust absurd hard jar math neither zero army acquire venue aunt";
+var mnemonic = "light dynamic witness detect enforce save survey wait meat dirt damp mule";

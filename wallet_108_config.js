@@ -1,1 +1,1 @@
-var mnemonic = "cruise vault furnace violin idle bread awake soul actress budget excite swallow";
+var mnemonic = "belt position actual account claw kick skate priority rain soul spell derive";

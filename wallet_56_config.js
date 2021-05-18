@@ -1,1 +1,1 @@
-var mnemonic = "jazz neck day dry woman dash diagram this afraid click vocal galaxy";
+var mnemonic = "faith cloth skull afford flash ticket roast robot pulp bid leave damage";

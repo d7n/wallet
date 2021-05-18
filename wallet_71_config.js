@@ -1,1 +1,1 @@
-var mnemonic = "upper pet scare acquire guard tonight defy panic lecture gain burst rather";
+var mnemonic = "nice stick mango dizzy water erupt payment deputy silent rally foam endorse";

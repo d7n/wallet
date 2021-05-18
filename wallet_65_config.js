@@ -1,1 +1,1 @@
-var mnemonic = "warrior poet video lamp quiz about bike nominee hero heart blast process";
+var mnemonic = "silent camp essence replace excite flame mix inherit tennis zebra august paddle";

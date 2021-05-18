@@ -1,1 +1,1 @@
-var mnemonic = "work boy among crime island job cruel fresh heart amateur wonder permit";
+var mnemonic = "siren soul ridge horn quantum kick play veteran funny inquiry bleak puppy";

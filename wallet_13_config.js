@@ -1,1 +1,1 @@
-var mnemonic = "address stick oak icon weekend six head guard super fade world key";
+var mnemonic = "vendor agree sail appear subway napkin pass beach license script write frog";

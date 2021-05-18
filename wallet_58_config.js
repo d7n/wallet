@@ -1,1 +1,1 @@
-var mnemonic = "poem camera stumble fork naive parrot under sugar regular tray thunder sad";
+var mnemonic = "proud error fringe simple also smoke spread weather addict equip grass frog";

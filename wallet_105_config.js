@@ -1,1 +1,1 @@
-var mnemonic = "gift earth pear goose engine rocket crouch obtain narrow link save smoke";
+var mnemonic = "manual craft champion weather arena matter wish agent board increase same april";

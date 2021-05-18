@@ -1,1 +1,1 @@
-var mnemonic = "wine funny evolve noodle iron snack advice list barely orbit lawsuit clean";
+var mnemonic = "sport symptom choice echo enlist man exit weapon job border drastic caught";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic make tone vendor idea mind shove check small bag display finger";
+var mnemonic = "few wild tomorrow submit jeans print tourist attack first mouse tiger eager";

@@ -1,1 +1,1 @@
-var mnemonic = "anger supply motion bean develop shock oil arrow venture defense bird depart";
+var mnemonic = "deliver submit marine relief feel energy penalty present denial filter indoor game";

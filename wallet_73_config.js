@@ -1,1 +1,1 @@
-var mnemonic = "window vague jazz famous atom into knock globe life message absorb replace";
+var mnemonic = "car mansion speed assume stable review unusual access famous proof upper phone";

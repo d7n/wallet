@@ -1,1 +1,1 @@
-var mnemonic = "educate swap wheat antique citizen peanut cheese hub lift cigar hunt just";
+var mnemonic = "spatial kangaroo law wage safe hero refuse must loud grunt rich gap";

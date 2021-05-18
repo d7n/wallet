@@ -1,1 +1,1 @@
-var mnemonic = "term sibling paper fashion absurd wrong account cancel mind galaxy police gold";
+var mnemonic = "dance slogan hollow panel hope trim column detect exile maid load fat";

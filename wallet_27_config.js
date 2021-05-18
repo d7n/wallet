@@ -1,1 +1,1 @@
-var mnemonic = "retreat code solar crew argue brass arrive grab castle nephew alert ancient";
+var mnemonic = "asset damage shock term submit visual inhale pact about account segment jungle";

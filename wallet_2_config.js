@@ -1,1 +1,1 @@
-var mnemonic = "size skirt liberty olympic outside concert error iron tank parent admit sign";
+var mnemonic = "bubble between garlic noise soft truck donor coil slide electric traffic world";

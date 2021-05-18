@@ -1,1 +1,1 @@
-var mnemonic = "stomach desk fun garden feature inject ski spread carbon junk head suffer";
+var mnemonic = "squirrel surround critic wagon aim urge entire struggle virus lizard garment sentence";

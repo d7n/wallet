@@ -1,1 +1,1 @@
-var mnemonic = "stem coast aisle decline narrow bean certain fault brand credit course garbage";
+var mnemonic = "essence whale gasp run rabbit relief burst own foot taste lumber fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "prize sail hockey that sea kind one canoe metal profit model drive";
+var mnemonic = "area evolve gift crouch surround chat play lift region soccer endless original";

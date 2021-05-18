@@ -1,1 +1,1 @@
-var mnemonic = "tornado winter guilt crunch bar account moon movie enroll nest poverty poet";
+var mnemonic = "labor fatal thank survey marriage banner rebel cake dust iron second match";

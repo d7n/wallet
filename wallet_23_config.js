@@ -1,1 +1,1 @@
-var mnemonic = "spread loud night eager laundry lion alpha excess company banana pond fancy";
+var mnemonic = "cruise shallow aim extend cube gaze setup plastic box dad load garbage";

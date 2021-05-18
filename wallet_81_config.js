@@ -1,1 +1,1 @@
-var mnemonic = "cattle winter vault scrub tumble face veteran media mind access dizzy analyst";
+var mnemonic = "face rabbit exhibit loyal bridge input story auction garage surprise sleep pet";

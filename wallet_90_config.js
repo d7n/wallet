@@ -1,1 +1,1 @@
-var mnemonic = "arctic paper monitor seat impulse aisle slow barrel fee rubber slight harvest";
+var mnemonic = "rally horror famous actress rack spoon song true exhibit push odor time";

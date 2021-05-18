@@ -1,1 +1,1 @@
-var mnemonic = "output exotic bullet address damage bunker long rifle text guard guilt cost";
+var mnemonic = "pear whip brass play record upgrade unable fade noodle burger brisk erase";

@@ -1,1 +1,1 @@
-var mnemonic = "course endorse park purpose retire owner midnight pass motor indicate cluster favorite";
+var mnemonic = "tuition appear street kit area tragic fall fiber tongue trade observe february";

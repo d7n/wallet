@@ -1,1 +1,1 @@
-var mnemonic = "veteran assault female kingdom knife sniff bachelor penalty now force symbol cake";
+var mnemonic = "live expire duck blouse pair dose sauce note lecture flock outer faith";

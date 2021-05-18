@@ -1,1 +1,1 @@
-var mnemonic = "report thumb claw clinic okay invite index when mesh grass meadow wagon";
+var mnemonic = "crush surround today crush claim parent enjoy unknown vintage twist kiwi scheme";

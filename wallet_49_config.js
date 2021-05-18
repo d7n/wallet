@@ -1,1 +1,1 @@
-var mnemonic = "retreat glue joke piece duck million tree keep reunion decorate metal mail";
+var mnemonic = "world comic token fish attend ceiling bench hero genuine nature view also";

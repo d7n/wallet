@@ -1,1 +1,1 @@
-var mnemonic = "exile evolve purchase hazard resource search jar shell pole advice flock head";
+var mnemonic = "debate duck cinnamon image vessel seat parade chat public sister exist immune";

@@ -1,1 +1,1 @@
-var mnemonic = "social uncle glove reduce drink deer merry shallow essay border addict vessel";
+var mnemonic = "ten unknown next blue where horse organ endless crisp vocal segment friend";

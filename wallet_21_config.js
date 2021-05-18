@@ -1,1 +1,1 @@
-var mnemonic = "boost replace unable witness machine glass cement rabbit garbage mind walnut scissors";
+var mnemonic = "purse age machine relief expose filter news assault stumble okay protect clutch";

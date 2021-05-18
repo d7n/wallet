@@ -1,1 +1,1 @@
-var mnemonic = "shrimp disagree surface invest enough naive post hunt fiction finish draft lens";
+var mnemonic = "small peanut cheap donate effort kite confirm large sauce harvest wood viable";

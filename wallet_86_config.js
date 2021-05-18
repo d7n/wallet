@@ -1,1 +1,1 @@
-var mnemonic = "stem dizzy insane truth apology glide uniform risk juice palm regular rate";
+var mnemonic = "suggest few sad steak jeans urban distance army march opinion write mention";

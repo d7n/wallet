@@ -1,1 +1,1 @@
-var mnemonic = "path orange cover visa meat duty essay hard genuine learn peace alert";
+var mnemonic = "young provide cousin fish urban acquire tourist jump tuition carbon leave poem";

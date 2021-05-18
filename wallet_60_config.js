@@ -1,1 +1,1 @@
-var mnemonic = "lecture fat moon able auto list hundred frog obscure inner original appear";
+var mnemonic = "nuclear answer type rocket ocean bench taxi belt until wait strong blanket";

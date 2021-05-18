@@ -1,1 +1,1 @@
-var mnemonic = "mountain talent price come early run merry umbrella shrug mushroom proof mandate";
+var mnemonic = "sponsor trim ghost image color popular magic drop excite river beyond harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "wife concert surprise cry upset spend license erase peanut sword unfair mean";
+var mnemonic = "promote practice witness praise bar spend prefer sister drive casual zone deputy";

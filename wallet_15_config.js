@@ -1,1 +1,1 @@
-var mnemonic = "story jeans focus syrup deputy loan sing elegant holiday pulse senior apology";
+var mnemonic = "open dizzy omit quote sentence sibling diagram error book view fix blame";

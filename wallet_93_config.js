@@ -1,1 +1,1 @@
-var mnemonic = "position local tone grain dentist divert pig segment gasp office approve door";
+var mnemonic = "toward mountain fragile famous fortune purity soda erode announce opera airport badge";

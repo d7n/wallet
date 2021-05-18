@@ -1,1 +1,1 @@
-var mnemonic = "october enrich spawn carbon cup arena cycle daughter excite heart already mechanic";
+var mnemonic = "diesel palm bamboo chief lazy borrow bullet runway glad address glass dream";

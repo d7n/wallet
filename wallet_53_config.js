@@ -1,1 +1,1 @@
-var mnemonic = "math boil nasty buffalo permit fun size tennis style vapor shock voyage";
+var mnemonic = "equip leader business exhaust suit always doctor blind joy enough indoor apart";

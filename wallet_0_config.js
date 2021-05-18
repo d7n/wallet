@@ -1,1 +1,1 @@
-var mnemonic = "aerobic permit response unknown imitate repair become sheriff shy toss oil art";
+var mnemonic = "dwarf notice parade siren phone output brief remain hope chicken broken square";

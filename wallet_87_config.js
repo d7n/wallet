@@ -1,1 +1,1 @@
-var mnemonic = "chunk adult supreme wing strong brisk shiver shrug snap news begin fitness";
+var mnemonic = "victory mail tortoise net unusual machine utility medal spray view output under";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket spy sting claw define shoot goat ask exist bounce eight capital";
+var mnemonic = "rail melt chunk filter train tobacco enemy amateur grain nurse mixed captain";

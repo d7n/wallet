@@ -1,1 +1,1 @@
-var mnemonic = "unknown captain liberty display baby crime budget attract gym network promote mammal";
+var mnemonic = "hotel include elder image bargain cruise finger dynamic humble display holiday impose";

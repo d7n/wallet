@@ -1,1 +1,1 @@
-var mnemonic = "hazard food egg top cram news genuine aerobic basic call alert affair";
+var mnemonic = "pear about project truth inner adapt choice kite erosion purchase depart gift";

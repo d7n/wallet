@@ -1,1 +1,1 @@
-var mnemonic = "hungry very renew pencil muffin crime narrow speed input music address alien";
+var mnemonic = "river acoustic hollow soda error step inch tone marble wise picture settle";

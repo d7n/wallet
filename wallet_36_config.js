@@ -1,1 +1,1 @@
-var mnemonic = "cake series like thought suffer satisfy elephant grit iron wet rubber pill";
+var mnemonic = "dune vintage spread shop salt unable favorite enrich woman noise square urban";

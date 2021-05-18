@@ -1,1 +1,1 @@
-var mnemonic = "brand silver gym what fresh pretty flag tribe marriage congress claw any";
+var mnemonic = "aspect pink orchard actress early stadium amazing behind simple worry shoe like";

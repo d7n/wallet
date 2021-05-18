@@ -1,1 +1,1 @@
-var mnemonic = "ill large airport cry car measure barrel cheap visa extra aerobic equal";
+var mnemonic = "woman guard festival cute group own pill naive gift believe allow spatial";

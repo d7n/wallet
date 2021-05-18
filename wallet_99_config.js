@@ -1,1 +1,1 @@
-var mnemonic = "wagon practice toddler measure endorse patient assist civil key nasty waste foster";
+var mnemonic = "glow innocent give pause noble emerge artist elevator valley jar parent open";

@@ -1,1 +1,1 @@
-var mnemonic = "wise double vivid coffee equal veteran action gap pottery since taste walnut";
+var mnemonic = "shallow ride combine smart sail brother enough own cotton donkey cover license";

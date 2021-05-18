@@ -1,1 +1,1 @@
-var mnemonic = "skate loud sure ugly what boss swap screen rural other spot about";
+var mnemonic = "lava dash talent february basic carpet powder sponsor elite sauce aspect peanut";

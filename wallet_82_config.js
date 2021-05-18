@@ -1,1 +1,1 @@
-var mnemonic = "road double direct card silver film clown apology gun immense scissors spare";
+var mnemonic = "cargo badge hollow load certain forward legend eternal damp tool fish fuel";

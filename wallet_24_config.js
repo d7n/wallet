@@ -1,1 +1,1 @@
-var mnemonic = "bamboo elegant test daring eight neutral exact virus churn setup grass pool";
+var mnemonic = "conduct slush tape file myth spring total tone elbow frost wrong tongue";

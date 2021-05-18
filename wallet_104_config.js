@@ -1,1 +1,1 @@
-var mnemonic = "reunion cheap device traffic enemy fog glue display ancient panic hollow affair";
+var mnemonic = "rare question tennis now face reform crystal romance fatal bunker doll flag";

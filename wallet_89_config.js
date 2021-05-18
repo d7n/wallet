@@ -1,1 +1,1 @@
-var mnemonic = "biology inner worry neck faculty length sheriff remove pave cute spin arctic";
+var mnemonic = "ritual inspire twin degree sponsor broken nose midnight repair jungle polar unhappy";

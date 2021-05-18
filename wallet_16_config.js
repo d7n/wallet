@@ -1,1 +1,1 @@
-var mnemonic = "census salad bird walk cousin dash august present transfer grass add brisk";
+var mnemonic = "soup allow promote mom protect garment click object engine income blanket enjoy";

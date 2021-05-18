@@ -1,1 +1,1 @@
-var mnemonic = "current surround squeeze steak awake wild muffin inner enable stamp decrease beef";
+var mnemonic = "metal jealous finger daughter oblige saddle history shift build test welcome suit";

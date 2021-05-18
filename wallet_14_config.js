@@ -1,1 +1,1 @@
-var mnemonic = "naive team hospital metal breeze spread oxygen body potato silk diary question";
+var mnemonic = "awesome keep venture blush cargo decrease crucial vessel impulse tomato trend topic";

@@ -1,1 +1,1 @@
-var mnemonic = "great hurdle usual rhythm squirrel curious champion vacant pen erosion fabric screen";
+var mnemonic = "make nasty clown tilt typical pencil obtain twin swap minor inherit idle";

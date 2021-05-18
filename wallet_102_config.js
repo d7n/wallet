@@ -1,1 +1,1 @@
-var mnemonic = "seek neutral top reopen short help exit chimney harvest finish base pioneer";
+var mnemonic = "dune shed profit target shock mystery group work bulb mimic subway jazz";

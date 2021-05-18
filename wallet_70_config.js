@@ -1,1 +1,1 @@
-var mnemonic = "bleak then drum eyebrow cruel much armed vanish gate rotate donate short";
+var mnemonic = "jeans burger produce twice need bean wrestle raven sister hire word surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet hair major parade amount only amateur wire smooth dance jeans sheriff";
+var mnemonic = "oppose kick neutral airport visa document cart popular interest practice hen animal";

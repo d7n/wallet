@@ -1,1 +1,1 @@
-var mnemonic = "keep final enough census escape myself weapon giant country material lab music";
+var mnemonic = "curtain please person hungry federal park exchange text quote toilet exact outer";

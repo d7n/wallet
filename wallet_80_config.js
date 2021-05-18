@@ -1,1 +1,1 @@
-var mnemonic = "odor scissors act dove make melt fiber truly motion burst else mansion";
+var mnemonic = "window before skull undo cross become worth cream tail private resemble ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "salad tube uncover screen comfort behind manage unfold inspire old suit crew";
+var mnemonic = "mirror mutual clerk certain scrap science farm tail hidden give neutral oven";

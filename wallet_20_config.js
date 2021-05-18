@@ -1,1 +1,1 @@
-var mnemonic = "hat spray tower fury able arch try tree blush elbow harsh illness";
+var mnemonic = "sort direct check ensure spread mansion strong initial outer slow era will";

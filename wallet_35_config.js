@@ -1,1 +1,1 @@
-var mnemonic = "pluck ankle lunar piece grunt jealous system offer claw elevator before leaf";
+var mnemonic = "globe arch helmet skirt need act hole never arena cushion long relax";

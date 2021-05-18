@@ -1,1 +1,1 @@
-var mnemonic = "answer buzz claw electric point parade brass possible pulse clump dad bid";
+var mnemonic = "question assume spot ride cage please wonder recycle market neutral wine matter";

@@ -1,1 +1,1 @@
-var mnemonic = "habit paper journey subway garbage curtain silver arrow chief elder noodle worth";
+var mnemonic = "inflict birth junk detail wheel chalk when punch hunt legal harsh stable";

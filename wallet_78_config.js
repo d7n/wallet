@@ -1,1 +1,1 @@
-var mnemonic = "off squeeze series abuse photo arm vanish great unable try fragile extra";
+var mnemonic = "laugh deer burger grass march exile tourist matrix dad slogan crawl book";

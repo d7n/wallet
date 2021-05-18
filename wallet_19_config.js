@@ -1,1 +1,1 @@
-var mnemonic = "girl trumpet eye dynamic page honey dish auction hidden valid mask swift";
+var mnemonic = "nature major device soldier before renew ring forum oil brush health swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence glance tube health vessel cook tomorrow awake aerobic over student ridge";
+var mnemonic = "grow clerk any force target vast tunnel easily correct pave organ rifle";

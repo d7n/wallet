@@ -1,1 +1,1 @@
-var mnemonic = "object combine manage intact case affair cross museum enhance symbol series sphere";
+var mnemonic = "wild hire brown kingdom capital pledge duty during renew kiwi runway cart";

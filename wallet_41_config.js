@@ -1,1 +1,1 @@
-var mnemonic = "film other humble broccoli hard purpose estate client lawn loud embody employ";
+var mnemonic = "scale sick gasp slow present just sting strike earth wheat boat ecology";

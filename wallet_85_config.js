@@ -1,1 +1,1 @@
-var mnemonic = "raise debris tape salt bird omit shrimp outside common shaft sell pyramid";
+var mnemonic = "orient dove rival come retreat wonder coil ten aunt simple ship puzzle";
