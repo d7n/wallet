@@ -1,1 +1,1 @@
-var mnemonic = "tunnel truck option setup beef harbor nerve income color time peace cook";
+var mnemonic = "shadow neglect retire drum worry razor glue violin confirm picture mimic item";

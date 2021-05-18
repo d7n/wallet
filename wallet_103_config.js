@@ -1,1 +1,1 @@
-var mnemonic = "betray speed pole lawn gospel decade dragon festival nation hundred ankle kiwi";
+var mnemonic = "fatigue cancel blue tuition impulse tip first tiger unhappy language blush blur";

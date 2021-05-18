@@ -1,1 +1,1 @@
-var mnemonic = "file retreat scene need february then moral reward diesel tongue rack clarify";
+var mnemonic = "record laptop top object ahead traffic provide history radar lava among salmon";

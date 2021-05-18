@@ -1,1 +1,1 @@
-var mnemonic = "trip chair obey argue dry parent dwarf cherry ceiling hidden soldier gas";
+var mnemonic = "volcano vehicle blood ketchup jelly great arrive sketch tag leopard price drop";

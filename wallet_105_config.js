@@ -1,1 +1,1 @@
-var mnemonic = "naive total service violin fat popular win release social mule fiscal lesson";
+var mnemonic = "sword mind long predict coil calm junior toss certain victory exit jelly";

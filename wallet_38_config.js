@@ -1,1 +1,1 @@
-var mnemonic = "tray marriage company pumpkin act tilt friend legend what feed cliff smoke";
+var mnemonic = "fluid credit slab still guide bar tape lion hip find meat swift";

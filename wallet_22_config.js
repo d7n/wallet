@@ -1,1 +1,1 @@
-var mnemonic = "desert aisle frozen ship prevent immense garbage cable hedgehog raccoon grow wasp";
+var mnemonic = "defy actual ginger split atom chair wash simple common vast light settle";

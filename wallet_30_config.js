@@ -1,1 +1,1 @@
-var mnemonic = "stool tank senior giant cable job steel flag lava travel also spare";
+var mnemonic = "battle cancel best nice vessel feel age sport van digital rent myself";

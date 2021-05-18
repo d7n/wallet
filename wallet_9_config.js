@@ -1,1 +1,1 @@
-var mnemonic = "chunk world flower peasant more food board blade page barely canoe borrow";
+var mnemonic = "female bamboo exact goose act bomb creek coil catalog swift happy chronic";

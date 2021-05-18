@@ -1,1 +1,1 @@
-var mnemonic = "trim runway spice canoe decline airport ecology return mail transfer pipe devote";
+var mnemonic = "domain cliff gorilla rotate soldier either lounge sentence banana cancel like actual";

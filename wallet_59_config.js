@@ -1,1 +1,1 @@
-var mnemonic = "limit elevator point skirt extend news dry canoe host bullet kid oxygen";
+var mnemonic = "expand inherit between relax rug exile adult rebuild fork sign chicken nurse";

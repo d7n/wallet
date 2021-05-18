@@ -1,1 +1,1 @@
-var mnemonic = "bonus fiscal tree record float guitar basket hidden torch fault absent employ";
+var mnemonic = "industry unit fault auction buyer shuffle faculty avoid luxury you evolve unlock";

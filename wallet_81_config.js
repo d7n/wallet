@@ -1,1 +1,1 @@
-var mnemonic = "wing rabbit gain eagle recipe turtle object rich ski piano swarm girl";
+var mnemonic = "blind busy science meadow lobster start asthma plunge tilt reveal soccer beef";

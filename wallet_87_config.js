@@ -1,1 +1,1 @@
-var mnemonic = "aware couple sell unknown increase foil champion flee upset toy bomb cause";
+var mnemonic = "student eternal town empower stamp relax audit cave own grace office object";

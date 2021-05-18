@@ -1,1 +1,1 @@
-var mnemonic = "inquiry thank holiday fall either dose address donkey guilt error party turn";
+var mnemonic = "shed rebuild elevator matrix clay soccer access lumber fence click erode sea";

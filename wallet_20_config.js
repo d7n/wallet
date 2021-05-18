@@ -1,1 +1,1 @@
-var mnemonic = "tip tattoo burger also hello tag festival engine become goose tooth flame";
+var mnemonic = "okay plunge fox nothing portion long stamp asthma hawk holiday web slow";

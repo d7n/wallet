@@ -1,1 +1,1 @@
-var mnemonic = "okay bitter coil silly first giggle deliver surge language bike note hunt";
+var mnemonic = "label tag sentence twist tackle acid where eager piece science sheriff reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "that wash embark level aim kangaroo weasel tribe situate live kit slim";
+var mnemonic = "obvious main abuse suggest taxi exotic theory stadium sort three snap blame";

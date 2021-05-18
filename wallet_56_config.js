@@ -1,1 +1,1 @@
-var mnemonic = "grocery purpose exist farm wall pumpkin swamp flavor anxiety draft birth honey";
+var mnemonic = "mutual stem vocal notable eager violin rescue goose diamond six identify skirt";

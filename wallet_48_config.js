@@ -1,1 +1,1 @@
-var mnemonic = "between gap history gold such fix arrest game delay lock blur aisle";
+var mnemonic = "february leave model conduct antique element travel hamster copper humor school aspect";

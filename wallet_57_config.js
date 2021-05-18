@@ -1,1 +1,1 @@
-var mnemonic = "lab lucky oxygen again reopen rail twin meadow burst enlist hat card";
+var mnemonic = "fluid road oppose market robot unfold enable toast borrow talent write more";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote emerge step someone side hello quote model pumpkin room alcohol mushroom";
+var mnemonic = "home frost ridge monster engage teach easily later field much festival juice";

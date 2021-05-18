@@ -1,1 +1,1 @@
-var mnemonic = "nose inject hotel dad battle annual enforce original genuine leave stand pledge";
+var mnemonic = "bracket involve expose relax grit knife dignity fade cargo neutral jar festival";

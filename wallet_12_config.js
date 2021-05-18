@@ -1,1 +1,1 @@
-var mnemonic = "quantum dismiss vote disagree rain fun suffer perfect hybrid chat absurd myth";
+var mnemonic = "window middle ridge uniform spider panther kangaroo ski planet island decorate flag";

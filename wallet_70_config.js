@@ -1,1 +1,1 @@
-var mnemonic = "crucial female pistol always inner crush joke mystery huge push cook ugly";
+var mnemonic = "swim shadow nose fog wrong lab fatigue vast balcony crash cabbage grain";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect swallow arch help van ability under fat hair timber want oval";
+var mnemonic = "reunion elephant acoustic pass fence merge name below hair pencil team amateur";

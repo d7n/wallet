@@ -1,1 +1,1 @@
-var mnemonic = "rubber dog pulp tool wisdom velvet heavy primary weekend owner broom cruise";
+var mnemonic = "series zero toward already trade rigid profit normal combine kiwi symptom scrap";

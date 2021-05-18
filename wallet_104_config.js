@@ -1,1 +1,1 @@
-var mnemonic = "brisk relax quiz skill roast welcome vicious reduce theory recipe east patient";
+var mnemonic = "hip elephant clay rare history enforce brush leave explain garden mimic flower";

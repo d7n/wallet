@@ -1,1 +1,1 @@
-var mnemonic = "tissue witness mushroom shuffle need grocery mimic mom enable morning place opinion";
+var mnemonic = "neck prize coconut tennis goat sadness emotion trigger brain jelly almost february";

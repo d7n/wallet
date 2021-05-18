@@ -1,1 +1,1 @@
-var mnemonic = "bacon skin token young pause invite tool tomorrow man valid mesh soup";
+var mnemonic = "evidence source slender reform peanut festival track tree gossip cave summer help";

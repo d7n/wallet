@@ -1,1 +1,1 @@
-var mnemonic = "inspire admit symbol cancel legal better hurdle together crew monster crop stamp";
+var mnemonic = "shiver misery total embrace defy pulse crane common scare manual dragon scan";

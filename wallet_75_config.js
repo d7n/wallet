@@ -1,1 +1,1 @@
-var mnemonic = "drum income prize glimpse bargain boil stem doll purity combine random outdoor";
+var mnemonic = "cash auction involve knife axis hero dog quiz soap index cabin gap";

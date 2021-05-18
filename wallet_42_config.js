@@ -1,1 +1,1 @@
-var mnemonic = "above isolate giggle bless video cannon gap tip security alone alone talk";
+var mnemonic = "seven offer quality avocado mention try reflect bulb mosquito property disagree produce";

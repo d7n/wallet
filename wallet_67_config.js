@@ -1,1 +1,1 @@
-var mnemonic = "slight trouble jungle maze asthma match attend pepper left smart install survey";
+var mnemonic = "hair century prefer crunch clap agree budget settle ice cook educate sample";

@@ -1,1 +1,1 @@
-var mnemonic = "engage boil design ceiling virus loyal profit place drama few river virus";
+var mnemonic = "such note brisk surface again panic surprise someone mixed hammer pepper kingdom";

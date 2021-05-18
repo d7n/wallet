@@ -1,1 +1,1 @@
-var mnemonic = "february omit analyst hub pottery shop token local spike pony such strong";
+var mnemonic = "spirit wide north flock march behave kangaroo broccoli reveal bid carpet fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "night season cancel kangaroo scissors morning trouble black flock deposit behind head";
+var mnemonic = "hotel super guard camera library clean pipe orphan depend album couch search";

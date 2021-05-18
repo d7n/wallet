@@ -1,1 +1,1 @@
-var mnemonic = "cat coffee step regret dove glass dance pistol gaze extra easy position";
+var mnemonic = "sorry piano mixed airport office maid panic stick special drift bicycle kitchen";

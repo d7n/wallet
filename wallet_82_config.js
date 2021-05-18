@@ -1,1 +1,1 @@
-var mnemonic = "unable mother empty pilot piano hood guilt casino slim length siege shallow";
+var mnemonic = "wave random easily real blast abstract lend physical wait scheme wish kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm doctor inmate eye select suffer innocent home turtle visa monkey museum";
+var mnemonic = "answer dinosaur price cricket animal strike plunge foot rule original glow best";

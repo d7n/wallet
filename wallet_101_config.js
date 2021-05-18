@@ -1,1 +1,1 @@
-var mnemonic = "move betray immune title member joy various jewel stool wagon figure clap";
+var mnemonic = "blood subway tomato rain shrimp crystal cheese okay jewel surprise public history";

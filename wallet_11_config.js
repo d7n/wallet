@@ -1,1 +1,1 @@
-var mnemonic = "picnic resemble thunder slam tomorrow double patrol plate foot nominee aware silly";
+var mnemonic = "enact tooth heavy wood series secret grant message lens hundred struggle neck";

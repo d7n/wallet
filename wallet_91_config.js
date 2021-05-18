@@ -1,1 +1,1 @@
-var mnemonic = "young nothing tent rate pole shine truck clever argue cherry reason under";
+var mnemonic = "page settle lottery middle must sting baby joke awake multiply buffalo bone";

@@ -1,1 +1,1 @@
-var mnemonic = "rate ready enroll audit catalog bunker milk escape agree dream nurse cushion";
+var mnemonic = "damage when session cloth october mercy sort art road atom cheese side";

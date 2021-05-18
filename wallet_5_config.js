@@ -1,1 +1,1 @@
-var mnemonic = "essence area pattern mosquito upper senior produce receive congress around brain luggage";
+var mnemonic = "swap wish model suspect mixture episode slide spring history swap gallery network";

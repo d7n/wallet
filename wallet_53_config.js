@@ -1,1 +1,1 @@
-var mnemonic = "climb outdoor hundred blush win sport push confirm unlock question meat toast";
+var mnemonic = "parade emotion lake eagle screen attack north brisk pulp melody scatter vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "head setup false sock lamp cruise else lucky wash sense jelly glimpse";
+var mnemonic = "episode will tail acoustic film train inmate season early expire horror cannon";

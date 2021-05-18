@@ -1,1 +1,1 @@
-var mnemonic = "order body scare antique mechanic student excuse addict daughter box inform harvest";
+var mnemonic = "when pair axis two embrace direct helmet hobby resist type erosion toy";

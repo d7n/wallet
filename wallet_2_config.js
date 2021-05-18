@@ -1,1 +1,1 @@
-var mnemonic = "column twin aware example innocent idle way edit habit jar brass spike";
+var mnemonic = "waste enrich law later account skirt pottery slot dust muffin review sheriff";

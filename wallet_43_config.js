@@ -1,1 +1,1 @@
-var mnemonic = "drama famous cost anger strategy bridge pave age angry angle boy proud";
+var mnemonic = "town lady cook mercy vicious right kind act wolf hen album member";

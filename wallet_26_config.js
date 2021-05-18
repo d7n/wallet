@@ -1,1 +1,1 @@
-var mnemonic = "between garlic distance short nothing move casino menu stumble rough wire raven";
+var mnemonic = "fish famous forget burger air sound logic example beyond today employ excite";

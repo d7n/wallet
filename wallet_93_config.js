@@ -1,1 +1,1 @@
-var mnemonic = "token original lake eagle cloth disagree jelly find piece card hidden child";
+var mnemonic = "wrist chair digital portion diary jeans young away video rain model avocado";

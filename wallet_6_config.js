@@ -1,1 +1,1 @@
-var mnemonic = "barely test echo divert depth cousin short dog zebra search squirrel urge";
+var mnemonic = "coconut market draft husband enough donor whisper doll absurd census between spike";

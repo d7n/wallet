@@ -1,1 +1,1 @@
-var mnemonic = "violin start solve bounce subway green april capital library cube glue boy";
+var mnemonic = "hat obey trial often drive travel else enact frown country theory ghost";

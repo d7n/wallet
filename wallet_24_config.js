@@ -1,1 +1,1 @@
-var mnemonic = "install party expire proof toe wrist future city primary buzz supply afraid";
+var mnemonic = "badge oxygen tenant visual tiger vibrant leaf upset spin mutual nest help";

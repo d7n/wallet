@@ -1,1 +1,1 @@
-var mnemonic = "unaware real photo survey spring mechanic write traffic noodle fiscal spatial winter";
+var mnemonic = "clump sunny weird menu nice because figure vague rebel trumpet scrap grid";

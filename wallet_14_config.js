@@ -1,1 +1,1 @@
-var mnemonic = "donkey wait nut adapt antique front deer deer clean nuclear member rice";
+var mnemonic = "slam enrich skull stove suit amount pretty anchor lucky doctor dinner table";

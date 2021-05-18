@@ -1,1 +1,1 @@
-var mnemonic = "crystal fiction stuff provide rally rely mesh clap saddle ensure carbon carry";
+var mnemonic = "sport near extend logic just original drill olive naive act food catch";

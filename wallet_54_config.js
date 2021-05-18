@@ -1,1 +1,1 @@
-var mnemonic = "fat home chest soul ribbon much loyal kiss build surprise wild onion";
+var mnemonic = "author ski client sample idle waste fabric liquid print earth rail target";

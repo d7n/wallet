@@ -1,1 +1,1 @@
-var mnemonic = "shoe into release gorilla speak drama speed acquire betray notice wrestle island";
+var mnemonic = "click armed process depend soft city mechanic learn arrange robust bounce coconut";

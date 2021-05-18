@@ -1,1 +1,1 @@
-var mnemonic = "labor wave food napkin pear speak sunny announce scheme group moral link";
+var mnemonic = "exile metal pupil web minor foster utility where aisle enact capable move";

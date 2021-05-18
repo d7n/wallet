@@ -1,1 +1,1 @@
-var mnemonic = "mountain betray silk plastic night style taxi easily oval ten govern coil";
+var mnemonic = "urge coconut trick blanket ill dignity dolphin melody useful stick forward purse";

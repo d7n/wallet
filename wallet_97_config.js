@@ -1,1 +1,1 @@
-var mnemonic = "increase pool second burden addict double main toy myth grocery cheap great";
+var mnemonic = "canal onion faculty pool fatal bid wife motion ginger outdoor rocket innocent";

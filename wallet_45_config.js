@@ -1,1 +1,1 @@
-var mnemonic = "smoke sustain switch adult steak mixed rose post liar arrest tiny history";
+var mnemonic = "east cancel bless crystal sweet spring chest chuckle capital jar fox wool";

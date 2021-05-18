@@ -1,1 +1,1 @@
-var mnemonic = "link junk divide bacon once canal adjust miss caught decade rubber safe";
+var mnemonic = "increase thunder vague glare great gravity tuna misery type connect file blush";

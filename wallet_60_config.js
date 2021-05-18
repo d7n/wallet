@@ -1,1 +1,1 @@
-var mnemonic = "gloom alcohol ensure trim where today attack inform solid robot torch fetch";
+var mnemonic = "able town floor rather top list carbon boat benefit promote option flee";

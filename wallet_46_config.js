@@ -1,1 +1,1 @@
-var mnemonic = "surface pen delay normal radar steel tenant long clean include faculty must";
+var mnemonic = "crumble cargo appear coast crumble emerge rent tag balance asset food select";

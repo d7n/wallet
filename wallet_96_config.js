@@ -1,1 +1,1 @@
-var mnemonic = "decade borrow behave mixture coconut problem afraid umbrella raven stadium adjust language";
+var mnemonic = "gauge slow evoke grant hat head chicken evolve flock weasel truly oval";

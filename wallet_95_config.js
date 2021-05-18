@@ -1,1 +1,1 @@
-var mnemonic = "gadget photo subway kick dentist base yard mirror rebel hair hunt proof";
+var mnemonic = "critic glue bulk frost deputy divert hockey gift misery various mom excite";

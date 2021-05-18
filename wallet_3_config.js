@@ -1,1 +1,1 @@
-var mnemonic = "lunch december protect frozen abstract click mushroom spot glare shoe trend chicken";
+var mnemonic = "reward purse armed abandon section dose rule spice throw fashion chalk such";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle design coach woman tag sphere solar siege morning medal body believe";
+var mnemonic = "arrange acquire glass liar salad balance cable wealth welcome fade pond divert";

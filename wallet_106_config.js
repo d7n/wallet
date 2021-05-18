@@ -1,1 +1,1 @@
-var mnemonic = "frame elbow winner famous cream clerk noise aunt hen output weapon flag";
+var mnemonic = "olympic human law mixed will kind magnet coil hungry uniform urge message";

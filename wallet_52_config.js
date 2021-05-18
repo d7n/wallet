@@ -1,1 +1,1 @@
-var mnemonic = "select nature news royal since script always echo wrist sight isolate wall";
+var mnemonic = "payment advance wife figure baby atom ghost weird post chase bus oval";

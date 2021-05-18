@@ -1,1 +1,1 @@
-var mnemonic = "fatigue suit humor impose vehicle comic century absent alley hunt wing liar";
+var mnemonic = "raw creek crucial start vanish soldier require govern cushion oyster cover sort";

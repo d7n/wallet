@@ -1,1 +1,1 @@
-var mnemonic = "consider inner filter bicycle dream chunk desk awkward require poem route fitness";
+var mnemonic = "know stage beauty donate chef treat when group car pair cricket convince";

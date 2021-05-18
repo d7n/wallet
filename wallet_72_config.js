@@ -1,1 +1,1 @@
-var mnemonic = "aunt sadness census stock mule first mean credit element exact ticket ranch";
+var mnemonic = "vivid sell resource second open raccoon next dash argue wide twin cereal";

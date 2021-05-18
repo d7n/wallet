@@ -1,1 +1,1 @@
-var mnemonic = "repair mango lady mandate onion snack damp quality manual swift milk strong";
+var mnemonic = "debate grid stick swap wish electric reform neck pair tree lock boat";

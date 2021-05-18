@@ -1,1 +1,1 @@
-var mnemonic = "foot burst dream excite shield despair indicate march kitten view parade nurse";
+var mnemonic = "vote ethics hunt essence effort jazz flame concert travel century high reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "immune ticket empower raven weather toast height awful chat viable beyond custom";
+var mnemonic = "sheriff region thank decrease wealth lock elegant valid print coin rare gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "when consider wing blossom fringe grass twin kite same spin crime book";
+var mnemonic = "matter gorilla april attitude diary dinosaur kind tribe swap siege battle delay";

@@ -1,1 +1,1 @@
-var mnemonic = "section ensure sword turkey crucial kit hand inject news web liquid team";
+var mnemonic = "symbol crouch marble judge hire hawk awful vessel easy open hood there";

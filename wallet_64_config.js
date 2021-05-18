@@ -1,1 +1,1 @@
-var mnemonic = "raccoon general poverty carbon shaft sheriff upset abandon deal file way actor";
+var mnemonic = "rice inquiry wolf toast way actress junior convince purse found retire ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket long dinner curve country salt stage step edge load crawl soldier";
+var mnemonic = "scan wine connect impose carbon glue main face alcohol material keep summer";

@@ -1,1 +1,1 @@
-var mnemonic = "extra treat crater inherit crop door acquire practice what hand rural elegant";
+var mnemonic = "sight donor mind festival beauty theme spawn rough swallow ready rural make";

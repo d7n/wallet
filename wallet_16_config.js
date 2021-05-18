@@ -1,1 +1,1 @@
-var mnemonic = "patrol ranch voice violin corn deny quiz dynamic soccer anger manual claw";
+var mnemonic = "blush page mention monitor kingdom fatigue tone urban amateur dial tooth expose";

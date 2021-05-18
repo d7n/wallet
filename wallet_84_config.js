@@ -1,1 +1,1 @@
-var mnemonic = "business absorb eager shoot holiday begin cotton fury space corn flash thought";
+var mnemonic = "wife river spatial matrix space science milk regular foam tongue science diesel";

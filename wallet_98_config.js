@@ -1,1 +1,1 @@
-var mnemonic = "chunk type what name slab under frown indicate flame indoor apology rapid";
+var mnemonic = "divide slight reflect upset cannon toilet diagram emotion hobby void dumb fit";
