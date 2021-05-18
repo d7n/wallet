@@ -1,1 +1,1 @@
-var mnemonic = "frog tragic desk shrimp cart skin excess damp urge method drive juice";
+var mnemonic = "profit luxury purity sad hunt verb green inform tower resource brush want";

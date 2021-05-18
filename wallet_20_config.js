@@ -1,1 +1,1 @@
-var mnemonic = "tumble comic champion crash enable main abstract hospital want walk regret dilemma";
+var mnemonic = "trade weasel barrel rubber drama envelope verb coin fiber heavy action butter";

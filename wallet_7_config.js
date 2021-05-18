@@ -1,1 +1,1 @@
-var mnemonic = "special excuse cereal fold decline paddle fitness nation retreat first sweet truly";
+var mnemonic = "duty glue enroll cake egg mixed spend post slight film crane bamboo";

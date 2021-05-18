@@ -1,1 +1,1 @@
-var mnemonic = "final rely conduct proud royal reunion bulk lift cattle avocado shiver young";
+var mnemonic = "wire cat absurd resource eight library only book cream hour rate special";

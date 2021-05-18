@@ -1,1 +1,1 @@
-var mnemonic = "blind theory wreck legend chunk abandon such connect find sport core shed";
+var mnemonic = "wire crystal almost equip ten fit camp network dolphin document kiwi stairs";

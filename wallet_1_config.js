@@ -1,1 +1,1 @@
-var mnemonic = "vanish dignity puppy pledge trouble that anchor tank ship ten route floor";
+var mnemonic = "major enforce grant sugar frequent blast mule profit always month force salad";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle grocery donate grace lobster detail fix capable spoil just settle lottery";
+var mnemonic = "caution broken ramp brand labor rule iron slim goddess tape camera tree";

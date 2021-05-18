@@ -1,1 +1,1 @@
-var mnemonic = "metal faint word heart float giant charge pool domain engage zebra pet";
+var mnemonic = "toward baby minimum pyramid maximum turkey gap ski still ahead mass useless";

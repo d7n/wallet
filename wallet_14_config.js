@@ -1,1 +1,1 @@
-var mnemonic = "sausage weekend rifle common trim jelly turkey gospel bind general want fruit";
+var mnemonic = "shadow cage battle wool wing under found noodle once liar cage seed";

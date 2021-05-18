@@ -1,1 +1,1 @@
-var mnemonic = "message vivid engage pattern voice scrap raise ski artefact south this meat";
+var mnemonic = "fold truly manage labor suggest cheap love crunch bitter quick staff bulk";

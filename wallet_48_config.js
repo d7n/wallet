@@ -1,1 +1,1 @@
-var mnemonic = "evil inhale flower small robot ridge awake vivid isolate mystery column glad";
+var mnemonic = "fluid luggage slim current code heart lucky wedding wall crime provide alarm";

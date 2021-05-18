@@ -1,1 +1,1 @@
-var mnemonic = "letter amazing brief abandon comfort innocent umbrella drop kingdom economy praise cigar";
+var mnemonic = "proud baby type father proof logic column lesson any story chaos lawn";

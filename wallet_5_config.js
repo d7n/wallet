@@ -1,1 +1,1 @@
-var mnemonic = "donkey inform civil month mobile task sunset decorate adult trust grain hospital";
+var mnemonic = "fan grief win anchor cause success crisp junior baby exhaust silent ladder";

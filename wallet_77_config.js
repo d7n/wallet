@@ -1,1 +1,1 @@
-var mnemonic = "custom radio peanut another cry nephew wonder portion child smoke expect slim";
+var mnemonic = "ethics proud submit lake crush sponsor digital second ginger jelly express inherit";

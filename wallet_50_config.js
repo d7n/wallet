@@ -1,1 +1,1 @@
-var mnemonic = "legal approve length trap ketchup knock subject smart neutral hurt easy lady";
+var mnemonic = "install captain assume trade give response sense pulp together glass comfort typical";

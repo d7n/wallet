@@ -1,1 +1,1 @@
-var mnemonic = "axis foil prison balcony snow teach match rival stairs trial there today";
+var mnemonic = "bachelor access citizen stamp abstract swap rough share one dynamic market buzz";

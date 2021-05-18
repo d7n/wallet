@@ -1,1 +1,1 @@
-var mnemonic = "wrist client repeat trade mom young marriage chalk hello winter impose castle";
+var mnemonic = "alert film absent car february million crouch apart this involve nature grain";

@@ -1,1 +1,1 @@
-var mnemonic = "polar snap shop cry syrup weasel width fit denial pistol yellow zone";
+var mnemonic = "logic milk jeans boost canvas squirrel diary broom lion album legal pigeon";

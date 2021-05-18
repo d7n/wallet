@@ -1,1 +1,1 @@
-var mnemonic = "better cushion now alcohol acid help cluster shine lion diamond hope cradle";
+var mnemonic = "ability verify lady fiction apple kingdom similar board maple mouse agree spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "people destroy unknown month zone identify heavy exit relief awake entire soft";
+var mnemonic = "kingdom match quit affair fan bachelor into sister depend whale glove robust";

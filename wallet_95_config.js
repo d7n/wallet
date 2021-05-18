@@ -1,1 +1,1 @@
-var mnemonic = "poverty wrist assume swim south fork ozone narrow local turn step fence";
+var mnemonic = "tonight oval grape narrow grant embody caution spawn ecology object reunion student";

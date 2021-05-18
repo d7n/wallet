@@ -1,1 +1,1 @@
-var mnemonic = "gold pony ghost thrive chunk bridge coral essay bamboo chair item burst";
+var mnemonic = "company shed reform embrace private nose thrive salmon chapter glow village judge";

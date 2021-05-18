@@ -1,1 +1,1 @@
-var mnemonic = "auto voyage vague match wheel secret hamster able crazy vault define spin";
+var mnemonic = "pass jacket bleak solve little rough where teach honey slide reopen feature";

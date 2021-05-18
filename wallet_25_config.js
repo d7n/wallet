@@ -1,1 +1,1 @@
-var mnemonic = "erode tone spirit suspect fly hood absent uncle click canoe cry alter";
+var mnemonic = "bid lava fall kind throw velvet town ask burger doll emotion razor";

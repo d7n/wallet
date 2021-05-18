@@ -1,1 +1,1 @@
-var mnemonic = "open luxury culture poverty apart pledge trumpet marine sausage seed original bargain";
+var mnemonic = "elegant bind depth bomb sugar chalk aerobic palm sport load skin unable";

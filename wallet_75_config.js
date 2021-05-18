@@ -1,1 +1,1 @@
-var mnemonic = "tube antique lyrics unlock bench debris endless cute hunt poverty elephant account";
+var mnemonic = "trigger vendor rabbit sugar steak tuition letter fortune olive gravity word pass";

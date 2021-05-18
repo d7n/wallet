@@ -1,1 +1,1 @@
-var mnemonic = "kiss layer vital tone similar ensure exile toe card harvest category river";
+var mnemonic = "budget breeze kick gloom stone cargo believe sketch dumb sand common grit";

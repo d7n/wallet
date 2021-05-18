@@ -1,1 +1,1 @@
-var mnemonic = "ranch carpet across rich buddy wave salad nation reduce flash plate scissors";
+var mnemonic = "school minimum hundred bullet puzzle ring attend fluid paddle chuckle pudding debate";

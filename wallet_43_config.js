@@ -1,1 +1,1 @@
-var mnemonic = "gaze correct nest repeat arch hawk inject addict brain crater sniff someone";
+var mnemonic = "swamp essay car vacuum hurt goddess suffer common zone devote flat powder";

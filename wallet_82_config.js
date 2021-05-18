@@ -1,1 +1,1 @@
-var mnemonic = "coral coil ozone truck first athlete crane broken dinosaur poverty urban pond";
+var mnemonic = "brisk order usual month state slot once nasty magic slush bid garment";

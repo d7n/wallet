@@ -1,1 +1,1 @@
-var mnemonic = "together angry coil laundry human flock fall noodle duck merry move demand";
+var mnemonic = "nut fall front tonight unaware elite chronic confirm better stereo tree liberty";

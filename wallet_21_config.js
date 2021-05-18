@@ -1,1 +1,1 @@
-var mnemonic = "neither kitten enforce horn prevent option pluck sport cat nest book soft";
+var mnemonic = "canvas heart half reveal infant nose flag list cute logic shaft fall";

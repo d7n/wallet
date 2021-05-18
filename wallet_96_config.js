@@ -1,1 +1,1 @@
-var mnemonic = "attitude erupt paddle plug mango athlete proud foot beyond urge slide chest";
+var mnemonic = "maple differ ancient pelican leave mutual ladder void guess maze dice wrap";

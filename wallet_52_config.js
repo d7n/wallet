@@ -1,1 +1,1 @@
-var mnemonic = "cage balance basket suggest garage hill assume donkey slight fun tone type";
+var mnemonic = "hen only arm credit million income social quote food scissors picture bench";

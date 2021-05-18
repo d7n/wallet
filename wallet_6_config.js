@@ -1,1 +1,1 @@
-var mnemonic = "bone beach play ripple fit young field width trap bid wish win";
+var mnemonic = "fix dizzy chronic fresh series bottom antique core swear decide auction rotate";

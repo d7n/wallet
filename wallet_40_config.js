@@ -1,1 +1,1 @@
-var mnemonic = "screen kingdom inch swear pulse toy misery leave skin finish grow culture";
+var mnemonic = "sell ability roof rebel shine average verify finish bachelor size cool normal";

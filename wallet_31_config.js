@@ -1,1 +1,1 @@
-var mnemonic = "duty clerk elephant biology gown modify grid language squeeze clog dose bind";
+var mnemonic = "coin erupt walk pledge skirt repeat between goat what flush loyal medal";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude brass census arrest cereal empower maid soul token time index lion";
+var mnemonic = "rally aim kiwi buffalo excess track harbor ribbon slender orange start outside";

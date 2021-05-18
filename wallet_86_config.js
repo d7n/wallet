@@ -1,1 +1,1 @@
-var mnemonic = "find olive child melt subway solve glow symbol submit tobacco more goddess";
+var mnemonic = "fat save rescue patient crash rocket first diamond quarter primary reunion decorate";

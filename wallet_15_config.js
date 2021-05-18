@@ -1,1 +1,1 @@
-var mnemonic = "swim pull dinosaur profit fall vessel accuse wolf burger crystal nation lake";
+var mnemonic = "sad primary expect polar whisper stand problem link thought impose pull law";

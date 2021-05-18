@@ -1,1 +1,1 @@
-var mnemonic = "skull clump collect crazy pumpkin rude quiz exotic slot upper venture sustain";
+var mnemonic = "display name make shadow cage point what bronze wolf metal master vehicle";

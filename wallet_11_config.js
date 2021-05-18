@@ -1,1 +1,1 @@
-var mnemonic = "miracle flag vault rally owner hill sound pole net face pass business";
+var mnemonic = "decline position where memory genre light mansion purchase digital juice gallery cruise";

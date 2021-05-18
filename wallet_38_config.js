@@ -1,1 +1,1 @@
-var mnemonic = "melody improve client diesel viable fossil entry family critic pencil foster napkin";
+var mnemonic = "occur fruit carpet nation fragile soul pigeon jaguar hope just cluster wrap";

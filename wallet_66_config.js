@@ -1,1 +1,1 @@
-var mnemonic = "crowd improve miss unable chase ill put fork noise run boy drip";
+var mnemonic = "buffalo deny obtain spatial sugar unhappy curious century document solution view decrease";

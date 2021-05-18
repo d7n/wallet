@@ -1,1 +1,1 @@
-var mnemonic = "rival absurd void welcome coconut kitten text attend critic winter zero rib";
+var mnemonic = "push lottery begin gossip mind erode business flash absent ivory attend february";

@@ -1,1 +1,1 @@
-var mnemonic = "violin blood collect monkey happy invite flock wage innocent thumb come verb";
+var mnemonic = "brush message miss custom fly identify moon tiger gaze choose dish raven";

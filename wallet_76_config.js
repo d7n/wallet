@@ -1,1 +1,1 @@
-var mnemonic = "retire fade pilot coach dune group north quantum tortoise vicious hint fitness";
+var mnemonic = "vanish crash abandon twenty essence reflect item index turtle develop cave couple";

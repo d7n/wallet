@@ -1,1 +1,1 @@
-var mnemonic = "fence safe kidney route twice lift episode spider phone modify chuckle train";
+var mnemonic = "wreck return nature snake sword fish odor casino carry clump invite anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "trade sign cement mango result culture position flight hockey ketchup pony message";
+var mnemonic = "miss butter settle waste vacuum favorite section tired list trouble inform have";

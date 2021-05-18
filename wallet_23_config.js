@@ -1,1 +1,1 @@
-var mnemonic = "unfair glide celery grass upgrade relief feel logic trap glimpse gun summer";
+var mnemonic = "physical rival betray oyster border clay crystal banner rich biology road response";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf assume holiday play churn ordinary bounce apart alcohol slam promote fine";
+var mnemonic = "antenna venture acoustic clock ignore stomach aisle either reopen deliver domain reveal";

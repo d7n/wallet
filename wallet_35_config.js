@@ -1,1 +1,1 @@
-var mnemonic = "field favorite utility tackle earn arrow sausage solution rescue rent exile evidence";
+var mnemonic = "sing category citizen sun thought gate glimpse marble start essence journey yard";

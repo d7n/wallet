@@ -1,1 +1,1 @@
-var mnemonic = "crouch dance attitude settle version income spoon face explain fatigue food same";
+var mnemonic = "reward van easy evidence gauge fog distance venue artwork still light clever";

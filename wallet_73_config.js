@@ -1,1 +1,1 @@
-var mnemonic = "hidden street leisure sand dinner bleak bitter oppose master simple lottery client";
+var mnemonic = "junior candy work allow mimic humor strike tag wool myth congress south";

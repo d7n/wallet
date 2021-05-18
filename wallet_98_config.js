@@ -1,1 +1,1 @@
-var mnemonic = "almost cause six best jar open minimum icon gown shrug ramp spend";
+var mnemonic = "quote capable mother carpet amount repeat pudding juice relax logic explain side";

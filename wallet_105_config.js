@@ -1,1 +1,1 @@
-var mnemonic = "young flock link tell mobile agree hub foot modify crunch glove mail";
+var mnemonic = "blood forward arena diagram custom intact fame ship coil thing estate drip";

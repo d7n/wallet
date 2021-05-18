@@ -1,1 +1,1 @@
-var mnemonic = "burger stable address sketch whale pumpkin wrong globe sustain empty catalog grief";
+var mnemonic = "daring vault quit situate strike afford address resource canoe develop valley appear";

@@ -1,1 +1,1 @@
-var mnemonic = "love lobster laptop road march reopen beef enhance public ignore virtual beyond";
+var mnemonic = "helmet blur wait eagle video infant marine one figure firm win undo";

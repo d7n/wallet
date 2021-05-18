@@ -1,1 +1,1 @@
-var mnemonic = "then desert napkin pepper keep sting domain venture fox heart metal daring";
+var mnemonic = "toe valve reopen utility push hope cheese pelican suspect enemy weekend balance";

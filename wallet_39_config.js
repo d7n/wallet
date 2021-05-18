@@ -1,1 +1,1 @@
-var mnemonic = "message torch pool renew fragile latin raccoon glory potato ski myth knife";
+var mnemonic = "edge season brief gym swim dinosaur clerk damp ramp abstract trust near";

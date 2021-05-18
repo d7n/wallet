@@ -1,1 +1,1 @@
-var mnemonic = "coach long mistake wire demise miracle believe piano chaos still cream glow";
+var mnemonic = "rack top symptom bind notable turkey ripple party name emotion pole helmet";

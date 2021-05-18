@@ -1,1 +1,1 @@
-var mnemonic = "direct youth release pencil festival eagle ecology bar cash rotate plastic leaf";
+var mnemonic = "basket welcome farm happy world surround desk owner gospel sweet slight duty";

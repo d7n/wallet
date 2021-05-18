@@ -1,1 +1,1 @@
-var mnemonic = "they usual same gentle flush prosper legend defense gentle history glass force";
+var mnemonic = "squeeze load diagram resemble wheat jar slice sheriff census devote flee result";

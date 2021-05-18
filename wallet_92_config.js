@@ -1,1 +1,1 @@
-var mnemonic = "project rich cloth visa use fiction laundry auction indicate couple license excuse";
+var mnemonic = "flavor flag cross game normal right cherry begin ability absent bomb cool";

@@ -1,1 +1,1 @@
-var mnemonic = "bar rain cruise ensure canyon lady short like tomorrow lazy reopen eager";
+var mnemonic = "that confirm sell flip choose awkward kiwi meadow sell wire notable spike";

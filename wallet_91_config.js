@@ -1,1 +1,1 @@
-var mnemonic = "mom dream spoil copper dice used dress barely knife glare fence target";
+var mnemonic = "donate couch observe want release friend gadget elder eternal pool comfort hole";

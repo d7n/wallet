@@ -1,1 +1,1 @@
-var mnemonic = "fresh add pattern mouse fatal cry embrace fuel wreck dog danger border";
+var mnemonic = "finish cactus load task safe magic mother rack whisper avoid desk abandon";

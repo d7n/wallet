@@ -1,1 +1,1 @@
-var mnemonic = "acid thank file select capital pole section feed luggage warm lounge average";
+var mnemonic = "theory neutral unique rhythm favorite crouch arrest story hurt entire upgrade vivid";

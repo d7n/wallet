@@ -1,1 +1,1 @@
-var mnemonic = "range pool city interest spin rebuild buyer can margin library public more";
+var mnemonic = "miracle salt sock shield height peace alert flock screen dolphin mushroom sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "trash wage sport popular sausage kingdom barrel forward rely runway plastic donkey";
+var mnemonic = "rule need tornado bracket thank awesome lend inquiry attitude cushion secret desert";

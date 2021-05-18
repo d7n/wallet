@@ -1,1 +1,1 @@
-var mnemonic = "shrug orient oil menu furnace empower hint intact cotton material proud shrimp";
+var mnemonic = "slam work evoke will ridge often convince page any monitor ginger fun";

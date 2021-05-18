@@ -1,1 +1,1 @@
-var mnemonic = "cigar shield divorce radar tuna army truth hill defense fog between dry";
+var mnemonic = "cook gown opera hero glide modify moment supply grit volume fuel list";

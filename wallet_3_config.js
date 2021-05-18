@@ -1,1 +1,1 @@
-var mnemonic = "second manage barrel walnut annual avocado collect marble chase coin negative history";
+var mnemonic = "path quarter clock floor nuclear school olympic chair wide open choice riot";

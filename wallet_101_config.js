@@ -1,1 +1,1 @@
-var mnemonic = "cousin motor screen snake text table case popular online ripple donor marriage";
+var mnemonic = "fix echo skull science autumn clean begin moral vote dolphin trick almost";

@@ -1,1 +1,1 @@
-var mnemonic = "master foil picture crisp kidney mobile dove donor sign they repair tool";
+var mnemonic = "border adapt buddy noble bring enter plunge over bid neglect catalog twice";

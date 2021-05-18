@@ -1,1 +1,1 @@
-var mnemonic = "collect public grief shell cabbage visual burden cycle tag library argue peace";
+var mnemonic = "eye lake volcano grid pilot lobster seven dizzy stick vivid festival shrug";

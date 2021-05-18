@@ -1,1 +1,1 @@
-var mnemonic = "bone dune trumpet drastic rally label bid boost amazing draw relax shell";
+var mnemonic = "domain toy reduce large slow gap hungry unfold chronic stadium draw sadness";

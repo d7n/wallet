@@ -1,1 +1,1 @@
-var mnemonic = "web deposit purse proof sight casino govern rocket win direct wise now";
+var mnemonic = "around edge snap demand gallery volume solar traffic alarm rack route art";

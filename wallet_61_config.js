@@ -1,1 +1,1 @@
-var mnemonic = "lens priority plate drift coil assume truly this firm demand style supply";
+var mnemonic = "arena south pretty off warrior mix wrist split primary rebuild decade now";

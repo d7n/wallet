@@ -1,1 +1,1 @@
-var mnemonic = "fee camera pill drama misery scrub nature gather certain public attend depth";
+var mnemonic = "proud sauce extend relief grow jazz marriage march speed guilt predict marine";

@@ -1,1 +1,1 @@
-var mnemonic = "behave omit top silent carpet net hurry produce pupil raccoon survey issue";
+var mnemonic = "trade retire mask picnic scale measure glue ghost have whale omit museum";

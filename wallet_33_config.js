@@ -1,1 +1,1 @@
-var mnemonic = "rigid fish venue field spot absent bacon flight symptom soldier dish husband";
+var mnemonic = "car glory memory job cheap tonight citizen lonely include suspect speed zoo";

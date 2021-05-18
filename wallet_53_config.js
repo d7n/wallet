@@ -1,1 +1,1 @@
-var mnemonic = "celery imitate company west staff casual alley fold angle impulse frog accident";
+var mnemonic = "silver squirrel govern draw wing cliff spatial arch vague regret extra state";

@@ -1,1 +1,1 @@
-var mnemonic = "city vote thought enter verb ski narrow buyer clean great whisper maple";
+var mnemonic = "come warrior any all swarm speak tunnel series consider power eagle book";

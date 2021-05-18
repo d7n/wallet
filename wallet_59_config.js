@@ -1,1 +1,1 @@
-var mnemonic = "surface vault accuse axis debris middle used treat retreat tattoo guitar such";
+var mnemonic = "often net hair course prevent enjoy weasel early you memory kitchen mixed";

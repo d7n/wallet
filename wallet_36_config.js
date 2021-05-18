@@ -1,1 +1,1 @@
-var mnemonic = "spend dismiss supreme solid lizard purity alert neck include copper tuna code";
+var mnemonic = "crucial exist warrior program clock tornado surprise radio faith husband puppy tuition";

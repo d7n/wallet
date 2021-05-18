@@ -1,1 +1,1 @@
-var mnemonic = "boring away blur direct nice seat either problem vintage tuna ramp vague";
+var mnemonic = "vanish cry ritual twenty bullet phone grief board marine museum blade mosquito";
