@@ -1,1 +1,1 @@
-var mnemonic = "rare question tennis now face reform crystal romance fatal bunker doll flag";
+var mnemonic = "promote holiday enact stem magic speak river that sibling armed solution settle";

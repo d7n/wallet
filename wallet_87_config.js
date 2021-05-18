@@ -1,1 +1,1 @@
-var mnemonic = "victory mail tortoise net unusual machine utility medal spray view output under";
+var mnemonic = "nurse magic pepper yellow other train long bulb team better pole such";

@@ -1,1 +1,1 @@
-var mnemonic = "labor fatal thank survey marriage banner rebel cake dust iron second match";
+var mnemonic = "pepper buffalo tonight hole build inch render pepper style eye pitch try";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble between garlic noise soft truck donor coil slide electric traffic world";
+var mnemonic = "fuel nice giant cliff all thrive salmon police nose clog rule wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "silent camp essence replace excite flame mix inherit tennis zebra august paddle";
+var mnemonic = "other winter rocket view brick dish unknown glimpse trial toast wall achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain please person hungry federal park exchange text quote toilet exact outer";
+var mnemonic = "notice settle prefer route fossil lunar gentle amazing mimic avocado during gesture";

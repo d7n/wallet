@@ -1,1 +1,1 @@
-var mnemonic = "make nasty clown tilt typical pencil obtain twin swap minor inherit idle";
+var mnemonic = "amused replace apple evil gasp senior choose brush good dolphin proof wing";

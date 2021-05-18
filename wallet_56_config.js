@@ -1,1 +1,1 @@
-var mnemonic = "faith cloth skull afford flash ticket roast robot pulp bid leave damage";
+var mnemonic = "volume wild silk kit fold obey universe game monster boost section peanut";

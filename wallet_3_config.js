@@ -1,1 +1,1 @@
-var mnemonic = "bitter attitude board detect equal canoe voice spirit child purchase abandon glue";
+var mnemonic = "token month version paddle end ride protect alpha pink gather flight cook";

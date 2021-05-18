@@ -1,1 +1,1 @@
-var mnemonic = "siren soul ridge horn quantum kick play veteran funny inquiry bleak puppy";
+var mnemonic = "renew day mirror scout expand solve produce similar equal fiction olive walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup scissors switch remind bounce twelve antenna derive across uncover pulse sauce";
+var mnemonic = "spray weasel reflect audit thank glare wrap bounce decide rate army pull";

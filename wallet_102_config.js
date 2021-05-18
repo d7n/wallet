@@ -1,1 +1,1 @@
-var mnemonic = "dune shed profit target shock mystery group work bulb mimic subway jazz";
+var mnemonic = "decide grow medal label net tape borrow syrup orphan brave more boring";

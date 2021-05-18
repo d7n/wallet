@@ -1,1 +1,1 @@
-var mnemonic = "risk retire wood surface ugly film glass around iron cereal fire salmon";
+var mnemonic = "bar settle share below predict razor eight happy bright nice execute bundle";

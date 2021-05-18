@@ -1,1 +1,1 @@
-var mnemonic = "tuition appear street kit area tragic fall fiber tongue trade observe february";
+var mnemonic = "surprise aunt blur student web spin slam urban again student panic smoke";

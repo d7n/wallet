@@ -1,1 +1,1 @@
-var mnemonic = "vendor agree sail appear subway napkin pass beach license script write frog";
+var mnemonic = "connect guess casino must bird renew hint fix tomorrow venue hen reject";

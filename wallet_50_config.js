@@ -1,1 +1,1 @@
-var mnemonic = "small peanut cheap donate effort kite confirm large sauce harvest wood viable";
+var mnemonic = "flush case corn brief web tilt flight thing inject artwork lonely tent";

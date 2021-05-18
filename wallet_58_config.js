@@ -1,1 +1,1 @@
-var mnemonic = "proud error fringe simple also smoke spread weather addict equip grass frog";
+var mnemonic = "patch sauce inner will pear parrot field load horse coconut cliff around";

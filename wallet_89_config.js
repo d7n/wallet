@@ -1,1 +1,1 @@
-var mnemonic = "ritual inspire twin degree sponsor broken nose midnight repair jungle polar unhappy";
+var mnemonic = "glide pear gesture copy estate oil address life firm swing ostrich upon";

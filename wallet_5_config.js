@@ -1,1 +1,1 @@
-var mnemonic = "fury outer occur unable matter candy puppy position mask gloom region move";
+var mnemonic = "grit employ copper business wash almost steak forest digital dawn next hospital";

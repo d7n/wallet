@@ -1,1 +1,1 @@
-var mnemonic = "glow innocent give pause noble emerge artist elevator valley jar parent open";
+var mnemonic = "clinic indoor matrix buffalo tired hobby expand iron film climb trick brush";

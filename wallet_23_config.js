@@ -1,1 +1,1 @@
-var mnemonic = "cruise shallow aim extend cube gaze setup plastic box dad load garbage";
+var mnemonic = "during supply meat stock anxiety off audit thunder limb sphere enforce hold";

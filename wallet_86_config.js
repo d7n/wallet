@@ -1,1 +1,1 @@
-var mnemonic = "suggest few sad steak jeans urban distance army march opinion write mention";
+var mnemonic = "load squirrel forward diet luggage decide sudden display egg vault advance dawn";

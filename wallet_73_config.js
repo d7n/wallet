@@ -1,1 +1,1 @@
-var mnemonic = "car mansion speed assume stable review unusual access famous proof upper phone";
+var mnemonic = "rail approve donate amazing attract witness steel junior ski lyrics worry exile";

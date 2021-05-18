@@ -1,1 +1,1 @@
-var mnemonic = "scale sick gasp slow present just sting strike earth wheat boat ecology";
+var mnemonic = "reunion twin bridge welcome wish delay another rough employ wealth patient magnet";

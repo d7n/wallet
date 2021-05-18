@@ -1,1 +1,1 @@
-var mnemonic = "rail melt chunk filter train tobacco enemy amateur grain nurse mixed captain";
+var mnemonic = "soon jungle shed alpha run hill benefit type flower correct devote drink";

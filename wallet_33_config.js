@@ -1,1 +1,1 @@
-var mnemonic = "pear about project truth inner adapt choice kite erosion purchase depart gift";
+var mnemonic = "tribe slice moment annual volume fold alcohol power donkey fence faint milk";

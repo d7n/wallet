@@ -1,1 +1,1 @@
-var mnemonic = "river acoustic hollow soda error step inch tone marble wise picture settle";
+var mnemonic = "video mixed arch say require emerge garment kitten unique crawl frozen visa";

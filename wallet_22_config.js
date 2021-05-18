@@ -1,1 +1,1 @@
-var mnemonic = "try adult lawsuit shoot update crew box rigid evoke budget power outer";
+var mnemonic = "wonder sword trap silver lucky alone phone gaze castle repair cactus practice";

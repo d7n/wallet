@@ -1,1 +1,1 @@
-var mnemonic = "soup insect athlete vanish shallow sell jar delay office collect royal reveal";
+var mnemonic = "fortune yard slab quarter have inherit melt pact culture blush inmate swamp";

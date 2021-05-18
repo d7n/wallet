@@ -1,1 +1,1 @@
-var mnemonic = "dwarf notice parade siren phone output brief remain hope chicken broken square";
+var mnemonic = "expect news own intact tag exile marble apology area olympic slow fantasy";

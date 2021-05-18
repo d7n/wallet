@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hire daring wreck often that very mechanic ugly soccer champion milk";
+var mnemonic = "miracle dish father pilot unlock capital fringe display letter hard toilet mixture";

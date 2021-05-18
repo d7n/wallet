@@ -1,1 +1,1 @@
-var mnemonic = "ten unknown next blue where horse organ endless crisp vocal segment friend";
+var mnemonic = "tiger radio panther script asset sorry replace congress butter common cradle illness";

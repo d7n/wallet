@@ -1,1 +1,1 @@
-var mnemonic = "light dynamic witness detect enforce save survey wait meat dirt damp mule";
+var mnemonic = "coil thumb senior gas sweet tool sleep tail borrow purity swap dawn";

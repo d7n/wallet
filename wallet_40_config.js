@@ -1,1 +1,1 @@
-var mnemonic = "diesel palm bamboo chief lazy borrow bullet runway glad address glass dream";
+var mnemonic = "theme define brown diesel biology foot tornado hazard reduce casual model opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor trim ghost image color popular magic drop excite river beyond harsh";
+var mnemonic = "surface entry adjust spider crazy innocent door plate antenna crazy order essay";

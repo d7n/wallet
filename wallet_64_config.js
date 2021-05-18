@@ -1,1 +1,1 @@
-var mnemonic = "spatial kangaroo law wage safe hero refuse must loud grunt rich gap";
+var mnemonic = "gadget term custom lounge kiwi celery sponsor myself cousin spend cute excess";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange sign mesh kitten run case detail reunion garden pigeon raise depend";
+var mnemonic = "cash joke absent lesson side impulse owner juice tornado riot leaf early";

@@ -1,1 +1,1 @@
-var mnemonic = "belt position actual account claw kick skate priority rain soul spell derive";
+var mnemonic = "razor buffalo crowd side walk fever leopard siege seed gown hamster leg";

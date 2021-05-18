@@ -1,1 +1,1 @@
-var mnemonic = "lunch deposit edge surprise good pill sea describe release neck wet street";
+var mnemonic = "people discover rely grocery note unfold reject large sun scorpion razor paper";

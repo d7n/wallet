@@ -1,1 +1,1 @@
-var mnemonic = "idle payment hold exile famous gadget critic adapt dinosaur account enter sunset";
+var mnemonic = "section object clown divide sauce border team sample scare breeze sniff wall";

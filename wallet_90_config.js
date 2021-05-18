@@ -1,1 +1,1 @@
-var mnemonic = "rally horror famous actress rack spoon song true exhibit push odor time";
+var mnemonic = "border genius crystal climb surround action juice aerobic major immense slight camp";

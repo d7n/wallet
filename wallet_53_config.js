@@ -1,1 +1,1 @@
-var mnemonic = "equip leader business exhaust suit always doctor blind joy enough indoor apart";
+var mnemonic = "express rather eyebrow dawn there antique float please expect hard kiss wet";

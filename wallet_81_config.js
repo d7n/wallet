@@ -1,1 +1,1 @@
-var mnemonic = "face rabbit exhibit loyal bridge input story auction garage surprise sleep pet";
+var mnemonic = "fun paper dolphin tattoo torch violin coach phrase canoe spike bag future";

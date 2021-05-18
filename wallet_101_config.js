@@ -1,1 +1,1 @@
-var mnemonic = "live expire duck blouse pair dose sauce note lecture flock outer faith";
+var mnemonic = "flavor shrug month patrol space basket scissors fiscal escape circle arch brown";

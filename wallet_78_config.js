@@ -1,1 +1,1 @@
-var mnemonic = "laugh deer burger grass march exile tourist matrix dad slogan crawl book";
+var mnemonic = "cactus question grunt sure decline trust pepper taste duty walnut cousin air";

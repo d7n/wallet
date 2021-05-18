@@ -1,1 +1,1 @@
-var mnemonic = "setup special damp private wild affair fruit squirrel tonight deputy print story";
+var mnemonic = "edit useful start miss disease peace tree drastic frog tonight wild release";

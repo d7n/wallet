@@ -1,1 +1,1 @@
-var mnemonic = "world comic token fish attend ceiling bench hero genuine nature view also";
+var mnemonic = "staff speak absurd rural energy this zoo apple brick mansion drift same";

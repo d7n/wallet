@@ -1,1 +1,1 @@
-var mnemonic = "nice stick mango dizzy water erupt payment deputy silent rally foam endorse";
+var mnemonic = "smart forget romance tortoise measure dose alert half eager giraffe dry body";

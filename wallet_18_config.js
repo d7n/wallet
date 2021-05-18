@@ -1,1 +1,1 @@
-var mnemonic = "young provide cousin fish urban acquire tourist jump tuition carbon leave poem";
+var mnemonic = "pond universe pill rebel link steel night dignity couple knife vast nuclear";

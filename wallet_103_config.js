@@ -1,1 +1,1 @@
-var mnemonic = "manage occur usage maze mountain wear fit lens elder wonder good motion";
+var mnemonic = "alien about sing oblige author wet creek slogan desk mistake relief force";

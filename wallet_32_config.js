@@ -1,1 +1,1 @@
-var mnemonic = "paper frequent business option beef pencil mouse rescue sugar drama thank pet";
+var mnemonic = "hat jelly dawn fatal uniform company morning member brain bless unfair despair";

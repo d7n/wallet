@@ -1,1 +1,1 @@
-var mnemonic = "hotel include elder image bargain cruise finger dynamic humble display holiday impose";
+var mnemonic = "lock run crane pair siege toss evoke fix flip merry public drink";

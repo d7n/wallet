@@ -1,1 +1,1 @@
-var mnemonic = "bundle offer bridge decrease bachelor laptop cement wisdom indoor romance remain cargo";
+var mnemonic = "human private hotel once smart slush base select cart give cliff panel";

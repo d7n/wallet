@@ -1,1 +1,1 @@
-var mnemonic = "few wild tomorrow submit jeans print tourist attack first mouse tiger eager";
+var mnemonic = "hood illness birth flame bounce job insane check monitor autumn romance fence";

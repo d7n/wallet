@@ -1,1 +1,1 @@
-var mnemonic = "polar artist hedgehog lucky slush fever hurdle clap viable undo sting sentence";
+var mnemonic = "music fit tip north pledge dog roof cream unique flock timber topic";

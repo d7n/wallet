@@ -1,1 +1,1 @@
-var mnemonic = "conduct slush tape file myth spring total tone elbow frost wrong tongue";
+var mnemonic = "earth quantum topple remain hospital width electric cross what catalog web shiver";

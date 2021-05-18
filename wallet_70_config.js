@@ -1,1 +1,1 @@
-var mnemonic = "jeans burger produce twice need bean wrestle raven sister hire word surprise";
+var mnemonic = "risk mind label address unusual saddle weekend citizen emotion leaf code describe";

@@ -1,1 +1,1 @@
-var mnemonic = "legal pair involve bring advice six impose uphold shield clump section left";
+var mnemonic = "network when antique silk finger recipe primary next artist social pass filter";

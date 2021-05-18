@@ -1,1 +1,1 @@
-var mnemonic = "open dizzy omit quote sentence sibling diagram error book view fix blame";
+var mnemonic = "skirt task false task hub athlete luggage patient tonight steak defense suggest";

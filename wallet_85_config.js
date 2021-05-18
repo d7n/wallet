@@ -1,1 +1,1 @@
-var mnemonic = "orient dove rival come retreat wonder coil ten aunt simple ship puzzle";
+var mnemonic = "sentence tide cloud someone symptom couple property velvet bulk verify cricket enforce";

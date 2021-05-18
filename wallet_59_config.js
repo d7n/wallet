@@ -1,1 +1,1 @@
-var mnemonic = "lava dash talent february basic carpet powder sponsor elite sauce aspect peanut";
+var mnemonic = "sock power file drive tooth cry vocal cream upset off journey together";

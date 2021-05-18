@@ -1,1 +1,1 @@
-var mnemonic = "asset damage shock term submit visual inhale pact about account segment jungle";
+var mnemonic = "select brother level immense produce inform vacuum snap educate song wrong pact";

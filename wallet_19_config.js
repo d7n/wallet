@@ -1,1 +1,1 @@
-var mnemonic = "nature major device soldier before renew ring forum oil brush health swarm";
+var mnemonic = "sing sheriff lobster enable awake year clown purse judge now garage ramp";

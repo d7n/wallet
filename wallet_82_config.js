@@ -1,1 +1,1 @@
-var mnemonic = "cargo badge hollow load certain forward legend eternal damp tool fish fuel";
+var mnemonic = "enjoy hello age reduce balcony reflect swarm two mirror bulb mind color";

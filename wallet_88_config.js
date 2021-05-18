@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sort sand hen ski adapt denial logic pyramid slender sorry idle";
+var mnemonic = "tell tower detect valve dutch silly aisle manage casual sting useful tumble";

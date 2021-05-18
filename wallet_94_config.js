@@ -1,1 +1,1 @@
-var mnemonic = "pear whip brass play record upgrade unable fade noodle burger brisk erase";
+var mnemonic = "act clown fiction text security west wire suspect company almost moment flavor";

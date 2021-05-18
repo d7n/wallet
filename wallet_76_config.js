@@ -1,1 +1,1 @@
-var mnemonic = "promote practice witness praise bar spend prefer sister drive casual zone deputy";
+var mnemonic = "rapid emerge remember merit coffee month program pond disagree social favorite vessel";

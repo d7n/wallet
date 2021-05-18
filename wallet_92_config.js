@@ -1,1 +1,1 @@
-var mnemonic = "vast casual crush stone put desert matrix fat beyond blind suit gasp";
+var mnemonic = "detail inspire length cake rule wink long wish envelope job connect tomato";

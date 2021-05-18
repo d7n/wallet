@@ -1,1 +1,1 @@
-var mnemonic = "deliver submit marine relief feel energy penalty present denial filter indoor game";
+var mnemonic = "level pool wait night elite just town hungry gift dial proud bright";

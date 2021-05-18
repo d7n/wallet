@@ -1,1 +1,1 @@
-var mnemonic = "awesome keep venture blush cargo decrease crucial vessel impulse tomato trend topic";
+var mnemonic = "educate element casino visit mandate level innocent say soccer grass trigger artefact";

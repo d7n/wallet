@@ -1,1 +1,1 @@
-var mnemonic = "wild hire brown kingdom capital pledge duty during renew kiwi runway cart";
+var mnemonic = "file salon creek menu rather never cotton brave tomorrow humble diagram harsh";

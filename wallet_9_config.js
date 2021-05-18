@@ -1,1 +1,1 @@
-var mnemonic = "law garlic lift vocal laptop reflect duck betray medal soldier spatial orange";
+var mnemonic = "hundred auto patient jeans flight turn tragic frost steel chat slice unaware";

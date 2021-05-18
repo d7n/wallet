@@ -1,1 +1,1 @@
-var mnemonic = "aspect pink orchard actress early stadium amazing behind simple worry shoe like";
+var mnemonic = "fame crawl become steel void genre yard gap salt various song secret";

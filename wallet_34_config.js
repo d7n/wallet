@@ -1,1 +1,1 @@
-var mnemonic = "raven fix wash return copy athlete globe lawsuit start hub depend disease";
+var mnemonic = "ski toward return snow enjoy share black toss swarm math quarter dance";

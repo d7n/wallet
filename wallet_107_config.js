@@ -1,1 +1,1 @@
-var mnemonic = "spatial rubber pulp reject actress ensure choice asset lion quote drip inside";
+var mnemonic = "frown tag ski height disease quarter garbage lady spread powder chief father";

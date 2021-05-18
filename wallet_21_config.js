@@ -1,1 +1,1 @@
-var mnemonic = "purse age machine relief expose filter news assault stumble okay protect clutch";
+var mnemonic = "relax inherit urban shock spring park vessel fatal focus illegal arch remember";

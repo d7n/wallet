@@ -1,1 +1,1 @@
-var mnemonic = "glass talk ability twin key collect consider dinner dice exclude gadget choice";
+var mnemonic = "odor fruit luggage test story slide hold success sunset chat sketch electric";

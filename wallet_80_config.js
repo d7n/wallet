@@ -1,1 +1,1 @@
-var mnemonic = "window before skull undo cross become worth cream tail private resemble ripple";
+var mnemonic = "leisure burst burden live leopard butter upgrade hover maid frequent snack area";

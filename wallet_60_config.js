@@ -1,1 +1,1 @@
-var mnemonic = "nuclear answer type rocket ocean bench taxi belt until wait strong blanket";
+var mnemonic = "junk dirt cabbage harvest exact double drill grid sort coil achieve father";

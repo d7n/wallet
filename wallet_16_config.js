@@ -1,1 +1,1 @@
-var mnemonic = "soup allow promote mom protect garment click object engine income blanket enjoy";
+var mnemonic = "enemy apple cancel plug yellow kick donkey seat smoke empty stick brand";

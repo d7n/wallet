@@ -1,1 +1,1 @@
-var mnemonic = "trophy obtain champion panic theory jump access drill scatter insane any airport";
+var mnemonic = "blanket resource sleep brave side nation disagree labor cricket film grow winter";

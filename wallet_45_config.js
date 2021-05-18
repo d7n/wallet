@@ -1,1 +1,1 @@
-var mnemonic = "woman guard festival cute group own pill naive gift believe allow spatial";
+var mnemonic = "tissue truly raven always brass mandate risk slide tonight spoil proof logic";

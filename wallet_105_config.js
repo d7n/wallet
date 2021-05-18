@@ -1,1 +1,1 @@
-var mnemonic = "manual craft champion weather arena matter wish agent board increase same april";
+var mnemonic = "safe ability parrot always balance bind wealth glide pledge pluck flush proud";

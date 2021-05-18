@@ -1,1 +1,1 @@
-var mnemonic = "essence whale gasp run rabbit relief burst own foot taste lumber fluid";
+var mnemonic = "rival mad diesel camp gift wrong novel monster into fork regular final";

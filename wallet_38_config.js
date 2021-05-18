@@ -1,1 +1,1 @@
-var mnemonic = "furnace margin vibrant swear warm royal gospel vast capable super toy spot";
+var mnemonic = "switch lucky crime stereo stay child celery task human rose trouble nothing";

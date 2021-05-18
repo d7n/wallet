@@ -1,1 +1,1 @@
-var mnemonic = "shallow ride combine smart sail brother enough own cotton donkey cover license";
+var mnemonic = "chat slide hair render imitate cricket north heavy cart table need tumble";

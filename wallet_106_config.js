@@ -1,1 +1,1 @@
-var mnemonic = "grow clerk any force target vast tunnel easily correct pave organ rifle";
+var mnemonic = "argue together now faint horror add digital badge fetch deal near certain";

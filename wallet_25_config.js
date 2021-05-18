@@ -1,1 +1,1 @@
-var mnemonic = "inflict birth junk detail wheel chalk when punch hunt legal harsh stable";
+var mnemonic = "search main pause crew enjoy flag follow fox civil tiny horn again";

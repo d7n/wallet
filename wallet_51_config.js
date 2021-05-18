@@ -1,1 +1,1 @@
-var mnemonic = "crush surround today crush claim parent enjoy unknown vintage twist kiwi scheme";
+var mnemonic = "you typical soda hill average stock scatter lamp once safe fiber tape";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose kick neutral airport visa document cart popular interest practice hen animal";
+var mnemonic = "vault seek enter will debris pledge whale muffin simple traffic deputy dad";

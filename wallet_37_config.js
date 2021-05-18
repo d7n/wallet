@@ -1,1 +1,1 @@
-var mnemonic = "squirrel surround critic wagon aim urge entire struggle virus lizard garment sentence";
+var mnemonic = "oak load spring fiscal magic senior antique square describe manage snap believe";

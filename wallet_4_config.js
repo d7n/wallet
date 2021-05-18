@@ -1,1 +1,1 @@
-var mnemonic = "topple maze mandate exact spice busy pretty opera oak neck aisle decline";
+var mnemonic = "flash orange glide topic friend cat farm gift jelly blind favorite demand";
