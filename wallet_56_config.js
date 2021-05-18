@@ -1,1 +1,1 @@
-var mnemonic = "neck cave ill material diary alcohol table blast truly express machine mad";
+var mnemonic = "sure pen biology decrease picnic cool park scare cloth annual science magnet";

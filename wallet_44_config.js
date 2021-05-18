@@ -1,1 +1,1 @@
-var mnemonic = "hazard fabric artwork night main item produce crack duty trial inner replace";
+var mnemonic = "unveil lend meadow worth inhale expand exhaust hover excite profit cycle wire";

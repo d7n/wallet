@@ -1,1 +1,1 @@
-var mnemonic = "section bullet gloom antenna valve prize give survey across elegant hospital believe";
+var mnemonic = "kiwi van hidden trade come dilemma level security half drastic budget math";

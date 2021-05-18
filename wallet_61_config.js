@@ -1,1 +1,1 @@
-var mnemonic = "tooth odor track lava deputy profit veteran useless fortune switch crop brother";
+var mnemonic = "you zero next biology market dignity example pencil dream provide catalog you";

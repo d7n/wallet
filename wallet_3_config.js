@@ -1,1 +1,1 @@
-var mnemonic = "agree point wet circle frown tennis bottom diesel they turtle approve document";
+var mnemonic = "shoulder rabbit jewel novel spice kitchen unfair stool blush episode hazard shine";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy shoot rule journey local dry prison stage feed immune romance paper";
+var mnemonic = "same marriage put tuna shoulder glide feed fold over yellow wood copper";

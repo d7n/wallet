@@ -1,1 +1,1 @@
-var mnemonic = "maple robust rival drama wire asthma wool trick toast enforce nothing rocket";
+var mnemonic = "uniform merry apple cement rubber expect ivory express female require put history";

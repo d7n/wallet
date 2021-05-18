@@ -1,1 +1,1 @@
-var mnemonic = "oyster suit dismiss position vintage acoustic result ill aspect strike horse harsh";
+var mnemonic = "ghost orphan forum emerge public squirrel senior rely outside agree reopen hill";

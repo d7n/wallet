@@ -1,1 +1,1 @@
-var mnemonic = "meadow poverty staff coyote property grace sting keep coil sauce smooth dream";
+var mnemonic = "intact dash upgrade alarm zoo feature surround speak shock affair color ask";

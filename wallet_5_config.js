@@ -1,1 +1,1 @@
-var mnemonic = "someone immune useful balance bench pupil scan shrimp acid company scheme slogan";
+var mnemonic = "drastic fury wet pond cart proud machine chase park mimic cable awful";

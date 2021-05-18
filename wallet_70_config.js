@@ -1,1 +1,1 @@
-var mnemonic = "level torch among gauge window pretty donkey comic wave gas sun erosion";
+var mnemonic = "carbon bullet spy ketchup mean marriage lab news river wonder boy this";

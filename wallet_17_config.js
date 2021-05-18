@@ -1,1 +1,1 @@
-var mnemonic = "goddess soft angry suffer slab soup plunge supply business tornado human plug";
+var mnemonic = "promote pepper rural member jaguar eager immense hunt dream mandate unusual primary";

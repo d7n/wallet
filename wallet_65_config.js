@@ -1,1 +1,1 @@
-var mnemonic = "long spring syrup author erode zone kind hamster wife edge pride exotic";
+var mnemonic = "soldier tunnel husband home obtain build joke police prison post multiply sell";

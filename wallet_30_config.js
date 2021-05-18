@@ -1,1 +1,1 @@
-var mnemonic = "wrist sound clown foam clinic camera equal arm noise animal roast square";
+var mnemonic = "luggage describe saddle hedgehog skin badge episode tell flash volume junior tomato";

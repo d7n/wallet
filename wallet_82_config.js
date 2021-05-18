@@ -1,1 +1,1 @@
-var mnemonic = "immune hurt frost warm still acquire arrive seek wish town portion deer";
+var mnemonic = "fury common excuse fish seek stereo search smart ill resemble defy parade";

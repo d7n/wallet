@@ -1,1 +1,1 @@
-var mnemonic = "giant armor ride join forward two ask another cage antique deny like";
+var mnemonic = "ripple deny boss issue visit pitch goddess pear change act fun return";

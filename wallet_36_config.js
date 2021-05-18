@@ -1,1 +1,1 @@
-var mnemonic = "dirt pottery drip patrol monkey minimum slight jump throw position market input";
+var mnemonic = "duty gentle able task gloom busy silk chair pair run apple open";

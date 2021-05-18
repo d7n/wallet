@@ -1,1 +1,1 @@
-var mnemonic = "over cruise merit course allow pretty random fan foam era make other";
+var mnemonic = "aunt tail saddle judge trash spice soul wolf cover potato index void";

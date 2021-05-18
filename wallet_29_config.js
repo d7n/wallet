@@ -1,1 +1,1 @@
-var mnemonic = "any hire divide woman banana rely fragile eternal thrive lobster cruise scissors";
+var mnemonic = "zoo bunker cube inject glare sugar enroll that sing benefit burden bus";

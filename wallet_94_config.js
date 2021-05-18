@@ -1,1 +1,1 @@
-var mnemonic = "senior couple desert enemy remember best farm axis tiny angle habit face";
+var mnemonic = "cereal draw rival radar metal surface suspect happy question original eyebrow camera";

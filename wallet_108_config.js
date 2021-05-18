@@ -1,1 +1,1 @@
-var mnemonic = "setup voice raise rare shaft drill spray trophy hedgehog balcony width dumb";
+var mnemonic = "merit idea mask outside endorse address join volume chief degree list focus";

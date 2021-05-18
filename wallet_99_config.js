@@ -1,1 +1,1 @@
-var mnemonic = "idea text weasel edge hurt magnet student melt arrive home eight conduct";
+var mnemonic = "trip tribe struggle intact save mule ethics grass dad able soon search";

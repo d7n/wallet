@@ -1,1 +1,1 @@
-var mnemonic = "fan cruel mixed carpet cheap buffalo orange skirt energy blind retire job";
+var mnemonic = "attend chunk income little runway myself below magnet later exhaust leaf sorry";

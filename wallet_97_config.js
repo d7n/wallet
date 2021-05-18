@@ -1,1 +1,1 @@
-var mnemonic = "affair various beyond opera unhappy destroy shift caution trumpet room awkward limit";
+var mnemonic = "nation alley lamp wealth purity clutch trim pluck mask slim produce shed";

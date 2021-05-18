@@ -1,1 +1,1 @@
-var mnemonic = "coyote skin broom artefact bitter twist derive silk repair sure column jelly";
+var mnemonic = "ethics renew science ready shoot until truth agent decrease tornado monster water";

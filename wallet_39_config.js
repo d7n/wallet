@@ -1,1 +1,1 @@
-var mnemonic = "river future coast way siege cigar language term fruit approve legal smart";
+var mnemonic = "faith base face duck clinic peace peanut loop worry cupboard father pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "despair bar cage reject book movie remember common balcony ozone enable nose";
+var mnemonic = "toast enhance bread right pig obey doctor sell merge divert ordinary soccer";

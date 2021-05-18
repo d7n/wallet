@@ -1,1 +1,1 @@
-var mnemonic = "secret regret cinnamon tide mushroom owner comic cute relax omit source crucial";
+var mnemonic = "same express tilt broom okay deal host process crisp shrimp need option";

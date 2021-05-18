@@ -1,1 +1,1 @@
-var mnemonic = "purse notice leaf fox island similar wheel diet seek orphan excite topic";
+var mnemonic = "margin random anxiety shift ancient creek skirt frame neglect machine ride sight";

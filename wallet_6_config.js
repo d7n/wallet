@@ -1,1 +1,1 @@
-var mnemonic = "lyrics boat resist grocery cushion keen force erosion make depth describe dove";
+var mnemonic = "ride ladder tower axis only manage access matter define barely such found";

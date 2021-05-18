@@ -1,1 +1,1 @@
-var mnemonic = "glimpse library dumb quote ivory peace chronic crystal fashion end orient soup";
+var mnemonic = "cluster fragile fabric apology market kitchen home normal retreat renew advance silly";

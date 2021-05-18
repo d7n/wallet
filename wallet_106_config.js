@@ -1,1 +1,1 @@
-var mnemonic = "supply joy have couple holiday doctor else team memory neglect reform sunny";
+var mnemonic = "portion liberty proud safe crumble useless square abuse wife flat matrix spatial";

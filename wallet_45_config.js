@@ -1,1 +1,1 @@
-var mnemonic = "shrug provide tube leopard spoon kidney invite layer visa catalog spare repeat";
+var mnemonic = "kidney kiss pyramid analyst liar game draft limb keep stuff rate spread";

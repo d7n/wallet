@@ -1,1 +1,1 @@
-var mnemonic = "olympic steak toy tuition found burst cart opinion boat shove olive coil";
+var mnemonic = "inject spoil anxiety supreme bacon kitchen father lazy harsh rice false slight";

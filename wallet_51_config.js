@@ -1,1 +1,1 @@
-var mnemonic = "much bid history ignore garment person vault praise trick hold before economy";
+var mnemonic = "lucky exchange monitor purity short pool unfold father random ecology velvet elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "arch relax cabbage surge fitness donor forum cheese oppose dash nephew ecology";
+var mnemonic = "balance lizard again wide tortoise risk injury loop mosquito elite vicious critic";

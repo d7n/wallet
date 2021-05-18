@@ -1,1 +1,1 @@
-var mnemonic = "mind clean output sustain flee curve spawn copy lucky short unable unfold";
+var mnemonic = "weekend luggage kidney rug large rally avocado fruit prize address spring elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "vast unlock across march view ritual raise load shove dynamic athlete warm";
+var mnemonic = "cup now hand assume thumb silk much denial head life cactus depart";

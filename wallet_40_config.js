@@ -1,1 +1,1 @@
-var mnemonic = "patch power corn session across cup that clinic mention mom strong assault";
+var mnemonic = "quote swift conduct pilot canyon simple best click critic indoor world depend";

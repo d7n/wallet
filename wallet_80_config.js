@@ -1,1 +1,1 @@
-var mnemonic = "student dove owner pride volcano enrich gadget frog leader legal assume little";
+var mnemonic = "tennis spatial heart add brisk major prosper give similar dance apart negative";

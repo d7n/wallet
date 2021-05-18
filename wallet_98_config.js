@@ -1,1 +1,1 @@
-var mnemonic = "draft object cement fossil mechanic option orange hobby stable between frown blood";
+var mnemonic = "junior hope coil album loan open solve brown ship salute length since";

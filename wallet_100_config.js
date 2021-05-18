@@ -1,1 +1,1 @@
-var mnemonic = "equip life detect leopard narrow poem gather effort black rate cousin arctic";
+var mnemonic = "fix joy all exile zero together empty sauce suggest sweet exact jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk weapon tilt cabbage address cloud amused law clog symptom replace pioneer";
+var mnemonic = "toast dial private trumpet element delay toward end where stock split armed";

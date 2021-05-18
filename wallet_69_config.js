@@ -1,1 +1,1 @@
-var mnemonic = "today soap world believe expose error spirit roast never bridge engine luxury";
+var mnemonic = "fire slogan humor bind boring hungry venture copy image come enact exist";

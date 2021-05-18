@@ -1,1 +1,1 @@
-var mnemonic = "retire old party unhappy frozen coconut cargo solve spread fluid army invite";
+var mnemonic = "summer lumber daughter file discover name culture puppy obtain radio dust donate";

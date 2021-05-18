@@ -1,1 +1,1 @@
-var mnemonic = "exclude common reopen brother wage alter veteran gospel hamster cabin enter marble";
+var mnemonic = "install evolve debate decline depart forest copper zero cereal fire prison chicken";

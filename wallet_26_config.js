@@ -1,1 +1,1 @@
-var mnemonic = "visual doll art access naive nasty diagram link habit diesel snack fitness";
+var mnemonic = "stock amused trend random clerk remove poem mushroom measure shell soul payment";

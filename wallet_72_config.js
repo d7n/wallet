@@ -1,1 +1,1 @@
-var mnemonic = "rough eye lonely entire region fade toast dream peace law bachelor twelve";
+var mnemonic = "bean firm lock inhale ugly develop tribe stairs knock book best giggle";

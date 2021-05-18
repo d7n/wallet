@@ -1,1 +1,1 @@
-var mnemonic = "palm capable utility settle floor sleep life stock betray upper express bicycle";
+var mnemonic = "morning floor tell alley priority subway blue boil shadow scatter napkin identify";

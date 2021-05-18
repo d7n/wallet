@@ -1,1 +1,1 @@
-var mnemonic = "legend wife wheat invite february august tool fence vanish relax primary chimney";
+var mnemonic = "adult goat purity cigar glide private monitor help describe actual stay tomorrow";

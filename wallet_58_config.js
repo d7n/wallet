@@ -1,1 +1,1 @@
-var mnemonic = "note endorse chimney claim melt drama debate mixed object glare sign clerk";
+var mnemonic = "bench ritual sight hospital tower fancy pigeon gorilla inch split repeat popular";

@@ -1,1 +1,1 @@
-var mnemonic = "pact dove interest romance clump law produce family siren season harsh injury";
+var mnemonic = "digital fetch judge maple swim vast shoulder spare wedding goat clerk limb";

@@ -1,1 +1,1 @@
-var mnemonic = "joy enrich urge else gloom cherry mail scrap bone wonder mimic enlist";
+var mnemonic = "fall labor violin twist knock timber crack yellow shove kid pull forward";

@@ -1,1 +1,1 @@
-var mnemonic = "draw mom render arrive display clean drift bachelor sun ethics indicate energy";
+var mnemonic = "range remain enforce resist simple mushroom foster debris ask tomato soon wash";

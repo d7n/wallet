@@ -1,1 +1,1 @@
-var mnemonic = "carry feature decorate horse odor turtle adjust blanket stairs where maid comic";
+var mnemonic = "unveil limb castle thumb viable problem payment insect ski spoil spare garlic";

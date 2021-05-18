@@ -1,1 +1,1 @@
-var mnemonic = "claim setup say junior horn dirt just warfare copper wish theory faint";
+var mnemonic = "put pull deal raven identify plastic hamster helmet hawk bonus nation advice";

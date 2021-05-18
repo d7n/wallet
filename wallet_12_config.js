@@ -1,1 +1,1 @@
-var mnemonic = "cat blouse leave loud adapt arrest friend sudden another person fiber picnic";
+var mnemonic = "subject bundle section prize outer blame super pool veteran bachelor turn differ";

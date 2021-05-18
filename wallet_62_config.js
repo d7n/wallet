@@ -1,1 +1,1 @@
-var mnemonic = "rely torch exit bind have soccer banner lion belt thing hill toe";
+var mnemonic = "farm liar island about lottery subway retreat success easily verb fuel switch";

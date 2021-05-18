@@ -1,1 +1,1 @@
-var mnemonic = "since manage prosper example cereal please circle second wolf moon check cargo";
+var mnemonic = "castle pluck rib loop mesh ball infant record order brief fiction lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "figure improve thunder patrol street quiz such tumble eye below ranch trash";
+var mnemonic = "walnut ostrich retire combine what tool sadness mansion ill client dish chunk";

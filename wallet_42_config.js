@@ -1,1 +1,1 @@
-var mnemonic = "state child runway popular cruise license oil aunt film mutual such subject";
+var mnemonic = "alert quantum drastic risk olympic foster clean icon suggest antique swallow tide";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital settle eyebrow rebel area rapid insect gallery whip scout ice stool";
+var mnemonic = "message fortune april lock girl dwarf purity grace rally net tank gown";

@@ -1,1 +1,1 @@
-var mnemonic = "oven vague lonely involve inspire antenna layer goose when tobacco enemy mystery";
+var mnemonic = "puzzle tray sponsor gain diesel effort sponsor idle film flee uniform enable";

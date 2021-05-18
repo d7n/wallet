@@ -1,1 +1,1 @@
-var mnemonic = "deer gasp six muffin twin shuffle spray exist category hundred bracket neglect";
+var mnemonic = "fit budget once language excess solar vault craft park buffalo police scatter";

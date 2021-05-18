@@ -1,1 +1,1 @@
-var mnemonic = "bicycle pattern above damage apology mind solid kid adapt heavy night fault";
+var mnemonic = "wrap wish miracle cube place juice shrimp true frog desert diagram snap";

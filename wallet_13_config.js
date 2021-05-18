@@ -1,1 +1,1 @@
-var mnemonic = "foil bonus scene agent coach gift voyage observe shy vibrant smile excite";
+var mnemonic = "fluid penalty worry outside awful october offer moral bright machine rule whale";

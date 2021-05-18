@@ -1,1 +1,1 @@
-var mnemonic = "black high pizza boss advance garbage real squeeze curious park produce current";
+var mnemonic = "unusual snap force inch wife hidden sibling liberty stamp awesome journey scale";

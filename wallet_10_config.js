@@ -1,1 +1,1 @@
-var mnemonic = "regret giant sadness scale unusual almost paper horse lucky drama drink boil";
+var mnemonic = "couple motor depth basic index crunch delay clever lamp useless wing brief";

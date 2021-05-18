@@ -1,1 +1,1 @@
-var mnemonic = "puppy pepper review afraid roof vast aspect phrase miss recycle proof cliff";
+var mnemonic = "cram tank reward enlist prevent acid uphold rare idea school morning mimic";

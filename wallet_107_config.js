@@ -1,1 +1,1 @@
-var mnemonic = "toss below victory earn chuckle business unfair supply useless desert rival public";
+var mnemonic = "pizza unfair ceiling garage present boring fault file young fragile clock shoe";

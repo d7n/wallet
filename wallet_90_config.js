@@ -1,1 +1,1 @@
-var mnemonic = "animal reason unusual nominee lesson basket clinic custom enjoy subject cupboard when";
+var mnemonic = "course damage february used card myth crystal cruise amazing learn enter convince";

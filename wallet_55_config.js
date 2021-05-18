@@ -1,1 +1,1 @@
-var mnemonic = "gentle recall cube civil foot join disagree actual punch resource police discover";
+var mnemonic = "sphere butter refuse drill giant unhappy local cigar rocket frozen aware blast";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber flip catalog rifle stage clog pride novel small narrow dentist labor";
+var mnemonic = "vapor jewel jewel hair empty fall army clump patient cheese tank airport";

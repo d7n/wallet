@@ -1,1 +1,1 @@
-var mnemonic = "liar recall ride warfare sister audit embody pride true front meat skirt";
+var mnemonic = "tenant pioneer rookie base script during uniform rally palm erode squeeze slender";

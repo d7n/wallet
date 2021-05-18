@@ -1,1 +1,1 @@
-var mnemonic = "tank use affair hair spend coconut student fix shock lunch jaguar jelly";
+var mnemonic = "valid social city faculty network autumn bread banner addict anger wall shy";

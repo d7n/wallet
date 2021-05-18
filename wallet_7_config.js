@@ -1,1 +1,1 @@
-var mnemonic = "profit blossom switch light broken panther shrug random kidney prevent slow sound";
+var mnemonic = "humor rice galaxy swear move canal cannon gravity club today near cliff";

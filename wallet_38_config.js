@@ -1,1 +1,1 @@
-var mnemonic = "vast inner satoshi toss record shield sound truck among hungry apple hedgehog";
+var mnemonic = "switch wear response moment pyramid garage other issue zebra label stem can";

@@ -1,1 +1,1 @@
-var mnemonic = "casino please shock dry inch toddler beef welcome scrap tourist forget acquire";
+var mnemonic = "cage brand artist fish final pitch wise leader speed dial fix fan";

@@ -1,1 +1,1 @@
-var mnemonic = "track eternal system romance bounce hidden jacket mobile tuna define forest glass";
+var mnemonic = "original whale omit notable art cheap permit luggage unknown enact clump suffer";

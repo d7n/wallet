@@ -1,1 +1,1 @@
-var mnemonic = "morning side defense song diary enough pioneer main razor excite dish diesel";
+var mnemonic = "wire business slight helmet jaguar nut history sleep source genuine rail stone";

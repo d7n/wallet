@@ -1,1 +1,1 @@
-var mnemonic = "solution fantasy adjust wedding shop icon leaf elder brand come hamster pave";
+var mnemonic = "rally spoil royal fragile disorder recall where flat flock surface matrix clump";

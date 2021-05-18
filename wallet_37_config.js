@@ -1,1 +1,1 @@
-var mnemonic = "olympic spoon yard pen provide ready abandon depth coffee tomorrow write ribbon";
+var mnemonic = "crush lake pulp ring clever empty brand drastic check artwork nest hazard";

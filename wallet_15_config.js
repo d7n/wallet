@@ -1,1 +1,1 @@
-var mnemonic = "orphan core over west clinic salt invite vacuum spell industry ritual inch";
+var mnemonic = "fold fetch chunk host marriage census range motion forest grab tomato weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "diet outside lawsuit clog knife kick heart turtle pen faculty curious push";
+var mnemonic = "reveal volume drink sure dance pumpkin service super invest guilt supply alert";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty coffee retire average elephant slender task slice genuine exit note item";
+var mnemonic = "lizard clap typical urban off analyst sense firm picnic tree empower section";

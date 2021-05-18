@@ -1,1 +1,1 @@
-var mnemonic = "olympic seek reunion rookie lock spice short exotic frozen double kind develop";
+var mnemonic = "today luggage clever half ostrich acquire situate pool next meadow stage picture";

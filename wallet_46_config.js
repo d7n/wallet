@@ -1,1 +1,1 @@
-var mnemonic = "hip double citizen upset tell decide era hover melody bus stem age";
+var mnemonic = "easy receive chase occur fiction icon initial borrow giant mistake rabbit birth";

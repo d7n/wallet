@@ -1,1 +1,1 @@
-var mnemonic = "mix recycle ship hair copper cricket obey more female quantum flat bamboo";
+var mnemonic = "whip need off long draft arch tomato aspect world fuel track hire";

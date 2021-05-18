@@ -1,1 +1,1 @@
-var mnemonic = "citizen novel nation rare before photo chronic talk ring flag table junior";
+var mnemonic = "expand meadow genius border broccoli alter flush sponsor promote shrimp panther thought";

@@ -1,1 +1,1 @@
-var mnemonic = "candy merry toward beauty box affair orbit hammer mass start mushroom blur";
+var mnemonic = "become element option kite envelope narrow city sport pony claw chaos lunar";

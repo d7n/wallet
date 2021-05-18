@@ -1,1 +1,1 @@
-var mnemonic = "noise predict iron wasp target rapid broom lava pretty sail bid labor";
+var mnemonic = "drama print music silk income venue ordinary jeans force outside finger aisle";

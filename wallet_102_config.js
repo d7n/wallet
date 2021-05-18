@@ -1,1 +1,1 @@
-var mnemonic = "bubble offer quit student bind property name bicycle copy agree duck gate";
+var mnemonic = "number dinner mouse machine chapter student hobby arm island digital track document";
