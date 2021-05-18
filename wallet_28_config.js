@@ -1,1 +1,1 @@
-var mnemonic = "frequent trouble radar staff close slender embrace glare bread enjoy danger blanket";
+var mnemonic = "nut hero endorse acoustic current ridge interest manual dizzy where super allow";

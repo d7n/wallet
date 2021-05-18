@@ -1,1 +1,1 @@
-var mnemonic = "rotate more double boss speak coil liberty upon car energy assault live";
+var mnemonic = "veteran private year book cute define else ozone grace toilet now paper";

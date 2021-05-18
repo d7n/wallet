@@ -1,1 +1,1 @@
-var mnemonic = "blind box doctor spray skill rude kangaroo bike marine another purpose member";
+var mnemonic = "summer unable jump scan frog ball kind lemon unveil author float grab";

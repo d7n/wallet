@@ -1,1 +1,1 @@
-var mnemonic = "claim mesh fringe reveal almost iron kid sample next trap fun mango";
+var mnemonic = "material couch apple quarter soup fox split sense flock wrap what pizza";

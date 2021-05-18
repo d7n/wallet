@@ -1,1 +1,1 @@
-var mnemonic = "salad phone brass reward paper ski student lounge park nothing journey save";
+var mnemonic = "black black spike save track simple mobile say suit green lonely burden";

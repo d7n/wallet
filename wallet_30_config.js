@@ -1,1 +1,1 @@
-var mnemonic = "forest input salute pear spike blue grab keep van earth anchor gym";
+var mnemonic = "catch legal project tomorrow pizza ginger govern ceiling furnace turn cluster final";

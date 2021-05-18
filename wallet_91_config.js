@@ -1,1 +1,1 @@
-var mnemonic = "eye noise ice exile dream abstract pulp chaos oblige keep garbage silver";
+var mnemonic = "anger project divorce course wrestle arrow barrel change memory better cause endless";

@@ -1,1 +1,1 @@
-var mnemonic = "region action slender source depart champion ask stand cycle flip replace soup";
+var mnemonic = "speak sponsor system unusual unable rotate stumble burger fabric desert slot better";

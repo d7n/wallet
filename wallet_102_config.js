@@ -1,1 +1,1 @@
-var mnemonic = "mammal glue crumble spread already immune endless trophy december soda rate share";
+var mnemonic = "can soon alcohol agree rescue omit doctor sample alert hockey illness assist";

@@ -1,1 +1,1 @@
-var mnemonic = "effort silk left window father judge clump grab pencil fence chunk tumble";
+var mnemonic = "chronic giggle six wedding crucial gun citizen tail hand flag observe danger";

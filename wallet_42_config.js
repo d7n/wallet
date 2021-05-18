@@ -1,1 +1,1 @@
-var mnemonic = "olympic forget trip apology dress warm assume broom cave river shoe begin";
+var mnemonic = "device leave entire history elephant guess train globe predict enrich what elevator";

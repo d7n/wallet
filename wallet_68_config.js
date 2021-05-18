@@ -1,1 +1,1 @@
-var mnemonic = "shell sweet anger isolate album want waste pulse use another organ vessel";
+var mnemonic = "boil denial gesture evolve recall replace face follow input acoustic myself brand";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude deal spice pigeon artefact pluck limit giraffe water drill review right";
+var mnemonic = "defense become current swamp bag innocent enact chase curve hungry crime pledge";

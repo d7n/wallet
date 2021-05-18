@@ -1,1 +1,1 @@
-var mnemonic = "first erase genre race income spray zoo worry engine maid artwork barrel";
+var mnemonic = "harbor squeeze shallow employ culture mechanic someone below wait answer cycle exclude";

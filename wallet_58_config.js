@@ -1,1 +1,1 @@
-var mnemonic = "dismiss firm photo time staff matrix fresh cupboard moral world other talk";
+var mnemonic = "spice amateur canyon umbrella angle rude math window remain enhance scale nut";

@@ -1,1 +1,1 @@
-var mnemonic = "cause short egg eight moral mean thing obey length goddess frequent travel";
+var mnemonic = "man rare junior wool gauge hole since forum essence vanish kidney side";

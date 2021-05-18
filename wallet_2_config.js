@@ -1,1 +1,1 @@
-var mnemonic = "prison party panther equip fan dry antenna tackle open mom plastic spring";
+var mnemonic = "tool jump strategy session because episode bonus ketchup script pear suffer weapon";

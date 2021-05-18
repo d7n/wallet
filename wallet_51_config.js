@@ -1,1 +1,1 @@
-var mnemonic = "taxi depth escape upper spirit fatigue stamp matrix pretty fuel thing photo";
+var mnemonic = "exchange bless silk firm radar border system develop blanket talent fan portion";

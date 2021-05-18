@@ -1,1 +1,1 @@
-var mnemonic = "little season scout truth glimpse stuff horse reason armed swing soft fringe";
+var mnemonic = "tray expire torch busy walk country anxiety repair congress tree arrest marriage";

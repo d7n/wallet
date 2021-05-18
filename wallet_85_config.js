@@ -1,1 +1,1 @@
-var mnemonic = "vibrant pyramid deputy atom undo bind duty decline exhaust rotate public bridge";
+var mnemonic = "achieve monkey genre fabric hockey tumble comfort argue advice witness receive oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "act amount person snap garden negative give anchor eternal notice drop permit";
+var mnemonic = "castle pluck toy recall shoe detail sheriff thumb rail cruel supreme noble";

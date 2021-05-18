@@ -1,1 +1,1 @@
-var mnemonic = "fold juice wood annual hole island estate crumble cover charge caught gauge";
+var mnemonic = "shrug memory second mention fever limit menu thrive lesson lawsuit loop radio";

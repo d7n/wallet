@@ -1,1 +1,1 @@
-var mnemonic = "sunset penalty advice mango praise away brave erosion faculty morning burst shoe";
+var mnemonic = "erode cupboard hood govern record rigid basic flip frown buddy such always";

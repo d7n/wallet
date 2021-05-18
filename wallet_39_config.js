@@ -1,1 +1,1 @@
-var mnemonic = "now can consider base offer tuition foot tiger gaze kingdom use noble";
+var mnemonic = "relief candy fury fever swing cancel cousin scorpion flame suggest arrive surround";

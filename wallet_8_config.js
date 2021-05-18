@@ -1,1 +1,1 @@
-var mnemonic = "man afraid plunge remember decrease deposit kiwi promote unable slender pool boat";
+var mnemonic = "since typical coconut claw garment purchase gesture dolphin fabric size foil accident";

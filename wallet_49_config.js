@@ -1,1 +1,1 @@
-var mnemonic = "tooth wool actor ecology only cushion tonight naive lawsuit slab nephew tomorrow";
+var mnemonic = "shoulder mushroom enough ill borrow twelve tobacco virtual skate clip siege nuclear";

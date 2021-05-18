@@ -1,1 +1,1 @@
-var mnemonic = "nature genuine hello airport dream pretty rather basic seek matter daughter orchard";
+var mnemonic = "reject key guide suffer maximum satoshi across stove champion choice liquid comic";

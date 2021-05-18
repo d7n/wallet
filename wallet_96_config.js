@@ -1,1 +1,1 @@
-var mnemonic = "cart debate picnic eagle pretty raven column merit estate dish write elegant";
+var mnemonic = "boost junk where denial aspect kitten black cute mule hollow edge yard";

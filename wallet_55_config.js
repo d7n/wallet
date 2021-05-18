@@ -1,1 +1,1 @@
-var mnemonic = "share tiger noise oak target syrup attend menu slot symptom expect dumb";
+var mnemonic = "scan guitar volume lift stumble kite clever axis year churn film pledge";

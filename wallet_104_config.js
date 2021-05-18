@@ -1,1 +1,1 @@
-var mnemonic = "detail symbol defy load acoustic journey submit unfair brown inquiry truth dynamic";
+var mnemonic = "coconut assault poet tenant sister perfect soft suggest green mention law useless";

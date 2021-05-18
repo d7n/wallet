@@ -1,1 +1,1 @@
-var mnemonic = "cheese engine hood twice off useless educate open purse frequent believe heart";
+var mnemonic = "bamboo brass switch fragile moral angle bless junior panic dizzy rigid worth";

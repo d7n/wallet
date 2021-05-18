@@ -1,1 +1,1 @@
-var mnemonic = "bubble orange industry toward evolve gun gasp empty keep burden course original";
+var mnemonic = "market solve agent three helmet stomach wreck clog bus riot goat test";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom canoe ocean nerve excite impose add term minimum cancel talk symptom";
+var mnemonic = "limit magic calm skill slam vendor nominee figure rescue bundle category knee";

@@ -1,1 +1,1 @@
-var mnemonic = "rich mandate dizzy alone believe cannon powder spike virus guess salon you";
+var mnemonic = "length atom trade hand potato ten dumb legal ski stem leader away";

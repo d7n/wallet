@@ -1,1 +1,1 @@
-var mnemonic = "monkey category sausage menu bag remember young update season armed demand need";
+var mnemonic = "opinion autumn custom crawl occur smile soccer rather explain catch false farm";

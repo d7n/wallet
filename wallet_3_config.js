@@ -1,1 +1,1 @@
-var mnemonic = "trend worry gorilla bread flush lecture october scheme program memory glove antique";
+var mnemonic = "wild accident display people toss toe prevent bag hand delay climb grape";

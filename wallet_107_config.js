@@ -1,1 +1,1 @@
-var mnemonic = "rug core shell detail worry swear salad year poet core gain force";
+var mnemonic = "plate pottery bulb hole toast hen music innocent atom swallow replace stone";

@@ -1,1 +1,1 @@
-var mnemonic = "speak tissue laugh oak skate banana zone predict wish dust addict metal";
+var mnemonic = "cricket together salmon catalog noodle seven peace shed giraffe run enroll speak";

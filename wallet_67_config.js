@@ -1,1 +1,1 @@
-var mnemonic = "change scissors remain business virus brother glass lucky theme loud fix sound";
+var mnemonic = "maximum exclude office cliff theme health next paddle cushion inject tonight gown";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite priority science across surround tag flower voice mail olive depend mouse";
+var mnemonic = "involve erode easy upgrade father clay athlete innocent fire evoke library denial";

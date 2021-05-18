@@ -1,1 +1,1 @@
-var mnemonic = "mail protect file finger honey easily nephew letter hedgehog angry option cigar";
+var mnemonic = "eyebrow verb equip blood wave project shadow banner hole trick drum weekend";

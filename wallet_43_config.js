@@ -1,1 +1,1 @@
-var mnemonic = "path much balcony stem oxygen remind pencil cattle swear blouse this virtual";
+var mnemonic = "verify floor blouse guitar elephant paddle alpha evidence boat blue unusual trip";

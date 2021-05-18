@@ -1,1 +1,1 @@
-var mnemonic = "current soap demand skill coil gown win leisure avoid steak energy behave";
+var mnemonic = "drift device father mom acquire another noble appear jungle math north happy";

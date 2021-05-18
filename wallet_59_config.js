@@ -1,1 +1,1 @@
-var mnemonic = "achieve pen basic absent service soap farm call large kid exotic exhibit";
+var mnemonic = "clinic choose link melt cotton panel permit warfare know interest involve deal";

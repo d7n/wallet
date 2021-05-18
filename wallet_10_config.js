@@ -1,1 +1,1 @@
-var mnemonic = "distance novel kiwi fabric current sure sunny true turtle fluid drill vessel";
+var mnemonic = "crucial skirt orbit leg service survey camp essence pill load receive join";

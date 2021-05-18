@@ -1,1 +1,1 @@
-var mnemonic = "bundle unusual inform remove slim dentist claim figure verb bright source exotic";
+var mnemonic = "chuckle budget nature what bamboo radar badge reveal gown comic novel great";

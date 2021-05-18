@@ -1,1 +1,1 @@
-var mnemonic = "actual empty mesh swarm soup will medal steel build kiwi profit multiply";
+var mnemonic = "close traffic mansion month catch poem album aunt just lawn require never";

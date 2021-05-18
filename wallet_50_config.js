@@ -1,1 +1,1 @@
-var mnemonic = "winner flush climb toward spray real august congress renew inmate cheese half";
+var mnemonic = "raise piece disease toss assist library elevator hundred target craft invite ball";

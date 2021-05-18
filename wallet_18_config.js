@@ -1,1 +1,1 @@
-var mnemonic = "sustain load light orange daughter knock sketch vote adapt field amount obey";
+var mnemonic = "question various able odor profit bar cradle retire purchase intact unaware claw";

@@ -1,1 +1,1 @@
-var mnemonic = "segment party act section have panel siege loan adjust wish try evoke";
+var mnemonic = "know forum mean error appear steel trash inmate fat forward holiday chalk";

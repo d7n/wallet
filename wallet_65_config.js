@@ -1,1 +1,1 @@
-var mnemonic = "window flag jar monitor much labor what spare maid clarify duck replace";
+var mnemonic = "surge brand protect salad impulse deny gorilla quantum view setup famous pepper";

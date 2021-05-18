@@ -1,1 +1,1 @@
-var mnemonic = "symptom tragic news prevent neglect village same copper crop swing snow pair";
+var mnemonic = "noise pepper hello awake same opinion raw eyebrow taxi syrup hazard yard";

@@ -1,1 +1,1 @@
-var mnemonic = "rain talent abandon enemy blind diesel fish crouch circle thought silk tissue";
+var mnemonic = "shield fancy rough learn awake civil tree pottery bleak certain faint fossil";

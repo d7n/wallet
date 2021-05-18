@@ -1,1 +1,1 @@
-var mnemonic = "dumb someone chat forward marble teach involve cream amount skirt junk photo";
+var mnemonic = "fruit bicycle kit pencil fragile scene track between eyebrow isolate used elegant";

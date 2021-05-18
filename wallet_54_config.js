@@ -1,1 +1,1 @@
-var mnemonic = "same jaguar account happy prevent purchase nominee pear hero labor people pitch";
+var mnemonic = "address prize auction cool undo bid paper orbit shy virtual unveil demand";

@@ -1,1 +1,1 @@
-var mnemonic = "amused grape wisdom twist project layer jacket sun industry assault decorate result";
+var mnemonic = "profit ball history dry little course explain ski undo clip order mandate";

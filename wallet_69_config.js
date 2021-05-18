@@ -1,1 +1,1 @@
-var mnemonic = "chaos long goddess flight subject owner black flat bronze village abuse melody";
+var mnemonic = "enable bone express body find prison scan already scare ring person reason";

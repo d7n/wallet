@@ -1,1 +1,1 @@
-var mnemonic = "cook keen target cry belt absorb rice annual ensure off lawsuit agree";
+var mnemonic = "attitude veteran grief wear ceiling body theory devote east scale hover potato";

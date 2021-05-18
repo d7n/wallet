@@ -1,1 +1,1 @@
-var mnemonic = "virtual parrot catalog timber together chest grain purchase unlock route soap twenty";
+var mnemonic = "repair load joy domain curve kind napkin umbrella weekend aware seven cupboard";

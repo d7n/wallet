@@ -1,1 +1,1 @@
-var mnemonic = "session make priority cotton borrow tennis column undo brisk describe tattoo off";
+var mnemonic = "balcony media distance hire identify cherry april orphan quote brush save predict";

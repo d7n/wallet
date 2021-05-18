@@ -1,1 +1,1 @@
-var mnemonic = "enact upgrade champion blue nation either picnic burden thrive approve pink puzzle";
+var mnemonic = "monster inch hard wrap country honey adjust notice prefer legal exclude happy";

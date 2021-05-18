@@ -1,1 +1,1 @@
-var mnemonic = "mountain person guess pudding horn coyote twelve isolate snack beach check museum";
+var mnemonic = "laugh thunder october dog wing bachelor despair clerk easily toilet clump nephew";

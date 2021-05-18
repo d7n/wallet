@@ -1,1 +1,1 @@
-var mnemonic = "derive tool dentist ketchup leisure void right salute crunch catalog harsh actual";
+var mnemonic = "mixed tourist pear knee combine impulse scatter grass extra goat between purity";

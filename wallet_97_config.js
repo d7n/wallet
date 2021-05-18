@@ -1,1 +1,1 @@
-var mnemonic = "mule pole innocent switch inherit there cup between use property ethics venue";
+var mnemonic = "toddler dash unusual inner true student rocket salt empower noble weapon length";

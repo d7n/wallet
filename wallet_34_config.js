@@ -1,1 +1,1 @@
-var mnemonic = "memory hero divorce wood robust second tongue decrease betray point food card";
+var mnemonic = "comfort impulse echo tag roast crew robot powder exercise inspire cave install";

@@ -1,1 +1,1 @@
-var mnemonic = "ill blade bird thunder boat fade finish breeze spoon tackle trophy tip";
+var mnemonic = "fluid unusual bonus neck extend among innocent isolate young myth feature actual";

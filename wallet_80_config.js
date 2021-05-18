@@ -1,1 +1,1 @@
-var mnemonic = "elbow sick divorce rigid insane pink light gentle victory funny warrior kind";
+var mnemonic = "material accuse trash clay unaware believe mandate task jungle result once mosquito";

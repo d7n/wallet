@@ -1,1 +1,1 @@
-var mnemonic = "limit then lend face galaxy mystery ship capable detail charge carpet amount";
+var mnemonic = "fork robot always hair charge usage motion dad input pink will pottery";

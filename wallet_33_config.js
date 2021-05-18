@@ -1,1 +1,1 @@
-var mnemonic = "total faculty bean churn runway permit claim seven sniff corn coral pyramid";
+var mnemonic = "faith tissue people end cave vocal thrive first drip okay skull now";

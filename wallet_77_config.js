@@ -1,1 +1,1 @@
-var mnemonic = "slogan law share gold shed bundle chaos limit round false tail tomorrow";
+var mnemonic = "clip rare sentence february answer toe pretty produce enemy long equip south";

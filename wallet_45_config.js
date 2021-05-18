@@ -1,1 +1,1 @@
-var mnemonic = "fold scale talk young tennis permit desert fiction salmon trend shy tackle";
+var mnemonic = "energy bitter resource impose impulse slow cereal trust seat omit volume spring";

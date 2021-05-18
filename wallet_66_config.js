@@ -1,1 +1,1 @@
-var mnemonic = "aim slim cook kangaroo crazy skate script slam appear mammal student ceiling";
+var mnemonic = "cabin achieve pyramid input weird cat hungry urge body mutual stock web";

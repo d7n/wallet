@@ -1,1 +1,1 @@
-var mnemonic = "shop good diesel dust crawl melt play tape host ensure double rug";
+var mnemonic = "praise trip thank edge knife canvas artwork uncle seminar zoo turn margin";

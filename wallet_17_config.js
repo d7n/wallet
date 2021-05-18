@@ -1,1 +1,1 @@
-var mnemonic = "chicken swear citizen capital change wrap jelly verb explain begin finish clever";
+var mnemonic = "when december suit post bamboo warm unveil machine remind rotate ugly stage";

@@ -1,1 +1,1 @@
-var mnemonic = "art remind size kitten wine sweet inhale fatigue eager short spoil lizard";
+var mnemonic = "model audit code holiday power butter inquiry abandon cancel evil drip deposit";

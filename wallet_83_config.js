@@ -1,1 +1,1 @@
-var mnemonic = "index narrow legend goose casual mosquito antique cry globe bulb hotel outside";
+var mnemonic = "vacant budget coffee aisle voyage proud kitten arrange able reduce rookie reward";

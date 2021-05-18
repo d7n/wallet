@@ -1,1 +1,1 @@
-var mnemonic = "patch civil cabin hundred tower issue crumble dune relief stumble fantasy maximum";
+var mnemonic = "faint bomb topple round motion cement scare syrup virtual isolate super feel";

@@ -1,1 +1,1 @@
-var mnemonic = "wild advice story trophy vital cushion worry auto impact talk decrease wise";
+var mnemonic = "magnet glue chat athlete powder green alter year submit toy now need";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo must cement clock dumb produce supreme later uncover chimney mass you";
+var mnemonic = "autumn album outside depart quote boss sad recipe cash addict traffic soccer";

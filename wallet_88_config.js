@@ -1,1 +1,1 @@
-var mnemonic = "boy clap few album moment chronic result vessel mimic sphere amused increase";
+var mnemonic = "giant need walnut dress aerobic mail quiz hundred tattoo bronze peasant unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt word nerve frown shuffle mean fish jar spoon edge viable frequent";
+var mnemonic = "song arch baby into know sign goddess pause face shock suit mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "never lucky hat top slow body wait despair middle alter nest vibrant";
+var mnemonic = "illness broom sound flat minute devote member page own siege volume include";

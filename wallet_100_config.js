@@ -1,1 +1,1 @@
-var mnemonic = "large burger wheat entry bless caught rescue era grape frost entry october";
+var mnemonic = "current album square vivid blame connect model wave prevent table rival special";

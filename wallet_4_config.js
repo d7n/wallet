@@ -1,1 +1,1 @@
-var mnemonic = "axis dolphin table silent unknown wave sting neglect next arrive book session";
+var mnemonic = "twelve legal rude mix rescue film object tonight produce afford lumber genius";

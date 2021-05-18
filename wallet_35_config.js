@@ -1,1 +1,1 @@
-var mnemonic = "indoor siren increase final unique tray outer flip blind ill casual brand";
+var mnemonic = "can street drastic polar control vehicle pig way patch arrive fly zero";

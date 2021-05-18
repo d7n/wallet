@@ -1,1 +1,1 @@
-var mnemonic = "sea brisk poet come advice dry seek excite spray business cook shed";
+var mnemonic = "pupil visit dismiss rigid topple salt asthma ensure stick lend canal undo";

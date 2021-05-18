@@ -1,1 +1,1 @@
-var mnemonic = "gospel meat tube animal game income fog lake seminar example uncle erosion";
+var mnemonic = "inner wheat bounce notice degree soldier mask wedding point shop join lock";

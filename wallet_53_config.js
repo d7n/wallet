@@ -1,1 +1,1 @@
-var mnemonic = "element rhythm distance nerve ski tiger mean cliff frown cost settle wise";
+var mnemonic = "laundry film rose dwarf eye special fashion ignore razor payment above desert";

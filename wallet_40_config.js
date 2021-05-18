@@ -1,1 +1,1 @@
-var mnemonic = "success alone walk amateur enough wrestle spoil discover drastic oak february correct";
+var mnemonic = "kingdom elegant service fantasy hybrid mosquito palm tray provide brief december token";
