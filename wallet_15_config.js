@@ -1,1 +1,1 @@
-var mnemonic = "knife unfold device hope gate child ticket alter advance okay guide smooth";
+var mnemonic = "margin skin slice drive ticket drill praise leisure round boy topic tooth";

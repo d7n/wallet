@@ -1,1 +1,1 @@
-var mnemonic = "lake pass coffee hip junior arrow toilet marriage rare script depend state";
+var mnemonic = "settle inhale hidden leave reveal document sign prepare aspect only solution emotion";

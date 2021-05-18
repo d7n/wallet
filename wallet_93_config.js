@@ -1,1 +1,1 @@
-var mnemonic = "wait mind exit zero drill manage snack mutual certain federal husband rate";
+var mnemonic = "start craft enforce amused relief cause spirit age sibling nasty feature choice";

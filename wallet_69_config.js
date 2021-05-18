@@ -1,1 +1,1 @@
-var mnemonic = "wheat general steak joke library same sort grow cake course oval uncle";
+var mnemonic = "canoe minute fluid accident pulp purpose angry liberty correct range door issue";

@@ -1,1 +1,1 @@
-var mnemonic = "solution parrot right public cattle traffic salmon assault dune rebel champion brother";
+var mnemonic = "emerge asset gallery elbow royal unfold service quick fuel comic luxury render";

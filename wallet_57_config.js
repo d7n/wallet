@@ -1,1 +1,1 @@
-var mnemonic = "tourist task will target entry never rough game acid together whale deer";
+var mnemonic = "tray never trial blood genuine chaos sound resource hunt credit genuine swing";

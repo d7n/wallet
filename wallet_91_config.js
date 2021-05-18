@@ -1,1 +1,1 @@
-var mnemonic = "clinic thought rely lawn buddy foam display amazing acid fade vacuum feel";
+var mnemonic = "fetch drip window latin doll amused mouse tide guilt injury ball clip";

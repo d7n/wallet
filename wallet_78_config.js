@@ -1,1 +1,1 @@
-var mnemonic = "act task amazing cotton choose gadget critic snake enforce screen matter beef";
+var mnemonic = "relax title collect capable purchase vital fashion token nation cable account relief";

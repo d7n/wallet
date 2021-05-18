@@ -1,1 +1,1 @@
-var mnemonic = "canvas duty own supreme review lizard quarter spray movie amount panel sell";
+var mnemonic = "liquid crouch plug kingdom group helmet sunny weapon client range autumn still";

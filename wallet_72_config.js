@@ -1,1 +1,1 @@
-var mnemonic = "roof switch comic salute denial tower shield divert super bracket this horse";
+var mnemonic = "exchange screen core word roast shove spawn dune gasp output carry appear";

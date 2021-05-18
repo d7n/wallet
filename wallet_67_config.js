@@ -1,1 +1,1 @@
-var mnemonic = "cradle urban combine crunch chest audit toilet edge velvet leg salad title";
+var mnemonic = "limit split gap test mix minor coach business hill void any fatigue";

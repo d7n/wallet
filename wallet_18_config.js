@@ -1,1 +1,1 @@
-var mnemonic = "fault never south portion kidney now grid belt element rural possible whale";
+var mnemonic = "ring agree remain border rate sphere power sock jungle simple news park";

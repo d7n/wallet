@@ -1,1 +1,1 @@
-var mnemonic = "weasel mansion scale food obvious mule leopard hand wood color flash prepare";
+var mnemonic = "travel inmate rookie clever cliff demise season disagree popular ritual obvious abandon";

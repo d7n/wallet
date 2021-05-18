@@ -1,1 +1,1 @@
-var mnemonic = "onion across hedgehog void fun search sense fog above light learn bullet";
+var mnemonic = "debris crater tone stadium crawl chief whip flash kite enemy couch tattoo";

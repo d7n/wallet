@@ -1,1 +1,1 @@
-var mnemonic = "donor stairs hedgehog speed inmate token shiver lesson pulp traffic elite father";
+var mnemonic = "age machine day amateur million cloth fortune sound faith rescue estate vapor";

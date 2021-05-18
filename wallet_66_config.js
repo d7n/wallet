@@ -1,1 +1,1 @@
-var mnemonic = "skate shine change noodle august common arctic museum trial raccoon skirt news";
+var mnemonic = "ranch pudding time start earn together mule verb two sausage silver use";

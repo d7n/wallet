@@ -1,1 +1,1 @@
-var mnemonic = "weird payment gun income pencil choice lock say pulp people laptop dynamic";
+var mnemonic = "era fun next bargain chuckle close make priority paper rabbit illness reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "knock cable style divorce reopen victory spell damage brass ramp proof pony";
+var mnemonic = "jelly milk acoustic skull wealth walk enjoy field special shrug advance grant";

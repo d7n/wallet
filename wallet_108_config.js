@@ -1,1 +1,1 @@
-var mnemonic = "adjust armed deer tomato lady cheap shoot select lab solid rifle genuine";
+var mnemonic = "million champion pony genius settle garbage lizard aspect jeans barrel often blossom";

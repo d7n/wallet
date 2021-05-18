@@ -1,1 +1,1 @@
-var mnemonic = "gentle width material island flee cigar panel bullet cinnamon guard grief index";
+var mnemonic = "shadow alley team edge mixed until organ bird address basic rare upgrade";

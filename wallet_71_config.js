@@ -1,1 +1,1 @@
-var mnemonic = "virus sound popular repeat empty enter help treat have govern fatal safe";
+var mnemonic = "order coral daughter demand hundred anxiety thank popular usage hazard cash arctic";

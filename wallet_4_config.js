@@ -1,1 +1,1 @@
-var mnemonic = "broccoli swallow balance link gas plunge identify shadow ice ability beach mad";
+var mnemonic = "season text ridge code flush capital sort yellow process try vast absent";

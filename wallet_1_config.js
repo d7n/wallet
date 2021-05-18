@@ -1,1 +1,1 @@
-var mnemonic = "prosper beach index prosper enter syrup company require mesh robust day forest";
+var mnemonic = "tank fun analyst want daughter know pudding enrich april often fall remind";

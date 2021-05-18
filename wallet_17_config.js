@@ -1,1 +1,1 @@
-var mnemonic = "student season spring join ramp cook pizza repeat margin credit surface enact";
+var mnemonic = "donor fan slim buddy mother session awful present usage garden reform regret";

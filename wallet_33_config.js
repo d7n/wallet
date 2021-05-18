@@ -1,1 +1,1 @@
-var mnemonic = "aisle evidence trap trap liar shiver wink silent taxi gloom jelly tone";
+var mnemonic = "buffalo forest gravity control enact club since crawl occur master vague select";

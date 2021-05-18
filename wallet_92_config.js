@@ -1,1 +1,1 @@
-var mnemonic = "crazy surround stereo angry cat keen dice yard glue install edge flee";
+var mnemonic = "body hold bind width crop response ecology float image fish punch cancel";

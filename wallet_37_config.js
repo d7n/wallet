@@ -1,1 +1,1 @@
-var mnemonic = "source object develop grunt seek device rib visa paper because capital polar";
+var mnemonic = "one slight spread labor crazy glare pull glimpse also topic crazy glance";

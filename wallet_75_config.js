@@ -1,1 +1,1 @@
-var mnemonic = "street wonder enforce bring middle jewel bless blast item baby tilt best";
+var mnemonic = "use chronic normal retire super crumble mistake limit monster kitchen rude scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dose knee test catch panda bar fuel walk neither yard aim";
+var mnemonic = "bicycle end food twin connect antenna payment detail poet owner round trigger";

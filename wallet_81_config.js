@@ -1,1 +1,1 @@
-var mnemonic = "library hamster snap loan diamond flash wet six visual hint ridge review";
+var mnemonic = "elbow quit divide worth neglect thank debris farm scale nose pottery pitch";

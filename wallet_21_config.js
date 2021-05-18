@@ -1,1 +1,1 @@
-var mnemonic = "nothing found double hybrid wagon guide hold ship pair dynamic obey tomato";
+var mnemonic = "piece town across plastic live cattle upon train special turn loyal sense";

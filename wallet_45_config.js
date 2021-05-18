@@ -1,1 +1,1 @@
-var mnemonic = "shrimp matrix candy symbol fee solve leopard rib immense fabric decline mercy";
+var mnemonic = "involve blue slow enough right fresh grass favorite conduct column harvest off";

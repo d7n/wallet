@@ -1,1 +1,1 @@
-var mnemonic = "horror empty casino timber absorb fly salmon virtual silly veteran cluster lounge";
+var mnemonic = "sail teach owner embrace smoke token jaguar sword pink basic master visual";

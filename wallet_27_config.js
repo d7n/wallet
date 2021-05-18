@@ -1,1 +1,1 @@
-var mnemonic = "bundle wedding fruit hybrid arena direct toddler provide dog size thought cool";
+var mnemonic = "father old tissue panther gasp total pitch abstract tip water when enough";

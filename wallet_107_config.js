@@ -1,1 +1,1 @@
-var mnemonic = "thrive vacant local demise pigeon design hunt elder shiver economy invite rhythm";
+var mnemonic = "divorce trash twist basic actual badge leg shuffle loan miss matter very";

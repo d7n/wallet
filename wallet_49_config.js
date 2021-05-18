@@ -1,1 +1,1 @@
-var mnemonic = "swap boost burger hero indicate sign duck address rescue believe riot slam";
+var mnemonic = "theory enact skill check horn hat feed apart voyage ready wool execute";

@@ -1,1 +1,1 @@
-var mnemonic = "despair moral joke dose magnet iron receive cloud super electric appear tenant";
+var mnemonic = "improve undo neither door under tomorrow say inmate aim ignore summer penalty";

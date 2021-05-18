@@ -1,1 +1,1 @@
-var mnemonic = "blame army title remind skull odor change entire crop crouch glare tattoo";
+var mnemonic = "noodle trick window mobile holiday only avocado fine supreme minor enter exclude";

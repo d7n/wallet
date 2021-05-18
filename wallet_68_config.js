@@ -1,1 +1,1 @@
-var mnemonic = "wire rescue harvest spend rabbit ethics melody bracket grunt hundred dove change";
+var mnemonic = "estate result clinic rough slot blood feature ridge result cheap knock tissue";

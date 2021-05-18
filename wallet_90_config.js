@@ -1,1 +1,1 @@
-var mnemonic = "school knee dream shoot put vibrant ready rule spoil gas history dawn";
+var mnemonic = "easy glad steak sheriff call exist lava salt combine arrange slender audit";

@@ -1,1 +1,1 @@
-var mnemonic = "danger bitter please tired divide tilt degree library nasty bag deputy pulse";
+var mnemonic = "praise repeat fluid sketch maze quantum loop grief theory helmet return blue";

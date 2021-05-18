@@ -1,1 +1,1 @@
-var mnemonic = "slam cigar cabin job differ divide brass network cake record develop patrol";
+var mnemonic = "shoe palm field achieve imitate usual combine cattle want topic junior cram";

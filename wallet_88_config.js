@@ -1,1 +1,1 @@
-var mnemonic = "beef card multiply inquiry sniff creek cushion front primary napkin insect slender";
+var mnemonic = "bread tip suggest jungle pluck dynamic item wise obtain kitten vivid cycle";

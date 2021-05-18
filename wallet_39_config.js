@@ -1,1 +1,1 @@
-var mnemonic = "what gap usual monster dutch say banner use pulp please armed scale";
+var mnemonic = "weasel cat print genre matter wood ready evil armed scissors core chair";

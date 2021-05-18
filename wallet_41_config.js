@@ -1,1 +1,1 @@
-var mnemonic = "link satoshi decline impulse treat scheme asthma admit gun month theory hope";
+var mnemonic = "blood reveal volume okay creek treat hood pilot estate shadow elephant obscure";

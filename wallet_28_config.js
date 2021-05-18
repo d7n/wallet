@@ -1,1 +1,1 @@
-var mnemonic = "actress distance brush delay observe coin museum cost tobacco enlist cheese army";
+var mnemonic = "small stove loop use lottery dog radio drill shop excess dog under";

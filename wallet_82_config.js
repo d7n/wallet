@@ -1,1 +1,1 @@
-var mnemonic = "uncle panel valve way miracle evil imitate steel hope need carry fashion";
+var mnemonic = "exclude guard expect barrel problem cloud harvest boy evil upgrade federal various";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow runway laugh cart bless uphold benefit jealous assist timber success sport";
+var mnemonic = "hospital office seminar wave sell van curtain engine donor monster river spirit";

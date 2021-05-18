@@ -1,1 +1,1 @@
-var mnemonic = "sister tape need glue include panther devote nurse spare pride drastic enjoy";
+var mnemonic = "polar good luxury sort milk certain six access end autumn fold hidden";

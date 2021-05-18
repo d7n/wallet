@@ -1,1 +1,1 @@
-var mnemonic = "diet injury credit ring skill fox six stick garden useless neutral base";
+var mnemonic = "priority false stock consider stock inquiry hockey thrive behind essay enact refuse";

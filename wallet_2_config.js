@@ -1,1 +1,1 @@
-var mnemonic = "story sock foster borrow ill crane snack palm raven sponsor dirt cluster";
+var mnemonic = "adjust sea excite faith east hurdle chef simple learn sick atom box";

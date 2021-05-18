@@ -1,1 +1,1 @@
-var mnemonic = "flight chalk health safe song hope raise acid person neutral elephant found";
+var mnemonic = "finger car title brown whisper wing asset plate among draw catalog next";

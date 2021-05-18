@@ -1,1 +1,1 @@
-var mnemonic = "adult rapid long ready draw furnace glimpse health future jealous welcome fuel";
+var mnemonic = "educate stomach axis flight crater deliver health push pulp loyal mad best";

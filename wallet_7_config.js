@@ -1,1 +1,1 @@
-var mnemonic = "loop total series vanish build climb artefact delay throw illness apology amateur";
+var mnemonic = "cable finger roast record grape secret fix rose west relief kiss one";

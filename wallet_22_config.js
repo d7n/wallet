@@ -1,1 +1,1 @@
-var mnemonic = "narrow kiss enjoy swing fantasy hamster true fame notice tired glue symbol";
+var mnemonic = "cloud admit vendor mistake extra various first tilt curtain alien moon between";

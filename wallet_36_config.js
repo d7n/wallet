@@ -1,1 +1,1 @@
-var mnemonic = "canal neutral elegant fuel menu physical alley surround between airport brother dream";
+var mnemonic = "own grab harbor layer isolate decade fancy velvet paper ship cross outer";

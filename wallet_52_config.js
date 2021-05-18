@@ -1,1 +1,1 @@
-var mnemonic = "seek critic excess split throw about theme very quit pulse flag rice";
+var mnemonic = "proud curious elder wall true artwork rude face switch regret rate bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "category syrup nerve need omit share brisk hover shop eager clay indoor";
+var mnemonic = "spawn piano clean trap welcome clever curtain mouse green hope excess fee";

@@ -1,1 +1,1 @@
-var mnemonic = "off elbow paddle able remind about artwork purity course bulb crisp about";
+var mnemonic = "punch turtle smart fetch later stool oil borrow fit churn name title";

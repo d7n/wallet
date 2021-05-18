@@ -1,1 +1,1 @@
-var mnemonic = "mass season observe setup exact timber giraffe discover foot cost divorce mercy";
+var mnemonic = "produce sense replace will clip list excite frown cost liberty coyote useless";

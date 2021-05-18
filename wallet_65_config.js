@@ -1,1 +1,1 @@
-var mnemonic = "empty boost glue twenty live decide coyote hundred physical record essay solar";
+var mnemonic = "order salt air jungle diagram term ice damp swear vivid simple visit";

@@ -1,1 +1,1 @@
-var mnemonic = "tank size favorite pipe path refuse auction divide latin tenant machine early";
+var mnemonic = "target dawn yard illegal crisp coil forget physical cool feature digital front";

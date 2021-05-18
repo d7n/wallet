@@ -1,1 +1,1 @@
-var mnemonic = "trick behave head defy bronze quote motor cloud opera improve smile admit";
+var mnemonic = "reform cup margin aunt federal fabric health vital hood unfold steak improve";

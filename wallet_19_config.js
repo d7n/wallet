@@ -1,1 +1,1 @@
-var mnemonic = "early jewel helmet regular excite dolphin crazy street write detect term couple";
+var mnemonic = "luxury region impact enemy coil virtual cradle style blade sting remove jeans";

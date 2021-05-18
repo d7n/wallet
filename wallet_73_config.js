@@ -1,1 +1,1 @@
-var mnemonic = "famous wild gas dune better boat beyond sea deliver vintage abstract modify";
+var mnemonic = "birth stuff loop animal fragile retreat swear nut upper approve huge retreat";

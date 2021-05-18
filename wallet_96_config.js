@@ -1,1 +1,1 @@
-var mnemonic = "lamp believe together panic video attend boost match citizen renew hint angry";
+var mnemonic = "story tissue north deposit cigar erase venture trap term pioneer left vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "setup drill vehicle never ostrich prepare about lobster cost input depth snake";
+var mnemonic = "skull brown radar skill wealth crawl asset surround devote mercy bulk fitness";

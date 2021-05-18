@@ -1,1 +1,1 @@
-var mnemonic = "river entire survey vendor brick sail defy snack poem fluid erase better";
+var mnemonic = "silver hover unaware air trick eager awkward ordinary notice wink ship method";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket rocket ridge replace satisfy ripple trim sail monitor dad please task";
+var mnemonic = "human another board cause immense hedgehog letter opera throw meadow bargain cliff";

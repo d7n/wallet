@@ -1,1 +1,1 @@
-var mnemonic = "year pyramid canoe path arrange put army client bean sudden moral genius";
+var mnemonic = "play afford situate volcano isolate nut soul tail south borrow praise faith";

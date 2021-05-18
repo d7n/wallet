@@ -1,1 +1,1 @@
-var mnemonic = "tattoo alter holiday stomach resemble since text busy bleak school another duty";
+var mnemonic = "accident version fetch side crouch doctor ski parade umbrella insect equal army";

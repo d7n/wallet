@@ -1,1 +1,1 @@
-var mnemonic = "ignore net capital rain robust exchange link describe dust educate benefit green";
+var mnemonic = "join decrease oil silly pipe panther crack crouch drive divorce special sketch";

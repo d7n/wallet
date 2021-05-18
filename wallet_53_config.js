@@ -1,1 +1,1 @@
-var mnemonic = "coil suffer kind host next light visual drum blush dress feed security";
+var mnemonic = "unhappy universe lounge favorite barely gorilla family hobby raven tumble bulk sugar";

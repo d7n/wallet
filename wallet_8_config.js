@@ -1,1 +1,1 @@
-var mnemonic = "help exhibit mean sight reopen track inch maximum cause minor danger check";
+var mnemonic = "wire actress vast level lonely hold shy jacket penalty bean lion arctic";

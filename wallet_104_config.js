@@ -1,1 +1,1 @@
-var mnemonic = "label boy clown suffer wing vital champion jealous edge ankle piece plate";
+var mnemonic = "valid mystery trophy enact diet affair tribe dinosaur can push face put";

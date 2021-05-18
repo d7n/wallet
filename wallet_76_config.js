@@ -1,1 +1,1 @@
-var mnemonic = "else clip turn cereal balcony spike gain pledge monster august movie turtle";
+var mnemonic = "juice palace grab govern place soldier trip nurse iron melody off silent";

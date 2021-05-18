@@ -1,1 +1,1 @@
-var mnemonic = "check rose crowd mobile plastic crawl unit offer remain daughter pluck reward";
+var mnemonic = "roof shoulder waste forward month uphold economy decline donkey render follow attend";

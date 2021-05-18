@@ -1,1 +1,1 @@
-var mnemonic = "review arctic hover tissue program cradle asset curtain engine game strike cherry";
+var mnemonic = "attitude way luxury heart wet kit tree talk devote say extra basic";

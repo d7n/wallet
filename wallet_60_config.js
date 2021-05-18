@@ -1,1 +1,1 @@
-var mnemonic = "exercise refuse eyebrow toss blind legal tattoo daring ankle faith point response";
+var mnemonic = "depend wasp awful program scale dawn rural employ machine voyage aware crane";

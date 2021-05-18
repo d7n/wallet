@@ -1,1 +1,1 @@
-var mnemonic = "usage buzz cupboard illegal inquiry layer pluck off poverty script ceiling heart";
+var mnemonic = "grab craft pattern cable smoke town update pencil parade road marriage pond";

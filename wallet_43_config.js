@@ -1,1 +1,1 @@
-var mnemonic = "horse inspire soon huge episode pave worry first cause dove point valve";
+var mnemonic = "actor soup absurd cheap almost cotton fiber flash among mother ahead job";

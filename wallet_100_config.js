@@ -1,1 +1,1 @@
-var mnemonic = "tuition kick reject address unable cloth silly antenna exile inspire clap vessel";
+var mnemonic = "fat purpose insane spoon deny cover grocery hamster crush language glass staff";

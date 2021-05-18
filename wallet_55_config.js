@@ -1,1 +1,1 @@
-var mnemonic = "similar miracle lunch merit uncle sphere assault key umbrella goddess myth sing";
+var mnemonic = "sausage install code math erase zebra cloth arch cat item sausage cannon";

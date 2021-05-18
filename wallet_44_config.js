@@ -1,1 +1,1 @@
-var mnemonic = "sugar sick stumble violin wood miracle win mountain mechanic rubber burst custom";
+var mnemonic = "sting tree pelican artist tornado birth excite fox section rookie author true";

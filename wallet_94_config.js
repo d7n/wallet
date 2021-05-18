@@ -1,1 +1,1 @@
-var mnemonic = "hawk mandate seat very reveal build apology mom train asthma nuclear hamster";
+var mnemonic = "mistake happy tape trigger taxi enter toast hungry toss stadium people public";

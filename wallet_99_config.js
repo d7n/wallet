@@ -1,1 +1,1 @@
-var mnemonic = "make device cousin shadow smart weird shoe outer gift palm render wool";
+var mnemonic = "capable skirt bind road marble stable convince disorder trial alone toast visit";

@@ -1,1 +1,1 @@
-var mnemonic = "torch thunder fiber badge library divert soft element romance belt fever increase";
+var mnemonic = "require meadow fix laugh people fuel title evolve tornado convince student myself";

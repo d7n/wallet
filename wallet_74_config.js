@@ -1,1 +1,1 @@
-var mnemonic = "autumn resemble layer panic motor replace jungle bottom rib punch indoor panda";
+var mnemonic = "pluck kiss drive over north dose next scale bridge message slender clock";
