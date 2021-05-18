@@ -1,1 +1,1 @@
-var mnemonic = "swallow child burst crystal tragic canyon luggage mammal honey lunch cattle coffee";
+var mnemonic = "lottery jealous borrow round case defense fire require hamster eye army picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco rug museum sketch reveal pink camp like unfold busy bunker reopen";
+var mnemonic = "combine myself agent odor auction opera glow message key make industry kingdom";

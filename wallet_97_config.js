@@ -1,1 +1,1 @@
-var mnemonic = "ranch deer sister tomorrow poem cement bundle credit always section grow purity";
+var mnemonic = "knee song squeeze jungle stock arena puppy dizzy other milk crazy pony";

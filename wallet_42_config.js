@@ -1,1 +1,1 @@
-var mnemonic = "kitten tell grunt ski weird goose predict race curtain coin shoe law";
+var mnemonic = "dial bulb thought stove hire normal possible addict mirror arena panda enable";

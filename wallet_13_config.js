@@ -1,1 +1,1 @@
-var mnemonic = "benefit tooth then bright island chief ski village only blame pact layer";
+var mnemonic = "phrase basket benefit phone arctic silk eight pottery include attract seven angle";

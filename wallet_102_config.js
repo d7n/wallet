@@ -1,1 +1,1 @@
-var mnemonic = "flat more income segment option art merge eagle weather bless orient loan";
+var mnemonic = "mass include strong spray wing object supreme phrase impose edit earn salon";

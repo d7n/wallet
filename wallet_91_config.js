@@ -1,1 +1,1 @@
-var mnemonic = "jacket what fatigue magic own fan uncle domain setup vague stem pistol";
+var mnemonic = "enable excite vocal empower onion polar sentence lemon deal rural lyrics ice";

@@ -1,1 +1,1 @@
-var mnemonic = "lady letter enrich life skirt between pyramid rich cash slush harsh wreck";
+var mnemonic = "hockey topic glow balcony essay north behave waste dune various delay one";

@@ -1,1 +1,1 @@
-var mnemonic = "valve chunk right nephew pioneer kind faculty melt knife present recall shiver";
+var mnemonic = "offer runway action roast demise addict giggle news equip slender salmon awake";

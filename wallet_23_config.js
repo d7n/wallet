@@ -1,1 +1,1 @@
-var mnemonic = "exhibit walk oblige magic punch urban together silly estate ready upgrade kangaroo";
+var mnemonic = "mixture tuna solve property wave tunnel join jungle loud bridge distance above";

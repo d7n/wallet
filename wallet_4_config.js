@@ -1,1 +1,1 @@
-var mnemonic = "planet monkey tooth home monitor bless speak pulse chapter know arrest crouch";
+var mnemonic = "rescue runway victory pepper fit quote satisfy insect void lemon alley wheel";

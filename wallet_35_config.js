@@ -1,1 +1,1 @@
-var mnemonic = "boil stem list vapor strike pill super credit stable tragic dentist stay";
+var mnemonic = "state example urge liquid zone fortune about autumn sense shoot spike stove";

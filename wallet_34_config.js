@@ -1,1 +1,1 @@
-var mnemonic = "end abstract man student sure stomach tool erupt globe cable dress adjust";
+var mnemonic = "online loyal divide slot volume expose fun drip toast fix village shock";

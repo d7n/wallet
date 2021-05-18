@@ -1,1 +1,1 @@
-var mnemonic = "typical umbrella butter certain crush network ill round trigger make imitate youth";
+var mnemonic = "night weather west drum paper cover fatal sniff scheme armed suit broom";

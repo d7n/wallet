@@ -1,1 +1,1 @@
-var mnemonic = "memory save night disease diary mouse emerge pair prosper gym security normal";
+var mnemonic = "shoe century dismiss uncle work word lab two holiday pink member awkward";

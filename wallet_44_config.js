@@ -1,1 +1,1 @@
-var mnemonic = "cross blue churn effort time ability smart small maze coffee cat chair";
+var mnemonic = "verb suffer proud vocal skull result weasel east bridge relief solution produce";

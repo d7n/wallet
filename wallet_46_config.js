@@ -1,1 +1,1 @@
-var mnemonic = "hour inherit hockey salon silver electric boy morning hawk taste mind speak";
+var mnemonic = "shove web winner organ maple vault name autumn water rug supply cause";

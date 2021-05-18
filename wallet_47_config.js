@@ -1,1 +1,1 @@
-var mnemonic = "vast arm enhance hollow shield general brother ceiling entire aim issue elevator";
+var mnemonic = "seat thunder gun space put auction shoulder only announce sibling post shallow";

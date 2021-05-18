@@ -1,1 +1,1 @@
-var mnemonic = "fragile length avoid curve medal artefact boy water word wine supreme stairs";
+var mnemonic = "eye thing step cost play coffee inherit before entire demand oven genre";

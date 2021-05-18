@@ -1,1 +1,1 @@
-var mnemonic = "erupt obvious hold rare proof thrive silent write action when sugar direct";
+var mnemonic = "logic stove evidence viable sing feed seed skate glass midnight turkey olympic";

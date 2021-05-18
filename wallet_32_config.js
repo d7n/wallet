@@ -1,1 +1,1 @@
-var mnemonic = "owner shiver love there note observe orient vault omit remain dentist desk";
+var mnemonic = "daughter spread legal brush job ship bread month adapt run merit lend";

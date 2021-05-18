@@ -1,1 +1,1 @@
-var mnemonic = "climb shrug truly library found elite seed wine clever badge possible drip";
+var mnemonic = "remember post panda replace pudding alarm bamboo drastic language aisle concert quote";

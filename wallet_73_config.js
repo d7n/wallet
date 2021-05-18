@@ -1,1 +1,1 @@
-var mnemonic = "omit salad swallow attend swallow neck welcome pass rally vintage myself damage";
+var mnemonic = "trust choice brother candy risk rival story hotel hope fan velvet patrol";

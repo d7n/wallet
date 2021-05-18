@@ -1,1 +1,1 @@
-var mnemonic = "nut utility stamp begin chef force into supreme near whisper hospital throw";
+var mnemonic = "attack mouse net cherry refuse aerobic discover act exhibit amazing pulp alarm";

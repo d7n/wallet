@@ -1,1 +1,1 @@
-var mnemonic = "chase stamp grief bachelor such soap around celery scale cloth advice sand";
+var mnemonic = "arrest they film relief monkey husband arch mind dance blur convince oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "clog describe craft example hamster universe flush garment fix cool scan fluid";
+var mnemonic = "possible still endorse actor screen render faith tunnel noodle label hungry food";

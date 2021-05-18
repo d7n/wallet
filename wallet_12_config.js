@@ -1,1 +1,1 @@
-var mnemonic = "fortune screen whale cream state advance peace snow dish jaguar icon wedding";
+var mnemonic = "junk crowd enforce carry slender animal soda scrap alien fire bamboo festival";

@@ -1,1 +1,1 @@
-var mnemonic = "develop dawn burden hair erupt elegant axis imitate opera donate appear weather";
+var mnemonic = "punch evidence frost shock powder father solution public powder ribbon cost cause";

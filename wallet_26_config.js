@@ -1,1 +1,1 @@
-var mnemonic = "intact impose gather various verify tool head face total universe romance gold";
+var mnemonic = "coyote pigeon wedding elegant apart figure donate luxury session asset swift pet";

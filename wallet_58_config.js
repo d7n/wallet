@@ -1,1 +1,1 @@
-var mnemonic = "major rare people exhaust ring leg lounge sea glad cushion slogan chest";
+var mnemonic = "special merge slab possible north link service symbol garbage surge april consider";

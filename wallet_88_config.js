@@ -1,1 +1,1 @@
-var mnemonic = "thunder bike shrug goose hammer device under force thrive scatter spread gadget";
+var mnemonic = "pizza warrior deal three budget shy domain myth swim way social stamp";

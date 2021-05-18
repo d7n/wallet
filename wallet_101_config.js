@@ -1,1 +1,1 @@
-var mnemonic = "misery must hollow brass turkey apology federal idle pill click spin wish";
+var mnemonic = "sauce film great heart elephant taste coin glove pave enjoy hope scorpion";

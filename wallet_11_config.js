@@ -1,1 +1,1 @@
-var mnemonic = "grant almost law blast trend kitten double weasel decrease lesson enforce win";
+var mnemonic = "range prize rich atom panther armor clog runway answer fat decide tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "update hamster idea melody refuse host skull bean pluck dish gorilla mirror";
+var mnemonic = "weird language gold tiny lazy eye say desk purchase burger face velvet";

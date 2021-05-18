@@ -1,1 +1,1 @@
-var mnemonic = "hungry good entire swift limit thumb change guess cover prefer wrap point";
+var mnemonic = "must across under solution usual worry theme nation tomorrow cup oil kangaroo";

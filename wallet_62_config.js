@@ -1,1 +1,1 @@
-var mnemonic = "present loan dignity zebra grocery charge rebel empty idea matter utility zone";
+var mnemonic = "easy device hover depend purpose thought door series remove season friend sing";

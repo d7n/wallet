@@ -1,1 +1,1 @@
-var mnemonic = "champion used citizen trick advance measure mosquito useless either never park range";
+var mnemonic = "boy rebel symbol kid human someone hire large rare village walk suggest";

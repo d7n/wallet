@@ -1,1 +1,1 @@
-var mnemonic = "ready oblige village give regret sound welcome unable december attitude train chalk";
+var mnemonic = "will myself install cousin frog broccoli minimum coffee clinic soldier cushion arrive";

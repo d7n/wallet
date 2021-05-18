@@ -1,1 +1,1 @@
-var mnemonic = "select embody work embark undo member pen okay devote february leisure dash";
+var mnemonic = "suggest paddle maximum dynamic mechanic smoke priority vocal foster marriage female engine";

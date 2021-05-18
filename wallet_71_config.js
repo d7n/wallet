@@ -1,1 +1,1 @@
-var mnemonic = "between jungle broccoli success armed chaos they armor neutral season gauge bamboo";
+var mnemonic = "fly congress debate spread equal fever fly inject still strategy night tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "float little pact outdoor wire used finger similar stay evil such decrease";
+var mnemonic = "sort abstract offer build entire only hurdle pitch neck stairs gravity popular";

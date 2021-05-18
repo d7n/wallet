@@ -1,1 +1,1 @@
-var mnemonic = "broccoli rebuild safe chunk lion good walk attitude hockey elder torch barely";
+var mnemonic = "confirm base case bargain fault pet clump assault sail caught boil upper";

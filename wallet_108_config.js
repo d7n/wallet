@@ -1,1 +1,1 @@
-var mnemonic = "diagram hole mountain employ drive surprise tribe expire swallow demand father enact";
+var mnemonic = "harvest soldier health catalog stick man grunt program eye oppose climb pen";

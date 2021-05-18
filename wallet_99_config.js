@@ -1,1 +1,1 @@
-var mnemonic = "hip ticket garage aim clip maple response rich panda laundry still multiply";
+var mnemonic = "flame junior canal ghost music holiday burden coin nuclear height quarter smooth";

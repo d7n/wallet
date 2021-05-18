@@ -1,1 +1,1 @@
-var mnemonic = "account silent climb cost exile person summer car unit oven fire judge";
+var mnemonic = "bulk rice dizzy collect trouble undo place you buddy mimic trash choose";

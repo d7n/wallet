@@ -1,1 +1,1 @@
-var mnemonic = "quick dragon cross meadow field destroy manage attack census action lawn fly";
+var mnemonic = "moment amazing crunch rather harbor seek goat path cook conduct corn method";

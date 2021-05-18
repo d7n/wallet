@@ -1,1 +1,1 @@
-var mnemonic = "odor hammer dream blur road eyebrow alcohol west proud danger media health";
+var mnemonic = "phone interest quit divide stick crumble proud flame announce calm often fortune";

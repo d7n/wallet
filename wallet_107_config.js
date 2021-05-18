@@ -1,1 +1,1 @@
-var mnemonic = "ticket pen shock visual drive excess child arm bracket episode label nuclear";
+var mnemonic = "recall farm engine scan because drum jealous hawk session mystery chalk certain";

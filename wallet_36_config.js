@@ -1,1 +1,1 @@
-var mnemonic = "enhance horse shop photo virus dose state unfold betray glove decrease journey";
+var mnemonic = "tent mistake patch badge claw allow profit old one remember index cannon";

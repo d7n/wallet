@@ -1,1 +1,1 @@
-var mnemonic = "lawn slide settle journey push decline club pave want body ancient visa";
+var mnemonic = "ginger worry area industry various nerve spatial rapid thumb custom useless admit";

@@ -1,1 +1,1 @@
-var mnemonic = "shift enter depart upset become type fade reason sock earth artist party";
+var mnemonic = "visual cargo clay insane behave comic void unveil gauge cancel chef layer";

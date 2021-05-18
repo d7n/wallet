@@ -1,1 +1,1 @@
-var mnemonic = "truly cycle desk return draft similar jump bacon balance entire saddle mimic";
+var mnemonic = "stick wonder few occur surge chunk valve prosper clown carpet digital motor";

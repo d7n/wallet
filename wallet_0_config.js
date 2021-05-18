@@ -1,1 +1,1 @@
-var mnemonic = "gym donor rain drama slight destroy dove regular script bronze develop comic";
+var mnemonic = "expire gorilla prefer enough struggle vivid farm coconut labor come van salmon";

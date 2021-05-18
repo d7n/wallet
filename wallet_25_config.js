@@ -1,1 +1,1 @@
-var mnemonic = "decade useful pigeon almost fold certain clock interest drum fancy goat fame";
+var mnemonic = "blanket brain wave social steak glory milk identify broken kidney then task";

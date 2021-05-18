@@ -1,1 +1,1 @@
-var mnemonic = "average tobacco door valley glow fan enrich split long warm put course";
+var mnemonic = "develop arm picnic inmate model twenty ankle frequent swallow spring notice brother";

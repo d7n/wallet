@@ -1,1 +1,1 @@
-var mnemonic = "happy renew submit special impose resist venture purpose dentist robust syrup crop";
+var mnemonic = "caution motion hover guitar normal patrol ribbon easy hidden term range sentence";

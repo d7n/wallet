@@ -1,1 +1,1 @@
-var mnemonic = "tube suit before define result lemon oil unknown globe lyrics spread various";
+var mnemonic = "hope wreck comic height chuckle stairs capital pulse medal inflict beauty infant";

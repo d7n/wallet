@@ -1,1 +1,1 @@
-var mnemonic = "pulp girl hello stick more radar old melody myself clarify accident fruit";
+var mnemonic = "truth promote tonight brown coin cube enhance dial betray buffalo attract slot";

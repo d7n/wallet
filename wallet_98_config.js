@@ -1,1 +1,1 @@
-var mnemonic = "warfare will cactus hungry dad harbor equip orchard brush tenant cement address";
+var mnemonic = "palm pony guitar join local fatigue mean sponsor coral critic marine coffee";

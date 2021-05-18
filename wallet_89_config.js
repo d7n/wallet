@@ -1,1 +1,1 @@
-var mnemonic = "clump tattoo bird bubble chunk gown rebel excite life remember capital slight";
+var mnemonic = "box forget boil main universe outdoor useful distance pyramid elite earn element";

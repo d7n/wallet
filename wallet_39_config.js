@@ -1,1 +1,1 @@
-var mnemonic = "bulk cereal near wool public rely book defense village grocery aisle original";
+var mnemonic = "report icon crisp first what know snap better same swallow merge craft";

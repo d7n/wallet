@@ -1,1 +1,1 @@
-var mnemonic = "silent reunion gorilla swallow round wisdom suspect hope arrow smooth decade wrap";
+var mnemonic = "gas gravity face ginger valve amateur live cluster later mammal youth funny";

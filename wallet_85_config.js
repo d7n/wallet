@@ -1,1 +1,1 @@
-var mnemonic = "infant tribe false arch present wagon spoon rail wild reduce enjoy glory";
+var mnemonic = "honey vague payment ensure hard install just aim focus soup column lonely";

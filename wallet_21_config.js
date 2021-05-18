@@ -1,1 +1,1 @@
-var mnemonic = "soft pen choose rather attract priority elder print quiz practice wish please";
+var mnemonic = "work essay turtle field butter miss carpet benefit august oppose cherry oxygen";

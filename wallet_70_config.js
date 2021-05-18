@@ -1,1 +1,1 @@
-var mnemonic = "tube initial soldier travel cargo congress slab fetch topic warrior song drink";
+var mnemonic = "turtle polar gain smile emotion time control hub market curve shuffle faint";

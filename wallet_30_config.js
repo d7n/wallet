@@ -1,1 +1,1 @@
-var mnemonic = "spice woman mobile decide dice life material glow water talk power zero";
+var mnemonic = "avocado guitar movie cattle scissors shy napkin coast toss street sort solid";

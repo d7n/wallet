@@ -1,1 +1,1 @@
-var mnemonic = "nephew enroll void amount tide tissue forward crack cigar wage dust detail";
+var mnemonic = "side reduce arrow bind delay bird grid snow rival size ill audit";

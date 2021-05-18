@@ -1,1 +1,1 @@
-var mnemonic = "pear monitor guess antique tunnel exact above eyebrow still prepare category lion";
+var mnemonic = "shove cement teach pool add enforce shallow pumpkin source strategy split exhibit";

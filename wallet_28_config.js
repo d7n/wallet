@@ -1,1 +1,1 @@
-var mnemonic = "crop action oyster rapid news ensure muscle strong tired matrix move feel";
+var mnemonic = "life install cherry movie drama burst pen flight outside power eternal repair";

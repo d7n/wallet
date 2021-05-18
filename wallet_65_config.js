@@ -1,1 +1,1 @@
-var mnemonic = "depend cube viable merry various attitude text load broken wheel now tool";
+var mnemonic = "skirt aerobic tragic ensure virtual voice ancient parrot poem welcome prosper pride";

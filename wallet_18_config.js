@@ -1,1 +1,1 @@
-var mnemonic = "robust capital feature trouble street curious disorder eyebrow chapter enact upset ordinary";
+var mnemonic = "twenty phrase video behave sudden inmate equal decrease gospel all must palm";

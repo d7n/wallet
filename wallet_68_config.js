@@ -1,1 +1,1 @@
-var mnemonic = "bird hip tragic length behave mirror wish feature village juice since mercy";
+var mnemonic = "feed blind asthma tragic leaf park early emerge broken brass pepper meat";

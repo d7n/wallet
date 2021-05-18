@@ -1,1 +1,1 @@
-var mnemonic = "bitter apart bar tunnel daughter object party athlete token proof enough wear";
+var mnemonic = "curtain venture trend ugly useful senior sun hazard open reveal must width";

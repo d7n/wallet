@@ -1,1 +1,1 @@
-var mnemonic = "farm shoe turtle curious erupt inmate trigger path cry comic aisle humor";
+var mnemonic = "despair gentle ecology artist vicious hungry cradle easy ability alarm raccoon camp";

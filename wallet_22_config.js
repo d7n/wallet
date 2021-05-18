@@ -1,1 +1,1 @@
-var mnemonic = "depth sausage width ugly gain mutual bulb stand melody lock hover hand";
+var mnemonic = "yard until ride purchase pulse duty game rocket victory excess mirror manage";

@@ -1,1 +1,1 @@
-var mnemonic = "glass cake input symptom kiss wet visa banner almost high lock tattoo";
+var mnemonic = "clip kiss wear donate oval decide large save used sorry myth impose";

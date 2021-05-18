@@ -1,1 +1,1 @@
-var mnemonic = "twin only found pulse thunder borrow elevator below lecture teach manage trumpet";
+var mnemonic = "zoo focus novel shop lumber more mean gesture satisfy step ribbon kitchen";

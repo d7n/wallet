@@ -1,1 +1,1 @@
-var mnemonic = "nut top point trophy case dream cradle end program toast orphan toy";
+var mnemonic = "bomb theory deputy seven black elbow switch rocket embody neutral patrol ask";

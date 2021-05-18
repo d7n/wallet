@@ -1,1 +1,1 @@
-var mnemonic = "photo garlic soft risk donkey false remind town sausage test mirror sketch";
+var mnemonic = "intact toward access deposit penalty exile shuffle size ecology spice catalog frame";

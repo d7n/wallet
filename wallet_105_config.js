@@ -1,1 +1,1 @@
-var mnemonic = "vacuum glass aware jewel weasel below settle since powder wise depart lab";
+var mnemonic = "until stable mad skate solve erosion hen patrol supreme manual clock bulb";

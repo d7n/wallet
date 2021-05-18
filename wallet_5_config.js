@@ -1,1 +1,1 @@
-var mnemonic = "element recall ski hint update rare penalty define donor error matrix view";
+var mnemonic = "carbon gauge input symptom satoshi finger adapt copy conduct wet match since";

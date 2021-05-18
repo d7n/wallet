@@ -1,1 +1,1 @@
-var mnemonic = "tape vapor brush daring artist giggle major color stick tomato upper turn";
+var mnemonic = "bench sad wrestle play waste arrange shed pear riot domain silly clay";

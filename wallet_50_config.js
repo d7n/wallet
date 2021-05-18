@@ -1,1 +1,1 @@
-var mnemonic = "powder piece float reward address test melody absorb now maid innocent shaft";
+var mnemonic = "door mail spoon monkey inflict remember eight cupboard certain secret van festival";

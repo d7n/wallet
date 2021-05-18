@@ -1,1 +1,1 @@
-var mnemonic = "course robot brisk heavy catch glue runway deny syrup annual thrive purpose";
+var mnemonic = "lens soccer salon rotate school target differ scrap awake lens burst piano";

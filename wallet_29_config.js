@@ -1,1 +1,1 @@
-var mnemonic = "galaxy acid barrel long venture allow salmon solar crop salad mystery claim";
+var mnemonic = "bounce enlist category spot vivid artist orphan leg planet guitar praise trophy";

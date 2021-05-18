@@ -1,1 +1,1 @@
-var mnemonic = "minute test convince already air question march leopard pepper scale wave goddess";
+var mnemonic = "orange morning earn six tone magic belt cargo until about rare salon";

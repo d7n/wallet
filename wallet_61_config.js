@@ -1,1 +1,1 @@
-var mnemonic = "split space trust use august topic mother desk enlist power gaze hurry";
+var mnemonic = "still pledge treat gloom junk gym lonely jealous gauge pact employ bronze";

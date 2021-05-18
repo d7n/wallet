@@ -1,1 +1,1 @@
-var mnemonic = "pigeon coast depth stone drop merry second cream consider again lazy swim";
+var mnemonic = "second sight exchange load swear point face swallow room slogan sentence involve";

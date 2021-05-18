@@ -1,1 +1,1 @@
-var mnemonic = "harsh artwork travel suspect all ocean flip stomach trigger mammal enhance jacket";
+var mnemonic = "camera note penalty balcony step install rice perfect between glove loan bright";

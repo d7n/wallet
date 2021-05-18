@@ -1,1 +1,1 @@
-var mnemonic = "below zoo breeze parade receive allow tower worth clip ladder essay science";
+var mnemonic = "student salon fine goddess private alien object fun town anxiety arena casual";

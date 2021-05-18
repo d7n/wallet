@@ -1,1 +1,1 @@
-var mnemonic = "panic vendor damage hidden powder sea pony foot reform fox final manual";
+var mnemonic = "leg swing plug gown hurt radar pioneer city belt display target game";

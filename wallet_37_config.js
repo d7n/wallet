@@ -1,1 +1,1 @@
-var mnemonic = "fold check kiss father addict visa crater whisper file awesome black legend";
+var mnemonic = "bullet nest fossil spirit settle chimney narrow yellow dance weather differ purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "other flush require wolf involve furnace submit asthma cushion brick promote night";
+var mnemonic = "utility lazy certain account curtain conduct asthma any slow service title loud";

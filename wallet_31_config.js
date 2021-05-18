@@ -1,1 +1,1 @@
-var mnemonic = "captain close dust indicate together riot nut gasp sunset push language surge";
+var mnemonic = "patch spread about later also hard flush what gallery note garlic ball";

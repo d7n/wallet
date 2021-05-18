@@ -1,1 +1,1 @@
-var mnemonic = "impose diagram basket kind small invest fancy cart soccer canoe mother twelve";
+var mnemonic = "purpose car draw canvas orange myth minimum dynamic ranch skin banner depart";
