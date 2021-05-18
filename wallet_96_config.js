@@ -1,1 +1,1 @@
-var mnemonic = "ecology vivid bench solar taste humor palace globe museum pass stool grain";
+var mnemonic = "cover device switch pelican record mother razor nut anxiety two electric basket";

@@ -1,1 +1,1 @@
-var mnemonic = "among bind scatter stem culture future imitate fox dose fog produce debris";
+var mnemonic = "giant churn agree conduct awake slide impulse claw pig town provide mean";

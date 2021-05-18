@@ -1,1 +1,1 @@
-var mnemonic = "shift engage unhappy hat lumber warm squeeze fun neglect quality response orphan";
+var mnemonic = "sell group child six despair call spawn truth west fancy symptom belt";

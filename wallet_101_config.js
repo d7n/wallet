@@ -1,1 +1,1 @@
-var mnemonic = "bunker walnut arrange hobby enjoy layer flock double artwork wire visual manual";
+var mnemonic = "diagram steel liberty decline travel fantasy finger soap lucky ranch guilt labor";

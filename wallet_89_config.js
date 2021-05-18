@@ -1,1 +1,1 @@
-var mnemonic = "come survey tag gospel wild joke group glare ripple matter lift day";
+var mnemonic = "critic load armor load erase cream arctic aspect design beyond idea unfair";

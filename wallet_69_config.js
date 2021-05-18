@@ -1,1 +1,1 @@
-var mnemonic = "latin kit east team accuse quality route thumb civil valid nominee flush";
+var mnemonic = "school aerobic bright yellow race slender ridge connect enjoy cute satisfy blanket";

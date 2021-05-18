@@ -1,1 +1,1 @@
-var mnemonic = "hole cram indicate pretty lumber betray also assault ask arrive neither post";
+var mnemonic = "furnace pulp garden suffer dream mule hint remember viable spider cannon believe";

@@ -1,1 +1,1 @@
-var mnemonic = "car mosquito sniff orient reunion distance mix exchange giant spirit equip virus";
+var mnemonic = "rubber noble glide able honey reward supreme veteran tray cost shy unfold";

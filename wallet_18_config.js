@@ -1,1 +1,1 @@
-var mnemonic = "science victory drift pulp sponsor affair blade marble attitude idea rich wink";
+var mnemonic = "success ranch small proof style remove angle outdoor wife grief merry cash";

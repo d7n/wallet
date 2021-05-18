@@ -1,1 +1,1 @@
-var mnemonic = "hope lonely caution lift cable force object talent weapon shrug broccoli puzzle";
+var mnemonic = "piano misery intact lesson attend process debate foster fragile install year spoon";

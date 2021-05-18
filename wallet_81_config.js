@@ -1,1 +1,1 @@
-var mnemonic = "frame finger trial blouse elder emotion tag picnic kitten upon make extra";
+var mnemonic = "clean antique undo mirror pigeon used hill swift bar banner suggest fatal";

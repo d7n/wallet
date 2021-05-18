@@ -1,1 +1,1 @@
-var mnemonic = "keep kitten actor install cry predict trim surface pulse service kitten other";
+var mnemonic = "mule track leaf fabric invest lonely canvas screen embody danger maple view";

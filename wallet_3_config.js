@@ -1,1 +1,1 @@
-var mnemonic = "spread cradle seminar train bridge payment puzzle car shoulder wild will foster";
+var mnemonic = "rice dolphin bunker shuffle biology orient near upon remember ridge digital truly";

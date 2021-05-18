@@ -1,1 +1,1 @@
-var mnemonic = "worry reward drop worth sauce siege crystal twelve loud piece trim add";
+var mnemonic = "race witness sense exercise glide such verify habit dust praise vocal regret";

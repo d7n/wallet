@@ -1,1 +1,1 @@
-var mnemonic = "wall scrub upon solar thought vicious scene long fluid marble badge network";
+var mnemonic = "road cancel happy tiger peanut tip lonely reject essence quiz labor street";

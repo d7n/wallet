@@ -1,1 +1,1 @@
-var mnemonic = "elevator attract whip pool awful eager attend car fog knock modify where";
+var mnemonic = "around rifle cotton strong dream bleak media bacon elegant sibling rural document";

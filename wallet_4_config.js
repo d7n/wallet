@@ -1,1 +1,1 @@
-var mnemonic = "census amused vast cabin finish achieve shuffle reject holiday upgrade holiday reward";
+var mnemonic = "grain paddle thank siren knock ancient enemy harsh slush save write glory";

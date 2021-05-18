@@ -1,1 +1,1 @@
-var mnemonic = "town concert pudding craft jacket ugly chat notable worry bullet scale impact";
+var mnemonic = "plug essay amused utility easy ship boil amazing patrol reflect grain blind";

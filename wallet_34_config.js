@@ -1,1 +1,1 @@
-var mnemonic = "moon uncover sound seminar buffalo urge embody galaxy armor cram crawl boring";
+var mnemonic = "kiss path barrel spike helmet mother face canvas position famous page gentle";

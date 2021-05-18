@@ -1,1 +1,1 @@
-var mnemonic = "genre add forum brush eagle rabbit target concert mechanic marble seminar vote";
+var mnemonic = "shy boring engine noise typical pave lecture stage enemy elder inquiry error";

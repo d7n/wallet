@@ -1,1 +1,1 @@
-var mnemonic = "sense surge benefit lift pipe earth frown run cushion asthma hand picnic";
+var mnemonic = "match glow hotel lecture same awake resemble region merry home involve dash";

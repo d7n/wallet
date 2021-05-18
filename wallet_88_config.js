@@ -1,1 +1,1 @@
-var mnemonic = "insane effort east december crime keen suspect flower olympic resource toddler echo";
+var mnemonic = "choice release hunt lizard pony member arena issue sort flight raise hidden";

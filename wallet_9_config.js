@@ -1,1 +1,1 @@
-var mnemonic = "neutral piano explain define verb noble cook armed leg glide huge chat";
+var mnemonic = "this region beyond lock attend return sketch blade idle three zoo wife";

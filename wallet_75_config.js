@@ -1,1 +1,1 @@
-var mnemonic = "pitch fresh cause day certain cruel spoon country will fossil list defy";
+var mnemonic = "target grass service sister miss draft joy random erupt budget vast plug";

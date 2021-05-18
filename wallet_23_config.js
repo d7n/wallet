@@ -1,1 +1,1 @@
-var mnemonic = "goat fire term blind enrich security memory trigger object seat sweet payment";
+var mnemonic = "toe tray muffin sad audit enable ticket service bar seven vehicle oblige";

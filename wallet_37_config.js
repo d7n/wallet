@@ -1,1 +1,1 @@
-var mnemonic = "always save tornado lend enjoy invite organ arm chronic employ erupt owner";
+var mnemonic = "voyage embody only light youth huge hungry myth charge mimic tiny manage";

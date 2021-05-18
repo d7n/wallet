@@ -1,1 +1,1 @@
-var mnemonic = "split hill wagon gown brown ignore almost frozen skin bundle crane forum";
+var mnemonic = "void figure school arena original lady opinion stage stairs symptom glue table";

@@ -1,1 +1,1 @@
-var mnemonic = "private kangaroo bike much poet recall apology ginger replace woman panic tattoo";
+var mnemonic = "verb cool senior thumb pull reopen congress rice eyebrow market despair skill";

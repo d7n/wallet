@@ -1,1 +1,1 @@
-var mnemonic = "scrub season horse luxury goddess muscle field chest ability behind onion blossom";
+var mnemonic = "cake army hunt example give sketch logic labor net morning tent cost";

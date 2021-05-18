@@ -1,1 +1,1 @@
-var mnemonic = "blame sphere float way manual genuine toe area random track crazy mixed";
+var mnemonic = "again assume toe cheap endorse wisdom rail walnut detail slam load cricket";

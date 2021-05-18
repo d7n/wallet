@@ -1,1 +1,1 @@
-var mnemonic = "pride act custom hill begin style certain virtual metal tunnel gown float";
+var mnemonic = "plastic wonder real pattern ginger float moment dog accident boy shop combine";

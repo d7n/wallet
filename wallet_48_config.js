@@ -1,1 +1,1 @@
-var mnemonic = "skate mixture mass number monster uncle wild siren section fog pulp angry";
+var mnemonic = "picture rack shell spirit churn zone swallow twelve patch bird pool unlock";

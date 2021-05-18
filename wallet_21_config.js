@@ -1,1 +1,1 @@
-var mnemonic = "uncle party lamp cream dose cargo tongue sight glance absorb keep tape";
+var mnemonic = "model asset sentence catalog rent dry cruel sting ahead demand swarm rigid";

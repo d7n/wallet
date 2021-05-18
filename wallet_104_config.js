@@ -1,1 +1,1 @@
-var mnemonic = "duty drama victory gain member opinion flame glare swarm height figure resist";
+var mnemonic = "success weapon middle glance other whisper local energy under joy grit wedding";

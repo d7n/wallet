@@ -1,1 +1,1 @@
-var mnemonic = "mind flame produce swear explain range hint outside strike give vocal nasty";
+var mnemonic = "margin awake torch short before various document box first polar industry swim";

@@ -1,1 +1,1 @@
-var mnemonic = "exact element crew decrease uphold survey hip various collect pluck reject say";
+var mnemonic = "toward admit mail divorce connect devote nothing online exist cabbage visual under";

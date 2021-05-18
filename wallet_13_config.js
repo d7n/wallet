@@ -1,1 +1,1 @@
-var mnemonic = "business stereo you athlete rural credit update subject fortune brief shrimp about";
+var mnemonic = "first violin book grape undo harvest verify lyrics bacon hawk act opera";

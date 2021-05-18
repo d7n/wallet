@@ -1,1 +1,1 @@
-var mnemonic = "elevator undo luggage mansion sorry hand hover edit narrow shy fun decide";
+var mnemonic = "eye bubble appear boss service acid blast spend lemon delay discover movie";

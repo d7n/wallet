@@ -1,1 +1,1 @@
-var mnemonic = "scout alien alert under tunnel whip bleak spoon bag liquid slush also";
+var mnemonic = "caution size truly cover strike zero piano vendor game erupt spare betray";

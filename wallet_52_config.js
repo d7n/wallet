@@ -1,1 +1,1 @@
-var mnemonic = "obscure skin pyramid silly magnet resemble gate state trim sample dust hungry";
+var mnemonic = "own nut lock boss boy pioneer indicate brother ritual enlist rubber harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "upper oval suggest acoustic treat decide draw enroll lobster balcony share noise";
+var mnemonic = "boost infant oppose sniff shift occur noise hire select caution debate guilt";

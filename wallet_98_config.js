@@ -1,1 +1,1 @@
-var mnemonic = "subway measure admit notable beyond truck orient will track world change price";
+var mnemonic = "depend predict hint ocean master minimum dumb garlic afford palm senior public";

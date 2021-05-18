@@ -1,1 +1,1 @@
-var mnemonic = "kit cannon truly october unusual maximum kitchen page north purity mountain alter";
+var mnemonic = "receive disease entry asthma frozen cricket base scissors enlist hip rival abuse";

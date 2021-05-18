@@ -1,1 +1,1 @@
-var mnemonic = "code dish easy black youth walk lemon tray cram ice pattern grunt";
+var mnemonic = "mix veteran pause state nut excuse attitude stock either patrol soup ship";

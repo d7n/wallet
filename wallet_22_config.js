@@ -1,1 +1,1 @@
-var mnemonic = "acid dice grain shuffle receive mistake crew smile ghost wet debate chuckle";
+var mnemonic = "syrup second reform saddle depart valid brick approve middle miss inquiry wood";

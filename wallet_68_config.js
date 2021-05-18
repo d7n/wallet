@@ -1,1 +1,1 @@
-var mnemonic = "total toast aerobic movie board lend country summer predict ugly apple earth";
+var mnemonic = "lounge any island detail prepare glue jump have cherry entire boat load";

@@ -1,1 +1,1 @@
-var mnemonic = "pet sweet jar business myself stone angry potato squeeze traffic unique derive";
+var mnemonic = "ankle skull jump canal pumpkin cheap cheese term pumpkin success inch rack";

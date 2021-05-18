@@ -1,1 +1,1 @@
-var mnemonic = "juice ensure inspire step motion mechanic tortoise peasant debate year curve battle";
+var mnemonic = "force way merit broken evoke holiday kiss mom enhance because negative rate";

@@ -1,1 +1,1 @@
-var mnemonic = "essay fiber laptop theory muffin flee nation foam fruit trim napkin ring";
+var mnemonic = "head picnic stable way soldier prosper real doctor forward pond lava air";

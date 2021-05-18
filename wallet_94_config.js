@@ -1,1 +1,1 @@
-var mnemonic = "movie equal arrow deny luggage clump pole gown tenant fruit brave sting";
+var mnemonic = "proof weird arrest fence draw recycle tray afford nephew help mosquito slogan";

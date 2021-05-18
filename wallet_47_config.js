@@ -1,1 +1,1 @@
-var mnemonic = "retreat glove weekend actual resist mouse mix marble invest slim measure light";
+var mnemonic = "kit gown board mistake student debate repeat action put already such nephew";

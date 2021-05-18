@@ -1,1 +1,1 @@
-var mnemonic = "thrive risk adapt slight awkward topple sniff evoke option excess protect predict";
+var mnemonic = "draft script hover black abstract toast unusual finish close truth adapt fork";

@@ -1,1 +1,1 @@
-var mnemonic = "topic check engine merit buyer wave purity enforce sun say stock heavy";
+var mnemonic = "shock cake globe give egg quick skate exhaust beauty come silk grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate color hazard rally urban sick wild enlist wink exact visa behind";
+var mnemonic = "genre afford dove thought curious ankle ozone salmon senior hint beauty corn";

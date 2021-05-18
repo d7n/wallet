@@ -1,1 +1,1 @@
-var mnemonic = "source cigar gadget hybrid fury pact couch lunch dilemma aerobic disorder fix";
+var mnemonic = "similar dignity beyond remove supply pudding arrow sound exhibit rocket vote system";

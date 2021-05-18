@@ -1,1 +1,1 @@
-var mnemonic = "frost cash live chase extend proof rocket cruise myth clip puzzle lonely";
+var mnemonic = "choose fatal record thank fetch hill three lab possible range cable rain";

@@ -1,1 +1,1 @@
-var mnemonic = "manual phone design slot rapid couple spin estate lesson chat visit scrap";
+var mnemonic = "disease december cargo hope timber puppy joy region lend citizen crime fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "law mimic crucial snake belt volume kid convince decline divide enforce job";
+var mnemonic = "attract disease valve next noble level april addict wear dwarf lizard legend";

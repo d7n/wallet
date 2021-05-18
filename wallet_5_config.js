@@ -1,1 +1,1 @@
-var mnemonic = "short oak clutch gift blossom race retire love parrot poverty filter asthma";
+var mnemonic = "sauce planet crane dose human dream sustain sleep host bleak autumn chair";

@@ -1,1 +1,1 @@
-var mnemonic = "right bless warfare replace bridge bargain multiply outside moral drum solve exist";
+var mnemonic = "record search master system pattern canvas polar sniff expose enable sausage wife";

@@ -1,1 +1,1 @@
-var mnemonic = "since subway radar yard grape auto brown maze brother project economy genius";
+var mnemonic = "warrior roast flavor fancy inch point bitter obvious airport angry draw caution";

@@ -1,1 +1,1 @@
-var mnemonic = "census spot slot chef frequent vote square clutch scrap slow click destroy";
+var mnemonic = "bracket hood memory cattle banana spawn marble idea answer since safe orbit";

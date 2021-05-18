@@ -1,1 +1,1 @@
-var mnemonic = "dad unhappy venue genre owner size east clarify mixed visit piano kite";
+var mnemonic = "wage network web chaos rug fruit moral muffin puzzle usage horror brother";

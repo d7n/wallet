@@ -1,1 +1,1 @@
-var mnemonic = "suspect dutch manual assist surround ivory opinion saddle ritual spy fetch nose";
+var mnemonic = "guitar space empty coffee cement element tide already february couch ask check";

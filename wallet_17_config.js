@@ -1,1 +1,1 @@
-var mnemonic = "erupt figure cactus mind update garlic tool poem renew dumb prepare balance";
+var mnemonic = "either double warfare funny fire finger short blur system rival theme lift";

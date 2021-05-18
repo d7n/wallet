@@ -1,1 +1,1 @@
-var mnemonic = "spray swap guard immense inject doll end patch guide leader lobster fence";
+var mnemonic = "leopard baby choose purchase cart lens post earth south powder absorb unknown";

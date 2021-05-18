@@ -1,1 +1,1 @@
-var mnemonic = "minimum extend breeze scissors unfold endorse endless elevator distance valve seminar moral";
+var mnemonic = "sunny captain awkward vacant short smoke sustain umbrella benefit hour cricket mention";

@@ -1,1 +1,1 @@
-var mnemonic = "draw forum hurry view tail coyote hover base liquid shift buyer sentence";
+var mnemonic = "crazy boost must stock warrior hood gospel uniform blade flavor drift circle";

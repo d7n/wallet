@@ -1,1 +1,1 @@
-var mnemonic = "vanish egg stock slab split embrace unhappy blame hero employ pelican across";
+var mnemonic = "wonder again sound problem woman sword own slice tomorrow opinion wait inquiry";

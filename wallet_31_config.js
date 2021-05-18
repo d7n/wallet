@@ -1,1 +1,1 @@
-var mnemonic = "pipe series leisure fiction injury bundle wet nominee sponsor glance piece risk";
+var mnemonic = "tooth awful axis damage crumble bubble expire model memory sing there tumble";

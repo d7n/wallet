@@ -1,1 +1,1 @@
-var mnemonic = "sister success pink phrase orchard journey chronic life festival sphere addict neglect";
+var mnemonic = "soul ancient coach cotton alter believe combine actress purse duty north win";

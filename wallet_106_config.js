@@ -1,1 +1,1 @@
-var mnemonic = "patrol cruel badge loan symbol monkey soccer hurt kingdom grief brain wedding";
+var mnemonic = "under salon time wool uniform practice track obey submit tumble journey casino";

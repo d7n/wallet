@@ -1,1 +1,1 @@
-var mnemonic = "palm sorry lawsuit antique gasp scene net correct claw stool pizza goose";
+var mnemonic = "gorilla where solve theory license rapid vacuum exchange network slab convince super";

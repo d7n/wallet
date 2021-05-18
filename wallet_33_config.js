@@ -1,1 +1,1 @@
-var mnemonic = "ahead sibling science random impose extra offer energy give kid element hair";
+var mnemonic = "cluster inject furnace cereal portion treat chalk axis ribbon minor gift vanish";

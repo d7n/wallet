@@ -1,1 +1,1 @@
-var mnemonic = "poverty bag retire choose fade throw narrow fatigue adapt elegant prevent inject";
+var mnemonic = "tube pencil duty glow peace jazz alert prepare globe tennis omit jar";

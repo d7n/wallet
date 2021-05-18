@@ -1,1 +1,1 @@
-var mnemonic = "wine rude planet advance winner attack plate coral prize wrist practice spawn";
+var mnemonic = "genuine input barely prefer place drift flash quality rigid guard share okay";

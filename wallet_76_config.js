@@ -1,1 +1,1 @@
-var mnemonic = "curve bottom cotton banana squeeze able pig park giraffe price antenna sponsor";
+var mnemonic = "struggle together banner utility glimpse wolf carry original network side wide eager";

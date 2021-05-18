@@ -1,1 +1,1 @@
-var mnemonic = "hard also rib dry demand once treat trap weekend change bid demise";
+var mnemonic = "answer world daughter chef rail flag police lava dry chunk install snap";

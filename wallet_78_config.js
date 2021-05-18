@@ -1,1 +1,1 @@
-var mnemonic = "pass place wish run snap metal garbage grace worth attitude gas lawsuit";
+var mnemonic = "toss bounce cash destroy number nature ridge satisfy come tomato cotton name";

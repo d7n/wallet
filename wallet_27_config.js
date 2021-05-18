@@ -1,1 +1,1 @@
-var mnemonic = "inhale surround exist renew dove pill learn space track power apology rail";
+var mnemonic = "talent mobile resource knock chat false stay enact love purpose that arctic";

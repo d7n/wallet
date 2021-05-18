@@ -1,1 +1,1 @@
-var mnemonic = "estate hybrid leopard rescue can put height identify island cigar success immune";
+var mnemonic = "note wing seek client state habit neglect notice stumble neck minor cram";

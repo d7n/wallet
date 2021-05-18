@@ -1,1 +1,1 @@
-var mnemonic = "material raise festival maximum aspect wasp daughter child short brown board emerge";
+var mnemonic = "problem mansion welcome age coffee rack summer hover bargain pluck anger hawk";

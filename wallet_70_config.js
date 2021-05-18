@@ -1,1 +1,1 @@
-var mnemonic = "food used rack hurdle like supreme disease dizzy resemble abandon arch range";
+var mnemonic = "rib pact cattle oxygen lemon word surprise pilot now carbon sleep average";

@@ -1,1 +1,1 @@
-var mnemonic = "rural swim humor regular twist win sphere initial erupt clown final unlock";
+var mnemonic = "useless people shine connect typical surround wire agree blind view fruit camera";

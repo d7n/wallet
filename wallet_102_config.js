@@ -1,1 +1,1 @@
-var mnemonic = "trick actual input skin hello unfold bomb economy leisure file addict roof";
+var mnemonic = "fresh kid crystal panda moon lunar verb price multiply kitchen spare common";

@@ -1,1 +1,1 @@
-var mnemonic = "review quick certain window fringe village polar deal today consider motion goose";
+var mnemonic = "avocado that spider aware screen shop label desert middle path cancel imitate";

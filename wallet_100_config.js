@@ -1,1 +1,1 @@
-var mnemonic = "daughter match top famous laptop weird taste crowd appear pact case exotic";
+var mnemonic = "boost gather cover little wall churn nose kit text mouse desk artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "work reform lend sport bullet sister chair stand awful hawk document margin";
+var mnemonic = "diet buffalo metal imitate layer angle panic half ridge train this neither";

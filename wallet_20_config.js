@@ -1,1 +1,1 @@
-var mnemonic = "wreck trap calm crater boil render this rare brush echo report adapt";
+var mnemonic = "drip fuel guide spoil sketch space illness extra empty credit gallery three";

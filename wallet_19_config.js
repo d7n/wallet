@@ -1,1 +1,1 @@
-var mnemonic = "warrior enroll outer horse method hockey alone viable clog they raccoon viable";
+var mnemonic = "method ostrich text escape sphere soldier neither panel pupil leaf fine aware";

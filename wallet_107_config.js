@@ -1,1 +1,1 @@
-var mnemonic = "joke material stadium avocado off obvious bachelor palm affair hour angry observe";
+var mnemonic = "forward holiday garlic pink bless garage dust regret news parade damage mango";
