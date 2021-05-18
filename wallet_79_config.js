@@ -1,1 +1,1 @@
-var mnemonic = "miracle salt sock shield height peace alert flock screen dolphin mushroom sunset";
+var mnemonic = "later way eight stage jump code bird tonight large garment target suit";

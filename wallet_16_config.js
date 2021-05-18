@@ -1,1 +1,1 @@
-var mnemonic = "civil broom apart pool ladder figure night fence behind coast life small";
+var mnemonic = "spin copper term express couch sand hello burst rack travel useful cheap";

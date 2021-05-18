@@ -1,1 +1,1 @@
-var mnemonic = "car glory memory job cheap tonight citizen lonely include suspect speed zoo";
+var mnemonic = "light best grid present call high analyst oval anger remind pottery fan";

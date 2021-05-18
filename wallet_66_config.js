@@ -1,1 +1,1 @@
-var mnemonic = "buffalo deny obtain spatial sugar unhappy curious century document solution view decrease";
+var mnemonic = "save curve pair current oak fancy try humor bicycle pottery shop canyon";

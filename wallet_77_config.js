@@ -1,1 +1,1 @@
-var mnemonic = "ethics proud submit lake crush sponsor digital second ginger jelly express inherit";
+var mnemonic = "boss minute orbit insane degree gap math occur daughter mesh fold original";

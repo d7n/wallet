@@ -1,1 +1,1 @@
-var mnemonic = "profit luxury purity sad hunt verb green inform tower resource brush want";
+var mnemonic = "write error imitate merry angle embark soap canyon pave patient cruise fluid";

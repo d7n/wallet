@@ -1,1 +1,1 @@
-var mnemonic = "proud sauce extend relief grow jazz marriage march speed guilt predict marine";
+var mnemonic = "chimney school defy dwarf airport taste exchange purse scare swing hill alone";

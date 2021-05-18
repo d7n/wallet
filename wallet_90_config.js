@@ -1,1 +1,1 @@
-var mnemonic = "domain toy reduce large slow gap hungry unfold chronic stadium draw sadness";
+var mnemonic = "grit vocal huge screen trophy unable parent bright open sample exotic appear";

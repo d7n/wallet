@@ -1,1 +1,1 @@
-var mnemonic = "push lottery begin gossip mind erode business flash absent ivory attend february";
+var mnemonic = "grass roof curious apart say wing start someone outer donkey benefit hard";

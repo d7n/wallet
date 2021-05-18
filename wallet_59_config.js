@@ -1,1 +1,1 @@
-var mnemonic = "often net hair course prevent enjoy weasel early you memory kitchen mixed";
+var mnemonic = "affair horror process group point avocado prosper thumb coin glance business laugh";

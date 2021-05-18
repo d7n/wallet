@@ -1,1 +1,1 @@
-var mnemonic = "border adapt buddy noble bring enter plunge over bid neglect catalog twice";
+var mnemonic = "eager shed pelican forest radio milk pony arrow cinnamon cruise dinner forward";

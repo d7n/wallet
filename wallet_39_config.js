@@ -1,1 +1,1 @@
-var mnemonic = "edge season brief gym swim dinosaur clerk damp ramp abstract trust near";
+var mnemonic = "marble adult code payment retreat orange barely walnut issue bonus wing stairs";

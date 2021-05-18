@@ -1,1 +1,1 @@
-var mnemonic = "wire crystal almost equip ten fit camp network dolphin document kiwi stairs";
+var mnemonic = "cycle federal top release banana issue adapt nest special false venture notable";

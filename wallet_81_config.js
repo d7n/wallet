@@ -1,1 +1,1 @@
-var mnemonic = "proud baby type father proof logic column lesson any story chaos lawn";
+var mnemonic = "train globe donate awesome wheat move perfect taxi pair warm task whisper";

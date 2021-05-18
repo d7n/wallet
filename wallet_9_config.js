@@ -1,1 +1,1 @@
-var mnemonic = "garlic fancy spin chair layer cradle captain rally glad better comic choice";
+var mnemonic = "web fury burden call segment nation cream inside glimpse define boring aware";

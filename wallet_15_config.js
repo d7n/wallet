@@ -1,1 +1,1 @@
-var mnemonic = "sad primary expect polar whisper stand problem link thought impose pull law";
+var mnemonic = "mosquito ancient joy olive suspect clown december runway accuse flavor tribe fetch";

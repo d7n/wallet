@@ -1,1 +1,1 @@
-var mnemonic = "wild curve open seat december never face rude essay boost thank position";
+var mnemonic = "panther cheese expect chase pyramid lunch decorate truck enforce goose blind salmon";

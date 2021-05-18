@@ -1,1 +1,1 @@
-var mnemonic = "used pencil milk snack online oyster twenty manual flower trip ranch kiss";
+var mnemonic = "boost exile crawl glide behave polar endless stairs kite begin dignity comfort";

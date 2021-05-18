@@ -1,1 +1,1 @@
-var mnemonic = "intact stone agent nerve guide walk satoshi snap eight hole great glimpse";
+var mnemonic = "wet reform steel crawl flavor deposit pull point during river truly common";

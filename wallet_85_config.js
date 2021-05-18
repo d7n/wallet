@@ -1,1 +1,1 @@
-var mnemonic = "antenna venture acoustic clock ignore stomach aisle either reopen deliver domain reveal";
+var mnemonic = "describe goose text public parade other wreck want crystal spirit day random";

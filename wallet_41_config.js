@@ -1,1 +1,1 @@
-var mnemonic = "make truth cool cement notice entry liberty nation like intact bone aisle";
+var mnemonic = "throw enter curious country tree imitate royal virtual coral neutral believe idle";

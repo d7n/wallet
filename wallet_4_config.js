@@ -1,1 +1,1 @@
-var mnemonic = "own blame exotic ice prosper shock wool expect address excuse decade illness";
+var mnemonic = "quiz very episode organ garbage arctic mean toss deputy east own correct";

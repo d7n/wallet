@@ -1,1 +1,1 @@
-var mnemonic = "fluid luggage slim current code heart lucky wedding wall crime provide alarm";
+var mnemonic = "bring slow thunder domain twin kite asthma camera bread truck wing urban";

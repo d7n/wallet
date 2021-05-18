@@ -1,1 +1,1 @@
-var mnemonic = "toward baby minimum pyramid maximum turkey gap ski still ahead mass useless";
+var mnemonic = "practice gun spoil dolphin monkey solution olive another huge elegant rely accuse";

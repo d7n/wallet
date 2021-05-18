@@ -1,1 +1,1 @@
-var mnemonic = "wire cat absurd resource eight library only book cream hour rate special";
+var mnemonic = "valid vapor shop arrive horn drink build special law offer height ivory";

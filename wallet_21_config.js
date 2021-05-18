@@ -1,1 +1,1 @@
-var mnemonic = "canvas heart half reveal infant nose flag list cute logic shaft fall";
+var mnemonic = "champion feed civil prison protect daring horror frog local depth debris place";

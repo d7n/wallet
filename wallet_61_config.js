@@ -1,1 +1,1 @@
-var mnemonic = "arena south pretty off warrior mix wrist split primary rebuild decade now";
+var mnemonic = "right ordinary moral real day swarm off next best venue logic cupboard";

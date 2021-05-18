@@ -1,1 +1,1 @@
-var mnemonic = "duty glue enroll cake egg mixed spend post slight film crane bamboo";
+var mnemonic = "rookie auction own caution crawl teach invest all gain host beef dad";

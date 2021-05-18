@@ -1,1 +1,1 @@
-var mnemonic = "junior candy work allow mimic humor strike tag wool myth congress south";
+var mnemonic = "city twist top tattoo truck fun fantasy kitchen grocery remind attitude clean";

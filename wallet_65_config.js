@@ -1,1 +1,1 @@
-var mnemonic = "rally aim kiwi buffalo excess track harbor ribbon slender orange start outside";
+var mnemonic = "wing left cluster moon uncle tired surround crater people believe damage body";

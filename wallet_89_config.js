@@ -1,1 +1,1 @@
-var mnemonic = "trade retire mask picnic scale measure glue ghost have whale omit museum";
+var mnemonic = "else ensure problem wolf burst plastic impulse cement train clean whip furnace";

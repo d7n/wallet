@@ -1,1 +1,1 @@
-var mnemonic = "school minimum hundred bullet puzzle ring attend fluid paddle chuckle pudding debate";
+var mnemonic = "asthma return equal talent arctic bulk night satisfy project attract paper fly";

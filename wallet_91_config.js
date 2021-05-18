@@ -1,1 +1,1 @@
-var mnemonic = "donate couch observe want release friend gadget elder eternal pool comfort hole";
+var mnemonic = "upper medal law sport sight medal liar rival swap latin ankle good";

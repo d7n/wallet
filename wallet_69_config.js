@@ -1,1 +1,1 @@
-var mnemonic = "eye lake volcano grid pilot lobster seven dizzy stick vivid festival shrug";
+var mnemonic = "vehicle race dizzy cry roof banana first exit bag sleep patch worth";

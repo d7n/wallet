@@ -1,1 +1,1 @@
-var mnemonic = "nut fall front tonight unaware elite chronic confirm better stereo tree liberty";
+var mnemonic = "elbow early violin farm idle three skull sting father artefact fashion side";

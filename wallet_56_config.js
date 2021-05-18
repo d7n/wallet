@@ -1,1 +1,1 @@
-var mnemonic = "elegant bind depth bomb sugar chalk aerobic palm sport load skin unable";
+var mnemonic = "baby buyer appear short unique excite unlock denial ridge about globe stock";

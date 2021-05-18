@@ -1,1 +1,1 @@
-var mnemonic = "bachelor access citizen stamp abstract swap rough share one dynamic market buzz";
+var mnemonic = "once junk pretty canyon error ride swear icon shoot same build gadget";

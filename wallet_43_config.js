@@ -1,1 +1,1 @@
-var mnemonic = "swamp essay car vacuum hurt goddess suffer common zone devote flat powder";
+var mnemonic = "vendor car walnut climb enable load fever finish shy sadness uncle cry";

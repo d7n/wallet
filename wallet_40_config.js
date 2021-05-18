@@ -1,1 +1,1 @@
-var mnemonic = "sell ability roof rebel shine average verify finish bachelor size cool normal";
+var mnemonic = "crop scene program cram purchase ready famous spirit friend misery staff exist";

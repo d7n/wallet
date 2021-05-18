@@ -1,1 +1,1 @@
-var mnemonic = "company shed reform embrace private nose thrive salmon chapter glow village judge";
+var mnemonic = "toss city drama zero brain code budget assist armor eye resource odor";

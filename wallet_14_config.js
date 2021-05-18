@@ -1,1 +1,1 @@
-var mnemonic = "shadow cage battle wool wing under found noodle once liar cage seed";
+var mnemonic = "lecture negative unique parrot elbow paper tortoise enough scatter front tuition napkin";

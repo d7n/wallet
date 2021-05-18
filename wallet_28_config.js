@@ -1,1 +1,1 @@
-var mnemonic = "kingdom match quit affair fan bachelor into sister depend whale glove robust";
+var mnemonic = "coral exhibit sentence boy have protect bronze nest hire frequent drift sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight oval grape narrow grant embody caution spawn ecology object reunion student";
+var mnemonic = "team effort crumble like width monster wrestle inhale scout turtle bullet kitchen";

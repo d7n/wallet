@@ -1,1 +1,1 @@
-var mnemonic = "slam work evoke will ridge often convince page any monitor ginger fun";
+var mnemonic = "miss such shove defy mom eight shine pattern swarm swarm pudding clock";

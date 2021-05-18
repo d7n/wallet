@@ -1,1 +1,1 @@
-var mnemonic = "assist resemble cactus afraid raise oxygen interest muscle decrease knock language crane";
+var mnemonic = "soap pattern grunt seek change monkey bag blouse turn away middle wolf";

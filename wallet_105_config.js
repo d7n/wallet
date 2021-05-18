@@ -1,1 +1,1 @@
-var mnemonic = "blood forward arena diagram custom intact fame ship coil thing estate drip";
+var mnemonic = "wheat all leave margin resource rain apple cause hat pluck print blind";

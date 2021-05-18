@@ -1,1 +1,1 @@
-var mnemonic = "rule need tornado bracket thank awesome lend inquiry attitude cushion secret desert";
+var mnemonic = "simple trip balance juice ripple live loop art priority sadness display zoo";

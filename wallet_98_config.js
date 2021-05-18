@@ -1,1 +1,1 @@
-var mnemonic = "quote capable mother carpet amount repeat pudding juice relax logic explain side";
+var mnemonic = "fury correct welcome fly abstract juice flash bulk dove tourist color quarter";

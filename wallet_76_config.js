@@ -1,1 +1,1 @@
-var mnemonic = "vanish crash abandon twenty essence reflect item index turtle develop cave couple";
+var mnemonic = "merry change team glad tackle banner caught enough museum dose grab aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "fix echo skull science autumn clean begin moral vote dolphin trick almost";
+var mnemonic = "monster patrol pear dune crane tonight lounge tool cry device share click";

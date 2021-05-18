@@ -1,1 +1,1 @@
-var mnemonic = "brush message miss custom fly identify moon tiger gaze choose dish raven";
+var mnemonic = "slot grid size torch sustain shrug will tree inquiry trophy fence cluster";

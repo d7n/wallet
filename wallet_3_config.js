@@ -1,1 +1,1 @@
-var mnemonic = "path quarter clock floor nuclear school olympic chair wide open choice riot";
+var mnemonic = "faint nest leader guide access student raw breeze pulse stadium enemy control";

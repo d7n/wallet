@@ -1,1 +1,1 @@
-var mnemonic = "ability verify lady fiction apple kingdom similar board maple mouse agree spirit";
+var mnemonic = "notice pair test awesome team soda relax oxygen fish dizzy hello visit";

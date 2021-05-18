@@ -1,1 +1,1 @@
-var mnemonic = "pass jacket bleak solve little rough where teach honey slide reopen feature";
+var mnemonic = "will kingdom walk movie afraid scrap design puppy tongue scheme bike duty";

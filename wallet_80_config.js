@@ -1,1 +1,1 @@
-var mnemonic = "test phone file mimic repeat typical entire kite naive pulse hawk goddess";
+var mnemonic = "frost vital above winter blanket saddle practice monster siege knock forget snake";

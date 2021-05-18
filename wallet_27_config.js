@@ -1,1 +1,1 @@
-var mnemonic = "vanish cry ritual twenty bullet phone grief board marine museum blade mosquito";
+var mnemonic = "grab pudding garlic tissue picnic indoor desert inner link icon finger beach";

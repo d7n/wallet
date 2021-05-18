@@ -1,1 +1,1 @@
-var mnemonic = "drift case gas state joy goose garbage camp regular vital year tattoo";
+var mnemonic = "ride alarm castle beach device spare crew raccoon fatal advice truly change";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet blur wait eagle video infant marine one figure firm win undo";
+var mnemonic = "guard work coconut asthma labor update zero idea tattoo like will protect";

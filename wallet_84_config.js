@@ -1,1 +1,1 @@
-var mnemonic = "rack top symptom bind notable turkey ripple party name emotion pole helmet";
+var mnemonic = "dinner cliff tuna outer enact wheel ship excuse banana civil flavor nurse";

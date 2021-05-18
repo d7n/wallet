@@ -1,1 +1,1 @@
-var mnemonic = "daring vault quit situate strike afford address resource canoe develop valley appear";
+var mnemonic = "ripple express right chunk nasty original now all pizza thank park twenty";

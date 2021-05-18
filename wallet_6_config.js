@@ -1,1 +1,1 @@
-var mnemonic = "fix dizzy chronic fresh series bottom antique core swear decide auction rotate";
+var mnemonic = "focus fury flash car symbol truly can critic myth hamster behave purse";

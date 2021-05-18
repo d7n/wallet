@@ -1,1 +1,1 @@
-var mnemonic = "sing category citizen sun thought gate glimpse marble start essence journey yard";
+var mnemonic = "viable cancel catalog flower jazz hole rose tribe display fox nest need";

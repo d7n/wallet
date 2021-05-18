@@ -1,1 +1,1 @@
-var mnemonic = "flavor flag cross game normal right cherry begin ability absent bomb cool";
+var mnemonic = "jacket library guard mountain wrap analyst brisk battle decorate assault topic such";

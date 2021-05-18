@@ -1,1 +1,1 @@
-var mnemonic = "decline position where memory genre light mansion purchase digital juice gallery cruise";
+var mnemonic = "palm south liar forum noble expect cousin bid concert current donor common";

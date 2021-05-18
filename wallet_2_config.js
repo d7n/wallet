@@ -1,1 +1,1 @@
-var mnemonic = "fold truly manage labor suggest cheap love crunch bitter quick staff bulk";
+var mnemonic = "hawk thought inflict leave garden fame cousin maximum begin ladder crop diet";

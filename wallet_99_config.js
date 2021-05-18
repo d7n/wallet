@@ -1,1 +1,1 @@
-var mnemonic = "wreck return nature snake sword fish odor casino carry clump invite anchor";
+var mnemonic = "fence chapter cargo word private subway company winner pledge sign soft belt";

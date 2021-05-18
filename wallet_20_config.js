@@ -1,1 +1,1 @@
-var mnemonic = "trade weasel barrel rubber drama envelope verb coin fiber heavy action butter";
+var mnemonic = "orchard genuine tower song prison position seven beyond audit desk script extend";

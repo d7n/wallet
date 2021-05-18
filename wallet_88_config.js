@@ -1,1 +1,1 @@
-var mnemonic = "squeeze load diagram resemble wheat jar slice sheriff census devote flee result";
+var mnemonic = "poet tube lyrics rapid elevator mean write obtain material prison just rhythm";

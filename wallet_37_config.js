@@ -1,1 +1,1 @@
-var mnemonic = "toe valve reopen utility push hope cheese pelican suspect enemy weekend balance";
+var mnemonic = "heavy jump orbit tiny poem human acoustic actual element bracket enlist obtain";

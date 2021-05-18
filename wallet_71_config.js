@@ -1,1 +1,1 @@
-var mnemonic = "west chuckle host slot cloth march catalog metal occur this sail great";
+var mnemonic = "gasp sauce remain paper misery amateur huge invite smoke attract honey shift";

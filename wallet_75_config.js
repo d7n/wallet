@@ -1,1 +1,1 @@
-var mnemonic = "trigger vendor rabbit sugar steak tuition letter fortune olive gravity word pass";
+var mnemonic = "marriage laptop car maximum priority island robot orchard winner dry squirrel charge";

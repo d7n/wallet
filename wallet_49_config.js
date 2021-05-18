@@ -1,1 +1,1 @@
-var mnemonic = "display name make shadow cage point what bronze wolf metal master vehicle";
+var mnemonic = "rule leisure grant omit weird core sphere spin exchange claim inspire flavor";

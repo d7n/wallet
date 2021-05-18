@@ -1,1 +1,1 @@
-var mnemonic = "that confirm sell flip choose awkward kiwi meadow sell wire notable spike";
+var mnemonic = "name aspect sight post then wreck patient hedgehog measure symptom fox history";

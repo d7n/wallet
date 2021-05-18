@@ -1,1 +1,1 @@
-var mnemonic = "logic milk jeans boost canvas squirrel diary broom lion album legal pigeon";
+var mnemonic = "royal frown faculty bridge usage chimney earn build topic roof park crop";

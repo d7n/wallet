@@ -1,1 +1,1 @@
-var mnemonic = "legend issue banana vendor fix castle mutual parade eyebrow fetch mansion grit";
+var mnemonic = "plate earn smile try worth dinner wisdom gather undo topple good other";

@@ -1,1 +1,1 @@
-var mnemonic = "bid lava fall kind throw velvet town ask burger doll emotion razor";
+var mnemonic = "guide version floor license average pair drama dress gaze item rib grain";

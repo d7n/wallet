@@ -1,1 +1,1 @@
-var mnemonic = "erupt turn media during oak cool expand impulse mind journey account script";
+var mnemonic = "cycle quit yard able supreme noise party double express grape aware vivid";

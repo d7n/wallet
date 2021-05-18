@@ -1,1 +1,1 @@
-var mnemonic = "budget breeze kick gloom stone cargo believe sketch dumb sand common grit";
+var mnemonic = "frequent below hint orient crime office polar outside opinion arrow miracle pyramid";

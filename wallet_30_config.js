@@ -1,1 +1,1 @@
-var mnemonic = "ethics trade pilot snack large always action miracle gym school nothing attract";
+var mnemonic = "secret beyond drill alert rabbit setup total feed clap animal cereal creek";

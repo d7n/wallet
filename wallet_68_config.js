@@ -1,1 +1,1 @@
-var mnemonic = "cook gown opera hero glide modify moment supply grit volume fuel list";
+var mnemonic = "electric uncle huge airport exile utility arch genre iron weather section flock";

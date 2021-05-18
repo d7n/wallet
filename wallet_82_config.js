@@ -1,1 +1,1 @@
-var mnemonic = "brisk order usual month state slot once nasty magic slush bid garment";
+var mnemonic = "sauce medal opinion need cheese right praise amazing nose evidence alarm connect";

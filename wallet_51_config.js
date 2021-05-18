@@ -1,1 +1,1 @@
-var mnemonic = "dumb swap target soda trick black palm divert region extend field illness";
+var mnemonic = "door party choice today carry message noodle play whisper glory rabbit bar";

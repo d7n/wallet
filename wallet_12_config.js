@@ -1,1 +1,1 @@
-var mnemonic = "come warrior any all swarm speak tunnel series consider power eagle book";
+var mnemonic = "explain barely shy thank resist expect word page rocket this rotate stool";

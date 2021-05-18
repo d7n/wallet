@@ -1,1 +1,1 @@
-var mnemonic = "basket welcome farm happy world surround desk owner gospel sweet slight duty";
+var mnemonic = "cash credit ticket fiber exchange tree rule proof royal arctic rug ghost";

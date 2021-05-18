@@ -1,1 +1,1 @@
-var mnemonic = "hole canoe secret ocean stuff eye valley company stadium behave shoot alcohol";
+var mnemonic = "flat genius rent waste buzz purpose shuffle comic husband select slogan warm";

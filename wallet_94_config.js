@@ -1,1 +1,1 @@
-var mnemonic = "manual craft satoshi carry capable maple distance elephant vibrant empty core loop";
+var mnemonic = "submit injury combine panther unit fit casual update trend accident robot toast";

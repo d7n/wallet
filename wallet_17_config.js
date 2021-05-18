@@ -1,1 +1,1 @@
-var mnemonic = "finish cactus load task safe magic mother rack whisper avoid desk abandon";
+var mnemonic = "pulp gravity matrix unable notice timber seminar salad ugly tank aunt phrase";
