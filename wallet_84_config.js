@@ -1,1 +1,1 @@
-var mnemonic = "math order excuse attack spray this crunch robot emerge smart original faith";
+var mnemonic = "pill thumb shoe absent reform rapid planet refuse trigger enact debris twin";

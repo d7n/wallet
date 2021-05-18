@@ -1,1 +1,1 @@
-var mnemonic = "exhibit ride bean cash brand hollow creek observe chat alter poverty romance";
+var mnemonic = "twin soda tooth when eager rebel size blossom logic struggle garbage calm";

@@ -1,1 +1,1 @@
-var mnemonic = "burger belt dose hockey chuckle come multiply torch deposit position burden much";
+var mnemonic = "whisper biology album essence spirit cancel other opinion exhibit comic wrong common";

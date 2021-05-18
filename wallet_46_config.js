@@ -1,1 +1,1 @@
-var mnemonic = "recycle energy dinner lobster twist attend correct device this tooth marriage dash";
+var mnemonic = "liquid live collect trick dinner talk private recycle pear favorite talk fiscal";

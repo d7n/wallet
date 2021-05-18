@@ -1,1 +1,1 @@
-var mnemonic = "humor struggle draw fun scheme rather catch harvest wash crunch essay kitchen";
+var mnemonic = "light machine reform smile transfer candy wish suffer pill endless pulp pumpkin";

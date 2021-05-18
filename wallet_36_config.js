@@ -1,1 +1,1 @@
-var mnemonic = "derive valve october fury detail dawn worry fall super lumber nut fence";
+var mnemonic = "happy summer season wisdom federal body ethics detect clay exclude art finish";

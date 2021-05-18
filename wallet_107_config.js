@@ -1,1 +1,1 @@
-var mnemonic = "social current north derive person obscure any forward umbrella tobacco canyon analyst";
+var mnemonic = "pond hammer shell kite short day glow symptom nature library snack such";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth employ save cupboard fossil cousin bargain reveal recall nation admit forget";
+var mnemonic = "clinic unveil vote tribe garlic judge limit shock profit drum skirt toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "spend wet group endless barrel tilt faith funny fever cancel undo stairs";
+var mnemonic = "onion bag average mirror bronze final bounce drum congress armed welcome october";

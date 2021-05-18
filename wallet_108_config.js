@@ -1,1 +1,1 @@
-var mnemonic = "slow odor custom level improve lizard enough donkey segment that rather baby";
+var mnemonic = "thunder much blanket catch actual beach net midnight divorce liberty approve run";

@@ -1,1 +1,1 @@
-var mnemonic = "edge broccoli blush table stool eye theme roof access tired wire hollow";
+var mnemonic = "student liquid super grant clay point funny horn urban runway limit toe";

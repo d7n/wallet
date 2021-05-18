@@ -1,1 +1,1 @@
-var mnemonic = "dizzy pool awkward inherit match orange security resource law success guitar trigger";
+var mnemonic = "reward robot style daughter economy extra stick cube sorry olive again adjust";

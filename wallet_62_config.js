@@ -1,1 +1,1 @@
-var mnemonic = "enemy great cheese shrug shoulder draw situate shaft curve guard tired great";
+var mnemonic = "behave machine middle vacant tank slogan fault betray jaguar exact busy deliver";

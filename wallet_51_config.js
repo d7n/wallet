@@ -1,1 +1,1 @@
-var mnemonic = "moon sport hotel chase pulp tree soda protect slow buyer pig rug";
+var mnemonic = "tobacco ceiling foot network chimney alley clown cabbage quality planet rebuild lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "father lava other dog neck coach sound over carpet canoe century sheriff";
+var mnemonic = "flat tumble ozone educate often horse rent uniform stable express disagree brass";

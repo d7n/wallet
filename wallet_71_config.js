@@ -1,1 +1,1 @@
-var mnemonic = "step car vehicle menu orchard wisdom host left cabin danger bamboo supply";
+var mnemonic = "water boring cute custom skill person right soldier vendor nice sheriff more";

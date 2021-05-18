@@ -1,1 +1,1 @@
-var mnemonic = "remind then quick put brief behind purity kit sea stem loop supreme";
+var mnemonic = "romance run cannon theory image ghost flame sing license food bitter canoe";

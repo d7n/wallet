@@ -1,1 +1,1 @@
-var mnemonic = "wall find fruit mad resist anchor popular torch ship slim reward goose";
+var mnemonic = "alone moon response blood collect seat convince teach radar shrimp october civil";

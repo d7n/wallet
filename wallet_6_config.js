@@ -1,1 +1,1 @@
-var mnemonic = "wish session spoil famous bar exotic sniff identify sea picture myth jeans";
+var mnemonic = "grit step pistol during appear cost copy month nut clap faith entry";

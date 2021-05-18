@@ -1,1 +1,1 @@
-var mnemonic = "festival joy visual laugh stem domain dust bitter width ensure unfair sort";
+var mnemonic = "airport social maid anger auction flower panic favorite fossil draw lawn real";

@@ -1,1 +1,1 @@
-var mnemonic = "smart city shy infant answer skin tent warfare lobster skirt term security";
+var mnemonic = "thumb onion feature repeat grocery melt bulk walk beach ladder refuse omit";

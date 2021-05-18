@@ -1,1 +1,1 @@
-var mnemonic = "review shoot supply section basket slide iron camera dish margin tired attract";
+var mnemonic = "cruise obvious license industry uphold pave consider stomach exclude episode nature harsh";

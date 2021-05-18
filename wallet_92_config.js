@@ -1,1 +1,1 @@
-var mnemonic = "nephew mobile royal viable vessel check lucky affair design ozone approve cancel";
+var mnemonic = "audit tone wasp conduct thank glow lazy blanket join pupil vast decide";

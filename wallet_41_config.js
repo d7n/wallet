@@ -1,1 +1,1 @@
-var mnemonic = "dash speak brisk velvet gasp slow pioneer skirt fatal scatter sick this";
+var mnemonic = "reason casino output cool whisper west federal feed cover flat magnet debate";

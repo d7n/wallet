@@ -1,1 +1,1 @@
-var mnemonic = "impact frequent switch diesel rack chimney field raccoon they throw soldier wide";
+var mnemonic = "subject increase color oyster utility exhaust phrase burden trash nuclear small icon";

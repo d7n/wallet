@@ -1,1 +1,1 @@
-var mnemonic = "student slim rent injury track another penalty chunk enlist tribe record ginger";
+var mnemonic = "coast park arctic surge size jacket music head slim ring bench cloth";

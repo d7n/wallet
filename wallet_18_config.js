@@ -1,1 +1,1 @@
-var mnemonic = "hawk galaxy guess nasty cherry web light evil table ladder glimpse catch";
+var mnemonic = "predict turtle cousin give extra voyage raw vital beauty poem arena fork";

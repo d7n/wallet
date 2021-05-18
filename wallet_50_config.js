@@ -1,1 +1,1 @@
-var mnemonic = "maze cheap shove supreme table merge album wheat comfort survey kidney arrest";
+var mnemonic = "hero change empower phrase worth maximum team junk common alpha leaf code";

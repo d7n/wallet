@@ -1,1 +1,1 @@
-var mnemonic = "soft forward salmon robot youth bid volume slight funny plug capital april";
+var mnemonic = "trash confirm soup again chef mimic arena gaze produce barrel settle life";

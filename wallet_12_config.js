@@ -1,1 +1,1 @@
-var mnemonic = "apart awkward brass horse pause when liquid two finish power fish oblige";
+var mnemonic = "swing excite bench hockey relax ramp trust narrow winter marine drive globe";

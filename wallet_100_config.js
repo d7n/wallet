@@ -1,1 +1,1 @@
-var mnemonic = "vibrant distance street age digital cancel inform funny better music depth sustain";
+var mnemonic = "exist bitter december fashion fatigue palm junior clump body host unique crime";

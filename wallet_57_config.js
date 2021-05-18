@@ -1,1 +1,1 @@
-var mnemonic = "nasty couch order evolve number health search vital arena own fragile embrace";
+var mnemonic = "six agent sing awful orbit uncle bone broken feel route power country";

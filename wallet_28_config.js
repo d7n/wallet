@@ -1,1 +1,1 @@
-var mnemonic = "road lava bridge account squeeze secret index onion divide scene super envelope";
+var mnemonic = "code twice picture peanut silk wing arrow lamp agent primary bitter rocket";

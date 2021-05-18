@@ -1,1 +1,1 @@
-var mnemonic = "upon high base original capital series piece comic carry jar across order";
+var mnemonic = "damage wonder library sing hello metal orbit hammer ill lesson around share";

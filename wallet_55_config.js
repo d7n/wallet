@@ -1,1 +1,1 @@
-var mnemonic = "reason rebuild salon swim setup derive slogan slogan sing hidden time enrich";
+var mnemonic = "rain point leaf bridge parent agree dove ugly vessel belt cradle attack";

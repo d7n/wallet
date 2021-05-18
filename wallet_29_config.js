@@ -1,1 +1,1 @@
-var mnemonic = "olympic alter stereo absorb element merge hawk someone since street sense abandon";
+var mnemonic = "arctic time churn ship loan barely security blossom crucial ozone timber behave";

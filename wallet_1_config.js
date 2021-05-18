@@ -1,1 +1,1 @@
-var mnemonic = "adult face ride true weird sure rent strategy initial dad half jaguar";
+var mnemonic = "rigid tourist engage draw puzzle device auto castle salute person prize minute";

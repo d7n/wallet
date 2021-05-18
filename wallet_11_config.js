@@ -1,1 +1,1 @@
-var mnemonic = "clean narrow essay atom battle public firm elder toilet autumn insane pond";
+var mnemonic = "wine merry scheme forest dream velvet resemble inside strategy baby access armor";

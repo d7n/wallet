@@ -1,1 +1,1 @@
-var mnemonic = "board unaware lamp march misery burger dismiss offer parrot ill blade harsh";
+var mnemonic = "random cruel option tiny rifle shell aspect visit elite neglect torch stick";

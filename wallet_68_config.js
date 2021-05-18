@@ -1,1 +1,1 @@
-var mnemonic = "top okay door seed dignity steel happy video truth timber lazy club";
+var mnemonic = "robust gadget nerve snack excite maze trigger save media table vivid magnet";

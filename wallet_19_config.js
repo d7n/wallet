@@ -1,1 +1,1 @@
-var mnemonic = "immense anxiety funny crane slim leaf margin zebra face enable river judge";
+var mnemonic = "utility special gym because era cream clerk waste next sponsor burger review";

@@ -1,1 +1,1 @@
-var mnemonic = "guard chat near father layer top inherit broom path lumber fox symbol";
+var mnemonic = "skull anger grape bring bachelor street chat intact sure maple vintage way";

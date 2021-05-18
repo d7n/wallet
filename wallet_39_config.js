@@ -1,1 +1,1 @@
-var mnemonic = "shoe arrive doctor brief media split banner differ proud attract brother similar";
+var mnemonic = "dream flush donor voice win doll festival spot helmet typical mercy stick";

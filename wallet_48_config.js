@@ -1,1 +1,1 @@
-var mnemonic = "expire leave decrease sweet enjoy damage disagree vivid wasp fold upon cannon";
+var mnemonic = "half rain notice humor belt right close better mechanic punch episode arch";

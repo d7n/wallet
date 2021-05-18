@@ -1,1 +1,1 @@
-var mnemonic = "tuition vague obey smart antique stereo build taste burger debate nuclear resemble";
+var mnemonic = "lawn dog exclude hungry tent clog pause wage message despair shell lawn";

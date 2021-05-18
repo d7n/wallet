@@ -1,1 +1,1 @@
-var mnemonic = "venue stamp curious borrow title anxiety oxygen defy dumb holiday large gentle";
+var mnemonic = "orbit unit grunt swallow frown reason height blush decrease hold focus mom";

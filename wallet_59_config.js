@@ -1,1 +1,1 @@
-var mnemonic = "spoon front index audit health unknown reject length deer express fashion unveil";
+var mnemonic = "lock liberty name health fetch ride siege guitar electric reunion shield alone";

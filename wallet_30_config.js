@@ -1,1 +1,1 @@
-var mnemonic = "borrow expire craft mask swing loop good employ giggle tired connect debate";
+var mnemonic = "absorb uphold find pair unknown hurry child face benefit romance venture patch";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel lamp nominee action note exercise disease like best nephew urban kiss";
+var mnemonic = "eager gravity drama plunge level pink viable order endorse nut weapon pen";

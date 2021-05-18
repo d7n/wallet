@@ -1,1 +1,1 @@
-var mnemonic = "junior alarm crystal asthma wagon neglect thank ethics fancy comic uniform either";
+var mnemonic = "cost verb word door cactus lemon asset certain require swear avocado pipe";

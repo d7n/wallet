@@ -1,1 +1,1 @@
-var mnemonic = "deal walnut pen south embark youth execute mail emerge cube kangaroo thought";
+var mnemonic = "skirt spare chef push ancient cargo shrug winter good slow tone panic";

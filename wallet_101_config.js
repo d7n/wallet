@@ -1,1 +1,1 @@
-var mnemonic = "frame timber hint mix private move way donor obvious method hundred slight";
+var mnemonic = "cereal start bulk produce armed then until matter cotton pave squirrel extra";

@@ -1,1 +1,1 @@
-var mnemonic = "basic attitude couch sun drift metal giraffe boost crack surround pretty dawn";
+var mnemonic = "tissue found reject frost truth soccer intact rookie matter destroy praise rocket";

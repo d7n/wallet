@@ -1,1 +1,1 @@
-var mnemonic = "various meadow income piano okay actor awake rather lounge bless supply cheese";
+var mnemonic = "wise primary tube nephew casual measure flash shove front kiwi boss steel";

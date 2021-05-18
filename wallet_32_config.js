@@ -1,1 +1,1 @@
-var mnemonic = "change tennis arrest appear lens news scissors report creek stool public lesson";
+var mnemonic = "lens convince segment offer flash cross office lizard collect drama only butter";

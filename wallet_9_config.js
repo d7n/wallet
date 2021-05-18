@@ -1,1 +1,1 @@
-var mnemonic = "come enter marine domain cereal domain item prepare time infant fiscal abuse";
+var mnemonic = "uphold exhibit pupil prison response local infant area today drastic energy local";

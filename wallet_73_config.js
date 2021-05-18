@@ -1,1 +1,1 @@
-var mnemonic = "river effort rescue swarm sick appear early gate order sorry victory glad";
+var mnemonic = "visual chalk tank practice above spread silk monkey one left spot type";

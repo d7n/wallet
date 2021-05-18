@@ -1,1 +1,1 @@
-var mnemonic = "midnight squirrel reform settle lucky comfort vocal enforce vicious mind curious clock";
+var mnemonic = "runway tourist submit excess business replace banana utility differ scrap educate depth";

@@ -1,1 +1,1 @@
-var mnemonic = "alien junior cat acid pool left someone code sample jeans shock athlete";
+var mnemonic = "plunge chest staff swallow indoor track benefit innocent palace mobile hen sign";

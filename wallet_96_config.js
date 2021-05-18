@@ -1,1 +1,1 @@
-var mnemonic = "decrease bone fossil script ivory coil glue father humble gorilla axis cry";
+var mnemonic = "sample tower assume cat protect able secret sell laugh rapid elegant draw";

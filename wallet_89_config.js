@@ -1,1 +1,1 @@
-var mnemonic = "primary news reunion wrestle short scale balcony dress edge robust amateur picnic";
+var mnemonic = "ranch double vehicle pyramid human limit health perfect abandon avoid cat benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn pony bench column fold notable recall immune slender never safe bounce";
+var mnemonic = "dinosaur ask device kick typical special flight over bicycle brisk horse student";

@@ -1,1 +1,1 @@
-var mnemonic = "father panic index chef hope issue dentist short pill net agent camera";
+var mnemonic = "assault region subway phone brush furnace blind fun valid thumb perfect advice";

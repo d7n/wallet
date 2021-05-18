@@ -1,1 +1,1 @@
-var mnemonic = "ranch always okay try mystery horn test repair bamboo that erase toddler";
+var mnemonic = "flush robust borrow skirt year unfold side walk tuition merit tumble develop";

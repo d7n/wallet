@@ -1,1 +1,1 @@
-var mnemonic = "brother bus resource grid urban soldier caught physical affair pact police shrug";
+var mnemonic = "awake exhibit unit basket reject reveal glide eternal people satisfy around version";

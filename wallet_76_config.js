@@ -1,1 +1,1 @@
-var mnemonic = "second farm reunion hedgehog resist finger kind mystery post explain cruise delay";
+var mnemonic = "cool dove salad wagon news limit citizen dilemma involve solar moral media";

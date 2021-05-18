@@ -1,1 +1,1 @@
-var mnemonic = "assume clock cliff you torch entire tower aspect prefer garlic enter dinosaur";
+var mnemonic = "live inside client gun leisure badge bench cloth rabbit body fold assume";

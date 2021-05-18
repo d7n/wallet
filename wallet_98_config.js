@@ -1,1 +1,1 @@
-var mnemonic = "install pass cook present age naive woman trend number crumble kitchen basic";
+var mnemonic = "super load cute year season summer little receive system answer start permit";

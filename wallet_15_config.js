@@ -1,1 +1,1 @@
-var mnemonic = "suggest often world blur include host tilt increase square salt feel stuff";
+var mnemonic = "solar pause gold poem water voice maple flock song penalty trust laptop";

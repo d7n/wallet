@@ -1,1 +1,1 @@
-var mnemonic = "rule idea clean jaguar genuine inside win brain misery inflict market crop";
+var mnemonic = "apple wrist mother twin session urge heart banana outside draw extra obvious";

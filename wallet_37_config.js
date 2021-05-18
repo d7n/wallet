@@ -1,1 +1,1 @@
-var mnemonic = "stick tissue over eye arrange expire forest reject near pig sketch pioneer";
+var mnemonic = "snow network drift amazing panic october true busy train soon nose more";

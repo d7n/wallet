@@ -1,1 +1,1 @@
-var mnemonic = "logic deny write name brief mind document scale sentence abandon ceiling aim";
+var mnemonic = "brush plug cabbage skull disease grunt then lens vibrant sword weird reunion";

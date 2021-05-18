@@ -1,1 +1,1 @@
-var mnemonic = "broom calm rice topic dry swallow swallow write base shrug gorilla push";
+var mnemonic = "carpet combine family issue job review exit fashion jungle helmet violin laptop";

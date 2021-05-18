@@ -1,1 +1,1 @@
-var mnemonic = "flip common cycle enlist slim trick assume table lunch idle double satoshi";
+var mnemonic = "song deputy enrich domain salad similar uniform item tonight hope caution resemble";

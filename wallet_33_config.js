@@ -1,1 +1,1 @@
-var mnemonic = "enact mutual armed invite flip next shell sauce couple lake vault sausage";
+var mnemonic = "jewel young flavor hope lyrics regret column ice grass emerge uncle reflect";

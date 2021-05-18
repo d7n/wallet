@@ -1,1 +1,1 @@
-var mnemonic = "wealth inquiry gold theory average damage have you slender silent edit shrimp";
+var mnemonic = "fabric way gun book transfer crumble siege maze border artist pet jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "regret slight nurse security warm figure volume guess discover school hour mimic";
+var mnemonic = "regret walnut wood silly afraid cushion card chair merge story arrange tower";

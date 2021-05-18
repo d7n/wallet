@@ -1,1 +1,1 @@
-var mnemonic = "height fine talent senior school peanut hundred chair spray sense faculty shine";
+var mnemonic = "credit humble street base pitch cube waste width feature sad come unhappy";

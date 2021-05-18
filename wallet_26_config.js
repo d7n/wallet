@@ -1,1 +1,1 @@
-var mnemonic = "wise aunt tool mango wreck ship faculty shrimp slab finger chalk chalk";
+var mnemonic = "worry bounce fan soldier scheme boring regret artwork put craft oil pear";

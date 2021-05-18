@@ -1,1 +1,1 @@
-var mnemonic = "allow misery perfect modify know cargo spot poem enforce valid easily basket";
+var mnemonic = "assault unique flush cactus ladder badge make immune prefer twin small obey";

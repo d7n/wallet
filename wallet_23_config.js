@@ -1,1 +1,1 @@
-var mnemonic = "pen gaze evoke erode elevator marriage project over sketch eagle fork alien";
+var mnemonic = "teach leg fire identify outer lend stable sign video mandate flight uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "attend crater noodle gadget stem matrix oven glove setup emerge inch amount";
+var mnemonic = "pond walk trash divorce olive eagle trash knee program valley frozen expand";

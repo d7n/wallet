@@ -1,1 +1,1 @@
-var mnemonic = "avocado say pudding fame addict turn dynamic bicycle sponsor tray sight eyebrow";
+var mnemonic = "rival awkward brief syrup balance rubber winner silver crew genius protect silk";

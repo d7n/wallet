@@ -1,1 +1,1 @@
-var mnemonic = "split couch worry document infant select course bacon much twist target mixed";
+var mnemonic = "west year diesel early seminar cage sentence faint velvet when fetch grant";

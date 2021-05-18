@@ -1,1 +1,1 @@
-var mnemonic = "consider erase crush wash denial chef voyage slender school cash wild aware";
+var mnemonic = "vacuum bird bundle abandon gate cage cram pottery fault vivid borrow inject";

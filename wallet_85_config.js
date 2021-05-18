@@ -1,1 +1,1 @@
-var mnemonic = "eager proud cause pride hamster pledge empower beef submit tuna exclude panel";
+var mnemonic = "monster follow spot mass tribe author winner cloud biology audit nothing dry";

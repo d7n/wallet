@@ -1,1 +1,1 @@
-var mnemonic = "hamster vital army sail raven sadness cross small plug level surface reunion";
+var mnemonic = "music rug harbor quick damp audit broken practice cruel salmon diamond pact";

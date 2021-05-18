@@ -1,1 +1,1 @@
-var mnemonic = "online tone consider problem journey puppy elegant rice snow finger add blade";
+var mnemonic = "walk immense flash nice mango possible evoke energy armed globe ticket jewel";

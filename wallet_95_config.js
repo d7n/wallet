@@ -1,1 +1,1 @@
-var mnemonic = "coil vivid lazy route anxiety news bus duck inmate sauce master filter";
+var mnemonic = "cave gain trigger rack hood food during hero inject hollow make barrel";

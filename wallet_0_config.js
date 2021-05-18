@@ -1,1 +1,1 @@
-var mnemonic = "cotton brave mosquito because year section meadow throw cigar squeeze museum evil";
+var mnemonic = "black sight cash gesture february sustain there dutch loan crack nephew dash";

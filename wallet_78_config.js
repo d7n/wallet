@@ -1,1 +1,1 @@
-var mnemonic = "similar feature story liar swim box run entry sibling celery cook box";
+var mnemonic = "burden palm afford brother craft kitten grass forum arm mansion any mom";
