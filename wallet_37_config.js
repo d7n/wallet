@@ -1,1 +1,1 @@
-var mnemonic = "dog hockey panic skill pluck joke insane stereo enforce essay welcome fix";
+var mnemonic = "easy physical trigger egg suspect success beyond over speed damp elevator before";

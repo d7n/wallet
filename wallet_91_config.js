@@ -1,1 +1,1 @@
-var mnemonic = "intact armor organ sunset funny drift brief conduct typical planet dwarf million";
+var mnemonic = "aunt employ noise fire sponsor chair head jump horn solve world during";

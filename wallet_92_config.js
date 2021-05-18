@@ -1,1 +1,1 @@
-var mnemonic = "rifle primary connect picnic panda among alley base live exchange mixture giggle";
+var mnemonic = "among addict dolphin fly muscle hero simple dune awesome dentist finish drink";

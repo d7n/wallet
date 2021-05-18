@@ -1,1 +1,1 @@
-var mnemonic = "gasp east remain scan mass bronze series release bless stock maple enhance";
+var mnemonic = "umbrella bread bronze math ostrich visual direct stand bachelor imitate stumble scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "grief common quit ozone acquire cage later pair candy crash title knock";
+var mnemonic = "boost talent cushion gadget useful inherit sound mansion scout infant diary link";

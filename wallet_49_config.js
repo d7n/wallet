@@ -1,1 +1,1 @@
-var mnemonic = "rent dash venture industry pave weasel stable describe shield oil program exile";
+var mnemonic = "acoustic better never ski fabric able bronze typical column organ fortune gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "frog trigger wrestle this kitten maid smoke immune quarter depth habit theory";
+var mnemonic = "genre fame six episode giraffe fire equip city live oven electric hurt";

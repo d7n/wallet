@@ -1,1 +1,1 @@
-var mnemonic = "vapor captain pipe blade drop defy depart alpha dawn finger coffee jar";
+var mnemonic = "degree win clinic live employ uniform supreme before giraffe bounce bike cover";

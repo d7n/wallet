@@ -1,1 +1,1 @@
-var mnemonic = "limit drum sadness change thunder blanket brain surprise pool cute angle like";
+var mnemonic = "stick chunk dentist girl select pipe crouch sound prosper angry produce december";

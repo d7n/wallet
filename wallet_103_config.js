@@ -1,1 +1,1 @@
-var mnemonic = "mechanic road pond metal dress manual odor yellow meadow work bench copy";
+var mnemonic = "enact laugh trouble video moon divide paddle cage whip book cream attract";

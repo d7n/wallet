@@ -1,1 +1,1 @@
-var mnemonic = "dizzy ocean usual empty capital source fish ridge kiwi frown album blast";
+var mnemonic = "prison glove quit twice vague lounge myth danger gown wear arch jewel";

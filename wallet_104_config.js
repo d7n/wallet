@@ -1,1 +1,1 @@
-var mnemonic = "try auction ill wear inch bike media spread young income screen host";
+var mnemonic = "grunt hole surround position suffer dune hybrid steak inform blade knock remove";

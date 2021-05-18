@@ -1,1 +1,1 @@
-var mnemonic = "degree odor destroy raw pride sport wolf educate subway basic nose hole";
+var mnemonic = "volume shop fly tower ability aerobic silly tower net civil riot phone";

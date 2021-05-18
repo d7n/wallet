@@ -1,1 +1,1 @@
-var mnemonic = "glue field gown prison van search mirror lazy deer pact remember shed";
+var mnemonic = "belt bacon retire congress reject lab illegal romance chicken allow wedding random";

@@ -1,1 +1,1 @@
-var mnemonic = "enter champion cousin shoulder addict comic sweet dial habit garment tragic table";
+var mnemonic = "allow oppose busy luggage glance sun armor sausage excess balcony disagree cabbage";

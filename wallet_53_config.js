@@ -1,1 +1,1 @@
-var mnemonic = "symbol leopard before wrong decline wish extra guide present lunar night raccoon";
+var mnemonic = "surface spike credit thrive knee mention famous bubble increase ketchup abuse giraffe";

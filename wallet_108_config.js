@@ -1,1 +1,1 @@
-var mnemonic = "rent praise hair coral infant hat arrest around cannon chuckle surge crack";
+var mnemonic = "dumb judge parent effort nest amazing struggle humble topple carpet firm cart";

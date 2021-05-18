@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cube outdoor pulp cram diet supreme alter impulse trophy earth sense";
+var mnemonic = "motion squeeze execute include cargo satoshi lend measure discover crawl twenty clip";

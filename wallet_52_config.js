@@ -1,1 +1,1 @@
-var mnemonic = "stick item net endless poverty account gallery wrestle snack tattoo wrap brush";
+var mnemonic = "forum advice cat finger paper soft boy cricket plastic panel renew error";

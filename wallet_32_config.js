@@ -1,1 +1,1 @@
-var mnemonic = "manage basic decline debate surge moral gym wait beauty nominee teach upgrade";
+var mnemonic = "rural face tennis panel cream bar mail huge exhibit polar agree appear";

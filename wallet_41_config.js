@@ -1,1 +1,1 @@
-var mnemonic = "donor quit muscle memory vintage hood age digital awful wave badge vibrant";
+var mnemonic = "ice depart jaguar gym pizza ride holiday quiz always ugly essay bag";

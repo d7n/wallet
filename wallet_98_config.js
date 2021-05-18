@@ -1,1 +1,1 @@
-var mnemonic = "afford notable service word tag skin truth long old butter thrive puzzle";
+var mnemonic = "extend sustain saddle man hybrid agree divorce garlic undo borrow session junior";

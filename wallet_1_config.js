@@ -1,1 +1,1 @@
-var mnemonic = "rookie chunk pact cactus text angle host divorce sausage stumble chief receive";
+var mnemonic = "ask leopard consider polar verify time run fee come engine gesture agree";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed manual end give vessel cable curve puzzle night glimpse venue hundred";
+var mnemonic = "core burger name message fault bounce daughter warm length length vessel arrest";

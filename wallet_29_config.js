@@ -1,1 +1,1 @@
-var mnemonic = "echo section future reject organ squirrel august ritual soon endorse arrow extend";
+var mnemonic = "power couple torch april alley corn recipe small cat lamp program announce";

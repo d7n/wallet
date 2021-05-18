@@ -1,1 +1,1 @@
-var mnemonic = "give junk enhance face fever combine squeeze occur run element muscle fence";
+var mnemonic = "fold satisfy rookie enact citizen garden above roof shoulder drift worth village";

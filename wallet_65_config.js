@@ -1,1 +1,1 @@
-var mnemonic = "apple slim fitness smooth increase sure clinic rookie liquid floor jaguar lounge";
+var mnemonic = "lava shy century reveal reduce swap transfer fetch tip attitude yellow bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow secret churn airport cry alert ship pottery sting mosquito path liquid";
+var mnemonic = "bamboo current birth drum tunnel evolve quiz soul label predict strong combine";

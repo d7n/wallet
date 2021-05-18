@@ -1,1 +1,1 @@
-var mnemonic = "vault onion frost attend leave find this pelican round orange damage expose";
+var mnemonic = "marble marine duck obscure inflict borrow since master trophy praise blouse topic";

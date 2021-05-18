@@ -1,1 +1,1 @@
-var mnemonic = "local host uphold sure position often urge daring comic uniform junk ticket";
+var mnemonic = "drill enter rely hello tenant trophy fire invest vocal urge dish card";

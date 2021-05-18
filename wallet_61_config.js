@@ -1,1 +1,1 @@
-var mnemonic = "citizen vessel weapon sock torch piano divorce chef extra spot toward bamboo";
+var mnemonic = "nose smart abstract lion bless secret slight churn tank resource organ income";

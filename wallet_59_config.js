@@ -1,1 +1,1 @@
-var mnemonic = "disease picnic broken breeze clutch medal flower abuse float remember vault arrive";
+var mnemonic = "raccoon educate apple device umbrella inch rent execute demand gun roast judge";

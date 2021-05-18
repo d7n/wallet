@@ -1,1 +1,1 @@
-var mnemonic = "jealous sadness collect inquiry gravity vivid speak parrot gas text work tiger";
+var mnemonic = "airport three force lava heavy airport occur visual misery advice shrimp mobile";

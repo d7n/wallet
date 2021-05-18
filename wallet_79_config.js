@@ -1,1 +1,1 @@
-var mnemonic = "dad shallow float believe ocean smart skirt page gentle grunt genre science";
+var mnemonic = "usage chair track assist recall winter hover noodle pool coffee robust another";

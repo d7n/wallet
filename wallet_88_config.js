@@ -1,1 +1,1 @@
-var mnemonic = "hammer asset vehicle shop truck give color album toss spatial escape supply";
+var mnemonic = "size fiscal helmet range fun play sponsor gentle escape bullet riot horse";

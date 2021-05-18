@@ -1,1 +1,1 @@
-var mnemonic = "dirt snack suffer receive walnut step aisle era little rotate tray forget";
+var mnemonic = "grunt cement give canyon emerge helmet lazy depth brief squeeze indicate pitch";

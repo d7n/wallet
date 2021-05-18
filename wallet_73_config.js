@@ -1,1 +1,1 @@
-var mnemonic = "scene kind diary monitor parrot police misery waste shell south discover enemy";
+var mnemonic = "double fish syrup material present melody between wolf also memory pool current";

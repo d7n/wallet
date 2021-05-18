@@ -1,1 +1,1 @@
-var mnemonic = "tuition shift enjoy risk sauce tool cereal exhaust vivid build divide affair";
+var mnemonic = "blossom antique inject modify egg design news only cradle ski rich loud";

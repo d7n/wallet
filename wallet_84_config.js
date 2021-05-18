@@ -1,1 +1,1 @@
-var mnemonic = "eager scrub rare oxygen ivory green behave middle mention sense domain emotion";
+var mnemonic = "nuclear avocado guilt thank yard seed thunder tobacco obscure mule liquid crush";

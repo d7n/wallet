@@ -1,1 +1,1 @@
-var mnemonic = "denial orient economy diary plate resemble perfect rally lyrics wedding estate soup";
+var mnemonic = "protect ghost apology globe harbor like upper ocean coral three sibling happy";

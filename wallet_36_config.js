@@ -1,1 +1,1 @@
-var mnemonic = "quality crowd neither foot mammal angry again inherit aware mule duty story";
+var mnemonic = "lemon range envelope mix summer upgrade seek clap bid almost biology insect";

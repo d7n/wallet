@@ -1,1 +1,1 @@
-var mnemonic = "found slow viable occur section immense basket minor bar dress unveil milk";
+var mnemonic = "tape obscure define boat curve area frost anxiety thought wait gasp estate";

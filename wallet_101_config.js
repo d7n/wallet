@@ -1,1 +1,1 @@
-var mnemonic = "admit toddler hip spy miracle cheap twist envelope ice park shell tool";
+var mnemonic = "grace fence build glow skin mushroom invite engage hold phrase renew aim";

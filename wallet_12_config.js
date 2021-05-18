@@ -1,1 +1,1 @@
-var mnemonic = "wild hero athlete course sugar write anxiety crumble visa fame napkin office";
+var mnemonic = "blast success clinic you truly baby rough couch eyebrow jump dismiss brother";

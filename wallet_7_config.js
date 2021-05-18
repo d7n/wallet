@@ -1,1 +1,1 @@
-var mnemonic = "fiscal matrix that fade mercy pottery wing edge creek wealth game talent";
+var mnemonic = "piano goose shadow okay fog when heavy rich present can ordinary laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "income rich spoil reduce ahead famous height symptom then flame angry frozen";
+var mnemonic = "acquire trigger hurt slush pulp future target apple plug void again sheriff";

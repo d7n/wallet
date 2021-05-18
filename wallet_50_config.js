@@ -1,1 +1,1 @@
-var mnemonic = "hamster position switch duck machine machine mule enroll staff despair exhaust swing";
+var mnemonic = "flock rotate horse detect bomb judge tide raccoon trophy pyramid any agree";

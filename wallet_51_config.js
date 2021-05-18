@@ -1,1 +1,1 @@
-var mnemonic = "used warfare van process captain split middle gap master kangaroo nerve lamp";
+var mnemonic = "shed fossil turn glow potato quote rare magic arrive fetch unaware grab";

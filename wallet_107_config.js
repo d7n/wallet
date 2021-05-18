@@ -1,1 +1,1 @@
-var mnemonic = "prison denial furnace beach engine veteran arena come hedgehog giant provide until";
+var mnemonic = "current chase monkey tourist sleep spoil story girl honey enable armor enact";

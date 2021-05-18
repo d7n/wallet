@@ -1,1 +1,1 @@
-var mnemonic = "few silent lawn woman plate open cloud hundred inside answer tilt wisdom";
+var mnemonic = "senior injury post fossil magic author key boring dolphin stool mention attitude";

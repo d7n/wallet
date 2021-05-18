@@ -1,1 +1,1 @@
-var mnemonic = "broom loud grass stay under super pilot chicken predict outdoor sibling earth";
+var mnemonic = "into layer discover method travel news exotic tiger design income vendor clump";

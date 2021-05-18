@@ -1,1 +1,1 @@
-var mnemonic = "top before cover dilemma asset panther actual corn shrug gesture baby poverty";
+var mnemonic = "lamp vast heart merry language frost cattle kit youth tilt basic universe";

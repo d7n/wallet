@@ -1,1 +1,1 @@
-var mnemonic = "steak civil blossom intact elephant have drastic enjoy exotic rely layer weapon";
+var mnemonic = "bracket hip town suit fatigue congress bacon glue stereo hunt hospital entry";

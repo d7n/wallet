@@ -1,1 +1,1 @@
-var mnemonic = "master junk arrow error brave invite ordinary dune fury wagon regret session";
+var mnemonic = "dumb invest lend chaos act transfer dinosaur clap wheel people detail correct";

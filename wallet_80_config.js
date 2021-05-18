@@ -1,1 +1,1 @@
-var mnemonic = "render parent chapter scorpion ugly enrich goat lawn era eager joke shell";
+var mnemonic = "sadness swim soccer round humble prosper type shell slam essence copy frequent";

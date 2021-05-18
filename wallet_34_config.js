@@ -1,1 +1,1 @@
-var mnemonic = "humble insane source already trick process blush fabric proud clinic boring minute";
+var mnemonic = "fabric try goose beyond chaos glance page setup used glide cluster juice";

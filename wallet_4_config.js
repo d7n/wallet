@@ -1,1 +1,1 @@
-var mnemonic = "nest floor seven moral coil analyst toe craft volcano violin video trial";
+var mnemonic = "budget destroy sustain swear fox cliff oxygen priority express sick exchange hunt";

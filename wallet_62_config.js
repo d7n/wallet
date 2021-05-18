@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon various hunt roof siren season warrior orphan actor claw then syrup";
+var mnemonic = "expect tool feel nice sad grocery fold balcony adult castle crush robust";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan tail flat agent nephew climb notable youth melody seminar attitude brick";
+var mnemonic = "vicious essence seat right bag scale state electric innocent elder wild old";

@@ -1,1 +1,1 @@
-var mnemonic = "fog hurry merit matrix dentist video almost royal lounge ball oblige column";
+var mnemonic = "motor grid onion achieve valid ski tape alone fluid glass rifle patient";

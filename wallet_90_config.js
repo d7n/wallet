@@ -1,1 +1,1 @@
-var mnemonic = "throw glad position approve blanket curious typical evil casual chalk pony consider";
+var mnemonic = "visual huge thought govern reunion board patrol alcohol enlist donate number twice";

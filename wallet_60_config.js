@@ -1,1 +1,1 @@
-var mnemonic = "shine vacant dirt tobacco fabric fortune alert cook beauty endless diary announce";
+var mnemonic = "capable ostrich beef frozen service absent chunk blouse glow fade chase staff";

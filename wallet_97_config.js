@@ -1,1 +1,1 @@
-var mnemonic = "rely grid isolate valve pitch ghost soccer involve tank produce shiver wrestle";
+var mnemonic = "excite endorse rain under domain ability tobacco sweet outside march antenna print";

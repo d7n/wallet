@@ -1,1 +1,1 @@
-var mnemonic = "uniform surprise apple review collect roast beef pipe glimpse become sadness broom";
+var mnemonic = "renew inmate repeat false witness solid hidden diagram truck consider fetch employ";

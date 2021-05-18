@@ -1,1 +1,1 @@
-var mnemonic = "maze garment point park bacon note divert cave prize chicken yellow sense";
+var mnemonic = "length meadow similar soda frozen glide enemy rug judge kit again seat";

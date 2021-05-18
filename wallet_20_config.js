@@ -1,1 +1,1 @@
-var mnemonic = "predict run globe effort simple supply apology notable phrase oppose return armed";
+var mnemonic = "skate welcome multiply guess design puzzle device table pepper perfect pill know";

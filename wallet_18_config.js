@@ -1,1 +1,1 @@
-var mnemonic = "add doll cushion chaos silent rice sleep season powder like salute sad";
+var mnemonic = "elevator rubber escape oak romance shoulder believe asset start typical fiscal genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage aisle law hollow tortoise candy magnet bomb dose mistake rent this";
+var mnemonic = "saddle clean noble shoot moon aim puzzle arm volcano resource live copper";

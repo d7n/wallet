@@ -1,1 +1,1 @@
-var mnemonic = "ensure forget gun avoid clip ripple sport hungry above spatial fly heart";
+var mnemonic = "entire chat ship cradle field only dynamic race uphold expand kidney team";

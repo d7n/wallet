@@ -1,1 +1,1 @@
-var mnemonic = "label crash office coral aunt mix tank first smart whisper rookie chaos";
+var mnemonic = "define maximum business inhale axis all much remove kiss resemble document donkey";

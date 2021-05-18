@@ -1,1 +1,1 @@
-var mnemonic = "actual lawsuit sheriff strategy middle detect welcome shoulder present ski alpha lecture";
+var mnemonic = "brass local argue heart ostrich sibling tired twist clerk height solution expect";

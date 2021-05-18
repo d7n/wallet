@@ -1,1 +1,1 @@
-var mnemonic = "sun heavy journey egg glue tribe winner vintage country crucial scrub sketch";
+var mnemonic = "novel expand craft island farm guitar original order stock day disorder waste";

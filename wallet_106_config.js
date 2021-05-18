@@ -1,1 +1,1 @@
-var mnemonic = "various addict cake isolate village ready trumpet quality flip road hint false";
+var mnemonic = "ritual total morning intact alert rent fit salute earn hobby vintage jungle";

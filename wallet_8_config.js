@@ -1,1 +1,1 @@
-var mnemonic = "crisp genius guitar someone dentist youth marriage only build thumb index defense";
+var mnemonic = "zoo quarter tube muscle arrange mechanic floor distance start welcome typical gap";

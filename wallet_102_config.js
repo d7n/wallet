@@ -1,1 +1,1 @@
-var mnemonic = "laugh devote saddle account acoustic endorse fiber welcome title dinner tennis skate";
+var mnemonic = "theme degree thought bean suit despair access soccer trend race replace calm";

@@ -1,1 +1,1 @@
-var mnemonic = "siege cliff vibrant pilot arrow empower salute merry drop rack salmon address";
+var mnemonic = "round parrot table learn thing eagle apology alter runway life angle hint";

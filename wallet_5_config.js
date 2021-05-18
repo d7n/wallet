@@ -1,1 +1,1 @@
-var mnemonic = "snack gas spoil cheese escape hole need make paper apology piece hood";
+var mnemonic = "notable submit submit exit degree pink cinnamon stone property grit twice swamp";

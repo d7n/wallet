@@ -1,1 +1,1 @@
-var mnemonic = "table erase cross coach crazy cement drift dumb coral wool address disagree";
+var mnemonic = "address close artist hire dream crowd dish ensure bottom opinion duck original";

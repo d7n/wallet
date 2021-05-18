@@ -1,1 +1,1 @@
-var mnemonic = "danger trigger mystery snake shaft game toddler toast immune flee drink include";
+var mnemonic = "scheme piano frown expect dinner toss grow pledge rib satisfy refuse move";

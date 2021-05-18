@@ -1,1 +1,1 @@
-var mnemonic = "rather defy chicken dinosaur cheap apple fluid medal nephew alter bargain wrist";
+var mnemonic = "simple lion account weather forest horse steel example abuse calm mushroom session";

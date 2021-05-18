@@ -1,1 +1,1 @@
-var mnemonic = "baby jewel math adult wheat girl humble flock blanket want space stick";
+var mnemonic = "leg human capital fox drink pause minute error flip donkey item lava";

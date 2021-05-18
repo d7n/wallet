@@ -1,1 +1,1 @@
-var mnemonic = "lift scorpion latin list protect know always paper few panther erosion focus";
+var mnemonic = "heavy social maze gate horse text ride menu coconut this equip winner";

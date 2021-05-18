@@ -1,1 +1,1 @@
-var mnemonic = "couple august dignity draft business city asset either current leaf vivid poem";
+var mnemonic = "tree assault dose forget august cat train husband humor wonder accuse region";

@@ -1,1 +1,1 @@
-var mnemonic = "lady above reunion make desert shock wrist travel bracket cheese fish best";
+var mnemonic = "spike steak agree reduce tilt bargain tongue level lazy celery pig cycle";

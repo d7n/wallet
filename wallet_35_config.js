@@ -1,1 +1,1 @@
-var mnemonic = "initial tower food witness south height maid end pulp spot trip pattern";
+var mnemonic = "flame main deposit situate delay crew valley focus wisdom steak romance snow";

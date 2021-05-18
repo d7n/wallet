@@ -1,1 +1,1 @@
-var mnemonic = "attract print hurdle summer pattern random foster drum pipe weasel match mesh";
+var mnemonic = "among ask crunch behave more where sadness early pencil spike february situate";

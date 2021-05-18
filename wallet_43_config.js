@@ -1,1 +1,1 @@
-var mnemonic = "mention worry spoil violin now change buddy tower either solution know afraid";
+var mnemonic = "galaxy liar scout gather clap become web federal welcome elegant scan weasel";

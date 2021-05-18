@@ -1,1 +1,1 @@
-var mnemonic = "slice drastic child forward hurry goddess cradle cinnamon outside adjust flip high";
+var mnemonic = "include eager glare bunker warfare milk soldier quit window argue boat same";

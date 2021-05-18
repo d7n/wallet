@@ -1,1 +1,1 @@
-var mnemonic = "primary soccer luggage tooth copper whale return depth hello gasp sport drastic";
+var mnemonic = "delay symptom canal sad swift stage problem invite lazy misery awake armed";

@@ -1,1 +1,1 @@
-var mnemonic = "trade fiction chimney purity sunny tragic wage drastic label hill inflict utility";
+var mnemonic = "broom pistol marriage craft invest festival web harsh weasel focus predict tired";

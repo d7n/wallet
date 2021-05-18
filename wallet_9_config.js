@@ -1,1 +1,1 @@
-var mnemonic = "sea switch sponsor annual auction refuse fish catch friend useful plug goat";
+var mnemonic = "siege day patrol volcano arrow ankle crop hunt hollow idea short velvet";

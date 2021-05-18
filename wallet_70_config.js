@@ -1,1 +1,1 @@
-var mnemonic = "flower congress polar floor shrug doll satisfy drum dismiss advance surge young";
+var mnemonic = "silent bronze mandate stick cable holiday shrug trade hybrid regret scrap planet";

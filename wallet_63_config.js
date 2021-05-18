@@ -1,1 +1,1 @@
-var mnemonic = "work cage hungry hen thrive slice carbon anchor hungry glory blame abuse";
+var mnemonic = "cloud apology float federal idle search sleep warm address drink open toast";

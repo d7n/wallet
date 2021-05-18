@@ -1,1 +1,1 @@
-var mnemonic = "victory zero drum bright heavy hunt lounge walnut december retire library pact";
+var mnemonic = "soap vendor orchard erode never same trouble mushroom giggle jar rack glad";

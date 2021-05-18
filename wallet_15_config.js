@@ -1,1 +1,1 @@
-var mnemonic = "pool cool dawn feel convince response novel penalty detail goat raccoon upgrade";
+var mnemonic = "puppy execute cheap defense weapon legend you since rose guide heart inherit";

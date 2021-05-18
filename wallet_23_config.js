@@ -1,1 +1,1 @@
-var mnemonic = "forget jar school hidden any uncover page toddler illegal toilet recycle seminar";
+var mnemonic = "human unusual angle code wish cover rough mammal brick popular absent nuclear";
