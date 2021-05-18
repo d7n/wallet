@@ -1,1 +1,1 @@
-var mnemonic = "message fortune april lock girl dwarf purity grace rally net tank gown";
+var mnemonic = "scare jacket before analyst pill one jealous amount language aspect pioneer project";

@@ -1,1 +1,1 @@
-var mnemonic = "device essay describe bullet miracle damage any weekend seed debate flush system";
+var mnemonic = "sword pond awake fantasy town rule tool armed warm humble ten pepper";

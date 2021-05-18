@@ -1,1 +1,1 @@
-var mnemonic = "cluster fragile fabric apology market kitchen home normal retreat renew advance silly";
+var mnemonic = "column grief adult mule toddler next sword dress daring galaxy front monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "adult goat purity cigar glide private monitor help describe actual stay tomorrow";
+var mnemonic = "guitar fix faculty left avocado daughter jewel mansion copy bronze dumb health";

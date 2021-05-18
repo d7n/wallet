@@ -1,1 +1,1 @@
-var mnemonic = "lizard clap typical urban off analyst sense firm picnic tree empower section";
+var mnemonic = "morning puppy cabbage sugar ensure curious elephant peace pink close sudden asset";

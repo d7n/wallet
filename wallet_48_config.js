@@ -1,1 +1,1 @@
-var mnemonic = "fall labor violin twist knock timber crack yellow shove kid pull forward";
+var mnemonic = "erode roof album fame debate guard clinic dress bottom govern apart creek";

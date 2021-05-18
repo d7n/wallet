@@ -1,1 +1,1 @@
-var mnemonic = "sphere butter refuse drill giant unhappy local cigar rocket frozen aware blast";
+var mnemonic = "board raise toilet together orbit wear nut acoustic person genre blur bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "wire business slight helmet jaguar nut history sleep source genuine rail stone";
+var mnemonic = "dutch clerk satisfy top mistake monkey pencil display symbol lizard utility corn";

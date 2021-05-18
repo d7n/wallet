@@ -1,1 +1,1 @@
-var mnemonic = "shoulder rabbit jewel novel spice kitchen unfair stool blush episode hazard shine";
+var mnemonic = "list jeans machine dinner immense fashion possible cram media uncover hurdle empty";

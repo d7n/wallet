@@ -1,1 +1,1 @@
-var mnemonic = "cage brand artist fish final pitch wise leader speed dial fix fan";
+var mnemonic = "bike focus magic train pulp kingdom expect mad caution solution learn page";

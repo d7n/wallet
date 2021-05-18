@@ -1,1 +1,1 @@
-var mnemonic = "inject spoil anxiety supreme bacon kitchen father lazy harsh rice false slight";
+var mnemonic = "bag since oppose arrange glare video toe history magnet rocket chimney pole";

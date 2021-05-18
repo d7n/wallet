@@ -1,1 +1,1 @@
-var mnemonic = "morning floor tell alley priority subway blue boil shadow scatter napkin identify";
+var mnemonic = "helmet outside orbit journey believe fancy swim lady cactus come jewel forest";

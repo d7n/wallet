@@ -1,1 +1,1 @@
-var mnemonic = "walnut ostrich retire combine what tool sadness mansion ill client dish chunk";
+var mnemonic = "document boost soul donor slim across shy game this biology special lens";

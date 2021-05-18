@@ -1,1 +1,1 @@
-var mnemonic = "comfort throw miss found brother badge believe spike large asset obvious fall";
+var mnemonic = "matter engine library mesh fatigue shed decrease silly round poem grit problem";

@@ -1,1 +1,1 @@
-var mnemonic = "toast enhance bread right pig obey doctor sell merge divert ordinary soccer";
+var mnemonic = "that flock clip square surface sheriff fog host water silk stove sun";

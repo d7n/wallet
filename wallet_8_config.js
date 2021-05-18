@@ -1,1 +1,1 @@
-var mnemonic = "rally spoil royal fragile disorder recall where flat flock surface matrix clump";
+var mnemonic = "offer suspect alcohol stuff inmate love equal jeans bulk finger forum adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic fury wet pond cart proud machine chase park mimic cable awful";
+var mnemonic = "target abstract dose hover video butter lamp found remember put zone great";

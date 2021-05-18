@@ -1,1 +1,1 @@
-var mnemonic = "same express tilt broom okay deal host process crisp shrimp need option";
+var mnemonic = "quit tent forget envelope ugly heart program clip dwarf patrol wise input";

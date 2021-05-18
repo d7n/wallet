@@ -1,1 +1,1 @@
-var mnemonic = "humor rice galaxy swear move canal cannon gravity club today near cliff";
+var mnemonic = "live sniff soon vapor devote riot dilemma pudding bacon motion curious fabric";

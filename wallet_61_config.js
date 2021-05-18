@@ -1,1 +1,1 @@
-var mnemonic = "you zero next biology market dignity example pencil dream provide catalog you";
+var mnemonic = "shock already strong senior wife maple evolve trip design tool toss across";

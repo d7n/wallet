@@ -1,1 +1,1 @@
-var mnemonic = "stock amused trend random clerk remove poem mushroom measure shell soul payment";
+var mnemonic = "mushroom come usage clap asthma among drama seven beef sustain soccer merry";

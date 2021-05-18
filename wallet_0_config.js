@@ -1,1 +1,1 @@
-var mnemonic = "cram tank reward enlist prevent acid uphold rare idea school morning mimic";
+var mnemonic = "olive rain tank victory dad diesel buddy regular hammer diamond shield hope";

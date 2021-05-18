@@ -1,1 +1,1 @@
-var mnemonic = "winter resist burst number start hand admit replace affair anger pumpkin wise";
+var mnemonic = "ribbon right critic defense wedding food horn initial love garlic install beyond";

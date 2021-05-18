@@ -1,1 +1,1 @@
-var mnemonic = "zoo bunker cube inject glare sugar enroll that sing benefit burden bus";
+var mnemonic = "monkey end deposit day wedding happy cry useful slab ketchup task bulb";

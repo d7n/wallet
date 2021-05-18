@@ -1,1 +1,1 @@
-var mnemonic = "crush lake pulp ring clever empty brand drastic check artwork nest hazard";
+var mnemonic = "bicycle upgrade pledge picture confirm vibrant tonight father south perfect struggle vacant";

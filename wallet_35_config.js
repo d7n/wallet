@@ -1,1 +1,1 @@
-var mnemonic = "unusual snap force inch wife hidden sibling liberty stamp awesome journey scale";
+var mnemonic = "allow chimney later bitter ocean vacant force yard holiday half salt milk";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis spatial heart add brisk major prosper give similar dance apart negative";
+var mnemonic = "agree rate circle basic mail spoon february use second pencil tell battle";

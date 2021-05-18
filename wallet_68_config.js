@@ -1,1 +1,1 @@
-var mnemonic = "margin random anxiety shift ancient creek skirt frame neglect machine ride sight";
+var mnemonic = "student wire march ask state coach sorry evolve define tiger that oyster";

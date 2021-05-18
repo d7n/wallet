@@ -1,1 +1,1 @@
-var mnemonic = "ghost orphan forum emerge public squirrel senior rely outside agree reopen hill";
+var mnemonic = "nothing exclude decline outer math pond master news taxi mean pattern cancel";

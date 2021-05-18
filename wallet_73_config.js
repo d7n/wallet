@@ -1,1 +1,1 @@
-var mnemonic = "summer lumber daughter file discover name culture puppy obtain radio dust donate";
+var mnemonic = "pretty voyage twist tag vapor right ramp wise brother swamp light safe";

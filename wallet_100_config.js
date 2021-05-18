@@ -1,1 +1,1 @@
-var mnemonic = "fix joy all exile zero together empty sauce suggest sweet exact jeans";
+var mnemonic = "find present notice cotton concert rocket provide connect screen glue siren moon";

@@ -1,1 +1,1 @@
-var mnemonic = "junior hope coil album loan open solve brown ship salute length since";
+var mnemonic = "humor upper antenna mom cannon eyebrow tourist review person vendor alien apology";

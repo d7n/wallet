@@ -1,1 +1,1 @@
-var mnemonic = "course damage february used card myth crystal cruise amazing learn enter convince";
+var mnemonic = "crop comic armor until north feel trophy trick major lake milk rice";

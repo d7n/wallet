@@ -1,1 +1,1 @@
-var mnemonic = "cup now hand assume thumb silk much denial head life cactus depart";
+var mnemonic = "same real arrow flavor saddle nest wink squeeze banner pig jeans dune";

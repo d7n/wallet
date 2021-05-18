@@ -1,1 +1,1 @@
-var mnemonic = "faith base face duck clinic peace peanut loop worry cupboard father pretty";
+var mnemonic = "demise suspect amused exhaust creek auto report vast now lunar time spend";

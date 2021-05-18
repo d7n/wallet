@@ -1,1 +1,1 @@
-var mnemonic = "unveil limb castle thumb viable problem payment insect ski spoil spare garlic";
+var mnemonic = "common similar liar spy dolphin valley honey floor margin wool ghost pink";

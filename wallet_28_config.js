@@ -1,1 +1,1 @@
-var mnemonic = "tenant pioneer rookie base script during uniform rally palm erode squeeze slender";
+var mnemonic = "canoe daring false easily region pottery beauty rhythm laptop soldier water ball";

@@ -1,1 +1,1 @@
-var mnemonic = "ride ladder tower axis only manage access matter define barely such found";
+var mnemonic = "hurt neck fossil demand day trick embody still protect country sure social";

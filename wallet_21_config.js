@@ -1,1 +1,1 @@
-var mnemonic = "install evolve debate decline depart forest copper zero cereal fire prison chicken";
+var mnemonic = "exchange mountain more praise ranch note bread clip limit finger atom exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "sure pen biology decrease picnic cool park scare cloth annual science magnet";
+var mnemonic = "talk unfair habit useful then rate bid crouch road concert arm betray";

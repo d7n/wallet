@@ -1,1 +1,1 @@
-var mnemonic = "quote swift conduct pilot canyon simple best click critic indoor world depend";
+var mnemonic = "kingdom fun approve leave party monitor hurry minute divide sorry tell great";

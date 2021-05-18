@@ -1,1 +1,1 @@
-var mnemonic = "crew nothing pigeon dice marriage common goose tennis dice field lobster industry";
+var mnemonic = "cluster news burger print young position chat copper cactus alarm cool car";

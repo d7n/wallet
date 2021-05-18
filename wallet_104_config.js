@@ -1,1 +1,1 @@
-var mnemonic = "toast dial private trumpet element delay toward end where stock split armed";
+var mnemonic = "across post true poverty vehicle piece over adult melody mandate month pottery";

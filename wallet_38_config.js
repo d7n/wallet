@@ -1,1 +1,1 @@
-var mnemonic = "switch wear response moment pyramid garage other issue zebra label stem can";
+var mnemonic = "wild muscle city insect mixture oval happy coach silly end trade arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon bullet spy ketchup mean marriage lab news river wonder boy this";
+var mnemonic = "behind depart allow tail hospital vapor pond age act acid glove whale";

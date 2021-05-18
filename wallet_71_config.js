@@ -1,1 +1,1 @@
-var mnemonic = "fit budget once language excess solar vault craft park buffalo police scatter";
+var mnemonic = "about swim busy garbage door elder dwarf above almost comic conduct clean";

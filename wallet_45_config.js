@@ -1,1 +1,1 @@
-var mnemonic = "kidney kiss pyramid analyst liar game draft limb keep stuff rate spread";
+var mnemonic = "welcome income stone plunge govern time solar ozone decline pear reveal oyster";

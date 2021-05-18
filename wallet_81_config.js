@@ -1,1 +1,1 @@
-var mnemonic = "clarify seminar shy office half stick barely fury happy cliff thrive mention";
+var mnemonic = "throw rare memory antenna confirm deputy coil govern punch mom decorate song";

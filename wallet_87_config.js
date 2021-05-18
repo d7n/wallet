@@ -1,1 +1,1 @@
-var mnemonic = "wish eager turtle capable eagle game stumble verify coffee winner forget broom";
+var mnemonic = "post sorry guess frost cash evolve lazy plunge wreck zebra report wash";

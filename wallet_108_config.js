@@ -1,1 +1,1 @@
-var mnemonic = "merit idea mask outside endorse address join volume chief degree list focus";
+var mnemonic = "night outdoor seminar emotion sunny flock chair resource project make tourist roof";

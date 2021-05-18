@@ -1,1 +1,1 @@
-var mnemonic = "fluid penalty worry outside awful october offer moral bright machine rule whale";
+var mnemonic = "believe hockey bean local state today manage city purchase ramp fold also";

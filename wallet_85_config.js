@@ -1,1 +1,1 @@
-var mnemonic = "put pull deal raven identify plastic hamster helmet hawk bonus nation advice";
+var mnemonic = "science unique alley wagon friend hover inflict evidence artist roast cage custom";

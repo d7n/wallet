@@ -1,1 +1,1 @@
-var mnemonic = "promote pepper rural member jaguar eager immense hunt dream mandate unusual primary";
+var mnemonic = "state predict shaft attend bar fan kite news enroll birth ostrich powder";

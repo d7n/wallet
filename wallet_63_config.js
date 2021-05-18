@@ -1,1 +1,1 @@
-var mnemonic = "attend chunk income little runway myself below magnet later exhaust leaf sorry";
+var mnemonic = "useless tennis state select hungry seat embrace nephew vendor style lawsuit future";

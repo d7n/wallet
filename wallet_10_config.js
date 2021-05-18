@@ -1,1 +1,1 @@
-var mnemonic = "couple motor depth basic index crunch delay clever lamp useless wing brief";
+var mnemonic = "absent own squeeze jewel finger eager unveil hen junk despair claw useful";

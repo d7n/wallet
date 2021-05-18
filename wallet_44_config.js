@@ -1,1 +1,1 @@
-var mnemonic = "unveil lend meadow worth inhale expand exhaust hover excite profit cycle wire";
+var mnemonic = "setup neglect suffer alley firm already parade intact mouse bird call reward";

@@ -1,1 +1,1 @@
-var mnemonic = "expand meadow genius border broccoli alter flush sponsor promote shrimp panther thought";
+var mnemonic = "tomato birth jelly fault price equal husband story ignore link congress adjust";

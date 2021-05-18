@@ -1,1 +1,1 @@
-var mnemonic = "ethics renew science ready shoot until truth agent decrease tornado monster water";
+var mnemonic = "pill vanish observe wave brother tobacco vehicle amateur pumpkin oil plastic inhale";

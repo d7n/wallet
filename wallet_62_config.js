@@ -1,1 +1,1 @@
-var mnemonic = "farm liar island about lottery subway retreat success easily verb fuel switch";
+var mnemonic = "luggage suffer ahead board until face anchor buyer route birth october double";

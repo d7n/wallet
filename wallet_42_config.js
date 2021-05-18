@@ -1,1 +1,1 @@
-var mnemonic = "alert quantum drastic risk olympic foster clean icon suggest antique swallow tide";
+var mnemonic = "drive nominee jaguar artwork deputy equal trip couple mind orbit input ritual";

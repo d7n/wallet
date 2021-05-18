@@ -1,1 +1,1 @@
-var mnemonic = "subject bundle section prize outer blame super pool veteran bachelor turn differ";
+var mnemonic = "ranch merry vintage hold shy iron spy name music gesture chase away";

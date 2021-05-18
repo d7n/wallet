@@ -1,1 +1,1 @@
-var mnemonic = "fold fetch chunk host marriage census range motion forest grab tomato weapon";
+var mnemonic = "marble winter shaft smooth mammal reform shield major jeans unknown casino report";

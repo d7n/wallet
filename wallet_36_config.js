@@ -1,1 +1,1 @@
-var mnemonic = "duty gentle able task gloom busy silk chair pair run apple open";
+var mnemonic = "coil trumpet scheme gun collect bulb enable rigid hungry hold visa tomorrow";

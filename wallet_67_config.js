@@ -1,1 +1,1 @@
-var mnemonic = "valid social city faculty network autumn bread banner addict anger wall shy";
+var mnemonic = "marble forget secret chef trust work guilt eternal smart team asset stairs";

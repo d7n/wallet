@@ -1,1 +1,1 @@
-var mnemonic = "ripple deny boss issue visit pitch goddess pear change act fun return";
+var mnemonic = "whisper insect slow ecology certain athlete rug sing cement rule copy citizen";

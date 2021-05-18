@@ -1,1 +1,1 @@
-var mnemonic = "tongue goat cream trouble armor morning gentle kitchen arch label gentle awful";
+var mnemonic = "cabin fuel sure bottom maple doctor there destroy grab humor trend thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "balance lizard again wide tortoise risk injury loop mosquito elite vicious critic";
+var mnemonic = "can afford require edge office attract sport guitar bunker scare flock rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "august able maple expire sentence hood entire diagram bitter moral worry funny";
+var mnemonic = "unusual bind arrest head negative adjust orient giggle drum merit lazy tumble";

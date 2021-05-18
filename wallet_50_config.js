@@ -1,1 +1,1 @@
-var mnemonic = "lobster tube update attend destroy decline april update casual mind skate infant";
+var mnemonic = "motion general glimpse hire still decade sphere wood song crouch cram priority";

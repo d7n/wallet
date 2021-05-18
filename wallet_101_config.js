@@ -1,1 +1,1 @@
-var mnemonic = "entire nominee crisp survey warfare crowd patrol chronic shop danger age assist";
+var mnemonic = "can win ready say alpha audit crisp pet alien column memory trouble";

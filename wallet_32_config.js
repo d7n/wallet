@@ -1,1 +1,1 @@
-var mnemonic = "jelly gate fabric receive foam birth melt number meat change message video";
+var mnemonic = "naive wine damage hand merge capital endless opera captain doll author tag";

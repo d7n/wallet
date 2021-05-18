@@ -1,1 +1,1 @@
-var mnemonic = "uniform merry apple cement rubber expect ivory express female require put history";
+var mnemonic = "cliff shock client polar mango behave keep try pride merry horn more";

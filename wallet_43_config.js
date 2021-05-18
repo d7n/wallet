@@ -1,1 +1,1 @@
-var mnemonic = "vapor jewel jewel hair empty fall army clump patient cheese tank airport";
+var mnemonic = "bus immense stool merge metal coil track escape road elegant aunt venue";

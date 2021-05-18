@@ -1,1 +1,1 @@
-var mnemonic = "pizza unfair ceiling garage present boring fault file young fragile clock shoe";
+var mnemonic = "already relief hold miracle disagree name nuclear escape torch machine trigger pill";

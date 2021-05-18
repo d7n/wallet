@@ -1,1 +1,1 @@
-var mnemonic = "wrap wish miracle cube place juice shrimp true frog desert diagram snap";
+var mnemonic = "achieve elbow sand element execute cement truck theory excite banana hobby seed";

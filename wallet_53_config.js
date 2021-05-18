@@ -1,1 +1,1 @@
-var mnemonic = "digital fetch judge maple swim vast shoulder spare wedding goat clerk limb";
+var mnemonic = "lens crowd measure toward canvas sell tennis point physical power crane toward";

@@ -1,1 +1,1 @@
-var mnemonic = "drama print music silk income venue ordinary jeans force outside finger aisle";
+var mnemonic = "young custom sign foot between lab cradle easily sorry tool say identify";

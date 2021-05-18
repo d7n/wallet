@@ -1,1 +1,1 @@
-var mnemonic = "intact dash upgrade alarm zoo feature surround speak shock affair color ask";
+var mnemonic = "jungle gesture damage nest matter allow pumpkin awesome door kitten couch always";

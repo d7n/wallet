@@ -1,1 +1,1 @@
-var mnemonic = "bench ritual sight hospital tower fancy pigeon gorilla inch split repeat popular";
+var mnemonic = "tattoo bar flash celery piece swarm bless deny immense wealth harsh myself";

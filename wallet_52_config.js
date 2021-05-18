@@ -1,1 +1,1 @@
-var mnemonic = "minute poem peasant brand eternal print pigeon hazard pill crack convince phrase";
+var mnemonic = "rib exist float again physical figure style govern buzz soul deputy blood";

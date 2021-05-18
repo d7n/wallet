@@ -1,1 +1,1 @@
-var mnemonic = "bamboo holiday snake slam quantum arm area entire hello note sketch educate";
+var mnemonic = "about sun vital turtle this stem casual anxiety mountain rug sun pudding";

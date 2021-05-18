@@ -1,1 +1,1 @@
-var mnemonic = "weekend luggage kidney rug large rally avocado fruit prize address spring elegant";
+var mnemonic = "unfair romance mind labor wine gas rare divert ramp pulp slight oval";

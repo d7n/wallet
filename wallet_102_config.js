@@ -1,1 +1,1 @@
-var mnemonic = "number dinner mouse machine chapter student hobby arm island digital track document";
+var mnemonic = "palm sadness surround juice absent ramp fringe math royal valve oblige volume";

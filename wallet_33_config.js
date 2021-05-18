@@ -1,1 +1,1 @@
-var mnemonic = "whip need off long draft arch tomato aspect world fuel track hire";
+var mnemonic = "panda setup office federal audit term top track also east latin river";

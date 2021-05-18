@@ -1,1 +1,1 @@
-var mnemonic = "luggage describe saddle hedgehog skin badge episode tell flash volume junior tomato";
+var mnemonic = "ketchup one borrow blood title arctic food shock tiger document swim fence";

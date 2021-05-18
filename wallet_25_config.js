@@ -1,1 +1,1 @@
-var mnemonic = "same marriage put tuna shoulder glide feed fold over yellow wood copper";
+var mnemonic = "novel actor acid vibrant coyote sunny one uphold casino gauge salt real";

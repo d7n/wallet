@@ -1,1 +1,1 @@
-var mnemonic = "portion liberty proud safe crumble useless square abuse wife flat matrix spatial";
+var mnemonic = "erode bicycle soft day scan galaxy into helmet nice valve view critic";

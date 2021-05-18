@@ -1,1 +1,1 @@
-var mnemonic = "bronze conduct train wrap rail olive rate speed series carbon reflect lamp";
+var mnemonic = "ostrich auction awake liquid parade dilemma high inhale gold romance weird catch";

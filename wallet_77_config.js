@@ -1,1 +1,1 @@
-var mnemonic = "aunt tail saddle judge trash spice soul wolf cover potato index void";
+var mnemonic = "coast resemble news cereal rib comfort hill six either cart shift pair";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal volume drink sure dance pumpkin service super invest guilt supply alert";
+var mnemonic = "hole fat split obvious leg brother teach reform giggle memory provide blue";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard loan hurdle afraid random rare panda area giant anger junior boil";
+var mnemonic = "sphere jaguar nut obvious october tube expire appear recall bring retire split";

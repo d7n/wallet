@@ -1,1 +1,1 @@
-var mnemonic = "easy receive chase occur fiction icon initial borrow giant mistake rabbit birth";
+var mnemonic = "piece genius loop sunny join follow atom burden join flag relief idle";
