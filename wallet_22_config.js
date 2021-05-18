@@ -1,1 +1,1 @@
-var mnemonic = "cloud admit vendor mistake extra various first tilt curtain alien moon between";
+var mnemonic = "rival kiss diagram young slow goat room ripple vapor battle way canal";

@@ -1,1 +1,1 @@
-var mnemonic = "story tissue north deposit cigar erase venture trap term pioneer left vapor";
+var mnemonic = "right shaft rural danger collect clinic salad spy exercise enact tip since";

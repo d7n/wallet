@@ -1,1 +1,1 @@
-var mnemonic = "body oval category bag ghost pottery fence exclude notable journey century vacant";
+var mnemonic = "salmon person custom quantum regret design trick dutch window deer allow thing";

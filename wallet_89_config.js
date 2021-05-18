@@ -1,1 +1,1 @@
-var mnemonic = "plunge cradle trigger joy defense hidden adult inside give stairs tunnel empower";
+var mnemonic = "twin custom bless rate vanish exclude grain must icon skull fault focus";

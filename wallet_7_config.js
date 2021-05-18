@@ -1,1 +1,1 @@
-var mnemonic = "cable finger roast record grape secret fix rose west relief kiss one";
+var mnemonic = "pipe chef fade zero record donor walk online water squirrel draft alter";

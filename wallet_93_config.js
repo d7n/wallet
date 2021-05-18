@@ -1,1 +1,1 @@
-var mnemonic = "start craft enforce amused relief cause spirit age sibling nasty feature choice";
+var mnemonic = "sing scatter turn poverty frog supreme local crucial police mosquito drastic claim";

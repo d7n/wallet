@@ -1,1 +1,1 @@
-var mnemonic = "exclude guard expect barrel problem cloud harvest boy evil upgrade federal various";
+var mnemonic = "dice stage pledge give sweet egg income pass reason tuition now critic";

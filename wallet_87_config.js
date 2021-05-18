@@ -1,1 +1,1 @@
-var mnemonic = "produce sense replace will clip list excite frown cost liberty coyote useless";
+var mnemonic = "cinnamon lizard video figure cereal ghost umbrella hello little panther test frequent";

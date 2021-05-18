@@ -1,1 +1,1 @@
-var mnemonic = "buffalo forest gravity control enact club since crawl occur master vague select";
+var mnemonic = "trial field uncle ocean merge scorpion pink notice praise surprise mouse dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "reform cup margin aunt federal fabric health vital hood unfold steak improve";
+var mnemonic = "produce abstract dog join toddler give boring power sweet husband document combine";

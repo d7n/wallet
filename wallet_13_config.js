@@ -1,1 +1,1 @@
-var mnemonic = "travel inmate rookie clever cliff demise season disagree popular ritual obvious abandon";
+var mnemonic = "salad clap giggle ugly ball exist morning march say network cinnamon alley";

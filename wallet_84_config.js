@@ -1,1 +1,1 @@
-var mnemonic = "silver hover unaware air trick eager awkward ordinary notice wink ship method";
+var mnemonic = "legal nose town feed person brass marriage hair capable casual project tiny";

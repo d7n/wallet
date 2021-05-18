@@ -1,1 +1,1 @@
-var mnemonic = "accident version fetch side crouch doctor ski parade umbrella insect equal army";
+var mnemonic = "garbage board credit best ranch potato fun sport duty action quote endless";

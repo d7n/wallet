@@ -1,1 +1,1 @@
-var mnemonic = "nominee silly matrix addict belt letter sniff shell pretty pilot token hold";
+var mnemonic = "clown name trigger disagree awesome renew basket universe exercise code narrow crumble";

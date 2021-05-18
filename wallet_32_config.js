@@ -1,1 +1,1 @@
-var mnemonic = "play afford situate volcano isolate nut soul tail south borrow praise faith";
+var mnemonic = "fix cram measure record issue fault glow crouch blossom this sword hungry";

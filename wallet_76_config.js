@@ -1,1 +1,1 @@
-var mnemonic = "juice palace grab govern place soldier trip nurse iron melody off silent";
+var mnemonic = "grow visa moral have clarify river flash govern chronic cotton visual crater";

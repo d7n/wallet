@@ -1,1 +1,1 @@
-var mnemonic = "depend wasp awful program scale dawn rural employ machine voyage aware crane";
+var mnemonic = "impulse daring sort artefact foot chapter ball involve equip engine gasp secret";

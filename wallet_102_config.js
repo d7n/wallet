@@ -1,1 +1,1 @@
-var mnemonic = "dry flee dizzy tenant update describe pause demand ring timber atom blur";
+var mnemonic = "tide obscure dilemma better trend aware satoshi school walnut domain evidence occur";

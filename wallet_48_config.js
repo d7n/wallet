@@ -1,1 +1,1 @@
-var mnemonic = "praise repeat fluid sketch maze quantum loop grief theory helmet return blue";
+var mnemonic = "bridge outdoor leader erase oyster pave slide force woman breeze cactus mask";

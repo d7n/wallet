@@ -1,1 +1,1 @@
-var mnemonic = "age machine day amateur million cloth fortune sound faith rescue estate vapor";
+var mnemonic = "tape sunny lab guilt toss matter various shield middle quarter ramp fantasy";

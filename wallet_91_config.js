@@ -1,1 +1,1 @@
-var mnemonic = "fetch drip window latin doll amused mouse tide guilt injury ball clip";
+var mnemonic = "journey away mule hybrid tomorrow turtle chuckle subject cement portion exhibit milk";

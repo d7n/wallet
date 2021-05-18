@@ -1,1 +1,1 @@
-var mnemonic = "season text ridge code flush capital sort yellow process try vast absent";
+var mnemonic = "garbage strong build key any salt occur riot stadium bleak monkey during";

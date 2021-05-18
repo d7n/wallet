@@ -1,1 +1,1 @@
-var mnemonic = "undo decide chat sword blade hope lake view large drastic puzzle toward";
+var mnemonic = "wait super pudding august report genius unit law fine stomach heart must";

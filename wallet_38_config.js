@@ -1,1 +1,1 @@
-var mnemonic = "finger car title brown whisper wing asset plate among draw catalog next";
+var mnemonic = "pioneer leg tornado phrase cake mistake outdoor sort planet negative uphold bright";

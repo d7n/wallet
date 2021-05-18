@@ -1,1 +1,1 @@
-var mnemonic = "canoe minute fluid accident pulp purpose angry liberty correct range door issue";
+var mnemonic = "finish venture various ramp depart amateur guitar icon foster source hockey royal";

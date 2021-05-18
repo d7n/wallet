@@ -1,1 +1,1 @@
-var mnemonic = "find alpha neutral broccoli puppy mystery benefit couch body shoe culture assault";
+var mnemonic = "hip cinnamon pupil aspect discover ceiling addict calm tunnel message trophy film";

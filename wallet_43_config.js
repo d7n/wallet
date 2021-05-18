@@ -1,1 +1,1 @@
-var mnemonic = "actor soup absurd cheap almost cotton fiber flash among mother ahead job";
+var mnemonic = "spoon shiver genre broken picture spatial dust laptop race mix damage false";

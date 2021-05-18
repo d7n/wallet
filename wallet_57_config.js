@@ -1,1 +1,1 @@
-var mnemonic = "tray never trial blood genuine chaos sound resource hunt credit genuine swing";
+var mnemonic = "gift side idle collect upgrade bird frown oxygen shock lounge argue addict";

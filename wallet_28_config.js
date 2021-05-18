@@ -1,1 +1,1 @@
-var mnemonic = "small stove loop use lottery dog radio drill shop excess dog under";
+var mnemonic = "uncover chunk clap issue void tongue tank around health during caution remember";

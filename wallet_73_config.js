@@ -1,1 +1,1 @@
-var mnemonic = "birth stuff loop animal fragile retreat swear nut upper approve huge retreat";
+var mnemonic = "silly require tiny garbage yard wet squirrel false rural wine work sense";

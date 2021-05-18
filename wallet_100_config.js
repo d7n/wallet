@@ -1,1 +1,1 @@
-var mnemonic = "fat purpose insane spoon deny cover grocery hamster crush language glass staff";
+var mnemonic = "build hazard mandate index alcohol churn that tent spawn switch float reopen";

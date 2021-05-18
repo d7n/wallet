@@ -1,1 +1,1 @@
-var mnemonic = "attitude way luxury heart wet kit tree talk devote say extra basic";
+var mnemonic = "edit kidney subway wink eternal black jar unit blast space struggle trade";

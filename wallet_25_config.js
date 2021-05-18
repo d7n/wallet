@@ -1,1 +1,1 @@
-var mnemonic = "educate stomach axis flight crater deliver health push pulp loyal mad best";
+var mnemonic = "better funny gas swift defy squirrel ripple travel raise vast local involve";

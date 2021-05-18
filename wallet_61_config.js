@@ -1,1 +1,1 @@
-var mnemonic = "spawn piano clean trap welcome clever curtain mouse green hope excess fee";
+var mnemonic = "depart way body main fashion then scheme mobile section capable cluster over";

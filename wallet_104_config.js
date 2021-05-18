@@ -1,1 +1,1 @@
-var mnemonic = "valid mystery trophy enact diet affair tribe dinosaur can push face put";
+var mnemonic = "oven peanut twist lobster glad axis practice green behave brush help magic";

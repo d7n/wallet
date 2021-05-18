@@ -1,1 +1,1 @@
-var mnemonic = "polar good luxury sort milk certain six access end autumn fold hidden";
+var mnemonic = "vacuum joke physical clinic like object abstract limit merit post kiwi run";

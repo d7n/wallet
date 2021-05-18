@@ -1,1 +1,1 @@
-var mnemonic = "pluck kiss drive over north dose next scale bridge message slender clock";
+var mnemonic = "destroy elegant silly practice enact smooth arrest blouse another ginger taste hand";

@@ -1,1 +1,1 @@
-var mnemonic = "body hold bind width crop response ecology float image fish punch cancel";
+var mnemonic = "ethics fluid thought recycle urban interest middle source lizard hunt diary depart";

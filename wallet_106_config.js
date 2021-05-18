@@ -1,1 +1,1 @@
-var mnemonic = "portion word refuse mix current sunny vibrant vast drastic orchard spy cloud";
+var mnemonic = "black human image agree gate avoid around flash monitor assault aisle snack";

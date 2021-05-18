@@ -1,1 +1,1 @@
-var mnemonic = "alley tennis bus return damage ten cabbage hair beauty text entry oyster";
+var mnemonic = "across derive welcome alley drastic name ribbon destroy project year item east";

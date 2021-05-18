@@ -1,1 +1,1 @@
-var mnemonic = "blood reveal volume okay creek treat hood pilot estate shadow elephant obscure";
+var mnemonic = "friend divert license pet tide hobby audit split glimpse that power popular";

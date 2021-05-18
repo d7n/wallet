@@ -1,1 +1,1 @@
-var mnemonic = "capable skirt bind road marble stable convince disorder trial alone toast visit";
+var mnemonic = "slight dish again reopen garage alert typical pride trend agent choice impose";

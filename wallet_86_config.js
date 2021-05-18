@@ -1,1 +1,1 @@
-var mnemonic = "garbage pumpkin rival bulk mixture right rude trophy tip extend saddle horse";
+var mnemonic = "pilot security lonely jazz reduce pistol pencil violin grace nephew awful distance";

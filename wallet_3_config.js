@@ -1,1 +1,1 @@
-var mnemonic = "witness work copy diesel act figure settle cover slow again belt area";
+var mnemonic = "cigar theme message inquiry firm three cereal army bar heart acoustic general";

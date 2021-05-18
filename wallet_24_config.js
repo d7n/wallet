@@ -1,1 +1,1 @@
-var mnemonic = "settle inhale hidden leave reveal document sign prepare aspect only solution emotion";
+var mnemonic = "tourist image hurry lecture feed analyst silk vehicle gorilla like brick huge";

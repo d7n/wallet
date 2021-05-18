@@ -1,1 +1,1 @@
-var mnemonic = "maid tray clinic dutch census summer seven save danger tomato edit canal";
+var mnemonic = "unlock hat pet suggest welcome occur popular current please wealth section test";

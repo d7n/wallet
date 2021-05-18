@@ -1,1 +1,1 @@
-var mnemonic = "estate result clinic rough slot blood feature ridge result cheap knock tissue";
+var mnemonic = "glass same track keen toy vote vocal exit limit eyebrow column fence";

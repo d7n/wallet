@@ -1,1 +1,1 @@
-var mnemonic = "father old tissue panther gasp total pitch abstract tip water when enough";
+var mnemonic = "pool trash foot guilt close butter right horn ostrich achieve escape negative";

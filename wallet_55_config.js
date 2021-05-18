@@ -1,1 +1,1 @@
-var mnemonic = "sausage install code math erase zebra cloth arch cat item sausage cannon";
+var mnemonic = "squirrel depth vote gesture dirt meadow camera sport inject category antenna spider";

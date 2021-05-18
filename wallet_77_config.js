@@ -1,1 +1,1 @@
-var mnemonic = "sail teach owner embrace smoke token jaguar sword pink basic master visual";
+var mnemonic = "chimney shove misery strategy rocket ribbon slight spend learn chimney energy kingdom";

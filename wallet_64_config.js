@@ -1,1 +1,1 @@
-var mnemonic = "improve undo neither door under tomorrow say inmate aim ignore summer penalty";
+var mnemonic = "silk then purity oven verify fly tooth menu uniform toward flight butter";

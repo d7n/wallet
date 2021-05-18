@@ -1,1 +1,1 @@
-var mnemonic = "mistake happy tape trigger taxi enter toast hungry toss stadium people public";
+var mnemonic = "win behave mountain rapid note ball alley indicate before coil bomb law";

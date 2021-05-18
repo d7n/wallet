@@ -1,1 +1,1 @@
-var mnemonic = "knock sugar bracket farm tourist illegal average scatter tired size suit owner";
+var mnemonic = "crush sketch label place frog betray width hub damp spend stool rich";

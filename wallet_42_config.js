@@ -1,1 +1,1 @@
-var mnemonic = "thunder exchange extra indoor trial fossil scorpion perfect cool nerve type swallow";
+var mnemonic = "tiger eyebrow such vacuum display decrease bubble fork trial hybrid cloth source";

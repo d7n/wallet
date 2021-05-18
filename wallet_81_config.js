@@ -1,1 +1,1 @@
-var mnemonic = "elbow quit divide worth neglect thank debris farm scale nose pottery pitch";
+var mnemonic = "kind nature always gauge dove chest object transfer soft lunch impulse multiply";

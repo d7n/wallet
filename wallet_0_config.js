@@ -1,1 +1,1 @@
-var mnemonic = "gospel soccer salt subject buffalo maximum chapter worry identify urban slide artwork";
+var mnemonic = "lake best glory orchard orbit slender only auto civil chuckle exhibit adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "piece town across plastic live cattle upon train special turn loyal sense";
+var mnemonic = "cook frost glance smart wife devote gesture boss silk spread uncle visual";

@@ -1,1 +1,1 @@
-var mnemonic = "luxury region impact enemy coil virtual cradle style blade sting remove jeans";
+var mnemonic = "clap ketchup hollow calm type laptop noodle sorry appear position cheap antenna";

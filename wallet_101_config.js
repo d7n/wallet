@@ -1,1 +1,1 @@
-var mnemonic = "exercise very rescue rocket sunny suit energy spray travel praise exchange weekend";
+var mnemonic = "unusual meat swing fame across repair seminar plastic token fever jaguar knife";

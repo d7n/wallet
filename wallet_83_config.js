@@ -1,1 +1,1 @@
-var mnemonic = "debris crater tone stadium crawl chief whip flash kite enemy couch tattoo";
+var mnemonic = "tag elder level busy damp approve first tuition satisfy zoo proof code";

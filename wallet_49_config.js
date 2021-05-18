@@ -1,1 +1,1 @@
-var mnemonic = "theory enact skill check horn hat feed apart voyage ready wool execute";
+var mnemonic = "judge display yard visual thunder judge tomato doll genius undo march ostrich";

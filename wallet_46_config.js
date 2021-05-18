@@ -1,1 +1,1 @@
-var mnemonic = "noodle trick window mobile holiday only avocado fine supreme minor enter exclude";
+var mnemonic = "west silver exclude gun wing file table three wreck print exhaust frozen";

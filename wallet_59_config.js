@@ -1,1 +1,1 @@
-var mnemonic = "debris intact produce hole retreat carbon gravity awesome lumber travel bleak alone";
+var mnemonic = "orchard tenant ride tattoo canvas alcohol same away convince chimney crystal furnace";

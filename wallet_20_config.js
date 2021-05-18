@@ -1,1 +1,1 @@
-var mnemonic = "target dawn yard illegal crisp coil forget physical cool feature digital front";
+var mnemonic = "awesome text wood want early oven regular common west boil guess palace";

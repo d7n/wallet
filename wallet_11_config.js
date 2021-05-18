@@ -1,1 +1,1 @@
-var mnemonic = "almost angry pretty demise pulse exclude banner inmate tortoise foil neck mimic";
+var mnemonic = "oxygen property pony throw resource surprise price inject pluck consider symbol slot";

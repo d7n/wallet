@@ -1,1 +1,1 @@
-var mnemonic = "hospital office seminar wave sell van curtain engine donor monster river spirit";
+var mnemonic = "joke effort force express cruel wrong topple absurd fossil ketchup hill slender";

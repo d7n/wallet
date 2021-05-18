@@ -1,1 +1,1 @@
-var mnemonic = "involve blue slow enough right fresh grass favorite conduct column harvest off";
+var mnemonic = "exchange swap primary hybrid cook junk dream enforce later couple armed engage";

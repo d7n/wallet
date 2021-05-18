@@ -1,1 +1,1 @@
-var mnemonic = "limit split gap test mix minor coach business hill void any fatigue";
+var mnemonic = "team silent salad diet knife strategy manage eternal vendor sleep asthma lock";

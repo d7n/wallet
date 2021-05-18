@@ -1,1 +1,1 @@
-var mnemonic = "own grab harbor layer isolate decade fancy velvet paper ship cross outer";
+var mnemonic = "february tiger deliver property loyal away lucky bus enroll wool assist base";

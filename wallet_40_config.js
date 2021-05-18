@@ -1,1 +1,1 @@
-var mnemonic = "era fun next bargain chuckle close make priority paper rabbit illness reveal";
+var mnemonic = "okay list yellow seven timber invite quality ring side wall enhance news";

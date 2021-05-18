@@ -1,1 +1,1 @@
-var mnemonic = "human another board cause immense hedgehog letter opera throw meadow bargain cliff";
+var mnemonic = "various pluck expand edge dentist comic rack awful sense parrot brother solution";

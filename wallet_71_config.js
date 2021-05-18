@@ -1,1 +1,1 @@
-var mnemonic = "order coral daughter demand hundred anxiety thank popular usage hazard cash arctic";
+var mnemonic = "tissue praise ramp fat capital electric health hungry smile rigid blood volcano";

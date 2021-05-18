@@ -1,1 +1,1 @@
-var mnemonic = "easy glad steak sheriff call exist lava salt combine arrange slender audit";
+var mnemonic = "craft come stereo daring radio quantum elegant clarify brick spin heart another";

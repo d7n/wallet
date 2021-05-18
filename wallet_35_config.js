@@ -1,1 +1,1 @@
-var mnemonic = "jelly milk acoustic skull wealth walk enjoy field special shrug advance grant";
+var mnemonic = "canoe man hurt rigid chief nice decorate transfer approve balcony option mechanic";

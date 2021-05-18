@@ -1,1 +1,1 @@
-var mnemonic = "skull brown radar skill wealth crawl asset surround devote mercy bulk fitness";
+var mnemonic = "shoe quick city wet december injury nut region tattoo people diesel voice";

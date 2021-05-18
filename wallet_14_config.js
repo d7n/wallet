@@ -1,1 +1,1 @@
-var mnemonic = "roof shoulder waste forward month uphold economy decline donkey render follow attend";
+var mnemonic = "cool unaware lemon palm claim tobacco destroy ask scene clump badge include";

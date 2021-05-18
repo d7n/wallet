@@ -1,1 +1,1 @@
-var mnemonic = "exchange screen core word roast shove spawn dune gasp output carry appear";
+var mnemonic = "point lab catch fault enforce test eagle same wheel puzzle add action";

@@ -1,1 +1,1 @@
-var mnemonic = "proud curious elder wall true artwork rude face switch regret rate bottom";
+var mnemonic = "insane color action forest meat soap sure country topple inch order august";

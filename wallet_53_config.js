@@ -1,1 +1,1 @@
-var mnemonic = "unhappy universe lounge favorite barely gorilla family hobby raven tumble bulk sugar";
+var mnemonic = "carry spike deny minute relief upon trophy involve endorse observe earn organ";

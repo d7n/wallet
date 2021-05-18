@@ -1,1 +1,1 @@
-var mnemonic = "sting tree pelican artist tornado birth excite fox section rookie author true";
+var mnemonic = "exit legend dolphin rebuild universe seminar style prevent provide curious vicious odor";

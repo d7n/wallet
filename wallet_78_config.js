@@ -1,1 +1,1 @@
-var mnemonic = "relax title collect capable purchase vital fashion token nation cable account relief";
+var mnemonic = "matter govern chief kit mistake morning result model hint advice maid alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "cup ethics range vote champion shadow insane country absurd soup aunt peanut";
+var mnemonic = "cargo scout increase skill pond manage squeeze bench sauce arctic among toe";

@@ -1,1 +1,1 @@
-var mnemonic = "priority false stock consider stock inquiry hockey thrive behind essay enact refuse";
+var mnemonic = "sight fix inspire cash can tumble afraid coconut post capable space banana";

@@ -1,1 +1,1 @@
-var mnemonic = "treat host select slim omit man match milk donate easily life rug";
+var mnemonic = "extend attract similar badge amazing luggage electric receive seek fade excess tribe";

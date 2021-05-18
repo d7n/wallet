@@ -1,1 +1,1 @@
-var mnemonic = "million champion pony genius settle garbage lizard aspect jeans barrel often blossom";
+var mnemonic = "merry brisk sad harbor salt penalty leisure initial pattern runway wonder urge";

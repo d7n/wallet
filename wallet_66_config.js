@@ -1,1 +1,1 @@
-var mnemonic = "ranch pudding time start earn together mule verb two sausage silver use";
+var mnemonic = "agent service call volume wave shrug champion stove eager crack walk tag";

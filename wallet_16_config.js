@@ -1,1 +1,1 @@
-var mnemonic = "join decrease oil silly pipe panther crack crouch drive divorce special sketch";
+var mnemonic = "trigger syrup drift they genre super ecology comfort alone dignity visual human";

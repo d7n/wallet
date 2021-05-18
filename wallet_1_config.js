@@ -1,1 +1,1 @@
-var mnemonic = "tank fun analyst want daughter know pudding enrich april often fall remind";
+var mnemonic = "grit denial gas card note solution right couple chicken floor undo group";

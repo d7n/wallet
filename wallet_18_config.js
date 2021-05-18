@@ -1,1 +1,1 @@
-var mnemonic = "ring agree remain border rate sphere power sock jungle simple news park";
+var mnemonic = "card mother few vapor dutch insane what shadow left gun satisfy twist";

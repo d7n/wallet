@@ -1,1 +1,1 @@
-var mnemonic = "divorce trash twist basic actual badge leg shuffle loan miss matter very";
+var mnemonic = "december prefer jewel climb smooth dance awkward clerk swap survey galaxy defense";
