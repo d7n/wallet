@@ -1,1 +1,1 @@
-var mnemonic = "card grain young junior black unfair remain window slow pave jacket blind";
+var mnemonic = "remember grocery parrot hobby double enforce ceiling witness lock zoo soda witness";

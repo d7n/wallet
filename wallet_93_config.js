@@ -1,1 +1,1 @@
-var mnemonic = "half capital tattoo day abuse tunnel club degree put clown protect pluck";
+var mnemonic = "toe dignity sniff three produce cinnamon print diagram bronze ocean live ensure";

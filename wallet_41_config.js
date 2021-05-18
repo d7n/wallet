@@ -1,1 +1,1 @@
-var mnemonic = "segment problem second improve craft myself educate ride belt crouch coffee shadow";
+var mnemonic = "panther aim patrol alter wear lounge cover chuckle insect error job joy";

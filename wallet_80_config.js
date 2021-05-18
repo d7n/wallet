@@ -1,1 +1,1 @@
-var mnemonic = "dish mercy nurse hire fly cargo tissue theory genre piece mixed enable";
+var mnemonic = "scrap steak sweet exhibit dawn suspect warfare pumpkin dose evil scissors wheat";

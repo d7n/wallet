@@ -1,1 +1,1 @@
-var mnemonic = "ocean near kite excite mind shoulder ramp abuse huge century company distance";
+var mnemonic = "office proud angry raccoon cigar off clinic reflect casino around length laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity math gravity legal mountain sure parent team wing daring betray host";
+var mnemonic = "fancy gym smooth surge ball pride tail walnut bitter iron stamp stem";

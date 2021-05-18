@@ -1,1 +1,1 @@
-var mnemonic = "gesture unfold laptop pupil slogan tennis chunk decrease disease envelope yard pledge";
+var mnemonic = "recall custom morning pave horn always lawn goddess hammer image apology bike";

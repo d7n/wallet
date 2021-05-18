@@ -1,1 +1,1 @@
-var mnemonic = "salon property boring once ostrich gaze dilemma unveil creek silly news pattern";
+var mnemonic = "under axis project aisle advance grid awful since hero stereo good alone";

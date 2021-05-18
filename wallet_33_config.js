@@ -1,1 +1,1 @@
-var mnemonic = "ketchup gentle butter battle plug abstract cinnamon mom broom spoil venue typical";
+var mnemonic = "blast help pretty vehicle pair notable list calm lazy alley kangaroo chef";

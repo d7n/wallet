@@ -1,1 +1,1 @@
-var mnemonic = "category voyage suffer grass person myth modify sunset farm clerk guitar box";
+var mnemonic = "deer congress bridge purity come crater health engage attack spend high face";

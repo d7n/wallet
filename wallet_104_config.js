@@ -1,1 +1,1 @@
-var mnemonic = "essay woman art want dad swallow drama anchor arrow rug void enter";
+var mnemonic = "gesture canoe decrease bright special rebuild sword salt jungle during man promote";

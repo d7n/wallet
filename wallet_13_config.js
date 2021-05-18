@@ -1,1 +1,1 @@
-var mnemonic = "gentle decline end quit prison claim eternal slide time version ancient piano";
+var mnemonic = "excite tilt poet comic multiply toward struggle welcome daring employ solve tomato";

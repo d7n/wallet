@@ -1,1 +1,1 @@
-var mnemonic = "devote void neglect degree sort advice cereal impulse miracle narrow begin actual";
+var mnemonic = "circle melt pistol slogan razor spray catalog alcohol style thunder minor ghost";

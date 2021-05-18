@@ -1,1 +1,1 @@
-var mnemonic = "also round art nasty midnight very glove meadow dust task innocent blind";
+var mnemonic = "add blade alcohol earn enemy miss knee door erupt fiction pass pony";

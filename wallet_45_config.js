@@ -1,1 +1,1 @@
-var mnemonic = "office normal nephew pact shock mention monster valve liberty hospital near connect";
+var mnemonic = "usage ridge luggage fancy blush screen fiction write output left glue bring";

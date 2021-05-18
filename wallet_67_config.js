@@ -1,1 +1,1 @@
-var mnemonic = "abstract maze train boost basic alter gown ball share shine nothing affair";
+var mnemonic = "erase banner bachelor hard smoke wrestle fresh fancy fault thank rate bone";

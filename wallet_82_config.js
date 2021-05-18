@@ -1,1 +1,1 @@
-var mnemonic = "program analyst they lava other piece salt afraid whale enjoy motor toy";
+var mnemonic = "river tell toast winner ripple love when addict couple era unknown orphan";

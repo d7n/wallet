@@ -1,1 +1,1 @@
-var mnemonic = "tortoise various artefact useful mobile south rival swift please system window joy";
+var mnemonic = "copy reform process tomorrow credit desert offer ozone tattoo polar music found";

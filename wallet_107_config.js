@@ -1,1 +1,1 @@
-var mnemonic = "favorite rabbit crawl depend cluster divert object festival exhibit celery like shift";
+var mnemonic = "thunder tobacco tiny miss anxiety slam ethics number tool fatigue napkin long";

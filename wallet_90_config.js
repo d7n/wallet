@@ -1,1 +1,1 @@
-var mnemonic = "snake lottery law drink antenna gun mutual box entry chapter match worry";
+var mnemonic = "poet obvious moon actress session leave blue climb lottery blame hospital protect";

@@ -1,1 +1,1 @@
-var mnemonic = "butter pizza buyer extend siren release east enrich acid brick away pride";
+var mnemonic = "purity sun danger health repeat height glare army bind window goddess hurt";

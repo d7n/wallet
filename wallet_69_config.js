@@ -1,1 +1,1 @@
-var mnemonic = "mechanic guess filter noble police drift gold busy mean ordinary joy adjust";
+var mnemonic = "bus success brisk capable fox tilt usual inside general second clinic toddler";

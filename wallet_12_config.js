@@ -1,1 +1,1 @@
-var mnemonic = "horn beef build weekend away trip submit dizzy ignore match october vacuum";
+var mnemonic = "common need salt stomach glare pear bless pencil issue travel egg lend";

@@ -1,1 +1,1 @@
-var mnemonic = "pact media design tornado force indoor matter slide field once circle skin";
+var mnemonic = "exact frame vast palm insect mandate shine legal arrange pioneer slide mechanic";

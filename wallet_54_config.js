@@ -1,1 +1,1 @@
-var mnemonic = "teach engine swear tag vintage robot floor pink pledge garment local stand";
+var mnemonic = "fringe ill avocado liar bike wife glue century trigger cupboard company blind";

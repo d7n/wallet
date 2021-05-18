@@ -1,1 +1,1 @@
-var mnemonic = "sadness velvet another sleep foil soap census source bacon happy gift cake";
+var mnemonic = "cry load energy penalty prison develop wink behind barely wedding pyramid business";

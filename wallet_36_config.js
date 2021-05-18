@@ -1,1 +1,1 @@
-var mnemonic = "rhythm people cruel liar cream sausage treat pond sibling speak upper grief";
+var mnemonic = "syrup father cream action admit tattoo life behind process speak knock coral";

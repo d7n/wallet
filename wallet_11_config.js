@@ -1,1 +1,1 @@
-var mnemonic = "hello witness cereal they sauce deal moon shoe news raccoon south title";
+var mnemonic = "guard teach student cupboard thank crush example boss learn soft nothing neglect";

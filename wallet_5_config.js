@@ -1,1 +1,1 @@
-var mnemonic = "elephant adapt track ask empty ramp trumpet marriage loan member rabbit guard";
+var mnemonic = "silent lonely seven soul cake phone help interest stone one vehicle seven";

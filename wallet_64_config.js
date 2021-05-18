@@ -1,1 +1,1 @@
-var mnemonic = "awesome pave jar credit grunt when sunset dumb approve birth desert meadow";
+var mnemonic = "orange power alley then inform client liberty level good top century medal";

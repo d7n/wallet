@@ -1,1 +1,1 @@
-var mnemonic = "sad crowd present enter mimic clip section armed session act item rhythm";
+var mnemonic = "denial reunion subway water rice soda light rebuild shallow fetch cigar job";

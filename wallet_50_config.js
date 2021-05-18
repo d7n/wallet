@@ -1,1 +1,1 @@
-var mnemonic = "journey trumpet power orange surprise oyster country giant task grant harvest myth";
+var mnemonic = "addict develop shift range inch stove bargain nature round soul match erode";

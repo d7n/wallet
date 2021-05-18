@@ -1,1 +1,1 @@
-var mnemonic = "wrestle prevent silk weekend target flash estate brown mushroom cost turn drama";
+var mnemonic = "seek dolphin cruel busy also venture maze mass problem catalog detail patient";

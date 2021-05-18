@@ -1,1 +1,1 @@
-var mnemonic = "trumpet genre result fitness accident you warm tail slush inner close excess";
+var mnemonic = "circle riot memory core lizard nose gospel alone sound unusual void lens";

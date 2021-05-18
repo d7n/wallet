@@ -1,1 +1,1 @@
-var mnemonic = "always zero expose shock honey awake input fragile decrease industry trim fortune";
+var mnemonic = "toddler issue ordinary exhaust item island faith group upgrade adapt economy amused";

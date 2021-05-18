@@ -1,1 +1,1 @@
-var mnemonic = "snack brief flash hover display bread wealth observe maid patient color find";
+var mnemonic = "spring sand egg cause regular diagram boost devote garage smoke oppose drive";

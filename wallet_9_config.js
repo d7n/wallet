@@ -1,1 +1,1 @@
-var mnemonic = "opinion acid vendor bomb frost onion fade frost style visit avoid canvas";
+var mnemonic = "order angle suspect rate bamboo head enforce man acid goose capital sell";

@@ -1,1 +1,1 @@
-var mnemonic = "exist dinosaur coyote armed case suit art fabric motion harsh myself carry";
+var mnemonic = "link visual flock opinion bird matter banana anxiety denial guide base renew";

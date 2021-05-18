@@ -1,1 +1,1 @@
-var mnemonic = "burst chat actor assault elbow achieve secret night bag nice smooth small";
+var mnemonic = "peasant color debris diagram youth winter symbol shiver submit vicious message drift";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter stable elevator ostrich weasel involve pill three song code develop border";
+var mnemonic = "manual topic theory burden laugh announce address accuse early pulp cute give";

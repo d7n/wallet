@@ -1,1 +1,1 @@
-var mnemonic = "season slim mobile object ceiling cradle obvious casual dragon better idea print";
+var mnemonic = "symptom height stuff uncover eternal once lyrics ensure blade escape spawn churn";

@@ -1,1 +1,1 @@
-var mnemonic = "special boy reform garden indicate afford drip dynamic method play stadium move";
+var mnemonic = "slender retire decrease chicken off utility case frown bronze slogan near want";

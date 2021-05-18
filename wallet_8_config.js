@@ -1,1 +1,1 @@
-var mnemonic = "dwarf eyebrow pepper faint cross update coconut knee brief change awkward drive";
+var mnemonic = "mushroom turn uncover galaxy abstract popular bomb account job mouse quit clutch";

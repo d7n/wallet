@@ -1,1 +1,1 @@
-var mnemonic = "exchange book endorse day offer gravity light now toast soon wild oven";
+var mnemonic = "small gadget use arena speak kiss stay genre emerge horn wine unveil";

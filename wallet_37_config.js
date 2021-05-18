@@ -1,1 +1,1 @@
-var mnemonic = "deliver fever antenna lawsuit oval tiger birth ginger middle shy hint arrest";
+var mnemonic = "tree excite degree rule genre stable receive rack across spoon dove person";

@@ -1,1 +1,1 @@
-var mnemonic = "arm tiny employ infant favorite select brand wisdom option aisle regret artist";
+var mnemonic = "pond barely climb inquiry team manage mushroom orchard inner very enemy chronic";

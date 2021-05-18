@@ -1,1 +1,1 @@
-var mnemonic = "view floor hen dirt copy old vintage tobacco live ride mix basic";
+var mnemonic = "input picture grow any lock orchard average dust entry erupt meadow cloud";

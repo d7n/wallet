@@ -1,1 +1,1 @@
-var mnemonic = "cotton fashion garden where adapt visa era double spice amount clean faith";
+var mnemonic = "embrace tortoise forward dog original drastic mixed swap exchange exchange depend scale";

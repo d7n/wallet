@@ -1,1 +1,1 @@
-var mnemonic = "feed traffic ritual strategy thought gold ensure enroll machine practice hollow public";
+var mnemonic = "village crucial weekend cricket december vapor chest desert seat doll unfair club";

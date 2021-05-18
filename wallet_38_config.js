@@ -1,1 +1,1 @@
-var mnemonic = "develop list thrive tomato modify vacuum pull wife cactus shield monster ride";
+var mnemonic = "situate minute hen base antique load true fabric situate autumn congress cinnamon";

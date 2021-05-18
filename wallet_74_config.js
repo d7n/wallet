@@ -1,1 +1,1 @@
-var mnemonic = "day version affair quick squeeze rural only section giggle pen upgrade ugly";
+var mnemonic = "trim runway punch hover rabbit unlock shuffle glad left pattern subway little";

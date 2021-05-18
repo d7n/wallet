@@ -1,1 +1,1 @@
-var mnemonic = "include ahead private boy tuna moment coconut guess shadow media like cool";
+var mnemonic = "hamster vanish tongue into opera main fancy nominee exhaust error flavor hybrid";

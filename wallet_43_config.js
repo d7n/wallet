@@ -1,1 +1,1 @@
-var mnemonic = "office jacket jealous liquid fringe panda result shy outdoor shock unknown moment";
+var mnemonic = "maple glass august bronze squirrel shoot depart history surge total pelican royal";

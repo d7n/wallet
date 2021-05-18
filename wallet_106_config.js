@@ -1,1 +1,1 @@
-var mnemonic = "slide census always devote setup fragile trim buyer float invest stumble denial";
+var mnemonic = "output coconut demise alarm save muscle element apology can trash giant patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "lend letter pilot change avoid wall destroy between machine update orient river";
+var mnemonic = "furnace monitor idea raise then result bachelor alert worry whip kitchen claw";

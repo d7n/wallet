@@ -1,1 +1,1 @@
-var mnemonic = "trap february essay employ fashion venue silver enhance clown scissors antique include";
+var mnemonic = "pudding act morning floor noise oppose vivid flight relief security embrace stairs";

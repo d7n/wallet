@@ -1,1 +1,1 @@
-var mnemonic = "slight click twin wine deposit cake bracket law battle ship van mask";
+var mnemonic = "among kite illegal water album involve favorite virus drastic lend master physical";

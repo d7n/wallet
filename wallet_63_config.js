@@ -1,1 +1,1 @@
-var mnemonic = "return donate pizza desk brisk sudden famous they place canoe flush tennis";
+var mnemonic = "vague disagree game more defense letter gain bachelor suggest misery fantasy scan";

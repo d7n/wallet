@@ -1,1 +1,1 @@
-var mnemonic = "govern fragile earn dash bullet around upon embrace stem custom lock fashion";
+var mnemonic = "lounge force turtle gallery move canoe town maple romance walnut left budget";

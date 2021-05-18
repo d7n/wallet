@@ -1,1 +1,1 @@
-var mnemonic = "wood achieve add near road appear diet crunch maximum join joke rescue";
+var mnemonic = "grid rug under vintage danger rocket dream leisure arrive avoid any innocent";

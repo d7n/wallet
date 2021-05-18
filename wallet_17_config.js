@@ -1,1 +1,1 @@
-var mnemonic = "nurse library april then canal table galaxy detect fan figure kingdom smoke";
+var mnemonic = "egg expose tray radio acid pelican point protect render solution pepper elephant";

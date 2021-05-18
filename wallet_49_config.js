@@ -1,1 +1,1 @@
-var mnemonic = "whale scatter idea observe bicycle digital note mother easily february disease repeat";
+var mnemonic = "fall script wing middle legend grain alert size blade sad illegal rival";

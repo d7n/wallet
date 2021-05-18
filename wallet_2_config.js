@@ -1,1 +1,1 @@
-var mnemonic = "spare bargain observe fit raccoon lecture afraid diet demand ramp dolphin biology";
+var mnemonic = "electric exclude banana fiber major recycle knee december term settle fever banana";

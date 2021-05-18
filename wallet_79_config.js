@@ -1,1 +1,1 @@
-var mnemonic = "turkey secret biology season tonight song chicken sugar occur post satisfy net";
+var mnemonic = "flag label improve wrist occur egg phone ethics seminar pond sadness exchange";

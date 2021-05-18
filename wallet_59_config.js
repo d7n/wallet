@@ -1,1 +1,1 @@
-var mnemonic = "alarm grunt hammer excess kite truck old gown keen young evolve globe";
+var mnemonic = "train strategy lift away auto normal guard upgrade useful sight grunt now";

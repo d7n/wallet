@@ -1,1 +1,1 @@
-var mnemonic = "crush student mandate federal budget timber ritual mushroom useless knock humble river";
+var mnemonic = "disorder main lawn pass senior media hybrid lounge light cruise pear fiscal";

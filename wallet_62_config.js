@@ -1,1 +1,1 @@
-var mnemonic = "bundle zoo error horror topic zero tiger screen hill luxury online knife";
+var mnemonic = "tackle twin soul favorite chief debris much ritual lunch innocent happy cherry";

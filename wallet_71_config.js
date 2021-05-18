@@ -1,1 +1,1 @@
-var mnemonic = "educate faith rhythm capital crack lawsuit author quote profit play maid genius";
+var mnemonic = "lesson ticket blossom stereo peasant alley piece umbrella rich wealth march tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "power snack until leaf remain hold perfect such option meadow senior deny";
+var mnemonic = "surface syrup safe glimpse satoshi steak spend sugar trend veteran since soap";

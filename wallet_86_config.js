@@ -1,1 +1,1 @@
-var mnemonic = "concert dust tourist become benefit pigeon enrich van soda clog agent side";
+var mnemonic = "version crush rich topic captain fetch pear antique host hip spin girl";

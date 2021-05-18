@@ -1,1 +1,1 @@
-var mnemonic = "celery opinion love review slam assume material apology sample illness remove group";
+var mnemonic = "absorb lamp accident envelope cricket volcano harbor exact grace enter flight manage";

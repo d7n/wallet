@@ -1,1 +1,1 @@
-var mnemonic = "baby person pigeon glory stairs catalog swim hedgehog neglect attract health crush";
+var mnemonic = "key envelope diet corn frequent fault critic choice clump raise sibling state";

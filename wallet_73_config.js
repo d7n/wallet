@@ -1,1 +1,1 @@
-var mnemonic = "evidence chunk act sketch sad tattoo salmon sight involve you squeeze infant";
+var mnemonic = "scene assault caught naive intact seven coral element pumpkin elevator giant witness";

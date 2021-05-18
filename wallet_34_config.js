@@ -1,1 +1,1 @@
-var mnemonic = "powder metal quit goddess skill tornado heart boat satisfy release paddle ghost";
+var mnemonic = "climb pitch powder bacon electric torch sausage bind uncle course canvas island";

@@ -1,1 +1,1 @@
-var mnemonic = "owner true forward breeze when about apology leopard boost demand upset gorilla";
+var mnemonic = "end chimney rally spatial rice corn cluster social ugly keep security bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "edit chief huge interest noble future afford balcony film lamp also laugh";
+var mnemonic = "coconut push panda library dawn extra slam gasp tide guitar merry tissue";

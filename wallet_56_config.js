@@ -1,1 +1,1 @@
-var mnemonic = "skull country lend report column artwork lamp junk edit ceiling youth foil";
+var mnemonic = "clown insane sustain morning speak drama lamp parrot earth image rebel inform";

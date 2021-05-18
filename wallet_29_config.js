@@ -1,1 +1,1 @@
-var mnemonic = "cruel average snap glue erupt burden trust topic wage finish crouch coin";
+var mnemonic = "quantum rotate guess parade road depth payment local butter fiction grass empty";

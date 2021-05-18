@@ -1,1 +1,1 @@
-var mnemonic = "rebuild artist hole buffalo foot submit element excuse private orient analyst what";
+var mnemonic = "magic sniff drive glide plastic stereo steak cream volume cage bicycle purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "search tissue step shop please plunge rally employ permit comic snow decide";
+var mnemonic = "camera business remove found swallow convince guitar meat ability army clerk recall";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster cash lab pride badge filter replace mistake pepper judge route various";
+var mnemonic = "yard jaguar fall economy scorpion fossil special glow capable island vanish civil";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch door cycle entry chef output exhaust leopard grant peanut solution logic";
+var mnemonic = "alien close uniform mind local unable february artefact movie vital oak acoustic";

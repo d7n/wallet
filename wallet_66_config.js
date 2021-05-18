@@ -1,1 +1,1 @@
-var mnemonic = "frame enable cheese embrace fire myth tank force apple total panic cotton";
+var mnemonic = "text urge initial cool shy prevent awesome donor solution oval hub spend";

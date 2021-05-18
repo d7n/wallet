@@ -1,1 +1,1 @@
-var mnemonic = "deal push sell vacuum matter jealous skill stable need film orange visit";
+var mnemonic = "canvas tilt hire turtle exercise coast problem biology survey correct soap athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "shy crack over kingdom damp enable pride air captain rate toast tortoise";
+var mnemonic = "horror logic defy gate universe govern radio whisper stool hurdle penalty special";

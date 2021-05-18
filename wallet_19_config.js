@@ -1,1 +1,1 @@
-var mnemonic = "tag eight ghost oyster earn iron column expose cheap police same fly";
+var mnemonic = "poem leopard chef tag upset valve useful flag arrow obey owner pelican";

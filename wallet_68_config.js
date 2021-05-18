@@ -1,1 +1,1 @@
-var mnemonic = "symbol pass ring such maze announce cushion swift vacant unit address useless";
+var mnemonic = "spray eyebrow acquire evolve toss creek ritual loan tunnel sorry shoulder rate";

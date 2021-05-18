@@ -1,1 +1,1 @@
-var mnemonic = "crop announce alcohol whip that history pig erode animal cake draft random";
+var mnemonic = "moment street clerk style climb decade caution possible absurd rhythm squirrel supreme";

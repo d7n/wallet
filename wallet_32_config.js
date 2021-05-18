@@ -1,1 +1,1 @@
-var mnemonic = "toy laundry daring crop decline calm knee payment sugar shy quality body";
+var mnemonic = "make nose input decide library account gym elegant text treat rice special";

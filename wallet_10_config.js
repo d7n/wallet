@@ -1,1 +1,1 @@
-var mnemonic = "admit someone soup float melody brown prize thank suffer canvas one include";
+var mnemonic = "then elevator uniform access rifle tent seven rifle identify shift link close";
