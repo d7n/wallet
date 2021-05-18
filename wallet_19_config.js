@@ -1,1 +1,1 @@
-var mnemonic = "acquire photo small tourist proud turtle frame liberty unable soon someone tilt";
+var mnemonic = "warrior enroll outer horse method hockey alone viable clog they raccoon viable";

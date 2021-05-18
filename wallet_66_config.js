@@ -1,1 +1,1 @@
-var mnemonic = "display sad lens sauce tuna bunker embody nice chase palm kiss crowd";
+var mnemonic = "short tired cement cage observe dress media other kiss reject bonus sweet";

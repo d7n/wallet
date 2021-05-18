@@ -1,1 +1,1 @@
-var mnemonic = "congress dune antenna wild retreat excuse evolve salute mule host mango dress";
+var mnemonic = "subway measure admit notable beyond truck orient will track world change price";

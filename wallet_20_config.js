@@ -1,1 +1,1 @@
-var mnemonic = "just drastic logic pill load link invest elite cradle rebel loan armed";
+var mnemonic = "wreck trap calm crater boil render this rare brush echo report adapt";

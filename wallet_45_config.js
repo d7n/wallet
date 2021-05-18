@@ -1,1 +1,1 @@
-var mnemonic = "detail beach motor that sport wear tenant play actress catch grocery silent";
+var mnemonic = "dad unhappy venue genre owner size east clarify mixed visit piano kite";

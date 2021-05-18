@@ -1,1 +1,1 @@
-var mnemonic = "average beach demand desert mean rate since make resource need into nice";
+var mnemonic = "pet sweet jar business myself stone angry potato squeeze traffic unique derive";

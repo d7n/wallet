@@ -1,1 +1,1 @@
-var mnemonic = "arm deposit chaos bird action acid sausage decide chat pink inhale question";
+var mnemonic = "upper oval suggest acoustic treat decide draw enroll lobster balcony share noise";

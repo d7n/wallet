@@ -1,1 +1,1 @@
-var mnemonic = "bike flag camp beauty absorb emotion caution hub drastic frog decade ensure";
+var mnemonic = "pitch fresh cause day certain cruel spoon country will fossil list defy";

@@ -1,1 +1,1 @@
-var mnemonic = "stock salt citizen sick pigeon maid game glass bid off verb enforce";
+var mnemonic = "glow ice pipe relief alter hungry exhibit mirror impulse damage recycle reopen";

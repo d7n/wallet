@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hidden rib attract sight develop rookie major margin night grain kitchen";
+var mnemonic = "wall scrub upon solar thought vicious scene long fluid marble badge network";

@@ -1,1 +1,1 @@
-var mnemonic = "web cave item enter romance bread myth obtain rebuild wet famous crane";
+var mnemonic = "private kangaroo bike much poet recall apology ginger replace woman panic tattoo";

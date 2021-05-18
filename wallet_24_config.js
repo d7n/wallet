@@ -1,1 +1,1 @@
-var mnemonic = "caution slab worth black hazard radio before corn glue season spray master";
+var mnemonic = "manual phone design slot rapid couple spin estate lesson chat visit scrap";

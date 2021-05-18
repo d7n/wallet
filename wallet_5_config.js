@@ -1,1 +1,1 @@
-var mnemonic = "genre antique domain when object ranch local inject upgrade sign cream pistol";
+var mnemonic = "short oak clutch gift blossom race retire love parrot poverty filter asthma";

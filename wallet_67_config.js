@@ -1,1 +1,1 @@
-var mnemonic = "west blood goat artefact roast verb drink fence cave staff junk private";
+var mnemonic = "sense surge benefit lift pipe earth frown run cushion asthma hand picnic";

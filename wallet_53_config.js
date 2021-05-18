@@ -1,1 +1,1 @@
-var mnemonic = "route hungry chef cement analyst genius derive reform rather goose device path";
+var mnemonic = "code dish easy black youth walk lemon tray cram ice pattern grunt";

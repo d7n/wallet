@@ -1,1 +1,1 @@
-var mnemonic = "task quote faint carry civil youth garlic various lock arch attack canal";
+var mnemonic = "spray swap guard immense inject doll end patch guide leader lobster fence";

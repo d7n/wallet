@@ -1,1 +1,1 @@
-var mnemonic = "range ticket february solve cave woman smart priority confirm sure become sight";
+var mnemonic = "curve bottom cotton banana squeeze able pig park giraffe price antenna sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "fade picnic about attract broken pave sustain vintage napkin surprise margin amateur";
+var mnemonic = "blame sphere float way manual genuine toe area random track crazy mixed";

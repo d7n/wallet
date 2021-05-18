@@ -1,1 +1,1 @@
-var mnemonic = "lava betray census estate wife blind pigeon soda medal exit infant scene";
+var mnemonic = "duty drama victory gain member opinion flame glare swarm height figure resist";

@@ -1,1 +1,1 @@
-var mnemonic = "castle include raw stick together wrap capable lab elegant skill pond excuse";
+var mnemonic = "palm sorry lawsuit antique gasp scene net correct claw stool pizza goose";

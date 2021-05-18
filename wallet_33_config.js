@@ -1,1 +1,1 @@
-var mnemonic = "scene organ truth expose drink exist front junk grab nest smart method";
+var mnemonic = "ahead sibling science random impose extra offer energy give kid element hair";

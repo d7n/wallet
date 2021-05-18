@@ -1,1 +1,1 @@
-var mnemonic = "system make survey open spirit check search twenty knock excess loop clutch";
+var mnemonic = "vanish egg stock slab split embrace unhappy blame hero employ pelican across";

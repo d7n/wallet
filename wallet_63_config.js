@@ -1,1 +1,1 @@
-var mnemonic = "salon pencil vital there pond exact spell immune symptom grace verb later";
+var mnemonic = "lamp boring spin solution account funny swift error teach rule bike draw";

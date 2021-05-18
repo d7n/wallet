@@ -1,1 +1,1 @@
-var mnemonic = "strong test then report merit solid rubber spray boss creek torch diet";
+var mnemonic = "mind flame produce swear explain range hint outside strike give vocal nasty";

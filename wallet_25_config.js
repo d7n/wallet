@@ -1,1 +1,1 @@
-var mnemonic = "practice urge tip shield wage paddle renew motion excess humble squirrel comfort";
+var mnemonic = "rotate color hazard rally urban sick wild enlist wink exact visa behind";

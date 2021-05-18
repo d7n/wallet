@@ -1,1 +1,1 @@
-var mnemonic = "garden seven excuse have glance prevent three sea agree similar brass infant";
+var mnemonic = "hole cram indicate pretty lumber betray also assault ask arrive neither post";

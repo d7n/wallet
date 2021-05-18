@@ -1,1 +1,1 @@
-var mnemonic = "miracle pass toward swap coast ripple allow robot galaxy together metal open";
+var mnemonic = "scout alien alert under tunnel whip bleak spoon bag liquid slush also";

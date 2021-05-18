@@ -1,1 +1,1 @@
-var mnemonic = "breeze achieve man human fame sister flash change problem message icon below";
+var mnemonic = "suspect dutch manual assist surround ivory opinion saddle ritual spy fetch nose";

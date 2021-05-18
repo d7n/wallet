@@ -1,1 +1,1 @@
-var mnemonic = "struggle deliver cabin company crop embark jar monster deer seat what shed";
+var mnemonic = "elevator undo luggage mansion sorry hand hover edit narrow shy fun decide";

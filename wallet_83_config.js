@@ -1,1 +1,1 @@
-var mnemonic = "affair deny squirrel economy ancient wrap garage unhappy barrel tourist head antenna";
+var mnemonic = "since subway radar yard grape auto brown maze brother project economy genius";

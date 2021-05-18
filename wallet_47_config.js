@@ -1,1 +1,1 @@
-var mnemonic = "cheese claw tip subway cute quiz ask elephant ranch under machine nest";
+var mnemonic = "retreat glove weekend actual resist mouse mix marble invest slim measure light";

@@ -1,1 +1,1 @@
-var mnemonic = "gold edge renew level swift biology donkey course giraffe size dress supreme";
+var mnemonic = "total toast aerobic movie board lend country summer predict ugly apple earth";

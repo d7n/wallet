@@ -1,1 +1,1 @@
-var mnemonic = "deposit marine coast sell eye void volcano fish ability banner clinic venue";
+var mnemonic = "right bless warfare replace bridge bargain multiply outside moral drum solve exist";

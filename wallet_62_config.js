@@ -1,1 +1,1 @@
-var mnemonic = "stand race bar blouse media alcohol like slender purity mask domain bless";
+var mnemonic = "among bind scatter stem culture future imitate fox dose fog produce debris";

@@ -1,1 +1,1 @@
-var mnemonic = "rate oxygen sick barely suggest lazy recycle right tunnel junk boat task";
+var mnemonic = "always save tornado lend enjoy invite organ arm chronic employ erupt owner";

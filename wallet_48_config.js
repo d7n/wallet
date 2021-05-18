@@ -1,1 +1,1 @@
-var mnemonic = "behind verb shaft when certain light river mix category crunch dumb traffic";
+var mnemonic = "skate mixture mass number monster uncle wild siren section fog pulp angry";

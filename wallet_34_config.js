@@ -1,1 +1,1 @@
-var mnemonic = "rhythm purpose chuckle bean embark negative okay off reason rebel scatter frog";
+var mnemonic = "moon uncover sound seminar buffalo urge embody galaxy armor cram crawl boring";

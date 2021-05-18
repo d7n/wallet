@@ -1,1 +1,1 @@
-var mnemonic = "sustain insect universe party fatigue journey forum curious move juice thing wing";
+var mnemonic = "topic check engine merit buyer wave purity enforce sun say stock heavy";

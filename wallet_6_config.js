@@ -1,1 +1,1 @@
-var mnemonic = "reflect voyage valley hunt term again radio lamp october sausage fuel aim";
+var mnemonic = "work reform lend sport bullet sister chair stand awful hawk document margin";

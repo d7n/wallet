@@ -1,1 +1,1 @@
-var mnemonic = "half secret inch sign sort hip sniff clog copy ill talk layer";
+var mnemonic = "estate hybrid leopard rescue can put height identify island cigar success immune";

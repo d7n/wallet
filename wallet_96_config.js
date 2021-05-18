@@ -1,1 +1,1 @@
-var mnemonic = "medal select laptop mirror whale error account digital decline venture above stone";
+var mnemonic = "ecology vivid bench solar taste humor palace globe museum pass stool grain";

@@ -1,1 +1,1 @@
-var mnemonic = "upper elevator current require inherit meadow track cup valid know void mosquito";
+var mnemonic = "bunker walnut arrange hobby enjoy layer flock double artwork wire visual manual";

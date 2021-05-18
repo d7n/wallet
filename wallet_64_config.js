@@ -1,1 +1,1 @@
-var mnemonic = "zebra galaxy fortune snack minor hen curious that audit clown base together";
+var mnemonic = "genre add forum brush eagle rabbit target concert mechanic marble seminar vote";

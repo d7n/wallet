@@ -1,1 +1,1 @@
-var mnemonic = "vanish lawn arch shop lion actress cargo vague able ugly night one";
+var mnemonic = "poverty bag retire choose fade throw narrow fatigue adapt elegant prevent inject";

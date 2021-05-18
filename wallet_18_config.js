@@ -1,1 +1,1 @@
-var mnemonic = "pupil lift soldier blue raccoon sail usual juice alcohol sorry tragic bind";
+var mnemonic = "science victory drift pulp sponsor affair blade marble attitude idea rich wink";

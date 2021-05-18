@@ -1,1 +1,1 @@
-var mnemonic = "body account base song awesome elevator expire bone announce bird trend solid";
+var mnemonic = "latin kit east team accuse quality route thumb civil valid nominee flush";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer pair chaos anger elegant saddle repair move month tackle erupt brand";
+var mnemonic = "insane effort east december crime keen suspect flower olympic resource toddler echo";

@@ -1,1 +1,1 @@
-var mnemonic = "polar alcohol vital foam mesh unusual crater risk source below text copper";
+var mnemonic = "thrive risk adapt slight awkward topple sniff evoke option excess protect predict";

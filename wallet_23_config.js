@@ -1,1 +1,1 @@
-var mnemonic = "later lazy extra hood bind guilt essence travel truly blast laugh census";
+var mnemonic = "goat fire term blind enrich security memory trigger object seat sweet payment";

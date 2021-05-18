@@ -1,1 +1,1 @@
-var mnemonic = "earn popular case bundle trade chat excite aisle pull prize start forward";
+var mnemonic = "keep kitten actor install cry predict trim surface pulse service kitten other";

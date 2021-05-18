@@ -1,1 +1,1 @@
-var mnemonic = "until family bridge magnet profit gold visa quit amazing ripple duck sort";
+var mnemonic = "source cigar gadget hybrid fury pact couch lunch dilemma aerobic disorder fix";

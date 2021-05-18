@@ -1,1 +1,1 @@
-var mnemonic = "fruit opera armed decorate cattle ghost allow van blur where coin park";
+var mnemonic = "erupt figure cactus mind update garlic tool poem renew dumb prepare balance";

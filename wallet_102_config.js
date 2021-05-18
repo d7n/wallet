@@ -1,1 +1,1 @@
-var mnemonic = "ugly wealth squirrel attack dynamic busy satisfy occur sword example excite bamboo";
+var mnemonic = "trick actual input skin hello unfold bomb economy leisure file addict roof";

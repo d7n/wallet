@@ -1,1 +1,1 @@
-var mnemonic = "case zero robot lyrics twenty very crawl mobile true hidden uncover correct";
+var mnemonic = "census amused vast cabin finish achieve shuffle reject holiday upgrade holiday reward";

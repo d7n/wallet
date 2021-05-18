@@ -1,1 +1,1 @@
-var mnemonic = "crash myth village pelican burden vendor tribe art daring weasel school atom";
+var mnemonic = "tuna lumber hat aisle mansion alien debris submit syrup arch march undo";

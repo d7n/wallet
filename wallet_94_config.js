@@ -1,1 +1,1 @@
-var mnemonic = "episode annual heavy reflect image include disagree badge neither napkin sport uncle";
+var mnemonic = "movie equal arrow deny luggage clump pole gown tenant fruit brave sting";

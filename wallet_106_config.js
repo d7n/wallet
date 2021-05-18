@@ -1,1 +1,1 @@
-var mnemonic = "history adult kiss remain wolf laundry author absurd test only trigger afford";
+var mnemonic = "patrol cruel badge loan symbol monkey soccer hurt kingdom grief brain wedding";

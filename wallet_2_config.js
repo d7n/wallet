@@ -1,1 +1,1 @@
-var mnemonic = "dune torch illegal head admit dove repair inmate buyer owner bunker balcony";
+var mnemonic = "wine rude planet advance winner attack plate coral prize wrist practice spawn";

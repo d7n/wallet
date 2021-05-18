@@ -1,1 +1,1 @@
-var mnemonic = "ethics debate rough advice kit spice crawl shell radar boil marble scrub";
+var mnemonic = "pass place wish run snap metal garbage grace worth attitude gas lawsuit";

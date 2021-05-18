@@ -1,1 +1,1 @@
-var mnemonic = "duty return trumpet rather settle arena develop quick result dwarf agree work";
+var mnemonic = "rate remove they wasp habit derive whale vast gloom master reopen diagram";

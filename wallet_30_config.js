@@ -1,1 +1,1 @@
-var mnemonic = "satisfy once transfer coyote border story oil quality author govern element flock";
+var mnemonic = "material raise festival maximum aspect wasp daughter child short brown board emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet sunny toward balance about limb bring ignore base vast potato glow";
+var mnemonic = "exact element crew decrease uphold survey hip various collect pluck reject say";

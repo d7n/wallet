@@ -1,1 +1,1 @@
-var mnemonic = "diesel mule insane plastic tool decade minor job cause crucial sure cheese";
+var mnemonic = "draw forum hurry view tail coyote hover base liquid shift buyer sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "judge rally mimic shoot always salmon weather cluster blood poverty depend upon";
+var mnemonic = "hope lonely caution lift cable force object talent weapon shrug broccoli puzzle";

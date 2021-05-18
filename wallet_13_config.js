@@ -1,1 +1,1 @@
-var mnemonic = "illegal hurry artwork sauce calm excuse carry rigid suspect online inform nest";
+var mnemonic = "business stereo you athlete rural credit update subject fortune brief shrimp about";

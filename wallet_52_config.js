@@ -1,1 +1,1 @@
-var mnemonic = "rule garage pyramid perfect unusual habit gravity gloom inside hood remove powder";
+var mnemonic = "obscure skin pyramid silly magnet resemble gate state trim sample dust hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "robot sauce note ladder depart swallow assault clog blood assist position sign";
+var mnemonic = "essay fiber laptop theory muffin flee nation foam fruit trim napkin ring";

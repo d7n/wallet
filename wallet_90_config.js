@@ -1,1 +1,1 @@
-var mnemonic = "attack route excuse plug faculty edit issue vote prosper cliff shoe fatal";
+var mnemonic = "fantasy bleak tornado antenna horn either bar dentist leave secret such coach";

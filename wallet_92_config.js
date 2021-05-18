@@ -1,1 +1,1 @@
-var mnemonic = "better noodle emotion inch predict ecology scatter eager gloom faint crew laptop";
+var mnemonic = "clog escape shallow polar drift bounce erode winter hen miracle twenty green";

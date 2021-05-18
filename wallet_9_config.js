@@ -1,1 +1,1 @@
-var mnemonic = "ready shadow same gold blush obscure include find stem tennis salmon truth";
+var mnemonic = "neutral piano explain define verb noble cook armed leg glide huge chat";

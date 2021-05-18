@@ -1,1 +1,1 @@
-var mnemonic = "absurd make razor dance aspect sugar suffer verify trick inner strategy kidney";
+var mnemonic = "pipe series leisure fiction injury bundle wet nominee sponsor glance piece risk";

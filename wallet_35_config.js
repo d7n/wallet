@@ -1,1 +1,1 @@
-var mnemonic = "first outer shield unable banana siren jaguar twelve climb draft hurdle change";
+var mnemonic = "joy swarm leave coach nothing basket across warm never pilot cabin bamboo";

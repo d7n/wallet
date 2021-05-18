@@ -1,1 +1,1 @@
-var mnemonic = "canvas social cute menu tomato wild approve into hotel hub ability retreat";
+var mnemonic = "fuel length chaos leaf retreat decline silver library slot creek gloom neither";

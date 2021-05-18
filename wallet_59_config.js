@@ -1,1 +1,1 @@
-var mnemonic = "gym across wave demise feel stage virtual badge logic floor resist artwork";
+var mnemonic = "frost cash live chase extend proof rocket cruise myth clip puzzle lonely";

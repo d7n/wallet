@@ -1,1 +1,1 @@
-var mnemonic = "trade visit lawsuit feed host dog wool minimum unhappy crime famous song";
+var mnemonic = "daughter match top famous laptop weird taste crowd appear pact case exotic";

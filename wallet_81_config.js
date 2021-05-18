@@ -1,1 +1,1 @@
-var mnemonic = "finger earth force wealth also feature invest brand file valve play icon";
+var mnemonic = "frame finger trial blouse elder emotion tag picnic kitten upon make extra";

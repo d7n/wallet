@@ -1,1 +1,1 @@
-var mnemonic = "juice recycle enrich convince finger about salute day punch snow tool smart";
+var mnemonic = "review quick certain window fringe village polar deal today consider motion goose";

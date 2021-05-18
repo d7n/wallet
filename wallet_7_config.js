@@ -1,1 +1,1 @@
-var mnemonic = "slush enrich boss hair baby movie slide tiny pencil dolphin advice gauge";
+var mnemonic = "kit cannon truly october unusual maximum kitchen page north purity mountain alter";

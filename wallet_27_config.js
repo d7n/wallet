@@ -1,1 +1,1 @@
-var mnemonic = "gaze allow raccoon math demand crisp frame kit ketchup electric speak magic";
+var mnemonic = "inhale surround exist renew dove pill learn space track power apology rail";

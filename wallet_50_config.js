@@ -1,1 +1,1 @@
-var mnemonic = "guide settle elephant property clean mask motor road truth limit priority best";
+var mnemonic = "car mosquito sniff orient reunion distance mix exchange giant spirit equip virus";

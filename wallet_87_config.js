@@ -1,1 +1,1 @@
-var mnemonic = "claw panda actor pudding armor vintage noble antique awesome forward acoustic design";
+var mnemonic = "hill two skull donate expect avoid only online various liberty rocket cable";

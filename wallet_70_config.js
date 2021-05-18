@@ -1,1 +1,1 @@
-var mnemonic = "card judge demand hybrid cloud affair whisper good toy polar asthma busy";
+var mnemonic = "food used rack hurdle like supreme disease dizzy resemble abandon arch range";

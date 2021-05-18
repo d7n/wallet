@@ -1,1 +1,1 @@
-var mnemonic = "wave control oyster rule make nest essay talent estate drip dream alpha";
+var mnemonic = "water action oval raccoon shy endorse gun execute match poverty jewel kit";

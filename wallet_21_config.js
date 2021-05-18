@@ -1,1 +1,1 @@
-var mnemonic = "dutch faint uniform chaos twelve field toddler orchard siege habit start cook";
+var mnemonic = "uncle party lamp cream dose cargo tongue sight glance absorb keep tape";

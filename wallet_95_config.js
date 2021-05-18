@@ -1,1 +1,1 @@
-var mnemonic = "section ostrich then apology label ball egg unaware jewel inner canoe sense";
+var mnemonic = "sun invite false dream endorse inhale brown note reduce among matrix fade";

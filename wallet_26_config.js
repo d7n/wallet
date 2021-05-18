@@ -1,1 +1,1 @@
-var mnemonic = "unusual balance like text expect jar own help slogan risk valve obvious";
+var mnemonic = "spoon hybrid spirit uncle cross exotic gossip use tennis season ski peace";

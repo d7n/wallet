@@ -1,1 +1,1 @@
-var mnemonic = "dinner surface divorce spare dilemma august include blame runway setup grocery target";
+var mnemonic = "shift engage unhappy hat lumber warm squeeze fun neglect quality response orphan";

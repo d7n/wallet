@@ -1,1 +1,1 @@
-var mnemonic = "squirrel crumble often ill write spatial trash stove cross tonight group parrot";
+var mnemonic = "minimum extend breeze scissors unfold endorse endless elevator distance valve seminar moral";

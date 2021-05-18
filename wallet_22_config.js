@@ -1,1 +1,1 @@
-var mnemonic = "view bridge mosquito indoor inhale disease palm scene project fabric move slush";
+var mnemonic = "acid dice grain shuffle receive mistake crew smile ghost wet debate chuckle";

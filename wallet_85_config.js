@@ -1,1 +1,1 @@
-var mnemonic = "lava recall pause daring soft fatal jump elbow river permit bone belt";
+var mnemonic = "upgrade grunt group control gesture pluck rapid charge leave spider weasel eye";

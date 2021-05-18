@@ -1,1 +1,1 @@
-var mnemonic = "blast high student broccoli foil assault inquiry rebuild machine holiday spike oven";
+var mnemonic = "joke material stadium avocado off obvious bachelor palm affair hour angry observe";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog prevent spoil number cost caution grain floor kit gospel since scale";
+var mnemonic = "pride act custom hill begin style certain virtual metal tunnel gown float";

@@ -1,1 +1,1 @@
-var mnemonic = "wink physical fiction stem raw own chat company crop like slush grief";
+var mnemonic = "small gospel glimpse crew goat style robust school recycle light list drastic";

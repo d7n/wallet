@@ -1,1 +1,1 @@
-var mnemonic = "plug radio fold comfort air garlic dance robust charge winner rent grace";
+var mnemonic = "scrub season horse luxury goddess muscle field chest ability behind onion blossom";
