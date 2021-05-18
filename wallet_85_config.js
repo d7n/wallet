@@ -1,1 +1,1 @@
-var mnemonic = "flock kite festival settle device cave indicate conduct still lunar pitch term";
+var mnemonic = "toddler rubber alley diary change risk pretty dragon wasp achieve satoshi innocent";

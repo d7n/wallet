@@ -1,1 +1,1 @@
-var mnemonic = "amazing twenty grace what fiscal wing tube smooth fork regret menu armor";
+var mnemonic = "orient mercy add romance maximum absurd muffin want region endorse grace census";

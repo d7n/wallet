@@ -1,1 +1,1 @@
-var mnemonic = "usage announce vacant ribbon curve syrup web sight write alter gallery brick";
+var mnemonic = "health world tattoo cluster grit ancient capital fresh smooth grass throw side";

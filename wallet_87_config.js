@@ -1,1 +1,1 @@
-var mnemonic = "home action mandate hundred tissue bridge release census own piece verify pill";
+var mnemonic = "text first brother try hole recipe maze outer shiver health wink drive";

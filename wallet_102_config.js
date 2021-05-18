@@ -1,1 +1,1 @@
-var mnemonic = "enter kick make issue quarter unknown angle wall orbit sand unique mix";
+var mnemonic = "curve flock item clog moon flavor antenna leisure will twist market lazy";

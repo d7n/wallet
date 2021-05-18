@@ -1,1 +1,1 @@
-var mnemonic = "march sign valid shove twice pattern web honey inside radio autumn casino";
+var mnemonic = "control begin thing cable attract universe notable tower brown key leader wine";

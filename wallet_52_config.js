@@ -1,1 +1,1 @@
-var mnemonic = "episode enemy comic motion mutual gesture waste key load find toe fiber";
+var mnemonic = "truth habit army across cruel physical latin acid chief jump vital hollow";

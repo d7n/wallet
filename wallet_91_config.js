@@ -1,1 +1,1 @@
-var mnemonic = "provide gas vacant hawk much grocery discover sponsor lyrics benefit spring tissue";
+var mnemonic = "rocket welcome culture just voyage praise second frown ethics novel hurry initial";

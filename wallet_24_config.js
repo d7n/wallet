@@ -1,1 +1,1 @@
-var mnemonic = "left best derive lawn fortune better desert occur canoe morning smile useful";
+var mnemonic = "shield eternal goddess scrap pause police radar bulb faint scout girl rice";

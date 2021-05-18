@@ -1,1 +1,1 @@
-var mnemonic = "drastic approve execute barely news search type misery valid garment bag jungle";
+var mnemonic = "fat absent universe video soda derive rug uncover sure bring cross brick";

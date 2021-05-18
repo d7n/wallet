@@ -1,1 +1,1 @@
-var mnemonic = "assist extra improve electric injury mechanic planet speak online burger story foil";
+var mnemonic = "before drama double next crucial olympic audit dice display any share tunnel";

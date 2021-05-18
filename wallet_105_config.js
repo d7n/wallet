@@ -1,1 +1,1 @@
-var mnemonic = "expand rookie install between flip approve insane office salt hope state mobile";
+var mnemonic = "control lock tone slim pony bullet arch only cruel rack notable apart";

@@ -1,1 +1,1 @@
-var mnemonic = "cook farm any unfair beauty comic lab strong brother notice year history";
+var mnemonic = "modify captain quick best thrive grab cause spray intact organ horn enter";

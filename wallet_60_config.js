@@ -1,1 +1,1 @@
-var mnemonic = "fresh afraid hat language foster grain image year service fuel warfare trust";
+var mnemonic = "inquiry drill sea imitate bread secret scan chicken fuel truth upset faculty";

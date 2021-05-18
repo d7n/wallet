@@ -1,1 +1,1 @@
-var mnemonic = "hybrid hedgehog category umbrella raw body peasant tree achieve beauty add earth";
+var mnemonic = "immense vault zone bulb power borrow lounge detect very gentle regret message";

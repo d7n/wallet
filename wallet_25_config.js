@@ -1,1 +1,1 @@
-var mnemonic = "crumble teach drip wrist shadow decline predict toe weasel detail draw panda";
+var mnemonic = "sight burst impose february fan card delay dragon grape social auto frog";

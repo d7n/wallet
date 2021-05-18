@@ -1,1 +1,1 @@
-var mnemonic = "hip dog render submit scorpion clump walk noble hard enact copper velvet";
+var mnemonic = "bean monkey segment credit sauce lizard miss devote situate maze gospel two";

@@ -1,1 +1,1 @@
-var mnemonic = "people hidden wagon lesson october clown day desert weird segment member audit";
+var mnemonic = "birth scatter scatter program prize vanish run solve amused clinic word bottom";

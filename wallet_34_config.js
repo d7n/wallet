@@ -1,1 +1,1 @@
-var mnemonic = "medal hope candy enact keep zone record conduct hawk hand adjust absurd";
+var mnemonic = "pledge luxury return rent bottom dynamic pill sketch table method shield genius";

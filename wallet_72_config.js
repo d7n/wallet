@@ -1,1 +1,1 @@
-var mnemonic = "clap predict relax speed erupt ankle hen brisk isolate ecology exist dress";
+var mnemonic = "garage early bus type dry chapter fire plastic term person fuel meadow";

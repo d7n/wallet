@@ -1,1 +1,1 @@
-var mnemonic = "deny afraid have ahead image power carpet uncle shadow category solution hobby";
+var mnemonic = "inside arch ozone cement marble jewel athlete found enrich typical grass olive";

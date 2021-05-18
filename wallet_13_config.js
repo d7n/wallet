@@ -1,1 +1,1 @@
-var mnemonic = "clever chapter dutch floor shaft height knock exchange depart ranch spend claim";
+var mnemonic = "peace bargain toss sorry parade deer illegal flush program draft intact license";

@@ -1,1 +1,1 @@
-var mnemonic = "law unusual bike work table skin celery roof nation dune dentist parade";
+var mnemonic = "spike flag drama subway poet cash often neglect knee marble bulk style";

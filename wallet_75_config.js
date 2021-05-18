@@ -1,1 +1,1 @@
-var mnemonic = "stumble family permit pepper vicious accident achieve make gentle fever basket jar";
+var mnemonic = "fix rent senior unaware praise wife math liberty dice cross retire differ";

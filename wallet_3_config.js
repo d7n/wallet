@@ -1,1 +1,1 @@
-var mnemonic = "ship current idea disorder rough legend detect cactus side play autumn embody";
+var mnemonic = "supply negative erosion rich liquid disagree wheel scout regular leader leader dizzy";

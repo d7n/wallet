@@ -1,1 +1,1 @@
-var mnemonic = "buffalo thank couch riot help bread when impulse gate tuna gain space";
+var mnemonic = "diamond remember camp night trophy snake silly digital ethics soup during bag";

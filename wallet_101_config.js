@@ -1,1 +1,1 @@
-var mnemonic = "fatal chicken craft spatial member modify apple annual night today goose essence";
+var mnemonic = "donkey flower attend castle uniform exit rebuild enable salt version property indoor";

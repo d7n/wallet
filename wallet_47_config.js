@@ -1,1 +1,1 @@
-var mnemonic = "liberty reason prefer scout barrel bacon orchard movie soldier pool fun equal";
+var mnemonic = "leopard off analyst iron hotel trick crystal gas pet address nose spike";

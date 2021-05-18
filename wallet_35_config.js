@@ -1,1 +1,1 @@
-var mnemonic = "mimic allow click turtle spread awful wide reunion field ancient open drip";
+var mnemonic = "segment float turtle walnut phrase actress trade pen whip series door excess";

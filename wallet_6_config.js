@@ -1,1 +1,1 @@
-var mnemonic = "glance drive genius crush inform palm thank tell twist wheat sadness stairs";
+var mnemonic = "supply fossil minor negative act snack live upset today crew ranch alien";

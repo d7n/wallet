@@ -1,1 +1,1 @@
-var mnemonic = "wrap push virtual rug bar office bind effort dentist help vapor hat";
+var mnemonic = "glare royal best ordinary current calm century false exotic trust box pool";

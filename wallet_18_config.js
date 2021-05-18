@@ -1,1 +1,1 @@
-var mnemonic = "member like flower time step rubber like shrug pear second shield glow";
+var mnemonic = "host unit south evolve trust embody digital recipe tape alarm umbrella advance";

@@ -1,1 +1,1 @@
-var mnemonic = "addict ketchup balance genre unhappy cattle excuse spy high coconut slim almost";
+var mnemonic = "evolve rain frost bread inmate sibling audit noble entire blush attitude hope";

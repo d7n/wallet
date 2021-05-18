@@ -1,1 +1,1 @@
-var mnemonic = "matrix fluid tired derive sure name drink cause twist mercy fringe raccoon";
+var mnemonic = "side wash pipe exchange action absent mosquito hazard deliver boring legend toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "segment ticket pelican draw social spread age ice digital order rail pig";
+var mnemonic = "plug output wise dice track undo bike surprise adapt wood mom sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "start wet fortune ancient essence subway kick umbrella stamp under fee often";
+var mnemonic = "coconut unique gravity combine era multiply legend ensure creek glare much dry";

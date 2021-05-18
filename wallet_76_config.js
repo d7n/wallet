@@ -1,1 +1,1 @@
-var mnemonic = "cliff police monkey all sick august need romance drive scrub tourist vessel";
+var mnemonic = "label champion over chair sing hidden word wrap alter domain negative shed";

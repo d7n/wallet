@@ -1,1 +1,1 @@
-var mnemonic = "inner upper capable during cover thrive second weapon ceiling pupil arm reason";
+var mnemonic = "diet usage lend kidney reunion trigger evolve behave hundred trap fence sail";

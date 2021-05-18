@@ -1,1 +1,1 @@
-var mnemonic = "hospital welcome avocado hurry wool focus champion section peasant anger sugar goddess";
+var mnemonic = "agree sphere collect combine position fix dirt index club ship duck trouble";

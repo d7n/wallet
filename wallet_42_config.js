@@ -1,1 +1,1 @@
-var mnemonic = "sure fix sand winner time hammer lawsuit normal cricket public base bottom";
+var mnemonic = "veteran debate hamster lunch zero wonder brisk evil expose mercy powder liar";

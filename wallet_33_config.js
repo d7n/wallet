@@ -1,1 +1,1 @@
-var mnemonic = "fade road crisp candy payment fury eyebrow couple clip vocal swap account";
+var mnemonic = "decide tongue laugh board family will right voyage like nuclear liar noise";

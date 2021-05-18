@@ -1,1 +1,1 @@
-var mnemonic = "cry sand trash toward screen series wonder problem dice final museum report";
+var mnemonic = "dress fox wise town explain album chronic siege crunch oil tone cradle";

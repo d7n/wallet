@@ -1,1 +1,1 @@
-var mnemonic = "perfect kitchen tuition direct crouch melody spider push prison marriage tired bubble";
+var mnemonic = "hard post shoulder soap unit cliff unfold amount west switch three inhale";

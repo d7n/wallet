@@ -1,1 +1,1 @@
-var mnemonic = "steel brother rigid lonely bicycle shiver lamp tool code word avoid stable";
+var mnemonic = "huge crime copper dutch initial blame pond wash accuse nice soap hub";

@@ -1,1 +1,1 @@
-var mnemonic = "approve airport topple grocery swallow piano tired name today month robust decade";
+var mnemonic = "sibling repair six interest fetch addict hedgehog gloom sport swamp tank assume";

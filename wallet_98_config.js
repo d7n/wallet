@@ -1,1 +1,1 @@
-var mnemonic = "target special cat pulp kiwi history bring climb bless live pond alone";
+var mnemonic = "spy dentist coast wrestle seed clump balcony grow brand oppose olympic language";

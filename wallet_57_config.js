@@ -1,1 +1,1 @@
-var mnemonic = "arrow denial smoke delay tissue tongue peasant wife essence keen famous sheriff";
+var mnemonic = "choice thing useful arena prepare sense buyer olympic able lawn must keen";

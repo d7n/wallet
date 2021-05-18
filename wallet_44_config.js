@@ -1,1 +1,1 @@
-var mnemonic = "eagle sport verify olympic basket clown burden nurse benefit slender fancy title";
+var mnemonic = "panic ice bone horse lawn puppy universe festival toss inspire length gap";

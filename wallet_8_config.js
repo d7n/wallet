@@ -1,1 +1,1 @@
-var mnemonic = "law digital behind urge patient tornado sand sand allow give test divorce";
+var mnemonic = "general gasp horn vacuum two upper cousin ship scout will tell question";

@@ -1,1 +1,1 @@
-var mnemonic = "high opera census such sunset funny donkey twice team explain desk inmate";
+var mnemonic = "tone accident angry fold much bronze april pond cheese come speak execute";

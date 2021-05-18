@@ -1,1 +1,1 @@
-var mnemonic = "blade muscle emerge decline culture decade company first suspect immense lion symbol";
+var mnemonic = "surprise deer invite exit scare wrestle together satoshi fit october danger reform";

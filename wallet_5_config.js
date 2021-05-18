@@ -1,1 +1,1 @@
-var mnemonic = "glue cotton solar harvest name disagree palm summer response paper engine glass";
+var mnemonic = "admit laptop cherry seven bid lock bike bundle hurry vanish swamp bachelor";

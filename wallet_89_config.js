@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow giant rescue mountain code unhappy surface gown afraid pizza good genius";
+var mnemonic = "account amused remove candy jar issue august series goat second rare mention";

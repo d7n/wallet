@@ -1,1 +1,1 @@
-var mnemonic = "yard unveil pistol forum drill pave hurry furnace deal present deal elbow";
+var mnemonic = "milk thunder sting supply machine fabric battle carbon client mean place sure";

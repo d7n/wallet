@@ -1,1 +1,1 @@
-var mnemonic = "laundry fade enforce view video favorite permit grain more scale gospel glove";
+var mnemonic = "rain depend future border tired discover blouse sunny pumpkin prepare lumber outside";

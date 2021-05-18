@@ -1,1 +1,1 @@
-var mnemonic = "twice apple moon transfer express great admit bread trouble gun amused chunk";
+var mnemonic = "evolve verb random beyond injury pupil link hurry fatal hard deal network";

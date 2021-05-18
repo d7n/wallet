@@ -1,1 +1,1 @@
-var mnemonic = "reveal blossom regret chest about charge alpha junior retire celery abstract smoke";
+var mnemonic = "pipe until section kiwi conduct tank clap follow glimpse lemon weekend design";

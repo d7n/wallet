@@ -1,1 +1,1 @@
-var mnemonic = "fork rug abuse supreme brown view ketchup typical party soft analyst actual";
+var mnemonic = "balcony spoil easy water vehicle put dune country main bless giant away";

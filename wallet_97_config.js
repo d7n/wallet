@@ -1,1 +1,1 @@
-var mnemonic = "health struggle innocent detail degree local matrix glove glue dynamic magic repeat";
+var mnemonic = "ivory scorpion flip opera mango scheme clog social injury rhythm oyster dune";

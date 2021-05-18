@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow online expose when flash bench project frown awkward afford romance wool";
+var mnemonic = "era tennis wrap sorry have cushion kind march normal swarm load upgrade";

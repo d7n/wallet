@@ -1,1 +1,1 @@
-var mnemonic = "ten inhale century duck news supreme initial relief accuse foil collect live";
+var mnemonic = "shield permit grid puppy olympic planet series bicycle able point blanket flat";

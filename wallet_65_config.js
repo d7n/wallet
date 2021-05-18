@@ -1,1 +1,1 @@
-var mnemonic = "staff boy steak document prefer shoe hamster diamond elder seven ski between";
+var mnemonic = "cloud rain burden door gold all ostrich clarify kick salute media absorb";

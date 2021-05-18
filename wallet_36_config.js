@@ -1,1 +1,1 @@
-var mnemonic = "sketch cattle record account alcohol file two type wreck utility length knife";
+var mnemonic = "shrimp helmet police atom away royal ostrich quantum suggest pole hold market";

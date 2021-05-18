@@ -1,1 +1,1 @@
-var mnemonic = "census turkey very leg smoke mystery door virtual senior feature monitor wave";
+var mnemonic = "gas bring pottery clog model decade mix hip level wide outside still";

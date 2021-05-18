@@ -1,1 +1,1 @@
-var mnemonic = "visit cream lava aim bag public dish logic deny once asthma mimic";
+var mnemonic = "transfer hope when survey indicate thumb produce swift film produce pig pumpkin";

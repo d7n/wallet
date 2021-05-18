@@ -1,1 +1,1 @@
-var mnemonic = "control follow learn corn clock father exile one drip tape veteran caution";
+var mnemonic = "use rib talent seven mechanic mention scan entire kitchen friend mind hobby";

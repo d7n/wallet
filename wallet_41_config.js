@@ -1,1 +1,1 @@
-var mnemonic = "nice pyramid good balance clutch core system coast glue cycle embody bag";
+var mnemonic = "glide liberty intact regular insane vital green old wave property museum pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle scatter account shoe ski favorite inform frown possible gap soon champion";
+var mnemonic = "wash giggle private only flat clerk drip silver foil wonder other jungle";

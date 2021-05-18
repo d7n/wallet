@@ -1,1 +1,1 @@
-var mnemonic = "trim side sword around output universe treat wagon elbow word blanket ribbon";
+var mnemonic = "hobby orange bean scene merry wagon excite plunge bundle unfold scrub pulp";

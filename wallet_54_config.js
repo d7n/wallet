@@ -1,1 +1,1 @@
-var mnemonic = "cart design awful surprise document screen scan throw hub faint black razor";
+var mnemonic = "venture repair junk window gate hundred ensure piano give gym genre case";

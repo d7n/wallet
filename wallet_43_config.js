@@ -1,1 +1,1 @@
-var mnemonic = "arch flip sweet undo rose choice main hockey rich dial senior barrel";
+var mnemonic = "segment educate pattern tribe scrub mom still desk kid chicken west hungry";

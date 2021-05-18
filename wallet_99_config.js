@@ -1,1 +1,1 @@
-var mnemonic = "chuckle balcony stone good rebel thrive barely grace lounge leaf marble exclude";
+var mnemonic = "fox distance bacon degree close victory hood matrix vessel cube tennis paddle";

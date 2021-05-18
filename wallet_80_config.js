@@ -1,1 +1,1 @@
-var mnemonic = "ahead century luggage rough juice tobacco century umbrella coffee caution increase laundry";
+var mnemonic = "junk prison sister devote timber weird secret sock enroll armor decline spoon";

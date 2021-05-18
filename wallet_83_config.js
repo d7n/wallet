@@ -1,1 +1,1 @@
-var mnemonic = "daring parent pupil field unaware hero bullet current slush rally pond melody";
+var mnemonic = "wrong intact absorb soldier practice define adult birth twin enforce educate blind";

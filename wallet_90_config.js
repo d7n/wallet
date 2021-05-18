@@ -1,1 +1,1 @@
-var mnemonic = "kind cook result where glory super dune shiver uncle crater theme impose";
+var mnemonic = "nerve virtual east hybrid add quiz raw record awkward news next tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "razor office income sample wise omit laugh capable example couch wedding warfare";
+var mnemonic = "correct stuff twenty guilt jealous during again current hundred check chef wink";

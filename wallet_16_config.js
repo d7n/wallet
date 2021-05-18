@@ -1,1 +1,1 @@
-var mnemonic = "huge still donor rapid fiction salad stadium side august pair pool hobby";
+var mnemonic = "bicycle alarm explain keen jeans must gadget true program unusual assist seminar";

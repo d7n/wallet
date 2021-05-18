@@ -1,1 +1,1 @@
-var mnemonic = "cactus upon pole carbon client outside dune culture honey view rely hockey";
+var mnemonic = "royal salad strong glare cook abandon drop medal valley example head patient";

@@ -1,1 +1,1 @@
-var mnemonic = "escape gas force battle style dove evolve supply seek demise near skate";
+var mnemonic = "endless card utility club journey mule tattoo spirit ship glory alter remember";

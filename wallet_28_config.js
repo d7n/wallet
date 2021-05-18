@@ -1,1 +1,1 @@
-var mnemonic = "ripple achieve announce advance soup right fortune era video hedgehog crop tube";
+var mnemonic = "gentle flash inquiry jar weapon exercise case liar nuclear correct gesture attend";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel patrol outer bar valley saddle crisp stick zoo pilot rate list";
+var mnemonic = "skin crystal razor shallow tumble image bamboo ignore biology burger topic mind";

@@ -1,1 +1,1 @@
-var mnemonic = "rather steel cram trap rose open black trigger bike paper another beauty";
+var mnemonic = "fold kitchen gauge kid avoid palace learn permit grape debris sting sunny";

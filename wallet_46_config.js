@@ -1,1 +1,1 @@
-var mnemonic = "grape rookie congress cabbage fury fluid gospel disease elite dish amused copy";
+var mnemonic = "pepper box move picture tuna maze hand again glide convince addict butter";

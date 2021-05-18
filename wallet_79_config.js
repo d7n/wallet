@@ -1,1 +1,1 @@
-var mnemonic = "tennis grow slender hundred decline upper slim edit brand concert risk mobile";
+var mnemonic = "metal hill gravity grab tragic hurdle wish mixture turkey garment document manual";

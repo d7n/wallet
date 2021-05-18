@@ -1,1 +1,1 @@
-var mnemonic = "slogan movie evoke job stuff picnic sun blame vanish remember august cry";
+var mnemonic = "either canyon legend zoo act much dose whip unable trial foam mention";

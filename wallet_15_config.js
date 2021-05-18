@@ -1,1 +1,1 @@
-var mnemonic = "pipe quick drastic pave middle bitter pumpkin empty quality reform current large";
+var mnemonic = "luggage plastic ring sponsor hollow path roof cram vintage smile shoulder junior";

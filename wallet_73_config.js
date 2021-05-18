@@ -1,1 +1,1 @@
-var mnemonic = "grab cinnamon grit acoustic ski love head dizzy barrel gasp bench daughter";
+var mnemonic = "provide little mention target control breeze bar host huge lazy degree erosion";

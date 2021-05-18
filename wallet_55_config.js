@@ -1,1 +1,1 @@
-var mnemonic = "matrix boat orange tilt sail off index faculty close corn task ecology";
+var mnemonic = "liar march era midnight soda banner virus anger base setup oven enhance";

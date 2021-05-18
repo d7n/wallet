@@ -1,1 +1,1 @@
-var mnemonic = "rigid adapt coach speed term thought maximum pride dawn decorate unit cash";
+var mnemonic = "ketchup upgrade visa art auction orbit pause setup matrix gadget zero air";

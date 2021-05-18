@@ -1,1 +1,1 @@
-var mnemonic = "input kidney nest learn denial escape front endless gloom remove bunker quantum";
+var mnemonic = "swear device alone neglect cousin hurt vessel wrestle move powder since icon";

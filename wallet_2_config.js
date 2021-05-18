@@ -1,1 +1,1 @@
-var mnemonic = "thunder hard promote gun erosion rapid control core mimic degree hip boost";
+var mnemonic = "slush pony dash flee boost piano crucial wrestle inmate gold wheat document";

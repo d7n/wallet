@@ -1,1 +1,1 @@
-var mnemonic = "move swim width foster culture metal valve often rifle embrace lottery rocket";
+var mnemonic = "service churn cruise glance energy omit connect credit avoid meat frost car";

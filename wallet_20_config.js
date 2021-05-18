@@ -1,1 +1,1 @@
-var mnemonic = "summer enforce distance list tackle chase liquid high goddess tragic monkey degree";
+var mnemonic = "lady glance salt able empower boring this wash coast december analyst together";
