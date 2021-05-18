@@ -1,1 +1,1 @@
-var mnemonic = "earth quantum topple remain hospital width electric cross what catalog web shiver";
+var mnemonic = "ramp window icon lava zoo accuse space virtual stool taxi napkin vital";

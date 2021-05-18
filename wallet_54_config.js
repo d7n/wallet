@@ -1,1 +1,1 @@
-var mnemonic = "human private hotel once smart slush base select cart give cliff panel";
+var mnemonic = "opera vivid slim wedding bring congress beach laundry medal jeans hamster video";

@@ -1,1 +1,1 @@
-var mnemonic = "maid still sad leader gas relax catalog model fan away minute weird";
+var mnemonic = "sniff slim region alcohol pilot expect piano pumpkin decorate future antenna sibling";

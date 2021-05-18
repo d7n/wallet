@@ -1,1 +1,1 @@
-var mnemonic = "surface entry adjust spider crazy innocent door plate antenna crazy order essay";
+var mnemonic = "abandon pupil connect flavor curtain voice guess symbol mansion torch flock grow";

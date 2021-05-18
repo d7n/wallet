@@ -1,1 +1,1 @@
-var mnemonic = "surprise aunt blur student web spin slam urban again student panic smoke";
+var mnemonic = "priority reopen hunt differ belt path unaware monitor capital coyote hidden mountain";

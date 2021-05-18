@@ -1,1 +1,1 @@
-var mnemonic = "leisure burst burden live leopard butter upgrade hover maid frequent snack area";
+var mnemonic = "leaf letter song cannon teach inhale tragic zone south spin divorce message";

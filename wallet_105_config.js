@@ -1,1 +1,1 @@
-var mnemonic = "safe ability parrot always balance bind wealth glide pledge pluck flush proud";
+var mnemonic = "scale uniform swap cannon runway benefit upset weapon yard donkey pepper seek";

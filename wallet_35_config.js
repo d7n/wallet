@@ -1,1 +1,1 @@
-var mnemonic = "cram quit account release denial eagle hood angry govern slot fitness crisp";
+var mnemonic = "dance spare purchase fine verify club attack rescue culture little hour fantasy";

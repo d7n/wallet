@@ -1,1 +1,1 @@
-var mnemonic = "decide grow medal label net tape borrow syrup orphan brave more boring";
+var mnemonic = "lobster tuna brass spring swing junk file fitness salute lazy piano cash";

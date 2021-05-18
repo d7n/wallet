@@ -1,1 +1,1 @@
-var mnemonic = "video mixed arch say require emerge garment kitten unique crawl frozen visa";
+var mnemonic = "grape earn naive exchange need people text submit quarter media repeat popular";

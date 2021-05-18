@@ -1,1 +1,1 @@
-var mnemonic = "hold holiday remove unhappy breeze result mesh dilemma birth admit tide sister";
+var mnemonic = "burden repeat web topple vault visual senior vague ordinary sound board wash";

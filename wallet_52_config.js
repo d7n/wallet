@@ -1,1 +1,1 @@
-var mnemonic = "edit useful start miss disease peace tree drastic frog tonight wild release";
+var mnemonic = "stuff echo slam glow hedgehog siege business annual crunch rich shoot girl";

@@ -1,1 +1,1 @@
-var mnemonic = "file salon creek menu rather never cotton brave tomorrow humble diagram harsh";
+var mnemonic = "combine clap garage ride offer actor dismiss special mix visa ostrich slab";

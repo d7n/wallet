@@ -1,1 +1,1 @@
-var mnemonic = "bar settle share below predict razor eight happy bright nice execute bundle";
+var mnemonic = "end hurdle clinic churn deal issue slab stem work abstract shift inject";

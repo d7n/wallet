@@ -1,1 +1,1 @@
-var mnemonic = "flavor shrug month patrol space basket scissors fiscal escape circle arch brown";
+var mnemonic = "flight own basket hunt rose guard keen stable have nut swap ugly";

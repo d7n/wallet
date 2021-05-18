@@ -1,1 +1,1 @@
-var mnemonic = "staff speak absurd rural energy this zoo apple brick mansion drift same";
+var mnemonic = "neutral moon excite diagram unhappy broken story genuine inside blame loop engine";

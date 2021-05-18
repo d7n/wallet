@@ -1,1 +1,1 @@
-var mnemonic = "miracle dish father pilot unlock capital fringe display letter hard toilet mixture";
+var mnemonic = "fossil outside jump deer quiz ginger rely dumb lens crisp because tree";

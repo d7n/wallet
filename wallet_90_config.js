@@ -1,1 +1,1 @@
-var mnemonic = "border genius crystal climb surround action juice aerobic major immense slight camp";
+var mnemonic = "fiber elite nasty borrow memory prosper try rookie differ indicate panel bulb";

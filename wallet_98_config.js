@@ -1,1 +1,1 @@
-var mnemonic = "fame crawl become steel void genre yard gap salt various song secret";
+var mnemonic = "range decrease empower champion abuse lesson ghost hurry teach crater bulk belt";

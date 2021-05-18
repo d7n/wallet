@@ -1,1 +1,1 @@
-var mnemonic = "gadget term custom lounge kiwi celery sponsor myself cousin spend cute excess";
+var mnemonic = "loop unit swallow entry cream club drive erupt music defense shy about";

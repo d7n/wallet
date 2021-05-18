@@ -1,1 +1,1 @@
-var mnemonic = "you typical soda hill average stock scatter lamp once safe fiber tape";
+var mnemonic = "trial narrow mean fun food voice wait coach wise visit maple spray";

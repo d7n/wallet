@@ -1,1 +1,1 @@
-var mnemonic = "during supply meat stock anxiety off audit thunder limb sphere enforce hold";
+var mnemonic = "flee copper room divert chat envelope quiz mind possible possible company belt";

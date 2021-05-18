@@ -1,1 +1,1 @@
-var mnemonic = "volume wild silk kit fold obey universe game monster boost section peanut";
+var mnemonic = "amateur output toy ostrich limit awesome blade eye execute cruel soldier mosquito";

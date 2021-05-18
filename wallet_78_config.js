@@ -1,1 +1,1 @@
-var mnemonic = "cactus question grunt sure decline trust pepper taste duty walnut cousin air";
+var mnemonic = "dismiss kitchen crush cage test scan food win bottom abuse lounge strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "renew day mirror scout expand solve produce similar equal fiction olive walnut";
+var mnemonic = "olympic tape cost unknown case clean pluck awful ten mistake judge butter";

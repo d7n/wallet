@@ -1,1 +1,1 @@
-var mnemonic = "argue together now faint horror add digital badge fetch deal near certain";
+var mnemonic = "skate milk cargo code believe story match swamp lucky equip drum addict";

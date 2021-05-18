@@ -1,1 +1,1 @@
-var mnemonic = "chat slide hair render imitate cricket north heavy cart table need tumble";
+var mnemonic = "sheriff rival opera segment erupt together budget sense rural large display bread";

@@ -1,1 +1,1 @@
-var mnemonic = "oak load spring fiscal magic senior antique square describe manage snap believe";
+var mnemonic = "client inherit barely until path tooth bargain affair issue excess sock idle";

@@ -1,1 +1,1 @@
-var mnemonic = "tell tower detect valve dutch silly aisle manage casual sting useful tumble";
+var mnemonic = "cricket cargo sing genuine empty leaf extra cute rose style ensure cruise";

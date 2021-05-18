@@ -1,1 +1,1 @@
-var mnemonic = "people discover rely grocery note unfold reject large sun scorpion razor paper";
+var mnemonic = "chalk record hunt faith style frozen echo body wagon address daring avoid";

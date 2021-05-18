@@ -1,1 +1,1 @@
-var mnemonic = "coil thumb senior gas sweet tool sleep tail borrow purity swap dawn";
+var mnemonic = "excuse service wreck very era pull rescue horn payment kangaroo trust elephant";

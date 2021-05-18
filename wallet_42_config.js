@@ -1,1 +1,1 @@
-var mnemonic = "level pool wait night elite just town hungry gift dial proud bright";
+var mnemonic = "tomato plastic gorilla fly suspect bus roof avocado tired dad spy soccer";

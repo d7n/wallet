@@ -1,1 +1,1 @@
-var mnemonic = "junk dirt cabbage harvest exact double drill grid sort coil achieve father";
+var mnemonic = "pencil van evoke mention end lunch primary iron quantum trash crush find";

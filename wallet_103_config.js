@@ -1,1 +1,1 @@
-var mnemonic = "alien about sing oblige author wet creek slogan desk mistake relief force";
+var mnemonic = "seminar time rival left flock rapid basket movie tooth powder object tube";

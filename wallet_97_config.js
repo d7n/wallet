@@ -1,1 +1,1 @@
-var mnemonic = "palm humor input honey tunnel north hip cook husband tilt hockey gaze";
+var mnemonic = "stage talent stage fury renew garlic pool coast mad anchor rice deer";

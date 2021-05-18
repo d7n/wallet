@@ -1,1 +1,1 @@
-var mnemonic = "sentence tide cloud someone symptom couple property velvet bulk verify cricket enforce";
+var mnemonic = "find abstract wrist ability equal eagle cost mountain giraffe infant spider story";

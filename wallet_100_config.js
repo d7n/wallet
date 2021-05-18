@@ -1,1 +1,1 @@
-var mnemonic = "flush chimney night solve among oxygen reform gravity air harbor crew verify";
+var mnemonic = "enforce toast call marriage benefit derive army naive prison evidence program achieve";

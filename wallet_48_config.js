@@ -1,1 +1,1 @@
-var mnemonic = "lock run crane pair siege toss evoke fix flip merry public drink";
+var mnemonic = "hockey produce quote grief resist toss forum base switch chicken autumn second";

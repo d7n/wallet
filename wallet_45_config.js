@@ -1,1 +1,1 @@
-var mnemonic = "tissue truly raven always brass mandate risk slide tonight spoil proof logic";
+var mnemonic = "panther artwork shell veteran message vacuum glad just tonight elephant chef forum";

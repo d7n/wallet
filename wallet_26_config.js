@@ -1,1 +1,1 @@
-var mnemonic = "odor fruit luggage test story slide hold success sunset chat sketch electric";
+var mnemonic = "usual badge regret chronic antenna degree gown core motion link security forum";

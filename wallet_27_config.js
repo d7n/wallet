@@ -1,1 +1,1 @@
-var mnemonic = "select brother level immense produce inform vacuum snap educate song wrong pact";
+var mnemonic = "whisper grief crane smoke adjust usual leader fuel skull obtain bunker fall";

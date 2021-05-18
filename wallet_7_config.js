@@ -1,1 +1,1 @@
-var mnemonic = "genuine benefit pudding sea leave harvest boost begin mom acoustic end vintage";
+var mnemonic = "lucky chapter hair spice then chef skirt actor asthma current whale owner";

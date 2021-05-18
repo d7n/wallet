@@ -1,1 +1,1 @@
-var mnemonic = "grit employ copper business wash almost steak forest digital dawn next hospital";
+var mnemonic = "burger nest social scrap screen tell panda key response cricket rich first";

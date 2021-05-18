@@ -1,1 +1,1 @@
-var mnemonic = "promote holiday enact stem magic speak river that sibling armed solution settle";
+var mnemonic = "scorpion swarm erase short rail zero faint tourist leader picture turn auto";

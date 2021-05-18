@@ -1,1 +1,1 @@
-var mnemonic = "blanket resource sleep brave side nation disagree labor cricket film grow winter";
+var mnemonic = "post brown famous filter air real uniform diet output reduce certain finish";

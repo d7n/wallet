@@ -1,1 +1,1 @@
-var mnemonic = "winter bitter myth wagon certain capable curve slow brand derive scissors shell";
+var mnemonic = "pioneer slab tornado grid desert index pattern marble glory curious dry around";

@@ -1,1 +1,1 @@
-var mnemonic = "section object clown divide sauce border team sample scare breeze sniff wall";
+var mnemonic = "letter eagle hotel saddle near chair dutch grape grab engine regret hover";

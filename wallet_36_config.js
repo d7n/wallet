@@ -1,1 +1,1 @@
-var mnemonic = "scout music easy into hover pull disease deer canvas reward velvet large";
+var mnemonic = "hub ready find deny smart high worth element rebuild emotion security rule";

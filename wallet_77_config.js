@@ -1,1 +1,1 @@
-var mnemonic = "vault seek enter will debris pledge whale muffin simple traffic deputy dad";
+var mnemonic = "such review mix dial blanket drip search various observe casual improve exact";

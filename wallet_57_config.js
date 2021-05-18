@@ -1,1 +1,1 @@
-var mnemonic = "green conduct limit mention saddle search stereo travel helmet promote crane frequent";
+var mnemonic = "thumb vacuum chief book ladder arena provide pilot mean vintage trip plunge";

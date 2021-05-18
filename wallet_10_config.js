@@ -1,1 +1,1 @@
-var mnemonic = "hood illness birth flame bounce job insane check monitor autumn romance fence";
+var mnemonic = "maze already rookie nerve goose upgrade another slab only crucial eager tail";

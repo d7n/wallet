@@ -1,1 +1,1 @@
-var mnemonic = "shove hedgehog dwarf human awesome guitar leave smooth clock try dentist disease";
+var mnemonic = "capable explain merge police palm charge luxury diet pipe used ill fabric";

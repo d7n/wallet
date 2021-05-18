@@ -1,1 +1,1 @@
-var mnemonic = "apology capable brain item they connect empower protect say jewel soul sorry";
+var mnemonic = "robot tide drama document fun correct morning index news rural suffer poverty";

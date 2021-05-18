@@ -1,1 +1,1 @@
-var mnemonic = "glide pear gesture copy estate oil address life firm swing ostrich upon";
+var mnemonic = "oil spread country month popular boost hard milk toss pluck wisdom chuckle";

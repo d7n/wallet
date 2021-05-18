@@ -1,1 +1,1 @@
-var mnemonic = "fortune yard slab quarter have inherit melt pact culture blush inmate swamp";
+var mnemonic = "rabbit surround shrug carpet main nuclear flight army enable labor raise fantasy";

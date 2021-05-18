@@ -1,1 +1,1 @@
-var mnemonic = "ski toward return snow enjoy share black toss swarm math quarter dance";
+var mnemonic = "ivory round rice dust impose truck sentence food snap salad direct make";

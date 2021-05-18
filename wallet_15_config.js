@@ -1,1 +1,1 @@
-var mnemonic = "skirt task false task hub athlete luggage patient tonight steak defense suggest";
+var mnemonic = "dog base episode giant myself hunt remind great scatter able toward renew";

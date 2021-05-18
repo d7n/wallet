@@ -1,1 +1,1 @@
-var mnemonic = "nurse magic pepper yellow other train long bulb team better pole such";
+var mnemonic = "license divorce vendor phrase regret property alpha planet earn place velvet turn";

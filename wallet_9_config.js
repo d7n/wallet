@@ -1,1 +1,1 @@
-var mnemonic = "hundred auto patient jeans flight turn tragic frost steel chat slice unaware";
+var mnemonic = "level middle rifle scene quote edit essay damp urban citizen control gain";

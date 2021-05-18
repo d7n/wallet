@@ -1,1 +1,1 @@
-var mnemonic = "amused replace apple evil gasp senior choose brush good dolphin proof wing";
+var mnemonic = "machine learn render input soda arrive pluck shaft minor endless case opera";

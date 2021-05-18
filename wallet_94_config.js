@@ -1,1 +1,1 @@
-var mnemonic = "act clown fiction text security west wire suspect company almost moment flavor";
+var mnemonic = "another path eyebrow float number short write able visit lift acoustic captain";

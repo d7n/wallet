@@ -1,1 +1,1 @@
-var mnemonic = "risk mind label address unusual saddle weekend citizen emotion leaf code describe";
+var mnemonic = "across unlock blanket decrease knock history ripple boat awesome rival melody harsh";

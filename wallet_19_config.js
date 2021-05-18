@@ -1,1 +1,1 @@
-var mnemonic = "sing sheriff lobster enable awake year clown purse judge now garage ramp";
+var mnemonic = "beauty clarify rice giant riot nominee actress execute index humor romance grunt";

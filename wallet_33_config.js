@@ -1,1 +1,1 @@
-var mnemonic = "tribe slice moment annual volume fold alcohol power donkey fence faint milk";
+var mnemonic = "frown pet cotton until seven idea lucky kite puppy judge arch throw";

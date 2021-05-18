@@ -1,1 +1,1 @@
-var mnemonic = "token month version paddle end ride protect alpha pink gather flight cook";
+var mnemonic = "tonight mixture trade chat crumble swamp cool child chat sustain nasty lemon";

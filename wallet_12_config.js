@@ -1,1 +1,1 @@
-var mnemonic = "sand uncover change dose hidden matter only track vast arrive impulse tip";
+var mnemonic = "sting lens recipe helmet morning sausage shine grocery slice source ostrich share";

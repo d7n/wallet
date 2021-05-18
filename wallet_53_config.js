@@ -1,1 +1,1 @@
-var mnemonic = "express rather eyebrow dawn there antique float please expect hard kiss wet";
+var mnemonic = "exit reform glove hero laptop pen dumb town social slender kite quit";

@@ -1,1 +1,1 @@
-var mnemonic = "soon jungle shed alpha run hill benefit type flower correct devote drink";
+var mnemonic = "alter primary salute chronic shuffle furnace valley strike album satisfy satisfy meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel nice giant cliff all thrive salmon police nose clog rule wrong";
+var mnemonic = "busy torch mountain country hamster security sight practice color thing awkward sister";

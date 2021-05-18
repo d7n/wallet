@@ -1,1 +1,1 @@
-var mnemonic = "enjoy hello age reduce balcony reflect swarm two mirror bulb mind color";
+var mnemonic = "calm amused frame broken topic round card track dove drum entire moon";

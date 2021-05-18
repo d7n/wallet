@@ -1,1 +1,1 @@
-var mnemonic = "wife sketch erode dice dial improve rural slogan thunder tunnel long canyon";
+var mnemonic = "pizza toe calm relax cover rigid slam tomorrow rebuild defy domain domain";

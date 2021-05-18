@@ -1,1 +1,1 @@
-var mnemonic = "relax inherit urban shock spring park vessel fatal focus illegal arch remember";
+var mnemonic = "case bronze lunar oil culture six peace fog hurry autumn pact table";

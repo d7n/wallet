@@ -1,1 +1,1 @@
-var mnemonic = "cash joke absent lesson side impulse owner juice tornado riot leaf early";
+var mnemonic = "enable satisfy audit female funny ostrich grief magnet resemble youth stuff drastic";

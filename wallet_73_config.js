@@ -1,1 +1,1 @@
-var mnemonic = "rail approve donate amazing attract witness steel junior ski lyrics worry exile";
+var mnemonic = "half crucial shadow member matrix visit bless sponsor friend snake hockey parade";

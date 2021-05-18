@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow duty young supply sense educate own cave oval few push evolve";
+var mnemonic = "example clutch canvas ketchup sand often bind claim phrase glance virtual blast";

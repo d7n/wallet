@@ -1,1 +1,1 @@
-var mnemonic = "frown tag ski height disease quarter garbage lady spread powder chief father";
+var mnemonic = "adapt mix harvest now skate army tower lady monkey meat cement kitchen";

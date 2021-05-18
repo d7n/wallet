@@ -1,1 +1,1 @@
-var mnemonic = "music fit tip north pledge dog roof cream unique flock timber topic";
+var mnemonic = "tone ramp net curious erode dinner panda rice endorse top kidney oxygen";

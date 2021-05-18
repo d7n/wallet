@@ -1,1 +1,1 @@
-var mnemonic = "flash orange glide topic friend cat farm gift jelly blind favorite demand";
+var mnemonic = "feed pigeon time cash modify action erode fashion spice hospital wing cool";

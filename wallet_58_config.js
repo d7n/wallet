@@ -1,1 +1,1 @@
-var mnemonic = "patch sauce inner will pear parrot field load horse coconut cliff around";
+var mnemonic = "north edge used admit post dice toss air law caught unfair clinic";

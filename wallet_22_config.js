@@ -1,1 +1,1 @@
-var mnemonic = "wonder sword trap silver lucky alone phone gaze castle repair cactus practice";
+var mnemonic = "direct charge outside service cream cute tuition isolate bring evolve beauty define";

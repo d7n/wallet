@@ -1,1 +1,1 @@
-var mnemonic = "smart forget romance tortoise measure dose alert half eager giraffe dry body";
+var mnemonic = "air unique ocean fringe gravity junior combine neutral drift finish foam provide";

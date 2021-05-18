@@ -1,1 +1,1 @@
-var mnemonic = "search main pause crew enjoy flag follow fox civil tiny horn again";
+var mnemonic = "sibling pilot annual peace prevent drastic bonus flag indoor talk photo badge";

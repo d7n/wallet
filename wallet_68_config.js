@@ -1,1 +1,1 @@
-var mnemonic = "network when antique silk finger recipe primary next artist social pass filter";
+var mnemonic = "plastic diesel rhythm include believe network robust music camera right addict devote";

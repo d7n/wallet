@@ -1,1 +1,1 @@
-var mnemonic = "reunion twin bridge welcome wish delay another rough employ wealth patient magnet";
+var mnemonic = "endorse steak manual nation couch salad torch total quiz turkey bunker evil";

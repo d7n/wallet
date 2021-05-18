@@ -1,1 +1,1 @@
-var mnemonic = "drip hood census system bitter ring trial soda lawsuit legend pelican clap";
+var mnemonic = "purchase caution explain assist lock adapt rival delay better toddler loop estate";

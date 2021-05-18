@@ -1,1 +1,1 @@
-var mnemonic = "rapid emerge remember merit coffee month program pond disagree social favorite vessel";
+var mnemonic = "matter rebuild duty radio hundred crouch detail symbol popular hat globe lock";

@@ -1,1 +1,1 @@
-var mnemonic = "drill area satoshi game original mixed before process share miss rabbit physical";
+var mnemonic = "pulp humble project ramp inspire half unveil guilt ice mass vital blade";

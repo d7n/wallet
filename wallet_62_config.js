@@ -1,1 +1,1 @@
-var mnemonic = "spray weasel reflect audit thank glare wrap bounce decide rate army pull";
+var mnemonic = "garage host thank ill cloth shallow farm volume combine dream pigeon husband";

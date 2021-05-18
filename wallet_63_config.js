@@ -1,1 +1,1 @@
-var mnemonic = "tiger radio panther script asset sorry replace congress butter common cradle illness";
+var mnemonic = "begin raccoon effort teach sadness kick jelly join since gold that coin";

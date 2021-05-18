@@ -1,1 +1,1 @@
-var mnemonic = "educate element casino visit mandate level innocent say soccer grass trigger artefact";
+var mnemonic = "exact dad whale trust artist humor gospel digital frame popular fan sentence";

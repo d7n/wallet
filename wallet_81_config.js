@@ -1,1 +1,1 @@
-var mnemonic = "fun paper dolphin tattoo torch violin coach phrase canoe spike bag future";
+var mnemonic = "apology clever keep deputy zebra stick girl kite refuse turtle ticket tumble";

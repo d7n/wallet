@@ -1,1 +1,1 @@
-var mnemonic = "theme define brown diesel biology foot tornado hazard reduce casual model opinion";
+var mnemonic = "vague lab valve egg cricket lava sustain emerge involve danger twelve estate";

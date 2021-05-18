@@ -1,1 +1,1 @@
-var mnemonic = "other winter rocket view brick dish unknown glimpse trial toast wall achieve";
+var mnemonic = "isolate number tragic force guilt patch oil garlic friend point visit small";

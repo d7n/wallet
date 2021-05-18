@@ -1,1 +1,1 @@
-var mnemonic = "switch lucky crime stereo stay child celery task human rose trouble nothing";
+var mnemonic = "call father tonight finish follow another heart then loyal trust lawn stadium";

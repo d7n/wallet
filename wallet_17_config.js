@@ -1,1 +1,1 @@
-var mnemonic = "pepper buffalo tonight hole build inch render pepper style eye pitch try";
+var mnemonic = "work dress moment pulse range crater robot remain remove now trash reflect";

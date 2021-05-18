@@ -1,1 +1,1 @@
-var mnemonic = "connect guess casino must bird renew hint fix tomorrow venue hen reject";
+var mnemonic = "banana report regret punch risk music walk keen frozen lemon host work";
