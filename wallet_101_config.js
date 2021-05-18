@@ -1,1 +1,1 @@
-var mnemonic = "monster patrol pear dune crane tonight lounge tool cry device share click";
+var mnemonic = "stairs remove jelly point original motor tumble vivid design clinic float develop";

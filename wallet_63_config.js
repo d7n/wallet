@@ -1,1 +1,1 @@
-var mnemonic = "guard work coconut asthma labor update zero idea tattoo like will protect";
+var mnemonic = "capable snap dinner viable faith talent strong fluid nest legend guide denial";

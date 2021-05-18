@@ -1,1 +1,1 @@
-var mnemonic = "tone sausage song crouch fire before pull hire volume profit wine pear";
+var mnemonic = "hub toss envelope pole bacon second erode clay fragile hospital plate grant";

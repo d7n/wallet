@@ -1,1 +1,1 @@
-var mnemonic = "grass roof curious apart say wing start someone outer donkey benefit hard";
+var mnemonic = "cluster nation piece spoil velvet toddler gas screen acid situate hybrid nominee";

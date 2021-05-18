@@ -1,1 +1,1 @@
-var mnemonic = "door party choice today carry message noodle play whisper glory rabbit bar";
+var mnemonic = "frog unlock cupboard wine crunch glove meat diamond reform true since purse";

@@ -1,1 +1,1 @@
-var mnemonic = "eager shed pelican forest radio milk pony arrow cinnamon cruise dinner forward";
+var mnemonic = "struggle parent tuna accuse mask peasant guess material bomb check situate clump";

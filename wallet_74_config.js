@@ -1,1 +1,1 @@
-var mnemonic = "flat genius rent waste buzz purpose shuffle comic husband select slogan warm";
+var mnemonic = "taste ensure initial language domain balcony pizza stay roast name common sibling";

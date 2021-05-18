@@ -1,1 +1,1 @@
-var mnemonic = "guide version floor license average pair drama dress gaze item rib grain";
+var mnemonic = "danger magic toy cruise endless mention skull short equip evoke city crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "grab pudding garlic tissue picnic indoor desert inner link icon finger beach";
+var mnemonic = "agent sock street search title giant test public pistol brain arrange pond";

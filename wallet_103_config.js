@@ -1,1 +1,1 @@
-var mnemonic = "found drift crush input cabbage super satisfy fork health scatter review toddler";
+var mnemonic = "female about critic unable undo midnight arena boy fall army path advance";

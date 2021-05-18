@@ -1,1 +1,1 @@
-var mnemonic = "wing left cluster moon uncle tired surround crater people believe damage body";
+var mnemonic = "iron tragic soldier wolf whip elbow spider dynamic casino cereal frown scatter";

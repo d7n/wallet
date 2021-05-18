@@ -1,1 +1,1 @@
-var mnemonic = "explain barely shy thank resist expect word page rocket this rotate stool";
+var mnemonic = "gift bubble charge method dress magnet skin indicate ghost dirt fury miracle";

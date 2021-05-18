@@ -1,1 +1,1 @@
-var mnemonic = "dinner cliff tuna outer enact wheel ship excuse banana civil flavor nurse";
+var mnemonic = "kit guitar strong table cigar kidney coyote fossil sibling destroy pen crystal";

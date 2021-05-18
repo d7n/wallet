@@ -1,1 +1,1 @@
-var mnemonic = "wet reform steel crawl flavor deposit pull point during river truly common";
+var mnemonic = "march skin cycle vicious program country team six annual peace coast sad";

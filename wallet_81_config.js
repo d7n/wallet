@@ -1,1 +1,1 @@
-var mnemonic = "train globe donate awesome wheat move perfect taxi pair warm task whisper";
+var mnemonic = "custom visit bless increase enough crouch type episode relief ride wise helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "charge charge ladder surface outside strong stool vast involve topple genius clarify";
+var mnemonic = "pen talk bachelor valve cute close obscure kidney like dutch orphan cupboard";

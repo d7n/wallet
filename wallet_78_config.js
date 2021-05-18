@@ -1,1 +1,1 @@
-var mnemonic = "notice pair test awesome team soda relax oxygen fish dizzy hello visit";
+var mnemonic = "rally truth cancel hip salon level assume galaxy humor boost impulse secret";

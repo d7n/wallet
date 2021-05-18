@@ -1,1 +1,1 @@
-var mnemonic = "merry change team glad tackle banner caught enough museum dose grab aunt";
+var mnemonic = "method winter home length snack green crack resist business thank desk various";

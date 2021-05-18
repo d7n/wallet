@@ -1,1 +1,1 @@
-var mnemonic = "grit vocal huge screen trophy unable parent bright open sample exotic appear";
+var mnemonic = "drip debate donate thought eyebrow fury truth burden fuel famous chef matter";

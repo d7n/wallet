@@ -1,1 +1,1 @@
-var mnemonic = "tuition library surface ten copy good maple autumn cake faint series phrase";
+var mnemonic = "soap license decrease isolate nominee kingdom shift sister clip holiday banana trigger";

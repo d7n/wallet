@@ -1,1 +1,1 @@
-var mnemonic = "web fury burden call segment nation cream inside glimpse define boring aware";
+var mnemonic = "trigger genius van critic video deer leader future review bamboo cruel friend";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum mango minimum outer train man stuff puppy demise effort trumpet husband";
+var mnemonic = "bomb chalk frost electric security hospital ball penalty copy glass shuffle bench";

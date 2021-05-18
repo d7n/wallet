@@ -1,1 +1,1 @@
-var mnemonic = "light best grid present call high analyst oval anger remind pottery fan";
+var mnemonic = "cabbage toddler client firm wrist music episode treat tumble indoor method addict";

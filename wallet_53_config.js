@@ -1,1 +1,1 @@
-var mnemonic = "strong senior acoustic warfare earth trust impose bicycle few unit couple damp";
+var mnemonic = "dragon echo ten grunt soap bean act sweet endorse green ride find";

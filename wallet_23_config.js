@@ -1,1 +1,1 @@
-var mnemonic = "beauty soul old basic fossil force tilt explain donate expire power scorpion";
+var mnemonic = "various fruit evidence various rain arrive thumb avoid afford inspire stable area";

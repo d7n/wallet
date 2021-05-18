@@ -1,1 +1,1 @@
-var mnemonic = "ripple express right chunk nasty original now all pizza thank park twenty";
+var mnemonic = "genre grab siege mind twin material sand lizard custom fat length obey";

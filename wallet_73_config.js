@@ -1,1 +1,1 @@
-var mnemonic = "city twist top tattoo truck fun fantasy kitchen grocery remind attitude clean";
+var mnemonic = "finish device scrub act stomach panel super wet catch keep general upgrade";

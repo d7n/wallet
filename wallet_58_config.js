@@ -1,1 +1,1 @@
-var mnemonic = "toss city drama zero brain code budget assist armor eye resource odor";
+var mnemonic = "sting embark carpet knee bachelor trash home extend casino hover uncle damp";

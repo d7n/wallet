@@ -1,1 +1,1 @@
-var mnemonic = "onion fold legend canal oil motor legal celery amused surprise must adult";
+var mnemonic = "suspect pluck pilot ranch save bachelor conduct account card minor quarter boring";

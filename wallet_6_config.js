@@ -1,1 +1,1 @@
-var mnemonic = "focus fury flash car symbol truly can critic myth hamster behave purse";
+var mnemonic = "arena dizzy bamboo switch soda scale town donor silent betray nation swing";

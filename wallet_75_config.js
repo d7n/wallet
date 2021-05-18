@@ -1,1 +1,1 @@
-var mnemonic = "marriage laptop car maximum priority island robot orchard winner dry squirrel charge";
+var mnemonic = "switch gentle vanish mask second barely matrix jeans receive hybrid lawsuit print";

@@ -1,1 +1,1 @@
-var mnemonic = "baby buyer appear short unique excite unlock denial ridge about globe stock";
+var mnemonic = "daring angry fox damage toddler wise mean shoulder elder outdoor leisure spy";

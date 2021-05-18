@@ -1,1 +1,1 @@
-var mnemonic = "describe goose text public parade other wreck want crystal spirit day random";
+var mnemonic = "shove please faith coffee addict limb two camera pioneer discover inherit order";

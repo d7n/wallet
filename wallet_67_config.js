@@ -1,1 +1,1 @@
-var mnemonic = "write error imitate merry angle embark soap canyon pave patient cruise fluid";
+var mnemonic = "clown mixture orient music loop guide pet excite size panic drift expire";

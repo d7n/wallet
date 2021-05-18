@@ -1,1 +1,1 @@
-var mnemonic = "team effort crumble like width monster wrestle inhale scout turtle bullet kitchen";
+var mnemonic = "affair purpose pear trip shield jar bus else repeat crisp lend library";

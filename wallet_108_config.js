@@ -1,1 +1,1 @@
-var mnemonic = "simple trip balance juice ripple live loop art priority sadness display zoo";
+var mnemonic = "elder face tank party surround thought game warrior awful noise feature oblige";

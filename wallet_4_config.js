@@ -1,1 +1,1 @@
-var mnemonic = "quiz very episode organ garbage arctic mean toss deputy east own correct";
+var mnemonic = "village rookie must boost real hen across sphere reward monitor sphere outside";

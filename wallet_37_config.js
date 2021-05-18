@@ -1,1 +1,1 @@
-var mnemonic = "heavy jump orbit tiny poem human acoustic actual element bracket enlist obtain";
+var mnemonic = "jar cheese treat relax affair apart calm excuse grit resource glance borrow";

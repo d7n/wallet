@@ -1,1 +1,1 @@
-var mnemonic = "crop scene program cram purchase ready famous spirit friend misery staff exist";
+var mnemonic = "achieve ski trophy domain screen peace identify adult flag flag cash educate";

@@ -1,1 +1,1 @@
-var mnemonic = "ride alarm castle beach device spare crew raccoon fatal advice truly change";
+var mnemonic = "canal bring tennis picnic unusual explain leader enable scare glove cable crouch";

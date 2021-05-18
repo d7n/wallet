@@ -1,1 +1,1 @@
-var mnemonic = "secret beyond drill alert rabbit setup total feed clap animal cereal creek";
+var mnemonic = "viable surge pig name boil piece obtain honey taxi method brick similar";

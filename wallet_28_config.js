@@ -1,1 +1,1 @@
-var mnemonic = "coral exhibit sentence boy have protect bronze nest hire frequent drift sunset";
+var mnemonic = "endless brisk topple syrup vendor globe dragon curtain silent primary dream carry";

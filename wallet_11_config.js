@@ -1,1 +1,1 @@
-var mnemonic = "palm south liar forum noble expect cousin bid concert current donor common";
+var mnemonic = "notable proof boost custom tobacco cricket agree wood grass cricket pony object";

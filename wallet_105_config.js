@@ -1,1 +1,1 @@
-var mnemonic = "wheat all leave margin resource rain apple cause hat pluck print blind";
+var mnemonic = "among shield wrestle trap husband goose layer flush poem anchor gauge exhaust";

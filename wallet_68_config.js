@@ -1,1 +1,1 @@
-var mnemonic = "electric uncle huge airport exile utility arch genre iron weather section flock";
+var mnemonic = "spread reason need finish salmon orient stuff violin picnic film mercy begin";

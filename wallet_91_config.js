@@ -1,1 +1,1 @@
-var mnemonic = "upper medal law sport sight medal liar rival swap latin ankle good";
+var mnemonic = "basket educate cover cloth sense aisle wheat kind absorb visa time park";

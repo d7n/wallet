@@ -1,1 +1,1 @@
-var mnemonic = "pulp gravity matrix unable notice timber seminar salad ugly tank aunt phrase";
+var mnemonic = "strong garden pattern lounge street duty escape bargain venue hurry unlock wine";

@@ -1,1 +1,1 @@
-var mnemonic = "poet tube lyrics rapid elevator mean write obtain material prison just rhythm";
+var mnemonic = "display connect cabbage venue name marriage goose train rifle wild sample annual";

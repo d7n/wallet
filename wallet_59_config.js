@@ -1,1 +1,1 @@
-var mnemonic = "affair horror process group point avocado prosper thumb coin glance business laugh";
+var mnemonic = "spy control melt concert provide cement negative foil hole brother toy logic";

@@ -1,1 +1,1 @@
-var mnemonic = "work rookie baby horn churn clutch casino reveal rack thumb mushroom wheat";
+var mnemonic = "choice crop swallow begin spring husband view crime drink column gossip culture";

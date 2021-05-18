@@ -1,1 +1,1 @@
-var mnemonic = "later way eight stage jump code bird tonight large garment target suit";
+var mnemonic = "inject cage cost decline doll movie purse pupil prevent expose situate quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk thought inflict leave garden fame cousin maximum begin ladder crop diet";
+var mnemonic = "jacket gloom aerobic find lion emotion conduct differ total razor utility join";

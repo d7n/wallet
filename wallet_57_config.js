@@ -1,1 +1,1 @@
-var mnemonic = "royal frown faculty bridge usage chimney earn build topic roof park crop";
+var mnemonic = "other antenna latin hub height inside vivid purse sick cousin glimpse camp";

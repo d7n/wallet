@@ -1,1 +1,1 @@
-var mnemonic = "once junk pretty canyon error ride swear icon shoot same build gadget";
+var mnemonic = "runway stomach fiction embrace dentist remember galaxy cluster unaware rebuild apple brave";

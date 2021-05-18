@@ -1,1 +1,1 @@
-var mnemonic = "valid vapor shop arrive horn drink build special law offer height ivory";
+var mnemonic = "garlic illness aspect decline tennis craft maid proud level outdoor palace basket";

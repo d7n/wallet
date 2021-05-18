@@ -1,1 +1,1 @@
-var mnemonic = "vehicle race dizzy cry roof banana first exit bag sleep patch worth";
+var mnemonic = "uncover tattoo state butter shoulder celery usual floor wall panda learn address";

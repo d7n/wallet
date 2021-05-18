@@ -1,1 +1,1 @@
-var mnemonic = "february citizen ask sausage tourist plastic word pole cliff door piece transfer";
+var mnemonic = "wheel swarm pigeon sphere differ hidden banana debris become sand slam endless";

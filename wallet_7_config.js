@@ -1,1 +1,1 @@
-var mnemonic = "rookie auction own caution crawl teach invest all gain host beef dad";
+var mnemonic = "coast stuff dwarf mad essence miss audit axis oval smoke sign ethics";

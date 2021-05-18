@@ -1,1 +1,1 @@
-var mnemonic = "orchard genuine tower song prison position seven beyond audit desk script extend";
+var mnemonic = "aware example donkey silent leopard fiber flip improve unveil panel father announce";

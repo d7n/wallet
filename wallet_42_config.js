@@ -1,1 +1,1 @@
-var mnemonic = "glad leisure question hammer knock dynamic today inhale face rough good few";
+var mnemonic = "glove play huge ugly fancy debris valley earth snow ritual mean snack";

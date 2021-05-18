@@ -1,1 +1,1 @@
-var mnemonic = "spin copper term express couch sand hello burst rack travel useful cheap";
+var mnemonic = "result hotel hundred neither sign avocado luggage side public diamond crew hip";

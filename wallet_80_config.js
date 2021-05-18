@@ -1,1 +1,1 @@
-var mnemonic = "frost vital above winter blanket saddle practice monster siege knock forget snake";
+var mnemonic = "industry barely risk resist genius casino amount involve morning measure drink alter";

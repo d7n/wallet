@@ -1,1 +1,1 @@
-var mnemonic = "frequent below hint orient crime office polar outside opinion arrow miracle pyramid";
+var mnemonic = "argue any liquid critic unable hamster act valve mail stock rice nerve";

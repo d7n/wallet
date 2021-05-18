@@ -1,1 +1,1 @@
-var mnemonic = "chimney school defy dwarf airport taste exchange purse scare swing hill alone";
+var mnemonic = "club crop shy custom choose cheap orient parent plug case balance brisk";

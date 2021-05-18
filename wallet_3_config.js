@@ -1,1 +1,1 @@
-var mnemonic = "faint nest leader guide access student raw breeze pulse stadium enemy control";
+var mnemonic = "move intact topple wood liquid lens hero tree comfort basic approve salad";

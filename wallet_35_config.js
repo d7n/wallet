@@ -1,1 +1,1 @@
-var mnemonic = "viable cancel catalog flower jazz hole rose tribe display fox nest need";
+var mnemonic = "huge pledge stay ridge peace original rebel orbit monster segment evil include";

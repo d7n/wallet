@@ -1,1 +1,1 @@
-var mnemonic = "rotate pretty front youth betray apart situate diary forum mixture supreme wild";
+var mnemonic = "minute play exercise settle town ring general minute soup journey grass state";

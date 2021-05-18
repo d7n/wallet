@@ -1,1 +1,1 @@
-var mnemonic = "cycle federal top release banana issue adapt nest special false venture notable";
+var mnemonic = "innocent coin aerobic cost injury fabric bike audit garbage donkey car sorry";

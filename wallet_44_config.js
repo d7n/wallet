@@ -1,1 +1,1 @@
-var mnemonic = "slot grid size torch sustain shrug will tree inquiry trophy fence cluster";
+var mnemonic = "eye approve sunny fall give boy such fresh wisdom soul bus coral";

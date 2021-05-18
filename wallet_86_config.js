@@ -1,1 +1,1 @@
-var mnemonic = "impact sauce toe lion wonder badge hero rude exact novel galaxy employ";
+var mnemonic = "fork local okay pattern avocado monitor universe prize update spike describe promote";

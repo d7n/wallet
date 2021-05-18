@@ -1,1 +1,1 @@
-var mnemonic = "panther cheese expect chase pyramid lunch decorate truck enforce goose blind salmon";
+var mnemonic = "manual huge design dragon shoot wash skill switch message toss super say";

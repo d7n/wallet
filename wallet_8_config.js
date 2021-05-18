@@ -1,1 +1,1 @@
-var mnemonic = "canyon original rebel loud regret absorb margin slice little garbage gift eyebrow";
+var mnemonic = "diesel art little much strong renew task zoo left will merge sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "fury correct welcome fly abstract juice flash bulk dove tourist color quarter";
+var mnemonic = "symbol rib print tongue off post harsh diamond opera vote sad expand";

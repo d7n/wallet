@@ -1,1 +1,1 @@
-var mnemonic = "elbow early violin farm idle three skull sting father artefact fashion side";
+var mnemonic = "noble ensure into myth city credit fall arrow lonely skin frost acquire";

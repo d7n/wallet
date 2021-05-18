@@ -1,1 +1,1 @@
-var mnemonic = "will kingdom walk movie afraid scrap design puppy tongue scheme bike duty";
+var mnemonic = "field fire romance bundle offer grunt upset horn capital hero soft adapt";

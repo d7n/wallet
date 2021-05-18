@@ -1,1 +1,1 @@
-var mnemonic = "rule leisure grant omit weird core sphere spin exchange claim inspire flavor";
+var mnemonic = "coffee parade banana mesh liquid foil void general travel physical tongue local";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap explain vacuum echo mouse father glide pioneer tenant unique buddy upgrade";
+var mnemonic = "car leader zoo debate sugar area gas always decide foam crowd slim";

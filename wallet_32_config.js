@@ -1,1 +1,1 @@
-var mnemonic = "soap pattern grunt seek change monkey bag blouse turn away middle wolf";
+var mnemonic = "axis okay lamp city cherry ship fetch female treat attract rely noise";

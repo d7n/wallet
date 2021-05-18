@@ -1,1 +1,1 @@
-var mnemonic = "right ordinary moral real day swarm off next best venue logic cupboard";
+var mnemonic = "purpose patient isolate gallery index letter boy copper apple shell polar place";

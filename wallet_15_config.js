@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ancient joy olive suspect clown december runway accuse flavor tribe fetch";
+var mnemonic = "clean wisdom culture truth mother kit still envelope crowd fold bar robot";

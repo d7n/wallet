@@ -1,1 +1,1 @@
-var mnemonic = "fence chapter cargo word private subway company winner pledge sign soft belt";
+var mnemonic = "treat heart oval depth enforce seven harvest cruel orchard skate advice peasant";

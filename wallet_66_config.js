@@ -1,1 +1,1 @@
-var mnemonic = "save curve pair current oak fancy try humor bicycle pottery shop canyon";
+var mnemonic = "limit ripple deliver galaxy outer hamster century wall genuine hazard galaxy leader";

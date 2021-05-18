@@ -1,1 +1,1 @@
-var mnemonic = "name aspect sight post then wreck patient hedgehog measure symptom fox history";
+var mnemonic = "siege mixed region peasant sting strong civil orient endorse next borrow permit";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma return equal talent arctic bulk night satisfy project attract paper fly";
+var mnemonic = "extend stable brand truly bright raccoon crack exhaust survey unit climb scale";

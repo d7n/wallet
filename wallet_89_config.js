@@ -1,1 +1,1 @@
-var mnemonic = "else ensure problem wolf burst plastic impulse cement train clean whip furnace";
+var mnemonic = "deer circle wait ship fringe jaguar shy inch place carry worth keen";

@@ -1,1 +1,1 @@
-var mnemonic = "submit injury combine panther unit fit casual update trend accident robot toast";
+var mnemonic = "inform remain govern body enough mad awesome between then utility venture render";

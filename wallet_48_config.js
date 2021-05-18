@@ -1,1 +1,1 @@
-var mnemonic = "bring slow thunder domain twin kite asthma camera bread truck wing urban";
+var mnemonic = "disagree merit ostrich old embrace hope syrup drill glory siege camera joy";

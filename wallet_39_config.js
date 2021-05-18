@@ -1,1 +1,1 @@
-var mnemonic = "marble adult code payment retreat orange barely walnut issue bonus wing stairs";
+var mnemonic = "melody toast category device come slot display soon jaguar rug decline earth";

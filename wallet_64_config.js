@@ -1,1 +1,1 @@
-var mnemonic = "credit beauty boy seed duck merry license area heavy mean best issue";
+var mnemonic = "exclude credit into dress february initial donor cement insect ahead guitar this";

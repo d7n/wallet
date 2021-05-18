@@ -1,1 +1,1 @@
-var mnemonic = "champion feed civil prison protect daring horror frog local depth debris place";
+var mnemonic = "chat jar maze flavor deal clip twin apart valley album various capable";

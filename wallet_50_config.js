@@ -1,1 +1,1 @@
-var mnemonic = "stick front route rare catalog stage mesh aspect cupboard rhythm elegant alter";
+var mnemonic = "diet bean kidney relief food benefit only gold release scorpion one upgrade";

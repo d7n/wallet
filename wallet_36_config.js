@@ -1,1 +1,1 @@
-var mnemonic = "trap mutual dust derive ski vault sun intact question dress stone fee";
+var mnemonic = "fiber silk clap term thrive mixed pudding perfect delay stereo prevent stone";

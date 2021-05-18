@@ -1,1 +1,1 @@
-var mnemonic = "cash credit ticket fiber exchange tree rule proof royal arctic rug ghost";
+var mnemonic = "usage script perfect three toward either shell easily random current puppy bus";

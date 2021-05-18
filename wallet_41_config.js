@@ -1,1 +1,1 @@
-var mnemonic = "throw enter curious country tree imitate royal virtual coral neutral believe idle";
+var mnemonic = "royal rely tide puppy depend earn club hover brush derive harsh this";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture negative unique parrot elbow paper tortoise enough scatter front tuition napkin";
+var mnemonic = "hybrid rail warfare wide alone extend top toss normal shuffle noise pretty";

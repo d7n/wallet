@@ -1,1 +1,1 @@
-var mnemonic = "practice gun spoil dolphin monkey solution olive another huge elegant rely accuse";
+var mnemonic = "lecture replace memory west offer capable foil sphere exile rice night explain";
