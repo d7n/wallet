@@ -1,1 +1,1 @@
-var mnemonic = "enact surge mixed chicken response learn shoulder round monkey aware siege arrange";
+var mnemonic = "rather south smile pear trick model rose sketch text useful fluid dice";

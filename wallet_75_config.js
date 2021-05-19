@@ -1,1 +1,1 @@
-var mnemonic = "surprise casual blood old explain express prevent soccer seek fine tag style";
+var mnemonic = "minor poem jeans warfare gain emotion moral whale general anchor cannon divert";

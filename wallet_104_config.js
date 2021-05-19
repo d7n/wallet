@@ -1,1 +1,1 @@
-var mnemonic = "chair whale chest remain sadness hedgehog grain logic kiwi reopen brisk dinner";
+var mnemonic = "year obtain narrow horn salute advice away vocal put cat try unaware";

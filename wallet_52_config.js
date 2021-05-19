@@ -1,1 +1,1 @@
-var mnemonic = "enact grow lesson surge marble bonus cloud slender avoid entry employ announce";
+var mnemonic = "celery box shallow shuffle tray earn rude spirit wheat produce strategy erode";

@@ -1,1 +1,1 @@
-var mnemonic = "foot month soon calm dress survey safe garlic connect screen iron two";
+var mnemonic = "version decrease cry crowd enough sketch beef match craft version december gas";

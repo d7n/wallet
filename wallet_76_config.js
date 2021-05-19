@@ -1,1 +1,1 @@
-var mnemonic = "mail asset hat paddle super diary private hair wool depart range match";
+var mnemonic = "crystal report come pledge banner clerk purity reform seat rain relief betray";

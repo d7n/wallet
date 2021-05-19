@@ -1,1 +1,1 @@
-var mnemonic = "mercy eyebrow force almost fame athlete kiwi brother try radar frog vote";
+var mnemonic = "stereo echo sentence soft describe year sample onion close scan above melt";

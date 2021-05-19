@@ -1,1 +1,1 @@
-var mnemonic = "fetch master earth balance print draft puzzle genuine vendor piece hollow melody";
+var mnemonic = "mom omit seminar blind vote physical among napkin plastic segment miracle patrol";

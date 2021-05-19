@@ -1,1 +1,1 @@
-var mnemonic = "stable race fuel monkey absorb valve goose column kingdom essay episode mango";
+var mnemonic = "jazz draft loop sadness journey couch tongue festival tape bicycle bounce stick";

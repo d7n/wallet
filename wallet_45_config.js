@@ -1,1 +1,1 @@
-var mnemonic = "icon news wheat federal coffee bachelor pool tomorrow reduce decrease object napkin";
+var mnemonic = "tape adult drive coin myth gas clutch pledge steak accuse fever iron";

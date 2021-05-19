@@ -1,1 +1,1 @@
-var mnemonic = "kitchen rookie review wide narrow vivid trick jelly fence indicate number tired";
+var mnemonic = "hamster chaos grid horse price intact obscure matter direct swallow breeze ball";

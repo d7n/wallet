@@ -1,1 +1,1 @@
-var mnemonic = "police capable luxury famous bright crumble crop begin current that allow artefact";
+var mnemonic = "sort salmon bunker gather cancel agent universe tortoise fever smile abstract kitten";

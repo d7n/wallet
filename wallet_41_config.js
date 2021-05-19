@@ -1,1 +1,1 @@
-var mnemonic = "double print ability fox close museum segment elbow discover test entry scan";
+var mnemonic = "industry evolve click select naive kiwi client pluck umbrella rich heart twist";

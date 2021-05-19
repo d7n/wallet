@@ -1,1 +1,1 @@
-var mnemonic = "split path width arena wrist slot air fox win process antique across";
+var mnemonic = "busy bird tiger seek cattle element beyond decrease laptop farm frost kind";

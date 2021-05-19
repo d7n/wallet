@@ -1,1 +1,1 @@
-var mnemonic = "like injury echo main sick analyst fuel saddle divide giant truck round";
+var mnemonic = "snack save december second guess burden stomach foot walnut stomach maple card";

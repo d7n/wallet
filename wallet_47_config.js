@@ -1,1 +1,1 @@
-var mnemonic = "cactus coin bacon river type text decrease damp banana season quantum dutch";
+var mnemonic = "tiny gravity track merge soda frozen shield recall fitness bronze wave taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "alley pact lumber miracle where mom pioneer squirrel typical thank slight claw";
+var mnemonic = "win maximum game vague emerge position estate range lonely piano avocado candy";

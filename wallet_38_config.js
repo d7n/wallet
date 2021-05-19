@@ -1,1 +1,1 @@
-var mnemonic = "profit achieve enforce start donate board sound uncle tobacco fashion glue special";
+var mnemonic = "happy biology boring own smart claw worth perfect virus attend unveil tooth";

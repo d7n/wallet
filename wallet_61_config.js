@@ -1,1 +1,1 @@
-var mnemonic = "enter never mean still crane zero asthma orchard divorce aisle material capable";
+var mnemonic = "annual shed polar quote damp prevent velvet eyebrow bottom team vintage sound";

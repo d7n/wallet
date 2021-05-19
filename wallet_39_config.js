@@ -1,1 +1,1 @@
-var mnemonic = "race paper curious inherit crime argue grief hour crew object village before";
+var mnemonic = "carbon manage bring prevent bird unveil tell valley bulk twice despair swing";

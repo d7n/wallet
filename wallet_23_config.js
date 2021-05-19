@@ -1,1 +1,1 @@
-var mnemonic = "often project critic ramp tag favorite gown employ reward sun pull bus";
+var mnemonic = "balcony cereal finish digital cat chunk pizza island under grocery adapt gesture";

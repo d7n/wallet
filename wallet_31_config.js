@@ -1,1 +1,1 @@
-var mnemonic = "habit inhale desk safe labor buzz magic label spoon dove recipe human";
+var mnemonic = "ecology scene virus hungry spirit clump embody pink reunion wing wrap rug";

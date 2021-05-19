@@ -1,1 +1,1 @@
-var mnemonic = "keen scheme relax weasel jewel away neither major tiny jaguar tilt success";
+var mnemonic = "culture bracket art until clap wisdom wreck panther taste palm meadow account";

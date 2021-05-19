@@ -1,1 +1,1 @@
-var mnemonic = "post promote panel label narrow mule sword marble castle creek scene stable";
+var mnemonic = "option any cute broom proud carry bench list razor same library rescue";

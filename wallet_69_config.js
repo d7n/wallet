@@ -1,1 +1,1 @@
-var mnemonic = "congress nice they barely photo clay town camp junk ketchup edge onion";
+var mnemonic = "ask bonus autumn afford regret normal laundry luxury claim wise first marriage";

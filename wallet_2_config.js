@@ -1,1 +1,1 @@
-var mnemonic = "helmet cool bubble song narrow dolphin dust deal slide drop robot piano";
+var mnemonic = "wire auction pottery page tongue retreat puzzle wine shrimp brisk tail wheel";

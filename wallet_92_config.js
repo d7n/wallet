@@ -1,1 +1,1 @@
-var mnemonic = "senior trial print help basic aspect butter orange two sign auction dilemma";
+var mnemonic = "text battle mom chef borrow heart galaxy walk wave egg cat bless";

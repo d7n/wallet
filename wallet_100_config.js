@@ -1,1 +1,1 @@
-var mnemonic = "athlete limb cousin spatial sort isolate echo abandon patient comic found cargo";
+var mnemonic = "future laptop broccoli cash sister add club angle west salmon tip quick";

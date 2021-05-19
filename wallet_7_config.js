@@ -1,1 +1,1 @@
-var mnemonic = "trash sudden zone border garment version weird combine rain valve wet blade";
+var mnemonic = "brave include street resist electric dismiss half say glow umbrella trophy neutral";

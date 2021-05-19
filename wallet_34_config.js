@@ -1,1 +1,1 @@
-var mnemonic = "pen diesel response neglect rigid such disorder until elder document pattern report";
+var mnemonic = "trash fresh sphere lecture spy dad owner library upset treat slight lecture";

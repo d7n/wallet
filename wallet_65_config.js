@@ -1,1 +1,1 @@
-var mnemonic = "minor interest stumble cloud antenna bacon youth bright umbrella latin until hire";
+var mnemonic = "ginger taxi urban solve taste rely wage common transfer dutch weasel soup";

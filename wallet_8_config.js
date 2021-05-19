@@ -1,1 +1,1 @@
-var mnemonic = "gap luxury blame tag sense amateur tackle dizzy sand input rack cabbage";
+var mnemonic = "rich story car produce garage hire toilet total isolate cement aim donor";

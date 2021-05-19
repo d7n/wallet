@@ -1,1 +1,1 @@
-var mnemonic = "radar upset differ enact slow olympic turkey item west job domain huge";
+var mnemonic = "kitten carpet minimum breeze truth romance tongue fat session tell raven vital";

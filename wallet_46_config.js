@@ -1,1 +1,1 @@
-var mnemonic = "busy runway company funny weapon call doctor jacket toss census burst auction";
+var mnemonic = "frown pupil pride decorate token awesome ostrich brisk shallow weather scrub design";

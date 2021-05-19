@@ -1,1 +1,1 @@
-var mnemonic = "finish rude spirit sketch cry flight couple object glare love square wisdom";
+var mnemonic = "ceiling dish dad crash alley have trust nerve oppose garlic differ lift";

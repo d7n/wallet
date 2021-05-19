@@ -1,1 +1,1 @@
-var mnemonic = "three language hero rude walnut replace patient unable lounge cousin assume basket";
+var mnemonic = "door often weird siren wreck pluck genius action frequent hill entire rebuild";

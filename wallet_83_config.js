@@ -1,1 +1,1 @@
-var mnemonic = "search tape vague duck rubber lizard fame grocery parent weather enforce shrimp";
+var mnemonic = "expose innocent credit easily similar judge clump fever maid away silver stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "chase movie tape rigid exotic nominee shove home long you reward lunch";
+var mnemonic = "collect only embody fall lab pulse slogan patient visa symptom credit matter";

@@ -1,1 +1,1 @@
-var mnemonic = "pen endorse galaxy wish wood myth injury guess doctor accuse old opinion";
+var mnemonic = "seed forward tip panther emotion reunion industry outer mystery detect portion blood";

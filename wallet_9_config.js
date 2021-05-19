@@ -1,1 +1,1 @@
-var mnemonic = "wash trade gown cargo bag coyote tail agent pluck february extra notice";
+var mnemonic = "nurse auction record guess regular just come aspect oxygen wire fit neck";

@@ -1,1 +1,1 @@
-var mnemonic = "practice wheat history elevator jealous engage siege order inherit sing throw worry";
+var mnemonic = "lawsuit phrase place vast credit trust flag dentist gadget art velvet royal";

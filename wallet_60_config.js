@@ -1,1 +1,1 @@
-var mnemonic = "coral retire spirit ribbon cradle very turn thing bind state visa duck";
+var mnemonic = "expand vessel pizza consider arm polar weekend aspect spy bike odor popular";

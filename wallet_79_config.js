@@ -1,1 +1,1 @@
-var mnemonic = "visa legend boring thought whale replace museum diamond mystery wreck badge mail";
+var mnemonic = "fitness axis embody kit cover table kingdom muffin river share kidney wheel";

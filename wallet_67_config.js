@@ -1,1 +1,1 @@
-var mnemonic = "gossip rebuild invite wage wall angle bleak honey prevent twelve blanket shoot";
+var mnemonic = "print salon note pulp pass cupboard hungry title spy digital auction arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel noble ahead legend regular that surge dune bullet anxiety place trash";
+var mnemonic = "thrive canyon absent skull relax notice master movie point orphan buyer patrol";

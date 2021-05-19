@@ -1,1 +1,1 @@
-var mnemonic = "fiber kit until sweet shoulder child useless people demand father expand choose";
+var mnemonic = "bubble wall unknown tortoise ocean business when club taste lava shove song";

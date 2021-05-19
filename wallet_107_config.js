@@ -1,1 +1,1 @@
-var mnemonic = "stuff lock panda bamboo black shadow tone ensure print ripple chef fat";
+var mnemonic = "vocal correct mass rally mechanic blade bean patrol wait enact tail almost";

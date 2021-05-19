@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow increase private settle heart game oak habit abandon knock chest slam";
+var mnemonic = "valid morning soft slab swap check smart praise limb already fan poem";

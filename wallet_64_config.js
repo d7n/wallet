@@ -1,1 +1,1 @@
-var mnemonic = "humble joy select truth cereal person dad cluster sea rocket rocket mule";
+var mnemonic = "kiss seed parrot today margin jelly cousin noise loyal tomorrow youth raw";

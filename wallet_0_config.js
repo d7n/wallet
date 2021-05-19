@@ -1,1 +1,1 @@
-var mnemonic = "exit solution knee harbor hour acid tourist viable stadium carpet pole kite";
+var mnemonic = "cruise grab illness wing leisure bullet predict enact magic digital stick olympic";

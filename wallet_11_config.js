@@ -1,1 +1,1 @@
-var mnemonic = "crush sport habit ceiling guess village trick bench mule crater fatal garlic";
+var mnemonic = "club broken one dolphin forest ring neck around grit token sport account";

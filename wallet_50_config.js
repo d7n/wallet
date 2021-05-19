@@ -1,1 +1,1 @@
-var mnemonic = "torch pizza moon artwork cute exist effort copy frown allow innocent margin";
+var mnemonic = "axis any reject empower series pretty call ribbon excess volume chest voice";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug party habit future crowd flock where trend goddess annual casual tonight";
+var mnemonic = "asthma type public width saddle ordinary human token trophy smart vibrant hedgehog";

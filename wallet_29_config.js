@@ -1,1 +1,1 @@
-var mnemonic = "mystery distance doctor sphere genre trial cupboard practice beef prosper blood render";
+var mnemonic = "ghost outer bicycle evolve tragic amateur shock forum slam coil fence mammal";

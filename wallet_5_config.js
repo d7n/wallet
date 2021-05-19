@@ -1,1 +1,1 @@
-var mnemonic = "acid carpet erupt track animal silk traffic powder palm year arctic enter";
+var mnemonic = "evoke giant boy champion depend kingdom cheap attract woman stairs stove voice";

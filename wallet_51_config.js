@@ -1,1 +1,1 @@
-var mnemonic = "animal hurdle town duck notable blast bike dress attitude cover sleep seven";
+var mnemonic = "embark carbon code police bargain later depth chicken over foster firm wood";

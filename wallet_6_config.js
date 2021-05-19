@@ -1,1 +1,1 @@
-var mnemonic = "main guilt patrol quick announce potato fiction outside tiger plate spin taxi";
+var mnemonic = "near fever pilot stock render canoe churn author jungle laugh logic author";

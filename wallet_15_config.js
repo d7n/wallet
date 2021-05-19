@@ -1,1 +1,1 @@
-var mnemonic = "try runway unique install early cattle trim dentist frost unaware stairs drift";
+var mnemonic = "pizza mother bunker tattoo empty useless fox tissue inherit perfect smooth fall";

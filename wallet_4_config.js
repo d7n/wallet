@@ -1,1 +1,1 @@
-var mnemonic = "error phone bunker unable point neutral target auto hundred cotton amount ski";
+var mnemonic = "tuition virtual enemy paper gain expire disease capable luxury apple crystal pear";

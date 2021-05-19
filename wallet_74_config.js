@@ -1,1 +1,1 @@
-var mnemonic = "nature enable crumble pipe hope gown hero arm wage library struggle tool";
+var mnemonic = "alter clump script amount flat opera violin hunt scrap weasel sauce teach";

@@ -1,1 +1,1 @@
-var mnemonic = "seek hub fancy trust jeans couple place roast disagree artwork wrist chapter";
+var mnemonic = "sad occur card type state gap faint whale bulk vocal color junk";

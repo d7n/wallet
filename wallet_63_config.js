@@ -1,1 +1,1 @@
-var mnemonic = "magnet donor foam head wrong master when unhappy vanish fine meat library";
+var mnemonic = "path symbol autumn vehicle puzzle language apple video garden kind hub toss";

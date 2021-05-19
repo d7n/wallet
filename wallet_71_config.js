@@ -1,1 +1,1 @@
-var mnemonic = "stick lab rocket yard exit subject visa water forest awkward unique nose";
+var mnemonic = "tiger neither onion fuel guess layer swing measure mail sorry airport arrow";

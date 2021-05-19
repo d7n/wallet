@@ -1,1 +1,1 @@
-var mnemonic = "kid wire laptop total surprise useful purse glare pelican gossip sauce choice";
+var mnemonic = "earth write taste robust stamp print zoo clump two brother father spirit";

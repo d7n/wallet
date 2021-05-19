@@ -1,1 +1,1 @@
-var mnemonic = "office ghost series increase expect floor actor change slush people equal seek";
+var mnemonic = "sick come lamp private ladder pencil pear butter kitchen shift way zebra";

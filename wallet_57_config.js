@@ -1,1 +1,1 @@
-var mnemonic = "eagle mind dizzy glide world garage slide prosper capital wrong hospital ask";
+var mnemonic = "desert dish jewel auction mass iron era fade valve enhance code account";

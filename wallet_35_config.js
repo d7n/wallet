@@ -1,1 +1,1 @@
-var mnemonic = "voice hawk always prepare proof purpose animal egg twenty squeeze before arrest";
+var mnemonic = "oven rotate absurd history neither swallow refuse exit ensure lazy story duty";

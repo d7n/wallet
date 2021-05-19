@@ -1,1 +1,1 @@
-var mnemonic = "imitate sausage during okay arrive desk spatial gallery smile entry prize coil";
+var mnemonic = "portion area great emerge leaf hybrid robot regret dinner bring play reveal";

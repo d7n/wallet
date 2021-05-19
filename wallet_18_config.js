@@ -1,1 +1,1 @@
-var mnemonic = "cement gun valve turkey cabin sound pottery labor pole baby impulse mention";
+var mnemonic = "crew salon theory concert ill stuff unusual trigger thing lecture area library";

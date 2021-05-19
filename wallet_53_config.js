@@ -1,1 +1,1 @@
-var mnemonic = "anchor road access dumb dumb artist actor tobacco cover venture enrich stadium";
+var mnemonic = "prize vendor expect impact empower foot symbol own test mad lunch matrix";

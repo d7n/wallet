@@ -1,1 +1,1 @@
-var mnemonic = "water oil again rather blush horse region embark egg cake question erase";
+var mnemonic = "found crush special edit employ peasant acid start essay key bone truly";

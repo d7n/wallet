@@ -1,1 +1,1 @@
-var mnemonic = "duty coil brush urge method panel mule inner green tag liar pond";
+var mnemonic = "approve stuff erupt grace comic piano card warrior rough jump moon recall";

@@ -1,1 +1,1 @@
-var mnemonic = "assist river state know boy noble move nasty burger final pepper garage";
+var mnemonic = "avoid still crop ride walnut midnight now result burst chest omit frost";

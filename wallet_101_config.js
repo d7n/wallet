@@ -1,1 +1,1 @@
-var mnemonic = "lecture dignity cliff enforce lamp heavy family mention find reveal hard base";
+var mnemonic = "network dance pioneer income vacuum tent lottery enlist inject clump decrease fuel";

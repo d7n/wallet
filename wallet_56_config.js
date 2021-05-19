@@ -1,1 +1,1 @@
-var mnemonic = "forward hamster narrow coconut enter wash axis grass boost source hello fun";
+var mnemonic = "culture note almost orbit crumble present main badge eye abstract describe slot";

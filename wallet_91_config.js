@@ -1,1 +1,1 @@
-var mnemonic = "left noise nest spread salon action cloth safe digital nephew jump divert";
+var mnemonic = "trip already author laugh toddler region mouse boy pattern eagle shop involve";

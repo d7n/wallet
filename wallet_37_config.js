@@ -1,1 +1,1 @@
-var mnemonic = "estate opinion scatter around multiply aerobic when drastic wagon avoid latin picture";
+var mnemonic = "write execute napkin kind risk behind blossom weird same awful melt whip";

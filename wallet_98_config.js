@@ -1,1 +1,1 @@
-var mnemonic = "just pitch legend roast prize horn prevent couple clip approve okay valley";
+var mnemonic = "cram chair upper fruit like people sentence oppose neck fever impose fruit";

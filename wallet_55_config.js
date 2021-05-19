@@ -1,1 +1,1 @@
-var mnemonic = "mosquito swing earth crater material ritual account stadium capable virtual cup execute";
+var mnemonic = "inner honey void hotel apology glass slow rifle evidence hood radio lock";

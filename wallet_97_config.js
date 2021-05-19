@@ -1,1 +1,1 @@
-var mnemonic = "chair axis pause wasp shrimp label warrior circle immense mass update sun";
+var mnemonic = "shock category rich goat album payment scissors beyond congress wild smooth fragile";

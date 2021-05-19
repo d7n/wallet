@@ -1,1 +1,1 @@
-var mnemonic = "enforce purchase ankle tired pull replace key bronze curious final tray carpet";
+var mnemonic = "mango unique wild poverty meat future better switch disorder fame state mixed";

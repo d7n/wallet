@@ -1,1 +1,1 @@
-var mnemonic = "urban eyebrow inmate expose town orchard output expand mansion music vintage quit";
+var mnemonic = "way use tell chalk unlock word flash crunch smooth hurt only jewel";

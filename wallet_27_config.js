@@ -1,1 +1,1 @@
-var mnemonic = "struggle wolf group double stove document scrub biology vivid tag long length";
+var mnemonic = "flight satoshi damage furnace sorry notice creek dirt dismiss prepare defense sketch";

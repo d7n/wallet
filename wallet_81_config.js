@@ -1,1 +1,1 @@
-var mnemonic = "cruel stick life garbage begin mixture moment gossip wet favorite debate explain";
+var mnemonic = "addict where online wish squirrel clinic lend syrup key yard rice valley";

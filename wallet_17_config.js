@@ -1,1 +1,1 @@
-var mnemonic = "wrestle inform chalk ski fiber draw intact denial asset edit virus noise";
+var mnemonic = "order soccer tone february earn setup neglect turkey admit true aware air";

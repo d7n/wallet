@@ -1,1 +1,1 @@
-var mnemonic = "escape desert zebra crisp hope modify mind loud curtain coach drill mammal";
+var mnemonic = "dirt plate planet dinosaur save harsh hybrid clutch easy need possible satoshi";

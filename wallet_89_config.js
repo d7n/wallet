@@ -1,1 +1,1 @@
-var mnemonic = "fancy pigeon focus comfort eyebrow sustain tonight exhaust case race vast romance";
+var mnemonic = "tank city include lava valid engine tobacco orchard order hard endless denial";

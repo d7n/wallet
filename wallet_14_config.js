@@ -1,1 +1,1 @@
-var mnemonic = "force marine couch lift rhythm despair insane soccer dice corn avocado judge";
+var mnemonic = "ability about spawn royal barrel leader space salmon steak lunch kit obvious";

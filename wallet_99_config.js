@@ -1,1 +1,1 @@
-var mnemonic = "merge kingdom patrol memory cousin dynamic champion annual discover frozen record want";
+var mnemonic = "pelican blade flag wage master purchase torch evidence parent cup remove depend";

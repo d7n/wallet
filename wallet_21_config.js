@@ -1,1 +1,1 @@
-var mnemonic = "engage couch banner frown ramp suit visa drip raise pledge very spoil";
+var mnemonic = "young resist title prison mango clever other law payment jeans custom damage";

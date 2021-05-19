@@ -1,1 +1,1 @@
-var mnemonic = "better estate deer dash glimpse divert salute connect episode tape increase lunar";
+var mnemonic = "code congress twice setup dash pink carpet enrich radio luggage release nice";
