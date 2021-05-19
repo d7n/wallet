@@ -1,1 +1,1 @@
-var mnemonic = "impulse beef base frown myth shine elbow emotion usual tuna unable group";
+var mnemonic = "fury knock lounge shrug approve cable wire own program trigger blade hospital";

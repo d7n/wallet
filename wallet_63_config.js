@@ -1,1 +1,1 @@
-var mnemonic = "scare dynamic replace pass what venue develop liquid filter curve skill expose";
+var mnemonic = "peanut response car extra car assault edge sphere inflict tomato slide accident";

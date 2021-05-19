@@ -1,1 +1,1 @@
-var mnemonic = "run asset fluid real tube limit short response tooth aunt tomorrow radio";
+var mnemonic = "speak predict embrace tongue odor female pear shop idle jump guard damage";

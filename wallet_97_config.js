@@ -1,1 +1,1 @@
-var mnemonic = "deny cereal clutch holiday milk million arrive enter escape test envelope cactus";
+var mnemonic = "suffer age sword recycle wink craft hurt dizzy time snack base verb";

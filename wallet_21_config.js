@@ -1,1 +1,1 @@
-var mnemonic = "elite off lens priority again banana pupil laundry amount wild enough giggle";
+var mnemonic = "bread note maple fade charge spring live pond powder scrap onion enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy cycle absent credit split cover census become above extra popular margin";
+var mnemonic = "silk bargain car drink sick chef say vague protect ginger antenna wire";

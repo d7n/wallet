@@ -1,1 +1,1 @@
-var mnemonic = "defy average exchange clever mention sting annual parent subject chest impulse arrow";
+var mnemonic = "focus tail caution enhance suffer extend mammal whale kiwi sentence demand repair";

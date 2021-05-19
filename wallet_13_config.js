@@ -1,1 +1,1 @@
-var mnemonic = "allow worry kitten screen gain arena course olive asthma dismiss traffic census";
+var mnemonic = "much visual pretty industry casual seat make burger coast margin exhaust often";

@@ -1,1 +1,1 @@
-var mnemonic = "assault doctor situate zone tuition clay eyebrow crouch desk reason milk slogan";
+var mnemonic = "tumble hedgehog outside own jump achieve couple detail magnet guitar caught magic";

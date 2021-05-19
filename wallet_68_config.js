@@ -1,1 +1,1 @@
-var mnemonic = "short country basket quality silly cliff tiger spin tumble scissors seven salt";
+var mnemonic = "divert guess junk hospital inject since creek nice pig cute million group";

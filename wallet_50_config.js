@@ -1,1 +1,1 @@
-var mnemonic = "school bench excite fun swear pave torch thunder adjust aim rain pole";
+var mnemonic = "rate bulk index often desk omit sail empty frost clown lock churn";

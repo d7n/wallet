@@ -1,1 +1,1 @@
-var mnemonic = "door afford coral have daughter soap hurry trip game result right firm";
+var mnemonic = "mistake segment humor tag among wrong drift shock retire cushion chief bean";

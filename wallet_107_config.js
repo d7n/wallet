@@ -1,1 +1,1 @@
-var mnemonic = "punch mystery melt radar surprise donor coyote illegal episode this olympic face";
+var mnemonic = "lawsuit rigid clutch six giggle blade seat furnace chronic monitor vast mesh";

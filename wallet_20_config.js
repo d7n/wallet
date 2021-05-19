@@ -1,1 +1,1 @@
-var mnemonic = "kiwi guess rack disease grow about pass chief stairs pole range own";
+var mnemonic = "debris happy slide gorilla science lend blame author clean turtle skill slot";

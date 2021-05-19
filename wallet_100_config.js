@@ -1,1 +1,1 @@
-var mnemonic = "surge pulp final craft matter bid assist share machine valve vivid alien";
+var mnemonic = "churn save cost easily able area wheat luggage admit purchase amazing help";

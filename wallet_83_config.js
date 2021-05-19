@@ -1,1 +1,1 @@
-var mnemonic = "robust broken soda vanish female outer item bleak logic movie youth grit";
+var mnemonic = "mosquito figure spot monitor already yard knife turn obey project woman quality";

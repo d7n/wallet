@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur today begin kangaroo ticket lecture grass alien saddle property dilemma talent";
+var mnemonic = "aunt toddler tobacco argue company whisper horn render hard window retire brother";

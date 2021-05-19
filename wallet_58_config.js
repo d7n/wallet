@@ -1,1 +1,1 @@
-var mnemonic = "guess involve fall bonus gas brick grid involve leader damp that inform";
+var mnemonic = "budget young category age grape twist glue afraid rent scale panther motion";

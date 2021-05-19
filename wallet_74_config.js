@@ -1,1 +1,1 @@
-var mnemonic = "flush spare train betray olive keen cloth soccer replace metal alpha direct";
+var mnemonic = "phrase eight village language become casual slow book repair coyote elbow stairs";

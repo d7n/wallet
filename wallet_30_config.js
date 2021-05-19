@@ -1,1 +1,1 @@
-var mnemonic = "viable alley cancel skull anchor grocery eager power tank network drum vacant";
+var mnemonic = "either couple tackle custom slide mind immense hole metal neither trick picture";

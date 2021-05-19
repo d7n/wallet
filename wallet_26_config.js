@@ -1,1 +1,1 @@
-var mnemonic = "volume resist face castle robust scatter often top auto improve again demand";
+var mnemonic = "surround sibling zoo orbit tiger position soul intact invite excite senior device";

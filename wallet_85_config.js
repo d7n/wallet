@@ -1,1 +1,1 @@
-var mnemonic = "pool east melody detail wage noble casino merit attend already season multiply";
+var mnemonic = "amount ask chest high ozone output flock toe meat atom body aware";

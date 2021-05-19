@@ -1,1 +1,1 @@
-var mnemonic = "soccer alley opera before hen action similar company team bachelor unknown admit";
+var mnemonic = "autumn current run alarm cover search soon purchase behave father cushion horror";

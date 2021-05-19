@@ -1,1 +1,1 @@
-var mnemonic = "mushroom mass crunch ahead burden release hip debris region miss neither bundle";
+var mnemonic = "damage market video sweet divide there pottery slice arch already photo gesture";

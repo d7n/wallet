@@ -1,1 +1,1 @@
-var mnemonic = "become appear news token spring project virus bounce clay enact achieve top";
+var mnemonic = "sight repair cluster lady attack saddle multiply gorilla grit sense dress core";

@@ -1,1 +1,1 @@
-var mnemonic = "rude prison blame submit age buzz exile cinnamon service rally loan debris";
+var mnemonic = "sea anxiety claim aerobic art hero walnut nose cactus fluid cousin easy";

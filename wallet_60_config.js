@@ -1,1 +1,1 @@
-var mnemonic = "innocent daughter toy equal keen begin husband nut endorse arrest tribe arch";
+var mnemonic = "wrestle clarify cage scale duty height master enable educate census member grid";

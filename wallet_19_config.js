@@ -1,1 +1,1 @@
-var mnemonic = "rough remove can into lava mystery flower hint crime violin mountain chaos";
+var mnemonic = "vocal awkward glove garbage blue smart erupt canal staff pill mango double";

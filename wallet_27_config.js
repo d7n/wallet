@@ -1,1 +1,1 @@
-var mnemonic = "kid capital report nose daring abstract churn order tackle vibrant spawn rely";
+var mnemonic = "people output banner fossil clap room rack survey sail stay model labor";

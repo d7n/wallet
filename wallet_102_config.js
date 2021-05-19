@@ -1,1 +1,1 @@
-var mnemonic = "cherry cinnamon injury narrow rare attitude occur upper mutual link voice benefit";
+var mnemonic = "ticket roof allow fury stay cushion arrest culture build wrap hungry smooth";

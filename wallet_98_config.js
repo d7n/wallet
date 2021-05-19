@@ -1,1 +1,1 @@
-var mnemonic = "sad jungle fade stumble sponsor accuse thumb start future fossil among enough";
+var mnemonic = "sell undo boil trash again suit settle rival river glove broom kick";

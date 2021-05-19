@@ -1,1 +1,1 @@
-var mnemonic = "announce media rural budget either mirror stuff cram risk guess lady saddle";
+var mnemonic = "help ivory clown jealous worry lab replace genuine wedding toe give around";

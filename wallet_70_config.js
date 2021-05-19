@@ -1,1 +1,1 @@
-var mnemonic = "token vehicle basket laugh side siren zone lock plate essay tongue borrow";
+var mnemonic = "blossom item grant behave page praise swarm skirt because round action crumble";

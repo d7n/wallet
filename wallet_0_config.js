@@ -1,1 +1,1 @@
-var mnemonic = "brother umbrella they miracle enact episode denial omit alone zebra library defy";
+var mnemonic = "immune security diesel armor achieve foster draft laundry settle still possible phrase";

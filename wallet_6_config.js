@@ -1,1 +1,1 @@
-var mnemonic = "document thrive absent idea access drum chapter front meadow defy raven future";
+var mnemonic = "wet decline print observe render supply nothing find clean talent kangaroo stool";

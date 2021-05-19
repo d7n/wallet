@@ -1,1 +1,1 @@
-var mnemonic = "hammer once today enjoy slot patch hundred female valid brown subway tunnel";
+var mnemonic = "erupt kite van cook talk dune switch across load knee endorse false";

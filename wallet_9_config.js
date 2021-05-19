@@ -1,1 +1,1 @@
-var mnemonic = "pelican resemble grief humble enroll lottery eye panther baby belt exotic caught";
+var mnemonic = "soul wheel ski measure detail common entry entry pass manage meat above";

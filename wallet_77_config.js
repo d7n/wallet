@@ -1,1 +1,1 @@
-var mnemonic = "churn explain spoil sniff document moral enforce stick wedding style cluster area";
+var mnemonic = "viable cupboard grass tuition winner timber clip improve shed buzz charge poverty";

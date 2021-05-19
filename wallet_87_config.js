@@ -1,1 +1,1 @@
-var mnemonic = "electric camera wealth organ swamp voyage orbit favorite chase cattle cry process";
+var mnemonic = "sausage unhappy cat scare treat jacket angry abstract knee pony hard echo";

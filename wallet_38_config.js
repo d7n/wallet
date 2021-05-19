@@ -1,1 +1,1 @@
-var mnemonic = "gadget jelly cash certain noise vivid someone visit chunk pudding actor uniform";
+var mnemonic = "torch inherit celery clinic lounge office success lazy risk report bid firm";

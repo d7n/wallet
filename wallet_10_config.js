@@ -1,1 +1,1 @@
-var mnemonic = "impact release current lady cabin rookie eye cigar subject liar average swim";
+var mnemonic = "thought vacant mechanic tongue shoe route soap salute inspire retire eagle cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "curious title laptop height asthma match injury junior husband reduce athlete require";
+var mnemonic = "also chase process artwork finger pupil cannon open slot fiscal chief develop";

@@ -1,1 +1,1 @@
-var mnemonic = "sight belt clutch hold home accuse time blood ugly river grid blur";
+var mnemonic = "latin work volcano fan miss voice fresh coffee rebel angry know wise";

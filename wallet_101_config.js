@@ -1,1 +1,1 @@
-var mnemonic = "master siren boost slight claw flock artefact team grow tourist slim sea";
+var mnemonic = "job prevent mind stuff purchase weekend gesture fury wool sentence parrot loop";

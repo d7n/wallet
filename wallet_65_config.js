@@ -1,1 +1,1 @@
-var mnemonic = "argue piece olympic share gesture yard hurry method dismiss fruit other whale";
+var mnemonic = "cart hurry spare long bleak someone patrol blood home stomach zero lizard";

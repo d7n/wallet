@@ -1,1 +1,1 @@
-var mnemonic = "humble earth coyote view wait typical cart mean best outside grief alert";
+var mnemonic = "live mango action maze flock mail alter turkey property point search swear";

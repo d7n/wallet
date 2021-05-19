@@ -1,1 +1,1 @@
-var mnemonic = "note wedding rely window hollow student print rich control seven magnet sweet";
+var mnemonic = "elephant mass thank adult curious text next sun fall firm update peace";

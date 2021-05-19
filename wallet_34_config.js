@@ -1,1 +1,1 @@
-var mnemonic = "select push trend fly area prevent horror little deposit scare word post";
+var mnemonic = "honey ritual smoke crack stomach apple welcome enhance fuel scissors address column";

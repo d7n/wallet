@@ -1,1 +1,1 @@
-var mnemonic = "energy album hint anger square baby option coach crouch deny cat reduce";
+var mnemonic = "main element wreck luxury void holiday perfect floor gesture then love flock";

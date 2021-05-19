@@ -1,1 +1,1 @@
-var mnemonic = "oven furnace cycle cat parrot whisper detail promote thunder aunt act act";
+var mnemonic = "suspect baby fever play rebuild layer thumb vocal vivid practice edge glide";

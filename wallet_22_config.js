@@ -1,1 +1,1 @@
-var mnemonic = "steel pilot office buzz music cave hint erase dream like light filter";
+var mnemonic = "check dress roof onion write decide donor august echo ready cat mouse";

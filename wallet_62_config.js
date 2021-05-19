@@ -1,1 +1,1 @@
-var mnemonic = "athlete idle half hidden like cost illness hard bonus relief subject only";
+var mnemonic = "hundred into icon success gossip bulb rack lucky slender large feed cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "defy heart doctor lunar organ elite whip crunch energy run switch curtain";
+var mnemonic = "soldier verb item loop inherit caught element brown vacuum fade clown behave";

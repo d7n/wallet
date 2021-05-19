@@ -1,1 +1,1 @@
-var mnemonic = "dream reduce diamond render smile mad bargain sketch gospel present fine toilet";
+var mnemonic = "vote also mobile kind behind diagram equal avocado rifle whisper fetch case";

@@ -1,1 +1,1 @@
-var mnemonic = "egg call behave more vital search quantum list stereo either online van";
+var mnemonic = "aspect use damp process assault ranch oyster song lecture push camera frost";

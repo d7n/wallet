@@ -1,1 +1,1 @@
-var mnemonic = "gate report laptop master manage version twist domain slide clump trim silly";
+var mnemonic = "radio curve undo brief knock series dream avoid board nerve fence able";

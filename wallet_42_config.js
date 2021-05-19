@@ -1,1 +1,1 @@
-var mnemonic = "ethics away lemon case rich spring token defy prize cliff toward someone";
+var mnemonic = "board room will engage depth hotel sand fence chat cement auction endorse";

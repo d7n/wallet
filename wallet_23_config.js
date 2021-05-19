@@ -1,1 +1,1 @@
-var mnemonic = "share scheme tag tourist globe since solid scheme between unknown true hawk";
+var mnemonic = "video custom neither blind access garlic piano kitchen hour surprise firm wrong";

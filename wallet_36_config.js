@@ -1,1 +1,1 @@
-var mnemonic = "segment domain sketch mushroom material accuse damage buyer share pony next question";
+var mnemonic = "memory volume toast build random fringe barrel twelve furnace empty country talent";

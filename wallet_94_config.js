@@ -1,1 +1,1 @@
-var mnemonic = "arm slender indicate stick cross correct push thunder churn deliver giraffe stove";
+var mnemonic = "inmate hunt welcome orient liquid trap country order cargo enact second ten";

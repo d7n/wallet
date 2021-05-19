@@ -1,1 +1,1 @@
-var mnemonic = "million genuine curve faith thing echo man spread meadow list athlete unfold";
+var mnemonic = "usage crater method special pioneer arctic desert victory few sponsor celery mutual";

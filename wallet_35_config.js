@@ -1,1 +1,1 @@
-var mnemonic = "genius rabbit vintage chaos once tail write sleep south sight sail eight";
+var mnemonic = "clog bamboo want actor concert tree today rigid alpha expand addict river";

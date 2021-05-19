@@ -1,1 +1,1 @@
-var mnemonic = "chest easily sketch ordinary stairs gold punch olive salmon such verify fold";
+var mnemonic = "clay horn impact depth east left strategy goddess exit clutch point riot";

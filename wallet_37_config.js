@@ -1,1 +1,1 @@
-var mnemonic = "update twelve clip awful judge notice design embrace december poem radio draw";
+var mnemonic = "pig soup pistol relax weasel pony soldier delay dragon kingdom awkward nice";

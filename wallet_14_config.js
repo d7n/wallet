@@ -1,1 +1,1 @@
-var mnemonic = "invest nerve can garbage pattern aisle edge gospel crouch funny crazy museum";
+var mnemonic = "wire entire option bronze gold rapid anchor drastic release scrub foot acoustic";

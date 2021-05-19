@@ -1,1 +1,1 @@
-var mnemonic = "among uncover limit beef multiply vehicle tomorrow exchange sail urge property spend";
+var mnemonic = "craft ethics ranch bundle slab item auction noble hazard boring chest pistol";

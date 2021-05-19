@@ -1,1 +1,1 @@
-var mnemonic = "rival guide across mansion pulse tooth distance crop way coyote alarm quiz";
+var mnemonic = "hair frown behind lizard bid job aim faith witness public artist custom";

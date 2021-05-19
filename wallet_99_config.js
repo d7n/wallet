@@ -1,1 +1,1 @@
-var mnemonic = "tonight cliff diagram snap child portion skull ordinary stamp purity provide foster";
+var mnemonic = "cradle dismiss sense public veteran ramp milk marine cup attitude affair royal";

@@ -1,1 +1,1 @@
-var mnemonic = "sing pudding daughter buffalo flight menu aunt drama law gallery youth coil";
+var mnemonic = "price welcome year river loyal local cruel faint lab used visit banner";

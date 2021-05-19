@@ -1,1 +1,1 @@
-var mnemonic = "prize carbon reason front amateur leader earn pudding monitor ready alien genius";
+var mnemonic = "shoulder fox palace damage scissors column that rhythm master typical nest robust";

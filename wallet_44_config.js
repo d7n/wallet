@@ -1,1 +1,1 @@
-var mnemonic = "enhance menu venue approve arrow nothing pear zoo orbit knock canal kidney";
+var mnemonic = "bomb celery plunge sad dry other fragile aspect desert mechanic sweet defense";

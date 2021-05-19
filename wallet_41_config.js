@@ -1,1 +1,1 @@
-var mnemonic = "amused rare gesture syrup pair adult educate coconut screen fiction gossip slide";
+var mnemonic = "anchor bind print magnet shiver cheese resemble advice polar dance wrist rookie";

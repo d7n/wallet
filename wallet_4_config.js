@@ -1,1 +1,1 @@
-var mnemonic = "when stairs asset eight nominee master space expire fat source perfect talk";
+var mnemonic = "into escape message birth few always vacant desk ride federal around suffer";

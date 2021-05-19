@@ -1,1 +1,1 @@
-var mnemonic = "chat below large delay lawsuit inquiry powder minute blossom input dose draft";
+var mnemonic = "asset ivory slogan copper candy baby siege artefact use inherit trophy explain";

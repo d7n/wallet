@@ -1,1 +1,1 @@
-var mnemonic = "unit more piano busy scatter cereal salute toss danger blur birth prefer";
+var mnemonic = "lawn library tower craft teach make festival life bracket gadget borrow item";

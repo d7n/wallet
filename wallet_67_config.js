@@ -1,1 +1,1 @@
-var mnemonic = "depth elder damp reform alien client deliver churn volume cloth erase suit";
+var mnemonic = "anger please chair asthma diamond evidence despair shock lazy local what hobby";

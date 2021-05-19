@@ -1,1 +1,1 @@
-var mnemonic = "vapor sniff vivid frost dial truck present dizzy bargain pave safe text";
+var mnemonic = "improve alley turn where stadium reduce unaware aspect sing parent shrimp cup";

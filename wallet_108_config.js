@@ -1,1 +1,1 @@
-var mnemonic = "liberty screen gift rebuild lonely recall flight banana brother ill eagle quantum";
+var mnemonic = "income labor lawn onion night calm defy copy island same stand cross";

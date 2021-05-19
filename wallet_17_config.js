@@ -1,1 +1,1 @@
-var mnemonic = "brave result civil work regret space clump team early dumb broom chef";
+var mnemonic = "catalog series miracle fatal tongue machine witness cruel drop road stand work";

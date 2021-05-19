@@ -1,1 +1,1 @@
-var mnemonic = "noodle define visit hat noise idea exotic sport sudden music royal antique";
+var mnemonic = "senior prize abandon soda chimney shaft admit reform focus journey vapor have";

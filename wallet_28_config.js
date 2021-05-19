@@ -1,1 +1,1 @@
-var mnemonic = "toast develop circle moon typical hard dwarf ozone opera six hair arctic";
+var mnemonic = "logic margin legend yard assist universe actress favorite demand cargo carry unlock";

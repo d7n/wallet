@@ -1,1 +1,1 @@
-var mnemonic = "range above menu electric behind excuse payment fury twice wrist useless bread";
+var mnemonic = "kind cart other error hour talk jaguar recycle decline tray hole shove";

@@ -1,1 +1,1 @@
-var mnemonic = "quit unfold guess vague castle zone flight file sing flip leaf indoor";
+var mnemonic = "video truth rookie dawn crash common seat reward gas action step bonus";

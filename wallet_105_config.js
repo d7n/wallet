@@ -1,1 +1,1 @@
-var mnemonic = "total artist birth soap exist argue room limb trim elevator glow affair";
+var mnemonic = "salute equip adjust often either amused load alien master dish convince leader";

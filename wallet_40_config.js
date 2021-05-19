@@ -1,1 +1,1 @@
-var mnemonic = "base unlock cousin library champion relief nation lady lake oak casino alien";
+var mnemonic = "hip multiply biology history six capital finish ill news puppy warfare feel";

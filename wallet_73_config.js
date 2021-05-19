@@ -1,1 +1,1 @@
-var mnemonic = "skate spin oppose sad quiz carbon guide quantum jewel soon lunar pull";
+var mnemonic = "hire vintage mother paddle mail carbon pencil quick element odor swing roast";

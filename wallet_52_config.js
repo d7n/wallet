@@ -1,1 +1,1 @@
-var mnemonic = "rib fault huge jaguar claim filter shuffle hub need thought erosion pioneer";
+var mnemonic = "they random edge leader initial ritual sleep net purity route wolf crystal";

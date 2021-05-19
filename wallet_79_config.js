@@ -1,1 +1,1 @@
-var mnemonic = "vault spot ignore ocean pitch ten minimum install anxiety warrior hour tongue";
+var mnemonic = "arena slam anxiety famous segment brass stay matrix key kitten twenty citizen";

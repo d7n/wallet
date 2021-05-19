@@ -1,1 +1,1 @@
-var mnemonic = "indicate resist panda labor secret else figure brother panel suffer question wrong";
+var mnemonic = "hole shrug amateur craft build brush spot breeze simple suspect episode gasp";

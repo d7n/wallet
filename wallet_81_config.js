@@ -1,1 +1,1 @@
-var mnemonic = "monitor build hollow potato pause small dilemma style okay wasp tissue lunch";
+var mnemonic = "bullet burger prize patch mimic eight lake door whip galaxy record aerobic";

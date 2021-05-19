@@ -1,1 +1,1 @@
-var mnemonic = "time shrug square gold fiber deposit kit level napkin fancy accuse devote";
+var mnemonic = "session soul chief limit hello obvious brother survey bargain omit toe hour";

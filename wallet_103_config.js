@@ -1,1 +1,1 @@
-var mnemonic = "chalk force napkin gather height quantum thumb lend trade quantum explain clarify";
+var mnemonic = "adapt collect opera garbage catalog gentle fancy insane save caught search income";
