@@ -1,1 +1,1 @@
-var mnemonic = "pattern excuse upon blossom sun call absent eagle escape afford nothing horse";
+var mnemonic = "inquiry lawn fashion item lend behind object deny ask method anxiety desk";

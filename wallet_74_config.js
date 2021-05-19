@@ -1,1 +1,1 @@
-var mnemonic = "height ranch parent situate athlete dream table prepare talent property lunar junk";
+var mnemonic = "leave proud arrange orbit address tattoo auto absorb weekend help system chronic";

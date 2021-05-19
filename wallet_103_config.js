@@ -1,1 +1,1 @@
-var mnemonic = "raven hobby perfect suspect silent broken beef video immense thing black grain";
+var mnemonic = "olive boil secret empower nose produce light ritual angry rail crucial connect";

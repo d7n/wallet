@@ -1,1 +1,1 @@
-var mnemonic = "angry idle search echo horror intact heart switch crime execute journey lens";
+var mnemonic = "congress lawsuit one comfort absent curtain grunt enjoy ugly across soldier possible";

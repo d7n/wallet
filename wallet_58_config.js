@@ -1,1 +1,1 @@
-var mnemonic = "quit guitar draft stereo tobacco learn interest pitch unaware select monitor dentist";
+var mnemonic = "empower old pen flavor alert rescue dawn civil brother kick recipe van";

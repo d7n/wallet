@@ -1,1 +1,1 @@
-var mnemonic = "renew aware unique carpet crash grain miracle adapt raw birth survey layer";
+var mnemonic = "agent key swamp good purchase library coffee panda news author find grow";

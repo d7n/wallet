@@ -1,1 +1,1 @@
-var mnemonic = "issue loud journey happy patient noble scissors early denial arena gadget pipe";
+var mnemonic = "vendor woman tortoise timber labor aunt slam maple grab bird moment excite";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee casino repair time grit source square arrive grunt curve scout bracket";
+var mnemonic = "park egg dust alley various review bring island misery sheriff control since";

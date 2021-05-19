@@ -1,1 +1,1 @@
-var mnemonic = "ride practice logic key pretty river process jaguar crystal gloom route pen";
+var mnemonic = "slow cube must pride team spoil trust dynamic hospital ivory online flag";

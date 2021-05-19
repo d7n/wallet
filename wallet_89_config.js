@@ -1,1 +1,1 @@
-var mnemonic = "squeeze sugar purity path rural wrong right snap lawn maximum affair volume";
+var mnemonic = "stay panda gloom year jealous margin verb lady secret rug breeze always";

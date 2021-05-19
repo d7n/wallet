@@ -1,1 +1,1 @@
-var mnemonic = "legal mimic clerk crucial energy awesome butter lecture rebel stage shed oppose";
+var mnemonic = "range extend prefer amateur reason fish illegal scale execute razor fame sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "case submit glory twice title opinion describe shine sound nice minimum visual";
+var mnemonic = "end unhappy move party loyal fashion spawn nest volcano later vicious future";

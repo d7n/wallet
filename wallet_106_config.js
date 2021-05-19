@@ -1,1 +1,1 @@
-var mnemonic = "toward worth banana announce amount payment answer mixture feel rookie enemy razor";
+var mnemonic = "lobster post gravity nasty brother isolate tortoise festival trick improve gloom april";

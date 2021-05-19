@@ -1,1 +1,1 @@
-var mnemonic = "cup reflect cruise critic organ whip happy rabbit slab nose scan forum";
+var mnemonic = "couple aerobic tunnel spot ill climb leaf chase chaos someone produce inhale";

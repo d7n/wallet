@@ -1,1 +1,1 @@
-var mnemonic = "strategy soda draw choose net patch provide unlock fantasy grape profit harsh";
+var mnemonic = "wheat tuition camp must love another weasel region blanket reward relief west";

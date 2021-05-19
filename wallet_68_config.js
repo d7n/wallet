@@ -1,1 +1,1 @@
-var mnemonic = "cabin lesson unit enroll giggle essay hello crew mosquito notable castle exotic";
+var mnemonic = "silk live major empty time cost gate comfort renew fold december search";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong fashion idea river energy own palace fiction primary corn sight rail";
+var mnemonic = "pretty name execute blast novel slim give good tomorrow way eyebrow oval";

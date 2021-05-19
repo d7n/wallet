@@ -1,1 +1,1 @@
-var mnemonic = "width prepare improve opinion fire ghost give expose hawk cargo inch cereal";
+var mnemonic = "fantasy caution dog ivory robot attract surround asset wine pretty keen census";

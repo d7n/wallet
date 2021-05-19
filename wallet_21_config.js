@@ -1,1 +1,1 @@
-var mnemonic = "essence disagree scatter weekend dad popular wait method engine holiday truth clump";
+var mnemonic = "scrub debris flight pitch obvious dizzy lemon language filter social memory proof";

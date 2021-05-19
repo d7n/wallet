@@ -1,1 +1,1 @@
-var mnemonic = "clever initial betray alert there have base able modify lift toilet party";
+var mnemonic = "rally nothing team scorpion humble refuse result surprise leisure leaf camera oval";

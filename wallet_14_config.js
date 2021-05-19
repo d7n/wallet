@@ -1,1 +1,1 @@
-var mnemonic = "equip just riot brick priority rabbit palace clay nut execute exchange cool";
+var mnemonic = "throw topple wagon enroll possible crisp smart alpha stick ranch card honey";

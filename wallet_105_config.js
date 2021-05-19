@@ -1,1 +1,1 @@
-var mnemonic = "change print excess under camp online own trade kiss goat carry release";
+var mnemonic = "mix prevent frame affair tunnel iron dream enforce tobacco weird plastic trash";

@@ -1,1 +1,1 @@
-var mnemonic = "town diagram lady mistake era sibling mimic gold powder stadium crystal say";
+var mnemonic = "owner mango audit olive connect recall usual blade coin mirror pioneer fluid";

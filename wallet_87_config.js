@@ -1,1 +1,1 @@
-var mnemonic = "issue dragon sad summer sight prepare museum aware way divide define alley";
+var mnemonic = "rookie lock correct grape flower wine summer gold provide example essay wise";

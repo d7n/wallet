@@ -1,1 +1,1 @@
-var mnemonic = "wife wall boy foam circle column abuse brand apple april spare duty";
+var mnemonic = "bomb live sick embark exotic patch advice fit vessel funny wolf evil";

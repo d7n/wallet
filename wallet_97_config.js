@@ -1,1 +1,1 @@
-var mnemonic = "scorpion help october clump chat local defense bench custom deny reduce inform";
+var mnemonic = "lunch jacket more wrong rapid process gasp grace sword find pole major";

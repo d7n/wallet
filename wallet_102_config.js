@@ -1,1 +1,1 @@
-var mnemonic = "pass poverty person shed glory disagree turtle lazy clinic road monster army";
+var mnemonic = "shove turkey use nuclear pupil way other company boss shoe island hidden";

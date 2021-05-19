@@ -1,1 +1,1 @@
-var mnemonic = "work happy misery pelican mixed school include defense bench merry silent hour";
+var mnemonic = "rent gather trigger pelican become attitude win sudden assist fiction battle symbol";

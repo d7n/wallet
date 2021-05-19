@@ -1,1 +1,1 @@
-var mnemonic = "venture arena security crane expire journey best useful tank call oak drift";
+var mnemonic = "turn risk onion surge skate crop lumber settle record benefit fruit obtain";

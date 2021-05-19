@@ -1,1 +1,1 @@
-var mnemonic = "useless concert aerobic oven swarm local half limb social gossip dignity detail";
+var mnemonic = "length setup leg unlock cause vintage stem fix silk atom squeeze today";

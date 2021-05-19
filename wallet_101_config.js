@@ -1,1 +1,1 @@
-var mnemonic = "upper mystery maximum bamboo slice vicious promote praise amazing twist surface admit";
+var mnemonic = "ask seek earth noodle rare scrap despair alert popular vicious core common";

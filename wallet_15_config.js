@@ -1,1 +1,1 @@
-var mnemonic = "unique office pipe put merit liberty gold anger neutral useful idle width";
+var mnemonic = "super canyon tank first stamp together case fever dignity vault burger finish";

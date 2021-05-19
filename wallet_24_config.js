@@ -1,1 +1,1 @@
-var mnemonic = "vocal kidney vessel remember sand skirt almost nation pipe vendor flame common";
+var mnemonic = "six language waste rich harbor special clean innocent nut tackle snap morning";

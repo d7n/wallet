@@ -1,1 +1,1 @@
-var mnemonic = "chicken nasty deny surprise sail raccoon eager march ticket clog wall dolphin";
+var mnemonic = "select cliff flip market clever torch silly rose alcohol goat street index";

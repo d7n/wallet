@@ -1,1 +1,1 @@
-var mnemonic = "artwork scissors flip mother eyebrow shove divide yard song route shell ring";
+var mnemonic = "device away upset chat push vault slender note climb hedgehog skull found";

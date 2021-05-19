@@ -1,1 +1,1 @@
-var mnemonic = "dumb yard soup crawl viable diet banana because devote aspect surge tuna";
+var mnemonic = "miss more already risk element ahead collect provide lonely laugh junior grab";

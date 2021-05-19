@@ -1,1 +1,1 @@
-var mnemonic = "garlic hand snack panel language egg art aisle miracle tent lazy salon";
+var mnemonic = "adult ship drama example artwork setup suit start sound pupil barrel bag";

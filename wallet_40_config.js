@@ -1,1 +1,1 @@
-var mnemonic = "smoke floor brave north gossip rib salad castle black crime describe sword";
+var mnemonic = "boring anchor siren strategy brief symptom isolate put devote access board sustain";

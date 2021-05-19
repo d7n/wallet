@@ -1,1 +1,1 @@
-var mnemonic = "welcome display hover clinic swarm chat story orphan chair vanish blossom differ";
+var mnemonic = "program moon soda travel cube essence shuffle sentence loan banner seminar sun";

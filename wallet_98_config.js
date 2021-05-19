@@ -1,1 +1,1 @@
-var mnemonic = "spring hybrid man slice march found entry tomato scan toddler gold pretty";
+var mnemonic = "junior lock marine unknown wet acid spirit suspect light together agree wolf";

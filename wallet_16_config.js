@@ -1,1 +1,1 @@
-var mnemonic = "curtain achieve inside anger soap spawn empty unable arch mosquito captain similar";
+var mnemonic = "jewel pulse trouble sound comic evil until surround avoid rose hen keep";

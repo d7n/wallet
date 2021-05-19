@@ -1,1 +1,1 @@
-var mnemonic = "wish depth fever sweet laptop will yard boost torch purse act unfair";
+var mnemonic = "major oppose tragic labor unveil photo bone suspect stairs wheat lava city";

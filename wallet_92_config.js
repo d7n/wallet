@@ -1,1 +1,1 @@
-var mnemonic = "fix slice stomach else access hair dilemma cattle guitar hidden equal buffalo";
+var mnemonic = "canyon praise insane purpose polar enjoy force bulk blouse silver goat figure";

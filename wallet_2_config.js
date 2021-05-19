@@ -1,1 +1,1 @@
-var mnemonic = "poet juice amazing oak drum mirror uphold saddle census uncover damp exotic";
+var mnemonic = "cluster donate come medal night anger oxygen grit shell gather crop cost";

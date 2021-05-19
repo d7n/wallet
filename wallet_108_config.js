@@ -1,1 +1,1 @@
-var mnemonic = "sight noble protect goose insane arena bright attack modify fossil pill convince";
+var mnemonic = "stay pupil humor kangaroo tired kind mixture drastic rely science equal mutual";

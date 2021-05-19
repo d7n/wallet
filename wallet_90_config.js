@@ -1,1 +1,1 @@
-var mnemonic = "boy entry wasp genre find thank damp common skull moment code bike";
+var mnemonic = "eager banana kitten cancel endless foam click fault secret funny injury math";

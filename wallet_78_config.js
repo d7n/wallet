@@ -1,1 +1,1 @@
-var mnemonic = "property popular exhibit wasp race mass dolphin chimney shift uphold miracle swift";
+var mnemonic = "illegal floor fame have admit latin reject match breeze mail rapid negative";

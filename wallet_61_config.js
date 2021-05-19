@@ -1,1 +1,1 @@
-var mnemonic = "matter lake floor clarify boring fly skill general credit detect sick mosquito";
+var mnemonic = "balance bundle danger dismiss fun clean happy seed prize luxury marble dinosaur";

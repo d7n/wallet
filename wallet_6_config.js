@@ -1,1 +1,1 @@
-var mnemonic = "tower enforce universe replace negative zoo cabbage sock key group maple pigeon";
+var mnemonic = "success canoe sustain loan seek return chicken raise december unique panda right";

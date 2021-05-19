@@ -1,1 +1,1 @@
-var mnemonic = "toss cave slim kite reflect sister mind student scene frozen average alien";
+var mnemonic = "celery oval puzzle media salute toward tattoo feature pitch horse soap balance";

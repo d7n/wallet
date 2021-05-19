@@ -1,1 +1,1 @@
-var mnemonic = "pass carbon unknown chronic dog razor pattern enroll quantum runway inject mystery";
+var mnemonic = "wage glass venture receive predict invest gallery offer about green protect scatter";

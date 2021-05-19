@@ -1,1 +1,1 @@
-var mnemonic = "blossom praise option daughter myself address guide uniform depart cactus such furnace";
+var mnemonic = "glory current column tree announce chase undo cactus aware garden clean slide";

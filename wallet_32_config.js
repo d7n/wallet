@@ -1,1 +1,1 @@
-var mnemonic = "identify friend digital car clip outer advance goose market verb divert derive";
+var mnemonic = "alien sheriff chat keen expose require owner minor vendor furnace include sport";

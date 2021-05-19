@@ -1,1 +1,1 @@
-var mnemonic = "consider dance dragon push dumb awake later rotate end normal abstract sick";
+var mnemonic = "plunge denial pony disagree desert banana promote flat junior eyebrow problem winter";

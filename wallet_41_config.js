@@ -1,1 +1,1 @@
-var mnemonic = "bacon hollow upset must drift below trim essay match maid sight split";
+var mnemonic = "extend axis mammal meadow rotate model equal kangaroo refuse street degree lake";

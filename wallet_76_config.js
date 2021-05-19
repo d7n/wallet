@@ -1,1 +1,1 @@
-var mnemonic = "manual ride sudden enough prison scout deputy habit buffalo planet split hospital";
+var mnemonic = "audit stand soft live spatial review speed bless damp comfort parade wise";

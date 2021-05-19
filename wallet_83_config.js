@@ -1,1 +1,1 @@
-var mnemonic = "toss latin over tube fragile style return one when cricket lyrics memory";
+var mnemonic = "flee vanish leg acoustic song guard educate evoke decade expose paper order";

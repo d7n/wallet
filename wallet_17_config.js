@@ -1,1 +1,1 @@
-var mnemonic = "deny march worry february absurd bubble more network kiwi exercise give soldier";
+var mnemonic = "buzz crop first street recall tattoo crisp cactus sadness scrap organ snap";

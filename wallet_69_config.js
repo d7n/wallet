@@ -1,1 +1,1 @@
-var mnemonic = "absurd few praise apology cement duty dish indoor board burger army wink";
+var mnemonic = "broccoli zebra extend monster six hedgehog glad home bracket tray indoor open";

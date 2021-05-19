@@ -1,1 +1,1 @@
-var mnemonic = "barely galaxy orchard odor use vital allow language special twice brisk steak";
+var mnemonic = "outside offer tornado taste abuse ready mesh attend blush grunt marine cattle";

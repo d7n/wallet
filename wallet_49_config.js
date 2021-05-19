@@ -1,1 +1,1 @@
-var mnemonic = "worth interest brief soup squirrel ocean disagree vintage excuse calm velvet glance";
+var mnemonic = "diamond jump mango answer trophy congress west repair gate artwork occur lemon";

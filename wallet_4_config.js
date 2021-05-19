@@ -1,1 +1,1 @@
-var mnemonic = "bind attack quiz retreat coach couch vehicle head meat myself fan crush";
+var mnemonic = "bar name senior ordinary boat wire gentle bulb steak position multiply quick";

@@ -1,1 +1,1 @@
-var mnemonic = "produce canal deal predict pave universe build rotate lonely coil smoke face";
+var mnemonic = "slice alone animal butter inject dry bitter typical demand melody monkey asset";

@@ -1,1 +1,1 @@
-var mnemonic = "badge elite wonder amount laptop allow grain alien wall below capital deliver";
+var mnemonic = "wheat print sausage noble educate misery guess rich pioneer gas child gain";

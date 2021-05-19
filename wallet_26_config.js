@@ -1,1 +1,1 @@
-var mnemonic = "barrel dose vivid nerve sorry shine rival mosquito denial place elephant anxiety";
+var mnemonic = "table vivid flag amused surface laundry stumble snow machine infant illness help";

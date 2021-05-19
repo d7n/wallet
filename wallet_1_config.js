@@ -1,1 +1,1 @@
-var mnemonic = "walnut lawsuit left vault dog entry infant museum seat inherit element soldier";
+var mnemonic = "wing wire public sponsor excess syrup lion inside skull glow box twice";

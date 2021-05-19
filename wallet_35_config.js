@@ -1,1 +1,1 @@
-var mnemonic = "obtain guard ahead liquid gas give immense prosper nominee south argue alpha";
+var mnemonic = "punch barely upgrade play cattle law picture grab banana job jazz unfold";

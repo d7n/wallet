@@ -1,1 +1,1 @@
-var mnemonic = "flag fury beyond employ dress improve analyst law crucial lumber observe slide";
+var mnemonic = "detect sudden wreck sausage illegal ceiling odor process oak awake truly submit";

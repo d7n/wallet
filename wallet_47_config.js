@@ -1,1 +1,1 @@
-var mnemonic = "wet seed afford talent skin shiver ten throw rib famous sort question";
+var mnemonic = "merge analyst strike online coffee mandate promote still antique mercy caught flash";

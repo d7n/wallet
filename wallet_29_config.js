@@ -1,1 +1,1 @@
-var mnemonic = "first acid surprise remind bread monster cruise snow own vicious whisper else";
+var mnemonic = "century cry parade have trust solar sound bottom squirrel toy boat erupt";

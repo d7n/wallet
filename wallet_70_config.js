@@ -1,1 +1,1 @@
-var mnemonic = "harsh shrug endless sadness fluid mountain toddler since silly trophy reform fee";
+var mnemonic = "warrior genuine verb book learn region put route memory must hand risk";

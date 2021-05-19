@@ -1,1 +1,1 @@
-var mnemonic = "sight dolphin frown remind undo task cage evolve father pen wealth cloth";
+var mnemonic = "unusual quit sphere dynamic urge wave ozone ginger bullet anxiety spend length";

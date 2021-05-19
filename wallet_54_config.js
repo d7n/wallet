@@ -1,1 +1,1 @@
-var mnemonic = "unhappy transfer coil silver sock evil tonight wheat rice father salad photo";
+var mnemonic = "private detail foot link mosquito drum oxygen scare then blood trash opera";

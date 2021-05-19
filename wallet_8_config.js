@@ -1,1 +1,1 @@
-var mnemonic = "village lesson afford belt ill noble ring about aunt aim used direct";
+var mnemonic = "test celery grid roof laptop spider proud juice skull arm seat crime";

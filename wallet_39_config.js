@@ -1,1 +1,1 @@
-var mnemonic = "during tongue library verify curtain exotic focus possible strategy cannon snack potato";
+var mnemonic = "meat unusual saddle return narrow humor lonely useless peanut inmate start tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble amount position version effort soul emerge history mean neutral aware erode";
+var mnemonic = "veteran spend mind boil unique charge hope chest ozone broccoli close physical";

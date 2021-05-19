@@ -1,1 +1,1 @@
-var mnemonic = "define chimney night stage card claw exotic inmate defy sunset action soldier";
+var mnemonic = "plunge neither legal such congress female doctor exchange mosquito palace height slow";

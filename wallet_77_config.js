@@ -1,1 +1,1 @@
-var mnemonic = "license crater lady game analyst rebuild panther own margin fit shaft immune";
+var mnemonic = "vessel mirror diamond emerge rice gesture carpet immune erase wish slogan funny";

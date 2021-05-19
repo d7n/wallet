@@ -1,1 +1,1 @@
-var mnemonic = "horn entry one hero wool tube someone profit cheese tomorrow video now";
+var mnemonic = "rough rhythm neutral blood royal muffin behind april water filter ship sell";

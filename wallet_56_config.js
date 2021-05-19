@@ -1,1 +1,1 @@
-var mnemonic = "salmon credit trial ecology cactus shed industry summer next carbon return drama";
+var mnemonic = "kidney image donate pony crane desert spare option desk story mesh pizza";

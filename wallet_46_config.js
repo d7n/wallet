@@ -1,1 +1,1 @@
-var mnemonic = "salt famous much retreat census toward drill machine solar rebel midnight half";
+var mnemonic = "coach raccoon soul fatal bid asset board female traffic acid example inject";

@@ -1,1 +1,1 @@
-var mnemonic = "rent first matter paddle betray squirrel explain wing accident stool position throw";
+var mnemonic = "blouse company soap earth raise absurd govern write evolve frost genius alley";

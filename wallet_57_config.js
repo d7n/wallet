@@ -1,1 +1,1 @@
-var mnemonic = "glue output occur lamp error patient ripple skill boring live fiscal message";
+var mnemonic = "slogan razor regular strike few around provide leave into news face goat";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify pill emotion garbage lecture dynamic bitter fat enjoy logic essence apple";
+var mnemonic = "hunt pig lake melt enroll float nut cave route twelve warrior tape";

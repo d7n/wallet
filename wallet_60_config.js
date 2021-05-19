@@ -1,1 +1,1 @@
-var mnemonic = "fork wolf honey gorilla art panel assault suspect twin power repair armed";
+var mnemonic = "shift estate lyrics tail save situate spoon flat resemble picture boat regular";

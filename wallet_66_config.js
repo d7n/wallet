@@ -1,1 +1,1 @@
-var mnemonic = "same waste ocean victory debate employ survey pole floor job melt traffic";
+var mnemonic = "heart tube park pulse enough rocket electric census shed snow runway abuse";
