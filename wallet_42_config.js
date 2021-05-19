@@ -1,1 +1,1 @@
-var mnemonic = "cheese win omit marble screen matrix dash grow stick sample upper east";
+var mnemonic = "polar prefer truck monkey observe pony okay around marine oak tiny reform";

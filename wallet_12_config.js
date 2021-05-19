@@ -1,1 +1,1 @@
-var mnemonic = "phone live join huge media piano used parent peasant embark catalog bunker";
+var mnemonic = "myself come grace resource blossom awful collect twin sphere stumble mean hidden";

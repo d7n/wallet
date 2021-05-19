@@ -1,1 +1,1 @@
-var mnemonic = "mosquito view alley elder trophy horse scatter plastic skate capable carry debate";
+var mnemonic = "swear solid cereal note notable claw exercise horse render neck inflict mix";

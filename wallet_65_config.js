@@ -1,1 +1,1 @@
-var mnemonic = "voice tattoo joy capable clump shiver damage gallery glue cart hurry slab";
+var mnemonic = "pupil useful rigid tiny present fresh pony chicken august insect health agree";

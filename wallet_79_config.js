@@ -1,1 +1,1 @@
-var mnemonic = "program error series prevent nature peanut insane oppose useless fit reward very";
+var mnemonic = "misery book clock alarm spike laptop welcome piece lumber rude valley hamster";

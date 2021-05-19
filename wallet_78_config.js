@@ -1,1 +1,1 @@
-var mnemonic = "cereal enjoy birth solar convince oil pigeon used photo lottery panda inhale";
+var mnemonic = "nut want february curve innocent legend gadget village love vendor forget finger";

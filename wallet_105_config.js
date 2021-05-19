@@ -1,1 +1,1 @@
-var mnemonic = "fever flip canyon harbor funny ocean better useless face grain blanket manage";
+var mnemonic = "payment regret gorilla scorpion local salute chalk rigid battle admit ordinary machine";

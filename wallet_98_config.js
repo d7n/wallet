@@ -1,1 +1,1 @@
-var mnemonic = "cattle dinosaur pole ritual smile copy bless welcome spoil glimpse club jacket";
+var mnemonic = "else vivid scorpion public quantum spring husband swarm utility again bonus grunt";

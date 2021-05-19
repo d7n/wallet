@@ -1,1 +1,1 @@
-var mnemonic = "farm turkey foot unit make lift any surround frost corn confirm tourist";
+var mnemonic = "client bone predict conduct submit ostrich glad crowd brave try surround estate";

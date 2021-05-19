@@ -1,1 +1,1 @@
-var mnemonic = "advance labor circle legal obvious sample maze knife charge paddle fragile park";
+var mnemonic = "burden wool civil van index gaze stamp cruise sun apple road jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic climb foil series fringe sphere tourist moment agree merry denial hold";
+var mnemonic = "push rack exhibit omit pond fresh profit suggest rule cube neck false";

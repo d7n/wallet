@@ -1,1 +1,1 @@
-var mnemonic = "crater shallow marine series horror start morning peace outer hazard athlete never";
+var mnemonic = "various donate regret slush daughter cube resource alcohol amount milk shaft letter";

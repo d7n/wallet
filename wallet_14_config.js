@@ -1,1 +1,1 @@
-var mnemonic = "army cram rain relief cannon lounge useless uphold fork recall weather sudden";
+var mnemonic = "silent cook grass squeeze effort glory capital story sail plate alien code";

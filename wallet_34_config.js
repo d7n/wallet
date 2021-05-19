@@ -1,1 +1,1 @@
-var mnemonic = "popular trigger check tiny insect patrol endorse tribe win abstract heart range";
+var mnemonic = "elevator snack leopard hurry urge garlic hotel era scale dial foil holiday";

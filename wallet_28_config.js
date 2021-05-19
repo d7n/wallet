@@ -1,1 +1,1 @@
-var mnemonic = "cushion sudden siege abuse scorpion kite siege black quality tiny zero become";
+var mnemonic = "lake rebel cream review check frown private boss siren jewel atom prevent";

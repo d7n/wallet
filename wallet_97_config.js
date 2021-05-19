@@ -1,1 +1,1 @@
-var mnemonic = "walk riot play wash seed salute provide seven drama quality require olympic";
+var mnemonic = "health buffalo truth atom clever tragic faint embody doll valid clip clock";

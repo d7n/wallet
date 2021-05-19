@@ -1,1 +1,1 @@
-var mnemonic = "immense refuse tortoise fancy armed universe curtain veteran later puppy panic borrow";
+var mnemonic = "battle invest sister april season attend unaware isolate pink raven spoon liberty";

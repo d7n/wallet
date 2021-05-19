@@ -1,1 +1,1 @@
-var mnemonic = "nation smoke canoe used feel life melt issue hurdle vendor ritual damage";
+var mnemonic = "ketchup room law cake zebra royal point winner law sound regular perfect";

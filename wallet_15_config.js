@@ -1,1 +1,1 @@
-var mnemonic = "cable more elite wool ostrich near wrist certain answer soda unveil gate";
+var mnemonic = "catch office visit depart garbage nurse fine capable bomb month truth second";

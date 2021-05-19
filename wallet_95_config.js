@@ -1,1 +1,1 @@
-var mnemonic = "gauge pioneer coil blur huge manual embody arch unfold borrow language use";
+var mnemonic = "hamster swap audit faith trigger live flag column way joy abstract radio";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch six name throw throw dash machine scout exclude scale sugar bargain";
+var mnemonic = "roof aisle word undo fork neck keen usual agree apology shock march";

@@ -1,1 +1,1 @@
-var mnemonic = "game hint tennis spatial tray trick broccoli promote unaware eyebrow skin brain";
+var mnemonic = "lonely ignore story weapon cycle dog toward hazard clock danger praise liberty";

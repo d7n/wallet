@@ -1,1 +1,1 @@
-var mnemonic = "hat furnace job then era absorb alley dance million enjoy ignore public";
+var mnemonic = "soon tell water warm outside risk piano tomorrow tornado horse mandate series";

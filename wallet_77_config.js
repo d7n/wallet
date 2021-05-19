@@ -1,1 +1,1 @@
-var mnemonic = "loan ginger never great wave broccoli sense series stamp field shell artwork";
+var mnemonic = "kingdom dry few appear wink title cube stick cat plug parent royal";

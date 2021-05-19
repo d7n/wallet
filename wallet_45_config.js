@@ -1,1 +1,1 @@
-var mnemonic = "asset grow portion scorpion write increase gauge because ship tissue kiss lend";
+var mnemonic = "shadow alley tribe ribbon seven differ myth solar welcome favorite habit vanish";

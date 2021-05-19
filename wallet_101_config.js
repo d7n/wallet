@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog green water quantum bottom vivid spell once arrive strong debate lounge";
+var mnemonic = "butter traffic stool steak must attitude scheme hour orbit immune ridge razor";

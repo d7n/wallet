@@ -1,1 +1,1 @@
-var mnemonic = "right convince weather zebra cluster powder arctic shadow kitchen enjoy gather laugh";
+var mnemonic = "glide junior debris alarm melody direct fabric someone cliff mistake excess minute";

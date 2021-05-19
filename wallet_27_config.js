@@ -1,1 +1,1 @@
-var mnemonic = "october rose race favorite best west wink below rail discover divide nothing";
+var mnemonic = "stumble science eternal area right bind market cream foam heart whale oyster";

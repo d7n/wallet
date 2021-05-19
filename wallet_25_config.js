@@ -1,1 +1,1 @@
-var mnemonic = "soap ring patrol coconut client media sail lab ridge term congress cycle";
+var mnemonic = "drive minute goat barrel amazing chicken ready you roof scissors guess latin";

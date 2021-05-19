@@ -1,1 +1,1 @@
-var mnemonic = "lonely front clap battle garlic venue plastic camera shell muscle regular swallow";
+var mnemonic = "garbage behave tissue useful solar bike achieve benefit fatigue industry approve amount";

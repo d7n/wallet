@@ -1,1 +1,1 @@
-var mnemonic = "recycle plug kit parent laundry spin police oxygen ring bar calm pull";
+var mnemonic = "law loan hover private prefer magic enrich giraffe popular alien upper broken";

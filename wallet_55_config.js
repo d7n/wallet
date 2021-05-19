@@ -1,1 +1,1 @@
-var mnemonic = "artefact spider jelly move digital help toe drama vast aisle upgrade bamboo";
+var mnemonic = "magnet awful hockey clarify aunt donor alcohol near glance sister assume nest";

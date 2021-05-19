@@ -1,1 +1,1 @@
-var mnemonic = "elder chimney excuse dry patient sheriff giggle hundred iron submit crater unlock";
+var mnemonic = "genre soon tortoise unfair oval fat casual spoil patrol keep pottery crystal";

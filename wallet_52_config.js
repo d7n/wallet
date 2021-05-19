@@ -1,1 +1,1 @@
-var mnemonic = "level smooth warm quit fortune tool fossil excuse world gift ostrich federal";
+var mnemonic = "obey final share cool around tape need afraid title wet abstract quote";

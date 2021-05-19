@@ -1,1 +1,1 @@
-var mnemonic = "monster modify accuse hen treat help deer option balcony session swallow milk";
+var mnemonic = "version valid top answer math frost adjust legal tuition lazy pizza noodle";

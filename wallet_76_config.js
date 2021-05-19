@@ -1,1 +1,1 @@
-var mnemonic = "wrist super bounce unfold post rose dutch pass cruise weather spin clerk";
+var mnemonic = "trust deputy melt rain seek monkey scare direct obscure goose still develop";

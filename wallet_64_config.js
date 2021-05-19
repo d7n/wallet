@@ -1,1 +1,1 @@
-var mnemonic = "decade cabbage tackle afraid nephew ability glide later narrow hidden ordinary hole";
+var mnemonic = "stable bottom badge joke word sense error edit collect opinion wife universe";

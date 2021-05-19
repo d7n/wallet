@@ -1,1 +1,1 @@
-var mnemonic = "finger dune jeans scene penalty vendor kind cliff cause fuel seat main";
+var mnemonic = "ranch endless pistol film identify exhibit brave bundle assume reopen tooth morning";

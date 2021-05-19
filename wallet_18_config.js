@@ -1,1 +1,1 @@
-var mnemonic = "harbor drastic marine adult wrong pact illness update elite quantum park neglect";
+var mnemonic = "pair cherry depart aunt silver gasp uncle liar arctic transfer square sister";

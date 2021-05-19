@@ -1,1 +1,1 @@
-var mnemonic = "intact auction fossil area skill post plug eternal learn little leisure shrug";
+var mnemonic = "lock blast cricket dizzy venture water chat unaware comfort fence gaze response";

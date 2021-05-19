@@ -1,1 +1,1 @@
-var mnemonic = "exclude bulb pupil degree renew island meadow stool convince market claim toddler";
+var mnemonic = "patient online obvious famous slow minimum document shed wagon balance fit weird";

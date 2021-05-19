@@ -1,1 +1,1 @@
-var mnemonic = "quick balance decade dust harvest balance fiscal fantasy pumpkin coin gas join";
+var mnemonic = "happy effort announce moon fever cargo warfare orchard diary dynamic choose sail";

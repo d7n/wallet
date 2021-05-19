@@ -1,1 +1,1 @@
-var mnemonic = "kiss edit ring sibling bring vintage rival real fun pumpkin zebra remain";
+var mnemonic = "taxi grant include aerobic fancy erase trap repeat return tail inform embark";

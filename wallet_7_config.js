@@ -1,1 +1,1 @@
-var mnemonic = "upset copper setup secret rude define outdoor approve glass finger spice lyrics";
+var mnemonic = "place actor ocean violin kitchen again odor close filter economy segment cause";

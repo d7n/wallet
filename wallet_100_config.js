@@ -1,1 +1,1 @@
-var mnemonic = "enlist title recycle unaware churn captain silent arrange step story merit penalty";
+var mnemonic = "sunset cherry position demand divert start great art empty order brick flight";

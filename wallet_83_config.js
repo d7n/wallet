@@ -1,1 +1,1 @@
-var mnemonic = "prevent link step cave armed inquiry expire program shell spider exotic cloud";
+var mnemonic = "address glue upper cushion buyer they toddler endless order denial strong sad";

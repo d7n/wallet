@@ -1,1 +1,1 @@
-var mnemonic = "coral stumble normal deny leg stone bench mix follow slush silly drop";
+var mnemonic = "sugar marriage debris warfare vital below behave cash credit offer beef lobster";

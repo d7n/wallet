@@ -1,1 +1,1 @@
-var mnemonic = "loop hole frozen hand term dove humor stock news runway card always";
+var mnemonic = "document yellow term enter mushroom fan pave there open aerobic garlic surface";

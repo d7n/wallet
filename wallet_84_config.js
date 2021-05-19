@@ -1,1 +1,1 @@
-var mnemonic = "chicken idle wealth eyebrow table snake strike trick deer canoe elevator light";
+var mnemonic = "unhappy parade true private castle left roast fence proud promote tissue country";

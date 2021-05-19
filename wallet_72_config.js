@@ -1,1 +1,1 @@
-var mnemonic = "recipe patrol common kite loop century give cruise report delay please enroll";
+var mnemonic = "truck razor actor learn tiny still snake kitchen exit abstract brother insect";

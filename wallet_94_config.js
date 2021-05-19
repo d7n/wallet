@@ -1,1 +1,1 @@
-var mnemonic = "lunch rocket copper outside husband rubber salon lady rotate anxiety beauty odor";
+var mnemonic = "unable flower pear detect echo blush pupil elder gesture swift curve pepper";

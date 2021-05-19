@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sudden pencil saddle spray hen play thunder walk reject winner sentence";
+var mnemonic = "decorate prison frame equal picnic system essay question stand brave myself crush";

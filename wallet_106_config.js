@@ -1,1 +1,1 @@
-var mnemonic = "size inside amused frost garlic obscure cactus ill busy sadness board jacket";
+var mnemonic = "main august stage between upset enact fabric trouble song science advance doll";

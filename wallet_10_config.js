@@ -1,1 +1,1 @@
-var mnemonic = "pair error promote sick certain resemble lyrics moment later wave orphan auction";
+var mnemonic = "leopard across physical holiday general gesture focus join curve kite endless hen";

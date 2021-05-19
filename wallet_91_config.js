@@ -1,1 +1,1 @@
-var mnemonic = "tank lonely museum balance milk decide cancel dwarf olive fresh prepare earn";
+var mnemonic = "brain liar volume metal school filter clog say camp fortune ski equip";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious correct mushroom cloth improve chest lottery nasty alien bone dumb burden";
+var mnemonic = "voice cart inmate divorce fever release upon cabbage harsh move reward easy";

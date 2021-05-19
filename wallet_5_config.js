@@ -1,1 +1,1 @@
-var mnemonic = "album average jar kingdom light admit gospel advice path brush reward mixture";
+var mnemonic = "hill lazy another during maid knee expire dial around clown chronic zoo";

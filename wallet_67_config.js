@@ -1,1 +1,1 @@
-var mnemonic = "render clown state feature rather present all leg mass mushroom defy blush";
+var mnemonic = "goat payment gaze property naive soul snow reveal core fall harbor toy";

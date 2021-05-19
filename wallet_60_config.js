@@ -1,1 +1,1 @@
-var mnemonic = "laugh buddy motor funny exact parrot beach energy lucky oil blast dentist";
+var mnemonic = "key mask balance decorate anchor solar plastic erode comfort vicious onion denial";

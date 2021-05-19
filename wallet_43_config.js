@@ -1,1 +1,1 @@
-var mnemonic = "basket cycle target among turn patrol chase woman chat deal glare pact";
+var mnemonic = "weird announce animal cruel hidden empower round rose echo leaf smooth moon";

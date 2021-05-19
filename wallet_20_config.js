@@ -1,1 +1,1 @@
-var mnemonic = "raccoon wire tattoo verify burst cargo shrug slush chalk thank tiger shove";
+var mnemonic = "fiscal question banner pattern weird empty warm gown damp jazz cat flock";

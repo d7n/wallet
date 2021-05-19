@@ -1,1 +1,1 @@
-var mnemonic = "give case lamp tuna aware casual legal rug protect reason cream book";
+var mnemonic = "amused science practice history relax prosper cancel afraid also february elbow matrix";

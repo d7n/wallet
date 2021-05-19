@@ -1,1 +1,1 @@
-var mnemonic = "crumble awkward gather embody embrace relief pottery sting earn donate liquid photo";
+var mnemonic = "mixture supply expand cash mushroom remind shiver pause portion spirit firm law";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone buyer end catch found guard once seek attract original draft exact";
+var mnemonic = "remind shiver able heart easily axis river add emotion police agent tail";

@@ -1,1 +1,1 @@
-var mnemonic = "end brain hospital hood swamp already will puzzle sport little skin feature";
+var mnemonic = "trumpet script evoke tumble evil coffee marine slam shadow bean action news";

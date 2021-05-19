@@ -1,1 +1,1 @@
-var mnemonic = "theme topple record obtain unaware shed deputy pulp wire crater stool plunge";
+var mnemonic = "month special distance hawk luxury surprise uniform trap field seek civil inside";

@@ -1,1 +1,1 @@
-var mnemonic = "insect kitchen squeeze era eternal gallery marine goddess trophy inside verify solid";
+var mnemonic = "cannon basic sign device mention steel hollow mix tray allow flock reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft copy tumble aunt text nuclear version offer grass merry oven north";
+var mnemonic = "exact talent lunar artwork ankle injury glory tired history dumb hollow nerve";

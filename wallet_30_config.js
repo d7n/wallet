@@ -1,1 +1,1 @@
-var mnemonic = "popular coin energy any alert suggest battle burger aerobic wrong repair radio";
+var mnemonic = "slender melt pencil menu pistol lunch combine lend method vivid humor any";

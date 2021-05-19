@@ -1,1 +1,1 @@
-var mnemonic = "ketchup miracle alien dad camp swing rural range wait puzzle proof filter";
+var mnemonic = "undo ring effort hundred key gauge call beach surround report merit toast";

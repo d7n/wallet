@@ -1,1 +1,1 @@
-var mnemonic = "start say screen table diesel antique teach lady wagon text pyramid loyal";
+var mnemonic = "vote light sphere embrace squeeze fog dizzy proud cheap pencil wish between";

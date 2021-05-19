@@ -1,1 +1,1 @@
-var mnemonic = "bridge tribe wall hole history addict census paper path permit mom design";
+var mnemonic = "indicate add word among coral bundle enemy youth silly roof blast buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke reject alert click three pony pool oyster chimney cost empty cereal";
+var mnemonic = "gravity divide cook acquire depth cruel infant hurdle ladder absent gain crunch";

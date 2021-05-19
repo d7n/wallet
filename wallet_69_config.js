@@ -1,1 +1,1 @@
-var mnemonic = "spice bulk prepare click brush fitness ketchup daughter diagram whisper wait zone";
+var mnemonic = "slow aisle case include discover immune truck actress grass correct robot help";

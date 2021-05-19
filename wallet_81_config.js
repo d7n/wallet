@@ -1,1 +1,1 @@
-var mnemonic = "clown winter differ term public only eight muffin calm liar rival exclude";
+var mnemonic = "quantum scrap rice ignore tuna rose net regret antique hurdle depart sad";

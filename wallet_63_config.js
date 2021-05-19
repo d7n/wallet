@@ -1,1 +1,1 @@
-var mnemonic = "trip draft air first ribbon chronic broken identify tape danger enjoy mixture";
+var mnemonic = "web ostrich analyst owner hair voice code tunnel found aspect kick olympic";

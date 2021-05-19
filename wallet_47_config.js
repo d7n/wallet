@@ -1,1 +1,1 @@
-var mnemonic = "brass trouble wide pet know kiss come stool earn clerk stage luxury";
+var mnemonic = "offer measure yellow frequent struggle rare fashion mosquito salmon seven illegal doll";

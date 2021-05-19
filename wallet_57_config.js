@@ -1,1 +1,1 @@
-var mnemonic = "squeeze hold bulb detect spy mirror alter alert omit toss act crystal";
+var mnemonic = "pride public cotton rotate chest promote actual carbon siege bargain fantasy seat";

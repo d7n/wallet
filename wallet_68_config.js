@@ -1,1 +1,1 @@
-var mnemonic = "latin swear proof slice exact history theme icon praise silent bring rain";
+var mnemonic = "armor essence excess brother tape pudding coyote dog autumn glow divorce enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster alien adult buddy leopard shiver train fruit ketchup antenna marine monitor";
+var mnemonic = "mobile lamp desert flee honey donate evil coin near orange boring dog";

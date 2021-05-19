@@ -1,1 +1,1 @@
-var mnemonic = "believe boy winner rubber twice expire milk pause excuse hybrid merge crush";
+var mnemonic = "nothing equal marriage pony answer aunt grit casino biology south winter lesson";

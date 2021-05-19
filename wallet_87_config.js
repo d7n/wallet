@@ -1,1 +1,1 @@
-var mnemonic = "risk harbor multiply census flight despair measure once reduce rare spawn around";
+var mnemonic = "slogan face decline gown father age skin canvas annual minute pact side";

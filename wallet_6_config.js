@@ -1,1 +1,1 @@
-var mnemonic = "chase loud spend raven liar drastic video poverty chair this boss robust";
+var mnemonic = "supply state analyst ordinary glimpse popular digital thought execute brave slam dumb";

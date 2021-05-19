@@ -1,1 +1,1 @@
-var mnemonic = "era disease metal talent once elder moon damage arrange odor beef fitness";
+var mnemonic = "circle wreck carbon flash over all scatter seat welcome method young sword";

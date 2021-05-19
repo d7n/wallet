@@ -1,1 +1,1 @@
-var mnemonic = "clinic book lock birth crawl volume click destroy tape bubble rescue price";
+var mnemonic = "index brother acquire govern timber defense shop among gorilla hand team syrup";

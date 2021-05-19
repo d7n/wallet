@@ -1,1 +1,1 @@
-var mnemonic = "venture method civil dolphin worth game bronze dress member pizza jelly cost";
+var mnemonic = "scorpion anger imitate pupil margin copy rhythm vessel indoor subject tool match";

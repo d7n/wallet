@@ -1,1 +1,1 @@
-var mnemonic = "miracle fit key gentle you error guilt reduce deny royal final clay";
+var mnemonic = "lounge summer palm tool floor saddle exercise evoke pretty alter goat lottery";

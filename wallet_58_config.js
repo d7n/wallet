@@ -1,1 +1,1 @@
-var mnemonic = "soldier friend labor end scrub grace version bulb warrior jump awkward guard";
+var mnemonic = "aerobic tobacco paddle mixed use throw kite between carpet source permit smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "fever regret recall victory blur panther pumpkin poet witness assist load banner";
+var mnemonic = "cat say jump opera odor liberty forest horn diet post peace erosion";

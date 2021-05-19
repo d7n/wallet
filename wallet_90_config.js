@@ -1,1 +1,1 @@
-var mnemonic = "forward unveil distance proof hundred together that coil token expose garlic hero";
+var mnemonic = "interest climb proof cradle tag deal chalk useless chase evidence north birth";

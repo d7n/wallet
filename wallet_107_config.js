@@ -1,1 +1,1 @@
-var mnemonic = "lamp square tube rural spin over afford deposit rent bind mail find";
+var mnemonic = "liquid journey fiscal firm joke update patient void torch brush mobile force";

@@ -1,1 +1,1 @@
-var mnemonic = "radio deputy stem diesel reduce release infant reform nose reform soda invest";
+var mnemonic = "small shuffle fatal cupboard faith kidney slam oppose joke skull random scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "air cross element parent retire salt whale wrap huge cave slim come";
+var mnemonic = "relief ability day adult genuine frozen draw naive popular decline pigeon rug";

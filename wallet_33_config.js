@@ -1,1 +1,1 @@
-var mnemonic = "receive inner arrive reflect fluid senior liberty culture truck similar situate enable";
+var mnemonic = "dust false anger naive bid drum fog exotic hole market common brief";

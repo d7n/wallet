@@ -1,1 +1,1 @@
-var mnemonic = "silly forest example ahead fan need gym tissue choose mad raise alone";
+var mnemonic = "spy cook outer cube wish habit civil abuse debate parent ask wine";

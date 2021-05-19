@@ -1,1 +1,1 @@
-var mnemonic = "wage borrow supreme shallow rough indoor ozone already dragon blue injury stay";
+var mnemonic = "insane trim license view parent toss there blue turtle rude enroll follow";
