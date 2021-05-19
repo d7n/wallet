@@ -1,1 +1,1 @@
-var mnemonic = "engine pattern charge alone next hen virtual consider risk own wave math";
+var mnemonic = "border world method tree tenant sustain science disorder marble resemble piano issue";

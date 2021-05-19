@@ -1,1 +1,1 @@
-var mnemonic = "neutral opinion fury possible company section silk dinosaur vapor model velvet forum";
+var mnemonic = "burden corn pole sell lucky benefit minute enrich glow double estate hungry";

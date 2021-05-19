@@ -1,1 +1,1 @@
-var mnemonic = "crash refuse beef price welcome front pact click ocean drive picture truly";
+var mnemonic = "soda immune gym moon random sustain call soap spike before beauty scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige month dish onion crop abuse vote mix crazy planet banner drink";
+var mnemonic = "fabric vintage faculty urban rain ranch edit sunset throw provide devote brain";

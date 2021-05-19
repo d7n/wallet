@@ -1,1 +1,1 @@
-var mnemonic = "amateur knife express jungle federal text fiber canyon twist average elder target";
+var mnemonic = "bamboo miracle choice suffer pink tobacco sword tribe sight decrease harbor surprise";

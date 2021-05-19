@@ -1,1 +1,1 @@
-var mnemonic = "rich shuffle below pottery march method vivid type cup van enter trigger";
+var mnemonic = "two clump absent quit answer donkey want off goose duck comfort oppose";

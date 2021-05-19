@@ -1,1 +1,1 @@
-var mnemonic = "canal venture powder spawn quiz cushion feed mix pigeon mixture scan settle";
+var mnemonic = "scrub away frog image saddle catch used child solar snap march way";

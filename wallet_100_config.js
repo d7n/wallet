@@ -1,1 +1,1 @@
-var mnemonic = "believe near inflict pulse shell tip muscle endorse remove pelican concert oblige";
+var mnemonic = "much demise average mom sea pride symbol swap disagree business swallow imitate";

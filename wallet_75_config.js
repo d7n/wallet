@@ -1,1 +1,1 @@
-var mnemonic = "coyote twenty interest valve also tonight myself ethics elite second dust brave";
+var mnemonic = "magnet before fever ship movie enroll token hybrid dutch robot comic coral";

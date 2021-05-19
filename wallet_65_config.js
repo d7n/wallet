@@ -1,1 +1,1 @@
-var mnemonic = "penalty chaos maple badge canyon pupil bitter neck escape visit anxiety owner";
+var mnemonic = "youth denial execute gravity zero rifle palace prison antenna knife someone thank";

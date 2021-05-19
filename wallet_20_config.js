@@ -1,1 +1,1 @@
-var mnemonic = "raise salute harvest marriage mansion palm slice siren island immense uniform scan";
+var mnemonic = "feel congress glare reflect slender shiver biology found aim please document script";

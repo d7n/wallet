@@ -1,1 +1,1 @@
-var mnemonic = "brief badge ten denial feature economy paddle try film normal print sail";
+var mnemonic = "visit silver mirror desert reopen stool salmon sample first forward tuna obscure";

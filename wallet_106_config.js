@@ -1,1 +1,1 @@
-var mnemonic = "place cake penalty chest spoon canvas gun tobacco mail will joy because";
+var mnemonic = "find any venture remember guilt space student tourist truck uncle local skull";

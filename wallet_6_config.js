@@ -1,1 +1,1 @@
-var mnemonic = "coral auto castle nation document cross bachelor unique repair reform casino crime";
+var mnemonic = "enemy lucky hello together swift link crop aspect elegant awkward poet music";

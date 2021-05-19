@@ -1,1 +1,1 @@
-var mnemonic = "vanish floor art vocal base magic rival key salon satoshi art tape";
+var mnemonic = "example cliff outside antique occur room holiday region blur any together asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom pulp company saddle coin three rapid climb typical floor useful almost";
+var mnemonic = "labor episode cute output diet empty object metal mechanic chuckle cash subject";

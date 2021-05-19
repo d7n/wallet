@@ -1,1 +1,1 @@
-var mnemonic = "kingdom narrow antique glad infant olive permit old this away atom culture";
+var mnemonic = "sick unhappy oxygen remember code journey race thought myth shuffle balance mutual";

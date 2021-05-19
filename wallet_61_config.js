@@ -1,1 +1,1 @@
-var mnemonic = "radar room nominee combine pond squirrel spend coin spare round squeeze fiscal";
+var mnemonic = "price core next cloud print rib depart affair faculty sail forget lesson";

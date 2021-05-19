@@ -1,1 +1,1 @@
-var mnemonic = "idea under link donate kid school profit orchard film twenty estate task";
+var mnemonic = "guilt slender reform prosper sword easy comic range spin good glow horse";

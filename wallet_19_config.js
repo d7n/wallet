@@ -1,1 +1,1 @@
-var mnemonic = "online scatter taxi inspire civil shy give tank top make bacon thunder";
+var mnemonic = "phone pioneer journey tail three bind tortoise trigger drop valley lucky east";

@@ -1,1 +1,1 @@
-var mnemonic = "earth drum scan unfair holiday advance shift drift okay siege cake resist";
+var mnemonic = "bridge pioneer bitter cricket law diamond victory indicate detect receive maze labor";

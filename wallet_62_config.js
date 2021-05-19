@@ -1,1 +1,1 @@
-var mnemonic = "vacant arrange lawsuit midnight theme flag limit cannon invest raven search range";
+var mnemonic = "orbit rookie auto myth suffer subject bike warrior border negative amazing stage";

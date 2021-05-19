@@ -1,1 +1,1 @@
-var mnemonic = "void endless best when ship seed cigar half satisfy vacuum swamp consider";
+var mnemonic = "such hurry behind stumble artist original engine stadium skull poem pool quality";

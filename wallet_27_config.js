@@ -1,1 +1,1 @@
-var mnemonic = "flip cereal away speak junk sleep stamp select maximum word exotic screen";
+var mnemonic = "crystal detect disorder mirror lamp recipe clump mango fortune trophy episode core";

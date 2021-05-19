@@ -1,1 +1,1 @@
-var mnemonic = "state vital battle neck book repair elite razor exit civil mean seed";
+var mnemonic = "duck ride myself wolf hamster top best door click erode visual symbol";

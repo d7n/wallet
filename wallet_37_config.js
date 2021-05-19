@@ -1,1 +1,1 @@
-var mnemonic = "obtain clog surround cactus crunch twelve trap popular oblige also camp bitter";
+var mnemonic = "stadium meadow skin since source size cousin void pencil math peace slogan";

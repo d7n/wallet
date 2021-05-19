@@ -1,1 +1,1 @@
-var mnemonic = "spread hire cave dash climb muffin genre manage belt reject congress primary";
+var mnemonic = "potato top thought patch half harsh assist resist raise core tent weasel";

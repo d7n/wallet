@@ -1,1 +1,1 @@
-var mnemonic = "suit shine merge sad news defense impulse pottery horn glance settle exhibit";
+var mnemonic = "debate soap crew battle cannon crack cloth life mansion long wing kind";

@@ -1,1 +1,1 @@
-var mnemonic = "merge next ecology dignity rookie car inquiry dress roast mixture review sausage";
+var mnemonic = "night valley scrap basket manual chapter range help century abandon law bar";

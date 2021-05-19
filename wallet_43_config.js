@@ -1,1 +1,1 @@
-var mnemonic = "can zebra garlic twin nose area learn gesture obvious visit guard advice";
+var mnemonic = "various small speak inner vital penalty whisper suspect power enough mandate assume";

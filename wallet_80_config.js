@@ -1,1 +1,1 @@
-var mnemonic = "bridge forget still repeat result endless connect river air immune peace predict";
+var mnemonic = "van holiday novel anchor session siren shiver fine shield need tank depart";

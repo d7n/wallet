@@ -1,1 +1,1 @@
-var mnemonic = "dove day basic coil ill health grocery question ball book book jeans";
+var mnemonic = "exercise chef trigger school churn salmon prosper dumb almost response monkey lava";

@@ -1,1 +1,1 @@
-var mnemonic = "waste sweet cream canvas dilemma among fan unfold bounce ranch organ genius";
+var mnemonic = "tonight suggest believe avoid prefer okay trumpet empty stage giggle logic void";

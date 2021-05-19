@@ -1,1 +1,1 @@
-var mnemonic = "speed veteran thumb melt elbow radio upset lizard virtual gate peanut slab";
+var mnemonic = "badge tomorrow wing upset size trial venue cargo heavy clerk next become";

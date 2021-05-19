@@ -1,1 +1,1 @@
-var mnemonic = "toss later curious neglect buffalo strong surface online diagram ladder profit emotion";
+var mnemonic = "quality collect employ motor field inform panel ticket math achieve destroy verb";

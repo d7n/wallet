@@ -1,1 +1,1 @@
-var mnemonic = "scorpion snap sketch offer wrap nurse share possible evolve inject until require";
+var mnemonic = "chat rely wage keen swallow glimpse control seek anchor book loop avoid";

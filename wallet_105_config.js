@@ -1,1 +1,1 @@
-var mnemonic = "bomb height beyond trick puppy nut attend position physical give display extra";
+var mnemonic = "seek faculty salad youth grant bar ethics travel seat garment flat fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday clever correct slam orphan flip rug soup twist robust lyrics foil";
+var mnemonic = "point magnet butter course scatter elevator flee double basic hub banner paper";

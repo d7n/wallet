@@ -1,1 +1,1 @@
-var mnemonic = "tongue apple eye panther siege click gaze error mix rule cement abstract";
+var mnemonic = "knock clerk company mask robust number skill scrub party liar stereo manual";

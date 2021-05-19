@@ -1,1 +1,1 @@
-var mnemonic = "ranch chapter income mountain keen circle popular eager advice catalog aspect provide";
+var mnemonic = "wall oxygen scorpion squirrel family misery cabin local author dinosaur olive baby";

@@ -1,1 +1,1 @@
-var mnemonic = "clip total girl sample pen dog sell desert have virtual powder knock";
+var mnemonic = "roof bulk kite tornado pottery neither during trick tip pigeon trial correct";

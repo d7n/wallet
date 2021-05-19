@@ -1,1 +1,1 @@
-var mnemonic = "thumb flat ignore lizard canvas divert coral trouble margin strong layer toast";
+var mnemonic = "citizen amazing net edge explain lady endless way furnace always coin accuse";

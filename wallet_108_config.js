@@ -1,1 +1,1 @@
-var mnemonic = "canvas west crazy drum power desk obvious radar gather valley order voice";
+var mnemonic = "link client cabbage family state impulse salt library stamp object trial dune";

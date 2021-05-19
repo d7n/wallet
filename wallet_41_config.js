@@ -1,1 +1,1 @@
-var mnemonic = "such arm concert dinosaur divert dizzy sweet cherry civil robot steak symptom";
+var mnemonic = "program explain tail hard frequent metal sand device abandon main decline kit";

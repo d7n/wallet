@@ -1,1 +1,1 @@
-var mnemonic = "orchard learn million theory first library ramp paper tattoo cheese spring skull";
+var mnemonic = "domain debate elevator custom hard cross remember arch cube critic gain journey";

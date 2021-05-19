@@ -1,1 +1,1 @@
-var mnemonic = "timber put frame sick mother wool reflect midnight pulse silent lesson warm";
+var mnemonic = "dog walk ring nut country throw danger surprise fox view noodle author";

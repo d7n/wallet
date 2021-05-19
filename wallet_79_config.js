@@ -1,1 +1,1 @@
-var mnemonic = "vast habit slow horse reward motor giant judge news member armed beyond";
+var mnemonic = "auction lava glare ostrich furnace top polar scene family innocent hand glimpse";

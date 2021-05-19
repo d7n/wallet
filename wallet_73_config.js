@@ -1,1 +1,1 @@
-var mnemonic = "enact olive custom squeeze alert hand sample height chapter discover member pepper";
+var mnemonic = "trouble armed degree surround fit choose discover cradle glass wasp arm ready";

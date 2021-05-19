@@ -1,1 +1,1 @@
-var mnemonic = "midnight decade busy sentence stadium define spread barely clog situate entry fence";
+var mnemonic = "april pledge steel noodle crystal brief length sad mesh ball stereo nest";

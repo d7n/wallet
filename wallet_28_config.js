@@ -1,1 +1,1 @@
-var mnemonic = "shiver help miss control issue effort crash enable candy sail mutual wheel";
+var mnemonic = "enemy climb good noodle snow entire guess buyer deer parade spirit inhale";

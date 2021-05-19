@@ -1,1 +1,1 @@
-var mnemonic = "awake version firm party rely hidden assume follow era unit quarter weekend";
+var mnemonic = "cover figure curious mushroom switch dad mobile rug mobile hobby lawsuit fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "embark undo rent build able you system town bargain magic awake around";
+var mnemonic = "sweet enter false winter begin desert recall joke curious odor repeat label";

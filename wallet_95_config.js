@@ -1,1 +1,1 @@
-var mnemonic = "cart update review output flavor couple clump extend menu series size rotate";
+var mnemonic = "spring harvest adult exile super lunar basket easy thumb motor hover apple";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain manage nut phone drop perfect shoulder true patient evolve essence subway";
+var mnemonic = "room obscure under case butter husband scheme stable ecology topple gown inch";

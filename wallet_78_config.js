@@ -1,1 +1,1 @@
-var mnemonic = "warfare material tank dash bulb repeat smile sponsor panda wood click topple";
+var mnemonic = "print over slogan blind tilt wild mule patch explain exclude suggest summer";

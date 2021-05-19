@@ -1,1 +1,1 @@
-var mnemonic = "vacant cruise profit betray mule foil knee version destroy text option vacuum";
+var mnemonic = "hint inherit mirror middle salute dust whisper pave motor calm parent grocery";

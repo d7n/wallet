@@ -1,1 +1,1 @@
-var mnemonic = "settle lobster vague wool trouble unfair increase fossil remember couch blade rude";
+var mnemonic = "effort custom winter room donor inhale adapt sunset usage into coin total";

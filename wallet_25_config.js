@@ -1,1 +1,1 @@
-var mnemonic = "hockey alert giant learn rather scan gate also absent firm circle kick";
+var mnemonic = "bonus neither pride estate virus voyage lawn observe office clip hold provide";

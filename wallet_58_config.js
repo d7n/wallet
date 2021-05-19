@@ -1,1 +1,1 @@
-var mnemonic = "stomach awesome polar furnace elite nuclear shadow behave ritual thing raw sustain";
+var mnemonic = "coconut fetch fever also buyer bind roast acoustic already correct pipe onion";

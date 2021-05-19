@@ -1,1 +1,1 @@
-var mnemonic = "review gorilla life wealth couch balcony middle act teach bargain define summer";
+var mnemonic = "odor inherit fun next embark apple purse adult diesel volume lawsuit render";

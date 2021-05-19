@@ -1,1 +1,1 @@
-var mnemonic = "couple myth rely ride refuse sight mutual piano connect clay exit struggle";
+var mnemonic = "bracket crucial image rather defy talk any switch state title broom liberty";

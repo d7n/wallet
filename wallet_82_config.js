@@ -1,1 +1,1 @@
-var mnemonic = "canvas corn razor bean scare picnic brown method wagon citizen artist section";
+var mnemonic = "all snap dream right refuse large pair average toward project travel cream";

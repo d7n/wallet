@@ -1,1 +1,1 @@
-var mnemonic = "bottom risk achieve luggage deputy marble unit wrap truck idle basket wrist";
+var mnemonic = "casino real alpha ability mail fury ridge inch snake employ release choice";

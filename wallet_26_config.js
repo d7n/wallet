@@ -1,1 +1,1 @@
-var mnemonic = "weather recipe myth more noise between tissue alpha pipe cup key cover";
+var mnemonic = "small student flee earth mass cost edge youth accuse rival dash play";

@@ -1,1 +1,1 @@
-var mnemonic = "purity color sign decorate force machine orange scorpion enter sentence someone hole";
+var mnemonic = "evoke forest march amateur account spice rural autumn dose endorse slot skull";

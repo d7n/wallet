@@ -1,1 +1,1 @@
-var mnemonic = "prefer seminar stay rural joy car enlist document owner farm vanish notice";
+var mnemonic = "buddy puzzle dwarf stuff truck lend kitchen afford impulse symbol kind link";

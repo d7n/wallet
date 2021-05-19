@@ -1,1 +1,1 @@
-var mnemonic = "crucial left stem despair announce ozone trim salt allow kitten praise gift";
+var mnemonic = "cost catch flee glare husband settle follow camera then core topple typical";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot have verb marine stick swap couple glimpse picnic claw route wait";
+var mnemonic = "lock embody pen scale oxygen nurse erase income vapor tomorrow grief give";

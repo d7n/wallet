@@ -1,1 +1,1 @@
-var mnemonic = "yard rescue jump cotton input orange job head mention vacant penalty family";
+var mnemonic = "width ostrich story emotion black artefact essence square empty example enter blade";

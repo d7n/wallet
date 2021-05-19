@@ -1,1 +1,1 @@
-var mnemonic = "slim skin weasel gentle evidence weird scorpion vanish initial dynamic apology term";
+var mnemonic = "brisk upset insect energy icon owner just curtain corn assume gloom addict";

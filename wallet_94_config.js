@@ -1,1 +1,1 @@
-var mnemonic = "try gown camera impact spike call zebra impose vanish there federal rice";
+var mnemonic = "used noble bag tape still anger hair purpose ocean horse rebuild aisle";

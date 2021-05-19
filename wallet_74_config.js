@@ -1,1 +1,1 @@
-var mnemonic = "border ridge shiver mixture unique knock then panda exhibit panel social bag";
+var mnemonic = "door impact wreck soda sun gaze comic clutch horror color rural improve";

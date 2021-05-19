@@ -1,1 +1,1 @@
-var mnemonic = "broom destroy hurdle rather estate zoo hundred subject inside grain left biology";
+var mnemonic = "lonely poverty marriage rally trend exact save fog bless sugar rebel ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "mix risk order trial grab pottery title reopen argue document advance mix";
+var mnemonic = "thing swap rough jump bird come soda acquire morning outside topic clarify";

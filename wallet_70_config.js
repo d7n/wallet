@@ -1,1 +1,1 @@
-var mnemonic = "put vapor deal cry rally vague patrol brief inspire wrap rival present";
+var mnemonic = "gym resemble still cream they say eye near country suffer nephew burden";

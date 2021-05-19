@@ -1,1 +1,1 @@
-var mnemonic = "assault wage business culture promote govern sunny marble symbol cross alone deny";
+var mnemonic = "govern copy radar win fresh best lab misery family armed cannon impulse";

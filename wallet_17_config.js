@@ -1,1 +1,1 @@
-var mnemonic = "social person fatigue glimpse offer drastic height tray spare shallow actress torch";
+var mnemonic = "frown trend license solid joke medal jewel excess vintage yard mixed miracle";

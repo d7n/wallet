@@ -1,1 +1,1 @@
-var mnemonic = "film awful axis seek kick fury weather grow manage make multiply soldier";
+var mnemonic = "offer planet develop monster inspire pioneer immune swallow addict tank cotton machine";

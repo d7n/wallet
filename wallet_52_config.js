@@ -1,1 +1,1 @@
-var mnemonic = "awesome list fabric meadow maximum harbor luggage nation bargain candy ugly jazz";
+var mnemonic = "noise sound fabric agree warm also smooth roof much vote buffalo carry";

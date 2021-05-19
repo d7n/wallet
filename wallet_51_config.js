@@ -1,1 +1,1 @@
-var mnemonic = "forum glide fine gym repeat save grow toast citizen dignity country tent";
+var mnemonic = "control draft own stem history fetch library churn author cable spatial exit";

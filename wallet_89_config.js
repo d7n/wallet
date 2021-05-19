@@ -1,1 +1,1 @@
-var mnemonic = "journey text lesson sniff donate run must item popular soap write pair";
+var mnemonic = "evil install scorpion stick valve connect net alien decorate nurse cancel people";

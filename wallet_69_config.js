@@ -1,1 +1,1 @@
-var mnemonic = "fiction enter buffalo ship law bamboo purse ski scatter warfare spy barely";
+var mnemonic = "surface erase dinner aunt tobacco describe memory intact spray bridge craft pull";

@@ -1,1 +1,1 @@
-var mnemonic = "floor hungry deny donate thing predict universe twice crazy marble dad execute";
+var mnemonic = "enlist brain quarter loyal raven narrow toast pattern degree bargain party usage";

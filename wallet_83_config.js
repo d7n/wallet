@@ -1,1 +1,1 @@
-var mnemonic = "axis artist harsh edit sport inhale right point chronic piano involve select";
+var mnemonic = "enlist energy sponsor basket erode caught doctor gym casino sure profit onion";

@@ -1,1 +1,1 @@
-var mnemonic = "oven sport purse organ chair project shallow barely stadium vicious agree example";
+var mnemonic = "swear napkin hedgehog race film nerve shift across gap into loyal nation";

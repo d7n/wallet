@@ -1,1 +1,1 @@
-var mnemonic = "silver garment balcony trophy frozen cinnamon rival visual impulse goose pulse bacon";
+var mnemonic = "master romance glow brush royal original true grit claim holiday innocent buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "normal survey proud believe hint giraffe cliff water decrease arrange grab forest";
+var mnemonic = "region home thought green torch present dirt debate dash swamp wonder bargain";

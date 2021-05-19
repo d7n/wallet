@@ -1,1 +1,1 @@
-var mnemonic = "man pioneer dinner history predict marble praise neck soul shed limit vote";
+var mnemonic = "easily pelican swamp aim vote when sand pistol globe pitch clock double";

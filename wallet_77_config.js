@@ -1,1 +1,1 @@
-var mnemonic = "audit gas blood dish conduct estate wrap parade keep match lake depart";
+var mnemonic = "police carbon grocery myself solar input dilemma exist hunt require soul tonight";

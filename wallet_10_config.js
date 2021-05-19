@@ -1,1 +1,1 @@
-var mnemonic = "fog permit truly humble cushion upper sign marble release random acid brush";
+var mnemonic = "foot spy cannon mass during cat mad album room bonus core barrel";

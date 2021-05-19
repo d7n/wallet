@@ -1,1 +1,1 @@
-var mnemonic = "skull keep female benefit nice dilemma lend garment shove ranch team end";
+var mnemonic = "reform plastic push transfer bicycle vibrant video boss nuclear panel assist lunar";
