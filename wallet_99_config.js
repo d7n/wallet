@@ -1,1 +1,1 @@
-var mnemonic = "thrive stock humor design host bacon audit rotate vehicle flush prevent toilet";
+var mnemonic = "avoid vintage number flag deputy flag rate sign robot survey spend home";

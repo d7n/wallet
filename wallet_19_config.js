@@ -1,1 +1,1 @@
-var mnemonic = "muffin mystery praise champion eagle main submit mango maze actress leg crater";
+var mnemonic = "width holiday frown ahead earth flame pet absurd vendor maid nice easily";

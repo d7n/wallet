@@ -1,1 +1,1 @@
-var mnemonic = "forum second sleep gloom genius acquire wet shell brush enjoy rude street";
+var mnemonic = "upper expand carry now school scheme flee excuse option fantasy suggest core";

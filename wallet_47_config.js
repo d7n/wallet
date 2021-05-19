@@ -1,1 +1,1 @@
-var mnemonic = "drift frog entry gain derive wire federal brush profit doctor flame enroll";
+var mnemonic = "foam plate polar pride require joke genuine warfare elbow pelican make food";

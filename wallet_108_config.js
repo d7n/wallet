@@ -1,1 +1,1 @@
-var mnemonic = "social reopen slot artefact excuse beyond file media vintage cluster waste crush";
+var mnemonic = "sadness large loyal husband gold gown truck fragile print case gym have";

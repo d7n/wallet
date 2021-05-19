@@ -1,1 +1,1 @@
-var mnemonic = "invest wise destroy gold donor barely tree neck spread trigger rhythm mirror";
+var mnemonic = "faith also keep veteran movie rebel salon prize chair frown head wrestle";

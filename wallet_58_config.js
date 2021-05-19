@@ -1,1 +1,1 @@
-var mnemonic = "call afraid seminar model inject awesome banana vocal steel return saddle feature";
+var mnemonic = "dice topic mosquito across south cover entire lemon badge behave forum dove";

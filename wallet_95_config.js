@@ -1,1 +1,1 @@
-var mnemonic = "trend craft cupboard source script leave turtle peasant hole stairs hidden erase";
+var mnemonic = "brick device because message jealous above topic giggle huge expand will casual";

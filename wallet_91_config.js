@@ -1,1 +1,1 @@
-var mnemonic = "gift hope giraffe senior play company record fold syrup river defy easily";
+var mnemonic = "public force disagree dismiss gossip blame buffalo evoke antenna skill stem picture";

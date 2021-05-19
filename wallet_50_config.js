@@ -1,1 +1,1 @@
-var mnemonic = "pistol cost anchor file true kingdom mushroom husband universe replace cat leave";
+var mnemonic = "lion urban will crime arena combine federal intact sustain action caught curve";

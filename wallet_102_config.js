@@ -1,1 +1,1 @@
-var mnemonic = "blush torch quality episode during solid insect valley actress useful voyage fancy";
+var mnemonic = "spy pelican vicious planet valley exact stand fever corn number garlic page";

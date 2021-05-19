@@ -1,1 +1,1 @@
-var mnemonic = "symbol card spatial marble topple behind wrong custom vehicle empty comfort finish";
+var mnemonic = "boy mouse peasant habit monitor embark kidney play later fat coach alien";

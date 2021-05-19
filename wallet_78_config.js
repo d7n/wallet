@@ -1,1 +1,1 @@
-var mnemonic = "equal year coin retire desk select search define team vote real alter";
+var mnemonic = "will cream rebuild second road budget acquire idea quote bronze table alcohol";

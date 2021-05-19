@@ -1,1 +1,1 @@
-var mnemonic = "work turkey meadow life scrap bamboo focus crucial bachelor canoe tail lawsuit";
+var mnemonic = "buddy carry address input gossip skill replace together daring desert youth shoot";

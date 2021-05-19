@@ -1,1 +1,1 @@
-var mnemonic = "smile stand hen post snake capable witness insect improve blind turkey since";
+var mnemonic = "guilt bone verify typical burger party worth leisure success access crucial sting";

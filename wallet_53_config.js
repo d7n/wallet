@@ -1,1 +1,1 @@
-var mnemonic = "left blast razor entire six frown purpose laptop bulb evidence list draw";
+var mnemonic = "patrol poverty risk scale common buffalo wish kitchen negative lobster trap flock";

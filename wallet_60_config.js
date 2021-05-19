@@ -1,1 +1,1 @@
-var mnemonic = "van light wide wonder mushroom there fiscal syrup final skate demise transfer";
+var mnemonic = "focus exchange pelican carry burden hospital goat flip thank okay series enemy";

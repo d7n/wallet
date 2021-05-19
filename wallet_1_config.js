@@ -1,1 +1,1 @@
-var mnemonic = "gas sure ripple syrup width check poet news weird mimic miss awake";
+var mnemonic = "latin damage way inhale defy genius dolphin ability decline hope multiply swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "talk ancient fluid axis miracle museum primary life tribe roof fruit fashion";
+var mnemonic = "burst organ replace west party feel neck rally broom fiction all valid";

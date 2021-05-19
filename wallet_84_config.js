@@ -1,1 +1,1 @@
-var mnemonic = "love history point require fitness ethics this power foster ancient another palace";
+var mnemonic = "level corn universe ankle review invite sell pudding detect blanket market autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "measure private fabric jealous useful drum cliff physical steel divert zoo pen";
+var mnemonic = "element exact breeze umbrella win orange very skate lawsuit across giraffe actor";

@@ -1,1 +1,1 @@
-var mnemonic = "club hill fire elephant response plate dinosaur century brain mercy minute type";
+var mnemonic = "angle fix kid trouble chalk rhythm worth other critic turn guide asset";

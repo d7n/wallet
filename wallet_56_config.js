@@ -1,1 +1,1 @@
-var mnemonic = "feature crisp problem genius fragile must thrive uniform announce merry group kiwi";
+var mnemonic = "empty chief foster choice marriage uniform century pet toilet woman main artefact";

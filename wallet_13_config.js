@@ -1,1 +1,1 @@
-var mnemonic = "join flush bachelor ice retire spike step advance high copper author bring";
+var mnemonic = "maple supreme trust final hold pizza display betray lottery ready base split";

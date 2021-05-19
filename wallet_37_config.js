@@ -1,1 +1,1 @@
-var mnemonic = "warm eagle rain eyebrow speed forum pig stamp street road kind use";
+var mnemonic = "poem bitter thunder peasant act wild monkey scorpion argue matrix hotel culture";

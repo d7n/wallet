@@ -1,1 +1,1 @@
-var mnemonic = "mention woman dizzy catch gain bicycle dust rate shield short divide bachelor";
+var mnemonic = "ginger budget limb angry female unlock neither tenant reason fatigue country crunch";

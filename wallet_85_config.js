@@ -1,1 +1,1 @@
-var mnemonic = "trial excite need lobster shadow vacant drift tattoo romance rug secret year";
+var mnemonic = "series help add spot material scorpion base achieve enemy unveil great another";

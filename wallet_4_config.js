@@ -1,1 +1,1 @@
-var mnemonic = "hat twice prefer bless inhale team trash loan enroll goddess judge object";
+var mnemonic = "mention addict smoke cable loyal forest address sound mind adult chest ten";

@@ -1,1 +1,1 @@
-var mnemonic = "blush explain river material afford note seat together near marine wire other";
+var mnemonic = "order cloth humor attack luggage logic knee impose fiber cattle quote soft";

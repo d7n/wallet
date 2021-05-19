@@ -1,1 +1,1 @@
-var mnemonic = "current code knock enlist veteran noise drift genre remove occur fee raccoon";
+var mnemonic = "gauge art mule hunt summer try october image amount napkin release agent";

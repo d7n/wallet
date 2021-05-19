@@ -1,1 +1,1 @@
-var mnemonic = "balcony also anchor desk image century small limit proof stairs arrest kid";
+var mnemonic = "feel camp globe strategy mesh farm good thing correct slow obtain large";

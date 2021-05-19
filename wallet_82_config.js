@@ -1,1 +1,1 @@
-var mnemonic = "ignore sauce zebra museum thought term antenna blast virus yard harsh shield";
+var mnemonic = "rigid weather stumble nation artist girl worry address cable ozone large option";

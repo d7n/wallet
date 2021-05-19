@@ -1,1 +1,1 @@
-var mnemonic = "rich fold sport despair this summer prefer runway mixture electric mutual thought";
+var mnemonic = "sunset margin nephew summer increase grief adult swing pottery bundle maze replace";

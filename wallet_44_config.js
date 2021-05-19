@@ -1,1 +1,1 @@
-var mnemonic = "notice opinion coin cinnamon broom phrase prevent already peasant sense verify art";
+var mnemonic = "letter exercise caution isolate sister true announce barrel room sick project claim";

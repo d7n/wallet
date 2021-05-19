@@ -1,1 +1,1 @@
-var mnemonic = "enrich square toward scheme earn smooth suggest avocado negative misery wonder deliver";
+var mnemonic = "depth other sunset ceiling draw wisdom own sing detail kind lunar deposit";

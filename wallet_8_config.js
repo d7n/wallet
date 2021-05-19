@@ -1,1 +1,1 @@
-var mnemonic = "maid brand dose inherit idea muscle rib bone maple myth debris tobacco";
+var mnemonic = "wall immune sunset exact isolate crowd open join benefit either maple actor";

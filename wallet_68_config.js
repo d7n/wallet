@@ -1,1 +1,1 @@
-var mnemonic = "remember hard lemon despair brand waste call fashion where decade relax unable";
+var mnemonic = "assist that garage wealth captain crystal main certain reason north spread demand";

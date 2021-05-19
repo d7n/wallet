@@ -1,1 +1,1 @@
-var mnemonic = "author stay jaguar legend panda bright drum pigeon trend tower focus drive";
+var mnemonic = "burger vital nut coyote best curtain child stumble orphan rural point taxi";

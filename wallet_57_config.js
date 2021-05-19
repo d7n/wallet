@@ -1,1 +1,1 @@
-var mnemonic = "save aim film short solid walnut pumpkin funny issue reunion exhaust tunnel";
+var mnemonic = "bag feel neutral dust turkey outer hammer wide answer absorb reflect stone";

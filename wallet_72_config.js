@@ -1,1 +1,1 @@
-var mnemonic = "injury glove ask boss quote elegant capable ability angle walnut viable pattern";
+var mnemonic = "bird isolate acquire ceiling whisper lamp radio bike naive surface celery obscure";

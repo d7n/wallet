@@ -1,1 +1,1 @@
-var mnemonic = "trick final bus jungle drift leg elevator leaf canvas develop struggle knife";
+var mnemonic = "sound post weather three flag royal gift vehicle special few void chair";

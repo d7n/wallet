@@ -1,1 +1,1 @@
-var mnemonic = "diet upon cattle close enter milk wave vanish punch toy scout luxury";
+var mnemonic = "between nice put struggle region waste twenty vague dizzy eyebrow skin antenna";

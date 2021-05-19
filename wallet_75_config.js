@@ -1,1 +1,1 @@
-var mnemonic = "dragon guide ripple addict human charge fence rocket noise coast baby clerk";
+var mnemonic = "glory expire punch engine shiver oval when glory fluid toddler unfair crystal";

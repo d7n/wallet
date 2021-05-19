@@ -1,1 +1,1 @@
-var mnemonic = "ranch produce chef welcome monitor address shove chair shaft crush kiss neither";
+var mnemonic = "will flower bright patch anxiety two lobster mechanic reason soldier secret beauty";

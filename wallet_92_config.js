@@ -1,1 +1,1 @@
-var mnemonic = "update edit tower churn city inner inflict elevator minimum pull need where";
+var mnemonic = "false foil road eight swamp employ leg frame eyebrow reduce spawn visa";

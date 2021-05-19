@@ -1,1 +1,1 @@
-var mnemonic = "fold tongue canal aisle cloud trap lion tribe junior waste unknown fit";
+var mnemonic = "usual cabbage major roast rare vicious glare ridge useful upper print token";

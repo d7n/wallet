@@ -1,1 +1,1 @@
-var mnemonic = "album network canoe add rack scheme second toss garbage machine stamp stage";
+var mnemonic = "digital today win infant motor better group exhibit reveal disorder friend prosper";

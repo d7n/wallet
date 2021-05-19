@@ -1,1 +1,1 @@
-var mnemonic = "bright regret deal derive ball thank spirit culture blind chest autumn neither";
+var mnemonic = "wood maple naive van manage fiber cattle ostrich cargo surge marble critic";

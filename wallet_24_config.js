@@ -1,1 +1,1 @@
-var mnemonic = "loop photo answer conduct tribe motor heart special recall kid lesson maple";
+var mnemonic = "cancel uncover decade measure code nurse number movie monster script design draw";

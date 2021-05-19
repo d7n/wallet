@@ -1,1 +1,1 @@
-var mnemonic = "grow bone sketch night tissue fence solution random decrease cash record ketchup";
+var mnemonic = "pull apple knee eyebrow suggest wall interest mesh wing modify crisp cash";

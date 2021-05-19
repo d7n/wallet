@@ -1,1 +1,1 @@
-var mnemonic = "job chaos gym absurd resemble follow defy ranch country warrior involve faint";
+var mnemonic = "couch cycle pool calm glimpse grow pigeon alpha change human dinner subject";

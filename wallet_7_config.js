@@ -1,1 +1,1 @@
-var mnemonic = "captain inhale flame essay dune pioneer city ancient announce pear fence hire";
+var mnemonic = "bitter liar clog fuel admit february debris equal box hover creek inner";

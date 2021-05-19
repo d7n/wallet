@@ -1,1 +1,1 @@
-var mnemonic = "put survey jazz solution cruel cry ribbon useful badge raven craft often";
+var mnemonic = "soon best cattle beauty whale choose elite clever firm erase child dad";

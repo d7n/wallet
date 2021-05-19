@@ -1,1 +1,1 @@
-var mnemonic = "regular march air exchange olympic cousin glue tape become cheese shoot shuffle";
+var mnemonic = "gift whisper usage vendor leave stem oak crater busy throw gather aware";

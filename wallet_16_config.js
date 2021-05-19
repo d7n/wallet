@@ -1,1 +1,1 @@
-var mnemonic = "galaxy pattern suspect breeze noble usage report soccer buffalo spy material cart";
+var mnemonic = "badge argue priority diagram rabbit behave dumb until eight security split dinosaur";

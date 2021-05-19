@@ -1,1 +1,1 @@
-var mnemonic = "ball shell carry speed advance frozen witness gadget achieve push garbage ship";
+var mnemonic = "spoon dish faint ocean morning addict youth cry receive consider credit spider";

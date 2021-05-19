@@ -1,1 +1,1 @@
-var mnemonic = "become need genre swing radar pool digital call they similar bracket rhythm";
+var mnemonic = "cycle real intact antique unfold quick now knee crop debris universe rocket";

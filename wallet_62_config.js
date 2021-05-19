@@ -1,1 +1,1 @@
-var mnemonic = "weapon giggle paddle tree father denial auto abuse spirit chunk midnight blue";
+var mnemonic = "travel wrap oblige use later slender problem drum property payment dutch output";

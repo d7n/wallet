@@ -1,1 +1,1 @@
-var mnemonic = "ceiling change warm planet reveal bone switch matrix book tube broom govern";
+var mnemonic = "present dinosaur firm guilt wonder oil siege multiply fat mean honey poverty";

@@ -1,1 +1,1 @@
-var mnemonic = "canal civil senior grid quiz neither coach casual omit defense aspect label";
+var mnemonic = "turn ramp cheese result enough payment tortoise million put device ordinary jump";

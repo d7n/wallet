@@ -1,1 +1,1 @@
-var mnemonic = "assume identify powder happy double gauge good veteran egg toy urge stem";
+var mnemonic = "grit atom rather antenna market symptom apple game motor safe brisk globe";

@@ -1,1 +1,1 @@
-var mnemonic = "glance short base bonus luxury knife flip pear swallow fever network learn";
+var mnemonic = "word fault suffer half dose cycle gravity hope afford hybrid disease impulse";

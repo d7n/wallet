@@ -1,1 +1,1 @@
-var mnemonic = "dumb tenant improve erode water daughter bus income east choice course total";
+var mnemonic = "muffin twice need during three have surprise oppose miss kidney awkward street";

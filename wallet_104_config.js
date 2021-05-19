@@ -1,1 +1,1 @@
-var mnemonic = "slight bracket amused point flat silver person radio clap defy you enough";
+var mnemonic = "wolf raccoon portion want aisle frost suspect wife lens pipe dirt tide";

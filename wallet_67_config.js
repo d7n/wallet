@@ -1,1 +1,1 @@
-var mnemonic = "romance label kid drop hope number route garage mirror banana raise wreck";
+var mnemonic = "habit nurse choice lava punch parrot leader music broken copy police busy";

@@ -1,1 +1,1 @@
-var mnemonic = "label cause report fire remind link birth cattle travel ice confirm claim";
+var mnemonic = "vote noble kiwi tiny voyage useless ancient cake toss screen abandon banana";

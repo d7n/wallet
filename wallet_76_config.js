@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin round predict tank fury neck endless harbor over kitchen cricket neither";
+var mnemonic = "eye certain wedding mesh finish they blind math inform broom lava victory";

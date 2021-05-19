@@ -1,1 +1,1 @@
-var mnemonic = "rely mutual wait again person exist keep coffee donor sorry ecology easy";
+var mnemonic = "desert vague hurdle evoke strike grace model family emotion physical lazy mask";

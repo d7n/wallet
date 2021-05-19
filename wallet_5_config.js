@@ -1,1 +1,1 @@
-var mnemonic = "near place gospel marriage abuse path forest success mercy artist gadget saddle";
+var mnemonic = "tired someone reason novel release black sport theory rebel direct attract dose";

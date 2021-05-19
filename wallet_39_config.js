@@ -1,1 +1,1 @@
-var mnemonic = "peace debris silk win trade idea alert emotion busy area unhappy phrase";
+var mnemonic = "street market arrow clarify jacket usual ivory clarify frozen south glance inspire";

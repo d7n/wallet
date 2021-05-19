@@ -1,1 +1,1 @@
-var mnemonic = "crazy long arctic custom case river flush enter goat solar cement fitness";
+var mnemonic = "gate strategy sweet thank wheel resemble exit dirt wine settle crack deliver";

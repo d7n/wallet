@@ -1,1 +1,1 @@
-var mnemonic = "innocent enjoy carpet resemble camp door kingdom unveil decline scrub noodle river";
+var mnemonic = "warfare neck scheme oven claim logic fantasy hawk speed sugar rather kidney";

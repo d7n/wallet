@@ -1,1 +1,1 @@
-var mnemonic = "about fashion scrub stone glance pipe rack limb cabbage valid sibling moment";
+var mnemonic = "spray fatigue reduce mechanic infant boy sun clip actor thunder tribe yard";

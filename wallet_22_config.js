@@ -1,1 +1,1 @@
-var mnemonic = "inquiry arrive laugh life lunch interest tourist accident unlock strike siege relief";
+var mnemonic = "sentence bottom ghost equal panic next bracket bread super label arrest envelope";

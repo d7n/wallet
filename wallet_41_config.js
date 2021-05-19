@@ -1,1 +1,1 @@
-var mnemonic = "learn injury fossil lunch view couch pistol neck patient soda envelope cheese";
+var mnemonic = "boy warfare gold country raccoon toe problem old gather twin matrix title";

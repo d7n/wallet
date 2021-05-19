@@ -1,1 +1,1 @@
-var mnemonic = "narrow boat flush jaguar topic disagree please install seven first world join";
+var mnemonic = "unfair thing palace dentist coil sand planet airport boss spatial bacon winner";

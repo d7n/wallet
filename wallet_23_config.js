@@ -1,1 +1,1 @@
-var mnemonic = "stumble danger river denial rare gaze famous reward detail floor quote denial";
+var mnemonic = "aspect spatial trust test wool electric smart normal word label scorpion shift";

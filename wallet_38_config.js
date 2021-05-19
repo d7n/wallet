@@ -1,1 +1,1 @@
-var mnemonic = "audit swarm teach edge neglect equip aisle bird flame bring pluck nurse";
+var mnemonic = "exotic scheme then shove behave weapon isolate energy base type vibrant tray";

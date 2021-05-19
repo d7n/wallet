@@ -1,1 +1,1 @@
-var mnemonic = "model jaguar dice session floor absorb lawn remember survey key guilt rich";
+var mnemonic = "upgrade dove team pattern just female bone goose erode universe trust boring";

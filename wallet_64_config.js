@@ -1,1 +1,1 @@
-var mnemonic = "guide unfold view kit group flight claw mass champion junk write hurt";
+var mnemonic = "imitate rely age pear antenna alien you online bright gravity side mammal";

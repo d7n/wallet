@@ -1,1 +1,1 @@
-var mnemonic = "depart rural fruit raven search giraffe rich diagram blue riot front degree";
+var mnemonic = "garbage cricket gold fix trade couple onion order wear indicate ladder punch";

@@ -1,1 +1,1 @@
-var mnemonic = "tray limb pact mouse oil rotate whip solid method pigeon interest still";
+var mnemonic = "rubber client debate vibrant lady client submit civil super urban net perfect";

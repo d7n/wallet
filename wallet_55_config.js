@@ -1,1 +1,1 @@
-var mnemonic = "hungry iron bubble large lemon trouble vanish lift place bridge tide chronic";
+var mnemonic = "excuse mimic cave coffee solar maid expire heavy thrive unaware submit edge";

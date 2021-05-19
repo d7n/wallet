@@ -1,1 +1,1 @@
-var mnemonic = "interest snake minute crater net finger flat wagon deer winter until sun";
+var mnemonic = "exist yard write tiny always evil idea replace vicious post hood effort";

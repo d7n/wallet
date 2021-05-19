@@ -1,1 +1,1 @@
-var mnemonic = "domain random laptop oppose wonder noodle document opera labor assault mammal woman";
+var mnemonic = "dumb quick approve dice eye trip casual regular limb feed dizzy armor";

@@ -1,1 +1,1 @@
-var mnemonic = "supply equip diet hidden lecture cute rich helmet donkey clump giraffe expire";
+var mnemonic = "venue page strike snap trust turn dry language differ kiwi tortoise fragile";

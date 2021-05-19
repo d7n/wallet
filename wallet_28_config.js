@@ -1,1 +1,1 @@
-var mnemonic = "ginger amount snap pitch outdoor manual provide illness agent evil hint shy";
+var mnemonic = "army lunar round shrimp tide scare air work hamster track educate stove";

@@ -1,1 +1,1 @@
-var mnemonic = "govern decrease script canyon egg jealous train whisper flat trigger doll gate";
+var mnemonic = "movie because dignity dose soap process rival grass path cycle decrease month";

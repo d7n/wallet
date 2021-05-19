@@ -1,1 +1,1 @@
-var mnemonic = "stamp multiply foil blouse venue general vivid owner enough stone barrel million";
+var mnemonic = "lumber soon consider reunion victory letter stomach liquid note picture dawn bright";

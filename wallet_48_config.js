@@ -1,1 +1,1 @@
-var mnemonic = "antique chimney olympic balance hidden tower side rice spring grief under corn";
+var mnemonic = "man hole resource actress ankle devote boss plate phone slice company casino";

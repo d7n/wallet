@@ -1,1 +1,1 @@
-var mnemonic = "become bounce toast pact abandon number mutual cereal dry cave library tuna";
+var mnemonic = "what clever warfare owner holiday limit shiver melody size laugh humble word";

@@ -1,1 +1,1 @@
-var mnemonic = "room method debate invite stem delay gap modify erase flag pipe motor";
+var mnemonic = "chicken gather picture gate journey worry false smoke pet flag talent join";

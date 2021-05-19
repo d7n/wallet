@@ -1,1 +1,1 @@
-var mnemonic = "walk album cool alarm supply jar cinnamon carpet palace bid column clean";
+var mnemonic = "collect conduct vault auction face able pyramid ranch eight flee pulse labor";
