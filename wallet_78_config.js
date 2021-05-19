@@ -1,1 +1,1 @@
-var mnemonic = "amazing frost yellow measure donkey access tilt team bachelor together merit soft";
+var mnemonic = "misery unfair crouch sand victory peasant license moment size boil breeze ramp";

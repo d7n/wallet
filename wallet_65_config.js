@@ -1,1 +1,1 @@
-var mnemonic = "bitter swallow seminar misery inform face trouble rifle famous vocal cave parent";
+var mnemonic = "cinnamon tent lawn report start agree atom elegant moral sugar plunge cattle";

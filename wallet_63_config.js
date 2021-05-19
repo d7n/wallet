@@ -1,1 +1,1 @@
-var mnemonic = "put gather rally forget pond pig quality save abandon maximum issue setup";
+var mnemonic = "tool obey silly little remain key submit target march leopard dilemma dish";

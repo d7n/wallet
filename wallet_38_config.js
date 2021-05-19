@@ -1,1 +1,1 @@
-var mnemonic = "denial rail body among powder oxygen horse vast sauce acid control dutch";
+var mnemonic = "color visual fee sure present cluster quit review nest stand flight valley";

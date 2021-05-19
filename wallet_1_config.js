@@ -1,1 +1,1 @@
-var mnemonic = "alcohol diamond tool execute oxygen visual zoo credit sauce jacket level hand";
+var mnemonic = "negative zone cram fever aunt release vanish lounge first salon solar trick";

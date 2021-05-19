@@ -1,1 +1,1 @@
-var mnemonic = "equal enforce enrich grocery bird chaos exit bird gravity private picnic initial";
+var mnemonic = "egg broccoli finger license drastic work tool unable elephant second settle small";

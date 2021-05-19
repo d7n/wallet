@@ -1,1 +1,1 @@
-var mnemonic = "mom very flip sniff predict know outside forward sleep veteran unfold off";
+var mnemonic = "major siege any tiger kind seed decade fatal family grit arm share";

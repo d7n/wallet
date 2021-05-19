@@ -1,1 +1,1 @@
-var mnemonic = "mix galaxy remind stairs hollow proof easy table vanish coin hope equal";
+var mnemonic = "alley tunnel piece immune attitude tumble fall govern elevator risk file scale";

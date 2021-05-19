@@ -1,1 +1,1 @@
-var mnemonic = "arrive jacket lift title portion romance nuclear paddle fuel wonder blind logic";
+var mnemonic = "brick once task try portion despair oyster issue balcony emotion drop brush";

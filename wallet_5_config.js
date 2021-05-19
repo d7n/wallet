@@ -1,1 +1,1 @@
-var mnemonic = "differ ridge patch energy hub accident theory slice position bless accident give";
+var mnemonic = "under arm faint ramp mutual lounge oppose pony buyer empower retire humor";

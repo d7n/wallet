@@ -1,1 +1,1 @@
-var mnemonic = "shed lift estate client sing vendor giggle kingdom custom situate ski toward";
+var mnemonic = "latin asthma visit file sand clown file pave feed insect honey girl";

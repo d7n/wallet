@@ -1,1 +1,1 @@
-var mnemonic = "fold spatial world shield crumble typical message brown skull uncover panel frog";
+var mnemonic = "traffic forum orchard supply joy license entry reject myth symbol science midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch media hard rebel foster bike sad metal coral winner pepper major";
+var mnemonic = "dawn history oil balcony tail buddy plunge proud nation slush dog glad";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange match interest apple arrive visa lunar grit brief exhaust wheel visit";
+var mnemonic = "evolve gain outer energy antenna lab force stereo toddler spoil path pill";

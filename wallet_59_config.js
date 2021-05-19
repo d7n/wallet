@@ -1,1 +1,1 @@
-var mnemonic = "chapter eight junior convince bitter urge around twice captain differ social happy";
+var mnemonic = "steak letter crazy pioneer city endless magic destroy pause tower wreck first";

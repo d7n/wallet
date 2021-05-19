@@ -1,1 +1,1 @@
-var mnemonic = "oven useless bean pretty motion true knife ship suggest fuel hidden unlock";
+var mnemonic = "whisper winner twelve amazing winner young live replace motor fluid trial dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "calm aware genuine artefact wage upon cube subway brain gasp pipe vivid";
+var mnemonic = "toilet endorse leisure certain divorce because matter limit session avoid train excite";

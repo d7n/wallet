@@ -1,1 +1,1 @@
-var mnemonic = "culture tilt trap upgrade merry popular wrap rhythm grit cycle salute shadow";
+var mnemonic = "remove book cabbage wagon mandate wait wrestle resemble craft program bronze tornado";

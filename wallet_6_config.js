@@ -1,1 +1,1 @@
-var mnemonic = "hazard tomorrow fade wear life gorilla salmon maple brick explain aim north";
+var mnemonic = "flee legend grab topic office cargo aim flash damage april elbow steak";

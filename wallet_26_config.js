@@ -1,1 +1,1 @@
-var mnemonic = "ask length become equal wink strong palace country public visa field later";
+var mnemonic = "frequent sock switch swarm patrol sting noodle shoot sample plug purchase daring";

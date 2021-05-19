@@ -1,1 +1,1 @@
-var mnemonic = "soda index welcome habit elegant educate crime dentist find width flavor tortoise";
+var mnemonic = "clever movie brisk usual soup fuel case feature absent milk dove order";

@@ -1,1 +1,1 @@
-var mnemonic = "route name cattle machine despair can float quit senior tongue damp dumb";
+var mnemonic = "cherry visit biology custom adjust ethics spring tennis piano core bounce prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "staff spice egg about army busy end denial price cabin main cram";
+var mnemonic = "seminar random job coach venture picnic bird middle beef smoke move leisure";

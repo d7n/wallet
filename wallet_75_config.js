@@ -1,1 +1,1 @@
-var mnemonic = "arch shoe innocent already sunset enough indoor pole observe curious become plate";
+var mnemonic = "unable expose rice twelve remove tilt develop certain kiss excuse lonely banner";

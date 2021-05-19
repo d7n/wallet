@@ -1,1 +1,1 @@
-var mnemonic = "skill abandon roast odor grant sort arrest green dwarf remember penalty also";
+var mnemonic = "degree kick toe ripple powder escape riot loop blame machine biology wage";

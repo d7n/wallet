@@ -1,1 +1,1 @@
-var mnemonic = "inhale try volume salon broccoli scale another behave question onion junk myself";
+var mnemonic = "program solution sword kitchen claw ignore connect gasp cancel trigger faint romance";

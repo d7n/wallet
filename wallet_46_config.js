@@ -1,1 +1,1 @@
-var mnemonic = "dinner smooth adjust burden shadow involve cable drill float rice noise broccoli";
+var mnemonic = "cradle silk rather original copper fame resource still mountain weasel defense reason";

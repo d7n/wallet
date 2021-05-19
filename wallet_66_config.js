@@ -1,1 +1,1 @@
-var mnemonic = "hint liquid child injury source glory boy service split entire dynamic envelope";
+var mnemonic = "glance melody ritual company order goose wasp general paddle shy village custom";

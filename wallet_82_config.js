@@ -1,1 +1,1 @@
-var mnemonic = "neither envelope cabin truck bottom crawl powder expose pause monkey begin pen";
+var mnemonic = "goddess west rate coin taxi subject wagon virus toss fragile describe announce";

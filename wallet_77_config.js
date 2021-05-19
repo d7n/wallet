@@ -1,1 +1,1 @@
-var mnemonic = "pause gesture merit broken caution attack perfect guess hurdle area gown damp";
+var mnemonic = "jeans sketch buddy client fitness icon girl result source light fire fix";

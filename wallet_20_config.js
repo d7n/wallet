@@ -1,1 +1,1 @@
-var mnemonic = "lava glue diary rookie potato alley drill lucky evoke ribbon play fire";
+var mnemonic = "tell boss cancel paper process screen private thrive feed science develop multiply";

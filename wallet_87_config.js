@@ -1,1 +1,1 @@
-var mnemonic = "blush elephant bubble midnight absorb upgrade equal ask holiday upgrade purity student";
+var mnemonic = "wisdom cousin panel advance above purchase inquiry spray traffic stock uncle gasp";

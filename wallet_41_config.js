@@ -1,1 +1,1 @@
-var mnemonic = "pretty unlock bounce moment spider mandate civil horn bounce orphan special minor";
+var mnemonic = "stage physical print wild candy culture edit garment praise inmate blossom raven";

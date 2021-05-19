@@ -1,1 +1,1 @@
-var mnemonic = "upgrade double inspire flavor expire letter leopard garbage more angle angry split";
+var mnemonic = "acid split melody matrix this bright hybrid fix corn person client reopen";

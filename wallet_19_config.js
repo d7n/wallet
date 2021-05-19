@@ -1,1 +1,1 @@
-var mnemonic = "piano material holiday wrist elite poverty trade clog tired invest hobby object";
+var mnemonic = "umbrella shine swarm loop latin shallow frame hobby sure cliff pizza citizen";

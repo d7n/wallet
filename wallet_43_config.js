@@ -1,1 +1,1 @@
-var mnemonic = "table tiny soul swing loyal wedding envelope slab symbol number airport wheel";
+var mnemonic = "leisure seminar blind regret zero rain people welcome survey false web retreat";

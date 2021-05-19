@@ -1,1 +1,1 @@
-var mnemonic = "topple spin range pear swim update chair drop portion satoshi bullet volume";
+var mnemonic = "kite arena stem patch dizzy charge cage chimney script never narrow moment";

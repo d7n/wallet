@@ -1,1 +1,1 @@
-var mnemonic = "own extend source black suggest someone allow render absorb crowd scare index";
+var mnemonic = "despair survey patient worry old raw happy guide brave floor stumble cart";

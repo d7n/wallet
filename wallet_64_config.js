@@ -1,1 +1,1 @@
-var mnemonic = "develop spawn desert chase almost brisk abstract answer soldier major elevator bundle";
+var mnemonic = "feed orchard eight budget humble deal hollow expect cattle december devote face";

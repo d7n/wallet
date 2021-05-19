@@ -1,1 +1,1 @@
-var mnemonic = "cattle outside recall ostrich index raccoon crumble floor help shiver review spell";
+var mnemonic = "media urban add protect awful initial exile patient before course bunker chef";

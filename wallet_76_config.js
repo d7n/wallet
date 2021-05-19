@@ -1,1 +1,1 @@
-var mnemonic = "exist seminar oxygen end twist harvest blouse radio various snack various banner";
+var mnemonic = "flight bulk dry chapter weather library main fatigue month fix idea material";

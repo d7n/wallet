@@ -1,1 +1,1 @@
-var mnemonic = "father actor split behind chicken model dismiss fitness cotton castle wrap ball";
+var mnemonic = "access duty enlist coin clarify permit smart glory indicate swift cover scene";

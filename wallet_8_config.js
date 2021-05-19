@@ -1,1 +1,1 @@
-var mnemonic = "method title more master music obscure fit farm unfold decide nuclear tomato";
+var mnemonic = "kangaroo crunch unfold team umbrella police dirt cool core assume calm carbon";

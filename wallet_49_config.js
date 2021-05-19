@@ -1,1 +1,1 @@
-var mnemonic = "picnic already area magnet talent hint burden apology remove jealous pudding all";
+var mnemonic = "history round vault nose wagon vintage recipe endless gate figure stay snap";

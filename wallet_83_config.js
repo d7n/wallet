@@ -1,1 +1,1 @@
-var mnemonic = "weather dry feel feature shoot bag front village correct wheel pact busy";
+var mnemonic = "uncle helmet high minute capable sport purpose dawn defy rabbit apple swamp";

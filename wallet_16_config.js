@@ -1,1 +1,1 @@
-var mnemonic = "dice exact quarter pulp top urge orbit foster inherit fury dismiss believe";
+var mnemonic = "plug snack sadness pave repeat swallow sure invite robot same dwarf jelly";

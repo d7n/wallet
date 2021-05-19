@@ -1,1 +1,1 @@
-var mnemonic = "diamond push toy gun again injury aisle tiny caution enroll cable ten";
+var mnemonic = "worth october plug grace young property tennis review another light burger mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "shop diamond step network domain correct club lobster theory book gorilla sting";
+var mnemonic = "noodle soul cute hazard civil cute diesel quiz obvious rose sniff pizza";

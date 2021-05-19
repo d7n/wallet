@@ -1,1 +1,1 @@
-var mnemonic = "antenna fiscal alarm fever when example time wrist crop slot miracle robot";
+var mnemonic = "figure gorilla cream top rural honey rather detail audit practice enemy thrive";

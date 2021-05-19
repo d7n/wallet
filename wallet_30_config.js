@@ -1,1 +1,1 @@
-var mnemonic = "diet fix calm friend treat spike double calm wear chest trip trick";
+var mnemonic = "asthma skate scrub foster pelican unknown want way more raw immune achieve";

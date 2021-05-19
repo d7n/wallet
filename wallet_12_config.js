@@ -1,1 +1,1 @@
-var mnemonic = "present october column hire ecology casual copper eternal parade indicate boil bread";
+var mnemonic = "absent salmon ketchup typical luggage exact stomach cupboard toward receive evidence sure";

@@ -1,1 +1,1 @@
-var mnemonic = "surface core decide pulp joke rebuild empower lady human pony father allow";
+var mnemonic = "extra busy cloth unaware leopard permit pride lobster floor diagram scale reason";

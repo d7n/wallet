@@ -1,1 +1,1 @@
-var mnemonic = "attack silk orbit cup half symptom health please pipe alone tackle stadium";
+var mnemonic = "pulp jar brain slight prison change thank radar pitch excuse vocal soldier";

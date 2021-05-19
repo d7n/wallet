@@ -1,1 +1,1 @@
-var mnemonic = "banner multiply wall feel animal want surround vintage carbon funny fix indicate";
+var mnemonic = "typical empower legal suggest ramp hurt apart possible faculty act snow story";

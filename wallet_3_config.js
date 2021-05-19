@@ -1,1 +1,1 @@
-var mnemonic = "still guide oyster runway output crack desert supreme mixed safe inmate melt";
+var mnemonic = "later wide local ginger network demand pull right cluster cement fiscal trim";

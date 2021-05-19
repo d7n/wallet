@@ -1,1 +1,1 @@
-var mnemonic = "fashion travel trigger robot human door image raccoon mixture push sing case";
+var mnemonic = "purchase marine subject need barrel stamp bench another bamboo inmate hire raw";

@@ -1,1 +1,1 @@
-var mnemonic = "affair sick recycle good tiny scout middle jump there endless trend purpose";
+var mnemonic = "fabric law patient cable dwarf bonus crime prefer antique option rural tower";

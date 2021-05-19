@@ -1,1 +1,1 @@
-var mnemonic = "host two unhappy game hawk grace attitude solid during canvas spot solid";
+var mnemonic = "dream oak vital work foam across evil decide grab click vast air";

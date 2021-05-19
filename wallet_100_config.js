@@ -1,1 +1,1 @@
-var mnemonic = "bonus color cheap foam audit horse wall desk scene mushroom tiger fish";
+var mnemonic = "able reflect toast bracket injury misery coconut velvet warfare climb amount drip";

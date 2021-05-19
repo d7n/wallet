@@ -1,1 +1,1 @@
-var mnemonic = "alpha double damage success town that black setup insect issue heart auto";
+var mnemonic = "old alone frequent small replace home grass diary viable weather upgrade voyage";

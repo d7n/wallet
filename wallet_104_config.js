@@ -1,1 +1,1 @@
-var mnemonic = "recall nest inherit renew rude toss regular dream already age hockey demand";
+var mnemonic = "idea inner web they poem turkey absurd orange pond hard master juice";

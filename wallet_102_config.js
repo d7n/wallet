@@ -1,1 +1,1 @@
-var mnemonic = "polar away remain luggage senior tower vibrant any walnut excess push soup";
+var mnemonic = "raven hero toddler mosquito slow attitude frequent cabin course hurry subject slow";

@@ -1,1 +1,1 @@
-var mnemonic = "magic oxygen wrestle scout inmate pony gloom cushion inhale zone champion section";
+var mnemonic = "rare cost panel want cruise risk during core team craft boat such";

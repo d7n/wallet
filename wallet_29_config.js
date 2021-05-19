@@ -1,1 +1,1 @@
-var mnemonic = "receive inform detect olympic attack rocket primary weather side rug marble cradle";
+var mnemonic = "illegal ugly rough clever crystal slush find install express leave client kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "later dignity act this arrest mango choose finish bamboo office item phrase";
+var mnemonic = "remind century rally yard protect erode estate hope valley surprise pond exhaust";

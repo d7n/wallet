@@ -1,1 +1,1 @@
-var mnemonic = "pigeon cereal skirt romance fly diary symbol void profit simple winner sponsor";
+var mnemonic = "paper route life plate borrow skill catalog devote talk electric affair drop";

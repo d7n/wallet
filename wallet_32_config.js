@@ -1,1 +1,1 @@
-var mnemonic = "uncle winner element crash drum pulp innocent toilet office sight casino radio";
+var mnemonic = "exhaust balcony power inspire clown figure pig melody absorb trip nice rib";

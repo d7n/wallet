@@ -1,1 +1,1 @@
-var mnemonic = "normal shield talk symbol fiber virus credit bread yard ordinary alcohol wheel";
+var mnemonic = "daughter cart praise since bronze text parent ship dynamic brief galaxy attract";

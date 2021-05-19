@@ -1,1 +1,1 @@
-var mnemonic = "olive suggest myth impact fabric pond race apple cradle jaguar two pledge";
+var mnemonic = "stem must search payment rack art cram science anchor whisper minute inspire";

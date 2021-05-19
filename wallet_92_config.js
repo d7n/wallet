@@ -1,1 +1,1 @@
-var mnemonic = "dilemma hazard luxury raise switch tail keep foam similar genius arrest december";
+var mnemonic = "simple seminar initial lava ranch nerve hollow mistake reduce inch achieve special";

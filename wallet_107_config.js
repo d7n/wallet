@@ -1,1 +1,1 @@
-var mnemonic = "bone three feature student sausage used hazard photo area purchase about plug";
+var mnemonic = "vivid design gravity leaf pull alert sketch excuse cram spring shine soul";

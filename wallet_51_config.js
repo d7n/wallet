@@ -1,1 +1,1 @@
-var mnemonic = "private dial firm school yellow mass fence dynamic can name join nothing";
+var mnemonic = "acquire lava business blur quarter receive lock riot broccoli differ unfold tennis";

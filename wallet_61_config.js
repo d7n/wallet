@@ -1,1 +1,1 @@
-var mnemonic = "receive trophy tray border tourist tuna hint tongue apology crane steel cook";
+var mnemonic = "garbage black weekend toe sight sentence online give fantasy broken worth purpose";

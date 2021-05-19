@@ -1,1 +1,1 @@
-var mnemonic = "youth hand jealous blossom snack add jelly edit expose chalk advance liquid";
+var mnemonic = "cube quote pumpkin boat twenty endless bubble winter memory sting luggage hill";

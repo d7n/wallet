@@ -1,1 +1,1 @@
-var mnemonic = "actor galaxy come above fame naive jeans design tiny language clever speak";
+var mnemonic = "try post entry educate daring repair season promote total essence figure reunion";

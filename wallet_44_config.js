@@ -1,1 +1,1 @@
-var mnemonic = "spoon mechanic buffalo differ dose trash client clap history never fruit rebuild";
+var mnemonic = "february boring sugar door ready impose observe seek smooth sail bridge notable";

@@ -1,1 +1,1 @@
-var mnemonic = "busy penalty blame source volume regret train claw remain defense treat slam";
+var mnemonic = "fantasy shove hockey copper village slogan immune tonight mail casual marine memory";

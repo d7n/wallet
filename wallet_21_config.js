@@ -1,1 +1,1 @@
-var mnemonic = "assume public lawn cousin pen day circle pelican upgrade rally they fruit";
+var mnemonic = "midnight check fury drum tonight tiny learn pilot seed awake lottery region";

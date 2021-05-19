@@ -1,1 +1,1 @@
-var mnemonic = "door clump few cushion motor despair change lounge fuel install harsh obvious";
+var mnemonic = "thought pool weasel kit season sight essay ball polar resource organ essay";

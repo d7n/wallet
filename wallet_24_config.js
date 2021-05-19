@@ -1,1 +1,1 @@
-var mnemonic = "grief bleak glove mercy salmon must shiver legend other coin route appear";
+var mnemonic = "image across churn trophy favorite rail gate hawk face infant denial gold";

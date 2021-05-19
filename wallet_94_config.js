@@ -1,1 +1,1 @@
-var mnemonic = "royal forum fresh element cancel execute puzzle couple student giggle cruel cloth";
+var mnemonic = "grace casino dress divorce casino urge tent dawn tumble saddle that nothing";

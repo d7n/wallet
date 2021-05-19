@@ -1,1 +1,1 @@
-var mnemonic = "renew suspect mistake spike seven spread prepare impose destroy private trust object";
+var mnemonic = "session chief open present token achieve gentle soldier special magnet skill project";

@@ -1,1 +1,1 @@
-var mnemonic = "approve alpha catalog never remember logic athlete average apology local direct enjoy";
+var mnemonic = "ankle warm almost plate inspire settle other survey patient pistol resist million";

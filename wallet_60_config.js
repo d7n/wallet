@@ -1,1 +1,1 @@
-var mnemonic = "sock during venture prepare seven open essay quarter security inmate exchange curious";
+var mnemonic = "lucky gap frequent state describe real wash catch moment cruel relief sight";

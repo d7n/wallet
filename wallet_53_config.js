@@ -1,1 +1,1 @@
-var mnemonic = "glow twist vivid host iron become dune surge frown exact consider diet";
+var mnemonic = "hen frown clog beauty drive rookie stove couple true grow depart injury";

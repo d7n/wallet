@@ -1,1 +1,1 @@
-var mnemonic = "upset document december artist small vehicle thrive round pistol marine rice relief";
+var mnemonic = "donkey stomach card thought roof donate elite north trend asthma hollow ordinary";

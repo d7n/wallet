@@ -1,1 +1,1 @@
-var mnemonic = "humble dash decline jewel update tomato give near truly try miracle banner";
+var mnemonic = "pig around sniff grocery window sail plug lunch chest senior stomach allow";

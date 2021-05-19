@@ -1,1 +1,1 @@
-var mnemonic = "reject figure slender snap farm fragile cloth fantasy skirt fitness dolphin tissue";
+var mnemonic = "gather invest can pole convince gap punch curious endless tortoise sauce train";

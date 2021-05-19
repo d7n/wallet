@@ -1,1 +1,1 @@
-var mnemonic = "combine illness decade dice prize zero drama school shoulder dune panel physical";
+var mnemonic = "pluck click ready spend garden coral deer report bless noble switch kite";
