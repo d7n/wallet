@@ -1,1 +1,1 @@
-var mnemonic = "two trade change purse frost noble connect wear rhythm margin seed million";
+var mnemonic = "chase movie tape rigid exotic nominee shove home long you reward lunch";

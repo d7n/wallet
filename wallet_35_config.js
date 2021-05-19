@@ -1,1 +1,1 @@
-var mnemonic = "breeze library rude pigeon hover eight hungry team traffic busy street raven";
+var mnemonic = "voice hawk always prepare proof purpose animal egg twenty squeeze before arrest";

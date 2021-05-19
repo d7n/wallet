@@ -1,1 +1,1 @@
-var mnemonic = "like walk adapt hockey harsh doctor claim unhappy timber accuse unfair accuse";
+var mnemonic = "cement gun valve turkey cabin sound pottery labor pole baby impulse mention";

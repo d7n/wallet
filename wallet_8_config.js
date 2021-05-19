@@ -1,1 +1,1 @@
-var mnemonic = "cloud receive cricket slide come pipe tenant lend crunch chuckle peasant little";
+var mnemonic = "gap luxury blame tag sense amateur tackle dizzy sand input rack cabbage";

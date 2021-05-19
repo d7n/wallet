@@ -1,1 +1,1 @@
-var mnemonic = "blood van attract reform decide inhale budget lucky plug you soul bracket";
+var mnemonic = "double print ability fox close museum segment elbow discover test entry scan";

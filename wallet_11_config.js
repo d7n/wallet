@@ -1,1 +1,1 @@
-var mnemonic = "lava bargain host sentence initial swamp subject animal sand leader damp nest";
+var mnemonic = "crush sport habit ceiling guess village trick bench mule crater fatal garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow annual load cake pioneer relax wear camera turtle pulp actual circle";
+var mnemonic = "main guilt patrol quick announce potato fiction outside tiger plate spin taxi";

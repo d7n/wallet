@@ -1,1 +1,1 @@
-var mnemonic = "digital snake neck improve law soldier mandate inquiry rhythm island friend rural";
+var mnemonic = "magnet donor foam head wrong master when unhappy vanish fine meat library";

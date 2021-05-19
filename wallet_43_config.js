@@ -1,1 +1,1 @@
-var mnemonic = "false raw suggest exist surprise drill fantasy fetch solve cliff aware valid";
+var mnemonic = "cruel noble ahead legend regular that surge dune bullet anxiety place trash";

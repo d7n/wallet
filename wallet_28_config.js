@@ -1,1 +1,1 @@
-var mnemonic = "resource coast plug opinion truth require wet label thumb stage wait accident";
+var mnemonic = "put pencil panda enjoy leaf radio black hazard work fossil scissors resemble";

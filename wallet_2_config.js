@@ -1,1 +1,1 @@
-var mnemonic = "aunt amateur artefact pill boost uphold sure cattle fossil similar aspect typical";
+var mnemonic = "helmet cool bubble song narrow dolphin dust deal slide drop robot piano";

@@ -1,1 +1,1 @@
-var mnemonic = "vote tool twice hat rival just surge consider wing nut limit chunk";
+var mnemonic = "enter never mean still crane zero asthma orchard divorce aisle material capable";

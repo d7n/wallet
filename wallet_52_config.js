@@ -1,1 +1,1 @@
-var mnemonic = "thrive news stool level recipe act will vault joke hobby staff census";
+var mnemonic = "enact grow lesson surge marble bonus cloud slender avoid entry employ announce";

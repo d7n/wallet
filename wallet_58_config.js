@@ -1,1 +1,1 @@
-var mnemonic = "gravity series taxi solution below home shrimp fitness onion flush hint west";
+var mnemonic = "alley pact lumber miracle where mom pioneer squirrel typical thank slight claw";

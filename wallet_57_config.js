@@ -1,1 +1,1 @@
-var mnemonic = "valve valley account inmate shock strike divide any flag page crop mule";
+var mnemonic = "eagle mind dizzy glide world garage slide prosper capital wrong hospital ask";

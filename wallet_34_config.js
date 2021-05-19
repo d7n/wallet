@@ -1,1 +1,1 @@
-var mnemonic = "shiver diary yellow quarter slender bullet mother sheriff lounge song wedding use";
+var mnemonic = "pen diesel response neglect rigid such disorder until elder document pattern report";

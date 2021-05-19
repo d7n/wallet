@@ -1,1 +1,1 @@
-var mnemonic = "into thought slim vote aunt maid suggest clump book frog opera response";
+var mnemonic = "forward hamster narrow coconut enter wash axis grass boost source hello fun";

@@ -1,1 +1,1 @@
-var mnemonic = "lake pilot until feed excuse protect swap public globe cactus man pave";
+var mnemonic = "just pitch legend roast prize horn prevent couple clip approve okay valley";

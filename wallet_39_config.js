@@ -1,1 +1,1 @@
-var mnemonic = "afraid dumb cushion gossip now outer magic mandate diesel forget term abuse";
+var mnemonic = "race paper curious inherit crime argue grief hour crew object village before";

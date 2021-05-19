@@ -1,1 +1,1 @@
-var mnemonic = "earth edit crouch note guard soccer still sense beyond blanket friend stove";
+var mnemonic = "profit achieve enforce start donate board sound uncle tobacco fashion glue special";

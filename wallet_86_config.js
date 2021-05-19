@@ -1,1 +1,1 @@
-var mnemonic = "attract ketchup gas fatigue cliff glimpse benefit marine detect pear remain screen";
+var mnemonic = "radar upset differ enact slow olympic turkey item west job domain huge";

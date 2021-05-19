@@ -1,1 +1,1 @@
-var mnemonic = "mango clever brick dinner december strategy cousin any edge alley security fee";
+var mnemonic = "client skirt foot screen rotate machine truth method can filter bridge hip";

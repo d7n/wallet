@@ -1,1 +1,1 @@
-var mnemonic = "nurse coyote frequent wealth border bottom note pull own curve planet outside";
+var mnemonic = "foot month soon calm dress survey safe garlic connect screen iron two";

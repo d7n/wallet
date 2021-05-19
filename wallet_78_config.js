@@ -1,1 +1,1 @@
-var mnemonic = "boss baby case casual broccoli thing exit human army rib close that";
+var mnemonic = "water oil again rather blush horse region embark egg cake question erase";

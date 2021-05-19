@@ -1,1 +1,1 @@
-var mnemonic = "success produce meat appear ability chronic bubble young before arm build cycle";
+var mnemonic = "chair whale chest remain sadness hedgehog grain logic kiwi reopen brisk dinner";

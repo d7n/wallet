@@ -1,1 +1,1 @@
-var mnemonic = "blood already sweet gravity produce length wine digital exact gauge pencil pepper";
+var mnemonic = "shrug party habit future crowd flock where trend goddess annual casual tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "secret foot mirror gloom bargain praise romance employ domain crouch light card";
+var mnemonic = "escape desert zebra crisp hope modify mind loud curtain coach drill mammal";

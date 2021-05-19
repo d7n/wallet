@@ -1,1 +1,1 @@
-var mnemonic = "weapon physical supreme ankle rent innocent inner path puppy buddy yellow peasant";
+var mnemonic = "imitate sausage during okay arrive desk spatial gallery smile entry prize coil";

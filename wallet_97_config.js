@@ -1,1 +1,1 @@
-var mnemonic = "talk delay galaxy spread camp vibrant lake genre prepare identify emotion glance";
+var mnemonic = "chair axis pause wasp shrimp label warrior circle immense mass update sun";

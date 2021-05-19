@@ -1,1 +1,1 @@
-var mnemonic = "bamboo lift neglect bounce subway shock monitor believe uphold bring hurry mass";
+var mnemonic = "keen scheme relax weasel jewel away neither major tiny jaguar tilt success";

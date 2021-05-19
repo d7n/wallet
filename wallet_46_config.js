@@ -1,1 +1,1 @@
-var mnemonic = "label amateur assume fan pair chicken genuine snap path habit suffer illegal";
+var mnemonic = "busy runway company funny weapon call doctor jacket toss census burst auction";

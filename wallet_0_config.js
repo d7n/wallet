@@ -1,1 +1,1 @@
-var mnemonic = "coil staff crunch diamond dice worry gloom valve ladder normal real rice";
+var mnemonic = "exit solution knee harbor hour acid tourist viable stadium carpet pole kite";

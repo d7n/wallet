@@ -1,1 +1,1 @@
-var mnemonic = "wheat soon tone noise black travel chapter veteran taxi room vendor rival";
+var mnemonic = "estate opinion scatter around multiply aerobic when drastic wagon avoid latin picture";

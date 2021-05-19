@@ -1,1 +1,1 @@
-var mnemonic = "mom jar chimney clarify hire side boil nut toe screen spider cloth";
+var mnemonic = "lecture dignity cliff enforce lamp heavy family mention find reveal hard base";

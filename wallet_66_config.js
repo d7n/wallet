@@ -1,1 +1,1 @@
-var mnemonic = "code grocery recall equip make web control forum gather better romance suspect";
+var mnemonic = "subway sad member survey tube stomach skin champion first rapid mixture sphere";

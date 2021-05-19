@@ -1,1 +1,1 @@
-var mnemonic = "combine web under crazy result sugar detail car birth youth taste test";
+var mnemonic = "mercy eyebrow force almost fame athlete kiwi brother try radar frog vote";

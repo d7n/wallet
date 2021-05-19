@@ -1,1 +1,1 @@
-var mnemonic = "describe point force artefact flavor chest ozone mixture length picture gentle hover";
+var mnemonic = "post promote panel label narrow mule sword marble castle creek scene stable";

@@ -1,1 +1,1 @@
-var mnemonic = "similar job snack lamp already urge million renew soccer you lunch priority";
+var mnemonic = "better estate deer dash glimpse divert salute connect episode tape increase lunar";

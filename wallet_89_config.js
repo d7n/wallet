@@ -1,1 +1,1 @@
-var mnemonic = "private grass cup game brass quantum bomb swim ill photo vicious bracket";
+var mnemonic = "fancy pigeon focus comfort eyebrow sustain tonight exhaust case race vast romance";

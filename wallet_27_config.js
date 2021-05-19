@@ -1,1 +1,1 @@
-var mnemonic = "tongue wasp ring exhaust friend script drift smooth manual thank news burger";
+var mnemonic = "struggle wolf group double stove document scrub biology vivid tag long length";

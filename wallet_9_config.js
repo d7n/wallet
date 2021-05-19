@@ -1,1 +1,1 @@
-var mnemonic = "alter dumb lens vacant pulp forget service museum omit toward table logic";
+var mnemonic = "wash trade gown cargo bag coyote tail agent pluck february extra notice";

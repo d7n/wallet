@@ -1,1 +1,1 @@
-var mnemonic = "surround hidden surface bubble jelly first thing van lawsuit load movie wine";
+var mnemonic = "senior trial print help basic aspect butter orange two sign auction dilemma";

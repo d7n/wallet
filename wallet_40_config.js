@@ -1,1 +1,1 @@
-var mnemonic = "split barely wisdom discover school wedding gold animal capital panic soap window";
+var mnemonic = "police capable luxury famous bright crumble crop begin current that allow artefact";

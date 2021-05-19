@@ -1,1 +1,1 @@
-var mnemonic = "crumble interest soft ensure merge attract comfort pink inform pattern entry sample";
+var mnemonic = "office ghost series increase expect floor actor change slush people equal seek";

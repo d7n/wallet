@@ -1,1 +1,1 @@
-var mnemonic = "life creek sausage caught spare essence depend diagram omit destroy autumn hole";
+var mnemonic = "habit inhale desk safe labor buzz magic label spoon dove recipe human";

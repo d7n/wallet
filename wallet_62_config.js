@@ -1,1 +1,1 @@
-var mnemonic = "dirt border deliver analyst cheap tiger matrix bottom dilemma bind water shy";
+var mnemonic = "coyote rail burden path myth gas argue gasp lady search wedding subject";

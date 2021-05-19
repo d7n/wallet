@@ -1,1 +1,1 @@
-var mnemonic = "alpha few busy sheriff envelope veteran tell ritual mad attract duck denial";
+var mnemonic = "mail asset hat paddle super diary private hair wool depart range match";

@@ -1,1 +1,1 @@
-var mnemonic = "clock october public fresh apple peanut key debate quantum evil peasant scrap";
+var mnemonic = "practice wheat history elevator jealous engage siege order inherit sing throw worry";

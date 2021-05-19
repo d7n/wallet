@@ -1,1 +1,1 @@
-var mnemonic = "subject advance horn flee afraid turkey follow board super view ill picnic";
+var mnemonic = "fetch master earth balance print draft puzzle genuine vendor piece hollow melody";

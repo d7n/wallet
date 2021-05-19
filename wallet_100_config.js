@@ -1,1 +1,1 @@
-var mnemonic = "lift twice tired snap float limit apple fat banner puzzle patch desert";
+var mnemonic = "athlete limb cousin spatial sort isolate echo abandon patient comic found cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "digital school slice fox census clock dragon wink catalog curious very february";
+var mnemonic = "enforce purchase ankle tired pull replace key bronze curious final tray carpet";

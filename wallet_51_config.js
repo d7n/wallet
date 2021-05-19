@@ -1,1 +1,1 @@
-var mnemonic = "demise skin marine vacuum below ship only vivid tortoise sick sheriff grain";
+var mnemonic = "animal hurdle town duck notable blast bike dress attitude cover sleep seven";

@@ -1,1 +1,1 @@
-var mnemonic = "duck ritual elder scorpion manage quit found monitor abandon bullet father grab";
+var mnemonic = "error phone bunker unable point neutral target auto hundred cotton amount ski";

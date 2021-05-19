@@ -1,1 +1,1 @@
-var mnemonic = "enrich spell hammer silver canoe three involve link unfold enable target lend";
+var mnemonic = "torch pizza moon artwork cute exist effort copy frown allow innocent margin";

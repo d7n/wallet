@@ -1,1 +1,1 @@
-var mnemonic = "trouble mystery rival young kind snap bunker glove pet punch february country";
+var mnemonic = "cruel stick life garbage begin mixture moment gossip wet favorite debate explain";

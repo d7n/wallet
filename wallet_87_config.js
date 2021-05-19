@@ -1,1 +1,1 @@
-var mnemonic = "fancy parade ticket off roast abandon save canal little give hazard hero";
+var mnemonic = "special brick scrub hint orphan juice skate arrange lend arch merge ride";

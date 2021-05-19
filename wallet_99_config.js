@@ -1,1 +1,1 @@
-var mnemonic = "ghost cushion near private flip bike aim heavy repeat lyrics cement noodle";
+var mnemonic = "merge kingdom patrol memory cousin dynamic champion annual discover frozen record want";

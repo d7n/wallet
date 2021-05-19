@@ -1,1 +1,1 @@
-var mnemonic = "false jeans nerve appear lonely orbit remember often hard hidden stable guilt";
+var mnemonic = "like injury echo main sick analyst fuel saddle divide giant truck round";

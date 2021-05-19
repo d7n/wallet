@@ -1,1 +1,1 @@
-var mnemonic = "whisper special junior minimum actor combine garden diagram warfare wise tuition panic";
+var mnemonic = "palace gorilla cat electric face drop black normal copy excuse husband pretty";

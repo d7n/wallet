@@ -1,1 +1,1 @@
-var mnemonic = "kite book boring indoor crash thunder garment gain air solar cement dizzy";
+var mnemonic = "acid carpet erupt track animal silk traffic powder palm year arctic enter";

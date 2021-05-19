@@ -1,1 +1,1 @@
-var mnemonic = "noble grab blossom love often cargo stem frown base area earn hawk";
+var mnemonic = "then evidence omit coach inch cruel lend december river teach life truth";

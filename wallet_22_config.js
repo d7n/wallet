@@ -1,1 +1,1 @@
-var mnemonic = "spoil cart unique firm modify public match school wild soda hollow twice";
+var mnemonic = "duty coil brush urge method panel mule inner green tag liar pond";

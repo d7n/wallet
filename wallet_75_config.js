@@ -1,1 +1,1 @@
-var mnemonic = "dumb brain dolphin pond scare name actual over injury anchor couple syrup";
+var mnemonic = "surprise casual blood old explain express prevent soccer seek fine tag style";

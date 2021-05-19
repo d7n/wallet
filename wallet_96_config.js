@@ -1,1 +1,1 @@
-var mnemonic = "snack knife baby remain laundry mango expect include recipe cruel neck tunnel";
+var mnemonic = "urban eyebrow inmate expose town orchard output expand mansion music vintage quit";

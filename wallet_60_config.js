@@ -1,1 +1,1 @@
-var mnemonic = "bus virus enforce viable small theme they nasty extend monster dial canal";
+var mnemonic = "coral retire spirit ribbon cradle very turn thing bind state visa duck";

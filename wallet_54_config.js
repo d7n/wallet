@@ -1,1 +1,1 @@
-var mnemonic = "evidence iron fall safe effort able tissue coil remind grit rescue toward";
+var mnemonic = "kid wire laptop total surprise useful purse glare pelican gossip sauce choice";

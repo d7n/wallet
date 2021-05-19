@@ -1,1 +1,1 @@
-var mnemonic = "tattoo unaware cushion crop chapter illness enable expire sentence sound cancel toilet";
+var mnemonic = "swap spring adult arch below razor month alone poet inherit bleak very";

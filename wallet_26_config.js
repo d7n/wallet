@@ -1,1 +1,1 @@
-var mnemonic = "october narrow planet mention sister summer sure reward month test comfort foil";
+var mnemonic = "unfair believe will gospel tag buffalo imitate helmet tortoise base crew mechanic";

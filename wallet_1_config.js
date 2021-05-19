@@ -1,1 +1,1 @@
-var mnemonic = "garbage degree mango south weather casual cash shallow unique cruise embrace lion";
+var mnemonic = "chair vanish hello stick trial machine lunar milk drip raise empty fiscal";

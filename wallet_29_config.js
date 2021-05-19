@@ -1,1 +1,1 @@
-var mnemonic = "neutral exist rival picture nominee wide toss absurd subject inhale tiny screen";
+var mnemonic = "mystery distance doctor sphere genre trial cupboard practice beef prosper blood render";

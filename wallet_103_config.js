@@ -1,1 +1,1 @@
-var mnemonic = "theory tobacco couple rubber siege bind basic paddle bike maid narrow gasp";
+var mnemonic = "fiber kit until sweet shoulder child useless people demand father expand choose";

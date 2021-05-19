@@ -1,1 +1,1 @@
-var mnemonic = "thunder become nice pepper once token right senior person worry verb device";
+var mnemonic = "indicate advance okay brush return embark faith coconut spin erase stove multiply";

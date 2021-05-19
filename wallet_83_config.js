@@ -1,1 +1,1 @@
-var mnemonic = "long device have survey shrug renew talent deputy hedgehog solve galaxy brick";
+var mnemonic = "search tape vague duck rubber lizard fame grocery parent weather enforce shrimp";

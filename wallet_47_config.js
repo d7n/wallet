@@ -1,1 +1,1 @@
-var mnemonic = "forward depend assist dove sorry chef avoid hospital tuna shrug dinner soul";
+var mnemonic = "cactus coin bacon river type text decrease damp banana season quantum dutch";

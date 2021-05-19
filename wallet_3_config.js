@@ -1,1 +1,1 @@
-var mnemonic = "grief maple betray charge emotion convince smooth find life quarter velvet cattle";
+var mnemonic = "coyote jeans common envelope million diary advance valid husband vast island sing";

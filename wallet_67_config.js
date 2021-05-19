@@ -1,1 +1,1 @@
-var mnemonic = "web belt winner cool budget horn supreme ready access manage panic toast";
+var mnemonic = "gossip rebuild invite wage wall angle bleak honey prevent twelve blanket shoot";

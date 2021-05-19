@@ -1,1 +1,1 @@
-var mnemonic = "suggest race crouch little unhappy basic before extra lunar coach absorb panic";
+var mnemonic = "scrap click island say work omit pool camera trend recipe limit orient";

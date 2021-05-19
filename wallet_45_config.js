@@ -1,1 +1,1 @@
-var mnemonic = "tape pattern salad hidden rain festival offer tribe business tennis answer payment";
+var mnemonic = "icon news wheat federal coffee bachelor pool tomorrow reduce decrease object napkin";

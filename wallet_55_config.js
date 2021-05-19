@@ -1,1 +1,1 @@
-var mnemonic = "brush street near security dynamic motion dream media mandate crucial change rebuild";
+var mnemonic = "mosquito swing earth crater material ritual account stadium capable virtual cup execute";

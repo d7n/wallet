@@ -1,1 +1,1 @@
-var mnemonic = "purse celery broken quantum goat snake recipe hour harvest local liberty more";
+var mnemonic = "stuff lock panda bamboo black shadow tone ensure print ripple chef fat";

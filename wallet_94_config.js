@@ -1,1 +1,1 @@
-var mnemonic = "erosion brass legend dash blame dilemma supreme humor course analyst unique clump";
+var mnemonic = "assist river state know boy noble move nasty burger final pepper garage";

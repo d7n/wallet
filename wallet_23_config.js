@@ -1,1 +1,1 @@
-var mnemonic = "cream rifle boil stage mimic absorb timber evoke amazing betray fetch output";
+var mnemonic = "often project critic ramp tag favorite gown employ reward sun pull bus";

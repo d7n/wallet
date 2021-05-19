@@ -1,1 +1,1 @@
-var mnemonic = "broom spread artist trap grunt float planet belt route jewel toss risk";
+var mnemonic = "stable race fuel monkey absorb valve goose column kingdom essay episode mango";

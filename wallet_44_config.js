@@ -1,1 +1,1 @@
-var mnemonic = "woman disease mango equip blast useless emerge carbon execute naive peanut bulb";
+var mnemonic = "seek hub fancy trust jeans couple place roast disagree artwork wrist chapter";

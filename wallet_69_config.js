@@ -1,1 +1,1 @@
-var mnemonic = "deliver antique festival rough magic fire whale current level biology minute buffalo";
+var mnemonic = "congress nice they barely photo clay town camp junk ketchup edge onion";

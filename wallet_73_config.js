@@ -1,1 +1,1 @@
-var mnemonic = "leave shallow width song hire ship example tobacco aware dizzy lesson similar";
+var mnemonic = "similar lecture eyebrow item better security slam local fog palm giant jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose city frame cupboard boring jewel worth awful duck tilt topic story";
+var mnemonic = "river woman alone version nose spread worth verb trick planet visit episode";

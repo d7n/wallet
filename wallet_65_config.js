@@ -1,1 +1,1 @@
-var mnemonic = "office velvet spring salad benefit surge offer toast capable lawsuit cigar kiwi";
+var mnemonic = "minor interest stumble cloud antenna bacon youth bright umbrella latin until hire";

@@ -1,1 +1,1 @@
-var mnemonic = "menu expire stock predict social hamster width border pattern tongue decorate erase";
+var mnemonic = "three language hero rude walnut replace patient unable lounge cousin assume basket";

@@ -1,1 +1,1 @@
-var mnemonic = "erode fade neutral hospital shoe north usual bean tumble boost fatal visa";
+var mnemonic = "enact surge mixed chicken response learn shoulder round monkey aware siege arrange";

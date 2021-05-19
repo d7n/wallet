@@ -1,1 +1,1 @@
-var mnemonic = "orient rate floor list use shrug fold ill weasel august dance doll";
+var mnemonic = "left noise nest spread salon action cloth safe digital nephew jump divert";

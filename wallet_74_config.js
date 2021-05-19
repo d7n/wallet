@@ -1,1 +1,1 @@
-var mnemonic = "point common knife grass business course matter naive wrap ten mutual real";
+var mnemonic = "nature enable crumble pipe hope gown hero arm wage library struggle tool";
