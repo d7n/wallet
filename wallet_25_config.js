@@ -1,1 +1,1 @@
-var mnemonic = "treat drip avocado relief armed unable nature real frost announce snack example";
+var mnemonic = "diamond agree vocal crystal problem rate moral demise shuffle flat mechanic then";

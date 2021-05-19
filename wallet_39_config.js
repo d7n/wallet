@@ -1,1 +1,1 @@
-var mnemonic = "around virtual dress stairs yard pipe afraid give time bunker height harvest";
+var mnemonic = "select exhibit spy mansion surprise portion brief cliff receive list swamp museum";

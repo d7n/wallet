@@ -1,1 +1,1 @@
-var mnemonic = "version harbor cinnamon sword manage print way quality point stadium coyote device";
+var mnemonic = "waste amateur market coil network cool gentle bread year decide pioneer bulb";

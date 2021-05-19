@@ -1,1 +1,1 @@
-var mnemonic = "sunny dismiss cross toy step about clarify uphold artwork discover author any";
+var mnemonic = "funny clap coil easy fault note arrive response minor motion whisper glue";

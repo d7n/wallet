@@ -1,1 +1,1 @@
-var mnemonic = "myth deputy mountain indoor ice gun castle trash meadow library endless indoor";
+var mnemonic = "shoot olive detect base crouch allow favorite eyebrow convince enforce air orchard";

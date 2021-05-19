@@ -1,1 +1,1 @@
-var mnemonic = "avoid trial biology card over wrap praise oil define scan denial neck";
+var mnemonic = "wrist wash basket trap gun patient twice verb coast fiber beyond receive";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon demand mass about decrease organ juice axis vague rain laugh melody";
+var mnemonic = "bargain cargo issue need property two wrap rally message occur spell such";

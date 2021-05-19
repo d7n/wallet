@@ -1,1 +1,1 @@
-var mnemonic = "urban worth soap glow army artefact injury effort club anxiety offer wear";
+var mnemonic = "adult illness border slender fall host million prize nature essence siren toast";

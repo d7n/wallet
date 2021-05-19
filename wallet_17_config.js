@@ -1,1 +1,1 @@
-var mnemonic = "fluid voice limit razor circle crime canal same slab actress plate top";
+var mnemonic = "castle season transfer never lecture chimney duck legal tube flavor gold half";

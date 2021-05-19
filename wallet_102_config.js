@@ -1,1 +1,1 @@
-var mnemonic = "elevator tent river fix matter elegant two tail better result grant custom";
+var mnemonic = "leopard aspect demise hazard ahead purity spin pizza initial they fresh harvest";

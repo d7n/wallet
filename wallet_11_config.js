@@ -1,1 +1,1 @@
-var mnemonic = "slim capable news check media describe jazz dumb random taxi code grit";
+var mnemonic = "degree shy census piece embark exact borrow trip million deputy fetch void";

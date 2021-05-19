@@ -1,1 +1,1 @@
-var mnemonic = "salute they enable correct easy danger grape credit spend sock mirror gauge";
+var mnemonic = "carry science patrol mail ladder combine march crew decorate scatter pulse myth";

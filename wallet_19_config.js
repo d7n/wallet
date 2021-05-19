@@ -1,1 +1,1 @@
-var mnemonic = "exchange imitate balance holiday recipe vibrant way local essence young over security";
+var mnemonic = "able alien daring alley latin small antenna stem cause donor net achieve";

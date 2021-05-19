@@ -1,1 +1,1 @@
-var mnemonic = "author select credit final draft moon float beauty cousin twenty resource near";
+var mnemonic = "guide umbrella false spring never motion business romance melt bullet east puzzle";

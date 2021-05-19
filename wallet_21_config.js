@@ -1,1 +1,1 @@
-var mnemonic = "weird bag change diet chaos normal eight bleak retire castle coil popular";
+var mnemonic = "desert curtain convince innocent afraid tired material family balance steel fault valve";

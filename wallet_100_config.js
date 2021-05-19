@@ -1,1 +1,1 @@
-var mnemonic = "awkward matter leave sustain bottom material pipe sun head harbor few slush";
+var mnemonic = "exclude rose sustain point sphere garage crowd parade sphere shoulder outer such";

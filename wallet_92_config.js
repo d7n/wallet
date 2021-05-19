@@ -1,1 +1,1 @@
-var mnemonic = "hood recycle oyster sure buyer little else feed chicken airport between cigar";
+var mnemonic = "bring sock guard lobster grass comic cruise walk shoulder pole version eternal";

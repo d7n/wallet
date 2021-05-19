@@ -1,1 +1,1 @@
-var mnemonic = "safe nominee oak actress bulb feed sunny caution eager uncover labor burden";
+var mnemonic = "run bean symbol artist tiny amazing sadness ritual trend satoshi wagon head";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely bulk typical exchange toy silk ten answer blast before ice attitude";
+var mnemonic = "latin duty seminar medal world alley there cricket canvas slab noble jelly";

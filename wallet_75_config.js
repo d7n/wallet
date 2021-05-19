@@ -1,1 +1,1 @@
-var mnemonic = "phrase raise gauge there grace spin around wheel asthma pigeon inquiry rifle";
+var mnemonic = "element machine ski tribe caution cram there alone giraffe claim eager float";

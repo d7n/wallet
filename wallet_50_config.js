@@ -1,1 +1,1 @@
-var mnemonic = "tide slot bone rose endorse liquid three because cloth coil round hollow";
+var mnemonic = "stick wolf firm joke accident rail learn atom shuffle nation habit hedgehog";

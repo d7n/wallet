@@ -1,1 +1,1 @@
-var mnemonic = "voyage dust stable conduct age raise oppose soft cruise base crazy era";
+var mnemonic = "banner room pipe alcohol wear twelve cool harbor sponsor steel sock junk";

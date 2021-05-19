@@ -1,1 +1,1 @@
-var mnemonic = "bench hundred critic kit black attack assist casino marble coach sweet liar";
+var mnemonic = "boss kitchen soldier song area swarm flash monkey immense test solid hover";

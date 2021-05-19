@@ -1,1 +1,1 @@
-var mnemonic = "country obscure dog cute gossip carpet ritual alpha affair host soldier involve";
+var mnemonic = "permit resemble design eternal wheel file poem pudding speak tell tribe always";

@@ -1,1 +1,1 @@
-var mnemonic = "theme badge actress cancel amateur clog quick credit effort hero east carpet";
+var mnemonic = "shed stove tomato ill sting heavy shed surround shuffle divert pulse plastic";

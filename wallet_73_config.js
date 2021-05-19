@@ -1,1 +1,1 @@
-var mnemonic = "alone aisle curious frozen report scare mountain guard retire ticket miracle mosquito";
+var mnemonic = "satoshi short double tilt payment month defy exclude inhale jeans action oppose";

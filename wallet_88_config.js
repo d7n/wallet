@@ -1,1 +1,1 @@
-var mnemonic = "ugly equip twelve update state machine focus journey goddess flush fashion indicate";
+var mnemonic = "depth fire hint vital extra easy increase obey truly lamp hurdle traffic";

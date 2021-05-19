@@ -1,1 +1,1 @@
-var mnemonic = "because enforce lunar vicious swap near host category toddler recipe carry session";
+var mnemonic = "sand festival once diesel visual ride survey circle casino edge scrap crew";

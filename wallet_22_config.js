@@ -1,1 +1,1 @@
-var mnemonic = "that fan disorder bubble rebel moral actual illness extra program solve harsh";
+var mnemonic = "old depend please mouse maximum region bid payment luggage fan sister farm";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty reject moral pizza satoshi saddle slim artefact maze sadness dish husband";
+var mnemonic = "critic relief hospital pond loyal solution isolate behave dune village sand render";

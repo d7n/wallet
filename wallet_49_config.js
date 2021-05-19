@@ -1,1 +1,1 @@
-var mnemonic = "among turkey master bachelor flat need wine canvas awesome famous barrel perfect";
+var mnemonic = "poem elephant analyst truly silent razor can reward lobster dog ceiling cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "tide clog voice gesture diet open curious curve urge nice couple place";
+var mnemonic = "they dynamic safe art cool cook ivory metal find holiday mix crack";

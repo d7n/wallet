@@ -1,1 +1,1 @@
-var mnemonic = "corn reason potato kind diet provide guilt avoid tree decide depend vague";
+var mnemonic = "brand amateur code blood coffee since click staff unable purity combine globe";

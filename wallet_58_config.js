@@ -1,1 +1,1 @@
-var mnemonic = "end runway hungry index piano ivory urge arrange impulse cake zone adult";
+var mnemonic = "visual budget range license second paddle glare concert secret mesh rescue dove";

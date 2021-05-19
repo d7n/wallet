@@ -1,1 +1,1 @@
-var mnemonic = "diamond blush vibrant again price uphold tiger seek endless observe arrive direct";
+var mnemonic = "police clutch corn ivory clinic picture chat nephew stable three gentle tenant";

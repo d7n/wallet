@@ -1,1 +1,1 @@
-var mnemonic = "acid labor senior axis vicious onion reward youth curve lucky apple sniff";
+var mnemonic = "curious long thunder pistol finger snap trouble future frozen recycle rail child";

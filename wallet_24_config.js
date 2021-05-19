@@ -1,1 +1,1 @@
-var mnemonic = "sleep prison pupil engage mind organ physical ten bounce warm cool squeeze";
+var mnemonic = "foster detect vicious degree decrease sure middle small priority special argue luggage";

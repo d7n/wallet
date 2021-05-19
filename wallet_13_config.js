@@ -1,1 +1,1 @@
-var mnemonic = "rough close topple reveal zone now position perfect chronic prize energy young";
+var mnemonic = "smoke pig antique police problem car exit club warfare awful script virtual";

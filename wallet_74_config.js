@@ -1,1 +1,1 @@
-var mnemonic = "market mandate shadow input attend egg judge tide inform sad return first";
+var mnemonic = "apology peanut fox indicate drink culture bleak giggle vital fragile icon april";

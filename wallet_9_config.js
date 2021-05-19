@@ -1,1 +1,1 @@
-var mnemonic = "law road member moral diesel cabbage ocean robust crane crucial simple online";
+var mnemonic = "type doll gate system language mass purchase blossom piano tube opera middle";

@@ -1,1 +1,1 @@
-var mnemonic = "alter unusual pitch hawk retreat champion check certain thought humor fortune unveil";
+var mnemonic = "nurse keen sunny jump atom again vendor circle soup rotate arrow mistake";

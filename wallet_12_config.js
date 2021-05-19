@@ -1,1 +1,1 @@
-var mnemonic = "cash tree word zone milk ugly same drip friend fruit clean humble";
+var mnemonic = "test wagon mask nuclear chaos ice elbow very few hill human gap";

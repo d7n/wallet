@@ -1,1 +1,1 @@
-var mnemonic = "town ill category oblige better siren pelican mansion step exchange capable rapid";
+var mnemonic = "sand drip any lady beef purity excess cover gorilla advance issue federal";

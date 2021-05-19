@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur silver proud occur nerve dance seven trumpet olive orange roof truck";
+var mnemonic = "build soldier wrist reveal cruise lobster analyst truth latin change guide energy";

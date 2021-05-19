@@ -1,1 +1,1 @@
-var mnemonic = "second stamp cluster mother announce lecture ladder pair vehicle slight chapter wolf";
+var mnemonic = "please memory eager kick cover despair organ physical feature salad tray erupt";

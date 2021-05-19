@@ -1,1 +1,1 @@
-var mnemonic = "year divorce broken fox regular float basic inject arctic emerge hurt drill";
+var mnemonic = "execute smart special release avoid run sadness faith common reject scare that";

@@ -1,1 +1,1 @@
-var mnemonic = "trap armed dream video twin verify merry myth spell wait jelly purchase";
+var mnemonic = "decrease scout discover school heavy force spice rifle exhaust exile almost moral";

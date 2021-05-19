@@ -1,1 +1,1 @@
-var mnemonic = "robust lawn stick play brush current morning strong margin kid below fee";
+var mnemonic = "bitter inquiry avocado caught achieve swift coyote stool index tuna cigar stumble";

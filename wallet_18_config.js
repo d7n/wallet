@@ -1,1 +1,1 @@
-var mnemonic = "mixed access soap boil glove refuse essence rare foot arrow foil donor";
+var mnemonic = "steak truth present pact utility uncle dirt sponsor armed fiber vast forget";

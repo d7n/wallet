@@ -1,1 +1,1 @@
-var mnemonic = "antique chronic toddler focus harvest elegant tattoo outside subway agent cactus review";
+var mnemonic = "private whisper behave swift breeze sadness feed cable fit deliver napkin decide";

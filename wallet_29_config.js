@@ -1,1 +1,1 @@
-var mnemonic = "finger slide diamond grief able bacon believe load rough swallow limit long";
+var mnemonic = "spot traffic usage blanket work rhythm gauge never message faith sense minor";

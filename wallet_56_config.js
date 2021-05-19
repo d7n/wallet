@@ -1,1 +1,1 @@
-var mnemonic = "report silent detail addict pig urge leaf multiply table grit tray page";
+var mnemonic = "episode athlete heavy change supreme primary gun pyramid steak young local orphan";

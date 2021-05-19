@@ -1,1 +1,1 @@
-var mnemonic = "gate obey wait raise perfect diary nasty provide easy casual cabbage clump";
+var mnemonic = "empower olympic knife merge bulk elder violin lamp novel frog danger gather";

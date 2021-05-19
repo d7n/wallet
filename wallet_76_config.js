@@ -1,1 +1,1 @@
-var mnemonic = "program lab summer problem hunt spider engage space burst walnut boss strategy";
+var mnemonic = "solar teach transfer laundry sponsor fix atom exotic trick waste labor keep";

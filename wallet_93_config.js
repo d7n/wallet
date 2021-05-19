@@ -1,1 +1,1 @@
-var mnemonic = "bronze trap ginger blouse decade boy butter fiction goat net escape often";
+var mnemonic = "frog enemy coin gold gate knock identify raw teach guitar comfort normal";

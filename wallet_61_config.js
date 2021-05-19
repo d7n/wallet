@@ -1,1 +1,1 @@
-var mnemonic = "help post hat can problem infant tuition mail tongue gossip maple fly";
+var mnemonic = "pipe pattern ice rocket portion chase define solution present proof opera noble";

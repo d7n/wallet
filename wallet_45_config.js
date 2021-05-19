@@ -1,1 +1,1 @@
-var mnemonic = "below entry crazy feature horn merry scout foil dune wealth remain endorse";
+var mnemonic = "assault feed jazz fault angry exile heavy unit city dust seminar only";

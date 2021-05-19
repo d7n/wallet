@@ -1,1 +1,1 @@
-var mnemonic = "three bonus extend bunker tackle tourist shallow office twice town exact trophy";
+var mnemonic = "easy cry mind amazing live host hidden illness accident nation reward buzz";

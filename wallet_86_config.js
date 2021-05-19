@@ -1,1 +1,1 @@
-var mnemonic = "entire riot spend image meadow differ trial blue cause usual battle trick";
+var mnemonic = "recipe thought dutch box pet guide elder version grain nice salad jewel";

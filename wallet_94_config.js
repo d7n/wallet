@@ -1,1 +1,1 @@
-var mnemonic = "moral useful sugar domain defy teach baby ramp better response address guess";
+var mnemonic = "grit essay reveal pass weapon shrug general boy tiny column reopen casino";

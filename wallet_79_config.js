@@ -1,1 +1,1 @@
-var mnemonic = "hair nerve what cute monitor hill risk pepper cloud desk cabbage manual";
+var mnemonic = "safe combine visual phrase road always mesh when casual eagle project step";

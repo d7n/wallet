@@ -1,1 +1,1 @@
-var mnemonic = "enroll very mesh common member ozone bright dial potato mention fabric local";
+var mnemonic = "universe forward between apart sail rate arrive thrive beach inform used worry";

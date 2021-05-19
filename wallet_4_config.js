@@ -1,1 +1,1 @@
-var mnemonic = "master talk gossip host conduct banana stomach keen dash custom deliver chair";
+var mnemonic = "stay style wheel detail absurd catalog theme access dove dial cereal unit";

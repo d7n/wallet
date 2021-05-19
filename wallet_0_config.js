@@ -1,1 +1,1 @@
-var mnemonic = "rib dry december place alert cream fame fault holiday predict memory funny";
+var mnemonic = "spice vessel walk robot fun sea crunch duty way wing coyote doll";

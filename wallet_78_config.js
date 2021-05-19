@@ -1,1 +1,1 @@
-var mnemonic = "begin silly correct book spread slide menu govern lady muffin join waste";
+var mnemonic = "crouch rally apple scan plunge arena scheme december vanish language future occur";

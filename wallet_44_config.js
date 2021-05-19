@@ -1,1 +1,1 @@
-var mnemonic = "slush antenna summer term main daring someone shine useless refuse pretty pole";
+var mnemonic = "attitude casual edge dose local jump install ocean now glow define ceiling";

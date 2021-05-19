@@ -1,1 +1,1 @@
-var mnemonic = "also bench surface soda town hint gesture crawl zone debate stem double";
+var mnemonic = "royal attack broken antenna focus project panda tuition split mandate become chief";

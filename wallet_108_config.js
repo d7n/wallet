@@ -1,1 +1,1 @@
-var mnemonic = "plate acid gate deposit move change mixture repair fragile vague much bench";
+var mnemonic = "champion gospel barrel evil glare fun filter side then term mix cruel";

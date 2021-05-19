@@ -1,1 +1,1 @@
-var mnemonic = "iron popular vital dilemma analyst deposit spy addict lens fence cinnamon almost";
+var mnemonic = "must cat relax pottery rare jar wrap match space desk maple grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "any scout calm earth boss pledge hamster sound volume scare ivory road";
+var mnemonic = "property harsh goat gas soup runway unfair senior good arch slender immune";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy print bind viable drama crunch same cinnamon diary field possible vibrant";
+var mnemonic = "chase hole acquire mad cloth ring height detect kit want menu solve";

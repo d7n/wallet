@@ -1,1 +1,1 @@
-var mnemonic = "garage poverty snap brain proof vault either popular knock mean museum visual";
+var mnemonic = "slow hood example correct tag brother visual shrimp orient great mobile snack";

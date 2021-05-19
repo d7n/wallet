@@ -1,1 +1,1 @@
-var mnemonic = "hunt slow law crush teach come couch country whip shallow topple smoke";
+var mnemonic = "trust reopen okay broccoli size neutral soccer winter foil blade response caution";

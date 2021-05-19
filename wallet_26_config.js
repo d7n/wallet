@@ -1,1 +1,1 @@
-var mnemonic = "first refuse seed border release fancy seek radar seven flag orient echo";
+var mnemonic = "echo common report people claw angle noise topic twelve anchor human blanket";

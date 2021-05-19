@@ -1,1 +1,1 @@
-var mnemonic = "beef merge tent forget shoulder cute neither kit coin flavor awesome twenty";
+var mnemonic = "song settle pupil crouch squirrel regret group track infant shed simple buyer";

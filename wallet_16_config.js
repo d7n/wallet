@@ -1,1 +1,1 @@
-var mnemonic = "whisper prize paper twenty other business melt you marble unhappy have anxiety";
+var mnemonic = "bonus video pioneer increase during fashion category shop street major various grid";

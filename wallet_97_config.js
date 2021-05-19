@@ -1,1 +1,1 @@
-var mnemonic = "such myself maid announce control affair syrup asset figure inner rubber oak";
+var mnemonic = "leg mistake swap history mention desk key inquiry two element olympic price";

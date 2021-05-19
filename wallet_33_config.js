@@ -1,1 +1,1 @@
-var mnemonic = "water prize quantum bulk cheap nut lottery fame eyebrow window brave chief";
+var mnemonic = "horn slab beach parent minute smart cluster borrow voice fortune clutch famous";

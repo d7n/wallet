@@ -1,1 +1,1 @@
-var mnemonic = "slide best divorce ride outside pink robust minor movie cloud portion buyer";
+var mnemonic = "shield friend derive liquid twelve can circle course focus ghost capable twelve";

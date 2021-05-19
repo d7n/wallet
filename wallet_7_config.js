@@ -1,1 +1,1 @@
-var mnemonic = "across trophy wood turkey legal doctor meadow diesel weapon bean volcano only";
+var mnemonic = "misery march blame coach razor keen correct ensure arrow tunnel today large";

@@ -1,1 +1,1 @@
-var mnemonic = "oven indicate tell inherit reject impact chaos crucial another boring setup huge";
+var mnemonic = "universe bachelor ladder coin empower talk post quiz outdoor laptop wedding decline";

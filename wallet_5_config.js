@@ -1,1 +1,1 @@
-var mnemonic = "click figure connect gap half agent hub bean crisp carry boat ask";
+var mnemonic = "kit host run spatial mirror accuse slogan slice maximum marine search clump";

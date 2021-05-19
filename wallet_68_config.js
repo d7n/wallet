@@ -1,1 +1,1 @@
-var mnemonic = "leaf gap muscle gold okay river frost movie echo visual upper zebra";
+var mnemonic = "black brick clinic tourist tongue dial recycle animal must limit talk laptop";

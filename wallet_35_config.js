@@ -1,1 +1,1 @@
-var mnemonic = "license vivid practice car neither enough fresh evoke soon bone clap guide";
+var mnemonic = "crawl gather aim mobile you fresh arctic vehicle gate beef crazy opera";

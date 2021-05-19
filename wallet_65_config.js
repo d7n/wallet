@@ -1,1 +1,1 @@
-var mnemonic = "country shine stand trial load search kiss simple miracle coil actual teach";
+var mnemonic = "more say during used common asset lock thumb quarter gift motion assist";

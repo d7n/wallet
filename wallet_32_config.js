@@ -1,1 +1,1 @@
-var mnemonic = "maze person start economy village steak inside already manual bleak left actual";
+var mnemonic = "spend weather resist join lumber below water upper borrow candy flip drop";

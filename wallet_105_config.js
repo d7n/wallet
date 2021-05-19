@@ -1,1 +1,1 @@
-var mnemonic = "pink moon day lend punch thing blue inch youth assault mule violin";
+var mnemonic = "coffee tribe wear gospel scrap boat oak resist divorce enemy private furnace";

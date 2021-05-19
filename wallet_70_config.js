@@ -1,1 +1,1 @@
-var mnemonic = "tilt prosper jelly puzzle pet believe bomb enough pitch wide private exhibit";
+var mnemonic = "until rail oil blur save effort major laundry chair rain skill latin";

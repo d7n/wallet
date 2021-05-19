@@ -1,1 +1,1 @@
-var mnemonic = "burst garden latin oil frame naive subject table pass uniform pelican punch";
+var mnemonic = "found that hour special innocent step tired able shock destroy hawk chronic";

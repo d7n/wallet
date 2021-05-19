@@ -1,1 +1,1 @@
-var mnemonic = "time blur option display test front weird enrich shock account claim forum";
+var mnemonic = "sort oxygen public carpet shallow federal invest matrix bid dish parrot clip";
