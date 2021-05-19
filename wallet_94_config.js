@@ -1,1 +1,1 @@
-var mnemonic = "tilt casual weather proof deputy uncover road puppy equal hobby bubble gap";
+var mnemonic = "wish depth fever sweet laptop will yard boost torch purse act unfair";

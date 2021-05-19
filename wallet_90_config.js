@@ -1,1 +1,1 @@
-var mnemonic = "document cry friend idle cube mother napkin hungry add inhale duck because";
+var mnemonic = "boy entry wasp genre find thank damp common skull moment code bike";

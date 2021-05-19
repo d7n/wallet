@@ -1,1 +1,1 @@
-var mnemonic = "mistake nation sort describe wish injury member badge convince ritual deliver window";
+var mnemonic = "produce canal deal predict pave universe build rotate lonely coil smoke face";

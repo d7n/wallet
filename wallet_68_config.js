@@ -1,1 +1,1 @@
-var mnemonic = "mountain fantasy leisure rent disagree case swear merge current document foster milk";
+var mnemonic = "cabin lesson unit enroll giggle essay hello crew mosquito notable castle exotic";

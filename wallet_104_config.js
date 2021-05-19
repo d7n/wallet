@@ -1,1 +1,1 @@
-var mnemonic = "sorry sustain unlock donkey settle mixed woman forget bright ritual priority exchange";
+var mnemonic = "strategy soda draw choose net patch provide unlock fantasy grape profit harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "put drive child balcony minor happy survey cradle equal exist surprise front";
+var mnemonic = "balance snack critic spy lunar worry chapter stadium fiscal want video topple";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur remove velvet injury regret believe captain author rebel hand sword rough";
+var mnemonic = "wet seed afford talent skin shiver ten throw rib famous sort question";

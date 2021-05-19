@@ -1,1 +1,1 @@
-var mnemonic = "dwarf asthma shoot share brown egg join relief panther unhappy banner hunt";
+var mnemonic = "bacon hollow upset must drift below trim essay match maid sight split";

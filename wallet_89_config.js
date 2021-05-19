@@ -1,1 +1,1 @@
-var mnemonic = "forget primary leg ride worth club employ ring portion omit opera again";
+var mnemonic = "squeeze sugar purity path rural wrong right snap lawn maximum affair volume";

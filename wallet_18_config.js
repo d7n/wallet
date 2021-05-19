@@ -1,1 +1,1 @@
-var mnemonic = "panther step lion mesh ethics lava friend brief album ladder motor joke";
+var mnemonic = "legal mimic clerk crucial energy awesome butter lecture rebel stage shed oppose";

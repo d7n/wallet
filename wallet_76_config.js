@@ -1,1 +1,1 @@
-var mnemonic = "humor length reduce book apart until proud sing close urge obscure attract";
+var mnemonic = "manual ride sudden enough prison scout deputy habit buffalo planet split hospital";

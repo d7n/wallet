@@ -1,1 +1,1 @@
-var mnemonic = "replace guard churn animal old normal beef animal logic swing possible busy";
+var mnemonic = "work happy misery pelican mixed school include defense bench merry silent hour";

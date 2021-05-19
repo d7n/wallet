@@ -1,1 +1,1 @@
-var mnemonic = "culture milk impulse tuna quit despair mosquito fox option book sign capable";
+var mnemonic = "blossom praise option daughter myself address guide uniform depart cactus such furnace";

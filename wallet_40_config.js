@@ -1,1 +1,1 @@
-var mnemonic = "current pull eternal rabbit scatter entry adult table sugar glare frozen oven";
+var mnemonic = "smoke floor brave north gossip rib salad castle black crime describe sword";

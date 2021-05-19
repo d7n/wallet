@@ -1,1 +1,1 @@
-var mnemonic = "buddy reduce easily obtain muscle prison acoustic room october produce charge tube";
+var mnemonic = "clarify pill emotion garbage lecture dynamic bitter fat enjoy logic essence apple";

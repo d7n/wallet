@@ -1,1 +1,1 @@
-var mnemonic = "price steel group inflict chest wonder relax history smile clay aisle girl";
+var mnemonic = "flag fury beyond employ dress improve analyst law crucial lumber observe slide";

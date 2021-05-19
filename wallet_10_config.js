@@ -1,1 +1,1 @@
-var mnemonic = "view merry pencil scissors bread smile jungle recipe text total sun uncle";
+var mnemonic = "pattern excuse upon blossom sun call absent eagle escape afford nothing horse";

@@ -1,1 +1,1 @@
-var mnemonic = "select then eight sketch trip unveil twenty drip caution jaguar tortoise crawl";
+var mnemonic = "coconut magnet dinosaur fog antenna avoid puzzle garbage multiply inch vacuum hood";

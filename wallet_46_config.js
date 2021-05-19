@@ -1,1 +1,1 @@
-var mnemonic = "quantum casual error laundry earn tennis address announce message once walk tape";
+var mnemonic = "salt famous much retreat census toward drill machine solar rebel midnight half";

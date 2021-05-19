@@ -1,1 +1,1 @@
-var mnemonic = "reward valid worth duty crystal pipe tobacco dress dignity tip alpha cloud";
+var mnemonic = "spring hybrid man slice march found entry tomato scan toddler gold pretty";

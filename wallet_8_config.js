@@ -1,1 +1,1 @@
-var mnemonic = "boil rare twenty blind timber pill funny tell kitchen crash pistol vanish";
+var mnemonic = "village lesson afford belt ill noble ring about aunt aim used direct";

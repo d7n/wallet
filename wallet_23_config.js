@@ -1,1 +1,1 @@
-var mnemonic = "knock reject eyebrow sun inflict pink forward caution club gossip feature mad";
+var mnemonic = "embrace evidence door antenna crumble hen board park alien honey damp question";

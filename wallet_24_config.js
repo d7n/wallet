@@ -1,1 +1,1 @@
-var mnemonic = "pretty ethics clump dial split agree pet silver arena glory member waste";
+var mnemonic = "vocal kidney vessel remember sand skirt almost nation pipe vendor flame common";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety fatal enact sniff high token deputy burger sausage emerge sort guess";
+var mnemonic = "cup reflect cruise critic organ whip happy rabbit slab nose scan forum";

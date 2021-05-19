@@ -1,1 +1,1 @@
-var mnemonic = "sample refuse night dress sauce caution ethics truck danger road aim wrong";
+var mnemonic = "deny march worry february absurd bubble more network kiwi exercise give soldier";

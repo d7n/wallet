@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stem world easy pudding slogan crouch wire bicycle legend biology famous";
+var mnemonic = "panda runway own tiny narrow limb scout city during second chat pilot";

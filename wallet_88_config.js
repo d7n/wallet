@@ -1,1 +1,1 @@
-var mnemonic = "purity leisure soldier master ten under fatal step satisfy treat need stereo";
+var mnemonic = "clever initial betray alert there have base able modify lift toilet party";

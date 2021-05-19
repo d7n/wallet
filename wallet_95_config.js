@@ -1,1 +1,1 @@
-var mnemonic = "develop account inherit team bundle seminar calm know hurry limit stamp better";
+var mnemonic = "barely galaxy orchard odor use vital allow language special twice brisk steak";

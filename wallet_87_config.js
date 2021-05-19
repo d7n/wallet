@@ -1,1 +1,1 @@
-var mnemonic = "switch juice glance genre shoe that lizard tiny cry tongue love tip";
+var mnemonic = "issue dragon sad summer sight prepare museum aware way divide define alley";

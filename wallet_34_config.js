@@ -1,1 +1,1 @@
-var mnemonic = "assist grow gold bike cost warfare pulp chronic hard wolf allow olympic";
+var mnemonic = "tone shy census audit frequent ring assume produce until profit distance shine";

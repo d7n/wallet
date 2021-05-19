@@ -1,1 +1,1 @@
-var mnemonic = "vital cost void grow convince plate nephew sunny mistake today ripple dove";
+var mnemonic = "fog rotate harsh federal brief gift onion drill creek install arrive banner";

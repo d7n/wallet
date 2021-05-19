@@ -1,1 +1,1 @@
-var mnemonic = "coconut faculty target umbrella flower waste fortune kit uncover mother urban dash";
+var mnemonic = "height ranch parent situate athlete dream table prepare talent property lunar junk";

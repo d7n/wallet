@@ -1,1 +1,1 @@
-var mnemonic = "raise chair inhale delay mechanic dirt certain fly shallow keep flower zone";
+var mnemonic = "toss cave slim kite reflect sister mind student scene frozen average alien";

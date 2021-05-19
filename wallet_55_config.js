@@ -1,1 +1,1 @@
-var mnemonic = "broken tray group corn truly offer property dizzy day pottery story race";
+var mnemonic = "horn entry one hero wool tube someone profit cheese tomorrow video now";

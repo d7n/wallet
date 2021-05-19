@@ -1,1 +1,1 @@
-var mnemonic = "tortoise rare force educate stadium ball tongue rug kite rich toy barely";
+var mnemonic = "during tongue library verify curtain exotic focus possible strategy cannon snack potato";

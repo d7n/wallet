@@ -1,1 +1,1 @@
-var mnemonic = "rally target master deny vague conduct close item load find affair skill";
+var mnemonic = "ride practice logic key pretty river process jaguar crystal gloom route pen";

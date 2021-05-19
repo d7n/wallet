@@ -1,1 +1,1 @@
-var mnemonic = "beef plate donkey bag people host analyst federal sight imitate drip orbit";
+var mnemonic = "identify friend digital car clip outer advance goose market verb divert derive";

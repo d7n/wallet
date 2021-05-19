@@ -1,1 +1,1 @@
-var mnemonic = "accident human tobacco brick spider cause praise cheap expire reopen half paddle";
+var mnemonic = "wild lake deposit work main defy catalog soldier record online castle motion";

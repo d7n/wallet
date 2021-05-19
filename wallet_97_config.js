@@ -1,1 +1,1 @@
-var mnemonic = "broken angry race output derive spawn sing anchor kid turn speak element";
+var mnemonic = "scorpion help october clump chat local defense bench custom deny reduce inform";

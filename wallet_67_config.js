@@ -1,1 +1,1 @@
-var mnemonic = "pink horror adapt innocent broken give track merge margin open blue fringe";
+var mnemonic = "glimpse jacket ketchup muscle tube amount phone blast sea sense wash minor";

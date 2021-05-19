@@ -1,1 +1,1 @@
-var mnemonic = "fee strategy elbow inflict timber renew rose wave olive pumpkin scatter scorpion";
+var mnemonic = "unique office pipe put merit liberty gold anger neutral useful idle width";

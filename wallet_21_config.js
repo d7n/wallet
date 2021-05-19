@@ -1,1 +1,1 @@
-var mnemonic = "subway very primary decide average choice receive height honey fatigue kangaroo common";
+var mnemonic = "essence disagree scatter weekend dad popular wait method engine holiday truth clump";

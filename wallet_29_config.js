@@ -1,1 +1,1 @@
-var mnemonic = "outdoor helmet exchange close alien ugly pass bottom panther eternal favorite athlete";
+var mnemonic = "first acid surprise remind bread monster cruise snow own vicious whisper else";

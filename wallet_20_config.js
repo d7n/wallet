@@ -1,1 +1,1 @@
-var mnemonic = "police sand light unusual female top swarm blush seat slender cupboard lizard";
+var mnemonic = "seat express attract suit run top weather spare swallow sand vote battle";

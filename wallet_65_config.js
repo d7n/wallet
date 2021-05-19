@@ -1,1 +1,1 @@
-var mnemonic = "trick rib refuse youth child today shield perfect tornado task birth web";
+var mnemonic = "pass carbon unknown chronic dog razor pattern enroll quantum runway inject mystery";

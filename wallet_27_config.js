@@ -1,1 +1,1 @@
-var mnemonic = "ritual quantum brown boy jazz ask sock light vote guide mosquito forest";
+var mnemonic = "toddler pencil leader script silver involve potato cloud summer goose border sea";

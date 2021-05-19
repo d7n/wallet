@@ -1,1 +1,1 @@
-var mnemonic = "baby early unhappy doll gym hazard crisp umbrella festival vicious roast comfort";
+var mnemonic = "jazz cup reject vague enforce pear surround display world either idle feel";

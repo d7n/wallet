@@ -1,1 +1,1 @@
-var mnemonic = "now vicious obscure motion ordinary abandon because onion muscle food vibrant bitter";
+var mnemonic = "change print excess under camp online own trade kiss goat carry release";

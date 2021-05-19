@@ -1,1 +1,1 @@
-var mnemonic = "perfect alcohol motor enemy husband tackle inform cook budget film poem reopen";
+var mnemonic = "rhythm fix iron fury radio lake chest enjoy success cram strike kitchen";

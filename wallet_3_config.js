@@ -1,1 +1,1 @@
-var mnemonic = "seminar nut net rhythm cactus cave catalog coffee cross stadium host bargain";
+var mnemonic = "young scatter scrub disorder actor local venue task dry pencil poverty biology";

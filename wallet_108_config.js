@@ -1,1 +1,1 @@
-var mnemonic = "rocket toast fame armor once shed disagree argue palm disorder idea mimic";
+var mnemonic = "sight noble protect goose insane arena bright attack modify fossil pill convince";

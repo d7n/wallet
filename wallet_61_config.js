@@ -1,1 +1,1 @@
-var mnemonic = "tribe endless fire able worry rate come denial patient connect vapor lava";
+var mnemonic = "matter lake floor clarify boring fly skill general credit detect sick mosquito";

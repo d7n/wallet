@@ -1,1 +1,1 @@
-var mnemonic = "into misery gorilla more hybrid below boy rug person caught laugh false";
+var mnemonic = "near rice budget festival fury dynamic surge situate apple nerve like tape";

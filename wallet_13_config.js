@@ -1,1 +1,1 @@
-var mnemonic = "hero art shoot angle dilemma vote pizza elite major action yard traffic";
+var mnemonic = "consider dance dragon push dumb awake later rotate end normal abstract sick";

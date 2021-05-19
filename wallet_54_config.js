@@ -1,1 +1,1 @@
-var mnemonic = "hurdle soup laundry age window uncle ritual size ticket inhale urge assume";
+var mnemonic = "unhappy transfer coil silver sock evil tonight wheat rice father salad photo";

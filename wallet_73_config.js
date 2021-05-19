@@ -1,1 +1,1 @@
-var mnemonic = "matter pass brand zebra orient flee vital conduct pioneer staff melody sphere";
+var mnemonic = "issue loud journey happy patient noble scissors early denial arena gadget pipe";

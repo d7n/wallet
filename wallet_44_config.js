@@ -1,1 +1,1 @@
-var mnemonic = "asset travel crush two echo drift educate hurdle judge wink fan card";
+var mnemonic = "able various report pizza exchange top ring clump cotton cloud high spoil";

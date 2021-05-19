@@ -1,1 +1,1 @@
-var mnemonic = "scatter crash scorpion daughter fantasy stadium topic legal protect comfort drink bar";
+var mnemonic = "stumble amount position version effort soul emerge history mean neutral aware erode";

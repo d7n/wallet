@@ -1,1 +1,1 @@
-var mnemonic = "limb wool void arena hen tent manual paddle hotel behave seven frequent";
+var mnemonic = "raven hobby perfect suspect silent broken beef video immense thing black grain";

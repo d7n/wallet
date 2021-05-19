@@ -1,1 +1,1 @@
-var mnemonic = "relief another office coffee detect employ glass manage stomach practice valid push";
+var mnemonic = "bind attack quiz retreat coach couch vehicle head meat myself fan crush";

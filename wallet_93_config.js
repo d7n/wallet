@@ -1,1 +1,1 @@
-var mnemonic = "announce screen crash memory decade mother onion vote quiz champion vault gloom";
+var mnemonic = "potato meadow broccoli between connect push candy deposit fancy animal crop muffin";

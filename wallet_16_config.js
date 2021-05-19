@@ -1,1 +1,1 @@
-var mnemonic = "forest guilt pottery adjust cousin power avocado skate turn wood kangaroo finish";
+var mnemonic = "curtain achieve inside anger soap spawn empty unable arch mosquito captain similar";

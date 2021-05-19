@@ -1,1 +1,1 @@
-var mnemonic = "clog search goat half stove street merge tourist radio cute liberty bitter";
+var mnemonic = "badge elite wonder amount laptop allow grain alien wall below capital deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "game broken drink swap noise switch slam garment peasant hire easily master";
+var mnemonic = "useless concert aerobic oven swarm local half limb social gossip dignity detail";

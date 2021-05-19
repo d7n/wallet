@@ -1,1 +1,1 @@
-var mnemonic = "scorpion jar rotate stove parrot mammal wild pool walk champion jungle entry";
+var mnemonic = "equal apart october empty north twist undo diesel plunge position give jeans";

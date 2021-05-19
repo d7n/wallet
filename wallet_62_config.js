@@ -1,1 +1,1 @@
-var mnemonic = "garlic supreme nation theory food ball globe answer name garment cannon receive";
+var mnemonic = "case submit glory twice title opinion describe shine sound nice minimum visual";

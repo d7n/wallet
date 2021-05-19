@@ -1,1 +1,1 @@
-var mnemonic = "tornado humor exclude puppy axis mail again enforce stuff ethics candy snake";
+var mnemonic = "chicken nasty deny surprise sail raccoon eager march ticket clog wall dolphin";

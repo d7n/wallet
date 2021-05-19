@@ -1,1 +1,1 @@
-var mnemonic = "soul feature govern original slow matrix soon offer crowd apology twenty alarm";
+var mnemonic = "glue output occur lamp error patient ripple skill boring live fiscal message";

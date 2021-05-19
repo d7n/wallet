@@ -1,1 +1,1 @@
-var mnemonic = "sure spawn local six ankle retire hood ugly pond stand box broken";
+var mnemonic = "toward worth banana announce amount payment answer mixture feel rookie enemy razor";

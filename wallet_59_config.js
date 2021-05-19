@@ -1,1 +1,1 @@
-var mnemonic = "suggest monkey cage tilt access clap cover off world stay olympic uphold";
+var mnemonic = "peanut file hole twin tribe hammer silent reopen edge frost sister endless";

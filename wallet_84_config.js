@@ -1,1 +1,1 @@
-var mnemonic = "sail drive wild wish flower length garage record pole because upgrade pair";
+var mnemonic = "fossil adjust reform fatigue slab army helmet cushion differ exotic ankle salon";

@@ -1,1 +1,1 @@
-var mnemonic = "custom rib monkey pilot result local conduct reopen fuel enlist sport laptop";
+var mnemonic = "pass poverty person shed glory disagree turtle lazy clinic road monster army";

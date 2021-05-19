@@ -1,1 +1,1 @@
-var mnemonic = "drill slot nerve brisk earn gym piano ramp gain absorb nerve shadow";
+var mnemonic = "renew aware unique carpet crash grain miracle adapt raw birth survey layer";

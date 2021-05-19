@@ -1,1 +1,1 @@
-var mnemonic = "web alley marine narrow cousin car post draft modify great minute chalk";
+var mnemonic = "upper mystery maximum bamboo slice vicious promote praise amazing twist surface admit";

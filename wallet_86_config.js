@@ -1,1 +1,1 @@
-var mnemonic = "tell bus screen boss act possible auction speak ignore intact cousin law";
+var mnemonic = "angry idle search echo horror intact heart switch crime execute journey lens";

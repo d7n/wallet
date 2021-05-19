@@ -1,1 +1,1 @@
-var mnemonic = "hungry bargain manage swallow choose museum dice gloom vocal select candy surge";
+var mnemonic = "same waste ocean victory debate employ survey pole floor job melt traffic";

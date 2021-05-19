@@ -1,1 +1,1 @@
-var mnemonic = "gun throw industry female paddle chef permit lens cheap warm success solution";
+var mnemonic = "walnut lawsuit left vault dog entry infant museum seat inherit element soldier";

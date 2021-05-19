@@ -1,1 +1,1 @@
-var mnemonic = "expire liberty rapid kite orbit mother strategy unusual fatal attract best vast";
+var mnemonic = "summer coyote spring girl example task cream puzzle retreat consider fragile hurt";

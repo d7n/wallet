@@ -1,1 +1,1 @@
-var mnemonic = "sign nuclear staff stereo cram year century polar magnet below curious city";
+var mnemonic = "rent first matter paddle betray squirrel explain wing accident stool position throw";

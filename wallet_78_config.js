@@ -1,1 +1,1 @@
-var mnemonic = "mind trend donate idle pepper sugar mother drift toilet bomb able army";
+var mnemonic = "property popular exhibit wasp race mass dolphin chimney shift uphold miracle swift";

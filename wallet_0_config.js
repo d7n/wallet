@@ -1,1 +1,1 @@
-var mnemonic = "document similar input fortune across illness mixture affair flat legal wet alpha";
+var mnemonic = "town diagram lady mistake era sibling mimic gold powder stadium crystal say";

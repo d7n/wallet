@@ -1,1 +1,1 @@
-var mnemonic = "pipe embrace never seminar dirt wise skate enough mango truth tube laugh";
+var mnemonic = "sight dolphin frown remind undo task cage evolve father pen wealth cloth";

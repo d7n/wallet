@@ -1,1 +1,1 @@
-var mnemonic = "benefit maple butter post hint before general leopard real pilot alter squeeze";
+var mnemonic = "garlic hand snack panel language egg art aisle miracle tent lazy salon";

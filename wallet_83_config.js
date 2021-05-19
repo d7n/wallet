@@ -1,1 +1,1 @@
-var mnemonic = "kite guide sibling tiger cliff conduct arena swamp symbol raccoon calm small";
+var mnemonic = "toss latin over tube fragile style return one when cricket lyrics memory";

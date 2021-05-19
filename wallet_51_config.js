@@ -1,1 +1,1 @@
-var mnemonic = "flush fog online clip occur army receive waste put ordinary stomach toe";
+var mnemonic = "coffee casino repair time grit source square arrive grunt curve scout bracket";

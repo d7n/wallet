@@ -1,1 +1,1 @@
-var mnemonic = "hospital message snack winter body dial tomato teach magnet practice orphan resemble";
+var mnemonic = "wife wall boy foam circle column abuse brand apple april spare duty";

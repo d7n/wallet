@@ -1,1 +1,1 @@
-var mnemonic = "prison vanish lady wash choice ramp strategy must evil flip bomb pumpkin";
+var mnemonic = "nurse aisle balance acid pipe over slight season renew city bounce issue";

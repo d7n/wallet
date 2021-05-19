@@ -1,1 +1,1 @@
-var mnemonic = "vibrant buffalo ginger gesture dose bubble village parent spray promote shoe recall";
+var mnemonic = "tower enforce universe replace negative zoo cabbage sock key group maple pigeon";

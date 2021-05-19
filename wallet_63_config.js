@@ -1,1 +1,1 @@
-var mnemonic = "coyote flame marriage very food health finger apology actor fatigue hint federal";
+var mnemonic = "welcome display hover clinic swarm chat story orphan chair vanish blossom differ";

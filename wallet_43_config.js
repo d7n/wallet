@@ -1,1 +1,1 @@
-var mnemonic = "basket letter erase sting kitchen demise promote theme rare message health punch";
+var mnemonic = "define chimney night stage card claw exotic inmate defy sunset action soldier";

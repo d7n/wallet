@@ -1,1 +1,1 @@
-var mnemonic = "raise tent indicate woman dilemma infant trophy dirt basket dinner slow hybrid";
+var mnemonic = "quit guitar draft stereo tobacco learn interest pitch unaware select monitor dentist";
