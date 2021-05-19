@@ -1,1 +1,1 @@
-var mnemonic = "meat purity ensure glory reform panther breeze time combine clown blanket shoot";
+var mnemonic = "notice august oak april pretty sleep fiscal draw reason giraffe ostrich south";

@@ -1,1 +1,1 @@
-var mnemonic = "spell diagram summer either chapter minimum funny nurse type invest north maple";
+var mnemonic = "quiz palm best dinner riot crowd rebuild around unknown add exchange steak";

@@ -1,1 +1,1 @@
-var mnemonic = "happy decorate prevent skirt toss bubble someone joy fine split sport cross";
+var mnemonic = "visa connect crouch canyon shadow harbor metal recall parade deal picnic rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "mango sick coral special announce wave ring long flame citizen canoe birth";
+var mnemonic = "birth season burden angle prison lava brass thrive depth title abstract napkin";

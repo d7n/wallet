@@ -1,1 +1,1 @@
-var mnemonic = "merit person december wheel name impose rib neck flock source spell slender";
+var mnemonic = "wage funny need result apple prize breeze gadget enemy fringe catch use";

@@ -1,1 +1,1 @@
-var mnemonic = "weather rookie negative deputy page satisfy renew vault priority indoor motor movie";
+var mnemonic = "kind man struggle mesh replace alarm seminar vehicle age seed clinic upset";

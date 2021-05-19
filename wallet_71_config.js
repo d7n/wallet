@@ -1,1 +1,1 @@
-var mnemonic = "bright salon finger slide fine child square write enroll rural canvas connect";
+var mnemonic = "parent element neutral furnace possible shop orbit shield barrel rose kingdom strike";

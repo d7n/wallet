@@ -1,1 +1,1 @@
-var mnemonic = "better hollow empower mouse easy organ ladder lizard federal insane bag lamp";
+var mnemonic = "bleak rose garbage dutch front stumble refuse goat sail orange visual strategy";

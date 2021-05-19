@@ -1,1 +1,1 @@
-var mnemonic = "eternal need section helmet naive lady cause element utility valid year album";
+var mnemonic = "razor copy bleak barrel wash common that chief federal kit lion render";

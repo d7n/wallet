@@ -1,1 +1,1 @@
-var mnemonic = "table ecology edit click wash style edit educate clinic rent general domain";
+var mnemonic = "pulse raw muscle tobacco grocery wall foil memory cube correct all unit";

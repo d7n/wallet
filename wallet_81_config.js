@@ -1,1 +1,1 @@
-var mnemonic = "pass cage gym alien impulse gain hold sport lend hold excite crush";
+var mnemonic = "dignity raccoon trend eternal employ very flip patient forward country bird kick";

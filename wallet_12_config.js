@@ -1,1 +1,1 @@
-var mnemonic = "mix flight pen install stick love silent secret spoil faint spy thumb";
+var mnemonic = "hurdle brisk legend clip enough tiny wing just coil present estate rigid";

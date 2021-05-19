@@ -1,1 +1,1 @@
-var mnemonic = "credit bargain speed dad balcony cigar knock acquire number drift style copy";
+var mnemonic = "mutual wasp aerobic roast blast assault brass wink rifle permit gadget proof";

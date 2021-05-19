@@ -1,1 +1,1 @@
-var mnemonic = "punch bar episode mouse fitness father moment lady whisper holiday figure slush";
+var mnemonic = "course tide amazing crowd chalk follow fossil critic warfare wine sad test";

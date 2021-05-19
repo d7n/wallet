@@ -1,1 +1,1 @@
-var mnemonic = "solve color sadness move address rubber stumble spawn heart rude label cover";
+var mnemonic = "silent off celery lady lizard material music police sound bicycle rice heart";

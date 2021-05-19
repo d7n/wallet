@@ -1,1 +1,1 @@
-var mnemonic = "dignity toilet oppose dash modify orbit cash bonus forum lady weird piece";
+var mnemonic = "just corn unfair thing three ball six clay winner mansion page birth";

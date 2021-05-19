@@ -1,1 +1,1 @@
-var mnemonic = "rail sleep blouse fiber double note admit uncle usage fitness riot limit";
+var mnemonic = "firm brief shock bone ladder foot any firm bomb element century critic";

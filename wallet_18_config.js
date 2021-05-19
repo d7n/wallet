@@ -1,1 +1,1 @@
-var mnemonic = "violin era ripple grocery awful wish spell mouse chest elbow machine blame";
+var mnemonic = "walk gather lava kite number father grief tragic diagram alert limit range";

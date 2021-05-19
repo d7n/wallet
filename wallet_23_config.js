@@ -1,1 +1,1 @@
-var mnemonic = "cake fringe evoke arm custom renew camera legal december stay goddess theory";
+var mnemonic = "forest gauge alone parent virus raven cabbage wish little level arrive exclude";

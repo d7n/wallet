@@ -1,1 +1,1 @@
-var mnemonic = "island injury afford ill pole oyster affair swamp outer trend evidence reason";
+var mnemonic = "today pet body liberty market display thought toilet obtain demise debate remind";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe device excite scout february follow area sense common usual train issue";
+var mnemonic = "pink female agent spring decade guilt window slogan indicate morning leader ring";

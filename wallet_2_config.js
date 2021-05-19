@@ -1,1 +1,1 @@
-var mnemonic = "muffin worth office quarter daughter feed degree derive faith airport snake habit";
+var mnemonic = "humble clean repeat visit million moment ill panther behind nation raven select";

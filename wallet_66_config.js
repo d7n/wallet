@@ -1,1 +1,1 @@
-var mnemonic = "filter convince episode label crumble hair rifle warfare ball bottom census dynamic";
+var mnemonic = "park tray valve cradle tourist child choose system gaze tool bus auction";

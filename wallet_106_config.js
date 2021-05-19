@@ -1,1 +1,1 @@
-var mnemonic = "sand machine relax lawsuit twist blossom ivory argue egg patrol time angry";
+var mnemonic = "number scatter scene coast midnight arctic final odor green tenant flash baby";

@@ -1,1 +1,1 @@
-var mnemonic = "run bright matter prize magnet maid version twelve city flavor blue brisk";
+var mnemonic = "hospital quit filter cousin swamp error merit tide explain frog swing cook";

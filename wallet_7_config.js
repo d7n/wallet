@@ -1,1 +1,1 @@
-var mnemonic = "frog miss abstract build outside language neutral just diary idea undo vehicle";
+var mnemonic = "acoustic insect angry crucial rookie ramp maximum talk rely exclude slab shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "excess planet crack salon enrich curtain liar engine electric cabin female vendor";
+var mnemonic = "escape merit winter truck confirm scheme kitten price enforce pony pilot zone";

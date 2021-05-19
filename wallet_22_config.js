@@ -1,1 +1,1 @@
-var mnemonic = "furnace napkin february consider genre truth tip teach liquid comic grape glory";
+var mnemonic = "hollow jewel cluster machine surprise hedgehog match exclude olive green enough minor";

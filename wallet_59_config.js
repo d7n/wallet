@@ -1,1 +1,1 @@
-var mnemonic = "mix ten destroy tail seek gold clap egg sock spell indicate grab";
+var mnemonic = "cousin blue brown group apology vessel round swap feed scissors observe estate";

@@ -1,1 +1,1 @@
-var mnemonic = "escape enter napkin weird file neglect over cupboard lady whip sort axis";
+var mnemonic = "pottery shrug pepper corn kiwi chat bird lock traffic flight pattern harsh";

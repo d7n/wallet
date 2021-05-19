@@ -1,1 +1,1 @@
-var mnemonic = "noise token gossip leopard arrange slot brother throw cost sure shell trim";
+var mnemonic = "burger leader relief tuition stomach bamboo million trash nation luxury segment verify";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh field uniform owner reform exact deer wet goat often plate oblige";
+var mnemonic = "treat left father rather eagle vivid slight slice birth muscle say slice";

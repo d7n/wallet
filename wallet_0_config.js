@@ -1,1 +1,1 @@
-var mnemonic = "detail shy desert fish foster worth grape shell tube vacuum common marble";
+var mnemonic = "warm deliver drop garbage say domain convince pond dash pet hurry coil";

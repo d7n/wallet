@@ -1,1 +1,1 @@
-var mnemonic = "creek more dress claim endorse manual traffic clap infant beyond patrol poet";
+var mnemonic = "segment normal crawl neither city warm year barely plunge mention model humble";

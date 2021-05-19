@@ -1,1 +1,1 @@
-var mnemonic = "end surge busy blanket gas base vocal depend ramp switch measure abstract";
+var mnemonic = "draw attend fiscal good pledge domain local estate tooth try attitude resemble";

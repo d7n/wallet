@@ -1,1 +1,1 @@
-var mnemonic = "come weather record milk engage beef logic glow aspect only roast disorder";
+var mnemonic = "sign decade metal enroll still life foster iron lava success scene goddess";

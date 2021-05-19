@@ -1,1 +1,1 @@
-var mnemonic = "shell else remember mystery caught trick gasp library book payment lounge village";
+var mnemonic = "tragic comfort apology flash bitter ride cup unknown keen drip island wage";

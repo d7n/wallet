@@ -1,1 +1,1 @@
-var mnemonic = "blood ankle fence laundry emerge true marble exact spot noodle sight believe";
+var mnemonic = "laugh cereal planet hover trim space author dose crunch element use nation";

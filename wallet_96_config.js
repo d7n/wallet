@@ -1,1 +1,1 @@
-var mnemonic = "transfer remind text middle vast depth park clay love innocent glove priority";
+var mnemonic = "supreme agree mosquito deny degree urge profit unfold broom extra window garden";

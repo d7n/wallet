@@ -1,1 +1,1 @@
-var mnemonic = "grit teach topple force dignity atom crumble lonely thunder aim early equal";
+var mnemonic = "trophy hidden laugh rose property pudding enter sample subway essence seat organ";

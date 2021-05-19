@@ -1,1 +1,1 @@
-var mnemonic = "give law arrange little need search clerk humor spawn select coach custom";
+var mnemonic = "enter dance repeat avoid embark jar staff invest glare news diet turkey";

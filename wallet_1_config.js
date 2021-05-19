@@ -1,1 +1,1 @@
-var mnemonic = "creek transfer cluster coast power people tortoise come crucial width bottom theory";
+var mnemonic = "direct mail coach struggle crack scheme false attitude law company float found";

@@ -1,1 +1,1 @@
-var mnemonic = "excess assist rose corn column book pitch maze used damage prepare visit";
+var mnemonic = "major lucky banana hen useless dwarf auction rapid outdoor impact goat smart";

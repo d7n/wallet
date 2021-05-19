@@ -1,1 +1,1 @@
-var mnemonic = "proud garment chief pink local shell pear struggle crop drill dish amount";
+var mnemonic = "save october nuclear horse pepper infant road sand noodle always book parrot";

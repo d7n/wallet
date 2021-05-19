@@ -1,1 +1,1 @@
-var mnemonic = "stuff gravity today little can car tonight know night layer spatial vote";
+var mnemonic = "become pretty anchor art evidence off spend vibrant mixture pattern manage learn";

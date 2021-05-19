@@ -1,1 +1,1 @@
-var mnemonic = "spider spatial village heavy ticket spike try grow unable matrix gospel social";
+var mnemonic = "frog august camera cluster remember stadium before region glove inherit picture burst";

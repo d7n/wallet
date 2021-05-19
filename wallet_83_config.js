@@ -1,1 +1,1 @@
-var mnemonic = "middle glue squeeze fault vague camera million else scheme omit they vendor";
+var mnemonic = "write luxury glass december satoshi kiwi amount document mixed enough hair surge";

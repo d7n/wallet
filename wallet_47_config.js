@@ -1,1 +1,1 @@
-var mnemonic = "basket scrap tourist giggle essence iron female shallow breeze equip clay check";
+var mnemonic = "stumble visa step sick list whisper better bridge sentence spike head gun";

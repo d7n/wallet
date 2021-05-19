@@ -1,1 +1,1 @@
-var mnemonic = "poem maze phrase require valve enemy merge success lens sponsor merry inside";
+var mnemonic = "swallow topic stumble glare segment never glory adult oyster neither rifle uphold";

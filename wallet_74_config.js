@@ -1,1 +1,1 @@
-var mnemonic = "skill local catch unhappy total resemble pave scrub hold viable chase erosion";
+var mnemonic = "offer drift defy today under shift season awful depart armor weird athlete";

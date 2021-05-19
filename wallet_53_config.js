@@ -1,1 +1,1 @@
-var mnemonic = "season help focus employ harsh sentence they pledge material fork expose typical";
+var mnemonic = "matter impulse custom hockey detect travel public atom open lunch essence copy";

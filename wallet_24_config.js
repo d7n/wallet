@@ -1,1 +1,1 @@
-var mnemonic = "trouble mule embark yellow steel moon goddess valid curtain cute time expire";
+var mnemonic = "bright drill coral category unit narrow fold subway cement blame motor provide";

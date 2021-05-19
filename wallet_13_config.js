@@ -1,1 +1,1 @@
-var mnemonic = "liquid fix detect risk treat liar coin uncover guilt crowd energy awake";
+var mnemonic = "cactus kick scale stool pluck thunder fun prefer notice drift alley measure";

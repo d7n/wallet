@@ -1,1 +1,1 @@
-var mnemonic = "pull bridge blush puzzle shield canoe sweet entry enforce column knock park";
+var mnemonic = "shield hurry volcano toast eternal letter balance fan soft long noise paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "hair wonder happy armed spot awake midnight traffic misery expect limit champion";
+var mnemonic = "rib acoustic wrestle winter swift jar fossil treat hedgehog ladder title output";

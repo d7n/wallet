@@ -1,1 +1,1 @@
-var mnemonic = "void unveil demand athlete dance twelve phone decide garage coin host bundle";
+var mnemonic = "erupt galaxy manual armor spring evoke end budget right ghost segment pole";

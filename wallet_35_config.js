@@ -1,1 +1,1 @@
-var mnemonic = "october lounge boost high fever distance atom scan bracket future wait catalog";
+var mnemonic = "notable gold rice faint metal soon brisk rotate glimpse morning false season";

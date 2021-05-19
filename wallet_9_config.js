@@ -1,1 +1,1 @@
-var mnemonic = "lemon tired mesh clip melt concert arrow diet inject suggest observe direct";
+var mnemonic = "into hill shine mutual chicken system naive wrestle dinner phrase weapon entry";

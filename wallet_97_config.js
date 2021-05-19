@@ -1,1 +1,1 @@
-var mnemonic = "addict primary marine alcohol renew initial safe improve machine polar tunnel citizen";
+var mnemonic = "toilet bean hollow garden occur stuff relax bachelor novel follow wrap find";

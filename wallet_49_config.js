@@ -1,1 +1,1 @@
-var mnemonic = "inner small life update drift name into cattle bar until riot feel";
+var mnemonic = "electric process clap trial glove height caution struggle two actor leopard fall";

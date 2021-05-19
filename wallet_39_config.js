@@ -1,1 +1,1 @@
-var mnemonic = "quality hood nerve festival month nation canyon artwork dynamic scout floor tobacco";
+var mnemonic = "slight admit traffic syrup own cabin shrug best fox where expose dutch";

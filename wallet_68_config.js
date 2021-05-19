@@ -1,1 +1,1 @@
-var mnemonic = "exist crisp pupil figure caught brave essay naive cannon dynamic special slow";
+var mnemonic = "tumble attitude sell choose fork situate obey book potato female welcome scrub";

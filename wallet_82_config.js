@@ -1,1 +1,1 @@
-var mnemonic = "clever shoe shock proud drama flock mirror alter seat rebuild elder ensure";
+var mnemonic = "robust inner permit indicate mechanic gentle lady rib skin morning valid pear";

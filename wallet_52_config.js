@@ -1,1 +1,1 @@
-var mnemonic = "equal iron time vocal loan cricket bird trouble hurt balance text table";
+var mnemonic = "legend shiver drive goat rocket insane destroy salt human grain wave finger";

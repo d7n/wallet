@@ -1,1 +1,1 @@
-var mnemonic = "heavy afford fall online budget balcony clever ginger twist modify ramp gaze";
+var mnemonic = "rebuild dress brisk boat country sport cage idle web come sister plastic";

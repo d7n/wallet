@@ -1,1 +1,1 @@
-var mnemonic = "prevent online debris eight smile wear lock must degree lesson salt worth";
+var mnemonic = "system real trumpet grunt message trial aim indoor danger bright inspire injury";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge increase doll broccoli odor truck announce wrestle model again manual deal";
+var mnemonic = "lumber wrong jeans intact voyage rail worry program gospel naive able mango";

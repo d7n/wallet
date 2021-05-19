@@ -1,1 +1,1 @@
-var mnemonic = "mutual service reduce exclude wheel peasant gravity fee bid vocal fix grace";
+var mnemonic = "knife outdoor immense cover later track guess jacket exhaust broken sadness giant";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform century library kit ask brave chunk today mule pet blame bird";
+var mnemonic = "cry strike title swear ready inch fruit like save rate curtain autumn";

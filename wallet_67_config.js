@@ -1,1 +1,1 @@
-var mnemonic = "they dove furnace day vibrant vendor split hill mass source canoe brown";
+var mnemonic = "pumpkin portion canal media word script near pole sketch coyote skate false";

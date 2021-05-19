@@ -1,1 +1,1 @@
-var mnemonic = "require spot aspect blouse giant tent evidence extend shallow switch lift sleep";
+var mnemonic = "renew wish gun buzz desk welcome music crane portion slam toe arrest";

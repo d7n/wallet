@@ -1,1 +1,1 @@
-var mnemonic = "doctor other update hidden indicate brain slogan unfold insect grape desert hamster";
+var mnemonic = "road note problem double gather destroy blanket nature shell farm zero output";

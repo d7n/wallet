@@ -1,1 +1,1 @@
-var mnemonic = "cry head raven gadget pole forum clown convince jacket please company artwork";
+var mnemonic = "genuine silly shove build snack phrase valley remember march space already combine";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken purse chicken whale whale annual vessel seat repair refuse news action";
+var mnemonic = "ginger brief caution chuckle vacuum kick above edit oblige setup label echo";

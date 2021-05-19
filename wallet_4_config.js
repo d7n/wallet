@@ -1,1 +1,1 @@
-var mnemonic = "owner sorry tackle now polar penalty knock kit step clog pledge inch";
+var mnemonic = "valley media aim traffic gown orphan strong twelve diamond diagram undo vast";

@@ -1,1 +1,1 @@
-var mnemonic = "bench you armor illness vibrant mimic wet feature potato nominee sister easily";
+var mnemonic = "vacuum save mouse artwork gate talk usage brick wheat another video release";

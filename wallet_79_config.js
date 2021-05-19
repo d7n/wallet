@@ -1,1 +1,1 @@
-var mnemonic = "neutral donkey chase similar resemble tree hold warm keen obtain voyage favorite";
+var mnemonic = "kind leave normal habit cross apology differ clog hidden chief define exchange";

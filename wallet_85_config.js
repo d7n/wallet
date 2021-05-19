@@ -1,1 +1,1 @@
-var mnemonic = "slide pear woman crop drop early liquid welcome outside fun meadow sick";
+var mnemonic = "give gadget wear ski gown frost chest equal fitness aerobic useless phrase";

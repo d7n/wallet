@@ -1,1 +1,1 @@
-var mnemonic = "chapter pony express cradle torch identify aerobic kick foster rescue circle bridge";
+var mnemonic = "ship plunge duck unfold blue renew edge van festival fiscal spot cover";

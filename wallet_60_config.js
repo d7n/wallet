@@ -1,1 +1,1 @@
-var mnemonic = "involve fox carbon maid ship view duty shrug fetch coffee half disease";
+var mnemonic = "layer hurry thunder once unlock pause chimney end expand debate aim shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "oil grief brick satisfy opinion glass manage syrup resource ridge always advance";
+var mnemonic = "undo rubber patch net oven ramp notice hurdle erupt shield erase loud";

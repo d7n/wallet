@@ -1,1 +1,1 @@
-var mnemonic = "layer sorry rapid area exist move axis creek trend fault meadow exercise";
+var mnemonic = "cable eyebrow pony cross machine inform island retire sad tomato pair much";

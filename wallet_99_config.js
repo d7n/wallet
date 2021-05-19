@@ -1,1 +1,1 @@
-var mnemonic = "patrol copy wave dwarf satisfy buddy happy differ cousin taste twice decline";
+var mnemonic = "scrub rose element safe mixture sponsor bridge hedgehog observe water notice jealous";

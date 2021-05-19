@@ -1,1 +1,1 @@
-var mnemonic = "dolphin road clever bread clip habit olive hunt page blanket that hint";
+var mnemonic = "senior woman where problem fix cheap what satoshi father purpose blood code";

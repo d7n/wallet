@@ -1,1 +1,1 @@
-var mnemonic = "lend section pluck spread cry this become waste suit spot elevator lesson";
+var mnemonic = "oak gap style hungry meat save slim powder fall panda coconut era";

@@ -1,1 +1,1 @@
-var mnemonic = "pair cat loan erupt donate trade hedgehog text castle explain attack art";
+var mnemonic = "join detail flip tape wage lunch nation tail cake retire mixed picnic";
