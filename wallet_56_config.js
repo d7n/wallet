@@ -1,1 +1,1 @@
-var mnemonic = "kidney image donate pony crane desert spare option desk story mesh pizza";
+var mnemonic = "rail state mercy mind vanish wage dutch resemble fatigue slice anxiety feature";

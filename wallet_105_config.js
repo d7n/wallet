@@ -1,1 +1,1 @@
-var mnemonic = "mix prevent frame affair tunnel iron dream enforce tobacco weird plastic trash";
+var mnemonic = "season sheriff believe horn genius alcohol monster teach uncle account solve click";

@@ -1,1 +1,1 @@
-var mnemonic = "six language waste rich harbor special clean innocent nut tackle snap morning";
+var mnemonic = "initial empower mask quality escape jeans february oppose stool hurt space autumn";

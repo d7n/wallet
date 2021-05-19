@@ -1,1 +1,1 @@
-var mnemonic = "test celery grid roof laptop spider proud juice skull arm seat crime";
+var mnemonic = "saddle century giraffe tattoo explain vault when real spoil bright pride design";

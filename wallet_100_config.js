@@ -1,1 +1,1 @@
-var mnemonic = "slow cube must pride team spoil trust dynamic hospital ivory online flag";
+var mnemonic = "cliff slice festival faint bulk aerobic piano cushion negative soup mercy increase";

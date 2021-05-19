@@ -1,1 +1,1 @@
-var mnemonic = "shove turkey use nuclear pupil way other company boss shoe island hidden";
+var mnemonic = "clarify reward essay marble tower seek wrap educate tortoise labor swing any";

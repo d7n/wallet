@@ -1,1 +1,1 @@
-var mnemonic = "bomb live sick embark exotic patch advice fit vessel funny wolf evil";
+var mnemonic = "skirt pill unusual fantasy jazz actual whip powder wreck scare hat setup";

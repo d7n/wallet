@@ -1,1 +1,1 @@
-var mnemonic = "rough rhythm neutral blood royal muffin behind april water filter ship sell";
+var mnemonic = "chief crouch deposit art invest pole puppy tobacco defense armor believe loud";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy caution dog ivory robot attract surround asset wine pretty keen census";
+var mnemonic = "essence snap assault finish engine congress volcano normal payment company please early";

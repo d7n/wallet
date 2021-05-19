@@ -1,1 +1,1 @@
-var mnemonic = "outside offer tornado taste abuse ready mesh attend blush grunt marine cattle";
+var mnemonic = "bulk renew eye meat quit beach awesome comic real cancel then round";

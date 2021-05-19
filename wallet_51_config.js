@@ -1,1 +1,1 @@
-var mnemonic = "park egg dust alley various review bring island misery sheriff control since";
+var mnemonic = "humble wagon next visit adjust charge team again situate spawn must uncover";

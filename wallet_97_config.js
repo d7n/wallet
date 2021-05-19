@@ -1,1 +1,1 @@
-var mnemonic = "lunch jacket more wrong rapid process gasp grace sword find pole major";
+var mnemonic = "member actress juice coral extra person imitate long appear olive bronze cross";

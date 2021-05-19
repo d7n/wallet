@@ -1,1 +1,1 @@
-var mnemonic = "alien sheriff chat keen expose require owner minor vendor furnace include sport";
+var mnemonic = "still attack layer among coyote rain dove empower word charge fantasy soon";

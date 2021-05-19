@@ -1,1 +1,1 @@
-var mnemonic = "canyon praise insane purpose polar enjoy force bulk blouse silver goat figure";
+var mnemonic = "milk fork nature catch truly arrow theme evolve glide gravity outdoor liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "real tank frozen stock coast physical engage away mansion oxygen notice siege";
+var mnemonic = "social ignore giraffe few zero sadness judge sorry category host talk convince";

@@ -1,1 +1,1 @@
-var mnemonic = "pool illness hidden develop glove jealous diamond essay enter album impose drip";
+var mnemonic = "claw right marble praise october rookie trick govern prosper innocent goddess shoulder";

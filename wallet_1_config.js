@@ -1,1 +1,1 @@
-var mnemonic = "wing wire public sponsor excess syrup lion inside skull glow box twice";
+var mnemonic = "warfare symptom century invite side oppose square damage rival lawsuit actress walk";

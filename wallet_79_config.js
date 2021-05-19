@@ -1,1 +1,1 @@
-var mnemonic = "robust agent jeans someone crawl odor twist calm donate orchard giggle sleep";
+var mnemonic = "spray sudden sand cigar tuition hour ecology admit upper dignity robust canoe";

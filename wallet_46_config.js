@@ -1,1 +1,1 @@
-var mnemonic = "coach raccoon soul fatal bid asset board female traffic acid example inject";
+var mnemonic = "clock cupboard silk dragon maid common royal plate deputy victory soccer away";

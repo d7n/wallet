@@ -1,1 +1,1 @@
-var mnemonic = "end unhappy move party loyal fashion spawn nest volcano later vicious future";
+var mnemonic = "hollow process frog churn oval walk fun shell morning expect riot drip";

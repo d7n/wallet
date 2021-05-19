@@ -1,1 +1,1 @@
-var mnemonic = "plunge denial pony disagree desert banana promote flat junior eyebrow problem winter";
+var mnemonic = "early top produce diamond key autumn enable boy glass list fox fish";

@@ -1,1 +1,1 @@
-var mnemonic = "super canyon tank first stamp together case fever dignity vault burger finish";
+var mnemonic = "piece mango road vanish boy awful claim drastic admit embrace drastic annual";

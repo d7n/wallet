@@ -1,1 +1,1 @@
-var mnemonic = "plunge neither legal such congress female doctor exchange mosquito palace height slow";
+var mnemonic = "hedgehog fall toast ordinary stool goose possible base chest glance burden pattern";

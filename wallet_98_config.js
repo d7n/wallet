@@ -1,1 +1,1 @@
-var mnemonic = "junior lock marine unknown wet acid spirit suspect light together agree wolf";
+var mnemonic = "elite panda assist indoor nice idea original unusual radio kiwi box milk";

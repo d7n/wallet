@@ -1,1 +1,1 @@
-var mnemonic = "blouse company soap earth raise absurd govern write evolve frost genius alley";
+var mnemonic = "hammer garage infant ability aware unveil seven pigeon accuse real tip solve";

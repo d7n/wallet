@@ -1,1 +1,1 @@
-var mnemonic = "celery oval puzzle media salute toward tattoo feature pitch horse soap balance";
+var mnemonic = "slab imitate survey network blouse because pilot course twist language material soccer";

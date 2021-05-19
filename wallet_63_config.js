@@ -1,1 +1,1 @@
-var mnemonic = "program moon soda travel cube essence shuffle sentence loan banner seminar sun";
+var mnemonic = "draft supply rubber glimpse share wasp agree outdoor prepare april mixture loan";

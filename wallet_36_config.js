@@ -1,1 +1,1 @@
-var mnemonic = "couple aerobic tunnel spot ill climb leaf chase chaos someone produce inhale";
+var mnemonic = "divert current garage rack athlete head bread height raw sport evil lucky";

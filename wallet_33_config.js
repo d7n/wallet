@@ -1,1 +1,1 @@
-var mnemonic = "rent gather trigger pelican become attitude win sudden assist fiction battle symbol";
+var mnemonic = "tray embark sound tomato off luggage afraid stable real denial develop rescue";

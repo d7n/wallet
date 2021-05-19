@@ -1,1 +1,1 @@
-var mnemonic = "cluster donate come medal night anger oxygen grit shell gather crop cost";
+var mnemonic = "reform surprise wealth valid example body artwork symptom hungry joy carpet tissue";

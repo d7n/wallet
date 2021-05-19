@@ -1,1 +1,1 @@
-var mnemonic = "leave proud arrange orbit address tattoo auto absorb weekend help system chronic";
+var mnemonic = "lamp surround brown angry syrup twenty wait certain figure dilemma affair siren";

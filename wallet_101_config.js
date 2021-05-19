@@ -1,1 +1,1 @@
-var mnemonic = "ask seek earth noodle rare scrap despair alert popular vicious core common";
+var mnemonic = "tent hidden spirit connect pulp talk notable history okay runway cheese dinner";

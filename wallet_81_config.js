@@ -1,1 +1,1 @@
-var mnemonic = "citizen various afraid cube develop box umbrella mutual illegal social onion want";
+var mnemonic = "cover jealous aware update timber wedding empty screen cupboard decline domain worry";

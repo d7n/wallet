@@ -1,1 +1,1 @@
-var mnemonic = "heart tube park pulse enough rocket electric census shed snow runway abuse";
+var mnemonic = "ramp wave gossip dry hungry tiny future length end frame luggage olive";

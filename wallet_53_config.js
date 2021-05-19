@@ -1,1 +1,1 @@
-var mnemonic = "glory current column tree announce chase undo cactus aware garden clean slide";
+var mnemonic = "unfold various muscle fall crack fix orchard castle drastic bulb outer purse";

@@ -1,1 +1,1 @@
-var mnemonic = "owner mango audit olive connect recall usual blade coin mirror pioneer fluid";
+var mnemonic = "cigar marriage attract enter require chronic reform margin curtain thank person chair";

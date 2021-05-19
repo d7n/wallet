@@ -1,1 +1,1 @@
-var mnemonic = "diamond jump mango answer trophy congress west repair gate artwork occur lemon";
+var mnemonic = "faint volcano brown scrub surprise sunset essence frame ten vicious basket cable";

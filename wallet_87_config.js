@@ -1,1 +1,1 @@
-var mnemonic = "rookie lock correct grape flower wine summer gold provide example essay wise";
+var mnemonic = "engine sense tenant mystery document people candy champion pulp idle onion spice";

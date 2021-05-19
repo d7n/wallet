@@ -1,1 +1,1 @@
-var mnemonic = "rally nothing team scorpion humble refuse result surprise leisure leaf camera oval";
+var mnemonic = "uniform reunion blame source burden chef motor acquire camera hip glory despair";

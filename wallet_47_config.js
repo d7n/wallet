@@ -1,1 +1,1 @@
-var mnemonic = "merge analyst strike online coffee mandate promote still antique mercy caught flash";
+var mnemonic = "achieve mandate cost zoo dad ginger swap enough auction desk rail craft";

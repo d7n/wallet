@@ -1,1 +1,1 @@
-var mnemonic = "detect sudden wreck sausage illegal ceiling odor process oak awake truly submit";
+var mnemonic = "issue casino inherit stumble magic island client wrong engine mango spread girl";

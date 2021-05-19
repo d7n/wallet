@@ -1,1 +1,1 @@
-var mnemonic = "range extend prefer amateur reason fish illegal scale execute razor fame sponsor";
+var mnemonic = "thing cousin enemy average stumble cereal cash float blood glove pond alarm";

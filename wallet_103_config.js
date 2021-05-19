@@ -1,1 +1,1 @@
-var mnemonic = "olive boil secret empower nose produce light ritual angry rail crucial connect";
+var mnemonic = "happy truth worth stereo volume raven earn build hair disagree inch cube";

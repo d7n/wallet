@@ -1,1 +1,1 @@
-var mnemonic = "punch barely upgrade play cattle law picture grab banana job jazz unfold";
+var mnemonic = "door jacket forward scissors domain inner stuff arrow prison panic document bike";

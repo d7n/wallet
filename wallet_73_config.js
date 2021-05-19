@@ -1,1 +1,1 @@
-var mnemonic = "vendor woman tortoise timber labor aunt slam maple grab bird moment excite";
+var mnemonic = "kiss face repair brush two monster alter gain midnight crowd accuse jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub debris flight pitch obvious dizzy lemon language filter social memory proof";
+var mnemonic = "coach pigeon around modify marine panic hover stable merge recycle casual denial";

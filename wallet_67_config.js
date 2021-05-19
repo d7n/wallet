@@ -1,1 +1,1 @@
-var mnemonic = "filter medal vital genre census path amount blouse napkin dress absorb follow";
+var mnemonic = "lemon popular oven panel vessel gaze pen crash unveil spawn flag much";

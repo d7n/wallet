@@ -1,1 +1,1 @@
-var mnemonic = "excite globe dragon lunar glimpse exile history enroll test desert ahead trip";
+var mnemonic = "yard awesome valley snap wait throw north pioneer pole rocket hamster wool";

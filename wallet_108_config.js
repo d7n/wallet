@@ -1,1 +1,1 @@
-var mnemonic = "stay pupil humor kangaroo tired kind mixture drastic rely science equal mutual";
+var mnemonic = "era black doctor good potato high plunge decorate glare village oven limb";

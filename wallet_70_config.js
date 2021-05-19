@@ -1,1 +1,1 @@
-var mnemonic = "warrior genuine verb book learn region put route memory must hand risk";
+var mnemonic = "brave wall admit key vivid check shrug unlock funny forward wash grow";

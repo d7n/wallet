@@ -1,1 +1,1 @@
-var mnemonic = "slice alone animal butter inject dry bitter typical demand melody monkey asset";
+var mnemonic = "hobby certain until digital chief behind kick film holiday error scene question";

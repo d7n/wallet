@@ -1,1 +1,1 @@
-var mnemonic = "major oppose tragic labor unveil photo bone suspect stairs wheat lava city";
+var mnemonic = "copper awkward peace thunder dynamic pride toward window chicken sponsor river salmon";

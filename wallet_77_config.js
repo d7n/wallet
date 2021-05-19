@@ -1,1 +1,1 @@
-var mnemonic = "vessel mirror diamond emerge rice gesture carpet immune erase wish slogan funny";
+var mnemonic = "mansion express hybrid merge gasp chef mystery twelve fox water rally high";

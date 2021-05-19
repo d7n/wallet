@@ -1,1 +1,1 @@
-var mnemonic = "length setup leg unlock cause vintage stem fix silk atom squeeze today";
+var mnemonic = "six parrot pyramid giant coffee treat hip stand round sting business visa";

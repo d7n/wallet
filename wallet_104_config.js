@@ -1,1 +1,1 @@
-var mnemonic = "wheat tuition camp must love another weasel region blanket reward relief west";
+var mnemonic = "typical document pause promote gain such sister foil cake ugly neck snake";

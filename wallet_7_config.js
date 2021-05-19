@@ -1,1 +1,1 @@
-var mnemonic = "wheat print sausage noble educate misery guess rich pioneer gas child gain";
+var mnemonic = "material happy basic hole gesture anxiety spice gaze rent man mistake wing";

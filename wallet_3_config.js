@@ -1,1 +1,1 @@
-var mnemonic = "you finish silent lawn fog cook nuclear weapon during ask find room";
+var mnemonic = "silk city very piece neutral hero media magic follow saddle bike palace";

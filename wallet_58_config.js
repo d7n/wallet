@@ -1,1 +1,1 @@
-var mnemonic = "empower old pen flavor alert rescue dawn civil brother kick recipe van";
+var mnemonic = "phrase evoke jewel fly engage dolphin coast border attract identify crack excuse";

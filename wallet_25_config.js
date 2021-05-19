@@ -1,1 +1,1 @@
-var mnemonic = "season visual absent debate cable remove stick leaf engine finger earth tornado";
+var mnemonic = "excuse radar fit goat circle detail cream bean spin random shell case";

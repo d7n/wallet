@@ -1,1 +1,1 @@
-var mnemonic = "meat unusual saddle return narrow humor lonely useless peanut inmate start tackle";
+var mnemonic = "connect result boost foster joke stick recall spread rival swallow adapt trash";

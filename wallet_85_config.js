@@ -1,1 +1,1 @@
-var mnemonic = "balance proud replace gym purse turtle roast weekend rate filter primary alter";
+var mnemonic = "dance glow vicious aisle humble athlete add dose absorb axis surface guilt";

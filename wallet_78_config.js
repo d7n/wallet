@@ -1,1 +1,1 @@
-var mnemonic = "illegal floor fame have admit latin reject match breeze mail rapid negative";
+var mnemonic = "bench october lazy guitar aware swarm summer victory group lab recipe dumb";

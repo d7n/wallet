@@ -1,1 +1,1 @@
-var mnemonic = "bar name senior ordinary boat wire gentle bulb steak position multiply quick";
+var mnemonic = "kit tube correct reject tragic hint dust gold physical pioneer kangaroo diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual quit sphere dynamic urge wave ozone ginger bullet anxiety spend length";
+var mnemonic = "push chunk situate illegal goat cool forest enlist tackle someone child inspire";

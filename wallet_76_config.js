@@ -1,1 +1,1 @@
-var mnemonic = "audit stand soft live spatial review speed bless damp comfort parade wise";
+var mnemonic = "direct betray electric pledge west steel dish inform limit ginger dance lucky";

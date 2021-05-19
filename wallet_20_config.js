@@ -1,1 +1,1 @@
-var mnemonic = "regret purpose team rule discover exclude acoustic punch fire deer neck nothing";
+var mnemonic = "vacuum patch rule vehicle area document doll upper panda suit jazz banana";

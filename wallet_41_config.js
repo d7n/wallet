@@ -1,1 +1,1 @@
-var mnemonic = "extend axis mammal meadow rotate model equal kangaroo refuse street degree lake";
+var mnemonic = "journey vast engage true idea olive torch review now advice ladder myself";

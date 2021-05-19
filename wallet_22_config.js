@@ -1,1 +1,1 @@
-var mnemonic = "select cliff flip market clever torch silly rose alcohol goat street index";
+var mnemonic = "report artist oil lunch satisfy exile plastic chimney fetch enhance verify air";

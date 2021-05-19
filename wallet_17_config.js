@@ -1,1 +1,1 @@
-var mnemonic = "buzz crop first street recall tattoo crisp cactus sadness scrap organ snap";
+var mnemonic = "divorce olympic math mandate team brain name change fat rule local radio";

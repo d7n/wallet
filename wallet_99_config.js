@@ -1,1 +1,1 @@
-var mnemonic = "story federal welcome frozen sponsor kitten eight liar wrestle aisle hawk badge";
+var mnemonic = "place faculty chalk little crawl index intact tattoo picnic worry display link";

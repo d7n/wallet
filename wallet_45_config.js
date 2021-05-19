@@ -1,1 +1,1 @@
-var mnemonic = "riot admit worth laptop grunt enable know approve bicycle round purity again";
+var mnemonic = "universe brisk soup clay tool empower nerve employ carpet double globe liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "wage glass venture receive predict invest gallery offer about green protect scatter";
+var mnemonic = "stand general churn isolate toast cluster dolphin chair park curious today rhythm";

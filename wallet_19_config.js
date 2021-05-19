@@ -1,1 +1,1 @@
-var mnemonic = "mountain warrior slow pass duty chuckle roof drive rough face huge awkward";
+var mnemonic = "level loyal sorry way key private cross gaze label ancient vacant fit";

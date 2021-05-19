@@ -1,1 +1,1 @@
-var mnemonic = "private detail foot link mosquito drum oxygen scare then blood trash opera";
+var mnemonic = "garage double picnic sustain update cactus north miracle solar whip sound lady";

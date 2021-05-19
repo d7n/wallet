@@ -1,1 +1,1 @@
-var mnemonic = "broccoli zebra extend monster six hedgehog glad home bracket tray indoor open";
+var mnemonic = "drill dawn wedding jaguar labor range morning wasp embark deliver foster silver";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar illegal piano vital please wedding series physical notable tell bargain pen";
+var mnemonic = "coin true push chest tool wrap busy extra mandate boat please mammal";

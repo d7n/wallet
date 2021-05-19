@@ -1,1 +1,1 @@
-var mnemonic = "shift estate lyrics tail save situate spoon flat resemble picture boat regular";
+var mnemonic = "hello truth earth amazing duty grocery shoulder suffer mirror shoulder assist surround";

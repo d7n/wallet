@@ -1,1 +1,1 @@
-var mnemonic = "dirt raise bundle powder wine baby peasant baby mule upset twice issue";
+var mnemonic = "dash junk fire two embark illegal cloth wrap easily stick omit amazing";

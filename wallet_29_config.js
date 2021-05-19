@@ -1,1 +1,1 @@
-var mnemonic = "century cry parade have trust solar sound bottom squirrel toy boat erupt";
+var mnemonic = "improve choose leader include lion win loud federal point girl bamboo vapor";

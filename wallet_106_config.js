@@ -1,1 +1,1 @@
-var mnemonic = "lobster post gravity nasty brother isolate tortoise festival trick improve gloom april";
+var mnemonic = "family goddess pencil velvet sense gossip jaguar thank hen focus team giant";

@@ -1,1 +1,1 @@
-var mnemonic = "flee vanish leg acoustic song guard educate evoke decade expose paper order";
+var mnemonic = "dove pass lend inch wonder dish sister fish enlist nest goat prison";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel pulse trouble sound comic evil until surround avoid rose hen keep";
+var mnemonic = "apple replace text milk move faint topic special odor solar dove produce";

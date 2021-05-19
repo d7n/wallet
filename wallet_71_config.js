@@ -1,1 +1,1 @@
-var mnemonic = "veteran spend mind boil unique charge hope chest ozone broccoli close physical";
+var mnemonic = "sorry immense hen possible middle child giggle zoo across bulk infant produce";

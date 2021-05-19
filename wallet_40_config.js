@@ -1,1 +1,1 @@
-var mnemonic = "boring anchor siren strategy brief symptom isolate put devote access board sustain";
+var mnemonic = "crouch discover junk spell play vehicle desert birth piece galaxy small walk";

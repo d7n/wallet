@@ -1,1 +1,1 @@
-var mnemonic = "balance bundle danger dismiss fun clean happy seed prize luxury marble dinosaur";
+var mnemonic = "follow stone layer soul element radar ring elegant night valid lawn outdoor";

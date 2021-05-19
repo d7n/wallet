@@ -1,1 +1,1 @@
-var mnemonic = "sense uphold scare syrup draft better sell enjoy heavy gaze jar hidden";
+var mnemonic = "entry kitten embark robot recycle soft twice palm rookie open burst film";

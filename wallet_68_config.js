@@ -1,1 +1,1 @@
-var mnemonic = "silk live major empty time cost gate comfort renew fold december search";
+var mnemonic = "history viable chapter impact ready arm enact imitate road myth athlete siren";

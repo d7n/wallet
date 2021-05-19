@@ -1,1 +1,1 @@
-var mnemonic = "device away upset chat push vault slender note climb hedgehog skull found";
+var mnemonic = "vault lazy smart remind ostrich bench stumble front frequent predict chuckle account";

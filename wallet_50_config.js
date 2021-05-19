@@ -1,1 +1,1 @@
-var mnemonic = "turn risk onion surge skate crop lumber settle record benefit fruit obtain";
+var mnemonic = "hair dignity fatigue address faint expand shrug design result similar fault wrap";

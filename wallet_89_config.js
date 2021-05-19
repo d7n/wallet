@@ -1,1 +1,1 @@
-var mnemonic = "stay panda gloom year jealous margin verb lady secret rug breeze always";
+var mnemonic = "agree casual rotate truck zero short depart scale allow prepare still sense";
