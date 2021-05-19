@@ -1,1 +1,1 @@
-var mnemonic = "street dilemma check fun bamboo company cousin never genuine chat sad menu";
+var mnemonic = "awkward matter leave sustain bottom material pipe sun head harbor few slush";

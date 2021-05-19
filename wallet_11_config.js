@@ -1,1 +1,1 @@
-var mnemonic = "all output food innocent blade super manual laugh into chase maple slight";
+var mnemonic = "slim capable news check media describe jazz dumb random taxi code grit";

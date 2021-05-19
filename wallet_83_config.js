@@ -1,1 +1,1 @@
-var mnemonic = "salute boy argue nose slow list lady where fit gesture post woman";
+var mnemonic = "fantasy print bind viable drama crunch same cinnamon diary field possible vibrant";

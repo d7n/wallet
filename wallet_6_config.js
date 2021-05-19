@@ -1,1 +1,1 @@
-var mnemonic = "muffin glue scare zebra success race legal fatigue enact cannon glance core";
+var mnemonic = "beef merge tent forget shoulder cute neither kit coin flavor awesome twenty";

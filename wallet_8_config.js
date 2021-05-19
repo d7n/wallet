@@ -1,1 +1,1 @@
-var mnemonic = "estate system demand seminar honey wisdom enroll ranch onion aisle front mutual";
+var mnemonic = "theme badge actress cancel amateur clog quick credit effort hero east carpet";

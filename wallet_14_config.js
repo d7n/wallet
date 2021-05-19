@@ -1,1 +1,1 @@
-var mnemonic = "scan wave acquire small cup hobby used exit report year master final";
+var mnemonic = "enroll very mesh common member ozone bright dial potato mention fabric local";

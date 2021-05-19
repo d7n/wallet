@@ -1,1 +1,1 @@
-var mnemonic = "mom return trouble thrive become cause settle pumpkin bone allow basket olympic";
+var mnemonic = "urban worth soap glow army artefact injury effort club anxiety offer wear";

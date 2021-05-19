@@ -1,1 +1,1 @@
-var mnemonic = "volcano glass field slogan amateur file sail brisk employ lazy ask blue";
+var mnemonic = "master talk gossip host conduct banana stomach keen dash custom deliver chair";

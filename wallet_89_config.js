@@ -1,1 +1,1 @@
-var mnemonic = "pipe fold certain jeans alcohol jacket slice armor cube damp brain canal";
+var mnemonic = "because enforce lunar vicious swap near host category toddler recipe carry session";

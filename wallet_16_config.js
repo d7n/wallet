@@ -1,1 +1,1 @@
-var mnemonic = "tired fade wood arm team camera couple loop inmate toe hawk hood";
+var mnemonic = "whisper prize paper twenty other business melt you marble unhappy have anxiety";

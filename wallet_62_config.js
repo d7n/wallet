@@ -1,1 +1,1 @@
-var mnemonic = "much engage place shuffle protect six siege casual zone visa apple onion";
+var mnemonic = "robust lawn stick play brush current morning strong margin kid below fee";

@@ -1,1 +1,1 @@
-var mnemonic = "include leisure silver autumn pen math control lock all inform traffic office";
+var mnemonic = "alone aisle curious frozen report scare mountain guard retire ticket miracle mosquito";

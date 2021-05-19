@@ -1,1 +1,1 @@
-var mnemonic = "they scorpion soda wave task front offer romance injury effort noise fashion";
+var mnemonic = "water prize quantum bulk cheap nut lottery fame eyebrow window brave chief";

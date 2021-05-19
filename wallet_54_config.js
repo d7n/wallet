@@ -1,1 +1,1 @@
-var mnemonic = "video method grocery into gravity barrel nephew like okay friend settle pond";
+var mnemonic = "second stamp cluster mother announce lecture ladder pair vehicle slight chapter wolf";

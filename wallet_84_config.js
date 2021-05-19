@@ -1,1 +1,1 @@
-var mnemonic = "hamster elite decrease hurdle capable camera immense belt cart trouble globe eight";
+var mnemonic = "burger snap field wish chuckle rapid reason pact wreck envelope poem cry";

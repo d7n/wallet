@@ -1,1 +1,1 @@
-var mnemonic = "proud tobacco frost unfair icon exhaust sleep net uncle ordinary three toilet";
+var mnemonic = "mixed access soap boil glove refuse essence rare foot arrow foil donor";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder bachelor gauge actor bundle wise relax novel circle layer suit strike";
+var mnemonic = "license vivid practice car neither enough fresh evoke soon bone clap guide";

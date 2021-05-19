@@ -1,1 +1,1 @@
-var mnemonic = "tone powder near bind funny journey decide mistake better spoil sheriff curtain";
+var mnemonic = "law road member moral diesel cabbage ocean robust crane crucial simple online";

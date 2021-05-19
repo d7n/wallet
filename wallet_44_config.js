@@ -1,1 +1,1 @@
-var mnemonic = "armor better hair merge sniff ecology measure news nothing record radar water";
+var mnemonic = "slush antenna summer term main daring someone shine useless refuse pretty pole";

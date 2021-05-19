@@ -1,1 +1,1 @@
-var mnemonic = "fat afford cereal dilemma fog social scrub draw beach essence renew scheme";
+var mnemonic = "slide best divorce ride outside pink robust minor movie cloud portion buyer";

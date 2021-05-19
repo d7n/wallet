@@ -1,1 +1,1 @@
-var mnemonic = "nice long float degree pitch orbit twelve crawl risk master ice setup";
+var mnemonic = "sleep prison pupil engage mind organ physical ten bounce warm cool squeeze";

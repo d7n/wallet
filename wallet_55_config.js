@@ -1,1 +1,1 @@
-var mnemonic = "hundred unusual machine shove taste olympic snack able coin direct shoe artwork";
+var mnemonic = "time blur option display test front weird enrich shock account claim forum";

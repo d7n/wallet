@@ -1,1 +1,1 @@
-var mnemonic = "amazing visit pupil gorilla gas year element uncover praise salad emotion decrease";
+var mnemonic = "country shine stand trial load search kiss simple miracle coil actual teach";

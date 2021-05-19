@@ -1,1 +1,1 @@
-var mnemonic = "real aerobic couple mail struggle wish metal decade range rely final cruel";
+var mnemonic = "blur volcano innocent lyrics dizzy cost addict east remain hour energy rude";

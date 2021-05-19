@@ -1,1 +1,1 @@
-var mnemonic = "west analyst song drink soul other vivid reform apple obvious top deer";
+var mnemonic = "hunt slow law crush teach come couch country whip shallow topple smoke";

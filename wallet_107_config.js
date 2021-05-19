@@ -1,1 +1,1 @@
-var mnemonic = "chief denial prize message advice method awkward space month truth rescue myself";
+var mnemonic = "gate obey wait raise perfect diary nasty provide easy casual cabbage clump";

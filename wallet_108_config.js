@@ -1,1 +1,1 @@
-var mnemonic = "question situate february message entire spice foam loyal warfare primary army stairs";
+var mnemonic = "plate acid gate deposit move change mixture repair fragile vague much bench";

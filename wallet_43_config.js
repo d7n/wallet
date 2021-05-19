@@ -1,1 +1,1 @@
-var mnemonic = "doctor favorite poet drop thing miss slight code type dinosaur rule economy";
+var mnemonic = "neglect weather sweet route net license atom twelve stumble patch rifle achieve";

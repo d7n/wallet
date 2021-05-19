@@ -1,1 +1,1 @@
-var mnemonic = "size room song load bonus finger tissue satisfy jazz raw permit step";
+var mnemonic = "exchange imitate balance holiday recipe vibrant way local essence young over security";

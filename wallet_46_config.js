@@ -1,1 +1,1 @@
-var mnemonic = "cycle input decrease lesson want learn giant worry huge oxygen deliver undo";
+var mnemonic = "version harbor cinnamon sword manage print way quality point stadium coyote device";

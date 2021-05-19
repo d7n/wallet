@@ -1,1 +1,1 @@
-var mnemonic = "practice faith sail fork fossil chimney equip frost hamster above since child";
+var mnemonic = "worry token rescue please worry six project dizzy gap mirror pride lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "ride home ahead suit hero garbage domain jewel pact between spike trumpet";
+var mnemonic = "oven indicate tell inherit reject impact chaos crucial another boring setup huge";

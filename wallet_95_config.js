@@ -1,1 +1,1 @@
-var mnemonic = "cup vapor gentle curtain lonely social joke track visa wet emotion smile";
+var mnemonic = "any scout calm earth boss pledge hamster sound volume scare ivory road";

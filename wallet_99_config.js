@@ -1,1 +1,1 @@
-var mnemonic = "muffin kitten capable ball soda bunker live wrap sure punch panel divert";
+var mnemonic = "antique chronic toddler focus harvest elegant tattoo outside subway agent cactus review";

@@ -1,1 +1,1 @@
-var mnemonic = "student chuckle physical trade receive issue wolf utility churn oppose debris blame";
+var mnemonic = "maze person start economy village steak inside already manual bleak left actual";

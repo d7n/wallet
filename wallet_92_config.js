@@ -1,1 +1,1 @@
-var mnemonic = "call slam viable oxygen aerobic frown slot aerobic slice portion token noble";
+var mnemonic = "hood recycle oyster sure buyer little else feed chicken airport between cigar";

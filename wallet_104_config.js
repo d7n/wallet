@@ -1,1 +1,1 @@
-var mnemonic = "infant push defy spoon noise brand donor index mixed stock tuna chronic";
+var mnemonic = "heart initial cradle tail clay orbit cement height soccer rough color alone";

@@ -1,1 +1,1 @@
-var mnemonic = "liar balance wool mix reform pill level seminar chuckle brown scrub price";
+var mnemonic = "safe nominee oak actress bulb feed sunny caution eager uncover labor burden";

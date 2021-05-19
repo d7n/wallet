@@ -1,1 +1,1 @@
-var mnemonic = "juice horror fiction wear exotic indoor intact mind main doll rain portion";
+var mnemonic = "dinosaur silver proud occur nerve dance seven trumpet olive orange roof truck";

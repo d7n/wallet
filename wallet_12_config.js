@@ -1,1 +1,1 @@
-var mnemonic = "clown witness rival amateur pear indicate about bid expect fabric code diagram";
+var mnemonic = "cash tree word zone milk ugly same drip friend fruit clean humble";

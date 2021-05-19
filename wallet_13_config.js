@@ -1,1 +1,1 @@
-var mnemonic = "goddess fancy need mass north craft panther sunset inspire unique october cluster";
+var mnemonic = "rough close topple reveal zone now position perfect chronic prize energy young";

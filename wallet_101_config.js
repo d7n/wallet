@@ -1,1 +1,1 @@
-var mnemonic = "grape marriage like license lazy rent good cement multiply couple badge mom";
+var mnemonic = "author select credit final draft moon float beauty cousin twenty resource near";

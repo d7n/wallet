@@ -1,1 +1,1 @@
-var mnemonic = "inject clog behind rich barely nuclear blind tray switch battle diesel century";
+var mnemonic = "fashion oppose minimum scissors extra plastic into account spike arctic cricket dirt";

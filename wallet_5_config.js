@@ -1,1 +1,1 @@
-var mnemonic = "stairs urban forget laundry volume prevent mad huge visual mosquito shallow photo";
+var mnemonic = "click figure connect gap half agent hub bean crisp carry boat ask";

@@ -1,1 +1,1 @@
-var mnemonic = "load machine eagle flag rug pistol sure film dress fringe visit idle";
+var mnemonic = "rib dry december place alert cream fame fault holiday predict memory funny";

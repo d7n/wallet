@@ -1,1 +1,1 @@
-var mnemonic = "price page conduct boat weekend sun perfect donkey gallery fiction turkey mesh";
+var mnemonic = "tilt prosper jelly puzzle pet believe bomb enough pitch wide private exhibit";

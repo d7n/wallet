@@ -1,1 +1,1 @@
-var mnemonic = "fire west rough arrive pottery prize mercy novel famous suit ozone donate";
+var mnemonic = "iron popular vital dilemma analyst deposit spy addict lens fence cinnamon almost";

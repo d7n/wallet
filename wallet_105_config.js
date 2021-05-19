@@ -1,1 +1,1 @@
-var mnemonic = "tide enough print town love orient calm conduct extra drastic melody chapter";
+var mnemonic = "pink moon day lend punch thing blue inch youth assault mule violin";

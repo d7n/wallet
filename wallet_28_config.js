@@ -1,1 +1,1 @@
-var mnemonic = "range easily decorate purchase purpose father tribe pattern today nice million pill";
+var mnemonic = "trust reunion advance piano total report bag impulse elephant best turkey sheriff";

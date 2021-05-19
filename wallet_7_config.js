@@ -1,1 +1,1 @@
-var mnemonic = "emotion zebra leisure possible laugh mean stuff carbon then tent silent since";
+var mnemonic = "across trophy wood turkey legal doctor meadow diesel weapon bean volcano only";

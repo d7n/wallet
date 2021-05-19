@@ -1,1 +1,1 @@
-var mnemonic = "move voice purse plate fortune outside path project idle mansion expire radio";
+var mnemonic = "tide clog voice gesture diet open curious curve urge nice couple place";

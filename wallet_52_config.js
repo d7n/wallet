@@ -1,1 +1,1 @@
-var mnemonic = "nut hospital carbon nurse possible public pyramid license clown shove sport plunge";
+var mnemonic = "year divorce broken fox regular float basic inject arctic emerge hurt drill";

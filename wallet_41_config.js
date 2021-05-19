@@ -1,1 +1,1 @@
-var mnemonic = "relax crucial lava interest february census giggle car basic heart food glue";
+var mnemonic = "town ill category oblige better siren pelican mansion step exchange capable rapid";

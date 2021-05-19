@@ -1,1 +1,1 @@
-var mnemonic = "enough record wire slice ugly talk oven crouch feel style vote hold";
+var mnemonic = "around virtual dress stairs yard pipe afraid give time bunker height harvest";

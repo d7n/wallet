@@ -1,1 +1,1 @@
-var mnemonic = "color lecture rude coast mercy loud cat capital cloud chair purse sadness";
+var mnemonic = "elevator tent river fix matter elegant two tail better result grant custom";

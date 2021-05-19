@@ -1,1 +1,1 @@
-var mnemonic = "zone retire mercy between nerve urge desk tomato gauge fatigue royal suit";
+var mnemonic = "dragon demand mass about decrease organ juice axis vague rain laugh melody";

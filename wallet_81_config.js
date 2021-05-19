@@ -1,1 +1,1 @@
-var mnemonic = "april alcohol practice program frog gentle obey razor skill very biology chaos";
+var mnemonic = "lonely bulk typical exchange toy silk ten answer blast before ice attitude";

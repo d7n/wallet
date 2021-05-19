@@ -1,1 +1,1 @@
-var mnemonic = "decline okay car tomorrow lake call immense custom essence still grape pear";
+var mnemonic = "rocket crunch write fitness limb sword stand tank tent fitness public boring";

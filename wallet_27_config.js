@@ -1,1 +1,1 @@
-var mnemonic = "cable wagon sight shoe vocal cube aunt cricket feature indicate garden extra";
+var mnemonic = "diamond blush vibrant again price uphold tiger seek endless observe arrive direct";

@@ -1,1 +1,1 @@
-var mnemonic = "actor lake reward salon auction craft anger embrace bundle present buffalo village";
+var mnemonic = "income derive roast engage horn alley august crew knee jealous amateur relief";

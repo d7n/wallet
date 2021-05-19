@@ -1,1 +1,1 @@
-var mnemonic = "mansion benefit come rifle salad physical finger gallery waste eight hamster end";
+var mnemonic = "leaf gap muscle gold okay river frost movie echo visual upper zebra";

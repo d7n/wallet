@@ -1,1 +1,1 @@
-var mnemonic = "unaware gym penalty farm tornado park pen bottom phone shop code seed";
+var mnemonic = "entire riot spend image meadow differ trial blue cause usual battle trick";

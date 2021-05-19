@@ -1,1 +1,1 @@
-var mnemonic = "spawn permit menu park cloud broccoli cross gain cool level retreat beyond";
+var mnemonic = "hair nerve what cute monitor hill risk pepper cloud desk cabbage manual";

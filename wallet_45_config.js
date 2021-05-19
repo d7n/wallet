@@ -1,1 +1,1 @@
-var mnemonic = "again forward dress program fitness indoor middle require maple rebel force street";
+var mnemonic = "below entry crazy feature horn merry scout foil dune wealth remain endorse";

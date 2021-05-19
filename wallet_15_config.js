@@ -1,1 +1,1 @@
-var mnemonic = "goddess true gadget fire cave laundry bench accuse fortune athlete captain okay";
+var mnemonic = "trap armed dream video twin verify merry myth spell wait jelly purchase";

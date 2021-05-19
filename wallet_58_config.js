@@ -1,1 +1,1 @@
-var mnemonic = "bundle remind person wife laptop tunnel chef floor guilt grit client decide";
+var mnemonic = "end runway hungry index piano ivory urge arrange impulse cake zone adult";

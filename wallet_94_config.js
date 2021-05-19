@@ -1,1 +1,1 @@
-var mnemonic = "bunker load echo remember cash city animal erase thumb run current indoor";
+var mnemonic = "moral useful sugar domain defy teach baby ramp better response address guess";

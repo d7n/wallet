@@ -1,1 +1,1 @@
-var mnemonic = "thumb green siege outside disorder giraffe front orchard fuel submit snake coffee";
+var mnemonic = "myth deputy mountain indoor ice gun castle trash meadow library endless indoor";

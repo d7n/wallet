@@ -1,1 +1,1 @@
-var mnemonic = "payment dismiss sell cry young bring deny mask genre fluid keen famous";
+var mnemonic = "burst garden latin oil frame naive subject table pass uniform pelican punch";

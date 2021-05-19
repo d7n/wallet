@@ -1,1 +1,1 @@
-var mnemonic = "flavor settle announce chief laundry miss old improve dice magic blush cereal";
+var mnemonic = "celery execute grass recycle melody thunder tomorrow dirt fox soccer pole vocal";

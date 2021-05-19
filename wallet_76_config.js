@@ -1,1 +1,1 @@
-var mnemonic = "south ugly warfare door dust install arctic foot topic idle want primary";
+var mnemonic = "program lab summer problem hunt spider engage space burst walnut boss strategy";

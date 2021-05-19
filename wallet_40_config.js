@@ -1,1 +1,1 @@
-var mnemonic = "rice stock body please modify dune weasel rose eyebrow capital lemon depth";
+var mnemonic = "list renew damage spoon trophy power exhibit funny mimic drop joy whisper";

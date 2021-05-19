@@ -1,1 +1,1 @@
-var mnemonic = "announce diagram become boss copy spoon during unfold salute believe primary front";
+var mnemonic = "such myself maid announce control affair syrup asset figure inner rubber oak";

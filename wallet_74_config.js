@@ -1,1 +1,1 @@
-var mnemonic = "shock convince ethics design fine water sort vivid deposit agent uncover basic";
+var mnemonic = "market mandate shadow input attend egg judge tide inform sad return first";

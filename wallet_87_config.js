@@ -1,1 +1,1 @@
-var mnemonic = "make wave stairs summer parade require domain quality immune bitter ill crystal";
+var mnemonic = "protect sniff nest siren profit soul spider include expire submit web yellow";

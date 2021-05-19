@@ -1,1 +1,1 @@
-var mnemonic = "pluck win current wear blush high slab shrug educate pony actor easily";
+var mnemonic = "among turkey master bachelor flat need wine canvas awesome famous barrel perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "problem soup leisure gadget fame crew pool cat only quarter grow clock";
+var mnemonic = "phrase raise gauge there grace spin around wheel asthma pigeon inquiry rifle";

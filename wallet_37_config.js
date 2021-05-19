@@ -1,1 +1,1 @@
-var mnemonic = "unfair position actress stomach height impose ramp panic crucial extend rigid stool";
+var mnemonic = "alter unusual pitch hawk retreat champion check certain thought humor fortune unveil";

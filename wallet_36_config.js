@@ -1,1 +1,1 @@
-var mnemonic = "barrel enact that treat panel guide prefer liquid cool shuffle cabbage lens";
+var mnemonic = "voyage dust stable conduct age raise oppose soft cruise base crazy era";

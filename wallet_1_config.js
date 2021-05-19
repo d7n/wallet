@@ -1,1 +1,1 @@
-var mnemonic = "merry earn address vocal analyst horn very tragic face solution blue nothing";
+var mnemonic = "salute they enable correct easy danger grape credit spend sock mirror gauge";

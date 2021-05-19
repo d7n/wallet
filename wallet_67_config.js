@@ -1,1 +1,1 @@
-var mnemonic = "future situate garment blur inhale answer stairs weapon increase reason ignore lava";
+var mnemonic = "sunny dismiss cross toy step about clarify uphold artwork discover author any";

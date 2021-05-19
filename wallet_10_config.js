@@ -1,1 +1,1 @@
-var mnemonic = "capable charge fatal summer shine gauge region audit select forward arm eager";
+var mnemonic = "deer begin twin drum photo garlic sample primary glass inspire remain summer";

@@ -1,1 +1,1 @@
-var mnemonic = "change coin blast throw friend unusual switch mixed nation protect intact mask";
+var mnemonic = "segment nut engine ribbon relief frozen pass decline prefer pave seat jacket";

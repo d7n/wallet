@@ -1,1 +1,1 @@
-var mnemonic = "fame buffalo section knee salt awake lab decorate plug large pen dance";
+var mnemonic = "weird bag change diet chaos normal eight bleak retire castle coil popular";

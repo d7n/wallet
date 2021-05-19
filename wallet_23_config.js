@@ -1,1 +1,1 @@
-var mnemonic = "exile index bike stick woman assume satisfy tower culture chronic once hand";
+var mnemonic = "bench hundred critic kit black attack assist casino marble coach sweet liar";

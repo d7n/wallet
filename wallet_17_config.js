@@ -1,1 +1,1 @@
-var mnemonic = "old estate lesson puppy desert silly fuel liquid erosion primary crash surface";
+var mnemonic = "fluid voice limit razor circle crime canal same slab actress plate top";

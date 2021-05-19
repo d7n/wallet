@@ -1,1 +1,1 @@
-var mnemonic = "citizen perfect engine water front calm inside couple opinion young empower country";
+var mnemonic = "three bonus extend bunker tackle tourist shallow office twice town exact trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle depend double riot slot gravity ketchup weird suggest false planet wash";
+var mnemonic = "report silent detail addict pig urge leaf multiply table grit tray page";

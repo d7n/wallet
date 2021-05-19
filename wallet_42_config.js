@@ -1,1 +1,1 @@
-var mnemonic = "casino squirrel capable nurse pass weasel orphan whip donate fashion lend cup";
+var mnemonic = "alarm stamp erupt frozen become route mom lion toast spread error laptop";

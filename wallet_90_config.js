@@ -1,1 +1,1 @@
-var mnemonic = "wrist boy business siren lesson miracle goose comfort weapon join visual toe";
+var mnemonic = "avoid trial biology card over wrap praise oil define scan denial neck";

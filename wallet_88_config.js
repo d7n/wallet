@@ -1,1 +1,1 @@
-var mnemonic = "cost pet consider wrestle fat balcony seek liquid way collect airport vast";
+var mnemonic = "ugly equip twelve update state machine focus journey goddess flush fashion indicate";

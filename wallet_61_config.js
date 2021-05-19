@@ -1,1 +1,1 @@
-var mnemonic = "inhale edge very together achieve recipe border space riot auction enact innocent";
+var mnemonic = "help post hat can problem infant tuition mail tongue gossip maple fly";
