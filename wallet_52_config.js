@@ -1,1 +1,1 @@
-var mnemonic = "glare camera adjust tattoo tray gaze method estate eye rely elder proof";
+var mnemonic = "guess spoon paper economy give mouse silver elbow praise inner pupil script";

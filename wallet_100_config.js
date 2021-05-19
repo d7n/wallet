@@ -1,1 +1,1 @@
-var mnemonic = "moment dog pipe kite cattle fetch movie begin diet erase shell outside";
+var mnemonic = "shrug item draw brass blue pencil square return mixed water skate remember";

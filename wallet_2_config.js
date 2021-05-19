@@ -1,1 +1,1 @@
-var mnemonic = "main dinosaur doll glass liquid knock hedgehog zone lady sphere hope above";
+var mnemonic = "relief spoil enable bicycle enroll road topic motion flash rival surface domain";

@@ -1,1 +1,1 @@
-var mnemonic = "bar tuition police girl silent lizard melody real bird silly chest duck";
+var mnemonic = "naive crucial shine wine fiction tackle desert final typical twice metal decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "stable fly taxi grain upgrade magnet surprise kit flock lesson ivory island";
+var mnemonic = "icon flat account pilot sting buyer fat twin fatal educate doll shove";

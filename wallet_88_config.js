@@ -1,1 +1,1 @@
-var mnemonic = "already mad solve real imitate sun snake indicate enrich proof kit feed";
+var mnemonic = "letter blanket bean birth around solid enhance eight knock action ordinary domain";

@@ -1,1 +1,1 @@
-var mnemonic = "machine silver quote bitter nerve enrich farm already good injury trumpet bullet";
+var mnemonic = "armor million one rough option secret ladder flavor suit humor alter burger";

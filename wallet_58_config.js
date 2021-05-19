@@ -1,1 +1,1 @@
-var mnemonic = "account urban kid vacuum hurry arch swap gadget happy ball surge earth";
+var mnemonic = "express lava holiday piece normal ranch harsh era borrow donate burst delay";

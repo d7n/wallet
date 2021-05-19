@@ -1,1 +1,1 @@
-var mnemonic = "pistol void security dose message minor match wrist start tourist lunch arctic";
+var mnemonic = "taste thumb wine acoustic risk grit stuff member feed agree parade action";

@@ -1,1 +1,1 @@
-var mnemonic = "salt tomato december stand office toilet brush useful antenna shove olympic sentence";
+var mnemonic = "three wet people ivory canal install slim stomach negative assault stuff outdoor";

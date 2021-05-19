@@ -1,1 +1,1 @@
-var mnemonic = "fruit mind lunar left clap bicycle skull ring cover talent table soul";
+var mnemonic = "oil math column grow mistake atom bar seed glove journey powder avocado";

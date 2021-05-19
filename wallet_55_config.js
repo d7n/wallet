@@ -1,1 +1,1 @@
-var mnemonic = "save boy depend approve unfair budget sustain loop script gadget bracket distance";
+var mnemonic = "tiger detect gentle silly figure armed sleep dinosaur secret chunk use noodle";

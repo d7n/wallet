@@ -1,1 +1,1 @@
-var mnemonic = "hawk coil cash you useless aisle produce cycle lunch rookie glimpse glad";
+var mnemonic = "reflect today elegant foot lake beef ankle mouse vacuum trial lens chalk";

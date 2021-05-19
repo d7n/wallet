@@ -1,1 +1,1 @@
-var mnemonic = "tip diagram clog pizza mango blouse crunch surface track black enough coyote";
+var mnemonic = "chaos file explain debris opinion cream empower simple nominee call allow kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "entire bottom educate satoshi vote swap hood super mouse attack spy such";
+var mnemonic = "sting knee lesson until rib shoe pulp dog fine weapon fringe box";

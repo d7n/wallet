@@ -1,1 +1,1 @@
-var mnemonic = "rent quote amateur window demand carpet change control evolve second among dash";
+var mnemonic = "record smile marriage divert such drastic cloth carpet scale belt trigger skin";

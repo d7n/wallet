@@ -1,1 +1,1 @@
-var mnemonic = "just poet lucky what ticket hamster bright bitter project song must fan";
+var mnemonic = "common strike noise glow toe public patrol gauge onion number essay cool";

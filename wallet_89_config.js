@@ -1,1 +1,1 @@
-var mnemonic = "agree useless ridge cost immune gloom model pizza general congress fringe mercy";
+var mnemonic = "coast link among night inner green jewel lens oppose chalk machine affair";

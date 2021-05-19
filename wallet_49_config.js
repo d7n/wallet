@@ -1,1 +1,1 @@
-var mnemonic = "alpha lab caution april jelly venture crater paper liar hub yellow swim";
+var mnemonic = "clarify urban vanish depart buyer soon person arena patch puzzle fluid drama";

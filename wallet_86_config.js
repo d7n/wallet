@@ -1,1 +1,1 @@
-var mnemonic = "bean base bulb tip hold soda protect pottery fragile among patient soccer";
+var mnemonic = "belt help prevent camera suggest member fever riot lava plunge unit axis";

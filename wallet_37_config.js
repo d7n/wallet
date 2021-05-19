@@ -1,1 +1,1 @@
-var mnemonic = "minute kid crater spoil toward goat issue cry bike coconut bright rely";
+var mnemonic = "film syrup glimpse february cost team grace endorse section captain fortune moon";

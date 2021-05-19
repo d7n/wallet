@@ -1,1 +1,1 @@
-var mnemonic = "check stumble paper rival moral spell earn artist mystery labor awesome wisdom";
+var mnemonic = "just body cluster casual beach jungle spoon blood frozen history bright swap";

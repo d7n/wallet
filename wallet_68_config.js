@@ -1,1 +1,1 @@
-var mnemonic = "basket chase soda talent air icon brain edit ostrich reform explain cabin";
+var mnemonic = "ice public park neglect thing protect destroy stick move nephew hint thunder";

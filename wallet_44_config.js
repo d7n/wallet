@@ -1,1 +1,1 @@
-var mnemonic = "wool bamboo jar audit crucial seed trick middle picture panther panther ordinary";
+var mnemonic = "often decade trim ranch action undo wild lumber keep antenna myself foam";

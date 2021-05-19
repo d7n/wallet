@@ -1,1 +1,1 @@
-var mnemonic = "share depend grief same kit flush exist razor glow submit erase bounce";
+var mnemonic = "safe rifle gravity member wise grass uniform beef blue walnut wedding castle";

@@ -1,1 +1,1 @@
-var mnemonic = "slice keen trip input parrot filter exact seminar trap clarify pet sauce";
+var mnemonic = "doll throw tortoise coral practice renew grant beyond intact arctic system siege";

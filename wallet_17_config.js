@@ -1,1 +1,1 @@
-var mnemonic = "forum police isolate sea switch robust cool nuclear seek combine arctic hold";
+var mnemonic = "wait dash invest misery dance become post sentence item prevent panel picnic";

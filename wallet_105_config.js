@@ -1,1 +1,1 @@
-var mnemonic = "elder can swing benefit shoot monitor maximum cup during tragic survey october";
+var mnemonic = "bean cup enough thrive attract waste tribe uncle defy before category piece";

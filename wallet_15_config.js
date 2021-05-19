@@ -1,1 +1,1 @@
-var mnemonic = "ice multiply black fetch adapt view donkey fan inflict expose neither glory";
+var mnemonic = "coil weasel disease exist weather venue end cool only say goddess vicious";

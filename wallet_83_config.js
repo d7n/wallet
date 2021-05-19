@@ -1,1 +1,1 @@
-var mnemonic = "oppose fork quote dilemma medal kiss clarify curtain exist top web trade";
+var mnemonic = "chest describe oven cabin pet develop must awkward secret palm suggest express";

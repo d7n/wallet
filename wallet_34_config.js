@@ -1,1 +1,1 @@
-var mnemonic = "brave camp diagram borrow crime lady glove blanket lawsuit sunny private route";
+var mnemonic = "way acquire tired hour win over wave box palace arrange stadium country";

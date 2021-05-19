@@ -1,1 +1,1 @@
-var mnemonic = "coach play silly profit artist canyon virus spawn course box spot hazard";
+var mnemonic = "shoulder either crowd toe party limit harvest major arrest frown exchange casino";

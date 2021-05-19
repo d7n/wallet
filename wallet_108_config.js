@@ -1,1 +1,1 @@
-var mnemonic = "minor bounce finish sphere vote crawl ridge inch venture home teach fresh";
+var mnemonic = "impulse always pioneer crystal indicate peanut bracket alcohol melody book minute primary";

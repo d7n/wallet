@@ -1,1 +1,1 @@
-var mnemonic = "piano vicious town grow long ancient control fuel tortoise zone expose cheese";
+var mnemonic = "pizza hockey machine hurdle paper position frost priority fix sort pair sense";

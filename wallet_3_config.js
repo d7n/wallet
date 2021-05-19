@@ -1,1 +1,1 @@
-var mnemonic = "drink tower girl focus skull amount nice wasp annual perfect moon advice";
+var mnemonic = "predict bulb trophy test nephew broccoli pig rookie wing river wall range";

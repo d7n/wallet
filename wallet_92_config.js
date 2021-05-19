@@ -1,1 +1,1 @@
-var mnemonic = "pen boring host connect around fringe clinic salon club online maximum leader";
+var mnemonic = "effort high jelly blanket fog uncle soccer erode hour traffic dress diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard garage arctic talk lab response galaxy dawn kitten item zero valve";
+var mnemonic = "effort onion need maximum mechanic rule void bike thumb debate cost myth";

@@ -1,1 +1,1 @@
-var mnemonic = "stay gravity hand sheriff feed obtain vintage yellow culture pact giggle indicate";
+var mnemonic = "piece vendor congress network clerk spike limb voice spray famous sleep lucky";

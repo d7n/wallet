@@ -1,1 +1,1 @@
-var mnemonic = "later mercy camp must summer penalty silver aerobic choose youth cube evidence";
+var mnemonic = "gossip cushion bread team call science episode north double sea sting mercy";

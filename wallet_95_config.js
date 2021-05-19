@@ -1,1 +1,1 @@
-var mnemonic = "alcohol aware beach please heart plate hockey exchange entry limit amount drum";
+var mnemonic = "honey father lounge craft slogan smoke loyal company buyer flame whisper used";

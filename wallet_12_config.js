@@ -1,1 +1,1 @@
-var mnemonic = "deal meat elegant evolve vintage tribe duty mobile uncle test finger marble";
+var mnemonic = "wisdom frozen cook usual excuse anxiety sniff absorb unaware blood stool achieve";

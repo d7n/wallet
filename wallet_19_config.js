@@ -1,1 +1,1 @@
-var mnemonic = "suffer bike special rapid drum catch example torch minimum void sand cake";
+var mnemonic = "major prepare cup session afford frame flip toy goose room crew cake";

@@ -1,1 +1,1 @@
-var mnemonic = "flag nominee gesture nut bracket exact love humor game dizzy velvet ticket";
+var mnemonic = "whale business forest enforce clever double web trumpet galaxy shed erosion avocado";

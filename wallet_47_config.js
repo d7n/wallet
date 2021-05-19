@@ -1,1 +1,1 @@
-var mnemonic = "sand employ lady river fish pulp cover possible state attack engine athlete";
+var mnemonic = "simple improve dynamic mule music skill force mushroom cereal tonight long express";

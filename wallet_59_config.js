@@ -1,1 +1,1 @@
-var mnemonic = "panel nest stamp sorry embody vocal sea flame wage caution manage oxygen";
+var mnemonic = "fee yellow boil cable tell knee voice elder grain reflect devote arrest";

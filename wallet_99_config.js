@@ -1,1 +1,1 @@
-var mnemonic = "plunge bottom term bless clump budget man mimic surprise expose will lonely";
+var mnemonic = "public ancient then put issue bitter blade couch limit peace artist derive";

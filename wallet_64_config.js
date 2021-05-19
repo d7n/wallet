@@ -1,1 +1,1 @@
-var mnemonic = "project pet bronze drop test flame orchard inquiry law ice rally undo";
+var mnemonic = "cry wing pact solve idle text clarify swap degree stock old anger";

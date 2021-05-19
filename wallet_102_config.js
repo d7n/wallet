@@ -1,1 +1,1 @@
-var mnemonic = "patrol ice wall enroll try diamond idle scrap mansion panther business tray";
+var mnemonic = "shell mask flush captain garbage ability guilt pen immense stove judge solve";

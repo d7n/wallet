@@ -1,1 +1,1 @@
-var mnemonic = "rain match camp civil seven license effort jewel sauce garment hollow mail";
+var mnemonic = "mad copy install raw virtual bar skull fatigue tower grass faculty palm";

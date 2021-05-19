@@ -1,1 +1,1 @@
-var mnemonic = "fix lion match theme nothing code ribbon era mass regret pave tornado";
+var mnemonic = "cabin decade phone vital laptop art bachelor resemble figure dream odor trial";

@@ -1,1 +1,1 @@
-var mnemonic = "moment certain edge artist tattoo diamond bean oak nuclear damp crystal place";
+var mnemonic = "cigar hundred isolate tooth salmon test glass one soul label wood onion";

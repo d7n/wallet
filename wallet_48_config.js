@@ -1,1 +1,1 @@
-var mnemonic = "mystery sniff very surprise fortune jar calm clap cattle lift nasty crisp";
+var mnemonic = "coral inmate cancel mercy wait ancient shiver hello taste pyramid book pole";

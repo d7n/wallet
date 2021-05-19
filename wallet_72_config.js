@@ -1,1 +1,1 @@
-var mnemonic = "alley peace chalk column hover divert monkey trophy bracket evil present infant";
+var mnemonic = "program slam aisle panic focus elbow deliver slice frame comic bacon cause";

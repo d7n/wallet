@@ -1,1 +1,1 @@
-var mnemonic = "just fantasy august gain zoo bamboo position submit squeeze robust slight attitude";
+var mnemonic = "garage good oppose tilt uniform diary brisk garage pride link cup shop";

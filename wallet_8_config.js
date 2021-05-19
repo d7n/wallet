@@ -1,1 +1,1 @@
-var mnemonic = "marble put finish loop exclude shoot glide clerk major smooth modify pass";
+var mnemonic = "loan math drive guide oven want submit share muscle acid pond photo";

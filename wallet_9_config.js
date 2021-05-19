@@ -1,1 +1,1 @@
-var mnemonic = "pupil ketchup ski distance risk fatigue among trim useful segment barrel road";
+var mnemonic = "whale girl brass unfair sail manage same cheese beef ensure inspire chair";

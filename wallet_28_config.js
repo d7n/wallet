@@ -1,1 +1,1 @@
-var mnemonic = "stand venue few grit owner move grid caution elbow vacant believe already";
+var mnemonic = "fault matrix comfort any move random front unfair skull tired arch surface";

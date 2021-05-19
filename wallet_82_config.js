@@ -1,1 +1,1 @@
-var mnemonic = "diary amount neutral confirm before review gospel jeans flavor rural sand asset";
+var mnemonic = "medal parade price number lottery bulb payment age hurry attend bone lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior afraid pudding fuel rhythm crucial pitch start chaos size core brisk";
+var mnemonic = "lobster slice crew toast clay legend country code maid post uncle first";

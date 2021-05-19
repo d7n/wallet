@@ -1,1 +1,1 @@
-var mnemonic = "love pool fragile knife decorate install tiny frog discover vicious skull nurse";
+var mnemonic = "street noodle gallery disease affair flash lens token cigar zone rib tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "annual riot wolf stadium accuse amazing boil sand dentist neutral hospital girl";
+var mnemonic = "inherit outdoor matrix defense middle skate relax gossip divorce uphold boring grunt";

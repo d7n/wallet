@@ -1,1 +1,1 @@
-var mnemonic = "nurse maple require route journey enrich subject heavy photo envelope opinion extra";
+var mnemonic = "laptop fog shine elegant enough various else magic funny put dial tuna";

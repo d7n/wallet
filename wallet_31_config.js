@@ -1,1 +1,1 @@
-var mnemonic = "inhale scene rent eagle canoe dumb curtain horror walnut few noise crunch";
+var mnemonic = "help sentence grab mom thought opinion half kidney warm floor fashion hospital";

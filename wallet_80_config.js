@@ -1,1 +1,1 @@
-var mnemonic = "render cupboard moment clown equal enough pioneer lesson person thank method adult";
+var mnemonic = "setup horror deposit track shift shift meadow level panel vapor caution action";

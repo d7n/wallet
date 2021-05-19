@@ -1,1 +1,1 @@
-var mnemonic = "gallery fiscal behind fat unaware jazz empower prize shoe ask crime bitter";
+var mnemonic = "turtle jungle balance auto entire obscure side family dish slight miss wage";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle make demand bullet clay journey wild immune neutral dream inner guide";
+var mnemonic = "trouble purchase hold afford defense pen zero supreme dignity swing settle sock";

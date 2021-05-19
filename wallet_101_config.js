@@ -1,1 +1,1 @@
-var mnemonic = "thing dirt hold whale bubble among region elder ill gown social possible";
+var mnemonic = "such predict hollow display approve moment large actress because fame slot excess";

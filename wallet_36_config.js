@@ -1,1 +1,1 @@
-var mnemonic = "gloom section pet enhance plunge fix tongue grid illness marine quiz image";
+var mnemonic = "token wash busy close lemon client raise senior pulp exit solar enrich";

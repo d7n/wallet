@@ -1,1 +1,1 @@
-var mnemonic = "media misery hedgehog idle pattern change lady quote casual divert type meadow";
+var mnemonic = "mother library idle erupt firm hold arrow couple foster little leg tourist";

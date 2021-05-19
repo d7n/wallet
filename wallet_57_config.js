@@ -1,1 +1,1 @@
-var mnemonic = "when remember stand payment until cherry captain drift kid afraid brick average";
+var mnemonic = "nose chase arrive stool void habit lock found hen light skate jungle";

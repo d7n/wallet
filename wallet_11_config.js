@@ -1,1 +1,1 @@
-var mnemonic = "license door wear hazard ugly health cotton ghost they crop absent talent";
+var mnemonic = "frost north hello amount smile elephant chief endless twice clown debris grab";

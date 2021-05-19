@@ -1,1 +1,1 @@
-var mnemonic = "flat pool deputy enroll mean empty fall aware close carbon gaze scorpion";
+var mnemonic = "dentist culture immune arena patient alcohol radar label output extend trial mention";

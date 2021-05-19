@@ -1,1 +1,1 @@
-var mnemonic = "lake already alpha garment initial math catch smoke flip marriage level earn";
+var mnemonic = "black human orchard wheat myself thing switch spice pole glue electric jacket";

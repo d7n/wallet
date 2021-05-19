@@ -1,1 +1,1 @@
-var mnemonic = "reject original feature mind churn install element bitter nest sauce tiger spare";
+var mnemonic = "lemon wheat frame today promote oak floor few trash east race hamster";

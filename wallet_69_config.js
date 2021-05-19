@@ -1,1 +1,1 @@
-var mnemonic = "general mosquito bring measure quiz flat couch gesture mosquito clown never snow";
+var mnemonic = "flee test salon parrot deal shallow sense soap version today fashion drink";

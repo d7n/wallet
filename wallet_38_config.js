@@ -1,1 +1,1 @@
-var mnemonic = "supply place brass adjust bracket dinosaur enough control guess spike raven electric";
+var mnemonic = "stairs cash affair merry profit raccoon caught before video comic census position";

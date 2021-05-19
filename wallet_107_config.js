@@ -1,1 +1,1 @@
-var mnemonic = "soldier math decorate wine school certain during fog pitch kingdom fall lesson";
+var mnemonic = "cargo denial stay essence engine library apology drip skill volume quick brush";

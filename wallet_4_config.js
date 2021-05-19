@@ -1,1 +1,1 @@
-var mnemonic = "reveal rack slender attack purpose engine blouse sing tip verify news item";
+var mnemonic = "injury twin sorry spray climb apple item glad outer debate still digital";

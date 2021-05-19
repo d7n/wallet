@@ -1,1 +1,1 @@
-var mnemonic = "museum summer clever praise shiver fortune hello benefit father health huge elder";
+var mnemonic = "nose swamp output misery foot divorce weird version call about key man";

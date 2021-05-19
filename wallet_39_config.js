@@ -1,1 +1,1 @@
-var mnemonic = "rain stem interest arctic outer vapor carry will curtain assault drink rose";
+var mnemonic = "teach update human mad purse process caution stool clap timber poet agent";

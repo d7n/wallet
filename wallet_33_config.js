@@ -1,1 +1,1 @@
-var mnemonic = "forum among lumber manage merry tornado renew practice primary mosquito scout penalty";
+var mnemonic = "truck remember beauty swarm brief love vendor claw solve leopard gesture outer";

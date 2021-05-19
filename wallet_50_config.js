@@ -1,1 +1,1 @@
-var mnemonic = "fault joke skin mother owner weekend define fork bitter truck define carry";
+var mnemonic = "east skin junior circle fire false target able because champion clerk speak";

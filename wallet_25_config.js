@@ -1,1 +1,1 @@
-var mnemonic = "donate manual glimpse brown toss december ice sport bread pattern label hip";
+var mnemonic = "away rug urge hat guess rapid once train rare umbrella note possible";

@@ -1,1 +1,1 @@
-var mnemonic = "entire runway kiwi magic demand joy bomb fame monster indoor rent velvet";
+var mnemonic = "guard prepare daring phone lawsuit safe original obvious cactus athlete news vital";
