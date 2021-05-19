@@ -1,1 +1,1 @@
-var mnemonic = "august couch cushion better loop broccoli faith insect boring tip office exist";
+var mnemonic = "claw cancel wreck dirt apology argue mouse aunt bargain describe bless harsh";

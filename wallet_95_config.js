@@ -1,1 +1,1 @@
-var mnemonic = "thumb miracle arm alpha refuse cradle celery action like earth taste effort";
+var mnemonic = "wise squirrel effort enlist public weird prize example menu clerk build scorpion";

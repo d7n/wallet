@@ -1,1 +1,1 @@
-var mnemonic = "people moon reason foil deal join hand blouse tortoise steel muffin will";
+var mnemonic = "infant volcano theory topple smile tomorrow age theme enemy luggage one cannon";

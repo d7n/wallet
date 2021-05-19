@@ -1,1 +1,1 @@
-var mnemonic = "casual brass gospel boat system before clever peace burden solution oppose dirt";
+var mnemonic = "wild cup fluid blade magic surprise observe human kitten choice turn protect";

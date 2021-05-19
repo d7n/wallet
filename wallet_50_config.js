@@ -1,1 +1,1 @@
-var mnemonic = "swim layer film swim ghost cactus sniff steel clown obey must dune";
+var mnemonic = "view security swarm unfold now dose forum quiz fire bamboo rapid useful";

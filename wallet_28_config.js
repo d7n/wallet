@@ -1,1 +1,1 @@
-var mnemonic = "screen price language luxury citizen spell merry crane demand regret fetch bench";
+var mnemonic = "merry into abuse jungle melody exhaust sausage finger ivory gold brisk link";

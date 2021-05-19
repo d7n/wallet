@@ -1,1 +1,1 @@
-var mnemonic = "ankle method credit victory bitter engage major lecture body fence space unfold";
+var mnemonic = "happy luxury uncle luggage cycle rather search economy hole educate tool crop";

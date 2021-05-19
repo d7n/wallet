@@ -1,1 +1,1 @@
-var mnemonic = "pluck balcony media drama nut panda sea devote order sadness spare expire";
+var mnemonic = "question table coach game tide pole attack sauce jewel elite rug misery";

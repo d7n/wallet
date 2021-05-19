@@ -1,1 +1,1 @@
-var mnemonic = "work icon usage knock nominee tomorrow speak bullet danger will magnet inherit";
+var mnemonic = "chicken spring winner spawn pitch empty memory weather disorder anchor choice cool";

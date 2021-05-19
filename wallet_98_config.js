@@ -1,1 +1,1 @@
-var mnemonic = "work napkin club tumble struggle negative emerge sheriff spatial scrub comic frame";
+var mnemonic = "orient industry maximum author aspect typical fox velvet wash sudden nut slot";

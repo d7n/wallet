@@ -1,1 +1,1 @@
-var mnemonic = "vivid kiwi upgrade flip silk idle void unhappy game grief reward toilet";
+var mnemonic = "core owner sketch pipe promote click flight penalty brother imitate trumpet process";

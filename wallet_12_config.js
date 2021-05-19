@@ -1,1 +1,1 @@
-var mnemonic = "exile april front impulse come cousin roof cage tool about curve monitor";
+var mnemonic = "hospital stomach globe job twin food patrol patch lazy subject wreck master";

@@ -1,1 +1,1 @@
-var mnemonic = "path hidden vintage proof east unveil next merit paddle dune embody mechanic";
+var mnemonic = "energy soldier flavor stem about vault chaos head glory income opinion screen";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic brown gospel offer must paper unlock wheat polar enjoy dad huge";
+var mnemonic = "offer crack excess cost apple ordinary payment kite dragon fall crisp retreat";

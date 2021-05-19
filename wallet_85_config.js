@@ -1,1 +1,1 @@
-var mnemonic = "impact common wage torch excess marble text negative multiply weather mouse demand";
+var mnemonic = "endless box sudden cousin later stool position project multiply metal parade disagree";

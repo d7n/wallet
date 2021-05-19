@@ -1,1 +1,1 @@
-var mnemonic = "city wheel youth brush country real race dentist tail flavor glare diet";
+var mnemonic = "gravity dinosaur guide memory rug need tube process outdoor misery favorite collect";

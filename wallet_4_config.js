@@ -1,1 +1,1 @@
-var mnemonic = "alert mobile army replace camera cruise harsh speed diagram wasp gas require";
+var mnemonic = "lift atom section cushion end cat chuckle embody seek differ stumble toy";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog damp shiver diesel correct soup weird present decade furnace gasp forest";
+var mnemonic = "neglect soft unfair jazz cotton fix laugh blood shine ceiling front gravity";

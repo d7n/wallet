@@ -1,1 +1,1 @@
-var mnemonic = "coconut spawn beyond false thank chicken more puppy choice because universe student";
+var mnemonic = "social grief gossip raw piece height snack kitchen acquire fix remember biology";

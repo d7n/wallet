@@ -1,1 +1,1 @@
-var mnemonic = "cover evidence bridge vapor hub capable snow faith almost cube fever spread";
+var mnemonic = "shine coil cycle timber custom dinner pelican whisper glance noble dust gift";

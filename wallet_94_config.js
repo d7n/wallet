@@ -1,1 +1,1 @@
-var mnemonic = "robust hamster trap success category auto envelope sport organ can creek hard";
+var mnemonic = "lab palm farm exhibit shrug plastic snap intact deer coral agent sell";

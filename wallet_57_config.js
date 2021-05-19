@@ -1,1 +1,1 @@
-var mnemonic = "super point broccoli box end moral catalog awkward throw bonus finish agree";
+var mnemonic = "talk ribbon proof effort speak puppy wolf coffee marine foil blast pair";

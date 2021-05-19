@@ -1,1 +1,1 @@
-var mnemonic = "pencil urge silk chalk result skirt digital use october pony nerve turn";
+var mnemonic = "finish clay imitate heavy drop draft attack bunker ramp describe trim double";

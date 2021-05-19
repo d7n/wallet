@@ -1,1 +1,1 @@
-var mnemonic = "bar hill push mansion tourist cheese faith vacant wash gauge wish mom";
+var mnemonic = "fever segment table protect equip heart urban alpha smile town absorb shrug";

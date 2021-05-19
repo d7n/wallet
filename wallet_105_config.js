@@ -1,1 +1,1 @@
-var mnemonic = "mask song view laundry maximum tribe aim cram curve chief tell kitten";
+var mnemonic = "knock valley bounce hip adapt cable siren blush drill vocal opinion duck";

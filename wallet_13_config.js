@@ -1,1 +1,1 @@
-var mnemonic = "tribe hold fortune mountain garlic spawn flush rigid second super tip ball";
+var mnemonic = "video huge install away coconut flavor genre organ joy grain angle tail";

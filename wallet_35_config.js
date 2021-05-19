@@ -1,1 +1,1 @@
-var mnemonic = "cereal hockey minute stage very dose hat rural mixed express body organ";
+var mnemonic = "knock second awake hire double sun sad view stone outside attend east";

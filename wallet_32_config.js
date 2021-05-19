@@ -1,1 +1,1 @@
-var mnemonic = "unit ring mushroom ketchup prepare buffalo napkin cricket stuff very slight clip";
+var mnemonic = "bridge congress sunny hold amazing fancy dune cat swallow genuine album mask";

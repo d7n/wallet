@@ -1,1 +1,1 @@
-var mnemonic = "enable corn grit sick valid twice door stadium sport cloud loud immense";
+var mnemonic = "subject cram innocent open exchange pact champion opinion woman click cube forest";

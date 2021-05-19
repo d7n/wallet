@@ -1,1 +1,1 @@
-var mnemonic = "cry clock law amazing canoe reform goose crisp hundred permit federal typical";
+var mnemonic = "slab crawl exit survey usage find auction current balcony blur galaxy depth";

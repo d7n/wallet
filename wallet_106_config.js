@@ -1,1 +1,1 @@
-var mnemonic = "humble skirt crime click apple climb core pole cradle draft thrive rice";
+var mnemonic = "actress term poverty glory misery helmet lonely mesh illness boring birth elite";

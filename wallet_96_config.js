@@ -1,1 +1,1 @@
-var mnemonic = "wire airport episode select enable panic toast average opera promote decade music";
+var mnemonic = "chuckle habit hold pudding high laugh stock anger diesel jewel permit comic";

@@ -1,1 +1,1 @@
-var mnemonic = "pause vessel icon size expand street apology match win winner grunt eyebrow";
+var mnemonic = "chair mirror stick account shallow quiz cotton dress quote forward hub leaf";

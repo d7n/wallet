@@ -1,1 +1,1 @@
-var mnemonic = "myth begin isolate speak black sample knock badge remember drip where clinic";
+var mnemonic = "juice give air minute apple kick report almost bundle celery peasant ready";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch reduce mesh kick walk submit exact lift taxi guilt aunt inject";
+var mnemonic = "obtain switch machine ship school impact vote success chef tourist wasp turn";

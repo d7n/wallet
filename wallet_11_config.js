@@ -1,1 +1,1 @@
-var mnemonic = "inflict pilot gun any sure run rent inject hurt sign squirrel song";
+var mnemonic = "wage hurt custom hope task regular naive swift cherry december bird squeeze";

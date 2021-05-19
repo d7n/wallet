@@ -1,1 +1,1 @@
-var mnemonic = "abstract order benefit figure design absurd clock deny dune prison talent member";
+var mnemonic = "adjust fix stove market cricket dragon donor today oxygen auction keep manage";

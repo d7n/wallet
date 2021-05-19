@@ -1,1 +1,1 @@
-var mnemonic = "dad impose payment mango slice dash govern hedgehog cigar inform traffic analyst";
+var mnemonic = "bachelor filter monitor build ethics session sand desk rural imitate spike mandate";

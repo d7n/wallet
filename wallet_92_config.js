@@ -1,1 +1,1 @@
-var mnemonic = "shiver enforce weird burger gown join walk ceiling enable poem able lucky";
+var mnemonic = "case person pupil creek wink slight craft math else dial decline wealth";

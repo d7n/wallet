@@ -1,1 +1,1 @@
-var mnemonic = "oil mother pave wrap trumpet only region tone output manual absent harbor";
+var mnemonic = "earth great access swift enter once recipe mass setup demand number grid";

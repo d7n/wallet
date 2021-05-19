@@ -1,1 +1,1 @@
-var mnemonic = "tree cabin luggage multiply occur pretty lock web cannon job grit refuse";
+var mnemonic = "host casino census drastic rug tip someone arch priority sing satoshi body";

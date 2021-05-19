@@ -1,1 +1,1 @@
-var mnemonic = "cabin cradle slide glove caught strong leopard front violin capable garden author";
+var mnemonic = "hungry exotic mirror smart motor liar wife impact habit feed pig amateur";

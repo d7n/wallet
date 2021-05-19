@@ -1,1 +1,1 @@
-var mnemonic = "void language reunion human rail unique reject during shoot stereo soap approve";
+var mnemonic = "tray artwork lesson suffer alone churn protect cradle journey spray above biology";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong major resist achieve galaxy traffic pepper rescue dumb pretty fossil virus";
+var mnemonic = "trouble vintage merit drink bind twice muscle viable fix invite already armor";

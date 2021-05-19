@@ -1,1 +1,1 @@
-var mnemonic = "people opinion cotton during claim fantasy sunset fitness manage impact wage sorry";
+var mnemonic = "domain alarm train bargain grant menu gaze identify napkin change enough outer";

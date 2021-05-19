@@ -1,1 +1,1 @@
-var mnemonic = "purpose humble glance tip draft rose flee wing problem crack eight spray";
+var mnemonic = "abuse pulp laundry pool birth air two level razor holiday globe alley";

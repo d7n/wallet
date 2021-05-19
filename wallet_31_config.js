@@ -1,1 +1,1 @@
-var mnemonic = "swamp apple enable hold expect stamp focus verb major cross rare tilt";
+var mnemonic = "attack share present bless vicious tragic card trigger swap heavy oil mind";

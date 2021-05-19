@@ -1,1 +1,1 @@
-var mnemonic = "coral wing spawn other recall inch senior erode unlock giant become bunker";
+var mnemonic = "advance stem path lawn puzzle juice imitate absurd album reopen surge gas";

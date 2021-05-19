@@ -1,1 +1,1 @@
-var mnemonic = "love high merit clay love keen core notice six measure network carpet";
+var mnemonic = "silent erode column ugly puzzle flock destroy hover february deposit prize payment";

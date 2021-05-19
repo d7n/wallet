@@ -1,1 +1,1 @@
-var mnemonic = "mom river acquire alone valid always funny comfort armor shaft glove excite";
+var mnemonic = "inmate love picnic nature chapter elite coast opinion gown water gorilla fresh";

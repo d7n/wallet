@@ -1,1 +1,1 @@
-var mnemonic = "cycle quote logic destroy sing ring road broccoli issue draw roast solve";
+var mnemonic = "tongue palm helmet afraid police nothing nuclear submit brass unique panda prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors media load evidence tool clinic must over news provide bonus master";
+var mnemonic = "ribbon bright awkward roast noodle rival limit century cradle enrich tired bean";

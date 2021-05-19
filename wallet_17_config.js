@@ -1,1 +1,1 @@
-var mnemonic = "olive notice disease ozone doll poem cave own alarm aerobic gather harbor";
+var mnemonic = "loyal screen humor reward rifle check orange enter chimney school token ritual";

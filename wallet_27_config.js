@@ -1,1 +1,1 @@
-var mnemonic = "repeat exhibit seed found simple execute little language all crop fade much";
+var mnemonic = "media town pool cake deer plunge lava snow vague liberty soda review";

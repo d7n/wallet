@@ -1,1 +1,1 @@
-var mnemonic = "horse nuclear rocket middle voyage unusual lonely round original escape prosper avoid";
+var mnemonic = "warfare festival develop enough foam friend enough night access weird curve viable";

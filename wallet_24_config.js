@@ -1,1 +1,1 @@
-var mnemonic = "giraffe paper slight practice fish sunset elite syrup place couch allow just";
+var mnemonic = "exist private change early depart antique cruise economy spoil improve hurry erode";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase cake situate meadow scorpion west enforce ankle visa render hurdle crowd";
+var mnemonic = "opinion survey wash wheel again laugh result victory uniform runway powder bomb";

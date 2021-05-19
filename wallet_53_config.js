@@ -1,1 +1,1 @@
-var mnemonic = "session prevent struggle slender sustain gown faint kid tomorrow skirt puppy tone";
+var mnemonic = "scale plunge kitchen world stuff excuse mystery mirror coin dress buzz purse";

@@ -1,1 +1,1 @@
-var mnemonic = "then sound useful regular market use crystal arch ancient salute pioneer uncover";
+var mnemonic = "swarm avocado ladder album inside hero dad analyst curious castle that unfold";

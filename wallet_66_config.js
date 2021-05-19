@@ -1,1 +1,1 @@
-var mnemonic = "miss blur mutual flock phrase usage test warfare math sister desk spawn";
+var mnemonic = "mail hobby power wisdom wrap speak ripple grid hip inquiry leader ripple";

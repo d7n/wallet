@@ -1,1 +1,1 @@
-var mnemonic = "desk snap ball glad two robot dice acoustic beef champion spray valley";
+var mnemonic = "you runway oblige elite sorry ride move parrot lobster onion prepare space";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel assault bullet theme tongue run floor occur firm proud skill cannon";
+var mnemonic = "sauce lock kite any young pigeon account noodle march open omit grit";

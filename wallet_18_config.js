@@ -1,1 +1,1 @@
-var mnemonic = "smoke subject skill vague noise boat journey lamp daring blind sword useful";
+var mnemonic = "green organ category chimney tiny worry limit pull equal language love pepper";

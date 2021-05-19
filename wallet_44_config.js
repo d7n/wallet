@@ -1,1 +1,1 @@
-var mnemonic = "local warm pact violin way hint swear fortune sea alter power you";
+var mnemonic = "clown tent fault steak stamp need forward middle fish day satoshi almost";

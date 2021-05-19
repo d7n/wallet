@@ -1,1 +1,1 @@
-var mnemonic = "bless must delay soap cute hurdle vivid loop rack maid output dress";
+var mnemonic = "able drama waste crouch state hunt network nothing antenna gorilla puzzle armor";

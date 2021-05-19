@@ -1,1 +1,1 @@
-var mnemonic = "region ability entire toss book inquiry myself leave cousin soon youth hip";
+var mnemonic = "spend shoot provide mixed harsh tube laundry floor hole flower degree special";

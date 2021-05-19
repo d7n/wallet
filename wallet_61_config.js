@@ -1,1 +1,1 @@
-var mnemonic = "chef goose ribbon glance finger ignore genuine raccoon maze erode labor small";
+var mnemonic = "skate play gesture paper lion weather unlock gravity spoon mule range ozone";

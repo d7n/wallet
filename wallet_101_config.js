@@ -1,1 +1,1 @@
-var mnemonic = "finger verb tonight always fall pact usual skirt circle better child proud";
+var mnemonic = "twelve they laundry economy flock develop gauge letter echo craft anger stage";

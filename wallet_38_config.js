@@ -1,1 +1,1 @@
-var mnemonic = "unveil process gap stick hidden please again alter cram tube can emotion";
+var mnemonic = "romance laundry ladder number alien orange crane dentist laundry lock long fun";

@@ -1,1 +1,1 @@
-var mnemonic = "media seek dress stereo spice chapter diet surface occur match model where";
+var mnemonic = "dad shrimp gossip finish sport kick hold vital clean calm basket entry";

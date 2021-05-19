@@ -1,1 +1,1 @@
-var mnemonic = "upon hire rapid song balance master fit believe knee charge unfold reveal";
+var mnemonic = "economy name today muscle swamp machine proof argue grape two wet celery";

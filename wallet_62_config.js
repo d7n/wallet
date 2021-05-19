@@ -1,1 +1,1 @@
-var mnemonic = "narrow case music system illegal tourist donate mean pipe flight real fashion";
+var mnemonic = "cube donor visual letter kite level coach among magic initial despair clutch";

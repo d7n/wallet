@@ -1,1 +1,1 @@
-var mnemonic = "affair elder cream twist all problem paper agree source series squirrel flash";
+var mnemonic = "eagle market excuse citizen crouch shallow priority base route slide fabric cabbage";

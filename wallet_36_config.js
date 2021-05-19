@@ -1,1 +1,1 @@
-var mnemonic = "lock stuff young pretty picnic eye member tribe lunar range goat fashion";
+var mnemonic = "mobile crew next budget scale wool upon chase table title ask boat";

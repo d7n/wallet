@@ -1,1 +1,1 @@
-var mnemonic = "slam banner boy rifle flame flight phrase picnic predict index actual guard";
+var mnemonic = "desk rough nose abandon glare rebuild bless wheat scene rabbit robust wing";

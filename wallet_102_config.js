@@ -1,1 +1,1 @@
-var mnemonic = "chase direct nose cliff program wool subway answer convince hammer mouse punch";
+var mnemonic = "debris episode midnight noodle group job turtle lawn peasant deliver print concert";

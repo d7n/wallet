@@ -1,1 +1,1 @@
-var mnemonic = "clown item asset dream now blast dizzy repair help regret way exit";
+var mnemonic = "transfer pilot kid chicken patrol identify prison alcohol around remind champion rain";

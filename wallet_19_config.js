@@ -1,1 +1,1 @@
-var mnemonic = "laptop island charge album dawn joke mesh quarter what jacket iron pave";
+var mnemonic = "giggle fossil viable journey dumb traffic glance believe tape trouble isolate gauge";

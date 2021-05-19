@@ -1,1 +1,1 @@
-var mnemonic = "scatter scare chimney output dinner parrot trim turtle expose ski purpose limit";
+var mnemonic = "grab chuckle dumb laptop jump actual choice addict simple guilt life hour";

@@ -1,1 +1,1 @@
-var mnemonic = "level table pupil velvet scatter enroll acid floor fringe awake wife grace";
+var mnemonic = "doctor merit floor ladder bind general pudding audit chapter bundle proud stage";

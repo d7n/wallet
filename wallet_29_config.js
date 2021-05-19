@@ -1,1 +1,1 @@
-var mnemonic = "width carbon tenant sorry educate basic addict deputy clarify cinnamon charge quick";
+var mnemonic = "since plug flee rely control pumpkin noodle write million three pony honey";

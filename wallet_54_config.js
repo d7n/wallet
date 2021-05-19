@@ -1,1 +1,1 @@
-var mnemonic = "blade science borrow unable need canyon snow adult model sponsor traffic symbol";
+var mnemonic = "expire brave marriage spin artist pulp stable leave level walk square security";
