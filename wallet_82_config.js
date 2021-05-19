@@ -1,1 +1,1 @@
-var mnemonic = "green spawn maze wise estate echo ball track host used apple rhythm";
+var mnemonic = "canvas corn razor bean scare picnic brown method wagon citizen artist section";

@@ -1,1 +1,1 @@
-var mnemonic = "entry kitten embark robot recycle soft twice palm rookie open burst film";
+var mnemonic = "obtain clog surround cactus crunch twelve trap popular oblige also camp bitter";

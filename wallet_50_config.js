@@ -1,1 +1,1 @@
-var mnemonic = "hair dignity fatigue address faint expand shrug design result similar fault wrap";
+var mnemonic = "spread hire cave dash climb muffin genre manage belt reject congress primary";

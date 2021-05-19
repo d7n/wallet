@@ -1,1 +1,1 @@
-var mnemonic = "humble wagon next visit adjust charge team again situate spawn must uncover";
+var mnemonic = "forum glide fine gym repeat save grow toast citizen dignity country tent";

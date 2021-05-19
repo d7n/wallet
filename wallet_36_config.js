@@ -1,1 +1,1 @@
-var mnemonic = "divert current garage rack athlete head bread height raw sport evil lucky";
+var mnemonic = "state vital battle neck book repair elite razor exit civil mean seed";

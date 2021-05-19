@@ -1,1 +1,1 @@
-var mnemonic = "cover jealous aware update timber wedding empty screen cupboard decline domain worry";
+var mnemonic = "pledge scene day mirror soul butter long genre lobster culture impose home";

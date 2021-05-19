@@ -1,1 +1,1 @@
-var mnemonic = "dance glow vicious aisle humble athlete add dose absorb axis surface guilt";
+var mnemonic = "orchard learn million theory first library ramp paper tattoo cheese spring skull";

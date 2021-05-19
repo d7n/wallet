@@ -1,1 +1,1 @@
-var mnemonic = "history viable chapter impact ready arm enact imitate road myth athlete siren";
+var mnemonic = "vanish floor art vocal base magic rival key salon satoshi art tape";

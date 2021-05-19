@@ -1,1 +1,1 @@
-var mnemonic = "issue casino inherit stumble magic island client wrong engine mango spread girl";
+var mnemonic = "mom tumble citizen ready once option eagle retreat sail firm genre garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "agree casual rotate truck zero short depart scale allow prepare still sense";
+var mnemonic = "journey text lesson sniff donate run must item popular soap write pair";

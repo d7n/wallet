@@ -1,1 +1,1 @@
-var mnemonic = "slab imitate survey network blouse because pilot course twist language material soccer";
+var mnemonic = "ranch chapter income mountain keen circle popular eager advice catalog aspect provide";

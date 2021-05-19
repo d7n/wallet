@@ -1,1 +1,1 @@
-var mnemonic = "soul flash myself grape sphere gravity mango cabbage own shy better grass";
+var mnemonic = "bridge forget still repeat result endless connect river air immune peace predict";

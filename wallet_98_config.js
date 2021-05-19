@@ -1,1 +1,1 @@
-var mnemonic = "elite panda assist indoor nice idea original unusual radio kiwi box milk";
+var mnemonic = "bomb cushion jungle neck market pause connect floor trial rural system boring";

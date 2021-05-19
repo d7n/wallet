@@ -1,1 +1,1 @@
-var mnemonic = "divorce olympic math mandate team brain name change fat rule local radio";
+var mnemonic = "social person fatigue glimpse offer drastic height tray spare shallow actress torch";

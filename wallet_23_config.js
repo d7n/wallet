@@ -1,1 +1,1 @@
-var mnemonic = "current cheese relax salmon cigar couple garlic avocado female vast smart certain";
+var mnemonic = "purity color sign decorate force machine orange scorpion enter sentence someone hole";

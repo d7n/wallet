@@ -1,1 +1,1 @@
-var mnemonic = "hammer garage infant ability aware unveil seven pigeon accuse real tip solve";
+var mnemonic = "coyote twenty interest valve also tonight myself ethics elite second dust brave";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify reward essay marble tower seek wrap educate tortoise labor swing any";
+var mnemonic = "animal test poet fun bone water obey word have title bacon claw";

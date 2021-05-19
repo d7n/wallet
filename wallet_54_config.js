@@ -1,1 +1,1 @@
-var mnemonic = "garage double picnic sustain update cactus north miracle solar whip sound lady";
+var mnemonic = "solution lunch whip orphan cause toy pause render give wonder scare plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve mandate cost zoo dad ginger swap enough auction desk rail craft";
+var mnemonic = "void endless best when ship seed cigar half satisfy vacuum swamp consider";

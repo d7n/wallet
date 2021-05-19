@@ -1,1 +1,1 @@
-var mnemonic = "cigar marriage attract enter require chronic reform margin curtain thank person chair";
+var mnemonic = "rich shuffle below pottery march method vivid type cup van enter trigger";

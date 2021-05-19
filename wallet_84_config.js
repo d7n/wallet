@@ -1,1 +1,1 @@
-var mnemonic = "dash junk fire two embark illegal cloth wrap easily stick omit amazing";
+var mnemonic = "bottom risk achieve luggage deputy marble unit wrap truck idle basket wrist";

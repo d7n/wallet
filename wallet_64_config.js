@@ -1,1 +1,1 @@
-var mnemonic = "coin true push chest tool wrap busy extra mandate boat please mammal";
+var mnemonic = "bottom pulp company saddle coin three rapid climb typical floor useful almost";

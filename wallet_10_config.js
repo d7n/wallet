@@ -1,1 +1,1 @@
-var mnemonic = "appear inject fame priority retreat artwork almost crush erase usual obscure celery";
+var mnemonic = "fog permit truly humble cushion upper sign marble release random acid brush";

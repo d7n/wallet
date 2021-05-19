@@ -1,1 +1,1 @@
-var mnemonic = "silk city very piece neutral hero media magic follow saddle bike palace";
+var mnemonic = "bar awful indicate blind process world wish brave theme master frozen panel";

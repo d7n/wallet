@@ -1,1 +1,1 @@
-var mnemonic = "sheriff liberty review bird reveal force panther honey during public float cluster";
+var mnemonic = "cactus logic liberty solar debate mammal coyote sport siege quantum elbow ridge";

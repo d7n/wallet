@@ -1,1 +1,1 @@
-var mnemonic = "typical document pause promote gain such sister foil cake ugly neck snake";
+var mnemonic = "taste december when steak surge illness adult vapor slow debris stamp jump";

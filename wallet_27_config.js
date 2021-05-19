@@ -1,1 +1,1 @@
-var mnemonic = "ice cluster high step false easily throw mail danger ladder victory say";
+var mnemonic = "flip cereal away speak junk sleep stamp select maximum word exotic screen";

@@ -1,1 +1,1 @@
-var mnemonic = "flash situate aspect execute purchase network alarm main dynamic leopard select release";
+var mnemonic = "weather recipe myth more noise between tissue alpha pipe cup key cover";

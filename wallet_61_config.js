@@ -1,1 +1,1 @@
-var mnemonic = "follow stone layer soul element radar ring elegant night valid lawn outdoor";
+var mnemonic = "radar room nominee combine pond squirrel spend coin spare round squeeze fiscal";

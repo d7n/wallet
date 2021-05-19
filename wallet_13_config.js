@@ -1,1 +1,1 @@
-var mnemonic = "early top produce diamond key autumn enable boy glass list fox fish";
+var mnemonic = "crucial left stem despair announce ozone trim salt allow kitten praise gift";

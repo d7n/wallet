@@ -1,1 +1,1 @@
-var mnemonic = "clock cupboard silk dragon maid common royal plate deputy victory soccer away";
+var mnemonic = "man pioneer dinner history predict marble praise neck soul shed limit vote";

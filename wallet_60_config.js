@@ -1,1 +1,1 @@
-var mnemonic = "hello truth earth amazing duty grocery shoulder suffer mirror shoulder assist surround";
+var mnemonic = "speed veteran thumb melt elbow radio upset lizard virtual gate peanut slab";

@@ -1,1 +1,1 @@
-var mnemonic = "tent hidden spirit connect pulp talk notable history okay runway cheese dinner";
+var mnemonic = "silver garment balcony trophy frozen cinnamon rival visual impulse goose pulse bacon";

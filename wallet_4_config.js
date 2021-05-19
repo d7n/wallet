@@ -1,1 +1,1 @@
-var mnemonic = "kit tube correct reject tragic hint dust gold physical pioneer kangaroo diesel";
+var mnemonic = "holiday clever correct slam orphan flip rug soup twist robust lyrics foil";

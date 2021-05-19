@@ -1,1 +1,1 @@
-var mnemonic = "bike because nice peace genius frost age general pole wave wolf tide";
+var mnemonic = "merge next ecology dignity rookie car inquiry dress roast mixture review sausage";

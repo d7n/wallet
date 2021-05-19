@@ -1,1 +1,1 @@
-var mnemonic = "brave wall admit key vivid check shrug unlock funny forward wash grow";
+var mnemonic = "put vapor deal cry rally vague patrol brief inspire wrap rival present";

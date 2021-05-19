@@ -1,1 +1,1 @@
-var mnemonic = "essence snap assault finish engine congress volcano normal payment company please early";
+var mnemonic = "scorpion snap sketch offer wrap nurse share possible evolve inject until require";

@@ -1,1 +1,1 @@
-var mnemonic = "report artist oil lunch satisfy exile plastic chimney fetch enhance verify air";
+var mnemonic = "yard rescue jump cotton input orange job head mention vacant penalty family";

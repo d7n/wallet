@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog fall toast ordinary stool goose possible base chest glance burden pattern";
+var mnemonic = "can zebra garlic twin nose area learn gesture obvious visit guard advice";

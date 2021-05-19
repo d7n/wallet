@@ -1,1 +1,1 @@
-var mnemonic = "happy truth worth stereo volume raven earn build hair disagree inch cube";
+var mnemonic = "canal venture powder spawn quiz cushion feed mix pigeon mixture scan settle";

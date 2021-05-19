@@ -1,1 +1,1 @@
-var mnemonic = "skirt pill unusual fantasy jazz actual whip powder wreck scare hat setup";
+var mnemonic = "awake version firm party rely hidden assume follow era unit quarter weekend";

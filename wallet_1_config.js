@@ -1,1 +1,1 @@
-var mnemonic = "warfare symptom century invite side oppose square damage rival lawsuit actress walk";
+var mnemonic = "film awful axis seek kick fury weather grow manage make multiply soldier";

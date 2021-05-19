@@ -1,1 +1,1 @@
-var mnemonic = "place faculty chalk little crawl index intact tattoo picnic worry display link";
+var mnemonic = "pilot have verb marine stick swap couple glimpse picnic claw route wait";

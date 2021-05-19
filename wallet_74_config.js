@@ -1,1 +1,1 @@
-var mnemonic = "lamp surround brown angry syrup twenty wait certain figure dilemma affair siren";
+var mnemonic = "border ridge shiver mixture unique knock then panda exhibit panel social bag";

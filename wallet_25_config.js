@@ -1,1 +1,1 @@
-var mnemonic = "excuse radar fit goat circle detail cream bean spin random shell case";
+var mnemonic = "hockey alert giant learn rather scan gate also absent firm circle kick";

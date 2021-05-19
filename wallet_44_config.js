@@ -1,1 +1,1 @@
-var mnemonic = "night bird claw arrow width bomb describe game ready area short crouch";
+var mnemonic = "slim skin weasel gentle evidence weird scorpion vanish initial dynamic apology term";

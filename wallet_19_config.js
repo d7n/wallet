@@ -1,1 +1,1 @@
-var mnemonic = "level loyal sorry way key private cross gaze label ancient vacant fit";
+var mnemonic = "online scatter taxi inspire civil shy give tank top make bacon thunder";

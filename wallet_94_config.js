@@ -1,1 +1,1 @@
-var mnemonic = "copper awkward peace thunder dynamic pride toward window chicken sponsor river salmon";
+var mnemonic = "try gown camera impact spike call zebra impose vanish there federal rice";

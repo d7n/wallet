@@ -1,1 +1,1 @@
-var mnemonic = "sorry immense hen possible middle child giggle zoo across bulk infant produce";
+var mnemonic = "normal survey proud believe hint giraffe cliff water decrease arrange grab forest";

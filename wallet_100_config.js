@@ -1,1 +1,1 @@
-var mnemonic = "cliff slice festival faint bulk aerobic piano cushion negative soup mercy increase";
+var mnemonic = "believe near inflict pulse shell tip muscle endorse remove pelican concert oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "member actress juice coral extra person imitate long appear olive bronze cross";
+var mnemonic = "miss grab pipe pumpkin vicious minute school need radar train vintage response";

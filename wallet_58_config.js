@@ -1,1 +1,1 @@
-var mnemonic = "phrase evoke jewel fly engage dolphin coast border attract identify crack excuse";
+var mnemonic = "stomach awesome polar furnace elite nuclear shadow behave ritual thing raw sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "grape believe spot pioneer absurd bubble absent defense basket inmate arrive purse";
+var mnemonic = "broom destroy hurdle rather estate zoo hundred subject inside grain left biology";

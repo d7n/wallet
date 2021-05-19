@@ -1,1 +1,1 @@
-var mnemonic = "crouch discover junk spell play vehicle desert birth piece galaxy small walk";
+var mnemonic = "skull keep female benefit nice dilemma lend garment shove ranch team end";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby certain until digital chief behind kick film holiday error scene question";
+var mnemonic = "dove day basic coil ill health grocery question ball book book jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "reform surprise wealth valid example body artwork symptom hungry joy carpet tissue";
+var mnemonic = "oven sport purse organ chair project shallow barely stadium vicious agree example";

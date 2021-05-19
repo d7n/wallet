@@ -1,1 +1,1 @@
-var mnemonic = "social ignore giraffe few zero sadness judge sorry category host talk convince";
+var mnemonic = "timber put frame sick mother wool reflect midnight pulse silent lesson warm";

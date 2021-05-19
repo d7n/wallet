@@ -1,1 +1,1 @@
-var mnemonic = "hollow process frog churn oval walk fun shell morning expect riot drip";
+var mnemonic = "vacant arrange lawsuit midnight theme flag limit cannon invest raven search range";

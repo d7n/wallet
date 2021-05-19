@@ -1,1 +1,1 @@
-var mnemonic = "tray embark sound tomato off luggage afraid stable real denial develop rescue";
+var mnemonic = "kingdom narrow antique glad infant olive permit old this away atom culture";

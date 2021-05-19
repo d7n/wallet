@@ -1,1 +1,1 @@
-var mnemonic = "mansion express hybrid merge gasp chef mystery twelve fox water rally high";
+var mnemonic = "audit gas blood dish conduct estate wrap parade keep match lake depart";

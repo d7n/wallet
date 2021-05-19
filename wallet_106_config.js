@@ -1,1 +1,1 @@
-var mnemonic = "family goddess pencil velvet sense gossip jaguar thank hen focus team giant";
+var mnemonic = "place cake penalty chest spoon canvas gun tobacco mail will joy because";

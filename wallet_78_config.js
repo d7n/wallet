@@ -1,1 +1,1 @@
-var mnemonic = "bench october lazy guitar aware swarm summer victory group lab recipe dumb";
+var mnemonic = "warfare material tank dash bulb repeat smile sponsor panda wood click topple";

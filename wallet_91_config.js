@@ -1,1 +1,1 @@
-var mnemonic = "vault lazy smart remind ostrich bench stumble front frequent predict chuckle account";
+var mnemonic = "mix risk order trial grab pottery title reopen argue document advance mix";

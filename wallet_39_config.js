@@ -1,1 +1,1 @@
-var mnemonic = "connect result boost foster joke stick recall spread rival swallow adapt trash";
+var mnemonic = "vacant cruise profit betray mule foil knee version destroy text option vacuum";

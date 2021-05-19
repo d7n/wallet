@@ -1,1 +1,1 @@
-var mnemonic = "vacuum patch rule vehicle area document doll upper panda suit jazz banana";
+var mnemonic = "raise salute harvest marriage mansion palm slice siren island immense uniform scan";

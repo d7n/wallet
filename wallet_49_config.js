@@ -1,1 +1,1 @@
-var mnemonic = "faint volcano brown scrub surprise sunset essence frame ten vicious basket cable";
+var mnemonic = "assault wage business culture promote govern sunny marble symbol cross alone deny";

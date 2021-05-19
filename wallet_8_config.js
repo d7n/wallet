@@ -1,1 +1,1 @@
-var mnemonic = "saddle century giraffe tattoo explain vault when real spoil bright pride design";
+var mnemonic = "review gorilla life wealth couch balcony middle act teach bargain define summer";

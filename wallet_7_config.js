@@ -1,1 +1,1 @@
-var mnemonic = "material happy basic hole gesture anxiety spice gaze rent man mistake wing";
+var mnemonic = "excess chaos south sea arena orient lens surround hero unlock wasp code";

@@ -1,1 +1,1 @@
-var mnemonic = "six parrot pyramid giant coffee treat hip stand round sting business visa";
+var mnemonic = "obtain bachelor abandon will illness eight sphere vicious ten spread section solid";

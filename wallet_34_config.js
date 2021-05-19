@@ -1,1 +1,1 @@
-var mnemonic = "claw right marble praise october rookie trick govern prosper innocent goddess shoulder";
+var mnemonic = "arrive breeze sense increase foam maze caution grab quote cousin agree orphan";

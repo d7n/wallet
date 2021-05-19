@@ -1,1 +1,1 @@
-var mnemonic = "improve choose leader include lion win loud federal point girl bamboo vapor";
+var mnemonic = "amateur knife express jungle federal text fiber canyon twist average elder target";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk renew eye meat quit beach awesome comic real cancel then round";
+var mnemonic = "cart update review output flavor couple clump extend menu series size rotate";

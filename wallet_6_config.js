@@ -1,1 +1,1 @@
-var mnemonic = "tennis rigid camera remove vacuum diet claw caution silent later oak truck";
+var mnemonic = "coral auto castle nation document cross bachelor unique repair reform casino crime";

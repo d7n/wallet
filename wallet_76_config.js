@@ -1,1 +1,1 @@
-var mnemonic = "direct betray electric pledge west steel dish inform limit ginger dance lucky";
+var mnemonic = "neutral opinion fury possible company section silk dinosaur vapor model velvet forum";

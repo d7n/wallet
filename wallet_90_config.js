@@ -1,1 +1,1 @@
-var mnemonic = "damage praise lunar spike sample valid evidence badge food chase tennis attack";
+var mnemonic = "waste sweet cream canvas dilemma among fan unfold bounce ranch organ genius";

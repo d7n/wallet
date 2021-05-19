@@ -1,1 +1,1 @@
-var mnemonic = "lava universe drift aerobic vital bamboo adapt trade near learn hero margin";
+var mnemonic = "engine pattern charge alone next hen virtual consider risk own wave math";

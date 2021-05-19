@@ -1,1 +1,1 @@
-var mnemonic = "stand general churn isolate toast cluster dolphin chair park curious today rhythm";
+var mnemonic = "penalty chaos maple badge canyon pupil bitter neck escape visit anxiety owner";

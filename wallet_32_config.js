@@ -1,1 +1,1 @@
-var mnemonic = "still attack layer among coyote rain dove empower word charge fantasy soon";
+var mnemonic = "prefer seminar stay rural joy car enlist document owner farm vanish notice";

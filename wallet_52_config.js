@@ -1,1 +1,1 @@
-var mnemonic = "way jump mean coral solar fatigue risk sweet nuclear large drum acid";
+var mnemonic = "awesome list fabric meadow maximum harbor luggage nation bargain candy ugly jazz";

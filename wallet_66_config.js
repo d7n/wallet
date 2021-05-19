@@ -1,1 +1,1 @@
-var mnemonic = "ramp wave gossip dry hungry tiny future length end frame luggage olive";
+var mnemonic = "toss later curious neglect buffalo strong surface online diagram ladder profit emotion";

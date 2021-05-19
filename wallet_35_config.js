@@ -1,1 +1,1 @@
-var mnemonic = "door jacket forward scissors domain inner stuff arrow prison panic document bike";
+var mnemonic = "floor hungry deny donate thing predict universe twice crazy marble dad execute";

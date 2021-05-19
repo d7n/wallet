@@ -1,1 +1,1 @@
-var mnemonic = "era black doctor good potato high plunge decorate glare village oven limb";
+var mnemonic = "canvas west crazy drum power desk obvious radar gather valley order voice";

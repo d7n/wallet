@@ -1,1 +1,1 @@
-var mnemonic = "coach pigeon around modify marine panic hover stable merge recycle casual denial";
+var mnemonic = "brief badge ten denial feature economy paddle try film normal print sail";

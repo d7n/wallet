@@ -1,1 +1,1 @@
-var mnemonic = "yard awesome valley snap wait throw north pioneer pole rocket hamster wool";
+var mnemonic = "shiver help miss control issue effort crash enable candy sail mutual wheel";

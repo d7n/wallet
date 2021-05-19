@@ -1,1 +1,1 @@
-var mnemonic = "unfold various muscle fall crack fix orchard castle drastic bulb outer purse";
+var mnemonic = "lawsuit kite fence short adult crop doctor nurse service intact twin stuff";

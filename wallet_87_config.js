@@ -1,1 +1,1 @@
-var mnemonic = "engine sense tenant mystery document people candy champion pulp idle onion spice";
+var mnemonic = "embark undo rent build able you system town bargain magic awake around";

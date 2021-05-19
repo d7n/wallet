@@ -1,1 +1,1 @@
-var mnemonic = "draft supply rubber glimpse share wasp agree outdoor prepare april mixture loan";
+var mnemonic = "earth drum scan unfair holiday advance shift drift okay siege cake resist";

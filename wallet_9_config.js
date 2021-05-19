@@ -1,1 +1,1 @@
-var mnemonic = "vapor pepper turn summer mouse scene knife desk diagram sausage enjoy bachelor";
+var mnemonic = "suit shine merge sad news defense impulse pottery horn glance settle exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "season sheriff believe horn genius alcohol monster teach uncle account solve click";
+var mnemonic = "bomb height beyond trick puppy nut attend position physical give display extra";

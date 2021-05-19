@@ -1,1 +1,1 @@
-var mnemonic = "drill dawn wedding jaguar labor range morning wasp embark deliver foster silver";
+var mnemonic = "fiction enter buffalo ship law bamboo purse ski scatter warfare spy barely";

@@ -1,1 +1,1 @@
-var mnemonic = "easy laugh soda travel arrange spoon sweet depth shoulder laundry wagon prize";
+var mnemonic = "fetch puppy economy require churn helmet mammal then pet around sauce island";

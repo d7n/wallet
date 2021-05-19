@@ -1,1 +1,1 @@
-var mnemonic = "journey vast engage true idea olive torch review now advice ladder myself";
+var mnemonic = "such arm concert dinosaur divert dizzy sweet cherry civil robot steak symptom";

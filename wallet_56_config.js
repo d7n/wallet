@@ -1,1 +1,1 @@
-var mnemonic = "rail state mercy mind vanish wage dutch resemble fatigue slice anxiety feature";
+var mnemonic = "midnight decade busy sentence stadium define spread barely clog situate entry fence";

@@ -1,1 +1,1 @@
-var mnemonic = "milk fork nature catch truly arrow theme evolve glide gravity outdoor liquid";
+var mnemonic = "secret key arctic moon crash hint swing roof argue rabbit book announce";
