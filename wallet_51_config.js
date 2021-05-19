@@ -1,1 +1,1 @@
-var mnemonic = "surge spare fragile trick best budget kind ticket cruise false release afford";
+var mnemonic = "pencil urge silk chalk result skirt digital use october pony nerve turn";

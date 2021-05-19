@@ -1,1 +1,1 @@
-var mnemonic = "food endless virus roast glue radar news dwarf million promote evoke window";
+var mnemonic = "shiver enforce weird burger gown join walk ceiling enable poem able lucky";

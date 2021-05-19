@@ -1,1 +1,1 @@
-var mnemonic = "client unveil broom wise benefit light shrimp collect anxiety cross render dog";
+var mnemonic = "soccer vault bench soul vapor pet kitten lazy blur sibling daughter oblige";

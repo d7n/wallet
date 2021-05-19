@@ -1,1 +1,1 @@
-var mnemonic = "detail seat path treat make gloom reform various divorce glow electric sunset";
+var mnemonic = "oil mother pave wrap trumpet only region tone output manual absent harbor";

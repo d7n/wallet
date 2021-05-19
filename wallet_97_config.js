@@ -1,1 +1,1 @@
-var mnemonic = "next gloom ball muffin will where fashion aim sing bubble enforce grape";
+var mnemonic = "work icon usage knock nominee tomorrow speak bullet danger will magnet inherit";

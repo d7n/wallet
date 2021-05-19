@@ -1,1 +1,1 @@
-var mnemonic = "brief carbon effort license amount notice inmate zero win mechanic inherit topic";
+var mnemonic = "pigeon vital beef zone illness trouble grape patch surprise wild day grain";

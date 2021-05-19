@@ -1,1 +1,1 @@
-var mnemonic = "fortune guess arch surge blossom fitness explain exhibit lamp earn scout chair";
+var mnemonic = "lock stuff young pretty picnic eye member tribe lunar range goat fashion";

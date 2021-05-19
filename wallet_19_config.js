@@ -1,1 +1,1 @@
-var mnemonic = "expose toy orchard close alley force truck blur patrol strike drill bubble";
+var mnemonic = "laptop island charge album dawn joke mesh quarter what jacket iron pave";

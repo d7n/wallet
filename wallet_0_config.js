@@ -1,1 +1,1 @@
-var mnemonic = "size skin winner street subway parade flash route vault tent inhale umbrella";
+var mnemonic = "coconut spawn beyond false thank chicken more puppy choice because universe student";

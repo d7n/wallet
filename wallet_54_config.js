@@ -1,1 +1,1 @@
-var mnemonic = "okay rice cat assault focus suggest buffalo win breeze error become category";
+var mnemonic = "blade science borrow unable need canyon snow adult model sponsor traffic symbol";

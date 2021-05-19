@@ -1,1 +1,1 @@
-var mnemonic = "sure swap fabric enter child bitter dynamic battle parade perfect brave bus";
+var mnemonic = "airport hold drill problem tiger ostrich purity person net angry sign draft";

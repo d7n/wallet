@@ -1,1 +1,1 @@
-var mnemonic = "faith turn major scheme spatial blood sadness child material moral silk deliver";
+var mnemonic = "session prevent struggle slender sustain gown faint kid tomorrow skirt puppy tone";

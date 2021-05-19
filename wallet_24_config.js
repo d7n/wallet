@@ -1,1 +1,1 @@
-var mnemonic = "pave connect deposit capital coil random ginger urban atom stadium oyster talk";
+var mnemonic = "giraffe paper slight practice fish sunset elite syrup place couch allow just";

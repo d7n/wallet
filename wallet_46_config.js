@@ -1,1 +1,1 @@
-var mnemonic = "snake abuse hollow window neck artefact intact measure advance hurt silent spirit";
+var mnemonic = "void language reunion human rail unique reject during shoot stereo soap approve";

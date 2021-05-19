@@ -1,1 +1,1 @@
-var mnemonic = "emerge ice liberty marine rich bicycle atom neutral burden vacant glide pig";
+var mnemonic = "work napkin club tumble struggle negative emerge sheriff spatial scrub comic frame";

@@ -1,1 +1,1 @@
-var mnemonic = "region drop point damage salmon finish symbol trap resemble utility noble sad";
+var mnemonic = "miss blur mutual flock phrase usage test warfare math sister desk spawn";

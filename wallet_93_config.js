@@ -1,1 +1,1 @@
-var mnemonic = "midnight carbon grape ahead hood horn disagree oven much cereal school word";
+var mnemonic = "cycle quote logic destroy sing ring road broccoli issue draw roast solve";

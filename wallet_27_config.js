@@ -1,1 +1,1 @@
-var mnemonic = "select asset post cliff lumber plunge office tackle gold toilet sea disease";
+var mnemonic = "repeat exhibit seed found simple execute little language all crop fade much";

@@ -1,1 +1,1 @@
-var mnemonic = "inch patient film flee swamp grass identify ecology tornado suit approve west";
+var mnemonic = "glide gospel step mean manual knock post drink sketch shoot animal sail";

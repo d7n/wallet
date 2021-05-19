@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin razor culture foam quiz dance genre panther hold gym dance shop";
+var mnemonic = "pear glass engage scene kid hospital gap little security another into excite";

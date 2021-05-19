@@ -1,1 +1,1 @@
-var mnemonic = "case diesel business add orbit measure machine carry drip album option mixed";
+var mnemonic = "humble skirt crime click apple climb core pole cradle draft thrive rice";

@@ -1,1 +1,1 @@
-var mnemonic = "culture culture major behave dust machine begin govern father truck typical poverty";
+var mnemonic = "unveil process gap stick hidden please again alter cram tube can emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "price system dignity uncover monitor bulk engine erode human cactus six little";
+var mnemonic = "swamp apple enable hold expect stamp focus verb major cross rare tilt";

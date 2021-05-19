@@ -1,1 +1,1 @@
-var mnemonic = "civil course language edge lemon cube flee audit pass immense strong name";
+var mnemonic = "august couch cushion better loop broccoli faith insect boring tip office exist";

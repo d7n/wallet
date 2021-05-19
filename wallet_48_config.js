@@ -1,1 +1,1 @@
-var mnemonic = "slot caution dad strategy tower raven pepper easily mango human brick recycle";
+var mnemonic = "champion cloth jewel message census next average one sunset biology miss leaf";

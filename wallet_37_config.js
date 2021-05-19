@@ -1,1 +1,1 @@
-var mnemonic = "coast final tunnel ready quantum diamond link brief three fish smoke bitter";
+var mnemonic = "people moon reason foil deal join hand blouse tortoise steel muffin will";

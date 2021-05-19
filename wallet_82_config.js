@@ -1,1 +1,1 @@
-var mnemonic = "warm unit bless device average loan ready zone bottom build manual lion";
+var mnemonic = "scatter scare chimney output dinner parrot trim turtle expose ski purpose limit";

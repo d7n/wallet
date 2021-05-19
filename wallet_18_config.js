@@ -1,1 +1,1 @@
-var mnemonic = "tape summer fashion door fat merge viable trend reject into treat damage";
+var mnemonic = "smoke subject skill vague noise boat journey lamp daring blind sword useful";

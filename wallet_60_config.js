@@ -1,1 +1,1 @@
-var mnemonic = "run desert lawsuit unlock brief matrix junk together chaos wealth cart combine";
+var mnemonic = "tree cabin luggage multiply occur pretty lock web cannon job grit refuse";

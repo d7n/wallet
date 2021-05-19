@@ -1,1 +1,1 @@
-var mnemonic = "detail grace diet rival alarm derive air oyster popular install wolf toe";
+var mnemonic = "toward gravity camera dinosaur control edge bottom describe bleak smart ancient head";

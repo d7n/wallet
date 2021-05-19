@@ -1,1 +1,1 @@
-var mnemonic = "addict purse valve color hire autumn alert toward coach length biology winter";
+var mnemonic = "sell ridge bacon dove squeeze now weapon lumber design asset duck barrel";

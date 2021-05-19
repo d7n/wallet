@@ -1,1 +1,1 @@
-var mnemonic = "music adapt copper enemy dove tiger effort orient float quick gospel absorb";
+var mnemonic = "glad absorb giraffe satoshi search crop inch absorb elevator tortoise panda valid";

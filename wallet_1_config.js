@@ -1,1 +1,1 @@
-var mnemonic = "divorce shrimp hotel agent shield track ostrich trophy famous title route awake";
+var mnemonic = "casual brass gospel boat system before clever peace burden solution oppose dirt";

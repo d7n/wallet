@@ -1,1 +1,1 @@
-var mnemonic = "girl choice direct south hint potato hazard blouse horror asthma verb matrix";
+var mnemonic = "coral wing spawn other recall inch senior erode unlock giant become bunker";

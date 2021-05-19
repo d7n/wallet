@@ -1,1 +1,1 @@
-var mnemonic = "sniff rebuild dove source plug pride because field video welcome clown latin";
+var mnemonic = "vivid kiwi upgrade flip silk idle void unhappy game grief reward toilet";

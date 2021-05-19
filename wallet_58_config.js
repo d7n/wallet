@@ -1,1 +1,1 @@
-var mnemonic = "odor choice bullet raw gadget error party menu meat fatal object foster";
+var mnemonic = "bar hill push mansion tourist cheese faith vacant wash gauge wish mom";

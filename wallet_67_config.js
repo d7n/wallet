@@ -1,1 +1,1 @@
-var mnemonic = "wheel tool then ordinary item soap remain change minute palm false lonely";
+var mnemonic = "ankle method credit victory bitter engage major lecture body fence space unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "lend seat call region flame crime improve gadget grunt address object swarm";
+var mnemonic = "team search ritual rather midnight steak check various course credit satisfy advance";

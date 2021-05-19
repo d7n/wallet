@@ -1,1 +1,1 @@
-var mnemonic = "idle rich april paddle dirt raven voice style merit exit below vacant";
+var mnemonic = "abstract order benefit figure design absurd clock deny dune prison talent member";

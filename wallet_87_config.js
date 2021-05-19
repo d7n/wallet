@@ -1,1 +1,1 @@
-var mnemonic = "fiction label arrange lazy autumn picture ship short tenant stuff check team";
+var mnemonic = "love high merit clay love keen core notice six measure network carpet";

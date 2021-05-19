@@ -1,1 +1,1 @@
-var mnemonic = "virtual weasel cook wrist abandon worry fiber host cave police exhaust ranch";
+var mnemonic = "swim layer film swim ghost cactus sniff steel clown obey must dune";

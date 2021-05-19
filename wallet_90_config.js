@@ -1,1 +1,1 @@
-var mnemonic = "weird maximum video armor pond acquire cabin room alter picnic unit tip";
+var mnemonic = "scissors media load evidence tool clinic must over news provide bonus master";

@@ -1,1 +1,1 @@
-var mnemonic = "glide boil project quiz fruit spider fun grain trust brick city coffee";
+var mnemonic = "path hidden vintage proof east unveil next merit paddle dune embody mechanic";

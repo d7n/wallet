@@ -1,1 +1,1 @@
-var mnemonic = "clutch seat economy category nerve joke rich acoustic refuse try analyst cloth";
+var mnemonic = "cereal mix cross harvest cloud fade puppy animal enable enemy melody panel";

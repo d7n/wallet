@@ -1,1 +1,1 @@
-var mnemonic = "essence sausage purity belt argue sun apology please insane seed size nasty";
+var mnemonic = "chef goose ribbon glance finger ignore genuine raccoon maze erode labor small";

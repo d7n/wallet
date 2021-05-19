@@ -1,1 +1,1 @@
-var mnemonic = "boy vital early comfort rice remind already impulse between kick pony found";
+var mnemonic = "screen price language luxury citizen spell merry crane demand regret fetch bench";

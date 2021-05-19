@@ -1,1 +1,1 @@
-var mnemonic = "spin duck broken ignore topple fire inmate disorder valley impact today chalk";
+var mnemonic = "finger verb tonight always fall pact usual skirt circle better child proud";

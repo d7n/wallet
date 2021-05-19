@@ -1,1 +1,1 @@
-var mnemonic = "include eyebrow treat like deny poet mean group yellow mango shiver artefact";
+var mnemonic = "clown item asset dream now blast dizzy repair help regret way exit";

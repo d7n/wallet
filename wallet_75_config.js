@@ -1,1 +1,1 @@
-var mnemonic = "father virtual pulse result icon vital subject violin hidden derive tumble gentle";
+var mnemonic = "desk snap ball glad two robot dice acoustic beef champion spray valley";

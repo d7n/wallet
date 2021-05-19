@@ -1,1 +1,1 @@
-var mnemonic = "ignore tuition engine hard carpet whip poverty people order unit obvious lumber";
+var mnemonic = "drastic brown gospel offer must paper unlock wheat polar enjoy dad huge";

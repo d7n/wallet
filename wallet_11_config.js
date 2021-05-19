@@ -1,1 +1,1 @@
-var mnemonic = "turkey beach ahead guide web love build dinosaur warm nice wise brass";
+var mnemonic = "inflict pilot gun any sure run rent inject hurt sign squirrel song";

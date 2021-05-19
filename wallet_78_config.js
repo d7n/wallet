@@ -1,1 +1,1 @@
-var mnemonic = "banner noble problem angle enough arrive flag lesson violin recipe used siege";
+var mnemonic = "cry clock law amazing canoe reform goose crisp hundred permit federal typical";

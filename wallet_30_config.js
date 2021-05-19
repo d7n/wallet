@@ -1,1 +1,1 @@
-var mnemonic = "burger found stage denial stereo phone possible mystery suspect please waste draw";
+var mnemonic = "veteran obscure kitchen guilt table gauge deputy day canal trend alter minute";

@@ -1,1 +1,1 @@
-var mnemonic = "settle mimic depend insect swamp relax latin capital boss ask flame oyster";
+var mnemonic = "cover evidence bridge vapor hub capable snow faith almost cube fever spread";

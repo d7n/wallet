@@ -1,1 +1,1 @@
-var mnemonic = "level awesome pet reopen arch weather actual naive special journey mirror bring";
+var mnemonic = "orange flower mad history flame tennis surround robust type banner achieve symbol";

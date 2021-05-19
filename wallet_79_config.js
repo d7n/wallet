@@ -1,1 +1,1 @@
-var mnemonic = "betray tide hobby copper bike decide other swap tone civil wage medal";
+var mnemonic = "region ability entire toss book inquiry myself leave cousin soon youth hip";

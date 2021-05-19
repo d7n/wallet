@@ -1,1 +1,1 @@
-var mnemonic = "oxygen indoor number clutch rookie appear space fringe route lift peasant talk";
+var mnemonic = "wrong major resist achieve galaxy traffic pepper rescue dumb pretty fossil virus";

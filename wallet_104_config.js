@@ -1,1 +1,1 @@
-var mnemonic = "twin quit exact base tower rose forward behave gloom virus lounge crumble";
+var mnemonic = "mom river acquire alone valid always funny comfort armor shaft glove excite";

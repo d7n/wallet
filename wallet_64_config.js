@@ -1,1 +1,1 @@
-var mnemonic = "left festival ocean inside health trust drop circle illegal dune grocery abstract";
+var mnemonic = "coil winner pipe divorce rabbit angry arctic sight zebra legend nature swallow";

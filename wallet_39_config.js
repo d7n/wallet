@@ -1,1 +1,1 @@
-var mnemonic = "marble media forget occur size kiwi car shock grief jelly account across";
+var mnemonic = "chronic portion endless party staff consider furnace agree rally spoon option meat";

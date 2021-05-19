@@ -1,1 +1,1 @@
-var mnemonic = "canvas stomach source violin hedgehog drift wear swim amused pony tide clip";
+var mnemonic = "wire airport episode select enable panic toast average opera promote decade music";

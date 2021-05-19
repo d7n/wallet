@@ -1,1 +1,1 @@
-var mnemonic = "catalog remember wrist always mixture alley defy dune wheel magnet paper loyal";
+var mnemonic = "then sound useful regular market use crystal arch ancient salute pioneer uncover";

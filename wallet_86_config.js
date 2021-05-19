@@ -1,1 +1,1 @@
-var mnemonic = "length scheme ignore obtain hour rebel jaguar miracle dignity artwork rate flash";
+var mnemonic = "rebel assault bullet theme tongue run floor occur firm proud skill cannon";

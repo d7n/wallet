@@ -1,1 +1,1 @@
-var mnemonic = "feature tragic nation ecology mother trial lyrics wood smooth heart document behave";
+var mnemonic = "oval patient canoe time clog keen taxi weekend movie tray share blush";

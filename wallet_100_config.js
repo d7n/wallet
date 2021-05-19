@@ -1,1 +1,1 @@
-var mnemonic = "dwarf west build purse tooth fall drum exclude staff coast glove glue";
+var mnemonic = "pluck balcony media drama nut panda sea devote order sadness spare expire";

@@ -1,1 +1,1 @@
-var mnemonic = "airport rookie tennis express smile cheese erase motion giant depart physical box";
+var mnemonic = "bless must delay soap cute hurdle vivid loop rack maid output dress";

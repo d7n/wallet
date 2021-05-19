@@ -1,1 +1,1 @@
-var mnemonic = "portion chest west purchase hammer draw ill enforce place harbor spray junior";
+var mnemonic = "volume lesson chapter apple whisper test around slot resemble follow culture puppy";

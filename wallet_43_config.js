@@ -1,1 +1,1 @@
-var mnemonic = "mean drip coil since mad infant spawn ripple hat today inch kidney";
+var mnemonic = "city wheel youth brush country real race dentist tail flavor glare diet";

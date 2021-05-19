@@ -1,1 +1,1 @@
-var mnemonic = "aspect party sausage laptop popular castle pupil skill mouse leader more multiply";
+var mnemonic = "mask song view laundry maximum tribe aim cram curve chief tell kitten";

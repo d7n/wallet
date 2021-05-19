@@ -1,1 +1,1 @@
-var mnemonic = "warfare program sound ostrich fresh embrace alarm update asthma spring benefit grace";
+var mnemonic = "upon hire rapid song balance master fit believe knee charge unfold reveal";

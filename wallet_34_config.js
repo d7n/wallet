@@ -1,1 +1,1 @@
-var mnemonic = "blame angry lawsuit vivid maximum science oval roof mind merit credit faith";
+var mnemonic = "slam banner boy rifle flame flight phrase picnic predict index actual guard";

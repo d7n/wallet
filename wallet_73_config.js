@@ -1,1 +1,1 @@
-var mnemonic = "inflict cousin anger couple rose congress extra silver wise drama diary spatial";
+var mnemonic = "weather life screen body reject weasel duty interest wasp person happy orchard";

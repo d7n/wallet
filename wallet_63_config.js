@@ -1,1 +1,1 @@
-var mnemonic = "solution slide ocean work theory garage cabbage tribe junior rebel shed moral";
+var mnemonic = "affair elder cream twist all problem paper agree source series squirrel flash";

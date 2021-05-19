@@ -1,1 +1,1 @@
-var mnemonic = "tip spike pipe fringe until void alien silent draft song copy since";
+var mnemonic = "honey thing wet outside shiver soldier sentence salad alien favorite clog exotic";

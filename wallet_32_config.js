@@ -1,1 +1,1 @@
-var mnemonic = "walk gym virtual organ rotate ahead phone damage offer fitness symbol remind";
+var mnemonic = "unit ring mushroom ketchup prepare buffalo napkin cricket stuff very slight clip";

@@ -1,1 +1,1 @@
-var mnemonic = "mother valve buffalo pudding that cradle tonight talent diet october release valve";
+var mnemonic = "phrase cake situate meadow scorpion west enforce ankle visa render hurdle crowd";

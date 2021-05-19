@@ -1,1 +1,1 @@
-var mnemonic = "grab slush churn practice option super matter cart hero used deal predict";
+var mnemonic = "olive notice disease ozone doll poem cave own alarm aerobic gather harbor";

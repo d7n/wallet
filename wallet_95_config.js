@@ -1,1 +1,1 @@
-var mnemonic = "enemy jeans they march youth raven estate recycle kit split urban off";
+var mnemonic = "thumb miracle arm alpha refuse cradle celery action like earth taste effort";

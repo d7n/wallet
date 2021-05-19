@@ -1,1 +1,1 @@
-var mnemonic = "genuine silk matter online stay antenna toy visit field hockey reopen note";
+var mnemonic = "width carbon tenant sorry educate basic addict deputy clarify cinnamon charge quick";

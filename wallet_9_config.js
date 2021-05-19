@@ -1,1 +1,1 @@
-var mnemonic = "produce always cage artwork bar extra syrup license ahead broccoli rocket genre";
+var mnemonic = "cabin cradle slide glove caught strong leopard front violin capable garden author";

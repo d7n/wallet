@@ -1,1 +1,1 @@
-var mnemonic = "dolphin section cheap penalty smart device below choice trigger brave describe abandon";
+var mnemonic = "chase direct nose cliff program wool subway answer convince hammer mouse punch";

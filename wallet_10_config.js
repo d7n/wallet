@@ -1,1 +1,1 @@
-var mnemonic = "suggest cram proud distance muscle peace celery cabin omit same border elbow";
+var mnemonic = "neither trouble venue champion old brown diagram follow index burden engine myth";

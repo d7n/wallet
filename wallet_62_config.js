@@ -1,1 +1,1 @@
-var mnemonic = "hole suggest pelican dinner toward subway clean resource cluster stairs retreat intact";
+var mnemonic = "narrow case music system illegal tourist donate mean pipe flight real fashion";

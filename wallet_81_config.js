@@ -1,1 +1,1 @@
-var mnemonic = "humor duty dirt arrive sweet heavy poverty crime wage remove weapon crystal";
+var mnemonic = "dad impose payment mango slice dash govern hedgehog cigar inform traffic analyst";

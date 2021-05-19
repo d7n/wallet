@@ -1,1 +1,1 @@
-var mnemonic = "fortune price jazz radio drastic damp worry deliver tree inherit sock stumble";
+var mnemonic = "early dawn kind shy travel leaf audit myself wire orange apart gentle";

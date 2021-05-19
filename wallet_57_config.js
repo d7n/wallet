@@ -1,1 +1,1 @@
-var mnemonic = "stand endorse seminar barrel inmate valid wet response banana enjoy kid visit";
+var mnemonic = "super point broccoli box end moral catalog awkward throw bonus finish agree";

@@ -1,1 +1,1 @@
-var mnemonic = "popular canvas benefit husband stomach brush miracle lounge artwork prison divorce pause";
+var mnemonic = "tribe hold fortune mountain garlic spawn flush rigid second super tip ball";

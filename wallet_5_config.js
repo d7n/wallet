@@ -1,1 +1,1 @@
-var mnemonic = "flock fold vacant confirm taste leg crush wide brief dust use field";
+var mnemonic = "misery enough team magic sleep judge vicious video pistol margin life wrong";
