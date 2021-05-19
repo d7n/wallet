@@ -1,1 +1,1 @@
-var mnemonic = "want plastic moral polar able urban error govern fiber humble must solution";
+var mnemonic = "invest wise destroy gold donor barely tree neck spread trigger rhythm mirror";

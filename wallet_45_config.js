@@ -1,1 +1,1 @@
-var mnemonic = "museum feature scorpion pig refuse time such heart text fun devote draft";
+var mnemonic = "balcony also anchor desk image century small limit proof stairs arrest kid";

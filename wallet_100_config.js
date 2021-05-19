@@ -1,1 +1,1 @@
-var mnemonic = "borrow merry ball million exercise crush example zebra gentle crush home cancel";
+var mnemonic = "regular march air exchange olympic cousin glue tape become cheese shoot shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "essay end idea illegal wisdom sand student elite bicycle outside conduct public";
+var mnemonic = "label cause report fire remind link birth cattle travel ice confirm claim";

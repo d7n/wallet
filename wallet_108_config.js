@@ -1,1 +1,1 @@
-var mnemonic = "peasant admit urge beyond coffee faith manual mad about travel symptom shiver";
+var mnemonic = "social reopen slot artefact excuse beyond file media vintage cluster waste crush";

@@ -1,1 +1,1 @@
-var mnemonic = "slab pitch pulp sweet approve security novel zebra double miracle differ assault";
+var mnemonic = "edge slice month aim spike math cost buddy attack polar kitten answer";

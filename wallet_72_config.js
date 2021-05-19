@@ -1,1 +1,1 @@
-var mnemonic = "reform fall insect outside math trust power office junk island hole seek";
+var mnemonic = "injury glove ask boss quote elegant capable ability angle walnut viable pattern";

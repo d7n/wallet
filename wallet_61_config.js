@@ -1,1 +1,1 @@
-var mnemonic = "hazard arrange fun caught flat wheat sting pupil purse lens bone dream";
+var mnemonic = "become need genre swing radar pool digital call they similar bracket rhythm";

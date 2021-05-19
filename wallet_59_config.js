@@ -1,1 +1,1 @@
-var mnemonic = "frown toe monitor loud rookie trial angle spot flower maze major loan";
+var mnemonic = "canal civil senior grid quiz neither coach casual omit defense aspect label";

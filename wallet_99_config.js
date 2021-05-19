@@ -1,1 +1,1 @@
-var mnemonic = "possible tilt arm cluster quick arm leaf just glance flip disagree actress";
+var mnemonic = "thrive stock humor design host bacon audit rotate vehicle flush prevent toilet";

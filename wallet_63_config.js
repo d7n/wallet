@@ -1,1 +1,1 @@
-var mnemonic = "inform asthma history public disease zone broom panther bracket lawsuit exist swallow";
+var mnemonic = "blush explain river material afford note seat together near marine wire other";

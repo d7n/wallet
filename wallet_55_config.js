@@ -1,1 +1,1 @@
-var mnemonic = "analyst silk strike snake file crew keep sea fiscal dust earn finger";
+var mnemonic = "hungry iron bubble large lemon trouble vanish lift place bridge tide chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "foster invite absorb admit ramp wild message huge dawn purse excite carpet";
+var mnemonic = "current code knock enlist veteran noise drift genre remove occur fee raccoon";

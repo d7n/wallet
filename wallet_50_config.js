@@ -1,1 +1,1 @@
-var mnemonic = "escape merge already hat riot seven peasant current sniff fatigue small garbage";
+var mnemonic = "pistol cost anchor file true kingdom mushroom husband universe replace cat leave";

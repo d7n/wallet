@@ -1,1 +1,1 @@
-var mnemonic = "pink meat enhance family father else reunion yellow olympic load crop laundry";
+var mnemonic = "muffin mystery praise champion eagle main submit mango maze actress leg crater";

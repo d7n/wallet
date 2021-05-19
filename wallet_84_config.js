@@ -1,1 +1,1 @@
-var mnemonic = "add dust front gown worth toast corn weapon dose valid require utility";
+var mnemonic = "love history point require fitness ethics this power foster ancient another palace";

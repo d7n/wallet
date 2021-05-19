@@ -1,1 +1,1 @@
-var mnemonic = "town fabric popular clever patrol grief dream genuine amused never pear visual";
+var mnemonic = "diet upon cattle close enter milk wave vanish punch toy scout luxury";

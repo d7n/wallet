@@ -1,1 +1,1 @@
-var mnemonic = "tobacco check speak moment sock doctor destroy chat display hold erupt knife";
+var mnemonic = "grow bone sketch night tissue fence solution random decrease cash record ketchup";

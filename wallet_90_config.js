@@ -1,1 +1,1 @@
-var mnemonic = "noble honey law hill average clean auction meadow shed cram teach spring";
+var mnemonic = "solve what brass latin like speak scissors cat trouble kingdom cream danger";

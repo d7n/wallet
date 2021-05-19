@@ -1,1 +1,1 @@
-var mnemonic = "nice wood boss canoe pigeon track monster audit exotic elite shaft evolve";
+var mnemonic = "rich fold sport despair this summer prefer runway mixture electric mutual thought";

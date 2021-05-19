@@ -1,1 +1,1 @@
-var mnemonic = "start achieve sausage cannon pudding reward sort blue yellow hen vendor chuckle";
+var mnemonic = "maid brand dose inherit idea muscle rib bone maple myth debris tobacco";

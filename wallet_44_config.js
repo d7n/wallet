@@ -1,1 +1,1 @@
-var mnemonic = "ignore pattern window glove zoo depth cement country gate erode tomorrow ask";
+var mnemonic = "notice opinion coin cinnamon broom phrase prevent already peasant sense verify art";

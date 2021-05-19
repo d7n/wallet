@@ -1,1 +1,1 @@
-var mnemonic = "distance grace because junior digital update broom force ensure calm visa frame";
+var mnemonic = "save aim film short solid walnut pumpkin funny issue reunion exhaust tunnel";

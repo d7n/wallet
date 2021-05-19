@@ -1,1 +1,1 @@
-var mnemonic = "poem must palace observe fan wasp dice chest slight pretty fresh miss";
+var mnemonic = "peace debris silk win trade idea alert emotion busy area unhappy phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "snake layer boy arrest exit region purse spike wild orchard kick fortune";
+var mnemonic = "dumb tenant improve erode water daughter bus income east choice course total";

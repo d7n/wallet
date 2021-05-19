@@ -1,1 +1,1 @@
-var mnemonic = "fruit gown denial height actress better language insane upgrade health quit patch";
+var mnemonic = "couple place ankle stay dwarf clean juice sense muffin machine apology frozen";

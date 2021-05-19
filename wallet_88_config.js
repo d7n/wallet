@@ -1,1 +1,1 @@
-var mnemonic = "smooth connect stadium critic glance smoke immense exact fluid canoe toilet stone";
+var mnemonic = "innocent enjoy carpet resemble camp door kingdom unveil decline scrub noodle river";

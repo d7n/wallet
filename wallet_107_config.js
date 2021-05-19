@@ -1,1 +1,1 @@
-var mnemonic = "crack pig cloud infant wrap mandate green gospel alien swing dice erupt";
+var mnemonic = "bright regret deal derive ball thank spirit culture blind chest autumn neither";

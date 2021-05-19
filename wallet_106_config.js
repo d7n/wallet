@@ -1,1 +1,1 @@
-var mnemonic = "twist empower nose oval nut fog private mask ribbon motor worth couch";
+var mnemonic = "depart rural fruit raven search giraffe rich diagram blue riot front degree";

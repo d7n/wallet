@@ -1,1 +1,1 @@
-var mnemonic = "stereo pool bulk world unknown tilt dress dance cheese panda crumble decade";
+var mnemonic = "gas sure ripple syrup width check poet news weird mimic miss awake";

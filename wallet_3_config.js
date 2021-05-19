@@ -1,1 +1,1 @@
-var mnemonic = "wave bachelor permit train jealous exhaust ski word earth deliver twice buddy";
+var mnemonic = "fold tongue canal aisle cloud trap lion tribe junior waste unknown fit";

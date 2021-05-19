@@ -1,1 +1,1 @@
-var mnemonic = "aspect wrist route apart leg hole art puzzle decide feel social print";
+var mnemonic = "about fashion scrub stone glance pipe rack limb cabbage valid sibling moment";

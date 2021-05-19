@@ -1,1 +1,1 @@
-var mnemonic = "borrow hybrid soda bullet hobby admit wife galaxy critic minimum close tuna";
+var mnemonic = "club hill fire elephant response plate dinosaur century brain mercy minute type";

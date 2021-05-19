@@ -1,1 +1,1 @@
-var mnemonic = "exhibit image monitor shield van document sauce mention sight modify shop lobster";
+var mnemonic = "pulp afraid just nation door just super unknown museum bean pelican yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "loan check captain resource reform jacket little drip frog cool wagon apart";
+var mnemonic = "job chaos gym absurd resemble follow defy ranch country warrior involve faint";

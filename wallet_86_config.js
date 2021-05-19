@@ -1,1 +1,1 @@
-var mnemonic = "planet trial pilot fence walk antique section another energy fetch enough wait";
+var mnemonic = "leader health that path cactus blossom bike lemon candy catch mansion kitchen";

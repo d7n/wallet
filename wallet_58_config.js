@@ -1,1 +1,1 @@
-var mnemonic = "huge chair drama use front thunder auction world bicycle radar just retreat";
+var mnemonic = "call afraid seminar model inject awesome banana vocal steel return saddle feature";

@@ -1,1 +1,1 @@
-var mnemonic = "casual bachelor prosper knock salmon sorry reveal athlete elder oblige pond sibling";
+var mnemonic = "van light wide wonder mushroom there fiscal syrup final skate demise transfer";

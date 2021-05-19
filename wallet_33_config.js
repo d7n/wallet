@@ -1,1 +1,1 @@
-var mnemonic = "raccoon segment mercy echo bread cupboard spider want trip people domain change";
+var mnemonic = "cruise attitude pistol make piece prize hat uncover gauge mandate toilet beyond";

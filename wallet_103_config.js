@@ -1,1 +1,1 @@
-var mnemonic = "various exotic orient swarm athlete fee destroy slim ranch position clown method";
+var mnemonic = "room method debate invite stem delay gap modify erase flag pipe motor";

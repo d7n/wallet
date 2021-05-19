@@ -1,1 +1,1 @@
-var mnemonic = "oblige almost fun minor license steak lion certain point cost prosper tooth";
+var mnemonic = "forum second sleep gloom genius acquire wet shell brush enjoy rude street";

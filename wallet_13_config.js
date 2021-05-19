@@ -1,1 +1,1 @@
-var mnemonic = "divorce trip absorb wonder child taste salon vicious abstract demand profit logic";
+var mnemonic = "join flush bachelor ice retire spike step advance high copper author bring";

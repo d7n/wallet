@@ -1,1 +1,1 @@
-var mnemonic = "valid sail myself struggle bring dance treat mind fruit transfer execute grace";
+var mnemonic = "album network canoe add rack scheme second toss garbage machine stamp stage";

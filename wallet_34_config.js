@@ -1,1 +1,1 @@
-var mnemonic = "legal stumble economy lyrics brother menu work vibrant proud clean angle glow";
+var mnemonic = "domain random laptop oppose wonder noodle document opera labor assault mammal woman";

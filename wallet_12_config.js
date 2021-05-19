@@ -1,1 +1,1 @@
-var mnemonic = "pyramid lemon toss upset shrug actress alcohol force ivory guard try state";
+var mnemonic = "govern decrease script canyon egg jealous train whisper flat trigger doll gate";

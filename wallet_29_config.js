@@ -1,1 +1,1 @@
-var mnemonic = "submit slice base theme measure merry soldier pink chair visit eyebrow worth";
+var mnemonic = "model jaguar dice session floor absorb lawn remember survey key guilt rich";

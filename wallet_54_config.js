@@ -1,1 +1,1 @@
-var mnemonic = "dumb comic craft mad alone arrange live neither voyage nation canal ribbon";
+var mnemonic = "crazy long arctic custom case river flush enter goat solar cement fitness";

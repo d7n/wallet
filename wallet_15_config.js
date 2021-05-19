@@ -1,1 +1,1 @@
-var mnemonic = "quit wide marine inner gun keen manage inform blur elevator garment damage";
+var mnemonic = "measure private fabric jealous useful drum cliff physical steel divert zoo pen";

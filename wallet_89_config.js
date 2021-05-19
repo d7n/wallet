@@ -1,1 +1,1 @@
-var mnemonic = "kite pencil blanket parade gain rebuild remember cigar stool require situate fancy";
+var mnemonic = "glance short base bonus luxury knife flip pear swallow fever network learn";

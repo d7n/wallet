@@ -1,1 +1,1 @@
-var mnemonic = "garden size elite mom uphold neutral skate power crop snack huge hazard";
+var mnemonic = "update edit tower churn city inner inflict elevator minimum pull need where";

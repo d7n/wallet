@@ -1,1 +1,1 @@
-var mnemonic = "learn front general girl age torch scare record asthma behind wrestle permit";
+var mnemonic = "loop photo answer conduct tribe motor heart special recall kid lesson maple";

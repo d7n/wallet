@@ -1,1 +1,1 @@
-var mnemonic = "modify runway elder book hard gentle liberty morning skull project lend disease";
+var mnemonic = "dragon guide ripple addict human charge fence rocket noise coast baby clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "rally quality pattern top mind brass consider define phone catch sell meat";
+var mnemonic = "ignore sauce zebra museum thought term antenna blast virus yard harsh shield";

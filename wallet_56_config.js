@@ -1,1 +1,1 @@
-var mnemonic = "garage snack snow era various palm rotate belt boy review furnace target";
+var mnemonic = "feature crisp problem genius fragile must thrive uniform announce merry group kiwi";

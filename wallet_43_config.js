@@ -1,1 +1,1 @@
-var mnemonic = "gauge cover salmon tunnel grain twist thing cram ranch kitchen attract element";
+var mnemonic = "enrich square toward scheme earn smooth suggest avocado negative misery wonder deliver";

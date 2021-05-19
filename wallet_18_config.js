@@ -1,1 +1,1 @@
-var mnemonic = "jungle verify nothing treat mom chalk blade volume rare myth fat walk";
+var mnemonic = "ceiling change warm planet reveal bone switch matrix book tube broom govern";

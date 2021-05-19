@@ -1,1 +1,1 @@
-var mnemonic = "sail whale promote silent song arrest snake during midnight host october toddler";
+var mnemonic = "galaxy pattern suspect breeze noble usage report soccer buffalo spy material cart";

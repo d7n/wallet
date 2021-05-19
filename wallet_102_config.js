@@ -1,1 +1,1 @@
-var mnemonic = "marble author crunch design panic fancy crush remove boss tank fancy regular";
+var mnemonic = "blush torch quality episode during solid insect valley actress useful voyage fancy";

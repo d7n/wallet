@@ -1,1 +1,1 @@
-var mnemonic = "trim grab cage mango modify skin scare involve polar memory basic bulb";
+var mnemonic = "talk ancient fluid axis miracle museum primary life tribe roof fruit fashion";

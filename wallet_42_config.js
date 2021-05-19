@@ -1,1 +1,1 @@
-var mnemonic = "enforce faculty praise accident army floor regret indicate author key tumble oven";
+var mnemonic = "interest snake minute crater net finger flat wagon deer winter until sun";

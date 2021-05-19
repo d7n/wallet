@@ -1,1 +1,1 @@
-var mnemonic = "toast tree novel coin cabin case leg fly market delay yard phone";
+var mnemonic = "antique chimney olympic balance hidden tower side rice spring grief under corn";

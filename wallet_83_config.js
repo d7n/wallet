@@ -1,1 +1,1 @@
-var mnemonic = "satoshi guilt sure void age absent holiday stable reform hole cement boy";
+var mnemonic = "work turkey meadow life scrap bamboo focus crucial bachelor canoe tail lawsuit";

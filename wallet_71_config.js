@@ -1,1 +1,1 @@
-var mnemonic = "student ability craft tiny leisure forum bottom nothing churn runway hair into";
+var mnemonic = "dwarf adapt school insane pet cute quick emotion monitor section pipe advance";

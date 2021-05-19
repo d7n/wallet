@@ -1,1 +1,1 @@
-var mnemonic = "eternal credit lonely unfold jazz welcome sport name identify stereo drum ship";
+var mnemonic = "drift frog entry gain derive wire federal brush profit doctor flame enroll";

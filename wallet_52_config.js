@@ -1,1 +1,1 @@
-var mnemonic = "draw lift idea cup feature pistol pitch repair auto drop impulse march";
+var mnemonic = "pet venue shift eye apology boil someone coconut rural like impose sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry deal surround habit hover wheel number immense jacket gain pave scrub";
+var mnemonic = "supply equip diet hidden lecture cute rich helmet donkey clump giraffe expire";

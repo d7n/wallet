@@ -1,1 +1,1 @@
-var mnemonic = "moral nose surprise letter surprise decline century company opinion shallow fabric maximum";
+var mnemonic = "romance label kid drop hope number route garage mirror banana raise wreck";

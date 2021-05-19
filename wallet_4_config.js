@@ -1,1 +1,1 @@
-var mnemonic = "chunk acquire sail ride bubble scout gate asset own quick abandon digital";
+var mnemonic = "hat twice prefer bless inhale team trash loan enroll goddess judge object";

@@ -1,1 +1,1 @@
-var mnemonic = "check rug swift oppose more pond taste toast monitor olive move yard";
+var mnemonic = "narrow boat flush jaguar topic disagree please install seven first world join";

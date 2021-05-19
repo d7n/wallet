@@ -1,1 +1,1 @@
-var mnemonic = "gap trust front episode trust arm then olive frost spare crime riot";
+var mnemonic = "warm eagle rain eyebrow speed forum pig stamp street road kind use";

@@ -1,1 +1,1 @@
-var mnemonic = "raise lamp ensure jungle vacuum marine spike super slam amused course flight";
+var mnemonic = "jeans escape coil stay goose rare scatter soup long stick light remind";

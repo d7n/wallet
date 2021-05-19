@@ -1,1 +1,1 @@
-var mnemonic = "outer invest exhibit public mom egg language cannon humble inquiry impose student";
+var mnemonic = "rely mutual wait again person exist keep coffee donor sorry ecology easy";

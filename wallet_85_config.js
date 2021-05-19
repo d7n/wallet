@@ -1,1 +1,1 @@
-var mnemonic = "clerk abuse shop because february artefact gas hen carry fly upper onion";
+var mnemonic = "trial excite need lobster shadow vacant drift tattoo romance rug secret year";

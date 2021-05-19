@@ -1,1 +1,1 @@
-var mnemonic = "month amount soda ship dust spatial armed bench congress heavy visual model";
+var mnemonic = "priority exit spoil twice guide fuel category kite trap fine crush face";

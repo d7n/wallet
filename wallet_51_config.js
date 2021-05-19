@@ -1,1 +1,1 @@
-var mnemonic = "expand addict remain catch antenna load potato film eager predict convince fence";
+var mnemonic = "become bounce toast pact abandon number mutual cereal dry cave library tuna";

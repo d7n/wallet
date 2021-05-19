@@ -1,1 +1,1 @@
-var mnemonic = "behave mouse item sadness urban combine offer shell feature public garage finger";
+var mnemonic = "scheme enough remain rotate south invest lab pyramid custom stomach combine swim";

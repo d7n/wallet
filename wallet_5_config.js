@@ -1,1 +1,1 @@
-var mnemonic = "robot river asthma heavy canvas position person trouble equip add cupboard wrestle";
+var mnemonic = "near place gospel marriage abuse path forest success mercy artist gadget saddle";

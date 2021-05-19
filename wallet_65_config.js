@@ -1,1 +1,1 @@
-var mnemonic = "build peace dove train segment arrive combine jaguar orange gauge annual empower";
+var mnemonic = "hurdle bounce merit avoid kangaroo behave soldier width silver issue soap water";

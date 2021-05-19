@@ -1,1 +1,1 @@
-var mnemonic = "bomb confirm year measure review amazing page arm scale glass wild flock";
+var mnemonic = "equal year coin retire desk select search define team vote real alter";

@@ -1,1 +1,1 @@
-var mnemonic = "marble spatial unfair fossil leaf runway mushroom enforce increase rent document smile";
+var mnemonic = "stumble danger river denial rare gaze famous reward detail floor quote denial";

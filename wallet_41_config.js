@@ -1,1 +1,1 @@
-var mnemonic = "often limb armor web abandon rack step midnight gun gift badge question";
+var mnemonic = "learn injury fossil lunch view couch pistol neck patient soda envelope cheese";

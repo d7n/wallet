@@ -1,1 +1,1 @@
-var mnemonic = "knock organ minimum select mask hood orphan join soul model boost tissue";
+var mnemonic = "guide unfold view kit group flight claw mass champion junk write hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve version cotton wedding only patient remain device base gentle bonus grief";
+var mnemonic = "tray limb pact mouse oil rotate whip solid method pigeon interest still";

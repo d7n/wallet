@@ -1,1 +1,1 @@
-var mnemonic = "youth brain negative abandon hard rookie bachelor gain panic panda actor scene";
+var mnemonic = "smile stand hen post snake capable witness insect improve blind turkey since";

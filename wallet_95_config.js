@@ -1,1 +1,1 @@
-var mnemonic = "cactus decrease squeeze tobacco final distance speak forget budget empty marine sting";
+var mnemonic = "trend craft cupboard source script leave turtle peasant hole stairs hidden erase";

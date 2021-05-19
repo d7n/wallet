@@ -1,1 +1,1 @@
-var mnemonic = "master napkin uncover cargo coin dad song diet palm protect science network";
+var mnemonic = "author stay jaguar legend panda bright drum pigeon trend tower focus drive";

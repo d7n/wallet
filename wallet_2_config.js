@@ -1,1 +1,1 @@
-var mnemonic = "almost fabric rally spend announce mix diesel gold skull differ false nasty";
+var mnemonic = "diesel author armor slide attack treat series defy boost trash broom flash";

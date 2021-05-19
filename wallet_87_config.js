@@ -1,1 +1,1 @@
-var mnemonic = "vast income major resist jungle viable nasty kiss decrease tip pact clay";
+var mnemonic = "ball shell carry speed advance frozen witness gadget achieve push garbage ship";

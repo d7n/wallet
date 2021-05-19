@@ -1,1 +1,1 @@
-var mnemonic = "later comic useful someone practice stay horror arrive keen sense yard pledge";
+var mnemonic = "walk album cool alarm supply jar cinnamon carpet palace bid column clean";

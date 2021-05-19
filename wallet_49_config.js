@@ -1,1 +1,1 @@
-var mnemonic = "acquire dune impose evolve shove sad wild alone sword wide rice hen";
+var mnemonic = "ranch produce chef welcome monitor address shove chair shaft crush kiss neither";

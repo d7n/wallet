@@ -1,1 +1,1 @@
-var mnemonic = "eight cruel color topic potato escape immune kitchen virtual barely sister update";
+var mnemonic = "left blast razor entire six frown purpose laptop bulb evidence list draw";

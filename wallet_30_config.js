@@ -1,1 +1,1 @@
-var mnemonic = "crop subject lend token cute obvious police air return cube march office";
+var mnemonic = "mention woman dizzy catch gain bicycle dust rate shield short divide bachelor";
