@@ -1,1 +1,1 @@
-var mnemonic = "trouble armed degree surround fit choose discover cradle glass wasp arm ready";
+var mnemonic = "uncover elite mom chuckle idle pipe reform broken sad job pyramid code";

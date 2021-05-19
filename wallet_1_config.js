@@ -1,1 +1,1 @@
-var mnemonic = "offer planet develop monster inspire pioneer immune swallow addict tank cotton machine";
+var mnemonic = "guard label infant company web spread word satisfy license motion twelve because";

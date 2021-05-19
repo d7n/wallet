@@ -1,1 +1,1 @@
-var mnemonic = "maple olive submit autumn mouse need wish height various melody write demise";
+var mnemonic = "idea remind remember dizzy fitness tell grape private work crunch orient yellow";

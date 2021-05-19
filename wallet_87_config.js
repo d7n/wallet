@@ -1,1 +1,1 @@
-var mnemonic = "sweet enter false winter begin desert recall joke curious odor repeat label";
+var mnemonic = "jelly oyster badge hood public solution hello first box flag rally still";

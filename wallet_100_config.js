@@ -1,1 +1,1 @@
-var mnemonic = "much demise average mom sea pride symbol swap disagree business swallow imitate";
+var mnemonic = "cake dad sound fever essence duty bundle muscle borrow top grain eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "duck ride myself wolf hamster top best door click erode visual symbol";
+var mnemonic = "whale quick velvet universe inquiry pencil inform wash blue despair demand toss";

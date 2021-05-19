@@ -1,1 +1,1 @@
-var mnemonic = "frown trend license solid joke medal jewel excess vintage yard mixed miracle";
+var mnemonic = "jealous favorite select horn truly river special kidney rather express banana brave";

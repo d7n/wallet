@@ -1,1 +1,1 @@
-var mnemonic = "night valley scrap basket manual chapter range help century abandon law bar";
+var mnemonic = "net item subject elder option broccoli change assault skirt spoil fatigue ranch";

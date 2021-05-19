@@ -1,1 +1,1 @@
-var mnemonic = "lonely poverty marriage rally trend exact save fog bless sugar rebel ripple";
+var mnemonic = "draw street wide afraid attack picnic dance tray tribe car bring oval";

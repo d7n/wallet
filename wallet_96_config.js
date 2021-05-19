@@ -1,1 +1,1 @@
-var mnemonic = "cover figure curious mushroom switch dad mobile rug mobile hobby lawsuit fatigue";
+var mnemonic = "sister radio clinic oblige burger brand perfect palace kind maid illegal trophy";

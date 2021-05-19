@@ -1,1 +1,1 @@
-var mnemonic = "bracket crucial image rather defy talk any switch state title broom liberty";
+var mnemonic = "erode laundry giraffe final common ready income maid antique high few soon";

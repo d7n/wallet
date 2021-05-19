@@ -1,1 +1,1 @@
-var mnemonic = "dog walk ring nut country throw danger surprise fox view noodle author";
+var mnemonic = "shock knife arrive hip city army black crawl hire cloth suffer stomach";

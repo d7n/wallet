@@ -1,1 +1,1 @@
-var mnemonic = "magnet before fever ship movie enroll token hybrid dutch robot comic coral";
+var mnemonic = "miracle course embark ring jar virtual smart mean rather exist border bicycle";

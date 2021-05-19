@@ -1,1 +1,1 @@
-var mnemonic = "bridge pioneer bitter cricket law diamond victory indicate detect receive maze labor";
+var mnemonic = "another saddle push pear arrow staff tent dawn student silent record story";

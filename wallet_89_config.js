@@ -1,1 +1,1 @@
-var mnemonic = "evil install scorpion stick valve connect net alien decorate nurse cancel people";
+var mnemonic = "type village bench team impose insane dilemma tone option sponsor crawl switch";

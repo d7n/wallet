@@ -1,1 +1,1 @@
-var mnemonic = "police carbon grocery myself solar input dilemma exist hunt require soul tonight";
+var mnemonic = "zebra marble romance quote under grab under ability version unaware shift spare";

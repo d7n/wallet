@@ -1,1 +1,1 @@
-var mnemonic = "phone pioneer journey tail three bind tortoise trigger drop valley lucky east";
+var mnemonic = "cook witness pilot undo flash bring then window picture because omit film";

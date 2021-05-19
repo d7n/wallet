@@ -1,1 +1,1 @@
-var mnemonic = "auction lava glare ostrich furnace top polar scene family innocent hand glimpse";
+var mnemonic = "then surprise stairs human hood cave sudden vintage bridge awesome update west";

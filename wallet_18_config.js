@@ -1,1 +1,1 @@
-var mnemonic = "effort custom winter room donor inhale adapt sunset usage into coin total";
+var mnemonic = "song tube tomorrow damp clutch produce delay recycle meadow art half wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "gym resemble still cream they say eye near country suffer nephew burden";
+var mnemonic = "april wheel pumpkin corn liberty balcony noodle carpet waste fatigue mass talk";

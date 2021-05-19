@@ -1,1 +1,1 @@
-var mnemonic = "seek faculty salad youth grant bar ethics travel seat garment flat fetch";
+var mnemonic = "fatigue rib foam suffer claim gadget supply monitor trade melody dirt focus";

@@ -1,1 +1,1 @@
-var mnemonic = "soda immune gym moon random sustain call soap spike before beauty scrub";
+var mnemonic = "labor spot link chapter grab radar average coyote august return typical hero";

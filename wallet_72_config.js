@@ -1,1 +1,1 @@
-var mnemonic = "citizen amazing net edge explain lady endless way furnace always coin accuse";
+var mnemonic = "stereo duty smooth ankle vendor muffin obey height foil solve math buddy";

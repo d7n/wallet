@@ -1,1 +1,1 @@
-var mnemonic = "slender pipe journey harsh original artwork warrior congress reward result unable develop";
+var mnemonic = "hazard make human expand fat glove abuse category blade reform hungry grab";

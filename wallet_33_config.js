@@ -1,1 +1,1 @@
-var mnemonic = "sick unhappy oxygen remember code journey race thought myth shuffle balance mutual";
+var mnemonic = "smile glass travel erosion glide office flash seat fun fork tape sail";

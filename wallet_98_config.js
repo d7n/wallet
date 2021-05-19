@@ -1,1 +1,1 @@
-var mnemonic = "crew love submit erase puppy answer infant govern oven stock spawn cart";
+var mnemonic = "whale hungry prize proof hub tourist mystery obvious diet nut potato betray";

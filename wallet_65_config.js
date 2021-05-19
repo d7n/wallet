@@ -1,1 +1,1 @@
-var mnemonic = "youth denial execute gravity zero rifle palace prison antenna knife someone thank";
+var mnemonic = "soup release spy kitten doctor forum gift click letter have citizen dune";

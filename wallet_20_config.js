@@ -1,1 +1,1 @@
-var mnemonic = "feel congress glare reflect slender shiver biology found aim please document script";
+var mnemonic = "omit supply name park youth organ trial project lava swallow print father";

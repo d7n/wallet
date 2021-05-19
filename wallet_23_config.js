@@ -1,1 +1,1 @@
-var mnemonic = "evoke forest march amateur account spice rural autumn dose endorse slot skull";
+var mnemonic = "broccoli silent danger melody pool cheese where turtle soda sting laptop crew";

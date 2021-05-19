@@ -1,1 +1,1 @@
-var mnemonic = "example cliff outside antique occur room holiday region blur any together asthma";
+var mnemonic = "ecology illness stand canoe old fruit follow deal other breeze endorse rain";

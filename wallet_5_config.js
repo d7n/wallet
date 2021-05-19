@@ -1,1 +1,1 @@
-var mnemonic = "border world method tree tenant sustain science disorder marble resemble piano issue";
+var mnemonic = "gloom raven proof light acquire narrow arch practice husband thing fence muffin";

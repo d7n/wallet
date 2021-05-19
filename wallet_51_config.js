@@ -1,1 +1,1 @@
-var mnemonic = "control draft own stem history fetch library churn author cable spatial exit";
+var mnemonic = "menu great orphan obvious miracle upgrade voyage aim tragic despair pilot staff";

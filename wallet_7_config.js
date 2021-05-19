@@ -1,1 +1,1 @@
-var mnemonic = "panther unlock tilt banana false jewel yellow large swing sign whisper shell";
+var mnemonic = "picnic uncle globe circle chest domain promote transfer wealth piece save cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy puzzle dwarf stuff truck lend kitchen afford impulse symbol kind link";
+var mnemonic = "inquiry age sadness best desk access priority table flavor hole calm slot";

@@ -1,1 +1,1 @@
-var mnemonic = "human drastic kick clutch kangaroo road scheme bullet lottery attitude film charge";
+var mnemonic = "manual expire hard gauge pulse still choose flush play math settle master";

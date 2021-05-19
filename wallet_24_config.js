@@ -1,1 +1,1 @@
-var mnemonic = "fabric vintage faculty urban rain ranch edit sunset throw provide devote brain";
+var mnemonic = "melt lab noise fine wait school kit roof tomorrow north piano rally";

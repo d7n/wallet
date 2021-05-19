@@ -1,1 +1,1 @@
-var mnemonic = "light dry dish planet dignity reopen surge slide near device pass club";
+var mnemonic = "quantum memory ghost abstract across group index early first party merge loyal";

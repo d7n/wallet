@@ -1,1 +1,1 @@
-var mnemonic = "garment own trust wrong brass negative person letter ghost wisdom aim head";
+var mnemonic = "emotion message recall agree curve manage long flash paddle doctor essay shy";

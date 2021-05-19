@@ -1,1 +1,1 @@
-var mnemonic = "twist fall idle enter blossom web depart armed ahead join wage feature";
+var mnemonic = "stuff bread distance boss lab long transfer win unaware riot fiction celery";

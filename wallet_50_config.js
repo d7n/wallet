@@ -1,1 +1,1 @@
-var mnemonic = "potato top thought patch half harsh assist resist raise core tent weasel";
+var mnemonic = "apology hard tone print train range bean blade rubber tomorrow proud volume";

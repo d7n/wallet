@@ -1,1 +1,1 @@
-var mnemonic = "relax wreck brave episode over second silk benefit visa sniff census endless";
+var mnemonic = "shoulder potato oxygen swift aware reward yard cluster thunder churn virtual have";

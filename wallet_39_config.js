@@ -1,1 +1,1 @@
-var mnemonic = "hint inherit mirror middle salute dust whisper pave motor calm parent grocery";
+var mnemonic = "nurse brother diary shiver select gallery chicken replace stock major scan milk";

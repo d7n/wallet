@@ -1,1 +1,1 @@
-var mnemonic = "spring harvest adult exile super lunar basket easy thumb motor hover apple";
+var mnemonic = "slender fatal annual oval metal melody window rib where quote mirror treat";

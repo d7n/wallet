@@ -1,1 +1,1 @@
-var mnemonic = "sense combine other problem fame trend annual group pill correct wood virus";
+var mnemonic = "flight name cute purpose please renew april fiber ski pudding attract cause";

@@ -1,1 +1,1 @@
-var mnemonic = "all snap dream right refuse large pair average toward project travel cream";
+var mnemonic = "exotic garbage drill unfair easy correct soda cycle crazy symptom soccer palm";

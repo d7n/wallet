@@ -1,1 +1,1 @@
-var mnemonic = "lock embody pen scale oxygen nurse erase income vapor tomorrow grief give";
+var mnemonic = "miss fee legend gloom stick photo quick rapid tent number boat coach";

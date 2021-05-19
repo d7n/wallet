@@ -1,1 +1,1 @@
-var mnemonic = "burden corn pole sell lucky benefit minute enrich glow double estate hungry";
+var mnemonic = "diesel cricket crime nest mango flag again suspect vendor follow frog taste";

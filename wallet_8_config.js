@@ -1,1 +1,1 @@
-var mnemonic = "odor inherit fun next embark apple purse adult diesel volume lawsuit render";
+var mnemonic = "blind aspect gravity kidney cabbage tank slush boss silk adult hundred area";

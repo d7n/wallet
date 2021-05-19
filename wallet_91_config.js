@@ -1,1 +1,1 @@
-var mnemonic = "thing swap rough jump bird come soda acquire morning outside topic clarify";
+var mnemonic = "giraffe narrow material change tornado east wild stable disorder uphold abandon left";

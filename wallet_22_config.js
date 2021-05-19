@@ -1,1 +1,1 @@
-var mnemonic = "width ostrich story emotion black artefact essence square empty example enter blade";
+var mnemonic = "doll crystal manage fade time innocent coach urban rather cycle fiction call";

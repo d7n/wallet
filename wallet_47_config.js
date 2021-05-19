@@ -1,1 +1,1 @@
-var mnemonic = "such hurry behind stumble artist original engine stadium skull poem pool quality";
+var mnemonic = "input absent situate two cross style forget issue news radar forward raise";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise chef trigger school churn salmon prosper dumb almost response monkey lava";
+var mnemonic = "fade entry review chalk chair liquid solution banner custom interest turkey alone";

@@ -1,1 +1,1 @@
-var mnemonic = "point magnet butter course scatter elevator flee double basic hub banner paper";
+var mnemonic = "elder diet insect cycle village round payment edge horse client decade blur";

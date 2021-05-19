@@ -1,1 +1,1 @@
-var mnemonic = "noise sound fabric agree warm also smooth roof much vote buffalo carry";
+var mnemonic = "ball hover similar that wish midnight modify vibrant text ocean amazing glue";

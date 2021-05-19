@@ -1,1 +1,1 @@
-var mnemonic = "link client cabbage family state impulse salt library stamp object trial dune";
+var mnemonic = "awful bomb appear estate multiply elder scene high tiger proof onion record";

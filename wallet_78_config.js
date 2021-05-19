@@ -1,1 +1,1 @@
-var mnemonic = "print over slogan blind tilt wild mule patch explain exclude suggest summer";
+var mnemonic = "cricket before gloom panel material labor material rural occur hover parent talent";

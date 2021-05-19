@@ -1,1 +1,1 @@
-var mnemonic = "room obscure under case butter husband scheme stable ecology topple gown inch";
+var mnemonic = "industry save finger caution turtle expand move supreme purse nominee frequent holiday";

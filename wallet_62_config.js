@@ -1,1 +1,1 @@
-var mnemonic = "orbit rookie auto myth suffer subject bike warrior border negative amazing stage";
+var mnemonic = "guitar target nose address edge ignore guard usual perfect corn around pioneer";

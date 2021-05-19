@@ -1,1 +1,1 @@
-var mnemonic = "guilt slender reform prosper sword easy comic range spin good glow horse";
+var mnemonic = "list left balance just wrist way essence portion area walk same struggle";

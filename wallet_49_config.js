@@ -1,1 +1,1 @@
-var mnemonic = "govern copy radar win fresh best lab misery family armed cannon impulse";
+var mnemonic = "tomorrow wasp estate cross sword seed someone beyond caught buzz indicate hero";

@@ -1,1 +1,1 @@
-var mnemonic = "risk liar defy toe inspire medal infant purity steak direct fly budget";
+var mnemonic = "mule kitchen clip model purse trip sweet course mouse ride dream resist";

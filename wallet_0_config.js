@@ -1,1 +1,1 @@
-var mnemonic = "two clump absent quit answer donkey want off goose duck comfort oppose";
+var mnemonic = "express gallery alter earth grid argue panther demise major group refuse favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "foot spy cannon mass during cat mad album room bonus core barrel";
+var mnemonic = "wild normal stand pumpkin acid short track tape common grit derive resemble";

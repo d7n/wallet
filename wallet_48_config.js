@@ -1,1 +1,1 @@
-var mnemonic = "butter deny attack vacant answer peanut fringe sponsor jump chunk broom banner";
+var mnemonic = "desk name orphan spring tube eyebrow alcohol collect summer awkward physical where";

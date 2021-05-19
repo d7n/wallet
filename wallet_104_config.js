@@ -1,1 +1,1 @@
-var mnemonic = "erase farm spatial dash left leave lake pig absent blind income fix";
+var mnemonic = "lawsuit erupt reduce nasty win strike into puzzle uphold capital provide another";

@@ -1,1 +1,1 @@
-var mnemonic = "knock clerk company mask robust number skill scrub party liar stereo manual";
+var mnemonic = "what wrong either crazy canoe earth runway priority sick unusual hood diary";

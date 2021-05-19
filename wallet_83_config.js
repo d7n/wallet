@@ -1,1 +1,1 @@
-var mnemonic = "enlist energy sponsor basket erode caught doctor gym casino sure profit onion";
+var mnemonic = "honey senior pigeon neck dinner magnet evoke fatal work forest tonight mobile";

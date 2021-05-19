@@ -1,1 +1,1 @@
-var mnemonic = "swear napkin hedgehog race film nerve shift across gap into loyal nation";
+var mnemonic = "layer point tiny catch kangaroo coconut great swear pill perfect romance cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk upset insect energy icon owner just curtain corn assume gloom addict";
+var mnemonic = "occur reward curtain notice earn obtain drop network robot account finger then";

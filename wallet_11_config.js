@@ -1,1 +1,1 @@
-var mnemonic = "wall oxygen scorpion squirrel family misery cabin local author dinosaur olive baby";
+var mnemonic = "method mind position evidence blur shy rabbit reform clever witness front age";

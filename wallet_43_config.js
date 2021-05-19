@@ -1,1 +1,1 @@
-var mnemonic = "various small speak inner vital penalty whisper suspect power enough mandate assume";
+var mnemonic = "awkward start long wise hint shed glass hamster broccoli cloth piano saddle";

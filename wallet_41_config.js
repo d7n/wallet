@@ -1,1 +1,1 @@
-var mnemonic = "program explain tail hard frequent metal sand device abandon main decline kit";
+var mnemonic = "wish table slight squeeze chaos tobacco point sad music struggle damage crawl";

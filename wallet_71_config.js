@@ -1,1 +1,1 @@
-var mnemonic = "region home thought green torch present dirt debate dash swamp wonder bargain";
+var mnemonic = "alley head cherry mandate abuse refuse sunny side carry ribbon parrot ramp";

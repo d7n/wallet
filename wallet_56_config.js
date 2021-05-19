@@ -1,1 +1,1 @@
-var mnemonic = "april pledge steel noodle crystal brief length sad mesh ball stereo nest";
+var mnemonic = "reward subject flag bus jelly raw trip donor limb crane seat slim";

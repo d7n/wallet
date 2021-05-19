@@ -1,1 +1,1 @@
-var mnemonic = "easily pelican swamp aim vote when sand pistol globe pitch clock double";
+var mnemonic = "prison then lens release palm galaxy review where nice describe inner tank";

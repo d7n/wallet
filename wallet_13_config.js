@@ -1,1 +1,1 @@
-var mnemonic = "cost catch flee glare husband settle follow camera then core topple typical";
+var mnemonic = "ethics surround enemy sword rookie shop clerk ceiling cancel jump code connect";

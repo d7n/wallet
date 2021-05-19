@@ -1,1 +1,1 @@
-var mnemonic = "reform plastic push transfer bicycle vibrant video boss nuclear panel assist lunar";
+var mnemonic = "cruel wise wreck defy spawn settle copper drift bounce poem ritual ugly";

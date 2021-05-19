@@ -1,1 +1,1 @@
-var mnemonic = "casino real alpha ability mail fury ridge inch snake employ release choice";
+var mnemonic = "slab wine negative alley stay virus lava bean harvest ethics venue wave";

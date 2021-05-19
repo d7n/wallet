@@ -1,1 +1,1 @@
-var mnemonic = "quality collect employ motor field inform panel ticket math achieve destroy verb";
+var mnemonic = "panda powder hockey hire smoke mad erupt gloom window moon indicate cloud";

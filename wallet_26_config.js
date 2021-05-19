@@ -1,1 +1,1 @@
-var mnemonic = "small student flee earth mass cost edge youth accuse rival dash play";
+var mnemonic = "differ little tag wage wink success left sure vibrant opinion sponsor notable";

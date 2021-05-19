@@ -1,1 +1,1 @@
-var mnemonic = "labor episode cute output diet empty object metal mechanic chuckle cash subject";
+var mnemonic = "apart submit visual entire stomach tail such seek scout click churn clean";

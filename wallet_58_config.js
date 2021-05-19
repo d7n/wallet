@@ -1,1 +1,1 @@
-var mnemonic = "coconut fetch fever also buyer bind roast acoustic already correct pipe onion";
+var mnemonic = "gas razor identify document glimpse recipe bicycle bullet spread egg sustain elegant";

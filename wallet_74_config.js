@@ -1,1 +1,1 @@
-var mnemonic = "door impact wreck soda sun gaze comic clutch horror color rural improve";
+var mnemonic = "portion draft journey input shrug isolate nest ribbon skull slush spread task";

@@ -1,1 +1,1 @@
-var mnemonic = "price core next cloud print rib depart affair faculty sail forget lesson";
+var mnemonic = "pear execute update toward grain depart film bar loop injury foot prefer";

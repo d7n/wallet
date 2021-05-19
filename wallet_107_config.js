@@ -1,1 +1,1 @@
-var mnemonic = "goose symptom property clown random gown inflict brick wealth draft report best";
+var mnemonic = "join skate better nut smoke swift cross neither grant ball glad reveal";

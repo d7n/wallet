@@ -1,1 +1,1 @@
-var mnemonic = "debate soap crew battle cannon crack cloth life mansion long wing kind";
+var mnemonic = "job fitness story junior fault panther feed deputy crisp worry inner require";

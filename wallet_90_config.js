@@ -1,1 +1,1 @@
-var mnemonic = "tonight suggest believe avoid prefer okay trumpet empty stage giggle logic void";
+var mnemonic = "next noodle volume baby material match puppy impulse unlock one lava coyote";

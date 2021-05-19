@@ -1,1 +1,1 @@
-var mnemonic = "enlist brain quarter loyal raven narrow toast pattern degree bargain party usage";
+var mnemonic = "drip miss ritual club horn young emotion item armed juice diesel upper";

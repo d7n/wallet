@@ -1,1 +1,1 @@
-var mnemonic = "van holiday novel anchor session siren shiver fine shield need tank depart";
+var mnemonic = "conduct skirt rail flat crash series online physical lawn brand boost senior";

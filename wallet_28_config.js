@@ -1,1 +1,1 @@
-var mnemonic = "enemy climb good noodle snow entire guess buyer deer parade spirit inhale";
+var mnemonic = "bonus flight silly review tuna intact nest valve forward mutual spike elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo miracle choice suffer pink tobacco sword tribe sight decrease harbor surprise";
+var mnemonic = "jazz correct soup chalk scout vibrant minimum mistake either hundred fence pistol";

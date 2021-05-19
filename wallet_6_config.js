@@ -1,1 +1,1 @@
-var mnemonic = "enemy lucky hello together swift link crop aspect elegant awkward poet music";
+var mnemonic = "resource degree motion filter news finger sponsor pole sauce paddle sustain clog";
