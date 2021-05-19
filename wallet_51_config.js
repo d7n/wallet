@@ -1,1 +1,1 @@
-var mnemonic = "exact image bridge list shoe once keen click city simple crumble top";
+var mnemonic = "skull yard expose include ghost response thing chaos pull color salt exclude";

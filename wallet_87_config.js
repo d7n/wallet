@@ -1,1 +1,1 @@
-var mnemonic = "air possible language lounge spread burden length method rubber cage orbit hurry";
+var mnemonic = "owner gate genius rice robust sister convince toy always ride pride october";

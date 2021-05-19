@@ -1,1 +1,1 @@
-var mnemonic = "flush left buzz room dove airport race sing cushion stick annual round";
+var mnemonic = "screen bomb mass clock regular elbow manual cabin patch enrich sugar connect";

@@ -1,1 +1,1 @@
-var mnemonic = "group awake express dutch hundred awake blame disagree item demise bleak replace";
+var mnemonic = "shy salute capital antenna danger food solve call twin cable chuckle surface";

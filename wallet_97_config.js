@@ -1,1 +1,1 @@
-var mnemonic = "wish witness certain cool multiply twelve reject silly battle please wood chat";
+var mnemonic = "dilemma elegant uphold curve ready slow shove beach satisfy cruel render method";

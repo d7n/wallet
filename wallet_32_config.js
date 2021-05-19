@@ -1,1 +1,1 @@
-var mnemonic = "kick scrub carry valve frost consider flock tail excuse short camera dove";
+var mnemonic = "exhaust earn bunker tragic title table icon bench ankle symbol reopen actor";

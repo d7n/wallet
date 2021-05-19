@@ -1,1 +1,1 @@
-var mnemonic = "weird manage verb scorpion release pole deer wrap eager shuffle artwork inspire";
+var mnemonic = "notice hour guitar original into clown topple fish valid garage notice garden";

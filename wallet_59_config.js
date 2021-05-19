@@ -1,1 +1,1 @@
-var mnemonic = "soldier collect uncle task real vibrant tiger twist pact sea view asset";
+var mnemonic = "dawn fog school danger execute auto expand mix reunion eager cream decide";

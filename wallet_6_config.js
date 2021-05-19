@@ -1,1 +1,1 @@
-var mnemonic = "image ask knock series trash various canoe visa usual critic burger aim";
+var mnemonic = "provide net olive ask any room curious pupil where video scrub kiwi";

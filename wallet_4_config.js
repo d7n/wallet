@@ -1,1 +1,1 @@
-var mnemonic = "wet problem truck kitchen spell clerk lunch urban laugh brain sadness process";
+var mnemonic = "crystal lock security address segment two bus use pipe aerobic coconut monster";

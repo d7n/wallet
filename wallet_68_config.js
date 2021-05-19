@@ -1,1 +1,1 @@
-var mnemonic = "slush alpha faculty transfer crowd arena hole cannon alone attack convince arrow";
+var mnemonic = "alarm whisper travel ensure observe space control design august crisp behave require";

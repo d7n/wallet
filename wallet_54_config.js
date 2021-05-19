@@ -1,1 +1,1 @@
-var mnemonic = "salad mansion smile mesh mean earth plunge type prepare symbol shove blanket";
+var mnemonic = "wagon grab brush scheme spot bitter wine month task exclude erosion juice";

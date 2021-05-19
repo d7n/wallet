@@ -1,1 +1,1 @@
-var mnemonic = "rib already develop talk antique suggest fever burst allow enrich tray denial";
+var mnemonic = "culture outer life execute zero meat error merry neck wolf bachelor history";

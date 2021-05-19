@@ -1,1 +1,1 @@
-var mnemonic = "toe sun bird rely reunion mechanic original grit glare shine total clerk";
+var mnemonic = "border resemble lumber night unknown dove coyote marriage hip dog hour amused";

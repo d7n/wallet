@@ -1,1 +1,1 @@
-var mnemonic = "car vivid unable predict food later rather bright affair cloud this parent";
+var mnemonic = "ability speed estate flock only display when try juice renew lazy economy";

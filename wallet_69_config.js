@@ -1,1 +1,1 @@
-var mnemonic = "flat increase atom because around fix walnut fashion magnet network table boy";
+var mnemonic = "apology assume trophy trigger custom venture mushroom task cigar famous upper action";

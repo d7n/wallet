@@ -1,1 +1,1 @@
-var mnemonic = "fold pole client gift matter pen hub enrich arctic october roast safe";
+var mnemonic = "awkward glue cube invest double uncover now solid detect risk kind antique";

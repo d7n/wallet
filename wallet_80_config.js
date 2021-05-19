@@ -1,1 +1,1 @@
-var mnemonic = "jaguar laptop execute rifle supreme swift age buzz fly alone prepare industry";
+var mnemonic = "visit tenant vast worth enroll abandon immense uphold below vague evil label";

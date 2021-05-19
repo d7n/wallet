@@ -1,1 +1,1 @@
-var mnemonic = "credit stick sting electric job tiger update omit frequent grape clarify pen";
+var mnemonic = "domain point ritual replace flame mirror reveal suggest insect forum direct mandate";

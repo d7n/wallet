@@ -1,1 +1,1 @@
-var mnemonic = "present course photo model resource file employ skate find target surge riot";
+var mnemonic = "announce duck habit laugh wise crack decrease lobster unfair uniform clever tiny";

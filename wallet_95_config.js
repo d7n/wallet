@@ -1,1 +1,1 @@
-var mnemonic = "craft token curve gym camera dune little excess fall diesel sound tree";
+var mnemonic = "way stadium unable remain hire feature avoid skin cost ranch idea stomach";

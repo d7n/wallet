@@ -1,1 +1,1 @@
-var mnemonic = "blame desk disorder bounce fish lobster merit century voice adjust decrease neutral";
+var mnemonic = "rival boat lawsuit jealous man ankle piece police pupil arena resist deny";

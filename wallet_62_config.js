@@ -1,1 +1,1 @@
-var mnemonic = "skirt donor vote beef suit wife name donor drift dolphin tobacco castle";
+var mnemonic = "asthma tip smoke alien this ski doctor fat notice rebel ivory wide";

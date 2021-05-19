@@ -1,1 +1,1 @@
-var mnemonic = "differ catch erode motion harsh fish mean onion pig pyramid fury series";
+var mnemonic = "height give hello enable rate gadget fruit match attack zoo symbol cruel";

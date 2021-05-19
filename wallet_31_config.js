@@ -1,1 +1,1 @@
-var mnemonic = "exotic top admit wagon start office truck under body simple vacant trumpet";
+var mnemonic = "wide swamp chair grace need cause repair risk fragile pact fringe someone";

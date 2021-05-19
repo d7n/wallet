@@ -1,1 +1,1 @@
-var mnemonic = "wrap change rely misery reduce sad word paddle grocery dismiss describe baby";
+var mnemonic = "track federal decrease liar lottery talent elbow panther permit fan code access";

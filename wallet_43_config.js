@@ -1,1 +1,1 @@
-var mnemonic = "slab argue praise program license broken state north pigeon duck copper daring";
+var mnemonic = "inherit museum aware fat oak mechanic bitter section enlist seat wreck lucky";

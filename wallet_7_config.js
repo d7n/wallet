@@ -1,1 +1,1 @@
-var mnemonic = "hub garlic produce inhale midnight maple place target mother minute winter oil";
+var mnemonic = "lunar zero barely obvious label term spice solve digital genius mean use";

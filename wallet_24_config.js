@@ -1,1 +1,1 @@
-var mnemonic = "blame wreck ecology pulp kind ozone champion sudden again harvest couch dinosaur";
+var mnemonic = "acoustic urban shift gold snow program love begin ghost soul another top";

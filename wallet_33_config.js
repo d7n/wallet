@@ -1,1 +1,1 @@
-var mnemonic = "spare click interest garden mirror hint birth eight fluid best alter police";
+var mnemonic = "circle coyote repair flavor grid bicycle make brown mobile ankle never tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake steel sing robot album royal drastic february escape cage basic hotel";
+var mnemonic = "chair spare harsh option large warfare shove glimpse abuse shy resemble that";

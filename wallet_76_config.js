@@ -1,1 +1,1 @@
-var mnemonic = "express grant clarify arrow canal rack source blouse analyst audit print fancy";
+var mnemonic = "visa false loop toddler explain oven trash width galaxy mother try window";

@@ -1,1 +1,1 @@
-var mnemonic = "crane voyage confirm buffalo caught share brass merge gift usual thought hedgehog";
+var mnemonic = "action ten venue orphan arrest luxury ship regular surface harsh only cute";

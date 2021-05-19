@@ -1,1 +1,1 @@
-var mnemonic = "taste print decline wage pen style captain antique digital eyebrow turkey apple";
+var mnemonic = "doctor short music pepper student speak turtle borrow guess taxi borrow junk";

@@ -1,1 +1,1 @@
-var mnemonic = "silent cloth early put pink mystery elevator doctor water token library torch";
+var mnemonic = "traffic street measure hazard rail robust canyon infant feel vendor orphan toss";

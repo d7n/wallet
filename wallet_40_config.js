@@ -1,1 +1,1 @@
-var mnemonic = "potato flat lumber battle blame chronic trigger pig sand hedgehog debate easily";
+var mnemonic = "popular friend inflict tornado dynamic fan toddler audit episode face slogan drum";

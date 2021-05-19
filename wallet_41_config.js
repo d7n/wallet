@@ -1,1 +1,1 @@
-var mnemonic = "pattern struggle economy parrot slide original sun clay tag pretty barely list";
+var mnemonic = "wagon dove crystal just puzzle minor pyramid diesel chunk cannon lounge oven";

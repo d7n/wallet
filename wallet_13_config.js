@@ -1,1 +1,1 @@
-var mnemonic = "hard one peasant loop around slender picnic remove tool loud cat wear";
+var mnemonic = "wisdom state knock yard notable cabin agent deny put impulse maze payment";

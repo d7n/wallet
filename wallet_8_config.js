@@ -1,1 +1,1 @@
-var mnemonic = "decade wreck crew minute violin stool rule hollow copy ritual boy educate";
+var mnemonic = "mimic pass guide manual grocery must fish will bless angle click domain";

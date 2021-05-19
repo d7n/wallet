@@ -1,1 +1,1 @@
-var mnemonic = "provide runway become only win window phone search token add dinosaur ritual";
+var mnemonic = "enable ready barely lecture erode program try artefact marble fine illegal tent";

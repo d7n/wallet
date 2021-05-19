@@ -1,1 +1,1 @@
-var mnemonic = "rule shrug rigid onion rigid emerge test inject program goose lemon pair";
+var mnemonic = "exotic web daring property awful antenna robust mirror barely steak elegant spell";

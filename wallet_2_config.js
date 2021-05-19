@@ -1,1 +1,1 @@
-var mnemonic = "cover describe increase layer grief office dismiss poet genius cousin unknown crawl";
+var mnemonic = "blade wrist tortoise bag capable dragon angry armor young prize legend learn";

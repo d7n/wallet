@@ -1,1 +1,1 @@
-var mnemonic = "deposit token zone toe sauce fold about either envelope ticket fatigue citizen";
+var mnemonic = "daring million embrace spatial topic rookie sample vocal dune good always vote";

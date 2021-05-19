@@ -1,1 +1,1 @@
-var mnemonic = "merge elbow riot certain differ coconut pottery speed harbor host concert road";
+var mnemonic = "sun valve inquiry envelope mystery tomato weather gravity party embody coast also";

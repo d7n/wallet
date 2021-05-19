@@ -1,1 +1,1 @@
-var mnemonic = "wool picture melody tree forget relax urge quality subject leader behind frog";
+var mnemonic = "guilt spoon such mandate sphere toy govern phone roof arch potato slab";

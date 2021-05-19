@@ -1,1 +1,1 @@
-var mnemonic = "plug pole gun sound climb smoke manual range chief please illegal kiss";
+var mnemonic = "cram mixture evil rhythm cream dilemma athlete frame view mammal sheriff addict";

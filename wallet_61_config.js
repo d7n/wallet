@@ -1,1 +1,1 @@
-var mnemonic = "hurry thing sphere kiss laptop table alpha ocean post endorse tribe foil";
+var mnemonic = "uncle resource about social grief spoil weather scale tired hill negative extra";

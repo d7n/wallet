@@ -1,1 +1,1 @@
-var mnemonic = "drill dawn mean height wish olympic shoe fat shed middle sail treat";
+var mnemonic = "pretty trumpet cement snack visual fruit leaf festival math glance genuine afraid";

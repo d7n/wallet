@@ -1,1 +1,1 @@
-var mnemonic = "clock impose uncover wood radio talent holiday news segment nasty position stool";
+var mnemonic = "extra vocal endorse next stove buddy hammer velvet seat movie choice mystery";

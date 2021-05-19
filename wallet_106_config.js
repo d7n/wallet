@@ -1,1 +1,1 @@
-var mnemonic = "focus upon business oxygen like hero tattoo crunch process prepare regret talk";
+var mnemonic = "sure column relief text evidence rough face wrestle erosion obscure abuse indoor";

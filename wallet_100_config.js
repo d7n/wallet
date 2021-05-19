@@ -1,1 +1,1 @@
-var mnemonic = "clip trade analyst curious zero hollow key vicious goose increase already sphere";
+var mnemonic = "wire twin project guilt burden foam shaft display cannon ecology scare stock";

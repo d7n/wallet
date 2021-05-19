@@ -1,1 +1,1 @@
-var mnemonic = "shrug symbol famous coffee attack pride region advance usage pigeon coral poverty";
+var mnemonic = "deny lyrics marine know motor enlist banana symptom dog split hand trumpet";

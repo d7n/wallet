@@ -1,1 +1,1 @@
-var mnemonic = "snack cricket filter poem innocent devote purity insect quarter conduct bench offer";
+var mnemonic = "nest direct chief must master pigeon treat unaware jewel tonight kitchen fossil";

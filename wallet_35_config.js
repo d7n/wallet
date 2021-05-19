@@ -1,1 +1,1 @@
-var mnemonic = "bridge urban donor tragic survey vivid horror blind hip chicken bulb fee";
+var mnemonic = "boss tumble idea voice crumble nasty require bar medal warm motor pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge wasp load glide gallery hard spoil antique lunch spring pill scale";
+var mnemonic = "orange exit omit debris found exercise view mail quote blur bike pelican";

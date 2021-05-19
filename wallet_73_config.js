@@ -1,1 +1,1 @@
-var mnemonic = "snow metal enemy size learn hockey meat general table misery discover around";
+var mnemonic = "index safe bonus genuine crater peace heart east oxygen modify visual knock";

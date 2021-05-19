@@ -1,1 +1,1 @@
-var mnemonic = "tool remove sniff network exact cram knife lunch found food daring pilot";
+var mnemonic = "alien whip dish timber citizen aware minute minimum north wire muscle error";

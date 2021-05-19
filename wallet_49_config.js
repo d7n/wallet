@@ -1,1 +1,1 @@
-var mnemonic = "orange enjoy mention chase jazz solid fiber banana curve review uncle slight";
+var mnemonic = "blood like nest history accident burger wrong frequent doctor hazard image smoke";

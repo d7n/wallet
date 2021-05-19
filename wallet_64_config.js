@@ -1,1 +1,1 @@
-var mnemonic = "shield vacant glue coral banana medal tool struggle faculty change wing entire";
+var mnemonic = "oven spare long fatigue staff speak vintage clerk wing govern fruit margin";

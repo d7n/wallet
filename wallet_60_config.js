@@ -1,1 +1,1 @@
-var mnemonic = "teach trash link fish never track subject kiss manage draw hamster decade";
+var mnemonic = "dish flower grain notable zone jump render awake couple marble fetch fiber";

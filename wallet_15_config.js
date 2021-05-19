@@ -1,1 +1,1 @@
-var mnemonic = "crime supply dirt question donate guard time furnace excuse battle space power";
+var mnemonic = "claim still ask soon husband black angle define crash thunder ill ostrich";

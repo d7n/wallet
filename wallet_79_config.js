@@ -1,1 +1,1 @@
-var mnemonic = "minute gallery control train desk slogan benefit ancient fly feature plug gauge";
+var mnemonic = "glare tone nerve gold push creek answer disagree explain radar toss hybrid";

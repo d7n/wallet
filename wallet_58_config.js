@@ -1,1 +1,1 @@
-var mnemonic = "misery toss chase perfect ignore pride blanket parrot reward kiwi link kind";
+var mnemonic = "security fall scout tuna keep era early furnace waste nose tag vapor";

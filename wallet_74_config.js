@@ -1,1 +1,1 @@
-var mnemonic = "ridge whip toy huge seek pipe birth gym kingdom chicken embody hunt";
+var mnemonic = "profit supreme warrior appear green risk trend tip spot height grid alcohol";

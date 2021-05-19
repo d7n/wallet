@@ -1,1 +1,1 @@
-var mnemonic = "room exchange screen vapor spirit song allow profit home ability fix speed";
+var mnemonic = "radar pass day rate document husband say topic school mesh awful knife";

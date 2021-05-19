@@ -1,1 +1,1 @@
-var mnemonic = "slot edge business disease surge pumpkin bulb broom mosquito announce nerve video";
+var mnemonic = "chair hat brain peace noodle pigeon quick warrior dog gold mixture hunt";

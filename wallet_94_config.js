@@ -1,1 +1,1 @@
-var mnemonic = "library isolate elbow phrase wine involve wise bench fit feed wait surround";
+var mnemonic = "stone apple short bread explain tool nerve outside mammal bean original come";

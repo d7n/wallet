@@ -1,1 +1,1 @@
-var mnemonic = "basket host expire jacket draw hello daring hour title wedding crush race";
+var mnemonic = "struggle flight cigar inform liberty ugly all phone tail payment gloom still";

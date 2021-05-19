@@ -1,1 +1,1 @@
-var mnemonic = "security honey tell blue indicate jaguar guess when series increase doll churn";
+var mnemonic = "style agree galaxy discover chicken muffin coconut flush describe drama derive photo";

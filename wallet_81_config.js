@@ -1,1 +1,1 @@
-var mnemonic = "smile earth into camp swing hunt grunt force wine hover obey flat";
+var mnemonic = "lift waste figure powder medal chimney point parrot maid opinion margin tennis";

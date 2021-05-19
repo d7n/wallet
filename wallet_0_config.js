@@ -1,1 +1,1 @@
-var mnemonic = "pioneer buyer clutch tornado dash lawn only one feel fall joke coffee";
+var mnemonic = "sun earn update ahead able inflict essay tell wolf banana pet side";

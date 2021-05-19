@@ -1,1 +1,1 @@
-var mnemonic = "arch dentist mutual urban year moment valid employ you minute review runway";
+var mnemonic = "urge heavy subway crawl wait normal become oxygen decrease remove ladder satisfy";

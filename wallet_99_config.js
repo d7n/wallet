@@ -1,1 +1,1 @@
-var mnemonic = "truck velvet ring security nation weather popular process nut kiwi grocery exhibit";
+var mnemonic = "lens speak aerobic ski ridge increase find stumble slow state laugh phrase";

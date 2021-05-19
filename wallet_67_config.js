@@ -1,1 +1,1 @@
-var mnemonic = "leave receive spray federal eager ginger angle joy blanket have evil excuse";
+var mnemonic = "raise organ forget never penalty mercy knife comfort fantasy sock begin promote";

@@ -1,1 +1,1 @@
-var mnemonic = "success brass neglect velvet exact allow eagle witness matrix derive train pepper";
+var mnemonic = "journey axis leg damp wink bench divide correct garden never immense wire";

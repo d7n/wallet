@@ -1,1 +1,1 @@
-var mnemonic = "invest act just garden return conduct believe charge hub champion shell buyer";
+var mnemonic = "capital melt hurt wave rich domain cushion knife vault steel result scorpion";

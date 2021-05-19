@@ -1,1 +1,1 @@
-var mnemonic = "wood exact rebel pact safe awesome gorilla craft fox poet rubber awesome";
+var mnemonic = "moon breeze seven lobster adult water inside hero chicken rescue theme permit";

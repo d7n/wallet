@@ -1,1 +1,1 @@
-var mnemonic = "rigid ecology reform hover convince shadow bench equip boat animal birth hospital";
+var mnemonic = "miss rate nurse punch power hub lecture popular ask coyote license charge";

@@ -1,1 +1,1 @@
-var mnemonic = "apple ask hint damage empty hair change below title side rival season";
+var mnemonic = "approve grass say club moment label exotic kangaroo parent carpet ribbon practice";

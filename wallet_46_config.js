@@ -1,1 +1,1 @@
-var mnemonic = "fashion two junior video seed few wheat valid mercy soldier write until";
+var mnemonic = "one provide outdoor source canal crime legend transfer energy physical shallow dress";

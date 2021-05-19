@@ -1,1 +1,1 @@
-var mnemonic = "oil diagram address jar mercy final enjoy oval success over idea adapt";
+var mnemonic = "october unique sustain save issue endless room advice medal confirm link knock";

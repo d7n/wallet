@@ -1,1 +1,1 @@
-var mnemonic = "broccoli stem junk buddy dress panel diagram first brand range view reduce";
+var mnemonic = "awkward music various visual medal turkey net tower bonus wheat heart wife";

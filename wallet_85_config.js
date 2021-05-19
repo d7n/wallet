@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo unusual tuition wolf whale bacon party promote eight number bracket notable";
+var mnemonic = "weather speed summer novel glare offer notice system tomorrow tray thing lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "dose jeans right impulse mimic virtual nation fever sauce visit crash aim";
+var mnemonic = "shock settle educate any second coast six glue indoor friend buffalo glue";

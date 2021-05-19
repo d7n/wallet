@@ -1,1 +1,1 @@
-var mnemonic = "doctor aunt vibrant pottery canoe recycle people until spawn cost gossip slam";
+var mnemonic = "walnut fancy fiscal monkey cup fury lion act series lobster rotate eyebrow";
