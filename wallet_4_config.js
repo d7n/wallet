@@ -1,1 +1,1 @@
-var mnemonic = "state denial fever punch chest entire sorry aware moral anger path unlock";
+var mnemonic = "when stairs asset eight nominee master space expire fat source perfect talk";

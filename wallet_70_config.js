@@ -1,1 +1,1 @@
-var mnemonic = "subject drive ancient misery before proud depth juice hotel vault refuse border";
+var mnemonic = "token vehicle basket laugh side siren zone lock plate essay tongue borrow";

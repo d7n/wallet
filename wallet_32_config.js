@@ -1,1 +1,1 @@
-var mnemonic = "before artefact panic snake banner nice sell snake stove love swim search";
+var mnemonic = "defy heart doctor lunar organ elite whip crunch energy run switch curtain";

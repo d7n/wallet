@@ -1,1 +1,1 @@
-var mnemonic = "glory baby immune another decide spike acid series erase various poem sick";
+var mnemonic = "amused rare gesture syrup pair adult educate coconut screen fiction gossip slide";

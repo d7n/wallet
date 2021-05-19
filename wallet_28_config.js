@@ -1,1 +1,1 @@
-var mnemonic = "coast enable gospel sing logic maximum board swift lava blanket arrest dignity";
+var mnemonic = "toast develop circle moon typical hard dwarf ozone opera six hair arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "person chicken inquiry surround drill fee lemon ladder gown retire outer capital";
+var mnemonic = "mushroom mass crunch ahead burden release hip debris region miss neither bundle";

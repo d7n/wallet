@@ -1,1 +1,1 @@
-var mnemonic = "maple clown entry entire vault push equal pave twelve sister problem law";
+var mnemonic = "twenty coconut apple bulb unfold bitter inquiry volume dragon clinic garage valid";

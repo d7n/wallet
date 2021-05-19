@@ -1,1 +1,1 @@
-var mnemonic = "left elbow evil head solution mad joy dice vast true olympic educate";
+var mnemonic = "pool east melody detail wage noble casino merit attend already season multiply";

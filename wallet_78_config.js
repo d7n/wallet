@@ -1,1 +1,1 @@
-var mnemonic = "file wolf final caught story shy law want canal table dynamic penalty";
+var mnemonic = "pet miracle describe describe leave denial ecology boil disease retire choose venue";

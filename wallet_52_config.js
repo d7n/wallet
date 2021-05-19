@@ -1,1 +1,1 @@
-var mnemonic = "fragile image dust tobacco trick tortoise note market crazy tray catch correct";
+var mnemonic = "rib fault huge jaguar claim filter shuffle hub need thought erosion pioneer";

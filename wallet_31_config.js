@@ -1,1 +1,1 @@
-var mnemonic = "toddler protect party myth party spoil library scissors little vote tip siege";
+var mnemonic = "better exhibit lamp hold vote joke wheat impulse twelve cup senior loop";

@@ -1,1 +1,1 @@
-var mnemonic = "excite talent gap goat senior monkey color decrease okay van blood pitch";
+var mnemonic = "ethics away lemon case rich spring token defy prize cliff toward someone";

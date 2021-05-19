@@ -1,1 +1,1 @@
-var mnemonic = "trick load wash boss idle globe much coffee bind crumble try ten";
+var mnemonic = "impact release current lady cabin rookie eye cigar subject liar average swim";

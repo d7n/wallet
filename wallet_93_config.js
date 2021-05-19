@@ -1,1 +1,1 @@
-var mnemonic = "window acquire foam subject original lizard junior train thing congress please puzzle";
+var mnemonic = "rival guide across mansion pulse tooth distance crop way coyote alarm quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "run gain head endorse carbon citizen act again three trap spawn road";
+var mnemonic = "brave result civil work regret space clump team early dumb broom chef";

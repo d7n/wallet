@@ -1,1 +1,1 @@
-var mnemonic = "weapon blossom session feed quiz grab hire indicate since hobby alarm sand";
+var mnemonic = "volume resist face castle robust scatter often top auto improve again demand";

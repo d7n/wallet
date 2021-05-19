@@ -1,1 +1,1 @@
-var mnemonic = "robot wear fossil upper airport turkey honey nurse reduce scene essay install";
+var mnemonic = "allow worry kitten screen gain arena course olive asthma dismiss traffic census";

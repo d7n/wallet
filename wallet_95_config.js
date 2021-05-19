@@ -1,1 +1,1 @@
-var mnemonic = "soap dinner segment coral output flavor chaos dust rookie equip accident circle";
+var mnemonic = "scare shine spy divide scissors tooth faith myself depth false immune collect";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct want emotion casino same isolate source differ merit anchor slender pluck";
+var mnemonic = "run asset fluid real tube limit short response tooth aunt tomorrow radio";

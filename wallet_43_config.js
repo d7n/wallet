@@ -1,1 +1,1 @@
-var mnemonic = "process good situate huge wreck settle cousin common prepare notice minimum artist";
+var mnemonic = "dinosaur today begin kangaroo ticket lecture grass alien saddle property dilemma talent";

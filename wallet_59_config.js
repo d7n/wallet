@@ -1,1 +1,1 @@
-var mnemonic = "vendor lock myth snap month garbage second permit wedding hockey chaos number";
+var mnemonic = "energy album hint anger square baby option coach crouch deny cat reduce";

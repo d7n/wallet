@@ -1,1 +1,1 @@
-var mnemonic = "company frame side alone borrow olive until shuffle range athlete man minute";
+var mnemonic = "steel pilot office buzz music cave hint erase dream like light filter";

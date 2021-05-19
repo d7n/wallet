@@ -1,1 +1,1 @@
-var mnemonic = "protect coconut deliver enact moral type muffin joke vivid curious awake tornado";
+var mnemonic = "dream reduce diamond render smile mad bargain sketch gospel present fine toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch inject solution vast audit oil boy element powder exercise mesh squeeze";
+var mnemonic = "frozen drama avocado suit special hockey sound kite area master country tomato";

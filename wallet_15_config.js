@@ -1,1 +1,1 @@
-var mnemonic = "apology opera oppose adjust quantum play wage broccoli wait crater eye cabbage";
+var mnemonic = "entire deputy dismiss mean layer angle embody fortune ring gallery tiger electric";

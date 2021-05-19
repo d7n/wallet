@@ -1,1 +1,1 @@
-var mnemonic = "drastic conduct journey topic make spy still correct athlete blood badge naive";
+var mnemonic = "hammer once today enjoy slot patch hundred female valid brown subway tunnel";

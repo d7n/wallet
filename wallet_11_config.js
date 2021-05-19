@@ -1,1 +1,1 @@
-var mnemonic = "wood brain swift inch type kiwi cactus luxury cupboard today bulk silent";
+var mnemonic = "sight belt clutch hold home accuse time blood ugly river grid blur";

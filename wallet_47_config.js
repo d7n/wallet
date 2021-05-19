@@ -1,1 +1,1 @@
-var mnemonic = "hen honey limit autumn grant walk ice future sound assume search trumpet";
+var mnemonic = "assault doctor situate zone tuition clay eyebrow crouch desk reason milk slogan";

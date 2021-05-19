@@ -1,1 +1,1 @@
-var mnemonic = "notice frequent turtle conduct cinnamon clever hard canal grocery claim essence delay";
+var mnemonic = "trial ranch body tone mountain weapon loyal small fever spatial lizard patch";

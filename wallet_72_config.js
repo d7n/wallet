@@ -1,1 +1,1 @@
-var mnemonic = "health swarm inner physical cloth all fury upset machine wash barely short";
+var mnemonic = "sing pudding daughter buffalo flight menu aunt drama law gallery youth coil";

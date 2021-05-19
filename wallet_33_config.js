@@ -1,1 +1,1 @@
-var mnemonic = "adult catch mesh ceiling regular phone animal desk city setup skull minimum";
+var mnemonic = "note wedding rely window hollow student print rich control seven magnet sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "illness entry scheme please pact truth define okay easily angry globe tonight";
+var mnemonic = "argue piece olympic share gesture yard hurry method dismiss fruit other whale";

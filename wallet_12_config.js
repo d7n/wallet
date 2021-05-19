@@ -1,1 +1,1 @@
-var mnemonic = "injury urge abandon eyebrow audit sand embrace run bracket seat much endorse";
+var mnemonic = "oil phrase tip mimic cram rigid utility genre swallow maze rain unfold";

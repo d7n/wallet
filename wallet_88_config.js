@@ -1,1 +1,1 @@
-var mnemonic = "mention chuckle aunt twist demand lawsuit zero stock shrimp cradle congress source";
+var mnemonic = "impulse beef base frown myth shine elbow emotion usual tuna unable group";

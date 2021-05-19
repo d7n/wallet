@@ -1,1 +1,1 @@
-var mnemonic = "napkin deputy candy clinic foil certain equal renew middle theory middle craft";
+var mnemonic = "total artist birth soap exist argue room limb trim elevator glow affair";

@@ -1,1 +1,1 @@
-var mnemonic = "note like taxi swift citizen volume shove occur dutch help crumble scan";
+var mnemonic = "elite off lens priority again banana pupil laundry amount wild enough giggle";

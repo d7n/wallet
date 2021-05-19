@@ -1,1 +1,1 @@
-var mnemonic = "enlist blouse that excite coral sense fence loan riot oxygen equip acoustic";
+var mnemonic = "athlete idle half hidden like cost illness hard bonus relief subject only";

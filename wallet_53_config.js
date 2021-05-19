@@ -1,1 +1,1 @@
-var mnemonic = "once toss chuckle dice pepper advice candy end index mad soda view";
+var mnemonic = "puppy cycle absent credit split cover census become above extra popular margin";

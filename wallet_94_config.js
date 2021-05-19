@@ -1,1 +1,1 @@
-var mnemonic = "inform camera genre alert pottery alien rebel damp fruit gloom carry trial";
+var mnemonic = "arm slender indicate stick cross correct push thunder churn deliver giraffe stove";

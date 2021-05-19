@@ -1,1 +1,1 @@
-var mnemonic = "depth sweet truly insect egg insane clinic olympic mobile trouble struggle ask";
+var mnemonic = "gadget jelly cash certain noise vivid someone visit chunk pudding actor uniform";

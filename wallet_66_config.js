@@ -1,1 +1,1 @@
-var mnemonic = "skirt slam entire concert surround price bomb razor green liquid science modify";
+var mnemonic = "chest easily sketch ordinary stairs gold punch olive salmon such verify fold";

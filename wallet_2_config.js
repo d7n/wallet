@@ -1,1 +1,1 @@
-var mnemonic = "ugly aisle raven menu put art sense blue tell provide stone habit";
+var mnemonic = "nose issue kiss little valid attract harsh salute swallow immense radar ahead";

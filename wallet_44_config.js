@@ -1,1 +1,1 @@
-var mnemonic = "tissue tip plastic junior holiday door art appear toy supply fabric aisle";
+var mnemonic = "enhance menu venue approve arrow nothing pear zoo orbit knock canal kidney";

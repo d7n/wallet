@@ -1,1 +1,1 @@
-var mnemonic = "tired erode unlock code horn wife best custom glass zoo vague immune";
+var mnemonic = "deny cereal clutch holiday milk million arrive enter escape test envelope cactus";

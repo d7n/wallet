@@ -1,1 +1,1 @@
-var mnemonic = "girl spice display just action inflict child swamp retire exotic radar garlic";
+var mnemonic = "viable alley cancel skull anchor grocery eager power tank network drum vacant";

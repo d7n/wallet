@@ -1,1 +1,1 @@
-var mnemonic = "invest coffee dinner rough rotate suspect item drama close logic tip sell";
+var mnemonic = "innocent daughter toy equal keen begin husband nut endorse arrest tribe arch";

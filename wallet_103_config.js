@@ -1,1 +1,1 @@
-var mnemonic = "sad divorce omit actor brown clerk gasp video table enter kit gadget";
+var mnemonic = "chalk force napkin gather height quantum thumb lend trade quantum explain clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "awful rhythm arrow cheap urban tuna judge offer lemon loop pioneer gesture";
+var mnemonic = "surge pulp final craft matter bid assist share machine valve vivid alien";

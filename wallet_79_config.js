@@ -1,1 +1,1 @@
-var mnemonic = "solar good truth crime critic need game vault must gospel suspect coast";
+var mnemonic = "vault spot ignore ocean pitch ten minimum install anxiety warrior hour tongue";

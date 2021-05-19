@@ -1,1 +1,1 @@
-var mnemonic = "scatter quick bench display toddler account sock pony token hero popular acquire";
+var mnemonic = "invest nerve can garbage pattern aisle edge gospel crouch funny crazy museum";

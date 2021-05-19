@@ -1,1 +1,1 @@
-var mnemonic = "increase enlist charge fragile room hire fire hole fashion siren album solar";
+var mnemonic = "base unlock cousin library champion relief nation lady lake oak casino alien";

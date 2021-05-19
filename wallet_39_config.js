@@ -1,1 +1,1 @@
-var mnemonic = "drive renew welcome transfer chase draw page gift spirit annual process orchard";
+var mnemonic = "humble earth coyote view wait typical cart mean best outside grief alert";

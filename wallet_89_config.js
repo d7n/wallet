@@ -1,1 +1,1 @@
-var mnemonic = "aware boss face slot squeeze pear pulse frozen bunker kind peanut nation";
+var mnemonic = "stool leg copy shift battle diamond decide verb bulk electric finger width";

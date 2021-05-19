@@ -1,1 +1,1 @@
-var mnemonic = "essay female fall motion comfort fox burger fashion cat winner ghost tennis";
+var mnemonic = "prize carbon reason front amateur leader earn pudding monitor ready alien genius";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle oven keen ring cage ship gesture real jealous syrup leisure thought";
+var mnemonic = "liberty screen gift rebuild lonely recall flight banana brother ill eagle quantum";

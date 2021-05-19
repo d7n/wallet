@@ -1,1 +1,1 @@
-var mnemonic = "bundle over bitter enforce room focus tattoo slide pencil drum under bless";
+var mnemonic = "time shrug square gold fiber deposit kit level napkin fancy accuse devote";

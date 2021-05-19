@@ -1,1 +1,1 @@
-var mnemonic = "pull wet online slogan only card vehicle adapt palm reject still ecology";
+var mnemonic = "depth elder damp reform alien client deliver churn volume cloth erase suit";

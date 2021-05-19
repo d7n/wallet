@@ -1,1 +1,1 @@
-var mnemonic = "tent pool wreck rare document resource nose ship trim you symbol belt";
+var mnemonic = "segment domain sketch mushroom material accuse damage buyer share pony next question";

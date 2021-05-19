@@ -1,1 +1,1 @@
-var mnemonic = "aisle ridge bar cabin horror glove lawn base post figure lock diet";
+var mnemonic = "master siren boost slight claw flock artefact team grow tourist slim sea";

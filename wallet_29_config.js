@@ -1,1 +1,1 @@
-var mnemonic = "matter verify curve foster lumber strategy egg critic provide cannon chase old";
+var mnemonic = "soccer alley opera before hen action similar company team bachelor unknown admit";

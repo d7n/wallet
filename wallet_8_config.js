@@ -1,1 +1,1 @@
-var mnemonic = "detail old hub bitter capable usual sponsor plate post sorry old say";
+var mnemonic = "chat below large delay lawsuit inquiry powder minute blossom input dose draft";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork fresh sleep banner trend lottery bottom unique tongue basket scene sport";
+var mnemonic = "egg call behave more vital search quantum list stereo either online van";

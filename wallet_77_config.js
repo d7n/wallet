@@ -1,1 +1,1 @@
-var mnemonic = "uncover boy amazing gesture jaguar police much prison coach pull easy shell";
+var mnemonic = "churn explain spoil sniff document moral enforce stick wedding style cluster area";

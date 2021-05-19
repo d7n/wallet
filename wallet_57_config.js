@@ -1,1 +1,1 @@
-var mnemonic = "legal type theme walk oval slab winter job visa select invest injury";
+var mnemonic = "same fetch tip depart exile amazing student smile embark runway lock someone";

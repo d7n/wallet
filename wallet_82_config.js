@@ -1,1 +1,1 @@
-var mnemonic = "celery silly regret rescue vague romance wise camp ahead note tape session";
+var mnemonic = "noise tuition truck laugh shoulder ankle pudding project glue multiply donate nothing";

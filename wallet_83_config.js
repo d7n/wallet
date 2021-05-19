@@ -1,1 +1,1 @@
-var mnemonic = "car govern aspect relief asset upgrade gold tuna window drop dance squeeze";
+var mnemonic = "robust broken soda vanish female outer item bleak logic movie youth grit";

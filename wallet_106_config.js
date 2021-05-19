@@ -1,1 +1,1 @@
-var mnemonic = "swallow media couch sheriff together raven father gallery fitness bridge lottery monster";
+var mnemonic = "rude prison blame submit age buzz exile cinnamon service rally loan debris";

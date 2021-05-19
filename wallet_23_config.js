@@ -1,1 +1,1 @@
-var mnemonic = "talk naive property brisk tuition oven oyster bomb start cool donate air";
+var mnemonic = "share scheme tag tourist globe since solid scheme between unknown true hawk";

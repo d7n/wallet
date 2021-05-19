@@ -1,1 +1,1 @@
-var mnemonic = "lamp noble clever disease among super vibrant whisper carbon portion camp pyramid";
+var mnemonic = "unit more piano busy scatter cereal salute toss danger blur birth prefer";

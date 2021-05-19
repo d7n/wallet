@@ -1,1 +1,1 @@
-var mnemonic = "nose depend matter twice iron close deliver funny wheel inhale family purchase";
+var mnemonic = "pelican resemble grief humble enroll lottery eye panther baby belt exotic caught";

@@ -1,1 +1,1 @@
-var mnemonic = "drive immense craft gaze violin cross lens term strike scene inquiry walnut";
+var mnemonic = "among uncover limit beef multiply vehicle tomorrow exchange sail urge property spend";

@@ -1,1 +1,1 @@
-var mnemonic = "kite blush bitter profit survey enrich result dash demand mass benefit property";
+var mnemonic = "monitor build hollow potato pause small dilemma style okay wasp tissue lunch";

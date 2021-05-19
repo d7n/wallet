@@ -1,1 +1,1 @@
-var mnemonic = "nature prize torch vote marble cricket immense float lens tourist bright under";
+var mnemonic = "noodle define visit hat noise idea exotic sport sudden music royal antique";

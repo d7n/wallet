@@ -1,1 +1,1 @@
-var mnemonic = "dawn protect purpose enlist elegant resource mind proud faculty video local run";
+var mnemonic = "oven furnace cycle cat parrot whisper detail promote thunder aunt act act";

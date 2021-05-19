@@ -1,1 +1,1 @@
-var mnemonic = "dice friend clay tell celery because weapon rifle volcano omit lottery ozone";
+var mnemonic = "short country basket quality silly cliff tiger spin tumble scissors seven salt";

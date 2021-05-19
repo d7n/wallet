@@ -1,1 +1,1 @@
-var mnemonic = "deliver expand happy lesson spoon exhaust reform parrot absent pony own field";
+var mnemonic = "rough remove can into lava mystery flower hint crime violin mountain chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "demand yard dust juice target flame april rifle theory evil skull rail";
+var mnemonic = "skate spin oppose sad quiz carbon guide quantum jewel soon lunar pull";

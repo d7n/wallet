@@ -1,1 +1,1 @@
-var mnemonic = "panel until motion scale prepare float hard width bless upset frame upset";
+var mnemonic = "brother umbrella they miracle enact episode denial omit alone zebra library defy";

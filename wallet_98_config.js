@@ -1,1 +1,1 @@
-var mnemonic = "swim able spice urban nice wagon alien vanish cereal frozen oblige month";
+var mnemonic = "sad jungle fade stumble sponsor accuse thumb start future fossil among enough";

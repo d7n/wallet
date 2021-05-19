@@ -1,1 +1,1 @@
-var mnemonic = "exist nasty camp issue slender more news dad deliver spread apart thought";
+var mnemonic = "update twelve clip awful judge notice design embrace december poem radio draw";

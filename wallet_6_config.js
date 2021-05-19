@@ -1,1 +1,1 @@
-var mnemonic = "shine mosquito yard rocket ask tissue want join describe civil obey judge";
+var mnemonic = "document thrive absent idea access drum chapter front meadow defy raven future";

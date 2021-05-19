@@ -1,1 +1,1 @@
-var mnemonic = "attract scrap slice topic benefit razor below speak narrow shift wish crash";
+var mnemonic = "million genuine curve faith thing echo man spread meadow list athlete unfold";

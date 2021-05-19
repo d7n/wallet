@@ -1,1 +1,1 @@
-var mnemonic = "paddle utility poverty mobile assist lab shield nose fancy bar hunt enact";
+var mnemonic = "range above menu electric behind excuse payment fury twice wrist useless bread";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon impact tell live claw muffin nuclear turn senior dismiss control bomb";
+var mnemonic = "door afford coral have daughter soap hurry trip game result right firm";

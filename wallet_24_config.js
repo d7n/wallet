@@ -1,1 +1,1 @@
-var mnemonic = "repeat humor drastic salt quarter green pony news lion rigid wine rail";
+var mnemonic = "vapor sniff vivid frost dial truck present dizzy bargain pave safe text";

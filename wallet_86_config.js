@@ -1,1 +1,1 @@
-var mnemonic = "puzzle usage curve whale annual gesture twin concert hood skate suffer dilemma";
+var mnemonic = "lava there reveal rural winter gasp confirm mango prison twist vacant fence";

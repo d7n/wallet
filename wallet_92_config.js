@@ -1,1 +1,1 @@
-var mnemonic = "achieve believe flash mirror enjoy worry summer bring inmate supreme jeans social";
+var mnemonic = "indicate resist panda labor secret else figure brother panel suffer question wrong";

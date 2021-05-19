@@ -1,1 +1,1 @@
-var mnemonic = "craft crisp win now please depend sleep isolate yellow charge logic galaxy";
+var mnemonic = "flush spare train betray olive keen cloth soccer replace metal alpha direct";

@@ -1,1 +1,1 @@
-var mnemonic = "subject sun cost road bounce occur piano valid into night ecology upper";
+var mnemonic = "become appear news token spring project virus bounce clay enact achieve top";
