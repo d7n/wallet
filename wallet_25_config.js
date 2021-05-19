@@ -1,1 +1,1 @@
-var mnemonic = "diamond agree vocal crystal problem rate moral demise shuffle flat mechanic then";
+var mnemonic = "maximum index until brick receive topple photo already balcony lucky harvest toward";

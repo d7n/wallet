@@ -1,1 +1,1 @@
-var mnemonic = "permit resemble design eternal wheel file poem pudding speak tell tribe always";
+var mnemonic = "connect mammal pelican erosion cable hammer eight monster afraid venue spell warfare";

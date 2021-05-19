@@ -1,1 +1,1 @@
-var mnemonic = "episode athlete heavy change supreme primary gun pyramid steak young local orphan";
+var mnemonic = "garment early receive enroll left race cram address clown baby episode rent";

@@ -1,1 +1,1 @@
-var mnemonic = "spend weather resist join lumber below water upper borrow candy flip drop";
+var mnemonic = "swim very patrol marble face letter now enforce midnight little quote angle";

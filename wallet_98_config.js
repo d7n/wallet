@@ -1,1 +1,1 @@
-var mnemonic = "they dynamic safe art cool cook ivory metal find holiday mix crack";
+var mnemonic = "century gas core sense rabbit license hunt orchard appear welcome depth nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "tape width document lawn use oak forward grocery arch shell caught main";
+var mnemonic = "music current history asthma tourist saddle cargo issue reward deal crush convince";

@@ -1,1 +1,1 @@
-var mnemonic = "echo common report people claw angle noise topic twelve anchor human blanket";
+var mnemonic = "observe victory junior trouble general hold raccoon food finish bounce cloud jelly";

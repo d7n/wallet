@@ -1,1 +1,1 @@
-var mnemonic = "solar teach transfer laundry sponsor fix atom exotic trick waste labor keep";
+var mnemonic = "celery video toast appear then acquire mouse acquire category damage certain anchor";

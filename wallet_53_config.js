@@ -1,1 +1,1 @@
-var mnemonic = "brand amateur code blood coffee since click staff unable purity combine globe";
+var mnemonic = "churn rate know bargain argue keen library slim viable frost fade resource";

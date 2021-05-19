@@ -1,1 +1,1 @@
-var mnemonic = "empower olympic knife merge bulk elder violin lamp novel frog danger gather";
+var mnemonic = "level wonder invite memory orient interest spare myth antique maze sauce ranch";

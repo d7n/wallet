@@ -1,1 +1,1 @@
-var mnemonic = "crawl gather aim mobile you fresh arctic vehicle gate beef crazy opera";
+var mnemonic = "uphold ugly mask butter hurry spatial elite radar cabin choose nerve describe";

@@ -1,1 +1,1 @@
-var mnemonic = "test wagon mask nuclear chaos ice elbow very few hill human gap";
+var mnemonic = "audit survey glory unit review genius luggage hip radar people sausage gather";

@@ -1,1 +1,1 @@
-var mnemonic = "universe bachelor ladder coin empower talk post quiz outdoor laptop wedding decline";
+var mnemonic = "metal sea apart kiss figure stick drum cycle match answer just truth";

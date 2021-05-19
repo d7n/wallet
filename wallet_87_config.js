@@ -1,1 +1,1 @@
-var mnemonic = "symptom holiday visual isolate purse circle spoil goat mandate bulb emotion loyal";
+var mnemonic = "cram silver exact gift leg this spike sketch room such treat virus";

@@ -1,1 +1,1 @@
-var mnemonic = "stick wolf firm joke accident rail learn atom shuffle nation habit hedgehog";
+var mnemonic = "hazard chunk gloom figure feed bullet ridge planet mercy jar rescue pudding";

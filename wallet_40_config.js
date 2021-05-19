@@ -1,1 +1,1 @@
-var mnemonic = "grant wish cactus verify light guitar snack ostrich affair wreck buffalo spread";
+var mnemonic = "frog main frost express chest love lesson begin stick corn dove electric";

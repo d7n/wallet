@@ -1,1 +1,1 @@
-var mnemonic = "armed grape romance lizard sail omit bounce often trap enemy shine egg";
+var mnemonic = "disease perfect cargo genius length shoulder large spread lawsuit wrist idle shell";

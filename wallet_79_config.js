@@ -1,1 +1,1 @@
-var mnemonic = "safe combine visual phrase road always mesh when casual eagle project step";
+var mnemonic = "champion reopen priority addict unlock visa shaft uphold trip mandate mammal other";

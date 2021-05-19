@@ -1,1 +1,1 @@
-var mnemonic = "coffee tribe wear gospel scrap boat oak resist divorce enemy private furnace";
+var mnemonic = "destroy salute much spend girl review throw soft imitate stuff crazy hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "element machine ski tribe caution cram there alone giraffe claim eager float";
+var mnemonic = "ritual stumble police lunar bench slight crumble vacuum pigeon sketch female damage";

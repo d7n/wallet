@@ -1,1 +1,1 @@
-var mnemonic = "carry science patrol mail ladder combine march crew decorate scatter pulse myth";
+var mnemonic = "vehicle depend sense fury quarter umbrella leg win body skill goddess theory";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk tiny advance bicycle crystal prefer between peace member noble firm match";
+var mnemonic = "muffin burst room leisure round icon barrel spare dizzy empower spoon luggage";

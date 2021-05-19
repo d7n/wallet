@@ -1,1 +1,1 @@
-var mnemonic = "property harsh goat gas soup runway unfair senior good arch slender immune";
+var mnemonic = "layer hurdle shrimp deliver review hedgehog satoshi boy fork alarm detect velvet";

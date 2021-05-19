@@ -1,1 +1,1 @@
-var mnemonic = "nurse keen sunny jump atom again vendor circle soup rotate arrow mistake";
+var mnemonic = "lizard hint hero abuse decorate blouse garden reduce picnic draft use bubble";

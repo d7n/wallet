@@ -1,1 +1,1 @@
-var mnemonic = "old depend please mouse maximum region bid payment luggage fan sister farm";
+var mnemonic = "slender produce beyond cream embody arena news flash torch chimney scorpion castle";

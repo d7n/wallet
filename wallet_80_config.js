@@ -1,1 +1,1 @@
-var mnemonic = "royal attack broken antenna focus project panda tuition split mandate become chief";
+var mnemonic = "chaos glide protect year visit output rescue practice exact armor explain artefact";

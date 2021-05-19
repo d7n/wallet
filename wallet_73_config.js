@@ -1,1 +1,1 @@
-var mnemonic = "satoshi short double tilt payment month defy exclude inhale jeans action oppose";
+var mnemonic = "outdoor addict best amateur edge kid cycle photo unveil virtual prefer novel";

@@ -1,1 +1,1 @@
-var mnemonic = "until rail oil blur save effort major laundry chair rain skill latin";
+var mnemonic = "found ripple age leisure panda jewel glad outside slot found high hire";

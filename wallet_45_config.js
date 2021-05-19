@@ -1,1 +1,1 @@
-var mnemonic = "assault feed jazz fault angry exile heavy unit city dust seminar only";
+var mnemonic = "phone act utility pink master behind tuition huge wagon heavy athlete pattern";

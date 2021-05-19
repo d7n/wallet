@@ -1,1 +1,1 @@
-var mnemonic = "shoot olive detect base crouch allow favorite eyebrow convince enforce air orchard";
+var mnemonic = "either half lizard outdoor infant lion impose consider flower child color guilt";

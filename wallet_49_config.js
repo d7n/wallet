@@ -1,1 +1,1 @@
-var mnemonic = "poem elephant analyst truly silent razor can reward lobster dog ceiling cycle";
+var mnemonic = "genre smooth drip arena over bless daughter blame usage tone game buyer";

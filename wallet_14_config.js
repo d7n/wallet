@@ -1,1 +1,1 @@
-var mnemonic = "universe forward between apart sail rate arrive thrive beach inform used worry";
+var mnemonic = "rigid cricket grid decide horror surprise slender tiny club flower arch scheme";

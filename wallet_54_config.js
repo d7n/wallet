@@ -1,1 +1,1 @@
-var mnemonic = "please memory eager kick cover despair organ physical feature salad tray erupt";
+var mnemonic = "toe pave disease table old decide avocado apple position garden sunset test";

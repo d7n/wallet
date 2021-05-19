@@ -1,1 +1,1 @@
-var mnemonic = "bitter inquiry avocado caught achieve swift coyote stool index tuna cigar stumble";
+var mnemonic = "stomach arrest away sorry exit pyramid hand frozen domain noise grass during";

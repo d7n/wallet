@@ -1,1 +1,1 @@
-var mnemonic = "funny clap coil easy fault note arrive response minor motion whisper glue";
+var mnemonic = "wrist slow avoid material shine citizen scare model echo oak canvas episode";

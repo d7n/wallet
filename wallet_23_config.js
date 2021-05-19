@@ -1,1 +1,1 @@
-var mnemonic = "boss kitchen soldier song area swarm flash monkey immense test solid hover";
+var mnemonic = "design pyramid daring ocean history earn phone original canvas exact awful legend";

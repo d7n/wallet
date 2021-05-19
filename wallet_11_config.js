@@ -1,1 +1,1 @@
-var mnemonic = "degree shy census piece embark exact borrow trip million deputy fetch void";
+var mnemonic = "survey jealous hobby later oppose spray auction much canal city say antique";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist wash basket trap gun patient twice verb coast fiber beyond receive";
+var mnemonic = "require arch print cupboard interest stumble memory clip must wheat siege tiger";

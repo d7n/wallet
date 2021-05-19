@@ -1,1 +1,1 @@
-var mnemonic = "exclude rose sustain point sphere garage crowd parade sphere shoulder outer such";
+var mnemonic = "smile merit goddess mule brief able inform spread steak good aunt gym";

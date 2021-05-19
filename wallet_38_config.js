@@ -1,1 +1,1 @@
-var mnemonic = "reject firm protect hedgehog mixture ketchup wreck true cheese garbage kind waste";
+var mnemonic = "file success ugly snow regular ice cable tribe denial actress beach barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "shed chimney romance fashion wait pass february glue baby cash turkey hidden";
+var mnemonic = "gasp faith select code fit brisk grape liar peanut receive odor action";

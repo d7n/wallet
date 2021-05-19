@@ -1,1 +1,1 @@
-var mnemonic = "more say during used common asset lock thumb quarter gift motion assist";
+var mnemonic = "hazard hundred job trouble feed execute phrase one crack wink pear green";

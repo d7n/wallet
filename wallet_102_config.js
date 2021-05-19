@@ -1,1 +1,1 @@
-var mnemonic = "leopard aspect demise hazard ahead purity spin pizza initial they fresh harvest";
+var mnemonic = "busy wave embark fiscal student enlist pig agree logic very dog subject";

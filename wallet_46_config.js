@@ -1,1 +1,1 @@
-var mnemonic = "waste amateur market coil network cool gentle bread year decide pioneer bulb";
+var mnemonic = "right diary census dish injury raccoon forward item scan advice few prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "build soldier wrist reveal cruise lobster analyst truth latin change guide energy";
+var mnemonic = "fever transfer win vacant genius boy two final bonus wild dwarf floor";

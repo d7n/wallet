@@ -1,1 +1,1 @@
-var mnemonic = "grit essay reveal pass weapon shrug general boy tiny column reopen casino";
+var mnemonic = "know oxygen blind famous used topple sword library say spin zoo faculty";

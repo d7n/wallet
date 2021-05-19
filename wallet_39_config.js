@@ -1,1 +1,1 @@
-var mnemonic = "select exhibit spy mansion surprise portion brief cliff receive list swamp museum";
+var mnemonic = "mixture system cram used proud ladder shadow impulse parrot rule cruel edge";

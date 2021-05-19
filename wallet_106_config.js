@@ -1,1 +1,1 @@
-var mnemonic = "seat woman enable success report agree tape bitter slab romance fabric quality";
+var mnemonic = "light copper urban silent write inspire best puzzle stable juice convince nature";

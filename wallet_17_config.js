@@ -1,1 +1,1 @@
-var mnemonic = "castle season transfer never lecture chimney duck legal tube flavor gold half";
+var mnemonic = "unable stage ill ill hip main orphan ask clerk tank beyond taxi";

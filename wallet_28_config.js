@@ -1,1 +1,1 @@
-var mnemonic = "sauce about shrug cook obscure pyramid spawn vicious man sister sand meadow";
+var mnemonic = "once fringe science army space glimpse little feed fragile mouse eye wagon";

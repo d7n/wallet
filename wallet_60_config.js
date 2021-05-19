@@ -1,1 +1,1 @@
-var mnemonic = "adult illness border slender fall host million prize nature essence siren toast";
+var mnemonic = "hunt easy doll purpose police soft trim vicious grass cup always garage";

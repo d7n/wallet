@@ -1,1 +1,1 @@
-var mnemonic = "slow hood example correct tag brother visual shrimp orient great mobile snack";
+var mnemonic = "gold often human add please dose session please scare review require romance";

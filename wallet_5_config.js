@@ -1,1 +1,1 @@
-var mnemonic = "kit host run spatial mirror accuse slogan slice maximum marine search clump";
+var mnemonic = "kitchen credit pink salute hover eight dune settle soldier brave armor vendor";

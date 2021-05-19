@@ -1,1 +1,1 @@
-var mnemonic = "sand drip any lady beef purity excess cover gorilla advance issue federal";
+var mnemonic = "color common tiny leaf grain earth disorder ethics eyebrow sick screen decorate";

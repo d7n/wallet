@@ -1,1 +1,1 @@
-var mnemonic = "police clutch corn ivory clinic picture chat nephew stable three gentle tenant";
+var mnemonic = "rail flock key female quality purse clump room timber entire avoid orange";

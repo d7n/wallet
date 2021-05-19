@@ -1,1 +1,1 @@
-var mnemonic = "type doll gate system language mass purchase blossom piano tube opera middle";
+var mnemonic = "elevator cancel make frozen vicious maze misery hover write mercy frequent claw";

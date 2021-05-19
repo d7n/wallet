@@ -1,1 +1,1 @@
-var mnemonic = "misery march blame coach razor keen correct ensure arrow tunnel today large";
+var mnemonic = "poet black brand divert treat despair flip surprise creek wait month album";

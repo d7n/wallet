@@ -1,1 +1,1 @@
-var mnemonic = "waste naive cry tornado bike dizzy paddle candy crash grunt casual bonus";
+var mnemonic = "volume polar excess rate lecture list album problem there become ridge this";

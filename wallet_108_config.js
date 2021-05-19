@@ -1,1 +1,1 @@
-var mnemonic = "champion gospel barrel evil glare fun filter side then term mix cruel";
+var mnemonic = "effort unit focus alarm clutch cup crime waste climb rookie meadow autumn";

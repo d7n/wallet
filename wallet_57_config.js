@@ -1,1 +1,1 @@
-var mnemonic = "blade vault weird enable tray upon solution surprise raven excite steel until";
+var mnemonic = "term fortune tiny mansion depth corn page play congress reform wealth turtle";

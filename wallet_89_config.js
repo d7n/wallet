@@ -1,1 +1,1 @@
-var mnemonic = "sand festival once diesel visual ride survey circle casino edge scrap crew";
+var mnemonic = "they deputy flavor adjust gap old vacuum hour soap couple barrel grab";

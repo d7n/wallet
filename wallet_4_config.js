@@ -1,1 +1,1 @@
-var mnemonic = "stay style wheel detail absurd catalog theme access dove dial cereal unit";
+var mnemonic = "twenty stadium sun tenant such awesome female zone gap service wrist bicycle";

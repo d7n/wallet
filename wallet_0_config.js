@@ -1,1 +1,1 @@
-var mnemonic = "spice vessel walk robot fun sea crunch duty way wing coyote doll";
+var mnemonic = "double emerge must rib term cross chuckle month jar indicate message mushroom";

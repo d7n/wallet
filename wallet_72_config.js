@@ -1,1 +1,1 @@
-var mnemonic = "must cat relax pottery rare jar wrap match space desk maple grocery";
+var mnemonic = "genre one habit adapt visit pulse window coconut vast absent gravity vendor";

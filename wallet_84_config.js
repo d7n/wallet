@@ -1,1 +1,1 @@
-var mnemonic = "infant ring beauty method flush family fragile legend blush minimum live cattle";
+var mnemonic = "cloth age fame glory spot giggle boring first school local world crisp";

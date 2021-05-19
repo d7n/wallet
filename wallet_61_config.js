@@ -1,1 +1,1 @@
-var mnemonic = "pipe pattern ice rocket portion chase define solution present proof opera noble";
+var mnemonic = "west stock carbon bitter famous system diamond today trip mixed insane urban";

@@ -1,1 +1,1 @@
-var mnemonic = "banner room pipe alcohol wear twelve cool harbor sponsor steel sock junk";
+var mnemonic = "lecture move deputy glow figure mercy bunker connect rescue demise rescue adapt";

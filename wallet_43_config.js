@@ -1,1 +1,1 @@
-var mnemonic = "picnic trap south portion waste inspire lens sugar gown blast matter grit";
+var mnemonic = "pause blind aerobic choose assume minimum slide amazing panther crawl range citizen";

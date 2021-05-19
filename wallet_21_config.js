@@ -1,1 +1,1 @@
-var mnemonic = "desert curtain convince innocent afraid tired material family balance steel fault valve";
+var mnemonic = "wrestle quick slot destroy shock garbage kit middle cage inflict dilemma tide";

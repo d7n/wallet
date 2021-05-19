@@ -1,1 +1,1 @@
-var mnemonic = "black brick clinic tourist tongue dial recycle animal must limit talk laptop";
+var mnemonic = "segment cluster raise brave skate skirt program powder drive jewel purpose enter";

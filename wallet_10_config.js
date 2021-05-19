@@ -1,1 +1,1 @@
-var mnemonic = "hungry small reveal pupil end crystal cargo glow throw twist width chair";
+var mnemonic = "tackle trick business hood rice stick hat unique type raven figure enroll";

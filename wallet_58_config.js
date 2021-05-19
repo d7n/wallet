@@ -1,1 +1,1 @@
-var mnemonic = "visual budget range license second paddle glare concert secret mesh rescue dove";
+var mnemonic = "topic tool galaxy card present diesel boil staff cage label ball benefit";

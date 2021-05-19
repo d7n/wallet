@@ -1,1 +1,1 @@
-var mnemonic = "sort oxygen public carpet shallow federal invest matrix bid dish parrot clip";
+var mnemonic = "run glance lake clean year shine harsh cargo involve ethics green weird";

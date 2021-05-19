@@ -1,1 +1,1 @@
-var mnemonic = "apology peanut fox indicate drink culture bleak giggle vital fragile icon april";
+var mnemonic = "slice abandon brick embody since repeat follow mass enjoy garlic tree twin";

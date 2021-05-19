@@ -1,1 +1,1 @@
-var mnemonic = "curious long thunder pistol finger snap trouble future frozen recycle rail child";
+var mnemonic = "radar remind exist episode forward rabbit impulse duty prosper furnace razor empower";

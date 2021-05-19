@@ -1,1 +1,1 @@
-var mnemonic = "spot traffic usage blanket work rhythm gauge never message faith sense minor";
+var mnemonic = "luxury drastic angle journey duck shadow match screen budget wage during uphold";

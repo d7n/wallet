@@ -1,1 +1,1 @@
-var mnemonic = "easy cry mind amazing live host hidden illness accident nation reward buzz";
+var mnemonic = "slow because bulb hint hammer lottery exhaust myth garbage try twin ring";

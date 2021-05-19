@@ -1,1 +1,1 @@
-var mnemonic = "always earn best inside copy arrive cigar way online before dream flock";
+var mnemonic = "inside joy memory illness vacuum easily loyal coffee mass garage oil awkward";

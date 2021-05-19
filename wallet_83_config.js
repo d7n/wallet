@@ -1,1 +1,1 @@
-var mnemonic = "chase hole acquire mad cloth ring height detect kit want menu solve";
+var mnemonic = "shrimp pattern oil cupboard torch paddle mirror seed promote phrase drum pistol";

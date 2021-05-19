@@ -1,1 +1,1 @@
-var mnemonic = "song settle pupil crouch squirrel regret group track infant shed simple buyer";
+var mnemonic = "unveil work chaos will maple depth mix suspect gate moral dice crouch";

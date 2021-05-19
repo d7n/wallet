@@ -1,1 +1,1 @@
-var mnemonic = "able alien daring alley latin small antenna stem cause donor net achieve";
+var mnemonic = "direct general tape add lady resemble pyramid visual transfer broom market bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "execute smart special release avoid run sadness faith common reject scare that";
+var mnemonic = "flower outside purse define twin myth proud alert mesh garden cherry rail";

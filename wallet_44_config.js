@@ -1,1 +1,1 @@
-var mnemonic = "attitude casual edge dose local jump install ocean now glow define ceiling";
+var mnemonic = "true morning fire swallow middle belt wolf attend half allow leopard ghost";

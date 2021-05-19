@@ -1,1 +1,1 @@
-var mnemonic = "basket theory skull battle talk eager violin brisk about kingdom purpose seat";
+var mnemonic = "cart laundry float second stumble will wet knife spare deal eye swear";

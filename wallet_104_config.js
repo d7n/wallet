@@ -1,1 +1,1 @@
-var mnemonic = "custom artwork erode inflict budget since come stamp solution pair scrub rare";
+var mnemonic = "cabin owner glass crisp short raise dream lamp roast connect lake drop";

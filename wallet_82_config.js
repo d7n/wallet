@@ -1,1 +1,1 @@
-var mnemonic = "run bean symbol artist tiny amazing sadness ritual trend satoshi wagon head";
+var mnemonic = "escape parent frost rug swallow aisle rookie critic tilt admit grace tide";

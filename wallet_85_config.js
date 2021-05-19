@@ -1,1 +1,1 @@
-var mnemonic = "flush pill tattoo inspire plate bind tomato cry check license grant primary";
+var mnemonic = "human swamp push aspect clean make online combine truth saddle mad scrap";

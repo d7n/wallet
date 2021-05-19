@@ -1,1 +1,1 @@
-var mnemonic = "found that hour special innocent step tired able shock destroy hawk chronic";
+var mnemonic = "until ribbon isolate dizzy flavor estate leave response cry model script head";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke pig antique police problem car exit club warfare awful script virtual";
+var mnemonic = "govern aunt reject swear dolphin repeat gown census cable ceiling arctic club";

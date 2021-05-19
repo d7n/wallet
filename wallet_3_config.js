@@ -1,1 +1,1 @@
-var mnemonic = "bargain cargo issue need property two wrap rally message occur spell such";
+var mnemonic = "vital weasel candy ability female cotton mosquito tissue attend fee evidence demise";
