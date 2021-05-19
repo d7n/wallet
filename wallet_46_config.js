@@ -1,1 +1,1 @@
-var mnemonic = "tray artwork lesson suffer alone churn protect cradle journey spray above biology";
+var mnemonic = "flock term rate then annual hip tragic lock build cause car pizza";

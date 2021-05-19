@@ -1,1 +1,1 @@
-var mnemonic = "earth great access swift enter once recipe mass setup demand number grid";
+var mnemonic = "judge uncle minor predict three slow body mother prize chief cry rural";

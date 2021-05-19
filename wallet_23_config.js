@@ -1,1 +1,1 @@
-var mnemonic = "soft siege caught leopard divorce ramp brand life exotic bullet prize differ";
+var mnemonic = "lesson tuna pigeon clerk exile actual vacuum erode economy film sustain wife";

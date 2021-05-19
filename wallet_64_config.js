@@ -1,1 +1,1 @@
-var mnemonic = "copy domain logic urge total race grass tornado bleak artefact act gather";
+var mnemonic = "patient comfort rival ten adult panther champion ice paper survey layer turn";

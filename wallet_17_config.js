@@ -1,1 +1,1 @@
-var mnemonic = "loyal screen humor reward rifle check orange enter chimney school token ritual";
+var mnemonic = "oak number assault stay receive wall wagon title diamond rib cheese act";

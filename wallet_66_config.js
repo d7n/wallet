@@ -1,1 +1,1 @@
-var mnemonic = "mail hobby power wisdom wrap speak ripple grid hip inquiry leader ripple";
+var mnemonic = "gorilla baby cloth sausage spot swamp hero nephew icon silver gather love";

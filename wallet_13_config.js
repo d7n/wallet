@@ -1,1 +1,1 @@
-var mnemonic = "video huge install away coconut flavor genre organ joy grain angle tail";
+var mnemonic = "shadow scissors keep equip steel ski month axis brain notice museum praise";

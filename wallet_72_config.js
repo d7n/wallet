@@ -1,1 +1,1 @@
-var mnemonic = "economy name today muscle swamp machine proof argue grape two wet celery";
+var mnemonic = "million series plastic priority family detect virtual column toe noise brisk boost";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue palm helmet afraid police nothing nuclear submit brass unique panda prepare";
+var mnemonic = "penalty garden have rhythm immune dog weasel come mutual canvas market toy";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate love picnic nature chapter elite coast opinion gown water gorilla fresh";
+var mnemonic = "fade jaguar angry project autumn paddle embark lottery guess tool pear bar";

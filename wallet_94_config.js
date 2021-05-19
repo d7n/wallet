@@ -1,1 +1,1 @@
-var mnemonic = "lab palm farm exhibit shrug plastic snap intact deer coral agent sell";
+var mnemonic = "two prevent home cactus opera into insane knife benefit supreme market repair";

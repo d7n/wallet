@@ -1,1 +1,1 @@
-var mnemonic = "churn diet march knock sign cute cabbage rally attitude confirm concert sibling";
+var mnemonic = "space lesson ill child phrase fun inch quality board unveil decline maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "wage hurt custom hope task regular naive swift cherry december bird squeeze";
+var mnemonic = "unable book salon next author bench flock face omit word desert key";

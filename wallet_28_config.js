@@ -1,1 +1,1 @@
-var mnemonic = "merry into abuse jungle melody exhaust sausage finger ivory gold brisk link";
+var mnemonic = "produce diamond cash sample high sadness island logic near raven language wrist";

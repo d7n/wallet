@@ -1,1 +1,1 @@
-var mnemonic = "endless box sudden cousin later stool position project multiply metal parade disagree";
+var mnemonic = "there skirt seed access hammer million elegant auto test stand curve prepare";

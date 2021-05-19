@@ -1,1 +1,1 @@
-var mnemonic = "bridge congress sunny hold amazing fancy dune cat swallow genuine album mask";
+var mnemonic = "cart shaft raven need poverty spy crucial layer comfort neutral ozone inspire";

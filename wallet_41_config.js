@@ -1,1 +1,1 @@
-var mnemonic = "obtain switch machine ship school impact vote success chef tourist wasp turn";
+var mnemonic = "gossip layer acquire craft note tiger maple certain clutch mechanic chest sun";

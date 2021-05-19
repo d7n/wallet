@@ -1,1 +1,1 @@
-var mnemonic = "warfare festival develop enough foam friend enough night access weird curve viable";
+var mnemonic = "worth van shield execute member face loyal tip funny put crime bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect soft unfair jazz cotton fix laugh blood shine ceiling front gravity";
+var mnemonic = "letter axis breeze funny lawsuit ahead enough abuse liar ghost word almost";

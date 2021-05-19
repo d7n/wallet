@@ -1,1 +1,1 @@
-var mnemonic = "you runway oblige elite sorry ride move parrot lobster onion prepare space";
+var mnemonic = "oppose nation wheel pilot force drip excess laundry ride denial slice aware";

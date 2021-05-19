@@ -1,1 +1,1 @@
-var mnemonic = "view security swarm unfold now dose forum quiz fire bamboo rapid useful";
+var mnemonic = "push fantasy cave bubble inherit fence bird catch claw shield spin shoot";

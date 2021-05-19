@@ -1,1 +1,1 @@
-var mnemonic = "orient industry maximum author aspect typical fox velvet wash sudden nut slot";
+var mnemonic = "report hedgehog luxury hundred novel face later armor tree erupt word pet";

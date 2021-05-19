@@ -1,1 +1,1 @@
-var mnemonic = "offer crack excess cost apple ordinary payment kite dragon fall crisp retreat";
+var mnemonic = "glow debris duty random rough false slam expand obtain squirrel pitch zebra";

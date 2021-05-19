@@ -1,1 +1,1 @@
-var mnemonic = "bachelor filter monitor build ethics session sand desk rural imitate spike mandate";
+var mnemonic = "right outside glimpse mystery relax tortoise adult age cliff puzzle noodle turn";

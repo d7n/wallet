@@ -1,1 +1,1 @@
-var mnemonic = "wild cup fluid blade magic surprise observe human kitten choice turn protect";
+var mnemonic = "level grass glass purity economy dress kind tray spirit grape ginger april";

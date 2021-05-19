@@ -1,1 +1,1 @@
-var mnemonic = "romance laundry ladder number alien orange crane dentist laundry lock long fun";
+var mnemonic = "viable ocean option comic whisper bless wonder load dirt autumn person save";

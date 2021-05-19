@@ -1,1 +1,1 @@
-var mnemonic = "social grief gossip raw piece height snack kitchen acquire fix remember biology";
+var mnemonic = "differ dream shaft rough boy govern sniff decide detect grain abstract brush";

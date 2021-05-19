@@ -1,1 +1,1 @@
-var mnemonic = "twelve they laundry economy flock develop gauge letter echo craft anger stage";
+var mnemonic = "ski image visual achieve stem nature major anger dutch width saddle type";

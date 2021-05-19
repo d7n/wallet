@@ -1,1 +1,1 @@
-var mnemonic = "knock valley bounce hip adapt cable siren blush drill vocal opinion duck";
+var mnemonic = "shock expire obey desert unusual street cart bird enjoy whip gadget baby";

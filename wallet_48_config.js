@@ -1,1 +1,1 @@
-var mnemonic = "unlock able giant sweet act hole ozone wife web flash sniff rifle";
+var mnemonic = "satoshi gym bean sense enough ripple zero cherry naive spirit post ignore";

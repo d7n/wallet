@@ -1,1 +1,1 @@
-var mnemonic = "able drama waste crouch state hunt network nothing antenna gorilla puzzle armor";
+var mnemonic = "neglect one divorce cargo electric sniff trial close fall crisp great doll";

@@ -1,1 +1,1 @@
-var mnemonic = "question table coach game tide pole attack sauce jewel elite rug misery";
+var mnemonic = "castle actual aisle category bamboo chair captain act ranch toss wire metal";

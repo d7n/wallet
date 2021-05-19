@@ -1,1 +1,1 @@
-var mnemonic = "claw cancel wreck dirt apology argue mouse aunt bargain describe bless harsh";
+var mnemonic = "spell smart stadium thrive fantasy evoke excite produce client phrase found before";

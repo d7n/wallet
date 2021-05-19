@@ -1,1 +1,1 @@
-var mnemonic = "gravity dinosaur guide memory rug need tube process outdoor misery favorite collect";
+var mnemonic = "lava agree clock possible sand diamond board exchange duty pretty fever lyrics";

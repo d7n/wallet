@@ -1,1 +1,1 @@
-var mnemonic = "drill puzzle palace cross load nothing praise welcome public monitor helmet teach";
+var mnemonic = "vicious wedding cost bread hood medal popular require coconut worry effort pass";

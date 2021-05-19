@@ -1,1 +1,1 @@
-var mnemonic = "attack share present bless vicious tragic card trigger swap heavy oil mind";
+var mnemonic = "idea motor rose total urban supply quality layer phone dream beef cool";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle market excuse citizen crouch shallow priority base route slide fabric cabbage";
+var mnemonic = "pair wolf afraid day culture gesture lunar vibrant teach huge century gown";

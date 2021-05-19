@@ -1,1 +1,1 @@
-var mnemonic = "since plug flee rely control pumpkin noodle write million three pony honey";
+var mnemonic = "this buzz mix traffic child lumber anxiety awkward bike dignity render average";

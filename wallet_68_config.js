@@ -1,1 +1,1 @@
-var mnemonic = "trouble vintage merit drink bind twice muscle viable fix invite already armor";
+var mnemonic = "best fatal reveal decide adjust notable black between off shoe ribbon adjust";

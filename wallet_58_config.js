@@ -1,1 +1,1 @@
-var mnemonic = "fever segment table protect equip heart urban alpha smile town absorb shrug";
+var mnemonic = "catch two party useless tell arch album lounge mouse scatter rapid enemy";

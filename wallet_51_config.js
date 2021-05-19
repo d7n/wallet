@@ -1,1 +1,1 @@
-var mnemonic = "finish clay imitate heavy drop draft attack bunker ramp describe trim double";
+var mnemonic = "misery trial citizen street inside document race sorry cigar agent soft defense";

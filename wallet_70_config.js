@@ -1,1 +1,1 @@
-var mnemonic = "abuse pulp laundry pool birth air two level razor holiday globe alley";
+var mnemonic = "enough asset vacant hour tenant maximum render drop soon plate melody basic";

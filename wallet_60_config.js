@@ -1,1 +1,1 @@
-var mnemonic = "host casino census drastic rug tip someone arch priority sing satoshi body";
+var mnemonic = "account food skirt credit ahead tiny ranch bring vendor genre shiver brand";

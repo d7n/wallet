@@ -1,1 +1,1 @@
-var mnemonic = "cube donor visual letter kite level coach among magic initial despair clutch";
+var mnemonic = "vicious forum animal hollow color shop option memory version brand year stable";

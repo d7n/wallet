@@ -1,1 +1,1 @@
-var mnemonic = "team artwork artefact process furnace shadow cluster repeat hill depend suit flip";
+var mnemonic = "pizza cram raise happy immune goose plate peace say traffic bacon spin";

@@ -1,1 +1,1 @@
-var mnemonic = "green organ category chimney tiny worry limit pull equal language love pepper";
+var mnemonic = "object little acquire mirror hope lend debate choose aerobic perfect nature magic";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion survey wash wheel again laugh result victory uniform runway powder bomb";
+var mnemonic = "grief lobster time game clean ripple million sunset spoon craft blame fire";

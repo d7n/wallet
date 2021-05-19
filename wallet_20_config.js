@@ -1,1 +1,1 @@
-var mnemonic = "subject cram innocent open exchange pact champion opinion woman click cube forest";
+var mnemonic = "sick uncle cabbage acquire junior radio badge harvest question glove april napkin";

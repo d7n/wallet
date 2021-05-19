@@ -1,1 +1,1 @@
-var mnemonic = "outer pluck huge horse mixture ancient copy evidence diary debris fury rabbit";
+var mnemonic = "garlic surface inform need purse long garden boring truck noodle ocean reunion";

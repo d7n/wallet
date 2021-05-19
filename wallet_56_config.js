@@ -1,1 +1,1 @@
-var mnemonic = "wrestle reopen antenna lamp protect echo hour mail guide sand push kid";
+var mnemonic = "zoo butter walnut cinnamon act quiz dawn electric divorce spirit thunder frozen";

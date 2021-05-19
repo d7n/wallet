@@ -1,1 +1,1 @@
-var mnemonic = "flee item stand exile icon permit chat various meadow sail drift rhythm";
+var mnemonic = "dutch pepper glass dolphin short fury energy enemy actor able enable wealth";

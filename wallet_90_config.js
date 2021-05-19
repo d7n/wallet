@@ -1,1 +1,1 @@
-var mnemonic = "ribbon bright awkward roast noodle rival limit century cradle enrich tired bean";
+var mnemonic = "soul oil nest meat spin lottery fame grain clump pact become quality";

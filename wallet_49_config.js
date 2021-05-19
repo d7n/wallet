@@ -1,1 +1,1 @@
-var mnemonic = "shine coil cycle timber custom dinner pelican whisper glance noble dust gift";
+var mnemonic = "blade unknown evil jar aisle roof gauge ask abandon mistake street tackle";

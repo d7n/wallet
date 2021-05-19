@@ -1,1 +1,1 @@
-var mnemonic = "clown tent fault steak stamp need forward middle fish day satoshi almost";
+var mnemonic = "fox smoke convince buffalo debate bomb tunnel clip explain script expand image";

@@ -1,1 +1,1 @@
-var mnemonic = "chair mirror stick account shallow quiz cotton dress quote forward hub leaf";
+var mnemonic = "apology grant stand find scorpion fish business nest question pause three fine";

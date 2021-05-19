@@ -1,1 +1,1 @@
-var mnemonic = "hospital stomach globe job twin food patrol patch lazy subject wreck master";
+var mnemonic = "borrow have sunset cupboard adult ask scheme winter churn dance tennis height";

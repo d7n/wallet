@@ -1,1 +1,1 @@
-var mnemonic = "talk ribbon proof effort speak puppy wolf coffee marine foil blast pair";
+var mnemonic = "accident flavor suffer ahead hungry canoe measure guitar lumber satisfy border hedgehog";

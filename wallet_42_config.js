@@ -1,1 +1,1 @@
-var mnemonic = "wait avoid goddess require stadium pledge remain melody drill supreme sing humble";
+var mnemonic = "hazard tank blush congress life find genre token giant option tornado moral";

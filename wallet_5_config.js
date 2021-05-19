@@ -1,1 +1,1 @@
-var mnemonic = "boost dream online guard rocket fire virtual across pipe gap indoor horror";
+var mnemonic = "seek argue code kiss alter laptop shaft describe dash enlist hip small";

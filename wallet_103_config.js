@@ -1,1 +1,1 @@
-var mnemonic = "swarm avocado ladder album inside hero dad analyst curious castle that unfold";
+var mnemonic = "orchard practice zoo property pen earth speed into provide fun such merge";

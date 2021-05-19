@@ -1,1 +1,1 @@
-var mnemonic = "belt palm electric park winner erase lab clarify system convince visual nephew";
+var mnemonic = "hotel blouse impact lemon area neglect random clap observe mind task mass";

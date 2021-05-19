@@ -1,1 +1,1 @@
-var mnemonic = "desk rough nose abandon glare rebuild bless wheat scene rabbit robust wing";
+var mnemonic = "enjoy trim state above better tortoise resemble gas budget obscure regular myth";

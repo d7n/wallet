@@ -1,1 +1,1 @@
-var mnemonic = "transfer pilot kid chicken patrol identify prison alcohol around remind champion rain";
+var mnemonic = "action hen head chicken ill time mushroom rice announce reunion ripple prefer";

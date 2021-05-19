@@ -1,1 +1,1 @@
-var mnemonic = "actress term poverty glory misery helmet lonely mesh illness boring birth elite";
+var mnemonic = "advice hub tomorrow rough lumber review kidney system phone unable turtle crop";

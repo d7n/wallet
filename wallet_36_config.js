@@ -1,1 +1,1 @@
-var mnemonic = "mobile crew next budget scale wool upon chase table title ask boat";
+var mnemonic = "pioneer hint junk scheme leader visit guess reward face comic student cigar";

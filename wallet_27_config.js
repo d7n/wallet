@@ -1,1 +1,1 @@
-var mnemonic = "media town pool cake deer plunge lava snow vague liberty soda review";
+var mnemonic = "stick letter industry shed sorry amount replace sniff column olive common seminar";

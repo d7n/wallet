@@ -1,1 +1,1 @@
-var mnemonic = "benefit decorate drill six bicycle glow crisp coast gain reflect chuckle harbor";
+var mnemonic = "ship door undo fog rival split order edge measure sun syrup grocery";

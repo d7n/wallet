@@ -1,1 +1,1 @@
-var mnemonic = "energy soldier flavor stem about vault chaos head glory income opinion screen";
+var mnemonic = "guilt soap wrist fury east basket humor wedding tortoise robust flush provide";

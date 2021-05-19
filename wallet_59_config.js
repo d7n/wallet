@@ -1,1 +1,1 @@
-var mnemonic = "domain alarm train bargain grant menu gaze identify napkin change enough outer";
+var mnemonic = "wisdom voyage sauce nerve upgrade unaware hobby total brain vapor sea portion";

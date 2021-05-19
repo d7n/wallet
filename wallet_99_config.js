@@ -1,1 +1,1 @@
-var mnemonic = "adjust fix stove market cricket dragon donor today oxygen auction keep manage";
+var mnemonic = "shock replace vapor someone car federal wool injury disorder curtain ensure foil";

@@ -1,1 +1,1 @@
-var mnemonic = "case person pupil creek wink slight craft math else dial decline wealth";
+var mnemonic = "organ energy north topic sweet army paddle snake imitate double garbage soup";

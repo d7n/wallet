@@ -1,1 +1,1 @@
-var mnemonic = "aspect forward wine submit ball piano demise stairs online stand breeze easy";
+var mnemonic = "photo excuse soldier welcome sense hobby behind family wave pencil wolf quiz";

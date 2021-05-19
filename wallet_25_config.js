@@ -1,1 +1,1 @@
-var mnemonic = "advance stem path lawn puzzle juice imitate absurd album reopen surge gas";
+var mnemonic = "canvas cluster frequent boat despair arrow cave suspect hair youth lumber picture";

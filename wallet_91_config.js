@@ -1,1 +1,1 @@
-var mnemonic = "catch reform couch interest impact mountain trial romance cousin trouble minor sentence";
+var mnemonic = "volcano multiply job team nurse day margin ghost favorite baby reveal drum";

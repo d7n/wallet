@@ -1,1 +1,1 @@
-var mnemonic = "sauce lock kite any young pigeon account noodle march open omit grit";
+var mnemonic = "claw device winter yard wink jealous emerge slide grunt broom sample fancy";

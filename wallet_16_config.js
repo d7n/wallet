@@ -1,1 +1,1 @@
-var mnemonic = "arrest admit sadness giggle wrist scan muscle tell life mushroom nominee infant";
+var mnemonic = "cool dance identify police acoustic puppy surface annual income chimney jeans attitude";

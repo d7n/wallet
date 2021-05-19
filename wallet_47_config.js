@@ -1,1 +1,1 @@
-var mnemonic = "dad shrimp gossip finish sport kick hold vital clean calm basket entry";
+var mnemonic = "fluid uniform doctor element dentist bicycle lion pass noise mention tennis sunny";

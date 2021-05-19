@@ -1,1 +1,1 @@
-var mnemonic = "slab crawl exit survey usage find auction current balcony blur galaxy depth";
+var mnemonic = "word force peanut small inhale vast purse hotel exclude anger humble elite";

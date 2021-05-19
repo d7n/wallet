@@ -1,1 +1,1 @@
-var mnemonic = "head unlock random village fence kiwi inflict equip obey toe hurt canvas";
+var mnemonic = "toilet throw injury sheriff degree dignity kitchen drum speak shuffle warm pottery";

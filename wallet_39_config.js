@@ -1,1 +1,1 @@
-var mnemonic = "tilt muscle setup combine rally radio scale gossip hammer margin father obvious";
+var mnemonic = "alert uphold clump valid segment size mushroom fat essay offer option cross";

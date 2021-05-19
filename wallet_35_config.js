@@ -1,1 +1,1 @@
-var mnemonic = "knock second awake hire double sun sad view stone outside attend east";
+var mnemonic = "adjust assault country pipe increase inspire robot paper sun gold across advance";

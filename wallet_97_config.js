@@ -1,1 +1,1 @@
-var mnemonic = "chicken spring winner spawn pitch empty memory weather disorder anchor choice cool";
+var mnemonic = "envelope decrease impose twice medal trigger pipe riot void velvet circle sound";

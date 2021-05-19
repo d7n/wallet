@@ -1,1 +1,1 @@
-var mnemonic = "core owner sketch pipe promote click flight penalty brother imitate trumpet process";
+var mnemonic = "faith achieve stand unhappy sponsor cat response swarm stone trust display ordinary";

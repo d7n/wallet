@@ -1,1 +1,1 @@
-var mnemonic = "exist private change early depart antique cruise economy spoil improve hurry erode";
+var mnemonic = "tennis deal bonus horse ghost atom cabin sadness grit team jealous latin";

@@ -1,1 +1,1 @@
-var mnemonic = "spend shoot provide mixed harsh tube laundry floor hole flower degree special";
+var mnemonic = "board surface bronze spray kingdom convince bronze swing zone insect eyebrow just";

@@ -1,1 +1,1 @@
-var mnemonic = "grab chuckle dumb laptop jump actual choice addict simple guilt life hour";
+var mnemonic = "dish recall defense gift clay park wonder choose embark cradle citizen sock";

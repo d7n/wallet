@@ -1,1 +1,1 @@
-var mnemonic = "parade sea certain subject capable seminar tuition boil recall answer since sibling";
+var mnemonic = "frequent spatial fresh diamond repair echo claw tell cross hurt casino urban";

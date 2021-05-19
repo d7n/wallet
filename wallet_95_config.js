@@ -1,1 +1,1 @@
-var mnemonic = "wise squirrel effort enlist public weird prize example menu clerk build scorpion";
+var mnemonic = "valid knee push leave fossil future prepare fall hundred zebra west ticket";

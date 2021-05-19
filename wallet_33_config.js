@@ -1,1 +1,1 @@
-var mnemonic = "same trust sadness car fabric sport enact stumble picnic arm eager ginger";
+var mnemonic = "harsh addict lion member mercy dish diesel hard throw renew two welcome";

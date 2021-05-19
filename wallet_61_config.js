@@ -1,1 +1,1 @@
-var mnemonic = "skate play gesture paper lion weather unlock gravity spoon mule range ozone";
+var mnemonic = "forward stock radio quality spider teach worth excess wait proud middle pair";
