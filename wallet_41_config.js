@@ -1,1 +1,1 @@
-var mnemonic = "wish table slight squeeze chaos tobacco point sad music struggle damage crawl";
+var mnemonic = "odor twist fancy deputy blind pretty dwarf spoil weapon unfair minimum fire";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward start long wise hint shed glass hamster broccoli cloth piano saddle";
+var mnemonic = "govern hamster start quit furnace cereal city sing opinion convince inflict border";

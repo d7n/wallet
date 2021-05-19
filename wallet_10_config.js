@@ -1,1 +1,1 @@
-var mnemonic = "wild normal stand pumpkin acid short track tape common grit derive resemble";
+var mnemonic = "cactus water tail sentence edge intact tooth charge muscle speak wear reflect";

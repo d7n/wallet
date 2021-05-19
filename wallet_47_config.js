@@ -1,1 +1,1 @@
-var mnemonic = "input absent situate two cross style forget issue news radar forward raise";
+var mnemonic = "grunt tag cigar connect foil soup assist error story mixture regular state";

@@ -1,1 +1,1 @@
-var mnemonic = "join skate better nut smoke swift cross neither grant ball glad reveal";
+var mnemonic = "census royal hurdle rent frown crush circle split rent genre report cube";

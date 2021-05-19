@@ -1,1 +1,1 @@
-var mnemonic = "jelly oyster badge hood public solution hello first box flag rally still";
+var mnemonic = "flight absorb topple toddler canyon cabin bring album same often rather possible";

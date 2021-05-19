@@ -1,1 +1,1 @@
-var mnemonic = "portion draft journey input shrug isolate nest ribbon skull slush spread task";
+var mnemonic = "injury twelve senior purse battle path truly parade chalk fade winner viable";

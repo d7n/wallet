@@ -1,1 +1,1 @@
-var mnemonic = "manual expire hard gauge pulse still choose flush play math settle master";
+var mnemonic = "pledge simple topic embrace scissors emotion bonus island attract nominee animal cry";

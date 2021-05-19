@@ -1,1 +1,1 @@
-var mnemonic = "broccoli silent danger melody pool cheese where turtle soda sting laptop crew";
+var mnemonic = "praise leg decline before into camp alter knife sphere tennis pig chronic";

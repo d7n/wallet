@@ -1,1 +1,1 @@
-var mnemonic = "sea sausage bind coach suggest transfer parent dust fluid candy rapid oval";
+var mnemonic = "sketch foster swamp video skill order analyst spoon thunder miracle trash waste";

@@ -1,1 +1,1 @@
-var mnemonic = "slender fatal annual oval metal melody window rib where quote mirror treat";
+var mnemonic = "box chat debate skin orange normal record illness dynamic recipe pumpkin calm";

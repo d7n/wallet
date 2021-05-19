@@ -1,1 +1,1 @@
-var mnemonic = "emotion message recall agree curve manage long flash paddle doctor essay shy";
+var mnemonic = "combine box cup door waste normal acid panther velvet brave model business";

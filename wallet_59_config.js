@@ -1,1 +1,1 @@
-var mnemonic = "shock knife arrive hip city army black crawl hire cloth suffer stomach";
+var mnemonic = "income floor clock feel style wire heavy bag noodle choice soul crowd";

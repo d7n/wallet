@@ -1,1 +1,1 @@
-var mnemonic = "honey senior pigeon neck dinner magnet evoke fatal work forest tonight mobile";
+var mnemonic = "kick siege ticket kind crunch repeat outer review submit acid stage glass";

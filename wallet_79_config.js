@@ -1,1 +1,1 @@
-var mnemonic = "then surprise stairs human hood cave sudden vintage bridge awesome update west";
+var mnemonic = "flower afraid nation slot cruel flavor soon sister metal level bid magic";

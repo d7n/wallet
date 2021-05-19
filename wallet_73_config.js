@@ -1,1 +1,1 @@
-var mnemonic = "uncover elite mom chuckle idle pipe reform broken sad job pyramid code";
+var mnemonic = "hood peanut above bar siren resource patient rent toward great uncle lab";

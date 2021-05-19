@@ -1,1 +1,1 @@
-var mnemonic = "menu great orphan obvious miracle upgrade voyage aim tragic despair pilot staff";
+var mnemonic = "proud cloth vacant any industry proud youth pizza buddy million december piano";

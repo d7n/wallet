@@ -1,1 +1,1 @@
-var mnemonic = "tongue test finish brick guitar foil leave brief merge food rabbit cactus";
+var mnemonic = "tray grant little spare wool dumb castle use play noble early grape";

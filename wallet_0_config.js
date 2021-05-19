@@ -1,1 +1,1 @@
-var mnemonic = "express gallery alter earth grid argue panther demise major group refuse favorite";
+var mnemonic = "bitter skirt primary remind brain kiwi sense grit duck slow conduct width";

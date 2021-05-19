@@ -1,1 +1,1 @@
-var mnemonic = "leaf garage coin leisure shuffle town soup rural blue south open useful";
+var mnemonic = "defy mask cruise treat supreme hurry destroy hub summer bachelor focus differ";

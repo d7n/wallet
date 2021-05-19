@@ -1,1 +1,1 @@
-var mnemonic = "what wrong either crazy canoe earth runway priority sick unusual hood diary";
+var mnemonic = "husband wheel heavy blind loud combine pride quarter garbage page solution flock";

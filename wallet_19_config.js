@@ -1,1 +1,1 @@
-var mnemonic = "cook witness pilot undo flash bring then window picture because omit film";
+var mnemonic = "danger rain since night harvest position other master major critic claim bean";

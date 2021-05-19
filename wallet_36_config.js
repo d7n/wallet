@@ -1,1 +1,1 @@
-var mnemonic = "whale quick velvet universe inquiry pencil inform wash blue despair demand toss";
+var mnemonic = "upon exit fee torch tourist figure smart spread film fog witness unhappy";

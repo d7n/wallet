@@ -1,1 +1,1 @@
-var mnemonic = "song tube tomorrow damp clutch produce delay recycle meadow art half wreck";
+var mnemonic = "turtle obvious torch liquid wedding mirror aerobic weekend surface sign carpet wire";

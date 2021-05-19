@@ -1,1 +1,1 @@
-var mnemonic = "stuff bread distance boss lab long transfer win unaware riot fiction celery";
+var mnemonic = "maximum damage pepper gate fiber pill sting swap sketch tree run animal";

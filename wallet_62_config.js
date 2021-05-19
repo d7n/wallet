@@ -1,1 +1,1 @@
-var mnemonic = "guitar target nose address edge ignore guard usual perfect corn around pioneer";
+var mnemonic = "bleak cigar slow hello earn since curious thumb found brass federal boy";

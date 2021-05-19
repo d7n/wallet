@@ -1,1 +1,1 @@
-var mnemonic = "warrior such energy save knife action culture junior gather tonight genre library";
+var mnemonic = "manage nerve coral lawn monster dumb dentist ritual always accuse merit sorry";

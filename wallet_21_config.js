@@ -1,1 +1,1 @@
-var mnemonic = "symbol zebra armor ancient tank short firm immense spell furnace venture upset";
+var mnemonic = "labor unveil piano stadium remove wrist wolf name mass aerobic track same";

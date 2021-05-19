@@ -1,1 +1,1 @@
-var mnemonic = "next noodle volume baby material match puppy impulse unlock one lava coyote";
+var mnemonic = "accident frame obey useful hybrid awake upset general steak measure stereo enemy";

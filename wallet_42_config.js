@@ -1,1 +1,1 @@
-var mnemonic = "hazard make human expand fat glove abuse category blade reform hungry grab";
+var mnemonic = "occur utility effort draw analyst belt protect merit rib mountain amateur clog";

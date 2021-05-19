@@ -1,1 +1,1 @@
-var mnemonic = "industry save finger caution turtle expand move supreme purse nominee frequent holiday";
+var mnemonic = "lawn switch prepare brave spike broccoli island rich decline basic unaware arrest";

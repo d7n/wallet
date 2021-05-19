@@ -1,1 +1,1 @@
-var mnemonic = "pear execute update toward grain depart film bar loop injury foot prefer";
+var mnemonic = "sweet devote claim salon few friend feed defense deer open hungry lecture";

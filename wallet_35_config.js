@@ -1,1 +1,1 @@
-var mnemonic = "drip miss ritual club horn young emotion item armed juice diesel upper";
+var mnemonic = "faculty swing puppy subway cigar visa salute finish display oil garden already";

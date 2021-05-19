@@ -1,1 +1,1 @@
-var mnemonic = "idea remind remember dizzy fitness tell grape private work crunch orient yellow";
+var mnemonic = "try hood beauty slot safe truck situate oval minor solve seminar stamp";

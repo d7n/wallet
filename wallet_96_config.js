@@ -1,1 +1,1 @@
-var mnemonic = "sister radio clinic oblige burger brand perfect palace kind maid illegal trophy";
+var mnemonic = "seed initial success brother athlete long old clutch trash margin warm guard";

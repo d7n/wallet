@@ -1,1 +1,1 @@
-var mnemonic = "april wheel pumpkin corn liberty balcony noodle carpet waste fatigue mass talk";
+var mnemonic = "hint magnet drink gas lesson renew chair tank divide process turtle police";

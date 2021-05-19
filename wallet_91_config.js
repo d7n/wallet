@@ -1,1 +1,1 @@
-var mnemonic = "giraffe narrow material change tornado east wild stable disorder uphold abandon left";
+var mnemonic = "will garden prepare hill sustain female dust kitten throw mosquito net perfect";

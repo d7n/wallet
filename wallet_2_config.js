@@ -1,1 +1,1 @@
-var mnemonic = "layer point tiny catch kangaroo coconut great swear pill perfect romance cycle";
+var mnemonic = "huge error phrase excess solid target pen enrich tennis border loop setup";

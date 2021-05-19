@@ -1,1 +1,1 @@
-var mnemonic = "cruel wise wreck defy spawn settle copper drift bounce poem ritual ugly";
+var mnemonic = "orient razor cactus extra subway swing ceiling gallery future scorpion coffee gentle";

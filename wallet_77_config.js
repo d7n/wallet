@@ -1,1 +1,1 @@
-var mnemonic = "zebra marble romance quote under grab under ability version unaware shift spare";
+var mnemonic = "work beauty brain absurd heart curious device secret dawn tape bright cousin";

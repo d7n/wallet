@@ -1,1 +1,1 @@
-var mnemonic = "diesel cricket crime nest mango flag again suspect vendor follow frog taste";
+var mnemonic = "athlete trap unusual huge arena sheriff decide child output stock apart credit";

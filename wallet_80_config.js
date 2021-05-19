@@ -1,1 +1,1 @@
-var mnemonic = "conduct skirt rail flat crash series online physical lawn brand boost senior";
+var mnemonic = "alcohol blue mass enter text illness sting pond foot charge delay west";

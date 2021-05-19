@@ -1,1 +1,1 @@
-var mnemonic = "ball hover similar that wish midnight modify vibrant text ocean amazing glue";
+var mnemonic = "fantasy never speak soap analyst fine pass clay shine undo aunt problem";

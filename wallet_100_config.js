@@ -1,1 +1,1 @@
-var mnemonic = "cake dad sound fever essence duty bundle muscle borrow top grain eternal";
+var mnemonic = "tray size guide depend true evidence inspire over proof pet travel fluid";

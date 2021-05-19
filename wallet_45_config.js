@@ -1,1 +1,1 @@
-var mnemonic = "list left balance just wrist way essence portion area walk same struggle";
+var mnemonic = "hockey category ask year easily pretty quality range best unknown genius load";

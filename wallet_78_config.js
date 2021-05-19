@@ -1,1 +1,1 @@
-var mnemonic = "cricket before gloom panel material labor material rural occur hover parent talent";
+var mnemonic = "leg slice gas divert satisfy swarm mass grow actress kitten soul eye";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle course embark ring jar virtual smart mean rather exist border bicycle";
+var mnemonic = "alcohol egg merry combine now win announce noodle march scale vanish security";

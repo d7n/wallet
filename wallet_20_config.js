@@ -1,1 +1,1 @@
-var mnemonic = "omit supply name park youth organ trial project lava swallow print father";
+var mnemonic = "manual ring topic melody play print forget tired hazard assist clump catch";

@@ -1,1 +1,1 @@
-var mnemonic = "prison then lens release palm galaxy review where nice describe inner tank";
+var mnemonic = "olive away suspect year angry snap avocado clap traffic increase sun disorder";

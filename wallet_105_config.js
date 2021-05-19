@@ -1,1 +1,1 @@
-var mnemonic = "fatigue rib foam suffer claim gadget supply monitor trade melody dirt focus";
+var mnemonic = "nose exile inhale census actress east trumpet potato rail key essay six";

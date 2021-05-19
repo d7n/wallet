@@ -1,1 +1,1 @@
-var mnemonic = "guard label infant company web spread word satisfy license motion twelve because";
+var mnemonic = "busy artefact predict delay wire dynamic wagon tonight book zero oven drum";

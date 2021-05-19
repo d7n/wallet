@@ -1,1 +1,1 @@
-var mnemonic = "differ little tag wage wink success left sure vibrant opinion sponsor notable";
+var mnemonic = "horse fan cross innocent brass camp height produce search toe slab clap";

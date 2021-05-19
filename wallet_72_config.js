@@ -1,1 +1,1 @@
-var mnemonic = "stereo duty smooth ankle vendor muffin obey height foil solve math buddy";
+var mnemonic = "guess pave crack tortoise actual olive rate mercy fine radar ordinary risk";

@@ -1,1 +1,1 @@
-var mnemonic = "doll crystal manage fade time innocent coach urban rather cycle fiction call";
+var mnemonic = "monitor tragic garbage avoid argue system lawn garbage live just amount actress";

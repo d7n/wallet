@@ -1,1 +1,1 @@
-var mnemonic = "apology hard tone print train range bean blade rubber tomorrow proud volume";
+var mnemonic = "arch pride reopen unhappy end lab hill mother fiction subject receive blossom";

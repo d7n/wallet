@@ -1,1 +1,1 @@
-var mnemonic = "figure chat idle glad leg candy uphold erase title common alpha enforce";
+var mnemonic = "material extend fashion life kingdom pool rabbit desk trouble fruit kind silver";

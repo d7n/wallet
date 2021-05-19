@@ -1,1 +1,1 @@
-var mnemonic = "quantum memory ghost abstract across group index early first party merge loyal";
+var mnemonic = "ripple burden reject purchase crater grace close sphere hedgehog valley lemon stumble";

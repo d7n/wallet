@@ -1,1 +1,1 @@
-var mnemonic = "exclude edge turkey abandon frown pen hurdle join teach style roast turkey";
+var mnemonic = "spend radar pole crawl sea budget warm early crop tomato track dolphin";

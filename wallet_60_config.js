@@ -1,1 +1,1 @@
-var mnemonic = "crack crystal same dress prefer people outer try below annual basic comic";
+var mnemonic = "proud envelope grape claim legal symptom manage fee unaware manage pudding raise";

@@ -1,1 +1,1 @@
-var mnemonic = "elder diet insect cycle village round payment edge horse client decade blur";
+var mnemonic = "since boil warfare logic movie control inmate review inside ancient dismiss net";

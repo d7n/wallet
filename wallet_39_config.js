@@ -1,1 +1,1 @@
-var mnemonic = "nurse brother diary shiver select gallery chicken replace stock major scan milk";
+var mnemonic = "evoke review announce involve book float fury change lab general found bargain";

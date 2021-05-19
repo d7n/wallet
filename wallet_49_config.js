@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow wasp estate cross sword seed someone beyond caught buzz indicate hero";
+var mnemonic = "base inspire crop fat stand barely seek sense ring private walnut mechanic";

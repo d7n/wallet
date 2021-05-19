@@ -1,1 +1,1 @@
-var mnemonic = "reward subject flag bus jelly raw trip donor limb crane seat slim";
+var mnemonic = "toe smart common absent young effort tennis inch soup negative baby jacket";

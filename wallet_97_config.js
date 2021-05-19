@@ -1,1 +1,1 @@
-var mnemonic = "mule kitchen clip model purse trip sweet course mouse ride dream resist";
+var mnemonic = "fringe ostrich acquire range lunch level sport concert model ladder fault color";

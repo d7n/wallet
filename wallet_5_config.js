@@ -1,1 +1,1 @@
-var mnemonic = "gloom raven proof light acquire narrow arch practice husband thing fence muffin";
+var mnemonic = "stairs enemy cereal rabbit kid fee cattle such bronze analyst hawk dignity";

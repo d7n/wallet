@@ -1,1 +1,1 @@
-var mnemonic = "slab wine negative alley stay virus lava bean harvest ethics venue wave";
+var mnemonic = "deliver aware ladder unknown awake inside aware asset evil ecology wise satoshi";

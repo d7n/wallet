@@ -1,1 +1,1 @@
-var mnemonic = "type village bench team impose insane dilemma tone option sponsor crawl switch";
+var mnemonic = "essence hurdle helmet rubber fringe timber lock essence during remove myself oil";

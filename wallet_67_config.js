@@ -1,1 +1,1 @@
-var mnemonic = "frame hobby pole episode gold amateur mobile mail audit curtain because squirrel";
+var mnemonic = "main virtual zero olive raw witness forum tackle session account flat cheap";

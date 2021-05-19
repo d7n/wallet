@@ -1,1 +1,1 @@
-var mnemonic = "arrange renew display invest salt march curve canyon unusual mechanic cargo pilot";
+var mnemonic = "fragile visual burden inner useless one ski wear curtain cherry call absorb";

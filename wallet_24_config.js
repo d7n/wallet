@@ -1,1 +1,1 @@
-var mnemonic = "melt lab noise fine wait school kit roof tomorrow north piano rally";
+var mnemonic = "wrestle kangaroo wet vital merit review myth settle amount dice kite broken";

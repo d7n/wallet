@@ -1,1 +1,1 @@
-var mnemonic = "panda powder hockey hire smoke mad erupt gloom window moon indicate cloud";
+var mnemonic = "guide reopen quarter nature exercise coast view spice body mail exercise approve";

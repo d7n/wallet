@@ -1,1 +1,1 @@
-var mnemonic = "alley head cherry mandate abuse refuse sunny side carry ribbon parrot ramp";
+var mnemonic = "wall umbrella valid barely tunnel brisk abstract analyst quarter episode truth charge";

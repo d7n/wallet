@@ -1,1 +1,1 @@
-var mnemonic = "clown problem siren just couple clever grunt change day series pool sleep";
+var mnemonic = "busy antenna gallery stand sunny cycle final crane tiny action hole step";

@@ -1,1 +1,1 @@
-var mnemonic = "draw street wide afraid attack picnic dance tray tribe car bring oval";
+var mnemonic = "battle shed cram body top increase valid festival father monitor safe all";

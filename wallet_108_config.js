@@ -1,1 +1,1 @@
-var mnemonic = "awful bomb appear estate multiply elder scene high tiger proof onion record";
+var mnemonic = "pact popular unaware found civil tobacco cliff artefact viable suspect obtain crucial";

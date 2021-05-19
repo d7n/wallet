@@ -1,1 +1,1 @@
-var mnemonic = "cycle limit receive catch pulse village layer two wild guilt tragic wave";
+var mnemonic = "skirt rain sea reject menu defy jump winter habit strong gun oil";

@@ -1,1 +1,1 @@
-var mnemonic = "method mind position evidence blur shy rabbit reform clever witness front age";
+var mnemonic = "note finger stuff negative collect muscle hobby route identify cage mother push";

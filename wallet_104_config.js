@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit erupt reduce nasty win strike into puzzle uphold capital provide another";
+var mnemonic = "prize total explain degree wing account tissue jungle spoon foam steel cushion";

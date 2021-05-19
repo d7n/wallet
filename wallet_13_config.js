@@ -1,1 +1,1 @@
-var mnemonic = "ethics surround enemy sword rookie shop clerk ceiling cancel jump code connect";
+var mnemonic = "stem anger copper merit surround best firm cry supply mad marriage scan";

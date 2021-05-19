@@ -1,1 +1,1 @@
-var mnemonic = "smile glass travel erosion glide office flash seat fun fork tape sail";
+var mnemonic = "zoo capital rival hat tomorrow alpha domain utility hire paper similar leave";

@@ -1,1 +1,1 @@
-var mnemonic = "resource degree motion filter news finger sponsor pole sauce paddle sustain clog";
+var mnemonic = "february journey menu air render misery artefact picture pole they stool across";

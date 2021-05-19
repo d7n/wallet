@@ -1,1 +1,1 @@
-var mnemonic = "flight name cute purpose please renew april fiber ski pudding attract cause";
+var mnemonic = "fiber lion gossip meat acquire pony pair chief shed dream dismiss train";

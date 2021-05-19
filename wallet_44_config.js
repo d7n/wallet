@@ -1,1 +1,1 @@
-var mnemonic = "occur reward curtain notice earn obtain drop network robot account finger then";
+var mnemonic = "cushion embrace flat beach genre stable talk grace problem enable regular fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "desk name orphan spring tube eyebrow alcohol collect summer awkward physical where";
+var mnemonic = "memory window cream like myth master van author light blossom crazy burst";

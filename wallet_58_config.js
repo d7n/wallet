@@ -1,1 +1,1 @@
-var mnemonic = "gas razor identify document glimpse recipe bicycle bullet spread egg sustain elegant";
+var mnemonic = "coconut humor shock card until amused legal pencil output rocket simple wife";

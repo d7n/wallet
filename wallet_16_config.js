@@ -1,1 +1,1 @@
-var mnemonic = "erode laundry giraffe final common ready income maid antique high few soon";
+var mnemonic = "search leaf puzzle kitchen bar dream desert vapor deliver student swarm effort";
