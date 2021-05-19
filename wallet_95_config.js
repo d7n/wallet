@@ -1,1 +1,1 @@
-var mnemonic = "sick come lamp private ladder pencil pear butter kitchen shift way zebra";
+var mnemonic = "gauge pioneer coil blur huge manual embody arch unfold borrow language use";

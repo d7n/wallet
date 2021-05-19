@@ -1,1 +1,1 @@
-var mnemonic = "pelican blade flag wage master purchase torch evidence parent cup remove depend";
+var mnemonic = "monster modify accuse hen treat help deer option balcony session swallow milk";

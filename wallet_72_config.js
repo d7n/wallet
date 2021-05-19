@@ -1,1 +1,1 @@
-var mnemonic = "door often weird siren wreck pluck genius action frequent hill entire rebuild";
+var mnemonic = "recipe patrol common kite loop century give cruise report delay please enroll";

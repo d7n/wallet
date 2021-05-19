@@ -1,1 +1,1 @@
-var mnemonic = "nurse auction record guess regular just come aspect oxygen wire fit neck";
+var mnemonic = "end brain hospital hood swamp already will puzzle sport little skin feature";

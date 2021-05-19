@@ -1,1 +1,1 @@
-var mnemonic = "clap humble between fatigue insane latin letter spend solve priority group float";
+var mnemonic = "rookie swap curve parent horn vault citizen empty craft front solar mask";

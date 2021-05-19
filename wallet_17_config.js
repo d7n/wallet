@@ -1,1 +1,1 @@
-var mnemonic = "order soccer tone february earn setup neglect turkey admit true aware air";
+var mnemonic = "coral stumble normal deny leg stone bench mix follow slush silly drop";

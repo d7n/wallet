@@ -1,1 +1,1 @@
-var mnemonic = "text battle mom chef borrow heart galaxy walk wave egg cat bless";
+var mnemonic = "item genre fox sister auction enlist stone just excuse screen raven print";

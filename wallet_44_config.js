@@ -1,1 +1,1 @@
-var mnemonic = "sad occur card type state gap faint whale bulk vocal color junk";
+var mnemonic = "lonely front clap battle garlic venue plastic camera shell muscle regular swallow";

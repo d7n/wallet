@@ -1,1 +1,1 @@
-var mnemonic = "network dance pioneer income vacuum tent lottery enlist inject clump decrease fuel";
+var mnemonic = "hedgehog green water quantum bottom vivid spell once arrive strong debate lounge";

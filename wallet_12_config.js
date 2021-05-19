@@ -1,1 +1,1 @@
-var mnemonic = "version decrease cry crowd enough sketch beef match craft version december gas";
+var mnemonic = "phone live join huge media piano used parent peasant embark catalog bunker";

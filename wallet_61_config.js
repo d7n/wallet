@@ -1,1 +1,1 @@
-var mnemonic = "annual shed polar quote damp prevent velvet eyebrow bottom team vintage sound";
+var mnemonic = "warrior patch snack armed toss dose patrol door roast improve amateur boil";

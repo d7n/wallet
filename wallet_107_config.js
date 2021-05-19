@@ -1,1 +1,1 @@
-var mnemonic = "vocal correct mass rally mechanic blade bean patrol wait enact tail almost";
+var mnemonic = "lamp square tube rural spin over afford deposit rent bind mail find";

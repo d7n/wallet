@@ -1,1 +1,1 @@
-var mnemonic = "club broken one dolphin forest ring neck around grit token sport account";
+var mnemonic = "exclude bulb pupil degree renew island meadow stool convince market claim toddler";

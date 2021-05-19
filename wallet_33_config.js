@@ -1,1 +1,1 @@
-var mnemonic = "code congress twice setup dash pink carpet enrich radio luggage release nice";
+var mnemonic = "receive inner arrive reflect fluid senior liberty culture truck similar situate enable";

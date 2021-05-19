@@ -1,1 +1,1 @@
-var mnemonic = "alter clump script amount flat opera violin hunt scrap weasel sauce teach";
+var mnemonic = "kiss edit ring sibling bring vintage rival real fun pumpkin zebra remain";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition virtual enemy paper gain expire disease capable luxury apple crystal pear";
+var mnemonic = "story ugly mosquito put limb winner cabin jar pyramid omit hair forum";

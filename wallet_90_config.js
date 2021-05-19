@@ -1,1 +1,1 @@
-var mnemonic = "mom omit seminar blind vote physical among napkin plastic segment miracle patrol";
+var mnemonic = "forward unveil distance proof hundred together that coil token expose garlic hero";

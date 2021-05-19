@@ -1,1 +1,1 @@
-var mnemonic = "seed forward tip panther emotion reunion industry outer mystery detect portion blood";
+var mnemonic = "believe boy winner rubber twice expire milk pause excuse hybrid merge crush";

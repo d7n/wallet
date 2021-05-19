@@ -1,1 +1,1 @@
-var mnemonic = "expose innocent credit easily similar judge clump fever maid away silver stuff";
+var mnemonic = "prevent link step cave armed inquiry expire program shell spider exotic cloud";

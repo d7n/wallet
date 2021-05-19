@@ -1,1 +1,1 @@
-var mnemonic = "path symbol autumn vehicle puzzle language apple video garden kind hub toss";
+var mnemonic = "trip draft air first ribbon chronic broken identify tape danger enjoy mixture";

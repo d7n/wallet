@@ -1,1 +1,1 @@
-var mnemonic = "culture bracket art until clap wisdom wreck panther taste palm meadow account";
+var mnemonic = "soap ring patrol coconut client media sail lab ridge term congress cycle";

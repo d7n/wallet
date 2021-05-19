@@ -1,1 +1,1 @@
-var mnemonic = "tape adult drive coin myth gas clutch pledge steak accuse fever iron";
+var mnemonic = "asset grow portion scorpion write increase gauge because ship tissue kiss lend";

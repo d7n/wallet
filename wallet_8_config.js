@@ -1,1 +1,1 @@
-var mnemonic = "rich story car produce garage hire toilet total isolate cement aim donor";
+var mnemonic = "air cross element parent retire salt whale wrap huge cave slim come";

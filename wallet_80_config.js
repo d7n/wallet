@@ -1,1 +1,1 @@
-var mnemonic = "valid morning soft slab swap check smart praise limb already fan poem";
+var mnemonic = "shaft copy tumble aunt text nuclear version offer grass merry oven north";

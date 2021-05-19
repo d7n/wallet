@@ -1,1 +1,1 @@
-var mnemonic = "enrich shuffle magnet fiscal thrive abstract zone banana unveil purse picture visit";
+var mnemonic = "risk harbor multiply census flight despair measure once reduce rare spawn around";

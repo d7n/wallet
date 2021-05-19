@@ -1,1 +1,1 @@
-var mnemonic = "print salon note pulp pass cupboard hungry title spy digital auction arrange";
+var mnemonic = "render clown state feature rather present all leg mass mushroom defy blush";

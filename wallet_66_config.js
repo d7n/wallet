@@ -1,1 +1,1 @@
-var mnemonic = "essay wish message ring mass shed dove vote acoustic copy grief mention";
+var mnemonic = "crumble awkward gather embody embrace relief pottery sting earn donate liquid photo";

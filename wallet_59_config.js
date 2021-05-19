@@ -1,1 +1,1 @@
-var mnemonic = "dirt plate planet dinosaur save harsh hybrid clutch easy need possible satoshi";
+var mnemonic = "quick balance decade dust harvest balance fiscal fantasy pumpkin coin gas join";

@@ -1,1 +1,1 @@
-var mnemonic = "brave include street resist electric dismiss half say glow umbrella trophy neutral";
+var mnemonic = "upset copper setup secret rude define outdoor approve glass finger spice lyrics";

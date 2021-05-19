@@ -1,1 +1,1 @@
-var mnemonic = "win maximum game vague emerge position estate range lonely piano avocado candy";
+var mnemonic = "soldier friend labor end scrub grace version bulb warrior jump awkward guard";

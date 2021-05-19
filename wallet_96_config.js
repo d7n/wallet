@@ -1,1 +1,1 @@
-var mnemonic = "way use tell chalk unlock word flash crunch smooth hurt only jewel";
+var mnemonic = "nation smoke canoe used feel life melt issue hurdle vendor ritual damage";

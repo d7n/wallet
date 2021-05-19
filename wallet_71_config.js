@@ -1,1 +1,1 @@
-var mnemonic = "tiger neither onion fuel guess layer swing measure mail sorry airport arrow";
+var mnemonic = "immense refuse tortoise fancy armed universe curtain veteran later puppy panic borrow";

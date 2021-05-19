@@ -1,1 +1,1 @@
-var mnemonic = "ask bonus autumn afford regret normal laundry luxury claim wise first marriage";
+var mnemonic = "spice bulk prepare click brush fitness ketchup daughter diagram whisper wait zone";

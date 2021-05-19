@@ -1,1 +1,1 @@
-var mnemonic = "near fever pilot stock render canoe churn author jungle laugh logic author";
+var mnemonic = "chase loud spend raven liar drastic video poverty chair this boss robust";

@@ -1,1 +1,1 @@
-var mnemonic = "embark carbon code police bargain later depth chicken over foster firm wood";
+var mnemonic = "bridge tribe wall hole history addict census paper path permit mom design";

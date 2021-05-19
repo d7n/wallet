@@ -1,1 +1,1 @@
-var mnemonic = "ecology scene virus hungry spirit clump embody pink reunion wing wrap rug";
+var mnemonic = "intact auction fossil area skill post plug eternal learn little leisure shrug";

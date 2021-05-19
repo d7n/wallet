@@ -1,1 +1,1 @@
-var mnemonic = "kiss seed parrot today margin jelly cousin noise loyal tomorrow youth raw";
+var mnemonic = "decade cabbage tackle afraid nephew ability glide later narrow hidden ordinary hole";

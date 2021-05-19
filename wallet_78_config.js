@@ -1,1 +1,1 @@
-var mnemonic = "found crush special edit employ peasant acid start essay key bone truly";
+var mnemonic = "cereal enjoy birth solar convince oil pigeon used photo lottery panda inhale";

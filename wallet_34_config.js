@@ -1,1 +1,1 @@
-var mnemonic = "trash fresh sphere lecture spy dad owner library upset treat slight lecture";
+var mnemonic = "popular trigger check tiny insect patrol endorse tribe win abstract heart range";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon manage bring prevent bird unveil tell valley bulk twice despair swing";
+var mnemonic = "crater shallow marine series horror start morning peace outer hazard athlete never";

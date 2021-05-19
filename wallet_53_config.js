@@ -1,1 +1,1 @@
-var mnemonic = "prize vendor expect impact empower foot symbol own test mad lunch matrix";
+var mnemonic = "fever regret recall victory blur panther pumpkin poet witness assist load banner";

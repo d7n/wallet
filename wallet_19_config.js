@@ -1,1 +1,1 @@
-var mnemonic = "collect only embody fall lab pulse slogan patient visa symptom credit matter";
+var mnemonic = "aerobic climb foil series fringe sphere tourist moment agree merry denial hold";

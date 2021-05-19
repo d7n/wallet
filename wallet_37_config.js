@@ -1,1 +1,1 @@
-var mnemonic = "write execute napkin kind risk behind blossom weird same awful melt whip";
+var mnemonic = "busy raccoon demise during reopen seminar used uphold test near wrist index";

@@ -1,1 +1,1 @@
-var mnemonic = "young resist title prison mango clever other law payment jeans custom damage";
+var mnemonic = "hat furnace job then era absorb alley dance million enjoy ignore public";

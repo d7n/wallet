@@ -1,1 +1,1 @@
-var mnemonic = "cruise grab illness wing leisure bullet predict enact magic digital stick olympic";
+var mnemonic = "venture method civil dolphin worth game bronze dress member pizza jelly cost";

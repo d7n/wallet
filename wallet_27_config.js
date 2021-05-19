@@ -1,1 +1,1 @@
-var mnemonic = "flight satoshi damage furnace sorry notice creek dirt dismiss prepare defense sketch";
+var mnemonic = "october rose race favorite best west wink below rail discover divide nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "below cactus parade penalty typical exchange monitor airport squeeze miss sauce lottery";
+var mnemonic = "verb lava viable canyon inherit alone odor hammer oven eternal jewel picture";

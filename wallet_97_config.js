@@ -1,1 +1,1 @@
-var mnemonic = "shock category rich goat album payment scissors beyond congress wild smooth fragile";
+var mnemonic = "walk riot play wash seed salute provide seven drama quality require olympic";

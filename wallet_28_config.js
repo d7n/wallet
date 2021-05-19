@@ -1,1 +1,1 @@
-var mnemonic = "near car album apology horror cat inherit rent wrestle squeeze issue immense";
+var mnemonic = "cushion sudden siege abuse scorpion kite siege black quality tiny zero become";

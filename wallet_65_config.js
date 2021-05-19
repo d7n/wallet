@@ -1,1 +1,1 @@
-var mnemonic = "ginger taxi urban solve taste rely wage common transfer dutch weasel soup";
+var mnemonic = "voice tattoo joy capable clump shiver damage gallery glue cart hurry slab";

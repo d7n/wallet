@@ -1,1 +1,1 @@
-var mnemonic = "shop clean quantum appear dragon object fee dynamic season vacant sure decline";
+var mnemonic = "mouse buyer cream loop fiber viable kidney feature code carpet roof phrase";

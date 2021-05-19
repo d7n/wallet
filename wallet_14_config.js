@@ -1,1 +1,1 @@
-var mnemonic = "ability about spawn royal barrel leader space salmon steak lunch kit obvious";
+var mnemonic = "army cram rain relief cannon lounge useless uphold fork recall weather sudden";

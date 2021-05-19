@@ -1,1 +1,1 @@
-var mnemonic = "axis any reject empower series pretty call ribbon excess volume chest voice";
+var mnemonic = "insect kitchen squeeze era eternal gallery marine goddess trophy inside verify solid";

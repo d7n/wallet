@@ -1,1 +1,1 @@
-var mnemonic = "vital enact roof crane beef arrest team version poet scrap exhaust sand";
+var mnemonic = "advance labor circle legal obvious sample maze knife charge paddle fragile park";

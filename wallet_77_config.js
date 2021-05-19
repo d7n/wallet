@@ -1,1 +1,1 @@
-var mnemonic = "asthma type public width saddle ordinary human token trophy smart vibrant hedgehog";
+var mnemonic = "loan ginger never great wave broccoli sense series stamp field shell artwork";

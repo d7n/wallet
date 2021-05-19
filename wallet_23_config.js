@@ -1,1 +1,1 @@
-var mnemonic = "balcony cereal finish digital cat chunk pizza island under grocery adapt gesture";
+var mnemonic = "give case lamp tuna aware casual legal rug protect reason cream book";

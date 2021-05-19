@@ -1,1 +1,1 @@
-var mnemonic = "year obtain narrow horn salute advice away vocal put cat try unaware";
+var mnemonic = "evoke reject alert click three pony pool oyster chimney cost empty cereal";

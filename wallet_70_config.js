@@ -1,1 +1,1 @@
-var mnemonic = "cradle unfold verb common net meadow know message recall stand worth athlete";
+var mnemonic = "theme topple record obtain unaware shed deputy pulp wire crater stool plunge";

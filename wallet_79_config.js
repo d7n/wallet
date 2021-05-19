@@ -1,1 +1,1 @@
-var mnemonic = "fitness axis embody kit cover table kingdom muffin river share kidney wheel";
+var mnemonic = "program error series prevent nature peanut insane oppose useless fit reward very";

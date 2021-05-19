@@ -1,1 +1,1 @@
-var mnemonic = "run afraid cabbage blade document magic lonely call devote beyond noise skull";
+var mnemonic = "obvious correct mushroom cloth improve chest lottery nasty alien bone dumb burden";

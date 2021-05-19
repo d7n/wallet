@@ -1,1 +1,1 @@
-var mnemonic = "earth write taste robust stamp print zoo clump two brother father spirit";
+var mnemonic = "start say screen table diesel antique teach lady wagon text pyramid loyal";

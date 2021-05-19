@@ -1,1 +1,1 @@
-var mnemonic = "option any cute broom proud carry bench list razor same library rescue";
+var mnemonic = "cheese win omit marble screen matrix dash grow stick sample upper east";

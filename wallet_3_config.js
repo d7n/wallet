@@ -1,1 +1,1 @@
-var mnemonic = "average lottery humble finish play depend stairs wild mirror eyebrow elevator potato";
+var mnemonic = "ketchup miracle alien dad camp swing rural range wait puzzle proof filter";

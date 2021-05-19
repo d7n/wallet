@@ -1,1 +1,1 @@
-var mnemonic = "glory final few horse insect toe film indicate elevator ethics agree screen";
+var mnemonic = "elder chimney excuse dry patient sheriff giggle hundred iron submit crater unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble wall unknown tortoise ocean business when club taste lava shove song";
+var mnemonic = "ozone buyer end catch found guard once seek attract original draft exact";

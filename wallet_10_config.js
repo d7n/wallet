@@ -1,1 +1,1 @@
-var mnemonic = "immune hip quantum lottery bone click aerobic boy agree shell dial celery";
+var mnemonic = "pair error promote sick certain resemble lyrics moment later wave orphan auction";

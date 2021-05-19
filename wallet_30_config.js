@@ -1,1 +1,1 @@
-var mnemonic = "jazz draft loop sadness journey couch tongue festival tape bicycle bounce stick";
+var mnemonic = "popular coin energy any alert suggest battle burger aerobic wrong repair radio";

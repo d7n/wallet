@@ -1,1 +1,1 @@
-var mnemonic = "portion area great emerge leaf hybrid robot regret dinner bring play reveal";
+var mnemonic = "mosquito view alley elder trophy horse scatter plastic skate capable carry debate";

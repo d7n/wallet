@@ -1,1 +1,1 @@
-var mnemonic = "approve stuff erupt grace comic piano card warrior rough jump moon recall";
+var mnemonic = "right convince weather zebra cluster powder arctic shadow kitchen enjoy gather laugh";

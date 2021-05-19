@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit phrase place vast credit trust flag dentist gadget art velvet royal";
+var mnemonic = "latin swear proof slice exact history theme icon praise silent bring rain";

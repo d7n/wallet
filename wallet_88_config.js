@@ -1,1 +1,1 @@
-var mnemonic = "festival stay lumber vessel choice mobile into fitness float army camp sustain";
+var mnemonic = "crouch six name throw throw dash machine scout exclude scale sugar bargain";

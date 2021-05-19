@@ -1,1 +1,1 @@
-var mnemonic = "kid crowd sustain another peasant exercise mistake script sound brown diamond device";
+var mnemonic = "jazz inherit flavor sorry strong narrow type room drink check strong exact";

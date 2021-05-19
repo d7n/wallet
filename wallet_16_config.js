@@ -1,1 +1,1 @@
-var mnemonic = "step verb salad eyebrow merry quantum spring account symptom sugar energy throw";
+var mnemonic = "miracle fit key gentle you error guilt reduce deny royal final clay";

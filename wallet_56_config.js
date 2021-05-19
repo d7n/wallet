@@ -1,1 +1,1 @@
-var mnemonic = "culture note almost orbit crumble present main badge eye abstract describe slot";
+var mnemonic = "loop hole frozen hand term dove humor stock news runway card always";

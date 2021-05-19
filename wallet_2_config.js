@@ -1,1 +1,1 @@
-var mnemonic = "wire auction pottery page tongue retreat puzzle wine shrimp brisk tail wheel";
+var mnemonic = "phrase shy surround badge present add project close spell gossip typical green";

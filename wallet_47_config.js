@@ -1,1 +1,1 @@
-var mnemonic = "tiny gravity track merge soda frozen shield recall fitness bronze wave taxi";
+var mnemonic = "brass trouble wide pet know kiss come stool earn clerk stage luxury";

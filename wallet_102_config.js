@@ -1,1 +1,1 @@
-var mnemonic = "mango unique wild poverty meat future better switch disorder fame state mixed";
+var mnemonic = "lobster alien adult buddy leopard shiver train fruit ketchup antenna marine monitor";

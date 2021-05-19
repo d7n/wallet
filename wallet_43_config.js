@@ -1,1 +1,1 @@
-var mnemonic = "thrive canyon absent skull relax notice master movie point orphan buyer patrol";
+var mnemonic = "basket cycle target among turn patrol chase woman chat deal glare pact";

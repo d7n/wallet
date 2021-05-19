@@ -1,1 +1,1 @@
-var mnemonic = "celery box shallow shuffle tray earn rude spirit wheat produce strategy erode";
+var mnemonic = "level smooth warm quit fortune tool fossil excuse world gift ostrich federal";

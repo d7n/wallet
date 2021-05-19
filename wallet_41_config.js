@@ -1,1 +1,1 @@
-var mnemonic = "industry evolve click select naive kiwi client pluck umbrella rich heart twist";
+var mnemonic = "era disease metal talent once elder moon damage arrange odor beef fitness";

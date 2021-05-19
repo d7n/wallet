@@ -1,1 +1,1 @@
-var mnemonic = "future laptop broccoli cash sister add club angle west salmon tip quick";
+var mnemonic = "enlist title recycle unaware churn captain silent arrange step story merit penalty";

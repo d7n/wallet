@@ -1,1 +1,1 @@
-var mnemonic = "jacket donkey craft health human boy deal immense slender history puppy juice";
+var mnemonic = "potato menu veteran legal during village deal settle flower tennis release convince";

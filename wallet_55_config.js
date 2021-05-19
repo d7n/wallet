@@ -1,1 +1,1 @@
-var mnemonic = "inner honey void hotel apology glass slow rifle evidence hood radio lock";
+var mnemonic = "artefact spider jelly move digital help toe drama vast aisle upgrade bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal report come pledge banner clerk purity reform seat rain relief betray";
+var mnemonic = "wrist super bounce unfold post rose dutch pass cruise weather spin clerk";

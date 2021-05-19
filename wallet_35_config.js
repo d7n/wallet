@@ -1,1 +1,1 @@
-var mnemonic = "oven rotate absurd history neither swallow refuse exit ensure lazy story duty";
+var mnemonic = "farm turkey foot unit make lift any surround frost corn confirm tourist";

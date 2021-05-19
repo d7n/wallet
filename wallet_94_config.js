@@ -1,1 +1,1 @@
-var mnemonic = "avoid still crop ride walnut midnight now result burst chest omit frost";
+var mnemonic = "lunch rocket copper outside husband rubber salon lady rotate anxiety beauty odor";

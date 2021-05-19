@@ -1,1 +1,1 @@
-var mnemonic = "addict where online wish squirrel clinic lend syrup key yard rice valley";
+var mnemonic = "clown winter differ term public only eight muffin calm liar rival exclude";

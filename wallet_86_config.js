@@ -1,1 +1,1 @@
-var mnemonic = "kitten carpet minimum breeze truth romance tongue fat session tell raven vital";
+var mnemonic = "gorilla sudden pencil saddle spray hen play thunder walk reject winner sentence";

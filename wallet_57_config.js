@@ -1,1 +1,1 @@
-var mnemonic = "desert dish jewel auction mass iron era fade valve enhance code account";
+var mnemonic = "squeeze hold bulb detect spy mirror alter alert omit toss act crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "crew salon theory concert ill stuff unusual trigger thing lecture area library";
+var mnemonic = "harbor drastic marine adult wrong pact illness update elite quantum park neglect";

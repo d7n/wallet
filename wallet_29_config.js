@@ -1,1 +1,1 @@
-var mnemonic = "ghost outer bicycle evolve tragic amateur shock forum slam coil fence mammal";
+var mnemonic = "case physical body stone execute pipe toward aware crumble index holiday wolf";

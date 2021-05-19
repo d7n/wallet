@@ -1,1 +1,1 @@
-var mnemonic = "minor poem jeans warfare gain emotion moral whale general anchor cannon divert";
+var mnemonic = "finger dune jeans scene penalty vendor kind cliff cause fuel seat main";

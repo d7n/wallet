@@ -1,1 +1,1 @@
-var mnemonic = "sort salmon bunker gather cancel agent universe tortoise fever smile abstract kitten";
+var mnemonic = "clinic book lock birth crawl volume click destroy tape bubble rescue price";
