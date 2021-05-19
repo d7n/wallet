@@ -1,1 +1,1 @@
-var mnemonic = "true morning fire swallow middle belt wolf attend half allow leopard ghost";
+var mnemonic = "reject luggage crawl oil coral crystal black hour sudden course act credit";

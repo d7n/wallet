@@ -1,1 +1,1 @@
-var mnemonic = "rigid cricket grid decide horror surprise slender tiny club flower arch scheme";
+var mnemonic = "short ball price swear fun century kite congress advance question spy sign";

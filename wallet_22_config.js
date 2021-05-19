@@ -1,1 +1,1 @@
-var mnemonic = "slender produce beyond cream embody arena news flash torch chimney scorpion castle";
+var mnemonic = "cloud cage snap slush remind genius analyst panda worth cheap patient pudding";

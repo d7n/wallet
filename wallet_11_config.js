@@ -1,1 +1,1 @@
-var mnemonic = "survey jealous hobby later oppose spray auction much canal city say antique";
+var mnemonic = "salute east need clutch tattoo false struggle divide used ski dune portion";

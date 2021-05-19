@@ -1,1 +1,1 @@
-var mnemonic = "dismiss call bullet tape frequent give bicycle exchange brave desk abuse uncover";
+var mnemonic = "unaware trophy pear master mask zebra water topple tattoo jungle laugh across";

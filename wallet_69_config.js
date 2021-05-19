@@ -1,1 +1,1 @@
-var mnemonic = "robot borrow broken banner verb virtual pear region badge doll join culture";
+var mnemonic = "sword traffic planet daughter whip hold evil creek please siege blush urban";

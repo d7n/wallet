@@ -1,1 +1,1 @@
-var mnemonic = "wrestle quick slot destroy shock garbage kit middle cage inflict dilemma tide";
+var mnemonic = "connect idle sketch ramp govern power then fat hazard ability adapt series";

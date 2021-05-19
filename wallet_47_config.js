@@ -1,1 +1,1 @@
-var mnemonic = "until ribbon isolate dizzy flavor estate leave response cry model script head";
+var mnemonic = "deer blur relax move aware bargain toilet wire tag unveil cluster toast";

@@ -1,1 +1,1 @@
-var mnemonic = "rail flock key female quality purse clump room timber entire avoid orange";
+var mnemonic = "napkin appear shuffle enough ecology loop rent grief ginger finish sketch fee";

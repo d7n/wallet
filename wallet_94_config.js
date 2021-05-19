@@ -1,1 +1,1 @@
-var mnemonic = "know oxygen blind famous used topple sword library say spin zoo faculty";
+var mnemonic = "border dash original actor fog will capable identify salt develop wisdom exhibit";

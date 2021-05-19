@@ -1,1 +1,1 @@
-var mnemonic = "tackle trick business hood rice stick hat unique type raven figure enroll";
+var mnemonic = "baby impact sound dentist symbol crime cruel crush pulse mean shift canvas";

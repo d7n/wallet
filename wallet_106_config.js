@@ -1,1 +1,1 @@
-var mnemonic = "light copper urban silent write inspire best puzzle stable juice convince nature";
+var mnemonic = "either urge identify alpha lawn drum nurse fun rain simple indicate between";

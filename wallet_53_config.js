@@ -1,1 +1,1 @@
-var mnemonic = "churn rate know bargain argue keen library slim viable frost fade resource";
+var mnemonic = "fuel bounce defense opinion power devote welcome huge expire glory insect method";

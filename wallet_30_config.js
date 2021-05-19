@@ -1,1 +1,1 @@
-var mnemonic = "metal sea apart kiss figure stick drum cycle match answer just truth";
+var mnemonic = "seek relief announce rack trophy suffer shield pencil marriage slide century world";

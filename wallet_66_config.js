@@ -1,1 +1,1 @@
-var mnemonic = "connect mammal pelican erosion cable hammer eight monster afraid venue spell warfare";
+var mnemonic = "rookie now phrase liar decline boil chef flavor unaware mind path theory";

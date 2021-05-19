@@ -1,1 +1,1 @@
-var mnemonic = "champion reopen priority addict unlock visa shaft uphold trip mandate mammal other";
+var mnemonic = "gold vacuum file monster exit movie proof wise web major order hawk";

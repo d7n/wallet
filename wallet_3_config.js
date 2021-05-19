@@ -1,1 +1,1 @@
-var mnemonic = "vital weasel candy ability female cotton mosquito tissue attend fee evidence demise";
+var mnemonic = "uncle tube balcony witness angry health vicious average desert infant energy strike";

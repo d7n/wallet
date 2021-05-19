@@ -1,1 +1,1 @@
-var mnemonic = "hazard hundred job trouble feed execute phrase one crack wink pear green";
+var mnemonic = "rural iron face give copper slab release reopen enforce then region actress";

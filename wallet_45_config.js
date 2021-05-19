@@ -1,1 +1,1 @@
-var mnemonic = "phone act utility pink master behind tuition huge wagon heavy athlete pattern";
+var mnemonic = "surface pattern useless owner chapter discover dice aunt ripple loan about have";

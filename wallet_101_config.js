@@ -1,1 +1,1 @@
-var mnemonic = "absorb pond envelope improve skin abandon near sketch army uncle wife monster";
+var mnemonic = "open index tell drift nut faculty town belt resemble lab top seminar";

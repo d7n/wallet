@@ -1,1 +1,1 @@
-var mnemonic = "effort unit focus alarm clutch cup crime waste climb rookie meadow autumn";
+var mnemonic = "sustain screen viable birth wife agree plunge nominee feed peasant expire latin";

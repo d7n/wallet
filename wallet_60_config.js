@@ -1,1 +1,1 @@
-var mnemonic = "hunt easy doll purpose police soft trim vicious grass cup always garage";
+var mnemonic = "exact oil tip hospital heart deposit shop quote radio chicken transfer sustain";

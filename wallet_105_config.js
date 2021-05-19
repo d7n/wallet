@@ -1,1 +1,1 @@
-var mnemonic = "destroy salute much spend girl review throw soft imitate stuff crazy hammer";
+var mnemonic = "sport organ perfect gravity custom mean place agent habit various this shell";

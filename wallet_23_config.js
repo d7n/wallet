@@ -1,1 +1,1 @@
-var mnemonic = "design pyramid daring ocean history earn phone original canvas exact awful legend";
+var mnemonic = "setup video impact borrow wagon dentist quantum festival pepper cancel drift dizzy";

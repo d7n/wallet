@@ -1,1 +1,1 @@
-var mnemonic = "flower outside purse define twin myth proud alert mesh garden cherry rail";
+var mnemonic = "situate assault acquire shoe reduce affair equal ask raw burger chest adjust";

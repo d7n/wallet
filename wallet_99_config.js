@@ -1,1 +1,1 @@
-var mnemonic = "blast reason program lemon unlock material pony suggest promote assist swim social";
+var mnemonic = "woman rural ensure observe flip choose mobile marble debris margin embody forum";

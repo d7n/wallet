@@ -1,1 +1,1 @@
-var mnemonic = "escape parent frost rug swallow aisle rookie critic tilt admit grace tide";
+var mnemonic = "top harbor baby survey left razor you egg slide trust enforce transfer";

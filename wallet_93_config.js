@@ -1,1 +1,1 @@
-var mnemonic = "valid help cabbage level taxi hello oval buzz first blast school explain";
+var mnemonic = "welcome veteran film bracket cabin calm they together infant erosion message liquid";

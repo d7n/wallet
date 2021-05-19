@@ -1,1 +1,1 @@
-var mnemonic = "emerge modify urban soldier tonight chapter market poet airport drastic romance unveil";
+var mnemonic = "bless drill canyon now pitch chef what behave rookie clerk length supply";

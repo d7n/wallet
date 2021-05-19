@@ -1,1 +1,1 @@
-var mnemonic = "cause skill produce ankle patch cage light early lazy common clinic write";
+var mnemonic = "soft math awkward man alcohol hole age mule blast soda runway kitchen";

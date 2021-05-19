@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pattern oil cupboard torch paddle mirror seed promote phrase drum pistol";
+var mnemonic = "baby street catalog negative jealous slim cry copy kiwi wrap plastic amount";

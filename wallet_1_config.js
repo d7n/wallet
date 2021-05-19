@@ -1,1 +1,1 @@
-var mnemonic = "vehicle depend sense fury quarter umbrella leg win body skill goddess theory";
+var mnemonic = "fiscal liberty october drum juice purity banana main upgrade electric draw piano";

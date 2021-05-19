@@ -1,1 +1,1 @@
-var mnemonic = "once fringe science army space glimpse little feed fragile mouse eye wagon";
+var mnemonic = "gloom loop click clerk problem mushroom surround club category gesture try soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "lizard hint hero abuse decorate blouse garden reduce picnic draft use bubble";
+var mnemonic = "mesh session improve water tell portion nest casino action aspect payment weather";

@@ -1,1 +1,1 @@
-var mnemonic = "pause blind aerobic choose assume minimum slide amazing panther crawl range citizen";
+var mnemonic = "once similar exhaust unlock long harsh limb minimum lyrics poverty snap silly";

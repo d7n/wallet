@@ -1,1 +1,1 @@
-var mnemonic = "file success ugly snow regular ice cable tribe denial actress beach barrel";
+var mnemonic = "public lunch real eight squeeze document entire jazz depend federal deposit slight";

@@ -1,1 +1,1 @@
-var mnemonic = "direct general tape add lady resemble pyramid visual transfer broom market bulb";
+var mnemonic = "arrange cup boss rare olive seminar rabbit fresh asset carbon state setup";

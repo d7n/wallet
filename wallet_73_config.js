@@ -1,1 +1,1 @@
-var mnemonic = "outdoor addict best amateur edge kid cycle photo unveil virtual prefer novel";
+var mnemonic = "fall expose record duck spot hundred stereo tank cook infant pizza pilot";

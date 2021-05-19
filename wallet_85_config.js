@@ -1,1 +1,1 @@
-var mnemonic = "human swamp push aspect clean make online combine truth saddle mad scrap";
+var mnemonic = "arrange throw erode clarify loop dwarf typical chat hospital photo convince banner";

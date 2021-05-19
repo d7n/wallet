@@ -1,1 +1,1 @@
-var mnemonic = "luxury drastic angle journey duck shadow match screen budget wage during uphold";
+var mnemonic = "cradle ozone desert million tackle panic random wait project dynamic celery dog";

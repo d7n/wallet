@@ -1,1 +1,1 @@
-var mnemonic = "volume polar excess rate lecture list album problem there become ridge this";
+var mnemonic = "winter sound grain pear lemon tiny useless social original barely custom lumber";

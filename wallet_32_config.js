@@ -1,1 +1,1 @@
-var mnemonic = "swim very patrol marble face letter now enforce midnight little quote angle";
+var mnemonic = "chuckle sausage interest food culture settle soon shy style barrel orient under";

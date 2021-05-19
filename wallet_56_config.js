@@ -1,1 +1,1 @@
-var mnemonic = "garment early receive enroll left race cram address clown baby episode rent";
+var mnemonic = "system gym have tell fancy pig toward tumble medal chicken wolf parade";

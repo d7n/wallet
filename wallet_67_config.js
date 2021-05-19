@@ -1,1 +1,1 @@
-var mnemonic = "wrist slow avoid material shine citizen scare model echo oak canvas episode";
+var mnemonic = "glare legend glow about shine stadium worry sight wasp belt figure muffin";

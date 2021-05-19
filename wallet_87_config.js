@@ -1,1 +1,1 @@
-var mnemonic = "cram silver exact gift leg this spike sketch room such treat virus";
+var mnemonic = "chalk glory wash culture twelve brief enjoy venue anxiety lab outer giant";

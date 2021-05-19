@@ -1,1 +1,1 @@
-var mnemonic = "art black decrease author praise final chronic cart basic narrow dignity enrich";
+var mnemonic = "elevator penalty april puzzle public trash biology nothing silver glass core hire";

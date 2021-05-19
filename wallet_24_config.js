@@ -1,1 +1,1 @@
-var mnemonic = "flight chunk happy bacon street gather vendor report wing bless rally accuse";
+var mnemonic = "pluck sleep sound recipe bless when eternal define lawsuit domain harvest size";

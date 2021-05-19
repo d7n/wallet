@@ -1,1 +1,1 @@
-var mnemonic = "west stock carbon bitter famous system diamond today trip mixed insane urban";
+var mnemonic = "spice damage talent enroll stock atom latin topic road lab vague floor";

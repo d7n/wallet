@@ -1,1 +1,1 @@
-var mnemonic = "bench balcony core usage lounge question alley grunt draft trick owner twin";
+var mnemonic = "cream choose gallery panic have puzzle then supply plunge tragic carpet reward";

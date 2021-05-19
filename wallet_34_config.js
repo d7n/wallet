@@ -1,1 +1,1 @@
-var mnemonic = "disease perfect cargo genius length shoulder large spread lawsuit wrist idle shell";
+var mnemonic = "gun arrow try ginger dose oppose reason muffin fan hospital equal salt";

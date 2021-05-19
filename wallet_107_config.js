@@ -1,1 +1,1 @@
-var mnemonic = "level wonder invite memory orient interest spare myth antique maze sauce ranch";
+var mnemonic = "wisdom tunnel embody bar minute tunnel proud police promote seek parade age";

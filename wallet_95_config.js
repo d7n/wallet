@@ -1,1 +1,1 @@
-var mnemonic = "layer hurdle shrimp deliver review hedgehog satoshi boy fork alarm detect velvet";
+var mnemonic = "orange vacuum twice social alter alert organ pulse stem artwork illegal cabin";

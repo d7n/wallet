@@ -1,1 +1,1 @@
-var mnemonic = "gasp faith select code fit brisk grape liar peanut receive odor action";
+var mnemonic = "heavy flash barrel improve depend sign donate call manual pledge episode prison";

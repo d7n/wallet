@@ -1,1 +1,1 @@
-var mnemonic = "require arch print cupboard interest stumble memory clip must wheat siege tiger";
+var mnemonic = "sell like undo tooth hospital bacon stone weird proud angle victory extend";

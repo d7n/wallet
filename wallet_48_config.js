@@ -1,1 +1,1 @@
-var mnemonic = "either half lizard outdoor infant lion impose consider flower child color guilt";
+var mnemonic = "liberty soldier rare velvet flower office float cable surface catalog weasel mail";

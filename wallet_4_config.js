@@ -1,1 +1,1 @@
-var mnemonic = "twenty stadium sun tenant such awesome female zone gap service wrist bicycle";
+var mnemonic = "symbol wear message occur muscle syrup unknown insect volcano edge steak lecture";

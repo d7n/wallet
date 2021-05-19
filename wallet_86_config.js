@@ -1,1 +1,1 @@
-var mnemonic = "unaware setup moon glue excite cave crop endless runway master bunker gaze";
+var mnemonic = "mushroom purpose body glance birth run boat model meat fold strategy grant";

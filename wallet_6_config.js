@@ -1,1 +1,1 @@
-var mnemonic = "unveil work chaos will maple depth mix suspect gate moral dice crouch";
+var mnemonic = "edit climb spawn sample erosion before invite junior item twelve response because";

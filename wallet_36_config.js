@@ -1,1 +1,1 @@
-var mnemonic = "lecture move deputy glow figure mercy bunker connect rescue demise rescue adapt";
+var mnemonic = "version across wear reward report uncle unusual deny science truck enroll suffer";

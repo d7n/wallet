@@ -1,1 +1,1 @@
-var mnemonic = "change program fan dish base suffer know farm pear grocery gospel pause";
+var mnemonic = "agent slice pitch sweet skill kiss asset cave calm album swallow post";

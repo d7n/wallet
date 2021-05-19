@@ -1,1 +1,1 @@
-var mnemonic = "they deputy flavor adjust gap old vacuum hour soap couple barrel grab";
+var mnemonic = "urban castle betray lake smoke raise border cube hospital bottom into focus";

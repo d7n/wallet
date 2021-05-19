@@ -1,1 +1,1 @@
-var mnemonic = "smile merit goddess mule brief able inform spread steak good aunt gym";
+var mnemonic = "draft mountain junior basket pigeon ankle budget acid pencil fatal depth animal";

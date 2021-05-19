@@ -1,1 +1,1 @@
-var mnemonic = "muffin burst room leisure round icon barrel spare dizzy empower spoon luggage";
+var mnemonic = "shell vacant true poem forest apology bar lonely author exhibit simple million";

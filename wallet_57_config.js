@@ -1,1 +1,1 @@
-var mnemonic = "term fortune tiny mansion depth corn page play congress reform wealth turtle";
+var mnemonic = "enough hello cliff brave truck valve hill head coin churn train walk";

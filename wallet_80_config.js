@@ -1,1 +1,1 @@
-var mnemonic = "chaos glide protect year visit output rescue practice exact armor explain artefact";
+var mnemonic = "tone enemy grit tuna card slam first task almost fork car insect";

@@ -1,1 +1,1 @@
-var mnemonic = "segment cluster raise brave skate skirt program powder drive jewel purpose enter";
+var mnemonic = "level arrest possible cycle spawn vocal donate flash wolf language hurdle squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin owner glass crisp short raise dream lamp roast connect lake drop";
+var mnemonic = "okay argue aunt rather inflict powder dust gown alien enter title essay";

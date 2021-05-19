@@ -1,1 +1,1 @@
-var mnemonic = "century gas core sense rabbit license hunt orchard appear welcome depth nurse";
+var mnemonic = "hurry lizard follow coffee love flag chair machine region song onion payment";

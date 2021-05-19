@@ -1,1 +1,1 @@
-var mnemonic = "pyramid happy assume town citizen giraffe desk want useless wire roast clock";
+var mnemonic = "goose wage blouse lounge song talent retreat bullet gap onion kid grant";

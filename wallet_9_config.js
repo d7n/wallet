@@ -1,1 +1,1 @@
-var mnemonic = "elevator cancel make frozen vicious maze misery hover write mercy frequent claw";
+var mnemonic = "donor merry disorder deliver sugar nasty author morning list reopen awake staff";

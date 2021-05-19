@@ -1,1 +1,1 @@
-var mnemonic = "cloth age fame glory spot giggle boring first school local world crisp";
+var mnemonic = "vibrant custom stadium devote trip world enlist winner such science whisper rail";

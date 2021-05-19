@@ -1,1 +1,1 @@
-var mnemonic = "genre one habit adapt visit pulse window coconut vast absent gravity vendor";
+var mnemonic = "panic genre shift tree credit cricket street soda menu group fresh window";

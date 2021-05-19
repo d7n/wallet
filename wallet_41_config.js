@@ -1,1 +1,1 @@
-var mnemonic = "color common tiny leaf grain earth disorder ethics eyebrow sick screen decorate";
+var mnemonic = "lens effort sock horse spring surprise spy first hedgehog tank bulk physical";

@@ -1,1 +1,1 @@
-var mnemonic = "topic tool galaxy card present diesel boil staff cage label ball benefit";
+var mnemonic = "escape tiny reveal thing area render must soft credit pudding boat bonus";

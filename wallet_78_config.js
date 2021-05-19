@@ -1,1 +1,1 @@
-var mnemonic = "loop link mean forget chase soup diet twice assume drive key symbol";
+var mnemonic = "degree critic fan mom prosper replace agree lemon satisfy issue gather state";

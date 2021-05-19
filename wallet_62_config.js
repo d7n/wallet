@@ -1,1 +1,1 @@
-var mnemonic = "stomach arrest away sorry exit pyramid hand frozen domain noise grass during";
+var mnemonic = "scare whisper erase final tip auction viable ankle year scout urban lift";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen credit pink salute hover eight dune settle soldier brave armor vendor";
+var mnemonic = "ripple still air cause bread aunt frog shield avocado now arch wrist";

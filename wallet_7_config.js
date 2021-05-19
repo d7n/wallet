@@ -1,1 +1,1 @@
-var mnemonic = "poet black brand divert treat despair flip surprise creek wait month album";
+var mnemonic = "barrel merge sentence borrow elbow board nose voyage fan pottery humor ship";

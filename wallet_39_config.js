@@ -1,1 +1,1 @@
-var mnemonic = "mixture system cram used proud ladder shadow impulse parrot rule cruel edge";
+var mnemonic = "myself sibling armed hope regret omit frozen note road scrap adjust unfold";

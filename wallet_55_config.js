@@ -1,1 +1,1 @@
-var mnemonic = "run glance lake clean year shine harsh cargo involve ethics green weird";
+var mnemonic = "velvet fantasy sadness thing aware high shaft card cabin logic pencil color";

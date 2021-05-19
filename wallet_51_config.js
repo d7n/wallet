@@ -1,1 +1,1 @@
-var mnemonic = "gold often human add please dose session please scare review require romance";
+var mnemonic = "garment owner point gadget pave cupboard stool gentle engine embrace output small";

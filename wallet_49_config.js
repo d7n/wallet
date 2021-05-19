@@ -1,1 +1,1 @@
-var mnemonic = "genre smooth drip arena over bless daughter blame usage tone game buyer";
+var mnemonic = "race release eight episode royal size pill pact reduce crawl glare woman";

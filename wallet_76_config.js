@@ -1,1 +1,1 @@
-var mnemonic = "celery video toast appear then acquire mouse acquire category damage certain anchor";
+var mnemonic = "pole melody require buzz room cherry plastic common bag caution there aisle";

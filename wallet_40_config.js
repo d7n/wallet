@@ -1,1 +1,1 @@
-var mnemonic = "frog main frost express chest love lesson begin stick corn dove electric";
+var mnemonic = "hill atom blame goat network art donor nest addict version harsh flock";

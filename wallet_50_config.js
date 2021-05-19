@@ -1,1 +1,1 @@
-var mnemonic = "hazard chunk gloom figure feed bullet ridge planet mercy jar rescue pudding";
+var mnemonic = "arrow other tube foam buyer soldier borrow oil crop cluster diagram brief";

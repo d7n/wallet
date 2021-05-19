@@ -1,1 +1,1 @@
-var mnemonic = "observe victory junior trouble general hold raccoon food finish bounce cloud jelly";
+var mnemonic = "flower glove purchase cost viable year awful metal child comic true gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "toe pave disease table old decide avocado apple position garden sunset test";
+var mnemonic = "knee bright matrix vintage disagree inside end motion useless job rural street";

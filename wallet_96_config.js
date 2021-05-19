@@ -1,1 +1,1 @@
-var mnemonic = "leisure olive quick logic wreck door super arena mammal unlock trend siren";
+var mnemonic = "woman someone visa display disease spoon sock correct video bunker left fire";
