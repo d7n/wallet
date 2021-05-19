@@ -1,1 +1,1 @@
-var mnemonic = "civil utility party very provide shadow soon gold logic name manage barrel";
+var mnemonic = "announce screen crash memory decade mother onion vote quiz champion vault gloom";

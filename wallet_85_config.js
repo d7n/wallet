@@ -1,1 +1,1 @@
-var mnemonic = "essay sail sunny resemble bridge scrap sniff proud blue seminar food corn";
+var mnemonic = "mean faculty feed bread violin flee what any naive junior orange meadow";

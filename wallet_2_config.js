@@ -1,1 +1,1 @@
-var mnemonic = "history fresh pulse ridge brand undo sister desk shield design stumble equip";
+var mnemonic = "album solve maze nothing rival aunt despair account vague mosquito bomb pave";

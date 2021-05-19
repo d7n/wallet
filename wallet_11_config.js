@@ -1,1 +1,1 @@
-var mnemonic = "bulb core action chef memory author bamboo sentence shock empower again call";
+var mnemonic = "raise chair inhale delay mechanic dirt certain fly shallow keep flower zone";

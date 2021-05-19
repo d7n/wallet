@@ -1,1 +1,1 @@
-var mnemonic = "weapon absent essence wolf bid orient almost point trend tree slam pact";
+var mnemonic = "casual little curve gown journey video dance crop transfer jewel embrace tag";

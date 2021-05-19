@@ -1,1 +1,1 @@
-var mnemonic = "arm short rail there release hat weasel glare adult salt catalog erosion";
+var mnemonic = "select then eight sketch trip unveil twenty drip caution jaguar tortoise crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess reopen gauge inject hollow seminar unaware rent satisfy lesson fashion absurd";
+var mnemonic = "reward valid worth duty crystal pipe tobacco dress dignity tip alpha cloud";

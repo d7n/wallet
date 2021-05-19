@@ -1,1 +1,1 @@
-var mnemonic = "defense unusual behind surround begin satoshi hedgehog grain change never drum hen";
+var mnemonic = "tornado humor exclude puppy axis mail again enforce stuff ethics candy snake";

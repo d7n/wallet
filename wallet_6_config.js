@@ -1,1 +1,1 @@
-var mnemonic = "hood report hockey will question praise garbage stage student kit license upgrade";
+var mnemonic = "vibrant buffalo ginger gesture dose bubble village parent spray promote shoe recall";

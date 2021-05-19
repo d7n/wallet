@@ -1,1 +1,1 @@
-var mnemonic = "obvious breeze buzz surface seminar taste split section cave rapid midnight whale";
+var mnemonic = "put drive child balcony minor happy survey cradle equal exist surprise front";

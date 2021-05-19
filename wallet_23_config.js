@@ -1,1 +1,1 @@
-var mnemonic = "volume rural flavor picture puzzle convince duty lazy black guard trim language";
+var mnemonic = "knock reject eyebrow sun inflict pink forward caution club gossip feature mad";

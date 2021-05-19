@@ -1,1 +1,1 @@
-var mnemonic = "champion you whip glare garment drip casino disorder term jar local swallow";
+var mnemonic = "sure spawn local six ankle retire hood ugly pond stand box broken";

@@ -1,1 +1,1 @@
-var mnemonic = "short skill wild shine broom wrestle awful delay truth shiver average print";
+var mnemonic = "perfect alcohol motor enemy husband tackle inform cook budget film poem reopen";

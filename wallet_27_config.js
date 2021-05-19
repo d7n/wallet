@@ -1,1 +1,1 @@
-var mnemonic = "wet obscure column bachelor emotion feed clinic spell wife blast cotton parrot";
+var mnemonic = "ritual quantum brown boy jazz ask sock light vote guide mosquito forest";

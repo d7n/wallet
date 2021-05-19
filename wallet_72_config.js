@@ -1,1 +1,1 @@
-var mnemonic = "arrive combine wheat open grain field vacuum vault palm alpha stock void";
+var mnemonic = "drill slot nerve brisk earn gym piano ramp gain absorb nerve shadow";

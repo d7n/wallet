@@ -1,1 +1,1 @@
-var mnemonic = "rib identify glory keen rubber zoo person nuclear artefact future budget outside";
+var mnemonic = "humor length reduce book apart until proud sing close urge obscure attract";

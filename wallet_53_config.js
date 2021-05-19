@@ -1,1 +1,1 @@
-var mnemonic = "grant eternal learn twelve over wealth expand raise zero attend family typical";
+var mnemonic = "culture milk impulse tuna quit despair mosquito fox option book sign capable";

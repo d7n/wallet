@@ -1,1 +1,1 @@
-var mnemonic = "tone rural phone dinner tomorrow fog elegant arrange bench hat clerk tennis";
+var mnemonic = "raise tent indicate woman dilemma infant trophy dirt basket dinner slow hybrid";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon dwarf leave cart sibling dizzy field normal mix address because into";
+var mnemonic = "equal addict visit cargo visual scorpion april deal pudding best forward valve";

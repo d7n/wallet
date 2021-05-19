@@ -1,1 +1,1 @@
-var mnemonic = "illness else school enter aspect come proof virus shoulder army story banana";
+var mnemonic = "abandon orbit essay into robust sure hip nation boss coach ticket will";

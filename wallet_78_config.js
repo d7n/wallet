@@ -1,1 +1,1 @@
-var mnemonic = "wreck snap drift bench retreat tree obvious absorb movie flee cart reduce";
+var mnemonic = "mind trend donate idle pepper sugar mother drift toilet bomb able army";

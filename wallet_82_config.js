@@ -1,1 +1,1 @@
-var mnemonic = "exchange arrow parent very horse coffee tuna toward bundle small pen thunder";
+var mnemonic = "title height scout island travel beyond thing echo basket search bless helmet";

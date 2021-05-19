@@ -1,1 +1,1 @@
-var mnemonic = "save knock pride trust urge frog misery online must review vivid case";
+var mnemonic = "tell bus screen boss act possible auction speak ignore intact cousin law";

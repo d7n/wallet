@@ -1,1 +1,1 @@
-var mnemonic = "brother resemble prefer before timber general busy during blush twice engine race";
+var mnemonic = "gun throw industry female paddle chef permit lens cheap warm success solution";

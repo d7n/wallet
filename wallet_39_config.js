@@ -1,1 +1,1 @@
-var mnemonic = "menu middle humble broccoli phrase little fruit kind monitor evolve addict absurd";
+var mnemonic = "tortoise rare force educate stadium ball tongue rug kite rich toy barely";

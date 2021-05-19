@@ -1,1 +1,1 @@
-var mnemonic = "slide giggle patrol ticket swamp kangaroo february obscure pole deliver course earth";
+var mnemonic = "forest guilt pottery adjust cousin power avocado skate turn wood kangaroo finish";

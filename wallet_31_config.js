@@ -1,1 +1,1 @@
-var mnemonic = "enemy torch escape rabbit wire fork armor mouse suit shiver income twin";
+var mnemonic = "buddy reduce easily obtain muscle prison acoustic room october produce charge tube";

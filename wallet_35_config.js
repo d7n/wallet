@@ -1,1 +1,1 @@
-var mnemonic = "unveil tackle real where loyal hamster device funny shoulder fuel inflict fog";
+var mnemonic = "dignity jealous castle metal despair glue start best ill fade lens curious";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle legal old kitchen roast stable glove believe soup mule else chief";
+var mnemonic = "benefit maple butter post hint before general leopard real pilot alter squeeze";

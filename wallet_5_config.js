@@ -1,1 +1,1 @@
-var mnemonic = "tongue void critic legend uniform spatial ripple bring scout combine fashion muffin";
+var mnemonic = "super piece travel stable chicken north until car job cement remind first";

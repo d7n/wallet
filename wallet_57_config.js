@@ -1,1 +1,1 @@
-var mnemonic = "space juice pretty peanut say hawk keen key crane sock brand history";
+var mnemonic = "soul feature govern original slow matrix soon offer crowd apology twenty alarm";

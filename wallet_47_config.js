@@ -1,1 +1,1 @@
-var mnemonic = "brisk barely denial trick awesome term mountain surround describe logic athlete ride";
+var mnemonic = "amateur remove velvet injury regret believe captain author rebel hand sword rough";

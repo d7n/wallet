@@ -1,1 +1,1 @@
-var mnemonic = "ticket praise page season coil strategy error solve grocery print buddy news";
+var mnemonic = "coconut faculty target umbrella flower waste fortune kit uncover mother urban dash";

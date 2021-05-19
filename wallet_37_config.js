@@ -1,1 +1,1 @@
-var mnemonic = "moment retreat spoon nominee govern clerk minor lemon void number expire chalk";
+var mnemonic = "squeeze stem world easy pudding slogan crouch wire bicycle legend biology famous";

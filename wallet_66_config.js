@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wedding tag sister welcome expose lady business eagle fence gift method";
+var mnemonic = "hungry bargain manage swallow choose museum dice gloom vocal select candy surge";

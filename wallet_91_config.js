@@ -1,1 +1,1 @@
-var mnemonic = "doctor later frozen normal away trust muscle draft melody pig smart adjust";
+var mnemonic = "hammer order flavor laundry example level decide rubber engage indoor sort arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth actress spray umbrella agree analyst crawl spread dwarf bargain receive thing";
+var mnemonic = "boil rare twenty blind timber pill funny tell kitchen crash pistol vanish";

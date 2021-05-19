@@ -1,1 +1,1 @@
-var mnemonic = "jacket you forum ecology palace oval expand spoil runway cattle spice indicate";
+var mnemonic = "garlic supreme nation theory food ball globe answer name garment cannon receive";

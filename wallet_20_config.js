@@ -1,1 +1,1 @@
-var mnemonic = "border person silent area blame funny foam defy element tower ceiling crater";
+var mnemonic = "police sand light unusual female top swarm blush seat slender cupboard lizard";

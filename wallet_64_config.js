@@ -1,1 +1,1 @@
-var mnemonic = "age brass version gun menu royal snap concert misery labor wash uniform";
+var mnemonic = "scorpion jar rotate stove parrot mammal wild pool walk champion jungle entry";

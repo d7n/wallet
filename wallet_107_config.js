@@ -1,1 +1,1 @@
-var mnemonic = "warfare dove oven mushroom stem odor permit prefer reward easy admit tape";
+var mnemonic = "game broken drink swap noise switch slam garment peasant hire easily master";

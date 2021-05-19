@@ -1,1 +1,1 @@
-var mnemonic = "crumble person document fish input devote because category ecology accuse alarm inherit";
+var mnemonic = "price steel group inflict chest wonder relax history smile clay aisle girl";

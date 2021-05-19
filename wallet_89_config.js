@@ -1,1 +1,1 @@
-var mnemonic = "donate spatial glove main hood camp velvet country buddy sadness light wrestle";
+var mnemonic = "forget primary leg ride worth club employ ring portion omit opera again";

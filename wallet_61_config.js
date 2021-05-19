@@ -1,1 +1,1 @@
-var mnemonic = "hold pottery furnace net junk cluster reflect vault oval slot swap layer";
+var mnemonic = "tribe endless fire able worry rate come denial patient connect vapor lava";

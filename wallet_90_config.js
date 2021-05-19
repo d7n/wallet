@@ -1,1 +1,1 @@
-var mnemonic = "october visual isolate dumb junk bachelor cheese artefact write panda benefit purpose";
+var mnemonic = "document cry friend idle cube mother napkin hungry add inhale duck because";

@@ -1,1 +1,1 @@
-var mnemonic = "knock dad nerve various gloom ecology above vessel network blush health rail";
+var mnemonic = "document similar input fortune across illness mixture affair flat legal wet alpha";

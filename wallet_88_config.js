@@ -1,1 +1,1 @@
-var mnemonic = "mad satoshi history empower whale soccer inmate essence hurdle reason oblige enjoy";
+var mnemonic = "purity leisure soldier master ten under fatal step satisfy treat need stereo";

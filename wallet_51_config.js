@@ -1,1 +1,1 @@
-var mnemonic = "walnut flee pepper wise mention sunset bulk cash sight auction naive spin";
+var mnemonic = "flush fog online clip occur army receive waste put ordinary stomach toe";

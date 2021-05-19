@@ -1,1 +1,1 @@
-var mnemonic = "want blossom exile diet cry swim clown call thank field clump welcome";
+var mnemonic = "asset travel crush two echo drift educate hurdle judge wink fan card";

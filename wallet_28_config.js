@@ -1,1 +1,1 @@
-var mnemonic = "race immense around auto virtual domain asthma emotion equip chef now tourist";
+var mnemonic = "prison vanish lady wash choice ramp strategy must evil flip bomb pumpkin";

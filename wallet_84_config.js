@@ -1,1 +1,1 @@
-var mnemonic = "resemble pony jelly clump deliver include usage armed punch anger wild project";
+var mnemonic = "sail drive wild wish flower length garage record pole because upgrade pair";

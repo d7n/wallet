@@ -1,1 +1,1 @@
-var mnemonic = "extend camera panel ostrich tail derive exotic width divide floor pioneer athlete";
+var mnemonic = "trick rib refuse youth child today shield perfect tornado task birth web";

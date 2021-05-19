@@ -1,1 +1,1 @@
-var mnemonic = "skill dumb magnet blood brass captain spider before private thank kiwi dumb";
+var mnemonic = "mountain fantasy leisure rent disagree case swear merge current document foster milk";

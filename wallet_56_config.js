@@ -1,1 +1,1 @@
-var mnemonic = "steel light figure divide soldier maze palm army tonight rabbit cram profit";
+var mnemonic = "arrest bulk action random ring assault basic extra ten sausage unfair hobby";

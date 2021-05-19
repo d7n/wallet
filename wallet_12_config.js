@@ -1,1 +1,1 @@
-var mnemonic = "hurdle beyond bubble humble token glimpse zebra virtual flat picture amateur buyer";
+var mnemonic = "pipe embrace never seminar dirt wise skate enough mango truth tube laugh";

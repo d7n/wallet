@@ -1,1 +1,1 @@
-var mnemonic = "roast snap glue chase mandate best fee fiction enhance sorry ahead squeeze";
+var mnemonic = "ordinary buddy remember cabbage inch utility bronze swallow material core sadness rabbit";

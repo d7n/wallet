@@ -1,1 +1,1 @@
-var mnemonic = "wealth wire rain bag there sure zero follow viable jaguar stem half";
+var mnemonic = "view merry pencil scissors bread smile jungle recipe text total sun uncle";

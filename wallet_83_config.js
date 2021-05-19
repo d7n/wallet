@@ -1,1 +1,1 @@
-var mnemonic = "subject resource feed rough defense famous duck royal melt inquiry saddle senior";
+var mnemonic = "kite guide sibling tiger cliff conduct arena swamp symbol raccoon calm small";

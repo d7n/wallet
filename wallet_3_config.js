@@ -1,1 +1,1 @@
-var mnemonic = "silent cry exile exhibit morning key decline tackle height future road search";
+var mnemonic = "seminar nut net rhythm cactus cave catalog coffee cross stadium host bargain";

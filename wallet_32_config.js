@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow local drum avoid emotion young they almost person loud help between";
+var mnemonic = "beef plate donkey bag people host analyst federal sight imitate drip orbit";

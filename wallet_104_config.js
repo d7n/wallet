@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur injury open surprise inject nephew exit mechanic baby skirt bamboo conduct";
+var mnemonic = "sorry sustain unlock donkey settle mixed woman forget bright ritual priority exchange";

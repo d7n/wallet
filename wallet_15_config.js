@@ -1,1 +1,1 @@
-var mnemonic = "oval agent give aunt ugly repeat sugar rug during gentle fluid rose";
+var mnemonic = "fee strategy elbow inflict timber renew rose wave olive pumpkin scatter scorpion";

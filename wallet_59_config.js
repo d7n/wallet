@@ -1,1 +1,1 @@
-var mnemonic = "start soap visual combine dutch blood wrist picture nominee group minor city";
+var mnemonic = "suggest monkey cage tilt access clap cover off world stay olympic uphold";

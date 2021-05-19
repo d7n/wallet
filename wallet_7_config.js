@@ -1,1 +1,1 @@
-var mnemonic = "fan evoke scorpion flame type hip fat anxiety trumpet dress turtle message";
+var mnemonic = "clog search goat half stove street merge tourist radio cute liberty bitter";

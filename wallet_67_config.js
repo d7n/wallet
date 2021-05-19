@@ -1,1 +1,1 @@
-var mnemonic = "quantum pool this valid begin empower address hospital various dignity perfect entry";
+var mnemonic = "pink horror adapt innocent broken give track merge margin open blue fringe";

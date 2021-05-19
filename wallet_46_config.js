@@ -1,1 +1,1 @@
-var mnemonic = "account usage demise salad melt stand seven rebel right rhythm room buyer";
+var mnemonic = "quantum casual error laundry earn tennis address announce message once walk tape";

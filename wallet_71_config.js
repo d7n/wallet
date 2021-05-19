@@ -1,1 +1,1 @@
-var mnemonic = "breeze three bonus summer drastic usual census ozone tip diary tilt jaguar";
+var mnemonic = "scatter crash scorpion daughter fantasy stadium topic legal protect comfort drink bar";

@@ -1,1 +1,1 @@
-var mnemonic = "divide dignity repeat oxygen season actual edit desert tone phone melt brown";
+var mnemonic = "broken tray group corn truly offer property dizzy day pottery story race";

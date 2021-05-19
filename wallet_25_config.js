@@ -1,1 +1,1 @@
-var mnemonic = "segment hover youth ask gloom twin special plug eager arrive flavor barrel";
+var mnemonic = "accident human tobacco brick spider cause praise cheap expire reopen half paddle";

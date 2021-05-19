@@ -1,1 +1,1 @@
-var mnemonic = "ignore buddy action member cactus impact dilemma ceiling leader diary fantasy remain";
+var mnemonic = "mistake nation sort describe wish injury member badge convince ritual deliver window";

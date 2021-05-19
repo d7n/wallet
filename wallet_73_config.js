@@ -1,1 +1,1 @@
-var mnemonic = "disorder ordinary author attend honey region traffic skin symbol maze season genuine";
+var mnemonic = "matter pass brand zebra orient flee vital conduct pioneer staff melody sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "craft card oven light inner nut slam air derive common heavy female";
+var mnemonic = "broken angry race output derive spawn sing anchor kid turn speak element";

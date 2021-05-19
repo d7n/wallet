@@ -1,1 +1,1 @@
-var mnemonic = "man can virtual cattle mirror street question little fire breeze surprise soap";
+var mnemonic = "panther step lion mesh ethics lava friend brief album ladder motor joke";

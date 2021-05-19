@@ -1,1 +1,1 @@
-var mnemonic = "traffic snow digital helmet jeans boil slab banner universe miss grunt river";
+var mnemonic = "hurdle soup laundry age window uncle ritual size ticket inhale urge assume";

@@ -1,1 +1,1 @@
-var mnemonic = "secret false helmet mom panther until lumber category crater decrease defy essence";
+var mnemonic = "hero art shoot angle dilemma vote pizza elite major action yard traffic";

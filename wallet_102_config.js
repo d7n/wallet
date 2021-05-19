@@ -1,1 +1,1 @@
-var mnemonic = "feel yard unlock finger sound canyon hammer digital token chase option half";
+var mnemonic = "custom rib monkey pilot result local conduct reopen fuel enlist sport laptop";

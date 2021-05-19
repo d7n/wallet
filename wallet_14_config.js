@@ -1,1 +1,1 @@
-var mnemonic = "discover uphold oxygen decline expose radar black ship comic glove eager paper";
+var mnemonic = "hedgehog certain glue marriage major design shadow marble window noodle kind vocal";

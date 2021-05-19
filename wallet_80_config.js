@@ -1,1 +1,1 @@
-var mnemonic = "pony simple gun stage market mix fix defy worry arena fun example";
+var mnemonic = "into misery gorilla more hybrid below boy rug person caught laugh false";

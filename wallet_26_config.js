@@ -1,1 +1,1 @@
-var mnemonic = "giggle iron pair taxi network pigeon first all place badge street pluck";
+var mnemonic = "oblige coin random never tray ketchup solution object mention raw piano rather";

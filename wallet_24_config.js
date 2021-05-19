@@ -1,1 +1,1 @@
-var mnemonic = "feature vessel carpet buzz face ocean gap pencil culture satisfy talk gospel";
+var mnemonic = "pretty ethics clump dial split agree pet silver arena glory member waste";

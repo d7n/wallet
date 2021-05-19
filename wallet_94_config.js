@@ -1,1 +1,1 @@
-var mnemonic = "silent clown awful document unveil leave staff inquiry blast inhale monster okay";
+var mnemonic = "tilt casual weather proof deputy uncover road puppy equal hobby bubble gap";

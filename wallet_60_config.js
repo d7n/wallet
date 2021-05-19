@@ -1,1 +1,1 @@
-var mnemonic = "puppy diesel error increase dish gift great soccer repeat machine cook theory";
+var mnemonic = "initial raven direct among slice marine pet again ill candy project habit";

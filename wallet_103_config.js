@@ -1,1 +1,1 @@
-var mnemonic = "segment answer drastic finger switch assume anger rude sorry genuine before recycle";
+var mnemonic = "limb wool void arena hen tent manual paddle hotel behave seven frequent";

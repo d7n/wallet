@@ -1,1 +1,1 @@
-var mnemonic = "like you length love holiday mandate pulp erode sheriff false south mirror";
+var mnemonic = "outdoor helmet exchange close alien ugly pass bottom panther eternal favorite athlete";

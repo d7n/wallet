@@ -1,1 +1,1 @@
-var mnemonic = "sun license pizza develop multiply sentence horn timber pelican can patch august";
+var mnemonic = "vital cost void grow convince plate nephew sunny mistake today ripple dove";

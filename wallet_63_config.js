@@ -1,1 +1,1 @@
-var mnemonic = "orphan hat remove song turn fan twice among toss offer bacon kingdom";
+var mnemonic = "coyote flame marriage very food health finger apology actor fatigue hint federal";

@@ -1,1 +1,1 @@
-var mnemonic = "can ugly phone nest change option pave hour unable maid model globe";
+var mnemonic = "baby early unhappy doll gym hazard crisp umbrella festival vicious roast comfort";

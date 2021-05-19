@@ -1,1 +1,1 @@
-var mnemonic = "wide expand silly uncover bus boil present practice dwarf leader illegal adjust";
+var mnemonic = "basket letter erase sting kitchen demise promote theme rare message health punch";

@@ -1,1 +1,1 @@
-var mnemonic = "dune potato long card charge supreme light rebuild universe depth still rib";
+var mnemonic = "rocket toast fame armor once shed disagree argue palm disorder idea mimic";

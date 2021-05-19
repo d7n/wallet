@@ -1,1 +1,1 @@
-var mnemonic = "spin doctor addict asthma cabin gloom major random daughter bubble wolf slow";
+var mnemonic = "develop account inherit team bundle seminar calm know hurry limit stamp better";

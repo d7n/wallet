@@ -1,1 +1,1 @@
-var mnemonic = "venture swap video exotic panther fee tone motor system stamp horn abstract";
+var mnemonic = "save super thought furnace cotton bind ensure security depart walnut hour laptop";
