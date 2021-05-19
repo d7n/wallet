@@ -1,1 +1,1 @@
-var mnemonic = "secret trip hope rain fence winner game fox under open crane there";
+var mnemonic = "badge genre october clay orient access ticket start mouse best royal sketch";

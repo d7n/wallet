@@ -1,1 +1,1 @@
-var mnemonic = "stay problem play gown way kidney such segment trash float bench silver";
+var mnemonic = "inmate autumn pact heavy talent pluck method twelve fancy puppy tuition appear";

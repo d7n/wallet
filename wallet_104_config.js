@@ -1,1 +1,1 @@
-var mnemonic = "remain myth legal puppy assault rule crouch spawn home buddy cube enforce";
+var mnemonic = "visit reward rubber boring eight october victory lumber voice brass general alter";

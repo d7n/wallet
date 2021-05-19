@@ -1,1 +1,1 @@
-var mnemonic = "cabin improve actress rifle kangaroo diamond hotel barrel human tragic debris elite";
+var mnemonic = "health brick black one powder few science reward napkin close cousin core";

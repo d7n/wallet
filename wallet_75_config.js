@@ -1,1 +1,1 @@
-var mnemonic = "pipe wrestle violin loyal moment day matter address dance luxury hybrid nothing";
+var mnemonic = "salon catalog gentle ticket retreat girl crunch rotate round cart lumber hedgehog";

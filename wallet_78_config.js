@@ -1,1 +1,1 @@
-var mnemonic = "alley meat voice harsh ill birth jacket right celery seek pull machine";
+var mnemonic = "width cattle clay zero violin blood rough fury float miss traffic anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle evolve start salad almost face twin host fatal path gesture yard";
+var mnemonic = "will like puzzle broccoli bundle desert other rival doll luxury island empower";

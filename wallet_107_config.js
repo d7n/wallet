@@ -1,1 +1,1 @@
-var mnemonic = "warfare fruit praise awkward sponsor gain true trap glad seat become only";
+var mnemonic = "point general cage thank system enable chair trend nasty often clump town";

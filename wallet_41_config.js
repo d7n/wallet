@@ -1,1 +1,1 @@
-var mnemonic = "rhythm fold head tuna raccoon young voice used oblige describe parade rain";
+var mnemonic = "code float habit vehicle flush mango trick brown edge question skin catch";

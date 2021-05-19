@@ -1,1 +1,1 @@
-var mnemonic = "level hair swift gain candy almost chicken relax supreme hole chaos kick";
+var mnemonic = "muscle success vital develop grid danger more strike height lake cattle lawsuit";

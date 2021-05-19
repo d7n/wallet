@@ -1,1 +1,1 @@
-var mnemonic = "desk labor powder rigid word million proof twelve just grunt toward oven";
+var mnemonic = "lady visit then face staff window fish thumb just music floor horse";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk talent tuna speak marriage control quiz inch layer lock unlock exchange";
+var mnemonic = "guess wink provide follow very castle timber birth ginger strong silver end";

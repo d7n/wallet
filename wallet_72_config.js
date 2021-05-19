@@ -1,1 +1,1 @@
-var mnemonic = "trap search monkey tail behind spoil bundle custom glance mixed sea change";
+var mnemonic = "join hood issue foil matter matrix merit mechanic train super render hire";

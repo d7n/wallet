@@ -1,1 +1,1 @@
-var mnemonic = "load addict humble gravity warm hen enroll silver joy fade shop click";
+var mnemonic = "jacket pluck doctor news clog output chapter sorry obey visual essay extra";

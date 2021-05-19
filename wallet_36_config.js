@@ -1,1 +1,1 @@
-var mnemonic = "attend morning stem hurry ancient best category lion excuse laptop salute drive";
+var mnemonic = "normal neck table junk ranch patrol drift define egg grass hard gown";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson common series struggle update truly top trophy adjust impact green decrease";
+var mnemonic = "river increase inherit purchase symptom expire stadium ranch another crumble permit hand";

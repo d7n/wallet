@@ -1,1 +1,1 @@
-var mnemonic = "zoo dice thunder modify slice inquiry artefact hat fish insect small lion";
+var mnemonic = "wise camera tortoise ritual warm identify tent solid sausage debris own chronic";

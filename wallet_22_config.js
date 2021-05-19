@@ -1,1 +1,1 @@
-var mnemonic = "figure matter jump knee dune bless beyond erase embark cotton swim ranch";
+var mnemonic = "stuff suit inside example lesson dignity glove unfold neutral sustain quit cancel";

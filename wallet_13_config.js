@@ -1,1 +1,1 @@
-var mnemonic = "object boss ordinary armed fossil charge farm maple collect buffalo depart tip";
+var mnemonic = "pill coffee zoo shop much unfold review armor curtain violin demand one";

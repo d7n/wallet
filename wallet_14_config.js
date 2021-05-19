@@ -1,1 +1,1 @@
-var mnemonic = "boil fame elbow zoo clinic master steak zebra solve build caution witness";
+var mnemonic = "general cave copy jewel zebra advice click fold wagon insane occur bus";

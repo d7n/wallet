@@ -1,1 +1,1 @@
-var mnemonic = "dove inside cousin venture hedgehog rebuild direct mule parade yellow dice play";
+var mnemonic = "pact gesture noodle bomb fluid small alcohol prize recipe endorse sudden dune";

@@ -1,1 +1,1 @@
-var mnemonic = "physical bonus fiber rack woman impose magic breeze require minute story female";
+var mnemonic = "intact sheriff token message exotic advice machine acquire aisle west noble fade";

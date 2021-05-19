@@ -1,1 +1,1 @@
-var mnemonic = "task change genuine leave flush lottery right fish purity hunt moment gesture";
+var mnemonic = "flock media unit real record actual document twice accuse potato laundry gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "slice enemy beef boat parrot bar bicycle balcony impact ring leg relief";
+var mnemonic = "engage bracket farm heavy execute forget today change cigar menu dwarf dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "night half zebra vague very strong lazy fruit cannon manual color produce";
+var mnemonic = "now item favorite soup sight equip walk discover clap fog life push";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel orange royal advice good pink update gas paddle entire obscure outer";
+var mnemonic = "beef avoid connect minimum boil ripple world good cattle woman vague lion";

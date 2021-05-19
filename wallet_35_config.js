@@ -1,1 +1,1 @@
-var mnemonic = "soccer hotel human music swing fancy identify rent notable leaf endless ski";
+var mnemonic = "admit drastic winner cash high method dish palace embark cook quick chaos";

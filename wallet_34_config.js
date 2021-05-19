@@ -1,1 +1,1 @@
-var mnemonic = "source fitness valve net clock twelve fall choice laugh satisfy carry valley";
+var mnemonic = "sing enhance impose pencil dinosaur tuition coil process soda discover timber always";

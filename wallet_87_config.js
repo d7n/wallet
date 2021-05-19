@@ -1,1 +1,1 @@
-var mnemonic = "apple tone give cup marble photo safe action saddle world cigar enable";
+var mnemonic = "problem foot burger glory run soap chief warfare toss pioneer unlock worry";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch ecology style unveil state attitude develop please grit bundle mind young";
+var mnemonic = "acid hint pact injury monster cat spray swift orbit table quality wire";

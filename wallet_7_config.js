@@ -1,1 +1,1 @@
-var mnemonic = "rural disagree kind burger fury swallow high gorilla apart window bench detect";
+var mnemonic = "modify figure sponsor club tree write barely sample bridge maple solid garden";

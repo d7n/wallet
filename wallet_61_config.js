@@ -1,1 +1,1 @@
-var mnemonic = "butter glove gorilla jeans still person aspect patrol blame baby airport forward";
+var mnemonic = "weasel frozen rule start across excite sadness business artist eyebrow shy simple";

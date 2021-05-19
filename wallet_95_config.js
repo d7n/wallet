@@ -1,1 +1,1 @@
-var mnemonic = "spawn bounce bus subject base adjust catalog solve glare fault donor order";
+var mnemonic = "boat concert always layer pipe envelope ridge carpet patient version boost celery";

@@ -1,1 +1,1 @@
-var mnemonic = "define two magic image prepare laugh general pink place hire capable flat";
+var mnemonic = "cement abuse embody fee radio matrix travel grain current rotate street debate";

@@ -1,1 +1,1 @@
-var mnemonic = "side under area live note pride sunset cloth thank glue sentence valley";
+var mnemonic = "enable december trim easily pulse mutual oblige industry birth palace sing shell";

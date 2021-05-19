@@ -1,1 +1,1 @@
-var mnemonic = "young cube together autumn joke unaware hello stadium now hour sign fabric";
+var mnemonic = "library spring desk drama lecture laundry embrace artwork across grain cherry way";

@@ -1,1 +1,1 @@
-var mnemonic = "frown walk dash skull cheap act scatter rail long love split skill";
+var mnemonic = "print pull other dance notice mystery cushion hire angry tower flat left";

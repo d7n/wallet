@@ -1,1 +1,1 @@
-var mnemonic = "keep goose impose clean garlic beauty alley reason before rack disease sudden";
+var mnemonic = "remember admit onion defy auction purity lesson lunar simple fossil butter company";

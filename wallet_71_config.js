@@ -1,1 +1,1 @@
-var mnemonic = "bullet upgrade regular license same harvest end conduct arrest hurt outside donkey";
+var mnemonic = "rich echo tiny live culture input trust smoke evil stone chimney suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "mom system satoshi stable airport bronze science just wonder pottery middle hood";
+var mnemonic = "question degree boost skull puzzle tree program success thumb estate bullet unhappy";

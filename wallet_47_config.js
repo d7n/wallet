@@ -1,1 +1,1 @@
-var mnemonic = "funny palm join sleep check earn trigger cactus smooth valid call equal";
+var mnemonic = "chase thing slim because calm reward anxiety uncover prepare whisper steak miss";

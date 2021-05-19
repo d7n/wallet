@@ -1,1 +1,1 @@
-var mnemonic = "dice royal kidney anchor episode toddler angle uncle parent smile arm gaze";
+var mnemonic = "lobster ancient author attack wide layer option tired carpet pride among battle";

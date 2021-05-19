@@ -1,1 +1,1 @@
-var mnemonic = "imitate display setup bring truly adult teach jungle biology chapter lumber vapor";
+var mnemonic = "offer oven play trick claim flame away blur fiction category victory host";

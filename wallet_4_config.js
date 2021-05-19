@@ -1,1 +1,1 @@
-var mnemonic = "rare welcome clip enter hood rookie sun vehicle safe crack napkin false";
+var mnemonic = "blanket crumble clock soap grape pear minute patient artefact thumb process crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich umbrella proof endorse art october cave torch digital random expect hello";
+var mnemonic = "behave achieve cupboard coast sniff page purpose leaf dumb grass outside dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "year enhance remove appear vocal bacon trophy arrest enact sand finish farm";
+var mnemonic = "image pig gas vacant wrong traffic celery blanket absent warrior symbol ahead";

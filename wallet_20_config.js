@@ -1,1 +1,1 @@
-var mnemonic = "hobby crawl average syrup oxygen member receive alter trophy display educate obscure";
+var mnemonic = "street convince scare legend educate parent dirt girl debris crisp unusual claim";

@@ -1,1 +1,1 @@
-var mnemonic = "layer bubble powder story one grab mouse copy stuff useful inquiry claim";
+var mnemonic = "magnet vote balcony tonight gauge mistake defense blame volume alien hood glue";

@@ -1,1 +1,1 @@
-var mnemonic = "story moon album foil kangaroo scheme student nice hybrid thrive tornado fabric";
+var mnemonic = "depth village glue can pair swamp island sound fatal craft calm good";

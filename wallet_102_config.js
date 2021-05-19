@@ -1,1 +1,1 @@
-var mnemonic = "loud deny side buddy smart meat kid bench spoil rent snow snap";
+var mnemonic = "raw captain canal return mushroom bachelor error medal organ canoe velvet punch";

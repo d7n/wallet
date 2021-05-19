@@ -1,1 +1,1 @@
-var mnemonic = "mandate popular fabric gravity regret control uncle diagram exclude resource acid income";
+var mnemonic = "riot target wear hollow shiver spare dove refuse defense trumpet belt erupt";

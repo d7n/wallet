@@ -1,1 +1,1 @@
-var mnemonic = "jazz aspect season blood slow there combine wreck wide fury swap throw";
+var mnemonic = "faint jump present case industry because cactus depth ticket little chef fold";

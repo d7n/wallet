@@ -1,1 +1,1 @@
-var mnemonic = "mammal treat media keen crowd charge toss spin grunt pistol rebel rescue";
+var mnemonic = "festival control lava beauty water exclude roof gaze tide civil include turkey";

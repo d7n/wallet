@@ -1,1 +1,1 @@
-var mnemonic = "crawl muffin drive glimpse truly bench tissue adult orchard stage useful brain";
+var mnemonic = "tortoise deer strong march rescue claim hedgehog ankle endless scorpion scene either";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage embrace pencil goat card express affair puppy dilemma gain unique promote";
+var mnemonic = "inhale clay size fresh student argue rate family solution pride wide music";

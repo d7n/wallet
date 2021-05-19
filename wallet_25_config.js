@@ -1,1 +1,1 @@
-var mnemonic = "creek soldier vast sponsor evolve below exchange what rough ride another churn";
+var mnemonic = "possible dinosaur black negative depth helmet best canyon jungle finish enlist current";

@@ -1,1 +1,1 @@
-var mnemonic = "budget medal salad pizza segment cause edit pizza gap funny future local";
+var mnemonic = "skirt alert suspect donkey bleak lab tool assume abstract fossil chunk waste";

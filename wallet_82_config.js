@@ -1,1 +1,1 @@
-var mnemonic = "fog arrive spice vital east alarm caught giant student rifle trick kid";
+var mnemonic = "rice call jewel resource phrase captain hand rent below lift trend rude";

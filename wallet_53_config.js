@@ -1,1 +1,1 @@
-var mnemonic = "develop private mask decide chalk pull frozen beyond thought diagram knife reunion";
+var mnemonic = "tenant fall slab wise park wolf text pull brief process shock spend";

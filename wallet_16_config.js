@@ -1,1 +1,1 @@
-var mnemonic = "girl key prison drive apology alter model bacon cart return blast essence";
+var mnemonic = "noble tuna alpha rude husband trap mixed glass text message very task";

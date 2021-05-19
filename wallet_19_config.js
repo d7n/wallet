@@ -1,1 +1,1 @@
-var mnemonic = "swallow wonder check letter occur puzzle cake live gold remember seminar pretty";
+var mnemonic = "diet come axis area fiber once better taste piece open offer hat";

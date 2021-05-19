@@ -1,1 +1,1 @@
-var mnemonic = "soldier connect fringe display pear consider empower violin casual mention harbor fit";
+var mnemonic = "trade pool portion welcome liberty multiply tip curve vicious engine empty foil";

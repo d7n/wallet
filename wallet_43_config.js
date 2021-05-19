@@ -1,1 +1,1 @@
-var mnemonic = "athlete where hero photo sausage then dirt market pelican execute main approve";
+var mnemonic = "trap fortune athlete move bitter spawn blast correct harsh trash hen wink";

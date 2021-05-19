@@ -1,1 +1,1 @@
-var mnemonic = "thumb carpet joke access spirit veteran found solar embody weekend common behave";
+var mnemonic = "accuse pet grit parrot dress fitness novel donate ahead rib nose dignity";

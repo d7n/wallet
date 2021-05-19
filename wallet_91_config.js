@@ -1,1 +1,1 @@
-var mnemonic = "forget salt defy shiver trumpet spring amount round chapter help champion slight";
+var mnemonic = "dust coast crystal universe current casual just monitor always midnight wheel verify";

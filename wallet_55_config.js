@@ -1,1 +1,1 @@
-var mnemonic = "screen theory blossom merry embody borrow shine banner quarter orange dice post";
+var mnemonic = "cheese slush work tunnel panel width powder define stadium mixture south uniform";

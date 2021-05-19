@@ -1,1 +1,1 @@
-var mnemonic = "hurry usual already armed sausage exit predict sample worth radio salute fringe";
+var mnemonic = "urban credit practice clinic entry carry cool govern ready believe stomach wish";

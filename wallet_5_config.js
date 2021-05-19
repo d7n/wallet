@@ -1,1 +1,1 @@
-var mnemonic = "raise east crane produce strike math never curious banner erode mobile demise";
+var mnemonic = "project region junk strategy fury segment throw upon capable drink grass neglect";

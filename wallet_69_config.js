@@ -1,1 +1,1 @@
-var mnemonic = "possible monkey dwarf corn aim wool list chef truly rib grab next";
+var mnemonic = "wise balance sadness obvious gun stadium knock notable sibling captain pet cart";

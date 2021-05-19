@@ -1,1 +1,1 @@
-var mnemonic = "thrive royal always burst speak slice replace farm ski essence friend parrot";
+var mnemonic = "moral receive other lava science move merge match guess tank palace long";

@@ -1,1 +1,1 @@
-var mnemonic = "sign aspect soldier quote alert initial true fashion shuffle iron choose noble";
+var mnemonic = "silver keep welcome amount cake couch hen sort resemble height grid luggage";

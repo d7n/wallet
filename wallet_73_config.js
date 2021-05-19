@@ -1,1 +1,1 @@
-var mnemonic = "above song neutral home exchange already donor rose language spare doctor glue";
+var mnemonic = "buzz armor awful regret mansion net box tank north stand primary hawk";

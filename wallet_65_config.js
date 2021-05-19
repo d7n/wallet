@@ -1,1 +1,1 @@
-var mnemonic = "cook two duck sing modify nephew ridge mistake already fly escape fragile";
+var mnemonic = "luggage saddle three hope two noise snake ignore ostrich odor cheese know";

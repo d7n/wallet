@@ -1,1 +1,1 @@
-var mnemonic = "wall month puzzle explain flower topple tuna chimney develop broom fantasy film";
+var mnemonic = "ketchup liar adjust black beach version panther sure reform glove opera tube";

@@ -1,1 +1,1 @@
-var mnemonic = "loan second fitness old ethics coin slam spike safe journey clinic jazz";
+var mnemonic = "today economy alpha winter fitness often wheel gadget series broom animal jaguar";

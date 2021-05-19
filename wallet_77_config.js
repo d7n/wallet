@@ -1,1 +1,1 @@
-var mnemonic = "shrimp better blade siege motion sick general noodle jacket million unit venture";
+var mnemonic = "shadow gravity dynamic creek wall crane begin cattle mass select broccoli work";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger affair route panther awake oven picnic front ice solar range pledge";
+var mnemonic = "cycle edge favorite hurdle spray close cement void inquiry there life course";

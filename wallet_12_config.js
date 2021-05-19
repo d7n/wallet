@@ -1,1 +1,1 @@
-var mnemonic = "differ jaguar member bean woman version tell cake defy dial need agent";
+var mnemonic = "donate boil thank tomato exit small sentence evil unfold decline casual giant";

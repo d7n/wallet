@@ -1,1 +1,1 @@
-var mnemonic = "awesome traffic vacant fiber skill glance pink case cabbage burger body aim";
+var mnemonic = "enforce lend fat trophy slush cactus chronic train certain monkey wheat giraffe";

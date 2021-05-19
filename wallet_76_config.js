@@ -1,1 +1,1 @@
-var mnemonic = "close pledge proof easy job win govern edit dragon output twist protect";
+var mnemonic = "caution jeans pottery debris fresh school pretty supreme garment hub planet skull";

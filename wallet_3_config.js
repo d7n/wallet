@@ -1,1 +1,1 @@
-var mnemonic = "wheat segment net candy address can nut lemon will floor rival zone";
+var mnemonic = "alarm daring review indicate occur kite goose oven elbow ocean among dynamic";

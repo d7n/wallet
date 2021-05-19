@@ -1,1 +1,1 @@
-var mnemonic = "pupil tool clog bundle episode walnut math large mandate save half return";
+var mnemonic = "fox oblige educate agent tired maple unknown huge lemon certain mesh hollow";

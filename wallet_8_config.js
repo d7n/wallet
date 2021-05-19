@@ -1,1 +1,1 @@
-var mnemonic = "winner dilemma border nurse fiction three screen evidence sword area giant soon";
+var mnemonic = "bulb museum amused include jacket blade strike oyster shoe cancel range neutral";

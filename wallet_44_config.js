@@ -1,1 +1,1 @@
-var mnemonic = "degree language ritual minimum cabin dune company concert town utility half fruit";
+var mnemonic = "flock mother pumpkin oxygen odor hair survey virtual bone digital inmate flame";

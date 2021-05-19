@@ -1,1 +1,1 @@
-var mnemonic = "slush allow defense situate smile keep ensure dish original panther excite reflect";
+var mnemonic = "pilot brown regret retreat tank reward together nothing umbrella tip now gentle";

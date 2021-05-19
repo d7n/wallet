@@ -1,1 +1,1 @@
-var mnemonic = "make electric ice slim chunk inject occur donor ladder dash cricket heavy";
+var mnemonic = "submit chimney eyebrow illegal harsh spy trumpet day victory morning crush float";

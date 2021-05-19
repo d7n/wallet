@@ -1,1 +1,1 @@
-var mnemonic = "drama pyramid junk require suit galaxy letter tilt virtual curtain trial wish";
+var mnemonic = "either twin school fade fury eager divide wheat vintage buffalo auction acid";

@@ -1,1 +1,1 @@
-var mnemonic = "riot element hour rough rain sunny acoustic odor grid tank garbage plunge";
+var mnemonic = "hub void wet elephant lounge lottery denial lizard robust victory anxiety occur";

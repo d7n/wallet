@@ -1,1 +1,1 @@
-var mnemonic = "rescue invest receive vivid paper concert observe hole silent birth tired vapor";
+var mnemonic = "economy airport cover weapon gym music fury shadow rice chimney similar input";

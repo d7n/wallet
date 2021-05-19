@@ -1,1 +1,1 @@
-var mnemonic = "lunar lecture logic steak unveil usage hawk health recall glare patch impulse";
+var mnemonic = "advance cloud best slab camera vast trade amazing reject upgrade trash song";
