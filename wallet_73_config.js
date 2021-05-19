@@ -1,1 +1,1 @@
-var mnemonic = "vacuum sock gaze sadness material swamp industry fox reject awake train slide";
+var mnemonic = "snow metal enemy size learn hockey meat general table misery discover around";

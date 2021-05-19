@@ -1,1 +1,1 @@
-var mnemonic = "violin multiply orange confirm survey window surge loop rocket path cactus boil";
+var mnemonic = "weird manage verb scorpion release pole deer wrap eager shuffle artwork inspire";

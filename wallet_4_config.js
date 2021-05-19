@@ -1,1 +1,1 @@
-var mnemonic = "mention addict smoke cable loyal forest address sound mind adult chest ten";
+var mnemonic = "wet problem truck kitchen spell clerk lunch urban laugh brain sadness process";

@@ -1,1 +1,1 @@
-var mnemonic = "focus exchange pelican carry burden hospital goat flip thank okay series enemy";
+var mnemonic = "teach trash link fish never track subject kiss manage draw hamster decade";

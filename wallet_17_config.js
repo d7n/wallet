@@ -1,1 +1,1 @@
-var mnemonic = "pole material fence assault goat question fault rich dog mosquito animal return";
+var mnemonic = "car vivid unable predict food later rather bright affair cloud this parent";

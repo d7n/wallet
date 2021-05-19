@@ -1,1 +1,1 @@
-var mnemonic = "travel wrap oblige use later slender problem drum property payment dutch output";
+var mnemonic = "skirt donor vote beef suit wife name donor drift dolphin tobacco castle";

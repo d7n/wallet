@@ -1,1 +1,1 @@
-var mnemonic = "poem bitter thunder peasant act wild monkey scorpion argue matrix hotel culture";
+var mnemonic = "security honey tell blue indicate jaguar guess when series increase doll churn";

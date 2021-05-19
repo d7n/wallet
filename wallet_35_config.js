@@ -1,1 +1,1 @@
-var mnemonic = "sound post weather three flag royal gift vehicle special few void chair";
+var mnemonic = "bridge urban donor tragic survey vivid horror blind hip chicken bulb fee";

@@ -1,1 +1,1 @@
-var mnemonic = "maple supreme trust final hold pizza display betray lottery ready base split";
+var mnemonic = "hard one peasant loop around slender picnic remove tool loud cat wear";

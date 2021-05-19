@@ -1,1 +1,1 @@
-var mnemonic = "guilt bone verify typical burger party worth leisure success access crucial sting";
+var mnemonic = "potato flat lumber battle blame chronic trigger pig sand hedgehog debate easily";

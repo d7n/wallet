@@ -1,1 +1,1 @@
-var mnemonic = "eye certain wedding mesh finish they blind math inform broom lava victory";
+var mnemonic = "express grant clarify arrow canal rack source blouse analyst audit print fancy";

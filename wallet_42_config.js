@@ -1,1 +1,1 @@
-var mnemonic = "exist yard write tiny always evil idea replace vicious post hood effort";
+var mnemonic = "section pepper already nominee lake name swap three boss truth love online";

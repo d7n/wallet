@@ -1,1 +1,1 @@
-var mnemonic = "foam plate polar pride require joke genuine warfare elbow pelican make food";
+var mnemonic = "usage comfort flush waste alert menu road menu van clip dinner mean";

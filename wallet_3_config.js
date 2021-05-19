@@ -1,1 +1,1 @@
-var mnemonic = "usual cabbage major roast rare vicious glare ridge useful upper print token";
+var mnemonic = "taste print decline wage pen style captain antique digital eyebrow turkey apple";

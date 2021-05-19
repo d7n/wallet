@@ -1,1 +1,1 @@
-var mnemonic = "tired someone reason novel release black sport theory rebel direct attract dose";
+var mnemonic = "differ catch erode motion harsh fish mean onion pig pyramid fury series";

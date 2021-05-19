@@ -1,1 +1,1 @@
-var mnemonic = "width holiday frown ahead earth flame pet absurd vendor maid nice easily";
+var mnemonic = "slot edge business disease surge pumpkin bulb broom mosquito announce nerve video";

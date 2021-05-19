@@ -1,1 +1,1 @@
-var mnemonic = "unfair thing palace dentist coil sand planet airport boss spatial bacon winner";
+var mnemonic = "apple ask hint damage empty hair change below title side rival season";

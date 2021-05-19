@@ -1,1 +1,1 @@
-var mnemonic = "couch cycle pool calm glimpse grow pigeon alpha change human dinner subject";
+var mnemonic = "fold pole client gift matter pen hub enrich arctic october roast safe";

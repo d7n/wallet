@@ -1,1 +1,1 @@
-var mnemonic = "glory expire punch engine shiver oval when glory fluid toddler unfair crystal";
+var mnemonic = "room exchange screen vapor spirit song allow profit home ability fix speed";

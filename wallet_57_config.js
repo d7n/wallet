@@ -1,1 +1,1 @@
-var mnemonic = "bag feel neutral dust turkey outer hammer wide answer absorb reflect stone";
+var mnemonic = "invest act just garden return conduct believe charge hub champion shell buyer";

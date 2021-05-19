@@ -1,1 +1,1 @@
-var mnemonic = "brush increase chuckle limit empty deliver deputy reduce solar attitude clown ice";
+var mnemonic = "pioneer buyer clutch tornado dash lawn only one feel fall joke coffee";

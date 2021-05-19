@@ -1,1 +1,1 @@
-var mnemonic = "sense space talent glance run history angry account prosper pond piece intact";
+var mnemonic = "snack cricket filter poem innocent devote purity insect quarter conduct bench offer";

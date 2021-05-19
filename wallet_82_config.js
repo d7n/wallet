@@ -1,1 +1,1 @@
-var mnemonic = "rigid weather stumble nation artist girl worry address cable ozone large option";
+var mnemonic = "rule shrug rigid onion rigid emerge test inject program goose lemon pair";

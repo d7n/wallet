@@ -1,1 +1,1 @@
-var mnemonic = "badge argue priority diagram rabbit behave dumb until eight security split dinosaur";
+var mnemonic = "lounge wasp load glide gallery hard spoil antique lunch spring pill scale";

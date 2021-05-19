@@ -1,1 +1,1 @@
-var mnemonic = "sadness large loyal husband gold gown truck fragile print case gym have";
+var mnemonic = "wood exact rebel pact safe awesome gorilla craft fox poet rubber awesome";

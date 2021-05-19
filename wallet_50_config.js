@@ -1,1 +1,1 @@
-var mnemonic = "lion urban will crime arena combine federal intact sustain action caught curve";
+var mnemonic = "crane voyage confirm buffalo caught share brass merge gift usual thought hedgehog";

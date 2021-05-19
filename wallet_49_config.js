@@ -1,1 +1,1 @@
-var mnemonic = "will flower bright patch anxiety two lobster mechanic reason soldier secret beauty";
+var mnemonic = "orange enjoy mention chase jazz solid fiber banana curve review uncle slight";

@@ -1,1 +1,1 @@
-var mnemonic = "level corn universe ankle review invite sell pudding detect blanket market autumn";
+var mnemonic = "credit stick sting electric job tiger update omit frequent grape clarify pen";

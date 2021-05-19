@@ -1,1 +1,1 @@
-var mnemonic = "avoid vintage number flag deputy flag rate sign robot survey spend home";
+var mnemonic = "truck velvet ring security nation weather popular process nut kiwi grocery exhibit";

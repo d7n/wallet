@@ -1,1 +1,1 @@
-var mnemonic = "series help add spot material scorpion base achieve enemy unveil great another";
+var mnemonic = "kangaroo unusual tuition wolf whale bacon party promote eight number bracket notable";

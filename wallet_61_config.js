@@ -1,1 +1,1 @@
-var mnemonic = "cycle real intact antique unfold quick now knee crop debris universe rocket";
+var mnemonic = "hurry thing sphere kiss laptop table alpha ocean post endorse tribe foil";

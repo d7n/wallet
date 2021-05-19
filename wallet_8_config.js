@@ -1,1 +1,1 @@
-var mnemonic = "wall immune sunset exact isolate crowd open join benefit either maple actor";
+var mnemonic = "decade wreck crew minute violin stool rule hollow copy ritual boy educate";

@@ -1,1 +1,1 @@
-var mnemonic = "spy pelican vicious planet valley exact stand fever corn number garlic page";
+var mnemonic = "raw adapt that table next broom glide reward genuine clown gas fringe";

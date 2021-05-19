@@ -1,1 +1,1 @@
-var mnemonic = "make quit ostrich art ridge step ability lucky picture raise need act";
+var mnemonic = "smile earth into camp swing hunt grunt force wine hover obey flat";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence bottom ghost equal panic next bracket bread super label arrest envelope";
+var mnemonic = "wood slab motion silver artefact country render vanish toe snow tape lady";

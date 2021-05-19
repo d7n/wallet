@@ -1,1 +1,1 @@
-var mnemonic = "sauce switch setup head bronze torch large tiger urban strike festival skill";
+var mnemonic = "cover describe increase layer grief office dismiss poet genius cousin unknown crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "turn ramp cheese result enough payment tortoise million put device ordinary jump";
+var mnemonic = "soldier collect uncle task real vibrant tiger twist pact sea view asset";

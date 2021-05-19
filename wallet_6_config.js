@@ -1,1 +1,1 @@
-var mnemonic = "between nice put struggle region waste twenty vague dizzy eyebrow skin antenna";
+var mnemonic = "image ask knock series trash various canoe visa usual critic burger aim";

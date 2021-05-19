@@ -1,1 +1,1 @@
-var mnemonic = "book tackle parade talent dignity chair floor fault exit casino eyebrow success";
+var mnemonic = "ridge whip toy huge seek pipe birth gym kingdom chicken embody hunt";

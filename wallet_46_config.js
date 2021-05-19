@@ -1,1 +1,1 @@
-var mnemonic = "soon best cattle beauty whale choose elite clever firm erase child dad";
+var mnemonic = "fashion two junior video seed few wheat valid mercy soldier write until";

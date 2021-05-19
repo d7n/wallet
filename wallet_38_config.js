@@ -1,1 +1,1 @@
-var mnemonic = "exotic scheme then shove behave weapon isolate energy base type vibrant tray";
+var mnemonic = "doctor aunt vibrant pottery canoe recycle people until spawn cost gossip slam";

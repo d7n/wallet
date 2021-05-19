@@ -1,1 +1,1 @@
-var mnemonic = "venue page strike snap trust turn dry language differ kiwi tortoise fragile";
+var mnemonic = "present course photo model resource file employ skate find target surge riot";

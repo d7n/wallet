@@ -1,1 +1,1 @@
-var mnemonic = "feel camp globe strategy mesh farm good thing correct slow obtain large";
+var mnemonic = "dose jeans right impulse mimic virtual nation fever sauce visit crash aim";

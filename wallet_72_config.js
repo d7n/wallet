@@ -1,1 +1,1 @@
-var mnemonic = "bird isolate acquire ceiling whisper lamp radio bike naive surface celery obscure";
+var mnemonic = "wrap change rely misery reduce sad word paddle grocery dismiss describe baby";

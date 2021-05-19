@@ -1,1 +1,1 @@
-var mnemonic = "lock banana spring spike entry measure grape frequent actual topple coconut ensure";
+var mnemonic = "drill dawn mean height wish olympic shoe fat shed middle sail treat";

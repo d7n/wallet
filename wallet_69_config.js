@@ -1,1 +1,1 @@
-var mnemonic = "garment chaos deny cruise isolate horror stamp easily picnic copper uphold that";
+var mnemonic = "flat increase atom because around fix walnut fashion magnet network table boy";

@@ -1,1 +1,1 @@
-var mnemonic = "wood maple naive van manage fiber cattle ostrich cargo surge marble critic";
+var mnemonic = "flush left buzz room dove airport race sing cushion stick annual round";

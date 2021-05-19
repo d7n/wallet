@@ -1,1 +1,1 @@
-var mnemonic = "collect conduct vault auction face able pyramid ranch eight flee pulse labor";
+var mnemonic = "minute gallery control train desk slogan benefit ancient fly feature plug gauge";

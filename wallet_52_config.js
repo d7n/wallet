@@ -1,1 +1,1 @@
-var mnemonic = "echo raven involve penalty such company logic limb hire false police brain";
+var mnemonic = "deposit token zone toe sauce fold about either envelope ticket fatigue citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "present dinosaur firm guilt wonder oil siege multiply fat mean honey poverty";
+var mnemonic = "broccoli stem junk buddy dress panel diagram first brand range view reduce";

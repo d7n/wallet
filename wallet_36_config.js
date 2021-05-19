@@ -1,1 +1,1 @@
-var mnemonic = "upper expand carry now school scheme flee excuse option fantasy suggest core";
+var mnemonic = "merge elbow riot certain differ coconut pottery speed harbor host concert road";

@@ -1,1 +1,1 @@
-var mnemonic = "gate strategy sweet thank wheel resemble exit dirt wine settle crack deliver";
+var mnemonic = "salad mansion smile mesh mean earth plunge type prepare symbol shove blanket";

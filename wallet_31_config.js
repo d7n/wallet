@@ -1,1 +1,1 @@
-var mnemonic = "faith also keep veteran movie rebel salon prize chair frown head wrestle";
+var mnemonic = "exotic top admit wagon start office truck under body simple vacant trumpet";

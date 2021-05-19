@@ -1,1 +1,1 @@
-var mnemonic = "habit nurse choice lava punch parrot leader music broken copy police busy";
+var mnemonic = "leave receive spray federal eager ginger angle joy blanket have evil excuse";

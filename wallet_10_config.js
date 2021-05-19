@@ -1,1 +1,1 @@
-var mnemonic = "spray fatigue reduce mechanic infant boy sun clip actor thunder tribe yard";
+var mnemonic = "plug pole gun sound climb smoke manual range chief please illegal kiss";

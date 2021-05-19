@@ -1,1 +1,1 @@
-var mnemonic = "spoon dish faint ocean morning addict youth cry receive consider credit spider";
+var mnemonic = "air possible language lounge spread burden length method rubber cage orbit hurry";

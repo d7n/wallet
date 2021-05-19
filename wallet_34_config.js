@@ -1,1 +1,1 @@
-var mnemonic = "dumb quick approve dice eye trip casual regular limb feed dizzy armor";
+var mnemonic = "govern dog student grid private discover boil pupil foster exist hello board";

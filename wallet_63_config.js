@@ -1,1 +1,1 @@
-var mnemonic = "order cloth humor attack luggage logic knee impose fiber cattle quote soft";
+var mnemonic = "tool remove sniff network exact cram knife lunch found food daring pilot";

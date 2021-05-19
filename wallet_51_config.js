@@ -1,1 +1,1 @@
-var mnemonic = "what clever warfare owner holiday limit shiver melody size laugh humble word";
+var mnemonic = "exact image bridge list shoe once keen click city simple crumble top";

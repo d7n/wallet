@@ -1,1 +1,1 @@
-var mnemonic = "leisure inflict foster mouse music weasel curtain need duck nut industry toy";
+var mnemonic = "kick scrub carry valve frost consider flock tail excuse short camera dove";

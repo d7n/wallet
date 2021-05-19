@@ -1,1 +1,1 @@
-var mnemonic = "rubber cake throw glass shock dance park embody collect embark excuse ranch";
+var mnemonic = "auto govern define afraid bread bomb throw emotion negative language off example";

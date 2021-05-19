@@ -1,1 +1,1 @@
-var mnemonic = "letter exercise caution isolate sister true announce barrel room sick project claim";
+var mnemonic = "clock impose uncover wood radio talent holiday news segment nasty position stool";

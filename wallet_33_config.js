@@ -1,1 +1,1 @@
-var mnemonic = "siren maid ability thrive gorilla situate garden habit unknown old danger since";
+var mnemonic = "spare click interest garden mirror hint birth eight fluid best alter police";

@@ -1,1 +1,1 @@
-var mnemonic = "grit atom rather antenna market symptom apple game motor safe brisk globe";
+var mnemonic = "success brass neglect velvet exact allow eagle witness matrix derive train pepper";

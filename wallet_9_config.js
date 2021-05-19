@@ -1,1 +1,1 @@
-var mnemonic = "rubber client debate vibrant lady client submit civil super urban net perfect";
+var mnemonic = "adapt enable unusual language alley fringe inject suspect grant hockey jazz family";

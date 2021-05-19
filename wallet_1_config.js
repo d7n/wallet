@@ -1,1 +1,1 @@
-var mnemonic = "latin damage way inhale defy genius dolphin ability decline hope multiply swamp";
+var mnemonic = "wool picture melody tree forget relax urge quality subject leader behind frog";

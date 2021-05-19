@@ -1,1 +1,1 @@
-var mnemonic = "burst organ replace west party feel neck rally broom fiction all valid";
+var mnemonic = "spin rent beach merge debris device shift outside latin fee flip maple";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare neck scheme oven claim logic fantasy hawk speed sugar rather kidney";
+var mnemonic = "skill soccer quantum lemon flee action assume ranch unique wedding lazy senior";

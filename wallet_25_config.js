@@ -1,1 +1,1 @@
-var mnemonic = "digital today win infant motor better group exhibit reveal disorder friend prosper";
+var mnemonic = "toe sun bird rely reunion mechanic original grit glare shine total clerk";

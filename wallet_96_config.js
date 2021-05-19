@@ -1,1 +1,1 @@
-var mnemonic = "desert vague hurdle evoke strike grace model family emotion physical lazy mask";
+var mnemonic = "squirrel surge cotton service april ghost foam ocean hood fatigue program soup";

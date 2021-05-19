@@ -1,1 +1,1 @@
-var mnemonic = "muffin twice need during three have surprise oppose miss kidney awkward street";
+var mnemonic = "rigid ecology reform hover convince shadow bench equip boat animal birth hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel uncover decade measure code nurse number movie monster script design draw";
+var mnemonic = "blame wreck ecology pulp kind ozone champion sudden again harvest couch dinosaur";

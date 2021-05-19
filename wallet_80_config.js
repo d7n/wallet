@@ -1,1 +1,1 @@
-var mnemonic = "pull apple knee eyebrow suggest wall interest mesh wing modify crisp cash";
+var mnemonic = "jaguar laptop execute rifle supreme swift age buzz fly alone prepare industry";

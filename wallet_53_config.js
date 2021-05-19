@@ -1,1 +1,1 @@
-var mnemonic = "patrol poverty risk scale common buffalo wish kitchen negative lobster trap flock";
+var mnemonic = "execute culture boss library design tortoise sight make gesture wheat just charge";

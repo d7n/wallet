@@ -1,1 +1,1 @@
-var mnemonic = "garbage cricket gold fix trade couple onion order wear indicate ladder punch";
+var mnemonic = "focus upon business oxygen like hero tattoo crunch process prepare regret talk";

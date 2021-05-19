@@ -1,1 +1,1 @@
-var mnemonic = "street market arrow clarify jacket usual ivory clarify frozen south glance inspire";
+var mnemonic = "call renew account unique polar left link purity area logic angry joke";

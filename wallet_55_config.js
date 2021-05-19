@@ -1,1 +1,1 @@
-var mnemonic = "excuse mimic cave coffee solar maid expire heavy thrive unaware submit edge";
+var mnemonic = "coach bulk loan image coyote expect lecture put draft employ ethics island";

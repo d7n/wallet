@@ -1,1 +1,1 @@
-var mnemonic = "gift whisper usage vendor leave stem oak crater busy throw gather aware";
+var mnemonic = "clip trade analyst curious zero hollow key vicious goose increase already sphere";

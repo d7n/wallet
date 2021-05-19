@@ -1,1 +1,1 @@
-var mnemonic = "angle fix kid trouble chalk rhythm worth other critic turn guide asset";
+var mnemonic = "syrup roast bird swear pause warrior faint fine boil crowd dwarf profit";

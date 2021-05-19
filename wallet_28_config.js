@@ -1,1 +1,1 @@
-var mnemonic = "army lunar round shrimp tide scare air work hamster track educate stove";
+var mnemonic = "blame desk disorder bounce fish lobster merit century voice adjust decrease neutral";

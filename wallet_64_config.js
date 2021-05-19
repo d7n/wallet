@@ -1,1 +1,1 @@
-var mnemonic = "imitate rely age pear antenna alien you online bright gravity side mammal";
+var mnemonic = "shield vacant glue coral banana medal tool struggle faculty change wing entire";

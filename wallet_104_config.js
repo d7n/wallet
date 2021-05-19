@@ -1,1 +1,1 @@
-var mnemonic = "wolf raccoon portion want aisle frost suspect wife lens pipe dirt tide";
+var mnemonic = "must wife angry glove wish monster earn right ability jump stomach negative";

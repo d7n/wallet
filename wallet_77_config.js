@@ -1,1 +1,1 @@
-var mnemonic = "lumber soon consider reunion victory letter stomach liquid note picture dawn bright";
+var mnemonic = "radio pink fantasy kite maximum share hunt music security retreat night push";

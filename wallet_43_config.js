@@ -1,1 +1,1 @@
-var mnemonic = "depth other sunset ceiling draw wisdom own sing detail kind lunar deposit";
+var mnemonic = "slab argue praise program license broken state north pigeon duck copper daring";

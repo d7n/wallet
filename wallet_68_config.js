@@ -1,1 +1,1 @@
-var mnemonic = "assist that garage wealth captain crystal main certain reason north spread demand";
+var mnemonic = "slush alpha faculty transfer crowd arena hole cannon alone attack convince arrow";

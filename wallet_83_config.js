@@ -1,1 +1,1 @@
-var mnemonic = "buddy carry address input gossip skill replace together daring desert youth shoot";
+var mnemonic = "arch dentist mutual urban year moment valid employ you minute review runway";

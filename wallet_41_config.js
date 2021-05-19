@@ -1,1 +1,1 @@
-var mnemonic = "boy warfare gold country raccoon toe problem old gather twin matrix title";
+var mnemonic = "pattern struggle economy parrot slide original sun clay tag pretty barely list";

@@ -1,1 +1,1 @@
-var mnemonic = "unit region nut monkey liquid stick mesh front stem mail season sound";
+var mnemonic = "silent cloth early put pink mystery elevator doctor water token library torch";

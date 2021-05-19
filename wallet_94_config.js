@@ -1,1 +1,1 @@
-var mnemonic = "gauge art mule hunt summer try october image amount napkin release agent";
+var mnemonic = "library isolate elbow phrase wine involve wise bench fit feed wait surround";

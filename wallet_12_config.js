@@ -1,1 +1,1 @@
-var mnemonic = "movie because dignity dose soap process rival grass path cycle decrease month";
+var mnemonic = "mistake steel sing robot album royal drastic february escape cage basic hotel";
