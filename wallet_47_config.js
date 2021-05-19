@@ -1,1 +1,1 @@
-var mnemonic = "volume forest boil plastic olive skate cover road remain hire umbrella lunch";
+var mnemonic = "hen honey limit autumn grant walk ice future sound assume search trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "real final dirt hotel version holiday vast enroll area imitate speed labor";
+var mnemonic = "injury urge abandon eyebrow audit sand embrace run bracket seat much endorse";

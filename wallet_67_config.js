@@ -1,1 +1,1 @@
-var mnemonic = "cherry link almost seat citizen cook destroy glass twin dice churn amazing";
+var mnemonic = "pull wet online slogan only card vehicle adapt palm reject still ecology";

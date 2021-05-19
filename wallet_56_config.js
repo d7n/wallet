@@ -1,1 +1,1 @@
-var mnemonic = "service adult other grit avoid green vague happy remove poet pepper sword";
+var mnemonic = "double fiscal target amount sleep second chalk tumble walnut transfer lounge decrease";

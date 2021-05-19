@@ -1,1 +1,1 @@
-var mnemonic = "solar wish file ketchup soul option try volume path wide olympic meat";
+var mnemonic = "run gain head endorse carbon citizen act again three trap spawn road";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry capable power furnace night arrive lobster victory proof bicycle path shop";
+var mnemonic = "crunch inject solution vast audit oil boy element powder exercise mesh squeeze";

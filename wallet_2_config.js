@@ -1,1 +1,1 @@
-var mnemonic = "report evolve mansion divide oak broccoli shoe sense bargain involve decade depart";
+var mnemonic = "ugly aisle raven menu put art sense blue tell provide stone habit";

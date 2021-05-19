@@ -1,1 +1,1 @@
-var mnemonic = "nice fire purity cigar dad police deliver service biology imitate course knee";
+var mnemonic = "legal type theme walk oval slab winter job visa select invest injury";

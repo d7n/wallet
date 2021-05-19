@@ -1,1 +1,1 @@
-var mnemonic = "bicycle wait anchor predict carpet test ozone genius net rescue syrup balance";
+var mnemonic = "drastic conduct journey topic make spy still correct athlete blood badge naive";

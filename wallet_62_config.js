@@ -1,1 +1,1 @@
-var mnemonic = "assault medal liberty gossip write sudden radar skill rib tattoo equip color";
+var mnemonic = "enlist blouse that excite coral sense fence loan riot oxygen equip acoustic";

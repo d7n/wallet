@@ -1,1 +1,1 @@
-var mnemonic = "old person present devote confirm ship where left heart enact mad media";
+var mnemonic = "clever bean second output able spy ask fit remind tent elephant fabric";

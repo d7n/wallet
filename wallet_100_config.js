@@ -1,1 +1,1 @@
-var mnemonic = "coffee amused just control bunker castle usage display squeeze sauce vote nature";
+var mnemonic = "awful rhythm arrow cheap urban tuna judge offer lemon loop pioneer gesture";

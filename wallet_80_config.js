@@ -1,1 +1,1 @@
-var mnemonic = "draft glide layer must message you butter element salt blanket axis rifle";
+var mnemonic = "lamp noble clever disease among super vibrant whisper carbon portion camp pyramid";

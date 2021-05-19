@@ -1,1 +1,1 @@
-var mnemonic = "intact deliver dentist dune swear edge dial day bubble tip ancient flame";
+var mnemonic = "skirt slam entire concert surround price bomb razor green liquid science modify";

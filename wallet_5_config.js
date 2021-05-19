@@ -1,1 +1,1 @@
-var mnemonic = "satoshi arrest vital nephew cup adapt program slender skirt employ absorb swallow";
+var mnemonic = "maple clown entry entire vault push equal pave twelve sister problem law";

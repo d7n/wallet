@@ -1,1 +1,1 @@
-var mnemonic = "expand you concert wagon shiver kidney flush list chicken dentist garden vast";
+var mnemonic = "coast enable gospel sing logic maximum board swift lava blanket arrest dignity";

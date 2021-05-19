@@ -1,1 +1,1 @@
-var mnemonic = "thunder quit fire view space dizzy voyage model ill swallow equip ice";
+var mnemonic = "inform camera genre alert pottery alien rebel damp fruit gloom carry trial";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle rug coffee sister trash verify magnet prefer whale tortoise scout goddess";
+var mnemonic = "cattle oven keen ring cage ship gesture real jealous syrup leisure thought";

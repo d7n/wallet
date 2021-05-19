@@ -1,1 +1,1 @@
-var mnemonic = "math animal style puppy once film ripple shiver tree humble vicious owner";
+var mnemonic = "attract scrap slice topic benefit razor below speak narrow shift wish crash";

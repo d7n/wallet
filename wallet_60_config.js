@@ -1,1 +1,1 @@
-var mnemonic = "little front boss trash truth assume sting tobacco off second basic hybrid";
+var mnemonic = "invest coffee dinner rough rotate suspect item drama close logic tip sell";

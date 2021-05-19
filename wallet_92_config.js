@@ -1,1 +1,1 @@
-var mnemonic = "pave veteran ridge actual today law candy dismiss wet toilet label stairs";
+var mnemonic = "achieve believe flash mirror enjoy worry summer bring inmate supreme jeans social";

@@ -1,1 +1,1 @@
-var mnemonic = "onion foam dry sail click seminar author clip change limit sibling wine";
+var mnemonic = "dice friend clay tell celery because weapon rifle volcano omit lottery ozone";

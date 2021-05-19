@@ -1,1 +1,1 @@
-var mnemonic = "village crack slow legal glimpse now river twice unveil scissors cinnamon laundry";
+var mnemonic = "adult catch mesh ceiling regular phone animal desk city setup skull minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling wrestle artefact frog figure volume photo void scale account exhibit cute";
+var mnemonic = "comic hurt miss runway birth divert ripple exhibit biology drive buyer fox";

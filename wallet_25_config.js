@@ -1,1 +1,1 @@
-var mnemonic = "gossip kiwi mechanic dumb protect merit pencil brush rapid hat blame banana";
+var mnemonic = "protect coconut deliver enact moral type muffin joke vivid curious awake tornado";

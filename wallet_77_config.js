@@ -1,1 +1,1 @@
-var mnemonic = "message magnet song holiday hello garlic blast depend silk now steak fat";
+var mnemonic = "uncover boy amazing gesture jaguar police much prison coach pull easy shell";

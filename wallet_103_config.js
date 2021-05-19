@@ -1,1 +1,1 @@
-var mnemonic = "side like insect sport vital ready sphere used trust sport disease river";
+var mnemonic = "sad divorce omit actor brown clerk gasp video table enter kit gadget";

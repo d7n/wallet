@@ -1,1 +1,1 @@
-var mnemonic = "column father south evidence journey clip craft atom thrive smooth fade shop";
+var mnemonic = "glove park immense document blade puppy thought real device fortune health recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze punch exercise tilt armor olympic provide sport absorb sock lucky office";
+var mnemonic = "front uncover hill escape teach diagram shop barrel soup light deliver balance";

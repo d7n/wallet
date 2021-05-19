@@ -1,1 +1,1 @@
-var mnemonic = "busy black cupboard divide diary clerk need cereal disagree chef segment negative";
+var mnemonic = "weapon blossom session feed quiz grab hire indicate since hobby alarm sand";

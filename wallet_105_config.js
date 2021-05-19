@@ -1,1 +1,1 @@
-var mnemonic = "weekend major claw liar friend lava powder manage jaguar bus hazard mystery";
+var mnemonic = "napkin deputy candy clinic foil certain equal renew middle theory middle craft";

@@ -1,1 +1,1 @@
-var mnemonic = "member flush aim dawn hello gesture penalty old present remain jazz because";
+var mnemonic = "illness entry scheme please pact truth define okay easily angry globe tonight";

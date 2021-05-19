@@ -1,1 +1,1 @@
-var mnemonic = "excess raven doll grab round broom awkward hold salad life acoustic huge";
+var mnemonic = "toddler protect party myth party spoil library scissors little vote tip siege";

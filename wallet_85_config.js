@@ -1,1 +1,1 @@
-var mnemonic = "leg inhale present duty angle salad bronze green float pet hybrid caution";
+var mnemonic = "left elbow evil head solution mad joy dice vast true olympic educate";

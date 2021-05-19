@@ -1,1 +1,1 @@
-var mnemonic = "side swap brother little blast attack regular mountain gift stool input machine";
+var mnemonic = "paddle utility poverty mobile assist lab shield nose fancy bar hunt enact";

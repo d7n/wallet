@@ -1,1 +1,1 @@
-var mnemonic = "comfort final crazy trick shop program drum artefact metal pioneer nation decline";
+var mnemonic = "car govern aspect relief asset upgrade gold tuna window drop dance squeeze";

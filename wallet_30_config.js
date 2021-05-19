@@ -1,1 +1,1 @@
-var mnemonic = "famous zoo crush wage off noise awake survey party close program poet";
+var mnemonic = "girl spice display just action inflict child swamp retire exotic radar garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh dirt north exotic section suit approve orbit topic join easy weird";
+var mnemonic = "weapon impact tell live claw muffin nuclear turn senior dismiss control bomb";

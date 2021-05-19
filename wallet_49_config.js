@@ -1,1 +1,1 @@
-var mnemonic = "rail pulp focus chat ginger cradle marble nerve radio force hard bomb";
+var mnemonic = "tent tunnel tennis sick banner siege record impose ski snack arrest hair";

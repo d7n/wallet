@@ -1,1 +1,1 @@
-var mnemonic = "settle wheel net theory erosion fever merge crunch concert snack matrix into";
+var mnemonic = "file wolf final caught story shy law want canal table dynamic penalty";

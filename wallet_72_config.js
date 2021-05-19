@@ -1,1 +1,1 @@
-var mnemonic = "mystery approve frost scale slush raccoon firm injury bean erupt hill cage";
+var mnemonic = "health swarm inner physical cloth all fury upset machine wash barely short";

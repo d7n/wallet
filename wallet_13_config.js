@@ -1,1 +1,1 @@
-var mnemonic = "pink hat exit slight express sleep shrimp skate sense palm fabric happy";
+var mnemonic = "robot wear fossil upper airport turkey honey nurse reduce scene essay install";

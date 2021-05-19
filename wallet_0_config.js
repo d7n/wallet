@@ -1,1 +1,1 @@
-var mnemonic = "scrub burst cargo resemble floor debate verify year boss erupt camp strike";
+var mnemonic = "panel until motion scale prepare float hard width bless upset frame upset";

@@ -1,1 +1,1 @@
-var mnemonic = "flame evolve churn siren nice profit network shallow offer liar thank hunt";
+var mnemonic = "nose depend matter twice iron close deliver funny wheel inhale family purchase";

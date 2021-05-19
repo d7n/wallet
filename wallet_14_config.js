@@ -1,1 +1,1 @@
-var mnemonic = "goose bird maze cover unit place dune rose bid certain labor virus";
+var mnemonic = "scatter quick bench display toddler account sock pony token hero popular acquire";

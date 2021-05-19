@@ -1,1 +1,1 @@
-var mnemonic = "satoshi gain staff pigeon rough garbage velvet february turkey bonus six display";
+var mnemonic = "mention chuckle aunt twist demand lawsuit zero stock shrimp cradle congress source";

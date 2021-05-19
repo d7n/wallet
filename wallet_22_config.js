@@ -1,1 +1,1 @@
-var mnemonic = "mammal jaguar apart chapter child fashion insane animal elegant gain ill lounge";
+var mnemonic = "company frame side alone borrow olive until shuffle range athlete man minute";

@@ -1,1 +1,1 @@
-var mnemonic = "off hen shiver meadow magic lock attack brain tray kitten woman desert";
+var mnemonic = "before artefact panic snake banner nice sell snake stove love swim search";

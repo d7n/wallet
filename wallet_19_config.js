@@ -1,1 +1,1 @@
-var mnemonic = "clump critic siege jazz ritual soon meat wash joy speak keep version";
+var mnemonic = "deliver expand happy lesson spoon exhaust reform parrot absent pony own field";

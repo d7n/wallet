@@ -1,1 +1,1 @@
-var mnemonic = "bicycle swallow enroll true pottery demise open give bird judge estate fit";
+var mnemonic = "celery silly regret rescue vague romance wise camp ahead note tape session";

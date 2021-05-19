@@ -1,1 +1,1 @@
-var mnemonic = "funny main pepper void short pluck broken enlist guard kitchen armor armed";
+var mnemonic = "subject sun cost road bounce occur piano valid into night ecology upper";

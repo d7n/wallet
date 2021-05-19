@@ -1,1 +1,1 @@
-var mnemonic = "wrong industry rug decide sauce husband runway vault inner model fly decrease";
+var mnemonic = "walnut viable verify bracket penalty capable peace lecture nice obey lion galaxy";

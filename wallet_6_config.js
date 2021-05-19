@@ -1,1 +1,1 @@
-var mnemonic = "super desert vehicle wisdom lunch glow fury start public cash work cook";
+var mnemonic = "shine mosquito yard rocket ask tissue want join describe civil obey judge";

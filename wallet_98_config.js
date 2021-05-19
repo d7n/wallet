@@ -1,1 +1,1 @@
-var mnemonic = "merit level involve issue fox beauty vocal sweet cotton voice blue ring";
+var mnemonic = "swim able spice urban nice wagon alien vanish cereal frozen oblige month";

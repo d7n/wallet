@@ -1,1 +1,1 @@
-var mnemonic = "retire awesome lucky fortune donate lounge canal tone lamp stone section twice";
+var mnemonic = "drive immense craft gaze violin cross lens term strike scene inquiry walnut";

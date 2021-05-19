@@ -1,1 +1,1 @@
-var mnemonic = "actress broken know clip shock border quit eagle where game page fiber";
+var mnemonic = "frost prepare pulp maximum pistol grunt doll trash recall cradle peace path";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup coin spare ice three coffee shine fault type wire sight elder";
+var mnemonic = "note like taxi swift citizen volume shove occur dutch help crumble scan";

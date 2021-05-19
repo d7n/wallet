@@ -1,1 +1,1 @@
-var mnemonic = "exercise sight average stove degree outdoor sheriff design catch hint move marriage";
+var mnemonic = "detail old hub bitter capable usual sponsor plate post sorry old say";

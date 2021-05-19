@@ -1,1 +1,1 @@
-var mnemonic = "item wreck concert pause chimney drop galaxy unit security giant coin egg";
+var mnemonic = "process good situate huge wreck settle cousin common prepare notice minimum artist";

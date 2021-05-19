@@ -1,1 +1,1 @@
-var mnemonic = "donkey tower they salute prevent depend edge city section monster kingdom episode";
+var mnemonic = "depth sweet truly insect egg insane clinic olympic mobile trouble struggle ask";

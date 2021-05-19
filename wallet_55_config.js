@@ -1,1 +1,1 @@
-var mnemonic = "peasant lonely tongue cushion badge barely wave escape absurd during nominee debate";
+var mnemonic = "essay female fall motion comfort fox burger fashion cat winner ghost tennis";

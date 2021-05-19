@@ -1,1 +1,1 @@
-var mnemonic = "suit soap hat strategy swarm fade diesel enter vintage twin smart school";
+var mnemonic = "exist nasty camp issue slender more news dad deliver spread apart thought";

@@ -1,1 +1,1 @@
-var mnemonic = "bike foot smart post leg can long inspire fade joke harsh era";
+var mnemonic = "organ stone mask inherit output inherit claim congress wheat empower stage alter";

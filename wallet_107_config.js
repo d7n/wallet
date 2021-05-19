@@ -1,1 +1,1 @@
-var mnemonic = "arch follow rigid between razor absurd guitar finish ball spoil athlete dentist";
+var mnemonic = "wool rifle awkward pulse require truly surround network hunt section bamboo cradle";

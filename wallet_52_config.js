@@ -1,1 +1,1 @@
-var mnemonic = "barrel wine tennis action rice long gather embody fade attract hero decrease";
+var mnemonic = "fragile image dust tobacco trick tortoise note market crazy tray catch correct";

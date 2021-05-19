@@ -1,1 +1,1 @@
-var mnemonic = "body knife snow main latin host youth never parent furnace gossip electric";
+var mnemonic = "fossil raccoon sunset tuition burden accuse effort try reunion neutral critic type";

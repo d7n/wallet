@@ -1,1 +1,1 @@
-var mnemonic = "top spawn omit bone reject material crawl random ride rebuild quarter minute";
+var mnemonic = "subject drive ancient misery before proud depth juice hotel vault refuse border";

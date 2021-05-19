@@ -1,1 +1,1 @@
-var mnemonic = "ecology stereo ghost provide drum jar infant first core reopen bridge segment";
+var mnemonic = "trick load wash boss idle globe much coffee bind crumble try ten";

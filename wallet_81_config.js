@@ -1,1 +1,1 @@
-var mnemonic = "park credit planet assume laugh letter notice six mule help century few";
+var mnemonic = "kite blush bitter profit survey enrich result dash demand mass benefit property";

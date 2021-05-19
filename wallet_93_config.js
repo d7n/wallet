@@ -1,1 +1,1 @@
-var mnemonic = "they problem stick people reward already window climb side amount history mistake";
+var mnemonic = "window acquire foam subject original lizard junior train thing congress please puzzle";

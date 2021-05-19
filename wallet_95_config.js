@@ -1,1 +1,1 @@
-var mnemonic = "belt scare spy say lounge idea chicken trophy better power hire practice";
+var mnemonic = "soap dinner segment coral output flavor chaos dust rookie equip accident circle";

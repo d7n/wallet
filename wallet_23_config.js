@@ -1,1 +1,1 @@
-var mnemonic = "review media angry fine message wrong stairs naive jelly armor reveal trade";
+var mnemonic = "talk naive property brisk tuition oven oyster bomb start cool donate air";

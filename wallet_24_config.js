@@ -1,1 +1,1 @@
-var mnemonic = "luxury motor whale smart cloth dizzy desk object combine effort universe acid";
+var mnemonic = "repeat humor drastic salt quarter green pony news lion rigid wine rail";

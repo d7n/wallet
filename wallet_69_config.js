@@ -1,1 +1,1 @@
-var mnemonic = "addict ring stand elite dolphin stone regret jar blush message wall alone";
+var mnemonic = "nature prize torch vote marble cricket immense float lens tourist bright under";

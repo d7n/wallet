@@ -1,1 +1,1 @@
-var mnemonic = "club captain venue ozone chat pattern punch garment swamp damp claim cram";
+var mnemonic = "apology opera oppose adjust quantum play wage broccoli wait crater eye cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket family moral fade run raccoon nature best gift vintage begin alpha";
+var mnemonic = "tent pool wreck rare document resource nose ship trim you symbol belt";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat erase force fuel height boat endless situate ball toward member aunt";
+var mnemonic = "aisle ridge bar cabin horror glove lawn base post figure lock diet";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp expire milk cushion arch neck forest pudding favorite green agree mail";
+var mnemonic = "solar good truth crime critic need game vault must gospel suspect coast";

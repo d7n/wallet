@@ -1,1 +1,1 @@
-var mnemonic = "identify chef cake neck decade stem grace alien edge velvet cute task";
+var mnemonic = "excite talent gap goat senior monkey color decrease okay van blood pitch";

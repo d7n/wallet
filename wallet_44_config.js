@@ -1,1 +1,1 @@
-var mnemonic = "choice orchard hand syrup sand detail tiny oppose crush erode radio tackle";
+var mnemonic = "tissue tip plastic junior holiday door art appear toy supply fabric aisle";

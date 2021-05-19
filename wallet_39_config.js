@@ -1,1 +1,1 @@
-var mnemonic = "window flat trick shoot ticket shoot used bike copper solution flee voyage";
+var mnemonic = "drive renew welcome transfer chase draw page gift spirit annual process orchard";

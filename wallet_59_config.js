@@ -1,1 +1,1 @@
-var mnemonic = "share mom mammal rural drink deer cattle brass awful scrub hybrid strategy";
+var mnemonic = "vendor lock myth snap month garbage second permit wedding hockey chaos number";

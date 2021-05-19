@@ -1,1 +1,1 @@
-var mnemonic = "average crack mango tuna weasel involve dress permit monkey rely ramp sheriff";
+var mnemonic = "craft crisp win now please depend sleep isolate yellow charge logic galaxy";

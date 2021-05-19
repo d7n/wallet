@@ -1,1 +1,1 @@
-var mnemonic = "author omit mobile leaf social sight mammal mango brand feature improve stand";
+var mnemonic = "cactus long midnight jewel wine demand taxi foil major sense outdoor material";

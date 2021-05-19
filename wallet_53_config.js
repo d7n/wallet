@@ -1,1 +1,1 @@
-var mnemonic = "series humor second media wagon wash column cry upset yard diamond renew";
+var mnemonic = "once toss chuckle dice pepper advice candy end index mad soda view";

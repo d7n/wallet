@@ -1,1 +1,1 @@
-var mnemonic = "range pact mango turkey steel gate police reunion follow arctic enemy rigid";
+var mnemonic = "gap tomorrow ski desk attack door exchange license fade bitter cliff lab";

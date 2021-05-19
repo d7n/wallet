@@ -1,1 +1,1 @@
-var mnemonic = "deer idle giant fork column candy merit sand song length crazy soup";
+var mnemonic = "person chicken inquiry surround drill fee lemon ladder gown retire outer capital";

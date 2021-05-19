@@ -1,1 +1,1 @@
-var mnemonic = "hospital mercy tomorrow truth title rare deputy fall forget mouse lawn verb";
+var mnemonic = "swallow media couch sheriff together raven father gallery fitness bridge lottery monster";

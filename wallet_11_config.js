@@ -1,1 +1,1 @@
-var mnemonic = "scatter gesture robust syrup park shoot canvas genre bag civil swamp banana";
+var mnemonic = "wood brain swift inch type kiwi cactus luxury cupboard today bulk silent";

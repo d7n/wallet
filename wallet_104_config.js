@@ -1,1 +1,1 @@
-var mnemonic = "icon lucky chat team above dynamic dutch supply concert rebel entire swim";
+var mnemonic = "conduct want emotion casino same isolate source differ merit anchor slender pluck";

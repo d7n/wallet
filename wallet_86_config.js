@@ -1,1 +1,1 @@
-var mnemonic = "recipe idea duty switch give dentist action system arrive undo layer crawl";
+var mnemonic = "puzzle usage curve whale annual gesture twin concert hood skate suffer dilemma";

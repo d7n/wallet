@@ -1,1 +1,1 @@
-var mnemonic = "mouse aisle layer winter you april iron antique adult hover because uncle";
+var mnemonic = "tired erode unlock code horn wife best custom glass zoo vague immune";

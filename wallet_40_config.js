@@ -1,1 +1,1 @@
-var mnemonic = "fog stone there choose switch impact protect swamp topple charge hill trouble";
+var mnemonic = "increase enlist charge fragile room hire fire hole fashion siren album solar";
