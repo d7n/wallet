@@ -1,1 +1,1 @@
-var mnemonic = "auction office grab famous curve near pottery slab web vessel saddle force";
+var mnemonic = "pencil hurt pulse amount trash mean search giant fun claim razor bind";

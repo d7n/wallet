@@ -1,1 +1,1 @@
-var mnemonic = "garbage crouch settle stumble goose dry logic clown note bid injury detect";
+var mnemonic = "rocket fault length extra push raise helmet they fun female umbrella actor";

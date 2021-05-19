@@ -1,1 +1,1 @@
-var mnemonic = "choice envelope anxiety average leisure obvious enlist apple truly vessel smart guard";
+var mnemonic = "prosper nasty square avoid found fragile verb tackle during option figure brother";

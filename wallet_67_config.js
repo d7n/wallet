@@ -1,1 +1,1 @@
-var mnemonic = "head argue hamster capital peasant ocean cricket census pink organ edge artwork";
+var mnemonic = "crush erosion scrub choice cactus leisure coconut crystal brush journey remove crash";

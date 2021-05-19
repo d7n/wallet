@@ -1,1 +1,1 @@
-var mnemonic = "fall path opera retreat canoe poem chimney first depend asthma brush misery";
+var mnemonic = "current nuclear agree dash pair extend design ketchup enemy hard frown prefer";

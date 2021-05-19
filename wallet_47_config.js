@@ -1,1 +1,1 @@
-var mnemonic = "call visit enable bounce observe frozen boring code consider much glow vault";
+var mnemonic = "twice roof blossom ship course manage light erosion lava grocery field explain";

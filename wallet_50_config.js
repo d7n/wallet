@@ -1,1 +1,1 @@
-var mnemonic = "express connect human blade impulse furnace bomb hospital loan voice lawn common";
+var mnemonic = "guilt system moral sleep ball brief suffer curious fox know trim silver";

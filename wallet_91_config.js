@@ -1,1 +1,1 @@
-var mnemonic = "clump snap tenant visit solve arrow scrub soda jaguar skate ignore dove";
+var mnemonic = "cable direct section stool update brass nominee local account boss lift found";

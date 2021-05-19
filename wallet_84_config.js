@@ -1,1 +1,1 @@
-var mnemonic = "exercise nominee aerobic laugh exile usage any scatter vicious junk issue gown";
+var mnemonic = "attract month jealous sign funny celery next grass van sign use supply";

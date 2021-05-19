@@ -1,1 +1,1 @@
-var mnemonic = "smoke cart forget arctic tower muffin blanket lift scene debris lounge rack";
+var mnemonic = "abandon motion jazz marine couch tornado right valley found diesel enhance trigger";

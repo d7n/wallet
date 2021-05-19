@@ -1,1 +1,1 @@
-var mnemonic = "there merit entire hint milk sister word brief dwarf excite left bike";
+var mnemonic = "result manage master decline cupboard borrow fun morning kitchen token keen truly";

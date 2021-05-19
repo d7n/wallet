@@ -1,1 +1,1 @@
-var mnemonic = "food oyster goddess spend lunch dilemma just oppose inner squeeze hurdle rabbit";
+var mnemonic = "bunker furnace nest retire tennis pave couple service angle chat ozone february";

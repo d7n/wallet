@@ -1,1 +1,1 @@
-var mnemonic = "uncover inflict sheriff pass lesson ball core such dust sponsor unit vendor";
+var mnemonic = "glare skill lab fragile hat lion host skull infant need animal sing";

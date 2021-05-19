@@ -1,1 +1,1 @@
-var mnemonic = "slam major unit slender cheap sustain venue sniff media swing knee runway";
+var mnemonic = "move absorb assault decade box mask narrow repeat flight attend coral cereal";

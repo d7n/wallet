@@ -1,1 +1,1 @@
-var mnemonic = "kid exchange whisper melody throw day economy forget office disagree nuclear pretty";
+var mnemonic = "water fine easy army chunk recipe slight scissors regret ball abandon certain";

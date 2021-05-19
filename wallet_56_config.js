@@ -1,1 +1,1 @@
-var mnemonic = "pulp you sound invest lift capable salad mimic donkey vague trigger dentist";
+var mnemonic = "pitch refuse bunker alien soup asthma fruit census train unknown asthma detect";

@@ -1,1 +1,1 @@
-var mnemonic = "blue borrow vicious version chase actual hidden dinner opera fiber scrub crawl";
+var mnemonic = "remind high minor deposit comic barely pink barely jelly shove tooth enough";

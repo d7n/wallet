@@ -1,1 +1,1 @@
-var mnemonic = "favorite romance grief danger neglect element prevent pioneer vote close either exhibit";
+var mnemonic = "tackle stem choose receive penalty skin antique ritual egg metal mom oyster";

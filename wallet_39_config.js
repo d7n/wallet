@@ -1,1 +1,1 @@
-var mnemonic = "snack kind witness outside kiwi reunion song myself puppy friend oil soldier";
+var mnemonic = "length doll napkin fortune safe soldier basket agree old party item result";

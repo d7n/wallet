@@ -1,1 +1,1 @@
-var mnemonic = "dash drift fury sand avoid buffalo debris have physical lobster sick anxiety";
+var mnemonic = "miracle decide disease suspect advance alien improve garage current siege west test";

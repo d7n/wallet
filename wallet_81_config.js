@@ -1,1 +1,1 @@
-var mnemonic = "adjust together blossom child journey table truck caution expire genuine nephew strike";
+var mnemonic = "planet admit fiber bird sheriff crowd barely turn accuse grow carbon expect";

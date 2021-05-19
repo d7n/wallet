@@ -1,1 +1,1 @@
-var mnemonic = "jungle viable camera knee essay return frost gorilla trust punch acid palm";
+var mnemonic = "sister enable jungle snake wire hire hobby fossil pitch print cream box";

@@ -1,1 +1,1 @@
-var mnemonic = "offer crew bachelor crop among path blind prevent client arena window merge";
+var mnemonic = "transfer snake subject lion ten group horse close bread relax skill fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar inherit eight close creek second nothing draw oxygen raccoon excuse roof";
+var mnemonic = "cube elite discover home radio dress buzz nuclear pledge fluid weird burger";

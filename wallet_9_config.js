@@ -1,1 +1,1 @@
-var mnemonic = "desert quantum eagle fun diamond obtain cactus problem know arch twice arrange";
+var mnemonic = "option useful lab slim motion pepper battle large arrow segment picnic tragic";

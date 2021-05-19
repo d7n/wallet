@@ -1,1 +1,1 @@
-var mnemonic = "buyer offer manage better bounce useful answer warm midnight brave increase best";
+var mnemonic = "rebel globe curve unit access success grant prepare sketch athlete hamster egg";

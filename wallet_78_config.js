@@ -1,1 +1,1 @@
-var mnemonic = "rack hollow version more ankle spy cactus excuse crash float cave border";
+var mnemonic = "pole scare chicken boss bean inhale trigger inherit learn peace wash make";

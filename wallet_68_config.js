@@ -1,1 +1,1 @@
-var mnemonic = "caught pulse stock few nephew renew lawn ancient wide tomato year sing";
+var mnemonic = "furnace chunk arctic mask foster replace slim dragon offer urge same frown";

@@ -1,1 +1,1 @@
-var mnemonic = "stand cigar hill clip error avoid unique miracle crime juice meat tag";
+var mnemonic = "water result ship blur cushion aspect attract steel code cluster sort toy";

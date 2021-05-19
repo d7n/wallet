@@ -1,1 +1,1 @@
-var mnemonic = "shoe wasp venture identify race exit license slush perfect review economy cable";
+var mnemonic = "alter donkey vessel country horse grace scene miss tumble ocean final paper";

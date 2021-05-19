@@ -1,1 +1,1 @@
-var mnemonic = "hen bag bunker casino stable swarm voice gun room payment mammal exhibit";
+var mnemonic = "decrease demand language decorate argue sing slow spawn sorry erode wise history";

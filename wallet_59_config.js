@@ -1,1 +1,1 @@
-var mnemonic = "swarm resist guide spatial hawk alien trick domain orange chief multiply maid";
+var mnemonic = "boss practice panel library venue loud spawn club coyote barely express opera";

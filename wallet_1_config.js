@@ -1,1 +1,1 @@
-var mnemonic = "food laugh excuse quick retreat absurd cool menu farm disagree feature mixed";
+var mnemonic = "provide fun about either gold because paper monkey hood educate foil section";

@@ -1,1 +1,1 @@
-var mnemonic = "around glimpse chat bamboo stadium shrimp pulse code minute six ring okay";
+var mnemonic = "display pause giggle lonely other notable brother hole work oven true deposit";

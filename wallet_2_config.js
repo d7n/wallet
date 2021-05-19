@@ -1,1 +1,1 @@
-var mnemonic = "notable sign health concert decade sweet ticket dilemma rather expand symbol odor";
+var mnemonic = "bench salt iron recycle modify half electric crack cement sphere beyond hour";

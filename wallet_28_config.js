@@ -1,1 +1,1 @@
-var mnemonic = "soup bone horn tumble shaft left double donkey finger isolate chunk column";
+var mnemonic = "plug wrestle labor then dilemma shallow steel insane shuffle gown reduce nature";

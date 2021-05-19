@@ -1,1 +1,1 @@
-var mnemonic = "duty dutch safe bottom ozone vessel surface champion pulse since river able";
+var mnemonic = "aunt chief height renew master expose income sword warfare setup alcohol parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "night carry blade tuition trouble horror impact hollow bachelor autumn shoe play";
+var mnemonic = "crawl know soft flush exact chat plastic life divorce skull ostrich impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "soul pattern chunk flash increase thing lens giraffe dream tragic assume sleep";
+var mnemonic = "tumble happy walk daring divide tissue tiny seed humor avocado output detect";

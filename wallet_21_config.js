@@ -1,1 +1,1 @@
-var mnemonic = "panther game mosquito exhibit purchase praise steel risk liquid other observe patch";
+var mnemonic = "damp puppy awful ill eager sock mountain anxiety canvas country leopard error";

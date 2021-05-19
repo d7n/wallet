@@ -1,1 +1,1 @@
-var mnemonic = "icon hybrid anxiety three injury address bone lunar swarm whisper rate promote";
+var mnemonic = "output current easy trial source code private follow human sleep magic impulse";

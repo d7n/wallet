@@ -1,1 +1,1 @@
-var mnemonic = "joy female poverty weasel reward setup lend orbit strategy column issue cross";
+var mnemonic = "repeat unfold bubble lion laundry card legal insect noble talent cement north";

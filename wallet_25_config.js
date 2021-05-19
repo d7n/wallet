@@ -1,1 +1,1 @@
-var mnemonic = "health recall project ensure trap endless summer similar buddy feed birth brown";
+var mnemonic = "focus clean humor soon aware crater spread cool duck live laundry toy";

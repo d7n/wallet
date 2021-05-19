@@ -1,1 +1,1 @@
-var mnemonic = "unlock decide eager blast used virtual remind subway identify century moment valid";
+var mnemonic = "wisdom pretty belt gap spell off cruise brick trick token enemy rose";

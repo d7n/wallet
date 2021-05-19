@@ -1,1 +1,1 @@
-var mnemonic = "tiny pottery sketch traffic morning trash frequent because audit outer fancy video";
+var mnemonic = "noodle cinnamon pact canyon swear switch super vacuum match help clip surge";

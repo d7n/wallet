@@ -1,1 +1,1 @@
-var mnemonic = "slender sing unknown nation siege bamboo whisper rib gather sock leave knife";
+var mnemonic = "ketchup then rude rail entire universe cliff over half knee divide invite";

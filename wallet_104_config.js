@@ -1,1 +1,1 @@
-var mnemonic = "hotel spawn rare head sort journey scare letter syrup mad claw indoor";
+var mnemonic = "rebel nominee furnace great produce cube best code wine behave able vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster soda distance switch digital canvas goose trap forest section nut gossip";
+var mnemonic = "action away toast enact actual opinion ankle anxiety jazz warfare option motor";

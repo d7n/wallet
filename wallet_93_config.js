@@ -1,1 +1,1 @@
-var mnemonic = "eight cycle similar anxiety enter mixture material major hold angle symptom fragile";
+var mnemonic = "chaos wire arrow stairs judge butter depth puppy tape exercise purpose boost";

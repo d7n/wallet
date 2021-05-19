@@ -1,1 +1,1 @@
-var mnemonic = "only draft sleep absent unfold smile regular near eight steel mother whisper";
+var mnemonic = "slush prefer shove tribe horror meat spider wall viable arrive wage head";

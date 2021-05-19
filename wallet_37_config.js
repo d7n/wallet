@@ -1,1 +1,1 @@
-var mnemonic = "orange grass raven rival goose saddle enter hobby visit sweet error mechanic";
+var mnemonic = "fringe coffee ecology grain say mountain robust nest tooth animal galaxy spoon";

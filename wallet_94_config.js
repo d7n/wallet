@@ -1,1 +1,1 @@
-var mnemonic = "measure still east hold coast absent clean odor cousin awful skull tent";
+var mnemonic = "limit axis word cereal course atom glide broom fashion permit busy entry";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome copper pride dash loan army witness fortune muffin corn become journey";
+var mnemonic = "thunder action purity drop vapor lawsuit flight live flash vibrant bachelor invest";

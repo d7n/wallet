@@ -1,1 +1,1 @@
-var mnemonic = "wave mouse bag cricket turkey banner until act tell token twelve pencil";
+var mnemonic = "engine reject arrest syrup dumb left father seat edit above border congress";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp amateur joke giant carpet exist media brick pond nut spoil wealth";
+var mnemonic = "faculty benefit trip order risk clown club bonus bus certain famous act";

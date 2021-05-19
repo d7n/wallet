@@ -1,1 +1,1 @@
-var mnemonic = "biology banner detect range practice gas cloth venture cart pony ramp decrease";
+var mnemonic = "kid staff cabbage auction piece crazy tired fade hundred identify urban deposit";

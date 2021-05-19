@@ -1,1 +1,1 @@
-var mnemonic = "push buffalo crisp cotton strong lava genius impact type rent post bean";
+var mnemonic = "cousin intact supply flush consider couch labor meadow when daring unveil address";

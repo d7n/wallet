@@ -1,1 +1,1 @@
-var mnemonic = "deputy purse mask daughter security adult pear test rebel police breeze recall";
+var mnemonic = "mosquito normal disease width denial book name scrub rib bright parent inspire";

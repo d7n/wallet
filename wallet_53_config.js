@@ -1,1 +1,1 @@
-var mnemonic = "proof payment zebra submit soul furnace decrease leg radio hill horn library";
+var mnemonic = "history dinosaur trash swarm merge cupboard chair ladder vague over early purchase";

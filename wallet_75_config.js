@@ -1,1 +1,1 @@
-var mnemonic = "fossil barrel tool pupil plunge pitch tired urge hen device disagree economy";
+var mnemonic = "expose small spend river entry fox swarm pizza biology trim liquid elder";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom cruel hamster melt element course between vanish buffalo only before fabric";
+var mnemonic = "shrug peanut rack wasp hub dice kite improve latin human fatal address";

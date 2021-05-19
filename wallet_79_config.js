@@ -1,1 +1,1 @@
-var mnemonic = "huge drop dutch song where modify delay pitch loyal silent nation weird";
+var mnemonic = "flock exact ski grab someone canyon suffer grief ghost such eager wise";

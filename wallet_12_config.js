@@ -1,1 +1,1 @@
-var mnemonic = "puppy siren turn avoid myself climb disorder lonely phrase town orchard merit";
+var mnemonic = "crane close trust roof system fee decorate turn measure way mask sustain";

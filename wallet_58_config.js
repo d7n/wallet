@@ -1,1 +1,1 @@
-var mnemonic = "trap sentence come merry about year acid siege pepper predict breeze pitch";
+var mnemonic = "you drink tide chronic seed orange there short shoot friend gloom divert";

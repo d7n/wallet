@@ -1,1 +1,1 @@
-var mnemonic = "bubble home weather battle clerk drill expire tribe common damp lunar scheme";
+var mnemonic = "return illegal broccoli build inmate approve mechanic someone young young adapt dice";

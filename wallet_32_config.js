@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mass water excite proud catch silver eagle sense nothing admit crew";
+var mnemonic = "illness decade movie race debate maple piece sport easily ticket security champion";

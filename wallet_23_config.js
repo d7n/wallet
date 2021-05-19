@@ -1,1 +1,1 @@
-var mnemonic = "bachelor remember gorilla stock hazard build wave junior fresh agree crouch cover";
+var mnemonic = "keen movie scorpion purse genre laptop danger tip orchard siren silent vicious";

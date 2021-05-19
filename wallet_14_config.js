@@ -1,1 +1,1 @@
-var mnemonic = "attend credit session smart cruise label river excite name own address defy";
+var mnemonic = "eager stay half render crunch retreat favorite resist alcohol bid find harsh";

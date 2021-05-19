@@ -1,1 +1,1 @@
-var mnemonic = "stereo mention park resemble sibling tongue novel juice talk inside humble chief";
+var mnemonic = "jacket victory skill ensure festival define man fossil dwarf try hamster upset";

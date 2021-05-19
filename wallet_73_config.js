@@ -1,1 +1,1 @@
-var mnemonic = "envelope audit salon seek case raccoon doll firm silk material much kangaroo";
+var mnemonic = "gate arrange expire lounge filter utility island quiz eagle violin loan ready";

@@ -1,1 +1,1 @@
-var mnemonic = "vague wide rubber wife dignity potato phrase script fortune brush travel start";
+var mnemonic = "fortune bundle mountain champion buyer grid curve adult silent bulk sure satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "fish ability lemon sail bread diary genuine jump infant lottery pencil spy";
+var mnemonic = "demise frame tuition card pumpkin ripple infant bonus beach valley bonus thank";

@@ -1,1 +1,1 @@
-var mnemonic = "cage canyon avocado popular success door size solve lucky second text legend";
+var mnemonic = "meadow torch shuffle crash example budget thunder foil off tide noble test";

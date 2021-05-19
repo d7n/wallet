@@ -1,1 +1,1 @@
-var mnemonic = "field force jaguar weapon muffin annual client drift burst repair fiber laugh";
+var mnemonic = "mango dragon wool fringe sport gallery reason prosper jealous honey swamp vote";

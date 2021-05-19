@@ -1,1 +1,1 @@
-var mnemonic = "pigeon thumb aerobic tumble cruel render fly permit oak relax lamp sheriff";
+var mnemonic = "govern child hungry attend stuff fringe dad forest cherry acid enable iron";

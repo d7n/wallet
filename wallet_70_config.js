@@ -1,1 +1,1 @@
-var mnemonic = "puppy demand asset emerge sheriff brush crime setup gate security anger cheap";
+var mnemonic = "garden festival arch else veteran decade nest tackle lunar usage service turn";

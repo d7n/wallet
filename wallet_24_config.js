@@ -1,1 +1,1 @@
-var mnemonic = "gift museum calm tiny slide space traffic ugly call echo panther hub";
+var mnemonic = "whip wall wasp basket level pink tuna decline frown cause air dice";

@@ -1,1 +1,1 @@
-var mnemonic = "daring wasp oppose tip carpet filter denial dish easy common animal bind";
+var mnemonic = "dust allow genre mobile october winter pass table helmet among yellow talk";

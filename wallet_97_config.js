@@ -1,1 +1,1 @@
-var mnemonic = "other margin hedgehog damage clinic field census unlock solve client biology stable";
+var mnemonic = "outer mimic neither coin bulb above away stumble space coin rely strike";

@@ -1,1 +1,1 @@
-var mnemonic = "equip turn naive fog mountain buyer brother fork one chuckle gaze lemon";
+var mnemonic = "jealous logic wish sign hard great seminar couple dirt deny lawn sudden";

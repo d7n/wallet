@@ -1,1 +1,1 @@
-var mnemonic = "unique plate today romance category limb boring female myself news orbit copy";
+var mnemonic = "want defense tell census lottery honey tissue spy used spot shaft sentence";

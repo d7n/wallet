@@ -1,1 +1,1 @@
-var mnemonic = "weapon luxury gas ensure dizzy bleak lend retire decide away fantasy hero";
+var mnemonic = "desert misery piano sense glory solid jelly rabbit play fan reflect bicycle";

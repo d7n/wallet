@@ -1,1 +1,1 @@
-var mnemonic = "raw body wing among lumber runway away intact above dinosaur mesh journey";
+var mnemonic = "belt erupt monkey list rib note maximum bean rapid matter notable jeans";

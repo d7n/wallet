@@ -1,1 +1,1 @@
-var mnemonic = "rude element mandate snap actor cloth mirror involve legal banner fashion romance";
+var mnemonic = "horn capable once profit faith wedding dynamic circle now what same never";

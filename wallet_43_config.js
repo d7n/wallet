@@ -1,1 +1,1 @@
-var mnemonic = "firm weekend hour need borrow oven noodle burden dash wasp reunion tonight";
+var mnemonic = "amount six clarify process theme pass lesson crunch tiny list blood emerge";

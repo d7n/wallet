@@ -1,1 +1,1 @@
-var mnemonic = "discover solve increase canvas bargain chair light hollow north network fold soda";
+var mnemonic = "praise put film mix remind cliff educate only remain street shell remain";

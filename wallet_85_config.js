@@ -1,1 +1,1 @@
-var mnemonic = "garage frown used novel useless vicious tunnel junk inspire recall arctic monster";
+var mnemonic = "start giggle surround inherit either gasp ecology short trend silk hill velvet";

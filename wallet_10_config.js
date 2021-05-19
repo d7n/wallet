@@ -1,1 +1,1 @@
-var mnemonic = "jealous process man honey hard tree firm security weasel rate cloud rural";
+var mnemonic = "heart deposit slam enact flee attitude gift hurt loyal tobacco deliver subway";

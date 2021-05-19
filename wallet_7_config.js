@@ -1,1 +1,1 @@
-var mnemonic = "upset viable early wheel oblige eagle wave pool hazard diagram few busy";
+var mnemonic = "pact question kingdom cargo goat people range rebuild step panel sentence answer";

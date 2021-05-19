@@ -1,1 +1,1 @@
-var mnemonic = "document engage boy series toward fancy bicycle oak music uncover clump silly";
+var mnemonic = "cannon crack diary cave palace myth correct cluster father expand suspect topple";

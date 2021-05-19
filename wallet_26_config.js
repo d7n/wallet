@@ -1,1 +1,1 @@
-var mnemonic = "suffer flush water morning fade broccoli yellow item cradle follow fix oyster";
+var mnemonic = "citizen design satisfy melt powder two there bitter extra during sense will";
