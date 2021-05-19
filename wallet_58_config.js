@@ -1,1 +1,1 @@
-var mnemonic = "express lava holiday piece normal ranch harsh era borrow donate burst delay";
+var mnemonic = "exercise industry gym element noise comfort since say mention you dust luxury";

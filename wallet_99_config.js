@@ -1,1 +1,1 @@
-var mnemonic = "public ancient then put issue bitter blade couch limit peace artist derive";
+var mnemonic = "today tissue run dizzy stuff parent modify venture draft minor fancy rifle";

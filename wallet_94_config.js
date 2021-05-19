@@ -1,1 +1,1 @@
-var mnemonic = "garage good oppose tilt uniform diary brisk garage pride link cup shop";
+var mnemonic = "goose crush often erode attack duty shoot select use shine huge core";

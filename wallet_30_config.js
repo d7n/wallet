@@ -1,1 +1,1 @@
-var mnemonic = "they decide round forget pet kid flee market zebra gasp wine shed";
+var mnemonic = "lawsuit museum library barrel jazz category exclude skirt desert body card antique";

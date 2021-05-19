@@ -1,1 +1,1 @@
-var mnemonic = "help sentence grab mom thought opinion half kidney warm floor fashion hospital";
+var mnemonic = "company panda consider parent blur merry help remove deal anxiety peasant purity";

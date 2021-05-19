@@ -1,1 +1,1 @@
-var mnemonic = "oil cupboard super cushion tenant afford apart ask old actor shrimp dentist";
+var mnemonic = "script coffee ill illegal gorilla legal news snow reopen crumble inner ball";

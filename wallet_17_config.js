@@ -1,1 +1,1 @@
-var mnemonic = "wait dash invest misery dance become post sentence item prevent panel picnic";
+var mnemonic = "suspect view virtual sniff damage salon phone wild inmate profit practice spoon";

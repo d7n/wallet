@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur where satoshi capable uncle valley want doll idea april volume couch";
+var mnemonic = "night upgrade please manage two gold rabbit skate survey mutual april motion";

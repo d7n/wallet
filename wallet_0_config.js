@@ -1,1 +1,1 @@
-var mnemonic = "pizza hockey machine hurdle paper position frost priority fix sort pair sense";
+var mnemonic = "expire unlock next life unveil monkey magic sad tribe slim sheriff swamp";

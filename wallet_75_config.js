@@ -1,1 +1,1 @@
-var mnemonic = "common strike noise glow toe public patrol gauge onion number essay cool";
+var mnemonic = "eagle mystery cancel imitate wool scan bread sentence clay vicious anchor escape";

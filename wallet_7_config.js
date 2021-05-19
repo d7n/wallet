@@ -1,1 +1,1 @@
-var mnemonic = "lemon wheat frame today promote oak floor few trash east race hamster";
+var mnemonic = "transfer lazy title debris favorite direct hint inmate actor bomb patch vote";

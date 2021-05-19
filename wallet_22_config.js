@@ -1,1 +1,1 @@
-var mnemonic = "capital replace drastic stumble april style master pioneer hood alien regret grape";
+var mnemonic = "manual utility fence muscle twelve critic piece insect assist spoon predict axis";

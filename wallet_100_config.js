@@ -1,1 +1,1 @@
-var mnemonic = "shrug item draw brass blue pencil square return mixed water skate remember";
+var mnemonic = "betray odor display spray record devote offer pepper jazz pass foam lucky";

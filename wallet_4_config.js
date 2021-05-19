@@ -1,1 +1,1 @@
-var mnemonic = "injury twin sorry spray climb apple item glad outer debate still digital";
+var mnemonic = "palm win embark sure ticket echo phrase cash hazard basket obtain business";

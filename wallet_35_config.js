@@ -1,1 +1,1 @@
-var mnemonic = "cigar hundred isolate tooth salmon test glass one soul label wood onion";
+var mnemonic = "maple donkey move palace nephew weekend property salon swap learn inspire marine";

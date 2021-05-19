@@ -1,1 +1,1 @@
-var mnemonic = "armor million one rough option secret ladder flavor suit humor alter burger";
+var mnemonic = "smile cage bracket question discover drastic blush crumble shoot auto beauty approve";

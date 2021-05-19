@@ -1,1 +1,1 @@
-var mnemonic = "grocery ask moon response near come logic word coin crime ceiling private";
+var mnemonic = "cash know vital opera worry write paper fringe retreat cloth express manage";

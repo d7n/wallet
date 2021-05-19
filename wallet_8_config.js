@@ -1,1 +1,1 @@
-var mnemonic = "loan math drive guide oven want submit share muscle acid pond photo";
+var mnemonic = "fade hammer author safe people only catch over cup cousin puzzle wear";

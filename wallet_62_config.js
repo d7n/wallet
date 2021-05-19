@@ -1,1 +1,1 @@
-var mnemonic = "power equip cousin filter finger struggle purchase own file endless flag robust";
+var mnemonic = "universe useful timber autumn foster coil beach quick method degree taste energy";

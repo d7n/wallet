@@ -1,1 +1,1 @@
-var mnemonic = "army filter evolve hungry upon cinnamon dentist quality ozone resist sail relief";
+var mnemonic = "income hero depart defense eternal era truck stool choose client solid blur";

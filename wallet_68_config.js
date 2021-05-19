@@ -1,1 +1,1 @@
-var mnemonic = "ice public park neglect thing protect destroy stick move nephew hint thunder";
+var mnemonic = "pill bomb puppy jewel crystal scrap what slab lumber tone diagram era";

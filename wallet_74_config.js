@@ -1,1 +1,1 @@
-var mnemonic = "syrup audit man practice someone crack gift flower narrow sniff axis achieve";
+var mnemonic = "inside marine affair walk novel gentle border uphold hurdle wise average cross";

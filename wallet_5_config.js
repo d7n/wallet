@@ -1,1 +1,1 @@
-var mnemonic = "whale business forest enforce clever double web trumpet galaxy shed erosion avocado";
+var mnemonic = "banana dinosaur clap artefact will adjust bird someone ankle idle forward palace";

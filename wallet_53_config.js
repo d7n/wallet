@@ -1,1 +1,1 @@
-var mnemonic = "mad copy install raw virtual bar skull fatigue tower grass faculty palm";
+var mnemonic = "own simple slim green victory adult worry concert coconut measure grocery history";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect today elegant foot lake beef ankle mouse vacuum trial lens chalk";
+var mnemonic = "attack math book creek income inmate live grow ask enemy label throw";

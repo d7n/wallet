@@ -1,1 +1,1 @@
-var mnemonic = "honey father lounge craft slogan smoke loyal company buyer flame whisper used";
+var mnemonic = "seek web bid soap pen battle shuffle submit muffin any typical high";

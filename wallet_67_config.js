@@ -1,1 +1,1 @@
-var mnemonic = "naive crucial shine wine fiction tackle desert final typical twice metal decorate";
+var mnemonic = "appear able ketchup defense neglect divorce pizza decade uphold cancel armor entire";

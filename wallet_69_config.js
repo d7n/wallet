@@ -1,1 +1,1 @@
-var mnemonic = "flee test salon parrot deal shallow sense soap version today fashion drink";
+var mnemonic = "catch cart cross piece height artist month measure novel chimney shrimp caught";

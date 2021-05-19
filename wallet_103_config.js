@@ -1,1 +1,1 @@
-var mnemonic = "mother library idle erupt firm hold arrow couple foster little leg tourist";
+var mnemonic = "custom proud cupboard habit artefact cost wine planet casual marriage empty defy";

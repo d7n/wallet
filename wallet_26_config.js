@@ -1,1 +1,1 @@
-var mnemonic = "crash segment pumpkin magnet siren tomorrow worth pulse fluid choose sheriff praise";
+var mnemonic = "spy borrow firm twenty decrease canal raven gentle gossip rude annual school";

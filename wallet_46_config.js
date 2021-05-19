@@ -1,1 +1,1 @@
-var mnemonic = "trouble purchase hold afford defense pen zero supreme dignity swing settle sock";
+var mnemonic = "develop split river chief bounce picture gaze inner return holiday index draft";

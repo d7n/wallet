@@ -1,1 +1,1 @@
-var mnemonic = "nose swamp output misery foot divorce weird version call about key man";
+var mnemonic = "license insect breeze between govern garment border life aware casual private involve";

@@ -1,1 +1,1 @@
-var mnemonic = "away rug urge hat guess rapid once train rare umbrella note possible";
+var mnemonic = "panda clap pigeon skate furnace swamp future pave leisure tragic advance toast";

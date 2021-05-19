@@ -1,1 +1,1 @@
-var mnemonic = "street noodle gallery disease affair flash lens token cigar zone rib tattoo";
+var mnemonic = "husband dwarf employ fly banana biology slim army first lab wing raise";

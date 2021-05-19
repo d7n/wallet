@@ -1,1 +1,1 @@
-var mnemonic = "clarify urban vanish depart buyer soon person arena patch puzzle fluid drama";
+var mnemonic = "equip matrix comic artwork exotic duck primary fog shrug magic diet inform";

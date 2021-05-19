@@ -1,1 +1,1 @@
-var mnemonic = "film syrup glimpse february cost team grace endorse section captain fortune moon";
+var mnemonic = "result glass scale diamond off winter wink voice pass unhappy quit brave";

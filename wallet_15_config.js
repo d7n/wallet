@@ -1,1 +1,1 @@
-var mnemonic = "coil weasel disease exist weather venue end cool only say goddess vicious";
+var mnemonic = "canoe surround minor throw kind human also address profit jaguar addict pioneer";

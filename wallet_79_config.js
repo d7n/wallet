@@ -1,1 +1,1 @@
-var mnemonic = "seek topic street trophy resist walnut ice estate surround creek wall sort";
+var mnemonic = "govern dinner odor dawn ozone topic door noble neutral sing flag laptop";

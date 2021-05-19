@@ -1,1 +1,1 @@
-var mnemonic = "cargo denial stay essence engine library apology drip skill volume quick brush";
+var mnemonic = "pudding divorce cube divide play tree hockey parrot fantasy follow soft lottery";

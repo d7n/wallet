@@ -1,1 +1,1 @@
-var mnemonic = "belt help prevent camera suggest member fever riot lava plunge unit axis";
+var mnemonic = "desert mushroom prosper rocket hip demise size mule civil wood alter double";

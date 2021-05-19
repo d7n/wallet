@@ -1,1 +1,1 @@
-var mnemonic = "taste thumb wine acoustic risk grit stuff member feed agree parade action";
+var mnemonic = "return much uniform shine north hazard february album link twenty gasp glare";

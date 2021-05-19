@@ -1,1 +1,1 @@
-var mnemonic = "radio curtain civil obscure hen donate limit inside abandon earn street fork";
+var mnemonic = "govern disease pulp setup glance goat final enact execute badge grocery plate";

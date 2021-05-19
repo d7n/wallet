@@ -1,1 +1,1 @@
-var mnemonic = "whale girl brass unfair sail manage same cheese beef ensure inspire chair";
+var mnemonic = "divorce soccer empty marriage reason kangaroo orbit cheap arena submit quiz multiply";

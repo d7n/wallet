@@ -1,1 +1,1 @@
-var mnemonic = "fault matrix comfort any move random front unfair skull tired arch surface";
+var mnemonic = "tomato talent gown farm video power immune benefit upon vivid dove glance";

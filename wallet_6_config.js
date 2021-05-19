@@ -1,1 +1,1 @@
-var mnemonic = "unfold mixed person stay vessel attract steel spoil bomb company return oak";
+var mnemonic = "execute liberty speak unaware combine record tide pig orchard shoot resist crisp";

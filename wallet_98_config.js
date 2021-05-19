@@ -1,1 +1,1 @@
-var mnemonic = "record smile marriage divert such drastic cloth carpet scale belt trigger skin";
+var mnemonic = "way predict strategy boring bid carbon someone minimum retire elder liquid travel";

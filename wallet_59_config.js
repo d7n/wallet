@@ -1,1 +1,1 @@
-var mnemonic = "fee yellow boil cable tell knee voice elder grain reflect devote arrest";
+var mnemonic = "loop shaft toward access clip awful bottom usage large lucky dove crazy";

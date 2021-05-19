@@ -1,1 +1,1 @@
-var mnemonic = "frost north hello amount smile elephant chief endless twice clown debris grab";
+var mnemonic = "knife human kite grab month mimic tell minimum wave anchor yard scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "illness about define divert claim ice soul stairs nation apart click primary";
+var mnemonic = "render flavor wrong museum fish autumn badge swim soft unknown arrive print";

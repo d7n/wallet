@@ -1,1 +1,1 @@
-var mnemonic = "guard prepare daring phone lawsuit safe original obvious cactus athlete news vital";
+var mnemonic = "comic pen flash echo celery uncle sail reform noodle tuna leave member";

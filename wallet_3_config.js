@@ -1,1 +1,1 @@
-var mnemonic = "predict bulb trophy test nephew broccoli pig rookie wing river wall range";
+var mnemonic = "dwarf oak gift elite upon found ocean floor pool giant physical club";

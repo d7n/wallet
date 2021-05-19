@@ -1,1 +1,1 @@
-var mnemonic = "bean cup enough thrive attract waste tribe uncle defy before category piece";
+var mnemonic = "payment strategy early tiny day ritual weekend hint matrix earn please cage";

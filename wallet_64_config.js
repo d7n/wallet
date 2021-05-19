@@ -1,1 +1,1 @@
-var mnemonic = "cry wing pact solve idle text clarify swap degree stock old anger";
+var mnemonic = "toss silent start group chaos end expand pull nation quality emerge stay";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop fog shine elegant enough various else magic funny put dial tuna";
+var mnemonic = "copper search love guess alley stuff hundred maze pudding erupt describe estate";

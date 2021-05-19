@@ -1,1 +1,1 @@
-var mnemonic = "ocean wave park drop soda surprise garden giggle sudden fault evolve fabric";
+var mnemonic = "tribe theory load renew accident wing day similar forum reunion midnight caught";

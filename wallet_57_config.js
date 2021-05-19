@@ -1,1 +1,1 @@
-var mnemonic = "nose chase arrive stool void habit lock found hen light skate jungle";
+var mnemonic = "advice vast flight wave page basket brush rude spring gallery tree hover";

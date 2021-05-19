@@ -1,1 +1,1 @@
-var mnemonic = "teach update human mad purse process caution stool clap timber poet agent";
+var mnemonic = "royal medal remember churn onion economy grocery give carbon sibling token excite";

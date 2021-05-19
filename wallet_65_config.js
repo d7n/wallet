@@ -1,1 +1,1 @@
-var mnemonic = "doll throw tortoise coral practice renew grant beyond intact arctic system siege";
+var mnemonic = "measure clip snack street adjust kitchen latin concert talk benefit insane fire";

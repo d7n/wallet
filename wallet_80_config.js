@@ -1,1 +1,1 @@
-var mnemonic = "setup horror deposit track shift shift meadow level panel vapor caution action";
+var mnemonic = "isolate addict flower fiscal extra size length depth valid verify gospel wise";

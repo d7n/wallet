@@ -1,1 +1,1 @@
-var mnemonic = "gossip cushion bread team call science episode north double sea sting mercy";
+var mnemonic = "shield recall punch input embody exhibit reopen birth mule laugh embark target";

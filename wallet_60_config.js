@@ -1,1 +1,1 @@
-var mnemonic = "cabin decade phone vital laptop art bachelor resemble figure dream odor trial";
+var mnemonic = "concert fox trigger anchor pattern debate minimum erosion dry apart snap argue";

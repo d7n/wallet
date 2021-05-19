@@ -1,1 +1,1 @@
-var mnemonic = "such predict hollow display approve moment large actress because fame slot excess";
+var mnemonic = "tuition solve promote rookie glove company plunge quote cereal gain nephew talk";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit outdoor matrix defense middle skate relax gossip divorce uphold boring grunt";
+var mnemonic = "sting deal labor define stamp improve milk you what joy garment state";

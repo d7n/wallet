@@ -1,1 +1,1 @@
-var mnemonic = "east skin junior circle fire false target able because champion clerk speak";
+var mnemonic = "siege engage cactus grant mountain behave jealous mouse seek creek skin tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "black human orchard wheat myself thing switch spice pole glue electric jacket";
+var mnemonic = "wave erase extend similar future only orient waste sell afford rib river";

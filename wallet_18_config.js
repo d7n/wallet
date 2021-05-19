@@ -1,1 +1,1 @@
-var mnemonic = "slab flee tiny panther belt hundred gun already cigar divide blood sand";
+var mnemonic = "acoustic neglect garment glass grief gain rifle poet ketchup female enable label";

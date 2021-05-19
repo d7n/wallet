@@ -1,1 +1,1 @@
-var mnemonic = "lobster slice crew toast clay legend country code maid post uncle first";
+var mnemonic = "govern trumpet romance strike day cage sunset life calm network raise excess";

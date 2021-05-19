@@ -1,1 +1,1 @@
-var mnemonic = "simple improve dynamic mule music skill force mushroom cereal tonight long express";
+var mnemonic = "fitness cruise exist ball text shoulder movie lunar barely claim gallery leopard";

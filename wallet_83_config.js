@@ -1,1 +1,1 @@
-var mnemonic = "chest describe oven cabin pet develop must awkward secret palm suggest express";
+var mnemonic = "quarter symptom repair taxi potato music success sleep what office already border";

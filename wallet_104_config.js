@@ -1,1 +1,1 @@
-var mnemonic = "present tooth check able scorpion bachelor reward same wear bounce buddy judge";
+var mnemonic = "dog rack winter violin office swarm pause toward faculty purse life busy";

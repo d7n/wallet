@@ -1,1 +1,1 @@
-var mnemonic = "tiger detect gentle silly figure armed sleep dinosaur secret chunk use noodle";
+var mnemonic = "gorilla empower firm bargain endless invite cousin topic ten crater calm bicycle";

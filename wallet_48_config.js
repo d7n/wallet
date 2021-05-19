@@ -1,1 +1,1 @@
-var mnemonic = "coral inmate cancel mercy wait ancient shiver hello taste pyramid book pole";
+var mnemonic = "faith dial female burden sun area ahead seminar autumn phrase awake wise";

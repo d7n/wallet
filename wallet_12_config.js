@@ -1,1 +1,1 @@
-var mnemonic = "wisdom frozen cook usual excuse anxiety sniff absorb unaware blood stool achieve";
+var mnemonic = "fat asset expect dilemma field carbon harbor muffin capable session business combine";

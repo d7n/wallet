@@ -1,1 +1,1 @@
-var mnemonic = "safe rifle gravity member wise grass uniform beef blue walnut wedding castle";
+var mnemonic = "urge same anchor exit motor taxi rather act north kind fatal produce";

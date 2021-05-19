@@ -1,1 +1,1 @@
-var mnemonic = "credit pool range lift moment cat twist fabric arrange party fan timber";
+var mnemonic = "share impulse spell lab nest owner question tourist room whip base round";

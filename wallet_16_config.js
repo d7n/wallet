@@ -1,1 +1,1 @@
-var mnemonic = "chaos file explain debris opinion cream empower simple nominee call allow kiss";
+var mnemonic = "become fan drastic grape charge tool snap flavor jar kit guide valley";

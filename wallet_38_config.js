@@ -1,1 +1,1 @@
-var mnemonic = "stairs cash affair merry profit raccoon caught before video comic census position";
+var mnemonic = "life inspire gossip fragile valid art special shop swing post enhance year";

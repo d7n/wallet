@@ -1,1 +1,1 @@
-var mnemonic = "truck remember beauty swarm brief love vendor claw solve leopard gesture outer";
+var mnemonic = "penalty unfold wreck discover position story vote around object paper palace merge";

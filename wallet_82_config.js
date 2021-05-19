@@ -1,1 +1,1 @@
-var mnemonic = "medal parade price number lottery bulb payment age hurry attend bone lumber";
+var mnemonic = "palace smile eye miracle model critic best shrimp defy upgrade improve stone";

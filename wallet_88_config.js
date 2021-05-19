@@ -1,1 +1,1 @@
-var mnemonic = "letter blanket bean birth around solid enhance eight knock action ordinary domain";
+var mnemonic = "column achieve length casino chase trash document upset confirm expire one enough";

@@ -1,1 +1,1 @@
-var mnemonic = "piece vendor congress network clerk spike limb voice spray famous sleep lucky";
+var mnemonic = "kangaroo useless all busy slush suspect height crime zone impose hip private";

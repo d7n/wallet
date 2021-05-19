@@ -1,1 +1,1 @@
-var mnemonic = "program slam aisle panic focus elbow deliver slice frame comic bacon cause";
+var mnemonic = "youth afford rocket shallow build sure easy any admit absent casual brain";

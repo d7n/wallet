@@ -1,1 +1,1 @@
-var mnemonic = "sting knee lesson until rib shoe pulp dog fine weapon fringe box";
+var mnemonic = "scrub feed gospel peanut interest olympic open jungle bulb save cupboard cruel";

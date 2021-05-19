@@ -1,1 +1,1 @@
-var mnemonic = "major prepare cup session afford frame flip toy goose room crew cake";
+var mnemonic = "join daughter nuclear crowd actress nation mosquito they meadow vivid business expose";

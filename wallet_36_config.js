@@ -1,1 +1,1 @@
-var mnemonic = "token wash busy close lemon client raise senior pulp exit solar enrich";
+var mnemonic = "pistol credit rural champion make clock sense blur bread sand patient buffalo";

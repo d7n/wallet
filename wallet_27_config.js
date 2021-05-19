@@ -1,1 +1,1 @@
-var mnemonic = "armor visa weird april flash unlock improve season verify estate author roof";
+var mnemonic = "health gas assist loud device valley screen reject shy slogan couch frown";

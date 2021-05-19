@@ -1,1 +1,1 @@
-var mnemonic = "shoulder either crowd toe party limit harvest major arrest frown exchange casino";
+var mnemonic = "solid invest course inject iron believe cupboard suit turtle meat debate chase";

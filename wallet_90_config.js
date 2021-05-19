@@ -1,1 +1,1 @@
-var mnemonic = "label congress alpha snap ugly accuse birth fresh robust blanket snap admit";
+var mnemonic = "public thunder below vacuum correct dismiss enhance stay sunset doll aware camera";

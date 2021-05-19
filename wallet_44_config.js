@@ -1,1 +1,1 @@
-var mnemonic = "often decade trim ranch action undo wild lumber keep antenna myself foam";
+var mnemonic = "good buffalo weather online adapt holiday quality demand pepper series twice inflict";

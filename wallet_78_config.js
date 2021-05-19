@@ -1,1 +1,1 @@
-var mnemonic = "dentist culture immune arena patient alcohol radar label output extend trial mention";
+var mnemonic = "mandate siren volume distance dignity print pass arena panther swamp cake prize";

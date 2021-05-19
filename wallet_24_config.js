@@ -1,1 +1,1 @@
-var mnemonic = "just body cluster casual beach jungle spoon blood frozen history bright swap";
+var mnemonic = "because glass hover ripple humor spice zone allow cost receive south luxury";

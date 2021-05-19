@@ -1,1 +1,1 @@
-var mnemonic = "cry milk smooth dolphin distance grape arctic output debate identify drastic rural";
+var mnemonic = "ranch orphan relief inmate problem adult benefit satisfy picture layer length audit";

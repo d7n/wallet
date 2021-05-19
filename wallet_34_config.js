@@ -1,1 +1,1 @@
-var mnemonic = "way acquire tired hour win over wave box palace arrange stadium country";
+var mnemonic = "cliff pole work educate captain concert coach artist proud main print culture";

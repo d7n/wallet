@@ -1,1 +1,1 @@
-var mnemonic = "turtle jungle balance auto entire obscure side family dish slight miss wage";
+var mnemonic = "father quote joke snake country guard pepper dolphin fog gather kiwi fruit";
