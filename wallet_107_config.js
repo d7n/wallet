@@ -1,1 +1,1 @@
-var mnemonic = "point general cage thank system enable chair trend nasty often clump town";
+var mnemonic = "crack pig cloud infant wrap mandate green gospel alien swing dice erupt";

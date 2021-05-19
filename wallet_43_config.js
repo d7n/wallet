@@ -1,1 +1,1 @@
-var mnemonic = "trap fortune athlete move bitter spawn blast correct harsh trash hen wink";
+var mnemonic = "gauge cover salmon tunnel grain twist thing cram ranch kitchen attract element";

@@ -1,1 +1,1 @@
-var mnemonic = "offer oven play trick claim flame away blur fiction category victory host";
+var mnemonic = "casual bachelor prosper knock salmon sorry reveal athlete elder oblige pond sibling";

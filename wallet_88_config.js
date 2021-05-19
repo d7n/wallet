@@ -1,1 +1,1 @@
-var mnemonic = "mobile honey matter neither reward stone setup approve omit must episode meadow";
+var mnemonic = "smooth connect stadium critic glance smoke immense exact fluid canoe toilet stone";

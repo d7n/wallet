@@ -1,1 +1,1 @@
-var mnemonic = "exercise assist recycle hurry weapon joy remove unhappy estate require public acid";
+var mnemonic = "twist empower nose oval nut fog private mask ribbon motor worth couch";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise deer strong march rescue claim hedgehog ankle endless scorpion scene either";
+var mnemonic = "clerk abuse shop because february artefact gas hen carry fly upper onion";

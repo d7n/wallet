@@ -1,1 +1,1 @@
-var mnemonic = "urban credit practice clinic entry carry cool govern ready believe stomach wish";
+var mnemonic = "tobacco check speak moment sock doctor destroy chat display hold erupt knife";

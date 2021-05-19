@@ -1,1 +1,1 @@
-var mnemonic = "left outside menu kiss bundle silent open sniff column speak crater record";
+var mnemonic = "toast tree novel coin cabin case leg fly market delay yard phone";

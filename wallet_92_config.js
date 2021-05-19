@@ -1,1 +1,1 @@
-var mnemonic = "badge genre october clay orient access ticket start mouse best royal sketch";
+var mnemonic = "garden size elite mom uphold neutral skate power crop snack huge hazard";

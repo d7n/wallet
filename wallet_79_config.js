@@ -1,1 +1,1 @@
-var mnemonic = "trade pool portion welcome liberty multiply tip curve vicious engine empty foil";
+var mnemonic = "later comic useful someone practice stay horror arrive keen sense yard pledge";

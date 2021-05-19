@@ -1,1 +1,1 @@
-var mnemonic = "muscle success vital develop grid danger more strike height lake cattle lawsuit";
+var mnemonic = "marble spatial unfair fossil leaf runway mushroom enforce increase rent document smile";

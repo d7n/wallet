@@ -1,1 +1,1 @@
-var mnemonic = "decrease just document few again primary tongue powder hill awkward fall evil";
+var mnemonic = "snake layer boy arrest exit region purse spike wild orchard kick fortune";

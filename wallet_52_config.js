@@ -1,1 +1,1 @@
-var mnemonic = "jacket pluck doctor news clog output chapter sorry obey visual essay extra";
+var mnemonic = "draw lift idea cup feature pistol pitch repair auto drop impulse march";

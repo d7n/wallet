@@ -1,1 +1,1 @@
-var mnemonic = "faint jump present case industry because cactus depth ticket little chef fold";
+var mnemonic = "planet trial pilot fence walk antique section another energy fetch enough wait";

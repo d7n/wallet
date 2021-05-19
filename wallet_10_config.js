@@ -1,1 +1,1 @@
-var mnemonic = "health brick black one powder few science reward napkin close cousin core";
+var mnemonic = "aspect wrist route apart leg hole art puzzle decide feel social print";

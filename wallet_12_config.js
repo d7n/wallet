@@ -1,1 +1,1 @@
-var mnemonic = "donate boil thank tomato exit small sentence evil unfold decline casual giant";
+var mnemonic = "pyramid lemon toss upset shrug actress alcohol force ivory guard try state";

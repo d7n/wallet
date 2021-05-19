@@ -1,1 +1,1 @@
-var mnemonic = "mirror brother bid combine later gaze box unaware drastic phone hurdle figure";
+var mnemonic = "pizza flavor viable foot grab flee music jaguar goose define insane march";

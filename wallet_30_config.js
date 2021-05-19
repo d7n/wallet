@@ -1,1 +1,1 @@
-var mnemonic = "hub void wet elephant lounge lottery denial lizard robust victory anxiety occur";
+var mnemonic = "crop subject lend token cute obvious police air return cube march office";

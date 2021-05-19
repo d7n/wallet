@@ -1,1 +1,1 @@
-var mnemonic = "street convince scare legend educate parent dirt girl debris crisp unusual claim";
+var mnemonic = "check rug swift oppose more pond taste toast monitor olive move yard";

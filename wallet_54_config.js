@@ -1,1 +1,1 @@
-var mnemonic = "submit chimney eyebrow illegal harsh spy trumpet day victory morning crush float";
+var mnemonic = "dumb comic craft mad alone arrange live neither voyage nation canal ribbon";

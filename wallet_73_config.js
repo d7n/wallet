@@ -1,1 +1,1 @@
-var mnemonic = "buzz armor awful regret mansion net box tank north stand primary hawk";
+var mnemonic = "raise lamp ensure jungle vacuum marine spike super slam amused course flight";

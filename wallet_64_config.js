@@ -1,1 +1,1 @@
-var mnemonic = "acid hint pact injury monster cat spray swift orbit table quality wire";
+var mnemonic = "knock organ minimum select mask hood orphan join soul model boost tissue";

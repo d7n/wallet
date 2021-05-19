@@ -1,1 +1,1 @@
-var mnemonic = "pact gesture noodle bomb fluid small alcohol prize recipe endorse sudden dune";
+var mnemonic = "quit wide marine inner gun keen manage inform blur elevator garment damage";

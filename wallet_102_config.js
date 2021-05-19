@@ -1,1 +1,1 @@
-var mnemonic = "raw captain canal return mushroom bachelor error medal organ canoe velvet punch";
+var mnemonic = "marble author crunch design panic fancy crush remove boss tank fancy regular";

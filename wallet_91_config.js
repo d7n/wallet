@@ -1,1 +1,1 @@
-var mnemonic = "dust coast crystal universe current casual just monitor always midnight wheel verify";
+var mnemonic = "adult nasty ugly own inner inner bean shallow logic giraffe alarm awkward";

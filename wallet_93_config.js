@@ -1,1 +1,1 @@
-var mnemonic = "skirt alert suspect donkey bleak lab tool assume abstract fossil chunk waste";
+var mnemonic = "behave mouse item sadness urban combine offer shell feature public garage finger";

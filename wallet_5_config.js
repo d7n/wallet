@@ -1,1 +1,1 @@
-var mnemonic = "project region junk strategy fury segment throw upon capable drink grass neglect";
+var mnemonic = "robot river asthma heavy canvas position person trouble equip add cupboard wrestle";

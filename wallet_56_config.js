@@ -1,1 +1,1 @@
-var mnemonic = "silver keep welcome amount cake couch hen sort resemble height grid luggage";
+var mnemonic = "garage snack snow era various palm rotate belt boy review furnace target";

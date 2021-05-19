@@ -1,1 +1,1 @@
-var mnemonic = "behave achieve cupboard coast sniff page purpose leaf dumb grass outside dentist";
+var mnemonic = "raccoon segment mercy echo bread cupboard spider want trip people domain change";

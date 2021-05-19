@@ -1,1 +1,1 @@
-var mnemonic = "lady visit then face staff window fish thumb just music floor horse";
+var mnemonic = "learn front general girl age torch scare record asthma behind wrestle permit";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate autumn pact heavy talent pluck method twelve fancy puppy tuition appear";
+var mnemonic = "trim grab cage mango modify skin scare involve polar memory basic bulb";

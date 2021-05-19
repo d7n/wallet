@@ -1,1 +1,1 @@
-var mnemonic = "alarm daring review indicate occur kite goose oven elbow ocean among dynamic";
+var mnemonic = "wave bachelor permit train jealous exhaust ski word earth deliver twice buddy";

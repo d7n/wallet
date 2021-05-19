@@ -1,1 +1,1 @@
-var mnemonic = "wise balance sadness obvious gun stadium knock notable sibling captain pet cart";
+var mnemonic = "fruit gown denial height actress better language insane upgrade health quit patch";

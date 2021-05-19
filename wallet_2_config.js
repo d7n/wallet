@@ -1,1 +1,1 @@
-var mnemonic = "idle cousin mask crazy mass confirm crumble tent crumble general erosion paddle";
+var mnemonic = "almost fabric rally spend announce mix diesel gold skull differ false nasty";

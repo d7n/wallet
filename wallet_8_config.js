@@ -1,1 +1,1 @@
-var mnemonic = "bulb museum amused include jacket blade strike oyster shoe cancel range neutral";
+var mnemonic = "start achieve sausage cannon pudding reward sort blue yellow hen vendor chuckle";

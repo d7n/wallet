@@ -1,1 +1,1 @@
-var mnemonic = "diet come axis area fiber once better taste piece open offer hat";
+var mnemonic = "pink meat enhance family father else reunion yellow olympic load crop laundry";

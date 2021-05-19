@@ -1,1 +1,1 @@
-var mnemonic = "cheese slush work tunnel panel width powder define stadium mixture south uniform";
+var mnemonic = "analyst silk strike snake file crew keep sea fiscal dust earn finger";

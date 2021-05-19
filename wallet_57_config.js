@@ -1,1 +1,1 @@
-var mnemonic = "voyage unable modify nephew snake usual output crouch foot topic kind update";
+var mnemonic = "distance grace because junior digital update broom force ensure calm visa frame";

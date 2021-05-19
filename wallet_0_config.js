@@ -1,1 +1,1 @@
-var mnemonic = "riot target wear hollow shiver spare dove refuse defense trumpet belt erupt";
+var mnemonic = "slab pitch pulp sweet approve security novel zebra double miracle differ assault";

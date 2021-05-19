@@ -1,1 +1,1 @@
-var mnemonic = "copy elegant behave load toy bundle unhappy auto table tennis sick neck";
+var mnemonic = "outer invest exhibit public mom egg language cannon humble inquiry impose student";

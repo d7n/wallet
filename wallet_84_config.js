@@ -1,1 +1,1 @@
-var mnemonic = "sponsor acoustic high noodle island run puzzle wood visual belt lake choice";
+var mnemonic = "add dust front gown worth toast corn weapon dose valid require utility";

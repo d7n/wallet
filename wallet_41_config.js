@@ -1,1 +1,1 @@
-var mnemonic = "code float habit vehicle flush mango trick brown edge question skin catch";
+var mnemonic = "often limb armor web abandon rack step midnight gun gift badge question";

@@ -1,1 +1,1 @@
-var mnemonic = "salon catalog gentle ticket retreat girl crunch rotate round cart lumber hedgehog";
+var mnemonic = "modify runway elder book hard gentle liberty morning skull project lend disease";

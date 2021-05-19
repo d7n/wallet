@@ -1,1 +1,1 @@
-var mnemonic = "cement abuse embody fee radio matrix travel grain current rotate street debate";
+var mnemonic = "stereo pool bulk world unknown tilt dress dance cheese panda crumble decade";

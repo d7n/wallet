@@ -1,1 +1,1 @@
-var mnemonic = "chase thing slim because calm reward anxiety uncover prepare whisper steak miss";
+var mnemonic = "eternal credit lonely unfold jazz welcome sport name identify stereo drum ship";

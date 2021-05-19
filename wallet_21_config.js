@@ -1,1 +1,1 @@
-var mnemonic = "engage bracket farm heavy execute forget today change cigar menu dwarf dinosaur";
+var mnemonic = "famous senior lounge right party shop insect execute oak enroll ivory apart";

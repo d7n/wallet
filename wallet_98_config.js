@@ -1,1 +1,1 @@
-var mnemonic = "shrug finger elite unit jealous history equal close race pave refuse genuine";
+var mnemonic = "borrow hybrid soda bullet hobby admit wife galaxy critic minimum close tuna";

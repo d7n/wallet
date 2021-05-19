@@ -1,1 +1,1 @@
-var mnemonic = "mimic manage catalog rubber cry narrow announce trim venue planet whale spatial";
+var mnemonic = "husband wool add grass cupboard surface depend divide net bless seminar fatigue";

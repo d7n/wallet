@@ -1,1 +1,1 @@
-var mnemonic = "print pull other dance notice mystery cushion hire angry tower flat left";
+var mnemonic = "leg limit cement believe salad ramp hole two idle drill armed royal";

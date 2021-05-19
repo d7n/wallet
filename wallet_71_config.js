@@ -1,1 +1,1 @@
-var mnemonic = "rich echo tiny live culture input trust smoke evil stone chimney suspect";
+var mnemonic = "student ability craft tiny leisure forum bottom nothing churn runway hair into";

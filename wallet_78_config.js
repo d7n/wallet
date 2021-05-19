@@ -1,1 +1,1 @@
-var mnemonic = "width cattle clay zero violin blood rough fury float miss traffic anchor";
+var mnemonic = "bomb confirm year measure review amazing page arm scale glass wild flock";

@@ -1,1 +1,1 @@
-var mnemonic = "remember admit onion defy auction purity lesson lunar simple fossil butter company";
+var mnemonic = "gap trust front episode trust arm then olive frost spare crime riot";

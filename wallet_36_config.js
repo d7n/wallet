@@ -1,1 +1,1 @@
-var mnemonic = "normal neck table junk ranch patrol drift define egg grass hard gown";
+var mnemonic = "oblige almost fun minor license steak lion certain point cost prosper tooth";

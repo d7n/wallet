@@ -1,1 +1,1 @@
-var mnemonic = "intact sheriff token message exotic advice machine acquire aisle west noble fade";
+var mnemonic = "together quit luggage bulk merit million kick snake kit birth fame napkin";

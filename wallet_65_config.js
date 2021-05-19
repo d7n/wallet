@@ -1,1 +1,1 @@
-var mnemonic = "luggage saddle three hope two noise snake ignore ostrich odor cheese know";
+var mnemonic = "build peace dove train segment arrive combine jaguar orange gauge annual empower";

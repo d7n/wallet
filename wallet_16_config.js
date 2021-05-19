@@ -1,1 +1,1 @@
-var mnemonic = "noble tuna alpha rude husband trap mixed glass text message very task";
+var mnemonic = "sail whale promote silent song arrest snake during midnight host october toddler";

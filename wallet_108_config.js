@@ -1,1 +1,1 @@
-var mnemonic = "enforce lend fat trophy slush cactus chronic train certain monkey wheat giraffe";
+var mnemonic = "peasant admit urge beyond coffee faith manual mad about travel symptom shiver";

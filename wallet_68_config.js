@@ -1,1 +1,1 @@
-var mnemonic = "attitude screen damage frown tattoo melt soon post cream talk vast almost";
+var mnemonic = "spend duty sound until educate desk wisdom lunch squeeze swift corn mail";

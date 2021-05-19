@@ -1,1 +1,1 @@
-var mnemonic = "festival control lava beauty water exclude roof gaze tide civil include turkey";
+var mnemonic = "escape merge already hat riot seven peasant current sniff fatigue small garbage";

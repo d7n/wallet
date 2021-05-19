@@ -1,1 +1,1 @@
-var mnemonic = "image pig gas vacant wrong traffic celery blanket absent warrior symbol ahead";
+var mnemonic = "submit slice base theme measure merry soldier pink chair visit eyebrow worth";

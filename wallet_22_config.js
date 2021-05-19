@@ -1,1 +1,1 @@
-var mnemonic = "stuff suit inside example lesson dignity glove unfold neutral sustain quit cancel";
+var mnemonic = "boat level clean vehicle know rent bonus agree someone tower leisure pave";

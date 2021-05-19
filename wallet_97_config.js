@@ -1,1 +1,1 @@
-var mnemonic = "average staff month sleep now tent exclude fat meadow agree ring flush";
+var mnemonic = "nice wood boss canoe pigeon track monster audit exotic elite shaft evolve";

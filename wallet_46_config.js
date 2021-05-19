@@ -1,1 +1,1 @@
-var mnemonic = "wise camera tortoise ritual warm identify tent solid sausage debris own chronic";
+var mnemonic = "slab arch settle nuclear asset drastic glove metal lonely sock drink rookie";

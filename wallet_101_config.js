@@ -1,1 +1,1 @@
-var mnemonic = "moral receive other lava science move merge match guess tank palace long";
+var mnemonic = "master napkin uncover cargo coin dad song diet palm protect science network";

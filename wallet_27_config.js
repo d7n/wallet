@@ -1,1 +1,1 @@
-var mnemonic = "despair rubber melody hello velvet surround process agent reopen gather vital build";
+var mnemonic = "cherry deal surround habit hover wheel number immense jacket gain pave scrub";

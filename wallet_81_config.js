@@ -1,1 +1,1 @@
-var mnemonic = "horror business easily lyrics enforce fossil south summer fitness mercy exotic similar";
+var mnemonic = "exhibit image monitor shield van document sauce mention sight modify shop lobster";

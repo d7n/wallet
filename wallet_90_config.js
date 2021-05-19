@@ -1,1 +1,1 @@
-var mnemonic = "today economy alpha winter fitness often wheel gadget series broom animal jaguar";
+var mnemonic = "noble honey law hill average clean auction meadow shed cram teach spring";

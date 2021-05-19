@@ -1,1 +1,1 @@
-var mnemonic = "advance cloud best slab camera vast trade amazing reject upgrade trash song";
+var mnemonic = "huge chair drama use front thunder auction world bicycle radar just retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket crumble clock soap grape pear minute patient artefact thumb process crawl";
+var mnemonic = "chunk acquire sail ride bubble scout gate asset own quick abandon digital";

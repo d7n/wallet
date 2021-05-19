@@ -1,1 +1,1 @@
-var mnemonic = "use divide educate palace require awkward daring maid feature consider differ coconut";
+var mnemonic = "various exotic orient swarm athlete fee destroy slim ranch position clown method";

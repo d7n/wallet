@@ -1,1 +1,1 @@
-var mnemonic = "possible dinosaur black negative depth helmet best canyon jungle finish enlist current";
+var mnemonic = "valid sail myself struggle bring dance treat mind fruit transfer execute grace";

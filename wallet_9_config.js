@@ -1,1 +1,1 @@
-var mnemonic = "economy airport cover weapon gym music fury shadow rice chimney similar input";
+var mnemonic = "twelve version cotton wedding only patient remain device base gentle bonus grief";

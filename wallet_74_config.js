@@ -1,1 +1,1 @@
-var mnemonic = "magnet vote balcony tonight gauge mistake defense blame volume alien hood glue";
+var mnemonic = "month amount soda ship dust spatial armed bench congress heavy visual model";

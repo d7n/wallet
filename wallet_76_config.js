@@ -1,1 +1,1 @@
-var mnemonic = "caution jeans pottery debris fresh school pretty supreme garment hub planet skull";
+var mnemonic = "skate benefit note sport couple velvet electric plate easy narrow box street";

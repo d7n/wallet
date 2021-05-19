@@ -1,1 +1,1 @@
-var mnemonic = "modify figure sponsor club tree write barely sample bridge maple solid garden";
+var mnemonic = "hurt panther just earn under sheriff dinner skull sell drama clip neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "boat concert always layer pipe envelope ridge carpet patient version boost celery";
+var mnemonic = "cactus decrease squeeze tobacco final distance speak forget budget empty marine sting";

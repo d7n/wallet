@@ -1,1 +1,1 @@
-var mnemonic = "problem foot burger glory run soap chief warfare toss pioneer unlock worry";
+var mnemonic = "vast income major resist jungle viable nasty kiss decrease tip pact clay";

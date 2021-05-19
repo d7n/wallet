@@ -1,1 +1,1 @@
-var mnemonic = "library spring desk drama lecture laundry embrace artwork across grain cherry way";
+var mnemonic = "moral nose surprise letter surprise decline century company opinion shallow fabric maximum";

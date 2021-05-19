@@ -1,1 +1,1 @@
-var mnemonic = "weasel frozen rule start across excite sadness business artist eyebrow shy simple";
+var mnemonic = "hazard arrange fun caught flat wheat sting pupil purse lens bone dream";

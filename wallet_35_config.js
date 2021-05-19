@@ -1,1 +1,1 @@
-var mnemonic = "admit drastic winner cash high method dish palace embark cook quick chaos";
+var mnemonic = "half loud rug unit attend address creek congress ketchup fix unique grace";

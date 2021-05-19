@@ -1,1 +1,1 @@
-var mnemonic = "tenant fall slab wise park wolf text pull brief process shock spend";
+var mnemonic = "eight cruel color topic potato escape immune kitchen virtual barely sister update";

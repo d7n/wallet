@@ -1,1 +1,1 @@
-var mnemonic = "pill coffee zoo shop much unfold review armor curtain violin demand one";
+var mnemonic = "divorce trip absorb wonder child taste salon vicious abstract demand profit logic";

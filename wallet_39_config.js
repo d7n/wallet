@@ -1,1 +1,1 @@
-var mnemonic = "river increase inherit purchase symptom expire stadium ranch another crumble permit hand";
+var mnemonic = "poem must palace observe fan wasp dice chest slight pretty fresh miss";

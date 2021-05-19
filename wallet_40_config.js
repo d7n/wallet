@@ -1,1 +1,1 @@
-var mnemonic = "question degree boost skull puzzle tree program success thumb estate bullet unhappy";
+var mnemonic = "youth brain negative abandon hard rookie bachelor gain panic panda actor scene";

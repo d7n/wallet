@@ -1,1 +1,1 @@
-var mnemonic = "pilot brown regret retreat tank reward together nothing umbrella tip now gentle";
+var mnemonic = "borrow merry ball million exercise crush example zebra gentle crush home cancel";

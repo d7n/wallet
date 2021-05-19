@@ -1,1 +1,1 @@
-var mnemonic = "view regret tree blush claim volume neutral venture learn flavor surge effort";
+var mnemonic = "expand addict remain catch antenna load potato film eager predict convince fence";

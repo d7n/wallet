@@ -1,1 +1,1 @@
-var mnemonic = "enable december trim easily pulse mutual oblige industry birth palace sing shell";
+var mnemonic = "inform asthma history public disease zone broom panther bracket lawsuit exist swallow";

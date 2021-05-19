@@ -1,1 +1,1 @@
-var mnemonic = "ketchup liar adjust black beach version panther sure reform glove opera tube";
+var mnemonic = "jungle verify nothing treat mom chalk blade volume rare myth fat walk";

@@ -1,1 +1,1 @@
-var mnemonic = "sing enhance impose pencil dinosaur tuition coil process soda discover timber always";
+var mnemonic = "legal stumble economy lyrics brother menu work vibrant proud clean angle glow";
