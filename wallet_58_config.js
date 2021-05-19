@@ -1,1 +1,1 @@
-var mnemonic = "escape tiny reveal thing area render must soft credit pudding boat bonus";
+var mnemonic = "hello final bunker daring beyond tomorrow attack festival plate weather worth find";

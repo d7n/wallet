@@ -1,1 +1,1 @@
-var mnemonic = "knee bright matrix vintage disagree inside end motion useless job rural street";
+var mnemonic = "target smooth always tortoise matrix nominee slogan news energy legal fee thought";

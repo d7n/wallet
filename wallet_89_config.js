@@ -1,1 +1,1 @@
-var mnemonic = "urban castle betray lake smoke raise border cube hospital bottom into focus";
+var mnemonic = "improve until coach surprise ozone shrimp coffee roof drill casino infant leader";

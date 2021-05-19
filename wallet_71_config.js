@@ -1,1 +1,1 @@
-var mnemonic = "winter sound grain pear lemon tiny useless social original barely custom lumber";
+var mnemonic = "shoot wide rough furnace short snake play hold install nut urban few";

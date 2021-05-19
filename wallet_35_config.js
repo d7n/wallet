@@ -1,1 +1,1 @@
-var mnemonic = "believe cabbage raccoon peanut science curtain loyal local measure friend denial side";
+var mnemonic = "turn soul upper fee coffee critic spend program tongue glue mom dentist";

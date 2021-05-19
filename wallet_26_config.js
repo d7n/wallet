@@ -1,1 +1,1 @@
-var mnemonic = "flower glove purchase cost viable year awful metal child comic true gravity";
+var mnemonic = "inch catch craft walnut refuse ghost remain marble announce essay blossom crisp";

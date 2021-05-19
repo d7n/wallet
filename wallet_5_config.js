@@ -1,1 +1,1 @@
-var mnemonic = "ripple still air cause bread aunt frog shield avocado now arch wrist";
+var mnemonic = "local doctor gun yard coyote neither jungle other wine survey struggle mirror";

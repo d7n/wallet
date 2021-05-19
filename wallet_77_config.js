@@ -1,1 +1,1 @@
-var mnemonic = "embody sun plastic panda absorb old turkey know repair brand balcony question";
+var mnemonic = "govern reveal rebel around timber wolf conduct child never vocal news window";

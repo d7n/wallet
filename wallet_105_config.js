@@ -1,1 +1,1 @@
-var mnemonic = "sport organ perfect gravity custom mean place agent habit various this shell";
+var mnemonic = "sausage pink venue clown chair broom slim foam letter horse embrace modify";

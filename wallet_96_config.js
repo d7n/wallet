@@ -1,1 +1,1 @@
-var mnemonic = "woman someone visa display disease spoon sock correct video bunker left fire";
+var mnemonic = "mechanic split thought protect cook leave holiday swallow trade chair train hope";

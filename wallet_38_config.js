@@ -1,1 +1,1 @@
-var mnemonic = "public lunch real eight squeeze document entire jazz depend federal deposit slight";
+var mnemonic = "resource alarm title snow note saddle receive deputy unfold echo earn miss";

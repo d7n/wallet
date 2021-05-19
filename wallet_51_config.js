@@ -1,1 +1,1 @@
-var mnemonic = "garment owner point gadget pave cupboard stool gentle engine embrace output small";
+var mnemonic = "lottery radio ecology fox pony cube toast behind left topic pact guard";

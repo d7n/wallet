@@ -1,1 +1,1 @@
-var mnemonic = "border dash original actor fog will capable identify salt develop wisdom exhibit";
+var mnemonic = "grocery artist idle drip biology escape stay cradle exist can demand logic";

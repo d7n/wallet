@@ -1,1 +1,1 @@
-var mnemonic = "price fatal topple fog horn fatigue rain black fatal clown help discover";
+var mnemonic = "naive pretty desert mad yellow wheat dentist frost piece match special ketchup";

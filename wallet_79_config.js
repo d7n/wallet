@@ -1,1 +1,1 @@
-var mnemonic = "gold vacuum file monster exit movie proof wise web major order hawk";
+var mnemonic = "bird aisle artefact cave east nominee sad future sign abandon couple equip";

@@ -1,1 +1,1 @@
-var mnemonic = "festival gun trigger deal wasp excuse aerobic neutral matrix mixed sphere notable";
+var mnemonic = "mouse liar country acid gym harbor seed rude describe jewel lounge sick";

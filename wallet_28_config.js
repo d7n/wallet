@@ -1,1 +1,1 @@
-var mnemonic = "gloom loop click clerk problem mushroom surround club category gesture try soccer";
+var mnemonic = "stumble pattern clean laptop drive cotton street humble pyramid mail online tower";

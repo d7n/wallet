@@ -1,1 +1,1 @@
-var mnemonic = "baby street catalog negative jealous slim cry copy kiwi wrap plastic amount";
+var mnemonic = "spin blue cloud primary soft venture paddle agree awkward arrest side shift";

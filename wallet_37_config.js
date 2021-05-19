@@ -1,1 +1,1 @@
-var mnemonic = "mesh session improve water tell portion nest casino action aspect payment weather";
+var mnemonic = "decline uniform diamond boy wrap truck flag winter wagon zebra opera space";

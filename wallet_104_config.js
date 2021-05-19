@@ -1,1 +1,1 @@
-var mnemonic = "okay argue aunt rather inflict powder dust gown alien enter title essay";
+var mnemonic = "lecture night huge donkey truth scissors trick grocery judge brick help oyster";

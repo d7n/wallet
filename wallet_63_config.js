@@ -1,1 +1,1 @@
-var mnemonic = "minor food letter swing parrot gloom trigger wrist aim social organ unusual";
+var mnemonic = "urge review knock better urban era feel nothing rug tomato north track";

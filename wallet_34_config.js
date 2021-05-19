@@ -1,1 +1,1 @@
-var mnemonic = "gun arrow try ginger dose oppose reason muffin fan hospital equal salt";
+var mnemonic = "keep excite expire dumb slender cage knock defy woman vote follow figure";

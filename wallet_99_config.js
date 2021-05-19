@@ -1,1 +1,1 @@
-var mnemonic = "woman rural ensure observe flip choose mobile marble debris margin embody forum";
+var mnemonic = "version siege april clever later oven rhythm area pig atom arm frequent";

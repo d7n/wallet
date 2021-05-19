@@ -1,1 +1,1 @@
-var mnemonic = "salute east need clutch tattoo false struggle divide used ski dune portion";
+var mnemonic = "because night vicious salt lazy record pencil position cloud gorilla monitor actual";

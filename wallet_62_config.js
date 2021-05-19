@@ -1,1 +1,1 @@
-var mnemonic = "scare whisper erase final tip auction viable ankle year scout urban lift";
+var mnemonic = "join trophy suspect mother cycle neck seven begin flush museum fiber install";

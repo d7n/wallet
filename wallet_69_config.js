@@ -1,1 +1,1 @@
-var mnemonic = "sword traffic planet daughter whip hold evil creek please siege blush urban";
+var mnemonic = "soft alien carry turkey enable remember ripple panic boost steel merry check";

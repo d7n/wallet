@@ -1,1 +1,1 @@
-var mnemonic = "glare legend glow about shine stadium worry sight wasp belt figure muffin";
+var mnemonic = "they ensure ceiling valid install about outside liquid afraid north split conduct";

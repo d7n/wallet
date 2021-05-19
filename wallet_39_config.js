@@ -1,1 +1,1 @@
-var mnemonic = "myself sibling armed hope regret omit frozen note road scrap adjust unfold";
+var mnemonic = "universe crane assume mother release swallow excess diamond ladder biology fiber rhythm";

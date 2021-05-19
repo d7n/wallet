@@ -1,1 +1,1 @@
-var mnemonic = "situate assault acquire shoe reduce affair equal ask raw burger chest adjust";
+var mnemonic = "screen warfare immune raccoon cherry keen wreck pepper opera toddler safe scrap";

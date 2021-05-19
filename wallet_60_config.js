@@ -1,1 +1,1 @@
-var mnemonic = "exact oil tip hospital heart deposit shop quote radio chicken transfer sustain";
+var mnemonic = "tape mystery company adapt doll reform blue genuine despair quantum brown palace";

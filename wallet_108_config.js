@@ -1,1 +1,1 @@
-var mnemonic = "sustain screen viable birth wife agree plunge nominee feed peasant expire latin";
+var mnemonic = "number banana champion excess bacon south thing trip lucky gossip burger feature";

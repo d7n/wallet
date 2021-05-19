@@ -1,1 +1,1 @@
-var mnemonic = "level arrest possible cycle spawn vocal donate flash wolf language hurdle squirrel";
+var mnemonic = "together impulse panda situate bid original buddy door jar ticket myth clever";

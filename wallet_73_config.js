@@ -1,1 +1,1 @@
-var mnemonic = "fall expose record duck spot hundred stereo tank cook infant pizza pilot";
+var mnemonic = "buffalo below vendor deer key trigger general family since next eye upper";

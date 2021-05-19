@@ -1,1 +1,1 @@
-var mnemonic = "upon release effort film barely bike shine soon acquire ahead verb shaft";
+var mnemonic = "useful traffic recall visit season uncover night setup twenty silver rug project";

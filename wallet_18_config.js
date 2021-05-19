@@ -1,1 +1,1 @@
-var mnemonic = "elevator penalty april puzzle public trash biology nothing silver glass core hire";
+var mnemonic = "attitude pull bread broccoli style admit poet arena actual mimic ketchup rotate";

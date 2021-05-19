@@ -1,1 +1,1 @@
-var mnemonic = "wisdom tunnel embody bar minute tunnel proud police promote seek parade age";
+var mnemonic = "barely actual suspect inspire orbit snake lonely hamster unusual bus discover tone";

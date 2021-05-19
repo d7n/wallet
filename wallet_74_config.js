@@ -1,1 +1,1 @@
-var mnemonic = "sell talk wheel village animal will mix sponsor hazard blood tired shallow";
+var mnemonic = "quote spread rail mushroom tuition valley write liquid theory wild educate east";

@@ -1,1 +1,1 @@
-var mnemonic = "artist alcohol believe fine umbrella once chimney crush ill remember cart clarify";
+var mnemonic = "track high gym march envelope pond safe dial nominee wash rack pet";

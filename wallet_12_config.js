@@ -1,1 +1,1 @@
-var mnemonic = "crawl image swarm before scare person claim detect student weekend brush stove";
+var mnemonic = "cargo crater dream act toe lab history whisper drum chat decorate summer";

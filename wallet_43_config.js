@@ -1,1 +1,1 @@
-var mnemonic = "once similar exhaust unlock long harsh limb minimum lyrics poverty snap silly";
+var mnemonic = "kiss jump blur physical family antique drama rubber lamp bone reveal actual";

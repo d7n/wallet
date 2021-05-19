@@ -1,1 +1,1 @@
-var mnemonic = "napkin appear shuffle enough ecology loop rent grief ginger finish sketch fee";
+var mnemonic = "sun divide diary subway clutch margin avoid photo floor stove hurry loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "connect idle sketch ramp govern power then fat hazard ability adapt series";
+var mnemonic = "crowd obscure street hunt rapid range adult brush book since pistol recycle";

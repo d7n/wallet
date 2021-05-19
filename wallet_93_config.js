@@ -1,1 +1,1 @@
-var mnemonic = "welcome veteran film bracket cabin calm they together infant erosion message liquid";
+var mnemonic = "manage fresh invite wire zoo tent buzz dwarf window educate proud vote";

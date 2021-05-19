@@ -1,1 +1,1 @@
-var mnemonic = "cream choose gallery panic have puzzle then supply plunge tragic carpet reward";
+var mnemonic = "craft inside wrist cram leader obtain client toy keep emotion raw seminar";

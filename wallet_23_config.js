@@ -1,1 +1,1 @@
-var mnemonic = "setup video impact borrow wagon dentist quantum festival pepper cancel drift dizzy";
+var mnemonic = "one comfort snow air announce jazz name worry verify position gravity fun";

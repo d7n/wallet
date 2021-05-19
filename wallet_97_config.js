@@ -1,1 +1,1 @@
-var mnemonic = "unaware trophy pear master mask zebra water topple tattoo jungle laugh across";
+var mnemonic = "uncle what magic monster sphere physical recall lab aisle street police dinner";

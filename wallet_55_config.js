@@ -1,1 +1,1 @@
-var mnemonic = "velvet fantasy sadness thing aware high shaft card cabin logic pencil color";
+var mnemonic = "tiny slogan genuine warrior year food raccoon early bar make assist attack";

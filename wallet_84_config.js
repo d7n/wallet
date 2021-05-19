@@ -1,1 +1,1 @@
-var mnemonic = "vibrant custom stadium devote trip world enlist winner such science whisper rail";
+var mnemonic = "way void palace distance ecology rib egg dumb phrase blanket dragon need";

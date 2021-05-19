@@ -1,1 +1,1 @@
-var mnemonic = "reject luggage crawl oil coral crystal black hour sudden course act credit";
+var mnemonic = "together helmet purse sword govern enter cable alpha develop broom cave bag";

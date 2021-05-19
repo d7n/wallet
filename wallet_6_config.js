@@ -1,1 +1,1 @@
-var mnemonic = "edit climb spawn sample erosion before invite junior item twelve response because";
+var mnemonic = "neglect fury agree deny love rocket ketchup situate ginger manage duty come";

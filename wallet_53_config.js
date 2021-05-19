@@ -1,1 +1,1 @@
-var mnemonic = "fuel bounce defense opinion power devote welcome huge expire glory insect method";
+var mnemonic = "wild eternal sound corn obey carbon victory swap vivid engage age lift";

@@ -1,1 +1,1 @@
-var mnemonic = "panic genre shift tree credit cricket street soda menu group fresh window";
+var mnemonic = "helmet gasp vehicle organ hotel excite midnight obscure circle hero current tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "tone enemy grit tuna card slam first task almost fork car insect";
+var mnemonic = "engine matter build version toilet bunker simple excuse way merge manual certain";

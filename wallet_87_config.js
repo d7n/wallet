@@ -1,1 +1,1 @@
-var mnemonic = "chalk glory wash culture twelve brief enjoy venue anxiety lab outer giant";
+var mnemonic = "valid luxury assault remember assist wash suggest diet belt mom oval toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "agent slice pitch sweet skill kiss asset cave calm album swallow post";
+var mnemonic = "beyond onion innocent kind addict shift fiscal palace half practice humor this";

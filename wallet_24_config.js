@@ -1,1 +1,1 @@
-var mnemonic = "pluck sleep sound recipe bless when eternal define lawsuit domain harvest size";
+var mnemonic = "siege price mushroom benefit warm feature toss blush raise indicate pig poet";

@@ -1,1 +1,1 @@
-var mnemonic = "seek relief announce rack trophy suffer shield pencil marriage slide century world";
+var mnemonic = "leader wage claim monkey glide clerk noble episode shy copper adjust ball";

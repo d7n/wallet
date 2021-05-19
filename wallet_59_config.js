@@ -1,1 +1,1 @@
-var mnemonic = "volcano main wolf govern scrub right legal negative theory deny kitten camp";
+var mnemonic = "sketch machine plug symbol segment churn rookie stomach balcony clock essence field";

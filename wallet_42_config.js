@@ -1,1 +1,1 @@
-var mnemonic = "heavy flash barrel improve depend sign donate call manual pledge episode prison";
+var mnemonic = "task pair narrow tail before rent bone when item cat stock combine";

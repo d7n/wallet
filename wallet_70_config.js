@@ -1,1 +1,1 @@
-var mnemonic = "rug edit zero voyage festival rotate diesel analyst pilot card medal away";
+var mnemonic = "invite vital radar toddler section pony genuine want winter fan voyage convince";

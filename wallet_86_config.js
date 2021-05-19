@@ -1,1 +1,1 @@
-var mnemonic = "mushroom purpose body glance birth run boat model meat fold strategy grant";
+var mnemonic = "flower cradle bag collect magnet joy today stumble syrup coach derive kiss";

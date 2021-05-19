@@ -1,1 +1,1 @@
-var mnemonic = "meadow music belt certain team album mention jump monkey ketchup obtain two";
+var mnemonic = "slight ugly remain say grunt calm weapon ready supreme radar degree crash";

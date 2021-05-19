@@ -1,1 +1,1 @@
-var mnemonic = "lens effort sock horse spring surprise spy first hedgehog tank bulk physical";
+var mnemonic = "burden recycle few buyer garbage miss blame genre treat piece donkey tourist";

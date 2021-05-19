@@ -1,1 +1,1 @@
-var mnemonic = "silent defense biology drastic mirror kind frog stomach inner chronic stay unknown";
+var mnemonic = "theme pride win blouse sport whip measure gasp success route two walnut";

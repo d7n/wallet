@@ -1,1 +1,1 @@
-var mnemonic = "pole melody require buzz room cherry plastic common bag caution there aisle";
+var mnemonic = "maid deposit alley manual gallery enact sponsor damage rack company typical include";

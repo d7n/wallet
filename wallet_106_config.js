@@ -1,1 +1,1 @@
-var mnemonic = "either urge identify alpha lawn drum nurse fun rain simple indicate between";
+var mnemonic = "float impose make father scatter pair great sponsor couple peanut skin sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "hill atom blame goat network art donor nest addict version harsh flock";
+var mnemonic = "trim cover return morning advice scare grab olive whisper label swing job";

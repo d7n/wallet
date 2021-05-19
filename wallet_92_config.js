@@ -1,1 +1,1 @@
-var mnemonic = "goose wage blouse lounge song talent retreat bullet gap onion kid grant";
+var mnemonic = "gossip jeans shoot before tuna crunch video harsh bomb amused purpose vault";

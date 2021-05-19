@@ -1,1 +1,1 @@
-var mnemonic = "soft math awkward man alcohol hole age mule blast soda runway kitchen";
+var mnemonic = "pipe filter august say label tree dice emotion normal movie surprise kitchen";

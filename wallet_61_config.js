@@ -1,1 +1,1 @@
-var mnemonic = "spice damage talent enroll stock atom latin topic road lab vague floor";
+var mnemonic = "switch pill awkward rocket device target vicious fit ginger wrap tired swift";

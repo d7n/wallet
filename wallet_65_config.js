@@ -1,1 +1,1 @@
-var mnemonic = "rural iron face give copper slab release reopen enforce then region actress";
+var mnemonic = "type limb angry elder know brave thing practice clutch dismiss pistol maximum";

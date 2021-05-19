@@ -1,1 +1,1 @@
-var mnemonic = "barrel merge sentence borrow elbow board nose voyage fan pottery humor ship";
+var mnemonic = "cry volcano dash because employ skull street drum slide sell unaware midnight";

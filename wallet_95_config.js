@@ -1,1 +1,1 @@
-var mnemonic = "orange vacuum twice social alter alert organ pulse stem artwork illegal cabin";
+var mnemonic = "then bleak lounge stem bid ski visual group march clown gas cook";

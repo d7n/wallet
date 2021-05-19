@@ -1,1 +1,1 @@
-var mnemonic = "top harbor baby survey left razor you egg slide trust enforce transfer";
+var mnemonic = "gaze car pluck reflect debris icon model talent garbage surprise lazy summer";

@@ -1,1 +1,1 @@
-var mnemonic = "remove deliver strategy hire brown olympic fossil habit glove small jealous another";
+var mnemonic = "radio fury quote never orphan solid air bone verb bright awake puppy";

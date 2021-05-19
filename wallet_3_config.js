@@ -1,1 +1,1 @@
-var mnemonic = "uncle tube balcony witness angry health vicious average desert infant energy strike";
+var mnemonic = "endorse desk room glimpse stone furnace toast pluck desk file shift ancient";

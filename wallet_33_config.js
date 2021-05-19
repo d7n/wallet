@@ -1,1 +1,1 @@
-var mnemonic = "bless drill canyon now pitch chef what behave rookie clerk length supply";
+var mnemonic = "slight bus urge include scorpion input brief math common draw damage pretty";
