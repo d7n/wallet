@@ -1,1 +1,1 @@
-var mnemonic = "perfect mushroom chunk tone delay allow diary tackle ticket captain vault there";
+var mnemonic = "eyebrow local drum avoid emotion young they almost person loud help between";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle street head whip proof menu rose boring permit relax chase field";
+var mnemonic = "civil utility party very provide shadow soon gold logic name manage barrel";

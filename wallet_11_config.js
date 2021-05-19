@@ -1,1 +1,1 @@
-var mnemonic = "memory brick grow spoon life cycle wire section exchange alien stumble sadness";
+var mnemonic = "bulb core action chef memory author bamboo sentence shock empower again call";

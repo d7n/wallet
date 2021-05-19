@@ -1,1 +1,1 @@
-var mnemonic = "home artwork high intact hunt struggle near south loud egg achieve ice";
+var mnemonic = "jacket you forum ecology palace oval expand spoil runway cattle spice indicate";

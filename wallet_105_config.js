@@ -1,1 +1,1 @@
-var mnemonic = "finger during civil refuse wool pledge alarm super razor list glad venture";
+var mnemonic = "garden various bulk drop lion key summer scrub fan turtle twin vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid salmon tackle salt bitter destroy good tennis begin oak any play";
+var mnemonic = "pony simple gun stage market mix fix defy worry arena fun example";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward method mind neither feel address swing buyer increase fabric mom poem";
+var mnemonic = "giggle iron pair taxi network pigeon first all place badge street pluck";

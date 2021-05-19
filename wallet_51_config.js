@@ -1,1 +1,1 @@
-var mnemonic = "average trap course fever sense manage chimney clay nothing multiply donate census";
+var mnemonic = "walnut flee pepper wise mention sunset bulk cash sight auction naive spin";

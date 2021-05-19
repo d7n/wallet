@@ -1,1 +1,1 @@
-var mnemonic = "electric agent seed illegal pupil wing rib silver boss sting bring inflict";
+var mnemonic = "history fresh pulse ridge brand undo sister desk shield design stumble equip";

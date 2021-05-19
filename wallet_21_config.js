@@ -1,1 +1,1 @@
-var mnemonic = "foster tell copper analyst critic gasp spider place render rocket access profit";
+var mnemonic = "cry cruise cave injury olympic pony twenty intact access cereal room misery";

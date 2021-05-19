@@ -1,1 +1,1 @@
-var mnemonic = "hybrid garment wealth better enforce advance sting plastic minute fury oval flock";
+var mnemonic = "puppy diesel error increase dish gift great soccer repeat machine cook theory";

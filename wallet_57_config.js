@@ -1,1 +1,1 @@
-var mnemonic = "carpet extend angry polar jacket crawl grocery purity gift labor strategy legend";
+var mnemonic = "space juice pretty peanut say hawk keen key crane sock brand history";

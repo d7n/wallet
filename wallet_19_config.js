@@ -1,1 +1,1 @@
-var mnemonic = "language tube task artist twist way easy bird stage hurdle bottom random";
+var mnemonic = "can ugly phone nest change option pave hour unable maid model globe";

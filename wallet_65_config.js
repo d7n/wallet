@@ -1,1 +1,1 @@
-var mnemonic = "elephant someone ostrich indoor seed leg holiday pool tag depend garbage million";
+var mnemonic = "extend camera panel ostrich tail derive exotic width divide floor pioneer athlete";

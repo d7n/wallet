@@ -1,1 +1,1 @@
-var mnemonic = "nose offer salad razor special silent again evolve warrior length winter middle";
+var mnemonic = "enemy torch escape rabbit wire fork armor mouse suit shiver income twin";

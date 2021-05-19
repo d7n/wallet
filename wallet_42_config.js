@@ -1,1 +1,1 @@
-var mnemonic = "patch neck satoshi welcome awful truth tell main deny access mom census";
+var mnemonic = "obvious breeze buzz surface seminar taste split section cave rapid midnight whale";

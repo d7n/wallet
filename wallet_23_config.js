@@ -1,1 +1,1 @@
-var mnemonic = "bar student crop foot problem prevent buyer segment this burger exercise tank";
+var mnemonic = "volume rural flavor picture puzzle convince duty lazy black guard trim language";

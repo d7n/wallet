@@ -1,1 +1,1 @@
-var mnemonic = "clutch follow coach chalk gift napkin spread thumb divorce apple biology fish";
+var mnemonic = "grant eternal learn twelve over wealth expand raise zero attend family typical";

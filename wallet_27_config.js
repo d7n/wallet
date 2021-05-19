@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog siren forum small odor recipe amateur roof auction hat timber chronic";
+var mnemonic = "wet obscure column bachelor emotion feed clinic spell wife blast cotton parrot";

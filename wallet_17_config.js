@@ -1,1 +1,1 @@
-var mnemonic = "art riot edit gossip enact left skill cousin dizzy jazz pet any";
+var mnemonic = "crush sleep family window clip kid use inherit science security develop flame";

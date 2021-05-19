@@ -1,1 +1,1 @@
-var mnemonic = "pen since balcony total become dwarf acoustic opinion year airport sorry seed";
+var mnemonic = "dune potato long card charge supreme light rebuild universe depth still rib";

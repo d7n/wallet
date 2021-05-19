@@ -1,1 +1,1 @@
-var mnemonic = "tag harsh rude frog collect perfect tunnel hen success fever surge notable";
+var mnemonic = "want blossom exile diet cry swim clown call thank field clump welcome";

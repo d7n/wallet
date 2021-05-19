@@ -1,1 +1,1 @@
-var mnemonic = "field skill breeze side debris strategy decorate pattern zone talk put surge";
+var mnemonic = "menu middle humble broccoli phrase little fruit kind monitor evolve addict absurd";

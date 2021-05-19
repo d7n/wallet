@@ -1,1 +1,1 @@
-var mnemonic = "era clever walnut chat joy indicate vanish brief twin model average collect";
+var mnemonic = "tone rural phone dinner tomorrow fog elegant arrange bench hat clerk tennis";

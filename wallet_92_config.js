@@ -1,1 +1,1 @@
-var mnemonic = "vague squirrel cricket blue ship virtual river verb salt ugly exhaust sponsor";
+var mnemonic = "weapon absent essence wolf bid orient almost point trend tree slam pact";

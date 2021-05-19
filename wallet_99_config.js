@@ -1,1 +1,1 @@
-var mnemonic = "tower actor outer nose scare kit sauce pupil online flee deer unlock";
+var mnemonic = "talent filter zebra grab fossil crowd hockey ramp wagon erode recycle that";

@@ -1,1 +1,1 @@
-var mnemonic = "casino burden amused patrol cement horn choose latin invest nuclear human place";
+var mnemonic = "knock dad nerve various gloom ecology above vessel network blush health rail";

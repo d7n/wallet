@@ -1,1 +1,1 @@
-var mnemonic = "feature mixed critic leaf very mouse foam unveil cheese fame negative broom";
+var mnemonic = "venture swap video exotic panther fee tone motor system stamp horn abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter bean matter embark mad poverty matrix box ride giggle wire arrange";
+var mnemonic = "border person silent area blame funny foam defy element tower ceiling crater";

@@ -1,1 +1,1 @@
-var mnemonic = "local hope bread task seed doll inhale flavor little south treat ride";
+var mnemonic = "wealth wire rain bag there sure zero follow viable jaguar stem half";

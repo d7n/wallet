@@ -1,1 +1,1 @@
-var mnemonic = "throw potato asthma pride spin paddle couch comfort achieve vibrant try multiply";
+var mnemonic = "resemble pony jelly clump deliver include usage armed punch anger wild project";

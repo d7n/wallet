@@ -1,1 +1,1 @@
-var mnemonic = "ghost jaguar toe option palm vehicle analyst bamboo gorilla dutch canyon know";
+var mnemonic = "doctor later frozen normal away trust muscle draft melody pig smart adjust";

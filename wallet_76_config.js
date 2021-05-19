@@ -1,1 +1,1 @@
-var mnemonic = "mansion peace sick very flush ignore slam thought nuclear slush seed leopard";
+var mnemonic = "rib identify glory keen rubber zoo person nuclear artefact future budget outside";

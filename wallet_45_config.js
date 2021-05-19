@@ -1,1 +1,1 @@
-var mnemonic = "mosquito tilt help pet agree theory evoke cheap best elephant rice galaxy";
+var mnemonic = "short skill wild shine broom wrestle awful delay truth shiver average print";

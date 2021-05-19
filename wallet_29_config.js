@@ -1,1 +1,1 @@
-var mnemonic = "ramp high thank east worth identify evidence must echo put country kitchen";
+var mnemonic = "like you length love holiday mandate pulp erode sheriff false south mirror";

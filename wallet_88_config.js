@@ -1,1 +1,1 @@
-var mnemonic = "arch stairs kick vanish senior unfair turn cannon hello myth now stage";
+var mnemonic = "mad satoshi history empower whale soccer inmate essence hurdle reason oblige enjoy";

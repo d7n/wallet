@@ -1,1 +1,1 @@
-var mnemonic = "slice audit spider hunt castle fluid viable taxi state convince appear prefer";
+var mnemonic = "wide expand silly uncover bus boil present practice dwarf leader illegal adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "glove poet wheel language pumpkin volume dream physical vendor addict silk jewel";
+var mnemonic = "remove net unaware account frozen caught swing crouch usual melt crowd disease";

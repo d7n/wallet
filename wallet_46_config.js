@@ -1,1 +1,1 @@
-var mnemonic = "surround army quarter bachelor stock excite april gather sad multiply predict harbor";
+var mnemonic = "account usage demise salad melt stand seven rebel right rhythm room buyer";

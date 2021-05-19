@@ -1,1 +1,1 @@
-var mnemonic = "city fine very mass various female jealous split frame ginger script radio";
+var mnemonic = "warfare dove oven mushroom stem odor permit prefer reward easy admit tape";

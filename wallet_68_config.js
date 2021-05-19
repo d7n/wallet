@@ -1,1 +1,1 @@
-var mnemonic = "glue right proof faith crisp deal portion three obvious few couch fragile";
+var mnemonic = "skill dumb magnet blood brass captain spider before private thank kiwi dumb";

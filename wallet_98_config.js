@@ -1,1 +1,1 @@
-var mnemonic = "trouble kitten flat lobster proof history comfort wedding license wagon lunch proof";
+var mnemonic = "goddess reopen gauge inject hollow seminar unaware rent satisfy lesson fashion absurd";

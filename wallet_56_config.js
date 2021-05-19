@@ -1,1 +1,1 @@
-var mnemonic = "local goat dance trophy another bike powder capital knife draw lyrics garden";
+var mnemonic = "steel light figure divide soldier maze palm army tonight rabbit cram profit";

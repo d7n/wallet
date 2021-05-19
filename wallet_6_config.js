@@ -1,1 +1,1 @@
-var mnemonic = "juice rude quick gravity allow provide today oil reward put air deputy";
+var mnemonic = "hood report hockey will question praise garbage stage student kit license upgrade";

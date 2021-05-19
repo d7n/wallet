@@ -1,1 +1,1 @@
-var mnemonic = "pizza crater phone jeans garlic kidney raise palace text toward spy amateur";
+var mnemonic = "feature vessel carpet buzz face ocean gap pencil culture satisfy talk gospel";

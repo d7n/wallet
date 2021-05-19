@@ -1,1 +1,1 @@
-var mnemonic = "panther armed device basket narrow ladder wreck flush home gather fun gauge";
+var mnemonic = "brother resemble prefer before timber general busy during blush twice engine race";

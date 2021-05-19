@@ -1,1 +1,1 @@
-var mnemonic = "list solve derive liar invite reduce cruel beauty mobile lady mixed sunset";
+var mnemonic = "slide giggle patrol ticket swamp kangaroo february obscure pole deliver course earth";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy beef pumpkin shadow sick someone depend shiver three atom survey just";
+var mnemonic = "wreck snap drift bench retreat tree obvious absorb movie flee cart reduce";

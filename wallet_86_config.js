@@ -1,1 +1,1 @@
-var mnemonic = "sudden glory crane much decide when saddle wisdom fossil poem bracket menu";
+var mnemonic = "save knock pride trust urge frog misery online must review vivid case";

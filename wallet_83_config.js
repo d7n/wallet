@@ -1,1 +1,1 @@
-var mnemonic = "moment charge path unhappy fuel coach cherry margin olive trumpet museum grocery";
+var mnemonic = "subject resource feed rough defense famous duck royal melt inquiry saddle senior";

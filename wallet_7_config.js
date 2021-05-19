@@ -1,1 +1,1 @@
-var mnemonic = "crucial armed deliver rate goat fence coconut bone cover wear curve foam";
+var mnemonic = "fan evoke scorpion flame type hip fat anxiety trumpet dress turtle message";

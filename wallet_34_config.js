@@ -1,1 +1,1 @@
-var mnemonic = "since very weapon evoke spring mule glory first burden wave rib famous";
+var mnemonic = "latin usual wealth sword ensure clown gap runway route then dutch ahead";

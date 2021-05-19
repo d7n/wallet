@@ -1,1 +1,1 @@
-var mnemonic = "asset motion merit planet hidden domain vessel skull build wish rotate air";
+var mnemonic = "silent clown awful document unveil leave staff inquiry blast inhale monster okay";

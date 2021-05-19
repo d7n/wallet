@@ -1,1 +1,1 @@
-var mnemonic = "stuff unhappy blind blast actual prison flash crucial soup favorite clap best";
+var mnemonic = "feel yard unlock finger sound canyon hammer digital token chase option half";

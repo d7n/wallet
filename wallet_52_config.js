@@ -1,1 +1,1 @@
-var mnemonic = "error hamster average chuckle stock buddy affair skull organ language course nerve";
+var mnemonic = "roast snap glue chase mandate best fee fiction enhance sorry ahead squeeze";

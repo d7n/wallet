@@ -1,1 +1,1 @@
-var mnemonic = "tuition refuse liar crunch unhappy since lake cricket prevent pulse great pepper";
+var mnemonic = "age brass version gun menu royal snap concert misery labor wash uniform";

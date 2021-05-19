@@ -1,1 +1,1 @@
-var mnemonic = "cliff donor april together burden prevent prefer around object employ round cup";
+var mnemonic = "wealth follow swap coin quit attitude cycle include canvas eternal south system";

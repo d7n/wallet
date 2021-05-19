@@ -1,1 +1,1 @@
-var mnemonic = "receive next detect discover frog spray secret organ concert mushroom price tent";
+var mnemonic = "segment hover youth ask gloom twin special plug eager arrive flavor barrel";

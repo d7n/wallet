@@ -1,1 +1,1 @@
-var mnemonic = "curtain render syrup setup explain arrest cradle again organ mix girl keep";
+var mnemonic = "hurdle beyond bubble humble token glimpse zebra virtual flat picture amateur buyer";

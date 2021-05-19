@@ -1,1 +1,1 @@
-var mnemonic = "three drama dragon laugh focus shoot system tide force spoil urban hip";
+var mnemonic = "segment answer drastic finger switch assume anger rude sorry genuine before recycle";

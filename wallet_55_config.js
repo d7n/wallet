@@ -1,1 +1,1 @@
-var mnemonic = "dutch opera legend snack enter clean amount unable broccoli case blade equal";
+var mnemonic = "divide dignity repeat oxygen season actual edit desert tone phone melt brown";

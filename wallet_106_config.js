@@ -1,1 +1,1 @@
-var mnemonic = "address wide shed mirror odor base wear identify fork fade bleak teach";
+var mnemonic = "champion you whip glare garment drip casino disorder term jar local swallow";

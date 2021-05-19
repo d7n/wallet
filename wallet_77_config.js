@@ -1,1 +1,1 @@
-var mnemonic = "people else section injury ladder talent cat crisp sugar excuse glare acid";
+var mnemonic = "plastic loud tired stem mean motion farm square breeze diamond century hollow";

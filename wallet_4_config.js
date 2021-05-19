@@ -1,1 +1,1 @@
-var mnemonic = "fluid topic seat injury daring link female enforce grit move speed favorite";
+var mnemonic = "frequent alpha easy whip insect athlete manual produce curtain leaf reunion stand";

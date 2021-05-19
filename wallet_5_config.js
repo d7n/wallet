@@ -1,1 +1,1 @@
-var mnemonic = "judge logic scorpion cotton sleep news skill tackle manage bone clerk comfort";
+var mnemonic = "tongue void critic legend uniform spatial ripple bring scout combine fashion muffin";

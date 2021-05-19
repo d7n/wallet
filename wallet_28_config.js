@@ -1,1 +1,1 @@
-var mnemonic = "actor swamp double crater arrange crouch knee galaxy physical afford supply dwarf";
+var mnemonic = "race immense around auto virtual domain asthma emotion equip chef now tourist";

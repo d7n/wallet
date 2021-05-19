@@ -1,1 +1,1 @@
-var mnemonic = "paper media ecology member hip thought path social fat tongue oppose trash";
+var mnemonic = "defense unusual behind surround begin satoshi hedgehog grain change never drum hen";

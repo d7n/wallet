@@ -1,1 +1,1 @@
-var mnemonic = "style rebel inhale anxiety staff hello city debate trouble bulk original noodle";
+var mnemonic = "illness else school enter aspect come proof virus shoulder army story banana";

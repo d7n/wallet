@@ -1,1 +1,1 @@
-var mnemonic = "behind bounce level arm exhaust unlock glass easy release rough episode moment";
+var mnemonic = "ignore buddy action member cactus impact dilemma ceiling leader diary fantasy remain";

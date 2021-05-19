@@ -1,1 +1,1 @@
-var mnemonic = "crucial toy road sea plug first online describe body giraffe sort arena";
+var mnemonic = "brisk barely denial trick awesome term mountain surround describe logic athlete ride";

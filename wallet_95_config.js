@@ -1,1 +1,1 @@
-var mnemonic = "general solution opinion meat sand trial panda umbrella oppose click impulse element";
+var mnemonic = "spin doctor addict asthma cabin gloom major random daughter bubble wolf slow";

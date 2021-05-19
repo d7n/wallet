@@ -1,1 +1,1 @@
-var mnemonic = "trouble relax science winter quiz daring tuna resemble anger close smart raise";
+var mnemonic = "donate spatial glove main hood camp velvet country buddy sadness light wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "few defy toast cancel town fall odor pole bacon picnic dove monkey";
+var mnemonic = "orphan hat remove song turn fan twice among toss offer bacon kingdom";

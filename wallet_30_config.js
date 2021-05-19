@@ -1,1 +1,1 @@
-var mnemonic = "tuition wrong original donkey party tornado coffee opinion half snack enrich bullet";
+var mnemonic = "pigeon dwarf leave cart sibling dizzy field normal mix address because into";

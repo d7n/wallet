@@ -1,1 +1,1 @@
-var mnemonic = "lady enjoy rough fly again spot photo lucky account until trash exercise";
+var mnemonic = "essay sail sunny resemble bridge scrap sniff proud blue seminar food corn";

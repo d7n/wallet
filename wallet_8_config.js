@@ -1,1 +1,1 @@
-var mnemonic = "dash venue detail review sustain equal issue arm hospital sister three wreck";
+var mnemonic = "cloth actress spray umbrella agree analyst crawl spread dwarf bargain receive thing";

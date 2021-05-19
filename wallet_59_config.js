@@ -1,1 +1,1 @@
-var mnemonic = "danger option syrup put chef cheese inject rude pulp family chuckle place";
+var mnemonic = "start soap visual combine dutch blood wrist picture nominee group minor city";

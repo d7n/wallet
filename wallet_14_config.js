@@ -1,1 +1,1 @@
-var mnemonic = "dash fantasy ocean typical correct cheap decline distance music vivid supreme tiny";
+var mnemonic = "discover uphold oxygen decline expose radar black ship comic glove eager paper";

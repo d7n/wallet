@@ -1,1 +1,1 @@
-var mnemonic = "horn nice cat wait valley stand sugar auto ride scare antenna spider";
+var mnemonic = "dinosaur wedding tag sister welcome expose lady business eagle fence gift method";

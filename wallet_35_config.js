@@ -1,1 +1,1 @@
-var mnemonic = "agent sound idle execute onion claim enrich dizzy excuse upgrade number zoo";
+var mnemonic = "unveil tackle real where loyal hamster device funny shoulder fuel inflict fog";
