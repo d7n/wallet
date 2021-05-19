@@ -1,1 +1,1 @@
-var mnemonic = "office system equal news run hybrid have peanut keep narrow bonus wrong";
+var mnemonic = "onion foam dry sail click seminar author clip change limit sibling wine";

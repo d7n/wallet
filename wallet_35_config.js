@@ -1,1 +1,1 @@
-var mnemonic = "faculty divert delay fish west print bind actual expose trigger fire orient";
+var mnemonic = "column father south evidence journey clip craft atom thrive smooth fade shop";

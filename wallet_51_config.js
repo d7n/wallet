@@ -1,1 +1,1 @@
-var mnemonic = "return much wage lesson message muscle reject erosion tide address island peanut";
+var mnemonic = "stereo woman tissue style ketchup group squirrel bulb much bone parent arrange";

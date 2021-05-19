@@ -1,1 +1,1 @@
-var mnemonic = "iron sorry smoke brass steel connect enough industry lumber industry hello topple";
+var mnemonic = "inflict broom recall know blade canvas brisk pluck pear dish guitar quick";

@@ -1,1 +1,1 @@
-var mnemonic = "casino wait tonight father roast item awkward hobby slush device ensure endorse";
+var mnemonic = "intact deliver dentist dune swear edge dial day bubble tip ancient flame";

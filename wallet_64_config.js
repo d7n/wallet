@@ -1,1 +1,1 @@
-var mnemonic = "spice crystal safe stomach ethics inject patrol sister since shrug wedding opinion";
+var mnemonic = "taste wire entire obscure wide leg appear accuse smile grit green senior";

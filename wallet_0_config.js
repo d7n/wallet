@@ -1,1 +1,1 @@
-var mnemonic = "cloth divert satoshi goose number joke employ manual fiscal erosion antenna nest";
+var mnemonic = "scrub burst cargo resemble floor debate verify year boss erupt camp strike";

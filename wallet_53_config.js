@@ -1,1 +1,1 @@
-var mnemonic = "stable chat need fork atom imitate caution found honey exchange keep danger";
+var mnemonic = "series humor second media wagon wash column cry upset yard diamond renew";

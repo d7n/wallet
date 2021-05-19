@@ -1,1 +1,1 @@
-var mnemonic = "wide kind boost image cabbage defy crucial match canvas live effort when";
+var mnemonic = "icon lucky chat team above dynamic dutch supply concert rebel entire swim";

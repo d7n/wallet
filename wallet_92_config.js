@@ -1,1 +1,1 @@
-var mnemonic = "turkey item useless family liar road tell game exile bottom penalty tape";
+var mnemonic = "pave veteran ridge actual today law candy dismiss wet toilet label stairs";

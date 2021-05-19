@@ -1,1 +1,1 @@
-var mnemonic = "want fence finger core battle elbow tape eternal bullet surround trouble minute";
+var mnemonic = "donkey tower they salute prevent depend edge city section monster kingdom episode";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant wrist memory tragic ankle thunder destroy joy element garment avocado deer";
+var mnemonic = "side swap brother little blast attack regular mountain gift stool input machine";

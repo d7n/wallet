@@ -1,1 +1,1 @@
-var mnemonic = "lock input choose flip favorite fury original fashion attract hobby shy husband";
+var mnemonic = "body knife snow main latin host youth never parent furnace gossip electric";

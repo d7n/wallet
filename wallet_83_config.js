@@ -1,1 +1,1 @@
-var mnemonic = "flight fog wide marble offer shy thing chief aim inquiry grain ribbon";
+var mnemonic = "comfort final crazy trick shop program drum artefact metal pioneer nation decline";

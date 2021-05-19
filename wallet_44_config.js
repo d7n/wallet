@@ -1,1 +1,1 @@
-var mnemonic = "junk public steel salt common reward surface arctic lava reunion pole settle";
+var mnemonic = "choice orchard hand syrup sand detail tiny oppose crush erode radio tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "grid repeat first climb slow gap deny rival receive trend employ retreat";
+var mnemonic = "excess raven doll grab round broom awkward hold salad life acoustic huge";

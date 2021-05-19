@@ -1,1 +1,1 @@
-var mnemonic = "wash object opinion bid nose lounge gauge license bacon juice sauce dirt";
+var mnemonic = "ketchup coin spare ice three coffee shine fault type wire sight elder";

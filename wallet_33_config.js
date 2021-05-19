@@ -1,1 +1,1 @@
-var mnemonic = "later people stadium raven fossil task feel hollow client verify army random";
+var mnemonic = "village crack slow legal glimpse now river twice unveil scissors cinnamon laundry";

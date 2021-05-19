@@ -1,1 +1,1 @@
-var mnemonic = "flush focus latin essence search claw few around sight want swim silly";
+var mnemonic = "crumble primary flavor library start hedgehog where fever east situate grant economy";

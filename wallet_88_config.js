@@ -1,1 +1,1 @@
-var mnemonic = "bottom another foil crucial alone version pelican occur title oppose fit daring";
+var mnemonic = "satoshi gain staff pigeon rough garbage velvet february turkey bonus six display";

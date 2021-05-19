@@ -1,1 +1,1 @@
-var mnemonic = "silent between burden member brand major traffic attract stumble axis master liar";
+var mnemonic = "primary throw raw ugly electric private color crane true include mansion memory";

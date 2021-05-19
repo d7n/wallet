@@ -1,1 +1,1 @@
-var mnemonic = "labor laptop bachelor sponsor appear split powder talent object trumpet sense uncover";
+var mnemonic = "exercise sight average stove degree outdoor sheriff design catch hint move marriage";

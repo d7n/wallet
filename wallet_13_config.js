@@ -1,1 +1,1 @@
-var mnemonic = "license kid bomb you drive hammer clean balance marriage secret shove grunt";
+var mnemonic = "pink hat exit slight express sleep shrimp skate sense palm fabric happy";

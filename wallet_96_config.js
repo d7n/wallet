@@ -1,1 +1,1 @@
-var mnemonic = "tooth online stadium jelly melt bid peace lottery coral diet sport oven";
+var mnemonic = "inmate price intact wrap balance buddy kiwi clump wrist viable honey zone";

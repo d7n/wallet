@@ -1,1 +1,1 @@
-var mnemonic = "puppy surround make duty defy oblige reward behind hard airport owner dolphin";
+var mnemonic = "peasant lonely tongue cushion badge barely wave escape absurd during nominee debate";

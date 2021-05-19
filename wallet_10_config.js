@@ -1,1 +1,1 @@
-var mnemonic = "couple income impact worth party foster cute ozone disagree book eager lens";
+var mnemonic = "ecology stereo ghost provide drum jar infant first core reopen bridge segment";

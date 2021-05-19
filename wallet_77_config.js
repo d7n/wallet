@@ -1,1 +1,1 @@
-var mnemonic = "honey exclude perfect resource unusual abandon swallow speak hidden spend reunion hint";
+var mnemonic = "message magnet song holiday hello garlic blast depend silk now steak fat";

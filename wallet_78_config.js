@@ -1,1 +1,1 @@
-var mnemonic = "giggle mutual creek banana input blood staff spare squirrel upgrade dignity swarm";
+var mnemonic = "settle wheel net theory erosion fever merge crunch concert snack matrix into";

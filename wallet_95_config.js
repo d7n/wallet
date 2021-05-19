@@ -1,1 +1,1 @@
-var mnemonic = "gym often broccoli idle cancel crater ten purpose slab alcohol junk inhale";
+var mnemonic = "belt scare spy say lounge idea chicken trophy better power hire practice";

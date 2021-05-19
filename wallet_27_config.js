@@ -1,1 +1,1 @@
-var mnemonic = "kite foot firm online since energy ring trip actor few awesome betray";
+var mnemonic = "marble struggle mail dune perfect armor network alter panel pony service hip";

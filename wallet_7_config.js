@@ -1,1 +1,1 @@
-var mnemonic = "grocery simple design twenty merge supreme decide action express demise august sister";
+var mnemonic = "funny main pepper void short pluck broken enlist guard kitchen armor armed";

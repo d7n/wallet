@@ -1,1 +1,1 @@
-var mnemonic = "divide cattle chronic million update flag truly letter impact trick blast dwarf";
+var mnemonic = "assault medal liberty gossip write sudden radar skill rib tattoo equip color";

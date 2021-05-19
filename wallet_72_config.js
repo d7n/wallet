@@ -1,1 +1,1 @@
-var mnemonic = "praise daring length vintage entry attitude enable choice spoil flame edge maximum";
+var mnemonic = "mystery approve frost scale slush raccoon firm injury bean erupt hill cage";

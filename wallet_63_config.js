@@ -1,1 +1,1 @@
-var mnemonic = "dwarf child pencil fork can abstract estate tiny certain hen giggle clarify";
+var mnemonic = "actress broken know clip shock border quit eagle where game page fiber";

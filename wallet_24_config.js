@@ -1,1 +1,1 @@
-var mnemonic = "wrap private sell differ ship erosion sword coconut disorder they text once";
+var mnemonic = "luxury motor whale smart cloth dizzy desk object combine effort universe acid";

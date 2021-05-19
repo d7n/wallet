@@ -1,1 +1,1 @@
-var mnemonic = "person inject solid earn veteran box copper fish height buffalo amateur autumn";
+var mnemonic = "addict ring stand elite dolphin stone regret jar blush message wall alone";

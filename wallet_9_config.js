@@ -1,1 +1,1 @@
-var mnemonic = "until armed broken choice spy screen once student moon slow east patient";
+var mnemonic = "flame evolve churn siren nice profit network shallow offer liar thank hunt";

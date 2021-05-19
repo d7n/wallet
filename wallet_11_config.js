@@ -1,1 +1,1 @@
-var mnemonic = "hunt rice select cargo belt trim spice supreme ice nose warm tomorrow";
+var mnemonic = "scatter gesture robust syrup park shoot canvas genre bag civil swamp banana";

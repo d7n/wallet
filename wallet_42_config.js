@@ -1,1 +1,1 @@
-var mnemonic = "robust nominee leopard pave shoot rare order enrich quarter above maze inflict";
+var mnemonic = "identify chef cake neck decade stem grace alien edge velvet cute task";

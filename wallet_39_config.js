@@ -1,1 +1,1 @@
-var mnemonic = "genuine airport submit defy speak oblige proof prepare voyage own vacant cook";
+var mnemonic = "window flat trick shoot ticket shoot used bike copper solution flee voyage";

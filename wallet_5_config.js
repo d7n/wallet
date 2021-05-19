@@ -1,1 +1,1 @@
-var mnemonic = "afraid scan silver twelve crime switch pride change stay catalog client cause";
+var mnemonic = "satoshi arrest vital nephew cup adapt program slender skirt employ absorb swallow";

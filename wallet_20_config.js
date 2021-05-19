@@ -1,1 +1,1 @@
-var mnemonic = "keen cliff rare truth super garment dust siren brain half mass taxi";
+var mnemonic = "bike foot smart post leg can long inspire fade joke harsh era";

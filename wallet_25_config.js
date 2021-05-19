@@ -1,1 +1,1 @@
-var mnemonic = "gain happy february series boring peace frequent rough pony bitter gate hammer";
+var mnemonic = "gossip kiwi mechanic dumb protect merit pencil brush rapid hat blame banana";

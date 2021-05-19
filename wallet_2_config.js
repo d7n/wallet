@@ -1,1 +1,1 @@
-var mnemonic = "cage crisp body device soap analyst member someone age vault century cancel";
+var mnemonic = "report evolve mansion divide oak broccoli shoe sense bargain involve decade depart";

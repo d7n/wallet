@@ -1,1 +1,1 @@
-var mnemonic = "raven trigger derive talent then eternal gospel waste double public metal domain";
+var mnemonic = "coffee amused just control bunker castle usage display squeeze sauce vote nature";

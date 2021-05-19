@@ -1,1 +1,1 @@
-var mnemonic = "poem vanish side cave answer vehicle call movie runway bulk repeat they";
+var mnemonic = "merit level involve issue fox beauty vocal sweet cotton voice blue ring";

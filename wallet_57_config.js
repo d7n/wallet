@@ -1,1 +1,1 @@
-var mnemonic = "bean genius rude faint upset script swing major romance inform assault wash";
+var mnemonic = "nice fire purity cigar dad police deliver service biology imitate course knee";

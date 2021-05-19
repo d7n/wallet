@@ -1,1 +1,1 @@
-var mnemonic = "harsh surface nominee force mix once master transfer violin odor put plastic";
+var mnemonic = "fog stone there choose switch impact protect swamp topple charge hill trouble";

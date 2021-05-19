@@ -1,1 +1,1 @@
-var mnemonic = "obey impulse away airport rhythm pelican breeze spray siege mixture hello design";
+var mnemonic = "stone vault follow camera differ random scrap sword length maid liar eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket hat onion turkey vital solid lumber puzzle front field will inject";
+var mnemonic = "retire awesome lucky fortune donate lounge canal tone lamp stone section twice";

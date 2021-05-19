@@ -1,1 +1,1 @@
-var mnemonic = "expose ghost embody excess elite key aerobic water creek bike taste garment";
+var mnemonic = "swamp expire milk cushion arch neck forest pudding favorite green agree mail";

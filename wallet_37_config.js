@@ -1,1 +1,1 @@
-var mnemonic = "van bone ship plate this tube era afraid help since addict recycle";
+var mnemonic = "suit soap hat strategy swarm fade diesel enter vintage twin smart school";

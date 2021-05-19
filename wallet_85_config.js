@@ -1,1 +1,1 @@
-var mnemonic = "slam kit summer uniform riot spoil tenant game next fish rebuild order";
+var mnemonic = "leg inhale present duty angle salad bronze green float pet hybrid caution";

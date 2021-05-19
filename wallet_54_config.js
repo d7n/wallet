@@ -1,1 +1,1 @@
-var mnemonic = "vote cactus artist satisfy tilt manage month seed glory level powder render";
+var mnemonic = "cherry capable power furnace night arrive lobster victory proof bicycle path shop";

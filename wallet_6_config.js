@@ -1,1 +1,1 @@
-var mnemonic = "pass effort easily this carpet friend alone snake series grunt galaxy sword";
+var mnemonic = "super desert vehicle wisdom lunch glow fury start public cash work cook";

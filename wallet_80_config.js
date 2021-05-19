@@ -1,1 +1,1 @@
-var mnemonic = "noble this tuna female car tortoise awesome video wire hurry feel tornado";
+var mnemonic = "draft glide layer must message you butter element salt blanket axis rifle";

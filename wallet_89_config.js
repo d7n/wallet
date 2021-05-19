@@ -1,1 +1,1 @@
-var mnemonic = "theory kiss claim pill tilt galaxy maid aerobic lyrics tent fox minor";
+var mnemonic = "cigar gentle monster fat absorb because attend foot catch drama program crime";

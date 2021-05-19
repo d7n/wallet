@@ -1,1 +1,1 @@
-var mnemonic = "glimpse effort lens afraid kid wrong buffalo cloth shiver sugar shop about";
+var mnemonic = "little front boss trash truth assume sting tobacco off second basic hybrid";

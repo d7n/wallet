@@ -1,1 +1,1 @@
-var mnemonic = "truck share sustain bottom hurdle become rug enroll dinner rice position glory";
+var mnemonic = "park credit planet assume laugh letter notice six mule help century few";

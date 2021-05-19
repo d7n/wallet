@@ -1,1 +1,1 @@
-var mnemonic = "chat bubble solid deer avoid local maximum rack barely giraffe very morning";
+var mnemonic = "math animal style puppy once film ripple shiver tree humble vicious owner";

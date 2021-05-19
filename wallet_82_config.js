@@ -1,1 +1,1 @@
-var mnemonic = "insane next crash small panda material cement smooth become color seek know";
+var mnemonic = "bicycle swallow enroll true pottery demise open give bird judge estate fit";

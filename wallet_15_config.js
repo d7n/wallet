@@ -1,1 +1,1 @@
-var mnemonic = "kiwi just glove bid dinosaur maple taste expect filter old oblige target";
+var mnemonic = "club captain venue ozone chat pattern punch garment swamp damp claim cram";

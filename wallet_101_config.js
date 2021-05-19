@@ -1,1 +1,1 @@
-var mnemonic = "gospel arrest merit toast peace record napkin people post finish seed tongue";
+var mnemonic = "repeat erase force fuel height boat endless situate ball toward member aunt";

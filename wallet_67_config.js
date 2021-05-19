@@ -1,1 +1,1 @@
-var mnemonic = "run genuine danger genuine announce warfare waste erupt bind dismiss express silly";
+var mnemonic = "cherry link almost seat citizen cook destroy glass twin dice churn amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "admit maximum purity early talent race rack photo rain room lottery indoor";
+var mnemonic = "jacket family moral fade run raccoon nature best gift vintage begin alpha";

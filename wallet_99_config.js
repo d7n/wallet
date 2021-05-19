@@ -1,1 +1,1 @@
-var mnemonic = "initial tooth burger chair speed rural direct churn little clip bleak waste";
+var mnemonic = "nuclear age thumb inform hungry hurdle invite off high market divert olive";

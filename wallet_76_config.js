@@ -1,1 +1,1 @@
-var mnemonic = "nest stage produce junior advice account warfare film spirit danger choice sail";
+var mnemonic = "deer idle giant fork column candy merit sand song length crazy soup";

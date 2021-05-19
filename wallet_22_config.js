@@ -1,1 +1,1 @@
-var mnemonic = "excite fashion steel absent ride bicycle window wife sail flavor nest antique";
+var mnemonic = "mammal jaguar apart chapter child fashion insane animal elegant gain ill lounge";

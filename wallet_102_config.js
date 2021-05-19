@@ -1,1 +1,1 @@
-var mnemonic = "duty home return tongue access convince consider excess hockey omit dress sail";
+var mnemonic = "wrong industry rug decide sauce husband runway vault inner model fly decrease";

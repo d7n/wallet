@@ -1,1 +1,1 @@
-var mnemonic = "spoon quote peasant shuffle sniff model action fruit science author wild job";
+var mnemonic = "ability stage cheap melody gate please punch vapor enrich empower will trip";

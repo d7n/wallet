@@ -1,1 +1,1 @@
-var mnemonic = "left large retreat program hospital damp ordinary very bonus doctor wool pen";
+var mnemonic = "hospital mercy tomorrow truth title rare deputy fall forget mouse lawn verb";

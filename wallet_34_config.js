@@ -1,1 +1,1 @@
-var mnemonic = "view amazing figure earth miss abstract bright holiday shallow truck sign tape";
+var mnemonic = "old person present devote confirm ship where left heart enact mad media";

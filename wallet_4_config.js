@@ -1,1 +1,1 @@
-var mnemonic = "canoe solid addict essence neither faith account they wreck bomb seek slogan";
+var mnemonic = "item rival transfer enhance purchase hour nose fox endless rabbit pumpkin rural";

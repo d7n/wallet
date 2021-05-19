@@ -1,1 +1,1 @@
-var mnemonic = "taxi arrange beyond soldier topic noise shaft curious vapor gravity science tonight";
+var mnemonic = "miracle rug coffee sister trash verify magnet prefer whale tortoise scout goddess";

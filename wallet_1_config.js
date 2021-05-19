@@ -1,1 +1,1 @@
-var mnemonic = "mask snack more crisp fork puppy ritual pigeon swap express margin nerve";
+var mnemonic = "harsh dirt north exotic section suit approve orbit topic join easy weird";

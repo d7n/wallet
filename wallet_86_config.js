@@ -1,1 +1,1 @@
-var mnemonic = "tumble bless crack truly try elite wine device later claw relief gas";
+var mnemonic = "recipe idea duty switch give dentist action system arrive undo layer crawl";

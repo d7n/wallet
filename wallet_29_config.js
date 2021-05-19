@@ -1,1 +1,1 @@
-var mnemonic = "text abandon change service answer empty woman claw garbage joke helmet arrest";
+var mnemonic = "mixture swing nominee electric health client dance arctic kitten when cactus special";

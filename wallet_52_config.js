@@ -1,1 +1,1 @@
-var mnemonic = "tell evolve quote wait custom fix code timber include sudden alcohol wage";
+var mnemonic = "barrel wine tennis action rice long gather embody fade attract hero decrease";

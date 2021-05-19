@@ -1,1 +1,1 @@
-var mnemonic = "gloom genius alarm endless cruel magnet reject subway wealth escape text pilot";
+var mnemonic = "member flush aim dawn hello gesture penalty old present remain jazz because";

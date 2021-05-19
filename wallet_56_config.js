@@ -1,1 +1,1 @@
-var mnemonic = "evolve belt minor lend brief primary lesson tube food object cruise pact";
+var mnemonic = "service adult other grit avoid green vague happy remove poet pepper sword";

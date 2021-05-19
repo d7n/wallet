@@ -1,1 +1,1 @@
-var mnemonic = "write gravity flip love desert climb onion antique fatal gaze cotton flee";
+var mnemonic = "breeze punch exercise tilt armor olympic provide sport absorb sock lucky office";

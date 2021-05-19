@@ -1,1 +1,1 @@
-var mnemonic = "merry math dash document girl verb uncle almost glimpse sell motion isolate";
+var mnemonic = "bicycle wait anchor predict carpet test ozone genius net rescue syrup balance";

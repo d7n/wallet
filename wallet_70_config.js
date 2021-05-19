@@ -1,1 +1,1 @@
-var mnemonic = "adapt dish fade decline raw analyst tragic minor spot recall aspect picture";
+var mnemonic = "top spawn omit bone reject material crawl random ride rebuild quarter minute";

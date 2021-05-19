@@ -1,1 +1,1 @@
-var mnemonic = "team tool way voyage remind cement sunny basic demand motor radio frame";
+var mnemonic = "mouse aisle layer winter you april iron antique adult hover because uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology sheriff wood skate hand wave curve present lizard column diary october";
+var mnemonic = "review media angry fine message wrong stairs naive jelly armor reveal trade";

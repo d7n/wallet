@@ -1,1 +1,1 @@
-var mnemonic = "remind enable endless increase better blanket mountain mutual trap federal absent crush";
+var mnemonic = "fork pumpkin sweet rural service walk safe little solution jealous secret lady";

@@ -1,1 +1,1 @@
-var mnemonic = "lady jump weekend crack nest velvet shine bring indoor truth high light";
+var mnemonic = "they problem stick people reward already window climb side amount history mistake";

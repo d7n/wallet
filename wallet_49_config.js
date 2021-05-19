@@ -1,1 +1,1 @@
-var mnemonic = "awful apple ritual capital recall labor pretty license this social sense shaft";
+var mnemonic = "rail pulp focus chat ginger cradle marble nerve radio force hard bomb";

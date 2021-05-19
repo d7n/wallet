@@ -1,1 +1,1 @@
-var mnemonic = "pair load mom garden bar hire exact empower outer scorpion neutral file";
+var mnemonic = "solar wish file ketchup soul option try volume path wide olympic meat";

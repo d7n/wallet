@@ -1,1 +1,1 @@
-var mnemonic = "giggle cereal dirt expect hollow axis bridge strategy song tongue acquire never";
+var mnemonic = "arch follow rigid between razor absurd guitar finish ball spoil athlete dentist";

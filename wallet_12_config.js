@@ -1,1 +1,1 @@
-var mnemonic = "silver century urge toast flush uncover notable exchange outdoor identify slide usual";
+var mnemonic = "real final dirt hotel version holiday vast enroll area imitate speed labor";
