@@ -1,1 +1,1 @@
-var mnemonic = "render flavor wrong museum fish autumn badge swim soft unknown arrive print";
+var mnemonic = "stamp blast health century liberty evidence razor camera promote jungle juice art";

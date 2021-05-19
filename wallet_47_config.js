@@ -1,1 +1,1 @@
-var mnemonic = "fitness cruise exist ball text shoulder movie lunar barely claim gallery leopard";
+var mnemonic = "funny palm join sleep check earn trigger cactus smooth valid call equal";

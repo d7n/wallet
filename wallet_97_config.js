@@ -1,1 +1,1 @@
-var mnemonic = "govern trumpet romance strike day cage sunset life calm network raise excess";
+var mnemonic = "gentle party ensure forward mind work target powder wagon manual town bread";

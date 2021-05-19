@@ -1,1 +1,1 @@
-var mnemonic = "palace smile eye miracle model critic best shrimp defy upgrade improve stone";
+var mnemonic = "fog arrive spice vital east alarm caught giant student rifle trick kid";

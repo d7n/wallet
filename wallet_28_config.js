@@ -1,1 +1,1 @@
-var mnemonic = "tomato talent gown farm video power immune benefit upon vivid dove glance";
+var mnemonic = "office dolphin crater dismiss tuna curve kingdom govern benefit rate pluck pilot";

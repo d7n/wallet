@@ -1,1 +1,1 @@
-var mnemonic = "eagle mystery cancel imitate wool scan bread sentence clay vicious anchor escape";
+var mnemonic = "pipe wrestle violin loyal moment day matter address dance luxury hybrid nothing";

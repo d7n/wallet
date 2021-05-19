@@ -1,1 +1,1 @@
-var mnemonic = "gorilla empower firm bargain endless invite cousin topic ten crater calm bicycle";
+var mnemonic = "screen theory blossom merry embody borrow shine banner quarter orange dice post";

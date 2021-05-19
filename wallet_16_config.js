@@ -1,1 +1,1 @@
-var mnemonic = "become fan drastic grape charge tool snap flavor jar kit guide valley";
+var mnemonic = "girl key prison drive apology alter model bacon cart return blast essence";

@@ -1,1 +1,1 @@
-var mnemonic = "loop shaft toward access clip awful bottom usage large lucky dove crazy";
+var mnemonic = "story moon album foil kangaroo scheme student nice hybrid thrive tornado fabric";

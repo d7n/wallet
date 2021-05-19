@@ -1,1 +1,1 @@
-var mnemonic = "govern dinner odor dawn ozone topic door noble neutral sing flag laptop";
+var mnemonic = "soldier connect fringe display pear consider empower violin casual mention harbor fit";

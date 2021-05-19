@@ -1,1 +1,1 @@
-var mnemonic = "license insect breeze between govern garment border life aware casual private involve";
+var mnemonic = "forget salt defy shiver trumpet spring amount round chapter help champion slight";

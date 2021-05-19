@@ -1,1 +1,1 @@
-var mnemonic = "health gas assist loud device valley screen reject shy slogan couch frown";
+var mnemonic = "zoo pretty inch summer poet marble obvious buzz baby capital worry peace";

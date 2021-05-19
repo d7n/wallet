@@ -1,1 +1,1 @@
-var mnemonic = "pill bomb puppy jewel crystal scrap what slab lumber tone diagram era";
+var mnemonic = "room student harbor only novel sunny near pulp curious language cruel fall";

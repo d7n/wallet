@@ -1,1 +1,1 @@
-var mnemonic = "payment strategy early tiny day ritual weekend hint matrix earn please cage";
+var mnemonic = "dice royal kidney anchor episode toddler angle uncle parent smile arm gaze";

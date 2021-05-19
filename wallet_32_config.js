@@ -1,1 +1,1 @@
-var mnemonic = "use dress treat hope squirrel fence evoke model kite coach tape wasp";
+var mnemonic = "frown walk dash skull cheap act scatter rail long love split skill";

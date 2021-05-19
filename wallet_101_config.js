@@ -1,1 +1,1 @@
-var mnemonic = "tuition solve promote rookie glove company plunge quote cereal gain nephew talk";
+var mnemonic = "thrive royal always burst speak slice replace farm ski essence friend parrot";

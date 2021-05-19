@@ -1,1 +1,1 @@
-var mnemonic = "fade hammer author safe people only catch over cup cousin puzzle wear";
+var mnemonic = "winner dilemma border nurse fiction three screen evidence sword area giant soon";

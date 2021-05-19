@@ -1,1 +1,1 @@
-var mnemonic = "copper search love guess alley stuff hundred maze pudding erupt describe estate";
+var mnemonic = "crawl muffin drive glimpse truly bench tissue adult orchard stage useful brain";

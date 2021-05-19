@@ -1,1 +1,1 @@
-var mnemonic = "manual utility fence muscle twelve critic piece insect assist spoon predict axis";
+var mnemonic = "figure matter jump knee dune bless beyond erase embark cotton swim ranch";

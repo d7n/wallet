@@ -1,1 +1,1 @@
-var mnemonic = "client switch kingdom monitor episode alone when hand legal spread return you";
+var mnemonic = "budget medal salad pizza segment cause edit pizza gap funny future local";

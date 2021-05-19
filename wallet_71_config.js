@@ -1,1 +1,1 @@
-var mnemonic = "dish thrive people advice unit various nothing lyrics tortoise host slight artefact";
+var mnemonic = "bullet upgrade regular license same harvest end conduct arrest hurt outside donkey";

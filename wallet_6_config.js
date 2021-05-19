@@ -1,1 +1,1 @@
-var mnemonic = "execute liberty speak unaware combine record tide pig orchard shoot resist crisp";
+var mnemonic = "gospel orange royal advice good pink update gas paddle entire obscure outer";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo useless all busy slush suspect height crime zone impose hip private";
+var mnemonic = "athlete where hero photo sausage then dirt market pelican execute main approve";

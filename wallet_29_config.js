@@ -1,1 +1,1 @@
-var mnemonic = "case edit surround float sponsor inherit poem raven arrange oppose coral hamster";
+var mnemonic = "year enhance remove appear vocal bacon trophy arrest enact sand finish farm";

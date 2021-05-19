@@ -1,1 +1,1 @@
-var mnemonic = "transfer lazy title debris favorite direct hint inmate actor bomb patch vote";
+var mnemonic = "rural disagree kind burger fury swallow high gorilla apart window bench detect";

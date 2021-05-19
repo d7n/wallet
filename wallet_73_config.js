@@ -1,1 +1,1 @@
-var mnemonic = "script coffee ill illegal gorilla legal news snow reopen crumble inner ball";
+var mnemonic = "above song neutral home exchange already donor rose language spare doctor glue";

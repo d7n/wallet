@@ -1,1 +1,1 @@
-var mnemonic = "seek web bid soap pen battle shuffle submit muffin any typical high";
+var mnemonic = "spawn bounce bus subject base adjust catalog solve glare fault donor order";

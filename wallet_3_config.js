@@ -1,1 +1,1 @@
-var mnemonic = "dwarf oak gift elite upon found ocean floor pool giant physical club";
+var mnemonic = "wheat segment net candy address can nut lemon will floor rival zone";

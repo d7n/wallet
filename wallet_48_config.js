@@ -1,1 +1,1 @@
-var mnemonic = "faith dial female burden sun area ahead seminar autumn phrase awake wise";
+var mnemonic = "pumpkin stable file silk mosquito gospel start video kit food belt expand";

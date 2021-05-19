@@ -1,1 +1,1 @@
-var mnemonic = "gate bless siege youth isolate tissue beauty vintage avocado crush decrease anxiety";
+var mnemonic = "load addict humble gravity warm hen enroll silver joy fade shop click";

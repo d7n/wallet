@@ -1,1 +1,1 @@
-var mnemonic = "lift tray home flag shallow yellow give runway retreat scrap viable response";
+var mnemonic = "define two magic image prepare laugh general pink place hire capable flat";

@@ -1,1 +1,1 @@
-var mnemonic = "share impulse spell lab nest owner question tourist room whip base round";
+var mnemonic = "pupil tool clog bundle episode walnut math large mandate save half return";

@@ -1,1 +1,1 @@
-var mnemonic = "reform emerge fancy obscure language test blind flower near issue route torch";
+var mnemonic = "illegal bleak scout aware vicious arm sport balance time lonely series cute";

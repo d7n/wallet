@@ -1,1 +1,1 @@
-var mnemonic = "universe useful timber autumn foster coil beach quick method degree taste energy";
+var mnemonic = "eyebrow torch earth witness salt phrase rhythm together salute sibling stumble check";

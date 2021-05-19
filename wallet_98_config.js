@@ -1,1 +1,1 @@
-var mnemonic = "way predict strategy boring bid carbon someone minimum retire elder liquid travel";
+var mnemonic = "member rhythm seat feed shine scatter choose lemon blind blush advance carry";

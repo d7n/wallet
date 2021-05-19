@@ -1,1 +1,1 @@
-var mnemonic = "good buffalo weather online adapt holiday quality demand pepper series twice inflict";
+var mnemonic = "degree language ritual minimum cabin dune company concert town utility half fruit";

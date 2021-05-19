@@ -1,1 +1,1 @@
-var mnemonic = "today tissue run dizzy stuff parent modify venture draft minor fancy rifle";
+var mnemonic = "miracle evolve start salad almost face twin host fatal path gesture yard";

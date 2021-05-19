@@ -1,1 +1,1 @@
-var mnemonic = "pudding divorce cube divide play tree hockey parrot fantasy follow soft lottery";
+var mnemonic = "warfare fruit praise awkward sponsor gain true trap glad seat become only";

@@ -1,1 +1,1 @@
-var mnemonic = "join daughter nuclear crowd actress nation mosquito they meadow vivid business expose";
+var mnemonic = "swallow wonder check letter occur puzzle cake live gold remember seminar pretty";

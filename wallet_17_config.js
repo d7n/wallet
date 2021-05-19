@@ -1,1 +1,1 @@
-var mnemonic = "suspect view virtual sniff damage salon phone wild inmate profit practice spoon";
+var mnemonic = "task change genuine leave flush lottery right fish purity hunt moment gesture";

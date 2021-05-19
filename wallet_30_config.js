@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit museum library barrel jazz category exclude skirt desert body card antique";
+var mnemonic = "riot element hour rough rain sunny acoustic odor grid tank garbage plunge";

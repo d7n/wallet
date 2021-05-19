@@ -1,1 +1,1 @@
-var mnemonic = "father quote joke snake country guard pepper dolphin fog gather kiwi fruit";
+var mnemonic = "mom system satoshi stable airport bronze science just wonder pottery middle hood";

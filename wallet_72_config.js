@@ -1,1 +1,1 @@
-var mnemonic = "youth afford rocket shallow build sure easy any admit absent casual brain";
+var mnemonic = "trap search monkey tail behind spoil bundle custom glance mixed sea change";

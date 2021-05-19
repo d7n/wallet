@@ -1,1 +1,1 @@
-var mnemonic = "smile cage bracket question discover drastic blush crumble shoot auto beauty approve";
+var mnemonic = "apple tone give cup marble photo safe action saddle world cigar enable";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol credit rural champion make clock sense blur bread sand patient buffalo";
+var mnemonic = "attend morning stem hurry ancient best category lion excuse laptop salute drive";

@@ -1,1 +1,1 @@
-var mnemonic = "maple donkey move palace nephew weekend property salon swap learn inspire marine";
+var mnemonic = "soccer hotel human music swing fancy identify rent notable leaf endless ski";

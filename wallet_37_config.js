@@ -1,1 +1,1 @@
-var mnemonic = "result glass scale diamond off winter wink voice pass unhappy quit brave";
+var mnemonic = "keep goose impose clean garlic beauty alley reason before rack disease sudden";

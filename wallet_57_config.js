@@ -1,1 +1,1 @@
-var mnemonic = "advice vast flight wave page basket brush rude spring gallery tree hover";
+var mnemonic = "frozen force question exclude total valley upset nephew deer harvest gasp achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "dog rack winter violin office swarm pause toward faculty purse life busy";
+var mnemonic = "remain myth legal puppy assault rule crouch spawn home buddy cube enforce";

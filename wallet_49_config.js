@@ -1,1 +1,1 @@
-var mnemonic = "equip matrix comic artwork exotic duck primary fog shrug magic diet inform";
+var mnemonic = "ginger affair route panther awake oven picnic front ice solar range pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "cash know vital opera worry write paper fringe retreat cloth express manage";
+var mnemonic = "sign aspect soldier quote alert initial true fashion shuffle iron choose noble";

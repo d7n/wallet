@@ -1,1 +1,1 @@
-var mnemonic = "shield recall punch input embody exhibit reopen birth mule laugh embark target";
+var mnemonic = "hobby crawl average syrup oxygen member receive alter trophy display educate obscure";

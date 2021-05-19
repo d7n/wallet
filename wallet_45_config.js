@@ -1,1 +1,1 @@
-var mnemonic = "comic pen flash echo celery uncle sail reform noodle tuna leave member";
+var mnemonic = "night half zebra vague very strong lazy fruit cannon manual color produce";

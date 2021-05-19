@@ -1,1 +1,1 @@
-var mnemonic = "scrub feed gospel peanut interest olympic open jungle bulb save cupboard cruel";
+var mnemonic = "level hair swift gain candy almost chicken relax supreme hole chaos kick";

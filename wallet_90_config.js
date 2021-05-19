@@ -1,1 +1,1 @@
-var mnemonic = "public thunder below vacuum correct dismiss enhance stay sunset doll aware camera";
+var mnemonic = "loan second fitness old ethics coin slam spike safe journey clinic jazz";

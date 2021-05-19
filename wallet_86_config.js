@@ -1,1 +1,1 @@
-var mnemonic = "desert mushroom prosper rocket hip demise size mule civil wood alter double";
+var mnemonic = "jazz aspect season blood slow there combine wreck wide fury swap throw";

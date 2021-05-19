@@ -1,1 +1,1 @@
-var mnemonic = "canoe surround minor throw kind human also address profit jaguar addict pioneer";
+var mnemonic = "dove inside cousin venture hedgehog rebuild direct mule parade yellow dice play";

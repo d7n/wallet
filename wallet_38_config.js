@@ -1,1 +1,1 @@
-var mnemonic = "life inspire gossip fragile valid art special shop swing post enhance year";
+var mnemonic = "physical bonus fiber rack woman impose magic breeze require minute story female";

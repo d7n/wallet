@@ -1,1 +1,1 @@
-var mnemonic = "palm win embark sure ticket echo phrase cash hazard basket obtain business";
+var mnemonic = "rare welcome clip enter hood rookie sun vehicle safe crack napkin false";

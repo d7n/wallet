@@ -1,1 +1,1 @@
-var mnemonic = "govern disease pulp setup glance goat final enact execute badge grocery plate";
+var mnemonic = "object boss ordinary armed fossil charge farm maple collect buffalo depart tip";

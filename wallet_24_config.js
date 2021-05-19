@@ -1,1 +1,1 @@
-var mnemonic = "because glass hover ripple humor spice zone allow cost receive south luxury";
+var mnemonic = "desk labor powder rigid word million proof twelve just grunt toward oven";

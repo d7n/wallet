@@ -1,1 +1,1 @@
-var mnemonic = "column achieve length casino chase trash document upset confirm expire one enough";
+var mnemonic = "rural rose crouch negative reflect easily accident dynamic display bonus betray tip";

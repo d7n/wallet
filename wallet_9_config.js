@@ -1,1 +1,1 @@
-var mnemonic = "divorce soccer empty marriage reason kangaroo orbit cheap arena submit quiz multiply";
+var mnemonic = "rescue invest receive vivid paper concert observe hole silent birth tired vapor";

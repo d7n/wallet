@@ -1,1 +1,1 @@
-var mnemonic = "friend roof rebuild awake hungry agent fork endorse color taxi cherry consider";
+var mnemonic = "side under area live note pride sunset cloth thank glue sentence valley";

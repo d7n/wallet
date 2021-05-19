@@ -1,1 +1,1 @@
-var mnemonic = "sting deal labor define stamp improve milk you what joy garment state";
+var mnemonic = "rhythm fold head tuna raccoon young voice used oblige describe parade rain";

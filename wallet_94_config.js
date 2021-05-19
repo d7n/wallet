@@ -1,1 +1,1 @@
-var mnemonic = "goose crush often erode attack duty shoot select use shine huge core";
+var mnemonic = "chalk talent tuna speak marriage control quiz inch layer lock unlock exchange";

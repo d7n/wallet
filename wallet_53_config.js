@@ -1,1 +1,1 @@
-var mnemonic = "own simple slim green victory adult worry concert coconut measure grocery history";
+var mnemonic = "develop private mask decide chalk pull frozen beyond thought diagram knife reunion";

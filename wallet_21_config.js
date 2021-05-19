@@ -1,1 +1,1 @@
-var mnemonic = "night upgrade please manage two gold rabbit skate survey mutual april motion";
+var mnemonic = "slice enemy beef boat parrot bar bicycle balcony impact ring leg relief";

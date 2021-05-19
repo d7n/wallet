@@ -1,1 +1,1 @@
-var mnemonic = "concert fox trigger anchor pattern debate minimum erosion dry apart snap argue";
+var mnemonic = "imitate display setup bring truly adult teach jungle biology chapter lumber vapor";

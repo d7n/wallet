@@ -1,1 +1,1 @@
-var mnemonic = "panda clap pigeon skate furnace swamp future pave leisure tragic advance toast";
+var mnemonic = "creek soldier vast sponsor evolve below exchange what rough ride another churn";

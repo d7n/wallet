@@ -1,1 +1,1 @@
-var mnemonic = "return much uniform shine north hazard february album link twenty gasp glare";
+var mnemonic = "stay problem play gown way kidney such segment trash float bench silver";

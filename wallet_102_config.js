@@ -1,1 +1,1 @@
-var mnemonic = "cactus result only crawl tragic title follow twelve mind coconut piece deal";
+var mnemonic = "loud deny side buddy smart meat kid bench spoil rent snow snap";

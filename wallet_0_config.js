@@ -1,1 +1,1 @@
-var mnemonic = "expire unlock next life unveil monkey magic sad tribe slim sheriff swamp";
+var mnemonic = "mandate popular fabric gravity regret control uncle diagram exclude resource acid income";

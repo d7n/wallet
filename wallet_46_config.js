@@ -1,1 +1,1 @@
-var mnemonic = "develop split river chief bounce picture gaze inner return holiday index draft";
+var mnemonic = "zoo dice thunder modify slice inquiry artefact hat fish insect small lion";

@@ -1,1 +1,1 @@
-var mnemonic = "forward burden clock edge will science punch mule very rely gun fall";
+var mnemonic = "swap mule gloom tool sword afford borrow source silent champion sheriff warfare";

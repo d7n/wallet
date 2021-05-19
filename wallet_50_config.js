@@ -1,1 +1,1 @@
-var mnemonic = "siege engage cactus grant mountain behave jealous mouse seek creek skin tragic";
+var mnemonic = "mammal treat media keen crowd charge toss spin grunt pistol rebel rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel gasp load spirit normal attend frown obtain edge alone mercy cradle";
+var mnemonic = "shrimp better blade siege motion sick general noodle jacket million unit venture";

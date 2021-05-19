@@ -1,1 +1,1 @@
-var mnemonic = "urge same anchor exit motor taxi rather act north kind fatal produce";
+var mnemonic = "february knee almost capable siege lumber strike fever chaos grief offer glide";

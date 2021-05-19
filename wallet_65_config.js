@@ -1,1 +1,1 @@
-var mnemonic = "measure clip snack street adjust kitchen latin concert talk benefit insane fire";
+var mnemonic = "cook two duck sing modify nephew ridge mistake already fly escape fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "skill unit ensure oxygen later orchard sword buddy grow lava shoe horror";
+var mnemonic = "awesome traffic vacant fiber skill glance pink case cabbage burger body aim";

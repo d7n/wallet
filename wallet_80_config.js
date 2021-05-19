@@ -1,1 +1,1 @@
-var mnemonic = "isolate addict flower fiscal extra size length depth valid verify gospel wise";
+var mnemonic = "hurry usual already armed sausage exit predict sample worth radio salute fringe";

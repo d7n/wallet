@@ -1,1 +1,1 @@
-var mnemonic = "exercise industry gym element noise comfort since say mention you dust luxury";
+var mnemonic = "lunar lecture logic steak unveil usage hawk health recall glare patch impulse";

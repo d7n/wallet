@@ -1,1 +1,1 @@
-var mnemonic = "acoustic neglect garment glass grief gain rifle poet ketchup female enable label";
+var mnemonic = "wall month puzzle explain flower topple tuna chimney develop broom fantasy film";

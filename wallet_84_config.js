@@ -1,1 +1,1 @@
-var mnemonic = "ranch orphan relief inmate problem adult benefit satisfy picture layer length audit";
+var mnemonic = "pretty scan two oval saddle fashion endless destroy grow danger athlete swear";

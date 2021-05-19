@@ -1,1 +1,1 @@
-var mnemonic = "solid invest course inject iron believe cupboard suit turtle meat debate chase";
+var mnemonic = "make electric ice slim chunk inject occur donor ladder dash cricket heavy";

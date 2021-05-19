@@ -1,1 +1,1 @@
-var mnemonic = "wave erase extend similar future only orient waste sell afford rib river";
+var mnemonic = "close pledge proof easy job win govern edit dragon output twist protect";

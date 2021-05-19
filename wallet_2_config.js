@@ -1,1 +1,1 @@
-var mnemonic = "area physical truth normal pumpkin beyond very air roof select custom want";
+var mnemonic = "model polar unit unfold object access zoo pass kitten tiger baby gloom";

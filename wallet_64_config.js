@@ -1,1 +1,1 @@
-var mnemonic = "toss silent start group chaos end expand pull nation quality emerge stay";
+var mnemonic = "sketch ecology style unveil state attitude develop please grit bundle mind young";
