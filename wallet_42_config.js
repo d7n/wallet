@@ -1,1 +1,1 @@
-var mnemonic = "horn capable once profit faith wedding dynamic circle now what same never";
+var mnemonic = "unable jar hair blur example together fluid kind fluid dawn clinic poet";

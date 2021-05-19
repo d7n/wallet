@@ -1,1 +1,1 @@
-var mnemonic = "pitch refuse bunker alien soup asthma fruit census train unknown asthma detect";
+var mnemonic = "ridge uncle faint security usual echo clump assist flower ostrich car cotton";

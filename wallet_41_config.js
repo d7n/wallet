@@ -1,1 +1,1 @@
-var mnemonic = "rocket fault length extra push raise helmet they fun female umbrella actor";
+var mnemonic = "awful young exact long chat vacant confirm result proof duck off abandon";

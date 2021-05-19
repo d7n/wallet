@@ -1,1 +1,1 @@
-var mnemonic = "aunt chief height renew master expose income sword warfare setup alcohol parrot";
+var mnemonic = "fitness property legend oppose subway jacket mesh bullet poet item life panda";

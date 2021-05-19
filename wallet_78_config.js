@@ -1,1 +1,1 @@
-var mnemonic = "pole scare chicken boss bean inhale trigger inherit learn peace wash make";
+var mnemonic = "brick toast fun pill december rally response have addict verb armor network";

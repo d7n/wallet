@@ -1,1 +1,1 @@
-var mnemonic = "clean income artwork genius symptom develop tobacco sail gold half style shy";
+var mnemonic = "heavy fresh water under total world yard copy impulse maple switch rabbit";

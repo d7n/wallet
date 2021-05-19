@@ -1,1 +1,1 @@
-var mnemonic = "crane close trust roof system fee decorate turn measure way mask sustain";
+var mnemonic = "loud dinosaur bless city wasp coyote fortune clutch rain target grain other";

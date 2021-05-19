@@ -1,1 +1,1 @@
-var mnemonic = "damp puppy awful ill eager sock mountain anxiety canvas country leopard error";
+var mnemonic = "audit core visa plug example total verb zebra tomorrow ripple transfer hole";

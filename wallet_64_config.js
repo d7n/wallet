@@ -1,1 +1,1 @@
-var mnemonic = "liquid flag desk toe diary bus apple turtle luxury nurse indicate churn";
+var mnemonic = "ghost shift lamp tunnel dilemma become truly box box galaxy slab party";

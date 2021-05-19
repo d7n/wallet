@@ -1,1 +1,1 @@
-var mnemonic = "miracle decide disease suspect advance alien improve garage current siege west test";
+var mnemonic = "april occur runway matrix sadness local cheese mom found unaware pact cage";

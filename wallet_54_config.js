@@ -1,1 +1,1 @@
-var mnemonic = "mango dragon wool fringe sport gallery reason prosper jealous honey swamp vote";
+var mnemonic = "notable borrow task inject flee actress chicken club simple visa casino green";

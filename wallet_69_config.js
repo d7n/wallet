@@ -1,1 +1,1 @@
-var mnemonic = "abandon motion jazz marine couch tornado right valley found diesel enhance trigger";
+var mnemonic = "faith work reform comic patrol pull truly excite prefer fabric tuition voyage";

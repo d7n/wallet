@@ -1,1 +1,1 @@
-var mnemonic = "return illegal broccoli build inmate approve mechanic someone young young adapt dice";
+var mnemonic = "torch cotton recipe huge energy bread tree crush sea utility book during";

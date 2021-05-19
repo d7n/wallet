@@ -1,1 +1,1 @@
-var mnemonic = "good annual waste impact promote mimic engage globe lawsuit ostrich antique ecology";
+var mnemonic = "cherry average nasty produce parade future clog radio expose love expose eight";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel nominee furnace great produce cube best code wine behave able vintage";
+var mnemonic = "vote coffee moon oyster pilot idle series minor always kitten sausage fix";

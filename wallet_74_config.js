@@ -1,1 +1,1 @@
-var mnemonic = "fortune bundle mountain champion buyer grid curve adult silent bulk sure satisfy";
+var mnemonic = "admit scheme wealth ripple pumpkin million tourist memory since spoil stereo blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "amount six clarify process theme pass lesson crunch tiny list blood emerge";
+var mnemonic = "profit talk jaguar hurdle raven neglect nuclear fruit assist tomato brave express";

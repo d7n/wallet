@@ -1,1 +1,1 @@
-var mnemonic = "pencil hurt pulse amount trash mean search giant fun claim razor bind";
+var mnemonic = "pause bag dune cradle under solve pupil baby nuclear link execute never";

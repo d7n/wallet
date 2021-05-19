@@ -1,1 +1,1 @@
-var mnemonic = "ancient estate truth produce tent truck board clever dune ostrich result crucial";
+var mnemonic = "unique evidence accuse hundred biology lunch predict lamp stumble elevator dust fog";

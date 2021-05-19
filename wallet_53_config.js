@@ -1,1 +1,1 @@
-var mnemonic = "history dinosaur trash swarm merge cupboard chair ladder vague over early purchase";
+var mnemonic = "urban water cattle track cement fix lottery night hover empower buzz clarify";

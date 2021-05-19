@@ -1,1 +1,1 @@
-var mnemonic = "boss practice panel library venue loud spawn club coyote barely express opera";
+var mnemonic = "extra stuff random capable screen gravity glove town kiwi engine ask media";

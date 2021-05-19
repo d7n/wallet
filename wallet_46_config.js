@@ -1,1 +1,1 @@
-var mnemonic = "wisdom pretty belt gap spell off cruise brick trick token enemy rose";
+var mnemonic = "segment conduct acquire ivory animal beauty intact under morning high custom tragic";

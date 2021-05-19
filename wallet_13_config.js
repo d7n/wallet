@@ -1,1 +1,1 @@
-var mnemonic = "parrot pyramid fit buzz follow spin version bullet seat point cabin weasel";
+var mnemonic = "talent today pretty advance quiz help bonus outdoor kiss describe grain song";

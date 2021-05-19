@@ -1,1 +1,1 @@
-var mnemonic = "length doll napkin fortune safe soldier basket agree old party item result";
+var mnemonic = "weapon wing quit drink layer audit mail card online lava consider sun";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker furnace nest retire tennis pave couple service angle chat ozone february";
+var mnemonic = "rate noble elder achieve crane cloth stool plastic wide turn battle habit";

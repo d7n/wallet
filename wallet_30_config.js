@@ -1,1 +1,1 @@
-var mnemonic = "will dinner pair camp life actor enjoy knock tip cart correct nut";
+var mnemonic = "swarm dentist girl client scrap riot rail hotel exit honey family coil";

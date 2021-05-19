@@ -1,1 +1,1 @@
-var mnemonic = "cannon crack diary cave palace myth correct cluster father expand suspect topple";
+var mnemonic = "grant right economy lobster toast frame resource eagle decrease client interest wrestle";

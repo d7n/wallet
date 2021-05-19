@@ -1,1 +1,1 @@
-var mnemonic = "alter donkey vessel country horse grace scene miss tumble ocean final paper";
+var mnemonic = "park drip forget frozen mutual farm luxury famous upset bronze found cricket";

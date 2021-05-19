@@ -1,1 +1,1 @@
-var mnemonic = "cube elite discover home radio dress buzz nuclear pledge fluid weird burger";
+var mnemonic = "hip color loan define nuclear dream solid tiger travel kingdom anger luxury";

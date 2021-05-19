@@ -1,1 +1,1 @@
-var mnemonic = "chaos wire arrow stairs judge butter depth puppy tape exercise purpose boost";
+var mnemonic = "virtual infant violin attitude flag velvet wrong modify organ window throw place";

@@ -1,1 +1,1 @@
-var mnemonic = "popular social fan talent fruit crowd use collect lyrics spy edit mammal";
+var mnemonic = "head believe axis drill margin roof hub idle object evidence soul hidden";

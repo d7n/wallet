@@ -1,1 +1,1 @@
-var mnemonic = "limit axis word cereal course atom glide broom fashion permit busy entry";
+var mnemonic = "soda dizzy flower dash sausage void industry text plate volcano service sustain";

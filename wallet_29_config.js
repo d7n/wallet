@@ -1,1 +1,1 @@
-var mnemonic = "cousin intact supply flush consider couch labor meadow when daring unveil address";
+var mnemonic = "program bless borrow mask member escape unaware tattoo eyebrow parent fashion snake";

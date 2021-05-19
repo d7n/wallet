@@ -1,1 +1,1 @@
-var mnemonic = "mosquito normal disease width denial book name scrub rib bright parent inspire";
+var mnemonic = "drop team bottom proof balance globe rural artefact decline kid paper mail";

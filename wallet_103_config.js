@@ -1,1 +1,1 @@
-var mnemonic = "decrease demand language decorate argue sing slow spawn sorry erode wise history";
+var mnemonic = "equal cook near ranch word poet lottery question extend omit loop before";

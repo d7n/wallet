@@ -1,1 +1,1 @@
-var mnemonic = "start giggle surround inherit either gasp ecology short trend silk hill velvet";
+var mnemonic = "fatigue once bind before multiply planet cushion vocal switch reopen tower recycle";

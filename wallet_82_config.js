@@ -1,1 +1,1 @@
-var mnemonic = "repeat unfold bubble lion laundry card legal insect noble talent cement north";
+var mnemonic = "then proof enact wire drip crash indoor voyage cat mosquito public purchase";

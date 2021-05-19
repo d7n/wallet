@@ -1,1 +1,1 @@
-var mnemonic = "action away toast enact actual opinion ankle anxiety jazz warfare option motor";
+var mnemonic = "tide execute gather label zebra boat noise position snap gather circle primary";

@@ -1,1 +1,1 @@
-var mnemonic = "demise frame tuition card pumpkin ripple infant bonus beach valley bonus thank";
+var mnemonic = "woman emerge arch census another rural infant canoe bitter concert lady song";

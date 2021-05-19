@@ -1,1 +1,1 @@
-var mnemonic = "water fine easy army chunk recipe slight scissors regret ball abandon certain";
+var mnemonic = "parade visa cause sport load illegal truck word infant because hurt arctic";

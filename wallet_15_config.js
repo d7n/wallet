@@ -1,1 +1,1 @@
-var mnemonic = "crawl know soft flush exact chat plastic life divorce skull ostrich impulse";
+var mnemonic = "grace elegant idea history outside flee correct left embrace bright element focus";

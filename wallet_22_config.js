@@ -1,1 +1,1 @@
-var mnemonic = "tackle stem choose receive penalty skin antique ritual egg metal mom oyster";
+var mnemonic = "provide permit layer cook industry deliver arrange garment miss athlete drama thing";

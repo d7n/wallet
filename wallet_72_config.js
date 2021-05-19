@@ -1,1 +1,1 @@
-var mnemonic = "fiber better outside fog impact clarify rabbit hybrid wife purchase neutral dinosaur";
+var mnemonic = "legal volume goddess liar female entire execute truth define silk boss stick";

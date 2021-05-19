@@ -1,1 +1,1 @@
-var mnemonic = "flock exact ski grab someone canyon suffer grief ghost such eager wise";
+var mnemonic = "draw proud satoshi fall heart ugly gorilla card arrive again book special";

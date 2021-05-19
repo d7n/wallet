@@ -1,1 +1,1 @@
-var mnemonic = "engine reject arrest syrup dumb left father seat edit above border congress";
+var mnemonic = "urban always fit globe response romance gym lizard language wasp close juice";

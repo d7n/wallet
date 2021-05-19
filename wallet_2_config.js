@@ -1,1 +1,1 @@
-var mnemonic = "bench salt iron recycle modify half electric crack cement sphere beyond hour";
+var mnemonic = "dog cost when twist two effort vivid camp hurry vault metal robust";

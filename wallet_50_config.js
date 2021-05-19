@@ -1,1 +1,1 @@
-var mnemonic = "guilt system moral sleep ball brief suffer curious fox know trim silver";
+var mnemonic = "shift cute antenna surface broken problem olympic timber label average glide scale";

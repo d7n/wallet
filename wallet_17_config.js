@@ -1,1 +1,1 @@
-var mnemonic = "display pause giggle lonely other notable brother hole work oven true deposit";
+var mnemonic = "near kingdom autumn sail pistol dilemma salad egg mystery theory ritual soul";

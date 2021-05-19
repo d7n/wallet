@@ -1,1 +1,1 @@
-var mnemonic = "cactus engage monster globe afford under come swim again flush about unhappy";
+var mnemonic = "cross blossom outside remain love absorb garbage save garbage logic other voice";

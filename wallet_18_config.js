@@ -1,1 +1,1 @@
-var mnemonic = "shrug peanut rack wasp hub dice kite improve latin human fatal address";
+var mnemonic = "busy home target away category endless kid never tooth monster melt trim";

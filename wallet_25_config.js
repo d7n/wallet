@@ -1,1 +1,1 @@
-var mnemonic = "focus clean humor soon aware crater spread cool duck live laundry toy";
+var mnemonic = "decorate cotton hidden duty swift solar alcohol blanket code shock silly pottery";

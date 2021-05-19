@@ -1,1 +1,1 @@
-var mnemonic = "provide fun about either gold because paper monkey hood educate foil section";
+var mnemonic = "core equal van feature range skirt exercise spider admit theme general own";

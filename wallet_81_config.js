@@ -1,1 +1,1 @@
-var mnemonic = "planet admit fiber bird sheriff crowd barely turn accuse grow carbon expect";
+var mnemonic = "boring carry beauty grid collect lock deny jar they airport deal nominee";

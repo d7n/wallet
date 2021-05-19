@@ -1,1 +1,1 @@
-var mnemonic = "dust allow genre mobile october winter pass table helmet among yellow talk";
+var mnemonic = "broken alter bulb debate seven weather nest drama portion smooth manage merge";

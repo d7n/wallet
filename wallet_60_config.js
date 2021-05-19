@@ -1,1 +1,1 @@
-var mnemonic = "rebel globe curve unit access success grant prepare sketch athlete hamster egg";
+var mnemonic = "price when film again wave poem cancel pyramid girl voice grunt reopen";

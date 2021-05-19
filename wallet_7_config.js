@@ -1,1 +1,1 @@
-var mnemonic = "pact question kingdom cargo goat people range rebuild step panel sentence answer";
+var mnemonic = "tomorrow broccoli case pass blouse empower horse remind length decade sock fashion";

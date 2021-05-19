@@ -1,1 +1,1 @@
-var mnemonic = "forest dial submit valve stadium solution coin gadget injury anxiety cancel memory";
+var mnemonic = "recipe powder extend summer where clarify apart key mask error shoulder humble";

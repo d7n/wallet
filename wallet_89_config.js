@@ -1,1 +1,1 @@
-var mnemonic = "result manage master decline cupboard borrow fun morning kitchen token keen truly";
+var mnemonic = "supreme arch whip awful decorate strong wife senior youth sweet window assume";

@@ -1,1 +1,1 @@
-var mnemonic = "quick enlist evoke three canoe era tiger attract dog dice six unveil";
+var mnemonic = "around beauty chase gallery magnet village pumpkin element cloth inquiry beyond stick";

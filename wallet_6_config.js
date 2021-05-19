@@ -1,1 +1,1 @@
-var mnemonic = "repair empty keen exotic upon journey range candy grief fold ordinary brother";
+var mnemonic = "tiny cave lobster clock wrist loop friend leg blouse cereal brain naive";

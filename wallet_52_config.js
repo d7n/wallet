@@ -1,1 +1,1 @@
-var mnemonic = "chapter chicken video name illness quiz swarm before jazz evil north boss";
+var mnemonic = "tennis fury detail thunder jazz cook nasty fuel nominee around tongue height";

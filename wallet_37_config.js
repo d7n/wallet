@@ -1,1 +1,1 @@
-var mnemonic = "fringe coffee ecology grain say mountain robust nest tooth animal galaxy spoon";
+var mnemonic = "dance book stage zero annual stairs mother foot dinner approve powder such";

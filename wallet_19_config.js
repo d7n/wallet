@@ -1,1 +1,1 @@
-var mnemonic = "output current easy trial source code private follow human sleep magic impulse";
+var mnemonic = "six accuse subway claw bright giraffe morning firm wrap you brief lesson";

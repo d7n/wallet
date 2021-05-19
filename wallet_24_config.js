@@ -1,1 +1,1 @@
-var mnemonic = "whip wall wasp basket level pink tuna decline frown cause air dice";
+var mnemonic = "gate shift replace violin rain thrive hub charge acid inmate pyramid skin";

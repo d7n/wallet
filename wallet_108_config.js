@@ -1,1 +1,1 @@
-var mnemonic = "jealous logic wish sign hard great seminar couple dirt deny lawn sudden";
+var mnemonic = "pet action able north opera box february lecture spatial soccer script client";

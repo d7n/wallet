@@ -1,1 +1,1 @@
-var mnemonic = "move absorb assault decade box mask narrow repeat flight attend coral cereal";
+var mnemonic = "crop cabbage text cricket cupboard car close envelope warrior diesel year camera";

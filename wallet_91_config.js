@@ -1,1 +1,1 @@
-var mnemonic = "cable direct section stool update brass nominee local account boss lift found";
+var mnemonic = "dog beach stomach cart nation scrap menu carpet venture level liquid ceiling";

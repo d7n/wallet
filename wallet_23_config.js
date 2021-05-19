@@ -1,1 +1,1 @@
-var mnemonic = "keen movie scorpion purse genre laptop danger tip orchard siren silent vicious";
+var mnemonic = "embrace armor sudden dolphin pudding snap invest draw metal valve fly liquid";

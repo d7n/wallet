@@ -1,1 +1,1 @@
-var mnemonic = "slender radio minute jump noodle light poem fan tobacco wisdom road used";
+var mnemonic = "affair jaguar discover cave still oyster soon tunnel remain live police gorilla";

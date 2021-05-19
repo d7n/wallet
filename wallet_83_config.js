@@ -1,1 +1,1 @@
-var mnemonic = "thunder action purity drop vapor lawsuit flight live flash vibrant bachelor invest";
+var mnemonic = "tent invest radio ahead famous nephew law gesture step crazy knife shaft";

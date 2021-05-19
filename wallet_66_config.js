@@ -1,1 +1,1 @@
-var mnemonic = "praise put film mix remind cliff educate only remain street shell remain";
+var mnemonic = "sense tone festival tunnel sweet paddle front orient marine trip annual edge";

@@ -1,1 +1,1 @@
-var mnemonic = "option useful lab slim motion pepper battle large arrow segment picnic tragic";
+var mnemonic = "wrestle lend genuine elite install author cement family hair light adjust sorry";

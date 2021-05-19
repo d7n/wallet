@@ -1,1 +1,1 @@
-var mnemonic = "heart deposit slam enact flee attitude gift hurt loyal tobacco deliver subway";
+var mnemonic = "shove loan youth access hover oppose good elegant letter normal corn position";

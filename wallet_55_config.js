@@ -1,1 +1,1 @@
-var mnemonic = "noodle cinnamon pact canyon swear switch super vacuum match help clip surge";
+var mnemonic = "art find want cake glass behind blind anger excuse leopard van add";

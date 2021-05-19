@@ -1,1 +1,1 @@
-var mnemonic = "want defense tell census lottery honey tissue spy used spot shaft sentence";
+var mnemonic = "chicken access gasp stamp rice wet chef drastic grant basic quantum unveil";

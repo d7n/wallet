@@ -1,1 +1,1 @@
-var mnemonic = "eager stay half render crunch retreat favorite resist alcohol bid find harsh";
+var mnemonic = "clip wide same baby flush nature drive sight surge rail cricket settle";

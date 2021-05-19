@@ -1,1 +1,1 @@
-var mnemonic = "sister enable jungle snake wire hire hobby fossil pitch print cream box";
+var mnemonic = "hospital exclude century orange excuse brisk noble catch control stove lift never";

@@ -1,1 +1,1 @@
-var mnemonic = "plug wrestle labor then dilemma shallow steel insane shuffle gown reduce nature";
+var mnemonic = "six desk space such crack model connect arena submit hamster rug merit";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer snake subject lion ten group horse close bread relax skill fantasy";
+var mnemonic = "slam dutch whip undo bone siren reward inhale inflict across rude aspect";

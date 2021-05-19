@@ -1,1 +1,1 @@
-var mnemonic = "tumble happy walk daring divide tissue tiny seed humor avocado output detect";
+var mnemonic = "family sugar chicken differ claw fatigue myself blood host despair acid plastic";

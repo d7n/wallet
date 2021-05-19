@@ -1,1 +1,1 @@
-var mnemonic = "meadow torch shuffle crash example budget thunder foil off tide noble test";
+var mnemonic = "chuckle squirrel current faint nuclear ordinary arch lend odor scan bread maze";

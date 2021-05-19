@@ -1,1 +1,1 @@
-var mnemonic = "kid staff cabbage auction piece crazy tired fade hundred identify urban deposit";
+var mnemonic = "lens priority bronze affair scorpion will expect fitness rifle action wheat nut";

@@ -1,1 +1,1 @@
-var mnemonic = "spread smooth anger frequent loyal echo flat stairs process patrol decline chimney";
+var mnemonic = "host shallow virtual reveal action letter pigeon chimney police liberty doctor donkey";

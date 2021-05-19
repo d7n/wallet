@@ -1,1 +1,1 @@
-var mnemonic = "ketchup then rude rail entire universe cliff over half knee divide invite";
+var mnemonic = "girl vital cup moon else core neck below pelican island elder lamp";

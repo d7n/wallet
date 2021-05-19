@@ -1,1 +1,1 @@
-var mnemonic = "current nuclear agree dash pair extend design ketchup enemy hard frown prefer";
+var mnemonic = "frown achieve hat hockey bacon buzz rigid deposit turn blush harbor foot";

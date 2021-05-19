@@ -1,1 +1,1 @@
-var mnemonic = "slush prefer shove tribe horror meat spider wall viable arrive wage head";
+var mnemonic = "wheat ride tail differ pond behave casual summer wood scan warm answer";

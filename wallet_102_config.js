@@ -1,1 +1,1 @@
-var mnemonic = "find find random expose diesel shiver lizard cigar prosper grab shrimp tent";
+var mnemonic = "identify earn exclude blouse law sunny tilt upgrade seminar type unhappy odor";

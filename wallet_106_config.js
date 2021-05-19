@@ -1,1 +1,1 @@
-var mnemonic = "easily antenna airport close curtain extra shy open pond patch era million";
+var mnemonic = "renew auction domain dinosaur reunion chat capable label screen mule pave romance";

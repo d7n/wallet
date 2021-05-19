@@ -1,1 +1,1 @@
-var mnemonic = "you drink tide chronic seed orange there short shoot friend gloom divert";
+var mnemonic = "tilt burger believe game interest virus section blast cabin uncle powder cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "remind high minor deposit comic barely pink barely jelly shove tooth enough";
+var mnemonic = "orient feed cement shadow infant toe nut library oval pony slender smooth";

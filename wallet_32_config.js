@@ -1,1 +1,1 @@
-var mnemonic = "illness decade movie race debate maple piece sport easily ticket security champion";
+var mnemonic = "spray ceiling animal episode sign give need warrior fog walk audit wild";
