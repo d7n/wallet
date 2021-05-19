@@ -1,1 +1,1 @@
-var mnemonic = "suspect baby fever play rebuild layer thumb vocal vivid practice edge glide";
+var mnemonic = "grit teach topple force dignity atom crumble lonely thunder aim early equal";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier verb item loop inherit caught element brown vacuum fade clown behave";
+var mnemonic = "excess planet crack salon enrich curtain liar engine electric cabin female vendor";

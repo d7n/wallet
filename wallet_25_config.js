@@ -1,1 +1,1 @@
-var mnemonic = "vote also mobile kind behind diagram equal avocado rifle whisper fetch case";
+var mnemonic = "craft among dignity hole lyrics swift around damage type aim pistol amount";

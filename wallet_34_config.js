@@ -1,1 +1,1 @@
-var mnemonic = "honey ritual smoke crack stomach apple welcome enhance fuel scissors address column";
+var mnemonic = "nephew install paper mistake hello buddy ship bird jewel elbow acoustic cost";

@@ -1,1 +1,1 @@
-var mnemonic = "damage market video sweet divide there pottery slice arch already photo gesture";
+var mnemonic = "fresh field uniform owner reform exact deer wet goat often plate oblige";

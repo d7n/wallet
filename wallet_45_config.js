@@ -1,1 +1,1 @@
-var mnemonic = "obey inmate shuffle scale book peace move edit clog clip author media";
+var mnemonic = "bread scout fish average noble object bamboo topic regular curious slice spice";

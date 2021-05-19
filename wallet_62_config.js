@@ -1,1 +1,1 @@
-var mnemonic = "hundred into icon success gossip bulb rack lucky slender large feed cloud";
+var mnemonic = "lend section pluck spread cry this become waste suit spot elevator lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "logic margin legend yard assist universe actress favorite demand cargo carry unlock";
+var mnemonic = "meat purity ensure glory reform panther breeze time combine clown blanket shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "speak predict embrace tongue odor female pear shop idle jump guard damage";
+var mnemonic = "hair wonder happy armed spot awake midnight traffic misery expect limit champion";

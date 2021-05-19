@@ -1,1 +1,1 @@
-var mnemonic = "anger please chair asthma diamond evidence despair shock lazy local what hobby";
+var mnemonic = "they dove furnace day vibrant vendor split hill mass source canoe brown";

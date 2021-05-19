@@ -1,1 +1,1 @@
-var mnemonic = "video custom neither blind access garlic piano kitchen hour surprise firm wrong";
+var mnemonic = "cake fringe evoke arm custom renew camera legal december stay goddess theory";

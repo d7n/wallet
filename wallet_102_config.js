@@ -1,1 +1,1 @@
-var mnemonic = "ticket roof allow fury stay cushion arrest culture build wrap hungry smooth";
+var mnemonic = "run bright matter prize magnet maid version twelve city flavor blue brisk";

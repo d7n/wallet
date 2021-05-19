@@ -1,1 +1,1 @@
-var mnemonic = "budget young category age grape twist glue afraid rent scale panther motion";
+var mnemonic = "duck lion mutual mixed gain tourist elite marble poem sort build employ";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm apart eagle tomato unknown venue suit dolphin drama horse morning caution";
+var mnemonic = "vapor domain kiwi dragon abuse payment blade laundry muscle owner right this";

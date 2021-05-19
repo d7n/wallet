@@ -1,1 +1,1 @@
-var mnemonic = "also chase process artwork finger pupil cannon open slot fiscal chief develop";
+var mnemonic = "inner small life update drift name into cattle bar until riot feel";

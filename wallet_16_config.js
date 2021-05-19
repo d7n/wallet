@@ -1,1 +1,1 @@
-var mnemonic = "radio curve undo brief knock series dream avoid board nerve fence able";
+var mnemonic = "merit person december wheel name impose rib neck flock source spell slender";

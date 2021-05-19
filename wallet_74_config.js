@@ -1,1 +1,1 @@
-var mnemonic = "phrase eight village language become casual slow book repair coyote elbow stairs";
+var mnemonic = "skill local catch unhappy total resemble pave scrub hold viable chase erosion";

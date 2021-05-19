@@ -1,1 +1,1 @@
-var mnemonic = "cart hurry spare long bleak someone patrol blood home stomach zero lizard";
+var mnemonic = "cabin demand cradle blossom dice obtain column eight atom fuel label side";

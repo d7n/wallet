@@ -1,1 +1,1 @@
-var mnemonic = "live mango action maze flock mail alter turkey property point search swear";
+var mnemonic = "quality hood nerve festival month nation canyon artwork dynamic scout floor tobacco";

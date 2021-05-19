@@ -1,1 +1,1 @@
-var mnemonic = "cradle dismiss sense public veteran ramp milk marine cup attitude affair royal";
+var mnemonic = "patrol copy wave dwarf satisfy buddy happy differ cousin taste twice decline";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt kite van cook talk dune switch across load knee endorse false";
+var mnemonic = "bright salon finger slide fine child square write enroll rural canvas connect";

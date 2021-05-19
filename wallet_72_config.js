@@ -1,1 +1,1 @@
-var mnemonic = "price welcome year river loyal local cruel faint lab used visit banner";
+var mnemonic = "prevent online debris eight smile wear lock must degree lesson salt worth";

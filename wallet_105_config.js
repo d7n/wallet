@@ -1,1 +1,1 @@
-var mnemonic = "salute equip adjust often either amused load alien master dish convince leader";
+var mnemonic = "island injury afford ill pole oyster affair swamp outer trend evidence reason";

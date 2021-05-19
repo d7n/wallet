@@ -1,1 +1,1 @@
-var mnemonic = "shoulder fox palace damage scissors column that rhythm master typical nest robust";
+var mnemonic = "rail sleep blouse fiber double note admit uncle usage fitness riot limit";

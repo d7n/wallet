@@ -1,1 +1,1 @@
-var mnemonic = "sea anxiety claim aerobic art hero walnut nose cactus fluid cousin easy";
+var mnemonic = "sand machine relax lawsuit twist blossom ivory argue egg patrol time angry";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal awkward glove garbage blue smart erupt canal staff pill mango double";
+var mnemonic = "credit bargain speed dad balcony cigar knock acquire number drift style copy";

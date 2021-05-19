@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rigid clutch six giggle blade seat furnace chronic monitor vast mesh";
+var mnemonic = "spider spatial village heavy ticket spike try grow unable matrix gospel social";

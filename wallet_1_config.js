@@ -1,1 +1,1 @@
-var mnemonic = "mistake segment humor tag among wrong drift shock retire cushion chief bean";
+var mnemonic = "creek transfer cluster coast power people tortoise come crucial width bottom theory";

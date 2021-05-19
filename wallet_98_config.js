@@ -1,1 +1,1 @@
-var mnemonic = "sell undo boil trash again suit settle rival river glove broom kick";
+var mnemonic = "chapter pony express cradle torch identify aerobic kick foster rescue circle bridge";

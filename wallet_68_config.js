@@ -1,1 +1,1 @@
-var mnemonic = "divert guess junk hospital inject since creek nice pig cute million group";
+var mnemonic = "exist crisp pupil figure caught brave essay naive cannon dynamic special slow";

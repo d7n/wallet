@@ -1,1 +1,1 @@
-var mnemonic = "suffer age sword recycle wink craft hurt dizzy time snack base verb";
+var mnemonic = "addict primary marine alcohol renew initial safe improve machine polar tunnel citizen";

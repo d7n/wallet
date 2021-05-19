@@ -1,1 +1,1 @@
-var mnemonic = "join raccoon drill there urban cat renew steel clock over asthma region";
+var mnemonic = "clever shoe shock proud drama flock mirror alter seat rebuild elder ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut response car extra car assault edge sphere inflict tomato slide accident";
+var mnemonic = "happy decorate prevent skirt toss bubble someone joy fine split sport cross";

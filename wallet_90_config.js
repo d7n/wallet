@@ -1,1 +1,1 @@
-var mnemonic = "kind cart other error hour talk jaguar recycle decline tray hole shove";
+var mnemonic = "shoe device excite scout february follow area sense common usual train issue";

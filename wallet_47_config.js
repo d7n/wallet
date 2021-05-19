@@ -1,1 +1,1 @@
-var mnemonic = "tumble hedgehog outside own jump achieve couple detail magnet guitar caught magic";
+var mnemonic = "basket scrap tourist giggle essence iron female shallow breeze equip clay check";

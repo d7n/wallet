@@ -1,1 +1,1 @@
-var mnemonic = "video truth rookie dawn crash common seat reward gas action step bonus";
+var mnemonic = "transfer remind text middle vast depth park clay love innocent glove priority";

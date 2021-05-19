@@ -1,1 +1,1 @@
-var mnemonic = "immune security diesel armor achieve foster draft laundry settle still possible phrase";
+var mnemonic = "detail shy desert fish foster worth grape shell tube vacuum common marble";

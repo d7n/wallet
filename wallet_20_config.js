@@ -1,1 +1,1 @@
-var mnemonic = "debris happy slide gorilla science lend blame author clean turtle skill slot";
+var mnemonic = "between mass base inch diet asset cost quit animal midnight amused pattern";

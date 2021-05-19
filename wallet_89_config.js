@@ -1,1 +1,1 @@
-var mnemonic = "galaxy net armed expect lady broccoli daughter inject oak design match adult";
+var mnemonic = "better hollow empower mouse easy organ ladder lizard federal insane bag lamp";

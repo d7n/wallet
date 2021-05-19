@@ -1,1 +1,1 @@
-var mnemonic = "check dress roof onion write decide donor august echo ready cat mouse";
+var mnemonic = "furnace napkin february consider genre truth tip teach liquid comic grape glory";

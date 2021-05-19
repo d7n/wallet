@@ -1,1 +1,1 @@
-var mnemonic = "spice clog resist melt debris company check turn forget column fancy trade";
+var mnemonic = "wave dry fish type clever hill juice cover slim expand merit rude";

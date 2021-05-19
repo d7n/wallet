@@ -1,1 +1,1 @@
-var mnemonic = "fury knock lounge shrug approve cable wire own program trigger blade hospital";
+var mnemonic = "eyebrow buffalo extra rate suspect market dinner oven clever dish sunset innocent";

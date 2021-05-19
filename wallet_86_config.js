@@ -1,1 +1,1 @@
-var mnemonic = "frame safe cabin army avocado million street notable body harvest gain provide";
+var mnemonic = "pair cat loan erupt donate trade hedgehog text castle explain attack art";

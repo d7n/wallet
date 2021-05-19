@@ -1,1 +1,1 @@
-var mnemonic = "lawn library tower craft teach make festival life bracket gadget borrow item";
+var mnemonic = "layer sorry rapid area exist move axis creek trend fault meadow exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude iron wait woman dismiss menu north copy sadness trumpet layer ivory";
+var mnemonic = "muffin worth office quarter daughter feed degree derive faith airport snake habit";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle clarify cage scale duty height master enable educate census member grid";
+var mnemonic = "involve fox carbon maid ship view duty shrug fetch coffee half disease";

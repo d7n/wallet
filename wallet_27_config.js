@@ -1,1 +1,1 @@
-var mnemonic = "people output banner fossil clap room rack survey sail stay model labor";
+var mnemonic = "uniform century library kit ask brave chunk today mule pet blame bird";

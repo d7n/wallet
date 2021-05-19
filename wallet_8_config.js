@@ -1,1 +1,1 @@
-var mnemonic = "asset ivory slogan copper candy baby siege artefact use inherit trophy explain";
+var mnemonic = "file round endorse laptop dawn inflict duty boil spoon square victory visual";

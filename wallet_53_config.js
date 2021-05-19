@@ -1,1 +1,1 @@
-var mnemonic = "silk bargain car drink sick chef say vague protect ginger antenna wire";
+var mnemonic = "season help focus employ harsh sentence they pledge material fork expose typical";

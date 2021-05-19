@@ -1,1 +1,1 @@
-var mnemonic = "soul wheel ski measure detail common entry entry pass manage meat above";
+var mnemonic = "lemon tired mesh clip melt concert arrow diet inject suggest observe direct";

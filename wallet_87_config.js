@@ -1,1 +1,1 @@
-var mnemonic = "sausage unhappy cat scare treat jacket angry abstract knee pony hard echo";
+var mnemonic = "oil grief brick satisfy opinion glass manage syrup resource ridge always advance";

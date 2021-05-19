@@ -1,1 +1,1 @@
-var mnemonic = "amount ask chest high ozone output flock toe meat atom body aware";
+var mnemonic = "slide pear woman crop drop early liquid welcome outside fun meadow sick";

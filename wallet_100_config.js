@@ -1,1 +1,1 @@
-var mnemonic = "churn save cost easily able area wheat luggage admit purchase amazing help";
+var mnemonic = "eternal need section helmet naive lady cause element utility valid year album";

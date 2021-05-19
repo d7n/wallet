@@ -1,1 +1,1 @@
-var mnemonic = "hip multiply biology history six capital finish ill news puppy warfare feel";
+var mnemonic = "emerge increase doll broccoli odor truck announce wrestle model again manual deal";

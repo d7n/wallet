@@ -1,1 +1,1 @@
-var mnemonic = "sauce kangaroo man pill april sketch wrong bread shiver heart exotic tourist";
+var mnemonic = "creek more dress claim endorse manual traffic clap infant beyond patrol poet";

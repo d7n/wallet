@@ -1,1 +1,1 @@
-var mnemonic = "thought vacant mechanic tongue shoe route soap salute inspire retire eagle cattle";
+var mnemonic = "table ecology edit click wash style edit educate clinic rent general domain";

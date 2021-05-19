@@ -1,1 +1,1 @@
-var mnemonic = "viable cupboard grass tuition winner timber clip improve shed buzz charge poverty";
+var mnemonic = "mutual service reduce exclude wheel peasant gravity fee bid vocal fix grace";

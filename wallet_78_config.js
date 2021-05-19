@@ -1,1 +1,1 @@
-var mnemonic = "typical gold coach morning adapt scare luxury leg chaos gorilla soldier youth";
+var mnemonic = "end surge busy blanket gas base vocal depend ramp switch measure abstract";

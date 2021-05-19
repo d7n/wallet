@@ -1,1 +1,1 @@
-var mnemonic = "autumn current run alarm cover search soon purchase behave father cushion horror";
+var mnemonic = "escape enter napkin weird file neglect over cupboard lady whip sort axis";

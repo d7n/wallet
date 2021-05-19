@@ -1,1 +1,1 @@
-var mnemonic = "bread note maple fade charge spring live pond powder scrap onion enhance";
+var mnemonic = "void unveil demand athlete dance twelve phone decide garage coin host bundle";

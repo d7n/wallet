@@ -1,1 +1,1 @@
-var mnemonic = "board room will engage depth hotel sand fence chat cement auction endorse";
+var mnemonic = "require spot aspect blouse giant tent evidence extend shallow switch lift sleep";

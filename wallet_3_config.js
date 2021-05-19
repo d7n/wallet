@@ -1,1 +1,1 @@
-var mnemonic = "focus tail caution enhance suffer extend mammal whale kiwi sentence demand repair";
+var mnemonic = "give law arrange little need search clerk humor spawn select coach custom";

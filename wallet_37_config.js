@@ -1,1 +1,1 @@
-var mnemonic = "pig soup pistol relax weasel pony soldier delay dragon kingdom awkward nice";
+var mnemonic = "elder equal grocery arrive miracle motion stable whale convince victory habit cake";

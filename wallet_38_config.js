@@ -1,1 +1,1 @@
-var mnemonic = "torch inherit celery clinic lounge office success lazy risk report bid firm";
+var mnemonic = "poem maze phrase require valve enemy merge success lens sponsor merry inside";

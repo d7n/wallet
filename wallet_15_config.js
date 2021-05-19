@@ -1,1 +1,1 @@
-var mnemonic = "brain visa fabric neither wrist sea room curtain either arctic guard equip";
+var mnemonic = "sauce fat stadium sell outer promote lock occur junk toward garbage speed";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito figure spot monitor already yard knife turn obey project woman quality";
+var mnemonic = "middle glue squeeze fault vague camera million else scheme omit they vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "clog bamboo want actor concert tree today rigid alpha expand addict river";
+var mnemonic = "october lounge boost high fever distance atom scan bracket future wait catalog";

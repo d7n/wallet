@@ -1,1 +1,1 @@
-var mnemonic = "anchor bind print magnet shiver cheese resemble advice polar dance wrist rookie";
+var mnemonic = "stuff gravity today little can car tonight know night layer spatial vote";

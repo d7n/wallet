@@ -1,1 +1,1 @@
-var mnemonic = "either couple tackle custom slide mind immense hole metal neither trick picture";
+var mnemonic = "season rescue injury length fetch angle clerk issue option diary foil calm";

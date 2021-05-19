@@ -1,1 +1,1 @@
-var mnemonic = "surround sibling zoo orbit tiger position soul intact invite excite senior device";
+var mnemonic = "kid confirm culture coral now resemble island face sauce river popular victory";

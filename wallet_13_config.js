@@ -1,1 +1,1 @@
-var mnemonic = "much visual pretty industry casual seat make burger coast margin exhaust often";
+var mnemonic = "liquid fix detect risk treat liar coin uncover guilt crowd energy awake";

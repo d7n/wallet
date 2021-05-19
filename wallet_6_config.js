@@ -1,1 +1,1 @@
-var mnemonic = "wet decline print observe render supply nothing find clean talent kangaroo stool";
+var mnemonic = "blood ankle fence laundry emerge true marble exact spot noodle sight believe";

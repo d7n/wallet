@@ -1,1 +1,1 @@
-var mnemonic = "elephant mass thank adult curious text next sun fall firm update peace";
+var mnemonic = "excess assist rose corn column book pitch maze used damage prepare visit";

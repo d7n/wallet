@@ -1,1 +1,1 @@
-var mnemonic = "catalog series miracle fatal tongue machine witness cruel drop road stand work";
+var mnemonic = "chicken purse chicken whale whale annual vessel seat repair refuse news action";

@@ -1,1 +1,1 @@
-var mnemonic = "into escape message birth few always vacant desk ride federal around suffer";
+var mnemonic = "owner sorry tackle now polar penalty knock kit step clog pledge inch";

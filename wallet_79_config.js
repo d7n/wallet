@@ -1,1 +1,1 @@
-var mnemonic = "arena slam anxiety famous segment brass stay matrix key kitten twenty citizen";
+var mnemonic = "neutral donkey chase similar resemble tree hold warm keen obtain voyage favorite";

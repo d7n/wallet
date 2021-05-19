@@ -1,1 +1,1 @@
-var mnemonic = "gadget volume gesture roof universe hunt okay fault demand call eternal olive";
+var mnemonic = "right honey tissue cattle raven pet grocery various yard rich screen student";

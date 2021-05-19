@@ -1,1 +1,1 @@
-var mnemonic = "aunt toddler tobacco argue company whisper horn render hard window retire brother";
+var mnemonic = "pluck creek leader inside sell talent cushion owner welcome book world display";

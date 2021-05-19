@@ -1,1 +1,1 @@
-var mnemonic = "inmate hunt welcome orient liquid trap country order cargo enact second ten";
+var mnemonic = "dignity toilet oppose dash modify orbit cash bonus forum lady weird piece";

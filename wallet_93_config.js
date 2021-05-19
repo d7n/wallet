@@ -1,1 +1,1 @@
-var mnemonic = "hair frown behind lizard bid job aim faith witness public artist custom";
+var mnemonic = "come weather record milk engage beef logic glow aspect only roast disorder";

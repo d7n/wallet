@@ -1,1 +1,1 @@
-var mnemonic = "memory volume toast build random fringe barrel twelve furnace empty country talent";
+var mnemonic = "dolphin road clever bread clip habit olive hunt page blanket that hint";

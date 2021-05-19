@@ -1,1 +1,1 @@
-var mnemonic = "rate bulk index often desk omit sail empty frost clown lock churn";
+var mnemonic = "cry head raven gadget pole forum clown convince jacket please company artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "main element wreck luxury void holiday perfect floor gesture then love flock";
+var mnemonic = "mix ten destroy tail seek gold clap egg sock spell indicate grab";

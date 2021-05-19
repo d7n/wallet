@@ -1,1 +1,1 @@
-var mnemonic = "session soul chief limit hello obvious brother survey bargain omit toe hour";
+var mnemonic = "violin era ripple grocery awful wish spell mouse chest elbow machine blame";

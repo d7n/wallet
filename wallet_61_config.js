@@ -1,1 +1,1 @@
-var mnemonic = "craft ethics ranch bundle slab item auction noble hazard boring chest pistol";
+var mnemonic = "shell else remember mystery caught trick gasp library book payment lounge village";

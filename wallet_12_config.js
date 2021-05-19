@@ -1,1 +1,1 @@
-var mnemonic = "earth pet across table orange item immune secret jacket position soldier bag";
+var mnemonic = "mix flight pen install stick love silent secret spoil faint spy thumb";

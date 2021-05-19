@@ -1,1 +1,1 @@
-var mnemonic = "aspect use damp process assault ranch oyster song lecture push camera frost";
+var mnemonic = "spell diagram summer either chapter minimum funny nurse type invest north maple";

@@ -1,1 +1,1 @@
-var mnemonic = "help ivory clown jealous worry lab replace genuine wedding toe give around";
+var mnemonic = "heavy afford fall online budget balcony clever ginger twist modify ramp gaze";

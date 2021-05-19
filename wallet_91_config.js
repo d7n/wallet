@@ -1,1 +1,1 @@
-var mnemonic = "usage crater method special pioneer arctic desert victory few sponsor celery mutual";
+var mnemonic = "noise token gossip leopard arrange slot brother throw cost sure shell trim";
