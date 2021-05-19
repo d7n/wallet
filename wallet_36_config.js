@@ -1,1 +1,1 @@
-var mnemonic = "dentist foil tumble urge move seek crime mule champion alert output meadow";
+var mnemonic = "gloom section pet enhance plunge fix tongue grid illness marine quiz image";

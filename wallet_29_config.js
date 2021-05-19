@@ -1,1 +1,1 @@
-var mnemonic = "doll extend parent menu breeze large dismiss setup label impose margin glide";
+var mnemonic = "fly quality creek loop lion gorilla expand saddle occur napkin trip write";

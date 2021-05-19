@@ -1,1 +1,1 @@
-var mnemonic = "place actor ocean violin kitchen again odor close filter economy segment cause";
+var mnemonic = "reject original feature mind churn install element bitter nest sauce tiger spare";

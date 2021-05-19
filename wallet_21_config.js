@@ -1,1 +1,1 @@
-var mnemonic = "soon tell water warm outside risk piano tomorrow tornado horse mandate series";
+var mnemonic = "toe faint increase puppy box apple reopen trial fabric expire absurd father";

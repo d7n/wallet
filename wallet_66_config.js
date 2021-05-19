@@ -1,1 +1,1 @@
-var mnemonic = "mixture supply expand cash mushroom remind shiver pause portion spirit firm law";
+var mnemonic = "hawk coil cash you useless aisle produce cycle lunch rookie glimpse glad";

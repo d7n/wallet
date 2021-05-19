@@ -1,1 +1,1 @@
-var mnemonic = "unhappy parade true private castle left roast fence proud promote tissue country";
+var mnemonic = "album begin current moral real human kit remember rice recycle impulse bracket";

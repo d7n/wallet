@@ -1,1 +1,1 @@
-var mnemonic = "decorate prison frame equal picnic system essay question stand brave myself crush";
+var mnemonic = "bean base bulb tip hold soda protect pottery fragile among patient soccer";

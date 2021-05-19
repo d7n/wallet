@@ -1,1 +1,1 @@
-var mnemonic = "pair cherry depart aunt silver gasp uncle liar arctic transfer square sister";
+var mnemonic = "hundred world paper brother clay love erode puppy fatal remain cook sunny";

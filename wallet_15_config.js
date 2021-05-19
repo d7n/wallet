@@ -1,1 +1,1 @@
-var mnemonic = "catch office visit depart garbage nurse fine capable bomb month truth second";
+var mnemonic = "ice multiply black fetch adapt view donkey fan inflict expose neither glory";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing equal marriage pony answer aunt grit casino biology south winter lesson";
+var mnemonic = "alpha lab caution april jelly venture crater paper liar hub yellow swim";

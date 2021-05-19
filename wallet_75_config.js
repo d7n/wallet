@@ -1,1 +1,1 @@
-var mnemonic = "ranch endless pistol film identify exhibit brave bundle assume reopen tooth morning";
+var mnemonic = "just poet lucky what ticket hamster bright bitter project song must fan";

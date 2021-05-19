@@ -1,1 +1,1 @@
-var mnemonic = "magnet awful hockey clarify aunt donor alcohol near glance sister assume nest";
+var mnemonic = "save boy depend approve unfair budget sustain loop script gadget bracket distance";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil useful rigid tiny present fresh pony chicken august insect health agree";
+var mnemonic = "slice keen trip input parrot filter exact seminar trap clarify pet sauce";

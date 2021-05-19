@@ -1,1 +1,1 @@
-var mnemonic = "glide junior debris alarm melody direct fabric someone cliff mistake excess minute";
+var mnemonic = "protect pass boss orchard slab embrace spread amused learn swamp unfair cattle";

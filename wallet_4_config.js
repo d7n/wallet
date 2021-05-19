@@ -1,1 +1,1 @@
-var mnemonic = "option oil web slot enrich february peace snap weird siren shallow crop";
+var mnemonic = "reveal rack slender attack purpose engine blouse sing tip verify news item";

@@ -1,1 +1,1 @@
-var mnemonic = "hill lazy another during maid knee expire dial around clown chronic zoo";
+var mnemonic = "flag nominee gesture nut bracket exact love humor game dizzy velvet ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion anger imitate pupil margin copy rhythm vessel indoor subject tool match";
+var mnemonic = "piano vicious town grow long ancient control fuel tortoise zone expose cheese";

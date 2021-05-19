@@ -1,1 +1,1 @@
-var mnemonic = "hamster swap audit faith trigger live flag column way joy abstract radio";
+var mnemonic = "alcohol aware beach please heart plate hockey exchange entry limit amount drum";

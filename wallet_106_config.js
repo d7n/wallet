@@ -1,1 +1,1 @@
-var mnemonic = "main august stage between upset enact fabric trouble song science advance doll";
+var mnemonic = "volcano favorite slot speak behind exotic spider bonus abuse fuel whip program";

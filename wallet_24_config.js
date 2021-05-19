@@ -1,1 +1,1 @@
-var mnemonic = "voice cart inmate divorce fever release upon cabbage harsh move reward easy";
+var mnemonic = "check stumble paper rival moral spell earn artist mystery labor awesome wisdom";

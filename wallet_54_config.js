@@ -1,1 +1,1 @@
-var mnemonic = "vote light sphere embrace squeeze fog dizzy proud cheap pencil wish between";
+var mnemonic = "coach play silly profit artist canyon virus spawn course box spot hazard";

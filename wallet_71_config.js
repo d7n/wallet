@@ -1,1 +1,1 @@
-var mnemonic = "battle invest sister april season attend unaware isolate pink raven spoon liberty";
+var mnemonic = "orchard garage arctic talk lab response galaxy dawn kitten item zero valve";

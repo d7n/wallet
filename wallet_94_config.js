@@ -1,1 +1,1 @@
-var mnemonic = "unable flower pear detect echo blush pupil elder gesture swift curve pepper";
+var mnemonic = "just fantasy august gain zoo bamboo position submit squeeze robust slight attitude";

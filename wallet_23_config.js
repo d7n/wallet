@@ -1,1 +1,1 @@
-var mnemonic = "amused science practice history relax prosper cancel afraid also february elbow matrix";
+var mnemonic = "entire bottom educate satoshi vote swap hood super mouse attack spy such";

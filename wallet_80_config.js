@@ -1,1 +1,1 @@
-var mnemonic = "exact talent lunar artwork ankle injury glory tired history dumb hollow nerve";
+var mnemonic = "render cupboard moment clown equal enough pioneer lesson person thank method adult";

@@ -1,1 +1,1 @@
-var mnemonic = "cat say jump opera odor liberty forest horn diet post peace erosion";
+var mnemonic = "rain match camp civil seven license effort jewel sauce garment hollow mail";

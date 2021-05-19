@@ -1,1 +1,1 @@
-var mnemonic = "sibling monster venue caution sudden follow purity saddle fade spare option ripple";
+var mnemonic = "minute kid crater spoil toward goat issue cry bike coconut bright rely";

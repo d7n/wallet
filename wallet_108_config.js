@@ -1,1 +1,1 @@
-var mnemonic = "burden wool civil van index gaze stamp cruise sun apple road jungle";
+var mnemonic = "minor bounce finish sphere vote crawl ridge inch venture home teach fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge summer palm tool floor saddle exercise evoke pretty alter goat lottery";
+var mnemonic = "tip diagram clog pizza mango blouse crunch surface track black enough coyote";

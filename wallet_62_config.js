@@ -1,1 +1,1 @@
-var mnemonic = "genre soon tortoise unfair oval fat casual spoil patrol keep pottery crystal";
+var mnemonic = "weather marine bullet million shadow pole margin pepper retire similar fork rather";

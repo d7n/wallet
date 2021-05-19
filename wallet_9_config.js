@@ -1,1 +1,1 @@
-var mnemonic = "trumpet script evoke tumble evil coffee marine slam shadow bean action news";
+var mnemonic = "pupil ketchup ski distance risk fatigue among trim useful segment barrel road";

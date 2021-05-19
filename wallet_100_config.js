@@ -1,1 +1,1 @@
-var mnemonic = "sunset cherry position demand divert start great art empty order brick flight";
+var mnemonic = "moment dog pipe kite cattle fetch movie begin diet erase shell outside";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely ignore story weapon cycle dog toward hazard clock danger praise liberty";
+var mnemonic = "agree useless ridge cost immune gloom model pizza general congress fringe mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid journey fiscal firm joke update patient void torch brush mobile force";
+var mnemonic = "soldier math decorate wine school certain during fog pitch kingdom fall lesson";

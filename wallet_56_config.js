@@ -1,1 +1,1 @@
-var mnemonic = "document yellow term enter mushroom fan pave there open aerobic garlic surface";
+var mnemonic = "ginger way adapt switch open trial water gym leopard certain sphere orphan";

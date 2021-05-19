@@ -1,1 +1,1 @@
-var mnemonic = "nut want february curve innocent legend gadget village love vendor forget finger";
+var mnemonic = "flat pool deputy enroll mean empty fall aware close carbon gaze scorpion";

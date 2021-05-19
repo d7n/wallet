@@ -1,1 +1,1 @@
-var mnemonic = "roof aisle word undo fork neck keen usual agree apology shock march";
+var mnemonic = "already mad solve real imitate sun snake indicate enrich proof kit feed";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate add word among coral bundle enemy youth silly roof blast buffalo";
+var mnemonic = "salt tomato december stand office toilet brush useful antenna shove olympic sentence";

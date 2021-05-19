@@ -1,1 +1,1 @@
-var mnemonic = "weird announce animal cruel hidden empower round rose echo leaf smooth moon";
+var mnemonic = "stay gravity hand sheriff feed obtain vintage yellow culture pact giggle indicate";

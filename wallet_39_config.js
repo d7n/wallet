@@ -1,1 +1,1 @@
-var mnemonic = "various donate regret slush daughter cube resource alcohol amount milk shaft letter";
+var mnemonic = "rain stem interest arctic outer vapor carry will curtain assault drink rose";

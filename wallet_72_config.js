@@ -1,1 +1,1 @@
-var mnemonic = "truck razor actor learn tiny still snake kitchen exit abstract brother insect";
+var mnemonic = "alley peace chalk column hover divert monkey trophy bracket evil present infant";

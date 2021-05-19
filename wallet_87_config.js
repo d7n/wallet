@@ -1,1 +1,1 @@
-var mnemonic = "slogan face decline gown father age skin canvas annual minute pact side";
+var mnemonic = "machine silver quote bitter nerve enrich farm already good injury trumpet bullet";

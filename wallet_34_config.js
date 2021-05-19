@@ -1,1 +1,1 @@
-var mnemonic = "elevator snack leopard hurry urge garlic hotel era scale dial foil holiday";
+var mnemonic = "brave camp diagram borrow crime lady glove blanket lawsuit sunny private route";

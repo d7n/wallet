@@ -1,1 +1,1 @@
-var mnemonic = "client bone predict conduct submit ostrich glad crowd brave try surround estate";
+var mnemonic = "moment certain edge artist tattoo diamond bean oak nuclear damp crystal place";

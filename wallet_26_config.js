@@ -1,1 +1,1 @@
-var mnemonic = "spy cook outer cube wish habit civil abuse debate parent ask wine";
+var mnemonic = "behind gasp eager moon feed lyrics banner royal purity report jazz one";

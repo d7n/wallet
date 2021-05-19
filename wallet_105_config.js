@@ -1,1 +1,1 @@
-var mnemonic = "payment regret gorilla scorpion local salute chalk rigid battle admit ordinary machine";
+var mnemonic = "elder can swing benefit shoot monitor maximum cup during tragic survey october";

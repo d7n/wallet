@@ -1,1 +1,1 @@
-var mnemonic = "shadow alley tribe ribbon seven differ myth solar welcome favorite habit vanish";
+var mnemonic = "entire runway kiwi magic demand joy bomb fame monster indoor rent velvet";

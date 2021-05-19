@@ -1,1 +1,1 @@
-var mnemonic = "supply state analyst ordinary glimpse popular digital thought execute brave slam dumb";
+var mnemonic = "swear finish flight gospel book salad idea income slush wide dizzy frequent";

@@ -1,1 +1,1 @@
-var mnemonic = "silent cook grass squeeze effort glory capital story sail plate alien code";
+var mnemonic = "galaxy lion minor timber oblige throw subway merry voyage pyramid globe arrest";

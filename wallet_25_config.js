@@ -1,1 +1,1 @@
-var mnemonic = "drive minute goat barrel amazing chicken ready you roof scissors guess latin";
+var mnemonic = "donate manual glimpse brown toss december ice sport bread pattern label hip";

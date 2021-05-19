@@ -1,1 +1,1 @@
-var mnemonic = "undo ring effort hundred key gauge call beach surround report merit toast";
+var mnemonic = "drink tower girl focus skull amount nice wasp annual perfect moon advice";

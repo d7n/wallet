@@ -1,1 +1,1 @@
-var mnemonic = "key mask balance decorate anchor solar plastic erode comfort vicious onion denial";
+var mnemonic = "fix lion match theme nothing code ribbon era mass regret pave tornado";

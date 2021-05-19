@@ -1,1 +1,1 @@
-var mnemonic = "insane trim license view parent toss there blue turtle rude enroll follow";
+var mnemonic = "nurse maple require route journey enrich subject heavy photo envelope opinion extra";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve memory utility south region final orphan parent general cabin another gap";
+var mnemonic = "pen boring host connect around fringe clinic salon club online maximum leader";

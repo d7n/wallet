@@ -1,1 +1,1 @@
-var mnemonic = "version valid top answer math frost adjust legal tuition lazy pizza noodle";
+var mnemonic = "plunge bottom term bless clump budget man mimic surprise expose will lonely";

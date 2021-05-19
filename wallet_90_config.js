@@ -1,1 +1,1 @@
-var mnemonic = "interest climb proof cradle tag deal chalk useless chase evidence north birth";
+var mnemonic = "size glove shine maximum glove nature juice prosper demise swift merit salute";

@@ -1,1 +1,1 @@
-var mnemonic = "patient online obvious famous slow minimum document shed wagon balance fit weird";
+var mnemonic = "license door wear hazard ugly health cotton ghost they crop absent talent";

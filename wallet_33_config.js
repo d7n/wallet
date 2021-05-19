@@ -1,1 +1,1 @@
-var mnemonic = "dust false anger naive bid drum fog exotic hole market common brief";
+var mnemonic = "forum among lumber manage merry tornado renew practice primary mosquito scout penalty";

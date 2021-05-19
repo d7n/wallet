@@ -1,1 +1,1 @@
-var mnemonic = "early melt usual business gorilla prepare neutral nose subway drastic steak mention";
+var mnemonic = "supply place brass adjust bracket dinosaur enough control guess spike raven electric";

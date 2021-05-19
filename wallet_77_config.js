@@ -1,1 +1,1 @@
-var mnemonic = "kingdom dry few appear wink title cube stick cat plug parent royal";
+var mnemonic = "fruit mind lunar left clap bicycle skull ring cover talent table soul";

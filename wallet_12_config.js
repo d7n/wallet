@@ -1,1 +1,1 @@
-var mnemonic = "myself come grace resource blossom awful collect twin sphere stumble mean hidden";
+var mnemonic = "deal meat elegant evolve vintage tribe duty mobile uncle test finger marble";

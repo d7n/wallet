@@ -1,1 +1,1 @@
-var mnemonic = "health buffalo truth atom clever tragic faint embody doll valid clip clock";
+var mnemonic = "warrior afraid pudding fuel rhythm crucial pitch start chaos size core brisk";

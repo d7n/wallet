@@ -1,1 +1,1 @@
-var mnemonic = "brain liar volume metal school filter clog say camp fortune ski equip";
+var mnemonic = "museum summer clever praise shiver fortune hello benefit father health huge elder";

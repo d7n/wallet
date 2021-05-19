@@ -1,1 +1,1 @@
-var mnemonic = "polar prefer truck monkey observe pony okay around marine oak tiny reform";
+var mnemonic = "dress tornado mask alley scrub gesture buddy desert pen castle fog stand";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic tobacco paddle mixed use throw kite between carpet source permit smoke";
+var mnemonic = "account urban kid vacuum hurry arch swap gadget happy ball surge earth";

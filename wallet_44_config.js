@@ -1,1 +1,1 @@
-var mnemonic = "garbage behave tissue useful solar bike achieve benefit fatigue industry approve amount";
+var mnemonic = "wool bamboo jar audit crucial seed trick middle picture panther panther ordinary";

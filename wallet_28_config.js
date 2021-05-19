@@ -1,1 +1,1 @@
-var mnemonic = "lake rebel cream review check frown private boss siren jewel atom prevent";
+var mnemonic = "stand venue few grit owner move grid caution elbow vacant believe already";

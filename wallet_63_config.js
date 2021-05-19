@@ -1,1 +1,1 @@
-var mnemonic = "web ostrich analyst owner hair voice code tunnel found aspect kick olympic";
+var mnemonic = "stable fly taxi grain upgrade magnet surprise kit flock lesson ivory island";

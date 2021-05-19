@@ -1,1 +1,1 @@
-var mnemonic = "okay net wisdom list word twenty pumpkin surround twice soda elephant twin";
+var mnemonic = "main dinosaur doll glass liquid knock hedgehog zone lady sphere hope above";

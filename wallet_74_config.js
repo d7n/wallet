@@ -1,1 +1,1 @@
-var mnemonic = "taxi grant include aerobic fancy erase trap repeat return tail inform embark";
+var mnemonic = "raven midnight patrol bunker health gloom predict bridge cotton radar erode short";

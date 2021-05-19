@@ -1,1 +1,1 @@
-var mnemonic = "remind shiver able heart easily axis river add emotion police agent tail";
+var mnemonic = "media misery hedgehog idle pattern change lady quote casual divert type meadow";

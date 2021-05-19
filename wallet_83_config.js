@@ -1,1 +1,1 @@
-var mnemonic = "address glue upper cushion buyer they toddler endless order denial strong sad";
+var mnemonic = "oppose fork quote dilemma medal kiss clarify curtain exist top web trade";

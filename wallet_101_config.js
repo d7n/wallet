@@ -1,1 +1,1 @@
-var mnemonic = "butter traffic stool steak must attitude scheme hour orbit immune ridge razor";
+var mnemonic = "thing dirt hold whale bubble among region elder ill gown social possible";

@@ -1,1 +1,1 @@
-var mnemonic = "swear solid cereal note notable claw exercise horse render neck inflict mix";
+var mnemonic = "middle symbol crawl resist garlic bike sudden elder option scare foster okay";

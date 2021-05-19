@@ -1,1 +1,1 @@
-var mnemonic = "cannon basic sign device mention steel hollow mix tray allow flock reflect";
+var mnemonic = "fault joke skin mother owner weekend define fork bitter truck define carry";

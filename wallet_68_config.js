@@ -1,1 +1,1 @@
-var mnemonic = "armor essence excess brother tape pudding coyote dog autumn glow divorce enjoy";
+var mnemonic = "basket chase soda talent air icon brain edit ostrich reform explain cabin";

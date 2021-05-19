@@ -1,1 +1,1 @@
-var mnemonic = "happy effort announce moon fever cargo warfare orchard diary dynamic choose sail";
+var mnemonic = "panel nest stamp sorry embody vocal sea flame wage caution manage oxygen";

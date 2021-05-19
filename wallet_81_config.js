@@ -1,1 +1,1 @@
-var mnemonic = "quantum scrap rice ignore tuna rose net regret antique hurdle depart sad";
+var mnemonic = "share depend grief same kit flush exist razor glow submit erase bounce";

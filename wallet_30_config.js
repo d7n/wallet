@@ -1,1 +1,1 @@
-var mnemonic = "slender melt pencil menu pistol lunch combine lend method vivid humor any";
+var mnemonic = "load uniform domain fashion sand wrestle corn plunge heart silver cream rotate";

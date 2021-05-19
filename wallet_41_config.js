@@ -1,1 +1,1 @@
-var mnemonic = "circle wreck carbon flash over all scatter seat welcome method young sword";
+var mnemonic = "annual riot wolf stadium accuse amazing boil sand dentist neutral hospital girl";

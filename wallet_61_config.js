@@ -1,1 +1,1 @@
-var mnemonic = "boring blush embrace appear inhale crucial lobster tackle leaf action suggest lawn";
+var mnemonic = "crumble pulp desk era walk spoil school scrub aunt misery nice memory";

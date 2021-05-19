@@ -1,1 +1,1 @@
-var mnemonic = "leopard across physical holiday general gesture focus join curve kite endless hen";
+var mnemonic = "lady key knife aim leave man suffer bomb device cement palace refuse";

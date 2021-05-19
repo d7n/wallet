@@ -1,1 +1,1 @@
-var mnemonic = "soap click rhythm dry follow rent top duty expand feed bread dirt";
+var mnemonic = "mystery sniff very surprise fortune jar calm clap cattle lift nasty crisp";

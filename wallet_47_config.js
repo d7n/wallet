@@ -1,1 +1,1 @@
-var mnemonic = "offer measure yellow frequent struggle rare fashion mosquito salmon seven illegal doll";
+var mnemonic = "sand employ lady river fish pulp cover possible state attack engine athlete";

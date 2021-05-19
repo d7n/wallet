@@ -1,1 +1,1 @@
-var mnemonic = "obey final share cool around tape need afraid title wet abstract quote";
+var mnemonic = "glare camera adjust tattoo tray gaze method estate eye rely elder proof";

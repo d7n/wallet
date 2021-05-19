@@ -1,1 +1,1 @@
-var mnemonic = "lock blast cricket dizzy venture water chat unaware comfort fence gaze response";
+var mnemonic = "inhale scene rent eagle canoe dumb curtain horror walnut few noise crunch";

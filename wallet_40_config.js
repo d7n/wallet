@@ -1,1 +1,1 @@
-var mnemonic = "index brother acquire govern timber defense shop among gorilla hand team syrup";
+var mnemonic = "gallery fiscal behind fat unaware jazz empower prize shoe ask crime bitter";

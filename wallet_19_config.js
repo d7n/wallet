@@ -1,1 +1,1 @@
-var mnemonic = "push rack exhibit omit pond fresh profit suggest rule cube neck false";
+var mnemonic = "suffer bike special rapid drum catch example torch minimum void sand cake";

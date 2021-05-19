@@ -1,1 +1,1 @@
-var mnemonic = "law loan hover private prefer magic enrich giraffe popular alien upper broken";
+var mnemonic = "muscle make demand bullet clay journey wild immune neutral dream inner guide";

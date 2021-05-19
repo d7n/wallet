@@ -1,1 +1,1 @@
-var mnemonic = "goat payment gaze property naive soul snow reveal core fall harbor toy";
+var mnemonic = "bar tuition police girl silent lizard melody real bird silly chest duck";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll bless tomato end page erode dog moral gossip length gift unable";
+var mnemonic = "maple spike march street electric beyond mushroom rocket devote blush thrive crawl";
