@@ -1,1 +1,1 @@
-var mnemonic = "miss please glad sad admit repeat young guitar priority exile neglect flash";
+var mnemonic = "pipe fold certain jeans alcohol jacket slice armor cube damp brain canal";

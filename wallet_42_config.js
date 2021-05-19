@@ -1,1 +1,1 @@
-var mnemonic = "scan describe rice silly tower protect ability diagram convince gossip before exile";
+var mnemonic = "casino squirrel capable nurse pass weasel orphan whip donate fashion lend cup";

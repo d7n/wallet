@@ -1,1 +1,1 @@
-var mnemonic = "pig around sniff grocery window sail plug lunch chest senior stomach allow";
+var mnemonic = "cost pet consider wrestle fat balcony seek liquid way collect airport vast";

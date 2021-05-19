@@ -1,1 +1,1 @@
-var mnemonic = "frequent sock switch swarm patrol sting noodle shoot sample plug purchase daring";
+var mnemonic = "donor jaguar scorpion review leader tilt slide minute vital fuel trip piece";

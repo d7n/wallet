@@ -1,1 +1,1 @@
-var mnemonic = "ankle warm almost plate inspire settle other survey patient pistol resist million";
+var mnemonic = "load machine eagle flag rug pistol sure film dress fringe visit idle";

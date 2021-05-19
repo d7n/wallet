@@ -1,1 +1,1 @@
-var mnemonic = "old alone frequent small replace home grass diary viable weather upgrade voyage";
+var mnemonic = "hundred unusual machine shove taste olympic snack able coin direct shoe artwork";

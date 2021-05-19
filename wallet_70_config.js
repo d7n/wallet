@@ -1,1 +1,1 @@
-var mnemonic = "pluck click ready spend garden coral deer report bless noble switch kite";
+var mnemonic = "price page conduct boat weekend sun perfect donkey gallery fiction turkey mesh";

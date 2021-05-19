@@ -1,1 +1,1 @@
-var mnemonic = "acid split melody matrix this bright hybrid fix corn person client reopen";
+var mnemonic = "video method grocery into gravity barrel nephew like okay friend settle pond";

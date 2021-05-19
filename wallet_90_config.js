@@ -1,1 +1,1 @@
-var mnemonic = "brick once task try portion despair oyster issue balcony emotion drop brush";
+var mnemonic = "wrist boy business siren lesson miracle goose comfort weapon join visual toe";

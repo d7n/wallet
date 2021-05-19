@@ -1,1 +1,1 @@
-var mnemonic = "idea inner web they poem turkey absurd orange pond hard master juice";
+var mnemonic = "infant push defy spoon noise brand donor index mixed stock tuna chronic";

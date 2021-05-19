@@ -1,1 +1,1 @@
-var mnemonic = "able reflect toast bracket injury misery coconut velvet warfare climb amount drip";
+var mnemonic = "street dilemma check fun bamboo company cousin never genuine chat sad menu";

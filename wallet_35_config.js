@@ -1,1 +1,1 @@
-var mnemonic = "clerk siren neutral eager material model street disagree gallery render pistol potato";
+var mnemonic = "wonder bachelor gauge actor bundle wise relax novel circle layer suit strike";

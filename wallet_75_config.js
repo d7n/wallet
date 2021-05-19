@@ -1,1 +1,1 @@
-var mnemonic = "unable expose rice twelve remove tilt develop certain kiss excuse lonely banner";
+var mnemonic = "problem soup leisure gadget fame crew pool cat only quarter grow clock";

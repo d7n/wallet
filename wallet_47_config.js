@@ -1,1 +1,1 @@
-var mnemonic = "delay change damp vague saddle color thing maze deputy swarm element kiss";
+var mnemonic = "payment dismiss sell cry young bring deny mask genre fluid keen famous";

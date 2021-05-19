@@ -1,1 +1,1 @@
-var mnemonic = "plug snack sadness pave repeat swallow sure invite robot same dwarf jelly";
+var mnemonic = "tired fade wood arm team camera couple loop inmate toe hawk hood";

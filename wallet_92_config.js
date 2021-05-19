@@ -1,1 +1,1 @@
-var mnemonic = "simple seminar initial lava ranch nerve hollow mistake reduce inch achieve special";
+var mnemonic = "call slam viable oxygen aerobic frown slot aerobic slice portion token noble";

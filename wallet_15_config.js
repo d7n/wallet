@@ -1,1 +1,1 @@
-var mnemonic = "traffic forum orchard supply joy license entry reject myth symbol science midnight";
+var mnemonic = "goddess true gadget fire cave laundry bench accuse fortune athlete captain okay";

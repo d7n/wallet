@@ -1,1 +1,1 @@
-var mnemonic = "midnight check fury drum tonight tiny learn pilot seed awake lottery region";
+var mnemonic = "fame buffalo section knee salt awake lab decorate plug large pen dance";

@@ -1,1 +1,1 @@
-var mnemonic = "any lend pride erase thought soap pigeon tiny between surprise town local";
+var mnemonic = "real aerobic couple mail struggle wish metal decade range rely final cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "under arm faint ramp mutual lounge oppose pony buyer empower retire humor";
+var mnemonic = "stairs urban forget laundry volume prevent mad huge visual mosquito shallow photo";

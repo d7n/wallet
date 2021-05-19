@@ -1,1 +1,1 @@
-var mnemonic = "supply jewel before theme autumn elder divorce unknown side car despair chef";
+var mnemonic = "unfair position actress stomach height impose ramp panic crucial extend rigid stool";

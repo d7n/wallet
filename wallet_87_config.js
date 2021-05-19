@@ -1,1 +1,1 @@
-var mnemonic = "wisdom cousin panel advance above purchase inquiry spray traffic stock uncle gasp";
+var mnemonic = "make wave stairs summer parade require domain quality immune bitter ill crystal";

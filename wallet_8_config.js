@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo crunch unfold team umbrella police dirt cool core assume calm carbon";
+var mnemonic = "estate system demand seminar honey wisdom enroll ranch onion aisle front mutual";

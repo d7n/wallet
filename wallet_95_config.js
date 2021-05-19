@@ -1,1 +1,1 @@
-var mnemonic = "remove book cabbage wagon mandate wait wrestle resemble craft program bronze tornado";
+var mnemonic = "cup vapor gentle curtain lonely social joke track visa wet emotion smile";

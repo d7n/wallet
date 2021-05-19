@@ -1,1 +1,1 @@
-var mnemonic = "major siege any tiger kind seed decade fatal family grit arm share";
+var mnemonic = "erase flavor oak jar average supply energy unfair album wagon mobile lion";

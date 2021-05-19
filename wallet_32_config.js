@@ -1,1 +1,1 @@
-var mnemonic = "exhaust balcony power inspire clown figure pig melody absorb trip nice rib";
+var mnemonic = "student chuckle physical trade receive issue wolf utility churn oppose debris blame";

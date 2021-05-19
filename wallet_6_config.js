@@ -1,1 +1,1 @@
-var mnemonic = "flee legend grab topic office cargo aim flash damage april elbow steak";
+var mnemonic = "muffin glue scare zebra success race legal fatigue enact cannon glance core";

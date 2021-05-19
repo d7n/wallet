@@ -1,1 +1,1 @@
-var mnemonic = "stem must search payment rack art cram science anchor whisper minute inspire";
+var mnemonic = "question situate february message entire spice foam loyal warfare primary army stairs";

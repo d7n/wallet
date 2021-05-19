@@ -1,1 +1,1 @@
-var mnemonic = "garbage black weekend toe sight sentence online give fantasy broken worth purpose";
+var mnemonic = "inhale edge very together achieve recipe border space riot auction enact innocent";

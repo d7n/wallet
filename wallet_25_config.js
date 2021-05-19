@@ -1,1 +1,1 @@
-var mnemonic = "cabbage response orange balance cactus balcony relief when limit tongue music wrong";
+var mnemonic = "oven occur neutral valley shy march image tail earn raw veteran give";

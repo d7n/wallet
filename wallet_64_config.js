@@ -1,1 +1,1 @@
-var mnemonic = "feed orchard eight budget humble deal hollow expect cattle december devote face";
+var mnemonic = "change coin blast throw friend unusual switch mixed nation protect intact mask";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet endorse leisure certain divorce because matter limit session avoid train excite";
+var mnemonic = "old estate lesson puppy desert silly fuel liquid erosion primary crash surface";

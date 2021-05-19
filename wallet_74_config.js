@@ -1,1 +1,1 @@
-var mnemonic = "rare cost panel want cruise risk during core team craft boat such";
+var mnemonic = "shock convince ethics design fine water sort vivid deposit agent uncover basic";

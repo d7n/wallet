@@ -1,1 +1,1 @@
-var mnemonic = "donkey stomach card thought roof donate elite north trend asthma hollow ordinary";
+var mnemonic = "course dentist drill park bright sister hen acid girl smooth trumpet loyal";

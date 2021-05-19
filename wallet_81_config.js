@@ -1,1 +1,1 @@
-var mnemonic = "purchase marine subject need barrel stamp bench another bamboo inmate hire raw";
+var mnemonic = "april alcohol practice program frog gentle obey razor skill very biology chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle soul cute hazard civil cute diesel quiz obvious rose sniff pizza";
+var mnemonic = "exile index bike stick woman assume satisfy tower culture chronic once hand";

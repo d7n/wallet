@@ -1,1 +1,1 @@
-var mnemonic = "bronze degree square atom anxiety rice fruit usage primary stereo market repeat";
+var mnemonic = "include leisure silver autumn pen math control lock all inform traffic office";

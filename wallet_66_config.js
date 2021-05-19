@@ -1,1 +1,1 @@
-var mnemonic = "glance melody ritual company order goose wasp general paddle shy village custom";
+var mnemonic = "jewel round venue taste profit pull ensure page melody despair theory tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "grace casino dress divorce casino urge tent dawn tumble saddle that nothing";
+var mnemonic = "bunker load echo remember cash city animal erase thumb run current indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "session chief open present token achieve gentle soldier special magnet skill project";
+var mnemonic = "unaware gym penalty farm tornado park pen bottom phone shop code seed";

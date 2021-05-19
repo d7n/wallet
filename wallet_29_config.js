@@ -1,1 +1,1 @@
-var mnemonic = "illegal ugly rough clever crystal slush find install express leave client kidney";
+var mnemonic = "error smoke satisfy solution snap cabbage bonus kid outer clean crime sting";

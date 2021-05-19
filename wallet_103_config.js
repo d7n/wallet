@@ -1,1 +1,1 @@
-var mnemonic = "whisper winner twelve amazing winner young live replace motor fluid trial dizzy";
+var mnemonic = "fat afford cereal dilemma fog social scrub draw beach essence renew scheme";

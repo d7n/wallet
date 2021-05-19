@@ -1,1 +1,1 @@
-var mnemonic = "history round vault nose wagon vintage recipe endless gate figure stay snap";
+var mnemonic = "pluck win current wear blush high slab shrug educate pony actor easily";

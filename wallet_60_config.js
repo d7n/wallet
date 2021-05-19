@@ -1,1 +1,1 @@
-var mnemonic = "lucky gap frequent state describe real wash catch moment cruel relief sight";
+var mnemonic = "mom return trouble thrive become cause settle pumpkin bone allow basket olympic";

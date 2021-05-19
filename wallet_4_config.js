@@ -1,1 +1,1 @@
-var mnemonic = "alley tunnel piece immune attitude tumble fall govern elevator risk file scale";
+var mnemonic = "volcano glass field slogan amateur file sail brisk employ lazy ask blue";

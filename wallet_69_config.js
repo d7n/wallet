@@ -1,1 +1,1 @@
-var mnemonic = "fantasy shove hockey copper village slogan immune tonight mail casual marine memory";
+var mnemonic = "flavor settle announce chief laundry miss old improve dice magic blush cereal";

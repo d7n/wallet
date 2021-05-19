@@ -1,1 +1,1 @@
-var mnemonic = "dream oak vital work foam across evil decide grab click vast air";
+var mnemonic = "they scorpion soda wave task front offer romance injury effort noise fashion";

@@ -1,1 +1,1 @@
-var mnemonic = "clever movie brisk usual soup fuel case feature absent milk dove order";
+var mnemonic = "rice stock body please modify dune weasel rose eyebrow capital lemon depth";

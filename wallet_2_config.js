@@ -1,1 +1,1 @@
-var mnemonic = "cube quote pumpkin boat twenty endless bubble winter memory sting luggage hill";
+var mnemonic = "inject clog behind rich barely nuclear blind tray switch battle diesel century";

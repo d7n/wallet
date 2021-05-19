@@ -1,1 +1,1 @@
-var mnemonic = "february boring sugar door ready impose observe seek smooth sail bridge notable";
+var mnemonic = "armor better hair merge sniff ecology measure news nothing record radar water";

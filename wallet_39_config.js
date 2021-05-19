@@ -1,1 +1,1 @@
-var mnemonic = "remind century rally yard protect erode estate hope valley surprise pond exhaust";
+var mnemonic = "enough record wire slice ugly talk oven crouch feel style vote hold";

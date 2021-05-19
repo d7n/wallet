@@ -1,1 +1,1 @@
-var mnemonic = "jeans sketch buddy client fitness icon girl result source light fire fix";
+var mnemonic = "surprise orange toast dynamic shove maple side prepare blouse extra moment lamp";

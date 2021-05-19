@@ -1,1 +1,1 @@
-var mnemonic = "raven hero toddler mosquito slow attitude frequent cabin course hurry subject slow";
+var mnemonic = "color lecture rude coast mercy loud cat capital cloud chair purse sadness";

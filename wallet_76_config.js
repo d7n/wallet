@@ -1,1 +1,1 @@
-var mnemonic = "flight bulk dry chapter weather library main fatigue month fix idea material";
+var mnemonic = "south ugly warfare door dust install arctic foot topic idle want primary";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric law patient cable dwarf bonus crime prefer antique option rural tower";
+var mnemonic = "range easily decorate purchase purpose father tribe pattern today nice million pill";

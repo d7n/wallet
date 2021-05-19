@@ -1,1 +1,1 @@
-var mnemonic = "sorry over steak day boy sign wage receive barrel solid verify false";
+var mnemonic = "much engage place shuffle protect six siege casual zone visa apple onion";

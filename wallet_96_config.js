@@ -1,1 +1,1 @@
-var mnemonic = "dawn history oil balcony tail buddy plunge proud nation slush dog glad";
+var mnemonic = "west analyst song drink soul other vivid reform apple obvious top deer";

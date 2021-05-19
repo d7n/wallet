@@ -1,1 +1,1 @@
-var mnemonic = "evolve gain outer energy antenna lab force stereo toddler spoil path pill";
+var mnemonic = "thumb green siege outside disorder giraffe front orchard fuel submit snake coffee";

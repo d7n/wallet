@@ -1,1 +1,1 @@
-var mnemonic = "pulp jar brain slight prison change thank radar pitch excuse vocal soldier";
+var mnemonic = "reopen confirm stock patrol pistol review visa save allow slow hole stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple shove acquire unit tribe prosper legend chronic spell announce core label";
+var mnemonic = "tide enough print town love orient calm conduct extra drastic melody chapter";

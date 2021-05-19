@@ -1,1 +1,1 @@
-var mnemonic = "engage fade kiss sheriff section aerobic garden engage ticket column bounce inherit";
+var mnemonic = "army useless stuff defense release immune any candy team fan snap moon";

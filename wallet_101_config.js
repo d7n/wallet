@@ -1,1 +1,1 @@
-var mnemonic = "typical empower legal suggest ramp hurt apart possible faculty act snow story";
+var mnemonic = "grape marriage like license lazy rent good cement multiply couple badge mom";

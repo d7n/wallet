@@ -1,1 +1,1 @@
-var mnemonic = "absent salmon ketchup typical luggage exact stomach cupboard toward receive evidence sure";
+var mnemonic = "clown witness rival amateur pear indicate about bid expect fabric code diagram";

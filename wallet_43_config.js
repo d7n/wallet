@@ -1,1 +1,1 @@
-var mnemonic = "leisure seminar blind regret zero rain people welcome survey false web retreat";
+var mnemonic = "doctor favorite poet drop thing miss slight code type dinosaur rule economy";

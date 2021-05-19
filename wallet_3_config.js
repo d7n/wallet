@@ -1,1 +1,1 @@
-var mnemonic = "later wide local ginger network demand pull right cluster cement fiscal trim";
+var mnemonic = "zone retire mercy between nerve urge desk tomato gauge fatigue royal suit";

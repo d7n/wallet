@@ -1,1 +1,1 @@
-var mnemonic = "hen frown clog beauty drive rookie stove couple true grow depart injury";
+var mnemonic = "mixture february oppose goddess pulse essay armed exile humor middle another actual";

@@ -1,1 +1,1 @@
-var mnemonic = "gather invest can pole convince gap punch curious endless tortoise sauce train";
+var mnemonic = "actor lake reward salon auction craft anger embrace bundle present buffalo village";

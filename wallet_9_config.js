@@ -1,1 +1,1 @@
-var mnemonic = "program solution sword kitchen claw ignore connect gasp cancel trigger faint romance";
+var mnemonic = "tone powder near bind funny journey decide mistake better spoil sheriff curtain";

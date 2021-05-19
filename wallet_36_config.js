@@ -1,1 +1,1 @@
-var mnemonic = "media urban add protect awful initial exile patient before course bunker chef";
+var mnemonic = "barrel enact that treat panel guide prefer liquid cool shuffle cabbage lens";

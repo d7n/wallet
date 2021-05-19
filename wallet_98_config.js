@@ -1,1 +1,1 @@
-var mnemonic = "olympic float much sentence museum language abuse strong summer lounge announce hand";
+var mnemonic = "move voice purse plate fortune outside path project idle mansion expire radio";

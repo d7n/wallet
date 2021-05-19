@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon tent lawn report start agree atom elegant moral sugar plunge cattle";
+var mnemonic = "amazing visit pupil gorilla gas year element uncover praise salad emotion decrease";

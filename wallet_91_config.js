@@ -1,1 +1,1 @@
-var mnemonic = "kite arena stem patch dizzy charge cage chimney script never narrow moment";
+var mnemonic = "citizen perfect engine water front calm inside couple opinion young empower country";

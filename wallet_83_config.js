@@ -1,1 +1,1 @@
-var mnemonic = "uncle helmet high minute capable sport purpose dawn defy rabbit apple swamp";
+var mnemonic = "salute boy argue nose slow list lady where fit gesture post woman";

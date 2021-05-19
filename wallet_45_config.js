@@ -1,1 +1,1 @@
-var mnemonic = "try post entry educate daring repair season promote total essence figure reunion";
+var mnemonic = "again forward dress program fitness indoor middle require maple rebel force street";

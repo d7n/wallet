@@ -1,1 +1,1 @@
-var mnemonic = "access duty enlist coin clarify permit smart glory indicate swift cover scene";
+var mnemonic = "all output food innocent blade super manual laugh into chase maple slight";

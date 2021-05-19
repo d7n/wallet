@@ -1,1 +1,1 @@
-var mnemonic = "thought pool weasel kit season sight essay ball polar resource organ essay";
+var mnemonic = "goddess fancy need mass north craft panther sunset inspire unique october cluster";

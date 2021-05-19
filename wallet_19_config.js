@@ -1,1 +1,1 @@
-var mnemonic = "umbrella shine swarm loop latin shallow frame hobby sure cliff pizza citizen";
+var mnemonic = "size room song load bonus finger tissue satisfy jazz raw permit step";

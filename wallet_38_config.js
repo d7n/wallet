@@ -1,1 +1,1 @@
-var mnemonic = "color visual fee sure present cluster quit review nest stand flight valley";
+var mnemonic = "shadow nerve speed breeze car noble bulk sand faint nest match file";

@@ -1,1 +1,1 @@
-var mnemonic = "paper route life plate borrow skill catalog devote talk electric affair drop";
+var mnemonic = "spawn permit menu park cloud broccoli cross gain cool level retreat beyond";

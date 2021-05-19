@@ -1,1 +1,1 @@
-var mnemonic = "hope allow acoustic immune diagram mule motion strategy ride stool smoke stove";
+var mnemonic = "capable charge fatal summer shine gauge region audit select forward arm eager";

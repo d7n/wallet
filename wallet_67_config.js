@@ -1,1 +1,1 @@
-var mnemonic = "worth october plug grace young property tennis review another light burger mechanic";
+var mnemonic = "future situate garment blur inhale answer stairs weapon increase reason ignore lava";

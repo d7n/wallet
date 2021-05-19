@@ -1,1 +1,1 @@
-var mnemonic = "steak letter crazy pioneer city endless magic destroy pause tower wreck first";
+var mnemonic = "legend tomato account result weekend child genius loop dinosaur human dress glare";

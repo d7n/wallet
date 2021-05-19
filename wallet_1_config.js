@@ -1,1 +1,1 @@
-var mnemonic = "negative zone cram fever aunt release vanish lounge first salon solar trick";
+var mnemonic = "merry earn address vocal analyst horn very tragic face solution blue nothing";

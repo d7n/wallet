@@ -1,1 +1,1 @@
-var mnemonic = "tool obey silly little remain key submit target march leopard dilemma dish";
+var mnemonic = "practice faith sail fork fossil chimney equip frost hamster above since child";

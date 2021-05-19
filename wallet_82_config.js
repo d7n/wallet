@@ -1,1 +1,1 @@
-var mnemonic = "goddess west rate coin taxi subject wagon virus toss fragile describe announce";
+var mnemonic = "liar balance wool mix reform pill level seminar chuckle brown scrub price";

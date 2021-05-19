@@ -1,1 +1,1 @@
-var mnemonic = "path antenna salt purity hidden submit indicate manage master odor runway expose";
+var mnemonic = "hip brush gallery service negative mercy mosquito sound verb symptom inmate guitar";

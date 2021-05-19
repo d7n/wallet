@@ -1,1 +1,1 @@
-var mnemonic = "egg broccoli finger license drastic work tool unable elephant second settle small";
+var mnemonic = "muffin kitten capable ball soda bunker live wrap sure punch panel divert";

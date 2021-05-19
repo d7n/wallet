@@ -1,1 +1,1 @@
-var mnemonic = "cradle silk rather original copper fame resource still mountain weasel defense reason";
+var mnemonic = "cycle input decrease lesson want learn giant worry huge oxygen deliver undo";
