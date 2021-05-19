@@ -1,1 +1,1 @@
-var mnemonic = "burden recycle few buyer garbage miss blame genre treat piece donkey tourist";
+var mnemonic = "flush focus latin essence search claw few around sight want swim silly";

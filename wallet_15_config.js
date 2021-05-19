@@ -1,1 +1,1 @@
-var mnemonic = "craft inside wrist cram leader obtain client toy keep emotion raw seminar";
+var mnemonic = "kiwi just glove bid dinosaur maple taste expect filter old oblige target";

@@ -1,1 +1,1 @@
-var mnemonic = "dress glove away enter retire sample feel town solution stock reunion tortoise";
+var mnemonic = "object veteran humor giant proof exercise exit make abuse taste auction bleak";

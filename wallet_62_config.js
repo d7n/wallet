@@ -1,1 +1,1 @@
-var mnemonic = "join trophy suspect mother cycle neck seven begin flush museum fiber install";
+var mnemonic = "divide cattle chronic million update flag truly letter impact trick blast dwarf";

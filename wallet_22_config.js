@@ -1,1 +1,1 @@
-var mnemonic = "speed story shrug spawn treat balcony box humble tomato deer motor sense";
+var mnemonic = "excite fashion steel absent ride bicycle window wife sail flavor nest antique";

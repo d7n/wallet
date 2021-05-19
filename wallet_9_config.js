@@ -1,1 +1,1 @@
-var mnemonic = "evolve broccoli athlete clown broccoli ahead saddle walk hidden viable tenant nest";
+var mnemonic = "until armed broken choice spy screen once student moon slow east patient";

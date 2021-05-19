@@ -1,1 +1,1 @@
-var mnemonic = "keep excite expire dumb slender cage knock defy woman vote follow figure";
+var mnemonic = "view amazing figure earth miss abstract bright holiday shallow truck sign tape";

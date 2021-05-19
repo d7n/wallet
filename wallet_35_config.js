@@ -1,1 +1,1 @@
-var mnemonic = "turn soul upper fee coffee critic spend program tongue glue mom dentist";
+var mnemonic = "faculty divert delay fish west print bind actual expose trigger fire orient";

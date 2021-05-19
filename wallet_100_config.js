@@ -1,1 +1,1 @@
-var mnemonic = "endorse flash ridge slogan because wrist boost goose rally wheat pledge bacon";
+var mnemonic = "raven trigger derive talent then eternal gospel waste double public metal domain";

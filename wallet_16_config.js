@@ -1,1 +1,1 @@
-var mnemonic = "naive pretty desert mad yellow wheat dentist frost piece match special ketchup";
+var mnemonic = "dry near awesome fatigue romance siege magnet hospital damp ostrich dinosaur invite";

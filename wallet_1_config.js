@@ -1,1 +1,1 @@
-var mnemonic = "obscure bounce wire arrange grape gospel rely biology page virtual magnet ceiling";
+var mnemonic = "mask snack more crisp fork puppy ritual pigeon swap express margin nerve";

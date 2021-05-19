@@ -1,1 +1,1 @@
-var mnemonic = "retire alert flower right popular believe salute want treat above lobster page";
+var mnemonic = "pair load mom garden bar hire exact empower outer scorpion neutral file";

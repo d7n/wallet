@@ -1,1 +1,1 @@
-var mnemonic = "universe crane assume mother release swallow excess diamond ladder biology fiber rhythm";
+var mnemonic = "genuine airport submit defy speak oblige proof prepare voyage own vacant cook";

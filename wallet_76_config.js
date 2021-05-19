@@ -1,1 +1,1 @@
-var mnemonic = "maid deposit alley manual gallery enact sponsor damage rack company typical include";
+var mnemonic = "nest stage produce junior advice account warfare film spirit danger choice sail";

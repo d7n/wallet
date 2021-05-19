@@ -1,1 +1,1 @@
-var mnemonic = "wild eternal sound corn obey carbon victory swap vivid engage age lift";
+var mnemonic = "stable chat need fork atom imitate caution found honey exchange keep danger";

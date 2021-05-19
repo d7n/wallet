@@ -1,1 +1,1 @@
-var mnemonic = "useful traffic recall visit season uncover night setup twenty silver rug project";
+var mnemonic = "cage crisp body device soap analyst member someone age vault century cancel";

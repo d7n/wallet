@@ -1,1 +1,1 @@
-var mnemonic = "helmet gasp vehicle organ hotel excite midnight obscure circle hero current tenant";
+var mnemonic = "praise daring length vintage entry attitude enable choice spoil flame edge maximum";

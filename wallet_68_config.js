@@ -1,1 +1,1 @@
-var mnemonic = "together impulse panda situate bid original buddy door jar ticket myth clever";
+var mnemonic = "office system equal news run hybrid have peanut keep narrow bonus wrong";

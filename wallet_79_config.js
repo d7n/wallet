@@ -1,1 +1,1 @@
-var mnemonic = "bird aisle artefact cave east nominee sad future sign abandon couple equip";
+var mnemonic = "expose ghost embody excess elite key aerobic water creek bike taste garment";

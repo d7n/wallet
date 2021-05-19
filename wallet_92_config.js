@@ -1,1 +1,1 @@
-var mnemonic = "gossip jeans shoot before tuna crunch video harsh bomb amused purpose vault";
+var mnemonic = "turkey item useless family liar road tell game exile bottom penalty tape";

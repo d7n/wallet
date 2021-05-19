@@ -1,1 +1,1 @@
-var mnemonic = "float impose make father scatter pair great sponsor couple peanut skin sponsor";
+var mnemonic = "left large retreat program hospital damp ordinary very bonus doctor wool pen";

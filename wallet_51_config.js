@@ -1,1 +1,1 @@
-var mnemonic = "lottery radio ecology fox pony cube toast behind left topic pact guard";
+var mnemonic = "return much wage lesson message muscle reject erosion tide address island peanut";

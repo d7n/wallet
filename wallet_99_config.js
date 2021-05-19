@@ -1,1 +1,1 @@
-var mnemonic = "version siege april clever later oven rhythm area pig atom arm frequent";
+var mnemonic = "initial tooth burger chair speed rural direct churn little clip bleak waste";

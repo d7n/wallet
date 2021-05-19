@@ -1,1 +1,1 @@
-var mnemonic = "leader wage claim monkey glide clerk noble episode shy copper adjust ball";
+var mnemonic = "subway antique mention autumn behind dinosaur quiz hint truck original neither mobile";

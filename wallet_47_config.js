@@ -1,1 +1,1 @@
-var mnemonic = "mistake various outdoor relief sunny weird bone physical dismiss game during thumb";
+var mnemonic = "remain extra ship film region sister record naive try grow crystal sign";

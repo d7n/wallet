@@ -1,1 +1,1 @@
-var mnemonic = "endorse desk room glimpse stone furnace toast pluck desk file shift ancient";
+var mnemonic = "lock input choose flip favorite fury original fashion attract hobby shy husband";

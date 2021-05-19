@@ -1,1 +1,1 @@
-var mnemonic = "slight bus urge include scorpion input brief math common draw damage pretty";
+var mnemonic = "later people stadium raven fossil task feel hollow client verify army random";

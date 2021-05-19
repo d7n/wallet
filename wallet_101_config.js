@@ -1,1 +1,1 @@
-var mnemonic = "surface habit prosper fence order boy kiss dignity suspect filter depend valley";
+var mnemonic = "gospel arrest merit toast peace record napkin people post finish seed tongue";

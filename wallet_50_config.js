@@ -1,1 +1,1 @@
-var mnemonic = "rate reunion unhappy poet phrase indicate space cute tragic payment acid ancient";
+var mnemonic = "valve awake enjoy myth pig side defy chef ahead suit egg blast";

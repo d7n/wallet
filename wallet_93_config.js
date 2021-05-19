@@ -1,1 +1,1 @@
-var mnemonic = "manage fresh invite wire zoo tent buzz dwarf window educate proud vote";
+var mnemonic = "lady jump weekend crack nest velvet shine bring indoor truth high light";

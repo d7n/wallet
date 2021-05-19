@@ -1,1 +1,1 @@
-var mnemonic = "because night vicious salt lazy record pencil position cloud gorilla monitor actual";
+var mnemonic = "hunt rice select cargo belt trim spice supreme ice nose warm tomorrow";

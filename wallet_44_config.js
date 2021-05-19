@@ -1,1 +1,1 @@
-var mnemonic = "together helmet purse sword govern enter cable alpha develop broom cave bag";
+var mnemonic = "junk public steel salt common reward surface arctic lava reunion pole settle";

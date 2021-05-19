@@ -1,1 +1,1 @@
-var mnemonic = "hello final bunker daring beyond tomorrow attack festival plate weather worth find";
+var mnemonic = "write gravity flip love desert climb onion antique fatal gaze cotton flee";

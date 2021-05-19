@@ -1,1 +1,1 @@
-var mnemonic = "spin blue cloud primary soft venture paddle agree awkward arrest side shift";
+var mnemonic = "flight fog wide marble offer shy thing chief aim inquiry grain ribbon";

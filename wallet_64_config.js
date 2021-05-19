@@ -1,1 +1,1 @@
-var mnemonic = "child surround high loop endless thought neither wing shield click donate announce";
+var mnemonic = "spice crystal safe stomach ethics inject patrol sister since shrug wedding opinion";

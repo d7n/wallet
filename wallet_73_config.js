@@ -1,1 +1,1 @@
-var mnemonic = "buffalo below vendor deer key trigger general family since next eye upper";
+var mnemonic = "spoon quote peasant shuffle sniff model action fruit science author wild job";

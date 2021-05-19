@@ -1,1 +1,1 @@
-var mnemonic = "way void palace distance ecology rib egg dumb phrase blanket dragon need";
+var mnemonic = "obey impulse away airport rhythm pelican breeze spray siege mixture hello design";

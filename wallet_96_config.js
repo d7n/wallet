@@ -1,1 +1,1 @@
-var mnemonic = "mechanic split thought protect cook leave holiday swallow trade chair train hope";
+var mnemonic = "tooth online stadium jelly melt bid peace lottery coral diet sport oven";

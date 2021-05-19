@@ -1,1 +1,1 @@
-var mnemonic = "grocery artist idle drip biology escape stay cradle exist can demand logic";
+var mnemonic = "box stereo ancient pole today taste chair wing autumn wire benefit file";

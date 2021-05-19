@@ -1,1 +1,1 @@
-var mnemonic = "beyond onion innocent kind addict shift fiscal palace half practice humor this";
+var mnemonic = "labor laptop bachelor sponsor appear split powder talent object trumpet sense uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble pattern clean laptop drive cotton street humble pyramid mail online tower";
+var mnemonic = "shop increase shop physical once teach stuff awesome dove wolf shiver lazy";

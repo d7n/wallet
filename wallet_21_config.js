@@ -1,1 +1,1 @@
-var mnemonic = "crowd obscure street hunt rapid range adult brush book since pistol recycle";
+var mnemonic = "wash object opinion bid nose lounge gauge license bacon juice sauce dirt";

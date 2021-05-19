@@ -1,1 +1,1 @@
-var mnemonic = "gaze car pluck reflect debris icon model talent garbage surprise lazy summer";
+var mnemonic = "insane next crash small panda material cement smooth become color seek know";

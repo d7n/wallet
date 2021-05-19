@@ -1,1 +1,1 @@
-var mnemonic = "yellow enjoy engage stone orbit wet indoor salt turkey plastic love open";
+var mnemonic = "canoe solid addict essence neither faith account they wreck bomb seek slogan";

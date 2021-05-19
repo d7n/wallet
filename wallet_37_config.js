@@ -1,1 +1,1 @@
-var mnemonic = "decline uniform diamond boy wrap truck flag winter wagon zebra opera space";
+var mnemonic = "van bone ship plate this tube era afraid help since addict recycle";

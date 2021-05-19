@@ -1,1 +1,1 @@
-var mnemonic = "sun divide diary subway clutch margin avoid photo floor stove hurry loyal";
+var mnemonic = "kite foot firm online since energy ring trip actor few awesome betray";

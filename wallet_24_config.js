@@ -1,1 +1,1 @@
-var mnemonic = "siege price mushroom benefit warm feature toss blush raise indicate pig poet";
+var mnemonic = "wrap private sell differ ship erosion sword coconut disorder they text once";

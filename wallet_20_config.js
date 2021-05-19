@@ -1,1 +1,1 @@
-var mnemonic = "mercy oyster tag remind defy work atom kitten chat insect sausage river";
+var mnemonic = "keen cliff rare truth super garment dust siren brain half mass taxi";

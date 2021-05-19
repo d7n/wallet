@@ -1,1 +1,1 @@
-var mnemonic = "target smooth always tortoise matrix nominee slogan news energy legal fee thought";
+var mnemonic = "vote cactus artist satisfy tilt manage month seed glory level powder render";

@@ -1,1 +1,1 @@
-var mnemonic = "draw cricket glimpse pole bid learn worth sheriff admit boil foster crush";
+var mnemonic = "poem vanish side cave answer vehicle call movie runway bulk repeat they";

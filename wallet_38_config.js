@@ -1,1 +1,1 @@
-var mnemonic = "resource alarm title snow note saddle receive deputy unfold echo earn miss";
+var mnemonic = "want fence finger core battle elbow tape eternal bullet surround trouble minute";

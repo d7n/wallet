@@ -1,1 +1,1 @@
-var mnemonic = "attitude pull bread broccoli style admit poet arena actual mimic ketchup rotate";
+var mnemonic = "remind enable endless increase better blanket mountain mutual trap federal absent crush";

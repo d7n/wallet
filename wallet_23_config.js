@@ -1,1 +1,1 @@
-var mnemonic = "one comfort snow air announce jazz name worry verify position gravity fun";
+var mnemonic = "ecology sheriff wood skate hand wave curve present lizard column diary october";

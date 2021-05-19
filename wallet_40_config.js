@@ -1,1 +1,1 @@
-var mnemonic = "trim cover return morning advice scare grab olive whisper label swing job";
+var mnemonic = "harsh surface nominee force mix once master transfer violin odor put plastic";

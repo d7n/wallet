@@ -1,1 +1,1 @@
-var mnemonic = "shoot wide rough furnace short snake play hold install nut urban few";
+var mnemonic = "merry math dash document girl verb uncle almost glimpse sell motion isolate";

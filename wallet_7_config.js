@@ -1,1 +1,1 @@
-var mnemonic = "cry volcano dash because employ skull street drum slide sell unaware midnight";
+var mnemonic = "grocery simple design twenty merge supreme decide action express demise august sister";

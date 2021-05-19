@@ -1,1 +1,1 @@
-var mnemonic = "action cube lazy promote add dune seat step situate absent primary reason";
+var mnemonic = "text abandon change service answer empty woman claw garbage joke helmet arrest";

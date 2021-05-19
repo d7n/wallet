@@ -1,1 +1,1 @@
-var mnemonic = "cargo crater dream act toe lab history whisper drum chat decorate summer";
+var mnemonic = "silver century urge toast flush uncover notable exchange outdoor identify slide usual";

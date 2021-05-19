@@ -1,1 +1,1 @@
-var mnemonic = "they ensure ceiling valid install about outside liquid afraid north split conduct";
+var mnemonic = "run genuine danger genuine announce warfare waste erupt bind dismiss express silly";

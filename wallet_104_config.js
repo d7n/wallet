@@ -1,1 +1,1 @@
-var mnemonic = "lecture night huge donkey truth scissors trick grocery judge brick help oyster";
+var mnemonic = "wide kind boost image cabbage defy crucial match canvas live effort when";

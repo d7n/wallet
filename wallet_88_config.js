@@ -1,1 +1,1 @@
-var mnemonic = "mouse liar country acid gym harbor seed rude describe jewel lounge sick";
+var mnemonic = "bottom another foil crucial alone version pelican occur title oppose fit daring";

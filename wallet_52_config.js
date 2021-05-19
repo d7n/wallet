@@ -1,1 +1,1 @@
-var mnemonic = "screen warfare immune raccoon cherry keen wreck pepper opera toddler safe scrap";
+var mnemonic = "tell evolve quote wait custom fix code timber include sudden alcohol wage";

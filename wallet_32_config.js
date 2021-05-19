@@ -1,1 +1,1 @@
-var mnemonic = "seminar tube prosper plate leader until history zero consider kind clever eyebrow";
+var mnemonic = "profit piano pupil million reason jealous machine stereo forum cereal body story";

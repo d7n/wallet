@@ -1,1 +1,1 @@
-var mnemonic = "inch catch craft walnut refuse ghost remain marble announce essay blossom crisp";
+var mnemonic = "verify morning town soul road pitch employ firm immense consider economy dignity";

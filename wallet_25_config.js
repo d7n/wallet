@@ -1,1 +1,1 @@
-var mnemonic = "theme pride win blouse sport whip measure gasp success route two walnut";
+var mnemonic = "gain happy february series boring peace frequent rough pony bitter gate hammer";

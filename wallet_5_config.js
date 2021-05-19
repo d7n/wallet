@@ -1,1 +1,1 @@
-var mnemonic = "local doctor gun yard coyote neither jungle other wine survey struggle mirror";
+var mnemonic = "afraid scan silver twelve crime switch pride change stay catalog client cause";

@@ -1,1 +1,1 @@
-var mnemonic = "right insane party screen goose crouch slim gasp teach recall help scale";
+var mnemonic = "bean genius rude faint upset script swing major romance inform assault wash";

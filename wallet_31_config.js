@@ -1,1 +1,1 @@
-var mnemonic = "autumn craft fetch half dance speak sheriff lab relief slam clock bean";
+var mnemonic = "grid repeat first climb slow gap deny rival receive trend employ retreat";

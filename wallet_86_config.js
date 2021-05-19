@@ -1,1 +1,1 @@
-var mnemonic = "flower cradle bag collect magnet joy today stumble syrup coach derive kiss";
+var mnemonic = "tumble bless crack truly try elite wine device later claw relief gas";

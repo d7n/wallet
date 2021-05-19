@@ -1,1 +1,1 @@
-var mnemonic = "type limb angry elder know brave thing practice clutch dismiss pistol maximum";
+var mnemonic = "gloom genius alarm endless cruel magnet reject subway wealth escape text pilot";

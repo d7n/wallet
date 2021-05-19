@@ -1,1 +1,1 @@
-var mnemonic = "alpha echo giraffe bright impose primary host cinnamon cat view ramp leg";
+var mnemonic = "supply good pledge spike style awake rather flee brisk square butter stereo";

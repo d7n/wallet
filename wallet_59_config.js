@@ -1,1 +1,1 @@
-var mnemonic = "sketch machine plug symbol segment churn rookie stomach balcony clock essence field";
+var mnemonic = "grain secret front leave property help input cost rug alone verb parrot";

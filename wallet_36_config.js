@@ -1,1 +1,1 @@
-var mnemonic = "giraffe clutch sauce fade ranch device exclude busy present pluck post attend";
+var mnemonic = "admit maximum purity early talent race rack photo rain room lottery indoor";

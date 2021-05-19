@@ -1,1 +1,1 @@
-var mnemonic = "sausage pink venue clown chair broom slim foam letter horse embrace modify";
+var mnemonic = "gate fresh lawsuit wage advice emerge verify filter whale perfect domain pink";

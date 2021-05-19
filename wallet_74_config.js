@@ -1,1 +1,1 @@
-var mnemonic = "quote spread rail mushroom tuition valley write liquid theory wild educate east";
+var mnemonic = "pyramid twice stamp region dose claim vessel squeeze runway install ramp hard";

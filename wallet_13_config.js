@@ -1,1 +1,1 @@
-var mnemonic = "radio fury quote never orphan solid air bone verb bright awake puppy";
+var mnemonic = "license kid bomb you drive hammer clean balance marriage secret shove grunt";

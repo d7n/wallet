@@ -1,1 +1,1 @@
-var mnemonic = "tiny slogan genuine warrior year food raccoon early bar make assist attack";
+var mnemonic = "puppy surround make duty defy oblige reward behind hard airport owner dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "high swarm night reflect together napkin model ticket supreme riot expire ordinary";
+var mnemonic = "cloth divert satoshi goose number joke employ manual fiscal erosion antenna nest";

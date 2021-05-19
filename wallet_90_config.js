@@ -1,1 +1,1 @@
-var mnemonic = "profit danger win novel season fame neutral consider dismiss congress sail walk";
+var mnemonic = "elegant wrist memory tragic ankle thunder destroy joy element garment avocado deer";

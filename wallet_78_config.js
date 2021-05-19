@@ -1,1 +1,1 @@
-var mnemonic = "victory furnace hobby push gossip sun pelican hungry dentist pet tomato again";
+var mnemonic = "giggle mutual creek banana input blood staff spare squirrel upgrade dignity swarm";

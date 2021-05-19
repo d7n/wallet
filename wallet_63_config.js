@@ -1,1 +1,1 @@
-var mnemonic = "urge review knock better urban era feel nothing rug tomato north track";
+var mnemonic = "dwarf child pencil fork can abstract estate tiny certain hen giggle clarify";

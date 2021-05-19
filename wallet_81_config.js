@@ -1,1 +1,1 @@
-var mnemonic = "hello forest alert reform slot bright slender thing voice spawn steak mesh";
+var mnemonic = "truck share sustain bottom hurdle become rug enroll dinner rice position glory";

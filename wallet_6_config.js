@@ -1,1 +1,1 @@
-var mnemonic = "neglect fury agree deny love rocket ketchup situate ginger manage duty come";
+var mnemonic = "pass effort easily this carpet friend alone snake series grunt galaxy sword";

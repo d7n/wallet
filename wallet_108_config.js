@@ -1,1 +1,1 @@
-var mnemonic = "number banana champion excess bacon south thing trip lucky gossip burger feature";
+var mnemonic = "taxi arrange beyond soldier topic noise shaft curious vapor gravity science tonight";

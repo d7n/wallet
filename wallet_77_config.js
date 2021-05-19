@@ -1,1 +1,1 @@
-var mnemonic = "govern reveal rebel around timber wolf conduct child never vocal news window";
+var mnemonic = "honey exclude perfect resource unusual abandon swallow speak hidden spend reunion hint";

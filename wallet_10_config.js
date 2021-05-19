@@ -1,1 +1,1 @@
-var mnemonic = "suspect salute kite party soul enrich unique quality health frown coconut route";
+var mnemonic = "couple income impact worth party foster cute ozone disagree book eager lens";

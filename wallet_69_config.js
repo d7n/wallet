@@ -1,1 +1,1 @@
-var mnemonic = "soft alien carry turkey enable remember ripple panic boost steel merry check";
+var mnemonic = "person inject solid earn veteran box copper fish height buffalo amateur autumn";

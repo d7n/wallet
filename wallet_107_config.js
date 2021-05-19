@@ -1,1 +1,1 @@
-var mnemonic = "barely actual suspect inspire orbit snake lonely hamster unusual bus discover tone";
+var mnemonic = "giggle cereal dirt expect hollow axis bridge strategy song tongue acquire never";

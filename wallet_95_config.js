@@ -1,1 +1,1 @@
-var mnemonic = "then bleak lounge stem bid ski visual group march clown gas cook";
+var mnemonic = "gym often broccoli idle cancel crater ten purpose slab alcohol junk inhale";

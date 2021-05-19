@@ -1,1 +1,1 @@
-var mnemonic = "grape pool square couple betray amused awake file bounce identify canyon adjust";
+var mnemonic = "jazz chair hold cherry oval kiwi such boss shuffle junior include bundle";

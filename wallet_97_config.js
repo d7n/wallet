@@ -1,1 +1,1 @@
-var mnemonic = "uncle what magic monster sphere physical recall lab aisle street police dinner";
+var mnemonic = "team tool way voyage remind cement sunny basic demand motor radio frame";

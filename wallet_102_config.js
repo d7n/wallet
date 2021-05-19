@@ -1,1 +1,1 @@
-var mnemonic = "afford tortoise fork erase wreck arrange pool begin invite bulk bulk sand";
+var mnemonic = "duty home return tongue access convince consider excess hockey omit dress sail";

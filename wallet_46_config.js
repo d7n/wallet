@@ -1,1 +1,1 @@
-var mnemonic = "track high gym march envelope pond safe dial nominee wash rack pet";
+var mnemonic = "bottom patient law deer team hole simple art like pipe pitch hold";

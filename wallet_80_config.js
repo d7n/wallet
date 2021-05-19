@@ -1,1 +1,1 @@
-var mnemonic = "engine matter build version toilet bunker simple excuse way merge manual certain";
+var mnemonic = "noble this tuna female car tortoise awesome video wire hurry feel tornado";

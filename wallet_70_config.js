@@ -1,1 +1,1 @@
-var mnemonic = "invite vital radar toddler section pony genuine want winter fan voyage convince";
+var mnemonic = "adapt dish fade decline raw analyst tragic minor spot recall aspect picture";

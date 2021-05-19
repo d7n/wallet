@@ -1,1 +1,1 @@
-var mnemonic = "gospel mind just palace steel coil bus leopard album property weird carbon";
+var mnemonic = "piano foster digital hedgehog abandon early squirrel slot theme large brother decline";
