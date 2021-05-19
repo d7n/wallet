@@ -1,1 +1,1 @@
-var mnemonic = "cross blossom outside remain love absorb garbage save garbage logic other voice";
+var mnemonic = "arch stairs kick vanish senior unfair turn cannon hello myth now stage";

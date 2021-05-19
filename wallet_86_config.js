@@ -1,1 +1,1 @@
-var mnemonic = "april occur runway matrix sadness local cheese mom found unaware pact cage";
+var mnemonic = "sudden glory crane much decide when saddle wisdom fossil poem bracket menu";

@@ -1,1 +1,1 @@
-var mnemonic = "identify earn exclude blouse law sunny tilt upgrade seminar type unhappy odor";
+var mnemonic = "stuff unhappy blind blast actual prison flash crucial soup favorite clap best";

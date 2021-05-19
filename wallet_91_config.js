@@ -1,1 +1,1 @@
-var mnemonic = "dog beach stomach cart nation scrap menu carpet venture level liquid ceiling";
+var mnemonic = "ghost jaguar toe option palm vehicle analyst bamboo gorilla dutch canyon know";

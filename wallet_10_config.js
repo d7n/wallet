@@ -1,1 +1,1 @@
-var mnemonic = "shove loan youth access hover oppose good elegant letter normal corn position";
+var mnemonic = "local hope bread task seed doll inhale flavor little south treat ride";

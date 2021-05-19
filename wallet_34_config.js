@@ -1,1 +1,1 @@
-var mnemonic = "slam dutch whip undo bone siren reward inhale inflict across rude aspect";
+var mnemonic = "since very weapon evoke spring mule glory first burden wave rib famous";

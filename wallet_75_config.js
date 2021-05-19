@@ -1,1 +1,1 @@
-var mnemonic = "wage wisdom garlic usage when yellow grab stool near nurse cake cannon";
+var mnemonic = "glove poet wheel language pumpkin volume dream physical vendor addict silk jewel";

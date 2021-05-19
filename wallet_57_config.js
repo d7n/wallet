@@ -1,1 +1,1 @@
-var mnemonic = "dice night deal tonight armed maze student blood ecology choose envelope whip";
+var mnemonic = "carpet extend angry polar jacket crawl grocery purity gift labor strategy legend";

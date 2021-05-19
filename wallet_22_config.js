@@ -1,1 +1,1 @@
-var mnemonic = "provide permit layer cook industry deliver arrange garment miss athlete drama thing";
+var mnemonic = "paper media ecology member hip thought path social fat tongue oppose trash";

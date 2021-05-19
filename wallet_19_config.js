@@ -1,1 +1,1 @@
-var mnemonic = "six accuse subway claw bright giraffe morning firm wrap you brief lesson";
+var mnemonic = "language tube task artist twist way easy bird stage hurdle bottom random";

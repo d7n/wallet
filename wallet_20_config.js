@@ -1,1 +1,1 @@
-var mnemonic = "hospital exclude century orange excuse brisk noble catch control stove lift never";
+var mnemonic = "quarter bean matter embark mad poverty matrix box ride giggle wire arrange";

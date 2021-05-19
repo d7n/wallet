@@ -1,1 +1,1 @@
-var mnemonic = "tent invest radio ahead famous nephew law gesture step crazy knife shaft";
+var mnemonic = "moment charge path unhappy fuel coach cherry margin olive trumpet museum grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis fury detail thunder jazz cook nasty fuel nominee around tongue height";
+var mnemonic = "error hamster average chuckle stock buddy affair skull organ language course nerve";

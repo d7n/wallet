@@ -1,1 +1,1 @@
-var mnemonic = "busy home target away category endless kid never tooth monster melt trim";
+var mnemonic = "shuffle shock faint mom dry blanket cart ugly pair ocean people milk";

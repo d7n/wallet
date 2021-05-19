@@ -1,1 +1,1 @@
-var mnemonic = "family sugar chicken differ claw fatigue myself blood host despair acid plastic";
+var mnemonic = "general solution opinion meat sand trial panda umbrella oppose click impulse element";

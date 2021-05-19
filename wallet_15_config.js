@@ -1,1 +1,1 @@
-var mnemonic = "grace elegant idea history outside flee correct left embrace bright element focus";
+var mnemonic = "ride they fortune prosper shrug orange eagle spatial hurt large bomb estate";

@@ -1,1 +1,1 @@
-var mnemonic = "segment conduct acquire ivory animal beauty intact under morning high custom tragic";
+var mnemonic = "surround army quarter bachelor stock excite april gather sad multiply predict harbor";

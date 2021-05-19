@@ -1,1 +1,1 @@
-var mnemonic = "sense tone festival tunnel sweet paddle front orient marine trip annual edge";
+var mnemonic = "horn nice cat wait valley stand sugar auto ride scare antenna spider";

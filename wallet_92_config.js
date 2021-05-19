@@ -1,1 +1,1 @@
-var mnemonic = "mad trend pond group access hard power sibling digital actual else pledge";
+var mnemonic = "vague squirrel cricket blue ship virtual river verb salt ugly exhaust sponsor";

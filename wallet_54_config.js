@@ -1,1 +1,1 @@
-var mnemonic = "notable borrow task inject flee actress chicken club simple visa casino green";
+var mnemonic = "escape amount airport debris joy clarify runway total grief machine spare slush";

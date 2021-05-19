@@ -1,1 +1,1 @@
-var mnemonic = "pet action able north opera box february lecture spatial soccer script client";
+var mnemonic = "pen since balcony total become dwarf acoustic opinion year airport sorry seed";

@@ -1,1 +1,1 @@
-var mnemonic = "woman emerge arch census another rural infant canoe bitter concert lady song";
+var mnemonic = "tower actor outer nose scare kit sauce pupil online flee deer unlock";

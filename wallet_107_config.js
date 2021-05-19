@@ -1,1 +1,1 @@
-var mnemonic = "wheat ride tail differ pond behave casual summer wood scan warm answer";
+var mnemonic = "city fine very mass various female jealous split frame ginger script radio";

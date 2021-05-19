@@ -1,1 +1,1 @@
-var mnemonic = "talent today pretty advance quiz help bonus outdoor kiss describe grain song";
+var mnemonic = "chapter frown stadium friend debris nut modify stone detect perfect pulp kidney";

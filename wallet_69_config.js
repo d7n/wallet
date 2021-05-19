@@ -1,1 +1,1 @@
-var mnemonic = "faith work reform comic patrol pull truly excite prefer fabric tuition voyage";
+var mnemonic = "style rebel inhale anxiety staff hello city debate trouble bulk original noodle";

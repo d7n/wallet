@@ -1,1 +1,1 @@
-var mnemonic = "core equal van feature range skirt exercise spider admit theme general own";
+var mnemonic = "panther armed device basket narrow ladder wreck flush home gather fun gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "girl vital cup moon else core neck below pelican island elder lamp";
+var mnemonic = "agent sound idle execute onion claim enrich dizzy excuse upgrade number zoo";

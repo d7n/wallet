@@ -1,1 +1,1 @@
-var mnemonic = "park drip forget frozen mutual farm luxury famous upset bronze found cricket";
+var mnemonic = "average trap course fever sense manage chimney clay nothing multiply donate census";

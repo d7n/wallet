@@ -1,1 +1,1 @@
-var mnemonic = "ostrich drum army position nurse silent predict casual transfer seek chalk ceiling";
+var mnemonic = "elephant someone ostrich indoor seed leg holiday pool tag depend garbage million";

@@ -1,1 +1,1 @@
-var mnemonic = "dance book stage zero annual stairs mother foot dinner approve powder such";
+var mnemonic = "smoke usual orange magnet category sort trap apology very resemble direct puppy";

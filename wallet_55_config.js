@@ -1,1 +1,1 @@
-var mnemonic = "art find want cake glass behind blind anger excuse leopard van add";
+var mnemonic = "dutch opera legend snack enter clean amount unable broccoli case blade equal";

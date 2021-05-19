@@ -1,1 +1,1 @@
-var mnemonic = "decorate cotton hidden duty swift solar alcohol blanket code shock silly pottery";
+var mnemonic = "receive next detect discover frog spray secret organ concert mushroom price tent";

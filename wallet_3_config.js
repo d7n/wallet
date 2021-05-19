@@ -1,1 +1,1 @@
-var mnemonic = "tide execute gather label zebra boat noise position snap gather circle primary";
+var mnemonic = "bounce orange solar apple marriage night color suggest column faith tooth buzz";

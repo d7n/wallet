@@ -1,1 +1,1 @@
-var mnemonic = "head believe axis drill margin roof hub idle object evidence soul hidden";
+var mnemonic = "memory brick grow spoon life cycle wire section exchange alien stumble sadness";

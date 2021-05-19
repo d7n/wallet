@@ -1,1 +1,1 @@
-var mnemonic = "unable jar hair blur example together fluid kind fluid dawn clinic poet";
+var mnemonic = "patch neck satoshi welcome awful truth tell main deny access mom census";

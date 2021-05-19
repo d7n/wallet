@@ -1,1 +1,1 @@
-var mnemonic = "gate shift replace violin rain thrive hub charge acid inmate pyramid skin";
+var mnemonic = "pizza crater phone jeans garlic kidney raise palace text toward spy amateur";

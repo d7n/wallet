@@ -1,1 +1,1 @@
-var mnemonic = "spray ceiling animal episode sign give need warrior fog walk audit wild";
+var mnemonic = "perfect mushroom chunk tone delay allow diary tackle ticket captain vault there";

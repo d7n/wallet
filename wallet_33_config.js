@@ -1,1 +1,1 @@
-var mnemonic = "cherry average nasty produce parade future clog radio expose love expose eight";
+var mnemonic = "sort cargo hood toy shy tree innocent noise grunt adjust become blood";

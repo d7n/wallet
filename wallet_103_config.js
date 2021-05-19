@@ -1,1 +1,1 @@
-var mnemonic = "equal cook near ranch word poet lottery question extend omit loop before";
+var mnemonic = "three drama dragon laugh focus shoot system tide force spoil urban hip";

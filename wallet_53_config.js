@@ -1,1 +1,1 @@
-var mnemonic = "urban water cattle track cement fix lottery night hover empower buzz clarify";
+var mnemonic = "clutch follow coach chalk gift napkin spread thumb divorce apple biology fish";

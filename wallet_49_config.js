@@ -1,1 +1,1 @@
-var mnemonic = "know roof slice dwarf height drill right situate shiver market kidney describe";
+var mnemonic = "wink bargain wing yard grace cancel wave zone retire cycle execute taste";

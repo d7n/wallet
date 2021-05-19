@@ -1,1 +1,1 @@
-var mnemonic = "awful young exact long chat vacant confirm result proof duck off abandon";
+var mnemonic = "tornado chaos leg agent decide galaxy inside then mixture plug flight response";

@@ -1,1 +1,1 @@
-var mnemonic = "host shallow virtual reveal action letter pigeon chimney police liberty doctor donkey";
+var mnemonic = "vendor fringe century evil boost oxygen estate frost secret dinosaur dirt trust";

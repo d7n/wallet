@@ -1,1 +1,1 @@
-var mnemonic = "tiny cave lobster clock wrist loop friend leg blouse cereal brain naive";
+var mnemonic = "juice rude quick gravity allow provide today oil reward put air deputy";

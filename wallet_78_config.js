@@ -1,1 +1,1 @@
-var mnemonic = "brick toast fun pill december rally response have addict verb armor network";
+var mnemonic = "fantasy beef pumpkin shadow sick someone depend shiver three atom survey just";

@@ -1,1 +1,1 @@
-var mnemonic = "torch cotton recipe huge energy bread tree crush sea utility book during";
+var mnemonic = "judge logic scorpion cotton sleep news skill tackle manage bone clerk comfort";

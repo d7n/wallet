@@ -1,1 +1,1 @@
-var mnemonic = "extra stuff random capable screen gravity glove town kiwi engine ask media";
+var mnemonic = "danger option syrup put chef cheese inject rude pulp family chuckle place";

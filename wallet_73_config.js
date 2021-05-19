@@ -1,1 +1,1 @@
-var mnemonic = "bench album south amount project chaos stick humble genius olympic hip meadow";
+var mnemonic = "during cat labor grace salon rude wedding regret clever puppy bleak shield";

@@ -1,1 +1,1 @@
-var mnemonic = "shift educate balance uniform group bullet spread grace three economy connect manage";
+var mnemonic = "awkward method mind neither feel address swing buyer increase fabric mom poem";

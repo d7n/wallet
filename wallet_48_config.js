@@ -1,1 +1,1 @@
-var mnemonic = "approve song steak wage horn vague artefact release swamp kit radio future";
+var mnemonic = "slide half edit bright mail wolf expect target arrow sweet drink fan";

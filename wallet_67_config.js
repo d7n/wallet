@@ -1,1 +1,1 @@
-var mnemonic = "coyote spider steel guess spice plastic seminar damage update culture art glad";
+var mnemonic = "hybrid borrow humble slot cheese faith addict slender income intact limb typical";

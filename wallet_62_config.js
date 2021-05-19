@@ -1,1 +1,1 @@
-var mnemonic = "orient feed cement shadow infant toe nut library oval pony slender smooth";
+var mnemonic = "home artwork high intact hunt struggle near south loud egg achieve ice";

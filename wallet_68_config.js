@@ -1,1 +1,1 @@
-var mnemonic = "used expect one legend goat sausage valve escape across manage arena stove";
+var mnemonic = "glue right proof faith crisp deal portion three obvious few couch fragile";

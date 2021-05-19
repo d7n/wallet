@@ -1,1 +1,1 @@
-var mnemonic = "leopard board blanket display girl side wear mom bleak chimney talent swing";
+var mnemonic = "crucial toy road sea plug first online describe body giraffe sort arena";

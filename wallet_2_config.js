@@ -1,1 +1,1 @@
-var mnemonic = "dog cost when twist two effort vivid camp hurry vault metal robust";
+var mnemonic = "electric agent seed illegal pupil wing rib silver boss sting bring inflict";

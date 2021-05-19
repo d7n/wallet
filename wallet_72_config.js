@@ -1,1 +1,1 @@
-var mnemonic = "legal volume goddess liar female entire execute truth define silk boss stick";
+var mnemonic = "hurt scare print despair gain pepper feed boy hidden supply solid print";

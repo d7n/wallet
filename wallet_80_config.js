@@ -1,1 +1,1 @@
-var mnemonic = "race hamster wait rain armor miss donate fame fashion rally derive athlete";
+var mnemonic = "liquid salmon tackle salt bitter destroy good tennis begin oak any play";

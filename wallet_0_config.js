@@ -1,1 +1,1 @@
-var mnemonic = "broken alter bulb debate seven weather nest drama portion smooth manage merge";
+var mnemonic = "casino burden amused patrol cement horn choose latin invest nuclear human place";

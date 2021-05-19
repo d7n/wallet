@@ -1,1 +1,1 @@
-var mnemonic = "neutral twice asset defy reject crazy guide melt drum drum juice valid";
+var mnemonic = "throw potato asthma pride spin paddle couch comfort achieve vibrant try multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "stand window acid tooth luggage giggle room network rapid lion song endless";
+var mnemonic = "mansion peace sick very flush ignore slam thought nuclear slush seed leopard";

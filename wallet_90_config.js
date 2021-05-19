@@ -1,1 +1,1 @@
-var mnemonic = "recipe powder extend summer where clarify apart key mask error shoulder humble";
+var mnemonic = "extra oak annual picnic rifle peace excite accuse warrior lemon twin brain";

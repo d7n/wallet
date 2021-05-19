@@ -1,1 +1,1 @@
-var mnemonic = "wrestle lend genuine elite install author cement family hair light adjust sorry";
+var mnemonic = "erode humble mushroom book transfer shine isolate nest dress butter door client";

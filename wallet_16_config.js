@@ -1,1 +1,1 @@
-var mnemonic = "parade visa cause sport load illegal truck word infant because hurt arctic";
+var mnemonic = "list solve derive liar invite reduce cruel beauty mobile lady mixed sunset";

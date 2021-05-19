@@ -1,1 +1,1 @@
-var mnemonic = "six desk space such crack model connect arena submit hamster rug merit";
+var mnemonic = "actor swamp double crater arrange crouch knee galaxy physical afford supply dwarf";

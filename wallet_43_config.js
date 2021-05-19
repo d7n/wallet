@@ -1,1 +1,1 @@
-var mnemonic = "profit talk jaguar hurdle raven neglect nuclear fruit assist tomato brave express";
+var mnemonic = "slice audit spider hunt castle fluid viable taxi state convince appear prefer";

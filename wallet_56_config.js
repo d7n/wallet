@@ -1,1 +1,1 @@
-var mnemonic = "ridge uncle faint security usual echo clump assist flower ostrich car cotton";
+var mnemonic = "local goat dance trophy another bike powder capital knife draw lyrics garden";

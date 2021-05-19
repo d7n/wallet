@@ -1,1 +1,1 @@
-var mnemonic = "supreme arch whip awful decorate strong wife senior youth sweet window assume";
+var mnemonic = "trouble relax science winter quiz daring tuna resemble anger close smart raise";

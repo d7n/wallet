@@ -1,1 +1,1 @@
-var mnemonic = "clip wide same baby flush nature drive sight surge rail cricket settle";
+var mnemonic = "dash fantasy ocean typical correct cheap decline distance music vivid supreme tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "crop cabbage text cricket cupboard car close envelope warrior diesel year camera";
+var mnemonic = "engage patrol rapid curious place general decide crop timber oblige index audit";

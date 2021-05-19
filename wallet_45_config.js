@@ -1,1 +1,1 @@
-var mnemonic = "pipe stick error consider shop frost lunch latin fiction arrow attend private";
+var mnemonic = "mosquito tilt help pet agree theory evoke cheap best elephant rice galaxy";

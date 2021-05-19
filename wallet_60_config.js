@@ -1,1 +1,1 @@
-var mnemonic = "price when film again wave poem cancel pyramid girl voice grunt reopen";
+var mnemonic = "hybrid garment wealth better enforce advance sting plastic minute fury oval flock";

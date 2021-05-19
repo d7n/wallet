@@ -1,1 +1,1 @@
-var mnemonic = "near kingdom autumn sail pistol dilemma salad egg mystery theory ritual soul";
+var mnemonic = "art riot edit gossip enact left skill cousin dizzy jazz pet any";

@@ -1,1 +1,1 @@
-var mnemonic = "frown achieve hat hockey bacon buzz rigid deposit turn blush harbor foot";
+var mnemonic = "nose offer salad razor special silent again evolve warrior length winter middle";

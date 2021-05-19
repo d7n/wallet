@@ -1,1 +1,1 @@
-var mnemonic = "loud dinosaur bless city wasp coyote fortune clutch rain target grain other";
+var mnemonic = "curtain render syrup setup explain arrest cradle again organ mix girl keep";

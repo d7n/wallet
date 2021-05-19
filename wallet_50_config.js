@@ -1,1 +1,1 @@
-var mnemonic = "shift cute antenna surface broken problem olympic timber label average glide scale";
+var mnemonic = "feature mixed critic leaf very mouse foam unveil cheese fame negative broom";

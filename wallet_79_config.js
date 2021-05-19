@@ -1,1 +1,1 @@
-var mnemonic = "draw proud satoshi fall heart ugly gorilla card arrive again book special";
+var mnemonic = "common maze size prize essay clay already rhythm tired punch crystal control";

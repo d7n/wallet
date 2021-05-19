@@ -1,1 +1,1 @@
-var mnemonic = "swarm dentist girl client scrap riot rail hotel exit honey family coil";
+var mnemonic = "tuition wrong original donkey party tornado coffee opinion half snack enrich bullet";

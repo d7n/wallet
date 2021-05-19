@@ -1,1 +1,1 @@
-var mnemonic = "boring carry beauty grid collect lock deny jar they airport deal nominee";
+var mnemonic = "share curious theory opinion front thank enlist gravity box cram doctor novel";

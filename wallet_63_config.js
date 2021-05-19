@@ -1,1 +1,1 @@
-var mnemonic = "pause bag dune cradle under solve pupil baby nuclear link execute never";
+var mnemonic = "few defy toast cancel town fall odor pole bacon picnic dove monkey";

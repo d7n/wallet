@@ -1,1 +1,1 @@
-var mnemonic = "soda dizzy flower dash sausage void industry text plate volcano service sustain";
+var mnemonic = "asset motion merit planet hidden domain vessel skull build wish rotate air";

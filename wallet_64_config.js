@@ -1,1 +1,1 @@
-var mnemonic = "ghost shift lamp tunnel dilemma become truly box box galaxy slab party";
+var mnemonic = "tuition refuse liar crunch unhappy since lake cricket prevent pulse great pepper";

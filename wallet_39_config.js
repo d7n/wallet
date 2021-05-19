@@ -1,1 +1,1 @@
-var mnemonic = "weapon wing quit drink layer audit mail card online lava consider sun";
+var mnemonic = "field skill breeze side debris strategy decorate pattern zone talk put surge";

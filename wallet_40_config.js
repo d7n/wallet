@@ -1,1 +1,1 @@
-var mnemonic = "scale sting theme swift judge kite flight umbrella eternal rare notice tree";
+var mnemonic = "chalk impose page kiss weapon elder fly add conduct soda bachelor start";

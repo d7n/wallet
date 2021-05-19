@@ -1,1 +1,1 @@
-var mnemonic = "chicken access gasp stamp rice wet chef drastic grant basic quantum unveil";
+var mnemonic = "behind bounce level arm exhaust unlock glass easy release rough episode moment";

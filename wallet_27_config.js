@@ -1,1 +1,1 @@
-var mnemonic = "lens priority bronze affair scorpion will expect fitness rifle action wheat nut";
+var mnemonic = "hedgehog siren forum small odor recipe amateur roof auction hat timber chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse hobby delay over team nature husband give maple security decorate approve";
+var mnemonic = "leave often lunar ensure job pattern divorce found gift release motor title";

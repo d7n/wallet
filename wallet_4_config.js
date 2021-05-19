@@ -1,1 +1,1 @@
-var mnemonic = "hip color loan define nuclear dream solid tiger travel kingdom anger luxury";
+var mnemonic = "fluid topic seat injury daring link female enforce grit move speed favorite";

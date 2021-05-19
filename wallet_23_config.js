@@ -1,1 +1,1 @@
-var mnemonic = "embrace armor sudden dolphin pudding snap invest draw metal valve fly liquid";
+var mnemonic = "bar student crop foot problem prevent buyer segment this burger exercise tank";

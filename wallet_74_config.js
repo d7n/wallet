@@ -1,1 +1,1 @@
-var mnemonic = "admit scheme wealth ripple pumpkin million tourist memory since spoil stereo blossom";
+var mnemonic = "again type afford pledge plug feed oven sail sausage volcano garlic there";

@@ -1,1 +1,1 @@
-var mnemonic = "unique evidence accuse hundred biology lunch predict lamp stumble elevator dust fog";
+var mnemonic = "dash venue detail review sustain equal issue arm hospital sister three wreck";
