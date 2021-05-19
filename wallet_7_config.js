@@ -1,1 +1,1 @@
-var mnemonic = "acoustic insect angry crucial rookie ramp maximum talk rely exclude slab shuffle";
+var mnemonic = "inhale turn throw artefact feed velvet cloud warrior pig mix fiscal poverty";

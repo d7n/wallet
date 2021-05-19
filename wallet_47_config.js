@@ -1,1 +1,1 @@
-var mnemonic = "stumble visa step sick list whisper better bridge sentence spike head gun";
+var mnemonic = "lawn athlete clarify impact primary tongue nest wrap knee fluid lab lake";

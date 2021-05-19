@@ -1,1 +1,1 @@
-var mnemonic = "road note problem double gather destroy blanket nature shell farm zero output";
+var mnemonic = "phrase start destroy soap try mouse lunch hen differ team route evolve";

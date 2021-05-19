@@ -1,1 +1,1 @@
-var mnemonic = "midnight trim blind relax room initial edge path ozone marine grunt milk";
+var mnemonic = "about other blur skin valley report expose page adult drip chuckle potato";

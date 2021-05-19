@@ -1,1 +1,1 @@
-var mnemonic = "cement budget indoor truth gap say faith pet clown buffalo basket couple";
+var mnemonic = "scene copper frog frequent hotel host this torch lottery produce combine illness";

@@ -1,1 +1,1 @@
-var mnemonic = "warm deliver drop garbage say domain convince pond dash pet hurry coil";
+var mnemonic = "main kangaroo affair width subject believe glimpse venue rare jelly fluid brush";

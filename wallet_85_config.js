@@ -1,1 +1,1 @@
-var mnemonic = "give gadget wear ski gown frost chest equal fitness aerobic useless phrase";
+var mnemonic = "fish february aerobic quick method female will loan smile pond exchange fat";

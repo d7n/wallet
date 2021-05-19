@@ -1,1 +1,1 @@
-var mnemonic = "stuff stairs rose market deal hood teach square bread arctic two dad";
+var mnemonic = "spend tooth chalk visa bicycle crouch vacant verb age typical math maximum";

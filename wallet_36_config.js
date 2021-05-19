@@ -1,1 +1,1 @@
-var mnemonic = "senior woman where problem fix cheap what satoshi father purpose blood code";
+var mnemonic = "guide lamp bean present soul belt account cruise indoor nut crime call";

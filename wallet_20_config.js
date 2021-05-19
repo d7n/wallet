@@ -1,1 +1,1 @@
-var mnemonic = "august bird dismiss immune muscle work tenant afford denial over wet dawn";
+var mnemonic = "odor upon toss magic parade useless science cradle tenant border scrub minor";

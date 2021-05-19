@@ -1,1 +1,1 @@
-var mnemonic = "shield hurry volcano toast eternal letter balance fan soft long noise paddle";
+var mnemonic = "diamond galaxy climb village inform basket balcony salt strategy unfair robust unlock";

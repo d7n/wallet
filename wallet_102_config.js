@@ -1,1 +1,1 @@
-var mnemonic = "hospital quit filter cousin swamp error merit tide explain frog swing cook";
+var mnemonic = "goddess grief cousin air notice genius chat narrow state galaxy roast bleak";

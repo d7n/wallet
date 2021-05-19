@@ -1,1 +1,1 @@
-var mnemonic = "hollow jewel cluster machine surprise hedgehog match exclude olive green enough minor";
+var mnemonic = "credit sentence salt city quote device indoor member throw weapon call together";

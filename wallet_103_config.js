@@ -1,1 +1,1 @@
-var mnemonic = "course tide amazing crowd chalk follow fossil critic warfare wine sad test";
+var mnemonic = "also sun brown eager pond drift despair essence meadow own essence enter";

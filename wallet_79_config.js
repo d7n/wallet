@@ -1,1 +1,1 @@
-var mnemonic = "kind leave normal habit cross apology differ clog hidden chief define exchange";
+var mnemonic = "toe exile unhappy enhance seat merge govern balcony mother start scheme receive";

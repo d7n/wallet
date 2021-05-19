@@ -1,1 +1,1 @@
-var mnemonic = "escape merit winter truck confirm scheme kitten price enforce pony pilot zone";
+var mnemonic = "banana dry cash ritual rescue film okay ready sudden venture note lunar";

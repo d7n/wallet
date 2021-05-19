@@ -1,1 +1,1 @@
-var mnemonic = "tumble attitude sell choose fork situate obey book potato female welcome scrub";
+var mnemonic = "leg disorder always will bar amount buddy adult family attitude wait slam";

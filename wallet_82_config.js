@@ -1,1 +1,1 @@
-var mnemonic = "robust inner permit indicate mechanic gentle lady rib skin morning valid pear";
+var mnemonic = "protect flavor address trade camera into test business mistake distance roast term";

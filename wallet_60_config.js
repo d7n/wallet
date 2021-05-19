@@ -1,1 +1,1 @@
-var mnemonic = "layer hurry thunder once unlock pause chimney end expand debate aim shaft";
+var mnemonic = "resemble icon enrich omit blast hair census gospel upon survey fall hunt";

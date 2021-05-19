@@ -1,1 +1,1 @@
-var mnemonic = "educate west chair camp chat label swarm release snake milk alarm dress";
+var mnemonic = "cannon elegant fun room fat coin inside common width office vacant mix";

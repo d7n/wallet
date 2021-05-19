@@ -1,1 +1,1 @@
-var mnemonic = "just corn unfair thing three ball six clay winner mansion page birth";
+var mnemonic = "catalog control hill utility cream dentist sort cage glance muscle desert width";

@@ -1,1 +1,1 @@
-var mnemonic = "legend shiver drive goat rocket insane destroy salt human grain wave finger";
+var mnemonic = "hammer demand favorite expect true loyal private setup young critic category cotton";

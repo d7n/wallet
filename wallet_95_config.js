@@ -1,1 +1,1 @@
-var mnemonic = "neutral scatter stand bulb protect easily speak moon obey toy arm february";
+var mnemonic = "junk blade spike adapt silly zebra depth over valve duty blossom change";

@@ -1,1 +1,1 @@
-var mnemonic = "system real trumpet grunt message trial aim indoor danger bright inspire injury";
+var mnemonic = "invest clinic canal flee special artwork monkey occur hedgehog use approve security";

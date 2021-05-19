@@ -1,1 +1,1 @@
-var mnemonic = "walk gather lava kite number father grief tragic diagram alert limit range";
+var mnemonic = "hockey coral pill differ parrot pride sister banana open minor crunch bike";

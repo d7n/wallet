@@ -1,1 +1,1 @@
-var mnemonic = "exhibit brick room profit home bar stuff popular glass mobile divide reform";
+var mnemonic = "violin evoke vibrant exile heavy hollow coast bulb soft fiscal affair toilet";

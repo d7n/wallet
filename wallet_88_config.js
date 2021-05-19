@@ -1,1 +1,1 @@
-var mnemonic = "soldier erupt night become omit tenant pudding genius target about canyon allow";
+var mnemonic = "strong range jacket ability strike absent hub endless drastic surround cattle primary";

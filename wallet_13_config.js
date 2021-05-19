@@ -1,1 +1,1 @@
-var mnemonic = "cactus kick scale stool pluck thunder fun prefer notice drift alley measure";
+var mnemonic = "rural deposit time gorilla marriage will robust pulp bridge flee gallery uniform";

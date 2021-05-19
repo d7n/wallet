@@ -1,1 +1,1 @@
-var mnemonic = "birth call away rice adjust peanut nut wonder boss large train inch";
+var mnemonic = "want coffee ten capital tag ignore coil ticket upper region autumn same";

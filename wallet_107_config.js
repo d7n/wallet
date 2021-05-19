@@ -1,1 +1,1 @@
-var mnemonic = "frog august camera cluster remember stadium before region glove inherit picture burst";
+var mnemonic = "rival antique oyster curious swear actual wrap quiz taste motion lucky unique";

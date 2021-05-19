@@ -1,1 +1,1 @@
-var mnemonic = "scrub rose element safe mixture sponsor bridge hedgehog observe water notice jealous";
+var mnemonic = "oyster case toilet sail gas early industry exist crush kitten purchase magic";

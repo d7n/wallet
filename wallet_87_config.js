@@ -1,1 +1,1 @@
-var mnemonic = "undo rubber patch net oven ramp notice hurdle erupt shield erase loud";
+var mnemonic = "unique liquid assist brave oblige whip mushroom seminar average autumn laptop amused";

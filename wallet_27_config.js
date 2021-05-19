@@ -1,1 +1,1 @@
-var mnemonic = "cry strike title swear ready inch fruit like save rate curtain autumn";
+var mnemonic = "tornado denial humble category foil muffin draw friend admit biology subject galaxy";

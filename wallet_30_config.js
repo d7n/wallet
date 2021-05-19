@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tape stamp endorse wealth hood chalk reopen filter lottery asset venue";
+var mnemonic = "silk stay nuclear talent chunk inquiry cattle chief valid lounge favorite post";

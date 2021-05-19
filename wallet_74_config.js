@@ -1,1 +1,1 @@
-var mnemonic = "offer drift defy today under shift season awful depart armor weird athlete";
+var mnemonic = "sudden shock around convince brown kite artwork filter case worry trip fold";

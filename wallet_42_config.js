@@ -1,1 +1,1 @@
-var mnemonic = "renew wish gun buzz desk welcome music crane portion slam toe arrest";
+var mnemonic = "various recall spatial skate iron vast tiny tourist yellow news dove stove";

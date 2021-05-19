@@ -1,1 +1,1 @@
-var mnemonic = "join detail flip tape wage lunch nation tail cake retire mixed picnic";
+var mnemonic = "invest ship random path citizen pencil stereo execute kangaroo name brother live";

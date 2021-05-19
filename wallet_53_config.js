@@ -1,1 +1,1 @@
-var mnemonic = "matter impulse custom hockey detect travel public atom open lunch essence copy";
+var mnemonic = "measure elevator artwork tent basket gaze immune decade concert truth repeat program";

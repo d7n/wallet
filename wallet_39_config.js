@@ -1,1 +1,1 @@
-var mnemonic = "slight admit traffic syrup own cabin shrug best fox where expose dutch";
+var mnemonic = "run comic crop diagram lawn mouse wonder assault present drift magic oven";

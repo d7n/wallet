@@ -1,1 +1,1 @@
-var mnemonic = "save october nuclear horse pepper infant road sand noodle always book parrot";
+var mnemonic = "pool critic pipe lawsuit scheme acoustic trumpet stage oval often old brick";

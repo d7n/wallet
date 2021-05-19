@@ -1,1 +1,1 @@
-var mnemonic = "silent off celery lady lizard material music police sound bicycle rice heart";
+var mnemonic = "allow finger disease innocent novel lunar harsh fame moment chalk mushroom fruit";

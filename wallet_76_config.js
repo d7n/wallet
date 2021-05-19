@@ -1,1 +1,1 @@
-var mnemonic = "treat left father rather eagle vivid slight slice birth muscle say slice";
+var mnemonic = "lady fury wonder ride derive diary cigar shine carry sort device dream";

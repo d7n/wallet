@@ -1,1 +1,1 @@
-var mnemonic = "knife outdoor immense cover later track guess jacket exhaust broken sadness giant";
+var mnemonic = "catch speak diamond news wonder pen robust attack suit blouse total slender";

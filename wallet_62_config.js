@@ -1,1 +1,1 @@
-var mnemonic = "oak gap style hungry meat save slim powder fall panda coconut era";
+var mnemonic = "man sphere differ they spice dentist mind dress ski admit sell wolf";

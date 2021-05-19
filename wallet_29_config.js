@@ -1,1 +1,1 @@
-var mnemonic = "pottery shrug pepper corn kiwi chat bird lock traffic flight pattern harsh";
+var mnemonic = "glue gown since minimum dish soccer when smoke topic castle just arena";

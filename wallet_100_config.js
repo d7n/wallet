@@ -1,1 +1,1 @@
-var mnemonic = "razor copy bleak barrel wash common that chief federal kit lion render";
+var mnemonic = "interest crack become junior clap pipe pilot powder diagram despair regular begin";

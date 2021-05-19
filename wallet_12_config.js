@@ -1,1 +1,1 @@
-var mnemonic = "hurdle brisk legend clip enough tiny wing just coil present estate rigid";
+var mnemonic = "income tornado strong myself bottom learn buffalo mammal ivory large scan retire";

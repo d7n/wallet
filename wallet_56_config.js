@@ -1,1 +1,1 @@
-var mnemonic = "rebuild dress brisk boat country sport cage idle web come sister plastic";
+var mnemonic = "casino essence desert coast practice boring entry evoke evoke basic crack minor";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious accident various note crazy soft obtain harbor primary suspect angry chase";
+var mnemonic = "win judge critic adjust potato silver video hint light enlist exact sweet";

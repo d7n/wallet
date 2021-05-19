@@ -1,1 +1,1 @@
-var mnemonic = "pulse raw muscle tobacco grocery wall foil memory cube correct all unit";
+var mnemonic = "element calm allow betray master bargain pony dutch stone bitter allow upper";

@@ -1,1 +1,1 @@
-var mnemonic = "notable gold rice faint metal soon brisk rotate glimpse morning false season";
+var mnemonic = "jump wave travel vicious taste bid room car harsh bundle various off";

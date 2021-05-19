@@ -1,1 +1,1 @@
-var mnemonic = "vacuum save mouse artwork gate talk usage brick wheat another video release";
+var mnemonic = "fame huge slide flush demand focus write morning spend inform sample scan";

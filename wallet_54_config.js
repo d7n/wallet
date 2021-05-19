@@ -1,1 +1,1 @@
-var mnemonic = "segment normal crawl neither city warm year barely plunge mention model humble";
+var mnemonic = "tobacco exchange replace unfair ketchup exclude stereo copy outer author fatigue soul";

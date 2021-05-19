@@ -1,1 +1,1 @@
-var mnemonic = "notice august oak april pretty sleep fiscal draw reason giraffe ostrich south";
+var mnemonic = "pipe first material design release dizzy edge moon creek half goat mask";

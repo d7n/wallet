@@ -1,1 +1,1 @@
-var mnemonic = "advance among bitter trap aerobic powder oppose vendor discover smoke bless truly";
+var mnemonic = "maple blame foot erupt crisp rent margin review flight spawn can senior";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme agree mosquito deny degree urge profit unfold broom extra window garden";
+var mnemonic = "empower plastic client weekend increase test sound bitter clip few chair risk";

@@ -1,1 +1,1 @@
-var mnemonic = "enter dance repeat avoid embark jar staff invest glare news diet turkey";
+var mnemonic = "fabric pledge worth enough firm member diamond soldier bonus blur adapt black";

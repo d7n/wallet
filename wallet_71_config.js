@@ -1,1 +1,1 @@
-var mnemonic = "parent element neutral furnace possible shop orbit shield barrel rose kingdom strike";
+var mnemonic = "chief search hazard attitude speed rug profit sunny hollow night cricket session";

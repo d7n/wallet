@@ -1,1 +1,1 @@
-var mnemonic = "asthma sausage zoo pig bonus view chapter genre asset lawsuit emotion use";
+var mnemonic = "salute property video zoo slab faith toilet slight city there swarm right";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin portion canal media word script near pole sketch coyote skate false";
+var mnemonic = "beyond junk mask filter void route absurd spike vicious wool help report";

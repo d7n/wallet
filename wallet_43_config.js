@@ -1,1 +1,1 @@
-var mnemonic = "focus convince voyage wish since describe palm toddler subject evolve aspect tooth";
+var mnemonic = "loud doctor famous ability will board install useless merry lizard exotic regret";

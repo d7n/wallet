@@ -1,1 +1,1 @@
-var mnemonic = "toilet bean hollow garden occur stuff relax bachelor novel follow wrap find";
+var mnemonic = "fall reveal start stable combine surface alarm amazing ice badge law flavor";

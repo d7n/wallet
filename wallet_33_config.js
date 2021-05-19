@@ -1,1 +1,1 @@
-var mnemonic = "major lucky banana hen useless dwarf auction rapid outdoor impact goat smart";
+var mnemonic = "craft lumber fatal tobacco airport buddy tree wage ostrich print carbon name";

@@ -1,1 +1,1 @@
-var mnemonic = "humble clean repeat visit million moment ill panther behind nation raven select";
+var mnemonic = "path road castle mention vehicle scheme rare swift rival retire refuse link";

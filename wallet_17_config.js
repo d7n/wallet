@@ -1,1 +1,1 @@
-var mnemonic = "ginger brief caution chuckle vacuum kick above edit oblige setup label echo";
+var mnemonic = "derive sketch flag bar town limit vital acquire insect riot leg depth";

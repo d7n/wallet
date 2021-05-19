@@ -1,1 +1,1 @@
-var mnemonic = "number scatter scene coast midnight arctic final odor green tenant flash baby";
+var mnemonic = "bullet tide possible dial horn mom grief choice fiction adjust dust wing";

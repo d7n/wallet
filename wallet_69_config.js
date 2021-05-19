@@ -1,1 +1,1 @@
-var mnemonic = "success tip hedgehog toddler vague tiger atom stamp senior cause bomb clarify";
+var mnemonic = "random wool foster emerge mail differ consider elder symbol couch story lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "write luxury glass december satoshi kiwi amount document mixed enough hair surge";
+var mnemonic = "toward skirt cactus grain describe hunt group health excite swear achieve various";

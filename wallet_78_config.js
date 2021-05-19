@@ -1,1 +1,1 @@
-var mnemonic = "draw attend fiscal good pledge domain local estate tooth try attitude resemble";
+var mnemonic = "grape bachelor horse divert wasp knock purpose unusual cricket march august grief";

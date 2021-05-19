@@ -1,1 +1,1 @@
-var mnemonic = "lumber wrong jeans intact voyage rail worry program gospel naive able mango";
+var mnemonic = "shadow stable hazard tissue oak sunset barrel kidney brave front energy slender";

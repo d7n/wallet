@@ -1,1 +1,1 @@
-var mnemonic = "wage funny need result apple prize breeze gadget enemy fringe catch use";
+var mnemonic = "layer february patrol tail pistol gas offer urge purity job movie spoon";

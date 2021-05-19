@@ -1,1 +1,1 @@
-var mnemonic = "sign decade metal enroll still life foster iron lava success scene goddess";
+var mnemonic = "joke horse lonely tragic position public attend design fruit feel catch oil";

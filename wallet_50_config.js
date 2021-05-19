@@ -1,1 +1,1 @@
-var mnemonic = "genuine silly shove build snack phrase valley remember march space already combine";
+var mnemonic = "okay certain leave ship target sponsor attend derive letter remember blossom whale";

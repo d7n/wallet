@@ -1,1 +1,1 @@
-var mnemonic = "ship plunge duck unfold blue renew edge van festival fiscal spot cover";
+var mnemonic = "village dynamic call cluster nurse shy square blast food father impose gate";

@@ -1,1 +1,1 @@
-var mnemonic = "firm brief shock bone ladder foot any firm bomb element century critic";
+var mnemonic = "color power globe local expect online device shallow host scare lumber truth";

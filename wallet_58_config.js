@@ -1,1 +1,1 @@
-var mnemonic = "gadget february window world knee funny rich butter debate basket water uphold";
+var mnemonic = "attend meat please round disease boring memory hamster family there clean patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "direct mail coach struggle crack scheme false attitude law company float found";
+var mnemonic = "ice luggage march pottery predict ritual cute apart roof math video today";

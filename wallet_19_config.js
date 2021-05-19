@@ -1,1 +1,1 @@
-var mnemonic = "mutual wasp aerobic roast blast assault brass wink rifle permit gadget proof";
+var mnemonic = "derive cliff forest garage include cupboard silk taxi auction other denial tenant";

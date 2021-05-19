@@ -1,1 +1,1 @@
-var mnemonic = "electric process clap trial glove height caution struggle two actor leopard fall";
+var mnemonic = "option chase nominee woman ancient toy minute snack owner boy combine door";

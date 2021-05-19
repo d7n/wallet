@@ -1,1 +1,1 @@
-var mnemonic = "summer grain rigid coach token jacket say wise kidney believe fever open";
+var mnemonic = "divorce woman motion giraffe faint mad thunder canal journey method budget bacon";

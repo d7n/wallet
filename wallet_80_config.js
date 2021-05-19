@@ -1,1 +1,1 @@
-var mnemonic = "cable eyebrow pony cross machine inform island retire sad tomato pair much";
+var mnemonic = "curve orchard side pitch provide oyster shine immense never omit stone glow";

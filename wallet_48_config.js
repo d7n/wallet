@@ -1,1 +1,1 @@
-var mnemonic = "trophy hidden laugh rose property pudding enter sample subway essence seat organ";
+var mnemonic = "behave pulp margin child else record result hill census stadium wreck save";

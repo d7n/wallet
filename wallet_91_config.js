@@ -1,1 +1,1 @@
-var mnemonic = "burger leader relief tuition stomach bamboo million trash nation luxury segment verify";
+var mnemonic = "quality zero food hen awake distance breeze early mass shoot long patrol";

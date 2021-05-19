@@ -1,1 +1,1 @@
-var mnemonic = "pink female agent spring decade guilt window slogan indicate morning leader ring";
+var mnemonic = "auction nature century fiscal actress acquire note uphold olive drip bunker forest";

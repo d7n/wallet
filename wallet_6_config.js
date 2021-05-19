@@ -1,1 +1,1 @@
-var mnemonic = "laugh cereal planet hover trim space author dose crunch element use nation";
+var mnemonic = "now want animal lucky cake snake client parrot review mansion popular session";

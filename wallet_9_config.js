@@ -1,1 +1,1 @@
-var mnemonic = "into hill shine mutual chicken system naive wrestle dinner phrase weapon entry";
+var mnemonic = "six law adult sign milk bacon sponsor sketch still basic grid all";

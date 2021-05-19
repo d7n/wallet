@@ -1,1 +1,1 @@
-var mnemonic = "valley media aim traffic gown orphan strong twelve diamond diagram undo vast";
+var mnemonic = "heavy foam civil bless embark demand loop verify entire month misery silk";

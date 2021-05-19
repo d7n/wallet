@@ -1,1 +1,1 @@
-var mnemonic = "bleak rose garbage dutch front stumble refuse goat sail orange visual strategy";
+var mnemonic = "october square index tourist sudden diet lawn thunder describe ghost mention shift";

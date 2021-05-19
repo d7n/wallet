@@ -1,1 +1,1 @@
-var mnemonic = "tragic comfort apology flash bitter ride cup unknown keen drip island wage";
+var mnemonic = "erosion math scene select ostrich spell tissue foot auction chase that clown";
