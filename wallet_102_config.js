@@ -1,1 +1,1 @@
-var mnemonic = "sock verify lawsuit innocent inherit fossil social tired immense silly innocent gloom";
+var mnemonic = "old alter soap better begin scatter noble tortoise disagree faint save reject";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely accuse model manage garden cram advice fitness ripple file ridge repair";
+var mnemonic = "spice shaft lizard lemon soccer swim remind garden across lady badge empower";

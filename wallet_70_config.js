@@ -1,1 +1,1 @@
-var mnemonic = "enough asset vacant hour tenant maximum render drop soon plate melody basic";
+var mnemonic = "fish police trigger blind velvet comfort promote city security network today pause";

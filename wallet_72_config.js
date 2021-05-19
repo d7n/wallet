@@ -1,1 +1,1 @@
-var mnemonic = "million series plastic priority family detect virtual column toe noise brisk boost";
+var mnemonic = "pill escape off size panic remind cabin area tank slender vapor grain";

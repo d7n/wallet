@@ -1,1 +1,1 @@
-var mnemonic = "dynamic robot aunt drill fury fragile join load elite game city mystery";
+var mnemonic = "bus fit unable acoustic gate bottom flight six surge mask device bamboo";

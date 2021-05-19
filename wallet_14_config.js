@@ -1,1 +1,1 @@
-var mnemonic = "action hen head chicken ill time mushroom rice announce reunion ripple prefer";
+var mnemonic = "exile cat clarify polar helmet original damage call cup current gorilla sting";

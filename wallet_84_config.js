@@ -1,1 +1,1 @@
-var mnemonic = "toilet throw injury sheriff degree dignity kitchen drum speak shuffle warm pottery";
+var mnemonic = "amount whisper stumble desk dragon keep image sell apart typical uphold grit";

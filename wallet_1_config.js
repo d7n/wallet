@@ -1,1 +1,1 @@
-var mnemonic = "level grass glass purity economy dress kind tray spirit grape ginger april";
+var mnemonic = "boss install shell west fancy injury sunset target machine foot drift popular";

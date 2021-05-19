@@ -1,1 +1,1 @@
-var mnemonic = "patient comfort rival ten adult panther champion ice paper survey layer turn";
+var mnemonic = "husband deposit arctic indoor monster guilt retreat riot time fossil avoid brown";

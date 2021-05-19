@@ -1,1 +1,1 @@
-var mnemonic = "letter axis breeze funny lawsuit ahead enough abuse liar ghost word almost";
+var mnemonic = "wood credit black thrive possible siren demise garbage slam they soon eternal";

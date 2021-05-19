@@ -1,1 +1,1 @@
-var mnemonic = "faith achieve stand unhappy sponsor cat response swarm stone trust display ordinary";
+var mnemonic = "crime achieve fire nasty vessel scrub weasel nose protect prize silly state";

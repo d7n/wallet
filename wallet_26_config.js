@@ -1,1 +1,1 @@
-var mnemonic = "spell smart stadium thrive fantasy evoke excite produce client phrase found before";
+var mnemonic = "gap energy ecology female exercise net bright farm vacant tomorrow warrior relax";

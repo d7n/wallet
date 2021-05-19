@@ -1,1 +1,1 @@
-var mnemonic = "catch two party useless tell arch album lounge mouse scatter rapid enemy";
+var mnemonic = "saddle oak miracle sick thank oil flip benefit panel write license cost";

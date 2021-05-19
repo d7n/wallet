@@ -1,1 +1,1 @@
-var mnemonic = "penalty garden have rhythm immune dog weasel come mutual canvas market toy";
+var mnemonic = "void ready barrel upper correct drop current turtle random drop sample inhale";

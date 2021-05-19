@@ -1,1 +1,1 @@
-var mnemonic = "garlic surface inform need purse long garden boring truck noodle ocean reunion";
+var mnemonic = "depend pact close nice sight wave nature people reopen blast window atom";

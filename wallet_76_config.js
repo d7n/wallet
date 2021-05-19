@@ -1,1 +1,1 @@
-var mnemonic = "space lesson ill child phrase fun inch quality board unveil decline maximum";
+var mnemonic = "cactus team envelope coast strategy learn must super drop hat churn coast";

@@ -1,1 +1,1 @@
-var mnemonic = "screen sample focus monster shoe parade uncle august artefact elder lens dust";
+var mnemonic = "icon chicken hospital tone deputy action vault noodle matrix mutual split ski";

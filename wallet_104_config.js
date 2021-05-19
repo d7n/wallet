@@ -1,1 +1,1 @@
-var mnemonic = "fade jaguar angry project autumn paddle embark lottery guess tool pear bar";
+var mnemonic = "solve cabin report alien ranch diamond silly essence oblige spring inmate exclude";

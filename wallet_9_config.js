@@ -1,1 +1,1 @@
-var mnemonic = "high disorder build hybrid plug modify fluid six remove steel rose floor";
+var mnemonic = "cattle kind exact keen easily rug giggle romance digital demand wine fold";

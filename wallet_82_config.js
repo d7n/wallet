@@ -1,1 +1,1 @@
-var mnemonic = "dish recall defense gift clay park wonder choose embark cradle citizen sock";
+var mnemonic = "rose bird bridge child goose hope bicycle leave turtle ignore merry write";

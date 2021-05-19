@@ -1,1 +1,1 @@
-var mnemonic = "castle actual aisle category bamboo chair captain act ranch toss wire metal";
+var mnemonic = "goose cute exit collect road valley carry gym merry board into evil";

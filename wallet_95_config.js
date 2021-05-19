@@ -1,1 +1,1 @@
-var mnemonic = "valid knee push leave fossil future prepare fall hundred zebra west ticket";
+var mnemonic = "taxi ramp target dirt extend nominee prize submit refuse smart sentence income";

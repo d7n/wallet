@@ -1,1 +1,1 @@
-var mnemonic = "two prevent home cactus opera into insane knife benefit supreme market repair";
+var mnemonic = "medal industry enroll fancy disagree civil slot access exist allow keep rib";

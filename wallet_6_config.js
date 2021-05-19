@@ -1,1 +1,1 @@
-var mnemonic = "photo excuse soldier welcome sense hobby behind family wave pencil wolf quiz";
+var mnemonic = "blossom find video huge left slight tourist pioneer lamp endorse pull spare";

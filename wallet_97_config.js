@@ -1,1 +1,1 @@
-var mnemonic = "envelope decrease impose twice medal trigger pipe riot void velvet circle sound";
+var mnemonic = "where another fashion chest grief shove reveal razor spray phrase current tilt";

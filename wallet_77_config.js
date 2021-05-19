@@ -1,1 +1,1 @@
-var mnemonic = "vicious wedding cost bread hood medal popular require coconut worry effort pass";
+var mnemonic = "boring robust primary service panic consider series box gauge trip mind coral";

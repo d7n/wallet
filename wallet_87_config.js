@@ -1,1 +1,1 @@
-var mnemonic = "hole move garlic title oppose over language inject symbol payment step lumber";
+var mnemonic = "similar drift bounce horror genuine engine follow idea approve execute truth alert";

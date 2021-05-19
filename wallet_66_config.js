@@ -1,1 +1,1 @@
-var mnemonic = "gorilla baby cloth sausage spot swamp hero nephew icon silver gather love";
+var mnemonic = "trade august knock silver barely angle know display entry account rookie render";

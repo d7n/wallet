@@ -1,1 +1,1 @@
-var mnemonic = "hotel blouse impact lemon area neglect random clap observe mind task mass";
+var mnemonic = "ranch torch possible mountain weasel height quick attitude ritual uncover frost fly";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano multiply job team nurse day margin ghost favorite baby reveal drum";
+var mnemonic = "remain vacant struggle desert bless marble fun marriage sorry winter calm milk";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard tank blush congress life find genre token giant option tornado moral";
+var mnemonic = "feature work bleak helmet excess away melody wrestle artwork hello scheme gun";

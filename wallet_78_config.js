@@ -1,1 +1,1 @@
-var mnemonic = "word force peanut small inhale vast purse hotel exclude anger humble elite";
+var mnemonic = "battle sunny shock loud razor business wild material never struggle win short";

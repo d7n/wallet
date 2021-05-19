@@ -1,1 +1,1 @@
-var mnemonic = "pair wolf afraid day culture gesture lunar vibrant teach huge century gown";
+var mnemonic = "soda shrug ranch decade civil city round lottery spoil loud impulse manage";

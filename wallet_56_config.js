@@ -1,1 +1,1 @@
-var mnemonic = "zoo butter walnut cinnamon act quiz dawn electric divorce spirit thunder frozen";
+var mnemonic = "chest warfare portion cluster summer bulb gravity false lawsuit solve volcano trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "board surface bronze spray kingdom convince bronze swing zone insect eyebrow just";
+var mnemonic = "below bird spin treat tip tribe organ story merit fan silver fever";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose nation wheel pilot force drip excess laundry ride denial slice aware";
+var mnemonic = "solar turtle weird fortune direct scrap shadow setup drop eager width large";

@@ -1,1 +1,1 @@
-var mnemonic = "glow debris duty random rough false slam expand obtain squirrel pitch zebra";
+var mnemonic = "feature awful muffin feature material boat drum report test naive awful original";

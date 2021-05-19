@@ -1,1 +1,1 @@
-var mnemonic = "adjust assault country pipe increase inspire robot paper sun gold across advance";
+var mnemonic = "come skill coyote twin hood universe relax chase debate salmon silent away";

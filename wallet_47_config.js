@@ -1,1 +1,1 @@
-var mnemonic = "fluid uniform doctor element dentist bicycle lion pass noise mention tennis sunny";
+var mnemonic = "boy convince honey tourist always chapter debate lava sample tiger access youth";

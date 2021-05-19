@@ -1,1 +1,1 @@
-var mnemonic = "pill steak globe address struggle couch cabin maple immense october thunder image";
+var mnemonic = "column will enact remain jelly nasty rapid split pupil portion artwork diet";

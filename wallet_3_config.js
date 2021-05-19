@@ -1,1 +1,1 @@
-var mnemonic = "pizza cram raise happy immune goose plate peace say traffic bacon spin";
+var mnemonic = "minimum rookie green giraffe very rookie athlete ride hole lecture good cave";

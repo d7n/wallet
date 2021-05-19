@@ -1,1 +1,1 @@
-var mnemonic = "flock embody royal love illegal fee sign urge borrow fruit engage fee";
+var mnemonic = "cool copy trend accuse day home success disorder clerk cup wish parade";

@@ -1,1 +1,1 @@
-var mnemonic = "upon grit chief alone dose giraffe check flip floor number assist disorder";
+var mnemonic = "lizard junk middle unknown science kind shiver dust obscure kick exclude spawn";

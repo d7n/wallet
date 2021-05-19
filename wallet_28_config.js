@@ -1,1 +1,1 @@
-var mnemonic = "produce diamond cash sample high sadness island logic near raven language wrist";
+var mnemonic = "multiply hidden rapid jealous thank soul inhale holiday match lion unfold exit";

@@ -1,1 +1,1 @@
-var mnemonic = "kick rain margin decorate blossom chapter author clog razor mom pottery limb";
+var mnemonic = "pause puzzle latin excuse pole polar panel correct butter snap hurdle still";

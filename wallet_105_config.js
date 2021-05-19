@@ -1,1 +1,1 @@
-var mnemonic = "shock expire obey desert unusual street cart bird enjoy whip gadget baby";
+var mnemonic = "avoid someone depth buffalo what amount vital blame hedgehog giant spoon hybrid";

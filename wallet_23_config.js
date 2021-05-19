@@ -1,1 +1,1 @@
-var mnemonic = "lesson tuna pigeon clerk exile actual vacuum erode economy film sustain wife";
+var mnemonic = "salon can accident require stereo garlic chuckle remember ankle weather festival expand";

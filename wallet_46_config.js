@@ -1,1 +1,1 @@
-var mnemonic = "flock term rate then annual hip tragic lock build cause car pizza";
+var mnemonic = "evil end solution april soup fold elephant network quality place mix weapon";

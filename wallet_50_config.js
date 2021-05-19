@@ -1,1 +1,1 @@
-var mnemonic = "push fantasy cave bubble inherit fence bird catch claw shield spin shoot";
+var mnemonic = "tail number peasant debate loop fame cousin bomb word stamp usual tail";

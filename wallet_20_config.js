@@ -1,1 +1,1 @@
-var mnemonic = "sick uncle cabbage acquire junior radio badge harvest question glove april napkin";
+var mnemonic = "food join alone say royal hello keep anchor cluster cross oven faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "forward stock radio quality spider teach worth excess wait proud middle pair";
+var mnemonic = "achieve excuse gun debris oval thing claw sport bundle winter solid bright";

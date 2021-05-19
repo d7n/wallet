@@ -1,1 +1,1 @@
-var mnemonic = "guilt soap wrist fury east basket humor wedding tortoise robust flush provide";
+var mnemonic = "unit feature crime exit truly sleep dizzy crisp label type rebel decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "alert uphold clump valid segment size mushroom fat essay offer option cross";
+var mnemonic = "mixed mechanic poverty battle confirm pen element dilemma logic thank coast obscure";

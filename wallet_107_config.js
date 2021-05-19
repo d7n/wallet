@@ -1,1 +1,1 @@
-var mnemonic = "glance nose credit cliff cake artefact patient hurry merry grief rocket move";
+var mnemonic = "someone sport torch ice race trick chuckle east author whale rule butter";

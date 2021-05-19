@@ -1,1 +1,1 @@
-var mnemonic = "hip code regret juice baby quantum punch smooth jewel glass essay organ";
+var mnemonic = "moral theme nephew ball cave sphere dose throw divorce leave asthma nothing";

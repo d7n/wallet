@@ -1,1 +1,1 @@
-var mnemonic = "claw device winter yard wink jealous emerge slide grunt broom sample fancy";
+var mnemonic = "program isolate brave magnet cement swear betray large spoil room oppose erase";

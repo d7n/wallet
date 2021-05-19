@@ -1,1 +1,1 @@
-var mnemonic = "patch rural rare cluster coral speed kiwi either report option recall silly";
+var mnemonic = "private steel neither average manual license must blood bridge decorate list giggle";

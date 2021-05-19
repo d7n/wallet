@@ -1,1 +1,1 @@
-var mnemonic = "advice hub tomorrow rough lumber review kidney system phone unable turtle crop";
+var mnemonic = "theory hundred spoil sand hat divert bus squeeze throw hurt park shop";

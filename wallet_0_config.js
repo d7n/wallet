@@ -1,1 +1,1 @@
-var mnemonic = "differ dream shaft rough boy govern sniff decide detect grain abstract brush";
+var mnemonic = "turtle fame trust weasel tourist weird grocery embark situate other latin absurd";

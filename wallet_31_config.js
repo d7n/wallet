@@ -1,1 +1,1 @@
-var mnemonic = "idea motor rose total urban supply quality layer phone dream beef cool";
+var mnemonic = "happy symbol dial vast hurt pair garment turkey risk wing early vacuum";

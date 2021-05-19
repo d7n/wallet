@@ -1,1 +1,1 @@
-var mnemonic = "stick letter industry shed sorry amount replace sniff column olive common seminar";
+var mnemonic = "dog possible cotton student zebra trap become earth tortoise certain observe license";

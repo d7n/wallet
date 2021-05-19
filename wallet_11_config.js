@@ -1,1 +1,1 @@
-var mnemonic = "unable book salon next author bench flock face omit word desert key";
+var mnemonic = "coil drum metal position edit spin obtain latin velvet citizen muscle tray";

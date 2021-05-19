@@ -1,1 +1,1 @@
-var mnemonic = "soul oil nest meat spin lottery fame grain clump pact become quality";
+var mnemonic = "order gloom stamp notice economy pig zero sail juice food common renew";

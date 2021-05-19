@@ -1,1 +1,1 @@
-var mnemonic = "vicious forum animal hollow color shop option memory version brand year stable";
+var mnemonic = "innocent electric during art alien lock clever sting orient fuel until guide";

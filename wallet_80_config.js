@@ -1,1 +1,1 @@
-var mnemonic = "neglect one divorce cargo electric sniff trial close fall crisp great doll";
+var mnemonic = "midnight cricket volume ridge gap fan lion any woman shine senior law";

@@ -1,1 +1,1 @@
-var mnemonic = "blade unknown evil jar aisle roof gauge ask abandon mistake street tackle";
+var mnemonic = "draw acquire gown fog valley nerve dash office chronic wagon tenant inherit";

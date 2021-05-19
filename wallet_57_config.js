@@ -1,1 +1,1 @@
-var mnemonic = "accident flavor suffer ahead hungry canoe measure guitar lumber satisfy border hedgehog";
+var mnemonic = "tragic drip emerge fan mom flat entire cloth right era mechanic range";

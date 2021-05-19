@@ -1,1 +1,1 @@
-var mnemonic = "shadow scissors keep equip steel ski month axis brain notice museum praise";
+var mnemonic = "myself decide salt mandate defense proud sight appear legend cannon devote middle";

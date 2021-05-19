@@ -1,1 +1,1 @@
-var mnemonic = "prevent file zone curtain problem glance rival order simple human season convince";
+var mnemonic = "suffer scare kitten spoon chat rail lava primary chair boil accident garden";

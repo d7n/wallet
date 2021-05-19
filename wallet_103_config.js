@@ -1,1 +1,1 @@
-var mnemonic = "orchard practice zoo property pen earth speed into provide fun such merge";
+var mnemonic = "river dirt boat ice chimney tide wisdom love nut involve keen insane";

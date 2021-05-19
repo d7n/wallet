@@ -1,1 +1,1 @@
-var mnemonic = "viable ocean option comic whisper bless wonder load dirt autumn person save";
+var mnemonic = "sphere flush middle resist nose ripple depend mammal fragile ordinary flight crystal";

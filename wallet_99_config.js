@@ -1,1 +1,1 @@
-var mnemonic = "shock replace vapor someone car federal wool injury disorder curtain ensure foil";
+var mnemonic = "wish other guess left vessel tonight cute jacket search profit flash next";

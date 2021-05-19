@@ -1,1 +1,1 @@
-var mnemonic = "frequent spatial fresh diamond repair echo claw tell cross hurt casino urban";
+var mnemonic = "submit suffer initial december door grit erode dolphin path drama theme milk";

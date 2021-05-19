@@ -1,1 +1,1 @@
-var mnemonic = "canvas cluster frequent boat despair arrow cave suspect hair youth lumber picture";
+var mnemonic = "match poverty crack win divide climb number cactus ribbon chase lesson crane";

@@ -1,1 +1,1 @@
-var mnemonic = "right outside glimpse mystery relax tortoise adult age cliff puzzle noodle turn";
+var mnemonic = "stuff science price possible crisp brass capital tissue slam heavy miracle symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "judge uncle minor predict three slow body mother prize chief cry rural";
+var mnemonic = "cute smile rail rigid surface damage chat impact word extra original wrong";

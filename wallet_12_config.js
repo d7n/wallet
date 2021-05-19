@@ -1,1 +1,1 @@
-var mnemonic = "borrow have sunset cupboard adult ask scheme winter churn dance tennis height";
+var mnemonic = "moon must ready consider abstract capital damage improve math company chest wonder";

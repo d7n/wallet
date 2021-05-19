@@ -1,1 +1,1 @@
-var mnemonic = "fox smoke convince buffalo debate bomb tunnel clip explain script expand image";
+var mnemonic = "attract famous tag tide vocal segment neglect uncover reform civil cruise midnight";

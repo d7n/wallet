@@ -1,1 +1,1 @@
-var mnemonic = "timber young fence grief burger dignity pact utility sock ranch crime enforce";
+var mnemonic = "double render cover mirror first begin culture grace round roof cart arena";

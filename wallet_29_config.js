@@ -1,1 +1,1 @@
-var mnemonic = "this buzz mix traffic child lumber anxiety awkward bike dignity render average";
+var mnemonic = "elephant enjoy fade donor vast mistake plate nation police magnet umbrella bird";

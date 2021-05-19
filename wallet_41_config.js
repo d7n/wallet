@@ -1,1 +1,1 @@
-var mnemonic = "gossip layer acquire craft note tiger maple certain clutch mechanic chest sun";
+var mnemonic = "letter purity seek bubble okay oxygen north help merge above velvet response";

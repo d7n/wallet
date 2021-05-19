@@ -1,1 +1,1 @@
-var mnemonic = "grief lobster time game clean ripple million sunset spoon craft blame fire";
+var mnemonic = "error drop case lend flag conduct also smart visual vague bone goose";

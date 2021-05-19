@@ -1,1 +1,1 @@
-var mnemonic = "worth van shield execute member face loyal tip funny put crime bronze";
+var mnemonic = "peanut used apart client box syrup voyage crater layer use cupboard crystal";

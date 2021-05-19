@@ -1,1 +1,1 @@
-var mnemonic = "organ energy north topic sweet army paddle snake imitate double garbage soup";
+var mnemonic = "imitate evidence sphere twenty sad excess shove there smile minute pelican cry";

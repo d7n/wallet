@@ -1,1 +1,1 @@
-var mnemonic = "ship door undo fog rival split order edge measure sun syrup grocery";
+var mnemonic = "sudden bulb easily pride february timber mutual tide drive define worry skate";

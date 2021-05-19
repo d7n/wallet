@@ -1,1 +1,1 @@
-var mnemonic = "apology grant stand find scorpion fish business nest question pause three fine";
+var mnemonic = "inherit media fox practice spirit possible stone oval submit fuel beef penalty";

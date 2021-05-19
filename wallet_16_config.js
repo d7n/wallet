@@ -1,1 +1,1 @@
-var mnemonic = "cool dance identify police acoustic puppy surface annual income chimney jeans attitude";
+var mnemonic = "strong super canyon wonder filter picture body lazy balance truck motor reform";

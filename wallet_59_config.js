@@ -1,1 +1,1 @@
-var mnemonic = "wisdom voyage sauce nerve upgrade unaware hobby total brain vapor sea portion";
+var mnemonic = "stay want furnace obscure license assume sibling scorpion ordinary guess digital clump";

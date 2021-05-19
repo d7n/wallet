@@ -1,1 +1,1 @@
-var mnemonic = "pioneer hint junk scheme leader visit guess reward face comic student cigar";
+var mnemonic = "orange squeeze miracle stone attend honey control snap interest episode rival soldier";

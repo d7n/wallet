@@ -1,1 +1,1 @@
-var mnemonic = "enable rebel enact october episode when rely fat hole favorite jazz link";
+var mnemonic = "clerk swim cabin devote deal humble hunt step resist vacuum diet copy";

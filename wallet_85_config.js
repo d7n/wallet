@@ -1,1 +1,1 @@
-var mnemonic = "there skirt seed access hammer million elegant auto test stand curve prepare";
+var mnemonic = "alarm pizza sunset page general volume goose review furnace deny health possible";

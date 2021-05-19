@@ -1,1 +1,1 @@
-var mnemonic = "tennis deal bonus horse ghost atom cabin sadness grit team jealous latin";
+var mnemonic = "clerk gallery funny kiwi inject panda ordinary symptom zebra muscle still prison";

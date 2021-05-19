@@ -1,1 +1,1 @@
-var mnemonic = "oak number assault stay receive wall wagon title diamond rib cheese act";
+var mnemonic = "bracket sorry menu mask robot opera theme diesel asthma comic senior enhance";
