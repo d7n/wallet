@@ -1,1 +1,1 @@
-var mnemonic = "depend pact close nice sight wave nature people reopen blast window atom";
+var mnemonic = "radio little notable measure hub depend because retreat all check sunny green";

@@ -1,1 +1,1 @@
-var mnemonic = "letter purity seek bubble okay oxygen north help merge above velvet response";
+var mnemonic = "garbage crouch settle stumble goose dry logic clown note bid injury detect";

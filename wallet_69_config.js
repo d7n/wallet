@@ -1,1 +1,1 @@
-var mnemonic = "unit feature crime exit truly sleep dizzy crisp label type rebel decorate";
+var mnemonic = "smoke cart forget arctic tower muffin blanket lift scene debris lounge rack";

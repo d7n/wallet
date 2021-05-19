@@ -1,1 +1,1 @@
-var mnemonic = "wild puppy dose blood struggle wrong deal elbow lucky despair daring vanish";
+var mnemonic = "buyer offer manage better bounce useful answer warm midnight brave increase best";

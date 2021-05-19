@@ -1,1 +1,1 @@
-var mnemonic = "chest warfare portion cluster summer bulb gravity false lawsuit solve volcano trophy";
+var mnemonic = "pulp you sound invest lift capable salad mimic donkey vague trigger dentist";

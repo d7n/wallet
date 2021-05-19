@@ -1,1 +1,1 @@
-var mnemonic = "pill escape off size panic remind cabin area tank slender vapor grain";
+var mnemonic = "song stairs time lawn fold quick air lawn buffalo sure illness slow";

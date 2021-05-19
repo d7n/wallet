@@ -1,1 +1,1 @@
-var mnemonic = "strong super canyon wonder filter picture body lazy balance truck motor reform";
+var mnemonic = "kid exchange whisper melody throw day economy forget office disagree nuclear pretty";

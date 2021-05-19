@@ -1,1 +1,1 @@
-var mnemonic = "mixed mechanic poverty battle confirm pen element dilemma logic thank coast obscure";
+var mnemonic = "snack kind witness outside kiwi reunion song myself puppy friend oil soldier";

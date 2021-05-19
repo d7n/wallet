@@ -1,1 +1,1 @@
-var mnemonic = "below bird spin treat tip tribe organ story merit fan silver fever";
+var mnemonic = "huge drop dutch song where modify delay pitch loyal silent nation weird";

@@ -1,1 +1,1 @@
-var mnemonic = "myself decide salt mandate defense proud sight appear legend cannon devote middle";
+var mnemonic = "possible october pattern nice empower wise day fade globe similar special pioneer";

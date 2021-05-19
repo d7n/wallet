@@ -1,1 +1,1 @@
-var mnemonic = "feature work bleak helmet excess away melody wrestle artwork hello scheme gun";
+var mnemonic = "rude element mandate snap actor cloth mirror involve legal banner fashion romance";

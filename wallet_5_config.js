@@ -1,1 +1,1 @@
-var mnemonic = "exist gift venture rude equal practice space dish today ribbon name label";
+var mnemonic = "bubble home weather battle clerk drill expire tribe common damp lunar scheme";

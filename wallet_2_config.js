@@ -1,1 +1,1 @@
-var mnemonic = "clerk swim cabin devote deal humble hunt step resist vacuum diet copy";
+var mnemonic = "notable sign health concert decade sweet ticket dilemma rather expand symbol odor";

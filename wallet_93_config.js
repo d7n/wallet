@@ -1,1 +1,1 @@
-var mnemonic = "void ready barrel upper correct drop current turtle random drop sample inhale";
+var mnemonic = "eight cycle similar anxiety enter mixture material major hold angle symptom fragile";

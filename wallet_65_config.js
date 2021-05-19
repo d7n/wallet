@@ -1,1 +1,1 @@
-var mnemonic = "cool copy trend accuse day home success disorder clerk cup wish parade";
+var mnemonic = "weapon luxury gas ensure dizzy bleak lend retire decide away fantasy hero";

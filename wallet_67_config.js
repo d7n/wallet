@@ -1,1 +1,1 @@
-var mnemonic = "sure devote exact slogan script song food behind awesome visual stem slot";
+var mnemonic = "head argue hamster capital peasant ocean cricket census pink organ edge artwork";

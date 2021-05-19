@@ -1,1 +1,1 @@
-var mnemonic = "tail number peasant debate loop fame cousin bomb word stamp usual tail";
+var mnemonic = "express connect human blade impulse furnace bomb hospital loan voice lawn common";

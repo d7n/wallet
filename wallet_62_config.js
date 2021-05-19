@@ -1,1 +1,1 @@
-var mnemonic = "innocent electric during art alien lock clever sting orient fuel until guide";
+var mnemonic = "blue borrow vicious version chase actual hidden dinner opera fiber scrub crawl";

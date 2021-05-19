@@ -1,1 +1,1 @@
-var mnemonic = "boss install shell west fancy injury sunset target machine foot drift popular";
+var mnemonic = "food laugh excuse quick retreat absurd cool menu farm disagree feature mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom find video huge left slight tourist pioneer lamp endorse pull spare";
+var mnemonic = "chronic vehicle planet nation dune town about remember can winner siren sort";

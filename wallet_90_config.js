@@ -1,1 +1,1 @@
-var mnemonic = "order gloom stamp notice economy pig zero sail juice food common renew";
+var mnemonic = "mobile dawn rack dilemma borrow refuse number rubber million van swing lucky";

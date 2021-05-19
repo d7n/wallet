@@ -1,1 +1,1 @@
-var mnemonic = "street toward leopard more cave village boil manage indicate arrow neither affair";
+var mnemonic = "jealous process man honey hard tree firm security weasel rate cloud rural";

@@ -1,1 +1,1 @@
-var mnemonic = "where another fashion chest grief shove reveal razor spray phrase current tilt";
+var mnemonic = "other margin hedgehog damage clinic field census unlock solve client biology stable";

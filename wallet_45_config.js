@@ -1,1 +1,1 @@
-var mnemonic = "feature awful muffin feature material boat drum report test naive awful original";
+var mnemonic = "stereo mention park resemble sibling tongue novel juice talk inside humble chief";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic drip emerge fan mom flat entire cloth right era mechanic range";
+var mnemonic = "stand cigar hill clip error avoid unique miracle crime juice meat tag";

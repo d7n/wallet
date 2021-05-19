@@ -1,1 +1,1 @@
-var mnemonic = "evil end solution april soup fold elephant network quality place mix weapon";
+var mnemonic = "unlock decide eager blast used virtual remind subway identify century moment valid";

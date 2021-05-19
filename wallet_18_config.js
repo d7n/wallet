@@ -1,1 +1,1 @@
-var mnemonic = "poet domain invest slot witness riot egg giggle stand control infant apology";
+var mnemonic = "blossom cruel hamster melt element course between vanish buffalo only before fabric";

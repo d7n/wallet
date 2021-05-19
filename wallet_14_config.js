@@ -1,1 +1,1 @@
-var mnemonic = "exile cat clarify polar helmet original damage call cup current gorilla sting";
+var mnemonic = "attend credit session smart cruise label river excite name own address defy";

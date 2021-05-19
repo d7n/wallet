@@ -1,1 +1,1 @@
-var mnemonic = "elephant enjoy fade donor vast mistake plate nation police magnet umbrella bird";
+var mnemonic = "push buffalo crisp cotton strong lava genius impact type rent post bean";

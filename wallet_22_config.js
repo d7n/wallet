@@ -1,1 +1,1 @@
-var mnemonic = "suffer scare kitten spoon chat rail lava primary chair boil accident garden";
+var mnemonic = "favorite romance grief danger neglect element prevent pioneer vote close either exhibit";

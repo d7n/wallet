@@ -1,1 +1,1 @@
-var mnemonic = "boy convince honey tourist always chapter debate lava sample tiger access youth";
+var mnemonic = "call visit enable bounce observe frozen boring code consider much glow vault";

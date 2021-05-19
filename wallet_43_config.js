@@ -1,1 +1,1 @@
-var mnemonic = "divide rookie define thought clog doll begin city shallow gas cement liberty";
+var mnemonic = "firm weekend hour need borrow oven noodle burden dash wasp reunion tonight";

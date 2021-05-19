@@ -1,1 +1,1 @@
-var mnemonic = "margin hood admit school grow sponsor element around rescue print move nothing";
+var mnemonic = "skull antenna pink style capital limit gallery civil notable climb venture bargain";

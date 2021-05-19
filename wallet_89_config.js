@@ -1,1 +1,1 @@
-var mnemonic = "ranch torch possible mountain weasel height quick attitude ritual uncover frost fly";
+var mnemonic = "there merit entire hint milk sister word brief dwarf excite left bike";

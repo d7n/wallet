@@ -1,1 +1,1 @@
-var mnemonic = "avoid someone depth buffalo what amount vital blame hedgehog giant spoon hybrid";
+var mnemonic = "cage canyon avocado popular success door size solve lucky second text legend";

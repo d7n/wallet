@@ -1,1 +1,1 @@
-var mnemonic = "amount whisper stumble desk dragon keep image sell apart typical uphold grit";
+var mnemonic = "exercise nominee aerobic laugh exile usage any scatter vicious junk issue gown";

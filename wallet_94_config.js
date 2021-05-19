@@ -1,1 +1,1 @@
-var mnemonic = "medal industry enroll fancy disagree civil slot access exist allow keep rib";
+var mnemonic = "measure still east hold coast absent clean odor cousin awful skull tent";

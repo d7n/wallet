@@ -1,1 +1,1 @@
-var mnemonic = "bleak mixture ball clay vendor predict build thing prize hole magnet issue";
+var mnemonic = "tip account illness twenty destroy axis baby aware human wrist thrive hurry";

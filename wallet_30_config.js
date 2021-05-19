@@ -1,1 +1,1 @@
-var mnemonic = "moral theme nephew ball cave sphere dose throw divorce leave asthma nothing";
+var mnemonic = "tool hammer bargain child wasp helmet vocal either alter cube lonely shove";

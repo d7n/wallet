@@ -1,1 +1,1 @@
-var mnemonic = "private steel neither average manual license must blood bridge decorate list giggle";
+var mnemonic = "panther game mosquito exhibit purchase praise steel risk liquid other observe patch";

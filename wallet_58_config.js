@@ -1,1 +1,1 @@
-var mnemonic = "saddle oak miracle sick thank oil flip benefit panel write license cost";
+var mnemonic = "trap sentence come merry about year acid siege pepper predict breeze pitch";

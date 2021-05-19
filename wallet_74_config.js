@@ -1,1 +1,1 @@
-var mnemonic = "barrel park mix grunt item wrap bid champion explain hockey east patrol";
+var mnemonic = "vague wide rubber wife dignity potato phrase script fortune brush travel start";

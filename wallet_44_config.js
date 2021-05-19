@@ -1,1 +1,1 @@
-var mnemonic = "attract famous tag tide vocal segment neglect uncover reform civil cruise midnight";
+var mnemonic = "awful exit fetch muffin bind lobster text civil valley trophy worth curtain";

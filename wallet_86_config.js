@@ -1,1 +1,1 @@
-var mnemonic = "program isolate brave magnet cement swear betray large spoil room oppose erase";
+var mnemonic = "dash drift fury sand avoid buffalo debris have physical lobster sick anxiety";

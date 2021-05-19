@@ -1,1 +1,1 @@
-var mnemonic = "affair solution disorder bless two sunset ski baby beauty churn angle quit";
+var mnemonic = "shoe wasp venture identify race exit license slush perfect review economy cable";

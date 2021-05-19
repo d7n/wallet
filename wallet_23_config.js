@@ -1,1 +1,1 @@
-var mnemonic = "salon can accident require stereo garlic chuckle remember ankle weather festival expand";
+var mnemonic = "bachelor remember gorilla stock hazard build wave junior fresh agree crouch cover";

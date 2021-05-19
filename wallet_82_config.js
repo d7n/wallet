@@ -1,1 +1,1 @@
-var mnemonic = "rose bird bridge child goose hope bicycle leave turtle ignore merry write";
+var mnemonic = "joy female poverty weasel reward setup lend orbit strategy column issue cross";

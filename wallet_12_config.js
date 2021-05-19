@@ -1,1 +1,1 @@
-var mnemonic = "moon must ready consider abstract capital damage improve math company chest wonder";
+var mnemonic = "puppy siren turn avoid myself climb disorder lonely phrase town orchard merit";

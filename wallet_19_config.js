@@ -1,1 +1,1 @@
-var mnemonic = "spice shaft lizard lemon soccer swim remind garden across lady badge empower";
+var mnemonic = "icon hybrid anxiety three injury address bone lunar swarm whisper rate promote";

@@ -1,1 +1,1 @@
-var mnemonic = "old alter soap better begin scatter noble tortoise disagree faint save reject";
+var mnemonic = "stick zone victory page miracle undo barrel special absurd three blame inside";

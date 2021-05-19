@@ -1,1 +1,1 @@
-var mnemonic = "river dirt boat ice chimney tide wisdom love nut involve keen insane";
+var mnemonic = "hen bag bunker casino stable swarm voice gun room payment mammal exhibit";

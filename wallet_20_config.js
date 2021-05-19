@@ -1,1 +1,1 @@
-var mnemonic = "food join alone say royal hello keep anchor cluster cross oven faculty";
+var mnemonic = "jungle viable camera knee essay return frost gorilla trust punch acid palm";

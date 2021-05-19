@@ -1,1 +1,1 @@
-var mnemonic = "wood credit black thrive possible siren demise garbage slam they soon eternal";
+var mnemonic = "palace chuckle lunar present derive time soldier lake shoulder uphold evoke between";

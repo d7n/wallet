@@ -1,1 +1,1 @@
-var mnemonic = "coil drum metal position edit spin obtain latin velvet citizen muscle tray";
+var mnemonic = "elephant much dice dove mouse shiver fish miracle sudden fine nut room";

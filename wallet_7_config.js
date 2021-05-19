@@ -1,1 +1,1 @@
-var mnemonic = "bus fit unable acoustic gate bottom flight six surge mask device bamboo";
+var mnemonic = "upset viable early wheel oblige eagle wave pool hazard diagram few busy";

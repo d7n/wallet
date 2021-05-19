@@ -1,1 +1,1 @@
-var mnemonic = "someone sport torch ice race trick chuckle east author whale rule butter";
+var mnemonic = "only draft sleep absent unfold smile regular near eight steel mother whisper";

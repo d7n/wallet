@@ -1,1 +1,1 @@
-var mnemonic = "stay want furnace obscure license assume sibling scorpion ordinary guess digital clump";
+var mnemonic = "swarm resist guide spatial hawk alien trick domain orange chief multiply maid";

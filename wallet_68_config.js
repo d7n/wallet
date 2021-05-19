@@ -1,1 +1,1 @@
-var mnemonic = "bring run laptop lesson collect abstract iron canoe attack hope doctor catalog";
+var mnemonic = "caught pulse stock few nephew renew lawn ancient wide tomato year sing";

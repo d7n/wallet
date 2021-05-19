@@ -1,1 +1,1 @@
-var mnemonic = "error drop case lend flag conduct also smart visual vague bone goose";
+var mnemonic = "ostrich dwarf private business stamp same mixed pause basic lab sphere teach";

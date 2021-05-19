@@ -1,1 +1,1 @@
-var mnemonic = "happy symbol dial vast hurt pair garment turkey risk wing early vacuum";
+var mnemonic = "fall path opera retreat canoe poem chimney first depend asthma brush misery";

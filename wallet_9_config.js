@@ -1,1 +1,1 @@
-var mnemonic = "cattle kind exact keen easily rug giggle romance digital demand wine fold";
+var mnemonic = "desert quantum eagle fun diamond obtain cactus problem know arch twice arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve excuse gun debris oval thing claw sport bundle winter solid bright";
+var mnemonic = "deputy purse mask daughter security adult pear test rebel police breeze recall";

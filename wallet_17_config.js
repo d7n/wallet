@@ -1,1 +1,1 @@
-var mnemonic = "bracket sorry menu mask robot opera theme diesel asthma comic senior enhance";
+var mnemonic = "around glimpse chat bamboo stadium shrimp pulse code minute six ring okay";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden bulb easily pride february timber mutual tide drive define worry skate";
+var mnemonic = "uncover inflict sheriff pass lesson ball core such dust sponsor unit vendor";

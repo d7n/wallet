@@ -1,1 +1,1 @@
-var mnemonic = "cactus team envelope coast strategy learn must super drop hat churn coast";
+var mnemonic = "replace belt eight become scissors tiger bird leopard jewel frame attack ritual";

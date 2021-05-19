@@ -1,1 +1,1 @@
-var mnemonic = "crime achieve fire nasty vessel scrub weasel nose protect prize silly state";
+var mnemonic = "night carry blade tuition trouble horror impact hollow bachelor autumn shoe play";

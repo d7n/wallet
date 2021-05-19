@@ -1,1 +1,1 @@
-var mnemonic = "husband deposit arctic indoor monster guilt retreat riot time fossil avoid brown";
+var mnemonic = "cute van chest smooth tunnel beauty motion sadness settle artist breeze drift";

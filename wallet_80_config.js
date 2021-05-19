@@ -1,1 +1,1 @@
-var mnemonic = "midnight cricket volume ridge gap fan lion any woman shine senior law";
+var mnemonic = "choice envelope anxiety average leisure obvious enlist apple truly vessel smart guard";

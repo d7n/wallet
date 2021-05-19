@@ -1,1 +1,1 @@
-var mnemonic = "lizard junk middle unknown science kind shiver dust obscure kick exclude spawn";
+var mnemonic = "welcome copper pride dash loan army witness fortune muffin corn become journey";

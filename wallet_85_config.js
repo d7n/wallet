@@ -1,1 +1,1 @@
-var mnemonic = "alarm pizza sunset page general volume goose review furnace deny health possible";
+var mnemonic = "garage frown used novel useless vicious tunnel junk inspire recall arctic monster";

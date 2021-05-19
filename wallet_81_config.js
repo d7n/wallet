@@ -1,1 +1,1 @@
-var mnemonic = "stuff science price possible crisp brass capital tissue slam heavy miracle symbol";
+var mnemonic = "adjust together blossom child journey table truck caution expire genuine nephew strike";

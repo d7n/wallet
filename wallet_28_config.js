@@ -1,1 +1,1 @@
-var mnemonic = "multiply hidden rapid jealous thank soul inhale holiday match lion unfold exit";
+var mnemonic = "soup bone horn tumble shaft left double donkey finger isolate chunk column";

@@ -1,1 +1,1 @@
-var mnemonic = "dog possible cotton student zebra trap become earth tortoise certain observe license";
+var mnemonic = "biology banner detect range practice gas cloth venture cart pony ramp decrease";

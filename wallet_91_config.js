@@ -1,1 +1,1 @@
-var mnemonic = "remain vacant struggle desert bless marble fun marriage sorry winter calm milk";
+var mnemonic = "clump snap tenant visit solve arrow scrub soda jaguar skate ignore dove";

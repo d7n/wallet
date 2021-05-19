@@ -1,1 +1,1 @@
-var mnemonic = "fish police trigger blind velvet comfort promote city security network today pause";
+var mnemonic = "puppy demand asset emerge sheriff brush crime setup gate security anger cheap";

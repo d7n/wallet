@@ -1,1 +1,1 @@
-var mnemonic = "minimum rookie green giraffe very rookie athlete ride hole lecture good cave";
+var mnemonic = "oyster soda distance switch digital canvas goose trap forest section nut gossip";

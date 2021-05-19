@@ -1,1 +1,1 @@
-var mnemonic = "pause puzzle latin excuse pole polar panel correct butter snap hurdle still";
+var mnemonic = "field force jaguar weapon muffin annual client drift burst repair fiber laugh";

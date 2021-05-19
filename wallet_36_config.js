@@ -1,1 +1,1 @@
-var mnemonic = "orange squeeze miracle stone attend honey control snap interest episode rival soldier";
+var mnemonic = "junior remain zebra border teach exotic ocean detail tennis pet oppose oven";

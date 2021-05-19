@@ -1,1 +1,1 @@
-var mnemonic = "goose cute exit collect road valley carry gym merry board into evil";
+var mnemonic = "food oyster goddess spend lunch dilemma just oppose inner squeeze hurdle rabbit";

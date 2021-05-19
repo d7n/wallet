@@ -1,1 +1,1 @@
-var mnemonic = "boring robust primary service panic consider series box gauge trip mind coral";
+var mnemonic = "wave mouse bag cricket turkey banner until act tell token twelve pencil";

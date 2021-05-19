@@ -1,1 +1,1 @@
-var mnemonic = "gap energy ecology female exercise net bright farm vacant tomorrow warrior relax";
+var mnemonic = "suffer flush water morning fade broccoli yellow item cradle follow fix oyster";

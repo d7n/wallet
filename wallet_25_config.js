@@ -1,1 +1,1 @@
-var mnemonic = "match poverty crack win divide climb number cactus ribbon chase lesson crane";
+var mnemonic = "health recall project ensure trap endless summer similar buddy feed birth brown";

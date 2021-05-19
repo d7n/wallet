@@ -1,1 +1,1 @@
-var mnemonic = "clerk gallery funny kiwi inject panda ordinary symptom zebra muscle still prison";
+var mnemonic = "gift museum calm tiny slide space traffic ugly call echo panther hub";

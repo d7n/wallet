@@ -1,1 +1,1 @@
-var mnemonic = "taxi ramp target dirt extend nominee prize submit refuse smart sentence income";
+var mnemonic = "soul pattern chunk flash increase thing lens giraffe dream tragic assume sleep";

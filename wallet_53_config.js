@@ -1,1 +1,1 @@
-var mnemonic = "wreck picture risk loan chest note zone help ordinary foil snake pledge";
+var mnemonic = "proof payment zebra submit soul furnace decrease leg radio hill horn library";

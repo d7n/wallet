@@ -1,1 +1,1 @@
-var mnemonic = "garden motor second double round ankle farm undo circle beauty impact bless";
+var mnemonic = "swamp amateur joke giant carpet exist media brick pond nut spoil wealth";

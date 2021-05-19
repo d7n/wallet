@@ -1,1 +1,1 @@
-var mnemonic = "sphere flush middle resist nose ripple depend mammal fragile ordinary flight crystal";
+var mnemonic = "unique plate today romance category limb boring female myself news orbit copy";

@@ -1,1 +1,1 @@
-var mnemonic = "solve cabin report alien ranch diamond silly essence oblige spring inmate exclude";
+var mnemonic = "hotel spawn rare head sort journey scare letter syrup mad claw indoor";

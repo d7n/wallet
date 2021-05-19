@@ -1,1 +1,1 @@
-var mnemonic = "inherit media fox practice spirit possible stone oval submit fuel beef penalty";
+var mnemonic = "project unique industry drama speak salmon bronze entire wonder repeat firm major";

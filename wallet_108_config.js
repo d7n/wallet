@@ -1,1 +1,1 @@
-var mnemonic = "peanut used apart client box syrup voyage crater layer use cupboard crystal";
+var mnemonic = "equip turn naive fog mountain buyer brother fork one chuckle gaze lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "come skill coyote twin hood universe relax chase debate salmon silent away";
+var mnemonic = "slender sing unknown nation siege bamboo whisper rib gather sock leave knife";
