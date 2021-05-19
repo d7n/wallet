@@ -1,1 +1,1 @@
-var mnemonic = "pool critic pipe lawsuit scheme acoustic trumpet stage oval often old brick";
+var mnemonic = "valve valley account inmate shock strike divide any flag page crop mule";

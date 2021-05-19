@@ -1,1 +1,1 @@
-var mnemonic = "october square index tourist sudden diet lawn thunder describe ghost mention shift";
+var mnemonic = "private grass cup game brass quantum bomb swim ill photo vicious bracket";

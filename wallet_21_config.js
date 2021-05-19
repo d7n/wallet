@@ -1,1 +1,1 @@
-var mnemonic = "menu fancy dune dizzy license act devote time mango measure raccoon glance";
+var mnemonic = "affair erupt object wolf faith eight robot sheriff hello asthma love canal";

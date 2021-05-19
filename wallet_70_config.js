@@ -1,1 +1,1 @@
-var mnemonic = "fame huge slide flush demand focus write morning spend inform sample scan";
+var mnemonic = "joke rich anchor infant drastic home garden situate shuffle retreat floor athlete";

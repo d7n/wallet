@@ -1,1 +1,1 @@
-var mnemonic = "invest clinic canal flee special artwork monkey occur hedgehog use approve security";
+var mnemonic = "menu expire stock predict social hamster width border pattern tongue decorate erase";

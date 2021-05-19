@@ -1,1 +1,1 @@
-var mnemonic = "oyster case toilet sail gas early industry exist crush kitten purchase magic";
+var mnemonic = "ghost cushion near private flip bike aim heavy repeat lyrics cement noodle";

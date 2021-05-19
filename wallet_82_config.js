@@ -1,1 +1,1 @@
-var mnemonic = "protect flavor address trade camera into test business mistake distance roast term";
+var mnemonic = "erode fade neutral hospital shoe north usual bean tumble boost fatal visa";

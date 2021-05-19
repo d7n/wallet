@@ -1,1 +1,1 @@
-var mnemonic = "auction nature century fiscal actress acquire note uphold olive drip bunker forest";
+var mnemonic = "subject advance horn flee afraid turkey follow board super view ill picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "odor upon toss magic parade useless science cradle tenant border scrub minor";
+var mnemonic = "false jeans nerve appear lonely orbit remember often hard hidden stable guilt";

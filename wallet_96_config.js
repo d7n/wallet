@@ -1,1 +1,1 @@
-var mnemonic = "empower plastic client weekend increase test sound bitter clip few chair risk";
+var mnemonic = "snack knife baby remain laundry mango expect include recipe cruel neck tunnel";

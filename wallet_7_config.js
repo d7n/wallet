@@ -1,1 +1,1 @@
-var mnemonic = "inhale turn throw artefact feed velvet cloud warrior pig mix fiscal poverty";
+var mnemonic = "radar approve nature script method garbage outside add this alpha relax engage";

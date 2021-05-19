@@ -1,1 +1,1 @@
-var mnemonic = "leaf carpet aunt jacket naive donor skill grab artwork verify exist symptom";
+var mnemonic = "wheat soon tone noise black travel chapter veteran taxi room vendor rival";

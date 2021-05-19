@@ -1,1 +1,1 @@
-var mnemonic = "salute property video zoo slab faith toilet slight city there swarm right";
+var mnemonic = "woman disease mango equip blast useless emerge carbon execute naive peanut bulb";

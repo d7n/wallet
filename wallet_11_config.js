@@ -1,1 +1,1 @@
-var mnemonic = "diamond galaxy climb village inform basket balcony salt strategy unfair robust unlock";
+var mnemonic = "lava bargain host sentence initial swamp subject animal sand leader damp nest";

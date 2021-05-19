@@ -1,1 +1,1 @@
-var mnemonic = "strong range jacket ability strike absent hub endless drastic surround cattle primary";
+var mnemonic = "suggest race crouch little unhappy basic before extra lunar coach absorb panic";

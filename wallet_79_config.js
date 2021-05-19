@@ -1,1 +1,1 @@
-var mnemonic = "toe exile unhappy enhance seat merge govern balcony mother start scheme receive";
+var mnemonic = "blouse empty cable thing blade bus piano say steak session poverty student";

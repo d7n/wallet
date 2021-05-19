@@ -1,1 +1,1 @@
-var mnemonic = "element calm allow betray master bargain pony dutch stone bitter allow upper";
+var mnemonic = "whisper special junior minimum actor combine garden diagram warfare wise tuition panic";

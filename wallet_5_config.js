@@ -1,1 +1,1 @@
-var mnemonic = "phrase start destroy soap try mouse lunch hen differ team route evolve";
+var mnemonic = "kite book boring indoor crash thunder garment gain air solar cement dizzy";

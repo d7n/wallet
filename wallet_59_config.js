@@ -1,1 +1,1 @@
-var mnemonic = "spatial steak fragile match amount gauge view cement dynamic skill simple phone";
+var mnemonic = "secret foot mirror gloom bargain praise romance employ domain crouch light card";

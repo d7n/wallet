@@ -1,1 +1,1 @@
-var mnemonic = "run comic crop diagram lawn mouse wonder assault present drift magic oven";
+var mnemonic = "afraid dumb cushion gossip now outer magic mandate diesel forget term abuse";

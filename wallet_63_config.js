@@ -1,1 +1,1 @@
-var mnemonic = "urban rent arrest attack awesome nothing panic install faith mansion copper furnace";
+var mnemonic = "digital snake neck improve law soldier mandate inquiry rhythm island friend rural";

@@ -1,1 +1,1 @@
-var mnemonic = "derive sketch flag bar town limit vital acquire insect riot leg depth";
+var mnemonic = "federal fog organ usage coach live kangaroo hobby enlist rookie ordinary open";

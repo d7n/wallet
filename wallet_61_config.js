@@ -1,1 +1,1 @@
-var mnemonic = "erosion math scene select ostrich spell tissue foot auction chase that clown";
+var mnemonic = "vote tool twice hat rival just surge consider wing nut limit chunk";

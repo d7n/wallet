@@ -1,1 +1,1 @@
-var mnemonic = "casino essence desert coast practice boring entry evoke evoke basic crack minor";
+var mnemonic = "into thought slim vote aunt maid suggest clump book frog opera response";

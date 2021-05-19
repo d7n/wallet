@@ -1,1 +1,1 @@
-var mnemonic = "spend tooth chalk visa bicycle crouch vacant verb age typical math maximum";
+var mnemonic = "mom jar chimney clarify hire side boil nut toe screen spider cloth";

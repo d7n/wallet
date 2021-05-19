@@ -1,1 +1,1 @@
-var mnemonic = "this add cheese clock trap dynamic body gold found indoor wet reward";
+var mnemonic = "office velvet spring salad benefit surge offer toast capable lawsuit cigar kiwi";

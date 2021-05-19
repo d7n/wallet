@@ -1,1 +1,1 @@
-var mnemonic = "catalog control hill utility cream dentist sort cage glance muscle desert width";
+var mnemonic = "erosion brass legend dash blame dilemma supreme humor course analyst unique clump";

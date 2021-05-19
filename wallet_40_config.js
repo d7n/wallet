@@ -1,1 +1,1 @@
-var mnemonic = "shadow stable hazard tissue oak sunset barrel kidney brave front energy slender";
+var mnemonic = "split barely wisdom discover school wedding gold animal capital panic soap window";

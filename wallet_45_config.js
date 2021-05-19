@@ -1,1 +1,1 @@
-var mnemonic = "scene copper frog frequent hotel host this torch lottery produce combine illness";
+var mnemonic = "tape pattern salad hidden rain festival offer tribe business tennis answer payment";

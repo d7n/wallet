@@ -1,1 +1,1 @@
-var mnemonic = "afford bar gap tattoo burger fork blood lizard tourist alert gaze copy";
+var mnemonic = "city auto valve author major odor need fix resemble cushion dilemma board";

@@ -1,1 +1,1 @@
-var mnemonic = "banana dry cash ritual rescue film okay ready sudden venture note lunar";
+var mnemonic = "weapon physical supreme ankle rent innocent inner path puppy buddy yellow peasant";

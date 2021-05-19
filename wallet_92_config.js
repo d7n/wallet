@@ -1,1 +1,1 @@
-var mnemonic = "arrive music enhance claw blood stable holiday dirt eye monitor gorilla diagram";
+var mnemonic = "surround hidden surface bubble jelly first thing van lawsuit load movie wine";

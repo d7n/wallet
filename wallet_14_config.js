@@ -1,1 +1,1 @@
-var mnemonic = "neither trash often century vast pretty oval engine honey spoil circle history";
+var mnemonic = "goddess punch verify mom scorpion stadium slab six taste waste exchange capital";

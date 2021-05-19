@@ -1,1 +1,1 @@
-var mnemonic = "color power globe local expect online device shallow host scare lumber truth";
+var mnemonic = "brush street near security dynamic motion dream media mandate crucial change rebuild";

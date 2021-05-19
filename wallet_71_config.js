@@ -1,1 +1,1 @@
-var mnemonic = "chief search hazard attitude speed rug profit sunny hollow night cricket session";
+var mnemonic = "element soup inflict subject aisle proof choose stomach once brave arctic drama";

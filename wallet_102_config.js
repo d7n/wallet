@@ -1,1 +1,1 @@
-var mnemonic = "goddess grief cousin air notice genius chat narrow state galaxy roast bleak";
+var mnemonic = "digital school slice fox census clock dragon wink catalog curious very february";

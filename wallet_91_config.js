@@ -1,1 +1,1 @@
-var mnemonic = "quality zero food hen awake distance breeze early mass shoot long patrol";
+var mnemonic = "orient rate floor list use shrug fold ill weasel august dance doll";

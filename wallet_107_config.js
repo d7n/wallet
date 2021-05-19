@@ -1,1 +1,1 @@
-var mnemonic = "rival antique oyster curious swear actual wrap quiz taste motion lucky unique";
+var mnemonic = "purse celery broken quantum goat snake recipe hour harvest local liberty more";

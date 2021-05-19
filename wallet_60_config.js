@@ -1,1 +1,1 @@
-var mnemonic = "resemble icon enrich omit blast hair census gospel upon survey fall hunt";
+var mnemonic = "bus virus enforce viable small theme they nasty extend monster dial canal";

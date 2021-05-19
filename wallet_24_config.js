@@ -1,1 +1,1 @@
-var mnemonic = "path few finish box chapter sea tree evidence before essence vocal art";
+var mnemonic = "mango clever brick dinner december strategy cousin any edge alley security fee";

@@ -1,1 +1,1 @@
-var mnemonic = "invest ship random path citizen pencil stereo execute kangaroo name brother live";
+var mnemonic = "attract ketchup gas fatigue cliff glimpse benefit marine detect pear remain screen";

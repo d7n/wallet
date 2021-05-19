@@ -1,1 +1,1 @@
-var mnemonic = "option chase nominee woman ancient toy minute snack owner boy combine door";
+var mnemonic = "material bronze agent problem agent crunch truly youth equal ride immense pact";

@@ -1,1 +1,1 @@
-var mnemonic = "endless wide hazard guide solve gaze burger butter rotate muffin smile van";
+var mnemonic = "label amateur assume fan pair chicken genuine snap path habit suffer illegal";

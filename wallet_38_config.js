@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit fever sword month end climb lesson resist guilt video gallery patient";
+var mnemonic = "earth edit crouch note guard soccer still sense beyond blanket friend stove";

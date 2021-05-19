@@ -1,1 +1,1 @@
-var mnemonic = "bullet tide possible dial horn mom grief choice fiction adjust dust wing";
+var mnemonic = "clarify witness slogan join ten social captain excess opera poet brown cricket";

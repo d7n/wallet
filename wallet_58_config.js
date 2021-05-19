@@ -1,1 +1,1 @@
-var mnemonic = "attend meat please round disease boring memory hamster family there clean patrol";
+var mnemonic = "gravity series taxi solution below home shrimp fitness onion flush hint west";

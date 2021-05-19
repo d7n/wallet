@@ -1,1 +1,1 @@
-var mnemonic = "fall reveal start stable combine surface alarm amazing ice badge law flavor";
+var mnemonic = "talk delay galaxy spread camp vibrant lake genre prepare identify emotion glance";

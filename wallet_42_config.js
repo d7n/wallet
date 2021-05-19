@@ -1,1 +1,1 @@
-var mnemonic = "various recall spatial skate iron vast tiny tourist yellow news dove stove";
+var mnemonic = "describe point force artefact flavor chest ozone mixture length picture gentle hover";

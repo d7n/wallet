@@ -1,1 +1,1 @@
-var mnemonic = "curve orchard side pitch provide oyster shine immense never omit stone glow";
+var mnemonic = "lazy laptop amateur memory satisfy hair begin detect pole excuse cube unusual";

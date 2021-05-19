@@ -1,1 +1,1 @@
-var mnemonic = "maple blame foot erupt crisp rent margin review flight spawn can senior";
+var mnemonic = "cloud receive cricket slide come pipe tenant lend crunch chuckle peasant little";

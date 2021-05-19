@@ -1,1 +1,1 @@
-var mnemonic = "leg disorder always will bar amount buddy adult family attitude wait slam";
+var mnemonic = "clock october public fresh apple peanut key debate quantum evil peasant scrap";

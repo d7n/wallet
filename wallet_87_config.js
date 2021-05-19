@@ -1,1 +1,1 @@
-var mnemonic = "unique liquid assist brave oblige whip mushroom seminar average autumn laptop amused";
+var mnemonic = "fancy parade ticket off roast abandon save canal little give hazard hero";

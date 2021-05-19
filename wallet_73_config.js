@@ -1,1 +1,1 @@
-var mnemonic = "allow finger disease innocent novel lunar harsh fame moment chalk mushroom fruit";
+var mnemonic = "leave shallow width song hire ship example tobacco aware dizzy lesson similar";

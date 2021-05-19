@@ -1,1 +1,1 @@
-var mnemonic = "pipe first material design release dizzy edge moon creek half goat mask";
+var mnemonic = "resource coast plug opinion truth require wet label thumb stage wait accident";

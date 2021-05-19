@@ -1,1 +1,1 @@
-var mnemonic = "jump wave travel vicious taste bid room car harsh bundle various off";
+var mnemonic = "breeze library rude pigeon hover eight hungry team traffic busy street raven";

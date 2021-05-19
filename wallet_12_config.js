@@ -1,1 +1,1 @@
-var mnemonic = "income tornado strong myself bottom learn buffalo mammal ivory large scan retire";
+var mnemonic = "nurse coyote frequent wealth border bottom note pull own curve planet outside";

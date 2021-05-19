@@ -1,1 +1,1 @@
-var mnemonic = "violin evoke vibrant exile heavy hollow coast bulb soft fiscal affair toilet";
+var mnemonic = "lucky moment embody cement game jar rapid purchase among trend million happy";

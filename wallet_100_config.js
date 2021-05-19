@@ -1,1 +1,1 @@
-var mnemonic = "interest crack become junior clap pipe pilot powder diagram despair regular begin";
+var mnemonic = "lift twice tired snap float limit apple fat banner puzzle patch desert";

@@ -1,1 +1,1 @@
-var mnemonic = "path road castle mention vehicle scheme rare swift rival retire refuse link";
+var mnemonic = "aunt amateur artefact pill boost uphold sure cattle fossil similar aspect typical";

@@ -1,1 +1,1 @@
-var mnemonic = "village dynamic call cluster nurse shy square blast food father impose gate";
+var mnemonic = "lake pilot until feed excuse protect swap public globe cactus man pave";

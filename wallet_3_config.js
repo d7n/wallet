@@ -1,1 +1,1 @@
-var mnemonic = "fabric pledge worth enough firm member diamond soldier bonus blur adapt black";
+var mnemonic = "grief maple betray charge emotion convince smooth find life quarter velvet cattle";

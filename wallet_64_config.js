@@ -1,1 +1,1 @@
-var mnemonic = "about other blur skin valley report expose page adult drip chuckle potato";
+var mnemonic = "mosquito alcohol town utility axis bread chuckle rail belt unknown bike beyond";

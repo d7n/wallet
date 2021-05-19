@@ -1,1 +1,1 @@
-var mnemonic = "behave pulp margin child else record result hill census stadium wreck save";
+var mnemonic = "purpose city frame cupboard boring jewel worth awful duck tilt topic story";

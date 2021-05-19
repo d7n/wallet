@@ -1,1 +1,1 @@
-var mnemonic = "joke horse lonely tragic position public attend design fruit feel catch oil";
+var mnemonic = "noble grab blossom love often cargo stem frown base area earn hawk";

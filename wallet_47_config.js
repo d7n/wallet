@@ -1,1 +1,1 @@
-var mnemonic = "lawn athlete clarify impact primary tongue nest wrap knee fluid lab lake";
+var mnemonic = "forward depend assist dove sorry chef avoid hospital tuna shrug dinner soul";

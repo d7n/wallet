@@ -1,1 +1,1 @@
-var mnemonic = "draft floor cargo resemble patient cannon involve token napkin truth super capital";
+var mnemonic = "cream rifle boil stage mimic absorb timber evoke amazing betray fetch output";

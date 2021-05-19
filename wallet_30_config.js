@@ -1,1 +1,1 @@
-var mnemonic = "silk stay nuclear talent chunk inquiry cattle chief valid lounge favorite post";
+var mnemonic = "broom spread artist trap grunt float planet belt route jewel toss risk";

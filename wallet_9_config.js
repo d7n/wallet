@@ -1,1 +1,1 @@
-var mnemonic = "six law adult sign milk bacon sponsor sketch still basic grid all";
+var mnemonic = "alter dumb lens vacant pulp forget service museum omit toward table logic";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco exchange replace unfair ketchup exclude stereo copy outer author fatigue soul";
+var mnemonic = "evidence iron fall safe effort able tissue coil remind grit rescue toward";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer demand favorite expect true loyal private setup young critic category cotton";
+var mnemonic = "thrive news stool level recipe act will vault joke hobby staff census";

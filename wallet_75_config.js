@@ -1,1 +1,1 @@
-var mnemonic = "visual shiver prevent cake ignore subject humor educate rally vital odor rebuild";
+var mnemonic = "dumb brain dolphin pond scare name actual over injury anchor couple syrup";

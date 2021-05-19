@@ -1,1 +1,1 @@
-var mnemonic = "win judge critic adjust potato silver video hint light enlist exact sweet";
+var mnemonic = "october narrow planet mention sister summer sure reward month test comfort foil";

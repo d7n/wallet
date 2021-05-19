@@ -1,1 +1,1 @@
-var mnemonic = "credit sentence salt city quote device indoor member throw weapon call together";
+var mnemonic = "spoil cart unique firm modify public match school wild soda hollow twice";

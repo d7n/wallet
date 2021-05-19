@@ -1,1 +1,1 @@
-var mnemonic = "pause farm wrong feel rigid alert arctic oak sea curtain quiz walk";
+var mnemonic = "success produce meat appear ability chronic bubble young before arm build cycle";

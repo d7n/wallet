@@ -1,1 +1,1 @@
-var mnemonic = "measure elevator artwork tent basket gaze immune decade concert truth repeat program";
+var mnemonic = "battle pole staff provide ask sibling invite cargo chicken invest sick above";

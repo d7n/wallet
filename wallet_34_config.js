@@ -1,1 +1,1 @@
-var mnemonic = "cannon elegant fun room fat coin inside common width office vacant mix";
+var mnemonic = "shiver diary yellow quarter slender bullet mother sheriff lounge song wedding use";

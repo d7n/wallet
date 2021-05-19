@@ -1,1 +1,1 @@
-var mnemonic = "hockey coral pill differ parrot pride sister banana open minor crunch bike";
+var mnemonic = "like walk adapt hockey harsh doctor claim unhappy timber accuse unfair accuse";

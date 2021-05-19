@@ -1,1 +1,1 @@
-var mnemonic = "also sun brown eager pond drift despair essence meadow own essence enter";
+var mnemonic = "theory tobacco couple rubber siege bind basic paddle bike maid narrow gasp";

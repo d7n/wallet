@@ -1,1 +1,1 @@
-var mnemonic = "rural door brick siren add endorse spare manual rule stool volume target";
+var mnemonic = "route finish liar add ring devote grief select often tackle afford wall";

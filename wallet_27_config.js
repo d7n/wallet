@@ -1,1 +1,1 @@
-var mnemonic = "tornado denial humble category foil muffin draw friend admit biology subject galaxy";
+var mnemonic = "tongue wasp ring exhaust friend script drift smooth manual thank news burger";

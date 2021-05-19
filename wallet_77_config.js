@@ -1,1 +1,1 @@
-var mnemonic = "catch speak diamond news wonder pen robust attack suit blouse total slender";
+var mnemonic = "blood already sweet gravity produce length wine digital exact gauge pencil pepper";

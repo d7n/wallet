@@ -1,1 +1,1 @@
-var mnemonic = "rural deposit time gorilla marriage will robust pulp bridge flee gallery uniform";
+var mnemonic = "combine web under crazy result sugar detail car birth youth taste test";

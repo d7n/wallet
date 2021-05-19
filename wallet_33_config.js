@@ -1,1 +1,1 @@
-var mnemonic = "craft lumber fatal tobacco airport buddy tree wage ostrich print carbon name";
+var mnemonic = "similar job snack lamp already urge million renew soccer you lunch priority";

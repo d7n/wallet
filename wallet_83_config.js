@@ -1,1 +1,1 @@
-var mnemonic = "toward skirt cactus grain describe hunt group health excite swear achieve various";
+var mnemonic = "long device have survey shrug renew talent deputy hedgehog solve galaxy brick";

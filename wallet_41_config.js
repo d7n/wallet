@@ -1,1 +1,1 @@
-var mnemonic = "yellow kitchen program develop link stage energy unlock member shove poem armed";
+var mnemonic = "blood van attract reform decide inhale budget lucky plug you soul bracket";

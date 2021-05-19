@@ -1,1 +1,1 @@
-var mnemonic = "junk blade spike adapt silly zebra depth over valve duty blossom change";
+var mnemonic = "crumble interest soft ensure merge attract comfort pink inform pattern entry sample";

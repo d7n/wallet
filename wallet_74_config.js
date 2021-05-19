@@ -1,1 +1,1 @@
-var mnemonic = "sudden shock around convince brown kite artwork filter case worry trip fold";
+var mnemonic = "point common knife grass business course matter naive wrap ten mutual real";

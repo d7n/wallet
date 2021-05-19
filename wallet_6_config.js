@@ -1,1 +1,1 @@
-var mnemonic = "now want animal lucky cake snake client parrot review mansion popular session";
+var mnemonic = "swallow annual load cake pioneer relax wear camera turtle pulp actual circle";

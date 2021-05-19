@@ -1,1 +1,1 @@
-var mnemonic = "heavy foam civil bless embark demand loop verify entire month misery silk";
+var mnemonic = "duck ritual elder scorpion manage quit found monitor abandon bullet father grab";
