@@ -1,1 +1,1 @@
-var mnemonic = "one provide outdoor source canal crime legend transfer energy physical shallow dress";
+var mnemonic = "snake abuse hollow window neck artefact intact measure advance hurt silent spirit";

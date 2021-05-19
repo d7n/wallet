@@ -1,1 +1,1 @@
-var mnemonic = "exclude fantasy birth increase copy embrace gauge pride alley surprise brave fashion";
+var mnemonic = "crime neglect bullet stick apple loop extra fuel ride retire illegal month";

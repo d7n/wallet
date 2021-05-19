@@ -1,1 +1,1 @@
-var mnemonic = "annual gift embody square dumb favorite curtain truth goddess view divide allow";
+var mnemonic = "genuine silk matter online stay antenna toy visit field hockey reopen note";

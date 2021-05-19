@@ -1,1 +1,1 @@
-var mnemonic = "sun earn update ahead able inflict essay tell wolf banana pet side";
+var mnemonic = "size skin winner street subway parade flash route vault tent inhale umbrella";

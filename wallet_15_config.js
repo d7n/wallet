@@ -1,1 +1,1 @@
-var mnemonic = "claim still ask soon husband black angle define crash thunder ill ostrich";
+var mnemonic = "sniff rebuild dove source plug pride because field video welcome clown latin";

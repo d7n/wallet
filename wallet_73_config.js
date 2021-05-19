@@ -1,1 +1,1 @@
-var mnemonic = "index safe bonus genuine crater peace heart east oxygen modify visual knock";
+var mnemonic = "inflict cousin anger couple rose congress extra silver wise drama diary spatial";

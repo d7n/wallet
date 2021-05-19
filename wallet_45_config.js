@@ -1,1 +1,1 @@
-var mnemonic = "shock settle educate any second coast six glue indoor friend buffalo glue";
+var mnemonic = "ignore tuition engine hard carpet whip poverty people order unit obvious lumber";

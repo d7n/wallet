@@ -1,1 +1,1 @@
-var mnemonic = "lens speak aerobic ski ridge increase find stumble slow state laugh phrase";
+var mnemonic = "idle rich april paddle dirt raven voice style merit exit below vacant";

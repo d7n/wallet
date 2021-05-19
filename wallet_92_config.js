@@ -1,1 +1,1 @@
-var mnemonic = "shy salute capital antenna danger food solve call twin cable chuckle surface";
+var mnemonic = "food endless virus roast glue radar news dwarf million promote evoke window";

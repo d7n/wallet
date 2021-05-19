@@ -1,1 +1,1 @@
-var mnemonic = "wagon dove crystal just puzzle minor pyramid diesel chunk cannon lounge oven";
+var mnemonic = "auction few naive begin tape purchase chunk unusual devote kind survey heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "board sustain lake call process dad chunk raise spike dwarf endorse success";
+var mnemonic = "catalog remember wrist always mixture alley defy dune wheel magnet paper loyal";

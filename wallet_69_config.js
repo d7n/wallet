@@ -1,1 +1,1 @@
-var mnemonic = "apology assume trophy trigger custom venture mushroom task cigar famous upper action";
+var mnemonic = "glide boil project quiz fruit spider fun grain trust brick city coffee";

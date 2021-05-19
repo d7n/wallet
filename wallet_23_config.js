@@ -1,1 +1,1 @@
-var mnemonic = "execute forest tiger oppose apart powder genius use boat flower void bicycle";
+var mnemonic = "client unveil broom wise benefit light shrimp collect anxiety cross render dog";

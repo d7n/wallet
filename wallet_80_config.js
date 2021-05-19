@@ -1,1 +1,1 @@
-var mnemonic = "visit tenant vast worth enroll abandon immense uphold below vague evil label";
+var mnemonic = "airport rookie tennis express smile cheese erase motion giant depart physical box";

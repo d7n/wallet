@@ -1,1 +1,1 @@
-var mnemonic = "crumble era know acoustic exercise truth account curtain bundle metal gospel noble";
+var mnemonic = "hint emotion beach need ring butter patient resemble welcome purchase search enough";

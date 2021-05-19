@@ -1,1 +1,1 @@
-var mnemonic = "sure column relief text evidence rough face wrestle erosion obscure abuse indoor";
+var mnemonic = "case diesel business add orbit measure machine carry drip album option mixed";

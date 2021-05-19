@@ -1,1 +1,1 @@
-var mnemonic = "action ten venue orphan arrest luxury ship regular surface harsh only cute";
+var mnemonic = "virtual weasel cook wrist abandon worry fiber host cave police exhaust ranch";

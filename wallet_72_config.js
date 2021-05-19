@@ -1,1 +1,1 @@
-var mnemonic = "track federal decrease liar lottery talent elbow panther permit fan code access";
+var mnemonic = "warfare program sound ostrich fresh embrace alarm update asthma spring benefit grace";

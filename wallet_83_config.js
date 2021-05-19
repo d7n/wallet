@@ -1,1 +1,1 @@
-var mnemonic = "urge heavy subway crawl wait normal become oxygen decrease remove ladder satisfy";
+var mnemonic = "lend seat call region flame crime improve gadget grunt address object swarm";

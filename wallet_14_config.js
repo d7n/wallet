@@ -1,1 +1,1 @@
-var mnemonic = "october unique sustain save issue endless room advice medal confirm link knock";
+var mnemonic = "include eyebrow treat like deny poet mean group yellow mango shiver artefact";

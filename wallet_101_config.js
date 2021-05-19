@@ -1,1 +1,1 @@
-var mnemonic = "deny lyrics marine know motor enlist banana symptom dog split hand trumpet";
+var mnemonic = "spin duck broken ignore topple fire inmate disorder valley impact today chalk";

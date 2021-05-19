@@ -1,1 +1,1 @@
-var mnemonic = "sun valve inquiry envelope mystery tomato weather gravity party embody coast also";
+var mnemonic = "fortune guess arch surge blossom fitness explain exhibit lamp earn scout chair";

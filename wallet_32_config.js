@@ -1,1 +1,1 @@
-var mnemonic = "exhaust earn bunker tragic title table icon bench ankle symbol reopen actor";
+var mnemonic = "walk gym virtual organ rotate ahead phone damage offer fitness symbol remind";

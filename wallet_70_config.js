@@ -1,1 +1,1 @@
-var mnemonic = "motion kick guilt couple blood mansion cake glide nerve citizen garbage embrace";
+var mnemonic = "warrior image wrap fat theory distance buyer pull forest hub genuine about";

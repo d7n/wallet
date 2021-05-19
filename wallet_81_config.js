@@ -1,1 +1,1 @@
-var mnemonic = "lift waste figure powder medal chimney point parrot maid opinion margin tennis";
+var mnemonic = "humor duty dirt arrive sweet heavy poverty crime wage remove weapon crystal";

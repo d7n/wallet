@@ -1,1 +1,1 @@
-var mnemonic = "believe dignity false patch start print have excess brother often insane solar";
+var mnemonic = "portion chest west purchase hammer draw ill enforce place harbor spray junior";

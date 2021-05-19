@@ -1,1 +1,1 @@
-var mnemonic = "way stadium unable remain hire feature avoid skin cost ranch idea stomach";
+var mnemonic = "enemy jeans they march youth raven estate recycle kit split urban off";

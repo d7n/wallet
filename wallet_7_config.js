@@ -1,1 +1,1 @@
-var mnemonic = "lunar zero barely obvious label term spice solve digital genius mean use";
+var mnemonic = "fortune price jazz radio drastic damp worry deliver tree inherit sock stumble";

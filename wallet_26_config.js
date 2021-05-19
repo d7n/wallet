@@ -1,1 +1,1 @@
-var mnemonic = "miss rate nurse punch power hub lecture popular ask coyote license charge";
+var mnemonic = "civil course language edge lemon cube flee audit pass immense strong name";

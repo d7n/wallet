@@ -1,1 +1,1 @@
-var mnemonic = "exotic web daring property awful antenna robust mirror barely steak elegant spell";
+var mnemonic = "warm unit bless device average loan ready zone bottom build manual lion";

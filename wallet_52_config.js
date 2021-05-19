@@ -1,1 +1,1 @@
-var mnemonic = "daring million embrace spatial topic rookie sample vocal dune good always vote";
+var mnemonic = "have embark brief barrel title staff cute remove furnace swap shrug join";

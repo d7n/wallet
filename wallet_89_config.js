@@ -1,1 +1,1 @@
-var mnemonic = "enable ready barely lecture erode program try artefact marble fine illegal tent";
+var mnemonic = "inch patient film flee swamp grass identify ecology tornado suit approve west";

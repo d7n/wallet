@@ -1,1 +1,1 @@
-var mnemonic = "dilemma elegant uphold curve ready slow shove beach satisfy cruel render method";
+var mnemonic = "next gloom ball muffin will where fashion aim sing bubble enforce grape";

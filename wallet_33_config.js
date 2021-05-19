@@ -1,1 +1,1 @@
-var mnemonic = "circle coyote repair flavor grid bicycle make brown mobile ankle never tackle";
+var mnemonic = "kind gap ability siege symbol inner blur spin citizen adult tag canyon";

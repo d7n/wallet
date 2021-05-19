@@ -1,1 +1,1 @@
-var mnemonic = "profit supreme warrior appear green risk trend tip spot height grid alcohol";
+var mnemonic = "pumpkin razor culture foam quiz dance genre panther hold gym dance shop";

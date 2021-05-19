@@ -1,1 +1,1 @@
-var mnemonic = "wisdom state knock yard notable cabin agent deny put impulse maze payment";
+var mnemonic = "popular canvas benefit husband stomach brush miracle lounge artwork prison divorce pause";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward music various visual medal turkey net tower bonus wheat heart wife";
+var mnemonic = "tape summer fashion door fat merge viable trend reject into treat damage";

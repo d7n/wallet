@@ -1,1 +1,1 @@
-var mnemonic = "visa false loop toddler explain oven trash width galaxy mother try window";
+var mnemonic = "addict purse valve color hire autumn alert toward coach length biology winter";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty trumpet cement snack visual fruit leaf festival math glance genuine afraid";
+var mnemonic = "weird maximum video armor pond acquire cabin room alter picnic unit tip";

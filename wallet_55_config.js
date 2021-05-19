@@ -1,1 +1,1 @@
-var mnemonic = "remember razor method paddle silent auction page weather noodle photo naive fold";
+var mnemonic = "detail seat path treat make gloom reform various divorce glow electric sunset";

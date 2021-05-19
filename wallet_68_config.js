@@ -1,1 +1,1 @@
-var mnemonic = "alarm whisper travel ensure observe space control design august crisp behave require";
+var mnemonic = "oxygen indoor number clutch rookie appear space fringe route lift peasant talk";

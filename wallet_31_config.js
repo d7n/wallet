@@ -1,1 +1,1 @@
-var mnemonic = "wide swamp chair grace need cause repair risk fragile pact fringe someone";
+var mnemonic = "price system dignity uncover monitor bulk engine erode human cactus six little";

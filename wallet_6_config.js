@@ -1,1 +1,1 @@
-var mnemonic = "provide net olive ask any room curious pupil where video scrub kiwi";
+var mnemonic = "detail grace diet rival alarm derive air oyster popular install wolf toe";

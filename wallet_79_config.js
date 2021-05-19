@@ -1,1 +1,1 @@
-var mnemonic = "glare tone nerve gold push creek answer disagree explain radar toss hybrid";
+var mnemonic = "betray tide hobby copper bike decide other swap tone civil wage medal";

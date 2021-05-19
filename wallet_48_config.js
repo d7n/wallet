@@ -1,1 +1,1 @@
-var mnemonic = "excite rug tube sport grant choose lady welcome crumble funny action blame";
+var mnemonic = "slot caution dad strategy tower raven pepper easily mango human brick recycle";

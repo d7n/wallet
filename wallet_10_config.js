@@ -1,1 +1,1 @@
-var mnemonic = "cram mixture evil rhythm cream dilemma athlete frame view mammal sheriff addict";
+var mnemonic = "suggest cram proud distance muscle peace celery cabin omit same border elbow";

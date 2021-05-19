@@ -1,1 +1,1 @@
-var mnemonic = "approve grass say club moment label exotic kangaroo parent carpet ribbon practice";
+var mnemonic = "word lobster before demise gesture artefact prosper marriage danger frown atom supreme";

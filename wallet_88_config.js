@@ -1,1 +1,1 @@
-var mnemonic = "taxi degree climb hold trade merit raven rhythm laundry forward extend latin";
+var mnemonic = "mother valve buffalo pudding that cradle tonight talent diet october release valve";

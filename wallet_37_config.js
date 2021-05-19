@@ -1,1 +1,1 @@
-var mnemonic = "style agree galaxy discover chicken muffin coconut flush describe drama derive photo";
+var mnemonic = "coast final tunnel ready quantum diamond link brief three fish smoke bitter";

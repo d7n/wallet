@@ -1,1 +1,1 @@
-var mnemonic = "fork card never buzz volume basket pupil corn oven collect sadness lawsuit";
+var mnemonic = "dose laugh high tiger breeze control dwarf ball tray mercy tool stereo";

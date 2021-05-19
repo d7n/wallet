@@ -1,1 +1,1 @@
-var mnemonic = "chair hat brain peace noodle pigeon quick warrior dog gold mixture hunt";
+var mnemonic = "expose toy orchard close alley force truck blur patrol strike drill bubble";

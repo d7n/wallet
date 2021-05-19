@@ -1,1 +1,1 @@
-var mnemonic = "height give hello enable rate gadget fruit match attack zoo symbol cruel";
+var mnemonic = "flock fold vacant confirm taste leg crush wide brief dust use field";

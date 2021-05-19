@@ -1,1 +1,1 @@
-var mnemonic = "absent oak embark mom elbow orphan seven wonder move mercy quote pink";
+var mnemonic = "dolphin section cheap penalty smart device below choice trigger brave describe abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "screen bomb mass clock regular elbow manual cabin patch enrich sugar connect";
+var mnemonic = "clutch seat economy category nerve joke rich acoustic refuse try analyst cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "raise organ forget never penalty mercy knife comfort fantasy sock begin promote";
+var mnemonic = "wheel tool then ordinary item soap remain change minute palm false lonely";

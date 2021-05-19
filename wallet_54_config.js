@@ -1,1 +1,1 @@
-var mnemonic = "wagon grab brush scheme spot bitter wine month task exclude erosion juice";
+var mnemonic = "okay rice cat assault focus suggest buffalo win breeze error become category";

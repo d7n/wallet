@@ -1,1 +1,1 @@
-var mnemonic = "mimic pass guide manual grocery must fish will bless angle click domain";
+var mnemonic = "goat shoulder cupboard amateur avocado wrestle party link cattle hold globe disorder";

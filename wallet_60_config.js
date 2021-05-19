@@ -1,1 +1,1 @@
-var mnemonic = "dish flower grain notable zone jump render awake couple marble fetch fiber";
+var mnemonic = "run desert lawsuit unlock brief matrix junk together chaos wealth cart combine";

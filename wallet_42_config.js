@@ -1,1 +1,1 @@
-var mnemonic = "reveal roof mom lawsuit extra fog verify ordinary cradle simple rail peanut";
+var mnemonic = "dragon citizen gas youth disease else voice praise conduct wonder alarm large";

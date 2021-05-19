@@ -1,1 +1,1 @@
-var mnemonic = "blade wrist tortoise bag capable dragon angry armor young prize legend learn";
+var mnemonic = "feature tragic nation ecology mother trial lyrics wood smooth heart document behave";

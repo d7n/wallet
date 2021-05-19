@@ -1,1 +1,1 @@
-var mnemonic = "alien whip dish timber citizen aware minute minimum north wire muscle error";
+var mnemonic = "solution slide ocean work theory garage cabbage tribe junior rebel shed moral";

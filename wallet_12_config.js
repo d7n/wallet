@@ -1,1 +1,1 @@
-var mnemonic = "chair spare harsh option large warfare shove glimpse abuse shy resemble that";
+var mnemonic = "shallow entry cage degree half swing same craft process thought board adapt";

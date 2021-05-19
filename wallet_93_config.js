@@ -1,1 +1,1 @@
-var mnemonic = "nest direct chief must master pigeon treat unaware jewel tonight kitchen fossil";
+var mnemonic = "midnight carbon grape ahead hood horn disagree oven much cereal school word";

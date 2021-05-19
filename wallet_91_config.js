@@ -1,1 +1,1 @@
-var mnemonic = "culture outer life execute zero meat error merry neck wolf bachelor history";
+var mnemonic = "music adapt copper enemy dove tiger effort orient float quick gospel absorb";

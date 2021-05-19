@@ -1,1 +1,1 @@
-var mnemonic = "west total seed glove army torch easy clip recycle town egg cabin";
+var mnemonic = "turkey beach ahead guide web love build dinosaur warm nice wise brass";

@@ -1,1 +1,1 @@
-var mnemonic = "blood like nest history accident burger wrong frequent doctor hazard image smoke";
+var mnemonic = "settle mimic depend insect swamp relax latin capital boss ask flame oyster";

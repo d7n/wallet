@@ -1,1 +1,1 @@
-var mnemonic = "inherit museum aware fat oak mechanic bitter section enlist seat wreck lucky";
+var mnemonic = "mean drip coil since mad infant spawn ripple hat today inch kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn fog school danger execute auto expand mix reunion eager cream decide";
+var mnemonic = "various riot nothing gesture mistake observe jewel grief tell cool slim kangaroo";

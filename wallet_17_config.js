@@ -1,1 +1,1 @@
-var mnemonic = "ability speed estate flock only display when try juice renew lazy economy";
+var mnemonic = "grab slush churn practice option super matter cart hero used deal predict";

@@ -1,1 +1,1 @@
-var mnemonic = "announce duck habit laugh wise crack decrease lobster unfair uniform clever tiny";
+var mnemonic = "select asset post cliff lumber plunge office tackle gold toilet sea disease";

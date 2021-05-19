@@ -1,1 +1,1 @@
-var mnemonic = "rival boat lawsuit jealous man ankle piece police pupil arena resist deny";
+var mnemonic = "boy vital early comfort rice remind already impulse between kick pony found";

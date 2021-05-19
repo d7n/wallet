@@ -1,1 +1,1 @@
-var mnemonic = "border resemble lumber night unknown dove coyote marriage hip dog hour amused";
+var mnemonic = "girl choice direct south hint potato hazard blouse horror asthma verb matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "orange exit omit debris found exercise view mail quote blur bike pelican";
+var mnemonic = "level awesome pet reopen arch weather actual naive special journey mirror bring";

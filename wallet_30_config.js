@@ -1,1 +1,1 @@
-var mnemonic = "struggle flight cigar inform liberty ugly all phone tail payment gloom still";
+var mnemonic = "burger found stage denial stereo phone possible mystery suspect please waste draw";

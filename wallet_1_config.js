@@ -1,1 +1,1 @@
-var mnemonic = "guilt spoon such mandate sphere toy govern phone roof arch potato slab";
+var mnemonic = "divorce shrimp hotel agent shield track ostrich trophy famous title route awake";

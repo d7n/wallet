@@ -1,1 +1,1 @@
-var mnemonic = "ankle joke couch agent urge culture never warrior violin syrup salad shoulder";
+var mnemonic = "twin quit exact base tower rose forward behave gloom virus lounge crumble";

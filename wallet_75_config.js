@@ -1,1 +1,1 @@
-var mnemonic = "radar pass day rate document husband say topic school mesh awful knife";
+var mnemonic = "father virtual pulse result icon vital subject violin hidden derive tumble gentle";

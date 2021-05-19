@@ -1,1 +1,1 @@
-var mnemonic = "owner gate genius rice robust sister convince toy always ride pride october";
+var mnemonic = "fiction label arrange lazy autumn picture ship short tenant stuff check team";

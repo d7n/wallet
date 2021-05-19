@@ -1,1 +1,1 @@
-var mnemonic = "acoustic urban shift gold snow program love begin ghost soul another top";
+var mnemonic = "pave connect deposit capital coil random ginger urban atom stadium oyster talk";

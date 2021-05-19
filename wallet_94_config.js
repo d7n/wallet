@@ -1,1 +1,1 @@
-var mnemonic = "stone apple short bread explain tool nerve outside mammal bean original come";
+var mnemonic = "kingdom cushion inside other weapon mandate direct staff apple unfold alone worth";

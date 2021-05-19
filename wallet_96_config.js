@@ -1,1 +1,1 @@
-var mnemonic = "latin lava olympic poem stumble toilet document arrest author foster flash basket";
+var mnemonic = "canvas stomach source violin hedgehog drift wear swim amused pony tide clip";

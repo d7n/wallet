@@ -1,1 +1,1 @@
-var mnemonic = "skull yard expose include ghost response thing chaos pull color salt exclude";
+var mnemonic = "surge spare fragile trick best budget kind ticket cruise false release afford";

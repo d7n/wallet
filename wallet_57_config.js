@@ -1,1 +1,1 @@
-var mnemonic = "capital melt hurt wave rich domain cushion knife vault steel result scorpion";
+var mnemonic = "stand endorse seminar barrel inmate valid wet response banana enjoy kid visit";

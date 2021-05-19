@@ -1,1 +1,1 @@
-var mnemonic = "oven spare long fatigue staff speak vintage clerk wing govern fruit margin";
+var mnemonic = "left festival ocean inside health trust drop circle illegal dune grocery abstract";
