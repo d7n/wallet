@@ -1,1 +1,1 @@
-var mnemonic = "outer adjust result father genuine reduce slender girl suspect hotel veteran post";
+var mnemonic = "silver away begin quantum decide today clean okay trash asthma sponsor account";

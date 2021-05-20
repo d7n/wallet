@@ -1,1 +1,1 @@
-var mnemonic = "bunker submit post domain can agree glory myself catch horn mystery quality";
+var mnemonic = "version wing glove panda alone industry job carry pave elegant jump midnight";

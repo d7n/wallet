@@ -1,1 +1,1 @@
-var mnemonic = "hurry cattle slogan outdoor model more saddle kiss similar oyster brick isolate";
+var mnemonic = "topic leisure endless filter swim left insect stomach final initial shock design";

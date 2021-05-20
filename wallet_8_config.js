@@ -1,1 +1,1 @@
-var mnemonic = "antenna column tower silly together early empty supply issue warfare trend mom";
+var mnemonic = "enforce rather three alone shoe account art you wine obvious salt exotic";

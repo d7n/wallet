@@ -1,1 +1,1 @@
-var mnemonic = "fabric gasp force ill betray empty raise place merit enable custom next";
+var mnemonic = "raise romance remind celery state genre wrestle odor math useless friend reunion";

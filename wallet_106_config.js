@@ -1,1 +1,1 @@
-var mnemonic = "myth total squeeze release snow gesture mammal awkward regret lion erupt morning";
+var mnemonic = "boy year close quantum artist walnut safe alley crack what certain theory";

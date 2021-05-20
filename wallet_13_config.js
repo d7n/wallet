@@ -1,1 +1,1 @@
-var mnemonic = "bullet mosquito gravity rally script law select child network outdoor sell home";
+var mnemonic = "flash easily wait town blade grid stool elder armor glance wait alcohol";

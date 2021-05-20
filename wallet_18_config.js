@@ -1,1 +1,1 @@
-var mnemonic = "dolphin similar feel note mean arrow mother impact year test shed match";
+var mnemonic = "unable scene volume immense patrol run reject mercy mask hurry seat series";

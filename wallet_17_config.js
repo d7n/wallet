@@ -1,1 +1,1 @@
-var mnemonic = "calm member use frown blind clip grass squeeze eager royal toilet gravity";
+var mnemonic = "hungry regular squirrel luggage false gown weather gift space enrich lumber index";

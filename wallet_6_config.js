@@ -1,1 +1,1 @@
-var mnemonic = "blind february blade agent paddle nerve right trust response bone prepare bomb";
+var mnemonic = "level share grape meadow melody husband cliff future sight sunny coach repeat";

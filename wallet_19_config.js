@@ -1,1 +1,1 @@
-var mnemonic = "rookie project ahead jazz turn oxygen crazy also blade kiss theory manual";
+var mnemonic = "they supreme private point primary fence away current increase merge powder mixture";

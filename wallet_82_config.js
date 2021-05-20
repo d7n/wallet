@@ -1,1 +1,1 @@
-var mnemonic = "biology story derive glove sell rent castle ethics heavy wave cherry budget";
+var mnemonic = "spider pattern spin noise gold sweet prefer swing trade stand rural recall";

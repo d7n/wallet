@@ -1,1 +1,1 @@
-var mnemonic = "private scout cover slab giggle opera blanket cement vendor casino lottery silent";
+var mnemonic = "since panel plunge gold economy abstract photo rotate enemy rural faith napkin";

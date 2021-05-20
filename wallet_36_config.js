@@ -1,1 +1,1 @@
-var mnemonic = "direct robot leaf flat seed spell sister people program vault forget wait";
+var mnemonic = "section mom east hair pact toe able slice trophy hello million orbit";

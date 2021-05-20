@@ -1,1 +1,1 @@
-var mnemonic = "return tilt ridge coach view neither rotate cement gain talk spatial lawn";
+var mnemonic = "screen blue news banana rack economy group march jaguar cage roast legal";

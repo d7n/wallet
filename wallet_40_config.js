@@ -1,1 +1,1 @@
-var mnemonic = "gospel diamond record screen talk stock armor visual hollow frozen bargain model";
+var mnemonic = "length spring sting text whip cable voyage trumpet tree recall coin divert";

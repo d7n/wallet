@@ -1,1 +1,1 @@
-var mnemonic = "change system express unusual better cheese visa daring tuition away renew barely";
+var mnemonic = "ill enroll identify aim october witness venue feature autumn repair spy evil";

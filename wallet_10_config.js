@@ -1,1 +1,1 @@
-var mnemonic = "daring vault give inch school grass duty minor reduce common cupboard city";
+var mnemonic = "unlock attitude flat hub saddle slot empty piece joke unique urban next";

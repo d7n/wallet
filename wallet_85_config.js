@@ -1,1 +1,1 @@
-var mnemonic = "surge balance learn apology mushroom shadow sport lift cluster stand sound dentist";
+var mnemonic = "puppy quantum soul gadget tape follow armed garbage result level pause pony";

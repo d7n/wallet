@@ -1,1 +1,1 @@
-var mnemonic = "accident wheat donor account base shell custom toss peasant doctor blush industry";
+var mnemonic = "butter sauce daring impact wall monkey manual doctor method flash refuse end";

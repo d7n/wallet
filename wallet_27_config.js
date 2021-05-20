@@ -1,1 +1,1 @@
-var mnemonic = "dynamic defy mountain moral rural box negative close hamster curtain correct fancy";
+var mnemonic = "minute grief theory mass enhance text measure stadium quick engine dwarf slam";

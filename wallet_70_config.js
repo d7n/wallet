@@ -1,1 +1,1 @@
-var mnemonic = "used bar screen hill core laundry kitten clip oval fortune cluster sting";
+var mnemonic = "base pencil brother skin good prison panic remember autumn say cruise marine";

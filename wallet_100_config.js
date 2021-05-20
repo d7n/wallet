@@ -1,1 +1,1 @@
-var mnemonic = "patrol choose broom piece struggle ancient target mosquito sentence foil crop virus";
+var mnemonic = "mother lumber undo hundred soldier note tomato vital vacuum owner mistake robust";

@@ -1,1 +1,1 @@
-var mnemonic = "champion gravity leisure cricket what enact liar april talent slice spin cluster";
+var mnemonic = "foam country marriage genius property obvious into grow panther real head denial";

@@ -1,1 +1,1 @@
-var mnemonic = "supreme siren better include they end once taxi minor slender timber chair";
+var mnemonic = "shuffle beyond return agent bench mention swear crystal electric identify comic hundred";

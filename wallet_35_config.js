@@ -1,1 +1,1 @@
-var mnemonic = "deer bag amused settle erase volume dawn adapt subject control fall toilet";
+var mnemonic = "kind envelope odor anxiety bottom giraffe dial gap raise emotion modify gain";

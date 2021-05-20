@@ -1,1 +1,1 @@
-var mnemonic = "chunk slogan slice goddess disagree wash poem tumble nation van ribbon nothing";
+var mnemonic = "absent man brand weapon bracket bulb year chalk vehicle plug whisper clip";

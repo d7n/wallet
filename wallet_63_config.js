@@ -1,1 +1,1 @@
-var mnemonic = "rebel away lake road party strong marble tail model ship weasel trouble";
+var mnemonic = "suspect accuse catch undo diagram notable human enable turn tomorrow cover review";

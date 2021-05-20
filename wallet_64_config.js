@@ -1,1 +1,1 @@
-var mnemonic = "awful turkey lecture despair valve enable liquid chimney cruel key giraffe steak";
+var mnemonic = "program solar kangaroo weapon want chef donor bless breeze order jeans motion";

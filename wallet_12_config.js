@@ -1,1 +1,1 @@
-var mnemonic = "refuse father curious creek kit student margin adjust glimpse library annual neglect";
+var mnemonic = "useful soda priority near capable magnet pulse soup cereal annual proud useless";

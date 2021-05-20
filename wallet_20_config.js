@@ -1,1 +1,1 @@
-var mnemonic = "endless anger prepare patient hawk finish foil unlock uncover twist differ glory";
+var mnemonic = "inside vendor enjoy cash bring kitchen ask grain fragile impulse access sphere";

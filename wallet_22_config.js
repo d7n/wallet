@@ -1,1 +1,1 @@
-var mnemonic = "stamp chat twenty side elite weather prepare bundle must sentence ice can";
+var mnemonic = "adapt ship edge also spot still tunnel park smooth gorilla raccoon sad";

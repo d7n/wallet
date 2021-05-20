@@ -1,1 +1,1 @@
-var mnemonic = "news morning gossip rose actress jealous flight tube daring tennis brisk tiger";
+var mnemonic = "renew lake assume man garage wedding task hamster scare garbage two hood";

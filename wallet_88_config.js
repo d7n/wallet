@@ -1,1 +1,1 @@
-var mnemonic = "ankle bean april palm evolve either used media lock address bright hamster";
+var mnemonic = "light forest wing praise amount flat matter similar toss protect chuckle alarm";

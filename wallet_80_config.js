@@ -1,1 +1,1 @@
-var mnemonic = "card stereo what transfer jelly risk horse tenant vendor rotate remain approve";
+var mnemonic = "inject sight hello two entire poverty jazz canal sponsor apart twenty affair";

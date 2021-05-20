@@ -1,1 +1,1 @@
-var mnemonic = "cupboard enable prepare dragon security guide loyal kangaroo host define joy angle";
+var mnemonic = "fresh motion amazing hour physical flush account pool fresh flat kid live";

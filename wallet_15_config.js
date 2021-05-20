@@ -1,1 +1,1 @@
-var mnemonic = "mountain gold rather awful shop toddler venture rifle glad repair super now";
+var mnemonic = "chapter clown ivory over inherit cook pistol upgrade loop ensure muffin advance";

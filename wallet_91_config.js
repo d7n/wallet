@@ -1,1 +1,1 @@
-var mnemonic = "brave sunset stairs chronic snow news broom bring wait enemy drum borrow";
+var mnemonic = "special raise oak rack only oval speed better flash water march pond";

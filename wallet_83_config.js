@@ -1,1 +1,1 @@
-var mnemonic = "opera also strategy resemble object amateur alter timber frog uniform buyer kiwi";
+var mnemonic = "useless fresh have faculty stuff success indoor gasp liquid infant kind outer";

@@ -1,1 +1,1 @@
-var mnemonic = "dress miss pelican spider illegal flight flower champion stone sun coconut quarter";
+var mnemonic = "caught guitar wet strike alarm feature gorilla frame alarm any usage wine";

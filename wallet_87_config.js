@@ -1,1 +1,1 @@
-var mnemonic = "gift job glide gap cactus list fetch unfold train video world green";
+var mnemonic = "hold tree special mechanic honey increase guitar idea tent cram theory odor";

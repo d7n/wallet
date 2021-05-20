@@ -1,1 +1,1 @@
-var mnemonic = "wheat lazy gas sign tower frozen fatal snow liberty mixed relief vessel";
+var mnemonic = "route divide bag fabric afraid yard matrix garage code tongue spy useless";

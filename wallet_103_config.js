@@ -1,1 +1,1 @@
-var mnemonic = "steak bright shift paddle motion raccoon nest poem edit key summer cupboard";
+var mnemonic = "divorce diet autumn toss oppose crime solve hedgehog deputy gather frozen pitch";

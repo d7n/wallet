@@ -1,1 +1,1 @@
-var mnemonic = "rack shed history gravity future dream upset ecology sugar album quarter burden";
+var mnemonic = "cruise bomb portion iron program laptop body tool simple voice minute type";

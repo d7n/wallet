@@ -1,1 +1,1 @@
-var mnemonic = "task dolphin mass crazy tired kangaroo clip snow student bar gap success";
+var mnemonic = "wine attitude subject wire confirm embark forum pig cause bar mutual priority";

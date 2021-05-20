@@ -1,1 +1,1 @@
-var mnemonic = "blur believe mistake excite visual electric mandate inherit dial roof affair earth";
+var mnemonic = "jungle job prevent kit alert tired secret glue ski light mandate viable";

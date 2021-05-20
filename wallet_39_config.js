@@ -1,1 +1,1 @@
-var mnemonic = "scale wheat glad indoor come frequent pumpkin ill gather leave tongue inspire";
+var mnemonic = "easily venture flush evil payment acquire cradle liar health pudding warfare family";

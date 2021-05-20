@@ -1,1 +1,1 @@
-var mnemonic = "point marine gun surround drive vintage dad ship satisfy faith uphold dish";
+var mnemonic = "burger ability genuine oak stock envelope toward correct scissors security police aerobic";

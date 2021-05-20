@@ -1,1 +1,1 @@
-var mnemonic = "air joy spoil soon relax chase melt dwarf evidence huge cupboard crystal";
+var mnemonic = "educate among lounge same sword sausage suit math ostrich walnut rhythm bonus";

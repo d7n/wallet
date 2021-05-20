@@ -1,1 +1,1 @@
-var mnemonic = "buzz absurd hockey donate spawn husband state toward wrestle pattern blood chalk";
+var mnemonic = "matrix insect dirt drop decrease angry flavor century there civil actor small";

@@ -1,1 +1,1 @@
-var mnemonic = "fan eyebrow relief consider aware solid convince turtle crucial conduct shock lava";
+var mnemonic = "step fun slide describe piece force media table replace gospel twist dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen angle tiny spoon crack canvas debris useful rack tooth hover private";
+var mnemonic = "hope easy inherit divorce arctic ticket lawsuit twist snake repeat episode joke";

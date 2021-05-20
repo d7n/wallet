@@ -1,1 +1,1 @@
-var mnemonic = "extra talent mammal devote lucky pyramid pigeon stomach airport planet ramp wage";
+var mnemonic = "flash act spot still private autumn street dream bind tent pepper arrange";

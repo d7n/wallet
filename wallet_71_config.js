@@ -1,1 +1,1 @@
-var mnemonic = "tent valid tuition install manual left cinnamon pond moral velvet atom brass";
+var mnemonic = "slam bird ghost casual angle hungry machine choice captain segment village noise";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue orchard casual blue crazy few resemble sorry visual work nasty ozone";
+var mnemonic = "submit dolphin lecture town amateur live size rural frog fault crop chase";

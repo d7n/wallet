@@ -1,1 +1,1 @@
-var mnemonic = "merit hub gospel liar bachelor elite fashion often acquire response ski fuel";
+var mnemonic = "lyrics trap foster fatal spice leopard tuna twin great bulk park hero";

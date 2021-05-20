@@ -1,1 +1,1 @@
-var mnemonic = "slight absurd foot gorilla purpose dignity wheat must achieve label bench online";
+var mnemonic = "brick empty icon mix stumble prosper sock iron garage seek trick beyond";

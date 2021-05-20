@@ -1,1 +1,1 @@
-var mnemonic = "seat wreck alter milk rent input galaxy lecture raw bird nephew farm";
+var mnemonic = "network beef level orange depend elbow eight fuel clarify mountain already menu";

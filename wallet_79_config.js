@@ -1,1 +1,1 @@
-var mnemonic = "child harbor cargo enhance share battle hedgehog traffic october then deal truly";
+var mnemonic = "example kitten garden early endless shoe network tool other cry improve female";

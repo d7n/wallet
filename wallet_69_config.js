@@ -1,1 +1,1 @@
-var mnemonic = "ladder yard manage raccoon health squeeze soda bundle poet ankle strategy riot";
+var mnemonic = "rug spread between jump busy submit broccoli stomach evidence smooth accident pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "antique arena weekend vendor annual soon mechanic stove rapid wet lottery accuse";
+var mnemonic = "sibling opera pyramid manual proof middle almost depth country wrist dignity window";

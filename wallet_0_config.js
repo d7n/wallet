@@ -1,1 +1,1 @@
-var mnemonic = "know blade pudding crowd hint exact fossil speed despair soup pave lunar";
+var mnemonic = "benefit discover edge patrol yellow rival toilet shadow parade huge scene minute";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing raccoon case oblige keep random mom detail goose symptom science wink";
+var mnemonic = "viable tobacco depart fragile error leopard situate unfair laugh negative miss code";

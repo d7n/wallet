@@ -1,1 +1,1 @@
-var mnemonic = "trumpet when expand feed bounce learn host alley room hidden stage joy";
+var mnemonic = "daring great only deal trim book hip decorate pledge bottom offer tuition";

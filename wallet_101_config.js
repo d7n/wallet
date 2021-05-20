@@ -1,1 +1,1 @@
-var mnemonic = "where company situate panic puzzle fatigue have excite grape harvest resist response";
+var mnemonic = "flavor chalk meat mercy mango job seven fun quarter spy crater accident";

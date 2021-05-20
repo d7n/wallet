@@ -1,1 +1,1 @@
-var mnemonic = "junk noble valve crisp donkey erosion guard couple medal mesh rather rocket";
+var mnemonic = "curtain donor spend solid sword conduct follow pencil clean correct regular upon";

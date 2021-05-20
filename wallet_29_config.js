@@ -1,1 +1,1 @@
-var mnemonic = "purpose intact apart alpha oblige any illegal cave script discover grit level";
+var mnemonic = "like slice true snack crime assume also sign decade collect hundred detail";

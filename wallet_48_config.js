@@ -1,1 +1,1 @@
-var mnemonic = "evolve town oyster trigger assume jealous direct fame scheme dry traffic rocket";
+var mnemonic = "about comic shaft maximum sheriff manage twist sword club dentist symbol chimney";

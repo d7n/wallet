@@ -1,1 +1,1 @@
-var mnemonic = "alter vendor twist audit setup owner excite fine fuel tattoo uphold local";
+var mnemonic = "organ unusual all can arctic route spread absorb prison chair select donate";

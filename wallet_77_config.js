@@ -1,1 +1,1 @@
-var mnemonic = "alarm bar day razor fun person buffalo anchor public wet funny private";
+var mnemonic = "gas elite winner weasel rescue bracket casual parent media wait recall bright";

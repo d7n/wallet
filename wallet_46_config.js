@@ -1,1 +1,1 @@
-var mnemonic = "fatal behave retire border seminar stumble slow reward raccoon cram blue fiction";
+var mnemonic = "critic limb recall convince hurry august lemon chest when other sock make";

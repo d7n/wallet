@@ -1,1 +1,1 @@
-var mnemonic = "begin public slight faith upset child moon unable blur flower undo mind";
+var mnemonic = "sound huge spring spice museum wink drink affair spring chest cherry flash";

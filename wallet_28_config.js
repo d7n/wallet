@@ -1,1 +1,1 @@
-var mnemonic = "ugly senior valve wrist benefit garment carry airport better tortoise wink arrive";
+var mnemonic = "impose season penalty assault fault position civil liar supply engine onion recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "shock blossom topple motor despair unlock ensure stay mango clown prevent ancient";
+var mnemonic = "code intact appear oval course hurt sing spray steak pyramid crash candy";

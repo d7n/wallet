@@ -1,1 +1,1 @@
-var mnemonic = "account awful level vendor beach clutch rent coil enact surface output shock";
+var mnemonic = "gap thank visa output nurse van turkey battle velvet exclude defy sun";

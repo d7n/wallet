@@ -1,1 +1,1 @@
-var mnemonic = "quality letter blade shoot distance clinic dirt cherry bind trick job shadow";
+var mnemonic = "process foam have glide noise usual find desk angry impose glory master";

@@ -1,1 +1,1 @@
-var mnemonic = "brass circle bind merge discover hammer upon gesture build connect miracle tattoo";
+var mnemonic = "wrong domain festival copper zero donate rapid dolphin aunt lift enemy depth";

@@ -1,1 +1,1 @@
-var mnemonic = "during mechanic silver gloom term around powder track season merry phone laundry";
+var mnemonic = "boost link brick amateur warfare summer powder amused erode upgrade happy tag";

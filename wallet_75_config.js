@@ -1,1 +1,1 @@
-var mnemonic = "swamp spoon minimum crew city luggage thank page balcony prize predict notice";
+var mnemonic = "rabbit truck awful wealth secret exclude alarm unique fold another profit fatigue";

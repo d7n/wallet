@@ -1,1 +1,1 @@
-var mnemonic = "auto hint vault crystal purchase emerge target keen word peace romance extra";
+var mnemonic = "cabbage trade voice sniff artefact crush fatigue bundle meat echo sunset fold";

@@ -1,1 +1,1 @@
-var mnemonic = "sign absurd true rocket blanket chicken jewel endorse donkey gloom pave inform";
+var mnemonic = "cry humble render hunt arena buffalo sorry traffic random also system bring";

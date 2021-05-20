@@ -1,1 +1,1 @@
-var mnemonic = "vanish middle olympic lawn lazy various enroll conduct castle joke wine miracle";
+var mnemonic = "butter say vibrant update advice area dawn modify moment timber manage note";

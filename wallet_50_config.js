@@ -1,1 +1,1 @@
-var mnemonic = "liquid basket gaze scout actor muscle wool spirit tonight damage divert destroy";
+var mnemonic = "spoil dry actor tribe never yard satoshi atom dress rose again will";

@@ -1,1 +1,1 @@
-var mnemonic = "science noise tank again guilt humble dilemma silent luggage spare tobacco tree";
+var mnemonic = "width circle powder hen shuffle decline maid pitch advance drive staff basic";

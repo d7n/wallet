@@ -1,1 +1,1 @@
-var mnemonic = "oyster view inside churn picnic invite trumpet consider head stairs favorite wait";
+var mnemonic = "buffalo home atom hint rough suspect reunion soul first useful diesel stem";

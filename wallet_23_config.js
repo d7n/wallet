@@ -1,1 +1,1 @@
-var mnemonic = "border capable anger immune grace error sell width market festival liquid scissors";
+var mnemonic = "during master chief chef horn duty indicate slogan increase test enroll wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "object wise soap cool angle clean goose carpet foam witness exist group";
+var mnemonic = "film shuffle unveil virtual digital sheriff snow match camp live bacon impact";

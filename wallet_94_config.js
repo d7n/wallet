@@ -1,1 +1,1 @@
-var mnemonic = "toilet total share pig sheriff group struggle grace fence screen hub fury";
+var mnemonic = "paper imitate master genre syrup payment laptop state artwork isolate spoil brisk";

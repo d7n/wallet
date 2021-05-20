@@ -1,1 +1,1 @@
-var mnemonic = "when clown language jeans nephew awful snack cart yard victory float parrot";
+var mnemonic = "recall trend wedding grape coil grape suggest caught possible topple trigger protect";

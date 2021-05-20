@@ -1,1 +1,1 @@
-var mnemonic = "endorse bitter moon minimum mystery bench slender force same spirit trick nothing";
+var mnemonic = "candy middle nest roast reveal frequent seven autumn often catalog sea lunar";
