@@ -1,1 +1,1 @@
-var mnemonic = "rib agree emerge phone spice boy involve screen fix round smoke flock";
+var mnemonic = "diagram uncover cancel smooth traffic jelly decorate token voice obscure shell will";

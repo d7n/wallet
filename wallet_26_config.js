@@ -1,1 +1,1 @@
-var mnemonic = "mail reason alcohol exhaust noodle sauce execute suffer device empty sign rescue";
+var mnemonic = "shaft weather february buyer imitate team today fame cage bone honey raccoon";

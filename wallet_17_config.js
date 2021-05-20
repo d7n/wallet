@@ -1,1 +1,1 @@
-var mnemonic = "mom family recipe pride update blanket critic add quote midnight weapon fury";
+var mnemonic = "crucial blame write human funny achieve fossil song village toast accident clog";

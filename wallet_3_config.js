@@ -1,1 +1,1 @@
-var mnemonic = "tuna speak throw will way diamond dinosaur ask arena kid misery gossip";
+var mnemonic = "lawsuit zone employ tank odor hunt relax code humor stumble lizard boat";

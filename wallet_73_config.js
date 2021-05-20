@@ -1,1 +1,1 @@
-var mnemonic = "expand tomato funny tomorrow grape legal slim coil furnace memory inflict asthma";
+var mnemonic = "farm sound pretty drift frown define eye first tornado fly topic goat";

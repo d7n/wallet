@@ -1,1 +1,1 @@
-var mnemonic = "again away regret carbon private clap dose detail fiber champion slot rely";
+var mnemonic = "during slogan pause increase refuse speed test clog toilet globe absent eternal";

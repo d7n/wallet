@@ -1,1 +1,1 @@
-var mnemonic = "faint provide joke solve duty mule stuff avocado organ tattoo glad buyer";
+var mnemonic = "shrug embody marble clap slush million admit tide finish please clutch proof";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid apple brick virtual access roof notable unusual bulb fancy napkin large";
+var mnemonic = "banana loan spin avocado fault horse suffer title escape income return nice";

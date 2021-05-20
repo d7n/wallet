@@ -1,1 +1,1 @@
-var mnemonic = "bounce avocado senior nerve area lyrics genius search live fantasy pill please";
+var mnemonic = "pitch ensure undo insane reopen head naive clinic upgrade grief that find";

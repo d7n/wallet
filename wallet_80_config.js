@@ -1,1 +1,1 @@
-var mnemonic = "work property fault survey genre boat ramp hundred sphere pool tortoise embrace";
+var mnemonic = "suffer music crew display float color tag lonely carpet body cushion seven";

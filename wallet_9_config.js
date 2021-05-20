@@ -1,1 +1,1 @@
-var mnemonic = "drum fever pride pond deliver wrestle rapid sadness unusual snow foil other";
+var mnemonic = "because mule swamp naive cream step banana govern above palm suffer marine";

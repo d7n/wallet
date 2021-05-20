@@ -1,1 +1,1 @@
-var mnemonic = "tornado squeeze drill place pony hawk lecture blame float exhibit flock suit";
+var mnemonic = "ostrich scissors desk resource need health fluid labor wrong verb dumb mango";

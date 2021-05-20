@@ -1,1 +1,1 @@
-var mnemonic = "inch engage public chuckle word super rookie long rubber ring build egg";
+var mnemonic = "work risk tide school capable license repeat decide frozen hedgehog dumb quality";

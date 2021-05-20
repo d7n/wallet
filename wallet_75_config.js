@@ -1,1 +1,1 @@
-var mnemonic = "search pelican capital between edge receive frame sense jewel mule hold genius";
+var mnemonic = "defy hurdle erase neutral upon kid yellow pony spread power cool turn";

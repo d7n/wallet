@@ -1,1 +1,1 @@
-var mnemonic = "engage memory gold vault sign cover obtain manage cruise old slide piece";
+var mnemonic = "popular van desk ladder health december ski evoke strategy art that cave";

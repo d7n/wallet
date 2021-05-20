@@ -1,1 +1,1 @@
-var mnemonic = "cradle you cricket joke mountain fix unveil wait town reflect monkey bulk";
+var mnemonic = "hybrid language parrot awful detail valid banana butter derive pass budget egg";

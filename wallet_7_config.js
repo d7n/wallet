@@ -1,1 +1,1 @@
-var mnemonic = "donor marble cloud gravity capable metal hybrid adapt motor tackle wire tail";
+var mnemonic = "dose dog right innocent film balance scrap affair enrich useful demand lemon";

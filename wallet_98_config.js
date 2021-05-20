@@ -1,1 +1,1 @@
-var mnemonic = "auto print arrive cigar citizen expire clay second sell enjoy knock parrot";
+var mnemonic = "employ tumble daughter napkin erase grass ladder over pass trumpet taste depend";

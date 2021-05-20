@@ -1,1 +1,1 @@
-var mnemonic = "element game stool job device crane remember sick denial organ theme cram";
+var mnemonic = "simple sand pole since talent federal you hold essence ready jealous arctic";

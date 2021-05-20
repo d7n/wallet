@@ -1,1 +1,1 @@
-var mnemonic = "rude ostrich ozone play man little bread junk shrug celery kingdom cancel";
+var mnemonic = "congress immune decide guilt tonight rice stick pistol crumble seat unveil solve";

@@ -1,1 +1,1 @@
-var mnemonic = "switch pond enact ski purchase pair fancy nominee royal mandate comfort scrub";
+var mnemonic = "town snake tool power ignore host chicken detail scene sister mule submit";

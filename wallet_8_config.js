@@ -1,1 +1,1 @@
-var mnemonic = "advice affair convince layer east gown protect spell meat toy govern jungle";
+var mnemonic = "diesel curtain chest fence olive merry normal rain vendor release voice clay";

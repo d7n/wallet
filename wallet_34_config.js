@@ -1,1 +1,1 @@
-var mnemonic = "call ill bamboo fog nation replace able leopard teach coin degree trend";
+var mnemonic = "mail crawl ice embrace lesson agree resist lazy dynamic document tag stereo";

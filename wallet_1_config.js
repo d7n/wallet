@@ -1,1 +1,1 @@
-var mnemonic = "truck aware bounce vehicle unfold flee seek curtain leaf husband number club";
+var mnemonic = "fox claim column exact material hawk select banner list juice satoshi confirm";

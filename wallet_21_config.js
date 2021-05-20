@@ -1,1 +1,1 @@
-var mnemonic = "note income mango crew gauge arena bargain grab open only element mirror";
+var mnemonic = "buffalo detect aim because little attitude unusual close couch easy vapor end";

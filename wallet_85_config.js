@@ -1,1 +1,1 @@
-var mnemonic = "sleep idea kick tobacco snake light swift guilt roof silly dragon chapter";
+var mnemonic = "entire rhythm you exhaust day ramp place sail initial cushion trend blossom";

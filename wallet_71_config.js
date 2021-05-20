@@ -1,1 +1,1 @@
-var mnemonic = "style coin slush jazz gate magic spot tag funny economy rice flee";
+var mnemonic = "alone heavy lesson icon festival tourist speed stumble student delay gym dinosaur";

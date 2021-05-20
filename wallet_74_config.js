@@ -1,1 +1,1 @@
-var mnemonic = "convince agent smart buddy top gap current identify vintage stamp develop piano";
+var mnemonic = "radio vacant body into digital clay outdoor tooth crime sword eyebrow cute";

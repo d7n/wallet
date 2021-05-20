@@ -1,1 +1,1 @@
-var mnemonic = "rigid hockey lawsuit uncover one jealous reform life bounce brick swap street";
+var mnemonic = "duck crumble response model bicycle eager sugar expand used tiny hungry blouse";

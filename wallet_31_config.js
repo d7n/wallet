@@ -1,1 +1,1 @@
-var mnemonic = "tube appear october huge pigeon yard zebra celery endless option camp regret";
+var mnemonic = "merit kit someone van egg quantum acid soon six evoke drum trial";

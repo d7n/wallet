@@ -1,1 +1,1 @@
-var mnemonic = "crawl faculty ski found fancy receive table youth fire cabin degree surface";
+var mnemonic = "school fold boss cluster guard energy donor north route cheap loan team";

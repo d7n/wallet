@@ -1,1 +1,1 @@
-var mnemonic = "cart seminar begin jealous still mango wide tube december shine few parade";
+var mnemonic = "range drift long term document volcano spell fetch pond veteran middle cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve harsh ill draft tuition cost win dial pupil flip pizza soap";
+var mnemonic = "gravity foam cute ski rookie liquid canyon logic dolphin sad rural tape";

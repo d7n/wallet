@@ -1,1 +1,1 @@
-var mnemonic = "elegant plastic cactus rude sting eternal name oblige right faint under total";
+var mnemonic = "stem deny latin sorry tongue cereal upgrade hood figure video borrow cat";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect gospel main inspire tell despair sketch manual erosion cousin marriage element";
+var mnemonic = "proof burger trash high planet abstract report cost stone case gorilla dutch";

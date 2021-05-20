@@ -1,1 +1,1 @@
-var mnemonic = "make fashion mix absorb scorpion protect tobacco shoot fox horror crop mistake";
+var mnemonic = "rib sort sudden doctor payment foam noise such faith puzzle side junk";

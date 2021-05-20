@@ -1,1 +1,1 @@
-var mnemonic = "mask later dizzy gauge lady drift glance crowd now park pretty crunch";
+var mnemonic = "muffin bargain bamboo fitness grace business little clock fuel spin settle drink";

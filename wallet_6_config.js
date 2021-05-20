@@ -1,1 +1,1 @@
-var mnemonic = "mango olive edit avocado trash rather donor soft cool lottery mammal goat";
+var mnemonic = "quantum scout mask priority patch enlist minimum update release indoor stem trap";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin explain cute pluck stereo antenna slam exclude wedding suffer neutral output";
+var mnemonic = "argue midnight great flash session tip advice way salute current decide aunt";

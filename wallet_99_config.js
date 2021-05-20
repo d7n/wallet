@@ -1,1 +1,1 @@
-var mnemonic = "dice ready rapid answer feed comfort feed never lava you shy cannon";
+var mnemonic = "uncover toast ice obscure olive high good field kite upper dragon fatal";

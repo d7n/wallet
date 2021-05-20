@@ -1,1 +1,1 @@
-var mnemonic = "jelly hockey calm almost quiz valve cricket verify able sand genuine weather";
+var mnemonic = "output supply sand only fish mango smart omit exchange march destroy pool";

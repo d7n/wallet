@@ -1,1 +1,1 @@
-var mnemonic = "neutral toast change melody chest crumble tip trick crouch barrel drip canvas";
+var mnemonic = "nothing expose become sunny produce choice remind fiction chuckle stand salute ship";

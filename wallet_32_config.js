@@ -1,1 +1,1 @@
-var mnemonic = "beauty village violin unfold unveil flip answer avocado olympic light casual jar";
+var mnemonic = "fantasy solution bulb journey panel then dial world glare onion orbit final";

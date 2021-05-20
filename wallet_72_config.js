@@ -1,1 +1,1 @@
-var mnemonic = "parrot hollow prepare region predict image style coast today dad garage eternal";
+var mnemonic = "youth diary garbage minute swift equip idea kangaroo resist envelope loyal canvas";

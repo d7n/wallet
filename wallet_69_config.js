@@ -1,1 +1,1 @@
-var mnemonic = "height baby license stove choose sunny unknown crash patrol ocean pepper rule";
+var mnemonic = "stone warfare annual emotion exhaust swear unknown panda draw orchard sorry around";

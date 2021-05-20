@@ -1,1 +1,1 @@
-var mnemonic = "unit bitter soldier ten photo onion penalty candy spirit teach clap elevator";
+var mnemonic = "render spatial grant observe dignity scale quit media heavy youth boy verify";

@@ -1,1 +1,1 @@
-var mnemonic = "amused load fatal siege region appear giant talk filter waste mosquito host";
+var mnemonic = "tank donor pattern nurse silk wave city top vicious harvest joke color";

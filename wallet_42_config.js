@@ -1,1 +1,1 @@
-var mnemonic = "expire yard gold gap illness ketchup sudden foam regular ancient deposit clever";
+var mnemonic = "similar alpha grid turn taste relax desk assist baby police village fall";

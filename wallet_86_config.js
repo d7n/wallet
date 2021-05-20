@@ -1,1 +1,1 @@
-var mnemonic = "member donkey drastic struggle purchase street eight motor east destroy wagon battle";
+var mnemonic = "cake twist toddler whale benefit sketch doctor eagle record correct portion gather";

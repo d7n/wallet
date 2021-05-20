@@ -1,1 +1,1 @@
-var mnemonic = "outside barrel horn idea write panda orchard clap maze sketch crawl police";
+var mnemonic = "brain post tomorrow hybrid club trick fix symbol discover throw fame tonight";

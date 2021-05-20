@@ -1,1 +1,1 @@
-var mnemonic = "employ twist rather immune cheese series stick horror receive lazy together endorse";
+var mnemonic = "away extra lesson lounge exercise usual saddle earn gym inmate guilt rate";

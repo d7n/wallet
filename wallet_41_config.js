@@ -1,1 +1,1 @@
-var mnemonic = "peace matter sport mistake poet puppy outer sun arctic knee pizza marble";
+var mnemonic = "used brand attitude gorilla betray hire crack wait cargo lazy monitor window";

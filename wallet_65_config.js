@@ -1,1 +1,1 @@
-var mnemonic = "year relief code come cable praise saddle cat dragon narrow garment twin";
+var mnemonic = "flower core easily flower car valve retire nephew sense galaxy exile media";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic tortoise bomb park hybrid gospel throw strike express connect trash december";
+var mnemonic = "melody ensure cluster auto main smooth kangaroo toy twin motion divert seat";

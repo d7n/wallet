@@ -1,1 +1,1 @@
-var mnemonic = "outside salad minimum dwarf ignore torch attitude boil affair lens empower rug";
+var mnemonic = "upset tackle lava craft ripple subway fly response survey loyal mom include";

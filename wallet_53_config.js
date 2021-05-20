@@ -1,1 +1,1 @@
-var mnemonic = "horror taste point drop army rapid gasp try analyst answer heart door";
+var mnemonic = "drip proof bamboo lizard account eager best wheel always business veteran coin";

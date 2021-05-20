@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fence situate bulb worth verify music rhythm rude verb sugar adjust";
+var mnemonic = "maple elder balcony split master gadget link retire aim elite noble wrestle";

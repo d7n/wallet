@@ -1,1 +1,1 @@
-var mnemonic = "can popular okay demise behave solid squirrel neck shove uncover soon roast";
+var mnemonic = "concert crouch mixed claw pink extra drum segment floor sunny deliver dress";

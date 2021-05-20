@@ -1,1 +1,1 @@
-var mnemonic = "proof deputy alcohol velvet must volume rural summer fame zone cigar position";
+var mnemonic = "define arena force budget bunker peanut rule wing tilt dinosaur saddle chuckle";

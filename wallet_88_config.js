@@ -1,1 +1,1 @@
-var mnemonic = "borrow dog guess such expire alley unit endorse diagram claim soul ketchup";
+var mnemonic = "renew there stem above capital verb junk vicious expose shop yellow bulb";

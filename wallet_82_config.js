@@ -1,1 +1,1 @@
-var mnemonic = "pig scale behind squeeze allow decide parrot reason athlete chair state cluster";
+var mnemonic = "version return purse slogan nerve idle area sheriff current lawn repeat rude";

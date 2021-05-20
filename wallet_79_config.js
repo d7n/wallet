@@ -1,1 +1,1 @@
-var mnemonic = "tone fine mad spawn produce bitter ball foam only protect enlist pool";
+var mnemonic = "banner vanish rib girl assist crunch mention cube lava humble paper engage";

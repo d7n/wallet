@@ -1,1 +1,1 @@
-var mnemonic = "flag ostrich napkin coffee obey bike spatial night loyal defy bus maximum";
+var mnemonic = "ocean fame drum source arrow prevent lava upgrade they swift road initial";

@@ -1,1 +1,1 @@
-var mnemonic = "nut write used melt omit clutch jelly that clay develop maid metal";
+var mnemonic = "drip potato behave federal buyer priority diary detect once crop toddler math";

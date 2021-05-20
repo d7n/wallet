@@ -1,1 +1,1 @@
-var mnemonic = "mango grocery high science broken source clutch execute dumb follow pretty pill";
+var mnemonic = "worth mule crisp swamp wool crater rose essence fringe anger latin corn";

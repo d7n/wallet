@@ -1,1 +1,1 @@
-var mnemonic = "post point surface total reduce morning rural top enjoy lab holiday fitness";
+var mnemonic = "remove where crouch spirit valley scout acquire increase extend miracle pair edge";

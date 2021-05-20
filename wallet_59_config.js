@@ -1,1 +1,1 @@
-var mnemonic = "dance picture clutch pony video phone urban life deer goddess trust arrow";
+var mnemonic = "flower swap priority police jungle snow thumb network weekend outdoor jaguar burger";

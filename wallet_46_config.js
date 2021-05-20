@@ -1,1 +1,1 @@
-var mnemonic = "grid make rib spy leg slush rescue thunder marble festival analyst motor";
+var mnemonic = "job raw economy online radar calm side between ahead giant oak bid";

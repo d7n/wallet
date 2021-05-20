@@ -1,1 +1,1 @@
-var mnemonic = "roast win airport future budget net bubble stand uncle try napkin reform";
+var mnemonic = "social cave ivory work remain eagle runway ankle gift glory frequent indicate";

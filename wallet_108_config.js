@@ -1,1 +1,1 @@
-var mnemonic = "train multiply motor noise advance tilt solar sad skate tomorrow flame wolf";
+var mnemonic = "negative insane become hard trip pig rather cupboard fish tuna energy resource";

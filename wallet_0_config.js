@@ -1,1 +1,1 @@
-var mnemonic = "lab wolf scout taste muffin luxury lamp enjoy inquiry omit found round";
+var mnemonic = "term will fish orchard promote about sustain diary fuel seven omit capital";

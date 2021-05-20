@@ -1,1 +1,1 @@
-var mnemonic = "width become stage wrong route broom three enlist accident click ozone dial";
+var mnemonic = "escape peace lumber rebuild myself suffer behave urban mask blood jungle deposit";

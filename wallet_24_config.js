@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glare scorpion define cruise eye six scissors frame differ panel zoo";
+var mnemonic = "dune invest magic adult stock misery sentence enemy laundry claim purity they";

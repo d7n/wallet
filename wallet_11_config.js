@@ -1,1 +1,1 @@
-var mnemonic = "caught verify reduce scan cousin table couple mention useful offer next yard";
+var mnemonic = "snow lobster mind member prepare off table rain cry include call rival";

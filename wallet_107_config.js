@@ -1,1 +1,1 @@
-var mnemonic = "attack team acoustic powder nerve lesson doll affair brass stamp casual confirm";
+var mnemonic = "metal pony churn pelican fix great swift unit flat run opera win";

@@ -1,1 +1,1 @@
-var mnemonic = "novel fit concert awkward resource chief edge tenant regret angry inmate lady";
+var mnemonic = "kid march come east market load stairs unaware black admit inform fix";

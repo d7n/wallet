@@ -1,1 +1,1 @@
-var mnemonic = "luggage adjust thunder champion stock rotate furnace butter remember vivid skirt raccoon";
+var mnemonic = "wife video couch evil salute spawn print salute will result arch debris";

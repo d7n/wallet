@@ -1,1 +1,1 @@
-var mnemonic = "forward blur kiss excess soul this thrive polar afford scan cable hour";
+var mnemonic = "dignity train avocado lake insect dream ladder senior physical group impact muscle";

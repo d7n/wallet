@@ -1,1 +1,1 @@
-var mnemonic = "obey swamp blood later cart charge copy child patient arrest equip young";
+var mnemonic = "fortune arctic tiger honey lava prefer olympic three second near fire prevent";

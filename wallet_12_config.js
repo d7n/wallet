@@ -1,1 +1,1 @@
-var mnemonic = "talent poem cinnamon lizard pond trigger skull dash owner human broccoli deposit";
+var mnemonic = "road move auction hope verb judge gadget require jewel success object slim";

@@ -1,1 +1,1 @@
-var mnemonic = "game brass impact olive real jealous summer ecology idle want base addict";
+var mnemonic = "sausage knee artist agent arrest detail robot bullet review chimney thing dizzy";

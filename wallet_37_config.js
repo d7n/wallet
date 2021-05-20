@@ -1,1 +1,1 @@
-var mnemonic = "monitor entire aware grain silver level cliff loan vanish moment similar author";
+var mnemonic = "must humor era grocery steak dwarf admit version outside private excuse slab";

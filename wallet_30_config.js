@@ -1,1 +1,1 @@
-var mnemonic = "exile kitten edit roof gossip universe tackle panic loyal clump firm wheel";
+var mnemonic = "flash sponsor reform endorse fold street neither cycle tree economy silver worry";

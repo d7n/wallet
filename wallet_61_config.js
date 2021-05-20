@@ -1,1 +1,1 @@
-var mnemonic = "favorite cover visa trophy radar mesh gas over east spray miss item";
+var mnemonic = "negative ten very lecture oven mandate stuff country crush kitchen recycle thank";

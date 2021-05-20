@@ -1,1 +1,1 @@
-var mnemonic = "glass danger wrist peasant wine obscure truck noodle flash cart venue benefit";
+var mnemonic = "purity vacuum paper shoot orbit still gap soup choice upper main frame";
