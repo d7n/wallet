@@ -1,1 +1,1 @@
-var mnemonic = "slot depth topple crazy doctor athlete end scout tilt learn permit celery";
+var mnemonic = "tray agree air bless rocket shove alien paper virtual start plastic cave";

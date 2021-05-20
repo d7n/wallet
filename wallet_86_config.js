@@ -1,1 +1,1 @@
-var mnemonic = "trash remain venture virus horror nasty trim uncle window concert foil leader";
+var mnemonic = "nuclear window door opera sand pond piano note estate market coconut also";

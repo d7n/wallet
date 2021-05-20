@@ -1,1 +1,1 @@
-var mnemonic = "sibling vehicle welcome pink absurd carbon vacant rule other sweet elevator wasp";
+var mnemonic = "eight obtain where stamp robust seat saddle supply pause thrive just glance";

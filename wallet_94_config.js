@@ -1,1 +1,1 @@
-var mnemonic = "sell reflect corn together brown boil doll dismiss kidney mixture endless elevator";
+var mnemonic = "click spirit mechanic bike delay suffer poverty jelly extend kid normal start";

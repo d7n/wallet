@@ -1,1 +1,1 @@
-var mnemonic = "wool bridge skate move under elder feature blossom stuff nerve brown gentle";
+var mnemonic = "flat nerve roast found stay enjoy apology foot dynamic loan avocado giant";

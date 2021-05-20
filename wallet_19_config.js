@@ -1,1 +1,1 @@
-var mnemonic = "dirt seven expire mind eager cradle insane item satisfy renew arch attack";
+var mnemonic = "foam crucial erode hawk black jaguar climb more swift tell upon detail";

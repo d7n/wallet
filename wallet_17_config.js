@@ -1,1 +1,1 @@
-var mnemonic = "detail coral snack cancel major please fragile sail fall leisure wild shadow";
+var mnemonic = "where path pelican bamboo orient daring deposit dynamic ethics prepare ball text";

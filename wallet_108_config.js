@@ -1,1 +1,1 @@
-var mnemonic = "crouch gallery marble spike find vintage picture food rose year lock come";
+var mnemonic = "own three wide art mirror version domain tree just gravity mind transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "void habit special discover rhythm modify catalog ripple sing flip field leaf";
+var mnemonic = "draw half casual pizza fan possible seed cube candy firm circle enable";

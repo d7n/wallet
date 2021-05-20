@@ -1,1 +1,1 @@
-var mnemonic = "settle render kind speak pulse shoot alpha smart stay elbow scheme cute";
+var mnemonic = "dismiss urge fox ordinary fringe oven relax usual girl cool door method";

@@ -1,1 +1,1 @@
-var mnemonic = "neck pond memory total convince kidney peanut faint uphold helmet kick slight";
+var mnemonic = "tool hole bomb split snack tube hurry art media control patrol lunch";

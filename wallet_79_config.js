@@ -1,1 +1,1 @@
-var mnemonic = "chef body fringe deny latin live wisdom hope castle example usage army";
+var mnemonic = "spare wise patch gentle excite gain silly tenant rival enforce endorse dice";

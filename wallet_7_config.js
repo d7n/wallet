@@ -1,1 +1,1 @@
-var mnemonic = "slow maximum caution prison mammal wine mandate seven divorce culture skate spoon";
+var mnemonic = "evil again home open float health nurse mistake endorse cable insane rookie";

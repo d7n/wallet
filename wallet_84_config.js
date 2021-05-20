@@ -1,1 +1,1 @@
-var mnemonic = "soda duty police push install mercy badge analyst bring december exercise wrist";
+var mnemonic = "foam field slush supply wash occur thumb cradle hair silver boss moral";

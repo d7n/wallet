@@ -1,1 +1,1 @@
-var mnemonic = "quiz wise surface suit phrase culture elevator bronze ecology glow multiply assault";
+var mnemonic = "agree rib science tuna lottery reveal amused proud apple candy immense exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors want autumn current globe exclude travel truly adult main final there";
+var mnemonic = "prosper permit tennis believe bacon major document tackle grab gossip explain impulse";

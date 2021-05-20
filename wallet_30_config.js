@@ -1,1 +1,1 @@
-var mnemonic = "eternal clutch power bunker permit vehicle already case chuckle dish clever debate";
+var mnemonic = "lecture cotton person smile hedgehog iron diamond behind egg tribe forget above";

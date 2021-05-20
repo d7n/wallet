@@ -1,1 +1,1 @@
-var mnemonic = "evoke magnet assume gun hole radar vague talent pyramid desk amused more";
+var mnemonic = "thank sun element asset eyebrow universe hint hold axis search move leopard";

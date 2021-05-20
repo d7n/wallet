@@ -1,1 +1,1 @@
-var mnemonic = "dynamic injury lend gadget endless chicken moment repair taxi hub rate duty";
+var mnemonic = "stone flock parrot license congress snake work perfect stage where cluster text";

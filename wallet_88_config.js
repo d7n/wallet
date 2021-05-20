@@ -1,1 +1,1 @@
-var mnemonic = "tuition theme recycle notable valve dust scene genius battle shove identify armed";
+var mnemonic = "same park poverty emerge ten priority flush sample method merge clever egg";

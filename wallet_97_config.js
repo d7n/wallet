@@ -1,1 +1,1 @@
-var mnemonic = "armed normal scale ice chronic behave champion cheese jar tree lobster mass";
+var mnemonic = "ready sword winner drill popular reward brand ship uniform mule milk naive";

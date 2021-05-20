@@ -1,1 +1,1 @@
-var mnemonic = "exhaust surprise note image exercise orchard person opera annual kit leader renew";
+var mnemonic = "stumble belt rate family finger right seat upgrade you sausage fade voyage";

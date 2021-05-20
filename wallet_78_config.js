@@ -1,1 +1,1 @@
-var mnemonic = "solve episode chapter sibling give spice ugly photo juice split carry assist";
+var mnemonic = "artefact wrestle exist breeze rebel thumb unveil cactus exist keen skirt village";

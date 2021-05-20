@@ -1,1 +1,1 @@
-var mnemonic = "hen burden shed ecology disorder marble safe town error upgrade high alien";
+var mnemonic = "valve token paper swap betray heavy develop walnut stomach learn club assault";

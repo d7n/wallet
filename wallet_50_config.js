@@ -1,1 +1,1 @@
-var mnemonic = "clay tortoise job erosion result boss toward empty dry nest giggle achieve";
+var mnemonic = "divert veteran soup truly toddler drill season speak glow garden repeat round";

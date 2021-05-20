@@ -1,1 +1,1 @@
-var mnemonic = "pull behave fabric any tiny clinic critic flash dragon history pumpkin strong";
+var mnemonic = "inner undo until hollow mandate hour art tobacco process profit lake path";

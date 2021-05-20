@@ -1,1 +1,1 @@
-var mnemonic = "network mention level region goose poet uncover oyster catch stove blouse client";
+var mnemonic = "pigeon floor wait brass baby belt employ correct skill tomorrow benefit viable";

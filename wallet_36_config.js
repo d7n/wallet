@@ -1,1 +1,1 @@
-var mnemonic = "income throw myth rebel ordinary then grape crunch unknown cricket garden text";
+var mnemonic = "love tide orient flat inherit similar total pioneer surround dream kitchen shock";

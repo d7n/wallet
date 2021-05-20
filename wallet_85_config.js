@@ -1,1 +1,1 @@
-var mnemonic = "south lemon impact sun vault turn chimney first weird when ocean water";
+var mnemonic = "minimum gap convince expire link cradle silk hero canyon wrong devote hotel";

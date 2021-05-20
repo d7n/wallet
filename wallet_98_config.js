@@ -1,1 +1,1 @@
-var mnemonic = "aim squeeze thrive second museum faith left clerk wreck refuse velvet glue";
+var mnemonic = "easy west decorate capital have snack real relax famous hybrid neck bleak";

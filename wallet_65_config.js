@@ -1,1 +1,1 @@
-var mnemonic = "donkey bulk ramp solution struggle host split elite reject awful craft elite";
+var mnemonic = "large slow permit bottom promote devote direct doctor village inner brave jungle";

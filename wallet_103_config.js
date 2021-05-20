@@ -1,1 +1,1 @@
-var mnemonic = "special cattle tooth stomach guilt verb pilot put moment urban glass iron";
+var mnemonic = "rhythm noise oak gown tribe large rescue decade melt gun clog mutual";

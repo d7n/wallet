@@ -1,1 +1,1 @@
-var mnemonic = "ski scorpion bronze mail fold cause soft truly resemble endorse gym joke";
+var mnemonic = "net coin light defense anchor stumble pride sauce arrange hole risk ostrich";

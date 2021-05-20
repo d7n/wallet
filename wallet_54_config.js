@@ -1,1 +1,1 @@
-var mnemonic = "mass identify icon space photo elephant style donate supreme valve modify absurd";
+var mnemonic = "unknown minimum carbon profit become control slogan knife fox three flush today";

@@ -1,1 +1,1 @@
-var mnemonic = "able canoe can evolve pass enter charge access extra coffee unhappy coyote";
+var mnemonic = "cannon hire order forward adult wedding drink loan toward sunset also fiscal";

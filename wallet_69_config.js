@@ -1,1 +1,1 @@
-var mnemonic = "oil domain antique trigger typical cousin glass twice monitor throw business motion";
+var mnemonic = "bracket squeeze engine fetch pizza salad rib traffic remember follow piano supreme";

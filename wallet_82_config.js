@@ -1,1 +1,1 @@
-var mnemonic = "orange festival change pass basket ball stomach novel glide poverty salute jacket";
+var mnemonic = "into sort fabric sketch left left essay wait arch taste addict amateur";

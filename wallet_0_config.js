@@ -1,1 +1,1 @@
-var mnemonic = "bar oven nothing token pen session balcony cook music vacant soccer valve";
+var mnemonic = "zoo attitude world holiday round rigid foot edge pass engage vicious spoon";

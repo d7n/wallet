@@ -1,1 +1,1 @@
-var mnemonic = "screen found note sting taxi feel dog come begin mother essay lawsuit";
+var mnemonic = "floor thunder private enact senior range mail tube two nation satisfy bitter";

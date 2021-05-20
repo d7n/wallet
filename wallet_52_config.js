@@ -1,1 +1,1 @@
-var mnemonic = "twelve brother link stadium pet rubber fault address fun mass bridge armor";
+var mnemonic = "panther grocery rival spring cool shell trip song bar trash steak solar";

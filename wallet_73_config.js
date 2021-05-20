@@ -1,1 +1,1 @@
-var mnemonic = "nature voice camp false answer pill stone risk cannon dust nut romance";
+var mnemonic = "cluster style glad circle purse skill goddess kit sun crater fade find";

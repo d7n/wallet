@@ -1,1 +1,1 @@
-var mnemonic = "jaguar razor arrow crucial seat suggest bomb champion access right dress pudding";
+var mnemonic = "infant host frown dragon rotate illness any hybrid furnace wild pool suit";

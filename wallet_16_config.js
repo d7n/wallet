@@ -1,1 +1,1 @@
-var mnemonic = "organ slab stock proud age dizzy captain wasp pledge water wagon loan";
+var mnemonic = "talent wine palace now grief whale item december own spike audit raccoon";

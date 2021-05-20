@@ -1,1 +1,1 @@
-var mnemonic = "crop before profit shine prefer scheme lyrics swift waste more broccoli mirror";
+var mnemonic = "arena able dial old chest cricket skate mammal perfect motor mirror come";

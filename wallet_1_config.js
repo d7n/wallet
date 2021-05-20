@@ -1,1 +1,1 @@
-var mnemonic = "choice tool echo coconut protect snap bless key sadness float adjust differ";
+var mnemonic = "half enhance burst banner vanish upon tribe birth roast elbow robot supreme";

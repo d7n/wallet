@@ -1,1 +1,1 @@
-var mnemonic = "capable range position reveal face nominee proud pig damp powder fluid plastic";
+var mnemonic = "plastic rack panther setup practice giggle organ middle friend prevent spend skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "lion napkin enable scissors rug reveal slight churn divide merge plastic announce";
+var mnemonic = "finger patch able shell summer athlete sniff harbor dumb outside rich reason";

@@ -1,1 +1,1 @@
-var mnemonic = "august pelican ritual fashion garden august fault debris attend bronze topic visual";
+var mnemonic = "exhaust engine knee immense term appear system uniform glimpse skill badge orphan";

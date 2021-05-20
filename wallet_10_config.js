@@ -1,1 +1,1 @@
-var mnemonic = "air caught feel blossom fresh sense inmate nest ethics witness version man";
+var mnemonic = "save museum remind amateur left crucial trust spice regular thrive auto health";

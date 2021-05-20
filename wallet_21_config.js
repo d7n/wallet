@@ -1,1 +1,1 @@
-var mnemonic = "shy dolphin pledge title lawn stick decade cluster venture pyramid remember guard";
+var mnemonic = "high clock jeans antenna mouse side annual card cluster stool cereal city";

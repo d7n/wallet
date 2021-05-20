@@ -1,1 +1,1 @@
-var mnemonic = "margin rescue shallow peasant rib index once bonus axis senior slim brick";
+var mnemonic = "laundry quit fat coffee rabbit erosion grant trigger kick love quality month";

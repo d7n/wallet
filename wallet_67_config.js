@@ -1,1 +1,1 @@
-var mnemonic = "subway pioneer room fiscal decorate knife photo victory load caught pumpkin tape";
+var mnemonic = "cave gossip blouse around goose invite cabbage win dizzy verify memory six";

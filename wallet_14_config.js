@@ -1,1 +1,1 @@
-var mnemonic = "manage chef help bid curve dentist shoulder girl junior phone armor assault";
+var mnemonic = "purse still dinner half pelican piano alien slice antique muffin gate sand";

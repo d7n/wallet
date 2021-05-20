@@ -1,1 +1,1 @@
-var mnemonic = "solution marriage sand victory anxiety convince hold anger sense pizza click flock";
+var mnemonic = "safe service weird fade embrace oblige reject heavy reveal vibrant fix south";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak poet choice text silk sugar egg license parrot goddess noise erupt";
+var mnemonic = "dune travel fancy muffin dizzy balcony notice sustain fiction already royal stock";

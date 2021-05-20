@@ -1,1 +1,1 @@
-var mnemonic = "level venue stable hour sugar imitate crouch humor risk trap sunset cry";
+var mnemonic = "settle catalog inner ball camera remain dial obscure also strategy onion beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle faith caught seed bread supply kidney drop remove large gain panel";
+var mnemonic = "power gravity hole put inspire can until rotate vibrant south cram trend";

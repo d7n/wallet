@@ -1,1 +1,1 @@
-var mnemonic = "calm among security connect beyond old crowd unlock tilt off matrix zebra";
+var mnemonic = "cave poem razor tide hand render current unable material daughter because network";

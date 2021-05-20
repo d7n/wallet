@@ -1,1 +1,1 @@
-var mnemonic = "lyrics curtain only entire type ocean flock oven pyramid dutch fetch dad";
+var mnemonic = "still civil eye protect mother sting sad radar umbrella lecture eager head";

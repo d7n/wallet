@@ -1,1 +1,1 @@
-var mnemonic = "autumn subway sheriff craft visa giggle dilemma twin exhaust fence viable bread";
+var mnemonic = "icon desert try grass wasp crunch very improve chaos key rose jump";

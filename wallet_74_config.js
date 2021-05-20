@@ -1,1 +1,1 @@
-var mnemonic = "rabbit degree polar van survey enable above film carry surround powder unknown";
+var mnemonic = "gravity grant rather sword erase relief cheap excite coin fury cereal announce";

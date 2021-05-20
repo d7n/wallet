@@ -1,1 +1,1 @@
-var mnemonic = "gorilla drum street uncle coach devote seed crane mean ginger tomorrow parent";
+var mnemonic = "title wisdom volume attack outer fold correct heart velvet danger liberty sausage";

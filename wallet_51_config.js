@@ -1,1 +1,1 @@
-var mnemonic = "grab physical deliver valley until rubber course explain sadness dice sad shy";
+var mnemonic = "work chunk tiger ready boss wage voyage cost unfold jealous jazz will";

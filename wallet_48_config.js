@@ -1,1 +1,1 @@
-var mnemonic = "churn cannon movie satoshi rely joke exercise leopard doctor fog public lottery";
+var mnemonic = "network canal country feed warm alter catch day swallow garbage hidden blossom";

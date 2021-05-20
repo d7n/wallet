@@ -1,1 +1,1 @@
-var mnemonic = "essay team citizen rival fox assault orange tortoise zone major animal sugar";
+var mnemonic = "cruise whip rose dad excite fly phone concert crowd hospital dove evolve";

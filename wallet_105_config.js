@@ -1,1 +1,1 @@
-var mnemonic = "educate obscure help already bench chief grass funny burst carpet pole warfare";
+var mnemonic = "column goat electric visit enroll drill chunk cube east dad front expose";

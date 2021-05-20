@@ -1,1 +1,1 @@
-var mnemonic = "gate boy toe matrix subject bulb violin correct robot purchase deny tobacco";
+var mnemonic = "spider upper finish pause trust churn payment learn stamp mushroom ice tip";

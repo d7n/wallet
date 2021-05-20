@@ -1,1 +1,1 @@
-var mnemonic = "sustain gauge good rally wisdom apart ill zone reward hedgehog sign ten";
+var mnemonic = "bid hill nose fat grunt faith grab stay brand chair differ have";

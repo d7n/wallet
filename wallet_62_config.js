@@ -1,1 +1,1 @@
-var mnemonic = "shy olive razor story lounge slam carry few leave draw hockey portion";
+var mnemonic = "speed leg tackle car radar acoustic lawn gloom treat income soldier quote";

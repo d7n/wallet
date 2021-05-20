@@ -1,1 +1,1 @@
-var mnemonic = "inspire forward rabbit inform spray inspire jump balcony consider smooth toast tunnel";
+var mnemonic = "peace father catalog conduct picture eight food slab swarm pill donate fire";

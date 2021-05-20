@@ -1,1 +1,1 @@
-var mnemonic = "auto milk left negative wagon expect duck glory steak either firm hazard";
+var mnemonic = "boat mimic exhibit tomato melt chronic pull sail chapter slush retire tone";

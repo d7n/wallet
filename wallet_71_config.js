@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow rebel need opera planet monster banner another rice light sheriff music";
+var mnemonic = "vintage laptop caught vast fruit feed current angry base there omit gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "situate describe valid general galaxy clip differ crush lawsuit split pulse alter";
+var mnemonic = "govern begin sphere icon royal deposit corn polar cost position divert shaft";

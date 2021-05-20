@@ -1,1 +1,1 @@
-var mnemonic = "exotic gift help elbow section sick spare gold behave surface between inflict";
+var mnemonic = "amused define ensure candy indoor hungry joy primary twice add voice wire";

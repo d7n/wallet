@@ -1,1 +1,1 @@
-var mnemonic = "ship nerve earn radar gauge chuckle invest category tenant blind tobacco blind";
+var mnemonic = "correct company scare employ fun fury jazz print symbol figure one blame";

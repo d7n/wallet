@@ -1,1 +1,1 @@
-var mnemonic = "buyer hole gospel audit prize rebel cloud burden myth raven outdoor season";
+var mnemonic = "error jewel sniff enrich width parade doll unique aim stone chase price";

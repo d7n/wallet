@@ -1,1 +1,1 @@
-var mnemonic = "agree top flock acquire trash cave trick tired digital horror response trigger";
+var mnemonic = "during borrow program rapid oxygen delay option little wedding reopen brisk pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "finger expect guide strike injury issue during motion asthma avocado envelope lobster";
+var mnemonic = "ship ten heavy canyon merit noodle display pact account athlete capital opinion";

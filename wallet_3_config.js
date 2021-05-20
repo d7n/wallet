@@ -1,1 +1,1 @@
-var mnemonic = "autumn route height attitude remind pact cake despair cargo involve spy poet";
+var mnemonic = "tortoise truly street soup drift weather load resist device cruel gym fresh";

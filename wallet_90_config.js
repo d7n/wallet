@@ -1,1 +1,1 @@
-var mnemonic = "town carry radar verb feed check say fringe jelly priority achieve renew";
+var mnemonic = "glow hazard dignity range allow draw people slogan craft whale swear release";

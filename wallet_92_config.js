@@ -1,1 +1,1 @@
-var mnemonic = "gravity jewel jump depth tiny trigger jump devote empower shop across spot";
+var mnemonic = "wage drum borrow sketch sun wide confirm process situate cactus tiger prefer";

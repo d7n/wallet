@@ -1,1 +1,1 @@
-var mnemonic = "inch smooth drama sausage oppose fury power alert venue lens reveal maximum";
+var mnemonic = "matrix humble member skill crash impose cup remind mind purpose enjoy exhibit";

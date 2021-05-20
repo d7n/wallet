@@ -1,1 +1,1 @@
-var mnemonic = "marine rifle boat tool rent install hammer shop spin charge business village";
+var mnemonic = "today essence horse kid goose core vanish two opera sphere they day";

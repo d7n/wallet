@@ -1,1 +1,1 @@
-var mnemonic = "either armed remember eight wagon blood hair question pole teach soldier test";
+var mnemonic = "target wasp one negative salad whisper vessel capital fortune six body phrase";

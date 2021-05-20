@@ -1,1 +1,1 @@
-var mnemonic = "seminar document nation merge that warrior polar universe life shrimp amazing clap";
+var mnemonic = "verify world know return holiday lunar risk strong when waste marine truck";

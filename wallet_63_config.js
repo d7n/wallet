@@ -1,1 +1,1 @@
-var mnemonic = "album race city else under stove village post famous mystery dove inside";
+var mnemonic = "crouch double pear congress text gesture belt flee assume unknown range sting";

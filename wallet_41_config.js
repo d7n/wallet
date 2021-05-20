@@ -1,1 +1,1 @@
-var mnemonic = "gasp pilot trust human home tumble gloom distance outside first ordinary guilt";
+var mnemonic = "connect enhance day false wrap side stand health upset pole inch rack";

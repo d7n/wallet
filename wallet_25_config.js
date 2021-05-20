@@ -1,1 +1,1 @@
-var mnemonic = "tissue find split first trick teach swamp tail unhappy cactus rubber nuclear";
+var mnemonic = "resource unit animal deposit license toast reward hip setup cactus wealth scene";

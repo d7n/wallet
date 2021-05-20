@@ -1,1 +1,1 @@
-var mnemonic = "bubble aware stool return stone aim open banana main feature napkin little";
+var mnemonic = "ancient lazy foot jar notable heavy pull wild firm lend fancy ball";

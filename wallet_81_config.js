@@ -1,1 +1,1 @@
-var mnemonic = "suit glow fat between mutual impose village marine salad vessel stomach usage";
+var mnemonic = "clerk tomato spy code loud december polar once rebuild cabin breeze prosper";

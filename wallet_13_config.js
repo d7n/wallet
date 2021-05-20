@@ -1,1 +1,1 @@
-var mnemonic = "negative sudden feed doctor genuine beef baby loyal oxygen obtain perfect amused";
+var mnemonic = "crowd blanket pipe grab raise day huge still airport leader trophy divert";
