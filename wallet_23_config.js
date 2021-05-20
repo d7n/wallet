@@ -1,1 +1,1 @@
-var mnemonic = "coil captain peasant junk insect expand able intact certain fashion sting glimpse";
+var mnemonic = "raise venue solve absorb rescue eyebrow throw note aspect canal apple egg";

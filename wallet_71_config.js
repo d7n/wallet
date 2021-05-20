@@ -1,1 +1,1 @@
-var mnemonic = "vanish ugly leg better corn vague chief you ticket artwork frog summer";
+var mnemonic = "enroll win mouse improve elbow enforce entry domain math expand year gain";

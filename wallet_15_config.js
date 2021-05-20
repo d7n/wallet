@@ -1,1 +1,1 @@
-var mnemonic = "absorb world patrol hockey dinner subway universe father fiber rebuild oval box";
+var mnemonic = "thumb march tray flee motor welcome asset napkin correct fire universe galaxy";

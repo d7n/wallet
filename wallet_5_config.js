@@ -1,1 +1,1 @@
-var mnemonic = "humble bomb gold zoo supply fortune danger bunker cheap glimpse wood steel";
+var mnemonic = "old provide screen speed dumb lens dry small hungry camp paper during";

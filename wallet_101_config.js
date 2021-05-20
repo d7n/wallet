@@ -1,1 +1,1 @@
-var mnemonic = "provide since genre memory expose palm space once pioneer fork absorb cinnamon";
+var mnemonic = "hold sketch person hen dwarf glove fever baby athlete school honey trumpet";

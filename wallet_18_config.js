@@ -1,1 +1,1 @@
-var mnemonic = "muffin cereal north grain armed present since one quick clever earn finish";
+var mnemonic = "drive window man language client miss enjoy injury illness hawk castle series";

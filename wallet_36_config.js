@@ -1,1 +1,1 @@
-var mnemonic = "invest solar film knee acoustic knee view cube allow obtain shy creek";
+var mnemonic = "live before north cousin involve acoustic gift same erosion clutch rather time";

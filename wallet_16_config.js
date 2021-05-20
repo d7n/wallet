@@ -1,1 +1,1 @@
-var mnemonic = "wise govern impact barrel celery want pull velvet recycle hidden exchange other";
+var mnemonic = "board purse chair bind whale ceiling shine write verb lock asthma impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "agree place model hobby salon illness moon fruit spirit athlete supply accuse";
+var mnemonic = "multiply equal finish novel enhance leopard rack elegant shoot fancy lunar drill";

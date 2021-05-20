@@ -1,1 +1,1 @@
-var mnemonic = "guide swim buzz black resource wave relief glory lottery roof code pepper";
+var mnemonic = "spider attitude diagram sponsor square buyer airport window net fine address habit";

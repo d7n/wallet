@@ -1,1 +1,1 @@
-var mnemonic = "jar able faculty advice sister style zero virtual volume hub boost engine";
+var mnemonic = "wear danger account surge host start promote saddle genuine there train hover";

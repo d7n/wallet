@@ -1,1 +1,1 @@
-var mnemonic = "prosper project rent shadow ladder cotton warrior witness step host frog sniff";
+var mnemonic = "shove inch panic embrace scan cost pledge rather remind price airport swallow";

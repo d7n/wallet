@@ -1,1 +1,1 @@
-var mnemonic = "light reward goose athlete mobile bomb catch net sting mountain junk man";
+var mnemonic = "pony lift write review cradle wise joke supply hunt arena jeans kidney";

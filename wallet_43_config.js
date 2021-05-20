@@ -1,1 +1,1 @@
-var mnemonic = "regular border voice belt increase item couple fade arrow human cage burden";
+var mnemonic = "nice wire enjoy notable name item clap mango because endorse hover hockey";

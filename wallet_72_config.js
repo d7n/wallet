@@ -1,1 +1,1 @@
-var mnemonic = "parrot reward hobby enrich adjust affair hello uniform swim prison able dentist";
+var mnemonic = "insect auto siren venture fatal dog inquiry soda minute logic lonely real";

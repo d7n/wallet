@@ -1,1 +1,1 @@
-var mnemonic = "motor evolve ancient govern host hole oxygen cat floor accuse today solid";
+var mnemonic = "settle ready divide alter shop demise sleep slow kite amount great appear";

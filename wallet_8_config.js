@@ -1,1 +1,1 @@
-var mnemonic = "nose dynamic mom glory amazing coral shoulder ostrich marriage physical rubber powder";
+var mnemonic = "hidden custom notice fun evidence rail error property frequent pitch alcohol protect";

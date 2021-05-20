@@ -1,1 +1,1 @@
-var mnemonic = "grunt claw turn lady hill leisure hospital another october inspire daughter paddle";
+var mnemonic = "drum mistake adapt ghost panic fox zoo will chef mosquito card tenant";

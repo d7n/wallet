@@ -1,1 +1,1 @@
-var mnemonic = "sleep mixture reason replace success tree urge ahead oven medal case correct";
+var mnemonic = "drop huge deal merry vague erupt clinic detail sure announce trumpet around";

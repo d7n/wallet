@@ -1,1 +1,1 @@
-var mnemonic = "settle fetch refuse biology pig found hand crane quick hurt dry learn";
+var mnemonic = "wealth treat search dance wash erase ridge stem garage wise license water";

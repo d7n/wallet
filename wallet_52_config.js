@@ -1,1 +1,1 @@
-var mnemonic = "abstract danger giraffe jelly catch spray arena mutual quiz leader grass december";
+var mnemonic = "umbrella entry south tongue pigeon finger west swamp hollow century pepper hybrid";

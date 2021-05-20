@@ -1,1 +1,1 @@
-var mnemonic = "setup window furnace during strike tiny learn level end emotion sponsor affair";
+var mnemonic = "favorite coast gas lucky spend chase connect fluid syrup wrap rabbit solid";

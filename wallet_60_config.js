@@ -1,1 +1,1 @@
-var mnemonic = "accident permit antique invite abuse amateur forum treat humble radio lady trick";
+var mnemonic = "waste below sheriff trial action tiny abandon all wire achieve around clog";

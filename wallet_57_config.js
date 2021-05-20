@@ -1,1 +1,1 @@
-var mnemonic = "success good rack kiwi august park diary shift vote arena sibling crash";
+var mnemonic = "donkey hidden book luggage salt then survey brief hill insect hint mosquito";

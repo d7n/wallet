@@ -1,1 +1,1 @@
-var mnemonic = "dismiss used mosquito mass endorse invest soup kangaroo zone bone bird skill";
+var mnemonic = "trick tomorrow injury unhappy regret foster picture begin blind measure dinner cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "blur flee round defy syrup slender next long replace noodle surge mushroom";
+var mnemonic = "toe mango material decrease odor south split assault only letter eyebrow assault";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse hockey diet outer expire attack win brick monster shield apology history";
+var mnemonic = "chef act cheese maze slide design seed subject width nurse miss cruel";

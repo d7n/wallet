@@ -1,1 +1,1 @@
-var mnemonic = "ready shiver conduct olympic easily exchange neck hold nose small first crouch";
+var mnemonic = "cup pair sadness agent title old entry kid annual duty oxygen stumble";

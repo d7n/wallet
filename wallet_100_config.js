@@ -1,1 +1,1 @@
-var mnemonic = "tag combine attitude domain brown venue hospital fluid guess broom cargo hospital";
+var mnemonic = "range ritual quit cabin able again daring window minute panda rack today";

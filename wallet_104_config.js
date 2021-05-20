@@ -1,1 +1,1 @@
-var mnemonic = "tape voice hedgehog dizzy sweet danger sing path reduce limit artist goat";
+var mnemonic = "place sugar travel decorate other uncle gift moon test fiscal vessel enable";

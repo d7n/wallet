@@ -1,1 +1,1 @@
-var mnemonic = "visit merge fly cannon december cave exchange solution mountain wrist tongue symbol";
+var mnemonic = "ancient offer victory brown tree thing learn tunnel senior approve muffin mule";

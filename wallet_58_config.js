@@ -1,1 +1,1 @@
-var mnemonic = "pill hospital age soap view hedgehog lamp kingdom general bleak fire chapter";
+var mnemonic = "garage route coin poet click rubber enemy lobster organ resource welcome miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "electric menu net flip coral where way acquire act cement dignity strike";
+var mnemonic = "useless amazing nose mistake safe submit social broken smart pass cereal victory";

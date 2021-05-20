@@ -1,1 +1,1 @@
-var mnemonic = "there access lecture task matrix vibrant hockey make captain quarter muffin beauty";
+var mnemonic = "pole verify man lyrics type step proud napkin upper caution child album";

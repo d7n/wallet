@@ -1,1 +1,1 @@
-var mnemonic = "define equip car effort play police minimum address benefit dismiss border work";
+var mnemonic = "stock over kiwi resemble cruise opinion fee fun check talk crater cash";

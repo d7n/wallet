@@ -1,1 +1,1 @@
-var mnemonic = "best resist oblige client delay net rocket valid birth bring owner rent";
+var mnemonic = "foster hundred gadget path canal submit soft physical empty skull camera delay";

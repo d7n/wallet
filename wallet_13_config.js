@@ -1,1 +1,1 @@
-var mnemonic = "narrow neutral knee when omit shuffle interest file manual thrive mix average";
+var mnemonic = "float embody mix census slab rent token aspect outside ensure hub claim";

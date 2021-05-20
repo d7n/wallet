@@ -1,1 +1,1 @@
-var mnemonic = "card tumble dizzy exchange bicycle click luxury cloth tired brain chimney problem";
+var mnemonic = "style trigger stone save wood leader bracket sure flip program meat weird";

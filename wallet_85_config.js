@@ -1,1 +1,1 @@
-var mnemonic = "link cousin able tourist position educate annual soul nest prevent flag vicious";
+var mnemonic = "radio afraid skin dinosaur inject then price assault clean detect segment much";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly simple dignity rabbit spin pilot home bean sibling actress wink dial";
+var mnemonic = "knee inform master pigeon nose tackle edit pool tenant cool hand oval";

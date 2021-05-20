@@ -1,1 +1,1 @@
-var mnemonic = "feed proof cheap random prize course live captain peanut daring advance fall";
+var mnemonic = "sense erase property unusual pause iron indicate distance comic egg crater summer";

@@ -1,1 +1,1 @@
-var mnemonic = "equip absorb lucky latin together output dwarf analyst awake twice gold diagram";
+var mnemonic = "either shoot chronic floor choose boy bone rocket nurse jewel banana explain";

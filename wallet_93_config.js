@@ -1,1 +1,1 @@
-var mnemonic = "early poem pioneer school path social when taxi online humble ski hope";
+var mnemonic = "hybrid crack scale false gravity elbow tank alcohol lecture mention virtual soul";

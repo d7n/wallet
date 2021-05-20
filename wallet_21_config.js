@@ -1,1 +1,1 @@
-var mnemonic = "measure milk orbit outer forest flush scout rug decorate portion notice web";
+var mnemonic = "foster crash into sea inflict penalty guilt isolate return blast lion choose";

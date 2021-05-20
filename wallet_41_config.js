@@ -1,1 +1,1 @@
-var mnemonic = "frequent wash dry loan alpha drastic unlock dance season wasp result garage";
+var mnemonic = "abandon squeeze laptop between hybrid learn hurry tomorrow result wave hard believe";

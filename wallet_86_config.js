@@ -1,1 +1,1 @@
-var mnemonic = "town cactus stove start argue vacuum thrive net concert degree awake stand";
+var mnemonic = "brave arrive search enlist organ horse rhythm airport between trap lottery school";

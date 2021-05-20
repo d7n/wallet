@@ -1,1 +1,1 @@
-var mnemonic = "captain alert shield stove indoor crazy speak warfare neither basket ski pond";
+var mnemonic = "salon remove census alarm main orange position keep make vintage canyon shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "parade budget cave isolate normal loyal antique ancient alarm priority deer story";
+var mnemonic = "size skill tired engage quick canyon outside kidney finger skate horror identify";

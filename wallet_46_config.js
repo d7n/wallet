@@ -1,1 +1,1 @@
-var mnemonic = "oak frequent club soap upper oval across pen mandate judge start rapid";
+var mnemonic = "animal alley delay three rate flock tilt stage shoe gadget paper spare";

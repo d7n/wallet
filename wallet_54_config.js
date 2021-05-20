@@ -1,1 +1,1 @@
-var mnemonic = "memory riot step glove mind baby miss short inspire jar minor rebuild";
+var mnemonic = "sea modify wall help balcony cool stove tube polar outer bread true";

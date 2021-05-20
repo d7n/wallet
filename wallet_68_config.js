@@ -1,1 +1,1 @@
-var mnemonic = "forget drift over pitch verb drift half universe glide two once uphold";
+var mnemonic = "jealous negative crumble text naive invite expect text evil harsh galaxy style";

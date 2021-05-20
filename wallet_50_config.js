@@ -1,1 +1,1 @@
-var mnemonic = "kick mistake index humble alley mango method equip visual business chimney green";
+var mnemonic = "proud farm pelican cage jeans year rather swift phone rotate still shadow";

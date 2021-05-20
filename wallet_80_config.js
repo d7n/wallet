@@ -1,1 +1,1 @@
-var mnemonic = "nature palace city echo evolve quality deny hamster find earn stage blouse";
+var mnemonic = "sight purchase fade picnic canal fat yellow pair miracle crumble keen game";

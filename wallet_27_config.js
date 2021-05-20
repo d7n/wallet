@@ -1,1 +1,1 @@
-var mnemonic = "there million shiver drill bag fly loan hidden case moral promote twin";
+var mnemonic = "grow raw slight bullet wish sad code about hazard silk teach ramp";

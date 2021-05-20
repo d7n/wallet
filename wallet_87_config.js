@@ -1,1 +1,1 @@
-var mnemonic = "subject armor skill drink because elevator denial ethics aisle wild term salon";
+var mnemonic = "bridge thumb round advice baby column deposit window inspire salt flight test";

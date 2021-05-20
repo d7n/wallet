@@ -1,1 +1,1 @@
-var mnemonic = "coil combine start pitch alter hamster ten exclude symptom giraffe caught trim";
+var mnemonic = "crazy earth gift hockey bird sphere novel scene heart lizard table prefer";

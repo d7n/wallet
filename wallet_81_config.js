@@ -1,1 +1,1 @@
-var mnemonic = "achieve waste cost wait moon cliff ceiling deny clerk where any usual";
+var mnemonic = "upgrade visit jar leg will hockey memory episode tourist more earn trend";

@@ -1,1 +1,1 @@
-var mnemonic = "melody resemble weasel drip hurdle kangaroo poverty sphere sound piece child regret";
+var mnemonic = "tip purse under shadow staff habit coil armed bleak cream moon twice";

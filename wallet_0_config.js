@@ -1,1 +1,1 @@
-var mnemonic = "devote deal party wine close source kangaroo middle brother jungle van egg";
+var mnemonic = "sauce quick problem talent safe garment gasp pass shrug option agree chair";

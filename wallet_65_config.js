@@ -1,1 +1,1 @@
-var mnemonic = "tunnel steel rescue matrix ribbon double cruise lunch thunder moment better silver";
+var mnemonic = "sick winter parade note comic maple true shoot absent unveil piece awful";

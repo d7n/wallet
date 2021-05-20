@@ -1,1 +1,1 @@
-var mnemonic = "act sudden quarter reflect kick banner spell canoe obtain cream wing fiction";
+var mnemonic = "stick coconut route pupil swim cream few bulb mention polar shield cabbage";

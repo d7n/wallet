@@ -1,1 +1,1 @@
-var mnemonic = "notable capable machine online emerge street match milk tide surface picture type";
+var mnemonic = "insect more point raccoon siege olympic prize again gift library donkey suspect";

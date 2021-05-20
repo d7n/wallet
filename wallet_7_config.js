@@ -1,1 +1,1 @@
-var mnemonic = "clever boss pink transfer network remind unfair direct sick rice poem have";
+var mnemonic = "tornado index sunset junk control patrol joke often thank divert pave topple";

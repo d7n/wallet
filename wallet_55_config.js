@@ -1,1 +1,1 @@
-var mnemonic = "call biology define ten favorite hood front wedding axis task gloom dragon";
+var mnemonic = "cycle whale brick funny shrug stay deputy basic dress home frost cross";

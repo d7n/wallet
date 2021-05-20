@@ -1,1 +1,1 @@
-var mnemonic = "tiny wreck wealth west enough unfold history mutual cup fold rural seed";
+var mnemonic = "dinosaur expire crop person video brush upper future assist evolve choice first";

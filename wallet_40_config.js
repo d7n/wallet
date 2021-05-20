@@ -1,1 +1,1 @@
-var mnemonic = "taste daughter key myself palace deliver eight strong fortune wrist panic exhaust";
+var mnemonic = "hybrid sign chicken unfold acoustic sea churn notice hello route mosquito prevent";

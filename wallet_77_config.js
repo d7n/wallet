@@ -1,1 +1,1 @@
-var mnemonic = "bubble roof exercise cash wrong aspect sell outer dolphin shine purpose original";
+var mnemonic = "boss blossom core guard token dice filter usual review pink absorb swift";

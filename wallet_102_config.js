@@ -1,1 +1,1 @@
-var mnemonic = "talk magnet shield zoo apple tide club digital tumble olive aisle topple";
+var mnemonic = "life effort sure boil science that school deliver ride feel luggage dice";

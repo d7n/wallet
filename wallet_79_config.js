@@ -1,1 +1,1 @@
-var mnemonic = "demand hospital desert provide price dolphin crowd dial boss remember tower advance";
+var mnemonic = "sing distance phone mystery avocado admit puppy derive track animal actor deposit";

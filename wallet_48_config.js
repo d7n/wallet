@@ -1,1 +1,1 @@
-var mnemonic = "actor sentence silk swear cable decorate gaze turtle inflict print name victory";
+var mnemonic = "wool parade rose trumpet toddler taste animal orient among eager differ physical";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse verify arch august bus tilt digital skill beyond fossil tilt advice";
+var mnemonic = "february crowd walnut cage spell actress slam impose solid tattoo hire tomato";

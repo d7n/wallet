@@ -1,1 +1,1 @@
-var mnemonic = "maple delay stage gloom income usual canyon cactus capable buzz analyst picnic";
+var mnemonic = "boat image mountain dice head model farm gun clip jeans soccer exhaust";

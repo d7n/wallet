@@ -1,1 +1,1 @@
-var mnemonic = "cloud zero embody cross panic turtle beyond quantum stone fuel original problem";
+var mnemonic = "abandon slight budget catch hole mix couch soon door around spray put";

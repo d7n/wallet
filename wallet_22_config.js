@@ -1,1 +1,1 @@
-var mnemonic = "wreck burger spend join baby view drill crew rubber team head brain";
+var mnemonic = "elegant puppy number enter banner casual learn brick radar toe neither expose";

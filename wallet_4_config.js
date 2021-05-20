@@ -1,1 +1,1 @@
-var mnemonic = "improve tilt audit cook same army assist page human level age century";
+var mnemonic = "quit sound vacuum hen chest canyon tortoise assault royal weird spike multiply";

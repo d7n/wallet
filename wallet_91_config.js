@@ -1,1 +1,1 @@
-var mnemonic = "uncle letter exact yellow sibling motor comfort check stairs argue core flush";
+var mnemonic = "boss crew family enact plunge canyon empty spike illness left zero front";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee drama wrap arrow rich indicate satisfy economy cover risk carbon amount";
+var mnemonic = "derive diagram spider clip tag talk turn spirit path admit ketchup fat";

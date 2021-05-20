@@ -1,1 +1,1 @@
-var mnemonic = "alter increase pony recall habit arm obscure surface discover wheel winner wide";
+var mnemonic = "fetch peace wool praise trick grocery found maid else road owner boy";

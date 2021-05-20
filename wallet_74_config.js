@@ -1,1 +1,1 @@
-var mnemonic = "write device wood gorilla bargain police explain ozone snap chase minor baby";
+var mnemonic = "enough attitude any illness cheese pluck thank ribbon furnace asthma regular bike";

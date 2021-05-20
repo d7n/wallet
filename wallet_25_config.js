@@ -1,1 +1,1 @@
-var mnemonic = "dream wave eight bench dumb improve forget top view kit session napkin";
+var mnemonic = "card amateur cat job child body violin when exit extend taxi there";

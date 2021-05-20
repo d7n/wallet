@@ -1,1 +1,1 @@
-var mnemonic = "rose proud room near group gym blossom tilt salt yellow above silver";
+var mnemonic = "material attract settle forum primary expose myth wash more medal rely bless";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness sort strike arm auto usual thrive follow topic kingdom live amateur";
+var mnemonic = "among law kid vintage belt phone else cancel must genre awkward dry";

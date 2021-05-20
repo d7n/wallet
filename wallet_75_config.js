@@ -1,1 +1,1 @@
-var mnemonic = "allow what uncover suspect relax humor milk tourist erosion help good scatter";
+var mnemonic = "end able pretty benefit custom tell park edit name yellow response camera";

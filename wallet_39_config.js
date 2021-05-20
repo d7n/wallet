@@ -1,1 +1,1 @@
-var mnemonic = "slight connect fresh orchard jungle void exclude silent industry depth motion velvet";
+var mnemonic = "fly similar enroll stairs afford joke slow swim life onion engage ceiling";

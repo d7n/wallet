@@ -1,1 +1,1 @@
-var mnemonic = "salt immense faculty citizen lab limb slot inch gauge hover mail ecology";
+var mnemonic = "mushroom insane dose glad sight insect useless ball pen flavor dress blame";

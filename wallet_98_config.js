@@ -1,1 +1,1 @@
-var mnemonic = "improve ancient arrange dune weekend shine since nice small unique debris say";
+var mnemonic = "adult goat cup object flip scale weasel execute network solid assume belt";

@@ -1,1 +1,1 @@
-var mnemonic = "apart modify erode sun announce crush whisper run what park know glove";
+var mnemonic = "rebuild zone then happy oblige attract saddle antenna obscure like federal camp";

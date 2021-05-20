@@ -1,1 +1,1 @@
-var mnemonic = "catch bracket jazz voice swear note sense hybrid during emerge someone bulk";
+var mnemonic = "erase mushroom impose retire sure salad jar minimum artist stamp radar soft";

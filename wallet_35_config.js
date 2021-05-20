@@ -1,1 +1,1 @@
-var mnemonic = "family chief please position theme ready soccer puzzle goddess random label inside";
+var mnemonic = "monster forest frequent ribbon friend frog panda neck enrich faculty trial ripple";

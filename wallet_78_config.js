@@ -1,1 +1,1 @@
-var mnemonic = "remove elder barrel shop memory breeze maple rare pumpkin just discover clay";
+var mnemonic = "indicate winner hidden neither random script use promote fence cage club purse";

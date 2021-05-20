@@ -1,1 +1,1 @@
-var mnemonic = "sausage riot veteran point gym program opinion lens six supreme kangaroo medal";
+var mnemonic = "fortune glide aspect coral tuition trial someone dad fit emotion month jealous";

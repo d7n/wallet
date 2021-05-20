@@ -1,1 +1,1 @@
-var mnemonic = "view nut solar secret soon atom advice carpet garage excess tip bird";
+var mnemonic = "judge famous during pet meat liberty chunk rent innocent pave shy forum";
