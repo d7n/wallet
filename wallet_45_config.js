@@ -1,1 +1,1 @@
-var mnemonic = "slush silver ball art mixed trend lawn myself coach employ treat dignity";
+var mnemonic = "basket crane road luggage hotel abandon canvas curtain habit visual rice chase";

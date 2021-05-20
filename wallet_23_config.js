@@ -1,1 +1,1 @@
-var mnemonic = "choice yellow post coast remove onion spin leaf simple boat armed grain";
+var mnemonic = "lumber parent elegant inflict gasp increase dress donkey sign claw father wall";

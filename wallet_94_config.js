@@ -1,1 +1,1 @@
-var mnemonic = "patient saddle rose act supreme cargo laptop bicycle provide public album garden";
+var mnemonic = "guide immune panic right grit truly champion denial rally shiver catch canyon";

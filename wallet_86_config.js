@@ -1,1 +1,1 @@
-var mnemonic = "vocal glare track excite car huge engage pink tragic bracket wrong camera";
+var mnemonic = "hospital chapter actress pottery share lobster april behave scissors six adult couch";

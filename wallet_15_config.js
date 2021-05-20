@@ -1,1 +1,1 @@
-var mnemonic = "federal novel siren lady deal demand cigar album abandon cream fresh switch";
+var mnemonic = "dose lobster hub vessel bacon dance trust merge tiny sense month absorb";

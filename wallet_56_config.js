@@ -1,1 +1,1 @@
-var mnemonic = "impose example spider test forward thunder discover way cart torch food ladder";
+var mnemonic = "borrow space same swallow monster airport prepare kid column already mesh salad";

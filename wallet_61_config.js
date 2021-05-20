@@ -1,1 +1,1 @@
-var mnemonic = "fun play miss click siren liar daughter fall green digital secret satoshi";
+var mnemonic = "elder neutral guess fabric concert drift name apology gasp tourist develop early";

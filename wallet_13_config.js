@@ -1,1 +1,1 @@
-var mnemonic = "diamond plate brave hamster undo onion rather near diet excite auto staff";
+var mnemonic = "feature merry lizard blur eager ill oval syrup dust finish admit lesson";

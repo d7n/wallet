@@ -1,1 +1,1 @@
-var mnemonic = "arrive doctor rib want window ranch car sun blue remind fresh wheel";
+var mnemonic = "tape pull cool century debate display work rare tank lyrics river jeans";

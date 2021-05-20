@@ -1,1 +1,1 @@
-var mnemonic = "surface little worth vocal easy acoustic visual diet sing observe spawn load";
+var mnemonic = "great grocery letter feed bird wet become mind awesome gloom wild oak";

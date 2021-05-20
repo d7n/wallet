@@ -1,1 +1,1 @@
-var mnemonic = "wrist rail series talent segment excite scale special cement load brief zebra";
+var mnemonic = "junior half gesture catch degree kitten mule whip photo wide tuna exist";

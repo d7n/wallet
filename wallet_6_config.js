@@ -1,1 +1,1 @@
-var mnemonic = "exotic payment endless neglect knee civil reject team profit exhibit any remove";
+var mnemonic = "thank motion rally long sick album modify immune shadow carry snow display";

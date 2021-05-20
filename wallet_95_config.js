@@ -1,1 +1,1 @@
-var mnemonic = "purity crash elegant swamp doctor drip dawn this achieve hungry wild doll";
+var mnemonic = "climb brass sudden hover canal dish funny nature ask provide wide grape";

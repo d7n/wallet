@@ -1,1 +1,1 @@
-var mnemonic = "breeze derive calm worth warrior below excuse flock client hungry method search";
+var mnemonic = "mosquito hungry wreck betray purity donate theme tube excess motion ripple cause";

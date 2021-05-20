@@ -1,1 +1,1 @@
-var mnemonic = "load clay inquiry cement series beef forget female symptom day clay surround";
+var mnemonic = "shed despair ivory absorb raw sense guide burst emerge please movie mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "soup heavy music raven artwork profit gate trip critic crater gym crumble";
+var mnemonic = "hedgehog stone scrub wide brass include master mention scene mixture exercise put";

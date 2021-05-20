@@ -1,1 +1,1 @@
-var mnemonic = "peanut salmon volcano shy muffin drama ladder end ocean plastic teach limb";
+var mnemonic = "raw theme table prize before reduce crack pig visual now field adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran bubble any door have action best climb zebra eternal flush shove";
+var mnemonic = "list clarify vanish advice casino merit blue cream uncover biology joke fox";

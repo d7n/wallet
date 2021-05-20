@@ -1,1 +1,1 @@
-var mnemonic = "pilot guide forum slice logic tunnel task cube actual address stumble this";
+var mnemonic = "popular heart cry viable candy file spatial tired rural riot feel clay";

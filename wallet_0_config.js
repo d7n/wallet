@@ -1,1 +1,1 @@
-var mnemonic = "climb husband bargain hammer gloom soda color enemy lounge soft rotate steel";
+var mnemonic = "mention minor draw exit aerobic since leader wage awful machine hair rule";

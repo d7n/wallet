@@ -1,1 +1,1 @@
-var mnemonic = "bean vast grunt alter dial assault twice explain orchard portion night document";
+var mnemonic = "next anchor announce idea pave catch onion spray prosper festival hurdle style";

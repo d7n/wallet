@@ -1,1 +1,1 @@
-var mnemonic = "orange climb candy float sniff noodle plunge health family grain cream expect";
+var mnemonic = "slight submit novel empower fish bag bullet sound frog loyal twist great";

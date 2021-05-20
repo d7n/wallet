@@ -1,1 +1,1 @@
-var mnemonic = "term knock imitate today amount mystery chalk earn carry script bunker real";
+var mnemonic = "garment first case drive street define analyst warfare scorpion service shoulder iron";

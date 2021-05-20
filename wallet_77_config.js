@@ -1,1 +1,1 @@
-var mnemonic = "scorpion wrestle supreme alley release obvious proof talent quality pact ball grape";
+var mnemonic = "alien bracket gym birth exile foot venue shine tower aisle frog sound";

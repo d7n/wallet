@@ -1,1 +1,1 @@
-var mnemonic = "auto hero bracket congress vote mechanic birth arctic vibrant rather oyster clinic";
+var mnemonic = "such mix lift antique pen advance ability script fluid glance example science";

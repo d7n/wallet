@@ -1,1 +1,1 @@
-var mnemonic = "desk bracket body merge client hidden pink fly swallow skin island place";
+var mnemonic = "ensure turtle banana warrior pencil idea keep glad salute old melt owner";

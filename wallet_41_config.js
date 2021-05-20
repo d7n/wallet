@@ -1,1 +1,1 @@
-var mnemonic = "youth busy effort devote position business leisure escape jump trial blade shop";
+var mnemonic = "kangaroo focus lawn jungle dress cool gap buddy river bunker battle follow";

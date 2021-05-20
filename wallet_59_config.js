@@ -1,1 +1,1 @@
-var mnemonic = "cloth tissue coffee science bench add mean evolve enforce fire hope ball";
+var mnemonic = "draft other crime august process vintage garment pigeon club harbor dumb middle";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy region aware proof disorder whisper catch develop name egg unaware genuine";
+var mnemonic = "hybrid laundry icon loud area crowd helmet palm add knee address engage";

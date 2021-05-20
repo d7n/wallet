@@ -1,1 +1,1 @@
-var mnemonic = "blossom casino orbit room spring physical moral tiny boring alien abstract upper";
+var mnemonic = "endorse blanket great ahead bracket two ladder spoon put exhaust train level";

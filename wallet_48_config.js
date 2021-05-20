@@ -1,1 +1,1 @@
-var mnemonic = "audit render rib reflect term cattle flame eager dragon flower street you";
+var mnemonic = "ticket ocean gate matter town merge rival manual all core slogan flee";

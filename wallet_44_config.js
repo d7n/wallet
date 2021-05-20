@@ -1,1 +1,1 @@
-var mnemonic = "wish repeat erupt choice relief child old monster bundle rotate special dry";
+var mnemonic = "owner wage fury motor monster photo feed leader lizard trust true spot";

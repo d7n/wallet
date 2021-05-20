@@ -1,1 +1,1 @@
-var mnemonic = "warm icon combine west panther bag devote buffalo basic purity dry twelve";
+var mnemonic = "gloom thunder mesh enhance tiny ignore acoustic foot room quit grass coffee";

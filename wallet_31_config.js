@@ -1,1 +1,1 @@
-var mnemonic = "elephant smooth blur energy fitness awful fine sea casino theory object cliff";
+var mnemonic = "dragon stock slim skin party boat mean cloud loop rate action walk";

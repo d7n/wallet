@@ -1,1 +1,1 @@
-var mnemonic = "weapon hawk vibrant chronic cross online setup first unlock blind stand rally";
+var mnemonic = "false jeans call economy shock paper road proof market load diet mansion";

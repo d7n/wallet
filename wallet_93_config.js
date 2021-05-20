@@ -1,1 +1,1 @@
-var mnemonic = "bronze oblige engage wreck amused police give solve spider century stick tongue";
+var mnemonic = "cannon accuse certain tool obtain muscle repair ask credit divert change false";

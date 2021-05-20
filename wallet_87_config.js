@@ -1,1 +1,1 @@
-var mnemonic = "stuff version damage unable flee pull shaft uncle correct lucky awkward pull";
+var mnemonic = "face wrestle gift obtain gossip advice glass father strong pass enforce stool";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure brown there chef wheel example already burden lion scorpion friend grant";
+var mnemonic = "hammer dress behind faith shiver mutual level review enforce open dinner turtle";

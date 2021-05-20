@@ -1,1 +1,1 @@
-var mnemonic = "ignore cupboard diet okay climb able novel sister column toilet marine track";
+var mnemonic = "miracle veteran bridge velvet example glimpse spider peasant resource mouse away during";

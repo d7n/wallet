@@ -1,1 +1,1 @@
-var mnemonic = "situate captain thing random soon usage wrong quick find curtain win runway";
+var mnemonic = "great visit distance hour curve achieve divert explain badge guitar erupt stick";

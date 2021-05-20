@@ -1,1 +1,1 @@
-var mnemonic = "galaxy merit payment metal salt mean phone step pencil stomach donkey search";
+var mnemonic = "time repair damp please start isolate naive change alien heart opera hat";

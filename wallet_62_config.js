@@ -1,1 +1,1 @@
-var mnemonic = "stool eye device luggage place stick share upset torch taste tuna rack";
+var mnemonic = "earth trick stamp image clay gown torch trouble solar town deputy legend";

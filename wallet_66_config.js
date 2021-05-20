@@ -1,1 +1,1 @@
-var mnemonic = "combine blanket praise seven jungle assault blood curve useless online pact ranch";
+var mnemonic = "keen diamond forward patrol budget analyst tape pattern demise spirit foam lobster";

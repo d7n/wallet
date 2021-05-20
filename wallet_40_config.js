@@ -1,1 +1,1 @@
-var mnemonic = "cancel clerk hospital seek hotel chair glad observe track trim festival wish";
+var mnemonic = "parrot school raccoon forward achieve daring sign help basic rug govern useful";

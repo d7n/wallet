@@ -1,1 +1,1 @@
-var mnemonic = "fit unit arch stick stuff coach march source off edge asthma arena";
+var mnemonic = "script hazard dune elite occur veteran glove promote foot purchase burger pull";

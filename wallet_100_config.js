@@ -1,1 +1,1 @@
-var mnemonic = "rose test crouch weekend toe festival duty hammer menu own near change";
+var mnemonic = "reward magnet silver engage prevent saddle vast ritual spend exist wasp note";

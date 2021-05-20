@@ -1,1 +1,1 @@
-var mnemonic = "puzzle robot match bundle uniform arena tone patch bottom movie scrap nuclear";
+var mnemonic = "exist virtual work across debate ready draw quote index wedding vote polar";

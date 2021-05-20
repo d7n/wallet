@@ -1,1 +1,1 @@
-var mnemonic = "jewel orange just treat unfold act atom dune brush enact cattle leisure";
+var mnemonic = "wall host sting drum festival cheese harsh view pulp enlist exit sign";

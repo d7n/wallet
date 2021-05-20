@@ -1,1 +1,1 @@
-var mnemonic = "denial bless pride small lift plate party length normal lunar punch random";
+var mnemonic = "steel ugly train hint impact drink under joy replace moral present neglect";

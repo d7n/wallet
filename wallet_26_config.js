@@ -1,1 +1,1 @@
-var mnemonic = "accuse avocado crisp suit sleep common feel patient age lift buddy hammer";
+var mnemonic = "curtain mirror damp kangaroo donkey happy benefit tone age fresh online own";

@@ -1,1 +1,1 @@
-var mnemonic = "broom know mechanic marble hope genius silly pond dwarf oil myself soccer";
+var mnemonic = "history pitch hill defense turkey castle mountain shell correct bitter popular large";

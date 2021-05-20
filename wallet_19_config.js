@@ -1,1 +1,1 @@
-var mnemonic = "super organ live glue fade distance tooth slender autumn slam forest arrive";
+var mnemonic = "cause combine fun lucky hen bike patch hawk mail devote fork walnut";

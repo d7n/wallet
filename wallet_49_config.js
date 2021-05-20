@@ -1,1 +1,1 @@
-var mnemonic = "guard advance juice orchard turkey usage corn already runway absorb route sweet";
+var mnemonic = "such above fresh birth rather lucky repeat confirm observe omit eagle thank";

@@ -1,1 +1,1 @@
-var mnemonic = "milk pyramid kingdom rally dizzy gun click just enter undo afraid phrase";
+var mnemonic = "gorilla interest decrease april diary into town future heavy such opinion super";

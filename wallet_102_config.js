@@ -1,1 +1,1 @@
-var mnemonic = "obey blanket dwarf toe bus loop regret exist dress nuclear size jealous";
+var mnemonic = "true hurry crash muffin cupboard hospital sick turkey cry home sniff visit";

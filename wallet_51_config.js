@@ -1,1 +1,1 @@
-var mnemonic = "elite finger trial fan caught control coil color tortoise december armor hurry";
+var mnemonic = "nut unit stereo ensure void fever science cheese magnet cattle drill ship";

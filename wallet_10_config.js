@@ -1,1 +1,1 @@
-var mnemonic = "wrestle bomb stove vehicle speak asset valid august amused galaxy luggage luggage";
+var mnemonic = "lazy shoulder giraffe goose armor exchange cousin rent furnace alarm nominee maze";

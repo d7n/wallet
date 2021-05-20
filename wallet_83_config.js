@@ -1,1 +1,1 @@
-var mnemonic = "task cross pet hole master public ready cargo cannon fetch similar acquire";
+var mnemonic = "unit trumpet traffic fuel choose garage narrow safe ring silly trick drill";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy barrel siren friend tackle oblige hurdle orbit zone owner alone staff";
+var mnemonic = "engine roast wink enhance air explain depend dash ostrich false potato soon";

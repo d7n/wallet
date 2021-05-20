@@ -1,1 +1,1 @@
-var mnemonic = "dad cry unfair appear skin pottery bid current case fun liberty absorb";
+var mnemonic = "heavy security dune rapid solution castle such supreme vessel cake east cook";

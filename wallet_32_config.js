@@ -1,1 +1,1 @@
-var mnemonic = "step hen hybrid ask banana example rude nuclear shed machine sketch boy";
+var mnemonic = "anger nuclear tiger kit rookie mask you soft summer wet grape awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "siren animal grain fork gorilla shock swap rebuild public field empower giggle";
+var mnemonic = "grow tribe comfort vivid gospel more enhance awful either coin spice text";

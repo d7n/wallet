@@ -1,1 +1,1 @@
-var mnemonic = "enforce doll measure fun menu theory riot list turn spread cotton february";
+var mnemonic = "easy clock police inject bunker comic bag brush tattoo solution often hero";

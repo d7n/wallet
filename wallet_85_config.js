@@ -1,1 +1,1 @@
-var mnemonic = "stomach behind flip radio pottery patch critic economy brand attitude about math";
+var mnemonic = "belt garbage dismiss stadium swallow grief humble tourist twist state music rigid";

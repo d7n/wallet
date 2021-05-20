@@ -1,1 +1,1 @@
-var mnemonic = "stock mind clean tennis foil wrist beauty clock sound vital busy gaze";
+var mnemonic = "mask all grunt poet cement know control unit carpet once visual salad";

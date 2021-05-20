@@ -1,1 +1,1 @@
-var mnemonic = "mixed world strong acoustic piano gold crawl biology into during evolve occur";
+var mnemonic = "cancel camp swing dose edge coin gallery stumble april include urge miss";

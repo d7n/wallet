@@ -1,1 +1,1 @@
-var mnemonic = "birth reunion improve eyebrow tray topple night farm hotel train pet jazz";
+var mnemonic = "ticket point claw van attitude hire what celery spatial army desk lumber";

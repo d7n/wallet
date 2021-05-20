@@ -1,1 +1,1 @@
-var mnemonic = "camp feature van medal cloud claim enforce before body design notice daughter";
+var mnemonic = "include group mail skin nasty repeat mixture urge quote subject deliver woman";

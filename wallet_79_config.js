@@ -1,1 +1,1 @@
-var mnemonic = "south action nest unhappy annual accuse swap student bench talk wonder width";
+var mnemonic = "share sustain dad lab electric fox man portion tomorrow casual payment rug";

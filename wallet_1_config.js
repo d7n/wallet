@@ -1,1 +1,1 @@
-var mnemonic = "grain glimpse clinic random pencil rice silver daughter such resist slim lobster";
+var mnemonic = "seek eternal velvet exhaust menu garment bullet half admit age window eyebrow";

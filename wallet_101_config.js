@@ -1,1 +1,1 @@
-var mnemonic = "tide wheat robot damage state injury science error inner swarm parrot basic";
+var mnemonic = "reward window smooth apart fame slender under mimic bulk retire stool hill";

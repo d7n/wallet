@@ -1,1 +1,1 @@
-var mnemonic = "myself follow clap legal multiply jeans wide fence slender frog catalog neutral";
+var mnemonic = "wire own obscure hawk season merry velvet ball want trigger strategy tiger";

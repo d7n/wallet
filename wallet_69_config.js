@@ -1,1 +1,1 @@
-var mnemonic = "comfort rebuild fire economy giraffe expect behind clutch depend order success rebel";
+var mnemonic = "exclude car found salmon exist scare success index grass repeat inform actor";

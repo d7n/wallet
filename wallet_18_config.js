@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit garage opera practice lyrics behind truth lesson giraffe exhibit gentle flavor";
+var mnemonic = "trumpet credit club dirt cradle plate retire dog often distance jazz uniform";

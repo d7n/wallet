@@ -1,1 +1,1 @@
-var mnemonic = "uphold width lecture man ripple group normal relief reason end sniff slab";
+var mnemonic = "toast wave arrow devote sun fruit estate oyster negative grace hazard palace";

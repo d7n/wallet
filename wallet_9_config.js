@@ -1,1 +1,1 @@
-var mnemonic = "vibrant misery argue hood other salad violin drop sponsor multiply find bargain";
+var mnemonic = "common column season sense crawl claim baby secret blossom pact resource clock";

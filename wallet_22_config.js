@@ -1,1 +1,1 @@
-var mnemonic = "month eternal code hip expose spell visit employ supply easy inject lens";
+var mnemonic = "dose museum very fantasy second endless much hurdle chef blanket wrong feed";

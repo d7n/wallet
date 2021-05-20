@@ -1,1 +1,1 @@
-var mnemonic = "eye donate skull annual rally beauty quantum spread clarify water puppy umbrella";
+var mnemonic = "rescue prefer jacket select scale hire high glue document video dry mosquito";

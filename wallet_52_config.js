@@ -1,1 +1,1 @@
-var mnemonic = "antenna scorpion wagon source nephew until donor pudding index inch coyote want";
+var mnemonic = "merry impose top will improve midnight dismiss farm give rib helmet busy";

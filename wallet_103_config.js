@@ -1,1 +1,1 @@
-var mnemonic = "trial wisdom fruit doll pull forum pulse unveil now damp shoe pupil";
+var mnemonic = "wreck all between regular color pole just demise industry utility invest lunch";

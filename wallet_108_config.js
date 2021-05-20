@@ -1,1 +1,1 @@
-var mnemonic = "deputy spirit gloom topple junior equal arch capable upgrade special hat cash";
+var mnemonic = "ethics vote cream bleak impact shrug history lend mimic run north tomato";

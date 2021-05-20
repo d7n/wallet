@@ -1,1 +1,1 @@
-var mnemonic = "camera apology relax affair loud toy attitude segment regular tackle cry stuff";
+var mnemonic = "broccoli reunion crane wise nominee useless cereal wide teach mango mandate monkey";

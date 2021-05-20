@@ -1,1 +1,1 @@
-var mnemonic = "chief circle blanket that response mean list uncle poverty uncle brain fault";
+var mnemonic = "hire borrow laugh scrub tray sort negative glide stamp insect ski earn";

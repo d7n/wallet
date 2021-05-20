@@ -1,1 +1,1 @@
-var mnemonic = "kite barrel glance evidence balance potato false provide wild glove mention plug";
+var mnemonic = "cabin deny outside record floor pear south couple stable invite naive oppose";

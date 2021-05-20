@@ -1,1 +1,1 @@
-var mnemonic = "install either fantasy oil juice aim output sell tool wheel soup chest";
+var mnemonic = "flock top into source planet setup almost wait snap rookie hamster range";

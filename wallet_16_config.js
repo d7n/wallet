@@ -1,1 +1,1 @@
-var mnemonic = "mind echo once detail neck job bird rural about figure clean tell";
+var mnemonic = "fat box crouch phone add owner wing hotel brave prosper sail lumber";

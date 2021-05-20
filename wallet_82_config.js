@@ -1,1 +1,1 @@
-var mnemonic = "apology hammer idea prevent mutual dinosaur argue hub digital tunnel edit asthma";
+var mnemonic = "ancient prison trash liquid dial you film inmate captain olympic color century";

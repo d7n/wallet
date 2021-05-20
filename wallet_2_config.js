@@ -1,1 +1,1 @@
-var mnemonic = "meat garage occur tomorrow hammer sphere sun six alley card sound come";
+var mnemonic = "melt tiny dose awake save wing remind over kick sunset book hub";

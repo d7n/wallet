@@ -1,1 +1,1 @@
-var mnemonic = "correct castle illegal once runway adjust devote traffic situate thunder bomb scorpion";
+var mnemonic = "monster people rigid ostrich title tank gather sort that face width broken";

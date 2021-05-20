@@ -1,1 +1,1 @@
-var mnemonic = "collect believe height lyrics universe cannon start powder verify cinnamon guitar laptop";
+var mnemonic = "imitate meadow submit recipe survey glass spend mom cream rigid later badge";
