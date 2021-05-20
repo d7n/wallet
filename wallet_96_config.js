@@ -1,1 +1,1 @@
-var mnemonic = "actor arctic draw page side reveal distance job please liquid zoo monitor";
+var mnemonic = "assist cook prepare found child diesel amazing era tree frequent cement ice";

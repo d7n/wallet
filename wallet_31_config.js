@@ -1,1 +1,1 @@
-var mnemonic = "verb doctor similar extra scene kitten join angle onion ceiling frame siege";
+var mnemonic = "result ginger trade say mouse acquire slide guess cloth rookie subway oxygen";

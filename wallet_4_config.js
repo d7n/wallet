@@ -1,1 +1,1 @@
-var mnemonic = "park repeat dish devote tide lumber else frog decrease arrest vast agree";
+var mnemonic = "donate enhance holiday jungle twice vacant over fly latin music olympic enable";

@@ -1,1 +1,1 @@
-var mnemonic = "village now lion pear media position laundry enforce current blade swing agent";
+var mnemonic = "meat hope people profit upset together bleak gate task inmate wave another";

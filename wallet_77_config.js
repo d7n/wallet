@@ -1,1 +1,1 @@
-var mnemonic = "pave budget wisdom element pact honey pilot image surge dentist film fitness";
+var mnemonic = "bamboo fun remember normal prepare eager snake skull fee rice open warrior";

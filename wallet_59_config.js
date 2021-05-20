@@ -1,1 +1,1 @@
-var mnemonic = "blouse sting find sauce law obey february stock grant ability tag laugh";
+var mnemonic = "vanish lazy same begin faint engine toe tent cute accident cat snack";

@@ -1,1 +1,1 @@
-var mnemonic = "flag myth iron unit scale purse hazard deposit opinion brain gesture ranch";
+var mnemonic = "acoustic half camp tumble forest smart round journey cook super keep decide";

@@ -1,1 +1,1 @@
-var mnemonic = "tool party when drama trick logic enforce ritual pretty over solid valid";
+var mnemonic = "stock differ slender lounge leaf debris feature helmet engage stomach evil indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "window loud one crazy same pizza mind chair glare yard drop human";
+var mnemonic = "palace chief risk hollow uphold staff pattern key catch foam afraid disagree";

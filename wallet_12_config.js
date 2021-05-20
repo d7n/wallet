@@ -1,1 +1,1 @@
-var mnemonic = "word lottery start dog display chat valid bag slide quantum brief scene";
+var mnemonic = "code zoo anger method bird pistol gadget maze again burst hub near";

@@ -1,1 +1,1 @@
-var mnemonic = "village sample another age receive diagram display arrow armed way weekend assault";
+var mnemonic = "focus meadow whip party pulse prosper promote state ecology sign page pull";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo emerge beef fold solar erase hobby armor subway much alone abstract";
+var mnemonic = "pudding loud click napkin engine swallow mass match model hover rhythm example";

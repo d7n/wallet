@@ -1,1 +1,1 @@
-var mnemonic = "mobile nuclear shrimp fiscal disorder chaos cinnamon fresh better traffic world execute";
+var mnemonic = "rubber october kingdom effort lemon month wait fragile tobacco critic quiz rally";

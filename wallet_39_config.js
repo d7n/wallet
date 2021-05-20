@@ -1,1 +1,1 @@
-var mnemonic = "annual spawn army ribbon cart cage brand between force volume lawn grunt";
+var mnemonic = "steak sort stage salad case alert figure save arrow lend claim never";

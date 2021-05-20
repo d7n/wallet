@@ -1,1 +1,1 @@
-var mnemonic = "ability large task hockey dumb year mom answer place ensure soda defy";
+var mnemonic = "father phone cable truth coyote mask excuse verb enact breeze brisk congress";

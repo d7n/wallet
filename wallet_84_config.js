@@ -1,1 +1,1 @@
-var mnemonic = "economy state collect lift job favorite journey system shell nephew buyer either";
+var mnemonic = "eight naive pig direct syrup scene assist hover pilot auction acoustic tool";

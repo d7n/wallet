@@ -1,1 +1,1 @@
-var mnemonic = "buddy raccoon menu wisdom parrot peanut when width glad express quick bitter";
+var mnemonic = "mystery scout month result report beach chapter elephant tortoise bonus number six";

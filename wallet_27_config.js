@@ -1,1 +1,1 @@
-var mnemonic = "excess success define talent topic badge curious night weasel acid sweet erode";
+var mnemonic = "strategy august talk traffic biology move charge spy orient elbow chief lucky";

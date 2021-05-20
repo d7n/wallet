@@ -1,1 +1,1 @@
-var mnemonic = "jaguar gift leg profit file senior naive acquire april forward sail orbit";
+var mnemonic = "crumble father tattoo invest render favorite nest lava entire timber history inner";

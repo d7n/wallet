@@ -1,1 +1,1 @@
-var mnemonic = "pattern spy flee whip brand pull avoid marble raven gap blade creek";
+var mnemonic = "gravity tattoo easily arctic reflect benefit cool pizza primary spirit bonus amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "lens unfold hurry into first detail used miracle route fabric panther dirt";
+var mnemonic = "atom print boost strategy feature author test olive vendor frequent spirit habit";

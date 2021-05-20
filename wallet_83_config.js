@@ -1,1 +1,1 @@
-var mnemonic = "tail health shallow debris culture please retreat embark garden simple social throw";
+var mnemonic = "jacket knife name make tomorrow balance very canyon payment jewel agent angry";

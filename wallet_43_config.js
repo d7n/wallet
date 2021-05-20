@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pipe person treat duck taxi phrase music ozone corn huge glance";
+var mnemonic = "enemy girl wolf man theory mountain volume door pudding raven patrol amused";

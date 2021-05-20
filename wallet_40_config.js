@@ -1,1 +1,1 @@
-var mnemonic = "script tube charge squeeze save wide scatter page grab iron lava renew";
+var mnemonic = "usage play erase agent blur urban vague reunion arrive faint major snow";

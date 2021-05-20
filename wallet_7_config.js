@@ -1,1 +1,1 @@
-var mnemonic = "cruise edge brush output vessel hotel artist often range door region fog";
+var mnemonic = "person horror lawsuit snap chimney shallow inch depth galaxy fox vague exclude";

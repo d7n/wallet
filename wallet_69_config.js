@@ -1,1 +1,1 @@
-var mnemonic = "pioneer forum pretty much combine budget female lesson book wife planet pipe";
+var mnemonic = "clutch jewel prosper hub enhance pride lawsuit child mouse mansion aspect good";

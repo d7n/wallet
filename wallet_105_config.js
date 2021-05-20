@@ -1,1 +1,1 @@
-var mnemonic = "spirit crystal supply window buyer verb stay uncover absent solve modify cereal";
+var mnemonic = "near tray spirit flash fire enrich stay audit echo fly turkey fiscal";

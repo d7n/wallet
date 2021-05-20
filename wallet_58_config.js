@@ -1,1 +1,1 @@
-var mnemonic = "parrot ocean gap device tornado catalog another piece soul sausage dynamic sister";
+var mnemonic = "huge cream casino park expire entry penalty viable mercy priority real someone";

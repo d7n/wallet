@@ -1,1 +1,1 @@
-var mnemonic = "swallow ahead kiwi stable diesel marble stomach proud situate cake pistol angry";
+var mnemonic = "frost benefit consider inquiry unknown below drama quiz frog problem sea wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy oval banana swallow glue sense rough obtain kitten about this knife";
+var mnemonic = "spin donkey net when tone coyote write van good asset discover credit";

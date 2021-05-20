@@ -1,1 +1,1 @@
-var mnemonic = "doctor tube degree half slender young mobile estate ice sketch illness mango";
+var mnemonic = "undo viable expose skill amazing security protect start hill ramp shiver salt";

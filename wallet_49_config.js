@@ -1,1 +1,1 @@
-var mnemonic = "jeans economy visit identify winner street hockey render inherit cage rail rack";
+var mnemonic = "cattle month push occur daughter recipe imitate mention aerobic unfair guard orphan";

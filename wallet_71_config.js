@@ -1,1 +1,1 @@
-var mnemonic = "radar spoil slam false stamp artist winter child industry elegant utility sleep";
+var mnemonic = "attitude plug track expire antenna must brain cable cradle blossom toy gravity";

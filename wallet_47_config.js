@@ -1,1 +1,1 @@
-var mnemonic = "jelly until crunch remind dry coral cook oxygen shift foam slogan guess";
+var mnemonic = "until unable symptom elevator planet runway defense food include waste local panda";

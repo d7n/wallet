@@ -1,1 +1,1 @@
-var mnemonic = "captain panic step grant like muscle black smoke timber feed roof large";
+var mnemonic = "town worth toilet surprise sword client lounge special course cereal car train";

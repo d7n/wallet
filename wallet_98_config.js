@@ -1,1 +1,1 @@
-var mnemonic = "sorry off theme whip catalog uphold problem dial bomb liberty supreme trip";
+var mnemonic = "mammal tape august lawn execute behind crater strategy clinic depart awesome fun";

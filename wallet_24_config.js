@@ -1,1 +1,1 @@
-var mnemonic = "crazy observe good speak west unable filter inspire problem train when mean";
+var mnemonic = "rib inmate object flat history diesel fitness marriage gift exact shiver above";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar glad sadness armor speed price east nerve dry robot canal earn";
+var mnemonic = "medal elevator ranch unable shift behind quality execute lobster knife table have";

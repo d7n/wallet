@@ -1,1 +1,1 @@
-var mnemonic = "dismiss exist artwork penalty around cheese month curious thank topic coconut fit";
+var mnemonic = "limb salmon identify juice struggle sugar mad innocent impose faint also security";

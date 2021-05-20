@@ -1,1 +1,1 @@
-var mnemonic = "canoe hen innocent index person grunt level box model edit slab flash";
+var mnemonic = "enable flight exist put mention peace solve top flock virus empty club";

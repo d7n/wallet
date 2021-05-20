@@ -1,1 +1,1 @@
-var mnemonic = "setup promote help shiver antenna metal saddle smile local try about hockey";
+var mnemonic = "burger claw glow enable resist shine absent work define tragic drastic reward";

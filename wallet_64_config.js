@@ -1,1 +1,1 @@
-var mnemonic = "game rival fit dice combine bundle reward fame forget miss hold opinion";
+var mnemonic = "cactus pet cricket wine bomb door meat stay lawsuit setup correct very";

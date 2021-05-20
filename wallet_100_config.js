@@ -1,1 +1,1 @@
-var mnemonic = "suffer alter dignity harsh fence worth stage link business mass left artefact";
+var mnemonic = "potato invite solid strategy offer eyebrow crisp close borrow enter rug finish";

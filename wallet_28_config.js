@@ -1,1 +1,1 @@
-var mnemonic = "tobacco axis fringe quick disorder tree carry indicate race account note picture";
+var mnemonic = "saddle welcome echo sting shoulder daughter capital aspect rely wealth husband stock";

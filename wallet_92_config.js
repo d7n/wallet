@@ -1,1 +1,1 @@
-var mnemonic = "palace any promote kitchen arrest easy garage enable broken hen pipe stomach";
+var mnemonic = "sponsor alcohol reduce purchase soldier holiday alley long regret bulb affair square";

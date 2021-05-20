@@ -1,1 +1,1 @@
-var mnemonic = "garden manage allow silver bag faith toddler opera regret orchard youth cover";
+var mnemonic = "grow win output one shoot egg member dune climb morning snow soup";

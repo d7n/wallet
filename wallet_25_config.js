@@ -1,1 +1,1 @@
-var mnemonic = "mosquito blanket math earn east knock unveil crawl toy sound donor cushion";
+var mnemonic = "motor laugh cream merge hair mother raise art toilet blood sibling loyal";

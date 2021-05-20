@@ -1,1 +1,1 @@
-var mnemonic = "chunk ancient luggage fetch law october shift lake oil jar boat shaft";
+var mnemonic = "act horror liberty final code pen portion trash eternal reason tackle plate";

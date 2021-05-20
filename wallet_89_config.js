@@ -1,1 +1,1 @@
-var mnemonic = "credit force reward garment vacant surge retreat forward garbage gorilla coffee ceiling";
+var mnemonic = "cloth near sadness hold affair length energy alcohol case stay annual grit";

@@ -1,1 +1,1 @@
-var mnemonic = "blade squirrel visit burden primary lunar intact labor empower problem elbow analyst";
+var mnemonic = "young lunch next alone cake mask paper steak tooth obscure flush merit";

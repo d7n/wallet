@@ -1,1 +1,1 @@
-var mnemonic = "income muffin budget chaos snake edge question fever melody endless nothing juice";
+var mnemonic = "horror slot horn rug galaxy alter strike juice cash side pact debris";

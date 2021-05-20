@@ -1,1 +1,1 @@
-var mnemonic = "census alarm carbon rigid hint sword hair below castle warrior satoshi fan";
+var mnemonic = "furnace avocado health train problem entry finger flame unit sea end use";

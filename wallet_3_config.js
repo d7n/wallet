@@ -1,1 +1,1 @@
-var mnemonic = "blame void normal vital march marine asthma seed govern treat educate initial";
+var mnemonic = "above pyramid anchor hybrid math person seminar voyage truth parent useful element";

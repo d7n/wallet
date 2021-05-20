@@ -1,1 +1,1 @@
-var mnemonic = "media whale pride draw when end pilot ridge have usage salute index";
+var mnemonic = "acquire slot erase sight seat motion because will deny among leaf mule";

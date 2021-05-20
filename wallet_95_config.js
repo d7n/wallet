@@ -1,1 +1,1 @@
-var mnemonic = "buyer armed avocado catch long sponsor pumpkin pudding plug naive scale alert";
+var mnemonic = "business dial taste appear mango design one early mirror prison mention absent";

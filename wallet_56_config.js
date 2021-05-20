@@ -1,1 +1,1 @@
-var mnemonic = "seat place excuse kangaroo penalty soup flat giggle clarify leopard plastic property";
+var mnemonic = "skirt evil pull attend noble insane alley dune whisper crash emotion bus";

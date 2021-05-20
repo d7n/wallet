@@ -1,1 +1,1 @@
-var mnemonic = "fun broken only girl effort oil gas machine where devote hood post";
+var mnemonic = "floor matter typical vibrant session frost vanish observe grace supply violin glass";

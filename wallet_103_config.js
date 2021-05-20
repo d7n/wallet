@@ -1,1 +1,1 @@
-var mnemonic = "salute casual tenant beef radar world sad blue bag bracket sauce prison";
+var mnemonic = "silver record sign pretty special insane diagram warrior alien rescue sort wonder";

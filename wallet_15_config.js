@@ -1,1 +1,1 @@
-var mnemonic = "jeans spike lift balcony certain tool cinnamon horn dice host wink insect";
+var mnemonic = "flag sugar teach empower kiwi bomb assist mountain magnet apple bread unaware";

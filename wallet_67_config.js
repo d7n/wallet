@@ -1,1 +1,1 @@
-var mnemonic = "sight pledge tortoise demise spell vague float hen giraffe simple involve reunion";
+var mnemonic = "eight wagon leisure gloom want scare swift about man rely chase fetch";

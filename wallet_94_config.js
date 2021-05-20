@@ -1,1 +1,1 @@
-var mnemonic = "clay forget garage huge betray orchard invest slice giggle reopen husband camera";
+var mnemonic = "mirror enter job debris million season flight police sister job diary wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet rice album october inherit boring team minute eagle fiber patrol access";
+var mnemonic = "thrive cabin flame job general area tiny occur badge gap onion tobacco";

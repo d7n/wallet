@@ -1,1 +1,1 @@
-var mnemonic = "benefit business ozone broccoli slender photo fix faint sample seed satoshi emerge";
+var mnemonic = "voyage agree umbrella make sauce lava gym divert process surround soldier bargain";

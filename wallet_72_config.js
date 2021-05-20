@@ -1,1 +1,1 @@
-var mnemonic = "destroy sniff orange maple already bleak brain success frost flat prepare term";
+var mnemonic = "brown avoid insane post muffin organ infant uncle input primary laundry noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "owner soul surge idea put wrist net spike replace elder palace oyster";
+var mnemonic = "process office lens roast mystery hand wine daring click vicious analyst swallow";

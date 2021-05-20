@@ -1,1 +1,1 @@
-var mnemonic = "someone west ten sentence tape oppose base coach traffic deposit dutch surround";
+var mnemonic = "damage certain exit width snack gloom gauge wet region cabbage autumn misery";

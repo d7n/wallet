@@ -1,1 +1,1 @@
-var mnemonic = "object people finish palm degree lizard music sound faith inmate enemy slot";
+var mnemonic = "state shop job zoo runway object virus flock bread onion husband rare";

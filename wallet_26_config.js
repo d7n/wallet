@@ -1,1 +1,1 @@
-var mnemonic = "era coyote almost session coin ritual install essence result syrup horse mammal";
+var mnemonic = "divert enforce brain rapid toddler fuel direct yellow bomb review genuine pause";

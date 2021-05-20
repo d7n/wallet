@@ -1,1 +1,1 @@
-var mnemonic = "desk finish giant safe enough review recall kind service fox pen image";
+var mnemonic = "pet sweet animal spirit price horror under town junior achieve dress drop";

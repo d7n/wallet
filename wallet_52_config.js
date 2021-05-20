@@ -1,1 +1,1 @@
-var mnemonic = "come dragon broom armed boil crumble camera vault craft quiz tell develop";
+var mnemonic = "curious west viable leg fee name tide river nephew guess relax clump";

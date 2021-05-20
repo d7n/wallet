@@ -1,1 +1,1 @@
-var mnemonic = "alert wreck urban idle spirit stone economy limb learn couch twin vocal";
+var mnemonic = "stereo social cricket flee pilot speed owner little join lumber used person";

@@ -1,1 +1,1 @@
-var mnemonic = "width exhibit much faculty prefer pitch spell main equal cart enroll zoo";
+var mnemonic = "swarm logic case crater jazz butter slam friend deer suffer endless dentist";

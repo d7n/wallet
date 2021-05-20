@@ -1,1 +1,1 @@
-var mnemonic = "inquiry canoe blind brick arrive diagram tail author invite gesture quote sniff";
+var mnemonic = "report mask index decrease wasp mixed bomb flight parrot zero claim street";

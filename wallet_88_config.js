@@ -1,1 +1,1 @@
-var mnemonic = "beef craft salute decline much crucial biology better genre expect poet faith";
+var mnemonic = "ordinary educate escape cargo furnace proud cargo crucial please reopen digital modify";

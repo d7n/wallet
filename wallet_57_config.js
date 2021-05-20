@@ -1,1 +1,1 @@
-var mnemonic = "force melt mean canyon gallery load siren dial blood slot call taxi";
+var mnemonic = "eyebrow hotel process fashion artist lava pond december hockey crumble catalog damage";

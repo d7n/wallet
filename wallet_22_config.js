@@ -1,1 +1,1 @@
-var mnemonic = "garbage divorce minor million address attract wage shift shoe fiber salt keep";
+var mnemonic = "dad actress brother hundred pyramid trigger urban tell ritual yellow delay forget";

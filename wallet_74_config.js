@@ -1,1 +1,1 @@
-var mnemonic = "blind corn devote exhibit cargo ghost twice lab judge correct crucial remind";
+var mnemonic = "elbow cross debate bag tiger help october eyebrow cake sausage dragon sunny";

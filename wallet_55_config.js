@@ -1,1 +1,1 @@
-var mnemonic = "pudding dilemma clap unveil stuff use upgrade reduce pill wife angle youth";
+var mnemonic = "reunion fetch benefit glass float nephew forest distance ability current genre post";

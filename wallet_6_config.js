@@ -1,1 +1,1 @@
-var mnemonic = "today essay share circle erosion steak kitchen manage erupt soft skin advance";
+var mnemonic = "violin bike syrup brass gravity sleep force easy alter medal coil slogan";

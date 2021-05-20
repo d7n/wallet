@@ -1,1 +1,1 @@
-var mnemonic = "fossil income valve club volcano shadow copy end subway exchange rude gas";
+var mnemonic = "profit aunt strong attack faith motion foot mosquito bless trick sadness plug";

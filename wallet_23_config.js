@@ -1,1 +1,1 @@
-var mnemonic = "quiz cloud endorse century remain borrow rebuild antenna there latin turn diet";
+var mnemonic = "milk clever there fold comic define neglect advice abandon erupt swamp round";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb trouble goat silk perfect hub border pony entire skirt misery fall";
+var mnemonic = "remember crush brush grunt maid essay remember question tool become blush legend";

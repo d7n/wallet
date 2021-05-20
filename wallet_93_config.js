@@ -1,1 +1,1 @@
-var mnemonic = "ocean egg rude weird target egg talent artist bridge enemy bus inhale";
+var mnemonic = "often favorite baby rail great jeans task defense alcohol entry myself creek";

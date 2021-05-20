@@ -1,1 +1,1 @@
-var mnemonic = "habit great own copy hill equal essay cover angle limb alien hole";
+var mnemonic = "sock remain any mail fish bullet song imitate company drift manage fresh";

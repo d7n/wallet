@@ -1,1 +1,1 @@
-var mnemonic = "gap exhaust frog embark topple inmate kid trash believe pizza flush gauge";
+var mnemonic = "multiply embrace display lens charge powder drum unit elite eight gentle few";

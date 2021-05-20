@@ -1,1 +1,1 @@
-var mnemonic = "float grace venue rotate walk steak survey rebuild blanket sponsor later true";
+var mnemonic = "multiply reason hotel gym turkey hover brisk paper inhale broccoli correct spring";

@@ -1,1 +1,1 @@
-var mnemonic = "neither balance inhale robust shrug sponsor gain fence exact poem follow inflict";
+var mnemonic = "barrel slab ribbon riot sustain vibrant aerobic control repeat match scene maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle fruit surge valve uniform illness run kangaroo parent lift problem rapid";
+var mnemonic = "loop swim cake foot detect real example neck bunker pipe victory permit";

@@ -1,1 +1,1 @@
-var mnemonic = "inject amount motion force legal prefer trial dignity exact range dog wealth";
+var mnemonic = "ankle bridge injury pill rabbit bubble crouch valley scissors perfect cupboard execute";

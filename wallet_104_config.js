@@ -1,1 +1,1 @@
-var mnemonic = "burst honey kangaroo boil picnic pet primary urge fire split turtle cluster";
+var mnemonic = "live spoon fatigue coffee mercy fresh focus knee move apology mix there";

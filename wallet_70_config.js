@@ -1,1 +1,1 @@
-var mnemonic = "wood gain exercise fatigue party climb chimney quality capital toddler hunt adult";
+var mnemonic = "frozen fly same habit attract present share average hospital breeze lazy acid";

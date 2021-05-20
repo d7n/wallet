@@ -1,1 +1,1 @@
-var mnemonic = "destroy east fringe subway light pause another exile junk basic lab junior";
+var mnemonic = "rebel wine pottery cruise exhaust velvet palace food sick cream machine bounce";

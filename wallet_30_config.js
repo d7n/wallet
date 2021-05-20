@@ -1,1 +1,1 @@
-var mnemonic = "nasty vital pony knee paper disorder note mother cattle cruel mass lens";
+var mnemonic = "spring permit access wool question skull sniff angle west other make fix";

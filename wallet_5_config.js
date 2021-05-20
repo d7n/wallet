@@ -1,1 +1,1 @@
-var mnemonic = "famous fantasy aim narrow width diagram cherry limit hotel equip code know";
+var mnemonic = "ride anchor dad pet solar stay earn spatial usage general snack exchange";

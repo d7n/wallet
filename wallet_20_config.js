@@ -1,1 +1,1 @@
-var mnemonic = "forest earn pact thunder celery young limit point proud menu kick keep";
+var mnemonic = "under diagram latin little hunt exact gossip maid lake left sausage mixture";
