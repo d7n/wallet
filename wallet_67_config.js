@@ -1,1 +1,1 @@
-var mnemonic = "display about region quality patch spice slice dog choice angle anchor dirt";
+var mnemonic = "race weasel royal nut seed celery raccoon large rabbit indoor taste winner";

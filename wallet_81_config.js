@@ -1,1 +1,1 @@
-var mnemonic = "success sad purity spatial goat six project shallow wise nice auction sunset";
+var mnemonic = "ride curve dinner agent type cream dog provide develop wasp lunch evolve";

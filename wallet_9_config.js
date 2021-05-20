@@ -1,1 +1,1 @@
-var mnemonic = "rely where world couch table page vendor faculty coast museum drop ranch";
+var mnemonic = "exotic frog mechanic word cover truly dawn always list toward regular aerobic";

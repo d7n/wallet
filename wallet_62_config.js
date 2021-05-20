@@ -1,1 +1,1 @@
-var mnemonic = "moral fiction bunker skate spring satoshi word logic hospital first stay start";
+var mnemonic = "huge wife phrase ill person fatal cream cup humor permit diesel route";

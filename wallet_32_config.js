@@ -1,1 +1,1 @@
-var mnemonic = "festival owner panther hold never busy unaware enhance move coin pipe walk";
+var mnemonic = "bright decline physical bird weekend phrase caught now ecology lucky lunch ten";

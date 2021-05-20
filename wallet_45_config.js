@@ -1,1 +1,1 @@
-var mnemonic = "wreck palm coral improve domain love vocal robust donkey aerobic universe bullet";
+var mnemonic = "race size candy hair begin vacant bachelor unknown pumpkin open wedding solar";

@@ -1,1 +1,1 @@
-var mnemonic = "maple punch radio enable invest giraffe retire master learn twenty leisure sign";
+var mnemonic = "dune daring regret coach nasty hire time isolate armed jeans lyrics vault";

@@ -1,1 +1,1 @@
-var mnemonic = "toe witness ancient cricket smart salute tribe leaf cotton jeans afraid trigger";
+var mnemonic = "amateur multiply cool pistol grant erode emotion scheme diet trim pumpkin fox";

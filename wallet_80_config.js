@@ -1,1 +1,1 @@
-var mnemonic = "december garment salon forward shop tide sea invite mandate learn east noise";
+var mnemonic = "organ detail version poet again donor lumber tip minor choice burden express";

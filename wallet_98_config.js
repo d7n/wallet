@@ -1,1 +1,1 @@
-var mnemonic = "announce hazard arch deliver cat admit menu spread infant waste remove arrow";
+var mnemonic = "symbol suggest hood panther vivid spider muscle time finger machine pulp drift";

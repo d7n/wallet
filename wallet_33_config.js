@@ -1,1 +1,1 @@
-var mnemonic = "glimpse stamp lion chef misery car position fat dress kiwi nephew milk";
+var mnemonic = "marriage cloth bench kick shop lounge carbon mail still craft bamboo valley";

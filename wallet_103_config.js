@@ -1,1 +1,1 @@
-var mnemonic = "rocket pink dune cheap amused organ various reunion ivory salute slight age";
+var mnemonic = "vocal flush genre napkin daring bless erosion tooth regular pepper copy swim";

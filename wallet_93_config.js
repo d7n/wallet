@@ -1,1 +1,1 @@
-var mnemonic = "ivory what jump ecology ride pass crumble pledge until van can cushion";
+var mnemonic = "above sure aware share ethics giggle amazing desert car magic board begin";

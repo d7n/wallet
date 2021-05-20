@@ -1,1 +1,1 @@
-var mnemonic = "borrow notable play organ arrest width whale impose liberty cute female lumber";
+var mnemonic = "broom apology close cloth news crop cash village oil energy eager reform";

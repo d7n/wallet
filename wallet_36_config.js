@@ -1,1 +1,1 @@
-var mnemonic = "edge sure arch empower push help column engine crop first actor expand";
+var mnemonic = "any prepare fringe help tumble online dress castle maple addict huge similar";

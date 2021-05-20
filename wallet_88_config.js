@@ -1,1 +1,1 @@
-var mnemonic = "interest utility whale address message cannon viable wine olive scene drop reform";
+var mnemonic = "avoid yellow uphold smooth noise quality staff fragile nuclear apple journey onion";

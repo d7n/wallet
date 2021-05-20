@@ -1,1 +1,1 @@
-var mnemonic = "under boost clock hover sheriff neutral skull jump asthma shoulder trend brass";
+var mnemonic = "outside leader slam file record quality excuse filter behave junior umbrella budget";

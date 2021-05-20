@@ -1,1 +1,1 @@
-var mnemonic = "bounce around settle total buyer trend antique bone estate aerobic load deny";
+var mnemonic = "day card spin comfort fine hill view job shrimp organ awful broken";

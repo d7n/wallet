@@ -1,1 +1,1 @@
-var mnemonic = "brush agent nominee pony correct save focus canal search square clump warrior";
+var mnemonic = "easy finish garden dry truly employ whip suspect effort wagon venue tenant";

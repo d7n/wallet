@@ -1,1 +1,1 @@
-var mnemonic = "plate nose one panic tell vanish curve common balcony toilet brisk side";
+var mnemonic = "desk toward bronze setup cruise trumpet sell twist endless rather toast hedgehog";

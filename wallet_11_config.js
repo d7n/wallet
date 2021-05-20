@@ -1,1 +1,1 @@
-var mnemonic = "mercy desk wood hurt detail ostrich indoor sheriff struggle cruise taste inherit";
+var mnemonic = "time luggage young hurdle dentist legal cupboard glass core duty story song";

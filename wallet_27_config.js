@@ -1,1 +1,1 @@
-var mnemonic = "come raven vintage arm green vital glass huge eight tip clog ability";
+var mnemonic = "accident elbow return above armed vast script vehicle because civil pudding neither";

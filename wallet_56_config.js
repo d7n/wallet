@@ -1,1 +1,1 @@
-var mnemonic = "book drill tomato shoe horse lock spoon student neither coach cement eagle";
+var mnemonic = "busy hello material fresh canvas image behind during solar liar furnace skill";

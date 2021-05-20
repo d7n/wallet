@@ -1,1 +1,1 @@
-var mnemonic = "piece decide river cart cluster bind fatal wrap expose churn beef web";
+var mnemonic = "coffee pupil knife chase forward million anchor ticket evolve zero almost faculty";

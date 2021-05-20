@@ -1,1 +1,1 @@
-var mnemonic = "affair idle display diesel gather wisdom raise blanket regret wasp drive lens";
+var mnemonic = "tumble public journey tail talk foster prison year swallow impact clap tornado";

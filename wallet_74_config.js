@@ -1,1 +1,1 @@
-var mnemonic = "cradle stick flock antique tank knife salute galaxy raise predict unlock damage";
+var mnemonic = "stay pottery joke wash fiction rubber tortoise caught supreme bright core total";

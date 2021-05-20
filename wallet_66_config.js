@@ -1,1 +1,1 @@
-var mnemonic = "rifle palm elder thrive garbage element height plug size scorpion champion tray";
+var mnemonic = "priority goose shaft daring grief sorry farm fiction nose anxiety figure bean";

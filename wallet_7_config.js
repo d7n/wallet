@@ -1,1 +1,1 @@
-var mnemonic = "hair critic empower unable text cattle attract gallery owner flash frequent zone";
+var mnemonic = "youth album slush swallow license enjoy middle develop reason clerk job turn";

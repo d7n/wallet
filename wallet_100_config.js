@@ -1,1 +1,1 @@
-var mnemonic = "outside hazard column smoke prefer leopard used brass link prepare wish moon";
+var mnemonic = "occur lock dizzy bid faint cotton table voice rule service hungry glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "banner huge buzz normal six acquire afraid buffalo shed unusual promote elite";
+var mnemonic = "proof candy bread nose drama spot size dish unit risk various core";

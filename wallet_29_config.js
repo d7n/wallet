@@ -1,1 +1,1 @@
-var mnemonic = "sustain wait enrich truck coyote pony gallery fold model state city ensure";
+var mnemonic = "curve fun airport vibrant resist nasty wage boring decorate nut convince fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "burger token vacuum earn pulse cotton impulse wolf confirm bridge boil wrong";
+var mnemonic = "execute voyage fever uniform early kitchen swap input mechanic jar advice borrow";

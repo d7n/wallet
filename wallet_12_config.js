@@ -1,1 +1,1 @@
-var mnemonic = "stand aim since salt gun bounce deny cancel thank sugar belt boost";
+var mnemonic = "post exotic tilt voice current solar lottery theme whip artwork raccoon rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "heart satoshi timber gun math uniform gate team delay cargo flavor seed";
+var mnemonic = "rice feel twenty system twenty pottery certain health reject already goose roof";

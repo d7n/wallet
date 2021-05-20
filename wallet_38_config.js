@@ -1,1 +1,1 @@
-var mnemonic = "hip parade angry tip jeans key river sustain inch fatigue blast knee";
+var mnemonic = "fun donor bachelor victory page govern run debate blast thought vendor language";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha work output cruel electric trend edge gentle parent draw wave copy";
+var mnemonic = "broken jeans beef truly axis frozen gloom exist oven mandate bridge fish";

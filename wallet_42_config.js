@@ -1,1 +1,1 @@
-var mnemonic = "dragon claw like report mammal donor begin wrong december impact remember energy";
+var mnemonic = "toss strong now test liar convince seat safe object cart spoil quality";

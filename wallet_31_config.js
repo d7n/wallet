@@ -1,1 +1,1 @@
-var mnemonic = "salad mass section hen call turtle feel moral result lawsuit galaxy payment";
+var mnemonic = "inject evoke resist hybrid onion wrist expand size follow claim pottery egg";

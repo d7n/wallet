@@ -1,1 +1,1 @@
-var mnemonic = "gym post seed liberty increase entire maximum prefer keep drift able obey";
+var mnemonic = "pony ranch private good youth refuse slight example width spin vapor pumpkin";

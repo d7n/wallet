@@ -1,1 +1,1 @@
-var mnemonic = "apart square remind panda convince response mass melody knock helmet better siren";
+var mnemonic = "glory rival exact pioneer argue hurdle laugh private wolf embody sell reopen";

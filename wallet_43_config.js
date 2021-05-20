@@ -1,1 +1,1 @@
-var mnemonic = "daughter festival embrace circle nerve business valid ocean ozone negative garlic tortoise";
+var mnemonic = "issue east mom blood enhance puppy silver drink grid wet sell crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk way mechanic brisk siege region funny burst drip gentle arrest media";
+var mnemonic = "patrol member brother market august electric minor term empty travel rural hen";

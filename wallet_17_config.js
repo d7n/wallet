@@ -1,1 +1,1 @@
-var mnemonic = "scatter zebra doctor tourist update skirt sing ladder bottom volcano endless alien";
+var mnemonic = "shop curious cake settle silly rib unfold pencil protect salute oyster small";

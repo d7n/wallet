@@ -1,1 +1,1 @@
-var mnemonic = "light pole estate kingdom milk enrich language tag dentist mistake mule total";
+var mnemonic = "borrow lava nephew barrel stereo engine grief current witness ship debate limit";

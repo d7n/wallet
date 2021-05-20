@@ -1,1 +1,1 @@
-var mnemonic = "census borrow rail divide have ability rather bronze dog bottom stumble dish";
+var mnemonic = "wonder myth spy gown reward order coil sting shove inject green lift";

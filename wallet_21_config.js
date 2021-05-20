@@ -1,1 +1,1 @@
-var mnemonic = "flat trust guitar ordinary sponsor fancy become injury sock wolf floor sentence";
+var mnemonic = "weather prison lab category hand phrase ability expire donate raw teach circle";

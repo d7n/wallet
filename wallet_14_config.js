@@ -1,1 +1,1 @@
-var mnemonic = "broken amateur night gift melt burst suffer nominee dolphin vacuum engine there";
+var mnemonic = "patrol subject scheme museum first offer pitch dog predict sleep evolve ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "auto shadow tennis open student snow figure desk soldier jungle banana this";
+var mnemonic = "dwarf pepper high pink year thank remind name vast pottery size mesh";

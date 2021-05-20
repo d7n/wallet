@@ -1,1 +1,1 @@
-var mnemonic = "viable earn vibrant scatter receive utility total adjust medal sort legal good";
+var mnemonic = "green again wedding solar type way now avocado merit engine fresh machine";

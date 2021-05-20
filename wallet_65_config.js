@@ -1,1 +1,1 @@
-var mnemonic = "face allow payment learn maple true range code rabbit rotate release sure";
+var mnemonic = "bone master salad fault detect abuse bracket receive sheriff borrow cover green";

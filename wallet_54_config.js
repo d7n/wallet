@@ -1,1 +1,1 @@
-var mnemonic = "stock boil mountain farm then base seed essence pole trim vast mountain";
+var mnemonic = "soul similar badge elephant proud sword fence relief round custom pull observe";

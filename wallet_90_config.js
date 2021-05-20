@@ -1,1 +1,1 @@
-var mnemonic = "surge forget danger involve advice mutual profit potato receive behind journey diet";
+var mnemonic = "country smart choose target gym control body until kangaroo crumble wealth hundred";

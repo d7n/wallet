@@ -1,1 +1,1 @@
-var mnemonic = "acquire early top success sure goat video sunny cloth rubber arch screen";
+var mnemonic = "acoustic emerge author fiber protect surprise manage normal custom upset tattoo rose";

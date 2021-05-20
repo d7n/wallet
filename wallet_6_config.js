@@ -1,1 +1,1 @@
-var mnemonic = "elegant excess insect spend uphold shift flower oxygen dismiss eye leopard donate";
+var mnemonic = "rack guard cycle lounge village version matrix proud artwork casino garment celery";

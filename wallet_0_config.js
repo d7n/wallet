@@ -1,1 +1,1 @@
-var mnemonic = "retreat cloud orbit knee belt spend hollow defy test bamboo hollow torch";
+var mnemonic = "group story rabbit century aim spray sing uniform spot nation mass panda";

@@ -1,1 +1,1 @@
-var mnemonic = "also order lawn regular symptom slide alone always ivory pool unaware young";
+var mnemonic = "act river hour brave wedding until prepare device target adjust that rule";

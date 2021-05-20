@@ -1,1 +1,1 @@
-var mnemonic = "divide gather alien change wave found surface treat ignore deliver noise buddy";
+var mnemonic = "wonder casual abuse fiction mango neither alert harsh hospital film anxiety neck";

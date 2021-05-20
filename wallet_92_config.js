@@ -1,1 +1,1 @@
-var mnemonic = "gesture radar fashion because burger cost basic tomato cage float defense box";
+var mnemonic = "frozen tragic more produce trust position maple burst position dry arrow rack";

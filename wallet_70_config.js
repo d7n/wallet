@@ -1,1 +1,1 @@
-var mnemonic = "viable occur spawn social antenna side neutral egg seven chaos cabbage apple";
+var mnemonic = "custom glove input solution travel soon photo position immense switch tired milk";

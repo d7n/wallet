@@ -1,1 +1,1 @@
-var mnemonic = "purity call meadow gym material foster curve tortoise mosquito crawl guide praise";
+var mnemonic = "agent upset chimney weasel exotic dirt tank engage upper renew shrug shoot";

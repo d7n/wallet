@@ -1,1 +1,1 @@
-var mnemonic = "paddle legend ladder asthma jealous possible outside own aspect wealth concert turn";
+var mnemonic = "usage human online limb inhale impact swarm jealous use strong grant milk";

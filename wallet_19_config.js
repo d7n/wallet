@@ -1,1 +1,1 @@
-var mnemonic = "field debate fork cave ghost enroll confirm embrace invest pitch doll century";
+var mnemonic = "carbon belt night mercy tomorrow cigar circle extend nephew tray curve flush";

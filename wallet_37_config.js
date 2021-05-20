@@ -1,1 +1,1 @@
-var mnemonic = "surge salt letter purity picnic glass depend dinosaur patient uncle two upper";
+var mnemonic = "venture frown expire ladder group anchor fresh churn divorce say civil gift";

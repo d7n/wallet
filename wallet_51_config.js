@@ -1,1 +1,1 @@
-var mnemonic = "submit defense route spray about window script accuse train dolphin clip harbor";
+var mnemonic = "lumber industry stable mean fire busy save toe royal okay split glow";

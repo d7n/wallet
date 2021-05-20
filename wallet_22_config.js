@@ -1,1 +1,1 @@
-var mnemonic = "drive goose horse relax amount frequent mesh blouse inhale route hand replace";
+var mnemonic = "garment nurse fee circle unhappy smooth pink frog naive egg fortune manage";

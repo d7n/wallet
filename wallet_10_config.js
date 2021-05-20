@@ -1,1 +1,1 @@
-var mnemonic = "puzzle reveal genre two business old summer brass transfer give under other";
+var mnemonic = "ceiling daughter such usual indoor draft library dry adjust tone casual feel";

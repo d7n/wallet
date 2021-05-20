@@ -1,1 +1,1 @@
-var mnemonic = "ball hold friend wave congress wasp neck twice fuel best unhappy nerve";
+var mnemonic = "taxi face radio engage seed fiscal vibrant luxury risk neutral basic future";

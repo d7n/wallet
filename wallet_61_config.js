@@ -1,1 +1,1 @@
-var mnemonic = "cargo crop mix endorse snap nation arch various narrow traffic indicate pioneer";
+var mnemonic = "they frame innocent motor myth dad section two wave bike dynamic culture";

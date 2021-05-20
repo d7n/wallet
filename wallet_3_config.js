@@ -1,1 +1,1 @@
-var mnemonic = "scare anxiety grain paper deny cage matter group slim budget wise cushion";
+var mnemonic = "excess hip attract one moral stamp avocado cement reflect short buddy mail";

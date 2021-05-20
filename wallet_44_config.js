@@ -1,1 +1,1 @@
-var mnemonic = "core upgrade heart series hockey sister fix fringe divide violin panther solid";
+var mnemonic = "pluck fish throw upper evil immune gun sugar busy borrow enrich real";

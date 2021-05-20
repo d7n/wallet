@@ -1,1 +1,1 @@
-var mnemonic = "elite punch topic symptom lamp rule apple quote cancel club crouch original";
+var mnemonic = "swamp pledge awful capital school decorate mystery behave intact north transfer pelican";

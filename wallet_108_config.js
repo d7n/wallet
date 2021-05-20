@@ -1,1 +1,1 @@
-var mnemonic = "call mixed one slice hire brisk derive job recipe pencil spoil eye";
+var mnemonic = "you salt muffin buddy neck celery winter random true credit panic domain";

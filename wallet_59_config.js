@@ -1,1 +1,1 @@
-var mnemonic = "then noise trend stay fitness replace cushion enough oxygen spread long truck";
+var mnemonic = "glimpse hunt bounce topple garment glue bonus author become clap upset keep";

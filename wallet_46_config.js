@@ -1,1 +1,1 @@
-var mnemonic = "pass claim route prefer mystery alarm can pink damp relax hard video";
+var mnemonic = "answer knock day page illegal ahead glimpse bamboo dish zoo carpet gauge";

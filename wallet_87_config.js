@@ -1,1 +1,1 @@
-var mnemonic = "left pause ticket easy secret helmet explain ritual quarter mammal feed multiply";
+var mnemonic = "speed pulse point entire use blush flame peasant enable tomato bunker time";

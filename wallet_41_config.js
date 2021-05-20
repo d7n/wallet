@@ -1,1 +1,1 @@
-var mnemonic = "powder catalog cave fruit sea open digital volume trust daughter orbit reunion";
+var mnemonic = "market industry multiply awake sibling swap sunset deliver spin siege already envelope";

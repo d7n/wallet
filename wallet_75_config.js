@@ -1,1 +1,1 @@
-var mnemonic = "profit balcony guilt bounce melt impulse picnic document save derive stable ostrich";
+var mnemonic = "gun simple such obscure tattoo idea page sad husband describe south hollow";

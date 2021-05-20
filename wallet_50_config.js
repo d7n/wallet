@@ -1,1 +1,1 @@
-var mnemonic = "manage put survey actress march faculty twenty head enemy lemon search fall";
+var mnemonic = "wisdom pledge segment struggle useful tiny cash fit motor velvet isolate tool";

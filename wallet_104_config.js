@@ -1,1 +1,1 @@
-var mnemonic = "actor pony bind mandate plug smooth say view ranch ankle push drill";
+var mnemonic = "turkey mad expire swim ability rookie devote reform attitude chat shed push";

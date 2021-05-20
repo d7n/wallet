@@ -1,1 +1,1 @@
-var mnemonic = "admit certain salmon sell spot report glance sort unlock winter junior question";
+var mnemonic = "borrow turtle naive kiss unusual elite vault junior video input poet program";

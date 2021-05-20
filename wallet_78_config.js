@@ -1,1 +1,1 @@
-var mnemonic = "unaware artist faith diesel frost family donor noise bone can series noise";
+var mnemonic = "slow stuff range net capable lens rail recycle sport negative session advance";

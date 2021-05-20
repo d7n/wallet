@@ -1,1 +1,1 @@
-var mnemonic = "enroll orange verb float street member member scissors taxi apology repair tomorrow";
+var mnemonic = "trumpet chimney message oil identify service seed force unit bachelor water cigar";

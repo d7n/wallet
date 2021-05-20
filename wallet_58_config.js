@@ -1,1 +1,1 @@
-var mnemonic = "subway plunge just sun market volume disagree vague cycle decrease skin salt";
+var mnemonic = "grace issue siren fatal video final brief lend chef engine income soul";

@@ -1,1 +1,1 @@
-var mnemonic = "feel glad arrest canyon actor book girl engage trim jazz group install";
+var mnemonic = "nerve brave gauge easily globe tube detect thunder rural country guide rather";

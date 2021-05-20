@@ -1,1 +1,1 @@
-var mnemonic = "marriage clown blast basic illness method tourist define garden social six music";
+var mnemonic = "nominee deer feel wash track right true slight tennis floor asthma kick";

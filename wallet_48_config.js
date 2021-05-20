@@ -1,1 +1,1 @@
-var mnemonic = "ahead describe scan noble real setup cousin same perfect economy begin hip";
+var mnemonic = "juice verify hub stove practice street person come excess rotate repeat goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet mule submit army sugar caught option nation age cabin slogan coach";
+var mnemonic = "random victory kid repeat tattoo obtain myself turtle okay cream worth aware";
