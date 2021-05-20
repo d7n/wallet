@@ -1,1 +1,1 @@
-var mnemonic = "item boat atom gasp high second close ordinary miss collect curious amount";
+var mnemonic = "measure milk orbit outer forest flush scout rug decorate portion notice web";

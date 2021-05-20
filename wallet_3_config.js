@@ -1,1 +1,1 @@
-var mnemonic = "pupil below journey balcony crucial movie phrase inhale cage bag actual once";
+var mnemonic = "retreat regular jealous scrub maze lounge eagle dentist blanket ocean floor add";

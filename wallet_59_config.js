@@ -1,1 +1,1 @@
-var mnemonic = "owner other cheese dice glide owner loud gun head middle example cushion";
+var mnemonic = "visit merge fly cannon december cave exchange solution mountain wrist tongue symbol";

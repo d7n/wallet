@@ -1,1 +1,1 @@
-var mnemonic = "width silent elite empty paper squirrel deputy execute winter achieve outdoor injury";
+var mnemonic = "dismiss used mosquito mass endorse invest soup kangaroo zone bone bird skill";

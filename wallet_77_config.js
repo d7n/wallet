@@ -1,1 +1,1 @@
-var mnemonic = "sock salmon rack science verb captain crisp spike custom put mosquito deposit";
+var mnemonic = "bubble roof exercise cash wrong aspect sell outer dolphin shine purpose original";

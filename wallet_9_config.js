@@ -1,1 +1,1 @@
-var mnemonic = "margin scatter title love glare excite brain note battle copper just wrong";
+var mnemonic = "light reward goose athlete mobile bomb catch net sting mountain junk man";

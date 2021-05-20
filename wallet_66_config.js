@@ -1,1 +1,1 @@
-var mnemonic = "property fresh volume devote demand annual bulb skirt behind result hub orbit";
+var mnemonic = "tent lounge winter cereal remove desk scrub man visual congress actual winter";

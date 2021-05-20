@@ -1,1 +1,1 @@
-var mnemonic = "hollow certain define twelve juice model ball cushion change genius dirt dress";
+var mnemonic = "setup window furnace during strike tiny learn level end emotion sponsor affair";

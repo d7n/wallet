@@ -1,1 +1,1 @@
-var mnemonic = "advance heart program skull moon cube camera maze tumble attract region blame";
+var mnemonic = "narrow neutral knee when omit shuffle interest file manual thrive mix average";

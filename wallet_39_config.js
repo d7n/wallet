@@ -1,1 +1,1 @@
-var mnemonic = "coil celery social online tool two emerge define found tiny salute satisfy";
+var mnemonic = "slight connect fresh orchard jungle void exclude silent industry depth motion velvet";

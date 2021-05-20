@@ -1,1 +1,1 @@
-var mnemonic = "sponsor skate arrow bid almost claim trial fortune gloom ripple phone circle";
+var mnemonic = "agree place model hobby salon illness moon fruit spirit athlete supply accuse";

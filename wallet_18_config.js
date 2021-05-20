@@ -1,1 +1,1 @@
-var mnemonic = "area sort state version warm guard fluid replace word wreck mushroom fee";
+var mnemonic = "muffin cereal north grain armed present since one quick clever earn finish";

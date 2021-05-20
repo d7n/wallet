@@ -1,1 +1,1 @@
-var mnemonic = "duck fault abuse couple increase build armed rabbit brother render absorb mad";
+var mnemonic = "melody resemble weasel drip hurdle kangaroo poverty sphere sound piece child regret";

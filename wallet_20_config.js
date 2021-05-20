@@ -1,1 +1,1 @@
-var mnemonic = "true crisp hungry grape dutch dinosaur impose myself matrix cool student tumble";
+var mnemonic = "salt immense faculty citizen lab limb slot inch gauge hover mail ecology";

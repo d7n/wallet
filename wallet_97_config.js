@@ -1,1 +1,1 @@
-var mnemonic = "taste universe grape nasty trick essence explain aerobic thunder health marriage civil";
+var mnemonic = "wild deputy crouch orbit universe entry animal mosquito deliver oblige culture pink";

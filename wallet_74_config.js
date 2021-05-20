@@ -1,1 +1,1 @@
-var mnemonic = "total twelve document chicken smoke margin mention food sniff pact opinion peanut";
+var mnemonic = "write device wood gorilla bargain police explain ozone snap chase minor baby";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo figure stay pair river cattle vault despair any various vast wine";
+var mnemonic = "jar able faculty advice sister style zero virtual volume hub boost engine";

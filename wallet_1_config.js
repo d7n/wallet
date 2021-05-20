@@ -1,1 +1,1 @@
-var mnemonic = "vast oil train fever poem device pride give total symptom acid until";
+var mnemonic = "sleep mixture reason replace success tree urge ahead oven medal case correct";

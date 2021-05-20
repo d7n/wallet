@@ -1,1 +1,1 @@
-var mnemonic = "bomb lunch inquiry deliver grunt luxury settle angry slot theory weasel fragile";
+var mnemonic = "ready shiver conduct olympic easily exchange neck hold nose small first crouch";

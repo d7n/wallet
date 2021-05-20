@@ -1,1 +1,1 @@
-var mnemonic = "frog announce lonely pull lawsuit tired twist pave increase dish method approve";
+var mnemonic = "electric menu net flip coral where way acquire act cement dignity strike";

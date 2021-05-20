@@ -1,1 +1,1 @@
-var mnemonic = "chase key engage index segment ticket rural ancient congress name woman once";
+var mnemonic = "owner bar hover gauge glance walk execute ridge faith prefer describe rug";

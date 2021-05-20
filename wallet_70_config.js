@@ -1,1 +1,1 @@
-var mnemonic = "unaware code palm knock trip cement embark copy company speak alter firm";
+var mnemonic = "type obvious orphan age kiss cry fence belt hair resemble hotel pact";

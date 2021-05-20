@@ -1,1 +1,1 @@
-var mnemonic = "fan exercise winter lift yellow human repair room scrap promote apple sting";
+var mnemonic = "provide since genre memory expose palm space once pioneer fork absorb cinnamon";

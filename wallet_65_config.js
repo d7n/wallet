@@ -1,1 +1,1 @@
-var mnemonic = "priority spatial praise hobby food chest bacon unveil hip measure miss inhale";
+var mnemonic = "tunnel steel rescue matrix ribbon double cruise lunch thunder moment better silver";

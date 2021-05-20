@@ -1,1 +1,1 @@
-var mnemonic = "urban focus session demand wink raw loyal anxiety improve unaware either spike";
+var mnemonic = "sunny next hurry cycle load try design inquiry fury hedgehog cage cream";

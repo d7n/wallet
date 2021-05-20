@@ -1,1 +1,1 @@
-var mnemonic = "obscure noodle sunny reopen cancel swamp lamp spatial immense make rail huge";
+var mnemonic = "card tumble dizzy exchange bicycle click luxury cloth tired brain chimney problem";

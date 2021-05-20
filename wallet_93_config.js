@@ -1,1 +1,1 @@
-var mnemonic = "outside tragic deer poverty normal safe napkin imitate six card other belt";
+var mnemonic = "early poem pioneer school path social when taxi online humble ski hope";

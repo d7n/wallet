@@ -1,1 +1,1 @@
-var mnemonic = "hold ride flat turn uphold put cluster text next donate rubber tattoo";
+var mnemonic = "rose proud room near group gym blossom tilt salt yellow above silver";

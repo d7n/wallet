@@ -1,1 +1,1 @@
-var mnemonic = "arrow stadium program man grief kingdom paddle dirt lava pole fringe champion";
+var mnemonic = "nature palace city echo evolve quality deny hamster find earn stage blouse";

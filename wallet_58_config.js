@@ -1,1 +1,1 @@
-var mnemonic = "story clean join burger this select pepper duty sure drop random wife";
+var mnemonic = "pill hospital age soap view hedgehog lamp kingdom general bleak fire chapter";

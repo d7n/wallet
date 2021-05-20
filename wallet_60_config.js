@@ -1,1 +1,1 @@
-var mnemonic = "era struggle journey sweet gather proof put come offer east cloth cup";
+var mnemonic = "accident permit antique invite abuse amateur forum treat humble radio lady trick";

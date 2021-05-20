@@ -1,1 +1,1 @@
-var mnemonic = "fabric base bonus fitness finger patrol meat force unfold slot baby they";
+var mnemonic = "nose dynamic mom glory amazing coral shoulder ostrich marriage physical rubber powder";

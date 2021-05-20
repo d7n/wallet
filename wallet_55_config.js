@@ -1,1 +1,1 @@
-var mnemonic = "tortoise dentist mistake merit try brother pen copper ostrich prize afraid course";
+var mnemonic = "call biology define ten favorite hood front wedding axis task gloom dragon";

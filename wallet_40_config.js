@@ -1,1 +1,1 @@
-var mnemonic = "copper cement narrow cream lawsuit grocery during shove save weapon coin enjoy";
+var mnemonic = "taste daughter key myself palace deliver eight strong fortune wrist panic exhaust";

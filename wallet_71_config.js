@@ -1,1 +1,1 @@
-var mnemonic = "utility hour senior romance organ involve earth minor orphan people rule giant";
+var mnemonic = "vanish ugly leg better corn vague chief you ticket artwork frog summer";

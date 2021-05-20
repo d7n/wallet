@@ -1,1 +1,1 @@
-var mnemonic = "tomato spray tourist finger tree balcony matrix effort follow source panel sugar";
+var mnemonic = "family chief please position theme ready soccer puzzle goddess random label inside";

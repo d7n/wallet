@@ -1,1 +1,1 @@
-var mnemonic = "fine skull feature what burst bring wish small machine chaos loud visit";
+var mnemonic = "notable capable machine online emerge street match milk tide surface picture type";

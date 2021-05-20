@@ -1,1 +1,1 @@
-var mnemonic = "distance useful error example item tiny plunge buzz reject friend day then";
+var mnemonic = "duck rival kit impose crater hip velvet solution survey path knife arrest";

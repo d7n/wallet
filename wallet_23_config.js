@@ -1,1 +1,1 @@
-var mnemonic = "brother seek actor frost spirit above pride journey artwork blade wide neglect";
+var mnemonic = "coil captain peasant junk insect expand able intact certain fashion sting glimpse";

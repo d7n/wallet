@@ -1,1 +1,1 @@
-var mnemonic = "item pond warrior affair connect latin start mad celery elevator cross match";
+var mnemonic = "clever boss pink transfer network remind unfair direct sick rice poem have";

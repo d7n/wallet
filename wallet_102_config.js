@@ -1,1 +1,1 @@
-var mnemonic = "tuna clap gorilla deny bacon seat thrive trophy solar dose opinion angle";
+var mnemonic = "talk magnet shield zoo apple tide club digital tumble olive aisle topple";

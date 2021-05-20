@@ -1,1 +1,1 @@
-var mnemonic = "message razor under pledge divorce direct bonus globe way reduce project mix";
+var mnemonic = "improve tilt audit cook same army assist page human level age century";

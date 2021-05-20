@@ -1,1 +1,1 @@
-var mnemonic = "reform evidence evil renew wonder flower ozone language tail vocal shed nature";
+var mnemonic = "guide swim buzz black resource wave relief glory lottery roof code pepper";

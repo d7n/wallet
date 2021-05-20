@@ -1,1 +1,1 @@
-var mnemonic = "year lake abandon roof anchor bread sock laugh dice net key mule";
+var mnemonic = "coffee drama wrap arrow rich indicate satisfy economy cover risk carbon amount";

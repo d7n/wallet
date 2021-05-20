@@ -1,1 +1,1 @@
-var mnemonic = "flag jealous ill fitness wire develop kid measure tortoise few hamster fluid";
+var mnemonic = "demand hospital desert provide price dolphin crowd dial boss remember tower advance";

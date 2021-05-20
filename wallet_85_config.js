@@ -1,1 +1,1 @@
-var mnemonic = "drum camp tumble six hammer juice board tongue theory tattoo fruit sister";
+var mnemonic = "link cousin able tourist position educate annual soul nest prevent flag vicious";

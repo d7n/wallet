@@ -1,1 +1,1 @@
-var mnemonic = "outer indoor dog empty royal letter vague gentle earn proof outside soda";
+var mnemonic = "tiny wreck wealth west enough unfold history mutual cup fold rural seed";

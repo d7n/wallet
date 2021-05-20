@@ -1,1 +1,1 @@
-var mnemonic = "mask diesel artefact flip space endless foster talent power trumpet oak stable";
+var mnemonic = "view nut solar secret soon atom advice carpet garage excess tip bird";

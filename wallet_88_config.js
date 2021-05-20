@@ -1,1 +1,1 @@
-var mnemonic = "tissue exhibit young immune upgrade follow slot aisle hotel journey kitten frame";
+var mnemonic = "there access lecture task matrix vibrant hockey make captain quarter muffin beauty";

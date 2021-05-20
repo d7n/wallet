@@ -1,1 +1,1 @@
-var mnemonic = "permit sleep risk other buddy fiction maple blame work asset when gloom";
+var mnemonic = "remove elder barrel shop memory breeze maple rare pumpkin just discover clay";

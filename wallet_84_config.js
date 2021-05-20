@@ -1,1 +1,1 @@
-var mnemonic = "install run degree humor output report pole drink like license settle scissors";
+var mnemonic = "ugly simple dignity rabbit spin pilot home bean sibling actress wink dial";

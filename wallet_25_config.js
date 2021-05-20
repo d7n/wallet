@@ -1,1 +1,1 @@
-var mnemonic = "butter polar sell sock great sleep meat metal window divide army risk";
+var mnemonic = "dream wave eight bench dumb improve forget top view kit session napkin";

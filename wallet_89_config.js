@@ -1,1 +1,1 @@
-var mnemonic = "width mixed physical matrix flee much crumble float degree social sphere body";
+var mnemonic = "cancel drive avocado leave humble boil win concert bright shock window view";

@@ -1,1 +1,1 @@
-var mnemonic = "prize brown hold laundry pink auction sock more gossip media debris excess";
+var mnemonic = "property wage rich pause purity twenty rabbit trouble limb hammer solid carbon";

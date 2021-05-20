@@ -1,1 +1,1 @@
-var mnemonic = "upper govern cricket whip walk insane flower cheap mountain civil safe bless";
+var mnemonic = "visa trick diary mansion draft weather guilt claim print length cross palm";

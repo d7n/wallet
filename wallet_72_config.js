@@ -1,1 +1,1 @@
-var mnemonic = "effort hub mesh crawl near rain follow fire expand present riot endless";
+var mnemonic = "parrot reward hobby enrich adjust affair hello uniform swim prison able dentist";

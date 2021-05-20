@@ -1,1 +1,1 @@
-var mnemonic = "spring forum fresh hover quarter rude obscure flash quote bronze pause system";
+var mnemonic = "define equip car effort play police minimum address benefit dismiss border work";

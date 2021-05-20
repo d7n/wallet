@@ -1,1 +1,1 @@
-var mnemonic = "shiver manual absurd also update punch young tennis curtain valid year assist";
+var mnemonic = "devote deal party wine close source kangaroo middle brother jungle van egg";

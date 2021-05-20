@@ -1,1 +1,1 @@
-var mnemonic = "dress recipe connect code marriage chalk romance feature involve alone expect ceiling";
+var mnemonic = "cloud zero embody cross panic turtle beyond quantum stone fuel original problem";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm gun wine rain pluck truth argue cradle place this grab slim";
+var mnemonic = "risk area curve palm knee great fossil anxiety pull crazy joy reveal";

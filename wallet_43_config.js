@@ -1,1 +1,1 @@
-var mnemonic = "vendor vote special prepare door ready member verb maximum vanish vanish day";
+var mnemonic = "regular border voice belt increase item couple fade arrow human cage burden";

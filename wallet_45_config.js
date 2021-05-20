@@ -1,1 +1,1 @@
-var mnemonic = "boil game twist super pony return great shove erupt exercise swamp setup";
+var mnemonic = "stadium dune proud patrol clay fault bamboo few brand jewel target leg";

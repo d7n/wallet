@@ -1,1 +1,1 @@
-var mnemonic = "fat excess kangaroo peace dolphin text please tilt speak ginger estate audit";
+var mnemonic = "impulse verify arch august bus tilt digital skill beyond fossil tilt advice";

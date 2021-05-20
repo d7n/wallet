@@ -1,1 +1,1 @@
-var mnemonic = "taste absent amused female feature toe bar diary use guilt cloth sand";
+var mnemonic = "frequent account artist already merge fun dash remind hope always couple lunar";

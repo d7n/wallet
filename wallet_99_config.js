@@ -1,1 +1,1 @@
-var mnemonic = "stomach special hero apple ahead nest reveal muffin cage obscure purity wage";
+var mnemonic = "trap orange silver narrow birth sea exhibit remind soldier axis canvas couch";

@@ -1,1 +1,1 @@
-var mnemonic = "kid achieve debate orange recycle certain sketch update observe stadium wool ranch";
+var mnemonic = "alter increase pony recall habit arm obscure surface discover wheel winner wide";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic blame iron talent option shed trade fortune mansion gown hamster food";
+var mnemonic = "act sudden quarter reflect kick banner spell canoe obtain cream wing fiction";

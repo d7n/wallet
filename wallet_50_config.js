@@ -1,1 +1,1 @@
-var mnemonic = "witness close affair saddle very grunt media almost copper large loan input";
+var mnemonic = "kick mistake index humble alley mango method equip visual business chimney green";

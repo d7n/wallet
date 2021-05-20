@@ -1,1 +1,1 @@
-var mnemonic = "salmon fruit omit witness once fiscal evoke solve route law version parrot";
+var mnemonic = "abstract danger giraffe jelly catch spray arena mutual quiz leader grass december";

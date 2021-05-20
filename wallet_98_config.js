@@ -1,1 +1,1 @@
-var mnemonic = "wise garage surge essence bitter movie crucial tonight parrot mammal become inform";
+var mnemonic = "improve ancient arrange dune weekend shine since nice small unique debris say";

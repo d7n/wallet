@@ -1,1 +1,1 @@
-var mnemonic = "grid solid lion taxi picnic camera weapon boost clutch off super rubber";
+var mnemonic = "maple delay stage gloom income usual canyon cactus capable buzz analyst picnic";

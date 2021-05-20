@@ -1,1 +1,1 @@
-var mnemonic = "huge uniform summer juice gauge that more knock come unaware afraid sun";
+var mnemonic = "subject armor skill drink because elevator denial ethics aisle wild term salon";

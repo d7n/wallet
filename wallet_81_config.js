@@ -1,1 +1,1 @@
-var mnemonic = "evoke quit ramp cliff juice pudding adapt wrestle unveil govern section wish";
+var mnemonic = "achieve waste cost wait moon cliff ceiling deny clerk where any usual";

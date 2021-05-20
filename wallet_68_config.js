@@ -1,1 +1,1 @@
-var mnemonic = "margin ladder boil paper rifle drive panel bleak black issue lava bronze";
+var mnemonic = "forget drift over pitch verb drift half universe glide two once uphold";

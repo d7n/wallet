@@ -1,1 +1,1 @@
-var mnemonic = "include skull curve tumble student nephew churn foam acoustic easy sniff reflect";
+var mnemonic = "best resist oblige client delay net rocket valid birth bring owner rent";

@@ -1,1 +1,1 @@
-var mnemonic = "speed excite cool admit world unhappy hamster relax bitter fluid submit tenant";
+var mnemonic = "settle fetch refuse biology pig found hand crane quick hurt dry learn";

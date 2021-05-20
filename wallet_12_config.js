@@ -1,1 +1,1 @@
-var mnemonic = "airport case chalk nose river burst remember cave zone junk stuff school";
+var mnemonic = "sausage riot veteran point gym program opinion lens six supreme kangaroo medal";

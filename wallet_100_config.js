@@ -1,1 +1,1 @@
-var mnemonic = "grab twelve orange hammer bread tunnel impact comfort more shine exile bounce";
+var mnemonic = "tag combine attitude domain brown venue hospital fluid guess broom cargo hospital";

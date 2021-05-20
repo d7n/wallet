@@ -1,1 +1,1 @@
-var mnemonic = "axis what invite aerobic napkin repair trumpet palace average piano mixture steel";
+var mnemonic = "frequent wash dry loan alpha drastic unlock dance season wasp result garage";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant indoor fly fit swim purpose fish dumb awesome alley glad cushion";
+var mnemonic = "apart modify erode sun announce crush whisper run what park know glove";

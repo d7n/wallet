@@ -1,1 +1,1 @@
-var mnemonic = "hurry hamster echo pupil exit inside author ten congress cube promote clay";
+var mnemonic = "wreck burger spend join baby view drill crew rubber team head brain";

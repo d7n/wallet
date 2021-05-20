@@ -1,1 +1,1 @@
-var mnemonic = "fantasy shuffle image gesture need guitar version walnut slide home scan cute";
+var mnemonic = "parade budget cave isolate normal loyal antique ancient alarm priority deer story";

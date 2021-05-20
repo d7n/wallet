@@ -1,1 +1,1 @@
-var mnemonic = "zero erode fluid betray pulp peasant practice boy tomato fit effort crisp";
+var mnemonic = "prosper project rent shadow ladder cotton warrior witness step host frog sniff";

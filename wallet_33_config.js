@@ -1,1 +1,1 @@
-var mnemonic = "chronic basic roof april polar stem casino salute collect pencil peasant mesh";
+var mnemonic = "buffalo shrug shoot bean young general gas laundry attitude sting hill certain";

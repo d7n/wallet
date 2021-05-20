@@ -1,1 +1,1 @@
-var mnemonic = "stomach write relax twelve december strong car repair deputy region boring renew";
+var mnemonic = "tape voice hedgehog dizzy sweet danger sing path reduce limit artist goat";

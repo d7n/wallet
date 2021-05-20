@@ -1,1 +1,1 @@
-var mnemonic = "member churn chief agent soccer tired wrap alcohol target claw follow coast";
+var mnemonic = "blouse hockey diet outer expire attack win brick monster shield apology history";

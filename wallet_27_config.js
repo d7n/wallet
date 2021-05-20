@@ -1,1 +1,1 @@
-var mnemonic = "search tonight appear over color pelican lonely crush payment perfect local robust";
+var mnemonic = "there million shiver drill bag fly loan hidden case moral promote twin";

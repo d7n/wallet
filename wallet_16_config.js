@@ -1,1 +1,1 @@
-var mnemonic = "baby relief snake team pair orphan protect shy muffin hotel pave pass";
+var mnemonic = "wise govern impact barrel celery want pull velvet recycle hidden exchange other";
