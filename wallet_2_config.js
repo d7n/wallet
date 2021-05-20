@@ -1,1 +1,1 @@
-var mnemonic = "melt tiny dose awake save wing remind over kick sunset book hub";
+var mnemonic = "powder snap update share gloom hazard sugar bus proof canvas diagram jelly";

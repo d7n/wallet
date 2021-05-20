@@ -1,1 +1,1 @@
-var mnemonic = "keen diamond forward patrol budget analyst tape pattern demise spirit foam lobster";
+var mnemonic = "width become stage wrong route broom three enlist accident click ozone dial";

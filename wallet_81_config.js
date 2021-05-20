@@ -1,1 +1,1 @@
-var mnemonic = "hire borrow laugh scrub tray sort negative glide stamp insect ski earn";
+var mnemonic = "can popular okay demise behave solid squirrel neck shove uncover soon roast";

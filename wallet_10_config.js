@@ -1,1 +1,1 @@
-var mnemonic = "lazy shoulder giraffe goose armor exchange cousin rent furnace alarm nominee maze";
+var mnemonic = "crawl faculty ski found fancy receive table youth fire cabin degree surface";

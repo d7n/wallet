@@ -1,1 +1,1 @@
-var mnemonic = "gloom thunder mesh enhance tiny ignore acoustic foot room quit grass coffee";
+var mnemonic = "mask later dizzy gauge lady drift glance crowd now park pretty crunch";

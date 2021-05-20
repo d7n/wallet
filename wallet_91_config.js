@@ -1,1 +1,1 @@
-var mnemonic = "ensure turtle banana warrior pencil idea keep glad salute old melt owner";
+var mnemonic = "roast win airport future budget net bubble stand uncle try napkin reform";

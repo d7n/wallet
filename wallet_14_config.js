@@ -1,1 +1,1 @@
-var mnemonic = "door protect antenna treat citizen labor clutch sweet history orbit cheese junk";
+var mnemonic = "rely juice acquire cement sense check clip bench sing soap wing will";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel camp swing dose edge coin gallery stumble april include urge miss";
+var mnemonic = "monitor entire aware grain silver level cliff loan vanish moment similar author";

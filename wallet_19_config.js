@@ -1,1 +1,1 @@
-var mnemonic = "cause combine fun lucky hen bike patch hawk mail devote fork walnut";
+var mnemonic = "faint provide joke solve duty mule stuff avocado organ tattoo glad buyer";

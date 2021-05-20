@@ -1,1 +1,1 @@
-var mnemonic = "climb brass sudden hover canal dish funny nature ask provide wide grape";
+var mnemonic = "outside barrel horn idea write panda orchard clap maze sketch crawl police";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue prefer jacket select scale hire high glue document video dry mosquito";
+var mnemonic = "expire yard gold gap illness ketchup sudden foam regular ancient deposit clever";

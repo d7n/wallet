@@ -1,1 +1,1 @@
-var mnemonic = "wall host sting drum festival cheese harsh view pulp enlist exit sign";
+var mnemonic = "inch engage public chuckle word super rookie long rubber ring build egg";

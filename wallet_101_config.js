@@ -1,1 +1,1 @@
-var mnemonic = "reward window smooth apart fame slender under mimic bulk retire stool hill";
+var mnemonic = "glass danger wrist peasant wine obscure truck noodle flash cart venue benefit";

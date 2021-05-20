@@ -1,1 +1,1 @@
-var mnemonic = "powder park era used movie foil derive junk receive you stadium certain";
+var mnemonic = "engage memory gold vault sign cover obtain manage cruise old slide piece";

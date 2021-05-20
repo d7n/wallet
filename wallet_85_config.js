@@ -1,1 +1,1 @@
-var mnemonic = "belt garbage dismiss stadium swallow grief humble tourist twist state music rigid";
+var mnemonic = "sleep idea kick tobacco snake light swift guilt roof silly dragon chapter";

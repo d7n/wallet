@@ -1,1 +1,1 @@
-var mnemonic = "brisk finish razor pretty diagram purse river kiwi picnic prevent metal syrup";
+var mnemonic = "dizzy fence situate bulb worth verify music rhythm rude verb sugar adjust";

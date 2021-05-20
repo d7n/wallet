@@ -1,1 +1,1 @@
-var mnemonic = "flock top into source planet setup almost wait snap rookie hamster range";
+var mnemonic = "genre olive hood engage edge chapter skull property remind awesome ancient simple";

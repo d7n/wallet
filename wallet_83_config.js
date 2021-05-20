@@ -1,1 +1,1 @@
-var mnemonic = "unit trumpet traffic fuel choose garage narrow safe ring silly trick drill";
+var mnemonic = "fluid apple brick virtual access roof notable unusual bulb fancy napkin large";

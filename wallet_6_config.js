@@ -1,1 +1,1 @@
-var mnemonic = "thank motion rally long sick album modify immune shadow carry snow display";
+var mnemonic = "mango olive edit avocado trash rather donor soft cool lottery mammal goat";

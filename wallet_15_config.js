@@ -1,1 +1,1 @@
-var mnemonic = "dose lobster hub vessel bacon dance trust merge tiny sense month absorb";
+var mnemonic = "mango grocery high science broken source clutch execute dumb follow pretty pill";

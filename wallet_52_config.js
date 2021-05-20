@@ -1,1 +1,1 @@
-var mnemonic = "merry impose top will improve midnight dismiss farm give rib helmet busy";
+var mnemonic = "cart seminar begin jealous still mango wide tube december shine few parade";

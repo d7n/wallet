@@ -1,1 +1,1 @@
-var mnemonic = "draw action canoe aisle reward six imitate laundry solar alone enroll country";
+var mnemonic = "equal seek remember sadness cradle enhance cost begin tip outer crack enroll";

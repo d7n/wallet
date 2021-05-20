@@ -1,1 +1,1 @@
-var mnemonic = "history pitch hill defense turkey castle mountain shell correct bitter popular large";
+var mnemonic = "advice affair convince layer east gown protect spell meat toy govern jungle";

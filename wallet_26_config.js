@@ -1,1 +1,1 @@
-var mnemonic = "curtain mirror damp kangaroo donkey happy benefit tone age fresh online own";
+var mnemonic = "mail reason alcohol exhaust noodle sauce execute suffer device empty sign rescue";

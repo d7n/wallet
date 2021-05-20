@@ -1,1 +1,1 @@
-var mnemonic = "popular heart cry viable candy file spatial tired rural riot feel clay";
+var mnemonic = "caught verify reduce scan cousin table couple mention useful offer next yard";

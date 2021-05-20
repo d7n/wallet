@@ -1,1 +1,1 @@
-var mnemonic = "wire own obscure hawk season merry velvet ball want trigger strategy tiger";
+var mnemonic = "horror taste point drop army rapid gasp try analyst answer heart door";

@@ -1,1 +1,1 @@
-var mnemonic = "elder neutral guess fabric concert drift name apology gasp tourist develop early";
+var mnemonic = "favorite cover visa trophy radar mesh gas over east spray miss item";

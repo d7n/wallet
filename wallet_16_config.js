@@ -1,1 +1,1 @@
-var mnemonic = "fat box crouch phone add owner wing hotel brave prosper sail lumber";
+var mnemonic = "elegant plastic cactus rude sting eternal name oblige right faint under total";

@@ -1,1 +1,1 @@
-var mnemonic = "great visit distance hour curve achieve divert explain badge guitar erupt stick";
+var mnemonic = "cradle you cricket joke mountain fix unveil wait town reflect monkey bulk";

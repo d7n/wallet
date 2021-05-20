@@ -1,1 +1,1 @@
-var mnemonic = "devote cotton daughter index notable parent arrange anchor garbage napkin faith source";
+var mnemonic = "forward blur kiss excess soul this thrive polar afford scan cable hour";

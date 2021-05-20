@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog stone scrub wide brass include master mention scene mixture exercise put";
+var mnemonic = "luggage adjust thunder champion stock rotate furnace butter remember vivid skirt raccoon";

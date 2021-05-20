@@ -1,1 +1,1 @@
-var mnemonic = "junior half gesture catch degree kitten mule whip photo wide tuna exist";
+var mnemonic = "call ill bamboo fog nation replace able leopard teach coin degree trend";

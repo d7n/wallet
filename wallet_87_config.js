@@ -1,1 +1,1 @@
-var mnemonic = "face wrestle gift obtain gossip advice glass father strong pass enforce stool";
+var mnemonic = "neutral toast change melody chest crumble tip trick crouch barrel drip canvas";

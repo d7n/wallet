@@ -1,1 +1,1 @@
-var mnemonic = "zoo little noise girl basket drip artwork narrow local short pitch diagram";
+var mnemonic = "mom family recipe pride update blanket critic add quote midnight weapon fury";

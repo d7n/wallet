@@ -1,1 +1,1 @@
-var mnemonic = "unveil educate whisper ribbon blur debris weird quick cart sphere sword cruise";
+var mnemonic = "exile kitten edit roof gossip universe tackle panic loyal clump firm wheel";

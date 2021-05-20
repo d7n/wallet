@@ -1,1 +1,1 @@
-var mnemonic = "alien bracket gym birth exile foot venue shine tower aisle frog sound";
+var mnemonic = "discover orphan foam interest transfer develop sorry hello short announce skate tumble";

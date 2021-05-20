@@ -1,1 +1,1 @@
-var mnemonic = "easy clock police inject bunker comic bag brush tattoo solution often hero";
+var mnemonic = "tornado squeeze drill place pony hawk lecture blame float exhibit flock suit";

@@ -1,1 +1,1 @@
-var mnemonic = "garment first case drive street define analyst warfare scorpion service shoulder iron";
+var mnemonic = "element game stool job device crane remember sick denial organ theme cram";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse blanket great ahead bracket two ladder spoon put exhaust train level";
+var mnemonic = "leave hover lend prepare oval frog aspect clay word bacon honey rose";

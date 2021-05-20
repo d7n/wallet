@@ -1,1 +1,1 @@
-var mnemonic = "parrot school raccoon forward achieve daring sign help basic rug govern useful";
+var mnemonic = "fancy senior distance will wolf tumble dolphin feel replace wool gesture deputy";

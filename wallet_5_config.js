@@ -1,1 +1,1 @@
-var mnemonic = "monster people rigid ostrich title tank gather sort that face width broken";
+var mnemonic = "clutch hurdle zebra surround bracket bus rubber damage goose model achieve illegal";

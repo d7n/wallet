@@ -1,1 +1,1 @@
-var mnemonic = "list clarify vanish advice casino merit blue cream uncover biology joke fox";
+var mnemonic = "search pelican capital between edge receive frame sense jewel mule hold genius";

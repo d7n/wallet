@@ -1,1 +1,1 @@
-var mnemonic = "false jeans call economy shock paper road proof market load diet mansion";
+var mnemonic = "game brass impact olive real jealous summer ecology idle want base addict";

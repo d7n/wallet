@@ -1,1 +1,1 @@
-var mnemonic = "such above fresh birth rather lucky repeat confirm observe omit eagle thank";
+var mnemonic = "plug finish soda layer brand ceiling absorb regular knee choose sign hello";

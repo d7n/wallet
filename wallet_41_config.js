@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo focus lawn jungle dress cool gap buddy river bunker battle follow";
+var mnemonic = "peace matter sport mistake poet puppy outer sun arctic knee pizza marble";

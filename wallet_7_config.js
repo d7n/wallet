@@ -1,1 +1,1 @@
-var mnemonic = "next anchor announce idea pave catch onion spray prosper festival hurdle style";
+var mnemonic = "donor marble cloud gravity capable metal hybrid adapt motor tackle wire tail";

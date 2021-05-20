@@ -1,1 +1,1 @@
-var mnemonic = "wild false kitchen either color lawn outer gentle drama calm then purchase";
+var mnemonic = "perfect gospel main inspire tell despair sketch manual erosion cousin marriage element";

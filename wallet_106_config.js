@@ -1,1 +1,1 @@
-var mnemonic = "coach wonder report frame swarm whisper course orange cupboard mouse member sugar";
+var mnemonic = "switch pond enact ski purchase pair fancy nominee royal mandate comfort scrub";

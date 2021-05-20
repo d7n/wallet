@@ -1,1 +1,1 @@
-var mnemonic = "exile ensure assist accuse jewel shell great know sibling frost reason glue";
+var mnemonic = "sock render oyster fetch meat arch cry field season cliff media panic";

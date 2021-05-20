@@ -1,1 +1,1 @@
-var mnemonic = "great grocery letter feed bird wet become mind awesome gloom wild oak";
+var mnemonic = "beyond rally credit ostrich twice marble chest hill rent purity fatal season";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital chapter actress pottery share lobster april behave scissors six adult couch";
+var mnemonic = "member donkey drastic struggle purchase street eight motor east destroy wagon battle";

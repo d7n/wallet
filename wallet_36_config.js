@@ -1,1 +1,1 @@
-var mnemonic = "imitate meadow submit recipe survey glass spend mom cream rigid later badge";
+var mnemonic = "employ twist rather immune cheese series stick horror receive lazy together endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "seek eternal velvet exhaust menu garment bullet half admit age window eyebrow";
+var mnemonic = "truck aware bounce vehicle unfold flee seek curtain leaf husband number club";

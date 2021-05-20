@@ -1,1 +1,1 @@
-var mnemonic = "cabin deny outside record floor pear south couple stable invite naive oppose";
+var mnemonic = "auto print arrive cigar citizen expire clay second sell enjoy knock parrot";

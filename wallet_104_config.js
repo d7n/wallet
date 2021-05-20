@@ -1,1 +1,1 @@
-var mnemonic = "include group mail skin nasty repeat mixture urge quote subject deliver woman";
+var mnemonic = "nut write used melt omit clutch jelly that clay develop maid metal";

@@ -1,1 +1,1 @@
-var mnemonic = "guide immune panic right grit truly champion denial rally shiver catch canyon";
+var mnemonic = "rigid hockey lawsuit uncover one jealous reform life bounce brick swap street";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle veteran bridge velvet example glimpse spider peasant resource mouse away during";
+var mnemonic = "recall want snake hammer apple view train install govern common youth shop";

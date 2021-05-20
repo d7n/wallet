@@ -1,1 +1,1 @@
-var mnemonic = "raw theme table prize before reduce crack pig visual now field adjust";
+var mnemonic = "rude ostrich ozone play man little bread junk shrug celery kingdom cancel";

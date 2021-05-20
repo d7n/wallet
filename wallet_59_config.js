@@ -1,1 +1,1 @@
-var mnemonic = "draft other crime august process vintage garment pigeon club harbor dumb middle";
+var mnemonic = "dance picture clutch pony video phone urban life deer goddess trust arrow";

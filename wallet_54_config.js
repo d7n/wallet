@@ -1,1 +1,1 @@
-var mnemonic = "tape pull cool century debate display work rare tank lyrics river jeans";
+var mnemonic = "outside salad minimum dwarf ignore torch attitude boil affair lens empower rug";

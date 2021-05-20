@@ -1,1 +1,1 @@
-var mnemonic = "anger nuclear tiger kit rookie mask you soft summer wet grape awkward";
+var mnemonic = "beauty village violin unfold unveil flip answer avocado olympic light casual jar";

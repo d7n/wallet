@@ -1,1 +1,1 @@
-var mnemonic = "ticket point claw van attitude hire what celery spatial army desk lumber";
+var mnemonic = "hedgehog rice crush general grass act return end you rack craft outside";

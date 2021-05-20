@@ -1,1 +1,1 @@
-var mnemonic = "fire disagree crazy bacon polar document immune wheat belt potato garage provide";
+var mnemonic = "parrot hollow prepare region predict image style coast today dad garage eternal";

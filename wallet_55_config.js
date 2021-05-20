@@ -1,1 +1,1 @@
-var mnemonic = "steel ugly train hint impact drink under joy replace moral present neglect";
+var mnemonic = "bounce avocado senior nerve area lyrics genius search live fantasy pill please";

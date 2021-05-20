@@ -1,1 +1,1 @@
-var mnemonic = "mesh deal trial submit inherit square excess bike tomato fat shoulder detail";
+var mnemonic = "swear hawk surge tuition awake spice search because wet finish rigid inspire";

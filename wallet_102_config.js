@@ -1,1 +1,1 @@
-var mnemonic = "true hurry crash muffin cupboard hospital sick turkey cry home sniff visit";
+var mnemonic = "that solar climb detail hawk adult series review theme sphere section devote";

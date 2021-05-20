@@ -1,1 +1,1 @@
-var mnemonic = "hybrid laundry icon loud area crowd helmet palm add knee address engage";
+var mnemonic = "style coin slush jazz gate magic spot tag funny economy rice flee";

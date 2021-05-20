@@ -1,1 +1,1 @@
-var mnemonic = "captain believe sting over voice have judge denial fix pizza sample exotic";
+var mnemonic = "rib agree emerge phone spice boy involve screen fix round smoke flock";

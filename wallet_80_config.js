@@ -1,1 +1,1 @@
-var mnemonic = "file select cup cry unlock horror mountain walnut cloud kiwi ivory dynamic";
+var mnemonic = "work property fault survey genre boat ramp hundred sphere pool tortoise embrace";

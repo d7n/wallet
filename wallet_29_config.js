@@ -1,1 +1,1 @@
-var mnemonic = "broccoli reunion crane wise nominee useless cereal wide teach mango mandate monkey";
+var mnemonic = "unit bitter soldier ten photo onion penalty candy spirit teach clap elevator";

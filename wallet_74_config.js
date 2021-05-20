@@ -1,1 +1,1 @@
-var mnemonic = "gorilla interest decrease april diary into town future heavy such opinion super";
+var mnemonic = "convince agent smart buddy top gap current identify vintage stamp develop piano";

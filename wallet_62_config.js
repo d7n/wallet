@@ -1,1 +1,1 @@
-var mnemonic = "earth trick stamp image clay gown torch trouble solar town deputy legend";
+var mnemonic = "tower canoe cheese object pact common siren very reflect consider donkey jump";

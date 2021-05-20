@@ -1,1 +1,1 @@
-var mnemonic = "common column season sense crawl claim baby secret blossom pact resource clock";
+var mnemonic = "drum fever pride pond deliver wrestle rapid sadness unusual snow foil other";

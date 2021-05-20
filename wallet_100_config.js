@@ -1,1 +1,1 @@
-var mnemonic = "reward magnet silver engage prevent saddle vast ritual spend exist wasp note";
+var mnemonic = "flag ostrich napkin coffee obey bike spatial night loyal defy bus maximum";

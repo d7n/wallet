@@ -1,1 +1,1 @@
-var mnemonic = "share sustain dad lab electric fox man portion tomorrow casual payment rug";
+var mnemonic = "tone fine mad spawn produce bitter ball foam only protect enlist pool";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito hungry wreck betray purity donate theme tube excess motion ripple cause";
+var mnemonic = "note income mango crew gauge arena bargain grab open only element mirror";

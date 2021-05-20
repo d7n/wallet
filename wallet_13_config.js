@@ -1,1 +1,1 @@
-var mnemonic = "feature merry lizard blur eager ill oval syrup dust finish admit lesson";
+var mnemonic = "make fashion mix absorb scorpion protect tobacco shoot fox horror crop mistake";

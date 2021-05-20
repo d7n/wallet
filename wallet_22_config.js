@@ -1,1 +1,1 @@
-var mnemonic = "dose museum very fantasy second endless much hurdle chef blanket wrong feed";
+var mnemonic = "either thing ticket shiver pitch awesome extend guitar menu opera visual cave";

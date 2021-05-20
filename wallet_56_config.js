@@ -1,1 +1,1 @@
-var mnemonic = "borrow space same swallow monster airport prepare kid column already mesh salad";
+var mnemonic = "valid mail move convince section arm put giggle once blouse satoshi occur";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon accuse certain tool obtain muscle repair ask credit divert change false";
+var mnemonic = "drama flock off rifle manage piano reason usual grief monster script soup";

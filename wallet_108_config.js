@@ -1,1 +1,1 @@
-var mnemonic = "ethics vote cream bleak impact shrug history lend mimic run north tomato";
+var mnemonic = "train multiply motor noise advance tilt solar sad skate tomorrow flame wolf";

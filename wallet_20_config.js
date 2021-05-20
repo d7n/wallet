@@ -1,1 +1,1 @@
-var mnemonic = "script hazard dune elite occur veteran glove promote foot purchase burger pull";
+var mnemonic = "actor large illness believe mimic video flat settle stone knee fantasy duck";

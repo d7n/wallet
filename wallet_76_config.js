@@ -1,1 +1,1 @@
-var mnemonic = "heavy security dune rapid solution castle such supreme vessel cake east cook";
+var mnemonic = "gravity own nation genuine host cannon ignore volcano quantum matter finish era";
