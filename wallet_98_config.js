@@ -1,1 +1,1 @@
-var mnemonic = "potato start stomach doctor vault heart pudding typical machine anger blade claim";
+var mnemonic = "dove practice pink neglect flash vintage help planet help six gap economy";

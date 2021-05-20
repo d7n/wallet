@@ -1,1 +1,1 @@
-var mnemonic = "master defy shop oven humble page drift strike neutral broom wrestle accident";
+var mnemonic = "thank soldier soccer rapid concert exotic bottom flight smoke bid vacant bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "icon trial garage evoke banana whale three chronic language orchard retire report";
+var mnemonic = "frog rice reopen minimum feed chronic jar dinner sample member brisk relief";

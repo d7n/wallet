@@ -1,1 +1,1 @@
-var mnemonic = "uncle butter what boring demise vehicle cotton bracket child symbol liquid wrap";
+var mnemonic = "veteran access bachelor unlock undo puzzle police pink grant wait hurt exhibit";

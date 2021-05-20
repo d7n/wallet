@@ -1,1 +1,1 @@
-var mnemonic = "meadow horn limit certain plunge visa scale journey spoon better movie define";
+var mnemonic = "popular sight emotion chair angry youth addict honey glare aisle country leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "poet sort orbit arm noodle already there aisle shoulder bunker equal onion";
+var mnemonic = "castle reflect isolate frog boat knee awake argue october gain isolate copy";

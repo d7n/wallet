@@ -1,1 +1,1 @@
-var mnemonic = "earn pony coconut slim obtain bread laugh certain just win hire noise";
+var mnemonic = "person basic useful plunge birth salad clock over husband come bar beauty";

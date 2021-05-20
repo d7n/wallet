@@ -1,1 +1,1 @@
-var mnemonic = "kit bonus like outer shaft length bracket depart kind gauge worth olympic";
+var mnemonic = "employ uncover immense pair picture dry three hundred infant liberty judge crew";

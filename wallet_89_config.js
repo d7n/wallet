@@ -1,1 +1,1 @@
-var mnemonic = "style list fan around gossip awkward bulb erosion exit boost genre jelly";
+var mnemonic = "gospel swear pledge front myth cross boy couch brain embrace glass various";

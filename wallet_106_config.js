@@ -1,1 +1,1 @@
-var mnemonic = "pill mom leisure person sniff crouch inner grocery alley pumpkin parent law";
+var mnemonic = "upgrade trigger laugh whale puppy trap company someone canal express impulse glare";

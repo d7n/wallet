@@ -1,1 +1,1 @@
-var mnemonic = "social rich off gap warfare size seminar artist urban rebuild innocent note";
+var mnemonic = "trade wash this ivory poet execute super degree tomorrow ice grit pony";

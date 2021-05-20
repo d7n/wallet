@@ -1,1 +1,1 @@
-var mnemonic = "roof panther vital rocket rescue teach train puzzle suffer flag pipe dynamic";
+var mnemonic = "leaf figure camera mom detail vital place snow fan artist expire siege";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm subject guitar powder swift brave jar finish collect panther escape lion";
+var mnemonic = "blast behind amount own banana embody year merge suspect uniform bounce gesture";

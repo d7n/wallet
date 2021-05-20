@@ -1,1 +1,1 @@
-var mnemonic = "stable voice present rare awesome chief soldier student thunder bomb arrow display";
+var mnemonic = "sand nurse spider law arrive delay jacket thunder tube sense melody real";

@@ -1,1 +1,1 @@
-var mnemonic = "play garage neither agree piano ocean hard medal ten cargo soft expand";
+var mnemonic = "whip suit kit trigger divorce boil buzz fix citizen remain marine elite";

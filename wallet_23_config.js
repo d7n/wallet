@@ -1,1 +1,1 @@
-var mnemonic = "expand ski pony bid claw enhance rail surround stem steel piece nuclear";
+var mnemonic = "almost winter dismiss reform frost grunt enable journey flush rescue pelican improve";

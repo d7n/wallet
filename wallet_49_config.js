@@ -1,1 +1,1 @@
-var mnemonic = "govern easily smoke injury sausage boy wrap wise neither try walnut gown";
+var mnemonic = "road potato follow hole crawl ignore august trash teach minor resource romance";

@@ -1,1 +1,1 @@
-var mnemonic = "broken alley slot peace slim host valley cover retire wheat claim drink";
+var mnemonic = "rabbit smoke silver combine ahead vacuum involve shadow cluster diet forget market";

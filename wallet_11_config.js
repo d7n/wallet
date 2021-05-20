@@ -1,1 +1,1 @@
-var mnemonic = "gather riot labor voice push spread harsh tennis chat segment ten property";
+var mnemonic = "help benefit pizza moral cat merge eight bird select sweet oven banana";

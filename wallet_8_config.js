@@ -1,1 +1,1 @@
-var mnemonic = "situate rather immune traffic fitness recall return sweet forum ridge notable erosion";
+var mnemonic = "under major inside ugly approve uncover usual dinosaur distance crane sort family";

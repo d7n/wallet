@@ -1,1 +1,1 @@
-var mnemonic = "gown limb ketchup void buddy choice oyster lunar wave wasp sugar alone";
+var mnemonic = "copy victory wise primary retire session ancient hotel possible inspire tide episode";

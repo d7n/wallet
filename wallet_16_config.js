@@ -1,1 +1,1 @@
-var mnemonic = "voice jewel square until tongue little pave angle donate urge plate govern";
+var mnemonic = "clump banner cancel crater uniform impulse claim witness skill quiz review build";

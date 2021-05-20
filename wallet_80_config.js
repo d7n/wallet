@@ -1,1 +1,1 @@
-var mnemonic = "predict antenna train butter refuse system skull lava flame drastic hungry acquire";
+var mnemonic = "disease lazy artefact retreat track source olympic art book source slot twice";

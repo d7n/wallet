@@ -1,1 +1,1 @@
-var mnemonic = "label business physical peace rigid beach tide april enrich film mobile ghost";
+var mnemonic = "lecture lyrics gadget core frog since story morning topple broken kangaroo sponsor";

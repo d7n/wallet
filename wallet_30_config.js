@@ -1,1 +1,1 @@
-var mnemonic = "humor toss dumb decline push foil become neutral marriage pizza idea absurd";
+var mnemonic = "turkey vicious opera head trophy sentence dentist alert easy layer piece mom";

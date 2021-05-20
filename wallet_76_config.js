@@ -1,1 +1,1 @@
-var mnemonic = "anger cliff globe worth helmet aunt hole staff furnace brief evidence canvas";
+var mnemonic = "betray index quantum hint short screen wise error mango autumn catch success";

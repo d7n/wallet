@@ -1,1 +1,1 @@
-var mnemonic = "bring gift pioneer clerk update melt stick weird liar oyster scene butter";
+var mnemonic = "bone nose cheese almost common click winner topple blade frog walk filter";

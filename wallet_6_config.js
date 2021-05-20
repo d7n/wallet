@@ -1,1 +1,1 @@
-var mnemonic = "feel access october horse endorse reform recall deposit tunnel isolate athlete error";
+var mnemonic = "mandate zoo ordinary sauce enter hour truth portion apology type solution brush";

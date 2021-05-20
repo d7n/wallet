@@ -1,1 +1,1 @@
-var mnemonic = "green common open garbage hurry gym top pull file menu rain subject";
+var mnemonic = "seek camera buddy gossip item repair plunge clean faith ten carry trim";

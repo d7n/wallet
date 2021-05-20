@@ -1,1 +1,1 @@
-var mnemonic = "disease frozen history today crawl capable pilot cabbage tuition damp caution knife";
+var mnemonic = "stick adult quality urge check where believe pole coast robot name dress";

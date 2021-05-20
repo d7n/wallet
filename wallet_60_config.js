@@ -1,1 +1,1 @@
-var mnemonic = "grid always apple citizen rabbit avocado remind poet end decline borrow over";
+var mnemonic = "duty warm judge bench reveal pride loop undo grow muffin inch february";

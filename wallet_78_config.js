@@ -1,1 +1,1 @@
-var mnemonic = "convince coffee virtual off divide burst company vessel bike burden erode latin";
+var mnemonic = "only multiply segment leader omit pet subway coral design side involve learn";

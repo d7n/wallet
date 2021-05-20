@@ -1,1 +1,1 @@
-var mnemonic = "list forget problem faculty inject catalog pet purpose hood chef novel bronze";
+var mnemonic = "wide vote harbor cheese athlete zebra vintage nose purpose acquire almost puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "slow space equal near mystery adjust pass grain waste cash flight stomach";
+var mnemonic = "year lounge high actual verify endless fiction record sail toss coach other";

@@ -1,1 +1,1 @@
-var mnemonic = "pact critic wish potato believe mesh select enemy furnace lottery warfare enemy";
+var mnemonic = "deliver relax shallow hollow donate kangaroo twenty middle merit layer comfort join";

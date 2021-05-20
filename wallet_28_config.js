@@ -1,1 +1,1 @@
-var mnemonic = "deliver mountain rhythm mean admit isolate river copper tourist coffee provide enter";
+var mnemonic = "token tiny soul zebra nation dirt alley speak combine blood grow kite";

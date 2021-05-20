@@ -1,1 +1,1 @@
-var mnemonic = "lottery fold much lemon city despair globe skull humor aim punch junk";
+var mnemonic = "hard fossil shop trim payment ozone topple question edit scrub prize neutral";

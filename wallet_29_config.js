@@ -1,1 +1,1 @@
-var mnemonic = "brief tiny spoil cabin tunnel exile inmate apple divorce slot alarm unfold";
+var mnemonic = "stick another theme farm stand shift pink improve dust private orphan parade";

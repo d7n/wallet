@@ -1,1 +1,1 @@
-var mnemonic = "deputy wise couch tape identify sell family blur bacon catch debris sweet";
+var mnemonic = "desk indoor zoo hobby pill march sketch erosion wool butter runway enlist";

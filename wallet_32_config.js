@@ -1,1 +1,1 @@
-var mnemonic = "kite wheel chalk rabbit note grace orient twist capable patrol chat text";
+var mnemonic = "all hurdle shoe sun mistake drama there face gentle ocean wrist virus";

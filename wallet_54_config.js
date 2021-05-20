@@ -1,1 +1,1 @@
-var mnemonic = "egg joy grape cook arrive risk crack ridge bless purse echo dolphin";
+var mnemonic = "soap fork avoid comic nerve bus expand rough urban dance design matter";

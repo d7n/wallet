@@ -1,1 +1,1 @@
-var mnemonic = "easy mixture fantasy theory acid flat mean tornado beyond tape vocal canvas";
+var mnemonic = "test mirror chef behave gift slide salute squirrel protect pipe dry disagree";

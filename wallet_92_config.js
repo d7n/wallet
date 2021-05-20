@@ -1,1 +1,1 @@
-var mnemonic = "again sunny neutral metal member panel prize eye elite section brisk taxi";
+var mnemonic = "also inflict random above recipe comfort question inhale vendor now weird attract";

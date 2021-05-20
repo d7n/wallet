@@ -1,1 +1,1 @@
-var mnemonic = "merge clarify region item stamp swap meat neck core believe nose spatial";
+var mnemonic = "hazard obvious wood insane face hammer guard camp online broken flip mad";

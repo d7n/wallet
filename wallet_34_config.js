@@ -1,1 +1,1 @@
-var mnemonic = "grunt brisk pair marine lunch oak green job swear devote sentence conduct";
+var mnemonic = "luggage jeans ocean agree quality coast major raise salmon congress day debate";

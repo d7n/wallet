@@ -1,1 +1,1 @@
-var mnemonic = "cereal alpha foil oak execute frozen humor stay match unhappy hamster vital";
+var mnemonic = "decline bench soccer own often forward auto miracle birth denial fee mango";

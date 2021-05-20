@@ -1,1 +1,1 @@
-var mnemonic = "silent forward envelope south curtain plug divorce topple mom fluid runway garden";
+var mnemonic = "dismiss harbor basic crucial ostrich lecture measure cereal order feel sense laugh";

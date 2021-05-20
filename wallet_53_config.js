@@ -1,1 +1,1 @@
-var mnemonic = "polar toe embrace lend dinner indicate lift rigid farm build peace another";
+var mnemonic = "disease acoustic rubber cruel tumble square knock crime define grief erupt uniform";

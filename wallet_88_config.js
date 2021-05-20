@@ -1,1 +1,1 @@
-var mnemonic = "praise upgrade denial cave opinion club work birth hello brief pudding doll";
+var mnemonic = "wedding victory net behind glimpse orchard diamond gossip pond medal letter weekend";

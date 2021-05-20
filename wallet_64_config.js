@@ -1,1 +1,1 @@
-var mnemonic = "faculty toddler buzz slight wash spider blur milk fatigue decide wolf region";
+var mnemonic = "knee eagle dumb summer cream buffalo wood tail anger obvious flip since";

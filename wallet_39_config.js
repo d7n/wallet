@@ -1,1 +1,1 @@
-var mnemonic = "butter cake merge average wrist giant bitter bottom unique entire because loop";
+var mnemonic = "crystal capital explain pact blanket sponsor stool skin clarify inherit ecology soda";

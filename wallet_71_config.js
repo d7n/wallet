@@ -1,1 +1,1 @@
-var mnemonic = "juice hover main radio pelican people paddle curve because intact sauce science";
+var mnemonic = "hungry extra property account enough topple noodle chase monster fork burst predict";

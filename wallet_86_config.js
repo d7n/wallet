@@ -1,1 +1,1 @@
-var mnemonic = "noise cushion uncover salute attack general leave fetch exercise pyramid exhibit flip";
+var mnemonic = "page hello load speak chair warm print ethics radar repeat siege major";

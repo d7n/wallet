@@ -1,1 +1,1 @@
-var mnemonic = "before balcony tray actor bicycle camp nurse thrive area dune mixture gentle";
+var mnemonic = "dirt blue tooth wear abstract seed black flavor vote extend dust winner";

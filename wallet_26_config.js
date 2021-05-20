@@ -1,1 +1,1 @@
-var mnemonic = "retire proof horn cage tube extra accident gauge reward zebra similar blue";
+var mnemonic = "cactus alley alarm female turn remain invest paper before expand scrub crouch";

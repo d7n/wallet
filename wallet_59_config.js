@@ -1,1 +1,1 @@
-var mnemonic = "lawn scrub marine episode upper ahead valley menu glide notable front symptom";
+var mnemonic = "sick lunch regret worth chimney follow audit invest pink boil census exercise";

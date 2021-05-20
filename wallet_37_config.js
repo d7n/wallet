@@ -1,1 +1,1 @@
-var mnemonic = "soldier cluster welcome plate hammer soft index nominee weasel shield tide mixed";
+var mnemonic = "crane broom market tower faint grab midnight avocado music can tomorrow topic";

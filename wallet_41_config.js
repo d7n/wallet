@@ -1,1 +1,1 @@
-var mnemonic = "simple inner onion fabric corn blouse horse verify age steak theory jewel";
+var mnemonic = "mind wide stand fox nut curtain egg inner heavy minor analyst discover";

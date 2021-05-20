@@ -1,1 +1,1 @@
-var mnemonic = "cheap crew topic embody tackle stand lottery fork own arm shallow file";
+var mnemonic = "salon record laugh hidden frog spring accident hawk nephew found custom radar";

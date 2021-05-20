@@ -1,1 +1,1 @@
-var mnemonic = "gasp swift flee also sorry valid lawn word lock lottery stone ensure";
+var mnemonic = "fee normal symbol mix dawn rhythm rabbit health school trust develop come";

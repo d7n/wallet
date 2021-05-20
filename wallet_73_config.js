@@ -1,1 +1,1 @@
-var mnemonic = "local emotion rose object exhibit carbon whale average bounce mistake keep seven";
+var mnemonic = "narrow trade remain direct effort blood pony mule fat shrug hamster void";

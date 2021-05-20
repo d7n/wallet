@@ -1,1 +1,1 @@
-var mnemonic = "correct easy nothing local robot blossom coffee pupil hollow capital race naive";
+var mnemonic = "rack mandate clay volcano orient cargo ginger tube noise rose plastic airport";

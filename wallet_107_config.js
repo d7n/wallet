@@ -1,1 +1,1 @@
-var mnemonic = "response retreat animal leader random future mouse couple parent remind unknown month";
+var mnemonic = "spider evidence immune clean mad safe what real patient junior frost bag";

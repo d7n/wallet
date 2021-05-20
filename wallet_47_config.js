@@ -1,1 +1,1 @@
-var mnemonic = "cart project veteran erase budget abstract cycle receive industry super pen unveil";
+var mnemonic = "kid jacket reduce flush solid guilt warrior sponsor impulse diagram father either";

@@ -1,1 +1,1 @@
-var mnemonic = "weather hungry model balance black diamond vivid potato trade venture all use";
+var mnemonic = "cannon wreck okay arm symptom shell wide mad arch state wage entry";

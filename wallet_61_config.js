@@ -1,1 +1,1 @@
-var mnemonic = "wisdom strong sketch ethics critic shrimp chuckle water fly stand bonus kiss";
+var mnemonic = "trophy million glass catalog drill salon seminar race art kiwi thing dinosaur";

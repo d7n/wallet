@@ -1,1 +1,1 @@
-var mnemonic = "broccoli adapt tourist there just clutch solve bottom advice brick whale layer";
+var mnemonic = "vibrant guitar often stomach rose shrimp proud select mention ice student lunch";

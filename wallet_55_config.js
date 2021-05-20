@@ -1,1 +1,1 @@
-var mnemonic = "gaze merge chest pulp token begin angle cake wage shove bike sense";
+var mnemonic = "scheme voyage poem swallow vehicle picture between process lucky eye cancel fuel";

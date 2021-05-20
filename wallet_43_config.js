@@ -1,1 +1,1 @@
-var mnemonic = "round camp shrimp staff shrimp loop toss book sea ready saddle move";
+var mnemonic = "tide firm tribe ivory draft goose blossom change tomato depart repeat segment";

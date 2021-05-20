@@ -1,1 +1,1 @@
-var mnemonic = "meat swarm seek fossil relax pride payment melt between beach mention solid";
+var mnemonic = "birth property need delay major catch one kite fold spend flavor sentence";

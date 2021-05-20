@@ -1,1 +1,1 @@
-var mnemonic = "priority stock industry patch liquid scan crane wide priority fall apple where";
+var mnemonic = "flavor floor near craft super month boost abuse maid among mimic nothing";

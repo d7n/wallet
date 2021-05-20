@@ -1,1 +1,1 @@
-var mnemonic = "special parent adult write unlock mask garlic earth blush turn mutual interest";
+var mnemonic = "purchase moon split suspect orient glance only glory retire lunch enter hero";

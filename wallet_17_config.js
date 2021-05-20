@@ -1,1 +1,1 @@
-var mnemonic = "flavor idle rifle east magnet license pen album skirt peanut annual wear";
+var mnemonic = "exit chunk motor height egg circle lava embody adjust inspire next prize";

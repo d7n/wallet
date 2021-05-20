@@ -1,1 +1,1 @@
-var mnemonic = "depth awkward few hire bridge fashion palace will creek wall chronic hidden";
+var mnemonic = "toy bounce tell soul elite angle total pupil edit begin turkey ketchup";

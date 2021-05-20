@@ -1,1 +1,1 @@
-var mnemonic = "fly divert faint mother bronze ribbon girl advice sketch bargain goddess decorate";
+var mnemonic = "sell runway gasp emotion car dog awake leg photo visit firm pink";

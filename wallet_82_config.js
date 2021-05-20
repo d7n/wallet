@@ -1,1 +1,1 @@
-var mnemonic = "museum drive slush volume pride spot foster sample someone cactus witness wolf";
+var mnemonic = "clinic violin invest parrot actual lawsuit material accident script okay betray random";

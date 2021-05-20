@@ -1,1 +1,1 @@
-var mnemonic = "enemy fox guard eight stove auto monitor evidence artwork play describe smoke";
+var mnemonic = "insane barely dad cactus delay improve joke reflect shoe search rough text";

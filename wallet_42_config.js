@@ -1,1 +1,1 @@
-var mnemonic = "target adapt blush space sport cluster peasant hotel moon rely crystal hammer";
+var mnemonic = "object loyal rose broom boss snow crew bacon bike tornado clerk cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "bless farm exhibit mandate degree funny art thunder leg wife deny invite";
+var mnemonic = "then flower loyal dilemma social dish neglect bronze man silk view dish";

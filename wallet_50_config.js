@@ -1,1 +1,1 @@
-var mnemonic = "latin traffic various nut palace ethics bonus hole occur smile slide orient";
+var mnemonic = "aware skin outdoor fortune evil cat find quiz hedgehog end scorpion hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover quarter outer virus muscle local track meadow old dog radar adult";
+var mnemonic = "remove detail tip bread square process patch door display curious garment step";

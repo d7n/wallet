@@ -1,1 +1,1 @@
-var mnemonic = "universe umbrella antenna audit flash spread flame grocery total other defy kidney";
+var mnemonic = "usual nature ship zebra copper sense setup congress place face home prepare";

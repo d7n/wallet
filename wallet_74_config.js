@@ -1,1 +1,1 @@
-var mnemonic = "beyond art screen speak lion cook kite travel glue involve scrub umbrella";
+var mnemonic = "skull innocent theme tissue refuse visit mention debate image oval uniform parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "lake bird try loyal cement document mom sauce tissue ice actor action";
+var mnemonic = "face essay frozen penalty away drill waste noodle cake crawl enhance exercise";

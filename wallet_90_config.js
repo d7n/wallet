@@ -1,1 +1,1 @@
-var mnemonic = "water budget animal mandate meadow pitch face hold play empower mixed exact";
+var mnemonic = "man dwarf scare differ purse possible mammal shell hope cruise snow awesome";

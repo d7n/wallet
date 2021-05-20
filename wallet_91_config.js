@@ -1,1 +1,1 @@
-var mnemonic = "unit cushion immense aware symptom cat wool topic come news solution effort";
+var mnemonic = "seed best youth describe delay modify skin noble provide runway infant arctic";

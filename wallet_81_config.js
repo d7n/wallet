@@ -1,1 +1,1 @@
-var mnemonic = "journey lizard erase state dial castle embrace clay return student domain book";
+var mnemonic = "bench submit priority color indicate climb rigid perfect fish vapor pulse unveil";

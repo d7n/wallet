@@ -1,1 +1,1 @@
-var mnemonic = "wash rule rapid burst fruit rhythm identify cycle viable must buddy disagree";
+var mnemonic = "bicycle deer blush game divide bicycle asthma country arctic useless grief lucky";

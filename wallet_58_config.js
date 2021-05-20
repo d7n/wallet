@@ -1,1 +1,1 @@
-var mnemonic = "paper balance figure away usual jazz air still suggest winter laundry cube";
+var mnemonic = "wolf extend thank type melody credit fall wet enemy width certain source";

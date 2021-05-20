@@ -1,1 +1,1 @@
-var mnemonic = "staff runway flee now lens tooth battle fatigue grid hello youth flip";
+var mnemonic = "orient panda december junior bonus angle much bounce churn topple pyramid profit";

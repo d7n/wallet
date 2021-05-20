@@ -1,1 +1,1 @@
-var mnemonic = "flash crucial echo logic cable wire jungle cannon match swarm depart basket";
+var mnemonic = "another debate more silly parade amount young urban castle butter divorce female";

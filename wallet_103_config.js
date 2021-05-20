@@ -1,1 +1,1 @@
-var mnemonic = "illegal traffic already material gown kick ski reveal end ahead scare engage";
+var mnemonic = "museum double happy alter tool skate identify minute risk spawn good appear";

@@ -1,1 +1,1 @@
-var mnemonic = "night token dentist olive ecology buzz lecture finger isolate video gauge finger";
+var mnemonic = "lady lecture solve tone ready tuna clay mule seven choose year hope";
