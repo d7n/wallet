@@ -1,1 +1,1 @@
-var mnemonic = "bag melt picture mammal forum believe culture artwork invest fuel kick gown";
+var mnemonic = "left spirit gather tape lawsuit morning exercise army only wood cream index";

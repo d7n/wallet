@@ -1,1 +1,1 @@
-var mnemonic = "assume leisure casual review useful become ahead kiwi tackle flash imitate inform";
+var mnemonic = "deposit leisure nice behave large degree length midnight mechanic resist mosquito live";

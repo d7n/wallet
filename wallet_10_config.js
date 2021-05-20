@@ -1,1 +1,1 @@
-var mnemonic = "dutch ethics option message rookie twist work owner veteran fossil mesh dice";
+var mnemonic = "extra food news image found please fog noble health spare nuclear knee";

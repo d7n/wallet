@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow shell soldier cousin medal gift fashion choose wise beach bicycle owner";
+var mnemonic = "wine clever chef marine net oxygen another reveal primary burden explain vehicle";

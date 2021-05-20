@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow eagle will super neither convince someone object enter auction embrace identify";
+var mnemonic = "copy much body angle dish level dynamic reason reward dwarf inflict wonder";

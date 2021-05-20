@@ -1,1 +1,1 @@
-var mnemonic = "wall kangaroo lava cart life carpet vessel scorpion attitude course donor crash";
+var mnemonic = "gentle submit extra intact page disease pupil antenna cart like develop soda";

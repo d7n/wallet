@@ -1,1 +1,1 @@
-var mnemonic = "kiwi glad life wife inside asset bamboo hill destroy front film blouse";
+var mnemonic = "orient drink copy twelve sibling spray hire mean cherry solution west capital";

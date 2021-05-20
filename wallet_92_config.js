@@ -1,1 +1,1 @@
-var mnemonic = "action region sniff opera young diamond climb lady exhibit attitude grow develop";
+var mnemonic = "cost sting donor cricket program clay giggle ball child stage affair boat";

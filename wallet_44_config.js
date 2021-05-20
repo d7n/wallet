@@ -1,1 +1,1 @@
-var mnemonic = "sunset have thank sad clap zebra bracket comic shaft state silver trick";
+var mnemonic = "artefact swear season deer mixed immune judge power few client meat museum";

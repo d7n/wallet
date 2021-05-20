@@ -1,1 +1,1 @@
-var mnemonic = "into ecology dwarf umbrella buzz fiscal mom fatigue culture idle snow steel";
+var mnemonic = "dad address connect company potato furnace abandon rate year drink champion program";

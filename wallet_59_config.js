@@ -1,1 +1,1 @@
-var mnemonic = "boy again company history click neck van person soul split tumble mimic";
+var mnemonic = "latin badge chief breeze found stuff arrow label lock joy reflect sister";

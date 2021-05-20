@@ -1,1 +1,1 @@
-var mnemonic = "forest top odor loop cinnamon december insane amazing ethics black dash stand";
+var mnemonic = "sick sense student ancient mistake arm orphan coral december income exit remember";

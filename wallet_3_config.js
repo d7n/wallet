@@ -1,1 +1,1 @@
-var mnemonic = "adapt banner please nest moment off van glad vast mean casual wife";
+var mnemonic = "march umbrella alone notable dragon logic trumpet icon avocado defense mushroom mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "slot void tail repeat glare lend camp family metal box time trim";
+var mnemonic = "immune task wave annual enrich heavy truck october program eye neglect shift";

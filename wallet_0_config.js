@@ -1,1 +1,1 @@
-var mnemonic = "tell globe blame nominee prepare example labor undo symbol craft egg nothing";
+var mnemonic = "noise truck rebuild edit route digital oblige stock crop dwarf day lumber";

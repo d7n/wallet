@@ -1,1 +1,1 @@
-var mnemonic = "below parade bamboo moon approve aerobic like put wedding bind today pact";
+var mnemonic = "gravity laptop renew voice fold guide skill fabric attitude banner view syrup";

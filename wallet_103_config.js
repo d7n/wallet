@@ -1,1 +1,1 @@
-var mnemonic = "dish ski network cute medal twist survey chuckle only twist lunar awake";
+var mnemonic = "bench athlete tomorrow chief mirror bright card gather taxi erupt wave stem";

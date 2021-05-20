@@ -1,1 +1,1 @@
-var mnemonic = "gas safe sport parrot click across leg that plastic filter whale raven";
+var mnemonic = "moon multiply mass walk absorb always comfort bulk humble snack fame provide";

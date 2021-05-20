@@ -1,1 +1,1 @@
-var mnemonic = "accuse hint where joy sponsor image wolf calm wing hero hint dolphin";
+var mnemonic = "enlist print trade enhance illness cause zone tent bicycle prison hero sustain";

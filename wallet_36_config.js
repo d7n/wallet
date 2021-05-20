@@ -1,1 +1,1 @@
-var mnemonic = "copper damp moral develop pass consider another give toss short length coffee";
+var mnemonic = "visa chapter shove bag sudden grass teach announce cheap tunnel invite help";

@@ -1,1 +1,1 @@
-var mnemonic = "neck bicycle vast learn legend crater tube whisper cross code common select";
+var mnemonic = "hotel believe ritual cabin cliff rural awkward suffer blur rookie win wear";

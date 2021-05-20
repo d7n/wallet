@@ -1,1 +1,1 @@
-var mnemonic = "fitness novel surface bounce breeze team fine sweet post spoil true enrich";
+var mnemonic = "bring monitor raise lumber knock universe siege coconut pattern access angry toe";

@@ -1,1 +1,1 @@
-var mnemonic = "admit stem truly quiz dream surface child swing vast despair gun witness";
+var mnemonic = "club youth scale wear harsh soap almost bulb crush start fog chapter";

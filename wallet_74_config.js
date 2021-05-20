@@ -1,1 +1,1 @@
-var mnemonic = "another sketch beauty chase what water forward bargain immense debate hospital remove";
+var mnemonic = "bundle patrol document wool bracket moment web gravity guitar drift resemble fog";

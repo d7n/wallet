@@ -1,1 +1,1 @@
-var mnemonic = "velvet april bid genius photo hard utility mesh pair tell giraffe mean";
+var mnemonic = "critic empty citizen fury scale second token mask alpha average village legend";

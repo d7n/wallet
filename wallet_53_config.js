@@ -1,1 +1,1 @@
-var mnemonic = "spice recycle belt garlic spin trap radar oil chest faculty hair view";
+var mnemonic = "pelican biology kidney taxi ensure music buzz near end ugly patient visit";

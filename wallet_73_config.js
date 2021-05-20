@@ -1,1 +1,1 @@
-var mnemonic = "maid shadow result multiply escape faint hawk intact brisk next air future";
+var mnemonic = "aerobic devote between harvest away tunnel nose that oval imitate bunker disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "invest equal wage grocery eternal slot gesture hamster couple best rabbit share";
+var mnemonic = "save antique card start plate sure item cram able enforce inject mirror";

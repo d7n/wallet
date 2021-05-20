@@ -1,1 +1,1 @@
-var mnemonic = "lunch marine wire brain injury energy slide harvest insect leg similar innocent";
+var mnemonic = "salon copy tragic spin shadow race broccoli buffalo slim fox police remain";

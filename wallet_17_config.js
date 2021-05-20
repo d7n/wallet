@@ -1,1 +1,1 @@
-var mnemonic = "guilt oppose letter hood urban minute subject clog payment critic vibrant milk";
+var mnemonic = "civil timber issue garlic fossil chalk sure immense make risk dawn dirt";

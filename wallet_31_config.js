@@ -1,1 +1,1 @@
-var mnemonic = "enrich weird rich loop piece toast clip divorce royal advance repair wood";
+var mnemonic = "lazy catalog kit drink fatigue decide erosion taste slide brick resource thought";

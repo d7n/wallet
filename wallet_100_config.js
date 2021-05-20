@@ -1,1 +1,1 @@
-var mnemonic = "bitter maple present lion display give company alter chimney mention firm actress";
+var mnemonic = "taxi female witness tenant north rib august warrior doll tuna model also";

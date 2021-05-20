@@ -1,1 +1,1 @@
-var mnemonic = "judge carry harsh panda casino scare memory pelican move two carbon render";
+var mnemonic = "cruise bread squeeze nut limb uphold quote knock digital globe brain school";

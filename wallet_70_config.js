@@ -1,1 +1,1 @@
-var mnemonic = "sun lady satoshi brain upper skate phrase vast treat vanish strong road";
+var mnemonic = "spatial answer raven unlock angry bubble seek walk tilt gorilla upset concert";

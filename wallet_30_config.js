@@ -1,1 +1,1 @@
-var mnemonic = "width regret fine amateur coach gaze choice dress leg drip scissors rose";
+var mnemonic = "tube enforce enemy popular knee marble coyote brass wrap cricket hour expand";

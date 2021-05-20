@@ -1,1 +1,1 @@
-var mnemonic = "crack web orchard glance asthma fury genuine crop license thrive fashion protect";
+var mnemonic = "crush pink always resist thunder winner onion stable require flush ahead rookie";

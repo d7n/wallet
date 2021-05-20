@@ -1,1 +1,1 @@
-var mnemonic = "reform remember web that beef bronze neither save relax response awesome vintage";
+var mnemonic = "knife soul exist problem safe error wait raven animal assist cricket during";

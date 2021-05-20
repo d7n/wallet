@@ -1,1 +1,1 @@
-var mnemonic = "sure smooth swim orient truly trigger inquiry hair want bleak bacon shallow";
+var mnemonic = "milk guide only rescue whisper engage vanish term quiz drill text arch";

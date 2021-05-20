@@ -1,1 +1,1 @@
-var mnemonic = "harbor stove rich thing thumb stand report lend limb domain oxygen soon";
+var mnemonic = "detect voice define cotton retire ketchup kitchen hill inject test race wood";

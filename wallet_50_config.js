@@ -1,1 +1,1 @@
-var mnemonic = "obscure calm mouse bag napkin meadow float unlock taste agree replace topic";
+var mnemonic = "assault actual scorpion minute opinion there lumber caution retire tag grab pyramid";

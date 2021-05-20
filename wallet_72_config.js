@@ -1,1 +1,1 @@
-var mnemonic = "practice tortoise swamp identify vehicle elephant regret agree vivid print apology spy";
+var mnemonic = "sentence trust tongue census solar swap report style paper wink page tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "earn angle naive fatal steak cook imitate burden pull glance ill pear";
+var mnemonic = "swear pride culture orbit season chimney pear gold now column soccer pear";

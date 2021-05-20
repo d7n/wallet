@@ -1,1 +1,1 @@
-var mnemonic = "siege panel recipe merry rotate hospital milk maple dignity about patient broccoli";
+var mnemonic = "robot woman monkey estate wasp update era sleep way cinnamon satisfy expose";

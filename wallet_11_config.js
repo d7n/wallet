@@ -1,1 +1,1 @@
-var mnemonic = "powder favorite way exotic diamond melt clerk valve praise logic across enough";
+var mnemonic = "hard injury swift rifle describe lizard attract device visa exact wool sea";

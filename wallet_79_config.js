@@ -1,1 +1,1 @@
-var mnemonic = "obey area birth crash supreme float stand wing biology lock wire strong";
+var mnemonic = "bitter thought check festival grab salon object captain mean stable exit antenna";

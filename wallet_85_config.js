@@ -1,1 +1,1 @@
-var mnemonic = "typical require victory grape slab raise tomorrow review brush illegal whip evidence";
+var mnemonic = "diamond vicious fiber satisfy sheriff erupt liquid cheese seminar feature settle during";

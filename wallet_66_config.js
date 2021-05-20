@@ -1,1 +1,1 @@
-var mnemonic = "shrimp cruel great vicious put volume hood arrange ship minimum mansion scorpion";
+var mnemonic = "episode satoshi shed drip eye vendor believe slush draft lamp toss swing";

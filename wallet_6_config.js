@@ -1,1 +1,1 @@
-var mnemonic = "picnic almost scrap noodle notable engine sauce math auction boat lonely soft";
+var mnemonic = "behind garlic daring good stumble cotton puzzle parent affair puppy easy mouse";

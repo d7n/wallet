@@ -1,1 +1,1 @@
-var mnemonic = "pioneer artwork robot recipe solar truly notable junk comfort common stuff remember";
+var mnemonic = "shop finger pink skate open enemy word diary together connect sugar ball";

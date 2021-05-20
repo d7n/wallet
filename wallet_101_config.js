@@ -1,1 +1,1 @@
-var mnemonic = "light fame empty addict luggage father enter seat stove absurd antenna wish";
+var mnemonic = "jelly deer glide wisdom game artefact primary hill call popular retire hair";

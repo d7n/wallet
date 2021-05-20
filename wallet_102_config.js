@@ -1,1 +1,1 @@
-var mnemonic = "panel size wave mom seed spatial real near void wrong piano defy";
+var mnemonic = "salad major manual bunker dad noodle devote system cram okay menu either";

@@ -1,1 +1,1 @@
-var mnemonic = "valid raise picture infant attend improve hen arena pony pull travel flower";
+var mnemonic = "match gaze orbit pig goose boost rebel ozone credit hood thank bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "member soon worry document sport furnace crazy cement genius unknown wedding believe";
+var mnemonic = "cake cherry silent mixed hurt gun prepare gentle orbit equal say face";

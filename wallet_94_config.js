@@ -1,1 +1,1 @@
-var mnemonic = "bar equal success twice emerge ship range gown menu parade opinion peace";
+var mnemonic = "detail either struggle accuse leader frozen gloom jar open middle mansion vibrant";

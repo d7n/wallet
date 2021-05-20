@@ -1,1 +1,1 @@
-var mnemonic = "net minute injury unfold track draft around clog copy universe clean someone";
+var mnemonic = "resemble craft crowd prison bomb capable matrix brisk mimic quantum coconut depth";

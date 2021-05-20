@@ -1,1 +1,1 @@
-var mnemonic = "habit journey pepper leisure slender fever address ritual travel mandate birth rail";
+var mnemonic = "miracle symptom army trend demise either festival flame quantum liberty chuckle trim";

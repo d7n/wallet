@@ -1,1 +1,1 @@
-var mnemonic = "initial tired stadium frame lava target casino thunder invest easily fault degree";
+var mnemonic = "turn remove bottom absorb dinosaur measure foil have kiwi throw area clay";

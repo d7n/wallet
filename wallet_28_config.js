@@ -1,1 +1,1 @@
-var mnemonic = "garment leisure visual scout essay bid turtle cram tilt assist farm entry";
+var mnemonic = "predict frown round bounce soccer team glare dizzy travel piece work patch";

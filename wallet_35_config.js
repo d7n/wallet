@@ -1,1 +1,1 @@
-var mnemonic = "evidence paddle balcony patch flavor antique surround theme security increase razor boring";
+var mnemonic = "finger despair current grit inmate force butter violin oval drill inside parrot";

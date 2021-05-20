@@ -1,1 +1,1 @@
-var mnemonic = "turtle seek disease message quit idea hidden banner winter diesel pill harvest";
+var mnemonic = "catch lamp soup speed penalty blossom surprise sad mail neck route avoid";

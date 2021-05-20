@@ -1,1 +1,1 @@
-var mnemonic = "permit deal drama stereo robust jealous diesel dolphin asthma genuine actress horror";
+var mnemonic = "diet situate snow damage lady put exist impose excess age cargo appear";

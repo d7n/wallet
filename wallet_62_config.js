@@ -1,1 +1,1 @@
-var mnemonic = "clarify tag mandate airport magnet consider sound enter please orbit industry dolphin";
+var mnemonic = "fiber crash lawn phrase general rookie adjust apple champion syrup genius three";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze wife lumber company tuition churn amount destroy you kick vacant fortune";
+var mnemonic = "enlist release depth face dad sell dance slim call verify forest digital";

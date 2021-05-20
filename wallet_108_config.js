@@ -1,1 +1,1 @@
-var mnemonic = "medal blind spell guess crisp bread stage start effort chief seminar midnight";
+var mnemonic = "game brass true budget render diet travel easy stumble price legend hover";

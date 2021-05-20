@@ -1,1 +1,1 @@
-var mnemonic = "sunny february shoe wink coach prize hood hole future magnet error double";
+var mnemonic = "acoustic sea owner pretty trigger uncover ignore certain order boost silent phrase";

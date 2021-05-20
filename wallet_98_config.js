@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow only innocent plunge digital cushion shine kingdom noodle genius estate resource";
+var mnemonic = "busy column advice emerge crystal angle volume matrix chat oxygen train day";

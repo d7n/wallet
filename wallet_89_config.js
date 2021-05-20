@@ -1,1 +1,1 @@
-var mnemonic = "visit glimpse usage anger volcano void protect drop mobile draw this practice";
+var mnemonic = "act actual fatal finger frost parade direct pupil olive sphere student lake";

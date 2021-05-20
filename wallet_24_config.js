@@ -1,1 +1,1 @@
-var mnemonic = "olive true electric lab illegal this bridge amount crunch room ten donate";
+var mnemonic = "impulse empower dwarf setup blast limit drastic frequent used giraffe casino inspire";

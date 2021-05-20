@@ -1,1 +1,1 @@
-var mnemonic = "sound cram accuse permit side outer knife run oak cash arrive seven";
+var mnemonic = "dinosaur satisfy virtual admit risk twenty alter mixed grape lawn wine excite";

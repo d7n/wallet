@@ -1,1 +1,1 @@
-var mnemonic = "twin ahead help together swamp correct acoustic explain angle talk faculty right";
+var mnemonic = "check ten maple rose resist wealth virus comic crew local salon tank";

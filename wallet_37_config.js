@@ -1,1 +1,1 @@
-var mnemonic = "thunder outer pretty draw butter tuna undo hungry reduce era curious drum";
+var mnemonic = "spend cherry vessel sign sunny hurry life more universe slice elbow suggest";

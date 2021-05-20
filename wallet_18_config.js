@@ -1,1 +1,1 @@
-var mnemonic = "major gaze neck envelope flag again victory rookie mushroom bus area whale";
+var mnemonic = "beef sentence panda garment doctor work million boil merge slender wheel fold";

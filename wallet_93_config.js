@@ -1,1 +1,1 @@
-var mnemonic = "mom fashion moral hope wheel input mind enhance slot mammal capable owner";
+var mnemonic = "future people this width school weekend grab grit response arrange donate soccer";

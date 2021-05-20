@@ -1,1 +1,1 @@
-var mnemonic = "bicycle engine dad seed enlist slim file panther sniff mesh inflict then";
+var mnemonic = "giant glide useless milk journey recycle corn ice faint scheme oven seven";

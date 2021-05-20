@@ -1,1 +1,1 @@
-var mnemonic = "derive ramp alcohol bullet album time exercise about dizzy exact swamp finish";
+var mnemonic = "ignore hill bright clinic chest dove syrup purity echo wheat glove pill";

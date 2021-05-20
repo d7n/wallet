@@ -1,1 +1,1 @@
-var mnemonic = "manual giraffe drama six real toilet fringe lonely happy nose demand fox";
+var mnemonic = "hip tone noodle scrub lunar wreck taste club quantum off box much";

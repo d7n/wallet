@@ -1,1 +1,1 @@
-var mnemonic = "hint crack avocado midnight fatigue lava enforce cycle prefer boring memory foil";
+var mnemonic = "slender bicycle patient hedgehog pizza pond icon ocean recycle improve rally sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "urge foil cable supreme sketch vendor provide belt dry around runway craft";
+var mnemonic = "track claw tiger cruel excuse donate job hello magnet hair crew work";

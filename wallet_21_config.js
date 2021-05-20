@@ -1,1 +1,1 @@
-var mnemonic = "supply verify wasp brush virtual play put grocery dynamic unlock walk table";
+var mnemonic = "rebel evolve peanut material soccer define pair voyage hockey movie congress bonus";

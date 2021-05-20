@@ -1,1 +1,1 @@
-var mnemonic = "clinic main cluster bright minimum burst milk live tattoo dad will grit";
+var mnemonic = "essence include coconut explain chimney salon allow little again can rhythm hero";

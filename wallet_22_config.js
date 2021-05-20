@@ -1,1 +1,1 @@
-var mnemonic = "monitor domain talent motor attack real brush wink federal device ski trigger";
+var mnemonic = "junk flame transfer position author clump result bid pill trend outer long";

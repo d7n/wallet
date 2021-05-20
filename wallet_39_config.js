@@ -1,1 +1,1 @@
-var mnemonic = "current north bacon faculty knock van arrow gospel pen elder clever inquiry";
+var mnemonic = "hazard candy surround mosquito plug attend weapon old reduce where nest drive";

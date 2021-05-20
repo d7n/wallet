@@ -1,1 +1,1 @@
-var mnemonic = "truck observe replace face under provide close sight visa cycle develop crush";
+var mnemonic = "auction rough uncover want rice alcohol shiver canyon bargain edit estate opera";

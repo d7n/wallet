@@ -1,1 +1,1 @@
-var mnemonic = "fabric huge endless minor humble fade there humble slight silver glass welcome";
+var mnemonic = "stumble attract repeat tumble unaware silly panda destroy throw arctic inherit key";

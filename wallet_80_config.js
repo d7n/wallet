@@ -1,1 +1,1 @@
-var mnemonic = "ordinary machine twin amazing coil illegal allow decrease depth elegant panic letter";
+var mnemonic = "stuff city defense mystery category salute art divorce alter favorite hundred mind";

@@ -1,1 +1,1 @@
-var mnemonic = "canal box behave saddle deputy sadness vacuum stone brave cloth include depart";
+var mnemonic = "clip kind yard mosquito inside exhaust drastic name casino satoshi sheriff trial";

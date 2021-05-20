@@ -1,1 +1,1 @@
-var mnemonic = "seven seven steak seat flush motion eagle pulp floor area lamp member";
+var mnemonic = "comfort jar slender payment problem cross trophy treat spend kitchen affair example";

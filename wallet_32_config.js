@@ -1,1 +1,1 @@
-var mnemonic = "air unknown eager gloom toe tired mix popular into document very corn";
+var mnemonic = "hill attitude wrist jungle fold sunset drama snow liberty bonus cabin cause";

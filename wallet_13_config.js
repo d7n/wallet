@@ -1,1 +1,1 @@
-var mnemonic = "luxury weapon dial season able history mass glue glory dolphin comfort jelly";
+var mnemonic = "nephew obey easily alcohol gospel expect hope always light figure spring rival";

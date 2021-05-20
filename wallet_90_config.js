@@ -1,1 +1,1 @@
-var mnemonic = "juice mesh toddler decade disagree dizzy winner season myth test creek parade";
+var mnemonic = "key fury laugh window stand firm atom order mixture annual snow expect";

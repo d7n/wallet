@@ -1,1 +1,1 @@
-var mnemonic = "village series green million width hotel echo chuckle knee shoe tragic volume";
+var mnemonic = "calm zoo finger organ hurdle design plate spawn cotton curtain cotton attract";

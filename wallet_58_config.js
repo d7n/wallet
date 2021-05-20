@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog aunt crisp recall slide will naive bike nut actual engine category";
+var mnemonic = "fitness lemon sorry hobby iron spread venture harvest lake alien liar castle";

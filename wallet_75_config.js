@@ -1,1 +1,1 @@
-var mnemonic = "symptom myself bottom veteran slender craft fatal ticket drastic endorse firm tail";
+var mnemonic = "burst yard kitten ripple alter property sleep stadium limit boil pulp cattle";

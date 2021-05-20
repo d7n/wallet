@@ -1,1 +1,1 @@
-var mnemonic = "consider license tray flame clinic fall liberty aware series rail deny shock";
+var mnemonic = "virtual solution tunnel script funny nation amazing good egg pluck draw enter";

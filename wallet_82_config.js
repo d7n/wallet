@@ -1,1 +1,1 @@
-var mnemonic = "want supreme physical rescue either crash exclude rifle orient dial choice cart";
+var mnemonic = "ahead aware jealous reward now mansion security evoke cable team leaf audit";
