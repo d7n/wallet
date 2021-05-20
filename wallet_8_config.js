@@ -1,1 +1,1 @@
-var mnemonic = "fix bacon lava gather soul volume virtual solution library prefer battle clock";
+var mnemonic = "attract sphere pill deer arctic seminar tide situate measure blouse color seat";

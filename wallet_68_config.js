@@ -1,1 +1,1 @@
-var mnemonic = "rose possible output absent cave merge coyote test cry way curious figure";
+var mnemonic = "useless remember extend fetch space ribbon creek save million pigeon portion fragile";

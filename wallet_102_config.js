@@ -1,1 +1,1 @@
-var mnemonic = "cabin bulb forest ask six fiscal bundle exit summer unfold sunny copy";
+var mnemonic = "sand mobile celery shoulder learn syrup skin over sad fortune essence gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "glad quiz reveal decide popular also essay yard hover text nice hidden";
+var mnemonic = "remember route mass near initial artist sting moment employ trick trip either";

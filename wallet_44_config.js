@@ -1,1 +1,1 @@
-var mnemonic = "cool buddy hybrid task purse random scissors shock owner wisdom clog cycle";
+var mnemonic = "result abuse scatter harsh pitch wealth mistake rent region forum sock high";

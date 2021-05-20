@@ -1,1 +1,1 @@
-var mnemonic = "asthma dose insane palm inner step obvious crane busy moment science length";
+var mnemonic = "actual clinic tiger trial satoshi submit tray accident daughter bullet impose fun";

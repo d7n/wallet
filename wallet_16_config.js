@@ -1,1 +1,1 @@
-var mnemonic = "repair exhibit rail sad mom nominee chef mammal reward buffalo slice ordinary";
+var mnemonic = "tackle pig decline bone resource witness ill soccer private warm grant fall";

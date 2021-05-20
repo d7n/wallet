@@ -1,1 +1,1 @@
-var mnemonic = "clown crucial shoulder battle defense sentence acid bronze run category undo kitten";
+var mnemonic = "kid pupil label bullet theory small item speak airport recipe egg manual";

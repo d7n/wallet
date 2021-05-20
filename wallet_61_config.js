@@ -1,1 +1,1 @@
-var mnemonic = "edge fold useless page level private click wonder blur work spike shallow";
+var mnemonic = "absorb pony pioneer unlock torch emotion ivory ranch monitor kitten spend siren";

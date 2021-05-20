@@ -1,1 +1,1 @@
-var mnemonic = "roast ability climb expire eight frequent orient pepper olive example major canyon";
+var mnemonic = "horse zebra catch train small luxury confirm autumn two original rate congress";

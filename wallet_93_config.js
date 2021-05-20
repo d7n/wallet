@@ -1,1 +1,1 @@
-var mnemonic = "silly floor inflict convince auction curtain album slogan win enforce maze clip";
+var mnemonic = "sunny roof announce admit dish curve muscle nature mirror theory disagree retreat";

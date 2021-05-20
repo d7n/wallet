@@ -1,1 +1,1 @@
-var mnemonic = "replace crumble amateur amateur same strike calm potato local impact high eagle";
+var mnemonic = "stool identify annual gauge thought snack curious seed quarter vivid ignore mule";

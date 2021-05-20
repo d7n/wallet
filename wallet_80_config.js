@@ -1,1 +1,1 @@
-var mnemonic = "essay uniform century cross casual rich absurd you good uncle source metal";
+var mnemonic = "word busy man high insane grab sword vault collect divorce elephant wild";

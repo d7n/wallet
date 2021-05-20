@@ -1,1 +1,1 @@
-var mnemonic = "flavor phrase collect write hill author caught staff unique regular battle correct";
+var mnemonic = "second holiday duck cream before van leaf evoke rocket neck skull salad";

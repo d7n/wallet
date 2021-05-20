@@ -1,1 +1,1 @@
-var mnemonic = "motion setup stomach exotic walk tourist crack merge fatal talk drip diamond";
+var mnemonic = "fine disease situate arm certain right blouse rebuild practice stone onion vacant";

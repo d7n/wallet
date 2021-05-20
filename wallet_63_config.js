@@ -1,1 +1,1 @@
-var mnemonic = "guard feature flush lock ship miracle achieve hollow detail all crouch slush";
+var mnemonic = "wage detail toy consider spin blade girl term purse tag alone worry";

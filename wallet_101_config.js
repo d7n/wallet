@@ -1,1 +1,1 @@
-var mnemonic = "vapor valley arrow dune jealous glimpse dress tooth margin parent soon music";
+var mnemonic = "print nominee rhythm glow album fan trade equip pelican liquid polar say";

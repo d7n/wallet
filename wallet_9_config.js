@@ -1,1 +1,1 @@
-var mnemonic = "apple okay club endless will cargo outdoor oval volcano choice aware symptom";
+var mnemonic = "garden expose gown cannon across across web alone shine major evidence stage";

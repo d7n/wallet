@@ -1,1 +1,1 @@
-var mnemonic = "dumb smooth fog symptom cute six year that visa special forest guilt";
+var mnemonic = "assume lake prosper inherit stick donkey process rotate develop seat traffic click";

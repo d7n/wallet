@@ -1,1 +1,1 @@
-var mnemonic = "vibrant learn firm shrug drastic search document outside tide witness original pledge";
+var mnemonic = "reflect series view robust enlist giggle awesome slim jelly flock blouse ancient";

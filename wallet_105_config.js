@@ -1,1 +1,1 @@
-var mnemonic = "rocket taste desert improve ready also pattern husband insect smoke cinnamon settle";
+var mnemonic = "layer gain treat remain sphere few slender happy elite doll legal use";

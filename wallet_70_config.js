@@ -1,1 +1,1 @@
-var mnemonic = "shuffle milk speak fiscal depart ancient nation buddy legal evoke harbor truck";
+var mnemonic = "beach witness resist gun pigeon crowd size assume goddess claw nothing claim";

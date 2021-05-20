@@ -1,1 +1,1 @@
-var mnemonic = "umbrella eagle room alpha coin visit stick plastic measure airport now seed";
+var mnemonic = "deal until shadow outer more roast report spike today this bachelor stadium";

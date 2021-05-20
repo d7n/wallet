@@ -1,1 +1,1 @@
-var mnemonic = "good fuel garage soldier shiver action crater village acid vacuum silver excite";
+var mnemonic = "feed tube lake bundle axis bargain impact cannon next veteran cover scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale ensure simple thunder review account casual matrix bike van ready try";
+var mnemonic = "security they network entire swarm beach razor replace empower time into apple";

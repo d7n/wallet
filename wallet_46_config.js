@@ -1,1 +1,1 @@
-var mnemonic = "category estate carry silver thing ethics evil buffalo brother orphan final possible";
+var mnemonic = "kingdom end tonight wonder absorb brief bulk curve minute winner clog enter";

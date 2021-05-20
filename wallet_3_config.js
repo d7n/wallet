@@ -1,1 +1,1 @@
-var mnemonic = "endless ghost benefit sister still burst already blossom bitter language abuse menu";
+var mnemonic = "reject imitate okay congress ghost noble canyon poet isolate object aerobic unaware";

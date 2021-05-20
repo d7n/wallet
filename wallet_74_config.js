@@ -1,1 +1,1 @@
-var mnemonic = "vocal code buzz innocent tissue excuse goat loan clip crane good rose";
+var mnemonic = "this menu carry uphold bitter brief spray decrease two flat razor want";

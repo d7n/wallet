@@ -1,1 +1,1 @@
-var mnemonic = "analyst where pupil giraffe quality unfold slim forget uncover immune require sleep";
+var mnemonic = "emotion skin faith act city easily decrease member silent oil found violin";

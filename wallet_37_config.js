@@ -1,1 +1,1 @@
-var mnemonic = "orient miracle early topple frozen reward first sleep permit purchase rival steak";
+var mnemonic = "valve wool annual universe escape angry robot grape smoke vivid help brand";

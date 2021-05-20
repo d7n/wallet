@@ -1,1 +1,1 @@
-var mnemonic = "jazz grace tray hill account warm supreme bamboo net ability zoo remember";
+var mnemonic = "addict tonight mule panther predict physical subway near gauge barely poet immense";

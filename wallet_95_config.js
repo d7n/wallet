@@ -1,1 +1,1 @@
-var mnemonic = "man figure burden recycle unveil feed link voice friend market normal flee";
+var mnemonic = "fancy vendor depth surge decide margin merge shock tennis conduct seat goddess";

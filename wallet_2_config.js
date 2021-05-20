@@ -1,1 +1,1 @@
-var mnemonic = "physical crowd negative drop pigeon mango harsh wet taxi virtual scout human";
+var mnemonic = "aisle kind chunk giggle round junk output swim degree describe talk raccoon";

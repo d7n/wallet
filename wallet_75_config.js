@@ -1,1 +1,1 @@
-var mnemonic = "use oven biology slogan glow blush lonely elephant treat midnight hamster awesome";
+var mnemonic = "achieve patrol swim figure shock grocery chase rely path october pencil tilt";

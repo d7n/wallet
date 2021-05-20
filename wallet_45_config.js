@@ -1,1 +1,1 @@
-var mnemonic = "hard bronze confirm glory come fire artefact connect squeeze tissue salute wash";
+var mnemonic = "chapter life shop also oxygen target repeat cement pride inner sausage curve";

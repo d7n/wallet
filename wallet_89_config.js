@@ -1,1 +1,1 @@
-var mnemonic = "blood tower tattoo scene burst empower animal online blouse clump arrange certain";
+var mnemonic = "glue ridge around sunset biology useful stem will place win jaguar inject";

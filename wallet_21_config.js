@@ -1,1 +1,1 @@
-var mnemonic = "produce gorilla split danger normal latin prosper lock enemy when what action";
+var mnemonic = "grant zoo mention estate grocery artwork local rhythm body someone suggest chef";

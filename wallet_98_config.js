@@ -1,1 +1,1 @@
-var mnemonic = "acid vibrant enough little strong soul extra cousin rabbit connect claw husband";
+var mnemonic = "culture razor there board volume mean south camp panic amateur radar spoil";

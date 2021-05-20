@@ -1,1 +1,1 @@
-var mnemonic = "multiply pole nasty juice waste protect skin indoor network fabric eye base";
+var mnemonic = "second distance track bench casual wrestle exact lesson burger volcano poverty party";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp gloom ocean enjoy field worry suffer sphere demise fringe strike crime";
+var mnemonic = "index catch bone nominee media brisk whisper assault spread beach dish entry";

@@ -1,1 +1,1 @@
-var mnemonic = "meat bus have mistake page permit elegant suspect nest someone dream mutual";
+var mnemonic = "derive cannon soap table rookie divorce demise burden cabbage proof online cradle";

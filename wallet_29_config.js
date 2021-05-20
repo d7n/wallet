@@ -1,1 +1,1 @@
-var mnemonic = "shallow final hollow claim inside route strong tonight brush torch tube tragic";
+var mnemonic = "sugar chunk puppy diamond rhythm elite fashion chat enhance example sword false";

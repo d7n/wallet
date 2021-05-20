@@ -1,1 +1,1 @@
-var mnemonic = "typical feed clay hub gospel loan pear penalty library good cover sphere";
+var mnemonic = "delay tilt fold round vote hybrid napkin green sail comfort history logic";

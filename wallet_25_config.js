@@ -1,1 +1,1 @@
-var mnemonic = "glide slide select feed verb marble group this elevator prosper surprise cram";
+var mnemonic = "rebuild hidden work meat say resist claim gun time civil essence evoke";

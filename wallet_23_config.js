@@ -1,1 +1,1 @@
-var mnemonic = "transfer account merit awful main road wood garden artwork horror tape spice";
+var mnemonic = "leaf section zebra gold sentence neither angry spend praise elevator giggle cross";

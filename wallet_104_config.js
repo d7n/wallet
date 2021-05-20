@@ -1,1 +1,1 @@
-var mnemonic = "flash trend salt apple hedgehog advance high glove guess canal era uncover";
+var mnemonic = "culture aware wear state control model session only arch gauge under right";

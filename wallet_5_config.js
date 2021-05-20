@@ -1,1 +1,1 @@
-var mnemonic = "prosper chuckle write average cruise runway tobacco guess wage exercise oppose thought";
+var mnemonic = "hamster peasant insane welcome sing wrestle defy fruit light police aim fiber";

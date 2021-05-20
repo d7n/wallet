@@ -1,1 +1,1 @@
-var mnemonic = "ripple brother royal orphan olive under purity uniform solar lonely lesson genre";
+var mnemonic = "bid surround lounge motion refuse jeans diet party build clap oyster abuse";

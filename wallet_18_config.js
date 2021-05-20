@@ -1,1 +1,1 @@
-var mnemonic = "right chicken daughter enjoy truly urge blast mansion unveil female mad useful";
+var mnemonic = "ill correct exhaust kick orange example cube cactus bundle rabbit amount text";

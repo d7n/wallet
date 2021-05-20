@@ -1,1 +1,1 @@
-var mnemonic = "evidence captain arctic amount usage bullet spin balcony story fox crash giggle";
+var mnemonic = "ankle teach together damp silk ready wheel bargain thing hold wasp aerobic";

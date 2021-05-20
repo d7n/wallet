@@ -1,1 +1,1 @@
-var mnemonic = "relax daughter hunt discover type modify scale decorate worry voyage column skirt";
+var mnemonic = "gate fetch winter desert loyal machine float sign jungle danger yard cousin";

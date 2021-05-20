@@ -1,1 +1,1 @@
-var mnemonic = "absorb pledge crunch skill blade lawn setup blush arena right rude load";
+var mnemonic = "dress enrich rent risk blouse reunion defy keep system wife system human";

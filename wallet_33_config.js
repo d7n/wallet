@@ -1,1 +1,1 @@
-var mnemonic = "demand update more unaware degree badge cluster six quick later narrow must";
+var mnemonic = "fold ketchup chalk couple impact seminar crush essay ripple zero misery cheese";

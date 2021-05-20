@@ -1,1 +1,1 @@
-var mnemonic = "hamster business close sniff cash neutral phrase smart alien cram seat pepper";
+var mnemonic = "sight derive relax surface ranch tattoo axis exact fiber end remain jaguar";

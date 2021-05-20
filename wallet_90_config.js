@@ -1,1 +1,1 @@
-var mnemonic = "behind venue enough patient leave tool myself exact cannon wine knee whip";
+var mnemonic = "correct kangaroo chapter harsh organ modify evil talent because utility angry zebra";

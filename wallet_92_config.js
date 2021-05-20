@@ -1,1 +1,1 @@
-var mnemonic = "concert noble tank couple object charge goose biology glass beach winner clog";
+var mnemonic = "huge pattern bachelor moon because exhibit visit lion weekend major various arrow";

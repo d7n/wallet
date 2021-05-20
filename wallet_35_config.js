@@ -1,1 +1,1 @@
-var mnemonic = "vault judge upon sniff educate inflict jungle tilt pen oxygen decorate budget";
+var mnemonic = "museum permit frown giggle sorry inflict portion guitar citizen acquire biology tourist";

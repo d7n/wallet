@@ -1,1 +1,1 @@
-var mnemonic = "vague viable group recycle fatal tape kidney spike obvious song pen deal";
+var mnemonic = "clog drill upset female layer south kidney lemon list eager slab gorilla";

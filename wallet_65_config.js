@@ -1,1 +1,1 @@
-var mnemonic = "coffee task public execute cloth eager cream people thing embrace bonus front";
+var mnemonic = "rebel coach enter comic rebuild forget again trap push degree very depth";

@@ -1,1 +1,1 @@
-var mnemonic = "replace cigar bottom powder finger toy winner east dial ticket average road";
+var mnemonic = "above buzz coast crucial feature palace goddess destroy confirm spring embrace nasty";

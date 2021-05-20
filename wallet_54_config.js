@@ -1,1 +1,1 @@
-var mnemonic = "prepare just deposit bounce flight walk jealous define banner govern empower loan";
+var mnemonic = "bird young shell kitchen anxiety lens trigger sponsor valid fee gorilla evolve";

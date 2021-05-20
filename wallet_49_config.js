@@ -1,1 +1,1 @@
-var mnemonic = "patient phone galaxy robot perfect moon pole fix sign group close setup";
+var mnemonic = "future struggle eye caught old exist fiber save pact super only position";

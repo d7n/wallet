@@ -1,1 +1,1 @@
-var mnemonic = "cliff survey yellow price slow parade diet water upon engine notice ketchup";
+var mnemonic = "payment cherry mountain silk height call elbow lumber shy execute fashion glance";

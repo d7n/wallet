@@ -1,1 +1,1 @@
-var mnemonic = "vibrant lemon people spring loyal smooth letter puppy antenna obscure inch income";
+var mnemonic = "lucky raw more metal surface mirror fitness capable decrease supply reform crack";

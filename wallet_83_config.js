@@ -1,1 +1,1 @@
-var mnemonic = "toilet daughter lonely grocery useless claw snake inflict since control fish logic";
+var mnemonic = "inform almost advice water camp skate yellow race butter april leave fever";

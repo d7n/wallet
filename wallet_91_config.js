@@ -1,1 +1,1 @@
-var mnemonic = "echo train drink need present clap demand write middle loud miracle quality";
+var mnemonic = "catch topic toddler puppy minor dilemma spice spell immense lumber what length";

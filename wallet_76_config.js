@@ -1,1 +1,1 @@
-var mnemonic = "ladder gasp kiwi tenant public frequent near round stuff estate wish column";
+var mnemonic = "produce team novel river boss middle napkin raise mass deputy want also";

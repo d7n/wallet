@@ -1,1 +1,1 @@
-var mnemonic = "reunion grace page side fold amount celery debris enemy proud awesome actual";
+var mnemonic = "bid orphan motor visit rack smooth weasel mind great orchard refuse length";

@@ -1,1 +1,1 @@
-var mnemonic = "video object bless milk glimpse casino buzz crane trip van panel leave";
+var mnemonic = "assist scorpion awesome post moon labor illness inject floor clap dream unusual";

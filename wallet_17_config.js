@@ -1,1 +1,1 @@
-var mnemonic = "outdoor advice mimic office father extend angry income loan color picture strike";
+var mnemonic = "bachelor gravity recipe upon dose all jaguar atom skate paper patient thought";

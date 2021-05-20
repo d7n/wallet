@@ -1,1 +1,1 @@
-var mnemonic = "history release smart setup cram jelly answer wisdom rose behave rookie ceiling";
+var mnemonic = "again father lava canvas beach nice spread round game drop blossom elegant";

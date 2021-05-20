@@ -1,1 +1,1 @@
-var mnemonic = "exit kangaroo marriage cricket ordinary goose spatial midnight agent capable mail pear";
+var mnemonic = "rib romance damage cost eyebrow badge gravity wool artwork swift weekend lounge";

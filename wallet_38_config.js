@@ -1,1 +1,1 @@
-var mnemonic = "muscle tree spring image gas enter fog practice grape since hint rescue";
+var mnemonic = "bar frame square lunch isolate gallery man pact daughter sadness group baby";

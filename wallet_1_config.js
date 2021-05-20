@@ -1,1 +1,1 @@
-var mnemonic = "pair energy rather merge fog few alone victory bicycle unhappy music peasant";
+var mnemonic = "stomach type shine cereal bike shoulder belt rescue host produce apart crystal";

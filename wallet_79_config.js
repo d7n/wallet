@@ -1,1 +1,1 @@
-var mnemonic = "wolf festival spy ripple chair enjoy state soul early open charge insect";
+var mnemonic = "illness year fog february hybrid reflect autumn bottom afford devote fame stock";

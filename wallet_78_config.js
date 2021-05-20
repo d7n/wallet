@@ -1,1 +1,1 @@
-var mnemonic = "embrace review fringe pumpkin love attend nose wrist winter fiber aisle business";
+var mnemonic = "maze bus vehicle feel behave green balance never symptom shoulder today fatigue";

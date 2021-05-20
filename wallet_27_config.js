@@ -1,1 +1,1 @@
-var mnemonic = "first engage hazard give puppy spatial blade swear feed smoke buzz problem";
+var mnemonic = "budget squeeze cash media rotate world quarter air post cement problem discover";

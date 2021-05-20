@@ -1,1 +1,1 @@
-var mnemonic = "mind pyramid whale hockey pizza diary sponsor merit pioneer eager assume phrase";
+var mnemonic = "bracket soap athlete manage tent shaft rich near december punch what used";

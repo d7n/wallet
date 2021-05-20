@@ -1,1 +1,1 @@
-var mnemonic = "safe dice hover diagram review circle egg nature media tumble language october";
+var mnemonic = "guard culture indicate critic marine prevent year three lazy depart cannon bus";

@@ -1,1 +1,1 @@
-var mnemonic = "priority common puzzle step bullet drastic unlock joy one town slush raise";
+var mnemonic = "bean pumpkin dash stereo stairs horror yellow future mad mule horse oak";

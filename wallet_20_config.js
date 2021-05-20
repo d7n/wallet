@@ -1,1 +1,1 @@
-var mnemonic = "blame dust advance guitar pyramid camera twist black enforce they catalog garlic";
+var mnemonic = "lunch ranch rubber wrong universe lens snake grit crush seat attend deer";

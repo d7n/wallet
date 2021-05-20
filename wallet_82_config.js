@@ -1,1 +1,1 @@
-var mnemonic = "kingdom sure abstract increase earn toe little chicken hedgehog gossip drill swarm";
+var mnemonic = "order mind plastic gain faculty giant tired mimic enough boost enable fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "coach goddess few render parent height carry pond drop mix animal opinion";
+var mnemonic = "olive expect few candy wear park math cliff track found crane dove";

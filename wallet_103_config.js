@@ -1,1 +1,1 @@
-var mnemonic = "fiscal source brass piece toast zone eagle cheese own when cricket anchor";
+var mnemonic = "neglect bar dress emotion world allow icon rookie save logic topic rifle";

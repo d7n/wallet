@@ -1,1 +1,1 @@
-var mnemonic = "ensure fantasy earth refuse seven charge plug execute metal banner glow speak";
+var mnemonic = "inhale elder level tumble among cube furnace remove glory convince smile media";

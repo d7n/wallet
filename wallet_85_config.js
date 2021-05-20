@@ -1,1 +1,1 @@
-var mnemonic = "eye reunion absorb clinic project broccoli favorite stool idea young lock birth";
+var mnemonic = "left ivory float tissue journey siren mind jar shaft canvas program hope";

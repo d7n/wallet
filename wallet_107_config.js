@@ -1,1 +1,1 @@
-var mnemonic = "later liberty major timber fresh caution achieve garage tonight two style correct";
+var mnemonic = "protect truly donkey later advice verb culture deputy stage cradle year slot";

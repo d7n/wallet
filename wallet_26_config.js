@@ -1,1 +1,1 @@
-var mnemonic = "steak electric light pet unaware special cycle must chuckle depend juice mixed";
+var mnemonic = "army second inherit crunch december social world razor upset echo goddess card";

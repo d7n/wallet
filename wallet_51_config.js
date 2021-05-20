@@ -1,1 +1,1 @@
-var mnemonic = "habit minimum edge sponsor simple choose ordinary record prevent father hungry rely";
+var mnemonic = "smoke warrior whale seed perfect venture render link spell casual peace stem";

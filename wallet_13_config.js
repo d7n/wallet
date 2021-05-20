@@ -1,1 +1,1 @@
-var mnemonic = "funny jacket twist riot rug matrix tomorrow gym nerve sudden apart level";
+var mnemonic = "wool fire wear secret suggest citizen tackle chronic doll pistol magic forget";

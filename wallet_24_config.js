@@ -1,1 +1,1 @@
-var mnemonic = "rough tobacco honey width unhappy belt small typical educate puppy coast enroll";
+var mnemonic = "decline jump midnight parrot ladder knife lyrics snack acoustic approve ability verify";

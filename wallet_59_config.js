@@ -1,1 +1,1 @@
-var mnemonic = "trigger amateur tennis peanut grit code cup gym october sing zoo undo";
+var mnemonic = "rather today public oval mosquito neither height decade market wave shop neglect";

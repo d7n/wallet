@@ -1,1 +1,1 @@
-var mnemonic = "pig select pride festival require ribbon marine perfect ski master index include";
+var mnemonic = "crew coin anxiety often sustain ceiling leisure toward vague much man swim";

@@ -1,1 +1,1 @@
-var mnemonic = "beef apology camp decline worry maze crack often tobacco owner mountain crush";
+var mnemonic = "funny evoke pizza multiply load tobacco poverty home tide hub credit system";
