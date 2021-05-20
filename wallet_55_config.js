@@ -1,1 +1,1 @@
-var mnemonic = "dwarf pepper high pink year thank remind name vast pottery size mesh";
+var mnemonic = "laugh use face moment salute always hand sentence duty habit degree grape";

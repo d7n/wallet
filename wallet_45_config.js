@@ -1,1 +1,1 @@
-var mnemonic = "race size candy hair begin vacant bachelor unknown pumpkin open wedding solar";
+var mnemonic = "traffic novel great can myth dwarf few early wreck boss unusual boat";

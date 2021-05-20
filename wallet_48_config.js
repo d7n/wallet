@@ -1,1 +1,1 @@
-var mnemonic = "juice verify hub stove practice street person come excess rotate repeat goddess";
+var mnemonic = "umbrella police question match sport door quality type staff frog fetch illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "outside leader slam file record quality excuse filter behave junior umbrella budget";
+var mnemonic = "toward culture asthma oven baby together egg cousin fossil lady just parent";

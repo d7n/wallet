@@ -1,1 +1,1 @@
-var mnemonic = "rack guard cycle lounge village version matrix proud artwork casino garment celery";
+var mnemonic = "bounce erase vapor hood lake bachelor deputy chef never good general airport";

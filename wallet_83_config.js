@@ -1,1 +1,1 @@
-var mnemonic = "jealous this pink ocean scissors penalty rubber grit tip okay innocent liar";
+var mnemonic = "poet potato method math curious emerge myself spend minimum pet swap parrot";

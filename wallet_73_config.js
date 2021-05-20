@@ -1,1 +1,1 @@
-var mnemonic = "wool special obscure online tuna trend level divert radio burger family daring";
+var mnemonic = "bubble chase arena lumber either wink equip forward vague pelican spike canal";

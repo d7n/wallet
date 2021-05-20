@@ -1,1 +1,1 @@
-var mnemonic = "carbon belt night mercy tomorrow cigar circle extend nephew tray curve flush";
+var mnemonic = "bleak ginger board visa physical buddy core search thank next midnight acquire";

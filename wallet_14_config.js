@@ -1,1 +1,1 @@
-var mnemonic = "patrol subject scheme museum first offer pitch dog predict sleep evolve ridge";
+var mnemonic = "hour lake fix skull picture tuition midnight inmate cactus acid almost upset";

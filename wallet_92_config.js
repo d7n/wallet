@@ -1,1 +1,1 @@
-var mnemonic = "frozen tragic more produce trust position maple burst position dry arrow rack";
+var mnemonic = "human hover fault vessel clarify drop leader bomb fame charge ring cabin";

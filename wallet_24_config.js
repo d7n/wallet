@@ -1,1 +1,1 @@
-var mnemonic = "borrow lava nephew barrel stereo engine grief current witness ship debate limit";
+var mnemonic = "pink venue crouch hospital scheme chief normal melody spring dove heart under";

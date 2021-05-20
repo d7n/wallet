@@ -1,1 +1,1 @@
-var mnemonic = "wisdom pledge segment struggle useful tiny cash fit motor velvet isolate tool";
+var mnemonic = "reason doll size noble adapt need poem industry alien visit weapon fish";

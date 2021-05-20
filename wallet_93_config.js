@@ -1,1 +1,1 @@
-var mnemonic = "above sure aware share ethics giggle amazing desert car magic board begin";
+var mnemonic = "puzzle never name muffin inside deputy collect survey father nasty awkward time";

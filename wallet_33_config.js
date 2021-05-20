@@ -1,1 +1,1 @@
-var mnemonic = "marriage cloth bench kick shop lounge carbon mail still craft bamboo valley";
+var mnemonic = "fine target end doctor foot vintage notable spread decide eager employ neck";

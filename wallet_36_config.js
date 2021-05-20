@@ -1,1 +1,1 @@
-var mnemonic = "any prepare fringe help tumble online dress castle maple addict huge similar";
+var mnemonic = "turn drip nut olive solar sheriff topic summer street list poet museum";

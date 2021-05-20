@@ -1,1 +1,1 @@
-var mnemonic = "pet govern agree key dress banana skin fringe turtle canal bright settle";
+var mnemonic = "gasp festival crop affair coin unhappy awkward economy trim hair capital market";

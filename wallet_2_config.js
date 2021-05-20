@@ -1,1 +1,1 @@
-var mnemonic = "wonder myth spy gown reward order coil sting shove inject green lift";
+var mnemonic = "dawn soccer error spend bring leisure wing swing mechanic vendor total filter";

@@ -1,1 +1,1 @@
-var mnemonic = "joy tobacco expose interest wish abstract version luggage blur door inquiry medal";
+var mnemonic = "stable lemon emerge tube unveil promote december ritual leaf settle slush slogan";

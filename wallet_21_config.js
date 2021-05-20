@@ -1,1 +1,1 @@
-var mnemonic = "weather prison lab category hand phrase ability expire donate raw teach circle";
+var mnemonic = "jungle high adjust endorse nature mind slow nominee beyond lake exclude wolf";

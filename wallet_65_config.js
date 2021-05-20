@@ -1,1 +1,1 @@
-var mnemonic = "bone master salad fault detect abuse bracket receive sheriff borrow cover green";
+var mnemonic = "talent denial carbon camera cactus cycle practice play indicate raise mammal december";

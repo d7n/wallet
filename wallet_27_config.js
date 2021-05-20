@@ -1,1 +1,1 @@
-var mnemonic = "accident elbow return above armed vast script vehicle because civil pudding neither";
+var mnemonic = "runway couple blossom prevent frown office chuckle erupt own reunion fatigue hundred";

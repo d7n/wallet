@@ -1,1 +1,1 @@
-var mnemonic = "inject evoke resist hybrid onion wrist expand size follow claim pottery egg";
+var mnemonic = "park upon oyster envelope food spare skate daughter front confirm stand rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion diary normal produce hundred outer trap volcano text mention beach animal";
+var mnemonic = "chat exile use merge spin base mango soup chimney surround blossom stumble";

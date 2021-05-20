@@ -1,1 +1,1 @@
-var mnemonic = "patrol member brother market august electric minor term empty travel rural hen";
+var mnemonic = "clarify rally pumpkin eagle bring spare whip first mirror solve order cluster";

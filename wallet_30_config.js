@@ -1,1 +1,1 @@
-var mnemonic = "broken jeans beef truly axis frozen gloom exist oven mandate bridge fish";
+var mnemonic = "fix color detect author person brass report gasp chimney outdoor vital move";

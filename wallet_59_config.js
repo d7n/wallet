@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hunt bounce topple garment glue bonus author become clap upset keep";
+var mnemonic = "stairs helmet crane filter month fatal rain skull people cup muffin tuition";

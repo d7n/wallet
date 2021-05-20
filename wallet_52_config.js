@@ -1,1 +1,1 @@
-var mnemonic = "execute voyage fever uniform early kitchen swap input mechanic jar advice borrow";
+var mnemonic = "coast sentence better uncle viable sand spoon oval throw reject recall actor";

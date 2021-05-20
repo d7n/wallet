@@ -1,1 +1,1 @@
-var mnemonic = "vocal flush genre napkin daring bless erosion tooth regular pepper copy swim";
+var mnemonic = "slight night execute animal junior oppose warfare pulse prefer creek output myth";

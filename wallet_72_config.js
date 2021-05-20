@@ -1,1 +1,1 @@
-var mnemonic = "proof candy bread nose drama spot size dish unit risk various core";
+var mnemonic = "mandate actor giant guard rose sword jewel artefact process anxiety rebuild matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "slow stuff range net capable lens rail recycle sport negative session advance";
+var mnemonic = "dumb entry laundry kangaroo else ankle outer grain notice odor boost auto";

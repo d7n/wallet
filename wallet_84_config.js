@@ -1,1 +1,1 @@
-var mnemonic = "nerve brave gauge easily globe tube detect thunder rural country guide rather";
+var mnemonic = "nerve raccoon supreme nut crowd child dish slam miss scrub lazy wrap";

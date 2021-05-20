@@ -1,1 +1,1 @@
-var mnemonic = "grace issue siren fatal video final brief lend chef engine income soul";
+var mnemonic = "pact merge mosquito heart pause express myself act zone best zebra beauty";

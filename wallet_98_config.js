@@ -1,1 +1,1 @@
-var mnemonic = "symbol suggest hood panther vivid spider muscle time finger machine pulp drift";
+var mnemonic = "guide amazing region sister number decrease fine perfect swift bar various width";

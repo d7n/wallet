@@ -1,1 +1,1 @@
-var mnemonic = "toss strong now test liar convince seat safe object cart spoil quality";
+var mnemonic = "blanket bundle endless mail depth silent minute cradle make boil prevent winner";

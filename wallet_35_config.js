@@ -1,1 +1,1 @@
-var mnemonic = "rice feel twenty system twenty pottery certain health reject already goose roof";
+var mnemonic = "slow panther poverty cabbage renew rib there shrug where ship bitter region";

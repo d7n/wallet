@@ -1,1 +1,1 @@
-var mnemonic = "wonder casual abuse fiction mango neither alert harsh hospital film anxiety neck";
+var mnemonic = "walnut echo merit tree fury foil notable orbit dice wagon retreat whip";

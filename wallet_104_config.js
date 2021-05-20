@@ -1,1 +1,1 @@
-var mnemonic = "turkey mad expire swim ability rookie devote reform attitude chat shed push";
+var mnemonic = "purity reason chunk boring heart arrest recycle social grocery measure glow army";

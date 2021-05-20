@@ -1,1 +1,1 @@
-var mnemonic = "height crack crowd blue opinion slim next head cruel sea tragic affair";
+var mnemonic = "deer play scrub oxygen setup theme tone tuition gadget cabbage diamond suspect";

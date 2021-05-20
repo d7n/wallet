@@ -1,1 +1,1 @@
-var mnemonic = "day card spin comfort fine hill view job shrimp organ awful broken";
+var mnemonic = "clarify smart grief practice caution title style carpet tennis honey decide seven";

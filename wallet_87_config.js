@@ -1,1 +1,1 @@
-var mnemonic = "speed pulse point entire use blush flame peasant enable tomato bunker time";
+var mnemonic = "decade achieve dirt myth learn push amazing file inside code time wool";

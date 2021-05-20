@@ -1,1 +1,1 @@
-var mnemonic = "occur lock dizzy bid faint cotton table voice rule service hungry glimpse";
+var mnemonic = "onion soccer develop bird shoot marriage force scout rather judge tube boil";

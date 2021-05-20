@@ -1,1 +1,1 @@
-var mnemonic = "nominee deer feel wash track right true slight tennis floor asthma kick";
+var mnemonic = "enough sort pyramid anxiety mom index agree float ritual reveal month mistake";

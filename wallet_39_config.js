@@ -1,1 +1,1 @@
-var mnemonic = "head tired trip rose cattle custom nuclear acquire tattoo lumber loud one";
+var mnemonic = "cake trumpet beyond tiger oxygen uphold tunnel dignity undo pioneer best act";

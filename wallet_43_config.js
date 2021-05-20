@@ -1,1 +1,1 @@
-var mnemonic = "issue east mom blood enhance puppy silver drink grid wet sell crisp";
+var mnemonic = "popular example danger combine breeze balcony absent city dog nation suffer visa";

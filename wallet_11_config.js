@@ -1,1 +1,1 @@
-var mnemonic = "time luggage young hurdle dentist legal cupboard glass core duty story song";
+var mnemonic = "door general purpose cook extend left region boss spoon cliff bitter hip";

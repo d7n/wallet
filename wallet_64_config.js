@@ -1,1 +1,1 @@
-var mnemonic = "turkey elevator antique endless tired grunt return matter truck title pool siren";
+var mnemonic = "viable adjust nut laptop vicious want flavor solve toss fit electric nothing";

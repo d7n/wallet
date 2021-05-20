@@ -1,1 +1,1 @@
-var mnemonic = "ceiling daughter such usual indoor draft library dry adjust tone casual feel";
+var mnemonic = "innocent thumb music old giant safe hint bulb rifle open jungle can";

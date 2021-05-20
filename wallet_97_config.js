@@ -1,1 +1,1 @@
-var mnemonic = "pizza decide impulse kiss next file impact doll object humble pair runway";
+var mnemonic = "love genre wagon oxygen defy science vault deny matrix above pretty decrease";

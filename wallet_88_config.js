@@ -1,1 +1,1 @@
-var mnemonic = "avoid yellow uphold smooth noise quality staff fragile nuclear apple journey onion";
+var mnemonic = "service side position ritual shuffle tank gravity artefact dream shallow mobile letter";

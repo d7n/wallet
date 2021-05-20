@@ -1,1 +1,1 @@
-var mnemonic = "market industry multiply awake sibling swap sunset deliver spin siege already envelope";
+var mnemonic = "gain stove bacon symptom phrase first music grid lake erase oval quantum";

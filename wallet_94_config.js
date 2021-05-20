@@ -1,1 +1,1 @@
-var mnemonic = "spot item umbrella salute insect clip artefact crime penalty bean pet pizza";
+var mnemonic = "member simple input remove offer giant custom fish weird slide couple festival";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic frog mechanic word cover truly dawn always list toward regular aerobic";
+var mnemonic = "like square cinnamon question scissors finger eye edge genius december voyage chaos";

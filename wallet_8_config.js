@@ -1,1 +1,1 @@
-var mnemonic = "broom apology close cloth news crop cash village oil energy eager reform";
+var mnemonic = "mistake impact spatial exile congress truly disorder radio maple cereal system amused";

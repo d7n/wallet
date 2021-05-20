@@ -1,1 +1,1 @@
-var mnemonic = "often runway recall genuine supreme drastic box diesel bottom garden plastic weather";
+var mnemonic = "praise maximum journey army forum kid erase candy assist range ball polar";

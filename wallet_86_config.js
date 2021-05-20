@@ -1,1 +1,1 @@
-var mnemonic = "dune daring regret coach nasty hire time isolate armed jeans lyrics vault";
+var mnemonic = "buffalo kite alpha truly evoke man potato bomb between thrive broken senior";

@@ -1,1 +1,1 @@
-var mnemonic = "pony ranch private good youth refuse slight example width spin vapor pumpkin";
+var mnemonic = "obvious shoot elbow camera random brass wool game wheel unhappy chicken verb";

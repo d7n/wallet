@@ -1,1 +1,1 @@
-var mnemonic = "borrow turtle naive kiss unusual elite vault junior video input poet program";
+var mnemonic = "unlock luggage wool sleep timber cruise cargo silver double path reward worth";

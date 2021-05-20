@@ -1,1 +1,1 @@
-var mnemonic = "they frame innocent motor myth dad section two wave bike dynamic culture";
+var mnemonic = "option true ostrich course dune gym claim genre sorry either peasant staff";

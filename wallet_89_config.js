@@ -1,1 +1,1 @@
-var mnemonic = "desk toward bronze setup cruise trumpet sell twist endless rather toast hedgehog";
+var mnemonic = "rather toss income three speak couch muffin choose auction celery come parade";

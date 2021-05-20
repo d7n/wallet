@@ -1,1 +1,1 @@
-var mnemonic = "plunge walk key finger punch market horn poet mean tail cream peasant";
+var mnemonic = "cube offer mad now true enlist version palm library hospital strategy phone";

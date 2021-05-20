@@ -1,1 +1,1 @@
-var mnemonic = "tired cotton actual walk term polar quit artist either derive utility render";
+var mnemonic = "entry play devote hat replace shop swarm wool seek engine motor plug";

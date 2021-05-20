@@ -1,1 +1,1 @@
-var mnemonic = "glory rival exact pioneer argue hurdle laugh private wolf embody sell reopen";
+var mnemonic = "honey strike dune rail detect thrive rubber mechanic issue thunder blue melt";

@@ -1,1 +1,1 @@
-var mnemonic = "usage human online limb inhale impact swarm jealous use strong grant milk";
+var mnemonic = "extend senior license twin leopard toy leader biology suggest river elephant snake";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic emerge author fiber protect surprise manage normal custom upset tattoo rose";
+var mnemonic = "crane educate loud select disease device remain mask whale drop green case";

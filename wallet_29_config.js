@@ -1,1 +1,1 @@
-var mnemonic = "curve fun airport vibrant resist nasty wage boring decorate nut convince fluid";
+var mnemonic = "lottery clap knock bachelor tray mind blanket guess dream elephant kitchen game";

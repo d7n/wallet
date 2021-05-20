@@ -1,1 +1,1 @@
-var mnemonic = "tonight develop brave abuse sheriff tent fee reunion choice average response unaware";
+var mnemonic = "tray custom long morning elbow eye gasp rail again tower endless various";

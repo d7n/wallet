@@ -1,1 +1,1 @@
-var mnemonic = "gun simple such obscure tattoo idea page sad husband describe south hollow";
+var mnemonic = "penalty script sting nature income junk fall keen shed network bar emotion";

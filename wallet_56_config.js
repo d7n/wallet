@@ -1,1 +1,1 @@
-var mnemonic = "busy hello material fresh canvas image behind during solar liar furnace skill";
+var mnemonic = "hungry inquiry hub wedding aerobic glow remind salute vague fold mean horn";

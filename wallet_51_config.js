@@ -1,1 +1,1 @@
-var mnemonic = "lumber industry stable mean fire busy save toe royal okay split glow";
+var mnemonic = "brave bright virus wish term celery zebra angle harbor hire ahead bulk";

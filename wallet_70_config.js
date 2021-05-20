@@ -1,1 +1,1 @@
-var mnemonic = "custom glove input solution travel soon photo position immense switch tired milk";
+var mnemonic = "join ordinary update response sugar raw pupil meadow nerve recipe patrol foster";

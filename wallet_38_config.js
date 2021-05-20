@@ -1,1 +1,1 @@
-var mnemonic = "fun donor bachelor victory page govern run debate blast thought vendor language";
+var mnemonic = "carry apart chair potato match author wire crush stock toe famous never";

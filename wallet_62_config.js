@@ -1,1 +1,1 @@
-var mnemonic = "huge wife phrase ill person fatal cream cup humor permit diesel route";
+var mnemonic = "tank fossil skate stool vendor scout sort negative general rude surface space";

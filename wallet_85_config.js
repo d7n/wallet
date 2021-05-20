@@ -1,1 +1,1 @@
-var mnemonic = "trumpet chimney message oil identify service seed force unit bachelor water cigar";
+var mnemonic = "uphold resemble pretty online lounge evolve clog wool target wing polar sudden";

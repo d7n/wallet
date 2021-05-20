@@ -1,1 +1,1 @@
-var mnemonic = "youth album slush swallow license enjoy middle develop reason clerk job turn";
+var mnemonic = "plunge convince short mobile flock body include innocent game work monster mean";

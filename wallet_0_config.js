@@ -1,1 +1,1 @@
-var mnemonic = "group story rabbit century aim spray sing uniform spot nation mass panda";
+var mnemonic = "attend parrot tattoo true crumble present acoustic olympic marriage sauce market observe";

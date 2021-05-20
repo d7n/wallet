@@ -1,1 +1,1 @@
-var mnemonic = "post exotic tilt voice current solar lottery theme whip artwork raccoon rigid";
+var mnemonic = "lady bean swamp impact pass whale remember fog clutch aware reduce gown";

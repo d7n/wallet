@@ -1,1 +1,1 @@
-var mnemonic = "you salt muffin buddy neck celery winter random true credit panic domain";
+var mnemonic = "fatal energy upper squirrel glory cat inmate survey behind wave brown galaxy";

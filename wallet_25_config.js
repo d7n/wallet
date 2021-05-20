@@ -1,1 +1,1 @@
-var mnemonic = "solution right bamboo poem creek cricket slogan view total holiday razor car";
+var mnemonic = "window disagree palace among lonely yard long congress hazard dwarf trip shadow";

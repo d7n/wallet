@@ -1,1 +1,1 @@
-var mnemonic = "shop curious cake settle silly rib unfold pencil protect salute oyster small";
+var mnemonic = "worth erode mountain rotate amount seven rain bonus bargain rookie casino filter";

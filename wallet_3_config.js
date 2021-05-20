@@ -1,1 +1,1 @@
-var mnemonic = "excess hip attract one moral stamp avocado cement reflect short buddy mail";
+var mnemonic = "walnut render rescue under monkey mask funny spy abuse segment rookie hospital";

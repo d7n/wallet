@@ -1,1 +1,1 @@
-var mnemonic = "pluck fish throw upper evil immune gun sugar busy borrow enrich real";
+var mnemonic = "sword resemble fall oxygen family element report tone setup cereal poverty echo";

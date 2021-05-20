@@ -1,1 +1,1 @@
-var mnemonic = "ride curve dinner agent type cream dog provide develop wasp lunch evolve";
+var mnemonic = "success success cash subway raccoon river error master vault element tiger melt";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer million tilt aware firm faculty physical street jewel also ring dice";
+var mnemonic = "apple again nasty blade grid enough soul kingdom memory favorite intact gallery";

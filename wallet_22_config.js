@@ -1,1 +1,1 @@
-var mnemonic = "garment nurse fee circle unhappy smooth pink frog naive egg fortune manage";
+var mnemonic = "poverty ghost frozen dream neck chief silk enough frog vanish salute hole";

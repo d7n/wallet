@@ -1,1 +1,1 @@
-var mnemonic = "fabric spike dumb victory eternal observe thunder tomato wing ancient body divide";
+var mnemonic = "slush horn ugly enrich swap neutral together dutch spirit spatial simple rotate";

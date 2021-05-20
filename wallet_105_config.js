@@ -1,1 +1,1 @@
-var mnemonic = "coffee pupil knife chase forward million anchor ticket evolve zero almost faculty";
+var mnemonic = "price cabbage north phrase man voyage impose pepper demand protect sea pulp";

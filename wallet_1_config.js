@@ -1,1 +1,1 @@
-var mnemonic = "loop slide destroy tumble whale project vendor round merit slam dragon surge";
+var mnemonic = "frame tiger copper slam symptom list myself dirt margin master trumpet kitchen";

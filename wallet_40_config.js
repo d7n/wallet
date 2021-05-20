@@ -1,1 +1,1 @@
-var mnemonic = "random victory kid repeat tattoo obtain myself turtle okay cream worth aware";
+var mnemonic = "silk goddess describe wrap exact method enforce also head whale depart turtle";

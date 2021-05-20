@@ -1,1 +1,1 @@
-var mnemonic = "tumble public journey tail talk foster prison year swallow impact clap tornado";
+var mnemonic = "misery rookie setup swamp nest length catalog extra diesel demise original wall";

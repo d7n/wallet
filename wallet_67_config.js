@@ -1,1 +1,1 @@
-var mnemonic = "race weasel royal nut seed celery raccoon large rabbit indoor taste winner";
+var mnemonic = "fetch purity elder tunnel bar shoe slot crack degree daring scare injury";

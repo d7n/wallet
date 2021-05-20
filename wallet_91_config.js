@@ -1,1 +1,1 @@
-var mnemonic = "easy finish garden dry truly employ whip suspect effort wagon venue tenant";
+var mnemonic = "fragile picnic night buddy enroll such arrive return govern patch wait region";

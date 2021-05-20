@@ -1,1 +1,1 @@
-var mnemonic = "amateur multiply cool pistol grant erode emotion scheme diet trim pumpkin fox";
+var mnemonic = "grape voice struggle next salute enable melt quantum rifle pave fault equip";

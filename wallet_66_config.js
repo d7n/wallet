@@ -1,1 +1,1 @@
-var mnemonic = "priority goose shaft daring grief sorry farm fiction nose anxiety figure bean";
+var mnemonic = "day approve dune solar ignore grace pupil tail animal math valley struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi face radio engage seed fiscal vibrant luxury risk neutral basic future";
+var mnemonic = "scare calm mistake salad credit garment device gym summer toss target alone";
