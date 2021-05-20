@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow target tower daring purity access fold scrub piano learn trigger host";
+var mnemonic = "drive game riot motion umbrella noodle priority multiply jewel symptom meadow increase";

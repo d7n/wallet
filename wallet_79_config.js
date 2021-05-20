@@ -1,1 +1,1 @@
-var mnemonic = "garment act hint amateur cherry equal brain forest bird hidden network excess";
+var mnemonic = "twenty music vacuum city current join defy theme increase window expect wear";

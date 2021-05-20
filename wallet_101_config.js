@@ -1,1 +1,1 @@
-var mnemonic = "blossom lion cousin cherry moon shell crime execute goat valve joy cancel";
+var mnemonic = "save peace brown borrow behave question room child silver left mother siren";

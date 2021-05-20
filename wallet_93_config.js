@@ -1,1 +1,1 @@
-var mnemonic = "salon sad clerk lottery pair scale tone decorate pride differ random boil";
+var mnemonic = "choose decline push face excite diesel digital long frequent dice train fade";

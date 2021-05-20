@@ -1,1 +1,1 @@
-var mnemonic = "intact found mass stick wild find crunch indoor valid motor caution gallery";
+var mnemonic = "before absent front day mandate step fire hawk sound rival excite outdoor";

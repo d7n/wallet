@@ -1,1 +1,1 @@
-var mnemonic = "jelly pave wave moral rice unlock supreme local stool notable mandate move";
+var mnemonic = "must supreme video clown member recycle flower quarter enforce warrior option dumb";

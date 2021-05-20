@@ -1,1 +1,1 @@
-var mnemonic = "fence square congress wage blast tooth history sand mutual pottery final trick";
+var mnemonic = "stool target train whale decide arrow save whisper parade visit pill exile";

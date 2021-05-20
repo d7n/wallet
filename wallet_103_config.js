@@ -1,1 +1,1 @@
-var mnemonic = "soldier educate similar test horse wine foil bleak ocean try phrase comic";
+var mnemonic = "around obvious smooth animal ankle struggle gesture join aim setup toe left";

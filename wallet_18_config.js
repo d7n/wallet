@@ -1,1 +1,1 @@
-var mnemonic = "clutch chief dumb chronic bus hip cage charge diagram amazing fitness test";
+var mnemonic = "foster unlock avoid weapon orbit virtual alpha atom turkey arena twist vacant";

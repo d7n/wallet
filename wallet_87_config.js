@@ -1,1 +1,1 @@
-var mnemonic = "indicate piano table update security fix pink wheat jungle protect category series";
+var mnemonic = "clerk basket lawsuit material catalog ugly gate believe olympic category enable soap";

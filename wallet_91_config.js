@@ -1,1 +1,1 @@
-var mnemonic = "educate concert chicken sketch company hospital current paper tomato robust gasp earn";
+var mnemonic = "used hole lemon neglect path planet response exercise phrase wreck near aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis sunset attend merge seed squirrel initial student device scout come wall";
+var mnemonic = "feed outdoor border rocket enrich title lock wasp insane kick wrist crystal";

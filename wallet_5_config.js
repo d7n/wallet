@@ -1,1 +1,1 @@
-var mnemonic = "noise hunt lens rate remember kit sudden tent crush access organ problem";
+var mnemonic = "tiger circle rapid smooth icon aunt column remove april scissors wait trade";

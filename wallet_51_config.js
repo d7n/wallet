@@ -1,1 +1,1 @@
-var mnemonic = "arrest absorb donkey room leisure garlic scissors glow dinosaur account hat dice";
+var mnemonic = "inspire smooth electric evidence parent involve immense rate knife poet ankle bleak";

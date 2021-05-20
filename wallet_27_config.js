@@ -1,1 +1,1 @@
-var mnemonic = "when logic deputy supreme phone network hockey bachelor charge fashion start enlist";
+var mnemonic = "betray toss sword museum coil device enter hover ticket scheme edge stay";

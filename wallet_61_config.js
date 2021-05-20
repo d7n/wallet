@@ -1,1 +1,1 @@
-var mnemonic = "innocent result circle lawsuit drill rigid wrestle update initial hollow permit mystery";
+var mnemonic = "skill woman eye absorb matrix upset pool chunk duck voice foam palace";

@@ -1,1 +1,1 @@
-var mnemonic = "income valley shrimp way fly spirit horse rich matrix hill peasant mean";
+var mnemonic = "blur impact knife torch settle hint scissors glow audit music like tray";

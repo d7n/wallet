@@ -1,1 +1,1 @@
-var mnemonic = "push grant claim idea question artefact escape fence crucial decline minute advance";
+var mnemonic = "party short quiz river guitar useful excuse junk draw street civil valley";

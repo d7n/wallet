@@ -1,1 +1,1 @@
-var mnemonic = "arrest thumb clip youth item palm favorite pride print rain gap furnace";
+var mnemonic = "virtual wrong bridge reward absorb column cement eager pipe despair puppy own";

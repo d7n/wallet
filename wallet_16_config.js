@@ -1,1 +1,1 @@
-var mnemonic = "potato kit vintage sphere rubber genius purpose exhaust ticket police pilot jazz";
+var mnemonic = "cement island actor inform because mansion task upper width tribe just earn";

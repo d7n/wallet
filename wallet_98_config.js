@@ -1,1 +1,1 @@
-var mnemonic = "bitter wage cherry artefact vanish undo feature print degree magnet inner ring";
+var mnemonic = "velvet truly chapter follow castle person bullet nation tail neutral cricket lottery";

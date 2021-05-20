@@ -1,1 +1,1 @@
-var mnemonic = "pair sign mail problem much music evoke charge blade canvas job stay";
+var mnemonic = "sugar razor fish member forward ozone traffic improve spice sad forget donkey";

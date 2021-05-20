@@ -1,1 +1,1 @@
-var mnemonic = "benefit unusual wise jealous squeeze pulse measure usage early transfer double version";
+var mnemonic = "cotton market start damp teach banana primary loop evil rescue shallow over";

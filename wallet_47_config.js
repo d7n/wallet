@@ -1,1 +1,1 @@
-var mnemonic = "stadium finger twelve cinnamon submit expand glory patient renew sunset match puppy";
+var mnemonic = "wealth chalk believe local predict kite dirt salmon reason apology feed adjust";

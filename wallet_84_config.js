@@ -1,1 +1,1 @@
-var mnemonic = "december habit vivid pulse hood pattern balcony because cry gallery dove sea";
+var mnemonic = "clown street boost strategy quote suspect rally horse dutch clever onion flock";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage box idea squeeze carbon basket cup spatial friend enact host food";
+var mnemonic = "obscure rebuild butter process add kick swarm sauce ancient upset obey legal";

@@ -1,1 +1,1 @@
-var mnemonic = "fog minor media chief leisure lab genuine siege isolate pistol glare fly";
+var mnemonic = "win network other damage name harsh setup job victory violin cabbage thrive";

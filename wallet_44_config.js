@@ -1,1 +1,1 @@
-var mnemonic = "vague clinic actor have cycle reduce worry resemble nasty person only chair";
+var mnemonic = "quiz kangaroo solution deal october deputy radar bless fuel version erode uphold";

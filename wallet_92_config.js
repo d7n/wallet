@@ -1,1 +1,1 @@
-var mnemonic = "cheese remind uncle behave poet emerge welcome frown slogan know water junior";
+var mnemonic = "top tuna kite bid project soup parent mushroom vicious music neither minimum";

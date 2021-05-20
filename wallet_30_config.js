@@ -1,1 +1,1 @@
-var mnemonic = "toddler task real erase disagree plastic advance flight agent cross attitude chunk";
+var mnemonic = "ride antenna diet autumn exist right orange mechanic rely ordinary cannon save";

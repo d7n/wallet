@@ -1,1 +1,1 @@
-var mnemonic = "camp still unlock one school valid radio best motor public absurd spell";
+var mnemonic = "century bunker uphold crawl reject saddle floor replace anxiety group enrich potato";

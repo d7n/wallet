@@ -1,1 +1,1 @@
-var mnemonic = "fantasy alarm question planet apology giant soda occur common prepare health slush";
+var mnemonic = "lava toast brick wrist stove enforce polar bridge federal later smile wild";

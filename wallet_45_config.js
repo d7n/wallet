@@ -1,1 +1,1 @@
-var mnemonic = "strike alley wisdom wave love load color close outdoor glance all ladder";
+var mnemonic = "nest monkey math arrive charge answer derive vibrant pause two insane salad";

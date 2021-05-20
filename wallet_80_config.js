@@ -1,1 +1,1 @@
-var mnemonic = "oblige sad hybrid evolve mutual swing rigid barely fame write slice shrug";
+var mnemonic = "tone wonder tribe auto pottery indicate pole label sea express siren draft";

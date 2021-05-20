@@ -1,1 +1,1 @@
-var mnemonic = "day thing hazard kite trick mobile soap file frequent other lawn lunch";
+var mnemonic = "minute swear share wrong sense major food ostrich run half journey plug";

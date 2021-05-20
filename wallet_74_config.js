@@ -1,1 +1,1 @@
-var mnemonic = "flash rich tourist gap sister answer gas repair actor soap ranch armed";
+var mnemonic = "alien present prosper link copy melody balance rough crowd viable fresh ten";

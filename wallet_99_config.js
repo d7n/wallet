@@ -1,1 +1,1 @@
-var mnemonic = "fruit animal surprise favorite drastic forum juice divert govern purity suspect harsh";
+var mnemonic = "faith auction renew true over yellow palm junk great bicycle alcohol rebel";

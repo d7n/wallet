@@ -1,1 +1,1 @@
-var mnemonic = "evil copy toe group banner hungry reopen double live select mad list";
+var mnemonic = "social tooth pizza room sibling fall drink coyote client sunny start pause";

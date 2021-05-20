@@ -1,1 +1,1 @@
-var mnemonic = "gate erode extra desk crack word siren lounge taste grape hurry basic";
+var mnemonic = "lake merit spawn interest maid spawn punch obtain spice vehicle monster risk";

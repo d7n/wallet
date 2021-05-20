@@ -1,1 +1,1 @@
-var mnemonic = "harsh autumn kidney grab vintage abandon letter essay banner dress favorite language";
+var mnemonic = "pen runway witness scrap theory vehicle goat correct then hint cousin slight";

@@ -1,1 +1,1 @@
-var mnemonic = "own resist ask penalty action shove unique under valley table add laugh";
+var mnemonic = "onion thing index save family diary segment border ability reward tooth dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp stone canyon dad ill bitter correct scatter devote degree rain again";
+var mnemonic = "glimpse void slide wear refuse reopen hero blossom medal divert note airport";

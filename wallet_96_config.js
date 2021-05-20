@@ -1,1 +1,1 @@
-var mnemonic = "salmon visa decide wide assist nothing easy execute twenty major submit girl";
+var mnemonic = "repair urban gate where tattoo bounce frozen trash solid dwarf whip belt";

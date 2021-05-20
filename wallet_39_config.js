@@ -1,1 +1,1 @@
-var mnemonic = "wear cheap jealous month swim parent orphan size prison skirt much holiday";
+var mnemonic = "innocent agent ice brown exact wait rail syrup sting boss portion rotate";

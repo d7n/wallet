@@ -1,1 +1,1 @@
-var mnemonic = "account phrase prize save fever defense cross police very into spell poem";
+var mnemonic = "spoil project jump thing biology candy volcano old pulp ripple hair era";

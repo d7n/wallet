@@ -1,1 +1,1 @@
-var mnemonic = "section rather danger define hawk lunar amount loan sorry vacuum donor protect";
+var mnemonic = "share horror cake off hello slide avoid half obey leisure van latin";

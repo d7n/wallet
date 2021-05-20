@@ -1,1 +1,1 @@
-var mnemonic = "fade toss blur beyond pact aunt survey volcano gloom video wish sugar";
+var mnemonic = "raw year boat rookie upgrade sport about weather garment trick key approve";

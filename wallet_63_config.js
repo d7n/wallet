@@ -1,1 +1,1 @@
-var mnemonic = "drill hunt enter pelican second focus approve method metal clean run unlock";
+var mnemonic = "math term voice appear ask cabin two raccoon debate latin column barely";

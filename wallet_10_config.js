@@ -1,1 +1,1 @@
-var mnemonic = "goddess grace moment quit coffee churn ceiling extra audit appear unaware buzz";
+var mnemonic = "worry curtain usage slam scout resist travel three menu write water sword";

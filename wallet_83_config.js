@@ -1,1 +1,1 @@
-var mnemonic = "field episode track armor wrap wish dutch laugh only bundle august blossom";
+var mnemonic = "trend stamp celery unfair rhythm vapor kid sort segment cruel clock miracle";

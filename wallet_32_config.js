@@ -1,1 +1,1 @@
-var mnemonic = "symptom virtual size gesture weird write achieve wealth spring steel increase apple";
+var mnemonic = "bitter oven become pair isolate wasp maple hundred forward total mandate spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "inside announce wrong basic settle daring empower worry half tag ramp blouse";
+var mnemonic = "worth oil slush prepare equip run spray marble into protect flower upon";

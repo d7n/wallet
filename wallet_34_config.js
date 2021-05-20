@@ -1,1 +1,1 @@
-var mnemonic = "cross load relax diesel crime cargo erase practice glad almost enable magnet";
+var mnemonic = "lobster frown balance afford girl laugh eternal repair child indoor raven pool";

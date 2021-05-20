@@ -1,1 +1,1 @@
-var mnemonic = "physical project north nephew idle animal riot network depend much slot fold";
+var mnemonic = "april sort rocket cluster exact face margin river dirt garage monitor illegal";

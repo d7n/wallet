@@ -1,1 +1,1 @@
-var mnemonic = "female legal tourist distance retire century issue run acquire genuine include model";
+var mnemonic = "fork virtual key since coyote stairs play grape family spoon celery attract";

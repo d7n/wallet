@@ -1,1 +1,1 @@
-var mnemonic = "powder impulse slender address mixture silent field math recycle gain churn fatigue";
+var mnemonic = "empty oppose lamp surround home crane episode struggle width arrest ozone wasp";

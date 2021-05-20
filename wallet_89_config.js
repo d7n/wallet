@@ -1,1 +1,1 @@
-var mnemonic = "lucky govern indoor segment jeans run lucky gadget fortune fit cotton law";
+var mnemonic = "voyage patrol special brain meadow pudding notice bus deer impose flat broccoli";

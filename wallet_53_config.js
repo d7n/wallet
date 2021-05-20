@@ -1,1 +1,1 @@
-var mnemonic = "nasty wisdom stumble real news aim quick wide fold divorce thunder leopard";
+var mnemonic = "appear possible kick trade party neutral aunt kite raise robot later scatter";

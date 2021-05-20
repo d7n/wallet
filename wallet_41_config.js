@@ -1,1 +1,1 @@
-var mnemonic = "daring table dynamic trip merit bring high invite tomorrow trouble arctic have";
+var mnemonic = "simple hidden aim near tortoise kick empower system unfair combine find creek";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling snack split solid inflict skirt member wonder appear venture distance color";
+var mnemonic = "acquire approve injury scatter romance news sea little certain caution paddle slow";

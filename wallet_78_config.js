@@ -1,1 +1,1 @@
-var mnemonic = "erosion tape mandate marriage okay know cannon true isolate float inspire nice";
+var mnemonic = "chapter artefact foil explain goose tone hill car bus oyster carry service";

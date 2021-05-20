@@ -1,1 +1,1 @@
-var mnemonic = "viable subway install grow orchard hotel that bench lumber frost police apple";
+var mnemonic = "phrase guitar surge clinic industry anchor shuffle road divide master cargo rocket";

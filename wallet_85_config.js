@@ -1,1 +1,1 @@
-var mnemonic = "flash equal picture call depth envelope dream surge pelican flower enough pill";
+var mnemonic = "morning because diary brain term price vanish tennis crush dinner gentle rent";

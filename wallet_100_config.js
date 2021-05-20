@@ -1,1 +1,1 @@
-var mnemonic = "robot tomorrow fade laugh couple swim faith student food squirrel style gadget";
+var mnemonic = "age token raise upset program brave ball multiply ill strong return occur";

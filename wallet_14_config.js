@@ -1,1 +1,1 @@
-var mnemonic = "various prepare stuff mail syrup level basket glass stairs grace gallery harvest";
+var mnemonic = "caution random clay tissue giant option shiver apple air swamp human grape";

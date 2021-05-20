@@ -1,1 +1,1 @@
-var mnemonic = "disease debate bind hamster lyrics decline turkey include quit void tortoise spare";
+var mnemonic = "lamp vague parade day brand liquid entry gaze army girl soccer pond";

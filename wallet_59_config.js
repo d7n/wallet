@@ -1,1 +1,1 @@
-var mnemonic = "monster better side chief cry click style position oxygen giraffe clock sorry";
+var mnemonic = "palace gas autumn sunset divorce firm kick census immense ancient wise monkey";

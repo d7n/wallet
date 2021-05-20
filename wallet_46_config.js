@@ -1,1 +1,1 @@
-var mnemonic = "fiscal fatigue dice cactus join select second man caution goddess lab live";
+var mnemonic = "morning mix slice knee copper run crumble film sphere sponsor sight jacket";

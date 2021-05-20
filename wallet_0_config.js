@@ -1,1 +1,1 @@
-var mnemonic = "cost peasant limit innocent alpha indoor exotic tip fury master winner gap";
+var mnemonic = "online farm oppose pluck raw whale ahead phone tumble spread essence bubble";

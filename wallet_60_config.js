@@ -1,1 +1,1 @@
-var mnemonic = "brain property short wall tide rose core auto what economy clutch primary";
+var mnemonic = "puppy clay sea addict resource deposit genre gossip party cream small suit";

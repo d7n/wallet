@@ -1,1 +1,1 @@
-var mnemonic = "away name update game used edge then save forward absent major share";
+var mnemonic = "twist law toward expose paper mind blade ride speed glad stuff slim";

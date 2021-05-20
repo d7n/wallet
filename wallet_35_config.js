@@ -1,1 +1,1 @@
-var mnemonic = "involve tiger demise spare magic talk trip iron anxiety neglect elevator private";
+var mnemonic = "appear remove also hawk naive sell image find drill code feel tomorrow";

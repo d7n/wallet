@@ -1,1 +1,1 @@
-var mnemonic = "shed garlic alter embark marine erase test live hint pioneer silent brain";
+var mnemonic = "thank fee control arrive quit dad arch wreck tube curtain impose month";

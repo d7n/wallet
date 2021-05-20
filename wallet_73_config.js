@@ -1,1 +1,1 @@
-var mnemonic = "remind venture sleep charge noise race galaxy update burden diary canvas omit";
+var mnemonic = "salad opera ghost hunt sentence insect pond baby indicate misery retire giant";

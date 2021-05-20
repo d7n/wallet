@@ -1,1 +1,1 @@
-var mnemonic = "evolve coyote wet easy drift crumble volcano focus pulp ride link never";
+var mnemonic = "firm dwarf citizen govern heavy much sock combine cloud impulse insect eternal";

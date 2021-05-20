@@ -1,1 +1,1 @@
-var mnemonic = "exit kiss online curtain lens cactus spell card bean typical lucky cart";
+var mnemonic = "best night drive lock bar face banana cat seed inherit diary awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "banana unlock toilet voice bird armor crowd mystery together legal benefit snow";
+var mnemonic = "drift metal system appear slim dial clip door verify roast system gaze";

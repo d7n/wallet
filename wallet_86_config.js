@@ -1,1 +1,1 @@
-var mnemonic = "guard manage rib pen matrix want firm tourist victory display dragon truck";
+var mnemonic = "neutral opera noble sphere video share before spray student game shallow sibling";

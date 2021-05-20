@@ -1,1 +1,1 @@
-var mnemonic = "mention road churn island fork perfect elbow stem immune picnic popular right";
+var mnemonic = "adapt wave glass person toss wait inhale clock bargain island glass fence";

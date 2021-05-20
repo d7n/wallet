@@ -1,1 +1,1 @@
-var mnemonic = "ahead increase social army uncover shuffle voyage session between budget embrace demise";
+var mnemonic = "reform reason camera muscle talent oil must float expand opinion army client";

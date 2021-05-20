@@ -1,1 +1,1 @@
-var mnemonic = "industry pledge mountain brisk upgrade horn sister fabric inform leg physical best";
+var mnemonic = "spatial seat equip jelly student art isolate regular wood manual vast lonely";

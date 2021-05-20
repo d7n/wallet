@@ -1,1 +1,1 @@
-var mnemonic = "hybrid digital brain race egg rate solid desert receive minute survey panda";
+var mnemonic = "earth cliff network address sun speak ivory tree woman tilt family grief";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle gloom aunt push exile misery elder era goose ceiling during abuse";
+var mnemonic = "royal avoid entry border rare flame rice atom decrease gossip identify poem";

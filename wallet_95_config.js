@@ -1,1 +1,1 @@
-var mnemonic = "book frequent track wink knife remain expand minor little shallow phrase food";
+var mnemonic = "snack finish once protect nation motion flush attract voyage favorite world soon";

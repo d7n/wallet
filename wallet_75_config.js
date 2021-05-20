@@ -1,1 +1,1 @@
-var mnemonic = "spider control arrest latin reflect under toss skill double better zoo town";
+var mnemonic = "true animal soft fancy approve develop plate pelican chat next craft price";

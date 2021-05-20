@@ -1,1 +1,1 @@
-var mnemonic = "have control black fiction slot length bundle payment diagram dust lunar civil";
+var mnemonic = "gloom phone cross crunch helmet legend almost degree primary excess come tip";

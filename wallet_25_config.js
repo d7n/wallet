@@ -1,1 +1,1 @@
-var mnemonic = "inform crisp winter rapid thing decade spike around general galaxy judge spin";
+var mnemonic = "pet cancel decline height baby trick rebuild mad fold rug unique bright";

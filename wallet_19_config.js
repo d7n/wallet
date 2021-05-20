@@ -1,1 +1,1 @@
-var mnemonic = "stool pyramid dust magic crucial tilt noise beauty target flock car reject";
+var mnemonic = "orient blur blade hawk submit salon purpose tiny steak security rack unlock";

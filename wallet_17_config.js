@@ -1,1 +1,1 @@
-var mnemonic = "barely force spring goat biology ketchup fat airport cupboard summer talent crane";
+var mnemonic = "arm develop turn rug chronic better smile trick practice custom elegant entry";

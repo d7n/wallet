@@ -1,1 +1,1 @@
-var mnemonic = "secret raw lottery upper rural measure medal extra roof vessel child question";
+var mnemonic = "twin aware denial ugly two grain abstract evidence expect walnut detail nothing";

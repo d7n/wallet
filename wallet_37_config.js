@@ -1,1 +1,1 @@
-var mnemonic = "achieve blouse iron magnet brief hidden flash faith current arch garment phone";
+var mnemonic = "suit void super discover rigid mesh notable grocery metal october ranch day";

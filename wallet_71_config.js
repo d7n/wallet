@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mimic ketchup range lava clump pigeon quantum since whisper cross apple";
+var mnemonic = "column blade trade crime artefact coast trick hood base hurt about word";

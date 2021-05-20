@@ -1,1 +1,1 @@
-var mnemonic = "surround practice multiply ensure dog nuclear forward grunt express jar rack lunch";
+var mnemonic = "sport feed mom chef pottery stone kid announce sadness umbrella they antenna";
