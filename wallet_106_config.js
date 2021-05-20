@@ -1,1 +1,1 @@
-var mnemonic = "boy year close quantum artist walnut safe alley crack what certain theory";
+var mnemonic = "jewel invest speak infant elegant diet rule hello blush focus avocado sample";

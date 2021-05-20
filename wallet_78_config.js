@@ -1,1 +1,1 @@
-var mnemonic = "width circle powder hen shuffle decline maid pitch advance drive staff basic";
+var mnemonic = "client woman decline version melody kangaroo enlist matter love enemy strike unable";

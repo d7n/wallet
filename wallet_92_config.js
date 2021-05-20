@@ -1,1 +1,1 @@
-var mnemonic = "wine attitude subject wire confirm embark forum pig cause bar mutual priority";
+var mnemonic = "kite solar home safe violin endorse educate spawn equal turn head universe";

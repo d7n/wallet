@@ -1,1 +1,1 @@
-var mnemonic = "obscure bulb wonder fine salmon always salmon since rapid vendor cash zoo";
+var mnemonic = "level blouse tourist fossil push recall crane search hamster loop equal window";

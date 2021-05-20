@@ -1,1 +1,1 @@
-var mnemonic = "useful soda priority near capable magnet pulse soup cereal annual proud useless";
+var mnemonic = "casual history pyramid pink short hobby shaft rescue toy fog mother swim";

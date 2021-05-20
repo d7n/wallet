@@ -1,1 +1,1 @@
-var mnemonic = "sibling opera pyramid manual proof middle almost depth country wrist dignity window";
+var mnemonic = "autumn become educate cricket gloom monitor fatal spot bronze common master invite";

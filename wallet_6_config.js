@@ -1,1 +1,1 @@
-var mnemonic = "level share grape meadow melody husband cliff future sight sunny coach repeat";
+var mnemonic = "canyon section inform roast outside stick throw legal imitate funny believe air";

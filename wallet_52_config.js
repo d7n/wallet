@@ -1,1 +1,1 @@
-var mnemonic = "island fold bulk oxygen charge shift aunt pulp silver shoulder glimpse peace";
+var mnemonic = "source van polar advance fire pen aerobic immense blame crazy struggle rather";

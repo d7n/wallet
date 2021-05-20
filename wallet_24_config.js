@@ -1,1 +1,1 @@
-var mnemonic = "garden film tilt rabbit puppy sport genuine dilemma viable connect mixed snake";
+var mnemonic = "shell ready tone yellow economy moment dose fortune result warrior outer nut";

@@ -1,1 +1,1 @@
-var mnemonic = "length spring sting text whip cable voyage trumpet tree recall coin divert";
+var mnemonic = "library clutch cherry concert cupboard dynamic awful quiz define mystery humble spell";

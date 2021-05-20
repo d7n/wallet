@@ -1,1 +1,1 @@
-var mnemonic = "film shuffle unveil virtual digital sheriff snow match camp live bacon impact";
+var mnemonic = "burden bamboo used strong deputy pattern general engage gather west exile coral";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain donor spend solid sword conduct follow pencil clean correct regular upon";
+var mnemonic = "have tuition room across onion dinner hospital essence swallow comfort material car";

@@ -1,1 +1,1 @@
-var mnemonic = "equip voyage season rough express cram wise turn crouch tuition soul connect";
+var mnemonic = "scale coyote weasel cook shed shadow left rain loop outside bachelor bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "foam country marriage genius property obvious into grow panther real head denial";
+var mnemonic = "coast mirror genius hunt innocent hire bundle mixed shadow flag kangaroo reopen";

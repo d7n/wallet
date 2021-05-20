@@ -1,1 +1,1 @@
-var mnemonic = "puppy quantum soul gadget tape follow armed garbage result level pause pony";
+var mnemonic = "truly improve scrub pelican used puzzle bicycle spy domain pull hollow pill";

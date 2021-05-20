@@ -1,1 +1,1 @@
-var mnemonic = "jungle job prevent kit alert tired secret glue ski light mandate viable";
+var mnemonic = "present engage senior lava choose siren trim drift blood cousin brother toy";

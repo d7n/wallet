@@ -1,1 +1,1 @@
-var mnemonic = "creek kidney depart enter crawl crisp bitter kit lens pill circle tomorrow";
+var mnemonic = "fan maze baby love humble tent aim waste pistol dial repeat they";

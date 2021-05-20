@@ -1,1 +1,1 @@
-var mnemonic = "section mom east hair pact toe able slice trophy hello million orbit";
+var mnemonic = "song real become glass jar retire base mixture inmate always supply puppy";

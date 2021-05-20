@@ -1,1 +1,1 @@
-var mnemonic = "organ unusual all can arctic route spread absorb prison chair select donate";
+var mnemonic = "hard capable over assault fashion celery ice crash equal quantum opinion finger";

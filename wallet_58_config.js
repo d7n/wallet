@@ -1,1 +1,1 @@
-var mnemonic = "recall trend wedding grape coil grape suggest caught possible topple trigger protect";
+var mnemonic = "spike mask foster maid elder obvious either debris expose hammer try remind";

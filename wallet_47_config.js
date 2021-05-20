@@ -1,1 +1,1 @@
-var mnemonic = "ill enroll identify aim october witness venue feature autumn repair spy evil";
+var mnemonic = "defy adapt amazing retire water permit dial clown save garlic impact walnut";

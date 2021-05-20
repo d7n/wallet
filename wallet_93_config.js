@@ -1,1 +1,1 @@
-var mnemonic = "lobster sword exchange artist brown road prize wrist party sport already autumn";
+var mnemonic = "giraffe glad exist improve print hamster daughter gallery rate report margin plate";

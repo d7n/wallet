@@ -1,1 +1,1 @@
-var mnemonic = "hen valve bus foster pelican train tragic hero helmet vapor eagle around";
+var mnemonic = "move endless economy spy lonely duty luggage pair type resist neither afford";

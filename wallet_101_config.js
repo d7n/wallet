@@ -1,1 +1,1 @@
-var mnemonic = "flavor chalk meat mercy mango job seven fun quarter spy crater accident";
+var mnemonic = "chef actual hip announce aspect sound guard best loyal dose apology among";

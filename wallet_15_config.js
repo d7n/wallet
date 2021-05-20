@@ -1,1 +1,1 @@
-var mnemonic = "chapter clown ivory over inherit cook pistol upgrade loop ensure muffin advance";
+var mnemonic = "nerve orbit spare stumble fluid kangaroo dentist awkward jump melt swap gospel";

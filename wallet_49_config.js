@@ -1,1 +1,1 @@
-var mnemonic = "wave thrive zebra bright delay common fashion pioneer earn couple peasant shoe";
+var mnemonic = "judge happy inner prefer repeat upset tiger tide riot unfair timber first";

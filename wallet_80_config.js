@@ -1,1 +1,1 @@
-var mnemonic = "inject sight hello two entire poverty jazz canal sponsor apart twenty affair";
+var mnemonic = "defense beef knife warm flock zebra media frequent private avocado fold grace";

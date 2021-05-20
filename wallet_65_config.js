@@ -1,1 +1,1 @@
-var mnemonic = "network beef level orange depend elbow eight fuel clarify mountain already menu";
+var mnemonic = "globe case april cry ghost twelve game wet reward split space tiny";

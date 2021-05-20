@@ -1,1 +1,1 @@
-var mnemonic = "critic limb recall convince hurry august lemon chest when other sock make";
+var mnemonic = "laptop runway fee rail stereo first entry rough arch smart viable demand";

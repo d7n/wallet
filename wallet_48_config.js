@@ -1,1 +1,1 @@
-var mnemonic = "about comic shaft maximum sheriff manage twist sword club dentist symbol chimney";
+var mnemonic = "limit enhance faculty grow grit jeans hard faint follow misery tuna then";

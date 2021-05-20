@@ -1,1 +1,1 @@
-var mnemonic = "flash act spot still private autumn street dream bind tent pepper arrange";
+var mnemonic = "museum nut matter course lava adjust pony square subway ensure three void";

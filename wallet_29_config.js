@@ -1,1 +1,1 @@
-var mnemonic = "like slice true snack crime assume also sign decade collect hundred detail";
+var mnemonic = "voyage point social vague turn answer dizzy awkward attract giggle distance elder";

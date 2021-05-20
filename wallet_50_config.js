@@ -1,1 +1,1 @@
-var mnemonic = "spoil dry actor tribe never yard satoshi atom dress rose again will";
+var mnemonic = "lunch matter price often summer lawsuit harbor stadium balcony other fitness ghost";

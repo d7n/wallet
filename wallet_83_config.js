@@ -1,1 +1,1 @@
-var mnemonic = "useless fresh have faculty stuff success indoor gasp liquid infant kind outer";
+var mnemonic = "magic economy banana wisdom van jaguar rack eager guess frog pause evoke";

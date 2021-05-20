@@ -1,1 +1,1 @@
-var mnemonic = "cruise bomb portion iron program laptop body tool simple voice minute type";
+var mnemonic = "wisdom okay welcome hen portion auction weapon sign decade amateur say foil";

@@ -1,1 +1,1 @@
-var mnemonic = "raise romance remind celery state genre wrestle odor math useless friend reunion";
+var mnemonic = "enrich mercy pole meadow orbit relief shove giggle post method air year";

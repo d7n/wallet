@@ -1,1 +1,1 @@
-var mnemonic = "gap thank visa output nurse van turkey battle velvet exclude defy sun";
+var mnemonic = "mosquito print portion novel auction lady mammal tomorrow grit office media dance";

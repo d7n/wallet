@@ -1,1 +1,1 @@
-var mnemonic = "boost link brick amateur warfare summer powder amused erode upgrade happy tag";
+var mnemonic = "spoil student general original trip modify cotton scene person goddess deliver outdoor";

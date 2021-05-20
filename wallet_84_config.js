@@ -1,1 +1,1 @@
-var mnemonic = "submit dolphin lecture town amateur live size rural frog fault crop chase";
+var mnemonic = "chef silly wedding supreme purpose inspire exotic mind clean upset liquid comfort";

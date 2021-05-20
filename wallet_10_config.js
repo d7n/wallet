@@ -1,1 +1,1 @@
-var mnemonic = "unlock attitude flat hub saddle slot empty piece joke unique urban next";
+var mnemonic = "chalk include rabbit slam two guide spring rotate chuckle pony common sketch";

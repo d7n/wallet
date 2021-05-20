@@ -1,1 +1,1 @@
-var mnemonic = "hope easy inherit divorce arctic ticket lawsuit twist snake repeat episode joke";
+var mnemonic = "approve awake lonely wall nuclear expect ill robust basket cover minute victory";

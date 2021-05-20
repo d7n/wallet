@@ -1,1 +1,1 @@
-var mnemonic = "cry humble render hunt arena buffalo sorry traffic random also system bring";
+var mnemonic = "treat pig remain gas grid media crater tip film sadness nation tuna";

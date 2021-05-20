@@ -1,1 +1,1 @@
-var mnemonic = "matrix insect dirt drop decrease angry flavor century there civil actor small";
+var mnemonic = "song perfect scissors young survey awake plastic rug snow odor wasp apple";

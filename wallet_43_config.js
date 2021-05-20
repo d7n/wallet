@@ -1,1 +1,1 @@
-var mnemonic = "shuffle beyond return agent bench mention swear crystal electric identify comic hundred";
+var mnemonic = "math south grain aerobic speak palace absorb disorder close daughter steak present";

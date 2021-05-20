@@ -1,1 +1,1 @@
-var mnemonic = "cabbage trade voice sniff artefact crush fatigue bundle meat echo sunset fold";
+var mnemonic = "axis hawk powder scheme slot curtain expire curtain oven breeze logic design";

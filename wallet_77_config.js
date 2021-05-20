@@ -1,1 +1,1 @@
-var mnemonic = "gas elite winner weasel rescue bracket casual parent media wait recall bright";
+var mnemonic = "improve capable legend pumpkin worry across huge remain key pass six drink";

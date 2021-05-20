@@ -1,1 +1,1 @@
-var mnemonic = "hungry regular squirrel luggage false gown weather gift space enrich lumber index";
+var mnemonic = "april divorce result wolf tell task dynamic dismiss nation parent nature coil";

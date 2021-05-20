@@ -1,1 +1,1 @@
-var mnemonic = "slam bird ghost casual angle hungry machine choice captain segment village noise";
+var mnemonic = "coral impose need cover vessel laugh area affair fuel mimic announce sample";

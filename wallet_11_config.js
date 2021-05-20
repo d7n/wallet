@@ -1,1 +1,1 @@
-var mnemonic = "glove budget inform time message repair sponsor drive unknown link entire viable";
+var mnemonic = "flag auction blouse clever exhaust hood captain apology name sadness gain gown";

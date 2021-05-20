@@ -1,1 +1,1 @@
-var mnemonic = "screen blue news banana rack economy group march jaguar cage roast legal";
+var mnemonic = "protect popular wasp exist glance provide coral shield sorry client victory skirt";

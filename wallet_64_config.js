@@ -1,1 +1,1 @@
-var mnemonic = "program solar kangaroo weapon want chef donor bless breeze order jeans motion";
+var mnemonic = "whip couple gain display endless sort circle nature example smoke squirrel problem";

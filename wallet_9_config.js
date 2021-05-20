@@ -1,1 +1,1 @@
-var mnemonic = "viable tobacco depart fragile error leopard situate unfair laugh negative miss code";
+var mnemonic = "time such addict unfold smooth sorry twenty vapor stereo circle narrow march";

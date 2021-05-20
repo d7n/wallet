@@ -1,1 +1,1 @@
-var mnemonic = "version wing glove panda alone industry job carry pave elegant jump midnight";
+var mnemonic = "history jungle welcome phrase dance engage envelope trust ceiling mind staff voice";

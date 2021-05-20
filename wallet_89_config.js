@@ -1,1 +1,1 @@
-var mnemonic = "renew lake assume man garage wedding task hamster scare garbage two hood";
+var mnemonic = "secret rail general window shift swap corn slush often circle ill eye";

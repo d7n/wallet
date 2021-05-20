@@ -1,1 +1,1 @@
-var mnemonic = "adapt ship edge also spot still tunnel park smooth gorilla raccoon sad";
+var mnemonic = "inch then filter script mule edit tiny midnight more turkey coconut walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "kind envelope odor anxiety bottom giraffe dial gap raise emotion modify gain";
+var mnemonic = "example enlist angry breeze discover sick people bring front regret cash figure";

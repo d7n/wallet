@@ -1,1 +1,1 @@
-var mnemonic = "special raise oak rack only oval speed better flash water march pond";
+var mnemonic = "destroy advance treat swamp nation goose winter nest core creek arrest lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy report boil fix style rude blush autumn muscle symbol seek picnic";
+var mnemonic = "glow lumber trick you dawn convince tide cube night hour gap rotate";

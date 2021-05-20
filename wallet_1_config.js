@@ -1,1 +1,1 @@
-var mnemonic = "fresh motion amazing hour physical flush account pool fresh flat kid live";
+var mnemonic = "sight oyster assist position bicycle casino scorpion plate alert essence swim ghost";

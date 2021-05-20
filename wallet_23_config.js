@@ -1,1 +1,1 @@
-var mnemonic = "during master chief chef horn duty indicate slogan increase test enroll wealth";
+var mnemonic = "sea degree measure blood frozen middle witness option swamp chuckle girl twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit truck awful wealth secret exclude alarm unique fold another profit fatigue";
+var mnemonic = "palm helmet video jump afford matrix glare minute smile accident letter robot";

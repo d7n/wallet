@@ -1,1 +1,1 @@
-var mnemonic = "step fun slide describe piece force media table replace gospel twist dirt";
+var mnemonic = "luxury muffin drum bright define session embody toy museum lady spice pupil";

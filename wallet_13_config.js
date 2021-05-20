@@ -1,1 +1,1 @@
-var mnemonic = "flash easily wait town blade grid stool elder armor glance wait alcohol";
+var mnemonic = "license velvet lemon glimpse toilet envelope liar grid iron guard post wait";

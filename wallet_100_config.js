@@ -1,1 +1,1 @@
-var mnemonic = "mother lumber undo hundred soldier note tomato vital vacuum owner mistake robust";
+var mnemonic = "uphold connect fault rib raccoon heart average dish icon acoustic pair face";

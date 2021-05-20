@@ -1,1 +1,1 @@
-var mnemonic = "process foam have glide noise usual find desk angry impose glory master";
+var mnemonic = "wasp inmate burst keen soon there evolve panther waste wreck charge found";

@@ -1,1 +1,1 @@
-var mnemonic = "route divide bag fabric afraid yard matrix garage code tongue spy useless";
+var mnemonic = "minute eternal hurt soccer panel outer ripple hamster type glass cradle pave";

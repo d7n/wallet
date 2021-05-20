@@ -1,1 +1,1 @@
-var mnemonic = "buffalo home atom hint rough suspect reunion soul first useful diesel stem";
+var mnemonic = "foam student satoshi kingdom gesture order cash social aspect rug describe uphold";

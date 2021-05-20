@@ -1,1 +1,1 @@
-var mnemonic = "easily venture flush evil payment acquire cradle liar health pudding warfare family";
+var mnemonic = "habit crack planet weather jar super ribbon invest spike debris struggle wide";

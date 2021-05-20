@@ -1,1 +1,1 @@
-var mnemonic = "divorce diet autumn toss oppose crime solve hedgehog deputy gather frozen pitch";
+var mnemonic = "reopen jaguar miracle uncover ten century toward hospital siege inside bargain genius";

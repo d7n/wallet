@@ -1,1 +1,1 @@
-var mnemonic = "absent man brand weapon bracket bulb year chalk vehicle plug whisper clip";
+var mnemonic = "happy expire project company ramp total bus enrich flip practice unhappy mistake";

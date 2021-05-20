@@ -1,1 +1,1 @@
-var mnemonic = "hold tree special mechanic honey increase guitar idea tent cram theory odor";
+var mnemonic = "slim tobacco giggle toward column spike trash kite image output august juice";

@@ -1,1 +1,1 @@
-var mnemonic = "daring great only deal trim book hip decorate pledge bottom offer tuition";
+var mnemonic = "cloud silk upon suggest minimum catalog donor dose return spare crouch hunt";

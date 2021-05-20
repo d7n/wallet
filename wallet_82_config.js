@@ -1,1 +1,1 @@
-var mnemonic = "spider pattern spin noise gold sweet prefer swing trade stand rural recall";
+var mnemonic = "fatigue clutch iron mobile clip into step deer pelican grit junior focus";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect accuse catch undo diagram notable human enable turn tomorrow cover review";
+var mnemonic = "rally purchase wheel below stool history siren forum share magnet escape gun";

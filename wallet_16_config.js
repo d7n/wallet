@@ -1,1 +1,1 @@
-var mnemonic = "code intact appear oval course hurt sing spray steak pyramid crash candy";
+var mnemonic = "world spray addict video label waste slot fashion demise rather spend february";

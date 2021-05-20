@@ -1,1 +1,1 @@
-var mnemonic = "brick empty icon mix stumble prosper sock iron garage seek trick beyond";
+var mnemonic = "position art bundle blind upgrade citizen disease salute glow glue rhythm defy";

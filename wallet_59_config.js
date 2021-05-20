@@ -1,1 +1,1 @@
-var mnemonic = "bone fan impose spatial ginger merit unknown remind casual fantasy coil wash";
+var mnemonic = "rate fat message ugly rocket agree destroy nothing member stand stuff argue";

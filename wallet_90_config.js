@@ -1,1 +1,1 @@
-var mnemonic = "educate among lounge same sword sausage suit math ostrich walnut rhythm bonus";
+var mnemonic = "stem worry large chunk umbrella siege lonely milk inflict quiz table clown";

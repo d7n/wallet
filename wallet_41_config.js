@@ -1,1 +1,1 @@
-var mnemonic = "butter sauce daring impact wall monkey manual doctor method flash refuse end";
+var mnemonic = "comic bomb suffer afford hundred famous breeze pride local similar suit child";

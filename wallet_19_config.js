@@ -1,1 +1,1 @@
-var mnemonic = "they supreme private point primary fence away current increase merge powder mixture";
+var mnemonic = "old comic host deposit neck drive scorpion cannon print legal believe move";

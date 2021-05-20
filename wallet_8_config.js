@@ -1,1 +1,1 @@
-var mnemonic = "enforce rather three alone shoe account art you wine obvious salt exotic";
+var mnemonic = "fatal either athlete chuckle east ladder chase sting drastic party cannon top";

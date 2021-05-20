@@ -1,1 +1,1 @@
-var mnemonic = "rug spread between jump busy submit broccoli stomach evidence smooth accident pluck";
+var mnemonic = "hurdle exit school ladder yard miracle trash canyon olive place traffic captain";

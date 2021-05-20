@@ -1,1 +1,1 @@
-var mnemonic = "since panel plunge gold economy abstract photo rotate enemy rural faith napkin";
+var mnemonic = "piece buffalo argue crunch grunt mystery sunny split silk problem file now";

@@ -1,1 +1,1 @@
-var mnemonic = "silver away begin quantum decide today clean okay trash asthma sponsor account";
+var mnemonic = "reduce ecology abandon illegal purchase route give machine manage spatial camp announce";

@@ -1,1 +1,1 @@
-var mnemonic = "butter say vibrant update advice area dawn modify moment timber manage note";
+var mnemonic = "toast peanut mention make cage borrow live unveil similar awesome lock planet";

@@ -1,1 +1,1 @@
-var mnemonic = "unable scene volume immense patrol run reject mercy mask hurry seat series";
+var mnemonic = "cause forum math one subway desert upon danger outer awake escape oil";

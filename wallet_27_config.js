@@ -1,1 +1,1 @@
-var mnemonic = "minute grief theory mass enhance text measure stadium quick engine dwarf slam";
+var mnemonic = "excuse reward guilt panic mountain border insane auction shove shove galaxy between";

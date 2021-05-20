@@ -1,1 +1,1 @@
-var mnemonic = "impose season penalty assault fault position civil liar supply engine onion recycle";
+var mnemonic = "come gun wink pumpkin develop prosper talent position team chase nature visual";

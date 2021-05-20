@@ -1,1 +1,1 @@
-var mnemonic = "wrong domain festival copper zero donate rapid dolphin aunt lift enemy depth";
+var mnemonic = "intact corn churn during squirrel weird sentence wood pelican card chef stand";
