@@ -1,1 +1,1 @@
-var mnemonic = "funny north hybrid roast label dove ancient other require shoulder glide shallow";
+var mnemonic = "clump act reunion goddess predict muscle swamp ladder comic october sand project";

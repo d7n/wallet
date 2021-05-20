@@ -1,1 +1,1 @@
-var mnemonic = "glue legal insane reason arrive twenty spot basket squirrel abandon pear bundle";
+var mnemonic = "thunder dial worth problem train reveal mad omit taxi session tube recycle";

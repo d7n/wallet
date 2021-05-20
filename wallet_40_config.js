@@ -1,1 +1,1 @@
-var mnemonic = "print pencil cruel meadow initial shift measure wait measure athlete flock gasp";
+var mnemonic = "width bread chest purse quiz afraid tomorrow welcome black kiss example dirt";

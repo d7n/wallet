@@ -1,1 +1,1 @@
-var mnemonic = "sight duck ill buddy leisure agent jealous matter grab lunar loud like";
+var mnemonic = "argue gaze people artwork mango cotton mass giraffe copper olympic captain vault";

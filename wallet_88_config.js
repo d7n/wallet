@@ -1,1 +1,1 @@
-var mnemonic = "follow develop armor fall able laugh equip present process bundle size pitch";
+var mnemonic = "remove release bread bar spring wrestle crowd cute glove forest inform couple";

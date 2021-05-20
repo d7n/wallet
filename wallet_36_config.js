@@ -1,1 +1,1 @@
-var mnemonic = "robot wet orphan civil unlock wolf road october wait offer into volcano";
+var mnemonic = "chief recipe garbage carpet attack duty coffee super thing doll section shoot";

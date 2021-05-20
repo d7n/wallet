@@ -1,1 +1,1 @@
-var mnemonic = "mask then salad imitate final frequent door surprise run ginger diamond surface";
+var mnemonic = "you drop clip open velvet uniform economy result erase alarm bone link";

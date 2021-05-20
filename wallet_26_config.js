@@ -1,1 +1,1 @@
-var mnemonic = "camp range casual blame rabbit kitchen inquiry leave name doll boy explain";
+var mnemonic = "neck dumb degree help script popular truck hollow cycle inform gym common";

@@ -1,1 +1,1 @@
-var mnemonic = "later sing veteran tell swift minute silent animal author provide toy cousin";
+var mnemonic = "jelly heavy acid table exotic happy salon october address stick anxiety census";

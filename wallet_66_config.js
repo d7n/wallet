@@ -1,1 +1,1 @@
-var mnemonic = "chef army able language dutch clutch fork shift actress concert vote lonely";
+var mnemonic = "squeeze vicious size quarter donor dumb agree ranch century multiply side decide";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor merge napkin good curve amount fun stumble unknown faculty slogan hidden";
+var mnemonic = "boring immune burden damp void casino lawsuit arrive burger upset use sheriff";

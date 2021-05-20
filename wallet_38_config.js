@@ -1,1 +1,1 @@
-var mnemonic = "mosquito turn wonder sunny merge sample adjust clay crunch extend book butter";
+var mnemonic = "fever code polar enable meat visit borrow chief icon noodle stove hockey";

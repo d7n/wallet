@@ -1,1 +1,1 @@
-var mnemonic = "admit torch pipe journey inner metal loud cream electric reopen sport earth";
+var mnemonic = "someone title casual market proof tortoise few situate hire woman abandon sweet";

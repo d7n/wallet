@@ -1,1 +1,1 @@
-var mnemonic = "crane define follow cable sense squeeze oppose sign clock senior fancy convince";
+var mnemonic = "capital junk casino purpose cheap length weasel disease muffin demise cute rule";

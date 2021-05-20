@@ -1,1 +1,1 @@
-var mnemonic = "kick pretty give abuse canoe fog regular cruise plug weather doll process";
+var mnemonic = "garment moral remain embrace lake there spoon light main bottom crew local";

@@ -1,1 +1,1 @@
-var mnemonic = "enable water husband doctor common middle program noise sad inhale stove series";
+var mnemonic = "gate spike intact neck cable oak exhibit relief home sample style despair";

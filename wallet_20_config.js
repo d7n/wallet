@@ -1,1 +1,1 @@
-var mnemonic = "regret balcony call mean parade secret milk turtle text cycle reflect elevator";
+var mnemonic = "focus dust ancient entire essence paper rotate nice second sunny ask lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy strike defy victory oxygen profit local avoid attack piece orphan brush";
+var mnemonic = "alone shop silver mimic sing luxury slim rebel enemy decline nothing medal";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit arch perfect field either sting payment nuclear mountain winner same august";
+var mnemonic = "wheel funny picnic soul pencil endless exhibit turn style hidden few fragile";

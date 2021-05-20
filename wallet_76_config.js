@@ -1,1 +1,1 @@
-var mnemonic = "fox globe leisure soft average reform hover quick brain version simple carpet";
+var mnemonic = "mix desert waste announce upon kiwi resist drip shy interest dentist stable";

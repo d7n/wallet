@@ -1,1 +1,1 @@
-var mnemonic = "infant inch true report load sibling canvas siren cinnamon absent motion knock";
+var mnemonic = "theme confirm foster cliff off drastic still gold odor naive mind group";

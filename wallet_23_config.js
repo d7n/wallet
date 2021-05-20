@@ -1,1 +1,1 @@
-var mnemonic = "raven tape merry predict faculty chief machine silver square awful adjust asthma";
+var mnemonic = "cluster rigid stuff supply hire stand snake police parrot seven salad million";

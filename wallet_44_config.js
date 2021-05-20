@@ -1,1 +1,1 @@
-var mnemonic = "fence clump clutch ladder slice earn crawl embody arm oblige unable need";
+var mnemonic = "hobby unit trigger project upon expose scout toddler someone purse creek flush";

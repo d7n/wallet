@@ -1,1 +1,1 @@
-var mnemonic = "kick quote congress flash weather angle kiss kind gossip typical burger angry";
+var mnemonic = "very tattoo artwork dutch maximum develop attend outside drop web enrich resource";

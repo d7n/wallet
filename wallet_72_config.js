@@ -1,1 +1,1 @@
-var mnemonic = "cushion civil crime avocado scissors satoshi diesel once tube virus october magic";
+var mnemonic = "truth peanut rookie skin lake flavor immense number couch tell reunion cat";

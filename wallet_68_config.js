@@ -1,1 +1,1 @@
-var mnemonic = "riot stone there act maid face pill device cry cool squirrel expect";
+var mnemonic = "tube age forget taste imitate require coral viable raven test clever example";

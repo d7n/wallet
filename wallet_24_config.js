@@ -1,1 +1,1 @@
-var mnemonic = "slab bench drive cereal move apple mind rain alien garment grunt patient";
+var mnemonic = "chest stove mixture tag honey gadget rough demand moon pizza cram dawn";

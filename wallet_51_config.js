@@ -1,1 +1,1 @@
-var mnemonic = "comfort icon enjoy merry physical fame ramp ketchup mercy course hedgehog steak";
+var mnemonic = "vague slow leopard grass rely estate nice benefit bicycle steel museum notable";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling bargain unhappy sting chuckle anchor wrap hidden stable swing blanket category";
+var mnemonic = "capable federal olive floor interest proof drip measure same snap panel unveil";

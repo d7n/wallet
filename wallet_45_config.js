@@ -1,1 +1,1 @@
-var mnemonic = "disagree bring mobile fine switch job menu adult anger pigeon radar photo";
+var mnemonic = "sauce rack transfer pudding panda pudding group heart renew pioneer problem ozone";

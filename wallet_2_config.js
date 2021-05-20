@@ -1,1 +1,1 @@
-var mnemonic = "casino field bird idle pledge champion sun casual observe canvas hill scare";
+var mnemonic = "sight demand dumb fatigue manual crowd attitude key chief hollow pulp input";

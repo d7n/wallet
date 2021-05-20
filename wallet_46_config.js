@@ -1,1 +1,1 @@
-var mnemonic = "camp soul snack child exhaust order cool suggest tank caught check assume";
+var mnemonic = "type usual grit admit dentist train glance across acoustic brown rain pact";

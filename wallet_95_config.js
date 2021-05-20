@@ -1,1 +1,1 @@
-var mnemonic = "focus turkey submit fuel dress found excess yellow today record click noodle";
+var mnemonic = "vendor judge category already choose stay visit fury bomb parrot ball goat";

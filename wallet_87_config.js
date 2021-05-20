@@ -1,1 +1,1 @@
-var mnemonic = "giant perfect shift host fragile color ticket insane funny minimum garden sing";
+var mnemonic = "plunge twelve marine lumber arrange cabbage outer potato promote caught seminar gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler print company either detect assault exact buddy copper mail social brand";
+var mnemonic = "fetch family climb slab fox prize check curtain evidence echo west man";

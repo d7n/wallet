@@ -1,1 +1,1 @@
-var mnemonic = "sense bronze ski scout hamster enrich shove view hand olympic dumb trap";
+var mnemonic = "audit deputy assault acid picture valid heavy thought color eager lucky camera";

@@ -1,1 +1,1 @@
-var mnemonic = "rack worry penalty tell sword high summer plug forget tornado click eager";
+var mnemonic = "raccoon curve defense coffee tortoise lizard federal exhaust such feel any act";

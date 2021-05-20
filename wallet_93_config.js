@@ -1,1 +1,1 @@
-var mnemonic = "region attitude sudden eternal day circle vacuum jump hood filter menu palm";
+var mnemonic = "stick copper winter acid proof fantasy expand priority erase defense broken spirit";

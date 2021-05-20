@@ -1,1 +1,1 @@
-var mnemonic = "session thunder diary inner unfair excess leaf when fortune key breeze tortoise";
+var mnemonic = "diary hurt guard toilet slush aware humor word lion retreat dove soul";

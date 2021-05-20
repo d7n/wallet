@@ -1,1 +1,1 @@
-var mnemonic = "photo private attend volume logic shoot rubber hope fly park word what";
+var mnemonic = "dynamic settle rely language success seek auction save scatter loyal two submit";

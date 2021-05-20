@@ -1,1 +1,1 @@
-var mnemonic = "wage salt train nuclear one scrub idea apple misery head gold garden";
+var mnemonic = "lyrics crop abuse oil elite flip always convince avocado admit fine annual";

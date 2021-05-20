@@ -1,1 +1,1 @@
-var mnemonic = "humble hammer divide laundry palm robot episode segment elegant van zoo aim";
+var mnemonic = "slender flight face city coffee enjoy cinnamon elegant quantum nature abandon leisure";

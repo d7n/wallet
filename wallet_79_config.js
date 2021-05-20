@@ -1,1 +1,1 @@
-var mnemonic = "equip sadness image own amateur champion theory consider elbow record wreck royal";
+var mnemonic = "foot stove danger alter couple top exhibit rocket market wagon apple pencil";

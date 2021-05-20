@@ -1,1 +1,1 @@
-var mnemonic = "update fly embrace nature inform expose common stove door parade fashion purpose";
+var mnemonic = "siege daring scorpion certain slab ill powder hair area mule drink act";

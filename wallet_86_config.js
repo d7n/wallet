@@ -1,1 +1,1 @@
-var mnemonic = "curious obvious will food current guard smoke metal excite lamp announce train";
+var mnemonic = "pistol lawsuit resemble baby glimpse nominee speed treat unveil filter oppose rotate";

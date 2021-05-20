@@ -1,1 +1,1 @@
-var mnemonic = "sauce stumble hair olympic ugly neglect pet need trend air dutch omit";
+var mnemonic = "cereal vacuum master sun garbage dad census hip mansion wage lady craft";

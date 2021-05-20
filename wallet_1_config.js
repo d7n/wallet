@@ -1,1 +1,1 @@
-var mnemonic = "autumn ribbon inquiry pink awful believe cannon nice concert what omit lonely";
+var mnemonic = "merit deer parrot joke hint document soccer credit street south term confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery whip train lounge holiday doll pistol hero exhibit around order regular";
+var mnemonic = "buddy shift dry awful arctic drama mix behind taxi weapon region coffee";

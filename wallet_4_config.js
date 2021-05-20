@@ -1,1 +1,1 @@
-var mnemonic = "unhappy income miss olive auction blanket excite joy mass impulse depend consider";
+var mnemonic = "future belt vehicle resist goddess happy crunch thing flower sword around panel";

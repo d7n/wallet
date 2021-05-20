@@ -1,1 +1,1 @@
-var mnemonic = "language chronic sample debate absorb sister try indicate endless fabric tobacco pact";
+var mnemonic = "series shoe shadow swear disagree explain live gap ski pepper half glimpse";

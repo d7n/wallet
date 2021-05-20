@@ -1,1 +1,1 @@
-var mnemonic = "gallery traffic someone learn crazy million scale trouble margin crater market opera";
+var mnemonic = "cage loan injury sword sound bacon grunt crane endless year health cage";

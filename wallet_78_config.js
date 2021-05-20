@@ -1,1 +1,1 @@
-var mnemonic = "crumble couple honey unfold summer tiger champion fame trend blood oil clutch";
+var mnemonic = "owner stool limb solution bubble mango candy can perfect tip that antenna";

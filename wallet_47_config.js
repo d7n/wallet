@@ -1,1 +1,1 @@
-var mnemonic = "gravity deliver siege name soldier square muscle unable select alarm bottom length";
+var mnemonic = "illegal senior park scatter canyon inherit grace arrest spider abandon follow video";

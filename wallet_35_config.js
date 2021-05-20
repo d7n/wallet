@@ -1,1 +1,1 @@
-var mnemonic = "decline lizard pizza mystery genre seed blade sorry save state rule rent";
+var mnemonic = "concert slush blur boss pretty evil adapt daring emotion trophy problem shadow";

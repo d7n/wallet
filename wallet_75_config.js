@@ -1,1 +1,1 @@
-var mnemonic = "step tiger wedding prevent short broken endorse animal rule harvest pencil improve";
+var mnemonic = "spatial blast pull morning another river surge sort note dirt chunk churn";

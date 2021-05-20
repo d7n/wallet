@@ -1,1 +1,1 @@
-var mnemonic = "spoon slight flag rubber shine property question wink style admit school entire";
+var mnemonic = "report choice gospel flush amused earth blouse offer kingdom hard kind firm";

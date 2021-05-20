@@ -1,1 +1,1 @@
-var mnemonic = "spin sustain carpet toddler cube naive album rebuild rose series accident primary";
+var mnemonic = "brass invite check teach consider day record lava moon sell turn flat";

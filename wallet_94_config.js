@@ -1,1 +1,1 @@
-var mnemonic = "wear more spawn canoe one dad purchase exact behind emerge legend eye";
+var mnemonic = "gorilla denial dish remember sponsor join soldier fade true country cactus toe";

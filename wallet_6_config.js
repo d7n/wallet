@@ -1,1 +1,1 @@
-var mnemonic = "virus zoo plate paper finger monkey control stool upper knee want ask";
+var mnemonic = "biology farm absent marine mixture attitude legend favorite forest dance pledge safe";

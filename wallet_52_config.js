@@ -1,1 +1,1 @@
-var mnemonic = "discover arrange sell hobby concert volcano pupil bone buyer success audit opinion";
+var mnemonic = "clip aspect follow security guard sphere wealth powder poverty term tag deer";

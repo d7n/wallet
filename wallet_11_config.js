@@ -1,1 +1,1 @@
-var mnemonic = "deer cattle mercy pottery cloud hope humor choose ticket spare pink media";
+var mnemonic = "spoil ostrich foot spread series ability couple three genuine carry spatial canoe";

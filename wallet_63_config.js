@@ -1,1 +1,1 @@
-var mnemonic = "desert clip hedgehog blossom topic mail elder science mother six fox next";
+var mnemonic = "clay double mesh they invest oyster select faculty letter hard buyer celery";

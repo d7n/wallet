@@ -1,1 +1,1 @@
-var mnemonic = "that neither rubber omit afraid wonder prefer cushion lunch gift garbage horror";
+var mnemonic = "robust crash leaf correct differ iron dove pluck addict sock decorate hover";

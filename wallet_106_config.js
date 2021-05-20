@@ -1,1 +1,1 @@
-var mnemonic = "desk depend bonus island host young put jacket pyramid act similar enrich";
+var mnemonic = "dinner blossom next basket exile inspire taxi tool faculty sight reflect lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "text age deposit cousin steak weather soda harvest wet rival gossip client";
+var mnemonic = "alert devote ahead predict debris mushroom lava pull clever notable faculty weasel";

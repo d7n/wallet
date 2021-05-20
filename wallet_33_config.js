@@ -1,1 +1,1 @@
-var mnemonic = "kit type ivory scissors aspect actor voice lens adjust soft skull object";
+var mnemonic = "puzzle exotic wheat daughter account vehicle donkey high actress void cost garment";

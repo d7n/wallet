@@ -1,1 +1,1 @@
-var mnemonic = "tuna bulb safe season orchard rose cream chief angry verb report rotate";
+var mnemonic = "repair input marine rhythm thought clog often finish rescue copper lend problem";

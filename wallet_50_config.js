@@ -1,1 +1,1 @@
-var mnemonic = "avoid town sadness leaf prosper mango sail answer harvest similar wrap dizzy";
+var mnemonic = "scan season broom pizza erode share track evolve need pencil lunar great";

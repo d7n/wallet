@@ -1,1 +1,1 @@
-var mnemonic = "monster pill insect jeans dizzy cushion fade enlist unaware crucial fiction remind";
+var mnemonic = "elevator gold fossil can bike clever unit enlist shove brother mom divide";

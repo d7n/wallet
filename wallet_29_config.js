@@ -1,1 +1,1 @@
-var mnemonic = "crime arena mountain fortune icon rice illness wing matter color rebel side";
+var mnemonic = "orchard day radar cycle borrow snake exit whale envelope clip train ride";

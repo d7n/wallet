@@ -1,1 +1,1 @@
-var mnemonic = "churn spawn animal capable trend cancel seek brief taste spawn rebel saddle";
+var mnemonic = "nephew man quarter report unique soldier pride eager axis enemy fix noodle";

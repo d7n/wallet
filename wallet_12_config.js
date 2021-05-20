@@ -1,1 +1,1 @@
-var mnemonic = "bunker exit detail rocket uncover wood tag force sort bomb monster quantum";
+var mnemonic = "weather sail bone promote someone pond any voice trend spy token raise";

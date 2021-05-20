@@ -1,1 +1,1 @@
-var mnemonic = "cloud garlic pause tomorrow tomato insect grit person assist model brother puzzle";
+var mnemonic = "disease eager duty cotton general claim chapter illness skull snow dragon hub";

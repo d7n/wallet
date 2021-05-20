@@ -1,1 +1,1 @@
-var mnemonic = "turn slam supply mule ecology oblige front flip injury daring shoulder right";
+var mnemonic = "shock mobile swing elder sponsor solve face slab monster turtle kidney cement";

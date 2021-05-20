@@ -1,1 +1,1 @@
-var mnemonic = "mosquito major cash candy amused tenant series near retreat nominee never engage";
+var mnemonic = "item popular ankle dune sting double arrest clutch advice vessel year tool";

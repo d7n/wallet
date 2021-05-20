@@ -1,1 +1,1 @@
-var mnemonic = "reopen duck chronic pluck juice soda pistol duck entire throw boil peasant";
+var mnemonic = "village heavy daring oyster note nature slab shy eye sword join leisure";

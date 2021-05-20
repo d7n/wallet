@@ -1,1 +1,1 @@
-var mnemonic = "film drum address travel gorilla say into volcano item medal love odor";
+var mnemonic = "lab holiday spray record gain lecture large knee share rich warfare shield";

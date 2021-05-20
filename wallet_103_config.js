@@ -1,1 +1,1 @@
-var mnemonic = "mule naive pull ritual toe stock charge duty west universe tackle zoo";
+var mnemonic = "live lunch frame remind olympic best patch toss much decrease brief ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch puppy apart aspect jaguar useful blind action ozone female author material";
+var mnemonic = "paper harvest relief tip enact impact wheel require hope symbol useful buddy";

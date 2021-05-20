@@ -1,1 +1,1 @@
-var mnemonic = "primary exercise simple rail injury rude bright elevator liberty guitar recycle inch";
+var mnemonic = "like fan have dawn fury promote define uniform park width deposit run";

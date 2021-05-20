@@ -1,1 +1,1 @@
-var mnemonic = "wink twelve fall foster excess digital observe reflect cram improve casual ankle";
+var mnemonic = "business attend bless catalog mammal certain unaware blanket motor inmate goose tilt";

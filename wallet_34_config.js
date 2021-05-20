@@ -1,1 +1,1 @@
-var mnemonic = "wink cause february wife twelve cricket rescue ceiling again century labor lottery";
+var mnemonic = "female weekend token know grief sing rigid buyer victory ostrich coyote pulse";

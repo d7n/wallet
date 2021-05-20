@@ -1,1 +1,1 @@
-var mnemonic = "loud inmate rough rhythm snow six merry tray near path clarify primary";
+var mnemonic = "crowd current mind define tomato destroy number amateur apart exhibit dolphin rally";

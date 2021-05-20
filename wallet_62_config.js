@@ -1,1 +1,1 @@
-var mnemonic = "coyote mass hamster trap basic own praise mimic leader vote breeze dutch";
+var mnemonic = "nut social spawn iron garlic road fade family gravity finish behave dog";

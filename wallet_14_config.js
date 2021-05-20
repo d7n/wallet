@@ -1,1 +1,1 @@
-var mnemonic = "lift leader parade sock tent crawl harsh gather squirrel whip brown funny";
+var mnemonic = "sword mad car first quarter insane chief half wrong hire comic stone";

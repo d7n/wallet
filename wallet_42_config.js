@@ -1,1 +1,1 @@
-var mnemonic = "multiply season liquid gown stumble price merry hub cinnamon taxi mistake honey";
+var mnemonic = "follow wasp increase fame version frost drive digital throw brave toast rose";

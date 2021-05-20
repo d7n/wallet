@@ -1,1 +1,1 @@
-var mnemonic = "humble buddy check regret never pizza cruel match borrow flight dish stool";
+var mnemonic = "fun leaf thought under reflect shield spin source puzzle cinnamon evolve tomato";

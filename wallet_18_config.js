@@ -1,1 +1,1 @@
-var mnemonic = "hope wrestle smooth bird vital ladder gown forum venue void snake this";
+var mnemonic = "salon laptop solve bridge witness flight equal mansion denial keep reject correct";
