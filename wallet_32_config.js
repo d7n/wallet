@@ -1,1 +1,1 @@
-var mnemonic = "fold episode keen embody avocado accuse gate rely inform miracle hundred noise";
+var mnemonic = "shoulder image earth dance tilt couch cousin hope armed magic secret disagree";

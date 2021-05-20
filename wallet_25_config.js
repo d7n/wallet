@@ -1,1 +1,1 @@
-var mnemonic = "normal finger vibrant wall move jelly case limb that tag doctor eight";
+var mnemonic = "glory hope during rookie awkward chicken measure owner clap where thought depend";

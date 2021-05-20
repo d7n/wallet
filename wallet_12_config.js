@@ -1,1 +1,1 @@
-var mnemonic = "crater lawn age undo fly sphere you foil enforce juice high april";
+var mnemonic = "walk good found margin little brass art cost disease drip actual isolate";

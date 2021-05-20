@@ -1,1 +1,1 @@
-var mnemonic = "hope image meat page tissue about parent anchor execute confirm dinosaur ticket";
+var mnemonic = "delay universe keep neither correct panel avoid tobacco duck funny bleak pistol";

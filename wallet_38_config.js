@@ -1,1 +1,1 @@
-var mnemonic = "boss practice liquid fat goat tragic predict electric window corn undo bone";
+var mnemonic = "bamboo urge tip fatigue message describe margin man riot three world kitten";

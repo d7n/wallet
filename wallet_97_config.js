@@ -1,1 +1,1 @@
-var mnemonic = "winner matrix various muffin obscure text smile run bridge various travel enough";
+var mnemonic = "select fee urban bird tonight donate endorse web spoil buyer cage amount";

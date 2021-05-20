@@ -1,1 +1,1 @@
-var mnemonic = "mansion surge boil later love keep pupil morning involve turtle sell expose";
+var mnemonic = "exit destroy butter question ranch theme credit monkey label reveal matter zoo";

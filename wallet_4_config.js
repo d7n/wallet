@@ -1,1 +1,1 @@
-var mnemonic = "brisk text apple begin seven audit art upgrade cart tree attitude abstract";
+var mnemonic = "wise muscle average mother dress curious grow juice sing rule split creek";

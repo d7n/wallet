@@ -1,1 +1,1 @@
-var mnemonic = "razor income crazy sudden champion affair deposit window matter good garden gauge";
+var mnemonic = "impose velvet unlock rice rack jelly twin disease where elevator can average";

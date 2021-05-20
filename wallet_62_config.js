@@ -1,1 +1,1 @@
-var mnemonic = "alcohol olympic artist citizen neck hover satoshi wide latin pioneer garment good";
+var mnemonic = "local brass dream crawl approve almost away sudden black force embrace true";

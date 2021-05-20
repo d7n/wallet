@@ -1,1 +1,1 @@
-var mnemonic = "couch method joy final giant cigar plastic long gaze axis muffin arrive";
+var mnemonic = "noble pretty start giggle defy confirm arctic snap frown kitchen boy suit";

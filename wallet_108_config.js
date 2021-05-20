@@ -1,1 +1,1 @@
-var mnemonic = "topic siege island stock correct device live latin pull common deer turn";
+var mnemonic = "oil banner antenna try poverty whisper quiz any length country brass wife";

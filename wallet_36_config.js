@@ -1,1 +1,1 @@
-var mnemonic = "boss scout raw annual ostrich century find hazard dutch comic unhappy wall";
+var mnemonic = "olympic name token certain chimney stem brain exhaust blast taxi gas hungry";

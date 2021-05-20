@@ -1,1 +1,1 @@
-var mnemonic = "rapid identify nuclear scrap october produce faint silk call mixed copper urge";
+var mnemonic = "injury twist truth doll erode fatigue cloud stick dwarf speak key buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "theme brick pepper monkey couple avoid travel any exhaust junior use priority";
+var mnemonic = "smile security fabric blast certain chef define vocal bless easily judge plastic";

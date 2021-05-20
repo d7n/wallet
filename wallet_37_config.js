@@ -1,1 +1,1 @@
-var mnemonic = "bus bacon clap twice leisure cause need little bacon bacon glory actual";
+var mnemonic = "gossip point group train cheese beauty unaware enjoy boss poet lunar gauge";

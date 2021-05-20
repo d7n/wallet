@@ -1,1 +1,1 @@
-var mnemonic = "tribe adjust code essence page spell own misery soon omit derive record";
+var mnemonic = "lab satoshi mad egg current gloom usual sauce clerk sniff curtain differ";

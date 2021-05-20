@@ -1,1 +1,1 @@
-var mnemonic = "food skirt suffer bird pony promote cat athlete genre sample couple polar";
+var mnemonic = "alarm regret daughter arrow alter taste behave also sense comic tenant shoe";

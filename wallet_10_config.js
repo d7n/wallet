@@ -1,1 +1,1 @@
-var mnemonic = "school length mechanic buyer unfold beauty glow question release destroy insane public";
+var mnemonic = "because zebra sign surface adjust weasel stumble abuse topic tip pink doll";

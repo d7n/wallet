@@ -1,1 +1,1 @@
-var mnemonic = "eagle pulse transfer simple check ignore wine alpha spread ancient rich rebel";
+var mnemonic = "evidence guard until action argue source point file argue review drop can";

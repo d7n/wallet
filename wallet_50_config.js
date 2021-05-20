@@ -1,1 +1,1 @@
-var mnemonic = "pretty detail wrong remove usual kind pulse purity prefer slab subway ribbon";
+var mnemonic = "section chair peasant cook card notice approve old drink kingdom donate era";

@@ -1,1 +1,1 @@
-var mnemonic = "because sword earn rich shine educate fantasy test glass anxiety ahead surface";
+var mnemonic = "assault term antique strategy snack valve cannon mansion hundred purity cricket stand";

@@ -1,1 +1,1 @@
-var mnemonic = "super leisure mammal cram buffalo right monitor firm humor flower release hybrid";
+var mnemonic = "snake satisfy soft excite powder swear pottery various enable lab stairs nest";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual cause hurry art side unusual wreck foil end output such like";
+var mnemonic = "table yard black radio fence wheat permit invest garment rug nose result";

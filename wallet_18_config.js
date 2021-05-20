@@ -1,1 +1,1 @@
-var mnemonic = "exotic live cousin dad scrub parrot lounge garbage rich auction write ordinary";
+var mnemonic = "similar hidden case crash erupt please reduce rich face puzzle page whale";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty school march bubble correct coach pact address install suffer slam library";
+var mnemonic = "net man elite produce hub nasty casino wall wise garbage oppose fat";

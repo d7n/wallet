@@ -1,1 +1,1 @@
-var mnemonic = "duty canal letter vague figure abstract curve concert garment lottery owner rifle";
+var mnemonic = "owner endless mule crowd pudding tobacco clean million they cliff shy observe";

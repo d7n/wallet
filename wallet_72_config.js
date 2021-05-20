@@ -1,1 +1,1 @@
-var mnemonic = "figure climb various duck ahead theory swamp sample language solve call mother";
+var mnemonic = "grit concert slide ring slim obvious focus carbon head claw snap fancy";

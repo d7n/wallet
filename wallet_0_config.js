@@ -1,1 +1,1 @@
-var mnemonic = "visual pencil blood trap nature addict thing decide meat cool young flip";
+var mnemonic = "pet sausage skirt tackle shock mystery adjust chimney image midnight mobile case";

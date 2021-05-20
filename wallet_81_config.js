@@ -1,1 +1,1 @@
-var mnemonic = "tube nerve alarm pilot hold mad thunder retreat option rude carpet seven";
+var mnemonic = "physical put air flush chimney universe cannon quiz direct write pizza arrive";

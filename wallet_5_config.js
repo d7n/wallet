@@ -1,1 +1,1 @@
-var mnemonic = "error define exchange cotton size act salad spirit release clean eternal pony";
+var mnemonic = "tonight piece dirt grant clever alone coral treat pelican practice tell acoustic";

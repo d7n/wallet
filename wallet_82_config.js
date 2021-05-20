@@ -1,1 +1,1 @@
-var mnemonic = "drip blade model polar pumpkin silly logic question world practice lunch tower";
+var mnemonic = "old horn glory purse spare festival off miss zero view current coast";

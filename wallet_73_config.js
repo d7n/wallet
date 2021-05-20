@@ -1,1 +1,1 @@
-var mnemonic = "recipe avoid basket comic soft cousin giant mask moment execute protect bleak";
+var mnemonic = "bicycle plunge pact camp swear similar behave day link cause reason dry";

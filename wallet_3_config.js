@@ -1,1 +1,1 @@
-var mnemonic = "lend until sign cancel decrease slim tornado police gate become carpet document";
+var mnemonic = "horn success churn sleep hurry session couch earth news produce company kiss";

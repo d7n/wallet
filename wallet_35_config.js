@@ -1,1 +1,1 @@
-var mnemonic = "canal vivid cross adjust supreme coyote drama guess canvas ocean post tenant";
+var mnemonic = "fruit marble cream tell student vintage okay glue cushion funny olympic unknown";

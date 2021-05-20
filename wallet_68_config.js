@@ -1,1 +1,1 @@
-var mnemonic = "peace left online hawk escape oxygen enable fuel core seek anchor doll";
+var mnemonic = "upset balcony board domain cluster trend above borrow limb sail pill local";

@@ -1,1 +1,1 @@
-var mnemonic = "head cost frog crumble doll spot tobacco laptop stem laptop together ocean";
+var mnemonic = "hair analyst excess empower drive discover fence faculty walnut prize wrestle beach";

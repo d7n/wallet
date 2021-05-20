@@ -1,1 +1,1 @@
-var mnemonic = "exist chat food drip cloth give before angle three cruel nothing goddess";
+var mnemonic = "anger habit plunge such confirm tattoo hurt pencil trade ticket home code";

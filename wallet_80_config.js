@@ -1,1 +1,1 @@
-var mnemonic = "grocery often dream rigid opinion olympic expand giant chalk ancient device raccoon";
+var mnemonic = "then quality elegant coral candy brave mosquito render provide ginger sword link";

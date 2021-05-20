@@ -1,1 +1,1 @@
-var mnemonic = "hold toward buffalo ski exhibit diary middle vast devote quick recycle average";
+var mnemonic = "robust acquire arctic drip seat lesson kind reveal essay clown record main";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos process oyster blush dove remind novel lobster misery logic reunion hole";
+var mnemonic = "small funny dice name curtain gaze section always monkey alone ski lucky";

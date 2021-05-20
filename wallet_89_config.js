@@ -1,1 +1,1 @@
-var mnemonic = "latin garbage damp news fire second mansion floor wild million song ankle";
+var mnemonic = "soda click daring emerge garment heavy finish cheap idea bubble avocado thrive";

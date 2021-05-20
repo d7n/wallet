@@ -1,1 +1,1 @@
-var mnemonic = "race brother cattle hen suffer veteran tower room noble other artist peanut";
+var mnemonic = "close original police little crawl echo cousin rule allow chronic iron door";

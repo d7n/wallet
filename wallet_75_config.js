@@ -1,1 +1,1 @@
-var mnemonic = "frost dad try spare couple vendor bronze glare rotate east good track";
+var mnemonic = "slice pony canoe satisfy same diet trust october original plate couch genuine";

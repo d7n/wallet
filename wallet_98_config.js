@@ -1,1 +1,1 @@
-var mnemonic = "young budget forum start reunion side pyramid trial snack north file fee";
+var mnemonic = "baby umbrella pause web bag emotion engine garlic olive expand adjust point";

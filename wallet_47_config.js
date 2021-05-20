@@ -1,1 +1,1 @@
-var mnemonic = "marble ketchup edge vibrant dragon alpha comfort clay proud describe slim silent";
+var mnemonic = "ten shift shaft minimum width wood nose echo tourist demise cloth lumber";

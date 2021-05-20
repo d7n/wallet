@@ -1,1 +1,1 @@
-var mnemonic = "tell analyst craft scrap step crater vacant reject industry wheel make pool";
+var mnemonic = "super all pen twin plug since join regret flush embark wreck brown";

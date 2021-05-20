@@ -1,1 +1,1 @@
-var mnemonic = "coral bronze barrel bomb coast vessel scatter plunge require effort mango spread";
+var mnemonic = "sunny worry shop minute treat eager point asset prefer unique credit era";

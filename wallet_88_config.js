@@ -1,1 +1,1 @@
-var mnemonic = "pitch satoshi various segment random orphan head army magic dad meat remember";
+var mnemonic = "hill clean bracket toss clerk rack short avoid right speed label enhance";

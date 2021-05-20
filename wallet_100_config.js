@@ -1,1 +1,1 @@
-var mnemonic = "liberty industry mix insane stuff air weird gadget actor elbow deer face";
+var mnemonic = "mule vocal visa hen draw giraffe brick warrior canoe banana dawn coach";

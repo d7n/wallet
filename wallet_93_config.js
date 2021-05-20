@@ -1,1 +1,1 @@
-var mnemonic = "post afford below pattern before save human learn conduct cliff wife strong";
+var mnemonic = "chapter ozone oven human forward oxygen surround sudden dose orient cigar depth";

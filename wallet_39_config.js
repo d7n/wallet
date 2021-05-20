@@ -1,1 +1,1 @@
-var mnemonic = "awkward join fruit inch true share soft aunt crazy manual umbrella fall";
+var mnemonic = "snake gasp orient someone arena inflict empty person raise hospital length float";

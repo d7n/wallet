@@ -1,1 +1,1 @@
-var mnemonic = "else judge suspect vast dose will believe liar fame suffer hundred actual";
+var mnemonic = "west photo luxury urban inside nephew more soccer vanish upper river absorb";

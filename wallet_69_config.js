@@ -1,1 +1,1 @@
-var mnemonic = "wisdom monkey one success erase urban behave hurt cargo silk raccoon document";
+var mnemonic = "network donor silly dash clog entry blush corn region play day orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "bread funny auction venue joke van during category myself improve proud like";
+var mnemonic = "perfect demand trend enforce dentist small word check intact pass place able";

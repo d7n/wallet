@@ -1,1 +1,1 @@
-var mnemonic = "garlic away false during service employ note orient tree slice clutch please";
+var mnemonic = "swift spawn joy soap raw supreme oblige when drift pulse section business";

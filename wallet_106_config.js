@@ -1,1 +1,1 @@
-var mnemonic = "junior spice gate bring margin decade menu ice trumpet slot future bundle";
+var mnemonic = "category eight ice half shadow clump wage glove spice use earth pudding";

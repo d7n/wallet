@@ -1,1 +1,1 @@
-var mnemonic = "trust uncle enforce grain wait grant mom layer roof cash burst recipe";
+var mnemonic = "rescue wrist define van inquiry interest choose verb denial give alley legal";

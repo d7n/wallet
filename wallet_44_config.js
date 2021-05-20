@@ -1,1 +1,1 @@
-var mnemonic = "click chase range joy inherit legend minute dragon tenant process outer thank";
+var mnemonic = "pave fragile chat power discover capital decline angry priority better buzz husband";

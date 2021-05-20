@@ -1,1 +1,1 @@
-var mnemonic = "tide depart album keen entry craft affair smooth army bar unlock vapor";
+var mnemonic = "dignity round file loop fuel slice junior mercy cliff tuna very wisdom";

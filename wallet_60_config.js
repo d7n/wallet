@@ -1,1 +1,1 @@
-var mnemonic = "random host undo actual nasty acoustic gorilla slam laugh trim indoor settle";
+var mnemonic = "simple away divide tuition second offer answer element omit custom giggle paper";

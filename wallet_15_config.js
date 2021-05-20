@@ -1,1 +1,1 @@
-var mnemonic = "peanut kitten grief simple rent goddess soap lonely cake day fine tiny";
+var mnemonic = "seek liberty author discover quit physical anxiety deal need boat where dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "glad main gauge spin glory globe bargain blind essence street velvet move";
+var mnemonic = "copy since total silly enroll cupboard fault lonely rapid inquiry craft flush";

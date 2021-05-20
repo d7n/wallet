@@ -1,1 +1,1 @@
-var mnemonic = "foam income grunt make start february truly stairs hospital scan despair month";
+var mnemonic = "case smart wall barrel slogan paddle kidney rapid source crush vacant mammal";

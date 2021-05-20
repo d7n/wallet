@@ -1,1 +1,1 @@
-var mnemonic = "shrimp sample vivid quiz ghost invite during session tenant cheese yellow fun";
+var mnemonic = "receive rib maximum into bulb top swing absorb student machine island labor";

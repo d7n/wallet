@@ -1,1 +1,1 @@
-var mnemonic = "song leg surround window among ethics attend weird super syrup figure deposit";
+var mnemonic = "square silver diary author wait echo use dilemma social other chief metal";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog dragon dune version case plug pipe proof noise direct power cloud";
+var mnemonic = "tomorrow carpet kiss ordinary grocery pair middle arrange slot flash drill pen";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep case physical warm proof glide engine pond roast atom off turn";
+var mnemonic = "dish audit van cram rookie acquire cabbage pattern admit tomorrow outdoor spin";

@@ -1,1 +1,1 @@
-var mnemonic = "subject return birth cream action lottery price sure addict ignore town behave";
+var mnemonic = "exhibit still effort submit guitar coconut bulk visa grunt phrase duck torch";

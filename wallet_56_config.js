@@ -1,1 +1,1 @@
-var mnemonic = "check prison shell bubble dash sponsor taste title when demise force school";
+var mnemonic = "auto action insane soldier senior section toss fine improve slow ask south";

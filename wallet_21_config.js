@@ -1,1 +1,1 @@
-var mnemonic = "what custom half flip kingdom train glory funny naive apology combine law";
+var mnemonic = "agree wish category thought olympic swarm simple fun addict airport hungry apple";

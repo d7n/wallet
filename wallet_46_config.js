@@ -1,1 +1,1 @@
-var mnemonic = "dolphin scare horn raccoon devote silk seven join odor dad nothing sing";
+var mnemonic = "melt unable purity glide dilemma hammer suffer plunge cost alpha test now";

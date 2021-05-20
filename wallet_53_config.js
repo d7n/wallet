@@ -1,1 +1,1 @@
-var mnemonic = "essence manual stove spice move april lunar garden chimney wagon stamp box";
+var mnemonic = "produce alter raccoon senior thumb punch smile cattle stem rare vague angle";

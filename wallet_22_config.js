@@ -1,1 +1,1 @@
-var mnemonic = "stereo weather helmet protect actual energy below aware depart year onion dial";
+var mnemonic = "depart list rescue firm mango cash dragon police fetch supply museum flower";

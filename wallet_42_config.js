@@ -1,1 +1,1 @@
-var mnemonic = "fold december meat have fix trumpet shield chair excuse oyster ramp kitten";
+var mnemonic = "saddle bone spike tumble soul topple dilemma empty foil west license luggage";

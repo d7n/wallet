@@ -1,1 +1,1 @@
-var mnemonic = "gym little field jealous age leopard empty degree oppose buzz change rural";
+var mnemonic = "net since multiply regret wood blue beef pact poet parent shine like";

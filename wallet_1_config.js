@@ -1,1 +1,1 @@
-var mnemonic = "tissue uncover social master produce update garbage witness rally weekend mechanic universe";
+var mnemonic = "salon frame begin curve coin fold guilt pause episode upper embrace harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "silent demise avocado toilet kangaroo suffer glare soon verb blossom thank lamp";
+var mnemonic = "machine alley praise afraid link tone shine alter empty twelve badge exchange";

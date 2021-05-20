@@ -1,1 +1,1 @@
-var mnemonic = "radio cargo embrace hover real answer key public sample unknown cloth actor";
+var mnemonic = "call refuse opera throw bar twice ice saddle phone swap airport cheese";

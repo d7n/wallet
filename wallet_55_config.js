@@ -1,1 +1,1 @@
-var mnemonic = "hand trigger receive similar pole pigeon grape swallow erase pattern include aisle";
+var mnemonic = "enact abstract exhaust image priority cactus expire digital medal area pepper palm";

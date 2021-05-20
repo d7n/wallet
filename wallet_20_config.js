@@ -1,1 +1,1 @@
-var mnemonic = "advice actress meadow hair sugar domain hope buyer into tiger gold used";
+var mnemonic = "stool hundred toss hybrid pretty afford island crowd foam cause motor address";

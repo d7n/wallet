@@ -1,1 +1,1 @@
-var mnemonic = "observe blind network essay course what enforce never invest tooth vivid error";
+var mnemonic = "permit fiber frozen ridge theme desk animal sugar usage hire original husband";

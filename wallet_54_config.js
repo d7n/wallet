@@ -1,1 +1,1 @@
-var mnemonic = "electric kangaroo another enrich romance profit talent confirm liberty famous solution journey";
+var mnemonic = "chronic alert evidence already always park clerk surface dragon slice supreme penalty";

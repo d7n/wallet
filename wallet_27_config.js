@@ -1,1 +1,1 @@
-var mnemonic = "order loop flame negative fan amount float age next divert secret object";
+var mnemonic = "harvest chunk tackle rib cost leisure minute rib lazy night labor wing";

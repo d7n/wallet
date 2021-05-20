@@ -1,1 +1,1 @@
-var mnemonic = "unfold reflect detect one butter buzz hammer edge engine cannon dizzy scale";
+var mnemonic = "inhale now ask maple flash attack host shift home drama warm side";

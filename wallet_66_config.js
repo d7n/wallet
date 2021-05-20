@@ -1,1 +1,1 @@
-var mnemonic = "merry narrow lemon gauge denial sand bunker inner catalog tape journey track";
+var mnemonic = "wool recycle monkey inherit own until symbol humble lesson melt mansion lounge";

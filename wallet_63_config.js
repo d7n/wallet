@@ -1,1 +1,1 @@
-var mnemonic = "rookie bargain abandon front muscle coin hen adjust brown fatal film tuna";
+var mnemonic = "empty industry away want menu six section confirm umbrella slice social creek";

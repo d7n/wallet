@@ -1,1 +1,1 @@
-var mnemonic = "solution sorry ordinary earth dignity token rare bonus street keep script clay";
+var mnemonic = "bar slight bamboo middle together accident clog dwarf alert cabin bulk shock";

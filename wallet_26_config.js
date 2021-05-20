@@ -1,1 +1,1 @@
-var mnemonic = "snack length fluid arrive toddler wolf forward trust maze multiply useless rebel";
+var mnemonic = "harbor nurse search area canyon palm long library pass wrist robust smooth";
