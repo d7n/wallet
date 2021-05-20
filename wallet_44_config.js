@@ -1,1 +1,1 @@
-var mnemonic = "bubble project average jaguar unlock duty stock embrace bird seminar brother family";
+var mnemonic = "wish repeat erupt choice relief child old monster bundle rotate special dry";

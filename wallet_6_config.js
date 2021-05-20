@@ -1,1 +1,1 @@
-var mnemonic = "wink actor muscle shine time host endless you blanket misery donkey cigar";
+var mnemonic = "exotic payment endless neglect knee civil reject team profit exhibit any remove";

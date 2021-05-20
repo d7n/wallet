@@ -1,1 +1,1 @@
-var mnemonic = "farm gun dog oxygen absurd diagram expect pistol ship fantasy tennis similar";
+var mnemonic = "denial bless pride small lift plate party length normal lunar punch random";

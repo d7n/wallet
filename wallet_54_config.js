@@ -1,1 +1,1 @@
-var mnemonic = "life mercy present switch eyebrow holiday plunge bachelor august kid brass lesson";
+var mnemonic = "arrive doctor rib want window ranch car sun blue remind fresh wheel";

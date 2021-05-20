@@ -1,1 +1,1 @@
-var mnemonic = "grocery denial science purpose smile slight inspire ticket air cable face wire";
+var mnemonic = "south action nest unhappy annual accuse swap student bench talk wonder width";

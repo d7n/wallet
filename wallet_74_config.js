@@ -1,1 +1,1 @@
-var mnemonic = "flight before lizard matrix digital budget unaware business radio envelope scale brain";
+var mnemonic = "milk pyramid kingdom rally dizzy gun click just enter undo afraid phrase";

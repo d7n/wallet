@@ -1,1 +1,1 @@
-var mnemonic = "sense assault diesel aisle blade gate absurd web ski employ margin derive";
+var mnemonic = "aunt throw beef elder sniff arrest shrug farm field web off gap";

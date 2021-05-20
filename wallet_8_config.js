@@ -1,1 +1,1 @@
-var mnemonic = "voyage tip toilet sign punch increase universe helmet misery soft glory tiger";
+var mnemonic = "broom know mechanic marble hope genius silly pond dwarf oil myself soccer";

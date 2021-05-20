@@ -1,1 +1,1 @@
-var mnemonic = "energy bulk bulb muscle amateur merit have cushion prize exit castle unfold";
+var mnemonic = "accuse avocado crisp suit sleep common feel patient age lift buddy hammer";

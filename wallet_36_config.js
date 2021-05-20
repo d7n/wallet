@@ -1,1 +1,1 @@
-var mnemonic = "avoid have enter lava sing decline horror pigeon antenna apology tide erode";
+var mnemonic = "collect believe height lyrics universe cannon start powder verify cinnamon guitar laptop";

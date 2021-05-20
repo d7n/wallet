@@ -1,1 +1,1 @@
-var mnemonic = "witness heavy example subway they sand hand wisdom junk lucky hen artwork";
+var mnemonic = "apology hammer idea prevent mutual dinosaur argue hub digital tunnel edit asthma";

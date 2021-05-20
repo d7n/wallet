@@ -1,1 +1,1 @@
-var mnemonic = "gorilla prefer viable globe weekend exist roast culture dinner truly special feel";
+var mnemonic = "raw chunk cargo flavor tank wink scrub grunt game chapter future picnic";

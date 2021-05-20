@@ -1,1 +1,1 @@
-var mnemonic = "expose reward dry attract style anger pill chaos rigid alarm laptop high";
+var mnemonic = "jewel orange just treat unfold act atom dune brush enact cattle leisure";

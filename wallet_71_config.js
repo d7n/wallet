@@ -1,1 +1,1 @@
-var mnemonic = "fork quiz good two salon ordinary genius box panel gospel sea add";
+var mnemonic = "deputy region aware proof disorder whisper catch develop name egg unaware genuine";

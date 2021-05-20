@@ -1,1 +1,1 @@
-var mnemonic = "essence blade cheese illegal sad leader bind type space universe multiply film";
+var mnemonic = "correct castle illegal once runway adjust devote traffic situate thunder bomb scorpion";

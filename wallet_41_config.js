@@ -1,1 +1,1 @@
-var mnemonic = "eight address member age ribbon verify toilet sick observe fitness balcony rare";
+var mnemonic = "youth busy effort devote position business leisure escape jump trial blade shop";

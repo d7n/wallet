@@ -1,1 +1,1 @@
-var mnemonic = "skin trash voice soul balcony adapt depart aspect viable gentle sail wonder";
+var mnemonic = "soup heavy music raven artwork profit gate trip critic crater gym crumble";

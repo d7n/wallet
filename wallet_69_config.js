@@ -1,1 +1,1 @@
-var mnemonic = "gravity hazard unknown expand forest finish spare copper own sketch local flight";
+var mnemonic = "comfort rebuild fire economy giraffe expect behind clutch depend order success rebel";

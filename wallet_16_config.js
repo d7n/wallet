@@ -1,1 +1,1 @@
-var mnemonic = "alcohol dynamic agent local layer cruise govern penalty struggle fade guard front";
+var mnemonic = "mind echo once detail neck job bird rural about figure clean tell";

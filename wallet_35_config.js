@@ -1,1 +1,1 @@
-var mnemonic = "pet mobile consider awful music option laundry blast region clever unlock eyebrow";
+var mnemonic = "surface little worth vocal easy acoustic visual diet sing observe spawn load";

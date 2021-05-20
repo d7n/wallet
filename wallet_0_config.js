@@ -1,1 +1,1 @@
-var mnemonic = "fiction sand student miss taxi market spatial garbage kiwi embody vote hip";
+var mnemonic = "climb husband bargain hammer gloom soda color enemy lounge soft rotate steel";

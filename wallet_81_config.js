@@ -1,1 +1,1 @@
-var mnemonic = "october fat vessel host crime vital dress pelican tragic degree uncle balance";
+var mnemonic = "chief circle blanket that response mean list uncle poverty uncle brain fault";

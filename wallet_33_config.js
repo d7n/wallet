@@ -1,1 +1,1 @@
-var mnemonic = "system stem peanut apart cross pole glimpse title base alien merry bulb";
+var mnemonic = "birth reunion improve eyebrow tray topple night farm hotel train pet jazz";

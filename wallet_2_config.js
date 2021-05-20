@@ -1,1 +1,1 @@
-var mnemonic = "silk heavy royal during camp hazard wheel already round camera flip toddler";
+var mnemonic = "meat garage occur tomorrow hammer sphere sun six alley card sound come";

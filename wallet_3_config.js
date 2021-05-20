@@ -1,1 +1,1 @@
-var mnemonic = "wave maze ecology eight seed wood glance arrange proof potato satoshi wool";
+var mnemonic = "auto hero bracket congress vote mechanic birth arctic vibrant rather oyster clinic";

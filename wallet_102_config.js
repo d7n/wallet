@@ -1,1 +1,1 @@
-var mnemonic = "satisfy employ useless water derive crater present below quick glue cream tragic";
+var mnemonic = "obey blanket dwarf toe bus loop regret exist dress nuclear size jealous";

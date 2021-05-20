@@ -1,1 +1,1 @@
-var mnemonic = "monkey federal obscure jeans anger deny better trip coconut lecture pumpkin path";
+var mnemonic = "hero frown subway infant assist flight eager spot uphold swing basket crop";

@@ -1,1 +1,1 @@
-var mnemonic = "utility vital process smart hotel spider anchor wear buddy consider brass medal";
+var mnemonic = "eye donate skull annual rally beauty quantum spread clarify water puppy umbrella";

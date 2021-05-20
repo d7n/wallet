@@ -1,1 +1,1 @@
-var mnemonic = "couch genre engine elephant agent chuckle wheat symbol rate aim grain boss";
+var mnemonic = "veteran bubble any door have action best climb zebra eternal flush shove";

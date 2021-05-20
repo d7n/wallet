@@ -1,1 +1,1 @@
-var mnemonic = "hybrid food tortoise gravity attract arrive bomb question age lounge patrol load";
+var mnemonic = "task cross pet hole master public ready cargo cannon fetch similar acquire";

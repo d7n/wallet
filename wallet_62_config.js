@@ -1,1 +1,1 @@
-var mnemonic = "talk enable pill light ride evidence nurse element sword table attitude screen";
+var mnemonic = "stool eye device luggage place stick share upset torch taste tuna rack";

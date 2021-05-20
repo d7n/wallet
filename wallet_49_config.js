@@ -1,1 +1,1 @@
-var mnemonic = "thing clean that orient embody sand budget win winter reveal define tag";
+var mnemonic = "guard advance juice orchard turkey usage corn already runway absorb route sweet";

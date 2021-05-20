@@ -1,1 +1,1 @@
-var mnemonic = "boil drop giant primary maple license verb gaze humor scrub tilt region";
+var mnemonic = "mixed world strong acoustic piano gold crawl biology into during evolve occur";

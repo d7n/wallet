@@ -1,1 +1,1 @@
-var mnemonic = "sunset list soda gentle mouse laugh tooth minimum swallow concert install sauce";
+var mnemonic = "lawsuit garage opera practice lyrics behind truth lesson giraffe exhibit gentle flavor";

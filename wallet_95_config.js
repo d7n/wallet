@@ -1,1 +1,1 @@
-var mnemonic = "unit absorb food float doctor runway alert bench curious crisp soup transfer";
+var mnemonic = "purity crash elegant swamp doctor drip dawn this achieve hungry wild doll";

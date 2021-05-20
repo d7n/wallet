@@ -1,1 +1,1 @@
-var mnemonic = "badge approve misery orphan enlist magic fly afford work wait again easy";
+var mnemonic = "antenna scorpion wagon source nephew until donor pudding index inch coyote want";

@@ -1,1 +1,1 @@
-var mnemonic = "omit pill picnic argue age retire hold noble system frequent cannon town";
+var mnemonic = "orange climb candy float sniff noodle plunge health family grain cream expect";

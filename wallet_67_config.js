@@ -1,1 +1,1 @@
-var mnemonic = "ugly lounge almost boss strike sail health govern damage attract amazing useful";
+var mnemonic = "weapon hawk vibrant chronic cross online setup first unlock blind stand rally";

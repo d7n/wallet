@@ -1,1 +1,1 @@
-var mnemonic = "seminar once agree diamond alarm render echo belt spawn side among veteran";
+var mnemonic = "little strong slide rate work lucky pill apology soda glance patient blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon robot law vacuum subject chase reform symbol panda giggle charge element";
+var mnemonic = "deputy spirit gloom topple junior equal arch capable upgrade special hat cash";

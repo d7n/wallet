@@ -1,1 +1,1 @@
-var mnemonic = "dumb parent donkey volcano crowd rabbit ribbon olympic guess grunt laugh pony";
+var mnemonic = "stuff version damage unable flee pull shaft uncle correct lucky awkward pull";

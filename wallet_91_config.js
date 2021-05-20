@@ -1,1 +1,1 @@
-var mnemonic = "profit learn work agree west trend skin fish myself salt decorate soccer";
+var mnemonic = "desk bracket body merge client hidden pink fly swallow skin island place";

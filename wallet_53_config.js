@@ -1,1 +1,1 @@
-var mnemonic = "super spawn scare sorry lonely spot home spin accident chest code cloud";
+var mnemonic = "myself follow clap legal multiply jeans wide fence slender frog catalog neutral";

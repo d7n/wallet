@@ -1,1 +1,1 @@
-var mnemonic = "neutral youth civil best income police rely asthma cabin silk fluid orbit";
+var mnemonic = "step hen hybrid ask banana example rude nuclear shed machine sketch boy";

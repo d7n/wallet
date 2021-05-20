@@ -1,1 +1,1 @@
-var mnemonic = "pig until able story area decrease weird catch broom cry twelve slam";
+var mnemonic = "diamond plate brave hamster undo onion rather near diet excite auto staff";

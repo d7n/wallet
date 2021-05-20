@@ -1,1 +1,1 @@
-var mnemonic = "crazy feed reject panda depart coyote rapid shiver dose dizzy know critic";
+var mnemonic = "rose test crouch weekend toe festival duty hammer menu own near change";

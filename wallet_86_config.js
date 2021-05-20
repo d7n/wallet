@@ -1,1 +1,1 @@
-var mnemonic = "rack author blame picnic proud dress ripple fantasy summer defy subway clock";
+var mnemonic = "vocal glare track excite car huge engage pink tragic bracket wrong camera";

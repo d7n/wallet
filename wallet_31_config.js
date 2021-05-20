@@ -1,1 +1,1 @@
-var mnemonic = "electric shuffle brisk plastic modify inmate amount believe agent gate stadium spray";
+var mnemonic = "elephant smooth blur energy fitness awful fine sea casino theory object cliff";

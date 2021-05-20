@@ -1,1 +1,1 @@
-var mnemonic = "wage great afford flight allow actor edge bonus reform clap ridge novel";
+var mnemonic = "galaxy merit payment metal salt mean phone step pencil stomach donkey search";

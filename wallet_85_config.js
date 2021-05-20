@@ -1,1 +1,1 @@
-var mnemonic = "degree reason renew antenna wrestle impulse obey there sheriff smooth enhance caught";
+var mnemonic = "stomach behind flip radio pottery patch critic economy brand attitude about math";

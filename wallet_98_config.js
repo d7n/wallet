@@ -1,1 +1,1 @@
-var mnemonic = "dynamic kid toss kind inside mandate fiction media hungry casino rice disagree";
+var mnemonic = "kite barrel glance evidence balance potato false provide wild glove mention plug";

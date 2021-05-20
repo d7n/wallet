@@ -1,1 +1,1 @@
-var mnemonic = "hunt biology extend today sponsor jacket daughter pelican whisper crumble photo cage";
+var mnemonic = "super organ live glue fade distance tooth slender autumn slam forest arrive";

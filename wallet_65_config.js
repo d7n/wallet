@@ -1,1 +1,1 @@
-var mnemonic = "mimic leopard anchor fence body all subway jeans sun deny hidden hole";
+var mnemonic = "load clay inquiry cement series beef forget female symptom day clay surround";

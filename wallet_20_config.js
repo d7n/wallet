@@ -1,1 +1,1 @@
-var mnemonic = "law iron drip pig wealth wrap post can neither same despair pepper";
+var mnemonic = "fit unit arch stick stuff coach march source off edge asthma arena";

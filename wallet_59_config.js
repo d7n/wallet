@@ -1,1 +1,1 @@
-var mnemonic = "ghost neutral reject pulp discover door glance lunar punch prison guilt century";
+var mnemonic = "cloth tissue coffee science bench add mean evolve enforce fire hope ball";

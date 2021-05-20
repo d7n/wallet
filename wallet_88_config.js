@@ -1,1 +1,1 @@
-var mnemonic = "rose width bird tribe sunset whisper item earn suffer federal chapter crawl";
+var mnemonic = "spare similar swing bomb equip smooth moral struggle either matter ordinary flag";

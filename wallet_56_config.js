@@ -1,1 +1,1 @@
-var mnemonic = "velvet light series explain increase menu trigger riot butter apart mosquito mechanic";
+var mnemonic = "impose example spider test forward thunder discover way cart torch food ladder";

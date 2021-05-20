@@ -1,1 +1,1 @@
-var mnemonic = "chicken neck can cram excuse rifle donkey solve just bind ocean someone";
+var mnemonic = "audit render rib reflect term cattle flame eager dragon flower street you";

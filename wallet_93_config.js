@@ -1,1 +1,1 @@
-var mnemonic = "wagon pilot project night galaxy gallery catch boat patient travel original caught";
+var mnemonic = "bronze oblige engage wreck amused police give solve spider century stick tongue";

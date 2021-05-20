@@ -1,1 +1,1 @@
-var mnemonic = "hard alone demise gravity near yard grow doll current slab gallery stable";
+var mnemonic = "enforce doll measure fun menu theory riot list turn spread cotton february";

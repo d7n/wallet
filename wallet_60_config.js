@@ -1,1 +1,1 @@
-var mnemonic = "evidence thought bronze focus merry engine benefit mouse easy cliff stomach spawn";
+var mnemonic = "police father sell outer father museum frown mercy duck sketch tumble alert";

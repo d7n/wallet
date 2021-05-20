@@ -1,1 +1,1 @@
-var mnemonic = "team lounge buzz normal render silent ladder evoke antique snake fox artist";
+var mnemonic = "breeze derive calm worth warrior below excuse flock client hungry method search";

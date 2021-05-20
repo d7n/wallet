@@ -1,1 +1,1 @@
-var mnemonic = "joy release thing salt firm power jelly arrive post giant garage apart";
+var mnemonic = "firm modify firm mother enable mimic umbrella lend desk odor teach electric";

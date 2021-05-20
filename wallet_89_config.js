@@ -1,1 +1,1 @@
-var mnemonic = "carbon swallow prevent drill survey note fetch census abandon sun wire dragon";
+var mnemonic = "situate captain thing random soon usage wrong quick find curtain win runway";

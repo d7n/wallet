@@ -1,1 +1,1 @@
-var mnemonic = "artwork motion dutch relax butter trust give wide inherit twice cheap gift";
+var mnemonic = "vital sauce extra design marriage fly layer inject virtual bread fit regular";

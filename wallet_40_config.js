@@ -1,1 +1,1 @@
-var mnemonic = "short involve blossom elite behind logic budget chunk nurse casual hip awake";
+var mnemonic = "cancel clerk hospital seek hotel chair glad observe track trim festival wish";

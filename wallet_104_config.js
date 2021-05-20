@@ -1,1 +1,1 @@
-var mnemonic = "kitchen limb flat arm history ride eternal erosion color home suspect eternal";
+var mnemonic = "camp feature van medal cloud claim enforce before body design notice daughter";

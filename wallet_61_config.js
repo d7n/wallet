@@ -1,1 +1,1 @@
-var mnemonic = "mansion ship response wrap boss avocado veteran film cross smooth blur pass";
+var mnemonic = "fun play miss click siren liar daughter fall green digital secret satoshi";

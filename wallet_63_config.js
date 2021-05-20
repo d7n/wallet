@@ -1,1 +1,1 @@
-var mnemonic = "mother sting tunnel allow three garage baby weather pitch bean pear emotion";
+var mnemonic = "install either fantasy oil juice aim output sell tool wheel soup chest";

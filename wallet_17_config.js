@@ -1,1 +1,1 @@
-var mnemonic = "cereal lamp dentist fresh dish bracket fossil balcony floor absorb whip husband";
+var mnemonic = "rigid tube include assault home quick switch wagon busy awful acid crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "only disease will neither scrap luggage dentist timber casual expose end tower";
+var mnemonic = "combine blanket praise seven jungle assault blood curve useless online pact ranch";

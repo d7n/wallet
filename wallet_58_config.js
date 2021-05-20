@@ -1,1 +1,1 @@
-var mnemonic = "citizen sentence roast cement oppose stable fold vicious action virtual order holiday";
+var mnemonic = "warm icon combine west panther bag devote buffalo basic purity dry twelve";

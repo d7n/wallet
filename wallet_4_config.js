@@ -1,1 +1,1 @@
-var mnemonic = "hour rail wave umbrella mimic vacant smart atom rubber industry veteran world";
+var mnemonic = "pig merry industry oven vivid dynamic creek share extend dinner much jungle";

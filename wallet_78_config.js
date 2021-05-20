@@ -1,1 +1,1 @@
-var mnemonic = "south sketch unknown pluck perfect nurse sad thumb immense human report piece";
+var mnemonic = "stock mind clean tennis foil wrist beauty clock sound vital busy gaze";

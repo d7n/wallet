@@ -1,1 +1,1 @@
-var mnemonic = "tonight trophy machine essence crucial tail cable fragile twist cupboard name manual";
+var mnemonic = "month eternal code hip expose spell visit employ supply easy inject lens";

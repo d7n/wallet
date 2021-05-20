@@ -1,1 +1,1 @@
-var mnemonic = "polar sentence until want aspect trouble satoshi roast shadow magnet depart weather";
+var mnemonic = "term knock imitate today amount mystery chalk earn carry script bunker real";

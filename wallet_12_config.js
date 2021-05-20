@@ -1,1 +1,1 @@
-var mnemonic = "bargain filter middle wrap soon marine below stock menu auction miss length";
+var mnemonic = "slim copper dance army myth gaze urban entire atom general town spirit";

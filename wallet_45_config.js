@@ -1,1 +1,1 @@
-var mnemonic = "seek machine trip card rent long orchard level legend cricket blue group";
+var mnemonic = "slush silver ball art mixed trend lawn myself coach employ treat dignity";

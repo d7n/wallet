@@ -1,1 +1,1 @@
-var mnemonic = "ignore immune climb organ flip winner salt sausage exhibit inherit essence diesel";
+var mnemonic = "ignore cupboard diet okay climb able novel sister column toilet marine track";

@@ -1,1 +1,1 @@
-var mnemonic = "you language laundry old beauty digital exist gauge drastic change promote canal";
+var mnemonic = "enjoy barrel siren friend tackle oblige hurdle orbit zone owner alone staff";

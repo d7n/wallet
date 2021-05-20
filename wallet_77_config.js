@@ -1,1 +1,1 @@
-var mnemonic = "rose abuse crisp ginger rival column fashion hollow connect enjoy first slender";
+var mnemonic = "scorpion wrestle supreme alley release obvious proof talent quality pact ball grape";

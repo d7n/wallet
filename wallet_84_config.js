@@ -1,1 +1,1 @@
-var mnemonic = "relax trouble rather paddle dog slide hungry talent forum piece sister culture";
+var mnemonic = "siren animal grain fork gorilla shock swap rebuild public field empower giggle";

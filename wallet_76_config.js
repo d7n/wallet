@@ -1,1 +1,1 @@
-var mnemonic = "two final eye sentence abuse wheat tired major hard season notice glance";
+var mnemonic = "dad cry unfair appear skin pottery bid current case fun liberty absorb";

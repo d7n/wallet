@@ -1,1 +1,1 @@
-var mnemonic = "boy zone lamp raccoon lift crime spell onion smile eternal move girl";
+var mnemonic = "patient saddle rose act supreme cargo laptop bicycle provide public album garden";

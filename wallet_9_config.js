@@ -1,1 +1,1 @@
-var mnemonic = "priority document puzzle swarm solid favorite bright play remember fence language put";
+var mnemonic = "vibrant misery argue hood other salad violin drop sponsor multiply find bargain";

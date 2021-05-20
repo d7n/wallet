@@ -1,1 +1,1 @@
-var mnemonic = "panel put spell want tuition latin present about believe what rally expose";
+var mnemonic = "pilot guide forum slice logic tunnel task cube actual address stumble this";

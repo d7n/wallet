@@ -1,1 +1,1 @@
-var mnemonic = "into wild plate result hole focus front churn game journey reopen riot";
+var mnemonic = "blossom casino orbit room spring physical moral tiny boring alien abstract upper";

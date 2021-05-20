@@ -1,1 +1,1 @@
-var mnemonic = "impact inhale wagon walk negative square bamboo flat liberty service gather mix";
+var mnemonic = "vocal ball paper kitten hover fit soap captain august hundred clump almost";

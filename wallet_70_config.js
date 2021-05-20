@@ -1,1 +1,1 @@
-var mnemonic = "waste glass chimney riot cube alarm faculty air trade round bounce medal";
+var mnemonic = "burden maze ahead defense bottom love fortune wild disagree shield silver table";

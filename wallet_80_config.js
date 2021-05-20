@@ -1,1 +1,1 @@
-var mnemonic = "park grain execute dawn buddy bubble tackle parade auto bleak split gold";
+var mnemonic = "tourist pole talk auto rose cave gun climb squirrel acid bracket weapon";

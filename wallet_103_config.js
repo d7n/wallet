@@ -1,1 +1,1 @@
-var mnemonic = "axis legend surprise jewel silent public lens monkey crystal dutch plastic loyal";
+var mnemonic = "trial wisdom fruit doll pull forum pulse unveil now damp shoe pupil";

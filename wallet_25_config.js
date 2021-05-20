@@ -1,1 +1,1 @@
-var mnemonic = "invest short viable fever marble depart cable shy ridge when inspire polar";
+var mnemonic = "peanut salmon volcano shy muffin drama ladder end ocean plastic teach limb";
