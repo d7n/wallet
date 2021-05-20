@@ -1,1 +1,1 @@
-var mnemonic = "slow language raise advice vapor lawsuit decade echo process escape organ material";
+var mnemonic = "abstract exact bacon feature hand twist parrot gospel load cotton pond avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "betray index quantum hint short screen wise error mango autumn catch success";
+var mnemonic = "sound employ asset involve quit this boil doll card rally praise surround";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt blue tooth wear abstract seed black flavor vote extend dust winner";
+var mnemonic = "fan gown where either sunny sell young say trumpet betray derive magic";

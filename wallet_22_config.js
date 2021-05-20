@@ -1,1 +1,1 @@
-var mnemonic = "test mirror chef behave gift slide salute squirrel protect pipe dry disagree";
+var mnemonic = "eternal satisfy scene party hotel inspire float fashion art tissue engage retire";

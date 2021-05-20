@@ -1,1 +1,1 @@
-var mnemonic = "thank soldier soccer rapid concert exotic bottom flight smoke bid vacant bleak";
+var mnemonic = "tail net offer later grunt unique damp cost slim legend another transfer";

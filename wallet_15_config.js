@@ -1,1 +1,1 @@
-var mnemonic = "lady lecture solve tone ready tuna clay mule seven choose year hope";
+var mnemonic = "hungry execute keep tornado genre mushroom say drum trouble fatal solve curious";

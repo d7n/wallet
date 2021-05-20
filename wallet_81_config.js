@@ -1,1 +1,1 @@
-var mnemonic = "bench submit priority color indicate climb rigid perfect fish vapor pulse unveil";
+var mnemonic = "monster fat mixed penalty liquid topple crater chimney clog charge solve juice";

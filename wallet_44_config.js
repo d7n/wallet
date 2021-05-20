@@ -1,1 +1,1 @@
-var mnemonic = "stick adult quality urge check where believe pole coast robot name dress";
+var mnemonic = "left art team brush around drift snap coffee appear follow deliver sure";

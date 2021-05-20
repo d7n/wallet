@@ -1,1 +1,1 @@
-var mnemonic = "salon record laugh hidden frog spring accident hawk nephew found custom radar";
+var mnemonic = "hour unit afraid tray cost enable section exchange ramp pig suggest giant";

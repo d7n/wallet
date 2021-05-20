@@ -1,1 +1,1 @@
-var mnemonic = "person basic useful plunge birth salad clock over husband come bar beauty";
+var mnemonic = "release vault supply nuclear success fringe damage style crazy pipe stock inner";

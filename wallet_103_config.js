@@ -1,1 +1,1 @@
-var mnemonic = "museum double happy alter tool skate identify minute risk spawn good appear";
+var mnemonic = "rigid hurry tag cabin pride poem dad appear float rotate exact cliff";

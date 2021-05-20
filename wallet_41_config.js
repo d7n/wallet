@@ -1,1 +1,1 @@
-var mnemonic = "mind wide stand fox nut curtain egg inner heavy minor analyst discover";
+var mnemonic = "slow above sting subway stereo swamp visa siege clay lab favorite involve";

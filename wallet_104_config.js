@@ -1,1 +1,1 @@
-var mnemonic = "rabbit smoke silver combine ahead vacuum involve shadow cluster diet forget market";
+var mnemonic = "praise polar angry rifle delay tone patrol make tell muffin congress follow";

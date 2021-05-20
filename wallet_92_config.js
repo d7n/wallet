@@ -1,1 +1,1 @@
-var mnemonic = "also inflict random above recipe comfort question inhale vendor now weird attract";
+var mnemonic = "about ankle endless steak bleak else network forest flower pupil concert mosquito";

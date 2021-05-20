@@ -1,1 +1,1 @@
-var mnemonic = "all hurdle shoe sun mistake drama there face gentle ocean wrist virus";
+var mnemonic = "message wide seven rebel reject blue stadium chalk parade laptop vacuum long";

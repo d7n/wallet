@@ -1,1 +1,1 @@
-var mnemonic = "dwarf message over staff race inquiry shock quantum skirt company wink paddle";
+var mnemonic = "light company liberty sadness pencil review smile wear risk suspect place feel";

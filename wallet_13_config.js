@@ -1,1 +1,1 @@
-var mnemonic = "usual nature ship zebra copper sense setup congress place face home prepare";
+var mnemonic = "bacon among unknown wish build paddle mushroom throw prosper swift hood network";

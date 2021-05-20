@@ -1,1 +1,1 @@
-var mnemonic = "rack mandate clay volcano orient cargo ginger tube noise rose plastic airport";
+var mnemonic = "battle yellow weather upset connect round width win alarm federal host settle";

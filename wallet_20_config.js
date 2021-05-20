@@ -1,1 +1,1 @@
-var mnemonic = "sell runway gasp emotion car dog awake leg photo visit firm pink";
+var mnemonic = "sauce toilet exist autumn govern castle faculty gym together cause lunch bargain";

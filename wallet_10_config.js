@@ -1,1 +1,1 @@
-var mnemonic = "face essay frozen penalty away drill waste noodle cake crawl enhance exercise";
+var mnemonic = "claim second idle long enhance wood reunion age mandate tone gather round";

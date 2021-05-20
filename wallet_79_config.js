@@ -1,1 +1,1 @@
-var mnemonic = "hazard obvious wood insane face hammer guard camp online broken flip mad";
+var mnemonic = "decrease aware drink disagree move test salmon age artwork slush future wise";

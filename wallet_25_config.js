@@ -1,1 +1,1 @@
-var mnemonic = "birth property need delay major catch one kite fold spend flavor sentence";
+var mnemonic = "way cactus damp oak recipe clog rail crazy frown earn grid pool";

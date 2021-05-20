@@ -1,1 +1,1 @@
-var mnemonic = "another debate more silly parade amount young urban castle butter divorce female";
+var mnemonic = "venue total hello crop same stem stadium gravity cross sleep segment manage";

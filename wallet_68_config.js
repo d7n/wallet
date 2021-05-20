@@ -1,1 +1,1 @@
-var mnemonic = "vibrant guitar often stomach rose shrimp proud select mention ice student lunch";
+var mnemonic = "scare session unit explain cheap latin grief refuse arctic special goose cable";

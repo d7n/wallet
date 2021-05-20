@@ -1,1 +1,1 @@
-var mnemonic = "under major inside ugly approve uncover usual dinosaur distance crane sort family";
+var mnemonic = "rigid option jacket own number hold rough real success jacket entry example";

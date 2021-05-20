@@ -1,1 +1,1 @@
-var mnemonic = "exit chunk motor height egg circle lava embody adjust inspire next prize";
+var mnemonic = "gym mushroom interest surface true joy flip lizard leg analyst fortune bone";

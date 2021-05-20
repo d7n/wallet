@@ -1,1 +1,1 @@
-var mnemonic = "page hello load speak chair warm print ethics radar repeat siege major";
+var mnemonic = "raw spray young cinnamon urge danger sell slide health maid frog equip";

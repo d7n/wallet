@@ -1,1 +1,1 @@
-var mnemonic = "wide vote harbor cheese athlete zebra vintage nose purpose acquire almost puppy";
+var mnemonic = "struggle predict sample segment circle huge toast robot vintage essence danger metal";

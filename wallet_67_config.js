@@ -1,1 +1,1 @@
-var mnemonic = "cotton velvet pull crowd guilt carbon sense off pave giant fitness hover";
+var mnemonic = "copy annual opinion myth creek jaguar mango love outdoor cattle upon pulp";

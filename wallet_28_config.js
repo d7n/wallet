@@ -1,1 +1,1 @@
-var mnemonic = "token tiny soul zebra nation dirt alley speak combine blood grow kite";
+var mnemonic = "dinner foam expand ask arena weekend wagon hurt rib amused broom across";

@@ -1,1 +1,1 @@
-var mnemonic = "trade wash this ivory poet execute super degree tomorrow ice grit pony";
+var mnemonic = "swap sea during debate hold bulk genuine delay begin common risk when";

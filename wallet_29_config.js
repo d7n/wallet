@@ -1,1 +1,1 @@
-var mnemonic = "stick another theme farm stand shift pink improve dust private orphan parade";
+var mnemonic = "abstract arrive aerobic click gesture favorite traffic faint spider main turn nephew";

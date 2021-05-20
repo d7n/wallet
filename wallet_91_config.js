@@ -1,1 +1,1 @@
-var mnemonic = "seed best youth describe delay modify skin noble provide runway infant arctic";
+var mnemonic = "gadget win wash patient recipe void sketch million amount farm dog half";

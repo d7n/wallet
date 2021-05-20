@@ -1,1 +1,1 @@
-var mnemonic = "almost winter dismiss reform frost grunt enable journey flush rescue pelican improve";
+var mnemonic = "thrive orbit hunt seminar dish collect click ghost wave local jazz beef";

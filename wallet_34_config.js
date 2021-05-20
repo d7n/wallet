@@ -1,1 +1,1 @@
-var mnemonic = "luggage jeans ocean agree quality coast major raise salmon congress day debate";
+var mnemonic = "today boost shine miss gallery rough crouch snow finish priority harbor panther";

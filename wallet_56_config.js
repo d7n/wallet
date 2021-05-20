@@ -1,1 +1,1 @@
-var mnemonic = "flavor floor near craft super month boost abuse maid among mimic nothing";
+var mnemonic = "proud obvious hotel solar banana notice session oak journey kingdom piece glow";

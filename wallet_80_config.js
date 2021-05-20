@@ -1,1 +1,1 @@
-var mnemonic = "disease lazy artefact retreat track source olympic art book source slot twice";
+var mnemonic = "paper rebuild borrow pole cake spin mandate card distance elevator dog sunny";

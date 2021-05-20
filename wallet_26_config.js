@@ -1,1 +1,1 @@
-var mnemonic = "cactus alley alarm female turn remain invest paper before expand scrub crouch";
+var mnemonic = "rookie logic silent just fantasy element reveal you shine fish because crawl";

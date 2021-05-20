@@ -1,1 +1,1 @@
-var mnemonic = "mandate zoo ordinary sauce enter hour truth portion apology type solution brush";
+var mnemonic = "supply govern badge gentle chat rigid local brown fish bridge planet acoustic";

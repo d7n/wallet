@@ -1,1 +1,1 @@
-var mnemonic = "soap fork avoid comic nerve bus expand rough urban dance design matter";
+var mnemonic = "gas once culture fringe sponsor boring cigar ignore crawl cloth edit transfer";

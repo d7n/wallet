@@ -1,1 +1,1 @@
-var mnemonic = "clinic violin invest parrot actual lawsuit material accident script okay betray random";
+var mnemonic = "ordinary cancel neither renew syrup lawsuit visa share garden slide wrist notice";

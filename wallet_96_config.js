@@ -1,1 +1,1 @@
-var mnemonic = "whip suit kit trigger divorce boil buzz fix citizen remain marine elite";
+var mnemonic = "economy deal digital miracle virus ginger detail model filter ridge direct marriage";

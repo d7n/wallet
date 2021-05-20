@@ -1,1 +1,1 @@
-var mnemonic = "mutual jacket card uniform bind slim that health behave save truck taste";
+var mnemonic = "rural front post rough planet peanut mother miss oppose deposit confirm legend";

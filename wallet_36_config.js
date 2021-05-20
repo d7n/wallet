@@ -1,1 +1,1 @@
-var mnemonic = "memory senior beach about father earn prevent nerve exist indicate utility engine";
+var mnemonic = "swift twice cotton recycle insane dynamic home muffin slab horn school coral";

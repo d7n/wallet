@@ -1,1 +1,1 @@
-var mnemonic = "bitter must quick swamp female affair erase glance avocado elbow unhappy naive";
+var mnemonic = "vibrant trial champion build ramp iron muscle brand sign diagram visual hunt";

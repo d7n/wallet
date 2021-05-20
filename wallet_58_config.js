@@ -1,1 +1,1 @@
-var mnemonic = "wolf extend thank type melody credit fall wet enemy width certain source";
+var mnemonic = "bitter try bargain cannon actress tennis vague balance soup toilet announce vivid";

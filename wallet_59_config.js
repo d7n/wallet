@@ -1,1 +1,1 @@
-var mnemonic = "sick lunch regret worth chimney follow audit invest pink boil census exercise";
+var mnemonic = "exist organ talent kidney bench sustain cost black recycle confirm lemon scissors";

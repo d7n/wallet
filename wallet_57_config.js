@@ -1,1 +1,1 @@
-var mnemonic = "copy victory wise primary retire session ancient hotel possible inspire tide episode";
+var mnemonic = "industry unusual few arm step daughter amazing champion neglect one nurse acoustic";

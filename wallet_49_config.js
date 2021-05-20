@@ -1,1 +1,1 @@
-var mnemonic = "road potato follow hole crawl ignore august trash teach minor resource romance";
+var mnemonic = "divorce summer left wood ranch empty found guitar ecology hand spray initial";

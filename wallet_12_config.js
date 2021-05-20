@@ -1,1 +1,1 @@
-var mnemonic = "lecture lyrics gadget core frog since story morning topple broken kangaroo sponsor";
+var mnemonic = "olympic spell cushion only render various runway weekend prevent swing broken whisper";

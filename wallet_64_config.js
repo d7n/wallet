@@ -1,1 +1,1 @@
-var mnemonic = "knee eagle dumb summer cream buffalo wood tail anger obvious flip since";
+var mnemonic = "sudden spice sphere sniff oppose olympic photo very until slam wolf unit";

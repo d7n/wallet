@@ -1,1 +1,1 @@
-var mnemonic = "popular sight emotion chair angry youth addict honey glare aisle country leisure";
+var mnemonic = "orbit pair oyster report story noise turkey escape enrich icon lecture table";

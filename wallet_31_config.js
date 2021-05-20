@@ -1,1 +1,1 @@
-var mnemonic = "veteran access bachelor unlock undo puzzle police pink grant wait hurt exhibit";
+var mnemonic = "paddle fiscal erosion forget entry athlete ghost traffic cricket explain dune gate";

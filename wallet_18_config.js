@@ -1,1 +1,1 @@
-var mnemonic = "toy bounce tell soul elite angle total pupil edit begin turkey ketchup";
+var mnemonic = "immense private chuckle public almost depart smoke sunny detect reject issue slight";

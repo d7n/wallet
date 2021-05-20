@@ -1,1 +1,1 @@
-var mnemonic = "tide firm tribe ivory draft goose blossom change tomato depart repeat segment";
+var mnemonic = "nut cage spirit name bacon imitate girl bleak reform pause art divert";

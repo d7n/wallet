@@ -1,1 +1,1 @@
-var mnemonic = "hidden gather fetch resist pave jelly black unit sight spin olive enable";
+var mnemonic = "typical frown route vibrant stamp sustain kit cream name skirt profit ball";

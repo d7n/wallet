@@ -1,1 +1,1 @@
-var mnemonic = "bicycle deer blush game divide bicycle asthma country arctic useless grief lucky";
+var mnemonic = "sport parrot flip pottery music rare absent taxi boost ask awkward song";

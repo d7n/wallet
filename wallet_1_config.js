@@ -1,1 +1,1 @@
-var mnemonic = "hard fossil shop trim payment ozone topple question edit scrub prize neutral";
+var mnemonic = "cause creek unaware outside thank rare ordinary assist remove know amateur prison";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon wreck okay arm symptom shell wide mad arch state wage entry";
+var mnemonic = "position shiver call arrest symptom bonus sort detail bronze whip nerve wish";

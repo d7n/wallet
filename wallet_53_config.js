@@ -1,1 +1,1 @@
-var mnemonic = "disease acoustic rubber cruel tumble square knock crime define grief erupt uniform";
+var mnemonic = "virtual shrimp december merge monkey enroll beef hungry curious sing jelly awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow trade remain direct effort blood pony mule fat shrug hamster void";
+var mnemonic = "maximum interest blush develop then smile series hint embark report tuition believe";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss harbor basic crucial ostrich lecture measure cereal order feel sense laugh";
+var mnemonic = "amused expect cash wire visa sauce profit trial friend mass clock govern";

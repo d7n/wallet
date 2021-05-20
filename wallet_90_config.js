@@ -1,1 +1,1 @@
-var mnemonic = "man dwarf scare differ purse possible mammal shell hope cruise snow awesome";
+var mnemonic = "spend bargain antenna pattern crash hill crush treat employ mixture travel uncle";

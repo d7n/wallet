@@ -1,1 +1,1 @@
-var mnemonic = "crystal capital explain pact blanket sponsor stool skin clarify inherit ecology soda";
+var mnemonic = "cherry snap apple ticket random humor depart slight move nice soap punch";

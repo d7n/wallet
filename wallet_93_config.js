@@ -1,1 +1,1 @@
-var mnemonic = "then flower loyal dilemma social dish neglect bronze man silk view dish";
+var mnemonic = "play woman recall cement rose mammal junior adult sugar advance end weird";

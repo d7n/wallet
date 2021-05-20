@@ -1,1 +1,1 @@
-var mnemonic = "fee normal symbol mix dawn rhythm rabbit health school trust develop come";
+var mnemonic = "voyage require account fee detail gossip student cactus strike upon river decide";

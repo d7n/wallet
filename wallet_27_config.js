@@ -1,1 +1,1 @@
-var mnemonic = "frog rice reopen minimum feed chronic jar dinner sample member brisk relief";
+var mnemonic = "leaf friend rather garment bridge kidney manual laugh stereo acquire shed pulse";

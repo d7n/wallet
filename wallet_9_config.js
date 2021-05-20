@@ -1,1 +1,1 @@
-var mnemonic = "castle reflect isolate frog boat knee awake argue october gain isolate copy";
+var mnemonic = "twin isolate doll until salad fossil glance auction wood hip measure comic";

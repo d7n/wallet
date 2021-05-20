@@ -1,1 +1,1 @@
-var mnemonic = "upgrade trigger laugh whale puppy trap company someone canal express impulse glare";
+var mnemonic = "small defense despair hedgehog two notable harvest scissors engine wrong scrub hospital";

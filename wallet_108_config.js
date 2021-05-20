@@ -1,1 +1,1 @@
-var mnemonic = "man hard pulp program broom grace short man space dream liberty immense";
+var mnemonic = "raven jewel solid mail apology decide sustain almost group lumber mouse cushion";

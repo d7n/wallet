@@ -1,1 +1,1 @@
-var mnemonic = "bone nose cheese almost common click winner topple blade frog walk filter";
+var mnemonic = "exit tobacco talent frog naive peasant mule switch jungle abstract valve fork";

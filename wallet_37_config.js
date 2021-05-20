@@ -1,1 +1,1 @@
-var mnemonic = "crane broom market tower faint grab midnight avocado music can tomorrow topic";
+var mnemonic = "bundle sibling good bronze mail expand pond force hour foot salad orient";

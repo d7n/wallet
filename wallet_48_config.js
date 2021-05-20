@@ -1,1 +1,1 @@
-var mnemonic = "deliver relax shallow hollow donate kangaroo twenty middle merit layer comfort join";
+var mnemonic = "region hundred field athlete excess any phrase grab search play tornado divide";

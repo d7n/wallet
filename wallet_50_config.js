@@ -1,1 +1,1 @@
-var mnemonic = "aware skin outdoor fortune evil cat find quiz hedgehog end scorpion hotel";
+var mnemonic = "monster during width exclude sister right glow example inhale absent prepare story";

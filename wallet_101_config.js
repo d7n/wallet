@@ -1,1 +1,1 @@
-var mnemonic = "shaft distance swallow satoshi proud heart siren tooth hill flight bicycle legend";
+var mnemonic = "injury brisk such volume ozone order way exhibit scheme nuclear paddle brass";

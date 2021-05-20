@@ -1,1 +1,1 @@
-var mnemonic = "kid jacket reduce flush solid guilt warrior sponsor impulse diagram father either";
+var mnemonic = "hospital black teach electric claim fury pencil problem primary evoke correct eternal";

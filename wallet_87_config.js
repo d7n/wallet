@@ -1,1 +1,1 @@
-var mnemonic = "humor there lab month acid card ozone curious size speed adapt unhappy";
+var mnemonic = "chaos bless return indicate apology document harsh screen spirit bike hungry furnace";

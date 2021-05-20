@@ -1,1 +1,1 @@
-var mnemonic = "leaf figure camera mom detail vital place snow fan artist expire siege";
+var mnemonic = "talent tip gasp sunset amateur fruit sign topple argue oven gasp gas";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain entry chalk march work lounge muscle paper damp shed brain add";
+var mnemonic = "clean forum general begin velvet fold shine salad rather fun fiscal civil";

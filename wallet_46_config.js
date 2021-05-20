@@ -1,1 +1,1 @@
-var mnemonic = "insane barely dad cactus delay improve joke reflect shoe search rough text";
+var mnemonic = "always decade party novel kiss noodle gown champion pen tennis inject cube";

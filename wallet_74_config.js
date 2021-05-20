@@ -1,1 +1,1 @@
-var mnemonic = "skull innocent theme tissue refuse visit mention debate image oval uniform parrot";
+var mnemonic = "almost switch indicate elbow merry label spread diary citizen belt animal capable";

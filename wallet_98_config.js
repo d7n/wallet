@@ -1,1 +1,1 @@
-var mnemonic = "dove practice pink neglect flash vintage help planet help six gap economy";
+var mnemonic = "harvest cinnamon remove shy artist cruise umbrella tide initial camp donate auto";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme voyage poem swallow vehicle picture between process lucky eye cancel fuel";
+var mnemonic = "history october cereal concert doll risk unaware spin brass foil sign undo";

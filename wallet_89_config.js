@@ -1,1 +1,1 @@
-var mnemonic = "gospel swear pledge front myth cross boy couch brain embrace glass various";
+var mnemonic = "title twice usual east swamp clarify power web injury enough weasel roof";
