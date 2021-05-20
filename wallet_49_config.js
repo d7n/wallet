@@ -1,1 +1,1 @@
-var mnemonic = "helmet skill run feature render toddler axis sea reason bridge move decrease";
+var mnemonic = "miss lumber exhibit victory eternal radio display black flip cause ritual summer";

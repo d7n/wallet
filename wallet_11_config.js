@@ -1,1 +1,1 @@
-var mnemonic = "leisure wish finger describe elephant cable script finger joke flash picture cross";
+var mnemonic = "curtain core cube dolphin frost season tragic people rely bitter purpose planet";

@@ -1,1 +1,1 @@
-var mnemonic = "topic excess shrug oppose panther invite session tortoise attend social tattoo nerve";
+var mnemonic = "until genre spring strike shop leader prosper hello swarm grit private uncle";

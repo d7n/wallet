@@ -1,1 +1,1 @@
-var mnemonic = "divide deposit whale damp impose impulse birth embrace evoke climb day frozen";
+var mnemonic = "grant iron expose glide menu believe shy doll anchor magic average inch";

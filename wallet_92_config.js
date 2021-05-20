@@ -1,1 +1,1 @@
-var mnemonic = "garage youth unknown foam dad sail bike flock level draw green laptop";
+var mnemonic = "wealth scout tail science west taxi pull bacon toe economy appear chuckle";

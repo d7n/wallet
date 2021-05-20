@@ -1,1 +1,1 @@
-var mnemonic = "dentist equal merit mosquito stable catch learn axis ready dust fine bomb";
+var mnemonic = "dad filter spin eagle goat fine emotion steel regret wood slogan iron";

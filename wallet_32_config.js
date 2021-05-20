@@ -1,1 +1,1 @@
-var mnemonic = "fog text save napkin abstract holiday direct ticket news drip minimum train";
+var mnemonic = "beef muffin test arrow castle obscure sing media blood hole salute chicken";

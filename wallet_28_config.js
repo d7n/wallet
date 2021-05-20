@@ -1,1 +1,1 @@
-var mnemonic = "armor flower sniff initial achieve hold shed reform always long song stove";
+var mnemonic = "appear fire prepare lumber front funny soldier flip then leave furnace bracket";

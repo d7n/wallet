@@ -1,1 +1,1 @@
-var mnemonic = "voyage race inform toward town reopen exile armed rice food park advance";
+var mnemonic = "sound lyrics actress garment benefit cross country gaze delay female hobby avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess night blood song salute trophy type fever rule faculty fashion detect";
+var mnemonic = "fabric describe buffalo assault pen circle lens iron admit enrich you job";

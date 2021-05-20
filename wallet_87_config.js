@@ -1,1 +1,1 @@
-var mnemonic = "immense nephew silent bonus door brush secret excess lift hour train maximum";
+var mnemonic = "material grocery there session where essence digital anchor habit panda need search";

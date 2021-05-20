@@ -1,1 +1,1 @@
-var mnemonic = "seek curtain sure shed stay noise ridge cube scan shiver extend season";
+var mnemonic = "come rule patrol online dynamic indoor need first wedding person suffer essay";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle upper mirror agent valve dust candy define dune puppy sting ignore";
+var mnemonic = "cart boil kit pyramid dry lunar transfer soda peanut craft owner rebuild";

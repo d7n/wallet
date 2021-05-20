@@ -1,1 +1,1 @@
-var mnemonic = "early safe agent next bubble vacuum steel wife grid surround atom doll";
+var mnemonic = "tip impact reunion east expand useless useful edit material reduce zone segment";

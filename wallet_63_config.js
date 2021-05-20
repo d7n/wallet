@@ -1,1 +1,1 @@
-var mnemonic = "bird buyer monitor unable jacket rail rug tomato game keep opinion champion";
+var mnemonic = "kiwi hole sand title system weekend bronze erupt certain coach dose celery";

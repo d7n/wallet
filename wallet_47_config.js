@@ -1,1 +1,1 @@
-var mnemonic = "style ozone arch plate search cloth lion fancy rhythm retire book city";
+var mnemonic = "general wasp destroy kidney track pledge drill voice nephew piece airport more";

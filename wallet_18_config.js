@@ -1,1 +1,1 @@
-var mnemonic = "attack split slide chaos right elephant utility also floor try lion federal";
+var mnemonic = "you drift mail knee surface photo coconut cliff blade fossil mansion roof";

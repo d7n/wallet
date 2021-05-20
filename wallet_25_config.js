@@ -1,1 +1,1 @@
-var mnemonic = "roof spike wonder property grit flavor shift citizen wealth intact reason tired";
+var mnemonic = "you strong below caution now stairs author design disorder poet job humble";

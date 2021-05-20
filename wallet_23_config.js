@@ -1,1 +1,1 @@
-var mnemonic = "duck protect hold insane volume spy merge daring confirm frequent fragile cargo";
+var mnemonic = "carbon water cradle napkin release problem sphere antique vocal maze found burst";

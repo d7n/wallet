@@ -1,1 +1,1 @@
-var mnemonic = "valley scale slot sudden muffin humor net nurse client topic shoulder tilt";
+var mnemonic = "promote civil knock noble matrix valley garage radio aerobic quiz gorilla alpha";

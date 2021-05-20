@@ -1,1 +1,1 @@
-var mnemonic = "torch attract cigar consider begin ivory boy addict resource purity midnight vital";
+var mnemonic = "two effort aerobic permit frozen rocket cancel minute tunnel upper drastic know";

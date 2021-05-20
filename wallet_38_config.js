@@ -1,1 +1,1 @@
-var mnemonic = "warrior air target debate census rigid chicken wagon fame royal garden dust";
+var mnemonic = "dutch liquid pen must number blue bean immune apple dial color federal";

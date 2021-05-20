@@ -1,1 +1,1 @@
-var mnemonic = "uphold rug speak common since topple cry ticket rescue account crouch under";
+var mnemonic = "caught caught galaxy knife wrestle gloom foam this dog pelican hood close";

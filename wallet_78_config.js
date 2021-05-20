@@ -1,1 +1,1 @@
-var mnemonic = "express occur between minimum science zebra dutch hill ability token limb knife";
+var mnemonic = "timber drop when save express dice illness donor radio meat exit seminar";

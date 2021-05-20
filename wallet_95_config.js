@@ -1,1 +1,1 @@
-var mnemonic = "puppy visa deal normal damage load display oblige ranch method cotton vote";
+var mnemonic = "depart lawsuit result sell warrior auction congress fortune pretty innocent place ceiling";

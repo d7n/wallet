@@ -1,1 +1,1 @@
-var mnemonic = "script banner arctic problem endless mercy catalog crumble attract praise rapid vessel";
+var mnemonic = "vocal fresh rigid rain link urban duty drink frost cattle number hungry";

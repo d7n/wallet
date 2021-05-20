@@ -1,1 +1,1 @@
-var mnemonic = "soap matter embrace immune adapt learn endless enhance grape business ketchup neglect";
+var mnemonic = "forum govern client unit horror jeans color coral math critic toast between";

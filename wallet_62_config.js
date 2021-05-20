@@ -1,1 +1,1 @@
-var mnemonic = "equal unfair exhibit between day student fox era garage ivory reopen exercise";
+var mnemonic = "spatial vehicle double battle repeat mention cream need rally ability keep final";

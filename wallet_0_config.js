@@ -1,1 +1,1 @@
-var mnemonic = "bamboo thing price noodle pool secret bitter occur fitness under oak artefact";
+var mnemonic = "model similar dinner wedding west giggle grocery glad exist monster settle person";

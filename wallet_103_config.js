@@ -1,1 +1,1 @@
-var mnemonic = "hair person aerobic ensure acid goat tennis find torch canoe expose mother";
+var mnemonic = "island virtual trim remain icon still sponsor broccoli relief volcano nerve jelly";

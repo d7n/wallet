@@ -1,1 +1,1 @@
-var mnemonic = "common prosper enforce over twist tattoo wise arch search subway already name";
+var mnemonic = "fashion scorpion scrub hawk great receive permit ribbon hospital vivid title marble";

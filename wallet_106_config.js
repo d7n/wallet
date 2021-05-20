@@ -1,1 +1,1 @@
-var mnemonic = "rotate noise knee festival carbon transfer cactus relief donkey inhale begin spare";
+var mnemonic = "merry hair off senior spoon firm shadow student expire bracket swallow buffalo";

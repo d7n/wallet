@@ -1,1 +1,1 @@
-var mnemonic = "chapter clip isolate permit slight strategy trade wet judge gravity orient soon";
+var mnemonic = "plug present portion twin believe fish half mango inside exhibit cabbage permit";

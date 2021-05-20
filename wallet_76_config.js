@@ -1,1 +1,1 @@
-var mnemonic = "cage afraid chalk love female birth dice crunch era ceiling palm program";
+var mnemonic = "differ harbor accuse debate gravity where umbrella comfort nose shine throw armor";

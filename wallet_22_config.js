@@ -1,1 +1,1 @@
-var mnemonic = "lumber total trash fiber spend sting elite daughter inner super riot service";
+var mnemonic = "bleak cereal any object enhance coin home note able assault tomato brief";

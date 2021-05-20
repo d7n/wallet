@@ -1,1 +1,1 @@
-var mnemonic = "bamboo seek fatigue attend table scatter tribe nasty happy winner fox globe";
+var mnemonic = "lens spirit stone endless cricket army quote text dash flip choose indoor";

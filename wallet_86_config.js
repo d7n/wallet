@@ -1,1 +1,1 @@
-var mnemonic = "rare bubble secret artist kid tank wire olympic donor copper language escape";
+var mnemonic = "vivid client acquire creek lawn gown satisfy effort fence label flower oblige";

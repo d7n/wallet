@@ -1,1 +1,1 @@
-var mnemonic = "apology whip abstract jazz desert payment wrestle end future long athlete domain";
+var mnemonic = "turkey green praise rifle merry today deny protect machine call delay surge";

@@ -1,1 +1,1 @@
-var mnemonic = "curve tide next glory group sail enact ceiling okay weasel hire planet";
+var mnemonic = "auto gather battle raccoon float razor bright margin immune caution carpet grass";

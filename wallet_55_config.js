@@ -1,1 +1,1 @@
-var mnemonic = "narrow shrug table pigeon promote stumble goddess museum stock enrich wonder pretty";
+var mnemonic = "rain divide dizzy fit road mail inch aim large limb middle butter";

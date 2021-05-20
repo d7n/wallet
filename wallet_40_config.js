@@ -1,1 +1,1 @@
-var mnemonic = "cigar special multiply dilemma gentle ticket equip produce song sweet bundle antenna";
+var mnemonic = "stay come physical leg kangaroo topple roast glove run castle sugar such";

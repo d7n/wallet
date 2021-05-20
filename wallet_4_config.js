@@ -1,1 +1,1 @@
-var mnemonic = "omit stock space winner candy disorder garbage risk bonus since dawn decorate";
+var mnemonic = "engine double balcony proud whip husband grunt sad water pink october denial";

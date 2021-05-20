@@ -1,1 +1,1 @@
-var mnemonic = "seminar road snow try begin hood crystal live citizen luxury potato shy";
+var mnemonic = "almost injury enable fun purity next swim loan segment pact good turkey";

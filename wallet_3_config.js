@@ -1,1 +1,1 @@
-var mnemonic = "hint betray bike wall cigar antique champion rally route practice output tip";
+var mnemonic = "assume author payment short also often logic swift minute silver ship genre";

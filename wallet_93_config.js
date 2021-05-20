@@ -1,1 +1,1 @@
-var mnemonic = "exercise kind fury forward butter text approve bag vault surround calm turtle";
+var mnemonic = "kiss water truly mass accident fruit play client flock swamp rose approve";

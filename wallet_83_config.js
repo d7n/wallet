@@ -1,1 +1,1 @@
-var mnemonic = "turtle digital obtain legend onion illness emerge survey elegant riot bulb time";
+var mnemonic = "dial thunder retire assist speed dust clerk mansion purchase nurse explain kind";

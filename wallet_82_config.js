@@ -1,1 +1,1 @@
-var mnemonic = "pact document squeeze course hold lab long injury will double surface brain";
+var mnemonic = "task cement resource practice describe circle leg favorite lake you magic hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "material aisle lunch minimum symptom match welcome valley city grid prefer twice";
+var mnemonic = "ice best canal impose family donate depend kit nut exhaust nice betray";

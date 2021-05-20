@@ -1,1 +1,1 @@
-var mnemonic = "member boring puzzle fashion lunch extend orchard film armed lawn fine foot";
+var mnemonic = "lock file point salute argue crack mule they midnight tomato unit window";

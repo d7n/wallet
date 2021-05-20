@@ -1,1 +1,1 @@
-var mnemonic = "present display used cinnamon wrestle vocal crane milk awesome huge follow palace";
+var mnemonic = "peace shock dumb enjoy pet goddess donor country float diet plug category";

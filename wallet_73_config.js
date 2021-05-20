@@ -1,1 +1,1 @@
-var mnemonic = "adjust winter solve cream lock unveil crumble wisdom belt dismiss scrap umbrella";
+var mnemonic = "build dinner choice glimpse nuclear one chest bubble loud parade rice slam";

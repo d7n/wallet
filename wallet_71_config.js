@@ -1,1 +1,1 @@
-var mnemonic = "off frost save dove plunge text camp movie beauty rain drive carpet";
+var mnemonic = "volume believe acoustic access guitar world glue beef almost seven motor mercy";

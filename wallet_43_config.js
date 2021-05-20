@@ -1,1 +1,1 @@
-var mnemonic = "mean bonus alone slice order skill kind inhale heart camera bird call";
+var mnemonic = "stock bounce home floor anxiety wise marble airport poem nose video artist";

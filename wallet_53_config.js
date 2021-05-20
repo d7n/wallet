@@ -1,1 +1,1 @@
-var mnemonic = "shaft caution awful happy notable energy luxury glance pride industry civil wine";
+var mnemonic = "pen state uncover bundle cake never dog purse effort fury infant receive";

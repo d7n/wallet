@@ -1,1 +1,1 @@
-var mnemonic = "sing suit anchor enact budget addict news true vessel curious process crawl";
+var mnemonic = "gravity route clog entire legend october analyst giggle slim live direct rebel";

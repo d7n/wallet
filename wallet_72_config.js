@@ -1,1 +1,1 @@
-var mnemonic = "pigeon wide liquid stamp bird genius cool bunker boy surge virtual faith";
+var mnemonic = "rebel doll security civil labor slogan object slab thought magnet any gown";

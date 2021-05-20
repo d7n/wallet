@@ -1,1 +1,1 @@
-var mnemonic = "off agent music swift consider parent salt tuna share tube curve early";
+var mnemonic = "mind time cabin neutral tenant powder claim wheel cannon arrest curtain sleep";

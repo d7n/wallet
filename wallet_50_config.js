@@ -1,1 +1,1 @@
-var mnemonic = "wink morning shield list horse bracket bird where govern put lyrics afraid";
+var mnemonic = "fold observe museum worry across foil pitch fade post tragic gentle execute";

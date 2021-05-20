@@ -1,1 +1,1 @@
-var mnemonic = "answer memory eyebrow eager carpet parent devote wear own minimum author whip";
+var mnemonic = "unfold soldier kidney will exist setup bid impose oblige knife write find";

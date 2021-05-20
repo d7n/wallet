@@ -1,1 +1,1 @@
-var mnemonic = "benefit west orphan spot giraffe plug unlock major mouse zoo trigger lobster";
+var mnemonic = "someone section detail hybrid light yard harvest thunder welcome wire token gallery";

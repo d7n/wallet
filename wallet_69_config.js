@@ -1,1 +1,1 @@
-var mnemonic = "when super omit nothing motor audit police secret display donor other sentence";
+var mnemonic = "afford chief occur hint floor visit silly excuse book hello wish myth";

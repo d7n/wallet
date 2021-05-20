@@ -1,1 +1,1 @@
-var mnemonic = "supreme write avoid rent today arm second motor disorder title pond frame";
+var mnemonic = "spring trip gown depart project sort equal key cousin weasel devote finger";

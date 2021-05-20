@@ -1,1 +1,1 @@
-var mnemonic = "opera marine vibrant mixed current north fox coffee cat asthma suit route";
+var mnemonic = "control clutch trend margin salon digital trash hidden unveil bright forum trend";

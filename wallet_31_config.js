@@ -1,1 +1,1 @@
-var mnemonic = "bulk chest grocery scorpion clock energy click order rib hen diary craft";
+var mnemonic = "kidney food fringe waste rifle olive erode cannon miracle goose rain public";

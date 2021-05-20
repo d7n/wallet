@@ -1,1 +1,1 @@
-var mnemonic = "luxury luxury trim destroy illegal mirror chicken company private track blade only";
+var mnemonic = "payment frozen exhaust drastic toilet alpha loop nation retreat flavor issue puzzle";

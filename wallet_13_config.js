@@ -1,1 +1,1 @@
-var mnemonic = "raise kidney trigger render envelope dentist thumb picnic apology keep brisk spatial";
+var mnemonic = "snow outside gift basket grit hedgehog idea solar inject roast shuffle quiz";

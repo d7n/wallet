@@ -1,1 +1,1 @@
-var mnemonic = "sign affair boil weekend certain text winter minor lunar car cradle all";
+var mnemonic = "comfort quarter real tide fire repeat spin author cushion urge anxiety cave";

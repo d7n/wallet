@@ -1,1 +1,1 @@
-var mnemonic = "carry better acquire drama spin blame visit book sleep absurd present kit";
+var mnemonic = "essay shield virus below view renew fog hollow weekend view thunder term";

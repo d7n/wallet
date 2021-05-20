@@ -1,1 +1,1 @@
-var mnemonic = "scare soul nasty broom art pill plastic wild flight embrace urban surround";
+var mnemonic = "sock similar outdoor canvas arch lamp alcohol festival question general fabric supreme";

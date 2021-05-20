@@ -1,1 +1,1 @@
-var mnemonic = "youth category image nuclear endorse lunar fossil reunion thunder wonder avoid creek";
+var mnemonic = "solid inhale mother allow poet march weekend sand cancel cover dignity idle";

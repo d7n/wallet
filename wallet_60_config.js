@@ -1,1 +1,1 @@
-var mnemonic = "arrive seat correct review primary diet agent marine evolve mobile tuna bullet";
+var mnemonic = "essay soft dragon donkey ladder man sock aspect winter yellow leave cat";

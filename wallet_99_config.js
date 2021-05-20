@@ -1,1 +1,1 @@
-var mnemonic = "garage clever machine radar route private clutch duty rotate chair vessel seven";
+var mnemonic = "already gorilla area hurdle vote item curve promote fault lion easily mind";

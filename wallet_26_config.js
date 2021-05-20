@@ -1,1 +1,1 @@
-var mnemonic = "ozone evolve come keen denial ski wish protect sure margin cage warfare";
+var mnemonic = "fold coil mandate embrace because blind mimic energy gorilla cook carry danger";

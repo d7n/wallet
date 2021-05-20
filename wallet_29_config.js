@@ -1,1 +1,1 @@
-var mnemonic = "dragon best decide pave ridge tone diamond purse smoke appear fever panda";
+var mnemonic = "scare hedgehog south bronze flash rose client nasty absurd brain away inject";

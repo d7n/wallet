@@ -1,1 +1,1 @@
-var mnemonic = "cricket aim flash fantasy anger critic below furnace flush damp kiss bottom";
+var mnemonic = "left express you armed boost fault cover dice banner medal actress enhance";

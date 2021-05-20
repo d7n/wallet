@@ -1,1 +1,1 @@
-var mnemonic = "diagram device major maximum sail coast top say because connect tonight fragile";
+var mnemonic = "predict actor impulse glue beauty cupboard pet baby zebra friend tenant dawn";

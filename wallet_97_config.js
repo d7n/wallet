@@ -1,1 +1,1 @@
-var mnemonic = "scorpion argue track sound tone burden segment process bless nothing gossip onion";
+var mnemonic = "gas lady remember present type stone kitchen alert design neutral also pride";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal horn ethics bridge journey rack number victory nature gun cake mimic";
+var mnemonic = "range real person weapon final review vibrant bullet estate trick fruit click";

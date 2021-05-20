@@ -1,1 +1,1 @@
-var mnemonic = "express hazard salute ripple dolphin own laptop kitchen cat twice kitten original";
+var mnemonic = "twist orchard coin barrel tomato lock job bridge item match jump will";

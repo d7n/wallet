@@ -1,1 +1,1 @@
-var mnemonic = "slow evidence gallery they trim fame club cradle rural photo minute purchase";
+var mnemonic = "drift now camp load mistake news donor supply loop hockey boring follow";

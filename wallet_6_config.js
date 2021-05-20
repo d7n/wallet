@@ -1,1 +1,1 @@
-var mnemonic = "loyal say negative thought buyer addict spot beach tiny gentle hazard traffic";
+var mnemonic = "shed matter velvet ceiling mirror grab prefer round jazz key minor survey";

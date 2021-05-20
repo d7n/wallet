@@ -1,1 +1,1 @@
-var mnemonic = "have thing uncle they genius still best auto able pattern wish orchard";
+var mnemonic = "way join truly sausage crisp timber grace battle sister rural pull marriage";

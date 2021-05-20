@@ -1,1 +1,1 @@
-var mnemonic = "raven sense letter live struggle marine sing flush owner account pepper acid";
+var mnemonic = "sick burger machine offer hard lawn violin left rose rural file proof";

@@ -1,1 +1,1 @@
-var mnemonic = "task muffin cheap tuition like cause chaos sponsor chicken swing mom trade";
+var mnemonic = "assist car loop motor oak depart build payment sad click nasty impose";

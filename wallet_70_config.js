@@ -1,1 +1,1 @@
-var mnemonic = "focus slim mother found involve borrow ancient spin suffer viable combine crumble";
+var mnemonic = "trade walk extend animal useful leg toast kidney subject swift climb dose";

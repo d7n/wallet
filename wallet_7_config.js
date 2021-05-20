@@ -1,1 +1,1 @@
-var mnemonic = "race movie life garden culture insect drastic dune fatal exercise zebra champion";
+var mnemonic = "else aspect eye close vivid company analyst tortoise tobacco huge claim sample";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth high stable hello lonely cart real range inquiry tomorrow genuine virus";
+var mnemonic = "capital sun gather account voyage rail tag high market bottom crater ghost";

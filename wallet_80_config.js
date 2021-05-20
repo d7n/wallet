@@ -1,1 +1,1 @@
-var mnemonic = "stage envelope century column human eagle library interest oyster length bonus clerk";
+var mnemonic = "child vapor nice wheel put decorate place jelly husband giant build law";

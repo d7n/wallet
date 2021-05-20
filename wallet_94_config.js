@@ -1,1 +1,1 @@
-var mnemonic = "oppose wonder sentence arena marine sketch vivid valley floor increase guide token";
+var mnemonic = "huge flower estate inherit hold use lawn jazz much job gospel side";

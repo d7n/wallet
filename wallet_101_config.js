@@ -1,1 +1,1 @@
-var mnemonic = "legend call cradle property collect impact female actual flock final bean butter";
+var mnemonic = "unique answer lock bronze junk grant girl report say endless cup loyal";

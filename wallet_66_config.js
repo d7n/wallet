@@ -1,1 +1,1 @@
-var mnemonic = "predict blue canyon smoke fashion visit capital benefit total door because limit";
+var mnemonic = "ritual attend text book motor shop blur detail race panther arrest scan";

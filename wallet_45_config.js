@@ -1,1 +1,1 @@
-var mnemonic = "hybrid submit city day today era output real tag net dismiss either";
+var mnemonic = "observe immune tennis lazy sport bleak spread fatal will nice scrub tumble";
