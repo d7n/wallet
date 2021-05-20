@@ -1,1 +1,1 @@
-var mnemonic = "mention club unique athlete unique mistake apple embark borrow crunch icon bus";
+var mnemonic = "era struggle journey sweet gather proof put come offer east cloth cup";

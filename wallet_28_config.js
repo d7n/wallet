@@ -1,1 +1,1 @@
-var mnemonic = "trap deal arrive effort dolphin since cigar rail duck main above mention";
+var mnemonic = "elephant indoor fly fit swim purpose fish dumb awesome alley glad cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "upset glove day august invite fuel slight anchor hen meadow benefit mosquito";
+var mnemonic = "alarm gun wine rain pluck truth argue cradle place this grab slim";

@@ -1,1 +1,1 @@
-var mnemonic = "piano depart sport urge lava jar subway sport faith vault say vapor";
+var mnemonic = "item pond warrior affair connect latin start mad celery elevator cross match";

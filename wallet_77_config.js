@@ -1,1 +1,1 @@
-var mnemonic = "fat tumble chair mushroom attack deer attitude area aisle switch motion argue";
+var mnemonic = "sock salmon rack science verb captain crisp spike custom put mosquito deposit";

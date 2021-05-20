@@ -1,1 +1,1 @@
-var mnemonic = "route spike learn chronic cargo option practice margin comic label defense monitor";
+var mnemonic = "year lake abandon roof anchor bread sock laugh dice net key mule";

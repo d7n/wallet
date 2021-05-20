@@ -1,1 +1,1 @@
-var mnemonic = "rely grain december seminar bulb endless orchard heavy velvet shiver squeeze excite";
+var mnemonic = "search tonight appear over color pelican lonely crush payment perfect local robust";

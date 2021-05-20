@@ -1,1 +1,1 @@
-var mnemonic = "impulse gospel plastic comic junk clean accident doctor alcohol behind fortune million";
+var mnemonic = "fix peace tired range gas artwork type vapor unhappy emerge diagram slice";

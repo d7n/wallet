@@ -1,1 +1,1 @@
-var mnemonic = "tissue return fork spend legal dumb hole trial become can unknown grief";
+var mnemonic = "margin ladder boil paper rifle drive panel bleak black issue lava bronze";

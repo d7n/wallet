@@ -1,1 +1,1 @@
-var mnemonic = "giggle era merry skate gate shell stick mercy hint wisdom kitchen language";
+var mnemonic = "axis what invite aerobic napkin repair trumpet palace average piano mixture steel";

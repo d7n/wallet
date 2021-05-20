@@ -1,1 +1,1 @@
-var mnemonic = "amazing unfair benefit burger short lumber reason little kit rebel easily arrive";
+var mnemonic = "hood velvet area convince hollow despair thought floor because slight abuse culture";

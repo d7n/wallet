@@ -1,1 +1,1 @@
-var mnemonic = "save photo skin field left lock tank sure tomato base buzz cousin";
+var mnemonic = "permit sleep risk other buddy fiction maple blame work asset when gloom";

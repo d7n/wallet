@@ -1,1 +1,1 @@
-var mnemonic = "champion aware cannon clever sand educate frame minute evoke select planet swamp";
+var mnemonic = "exotic blame iron talent option shed trade fortune mansion gown hamster food";

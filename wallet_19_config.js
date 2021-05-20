@@ -1,1 +1,1 @@
-var mnemonic = "echo pond fatigue taste fame almost blame license noise way hair broken";
+var mnemonic = "fat excess kangaroo peace dolphin text please tilt speak ginger estate audit";

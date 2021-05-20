@@ -1,1 +1,1 @@
-var mnemonic = "illness rookie bike afraid expose proud black live arctic kiss nice poverty";
+var mnemonic = "amateur praise creek friend project wrong ability electric issue slogan left risk";

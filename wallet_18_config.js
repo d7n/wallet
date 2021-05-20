@@ -1,1 +1,1 @@
-var mnemonic = "dizzy drip length sadness surface base bubble fly brother width lawsuit clown";
+var mnemonic = "area sort state version warm guard fluid replace word wreck mushroom fee";

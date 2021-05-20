@@ -1,1 +1,1 @@
-var mnemonic = "immune speed fluid vendor blouse scissors finish cross rent shaft keen dignity";
+var mnemonic = "fine skull feature what burst bring wish small machine chaos loud visit";

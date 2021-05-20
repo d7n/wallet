@@ -1,1 +1,1 @@
-var mnemonic = "burst raise artefact mobile whisper weird divide invest knife urban father loyal";
+var mnemonic = "tone size recycle puzzle awkward young human stand remind kid fade mandate";

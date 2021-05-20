@@ -1,1 +1,1 @@
-var mnemonic = "kite grocery best review length paddle ability engage crisp welcome snack bright";
+var mnemonic = "owner other cheese dice glide owner loud gun head middle example cushion";

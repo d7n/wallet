@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cry spring right jazz border benefit nephew frown program fog define";
+var mnemonic = "hurry hamster echo pupil exit inside author ten congress cube promote clay";

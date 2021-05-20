@@ -1,1 +1,1 @@
-var mnemonic = "fabric roast round myth spirit piano tumble invite carbon drip neither off";
+var mnemonic = "midnight survey metal old coffee youth captain include bridge anxiety theory eyebrow";

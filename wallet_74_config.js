@@ -1,1 +1,1 @@
-var mnemonic = "guard model depend valid quantum stable inherit rare begin corn shine unique";
+var mnemonic = "total twelve document chicken smoke margin mention food sniff pact opinion peanut";

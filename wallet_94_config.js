@@ -1,1 +1,1 @@
-var mnemonic = "vendor dutch point bachelor okay happy federal remind struggle job yellow abstract";
+var mnemonic = "width silent elite empty paper squirrel deputy execute winter achieve outdoor injury";

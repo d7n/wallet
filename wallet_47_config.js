@@ -1,1 +1,1 @@
-var mnemonic = "deposit trade buffalo join coyote lobster explain song goat marine frown minor";
+var mnemonic = "member churn chief agent soccer tired wrap alcohol target claw follow coast";

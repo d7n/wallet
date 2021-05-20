@@ -1,1 +1,1 @@
-var mnemonic = "warfare hen three deer stay inmate minute mean rule crucial old hint";
+var mnemonic = "dress recipe connect code marriage chalk romance feature involve alone expect ceiling";

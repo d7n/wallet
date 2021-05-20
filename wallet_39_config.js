@@ -1,1 +1,1 @@
-var mnemonic = "marine surface athlete volcano breeze across income toy all result bomb gate";
+var mnemonic = "coil celery social online tool two emerge define found tiny salute satisfy";

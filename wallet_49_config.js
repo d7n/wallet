@@ -1,1 +1,1 @@
-var mnemonic = "chest merge soon goddess grass absent aware embrace economy ostrich elbow code";
+var mnemonic = "zero erode fluid betray pulp peasant practice boy tomato fit effort crisp";

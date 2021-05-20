@@ -1,1 +1,1 @@
-var mnemonic = "actor goddess fan crystal tube admit please mountain help hurt tobacco approve";
+var mnemonic = "bomb lunch inquiry deliver grunt luxury settle angry slot theory weasel fragile";

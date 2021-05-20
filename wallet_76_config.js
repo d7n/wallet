@@ -1,1 +1,1 @@
-var mnemonic = "doll market arctic shell harvest use cross series achieve artefact economy obey";
+var mnemonic = "prison describe estate fatal lend six paper catch year monster claw struggle";

@@ -1,1 +1,1 @@
-var mnemonic = "female kind leaf merit brand reject hurry great buddy pioneer magnet danger";
+var mnemonic = "distance useful error example item tiny plunge buzz reject friend day then";

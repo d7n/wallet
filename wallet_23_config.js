@@ -1,1 +1,1 @@
-var mnemonic = "regret kit turn taste exact gadget regular foil spice tail cricket script";
+var mnemonic = "brother seek actor frost spirit above pride journey artwork blade wide neglect";

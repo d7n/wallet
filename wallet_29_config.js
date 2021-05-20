@@ -1,1 +1,1 @@
-var mnemonic = "trash void beyond harbor bounce idle smile bike eyebrow harbor sample fringe";
+var mnemonic = "outer indoor dog empty royal letter vague gentle earn proof outside soda";

@@ -1,1 +1,1 @@
-var mnemonic = "save learn rule charge kiss join style hint body trend invest okay";
+var mnemonic = "install run degree humor output report pole drink like license settle scissors";

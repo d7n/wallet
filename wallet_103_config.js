@@ -1,1 +1,1 @@
-var mnemonic = "birth month light plastic catalog health use crazy choose december tooth tongue";
+var mnemonic = "chase key engage index segment ticket rural ancient congress name woman once";

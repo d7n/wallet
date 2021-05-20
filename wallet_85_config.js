@@ -1,1 +1,1 @@
-var mnemonic = "again misery dwarf usage primary car hybrid sentence put property swap job";
+var mnemonic = "drum camp tumble six hammer juice board tongue theory tattoo fruit sister";

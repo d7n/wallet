@@ -1,1 +1,1 @@
-var mnemonic = "cream narrow palace crucial turkey warrior liquid excite fox brick old cruel";
+var mnemonic = "copper cement narrow cream lawsuit grocery during shove save weapon coin enjoy";

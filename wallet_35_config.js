@@ -1,1 +1,1 @@
-var mnemonic = "loan check tiger assist twice innocent buzz force cube expect luxury detail";
+var mnemonic = "tomato spray tourist finger tree balcony matrix effort follow source panel sugar";

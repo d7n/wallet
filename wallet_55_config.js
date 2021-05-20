@@ -1,1 +1,1 @@
-var mnemonic = "object afford lava chief mad occur kiwi then grid bounce vital major";
+var mnemonic = "tortoise dentist mistake merit try brother pen copper ostrich prize afraid course";

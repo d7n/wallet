@@ -1,1 +1,1 @@
-var mnemonic = "mad glimpse monitor electric advance frequent police caution put best cupboard tool";
+var mnemonic = "fantasy shuffle image gesture need guitar version walnut slide home scan cute";

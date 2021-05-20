@@ -1,1 +1,1 @@
-var mnemonic = "chicken orphan earth burst large minute satisfy shoulder cliff ripple room flight";
+var mnemonic = "rally symptom tired grocery cat ancient easy clean flag they bronze crew";

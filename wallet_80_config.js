@@ -1,1 +1,1 @@
-var mnemonic = "lobster pattern garage attend patrol chimney sample wait lonely promote mixture trigger";
+var mnemonic = "arrow stadium program man grief kingdom paddle dirt lava pole fringe champion";

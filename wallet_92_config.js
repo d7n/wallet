@@ -1,1 +1,1 @@
-var mnemonic = "very ribbon chunk script solid example cage limb flavor build roast load";
+var mnemonic = "grid solid lion taxi picnic camera weapon boost clutch off super rubber";

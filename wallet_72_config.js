@@ -1,1 +1,1 @@
-var mnemonic = "present climb tree stock panic renew faith hold wool title upper ride";
+var mnemonic = "effort hub mesh crawl near rain follow fire expand present riot endless";

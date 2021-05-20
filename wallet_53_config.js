@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ready exact can report element front family ritual coral guard purity";
+var mnemonic = "tattoo figure stay pair river cattle vault despair any various vast wine";

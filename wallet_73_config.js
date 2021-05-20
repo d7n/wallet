@@ -1,1 +1,1 @@
-var mnemonic = "mother lecture wave canal fine insane please pepper method vast essay brush";
+var mnemonic = "mask diesel artefact flip space endless foster talent power trumpet oak stable";

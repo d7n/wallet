@@ -1,1 +1,1 @@
-var mnemonic = "tomato maid rule today assist amazing spike rail acid anxiety drink fun";
+var mnemonic = "tissue exhibit young immune upgrade follow slot aisle hotel journey kitten frame";

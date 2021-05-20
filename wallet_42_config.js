@@ -1,1 +1,1 @@
-var mnemonic = "curious faculty flight local improve suspect before agree apple float skull journey";
+var mnemonic = "arrange there bean achieve page brisk banner nice rug next alarm idea";

@@ -1,1 +1,1 @@
-var mnemonic = "survey copy ability emotion ski satoshi use extra warfare raise patrol six";
+var mnemonic = "spring forum fresh hover quarter rude obscure flash quote bronze pause system";

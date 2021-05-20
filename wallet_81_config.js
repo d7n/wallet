@@ -1,1 +1,1 @@
-var mnemonic = "elephant stadium sword trophy cotton buffalo hedgehog select inside eight hundred curious";
+var mnemonic = "evoke quit ramp cliff juice pudding adapt wrestle unveil govern section wish";

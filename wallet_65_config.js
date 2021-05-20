@@ -1,1 +1,1 @@
-var mnemonic = "wasp enlist great decide rude blanket desk copper convince flat chicken craft";
+var mnemonic = "priority spatial praise hobby food chest bacon unveil hip measure miss inhale";

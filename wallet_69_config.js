@@ -1,1 +1,1 @@
-var mnemonic = "humble define orchard spray scheme basket vivid depart tuition slab dry pink";
+var mnemonic = "negative year trumpet true brown pelican suffer shoe betray rival april film";

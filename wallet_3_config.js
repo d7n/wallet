@@ -1,1 +1,1 @@
-var mnemonic = "kingdom worth make smile dwarf pause dust jelly rocket magnet ski frog";
+var mnemonic = "pupil below journey balcony crucial movie phrase inhale cage bag actual once";

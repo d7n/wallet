@@ -1,1 +1,1 @@
-var mnemonic = "strike foam among lens excess pretty grant payment kiwi please menu behave";
+var mnemonic = "huge uniform summer juice gauge that more knock come unaware afraid sun";

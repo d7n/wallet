@@ -1,1 +1,1 @@
-var mnemonic = "goat similar mass tiny soap citizen fossil ginger system clock gorilla public";
+var mnemonic = "chronic basic roof april polar stem casino salute collect pencil peasant mesh";

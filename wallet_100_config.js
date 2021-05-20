@@ -1,1 +1,1 @@
-var mnemonic = "ostrich eight cabbage galaxy diet useless stamp fold exercise twenty build relief";
+var mnemonic = "grab twelve orange hammer bread tunnel impact comfort more shine exile bounce";

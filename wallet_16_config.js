@@ -1,1 +1,1 @@
-var mnemonic = "frown baby famous float normal need fold rare bubble fancy thought ill";
+var mnemonic = "baby relief snake team pair orphan protect shy muffin hotel pave pass";

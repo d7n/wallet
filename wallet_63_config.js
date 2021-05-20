@@ -1,1 +1,1 @@
-var mnemonic = "borrow genuine fringe luggage again crew scrub gaze ugly nothing harsh frown";
+var mnemonic = "grain swamp settle road margin bus payment grant danger tape drill fatigue";

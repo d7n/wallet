@@ -1,1 +1,1 @@
-var mnemonic = "rebuild pupil define tone draft ostrich project calm muffin verify damage range";
+var mnemonic = "margin scatter title love glare excite brain note battle copper just wrong";

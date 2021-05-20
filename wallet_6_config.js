@@ -1,1 +1,1 @@
-var mnemonic = "trick genre laptop purchase angry asthma swift approve position sugar fortune wash";
+var mnemonic = "obscure noodle sunny reopen cancel swamp lamp spatial immense make rail huge";

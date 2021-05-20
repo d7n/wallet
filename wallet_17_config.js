@@ -1,1 +1,1 @@
-var mnemonic = "tunnel run order parent crowd gym suggest divert like ancient vintage patch";
+var mnemonic = "prize brown hold laundry pink auction sock more gossip media debris excess";

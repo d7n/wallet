@@ -1,1 +1,1 @@
-var mnemonic = "skin impulse image limit runway bomb leave similar bronze bless valid control";
+var mnemonic = "include skull curve tumble student nephew churn foam acoustic easy sniff reflect";

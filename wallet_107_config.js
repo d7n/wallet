@@ -1,1 +1,1 @@
-var mnemonic = "link grain special town six scorpion axis toward page saddle jungle blossom";
+var mnemonic = "speed excite cool admit world unhappy hamster relax bitter fluid submit tenant";

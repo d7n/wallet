@@ -1,1 +1,1 @@
-var mnemonic = "dial team label shift shiver school biology job cruel reflect enhance make";
+var mnemonic = "video weather fuel tape gadget sword peanut congress naive tobacco update kite";

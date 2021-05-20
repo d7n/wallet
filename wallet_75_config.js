@@ -1,1 +1,1 @@
-var mnemonic = "iron deny result poet broken sketch oven march camera someone become bicycle";
+var mnemonic = "weather arrow into balcony doll way arrest stool pulp indoor dad become";

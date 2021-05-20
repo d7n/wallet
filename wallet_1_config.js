@@ -1,1 +1,1 @@
-var mnemonic = "canoe summer visual guard endless disagree gesture dawn normal explain calm behave";
+var mnemonic = "vast oil train fever poem device pride give total symptom acid until";

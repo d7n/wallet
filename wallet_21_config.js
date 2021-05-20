@@ -1,1 +1,1 @@
-var mnemonic = "model pony together myth dutch stumble wing second balance typical teach quiz";
+var mnemonic = "item boat atom gasp high second close ordinary miss collect curious amount";

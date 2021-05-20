@@ -1,1 +1,1 @@
-var mnemonic = "senior genre arrange woman more pond equip fabric kitten priority host domain";
+var mnemonic = "soda photo slight abuse ten unique ladder deliver chef silent exhibit hollow";

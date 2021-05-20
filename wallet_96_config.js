@@ -1,1 +1,1 @@
-var mnemonic = "bridge aunt police flight nephew rigid call good atom veteran whip appear";
+var mnemonic = "hold ride flat turn uphold put cluster text next donate rubber tattoo";

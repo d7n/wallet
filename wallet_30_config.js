@@ -1,1 +1,1 @@
-var mnemonic = "cruel disease spider awesome media abstract turkey park mutual upon inhale ride";
+var mnemonic = "travel edge good power company patch proof eye bottom hub uncover smooth";

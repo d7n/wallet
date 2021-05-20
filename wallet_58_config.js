@@ -1,1 +1,1 @@
-var mnemonic = "office vague matter beyond marble leader buzz advice truly couch estate winter";
+var mnemonic = "story clean join burger this select pepper duty sure drop random wife";

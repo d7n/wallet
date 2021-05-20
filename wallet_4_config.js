@@ -1,1 +1,1 @@
-var mnemonic = "rich grit duty square dumb film treat nurse bread taxi creek canoe";
+var mnemonic = "message razor under pledge divorce direct bonus globe way reduce project mix";

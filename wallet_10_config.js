@@ -1,1 +1,1 @@
-var mnemonic = "retreat select razor immense demise cable about creek spot accuse grape access";
+var mnemonic = "taste absent amused female feature toe bar diary use guilt cloth sand";

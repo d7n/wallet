@@ -1,1 +1,1 @@
-var mnemonic = "like husband orange history motion initial chronic area list recipe steel can";
+var mnemonic = "hollow certain define twelve juice model ball cushion change genius dirt dress";

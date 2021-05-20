@@ -1,1 +1,1 @@
-var mnemonic = "kind voyage tiny fan equip camp cash angry deputy when surge erode";
+var mnemonic = "width mixed physical matrix flee much crumble float degree social sphere body";

@@ -1,1 +1,1 @@
-var mnemonic = "also later luxury certain raccoon alone aware fan enable alert loop cheap";
+var mnemonic = "witness close affair saddle very grunt media almost copper large loan input";

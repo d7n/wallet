@@ -1,1 +1,1 @@
-var mnemonic = "illegal sell gym idea around scrap design enable humble true collect like";
+var mnemonic = "airport case chalk nose river burst remember cave zone junk stuff school";

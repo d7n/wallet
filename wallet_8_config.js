@@ -1,1 +1,1 @@
-var mnemonic = "enough pilot letter void frost chest immune celery twenty ahead federal forest";
+var mnemonic = "fabric base bonus fitness finger patrol meat force unfold slot baby they";

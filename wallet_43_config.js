@@ -1,1 +1,1 @@
-var mnemonic = "boat magic wise index turkey surge nerve bronze fit orphan twelve original";
+var mnemonic = "vendor vote special prepare door ready member verb maximum vanish vanish day";

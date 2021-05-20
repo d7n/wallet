@@ -1,1 +1,1 @@
-var mnemonic = "text beauty wave senior begin season space include stumble crumble kick hollow";
+var mnemonic = "boil game twist super pony return great shove erupt exercise swamp setup";

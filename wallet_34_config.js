@@ -1,1 +1,1 @@
-var mnemonic = "inside fitness result intact live load seminar coyote grid betray wild apart";
+var mnemonic = "duck fault abuse couple increase build armed rabbit brother render absorb mad";

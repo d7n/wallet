@@ -1,1 +1,1 @@
-var mnemonic = "region choice apple public broken swap dress like grain clock fiber ride";
+var mnemonic = "upper govern cricket whip walk insane flower cheap mountain civil safe bless";

@@ -1,1 +1,1 @@
-var mnemonic = "asset myself obtain divide crack trophy comic pass owner gate grid tower";
+var mnemonic = "reform evidence evil renew wonder flower ozone language tail vocal shed nature";

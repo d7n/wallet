@@ -1,1 +1,1 @@
-var mnemonic = "inflict maid display twin elder usage cube stool expose observe alter motion";
+var mnemonic = "utility hour senior romance organ involve earth minor orphan people rule giant";

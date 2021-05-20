@@ -1,1 +1,1 @@
-var mnemonic = "wing curious confirm mobile flip luxury ugly mimic before reason chair start";
+var mnemonic = "advance heart program skull moon cube camera maze tumble attract region blame";

@@ -1,1 +1,1 @@
-var mnemonic = "price lemon hollow poet fatal matrix clean region estate dragon common universe";
+var mnemonic = "coin hundred scale renew laundry kiss indoor foster enrich crew eight eager";

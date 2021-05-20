@@ -1,1 +1,1 @@
-var mnemonic = "drill legal govern trip arm claw distance west canoe limit drive wool";
+var mnemonic = "wine rotate debate despair ribbon special sell mixed walnut online typical mention";

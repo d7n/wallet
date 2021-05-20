@@ -1,1 +1,1 @@
-var mnemonic = "width advice unknown oyster hair easily review math pole exotic wagon wood";
+var mnemonic = "melt senior kitchen cave pigeon random oven during near cabin drink viable";

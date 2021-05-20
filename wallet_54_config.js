@@ -1,1 +1,1 @@
-var mnemonic = "dumb duty nest adjust border wash control enhance paddle planet robot setup";
+var mnemonic = "wealth reveal zoo aspect pattern lobster tip earth wasp alter swing train";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket fog hello pattern leave exile obvious actress dial industry frost outdoor";
+var mnemonic = "sponsor skate arrow bid almost claim trial fortune gloom ripple phone circle";

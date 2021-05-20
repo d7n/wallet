@@ -1,1 +1,1 @@
-var mnemonic = "shallow angle curve acoustic join equal betray uncle arrow gallery average liquid";
+var mnemonic = "unaware code palm knock trip cement embark copy company speak alter firm";

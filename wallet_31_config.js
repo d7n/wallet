@@ -1,1 +1,1 @@
-var mnemonic = "crawl clerk truly raw sail sword mention harvest hungry drop answer trigger";
+var mnemonic = "urban focus session demand wink raw loyal anxiety improve unaware either spike";

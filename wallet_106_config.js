@@ -1,1 +1,1 @@
-var mnemonic = "pave utility fine clock because pause unfold possible sleep venue salad season";
+var mnemonic = "solve oak edge lion holiday gym vessel acid scrap keep tiny track";
