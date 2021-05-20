@@ -1,1 +1,1 @@
-var mnemonic = "hamster peasant insane welcome sing wrestle defy fruit light police aim fiber";
+var mnemonic = "tuna math alley silent rude among uphold recycle chat hammer destroy reopen";

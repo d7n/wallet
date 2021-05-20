@@ -1,1 +1,1 @@
-var mnemonic = "left ivory float tissue journey siren mind jar shaft canvas program hope";
+var mnemonic = "record either affair shallow collect canyon also sort decorate sport magnet hen";

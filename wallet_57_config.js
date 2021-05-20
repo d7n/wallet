@@ -1,1 +1,1 @@
-var mnemonic = "lucky raw more metal surface mirror fitness capable decrease supply reform crack";
+var mnemonic = "predict cereal million dignity emotion arena build dirt galaxy raw game engine";

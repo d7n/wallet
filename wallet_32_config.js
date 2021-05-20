@@ -1,1 +1,1 @@
-var mnemonic = "feed tube lake bundle axis bargain impact cannon next veteran cover scrub";
+var mnemonic = "shiver net inspire call swift rigid adult noodle cherry leg level dance";

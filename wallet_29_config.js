@@ -1,1 +1,1 @@
-var mnemonic = "sugar chunk puppy diamond rhythm elite fashion chat enhance example sword false";
+var mnemonic = "lesson carpet fine still skill dash shiver twist skull curious fall obscure";

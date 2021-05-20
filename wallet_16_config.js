@@ -1,1 +1,1 @@
-var mnemonic = "tackle pig decline bone resource witness ill soccer private warm grant fall";
+var mnemonic = "frost focus portion brick exact weasel tomorrow repeat buzz push fossil law";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny roof announce admit dish curve muscle nature mirror theory disagree retreat";
+var mnemonic = "ugly dumb song sun fat employ kidney addict alarm sound surprise diary";

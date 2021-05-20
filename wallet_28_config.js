@@ -1,1 +1,1 @@
-var mnemonic = "gate fetch winter desert loyal machine float sign jungle danger yard cousin";
+var mnemonic = "split leg fever clerk swarm galaxy blouse club group mercy loyal diet";

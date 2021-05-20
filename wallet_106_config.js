@@ -1,1 +1,1 @@
-var mnemonic = "select apology detect raven spring tree team antenna dune arrange service supreme";
+var mnemonic = "simple firm flag noodle payment laptop boil thumb bamboo believe wrestle soul";

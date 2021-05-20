@@ -1,1 +1,1 @@
-var mnemonic = "deal until shadow outer more roast report spike today this bachelor stadium";
+var mnemonic = "broccoli rhythm equip dune receive wrap double since odor muffin only almost";

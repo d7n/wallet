@@ -1,1 +1,1 @@
-var mnemonic = "bracket soap athlete manage tent shaft rich near december punch what used";
+var mnemonic = "inject wreck math mass flag select collect hunt okay bachelor mad torch";

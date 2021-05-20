@@ -1,1 +1,1 @@
-var mnemonic = "glue ridge around sunset biology useful stem will place win jaguar inject";
+var mnemonic = "bulb skin holiday control away this recall exhaust quarter decrease fan foil";

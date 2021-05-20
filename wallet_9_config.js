@@ -1,1 +1,1 @@
-var mnemonic = "garden expose gown cannon across across web alone shine major evidence stage";
+var mnemonic = "habit inmate gadget observe blouse duck ask concert federal hollow sort grape";

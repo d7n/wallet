@@ -1,1 +1,1 @@
-var mnemonic = "bird young shell kitchen anxiety lens trigger sponsor valid fee gorilla evolve";
+var mnemonic = "few solution holiday endorse high spoil immense doll parrot kick clap syrup";

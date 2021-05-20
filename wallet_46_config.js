@@ -1,1 +1,1 @@
-var mnemonic = "kingdom end tonight wonder absorb brief bulk curve minute winner clog enter";
+var mnemonic = "illness build violin dawn pave review orphan cabbage shock wear fossil base";

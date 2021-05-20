@@ -1,1 +1,1 @@
-var mnemonic = "region gift invest concert tobacco coil victory actual nurse bubble noise outside";
+var mnemonic = "jelly board early bargain flower bid debate sport kiwi taxi truly various";

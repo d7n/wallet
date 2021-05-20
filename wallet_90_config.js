@@ -1,1 +1,1 @@
-var mnemonic = "correct kangaroo chapter harsh organ modify evil talent because utility angry zebra";
+var mnemonic = "hire file cradle route embody hundred grain page deal palm fox market";

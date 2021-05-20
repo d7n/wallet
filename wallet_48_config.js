@@ -1,1 +1,1 @@
-var mnemonic = "delay tilt fold round vote hybrid napkin green sail comfort history logic";
+var mnemonic = "glass frost tornado moment letter valid employ race stairs odor diary page";

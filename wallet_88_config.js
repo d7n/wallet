@@ -1,1 +1,1 @@
-var mnemonic = "kid pupil label bullet theory small item speak airport recipe egg manual";
+var mnemonic = "service suspect rather extend good rhythm copy release tragic together forward venture";

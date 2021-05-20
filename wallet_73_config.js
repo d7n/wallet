@@ -1,1 +1,1 @@
-var mnemonic = "second holiday duck cream before van leaf evoke rocket neck skull salad";
+var mnemonic = "skin grace recall razor rotate opera riot young hold found foam make";

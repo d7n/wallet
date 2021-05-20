@@ -1,1 +1,1 @@
-var mnemonic = "future struggle eye caught old exist fiber save pact super only position";
+var mnemonic = "script velvet system paper ice field outside venue pelican stamp patient worry";

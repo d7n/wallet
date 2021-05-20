@@ -1,1 +1,1 @@
-var mnemonic = "second distance track bench casual wrestle exact lesson burger volcano poverty party";
+var mnemonic = "fame bounce result plastic vast broom humor grace once veteran obvious dose";

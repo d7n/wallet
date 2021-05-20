@@ -1,1 +1,1 @@
-var mnemonic = "rather today public oval mosquito neither height decade market wave shop neglect";
+var mnemonic = "dutch much excuse nut another tourist hint fitness define idea fox spray";

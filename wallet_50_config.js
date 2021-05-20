@@ -1,1 +1,1 @@
-var mnemonic = "cruise badge island violin advance nominee fat fortune parade bachelor alien damage";
+var mnemonic = "saddle fun memory brush brisk caught car lake outdoor fabric resist spawn";

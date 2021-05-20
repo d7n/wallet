@@ -1,1 +1,1 @@
-var mnemonic = "horse zebra catch train small luxury confirm autumn two original rate congress";
+var mnemonic = "horse cream small assault club index swift disagree timber lottery useful hip";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel fall all struggle plate rain flower spatial material unknown town shaft";
+var mnemonic = "crane twist warfare hover ecology october check apple settle effort essay anxiety";

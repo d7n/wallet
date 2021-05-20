@@ -1,1 +1,1 @@
-var mnemonic = "derive cannon soap table rookie divorce demise burden cabbage proof online cradle";
+var mnemonic = "awesome april butter unlock outside acquire staff idle improve speed puzzle weather";

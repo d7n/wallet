@@ -1,1 +1,1 @@
-var mnemonic = "lunch ranch rubber wrong universe lens snake grit crush seat attend deer";
+var mnemonic = "below choice ancient pink brisk begin island razor pencil then hurdle portion";

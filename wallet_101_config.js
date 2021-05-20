@@ -1,1 +1,1 @@
-var mnemonic = "print nominee rhythm glow album fan trade equip pelican liquid polar say";
+var mnemonic = "agent knee radar adjust coffee dad rebuild agent rose blame solve paper";

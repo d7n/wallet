@@ -1,1 +1,1 @@
-var mnemonic = "wood unveil brush cluster way mosquito advance fork unlock life near glove";
+var mnemonic = "flash analyst useful gas trouble ginger humor ketchup senior exhibit dismiss upon";

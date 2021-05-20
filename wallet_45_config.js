@@ -1,1 +1,1 @@
-var mnemonic = "chapter life shop also oxygen target repeat cement pride inner sausage curve";
+var mnemonic = "topple occur ripple shove zero fuel quality dinosaur road mobile provide three";

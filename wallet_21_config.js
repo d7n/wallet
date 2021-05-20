@@ -1,1 +1,1 @@
-var mnemonic = "grant zoo mention estate grocery artwork local rhythm body someone suggest chef";
+var mnemonic = "apple reflect source system correct dinner tip spell slush system canoe ahead";

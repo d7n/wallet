@@ -1,1 +1,1 @@
-var mnemonic = "useless remember extend fetch space ribbon creek save million pigeon portion fragile";
+var mnemonic = "deer sketch remember wreck math wine monitor village monster general umbrella worry";

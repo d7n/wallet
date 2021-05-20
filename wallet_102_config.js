@@ -1,1 +1,1 @@
-var mnemonic = "sand mobile celery shoulder learn syrup skin over sad fortune essence gasp";
+var mnemonic = "perfect strong master struggle matter resemble visa vapor rotate valve math excess";

@@ -1,1 +1,1 @@
-var mnemonic = "word busy man high insane grab sword vault collect divorce elephant wild";
+var mnemonic = "tube sock doll aspect predict near ski hamster clown canal stumble razor";

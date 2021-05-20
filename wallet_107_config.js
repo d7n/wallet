@@ -1,1 +1,1 @@
-var mnemonic = "protect truly donkey later advice verb culture deputy stage cradle year slot";
+var mnemonic = "stomach spider kiss crater wage hope fiction phrase barrel oil label unveil";

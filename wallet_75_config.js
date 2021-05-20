@@ -1,1 +1,1 @@
-var mnemonic = "achieve patrol swim figure shock grocery chase rely path october pencil tilt";
+var mnemonic = "climb mechanic ten polar toward such road smoke pen cash laundry access";

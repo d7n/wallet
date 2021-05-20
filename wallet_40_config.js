@@ -1,1 +1,1 @@
-var mnemonic = "again father lava canvas beach nice spread round game drop blossom elegant";
+var mnemonic = "cram else three chief garbage choose number shine connect escape receive success";

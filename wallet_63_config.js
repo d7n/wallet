@@ -1,1 +1,1 @@
-var mnemonic = "wage detail toy consider spin blade girl term purse tag alone worry";
+var mnemonic = "barely federal body later during film voyage claw danger kitchen mouse wing";

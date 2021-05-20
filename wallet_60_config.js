@@ -1,1 +1,1 @@
-var mnemonic = "scare plunge brave margin give sea odor bird panic prepare armed rubber";
+var mnemonic = "maximum spawn satoshi album moment message base any swear verify disagree traffic";

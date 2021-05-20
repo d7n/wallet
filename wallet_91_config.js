@@ -1,1 +1,1 @@
-var mnemonic = "catch topic toddler puppy minor dilemma spice spell immense lumber what length";
+var mnemonic = "crystal later belt endless direct glare easy shift half slogan cart spirit";

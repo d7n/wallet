@@ -1,1 +1,1 @@
-var mnemonic = "bid orphan motor visit rack smooth weasel mind great orchard refuse length";
+var mnemonic = "certain tuition shove pride taste vast expect differ liar effort unable toss";

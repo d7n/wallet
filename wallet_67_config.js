@@ -1,1 +1,1 @@
-var mnemonic = "stool identify annual gauge thought snack curious seed quarter vivid ignore mule";
+var mnemonic = "zebra pact feature home advice squirrel weekend onion write trap say zebra";

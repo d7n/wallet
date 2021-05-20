@@ -1,1 +1,1 @@
-var mnemonic = "olive expect few candy wear park math cliff track found crane dove";
+var mnemonic = "weapon raise submit tooth early still betray wheat shallow evolve hat autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild hidden work meat say resist claim gun time civil essence evoke";
+var mnemonic = "sausage suffer chest ozone mammal illness bus blossom enlist lend bullet diary";

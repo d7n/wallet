@@ -1,1 +1,1 @@
-var mnemonic = "critic inhale duck bonus evidence mercy mechanic travel hedgehog desert oblige soft";
+var mnemonic = "struggle include smile evoke element diet advance coil crash peanut balcony flip";

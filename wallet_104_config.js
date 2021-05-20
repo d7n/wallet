@@ -1,1 +1,1 @@
-var mnemonic = "culture aware wear state control model session only arch gauge under right";
+var mnemonic = "mimic shift blanket age speed disorder maximum what knife unfold endorse cross";

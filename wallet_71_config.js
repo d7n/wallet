@@ -1,1 +1,1 @@
-var mnemonic = "sight derive relax surface ranch tattoo axis exact fiber end remain jaguar";
+var mnemonic = "shadow keen pulse oyster scare dismiss double trophy shed current pumpkin employ";

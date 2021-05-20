@@ -1,1 +1,1 @@
-var mnemonic = "payment cherry mountain silk height call elbow lumber shy execute fashion glance";
+var mnemonic = "blame arrow flash find uncle lab cycle share wife addict fix animal";

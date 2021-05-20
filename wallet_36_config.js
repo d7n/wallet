@@ -1,1 +1,1 @@
-var mnemonic = "fall lab camp found castle improve box cricket breeze lucky lend sauce";
+var mnemonic = "tell offer behave gasp diamond flag enemy follow drastic help basic lens";

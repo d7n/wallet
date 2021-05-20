@@ -1,1 +1,1 @@
-var mnemonic = "illness year fog february hybrid reflect autumn bottom afford devote fame stock";
+var mnemonic = "cream gentle abstract creek retreat give refuse blade upon guitar comic neutral";

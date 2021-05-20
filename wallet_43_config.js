@@ -1,1 +1,1 @@
-var mnemonic = "fine disease situate arm certain right blouse rebuild practice stone onion vacant";
+var mnemonic = "victory repeat squeeze drink chronic minimum divide solid whisper wife edit company";

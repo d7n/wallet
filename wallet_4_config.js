@@ -1,1 +1,1 @@
-var mnemonic = "remember route mass near initial artist sting moment employ trick trip either";
+var mnemonic = "monster cost bachelor funny sentence cotton humble damp ten job chapter agree";

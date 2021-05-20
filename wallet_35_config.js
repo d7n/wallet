@@ -1,1 +1,1 @@
-var mnemonic = "museum permit frown giggle sorry inflict portion guitar citizen acquire biology tourist";
+var mnemonic = "pepper play ginger prison mesh dinosaur lesson actress witness relax loop edit";

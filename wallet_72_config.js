@@ -1,1 +1,1 @@
-var mnemonic = "below key robust choose gentle hidden woman mechanic style cupboard borrow say";
+var mnemonic = "gasp amount brisk burden mansion patch cluster because kid actual pluck receive";

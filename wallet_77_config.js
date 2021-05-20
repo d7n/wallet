@@ -1,1 +1,1 @@
-var mnemonic = "range cabbage music heart canoe loop angle mobile square thunder run few";
+var mnemonic = "view call rice raw marine unique bicycle silent tumble fish erosion beef";

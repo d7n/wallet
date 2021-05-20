@@ -1,1 +1,1 @@
-var mnemonic = "decline jump midnight parrot ladder knife lyrics snack acoustic approve ability verify";
+var mnemonic = "main solution clerk learn recycle depend tuition together gadget unknown insect away";

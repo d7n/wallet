@@ -1,1 +1,1 @@
-var mnemonic = "bean pumpkin dash stereo stairs horror yellow future mad mule horse oak";
+var mnemonic = "clip love between evolve dance govern popular huge profit segment bunker jungle";

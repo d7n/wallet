@@ -1,1 +1,1 @@
-var mnemonic = "inhale elder level tumble among cube furnace remove glory convince smile media";
+var mnemonic = "total mansion lazy tennis knee venture flower access theory normal wage turkey";

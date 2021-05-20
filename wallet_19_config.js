@@ -1,1 +1,1 @@
-var mnemonic = "dress enrich rent risk blouse reunion defy keep system wife system human";
+var mnemonic = "cannon appear negative eternal couple supply noodle cancel patch kitten material symbol";

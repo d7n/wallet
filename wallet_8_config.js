@@ -1,1 +1,1 @@
-var mnemonic = "attract sphere pill deer arctic seminar tide situate measure blouse color seat";
+var mnemonic = "shoulder frozen barrel weapon shuffle sense anxiety morning shop film ripple close";

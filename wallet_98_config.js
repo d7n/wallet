@@ -1,1 +1,1 @@
-var mnemonic = "culture razor there board volume mean south camp panic amateur radar spoil";
+var mnemonic = "aim market please prize layer one predict clock south forum bus lady";

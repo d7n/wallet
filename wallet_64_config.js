@@ -1,1 +1,1 @@
-var mnemonic = "total bar junk chat damp sweet battle squeeze slot steak habit knee";
+var mnemonic = "decrease grant remain pony bench erode equal travel business cheese leaf forum";

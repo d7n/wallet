@@ -1,1 +1,1 @@
-var mnemonic = "index catch bone nominee media brisk whisper assault spread beach dish entry";
+var mnemonic = "stamp loop crouch twelve process unlock morning fork hurry aim coconut curve";

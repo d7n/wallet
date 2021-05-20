@@ -1,1 +1,1 @@
-var mnemonic = "ankle teach together damp silk ready wheel bargain thing hold wasp aerobic";
+var mnemonic = "cool save crisp wise sentence can major merit text tortoise sick melt";

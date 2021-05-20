@@ -1,1 +1,1 @@
-var mnemonic = "rib romance damage cost eyebrow badge gravity wool artwork swift weekend lounge";
+var mnemonic = "canoe march wing neither admit mistake lock simple guilt bright shrug airport";

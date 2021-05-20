@@ -1,1 +1,1 @@
-var mnemonic = "maze bus vehicle feel behave green balance never symptom shoulder today fatigue";
+var mnemonic = "social enjoy grocery hungry spoil saddle goat never act harbor able praise";

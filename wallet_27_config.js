@@ -1,1 +1,1 @@
-var mnemonic = "budget squeeze cash media rotate world quarter air post cement problem discover";
+var mnemonic = "brush load mountain quality walk mammal frog false trash trophy tornado assault";

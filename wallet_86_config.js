@@ -1,1 +1,1 @@
-var mnemonic = "emotion skin faith act city easily decrease member silent oil found violin";
+var mnemonic = "voice private limit tree deny provide pink empower polar climb three segment";

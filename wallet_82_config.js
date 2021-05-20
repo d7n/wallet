@@ -1,1 +1,1 @@
-var mnemonic = "order mind plastic gain faculty giant tired mimic enough boost enable fossil";
+var mnemonic = "second over chronic prevent shaft volume depth hotel zebra dizzy obvious step";

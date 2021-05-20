@@ -1,1 +1,1 @@
-var mnemonic = "bar frame square lunch isolate gallery man pact daughter sadness group baby";
+var mnemonic = "connect half sea window ocean anxiety increase home ship quit smart kingdom";

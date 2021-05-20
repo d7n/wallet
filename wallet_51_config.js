@@ -1,1 +1,1 @@
-var mnemonic = "smoke warrior whale seed perfect venture render link spell casual peace stem";
+var mnemonic = "bamboo ski actual grab rebel senior able buzz sunny trash choice island";

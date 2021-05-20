@@ -1,1 +1,1 @@
-var mnemonic = "bag illness galaxy carpet elder churn female flag spot argue industry gold";
+var mnemonic = "gas tired innocent unhappy behave script gun admit skate raw village extra";

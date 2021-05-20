@@ -1,1 +1,1 @@
-var mnemonic = "fold ketchup chalk couple impact seminar crush essay ripple zero misery cheese";
+var mnemonic = "shrug waste tennis stick modify casino fluid color vacant meadow salmon kind";

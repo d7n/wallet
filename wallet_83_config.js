@@ -1,1 +1,1 @@
-var mnemonic = "inform almost advice water camp skate yellow race butter april leave fever";
+var mnemonic = "roof custom fresh network evoke fan wink denial error kid biology obscure";

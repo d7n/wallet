@@ -1,1 +1,1 @@
-var mnemonic = "spoon vote payment mirror source type creek reform feature useless excess leg";
+var mnemonic = "mosquito loop rent jar disagree inspire lab accuse cable laugh crystal lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor gravity recipe upon dose all jaguar atom skate paper patient thought";
+var mnemonic = "usage inquiry file floor pause creek trend polar over nothing talent much";

@@ -1,1 +1,1 @@
-var mnemonic = "actual clinic tiger trial satoshi submit tray accident daughter bullet impose fun";
+var mnemonic = "city month monkey wild magic gallery arrive bright fiber dove gesture divide";

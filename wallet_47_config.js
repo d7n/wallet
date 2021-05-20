@@ -1,1 +1,1 @@
-var mnemonic = "security they network entire swarm beach razor replace empower time into apple";
+var mnemonic = "quote region reopen clip air luggage cannon detail lazy depth peanut oppose";

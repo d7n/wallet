@@ -1,1 +1,1 @@
-var mnemonic = "valve wool annual universe escape angry robot grape smoke vivid help brand";
+var mnemonic = "garlic family matter belt rate achieve fossil security around hawk trade favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy vendor depth surge decide margin merge shock tennis conduct seat goddess";
+var mnemonic = "pilot chronic square health seek purse hotel phrase van essence settle stumble";

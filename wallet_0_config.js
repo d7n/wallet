@@ -1,1 +1,1 @@
-var mnemonic = "clog drill upset female layer south kidney lemon list eager slab gorilla";
+var mnemonic = "peace life later summer rally elegant gadget tuition globe pudding govern dirt";

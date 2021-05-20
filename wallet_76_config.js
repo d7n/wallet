@@ -1,1 +1,1 @@
-var mnemonic = "produce team novel river boss middle napkin raise mass deputy want also";
+var mnemonic = "erase scare sight monkey prosper celery cube limb token stick bless tide";

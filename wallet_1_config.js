@@ -1,1 +1,1 @@
-var mnemonic = "stomach type shine cereal bike shoulder belt rescue host produce apart crystal";
+var mnemonic = "adjust announce clever solar refuse client bless pepper elevator unveil glove general";

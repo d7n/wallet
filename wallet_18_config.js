@@ -1,1 +1,1 @@
-var mnemonic = "ill correct exhaust kick orange example cube cactus bundle rabbit amount text";
+var mnemonic = "gas attract wasp royal forget club hen bench swear neither enjoy nest";

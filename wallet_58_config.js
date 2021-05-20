@@ -1,1 +1,1 @@
-var mnemonic = "reflect series view robust enlist giggle awesome slim jelly flock blouse ancient";
+var mnemonic = "culture fine seven three frame rifle labor vessel steel toy anxiety brass";

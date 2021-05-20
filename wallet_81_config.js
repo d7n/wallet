@@ -1,1 +1,1 @@
-var mnemonic = "above buzz coast crucial feature palace goddess destroy confirm spring embrace nasty";
+var mnemonic = "reunion garden pause danger speed breeze once kingdom execute canoe empty settle";

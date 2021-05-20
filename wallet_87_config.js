@@ -1,1 +1,1 @@
-var mnemonic = "guard culture indicate critic marine prevent year three lazy depart cannon bus";
+var mnemonic = "wool tip brush major abstract embody apart grocery oxygen lawn answer genre";

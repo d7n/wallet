@@ -1,1 +1,1 @@
-var mnemonic = "reject imitate okay congress ghost noble canyon poet isolate object aerobic unaware";
+var mnemonic = "sail electric session argue favorite gun change foil ignore attract zone leader";

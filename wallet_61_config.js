@@ -1,1 +1,1 @@
-var mnemonic = "absorb pony pioneer unlock torch emotion ivory ranch monitor kitten spend siren";
+var mnemonic = "input hollow develop hockey boy across sound federal army middle trip palace";

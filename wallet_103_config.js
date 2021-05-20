@@ -1,1 +1,1 @@
-var mnemonic = "neglect bar dress emotion world allow icon rookie save logic topic rifle";
+var mnemonic = "city swear mask search nation hello chunk floor stay fortune sausage isolate";

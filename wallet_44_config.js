@@ -1,1 +1,1 @@
-var mnemonic = "result abuse scatter harsh pitch wealth mistake rent region forum sock high";
+var mnemonic = "fault salad lawn gallery course can camp pear ceiling bicycle awesome leave";

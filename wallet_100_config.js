@@ -1,1 +1,1 @@
-var mnemonic = "addict tonight mule panther predict physical subway near gauge barely poet immense";
+var mnemonic = "fly grief marble olive void orange mind picnic fiscal frog august office";
