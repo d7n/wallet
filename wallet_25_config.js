@@ -1,1 +1,1 @@
-var mnemonic = "way cactus damp oak recipe clog rail crazy frown earn grid pool";
+var mnemonic = "course demise warfare empty seminar return pilot agree great sunny letter employ";

@@ -1,1 +1,1 @@
-var mnemonic = "start outer school exclude cinnamon taste chimney pig duck conduct coyote library";
+var mnemonic = "interest utility whale address message cannon viable wine olive scene drop reform";

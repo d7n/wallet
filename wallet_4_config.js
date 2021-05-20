@@ -1,1 +1,1 @@
-var mnemonic = "fan gown where either sunny sell young say trumpet betray derive magic";
+var mnemonic = "hawk way mechanic brisk siege region funny burst drip gentle arrest media";

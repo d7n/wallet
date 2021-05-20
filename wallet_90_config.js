@@ -1,1 +1,1 @@
-var mnemonic = "spend bargain antenna pattern crash hill crush treat employ mixture travel uncle";
+var mnemonic = "surge forget danger involve advice mutual profit potato receive behind journey diet";

@@ -1,1 +1,1 @@
-var mnemonic = "slow above sting subway stereo swamp visa siege clay lab favorite involve";
+var mnemonic = "powder catalog cave fruit sea open digital volume trust daughter orbit reunion";

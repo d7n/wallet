@@ -1,1 +1,1 @@
-var mnemonic = "swift twice cotton recycle insane dynamic home muffin slab horn school coral";
+var mnemonic = "edge sure arch empower push help column engine crop first actor expand";

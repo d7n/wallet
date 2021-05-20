@@ -1,1 +1,1 @@
-var mnemonic = "orbit pair oyster report story noise turkey escape enrich icon lecture table";
+var mnemonic = "field debate fork cave ghost enroll confirm embrace invest pitch doll century";

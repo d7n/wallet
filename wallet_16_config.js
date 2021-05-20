@@ -1,1 +1,1 @@
-var mnemonic = "replace edit person gift session flash limit write alone bundle orchard amateur";
+var mnemonic = "bounce around settle total buyer trend antique bone estate aerobic load deny";

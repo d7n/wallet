@@ -1,1 +1,1 @@
-var mnemonic = "tail net offer later grunt unique damp cost slim legend another transfer";
+var mnemonic = "broken amateur night gift melt burst suffer nominee dolphin vacuum engine there";

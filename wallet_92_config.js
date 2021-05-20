@@ -1,1 +1,1 @@
-var mnemonic = "about ankle endless steak bleak else network forest flower pupil concert mosquito";
+var mnemonic = "gesture radar fashion because burger cost basic tomato cage float defense box";

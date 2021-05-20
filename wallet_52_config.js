@@ -1,1 +1,1 @@
-var mnemonic = "swap sea during debate hold bulk genuine delay begin common risk when";
+var mnemonic = "burger token vacuum earn pulse cotton impulse wolf confirm bridge boil wrong";

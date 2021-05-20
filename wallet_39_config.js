@@ -1,1 +1,1 @@
-var mnemonic = "cherry snap apple ticket random humor depart slight move nice soap punch";
+var mnemonic = "program bunker remember floor desk vault this hen adult across castle range";

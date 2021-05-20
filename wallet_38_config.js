@@ -1,1 +1,1 @@
-var mnemonic = "arctic firm hammer universe wrap drama hurry emerge grain brown gym derive";
+var mnemonic = "hip parade angry tip jeans key river sustain inch fatigue blast knee";

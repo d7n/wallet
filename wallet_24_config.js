@@ -1,1 +1,1 @@
-var mnemonic = "fence memory ribbon tumble any trade medal margin tray around steak cup";
+var mnemonic = "light pole estate kingdom milk enrich language tag dentist mistake mule total";

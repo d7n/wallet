@@ -1,1 +1,1 @@
-var mnemonic = "discover pepper happy long fox devote script job ceiling conduct receive notable";
+var mnemonic = "flat trust guitar ordinary sponsor fancy become injury sock wolf floor sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "exit tobacco talent frog naive peasant mule switch jungle abstract valve fork";
+var mnemonic = "census borrow rail divide have ability rather bronze dog bottom stumble dish";

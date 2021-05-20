@@ -1,1 +1,1 @@
-var mnemonic = "bundle sibling good bronze mail expand pond force hour foot salad orient";
+var mnemonic = "surge salt letter purity picnic glass depend dinosaur patient uncle two upper";

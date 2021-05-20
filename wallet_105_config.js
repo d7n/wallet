@@ -1,1 +1,1 @@
-var mnemonic = "unknown agree adjust sell abuse diamond rude echo swim tuition drastic lobster";
+var mnemonic = "piece decide river cart cluster bind fatal wrap expose churn beef web";

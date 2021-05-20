@@ -1,1 +1,1 @@
-var mnemonic = "paddle fiscal erosion forget entry athlete ghost traffic cricket explain dune gate";
+var mnemonic = "salad mass section hen call turtle feel moral result lawsuit galaxy payment";

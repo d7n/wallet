@@ -1,1 +1,1 @@
-var mnemonic = "hospital black teach electric claim fury pencil problem primary evoke correct eternal";
+var mnemonic = "acquire early top success sure goat video sunny cloth rubber arch screen";

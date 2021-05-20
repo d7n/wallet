@@ -1,1 +1,1 @@
-var mnemonic = "sudden spice sphere sniff oppose olympic photo very until slam wolf unit";
+var mnemonic = "enroll outdoor orphan infant soup practice panel kiss miracle fragile fatal crash";

@@ -1,1 +1,1 @@
-var mnemonic = "play woman recall cement rose mammal junior adult sugar advance end weird";
+var mnemonic = "ivory what jump ecology ride pass crumble pledge until van can cushion";

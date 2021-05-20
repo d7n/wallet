@@ -1,1 +1,1 @@
-var mnemonic = "gym husband inspire harvest female border trip undo chair sustain keep daring";
+var mnemonic = "face allow payment learn maple true range code rabbit rotate release sure";

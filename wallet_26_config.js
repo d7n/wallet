@@ -1,1 +1,1 @@
-var mnemonic = "rookie logic silent just fantasy element reveal you shine fish because crawl";
+var mnemonic = "purity call meadow gym material foster curve tortoise mosquito crawl guide praise";

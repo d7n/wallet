@@ -1,1 +1,1 @@
-var mnemonic = "economy deal digital miracle virus ginger detail model filter ridge direct marriage";
+var mnemonic = "affair idle display diesel gather wisdom raise blanket regret wasp drive lens";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion stick rent rebel gather spin range board bus puppy retreat cake";
+var mnemonic = "submit defense route spray about window script accuse train dolphin clip harbor";

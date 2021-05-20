@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cancel neither renew syrup lawsuit visa share garden slide wrist notice";
+var mnemonic = "apart square remind panda convince response mass melody knock helmet better siren";

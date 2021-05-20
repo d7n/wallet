@@ -1,1 +1,1 @@
-var mnemonic = "travel demand matrix upset tank will subject multiply raw embody nasty raise";
+var mnemonic = "blouse remind exotic round window tortoise skill renew push payment pass brisk";

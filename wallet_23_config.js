@@ -1,1 +1,1 @@
-var mnemonic = "thrive orbit hunt seminar dish collect click ghost wave local jazz beef";
+var mnemonic = "mother column worry ankle expire cable buyer theme honey blade lonely leisure";

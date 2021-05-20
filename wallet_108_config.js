@@ -1,1 +1,1 @@
-var mnemonic = "raven jewel solid mail apology decide sustain almost group lumber mouse cushion";
+var mnemonic = "call mixed one slice hire brisk derive job recipe pencil spoil eye";

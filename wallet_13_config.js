@@ -1,1 +1,1 @@
-var mnemonic = "bacon among unknown wish build paddle mushroom throw prosper swift hood network";
+var mnemonic = "under boost clock hover sheriff neutral skull jump asthma shoulder trend brass";

@@ -1,1 +1,1 @@
-var mnemonic = "knife recall hobby loyal bone trouble salt deer gift nephew popular smart";
+var mnemonic = "scare anxiety grain paper deny cage matter group slim budget wise cushion";

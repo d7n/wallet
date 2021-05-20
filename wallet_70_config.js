@@ -1,1 +1,1 @@
-var mnemonic = "syrup major window tray rich mystery index bottom upgrade near wife lyrics";
+var mnemonic = "viable occur spawn social antenna side neutral egg seven chaos cabbage apple";

@@ -1,1 +1,1 @@
-var mnemonic = "gas once culture fringe sponsor boring cigar ignore crawl cloth edit transfer";
+var mnemonic = "stock boil mountain farm then base seed essence pole trim vast mountain";

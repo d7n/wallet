@@ -1,1 +1,1 @@
-var mnemonic = "typical frown route vibrant stamp sustain kit cream name skirt profit ball";
+var mnemonic = "snow soccer wise high mix eight celery fuel gather gasp pig debris";

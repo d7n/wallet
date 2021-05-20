@@ -1,1 +1,1 @@
-var mnemonic = "abstract exact bacon feature hand twist parrot gospel load cotton pond avocado";
+var mnemonic = "profit balcony guilt bounce melt impulse picnic document save derive stable ostrich";

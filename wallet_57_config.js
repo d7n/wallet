@@ -1,1 +1,1 @@
-var mnemonic = "industry unusual few arm step daughter amazing champion neglect one nurse acoustic";
+var mnemonic = "invest crawl bunker shop caught regret job autumn educate present saddle arch";

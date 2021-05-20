@@ -1,1 +1,1 @@
-var mnemonic = "rural front post rough planet peanut mother miss oppose deposit confirm legend";
+var mnemonic = "retreat cloud orbit knee belt spend hollow defy test bamboo hollow torch";

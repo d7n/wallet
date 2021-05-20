@@ -1,1 +1,1 @@
-var mnemonic = "olympic spell cushion only render various runway weekend prevent swing broken whisper";
+var mnemonic = "stand aim since salt gun bounce deny cancel thank sugar belt boost";

@@ -1,1 +1,1 @@
-var mnemonic = "position shiver call arrest symptom bonus sort detail bronze whip nerve wish";
+var mnemonic = "rifle palm elder thrive garbage element height plug size scorpion champion tray";

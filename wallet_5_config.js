@@ -1,1 +1,1 @@
-var mnemonic = "light company liberty sadness pencil review smile wear risk suspect place feel";
+var mnemonic = "ball hold friend wave congress wasp neck twice fuel best unhappy nerve";

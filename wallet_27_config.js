@@ -1,1 +1,1 @@
-var mnemonic = "leaf friend rather garment bridge kidney manual laugh stereo acquire shed pulse";
+var mnemonic = "come raven vintage arm green vital glass huge eight tip clog ability";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget win wash patient recipe void sketch million amount farm dog half";
+var mnemonic = "brush agent nominee pony correct save focus canal search square clump warrior";

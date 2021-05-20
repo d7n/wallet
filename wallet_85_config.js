@@ -1,1 +1,1 @@
-var mnemonic = "battle yellow weather upset connect round width win alarm federal host settle";
+var mnemonic = "enroll orange verb float street member member scissors taxi apology repair tomorrow";

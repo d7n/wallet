@@ -1,1 +1,1 @@
-var mnemonic = "vibrant trial champion build ramp iron muscle brand sign diagram visual hunt";
+var mnemonic = "gold plug luxury organ one alter purchase deny bundle economy angry shove";

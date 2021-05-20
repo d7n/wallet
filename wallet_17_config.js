@@ -1,1 +1,1 @@
-var mnemonic = "gym mushroom interest surface true joy flip lizard leg analyst fortune bone";
+var mnemonic = "scatter zebra doctor tourist update skirt sing ladder bottom volcano endless alien";

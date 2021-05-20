@@ -1,1 +1,1 @@
-var mnemonic = "nut cage spirit name bacon imitate girl bleak reform pause art divert";
+var mnemonic = "daughter festival embrace circle nerve business valid ocean ozone negative garlic tortoise";

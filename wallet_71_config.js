@@ -1,1 +1,1 @@
-var mnemonic = "film sing agent sing provide radar reform suspect three bread gossip possible";
+var mnemonic = "divide gather alien change wave found surface treat ignore deliver noise buddy";

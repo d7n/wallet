@@ -1,1 +1,1 @@
-var mnemonic = "sound employ asset involve quit this boil doll card rally praise surround";
+var mnemonic = "paddle legend ladder asthma jealous possible outside own aspect wealth concert turn";

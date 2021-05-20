@@ -1,1 +1,1 @@
-var mnemonic = "today boost shine miss gallery rough crouch snow finish priority harbor panther";
+var mnemonic = "also order lawn regular symptom slide alone always ivory pool unaware young";

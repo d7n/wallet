@@ -1,1 +1,1 @@
-var mnemonic = "supply govern badge gentle chat rigid local brown fish bridge planet acoustic";
+var mnemonic = "elegant excess insect spend uphold shift flower oxygen dismiss eye leopard donate";

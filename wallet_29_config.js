@@ -1,1 +1,1 @@
-var mnemonic = "abstract arrive aerobic click gesture favorite traffic faint spider main turn nephew";
+var mnemonic = "sustain wait enrich truck coyote pony gallery fold model state city ensure";

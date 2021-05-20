@@ -1,1 +1,1 @@
-var mnemonic = "rigid option jacket own number hold rough real success jacket entry example";
+var mnemonic = "borrow notable play organ arrest width whale impose liberty cute female lumber";

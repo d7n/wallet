@@ -1,1 +1,1 @@
-var mnemonic = "cause creek unaware outside thank rare ordinary assist remove know amateur prison";
+var mnemonic = "doll tape top orphan range shrug view lunch walk flat apple forest";

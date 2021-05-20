@@ -1,1 +1,1 @@
-var mnemonic = "proud obvious hotel solar banana notice session oak journey kingdom piece glow";
+var mnemonic = "book drill tomato shoe horse lock spoon student neither coach cement eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry execute keep tornado genre mushroom say drum trouble fatal solve curious";
+var mnemonic = "gym post seed liberty increase entire maximum prefer keep drift able obey";

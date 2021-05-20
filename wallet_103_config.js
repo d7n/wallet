@@ -1,1 +1,1 @@
-var mnemonic = "rigid hurry tag cabin pride poem dad appear float rotate exact cliff";
+var mnemonic = "rocket pink dune cheap amused organ various reunion ivory salute slight age";

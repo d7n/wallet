@@ -1,1 +1,1 @@
-var mnemonic = "treat turkey claim useful immune lesson shed tray neglect father boring ugly";
+var mnemonic = "picture tackle page account heart snow hello coil flush law produce fiber";

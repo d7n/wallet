@@ -1,1 +1,1 @@
-var mnemonic = "injury brisk such volume ozone order way exhibit scheme nuclear paddle brass";
+var mnemonic = "surprise flavor bamboo about provide smooth object opinion shine leg olive raven";

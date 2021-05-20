@@ -1,1 +1,1 @@
-var mnemonic = "door little skin rifle athlete critic dash surround puppy crunch olive mistake";
+var mnemonic = "boy buddy truly relief vague bike double please glass artefact game room";

@@ -1,1 +1,1 @@
-var mnemonic = "title twice usual east swamp clarify power web injury enough weasel roof";
+var mnemonic = "plate nose one panic tell vanish curve common balcony toilet brisk side";

@@ -1,1 +1,1 @@
-var mnemonic = "claim second idle long enhance wood reunion age mandate tone gather round";
+var mnemonic = "puzzle reveal genre two business old summer brass transfer give under other";

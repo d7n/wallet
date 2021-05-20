@@ -1,1 +1,1 @@
-var mnemonic = "labor surge feature village teach spice unfair banner sketch knock raven impose";
+var mnemonic = "bunker figure pencil sight shield mandate tomorrow embody arrive tube dish survey";

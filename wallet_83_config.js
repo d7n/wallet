@@ -1,1 +1,1 @@
-var mnemonic = "release vault supply nuclear success fringe damage style crazy pipe stock inner";
+var mnemonic = "squeeze rather liquid dinner measure dose blanket suspect coil teach merit surface";

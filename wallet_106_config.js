@@ -1,1 +1,1 @@
-var mnemonic = "small defense despair hedgehog two notable harvest scissors engine wrong scrub hospital";
+var mnemonic = "romance gold catalog exclude exercise require mean rely screen gas impose vessel";

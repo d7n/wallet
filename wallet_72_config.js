@@ -1,1 +1,1 @@
-var mnemonic = "voyage require account fee detail gossip student cactus strike upon river decide";
+var mnemonic = "banner huge buzz normal six acquire afraid buffalo shed unusual promote elite";

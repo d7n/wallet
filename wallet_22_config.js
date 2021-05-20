@@ -1,1 +1,1 @@
-var mnemonic = "eternal satisfy scene party hotel inspire float fashion art tissue engage retire";
+var mnemonic = "drive goose horse relax amount frequent mesh blouse inhale route hand replace";

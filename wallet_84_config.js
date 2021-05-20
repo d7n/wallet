@@ -1,1 +1,1 @@
-var mnemonic = "sport parrot flip pottery music rare absent taxi boost ask awkward song";
+var mnemonic = "feel glad arrest canyon actor book girl engage trim jazz group install";

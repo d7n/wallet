@@ -1,1 +1,1 @@
-var mnemonic = "swap obvious soul spatial pistol audit damp shoot trial boost fold sunset";
+var mnemonic = "design pretty chef urban truth tongue dynamic crew black heart unveil ritual";

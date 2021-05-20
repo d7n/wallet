@@ -1,1 +1,1 @@
-var mnemonic = "sauce toilet exist autumn govern castle faculty gym together cause lunch bargain";
+var mnemonic = "toe witness ancient cricket smart salute tribe leaf cotton jeans afraid trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "venue total hello crop same stem stadium gravity cross sleep segment manage";
+var mnemonic = "outside hazard column smoke prefer leopard used brass link prepare wish moon";

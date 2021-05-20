@@ -1,1 +1,1 @@
-var mnemonic = "praise polar angry rifle delay tone patrol make tell muffin congress follow";
+var mnemonic = "actor pony bind mandate plug smooth say view ranch ankle push drill";

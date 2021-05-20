@@ -1,1 +1,1 @@
-var mnemonic = "talent tip gasp sunset amateur fruit sign topple argue oven gasp gas";
+var mnemonic = "wreck palm coral improve domain love vocal robust donkey aerobic universe bullet";

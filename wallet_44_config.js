@@ -1,1 +1,1 @@
-var mnemonic = "left art team brush around drift snap coffee appear follow deliver sure";
+var mnemonic = "core upgrade heart series hockey sister fix fringe divide violin panther solid";

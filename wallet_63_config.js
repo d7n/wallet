@@ -1,1 +1,1 @@
-var mnemonic = "caution fee tribe tone key labor acoustic detect first snow family unveil";
+var mnemonic = "elite punch topic symptom lamp rule apple quote cancel club crouch original";

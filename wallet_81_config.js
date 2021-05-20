@@ -1,1 +1,1 @@
-var mnemonic = "monster fat mixed penalty liquid topple crater chimney clog charge solve juice";
+var mnemonic = "success sad purity spatial goat six project shallow wise nice auction sunset";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle attract table dawn pond beach hungry refuse delay loyal motor index";
+var mnemonic = "moral fiction bunker skate spring satoshi word logic hospital first stay start";

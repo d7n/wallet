@@ -1,1 +1,1 @@
-var mnemonic = "hour unit afraid tray cost enable section exchange ramp pig suggest giant";
+var mnemonic = "glimpse stamp lion chef misery car position fat dress kiwi nephew milk";

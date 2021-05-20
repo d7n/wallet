@@ -1,1 +1,1 @@
-var mnemonic = "adjust current vital eager catalog choice maple giggle safe arrange pass small";
+var mnemonic = "alpha work output cruel electric trend edge gentle parent draw wave copy";

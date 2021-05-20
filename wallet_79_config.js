@@ -1,1 +1,1 @@
-var mnemonic = "decrease aware drink disagree move test salmon age artwork slush future wise";
+var mnemonic = "nasty swallow eagle false seven area into clap interest cigar garlic chief";
