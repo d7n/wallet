@@ -1,1 +1,1 @@
-var mnemonic = "upon exit fee torch tourist figure smart spread film fog witness unhappy";
+var mnemonic = "horse pass outdoor parade share asthma stock brain scrub normal ask nice";

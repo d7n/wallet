@@ -1,1 +1,1 @@
-var mnemonic = "cushion embrace flat beach genre stable talk grace problem enable regular fresh";
+var mnemonic = "trigger maze awesome clock pumpkin apple major angry under misery artwork flight";

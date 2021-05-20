@@ -1,1 +1,1 @@
-var mnemonic = "spend radar pole crawl sea budget warm early crop tomato track dolphin";
+var mnemonic = "inherit elevator destroy service giant liar slot liberty rice kick artwork artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "proud cloth vacant any industry proud youth pizza buddy million december piano";
+var mnemonic = "fame apology green fame divorce agree draft adult affair honey cycle solution";

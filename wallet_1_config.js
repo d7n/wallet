@@ -1,1 +1,1 @@
-var mnemonic = "busy artefact predict delay wire dynamic wagon tonight book zero oven drum";
+var mnemonic = "expire sugar turn elder miss below sign success betray much thought nut";

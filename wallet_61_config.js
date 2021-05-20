@@ -1,1 +1,1 @@
-var mnemonic = "sweet devote claim salon few friend feed defense deer open hungry lecture";
+var mnemonic = "confirm banana file accident defense alone enter reward control allow clock athlete";

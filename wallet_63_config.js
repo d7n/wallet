@@ -1,1 +1,1 @@
-var mnemonic = "habit away custom electric pony model ankle hero vendor lesson between mutual";
+var mnemonic = "panel beauty option desk business small minute crane hole appear under beef";

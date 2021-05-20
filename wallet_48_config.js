@@ -1,1 +1,1 @@
-var mnemonic = "memory window cream like myth master van author light blossom crazy burst";
+var mnemonic = "tribe grocery flavor carbon sea helmet penalty symbol abstract clerk economy network";

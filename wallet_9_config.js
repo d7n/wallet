@@ -1,1 +1,1 @@
-var mnemonic = "noodle fix still endless garment pottery alarm crisp pluck spread swear tail";
+var mnemonic = "because armed emerge afford good horse attend aerobic receive bring together track";

@@ -1,1 +1,1 @@
-var mnemonic = "since boil warfare logic movie control inmate review inside ancient dismiss net";
+var mnemonic = "topic benefit fat north pioneer vacant borrow jeans pilot cage fancy hill";

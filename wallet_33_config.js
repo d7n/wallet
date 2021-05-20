@@ -1,1 +1,1 @@
-var mnemonic = "zoo capital rival hat tomorrow alpha domain utility hire paper similar leave";
+var mnemonic = "warrior poem inhale bar hold congress where history group myth layer word";

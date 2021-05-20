@@ -1,1 +1,1 @@
-var mnemonic = "speak shed depth dance happy smoke vast law guard stamp tilt series";
+var mnemonic = "ladder you demise retreat brand general tooth crazy erupt young feel bulk";

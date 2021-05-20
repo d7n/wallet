@@ -1,1 +1,1 @@
-var mnemonic = "battle shed cram body top increase valid festival father monitor safe all";
+var mnemonic = "okay unhappy wife cherry alarm junk local chronic physical job wonder stool";

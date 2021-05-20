@@ -1,1 +1,1 @@
-var mnemonic = "praise leg decline before into camp alter knife sphere tennis pig chronic";
+var mnemonic = "sauce state sign winner assault bulb peace harsh imitate museum tortoise diesel";

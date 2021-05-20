@@ -1,1 +1,1 @@
-var mnemonic = "maximum damage pepper gate fiber pill sting swap sketch tree run animal";
+var mnemonic = "laundry potato double group sense define bachelor column festival muscle elevator boss";

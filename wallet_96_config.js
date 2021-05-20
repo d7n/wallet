@@ -1,1 +1,1 @@
-var mnemonic = "seed initial success brother athlete long old clutch trash margin warm guard";
+var mnemonic = "beauty umbrella diet fresh connect obtain remain notice below harsh hard warm";

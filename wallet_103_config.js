@@ -1,1 +1,1 @@
-var mnemonic = "ensure once egg raise tennis crunch stool fence nasty fragile exercise crane";
+var mnemonic = "disagree thumb gasp blood sentence mule guard swallow parrot pause wrist blur";

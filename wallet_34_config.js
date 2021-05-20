@@ -1,1 +1,1 @@
-var mnemonic = "fragile visual burden inner useless one ski wear curtain cherry call absorb";
+var mnemonic = "fortune civil inner bean hunt timber fresh minor there stomach expire ordinary";

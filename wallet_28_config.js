@@ -1,1 +1,1 @@
-var mnemonic = "hat all sing educate opera toss critic shuffle disagree shove craft beach";
+var mnemonic = "black aim whip throw woman vital purpose foster snap trick phone genius";

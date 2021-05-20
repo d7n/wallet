@@ -1,1 +1,1 @@
-var mnemonic = "husband wheel heavy blind loud combine pride quarter garbage page solution flock";
+var mnemonic = "strategy drill chalk near record glance miracle excess betray animal idle robust";

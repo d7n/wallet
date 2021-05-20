@@ -1,1 +1,1 @@
-var mnemonic = "alcohol blue mass enter text illness sting pond foot charge delay west";
+var mnemonic = "road limit island turtle host fabric vendor inherit bomb echo scale able";

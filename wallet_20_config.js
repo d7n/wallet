@@ -1,1 +1,1 @@
-var mnemonic = "manual ring topic melody play print forget tired hazard assist clump catch";
+var mnemonic = "sock traffic solution orchard crush tragic moral genre keep fetch echo clip";

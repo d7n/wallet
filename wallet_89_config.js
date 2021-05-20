@@ -1,1 +1,1 @@
-var mnemonic = "essence hurdle helmet rubber fringe timber lock essence during remove myself oil";
+var mnemonic = "keen thing level foam crowd pear bulb nation general opera weekend bamboo";

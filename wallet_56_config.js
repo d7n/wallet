@@ -1,1 +1,1 @@
-var mnemonic = "toe smart common absent young effort tennis inch soup negative baby jacket";
+var mnemonic = "page team stadium wing polar trophy rude enlist embark meat remove hurry";

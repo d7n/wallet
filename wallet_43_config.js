@@ -1,1 +1,1 @@
-var mnemonic = "govern hamster start quit furnace cereal city sing opinion convince inflict border";
+var mnemonic = "horror history pool fix shop tomato win soldier doll feature exercise drama";

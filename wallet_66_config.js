@@ -1,1 +1,1 @@
-var mnemonic = "guide reopen quarter nature exercise coast view spice body mail exercise approve";
+var mnemonic = "eager penalty immune ignore salute miss feed inhale anxiety actual quality very";

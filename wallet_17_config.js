@@ -1,1 +1,1 @@
-var mnemonic = "mule first inmate flame noise antenna display poverty sand odor team lunar";
+var mnemonic = "talk give quality pledge reveal promote lyrics vivid vocal pistol nothing expire";

@@ -1,1 +1,1 @@
-var mnemonic = "topple mix inspire hair slab address pause adapt vague museum recall gossip";
+var mnemonic = "reflect brief people useless purse pitch usage fire cash divorce ethics sausage";

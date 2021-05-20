@@ -1,1 +1,1 @@
-var mnemonic = "box chat debate skin orange normal record illness dynamic recipe pumpkin calm";
+var mnemonic = "pen place display home quick cable stove silk meat erosion lunar nice";

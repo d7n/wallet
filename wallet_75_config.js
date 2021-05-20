@@ -1,1 +1,1 @@
-var mnemonic = "alcohol egg merry combine now win announce noodle march scale vanish security";
+var mnemonic = "olympic oval that empower travel dance labor family flag goose glad game";

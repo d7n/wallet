@@ -1,1 +1,1 @@
-var mnemonic = "joke length improve swear book hurry notable parade mobile robust govern green";
+var mnemonic = "loan skate panel diagram pilot assume glow quote latin coffee bullet carbon";

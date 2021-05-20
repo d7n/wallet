@@ -1,1 +1,1 @@
-var mnemonic = "flight absorb topple toddler canyon cabin bring album same often rather possible";
+var mnemonic = "flash hockey artist egg jeans weird regular dance ahead able odor ostrich";

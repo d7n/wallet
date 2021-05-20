@@ -1,1 +1,1 @@
-var mnemonic = "wrestle kangaroo wet vital merit review myth settle amount dice kite broken";
+var mnemonic = "smart click smoke order inside fine piano slow banner goat cheese spray";

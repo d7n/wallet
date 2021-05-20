@@ -1,1 +1,1 @@
-var mnemonic = "success soon civil account remain model margin desert certain endless enhance torch";
+var mnemonic = "soda sauce you grant shove area cruel like wish asthma void exhaust";

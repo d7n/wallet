@@ -1,1 +1,1 @@
-var mnemonic = "danger rain since night harvest position other master major critic claim bean";
+var mnemonic = "spend ski observe scout slogan erase style asthma stem month friend process";

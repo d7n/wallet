@@ -1,1 +1,1 @@
-var mnemonic = "hint magnet drink gas lesson renew chair tank divide process turtle police";
+var mnemonic = "enhance affair inch blade flat eagle pave social decrease crew account raw";

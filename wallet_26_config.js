@@ -1,1 +1,1 @@
-var mnemonic = "horse fan cross innocent brass camp height produce search toe slab clap";
+var mnemonic = "cabin dream chaos camp eyebrow actress tumble system mistake undo enter current";

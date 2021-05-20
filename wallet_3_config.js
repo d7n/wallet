@@ -1,1 +1,1 @@
-var mnemonic = "manage nerve coral lawn monster dumb dentist ritual always accuse merit sorry";
+var mnemonic = "frequent remind repair wedding field number whale talent sting rival dog jungle";

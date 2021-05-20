@@ -1,1 +1,1 @@
-var mnemonic = "try hood beauty slot safe truck situate oval minor solve seminar stamp";
+var mnemonic = "grow card dash rookie milk exit quality upon useless seek point north";

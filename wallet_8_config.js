@@ -1,1 +1,1 @@
-var mnemonic = "version smoke vanish kangaroo three kiss hundred enemy fluid evidence enjoy chat";
+var mnemonic = "salt nurse explain pen control story vast siege kick honey ticket donor";

@@ -1,1 +1,1 @@
-var mnemonic = "tray grant little spare wool dumb castle use play noble early grape";
+var mnemonic = "sugar gravity limit kite volume steel alone toddler tiger slim asset foam";

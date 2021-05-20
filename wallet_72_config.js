@@ -1,1 +1,1 @@
-var mnemonic = "guess pave crack tortoise actual olive rate mercy fine radar ordinary risk";
+var mnemonic = "boost walk danger canyon vendor brush myth today fashion total glove modify";

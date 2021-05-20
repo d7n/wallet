@@ -1,1 +1,1 @@
-var mnemonic = "kick siege ticket kind crunch repeat outer review submit acid stage glass";
+var mnemonic = "swift ghost tilt manual despair lift owner open harbor high text pioneer";

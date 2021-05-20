@@ -1,1 +1,1 @@
-var mnemonic = "income floor clock feel style wire heavy bag noodle choice soul crowd";
+var mnemonic = "giant select auto december ocean leopard merit combine clarify buffalo frost response";

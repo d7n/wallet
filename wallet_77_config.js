@@ -1,1 +1,1 @@
-var mnemonic = "work beauty brain absurd heart curious device secret dawn tape bright cousin";
+var mnemonic = "spin code gun sausage burst breeze genuine wait garment scrap hybrid leaf";

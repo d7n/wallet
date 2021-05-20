@@ -1,1 +1,1 @@
-var mnemonic = "bitter skirt primary remind brain kiwi sense grit duck slow conduct width";
+var mnemonic = "slam position oval heart differ ripple man knock round merit balcony rude";

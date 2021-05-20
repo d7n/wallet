@@ -1,1 +1,1 @@
-var mnemonic = "base inspire crop fat stand barely seek sense ring private walnut mechanic";
+var mnemonic = "unaware earth danger gun fabric interest random wrong deny shrimp soon uncle";

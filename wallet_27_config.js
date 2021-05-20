@@ -1,1 +1,1 @@
-var mnemonic = "foam improve hat sad seed answer remind pony apple myth arctic nose";
+var mnemonic = "aisle hold hill clown cry surprise whale ability shoe boy digital favorite";

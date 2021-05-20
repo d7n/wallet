@@ -1,1 +1,1 @@
-var mnemonic = "weekend horn coach edit rice evolve year pistol furnace never six achieve";
+var mnemonic = "cabbage toast powder elder similar child spray rotate rely legal pair possible";

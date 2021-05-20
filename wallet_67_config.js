@@ -1,1 +1,1 @@
-var mnemonic = "main virtual zero olive raw witness forum tackle session account flat cheap";
+var mnemonic = "submit ocean limb other quit fortune woman duty surface actor lake stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver aware ladder unknown awake inside aware asset evil ecology wise satoshi";
+var mnemonic = "sorry gentle knock trust prosper romance truly devote stick believe shallow shiver";

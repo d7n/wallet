@@ -1,1 +1,1 @@
-var mnemonic = "castle body armed basket example strategy wage electric since dish strong property";
+var mnemonic = "push portion absent crisp dad maze hire retreat foster peanut swap buyer";

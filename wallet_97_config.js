@@ -1,1 +1,1 @@
-var mnemonic = "fringe ostrich acquire range lunch level sport concert model ladder fault color";
+var mnemonic = "uncover punch copper mechanic wave shaft source young lamp film poverty concert";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos course topic puppy machine couch catalog tomorrow key help twenty bamboo";
+var mnemonic = "intact riot cinnamon invest rigid capital twin tip awkward decrease photo afraid";

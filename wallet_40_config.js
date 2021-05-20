@@ -1,1 +1,1 @@
-var mnemonic = "orient razor cactus extra subway swing ceiling gallery future scorpion coffee gentle";
+var mnemonic = "unaware moment viable recycle observe bargain arm scout mask brave symbol bench";

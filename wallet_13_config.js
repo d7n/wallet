@@ -1,1 +1,1 @@
-var mnemonic = "stem anger copper merit surround best firm cry supply mad marriage scan";
+var mnemonic = "brother public pact police property front urban audit auto border will resist";

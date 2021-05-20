@@ -1,1 +1,1 @@
-var mnemonic = "leg slice gas divert satisfy swarm mass grow actress kitten soul eye";
+var mnemonic = "manage road hobby advance cement inquiry bench praise april track age lawn";

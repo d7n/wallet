@@ -1,1 +1,1 @@
-var mnemonic = "skirt rain sea reject menu defy jump winter habit strong gun oil";
+var mnemonic = "undo play add indoor lady defense divert liar gun swap symptom tobacco";

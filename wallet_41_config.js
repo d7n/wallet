@@ -1,1 +1,1 @@
-var mnemonic = "odor twist fancy deputy blind pretty dwarf spoil weapon unfair minimum fire";
+var mnemonic = "rack address surround card method source island antenna uphold pet south giant";

@@ -1,1 +1,1 @@
-var mnemonic = "pact popular unaware found civil tobacco cliff artefact viable suspect obtain crucial";
+var mnemonic = "bubble pilot universe junior liquid you october aspect predict buffalo gather combine";

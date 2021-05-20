@@ -1,1 +1,1 @@
-var mnemonic = "accident frame obey useful hybrid awake upset general steak measure stereo enemy";
+var mnemonic = "release mother van culture seed soul grant enough human sugar street inmate";

@@ -1,1 +1,1 @@
-var mnemonic = "grace usage code edge normal worth purchase wing seminar include ahead hub";
+var mnemonic = "scheme eternal immune cabin method include one decline resemble parade umbrella pass";

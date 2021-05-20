@@ -1,1 +1,1 @@
-var mnemonic = "material extend fashion life kingdom pool rabbit desk trouble fruit kind silver";
+var mnemonic = "outer valid champion topple ribbon gown burst tribe machine napkin pole spike";

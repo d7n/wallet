@@ -1,1 +1,1 @@
-var mnemonic = "february journey menu air render misery artefact picture pole they stool across";
+var mnemonic = "jelly enact lend gather space drip venture mind conduct bench leader trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "olive away suspect year angry snap avocado clap traffic increase sun disorder";
+var mnemonic = "cover casino update switch confirm run hedgehog unique attract reason beach ribbon";

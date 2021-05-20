@@ -1,1 +1,1 @@
-var mnemonic = "eye swallow hospital tent crane chair slender company current memory name pool";
+var mnemonic = "sniff choice shaft lesson farm simple method palm sponsor glad razor onion";

@@ -1,1 +1,1 @@
-var mnemonic = "hood peanut above bar siren resource patient rent toward great uncle lab";
+var mnemonic = "circle tail disagree cave eight supreme puzzle layer source acquire usual claw";

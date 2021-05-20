@@ -1,1 +1,1 @@
-var mnemonic = "combine box cup door waste normal acid panther velvet brave model business";
+var mnemonic = "luxury vague side sock danger promote concert urge address table degree receive";

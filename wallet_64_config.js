@@ -1,1 +1,1 @@
-var mnemonic = "maple estate crouch cry into project dizzy express staff office bread kick";
+var mnemonic = "drift among uphold illness able slide recycle judge tone discover army enemy";

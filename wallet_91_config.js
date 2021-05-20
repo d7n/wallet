@@ -1,1 +1,1 @@
-var mnemonic = "will garden prepare hill sustain female dust kitten throw mosquito net perfect";
+var mnemonic = "draft sudden couch arrow merry core primary spider clarify illness doctor vote";

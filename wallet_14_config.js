@@ -1,1 +1,1 @@
-var mnemonic = "link mansion will humble fix live confirm sea confirm ordinary muffin merit";
+var mnemonic = "antenna field inflict love box cycle super deny twist frame recipe provide";

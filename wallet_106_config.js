@@ -1,1 +1,1 @@
-var mnemonic = "hawk share tissue blouse power crystal moon leg palace lazy dumb capable";
+var mnemonic = "bone during dove drip shield extend index vibrant royal major angle noise";

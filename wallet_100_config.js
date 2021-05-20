@@ -1,1 +1,1 @@
-var mnemonic = "tray size guide depend true evidence inspire over proof pet travel fluid";
+var mnemonic = "cargo waste magic bridge oxygen pool thing wool shock recipe chest auto";

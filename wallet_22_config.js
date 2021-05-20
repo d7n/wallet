@@ -1,1 +1,1 @@
-var mnemonic = "monitor tragic garbage avoid argue system lawn garbage live just amount actress";
+var mnemonic = "bachelor ozone tower together undo purchase hair better click velvet bunker purse";

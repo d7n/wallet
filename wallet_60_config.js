@@ -1,1 +1,1 @@
-var mnemonic = "proud envelope grape claim legal symptom manage fee unaware manage pudding raise";
+var mnemonic = "hair wave glide pave food casual member duty puzzle limit talk party";

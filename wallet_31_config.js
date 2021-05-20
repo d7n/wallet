@@ -1,1 +1,1 @@
-var mnemonic = "lawn switch prepare brave spike broccoli island rich decline basic unaware arrest";
+var mnemonic = "galaxy client shallow toddler parade bring balcony luggage reopen ride sausage twist";

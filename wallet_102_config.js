@@ -1,1 +1,1 @@
-var mnemonic = "ripple burden reject purchase crater grace close sphere hedgehog valley lemon stumble";
+var mnemonic = "lumber security cliff shield exact flat wish brisk inside denial deer symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut humor shock card until amused legal pencil output rocket simple wife";
+var mnemonic = "month lady present warrior wheel visual dish museum supreme skull icon grid";

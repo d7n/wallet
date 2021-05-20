@@ -1,1 +1,1 @@
-var mnemonic = "occur utility effort draw analyst belt protect merit rib mountain amateur clog";
+var mnemonic = "insect discover farm empty else enforce crisp opera caution only rose style";

@@ -1,1 +1,1 @@
-var mnemonic = "shell length select jeans project violin antenna gold giraffe employ people soccer";
+var mnemonic = "hour range insane misery express walk stage future inch elbow mom sense";

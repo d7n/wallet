@@ -1,1 +1,1 @@
-var mnemonic = "busy antenna gallery stand sunny cycle final crane tiny action hole step";
+var mnemonic = "nephew they funny leisure sail kid anchor genuine struggle blue orient idea";

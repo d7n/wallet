@@ -1,1 +1,1 @@
-var mnemonic = "note finger stuff negative collect muscle hobby route identify cage mother push";
+var mnemonic = "silk dizzy found mimic duty path easily radar hat stairs change certain";

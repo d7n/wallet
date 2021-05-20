@@ -1,1 +1,1 @@
-var mnemonic = "evoke review announce involve book float fury change lab general found bargain";
+var mnemonic = "light awful spare arrest jealous equal frequent animal awesome peasant during reason";

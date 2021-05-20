@@ -1,1 +1,1 @@
-var mnemonic = "census royal hurdle rent frown crush circle split rent genre report cube";
+var mnemonic = "drastic call gym account tuna mistake apple retire rude inner erosion believe";
