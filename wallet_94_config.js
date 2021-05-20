@@ -1,1 +1,1 @@
-var mnemonic = "zoo bread fuel blur wagon rally resource inject pear acoustic swear crush";
+var mnemonic = "face ripple orbit school snack organ relief govern jar legend brave carpet";

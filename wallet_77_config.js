@@ -1,1 +1,1 @@
-var mnemonic = "together exclude finger squirrel unable short world wish galaxy garbage dinner style";
+var mnemonic = "maple leopard brother remain cream clerk salad mobile kingdom weather potato truly";

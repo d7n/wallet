@@ -1,1 +1,1 @@
-var mnemonic = "empty chase view better history bus rhythm torch clarify depend digital firm";
+var mnemonic = "error icon peace absurd favorite august mouse infant vapor pear comic battle";

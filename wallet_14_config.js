@@ -1,1 +1,1 @@
-var mnemonic = "syrup purchase access artwork comfort wool sort skirt pole frequent hub feel";
+var mnemonic = "seek hold crumble flash unlock interest follow skate dignity length whisper flock";

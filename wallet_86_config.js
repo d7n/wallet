@@ -1,1 +1,1 @@
-var mnemonic = "sick accident dry shop engage please sadness salt pelican fun fossil giraffe";
+var mnemonic = "rather script window meadow build usual auction sure loyal museum essence domain";

@@ -1,1 +1,1 @@
-var mnemonic = "desert mention creek economy toilet vocal bike adult joy ribbon city runway";
+var mnemonic = "habit dismiss twist limb involve pioneer flat wine street episode slide example";

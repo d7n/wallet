@@ -1,1 +1,1 @@
-var mnemonic = "prison gospel winner annual card token hamster elevator word display cigar dizzy";
+var mnemonic = "page gain bike crazy worth ball say basic marriage simple sing rescue";

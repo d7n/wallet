@@ -1,1 +1,1 @@
-var mnemonic = "silver unhappy fragile door attract often jazz buzz month vacant question either";
+var mnemonic = "abandon token record life draft retreat candy average rib nephew dawn typical";

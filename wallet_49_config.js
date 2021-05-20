@@ -1,1 +1,1 @@
-var mnemonic = "goddess front usage fence hockey record series capable decide cash enforce rail";
+var mnemonic = "announce twist sustain sign obvious napkin arena matter wish uncle tackle castle";

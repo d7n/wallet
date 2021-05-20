@@ -1,1 +1,1 @@
-var mnemonic = "senior lyrics gown patrol still woman early move wise warm income drip";
+var mnemonic = "slogan outside street river twelve shrimp coffee possible verify cherry lyrics obvious";

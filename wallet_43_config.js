@@ -1,1 +1,1 @@
-var mnemonic = "top ketchup hole identify room fine attend face defense orient spin result";
+var mnemonic = "club planet physical legal sibling capital force verify bargain frog label shrug";

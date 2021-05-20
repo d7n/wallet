@@ -1,1 +1,1 @@
-var mnemonic = "minor soon talk forest make depth brand bright main remind festival habit";
+var mnemonic = "wire swift level drop cereal erosion garden cushion finish disagree oxygen resource";

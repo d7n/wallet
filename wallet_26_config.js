@@ -1,1 +1,1 @@
-var mnemonic = "spike yard fiber like color behave theme under fresh cycle trick team";
+var mnemonic = "limit net jump museum bless stable autumn fever please twenty effort wall";

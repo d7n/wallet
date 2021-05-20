@@ -1,1 +1,1 @@
-var mnemonic = "family field dolphin wood truly city elegant affair dentist clean govern rich";
+var mnemonic = "lizard sound indoor rug mandate bundle enter barely chat page icon great";

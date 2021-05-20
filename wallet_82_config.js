@@ -1,1 +1,1 @@
-var mnemonic = "aunt father elevator place test notice liquid tourist meat gown carbon engine";
+var mnemonic = "vessel crystal bulk sting decrease afraid perfect pattern gorilla face confirm portion";

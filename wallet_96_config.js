@@ -1,1 +1,1 @@
-var mnemonic = "day off track lock mad action vintage deal tape paddle try renew";
+var mnemonic = "garlic ribbon animal old ensure nest awake noodle stamp magnet unable adjust";

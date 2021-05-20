@@ -1,1 +1,1 @@
-var mnemonic = "flush demand middle spice weasel tomato grit regular seven remember proof kind";
+var mnemonic = "equip again casual slab play inquiry thunder pen choose charge run device";

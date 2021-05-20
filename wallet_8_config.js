@@ -1,1 +1,1 @@
-var mnemonic = "coin aware school famous step extend cloth detail bamboo gorilla pelican buzz";
+var mnemonic = "flip exile world bleak clutch popular antenna wagon food obey lawn inquiry";

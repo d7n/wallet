@@ -1,1 +1,1 @@
-var mnemonic = "ridge sketch hockey credit rookie collect devote hundred prosper mail health subject";
+var mnemonic = "gaze identify crucial license huge photo doctor city crunch today seed tonight";

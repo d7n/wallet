@@ -1,1 +1,1 @@
-var mnemonic = "slam alcohol elegant pass right sick flash joke segment menu sun deer";
+var mnemonic = "cheap velvet vivid fortune until rain siren universe sibling valve assist bid";

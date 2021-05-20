@@ -1,1 +1,1 @@
-var mnemonic = "bar local purpose large wage wife divorce fossil chat swap face friend";
+var mnemonic = "alley nuclear crisp welcome dawn calm option private laundry then inch such";

@@ -1,1 +1,1 @@
-var mnemonic = "orient mean casual present remember toe bunker movie shoe urge rural defy";
+var mnemonic = "number cement broken pretty begin normal impact loan kangaroo come lift inspire";

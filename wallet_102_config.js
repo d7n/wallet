@@ -1,1 +1,1 @@
-var mnemonic = "step witness regret idle upgrade marble crime kingdom loud cannon dog edge";
+var mnemonic = "still seed illegal melody skull crazy throw drift three penalty finger daring";

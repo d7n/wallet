@@ -1,1 +1,1 @@
-var mnemonic = "shiver forum canal minor airport expand artwork waste smooth alley crane slogan";
+var mnemonic = "jewel merit refuse vendor air beauty whale awake use nothing strong finish";

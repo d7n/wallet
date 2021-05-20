@@ -1,1 +1,1 @@
-var mnemonic = "story hip leave lumber cake welcome lawsuit plastic puppy pave juice raven";
+var mnemonic = "coin then moon coral leopard census age tooth student laugh please robust";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry giant quality physical kite dumb castle refuse approve cement vintage digital";
+var mnemonic = "gallery grid family canyon oil distance best relax lonely journey regular recall";

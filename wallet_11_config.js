@@ -1,1 +1,1 @@
-var mnemonic = "topic pelican flash diet hidden core board ice forward system crawl skin";
+var mnemonic = "person valley mobile next uphold castle mansion cage afford joke tone account";

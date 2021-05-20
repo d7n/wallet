@@ -1,1 +1,1 @@
-var mnemonic = "crush length truly visa horn large stage festival chunk mesh job voyage";
+var mnemonic = "other remind gospel shiver image wrist symbol cabbage measure autumn team luxury";

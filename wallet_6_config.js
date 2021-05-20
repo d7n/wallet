@@ -1,1 +1,1 @@
-var mnemonic = "dad ice hen van machine farm ring sibling eyebrow feature bus road";
+var mnemonic = "scrub wool shop ten arm dice token head false pelican alpha judge";

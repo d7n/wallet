@@ -1,1 +1,1 @@
-var mnemonic = "conduct salute lady quit six sustain sound lonely vintage explain version term";
+var mnemonic = "stuff street shine stock rude maximum swear okay speed later turtle stand";

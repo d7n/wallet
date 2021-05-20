@@ -1,1 +1,1 @@
-var mnemonic = "artwork gallery cement patch tail planet damage virus card trigger quick enhance";
+var mnemonic = "goddess network toward fit like display dry bar work member clay fatal";

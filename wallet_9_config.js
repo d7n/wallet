@@ -1,1 +1,1 @@
-var mnemonic = "broom wedding solution spray race milk lyrics fringe insect cloud picnic bunker";
+var mnemonic = "beach energy merry alcohol snack alcohol garbage mushroom brown solution maid oppose";

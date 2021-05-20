@@ -1,1 +1,1 @@
-var mnemonic = "slice know beach then mad between future eagle pave slide where royal";
+var mnemonic = "evidence phone fine artwork cereal slab decorate embark custom kiss blast ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor jungle match city crane tribe middle trip idea laugh mention angry";
+var mnemonic = "gospel roast subway interest ritual salad muscle balance must run era first";

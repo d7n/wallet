@@ -1,1 +1,1 @@
-var mnemonic = "picnic wage ostrich empty lock pet tired reject board capable cement couple";
+var mnemonic = "vital round surprise treat enable friend carry walnut meat crawl occur describe";

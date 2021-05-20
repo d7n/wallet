@@ -1,1 +1,1 @@
-var mnemonic = "lab turkey puppy scrub pudding bright cattle fold egg sibling vendor similar";
+var mnemonic = "thought excuse machine earn exhibit velvet purse obtain carpet fancy aerobic meat";

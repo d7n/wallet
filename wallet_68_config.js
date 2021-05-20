@@ -1,1 +1,1 @@
-var mnemonic = "soup cross today sweet myself measure over slide rice rookie insect elite";
+var mnemonic = "curve evolve episode wing tell trap certain crystal biology total pony ancient";

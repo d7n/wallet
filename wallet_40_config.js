@@ -1,1 +1,1 @@
-var mnemonic = "useless physical unlock mobile divide result matter retire alert boring card claw";
+var mnemonic = "next squeeze season sunny feed number young prison avocado pink pencil estate";

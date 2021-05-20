@@ -1,1 +1,1 @@
-var mnemonic = "wedding impose veteran ring wheat angry breeze insect excuse struggle receive wealth";
+var mnemonic = "pride found midnight enact multiply cricket course any only match phrase album";

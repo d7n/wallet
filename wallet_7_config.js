@@ -1,1 +1,1 @@
-var mnemonic = "quiz fever universe cave jewel crawl neither tourist test health menu chief";
+var mnemonic = "ribbon very ranch message tortoise ensure tornado purchase dynamic salt lawn elephant";

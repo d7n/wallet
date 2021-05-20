@@ -1,1 +1,1 @@
-var mnemonic = "refuse vintage actual breeze work wood hip section wild talk net legal";
+var mnemonic = "fire border soul exhaust weasel camp agent ankle wide gloom scale pink";

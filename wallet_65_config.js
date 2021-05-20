@@ -1,1 +1,1 @@
-var mnemonic = "safe humor race own group copy speak orient open peace equip lizard";
+var mnemonic = "panel occur method brother catalog mean dry all square open other race";

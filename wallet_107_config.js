@@ -1,1 +1,1 @@
-var mnemonic = "crazy relief hair electric jeans entry chase good bless team occur hold";
+var mnemonic = "teach black talk cement pet wrestle coach tent cradle power reopen worry";

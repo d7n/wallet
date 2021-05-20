@@ -1,1 +1,1 @@
-var mnemonic = "today video extra heavy chief knock envelope urban trust outer vintage give";
+var mnemonic = "few miss orchard tribe ticket hole vocal lava final festival visit wide";

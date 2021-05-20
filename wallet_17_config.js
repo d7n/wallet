@@ -1,1 +1,1 @@
-var mnemonic = "mercy fall eagle section leisure tragic smart zone noble cabbage toddler tide";
+var mnemonic = "include year small penalty novel find buzz skate budget top express blast";

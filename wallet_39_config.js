@@ -1,1 +1,1 @@
-var mnemonic = "jaguar garment loan virus flee convince exercise clever lecture draw security love";
+var mnemonic = "soul interest effort grace exist expect birth poverty tennis enemy upgrade say";

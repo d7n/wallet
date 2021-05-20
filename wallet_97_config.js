@@ -1,1 +1,1 @@
-var mnemonic = "cheap describe jungle volume trip kangaroo corn garden wonder school crouch river";
+var mnemonic = "aerobic owner unaware goddess oblige lake runway neutral lecture quit arrest forum";

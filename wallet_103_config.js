@@ -1,1 +1,1 @@
-var mnemonic = "elbow need ticket genre deny gap either object life huge behind clay";
+var mnemonic = "twist eternal effort capable transfer stand supply ignore exchange essay nation assist";

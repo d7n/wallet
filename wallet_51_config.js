@@ -1,1 +1,1 @@
-var mnemonic = "put heart noble merry verify fringe exile mother horse company praise theme";
+var mnemonic = "remind script analyst flash race inside reflect roof hedgehog credit color buffalo";

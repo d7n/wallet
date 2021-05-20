@@ -1,1 +1,1 @@
-var mnemonic = "leg giraffe expose dismiss old million any already reason wish radio floor";
+var mnemonic = "empower forward puppy upset business satoshi buddy myself soul border jealous unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge enough chase duty runway bright budget give forward that approve salt";
+var mnemonic = "destroy table rhythm snow toward client work chair review bundle harsh muscle";

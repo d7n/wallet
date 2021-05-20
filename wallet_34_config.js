@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur senior tenant side random shrug coconut pull hammer garment laundry machine";
+var mnemonic = "satoshi cheap inspire slow metal replace pass obvious drip access host casino";

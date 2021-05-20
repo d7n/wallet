@@ -1,1 +1,1 @@
-var mnemonic = "mountain wise badge guide dog ethics kingdom frost awkward fatigue affair wire";
+var mnemonic = "work squeeze gather annual ensure exhibit margin secret black prison dilemma beach";

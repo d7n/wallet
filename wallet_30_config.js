@@ -1,1 +1,1 @@
-var mnemonic = "wise riot inflict blast rare test month potato moon hill sister sponsor";
+var mnemonic = "update icon enroll pizza agree canyon amused weapon exile explain topic margin";

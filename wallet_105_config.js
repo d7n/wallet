@@ -1,1 +1,1 @@
-var mnemonic = "local foam front caution dance tide thumb ice crystal sea runway affair";
+var mnemonic = "humble kiwi defy denial catalog rigid creek family chicken sauce dose shed";

@@ -1,1 +1,1 @@
-var mnemonic = "alone oyster aerobic candy comic glue small avocado saddle plastic aim room";
+var mnemonic = "fossil wage split oppose aunt speak elbow code clay slice vendor output";

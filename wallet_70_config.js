@@ -1,1 +1,1 @@
-var mnemonic = "diamond setup neck phrase cost city stumble flower sting auction theme mom";
+var mnemonic = "cement orphan because project wet drop whisper goddess receive fruit ball sleep";

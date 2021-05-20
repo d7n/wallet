@@ -1,1 +1,1 @@
-var mnemonic = "evidence peanut tenant retire tooth debris sauce cousin trigger catalog sad eager";
+var mnemonic = "silver panic plate warm salad cave emerge poverty fade august slam breeze";

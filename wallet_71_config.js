@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit crouch bronze lake open orchard entire ball process mad thing random";
+var mnemonic = "plate differ vehicle salad earn recipe try reject soda mix zebra chat";

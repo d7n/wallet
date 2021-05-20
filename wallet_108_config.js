@@ -1,1 +1,1 @@
-var mnemonic = "sail act romance spread summer find clinic entire zebra struggle average safe";
+var mnemonic = "crucial shop quantum outside umbrella fragile viable heart execute twist spoon dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery mountain noble dad medal sorry gossip october seek silent angle smile";
+var mnemonic = "idle kiwi pen quarter fox maze drift trumpet bridge mad swamp guard";

@@ -1,1 +1,1 @@
-var mnemonic = "dove cream joke okay power label next economy effort oak distance clarify";
+var mnemonic = "marble happy toast bind decorate spawn fancy midnight extend fabric tank vivid";

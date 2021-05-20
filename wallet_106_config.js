@@ -1,1 +1,1 @@
-var mnemonic = "tomato spy ocean else mansion oblige apology liar weather airport hand decline";
+var mnemonic = "wrestle elbow draw call secret wagon enrich icon false try gold finish";

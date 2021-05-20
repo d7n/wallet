@@ -1,1 +1,1 @@
-var mnemonic = "hard scare funny chuckle vocal runway unusual wide art drop cruel chronic";
+var mnemonic = "rebuild entry cereal sweet coyote govern hard reward busy decline slow health";

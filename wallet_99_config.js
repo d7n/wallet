@@ -1,1 +1,1 @@
-var mnemonic = "age clip gain cry marriage phone ivory depend predict slice witness library";
+var mnemonic = "hawk gadget quantum parent city trap budget afraid subject motion wool chat";

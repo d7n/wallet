@@ -1,1 +1,1 @@
-var mnemonic = "file butter hurdle virtual ahead artwork swap equal enhance muscle calm surround";
+var mnemonic = "riot squirrel crop culture ask boost visit injury icon vintage gossip rather";

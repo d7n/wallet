@@ -1,1 +1,1 @@
-var mnemonic = "exit master mention stadium truly liquid nose elegant script brown olive toy";
+var mnemonic = "birth interest elbow faint solution veteran circle kidney subject gaze lens keep";

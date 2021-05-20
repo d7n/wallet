@@ -1,1 +1,1 @@
-var mnemonic = "april athlete goat reform scout tomorrow beauty smooth fit harbor million hope";
+var mnemonic = "churn slot motor history hill curtain anxiety erupt dice income bag sight";

@@ -1,1 +1,1 @@
-var mnemonic = "net circle glory panther fiction addict mercy female basic valid claw borrow";
+var mnemonic = "fortune floor base gallery modify hobby fatal field valve rigid melody actual";

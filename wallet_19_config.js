@@ -1,1 +1,1 @@
-var mnemonic = "fall base hello cook punch apple guess position raw able nuclear tube";
+var mnemonic = "shrimp flip draw verb portion faculty approve detail claim matrix unable swing";

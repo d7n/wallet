@@ -1,1 +1,1 @@
-var mnemonic = "aisle glare wedding shoe stock athlete van stove box waste lava tide";
+var mnemonic = "census quick vital north abstract olive echo stamp state cabbage outdoor apology";

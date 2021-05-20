@@ -1,1 +1,1 @@
-var mnemonic = "country quantum trap hire vital inmate model merry toast noble lazy enable";
+var mnemonic = "push thing lecture element physical deal solar run crew outer bubble trap";

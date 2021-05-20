@@ -1,1 +1,1 @@
-var mnemonic = "trend churn patrol invest various sad this sell omit twenty hair gift";
+var mnemonic = "talk gap empty never interest demand master cool echo clarify scout furnace";

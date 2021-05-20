@@ -1,1 +1,1 @@
-var mnemonic = "impose update flip sunset raw pledge retire surprise pretty kingdom father maximum";
+var mnemonic = "else material nominee wood lottery knock utility letter supply color true category";

@@ -1,1 +1,1 @@
-var mnemonic = "survey toe three swift once mushroom praise helmet laundry fancy acquire edit";
+var mnemonic = "luggage enable beauty city cousin job term then clock struggle recipe settle";

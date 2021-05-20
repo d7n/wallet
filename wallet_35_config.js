@@ -1,1 +1,1 @@
-var mnemonic = "romance grow very busy valley indicate laugh genuine final board unfold scorpion";
+var mnemonic = "captain answer chimney pilot goddess debate bone nerve castle stone scheme behind";

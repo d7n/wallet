@@ -1,1 +1,1 @@
-var mnemonic = "promote expose junk exotic inquiry laundry bleak keep olive among income shiver";
+var mnemonic = "slush decorate print light shiver unfair industry increase coast budget shove coin";

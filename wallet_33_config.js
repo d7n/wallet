@@ -1,1 +1,1 @@
-var mnemonic = "away inherit again account uncle clutch front kangaroo bunker goose pole divide";
+var mnemonic = "harbor toddler donate brisk world fat urban hospital price clean cook grocery";

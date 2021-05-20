@@ -1,1 +1,1 @@
-var mnemonic = "peace shaft refuse nurse color tomorrow rural enrich gorilla slow congress join";
+var mnemonic = "effort course elegant update invite version lend sand help adjust annual position";

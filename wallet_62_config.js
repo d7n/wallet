@@ -1,1 +1,1 @@
-var mnemonic = "suspect athlete absent episode near robot van fitness green legend galaxy drive";
+var mnemonic = "smoke wool height calm mule wire skirt skin eye armor under lucky";

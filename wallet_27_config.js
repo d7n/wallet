@@ -1,1 +1,1 @@
-var mnemonic = "remove shield detail blur left nurse jump milk kitten enhance focus lonely";
+var mnemonic = "exchange destroy coral vacuum dress maple genius ticket smile still tuna fly";

@@ -1,1 +1,1 @@
-var mnemonic = "desert fat road attack canal human mansion weird olympic name debris horror";
+var mnemonic = "glow nominee company theme sentence satoshi leader doctor moral raven again honey";

@@ -1,1 +1,1 @@
-var mnemonic = "knife monkey notable answer patient hope snap rotate fault later science just";
+var mnemonic = "gain blame shine engage educate boil flame culture husband blue correct champion";

@@ -1,1 +1,1 @@
-var mnemonic = "universe chronic ivory theory agree add chalk elite coin violin library blind";
+var mnemonic = "put clog wolf glare into peanut myth uncover wrist twin occur miracle";

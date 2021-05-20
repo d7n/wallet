@@ -1,1 +1,1 @@
-var mnemonic = "tilt glow advance behind proud kitten scene soft firm useful bitter inspire";
+var mnemonic = "myth future expand bid eagle good diesel desert naive cliff job picnic";

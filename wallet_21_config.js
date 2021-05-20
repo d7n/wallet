@@ -1,1 +1,1 @@
-var mnemonic = "knee spy sheriff require mule one install cigar broken analyst hour brisk";
+var mnemonic = "scheme release blind walk slender wear gift tomato baby cluster movie spot";

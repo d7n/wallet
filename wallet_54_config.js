@@ -1,1 +1,1 @@
-var mnemonic = "meadow fame rich harbor isolate energy firm glad shrug spatial guilt clerk";
+var mnemonic = "soccer citizen valid plug secret borrow model equip rhythm history rent sock";

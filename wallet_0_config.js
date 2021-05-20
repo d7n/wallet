@@ -1,1 +1,1 @@
-var mnemonic = "essence leave rubber dinosaur bubble shop talent one poet announce broccoli stone";
+var mnemonic = "local south salmon slot upon stairs marriage fish music home cover light";
