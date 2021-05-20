@@ -1,1 +1,1 @@
-var mnemonic = "example enlist angry breeze discover sick people bring front regret cash figure";
+var mnemonic = "involve tiger demise spare magic talk trip iron anxiety neglect elevator private";

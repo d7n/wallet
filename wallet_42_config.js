@@ -1,1 +1,1 @@
-var mnemonic = "piece buffalo argue crunch grunt mystery sunny split silk problem file now";
+var mnemonic = "mosquito guess attitude foil retreat eyebrow include truck seat unique stick end";

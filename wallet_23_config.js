@@ -1,1 +1,1 @@
-var mnemonic = "sea degree measure blood frozen middle witness option swamp chuckle girl twenty";
+var mnemonic = "street milk flash congress used one cereal potato glare notable rocket ritual";

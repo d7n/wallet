@@ -1,1 +1,1 @@
-var mnemonic = "wisdom okay welcome hen portion auction weapon sign decade amateur say foil";
+var mnemonic = "flash rich tourist gap sister answer gas repair actor soap ranch armed";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp inmate burst keen soon there evolve panther waste wreck charge found";
+var mnemonic = "will repeat history network isolate envelope royal vendor sand inflict frequent gown";

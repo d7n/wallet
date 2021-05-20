@@ -1,1 +1,1 @@
-var mnemonic = "song real become glass jar retire base mixture inmate always supply puppy";
+var mnemonic = "have control black fiction slot length bundle payment diagram dust lunar civil";

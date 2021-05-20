@@ -1,1 +1,1 @@
-var mnemonic = "laptop runway fee rail stereo first entry rough arch smart viable demand";
+var mnemonic = "fiscal fatigue dice cactus join select second man caution goddess lab live";

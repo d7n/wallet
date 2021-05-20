@@ -1,1 +1,1 @@
-var mnemonic = "math south grain aerobic speak palace absorb disorder close daughter steak present";
+var mnemonic = "ceiling snack split solid inflict skirt member wonder appear venture distance color";

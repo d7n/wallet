@@ -1,1 +1,1 @@
-var mnemonic = "autumn become educate cricket gloom monitor fatal spot bronze common master invite";
+var mnemonic = "home action suspect uncle season muffin cancel romance sorry own winter bind";

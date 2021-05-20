@@ -1,1 +1,1 @@
-var mnemonic = "kite solar home safe violin endorse educate spawn equal turn head universe";
+var mnemonic = "cheese remind uncle behave poet emerge welcome frown slogan know water junior";

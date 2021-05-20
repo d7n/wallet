@@ -1,1 +1,1 @@
-var mnemonic = "flag auction blouse clever exhaust hood captain apology name sadness gain gown";
+var mnemonic = "female legal tourist distance retire century issue run acquire genuine include model";

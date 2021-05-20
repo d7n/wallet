@@ -1,1 +1,1 @@
-var mnemonic = "aware coil example sell speak know hand erupt system odor shiver field";
+var mnemonic = "noise hunt lens rate remember kit sudden tent crush access organ problem";

@@ -1,1 +1,1 @@
-var mnemonic = "judge happy inner prefer repeat upset tiger tide riot unfair timber first";
+var mnemonic = "unusual spider soccer canyon try people lift dizzy chapter name away rely";

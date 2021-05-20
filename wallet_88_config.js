@@ -1,1 +1,1 @@
-var mnemonic = "woman frequent inherit penalty metal opera husband trust maximum bicycle road message";
+var mnemonic = "fog minor media chief leisure lab genuine siege isolate pistol glare fly";

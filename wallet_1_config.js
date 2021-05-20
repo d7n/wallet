@@ -1,1 +1,1 @@
-var mnemonic = "sight oyster assist position bicycle casino scorpion plate alert essence swim ghost";
+var mnemonic = "harsh autumn kidney grab vintage abandon letter essay banner dress favorite language";

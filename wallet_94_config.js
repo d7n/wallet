@@ -1,1 +1,1 @@
-var mnemonic = "razor evolve scan mesh clever hole spin chimney flip dutch forget give";
+var mnemonic = "tennis sunset attend merge seed squirrel initial student device scout come wall";

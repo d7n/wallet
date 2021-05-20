@@ -1,1 +1,1 @@
-var mnemonic = "salon capital gentle cash only spy miss elder best grief relax future";
+var mnemonic = "arrest absorb donkey room leisure garlic scissors glow dinosaur account hat dice";

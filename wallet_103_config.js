@@ -1,1 +1,1 @@
-var mnemonic = "reopen jaguar miracle uncover ten century toward hospital siege inside bargain genius";
+var mnemonic = "soldier educate similar test horse wine foil bleak ocean try phrase comic";

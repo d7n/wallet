@@ -1,1 +1,1 @@
-var mnemonic = "reduce ecology abandon illegal purchase route give machine manage spatial camp announce";
+var mnemonic = "industry pledge mountain brisk upgrade horn sister fabric inform leg physical best";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud silk upon suggest minimum catalog donor dose return spare crouch hunt";
+var mnemonic = "salmon visa decide wide assist nothing easy execute twenty major submit girl";

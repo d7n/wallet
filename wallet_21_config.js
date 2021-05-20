@@ -1,1 +1,1 @@
-var mnemonic = "fan maze baby love humble tent aim waste pistol dial repeat they";
+var mnemonic = "viable subway install grow orchard hotel that bench lumber frost police apple";

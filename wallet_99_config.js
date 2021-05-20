@@ -1,1 +1,1 @@
-var mnemonic = "scale coyote weasel cook shed shadow left rain loop outside bachelor bounce";
+var mnemonic = "fruit animal surprise favorite drastic forum juice divert govern purity suspect harsh";

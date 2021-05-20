@@ -1,1 +1,1 @@
-var mnemonic = "intact corn churn during squirrel weird sentence wood pelican card chef stand";
+var mnemonic = "physical project north nephew idle animal riot network depend much slot fold";

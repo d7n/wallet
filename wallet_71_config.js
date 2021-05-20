@@ -1,1 +1,1 @@
-var mnemonic = "coral impose need cover vessel laugh area affair fuel mimic announce sample";
+var mnemonic = "tomorrow mimic ketchup range lava clump pigeon quantum since whisper cross apple";

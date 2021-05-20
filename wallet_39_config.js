@@ -1,1 +1,1 @@
-var mnemonic = "habit crack planet weather jar super ribbon invest spike debris struggle wide";
+var mnemonic = "wear cheap jealous month swim parent orphan size prison skirt much holiday";

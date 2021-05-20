@@ -1,1 +1,1 @@
-var mnemonic = "license velvet lemon glimpse toilet envelope liar grid iron guard post wait";
+var mnemonic = "benefit unusual wise jealous squeeze pulse measure usage early transfer double version";

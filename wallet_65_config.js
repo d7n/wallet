@@ -1,1 +1,1 @@
-var mnemonic = "globe case april cry ghost twelve game wet reward split space tiny";
+var mnemonic = "nation express margin flock canyon inflict meat rude evidence fine student will";

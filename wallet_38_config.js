@@ -1,1 +1,1 @@
-var mnemonic = "move endless economy spy lonely duty luggage pair type resist neither afford";
+var mnemonic = "gate erode extra desk crack word siren lounge taste grape hurry basic";

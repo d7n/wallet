@@ -1,1 +1,1 @@
-var mnemonic = "detail input fitness pulp fluid border behind popular obscure frame episode mix";
+var mnemonic = "nasty wisdom stumble real news aim quick wide fold divorce thunder leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "present engage senior lava choose siren trim drift blood cousin brother toy";
+var mnemonic = "various prepare stuff mail syrup level basket glass stairs grace gallery harvest";

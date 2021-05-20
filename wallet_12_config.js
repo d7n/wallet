@@ -1,1 +1,1 @@
-var mnemonic = "casual history pyramid pink short hobby shaft rescue toy fog mother swim";
+var mnemonic = "jelly pave wave moral rice unlock supreme local stool notable mandate move";

@@ -1,1 +1,1 @@
-var mnemonic = "legend advance invest devote punch budget food burst split fire black latin";
+var mnemonic = "cross load relax diesel crime cargo erase practice glad almost enable magnet";

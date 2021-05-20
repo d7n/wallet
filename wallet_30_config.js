@@ -1,1 +1,1 @@
-var mnemonic = "borrow slow tortoise advice carbon myth neutral member feature arena anchor same";
+var mnemonic = "toddler task real erase disagree plastic advance flight agent cross attitude chunk";

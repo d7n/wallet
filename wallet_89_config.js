@@ -1,1 +1,1 @@
-var mnemonic = "secret rail general window shift swap corn slush often circle ill eye";
+var mnemonic = "lucky govern indoor segment jeans run lucky gadget fortune fit cotton law";

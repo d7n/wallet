@@ -1,1 +1,1 @@
-var mnemonic = "foam student satoshi kingdom gesture order cash social aspect rug describe uphold";
+var mnemonic = "brain property short wall tide rose core auto what economy clutch primary";

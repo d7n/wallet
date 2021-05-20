@@ -1,1 +1,1 @@
-var mnemonic = "cause forum math one subway desert upon danger outer awake escape oil";
+var mnemonic = "clutch chief dumb chronic bus hip cage charge diagram amazing fitness test";

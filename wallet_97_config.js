@@ -1,1 +1,1 @@
-var mnemonic = "onion sister grab cradle hub call knee day elephant river display inmate";
+var mnemonic = "evolve coyote wet easy drift crumble volcano focus pulp ride link never";

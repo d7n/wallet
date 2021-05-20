@@ -1,1 +1,1 @@
-var mnemonic = "glow lumber trick you dawn convince tide cube night hour gap rotate";
+var mnemonic = "remind venture sleep charge noise race galaxy update burden diary canvas omit";

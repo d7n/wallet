@@ -1,1 +1,1 @@
-var mnemonic = "fatigue clutch iron mobile clip into step deer pelican grit junior focus";
+var mnemonic = "disease debate bind hamster lyrics decline turkey include quit void tortoise spare";

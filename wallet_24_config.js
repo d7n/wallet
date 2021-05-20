@@ -1,1 +1,1 @@
-var mnemonic = "shell ready tone yellow economy moment dose fortune result warrior outer nut";
+var mnemonic = "rack head raise sail dinner divert penalty post engage bicycle perfect turtle";

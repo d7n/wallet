@@ -1,1 +1,1 @@
-var mnemonic = "coast mirror genius hunt innocent hire bundle mixed shadow flag kangaroo reopen";
+var mnemonic = "kite dash hint suffer ready length top blame shrug elephant camera thing";

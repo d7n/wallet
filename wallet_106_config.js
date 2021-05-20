@@ -1,1 +1,1 @@
-var mnemonic = "jewel invest speak infant elegant diet rule hello blush focus avocado sample";
+var mnemonic = "gasp stone canyon dad ill bitter correct scatter devote degree rain again";

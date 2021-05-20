@@ -1,1 +1,1 @@
-var mnemonic = "world spray addict video label waste slot fashion demise rather spend february";
+var mnemonic = "potato kit vintage sphere rubber genius purpose exhaust ticket police pilot jazz";

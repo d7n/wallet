@@ -1,1 +1,1 @@
-var mnemonic = "chalk include rabbit slam two guide spring rotate chuckle pony common sketch";
+var mnemonic = "goddess grace moment quit coffee churn ceiling extra audit appear unaware buzz";

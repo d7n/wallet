@@ -1,1 +1,1 @@
-var mnemonic = "old comic host deposit neck drive scorpion cannon print legal believe move";
+var mnemonic = "stool pyramid dust magic crucial tilt noise beauty target flock car reject";

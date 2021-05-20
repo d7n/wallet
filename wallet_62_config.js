@@ -1,1 +1,1 @@
-var mnemonic = "burden bamboo used strong deputy pattern general engage gather west exile coral";
+var mnemonic = "fade toss blur beyond pact aunt survey volcano gloom video wish sugar";

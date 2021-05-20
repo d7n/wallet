@@ -1,1 +1,1 @@
-var mnemonic = "inch then filter script mule edit tiny midnight more turkey coconut walnut";
+var mnemonic = "arrest thumb clip youth item palm favorite pride print rain gap furnace";

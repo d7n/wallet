@@ -1,1 +1,1 @@
-var mnemonic = "destroy advance treat swamp nation goose winter nest core creek arrest lizard";
+var mnemonic = "educate concert chicken sketch company hospital current paper tomato robust gasp earn";

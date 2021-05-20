@@ -1,1 +1,1 @@
-var mnemonic = "excuse reward guilt panic mountain border insane auction shove shove galaxy between";
+var mnemonic = "when logic deputy supreme phone network hockey bachelor charge fashion start enlist";

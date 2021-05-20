@@ -1,1 +1,1 @@
-var mnemonic = "test bridge camera mansion turkey wood grid orphan expire also shoulder local";
+var mnemonic = "garment act hint amateur cherry equal brain forest bird hidden network excess";

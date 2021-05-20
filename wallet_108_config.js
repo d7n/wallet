@@ -1,1 +1,1 @@
-var mnemonic = "history jungle welcome phrase dance engage envelope trust ceiling mind staff voice";
+var mnemonic = "powder impulse slender address mixture silent field math recycle gain churn fatigue";

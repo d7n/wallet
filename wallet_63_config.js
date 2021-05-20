@@ -1,1 +1,1 @@
-var mnemonic = "rally purchase wheel below stool history siren forum share magnet escape gun";
+var mnemonic = "drill hunt enter pelican second focus approve method metal clean run unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "earth tattoo swift imitate cat present decline that salon surge wrap chase";
+var mnemonic = "exit kiss online curtain lens cactus spell card bean typical lucky cart";

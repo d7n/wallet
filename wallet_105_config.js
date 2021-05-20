@@ -1,1 +1,1 @@
-var mnemonic = "disagree tortoise sort sea speed fatal shed solution method drama wild simple";
+var mnemonic = "day thing hazard kite trick mobile soap file frequent other lawn lunch";

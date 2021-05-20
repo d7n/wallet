@@ -1,1 +1,1 @@
-var mnemonic = "april divorce result wolf tell task dynamic dismiss nation parent nature coil";
+var mnemonic = "barely force spring goat biology ketchup fat airport cupboard summer talent crane";

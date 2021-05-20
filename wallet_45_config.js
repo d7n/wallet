@@ -1,1 +1,1 @@
-var mnemonic = "energy above story frozen review soft manage kitten giggle among level warm";
+var mnemonic = "strike alley wisdom wave love load color close outdoor glance all ladder";

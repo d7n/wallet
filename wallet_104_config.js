@@ -1,1 +1,1 @@
-var mnemonic = "happy expire project company ramp total bus enrich flip practice unhappy mistake";
+var mnemonic = "tribe verify creek tiny crane unusual design heavy mixture skate average sleep";

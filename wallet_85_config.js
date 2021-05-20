@@ -1,1 +1,1 @@
-var mnemonic = "truly improve scrub pelican used puzzle bicycle spy domain pull hollow pill";
+var mnemonic = "flash equal picture call depth envelope dream surge pelican flower enough pill";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper solve coast filter collect bitter erase rigid proud between used doll";
+var mnemonic = "cost peasant limit innocent alpha indoor exotic tip fury master winner gap";

@@ -1,1 +1,1 @@
-var mnemonic = "chef actual hip announce aspect sound guard best loyal dose apology among";
+var mnemonic = "blossom lion cousin cherry moon shell crime execute goat valve joy cancel";

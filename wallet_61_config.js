@@ -1,1 +1,1 @@
-var mnemonic = "divert bargain endorse undo success carpet remember tray visual frequent tone kid";
+var mnemonic = "innocent result circle lawsuit drill rigid wrestle update initial hollow permit mystery";

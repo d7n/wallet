@@ -1,1 +1,1 @@
-var mnemonic = "museum nut matter course lava adjust pony square subway ensure three void";
+var mnemonic = "banana unlock toilet voice bird armor crowd mystery together legal benefit snow";

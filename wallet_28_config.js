@@ -1,1 +1,1 @@
-var mnemonic = "come gun wink pumpkin develop prosper talent position team chase nature visual";
+var mnemonic = "saddle gloom aunt push exile misery elder era goose ceiling during abuse";

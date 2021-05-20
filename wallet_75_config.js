@@ -1,1 +1,1 @@
-var mnemonic = "palm helmet video jump afford matrix glare minute smile accident letter robot";
+var mnemonic = "spider control arrest latin reflect under toss skill double better zoo town";

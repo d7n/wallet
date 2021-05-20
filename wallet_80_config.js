@@ -1,1 +1,1 @@
-var mnemonic = "defense beef knife warm flock zebra media frequent private avocado fold grace";
+var mnemonic = "oblige sad hybrid evolve mutual swing rigid barely fame write slice shrug";

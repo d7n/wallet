@@ -1,1 +1,1 @@
-var mnemonic = "hard capable over assault fashion celery ice crash equal quantum opinion finger";
+var mnemonic = "hybrid digital brain race egg rate solid desert receive minute survey panda";

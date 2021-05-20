@@ -1,1 +1,1 @@
-var mnemonic = "slim tobacco giggle toward column spike trash kite image output august juice";
+var mnemonic = "indicate piano table update security fix pink wheat jungle protect category series";

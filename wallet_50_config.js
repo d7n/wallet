@@ -1,1 +1,1 @@
-var mnemonic = "lunch matter price often summer lawsuit harbor stadium balcony other fitness ghost";
+var mnemonic = "section rather danger define hawk lunar amount loan sorry vacuum donor protect";

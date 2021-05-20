@@ -1,1 +1,1 @@
-var mnemonic = "source van polar advance fire pen aerobic immense blame crazy struggle rather";
+var mnemonic = "cement swim simple flash chair fire inflict civil pioneer spin leaf atom";

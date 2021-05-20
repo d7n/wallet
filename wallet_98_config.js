@@ -1,1 +1,1 @@
-var mnemonic = "approve awake lonely wall nuclear expect ill robust basket cover minute victory";
+var mnemonic = "bitter wage cherry artefact vanish undo feature print degree magnet inner ring";

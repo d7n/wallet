@@ -1,1 +1,1 @@
-var mnemonic = "mosquito print portion novel auction lady mammal tomorrow grit office media dance";
+var mnemonic = "away name update game used edge then save forward absent major share";

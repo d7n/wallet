@@ -1,1 +1,1 @@
-var mnemonic = "spike mask foster maid elder obvious either debris expose hammer try remind";
+var mnemonic = "own resist ask penalty action shove unique under valley table add laugh";

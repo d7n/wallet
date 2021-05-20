@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glad exist improve print hamster daughter gallery rate report margin plate";
+var mnemonic = "salon sad clerk lottery pair scale tone decorate pride differ random boil";

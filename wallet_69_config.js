@@ -1,1 +1,1 @@
-var mnemonic = "hurdle exit school ladder yard miracle trash canyon olive place traffic captain";
+var mnemonic = "evil copy toe group banner hungry reopen double live select mad list";

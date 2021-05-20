@@ -1,1 +1,1 @@
-var mnemonic = "spoil student general original trip modify cotton scene person goddess deliver outdoor";
+var mnemonic = "inform crisp winter rapid thing decade spike around general galaxy judge spin";

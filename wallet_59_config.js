@@ -1,1 +1,1 @@
-var mnemonic = "rate fat message ugly rocket agree destroy nothing member stand stuff argue";
+var mnemonic = "monster better side chief cry click style position oxygen giraffe clock sorry";

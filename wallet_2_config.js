@@ -1,1 +1,1 @@
-var mnemonic = "treat pig remain gas grid media crater tip film sadness nation tuna";
+var mnemonic = "camp still unlock one school valid radio best motor public absurd spell";

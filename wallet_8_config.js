@@ -1,1 +1,1 @@
-var mnemonic = "fatal either athlete chuckle east ladder chase sting drastic party cannon top";
+var mnemonic = "push grant claim idea question artefact escape fence crucial decline minute advance";

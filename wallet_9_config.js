@@ -1,1 +1,1 @@
-var mnemonic = "time such addict unfold smooth sorry twenty vapor stereo circle narrow march";
+var mnemonic = "income valley shrimp way fly spirit horse rich matrix hill peasant mean";

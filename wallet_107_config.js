@@ -1,1 +1,1 @@
-var mnemonic = "position art bundle blind upgrade citizen disease salute glow glue rhythm defy";
+var mnemonic = "intact found mass stick wild find crunch indoor valid motor caution gallery";

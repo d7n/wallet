@@ -1,1 +1,1 @@
-var mnemonic = "client woman decline version melody kangaroo enlist matter love enemy strike unable";
+var mnemonic = "erosion tape mandate marriage okay know cannon true isolate float inspire nice";
