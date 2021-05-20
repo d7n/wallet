@@ -1,1 +1,1 @@
-var mnemonic = "fashion artefact dance mutual convince main laugh slam cereal milk response airport";
+var mnemonic = "fiction finger quiz gauge choose occur often chalk cross behave excite ski";

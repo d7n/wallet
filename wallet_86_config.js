@@ -1,1 +1,1 @@
-var mnemonic = "web spot tape riot frown subway sick mind staff library bring live";
+var mnemonic = "sick accident dry shop engage please sadness salt pelican fun fossil giraffe";

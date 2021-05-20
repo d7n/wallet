@@ -1,1 +1,1 @@
-var mnemonic = "nominee usage pumpkin aim alpha boy guard sign pony traffic waste peanut";
+var mnemonic = "business decide box tone pupil secret start attend loud surge design tiger";

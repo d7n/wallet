@@ -1,1 +1,1 @@
-var mnemonic = "glow three service spell yellow horn train team hat saddle party permit";
+var mnemonic = "fabric aim equip tissue keen unable random will mixture together animal auction";

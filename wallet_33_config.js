@@ -1,1 +1,1 @@
-var mnemonic = "arm betray bless civil vacuum safe okay elbow friend sail guilt impulse";
+var mnemonic = "away inherit again account uncle clutch front kangaroo bunker goose pole divide";

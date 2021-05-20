@@ -1,1 +1,1 @@
-var mnemonic = "behind scale option key fine stadium path seek clerk excuse stumble act";
+var mnemonic = "evidence peanut tenant retire tooth debris sauce cousin trigger catalog sad eager";

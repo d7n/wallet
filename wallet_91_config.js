@@ -1,1 +1,1 @@
-var mnemonic = "horse blade inch kingdom render require ivory salmon game oil plate exist";
+var mnemonic = "family field dolphin wood truly city elegant affair dentist clean govern rich";

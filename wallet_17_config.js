@@ -1,1 +1,1 @@
-var mnemonic = "health pepper often swim sunset hole issue prepare auction media today invite";
+var mnemonic = "mercy fall eagle section leisure tragic smart zone noble cabbage toddler tide";

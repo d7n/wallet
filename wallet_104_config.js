@@ -1,1 +1,1 @@
-var mnemonic = "wrestle seminar wish alter venture veteran lyrics loop smart eager this office";
+var mnemonic = "silver unhappy fragile door attract often jazz buzz month vacant question either";

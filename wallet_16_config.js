@@ -1,1 +1,1 @@
-var mnemonic = "finish axis around brain swamp course add major time draw case gloom";
+var mnemonic = "credit doll stuff coyote trim stove staff pupil milk survey vague outdoor";

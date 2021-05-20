@@ -1,1 +1,1 @@
-var mnemonic = "salute donor text crime bracket flight toy choice talent candy transfer audit";
+var mnemonic = "lawsuit crouch bronze lake open orchard entire ball process mad thing random";

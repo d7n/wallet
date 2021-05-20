@@ -1,1 +1,1 @@
-var mnemonic = "slight gaze before pond sail toward candy flock meadow dress spell flavor";
+var mnemonic = "desert mention creek economy toilet vocal bike adult joy ribbon city runway";

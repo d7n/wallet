@@ -1,1 +1,1 @@
-var mnemonic = "retire brush age critic climb scare century heart night unique rich warrior";
+var mnemonic = "prison gospel winner annual card token hamster elevator word display cigar dizzy";

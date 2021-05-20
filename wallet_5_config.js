@@ -1,1 +1,1 @@
-var mnemonic = "target gallery sibling awake cat horse desert merit govern expire forward vibrant";
+var mnemonic = "mystery mountain noble dad medal sorry gossip october seek silent angle smile";

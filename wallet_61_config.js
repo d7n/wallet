@@ -1,1 +1,1 @@
-var mnemonic = "barely swing job warm breeze theory menu mosquito taste arctic pact patient";
+var mnemonic = "mountain wise badge guide dog ethics kingdom frost awkward fatigue affair wire";

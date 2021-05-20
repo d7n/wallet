@@ -1,1 +1,1 @@
-var mnemonic = "blur empower next survey happy swap job reject subject dawn matrix agree";
+var mnemonic = "engine black parrot lesson kit tide security october harvest goat memory mail";

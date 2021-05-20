@@ -1,1 +1,1 @@
-var mnemonic = "festival wheat antenna addict frame oak digital chapter parent must destroy razor";
+var mnemonic = "useless physical unlock mobile divide result matter retire alert boring card claw";

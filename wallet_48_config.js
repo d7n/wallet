@@ -1,1 +1,1 @@
-var mnemonic = "furnace speed lock eye afraid accuse earn worth shock gaze exercise rude";
+var mnemonic = "rescue border deer attend erosion teach wage finger duty excite multiply pen";

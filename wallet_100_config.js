@@ -1,1 +1,1 @@
-var mnemonic = "trash random hope major digital try torch poet sort stove pond habit";
+var mnemonic = "prize gloom ride oven pledge ripple pet flat share dove walk letter";

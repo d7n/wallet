@@ -1,1 +1,1 @@
-var mnemonic = "sort supply practice skin young gesture there crumble situate taste today radio";
+var mnemonic = "country quantum trap hire vital inmate model merry toast noble lazy enable";

@@ -1,1 +1,1 @@
-var mnemonic = "kit approve educate tooth virus peace fitness gas settle twenty explain help";
+var mnemonic = "jaguar garment loan virus flee convince exercise clever lecture draw security love";

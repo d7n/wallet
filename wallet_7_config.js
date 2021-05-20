@@ -1,1 +1,1 @@
-var mnemonic = "reject differ shift chair upper chuckle pepper gown weird strategy fee odor";
+var mnemonic = "quiz fever universe cave jewel crawl neither tourist test health menu chief";

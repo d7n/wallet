@@ -1,1 +1,1 @@
-var mnemonic = "crumble crumble vapor deer nephew deny wrong problem bike chimney elephant camera";
+var mnemonic = "shift uncle reward relax milk stereo gloom manual never aunt flavor else";

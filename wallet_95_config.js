@@ -1,1 +1,1 @@
-var mnemonic = "era defy dad flower canvas pluck monkey series garbage mule wish lizard";
+var mnemonic = "universe chronic ivory theory agree add chalk elite coin violin library blind";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm alien brisk slab birth coffee render journey license able six auto";
+var mnemonic = "orient mean casual present remember toe bunker movie shoe urge rural defy";

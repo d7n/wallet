@@ -1,1 +1,1 @@
-var mnemonic = "entry later merge explain actress olive season slide tornado awesome quarter cousin";
+var mnemonic = "much quit urban wealth only corn that pretty electric crisp village original";

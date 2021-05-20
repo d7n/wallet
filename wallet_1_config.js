@@ -1,1 +1,1 @@
-var mnemonic = "tortoise journey blossom couple victory cost indicate chunk marble scene burger run";
+var mnemonic = "exit master mention stadium truly liquid nose elegant script brown olive toy";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch carry cloth setup foot romance way wasp stomach tone end defense";
+var mnemonic = "desert fat road attack canal human mansion weird olympic name debris horror";

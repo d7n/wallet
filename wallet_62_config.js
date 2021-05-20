@@ -1,1 +1,1 @@
-var mnemonic = "globe iron medal foster palace aspect chat degree dawn sure also achieve";
+var mnemonic = "suspect athlete absent episode near robot van fitness green legend galaxy drive";

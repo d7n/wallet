@@ -1,1 +1,1 @@
-var mnemonic = "melody frequent notice oblige now oval shuffle crunch large night omit phrase";
+var mnemonic = "tooth traffic sign giraffe hurdle exchange recall belt dinosaur wrist light pond";

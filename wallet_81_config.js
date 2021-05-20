@@ -1,1 +1,1 @@
-var mnemonic = "final any congress swim traffic giraffe chicken equal broccoli evil target seat";
+var mnemonic = "april athlete goat reform scout tomorrow beauty smooth fit harbor million hope";

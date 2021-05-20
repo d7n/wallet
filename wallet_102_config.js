@@ -1,1 +1,1 @@
-var mnemonic = "service hello scheme distance oval dial scan mom tent coil office tennis";
+var mnemonic = "step witness regret idle upgrade marble crime kingdom loud cannon dog edge";

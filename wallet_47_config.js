@@ -1,1 +1,1 @@
-var mnemonic = "off prepare skirt path fabric remind sure patrol valve west enter mechanic";
+var mnemonic = "trend churn patrol invest various sad this sell omit twenty hair gift";

@@ -1,1 +1,1 @@
-var mnemonic = "slice radio jeans honey wave mechanic surround arch enrich blossom pair since";
+var mnemonic = "survey toe three swift once mushroom praise helmet laundry fancy acquire edit";

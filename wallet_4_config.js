@@ -1,1 +1,1 @@
-var mnemonic = "sadness local skate street swing resemble thunder uncle enemy congress bachelor group";
+var mnemonic = "hard scare funny chuckle vocal runway unusual wide art drop cruel chronic";

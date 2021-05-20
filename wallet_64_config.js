@@ -1,1 +1,1 @@
-var mnemonic = "egg aware ability sell also opera parrot spot decrease catch gorilla fatigue";
+var mnemonic = "ridge enough chase duty runway bright budget give forward that approve salt";

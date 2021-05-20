@@ -1,1 +1,1 @@
-var mnemonic = "foster achieve grid keen plug daring athlete input caution chair peace rule";
+var mnemonic = "crazy relief hair electric jeans entry chase good bless team occur hold";

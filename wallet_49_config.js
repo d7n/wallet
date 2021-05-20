@@ -1,1 +1,1 @@
-var mnemonic = "radar omit hen sword useful fossil hard wife minimum palace game body";
+var mnemonic = "goddess front usage fence hockey record series capable decide cash enforce rail";

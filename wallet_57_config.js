@@ -1,1 +1,1 @@
-var mnemonic = "fitness human fresh sauce surprise garden mad tip exile south knock balcony";
+var mnemonic = "net circle glory panther fiction addict mercy female basic valid claw borrow";

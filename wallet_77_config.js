@@ -1,1 +1,1 @@
-var mnemonic = "marine laundry pen ramp cigar daring tiny board humor era wild picnic";
+var mnemonic = "together exclude finger squirrel unable short world wish galaxy garbage dinner style";

@@ -1,1 +1,1 @@
-var mnemonic = "stage suggest cube still egg cattle ripple manual disorder amount bag juice";
+var mnemonic = "safe humor race own group copy speak orient open peace equip lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "equip speed crowd key monitor space fox faint tumble recycle layer across";
+var mnemonic = "artwork gallery cement patch tail planet damage virus card trigger quick enhance";

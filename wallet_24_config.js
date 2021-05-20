@@ -1,1 +1,1 @@
-var mnemonic = "barely ladder spoon raw taste key decade nothing nephew must cost snap";
+var mnemonic = "flush demand middle spice weasel tomato grit regular seven remember proof kind";

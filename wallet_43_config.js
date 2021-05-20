@@ -1,1 +1,1 @@
-var mnemonic = "inmate stage captain cool lock ski cause outside laugh shed small make";
+var mnemonic = "top ketchup hole identify room fine attend face defense orient spin result";

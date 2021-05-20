@@ -1,1 +1,1 @@
-var mnemonic = "pride force debate depth fault alley segment feed inflict expose trouble salad";
+var mnemonic = "dad ice hen van machine farm ring sibling eyebrow feature bus road";

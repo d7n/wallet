@@ -1,1 +1,1 @@
-var mnemonic = "fiction system mention trip border resemble one divide dutch gloom afford bread";
+var mnemonic = "burger velvet polar chair illegal uphold inside toy accuse census solution box";

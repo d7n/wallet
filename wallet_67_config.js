@@ -1,1 +1,1 @@
-var mnemonic = "brave start obvious smile radio resource trigger addict orange sight empower cargo";
+var mnemonic = "trend broom able apart street mechanic unfold run arena observe session escape";

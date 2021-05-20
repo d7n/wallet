@@ -1,1 +1,1 @@
-var mnemonic = "parade vault ability pottery vague rocket skate spike happy file extra twice";
+var mnemonic = "syrup purchase access artwork comfort wool sort skirt pole frequent hub feel";

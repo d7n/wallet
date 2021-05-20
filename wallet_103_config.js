@@ -1,1 +1,1 @@
-var mnemonic = "butter kiss manual abstract orchard sauce save buzz safe shoe horse race";
+var mnemonic = "elbow need ticket genre deny gap either object life huge behind clay";

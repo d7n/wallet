@@ -1,1 +1,1 @@
-var mnemonic = "invite youth wrong blame monitor comfort can describe dentist goat chef reason";
+var mnemonic = "minor soon talk forest make depth brand bright main remind festival habit";

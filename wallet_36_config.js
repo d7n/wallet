@@ -1,1 +1,1 @@
-var mnemonic = "home caught tonight loop copy around book vibrant burden hen hamster hotel";
+var mnemonic = "slam alcohol elegant pass right sick flash joke segment menu sun deer";

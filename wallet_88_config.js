@@ -1,1 +1,1 @@
-var mnemonic = "street nose dirt garbage picnic learn impose tone situate surround tuna toddler";
+var mnemonic = "crush length truly visa horn large stage festival chunk mesh job voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "planet board edit balance dizzy stand comfort change team travel project report";
+var mnemonic = "meadow fame rich harbor isolate energy firm glad shrug spatial guilt clerk";

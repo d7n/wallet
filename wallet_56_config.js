@@ -1,1 +1,1 @@
-var mnemonic = "midnight arena bullet planet matrix toward region size frost aspect title mango";
+var mnemonic = "knife monkey notable answer patient hope snap rotate fault later science just";

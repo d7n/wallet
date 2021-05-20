@@ -1,1 +1,1 @@
-var mnemonic = "dial entire mixture snack cluster welcome guide shed enhance range rural dilemma";
+var mnemonic = "topic pelican flash diet hidden core board ice forward system crawl skin";

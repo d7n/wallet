@@ -1,1 +1,1 @@
-var mnemonic = "welcome honey cattle hover someone quantum unusual intact rather copy labor cook";
+var mnemonic = "promote expose junk exotic inquiry laundry bleak keep olive among income shiver";

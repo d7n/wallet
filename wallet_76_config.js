@@ -1,1 +1,1 @@
-var mnemonic = "kiss hurt kind error smile spy deputy twelve net comic chalk gadget";
+var mnemonic = "story hip leave lumber cake welcome lawsuit plastic puppy pave juice raven";

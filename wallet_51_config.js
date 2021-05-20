@@ -1,1 +1,1 @@
-var mnemonic = "finish cluster warm treat monitor camera hope draft swim trick pepper view";
+var mnemonic = "put heart noble merry verify fringe exile mother horse company praise theme";

@@ -1,1 +1,1 @@
-var mnemonic = "flock book trade unknown plate sleep satoshi doll evolve recycle route little";
+var mnemonic = "romance grow very busy valley indicate laugh genuine final board unfold scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "vote net fence old concert field pull stomach tent vocal give champion";
+var mnemonic = "title bench effort valve never gun pen paper short picture build upon";

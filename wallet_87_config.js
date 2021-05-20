@@ -1,1 +1,1 @@
-var mnemonic = "earn success tag spatial earth limb drip circle bulk raven glow flash";
+var mnemonic = "empty chase view better history bus rhythm torch clarify depend digital firm";

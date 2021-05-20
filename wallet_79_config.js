@@ -1,1 +1,1 @@
-var mnemonic = "shoe child cart egg police potato swap poet genuine worth taxi future";
+var mnemonic = "shiver forum canal minor airport expand artwork waste smooth alley crane slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "route joy leisure onion parade exact pudding today gloom mutual lobster twelve";
+var mnemonic = "alone oyster aerobic candy comic glue small avocado saddle plastic aim room";

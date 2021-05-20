@@ -1,1 +1,1 @@
-var mnemonic = "useful snack follow pizza icon begin useless labor safe pioneer upset correct";
+var mnemonic = "day off track lock mad action vintage deal tape paddle try renew";

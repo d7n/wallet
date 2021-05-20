@@ -1,1 +1,1 @@
-var mnemonic = "matter grant age husband sea occur maple item forum know kite opera";
+var mnemonic = "agree path foster rescue next humor record dutch mistake sudden atom mercy";

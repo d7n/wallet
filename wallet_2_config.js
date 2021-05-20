@@ -1,1 +1,1 @@
-var mnemonic = "scene snake raccoon trim ramp pole gift blade parent twin pizza drink";
+var mnemonic = "wedding impose veteran ring wheat angry breeze insect excuse struggle receive wealth";

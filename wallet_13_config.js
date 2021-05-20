@@ -1,1 +1,1 @@
-var mnemonic = "hurry voice figure endorse medal way edge elder ramp universe crouch era";
+var mnemonic = "indoor jungle match city crane tribe middle trip idea laugh mention angry";

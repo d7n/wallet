@@ -1,1 +1,1 @@
-var mnemonic = "wedding airport acoustic club category robot frost fly member layer tail trash";
+var mnemonic = "gorilla robot damp total pen recycle raven tomorrow rule ride adjust midnight";

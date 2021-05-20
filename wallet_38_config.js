@@ -1,1 +1,1 @@
-var mnemonic = "when chicken guard kiwi write mercy tuition wine buddy napkin ankle smooth";
+var mnemonic = "key vacuum blood nation pupil forest fun almost control magnet proof loud";

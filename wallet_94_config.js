@@ -1,1 +1,1 @@
-var mnemonic = "upon already devote boat token enroll useless behave holiday shaft cube cousin";
+var mnemonic = "zoo bread fuel blur wagon rally resource inject pear acoustic swear crush";

@@ -1,1 +1,1 @@
-var mnemonic = "agree mom brain december shaft lecture exercise icon seed switch crop fish";
+var mnemonic = "senior lyrics gown patrol still woman early move wise warm income drip";

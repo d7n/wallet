@@ -1,1 +1,1 @@
-var mnemonic = "relax ship item photo exile shrimp naive lecture nasty depend journey glove";
+var mnemonic = "remove shield detail blur left nurse jump milk kitten enhance focus lonely";

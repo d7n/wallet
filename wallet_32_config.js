@@ -1,1 +1,1 @@
-var mnemonic = "suffer solid cactus fatigue olympic media coin stomach sustain sign empty moon";
+var mnemonic = "lab turkey puppy scrub pudding bright cattle fold egg sibling vendor similar";

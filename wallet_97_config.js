@@ -1,1 +1,1 @@
-var mnemonic = "bar slice antenna arrange dress energy code noble nasty bridge wave club";
+var mnemonic = "cheap describe jungle volume trip kangaroo corn garden wonder school crouch river";

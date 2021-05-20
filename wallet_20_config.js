@@ -1,1 +1,1 @@
-var mnemonic = "enact funny wish oyster fire audit spring gown burst artefact flock pizza";
+var mnemonic = "refuse vintage actual breeze work wood hip section wild talk net legal";

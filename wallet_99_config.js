@@ -1,1 +1,1 @@
-var mnemonic = "lawn army vehicle tissue lizard energy right parrot faint fault exclude bone";
+var mnemonic = "age clip gain cry marriage phone ivory depend predict slice witness library";

@@ -1,1 +1,1 @@
-var mnemonic = "have half tornado human combine window benefit erosion horse robust matter movie";
+var mnemonic = "wise riot inflict blast rare test month potato moon hill sister sponsor";

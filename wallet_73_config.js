@@ -1,1 +1,1 @@
-var mnemonic = "time hollow crew film actor useful radar liberty nerve typical degree either";
+var mnemonic = "pride island legend initial finger token ranch goose hammer gossip finger puzzle";

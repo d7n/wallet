@@ -1,1 +1,1 @@
-var mnemonic = "impact acid regular relief silent maid among core around security glance nerve";
+var mnemonic = "peace shaft refuse nurse color tomorrow rural enrich gorilla slow congress join";

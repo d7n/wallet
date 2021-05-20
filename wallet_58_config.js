@@ -1,1 +1,1 @@
-var mnemonic = "improve drift entry keen roast voice found survey valve shield satisfy title";
+var mnemonic = "seminar walk whale hawk leopard copper useful arch foot call item share";

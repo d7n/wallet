@@ -1,1 +1,1 @@
-var mnemonic = "lunch fitness fatigue school disease second cost ignore labor then mass palm";
+var mnemonic = "dinosaur senior tenant side random shrug coconut pull hammer garment laundry machine";

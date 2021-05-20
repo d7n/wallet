@@ -1,1 +1,1 @@
-var mnemonic = "card secret spoon melt right math people sugar capital south urban east";
+var mnemonic = "essence leave rubber dinosaur bubble shop talent one poet announce broccoli stone";

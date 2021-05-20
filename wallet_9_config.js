@@ -1,1 +1,1 @@
-var mnemonic = "uphold focus puzzle brief smart trend divert dune pen manual broken over";
+var mnemonic = "broom wedding solution spray race milk lyrics fringe insect cloud picnic bunker";

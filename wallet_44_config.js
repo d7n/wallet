@@ -1,1 +1,1 @@
-var mnemonic = "admit ability tank shock plunge young stool basket shoot design hungry write";
+var mnemonic = "impose update flip sunset raw pledge retire surprise pretty kingdom father maximum";

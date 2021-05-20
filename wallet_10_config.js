@@ -1,1 +1,1 @@
-var mnemonic = "royal program shoot object husband abstract novel solve sense bottom grunt social";
+var mnemonic = "today video extra heavy chief knock envelope urban trust outer vintage give";

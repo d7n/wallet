@@ -1,1 +1,1 @@
-var mnemonic = "code honey wheel spoon tip hour point crunch edit hen bracket nuclear";
+var mnemonic = "knee spy sheriff require mule one install cigar broken analyst hour brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "small dose foam say vanish main device volume pet brain evil alcohol";
+var mnemonic = "spike yard fiber like color behave theme under fresh cycle trick team";

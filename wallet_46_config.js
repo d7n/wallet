@@ -1,1 +1,1 @@
-var mnemonic = "purse tobacco verb wait lunch unusual echo cotton across turn route usage";
+var mnemonic = "leg giraffe expose dismiss old million any already reason wish radio floor";

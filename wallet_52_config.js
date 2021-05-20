@@ -1,1 +1,1 @@
-var mnemonic = "crush segment walnut practice lawn scrub joy flock better ankle jazz soccer";
+var mnemonic = "tilt glow advance behind proud kitten scene soft firm useful bitter inspire";

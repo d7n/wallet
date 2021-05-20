@@ -1,1 +1,1 @@
-var mnemonic = "blade wall toilet girl bar cricket vote festival finish priority identify thought";
+var mnemonic = "inquiry giant quality physical kite dumb castle refuse approve cement vintage digital";

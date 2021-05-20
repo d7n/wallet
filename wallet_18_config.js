@@ -1,1 +1,1 @@
-var mnemonic = "pulp pet erase trick six allow zone flush agree stadium account fabric";
+var mnemonic = "file butter hurdle virtual ahead artwork swap equal enhance muscle calm surround";

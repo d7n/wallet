@@ -1,1 +1,1 @@
-var mnemonic = "cliff evoke shrimp olympic where neither prepare supply circle hundred mechanic room";
+var mnemonic = "local foam front caution dance tide thumb ice crystal sea runway affair";
