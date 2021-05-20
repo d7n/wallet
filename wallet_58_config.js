@@ -1,1 +1,1 @@
-var mnemonic = "protect tackle clever donor boy mobile buffalo lumber volcano sail envelope monster";
+var mnemonic = "display wrestle orphan protect town fossil cram vote nature area laptop drift";

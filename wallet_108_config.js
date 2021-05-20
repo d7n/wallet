@@ -1,1 +1,1 @@
-var mnemonic = "trumpet agent galaxy cross blast hurt harvest merge noodle volcano major borrow";
+var mnemonic = "palm sound prevent clip decorate cram stone almost ill forget hole expire";

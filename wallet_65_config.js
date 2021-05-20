@@ -1,1 +1,1 @@
-var mnemonic = "check poem easy nuclear famous subject right dizzy sound critic unique tuition";
+var mnemonic = "person route almost elevator dice anxiety drift push arrive change swing meadow";

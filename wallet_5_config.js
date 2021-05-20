@@ -1,1 +1,1 @@
-var mnemonic = "similar absent quick farm snack bid palace festival two source trumpet joke";
+var mnemonic = "phone treat clown dream syrup shaft invite hospital weather during young sell";

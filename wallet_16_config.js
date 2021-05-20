@@ -1,1 +1,1 @@
-var mnemonic = "very release gauge inside ability spoon crystal will melt chest main sea";
+var mnemonic = "ticket powder predict perfect ketchup miss leisure hill basic mixture huge crumble";

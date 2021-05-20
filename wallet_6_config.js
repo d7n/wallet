@@ -1,1 +1,1 @@
-var mnemonic = "victory foam expect input iron enlist notable one document worth advance gasp";
+var mnemonic = "lend famous concert account either jewel lottery sight device below solve wire";

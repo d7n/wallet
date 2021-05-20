@@ -1,1 +1,1 @@
-var mnemonic = "topple truck elephant cluster town melt inform debris depart inmate festival layer";
+var mnemonic = "tonight cancel infant light inherit capital dawn soft degree ill security drastic";

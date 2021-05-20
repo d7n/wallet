@@ -1,1 +1,1 @@
-var mnemonic = "elegant keen all group range miracle security ring pole reopen kitchen walnut";
+var mnemonic = "business episode prison sunset bid design palm second tennis almost desert acoustic";

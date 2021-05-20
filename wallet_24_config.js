@@ -1,1 +1,1 @@
-var mnemonic = "average tattoo shy turtle urge accident tape save test check gospel west";
+var mnemonic = "laundry victory enjoy pupil corn sad ramp adult file alien news forget";

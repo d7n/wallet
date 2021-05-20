@@ -1,1 +1,1 @@
-var mnemonic = "demise auction pluck poverty ugly dad observe indoor filter trumpet pen primary";
+var mnemonic = "sea arch uncle right when rigid match excuse thought sponsor moment one";

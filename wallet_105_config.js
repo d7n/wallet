@@ -1,1 +1,1 @@
-var mnemonic = "ball clever figure august lunar clerk hub execute chase doll praise merge";
+var mnemonic = "lady proof special decrease marble sphere bird laptop law acquire bulb edit";

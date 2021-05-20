@@ -1,1 +1,1 @@
-var mnemonic = "rib artist merge reform cable scene script cabbage neither loop urge radar";
+var mnemonic = "mass catch host subject shoe south tumble check spoon gather frozen wood";

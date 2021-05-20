@@ -1,1 +1,1 @@
-var mnemonic = "feel clump file oppose believe scare pulp physical above patrol similar fiber";
+var mnemonic = "accident frozen cheap record mix under dish crime east begin exile sun";

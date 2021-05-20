@@ -1,1 +1,1 @@
-var mnemonic = "sustain powder bicycle hawk toilet swap forward ignore shed sleep blade distance";
+var mnemonic = "build gauge minute garden math protect outside ordinary hobby motor know column";

@@ -1,1 +1,1 @@
-var mnemonic = "teach make around invite answer furnace armed cable rice warfare gasp renew";
+var mnemonic = "burden laundry parrot alley club monkey gloom desk nuclear around weasel excess";

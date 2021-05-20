@@ -1,1 +1,1 @@
-var mnemonic = "boat fitness bulb dismiss detect jewel across bulb control manage figure panel";
+var mnemonic = "network kit awful nasty drip joke clip foam opera feed find cliff";

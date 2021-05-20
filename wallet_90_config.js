@@ -1,1 +1,1 @@
-var mnemonic = "napkin attend century sort voyage sure offer manage velvet rapid speak parade";
+var mnemonic = "talent size flame secret debate lens soap hub goose believe butter conduct";

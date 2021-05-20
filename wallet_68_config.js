@@ -1,1 +1,1 @@
-var mnemonic = "fee census wedding state amused inspire such connect asset vital fiber dad";
+var mnemonic = "object segment diet glue donate yard aware climb gas fun lens tank";

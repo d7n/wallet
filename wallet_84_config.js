@@ -1,1 +1,1 @@
-var mnemonic = "mutual drift trip fade skull congress pull bonus great thrive sound dirt";
+var mnemonic = "matter artwork before crisp donor comic check mirror inform often portion clump";

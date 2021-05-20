@@ -1,1 +1,1 @@
-var mnemonic = "ignore pulse mixed worth remove leave cook brother brief staff lesson velvet";
+var mnemonic = "lesson panda heavy license human drill develop marriage force income blind filter";

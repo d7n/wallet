@@ -1,1 +1,1 @@
-var mnemonic = "divert index equal patch upset bread embrace one flock envelope autumn suit";
+var mnemonic = "base verb neutral picnic sauce bench write lucky genre shuffle attend machine";

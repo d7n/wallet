@@ -1,1 +1,1 @@
-var mnemonic = "grunt know argue bachelor add despair alter pig amateur flash chunk avocado";
+var mnemonic = "nephew twist fantasy lucky artefact aim unhappy horse title start improve grow";

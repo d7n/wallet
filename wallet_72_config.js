@@ -1,1 +1,1 @@
-var mnemonic = "drastic actual bus bridge peasant rural damp powder glide dirt divorce sport";
+var mnemonic = "drip fitness rapid evoke sail dial neglect neither glide comic mixed right";

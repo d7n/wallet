@@ -1,1 +1,1 @@
-var mnemonic = "dolphin civil glove snap hello zone universe order differ dad west team";
+var mnemonic = "truth scissors lamp indoor cake keen discover unaware under debate biology depend";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot kangaroo kit drama such skill keep wild first disease metal animal";
+var mnemonic = "cool auction soda angry gesture plunge secret forum fatigue toe scare swim";

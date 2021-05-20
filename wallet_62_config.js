@@ -1,1 +1,1 @@
-var mnemonic = "apology mad choose lyrics moon entry royal hero anchor become lonely nephew";
+var mnemonic = "fame fan range will twenty direct loud ladder autumn moon network fork";

@@ -1,1 +1,1 @@
-var mnemonic = "repair climb stomach victory still whale forest melody subway jacket melt reduce";
+var mnemonic = "bounce brisk climb razor often bar alarm prison script civil measure person";

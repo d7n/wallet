@@ -1,1 +1,1 @@
-var mnemonic = "safe magic arm risk ordinary dynamic brush neither bar scatter gas burger";
+var mnemonic = "inmate state victory lemon sphere tobacco mercy poet tonight fetch humble rather";

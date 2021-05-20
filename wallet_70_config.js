@@ -1,1 +1,1 @@
-var mnemonic = "attitude dilemma rely cruel promote afford inmate link left switch build below";
+var mnemonic = "south purchase tribe mango deposit scheme sister shoot quote sad case spray";

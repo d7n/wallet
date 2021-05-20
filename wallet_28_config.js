@@ -1,1 +1,1 @@
-var mnemonic = "cushion prepare brass eye birth wide drink post dilemma gorilla coral staff";
+var mnemonic = "exit grit diary van inmate flee violin okay wash protect extra penalty";

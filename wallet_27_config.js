@@ -1,1 +1,1 @@
-var mnemonic = "blame setup length pony canal multiply tragic evidence snow trade latin pave";
+var mnemonic = "kitten unfold suit awesome thought system oblige flat reopen parent rather adjust";

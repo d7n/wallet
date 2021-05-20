@@ -1,1 +1,1 @@
-var mnemonic = "empty trim boat pretty bleak move divert gold stem physical thing allow";
+var mnemonic = "salad slot tired coyote clerk syrup august fan mercy depth planet luggage";

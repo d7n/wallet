@@ -1,1 +1,1 @@
-var mnemonic = "network hidden balcony melody harsh target local small loop system cause bubble";
+var mnemonic = "school bacon pledge gate novel forget mobile miss flee soon follow anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle hard connect garbage green blossom knock know female demand wire symptom";
+var mnemonic = "isolate patch battle palace enough lock summer design manual behind sense pact";

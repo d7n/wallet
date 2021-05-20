@@ -1,1 +1,1 @@
-var mnemonic = "hair glance also quit helmet stereo mule poem cluster skate clip average";
+var mnemonic = "apology wait maid pumpkin flock country find panda sick path equal require";

@@ -1,1 +1,1 @@
-var mnemonic = "lend share across truth either frown mind garment eyebrow nominee dance gorilla";
+var mnemonic = "body token orphan arctic cross employ marine target wild beach era federal";

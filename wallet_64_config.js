@@ -1,1 +1,1 @@
-var mnemonic = "ordinary sponsor member loud outside chronic maze drink flee elder buyer convince";
+var mnemonic = "outdoor tennis lady use present alcohol scorpion network force twice pact test";

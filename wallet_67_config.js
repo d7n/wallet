@@ -1,1 +1,1 @@
-var mnemonic = "congress enact nest welcome crash pitch across lift sick fresh place dentist";
+var mnemonic = "divert label machine siren soup champion pause tomato attract rubber raise long";

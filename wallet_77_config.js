@@ -1,1 +1,1 @@
-var mnemonic = "ordinary remove crucial limit ability reform brain access access oil tree valid";
+var mnemonic = "foot tooth gaze pistol sail gym sentence merge brave release ability response";

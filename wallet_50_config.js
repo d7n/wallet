@@ -1,1 +1,1 @@
-var mnemonic = "general plug address network pull mercy coconut digital screen shine frequent subject";
+var mnemonic = "decline fantasy indicate gym owner attract wreck fragile enact tennis butter sniff";

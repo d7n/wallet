@@ -1,1 +1,1 @@
-var mnemonic = "wash unable pole craft coral when eight festival else whisper teach trash";
+var mnemonic = "lawsuit venture brass grid fever myth relief gentle expose family slab spin";

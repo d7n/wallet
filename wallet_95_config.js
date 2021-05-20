@@ -1,1 +1,1 @@
-var mnemonic = "sadness mechanic shoot ghost lab apart gap proud anger custom better ahead";
+var mnemonic = "addict general display token scare write brother nephew theme average latin name";

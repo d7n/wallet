@@ -1,1 +1,1 @@
-var mnemonic = "cave addict exist rare surround maple city arrest frame upgrade typical poem";
+var mnemonic = "math divide enact hurry blouse noble alter clown aisle install gold travel";

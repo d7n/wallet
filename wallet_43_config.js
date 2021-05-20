@@ -1,1 +1,1 @@
-var mnemonic = "exotic coyote butter swear laundry walk drink ice lawn lava cabin again";
+var mnemonic = "car social display age strike helmet follow smoke poverty vacuum youth blade";

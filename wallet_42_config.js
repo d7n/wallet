@@ -1,1 +1,1 @@
-var mnemonic = "govern bring arrive blanket super confirm breeze fly almost among buddy acid";
+var mnemonic = "gas gauge soccer guess quantum symptom supreme throw citizen very chalk tilt";

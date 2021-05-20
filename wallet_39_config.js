@@ -1,1 +1,1 @@
-var mnemonic = "there floor vague budget airport crawl acquire invest keep protect fault fuel";
+var mnemonic = "unusual hover dad join smooth cover cereal where bunker trophy movie love";

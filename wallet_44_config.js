@@ -1,1 +1,1 @@
-var mnemonic = "short glue addict grape staff certain know warfare cloud exhibit illegal trigger";
+var mnemonic = "behave wing edge forget tell swift wife retire wild genius initial uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "zero parade weather shallow worry solve mix float month eager ship napkin";
+var mnemonic = "canoe choose critic claw like frequent globe thunder pepper clever purchase course";

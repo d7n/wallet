@@ -1,1 +1,1 @@
-var mnemonic = "near regret knife pulp body neglect client govern burst indoor small mixed";
+var mnemonic = "club people skin eyebrow change eager top mom jelly will become permit";

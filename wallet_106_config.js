@@ -1,1 +1,1 @@
-var mnemonic = "novel play ugly fame glide lend virus broom census rival february twelve";
+var mnemonic = "library bag circle arrow claim body purity over hammer tray combine jelly";

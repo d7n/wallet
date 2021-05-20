@@ -1,1 +1,1 @@
-var mnemonic = "dolphin ask company reform fit sudden police meat pill poverty clarify point";
+var mnemonic = "hand cup mammal kiwi genre run safe number apple gorilla usual muffin";

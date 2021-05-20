@@ -1,1 +1,1 @@
-var mnemonic = "pair clever suit stool fly vocal exist captain danger blood front bar";
+var mnemonic = "spoon license melt live deny item tube economy diamond organ life wet";

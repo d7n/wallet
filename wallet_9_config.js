@@ -1,1 +1,1 @@
-var mnemonic = "envelope truck bench forward clog jealous valid there range divide frost lonely";
+var mnemonic = "merry thumb distance major aerobic render blind grain clarify faculty soft still";

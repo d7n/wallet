@@ -1,1 +1,1 @@
-var mnemonic = "solid rather limb turkey increase eternal vault save misery found during draft";
+var mnemonic = "stumble crunch filter behind cloud syrup fork father jaguar hunt receive cave";

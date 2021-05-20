@@ -1,1 +1,1 @@
-var mnemonic = "mention weekend negative person omit again bunker stock solid pause zone collect";
+var mnemonic = "jealous unable kangaroo video effort picture lemon fix defy mutual maid chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "unable rice ketchup camp normal exit lunar lamp sport sketch blast clever";
+var mnemonic = "lift follow else globe tent story team lesson donor practice return valve";

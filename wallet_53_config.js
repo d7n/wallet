@@ -1,1 +1,1 @@
-var mnemonic = "steel lazy food decline please burger insane boss smart fine length harvest";
+var mnemonic = "dog friend layer float moment fringe nest unique lounge area venture feed";

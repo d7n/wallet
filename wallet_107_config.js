@@ -1,1 +1,1 @@
-var mnemonic = "begin rubber analyst proof renew panda scan math vital ring media meadow";
+var mnemonic = "mobile battle duck stadium foam whisper spot already video bulb same kitchen";

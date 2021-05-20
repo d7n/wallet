@@ -1,1 +1,1 @@
-var mnemonic = "abandon organ biology woman next intact impact multiply cash abuse prison space";
+var mnemonic = "december daring snow fiber celery trap hybrid spring brain stem oppose human";

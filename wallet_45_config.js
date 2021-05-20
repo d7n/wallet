@@ -1,1 +1,1 @@
-var mnemonic = "family debate used else effort story piece wet three subject original goddess";
+var mnemonic = "security route planet install health sell label seat chase palace fine job";

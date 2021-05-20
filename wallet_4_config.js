@@ -1,1 +1,1 @@
-var mnemonic = "recycle rose oven trend attitude vague enrich skate frequent penalty salt already";
+var mnemonic = "chimney matrix garage require spare visual blame blue like issue property scrap";

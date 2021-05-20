@@ -1,1 +1,1 @@
-var mnemonic = "mention rebuild clay device assume chase blanket danger siren gorilla clay neglect";
+var mnemonic = "strategy chicken notice yellow exact leader sell oil rather whisper include layer";

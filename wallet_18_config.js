@@ -1,1 +1,1 @@
-var mnemonic = "enroll young appear exhaust vital edge act vital catalog news crazy scout";
+var mnemonic = "box direct window emerge equal clerk proof friend broken wash salon offer";

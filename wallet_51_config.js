@@ -1,1 +1,1 @@
-var mnemonic = "mind garment damage pumpkin stuff total sail digital this interest burden strong";
+var mnemonic = "tank mouse left zebra nerve quick skull absent forum alarm shallow already";

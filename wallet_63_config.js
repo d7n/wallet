@@ -1,1 +1,1 @@
-var mnemonic = "employ glow happy quarter fever hurt rival between stereo question faculty legend";
+var mnemonic = "appear ancient laundry adult grow orange visit grief canyon genre problem paddle";

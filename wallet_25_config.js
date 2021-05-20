@@ -1,1 +1,1 @@
-var mnemonic = "guess pelican good endless remove pistol recipe bone fluid ritual common suffer";
+var mnemonic = "wolf joy little misery farm nominee clog verb brass head quarter rubber";

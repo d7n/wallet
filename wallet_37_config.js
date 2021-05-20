@@ -1,1 +1,1 @@
-var mnemonic = "subway pill inherit moment cart hire iron source exclude engage step dune";
+var mnemonic = "december grace cash exist target attitude use profit update athlete service swap";

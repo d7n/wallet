@@ -1,1 +1,1 @@
-var mnemonic = "staff gun country swallow deny paddle work guard silly under moral danger";
+var mnemonic = "fashion million receive rack party slogan render clerk script boss laptop impulse";

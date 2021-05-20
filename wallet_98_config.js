@@ -1,1 +1,1 @@
-var mnemonic = "milk chef above gauge novel dose sadness assist deny material step rebuild";
+var mnemonic = "pyramid century poem obvious betray fitness infant together giggle brave angle cloud";

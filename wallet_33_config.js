@@ -1,1 +1,1 @@
-var mnemonic = "glove friend flee truly sugar practice donkey tissue bless vague share toddler";
+var mnemonic = "shock hurt suit today cannon tissue chef vapor fiscal myself pill absent";

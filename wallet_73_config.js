@@ -1,1 +1,1 @@
-var mnemonic = "gate tent credit dumb reunion master bullet witness mail remove wedding indicate";
+var mnemonic = "race estate flee old arena cement life festival skill garment caution fire";

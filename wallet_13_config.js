@@ -1,1 +1,1 @@
-var mnemonic = "level shy tonight kitchen fit mesh pull two alien faculty tourist shield";
+var mnemonic = "vendor base lift essay add endless sense mandate exercise define vague bean";

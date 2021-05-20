@@ -1,1 +1,1 @@
-var mnemonic = "volcano pride dash model boss drama potato salon guide estate vital dress";
+var mnemonic = "grant open sphere leisure junk large tag bless scan unusual credit blanket";

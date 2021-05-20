@@ -1,1 +1,1 @@
-var mnemonic = "tank step sword outdoor always tent myth myself state december clock bird";
+var mnemonic = "any lock tape absurd powder local country horn goat debate thunder ecology";

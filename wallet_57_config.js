@@ -1,1 +1,1 @@
-var mnemonic = "this label town boost dog method valid sunset rural okay world sound";
+var mnemonic = "ethics taste beyond desert damage ancient state jacket crisp diary fantasy broken";

@@ -1,1 +1,1 @@
-var mnemonic = "burger tiny sword team update unique wreck august erosion atom earn review";
+var mnemonic = "message glad faculty cereal truck garage nothing airport twenty van brain bitter";

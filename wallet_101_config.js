@@ -1,1 +1,1 @@
-var mnemonic = "balcony brother village cross absent shuffle concert caution reward move miss train";
+var mnemonic = "father foot combine smart one decade picture same modify horror language job";

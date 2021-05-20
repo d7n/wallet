@@ -1,1 +1,1 @@
-var mnemonic = "tree stick fish access maximum exact output brush crew diamond ankle pupil";
+var mnemonic = "marriage raven blame maximum expose inside turkey apology model casual remain fence";

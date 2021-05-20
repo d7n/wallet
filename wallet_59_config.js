@@ -1,1 +1,1 @@
-var mnemonic = "tower awesome trip kite kidney decade salmon lava rich glove tilt lock";
+var mnemonic = "height ugly basic system unusual sniff among little reward movie entry bottom";

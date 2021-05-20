@@ -1,1 +1,1 @@
-var mnemonic = "enact begin winner neither please write reunion sand water unfair drama trouble";
+var mnemonic = "steak strategy grant tray alter busy moral fortune yellow weird require panda";

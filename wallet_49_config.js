@@ -1,1 +1,1 @@
-var mnemonic = "present success blast rather hub deer siege nose leg neck game master";
+var mnemonic = "never husband solution soon asthma access chapter garden dragon stove burger prize";

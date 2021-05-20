@@ -1,1 +1,1 @@
-var mnemonic = "mother become behave festival switch rude exclude embrace sound photo magnet stock";
+var mnemonic = "monitor bottom gospel boy loop frown vessel stool laugh trash dress menu";

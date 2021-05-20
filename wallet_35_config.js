@@ -1,1 +1,1 @@
-var mnemonic = "nation second tide eternal obey winner scan blossom wet list supreme uncover";
+var mnemonic = "weekend chuckle urban sport drastic tool drive basic alpha identify cable heavy";

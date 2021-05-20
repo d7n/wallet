@@ -1,1 +1,1 @@
-var mnemonic = "section wasp supply truck essay man job denial invest meadow timber twist";
+var mnemonic = "hat industry become police soon sick arrange trend snow history crew monster";
