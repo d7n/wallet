@@ -1,1 +1,1 @@
-var mnemonic = "roof flee picnic cook vapor before identify away miss segment recipe repair";
+var mnemonic = "salute pottery enroll cigar ready prosper assume tissue glad hurry citizen nature";

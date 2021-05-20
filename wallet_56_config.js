@@ -1,1 +1,1 @@
-var mnemonic = "skirt evil pull attend noble insane alley dune whisper crash emotion bus";
+var mnemonic = "deny mass dismiss suit nasty garage minute behave scatter slam essence library";

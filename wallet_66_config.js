@@ -1,1 +1,1 @@
-var mnemonic = "atom print boost strategy feature author test olive vendor frequent spirit habit";
+var mnemonic = "ribbon walk music find bracket state awful often giggle utility error invite";

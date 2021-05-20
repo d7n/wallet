@@ -1,1 +1,1 @@
-var mnemonic = "act horror liberty final code pen portion trash eternal reason tackle plate";
+var mnemonic = "jazz mystery borrow multiply true unaware reflect judge lift snap flat question";

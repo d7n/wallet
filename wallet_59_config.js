@@ -1,1 +1,1 @@
-var mnemonic = "vanish lazy same begin faint engine toe tent cute accident cat snack";
+var mnemonic = "solar deposit solution cruise match cherry setup miracle flight subject open any";

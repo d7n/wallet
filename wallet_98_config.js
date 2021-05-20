@@ -1,1 +1,1 @@
-var mnemonic = "mammal tape august lawn execute behind crater strategy clinic depart awesome fun";
+var mnemonic = "they sport neutral slow piano pluck science trick forward gym blame laugh";

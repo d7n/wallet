@@ -1,1 +1,1 @@
-var mnemonic = "violin bike syrup brass gravity sleep force easy alter medal coil slogan";
+var mnemonic = "all derive electric quit spoon canyon liberty unlock humor fruit march scheme";

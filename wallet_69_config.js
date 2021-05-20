@@ -1,1 +1,1 @@
-var mnemonic = "clutch jewel prosper hub enhance pride lawsuit child mouse mansion aspect good";
+var mnemonic = "empty tent logic raw later attend wine tent firm spatial grief into";

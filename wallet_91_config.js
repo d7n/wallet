@@ -1,1 +1,1 @@
-var mnemonic = "filter tube cute alarm citizen notice warrior caught behind boil tuition confirm";
+var mnemonic = "great nation future foot meadow design raven orphan oyster blood grab fiction";

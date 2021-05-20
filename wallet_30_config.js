@@ -1,1 +1,1 @@
-var mnemonic = "spring permit access wool question skull sniff angle west other make fix";
+var mnemonic = "receive eager vapor zone globe float small gas nut apology boost cable";

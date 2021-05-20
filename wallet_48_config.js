@@ -1,1 +1,1 @@
-var mnemonic = "state shop job zoo runway object virus flock bread onion husband rare";
+var mnemonic = "faculty dinner upset jelly main april person dignity uphold demise merry depart";

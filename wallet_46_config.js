@@ -1,1 +1,1 @@
-var mnemonic = "phrase draw behind will grab insane uphold sweet route crouch season level";
+var mnemonic = "habit rude connect way embody assist apology assist moment spoil panther grow";

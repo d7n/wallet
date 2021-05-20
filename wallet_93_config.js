@@ -1,1 +1,1 @@
-var mnemonic = "often favorite baby rail great jeans task defense alcohol entry myself creek";
+var mnemonic = "ticket offer crumble robust gossip sense require clutch magic essence phone cancel";

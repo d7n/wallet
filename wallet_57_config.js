@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow hotel process fashion artist lava pond december hockey crumble catalog damage";
+var mnemonic = "tragic brass puppy you manual virtual width denial keep oppose stadium flush";

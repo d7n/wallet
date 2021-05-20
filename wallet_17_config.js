@@ -1,1 +1,1 @@
-var mnemonic = "floor matter typical vibrant session frost vanish observe grace supply violin glass";
+var mnemonic = "loop movie kangaroo south romance hold aware fury record satoshi home debris";

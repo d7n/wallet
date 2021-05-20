@@ -1,1 +1,1 @@
-var mnemonic = "horror slot horn rug galaxy alter strike juice cash side pact debris";
+var mnemonic = "cloth addict family clog grain proof atom wagon field quiz rough evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel wine pottery cruise exhaust velvet palace food sick cream machine bounce";
+var mnemonic = "lyrics manual trade benefit gorilla surprise evolve expand brain shy keep achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary educate escape cargo furnace proud cargo crucial please reopen digital modify";
+var mnemonic = "all fitness vanish mom quarter forest foster gather arrange attack together lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "frost benefit consider inquiry unknown below drama quiz frog problem sea wrap";
+var mnemonic = "educate focus engage sick consider sentence lava glove type minimum three educate";

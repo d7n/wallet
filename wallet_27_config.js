@@ -1,1 +1,1 @@
-var mnemonic = "strategy august talk traffic biology move charge spy orient elbow chief lucky";
+var mnemonic = "surge rate list kitten math silk pupil enter salt first foil area";

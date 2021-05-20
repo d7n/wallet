@@ -1,1 +1,1 @@
-var mnemonic = "business dial taste appear mango design one early mirror prison mention absent";
+var mnemonic = "upper olive used fork same camp trade oil doll humble cruel wealth";

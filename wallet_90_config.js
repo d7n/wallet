@@ -1,1 +1,1 @@
-var mnemonic = "crumble father tattoo invest render favorite nest lava entire timber history inner";
+var mnemonic = "source recipe typical document ski woman chaos park high journey rude middle";

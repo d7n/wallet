@@ -1,1 +1,1 @@
-var mnemonic = "brown avoid insane post muffin organ infant uncle input primary laundry noodle";
+var mnemonic = "puppy outside error fashion source scene raise moon merry kingdom across alarm";

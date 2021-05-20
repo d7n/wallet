@@ -1,1 +1,1 @@
-var mnemonic = "focus meadow whip party pulse prosper promote state ecology sign page pull";
+var mnemonic = "cradle dragon solution awful grant current lamp best much list boy usage";

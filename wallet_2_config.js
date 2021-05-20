@@ -1,1 +1,1 @@
-var mnemonic = "meat hope people profit upset together bleak gate task inmate wave another";
+var mnemonic = "final bunker damp uncle ordinary powder hockey alarm good space session expose";

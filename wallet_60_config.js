@@ -1,1 +1,1 @@
-var mnemonic = "multiply embrace display lens charge powder drum unit elite eight gentle few";
+var mnemonic = "anxiety mountain story base crack math bleak long bless grape wealth vocal";

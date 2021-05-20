@@ -1,1 +1,1 @@
-var mnemonic = "acoustic half camp tumble forest smart round journey cook super keep decide";
+var mnemonic = "broccoli voyage step cruel face develop laundry weapon basket lumber hidden phone";

@@ -1,1 +1,1 @@
-var mnemonic = "damage certain exit width snack gloom gauge wet region cabbage autumn misery";
+var mnemonic = "slogan earth swallow senior lend legend glimpse old clog void leader under";

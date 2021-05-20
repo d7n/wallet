@@ -1,1 +1,1 @@
-var mnemonic = "process office lens roast mystery hand wine daring click vicious analyst swallow";
+var mnemonic = "area neutral drink elite dwarf girl crouch okay owner artefact jeans slogan";

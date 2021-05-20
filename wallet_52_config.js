@@ -1,1 +1,1 @@
-var mnemonic = "curious west viable leg fee name tide river nephew guess relax clump";
+var mnemonic = "deposit online loop ozone basic region depth unlock later hero current between";

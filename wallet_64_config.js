@@ -1,1 +1,1 @@
-var mnemonic = "cactus pet cricket wine bomb door meat stay lawsuit setup correct very";
+var mnemonic = "december before liar patrol bid divorce knife produce sport cinnamon fan push";

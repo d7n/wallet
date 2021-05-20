@@ -1,1 +1,1 @@
-var mnemonic = "person horror lawsuit snap chimney shallow inch depth galaxy fox vague exclude";
+var mnemonic = "bid expose sorry when atom coffee engine wood wolf warrior goose various";

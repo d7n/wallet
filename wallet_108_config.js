@@ -1,1 +1,1 @@
-var mnemonic = "thrive cabin flame job general area tiny occur badge gap onion tobacco";
+var mnemonic = "gate exclude mail jealous excite forum chimney point pact before alarm first";

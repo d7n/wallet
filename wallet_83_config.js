@@ -1,1 +1,1 @@
-var mnemonic = "jacket knife name make tomorrow balance very canyon payment jewel agent angry";
+var mnemonic = "search acid slogan ball comic mule fragile identify bleak ridge odor call";

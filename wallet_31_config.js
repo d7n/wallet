@@ -1,1 +1,1 @@
-var mnemonic = "result ginger trade say mouse acquire slide guess cloth rookie subway oxygen";
+var mnemonic = "pepper ship reduce address parrot color neutral elder split urban police zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "fence spirit nuclear analyst wild axis seed alter ready cloud gadget domain";
+var mnemonic = "then small atom wisdom text segment mountain away merry mansion excite time";

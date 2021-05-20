@@ -1,1 +1,1 @@
-var mnemonic = "until unable symptom elevator planet runway defense food include waste local panda";
+var mnemonic = "ice bunker caution slam acid amused flash boring early undo breeze inside";

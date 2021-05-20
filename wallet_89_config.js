@@ -1,1 +1,1 @@
-var mnemonic = "cloth near sadness hold affair length energy alcohol case stay annual grit";
+var mnemonic = "tobacco clog unique deputy infant adapt life guide hazard huge similar coach";

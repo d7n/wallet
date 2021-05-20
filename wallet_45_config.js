@@ -1,1 +1,1 @@
-var mnemonic = "across push seed pill half dwarf student salt believe tobacco lecture soft";
+var mnemonic = "crime baby milk puzzle quality august noise under noodle error cry myself";

@@ -1,1 +1,1 @@
-var mnemonic = "under diagram latin little hunt exact gossip maid lake left sausage mixture";
+var mnemonic = "merit demand atom buffalo dragon nice mass rich beef future pole coral";

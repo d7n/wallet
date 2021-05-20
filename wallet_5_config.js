@@ -1,1 +1,1 @@
-var mnemonic = "ride anchor dad pet solar stay earn spatial usage general snack exchange";
+var mnemonic = "whip vast pulse home quality horn gauge sock dinner culture better crash";

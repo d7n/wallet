@@ -1,1 +1,1 @@
-var mnemonic = "acquire slot erase sight seat motion because will deny among leaf mule";
+var mnemonic = "want type relief wife pyramid elbow paddle alley impact drum assume idea";

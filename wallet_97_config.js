@@ -1,1 +1,1 @@
-var mnemonic = "furnace avocado health train problem entry finger flame unit sea end use";
+var mnemonic = "price style struggle exist struggle embrace only play sing bonus whip chapter";

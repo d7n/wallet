@@ -1,1 +1,1 @@
-var mnemonic = "medal elevator ranch unable shift behind quality execute lobster knife table have";
+var mnemonic = "crash inhale group solution sing arctic wonder funny multiply naive danger bounce";

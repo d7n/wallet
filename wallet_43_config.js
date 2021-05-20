@@ -1,1 +1,1 @@
-var mnemonic = "enemy girl wolf man theory mountain volume door pudding raven patrol amused";
+var mnemonic = "lucky forum attract rocket lock act infant myself funny legal science okay";

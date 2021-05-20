@@ -1,1 +1,1 @@
-var mnemonic = "gadget pupil access cushion group grant oval unit waste arrest when purity";
+var mnemonic = "shadow mosquito nuclear filter april sadness sister enrich online display victory turkey";

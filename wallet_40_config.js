@@ -1,1 +1,1 @@
-var mnemonic = "usage play erase agent blur urban vague reunion arrive faint major snow";
+var mnemonic = "cheap year only abuse gesture market cry end wink fancy museum mask";

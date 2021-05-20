@@ -1,1 +1,1 @@
-var mnemonic = "canoe planet stock agent frame phrase license claw blossom stove alley oblige";
+var mnemonic = "dial soldier ripple ginger august prosper ancient song episode radio tomato provide";

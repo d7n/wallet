@@ -1,1 +1,1 @@
-var mnemonic = "eight naive pig direct syrup scene assist hover pilot auction acoustic tool";
+var mnemonic = "remain innocent snap horse offer aware blade tonight ship ramp grief under";

@@ -1,1 +1,1 @@
-var mnemonic = "dad actress brother hundred pyramid trigger urban tell ritual yellow delay forget";
+var mnemonic = "aisle ice judge hold blossom void pluck note ritual raven layer husband";

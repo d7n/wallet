@@ -1,1 +1,1 @@
-var mnemonic = "pet sweet animal spirit price horror under town junior achieve dress drop";
+var mnemonic = "paper crush oven defy cloud crisp mystery region pattern pill sunny seed";

@@ -1,1 +1,1 @@
-var mnemonic = "town worth toilet surprise sword client lounge special course cereal car train";
+var mnemonic = "segment option wonder quiz movie deny year club mosquito eye panel inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle month push occur daughter recipe imitate mention aerobic unfair guard orphan";
+var mnemonic = "emerge cancel leader age upset oval silly glue mystery educate popular first";

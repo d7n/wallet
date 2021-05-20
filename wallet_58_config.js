@@ -1,1 +1,1 @@
-var mnemonic = "huge cream casino park expire entry penalty viable mercy priority real someone";
+var mnemonic = "insane rival steel brown insane wear cute dish bus trust reveal motion";

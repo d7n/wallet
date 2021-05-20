@@ -1,1 +1,1 @@
-var mnemonic = "reunion fetch benefit glass float nephew forest distance ability current genre post";
+var mnemonic = "fall unfair seek cactus economy gas junk monster limb knock twice language";

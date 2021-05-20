@@ -1,1 +1,1 @@
-var mnemonic = "ankle bridge injury pill rabbit bubble crouch valley scissors perfect cupboard execute";
+var mnemonic = "bounce wish liberty crunch now picture gloom sample sniff enjoy category cat";

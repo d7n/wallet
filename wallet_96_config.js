@@ -1,1 +1,1 @@
-var mnemonic = "assist cook prepare found child diesel amazing era tree frequent cement ice";
+var mnemonic = "mushroom number jazz income clog gospel brass usual neck fruit elbow slim";

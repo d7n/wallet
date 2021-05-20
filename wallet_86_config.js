@@ -1,1 +1,1 @@
-var mnemonic = "young lunch next alone cake mask paper steak tooth obscure flush merit";
+var mnemonic = "degree circle faint space online potato divert gate require relief movie boy";

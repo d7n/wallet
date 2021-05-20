@@ -1,1 +1,1 @@
-var mnemonic = "profit aunt strong attack faith motion foot mosquito bless trick sadness plug";
+var mnemonic = "title sense aerobic urban post penalty pelican ball position price very reunion";

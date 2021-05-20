@@ -1,1 +1,1 @@
-var mnemonic = "stock differ slender lounge leaf debris feature helmet engage stomach evil indoor";
+var mnemonic = "grape dynamic vendor undo silk alley celery gap crouch focus season happy";

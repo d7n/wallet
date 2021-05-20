@@ -1,1 +1,1 @@
-var mnemonic = "donate enhance holiday jungle twice vacant over fly latin music olympic enable";
+var mnemonic = "reunion throw pistol weird shove wisdom now swamp under open bless apology";

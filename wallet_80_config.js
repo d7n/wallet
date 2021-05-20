@@ -1,1 +1,1 @@
-var mnemonic = "common you inject trip victory arrange crystal nest horror capital impact shock";
+var mnemonic = "brother mixed swamp calm pluck innocent globe final prefer load process thumb";

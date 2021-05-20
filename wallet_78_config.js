@@ -1,1 +1,1 @@
-var mnemonic = "grow win output one shoot egg member dune climb morning snow soup";
+var mnemonic = "solid elbow stable wing curve narrow pen thunder exhaust insect change parade";

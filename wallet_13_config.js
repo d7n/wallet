@@ -1,1 +1,1 @@
-var mnemonic = "multiply reason hotel gym turkey hover brisk paper inhale broccoli correct spring";
+var mnemonic = "fluid dad sword safe dash elevator east sign lizard hard luggage blade";

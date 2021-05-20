@@ -1,1 +1,1 @@
-var mnemonic = "voyage agree umbrella make sauce lava gym divert process surround soldier bargain";
+var mnemonic = "cross very occur assault whisper drop path obscure toilet upgrade choose ridge";

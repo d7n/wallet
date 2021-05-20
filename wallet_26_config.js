@@ -1,1 +1,1 @@
-var mnemonic = "divert enforce brain rapid toddler fuel direct yellow bomb review genuine pause";
+var mnemonic = "learn latin enhance another vast honey slight venue motion horn mountain clog";

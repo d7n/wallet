@@ -1,1 +1,1 @@
-var mnemonic = "sock remain any mail fish bullet song imitate company drift manage fresh";
+var mnemonic = "early slight dove detect unhappy charge drastic jealous yellow false light about";

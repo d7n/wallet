@@ -1,1 +1,1 @@
-var mnemonic = "burger claw glow enable resist shine absent work define tragic drastic reward";
+var mnemonic = "soft test poem unable cake index rose novel famous demand roof limit";

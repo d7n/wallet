@@ -1,1 +1,1 @@
-var mnemonic = "canyon expand seek between village horror flock three old swarm emerge square";
+var mnemonic = "banana athlete flat dignity trumpet practice unable hammer fiscal glory book excess";

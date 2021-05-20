@@ -1,1 +1,1 @@
-var mnemonic = "frozen fly same habit attract present share average hospital breeze lazy acid";
+var mnemonic = "canvas shiver uniform task slab exist tell craft market tumble pond voice";

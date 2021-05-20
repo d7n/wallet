@@ -1,1 +1,1 @@
-var mnemonic = "dentist achieve palm clean slim injury diamond job fuel gesture leopard certain";
+var mnemonic = "festival hard salmon topple predict universe question side essence ball scrap copy";

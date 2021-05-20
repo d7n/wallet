@@ -1,1 +1,1 @@
-var mnemonic = "december palm lemon cabin prosper move mosquito sea caution eager mass yard";
+var mnemonic = "art tornado season lesson install rigid anger will sell proof language runway";

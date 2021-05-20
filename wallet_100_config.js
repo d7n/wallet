@@ -1,1 +1,1 @@
-var mnemonic = "potato invite solid strategy offer eyebrow crisp close borrow enter rug finish";
+var mnemonic = "control dignity reason vehicle drop throw kit present alpha gasp into more";

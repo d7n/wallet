@@ -1,1 +1,1 @@
-var mnemonic = "code zoo anger method bird pistol gadget maze again burst hub near";
+var mnemonic = "step win palace patch business maze pitch detail kitten liquid cash away";

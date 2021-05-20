@@ -1,1 +1,1 @@
-var mnemonic = "saddle welcome echo sting shoulder daughter capital aspect rely wealth husband stock";
+var mnemonic = "defy strategy belt repeat welcome blur modify ten shoe dynamic repair crouch";

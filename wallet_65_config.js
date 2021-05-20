@@ -1,1 +1,1 @@
-var mnemonic = "limb salmon identify juice struggle sugar mad innocent impose faint also security";
+var mnemonic = "plug hire genius simple alpha wolf puppy muscle elevator frequent stay mountain";

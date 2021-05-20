@@ -1,1 +1,1 @@
-var mnemonic = "undo viable expose skill amazing security protect start hill ramp shiver salt";
+var mnemonic = "lunar click lion pencil goose settle open glory agent learn mammal amateur";

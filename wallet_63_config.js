@@ -1,1 +1,1 @@
-var mnemonic = "spin donkey net when tone coyote write van good asset discover credit";
+var mnemonic = "mixed motor velvet claim fabric quantum loan invite marine bag memory frost";

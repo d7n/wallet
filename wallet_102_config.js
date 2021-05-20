@@ -1,1 +1,1 @@
-var mnemonic = "pudding loud click napkin engine swallow mass match model hover rhythm example";
+var mnemonic = "mixed canvas faint apart father few make mind vast latin stomach subject";

@@ -1,1 +1,1 @@
-var mnemonic = "eight wagon leisure gloom want scare swift about man rely chase fetch";
+var mnemonic = "hair confirm bless time obvious dirt matter owner erupt swarm drastic cheap";

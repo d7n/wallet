@@ -1,1 +1,1 @@
-var mnemonic = "fit seat flag river logic swing team execute rotate remember dinosaur pause";
+var mnemonic = "sketch across pencil body position post burden orbit swim release eyebrow toy";

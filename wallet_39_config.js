@@ -1,1 +1,1 @@
-var mnemonic = "steak sort stage salad case alert figure save arrow lend claim never";
+var mnemonic = "same scrub mushroom crater hybrid neglect company egg few ignore around tooth";

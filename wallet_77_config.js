@@ -1,1 +1,1 @@
-var mnemonic = "bamboo fun remember normal prepare eager snake skull fee rice open warrior";
+var mnemonic = "tide execute stool blast kitten type egg soap cactus horror cherry sing";

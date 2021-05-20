@@ -1,1 +1,1 @@
-var mnemonic = "flag sugar teach empower kiwi bomb assist mountain magnet apple bread unaware";
+var mnemonic = "tell foil bleak plastic tone lunar window you snake suffer inner iron";

@@ -1,1 +1,1 @@
-var mnemonic = "silver record sign pretty special insane diagram warrior alien rescue sort wonder";
+var mnemonic = "govern oyster brain wine yellow jar connect odor cup bird type catch";

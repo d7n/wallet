@@ -1,1 +1,1 @@
-var mnemonic = "loop swim cake foot detect real example neck bunker pipe victory permit";
+var mnemonic = "crisp february deposit improve seminar smart ski want dolphin lounge across company";

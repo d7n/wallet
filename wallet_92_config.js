@@ -1,1 +1,1 @@
-var mnemonic = "sponsor alcohol reduce purchase soldier holiday alley long regret bulb affair square";
+var mnemonic = "faculty stay fence popular eager oyster zero moon loop decrease figure hurdle";

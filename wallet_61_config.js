@@ -1,1 +1,1 @@
-var mnemonic = "rubber october kingdom effort lemon month wait fragile tobacco critic quiz rally";
+var mnemonic = "source zoo stay gate museum story unknown tilt annual slide sniff decide";

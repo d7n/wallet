@@ -1,1 +1,1 @@
-var mnemonic = "report mask index decrease wasp mixed bomb flight parrot zero claim street";
+var mnemonic = "blue hammer airport obey prize board stool artist trigger exhibit convince kick";

@@ -1,1 +1,1 @@
-var mnemonic = "rib inmate object flat history diesel fitness marriage gift exact shiver above";
+var mnemonic = "canvas shock chimney action mutual ugly alpha someone network oxygen boost tide";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo social cricket flee pilot speed owner little join lumber used person";
+var mnemonic = "doctor boring reunion remind prosper region weird shy duty travel once tag";
