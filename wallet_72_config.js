@@ -1,1 +1,1 @@
-var mnemonic = "mandate actor giant guard rose sword jewel artefact process anxiety rebuild matrix";
+var mnemonic = "minimum fuel pioneer avoid hour organ recycle volume summer pupil exclude wave";

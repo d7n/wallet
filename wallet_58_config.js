@@ -1,1 +1,1 @@
-var mnemonic = "pact merge mosquito heart pause express myself act zone best zebra beauty";
+var mnemonic = "improve drift entry keen roast voice found survey valve shield satisfy title";

@@ -1,1 +1,1 @@
-var mnemonic = "window disagree palace among lonely yard long congress hazard dwarf trip shadow";
+var mnemonic = "cram build gown negative mention human gift curtain tip motor call boring";

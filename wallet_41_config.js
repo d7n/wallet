@@ -1,1 +1,1 @@
-var mnemonic = "gain stove bacon symptom phrase first music grid lake erase oval quantum";
+var mnemonic = "vote net fence old concert field pull stomach tent vocal give champion";

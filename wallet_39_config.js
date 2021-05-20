@@ -1,1 +1,1 @@
-var mnemonic = "cake trumpet beyond tiger oxygen uphold tunnel dignity undo pioneer best act";
+var mnemonic = "kit approve educate tooth virus peace fitness gas settle twenty explain help";

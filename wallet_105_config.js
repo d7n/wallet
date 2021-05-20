@@ -1,1 +1,1 @@
-var mnemonic = "price cabbage north phrase man voyage impose pepper demand protect sea pulp";
+var mnemonic = "cliff evoke shrimp olympic where neither prepare supply circle hundred mechanic room";

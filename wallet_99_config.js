@@ -1,1 +1,1 @@
-var mnemonic = "clerk noble oblige under tumble seminar warm excite again strategy permit vault";
+var mnemonic = "lawn army vehicle tissue lizard energy right parrot faint fault exclude bone";

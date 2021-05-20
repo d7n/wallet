@@ -1,1 +1,1 @@
-var mnemonic = "gasp festival crop affair coin unhappy awkward economy trim hair capital market";
+var mnemonic = "marine laundry pen ramp cigar daring tiny board humor era wild picnic";

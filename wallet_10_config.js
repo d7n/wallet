@@ -1,1 +1,1 @@
-var mnemonic = "innocent thumb music old giant safe hint bulb rifle open jungle can";
+var mnemonic = "royal program shoot object husband abstract novel solve sense bottom grunt social";

@@ -1,1 +1,1 @@
-var mnemonic = "praise maximum journey army forum kid erase candy assist range ball polar";
+var mnemonic = "equip speed crowd key monitor space fox faint tumble recycle layer across";

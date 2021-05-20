@@ -1,1 +1,1 @@
-var mnemonic = "apple again nasty blade grid enough soul kingdom memory favorite intact gallery";
+var mnemonic = "entry later merge explain actress olive season slide tornado awesome quarter cousin";

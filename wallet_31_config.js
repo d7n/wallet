@@ -1,1 +1,1 @@
-var mnemonic = "park upon oyster envelope food spare skate daughter front confirm stand rubber";
+var mnemonic = "sort supply practice skin young gesture there crumble situate taste today radio";

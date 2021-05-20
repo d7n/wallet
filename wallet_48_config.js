@@ -1,1 +1,1 @@
-var mnemonic = "umbrella police question match sport door quality type staff frog fetch illegal";
+var mnemonic = "furnace speed lock eye afraid accuse earn worth shock gaze exercise rude";

@@ -1,1 +1,1 @@
-var mnemonic = "poet potato method math curious emerge myself spend minimum pet swap parrot";
+var mnemonic = "blur empower next survey happy swap job reject subject dawn matrix agree";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce erase vapor hood lake bachelor deputy chef never good general airport";
+var mnemonic = "pride force debate depth fault alley segment feed inflict expose trouble salad";

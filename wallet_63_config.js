@@ -1,1 +1,1 @@
-var mnemonic = "rice position else pave range debris fee champion aware stage science soda";
+var mnemonic = "route joy leisure onion parade exact pudding today gloom mutual lobster twelve";

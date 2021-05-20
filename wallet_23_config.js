@@ -1,1 +1,1 @@
-var mnemonic = "stable lemon emerge tube unveil promote december ritual leaf settle slush slogan";
+var mnemonic = "nominee usage pumpkin aim alpha boy guard sign pony traffic waste peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket bundle endless mail depth silent minute cradle make boil prevent winner";
+var mnemonic = "velvet spice bicycle sketch beef muscle vintage rebuild broken chase ability blur";

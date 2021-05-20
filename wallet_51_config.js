@@ -1,1 +1,1 @@
-var mnemonic = "brave bright virus wish term celery zebra angle harbor hire ahead bulk";
+var mnemonic = "finish cluster warm treat monitor camera hope draft swim trick pepper view";

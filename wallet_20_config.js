@@ -1,1 +1,1 @@
-var mnemonic = "grape voice struggle next salute enable melt quantum rifle pave fault equip";
+var mnemonic = "enact funny wish oyster fire audit spring gown burst artefact flock pizza";

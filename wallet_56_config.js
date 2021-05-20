@@ -1,1 +1,1 @@
-var mnemonic = "hungry inquiry hub wedding aerobic glow remind salute vague fold mean horn";
+var mnemonic = "midnight arena bullet planet matrix toward region size frost aspect title mango";

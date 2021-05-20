@@ -1,1 +1,1 @@
-var mnemonic = "viable adjust nut laptop vicious want flavor solve toss fit electric nothing";
+var mnemonic = "egg aware ability sell also opera parrot spot decrease catch gorilla fatigue";

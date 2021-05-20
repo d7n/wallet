@@ -1,1 +1,1 @@
-var mnemonic = "duck rude table tobacco decade radar dad secret jelly broom audit melt";
+var mnemonic = "radar omit hen sword useful fossil hard wife minimum palace game body";

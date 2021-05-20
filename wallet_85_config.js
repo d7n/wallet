@@ -1,1 +1,1 @@
-var mnemonic = "uphold resemble pretty online lounge evolve clog wool target wing polar sudden";
+var mnemonic = "behind scale option key fine stadium path seek clerk excuse stumble act";

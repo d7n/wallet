@@ -1,1 +1,1 @@
-var mnemonic = "attend parrot tattoo true crumble present acoustic olympic marriage sauce market observe";
+var mnemonic = "card secret spoon melt right math people sugar capital south urban east";

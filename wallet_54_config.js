@@ -1,1 +1,1 @@
-var mnemonic = "slab box scout lens siren follow come witness usage transfer essence heart";
+var mnemonic = "planet board edit balance dizzy stand comfort change team travel project report";

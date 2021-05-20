@@ -1,1 +1,1 @@
-var mnemonic = "decade achieve dirt myth learn push amazing file inside code time wool";
+var mnemonic = "earn success tag spatial earth limb drip circle bulk raven glow flash";

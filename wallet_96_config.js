@@ -1,1 +1,1 @@
-var mnemonic = "misery rookie setup swamp nest length catalog extra diesel demise original wall";
+var mnemonic = "useful snack follow pizza icon begin useless labor safe pioneer upset correct";

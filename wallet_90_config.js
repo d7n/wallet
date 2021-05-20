@@ -1,1 +1,1 @@
-var mnemonic = "camp barrel stick awake beach junior voyage drink carpet mix vendor express";
+var mnemonic = "believe hero churn coconut wrap olive horn mad shallow proof group remember";

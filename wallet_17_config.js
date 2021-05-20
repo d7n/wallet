@@ -1,1 +1,1 @@
-var mnemonic = "worth erode mountain rotate amount seven rain bonus bargain rookie casino filter";
+var mnemonic = "health pepper often swim sunset hole issue prepare auction media today invite";

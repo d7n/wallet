@@ -1,1 +1,1 @@
-var mnemonic = "poverty ghost frozen dream neck chief silk enough frog vanish salute hole";
+var mnemonic = "welcome honey cattle hover someone quantum unusual intact rather copy labor cook";

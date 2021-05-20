@@ -1,1 +1,1 @@
-var mnemonic = "human hover fault vessel clarify drop leader bomb fame charge ring cabin";
+var mnemonic = "retire brush age critic climb scare century heart night unique rich warrior";

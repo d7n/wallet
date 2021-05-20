@@ -1,1 +1,1 @@
-var mnemonic = "away digital trip imitate glory wrap glance balcony surround error huge vital";
+var mnemonic = "slice radio jeans honey wave mechanic surround arch enrich blossom pair since";

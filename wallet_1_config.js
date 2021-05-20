@@ -1,1 +1,1 @@
-var mnemonic = "frame tiger copper slam symptom list myself dirt margin master trumpet kitchen";
+var mnemonic = "tortoise journey blossom couple victory cost indicate chunk marble scene burger run";

@@ -1,1 +1,1 @@
-var mnemonic = "truck shallow gentle torch tiger obtain middle hat donor census curtain key";
+var mnemonic = "impact acid regular relief silent maid among core around security glance nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle high adjust endorse nature mind slow nominee beyond lake exclude wolf";
+var mnemonic = "code honey wheel spoon tip hour point crunch edit hen bracket nuclear";

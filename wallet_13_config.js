@@ -1,1 +1,1 @@
-var mnemonic = "toward culture asthma oven baby together egg cousin fossil lady just parent";
+var mnemonic = "hurry voice figure endorse medal way edge elder ramp universe crouch era";

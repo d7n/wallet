@@ -1,1 +1,1 @@
-var mnemonic = "sword resemble fall oxygen family element report tone setup cereal poverty echo";
+var mnemonic = "admit ability tank shock plunge young stool basket shoot design hungry write";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn soccer error spend bring leisure wing swing mechanic vendor total filter";
+var mnemonic = "scene snake raccoon trim ramp pole gift blade parent twin pizza drink";

@@ -1,1 +1,1 @@
-var mnemonic = "prize brick dune hamster maze weird advance sea famous daughter hazard kiwi";
+var mnemonic = "lunch fitness fatigue school disease second cost ignore labor then mass palm";

@@ -1,1 +1,1 @@
-var mnemonic = "onion soccer develop bird shoot marriage force scout rather judge tube boil";
+var mnemonic = "trash random hope major digital try torch poet sort stove pond habit";

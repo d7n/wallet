@@ -1,1 +1,1 @@
-var mnemonic = "turn drip nut olive solar sheriff topic summer street list poet museum";
+var mnemonic = "home caught tonight loop copy around book vibrant burden hen hamster hotel";

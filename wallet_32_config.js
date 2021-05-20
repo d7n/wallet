@@ -1,1 +1,1 @@
-var mnemonic = "other ecology crouch drama bridge buzz federal panda gold dry fence car";
+var mnemonic = "suffer solid cactus fatigue olympic media coin stomach sustain sign empty moon";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify rally pumpkin eagle bring spare whip first mirror solve order cluster";
+var mnemonic = "sadness local skate street swing resemble thunder uncle enemy congress bachelor group";

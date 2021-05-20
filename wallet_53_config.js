@@ -1,1 +1,1 @@
-var mnemonic = "unlock luggage wool sleep timber cruise cargo silver double path reward worth";
+var mnemonic = "useful spirit rural stamp cinnamon cruel cereal snap hat tomato grocery left";

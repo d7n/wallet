@@ -1,1 +1,1 @@
-var mnemonic = "slight night execute animal junior oppose warfare pulse prefer creek output myth";
+var mnemonic = "butter kiss manual abstract orchard sauce save buzz safe shoe horse race";

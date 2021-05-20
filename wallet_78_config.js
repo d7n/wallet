@@ -1,1 +1,1 @@
-var mnemonic = "dumb entry laundry kangaroo else ankle outer grain notice odor boost auto";
+var mnemonic = "okay clown blouse arrange favorite picnic nephew modify stereo before tunnel brisk";

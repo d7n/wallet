@@ -1,1 +1,1 @@
-var mnemonic = "tank fossil skate stool vendor scout sort negative general rude surface space";
+var mnemonic = "globe iron medal foster palace aspect chat degree dawn sure also achieve";

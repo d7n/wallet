@@ -1,1 +1,1 @@
-var mnemonic = "purity reason chunk boring heart arrest recycle social grocery measure glow army";
+var mnemonic = "wrestle seminar wish alter venture veteran lyrics loop smart eager this office";

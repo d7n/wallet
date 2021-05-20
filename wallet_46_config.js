@@ -1,1 +1,1 @@
-var mnemonic = "uncle layer volcano canal alarm gown tip outside prosper comic fruit flame";
+var mnemonic = "purse tobacco verb wait lunch unusual echo cotton across turn route usage";

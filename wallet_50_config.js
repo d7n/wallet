@@ -1,1 +1,1 @@
-var mnemonic = "reason doll size noble adapt need poem industry alien visit weapon fish";
+var mnemonic = "rhythm alien brisk slab birth coffee render journey license able six auto";

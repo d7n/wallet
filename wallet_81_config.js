@@ -1,1 +1,1 @@
-var mnemonic = "success success cash subway raccoon river error master vault element tiger melt";
+var mnemonic = "final any congress swim traffic giraffe chicken equal broccoli evil target seat";

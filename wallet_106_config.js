@@ -1,1 +1,1 @@
-var mnemonic = "bottom truth order scatter habit wealth door six yard night enforce join";
+var mnemonic = "divide ribbon marriage jar globe pupil wrist possible join glove bottom marriage";

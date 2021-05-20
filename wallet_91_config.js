@@ -1,1 +1,1 @@
-var mnemonic = "fragile picnic night buddy enroll such arrive return govern patch wait region";
+var mnemonic = "horse blade inch kingdom render require ivory salmon game oil plate exist";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge convince short mobile flock body include innocent game work monster mean";
+var mnemonic = "reject differ shift chair upper chuckle pepper gown weird strategy fee odor";

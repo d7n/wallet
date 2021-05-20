@@ -1,1 +1,1 @@
-var mnemonic = "entry play devote hat replace shop swarm wool seek engine motor plug";
+var mnemonic = "pulp pet erase trick six allow zone flush agree stadium account fabric";

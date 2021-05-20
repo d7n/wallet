@@ -1,1 +1,1 @@
-var mnemonic = "fatal energy upper squirrel glory cat inmate survey behind wave brown galaxy";
+var mnemonic = "magnet coyote course vessel destroy file must rate palm dice real drink";

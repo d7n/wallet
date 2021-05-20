@@ -1,1 +1,1 @@
-var mnemonic = "fix color detect author person brass report gasp chimney outdoor vital move";
+var mnemonic = "have half tornado human combine window benefit erosion horse robust matter movie";

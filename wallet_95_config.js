@@ -1,1 +1,1 @@
-var mnemonic = "chat exile use merge spin base mango soup chimney surround blossom stumble";
+var mnemonic = "era defy dad flower canvas pluck monkey series garbage mule wish lizard";

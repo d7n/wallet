@@ -1,1 +1,1 @@
-var mnemonic = "deer play scrub oxygen setup theme tone tuition gadget cabbage diamond suspect";
+var mnemonic = "invite youth wrong blame monitor comfort can describe dentist goat chef reason";

@@ -1,1 +1,1 @@
-var mnemonic = "like square cinnamon question scissors finger eye edge genius december voyage chaos";
+var mnemonic = "uphold focus puzzle brief smart trend divert dune pen manual broken over";

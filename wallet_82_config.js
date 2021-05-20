@@ -1,1 +1,1 @@
-var mnemonic = "honey strike dune rail detect thrive rubber mechanic issue thunder blue melt";
+var mnemonic = "donor draft imitate usual actress hero cook impulse muscle ceiling save gentle";

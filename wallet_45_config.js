@@ -1,1 +1,1 @@
-var mnemonic = "traffic novel great can myth dwarf few early wreck boss unusual boat";
+var mnemonic = "melody frequent notice oblige now oval shuffle crunch large night omit phrase";

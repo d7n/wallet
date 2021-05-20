@@ -1,1 +1,1 @@
-var mnemonic = "pink venue crouch hospital scheme chief normal melody spring dove heart under";
+var mnemonic = "barely ladder spoon raw taste key decade nothing nephew must cost snap";

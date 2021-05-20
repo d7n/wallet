@@ -1,1 +1,1 @@
-var mnemonic = "slow panther poverty cabbage renew rib there shrug where ship bitter region";
+var mnemonic = "flock book trade unknown plate sleep satoshi doll evolve recycle route little";

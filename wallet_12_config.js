@@ -1,1 +1,1 @@
-var mnemonic = "lady bean swamp impact pass whale remember fog clutch aware reduce gown";
+var mnemonic = "wedding airport acoustic club category robot frost fly member layer tail trash";

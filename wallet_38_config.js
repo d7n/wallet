@@ -1,1 +1,1 @@
-var mnemonic = "carry apart chair potato match author wire crush stock toe famous never";
+var mnemonic = "when chicken guard kiwi write mercy tuition wine buddy napkin ankle smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve raccoon supreme nut crowd child dish slam miss scrub lazy wrap";
+var mnemonic = "ridge zoo multiply empower grief define order cliff leader mule law choice";

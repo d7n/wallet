@@ -1,1 +1,1 @@
-var mnemonic = "cube offer mad now true enlist version palm library hospital strategy phone";
+var mnemonic = "shoe child cart egg police potato swap poet genuine worth taxi future";

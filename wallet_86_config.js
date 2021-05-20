@@ -1,1 +1,1 @@
-var mnemonic = "buffalo kite alpha truly evoke man potato bomb between thrive broken senior";
+var mnemonic = "web spot tape riot frown subway sick mind staff library bring live";

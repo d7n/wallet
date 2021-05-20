@@ -1,1 +1,1 @@
-var mnemonic = "crane educate loud select disease device remain mask whale drop green case";
+var mnemonic = "off prepare skirt path fabric remind sure patrol valve west enter mechanic";

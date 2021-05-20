@@ -1,1 +1,1 @@
-var mnemonic = "option true ostrich course dune gym claim genre sorry either peasant staff";
+var mnemonic = "barely swing job warm breeze theory menu mosquito taste arctic pact patient";

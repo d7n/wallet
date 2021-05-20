@@ -1,1 +1,1 @@
-var mnemonic = "penalty script sting nature income junk fall keen shed network bar emotion";
+var mnemonic = "fiction system mention trip border resemble one divide dutch gloom afford bread";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut render rescue under monkey mask funny spy abuse segment rookie hospital";
+var mnemonic = "merit cause earth dress page frozen edit nephew behave glance bitter dose";

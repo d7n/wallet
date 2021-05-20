@@ -1,1 +1,1 @@
-var mnemonic = "rather toss income three speak couch muffin choose auction celery come parade";
+var mnemonic = "matter grant age husband sea occur maple item forum know kite opera";

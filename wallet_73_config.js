@@ -1,1 +1,1 @@
-var mnemonic = "bubble chase arena lumber either wink equip forward vague pelican spike canal";
+var mnemonic = "time hollow crew film actor useful radar liberty nerve typical degree either";

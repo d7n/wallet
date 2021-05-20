@@ -1,1 +1,1 @@
-var mnemonic = "bundle pair audit general beach absent beach puzzle melody upgrade patient tumble";
+var mnemonic = "dutch carry cloth setup foot romance way wasp stomach tone end defense";

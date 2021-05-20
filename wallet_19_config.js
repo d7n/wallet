@@ -1,1 +1,1 @@
-var mnemonic = "bleak ginger board visa physical buddy core search thank next midnight acquire";
+var mnemonic = "whisper window deny track resist wine cluster excite stuff once weapon quiz";

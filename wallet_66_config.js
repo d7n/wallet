@@ -1,1 +1,1 @@
-var mnemonic = "day approve dune solar ignore grace pupil tail animal math valley struggle";
+var mnemonic = "agree mom brain december shaft lecture exercise icon seed switch crop fish";

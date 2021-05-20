@@ -1,1 +1,1 @@
-var mnemonic = "silk goddess describe wrap exact method enforce also head whale depart turtle";
+var mnemonic = "festival wheat antenna addict frame oak digital chapter parent must destroy razor";

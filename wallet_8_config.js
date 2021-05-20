@@ -1,1 +1,1 @@
-var mnemonic = "mistake impact spatial exile congress truly disorder radio maple cereal system amused";
+var mnemonic = "nose cake scout select method youth solve horn joke focus rose model";

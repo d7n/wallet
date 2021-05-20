@@ -1,1 +1,1 @@
-var mnemonic = "service side position ritual shuffle tank gravity artefact dream shallow mobile letter";
+var mnemonic = "street nose dirt garbage picnic learn impose tone situate surround tuna toddler";

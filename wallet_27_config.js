@@ -1,1 +1,1 @@
-var mnemonic = "runway couple blossom prevent frown office chuckle erupt own reunion fatigue hundred";
+var mnemonic = "relax ship item photo exile shrimp naive lecture nasty depend journey glove";

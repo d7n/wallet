@@ -1,1 +1,1 @@
-var mnemonic = "door general purpose cook extend left region boss spoon cliff bitter hip";
+var mnemonic = "dial entire mixture snack cluster welcome guide shed enhance range rural dilemma";

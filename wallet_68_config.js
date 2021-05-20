@@ -1,1 +1,1 @@
-var mnemonic = "enough sort pyramid anxiety mom index agree float ritual reveal month mistake";
+var mnemonic = "skull fragile ball ranch bulb unusual wear nest practice ritual offer silent";

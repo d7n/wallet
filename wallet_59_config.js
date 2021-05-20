@@ -1,1 +1,1 @@
-var mnemonic = "stairs helmet crane filter month fatal rain skull people cup muffin tuition";
+var mnemonic = "slight gaze before pond sail toward candy flock meadow dress spell flavor";

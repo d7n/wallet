@@ -1,1 +1,1 @@
-var mnemonic = "member simple input remove offer giant custom fish weird slide couple festival";
+var mnemonic = "upon already devote boat token enroll useless behave holiday shaft cube cousin";

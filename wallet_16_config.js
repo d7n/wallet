@@ -1,1 +1,1 @@
-var mnemonic = "clarify smart grief practice caution title style carpet tennis honey decide seven";
+var mnemonic = "finish axis around brain swamp course add major time draw case gloom";

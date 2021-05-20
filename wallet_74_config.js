@@ -1,1 +1,1 @@
-var mnemonic = "jeans senior autumn beef bacon come slender blue buzz upset solid giant";
+var mnemonic = "glow three service spell yellow horn train team hat saddle party permit";

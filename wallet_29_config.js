@@ -1,1 +1,1 @@
-var mnemonic = "lottery clap knock bachelor tray mind blanket guess dream elephant kitchen game";
+var mnemonic = "blade wall toilet girl bar cricket vote festival finish priority identify thought";

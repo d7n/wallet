@@ -1,1 +1,1 @@
-var mnemonic = "tray custom long morning elbow eye gasp rail again tower endless various";
+var mnemonic = "fitness human fresh sauce surprise garden mad tip exile south knock balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "popular example danger combine breeze balcony absent city dog nation suffer visa";
+var mnemonic = "inmate stage captain cool lock ski cause outside laugh shed small make";

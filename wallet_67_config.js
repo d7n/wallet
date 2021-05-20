@@ -1,1 +1,1 @@
-var mnemonic = "fetch purity elder tunnel bar shoe slot crack degree daring scare injury";
+var mnemonic = "brave start obvious smile radio resource trigger addict orange sight empower cargo";
