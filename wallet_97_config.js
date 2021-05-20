@@ -1,1 +1,1 @@
-var mnemonic = "cake cherry silent mixed hurt gun prepare gentle orbit equal say face";
+var mnemonic = "brass start engine addict sorry cave tilt order crowd transfer come decorate";

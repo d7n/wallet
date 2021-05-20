@@ -1,1 +1,1 @@
-var mnemonic = "clip kind yard mosquito inside exhaust drastic name casino satoshi sheriff trial";
+var mnemonic = "vibrant lemon people spring loyal smooth letter puppy antenna obscure inch income";

@@ -1,1 +1,1 @@
-var mnemonic = "salon copy tragic spin shadow race broccoli buffalo slim fox police remain";
+var mnemonic = "shallow final hollow claim inside route strong tonight brush torch tube tragic";

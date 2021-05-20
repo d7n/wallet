@@ -1,1 +1,1 @@
-var mnemonic = "club youth scale wear harsh soap almost bulb crush start fog chapter";
+var mnemonic = "inhale ensure simple thunder review account casual matrix bike van ready try";

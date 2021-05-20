@@ -1,1 +1,1 @@
-var mnemonic = "surface system daring ahead middle tackle myself quote slide good boring velvet";
+var mnemonic = "hard bronze confirm glory come fire artefact connect squeeze tissue salute wash";

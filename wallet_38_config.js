@@ -1,1 +1,1 @@
-var mnemonic = "left spirit gather tape lawsuit morning exercise army only wood cream index";
+var mnemonic = "muscle tree spring image gas enter fog practice grape since hint rescue";

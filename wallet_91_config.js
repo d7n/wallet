@@ -1,1 +1,1 @@
-var mnemonic = "dad address connect company potato furnace abandon rate year drink champion program";
+var mnemonic = "echo train drink need present clap demand write middle loud miracle quality";

@@ -1,1 +1,1 @@
-var mnemonic = "spend cherry vessel sign sunny hurry life more universe slice elbow suggest";
+var mnemonic = "orient miracle early topple frozen reward first sleep permit purchase rival steak";

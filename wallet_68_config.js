@@ -1,1 +1,1 @@
-var mnemonic = "name grid silent motor inmate rubber coral reveal velvet novel brass unaware";
+var mnemonic = "rose possible output absent cave merge coyote test cry way curious figure";

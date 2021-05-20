@@ -1,1 +1,1 @@
-var mnemonic = "impulse empower dwarf setup blast limit drastic frequent used giraffe casino inspire";
+var mnemonic = "rough tobacco honey width unhappy belt small typical educate puppy coast enroll";

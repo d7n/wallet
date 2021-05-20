@@ -1,1 +1,1 @@
-var mnemonic = "busy column advice emerge crystal angle volume matrix chat oxygen train day";
+var mnemonic = "acid vibrant enough little strong soul extra cousin rabbit connect claw husband";

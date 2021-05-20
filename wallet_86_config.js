@@ -1,1 +1,1 @@
-var mnemonic = "cruise bread squeeze nut limb uphold quote knock digital globe brain school";
+var mnemonic = "analyst where pupil giraffe quality unfold slim forget uncover immune require sleep";

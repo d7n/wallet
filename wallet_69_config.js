@@ -1,1 +1,1 @@
-var mnemonic = "immune task wave annual enrich heavy truck october program eye neglect shift";
+var mnemonic = "garlic drop idle above still report history play eye marble six beyond";

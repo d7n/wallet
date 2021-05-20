@@ -1,1 +1,1 @@
-var mnemonic = "predict frown round bounce soccer team glare dizzy travel piece work patch";
+var mnemonic = "relax daughter hunt discover type modify scale decorate worry voyage column skirt";

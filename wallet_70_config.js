@@ -1,1 +1,1 @@
-var mnemonic = "spatial answer raven unlock angry bubble seek walk tilt gorilla upset concert";
+var mnemonic = "shuffle milk speak fiscal depart ancient nation buddy legal evoke harbor truck";

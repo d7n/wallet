@@ -1,1 +1,1 @@
-var mnemonic = "calm zoo finger organ hurdle design plate spawn cotton curtain cotton attract";
+var mnemonic = "practice ticket armor october cupboard heart step project remain ill purse bless";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit leisure nice behave large degree length midnight mechanic resist mosquito live";
+var mnemonic = "prepare just deposit bounce flight walk jealous define banner govern empower loan";

@@ -1,1 +1,1 @@
-var mnemonic = "hello domain dentist evolve damage water stick wolf melt blur kiss either";
+var mnemonic = "rocket taste desert improve ready also pattern husband insect smoke cinnamon settle";

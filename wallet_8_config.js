@@ -1,1 +1,1 @@
-var mnemonic = "gentle submit extra intact page disease pupil antenna cart like develop soda";
+var mnemonic = "fix bacon lava gather soul volume virtual solution library prefer battle clock";

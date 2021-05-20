@@ -1,1 +1,1 @@
-var mnemonic = "hazard candy surround mosquito plug attend weapon old reduce where nest drive";
+var mnemonic = "umbrella eagle room alpha coin visit stick plastic measure airport now seed";

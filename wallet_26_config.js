@@ -1,1 +1,1 @@
-var mnemonic = "essence include coconut explain chimney salon allow little again can rhythm hero";
+var mnemonic = "steak electric light pet unaware special cycle must chuckle depend juice mixed";

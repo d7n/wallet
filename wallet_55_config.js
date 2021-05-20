@@ -1,1 +1,1 @@
-var mnemonic = "match gaze orbit pig goose boost rebel ozone credit hood thank bicycle";
+var mnemonic = "beef apology camp decline worry maze crack often tobacco owner mountain crush";

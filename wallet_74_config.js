@@ -1,1 +1,1 @@
-var mnemonic = "bundle patrol document wool bracket moment web gravity guitar drift resemble fog";
+var mnemonic = "vocal code buzz innocent tissue excuse goat loan clip crane good rose";

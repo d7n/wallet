@@ -1,1 +1,1 @@
-var mnemonic = "milk guide only rescue whisper engage vanish term quiz drill text arch";
+var mnemonic = "clown crucial shoulder battle defense sentence acid bronze run category undo kitten";

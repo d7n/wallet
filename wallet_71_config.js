@@ -1,1 +1,1 @@
-var mnemonic = "acoustic sea owner pretty trigger uncover ignore certain order boost silent phrase";
+var mnemonic = "hamster business close sniff cash neutral phrase smart alien cram seat pepper";

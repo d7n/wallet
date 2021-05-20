@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur satisfy virtual admit risk twenty alter mixed grape lawn wine excite";
+var mnemonic = "essay moment lock soft opinion pet afford foil choose wedding cushion unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "copy much body angle dish level dynamic reason reward dwarf inflict wonder";
+var mnemonic = "demand update more unaware degree badge cluster six quick later narrow must";

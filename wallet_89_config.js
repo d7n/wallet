@@ -1,1 +1,1 @@
-var mnemonic = "act actual fatal finger frost parade direct pupil olive sphere student lake";
+var mnemonic = "blood tower tattoo scene burst empower animal online blouse clump arrange certain";

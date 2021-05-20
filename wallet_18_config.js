@@ -1,1 +1,1 @@
-var mnemonic = "beef sentence panda garment doctor work million boil merge slender wheel fold";
+var mnemonic = "right chicken daughter enjoy truly urge blast mansion unveil female mad useful";

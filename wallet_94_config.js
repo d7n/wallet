@@ -1,1 +1,1 @@
-var mnemonic = "detail either struggle accuse leader frozen gloom jar open middle mansion vibrant";
+var mnemonic = "shrimp gloom ocean enjoy field worry suffer sphere demise fringe strike crime";

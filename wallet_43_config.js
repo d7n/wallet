@@ -1,1 +1,1 @@
-var mnemonic = "check ten maple rose resist wealth virus comic crew local salon tank";
+var mnemonic = "motion setup stomach exotic walk tourist crack merge fatal talk drip diamond";

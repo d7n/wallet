@@ -1,1 +1,1 @@
-var mnemonic = "critic empty citizen fury scale second token mask alpha average village legend";
+var mnemonic = "safe dice hover diagram review circle egg nature media tumble language october";

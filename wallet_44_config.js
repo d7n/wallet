@@ -1,1 +1,1 @@
-var mnemonic = "artefact swear season deer mixed immune judge power few client meat museum";
+var mnemonic = "cool buddy hybrid task purse random scissors shock owner wisdom clog cycle";

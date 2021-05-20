@@ -1,1 +1,1 @@
-var mnemonic = "future people this width school weekend grab grit response arrange donate soccer";
+var mnemonic = "silly floor inflict convince auction curtain album slogan win enforce maze clip";

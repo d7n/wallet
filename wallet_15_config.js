@@ -1,1 +1,1 @@
-var mnemonic = "hotel believe ritual cabin cliff rural awkward suffer blur rookie win wear";
+var mnemonic = "market april bunker virtual slot today fluid glow fish used doctor roast";

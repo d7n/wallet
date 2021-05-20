@@ -1,1 +1,1 @@
-var mnemonic = "assault actual scorpion minute opinion there lumber caution retire tag grab pyramid";
+var mnemonic = "same health flat squirrel fiscal slam ramp sock debate replace task motor";

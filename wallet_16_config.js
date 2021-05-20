@@ -1,1 +1,1 @@
-var mnemonic = "hawk issue fitness person proof length embark mind admit jump summer salute";
+var mnemonic = "repair exhibit rail sad mom nominee chef mammal reward buffalo slice ordinary";

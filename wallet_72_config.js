@@ -1,1 +1,1 @@
-var mnemonic = "sentence trust tongue census solar swap report style paper wink page tomato";
+var mnemonic = "combine modify obvious dad add keen duck disagree sound praise theory note";

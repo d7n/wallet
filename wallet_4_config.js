@@ -1,1 +1,1 @@
-var mnemonic = "slender bicycle patient hedgehog pizza pond icon ocean recycle improve rally sphere";
+var mnemonic = "glad quiz reveal decide popular also essay yard hover text nice hidden";

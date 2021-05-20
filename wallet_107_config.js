@@ -1,1 +1,1 @@
-var mnemonic = "ignore hill bright clinic chest dove syrup purity echo wheat glove pill";
+var mnemonic = "later liberty major timber fresh caution achieve garage tonight two style correct";

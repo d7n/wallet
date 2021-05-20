@@ -1,1 +1,1 @@
-var mnemonic = "march umbrella alone notable dragon logic trumpet icon avocado defense mushroom mesh";
+var mnemonic = "endless ghost benefit sister still burst already blossom bitter language abuse menu";

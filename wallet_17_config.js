@@ -1,1 +1,1 @@
-var mnemonic = "civil timber issue garlic fossil chalk sure immense make risk dawn dirt";
+var mnemonic = "outdoor advice mimic office father extend angry income loan color picture strike";

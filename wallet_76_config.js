@@ -1,1 +1,1 @@
-var mnemonic = "enlist release depth face dad sell dance slim call verify forest digital";
+var mnemonic = "ladder gasp kiwi tenant public frequent near round stuff estate wish column";

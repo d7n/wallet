@@ -1,1 +1,1 @@
-var mnemonic = "crush pink always resist thunder winner onion stable require flush ahead rookie";
+var mnemonic = "pair energy rather merge fog few alone victory bicycle unhappy music peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "swear pride culture orbit season chimney pear gold now column soccer pear";
+var mnemonic = "history release smart setup cram jelly answer wisdom rose behave rookie ceiling";

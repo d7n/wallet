@@ -1,1 +1,1 @@
-var mnemonic = "salad major manual bunker dad noodle devote system cram okay menu either";
+var mnemonic = "cabin bulb forest ask six fiscal bundle exit summer unfold sunny copy";

@@ -1,1 +1,1 @@
-var mnemonic = "junk flame transfer position author clump result bid pill trend outer long";
+var mnemonic = "priority common puzzle step bullet drastic unlock joy one town slush raise";

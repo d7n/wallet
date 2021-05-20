@@ -1,1 +1,1 @@
-var mnemonic = "extra food news image found please fog noble health spare nuclear knee";
+var mnemonic = "mind pyramid whale hockey pizza diary sponsor merit pioneer eager assume phrase";

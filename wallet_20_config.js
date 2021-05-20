@@ -1,1 +1,1 @@
-var mnemonic = "jealous squirrel stove club drip nest labor buddy spider metal cigar echo";
+var mnemonic = "blame dust advance guitar pyramid camera twist black enforce they catalog garlic";

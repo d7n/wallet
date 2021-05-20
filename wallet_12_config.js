@@ -1,1 +1,1 @@
-var mnemonic = "detect voice define cotton retire ketchup kitchen hill inject test race wood";
+var mnemonic = "erase bird clap cup second flame ivory autumn balance earth step bulb";

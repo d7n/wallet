@@ -1,1 +1,1 @@
-var mnemonic = "enlist print trade enhance illness cause zone tent bicycle prison hero sustain";
+var mnemonic = "multiply pole nasty juice waste protect skin indoor network fabric eye base";

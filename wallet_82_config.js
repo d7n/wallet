@@ -1,1 +1,1 @@
-var mnemonic = "ahead aware jealous reward now mansion security evoke cable team leaf audit";
+var mnemonic = "kingdom sure abstract increase earn toe little chicken hedgehog gossip drill swarm";

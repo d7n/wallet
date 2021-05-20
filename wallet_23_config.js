@@ -1,1 +1,1 @@
-var mnemonic = "bring monitor raise lumber knock universe siege coconut pattern access angry toe";
+var mnemonic = "transfer account merit awful main road wood garden artwork horror tape spice";

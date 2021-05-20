@@ -1,1 +1,1 @@
-var mnemonic = "hip tone noodle scrub lunar wreck taste club quantum off box much";
+var mnemonic = "exit kangaroo marriage cricket ordinary goose spatial midnight agent capable mail pear";

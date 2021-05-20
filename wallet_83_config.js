@@ -1,1 +1,1 @@
-var mnemonic = "proud law pass follow human coach skin crazy disease couch season twelve";
+var mnemonic = "toilet daughter lonely grocery useless claw snake inflict since control fish logic";

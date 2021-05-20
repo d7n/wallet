@@ -1,1 +1,1 @@
-var mnemonic = "gravity laptop renew voice fold guide skill fabric attitude banner view syrup";
+var mnemonic = "glide slide select feed verb marble group this elevator prosper surprise cram";

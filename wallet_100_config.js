@@ -1,1 +1,1 @@
-var mnemonic = "taxi female witness tenant north rib august warrior doll tuna model also";
+var mnemonic = "jazz grace tray hill account warm supreme bamboo net ability zoo remember";

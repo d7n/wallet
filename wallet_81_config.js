@@ -1,1 +1,1 @@
-var mnemonic = "catch lamp soup speed penalty blossom surprise sad mail neck route avoid";
+var mnemonic = "replace cigar bottom powder finger toy winner east dial ticket average road";

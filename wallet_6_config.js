@@ -1,1 +1,1 @@
-var mnemonic = "behind garlic daring good stumble cotton puzzle parent affair puppy easy mouse";
+var mnemonic = "ripple brother royal orphan olive under purity uniform solar lonely lesson genre";

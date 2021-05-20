@@ -1,1 +1,1 @@
-var mnemonic = "rebel evolve peanut material soccer define pair voyage hockey movie congress bonus";
+var mnemonic = "produce gorilla split danger normal latin prosper lock enemy when what action";

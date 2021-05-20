@@ -1,1 +1,1 @@
-var mnemonic = "sick sense student ancient mistake arm orphan coral december income exit remember";
+var mnemonic = "habit minimum edge sponsor simple choose ordinary record prevent father hungry rely";

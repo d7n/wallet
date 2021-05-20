@@ -1,1 +1,1 @@
-var mnemonic = "case puzzle vicious grocery spike shaft identify scorpion engine brush soft they";
+var mnemonic = "flash trend salt apple hedgehog advance high glove guess canal era uncover";

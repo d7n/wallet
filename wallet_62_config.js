@@ -1,1 +1,1 @@
-var mnemonic = "fiber crash lawn phrase general rookie adjust apple champion syrup genius three";
+var mnemonic = "reunion grace page side fold amount celery debris enemy proud awesome actual";

@@ -1,1 +1,1 @@
-var mnemonic = "save antique card start plate sure item cram able enforce inject mirror";
+var mnemonic = "lens arch resemble list finish evoke pave blanket hedgehog dumb useless wink";

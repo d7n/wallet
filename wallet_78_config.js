@@ -1,1 +1,1 @@
-var mnemonic = "knife soul exist problem safe error wait raven animal assist cricket during";
+var mnemonic = "embrace review fringe pumpkin love attend nose wrist winter fiber aisle business";

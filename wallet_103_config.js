@@ -1,1 +1,1 @@
-var mnemonic = "bench athlete tomorrow chief mirror bright card gather taxi erupt wave stem";
+var mnemonic = "fiscal source brass piece toast zone eagle cheese own when cricket anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "episode satoshi shed drip eye vendor believe slush draft lamp toss swing";
+var mnemonic = "roast ability climb expire eight frequent orient pepper olive example major canyon";

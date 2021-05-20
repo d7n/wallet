@@ -1,1 +1,1 @@
-var mnemonic = "hard injury swift rifle describe lizard attract device visa exact wool sea";
+var mnemonic = "dumb smooth fog symptom cute six year that visa special forest guilt";

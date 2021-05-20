@@ -1,1 +1,1 @@
-var mnemonic = "pelican biology kidney taxi ensure music buzz near end ugly patient visit";
+var mnemonic = "evidence captain arctic amount usage bullet spin balcony story fox crash giggle";

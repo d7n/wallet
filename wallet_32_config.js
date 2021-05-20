@@ -1,1 +1,1 @@
-var mnemonic = "hill attitude wrist jungle fold sunset drama snow liberty bonus cabin cause";
+var mnemonic = "good fuel garage soldier shiver action crater village acid vacuum silver excite";

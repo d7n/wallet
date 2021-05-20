@@ -1,1 +1,1 @@
-var mnemonic = "stuff city defense mystery category salute art divorce alter favorite hundred mind";
+var mnemonic = "essay uniform century cross casual rich absurd you good uncle source metal";

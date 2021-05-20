@@ -1,1 +1,1 @@
-var mnemonic = "auction rough uncover want rice alcohol shiver canyon bargain edit estate opera";
+var mnemonic = "coach goddess few render parent height carry pond drop mix animal opinion";

@@ -1,1 +1,1 @@
-var mnemonic = "latin badge chief breeze found stuff arrow label lock joy reflect sister";
+var mnemonic = "trigger amateur tennis peanut grit code cup gym october sing zoo undo";

@@ -1,1 +1,1 @@
-var mnemonic = "giant glide useless milk journey recycle corn ice faint scheme oven seven";
+var mnemonic = "stable hole fish boil people coffee seek frost chair ankle window pave";

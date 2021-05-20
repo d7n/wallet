@@ -1,1 +1,1 @@
-var mnemonic = "noise truck rebuild edit route digital oblige stock crop dwarf day lumber";
+var mnemonic = "vague viable group recycle fatal tape kidney spike obvious song pen deal";

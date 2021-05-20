@@ -1,1 +1,1 @@
-var mnemonic = "fitness lemon sorry hobby iron spread venture harvest lake alien liar castle";
+var mnemonic = "vibrant learn firm shrug drastic search document outside tide witness original pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "tube enforce enemy popular knee marble coyote brass wrap cricket hour expand";
+var mnemonic = "asthma dose insane palm inner step obvious crane busy moment science length";

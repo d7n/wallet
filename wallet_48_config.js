@@ -1,1 +1,1 @@
-var mnemonic = "turn remove bottom absorb dinosaur measure foil have kiwi throw area clay";
+var mnemonic = "typical feed clay hub gospel loan pear penalty library good cover sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter thought check festival grab salon object captain mean stable exit antenna";
+var mnemonic = "wolf festival spy ripple chair enjoy state soul early open charge insect";

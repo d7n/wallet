@@ -1,1 +1,1 @@
-var mnemonic = "track claw tiger cruel excuse donate job hello magnet hair crew work";
+var mnemonic = "coil limit deer arena urban next during spell civil fragile museum tissue";

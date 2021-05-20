@@ -1,1 +1,1 @@
-var mnemonic = "cost sting donor cricket program clay giggle ball child stage affair boat";
+var mnemonic = "concert noble tank couple object charge goose biology glass beach winner clog";

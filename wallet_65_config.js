@@ -1,1 +1,1 @@
-var mnemonic = "wine clever chef marine net oxygen another reveal primary burden explain vehicle";
+var mnemonic = "coffee task public execute cloth eager cream people thing embrace bonus front";

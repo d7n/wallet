@@ -1,1 +1,1 @@
-var mnemonic = "aerobic devote between harvest away tunnel nose that oval imitate bunker disorder";
+var mnemonic = "flavor phrase collect write hill author caught staff unique regular battle correct";

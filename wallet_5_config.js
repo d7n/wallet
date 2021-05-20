@@ -1,1 +1,1 @@
-var mnemonic = "comfort jar slender payment problem cross trophy treat spend kitchen affair example";
+var mnemonic = "prosper chuckle write average cruise runway tobacco guess wage exercise oppose thought";

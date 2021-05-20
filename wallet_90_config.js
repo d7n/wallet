@@ -1,1 +1,1 @@
-var mnemonic = "key fury laugh window stand firm atom order mixture annual snow expect";
+var mnemonic = "behind venue enough patient leave tool myself exact cannon wine knee whip";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble craft crowd prison bomb capable matrix brisk mimic quantum coconut depth";
+var mnemonic = "cliff survey yellow price slow parade diet water upon engine notice ketchup";

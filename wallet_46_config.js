@@ -1,1 +1,1 @@
-var mnemonic = "robot woman monkey estate wasp update era sleep way cinnamon satisfy expose";
+var mnemonic = "category estate carry silver thing ethics evil buffalo brother orphan final possible";

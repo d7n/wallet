@@ -1,1 +1,1 @@
-var mnemonic = "stumble attract repeat tumble unaware silly panda destroy throw arctic inherit key";
+var mnemonic = "apple okay club endless will cargo outdoor oval volcano choice aware symptom";

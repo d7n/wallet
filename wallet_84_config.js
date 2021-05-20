@@ -1,1 +1,1 @@
-var mnemonic = "virtual solution tunnel script funny nation amazing good egg pluck draw enter";
+var mnemonic = "meat bus have mistake page permit elegant suspect nest someone dream mutual";

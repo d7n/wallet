@@ -1,1 +1,1 @@
-var mnemonic = "diet situate snow damage lady put exist impose excess age cargo appear";
+var mnemonic = "physical crowd negative drop pigeon mango harsh wet taxi virtual scout human";

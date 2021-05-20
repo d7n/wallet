@@ -1,1 +1,1 @@
-var mnemonic = "moon multiply mass walk absorb always comfort bulk humble snack fame provide";
+var mnemonic = "absorb pledge crunch skill blade lawn setup blush arena right rude load";

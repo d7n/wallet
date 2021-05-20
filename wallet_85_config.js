@@ -1,1 +1,1 @@
-var mnemonic = "diamond vicious fiber satisfy sheriff erupt liquid cheese seminar feature settle during";
+var mnemonic = "eye reunion absorb clinic project broccoli favorite stool idea young lock birth";
