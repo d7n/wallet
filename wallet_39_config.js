@@ -1,1 +1,1 @@
-var mnemonic = "broccoli rhythm equip dune receive wrap double since odor muffin only almost";
+var mnemonic = "ignore immune climb organ flip winner salt sausage exhibit inherit essence diesel";

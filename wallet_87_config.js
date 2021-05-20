@@ -1,1 +1,1 @@
-var mnemonic = "wool tip brush major abstract embody apart grocery oxygen lawn answer genre";
+var mnemonic = "dumb parent donkey volcano crowd rabbit ribbon olympic guess grunt laugh pony";

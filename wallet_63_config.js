@@ -1,1 +1,1 @@
-var mnemonic = "barely federal body later during film voyage claw danger kitchen mouse wing";
+var mnemonic = "mother sting tunnel allow three garage baby weather pitch bean pear emotion";

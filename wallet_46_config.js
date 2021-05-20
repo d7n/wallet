@@ -1,1 +1,1 @@
-var mnemonic = "illness build violin dawn pave review orphan cabbage shock wear fossil base";
+var mnemonic = "paddle fortune soldier capital stone mountain bounce lunch census risk age chimney";

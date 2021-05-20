@@ -1,1 +1,1 @@
-var mnemonic = "saddle fun memory brush brisk caught car lake outdoor fabric resist spawn";
+var mnemonic = "fat neutral sleep cushion route unveil speak float nothing design shuffle dutch";

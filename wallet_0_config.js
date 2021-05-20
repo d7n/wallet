@@ -1,1 +1,1 @@
-var mnemonic = "peace life later summer rally elegant gadget tuition globe pudding govern dirt";
+var mnemonic = "fiction sand student miss taxi market spatial garbage kiwi embody vote hip";

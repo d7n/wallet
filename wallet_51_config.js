@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ski actual grab rebel senior able buzz sunny trash choice island";
+var mnemonic = "bone element lock april trap trigger addict chair humor degree cricket denial";

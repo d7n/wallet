@@ -1,1 +1,1 @@
-var mnemonic = "pepper play ginger prison mesh dinosaur lesson actress witness relax loop edit";
+var mnemonic = "pet mobile consider awful music option laundry blast region clever unlock eyebrow";

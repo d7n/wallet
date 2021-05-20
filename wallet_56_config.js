@@ -1,1 +1,1 @@
-var mnemonic = "mosquito loop rent jar disagree inspire lab accuse cable laugh crystal lawsuit";
+var mnemonic = "velvet light series explain increase menu trigger riot butter apart mosquito mechanic";

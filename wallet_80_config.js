@@ -1,1 +1,1 @@
-var mnemonic = "tube sock doll aspect predict near ski hamster clown canal stumble razor";
+var mnemonic = "park grain execute dawn buddy bubble tackle parade auto bleak split gold";

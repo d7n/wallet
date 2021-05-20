@@ -1,1 +1,1 @@
-var mnemonic = "adjust announce clever solar refuse client bless pepper elevator unveil glove general";
+var mnemonic = "adapt mutual north unique split head join guitar one suspect cloud nation";

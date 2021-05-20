@@ -1,1 +1,1 @@
-var mnemonic = "split leg fever clerk swarm galaxy blouse club group mercy loyal diet";
+var mnemonic = "polar sentence until want aspect trouble satoshi roast shadow magnet depart weather";

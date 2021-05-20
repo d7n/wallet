@@ -1,1 +1,1 @@
-var mnemonic = "second over chronic prevent shaft volume depth hotel zebra dizzy obvious step";
+var mnemonic = "witness heavy example subway they sand hand wisdom junk lucky hen artwork";

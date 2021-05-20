@@ -1,1 +1,1 @@
-var mnemonic = "deer sketch remember wreck math wine monitor village monster general umbrella worry";
+var mnemonic = "hard alone demise gravity near yard grow doll current slab gallery stable";

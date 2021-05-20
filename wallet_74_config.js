@@ -1,1 +1,1 @@
-var mnemonic = "fold vacuum receive attitude air boring antenna choose armor federal resist inhale";
+var mnemonic = "flight before lizard matrix digital budget unaware business radio envelope scale brain";

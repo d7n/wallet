@@ -1,1 +1,1 @@
-var mnemonic = "below choice ancient pink brisk begin island razor pencil then hurdle portion";
+var mnemonic = "law iron drip pig wealth wrap post can neither same despair pepper";

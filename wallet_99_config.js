@@ -1,1 +1,1 @@
-var mnemonic = "disorder beyond shoot victory wasp clock fitness capable notice other universe cable";
+var mnemonic = "you language laundry old beauty digital exist gauge drastic change promote canal";

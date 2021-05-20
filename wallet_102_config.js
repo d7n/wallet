@@ -1,1 +1,1 @@
-var mnemonic = "perfect strong master struggle matter resemble visa vapor rotate valve math excess";
+var mnemonic = "satisfy employ useless water derive crater present below quick glue cream tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug waste tennis stick modify casino fluid color vacant meadow salmon kind";
+var mnemonic = "system stem peanut apart cross pole glimpse title base alien merry bulb";

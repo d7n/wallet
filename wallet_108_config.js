@@ -1,1 +1,1 @@
-var mnemonic = "inside assume drift soda lawsuit emerge acoustic tourist awake fold appear biology";
+var mnemonic = "dragon robot law vacuum subject chase reform symbol panda giggle charge element";

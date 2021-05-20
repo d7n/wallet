@@ -1,1 +1,1 @@
-var mnemonic = "razor tree burden census auction swing once ostrich negative ritual whip rural";
+var mnemonic = "wink actor muscle shine time host endless you blanket misery donkey cigar";

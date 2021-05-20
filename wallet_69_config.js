@@ -1,1 +1,1 @@
-var mnemonic = "jelly board early bargain flower bid debate sport kiwi taxi truly various";
+var mnemonic = "gravity hazard unknown expand forest finish spare copper own sketch local flight";

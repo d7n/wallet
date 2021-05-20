@@ -1,1 +1,1 @@
-var mnemonic = "crane twist warfare hover ecology october check apple settle effort essay anxiety";
+var mnemonic = "economy gap float resource fly fat cereal time baby castle hole divert";

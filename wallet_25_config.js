@@ -1,1 +1,1 @@
-var mnemonic = "sausage suffer chest ozone mammal illness bus blossom enlist lend bullet diary";
+var mnemonic = "invest short viable fever marble depart cable shy ridge when inspire polar";

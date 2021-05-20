@@ -1,1 +1,1 @@
-var mnemonic = "certain tuition shove pride taste vast expect differ liar effort unable toss";
+var mnemonic = "talk enable pill light ride evidence nurse element sword table attitude screen";

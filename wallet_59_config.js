@@ -1,1 +1,1 @@
-var mnemonic = "dutch much excuse nut another tourist hint fitness define idea fox spray";
+var mnemonic = "ghost neutral reject pulp discover door glance lunar punch prison guilt century";

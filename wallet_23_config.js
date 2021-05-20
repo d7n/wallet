@@ -1,1 +1,1 @@
-var mnemonic = "umbrella urban donkey orphan pepper prevent vocal inner suggest shoulder shoe chimney";
+var mnemonic = "position follow pizza entire travel gown despair dial fetch speak involve suggest";

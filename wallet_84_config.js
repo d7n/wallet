@@ -1,1 +1,1 @@
-var mnemonic = "awesome april butter unlock outside acquire staff idle improve speed puzzle weather";
+var mnemonic = "relax trouble rather paddle dog slide hungry talent forum piece sister culture";

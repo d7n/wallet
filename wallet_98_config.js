@@ -1,1 +1,1 @@
-var mnemonic = "aim market please prize layer one predict clock south forum bus lady";
+var mnemonic = "dynamic kid toss kind inside mandate fiction media hungry casino rice disagree";

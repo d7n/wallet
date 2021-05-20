@@ -1,1 +1,1 @@
-var mnemonic = "ugly dumb song sun fat employ kidney addict alarm sound surprise diary";
+var mnemonic = "wagon pilot project night galaxy gallery catch boat patient travel original caught";

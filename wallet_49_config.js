@@ -1,1 +1,1 @@
-var mnemonic = "script velvet system paper ice field outside venue pelican stamp patient worry";
+var mnemonic = "thing clean that orient embody sand budget win winter reveal define tag";

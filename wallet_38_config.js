@@ -1,1 +1,1 @@
-var mnemonic = "connect half sea window ocean anxiety increase home ship quit smart kingdom";
+var mnemonic = "expose reward dry attract style anger pill chaos rigid alarm laptop high";

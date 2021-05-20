@@ -1,1 +1,1 @@
-var mnemonic = "fame bounce result plastic vast broom humor grace once veteran obvious dose";
+var mnemonic = "utility vital process smart hotel spider anchor wear buddy consider brass medal";

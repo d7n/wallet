@@ -1,1 +1,1 @@
-var mnemonic = "mimic shift blanket age speed disorder maximum what knife unfold endorse cross";
+var mnemonic = "kitchen limb flat arm history ride eternal erosion color home suspect eternal";

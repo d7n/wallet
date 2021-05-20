@@ -1,1 +1,1 @@
-var mnemonic = "victory repeat squeeze drink chronic minimum divide solid whisper wife edit company";
+var mnemonic = "artwork motion dutch relax butter trust give wide inherit twice cheap gift";

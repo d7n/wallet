@@ -1,1 +1,1 @@
-var mnemonic = "voice private limit tree deny provide pink empower polar climb three segment";
+var mnemonic = "rack author blame picnic proud dress ripple fantasy summer defy subway clock";

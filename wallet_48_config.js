@@ -1,1 +1,1 @@
-var mnemonic = "glass frost tornado moment letter valid employ race stairs odor diary page";
+var mnemonic = "chicken neck can cram excuse rifle donkey solve just bind ocean someone";

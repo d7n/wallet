@@ -1,1 +1,1 @@
-var mnemonic = "city swear mask search nation hello chunk floor stay fortune sausage isolate";
+var mnemonic = "axis legend surprise jewel silent public lens monkey crystal dutch plastic loyal";

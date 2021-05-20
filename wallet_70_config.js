@@ -1,1 +1,1 @@
-var mnemonic = "giggle close wear behave install marriage anger thrive cat you blur indicate";
+var mnemonic = "waste glass chimney riot cube alarm faculty air trade round bounce medal";

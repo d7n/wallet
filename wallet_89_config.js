@@ -1,1 +1,1 @@
-var mnemonic = "bulb skin holiday control away this recall exhaust quarter decrease fan foil";
+var mnemonic = "carbon swallow prevent drill survey note fetch census abandon sun wire dragon";

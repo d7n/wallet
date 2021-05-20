@@ -1,1 +1,1 @@
-var mnemonic = "weapon raise submit tooth early still betray wheat shallow evolve hat autumn";
+var mnemonic = "impact inhale wagon walk negative square bamboo flat liberty service gather mix";

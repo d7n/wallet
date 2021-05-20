@@ -1,1 +1,1 @@
-var mnemonic = "garlic family matter belt rate achieve fossil security around hawk trade favorite";
+var mnemonic = "boil drop giant primary maple license verb gaze humor scrub tilt region";

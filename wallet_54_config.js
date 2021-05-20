@@ -1,1 +1,1 @@
-var mnemonic = "few solution holiday endorse high spoil immense doll parrot kick clap syrup";
+var mnemonic = "life mercy present switch eyebrow holiday plunge bachelor august kid brass lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "feed casino fetch caught tornado below broken sing sample black rule spatial";
+var mnemonic = "sense assault diesel aisle blade gate absurd web ski employ margin derive";

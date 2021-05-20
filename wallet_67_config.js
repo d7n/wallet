@@ -1,1 +1,1 @@
-var mnemonic = "zebra pact feature home advice squirrel weekend onion write trap say zebra";
+var mnemonic = "ugly lounge almost boss strike sail health govern damage attract amazing useful";

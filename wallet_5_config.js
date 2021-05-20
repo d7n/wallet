@@ -1,1 +1,1 @@
-var mnemonic = "tuna math alley silent rude among uphold recycle chat hammer destroy reopen";
+var mnemonic = "essence blade cheese illegal sad leader bind type space universe multiply film";

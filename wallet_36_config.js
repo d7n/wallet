@@ -1,1 +1,1 @@
-var mnemonic = "tell offer behave gasp diamond flag enemy follow drastic help basic lens";
+var mnemonic = "avoid have enter lava sing decline horror pigeon antenna apology tide erode";

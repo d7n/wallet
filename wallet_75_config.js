@@ -1,1 +1,1 @@
-var mnemonic = "climb mechanic ten polar toward such road smoke pen cash laundry access";
+var mnemonic = "couch genre engine elephant agent chuckle wheat symbol rate aim grain boss";

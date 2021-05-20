@@ -1,1 +1,1 @@
-var mnemonic = "pilot chronic square health seek purse hotel phrase van essence settle stumble";
+var mnemonic = "unit absorb food float doctor runway alert bench curious crisp soup transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "agent knee radar adjust coffee dad rebuild agent rose blame solve paper";
+var mnemonic = "rely comic predict equip pony spider wheat pigeon dish lava settle answer";

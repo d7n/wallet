@@ -1,1 +1,1 @@
-var mnemonic = "flash analyst useful gas trouble ginger humor ketchup senior exhibit dismiss upon";
+var mnemonic = "bargain filter middle wrap soon marine below stock menu auction miss length";

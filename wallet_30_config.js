@@ -1,1 +1,1 @@
-var mnemonic = "city month monkey wild magic gallery arrive bright fiber dove gesture divide";
+var mnemonic = "monkey federal obscure jeans anger deny better trip coconut lecture pumpkin path";

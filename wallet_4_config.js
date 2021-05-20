@@ -1,1 +1,1 @@
-var mnemonic = "monster cost bachelor funny sentence cotton humble damp ten job chapter agree";
+var mnemonic = "hour rail wave umbrella mimic vacant smart atom rubber industry veteran world";

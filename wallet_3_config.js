@@ -1,1 +1,1 @@
-var mnemonic = "sail electric session argue favorite gun change foil ignore attract zone leader";
+var mnemonic = "wave maze ecology eight seed wood glance arrange proof potato satoshi wool";

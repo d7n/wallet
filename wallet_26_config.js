@@ -1,1 +1,1 @@
-var mnemonic = "bright infant keep ozone ordinary letter drink exhaust magnet party bullet tower";
+var mnemonic = "energy bulk bulb muscle amateur merit have cushion prize exit castle unfold";

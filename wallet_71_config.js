@@ -1,1 +1,1 @@
-var mnemonic = "shadow keen pulse oyster scare dismiss double trophy shed current pumpkin employ";
+var mnemonic = "fork quiz good two salon ordinary genius box panel gospel sea add";

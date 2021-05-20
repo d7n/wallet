@@ -1,1 +1,1 @@
-var mnemonic = "blame arrow flash find uncle lab cycle share wife addict fix animal";
+var mnemonic = "eight address member age ribbon verify toilet sick observe fitness balcony rare";

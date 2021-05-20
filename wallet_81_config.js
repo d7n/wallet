@@ -1,1 +1,1 @@
-var mnemonic = "reunion garden pause danger speed breeze once kingdom execute canoe empty settle";
+var mnemonic = "october fat vessel host crime vital dress pelican tragic degree uncle balance";

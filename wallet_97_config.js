@@ -1,1 +1,1 @@
-var mnemonic = "endorse install mirror license excuse tuna negative shy morning upper machine valve";
+var mnemonic = "gorilla prefer viable globe weekend exist roast culture dinner truly special feel";

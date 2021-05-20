@@ -1,1 +1,1 @@
-var mnemonic = "roof custom fresh network evoke fan wink denial error kid biology obscure";
+var mnemonic = "hybrid food tortoise gravity attract arrive bomb question age lounge patrol load";

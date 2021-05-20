@@ -1,1 +1,1 @@
-var mnemonic = "brush load mountain quality walk mammal frog false trash trophy tornado assault";
+var mnemonic = "elevator upper settle prefer slide demand behave virtual exclude script shell coach";

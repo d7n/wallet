@@ -1,1 +1,1 @@
-var mnemonic = "crystal later belt endless direct glare easy shift half slogan cart spirit";
+var mnemonic = "profit learn work agree west trend skin fish myself salt decorate soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "gas tired innocent unhappy behave script gun admit skate raw village extra";
+var mnemonic = "cricket sheriff asthma matter reward ranch random lyrics more live tomato marriage";

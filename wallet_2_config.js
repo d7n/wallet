@@ -1,1 +1,1 @@
-var mnemonic = "clown tooth slush lumber nominee nose normal volume one catalog clock ship";
+var mnemonic = "silk heavy royal during camp hazard wheel already round camera flip toddler";

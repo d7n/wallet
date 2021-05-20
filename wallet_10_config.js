@@ -1,1 +1,1 @@
-var mnemonic = "inject wreck math mass flag select collect hunt okay bachelor mad torch";
+var mnemonic = "veteran battle cube educate judge verify hour already mountain harsh car rude";

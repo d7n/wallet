@@ -1,1 +1,1 @@
-var mnemonic = "clip love between evolve dance govern popular huge profit segment bunker jungle";
+var mnemonic = "tonight trophy machine essence crucial tail cable fragile twist cupboard name manual";

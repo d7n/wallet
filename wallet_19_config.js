@@ -1,1 +1,1 @@
-var mnemonic = "cannon appear negative eternal couple supply noodle cancel patch kitten material symbol";
+var mnemonic = "hunt biology extend today sponsor jacket daughter pelican whisper crumble photo cage";

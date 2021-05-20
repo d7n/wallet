@@ -1,1 +1,1 @@
-var mnemonic = "culture fine seven three frame rifle labor vessel steel toy anxiety brass";
+var mnemonic = "citizen sentence roast cement oppose stable fold vicious action virtual order holiday";

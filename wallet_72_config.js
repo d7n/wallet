@@ -1,1 +1,1 @@
-var mnemonic = "gasp amount brisk burden mansion patch cluster because kid actual pluck receive";
+var mnemonic = "joy release thing salt firm power jelly arrive post giant garage apart";

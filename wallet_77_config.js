@@ -1,1 +1,1 @@
-var mnemonic = "view call rice raw marine unique bicycle silent tumble fish erosion beef";
+var mnemonic = "rose abuse crisp ginger rival column fashion hollow connect enjoy first slender";

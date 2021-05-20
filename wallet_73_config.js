@@ -1,1 +1,1 @@
-var mnemonic = "skin grace recall razor rotate opera riot young hold found foam make";
+var mnemonic = "gain announce protect pilot buffalo reveal toe skill museum they cricket diary";

@@ -1,1 +1,1 @@
-var mnemonic = "frost focus portion brick exact weasel tomorrow repeat buzz push fossil law";
+var mnemonic = "alcohol dynamic agent local layer cruise govern penalty struggle fade guard front";

@@ -1,1 +1,1 @@
-var mnemonic = "erase scare sight monkey prosper celery cube limb token stick bless tide";
+var mnemonic = "two final eye sentence abuse wheat tired major hard season notice glance";

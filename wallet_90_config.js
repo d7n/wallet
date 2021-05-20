@@ -1,1 +1,1 @@
-var mnemonic = "hire file cradle route embody hundred grain page deal palm fox market";
+var mnemonic = "into wild plate result hole focus front churn game journey reopen riot";

@@ -1,1 +1,1 @@
-var mnemonic = "main solution clerk learn recycle depend tuition together gadget unknown insect away";
+var mnemonic = "omit pill picnic argue age retire hold noble system frequent cannon town";

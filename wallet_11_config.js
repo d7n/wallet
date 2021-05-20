@@ -1,1 +1,1 @@
-var mnemonic = "give run hospital corn fruit letter trim peanut misery hungry sell discover";
+var mnemonic = "panel put spell want tuition latin present about believe what rally expose";

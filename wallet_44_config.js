@@ -1,1 +1,1 @@
-var mnemonic = "fault salad lawn gallery course can camp pear ceiling bicycle awesome leave";
+var mnemonic = "bubble project average jaguar unlock duty stock embrace bird seminar brother family";

@@ -1,1 +1,1 @@
-var mnemonic = "usage inquiry file floor pause creek trend polar over nothing talent much";
+var mnemonic = "cereal lamp dentist fresh dish bracket fossil balcony floor absorb whip husband";

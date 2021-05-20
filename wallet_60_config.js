@@ -1,1 +1,1 @@
-var mnemonic = "maximum spawn satoshi album moment message base any swear verify disagree traffic";
+var mnemonic = "evidence thought bronze focus merry engine benefit mouse easy cliff stomach spawn";

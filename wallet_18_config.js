@@ -1,1 +1,1 @@
-var mnemonic = "gas attract wasp royal forget club hen bench swear neither enjoy nest";
+var mnemonic = "sunset list soda gentle mouse laugh tooth minimum swallow concert install sauce";

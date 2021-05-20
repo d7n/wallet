@@ -1,1 +1,1 @@
-var mnemonic = "shoulder frozen barrel weapon shuffle sense anxiety morning shop film ripple close";
+var mnemonic = "voyage tip toilet sign punch increase universe helmet misery soft glory tiger";

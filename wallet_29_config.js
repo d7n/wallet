@@ -1,1 +1,1 @@
-var mnemonic = "lesson carpet fine still skill dash shiver twist skull curious fall obscure";
+var mnemonic = "small phrase oven salmon fever earth fish style evolve awake educate decide";

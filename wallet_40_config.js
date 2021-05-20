@@ -1,1 +1,1 @@
-var mnemonic = "cram else three chief garbage choose number shine connect escape receive success";
+var mnemonic = "short involve blossom elite behind logic budget chunk nurse casual hip awake";

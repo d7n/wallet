@@ -1,1 +1,1 @@
-var mnemonic = "predict cereal million dignity emotion arena build dirt galaxy raw game engine";
+var mnemonic = "exist fatigue chronic also candy daughter outdoor receive old double bacon bless";

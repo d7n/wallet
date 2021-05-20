@@ -1,1 +1,1 @@
-var mnemonic = "service suspect rather extend good rhythm copy release tragic together forward venture";
+var mnemonic = "rose width bird tribe sunset whisper item earn suffer federal chapter crawl";

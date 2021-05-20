@@ -1,1 +1,1 @@
-var mnemonic = "charge labor wing exist devote spin stumble ginger chicken veteran pink lab";
+var mnemonic = "mimic leopard anchor fence body all subway jeans sun deny hidden hole";

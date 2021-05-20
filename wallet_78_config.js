@@ -1,1 +1,1 @@
-var mnemonic = "social enjoy grocery hungry spoil saddle goat never act harbor able praise";
+var mnemonic = "south sketch unknown pluck perfect nurse sad thumb immense human report piece";

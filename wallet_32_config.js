@@ -1,1 +1,1 @@
-var mnemonic = "shiver net inspire call swift rigid adult noodle cherry leg level dance";
+var mnemonic = "neutral youth civil best income police rely asthma cabin silk fluid orbit";

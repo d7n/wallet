@@ -1,1 +1,1 @@
-var mnemonic = "absorb decorate decrease cluster fortune option discover spice sister lesson melt taste";
+var mnemonic = "farm gun dog oxygen absurd diagram expect pistol ship fantasy tennis similar";

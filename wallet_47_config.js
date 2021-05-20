@@ -1,1 +1,1 @@
-var mnemonic = "quote region reopen clip air luggage cannon detail lazy depth peanut oppose";
+var mnemonic = "skin trash voice soul balcony adapt depart aspect viable gentle sail wonder";

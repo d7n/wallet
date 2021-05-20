@@ -1,1 +1,1 @@
-var mnemonic = "decrease grant remain pony bench erode equal travel business cheese leaf forum";
+var mnemonic = "slab project dance air among solution funny return crop buffalo ginger entire";

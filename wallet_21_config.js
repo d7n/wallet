@@ -1,1 +1,1 @@
-var mnemonic = "apple reflect source system correct dinner tip spell slush system canoe ahead";
+var mnemonic = "team lounge buzz normal render silent ladder evoke antique snake fox artist";

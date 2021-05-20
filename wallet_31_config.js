@@ -1,1 +1,1 @@
-var mnemonic = "total mansion lazy tennis knee venture flower access theory normal wage turkey";
+var mnemonic = "electric shuffle brisk plastic modify inmate amount believe agent gate stadium spray";
