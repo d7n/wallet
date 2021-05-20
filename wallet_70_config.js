@@ -1,1 +1,1 @@
-var mnemonic = "allow lunch undo permit bulk reward build misery plastic extra afraid lounge";
+var mnemonic = "lucky magic bitter priority sphere camp fork account trophy solar banana tape";

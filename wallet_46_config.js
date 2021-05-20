@@ -1,1 +1,1 @@
-var mnemonic = "help critic barely laugh popular side kitten reason sand taste express color";
+var mnemonic = "enemy fox guard eight stove auto monitor evidence artwork play describe smoke";

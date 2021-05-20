@@ -1,1 +1,1 @@
-var mnemonic = "turtle slab cement glimpse diet inflict luggage bright sound survey small nuclear";
+var mnemonic = "fly divert faint mother bronze ribbon girl advice sketch bargain goddess decorate";

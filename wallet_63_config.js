@@ -1,1 +1,1 @@
-var mnemonic = "wheel select depth hunt shy heart spray profit abuse surround whisper fire";
+var mnemonic = "slow space equal near mystery adjust pass grain waste cash flight stomach";

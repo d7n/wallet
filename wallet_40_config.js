@@ -1,1 +1,1 @@
-var mnemonic = "sudden skate reunion fame scorpion remind deer chef grain sphere recipe nice";
+var mnemonic = "list forget problem faculty inject catalog pet purpose hood chef novel bronze";

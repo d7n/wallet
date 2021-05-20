@@ -1,1 +1,1 @@
-var mnemonic = "dish kiss era defense rifle puppy swing roast shrug fury head chronic";
+var mnemonic = "alarm subject guitar powder swift brave jar finish collect panther escape lion";

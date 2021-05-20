@@ -1,1 +1,1 @@
-var mnemonic = "universe habit donate crater clean nurse exotic pear gain fox desk opera";
+var mnemonic = "noise cushion uncover salute attack general leave fetch exercise pyramid exhibit flip";

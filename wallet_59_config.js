@@ -1,1 +1,1 @@
-var mnemonic = "blast tennis phrase sheriff ritual indicate rabbit glue finger dizzy cereal ethics";
+var mnemonic = "lawn scrub marine episode upper ahead valley menu glide notable front symptom";

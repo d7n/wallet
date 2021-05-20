@@ -1,1 +1,1 @@
-var mnemonic = "radar jungle chronic summer release razor view wood friend enact topple wisdom";
+var mnemonic = "bring gift pioneer clerk update melt stick weird liar oyster scene butter";

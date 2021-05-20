@@ -1,1 +1,1 @@
-var mnemonic = "home trouble sight region rely hundred swim subway noble anchor sweet expect";
+var mnemonic = "screen shuffle cupboard rail bus rice vague essence coast grunt usage palace";

@@ -1,1 +1,1 @@
-var mnemonic = "soft degree another gap elbow phrase refuse drill basic audit anchor bless";
+var mnemonic = "roof panther vital rocket rescue teach train puzzle suffer flag pipe dynamic";

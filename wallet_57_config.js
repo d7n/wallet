@@ -1,1 +1,1 @@
-var mnemonic = "index mix piano flight ethics outdoor ankle mom cinnamon luxury kite you";
+var mnemonic = "gown limb ketchup void buddy choice oyster lunar wave wasp sugar alone";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling build erode shy length appear lava concert flip cabbage stairs miss";
+var mnemonic = "before balcony tray actor bicycle camp nurse thrive area dune mixture gentle";

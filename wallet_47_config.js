@@ -1,1 +1,1 @@
-var mnemonic = "reveal term horn neck remove impulse fragile legal wear like rib price";
+var mnemonic = "cart project veteran erase budget abstract cycle receive industry super pen unveil";

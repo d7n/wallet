@@ -1,1 +1,1 @@
-var mnemonic = "match company company typical subway punch stairs latin loud gloom design help";
+var mnemonic = "lucky survey year present sentence timber hobby genius coyote climb twice concert";

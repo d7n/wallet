@@ -1,1 +1,1 @@
-var mnemonic = "involve panther fringe special slice media clap trouble barely mask train nurse";
+var mnemonic = "deliver mountain rhythm mean admit isolate river copper tourist coffee provide enter";

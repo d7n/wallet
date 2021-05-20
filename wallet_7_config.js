@@ -1,1 +1,1 @@
-var mnemonic = "tongue income army save erase harvest lens century giant equip thank topic";
+var mnemonic = "staff runway flee now lens tooth battle fatigue grid hello youth flip";

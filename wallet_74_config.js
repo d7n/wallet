@@ -1,1 +1,1 @@
-var mnemonic = "wire upset little divide fix friend green celery candy jar nothing title";
+var mnemonic = "beyond art screen speak lion cook kite travel glue involve scrub umbrella";

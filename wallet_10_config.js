@@ -1,1 +1,1 @@
-var mnemonic = "hub acoustic garment manage crouch february barely age close laptop turkey tissue";
+var mnemonic = "lake bird try loyal cement document mom sauce tissue ice actor action";

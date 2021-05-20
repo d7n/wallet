@@ -1,1 +1,1 @@
-var mnemonic = "buzz scissors blue lucky praise avocado liar object flash pepper prevent slam";
+var mnemonic = "razor country dice flat duty option buddy walnut over stamp spin uncle";

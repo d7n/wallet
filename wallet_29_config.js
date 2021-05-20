@@ -1,1 +1,1 @@
-var mnemonic = "level phone swap squeeze panic shell jelly lucky airport sheriff nothing problem";
+var mnemonic = "brief tiny spoil cabin tunnel exile inmate apple divorce slot alarm unfold";

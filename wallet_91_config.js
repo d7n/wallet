@@ -1,1 +1,1 @@
-var mnemonic = "light name follow festival mixture century sand tool main rural order boss";
+var mnemonic = "unit cushion immense aware symptom cat wool topic come news solution effort";

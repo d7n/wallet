@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow radar sibling smoke poem catalog member notable spice until claw rival";
+var mnemonic = "stable voice present rare awesome chief soldier student thunder bomb arrow display";

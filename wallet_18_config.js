@@ -1,1 +1,1 @@
-var mnemonic = "owner old cream topic lamp poet segment attend bulb document lonely solar";
+var mnemonic = "depth awkward few hire bridge fashion palace will creek wall chronic hidden";

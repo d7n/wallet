@@ -1,1 +1,1 @@
-var mnemonic = "rate scare seed venture party decorate warfare civil satoshi antique cruel guide";
+var mnemonic = "butter cake merge average wrist giant bitter bottom unique entire because loop";

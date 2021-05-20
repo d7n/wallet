@@ -1,1 +1,1 @@
-var mnemonic = "crop around culture clay prepare slim board air provide giant shove whale";
+var mnemonic = "simple inner onion fabric corn blouse horse verify age steak theory jewel";

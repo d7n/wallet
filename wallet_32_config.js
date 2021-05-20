@@ -1,1 +1,1 @@
-var mnemonic = "permit art peanut cart true bone robust elite learn inquiry cigar fall";
+var mnemonic = "kite wheel chalk rabbit note grace orient twist capable patrol chat text";

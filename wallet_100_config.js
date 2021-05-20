@@ -1,1 +1,1 @@
-var mnemonic = "left duck used pole blood magnet maid settle forum lonely coin walnut";
+var mnemonic = "flash crucial echo logic cable wire jungle cannon match swarm depart basket";

@@ -1,1 +1,1 @@
-var mnemonic = "swap achieve rally shuffle mouse expire elevator plunge water course comic possible";
+var mnemonic = "green common open garbage hurry gym top pull file menu rain subject";

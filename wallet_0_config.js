@@ -1,1 +1,1 @@
-var mnemonic = "state park survey then force quantum chuckle wink indoor cash swamp aisle";
+var mnemonic = "vintage team region abstract lava frozen dress inhale appear fabric hundred north";

@@ -1,1 +1,1 @@
-var mnemonic = "future banner blanket insect nurse exile result duck drink bomb kiss taste";
+var mnemonic = "broken alley slot peace slim host valley cover retire wheat claim drink";

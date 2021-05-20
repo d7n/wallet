@@ -1,1 +1,1 @@
-var mnemonic = "other fall guide icon own club journey have beyond recipe hat cart";
+var mnemonic = "govern easily smoke injury sausage boy wrap wise neither try walnut gown";

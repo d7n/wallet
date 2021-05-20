@@ -1,1 +1,1 @@
-var mnemonic = "valve survey critic cattle tissue dumb stone dutch clown tourist finish gaze";
+var mnemonic = "often loop river drive pride plate river brief frown start girl cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "crush ring first crouch thunder symbol ready long expire decade note desert";
+var mnemonic = "merge clarify region item stamp swap meat neck core believe nose spatial";

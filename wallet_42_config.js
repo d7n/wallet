@@ -1,1 +1,1 @@
-var mnemonic = "victory worth suit spike convince bus rain broken auction cliff pluck enroll";
+var mnemonic = "target adapt blush space sport cluster peasant hotel moon rely crystal hammer";

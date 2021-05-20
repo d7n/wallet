@@ -1,1 +1,1 @@
-var mnemonic = "process person candy craft forward kingdom cannon away orphan garlic energy palace";
+var mnemonic = "meadow horn limit certain plunge visa scale journey spoon better movie define";

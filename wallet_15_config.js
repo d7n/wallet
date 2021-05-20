@@ -1,1 +1,1 @@
-var mnemonic = "radar volume index steel mercy south cash sniff lunar hole return lab";
+var mnemonic = "night token dentist olive ecology buzz lecture finger isolate video gauge finger";

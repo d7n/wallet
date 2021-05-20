@@ -1,1 +1,1 @@
-var mnemonic = "joy tenant token rebuild toward cactus vacant nation coral offer toast climb";
+var mnemonic = "faculty toddler buzz slight wash spider blur milk fatigue decide wolf region";

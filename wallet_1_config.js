@@ -1,1 +1,1 @@
-var mnemonic = "valid useful high romance produce share latin tube lemon couch allow damage";
+var mnemonic = "lottery fold much lemon city despair globe skull humor aim punch junk";

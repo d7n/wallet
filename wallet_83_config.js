@@ -1,1 +1,1 @@
-var mnemonic = "dizzy square collect hen ring organ craft gasp below ginger utility cable";
+var mnemonic = "earn pony coconut slim obtain bread laugh certain just win hire noise";

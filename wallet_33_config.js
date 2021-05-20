@@ -1,1 +1,1 @@
-var mnemonic = "liberty nothing release worth enlist broken normal foot enforce submit skirt round";
+var mnemonic = "cheap crew topic embody tackle stand lottery fork own arm shallow file";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil afford want taste eye domain sphere vault estate range annual spare";
+var mnemonic = "deputy wise couch tape identify sell family blur bacon catch debris sweet";

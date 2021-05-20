@@ -1,1 +1,1 @@
-var mnemonic = "during inspire detect miracle original vast float owner bird payment august aisle";
+var mnemonic = "round camp shrimp staff shrimp loop toss book sea ready saddle move";

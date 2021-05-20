@@ -1,1 +1,1 @@
-var mnemonic = "lava strike ask grow affair vital toddler much carry toss deposit pencil";
+var mnemonic = "convince coffee virtual off divide burst company vessel bike burden erode latin";

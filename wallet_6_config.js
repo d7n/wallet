@@ -1,1 +1,1 @@
-var mnemonic = "popular frozen crane soft prosper live dust drum obscure panther large baby";
+var mnemonic = "feel access october horse endorse reform recall deposit tunnel isolate athlete error";

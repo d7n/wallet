@@ -1,1 +1,1 @@
-var mnemonic = "coyote useful this joy dizzy program river educate dignity bike moment marble";
+var mnemonic = "dentist merry arrest tank captain fringe tourist slow join eyebrow abandon exhaust";

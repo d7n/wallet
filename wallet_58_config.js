@@ -1,1 +1,1 @@
-var mnemonic = "draw illegal often detect video piece dumb bind subject good blind work";
+var mnemonic = "paper balance figure away usual jazz air still suggest winter laundry cube";

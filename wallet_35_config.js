@@ -1,1 +1,1 @@
-var mnemonic = "pig property shield cash kid chronic grow cool net cancel reopen sugar";
+var mnemonic = "silent forward envelope south curtain plug divorce topple mom fluid runway garden";

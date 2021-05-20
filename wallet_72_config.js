@@ -1,1 +1,1 @@
-var mnemonic = "save injury denial afraid logic firm arrow law hair crime zoo month";
+var mnemonic = "gasp swift flee also sorry valid lawn word lock lottery stone ensure";

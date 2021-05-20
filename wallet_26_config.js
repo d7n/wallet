@@ -1,1 +1,1 @@
-var mnemonic = "appear nerve anchor select harvest anxiety speed blind teach hawk borrow loud";
+var mnemonic = "retire proof horn cage tube extra accident gauge reward zebra similar blue";

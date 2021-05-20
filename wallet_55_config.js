@@ -1,1 +1,1 @@
-var mnemonic = "mimic era transfer diamond slight airport curtain diary lottery express alone explain";
+var mnemonic = "gaze merge chest pulp token begin angle cake wage shove bike sense";

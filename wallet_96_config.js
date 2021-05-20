@@ -1,1 +1,1 @@
-var mnemonic = "narrow fold energy change limb drama cup cook evil any river hurt";
+var mnemonic = "play garage neither agree piano ocean hard medal ten cargo soft expand";

@@ -1,1 +1,1 @@
-var mnemonic = "foam chuckle theory purse pudding amateur eight gorilla witness series easy isolate";
+var mnemonic = "master defy shop oven humble page drift strike neutral broom wrestle accident";

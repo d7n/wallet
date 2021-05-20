@@ -1,1 +1,1 @@
-var mnemonic = "kit squeeze audit frequent sponsor chronic truly lounge chimney source radar smoke";
+var mnemonic = "response retreat animal leader random future mouse couple parent remind unknown month";

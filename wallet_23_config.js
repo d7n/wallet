@@ -1,1 +1,1 @@
-var mnemonic = "reduce faculty force heavy cable allow fall push twenty punch labor vanish";
+var mnemonic = "expand ski pony bid claw enhance rail surround stem steel piece nuclear";

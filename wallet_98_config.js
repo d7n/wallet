@@ -1,1 +1,1 @@
-var mnemonic = "harbor almost humble arm subject boat obscure feed ahead type puppy one";
+var mnemonic = "potato start stomach doctor vault heart pudding typical machine anger blade claim";

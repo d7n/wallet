@@ -1,1 +1,1 @@
-var mnemonic = "beyond forest hand camera purity bulb subject armor iron wave dad popular";
+var mnemonic = "museum drive slush volume pride spot foster sample someone cactus witness wolf";

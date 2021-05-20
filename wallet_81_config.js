@@ -1,1 +1,1 @@
-var mnemonic = "bread sing cloth shine breeze major fee huge quit opinion minor can";
+var mnemonic = "journey lizard erase state dial castle embrace clay return student domain book";

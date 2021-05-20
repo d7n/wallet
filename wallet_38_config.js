@@ -1,1 +1,1 @@
-var mnemonic = "antique impose dolphin world flock magic worry holiday hurt marine assume drastic";
+var mnemonic = "sustain seven letter also faculty casino usual permit jaguar seat garage dolphin";

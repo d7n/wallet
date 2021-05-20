@@ -1,1 +1,1 @@
-var mnemonic = "office clutch mind banner finger later adjust grow torch rib jungle vacant";
+var mnemonic = "cloth speed blind shaft mom small path toddler elbow bargain own devote";

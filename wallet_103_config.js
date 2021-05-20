@@ -1,1 +1,1 @@
-var mnemonic = "horse tape shiver oyster nuclear knock joy cherry hollow portion praise fix";
+var mnemonic = "illegal traffic already material gown kick ski reveal end ahead scare engage";

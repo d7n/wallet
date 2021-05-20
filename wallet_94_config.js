@@ -1,1 +1,1 @@
-var mnemonic = "prize what tip thrive detail explain original reject trust regret pizza frown";
+var mnemonic = "cereal alpha foil oak execute frozen humor stay match unhappy hamster vital";

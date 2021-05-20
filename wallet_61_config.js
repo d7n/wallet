@@ -1,1 +1,1 @@
-var mnemonic = "primary slot remain logic improve evil fury swamp banner base episode solve";
+var mnemonic = "wisdom strong sketch ethics critic shrimp chuckle water fly stand bonus kiss";

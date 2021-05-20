@@ -1,1 +1,1 @@
-var mnemonic = "admit stable often crumble mom mutual marine phrase unique pumpkin kid canyon";
+var mnemonic = "cool humor soap shy thumb know nasty orchard end cupboard leaf faculty";

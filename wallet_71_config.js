@@ -1,1 +1,1 @@
-var mnemonic = "nature april clown near sheriff shoe since acoustic since alley wheel color";
+var mnemonic = "juice hover main radio pelican people paddle curve because intact sauce science";

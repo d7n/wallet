@@ -1,1 +1,1 @@
-var mnemonic = "fluid wheel draw utility file old staff use grant leave resist lumber";
+var mnemonic = "flavor idle rifle east magnet license pen album skirt peanut annual wear";

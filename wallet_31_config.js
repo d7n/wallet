@@ -1,1 +1,1 @@
-var mnemonic = "tackle pistol popular zoo rich certain guide wide goddess inspire critic nation";
+var mnemonic = "uncle butter what boring demise vehicle cotton bracket child symbol liquid wrap";

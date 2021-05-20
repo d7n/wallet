@@ -1,1 +1,1 @@
-var mnemonic = "camp accident picnic tackle rice scout dismiss scissors donor fan ladder expire";
+var mnemonic = "earn defy assault pond april worry public paddle crush science claw brave";

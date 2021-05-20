@@ -1,1 +1,1 @@
-var mnemonic = "cricket border march clap sight addict pulse harbor frame atom shop amount";
+var mnemonic = "voice jewel square until tongue little pave angle donate urge plate govern";

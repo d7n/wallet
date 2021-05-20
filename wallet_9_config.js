@@ -1,1 +1,1 @@
-var mnemonic = "view height peanut rifle elevator honey moral over weasel heart plastic rubber";
+var mnemonic = "poet sort orbit arm noodle already there aisle shoulder bunker equal onion";

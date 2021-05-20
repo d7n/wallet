@@ -1,1 +1,1 @@
-var mnemonic = "urban hobby lion snake course lab canal point rich silly bid liberty";
+var mnemonic = "village daring merit certain over skirt until clay taxi enable match dune";

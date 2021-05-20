@@ -1,1 +1,1 @@
-var mnemonic = "speed aisle print obscure grid south render lady cricket kit merit shell";
+var mnemonic = "egg joy grape cook arrive risk crack ridge bless purse echo dolphin";

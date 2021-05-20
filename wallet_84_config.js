@@ -1,1 +1,1 @@
-var mnemonic = "unable artist find plunge erupt sunny web hen devote exotic surge obey";
+var mnemonic = "wash rule rapid burst fruit rhythm identify cycle viable must buddy disagree";

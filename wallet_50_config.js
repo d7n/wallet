@@ -1,1 +1,1 @@
-var mnemonic = "ice distance ability bottom use birth grape stable toast response because world";
+var mnemonic = "latin traffic various nut palace ethics bonus hole occur smile slide orient";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge dial rule sail track salad fog census exotic already provide powder";
+var mnemonic = "social rich off gap warfare size seminar artist urban rebuild innocent note";

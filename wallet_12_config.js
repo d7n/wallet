@@ -1,1 +1,1 @@
-var mnemonic = "ginger mirror exotic wrap crunch disease village subject split rally diagram stuff";
+var mnemonic = "label business physical peace rigid beach tide april enrich film mobile ghost";

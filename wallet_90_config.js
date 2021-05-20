@@ -1,1 +1,1 @@
-var mnemonic = "rich lake swap lava scan issue crane duty pipe local rescue virtual";
+var mnemonic = "water budget animal mandate meadow pitch face hold play empower mixed exact";

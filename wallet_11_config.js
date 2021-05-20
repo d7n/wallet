@@ -1,1 +1,1 @@
-var mnemonic = "tumble reveal tragic caution wet moment tobacco physical ready blind solar loud";
+var mnemonic = "gather riot labor voice push spread harsh tennis chat segment ten property";

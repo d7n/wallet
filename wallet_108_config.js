@@ -1,1 +1,1 @@
-var mnemonic = "rail orange ensure seven tiny expire wheel horse catalog exotic spike album";
+var mnemonic = "cigar once head heart keen clock undo chuckle virtual seven verify ancient";

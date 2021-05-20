@@ -1,1 +1,1 @@
-var mnemonic = "inject exchange kind figure since summer indoor tank attract caught uncle glow";
+var mnemonic = "kit bonus like outer shaft length bracket depart kind gauge worth olympic";

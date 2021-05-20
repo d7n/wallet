@@ -1,1 +1,1 @@
-var mnemonic = "dismiss medal sea material bleak churn butter runway brisk hour avocado box";
+var mnemonic = "bless farm exhibit mandate degree funny art thunder leg wife deny invite";

@@ -1,1 +1,1 @@
-var mnemonic = "action trial always solid miracle south family sail orphan tool scene gap";
+var mnemonic = "style list fan around gossip awkward bulb erosion exit boost genre jelly";

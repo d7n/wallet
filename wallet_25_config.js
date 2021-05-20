@@ -1,1 +1,1 @@
-var mnemonic = "submit quiz two inherit knee shop soft pool boss when disagree capable";
+var mnemonic = "meat swarm seek fossil relax pride payment melt between beach mention solid";

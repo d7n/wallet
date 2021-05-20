@@ -1,1 +1,1 @@
-var mnemonic = "liberty enlist flee buzz one false lawn any adapt inspire sample denial";
+var mnemonic = "grunt brisk pair marine lunch oak green job swear devote sentence conduct";

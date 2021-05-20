@@ -1,1 +1,1 @@
-var mnemonic = "husband dinner help egg claim egg outer sing bind lawsuit kite fruit";
+var mnemonic = "humor toss dumb decline push foil become neutral marriage pizza idea absurd";

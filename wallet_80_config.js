@@ -1,1 +1,1 @@
-var mnemonic = "trouble live shrimp train hard awesome gravity jealous busy sunset segment undo";
+var mnemonic = "predict antenna train butter refuse system skull lava flame drastic hungry acquire";

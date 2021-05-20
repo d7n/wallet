@@ -1,1 +1,1 @@
-var mnemonic = "arch trophy light link quote canoe claw reunion ready glimpse piece jar";
+var mnemonic = "weather hungry model balance black diamond vivid potato trade venture all use";
