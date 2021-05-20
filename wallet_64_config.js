@@ -1,1 +1,1 @@
-var mnemonic = "crucial car body swift ginger dolphin abstract author afraid aware lend peace";
+var mnemonic = "route spike learn chronic cargo option practice margin comic label defense monitor";

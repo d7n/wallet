@@ -1,1 +1,1 @@
-var mnemonic = "panic cinnamon flag clutch amused limb item case finish van embark they";
+var mnemonic = "text beauty wave senior begin season space include stumble crumble kick hollow";

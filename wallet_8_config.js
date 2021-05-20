@@ -1,1 +1,1 @@
-var mnemonic = "fluid short alpha ceiling dawn slow ostrich goat have image midnight client";
+var mnemonic = "enough pilot letter void frost chest immune celery twenty ahead federal forest";

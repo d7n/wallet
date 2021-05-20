@@ -1,1 +1,1 @@
-var mnemonic = "prize submit warfare soup catch night rain ritual boring oyster radio treat";
+var mnemonic = "wing curious confirm mobile flip luxury ugly mimic before reason chair start";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid hybrid quick own hood swift faculty spray become wood exercise image";
+var mnemonic = "inflict maid display twin elder usage cube stool expose observe alter motion";

@@ -1,1 +1,1 @@
-var mnemonic = "glad damp daring attract club shoe tilt purchase combine prosper label kid";
+var mnemonic = "trick genre laptop purchase angry asthma swift approve position sugar fortune wash";

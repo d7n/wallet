@@ -1,1 +1,1 @@
-var mnemonic = "harvest protect bread real lesson dinner town citizen night sight bubble hurt";
+var mnemonic = "giggle era merry skate gate shell stick mercy hint wisdom kitchen language";

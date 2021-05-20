@@ -1,1 +1,1 @@
-var mnemonic = "gap tape deposit velvet repeat equal equal satoshi myself citizen forum burden";
+var mnemonic = "birth month light plastic catalog health use crazy choose december tooth tongue";

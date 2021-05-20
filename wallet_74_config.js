@@ -1,1 +1,1 @@
-var mnemonic = "wonder proof riot obtain demise salmon wreck observe surprise save early half";
+var mnemonic = "guard model depend valid quantum stable inherit rare begin corn shine unique";

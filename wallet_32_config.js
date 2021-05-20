@@ -1,1 +1,1 @@
-var mnemonic = "security basket affair smart hat wedding moon rapid member torch glow clock";
+var mnemonic = "skin impulse image limit runway bomb leave similar bronze bless valid control";

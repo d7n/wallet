@@ -1,1 +1,1 @@
-var mnemonic = "picnic cat inspire range narrow flush away patrol nothing process acoustic fashion";
+var mnemonic = "crawl clerk truly raw sail sword mention harvest hungry drop answer trigger";

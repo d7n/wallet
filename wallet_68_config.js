@@ -1,1 +1,1 @@
-var mnemonic = "mercy surround taxi session lucky island hair game unfair ribbon result expand";
+var mnemonic = "tissue return fork spend legal dumb hole trial become can unknown grief";

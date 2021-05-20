@@ -1,1 +1,1 @@
-var mnemonic = "engage target wheat unit nothing maze tackle mad artwork lawsuit ill universe";
+var mnemonic = "strike foam among lens excess pretty grant payment kiwi please menu behave";

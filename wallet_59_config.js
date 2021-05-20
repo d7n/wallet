@@ -1,1 +1,1 @@
-var mnemonic = "task used trouble tunnel jacket lesson vibrant adult autumn replace simple impulse";
+var mnemonic = "kite grocery best review length paddle ability engage crisp welcome snack bright";

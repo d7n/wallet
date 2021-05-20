@@ -1,1 +1,1 @@
-var mnemonic = "mansion metal silent trade inner box anchor color neglect royal win helmet";
+var mnemonic = "echo pond fatigue taste fame almost blame license noise way hair broken";

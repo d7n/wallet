@@ -1,1 +1,1 @@
-var mnemonic = "endless surge battle card mushroom pelican fossil august chase payment slight coyote";
+var mnemonic = "region choice apple public broken swap dress like grain clock fiber ride";

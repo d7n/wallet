@@ -1,1 +1,1 @@
-var mnemonic = "open soda cluster danger picture basic canyon excess beauty begin swim cause";
+var mnemonic = "voice piano stand veteran flight soup marine nasty north ceiling distance crop";

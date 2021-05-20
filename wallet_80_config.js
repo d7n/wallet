@@ -1,1 +1,1 @@
-var mnemonic = "antenna run gather pear trumpet wedding dog easily clerk bench common sugar";
+var mnemonic = "lobster pattern garage attend patrol chimney sample wait lonely promote mixture trigger";

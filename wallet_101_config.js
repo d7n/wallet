@@ -1,1 +1,1 @@
-var mnemonic = "produce unhappy earn remain naive despair bottom final sunny output afraid manual";
+var mnemonic = "try vacant raven earn mimic drill palace travel tomato ship grit apart";

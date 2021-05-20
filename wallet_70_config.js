@@ -1,1 +1,1 @@
-var mnemonic = "vanish curious seminar balcony city figure raise permit garment eyebrow medal luxury";
+var mnemonic = "shallow angle curve acoustic join equal betray uncle arrow gallery average liquid";

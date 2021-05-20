@@ -1,1 +1,1 @@
-var mnemonic = "artwork deer march used rice soldier cloud bean segment firm unveil taxi";
+var mnemonic = "cream narrow palace crucial turkey warrior liquid excite fox brick old cruel";

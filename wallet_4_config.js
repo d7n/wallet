@@ -1,1 +1,1 @@
-var mnemonic = "surprise misery ask wool iron kitten search noodle champion april giant school";
+var mnemonic = "rich grit duty square dumb film treat nurse bread taxi creek canoe";

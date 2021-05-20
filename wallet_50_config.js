@@ -1,1 +1,1 @@
-var mnemonic = "lyrics peanut exhaust toy mask become mystery dirt scare general desk usage";
+var mnemonic = "also later luxury certain raccoon alone aware fan enable alert loop cheap";

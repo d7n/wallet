@@ -1,1 +1,1 @@
-var mnemonic = "swarm flush phone over element drop bargain friend tide exact poverty caution";
+var mnemonic = "rely grain december seminar bulb endless orchard heavy velvet shiver squeeze excite";

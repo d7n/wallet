@@ -1,1 +1,1 @@
-var mnemonic = "powder exclude seminar lottery ride girl cloud aim later right domain retreat";
+var mnemonic = "width advice unknown oyster hair easily review math pole exotic wagon wood";

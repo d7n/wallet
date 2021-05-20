@@ -1,1 +1,1 @@
-var mnemonic = "stay alert ritual vacant dwarf oxygen tip junk uniform ensure inform fly";
+var mnemonic = "labor trade unknown shed output grow style tongue crystal tip hope sight";

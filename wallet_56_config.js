@@ -1,1 +1,1 @@
-var mnemonic = "make cabbage garage drip script tool repair gauge unlock puzzle grow they";
+var mnemonic = "catch rapid busy pulp drink faint cannon puppy tomato confirm oven radio";

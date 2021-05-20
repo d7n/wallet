@@ -1,1 +1,1 @@
-var mnemonic = "huge sweet name try mesh route ritual raw execute peanut risk recipe";
+var mnemonic = "female kind leaf merit brand reject hurry great buddy pioneer magnet danger";

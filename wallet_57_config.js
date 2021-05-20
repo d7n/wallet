@@ -1,1 +1,1 @@
-var mnemonic = "exile wedding involve smoke trigger joke document double wish invite happy behind";
+var mnemonic = "fabric roast round myth spirit piano tumble invite carbon drip neither off";

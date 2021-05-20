@@ -1,1 +1,1 @@
-var mnemonic = "boost bike antique shield unfold pyramid glove slice violin matrix diary spatial";
+var mnemonic = "piano depart sport urge lava jar subway sport faith vault say vapor";

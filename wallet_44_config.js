@@ -1,1 +1,1 @@
-var mnemonic = "erode valve energy zero three language allow reopen trial mail interest assault";
+var mnemonic = "upset glove day august invite fuel slight anchor hen meadow benefit mosquito";

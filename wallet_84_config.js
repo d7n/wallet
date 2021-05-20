@@ -1,1 +1,1 @@
-var mnemonic = "junk relief blanket aunt kiwi baby service joy sudden clap reject fame";
+var mnemonic = "save learn rule charge kiss join style hint body trend invest okay";

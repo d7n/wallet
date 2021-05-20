@@ -1,1 +1,1 @@
-var mnemonic = "limb differ afford adult labor average ghost craft execute genre weather asthma";
+var mnemonic = "boat magic wise index turkey surge nerve bronze fit orphan twelve original";

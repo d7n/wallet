@@ -1,1 +1,1 @@
-var mnemonic = "robust vacant harbor humor buffalo grass student kick melt shadow army walk";
+var mnemonic = "marine surface athlete volcano breeze across income toy all result bomb gate";

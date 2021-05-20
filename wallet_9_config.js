@@ -1,1 +1,1 @@
-var mnemonic = "when turtle pelican day tiger sting notable popular aware pull sense sugar";
+var mnemonic = "rebuild pupil define tone draft ostrich project calm muffin verify damage range";

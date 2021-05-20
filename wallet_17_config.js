@@ -1,1 +1,1 @@
-var mnemonic = "raise evoke alcohol name moment route pottery desert alpha ahead angle lion";
+var mnemonic = "tunnel run order parent crowd gym suggest divert like ancient vintage patch";

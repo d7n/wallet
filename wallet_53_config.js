@@ -1,1 +1,1 @@
-var mnemonic = "farm embark language donor best maximum govern issue coach caught figure awake";
+var mnemonic = "tortoise ready exact can report element front family ritual coral guard purity";

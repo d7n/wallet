@@ -1,1 +1,1 @@
-var mnemonic = "garden common stage expect hurt frame yellow warfare popular quarter property flag";
+var mnemonic = "like husband orange history motion initial chronic area list recipe steel can";

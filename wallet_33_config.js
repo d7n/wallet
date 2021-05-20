@@ -1,1 +1,1 @@
-var mnemonic = "bread harsh please print tissue tired jungle valley file quote among alpha";
+var mnemonic = "goat similar mass tiny soap citizen fossil ginger system clock gorilla public";

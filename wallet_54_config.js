@@ -1,1 +1,1 @@
-var mnemonic = "spray final ivory sunny cupboard clarify pair palm proud trouble category sleep";
+var mnemonic = "dumb duty nest adjust border wash control enhance paddle planet robot setup";

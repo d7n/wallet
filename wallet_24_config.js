@@ -1,1 +1,1 @@
-var mnemonic = "candy half custom south beyond before decline attract vacant around adult primary";
+var mnemonic = "impulse gospel plastic comic junk clean accident doctor alcohol behind fortune million";

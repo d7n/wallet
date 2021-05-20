@@ -1,1 +1,1 @@
-var mnemonic = "liberty rocket toe uphold cluster grant walnut liar waste detail hybrid ivory";
+var mnemonic = "risk arch sketch verify hill garlic zone choose winner trumpet myth equip";

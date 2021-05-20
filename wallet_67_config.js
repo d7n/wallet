@@ -1,1 +1,1 @@
-var mnemonic = "ancient promote process lizard camera mass clutch law chalk such reopen bleak";
+var mnemonic = "drill legal govern trip arm claw distance west canoe limit drive wool";

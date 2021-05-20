@@ -1,1 +1,1 @@
-var mnemonic = "gun flee decorate magic mention laptop delay winter blouse ecology theory subway";
+var mnemonic = "deposit trade buffalo join coyote lobster explain song goat marine frown minor";

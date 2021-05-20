@@ -1,1 +1,1 @@
-var mnemonic = "leader embark auction worth success enable allow festival settle chimney menu rail";
+var mnemonic = "survey copy ability emotion ski satoshi use extra warfare raise patrol six";

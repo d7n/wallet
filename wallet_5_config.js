@@ -1,1 +1,1 @@
-var mnemonic = "disorder maid panic chronic burst army mass ladder street truly dial total";
+var mnemonic = "butter delay history wheel slice oval imitate spice august pink jaguar build";

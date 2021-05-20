@@ -1,1 +1,1 @@
-var mnemonic = "sauce insect lazy kite skull grace ethics column simple play excess torch";
+var mnemonic = "bracket fog hello pattern leave exile obvious actress dial industry frost outdoor";

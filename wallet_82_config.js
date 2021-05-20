@@ -1,1 +1,1 @@
-var mnemonic = "goddess illness flight calm basic friend grid hope ship seed pencil denial";
+var mnemonic = "warfare hen three deer stay inmate minute mean rule crucial old hint";

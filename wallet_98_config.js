@@ -1,1 +1,1 @@
-var mnemonic = "security vault waste diary session people stairs tool color choose cover mango";
+var mnemonic = "someone stage pyramid observe fence task belt canoe monkey gauge decade envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "grace mutual choose lizard focus remind glow heavy rib negative east off";
+var mnemonic = "increase dizzy logic lady easily equal total educate apart hair envelope raise";

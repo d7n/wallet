@@ -1,1 +1,1 @@
-var mnemonic = "hunt ride entire sadness sunset naive tobacco prison school segment skirt wink";
+var mnemonic = "visual prison choose gym route round property regret this grant coyote palace";

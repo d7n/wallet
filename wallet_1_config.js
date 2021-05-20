@@ -1,1 +1,1 @@
-var mnemonic = "still museum stumble bone explain flavor dish matrix renew notice ice person";
+var mnemonic = "canoe summer visual guard endless disagree gesture dawn normal explain calm behave";

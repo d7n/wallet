@@ -1,1 +1,1 @@
-var mnemonic = "uncle scan art symbol pave correct lunar throw gadget unfair kitten eye";
+var mnemonic = "curious faculty flight local improve suspect before agree apple float skull journey";

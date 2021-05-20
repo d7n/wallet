@@ -1,1 +1,1 @@
-var mnemonic = "burst achieve split able icon basket early average erupt rude across ship";
+var mnemonic = "pride expire guide gather clutch electric mobile uncle blade wear swift often";

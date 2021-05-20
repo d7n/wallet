@@ -1,1 +1,1 @@
-var mnemonic = "size brush estate river man burger shoe jelly derive embark update impulse";
+var mnemonic = "champion aware cannon clever sand educate frame minute evoke select planet swamp";

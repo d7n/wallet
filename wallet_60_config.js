@@ -1,1 +1,1 @@
-var mnemonic = "happy minimum voyage hero today churn upon profit school upset lend photo";
+var mnemonic = "mention club unique athlete unique mistake apple embark borrow crunch icon bus";

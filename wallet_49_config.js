@@ -1,1 +1,1 @@
-var mnemonic = "equal siren much reform fine nuclear talk poverty claw ordinary category priority";
+var mnemonic = "chest merge soon goddess grass absent aware embrace economy ostrich elbow code";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics gravity muffin victory blade cigar submit lottery grunt buddy verify clarify";
+var mnemonic = "tomato maid rule today assist amazing spike rail acid anxiety drink fun";

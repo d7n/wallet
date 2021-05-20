@@ -1,1 +1,1 @@
-var mnemonic = "town siege slam silent choose behind ghost fever piece wrestle pair usual";
+var mnemonic = "regret kit turn taste exact gadget regular foil spice tail cricket script";

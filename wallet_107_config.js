@@ -1,1 +1,1 @@
-var mnemonic = "attack october artist biology balcony ring toy vocal abuse clean buddy scorpion";
+var mnemonic = "link grain special town six scorpion axis toward page saddle jungle blossom";

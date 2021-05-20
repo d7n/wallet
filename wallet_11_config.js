@@ -1,1 +1,1 @@
-var mnemonic = "stand leaf zone turn treat source hedgehog urge poet alone slam soft";
+var mnemonic = "actor goddess fan crystal tube admit please mountain help hurt tobacco approve";

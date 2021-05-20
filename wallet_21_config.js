@@ -1,1 +1,1 @@
-var mnemonic = "zone business melt puppy ice output immense apple initial eternal shaft crane";
+var mnemonic = "model pony together myth dutch stumble wing second balance typical teach quiz";

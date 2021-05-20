@@ -1,1 +1,1 @@
-var mnemonic = "sadness edge east material adjust inside fiscal metal cricket plug laugh occur";
+var mnemonic = "office vague matter beyond marble leader buzz advice truly couch estate winter";

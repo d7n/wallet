@@ -1,1 +1,1 @@
-var mnemonic = "rare gravity congress enough tonight fever course idea brass glory patch sausage";
+var mnemonic = "frown baby famous float normal need fold rare bubble fancy thought ill";

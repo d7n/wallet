@@ -1,1 +1,1 @@
-var mnemonic = "twist wrong hybrid company twelve word apology garlic need grunt video demand";
+var mnemonic = "price lemon hollow poet fatal matrix clean region estate dragon common universe";

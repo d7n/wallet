@@ -1,1 +1,1 @@
-var mnemonic = "style wait caught inflict chef fantasy lava hurry search job ball crystal";
+var mnemonic = "save photo skin field left lock tank sure tomato base buzz cousin";

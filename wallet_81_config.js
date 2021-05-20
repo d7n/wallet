@@ -1,1 +1,1 @@
-var mnemonic = "month miss strong eternal solve frame city actual reunion video liar pelican";
+var mnemonic = "elephant stadium sword trophy cotton buffalo hedgehog select inside eight hundred curious";

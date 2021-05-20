@@ -1,1 +1,1 @@
-var mnemonic = "eight shoot error naive item ceiling danger bean tower lyrics relax dad";
+var mnemonic = "very ribbon chunk script solid example cage limb flavor build roast load";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth smart spring control false only outer thought have impose age license";
+var mnemonic = "ostrich eight cabbage galaxy diet useless stamp fold exercise twenty build relief";

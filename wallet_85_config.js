@@ -1,1 +1,1 @@
-var mnemonic = "enable tape anger approve candy seminar gym mutual guard nature chest drip";
+var mnemonic = "again misery dwarf usage primary car hybrid sentence put property swap job";

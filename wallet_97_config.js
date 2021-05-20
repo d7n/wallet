@@ -1,1 +1,1 @@
-var mnemonic = "burst vessel source crush stage sorry video match famous impose race tourist";
+var mnemonic = "paddle pact street flat ginger clerk canyon tiny parent absent nest embrace";

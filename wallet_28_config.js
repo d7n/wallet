@@ -1,1 +1,1 @@
-var mnemonic = "cave worth giggle kiwi swallow slide wealth ability galaxy lemon mammal vault";
+var mnemonic = "trap deal arrive effort dolphin since cigar rail duck main above mention";

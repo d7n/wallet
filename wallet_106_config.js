@@ -1,1 +1,1 @@
-var mnemonic = "move help round hood camera since chunk rather wait net assume boat";
+var mnemonic = "pave utility fine clock because pause unfold possible sleep venue salad season";

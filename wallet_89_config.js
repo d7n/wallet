@@ -1,1 +1,1 @@
-var mnemonic = "modify boil globe trip proof govern large damp eager chair garment tiny";
+var mnemonic = "kind voyage tiny fan equip camp cash angry deputy when surge erode";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb busy cattle shadow note never visual stamp kingdom scrub recipe number";
+var mnemonic = "dizzy drip length sadness surface base bubble fly brother width lawsuit clown";

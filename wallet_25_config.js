@@ -1,1 +1,1 @@
-var mnemonic = "return close perfect cradle sing icon pepper maximum behave since pizza prison";
+var mnemonic = "sport oyster kick author summer sadness marble fun spatial clock magnet strike";

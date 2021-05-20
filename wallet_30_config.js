@@ -1,1 +1,1 @@
-var mnemonic = "six alter lobster pair act grace nuclear floor father visit leopard owner";
+var mnemonic = "cruel disease spider awesome media abstract turkey park mutual upon inhale ride";

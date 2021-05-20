@@ -1,1 +1,1 @@
-var mnemonic = "elite rice cloud hundred silk life mansion fortune audit wish capable appear";
+var mnemonic = "illness rookie bike afraid expose proud black live arctic kiss nice poverty";

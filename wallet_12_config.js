@@ -1,1 +1,1 @@
-var mnemonic = "crew shoe regular wine page supreme increase crumble toast wheel disease grass";
+var mnemonic = "illegal sell gym idea around scrap design enable humble true collect like";

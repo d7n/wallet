@@ -1,1 +1,1 @@
-var mnemonic = "parade broken wet high monster junior hedgehog inherit seven book raise song";
+var mnemonic = "retreat select razor immense demise cable about creek spot accuse grape access";

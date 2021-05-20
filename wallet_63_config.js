@@ -1,1 +1,1 @@
-var mnemonic = "logic wise stable cable myself innocent select poet below tape ostrich advice";
+var mnemonic = "borrow genuine fringe luggage again crew scrub gaze ugly nothing harsh frown";

@@ -1,1 +1,1 @@
-var mnemonic = "then spider peasant mix unfair wave smooth practice giant end cheap live";
+var mnemonic = "broccoli cry spring right jazz border benefit nephew frown program fog define";

@@ -1,1 +1,1 @@
-var mnemonic = "path crew sphere observe stay split thunder curve depart pledge worry basic";
+var mnemonic = "fat tumble chair mushroom attack deer attitude area aisle switch motion argue";

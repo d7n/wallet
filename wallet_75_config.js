@@ -1,1 +1,1 @@
-var mnemonic = "flush inject unaware peanut direct husband outside universe direct gorilla cactus cheap";
+var mnemonic = "iron deny result poet broken sketch oven march camera someone become bicycle";

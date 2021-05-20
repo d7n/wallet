@@ -1,1 +1,1 @@
-var mnemonic = "proof glove zone screen bullet utility water entry suffer moral useless window";
+var mnemonic = "trash void beyond harbor bounce idle smile bike eyebrow harbor sample fringe";

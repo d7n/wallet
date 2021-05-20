@@ -1,1 +1,1 @@
-var mnemonic = "rabbit floor fruit dawn world front silly okay hurry remind cluster infant";
+var mnemonic = "assume candy shine couch quarter drop ozone moral exotic ostrich eager enlist";

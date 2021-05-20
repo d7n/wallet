@@ -1,1 +1,1 @@
-var mnemonic = "unit calm social bleak punch pill solve tobacco device bottom busy garage";
+var mnemonic = "inside fitness result intact live load seminar coyote grid betray wild apart";

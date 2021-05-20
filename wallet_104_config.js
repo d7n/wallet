@@ -1,1 +1,1 @@
-var mnemonic = "awake plate ceiling burger industry fold sunset immense find harsh measure observe";
+var mnemonic = "decade wear smart usage tortoise have absurd hold cigar apple apology cook";

@@ -1,1 +1,1 @@
-var mnemonic = "icon divide worth fever hood confirm unveil pull shed height anger giant";
+var mnemonic = "amazing unfair benefit burger short lumber reason little kit rebel easily arrive";

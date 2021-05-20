@@ -1,1 +1,1 @@
-var mnemonic = "face oxygen traffic family logic elder prosper ranch evidence inner genuine shell";
+var mnemonic = "asset myself obtain divide crack trophy comic pass owner gate grid tower";

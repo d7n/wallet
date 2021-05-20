@@ -1,1 +1,1 @@
-var mnemonic = "install cable upset dragon tissue armed birth execute atom casual engine excuse";
+var mnemonic = "immune speed fluid vendor blouse scissors finish cross rent shaft keen dignity";

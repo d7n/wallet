@@ -1,1 +1,1 @@
-var mnemonic = "scrap cattle apple ski robust major foil sell intact gather orphan west";
+var mnemonic = "burst raise artefact mobile whisper weird divide invest knife urban father loyal";
