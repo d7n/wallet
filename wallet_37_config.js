@@ -1,1 +1,1 @@
-var mnemonic = "hair oyster proof tackle spatial chair cake sausage pen come border top";
+var mnemonic = "attract safe camera rate spoon cupboard pyramid together since story camera useless";

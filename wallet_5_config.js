@@ -1,1 +1,1 @@
-var mnemonic = "more glass dirt young have element blue cancel swear milk cargo usual";
+var mnemonic = "member boring puzzle fashion lunch extend orchard film armed lawn fine foot";

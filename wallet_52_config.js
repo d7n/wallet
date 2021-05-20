@@ -1,1 +1,1 @@
-var mnemonic = "course verify warm topic captain observe swing crater family jaguar field panic";
+var mnemonic = "seek curtain sure shed stay noise ridge cube scan shiver extend season";

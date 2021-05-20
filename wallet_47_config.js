@@ -1,1 +1,1 @@
-var mnemonic = "basket typical dust genuine heavy brother expect scene buffalo matrix vote use";
+var mnemonic = "style ozone arch plate search cloth lion fancy rhythm retire book city";

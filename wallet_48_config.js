@@ -1,1 +1,1 @@
-var mnemonic = "riot announce canyon bargain hand razor funny quarter artefact great hard hub";
+var mnemonic = "opera marine vibrant mixed current north fox coffee cat asthma suit route";

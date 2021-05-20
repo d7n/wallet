@@ -1,1 +1,1 @@
-var mnemonic = "corn manage lab share garbage shoot bar kite affair parent loop collect";
+var mnemonic = "jacket slogan first comfort glow ticket lunar eye disagree sail supply page";

@@ -1,1 +1,1 @@
-var mnemonic = "cry balance extra smile sketch dune culture fiction laptop street track deliver";
+var mnemonic = "lunch left work hungry occur rely parrot sound coconut amount mimic entry";

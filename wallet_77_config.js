@@ -1,1 +1,1 @@
-var mnemonic = "melt sorry exotic jungle network bulk clock chunk space plate cluster old";
+var mnemonic = "diagram device major maximum sail coast top say because connect tonight fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon pumpkin awkward link fashion blouse fault parade prison arrest bubble spice";
+var mnemonic = "early safe agent next bubble vacuum steel wife grid surround atom doll";

@@ -1,1 +1,1 @@
-var mnemonic = "size assume leg woman damp battle weekend wasp hockey virtual cattle predict";
+var mnemonic = "cage afraid chalk love female birth dice crunch era ceiling palm program";

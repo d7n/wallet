@@ -1,1 +1,1 @@
-var mnemonic = "warfare mercy program praise lion cage tonight seed next ivory ridge emerge";
+var mnemonic = "sing suit anchor enact budget addict news true vessel curious process crawl";

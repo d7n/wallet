@@ -1,1 +1,1 @@
-var mnemonic = "surround flame roast wheel tonight tag tomato naive media cherry grant detect";
+var mnemonic = "rare bubble secret artist kid tank wire olympic donor copper language escape";

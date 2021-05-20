@@ -1,1 +1,1 @@
-var mnemonic = "kiwi purse float differ bleak rally tone diet age antenna file correct";
+var mnemonic = "piano bless sugar arrow wonder include joy divert toe edit lava spike";

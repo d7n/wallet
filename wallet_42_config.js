@@ -1,1 +1,1 @@
-var mnemonic = "edit shine select chuckle sleep wrong toast jazz buyer mixed whale sword";
+var mnemonic = "great pony inch fortune regret alert clay prosper organ doll water slender";

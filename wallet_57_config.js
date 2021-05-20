@@ -1,1 +1,1 @@
-var mnemonic = "oxygen genius grace neutral goat admit fiction clerk garment real rookie gas";
+var mnemonic = "have thing uncle they genius still best auto able pattern wish orchard";

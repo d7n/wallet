@@ -1,1 +1,1 @@
-var mnemonic = "raccoon coil army shift cousin narrow urge mango salute patrol give gold";
+var mnemonic = "task muffin cheap tuition like cause chaos sponsor chicken swing mom trade";

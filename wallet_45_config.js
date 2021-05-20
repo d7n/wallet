@@ -1,1 +1,1 @@
-var mnemonic = "six man misery glance seven afraid legend daughter mix chest keep bonus";
+var mnemonic = "hybrid submit city day today era output real tag net dismiss either";

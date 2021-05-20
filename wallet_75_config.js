@@ -1,1 +1,1 @@
-var mnemonic = "tired zero turtle sick afford upset lecture service this fly nurse text";
+var mnemonic = "scare soul nasty broom art pill plastic wild flight embrace urban surround";

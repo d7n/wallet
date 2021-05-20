@@ -1,1 +1,1 @@
-var mnemonic = "desk judge fuel axis cross churn involve envelope mad timber perfect teach";
+var mnemonic = "exercise kind fury forward butter text approve bag vault surround calm turtle";

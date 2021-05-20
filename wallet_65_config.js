@@ -1,1 +1,1 @@
-var mnemonic = "say street banner picnic suggest plastic secret slush sunny pizza captain fine";
+var mnemonic = "material aisle lunch minimum symptom match welcome valley city grid prefer twice";

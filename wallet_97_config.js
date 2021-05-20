@@ -1,1 +1,1 @@
-var mnemonic = "tape across actor cart mechanic defense foster answer vacuum can number tomato";
+var mnemonic = "scorpion argue track sound tone burden segment process bless nothing gossip onion";

@@ -1,1 +1,1 @@
-var mnemonic = "embody hand brother father orchard practice develop wave dignity alpha pair thought";
+var mnemonic = "express hazard salute ripple dolphin own laptop kitchen cat twice kitten original";

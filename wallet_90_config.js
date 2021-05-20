@@ -1,1 +1,1 @@
-var mnemonic = "pill path marriage solution mosquito excuse save joy wrap drip wrist danger";
+var mnemonic = "spawn famous recycle pause margin master buddy impulse crush cover parent damp";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap apart tree gain estate secret mountain nothing harbor mutual air write";
+var mnemonic = "oppose wonder sentence arena marine sketch vivid valley floor increase guide token";

@@ -1,1 +1,1 @@
-var mnemonic = "salt smart whip nerve skate town false diet lens beauty tag syrup";
+var mnemonic = "present display used cinnamon wrestle vocal crane milk awesome huge follow palace";

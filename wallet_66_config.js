@@ -1,1 +1,1 @@
-var mnemonic = "isolate steak supreme mobile arena cram dutch expose reunion please orange length";
+var mnemonic = "predict blue canyon smoke fashion visit capital benefit total door because limit";

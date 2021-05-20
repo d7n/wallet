@@ -1,1 +1,1 @@
-var mnemonic = "security jealous pledge lyrics ten hold buddy evoke exhibit select shoot enact";
+var mnemonic = "stage envelope century column human eagle library interest oyster length bonus clerk";

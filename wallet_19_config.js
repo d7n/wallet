@@ -1,1 +1,1 @@
-var mnemonic = "carpet federal elite shoe abandon have network slender service member combine beach";
+var mnemonic = "topic excess shrug oppose panther invite session tortoise attend social tattoo nerve";

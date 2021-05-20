@@ -1,1 +1,1 @@
-var mnemonic = "trial staff melt peasant floor defense custom inflict major burger session found";
+var mnemonic = "pigeon wide liquid stamp bird genius cool bunker boy surge virtual faith";

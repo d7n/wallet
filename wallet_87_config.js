@@ -1,1 +1,1 @@
-var mnemonic = "furnace level leopard seven film title cloth neither lobster nut debate fly";
+var mnemonic = "immense nephew silent bonus door brush secret excess lift hour train maximum";

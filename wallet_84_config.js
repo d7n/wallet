@@ -1,1 +1,1 @@
-var mnemonic = "hill media area bench this three over never lake list style wheel";
+var mnemonic = "pitch humor file slice hire media unfair salad fan radio opera cousin";

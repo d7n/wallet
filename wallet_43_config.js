@@ -1,1 +1,1 @@
-var mnemonic = "lion crumble ranch wealth have option offer twenty sound sausage place female";
+var mnemonic = "mean bonus alone slice order skill kind inhale heart camera bird call";

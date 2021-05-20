@@ -1,1 +1,1 @@
-var mnemonic = "skull pulse witness minimum melody thing cotton spawn priority napkin net section";
+var mnemonic = "struggle upper mirror agent valve dust candy define dune puppy sting ignore";

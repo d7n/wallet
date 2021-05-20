@@ -1,1 +1,1 @@
-var mnemonic = "require option tag shallow wing feed leisure use merit jar share slender";
+var mnemonic = "hint betray bike wall cigar antique champion rally route practice output tip";

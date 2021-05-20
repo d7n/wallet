@@ -1,1 +1,1 @@
-var mnemonic = "noise dolphin wool nuclear prison romance together kite this monitor token urban";
+var mnemonic = "divide deposit whale damp impose impulse birth embrace evoke climb day frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz blanket pattern gun doll hamster dice dog stage hobby album bicycle";
+var mnemonic = "race movie life garden culture insect drastic dune fatal exercise zebra champion";

@@ -1,1 +1,1 @@
-var mnemonic = "sick kidney teach deposit whisper saddle snap genre bacon boring donkey bundle";
+var mnemonic = "able old usage profit blade brief palace title vessel hole when catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel crater sentence critic pact gossip oven must draw please salute safe";
+var mnemonic = "warrior air target debate census rigid chicken wagon fame royal garden dust";

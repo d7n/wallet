@@ -1,1 +1,1 @@
-var mnemonic = "pass spike rack denial middle twist chimney bind catalog chalk eagle stomach";
+var mnemonic = "uphold rug speak common since topple cry ticket rescue account crouch under";

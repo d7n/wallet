@@ -1,1 +1,1 @@
-var mnemonic = "double bid foil friend blossom hood verify indoor tray pottery brand arrive";
+var mnemonic = "sign affair boil weekend certain text winter minor lunar car cradle all";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf clap harsh apple gift story network song shy answer inject awesome";
+var mnemonic = "seminar road snow try begin hood crystal live citizen luxury potato shy";

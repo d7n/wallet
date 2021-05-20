@@ -1,1 +1,1 @@
-var mnemonic = "rifle enroll dolphin improve soul able square jeans rack accuse another shield";
+var mnemonic = "equal unfair exhibit between day student fox era garage ivory reopen exercise";

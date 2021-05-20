@@ -1,1 +1,1 @@
-var mnemonic = "define merit confirm area bird subject aisle erosion clog correct boat satoshi";
+var mnemonic = "pact document squeeze course hold lab long injury will double surface brain";

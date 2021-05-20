@@ -1,1 +1,1 @@
-var mnemonic = "under fashion auto brave gather raw future squeeze control conduct federal purity";
+var mnemonic = "avocado material saddle wood connect hard enhance common machine what click demise";

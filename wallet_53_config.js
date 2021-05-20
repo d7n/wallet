@@ -1,1 +1,1 @@
-var mnemonic = "doll crawl gaze stamp game square property speak fun adult baby void";
+var mnemonic = "shaft caution awful happy notable energy luxury glance pride industry civil wine";

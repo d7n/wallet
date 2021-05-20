@@ -1,1 +1,1 @@
-var mnemonic = "spring basic west economy much inherit whale address card shine size moral";
+var mnemonic = "raise kidney trigger render envelope dentist thumb picnic apology keep brisk spatial";

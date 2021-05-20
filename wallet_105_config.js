@@ -1,1 +1,1 @@
-var mnemonic = "cup electric will strike abandon father truth appear hover lyrics matter heart";
+var mnemonic = "soap matter embrace immune adapt learn endless enhance grape business ketchup neglect";

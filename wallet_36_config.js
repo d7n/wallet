@@ -1,1 +1,1 @@
-var mnemonic = "shoe pudding session snake army key retreat zone state gold step vicious";
+var mnemonic = "curve tide next glory group sail enact ceiling okay weasel hire planet";

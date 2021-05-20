@@ -1,1 +1,1 @@
-var mnemonic = "sell double civil monitor security popular know sudden give gentle vocal before";
+var mnemonic = "youth category image nuclear endorse lunar fossil reunion thunder wonder avoid creek";

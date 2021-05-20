@@ -1,1 +1,1 @@
-var mnemonic = "canoe unfair clean spoil unaware squirrel inspire fall kind omit earth toe";
+var mnemonic = "chapter clip isolate permit slight strategy trade wet judge gravity orient soon";

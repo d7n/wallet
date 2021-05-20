@@ -1,1 +1,1 @@
-var mnemonic = "wide absorb else access tennis claim rebel hunt brief kingdom moral joke";
+var mnemonic = "raven sense letter live struggle marine sing flush owner account pepper acid";

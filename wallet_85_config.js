@@ -1,1 +1,1 @@
-var mnemonic = "spoon stuff win slow inspire way flock crane gravity beauty alarm method";
+var mnemonic = "benefit west orphan spot giraffe plug unlock major mouse zoo trigger lobster";

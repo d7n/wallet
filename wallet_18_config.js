@@ -1,1 +1,1 @@
-var mnemonic = "pepper curtain just better seat diagram keen develop flip ghost enemy increase";
+var mnemonic = "attack split slide chaos right elephant utility also floor try lion federal";

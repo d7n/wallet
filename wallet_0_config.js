@@ -1,1 +1,1 @@
-var mnemonic = "rely retire chunk harbor letter culture believe pave fix tone card spice";
+var mnemonic = "bamboo thing price noodle pool secret bitter occur fitness under oak artefact";

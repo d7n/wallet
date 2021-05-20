@@ -1,1 +1,1 @@
-var mnemonic = "steak senior cargo private clip hill estate actual summer mad grape crane";
+var mnemonic = "torch attract cigar consider begin ivory boy addict resource purity midnight vital";

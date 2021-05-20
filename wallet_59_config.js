@@ -1,1 +1,1 @@
-var mnemonic = "balcony unknown bench picture poverty more screen autumn economy office drip direct";
+var mnemonic = "carry better acquire drama spin blame visit book sleep absurd present kit";

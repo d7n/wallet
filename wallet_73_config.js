@@ -1,1 +1,1 @@
-var mnemonic = "analyst village mouse frequent iron cash pear sight drill differ pulp forward";
+var mnemonic = "adjust winter solve cream lock unveil crumble wisdom belt dismiss scrap umbrella";

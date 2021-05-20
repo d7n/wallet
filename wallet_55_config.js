@@ -1,1 +1,1 @@
-var mnemonic = "nest smooth nose sand canyon claim actual walnut license scheme easy online";
+var mnemonic = "narrow shrug table pigeon promote stumble goddess museum stock enrich wonder pretty";

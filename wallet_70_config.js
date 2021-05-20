@@ -1,1 +1,1 @@
-var mnemonic = "view scorpion voyage once tragic what leader parade east analyst thumb soup";
+var mnemonic = "focus slim mother found involve borrow ancient spin suffer viable combine crumble";

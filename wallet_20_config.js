@@ -1,1 +1,1 @@
-var mnemonic = "erupt sample correct birth dizzy culture lottery soap decrease zone quarter pole";
+var mnemonic = "apology whip abstract jazz desert payment wrestle end future long athlete domain";

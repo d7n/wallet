@@ -1,1 +1,1 @@
-var mnemonic = "jealous vehicle embark because abuse loud never region arm skirt doll copper";
+var mnemonic = "dentist equal merit mosquito stable catch learn axis ready dust fine bomb";

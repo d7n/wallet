@@ -1,1 +1,1 @@
-var mnemonic = "feature tape aisle annual daring two walk shock release animal apart forward";
+var mnemonic = "bulk chest grocery scorpion clock energy click order rib hen diary craft";

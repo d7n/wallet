@@ -1,1 +1,1 @@
-var mnemonic = "urge egg inch amazing seed name mimic pet edit despair race glow";
+var mnemonic = "cricket aim flash fantasy anger critic below furnace flush damp kiss bottom";

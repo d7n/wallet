@@ -1,1 +1,1 @@
-var mnemonic = "usage quantum good rate ride skirt roast acoustic venture enforce bird cloth";
+var mnemonic = "goat safe sphere near photo jar pact rubber dog park shoe husband";

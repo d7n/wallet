@@ -1,1 +1,1 @@
-var mnemonic = "embrace vote such imitate gold enrich siren base subject mom drink thank";
+var mnemonic = "cigar special multiply dilemma gentle ticket equip produce song sweet bundle antenna";

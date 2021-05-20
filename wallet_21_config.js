@@ -1,1 +1,1 @@
-var mnemonic = "exist trust page element fox gauge sort squirrel famous double term forest";
+var mnemonic = "bamboo seek fatigue attend table scatter tribe nasty happy winner fox globe";

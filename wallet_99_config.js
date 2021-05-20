@@ -1,1 +1,1 @@
-var mnemonic = "document cabbage hammer fluid amount cluster zero wagon arrange whale know wild";
+var mnemonic = "garage clever machine radar route private clutch duty rotate chair vessel seven";

@@ -1,1 +1,1 @@
-var mnemonic = "flag grunt text wing else bottom usage arrange trick mom route combine";
+var mnemonic = "leisure wish finger describe elephant cable script finger joke flash picture cross";

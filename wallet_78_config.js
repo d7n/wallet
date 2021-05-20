@@ -1,1 +1,1 @@
-var mnemonic = "lunch excess pair bacon okay lottery damage dance target spoon chest volume";
+var mnemonic = "express occur between minimum science zebra dutch hill ability token limb knife";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp service congress practice weird badge festival usual riot amused actress usual";
+var mnemonic = "wash team student food diesel piano crew juice recall body nominee eager";

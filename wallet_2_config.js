@@ -1,1 +1,1 @@
-var mnemonic = "this accident unlock soft drink hold mushroom digital glue alter cannon fine";
+var mnemonic = "supreme write avoid rent today arm second motor disorder title pond frame";

@@ -1,1 +1,1 @@
-var mnemonic = "dry focus fit apple fantasy air tonight friend clerk broom spice kite";
+var mnemonic = "arrive seat correct review primary diet agent marine evolve mobile tuna bullet";

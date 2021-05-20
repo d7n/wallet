@@ -1,1 +1,1 @@
-var mnemonic = "sure vital gate aspect skill drum truly click dad advice stove time";
+var mnemonic = "common prosper enforce over twist tattoo wise arch search subway already name";

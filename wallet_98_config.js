@@ -1,1 +1,1 @@
-var mnemonic = "coyote will picnic ecology slam bounce heavy royal follow private happy cake";
+var mnemonic = "fatal horn ethics bridge journey rack number victory nature gun cake mimic";

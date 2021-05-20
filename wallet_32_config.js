@@ -1,1 +1,1 @@
-var mnemonic = "sunny transfer squeeze member method garlic happy pencil weekend fatal park lazy";
+var mnemonic = "fog text save napkin abstract holiday direct ticket news drip minimum train";

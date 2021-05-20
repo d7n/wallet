@@ -1,1 +1,1 @@
-var mnemonic = "sea abstract age wasp auction amount funny delay health gift pilot elevator";
+var mnemonic = "view other orange flavor various system lake hollow attract client pink document";

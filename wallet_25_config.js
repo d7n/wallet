@@ -1,1 +1,1 @@
-var mnemonic = "price story loyal powder hobby earn broccoli slim crouch enforce same road";
+var mnemonic = "roof spike wonder property grit flavor shift citizen wealth intact reason tired";

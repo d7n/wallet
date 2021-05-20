@@ -1,1 +1,1 @@
-var mnemonic = "analyst video off whale exact spider fever dirt bounce lava inspire sort";
+var mnemonic = "luxury luxury trim destroy illegal mirror chicken company private track blade only";

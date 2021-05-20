@@ -1,1 +1,1 @@
-var mnemonic = "announce civil rather trap peanut loan theory attitude rebel birth ripple kiss";
+var mnemonic = "wealth high stable hello lonely cart real range inquiry tomorrow genuine virus";

@@ -1,1 +1,1 @@
-var mnemonic = "banana boss blush mass hedgehog must edit member dial misery sponsor have";
+var mnemonic = "armor flower sniff initial achieve hold shed reform always long song stove";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo family pizza lyrics enough cook dose clip lazy corn dune upper";
+var mnemonic = "ozone evolve come keen denial ski wish protect sure margin cage warfare";

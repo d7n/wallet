@@ -1,1 +1,1 @@
-var mnemonic = "web dumb scout brisk paddle uncover genre lady artefact whip arrow adult";
+var mnemonic = "puppy visa deal normal damage load display oblige ranch method cotton vote";

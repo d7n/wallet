@@ -1,1 +1,1 @@
-var mnemonic = "midnight second chronic winter warfare salon engine letter guide kingdom emotion celery";
+var mnemonic = "omit stock space winner candy disorder garbage risk bonus since dawn decorate";

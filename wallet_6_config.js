@@ -1,1 +1,1 @@
-var mnemonic = "exhibit regular rare cycle wool first mention among between attend nerve jacket";
+var mnemonic = "loyal say negative thought buyer addict spot beach tiny gentle hazard traffic";

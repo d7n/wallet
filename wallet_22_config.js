@@ -1,1 +1,1 @@
-var mnemonic = "slender mountain weekend judge acoustic destroy bean maid cake brand column fault";
+var mnemonic = "lumber total trash fiber spend sting elite daughter inner super riot service";

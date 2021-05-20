@@ -1,1 +1,1 @@
-var mnemonic = "install goat slot evolve crew genius side blue come load tuition because";
+var mnemonic = "off frost save dove plunge text camp movie beauty rain drive carpet";

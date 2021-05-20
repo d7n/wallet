@@ -1,1 +1,1 @@
-var mnemonic = "response solid swamp genius exist judge desk battle token negative valve cigar";
+var mnemonic = "dragon best decide pave ridge tone diamond purse smoke appear fever panda";

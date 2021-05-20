@@ -1,1 +1,1 @@
-var mnemonic = "joke blind trip surround lazy utility ivory police thing taxi dentist birth";
+var mnemonic = "hair person aerobic ensure acid goat tennis find torch canoe expose mother";

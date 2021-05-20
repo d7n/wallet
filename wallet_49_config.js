@@ -1,1 +1,1 @@
-var mnemonic = "shine message rifle tip move all assume game front portion grit injury";
+var mnemonic = "helmet skill run feature render toddler axis sea reason bridge move decrease";

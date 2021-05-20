@@ -1,1 +1,1 @@
-var mnemonic = "setup birth kitchen nest dismiss brown fancy audit increase life upgrade radio";
+var mnemonic = "answer memory eyebrow eager carpet parent devote wear own minimum author whip";

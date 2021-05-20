@@ -1,1 +1,1 @@
-var mnemonic = "slight use airport citizen evolve anger close quick awful print autumn oval";
+var mnemonic = "stove corn april clip media suffer grunt agent salad youth gown infant";

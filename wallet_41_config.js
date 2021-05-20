@@ -1,1 +1,1 @@
-var mnemonic = "oven license deliver huge page tiger slogan tank basic couch alarm suit";
+var mnemonic = "off agent music swift consider parent salt tuna share tube curve early";

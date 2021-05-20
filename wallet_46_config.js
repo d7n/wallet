@@ -1,1 +1,1 @@
-var mnemonic = "diary extend enroll sniff approve secret twenty critic minor regular country card";
+var mnemonic = "script banner arctic problem endless mercy catalog crumble attract praise rapid vessel";
