@@ -1,1 +1,1 @@
-var mnemonic = "rice chunk quote battle hollow erupt aerobic eagle undo thank victory survey";
+var mnemonic = "tissue uncover social master produce update garbage witness rally weekend mechanic universe";

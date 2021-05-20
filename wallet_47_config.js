@@ -1,1 +1,1 @@
-var mnemonic = "animal jungle excuse blur vintage future jealous admit smile tonight couple make";
+var mnemonic = "marble ketchup edge vibrant dragon alpha comfort clay proud describe slim silent";

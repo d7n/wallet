@@ -1,1 +1,1 @@
-var mnemonic = "winter tourist spread gap define east screen remove general bullet enrich ticket";
+var mnemonic = "boss practice liquid fat goat tragic predict electric window corn undo bone";

@@ -1,1 +1,1 @@
-var mnemonic = "entry bulk hip december teach shaft hidden animal peasant input cricket vehicle";
+var mnemonic = "mix fame rely jeans coast vault month drastic enforce swear bulb inform";

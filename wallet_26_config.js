@@ -1,1 +1,1 @@
-var mnemonic = "travel stool arctic spice basic crowd attack diet exile agent cannon cute";
+var mnemonic = "snack length fluid arrive toddler wolf forward trust maze multiply useless rebel";

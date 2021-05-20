@@ -1,1 +1,1 @@
-var mnemonic = "into minute solid critic brick slight solid float vocal flock oppose job";
+var mnemonic = "tube nerve alarm pilot hold mad thunder retreat option rude carpet seven";

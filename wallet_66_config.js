@@ -1,1 +1,1 @@
-var mnemonic = "caution surface blossom okay cherry hammer soup weather health citizen miracle parade";
+var mnemonic = "merry narrow lemon gauge denial sand bunker inner catalog tape journey track";

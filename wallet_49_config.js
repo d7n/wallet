@@ -1,1 +1,1 @@
-var mnemonic = "hotel radar battle bench spring square menu pony oil depth sell base";
+var mnemonic = "food skirt suffer bird pony promote cat athlete genre sample couple polar";

@@ -1,1 +1,1 @@
-var mnemonic = "pride absurd shield south tongue tiger fabric swallow wall hollow tonight maple";
+var mnemonic = "drip blade model polar pumpkin silly logic question world practice lunch tower";

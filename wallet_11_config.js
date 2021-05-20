@@ -1,1 +1,1 @@
-var mnemonic = "pulp corn neither setup wire steel fatigue course uncover bulk dinosaur mention";
+var mnemonic = "subject return birth cream action lottery price sure addict ignore town behave";

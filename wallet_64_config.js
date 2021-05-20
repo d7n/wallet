@@ -1,1 +1,1 @@
-var mnemonic = "eager syrup nephew tip remove direct when click word lamp repair food";
+var mnemonic = "bread funny auction venue joke van during category myself improve proud like";

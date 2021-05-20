@@ -1,1 +1,1 @@
-var mnemonic = "skin clever lucky minute camera canvas nose pencil extend soda have person";
+var mnemonic = "error define exchange cotton size act salad spirit release clean eternal pony";

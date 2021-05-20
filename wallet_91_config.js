@@ -1,1 +1,1 @@
-var mnemonic = "timber love canal fitness desert stove street width pear busy goose sword";
+var mnemonic = "gym little field jealous age leopard empty degree oppose buzz change rural";

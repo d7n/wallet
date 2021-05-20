@@ -1,1 +1,1 @@
-var mnemonic = "try mind embody pattern horror target shiver toast scene alien detail scissors";
+var mnemonic = "shock torch peanut baby network design scissors mandate indoor volume team online";

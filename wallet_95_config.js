@@ -1,1 +1,1 @@
-var mnemonic = "monster broccoli round virus reason beauty version settle pause chapter flight over";
+var mnemonic = "finish behind luggage sudden hurt exact novel suggest anger engage inhale diet";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn episode black volume genius when welcome exhibit drop impulse stereo mouse";
+var mnemonic = "pitch satoshi various segment random orphan head army magic dad meat remember";

@@ -1,1 +1,1 @@
-var mnemonic = "boat ensure beach spare pencil snap roast mushroom found half act run";
+var mnemonic = "else judge suspect vast dose will believe liar fame suffer hundred actual";

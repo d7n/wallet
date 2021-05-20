@@ -1,1 +1,1 @@
-var mnemonic = "feature bone steel shoot three sick foot any service struggle weasel stone";
+var mnemonic = "wisdom monkey one success erase urban behave hurt cargo silk raccoon document";

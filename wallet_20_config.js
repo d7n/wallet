@@ -1,1 +1,1 @@
-var mnemonic = "tower always school truly maple embrace mean hood shoe source assault sorry";
+var mnemonic = "advice actress meadow hair sugar domain hope buyer into tiger gold used";

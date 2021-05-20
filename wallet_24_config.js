@@ -1,1 +1,1 @@
-var mnemonic = "height sausage lazy snow winner drip awful peace squirrel acid bomb rebel";
+var mnemonic = "lyrics simple race glare column rate normal lava tribe rescue roof impose";

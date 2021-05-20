@@ -1,1 +1,1 @@
-var mnemonic = "rich sing suspect garage about oyster force pole fox rack busy guess";
+var mnemonic = "chaos process oyster blush dove remind novel lobster misery logic reunion hole";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop note kiwi shield marine turkey fatal crazy pull crawl hockey auto";
+var mnemonic = "duty blade evil bone cliff potato bid slender kitchen tissue patch arrange";

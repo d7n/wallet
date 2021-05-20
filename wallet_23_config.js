@@ -1,1 +1,1 @@
-var mnemonic = "special citizen opera pole oxygen utility void depend surprise drop abuse route";
+var mnemonic = "tell analyst craft scrap step crater vacant reject industry wheel make pool";

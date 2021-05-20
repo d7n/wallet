@@ -1,1 +1,1 @@
-var mnemonic = "forest occur truly farm pole draw buffalo page electric slice hard until";
+var mnemonic = "chest novel north blur mercy edit fan monster vehicle need term strong";

@@ -1,1 +1,1 @@
-var mnemonic = "net visa mask market useful media pilot dream lunar december evidence potato";
+var mnemonic = "couch method joy final giant cigar plastic long gaze axis muffin arrive";

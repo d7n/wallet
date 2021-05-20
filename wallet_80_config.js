@@ -1,1 +1,1 @@
-var mnemonic = "humble birth bargain area tiny tape term frog improve wrong sort speak";
+var mnemonic = "grocery often dream rigid opinion olympic expand giant chalk ancient device raccoon";

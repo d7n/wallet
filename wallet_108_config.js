@@ -1,1 +1,1 @@
-var mnemonic = "zero super letter brush coach duck asset frozen flower roof law fit";
+var mnemonic = "topic siege island stock correct device live latin pull common deer turn";

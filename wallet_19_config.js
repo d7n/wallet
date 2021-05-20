@@ -1,1 +1,1 @@
-var mnemonic = "amount ride sausage hint father chunk oyster axis enact just baby heavy";
+var mnemonic = "theme brick pepper monkey couple avoid travel any exhaust junior use priority";

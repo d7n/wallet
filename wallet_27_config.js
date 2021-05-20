@@ -1,1 +1,1 @@
-var mnemonic = "crane assault unit honey birth bamboo present final skirt casual sunny lock";
+var mnemonic = "order loop flame negative fan amount float age next divert secret object";

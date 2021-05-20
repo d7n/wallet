@@ -1,1 +1,1 @@
-var mnemonic = "where fatigue affair beauty skate target pretty normal maze wisdom canvas hobby";
+var mnemonic = "shrimp sample vivid quiz ghost invite during session tenant cheese yellow fun";

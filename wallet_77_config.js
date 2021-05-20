@@ -1,1 +1,1 @@
-var mnemonic = "dish raw paddle million vendor enemy umbrella normal fantasy throw flush hungry";
+var mnemonic = "foam income grunt make start february truly stairs hospital scan despair month";

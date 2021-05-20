@@ -1,1 +1,1 @@
-var mnemonic = "sadness magic slab hire cabin box rough twist bicycle thumb picture rabbit";
+var mnemonic = "awkward join fruit inch true share soft aunt crazy manual umbrella fall";

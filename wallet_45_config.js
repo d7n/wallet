@@ -1,1 +1,1 @@
-var mnemonic = "lobster humble pioneer hand cup item valid flock engine expire law census";
+var mnemonic = "trade repeat slice double deal spoil cotton gorilla clip region solution famous";

@@ -1,1 +1,1 @@
-var mnemonic = "opera three cook dutch mountain excuse elbow body warrior cushion industry mixed";
+var mnemonic = "tide depart album keen entry craft affair smooth army bar unlock vapor";

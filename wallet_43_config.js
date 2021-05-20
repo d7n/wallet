@@ -1,1 +1,1 @@
-var mnemonic = "chief public gospel umbrella faculty praise middle same output can useless wreck";
+var mnemonic = "eagle pulse transfer simple check ignore wine alpha spread ancient rich rebel";

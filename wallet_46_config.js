@@ -1,1 +1,1 @@
-var mnemonic = "arena history rough reduce report dune home brother adjust already clog denial";
+var mnemonic = "dolphin scare horn raccoon devote silk seven join odor dad nothing sing";

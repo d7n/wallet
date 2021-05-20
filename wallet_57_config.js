@@ -1,1 +1,1 @@
-var mnemonic = "arm sport combine hood excite fabric december derive frequent rubber medal base";
+var mnemonic = "unfold reflect detect one butter buzz hammer edge engine cannon dizzy scale";

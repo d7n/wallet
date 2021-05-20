@@ -1,1 +1,1 @@
-var mnemonic = "bounce egg addict result pilot trim culture acquire equal toward quality maze";
+var mnemonic = "radio cargo embrace hover real answer key public sample unknown cloth actor";

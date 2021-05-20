@@ -1,1 +1,1 @@
-var mnemonic = "tag source aim swallow uncle pull toward great major outer abandon rabbit";
+var mnemonic = "boss scout raw annual ostrich century find hazard dutch comic unhappy wall";

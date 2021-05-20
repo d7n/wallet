@@ -1,1 +1,1 @@
-var mnemonic = "fit number dignity physical sight damage job sound river expand chalk ready";
+var mnemonic = "click chase range joy inherit legend minute dragon tenant process outer thank";

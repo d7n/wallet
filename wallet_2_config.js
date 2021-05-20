@@ -1,1 +1,1 @@
-var mnemonic = "brass muffin submit toy display smart lecture squeeze forum south nose sheriff";
+var mnemonic = "hope image meat page tissue about parent anchor execute confirm dinosaur ticket";

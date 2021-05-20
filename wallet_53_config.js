@@ -1,1 +1,1 @@
-var mnemonic = "target lava divide pigeon entire trophy stool draft noise eternal wife combine";
+var mnemonic = "essence manual stove spice move april lunar garden chimney wagon stamp box";

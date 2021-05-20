@@ -1,1 +1,1 @@
-var mnemonic = "pitch bundle impulse disease unhappy faith stamp stamp cross want endorse inherit";
+var mnemonic = "endless penalty goddess keen ill regret round globe work source client hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "keep behave cousin desert ridge excess equal solid lizard predict steak giant";
+var mnemonic = "peanut kitten grief simple rent goddess soap lonely cake day fine tiny";

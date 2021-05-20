@@ -1,1 +1,1 @@
-var mnemonic = "desert emotion walk blur great million wrestle exile worth rice feed choose";
+var mnemonic = "stereo weather helmet protect actual energy below aware depart year onion dial";

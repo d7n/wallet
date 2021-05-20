@@ -1,1 +1,1 @@
-var mnemonic = "undo hold beef join add hungry remove foil invite degree bacon shell";
+var mnemonic = "post afford below pattern before save human learn conduct cliff wife strong";

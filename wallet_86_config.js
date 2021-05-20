@@ -1,1 +1,1 @@
-var mnemonic = "letter resource feel history wear nose library sad banner clip time decorate";
+var mnemonic = "trust uncle enforce grain wait grant mom layer roof cash burst recipe";

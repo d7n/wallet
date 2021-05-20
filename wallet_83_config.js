@@ -1,1 +1,1 @@
-var mnemonic = "excess board volcano acquire fly frozen weasel winter vicious transfer rival scissors";
+var mnemonic = "stand barely three decline achieve viable orange hair advance parade tiger require";

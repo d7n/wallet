@@ -1,1 +1,1 @@
-var mnemonic = "object traffic weather ancient gift south crystal error error wait word fashion";
+var mnemonic = "electric kangaroo another enrich romance profit talent confirm liberty famous solution journey";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze blind fall concert unfold organ visual use assist such reduce cycle";
+var mnemonic = "sleep case physical warm proof glide engine pond roast atom off turn";

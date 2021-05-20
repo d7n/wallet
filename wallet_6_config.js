@@ -1,1 +1,1 @@
-var mnemonic = "pact collect rain lizard remember private aim link drink kit answer arrange";
+var mnemonic = "vocal fine flight gather victory snap wrap siege want inform come emerge";

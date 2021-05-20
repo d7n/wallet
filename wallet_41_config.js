@@ -1,1 +1,1 @@
-var mnemonic = "put float robust sausage adapt peace celery knock crouch surprise south number";
+var mnemonic = "head cost frog crumble doll spot tobacco laptop stem laptop together ocean";

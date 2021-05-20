@@ -1,1 +1,1 @@
-var mnemonic = "pilot shove stumble remind appear chimney island program embark mad nominee predict";
+var mnemonic = "solution sorry ordinary earth dignity token rare bonus street keep script clay";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid vague render wealth manage glory rotate rug run trade render aspect";
+var mnemonic = "liberty industry mix insane stuff air weird gadget actor elbow deer face";

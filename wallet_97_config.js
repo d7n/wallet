@@ -1,1 +1,1 @@
-var mnemonic = "absent gravity obvious mail boy coast body arena long fiber long knee";
+var mnemonic = "winner matrix various muffin obscure text smile run bridge various travel enough";

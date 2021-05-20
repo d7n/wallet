@@ -1,1 +1,1 @@
-var mnemonic = "loop access orient subway devote rifle shoot limit cannon vicious kitten achieve";
+var mnemonic = "pretty detail wrong remove usual kind pulse purity prefer slab subway ribbon";

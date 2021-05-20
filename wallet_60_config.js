@@ -1,1 +1,1 @@
-var mnemonic = "vessel balance pulp federal wink unaware oven forget farm pilot actor sure";
+var mnemonic = "random host undo actual nasty acoustic gorilla slam laugh trim indoor settle";

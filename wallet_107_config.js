@@ -1,1 +1,1 @@
-var mnemonic = "rocket subway plate involve then segment round potato salt exit brick brief";
+var mnemonic = "flame valve cigar follow cream witness radio ostrich toss fetch puppy copper";

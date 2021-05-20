@@ -1,1 +1,1 @@
-var mnemonic = "solution empty twice quick later post vehicle blush robot dish cinnamon away";
+var mnemonic = "figure climb various duck ahead theory swamp sample language solve call mother";

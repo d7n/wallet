@@ -1,1 +1,1 @@
-var mnemonic = "spirit waste shoot receive woman gaze slim shock can grow denial endorse";
+var mnemonic = "canal vivid cross adjust supreme coyote drama guess canvas ocean post tenant";

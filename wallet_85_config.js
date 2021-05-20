@@ -1,1 +1,1 @@
-var mnemonic = "reason toe hand flip market doctor doll shift win dry letter leaf";
+var mnemonic = "congress crowd river wet flash small mean whip age winter jar oxygen";

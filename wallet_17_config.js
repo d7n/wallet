@@ -1,1 +1,1 @@
-var mnemonic = "success used brief knock fluid balance field vocal flight endorse situate response";
+var mnemonic = "tribe adjust code essence page spell own misery soon omit derive record";

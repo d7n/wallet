@@ -1,1 +1,1 @@
-var mnemonic = "brave grant olive save summer stuff poet bridge express surface portion exercise";
+var mnemonic = "normal finger vibrant wall move jelly case limb that tag doctor eight";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit uniform shadow steel route divert whale illegal dinner sheriff afraid spray";
+var mnemonic = "brisk text apple begin seven audit art upgrade cart tree attitude abstract";

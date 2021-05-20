@@ -1,1 +1,1 @@
-var mnemonic = "network roof vault become woman tobacco rule oblige blur minor claim blast";
+var mnemonic = "ritual cause hurry art side unusual wreck foil end output such like";

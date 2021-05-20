@@ -1,1 +1,1 @@
-var mnemonic = "model puppy tennis indoor smooth bind mountain require refuse oil surround engage";
+var mnemonic = "thank correct true music ozone lake palm practice jewel night vapor bachelor";

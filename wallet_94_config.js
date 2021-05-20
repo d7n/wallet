@@ -1,1 +1,1 @@
-var mnemonic = "nephew ginger expand social trap vibrant emerge truth sponsor theory tunnel correct";
+var mnemonic = "hold toward buffalo ski exhibit diary middle vast devote quick recycle average";

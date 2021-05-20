@@ -1,1 +1,1 @@
-var mnemonic = "excess slot mixture champion exile lava what month achieve visual dune hawk";
+var mnemonic = "exist chat food drip cloth give before angle three cruel nothing goddess";

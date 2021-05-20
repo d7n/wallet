@@ -1,1 +1,1 @@
-var mnemonic = "rice electric dentist category hole gap toward fence duck memory theme yellow";
+var mnemonic = "rapid identify nuclear scrap october produce faint silk call mixed copper urge";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain merit broken nose dinosaur comfort height include print agent civil fragile";
+var mnemonic = "thing way pride joy scrap double neck lawn year friend margin october";

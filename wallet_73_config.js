@@ -1,1 +1,1 @@
-var mnemonic = "ecology pride rib armor rifle analyst disease echo act toddler spend arena";
+var mnemonic = "recipe avoid basket comic soft cousin giant mask moment execute protect bleak";

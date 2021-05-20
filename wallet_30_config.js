@@ -1,1 +1,1 @@
-var mnemonic = "mango sample foster load they inch salad alert update dune meadow total";
+var mnemonic = "coral bronze barrel bomb coast vessel scatter plunge require effort mango spread";

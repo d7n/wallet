@@ -1,1 +1,1 @@
-var mnemonic = "topple talk chief observe alter dumb bundle sunset radar chalk example mountain";
+var mnemonic = "alcohol olympic artist citizen neck hover satoshi wide latin pioneer garment good";

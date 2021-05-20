@@ -1,1 +1,1 @@
-var mnemonic = "clarify sting boil pact dolphin soap order calm blood maple above sick";
+var mnemonic = "exotic live cousin dad scrub parrot lounge garbage rich auction write ordinary";

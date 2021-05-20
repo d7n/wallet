@@ -1,1 +1,1 @@
-var mnemonic = "powder bundle people divert wine trumpet comfort enemy danger visa globe giggle";
+var mnemonic = "fold december meat have fix trumpet shield chair excuse oyster ramp kitten";

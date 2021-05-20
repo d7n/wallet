@@ -1,1 +1,1 @@
-var mnemonic = "swamp brother tilt cake butter bike celery leader sketch label sport abandon";
+var mnemonic = "super leisure mammal cram buffalo right monitor firm humor flower release hybrid";

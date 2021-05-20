@@ -1,1 +1,1 @@
-var mnemonic = "cart vote supreme screen adapt citizen refuse patient dream will van dress";
+var mnemonic = "latin garbage damp news fire second mansion floor wild million song ankle";

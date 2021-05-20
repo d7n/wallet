@@ -1,1 +1,1 @@
-var mnemonic = "artefact same output employ beauty slim blind message unhappy equip green hip";
+var mnemonic = "junior spice gate bring margin decade menu ice trumpet slot future bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft path surge trend depth catalog inside scan jar negative sample eagle";
+var mnemonic = "lend until sign cancel decrease slim tornado police gate become carpet document";

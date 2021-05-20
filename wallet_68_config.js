@@ -1,1 +1,1 @@
-var mnemonic = "reveal rookie bleak matter depend country way permit dry cheese same sniff";
+var mnemonic = "peace left online hawk escape oxygen enable fuel core seek anchor doll";

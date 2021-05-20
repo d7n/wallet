@@ -1,1 +1,1 @@
-var mnemonic = "dragon mention risk item embody youth try bar purse few hollow miss";
+var mnemonic = "young budget forum start reunion side pyramid trial snack north file fee";

@@ -1,1 +1,1 @@
-var mnemonic = "shield dose tone exact bicycle online direct lumber merry scrap thrive broom";
+var mnemonic = "glad main gauge spin glory globe bargain blind essence street velvet move";

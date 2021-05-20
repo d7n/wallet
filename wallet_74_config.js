@@ -1,1 +1,1 @@
-var mnemonic = "general lawn rack build churn wheel warrior famous base puzzle fee illness";
+var mnemonic = "box side slight noodle cruel put rather unlock correct shift ready torch";

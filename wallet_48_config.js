@@ -1,1 +1,1 @@
-var mnemonic = "aspect online jeans bottom youth violin tilt calm fit merit fatal work";
+var mnemonic = "fork catalog gorilla payment keep embark size illegal income suffer arm hope";

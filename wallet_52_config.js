@@ -1,1 +1,1 @@
-var mnemonic = "object holiday question mobile coast small off short silent afraid lecture possible";
+var mnemonic = "mansion surge boil later love keep pupil morning involve turtle sell expose";

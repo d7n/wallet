@@ -1,1 +1,1 @@
-var mnemonic = "weapon actress initial garbage federal arm regret segment rigid now release fashion";
+var mnemonic = "race brother cattle hen suffer veteran tower room noble other artist peanut";

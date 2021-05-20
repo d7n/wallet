@@ -1,1 +1,1 @@
-var mnemonic = "suspect misery error badge good veteran blanket movie hen correct verify issue";
+var mnemonic = "tortoise kangaroo adapt liquid blood maze welcome exile dutch vanish trap street";

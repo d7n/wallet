@@ -1,1 +1,1 @@
-var mnemonic = "purity surface cloud either ginger inflict word whale radar cherry leg check";
+var mnemonic = "school length mechanic buyer unfold beauty glow question release destroy insane public";

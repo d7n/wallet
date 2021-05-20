@@ -1,1 +1,1 @@
-var mnemonic = "elder upgrade reduce try despair moment dinosaur talent tiny heart circle cream";
+var mnemonic = "song leg surround window among ethics attend weird super syrup figure deposit";

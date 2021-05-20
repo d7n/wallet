@@ -1,1 +1,1 @@
-var mnemonic = "clip then curve sweet account flower few detail arm stage winner kidney";
+var mnemonic = "observe blind network essay course what enforce never invest tooth vivid error";

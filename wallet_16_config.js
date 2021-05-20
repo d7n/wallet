@@ -1,1 +1,1 @@
-var mnemonic = "grocery artwork tone board ripple start power pioneer rival couch suspect apology";
+var mnemonic = "either scare witness quiz blush question prevent tuition eyebrow marriage plastic twelve";

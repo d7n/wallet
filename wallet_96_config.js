@@ -1,1 +1,1 @@
-var mnemonic = "margin attack struggle call warfare agent seat ankle kiss fresh also brave";
+var mnemonic = "pretty school march bubble correct coach pact address install suffer slam library";
