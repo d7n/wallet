@@ -1,1 +1,1 @@
-var mnemonic = "horror history pool fix shop tomato win soldier doll feature exercise drama";
+var mnemonic = "limb differ afford adult labor average ghost craft execute genre weather asthma";

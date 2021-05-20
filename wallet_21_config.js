@@ -1,1 +1,1 @@
-var mnemonic = "peanut attend large salon daughter brain black speak lounge casino spoil violin";
+var mnemonic = "zone business melt puppy ice output immense apple initial eternal shaft crane";

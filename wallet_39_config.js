@@ -1,1 +1,1 @@
-var mnemonic = "light awful spare arrest jealous equal frequent animal awesome peasant during reason";
+var mnemonic = "robust vacant harbor humor buffalo grass student kick melt shadow army walk";

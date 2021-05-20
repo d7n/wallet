@@ -1,1 +1,1 @@
-var mnemonic = "disagree thumb gasp blood sentence mule guard swallow parrot pause wrist blur";
+var mnemonic = "gap tape deposit velvet repeat equal equal satoshi myself citizen forum burden";

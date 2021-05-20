@@ -1,1 +1,1 @@
-var mnemonic = "panel beauty option desk business small minute crane hole appear under beef";
+var mnemonic = "logic wise stable cable myself innocent select poet below tape ostrich advice";

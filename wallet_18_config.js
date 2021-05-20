@@ -1,1 +1,1 @@
-var mnemonic = "onion daughter skin option title payment cook color exhaust drastic define rib";
+var mnemonic = "dumb busy cattle shadow note never visual stamp kingdom scrub recipe number";

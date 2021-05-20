@@ -1,1 +1,1 @@
-var mnemonic = "beauty umbrella diet fresh connect obtain remain notice below harsh hard warm";
+var mnemonic = "genuine crawl hundred dynamic coyote broom insane sniff dizzy walk rebuild insect";

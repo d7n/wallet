@@ -1,1 +1,1 @@
-var mnemonic = "sauce state sign winner assault bulb peace harsh imitate museum tortoise diesel";
+var mnemonic = "town siege slam silent choose behind ghost fever piece wrestle pair usual";

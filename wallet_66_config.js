@@ -1,1 +1,1 @@
-var mnemonic = "eager penalty immune ignore salute miss feed inhale anxiety actual quality very";
+var mnemonic = "monitor tumble office gun dynamic they fluid drama rotate viable soccer pitch";

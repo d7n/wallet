@@ -1,1 +1,1 @@
-var mnemonic = "hour range insane misery express walk stage future inch elbow mom sense";
+var mnemonic = "leader embark auction worth success enable allow festival settle chimney menu rail";

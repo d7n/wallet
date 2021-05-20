@@ -1,1 +1,1 @@
-var mnemonic = "differ cabbage trick rival furnace smooth erupt fox castle gentle gate never";
+var mnemonic = "disorder maid panic chronic burst army mass ladder street truly dial total";

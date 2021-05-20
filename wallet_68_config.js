@@ -1,1 +1,1 @@
-var mnemonic = "sniff choice shaft lesson farm simple method palm sponsor glad razor onion";
+var mnemonic = "mercy surround taxi session lucky island hair game unfair ribbon result expand";

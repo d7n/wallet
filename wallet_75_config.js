@@ -1,1 +1,1 @@
-var mnemonic = "olympic oval that empower travel dance labor family flag goose glad game";
+var mnemonic = "flush inject unaware peanut direct husband outside universe direct gorilla cactus cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "topic benefit fat north pioneer vacant borrow jeans pilot cage fancy hill";
+var mnemonic = "surprise misery ask wool iron kitten search noodle champion april giant school";

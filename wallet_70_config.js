@@ -1,1 +1,1 @@
-var mnemonic = "enhance affair inch blade flat eagle pave social decrease crew account raw";
+var mnemonic = "vanish curious seminar balcony city figure raise permit garment eyebrow medal luxury";

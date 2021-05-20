@@ -1,1 +1,1 @@
-var mnemonic = "luxury vague side sock danger promote concert urge address table degree receive";
+var mnemonic = "elite rice cloud hundred silk life mansion fortune audit wish capable appear";

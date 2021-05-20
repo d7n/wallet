@@ -1,1 +1,1 @@
-var mnemonic = "salt nurse explain pen control story vast siege kick honey ticket donor";
+var mnemonic = "fluid short alpha ceiling dawn slow ostrich goat have image midnight client";

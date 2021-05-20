@@ -1,1 +1,1 @@
-var mnemonic = "sugar gravity limit kite volume steel alone toddler tiger slim asset foam";
+var mnemonic = "farm embark language donor best maximum govern issue coach caught figure awake";

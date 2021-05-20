@@ -1,1 +1,1 @@
-var mnemonic = "reflect brief people useless purse pitch usage fire cash divorce ethics sausage";
+var mnemonic = "boost bike antique shield unfold pyramid glove slice violin matrix diary spatial";

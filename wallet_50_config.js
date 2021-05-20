@@ -1,1 +1,1 @@
-var mnemonic = "near nut candy gadget logic wide taste success muscle praise giggle genius";
+var mnemonic = "lyrics peanut exhaust toy mask become mystery dirt scare general desk usage";

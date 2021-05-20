@@ -1,1 +1,1 @@
-var mnemonic = "antenna field inflict love box cycle super deny twist frame recipe provide";
+var mnemonic = "install cable upset dragon tissue armed birth execute atom casual engine excuse";

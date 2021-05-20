@@ -1,1 +1,1 @@
-var mnemonic = "black aim whip throw woman vital purpose foster snap trick phone genius";
+var mnemonic = "cave worth giggle kiwi swallow slide wealth ability galaxy lemon mammal vault";

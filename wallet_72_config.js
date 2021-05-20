@@ -1,1 +1,1 @@
-var mnemonic = "boost walk danger canyon vendor brush myth today fashion total glove modify";
+var mnemonic = "juice feed proof mammal toward alley step staff industry wire adapt turtle";

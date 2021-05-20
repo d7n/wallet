@@ -1,1 +1,1 @@
-var mnemonic = "jelly enact lend gather space drip venture mind conduct bench leader trophy";
+var mnemonic = "glad damp daring attract club shoe tilt purchase combine prosper label kid";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor ozone tower together undo purchase hair better click velvet bunker purse";
+var mnemonic = "then spider peasant mix unfair wave smooth practice giant end cheap live";

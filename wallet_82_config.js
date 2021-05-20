@@ -1,1 +1,1 @@
-var mnemonic = "cabbage toast powder elder similar child spray rotate rely legal pair possible";
+var mnemonic = "goddess illness flight calm basic friend grid hope ship seed pencil denial";

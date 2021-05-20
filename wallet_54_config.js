@@ -1,1 +1,1 @@
-var mnemonic = "intact riot cinnamon invest rigid capital twin tip awkward decrease photo afraid";
+var mnemonic = "spray final ivory sunny cupboard clarify pair palm proud trouble category sleep";

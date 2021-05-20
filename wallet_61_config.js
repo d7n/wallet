@@ -1,1 +1,1 @@
-var mnemonic = "confirm banana file accident defense alone enter reward control allow clock athlete";
+var mnemonic = "sauce insect lazy kite skull grace ethics column simple play excess torch";

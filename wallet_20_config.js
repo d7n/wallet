@@ -1,1 +1,1 @@
-var mnemonic = "sock traffic solution orchard crush tragic moral genre keep fetch echo clip";
+var mnemonic = "burst achieve split able icon basket early average erupt rude across ship";

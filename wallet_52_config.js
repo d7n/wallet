@@ -1,1 +1,1 @@
-var mnemonic = "shift until arrive detect youth mouse vessel dish face reason hybrid drip";
+var mnemonic = "liberty rocket toe uphold cluster grant walnut liar waste detail hybrid ivory";

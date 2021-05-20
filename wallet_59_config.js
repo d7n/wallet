@@ -1,1 +1,1 @@
-var mnemonic = "giant select auto december ocean leopard merit combine clarify buffalo frost response";
+var mnemonic = "task used trouble tunnel jacket lesson vibrant adult autumn replace simple impulse";

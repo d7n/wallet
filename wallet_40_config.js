@@ -1,1 +1,1 @@
-var mnemonic = "unaware moment viable recycle observe bargain arm scout mask brave symbol bench";
+var mnemonic = "artwork deer march used rice soldier cloud bean segment firm unveil taxi";

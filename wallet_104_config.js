@@ -1,1 +1,1 @@
-var mnemonic = "noise own cart fortune plunge buddy youth open tail invite alert blanket";
+var mnemonic = "awake plate ceiling burger industry fold sunset immense find harsh measure observe";

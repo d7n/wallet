@@ -1,1 +1,1 @@
-var mnemonic = "fame apology green fame divorce agree draft adult affair honey cycle solution";
+var mnemonic = "garden common stage expect hurt frame yellow warfare popular quarter property flag";

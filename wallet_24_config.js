@@ -1,1 +1,1 @@
-var mnemonic = "smart click smoke order inside fine piano slow banner goat cheese spray";
+var mnemonic = "candy half custom south beyond before decline attract vacant around adult primary";

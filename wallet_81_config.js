@@ -1,1 +1,1 @@
-var mnemonic = "theme alcohol elephant east pet hundred receive tent reunion flee subject domain";
+var mnemonic = "month miss strong eternal solve frame city actual reunion video liar pelican";

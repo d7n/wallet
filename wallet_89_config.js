@@ -1,1 +1,1 @@
-var mnemonic = "keen thing level foam crowd pear bulb nation general opera weekend bamboo";
+var mnemonic = "modify boil globe trip proof govern large damp eager chair garment tiny";

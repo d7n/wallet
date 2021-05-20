@@ -1,1 +1,1 @@
-var mnemonic = "dutch swallow there rival flash coffee park rude remind flight luxury sail";
+var mnemonic = "return close perfect cradle sing icon pepper maximum behave since pizza prison";

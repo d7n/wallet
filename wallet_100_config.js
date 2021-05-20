@@ -1,1 +1,1 @@
-var mnemonic = "cargo waste magic bridge oxygen pool thing wool shock recipe chest auto";
+var mnemonic = "smooth smart spring control false only outer thought have impose age license";

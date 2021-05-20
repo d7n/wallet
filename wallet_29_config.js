@@ -1,1 +1,1 @@
-var mnemonic = "push portion absent crisp dad maze hire retreat foster peanut swap buyer";
+var mnemonic = "proof glove zone screen bullet utility water entry suffer moral useless window";

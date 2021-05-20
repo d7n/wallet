@@ -1,1 +1,1 @@
-var mnemonic = "page team stadium wing polar trophy rude enlist embark meat remove hurry";
+var mnemonic = "make cabbage garage drip script tool repair gauge unlock puzzle grow they";

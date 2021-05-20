@@ -1,1 +1,1 @@
-var mnemonic = "expire sugar turn elder miss below sign success betray much thought nut";
+var mnemonic = "still museum stumble bone explain flavor dish matrix renew notice ice person";

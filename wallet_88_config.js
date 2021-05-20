@@ -1,1 +1,1 @@
-var mnemonic = "undo play add indoor lady defense divert liar gun swap symptom tobacco";
+var mnemonic = "ethics gravity muffin victory blade cigar submit lottery grunt buddy verify clarify";

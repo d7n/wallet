@@ -1,1 +1,1 @@
-var mnemonic = "fat hotel shine torch mansion juice cruel vendor poet oil primary empty";
+var mnemonic = "rare gravity congress enough tonight fever course idea brass glory patch sausage";

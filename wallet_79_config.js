@@ -1,1 +1,1 @@
-var mnemonic = "purity render language bus laugh planet search hospital memory item news empty";
+var mnemonic = "grace mutual choose lizard focus remind glow heavy rib negative east off";

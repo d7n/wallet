@@ -1,1 +1,1 @@
-var mnemonic = "tribe grocery flavor carbon sea helmet penalty symbol abstract clerk economy network";
+var mnemonic = "bless success animal this pretty obtain select finish print soccer left tiny";

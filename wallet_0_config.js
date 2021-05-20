@@ -1,1 +1,1 @@
-var mnemonic = "slam position oval heart differ ripple man knock round merit balcony rude";
+var mnemonic = "hunt ride entire sadness sunset naive tobacco prison school segment skirt wink";

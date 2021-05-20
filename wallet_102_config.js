@@ -1,1 +1,1 @@
-var mnemonic = "lumber security cliff shield exact flat wish brisk inside denial deer symptom";
+var mnemonic = "basket critic march spawn build nephew release exist wrong police elegant mixture";

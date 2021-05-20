@@ -1,1 +1,1 @@
-var mnemonic = "trigger maze awesome clock pumpkin apple major angry under misery artwork flight";
+var mnemonic = "erode valve energy zero three language allow reopen trial mail interest assault";

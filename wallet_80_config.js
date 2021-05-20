@@ -1,1 +1,1 @@
-var mnemonic = "road limit island turtle host fabric vendor inherit bomb echo scale able";
+var mnemonic = "antenna run gather pear trumpet wedding dog easily clerk bench common sugar";

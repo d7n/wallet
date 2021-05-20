@@ -1,1 +1,1 @@
-var mnemonic = "boil couch right upon service foam steel door science tank attract trust";
+var mnemonic = "liquid hybrid quick own hood swift faculty spray become wood exercise image";

@@ -1,1 +1,1 @@
-var mnemonic = "manage road hobby advance cement inquiry bench praise april track age lawn";
+var mnemonic = "style wait caught inflict chef fantasy lava hurry search job ball crystal";

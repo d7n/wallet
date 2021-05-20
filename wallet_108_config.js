@@ -1,1 +1,1 @@
-var mnemonic = "bubble pilot universe junior liquid you october aspect predict buffalo gather combine";
+var mnemonic = "face oxygen traffic family logic elder prosper ranch evidence inner genuine shell";

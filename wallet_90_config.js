@@ -1,1 +1,1 @@
-var mnemonic = "release mother van culture seed soul grant enough human sugar street inmate";
+var mnemonic = "huge sweet name try mesh route ritual raw execute peanut risk recipe";

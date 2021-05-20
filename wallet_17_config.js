@@ -1,1 +1,1 @@
-var mnemonic = "talk give quality pledge reveal promote lyrics vivid vocal pistol nothing expire";
+var mnemonic = "raise evoke alcohol name moment route pottery desert alpha ahead angle lion";

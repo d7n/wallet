@@ -1,1 +1,1 @@
-var mnemonic = "cover casino update switch confirm run hedgehog unique attract reason beach ribbon";
+var mnemonic = "test drift like humble fit night arctic balance shock mail cram example";

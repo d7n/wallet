@@ -1,1 +1,1 @@
-var mnemonic = "swift ghost tilt manual despair lift owner open harbor high text pioneer";
+var mnemonic = "ladder delay rifle tornado approve false turtle belt round effort hill media";

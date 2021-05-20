@@ -1,1 +1,1 @@
-var mnemonic = "inherit elevator destroy service giant liar slot liberty rice kick artwork artwork";
+var mnemonic = "produce unhappy earn remain naive despair bottom final sunny output afraid manual";

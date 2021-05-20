@@ -1,1 +1,1 @@
-var mnemonic = "fortune civil inner bean hunt timber fresh minor there stomach expire ordinary";
+var mnemonic = "unit calm social bleak punch pill solve tobacco device bottom busy garage";

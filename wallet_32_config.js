@@ -1,1 +1,1 @@
-var mnemonic = "carbon split orange happy demise sadness mix milk curve share recall hungry";
+var mnemonic = "security basket affair smart hat wedding moon rapid member torch glow clock";

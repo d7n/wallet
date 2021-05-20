@@ -1,1 +1,1 @@
-var mnemonic = "spend ski observe scout slogan erase style asthma stem month friend process";
+var mnemonic = "mansion metal silent trade inner box anchor color neglect royal win helmet";

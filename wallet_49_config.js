@@ -1,1 +1,1 @@
-var mnemonic = "unaware earth danger gun fabric interest random wrong deny shrimp soon uncle";
+var mnemonic = "equal siren much reform fine nuclear talk poverty claw ordinary category priority";

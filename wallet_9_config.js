@@ -1,1 +1,1 @@
-var mnemonic = "because armed emerge afford good horse attend aerobic receive bring together track";
+var mnemonic = "when turtle pelican day tiger sting notable popular aware pull sense sugar";

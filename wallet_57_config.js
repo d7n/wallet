@@ -1,1 +1,1 @@
-var mnemonic = "okay unhappy wife cherry alarm junk local chronic physical job wonder stool";
+var mnemonic = "exile wedding involve smoke trigger joke document double wish invite happy behind";

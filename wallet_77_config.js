@@ -1,1 +1,1 @@
-var mnemonic = "spin code gun sausage burst breeze genuine wait garment scrap hybrid leaf";
+var mnemonic = "path crew sphere observe stay split thunder curve depart pledge worry basic";

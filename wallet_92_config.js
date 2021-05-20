@@ -1,1 +1,1 @@
-var mnemonic = "laundry potato double group sense define bachelor column festival muscle elevator boss";
+var mnemonic = "eight shoot error naive item ceiling danger bean tower lyrics relax dad";

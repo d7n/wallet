@@ -1,1 +1,1 @@
-var mnemonic = "dial nuclear enable useful cluster tenant term sea canal torch arm jacket";
+var mnemonic = "cute degree gift tool aisle panic dinosaur frozen race flavor damp civil";

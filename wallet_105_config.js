@@ -1,1 +1,1 @@
-var mnemonic = "hospital absorb skin fiscal chuckle diary magnet pulp run bargain where base";
+var mnemonic = "size brush estate river man burger shoe jelly derive embark update impulse";

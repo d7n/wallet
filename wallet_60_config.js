@@ -1,1 +1,1 @@
-var mnemonic = "hair wave glide pave food casual member duty puzzle limit talk party";
+var mnemonic = "happy minimum voyage hero today churn upon profit school upset lend photo";

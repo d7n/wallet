@@ -1,1 +1,1 @@
-var mnemonic = "uncover punch copper mechanic wave shaft source young lamp film poverty concert";
+var mnemonic = "burst vessel source crush stage sorry video match famous impose race tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy client shallow toddler parade bring balcony luggage reopen ride sausage twist";
+var mnemonic = "picnic cat inspire range narrow flush away patrol nothing process acoustic fashion";

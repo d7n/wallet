@@ -1,1 +1,1 @@
-var mnemonic = "month lady present warrior wheel visual dish museum supreme skull icon grid";
+var mnemonic = "sadness edge east material adjust inside fiscal metal cricket plug laugh occur";

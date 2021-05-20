@@ -1,1 +1,1 @@
-var mnemonic = "have divide woman remember narrow grow master side neutral fox reduce moment";
+var mnemonic = "parade broken wet high monster junior hedgehog inherit seven book raise song";

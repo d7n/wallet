@@ -1,1 +1,1 @@
-var mnemonic = "aisle hold hill clown cry surprise whale ability shoe boy digital favorite";
+var mnemonic = "swarm flush phone over element drop bargain friend tide exact poverty caution";

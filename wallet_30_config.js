@@ -1,1 +1,1 @@
-var mnemonic = "cabin impulse height pupil potato yard certain pond trial awful trap pepper";
+var mnemonic = "six alter lobster pair act grace nuclear floor father visit leopard owner";

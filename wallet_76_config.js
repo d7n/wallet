@@ -1,1 +1,1 @@
-var mnemonic = "quality author summer find maze explain silent camp edge exile fantasy grain";
+var mnemonic = "thumb window cliff file shuffle fade seven nominee local armor topic alert";

@@ -1,1 +1,1 @@
-var mnemonic = "silk dizzy found mimic duty path easily radar hat stairs change certain";
+var mnemonic = "stand leaf zone turn treat source hedgehog urge poet alone slam soft";

@@ -1,1 +1,1 @@
-var mnemonic = "submit ocean limb other quit fortune woman duty surface actor lake stamp";
+var mnemonic = "ancient promote process lizard camera mass clutch law chalk such reopen bleak";

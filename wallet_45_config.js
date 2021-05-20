@@ -1,1 +1,1 @@
-var mnemonic = "soldier physical swift october helmet primary steel addict depend cereal sentence stadium";
+var mnemonic = "panic cinnamon flag clutch amused limb item case finish van embark they";

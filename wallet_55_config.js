@@ -1,1 +1,1 @@
-var mnemonic = "scheme eternal immune cabin method include one decline resemble parade umbrella pass";
+var mnemonic = "twenty harbor success secret dash modify satisfy identify reward dolphin gloom worry";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh spring assault hub vicious board useless unaware subway cradle tide apart";
+var mnemonic = "sponsor horror insane miracle hollow wet cupboard claim attitude cash crop angry";

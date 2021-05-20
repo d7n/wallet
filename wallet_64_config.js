@@ -1,1 +1,1 @@
-var mnemonic = "drift among uphold illness able slide recycle judge tone discover army enemy";
+var mnemonic = "crucial car body swift ginger dolphin abstract author afraid aware lend peace";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior poem inhale bar hold congress where history group myth layer word";
+var mnemonic = "bread harsh please print tissue tired jungle valley file quote among alpha";

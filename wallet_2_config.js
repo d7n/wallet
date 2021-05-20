@@ -1,1 +1,1 @@
-var mnemonic = "error ice country van panda solution wrist color leave alpha board rival";
+var mnemonic = "endless surge battle card mushroom pelican fossil august chase payment slight coyote";

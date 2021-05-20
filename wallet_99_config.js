@@ -1,1 +1,1 @@
-var mnemonic = "soda sauce you grant shove area cruel like wish asthma void exhaust";
+var mnemonic = "rabbit floor fruit dawn world front silly okay hurry remind cluster infant";

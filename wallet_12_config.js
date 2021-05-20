@@ -1,1 +1,1 @@
-var mnemonic = "strategy drill chalk near record glance miracle excess betray animal idle robust";
+var mnemonic = "crew shoe regular wine page supreme increase crumble toast wheel disease grass";

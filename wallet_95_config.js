@@ -1,1 +1,1 @@
-var mnemonic = "pen place display home quick cable stove silk meat erosion lunar nice";
+var mnemonic = "remind couple gift pepper slam humor bind present fatigue frame way also";

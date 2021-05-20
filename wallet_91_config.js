@@ -1,1 +1,1 @@
-var mnemonic = "draft sudden couch arrow merry core primary spider clarify illness doctor vote";
+var mnemonic = "stay alert ritual vacant dwarf oxygen tip junk uniform ensure inform fly";

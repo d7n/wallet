@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow okay capital weird life magnet maple unlock animal loan artwork quit";
+var mnemonic = "twist wrong hybrid company twelve word apology garlic need grunt video demand";

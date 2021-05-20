@@ -1,1 +1,1 @@
-var mnemonic = "ladder you demise retreat brand general tooth crazy erupt young feel bulk";
+var mnemonic = "security vault waste diary session people stairs tool color choose cover mango";

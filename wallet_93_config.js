@@ -1,1 +1,1 @@
-var mnemonic = "grow card dash rookie milk exit quality upon useless seek point north";
+var mnemonic = "open soda cluster danger picture basic canyon excess beauty begin swim cause";

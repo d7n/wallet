@@ -1,1 +1,1 @@
-var mnemonic = "frequent remind repair wedding field number whale talent sting rival dog jungle";
+var mnemonic = "top eternal fence actor will across apple option leave alarm parade angry";

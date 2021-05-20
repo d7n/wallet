@@ -1,1 +1,1 @@
-var mnemonic = "salmon pair embrace admit hope bench clock evidence feed magic orange cry";
+var mnemonic = "wonder proof riot obtain demise salmon wreck observe surprise save early half";
