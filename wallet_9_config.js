@@ -1,1 +1,1 @@
-var mnemonic = "blur impact knife torch settle hint scissors glow audit music like tray";
+var mnemonic = "envelope truck bench forward clog jealous valid there range divide frost lonely";

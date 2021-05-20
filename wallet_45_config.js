@@ -1,1 +1,1 @@
-var mnemonic = "nest monkey math arrive charge answer derive vibrant pause two insane salad";
+var mnemonic = "family debate used else effort story piece wet three subject original goddess";

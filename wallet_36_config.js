@@ -1,1 +1,1 @@
-var mnemonic = "gloom phone cross crunch helmet legend almost degree primary excess come tip";
+var mnemonic = "wash unable pole craft coral when eight festival else whisper teach trash";

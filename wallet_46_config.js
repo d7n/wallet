@@ -1,1 +1,1 @@
-var mnemonic = "morning mix slice knee copper run crumble film sphere sponsor sight jacket";
+var mnemonic = "salt twelve copper cruel join knee license during april science profit endorse";

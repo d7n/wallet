@@ -1,1 +1,1 @@
-var mnemonic = "column blade trade crime artefact coast trick hood base hurt about word";
+var mnemonic = "hair senior fringe echo twenty brief insane unable onion museum brother connect";

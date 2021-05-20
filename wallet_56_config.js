@@ -1,1 +1,1 @@
-var mnemonic = "april sort rocket cluster exact face margin river dirt garage monitor illegal";
+var mnemonic = "hip guitar minor swallow october cruise mushroom junior fatigue release ordinary fitness";

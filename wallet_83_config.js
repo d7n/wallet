@@ -1,1 +1,1 @@
-var mnemonic = "trend stamp celery unfair rhythm vapor kid sort segment cruel clock miracle";
+var mnemonic = "hope hero leg knife canal dawn unusual twelve tide able shadow giant";

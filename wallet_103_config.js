@@ -1,1 +1,1 @@
-var mnemonic = "around obvious smooth animal ankle struggle gesture join aim setup toe left";
+var mnemonic = "dolphin civil glove snap hello zone universe order differ dad west team";

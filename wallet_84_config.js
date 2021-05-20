@@ -1,1 +1,1 @@
-var mnemonic = "clown street boost strategy quote suspect rally horse dutch clever onion flock";
+var mnemonic = "mutual drift trip fade skull congress pull bonus great thrive sound dirt";

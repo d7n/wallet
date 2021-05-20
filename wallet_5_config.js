@@ -1,1 +1,1 @@
-var mnemonic = "tiger circle rapid smooth icon aunt column remove april scissors wait trade";
+var mnemonic = "similar absent quick farm snack bid palace festival two source trumpet joke";

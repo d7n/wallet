@@ -1,1 +1,1 @@
-var mnemonic = "lobster frown balance afford girl laugh eternal repair child indoor raven pool";
+var mnemonic = "bitter silly patient goose course song news visa divert clean spirit fish";

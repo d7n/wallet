@@ -1,1 +1,1 @@
-var mnemonic = "betray toss sword museum coil device enter hover ticket scheme edge stay";
+var mnemonic = "blame setup length pony canal multiply tragic evidence snow trade latin pave";

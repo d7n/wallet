@@ -1,1 +1,1 @@
-var mnemonic = "clarify sponsor glimpse impose bamboo alien erosion forward fan stumble aerobic happy";
+var mnemonic = "document museum affair cargo tackle rare frame candy unlock cloud ensure slush";

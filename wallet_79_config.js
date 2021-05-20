@@ -1,1 +1,1 @@
-var mnemonic = "twenty music vacuum city current join defy theme increase window expect wear";
+var mnemonic = "elegant keen all group range miracle security ring pole reopen kitchen walnut";

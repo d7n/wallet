@@ -1,1 +1,1 @@
-var mnemonic = "age token raise upset program brave ball multiply ill strong return occur";
+var mnemonic = "horn humble cupboard gown fan exchange across cave slice armor humble myself";

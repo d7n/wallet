@@ -1,1 +1,1 @@
-var mnemonic = "sense blade green problem stuff hobby crop sign evoke spice name swap";
+var mnemonic = "attitude dilemma rely cruel promote afford inmate link left switch build below";

@@ -1,1 +1,1 @@
-var mnemonic = "century bunker uphold crawl reject saddle floor replace anxiety group enrich potato";
+var mnemonic = "hair glance also quit helmet stereo mule poem cluster skate clip average";

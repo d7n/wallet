@@ -1,1 +1,1 @@
-var mnemonic = "cotton market start damp teach banana primary loop evil rescue shallow over";
+var mnemonic = "level shy tonight kitchen fit mesh pull two alien faculty tourist shield";

@@ -1,1 +1,1 @@
-var mnemonic = "raw year boat rookie upgrade sport about weather garment trick key approve";
+var mnemonic = "apology mad choose lyrics moon entry royal hero anchor become lonely nephew";

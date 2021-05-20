@@ -1,1 +1,1 @@
-var mnemonic = "party short quiz river guitar useful excuse junk draw street civil valley";
+var mnemonic = "near regret knife pulp body neglect client govern burst indoor small mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "worth oil slush prepare equip run spray marble into protect flower upon";
+var mnemonic = "demise auction pluck poverty ugly dad observe indoor filter trumpet pen primary";

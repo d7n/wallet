@@ -1,1 +1,1 @@
-var mnemonic = "vast exchange mosquito prison mule rally fox misery lobster slice unique danger";
+var mnemonic = "rib artist merge reform cable scene script cabbage neither loop urge radar";

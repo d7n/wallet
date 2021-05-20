@@ -1,1 +1,1 @@
-var mnemonic = "sugar razor fish member forward ozone traffic improve spice sad forget donkey";
+var mnemonic = "victory foam expect input iron enlist notable one document worth advance gasp";

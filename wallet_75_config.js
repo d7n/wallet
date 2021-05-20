@@ -1,1 +1,1 @@
-var mnemonic = "true animal soft fancy approve develop plate pelican chat next craft price";
+var mnemonic = "aunt wealth fence agree neglect attitude caution desert model name exchange blouse";

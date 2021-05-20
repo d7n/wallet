@@ -1,1 +1,1 @@
-var mnemonic = "feed outdoor border rocket enrich title lock wasp insane kick wrist crystal";
+var mnemonic = "repair climb stomach victory still whale forest melody subway jacket melt reduce";

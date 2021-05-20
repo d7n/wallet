@@ -1,1 +1,1 @@
-var mnemonic = "electric taxi claw hunt tuna place simple success truth company delay exclude";
+var mnemonic = "drastic actual bus bridge peasant rural damp powder glide dirt divorce sport";

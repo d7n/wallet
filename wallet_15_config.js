@@ -1,1 +1,1 @@
-var mnemonic = "crisp solution toast diet rely caught ghost gravity runway build anxiety swear";
+var mnemonic = "mother become behave festival switch rude exclude embrace sound photo magnet stock";

@@ -1,1 +1,1 @@
-var mnemonic = "alien present prosper link copy melody balance rough crowd viable fresh ten";
+var mnemonic = "empty trim boat pretty bleak move divert gold stem physical thing allow";

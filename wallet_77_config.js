@@ -1,1 +1,1 @@
-var mnemonic = "lava toast brick wrist stove enforce polar bridge federal later smile wild";
+var mnemonic = "ordinary remove crucial limit ability reform brain access access oil tree valid";

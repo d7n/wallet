@@ -1,1 +1,1 @@
-var mnemonic = "repair urban gate where tattoo bounce frozen trash solid dwarf whip belt";
+var mnemonic = "safe magic arm risk ordinary dynamic brush neither bar scatter gas burger";

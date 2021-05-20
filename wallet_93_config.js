@@ -1,1 +1,1 @@
-var mnemonic = "choose decline push face excite diesel digital long frequent dice train fade";
+var mnemonic = "boat fitness bulb dismiss detect jewel across bulb control manage figure panel";

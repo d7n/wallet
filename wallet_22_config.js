@@ -1,1 +1,1 @@
-var mnemonic = "virtual wrong bridge reward absorb column cement eager pipe despair puppy own";
+var mnemonic = "clock learn gift say stereo limit travel around panel puppy bounce excess";

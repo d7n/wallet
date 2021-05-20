@@ -1,1 +1,1 @@
-var mnemonic = "ride antenna diet autumn exist right orange mechanic rely ordinary cannon save";
+var mnemonic = "private logic claim diary sense rate blame club enhance slight fitness attitude";

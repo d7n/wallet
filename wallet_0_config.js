@@ -1,1 +1,1 @@
-var mnemonic = "online farm oppose pluck raw whale ahead phone tumble spread essence bubble";
+var mnemonic = "cave addict exist rare surround maple city arrest frame upgrade typical poem";

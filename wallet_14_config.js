@@ -1,1 +1,1 @@
-var mnemonic = "caution random clay tissue giant option shiver apple air swamp human grape";
+var mnemonic = "total slice warm chapter cupboard twice drip green promote young situate estate";

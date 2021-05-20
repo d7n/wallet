@@ -1,1 +1,1 @@
-var mnemonic = "earth cliff network address sun speak ivory tree woman tilt family grief";
+var mnemonic = "solid rather limb turkey increase eternal vault save misery found during draft";

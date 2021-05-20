@@ -1,1 +1,1 @@
-var mnemonic = "chapter artefact foil explain goose tone hill car bus oyster carry service";
+var mnemonic = "burger tiny sword team update unique wreck august erosion atom earn review";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent agent ice brown exact wait rail syrup sting boss portion rotate";
+var mnemonic = "there floor vague budget airport crawl acquire invest keep protect fault fuel";

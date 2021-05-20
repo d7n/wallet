@@ -1,1 +1,1 @@
-var mnemonic = "spatial seat equip jelly student art isolate regular wood manual vast lonely";
+var mnemonic = "abandon organ biology woman next intact impact multiply cash abuse prison space";

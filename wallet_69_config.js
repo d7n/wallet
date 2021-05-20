@@ -1,1 +1,1 @@
-var mnemonic = "social tooth pizza room sibling fall drink coyote client sunny start pause";
+var mnemonic = "enact begin winner neither please write reunion sand water unfair drama trouble";

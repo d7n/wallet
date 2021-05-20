@@ -1,1 +1,1 @@
-var mnemonic = "minute swear share wrong sense major food ostrich run half journey plug";
+var mnemonic = "ball clever figure august lunar clerk hub execute chase doll praise merge";

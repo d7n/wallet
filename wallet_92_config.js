@@ -1,1 +1,1 @@
-var mnemonic = "top tuna kite bid project soup parent mushroom vicious music neither minimum";
+var mnemonic = "whip collect grace easy rally filter train fancy latin use super quiz";

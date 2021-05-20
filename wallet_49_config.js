@@ -1,1 +1,1 @@
-var mnemonic = "start dad indoor engine million desert among clap mixed case economy crash";
+var mnemonic = "present success blast rather hub deer siege nose leg neck game master";

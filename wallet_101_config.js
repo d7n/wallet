@@ -1,1 +1,1 @@
-var mnemonic = "save peace brown borrow behave question room child silver left mother siren";
+var mnemonic = "balcony brother village cross absent shuffle concert caution reward move miss train";

@@ -1,1 +1,1 @@
-var mnemonic = "appear possible kick trade party neutral aunt kite raise robot later scatter";
+var mnemonic = "steel lazy food decline please burger insane boss smart fine length harvest";

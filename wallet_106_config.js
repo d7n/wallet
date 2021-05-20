@@ -1,1 +1,1 @@
-var mnemonic = "glimpse void slide wear refuse reopen hero blossom medal divert note airport";
+var mnemonic = "novel play ugly fame glide lend virus broom census rival february twelve";

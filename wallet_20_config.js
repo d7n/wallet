@@ -1,1 +1,1 @@
-var mnemonic = "obscure rebuild butter process add kick swarm sauce ancient upset obey legal";
+var mnemonic = "sustain powder bicycle hawk toilet swap forward ignore shed sleep blade distance";

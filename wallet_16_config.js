@@ -1,1 +1,1 @@
-var mnemonic = "cement island actor inform because mansion task upper width tribe just earn";
+var mnemonic = "very release gauge inside ability spoon crystal will melt chest main sea";

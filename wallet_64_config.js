@@ -1,1 +1,1 @@
-var mnemonic = "expire renew man kick cement auto over amused tornado skin change lens";
+var mnemonic = "ordinary sponsor member loud outside chronic maze drink flee elder buyer convince";

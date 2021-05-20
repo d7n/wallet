@@ -1,1 +1,1 @@
-var mnemonic = "wealth chalk believe local predict kite dirt salmon reason apology feed adjust";
+var mnemonic = "tackle hard connect garbage green blossom knock know female demand wire symptom";

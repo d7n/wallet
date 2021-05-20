@@ -1,1 +1,1 @@
-var mnemonic = "appear remove also hawk naive sell image find drill code feel tomorrow";
+var mnemonic = "nation second tide eternal obey winner scan blossom wet list supreme uncover";

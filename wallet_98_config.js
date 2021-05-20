@@ -1,1 +1,1 @@
-var mnemonic = "velvet truly chapter follow castle person bullet nation tail neutral cricket lottery";
+var mnemonic = "milk chef above gauge novel dose sadness assist deny material step rebuild";

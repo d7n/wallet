@@ -1,1 +1,1 @@
-var mnemonic = "pet cancel decline height baby trick rebuild mad fold rug unique bright";
+var mnemonic = "guess pelican good endless remove pistol recipe bone fluid ritual common suffer";

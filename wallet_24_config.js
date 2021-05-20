@@ -1,1 +1,1 @@
-var mnemonic = "cabin acid twin over cup stadium bargain liquid then wish clinic spy";
+var mnemonic = "average tattoo shy turtle urge accident tape save test check gospel west";

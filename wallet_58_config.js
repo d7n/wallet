@@ -1,1 +1,1 @@
-var mnemonic = "onion thing index save family diary segment border ability reward tooth dinosaur";
+var mnemonic = "protect tackle clever donor boy mobile buffalo lumber volcano sail envelope monster";

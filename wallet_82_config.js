@@ -1,1 +1,1 @@
-var mnemonic = "lamp vague parade day brand liquid entry gaze army girl soccer pond";
+var mnemonic = "unlock helmet pear visit jungle grit obey three discover begin outer lizard";

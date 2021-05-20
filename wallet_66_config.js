@@ -1,1 +1,1 @@
-var mnemonic = "twist law toward expose paper mind blade ride speed glad stuff slim";
+var mnemonic = "square canvas open ice write used mutual horse oblige candy easy carbon";

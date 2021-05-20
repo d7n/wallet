@@ -1,1 +1,1 @@
-var mnemonic = "voyage patrol special brain meadow pudding notice bus deer impose flat broccoli";
+var mnemonic = "lend share across truth either frown mind garment eyebrow nominee dance gorilla";

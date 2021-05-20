@@ -1,1 +1,1 @@
-var mnemonic = "clerk basket lawsuit material catalog ugly gate believe olympic category enable soap";
+var mnemonic = "feel clump file oppose believe scare pulp physical above patrol similar fiber";

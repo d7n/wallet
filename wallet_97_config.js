@@ -1,1 +1,1 @@
-var mnemonic = "firm dwarf citizen govern heavy much sock combine cloud impulse insect eternal";
+var mnemonic = "swing clay drift enjoy toe soldier fluid nerve wheel carbon tooth great";

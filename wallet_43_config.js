@@ -1,1 +1,1 @@
-var mnemonic = "acquire approve injury scatter romance news sea little certain caution paddle slow";
+var mnemonic = "exotic coyote butter swear laundry walk drink ice lawn lava cabin again";

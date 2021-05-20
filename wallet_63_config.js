@@ -1,1 +1,1 @@
-var mnemonic = "math term voice appear ask cabin two raccoon debate latin column barely";
+var mnemonic = "employ glow happy quarter fever hurt rival between stereo question faculty legend";

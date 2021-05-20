@@ -1,1 +1,1 @@
-var mnemonic = "skill woman eye absorb matrix upset pool chunk duck voice foam palace";
+var mnemonic = "grunt know argue bachelor add despair alter pig amateur flash chunk avocado";

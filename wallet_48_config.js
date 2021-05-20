@@ -1,1 +1,1 @@
-var mnemonic = "reform reason camera muscle talent oil must float expand opinion army client";
+var mnemonic = "staff gun country swallow deny paddle work guard silly under moral danger";

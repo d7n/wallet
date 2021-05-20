@@ -1,1 +1,1 @@
-var mnemonic = "fork virtual key since coyote stairs play grape family spoon celery attract";
+var mnemonic = "void solid real comic gadget prevent color pretty prison yellow immune favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "faith auction renew true over yellow palm junk great bicycle alcohol rebel";
+var mnemonic = "renew neither right bird glare pen close point canal amazing thought when";

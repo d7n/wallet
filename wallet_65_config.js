@@ -1,1 +1,1 @@
-var mnemonic = "donor comic attack dentist book stadium benefit now category unknown ozone later";
+var mnemonic = "check poem easy nuclear famous subject right dizzy sound critic unique tuition";

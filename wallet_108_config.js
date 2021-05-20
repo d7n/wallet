@@ -1,1 +1,1 @@
-var mnemonic = "empty oppose lamp surround home crane episode struggle width arrest ozone wasp";
+var mnemonic = "trumpet agent galaxy cross blast hurt harvest merge noodle volcano major borrow";

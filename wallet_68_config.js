@@ -1,1 +1,1 @@
-var mnemonic = "best night drive lock bar face banana cat seed inherit diary awesome";
+var mnemonic = "fee census wedding state amused inspire such connect asset vital fiber dad";

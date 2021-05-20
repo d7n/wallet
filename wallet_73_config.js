@@ -1,1 +1,1 @@
-var mnemonic = "salad opera ghost hunt sentence insect pond baby indicate misery retire giant";
+var mnemonic = "gate tent credit dumb reunion master bullet witness mail remove wedding indicate";

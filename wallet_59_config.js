@@ -1,1 +1,1 @@
-var mnemonic = "palace gas autumn sunset divorce firm kick census immense ancient wise monkey";
+var mnemonic = "tower awesome trip kite kidney decade salmon lava rich glove tilt lock";

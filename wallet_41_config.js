@@ -1,1 +1,1 @@
-var mnemonic = "simple hidden aim near tortoise kick empower system unfair combine find creek";
+var mnemonic = "zero parade weather shallow worry solve mix float month eager ship napkin";

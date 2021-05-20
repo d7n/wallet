@@ -1,1 +1,1 @@
-var mnemonic = "drift metal system appear slim dial clip door verify roast system gaze";
+var mnemonic = "network peasant junior soup virus list season tomorrow road legal possible finish";

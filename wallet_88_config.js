@@ -1,1 +1,1 @@
-var mnemonic = "win network other damage name harsh setup job victory violin cabbage thrive";
+var mnemonic = "ignore pulse mixed worth remove leave cook brother brief staff lesson velvet";

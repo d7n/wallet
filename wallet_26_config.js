@@ -1,1 +1,1 @@
-var mnemonic = "spoil project jump thing biology candy volcano old pulp ripple hair era";
+var mnemonic = "pair clever suit stool fly vocal exist captain danger blood front bar";

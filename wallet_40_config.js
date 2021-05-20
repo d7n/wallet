@@ -1,1 +1,1 @@
-var mnemonic = "sun culture sound sure raw extra slot nuclear thing royal demand enter";
+var mnemonic = "divert index equal patch upset bread embrace one flock envelope autumn suit";

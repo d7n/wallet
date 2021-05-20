@@ -1,1 +1,1 @@
-var mnemonic = "quiz kangaroo solution deal october deputy radar bless fuel version erode uphold";
+var mnemonic = "short glue addict grape staff certain know warfare cloud exhibit illegal trigger";

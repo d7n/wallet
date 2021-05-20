@@ -1,1 +1,1 @@
-var mnemonic = "tone wonder tribe auto pottery indicate pole label sea express siren draft";
+var mnemonic = "topple truck elephant cluster town melt inform debris depart inmate festival layer";

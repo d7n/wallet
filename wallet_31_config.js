@@ -1,1 +1,1 @@
-var mnemonic = "sport feed mom chef pottery stone kid announce sadness umbrella they antenna";
+var mnemonic = "mention rebuild clay device assume chase blanket danger siren gorilla clay neglect";

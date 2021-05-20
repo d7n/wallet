@@ -1,1 +1,1 @@
-var mnemonic = "local click embody once prepare reopen text main harbor assume swallow purse";
+var mnemonic = "build easy recycle draw crash allow explain arena romance casino collect motion";

@@ -1,1 +1,1 @@
-var mnemonic = "orient blur blade hawk submit salon purpose tiny steak security rack unlock";
+var mnemonic = "network hidden balcony melody harsh target local small loop system cause bubble";

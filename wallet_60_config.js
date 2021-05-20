@@ -1,1 +1,1 @@
-var mnemonic = "puppy clay sea addict resource deposit genre gossip party cream small suit";
+var mnemonic = "force bread into oval book panther layer ring pull risk easily boat";

@@ -1,1 +1,1 @@
-var mnemonic = "neutral opera noble sphere video share before spray student game shallow sibling";
+var mnemonic = "unable rice ketchup camp normal exit lunar lamp sport sketch blast clever";

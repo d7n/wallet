@@ -1,1 +1,1 @@
-var mnemonic = "used hole lemon neglect path planet response exercise phrase wreck near aspect";
+var mnemonic = "conduct message comic voice father minute news wife hero diet sunset sick";

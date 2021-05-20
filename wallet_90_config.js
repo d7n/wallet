@@ -1,1 +1,1 @@
-var mnemonic = "object cattle fine try stone must pluck welcome fantasy mom shallow worth";
+var mnemonic = "napkin attend century sort voyage sure offer manage velvet rapid speak parade";

@@ -1,1 +1,1 @@
-var mnemonic = "lake merit spawn interest maid spawn punch obtain spice vehicle monster risk";
+var mnemonic = "mention weekend negative person omit again bunker stock solid pause zone collect";
