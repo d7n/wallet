@@ -1,1 +1,1 @@
-var mnemonic = "tray agree air bless rocket shove alien paper virtual start plastic cave";
+var mnemonic = "chunk slogan slice goddess disagree wash poem tumble nation van ribbon nothing";

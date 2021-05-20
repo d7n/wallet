@@ -1,1 +1,1 @@
-var mnemonic = "bid hill nose fat grunt faith grab stay brand chair differ have";
+var mnemonic = "swamp spoon minimum crew city luggage thank page balcony prize predict notice";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon hire order forward adult wedding drink loan toward sunset also fiscal";
+var mnemonic = "endless anger prepare patient hawk finish foil unlock uncover twist differ glory";

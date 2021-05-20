@@ -1,1 +1,1 @@
-var mnemonic = "error jewel sniff enrich width parade doll unique aim stone chase price";
+var mnemonic = "fan eyebrow relief consider aware solid convince turtle crucial conduct shock lava";

@@ -1,1 +1,1 @@
-var mnemonic = "connect enhance day false wrap side stand health upset pole inch rack";
+var mnemonic = "accident wheat donor account base shell custom toss peasant doctor blush industry";

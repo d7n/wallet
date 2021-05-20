@@ -1,1 +1,1 @@
-var mnemonic = "dawn off odor soft page fiber awake where oppose pipe ladder kiss";
+var mnemonic = "patrol choose broom piece struggle ancient target mosquito sentence foil crop virus";

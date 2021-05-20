@@ -1,1 +1,1 @@
-var mnemonic = "nuclear window door opera sand pond piano note estate market coconut also";
+var mnemonic = "junk noble valve crisp donkey erosion guard couple medal mesh rather rocket";

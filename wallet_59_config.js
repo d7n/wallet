@@ -1,1 +1,1 @@
-var mnemonic = "salute hockey soap course whip shed know agree update slim welcome cluster";
+var mnemonic = "fever prepare horror excuse reopen more machine snack perfect game code mixture";

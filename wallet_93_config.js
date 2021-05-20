@@ -1,1 +1,1 @@
-var mnemonic = "kiwi find seven define chuckle ordinary enroll liquid noise flock gap garden";
+var mnemonic = "intact live win hand fever small clog elder genius option powder yellow";

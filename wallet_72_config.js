@@ -1,1 +1,1 @@
-var mnemonic = "ship cream citizen life wisdom lunch hold there better attitude decrease absorb";
+var mnemonic = "champion gravity leisure cricket what enact liar april talent slice spin cluster";

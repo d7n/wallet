@@ -1,1 +1,1 @@
-var mnemonic = "clerk tomato spy code loud december polar once rebuild cabin breeze prosper";
+var mnemonic = "alter vendor twist audit setup owner excite fine fuel tattoo uphold local";

@@ -1,1 +1,1 @@
-var mnemonic = "work chunk tiger ready boss wage voyage cost unfold jealous jazz will";
+var mnemonic = "spread very away frame catalog snake oak pluck term limb digital that";

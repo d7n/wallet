@@ -1,1 +1,1 @@
-var mnemonic = "ancient lazy foot jar notable heavy pull wild firm lend fancy ball";
+var mnemonic = "nut mechanic upset gold giant else fortune fluid zoo unaware hope innocent";

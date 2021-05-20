@@ -1,1 +1,1 @@
-var mnemonic = "tool hole bomb split snack tube hurry art media control patrol lunch";
+var mnemonic = "antenna column tower silly together early empty supply issue warfare trend mom";

@@ -1,1 +1,1 @@
-var mnemonic = "dune travel fancy muffin dizzy balcony notice sustain fiction already royal stock";
+var mnemonic = "point marine gun surround drive vintage dad ship satisfy faith uphold dish";

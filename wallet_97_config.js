@@ -1,1 +1,1 @@
-var mnemonic = "ready sword winner drill popular reward brand ship uniform mule milk naive";
+var mnemonic = "hurry cattle slogan outdoor model more saddle kiss similar oyster brick isolate";

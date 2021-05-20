@@ -1,1 +1,1 @@
-var mnemonic = "arena able dial old chest cricket skate mammal perfect motor mirror come";
+var mnemonic = "used bar screen hill core laundry kitten clip oval fortune cluster sting";

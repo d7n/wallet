@@ -1,1 +1,1 @@
-var mnemonic = "safe service weird fade embrace oblige reject heavy reveal vibrant fix south";
+var mnemonic = "merit hub gospel liar bachelor elite fashion often acquire response ski fuel";

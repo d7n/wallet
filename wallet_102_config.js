@@ -1,1 +1,1 @@
-var mnemonic = "step thought cabbage board shoot scan cancel adjust hold equip demise over";
+var mnemonic = "return tilt ridge coach view neither rotate cement gain talk spatial lawn";

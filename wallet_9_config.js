@@ -1,1 +1,1 @@
-var mnemonic = "thank sun element asset eyebrow universe hint hold axis search move leopard";
+var mnemonic = "nothing raccoon case oblige keep random mom detail goose symptom science wink";

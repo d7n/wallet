@@ -1,1 +1,1 @@
-var mnemonic = "minimum gap convince expire link cradle silk hero canyon wrong devote hotel";
+var mnemonic = "surge balance learn apology mushroom shadow sport lift cluster stand sound dentist";

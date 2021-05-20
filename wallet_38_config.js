@@ -1,1 +1,1 @@
-var mnemonic = "alert almost note oblige success exist leisure miracle pattern parent analyst embark";
+var mnemonic = "evidence night faculty twist agree lucky fitness body gasp primary drink impulse";

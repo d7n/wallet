@@ -1,1 +1,1 @@
-var mnemonic = "network canal country feed warm alter catch day swallow garbage hidden blossom";
+var mnemonic = "evolve town oyster trigger assume jealous direct fame scheme dry traffic rocket";

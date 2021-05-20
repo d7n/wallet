@@ -1,1 +1,1 @@
-var mnemonic = "large slow permit bottom promote devote direct doctor village inner brave jungle";
+var mnemonic = "seat wreck alter milk rent input galaxy lecture raw bird nephew farm";

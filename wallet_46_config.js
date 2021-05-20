@@ -1,1 +1,1 @@
-var mnemonic = "gap lab mean alter caught busy banner vacuum tone brave reveal fossil";
+var mnemonic = "fatal behave retire border seminar stumble slow reward raccoon cram blue fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "talent wine palace now grief whale item december own spike audit raccoon";
+var mnemonic = "shock blossom topple motor despair unlock ensure stay mango clown prevent ancient";

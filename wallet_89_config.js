@@ -1,1 +1,1 @@
-var mnemonic = "floor thunder private enact senior range mail tube two nation satisfy bitter";
+var mnemonic = "news morning gossip rose actress jealous flight tube daring tennis brisk tiger";

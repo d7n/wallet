@@ -1,1 +1,1 @@
-var mnemonic = "flat nerve roast found stay enjoy apology foot dynamic loan avocado giant";
+var mnemonic = "private scout cover slab giggle opera blanket cement vendor casino lottery silent";

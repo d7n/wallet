@@ -1,1 +1,1 @@
-var mnemonic = "ring amount about pride grass detail waste syrup aisle shiver blind surge";
+var mnemonic = "direct engage math palace bar lumber valid stove stand provide liar feature";

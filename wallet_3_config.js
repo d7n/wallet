@@ -1,1 +1,1 @@
-var mnemonic = "tortoise truly street soup drift weather load resist device cruel gym fresh";
+var mnemonic = "extra talent mammal devote lucky pyramid pigeon stomach airport planet ramp wage";

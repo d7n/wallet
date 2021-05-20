@@ -1,1 +1,1 @@
-var mnemonic = "resource unit animal deposit license toast reward hip setup cactus wealth scene";
+var mnemonic = "during mechanic silver gloom term around powder track season merry phone laundry";

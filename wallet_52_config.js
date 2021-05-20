@@ -1,1 +1,1 @@
-var mnemonic = "panther grocery rival spring cool shell trip song bar trash steak solar";
+var mnemonic = "crouch immense insane fish unhappy exit iron distance skirt nice cross sense";

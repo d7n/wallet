@@ -1,1 +1,1 @@
-var mnemonic = "title wisdom volume attack outer fold correct heart velvet danger liberty sausage";
+var mnemonic = "brass circle bind merge discover hammer upon gesture build connect miracle tattoo";

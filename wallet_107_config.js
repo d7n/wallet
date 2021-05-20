@@ -1,1 +1,1 @@
-var mnemonic = "infant host frown dragon rotate illness any hybrid furnace wild pool suit";
+var mnemonic = "slight absurd foot gorilla purpose dignity wheat must achieve label bench online";

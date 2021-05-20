@@ -1,1 +1,1 @@
-var mnemonic = "priority tool merry weasel vacant galaxy piece math farm pencil genuine umbrella";
+var mnemonic = "when clown language jeans nephew awful snack cart yard victory float parrot";

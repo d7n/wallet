@@ -1,1 +1,1 @@
-var mnemonic = "valve token paper swap betray heavy develop walnut stomach learn club assault";
+var mnemonic = "trumpet when expand feed bounce learn host alley room hidden stage joy";

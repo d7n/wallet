@@ -1,1 +1,1 @@
-var mnemonic = "together jealous network plate video brass plastic welcome danger industry broom wall";
+var mnemonic = "change system express unusual better cheese visa daring tuition away renew barely";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm noise oak gown tribe large rescue decade melt gun clog mutual";
+var mnemonic = "steak bright shift paddle motion raccoon nest poem edit key summer cupboard";

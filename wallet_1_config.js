@@ -1,1 +1,1 @@
-var mnemonic = "half enhance burst banner vanish upon tribe birth roast elbow robot supreme";
+var mnemonic = "cupboard enable prepare dragon security guide loyal kangaroo host define joy angle";

@@ -1,1 +1,1 @@
-var mnemonic = "foam field slush supply wash occur thumb cradle hair silver boss moral";
+var mnemonic = "tongue orchard casual blue crazy few resemble sorry visual work nasty ozone";

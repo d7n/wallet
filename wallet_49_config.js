@@ -1,1 +1,1 @@
-var mnemonic = "eight obtain where stamp robust seat saddle supply pause thrive just glance";
+var mnemonic = "verb use solution issue pair puppy blame social zero miss desert burden";

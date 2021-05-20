@@ -1,1 +1,1 @@
-var mnemonic = "exhaust engine knee immense term appear system uniform glimpse skill badge orphan";
+var mnemonic = "endorse bitter moon minimum mystery bench slender force same spirit trick nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "wage drum borrow sketch sun wide confirm process situate cactus tiger prefer";
+var mnemonic = "task dolphin mass crazy tired kangaroo clip snow student bar gap success";

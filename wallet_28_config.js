@@ -1,1 +1,1 @@
-var mnemonic = "target wasp one negative salad whisper vessel capital fortune six body phrase";
+var mnemonic = "ugly senior valve wrist benefit garment carry airport better tortoise wink arrive";

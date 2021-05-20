@@ -1,1 +1,1 @@
-var mnemonic = "prosper permit tennis believe bacon major document tackle grab gossip explain impulse";
+var mnemonic = "mountain gold rather awful shop toddler venture rifle glad repair super now";

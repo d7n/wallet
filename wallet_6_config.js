@@ -1,1 +1,1 @@
-var mnemonic = "icon desert try grass wasp crunch very improve chaos key rose jump";
+var mnemonic = "blind february blade agent paddle nerve right trust response bone prepare bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss urge fox ordinary fringe oven relax usual girl cool door method";
+var mnemonic = "border capable anger immune grace error sell width market festival liquid scissors";

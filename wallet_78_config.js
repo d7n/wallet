@@ -1,1 +1,1 @@
-var mnemonic = "artefact wrestle exist breeze rebel thumb unveil cactus exist keen skirt village";
+var mnemonic = "science noise tank again guilt humble dilemma silent luggage spare tobacco tree";

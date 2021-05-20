@@ -1,1 +1,1 @@
-var mnemonic = "matrix humble member skill crash impose cup remind mind purpose enjoy exhibit";
+var mnemonic = "begin public slight faith upset child moon unable blur flower undo mind";

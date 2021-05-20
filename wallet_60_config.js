@@ -1,1 +1,1 @@
-var mnemonic = "inner undo until hollow mandate hour art tobacco process profit lake path";
+var mnemonic = "oyster view inside churn picnic invite trumpet consider head stairs favorite wait";

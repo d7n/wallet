@@ -1,1 +1,1 @@
-var mnemonic = "save museum remind amateur left crucial trust spice regular thrive auto health";
+var mnemonic = "daring vault give inch school grass duty minor reduce common cupboard city";

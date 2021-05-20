@@ -1,1 +1,1 @@
-var mnemonic = "glow hazard dignity range allow draw people slogan craft whale swear release";
+var mnemonic = "air joy spoil soon relax chase melt dwarf evidence huge cupboard crystal";

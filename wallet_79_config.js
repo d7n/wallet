@@ -1,1 +1,1 @@
-var mnemonic = "spare wise patch gentle excite gain silly tenant rival enforce endorse dice";
+var mnemonic = "child harbor cargo enhance share battle hedgehog traffic october then deal truly";

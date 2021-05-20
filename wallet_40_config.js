@@ -1,1 +1,1 @@
-var mnemonic = "verify world know return holiday lunar risk strong when waste marine truck";
+var mnemonic = "gospel diamond record screen talk stock armor visual hollow frozen bargain model";

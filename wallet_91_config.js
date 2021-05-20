@@ -1,1 +1,1 @@
-var mnemonic = "settle catalog inner ball camera remain dial obscure also strategy onion beyond";
+var mnemonic = "brave sunset stairs chronic snow news broom bring wait enemy drum borrow";

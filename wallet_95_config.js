@@ -1,1 +1,1 @@
-var mnemonic = "agree rib science tuna lottery reveal amused proud apple candy immense exercise";
+var mnemonic = "buzz absurd hockey donate spawn husband state toward wrestle pattern blood chalk";

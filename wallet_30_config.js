@@ -1,1 +1,1 @@
-var mnemonic = "lecture cotton person smile hedgehog iron diamond behind egg tribe forget above";
+var mnemonic = "miss nasty velvet sadness swift measure black little distance child horse clay";

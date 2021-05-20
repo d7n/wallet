@@ -1,1 +1,1 @@
-var mnemonic = "cruise whip rose dad excite fly phone concert crowd hospital dove evolve";
+var mnemonic = "where company situate panic puzzle fatigue have excite grape harvest resist response";

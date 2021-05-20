@@ -1,1 +1,1 @@
-var mnemonic = "monitor caution smooth plunge shield lecture unable wife regular trip pen panel";
+var mnemonic = "cage liberty estate plug scout hurry together sketch damage guess erode blouse";

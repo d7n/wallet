@@ -1,1 +1,1 @@
-var mnemonic = "zoo attitude world holiday round rigid foot edge pass engage vicious spoon";
+var mnemonic = "know blade pudding crowd hint exact fossil speed despair soup pave lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "still civil eye protect mother sting sad radar umbrella lecture eager head";
+var mnemonic = "usual plate imitate soul fox obey traffic since steak odor loyal pledge";

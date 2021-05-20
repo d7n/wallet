@@ -1,1 +1,1 @@
-var mnemonic = "boat mimic exhibit tomato melt chronic pull sail chapter slush retire tone";
+var mnemonic = "stamp chat twenty side elite weather prepare bundle must sentence ice can";

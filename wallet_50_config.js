@@ -1,1 +1,1 @@
-var mnemonic = "divert veteran soup truly toddler drill season speak glow garden repeat round";
+var mnemonic = "liquid basket gaze scout actor muscle wool spirit tonight damage divert destroy";

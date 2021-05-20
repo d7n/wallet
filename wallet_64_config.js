@@ -1,1 +1,1 @@
-var mnemonic = "peace father catalog conduct picture eight food slab swarm pill donate fire";
+var mnemonic = "awful turkey lecture despair valve enable liquid chimney cruel key giraffe steak";

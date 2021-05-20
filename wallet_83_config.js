@@ -1,1 +1,1 @@
-var mnemonic = "today essence horse kid goose core vanish two opera sphere they day";
+var mnemonic = "opera also strategy resemble object amateur alter timber frog uniform buyer kiwi";

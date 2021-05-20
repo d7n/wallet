@@ -1,1 +1,1 @@
-var mnemonic = "syrup before mind brave same swamp spawn wine spin attack range fetch";
+var mnemonic = "myth total squeeze release snow gesture mammal awkward regret lion erupt morning";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic rack panther setup practice giggle organ middle friend prevent spend skirt";
+var mnemonic = "alarm bar day razor fun person buffalo anchor public wet funny private";

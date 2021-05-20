@@ -1,1 +1,1 @@
-var mnemonic = "click spirit mechanic bike delay suffer poverty jelly extend kid normal start";
+var mnemonic = "toilet total share pig sheriff group struggle grace fence screen hub fury";

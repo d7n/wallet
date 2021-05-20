@@ -1,1 +1,1 @@
-var mnemonic = "own three wide art mirror version domain tree just gravity mind transfer";
+var mnemonic = "bunker submit post domain can agree glory myself catch horn mystery quality";

@@ -1,1 +1,1 @@
-var mnemonic = "champion size travel occur dynamic clock plug busy digital unit pluck defense";
+var mnemonic = "card stereo what transfer jelly risk horse tenant vendor rotate remain approve";

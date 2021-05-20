@@ -1,1 +1,1 @@
-var mnemonic = "net coin light defense anchor stumble pride sauce arrange hole risk ostrich";
+var mnemonic = "stable unfold thing spike trend daring ship deputy dial patch marriage tornado";

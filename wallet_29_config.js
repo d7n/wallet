@@ -1,1 +1,1 @@
-var mnemonic = "amused define ensure candy indoor hungry joy primary twice add voice wire";
+var mnemonic = "purpose intact apart alpha oblige any illegal cave script discover grit level";

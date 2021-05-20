@@ -1,1 +1,1 @@
-var mnemonic = "involve flower split proof tongue assist real mail infant quantum proof curious";
+var mnemonic = "supreme siren better include they end once taxi minor slender timber chair";

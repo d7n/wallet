@@ -1,1 +1,1 @@
-var mnemonic = "purse still dinner half pelican piano alien slice antique muffin gate sand";
+var mnemonic = "blur believe mistake excite visual electric mandate inherit dial roof affair earth";

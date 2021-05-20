@@ -1,1 +1,1 @@
-var mnemonic = "foam crucial erode hawk black jaguar climb more swift tell upon detail";
+var mnemonic = "rookie project ahead jazz turn oxygen crazy also blade kiss theory manual";

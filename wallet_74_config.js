@@ -1,1 +1,1 @@
-var mnemonic = "gravity grant rather sword erase relief cheap excite coin fury cereal announce";
+var mnemonic = "rack shed history gravity future dream upset ecology sugar album quarter burden";

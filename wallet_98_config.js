@@ -1,1 +1,1 @@
-var mnemonic = "easy west decorate capital have snack real relax famous hybrid neck bleak";
+var mnemonic = "kitchen angle tiny spoon crack canvas debris useful rack tooth hover private";

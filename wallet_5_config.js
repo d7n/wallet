@@ -1,1 +1,1 @@
-var mnemonic = "rent whale write ignore saddle shaft hurry spray series basic stage lava";
+var mnemonic = "dress miss pelican spider illegal flight flower champion stone sun coconut quarter";

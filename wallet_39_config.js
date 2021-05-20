@@ -1,1 +1,1 @@
-var mnemonic = "laundry quit fat coffee rabbit erosion grant trigger kick love quality month";
+var mnemonic = "scale wheat glad indoor come frequent pumpkin ill gather leave tongue inspire";

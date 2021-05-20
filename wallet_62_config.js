@@ -1,1 +1,1 @@
-var mnemonic = "speed leg tackle car radar acoustic lawn gloom treat income soldier quote";
+var mnemonic = "object wise soap cool angle clean goose carpet foam witness exist group";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage laptop caught vast fruit feed current angry base there omit gravity";
+var mnemonic = "tent valid tuition install manual left cinnamon pond moral velvet atom brass";

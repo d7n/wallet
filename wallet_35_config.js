@@ -1,1 +1,1 @@
-var mnemonic = "spider upper finish pause trust churn payment learn stamp mushroom ice tip";
+var mnemonic = "deer bag amused settle erase volume dawn adapt subject control fall toilet";

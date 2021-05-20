@@ -1,1 +1,1 @@
-var mnemonic = "ship ten heavy canyon merit noodle display pact account athlete capital opinion";
+var mnemonic = "sign absurd true rocket blanket chicken jewel endorse donkey gloom pave inform";

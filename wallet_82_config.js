@@ -1,1 +1,1 @@
-var mnemonic = "into sort fabric sketch left left essay wait arch taste addict amateur";
+var mnemonic = "biology story derive glove sell rent castle ethics heavy wave cherry budget";

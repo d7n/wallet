@@ -1,1 +1,1 @@
-var mnemonic = "cave poem razor tide hand render current unable material daughter because network";
+var mnemonic = "dolphin similar feel note mean arrow mother impact year test shed match";

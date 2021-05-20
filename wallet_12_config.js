@@ -1,1 +1,1 @@
-var mnemonic = "govern begin sphere icon royal deposit corn polar cost position divert shaft";
+var mnemonic = "refuse father curious creek kit student margin adjust glimpse library annual neglect";

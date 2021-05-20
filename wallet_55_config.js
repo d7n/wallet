@@ -1,1 +1,1 @@
-var mnemonic = "correct company scare employ fun fury jazz print symbol figure one blame";
+var mnemonic = "quality letter blade shoot distance clinic dirt cherry bind trick job shadow";

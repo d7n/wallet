@@ -1,1 +1,1 @@
-var mnemonic = "same park poverty emerge ten priority flush sample method merge clever egg";
+var mnemonic = "ankle bean april palm evolve either used media lock address bright hamster";

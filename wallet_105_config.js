@@ -1,1 +1,1 @@
-var mnemonic = "column goat electric visit enroll drill chunk cube east dad front expose";
+var mnemonic = "permit month prosper brush soft fee clap wild verify hair odor bright";

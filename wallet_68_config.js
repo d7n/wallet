@@ -1,1 +1,1 @@
-var mnemonic = "happy sea opinion chief merge blind lamp field three recall apart multiply";
+var mnemonic = "evolve surprise romance depart witness science nasty aware cool exhibit obvious turn";

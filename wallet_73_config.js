@@ -1,1 +1,1 @@
-var mnemonic = "cluster style glad circle purse skill goddess kit sun crater fade find";
+var mnemonic = "often skill citizen arrest hen bomb goose stage network vote inquiry excuse";
