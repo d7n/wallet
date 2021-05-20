@@ -1,1 +1,1 @@
-var mnemonic = "sun slush reflect echo breeze deputy country master wash pride kind tenant";
+var mnemonic = "junior friend gun sister swim meat swift comic square same lunch machine";

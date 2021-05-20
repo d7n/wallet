@@ -1,1 +1,1 @@
-var mnemonic = "apart bacon glide join peasant later kid fold vapor hockey boring slim";
+var mnemonic = "problem tell gift patient escape feed trick cereal acquire odor will hotel";

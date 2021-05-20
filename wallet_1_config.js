@@ -1,1 +1,1 @@
-var mnemonic = "quantum eternal wink kiwi involve stay lend reflect target now crystal matter";
+var mnemonic = "into fruit detect heavy squeeze sand useless evidence forget museum slice crisp";

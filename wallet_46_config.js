@@ -1,1 +1,1 @@
-var mnemonic = "possible minimum critic across artist joke fat favorite order style dragon danger";
+var mnemonic = "brush mix ten chair reform gym slab equal saddle husband jacket discover";

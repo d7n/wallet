@@ -1,1 +1,1 @@
-var mnemonic = "deal push moral embrace next jacket under dinosaur bullet neither session upgrade";
+var mnemonic = "inhale benefit hurdle child goat wild kiss panel talent market drive forward";

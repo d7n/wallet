@@ -1,1 +1,1 @@
-var mnemonic = "nice ladder quit bacon innocent save jazz rural mistake combine razor what";
+var mnemonic = "chimney sad draw crunch picnic green bring axis rice wheat unique source";

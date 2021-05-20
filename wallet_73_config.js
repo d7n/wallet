@@ -1,1 +1,1 @@
-var mnemonic = "vicious figure tank capable fantasy process home odor pledge praise sheriff notable";
+var mnemonic = "venture bonus opera thing fruit actor impose turn very hurry increase put";

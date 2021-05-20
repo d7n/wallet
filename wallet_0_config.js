@@ -1,1 +1,1 @@
-var mnemonic = "cancel fold junk limb stay pyramid round dose icon pencil permit witness";
+var mnemonic = "leaf unhappy believe embrace together movie wreck weapon survey fantasy please dawn";

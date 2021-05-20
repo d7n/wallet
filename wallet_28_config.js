@@ -1,1 +1,1 @@
-var mnemonic = "person beef come erode cinnamon today airport frown gentle another prosper purchase";
+var mnemonic = "slide link business sing visual then tumble onion almost situate setup embrace";

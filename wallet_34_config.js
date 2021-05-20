@@ -1,1 +1,1 @@
-var mnemonic = "slide vehicle maximum mushroom canoe alpha side only impulse turn wool glow";
+var mnemonic = "venture velvet token mom sniff toy cube whip crystal bike govern volume";

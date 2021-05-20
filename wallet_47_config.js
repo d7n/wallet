@@ -1,1 +1,1 @@
-var mnemonic = "upper suit swear loop sadness sausage pistol away cancel royal dice abuse";
+var mnemonic = "pumpkin spring laptop acoustic teach salad heart mask destroy like pair derive";

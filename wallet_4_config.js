@@ -1,1 +1,1 @@
-var mnemonic = "transfer bleak apart pizza can convince betray athlete abandon hamster tattoo dragon";
+var mnemonic = "nature milk health boat genius skate sound robot increase extra hungry include";

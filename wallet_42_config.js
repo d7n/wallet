@@ -1,1 +1,1 @@
-var mnemonic = "shell album deliver air rapid color plastic ocean solid repair rebuild truly";
+var mnemonic = "plate select loop couch gain huge consider cliff doll skin garden consider";

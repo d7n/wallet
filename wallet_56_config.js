@@ -1,1 +1,1 @@
-var mnemonic = "regret guard correct local online fatigue blur twin text chef phone security";
+var mnemonic = "organ virtual luxury foot stone they embrace come tank enter shuffle toast";

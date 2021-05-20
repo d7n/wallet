@@ -1,1 +1,1 @@
-var mnemonic = "jacket screen opera minor athlete dry web click trap lyrics enter culture";
+var mnemonic = "animal replace regret rib trophy speak extra worry arrive rubber goddess caught";

@@ -1,1 +1,1 @@
-var mnemonic = "future chunk person basket present parent only height north grass people frost";
+var mnemonic = "know program wear winter latin combine gesture smile planet laugh moment junk";

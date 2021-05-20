@@ -1,1 +1,1 @@
-var mnemonic = "where toilet delay shove popular myth advance drama spoon blade suit kind";
+var mnemonic = "vital move scene canyon canoe indicate enrich path rural crash crew suggest";

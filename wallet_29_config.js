@@ -1,1 +1,1 @@
-var mnemonic = "hair rib ability someone combine hair column tooth canyon mushroom step law";
+var mnemonic = "grit replace hungry custom bounce electric all gift opera clog city chase";

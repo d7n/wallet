@@ -1,1 +1,1 @@
-var mnemonic = "visa neck venue blanket paper supply also owner load left luxury plastic";
+var mnemonic = "tired common empower remove drop ceiling action power relief unit apart fish";

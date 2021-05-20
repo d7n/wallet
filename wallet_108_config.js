@@ -1,1 +1,1 @@
-var mnemonic = "refuse accuse flash document elevator depend culture foot culture logic solve flame";
+var mnemonic = "length elegant pig jazz convince cart impose shift quick among grocery bind";

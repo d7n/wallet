@@ -1,1 +1,1 @@
-var mnemonic = "surge erode profit laptop subject flavor web sample robust oval slot atom";
+var mnemonic = "differ fancy tooth effort book bacon auction cram achieve wrist sock brave";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor know bone shock apart stay depth release romance choice east goose";
+var mnemonic = "first paddle debate boil spoil ripple ill section apple digital summer stable";

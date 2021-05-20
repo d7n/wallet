@@ -1,1 +1,1 @@
-var mnemonic = "sustain logic ramp practice divide before proof marble better brown episode borrow";
+var mnemonic = "wrist front until mirror proof north position receive coil pistol maple fix";

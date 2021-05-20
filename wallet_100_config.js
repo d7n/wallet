@@ -1,1 +1,1 @@
-var mnemonic = "same volume always october bridge ritual poverty ripple deer hospital shallow bulk";
+var mnemonic = "material sand nephew decade cube squeeze review ridge concert abstract salad wrist";

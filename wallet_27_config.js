@@ -1,1 +1,1 @@
-var mnemonic = "twice since much island ribbon caught sun brown large only drama crystal";
+var mnemonic = "chronic sing flag race deny horse soft addict oil dentist shell eternal";

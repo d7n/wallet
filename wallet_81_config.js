@@ -1,1 +1,1 @@
-var mnemonic = "circle whisper achieve six barrel better injury produce cabin primary siren proud";
+var mnemonic = "head chat sponsor asset sense tide where next attack color bamboo purpose";

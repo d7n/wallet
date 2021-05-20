@@ -1,1 +1,1 @@
-var mnemonic = "envelope parrot mean hurdle excite mansion liquid profit decorate abstract boost coconut";
+var mnemonic = "mercy spring anger medal session awful dog pattern dynamic follow business used";

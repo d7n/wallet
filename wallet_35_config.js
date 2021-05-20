@@ -1,1 +1,1 @@
-var mnemonic = "salon wrist trick pet weasel scrub horror fiction boss dinosaur guide impact";
+var mnemonic = "negative this december waste patch census chalk flame over open exhibit observe";

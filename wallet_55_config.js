@@ -1,1 +1,1 @@
-var mnemonic = "salt trim mandate route rain degree aerobic mercy debate someone oval govern";
+var mnemonic = "explain chief best scrub puzzle replace liquid grief security flame left before";

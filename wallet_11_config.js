@@ -1,1 +1,1 @@
-var mnemonic = "episode father summer bitter blanket suffer cram supreme typical volcano nothing lamp";
+var mnemonic = "sugar between forest angle globe word sea idea put loop element artwork";

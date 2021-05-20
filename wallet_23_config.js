@@ -1,1 +1,1 @@
-var mnemonic = "grow gravity fence lunar brief bacon cricket leader act absurd effort course";
+var mnemonic = "oppose avocado civil hazard dutch normal crawl panel senior anxiety spare skull";

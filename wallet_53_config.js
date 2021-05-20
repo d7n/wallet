@@ -1,1 +1,1 @@
-var mnemonic = "lemon canyon over tank inside gold bubble cabbage hour dune floor phone";
+var mnemonic = "scene enable hub picnic expire scheme legal middle broom daring edge undo";

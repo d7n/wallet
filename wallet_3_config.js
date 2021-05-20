@@ -1,1 +1,1 @@
-var mnemonic = "elegant food mask knock stay forward phrase tongue life inquiry math kite";
+var mnemonic = "identify vehicle lonely venture unveil cloth access side stool habit like whip";

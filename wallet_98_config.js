@@ -1,1 +1,1 @@
-var mnemonic = "prepare tilt rely family situate exit promote wheel vehicle shed lottery special";
+var mnemonic = "advance hold two service pelican convince goddess swing gas warfare hybrid rapid";

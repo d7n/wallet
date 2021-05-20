@@ -1,1 +1,1 @@
-var mnemonic = "patrol struggle cream betray famous unique retreat lucky tooth stick decorate salmon";
+var mnemonic = "owner noise common thank whale slam adapt limb soon broccoli sign injury";

@@ -1,1 +1,1 @@
-var mnemonic = "coil follow light silver radar cheese patch snap glass seven prosper pupil";
+var mnemonic = "inmate nest found trick maple purse inject topple seat street donor move";

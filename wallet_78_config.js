@@ -1,1 +1,1 @@
-var mnemonic = "adjust corn heart future similar fatigue group twice city wink film steak";
+var mnemonic = "chat sort winter educate tumble cost someone tuition solve match sponsor unfair";

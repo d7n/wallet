@@ -1,1 +1,1 @@
-var mnemonic = "depart scene burger essay edit patient update zero present regret rotate nest";
+var mnemonic = "mouse town raccoon shell note royal pelican milk trial faith region blush";

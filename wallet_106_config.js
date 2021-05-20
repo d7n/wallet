@@ -1,1 +1,1 @@
-var mnemonic = "napkin anchor fix rigid rude peace input pelican guide sail oil novel";
+var mnemonic = "cream punch potato lion bag rookie parrot three thank obtain hedgehog end";

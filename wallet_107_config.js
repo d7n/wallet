@@ -1,1 +1,1 @@
-var mnemonic = "nominee toddler nothing exact lucky bone invite trade hero thrive match mean";
+var mnemonic = "chief nut equal type cluster provide provide useless lazy giggle royal rhythm";

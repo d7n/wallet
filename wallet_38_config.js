@@ -1,1 +1,1 @@
-var mnemonic = "cactus build bulb lucky domain license sock example voice pause thought three";
+var mnemonic = "update frown entire horn grass involve female balcony panda ethics weapon fine";

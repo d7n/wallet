@@ -1,1 +1,1 @@
-var mnemonic = "permit crucial convince oblige drill giggle clutch gas home cattle inject insect";
+var mnemonic = "trumpet prepare since slim armor clown shrimp fall grape embark short bid";

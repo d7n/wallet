@@ -1,1 +1,1 @@
-var mnemonic = "shallow eager hurdle group grid symbol guitar advice ski horror october hazard";
+var mnemonic = "prison angry vicious giraffe say ship prison earth total vault wise casino";

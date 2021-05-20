@@ -1,1 +1,1 @@
-var mnemonic = "eight palm hobby primary case sadness planet short source couple delay major";
+var mnemonic = "weird gossip surge nuclear pause ozone ball business favorite found rigid negative";

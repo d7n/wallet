@@ -1,1 +1,1 @@
-var mnemonic = "april detect champion cage mandate second slide cinnamon husband dose unknown aunt";
+var mnemonic = "wine spell point shaft robot century duck dove kiwi seven evoke slush";

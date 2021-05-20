@@ -1,1 +1,1 @@
-var mnemonic = "cactus alone helmet candy will half ski sense mercy enhance bomb canvas";
+var mnemonic = "list cruise real tennis resemble they task erase assist help seat hire";

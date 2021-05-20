@@ -1,1 +1,1 @@
-var mnemonic = "rally crunch tortoise until awesome only verb toilet brain deal curve cloud";
+var mnemonic = "embrace mammal embark assist review beach soon symbol wreck split menu lady";

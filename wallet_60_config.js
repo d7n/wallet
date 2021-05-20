@@ -1,1 +1,1 @@
-var mnemonic = "clump mixture number return castle shift bright village height smart label another";
+var mnemonic = "fog ill junk space toss degree banner one pyramid absorb resist notable";

@@ -1,1 +1,1 @@
-var mnemonic = "label bright lock assume sand mean reopen option grab dream usual reform";
+var mnemonic = "say enroll inquiry this ketchup chronic lottery churn pride together nerve battle";

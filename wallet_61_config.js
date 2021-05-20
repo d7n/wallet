@@ -1,1 +1,1 @@
-var mnemonic = "weapon story area huge evoke winner sausage sample save lend ghost curious";
+var mnemonic = "episode flower science certain tired outdoor diamond van cube knock pulp trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty butter network electric wagon turtle tiny green other admit cross lock";
+var mnemonic = "swing allow lady toward suffer shrimp network weekend husband three divert toward";

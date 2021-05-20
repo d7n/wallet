@@ -1,1 +1,1 @@
-var mnemonic = "tool brave ability rival bargain three beef bundle energy anchor expect venture";
+var mnemonic = "burger gaze dog army worth pride business document shift size interest path";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon fiction chuckle quarter secret doll slot exercise brain taste okay history";
+var mnemonic = "useful trick vault verify pupil quick butter cotton injury bar purse monitor";

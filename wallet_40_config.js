@@ -1,1 +1,1 @@
-var mnemonic = "obey health maple produce focus ignore gasp corn they ritual egg alien";
+var mnemonic = "bind wagon sunset table bullet artist short illegal disagree gloom ocean entry";

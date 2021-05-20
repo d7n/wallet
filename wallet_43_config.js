@@ -1,1 +1,1 @@
-var mnemonic = "post elbow olympic name steak remind foam slim crane plunge emotion valid";
+var mnemonic = "mixture result crew install volume patch cruel pattern soul online volcano dust";

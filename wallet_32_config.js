@@ -1,1 +1,1 @@
-var mnemonic = "comic tent unable theory exile proof deal journey minimum surge amount feed";
+var mnemonic = "squeeze cram genuine wagon female prize ecology upper element green consider rule";

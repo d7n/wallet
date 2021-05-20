@@ -1,1 +1,1 @@
-var mnemonic = "orient bag claw leg rifle depart mobile resource dentist protect person refuse";
+var mnemonic = "sugar over abandon radio village machine phone gloom syrup parrot garment act";

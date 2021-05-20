@@ -1,1 +1,1 @@
-var mnemonic = "clown ski call purse young culture velvet estate aim sting rubber spend";
+var mnemonic = "wolf hurry expire elder traffic museum motor way frost one width neither";

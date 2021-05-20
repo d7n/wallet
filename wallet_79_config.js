@@ -1,1 +1,1 @@
-var mnemonic = "victory idle client want there nerve swarm snake expand giraffe old pool";
+var mnemonic = "tail arrange gown thrive copper rubber bring boy exit pass live coast";

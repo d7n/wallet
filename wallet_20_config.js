@@ -1,1 +1,1 @@
-var mnemonic = "basket desert merge nest silver manage siren comic moment parent case useless";
+var mnemonic = "review rotate arrange mountain duty possible whisper vessel busy monkey wide festival";

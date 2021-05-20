@@ -1,1 +1,1 @@
-var mnemonic = "panda admit clinic sadness apart mystery bind nuclear solid place evolve wedding";
+var mnemonic = "eagle replace staff eye excuse possible segment rabbit lazy vehicle stumble clever";

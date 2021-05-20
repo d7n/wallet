@@ -1,1 +1,1 @@
-var mnemonic = "bracket pill ankle voyage wild betray rebel trial weasel reason rotate old";
+var mnemonic = "tray load brown critic measure harvest occur problem torch soap game apology";

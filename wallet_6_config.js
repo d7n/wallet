@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit crack weather crunch infant monitor sing movie already taxi detect oyster";
+var mnemonic = "equal patch love once symptom mad capable uphold label clerk ball panda";

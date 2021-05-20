@@ -1,1 +1,1 @@
-var mnemonic = "tool tomato tourist ankle feel bright reopen enact people afraid dirt appear";
+var mnemonic = "eight modify depart turn disagree feel citizen sausage second job enemy bone";

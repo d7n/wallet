@@ -1,1 +1,1 @@
-var mnemonic = "farm oven ceiling coil topple list wage process then frog pony kingdom";
+var mnemonic = "tray banana bulb tape honey ice place blouse carpet romance security harvest";

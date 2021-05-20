@@ -1,1 +1,1 @@
-var mnemonic = "orphan zoo stem local shaft ozone bird sponsor trash delay kiss spice";
+var mnemonic = "clown panic input service okay embark black pool element ripple night flame";

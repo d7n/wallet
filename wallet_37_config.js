@@ -1,1 +1,1 @@
-var mnemonic = "toe uniform gasp panda voice purpose side enforce rifle spirit screen motion";
+var mnemonic = "lumber afraid zone focus brown gadget cradle letter asthma laundry short conduct";

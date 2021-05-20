@@ -1,1 +1,1 @@
-var mnemonic = "lawn insect kangaroo balcony flight permit vibrant head math october question antique";
+var mnemonic = "cradle average dial still govern bring friend bar surround person trigger nurse";

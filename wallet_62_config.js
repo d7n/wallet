@@ -1,1 +1,1 @@
-var mnemonic = "fade depart cupboard skirt arm arrow link melt color hundred kitchen empower";
+var mnemonic = "judge awful veteran rescue couple mistake food helmet enough expect lamp monkey";

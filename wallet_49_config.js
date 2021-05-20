@@ -1,1 +1,1 @@
-var mnemonic = "wrestle end daughter depend steak swim elegant enforce deliver theory chalk bulk";
+var mnemonic = "hidden once control coconut gravity sweet kitten stable half idle main oxygen";

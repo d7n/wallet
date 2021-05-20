@@ -1,1 +1,1 @@
-var mnemonic = "uniform east arm become lunch abandon story symptom spoil harvest tuna impose";
+var mnemonic = "effort lottery smart wool plunge shed follow shock wish grace unlock piano";

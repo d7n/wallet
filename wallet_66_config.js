@@ -1,1 +1,1 @@
-var mnemonic = "reflect seat window boring hospital rocket celery dinosaur hair ethics home burger";
+var mnemonic = "series wolf ahead program tattoo style oval near stuff pledge notice play";

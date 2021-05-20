@@ -1,1 +1,1 @@
-var mnemonic = "hole manage load select issue reject merge boil canyon acoustic husband abstract";
+var mnemonic = "portion sea fame unfair defy argue raise soldier february actual large normal";

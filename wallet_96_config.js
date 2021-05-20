@@ -1,1 +1,1 @@
-var mnemonic = "arena alcohol hand display dance venture spoil seed dismiss pottery mom page";
+var mnemonic = "clog wrap cream fly load mixture luxury picnic fiber mango inner symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "subway pole adult audit purchase exercise brother weekend portion ridge item dentist";
+var mnemonic = "talk target emerge upgrade wild nephew inspire mutual when canal fortune vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "quote romance legend slab merit divorce plunge mango verb position aisle light";
+var mnemonic = "left cloth radar clip blush business future extra zebra swamp orient swear";

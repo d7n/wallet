@@ -1,1 +1,1 @@
-var mnemonic = "glare civil strike crater kidney angle myself job unit salute regret onion";
+var mnemonic = "panic recycle corn leave amateur version powder vehicle connect cannon upon mobile";

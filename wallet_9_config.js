@@ -1,1 +1,1 @@
-var mnemonic = "festival canoe rely method accuse tree any clog quantum either start damage";
+var mnemonic = "seek rural coral ahead fold deliver riot consider jaguar section father strategy";

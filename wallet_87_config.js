@@ -1,1 +1,1 @@
-var mnemonic = "hood smile license amazing absorb brother boss pact patient worth twice type";
+var mnemonic = "tide surprise runway exchange song mad run jeans weird sugar melody clay";

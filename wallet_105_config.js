@@ -1,1 +1,1 @@
-var mnemonic = "desk soda depth danger floor trim utility apart change scheme coffee carry";
+var mnemonic = "music music clinic wear knock major adult digital hurry stereo radar champion";

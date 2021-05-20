@@ -1,1 +1,1 @@
-var mnemonic = "rifle train space wet brass glow climb excite visa twelve divide pony";
+var mnemonic = "mango shift marble reopen cave deal mammal camp clap pen youth ready";

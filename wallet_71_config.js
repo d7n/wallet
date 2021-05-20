@@ -1,1 +1,1 @@
-var mnemonic = "sadness keep short august tube potato lamp math rebel guard pistol hawk";
+var mnemonic = "risk argue gas absent capital text sudden despair armor win warrior expose";

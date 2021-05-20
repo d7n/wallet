@@ -1,1 +1,1 @@
-var mnemonic = "rotate life trim already crane sound potato tip laptop random shell venture";
+var mnemonic = "bread grief another scatter paper funny actress vague kick make assist champion";

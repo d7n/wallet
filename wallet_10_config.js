@@ -1,1 +1,1 @@
-var mnemonic = "busy fan afraid table siege sister item interest raise ship spin whip";
+var mnemonic = "hole vast satisfy cup this job coyote shock trim agent tomato conduct";

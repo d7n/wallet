@@ -1,1 +1,1 @@
-var mnemonic = "guide history hood tree old imitate boost bulk trap future cover hamster";
+var mnemonic = "excess luxury rural furnace acquire street creek loud night satisfy worry couch";

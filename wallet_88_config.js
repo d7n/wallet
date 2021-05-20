@@ -1,1 +1,1 @@
-var mnemonic = "taste tourist february ecology cake banana cinnamon grain lyrics roast quality major";
+var mnemonic = "okay day avocado enrich rather into arch retreat success castle eyebrow cricket";

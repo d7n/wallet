@@ -1,1 +1,1 @@
-var mnemonic = "impulse scatter horror crowd art visa predict stumble flock peace mosquito weapon";
+var mnemonic = "skirt pepper artist flip witness poet puzzle flight clown error kidney journey";

@@ -1,1 +1,1 @@
-var mnemonic = "skull diary better mirror able welcome suit pencil hunt can boring burger";
+var mnemonic = "extend gospel tray human occur ethics gentle finger learn diet exact image";

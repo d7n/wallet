@@ -1,1 +1,1 @@
-var mnemonic = "deliver maximum churn antique inspire glimpse impulse deer marble leaf garment already";
+var mnemonic = "brave hazard cat resist model cycle crawl casino cloth juice rigid capital";
