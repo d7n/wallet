@@ -1,1 +1,1 @@
-var mnemonic = "you drift mail knee surface photo coconut cliff blade fossil mansion roof";
+var mnemonic = "bulb trouble goat silk perfect hub border pony entire skirt misery fall";

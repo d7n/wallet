@@ -1,1 +1,1 @@
-var mnemonic = "vocal fresh rigid rain link urban duty drink frost cattle number hungry";
+var mnemonic = "curious famous west kind brave floor renew wool curious patient lucky print";

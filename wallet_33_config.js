@@ -1,1 +1,1 @@
-var mnemonic = "plug present portion twin believe fish half mango inside exhibit cabbage permit";
+var mnemonic = "captain panic step grant like muscle black smoke timber feed roof large";

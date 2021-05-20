@@ -1,1 +1,1 @@
-var mnemonic = "turkey green praise rifle merry today deny protect machine call delay surge";
+var mnemonic = "forest earn pact thunder celery young limit point proud menu kick keep";

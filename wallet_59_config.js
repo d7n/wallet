@@ -1,1 +1,1 @@
-var mnemonic = "essay shield virus below view renew fog hollow weekend view thunder term";
+var mnemonic = "blouse sting find sauce law obey february stock grant ability tag laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "essay soft dragon donkey ladder man sock aspect winter yellow leave cat";
+var mnemonic = "gap exhaust frog embark topple inmate kid trash believe pizza flush gauge";

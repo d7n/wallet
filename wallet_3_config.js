@@ -1,1 +1,1 @@
-var mnemonic = "assume author payment short also often logic swift minute silver ship genre";
+var mnemonic = "blame void normal vital march marine asthma seed govern treat educate initial";

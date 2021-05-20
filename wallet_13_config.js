@@ -1,1 +1,1 @@
-var mnemonic = "snow outside gift basket grit hedgehog idea solar inject roast shuffle quiz";
+var mnemonic = "float grace venue rotate walk steak survey rebuild blanket sponsor later true";

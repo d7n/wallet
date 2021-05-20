@@ -1,1 +1,1 @@
-var mnemonic = "observe immune tennis lazy sport bleak spread fatal will nice scrub tumble";
+var mnemonic = "oyster axis deposit index palm demise predict tail lyrics mail trend lottery";

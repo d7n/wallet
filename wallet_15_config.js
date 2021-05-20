@@ -1,1 +1,1 @@
-var mnemonic = "unfold soldier kidney will exist setup bid impose oblige knife write find";
+var mnemonic = "jeans spike lift balcony certain tool cinnamon horn dice host wink insect";

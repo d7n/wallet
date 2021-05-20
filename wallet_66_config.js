@@ -1,1 +1,1 @@
-var mnemonic = "ritual attend text book motor shop blur detail race panther arrest scan";
+var mnemonic = "lens unfold hurry into first detail used miracle route fabric panther dirt";

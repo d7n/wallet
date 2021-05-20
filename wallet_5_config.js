@@ -1,1 +1,1 @@
-var mnemonic = "lock file point salute argue crack mule they midnight tomato unit window";
+var mnemonic = "famous fantasy aim narrow width diagram cherry limit hotel equip code know";

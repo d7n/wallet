@@ -1,1 +1,1 @@
-var mnemonic = "predict actor impulse glue beauty cupboard pet baby zebra friend tenant dawn";
+var mnemonic = "pave budget wisdom element pact honey pilot image surge dentist film fitness";

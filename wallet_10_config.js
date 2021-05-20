@@ -1,1 +1,1 @@
-var mnemonic = "cart boil kit pyramid dry lunar transfer soda peanut craft owner rebuild";
+var mnemonic = "flock draw kind recall invite old brief limb boring cry wash wide";

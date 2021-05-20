@@ -1,1 +1,1 @@
-var mnemonic = "dad filter spin eagle goat fine emotion steel regret wood slogan iron";
+var mnemonic = "canoe hen innocent index person grunt level box model edit slab flash";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort quarter real tide fire repeat spin author cushion urge anxiety cave";
+var mnemonic = "flag myth iron unit scale purse hazard deposit opinion brain gesture ranch";

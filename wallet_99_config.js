@@ -1,1 +1,1 @@
-var mnemonic = "already gorilla area hurdle vote item curve promote fault lion easily mind";
+var mnemonic = "south program cupboard mandate long fall hidden key total wreck luggage salt";

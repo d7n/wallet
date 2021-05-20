@@ -1,1 +1,1 @@
-var mnemonic = "tenant expect drink liquid science acquire host submit normal tomorrow type donor";
+var mnemonic = "nasty vital pony knee paper disorder note mother cattle cruel mass lens";

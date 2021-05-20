@@ -1,1 +1,1 @@
-var mnemonic = "fashion scorpion scrub hawk great receive permit ribbon hospital vivid title marble";
+var mnemonic = "annual spawn army ribbon cart cage brand between force volume lawn grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "shed matter velvet ceiling mirror grab prefer round jazz key minor survey";
+var mnemonic = "today essay share circle erosion steak kitchen manage erupt soft skin advance";

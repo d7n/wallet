@@ -1,1 +1,1 @@
-var mnemonic = "curtain core cube dolphin frost season tragic people rely bitter purpose planet";
+var mnemonic = "long october void bird romance fox unit mushroom slush december find dismiss";

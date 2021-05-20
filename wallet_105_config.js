@@ -1,1 +1,1 @@
-var mnemonic = "forum govern client unit horror jeans color coral math critic toast between";
+var mnemonic = "spirit crystal supply window buyer verb stay uncover absent solve modify cereal";

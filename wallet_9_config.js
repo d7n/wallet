@@ -1,1 +1,1 @@
-var mnemonic = "issue lab pair mind pledge front sibling color faith spike enact damage";
+var mnemonic = "lock off tiny monster funny armed trim pear basket atom unhappy audit";

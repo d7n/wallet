@@ -1,1 +1,1 @@
-var mnemonic = "denial quarter express card oak diet elephant inject couch inform drink hunt";
+var mnemonic = "credit force reward garment vacant surge retreat forward garbage gorilla coffee ceiling";

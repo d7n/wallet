@@ -1,1 +1,1 @@
-var mnemonic = "come rule patrol online dynamic indoor need first wedding person suffer essay";
+var mnemonic = "come dragon broom armed boil crumble camera vault craft quiz tell develop";

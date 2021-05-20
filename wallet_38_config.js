@@ -1,1 +1,1 @@
-var mnemonic = "dutch liquid pen must number blue bean immune apple dial color federal";
+var mnemonic = "pattern spy flee whip brand pull avoid marble raven gap blade creek";

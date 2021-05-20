@@ -1,1 +1,1 @@
-var mnemonic = "peace shock dumb enjoy pet goddess donor country float diet plug category";
+var mnemonic = "orchard fiscal puppy pave junk catch napkin couple twin drill erupt glove";

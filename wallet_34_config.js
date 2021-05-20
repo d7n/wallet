@@ -1,1 +1,1 @@
-var mnemonic = "deny top top black play village immune hill sword merge obscure coral";
+var mnemonic = "buddy raccoon menu wisdom parrot peanut when width glad express quick bitter";

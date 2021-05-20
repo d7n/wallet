@@ -1,1 +1,1 @@
-var mnemonic = "depart lawsuit result sell warrior auction congress fortune pretty innocent place ceiling";
+var mnemonic = "buyer armed avocado catch long sponsor pumpkin pudding plug naive scale alert";

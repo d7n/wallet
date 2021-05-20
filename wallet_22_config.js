@@ -1,1 +1,1 @@
-var mnemonic = "bleak cereal any object enhance coin home note able assault tomato brief";
+var mnemonic = "garbage divorce minor million address attract wage shift shoe fiber salt keep";

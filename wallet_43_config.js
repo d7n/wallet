@@ -1,1 +1,1 @@
-var mnemonic = "stock bounce home floor anxiety wise marble airport poem nose video artist";
+var mnemonic = "enjoy pipe person treat duck taxi phrase music ozone corn huge glance";

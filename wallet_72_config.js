@@ -1,1 +1,1 @@
-var mnemonic = "rebel doll security civil labor slogan object slab thought magnet any gown";
+var mnemonic = "destroy sniff orange maple already bleak brain success frost flat prepare term";

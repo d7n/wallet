@@ -1,1 +1,1 @@
-var mnemonic = "appear fire prepare lumber front funny soldier flip then leave furnace bracket";
+var mnemonic = "tobacco axis fringe quick disorder tree carry indicate race account note picture";

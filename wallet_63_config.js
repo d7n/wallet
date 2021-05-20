@@ -1,1 +1,1 @@
-var mnemonic = "kiwi hole sand title system weekend bronze erupt certain coach dose celery";
+var mnemonic = "trophy oval banana swallow glue sense rough obtain kitten about this knife";

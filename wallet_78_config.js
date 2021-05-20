@@ -1,1 +1,1 @@
-var mnemonic = "timber drop when save express dice illness donor radio meat exit seminar";
+var mnemonic = "garden manage allow silver bag faith toddler opera regret orchard youth cover";

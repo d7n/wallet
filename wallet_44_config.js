@@ -1,1 +1,1 @@
-var mnemonic = "sell emerge near barely butter language north tray surface economy paddle fiction";
+var mnemonic = "narrow flower guess render net toss aerobic swap inmate cat once manual";

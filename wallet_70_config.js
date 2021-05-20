@@ -1,1 +1,1 @@
-var mnemonic = "trade walk extend animal useful leg toast kidney subject swift climb dose";
+var mnemonic = "wood gain exercise fatigue party climb chimney quality capital toddler hunt adult";

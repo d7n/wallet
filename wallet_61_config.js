@@ -1,1 +1,1 @@
-var mnemonic = "caught caught galaxy knife wrestle gloom foam this dog pelican hood close";
+var mnemonic = "mobile nuclear shrimp fiscal disorder chaos cinnamon fresh better traffic world execute";

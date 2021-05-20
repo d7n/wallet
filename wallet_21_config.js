@@ -1,1 +1,1 @@
-var mnemonic = "lens spirit stone endless cricket army quote text dash flip choose indoor";
+var mnemonic = "mesh topic people ridge skin monkey castle snake cash crisp cricket near";

@@ -1,1 +1,1 @@
-var mnemonic = "error midnight frequent awesome jar stock toilet meat vessel vacuum off base";
+var mnemonic = "jaguar gift leg profit file senior naive acquire april forward sail orbit";

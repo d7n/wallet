@@ -1,1 +1,1 @@
-var mnemonic = "island virtual trim remain icon still sponsor broccoli relief volcano nerve jelly";
+var mnemonic = "salute casual tenant beef radar world sad blue bag bracket sauce prison";

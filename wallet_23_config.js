@@ -1,1 +1,1 @@
-var mnemonic = "carbon water cradle napkin release problem sphere antique vocal maze found burst";
+var mnemonic = "quiz cloud endorse century remain borrow rebuild antenna there latin turn diet";

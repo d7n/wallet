@@ -1,1 +1,1 @@
-var mnemonic = "sound lyrics actress garment benefit cross country gaze delay female hobby avocado";
+var mnemonic = "window loud one crazy same pizza mind chair glare yard drop human";

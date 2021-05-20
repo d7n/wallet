@@ -1,1 +1,1 @@
-var mnemonic = "spatial vehicle double battle repeat mention cream need rally ability keep final";
+var mnemonic = "destroy east fringe subway light pause another exile junk basic lab junior";

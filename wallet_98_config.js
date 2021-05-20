@@ -1,1 +1,1 @@
-var mnemonic = "range real person weapon final review vibrant bullet estate trick fruit click";
+var mnemonic = "sorry off theme whip catalog uphold problem dial bomb liberty supreme trip";

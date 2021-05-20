@@ -1,1 +1,1 @@
-var mnemonic = "someone section detail hybrid light yard harvest thunder welcome wire token gallery";
+var mnemonic = "village sample another age receive diagram display arrow armed way weekend assault";

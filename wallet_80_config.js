@@ -1,1 +1,1 @@
-var mnemonic = "child vapor nice wheel put decorate place jelly husband giant build law";
+var mnemonic = "cigar solar nut nice test person sock song object habit ostrich cement";

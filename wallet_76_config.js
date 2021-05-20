@@ -1,1 +1,1 @@
-var mnemonic = "differ harbor accuse debate gravity where umbrella comfort nose shine throw armor";
+var mnemonic = "around copper child airport impose congress excuse sugar best awkward ring sample";

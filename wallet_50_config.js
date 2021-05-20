@@ -1,1 +1,1 @@
-var mnemonic = "fold observe museum worry across foil pitch fade post tragic gentle execute";
+var mnemonic = "desk finish giant safe enough review recall kind service fox pen image";

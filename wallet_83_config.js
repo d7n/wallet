@@ -1,1 +1,1 @@
-var mnemonic = "dial thunder retire assist speed dust clerk mansion purchase nurse explain kind";
+var mnemonic = "tail health shallow debris culture please retreat embark garden simple social throw";

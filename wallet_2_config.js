@@ -1,1 +1,1 @@
-var mnemonic = "spring trip gown depart project sort equal key cousin weasel devote finger";
+var mnemonic = "village now lion pear media position laundry enforce current blade swing agent";

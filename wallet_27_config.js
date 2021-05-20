@@ -1,1 +1,1 @@
-var mnemonic = "lab faint casual group wrist coconut dutch garage minute cattle tennis peanut";
+var mnemonic = "excess success define talent topic badge curious night weasel acid sweet erode";

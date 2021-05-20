@@ -1,1 +1,1 @@
-var mnemonic = "afford chief occur hint floor visit silly excuse book hello wish myth";
+var mnemonic = "pioneer forum pretty much combine budget female lesson book wife planet pipe";

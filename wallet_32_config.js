@@ -1,1 +1,1 @@
-var mnemonic = "beef muffin test arrow castle obscure sing media blood hole salute chicken";
+var mnemonic = "inject amount motion force legal prefer trial dignity exact range dog wealth";

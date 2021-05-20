@@ -1,1 +1,1 @@
-var mnemonic = "rain divide dizzy fit road mail inch aim large limb middle butter";
+var mnemonic = "pudding dilemma clap unveil stuff use upgrade reduce pill wife angle youth";

@@ -1,1 +1,1 @@
-var mnemonic = "address olive trial depart choice observe diesel leave trigger celery mention wonder";
+var mnemonic = "owner soul surge idea put wrist net spike replace elder palace oyster";

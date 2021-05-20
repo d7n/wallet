@@ -1,1 +1,1 @@
-var mnemonic = "ice best canal impose family donate depend kit nut exhaust nice betray";
+var mnemonic = "dismiss exist artwork penalty around cheese month curious thank topic coconut fit";

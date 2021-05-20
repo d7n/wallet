@@ -1,1 +1,1 @@
-var mnemonic = "miss lumber exhibit victory eternal radio display black flip cause ritual summer";
+var mnemonic = "jeans economy visit identify winner street hockey render inherit cage rail rack";

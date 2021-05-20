@@ -1,1 +1,1 @@
-var mnemonic = "left express you armed boost fault cover dice banner medal actress enhance";
+var mnemonic = "word lottery start dog display chat valid bag slide quantum brief scene";

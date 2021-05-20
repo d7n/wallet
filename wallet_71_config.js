@@ -1,1 +1,1 @@
-var mnemonic = "volume believe acoustic access guitar world glue beef almost seven motor mercy";
+var mnemonic = "radar spoil slam false stamp artist winter child industry elegant utility sleep";

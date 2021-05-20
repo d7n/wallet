@@ -1,1 +1,1 @@
-var mnemonic = "unique answer lock bronze junk grant girl report say endless cup loyal";
+var mnemonic = "tool party when drama trick logic enforce ritual pretty over solid valid";

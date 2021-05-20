@@ -1,1 +1,1 @@
-var mnemonic = "grant iron expose glide menu believe shy doll anchor magic average inch";
+var mnemonic = "width exhibit much faculty prefer pitch spell main equal cart enroll zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "almost injury enable fun purity next swim loan segment pact good turkey";
+var mnemonic = "garlic museum maze panther auction layer voyage ocean play rule camera pioneer";

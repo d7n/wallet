@@ -1,1 +1,1 @@
-var mnemonic = "model similar dinner wedding west giggle grocery glad exist monster settle person";
+var mnemonic = "cigar glad sadness armor speed price east nerve dry robot canal earn";

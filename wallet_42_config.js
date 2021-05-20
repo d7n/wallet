@@ -1,1 +1,1 @@
-var mnemonic = "boring endless guilt mule barely hover dragon sugar clip next chalk unable";
+var mnemonic = "inquiry canoe blind brick arrive diagram tail author invite gesture quote sniff";

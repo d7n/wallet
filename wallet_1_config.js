@@ -1,1 +1,1 @@
-var mnemonic = "nuclear thumb victory favorite visa exhibit purchase shy jazz coin scene shuffle";
+var mnemonic = "income muffin budget chaos snake edge question fever melody endless nothing juice";

@@ -1,1 +1,1 @@
-var mnemonic = "task cement resource practice describe circle leg favorite lake you magic hospital";
+var mnemonic = "puzzle fruit surge valve uniform illness run kangaroo parent lift problem rapid";

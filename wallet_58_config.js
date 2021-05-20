@@ -1,1 +1,1 @@
-var mnemonic = "two effort aerobic permit frozen rocket cancel minute tunnel upper drastic know";
+var mnemonic = "parrot ocean gap device tornado catalog another piece soul sausage dynamic sister";

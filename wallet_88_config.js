@@ -1,1 +1,1 @@
-var mnemonic = "tip impact reunion east expand useless useful edit material reduce zone segment";
+var mnemonic = "beef craft salute decline much crucial biology better genre expect poet faith";

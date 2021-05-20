@@ -1,1 +1,1 @@
-var mnemonic = "huge flower estate inherit hold use lawn jazz much job gospel side";
+var mnemonic = "clay forget garage huge betray orchard invest slice giggle reopen husband camera";

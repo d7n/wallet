@@ -1,1 +1,1 @@
-var mnemonic = "vivid client acquire creek lawn gown satisfy effort fence label flower oblige";
+var mnemonic = "blade squirrel visit burden primary lunar intact labor empower problem elbow analyst";

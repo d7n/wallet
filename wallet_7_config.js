@@ -1,1 +1,1 @@
-var mnemonic = "else aspect eye close vivid company analyst tortoise tobacco huge claim sample";
+var mnemonic = "cruise edge brush output vessel hotel artist often range door region fog";

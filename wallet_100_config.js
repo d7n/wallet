@@ -1,1 +1,1 @@
-var mnemonic = "sick burger machine offer hard lawn violin left rose rural file proof";
+var mnemonic = "suffer alter dignity harsh fence worth stage link business mass left artefact";

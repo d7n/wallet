@@ -1,1 +1,1 @@
-var mnemonic = "fold coil mandate embrace because blind mimic energy gorilla cook carry danger";
+var mnemonic = "era coyote almost session coin ritual install essence result syrup horse mammal";

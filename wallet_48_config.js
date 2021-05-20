@@ -1,1 +1,1 @@
-var mnemonic = "control clutch trend margin salon digital trash hidden unveil bright forum trend";
+var mnemonic = "object people finish palm degree lizard music sound faith inmate enemy slot";

@@ -1,1 +1,1 @@
-var mnemonic = "general wasp destroy kidney track pledge drill voice nephew piece airport more";
+var mnemonic = "jelly until crunch remind dry coral cook oxygen shift foam slogan guess";

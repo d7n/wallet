@@ -1,1 +1,1 @@
-var mnemonic = "assist car loop motor oak depart build payment sad click nasty impose";
+var mnemonic = "habit great own copy hill equal essay cover angle limb alien hole";

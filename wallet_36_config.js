@@ -1,1 +1,1 @@
-var mnemonic = "auto gather battle raccoon float razor bright margin immune caution carpet grass";
+var mnemonic = "ability large task hockey dumb year mom answer place ensure soda defy";

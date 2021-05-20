@@ -1,1 +1,1 @@
-var mnemonic = "kidney food fringe waste rifle olive erode cannon miracle goose rain public";
+var mnemonic = "verb doctor similar extra scene kitten join angle onion ceiling frame siege";

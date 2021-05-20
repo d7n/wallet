@@ -1,1 +1,1 @@
-var mnemonic = "build dinner choice glimpse nuclear one chest bubble loud parade rice slam";
+var mnemonic = "fossil income valve club volcano shadow copy end subway exchange rude gas";

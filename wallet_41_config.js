@@ -1,1 +1,1 @@
-var mnemonic = "mind time cabin neutral tenant powder claim wheel cannon arrest curtain sleep";
+var mnemonic = "chunk ancient luggage fetch law october shift lake oil jar boat shaft";

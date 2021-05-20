@@ -1,1 +1,1 @@
-var mnemonic = "engine double balcony proud whip husband grunt sad water pink october denial";
+var mnemonic = "park repeat dish devote tide lumber else frog decrease arrest vast agree";

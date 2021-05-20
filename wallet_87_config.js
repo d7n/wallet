@@ -1,1 +1,1 @@
-var mnemonic = "material grocery there session where essence digital anchor habit panda need search";
+var mnemonic = "doctor tube degree half slender young mobile estate ice sketch illness mango";

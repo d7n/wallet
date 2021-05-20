@@ -1,1 +1,1 @@
-var mnemonic = "solid inhale mother allow poet march weekend sand cancel cover dignity idle";
+var mnemonic = "actor arctic draw page side reveal distance job please liquid zoo monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "rule demand one winter devote vote short toilet blur domain gym mouse";
+var mnemonic = "economy state collect lift job favorite journey system shell nephew buyer either";

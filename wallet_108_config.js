@@ -1,1 +1,1 @@
-var mnemonic = "capital sun gather account voyage rail tag high market bottom crater ghost";
+var mnemonic = "helmet rice album october inherit boring team minute eagle fiber patrol access";

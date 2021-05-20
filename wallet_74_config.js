@@ -1,1 +1,1 @@
-var mnemonic = "prosper region page target cannon type glove tunnel resist host maid card";
+var mnemonic = "blind corn devote exhibit cargo ghost twice lab judge correct crucial remind";

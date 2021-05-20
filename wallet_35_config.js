@@ -1,1 +1,1 @@
-var mnemonic = "payment frozen exhaust drastic toilet alpha loop nation retreat flavor issue puzzle";
+var mnemonic = "benefit business ozone broccoli slender photo fix faint sample seed satoshi emerge";

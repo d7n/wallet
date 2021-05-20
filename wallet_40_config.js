@@ -1,1 +1,1 @@
-var mnemonic = "stay come physical leg kangaroo topple roast glove run castle sugar such";
+var mnemonic = "script tube charge squeeze save wide scatter page grab iron lava renew";

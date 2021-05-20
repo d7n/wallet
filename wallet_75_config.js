@@ -1,1 +1,1 @@
-var mnemonic = "sock similar outdoor canvas arch lamp alcohol festival question general fabric supreme";
+var mnemonic = "someone west ten sentence tape oppose base coach traffic deposit dutch surround";

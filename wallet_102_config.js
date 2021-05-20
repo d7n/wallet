@@ -1,1 +1,1 @@
-var mnemonic = "drift now camp load mistake news donor supply loop hockey boring follow";
+var mnemonic = "buffalo emerge beef fold solar erase hobby armor subway much alone abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean cook birth keep example resource churn stay mechanic face wrap wedding";
+var mnemonic = "sight pledge tortoise demise spell vague float hen giraffe simple involve reunion";

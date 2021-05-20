@@ -1,1 +1,1 @@
-var mnemonic = "gravity route clog entire legend october analyst giggle slim live direct rebel";
+var mnemonic = "setup promote help shiver antenna metal saddle smile local try about hockey";
