@@ -1,1 +1,1 @@
-var mnemonic = "garage route coin poet click rubber enemy lobster organ resource welcome miracle";
+var mnemonic = "vote vocal excess forest fog woman evidence comic august income economy float";

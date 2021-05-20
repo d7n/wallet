@@ -1,1 +1,1 @@
-var mnemonic = "size skill tired engage quick canyon outside kidney finger skate horror identify";
+var mnemonic = "focus turkey submit fuel dress found excess yellow today record click noodle";

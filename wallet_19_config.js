@@ -1,1 +1,1 @@
-var mnemonic = "february crowd walnut cage spell actress slam impose solid tattoo hire tomato";
+var mnemonic = "sense bronze ski scout hamster enrich shove view hand olympic dumb trap";

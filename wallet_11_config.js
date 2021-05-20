@@ -1,1 +1,1 @@
-var mnemonic = "cup pair sadness agent title old entry kid annual duty oxygen stumble";
+var mnemonic = "deer cattle mercy pottery cloud hope humor choose ticket spare pink media";

@@ -1,1 +1,1 @@
-var mnemonic = "sing distance phone mystery avocado admit puppy derive track animal actor deposit";
+var mnemonic = "equip sadness image own amateur champion theory consider elbow record wreck royal";

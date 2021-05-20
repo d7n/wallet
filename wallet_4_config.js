@@ -1,1 +1,1 @@
-var mnemonic = "quit sound vacuum hen chest canyon tortoise assault royal weird spike multiply";
+var mnemonic = "unhappy income miss olive auction blanket excite joy mass impulse depend consider";

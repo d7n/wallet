@@ -1,1 +1,1 @@
-var mnemonic = "sight purchase fade picnic canal fat yellow pair miracle crumble keen game";
+var mnemonic = "spin sustain carpet toddler cube naive album rebuild rose series accident primary";

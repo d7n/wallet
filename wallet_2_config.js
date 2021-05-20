@@ -1,1 +1,1 @@
-var mnemonic = "cake rib silk lake sniff motion boost swing fiber essay amazing busy";
+var mnemonic = "casino field bird idle pledge champion sun casual observe canvas hill scare";

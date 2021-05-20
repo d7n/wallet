@@ -1,1 +1,1 @@
-var mnemonic = "govern shoulder future jazz science rain dawn banner vanish dignity average utility";
+var mnemonic = "crane define follow cable sense squeeze oppose sign clock senior fancy convince";

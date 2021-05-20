@@ -1,1 +1,1 @@
-var mnemonic = "material attract settle forum primary expose myth wash more medal rely bless";
+var mnemonic = "turn slam supply mule ecology oblige front flip injury daring shoulder right";

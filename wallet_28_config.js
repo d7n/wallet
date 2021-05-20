@@ -1,1 +1,1 @@
-var mnemonic = "rebuild zone then happy oblige attract saddle antenna obscure like federal camp";
+var mnemonic = "seven leader general coach return physical embrace toss silver usual claim toddler";

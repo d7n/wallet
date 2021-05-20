@@ -1,1 +1,1 @@
-var mnemonic = "insect auto siren venture fatal dog inquiry soda minute logic lonely real";
+var mnemonic = "cushion civil crime avocado scissors satoshi diesel once tube virus october magic";

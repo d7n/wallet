@@ -1,1 +1,1 @@
-var mnemonic = "end able pretty benefit custom tell park edit name yellow response camera";
+var mnemonic = "step tiger wedding prevent short broken endorse animal rule harvest pencil improve";

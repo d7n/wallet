@@ -1,1 +1,1 @@
-var mnemonic = "insect more point raccoon siege olympic prize again gift library donkey suspect";
+var mnemonic = "lift leader parade sock tent crawl harsh gather squirrel whip brown funny";

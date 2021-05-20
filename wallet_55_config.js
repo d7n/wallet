@@ -1,1 +1,1 @@
-var mnemonic = "cycle whale brick funny shrug stay deputy basic dress home frost cross";
+var mnemonic = "patient stage season provide reject drive tray current pass pledge buyer away";

@@ -1,1 +1,1 @@
-var mnemonic = "salon topple echo chef much museum change artist exhibit crunch anxiety hurry";
+var mnemonic = "text age deposit cousin steak weather soda harvest wet rival gossip client";

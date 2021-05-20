@@ -1,1 +1,1 @@
-var mnemonic = "useless amazing nose mistake safe submit social broken smart pass cereal victory";
+var mnemonic = "camp range casual blame rabbit kitchen inquiry leave name doll boy explain";

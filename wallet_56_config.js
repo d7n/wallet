@@ -1,1 +1,1 @@
-var mnemonic = "fetch peace wool praise trick grocery found maid else road owner boy";
+var mnemonic = "tackle sphere drip brown disease frog purse borrow catalog vessel dragon theme";

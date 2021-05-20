@@ -1,1 +1,1 @@
-var mnemonic = "boat image mountain dice head model farm gun clip jeans soccer exhaust";
+var mnemonic = "elite artist enlist curious scan resemble ladder fresh couch clog picture process";

@@ -1,1 +1,1 @@
-var mnemonic = "distance trust fold muscle there hope face tiger regular control ribbon laundry";
+var mnemonic = "desk depend bonus island host young put jacket pyramid act similar enrich";

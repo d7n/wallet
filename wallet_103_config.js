@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit aspect fiscal price step skull carpet boss village loop rookie trash";
+var mnemonic = "mule naive pull ritual toe stock charge duty west universe tackle zoo";

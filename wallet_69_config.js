@@ -1,1 +1,1 @@
-var mnemonic = "drum mistake adapt ghost panic fox zoo will chef mosquito card tenant";
+var mnemonic = "primary exercise simple rail injury rude bright elevator liberty guitar recycle inch";

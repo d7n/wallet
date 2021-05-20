@@ -1,1 +1,1 @@
-var mnemonic = "among law kid vintage belt phone else cancel must genre awkward dry";
+var mnemonic = "desert clip hedgehog blossom topic mail elder science mother six fox next";

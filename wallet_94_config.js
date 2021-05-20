@@ -1,1 +1,1 @@
-var mnemonic = "trick tomorrow injury unhappy regret foster picture begin blind measure dinner cushion";
+var mnemonic = "wear more spawn canoe one dad purchase exact behind emerge legend eye";

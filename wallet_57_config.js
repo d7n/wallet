@@ -1,1 +1,1 @@
-var mnemonic = "donkey hidden book luggage salt then survey brief hill insect hint mosquito";
+var mnemonic = "rack worry penalty tell sword high summer plug forget tornado click eager";

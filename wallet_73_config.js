@@ -1,1 +1,1 @@
-var mnemonic = "judge famous during pet meat liberty chunk rent innocent pave shy forum";
+var mnemonic = "stumble document drink afraid rocket bunker fee setup ridge often once bind";

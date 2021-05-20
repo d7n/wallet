@@ -1,1 +1,1 @@
-var mnemonic = "drop huge deal merry vague erupt clinic detail sure announce trumpet around";
+var mnemonic = "autumn ribbon inquiry pink awful believe cannon nice concert what omit lonely";

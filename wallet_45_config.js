@@ -1,1 +1,1 @@
-var mnemonic = "miss identify matter dance barely pig goat crop bind above token repeat";
+var mnemonic = "disagree bring mobile fine switch job menu adult anger pigeon radar photo";

@@ -1,1 +1,1 @@
-var mnemonic = "tip purse under shadow staff habit coil armed bleak cream moon twice";
+var mnemonic = "wink cause february wife twelve cricket rescue ceiling again century labor lottery";

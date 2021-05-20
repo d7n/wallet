@@ -1,1 +1,1 @@
-var mnemonic = "stick coconut route pupil swim cream few bulb mention polar shield cabbage";
+var mnemonic = "slight acoustic case relax always maze rival ginger magnet lucky pony busy";

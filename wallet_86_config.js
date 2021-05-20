@@ -1,1 +1,1 @@
-var mnemonic = "brave arrive search enlist organ horse rhythm airport between trap lottery school";
+var mnemonic = "curious obvious will food current guard smoke metal excite lamp announce train";

@@ -1,1 +1,1 @@
-var mnemonic = "boss crew family enact plunge canyon empty spike illness left zero front";
+var mnemonic = "until satoshi butter inside critic today float swap day notice own patrol";

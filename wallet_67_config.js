@@ -1,1 +1,1 @@
-var mnemonic = "sense erase property unusual pause iron indicate distance comic egg crater summer";
+var mnemonic = "sauce stumble hair olympic ugly neglect pet need trend air dutch omit";

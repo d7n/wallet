@@ -1,1 +1,1 @@
-var mnemonic = "toe mango material decrease odor south split assault only letter eyebrow assault";
+var mnemonic = "multiply season liquid gown stumble price merry hub cinnamon taxi mistake honey";

@@ -1,1 +1,1 @@
-var mnemonic = "sick winter parade note comic maple true shoot absent unveil piece awful";
+var mnemonic = "obey radio jazz witness rookie ramp belt defy unable mind depth notable";

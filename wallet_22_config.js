@@ -1,1 +1,1 @@
-var mnemonic = "elegant puppy number enter banner casual learn brick radar toe neither expose";
+var mnemonic = "benefit arch perfect field either sting payment nuclear mountain winner same august";

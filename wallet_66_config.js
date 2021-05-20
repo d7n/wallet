@@ -1,1 +1,1 @@
-var mnemonic = "fault false vast shrimp bleak method social cup nasty trick scissors exist";
+var mnemonic = "chef army able language dutch clutch fork shift actress concert vote lonely";

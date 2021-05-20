@@ -1,1 +1,1 @@
-var mnemonic = "wool parade rose trumpet toddler taste animal orient among eager differ physical";
+var mnemonic = "outdoor merge napkin good curve amount fun stumble unknown faculty slogan hidden";

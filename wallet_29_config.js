@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur expire crop person video brush upper future assist evolve choice first";
+var mnemonic = "crime arena mountain fortune icon rice illness wing matter color rebel side";

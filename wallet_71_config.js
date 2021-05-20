@@ -1,1 +1,1 @@
-var mnemonic = "enroll win mouse improve elbow enforce entry domain math expand year gain";
+var mnemonic = "search rough such type coral pigeon zone canvas bench motor inch super";

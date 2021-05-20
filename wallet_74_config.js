@@ -1,1 +1,1 @@
-var mnemonic = "enough attitude any illness cheese pluck thank ribbon furnace asthma regular bike";
+var mnemonic = "galaxy strike defy victory oxygen profit local avoid attack piece orphan brush";

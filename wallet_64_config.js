@@ -1,1 +1,1 @@
-var mnemonic = "derive diagram spider clip tag talk turn spirit path admit ketchup fat";
+var mnemonic = "infant inch true report load sibling canvas siren cinnamon absent motion knock";

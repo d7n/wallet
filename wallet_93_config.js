@@ -1,1 +1,1 @@
-var mnemonic = "hybrid crack scale false gravity elbow tank alcohol lecture mention virtual soul";
+var mnemonic = "region attitude sudden eternal day circle vacuum jump hood filter menu palm";

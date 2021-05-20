@@ -1,1 +1,1 @@
-var mnemonic = "tornado index sunset junk control patrol joke often thank divert pave topple";
+var mnemonic = "sight duck ill buddy leisure agent jealous matter grab lunar loud like";

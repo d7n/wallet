@@ -1,1 +1,1 @@
-var mnemonic = "multiply equal finish novel enhance leopard rack elegant shoot fancy lunar drill";
+var mnemonic = "reopen duck chronic pluck juice soda pistol duck entire throw boil peasant";

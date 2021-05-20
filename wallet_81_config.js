@@ -1,1 +1,1 @@
-var mnemonic = "upgrade visit jar leg will hockey memory episode tourist more earn trend";
+var mnemonic = "spin wide squeeze curtain tool plunge magic round chief wonder arrest pool";

@@ -1,1 +1,1 @@
-var mnemonic = "card amateur cat job child body violin when exit extend taxi there";
+var mnemonic = "admit torch pipe journey inner metal loud cream electric reopen sport earth";

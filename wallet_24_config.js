@@ -1,1 +1,1 @@
-var mnemonic = "salon remove census alarm main orange position keep make vintage canyon shoot";
+var mnemonic = "slab bench drive cereal move apple mind rain alien garment grunt patient";

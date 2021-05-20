@@ -1,1 +1,1 @@
-var mnemonic = "indicate winner hidden neither random script use promote fence cage club purse";
+var mnemonic = "crumble couple honey unfold summer tiger champion fame trend blood oil clutch";

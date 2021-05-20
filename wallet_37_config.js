@@ -1,1 +1,1 @@
-var mnemonic = "settle ready divide alter shop demise sleep slow kite amount great appear";
+var mnemonic = "enable water husband doctor common middle program noise sad inhale stove series";

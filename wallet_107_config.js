@@ -1,1 +1,1 @@
-var mnemonic = "wealth treat search dance wash erase ridge stem garage wise license water";
+var mnemonic = "funny north hybrid roast label dove ancient other require shoulder glide shallow";

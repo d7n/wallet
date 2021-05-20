@@ -1,1 +1,1 @@
-var mnemonic = "abandon slight budget catch hole mix couch soon door around spray put";
+var mnemonic = "volume type early shift year case island sibling door aisle carbon join";

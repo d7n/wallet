@@ -1,1 +1,1 @@
-var mnemonic = "monster forest frequent ribbon friend frog panda neck enrich faculty trial ripple";
+var mnemonic = "decline lizard pizza mystery genre seed blade sorry save state rule rent";

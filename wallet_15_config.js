@@ -1,1 +1,1 @@
-var mnemonic = "thumb march tray flee motor welcome asset napkin correct fire universe galaxy";
+var mnemonic = "mosquito major cash candy amused tenant series near retreat nominee never engage";

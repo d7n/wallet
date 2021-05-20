@@ -1,1 +1,1 @@
-var mnemonic = "chef act cheese maze slide design seed subject width nurse miss cruel";
+var mnemonic = "gravity deliver siege name soldier square muscle unable select alarm bottom length";

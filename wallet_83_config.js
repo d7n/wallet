@@ -1,1 +1,1 @@
-var mnemonic = "erase mushroom impose retire sure salad jar minimum artist stamp radar soft";
+var mnemonic = "monster pill insect jeans dizzy cushion fade enlist unaware crucial fiction remind";

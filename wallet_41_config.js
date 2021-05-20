@@ -1,1 +1,1 @@
-var mnemonic = "abandon squeeze laptop between hybrid learn hurry tomorrow result wave hard believe";
+var mnemonic = "ahead awesome question erosion solid foil goose remove luggage best lecture diet";

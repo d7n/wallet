@@ -1,1 +1,1 @@
-var mnemonic = "grow raw slight bullet wish sad code about hazard silk teach ramp";
+var mnemonic = "mask then salad imitate final frequent door surprise run ginger diamond surface";

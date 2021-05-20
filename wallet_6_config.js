@@ -1,1 +1,1 @@
-var mnemonic = "style trigger stone save wood leader bracket sure flip program meat weird";
+var mnemonic = "virus zoo plate paper finger monkey control stool upper knee want ask";

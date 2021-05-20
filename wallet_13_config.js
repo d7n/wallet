@@ -1,1 +1,1 @@
-var mnemonic = "float embody mix census slab rent token aspect outside ensure hub claim";
+var mnemonic = "ceiling bargain unhappy sting chuckle anchor wrap hidden stable swing blanket category";

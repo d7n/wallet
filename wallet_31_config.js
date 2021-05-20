@@ -1,1 +1,1 @@
-var mnemonic = "legal tag park virus around cargo action stove remove seminar assault exile";
+var mnemonic = "gallery traffic someone learn crazy million scale trouble margin crater market opera";

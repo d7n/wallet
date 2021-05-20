@@ -1,1 +1,1 @@
-var mnemonic = "boss blossom core guard token dice filter usual review pink absorb swift";
+var mnemonic = "mystery whip train lounge holiday doll pistol hero exhibit around order regular";

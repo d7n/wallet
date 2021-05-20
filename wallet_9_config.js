@@ -1,1 +1,1 @@
-var mnemonic = "pony lift write review cradle wise joke supply hunt arena jeans kidney";
+var mnemonic = "ranch puppy apart aspect jaguar useful blind action ozone female author material";

@@ -1,1 +1,1 @@
-var mnemonic = "spider attitude diagram sponsor square buyer airport window net fine address habit";
+var mnemonic = "wage salt train nuclear one scrub idea apple misery head gold garden";

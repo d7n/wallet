@@ -1,1 +1,1 @@
-var mnemonic = "proud farm pelican cage jeans year rather swift phone rotate still shadow";
+var mnemonic = "avoid town sadness leaf prosper mango sail answer harvest similar wrap dizzy";

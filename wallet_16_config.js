@@ -1,1 +1,1 @@
-var mnemonic = "board purse chair bind whale ceiling shine write verb lock asthma impulse";
+var mnemonic = "duty fabric economy kick hair coffee rib cement limb motion father nephew";

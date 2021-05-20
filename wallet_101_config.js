@@ -1,1 +1,1 @@
-var mnemonic = "hold sketch person hen dwarf glove fever baby athlete school honey trumpet";
+var mnemonic = "spell select private depth urban settle spoil print note edit chuckle remind";

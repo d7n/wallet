@@ -1,1 +1,1 @@
-var mnemonic = "bridge thumb round advice baby column deposit window inspire salt flight test";
+var mnemonic = "giant perfect shift host fragile color ticket insane funny minimum garden sing";

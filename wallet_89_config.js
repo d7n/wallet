@@ -1,1 +1,1 @@
-var mnemonic = "used firm avoid network decrease uncover promote churn worth pistol tree choice";
+var mnemonic = "kick quote congress flash weather angle kiss kind gossip typical burger angry";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy earth gift hockey bird sphere novel scene heart lizard table prefer";
+var mnemonic = "fox globe leisure soft average reform hover quick brain version simple carpet";

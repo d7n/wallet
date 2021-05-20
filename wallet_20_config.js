@@ -1,1 +1,1 @@
-var mnemonic = "mushroom insane dose glad sight insect useless ball pen flavor dress blame";
+var mnemonic = "regret balcony call mean parade secret milk turtle text cycle reflect elevator";

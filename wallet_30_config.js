@@ -1,1 +1,1 @@
-var mnemonic = "hunt useless elephant shuffle dice essay cabin arena prosper produce mirror fever";
+var mnemonic = "marriage guess inner six market forum snow drive april foot resemble check";

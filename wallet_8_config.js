@@ -1,1 +1,1 @@
-var mnemonic = "hidden custom notice fun evidence rail error property frequent pitch alcohol protect";
+var mnemonic = "crew aisle already humor wish where clock disease approve since quality gold";

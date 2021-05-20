@@ -1,1 +1,1 @@
-var mnemonic = "old provide screen speed dumb lens dry small hungry camp paper during";
+var mnemonic = "cruel dance advice forget arrow voice number tissue empower pull syrup right";

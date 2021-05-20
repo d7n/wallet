@@ -1,1 +1,1 @@
-var mnemonic = "smoke beef kangaroo polar grit move rebuild diary sign ice cook thing";
+var mnemonic = "kit type ivory scissors aspect actor voice lens adjust soft skull object";

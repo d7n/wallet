@@ -1,1 +1,1 @@
-var mnemonic = "sauce quick problem talent safe garment gasp pass shrug option agree chair";
+var mnemonic = "oblige behind desert brush tourist flat catalog donate detail chimney detail vacant";

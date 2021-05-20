@@ -1,1 +1,1 @@
-var mnemonic = "knee inform master pigeon nose tackle edit pool tenant cool hand oval";
+var mnemonic = "humble hammer divide laundry palm robot episode segment elegant van zoo aim";

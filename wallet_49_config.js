@@ -1,1 +1,1 @@
-var mnemonic = "shove inch panic embrace scan cost pledge rather remind price airport swallow";
+var mnemonic = "toddler print company either detect assault exact buddy copper mail social brand";

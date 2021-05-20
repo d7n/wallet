@@ -1,1 +1,1 @@
-var mnemonic = "life effort sure boil science that school deliver ride feel luggage dice";
+var mnemonic = "later sing veteran tell swift minute silent animal author provide toy cousin";

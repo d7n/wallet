@@ -1,1 +1,1 @@
-var mnemonic = "hurdle annual crack miss vapor bus fuel crazy six pioneer toward sun";
+var mnemonic = "spoon slight flag rubber shine property question wink style admit school entire";

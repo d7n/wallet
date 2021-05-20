@@ -1,1 +1,1 @@
-var mnemonic = "foster hundred gadget path canal submit soft physical empty skull camera delay";
+var mnemonic = "churn spawn animal capable trend cancel seek brief taste spawn rebel saddle";

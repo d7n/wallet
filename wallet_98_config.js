@@ -1,1 +1,1 @@
-var mnemonic = "adult goat cup object flip scale weasel execute network solid assume belt";
+var mnemonic = "cloud garlic pause tomorrow tomato insect grit person assist model brother puzzle";

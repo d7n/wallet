@@ -1,1 +1,1 @@
-var mnemonic = "nice wire enjoy notable name item clap mango because endorse hover hockey";
+var mnemonic = "tuna bulb safe season orchard rose cream chief angry verb report rotate";

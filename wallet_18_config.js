@@ -1,1 +1,1 @@
-var mnemonic = "drive window man language client miss enjoy injury illness hawk castle series";
+var mnemonic = "hope wrestle smooth bird vital ladder gown forum venue void snake this";

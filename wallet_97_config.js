@@ -1,1 +1,1 @@
-var mnemonic = "churn few liberty risk kit tiny gasp finger arena december fabric cricket";
+var mnemonic = "glue legal insane reason arrive twenty spot basket squirrel abandon pear bundle";

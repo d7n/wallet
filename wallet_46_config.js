@@ -1,1 +1,1 @@
-var mnemonic = "animal alley delay three rate flock tilt stage shoe gadget paper spare";
+var mnemonic = "camp soul snack child exhaust order cool suggest tank caught check assume";

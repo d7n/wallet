@@ -1,1 +1,1 @@
-var mnemonic = "raise venue solve absorb rescue eyebrow throw note aspect canal apple egg";
+var mnemonic = "raven tape merry predict faculty chief machine silver square awful adjust asthma";

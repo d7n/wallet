@@ -1,1 +1,1 @@
-var mnemonic = "jealous negative crumble text naive invite expect text evil harsh galaxy style";
+var mnemonic = "riot stone there act maid face pill device cry cool squirrel expect";

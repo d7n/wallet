@@ -1,1 +1,1 @@
-var mnemonic = "foster crash into sea inflict penalty guilt isolate return blast lion choose";
+var mnemonic = "session thunder diary inner unfair excess leaf when fortune key breeze tortoise";

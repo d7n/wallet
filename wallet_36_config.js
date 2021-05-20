@@ -1,1 +1,1 @@
-var mnemonic = "live before north cousin involve acoustic gift same erosion clutch rather time";
+var mnemonic = "robot wet orphan civil unlock wolf road october wait offer into volcano";

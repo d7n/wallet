@@ -1,1 +1,1 @@
-var mnemonic = "sea modify wall help balcony cool stove tube polar outer bread true";
+var mnemonic = "kick pretty give abuse canoe fog regular cruise plug weather doll process";

@@ -1,1 +1,1 @@
-var mnemonic = "blind travel stem dust warfare harsh impulse wrist gaze manual ecology entire";
+var mnemonic = "loud inmate rough rhythm snow six merry tray near path clarify primary";
