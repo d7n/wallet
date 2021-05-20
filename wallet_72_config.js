@@ -1,1 +1,1 @@
-var mnemonic = "gaze identify crucial license huge photo doctor city crunch today seed tonight";
+var mnemonic = "trial staff melt peasant floor defense custom inflict major burger session found";

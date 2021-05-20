@@ -1,1 +1,1 @@
-var mnemonic = "error icon peace absurd favorite august mouse infant vapor pear comic battle";
+var mnemonic = "furnace level leopard seven film title cloth neither lobster nut debate fly";

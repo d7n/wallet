@@ -1,1 +1,1 @@
-var mnemonic = "riot squirrel crop culture ask boost visit injury icon vintage gossip rather";
+var mnemonic = "pepper curtain just better seat diagram keen develop flip ghost enemy increase";

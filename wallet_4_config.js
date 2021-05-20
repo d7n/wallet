@@ -1,1 +1,1 @@
-var mnemonic = "rebuild entry cereal sweet coyote govern hard reward busy decline slow health";
+var mnemonic = "midnight second chronic winter warfare salon engine letter guide kingdom emotion celery";

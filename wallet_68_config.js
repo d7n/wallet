@@ -1,1 +1,1 @@
-var mnemonic = "curve evolve episode wing tell trap certain crystal biology total pony ancient";
+var mnemonic = "salt smart whip nerve skate town false diet lens beauty tag syrup";

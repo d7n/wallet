@@ -1,1 +1,1 @@
-var mnemonic = "end state stay auto grab reveal ugly brass cactus present wonder elder";
+var mnemonic = "clog mix arrange above book anger federal decline spike ride toy reflect";

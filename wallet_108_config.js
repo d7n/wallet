@@ -1,1 +1,1 @@
-var mnemonic = "crucial shop quantum outside umbrella fragile viable heart execute twist spoon dentist";
+var mnemonic = "announce civil rather trap peanut loan theory attitude rebel birth ripple kiss";

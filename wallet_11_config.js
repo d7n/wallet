@@ -1,1 +1,1 @@
-var mnemonic = "person valley mobile next uphold castle mansion cage afford joke tone account";
+var mnemonic = "flag grunt text wing else bottom usage arrange trick mom route combine";

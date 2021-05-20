@@ -1,1 +1,1 @@
-var mnemonic = "club planet physical legal sibling capital force verify bargain frog label shrug";
+var mnemonic = "lion crumble ranch wealth have option offer twenty sound sausage place female";

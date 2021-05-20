@@ -1,1 +1,1 @@
-var mnemonic = "panel occur method brother catalog mean dry all square open other race";
+var mnemonic = "say street banner picnic suggest plastic secret slush sunny pizza captain fine";

@@ -1,1 +1,1 @@
-var mnemonic = "next squeeze season sunny feed number young prison avocado pink pencil estate";
+var mnemonic = "embrace vote such imitate gold enrich siren base subject mom drink thank";

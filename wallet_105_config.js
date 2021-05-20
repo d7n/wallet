@@ -1,1 +1,1 @@
-var mnemonic = "humble kiwi defy denial catalog rigid creek family chicken sauce dose shed";
+var mnemonic = "cup electric will strike abandon father truth appear hover lyrics matter heart";

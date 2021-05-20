@@ -1,1 +1,1 @@
-var mnemonic = "limit net jump museum bless stable autumn fever please twenty effort wall";
+var mnemonic = "kangaroo family pizza lyrics enough cook dose clip lazy corn dune upper";

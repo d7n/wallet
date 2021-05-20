@@ -1,1 +1,1 @@
-var mnemonic = "page gain bike crazy worth ball say basic marriage simple sing rescue";
+var mnemonic = "current infant armor scrub broom cook stamp insect level expose pig coffee";

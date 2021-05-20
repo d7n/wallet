@@ -1,1 +1,1 @@
-var mnemonic = "cost express carpet enroll upset radar light globe buffalo better junior thrive";
+var mnemonic = "coyote will picnic ecology slam bounce heavy royal follow private happy cake";

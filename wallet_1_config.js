@@ -1,1 +1,1 @@
-var mnemonic = "birth interest elbow faint solution veteran circle kidney subject gaze lens keep";
+var mnemonic = "kiwi purse float differ bleak rally tone diet age antenna file correct";

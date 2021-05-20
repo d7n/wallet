@@ -1,1 +1,1 @@
-var mnemonic = "soul interest effort grace exist expect birth poverty tennis enemy upgrade say";
+var mnemonic = "sure vital gate aspect skill drum truly click dad advice stove time";

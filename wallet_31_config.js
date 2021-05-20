@@ -1,1 +1,1 @@
-var mnemonic = "push thing lecture element physical deal solar run crew outer bubble trap";
+var mnemonic = "feature tape aisle annual daring two walk shock release animal apart forward";

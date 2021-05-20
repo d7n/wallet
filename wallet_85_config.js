@@ -1,1 +1,1 @@
-var mnemonic = "silver panic plate warm salad cave emerge poverty fade august slam breeze";
+var mnemonic = "spoon stuff win slow inspire way flock crane gravity beauty alarm method";

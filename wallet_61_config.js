@@ -1,1 +1,1 @@
-var mnemonic = "work squeeze gather annual ensure exhibit margin secret black prison dilemma beach";
+var mnemonic = "pass spike rack denial middle twist chimney bind catalog chalk eagle stomach";

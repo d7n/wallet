@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cheap inspire slow metal replace pass obvious drip access host casino";
+var mnemonic = "liberty eternal exile mirror online vessel aisle act patrol miss auction crash";

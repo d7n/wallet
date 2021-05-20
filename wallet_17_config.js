@@ -1,1 +1,1 @@
-var mnemonic = "include year small penalty novel find buzz skate budget top express blast";
+var mnemonic = "usage quantum good rate ride skirt roast acoustic venture enforce bird cloth";

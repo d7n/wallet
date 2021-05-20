@@ -1,1 +1,1 @@
-var mnemonic = "census quick vital north abstract olive echo stamp state cabbage outdoor apology";
+var mnemonic = "doll crawl gaze stamp game square property speak fun adult baby void";

@@ -1,1 +1,1 @@
-var mnemonic = "churn slot motor history hill curtain anxiety erupt dice income bag sight";
+var mnemonic = "noise dolphin wool nuclear prison romance together kite this monitor token urban";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon very ranch message tortoise ensure tornado purchase dynamic salt lawn elephant";
+var mnemonic = "buzz blanket pattern gun doll hamster dice dog stage hobby album bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "beach energy merry alcohol snack alcohol garbage mushroom brown solution maid oppose";
+var mnemonic = "injury purpose winner start thunder rotate bar soup decorate sword jar private";

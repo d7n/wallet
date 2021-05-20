@@ -1,1 +1,1 @@
-var mnemonic = "syrup bounce later practice frog blanket survey melody ladder innocent cruel include";
+var mnemonic = "pulp service congress practice weird badge festival usual riot amused actress usual";

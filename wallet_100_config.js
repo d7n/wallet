@@ -1,1 +1,1 @@
-var mnemonic = "fiber scan guitar always uphold card merry mask poet worth elite unlock";
+var mnemonic = "wide absorb else access tennis claim rebel hunt brief kingdom moral joke";

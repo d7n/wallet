@@ -1,1 +1,1 @@
-var mnemonic = "cousin piano purse face doll cream donate ghost cruise grace please attract";
+var mnemonic = "desk judge fuel axis cross churn involve envelope mad timber perfect teach";

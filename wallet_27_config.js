@@ -1,1 +1,1 @@
-var mnemonic = "exchange destroy coral vacuum dress maple genius ticket smile still tuna fly";
+var mnemonic = "sea abstract age wasp auction amount funny delay health gift pilot elevator";

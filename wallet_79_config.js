@@ -1,1 +1,1 @@
-var mnemonic = "jewel merit refuse vendor air beauty whale awake use nothing strong finish";
+var mnemonic = "double bid foil friend blossom hood verify indoor tray pottery brand arrive";

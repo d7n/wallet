@@ -1,1 +1,1 @@
-var mnemonic = "anxiety sight account affair drink organ card kitchen obey decline hold accident";
+var mnemonic = "urge egg inch amazing seed name mimic pet edit despair race glow";

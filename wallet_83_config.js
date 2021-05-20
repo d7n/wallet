@@ -1,1 +1,1 @@
-var mnemonic = "stove assist please suggest easy strategy tomorrow rain bean disorder proud alone";
+var mnemonic = "behave yard flee insane raise gym pudding wire push avoid plug butter";

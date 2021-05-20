@@ -1,1 +1,1 @@
-var mnemonic = "liquid fatal leisure vibrant grab cluster round tail left build top renew";
+var mnemonic = "tired zero turtle sick afford upset lecture service this fly nurse text";

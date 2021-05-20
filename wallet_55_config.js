@@ -1,1 +1,1 @@
-var mnemonic = "hill fade arctic mutual curve cram suggest amazing field what help toddler";
+var mnemonic = "nest smooth nose sand canyon claim actual walnut license scheme easy online";

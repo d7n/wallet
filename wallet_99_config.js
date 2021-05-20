@@ -1,1 +1,1 @@
-var mnemonic = "hawk gadget quantum parent city trap budget afraid subject motion wool chat";
+var mnemonic = "document cabbage hammer fluid amount cluster zero wagon arrange whale know wild";

@@ -1,1 +1,1 @@
-var mnemonic = "slush decorate print light shiver unfair industry increase coast budget shove coin";
+var mnemonic = "slender mountain weekend judge acoustic destroy bean maid cake brand column fault";

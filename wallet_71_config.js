@@ -1,1 +1,1 @@
-var mnemonic = "plate differ vehicle salad earn recipe try reject soda mix zebra chat";
+var mnemonic = "install goat slot evolve crew genius side blue come load tuition because";

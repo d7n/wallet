@@ -1,1 +1,1 @@
-var mnemonic = "luggage enable beauty city cousin job term then clock struggle recipe settle";
+var mnemonic = "security jealous pledge lyrics ten hold buddy evoke exhibit select shoot enact";

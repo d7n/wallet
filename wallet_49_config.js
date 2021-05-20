@@ -1,1 +1,1 @@
-var mnemonic = "announce twist sustain sign obvious napkin arena matter wish uncle tackle castle";
+var mnemonic = "shine message rifle tip move all assume game front portion grit injury";

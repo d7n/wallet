@@ -1,1 +1,1 @@
-var mnemonic = "cheap velvet vivid fortune until rain siren universe sibling valve assist bid";
+var mnemonic = "shoe pudding session snake army key retreat zone state gold step vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "coin then moon coral leopard census age tooth student laugh please robust";
+var mnemonic = "size assume leg woman damp battle weekend wasp hockey virtual cattle predict";

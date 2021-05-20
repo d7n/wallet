@@ -1,1 +1,1 @@
-var mnemonic = "pride found midnight enact multiply cricket course any only match phrase album";
+var mnemonic = "this accident unlock soft drink hold mushroom digital glue alter cannon fine";

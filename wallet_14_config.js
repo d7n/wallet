@@ -1,1 +1,1 @@
-var mnemonic = "seek hold crumble flash unlock interest follow skate dignity length whisper flock";
+var mnemonic = "dust match success depth frown visual fuel imitate festival virus caution moment";

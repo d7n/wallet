@@ -1,1 +1,1 @@
-var mnemonic = "fortune floor base gallery modify hobby fatal field valve rigid melody actual";
+var mnemonic = "oxygen genius grace neutral goat admit fiction clerk garment real rookie gas";

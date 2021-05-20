@@ -1,1 +1,1 @@
-var mnemonic = "lizard sound indoor rug mandate bundle enter barely chat page icon great";
+var mnemonic = "wolf clap harsh apple gift story network song shy answer inject awesome";

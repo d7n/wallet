@@ -1,1 +1,1 @@
-var mnemonic = "scheme release blind walk slender wear gift tomato baby cluster movie spot";
+var mnemonic = "exist trust page element fox gauge sort squirrel famous double term forest";

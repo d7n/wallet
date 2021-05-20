@@ -1,1 +1,1 @@
-var mnemonic = "goddess network toward fit like display dry bar work member clay fatal";
+var mnemonic = "ginger hundred cruise mad elite execute innocent install cannon ugly plunge oppose";

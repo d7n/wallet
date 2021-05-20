@@ -1,1 +1,1 @@
-var mnemonic = "divert measure old excess borrow knife unaware catch kiss boat damage trend";
+var mnemonic = "barrel crater sentence critic pact gossip oven must draw please salute safe";

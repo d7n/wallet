@@ -1,1 +1,1 @@
-var mnemonic = "fossil wage split oppose aunt speak elbow code clay slice vendor output";
+var mnemonic = "parade combine concert theme exist mix index reason utility wish toss helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial duty often oblige prevent electric slide raccoon jar scout honey evil";
+var mnemonic = "riot announce canyon bargain hand razor funny quarter artefact great hard hub";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence phone fine artwork cereal slab decorate embark custom kiss blast ancient";
+var mnemonic = "hill media area bench this three over never lake list style wheel";

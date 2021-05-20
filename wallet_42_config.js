@@ -1,1 +1,1 @@
-var mnemonic = "picture daring have deny page result century library question glow possible key";
+var mnemonic = "edit shine select chuckle sleep wrong toast jazz buyer mixed whale sword";

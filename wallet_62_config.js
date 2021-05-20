@@ -1,1 +1,1 @@
-var mnemonic = "smoke wool height calm mule wire skirt skin eye armor under lucky";
+var mnemonic = "rifle enroll dolphin improve soul able square jeans rack accuse another shield";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub wool shop ten arm dice token head false pelican alpha judge";
+var mnemonic = "exhibit regular rare cycle wool first mention among between attend nerve jacket";

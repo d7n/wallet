@@ -1,1 +1,1 @@
-var mnemonic = "shrimp flip draw verb portion faculty approve detail claim matrix unable swing";
+var mnemonic = "carpet federal elite shoe abandon have network slender service member combine beach";

@@ -1,1 +1,1 @@
-var mnemonic = "marble happy toast bind decorate spawn fancy midnight extend fabric tank vivid";
+var mnemonic = "pill path marriage solution mosquito excuse save joy wrap drip wrist danger";

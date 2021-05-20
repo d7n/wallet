@@ -1,1 +1,1 @@
-var mnemonic = "put clog wolf glare into peanut myth uncover wrist twin occur miracle";
+var mnemonic = "web dumb scout brisk paddle uncover genre lady artefact whip arrow adult";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff street shine stock rude maximum swear okay speed later turtle stand";
+var mnemonic = "setup birth kitchen nest dismiss brown fancy audit increase life upgrade radio";

@@ -1,1 +1,1 @@
-var mnemonic = "wire swift level drop cereal erosion garden cushion finish disagree oxygen resource";
+var mnemonic = "banana boss blush mass hedgehog must edit member dial misery sponsor have";

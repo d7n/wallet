@@ -1,1 +1,1 @@
-var mnemonic = "destroy table rhythm snow toward client work chair review bundle harsh muscle";
+var mnemonic = "attend snake primary mask easily mystery hobby fringe adjust invest bubble enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "vital round surprise treat enable friend carry walnut meat crawl occur describe";
+var mnemonic = "require option tag shallow wing feed leisure use merit jar share slender";

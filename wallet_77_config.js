@@ -1,1 +1,1 @@
-var mnemonic = "maple leopard brother remain cream clerk salad mobile kingdom weather potato truly";
+var mnemonic = "melt sorry exotic jungle network bulk clock chunk space plate cluster old";

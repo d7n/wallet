@@ -1,1 +1,1 @@
-var mnemonic = "aerobic owner unaware goddess oblige lake runway neutral lecture quit arrest forum";
+var mnemonic = "tape across actor cart mechanic defense foster answer vacuum can number tomato";

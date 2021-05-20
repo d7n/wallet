@@ -1,1 +1,1 @@
-var mnemonic = "hour million apart photo animal month jealous link surprise spread grant clown";
+var mnemonic = "six man misery glance seven afraid legend daughter mix chest keep bonus";

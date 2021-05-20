@@ -1,1 +1,1 @@
-var mnemonic = "number cement broken pretty begin normal impact loan kangaroo come lift inspire";
+var mnemonic = "gather bundle minimum gather angry balcony crew crime ice people dry opinion";

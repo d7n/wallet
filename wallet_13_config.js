@@ -1,1 +1,1 @@
-var mnemonic = "gospel roast subway interest ritual salad muscle balance must run era first";
+var mnemonic = "spring basic west economy much inherit whale address card shine size moral";

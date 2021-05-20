@@ -1,1 +1,1 @@
-var mnemonic = "gallery grid family canyon oil distance best relax lonely journey regular recall";
+var mnemonic = "response solid swamp genius exist judge desk battle token negative valve cigar";

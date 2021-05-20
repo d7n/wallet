@@ -1,1 +1,1 @@
-var mnemonic = "vessel crystal bulk sting decrease afraid perfect pattern gorilla face confirm portion";
+var mnemonic = "define merit confirm area bird subject aisle erosion clog correct boat satoshi";

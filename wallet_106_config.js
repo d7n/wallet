@@ -1,1 +1,1 @@
-var mnemonic = "wrestle elbow draw call secret wagon enrich icon false try gold finish";
+var mnemonic = "assume income pelican rapid canyon flee chunk soon evidence bullet ivory street";

@@ -1,1 +1,1 @@
-var mnemonic = "split stone caution dial receive dwarf type fancy now ready slide nothing";
+var mnemonic = "analyst village mouse frequent iron cash pear sight drill differ pulp forward";

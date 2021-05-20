@@ -1,1 +1,1 @@
-var mnemonic = "empower forward puppy upset business satoshi buddy myself soul border jealous unlock";
+var mnemonic = "diary extend enroll sniff approve secret twenty critic minor regular country card";

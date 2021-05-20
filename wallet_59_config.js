@@ -1,1 +1,1 @@
-var mnemonic = "habit dismiss twist limb involve pioneer flat wine street episode slide example";
+var mnemonic = "balcony unknown bench picture poverty more screen autumn economy office drip direct";

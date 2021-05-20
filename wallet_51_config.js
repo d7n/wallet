@@ -1,1 +1,1 @@
-var mnemonic = "remind script analyst flash race inside reflect roof hedgehog credit color buffalo";
+var mnemonic = "jealous vehicle embark because abuse loud never region arm skirt doll copper";

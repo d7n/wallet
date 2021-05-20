@@ -1,1 +1,1 @@
-var mnemonic = "talk gap empty never interest demand master cool echo clarify scout furnace";
+var mnemonic = "basket typical dust genuine heavy brother expect scene buffalo matrix vote use";

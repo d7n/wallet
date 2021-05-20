@@ -1,1 +1,1 @@
-var mnemonic = "glow nominee company theme sentence satoshi leader doctor moral raven again honey";
+var mnemonic = "hair oyster proof tackle spatial chair cake sausage pen come border top";

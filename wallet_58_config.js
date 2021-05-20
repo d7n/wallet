@@ -1,1 +1,1 @@
-var mnemonic = "child caught rebel ship involve library voyage puzzle still arrow mail day";
+var mnemonic = "steak senior cargo private clip hill estate actual summer mad grape crane";

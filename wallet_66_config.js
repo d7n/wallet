@@ -1,1 +1,1 @@
-var mnemonic = "slogan outside street river twelve shrimp coffee possible verify cherry lyrics obvious";
+var mnemonic = "isolate steak supreme mobile arena cram dutch expose reunion please orange length";

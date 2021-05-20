@@ -1,1 +1,1 @@
-var mnemonic = "lock more annual divert grit run fat license tag giggle popular antique";
+var mnemonic = "price story loyal powder hobby earn broccoli slim crouch enforce same road";

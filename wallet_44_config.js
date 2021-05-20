@@ -1,1 +1,1 @@
-var mnemonic = "else material nominee wood lottery knock utility letter supply color true category";
+var mnemonic = "road lucky true trophy guard cupboard similar faith depend stem paddle enact";

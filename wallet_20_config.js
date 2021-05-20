@@ -1,1 +1,1 @@
-var mnemonic = "fire border soul exhaust weasel camp agent ankle wide gloom scale pink";
+var mnemonic = "erupt sample correct birth dizzy culture lottery soap decrease zone quarter pole";

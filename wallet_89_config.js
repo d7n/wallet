@@ -1,1 +1,1 @@
-var mnemonic = "business vast grass cook aim motion shy hip atom diamond carpet share";
+var mnemonic = "under fashion auto brave gather raw future squeeze control conduct federal purity";

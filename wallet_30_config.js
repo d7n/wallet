@@ -1,1 +1,1 @@
-var mnemonic = "update icon enroll pizza agree canyon amused weapon exile explain topic margin";
+var mnemonic = "sick kidney teach deposit whisper saddle snap genre bacon boring donkey bundle";

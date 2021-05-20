@@ -1,1 +1,1 @@
-var mnemonic = "napkin warfare offer cat faint walk thumb diesel climb blast begin embody";
+var mnemonic = "warfare mercy program praise lion cage tonight seed next ivory ridge emerge";

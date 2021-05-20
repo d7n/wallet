@@ -1,1 +1,1 @@
-var mnemonic = "rather script window meadow build usual auction sure loyal museum essence domain";
+var mnemonic = "surround flame roast wheel tonight tag tomato naive media cherry grant detect";

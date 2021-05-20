@@ -1,1 +1,1 @@
-var mnemonic = "face ripple orbit school snack organ relief govern jar legend brave carpet";
+var mnemonic = "scrap apart tree gain estate secret mountain nothing harbor mutual air write";

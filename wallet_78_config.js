@@ -1,1 +1,1 @@
-var mnemonic = "alley nuclear crisp welcome dawn calm option private laundry then inch such";
+var mnemonic = "lunch excess pair bacon okay lottery damage dance target spoon chest volume";

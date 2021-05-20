@@ -1,1 +1,1 @@
-var mnemonic = "version fury art lumber liberty stool analyst boy elegant nature very emerge";
+var mnemonic = "oven license deliver huge page tiger slogan tank basic couch alarm suit";

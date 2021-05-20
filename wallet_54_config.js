@@ -1,1 +1,1 @@
-var mnemonic = "soccer citizen valid plug secret borrow model equip rhythm history rent sock";
+var mnemonic = "cry balance extra smile sketch dune culture fiction laptop street track deliver";

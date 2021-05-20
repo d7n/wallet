@@ -1,1 +1,1 @@
-var mnemonic = "myth future expand bid eagle good diesel desert naive cliff job picnic";
+var mnemonic = "course verify warm topic captain observe swing crater family jaguar field panic";

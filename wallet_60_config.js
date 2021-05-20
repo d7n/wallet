@@ -1,1 +1,1 @@
-var mnemonic = "limb number track never magnet club draw ordinary combine text fuel fluid";
+var mnemonic = "dry focus fit apple fantasy air tonight friend clerk broom spice kite";
