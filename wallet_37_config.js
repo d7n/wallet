@@ -1,1 +1,1 @@
-var mnemonic = "gossip point group train cheese beauty unaware enjoy boss poet lunar gauge";
+var mnemonic = "toe uniform gasp panda voice purpose side enforce rifle spirit screen motion";

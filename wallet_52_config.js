@@ -1,1 +1,1 @@
-var mnemonic = "exit destroy butter question ranch theme credit monkey label reveal matter zoo";
+var mnemonic = "rotate life trim already crane sound potato tip laptop random shell venture";

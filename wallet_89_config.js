@@ -1,1 +1,1 @@
-var mnemonic = "soda click daring emerge garment heavy finish cheap idea bubble avocado thrive";
+var mnemonic = "jacket screen opera minor athlete dry web click trap lyrics enter culture";

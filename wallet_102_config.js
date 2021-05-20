@@ -1,1 +1,1 @@
-var mnemonic = "injury twist truth doll erode fatigue cloud stick dwarf speak key buyer";
+var mnemonic = "tool brave ability rival bargain three beef bundle energy anchor expect venture";

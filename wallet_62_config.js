@@ -1,1 +1,1 @@
-var mnemonic = "local brass dream crawl approve almost away sudden black force embrace true";
+var mnemonic = "fade depart cupboard skirt arm arrow link melt color hundred kitchen empower";

@@ -1,1 +1,1 @@
-var mnemonic = "case smart wall barrel slogan paddle kidney rapid source crush vacant mammal";
+var mnemonic = "ancient forward segment where awake strategy situate cram admit hundred mansion shadow";

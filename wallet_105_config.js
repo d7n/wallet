@@ -1,1 +1,1 @@
-var mnemonic = "machine alley praise afraid link tone shine alter empty twelve badge exchange";
+var mnemonic = "desk soda depth danger floor trim utility apart change scheme coffee carry";

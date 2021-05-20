@@ -1,1 +1,1 @@
-var mnemonic = "bamboo urge tip fatigue message describe margin man riot three world kitten";
+var mnemonic = "cactus build bulb lucky domain license sock example voice pause thought three";

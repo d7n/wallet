@@ -1,1 +1,1 @@
-var mnemonic = "saddle bone spike tumble soul topple dilemma empty foil west license luggage";
+var mnemonic = "shell album deliver air rapid color plastic ocean solid repair rebuild truly";

@@ -1,1 +1,1 @@
-var mnemonic = "call refuse opera throw bar twice ice saddle phone swap airport cheese";
+var mnemonic = "spoon fiction chuckle quarter secret doll slot exercise brain taste okay history";

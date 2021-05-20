@@ -1,1 +1,1 @@
-var mnemonic = "evidence guard until action argue source point file argue review drop can";
+var mnemonic = "post elbow olympic name steak remind foam slim crane plunge emotion valid";

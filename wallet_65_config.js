@@ -1,1 +1,1 @@
-var mnemonic = "negative culture angle figure chalk imitate vault daughter divert slight climb identify";
+var mnemonic = "panda admit clinic sadness apart mystery bind nuclear solid place evolve wedding";

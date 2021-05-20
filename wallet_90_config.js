@@ -1,1 +1,1 @@
-var mnemonic = "snake satisfy soft excite powder swear pottery various enable lab stairs nest";
+var mnemonic = "clown ski call purse young culture velvet estate aim sting rubber spend";

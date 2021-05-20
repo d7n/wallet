@@ -1,1 +1,1 @@
-var mnemonic = "old horn glory purse spare festival off miss zero view current coast";
+var mnemonic = "orphan zoo stem local shaft ozone bird sponsor trash delay kiss spice";

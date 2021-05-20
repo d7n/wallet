@@ -1,1 +1,1 @@
-var mnemonic = "net since multiply regret wood blue beef pact poet parent shine like";
+var mnemonic = "diamond wolf december glad glass mutual tuna enact flash game blouse bike";

@@ -1,1 +1,1 @@
-var mnemonic = "hill clean bracket toss clerk rack short avoid right speed label enhance";
+var mnemonic = "taste tourist february ecology cake banana cinnamon grain lyrics roast quality major";

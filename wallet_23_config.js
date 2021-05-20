@@ -1,1 +1,1 @@
-var mnemonic = "super all pen twin plug since join regret flush embark wreck brown";
+var mnemonic = "grow gravity fence lunar brief bacon cricket leader act absurd effort course";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue wrist define van inquiry interest choose verb denial give alley legal";
+var mnemonic = "rally crunch tortoise until awesome only verb toilet brain deal curve cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "physical put air flush chimney universe cannon quiz direct write pizza arrive";
+var mnemonic = "circle whisper achieve six barrel better injury produce cabin primary siren proud";

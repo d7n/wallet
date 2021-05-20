@@ -1,1 +1,1 @@
-var mnemonic = "harbor nurse search area canyon palm long library pass wrist robust smooth";
+var mnemonic = "glare civil strike crater kidney angle myself job unit salute regret onion";

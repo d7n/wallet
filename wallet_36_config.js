@@ -1,1 +1,1 @@
-var mnemonic = "olympic name token certain chimney stem brain exhaust blast taxi gas hungry";
+var mnemonic = "payment bicycle please boy cash flavor transfer piece silent mixture call toward";

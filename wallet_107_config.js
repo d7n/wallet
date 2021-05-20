@@ -1,1 +1,1 @@
-var mnemonic = "once rice employ useful torch ugly speak fossil casual force diagram bench";
+var mnemonic = "nominee toddler nothing exact lucky bone invite trade hero thrive match mean";

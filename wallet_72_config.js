@@ -1,1 +1,1 @@
-var mnemonic = "grit concert slide ring slim obvious focus carbon head claw snap fancy";
+var mnemonic = "shallow eager hurdle group grid symbol guitar advice ski horror october hazard";

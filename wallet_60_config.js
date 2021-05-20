@@ -1,1 +1,1 @@
-var mnemonic = "simple away divide tuition second offer answer element omit custom giggle paper";
+var mnemonic = "clump mixture number return castle shift bright village height smart label another";

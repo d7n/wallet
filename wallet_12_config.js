@@ -1,1 +1,1 @@
-var mnemonic = "walk good found margin little brass art cost disease drip actual isolate";
+var mnemonic = "where toilet delay shove popular myth advance drama spoon blade suit kind";

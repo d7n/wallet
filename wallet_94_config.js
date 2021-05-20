@@ -1,1 +1,1 @@
-var mnemonic = "robust acquire arctic drip seat lesson kind reveal essay clown record main";
+var mnemonic = "skull oyster connect apple foster draw swamp advice century sponsor december genius";

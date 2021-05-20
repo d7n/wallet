@@ -1,1 +1,1 @@
-var mnemonic = "bar slight bamboo middle together accident clog dwarf alert cabin bulk shock";
+var mnemonic = "decide crouch harsh undo cargo million body raise jealous wild kitten faint";

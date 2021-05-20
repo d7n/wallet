@@ -1,1 +1,1 @@
-var mnemonic = "west photo luxury urban inside nephew more soccer vanish upper river absorb";
+var mnemonic = "impulse scatter horror crowd art visa predict stumble flock peace mosquito weapon";

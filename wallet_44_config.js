@@ -1,1 +1,1 @@
-var mnemonic = "pave fragile chat power discover capital decline angry priority better buzz husband";
+var mnemonic = "silk raven blanket vibrant patient obtain route afraid breeze junior purity absurd";

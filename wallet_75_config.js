@@ -1,1 +1,1 @@
-var mnemonic = "slice pony canoe satisfy same diet trust october original plate couch genuine";
+var mnemonic = "table prize pottery artist silly guard vague face click soda tent twelve";

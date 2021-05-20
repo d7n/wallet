@@ -1,1 +1,1 @@
-var mnemonic = "alarm regret daughter arrow alter taste behave also sense comic tenant shoe";
+var mnemonic = "wrestle end daughter depend steak swim elegant enforce deliver theory chalk bulk";

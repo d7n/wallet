@@ -1,1 +1,1 @@
-var mnemonic = "auto action insane soldier senior section toss fine improve slow ask south";
+var mnemonic = "regret guard correct local online fatigue blur twin text chef phone security";

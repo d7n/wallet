@@ -1,1 +1,1 @@
-var mnemonic = "index trash replace flash stable spoil where rely night expect stove limb";
+var mnemonic = "label bright lock assume sand mean reopen option grab dream usual reform";

@@ -1,1 +1,1 @@
-var mnemonic = "humor neutral jewel under design mountain symbol message collect limit toward faculty";
+var mnemonic = "surge erode profit laptop subject flavor web sample robust oval slot atom";

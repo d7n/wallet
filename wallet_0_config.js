@@ -1,1 +1,1 @@
-var mnemonic = "pet sausage skirt tackle shock mystery adjust chimney image midnight mobile case";
+var mnemonic = "cancel fold junk limb stay pyramid round dose icon pencil permit witness";

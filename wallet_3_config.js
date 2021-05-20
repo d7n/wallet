@@ -1,1 +1,1 @@
-var mnemonic = "horn success churn sleep hurry session couch earth news produce company kiss";
+var mnemonic = "elegant food mask knock stay forward phrase tongue life inquiry math kite";

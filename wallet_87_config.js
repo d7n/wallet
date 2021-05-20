@@ -1,1 +1,1 @@
-var mnemonic = "small funny dice name curtain gaze section always monkey alone ski lucky";
+var mnemonic = "hood smile license amazing absorb brother boss pact patient worth twice type";

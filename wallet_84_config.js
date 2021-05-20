@@ -1,1 +1,1 @@
-var mnemonic = "square silver diary author wait echo use dilemma social other chief metal";
+var mnemonic = "patrol struggle cream betray famous unique retreat lucky tooth stick decorate salmon";

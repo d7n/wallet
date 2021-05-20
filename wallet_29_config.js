@@ -1,1 +1,1 @@
-var mnemonic = "cluster current mechanic broken basic entire relief damage jacket miss scorpion setup";
+var mnemonic = "hair rib ability someone combine hair column tooth canyon mushroom step law";

@@ -1,1 +1,1 @@
-var mnemonic = "melt unable purity glide dilemma hammer suffer plunge cost alpha test now";
+var mnemonic = "possible minimum critic across artist joke fat favorite order style dragon danger";

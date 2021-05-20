@@ -1,1 +1,1 @@
-var mnemonic = "owner endless mule crowd pudding tobacco clean million they cliff shy observe";
+var mnemonic = "castle human icon female twice wrap spoil quick few action street sick";

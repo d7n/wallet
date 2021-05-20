@@ -1,1 +1,1 @@
-var mnemonic = "assault term antique strategy snack valve cannon mansion hundred purity cricket stand";
+var mnemonic = "sadness keep short august tube potato lamp math rebel guard pistol hawk";

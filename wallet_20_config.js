@@ -1,1 +1,1 @@
-var mnemonic = "stool hundred toss hybrid pretty afford island crowd foam cause motor address";
+var mnemonic = "basket desert merge nest silver manage siren comic moment parent case useless";

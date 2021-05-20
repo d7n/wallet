@@ -1,1 +1,1 @@
-var mnemonic = "artist favorite immense depth pact chase into segment pink pass train choice";
+var mnemonic = "friend garlic winner civil onion doll science pepper leave sausage coyote wreck";

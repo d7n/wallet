@@ -1,1 +1,1 @@
-var mnemonic = "table yard black radio fence wheat permit invest garment rug nose result";
+var mnemonic = "cactus alone helmet candy will half ski sense mercy enhance bomb canvas";

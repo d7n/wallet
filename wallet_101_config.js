@@ -1,1 +1,1 @@
-var mnemonic = "ginger pink slogan friend dolphin bless trust spring fiscal pony pride swarm";
+var mnemonic = "bar kitchen trouble explain begin consider distance film hub between multiply blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "produce alter raccoon senior thumb punch smile cattle stem rare vague angle";
+var mnemonic = "lemon canyon over tank inside gold bubble cabbage hour dune floor phone";

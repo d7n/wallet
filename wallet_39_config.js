@@ -1,1 +1,1 @@
-var mnemonic = "snake gasp orient someone arena inflict empty person raise hospital length float";
+var mnemonic = "future chunk person basket present parent only height north grass people frost";

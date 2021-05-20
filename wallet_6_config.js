@@ -1,1 +1,1 @@
-var mnemonic = "marine what matrix action april cruise puppy head wrong coin museum black";
+var mnemonic = "lawsuit crack weather crunch infant monitor sing movie already taxi detect oyster";

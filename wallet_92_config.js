@@ -1,1 +1,1 @@
-var mnemonic = "elbow bachelor gate please melody wool envelope flame brass soap topic cash";
+var mnemonic = "lawn insect kangaroo balcony flight permit vibrant head math october question antique";

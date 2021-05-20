@@ -1,1 +1,1 @@
-var mnemonic = "inhale now ask maple flash attack host shift home drama warm side";
+var mnemonic = "sun slush reflect echo breeze deputy country master wash pride kind tenant";

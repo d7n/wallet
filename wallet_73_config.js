@@ -1,1 +1,1 @@
-var mnemonic = "bicycle plunge pact camp swear similar behave day link cause reason dry";
+var mnemonic = "vicious figure tank capable fantasy process home odor pledge praise sheriff notable";

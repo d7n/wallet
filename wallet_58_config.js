@@ -1,1 +1,1 @@
-var mnemonic = "copy since total silly enroll cupboard fault lonely rapid inquiry craft flush";
+var mnemonic = "primary sea win warrior undo panther width into hazard lunch siren bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "similar hidden case crash erupt please reduce rich face puzzle page whale";
+var mnemonic = "envelope parrot mean hurdle excite mansion liquid profit decorate abstract boost coconut";

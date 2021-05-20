@@ -1,1 +1,1 @@
-var mnemonic = "net man elite produce hub nasty casino wall wise garbage oppose fat";
+var mnemonic = "arena alcohol hand display dance venture spoil seed dismiss pottery mom page";

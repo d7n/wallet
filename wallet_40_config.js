@@ -1,1 +1,1 @@
-var mnemonic = "impose velvet unlock rice rack jelly twin disease where elevator can average";
+var mnemonic = "obey health maple produce focus ignore gasp corn they ritual egg alien";

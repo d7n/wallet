@@ -1,1 +1,1 @@
-var mnemonic = "agree wish category thought olympic swarm simple fun addict airport hungry apple";
+var mnemonic = "apart bacon glide join peasant later kid fold vapor hockey boring slim";

@@ -1,1 +1,1 @@
-var mnemonic = "april age primary river false bridge maze jungle time sad release cabbage";
+var mnemonic = "farm oven ceiling coil topple list wage process then frog pony kingdom";

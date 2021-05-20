@@ -1,1 +1,1 @@
-var mnemonic = "oil banner antenna try poverty whisper quiz any length country brass wife";
+var mnemonic = "refuse accuse flash document elevator depend culture foot culture logic solve flame";

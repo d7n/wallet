@@ -1,1 +1,1 @@
-var mnemonic = "fruit marble cream tell student vintage okay glue cushion funny olympic unknown";
+var mnemonic = "salon wrist trick pet weasel scrub horror fiction boss dinosaur guide impact";

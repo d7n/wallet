@@ -1,1 +1,1 @@
-var mnemonic = "swift spawn joy soap raw supreme oblige when drift pulse section business";
+var mnemonic = "coil follow light silver radar cheese patch snap glass seven prosper pupil";

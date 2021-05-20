@@ -1,1 +1,1 @@
-var mnemonic = "style foam faint grab cover device pilot minute type draft vendor cake";
+var mnemonic = "normal faith lift lunch dial expire shy donkey dog tide deliver amazing";

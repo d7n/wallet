@@ -1,1 +1,1 @@
-var mnemonic = "wool recycle monkey inherit own until symbol humble lesson melt mansion lounge";
+var mnemonic = "reflect seat window boring hospital rocket celery dinosaur hair ethics home burger";

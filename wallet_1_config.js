@@ -1,1 +1,1 @@
-var mnemonic = "salon frame begin curve coin fold guilt pause episode upper embrace harvest";
+var mnemonic = "quantum eternal wink kiwi involve stay lend reflect target now crystal matter";

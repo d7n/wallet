@@ -1,1 +1,1 @@
-var mnemonic = "dignity round file loop fuel slice junior mercy cliff tuna very wisdom";
+var mnemonic = "depart scene burger essay edit patient update zero present regret rotate nest";

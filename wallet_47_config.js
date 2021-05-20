@@ -1,1 +1,1 @@
-var mnemonic = "ten shift shaft minimum width wood nose echo tourist demise cloth lumber";
+var mnemonic = "upper suit swear loop sadness sausage pistol away cancel royal dice abuse";

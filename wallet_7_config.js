@@ -1,1 +1,1 @@
-var mnemonic = "dish audit van cram rookie acquire cabbage pattern admit tomorrow outdoor spin";
+var mnemonic = "quote romance legend slab merit divorce plunge mango verb position aisle light";

@@ -1,1 +1,1 @@
-var mnemonic = "empty industry away want menu six section confirm umbrella slice social creek";
+var mnemonic = "permit crucial convince oblige drill giggle clutch gas home cattle inject insect";

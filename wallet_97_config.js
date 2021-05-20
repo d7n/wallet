@@ -1,1 +1,1 @@
-var mnemonic = "select fee urban bird tonight donate endorse web spoil buyer cage amount";
+var mnemonic = "subway pole adult audit purchase exercise brother weekend portion ridge item dentist";

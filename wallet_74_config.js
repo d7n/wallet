@@ -1,1 +1,1 @@
-var mnemonic = "culture protect fragile aunt mom layer sentence nice mystery code account bottom";
+var mnemonic = "visa neck venue blanket paper supply also owner load left luxury plastic";

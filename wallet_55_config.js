@@ -1,1 +1,1 @@
-var mnemonic = "enact abstract exhaust image priority cactus expire digital medal area pepper palm";
+var mnemonic = "salt trim mandate route rain degree aerobic mercy debate someone oval govern";

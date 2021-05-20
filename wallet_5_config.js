@@ -1,1 +1,1 @@
-var mnemonic = "tonight piece dirt grant clever alone coral treat pelican practice tell acoustic";
+var mnemonic = "hole manage load select issue reject merge boil canyon acoustic husband abstract";

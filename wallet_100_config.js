@@ -1,1 +1,1 @@
-var mnemonic = "mule vocal visa hen draw giraffe brick warrior canoe banana dawn coach";
+var mnemonic = "same volume always october bridge ritual poverty ripple deer hospital shallow bulk";

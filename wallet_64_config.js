@@ -1,1 +1,1 @@
-var mnemonic = "perfect demand trend enforce dentist small word check intact pass place able";
+var mnemonic = "pretty butter network electric wagon turtle tiny green other admit cross lock";

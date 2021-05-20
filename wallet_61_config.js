@@ -1,1 +1,1 @@
-var mnemonic = "solid planet donkey access artist right erase abuse subway announce pencil bonus";
+var mnemonic = "weapon story area huge evoke winner sausage sample save lend ghost curious";

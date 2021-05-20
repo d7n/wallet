@@ -1,1 +1,1 @@
-var mnemonic = "upset balcony board domain cluster trend above borrow limb sail pill local";
+var mnemonic = "nice ladder quit bacon innocent save jazz rural mistake combine razor what";

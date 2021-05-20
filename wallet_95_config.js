@@ -1,1 +1,1 @@
-var mnemonic = "crunch stumble bubble jungle apart cute roast matter erase daughter category pause";
+var mnemonic = "april detect champion cage mandate second slide cinnamon husband dose unknown aunt";

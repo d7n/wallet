@@ -1,1 +1,1 @@
-var mnemonic = "close original police little crawl echo cousin rule allow chronic iron door";
+var mnemonic = "phone link endorse world now spatial vessel burger obey wrap regret gain";

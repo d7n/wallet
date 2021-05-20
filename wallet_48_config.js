@@ -1,1 +1,1 @@
-var mnemonic = "tunnel village gain again eight craft celery mad define hole tank chalk";
+var mnemonic = "taxi spice purpose second permit deal park travel dolphin aerobic baby beauty";

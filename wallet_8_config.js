@@ -1,1 +1,1 @@
-var mnemonic = "wait rival comfort vocal excess hurt lounge reveal inspire dose soft twin";
+var mnemonic = "vapor know bone shock apart stay depth release romance choice east goose";

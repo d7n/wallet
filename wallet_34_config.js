@@ -1,1 +1,1 @@
-var mnemonic = "because frame rural fat wonder unhappy season exhibit behind device spend gauge";
+var mnemonic = "slide vehicle maximum mushroom canoe alpha side only impulse turn wool glow";

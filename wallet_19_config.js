@@ -1,1 +1,1 @@
-var mnemonic = "smile security fabric blast certain chef define vocal bless easily judge plastic";
+var mnemonic = "bracket pill ankle voyage wild betray rebel trial weasel reason rotate old";

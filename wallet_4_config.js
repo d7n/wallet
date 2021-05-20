@@ -1,1 +1,1 @@
-var mnemonic = "wise muscle average mother dress curious grow juice sing rule split creek";
+var mnemonic = "transfer bleak apart pizza can convince betray athlete abandon hamster tattoo dragon";

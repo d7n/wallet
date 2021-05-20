@@ -1,1 +1,1 @@
-var mnemonic = "harvest chunk tackle rib cost leisure minute rib lazy night labor wing";
+var mnemonic = "twice since much island ribbon caught sun brown large only drama crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse slot bench giant giraffe donkey arctic observe scene panic camp truly";
+var mnemonic = "sustain logic ramp practice divide before proof marble better brown episode borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "network donor silly dash clog entry blush corn region play day orchard";
+var mnemonic = "siege decade struggle bird sing obvious dragon leopard come random goat tower";

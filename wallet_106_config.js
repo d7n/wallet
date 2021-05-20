@@ -1,1 +1,1 @@
-var mnemonic = "category eight ice half shadow clump wage glove spice use earth pudding";
+var mnemonic = "napkin anchor fix rigid rude peace input pelican guide sail oil novel";

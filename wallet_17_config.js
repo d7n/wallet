@@ -1,1 +1,1 @@
-var mnemonic = "lab satoshi mad egg current gloom usual sauce clerk sniff curtain differ";
+var mnemonic = "uniform east arm become lunch abandon story symptom spoil harvest tuna impose";

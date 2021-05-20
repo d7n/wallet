@@ -1,1 +1,1 @@
-var mnemonic = "section chair peasant cook card notice approve old drink kingdom donate era";
+var mnemonic = "tool tomato tourist ankle feel bright reopen enact people afraid dirt appear";

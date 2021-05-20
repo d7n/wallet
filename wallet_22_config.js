@@ -1,1 +1,1 @@
-var mnemonic = "depart list rescue firm mango cash dragon police fetch supply museum flower";
+var mnemonic = "guide history hood tree old imitate boost bulk trap future cover hamster";

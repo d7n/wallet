@@ -1,1 +1,1 @@
-var mnemonic = "chapter ozone oven human forward oxygen surround sudden dose orient cigar depth";
+var mnemonic = "river ecology proud clarify repair stable nuclear own limb hedgehog exhaust shuffle";

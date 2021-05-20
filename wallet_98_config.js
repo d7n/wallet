@@ -1,1 +1,1 @@
-var mnemonic = "baby umbrella pause web bag emotion engine garlic olive expand adjust point";
+var mnemonic = "prepare tilt rely family situate exit promote wheel vehicle shed lottery special";
