@@ -1,1 +1,1 @@
-var mnemonic = "junior friend gun sister swim meat swift comic square same lunch machine";
+var mnemonic = "index mix piano flight ethics outdoor ankle mom cinnamon luxury kite you";

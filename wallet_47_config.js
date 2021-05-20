@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin spring laptop acoustic teach salad heart mask destroy like pair derive";
+var mnemonic = "reveal term horn neck remove impulse fragile legal wear like rib price";

@@ -1,1 +1,1 @@
-var mnemonic = "differ fancy tooth effort book bacon auction cram achieve wrist sock brave";
+var mnemonic = "liberty nothing release worth enlist broken normal foot enforce submit skirt round";

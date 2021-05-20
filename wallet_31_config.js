@@ -1,1 +1,1 @@
-var mnemonic = "say enroll inquiry this ketchup chronic lottery churn pride together nerve battle";
+var mnemonic = "tackle pistol popular zoo rich certain guide wide goddess inspire critic nation";

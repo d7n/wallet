@@ -1,1 +1,1 @@
-var mnemonic = "tray banana bulb tape honey ice place blouse carpet romance security harvest";
+var mnemonic = "lyrics cube swift few cover antenna slim fame clutch mind purchase situate";

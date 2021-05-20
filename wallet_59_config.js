@@ -1,1 +1,1 @@
-var mnemonic = "skirt pepper artist flip witness poet puzzle flight clown error kidney journey";
+var mnemonic = "blast tennis phrase sheriff ritual indicate rabbit glue finger dizzy cereal ethics";

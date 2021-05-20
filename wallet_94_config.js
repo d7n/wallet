@@ -1,1 +1,1 @@
-var mnemonic = "marble atom nasty soccer stone crane dumb usual sleep slice review trophy";
+var mnemonic = "prize what tip thrive detail explain original reject trust regret pizza frown";

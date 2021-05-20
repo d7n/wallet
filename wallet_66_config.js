@@ -1,1 +1,1 @@
-var mnemonic = "series wolf ahead program tattoo style oval near stuff pledge notice play";
+var mnemonic = "arch trophy light link quote canoe claw reunion ready glimpse piece jar";

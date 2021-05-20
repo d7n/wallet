@@ -1,1 +1,1 @@
-var mnemonic = "equal patch love once symptom mad capable uphold label clerk ball panda";
+var mnemonic = "popular frozen crane soft prosper live dust drum obscure panther large baby";

@@ -1,1 +1,1 @@
-var mnemonic = "extend gospel tray human occur ethics gentle finger learn diet exact image";
+var mnemonic = "submit quiz two inherit knee shop soft pool boss when disagree capable";

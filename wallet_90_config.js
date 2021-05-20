@@ -1,1 +1,1 @@
-var mnemonic = "wolf hurry expire elder traffic museum motor way frost one width neither";
+var mnemonic = "rich lake swap lava scan issue crane duty pipe local rescue virtual";

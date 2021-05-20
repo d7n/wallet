@@ -1,1 +1,1 @@
-var mnemonic = "mouse town raccoon shell note royal pelican milk trial faith region blush";
+var mnemonic = "advance discover elite save corn bargain artefact rival okay arm swamp right";

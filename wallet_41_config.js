@@ -1,1 +1,1 @@
-var mnemonic = "sunny vote long glow woman dinner invite dance race black nothing range";
+var mnemonic = "crop around culture clay prepare slim board air provide giant shove whale";

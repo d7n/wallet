@@ -1,1 +1,1 @@
-var mnemonic = "reveal chimney burden orient drastic utility adapt fold say egg tongue social";
+var mnemonic = "urban hobby lion snake course lab canal point rich silly bid liberty";

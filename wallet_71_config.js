@@ -1,1 +1,1 @@
-var mnemonic = "risk argue gas absent capital text sudden despair armor win warrior expose";
+var mnemonic = "nature april clown near sheriff shoe since acoustic since alley wheel color";

@@ -1,1 +1,1 @@
-var mnemonic = "organ virtual luxury foot stone they embrace come tank enter shuffle toast";
+var mnemonic = "candy rent force cereal enrich style velvet horse month drift what guess";

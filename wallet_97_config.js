@@ -1,1 +1,1 @@
-var mnemonic = "talk target emerge upgrade wild nephew inspire mutual when canal fortune vocal";
+var mnemonic = "match company company typical subway punch stairs latin loud gloom design help";

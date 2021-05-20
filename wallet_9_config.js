@@ -1,1 +1,1 @@
-var mnemonic = "seek rural coral ahead fold deliver riot consider jaguar section father strategy";
+var mnemonic = "view height peanut rifle elevator honey moral over weasel heart plastic rubber";

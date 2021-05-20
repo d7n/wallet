@@ -1,1 +1,1 @@
-var mnemonic = "judge awful veteran rescue couple mistake food helmet enough expect lamp monkey";
+var mnemonic = "swap achieve rally shuffle mouse expire elevator plunge water course comic possible";

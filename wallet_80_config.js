@@ -1,1 +1,1 @@
-var mnemonic = "weird gossip surge nuclear pause ozone ball business favorite found rigid negative";
+var mnemonic = "trouble live shrimp train hard awesome gravity jealous busy sunset segment undo";

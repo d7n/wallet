@@ -1,1 +1,1 @@
-var mnemonic = "vital move scene canyon canoe indicate enrich path rural crash crew suggest";
+var mnemonic = "ginger mirror exotic wrap crunch disease village subject split rally diagram stuff";

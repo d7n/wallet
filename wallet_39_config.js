@@ -1,1 +1,1 @@
-var mnemonic = "know program wear winter latin combine gesture smile planet laugh moment junk";
+var mnemonic = "rate scare seed venture party decorate warfare civil satoshi antique cruel guide";

@@ -1,1 +1,1 @@
-var mnemonic = "auto nasty merge cover flush order vivid cute group fabric forward pulse";
+var mnemonic = "inch benefit session render shoulder domain crisp fashion cost elbow gasp piece";

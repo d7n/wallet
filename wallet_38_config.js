@@ -1,1 +1,1 @@
-var mnemonic = "update frown entire horn grass involve female balcony panda ethics weapon fine";
+var mnemonic = "antique impose dolphin world flock magic worry holiday hurt marine assume drastic";

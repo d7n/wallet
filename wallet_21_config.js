@@ -1,1 +1,1 @@
-var mnemonic = "problem tell gift patient escape feed trick cereal acquire odor will hotel";
+var mnemonic = "inject exchange kind figure since summer indoor tank attract caught uncle glow";

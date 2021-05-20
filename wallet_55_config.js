@@ -1,1 +1,1 @@
-var mnemonic = "explain chief best scrub puzzle replace liquid grief security flame left before";
+var mnemonic = "mimic era transfer diamond slight airport curtain diary lottery express alone explain";

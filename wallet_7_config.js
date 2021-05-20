@@ -1,1 +1,1 @@
-var mnemonic = "left cloth radar clip blush business future extra zebra swamp orient swear";
+var mnemonic = "tongue income army save erase harvest lens century giant equip thank topic";

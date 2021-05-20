@@ -1,1 +1,1 @@
-var mnemonic = "okay day avocado enrich rather into arch retreat success castle eyebrow cricket";
+var mnemonic = "receive leader yellow bicycle desert ketchup again crunch fit cover age globe";

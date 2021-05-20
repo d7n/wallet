@@ -1,1 +1,1 @@
-var mnemonic = "inmate nest found trick maple purse inject topple seat street donor move";
+var mnemonic = "allow lunch undo permit bulk reward build misery plastic extra afraid lounge";

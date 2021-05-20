@@ -1,1 +1,1 @@
-var mnemonic = "into fruit detect heavy squeeze sand useless evidence forget museum slice crisp";
+var mnemonic = "valid useful high romance produce share latin tube lemon couch allow damage";

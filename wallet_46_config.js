@@ -1,1 +1,1 @@
-var mnemonic = "brush mix ten chair reform gym slab equal saddle husband jacket discover";
+var mnemonic = "help critic barely laugh popular side kitten reason sand taste express color";

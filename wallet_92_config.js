@@ -1,1 +1,1 @@
-var mnemonic = "cradle average dial still govern bring friend bar surround person trigger nurse";
+var mnemonic = "rent busy saddle teach neck skin solve nuclear great dune palm know";

@@ -1,1 +1,1 @@
-var mnemonic = "spice pet surprise raw young outside scatter suggest coil pink satoshi expire";
+var mnemonic = "speed aisle print obscure grid south render lady cricket kit merit shell";

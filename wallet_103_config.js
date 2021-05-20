@@ -1,1 +1,1 @@
-var mnemonic = "useful trick vault verify pupil quick butter cotton injury bar purse monitor";
+var mnemonic = "horse tape shiver oyster nuclear knock joy cherry hollow portion praise fix";

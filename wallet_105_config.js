@@ -1,1 +1,1 @@
-var mnemonic = "music music clinic wear knock major adult digital hurry stereo radar champion";
+var mnemonic = "fossil afford want taste eye domain sphere vault estate range annual spare";

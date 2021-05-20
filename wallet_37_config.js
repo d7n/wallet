@@ -1,1 +1,1 @@
-var mnemonic = "lumber afraid zone focus brown gadget cradle letter asthma laundry short conduct";
+var mnemonic = "mix enjoy village edge dawn water letter scheme federal near palace that";

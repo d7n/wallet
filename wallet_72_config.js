@@ -1,1 +1,1 @@
-var mnemonic = "prison angry vicious giraffe say ship prison earth total vault wise casino";
+var mnemonic = "save injury denial afraid logic firm arrow law hair crime zoo month";

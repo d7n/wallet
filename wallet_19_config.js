@@ -1,1 +1,1 @@
-var mnemonic = "tray load brown critic measure harvest occur problem torch soap game apology";
+var mnemonic = "process person candy craft forward kingdom cannon away orphan garlic energy palace";

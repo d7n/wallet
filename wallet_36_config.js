@@ -1,1 +1,1 @@
-var mnemonic = "mechanic silver boring build consider arctic audit client sand course brass audit";
+var mnemonic = "valve survey critic cattle tissue dumb stone dutch clown tourist finish gaze";

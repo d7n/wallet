@@ -1,1 +1,1 @@
-var mnemonic = "plate select loop couch gain huge consider cliff doll skin garden consider";
+var mnemonic = "victory worth suit spike convince bus rain broken auction cliff pluck enroll";

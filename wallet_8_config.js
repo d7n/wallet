@@ -1,1 +1,1 @@
-var mnemonic = "first paddle debate boil spoil ripple ill section apple digital summer stable";
+var mnemonic = "until august omit unfair mass jungle glare blue wage possible tag manage";

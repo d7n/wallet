@@ -1,1 +1,1 @@
-var mnemonic = "trumpet prepare since slim armor clown shrimp fall grape embark short bid";
+var mnemonic = "wheel select depth hunt shy heart spray profit abuse surround whisper fire";

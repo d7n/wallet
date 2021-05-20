@@ -1,1 +1,1 @@
-var mnemonic = "mercy spring anger medal session awful dog pattern dynamic follow business used";
+var mnemonic = "owner old cream topic lamp poet segment attend bulb document lonely solar";

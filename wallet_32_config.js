@@ -1,1 +1,1 @@
-var mnemonic = "squeeze cram genuine wagon female prize ecology upper element green consider rule";
+var mnemonic = "permit art peanut cart true bone robust elite learn inquiry cigar fall";

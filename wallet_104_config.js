@@ -1,1 +1,1 @@
-var mnemonic = "wrist front until mirror proof north position receive coil pistol maple fix";
+var mnemonic = "future banner blanket insect nurse exile result duck drink bomb kiss taste";

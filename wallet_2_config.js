@@ -1,1 +1,1 @@
-var mnemonic = "panel field try detect mother swamp glove answer tower avocado vapor defense";
+var mnemonic = "radar jungle chronic summer release razor view wood friend enact topple wisdom";

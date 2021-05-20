@@ -1,1 +1,1 @@
-var mnemonic = "tail arrange gown thrive copper rubber bring boy exit pass live coast";
+var mnemonic = "crush ring first crouch thunder symbol ready long expire decade note desert";

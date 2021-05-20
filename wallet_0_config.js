@@ -1,1 +1,1 @@
-var mnemonic = "leaf unhappy believe embrace together movie wreck weapon survey fantasy please dawn";
+var mnemonic = "state park survey then force quantum chuckle wink indoor cash swamp aisle";

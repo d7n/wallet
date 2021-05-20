@@ -1,1 +1,1 @@
-var mnemonic = "sugar over abandon radio village machine phone gloom syrup parrot garment act";
+var mnemonic = "radar volume index steel mercy south cash sniff lunar hole return lab";

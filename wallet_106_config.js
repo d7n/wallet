@@ -1,1 +1,1 @@
-var mnemonic = "cream punch potato lion bag rookie parrot three thank obtain hedgehog end";
+var mnemonic = "spider payment supreme film level edit option round kiss legend scheme zoo";

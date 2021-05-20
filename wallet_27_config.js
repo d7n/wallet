@@ -1,1 +1,1 @@
-var mnemonic = "chronic sing flag race deny horse soft addict oil dentist shell eternal";
+var mnemonic = "share weasel enhance wisdom decorate prevent upgrade fiber arch what fold thrive";

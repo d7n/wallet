@@ -1,1 +1,1 @@
-var mnemonic = "eagle replace staff eye excuse possible segment rabbit lazy vehicle stumble clever";
+var mnemonic = "tomorrow radar sibling smoke poem catalog member notable spice until claw rival";

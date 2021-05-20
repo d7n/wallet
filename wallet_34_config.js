@@ -1,1 +1,1 @@
-var mnemonic = "venture velvet token mom sniff toy cube whip crystal bike govern volume";
+var mnemonic = "liberty enlist flee buzz one false lawn any adapt inspire sample denial";

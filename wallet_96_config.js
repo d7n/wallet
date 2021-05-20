@@ -1,1 +1,1 @@
-var mnemonic = "clog wrap cream fly load mixture luxury picnic fiber mango inner symbol";
+var mnemonic = "narrow fold energy change limb drama cup cook evil any river hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "license demise spot ceiling finger square punch brain retreat pen coast lemon";
+var mnemonic = "dismiss medal sea material bleak churn butter runway brisk hour avocado box";

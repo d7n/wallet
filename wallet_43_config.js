@@ -1,1 +1,1 @@
-var mnemonic = "mixture result crew install volume patch cruel pattern soul online volcano dust";
+var mnemonic = "during inspire detect miracle original vast float owner bird payment august aisle";

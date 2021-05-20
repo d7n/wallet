@@ -1,1 +1,1 @@
-var mnemonic = "material sand nephew decade cube squeeze review ridge concert abstract salad wrist";
+var mnemonic = "left duck used pole blood magnet maid settle forum lonely coin walnut";

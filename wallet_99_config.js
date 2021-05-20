@@ -1,1 +1,1 @@
-var mnemonic = "robot happy cloud position leopard rapid kangaroo female later horse direct sun";
+var mnemonic = "name pencil jazz bid sword picnic slice plate travel basket novel blush";

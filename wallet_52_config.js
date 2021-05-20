@@ -1,1 +1,1 @@
-var mnemonic = "bread grief another scatter paper funny actress vague kick make assist champion";
+var mnemonic = "plunge dial rule sail track salad fog census exotic already provide powder";

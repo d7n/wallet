@@ -1,1 +1,1 @@
-var mnemonic = "grit replace hungry custom bounce electric all gift opera clog city chase";
+var mnemonic = "level phone swap squeeze panic shell jelly lucky airport sheriff nothing problem";

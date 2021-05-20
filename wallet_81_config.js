@@ -1,1 +1,1 @@
-var mnemonic = "head chat sponsor asset sense tide where next attack color bamboo purpose";
+var mnemonic = "bread sing cloth shine breeze major fee huge quit opinion minor can";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney sad draw crunch picnic green bring axis rice wheat unique source";
+var mnemonic = "fiscal mule gold vintage dizzy scheme medal door swamp orchard fish orphan";

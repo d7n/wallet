@@ -1,1 +1,1 @@
-var mnemonic = "guitar almost rain pair badge cave soap three notable rotate mosquito dentist";
+var mnemonic = "home trouble sight region rely hundred swim subway noble anchor sweet expect";

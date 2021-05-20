@@ -1,1 +1,1 @@
-var mnemonic = "burger gaze dog army worth pride business document shift size interest path";
+var mnemonic = "coyote useful this joy dizzy program river educate dignity bike moment marble";

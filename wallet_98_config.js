@@ -1,1 +1,1 @@
-var mnemonic = "advance hold two service pelican convince goddess swing gas warfare hybrid rapid";
+var mnemonic = "harbor almost humble arm subject boat obscure feed ahead type puppy one";

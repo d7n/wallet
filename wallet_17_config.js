@@ -1,1 +1,1 @@
-var mnemonic = "effort lottery smart wool plunge shed follow shock wish grace unlock piano";
+var mnemonic = "fluid wheel draw utility file old staff use grant leave resist lumber";

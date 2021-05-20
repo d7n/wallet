@@ -1,1 +1,1 @@
-var mnemonic = "length elegant pig jazz convince cart impose shift quick among grocery bind";
+var mnemonic = "rail orange ensure seven tiny expire wheel horse catalog exotic spike album";

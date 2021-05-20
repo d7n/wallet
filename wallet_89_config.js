@@ -1,1 +1,1 @@
-var mnemonic = "animal replace regret rib trophy speak extra worry arrive rubber goddess caught";
+var mnemonic = "action trial always solid miracle south family sail orphan tool scene gap";

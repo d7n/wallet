@@ -1,1 +1,1 @@
-var mnemonic = "clown panic input service okay embark black pool element ripple night flame";
+var mnemonic = "beyond forest hand camera purity bulb subject armor iron wave dad popular";

@@ -1,1 +1,1 @@
-var mnemonic = "swing allow lady toward suffer shrimp network weekend husband three divert toward";
+var mnemonic = "joy tenant token rebuild toward cactus vacant nation coral offer toast climb";

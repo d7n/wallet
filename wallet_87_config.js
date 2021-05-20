@@ -1,1 +1,1 @@
-var mnemonic = "tide surprise runway exchange song mad run jeans weird sugar melody clay";
+var mnemonic = "office clutch mind banner finger later adjust grow torch rib jungle vacant";

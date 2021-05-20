@@ -1,1 +1,1 @@
-var mnemonic = "scene enable hub picnic expire scheme legal middle broom daring edge undo";
+var mnemonic = "fabric soon slow museum run surge luxury cute office pet warm robot";

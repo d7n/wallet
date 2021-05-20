@@ -1,1 +1,1 @@
-var mnemonic = "bind wagon sunset table bullet artist short illegal disagree gloom ocean entry";
+var mnemonic = "sudden skate reunion fame scorpion remind deer chef grain sphere recipe nice";

@@ -1,1 +1,1 @@
-var mnemonic = "hole vast satisfy cup this job coyote shock trim agent tomato conduct";
+var mnemonic = "hub acoustic garment manage crouch february barely age close laptop turkey tissue";

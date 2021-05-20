@@ -1,1 +1,1 @@
-var mnemonic = "tired common empower remove drop ceiling action power relief unit apart fish";
+var mnemonic = "wire upset little divide fix friend green celery candy jar nothing title";

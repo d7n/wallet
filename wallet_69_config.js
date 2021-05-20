@@ -1,1 +1,1 @@
-var mnemonic = "venture quit dumb observe prepare seat winner detect glow base elite buddy";
+var mnemonic = "field maze viable era strong one sign pluck casual error iron velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "portion sea fame unfair defy argue raise soldier february actual large normal";
+var mnemonic = "buzz scissors blue lucky praise avocado liar object flash pepper prevent slam";

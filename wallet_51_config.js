@@ -1,1 +1,1 @@
-var mnemonic = "list cruise real tennis resemble they task erase assist help seat hire";
+var mnemonic = "grass organ section couch spoon solar actual flavor body nurse leisure eager";

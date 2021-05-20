@@ -1,1 +1,1 @@
-var mnemonic = "nature milk health boat genius skate sound robot increase extra hungry include";
+var mnemonic = "ceiling build erode shy length appear lava concert flip cabbage stairs miss";

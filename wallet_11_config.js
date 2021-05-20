@@ -1,1 +1,1 @@
-var mnemonic = "sugar between forest angle globe word sea idea put loop element artwork";
+var mnemonic = "tumble reveal tragic caution wet moment tobacco physical ready blind solar loud";

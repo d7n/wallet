@@ -1,1 +1,1 @@
-var mnemonic = "iron deal ordinary motor alcohol doll agent excuse swim remind peanut lake";
+var mnemonic = "dizzy square collect hen ring organ craft gasp below ginger utility cable";

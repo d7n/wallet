@@ -1,1 +1,1 @@
-var mnemonic = "hidden once control coconut gravity sweet kitten stable half idle main oxygen";
+var mnemonic = "other fall guide icon own club journey have beyond recipe hat cart";

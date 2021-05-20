@@ -1,1 +1,1 @@
-var mnemonic = "brave hazard cat resist model cycle crawl casino cloth juice rigid capital";
+var mnemonic = "foam chuckle theory purse pudding amateur eight gorilla witness series easy isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "venture bonus opera thing fruit actor impose turn very hurry increase put";
+var mnemonic = "menu return price airport saddle ensure bid flee salt can become bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "identify vehicle lonely venture unveil cloth access side stool habit like whip";
+var mnemonic = "camp accident picnic tackle rice scout dismiss scissors donor fan ladder expire";

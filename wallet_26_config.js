@@ -1,1 +1,1 @@
-var mnemonic = "panic recycle corn leave amateur version powder vehicle connect cannon upon mobile";
+var mnemonic = "appear nerve anchor select harvest anxiety speed blind teach hawk borrow loud";

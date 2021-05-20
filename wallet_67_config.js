@@ -1,1 +1,1 @@
-var mnemonic = "tenant curtain track jelly dolphin mosquito identify leader game urge cruise coin";
+var mnemonic = "crunch fiction solid deer exhibit estate session rail echo square grant require";

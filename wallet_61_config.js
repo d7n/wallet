@@ -1,1 +1,1 @@
-var mnemonic = "episode flower science certain tired outdoor diamond van cube knock pulp trumpet";
+var mnemonic = "primary slot remain logic improve evil fury swamp banner base episode solve";

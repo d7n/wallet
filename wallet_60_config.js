@@ -1,1 +1,1 @@
-var mnemonic = "fog ill junk space toss degree banner one pyramid absorb resist notable";
+var mnemonic = "fee reunion share seven visual conduct picnic expose valid pluck engine animal";

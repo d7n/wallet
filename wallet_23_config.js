@@ -1,1 +1,1 @@
-var mnemonic = "oppose avocado civil hazard dutch normal crawl panel senior anxiety spare skull";
+var mnemonic = "reduce faculty force heavy cable allow fall push twenty punch labor vanish";

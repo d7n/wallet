@@ -1,1 +1,1 @@
-var mnemonic = "slide link business sing visual then tumble onion almost situate setup embrace";
+var mnemonic = "involve panther fringe special slice media clap trouble barely mask train nurse";
