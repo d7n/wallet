@@ -1,1 +1,1 @@
-var mnemonic = "doctor boring reunion remind prosper region weird shy duty travel once tag";
+var mnemonic = "jaguar razor arrow crucial seat suggest bomb champion access right dress pudding";

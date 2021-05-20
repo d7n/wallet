@@ -1,1 +1,1 @@
-var mnemonic = "grape dynamic vendor undo silk alley celery gap crouch focus season happy";
+var mnemonic = "essay team citizen rival fox assault orange tortoise zone major animal sugar";

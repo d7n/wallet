@@ -1,1 +1,1 @@
-var mnemonic = "title sense aerobic urban post penalty pelican ball position price very reunion";
+var mnemonic = "nature voice camp false answer pill stone risk cannon dust nut romance";

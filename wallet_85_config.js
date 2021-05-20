@@ -1,1 +1,1 @@
-var mnemonic = "cradle dragon solution awful grant current lamp best much list boy usage";
+var mnemonic = "south lemon impact sun vault turn chimney first weird when ocean water";

@@ -1,1 +1,1 @@
-var mnemonic = "surge rate list kitten math silk pupil enter salt first foil area";
+var mnemonic = "library run nothing wise sketch author fan diet liberty language abuse zoo";

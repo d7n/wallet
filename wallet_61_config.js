@@ -1,1 +1,1 @@
-var mnemonic = "source zoo stay gate museum story unknown tilt annual slide sniff decide";
+var mnemonic = "finish material spawn any lecture opera idle service bridge razor middle year";

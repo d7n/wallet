@@ -1,1 +1,1 @@
-var mnemonic = "empty tent logic raw later attend wine tent firm spatial grief into";
+var mnemonic = "oil domain antique trigger typical cousin glass twice monitor throw business motion";

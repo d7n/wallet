@@ -1,1 +1,1 @@
-var mnemonic = "audit gospel hospital void wall decrease among snap health vicious faculty cement";
+var mnemonic = "calm among security connect beyond old crowd unlock tilt off matrix zebra";

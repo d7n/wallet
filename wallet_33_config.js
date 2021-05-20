@@ -1,1 +1,1 @@
-var mnemonic = "segment option wonder quiz movie deny year club mosquito eye panel inherit";
+var mnemonic = "exhaust surprise note image exercise orchard person opera annual kit leader renew";

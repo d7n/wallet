@@ -1,1 +1,1 @@
-var mnemonic = "soldier faint grant render potato rocket guard fork hill slice wrong crime";
+var mnemonic = "suit glow fat between mutual impose village marine salad vessel stomach usage";

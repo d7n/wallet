@@ -1,1 +1,1 @@
-var mnemonic = "all derive electric quit spoon canyon liberty unlock humor fruit march scheme";
+var mnemonic = "autumn subway sheriff craft visa giggle dilemma twin exhaust fence viable bread";

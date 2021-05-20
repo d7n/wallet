@@ -1,1 +1,1 @@
-var mnemonic = "fall unfair seek cactus economy gas junk monster limb knock twice language";
+var mnemonic = "ship nerve earn radar gauge chuckle invest category tenant blind tobacco blind";

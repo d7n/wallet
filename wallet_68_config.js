@@ -1,1 +1,1 @@
-var mnemonic = "sketch across pencil body position post burden orbit swim release eyebrow toy";
+var mnemonic = "cook black gossip alien easy tape giraffe shoe huge woman equal empty";

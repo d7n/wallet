@@ -1,1 +1,1 @@
-var mnemonic = "night verb addict clown polar bid term grocery winter capital use express";
+var mnemonic = "swarm power bronze pond inch object two slice letter orbit they toast";

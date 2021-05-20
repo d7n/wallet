@@ -1,1 +1,1 @@
-var mnemonic = "dial soldier ripple ginger august prosper ancient song episode radio tomato provide";
+var mnemonic = "bubble aware stool return stone aim open banana main feature napkin little";

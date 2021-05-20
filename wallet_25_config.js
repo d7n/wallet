@@ -1,1 +1,1 @@
-var mnemonic = "action salt stage blur sail game crane shallow tenant excuse squeeze laugh";
+var mnemonic = "tissue find split first trick teach swamp tail unhappy cactus rubber nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty dinner upset jelly main april person dignity uphold demise merry depart";
+var mnemonic = "churn cannon movie satoshi rely joke exercise leopard doctor fog public lottery";

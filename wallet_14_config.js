@@ -1,1 +1,1 @@
-var mnemonic = "leader much rescue service twist crater fork oven bronze fringe snake require";
+var mnemonic = "manage chef help bid curve dentist shoulder girl junior phone armor assault";

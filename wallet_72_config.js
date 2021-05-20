@@ -1,1 +1,1 @@
-var mnemonic = "puppy outside error fashion source scene raise moon merry kingdom across alarm";
+var mnemonic = "screen goat dial option analyst guitar hero announce fortune hedgehog rural grid";

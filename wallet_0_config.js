@@ -1,1 +1,1 @@
-var mnemonic = "crash inhale group solution sing arctic wonder funny multiply naive danger bounce";
+var mnemonic = "bar oven nothing token pen session balcony cook music vacant soccer valve";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky forum attract rocket lock act infant myself funny legal science okay";
+var mnemonic = "among again hotel light garbage open index silk private noise install educate";

@@ -1,1 +1,1 @@
-var mnemonic = "coral elbow balance execute skull escape scare segment maple chat wreck birth";
+var mnemonic = "rabbit degree polar van survey enable above film carry surround powder unknown";

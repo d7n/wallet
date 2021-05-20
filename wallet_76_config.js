@@ -1,1 +1,1 @@
-var mnemonic = "salute pottery enroll cigar ready prosper assume tissue glad hurry citizen nature";
+var mnemonic = "lyrics curtain only entire type ocean flock oven pyramid dutch fetch dad";

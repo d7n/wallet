@@ -1,1 +1,1 @@
-var mnemonic = "tell foil bleak plastic tone lunar window you snake suffer inner iron";
+var mnemonic = "scissors want autumn current globe exclude travel truly adult main final there";

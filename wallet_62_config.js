@@ -1,1 +1,1 @@
-var mnemonic = "lyrics manual trade benefit gorilla surprise evolve expand brain shy keep achieve";
+var mnemonic = "shy olive razor story lounge slam carry few leave draw hockey portion";

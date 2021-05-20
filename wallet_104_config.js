@@ -1,1 +1,1 @@
-var mnemonic = "glide similar owner future jaguar permit leopard price glad acoustic bird over";
+var mnemonic = "slot depth topple crazy doctor athlete end scout tilt learn permit celery";

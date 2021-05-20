@@ -1,1 +1,1 @@
-var mnemonic = "receive eager vapor zone globe float small gas nut apology boost cable";
+var mnemonic = "eternal clutch power bunker permit vehicle already case chuckle dish clever debate";

@@ -1,1 +1,1 @@
-var mnemonic = "final bunker damp uncle ordinary powder hockey alarm good space session expose";
+var mnemonic = "finger expect guide strike injury issue during motion asthma avocado envelope lobster";

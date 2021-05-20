@@ -1,1 +1,1 @@
-var mnemonic = "slogan earth swallow senior lend legend glimpse old clog void leader under";
+var mnemonic = "sustain gauge good rally wisdom apart ill zone reward hedgehog sign ten";

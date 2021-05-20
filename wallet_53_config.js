@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog photo slot celery practice milk flash know mechanic laugh coin major";
+var mnemonic = "inch smooth drama sausage oppose fury power alert venue lens reveal maximum";

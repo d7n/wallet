@@ -1,1 +1,1 @@
-var mnemonic = "same scrub mushroom crater hybrid neglect company egg few ignore around tooth";
+var mnemonic = "margin rescue shallow peasant rib index once bonus axis senior slim brick";

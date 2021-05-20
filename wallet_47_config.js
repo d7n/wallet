@@ -1,1 +1,1 @@
-var mnemonic = "ice bunker caution slam acid amused flash boring early undo breeze inside";
+var mnemonic = "art science credit club vacuum sun bounce cousin catch mention armor gallery";

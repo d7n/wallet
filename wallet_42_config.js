@@ -1,1 +1,1 @@
-var mnemonic = "blue hammer airport obey prize board stool artist trigger exhibit convince kick";
+var mnemonic = "wool bridge skate move under elder feature blossom stuff nerve brown gentle";

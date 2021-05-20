@@ -1,1 +1,1 @@
-var mnemonic = "source recipe typical document ski woman chaos park high journey rude middle";
+var mnemonic = "town carry radar verb feed check say fringe jelly priority achieve renew";

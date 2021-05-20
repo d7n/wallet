@@ -1,1 +1,1 @@
-var mnemonic = "muscle ancient circle acoustic absurd spirit inform organ pride mule city diamond";
+var mnemonic = "autumn route height attitude remind pact cake despair cargo involve spy poet";

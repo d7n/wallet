@@ -1,1 +1,1 @@
-var mnemonic = "crime baby milk puzzle quality august noise under noodle error cry myself";
+var mnemonic = "august pelican ritual fashion garden august fault debris attend bronze topic visual";

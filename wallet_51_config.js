@@ -1,1 +1,1 @@
-var mnemonic = "century balcony rescue leaf write inspire wide series script develop flee defense";
+var mnemonic = "grab physical deliver valley until rubber course explain sadness dice sad shy";

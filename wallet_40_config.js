@@ -1,1 +1,1 @@
-var mnemonic = "cheap year only abuse gesture market cry end wink fancy museum mask";
+var mnemonic = "seminar document nation merge that warrior polar universe life shrimp amazing clap";

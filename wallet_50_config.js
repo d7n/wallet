@@ -1,1 +1,1 @@
-var mnemonic = "paper crush oven defy cloud crisp mystery region pattern pill sunny seed";
+var mnemonic = "clay tortoise job erosion result boss toward empty dry nest giggle achieve";

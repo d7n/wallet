@@ -1,1 +1,1 @@
-var mnemonic = "defy strategy belt repeat welcome blur modify ten shoe dynamic repair crouch";
+var mnemonic = "either armed remember eight wagon blood hair question pole teach soldier test";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco clog unique deputy infant adapt life guide hazard huge similar coach";
+var mnemonic = "screen found note sting taxi feel dog come begin mother essay lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "tide execute stool blast kitten type egg soap cactus horror cherry sing";
+var mnemonic = "capable range position reveal face nominee proud pig damp powder fluid plastic";

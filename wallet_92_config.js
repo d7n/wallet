@@ -1,1 +1,1 @@
-var mnemonic = "faculty stay fence popular eager oyster zero moon loop decrease figure hurdle";
+var mnemonic = "gravity jewel jump depth tiny trigger jump devote empower shop across spot";

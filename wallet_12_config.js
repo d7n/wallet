@@ -1,1 +1,1 @@
-var mnemonic = "step win palace patch business maze pitch detail kitten liquid cash away";
+var mnemonic = "situate describe valid general galaxy clip differ crush lawsuit split pulse alter";

@@ -1,1 +1,1 @@
-var mnemonic = "learn latin enhance another vast honey slight venue motion horn mountain clog";
+var mnemonic = "dynamic injury lend gadget endless chicken moment repair taxi hub rate duty";

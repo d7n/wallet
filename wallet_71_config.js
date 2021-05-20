@@ -1,1 +1,1 @@
-var mnemonic = "bus turtle oven menu entry van prosper sweet yellow afraid purse warfare";
+var mnemonic = "tomorrow rebel need opera planet monster banner another rice light sheriff music";

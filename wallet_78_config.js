@@ -1,1 +1,1 @@
-var mnemonic = "solid elbow stable wing curve narrow pen thunder exhaust insect change parade";
+var mnemonic = "solve episode chapter sibling give spice ugly photo juice split carry assist";

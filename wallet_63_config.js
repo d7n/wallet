@@ -1,1 +1,1 @@
-var mnemonic = "mixed motor velvet claim fabric quantum loan invite marine bag memory frost";
+var mnemonic = "album race city else under stove village post famous mystery dove inside";

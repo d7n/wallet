@@ -1,1 +1,1 @@
-var mnemonic = "they sport neutral slow piano pluck science trick forward gym blame laugh";
+var mnemonic = "aim squeeze thrive second museum faith left clerk wreck refuse velvet glue";

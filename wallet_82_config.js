@@ -1,1 +1,1 @@
-var mnemonic = "crisp february deposit improve seminar smart ski want dolphin lounge across company";
+var mnemonic = "orange festival change pass basket ball stomach novel glide poverty salute jacket";

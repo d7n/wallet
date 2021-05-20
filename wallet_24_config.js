@@ -1,1 +1,1 @@
-var mnemonic = "canvas shock chimney action mutual ugly alpha someone network oxygen boost tide";
+var mnemonic = "network mention level region goose poet uncover oyster catch stove blouse client";

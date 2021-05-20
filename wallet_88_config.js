@@ -1,1 +1,1 @@
-var mnemonic = "all fitness vanish mom quarter forest foster gather arrange attack together lamp";
+var mnemonic = "tuition theme recycle notable valve dust scene genius battle shove identify armed";

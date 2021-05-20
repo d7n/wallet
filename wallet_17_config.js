@@ -1,1 +1,1 @@
-var mnemonic = "loop movie kangaroo south romance hold aware fury record satoshi home debris";
+var mnemonic = "detail coral snack cancel major please fragile sail fall leisure wild shadow";

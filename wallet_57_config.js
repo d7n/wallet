@@ -1,1 +1,1 @@
-var mnemonic = "tragic brass puppy you manual virtual width denial keep oppose stadium flush";
+var mnemonic = "solution marriage sand victory anxiety convince hold anger sense pizza click flock";

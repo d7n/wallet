@@ -1,1 +1,1 @@
-var mnemonic = "canvas shiver uniform task slab exist tell craft market tumble pond voice";
+var mnemonic = "crop before profit shine prefer scheme lyrics swift waste more broccoli mirror";

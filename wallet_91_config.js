@@ -1,1 +1,1 @@
-var mnemonic = "great nation future foot meadow design raven orphan oyster blood grab fiction";
+var mnemonic = "level venue stable hour sugar imitate crouch humor risk trap sunset cry";

@@ -1,1 +1,1 @@
-var mnemonic = "educate focus engage sick consider sentence lava glove type minimum three educate";
+var mnemonic = "coffee dress glow curve hawk embody length hope soap waste arena trigger";

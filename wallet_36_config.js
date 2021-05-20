@@ -1,1 +1,1 @@
-var mnemonic = "object knife lawn rare jealous organ twin relief badge wish drum always";
+var mnemonic = "income throw myth rebel ordinary then grape crunch unknown cricket garden text";

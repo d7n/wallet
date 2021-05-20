@@ -1,1 +1,1 @@
-var mnemonic = "ribbon walk music find bracket state awful often giggle utility error invite";
+var mnemonic = "agree top flock acquire trash cave trick tired digital horror response trigger";

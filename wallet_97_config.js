@@ -1,1 +1,1 @@
-var mnemonic = "price style struggle exist struggle embrace only play sing bonus whip chapter";
+var mnemonic = "armed normal scale ice chronic behave champion cheese jar tree lobster mass";

@@ -1,1 +1,1 @@
-var mnemonic = "wool timber now multiply salon captain moment gentle bracket post cherry clerk";
+var mnemonic = "sell reflect corn together brown boil doll dismiss kidney mixture endless elevator";

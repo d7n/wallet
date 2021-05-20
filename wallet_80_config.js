@@ -1,1 +1,1 @@
-var mnemonic = "brother mixed swamp calm pluck innocent globe final prefer load process thumb";
+var mnemonic = "canoe shift defense choice first clutch beach nest expand glimpse true piano";

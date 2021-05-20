@@ -1,1 +1,1 @@
-var mnemonic = "degree circle faint space online potato divert gate require relief movie boy";
+var mnemonic = "trash remain venture virus horror nasty trim uncle window concert foil leader";

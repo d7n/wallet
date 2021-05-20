@@ -1,1 +1,1 @@
-var mnemonic = "habit rude connect way embody assist apology assist moment spoil panther grow";
+var mnemonic = "slush speed garden obvious deliver chicken range possible emotion material carry arm";

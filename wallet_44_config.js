@@ -1,1 +1,1 @@
-var mnemonic = "shadow mosquito nuclear filter april sadness sister enrich online display victory turkey";
+var mnemonic = "shuffle faith caught seed bread supply kidney drop remove large gain panel";

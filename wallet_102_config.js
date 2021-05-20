@@ -1,1 +1,1 @@
-var mnemonic = "mixed canvas faint apart father few make mind vast latin stomach subject";
+var mnemonic = "bubble wheat link link theory width march scale action swing end rug";

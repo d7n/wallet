@@ -1,1 +1,1 @@
-var mnemonic = "fluid dad sword safe dash elevator east sign lizard hard luggage blade";
+var mnemonic = "negative sudden feed doctor genuine beef baby loyal oxygen obtain perfect amused";

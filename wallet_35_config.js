@@ -1,1 +1,1 @@
-var mnemonic = "cross very occur assault whisper drop path obscure toilet upgrade choose ridge";
+var mnemonic = "gate boy toe matrix subject bulb violin correct robot purchase deny tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom number jazz income clog gospel brass usual neck fruit elbow slim";
+var mnemonic = "hen burden shed ecology disorder marble safe town error upgrade high alien";

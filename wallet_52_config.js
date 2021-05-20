@@ -1,1 +1,1 @@
-var mnemonic = "deposit online loop ozone basic region depth unlock later hero current between";
+var mnemonic = "twelve brother link stadium pet rubber fault address fun mass bridge armor";

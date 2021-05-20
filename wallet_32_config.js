@@ -1,1 +1,1 @@
-var mnemonic = "bounce wish liberty crunch now picture gloom sample sniff enjoy category cat";
+var mnemonic = "void habit special discover rhythm modify catalog ripple sing flip field leaf";

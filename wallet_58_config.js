@@ -1,1 +1,1 @@
-var mnemonic = "insane rival steel brown insane wear cute dish bus trust reveal motion";
+var mnemonic = "detect often pepper stand flower place pulse stadium major tower side rally";

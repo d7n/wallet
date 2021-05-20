@@ -1,1 +1,1 @@
-var mnemonic = "hair confirm bless time obvious dirt matter owner erupt swarm drastic cheap";
+var mnemonic = "subway pioneer room fiscal decorate knife photo victory load caught pumpkin tape";

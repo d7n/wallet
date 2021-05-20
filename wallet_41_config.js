@@ -1,1 +1,1 @@
-var mnemonic = "jazz mystery borrow multiply true unaware reflect judge lift snap flat question";
+var mnemonic = "gasp pilot trust human home tumble gloom distance outside first ordinary guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "govern oyster brain wine yellow jar connect odor cup bird type catch";
+var mnemonic = "special cattle tooth stomach guilt verb pilot put moment urban glass iron";

@@ -1,1 +1,1 @@
-var mnemonic = "plug hire genius simple alpha wolf puppy muscle elevator frequent stay mountain";
+var mnemonic = "donkey bulk ramp solution struggle host split elite reject awful craft elite";

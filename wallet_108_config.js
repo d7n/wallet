@@ -1,1 +1,1 @@
-var mnemonic = "gate exclude mail jealous excite forum chimney point pact before alarm first";
+var mnemonic = "crouch gallery marble spike find vintage picture food rose year lock come";

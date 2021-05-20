@@ -1,1 +1,1 @@
-var mnemonic = "deny mass dismiss suit nasty garage minute behave scatter slam essence library";
+var mnemonic = "gorilla drum street uncle coach devote seed crane mean ginger tomorrow parent";

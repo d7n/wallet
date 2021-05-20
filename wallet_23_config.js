@@ -1,1 +1,1 @@
-var mnemonic = "legend air tone mistake scheme pigeon sorry donate cheap combine tree cruel";
+var mnemonic = "settle render kind speak pulse shoot alpha smart stay elbow scheme cute";

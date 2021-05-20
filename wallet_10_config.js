@@ -1,1 +1,1 @@
-var mnemonic = "banana athlete flat dignity trumpet practice unable hammer fiscal glory book excess";
+var mnemonic = "air caught feel blossom fresh sense inmate nest ethics witness version man";

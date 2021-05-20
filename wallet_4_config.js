@@ -1,1 +1,1 @@
-var mnemonic = "reunion throw pistol weird shove wisdom now swamp under open bless apology";
+var mnemonic = "bleak poet choice text silk sugar egg license parrot goddess noise erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "search acid slogan ball comic mule fragile identify bleak ridge odor call";
+var mnemonic = "marine rifle boat tool rent install hammer shop spin charge business village";

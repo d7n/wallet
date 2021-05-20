@@ -1,1 +1,1 @@
-var mnemonic = "want type relief wife pyramid elbow paddle alley impact drum assume idea";
+var mnemonic = "dirt seven expire mind eager cradle insane item satisfy renew arch attack";

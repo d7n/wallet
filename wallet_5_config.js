@@ -1,1 +1,1 @@
-var mnemonic = "whip vast pulse home quality horn gauge sock dinner culture better crash";
+var mnemonic = "lucky roof satisfy topic tribe measure hungry century gloom funny toss spend";

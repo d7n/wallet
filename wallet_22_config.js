@@ -1,1 +1,1 @@
-var mnemonic = "aisle ice judge hold blossom void pluck note ritual raven layer husband";
+var mnemonic = "auto milk left negative wagon expect duck glory steak either firm hazard";

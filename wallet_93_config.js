@@ -1,1 +1,1 @@
-var mnemonic = "ticket offer crumble robust gossip sense require clutch magic essence phone cancel";
+var mnemonic = "oblige rubber that dust sauce distance flame drink garlic trash pull near";

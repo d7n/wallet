@@ -1,1 +1,1 @@
-var mnemonic = "lunar click lion pencil goose settle open glory agent learn mammal amateur";
+var mnemonic = "flag inform dream put great bridge exclude scan course dog vessel tuition";

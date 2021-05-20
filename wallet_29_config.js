@@ -1,1 +1,1 @@
-var mnemonic = "offer guard pair uncle series profit team measure coil once curtain auto";
+var mnemonic = "exotic gift help elbow section sick spare gold behave surface between inflict";

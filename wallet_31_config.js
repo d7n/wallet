@@ -1,1 +1,1 @@
-var mnemonic = "pepper ship reduce address parrot color neutral elder split urban police zoo";
+var mnemonic = "ski scorpion bronze mail fold cause soft truly resemble endorse gym joke";

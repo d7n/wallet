@@ -1,1 +1,1 @@
-var mnemonic = "merit demand atom buffalo dragon nice mass rich beef future pole coral";
+var mnemonic = "able canoe can evolve pass enter charge access extra coffee unhappy coyote";

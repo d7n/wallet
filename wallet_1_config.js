@@ -1,1 +1,1 @@
-var mnemonic = "cloth addict family clog grain proof atom wagon field quiz rough evoke";
+var mnemonic = "choice tool echo coconut protect snap bless key sadness float adjust differ";

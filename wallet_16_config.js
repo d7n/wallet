@@ -1,1 +1,1 @@
-var mnemonic = "soft test poem unable cake index rose novel famous demand roof limit";
+var mnemonic = "organ slab stock proud age dizzy captain wasp pledge water wagon loan";
