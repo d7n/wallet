@@ -1,1 +1,1 @@
-var mnemonic = "concert slush blur boss pretty evil adapt daring emotion trophy problem shadow";
+var mnemonic = "evidence paddle balcony patch flavor antique surround theme security increase razor boring";

@@ -1,1 +1,1 @@
-var mnemonic = "truth peanut rookie skin lake flavor immense number couch tell reunion cat";
+var mnemonic = "practice tortoise swamp identify vehicle elephant regret agree vivid print apology spy";

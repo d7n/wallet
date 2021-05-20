@@ -1,1 +1,1 @@
-var mnemonic = "owner stool limb solution bubble mango candy can perfect tip that antenna";
+var mnemonic = "reform remember web that beef bronze neither save relax response awesome vintage";

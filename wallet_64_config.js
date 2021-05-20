@@ -1,1 +1,1 @@
-var mnemonic = "theme confirm foster cliff off drastic still gold odor naive mind group";
+var mnemonic = "sound cram accuse permit side outer knife run oak cash arrive seven";

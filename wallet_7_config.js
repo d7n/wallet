@@ -1,1 +1,1 @@
-var mnemonic = "argue gaze people artwork mango cotton mass giraffe copper olympic captain vault";
+var mnemonic = "urge foil cable supreme sketch vendor provide belt dry around runway craft";

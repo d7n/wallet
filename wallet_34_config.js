@@ -1,1 +1,1 @@
-var mnemonic = "female weekend token know grief sing rigid buyer victory ostrich coyote pulse";
+var mnemonic = "invest equal wage grocery eternal slot gesture hamster couple best rabbit share";

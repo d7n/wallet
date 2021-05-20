@@ -1,1 +1,1 @@
-var mnemonic = "cereal vacuum master sun garbage dad census hip mansion wage lady craft";
+var mnemonic = "barely throw boy caught planet choice clock unable sibling wonder domain curious";

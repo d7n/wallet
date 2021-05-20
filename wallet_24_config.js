@@ -1,1 +1,1 @@
-var mnemonic = "chest stove mixture tag honey gadget rough demand moon pizza cram dawn";
+var mnemonic = "olive true electric lab illegal this bridge amount crunch room ten donate";

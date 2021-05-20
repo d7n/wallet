@@ -1,1 +1,1 @@
-var mnemonic = "book metal effort legal rifle boost horse saddle remember wild hood slight";
+var mnemonic = "village series green million width hotel echo chuckle knee shoe tragic volume";

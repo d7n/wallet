@@ -1,1 +1,1 @@
-var mnemonic = "neck dumb degree help script popular truck hollow cycle inform gym common";
+var mnemonic = "clinic main cluster bright minimum burst milk live tattoo dad will grit";

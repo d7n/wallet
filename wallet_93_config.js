@@ -1,1 +1,1 @@
-var mnemonic = "stick copper winter acid proof fantasy expand priority erase defense broken spirit";
+var mnemonic = "mom fashion moral hope wheel input mind enhance slot mammal capable owner";

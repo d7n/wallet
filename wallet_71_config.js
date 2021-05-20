@@ -1,1 +1,1 @@
-var mnemonic = "list affair observe tonight cluster party pact finger spoil blame orchard render";
+var mnemonic = "sunny february shoe wink coach prize hood hole future magnet error double";

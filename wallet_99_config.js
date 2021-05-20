@@ -1,1 +1,1 @@
-var mnemonic = "alert devote ahead predict debris mushroom lava pull clever notable faculty weasel";
+var mnemonic = "habit journey pepper leisure slender fever address ritual travel mandate birth rail";

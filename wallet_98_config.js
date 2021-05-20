@@ -1,1 +1,1 @@
-var mnemonic = "disease eager duty cotton general claim chapter illness skull snow dragon hub";
+var mnemonic = "tomorrow only innocent plunge digital cushion shine kingdom noodle genius estate resource";

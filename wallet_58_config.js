@@ -1,1 +1,1 @@
-var mnemonic = "best shoulder program then kiwi sniff glimpse gym session drill swing load";
+var mnemonic = "hedgehog aunt crisp recall slide will naive bike nut actual engine category";

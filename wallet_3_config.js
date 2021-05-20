@@ -1,1 +1,1 @@
-var mnemonic = "siege daring scorpion certain slab ill powder hair area mule drink act";
+var mnemonic = "adapt banner please nest moment off van glad vast mean casual wife";

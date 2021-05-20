@@ -1,1 +1,1 @@
-var mnemonic = "dynamic settle rely language success seek auction save scatter loyal two submit";
+var mnemonic = "bitter maple present lion display give company alter chimney mention firm actress";

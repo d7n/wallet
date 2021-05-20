@@ -1,1 +1,1 @@
-var mnemonic = "gorilla denial dish remember sponsor join soldier fade true country cactus toe";
+var mnemonic = "bar equal success twice emerge ship range gown menu parade opinion peace";

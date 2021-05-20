@@ -1,1 +1,1 @@
-var mnemonic = "dinner blossom next basket exile inspire taxi tool faculty sight reflect lucky";
+var mnemonic = "cake cram spawn corn zone tortoise horse advance rug approve tone fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse fancy need spring ugly zoo season dynamic grain include now gauge";
+var mnemonic = "seven seven steak seat flush motion eagle pulp floor area lamp member";

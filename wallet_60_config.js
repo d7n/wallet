@@ -1,1 +1,1 @@
-var mnemonic = "when lazy explain write change hire unusual warm blast clutch old frozen";
+var mnemonic = "magic bean donate sugar hat waste parent mutual track begin casino flower";

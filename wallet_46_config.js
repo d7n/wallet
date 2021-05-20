@@ -1,1 +1,1 @@
-var mnemonic = "type usual grit admit dentist train glance across acoustic brown rain pact";
+var mnemonic = "siege panel recipe merry rotate hospital milk maple dignity about patient broccoli";

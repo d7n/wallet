@@ -1,1 +1,1 @@
-var mnemonic = "prosper atom fitness blade cup gentle mobile secret west suffer marriage census";
+var mnemonic = "turtle seek disease message quit idea hidden banner winter diesel pill harvest";

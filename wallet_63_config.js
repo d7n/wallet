@@ -1,1 +1,1 @@
-var mnemonic = "clay double mesh they invest oyster select faculty letter hard buyer celery";
+var mnemonic = "custom rifle girl symptom runway danger around proof firm nominee mass adjust";

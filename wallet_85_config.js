@@ -1,1 +1,1 @@
-var mnemonic = "fun leaf thought under reflect shield spin source puzzle cinnamon evolve tomato";
+var mnemonic = "typical require victory grape slab raise tomorrow review brush illegal whip evidence";

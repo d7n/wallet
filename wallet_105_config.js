@@ -1,1 +1,1 @@
-var mnemonic = "blanket mass rapid primary crowd ring affair spike message ceiling night field";
+var mnemonic = "velvet consider verb uncle neither aim witness match knock syrup fitness layer";

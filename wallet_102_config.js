@@ -1,1 +1,1 @@
-var mnemonic = "jelly heavy acid table exotic happy salon october address stick anxiety census";
+var mnemonic = "panel size wave mom seed spatial real near void wrong piano defy";

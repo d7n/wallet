@@ -1,1 +1,1 @@
-var mnemonic = "ski glide rabbit youth glass roof embody egg express math sea process";
+var mnemonic = "width regret fine amateur coach gaze choice dress leg drip scissors rose";

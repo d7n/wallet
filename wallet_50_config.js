@@ -1,1 +1,1 @@
-var mnemonic = "scan season broom pizza erode share track evolve need pencil lunar great";
+var mnemonic = "obscure calm mouse bag napkin meadow float unlock taste agree replace topic";

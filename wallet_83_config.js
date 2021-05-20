@@ -1,1 +1,1 @@
-var mnemonic = "elevator gold fossil can bike clever unit enlist shove brother mom divide";
+var mnemonic = "tourist snake adult kit champion moment other chalk same stay morning lunar";

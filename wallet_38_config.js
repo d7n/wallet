@@ -1,1 +1,1 @@
-var mnemonic = "fever code polar enable meat visit borrow chief icon noodle stove hockey";
+var mnemonic = "bag melt picture mammal forum believe culture artwork invest fuel kick gown";

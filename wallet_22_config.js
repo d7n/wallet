@@ -1,1 +1,1 @@
-var mnemonic = "wheel funny picnic soul pencil endless exhibit turn style hidden few fragile";
+var mnemonic = "monitor domain talent motor attack real brush wink federal device ski trigger";

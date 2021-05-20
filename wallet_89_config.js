@@ -1,1 +1,1 @@
-var mnemonic = "very tattoo artwork dutch maximum develop attend outside drop web enrich resource";
+var mnemonic = "visit glimpse usage anger volcano void protect drop mobile draw this practice";

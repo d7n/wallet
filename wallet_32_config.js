@@ -1,1 +1,1 @@
-var mnemonic = "nephew man quarter report unique soldier pride eager axis enemy fix noodle";
+var mnemonic = "air unknown eager gloom toe tired mix popular into document very corn";

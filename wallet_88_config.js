@@ -1,1 +1,1 @@
-var mnemonic = "remove release bread bar spring wrestle crowd cute glove forest inform couple";
+var mnemonic = "sure smooth swim orient truly trigger inquiry hair want bleak bacon shallow";

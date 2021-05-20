@@ -1,1 +1,1 @@
-var mnemonic = "spoil ostrich foot spread series ability couple three genuine carry spatial canoe";
+var mnemonic = "powder favorite way exotic diamond melt clerk valve praise logic across enough";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch family climb slab fox prize check curtain evidence echo west man";
+var mnemonic = "pioneer artwork robot recipe solar truly notable junk comfort common stuff remember";

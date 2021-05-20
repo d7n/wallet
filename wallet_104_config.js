@@ -1,1 +1,1 @@
-var mnemonic = "robust crash leaf correct differ iron dove pluck addict sock decorate hover";
+var mnemonic = "tower depth snap faint history cruise margin card sponsor detail twelve pipe";

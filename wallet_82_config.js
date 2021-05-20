@@ -1,1 +1,1 @@
-var mnemonic = "citizen sword lawn deer protect ivory else update bench main code make";
+var mnemonic = "want supreme physical rescue either crash exclude rifle orient dial choice cart";

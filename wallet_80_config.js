@@ -1,1 +1,1 @@
-var mnemonic = "brass invite check teach consider day record lava moon sell turn flat";
+var mnemonic = "ordinary machine twin amazing coil illegal allow decrease depth elegant panic letter";

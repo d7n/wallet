@@ -1,1 +1,1 @@
-var mnemonic = "illegal senior park scatter canyon inherit grace arrest spider abandon follow video";
+var mnemonic = "admit stem truly quiz dream surface child swing vast despair gun witness";

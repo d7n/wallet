@@ -1,1 +1,1 @@
-var mnemonic = "business attend bless catalog mammal certain unaware blanket motor inmate goose tilt";
+var mnemonic = "spice recycle belt garlic spin trap radar oil chest faculty hair view";

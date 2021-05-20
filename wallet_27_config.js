@@ -1,1 +1,1 @@
-var mnemonic = "you drop clip open velvet uniform economy result erase alarm bone link";
+var mnemonic = "meat apple bronze pipe judge impulse east zone solution deny indicate innocent";

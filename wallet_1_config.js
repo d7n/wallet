@@ -1,1 +1,1 @@
-var mnemonic = "merit deer parrot joke hint document soccer credit street south term confirm";
+var mnemonic = "crack web orchard glance asthma fury genuine crop license thrive fashion protect";

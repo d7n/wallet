@@ -1,1 +1,1 @@
-var mnemonic = "pill olympic saddle economy soccer chair frown ketchup tissue isolate boy chimney";
+var mnemonic = "arm misery cousin obvious remain panic mother fantasy account devote receive fun";

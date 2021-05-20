@@ -1,1 +1,1 @@
-var mnemonic = "cage loan injury sword sound bacon grunt crane endless year health cage";
+var mnemonic = "enrich weird rich loop piece toast clip divorce royal advance repair wood";

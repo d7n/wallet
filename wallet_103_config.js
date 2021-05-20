@@ -1,1 +1,1 @@
-var mnemonic = "live lunch frame remind olympic best patch toss much decrease brief ecology";
+var mnemonic = "dish ski network cute medal twist survey chuckle only twist lunar awake";

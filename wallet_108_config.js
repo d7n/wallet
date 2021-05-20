@@ -1,1 +1,1 @@
-var mnemonic = "lyrics crop abuse oil elite flip always convince avocado admit fine annual";
+var mnemonic = "medal blind spell guess crisp bread stage start effort chief seminar midnight";

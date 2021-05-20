@@ -1,1 +1,1 @@
-var mnemonic = "biology farm absent marine mixture attitude legend favorite forest dance pledge safe";
+var mnemonic = "picnic almost scrap noodle notable engine sauce math auction boat lonely soft";

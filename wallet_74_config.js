@@ -1,1 +1,1 @@
-var mnemonic = "alone shop silver mimic sing luxury slim rebel enemy decline nothing medal";
+var mnemonic = "another sketch beauty chase what water forward bargain immense debate hospital remove";

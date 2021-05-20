@@ -1,1 +1,1 @@
-var mnemonic = "spatial blast pull morning another river surge sort note dirt chunk churn";
+var mnemonic = "symptom myself bottom veteran slender craft fatal ticket drastic endorse firm tail";

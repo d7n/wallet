@@ -1,1 +1,1 @@
-var mnemonic = "endless sure endless extra balcony similar rival notable bag when prosper embody";
+var mnemonic = "valid raise picture infant attend improve hen arena pony pull travel flower";

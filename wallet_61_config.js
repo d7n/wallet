@@ -1,1 +1,1 @@
-var mnemonic = "village heavy daring oyster note nature slab shy eye sword join leisure";
+var mnemonic = "twin trumpet sun assist legend cake law metal chapter destroy rose jungle";

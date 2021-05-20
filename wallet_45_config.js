@@ -1,1 +1,1 @@
-var mnemonic = "sauce rack transfer pudding panda pudding group heart renew pioneer problem ozone";
+var mnemonic = "monster cover lobster doctor grocery midnight mushroom trim imitate success rabbit concert";

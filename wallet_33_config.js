@@ -1,1 +1,1 @@
-var mnemonic = "puzzle exotic wheat daughter account vehicle donkey high actress void cost garment";
+var mnemonic = "tomorrow eagle will super neither convince someone object enter auction embrace identify";

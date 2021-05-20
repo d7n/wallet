@@ -1,1 +1,1 @@
-var mnemonic = "plunge twelve marine lumber arrange cabbage outer potato promote caught seminar gospel";
+var mnemonic = "velvet april bid genius photo hard utility mesh pair tell giraffe mean";

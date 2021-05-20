@@ -1,1 +1,1 @@
-var mnemonic = "squeeze vicious size quarter donor dumb agree ranch century multiply side decide";
+var mnemonic = "shrimp cruel great vicious put volume hood arrange ship minimum mansion scorpion";

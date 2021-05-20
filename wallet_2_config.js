@@ -1,1 +1,1 @@
-var mnemonic = "sight demand dumb fatigue manual crowd attitude key chief hollow pulp input";
+var mnemonic = "permit deal drama stereo robust jealous diesel dolphin asthma genuine actress horror";

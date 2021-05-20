@@ -1,1 +1,1 @@
-var mnemonic = "foot stove danger alter couple top exhibit rocket market wagon apple pencil";
+var mnemonic = "obey area birth crash supreme float stand wing biology lock wire strong";

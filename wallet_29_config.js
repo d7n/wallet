@@ -1,1 +1,1 @@
-var mnemonic = "orchard day radar cycle borrow snake exit whale envelope clip train ride";
+var mnemonic = "lunch marine wire brain injury energy slide harvest insect leg similar innocent";

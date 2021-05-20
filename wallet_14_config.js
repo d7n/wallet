@@ -1,1 +1,1 @@
-var mnemonic = "sword mad car first quarter insane chief half wrong hire comic stone";
+var mnemonic = "truck observe replace face under provide close sight visa cycle develop crush";

@@ -1,1 +1,1 @@
-var mnemonic = "slender flight face city coffee enjoy cinnamon elegant quantum nature abandon leisure";
+var mnemonic = "consider license tray flame clinic fall liberty aware series rail deny shock";

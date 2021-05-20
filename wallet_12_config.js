@@ -1,1 +1,1 @@
-var mnemonic = "weather sail bone promote someone pond any voice trend spy token raise";
+var mnemonic = "harbor stove rich thing thumb stand report lend limb domain oxygen soon";

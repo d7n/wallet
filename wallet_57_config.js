@@ -1,1 +1,1 @@
-var mnemonic = "raccoon curve defense coffee tortoise lizard federal exhaust such feel any act";
+var mnemonic = "canal box behave saddle deputy sadness vacuum stone brave cloth include depart";

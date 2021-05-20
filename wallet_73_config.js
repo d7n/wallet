@@ -1,1 +1,1 @@
-var mnemonic = "chest velvet media air memory creek science police anger best height fever";
+var mnemonic = "maid shadow result multiply escape faint hawk intact brisk next air future";

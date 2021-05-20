@@ -1,1 +1,1 @@
-var mnemonic = "follow wasp increase fame version frost drive digital throw brave toast rose";
+var mnemonic = "accuse hint where joy sponsor image wolf calm wing hero hint dolphin";

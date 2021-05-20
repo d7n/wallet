@@ -1,1 +1,1 @@
-var mnemonic = "pistol lawsuit resemble baby glimpse nominee speed treat unveil filter oppose rotate";
+var mnemonic = "judge carry harsh panda casino scare memory pelican move two carbon render";

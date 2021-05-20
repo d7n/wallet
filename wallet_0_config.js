@@ -1,1 +1,1 @@
-var mnemonic = "machine aisle pottery grocery juice chief breeze slush stuff congress twist enter";
+var mnemonic = "tell globe blame nominee prepare example labor undo symbol craft egg nothing";

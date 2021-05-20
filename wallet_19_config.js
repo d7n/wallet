@@ -1,1 +1,1 @@
-var mnemonic = "audit deputy assault acid picture valid heavy thought color eager lucky camera";
+var mnemonic = "gas safe sport parrot click across leg that plastic filter whale raven";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing bicycle ready tape raven section nuclear various version relax nest baby";
+var mnemonic = "light fame empty addict luggage father enter seat stove absurd antenna wish";

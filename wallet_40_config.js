@@ -1,1 +1,1 @@
-var mnemonic = "width bread chest purse quiz afraid tomorrow welcome black kiss example dirt";
+var mnemonic = "earn angle naive fatal steak cook imitate burden pull glance ill pear";

@@ -1,1 +1,1 @@
-var mnemonic = "lab holiday spray record gain lecture large knee share rich warfare shield";
+var mnemonic = "current north bacon faculty knock van arrow gospel pen elder clever inquiry";

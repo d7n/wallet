@@ -1,1 +1,1 @@
-var mnemonic = "clump act reunion goddess predict muscle swamp ladder comic october sand project";
+var mnemonic = "derive ramp alcohol bullet album time exercise about dizzy exact swamp finish";

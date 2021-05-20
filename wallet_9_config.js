@@ -1,1 +1,1 @@
-var mnemonic = "paper harvest relief tip enact impact wheel require hope symbol useful buddy";
+var mnemonic = "fabric huge endless minor humble fade there humble slight silver glass welcome";

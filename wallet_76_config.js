@@ -1,1 +1,1 @@
-var mnemonic = "mix desert waste announce upon kiwi resist drip shy interest dentist stable";
+var mnemonic = "bronze wife lumber company tuition churn amount destroy you kick vacant fortune";

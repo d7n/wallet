@@ -1,1 +1,1 @@
-var mnemonic = "shock mobile swing elder sponsor solve face slab monster turtle kidney cement";
+var mnemonic = "radar praise flash leaf banana ask garage flag glory old path solve";

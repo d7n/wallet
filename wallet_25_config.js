@@ -1,1 +1,1 @@
-var mnemonic = "someone title casual market proof tortoise few situate hire woman abandon sweet";
+var mnemonic = "below parade bamboo moon approve aerobic like put wedding bind today pact";

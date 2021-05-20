@@ -1,1 +1,1 @@
-var mnemonic = "sand sustain maze motor turn dismiss armed ramp can culture young jaguar";
+var mnemonic = "tomorrow shell soldier cousin medal gift fashion choose wise beach bicycle owner";

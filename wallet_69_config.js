@@ -1,1 +1,1 @@
-var mnemonic = "like fan have dawn fury promote define uniform park width deposit run";
+var mnemonic = "slot void tail repeat glare lend camp family metal box time trim";

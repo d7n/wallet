@@ -1,1 +1,1 @@
-var mnemonic = "pave clown unknown orbit strike wife charge nominee announce illegal interest success";
+var mnemonic = "action region sniff opera young diamond climb lady exhibit attitude grow develop";

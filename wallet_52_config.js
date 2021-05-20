@@ -1,1 +1,1 @@
-var mnemonic = "clip aspect follow security guard sphere wealth powder poverty term tag deer";
+var mnemonic = "manual giraffe drama six real toilet fringe lonely happy nose demand fox";

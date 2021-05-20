@@ -1,1 +1,1 @@
-var mnemonic = "crowd current mind define tomato destroy number amateur apart exhibit dolphin rally";
+var mnemonic = "sun lady satoshi brain upper skate phrase vast treat vanish strong road";

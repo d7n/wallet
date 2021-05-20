@@ -1,1 +1,1 @@
-var mnemonic = "capable federal olive floor interest proof drip measure same snap panel unveil";
+var mnemonic = "luxury weapon dial season able history mass glue glory dolphin comfort jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky hamster vague friend board secret essence again figure seat swarm fashion";
+var mnemonic = "boy again company history click neck van person soul split tumble mimic";

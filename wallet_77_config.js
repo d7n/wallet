@@ -1,1 +1,1 @@
-var mnemonic = "buddy shift dry awful arctic drama mix behind taxi weapon region coffee";
+var mnemonic = "bicycle engine dad seed enlist slim file panther sniff mesh inflict then";

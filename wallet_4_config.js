@@ -1,1 +1,1 @@
-var mnemonic = "future belt vehicle resist goddess happy crunch thing flower sword around panel";
+var mnemonic = "hint crack avocado midnight fatigue lava enforce cycle prefer boring memory foil";

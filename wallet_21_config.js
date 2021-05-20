@@ -1,1 +1,1 @@
-var mnemonic = "diary hurt guard toilet slush aware humor word lion retreat dove soul";
+var mnemonic = "supply verify wasp brush virtual play put grocery dynamic unlock walk table";

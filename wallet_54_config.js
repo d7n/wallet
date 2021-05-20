@@ -1,1 +1,1 @@
-var mnemonic = "garment moral remain embrace lake there spoon light main bottom crew local";
+var mnemonic = "assume leisure casual review useful become ahead kiwi tackle flash imitate inform";

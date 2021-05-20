@@ -1,1 +1,1 @@
-var mnemonic = "vague slow leopard grass rely estate nice benefit bicycle steel museum notable";
+var mnemonic = "forest top odor loop cinnamon december insane amazing ethics black dash stand";

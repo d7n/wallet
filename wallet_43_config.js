@@ -1,1 +1,1 @@
-var mnemonic = "repair input marine rhythm thought clog often finish rescue copper lend problem";
+var mnemonic = "twin ahead help together swamp correct acoustic explain angle talk faculty right";

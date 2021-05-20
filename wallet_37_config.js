@@ -1,1 +1,1 @@
-var mnemonic = "gate spike intact neck cable oak exhibit relief home sample style despair";
+var mnemonic = "thunder outer pretty draw butter tuna undo hungry reduce era curious drum";

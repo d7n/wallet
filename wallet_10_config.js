@@ -1,1 +1,1 @@
-var mnemonic = "capital junk casino purpose cheap length weasel disease muffin demise cute rule";
+var mnemonic = "dutch ethics option message rookie twist work owner veteran fossil mesh dice";
