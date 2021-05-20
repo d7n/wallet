@@ -1,1 +1,1 @@
-var mnemonic = "mail crawl ice embrace lesson agree resist lazy dynamic document tag stereo";
+var mnemonic = "pitch bundle impulse disease unhappy faith stamp stamp cross want endorse inherit";

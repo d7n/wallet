@@ -1,1 +1,1 @@
-var mnemonic = "argue midnight great flash session tip advice way salute current decide aunt";
+var mnemonic = "loop access orient subway devote rifle shoot limit cannon vicious kitten achieve";

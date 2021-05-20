@@ -1,1 +1,1 @@
-var mnemonic = "social cave ivory work remain eagle runway ankle gift glory frequent indicate";
+var mnemonic = "timber love canal fitness desert stove street width pear busy goose sword";

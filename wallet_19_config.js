@@ -1,1 +1,1 @@
-var mnemonic = "shrug embody marble clap slush million admit tide finish please clutch proof";
+var mnemonic = "amount ride sausage hint father chunk oyster axis enact just baby heavy";

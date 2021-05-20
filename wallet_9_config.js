@@ -1,1 +1,1 @@
-var mnemonic = "because mule swamp naive cream step banana govern above palm suffer marine";
+var mnemonic = "clip then curve sweet account flower few detail arm stage winner kidney";

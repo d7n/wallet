@@ -1,1 +1,1 @@
-var mnemonic = "stadium useful security legal used vocal history churn aim thing medal master";
+var mnemonic = "arm sport combine hood excite fabric december derive frequent rubber medal base";

@@ -1,1 +1,1 @@
-var mnemonic = "congress immune decide guilt tonight rice stick pistol crumble seat unveil solve";
+var mnemonic = "brave grant olive save summer stuff poet bridge express surface portion exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy solution bulb journey panel then dial world glare onion orbit final";
+var mnemonic = "film quote submit broom long boil pride bonus remind grab unique sense";

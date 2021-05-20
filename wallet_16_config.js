@@ -1,1 +1,1 @@
-var mnemonic = "stem deny latin sorry tongue cereal upgrade hood figure video borrow cat";
+var mnemonic = "grocery artwork tone board ripple start power pioneer rival couch suspect apology";

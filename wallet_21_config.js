@@ -1,1 +1,1 @@
-var mnemonic = "buffalo detect aim because little attitude unusual close couch easy vapor end";
+var mnemonic = "awesome eyebrow cabbage field alcohol slab rich announce glass track bullet online";

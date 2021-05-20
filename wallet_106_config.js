@@ -1,1 +1,1 @@
-var mnemonic = "town snake tool power ignore host chicken detail scene sister mule submit";
+var mnemonic = "artefact same output employ beauty slim blind message unhappy equip green hip";

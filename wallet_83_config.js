@@ -1,1 +1,1 @@
-var mnemonic = "banana loan spin avocado fault horse suffer title escape income return nice";
+var mnemonic = "excess board volcano acquire fly frozen weasel winter vicious transfer rival scissors";

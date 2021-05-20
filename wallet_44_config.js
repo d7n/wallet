@@ -1,1 +1,1 @@
-var mnemonic = "tank donor pattern nurse silk wave city top vicious harvest joke color";
+var mnemonic = "fit number dignity physical sight damage job sound river expand chalk ready";

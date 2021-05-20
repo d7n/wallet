@@ -1,1 +1,1 @@
-var mnemonic = "cake twist toddler whale benefit sketch doctor eagle record correct portion gather";
+var mnemonic = "letter resource feel history wear nose library sad banner clip time decorate";

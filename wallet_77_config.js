@@ -1,1 +1,1 @@
-var mnemonic = "rhythm rug need quality grant foil boy bag frequent screen bonus carpet";
+var mnemonic = "dish raw paddle million vendor enemy umbrella normal fantasy throw flush hungry";

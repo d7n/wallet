@@ -1,1 +1,1 @@
-var mnemonic = "job raw economy online radar calm side between ahead giant oak bid";
+var mnemonic = "arena history rough reduce report dune home brother adjust already clog denial";

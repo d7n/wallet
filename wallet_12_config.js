@@ -1,1 +1,1 @@
-var mnemonic = "road move auction hope verb judge gadget require jewel success object slim";
+var mnemonic = "narrow maple project naive long found pottery just square evil congress boring";

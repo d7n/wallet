@@ -1,1 +1,1 @@
-var mnemonic = "drip potato behave federal buyer priority diary detect once crop toddler math";
+var mnemonic = "suspect misery error badge good veteran blanket movie hen correct verify issue";

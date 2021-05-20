@@ -1,1 +1,1 @@
-var mnemonic = "duck crumble response model bicycle eager sugar expand used tiny hungry blouse";
+var mnemonic = "nephew ginger expand social trap vibrant emerge truth sponsor theory tunnel correct";

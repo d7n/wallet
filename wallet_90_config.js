@@ -1,1 +1,1 @@
-var mnemonic = "rule recall gold quality mouse rely choose soon vibrant collect segment laptop";
+var mnemonic = "swamp brother tilt cake butter bike celery leader sketch label sport abandon";

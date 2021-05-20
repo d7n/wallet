@@ -1,1 +1,1 @@
-var mnemonic = "banner vanish rib girl assist crunch mention cube lava humble paper engage";
+var mnemonic = "where fatigue affair beauty skate target pretty normal maze wisdom canvas hobby";

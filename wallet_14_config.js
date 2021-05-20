@@ -1,1 +1,1 @@
-var mnemonic = "burden initial galaxy benefit into matrix rose mean symptom brown sentence noodle";
+var mnemonic = "excess slot mixture champion exile lava what month achieve visual dune hawk";

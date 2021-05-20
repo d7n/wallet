@@ -1,1 +1,1 @@
-var mnemonic = "rib sort sudden doctor payment foam noise such faith puzzle side junk";
+var mnemonic = "salute verify insane twelve panther squeeze cliff material unknown topic talk vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune arctic tiger honey lava prefer olympic three second near fire prevent";
+var mnemonic = "lobster humble pioneer hand cup item valid flock engine expire law census";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean fame drum source arrow prevent lava upgrade they swift road initial";
+var mnemonic = "pyramid vague render wealth manage glory rotate rug run trade render aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "flash sponsor reform endorse fold street neither cycle tree economy silver worry";
+var mnemonic = "mango sample foster load they inch salad alert update dune meadow total";

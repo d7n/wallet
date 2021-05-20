@@ -1,1 +1,1 @@
-var mnemonic = "flower swap priority police jungle snow thumb network weekend outdoor jaguar burger";
+var mnemonic = "boat ensure beach spare pencil snap roast mushroom found half act run";

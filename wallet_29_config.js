@@ -1,1 +1,1 @@
-var mnemonic = "render spatial grant observe dignity scale quit media heavy youth boy verify";
+var mnemonic = "entry bulk hip december teach shaft hidden animal peasant input cricket vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "entire rhythm you exhaust day ramp place sail initial cushion trend blossom";
+var mnemonic = "reason toe hand flip market doctor doll shift win dry letter leaf";

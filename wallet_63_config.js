@@ -1,1 +1,1 @@
-var mnemonic = "mystery column ecology aerobic dragon onion kiwi fancy friend sting infant unfair";
+var mnemonic = "crop iron price process erase section initial awkward switch lecture upset rifle";

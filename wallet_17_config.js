@@ -1,1 +1,1 @@
-var mnemonic = "crucial blame write human funny achieve fossil song village toast accident clog";
+var mnemonic = "success used brief knock fluid balance field vocal flight endorse situate response";

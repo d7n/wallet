@@ -1,1 +1,1 @@
-var mnemonic = "term will fish orchard promote about sustain diary fuel seven omit capital";
+var mnemonic = "skull kiss chicken husband final oyster chapter slot magic caution order accident";

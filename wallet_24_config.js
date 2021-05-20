@@ -1,1 +1,1 @@
-var mnemonic = "dune invest magic adult stock misery sentence enemy laundry claim purity they";
+var mnemonic = "height sausage lazy snow winner drip awful peace squirrel acid bomb rebel";

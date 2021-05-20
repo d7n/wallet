@@ -1,1 +1,1 @@
-var mnemonic = "angry sibling inside action cloth bird lesson empower burger pioneer elevator artist";
+var mnemonic = "spirit waste shoot receive woman gaze slim shock can grow denial endorse";

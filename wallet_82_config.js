@@ -1,1 +1,1 @@
-var mnemonic = "version return purse slogan nerve idle area sheriff current lawn repeat rude";
+var mnemonic = "pride absurd shield south tongue tiger fabric swallow wall hollow tonight maple";

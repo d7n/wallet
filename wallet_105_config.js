@@ -1,1 +1,1 @@
-var mnemonic = "proof burger trash high planet abstract report cost stone case gorilla dutch";
+var mnemonic = "extend alien trip agent sponsor problem vocal topple source peanut lens road";

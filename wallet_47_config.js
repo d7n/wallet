@@ -1,1 +1,1 @@
-var mnemonic = "wife video couch evil salute spawn print salute will result arch debris";
+var mnemonic = "animal jungle excuse blur vintage future jealous admit smile tonight couple make";

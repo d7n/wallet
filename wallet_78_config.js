@@ -1,1 +1,1 @@
-var mnemonic = "during slogan pause increase refuse speed test clog toilet globe absent eternal";
+var mnemonic = "net visa mask market useful media pilot dream lunar december evidence potato";

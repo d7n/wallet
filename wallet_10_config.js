@@ -1,1 +1,1 @@
-var mnemonic = "school fold boss cluster guard energy donor north route cheap loan team";
+var mnemonic = "purity surface cloud either ginger inflict word whale radar cherry leg check";

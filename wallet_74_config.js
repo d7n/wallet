@@ -1,1 +1,1 @@
-var mnemonic = "radio vacant body into digital clay outdoor tooth crime sword eyebrow cute";
+var mnemonic = "general lawn rack build churn wheel warrior famous base puzzle fee illness";

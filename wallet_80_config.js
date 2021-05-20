@@ -1,1 +1,1 @@
-var mnemonic = "suffer music crew display float color tag lonely carpet body cushion seven";
+var mnemonic = "humble birth bargain area tiny tape term frog improve wrong sort speak";

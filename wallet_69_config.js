@@ -1,1 +1,1 @@
-var mnemonic = "stone warfare annual emotion exhaust swear unknown panda draw orchard sorry around";
+var mnemonic = "feature bone steel shoot three sick foot any service struggle weasel stone";

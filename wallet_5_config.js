@@ -1,1 +1,1 @@
-var mnemonic = "wing always cradle open trim gold execute mimic private absurd flip recipe";
+var mnemonic = "skin clever lucky minute camera canvas nose pencil extend soda have person";

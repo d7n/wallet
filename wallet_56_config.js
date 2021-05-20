@@ -1,1 +1,1 @@
-var mnemonic = "payment enlist level party sunset subject subject strike toss refuse finger brass";
+var mnemonic = "manual segment quality sock now blame device cattle observe orange motion object";

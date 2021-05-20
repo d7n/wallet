@@ -1,1 +1,1 @@
-var mnemonic = "gravity foam cute ski rookie liquid canyon logic dolphin sad rural tape";
+var mnemonic = "bounce egg addict result pilot trim culture acquire equal toward quality maze";

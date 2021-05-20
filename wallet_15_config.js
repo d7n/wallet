@@ -1,1 +1,1 @@
-var mnemonic = "worth mule crisp swamp wool crater rose essence fringe anger latin corn";
+var mnemonic = "keep behave cousin desert ridge excess equal solid lizard predict steak giant";

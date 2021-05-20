@@ -1,1 +1,1 @@
-var mnemonic = "maple elder balcony split master gadget link retire aim elite noble wrestle";
+var mnemonic = "shadow maximum long shadow season parade milk execute subway expect cruise then";

@@ -1,1 +1,1 @@
-var mnemonic = "define arena force budget bunker peanut rule wing tilt dinosaur saddle chuckle";
+var mnemonic = "eager syrup nephew tip remove direct when click word lamp repair food";

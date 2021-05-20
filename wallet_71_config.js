@@ -1,1 +1,1 @@
-var mnemonic = "alone heavy lesson icon festival tourist speed stumble student delay gym dinosaur";
+var mnemonic = "during funny glow airport amount surprise animal direct pony entry globe unknown";

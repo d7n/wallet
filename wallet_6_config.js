@@ -1,1 +1,1 @@
-var mnemonic = "quantum scout mask priority patch enlist minimum update release indoor stem trap";
+var mnemonic = "pact collect rain lizard remember private aim link drink kit answer arrange";

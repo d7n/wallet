@@ -1,1 +1,1 @@
-var mnemonic = "negative ten very lecture oven mandate stuff country crush kitchen recycle thank";
+var mnemonic = "model puppy tennis indoor smooth bind mountain require refuse oil surround engage";

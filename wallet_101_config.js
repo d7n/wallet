@@ -1,1 +1,1 @@
-var mnemonic = "purity vacuum paper shoot orbit still gap soup choice upper main frame";
+var mnemonic = "bargain merit broken nose dinosaur comfort height include print agent civil fragile";

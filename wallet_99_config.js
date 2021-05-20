@@ -1,1 +1,1 @@
-var mnemonic = "uncover toast ice obscure olive high good field kite upper dragon fatal";
+var mnemonic = "weapon actress initial garbage federal arm regret segment rigid now release fashion";

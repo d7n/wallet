@@ -1,1 +1,1 @@
-var mnemonic = "renew there stem above capital verb junk vicious expose shop yellow bulb";
+var mnemonic = "autumn episode black volume genius when welcome exhibit drop impulse stereo mouse";

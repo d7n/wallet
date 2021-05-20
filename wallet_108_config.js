@@ -1,1 +1,1 @@
-var mnemonic = "negative insane become hard trip pig rather cupboard fish tuna energy resource";
+var mnemonic = "zero super letter brush coach duck asset frozen flower roof law fit";

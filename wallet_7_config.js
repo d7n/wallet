@@ -1,1 +1,1 @@
-var mnemonic = "dose dog right innocent film balance scrap affair enrich useful demand lemon";
+var mnemonic = "gaze blind fall concert unfold organ visual use assist such reduce cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit zone employ tank odor hunt relax code humor stumble lizard boat";
+var mnemonic = "shaft path surge trend depth catalog inside scan jar negative sample eagle";

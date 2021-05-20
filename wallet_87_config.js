@@ -1,1 +1,1 @@
-var mnemonic = "nothing expose become sunny produce choice remind fiction chuckle stand salute ship";
+var mnemonic = "rich sing suspect garage about oyster force pole fox rack busy guess";

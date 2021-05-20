@@ -1,1 +1,1 @@
-var mnemonic = "shaft weather february buyer imitate team today fame cage bone honey raccoon";
+var mnemonic = "travel stool arctic spice basic crowd attack diet exile agent cannon cute";

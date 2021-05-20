@@ -1,1 +1,1 @@
-var mnemonic = "defy hurdle erase neutral upon kid yellow pony spread power cool turn";
+var mnemonic = "pave grunt cash salmon trigger enrich license payment crumble catch pelican scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "range drift long term document volcano spell fetch pond veteran middle cupboard";
+var mnemonic = "object holiday question mobile coast small off short silent afraid lecture possible";

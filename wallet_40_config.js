@@ -1,1 +1,1 @@
-var mnemonic = "faculty today enrich kick first error wrist transfer recall judge maid more";
+var mnemonic = "december fan battle input oil almost ill topple announce retreat culture immense";

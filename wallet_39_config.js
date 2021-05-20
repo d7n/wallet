@@ -1,1 +1,1 @@
-var mnemonic = "obscure crack now twelve senior ripple gift audit brown ripple output magic";
+var mnemonic = "sadness magic slab hire cabin box rough twist bicycle thumb picture rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "brain post tomorrow hybrid club trick fix symbol discover throw fame tonight";
+var mnemonic = "monster broccoli round virus reason beauty version settle pause chapter flight over";

@@ -1,1 +1,1 @@
-var mnemonic = "must humor era grocery steak dwarf admit version outside private excuse slab";
+var mnemonic = "chalk left crack snow tip seat kid barrel year elbow stand theme";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet feed hundred skin rely concert jelly fruit web spike bread pelican";
+var mnemonic = "hotel radar battle bench spring square menu pony oil depth sell base";

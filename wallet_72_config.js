@@ -1,1 +1,1 @@
-var mnemonic = "youth diary garbage minute swift equip idea kangaroo resist envelope loyal canvas";
+var mnemonic = "solution empty twice quick later post vehicle blush robot dish cinnamon away";

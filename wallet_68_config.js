@@ -1,1 +1,1 @@
-var mnemonic = "ostrich scissors desk resource need health fluid labor wrong verb dumb mango";
+var mnemonic = "reveal rookie bleak matter depend country way permit dry cheese same sniff";

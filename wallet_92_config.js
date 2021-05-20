@@ -1,1 +1,1 @@
-var mnemonic = "popular van desk ladder health december ski evoke strategy art that cave";
+var mnemonic = "forest occur truly farm pole draw buffalo page electric slice hard until";

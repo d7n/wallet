@@ -1,1 +1,1 @@
-var mnemonic = "flower core easily flower car valve retire nephew sense galaxy exile media";
+var mnemonic = "spirit chimney resist credit flock page second hair split transfer coffee salute";

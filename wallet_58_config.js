@@ -1,1 +1,1 @@
-var mnemonic = "muffin bargain bamboo fitness grace business little clock fuel spin settle drink";
+var mnemonic = "shield dose tone exact bicycle online direct lumber merry scrap thrive broom";

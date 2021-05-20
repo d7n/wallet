@@ -1,1 +1,1 @@
-var mnemonic = "dignity train avocado lake insect dream ladder senior physical group impact muscle";
+var mnemonic = "chief public gospel umbrella faculty praise middle same output can useless wreck";

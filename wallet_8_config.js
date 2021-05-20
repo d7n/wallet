@@ -1,1 +1,1 @@
-var mnemonic = "diesel curtain chest fence olive merry normal rain vendor release voice clay";
+var mnemonic = "laptop note kiwi shield marine turkey fatal crazy pull crawl hockey auto";

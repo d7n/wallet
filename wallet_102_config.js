@@ -1,1 +1,1 @@
-var mnemonic = "stem solid brush offer dad medal drastic wise today pioneer cherry curious";
+var mnemonic = "rice electric dentist category hole gap toward fence duck memory theme yellow";

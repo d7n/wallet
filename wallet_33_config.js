@@ -1,1 +1,1 @@
-var mnemonic = "sad lucky pole ticket hero noble cricket chapter place antique analyst feed";
+var mnemonic = "try mind embody pattern horror target shiver toast scene alien detail scissors";

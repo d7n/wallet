@@ -1,1 +1,1 @@
-var mnemonic = "upset tackle lava craft ripple subway fly response survey loyal mom include";
+var mnemonic = "object traffic weather ancient gift south crystal error error wait word fashion";

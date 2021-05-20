@@ -1,1 +1,1 @@
-var mnemonic = "swallow song notable explain anxiety explain coral else machine spatial involve like";
+var mnemonic = "aspect online jeans bottom youth violin tilt calm fit merit fatal work";

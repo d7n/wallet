@@ -1,1 +1,1 @@
-var mnemonic = "output supply sand only fish mango smart omit exchange march destroy pool";
+var mnemonic = "clarify sting boil pact dolphin soap order calm blood maple above sick";

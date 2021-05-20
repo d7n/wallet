@@ -1,1 +1,1 @@
-var mnemonic = "quote bag second cute remain print unfair feel strike exile brain regret";
+var mnemonic = "elder upgrade reduce try despair moment dinosaur talent tiny heart circle cream";

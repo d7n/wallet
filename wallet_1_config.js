@@ -1,1 +1,1 @@
-var mnemonic = "fox claim column exact material hawk select banner list juice satoshi confirm";
+var mnemonic = "rice chunk quote battle hollow erupt aerobic eagle undo thank victory survey";

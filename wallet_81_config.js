@@ -1,1 +1,1 @@
-var mnemonic = "concert crouch mixed claw pink extra drum segment floor sunny deliver dress";
+var mnemonic = "into minute solid critic brick slight solid float vocal flock oppose job";

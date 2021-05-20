@@ -1,1 +1,1 @@
-var mnemonic = "drip proof bamboo lizard account eager best wheel always business veteran coin";
+var mnemonic = "target lava divide pigeon entire trophy stool draft noise eternal wife combine";

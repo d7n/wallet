@@ -1,1 +1,1 @@
-var mnemonic = "hybrid language parrot awful detail valid banana butter derive pass budget egg";
+var mnemonic = "cart vote supreme screen adapt citizen refuse patient dream will van dress";

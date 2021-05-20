@@ -1,1 +1,1 @@
-var mnemonic = "simple sand pole since talent federal you hold essence ready jealous arctic";
+var mnemonic = "domain stem gasp city dizzy basic water wrestle subway coffee wrist strike";

@@ -1,1 +1,1 @@
-var mnemonic = "escape peace lumber rebuild myself suffer behave urban mask blood jungle deposit";
+var mnemonic = "caution surface blossom okay cherry hammer soup weather health citizen miracle parade";

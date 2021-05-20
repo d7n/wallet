@@ -1,1 +1,1 @@
-var mnemonic = "sausage knee artist agent arrest detail robot bullet review chimney thing dizzy";
+var mnemonic = "pilot shove stumble remind appear chimney island program embark mad nominee predict";

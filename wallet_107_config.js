@@ -1,1 +1,1 @@
-var mnemonic = "metal pony churn pelican fix great swift unit flat run opera win";
+var mnemonic = "rocket subway plate involve then segment round potato salt exit brick brief";

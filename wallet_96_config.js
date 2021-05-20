@@ -1,1 +1,1 @@
-var mnemonic = "retire cupboard display science virtual once excess inhale attitude cliff rebuild observe";
+var mnemonic = "margin attack struggle call warfare agent seat ankle kiss fresh also brave";
