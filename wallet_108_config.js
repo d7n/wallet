@@ -1,1 +1,1 @@
-var mnemonic = "below craft solid claw junior diagram tumble thrive interest sad accuse wage";
+var mnemonic = "such empower parent gain mom young input that exist busy verb ball";

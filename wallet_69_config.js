@@ -1,1 +1,1 @@
-var mnemonic = "float banana effort learn opinion company asset argue forest episode wage casino";
+var mnemonic = "spice use music spice fire advance cliff tornado engine wool between fluid";

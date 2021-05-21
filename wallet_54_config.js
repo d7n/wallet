@@ -1,1 +1,1 @@
-var mnemonic = "van position chimney farm uncle search mention define live keen lyrics below";
+var mnemonic = "square wrist mouse live shadow hold please legal draw reject eternal senior";

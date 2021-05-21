@@ -1,1 +1,1 @@
-var mnemonic = "human license release flight equal index metal caution north trend beef nation";
+var mnemonic = "senior deposit error snap public toss table glare robust drip stone abstract";

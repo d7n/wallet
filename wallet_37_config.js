@@ -1,1 +1,1 @@
-var mnemonic = "alpha margin use spin enough ritual stay black there pepper moment town";
+var mnemonic = "energy excuse actress title merit consider evidence sausage kid erupt lounge rose";

@@ -1,1 +1,1 @@
-var mnemonic = "picture marble gossip dawn menu make mule into cinnamon ridge please woman";
+var mnemonic = "fatigue tower cool update chapter vicious casual banner topic retreat rug machine";

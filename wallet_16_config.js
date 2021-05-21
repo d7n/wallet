@@ -1,1 +1,1 @@
-var mnemonic = "scrap reveal someone winner vehicle join rotate trip behave bargain raw melt";
+var mnemonic = "waste property lunar champion judge rebel buffalo tackle deposit odor doctor excess";

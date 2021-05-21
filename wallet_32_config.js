@@ -1,1 +1,1 @@
-var mnemonic = "brown then guard misery main equip aerobic ladder return bulb dove october";
+var mnemonic = "memory flash already midnight shaft vast meat fabric panic trust swift record";

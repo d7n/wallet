@@ -1,1 +1,1 @@
-var mnemonic = "rate boy disorder dignity ask rescue omit elegant side dinosaur key shell";
+var mnemonic = "stadium account pink scare gun portion garage winter cart beyond beef item";

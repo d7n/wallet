@@ -1,1 +1,1 @@
-var mnemonic = "release spot sign consider debris purpose loan tail foam what convince radar";
+var mnemonic = "mercy upper vanish inch engine wagon check blush torch depend enroll hunt";

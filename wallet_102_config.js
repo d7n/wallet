@@ -1,1 +1,1 @@
-var mnemonic = "head coyote gospel awkward kick correct submit wrist hawk entire twin goddess";
+var mnemonic = "pepper cupboard trial area flame behind animal fee horse pledge patrol lumber";

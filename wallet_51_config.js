@@ -1,1 +1,1 @@
-var mnemonic = "effort zoo engine ribbon angry gossip reject clinic engine garage knife shaft";
+var mnemonic = "light property stove mail neck keep worry prison habit motion rather glide";

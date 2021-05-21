@@ -1,1 +1,1 @@
-var mnemonic = "brown casual stable march forget dolphin second column limit false seven caution";
+var mnemonic = "earn provide pledge ability omit original century hunt section clay damp plug";

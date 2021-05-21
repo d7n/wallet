@@ -1,1 +1,1 @@
-var mnemonic = "chair walk pool gate hen lock choose wall private crack foam boil";
+var mnemonic = "grape clutch innocent loud cradle boring grit can donkey bargain mention wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "cute letter burst guilt play install seven damage net envelope orange verify";
+var mnemonic = "athlete frame angry industry permit asset unit rally click toddler wealth runway";

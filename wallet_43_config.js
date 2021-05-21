@@ -1,1 +1,1 @@
-var mnemonic = "silly boil song catalog immune bachelor gown ankle live valve witness attract";
+var mnemonic = "patrol helmet height vocal mammal miracle stuff burst click collect invite absent";

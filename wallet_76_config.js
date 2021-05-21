@@ -1,1 +1,1 @@
-var mnemonic = "engage oblige sauce glare jealous offer lend creek lobster noodle unfold arrest";
+var mnemonic = "act tuna pistol cruise job federal inject leg lift rug decline list";

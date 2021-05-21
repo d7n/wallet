@@ -1,1 +1,1 @@
-var mnemonic = "twelve immune edge unfair attitude bounce accident eight clip start behind crush";
+var mnemonic = "winner muffin shuffle mirror sister puzzle frown bird column wedding source local";

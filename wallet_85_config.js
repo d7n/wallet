@@ -1,1 +1,1 @@
-var mnemonic = "trick tool odor cost refuse worth pave lawn chapter bitter quarter antenna";
+var mnemonic = "talent piano will change they victory month slot gossip knife push pizza";

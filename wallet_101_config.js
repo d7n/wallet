@@ -1,1 +1,1 @@
-var mnemonic = "ranch foil fabric debris slot sunny kangaroo what night move urban cause";
+var mnemonic = "rice cupboard sound ankle smile drink assist biology comic draw mind mechanic";

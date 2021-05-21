@@ -1,1 +1,1 @@
-var mnemonic = "outer screen swing bus wrap apology maximum bean race maximum vocal scare";
+var mnemonic = "quarter rabbit interest another open garbage nasty check blouse coin olive lesson";

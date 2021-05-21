@@ -1,1 +1,1 @@
-var mnemonic = "piece script glare cheap kitchen eight cannon leaf hawk unlock setup chicken";
+var mnemonic = "match assist boil gap glimpse grace clinic confirm person escape nuclear click";

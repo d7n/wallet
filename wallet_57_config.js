@@ -1,1 +1,1 @@
-var mnemonic = "loyal fence cotton cruise topic sell jar awkward anxiety ranch slice man";
+var mnemonic = "offer cage wrist spoon remind click crash embody arrow saddle radar shift";

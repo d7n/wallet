@@ -1,1 +1,1 @@
-var mnemonic = "drive exhaust result target two olive coach vocal expire clarify poet judge";
+var mnemonic = "course version wet gym way leopard happy modify response coyote join much";

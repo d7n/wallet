@@ -1,1 +1,1 @@
-var mnemonic = "cost match emerge enrich across barrel undo sad curve three orphan latin";
+var mnemonic = "menu shiver cute core better medal gallery main measure symbol want magic";

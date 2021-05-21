@@ -1,1 +1,1 @@
-var mnemonic = "guide rally canal poet merry disorder pool tragic park imitate ability organ";
+var mnemonic = "globe peanut tennis gossip settle pool please cattle impulse web ignore leg";

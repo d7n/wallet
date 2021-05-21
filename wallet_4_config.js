@@ -1,1 +1,1 @@
-var mnemonic = "sorry book mansion dove tattoo horse unusual spike kid mom book armor";
+var mnemonic = "much cradle float knock scatter night phrase alter nose brass capable improve";

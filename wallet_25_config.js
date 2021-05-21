@@ -1,1 +1,1 @@
-var mnemonic = "split soccer grief club afford toilet save erupt artist latin whale clean";
+var mnemonic = "palace age plug belt palm drama voyage angry click snow next recall";

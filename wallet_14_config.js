@@ -1,1 +1,1 @@
-var mnemonic = "accuse replace trash citizen sport horn chicken bundle matter inject best question";
+var mnemonic = "harbor bus output fresh cake comic worry cart remember fever lucky staff";

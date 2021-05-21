@@ -1,1 +1,1 @@
-var mnemonic = "swing question front sell memory vicious year that trim group melody tent";
+var mnemonic = "smoke loop kidney flash draw frost glow truly ask rebuild century ketchup";

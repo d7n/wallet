@@ -1,1 +1,1 @@
-var mnemonic = "library reject champion voice similar disease travel gather ramp top list relax";
+var mnemonic = "summer enough project adapt sweet cactus weather light venue jeans near hammer";

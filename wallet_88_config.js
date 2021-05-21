@@ -1,1 +1,1 @@
-var mnemonic = "middle pledge castle admit bamboo depth hungry nature differ toddler giggle bunker";
+var mnemonic = "filter size idea excite also culture birth present winter cross oxygen crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "style stuff breeze enforce access remind else dune link jaguar cheap script";
+var mnemonic = "minute wood hazard either shallow art found cricket blouse roast organ kind";

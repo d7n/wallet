@@ -1,1 +1,1 @@
-var mnemonic = "gun bullet gloom antenna object immense polar egg swap young water execute";
+var mnemonic = "giant useless morning surround student alarm siren feel original flee potato degree";

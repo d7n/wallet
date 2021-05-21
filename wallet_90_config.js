@@ -1,1 +1,1 @@
-var mnemonic = "girl carpet spatial wheel winner orphan fix asthma matter photo mind grief";
+var mnemonic = "term juice asset absurd gadget smooth dutch oppose error dinosaur enact heart";

@@ -1,1 +1,1 @@
-var mnemonic = "detect action egg grow wait sniff siege pyramid shoulder earn memory solve";
+var mnemonic = "friend wine daring drive robust beef permit rain canvas cousin wire humor";

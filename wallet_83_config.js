@@ -1,1 +1,1 @@
-var mnemonic = "patrol version nerve later cliff million invite dish stock sister used mention";
+var mnemonic = "suffer maximum now project mutual submit wrist ivory huge smart undo album";

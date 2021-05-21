@@ -1,1 +1,1 @@
-var mnemonic = "language universe govern put airport will ritual start alley echo response fancy";
+var mnemonic = "quality olympic fatigue web sword wool feel powder floor second like glare";

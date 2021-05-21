@@ -1,1 +1,1 @@
-var mnemonic = "dirt reward penalty alien shuffle asset cat budget rare cement rookie raise";
+var mnemonic = "group grain aunt play alert valley victory twice fox deposit wage misery";

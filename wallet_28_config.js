@@ -1,1 +1,1 @@
-var mnemonic = "aisle raccoon depend front bonus load cream repeat entire rebuild they media";
+var mnemonic = "loan captain select method deny kick silly cook bonus awkward cradle black";

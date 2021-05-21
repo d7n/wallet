@@ -1,1 +1,1 @@
-var mnemonic = "save another style soon weasel immense tent clinic second give oven exhibit";
+var mnemonic = "scale slogan shell still they want combine nest odor crane visit protect";

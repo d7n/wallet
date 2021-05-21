@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bulb myth soccer blanket fetch alpha path morning define catalog replace";
+var mnemonic = "retreat price magic accuse member oven border relief prevent churn prize borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "expand lunar moment pretty hat pond brisk vast tent meadow salad head";
+var mnemonic = "clown output any achieve thumb song frown wolf dynamic steel ice curtain";

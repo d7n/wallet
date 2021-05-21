@@ -1,1 +1,1 @@
-var mnemonic = "silver cloth barely swim ecology nature million feed lobster sweet wet cake";
+var mnemonic = "boring dune uncle chair elephant glory venture advice bright property romance door";

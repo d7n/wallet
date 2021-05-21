@@ -1,1 +1,1 @@
-var mnemonic = "depth spoon ticket castle adult gospel flavor tenant egg risk luggage online";
+var mnemonic = "april top push love oppose mandate habit wealth taxi burst grunt work";

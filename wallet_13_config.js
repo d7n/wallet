@@ -1,1 +1,1 @@
-var mnemonic = "give weasel fluid install canal peace trouble style grace address team gospel";
+var mnemonic = "sail puppy taxi cable wedding decide mushroom elder top similar impose spoon";

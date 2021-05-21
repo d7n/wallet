@@ -1,1 +1,1 @@
-var mnemonic = "suggest pluck priority portion rare seminar library upgrade avocado dice duty clock";
+var mnemonic = "together measure settle icon mind squeeze ill stick cost runway diesel dance";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty silent monster defense rally proof under armor manage pause leisure wide";
+var mnemonic = "spell audit alarm curious orphan stage print need arrive globe trust battle";

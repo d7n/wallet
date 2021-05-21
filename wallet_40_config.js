@@ -1,1 +1,1 @@
-var mnemonic = "wet dad chat slogan deliver hen parrot hair unaware replace champion sphere";
+var mnemonic = "pretty clarify engage scatter adapt wife relief resource minor gather host grit";

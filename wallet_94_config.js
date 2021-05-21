@@ -1,1 +1,1 @@
-var mnemonic = "balance bone response engine vault veteran tuition blur creek crazy track fork";
+var mnemonic = "vocal author before urban fantasy spirit addict actor bulk wagon alley december";

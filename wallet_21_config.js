@@ -1,1 +1,1 @@
-var mnemonic = "scan series cliff joke frame margin cart pepper furnace able lady pride";
+var mnemonic = "festival suit office glass planet elevator summer fee pave safe beyond pill";

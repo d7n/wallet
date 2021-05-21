@@ -1,1 +1,1 @@
-var mnemonic = "retire snow card kiss recycle rifle custom plate benefit obvious bring old";
+var mnemonic = "level unaware rose despair boring push wash throw marble cream race country";

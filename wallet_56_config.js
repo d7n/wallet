@@ -1,1 +1,1 @@
-var mnemonic = "bonus luxury tornado idle latin inform tower margin also hobby barely pumpkin";
+var mnemonic = "begin train problem umbrella width layer brother horror strike early left clean";

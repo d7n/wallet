@@ -1,1 +1,1 @@
-var mnemonic = "panic oblige fever paddle trumpet solve kiwi sand company borrow coffee scale";
+var mnemonic = "unaware keep venture recipe tired balcony insect fun inside age basic garden";

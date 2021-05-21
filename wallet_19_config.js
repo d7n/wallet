@@ -1,1 +1,1 @@
-var mnemonic = "achieve gospel sheriff pencil leaf maid upgrade capable grid develop gadget joke";
+var mnemonic = "argue thumb major valve breeze surge lawsuit say tuition garage letter degree";

@@ -1,1 +1,1 @@
-var mnemonic = "issue caught trim exhibit omit wave goose tell swear lizard labor home";
+var mnemonic = "loop eight laugh control bitter bundle please olive now device upon debris";

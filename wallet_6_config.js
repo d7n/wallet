@@ -1,1 +1,1 @@
-var mnemonic = "orchard pottery episode inspire craft frost stem collect bar remind dwarf region";
+var mnemonic = "timber bread stem nest leg angry vague clean warfare mutual obey memory";

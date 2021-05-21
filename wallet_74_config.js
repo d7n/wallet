@@ -1,1 +1,1 @@
-var mnemonic = "team plug permit lava consider pumpkin enhance reduce zebra slab evil unfold";
+var mnemonic = "monitor recycle dust loan coin file canvas ginger neutral wear celery battle";

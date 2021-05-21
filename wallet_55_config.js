@@ -1,1 +1,1 @@
-var mnemonic = "unveil cat evoke orchard enter arena vault fee hospital virus pool must";
+var mnemonic = "begin flock royal end much rhythm real used long smooth hole sheriff";

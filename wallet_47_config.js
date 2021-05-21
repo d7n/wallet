@@ -1,1 +1,1 @@
-var mnemonic = "mesh couch version brain comfort strike glance major sun sudden elevator sweet";
+var mnemonic = "focus seven item fossil high certain soup industry cup crisp region skull";

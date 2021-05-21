@@ -1,1 +1,1 @@
-var mnemonic = "author glass practice one this spider peace hospital disorder weapon outside rent";
+var mnemonic = "erosion mind burden electric mesh nice sniff elephant home split liberty dawn";

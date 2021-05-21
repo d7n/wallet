@@ -1,1 +1,1 @@
-var mnemonic = "pattern defense enough six song jump invite come autumn cupboard mother strike";
+var mnemonic = "deer sister pool sting syrup leader fragile elevator crystal else melt monster";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny toe tape auto green woman field ecology slam convince start plastic";
+var mnemonic = "return ethics brother cook client fat share theory bonus behave project fatigue";

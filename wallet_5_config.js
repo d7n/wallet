@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog bundle label leaf stand mesh label friend bread job lamp honey";
+var mnemonic = "marine water relax manage such dose language wage submit endorse young exchange";

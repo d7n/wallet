@@ -1,1 +1,1 @@
-var mnemonic = "correct blood cram craft mountain crisp author holiday surprise ahead valley october";
+var mnemonic = "shy matrix symbol whip give solution morning asthma allow clog cute emotion";

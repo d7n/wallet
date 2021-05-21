@@ -1,1 +1,1 @@
-var mnemonic = "addict share aware attitude finish mechanic stadium arch glory biology alter come";
+var mnemonic = "label engine hint squirrel region mirror effort bronze ball palace ill document";

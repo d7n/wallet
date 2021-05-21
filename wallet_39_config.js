@@ -1,1 +1,1 @@
-var mnemonic = "thing talk use patient moon boost urge slim mango frost source street";
+var mnemonic = "stay sell innocent parade street deputy wall suspect please excuse card destroy";

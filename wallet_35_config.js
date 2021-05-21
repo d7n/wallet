@@ -1,1 +1,1 @@
-var mnemonic = "connect invest blue tonight pull jaguar gown run fragile harvest fiscal split";
+var mnemonic = "old basic alone merit shove fade orange office absent round ranch mercy";

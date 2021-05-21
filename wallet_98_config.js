@@ -1,1 +1,1 @@
-var mnemonic = "rug wave anxiety find hollow predict net depend exhaust blouse circle prison";
+var mnemonic = "exit chat letter urban load code limb empty retreat jump cram middle";

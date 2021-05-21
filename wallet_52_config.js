@@ -1,1 +1,1 @@
-var mnemonic = "fan palace media rabbit swap nut upset solve hundred wood sick hybrid";
+var mnemonic = "farm process tackle program style dry appear luxury one verb ten dash";

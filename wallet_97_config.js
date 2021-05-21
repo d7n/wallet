@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fever left shoulder six pole flock search deal artwork helmet basket";
+var mnemonic = "circle cattle club sustain jungle arrow stadium quantum inmate follow wage salmon";

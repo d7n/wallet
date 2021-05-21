@@ -1,1 +1,1 @@
-var mnemonic = "clown park grant tourist purse paper rate web cram tail music frog";
+var mnemonic = "curtain deputy dismiss legal stuff resemble attack isolate achieve battle amount ghost";

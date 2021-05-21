@@ -1,1 +1,1 @@
-var mnemonic = "wash maximum absent usual grid vibrant behind gorilla adult nose sight mass";
+var mnemonic = "tissue public arch process diary twice tent tongue hub tiger unique echo";

@@ -1,1 +1,1 @@
-var mnemonic = "happy bright earn below lawsuit barely inflict custom viable bounce pretty amazing";
+var mnemonic = "spatial negative wing solve media school hero blossom prize galaxy insane enact";

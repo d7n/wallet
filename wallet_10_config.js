@@ -1,1 +1,1 @@
-var mnemonic = "toilet thought axis tiny faculty relief vacuum pause choice roast dad under";
+var mnemonic = "victory autumn angry stadium receive bind enhance slight hub trick soft task";

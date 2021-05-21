@@ -1,1 +1,1 @@
-var mnemonic = "wrong little payment predict soul outdoor bamboo ribbon advance appear kit apology";
+var mnemonic = "glad truck finish trigger patient ill permit horror retire devote expire say";

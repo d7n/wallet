@@ -1,1 +1,1 @@
-var mnemonic = "roast rocket silly fruit become avocado surge just rubber donkey helmet battle";
+var mnemonic = "try rebuild gap normal giraffe include give edit arrange dad cricket fence";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor amazing army hire slide path spare carbon aim board upon smile";
+var mnemonic = "ugly syrup badge puppy exclude claw crane betray address fashion flame icon";

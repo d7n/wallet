@@ -1,1 +1,1 @@
-var mnemonic = "smart juice pond great parrot ask bright economy build episode borrow mystery";
+var mnemonic = "segment stone quote claw eternal link song ozone below rocket boat toy";

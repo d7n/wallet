@@ -1,1 +1,1 @@
-var mnemonic = "air sport goose girl trip suspect era nut crime swift swing ride";
+var mnemonic = "panic bottom broken learn grunt thing rookie enhance cactus skate lunch strategy";

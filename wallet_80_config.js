@@ -1,1 +1,1 @@
-var mnemonic = "frame urban select topple animal grab size trust force online gym old";
+var mnemonic = "police beauty tonight cherry page car license juice wrist divert suggest clock";

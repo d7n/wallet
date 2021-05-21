@@ -1,1 +1,1 @@
-var mnemonic = "caution quality wreck turtle twenty husband decide asthma firm tray zero push";
+var mnemonic = "scene tiger outer worry observe fire cloud young upgrade fiber bridge december";

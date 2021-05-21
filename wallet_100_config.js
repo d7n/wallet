@@ -1,1 +1,1 @@
-var mnemonic = "toward wage ignore scatter bus burst gown diagram turtle security illegal prevent";
+var mnemonic = "seed rabbit vendor analyst report rate lucky flip bubble cloud law noodle";

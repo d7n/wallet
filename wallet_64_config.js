@@ -1,1 +1,1 @@
-var mnemonic = "way valley rough electric brave carpet cable kidney nothing history monkey asset";
+var mnemonic = "shuffle disease purse portion water rude help sport cake venture expire absent";

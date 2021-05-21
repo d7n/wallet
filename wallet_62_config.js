@@ -1,1 +1,1 @@
-var mnemonic = "already stand lamp race satoshi recycle hand flee cotton alien genuine marine";
+var mnemonic = "genuine million bar vague vote quarter fiction lend laugh render fatigue sister";

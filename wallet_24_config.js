@@ -1,1 +1,1 @@
-var mnemonic = "have wasp alien warfare dinosaur joy visit nephew expire note cliff actor";
+var mnemonic = "include merge strategy fantasy draft ivory also add pony fit member recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "armor artefact marriage urban offer logic market tragic deal episode melt exchange";
+var mnemonic = "parade post peanut replace general blanket trigger order page punch valid lunch";

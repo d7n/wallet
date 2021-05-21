@@ -1,1 +1,1 @@
-var mnemonic = "century sibling doll shoe update hold path poverty robust exhaust twin measure";
+var mnemonic = "legend marriage obvious load east such wish gym swarm ladder glance metal";

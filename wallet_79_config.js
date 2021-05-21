@@ -1,1 +1,1 @@
-var mnemonic = "actor spare junk heart crisp lock index pig carpet garden atom convince";
+var mnemonic = "trial casual gloom library become hope sustain engage carbon few teach bounce";

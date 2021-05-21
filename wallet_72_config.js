@@ -1,1 +1,1 @@
-var mnemonic = "talent anger maid bind seek inspire actual bargain vault popular flat have";
+var mnemonic = "clerk unfold october price chicken inside egg square bike rely burst remove";

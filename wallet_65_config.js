@@ -1,1 +1,1 @@
-var mnemonic = "myth item milk achieve tuna orbit trouble pilot fluid mutual glory tackle";
+var mnemonic = "practice fiber salmon soap design sunny wait oak pass genius chimney ketchup";

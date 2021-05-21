@@ -1,1 +1,1 @@
-var mnemonic = "coyote work reject machine music hurt annual spawn yard orphan ranch glance";
+var mnemonic = "forum middle you width tape obvious rally chase diary square bird level";

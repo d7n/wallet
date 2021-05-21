@@ -1,1 +1,1 @@
-var mnemonic = "tortoise friend film gift couch doll display fresh virus rose desert normal";
+var mnemonic = "change present debate display category sketch case oval cushion hub edit honey";

@@ -1,1 +1,1 @@
-var mnemonic = "palm grace frequent list have west winter devote half thank drop shift";
+var mnemonic = "render avoid ceiling merge chest enrich swear daughter video enroll impact move";
