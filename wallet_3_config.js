@@ -1,1 +1,1 @@
-var mnemonic = "document route lucky glow tourist season master sea leader document tiny onion";
+var mnemonic = "grant corn luggage tower staff tilt bike poem wage pill tag comfort";

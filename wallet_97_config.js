@@ -1,1 +1,1 @@
-var mnemonic = "remember unit rigid leopard give edit profit project scissors invite dentist detail";
+var mnemonic = "canal alcohol glare inherit recall lesson laugh mosquito elbow reunion over rebel";

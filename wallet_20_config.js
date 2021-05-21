@@ -1,1 +1,1 @@
-var mnemonic = "unveil connect hint crouch mandate spread apple coral entry burger height high";
+var mnemonic = "return bring science impulse winner walk catalog guard dress wild ginger wise";

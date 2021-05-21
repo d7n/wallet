@@ -1,1 +1,1 @@
-var mnemonic = "palm math muffin aware pretty cereal artist wave resemble play explain drama";
+var mnemonic = "child dwarf episode chalk season target truck quarter win amateur noodle decide";

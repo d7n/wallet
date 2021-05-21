@@ -1,1 +1,1 @@
-var mnemonic = "finish crop lava adult gym sheriff major grit two window aware impose";
+var mnemonic = "eyebrow salt nephew embark client omit rival hole actor torch achieve kitten";

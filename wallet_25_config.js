@@ -1,1 +1,1 @@
-var mnemonic = "version cross height immune speak load sheriff forward over ugly real cigar";
+var mnemonic = "finish enhance list meat hundred initial draft eager moral dust clinic honey";

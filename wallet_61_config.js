@@ -1,1 +1,1 @@
-var mnemonic = "fatal marriage uncle face genuine address system yellow urge before entire decline";
+var mnemonic = "escape pet inside hub space double velvet badge false whale crazy tool";

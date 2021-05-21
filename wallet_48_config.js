@@ -1,1 +1,1 @@
-var mnemonic = "sugar intact cream sniff tail stool chicken mutual ski discover expose regular";
+var mnemonic = "foster thunder soul since unit current thought wise cabin glove build marine";

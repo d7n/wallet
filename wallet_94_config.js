@@ -1,1 +1,1 @@
-var mnemonic = "bid wear gown unique paper ski olive sure surge equal resist truth";
+var mnemonic = "puppy proof cannon number discover camp settle fox reward melody annual fame";

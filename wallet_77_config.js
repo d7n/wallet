@@ -1,1 +1,1 @@
-var mnemonic = "marriage choice frost theme snow oven police crane salad hedgehog leaf assist";
+var mnemonic = "install because conduct thing athlete caution muffin afraid evidence engage park harsh";

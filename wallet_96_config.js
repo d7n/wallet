@@ -1,1 +1,1 @@
-var mnemonic = "build anchor pool crack home race window spell onion increase potato arrow";
+var mnemonic = "main title cash virus fun weird lonely warm file normal monitor copy";

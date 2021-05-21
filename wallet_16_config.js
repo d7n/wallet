@@ -1,1 +1,1 @@
-var mnemonic = "hour fiber report occur profit virus region inform tide flower zoo bright";
+var mnemonic = "dose later during film matrix sister luggage athlete talk exhaust wide drive";

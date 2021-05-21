@@ -1,1 +1,1 @@
-var mnemonic = "denial cave violin number wolf arctic minor where clog almost struggle film";
+var mnemonic = "uphold guilt proof drama next warm chimney guide snake raise decorate above";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal typical orbit device reason peanut nominee believe example carpet country hospital";
+var mnemonic = "build spike nurse fox bleak sauce motion forward village cushion voyage ball";

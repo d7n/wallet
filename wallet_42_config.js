@@ -1,1 +1,1 @@
-var mnemonic = "business offer arrest yellow fatigue slot wear lizard vocal master garbage soon";
+var mnemonic = "unique screen genuine shine zero royal put attitude afraid note clump stove";

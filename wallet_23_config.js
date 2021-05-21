@@ -1,1 +1,1 @@
-var mnemonic = "disorder social garbage stone monitor slender rough saddle exist nerve stool satoshi";
+var mnemonic = "mad dizzy afford nature start brush quit liquid actor discover daughter buddy";

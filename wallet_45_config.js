@@ -1,1 +1,1 @@
-var mnemonic = "civil stick marble chunk fruit ride unlock carry paper shift noise van";
+var mnemonic = "people kingdom dignity radio hungry dress robust deal bird side heavy breeze";

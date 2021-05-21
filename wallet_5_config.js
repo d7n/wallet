@@ -1,1 +1,1 @@
-var mnemonic = "cram fish cave brick absurd banana adult spirit dragon another zoo faith";
+var mnemonic = "habit remain brick riot burst elbow direct tobacco blouse legend answer jungle";

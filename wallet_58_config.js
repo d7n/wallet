@@ -1,1 +1,1 @@
-var mnemonic = "blouse among reason kiss tissue base imitate stomach lend screen blush orbit";
+var mnemonic = "invest frog scout bacon oil lesson skull pill give detect bless acid";

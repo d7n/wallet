@@ -1,1 +1,1 @@
-var mnemonic = "omit dawn conduct damage exclude attend sting grow critic clinic whisper loud";
+var mnemonic = "play stable clutch reward tone reveal magic employ try turn farm now";

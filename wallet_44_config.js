@@ -1,1 +1,1 @@
-var mnemonic = "endorse mouse sibling thunder fantasy cabbage describe any sword upon unique promote";
+var mnemonic = "club pave oval choice census regular all there narrow return render hurt";

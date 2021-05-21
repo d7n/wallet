@@ -1,1 +1,1 @@
-var mnemonic = "track pizza gym return access essence bonus fee gym obscure story female";
+var mnemonic = "twist library bachelor pear relief library empty torch jealous random item lunar";

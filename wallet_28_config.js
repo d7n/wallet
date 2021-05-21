@@ -1,1 +1,1 @@
-var mnemonic = "praise pyramid tragic abandon eight private forest receive suit pluck salmon ginger";
+var mnemonic = "inch share depart earth donate gift absorb pole supply reason awake innocent";

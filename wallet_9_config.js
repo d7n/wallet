@@ -1,1 +1,1 @@
-var mnemonic = "riot logic magnet never document swarm auto orbit code mercy meadow climb";
+var mnemonic = "lucky bid depend proud vacant winter tent sick sphere common invite actress";

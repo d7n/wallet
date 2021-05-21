@@ -1,1 +1,1 @@
-var mnemonic = "radio draft assume plug design leaf voice remain body doctor allow click";
+var mnemonic = "slush exercise seminar economy audit truth volcano rail suspect clump escape vault";

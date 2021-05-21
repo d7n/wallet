@@ -1,1 +1,1 @@
-var mnemonic = "awful rough deputy immense fossil piano way taxi require ignore guide card";
+var mnemonic = "stock hobby habit impose sun sea enhance what width chef digital lounge";

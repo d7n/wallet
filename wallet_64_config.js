@@ -1,1 +1,1 @@
-var mnemonic = "van scatter insect vast also clump brave muffin raw ill best toe";
+var mnemonic = "include diesel inquiry garden fish twice install valid speed ask control candy";

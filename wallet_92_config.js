@@ -1,1 +1,1 @@
-var mnemonic = "tortoise train demise rich biology whisper thank rule because glory hour three";
+var mnemonic = "bachelor public pipe sustain acquire stool common shine lens depth pride round";

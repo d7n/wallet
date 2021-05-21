@@ -1,1 +1,1 @@
-var mnemonic = "pencil slot panther artwork hundred kick resource narrow immense rose unlock price";
+var mnemonic = "glad mango ticket before monster eye boss crowd alone kind embody ribbon";

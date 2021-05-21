@@ -1,1 +1,1 @@
-var mnemonic = "gaze caught dizzy devote mixed message push arrive decorate speed omit eagle";
+var mnemonic = "estate alarm brush sheriff invite slab zone apology path way school vault";

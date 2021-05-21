@@ -1,1 +1,1 @@
-var mnemonic = "strategy injury patch face lawsuit quick father fun minimum bacon load swallow";
+var mnemonic = "pretty must embrace treat double tomorrow pudding ginger grief sunny judge right";

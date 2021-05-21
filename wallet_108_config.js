@@ -1,1 +1,1 @@
-var mnemonic = "tone enough innocent alien obvious sad rival woman donate pond action property";
+var mnemonic = "pair trim zero general skate face tag baby waste screen lamp indicate";

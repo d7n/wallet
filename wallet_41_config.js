@@ -1,1 +1,1 @@
-var mnemonic = "chimney decline edit evoke deputy faculty era clutch coin adult taxi gallery";
+var mnemonic = "parent bless zone setup they multiply rebuild cover public door praise smooth";

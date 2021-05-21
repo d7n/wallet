@@ -1,1 +1,1 @@
-var mnemonic = "clinic fiction robust fire urge wet snake rain puppy during claim key";
+var mnemonic = "lady join asthma walnut script float stamp acquire submit foam lumber tenant";

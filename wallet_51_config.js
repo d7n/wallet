@@ -1,1 +1,1 @@
-var mnemonic = "undo close trick tongue catalog vault slogan kind grab gym snow priority";
+var mnemonic = "edge worry rival excite elephant rocket nothing uphold emotion electric feel resource";

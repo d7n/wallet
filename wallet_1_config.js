@@ -1,1 +1,1 @@
-var mnemonic = "gentle jaguar bicycle borrow until ramp throw shadow lawn betray soap warm";
+var mnemonic = "report diet jazz bag moon meat now unit bring satoshi sadness solution";

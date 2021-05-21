@@ -1,1 +1,1 @@
-var mnemonic = "into sea draw sweet crash kit solution dragon discover vague away near";
+var mnemonic = "cruise demise uniform bless island fatal switch village spin custom toss usage";

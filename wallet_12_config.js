@@ -1,1 +1,1 @@
-var mnemonic = "swap expose lake affair soft runway vast add boy caught chef main";
+var mnemonic = "document dose mystery ostrich address bachelor sad please cradle planet stomach analyst";

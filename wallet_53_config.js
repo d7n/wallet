@@ -1,1 +1,1 @@
-var mnemonic = "alert walnut tray emerge scissors cash divide become glance add oblige cable";
+var mnemonic = "neither casino bulk clarify split rate drastic ahead suggest shrug palace misery";

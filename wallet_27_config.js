@@ -1,1 +1,1 @@
-var mnemonic = "liar meadow universe enemy heart regret mosquito van voyage stereo impulse feed";
+var mnemonic = "dry pull adapt deal glory when fade vague gain use bless exchange";

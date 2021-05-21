@@ -1,1 +1,1 @@
-var mnemonic = "neglect vibrant use winter fly scrap fury wool quantum tourist dawn once";
+var mnemonic = "flush delay funny caution more general drip hub surround now rain dog";

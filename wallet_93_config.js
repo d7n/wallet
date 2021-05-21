@@ -1,1 +1,1 @@
-var mnemonic = "stairs light only loop this trip magnet genuine document pizza fiber monitor";
+var mnemonic = "flip cliff ecology tunnel hospital leopard kit evoke title success pepper struggle";

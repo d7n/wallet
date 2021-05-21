@@ -1,1 +1,1 @@
-var mnemonic = "sample brave raven govern sudden spot arm group ethics fossil beyond sweet";
+var mnemonic = "main fun tooth have fault fan year process vicious way produce ordinary";

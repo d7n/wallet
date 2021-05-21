@@ -1,1 +1,1 @@
-var mnemonic = "ignore explain moment caution roast bottom north stamp chef opera lyrics attack";
+var mnemonic = "merry feature insect model wild clever near more liberty shaft jump vote";

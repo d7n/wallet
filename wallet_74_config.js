@@ -1,1 +1,1 @@
-var mnemonic = "satoshi web report merge silver happy laptop school census stem where fiction";
+var mnemonic = "horn sister together amateur virtual unfold text permit pear come churn game";

@@ -1,1 +1,1 @@
-var mnemonic = "size demise crop frown grit shield force museum minimum stem topple detect";
+var mnemonic = "fire truth abandon digital question install glad huge exhaust indicate swing pioneer";

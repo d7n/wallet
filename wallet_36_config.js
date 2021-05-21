@@ -1,1 +1,1 @@
-var mnemonic = "ill nest model earth fancy useless forest sell deny december holiday enable";
+var mnemonic = "wasp siege bachelor glare kick torch maple slogan dry canoe kind solar";

@@ -1,1 +1,1 @@
-var mnemonic = "mom canal bulk try rich team dish spider object all social act";
+var mnemonic = "degree coconut youth garbage crush join sort whip soldier zoo gas slot";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel sport record beauty clog peace salt lyrics cloth ability opera approve";
+var mnemonic = "surprise scheme genius myself review climb acquire lazy fox buyer foil grunt";

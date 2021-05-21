@@ -1,1 +1,1 @@
-var mnemonic = "essay cupboard student misery skill reflect fan combine eyebrow flock grass twist";
+var mnemonic = "hill drama forward truck thank sense often autumn merry very arrange nice";

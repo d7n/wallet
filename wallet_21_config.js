@@ -1,1 +1,1 @@
-var mnemonic = "illness hockey unusual deer grief school measure smile tattoo refuse faith brother";
+var mnemonic = "render frost wink race unable unfold aim economy trend foster melody tonight";

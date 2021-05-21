@@ -1,1 +1,1 @@
-var mnemonic = "bag lock put board bottom metal hollow wood clock music slice dignity";
+var mnemonic = "maximum people solution bleak brain pledge misery federal what visa damp sphere";

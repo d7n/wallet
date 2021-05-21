@@ -1,1 +1,1 @@
-var mnemonic = "deer soccer observe tide rigid original bird siren column warrior sibling goose";
+var mnemonic = "rose warrior ship mirror skate member undo frequent settle actor slam subject";

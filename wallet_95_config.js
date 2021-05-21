@@ -1,1 +1,1 @@
-var mnemonic = "rack figure once quarter skull liquid mind blue cattle office kite husband";
+var mnemonic = "mixture uniform stuff quarter brave return seat cancel expire glare dolphin economy";

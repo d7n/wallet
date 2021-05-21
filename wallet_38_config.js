@@ -1,1 +1,1 @@
-var mnemonic = "hero tourist divorce soldier tomorrow cigar cupboard yard analyst deputy erode quarter";
+var mnemonic = "dance island senior accident minimum recipe churn excuse nominee toy wedding monkey";

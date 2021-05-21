@@ -1,1 +1,1 @@
-var mnemonic = "lecture resource stock want glory kick add cat gown artist hurry recipe";
+var mnemonic = "pistol tape fox sausage antique sentence half prevent misery glue lyrics script";

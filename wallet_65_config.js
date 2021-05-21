@@ -1,1 +1,1 @@
-var mnemonic = "mix swift vapor verify afford lady crumble ski broccoli around vintage romance";
+var mnemonic = "ridge below ill choose armed say churn verb notable abandon media mosquito";

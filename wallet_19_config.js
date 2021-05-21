@@ -1,1 +1,1 @@
-var mnemonic = "usage rebel shock wear demise book curtain cool display vivid term fitness";
+var mnemonic = "insane bridge ceiling enrich dignity harsh symbol acquire real grape focus mushroom";

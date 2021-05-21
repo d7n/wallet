@@ -1,1 +1,1 @@
-var mnemonic = "envelope blouse chest clean page spice thrive holiday scale snap patient knee";
+var mnemonic = "battle hour snap stand weapon tide panic banner begin end flat armor";

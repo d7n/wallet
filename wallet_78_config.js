@@ -1,1 +1,1 @@
-var mnemonic = "will mass unique rival antique inner dream price rubber fire jelly find";
+var mnemonic = "assault spread disorder corn material swear current wrap museum define evolve anger";

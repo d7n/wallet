@@ -1,1 +1,1 @@
-var mnemonic = "material require ripple wheat essence velvet exact luggage cherry tattoo bid ensure";
+var mnemonic = "sleep actual obvious trial claim confirm visual priority fuel piano bind empty";

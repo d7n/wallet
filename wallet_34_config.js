@@ -1,1 +1,1 @@
-var mnemonic = "resemble puzzle defense dinosaur ribbon crime joy assault mad check jar sing";
+var mnemonic = "satoshi say essay curtain entry episode coach design random kiwi core ignore";

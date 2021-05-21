@@ -1,1 +1,1 @@
-var mnemonic = "loud spin myth pear into runway use situate mercy hill balcony beyond";
+var mnemonic = "forget fortune gadget choice quote submit connect tattoo material tomorrow notable diet";

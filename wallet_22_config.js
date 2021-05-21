@@ -1,1 +1,1 @@
-var mnemonic = "town parrot axis misery amateur naive cool clock place off worth panic";
+var mnemonic = "crush hazard sure habit soccer coyote soul sport ticket setup render ship";

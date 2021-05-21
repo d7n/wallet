@@ -1,1 +1,1 @@
-var mnemonic = "bag illness orient glue lizard envelope attend sing method theme derive agree";
+var mnemonic = "tip cash ketchup laundry squirrel film youth surprise wear whisper replace seed";

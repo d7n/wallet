@@ -1,1 +1,1 @@
-var mnemonic = "brave lens throw mansion alien skill brother hand advice absurd ancient problem";
+var mnemonic = "horse final auto angry payment mass pottery more math desert ivory assault";

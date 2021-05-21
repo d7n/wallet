@@ -1,1 +1,1 @@
-var mnemonic = "general boss subway unhappy monster human door short curious hover ritual grunt";
+var mnemonic = "core useless nose census divert upgrade video canvas badge useless soup liar";

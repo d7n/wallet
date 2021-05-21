@@ -1,1 +1,1 @@
-var mnemonic = "shock inner about aisle syrup income athlete hawk empty brother feel antique";
+var mnemonic = "dune obtain cabbage please scare addict ranch flat deliver source service neck";

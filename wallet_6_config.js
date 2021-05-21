@@ -1,1 +1,1 @@
-var mnemonic = "hotel photo fade social advice concert echo twin matrix atom benefit dash";
+var mnemonic = "kite chair pond veteran inform level pill banana lake mouse style candy";

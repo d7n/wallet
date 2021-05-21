@@ -1,1 +1,1 @@
-var mnemonic = "hunt wrist mimic spawn tomorrow sheriff employ nerve tackle public idea notice";
+var mnemonic = "point rabbit refuse country sock world combine unknown equip cabbage destroy exhaust";

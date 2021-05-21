@@ -1,1 +1,1 @@
-var mnemonic = "damage climb verb lottery rotate scheme already hurdle input rice half chef";
+var mnemonic = "try metal excite together enjoy anxiety vessel peace dad zoo sudden small";

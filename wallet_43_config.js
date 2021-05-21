@@ -1,1 +1,1 @@
-var mnemonic = "dry there spring open fork rather surround acoustic zone switch head tiger";
+var mnemonic = "excuse major enrich actor cement spray canvas virtual ship year wet witness";

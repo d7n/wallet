@@ -1,1 +1,1 @@
-var mnemonic = "shaft true joy inmate control budget album asthma absorb erode depth corn";
+var mnemonic = "prison undo culture pistol wasp shine minimum cattle pole oil satoshi spare";

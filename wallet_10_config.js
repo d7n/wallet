@@ -1,1 +1,1 @@
-var mnemonic = "skull romance canvas frog soap rookie enter payment limit rug pottery coyote";
+var mnemonic = "pelican decrease cattle super else super balance stable atom february toy auto";

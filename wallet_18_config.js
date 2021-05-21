@@ -1,1 +1,1 @@
-var mnemonic = "salt moral rent powder poem north audit couch wall gym nose erupt";
+var mnemonic = "connect account inform prosper roof swallow pave asthma hunt picnic pledge actor";

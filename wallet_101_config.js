@@ -1,1 +1,1 @@
-var mnemonic = "work fluid win injury chicken zebra bridge pyramid veteran debris mesh cost";
+var mnemonic = "verb degree observe axis salad choose divert phone envelope busy coin north";

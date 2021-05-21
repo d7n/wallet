@@ -1,1 +1,1 @@
-var mnemonic = "polar another wing orient debate scan toss soap snake resemble route silly";
+var mnemonic = "return verify when silk season canyon earn knife top tail benefit vibrant";

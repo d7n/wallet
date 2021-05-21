@@ -1,1 +1,1 @@
-var mnemonic = "boss erosion thank mansion dish hurdle ketchup innocent elbow order remove elephant";
+var mnemonic = "slam media appear upgrade sun desk case program shoot cabbage notice work";

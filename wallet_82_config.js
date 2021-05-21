@@ -1,1 +1,1 @@
-var mnemonic = "heavy guard wise rubber dry invest pact measure east effort apology collect";
+var mnemonic = "coyote person market pledge bike orient runway tenant minor ignore voyage update";

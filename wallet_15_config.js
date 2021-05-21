@@ -1,1 +1,1 @@
-var mnemonic = "feature harbor female gym nest system blossom ship guard ancient grant short";
+var mnemonic = "honey retreat situate online snake artist radar naive laptop catch fury sadness";

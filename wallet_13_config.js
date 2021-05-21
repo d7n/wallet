@@ -1,1 +1,1 @@
-var mnemonic = "scrub there raise bring split super embrace cupboard wall blanket pride despair";
+var mnemonic = "critic able net design frog eight defy admit common today tape address";

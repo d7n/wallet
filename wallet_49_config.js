@@ -1,1 +1,1 @@
-var mnemonic = "absent weather embrace profit ugly sentence search air turn plate govern inspire";
+var mnemonic = "obscure enforce lemon problem lock sniff alpha maid steel item capable dress";

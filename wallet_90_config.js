@@ -1,1 +1,1 @@
-var mnemonic = "enhance immune case park frame arrive collect tragic next ship laundry lumber";
+var mnemonic = "pigeon bus guess below prosper human strategy social naive more omit donate";

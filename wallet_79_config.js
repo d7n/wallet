@@ -1,1 +1,1 @@
-var mnemonic = "pair discover struggle funny kingdom tissue divert decrease rug nurse reject couple";
+var mnemonic = "marriage warrior galaxy allow spend field crater industry helmet bargain seat box";

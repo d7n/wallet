@@ -1,1 +1,1 @@
-var mnemonic = "olympic bitter divorce exist swift minor denial bunker loyal lecture arch garlic";
+var mnemonic = "plastic culture jewel toward security paddle flight slight include beyond humor rocket";

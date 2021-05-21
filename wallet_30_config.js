@@ -1,1 +1,1 @@
-var mnemonic = "mercy lemon purse decorate soccer asthma staff year spot adult stable voice";
+var mnemonic = "index together soda liquid dragon stadium panic guess snack tube iron nut";

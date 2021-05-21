@@ -1,1 +1,1 @@
-var mnemonic = "pioneer nasty visa truck excuse stem fork best blur orphan uncle quality";
+var mnemonic = "expand mixed imitate oblige narrow catalog network impact memory pink jungle wait";
