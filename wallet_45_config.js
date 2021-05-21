@@ -1,1 +1,1 @@
-var mnemonic = "fortune royal depth claw giraffe exact gentle tobacco fitness project story furnace";
+var mnemonic = "fox gold tower prosper slim height table scissors dust common acid orient";

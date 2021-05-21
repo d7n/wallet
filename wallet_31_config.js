@@ -1,1 +1,1 @@
-var mnemonic = "finger medal celery drip tube pause taxi motor dentist okay office dumb";
+var mnemonic = "choice afford icon donate grace squirrel frequent state feel alpha where keen";

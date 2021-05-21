@@ -1,1 +1,1 @@
-var mnemonic = "radio embark element sword mistake marble lunch coin hello august develop bread";
+var mnemonic = "pattern hard catalog this column off moment cousin spoon order disagree fuel";

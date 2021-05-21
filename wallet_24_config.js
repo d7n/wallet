@@ -1,1 +1,1 @@
-var mnemonic = "rebel way liquid refuse toast tumble seminar isolate pill tired tuna van";
+var mnemonic = "stairs evoke quality axis hazard nephew ancient define reveal thought net twice";

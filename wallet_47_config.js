@@ -1,1 +1,1 @@
-var mnemonic = "own never define fire abandon erosion despair state rib occur filter forget";
+var mnemonic = "client rain couch bread army practice ramp crane laptop plunge town face";

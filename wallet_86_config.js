@@ -1,1 +1,1 @@
-var mnemonic = "witness range sniff virtual siren bachelor oppose popular describe segment lab guitar";
+var mnemonic = "cousin chronic frozen sort language ranch tornado reform forum cruise office sting";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs sound super priority intact rebuild balcony exact acid public stay excuse";
+var mnemonic = "topple success couch gown focus autumn social true similar gown wrap merge";

@@ -1,1 +1,1 @@
-var mnemonic = "okay bless punch fatigue gravity cash glad ahead camera banana day chef";
+var mnemonic = "bargain flavor liquid tell knife hold either under suit aunt hunt height";

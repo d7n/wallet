@@ -1,1 +1,1 @@
-var mnemonic = "actor grief reason assault skull shallow public seat reveal foot witness verify";
+var mnemonic = "enough yellow destroy trend run teach trick air jazz actual join creek";

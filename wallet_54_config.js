@@ -1,1 +1,1 @@
-var mnemonic = "turn food cheap outer horror plunge caution mechanic feel double property guilt";
+var mnemonic = "sick such double vintage wire denial legal loud trap wild dove primary";

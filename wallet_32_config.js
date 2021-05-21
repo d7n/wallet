@@ -1,1 +1,1 @@
-var mnemonic = "luxury adult like elder speak range meadow scrub powder oil present donor";
+var mnemonic = "drop noodle jealous fabric young frequent merge sponsor famous thumb rebuild brisk";

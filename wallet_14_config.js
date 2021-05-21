@@ -1,1 +1,1 @@
-var mnemonic = "cloud peasant final bike young blame differ nut task novel wedding flush";
+var mnemonic = "topple famous minute dice animal odor reopen industry small have sword illness";

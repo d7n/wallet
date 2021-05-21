@@ -1,1 +1,1 @@
-var mnemonic = "search jacket section whisper cool reason crush dose arrange since abandon check";
+var mnemonic = "rather box gift ticket quit harbor enemy chimney wild grit ski height";

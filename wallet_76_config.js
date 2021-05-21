@@ -1,1 +1,1 @@
-var mnemonic = "possible cushion bamboo enhance scout library neither project icon best genuine fashion";
+var mnemonic = "where have minute response mushroom skirt list hello prison useful require opera";

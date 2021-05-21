@@ -1,1 +1,1 @@
-var mnemonic = "merry effort rice badge zebra eternal fury planet mansion soda lady ability";
+var mnemonic = "protect render crash pattern canal festival art average oven dance youth sing";

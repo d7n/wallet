@@ -1,1 +1,1 @@
-var mnemonic = "spike oppose canyon rely echo shrug upon mixture decide dance absent future";
+var mnemonic = "old burden differ subway chef auction erosion cube kiss sorry melt spot";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual myself they drill can use piano umbrella find gentle retire sell";
+var mnemonic = "shell visual away chief deer clutch fault unable window kid stem virus";

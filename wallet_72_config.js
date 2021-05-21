@@ -1,1 +1,1 @@
-var mnemonic = "sudden van sentence scout kiwi sketch unveil hurry trouble memory tray future";
+var mnemonic = "crane bundle snack fix awake hurdle pool table popular doll attend awkward";

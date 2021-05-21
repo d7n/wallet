@@ -1,1 +1,1 @@
-var mnemonic = "number fringe echo garbage soft cram fame defy trumpet lady feed shallow";
+var mnemonic = "immune raw circle weapon behind tray vapor fence fire fiscal warm ladder";

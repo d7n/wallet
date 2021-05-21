@@ -1,1 +1,1 @@
-var mnemonic = "spoil nurse sock ecology mother corn mixed gorilla garage second ladder caution";
+var mnemonic = "transfer sock super wall impose awkward health coffee buyer chest wealth subject";

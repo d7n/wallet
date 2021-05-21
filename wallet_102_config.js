@@ -1,1 +1,1 @@
-var mnemonic = "valley turn planet this cable fault peanut tower endorse quantum harsh cycle";
+var mnemonic = "above style mention marriage limb unable action race will bachelor danger fine";

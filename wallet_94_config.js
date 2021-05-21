@@ -1,1 +1,1 @@
-var mnemonic = "weasel wreck awake helmet shoot radio tail love alley cake faith airport";
+var mnemonic = "thank void actress defy term damage arrive prevent utility federal narrow remember";

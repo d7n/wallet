@@ -1,1 +1,1 @@
-var mnemonic = "pear case stem december guide drive river demise festival verb below seven";
+var mnemonic = "fork anxiety pudding spray tank quiz boss unusual stage sense program water";

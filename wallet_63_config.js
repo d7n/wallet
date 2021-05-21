@@ -1,1 +1,1 @@
-var mnemonic = "truly canvas noble region idle glare riot kingdom leader devote night spray";
+var mnemonic = "dwarf bonus truck table grow hope retreat victory bar dawn quote lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel useful report mad young horse crystal slide emotion vacuum domain fresh";
+var mnemonic = "mandate cloth will still share notice anchor alone curtain cherry moment tape";

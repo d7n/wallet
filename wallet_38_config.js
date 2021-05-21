@@ -1,1 +1,1 @@
-var mnemonic = "fan record dish endless bitter either earn gain lucky depend truck junior";
+var mnemonic = "capable negative return trash crumble nose shrimp cross large scan cigar meat";

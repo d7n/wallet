@@ -1,1 +1,1 @@
-var mnemonic = "okay rail bring fuel rather leave fun try public around speak bag";
+var mnemonic = "cattle bulk start cinnamon rare decade mandate blame various ring treat seat";

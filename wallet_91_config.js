@@ -1,1 +1,1 @@
-var mnemonic = "bonus west frequent payment biology word around expose virtual high news food";
+var mnemonic = "tribe begin desert double jump cruel nasty soap change load whip step";

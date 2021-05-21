@@ -1,1 +1,1 @@
-var mnemonic = "harbor bind razor mobile lazy bounce next enrich object inquiry kiss feel";
+var mnemonic = "collect orphan gesture owner parade first attack lounge noise grid skull trouble";

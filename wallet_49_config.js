@@ -1,1 +1,1 @@
-var mnemonic = "math ready axis pipe valid mandate extend stove room brown slogan shine";
+var mnemonic = "mobile three rather climb only build write pass add pony east cattle";

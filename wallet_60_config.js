@@ -1,1 +1,1 @@
-var mnemonic = "defy hint rescue amount still husband patch hold banana midnight cotton useless";
+var mnemonic = "change remain oak equal time march actress tenant jar coach hood vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "catch viable false aisle ketchup company bamboo similar faint mix split obey";
+var mnemonic = "snap tide local talk lucky wasp acquire require sense walk laugh camp";

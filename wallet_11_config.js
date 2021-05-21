@@ -1,1 +1,1 @@
-var mnemonic = "decrease invite gun mimic satisfy imitate tissue nice skill urge deer rally";
+var mnemonic = "income fly enemy reason bridge success tuition later copy sad duty oyster";

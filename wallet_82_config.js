@@ -1,1 +1,1 @@
-var mnemonic = "female sphere income tiger fury hint symptom arm link clown crew scene";
+var mnemonic = "paper champion senior obscure chalk banner ostrich hour cram island inflict obvious";

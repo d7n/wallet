@@ -1,1 +1,1 @@
-var mnemonic = "box quantum gallery verify remind toast polar draw song salad start feed";
+var mnemonic = "margin curve brisk ridge now rotate movie urge glove broom exact endorse";

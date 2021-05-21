@@ -1,1 +1,1 @@
-var mnemonic = "peasant author bounce item amused economy entire universe slide double inmate cube";
+var mnemonic = "cushion tuition myself broken useless rally exclude charge veteran dutch mutual exhibit";

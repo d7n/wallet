@@ -1,1 +1,1 @@
-var mnemonic = "picture dry tomorrow neither during guide obtain consider cigar side tomato vivid";
+var mnemonic = "hint leader acoustic tumble note quiz hat fall barrel agree essay deny";

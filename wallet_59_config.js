@@ -1,1 +1,1 @@
-var mnemonic = "eternal detail employ equal copper hover color sorry tenant ski weasel educate";
+var mnemonic = "laundry pipe wealth tennis polar injury post hero priority bread tumble skill";

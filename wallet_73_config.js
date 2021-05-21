@@ -1,1 +1,1 @@
-var mnemonic = "true lock trumpet summer rival valid pet lounge will live fame hold";
+var mnemonic = "injury crouch apart idle disagree hotel fault over usage anxiety undo erode";

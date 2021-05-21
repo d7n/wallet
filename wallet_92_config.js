@@ -1,1 +1,1 @@
-var mnemonic = "favorite parade weasel monster screen embark dirt material debris penalty breeze hen";
+var mnemonic = "desert hurdle help always poverty loud enjoy taste nuclear tool extend actual";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen ordinary nice solution puzzle icon accuse fantasy angle report measure smooth";
+var mnemonic = "gravity spell ghost jealous steel point clump powder lamp scene keen match";

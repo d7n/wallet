@@ -1,1 +1,1 @@
-var mnemonic = "clay enough throw differ cake jelly design help crack spawn raccoon only";
+var mnemonic = "spoon shy praise shiver boost dragon clap trigger tuition damage curious usual";

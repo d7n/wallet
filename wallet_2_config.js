@@ -1,1 +1,1 @@
-var mnemonic = "nice shock patrol twist deposit draft cricket wait refuse common laugh tray";
+var mnemonic = "alien hand menu word hungry humor elder inherit material laugh relax raven";

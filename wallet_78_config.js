@@ -1,1 +1,1 @@
-var mnemonic = "script trial demise seat crunch bullet flush van select thought tooth crunch";
+var mnemonic = "dizzy resemble lake worth stand protect vessel payment gain brass expire sport";

@@ -1,1 +1,1 @@
-var mnemonic = "law input clown scissors tail alert already scissors wool have satoshi fuel";
+var mnemonic = "beauty soccer rhythm jealous minor tattoo slide asset castle journey fly student";

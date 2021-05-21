@@ -1,1 +1,1 @@
-var mnemonic = "tornado kitten illness cage feel sign industry umbrella engage project surge marine";
+var mnemonic = "boss marble sword dry regret analyst grape shed bag where biology poem";

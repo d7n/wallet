@@ -1,1 +1,1 @@
-var mnemonic = "differ disease whisper response useless surround civil hurdle reward boost orchard battle";
+var mnemonic = "civil retreat dolphin juice vacuum bone model lobster describe tunnel snake spider";

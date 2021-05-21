@@ -1,1 +1,1 @@
-var mnemonic = "junk member garbage misery number chunk music skirt execute sweet rib hundred";
+var mnemonic = "casino limit same lounge any advice canvas half depart slow fame decade";

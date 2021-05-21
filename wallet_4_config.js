@@ -1,1 +1,1 @@
-var mnemonic = "police human arena wood reject kitten balcony whip place tonight wide kidney";
+var mnemonic = "audit magnet equip girl mountain claw subway tower light gun bulk twice";

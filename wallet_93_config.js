@@ -1,1 +1,1 @@
-var mnemonic = "cry pioneer dust retire burger address history rack business arch pull frame";
+var mnemonic = "airport battle day robot salmon strike unique permit nice path local february";

@@ -1,1 +1,1 @@
-var mnemonic = "fury tower wheat pair eager coral north view cruel body curtain poem";
+var mnemonic = "toss miracle globe eye seminar hub escape write scrub ship select cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "aim bulk friend daughter narrow mass camera culture upon interest spatial document";
+var mnemonic = "outdoor able rural tilt hip robot arctic neutral guide enrich auction awake";

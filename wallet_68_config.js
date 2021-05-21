@@ -1,1 +1,1 @@
-var mnemonic = "mail access february enough render stove toddler spoon cradle dilemma clean rural";
+var mnemonic = "across huge upon tissue disagree priority teach build host raven finger gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "parade author finger float harbor initial virtual indoor rifle drift forest alcohol";
+var mnemonic = "injury black climb coast announce segment brave vibrant someone mammal sniff host";

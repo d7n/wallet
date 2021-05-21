@@ -1,1 +1,1 @@
-var mnemonic = "foot soldier uniform stable enhance wise enemy orchard priority undo patch ankle";
+var mnemonic = "emotion heavy enrich loan lobster pledge artist nation where fatal drill drop";

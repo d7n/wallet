@@ -1,1 +1,1 @@
-var mnemonic = "kitchen early obey echo arrow goat left call brief jaguar multiply tenant";
+var mnemonic = "aspect stick use merge chat sail movie shrug youth seat august club";

@@ -1,1 +1,1 @@
-var mnemonic = "script invest ankle inspire train demise zone crop broken gospel swift magnet";
+var mnemonic = "cactus business law dream fury guitar inject torch forget gift uncle repeat";

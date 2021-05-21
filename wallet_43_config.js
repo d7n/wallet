@@ -1,1 +1,1 @@
-var mnemonic = "borrow scrap jewel jump giggle crack shallow purse faculty slide inner cliff";
+var mnemonic = "name then able coil display modify surface rich replace require tube lawsuit";

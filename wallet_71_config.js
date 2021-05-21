@@ -1,1 +1,1 @@
-var mnemonic = "funny process tiger orbit auction expire wife glance cable right kit meadow";
+var mnemonic = "execute cart salon together relief salmon field loud transfer loop welcome tribe";

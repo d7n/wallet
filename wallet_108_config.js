@@ -1,1 +1,1 @@
-var mnemonic = "tornado wood swarm smart into detail foster car conduct stick chunk garbage";
+var mnemonic = "learn please easily defense indicate robot biology maximum snap punch avoid gesture";

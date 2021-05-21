@@ -1,1 +1,1 @@
-var mnemonic = "urban reject smoke horror payment insect method private output loop local liar";
+var mnemonic = "thank cram deliver health reunion select mercy concert cage marriage sister release";

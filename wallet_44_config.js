@@ -1,1 +1,1 @@
-var mnemonic = "now humble alien vicious minimum quantum payment garage weather relief aisle turtle";
+var mnemonic = "demise mansion whale unusual art seek explain laptop bottom hero siege other";

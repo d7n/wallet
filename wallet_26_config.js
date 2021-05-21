@@ -1,1 +1,1 @@
-var mnemonic = "brick child planet west salmon derive patch start purchase kit mention team";
+var mnemonic = "endorse amateur dial hawk kiss news pulse obvious renew exchange accuse tonight";

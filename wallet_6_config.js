@@ -1,1 +1,1 @@
-var mnemonic = "sting furnace huge crater economy fossil twelve parent that history vivid bullet";
+var mnemonic = "close elephant junk novel income spoon rebuild drill beauty size name guilt";

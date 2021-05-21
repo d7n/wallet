@@ -1,1 +1,1 @@
-var mnemonic = "refuse unfair impose welcome arrow film milk quantum hat bring arrest cruise";
+var mnemonic = "leader shop remind chimney own wall kingdom sort warrior marble clay drastic";

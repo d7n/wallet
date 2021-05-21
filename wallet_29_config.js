@@ -1,1 +1,1 @@
-var mnemonic = "front option shiver human term cave armor unhappy open hurt dash situate";
+var mnemonic = "service manage sponsor salute kid hammer coach air cute hen flower note";

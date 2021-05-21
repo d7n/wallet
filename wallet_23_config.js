@@ -1,1 +1,1 @@
-var mnemonic = "embody planet south review move prefer alone action change labor own fit";
+var mnemonic = "where wine warm eagle spy knee gauge bubble girl hub strong tuna";

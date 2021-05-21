@@ -1,1 +1,1 @@
-var mnemonic = "blur off ball voice fork ocean cactus release wrestle walk between age";
+var mnemonic = "alien quiz lift boring fatigue limb wheat glory park someone decide deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "wild night logic route chat wolf kidney jacket sick illegal practice stairs";
+var mnemonic = "baby yard picnic nothing globe resist sentence fan version hand exhaust stage";

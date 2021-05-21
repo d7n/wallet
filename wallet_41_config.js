@@ -1,1 +1,1 @@
-var mnemonic = "robust stool soap actress congress cotton convince ankle siren palm depth sign";
+var mnemonic = "dad such post horse neck cotton race kidney border achieve nurse uncle";

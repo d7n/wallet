@@ -1,1 +1,1 @@
-var mnemonic = "pear tube boil twin camp funny wolf chase inform vendor skull debate";
+var mnemonic = "basic giraffe vast pepper demand monster because argue vibrant polar person wait";

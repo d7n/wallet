@@ -1,1 +1,1 @@
-var mnemonic = "slice upon sword motor own illness chimney garden parrot hurry parade allow";
+var mnemonic = "junior skull canal fly zebra wash cricket magnet truck shy recycle casino";

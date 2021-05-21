@@ -1,1 +1,1 @@
-var mnemonic = "clown talk excuse movie ghost stove elbow sadness patch bonus tent adult";
+var mnemonic = "lizard syrup minor version century cabin public frequent holiday whale crack outer";

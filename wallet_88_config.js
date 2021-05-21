@@ -1,1 +1,1 @@
-var mnemonic = "actress rent sunset employ rubber rotate fame since fog trend soon dynamic";
+var mnemonic = "lion vintage angry west sugar buffalo kitten castle random puppy under develop";

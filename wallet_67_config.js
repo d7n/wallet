@@ -1,1 +1,1 @@
-var mnemonic = "army essay ozone isolate slogan text giggle express mechanic chronic audit novel";
+var mnemonic = "exchange learn bitter business surround awake base broccoli dice injury camera term";

@@ -1,1 +1,1 @@
-var mnemonic = "lava that quantum right crush zone clean thought lobster noodle ghost vacuum";
+var mnemonic = "warrior expand treat flower enforce almost trap good assume barrel elegant brush";

@@ -1,1 +1,1 @@
-var mnemonic = "draw practice know hollow deer pluck fan veteran pig float wasp chest";
+var mnemonic = "spike screen ordinary tree chef donate arch enhance jewel window crime lens";

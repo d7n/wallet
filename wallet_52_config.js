@@ -1,1 +1,1 @@
-var mnemonic = "need still damp file swim october purity scan speed various ginger answer";
+var mnemonic = "shock thumb ensure coast universe square theme still flat humble palm absent";

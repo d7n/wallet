@@ -1,1 +1,1 @@
-var mnemonic = "panel embrace scan ugly accident share split dry raccoon shield hotel remove";
+var mnemonic = "lend cage shift air blade jacket final erupt video feature option vague";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi arch foot monkey today company control aim orbit over unfair century";
+var mnemonic = "drop build forget science humor coach have hope another cricket gap where";

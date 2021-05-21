@@ -1,1 +1,1 @@
-var mnemonic = "crazy awkward change leave again mosquito nose tissue title disease pretty enlist";
+var mnemonic = "art void final rich collect sunny aisle toast frozen okay success logic";

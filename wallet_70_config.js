@@ -1,1 +1,1 @@
-var mnemonic = "segment fun distance case scissors umbrella foam wheel bench crisp boy garment";
+var mnemonic = "throw legend dial success bronze film mirror easy weekend earth random clog";

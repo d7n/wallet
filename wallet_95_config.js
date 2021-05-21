@@ -1,1 +1,1 @@
-var mnemonic = "pony sausage forward hazard rug walnut sheriff slight cover void pass crane";
+var mnemonic = "tenant embody artwork spirit thing calm enhance labor sun box trick harsh";

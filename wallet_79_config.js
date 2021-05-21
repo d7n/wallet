@@ -1,1 +1,1 @@
-var mnemonic = "entire flock novel athlete nature student front job rack aspect actress vacuum";
+var mnemonic = "clutch toss pepper hockey remove tattoo swallow ring finger awful tenant agent";

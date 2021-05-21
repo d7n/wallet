@@ -1,1 +1,1 @@
-var mnemonic = "soap law opinion bird average twin train giant month post rude outdoor";
+var mnemonic = "obvious february book flash census tumble debris hurdle parrot hen hub tonight";

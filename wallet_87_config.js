@@ -1,1 +1,1 @@
-var mnemonic = "rare pioneer early dial tuition iron cram pretty nice cable anchor donate";
+var mnemonic = "admit giant subway enlist visa profit upgrade season radar skate grid social";

@@ -1,1 +1,1 @@
-var mnemonic = "bread actress dirt machine gravity dose elephant surround gather purity strong true";
+var mnemonic = "unlock muffin guide height immense reflect year describe good exhaust frame cereal";

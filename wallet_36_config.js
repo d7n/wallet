@@ -1,1 +1,1 @@
-var mnemonic = "hurry hold green success give crew puppy clinic solar define cart gloom";
+var mnemonic = "excite busy initial ranch ripple extend myth rich advance reveal arrange narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "frame ripple enact sand truck physical pigeon story genius pepper nature trend";
+var mnemonic = "almost ivory canal size metal learn prevent mystery veteran sweet office useful";

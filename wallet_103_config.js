@@ -1,1 +1,1 @@
-var mnemonic = "matrix large learn polar dizzy matter office seat educate wasp smile attitude";
+var mnemonic = "outside daughter welcome fever journey defy raven gym autumn twice hunt parent";

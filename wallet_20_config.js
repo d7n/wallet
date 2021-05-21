@@ -1,1 +1,1 @@
-var mnemonic = "dentist asthma myself ghost input hurry federal phone motor asthma sadness notable";
+var mnemonic = "decide crouch orbit solar make divide soda labor range wrestle rare word";

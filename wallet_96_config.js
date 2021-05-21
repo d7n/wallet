@@ -1,1 +1,1 @@
-var mnemonic = "helmet armor claim kiwi enjoy obey club fame gospel blur decorate cliff";
+var mnemonic = "cousin cliff spider develop lend junior theory cherry roof ritual foster essence";

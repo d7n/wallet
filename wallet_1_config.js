@@ -1,1 +1,1 @@
-var mnemonic = "file song syrup ten segment equip wish cluster merge impulse welcome permit";
+var mnemonic = "song version dolphin cute artefact scout horror rookie fossil cannon tackle slogan";

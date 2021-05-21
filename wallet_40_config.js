@@ -1,1 +1,1 @@
-var mnemonic = "swamp devote slush prosper guide merry base weasel slush bench rifle practice";
+var mnemonic = "dinner pond sorry office crouch fluid old alter crumble knee purchase arctic";
