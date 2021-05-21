@@ -1,1 +1,1 @@
-var mnemonic = "ignore hurdle hold ensure law join relief cereal frequent blouse language relax";
+var mnemonic = "oak effort devote hidden gasp style detail embody blouse swear recipe narrow";

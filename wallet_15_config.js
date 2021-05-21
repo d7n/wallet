@@ -1,1 +1,1 @@
-var mnemonic = "target sorry body purpose key scorpion slender top drift arrow false claw";
+var mnemonic = "switch reject breeze what absurd bread panel globe tide harsh display rebel";

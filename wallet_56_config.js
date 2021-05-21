@@ -1,1 +1,1 @@
-var mnemonic = "patch laugh hire acid suit throw elegant upset cluster purchase tonight stock";
+var mnemonic = "vanish paddle bubble injury visit purpose rain twist feed chef roof stock";

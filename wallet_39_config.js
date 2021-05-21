@@ -1,1 +1,1 @@
-var mnemonic = "chapter ask village color caught whip avocado neglect hockey lunch head trend";
+var mnemonic = "level remind stamp palace advice siren surface erase private nest rapid fury";

@@ -1,1 +1,1 @@
-var mnemonic = "song helmet palace address aspect fall system cube buzz summer hollow gold";
+var mnemonic = "shock position sibling barrel reduce security account defy liquid hospital present plunge";

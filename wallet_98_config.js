@@ -1,1 +1,1 @@
-var mnemonic = "beach observe ride advice defy review hybrid buzz prefer prosper together filter";
+var mnemonic = "clog chest grant proud best dismiss world clump despair toe smart rebel";

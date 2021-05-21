@@ -1,1 +1,1 @@
-var mnemonic = "place logic issue segment crater food ozone major actual skill result leaf";
+var mnemonic = "thumb close spawn stove tissue force address police fatigue mistake middle century";

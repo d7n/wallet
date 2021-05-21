@@ -1,1 +1,1 @@
-var mnemonic = "picnic surface machine cannon pretty mistake end habit abuse shy scatter cargo";
+var mnemonic = "pattern brown movie helmet parade plug impose abstract flower forum such melody";

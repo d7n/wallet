@@ -1,1 +1,1 @@
-var mnemonic = "section split ask unlock liquid today sibling robot narrow able oppose output";
+var mnemonic = "parade acid mutual offer mistake love thought solution long powder rich cousin";

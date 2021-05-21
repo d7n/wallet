@@ -1,1 +1,1 @@
-var mnemonic = "foam forget early uniform soda adapt foam insane two match topic canvas";
+var mnemonic = "almost virtual inherit cigar bird frown casual access guitar doctor audit say";

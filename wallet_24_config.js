@@ -1,1 +1,1 @@
-var mnemonic = "unlock wagon crisp legal dutch sweet earn horse width distance jealous spy";
+var mnemonic = "fog pair prison tobacco because guess blast pepper sadness luxury outside sunny";

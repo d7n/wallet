@@ -1,1 +1,1 @@
-var mnemonic = "vote hybrid crawl movie canoe film effort sight arrange unfair whale truck";
+var mnemonic = "sad obtain video prison reunion defense reason cable cart news coconut vivid";

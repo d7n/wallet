@@ -1,1 +1,1 @@
-var mnemonic = "unlock relief quote nurse crew author fix giant brass reflect horror market";
+var mnemonic = "sphere wrap unit inquiry yard middle world tape loud safe fringe evidence";

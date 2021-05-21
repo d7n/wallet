@@ -1,1 +1,1 @@
-var mnemonic = "valve arrange all stick space sphere wide spin alert burden pave kingdom";
+var mnemonic = "ancient cage roast surge quiz battle tonight blade lawn always slot wife";

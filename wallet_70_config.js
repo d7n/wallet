@@ -1,1 +1,1 @@
-var mnemonic = "final regular anchor stable notable jump farm degree logic cook aware tell";
+var mnemonic = "minute decide short science earn poverty hint install elegant govern genius deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "combine layer weapon crunch usual innocent supply struggle autumn hospital symptom domain";
+var mnemonic = "hedgehog situate skill shallow park fabric stamp sad motion start potato razor";

@@ -1,1 +1,1 @@
-var mnemonic = "banana quiz payment miss soup mansion park observe normal sausage plug scrap";
+var mnemonic = "butter faculty install shrug inmate sadness arch almost swear sort awful image";

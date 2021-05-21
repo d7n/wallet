@@ -1,1 +1,1 @@
-var mnemonic = "never pepper result neck hollow glance citizen deputy range file hello profit";
+var mnemonic = "forward shift aisle deputy warrior clarify barrel lyrics repeat narrow first change";

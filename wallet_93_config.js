@@ -1,1 +1,1 @@
-var mnemonic = "crouch world toe timber vague bike glove penalty naive bulb alone item";
+var mnemonic = "feature bus adjust rice normal supply uncover moment student favorite hip law";

@@ -1,1 +1,1 @@
-var mnemonic = "occur wine right knock segment jealous maze sock error spider come embody";
+var mnemonic = "table brand slight example expand march mad inner orphan coyote panel reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "noble town oppose pencil improve mixture tenant flat hat crunch feed twin";
+var mnemonic = "lava napkin siege quiz puzzle whale keen pipe useful trial idea finger";

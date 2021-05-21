@@ -1,1 +1,1 @@
-var mnemonic = "list little burden control innocent volume vicious page private salmon soup flame";
+var mnemonic = "easy village catalog wolf bomb detect prevent sauce certain tube fault virus";

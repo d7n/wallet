@@ -1,1 +1,1 @@
-var mnemonic = "child manual lake street general alert emotion sausage trophy daughter isolate guilt";
+var mnemonic = "dwarf easy broken doll kit achieve secret future ramp width pilot collect";

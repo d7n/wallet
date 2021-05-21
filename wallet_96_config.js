@@ -1,1 +1,1 @@
-var mnemonic = "upper file daring forest snake cool sibling book benefit bird clap domain";
+var mnemonic = "eye hotel noble right decide false typical pear enlist trumpet output pledge";

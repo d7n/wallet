@@ -1,1 +1,1 @@
-var mnemonic = "social erupt upgrade prevent trouble crime web brisk accuse page coconut salt";
+var mnemonic = "hawk brief easily early soap young public praise sibling nurse borrow fire";

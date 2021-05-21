@@ -1,1 +1,1 @@
-var mnemonic = "helmet dignity main rotate maximum crash truly skate unable parade frame asset";
+var mnemonic = "hard fire sorry episode step ancient manual vital confirm toward energy poet";

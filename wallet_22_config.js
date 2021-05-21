@@ -1,1 +1,1 @@
-var mnemonic = "collect repair cloud spoil miss gap hero match black hope measure nose";
+var mnemonic = "thing media maid skull skirt bullet index demand interest illness armor fit";

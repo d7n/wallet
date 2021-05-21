@@ -1,1 +1,1 @@
-var mnemonic = "since bonus wrestle quality slab accuse upgrade trouble street truth oval seven";
+var mnemonic = "planet buzz write video plunge all patch social original venue swim wealth";

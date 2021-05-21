@@ -1,1 +1,1 @@
-var mnemonic = "salmon uniform palace pen put athlete believe note venture business flame interest";
+var mnemonic = "brief casino visa arena margin elder latin entry logic primary razor over";

@@ -1,1 +1,1 @@
-var mnemonic = "half payment pole betray when term scissors naive fame juice setup myth";
+var mnemonic = "mimic ticket unusual possible idle gun bonus avoid maid robust arch stool";

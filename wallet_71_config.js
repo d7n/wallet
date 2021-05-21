@@ -1,1 +1,1 @@
-var mnemonic = "valley army mystery analyst sauce bread glove pair cereal inspire off winter";
+var mnemonic = "ready weapon fortune auto gravity axis gun flee dial badge shuffle chef";

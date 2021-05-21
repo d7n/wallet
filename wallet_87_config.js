@@ -1,1 +1,1 @@
-var mnemonic = "surface chat dirt that nerve feel crime smoke castle lumber clown misery";
+var mnemonic = "catalog shadow physical ancient alley flag pulp ensure such legal tongue family";

@@ -1,1 +1,1 @@
-var mnemonic = "finger slight vicious mechanic woman economy drill gift humble upon silent myself";
+var mnemonic = "clap junior gain embark spin weather tonight law man draft gauge thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "swim drum boss shock travel vanish detail camera miss clock cigar blind";
+var mnemonic = "book amateur travel social legal govern inject donor pumpkin tell whale chef";

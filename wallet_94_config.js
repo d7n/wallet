@@ -1,1 +1,1 @@
-var mnemonic = "jeans neck gorilla time core foot portion carbon mobile reflect ocean milk";
+var mnemonic = "pluck dad debate deliver tape bronze hobby wedding chuckle expand castle become";

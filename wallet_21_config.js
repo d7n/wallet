@@ -1,1 +1,1 @@
-var mnemonic = "crucial brass dilemma alter kick another drastic romance steel okay elder cry";
+var mnemonic = "horn embark anger stable actual long crash memory latin silver wash depend";

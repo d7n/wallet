@@ -1,1 +1,1 @@
-var mnemonic = "vehicle mandate false love sail rail trophy danger urge subject prison picnic";
+var mnemonic = "senior inject number enough output kingdom burger cake output link make home";

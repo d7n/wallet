@@ -1,1 +1,1 @@
-var mnemonic = "female debate hawk photo credit sudden deal park work artwork move tattoo";
+var mnemonic = "brother kiss adapt palace because rich uniform pride still bleak finger ostrich";

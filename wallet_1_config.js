@@ -1,1 +1,1 @@
-var mnemonic = "sun shallow cat post decrease kite mosquito tool brave forum coral calm";
+var mnemonic = "tired tube next try maid relax lens fat patch faculty main library";

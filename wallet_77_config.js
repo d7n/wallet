@@ -1,1 +1,1 @@
-var mnemonic = "immune mom fog remember ability barely pistol predict rally patrol lock skill";
+var mnemonic = "stairs derive fold chapter later north enact clock wrong print benefit size";

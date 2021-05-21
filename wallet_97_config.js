@@ -1,1 +1,1 @@
-var mnemonic = "stairs window limit fruit chalk matrix kiwi mosquito turtle milk twice deputy";
+var mnemonic = "inject raise pig indicate hotel festival cupboard decorate tool borrow view thought";

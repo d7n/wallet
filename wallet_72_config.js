@@ -1,1 +1,1 @@
-var mnemonic = "soda resemble minimum tobacco first estate nut scrap funny woman oil gun";
+var mnemonic = "trade cactus math deal brand source claim culture play clinic judge okay";

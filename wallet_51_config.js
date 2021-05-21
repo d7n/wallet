@@ -1,1 +1,1 @@
-var mnemonic = "lemon gravity radio easy voice inherit oak cruel fine upon uncover able";
+var mnemonic = "text hawk knife exclude thought wine season trophy asthma leisure elite excuse";

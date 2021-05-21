@@ -1,1 +1,1 @@
-var mnemonic = "nephew suffer now vehicle tissue tortoise curious omit cabin jeans country chaos";
+var mnemonic = "elite cupboard walk limit harvest history dry amazing often defense tag client";

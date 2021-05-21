@@ -1,1 +1,1 @@
-var mnemonic = "soup okay among wise device sport zebra wink easy armor minor supply";
+var mnemonic = "industry found foster easy baby fresh bounce hawk shaft proof habit shadow";

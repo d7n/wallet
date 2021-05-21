@@ -1,1 +1,1 @@
-var mnemonic = "wheel title coral teach nature vessel orbit cement poet obvious source spice";
+var mnemonic = "deny sing verb oxygen stove scare ticket veteran drip broom twenty field";

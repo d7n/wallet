@@ -1,1 +1,1 @@
-var mnemonic = "song poet square hold link stamp curve laugh soap march real culture";
+var mnemonic = "fat bulk lemon leader space jungle story guess citizen voyage reason kind";

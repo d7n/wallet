@@ -1,1 +1,1 @@
-var mnemonic = "organ pole august morning planet tomato taste twin target grass solve current";
+var mnemonic = "unknown cash brisk please spirit word pride good noodle reason usage toss";

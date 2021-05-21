@@ -1,1 +1,1 @@
-var mnemonic = "allow motion into grab derive escape beach eternal tired seven aspect favorite";
+var mnemonic = "alter quantum resource lumber mom young lottery they follow rocket mule bounce";

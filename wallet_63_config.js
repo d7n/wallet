@@ -1,1 +1,1 @@
-var mnemonic = "enlist ghost blind nut waste foster recycle close now void next emotion";
+var mnemonic = "menu feed need length now excess boring right time spy three jar";

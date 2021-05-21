@@ -1,1 +1,1 @@
-var mnemonic = "child bubble vicious year account edge dutch pyramid riot fetch bulb cloth";
+var mnemonic = "alter maze turkey rhythm van disease gospel forget city wise whale cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "practice token carpet cart strong find say maple cherry orient grocery feed";
+var mnemonic = "senior dream tone dynamic horse spice move couch elite vacuum judge safe";

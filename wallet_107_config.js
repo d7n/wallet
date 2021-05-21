@@ -1,1 +1,1 @@
-var mnemonic = "rubber divide cover farm dinosaur motion okay scale way file throw pluck";
+var mnemonic = "point frequent arrange frown pass blur also water evil leave polar metal";

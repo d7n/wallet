@@ -1,1 +1,1 @@
-var mnemonic = "sorry finish birth review video duty sword dream supreme accident arrow east";
+var mnemonic = "bread blouse feed between couple lonely door power oil current fan spin";

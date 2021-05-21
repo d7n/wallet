@@ -1,1 +1,1 @@
-var mnemonic = "chimney purpose evidence cube family output raise north oak trip team number";
+var mnemonic = "fitness swarm combine canyon cage inside outdoor camera must portion dwarf scheme";

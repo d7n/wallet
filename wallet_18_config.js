@@ -1,1 +1,1 @@
-var mnemonic = "hazard submit boat govern shift you embrace knee pupil train column cash";
+var mnemonic = "bulb admit bubble cook virtual opinion cactus kid fitness stable dream there";

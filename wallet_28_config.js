@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog lobster either average because spy captain guitar menu learn park sad";
+var mnemonic = "vicious unhappy energy base immune obtain canal dish cotton transfer shield dog";

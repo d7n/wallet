@@ -1,1 +1,1 @@
-var mnemonic = "robot prize moment monster lucky correct emerge original profit shoulder gravity unveil";
+var mnemonic = "bring rebuild cattle hundred creek steel message domain view twin habit appear";

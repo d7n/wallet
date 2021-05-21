@@ -1,1 +1,1 @@
-var mnemonic = "jeans smoke hole capable argue eternal strategy abuse soon correct increase pistol";
+var mnemonic = "nose inject margin cook else pizza grain review december awesome maximum fringe";

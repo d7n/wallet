@@ -1,1 +1,1 @@
-var mnemonic = "body sea regular demise error wheat oak burger inspire cage picnic eternal";
+var mnemonic = "outside together decide announce wave crash alien resource valve three false drama";

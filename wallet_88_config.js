@@ -1,1 +1,1 @@
-var mnemonic = "napkin flat trade catch cream paddle east car whisper science describe finish";
+var mnemonic = "uniform famous ankle derive super please tooth option bicycle hour juice ship";

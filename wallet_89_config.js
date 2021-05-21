@@ -1,1 +1,1 @@
-var mnemonic = "empty loud kiss siege erase three crunch mushroom skate prosper nation garment";
+var mnemonic = "wave fatigue feature tunnel jar upon melt menu poverty grain undo fence";

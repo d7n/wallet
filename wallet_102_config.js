@@ -1,1 +1,1 @@
-var mnemonic = "essay energy promote spawn enjoy awesome stamp amount program stool satoshi harsh";
+var mnemonic = "test fatal street purse mixture stamp camp envelope ripple opinion hero vital";

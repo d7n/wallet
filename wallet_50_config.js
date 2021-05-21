@@ -1,1 +1,1 @@
-var mnemonic = "wonder endorse table scale bamboo paper cactus myself punch else art pilot";
+var mnemonic = "oyster party divide under purpose assume worry youth party misery pyramid spray";

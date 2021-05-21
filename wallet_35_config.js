@@ -1,1 +1,1 @@
-var mnemonic = "dice case escape deputy inquiry own news luggage promote rookie erode squirrel";
+var mnemonic = "squirrel orient neutral pretty bachelor occur advice click cage frequent dose range";

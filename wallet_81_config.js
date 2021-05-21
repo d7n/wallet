@@ -1,1 +1,1 @@
-var mnemonic = "choose hope finger caught magnet urban panic history warm spy veteran spell";
+var mnemonic = "attitude note myself hundred name ankle oval skull jump resource fade truth";

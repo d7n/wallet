@@ -1,1 +1,1 @@
-var mnemonic = "boss sister enrich rare flat design sibling suspect wrong steel cry stick";
+var mnemonic = "shoot spice smart uncle blame front tuition federal weather cube satisfy treat";

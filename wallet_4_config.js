@@ -1,1 +1,1 @@
-var mnemonic = "east morning judge screen speed soul soldier bundle stay play spin shy";
+var mnemonic = "prevent hurry yard north essence maze breeze corn jeans edge else moral";

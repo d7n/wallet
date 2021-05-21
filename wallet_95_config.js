@@ -1,1 +1,1 @@
-var mnemonic = "skate demand demand decrease you expand wasp work science lab increase rely";
+var mnemonic = "sibling convince zebra heavy peanut dignity lake sketch inflict bleak utility yard";

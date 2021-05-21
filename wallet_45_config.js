@@ -1,1 +1,1 @@
-var mnemonic = "today riot hero ice recall cannon mutual family kangaroo embody chapter slam";
+var mnemonic = "diet twice term chest ring outside word awesome sentence acquire prepare reveal";

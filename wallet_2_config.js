@@ -1,1 +1,1 @@
-var mnemonic = "bomb jaguar note lumber police truly blur attract easy diesel crystal stuff";
+var mnemonic = "narrow document cake control fatigue useful entry speak switch provide motor start";

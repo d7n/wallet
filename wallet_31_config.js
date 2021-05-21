@@ -1,1 +1,1 @@
-var mnemonic = "cabin ostrich agent chimney drop into ugly depend critic mule coil stuff";
+var mnemonic = "banner rude day major rubber push flower virus inflict stone jump cinnamon";

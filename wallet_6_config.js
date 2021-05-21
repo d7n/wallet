@@ -1,1 +1,1 @@
-var mnemonic = "parade farm clay monitor theory grief knife faculty genius jaguar alpha improve";
+var mnemonic = "woman toward orphan erode will call inner clerk dinner pupil spawn flip";

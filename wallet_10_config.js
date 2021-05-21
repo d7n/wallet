@@ -1,1 +1,1 @@
-var mnemonic = "cattle void sting frozen grab eight burger object mosquito oyster domain dance";
+var mnemonic = "sphere weird cool kitchen chapter december museum bind crisp era anger buffalo";

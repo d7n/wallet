@@ -1,1 +1,1 @@
-var mnemonic = "accident topic tribe deliver match private expose retire measure idle found test";
+var mnemonic = "health slight angle judge barrel urban winter planet grape race seat pink";

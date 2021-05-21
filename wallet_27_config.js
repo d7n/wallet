@@ -1,1 +1,1 @@
-var mnemonic = "front once license scatter fat crush ensure pill certain scene rookie floor";
+var mnemonic = "metal turkey aspect drastic safe license margin write today senior economy enroll";

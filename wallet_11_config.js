@@ -1,1 +1,1 @@
-var mnemonic = "useless practice order imitate flower rather corn cargo stick offer miracle jacket";
+var mnemonic = "awesome argue planet torch fence culture ask undo absent rely token more";

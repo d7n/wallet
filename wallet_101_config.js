@@ -1,1 +1,1 @@
-var mnemonic = "pledge shoot snack pen morning lady truly spend physical main weekend month";
+var mnemonic = "erase garage notable harsh ocean either kiss physical emerge exit flower desert";

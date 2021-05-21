@@ -1,1 +1,1 @@
-var mnemonic = "absorb clock say idea pig barely awake fall anchor wire invest merge";
+var mnemonic = "wreck miracle boat used devote edge limit novel sentence skull ensure cat";

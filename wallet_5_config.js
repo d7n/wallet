@@ -1,1 +1,1 @@
-var mnemonic = "awful black fade bomb object surround priority field walnut print panic apart";
+var mnemonic = "sand bread pool exhaust burger garment answer holiday deposit image away illegal";

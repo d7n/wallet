@@ -1,1 +1,1 @@
-var mnemonic = "until bright fetch salmon ordinary olympic remember skill unfold butter little nephew";
+var mnemonic = "this check bid curve crunch burden sting merry firm enemy rough carry";

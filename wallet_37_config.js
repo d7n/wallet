@@ -1,1 +1,1 @@
-var mnemonic = "soap sniff focus autumn capital agree bind brand very raccoon craft math";
+var mnemonic = "tide high mechanic fresh vote image pause easily mule tape right rug";

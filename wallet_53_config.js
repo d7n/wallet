@@ -1,1 +1,1 @@
-var mnemonic = "job river kit odor waste control hint session grace say ceiling raw";
+var mnemonic = "scale island glory claw faint choose catch funny artist history predict orphan";

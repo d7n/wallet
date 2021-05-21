@@ -1,1 +1,1 @@
-var mnemonic = "turkey element guess village tornado deputy rival beef fabric boring ozone material";
+var mnemonic = "ticket super empower census phone ability forum save gold escape bike sad";

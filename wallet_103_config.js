@@ -1,1 +1,1 @@
-var mnemonic = "moment woman slender purse gesture bamboo shrimp reward subject body veteran initial";
+var mnemonic = "quiz motion best buzz organ learn hybrid test elder ozone scare stumble";

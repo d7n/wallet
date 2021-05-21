@@ -1,1 +1,1 @@
-var mnemonic = "ask unfair ready someone sense buddy skin hint between pyramid solve stuff";
+var mnemonic = "almost elder master mail foil silk tiny lemon great luggage legal glad";

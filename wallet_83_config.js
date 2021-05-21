@@ -1,1 +1,1 @@
-var mnemonic = "infant cousin dance click weird large school flip lake gloom display skate";
+var mnemonic = "dress wrestle chef alarm lawn west orient daring wrong luxury fluid cupboard";

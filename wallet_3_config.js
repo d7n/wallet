@@ -1,1 +1,1 @@
-var mnemonic = "year pride tomato talk response body rate pink analyst crucial zebra actor";
+var mnemonic = "room plug idle flight dolphin basic manual sure sad sugar predict endless";

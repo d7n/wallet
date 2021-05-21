@@ -1,1 +1,1 @@
-var mnemonic = "enlist aerobic ceiling syrup ridge hunt video dilemma jump awful diesel draft";
+var mnemonic = "lock label this arm mandate cushion resource under cliff retire report invite";

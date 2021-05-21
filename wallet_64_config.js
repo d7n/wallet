@@ -1,1 +1,1 @@
-var mnemonic = "metal ball clean squirrel now approve hollow wave hungry powder pause orange";
+var mnemonic = "boss genre canal exhaust coast shoe sure seminar say style tattoo hope";

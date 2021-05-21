@@ -1,1 +1,1 @@
-var mnemonic = "armed fence source example legal obscure swap van have nerve soldier possible";
+var mnemonic = "robust scan journey stock vacuum remove action tell view such suffer drum";
