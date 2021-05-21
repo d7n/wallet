@@ -1,1 +1,1 @@
-var mnemonic = "shy fun cargo mix biology select sugar tail major above foster discover";
+var mnemonic = "extra large sure rib tunnel duty ski jealous tired weapon thank salt";

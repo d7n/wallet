@@ -1,1 +1,1 @@
-var mnemonic = "rival process drive debate club crush view fiction engage gospel race marriage";
+var mnemonic = "town home noble kingdom wing leg veteran churn long lab dwarf system";

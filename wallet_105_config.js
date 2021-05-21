@@ -1,1 +1,1 @@
-var mnemonic = "vapor alert reunion noodle tennis job runway prize offer length fat cabbage";
+var mnemonic = "salmon wine base remain blind pear meat luxury debate exotic phrase sausage";

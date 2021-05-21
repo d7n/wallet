@@ -1,1 +1,1 @@
-var mnemonic = "album output decide rude dwarf defy gather dry tragic inmate hand trash";
+var mnemonic = "accuse arm front polar raw pave adult potato powder salon cruel enact";

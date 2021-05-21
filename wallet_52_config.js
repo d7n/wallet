@@ -1,1 +1,1 @@
-var mnemonic = "trick helmet pause sadness boil job rural cradle decorate romance mask tell";
+var mnemonic = "expect disease arrange skill unaware wealth crisp youth hood crew woman brown";

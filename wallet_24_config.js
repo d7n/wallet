@@ -1,1 +1,1 @@
-var mnemonic = "rug chunk report security vague helmet okay cliff unable capable scrap differ";
+var mnemonic = "armed have street reward tired pass small demise plate guess survey agent";

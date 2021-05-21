@@ -1,1 +1,1 @@
-var mnemonic = "awake detail cactus treat seat crime embark envelope size doll noise absent";
+var mnemonic = "balance seven list surge infant evoke broccoli dust cost damage shy merry";

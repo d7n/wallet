@@ -1,1 +1,1 @@
-var mnemonic = "margin admit spike hidden pitch what tank bring include load hobby figure";
+var mnemonic = "flash choice eyebrow expand gym globe access whip soul horn resemble hood";

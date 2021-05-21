@@ -1,1 +1,1 @@
-var mnemonic = "case sunny path affair bind kitten pyramid session razor april bottom degree";
+var mnemonic = "adult actual clock hurdle reform own often spell dash mix demise track";

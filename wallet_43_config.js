@@ -1,1 +1,1 @@
-var mnemonic = "orbit claw torch embody face slot labor chicken blur wheat across response";
+var mnemonic = "cake express claw bacon monitor frozen regret depth dish grief cable float";

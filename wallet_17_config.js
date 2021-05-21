@@ -1,1 +1,1 @@
-var mnemonic = "bulk yard original theory burger blossom fatal inform mechanic vault frown betray";
+var mnemonic = "flat argue clog hen sail lady major margin coconut cable speak switch";

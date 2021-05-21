@@ -1,1 +1,1 @@
-var mnemonic = "scorpion violin hire glass cancel law hip express regular lucky enroll seat";
+var mnemonic = "spray habit govern bacon cushion network clog earth hero gap square caution";

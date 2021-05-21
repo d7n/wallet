@@ -1,1 +1,1 @@
-var mnemonic = "pair chalk short marine short van peace page sustain spirit hamster citizen";
+var mnemonic = "style sick sea throw patch aware melt coffee frost broccoli siren collect";

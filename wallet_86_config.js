@@ -1,1 +1,1 @@
-var mnemonic = "water orphan orange lens crew abstract song gun dial offer exhaust swim";
+var mnemonic = "guide force attract donate daughter survey betray marine valley crater festival act";

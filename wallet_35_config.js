@@ -1,1 +1,1 @@
-var mnemonic = "volcano suit weird evidence first jeans crisp finger decline reason host owner";
+var mnemonic = "gauge simple fiction erase sign bag science garbage decorate into love seat";

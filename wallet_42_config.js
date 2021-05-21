@@ -1,1 +1,1 @@
-var mnemonic = "good gym predict report object manage cushion clock clay donor ramp loan";
+var mnemonic = "dilemma false sand movie uniform alcohol poet range nephew armed earth erase";

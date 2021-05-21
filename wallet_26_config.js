@@ -1,1 +1,1 @@
-var mnemonic = "runway eager blade velvet topple sword spray tennis control oppose foam match";
+var mnemonic = "crumble dress deliver second gossip action guilt glance provide interest autumn tribe";

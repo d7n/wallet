@@ -1,1 +1,1 @@
-var mnemonic = "receive autumn estate what gym target same couch essence area stick stool";
+var mnemonic = "office tube business tray another atom tribe airport harsh panda blur draft";

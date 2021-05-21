@@ -1,1 +1,1 @@
-var mnemonic = "art idea farm sun pole fitness motion caution fat grid actress metal";
+var mnemonic = "donkey master proud bone try witness solid walnut refuse planet begin bag";

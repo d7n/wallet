@@ -1,1 +1,1 @@
-var mnemonic = "rapid host shuffle beef north episode guide trip cushion kingdom figure observe";
+var mnemonic = "sudden antique trend riot scout keen question symbol sport lunar water cycle";

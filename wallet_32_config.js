@@ -1,1 +1,1 @@
-var mnemonic = "inhale love ship message supply base winter south drift deliver achieve paper";
+var mnemonic = "tent school cross aunt pet seven canyon purity desk used tape child";

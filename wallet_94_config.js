@@ -1,1 +1,1 @@
-var mnemonic = "earth wreck belt cabbage devote bottom pig next journey grass finish donkey";
+var mnemonic = "opinion unfold almost scrub secret earth share camp flee weather fiber tool";

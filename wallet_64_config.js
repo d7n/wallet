@@ -1,1 +1,1 @@
-var mnemonic = "aunt tuna embark matter they nature insane early during team still found";
+var mnemonic = "frost orange gesture food achieve someone echo ranch display combine can blur";

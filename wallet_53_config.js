@@ -1,1 +1,1 @@
-var mnemonic = "rug clump fantasy advance diet enact clown merge pulp town ski symbol";
+var mnemonic = "never jaguar interest stumble salad concert master maze quote chicken trumpet combine";

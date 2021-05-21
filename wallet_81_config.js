@@ -1,1 +1,1 @@
-var mnemonic = "cube connect bid kite man fury window degree voice panel scissors vast";
+var mnemonic = "unlock banner cat predict service seed goose tank chief tenant person iron";

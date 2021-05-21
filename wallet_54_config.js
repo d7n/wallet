@@ -1,1 +1,1 @@
-var mnemonic = "hobby kiss rather share mention pluck eager demise card desk galaxy car";
+var mnemonic = "moral magnet long shove dice edge protect knock bone adult fire receive";

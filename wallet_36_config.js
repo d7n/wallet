@@ -1,1 +1,1 @@
-var mnemonic = "blanket cry edit script broccoli morning rocket start valley obvious shield thing";
+var mnemonic = "fury wave sweet enhance among power jump elder blush panic valve angry";

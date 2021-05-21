@@ -1,1 +1,1 @@
-var mnemonic = "hood ritual supreme book drum hobby accident correct plunge lucky forward stumble";
+var mnemonic = "pudding have help cry witness gaze usage square just wreck notable lottery";

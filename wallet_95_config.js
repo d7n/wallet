@@ -1,1 +1,1 @@
-var mnemonic = "nature grass lab claw helmet walk uniform shock recall gorilla require snow";
+var mnemonic = "what artwork exotic labor reward abstract rally glance upgrade cover general series";

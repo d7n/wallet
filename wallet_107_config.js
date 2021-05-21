@@ -1,1 +1,1 @@
-var mnemonic = "roof fury hamster toast ramp warrior knee liar season day high step";
+var mnemonic = "cat law camp solution zoo embrace label mixture before uphold magnet version";

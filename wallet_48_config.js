@@ -1,1 +1,1 @@
-var mnemonic = "inmate stamp beyond indoor unfair garbage fashion heavy mean notable satisfy aware";
+var mnemonic = "wear boost wrestle ocean tackle parade vendor orchard sting bone bracket will";

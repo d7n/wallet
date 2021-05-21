@@ -1,1 +1,1 @@
-var mnemonic = "candy vessel frost script bridge twist virus view dish advance rail violin";
+var mnemonic = "addict equal hard concert hunt soul custom muscle frost canvas evil morning";

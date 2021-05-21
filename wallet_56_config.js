@@ -1,1 +1,1 @@
-var mnemonic = "cargo eye nature era pottery include feel advance excite frozen hawk spring";
+var mnemonic = "similar enjoy sunny flight tiny car napkin exact toddler blanket imitate coil";

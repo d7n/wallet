@@ -1,1 +1,1 @@
-var mnemonic = "swim suspect relief monkey veteran near number vague increase pulse cute grab";
+var mnemonic = "hospital steel ecology divide hospital wise pass start fancy drop fiscal kit";

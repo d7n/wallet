@@ -1,1 +1,1 @@
-var mnemonic = "rural ankle surprise lawsuit unhappy frown library analyst casino board rocket skate";
+var mnemonic = "enter mention deny debris mechanic grief carry aisle obtain hurry catch verb";

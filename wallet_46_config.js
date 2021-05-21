@@ -1,1 +1,1 @@
-var mnemonic = "trophy embark mixed alert subject man depart beyond input vacant attack across";
+var mnemonic = "iron fabric airport skull angle obey bundle iron force elegant stand blast";

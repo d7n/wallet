@@ -1,1 +1,1 @@
-var mnemonic = "smile video soap load town punch expand rib crew cross target degree";
+var mnemonic = "spawn fix soldier adapt fee shoot urban evidence course clay paddle equip";

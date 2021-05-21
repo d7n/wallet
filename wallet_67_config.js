@@ -1,1 +1,1 @@
-var mnemonic = "proud pipe zone tunnel isolate coyote umbrella become material cruise casino cycle";
+var mnemonic = "swing piano letter flash usual roast pave crunch swear one hurdle toe";

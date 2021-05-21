@@ -1,1 +1,1 @@
-var mnemonic = "lemon apart flame main embark exhibit naive tool fly student sure evidence";
+var mnemonic = "marine change ready scissors sauce clean brain address behind kick insect choice";

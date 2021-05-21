@@ -1,1 +1,1 @@
-var mnemonic = "gain move figure leaf neutral jewel occur dune sudden history tattoo remain";
+var mnemonic = "oval immune ramp express lazy lab habit omit announce track believe rural";

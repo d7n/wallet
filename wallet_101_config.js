@@ -1,1 +1,1 @@
-var mnemonic = "address explain main property ask stable myth under slam like orange melt";
+var mnemonic = "extra steak joke country turtle judge shadow exact fade empty debate zoo";

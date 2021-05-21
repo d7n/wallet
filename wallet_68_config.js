@@ -1,1 +1,1 @@
-var mnemonic = "attack evolve write force book client rotate service gauge general brain ancient";
+var mnemonic = "boil absent wagon reflect copper useful salmon ball shiver tuna surge vivid";

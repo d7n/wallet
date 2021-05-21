@@ -1,1 +1,1 @@
-var mnemonic = "drum never jump enjoy tide digital trade mom enlist metal want test";
+var mnemonic = "ginger ski wing twelve emotion settle fog spatial network shallow shrug soft";

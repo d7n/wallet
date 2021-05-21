@@ -1,1 +1,1 @@
-var mnemonic = "caught problem agent define argue pear salon layer volcano snack chronic blossom";
+var mnemonic = "supreme panel client seven reject mansion slight sample right man three bread";

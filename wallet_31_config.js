@@ -1,1 +1,1 @@
-var mnemonic = "rib jungle demand bonus crater section fun shield loop jar damp badge";
+var mnemonic = "rate cloth cable canyon trigger helmet lock tomato settle remain lava deputy";

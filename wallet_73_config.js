@@ -1,1 +1,1 @@
-var mnemonic = "abuse urban absent sheriff zebra grass vault slogan pioneer toilet aerobic acoustic";
+var mnemonic = "hard drum cover meat promote catalog real device speak wide blossom leisure";

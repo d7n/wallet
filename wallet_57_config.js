@@ -1,1 +1,1 @@
-var mnemonic = "vicious core hen search basic half cousin unique weekend vote wonder luxury";
+var mnemonic = "rely burger enjoy inquiry sweet impact mule card baby scissors sustain doll";

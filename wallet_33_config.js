@@ -1,1 +1,1 @@
-var mnemonic = "pluck nature bean example round dose program rifle puppy flip daughter coach";
+var mnemonic = "clerk pair cream abandon cool proud renew job armed swing saddle egg";

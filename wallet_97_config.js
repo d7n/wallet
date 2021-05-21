@@ -1,1 +1,1 @@
-var mnemonic = "hobby breeze game abuse cradle eye surge umbrella scan end myth apple";
+var mnemonic = "dad cage vapor tool disorder elevator merit innocent system summer mass dynamic";

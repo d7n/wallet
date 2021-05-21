@@ -1,1 +1,1 @@
-var mnemonic = "income group decide weird robot flag boost combine rebuild flash visa venture";
+var mnemonic = "drop swim riot reveal hair brush ask advance winner person critic brass";

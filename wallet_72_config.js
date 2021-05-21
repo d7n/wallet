@@ -1,1 +1,1 @@
-var mnemonic = "thumb ostrich silent window venture short hello wheat jar judge now unusual";
+var mnemonic = "home point rabbit twelve copper old taxi imitate stumble crucial bounce wide";

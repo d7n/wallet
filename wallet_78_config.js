@@ -1,1 +1,1 @@
-var mnemonic = "alter route endorse battle text tomato exercise crunch firm refuse repair panther";
+var mnemonic = "pledge refuse size kitten eager dust mad suggest tooth interest reveal child";

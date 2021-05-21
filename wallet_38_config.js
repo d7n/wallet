@@ -1,1 +1,1 @@
-var mnemonic = "outside toast behind slab mass census joy dream visit mushroom address farm";
+var mnemonic = "axis orient circle nut garage harvest car electric wire kiwi country bulb";

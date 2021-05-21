@@ -1,1 +1,1 @@
-var mnemonic = "margin boost trophy type cabbage sort enlist hat duty explain swamp mystery";
+var mnemonic = "end month sad exhaust silver garment educate client luxury zone tumble creek";

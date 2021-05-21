@@ -1,1 +1,1 @@
-var mnemonic = "sea hotel demand senior drum announce patient suffer media scheme matter borrow";
+var mnemonic = "sister marriage chair snack own vibrant network crucial uncle angry shield sorry";

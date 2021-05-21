@@ -1,1 +1,1 @@
-var mnemonic = "become list canyon hour spy kingdom bullet visit across hair antique cook";
+var mnemonic = "case young copper estate quit derive spatial midnight picture business south sun";

@@ -1,1 +1,1 @@
-var mnemonic = "despair design hazard body lion art elite buffalo dune sad twist verify";
+var mnemonic = "chief embark fatal goddess auto birth bachelor moral mixture dawn they amused";

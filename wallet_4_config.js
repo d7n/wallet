@@ -1,1 +1,1 @@
-var mnemonic = "junk unhappy mimic all round knock cushion solid long tennis celery great";
+var mnemonic = "siege arctic explain damp satoshi name radio purpose blind divert present basket";

@@ -1,1 +1,1 @@
-var mnemonic = "banana giraffe excess mammal great violin nerve total message initial congress easy";
+var mnemonic = "slush gallery asthma east rescue subject list pilot inch zebra truly celery";

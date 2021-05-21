@@ -1,1 +1,1 @@
-var mnemonic = "alarm mean kangaroo caution nice asset puppy accuse marble pull push beauty";
+var mnemonic = "dish armed perfect basic lounge fold clock shed grow dust update sell";

@@ -1,1 +1,1 @@
-var mnemonic = "quick system food health carry parade poet cancel oblige boring already parade";
+var mnemonic = "matrix tennis shine arena wet fold discover dune bamboo motor damage wheat";

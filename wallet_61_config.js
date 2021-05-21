@@ -1,1 +1,1 @@
-var mnemonic = "enforce pass trick floor candy dad duck cross trial visit strong where";
+var mnemonic = "funny turkey scrap start grid cherry pulse stand limb various outer announce";

@@ -1,1 +1,1 @@
-var mnemonic = "boss gasp furnace skirt square sting claw prosper network roast canyon zone";
+var mnemonic = "gun tragic nation drill furnace oppose detail despair lucky talent wish earth";

@@ -1,1 +1,1 @@
-var mnemonic = "focus quality say chef govern coral blouse ice unique popular weapon post";
+var mnemonic = "always cradle sure index brown abandon retire rookie vessel plunge identify elevator";

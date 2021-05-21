@@ -1,1 +1,1 @@
-var mnemonic = "risk honey shell absent more cabin response fashion wave tail state vote";
+var mnemonic = "satisfy chronic regular analyst method final online case math limit rely moon";

@@ -1,1 +1,1 @@
-var mnemonic = "measure jungle chuckle blame cycle razor hungry excess install bracket mean left";
+var mnemonic = "annual inherit auction spell arrive short rose cannon protect labor punch endorse";

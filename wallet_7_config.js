@@ -1,1 +1,1 @@
-var mnemonic = "surface penalty vicious fun picture hawk draft duty hospital garbage essence fabric";
+var mnemonic = "answer ladder sheriff moment february magic praise inflict bomb logic lens surprise";

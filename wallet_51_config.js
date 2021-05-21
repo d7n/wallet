@@ -1,1 +1,1 @@
-var mnemonic = "funny hope sword kitten hidden smoke month wrap embody yard diagram illegal";
+var mnemonic = "spice inquiry come extra fame suffer jelly pottery gym sort vocal quote";

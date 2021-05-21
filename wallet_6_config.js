@@ -1,1 +1,1 @@
-var mnemonic = "awesome prison soldier vacuum trap merge action bring live aspect song desert";
+var mnemonic = "unaware stumble pair net mechanic tornado wool once detect arch climb lab";

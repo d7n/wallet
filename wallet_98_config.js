@@ -1,1 +1,1 @@
-var mnemonic = "another endorse wrap flip science later hockey relief mushroom tower pave lunch";
+var mnemonic = "arctic blast winter stove trend dry chuckle step depth core under curious";

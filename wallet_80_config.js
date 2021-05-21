@@ -1,1 +1,1 @@
-var mnemonic = "traffic unveil predict mushroom various ramp practice silk position buyer coffee prize";
+var mnemonic = "taste pair jelly anchor boat brick comic diet mean stable picture harvest";

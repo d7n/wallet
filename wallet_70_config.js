@@ -1,1 +1,1 @@
-var mnemonic = "okay bacon move during celery initial orbit civil mesh stumble museum grunt";
+var mnemonic = "stone frost just rigid million taxi civil riot latin hurry enrich cry";

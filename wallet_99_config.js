@@ -1,1 +1,1 @@
-var mnemonic = "rule settle area human utility this real cotton argue dawn office turtle";
+var mnemonic = "picnic lady okay side ensure example end suspect motion defense cable bunker";

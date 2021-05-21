@@ -1,1 +1,1 @@
-var mnemonic = "lava payment series about title elbow hurt spell shadow survey universe basket";
+var mnemonic = "chest banana have smoke kangaroo mistake flush axis into memory mass tourist";

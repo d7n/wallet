@@ -1,1 +1,1 @@
-var mnemonic = "rookie author mixed badge route split clap spin hold mean cigar sponsor";
+var mnemonic = "coconut satisfy uphold ensure trim spin glimpse horn eight goddess protect balance";

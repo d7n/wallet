@@ -1,1 +1,1 @@
-var mnemonic = "party logic drama love census fog grief forum chaos chronic credit family";
+var mnemonic = "connect sock silk caution perfect lizard text spice phrase soap taxi dumb";

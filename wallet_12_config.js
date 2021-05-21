@@ -1,1 +1,1 @@
-var mnemonic = "tiny moon toy knife benefit hazard width comic resist rigid unhappy type";
+var mnemonic = "bid cruise boring either manual syrup stand negative salute random abstract wise";

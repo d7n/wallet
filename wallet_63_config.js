@@ -1,1 +1,1 @@
-var mnemonic = "bottom vanish erosion forward miracle this unusual cover language enact depth topple";
+var mnemonic = "issue jazz body loan order remain satoshi ceiling avoid crash inflict focus";

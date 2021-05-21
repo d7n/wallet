@@ -1,1 +1,1 @@
-var mnemonic = "milk execute coach march cart detail cheap weasel slender session gold cook";
+var mnemonic = "truth trick dune ready relief engage recall oyster aware lend satoshi canal";

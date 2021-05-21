@@ -1,1 +1,1 @@
-var mnemonic = "wall weasel seven crowd kid elder soup edit leaf worry priority legal";
+var mnemonic = "arrow office draw orchard learn puzzle fly mechanic trial bracket rate game";

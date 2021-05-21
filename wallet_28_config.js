@@ -1,1 +1,1 @@
-var mnemonic = "wagon state correct large lawsuit choice cycle spy wasp urban gentle nothing";
+var mnemonic = "federal fiction gravity clump bounce conduct napkin job lend title royal walk";

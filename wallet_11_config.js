@@ -1,1 +1,1 @@
-var mnemonic = "tent rebuild select during rescue extra thought card witness milk enjoy review";
+var mnemonic = "gallery lunar chalk wink choose bird join eternal can great monster antique";

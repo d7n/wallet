@@ -1,1 +1,1 @@
-var mnemonic = "horror sauce subway shift history long cake nice orient skin satoshi flock";
+var mnemonic = "couch victory enter gossip arrest right stable sun any ready gasp width";

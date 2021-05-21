@@ -1,1 +1,1 @@
-var mnemonic = "sheriff oven picnic nasty when motion farm business office cancel cable raise";
+var mnemonic = "fatigue brand piano hospital travel owner outer want exclude grocery opera orient";

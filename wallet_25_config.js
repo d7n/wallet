@@ -1,1 +1,1 @@
-var mnemonic = "chicken bulb pony inch exercise green decade decrease swallow deny merit fat";
+var mnemonic = "dust ignore sniff hip lawsuit solve bomb sock dutch wool scare shoot";

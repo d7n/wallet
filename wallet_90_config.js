@@ -1,1 +1,1 @@
-var mnemonic = "merge carpet hurt make cargo strong market athlete waste occur demand can";
+var mnemonic = "top polar name depend amount family obvious resist axis garment parent medal";

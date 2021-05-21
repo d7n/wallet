@@ -1,1 +1,1 @@
-var mnemonic = "nut goose hospital swamp timber wild glare biology brief setup hood logic";
+var mnemonic = "shuffle lobster thing ask desert knife fee prevent grace frog win omit";
