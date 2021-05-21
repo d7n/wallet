@@ -1,1 +1,1 @@
-var mnemonic = "circle tomato alarm pave face surprise axis drum cat enact ranch pig";
+var mnemonic = "wheel title coral teach nature vessel orbit cement poet obvious source spice";

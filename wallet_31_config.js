@@ -1,1 +1,1 @@
-var mnemonic = "coffee eight gorilla soup squirrel bike pear maze sick choose jacket record";
+var mnemonic = "cabin ostrich agent chimney drop into ugly depend critic mule coil stuff";

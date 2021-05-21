@@ -1,1 +1,1 @@
-var mnemonic = "toddler pave runway rail layer night escape team horror daughter unhappy learn";
+var mnemonic = "enlist aerobic ceiling syrup ridge hunt video dilemma jump awful diesel draft";

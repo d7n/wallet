@@ -1,1 +1,1 @@
-var mnemonic = "solar jacket segment grace twelve diet category wing quote spoil half betray";
+var mnemonic = "job river kit odor waste control hint session grace say ceiling raw";

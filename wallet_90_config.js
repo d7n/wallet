@@ -1,1 +1,1 @@
-var mnemonic = "rescue cherry famous service orbit control near giggle climb train discover repeat";
+var mnemonic = "citizen garment decorate robot squeeze develop wonder talk vapor oval before stadium";

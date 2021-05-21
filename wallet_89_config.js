@@ -1,1 +1,1 @@
-var mnemonic = "burger royal odor board lecture confirm bracket museum drink surge shell purpose";
+var mnemonic = "empty loud kiss siege erase three crunch mushroom skate prosper nation garment";

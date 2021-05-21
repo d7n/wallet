@@ -1,1 +1,1 @@
-var mnemonic = "medal little announce damage milk spring knee phone lift garbage half pupil";
+var mnemonic = "sun shallow cat post decrease kite mosquito tool brave forum coral calm";

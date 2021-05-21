@@ -1,1 +1,1 @@
-var mnemonic = "gold jelly ripple parrot unable build ankle history grain crouch near hunt";
+var mnemonic = "occur wine right knock segment jealous maze sock error spider come embody";

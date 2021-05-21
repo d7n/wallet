@@ -1,1 +1,1 @@
-var mnemonic = "purity ramp stand grant child index apart hub attitude laptop execute pink";
+var mnemonic = "choose hope finger caught magnet urban panic history warm spy veteran spell";

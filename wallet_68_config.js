@@ -1,1 +1,1 @@
-var mnemonic = "fence diagram photo universe arrange flush balcony olympic rapid boring soon release";
+var mnemonic = "soup okay among wise device sport zebra wink easy armor minor supply";

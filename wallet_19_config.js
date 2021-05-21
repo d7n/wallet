@@ -1,1 +1,1 @@
-var mnemonic = "bread quantum tourist blouse hip maximum response symptom museum direct settle allow";
+var mnemonic = "half payment pole betray when term scissors naive fame juice setup myth";

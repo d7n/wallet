@@ -1,1 +1,1 @@
-var mnemonic = "shove excess crash diesel reason gasp come erosion tip animal need debate";
+var mnemonic = "song poet square hold link stamp curve laugh soap march real culture";

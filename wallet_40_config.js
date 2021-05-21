@@ -1,1 +1,1 @@
-var mnemonic = "blouse pistol behave onion road animal entire goat vivid sentence robust flush";
+var mnemonic = "vote hybrid crawl movie canoe film effort sight arrange unfair whale truck";

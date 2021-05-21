@@ -1,1 +1,1 @@
-var mnemonic = "detail skin purse need north regular slab interest budget clay still display";
+var mnemonic = "unlock wagon crisp legal dutch sweet earn horse width distance jealous spy";

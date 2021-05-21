@@ -1,1 +1,1 @@
-var mnemonic = "together butter wool friend shaft absorb craft upgrade thumb grape across almost";
+var mnemonic = "ask unfair ready someone sense buddy skin hint between pyramid solve stuff";

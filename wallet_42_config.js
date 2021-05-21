@@ -1,1 +1,1 @@
-var mnemonic = "glare soup joke smoke tank obscure immense parent pupil enhance comic area";
+var mnemonic = "banana quiz payment miss soup mansion park observe normal sausage plug scrap";

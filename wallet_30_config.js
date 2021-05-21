@@ -1,1 +1,1 @@
-var mnemonic = "loud forest harvest village man cause opinion desert phrase famous envelope cinnamon";
+var mnemonic = "picnic surface machine cannon pretty mistake end habit abuse shy scatter cargo";

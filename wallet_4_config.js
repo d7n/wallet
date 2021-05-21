@@ -1,1 +1,1 @@
-var mnemonic = "oblige shrimp erupt sad target fuel lamp enrich list chronic shaft wolf";
+var mnemonic = "east morning judge screen speed soul soldier bundle stay play spin shy";

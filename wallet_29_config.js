@@ -1,1 +1,1 @@
-var mnemonic = "insane elder major tattoo local vintage usage bless joy aware coin curve";
+var mnemonic = "sand window slow sound lunar drop reveal coil dress eager source capital";

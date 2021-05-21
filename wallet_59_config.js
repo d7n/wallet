@@ -1,1 +1,1 @@
-var mnemonic = "below thing start moral middle cancel staff sign movie where task kingdom";
+var mnemonic = "ahead dog mirror spider genre spray seminar cake explain cream awful garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "tube heart strategy improve ecology burst coffee visit sock paper capable network";
+var mnemonic = "until bright fetch salmon ordinary olympic remember skill unfold butter little nephew";

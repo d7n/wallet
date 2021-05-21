@@ -1,1 +1,1 @@
-var mnemonic = "fitness lawsuit crouch steak capable celery team debate service crazy day february";
+var mnemonic = "hazard submit boat govern shift you embrace knee pupil train column cash";

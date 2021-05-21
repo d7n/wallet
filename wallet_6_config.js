@@ -1,1 +1,1 @@
-var mnemonic = "art harvest lucky come toward fiction session useful try knife define quantum";
+var mnemonic = "parade farm clay monitor theory grief knife faculty genius jaguar alpha improve";

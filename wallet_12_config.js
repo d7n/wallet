@@ -1,1 +1,1 @@
-var mnemonic = "street innocent scan glide useless victory bulb equal belt leopard grab dentist";
+var mnemonic = "helmet dignity main rotate maximum crash truly skate unable parade frame asset";

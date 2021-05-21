@@ -1,1 +1,1 @@
-var mnemonic = "believe indoor drop sick magnet point endorse mad solve soap metal long";
+var mnemonic = "velvet spread aunt soldier online medal remind crash front mystery pear promote";

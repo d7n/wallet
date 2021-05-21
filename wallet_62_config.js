@@ -1,1 +1,1 @@
-var mnemonic = "aunt rely explain series deposit junk satoshi brain surge machine library brother";
+var mnemonic = "list little burden control innocent volume vicious page private salmon soup flame";

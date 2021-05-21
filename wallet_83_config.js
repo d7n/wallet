@@ -1,1 +1,1 @@
-var mnemonic = "hope mystery rifle runway reason spatial actor limb knee shock claw figure";
+var mnemonic = "infant cousin dance click weird large school flip lake gloom display skate";

@@ -1,1 +1,1 @@
-var mnemonic = "cool wheel pride blur slide aisle palm output genre master zebra immune";
+var mnemonic = "donate text two foam deny clever guitar trumpet awkward color neck home";

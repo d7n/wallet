@@ -1,1 +1,1 @@
-var mnemonic = "key donor hunt tired virtual sure pool merry slim pony piano honey";
+var mnemonic = "noble town oppose pencil improve mixture tenant flat hat crunch feed twin";

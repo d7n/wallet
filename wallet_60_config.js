@@ -1,1 +1,1 @@
-var mnemonic = "benefit noble fluid absorb maple unaware shoot appear envelope material member enemy";
+var mnemonic = "turkey element guess village tornado deputy rival beef fabric boring ozone material";

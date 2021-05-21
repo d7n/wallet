@@ -1,1 +1,1 @@
-var mnemonic = "slender appear hard toilet name confirm sponsor segment bulk notable joy napkin";
+var mnemonic = "rubber divide cover farm dinosaur motion okay scale way file throw pluck";

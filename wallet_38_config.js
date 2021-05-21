@@ -1,1 +1,1 @@
-var mnemonic = "before goat tiny apart cattle blossom amount road fashion rocket unit unique";
+var mnemonic = "never pepper result neck hollow glance citizen deputy range file hello profit";

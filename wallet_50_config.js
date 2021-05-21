@@ -1,1 +1,1 @@
-var mnemonic = "sea leaf crisp stick attract still tide live infant artwork shoot total";
+var mnemonic = "wonder endorse table scale bamboo paper cactus myself punch else art pilot";

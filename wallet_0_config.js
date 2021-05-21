@@ -1,1 +1,1 @@
-var mnemonic = "maid begin chase pen smoke jeans trash sugar coast law tornado weekend";
+var mnemonic = "nephew suffer now vehicle tissue tortoise curious omit cabin jeans country chaos";

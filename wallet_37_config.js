@@ -1,1 +1,1 @@
-var mnemonic = "burger sad fabric food survey chef eye pilot mosquito rely demise spell";
+var mnemonic = "soap sniff focus autumn capital agree bind brand very raccoon craft math";

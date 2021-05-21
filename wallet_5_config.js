@@ -1,1 +1,1 @@
-var mnemonic = "suspect denial alarm glory balance puzzle image cupboard junior enhance fancy divide";
+var mnemonic = "awful black fade bomb object surround priority field walnut print panic apart";

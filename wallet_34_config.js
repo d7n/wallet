@@ -1,1 +1,1 @@
-var mnemonic = "frost turn lawn pilot east impose diagram private sense fruit quiz tail";
+var mnemonic = "category where people dash filter case write math clinic orient cushion purpose";

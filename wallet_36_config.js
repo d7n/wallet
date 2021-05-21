@@ -1,1 +1,1 @@
-var mnemonic = "damp foster update melt mean cargo misery wisdom answer pulse book milk";
+var mnemonic = "song helmet palace address aspect fall system cube buzz summer hollow gold";

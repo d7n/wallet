@@ -1,1 +1,1 @@
-var mnemonic = "produce honey goddess resource any viable clip region horror river level craft";
+var mnemonic = "robot prize moment monster lucky correct emerge original profit shoulder gravity unveil";

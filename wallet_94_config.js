@@ -1,1 +1,1 @@
-var mnemonic = "acquire object rebel erupt join age wage unable soft bicycle light fog";
+var mnemonic = "jeans neck gorilla time core foot portion carbon mobile reflect ocean milk";

@@ -1,1 +1,1 @@
-var mnemonic = "flip thing zoo bid rose hen hurt level ski awkward wait artefact";
+var mnemonic = "blast maple text chaos holiday frame coin cream roof want parent quote";

@@ -1,1 +1,1 @@
-var mnemonic = "silly disagree observe swim update enlist license food donate blossom never flight";
+var mnemonic = "bomb jaguar note lumber police truly blur attract easy diesel crystal stuff";

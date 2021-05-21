@@ -1,1 +1,1 @@
-var mnemonic = "deer clerk actress trash toss below since bachelor ghost warfare shrimp egg";
+var mnemonic = "valve arrange all stick space sphere wide spin alert burden pave kingdom";

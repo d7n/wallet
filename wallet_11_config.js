@@ -1,1 +1,1 @@
-var mnemonic = "devote elbow matrix tattoo affair shield snake correct bind cook output orbit";
+var mnemonic = "useless practice order imitate flower rather corn cargo stick offer miracle jacket";

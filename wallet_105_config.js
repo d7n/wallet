@@ -1,1 +1,1 @@
-var mnemonic = "cannon staff wrist hotel wing process lecture already impact depth remove risk";
+var mnemonic = "swim drum boss shock travel vanish detail camera miss clock cigar blind";

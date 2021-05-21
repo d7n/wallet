@@ -1,1 +1,1 @@
-var mnemonic = "sting approve collect win parade trial upon keen rice typical salt burst";
+var mnemonic = "sorry finish birth review video duty sword dream supreme accident arrow east";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply clock defense patch child flock lawsuit behind cloth broom throw aunt";
+var mnemonic = "surface chat dirt that nerve feel crime smoke castle lumber clown misery";

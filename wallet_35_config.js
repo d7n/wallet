@@ -1,1 +1,1 @@
-var mnemonic = "dial situate zebra cook twice wage belt weird book number monkey blast";
+var mnemonic = "dice case escape deputy inquiry own news luggage promote rookie erode squirrel";

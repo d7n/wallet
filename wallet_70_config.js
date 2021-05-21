@@ -1,1 +1,1 @@
-var mnemonic = "charge cry cabin gown sibling slide boost century update work desert member";
+var mnemonic = "final regular anchor stable notable jump farm degree logic cook aware tell";

@@ -1,1 +1,1 @@
-var mnemonic = "unlock flock honey approve foam trigger rescue floor whip drink kidney index";
+var mnemonic = "practice token carpet cart strong find say maple cherry orient grocery feed";

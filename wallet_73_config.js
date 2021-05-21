@@ -1,1 +1,1 @@
-var mnemonic = "expand squirrel merge omit alpha traffic drink zone shop shoot dad cherry";
+var mnemonic = "tortoise south fog visit scale domain income exhibit word woman rule have";

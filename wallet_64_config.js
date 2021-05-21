@@ -1,1 +1,1 @@
-var mnemonic = "panic accident illegal weasel they march sleep aware key neither tackle ceiling";
+var mnemonic = "metal ball clean squirrel now approve hollow wave hungry powder pause orange";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha label absent sadness urge cousin avocado giant exile knock injury decline";
+var mnemonic = "prize nose trial vendor myth lounge organ sail casino power rose razor";

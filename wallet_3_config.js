@@ -1,1 +1,1 @@
-var mnemonic = "frost crush genius symbol fun axis park water carbon twist lunar relax";
+var mnemonic = "year pride tomato talk response body rate pink analyst crucial zebra actor";

@@ -1,1 +1,1 @@
-var mnemonic = "change invest sudden valve frozen urge nut history throw drill caught neutral";
+var mnemonic = "child manual lake street general alert emotion sausage trophy daughter isolate guilt";

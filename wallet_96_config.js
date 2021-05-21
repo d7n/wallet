@@ -1,1 +1,1 @@
-var mnemonic = "pyramid uncover gate style plunge appear cousin receive loop explain twist account";
+var mnemonic = "upper file daring forest snake cool sibling book benefit bird clap domain";

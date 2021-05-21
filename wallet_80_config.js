@@ -1,1 +1,1 @@
-var mnemonic = "dial maple aspect any exclude vivid habit ecology wreck skate dinosaur bonus";
+var mnemonic = "absorb clock say idea pig barely awake fall anchor wire invest merge";

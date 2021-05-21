@@ -1,1 +1,1 @@
-var mnemonic = "crop recall dumb night action assist riot witness stove pole pencil toe";
+var mnemonic = "target sorry body purpose key scorpion slender top drift arrow false claw";

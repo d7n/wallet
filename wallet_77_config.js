@@ -1,1 +1,1 @@
-var mnemonic = "fantasy okay six repair volume hedgehog retreat robust brother swing parent slide";
+var mnemonic = "immune mom fog remember ability barely pistol predict rally patrol lock skill";

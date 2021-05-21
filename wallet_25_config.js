@@ -1,1 +1,1 @@
-var mnemonic = "raw man index sugar search room digital fault error object slender leave";
+var mnemonic = "social erupt upgrade prevent trouble crime web brisk accuse page coconut salt";

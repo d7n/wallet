@@ -1,1 +1,1 @@
-var mnemonic = "naive job chair sketch meadow reform submit wet paper south else situate";
+var mnemonic = "ignore hurdle hold ensure law join relief cereal frequent blouse language relax";

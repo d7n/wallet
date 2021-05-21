@@ -1,1 +1,1 @@
-var mnemonic = "jazz bonus foot cry twelve promote tunnel slide minute exhaust width cactus";
+var mnemonic = "salmon uniform palace pen put athlete believe note venture business flame interest";

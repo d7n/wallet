@@ -1,1 +1,1 @@
-var mnemonic = "gate ship sound modify pipe dignity skate name trouble awesome harsh lizard";
+var mnemonic = "unlock relief quote nurse crew author fix giant brass reflect horror market";

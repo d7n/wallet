@@ -1,1 +1,1 @@
-var mnemonic = "bitter embrace enact female rescue general friend hurry urban lunar hurt cover";
+var mnemonic = "female debate hawk photo credit sudden deal park work artwork move tattoo";

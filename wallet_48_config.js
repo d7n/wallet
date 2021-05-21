@@ -1,1 +1,1 @@
-var mnemonic = "best hawk eagle critic hawk define sword vault echo abuse fury coconut";
+var mnemonic = "mail twin card sauce crater royal school matter long clerk guilt original";

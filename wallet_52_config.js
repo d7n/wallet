@@ -1,1 +1,1 @@
-var mnemonic = "airport obtain lion mother sample inch erosion cereal wolf crawl visa auction";
+var mnemonic = "combine layer weapon crunch usual innocent supply struggle autumn hospital symptom domain";

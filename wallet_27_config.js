@@ -1,1 +1,1 @@
-var mnemonic = "crater oyster express pill quote busy fit tiger three hole vacant silent";
+var mnemonic = "front once license scatter fat crush ensure pill certain scene rookie floor";

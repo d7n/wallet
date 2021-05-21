@@ -1,1 +1,1 @@
-var mnemonic = "critic embark choose fog space wagon empty flip rival scissors festival midnight";
+var mnemonic = "model cousin excuse join ketchup subject photo drip blouse narrow square panic";

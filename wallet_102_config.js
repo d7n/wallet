@@ -1,1 +1,1 @@
-var mnemonic = "april fix absurd beef food bring funny element target manage child meat";
+var mnemonic = "essay energy promote spawn enjoy awesome stamp amount program stool satoshi harsh";

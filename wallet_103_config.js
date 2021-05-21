@@ -1,1 +1,1 @@
-var mnemonic = "viable collect dust carry smart thought rhythm become card grocery ecology economy";
+var mnemonic = "moment woman slender purse gesture bamboo shrimp reward subject body veteran initial";

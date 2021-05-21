@@ -1,1 +1,1 @@
-var mnemonic = "hip estate media year just best cannon title imitate tape regular sorry";
+var mnemonic = "allow motion into grab derive escape beach eternal tired seven aspect favorite";

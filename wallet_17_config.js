@@ -1,1 +1,1 @@
-var mnemonic = "blame ensure fiction treat math jaguar alien foot muffin fancy exhibit body";
+var mnemonic = "orient enroll jar turn alpha cliff man solar avocado lesson replace thing";

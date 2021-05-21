@@ -1,1 +1,1 @@
-var mnemonic = "soon hover custom relief renew man scatter hedgehog furnace produce rent language";
+var mnemonic = "place logic issue segment crater food ozone major actual skill result leaf";

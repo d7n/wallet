@@ -1,1 +1,1 @@
-var mnemonic = "intact bronze lounge strategy letter close delay scan faculty first lawn accident";
+var mnemonic = "vehicle mandate false love sail rail trophy danger urge subject prison picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz blast pill style prize crush orphan gossip image girl hood shove";
+var mnemonic = "mask method pair depart rate trust bitter mystery clutch coin engine train";

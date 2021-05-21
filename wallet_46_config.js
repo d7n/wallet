@@ -1,1 +1,1 @@
-var mnemonic = "issue myth setup process model athlete filter orient venue neglect false green";
+var mnemonic = "addict vanish twin prefer security awkward flush shine move kidney rescue unlock";

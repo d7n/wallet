@@ -1,1 +1,1 @@
-var mnemonic = "ramp holiday receive alcohol crouch thrive what impact police faint metal sign";
+var mnemonic = "hedgehog lobster either average because spy captain guitar menu learn park sad";

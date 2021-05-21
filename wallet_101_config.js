@@ -1,1 +1,1 @@
-var mnemonic = "gift include company reopen prevent equip glass promote clog network mad spare";
+var mnemonic = "pledge shoot snack pen morning lady truly spend physical main weekend month";

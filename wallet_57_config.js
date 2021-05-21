@@ -1,1 +1,1 @@
-var mnemonic = "filter decorate visual simple harsh security faith wonder fluid rely oval budget";
+var mnemonic = "neither accuse glass uphold soccer used donkey quiz tobacco employ summer fish";

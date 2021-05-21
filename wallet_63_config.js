@@ -1,1 +1,1 @@
-var mnemonic = "physical elder atom element life dumb phrase traffic powder pioneer antique satisfy";
+var mnemonic = "enlist ghost blind nut waste foster recycle close now void next emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "insane entry item soon pony abuse dune gold jealous scrub proud found";
+var mnemonic = "foam forget early uniform soda adapt foam insane two match topic canvas";

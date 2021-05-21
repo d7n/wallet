@@ -1,1 +1,1 @@
-var mnemonic = "annual scissors marriage regular net eagle sting friend spoon join tent illegal";
+var mnemonic = "since bonus wrestle quality slab accuse upgrade trouble street truth oval seven";

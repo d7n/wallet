@@ -1,1 +1,1 @@
-var mnemonic = "false beyond analyst absent fuel city fire only three retreat travel comic";
+var mnemonic = "organ pole august morning planet tomato taste twin target grass solve current";

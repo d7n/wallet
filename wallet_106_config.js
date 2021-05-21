@@ -1,1 +1,1 @@
-var mnemonic = "anchor domain naive chicken nose witness pause snack carpet voice tell milk";
+var mnemonic = "section split ask unlock liquid today sibling robot narrow able oppose output";

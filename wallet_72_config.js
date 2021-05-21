@@ -1,1 +1,1 @@
-var mnemonic = "catch bag robust false rose gun muffin manual enroll tunnel bomb escape";
+var mnemonic = "soda resemble minimum tobacco first estate nut scrap funny woman oil gun";

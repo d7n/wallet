@@ -1,1 +1,1 @@
-var mnemonic = "vendor bottom demand amazing learn room ice thought course anger soul benefit";
+var mnemonic = "lemon gravity radio easy voice inherit oak cruel fine upon uncover able";

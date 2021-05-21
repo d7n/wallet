@@ -1,1 +1,1 @@
-var mnemonic = "erupt fluid minute pulse shed file obtain grain bench verb circle lunar";
+var mnemonic = "accident topic tribe deliver match private expose retire measure idle found test";

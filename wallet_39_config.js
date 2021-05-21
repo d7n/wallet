@@ -1,1 +1,1 @@
-var mnemonic = "muffin ready worry curious valley evidence bonus milk believe mail rabbit slam";
+var mnemonic = "chapter ask village color caught whip avocado neglect hockey lunch head trend";

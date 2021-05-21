@@ -1,1 +1,1 @@
-var mnemonic = "era unfold economy life keep search room junk elbow scissors napkin session";
+var mnemonic = "collect repair cloud spoil miss gap hero match black hope measure nose";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge second brief business hockey trip lamp surface below come result manage";
+var mnemonic = "chimney purpose evidence cube family output raise north oak trip team number";

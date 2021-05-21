@@ -1,1 +1,1 @@
-var mnemonic = "story find orbit grace problem focus usage key humble depart test rent";
+var mnemonic = "lottery decrease foster olive left easy below will egg penalty offer evidence";

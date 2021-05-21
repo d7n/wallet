@@ -1,1 +1,1 @@
-var mnemonic = "hire matrix swamp fancy street fever vocal stage vessel follow useful arm";
+var mnemonic = "armed fence source example legal obscure swap van have nerve soldier possible";

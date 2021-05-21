@@ -1,1 +1,1 @@
-var mnemonic = "argue primary lake safe text else mercy funny leave exhaust pilot raccoon";
+var mnemonic = "body sea regular demise error wheat oak burger inspire cage picnic eternal";

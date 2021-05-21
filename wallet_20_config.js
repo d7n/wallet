@@ -1,1 +1,1 @@
-var mnemonic = "quiz island bracket vintage blade trap alter sibling invite earn heart vague";
+var mnemonic = "door flag carbon moment adapt elder stick vacant anxiety cube apology cute";

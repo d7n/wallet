@@ -1,1 +1,1 @@
-var mnemonic = "strike stage wisdom cheap around clutch general auto shop sing track wrong";
+var mnemonic = "skate demand demand decrease you expand wasp work science lab increase rely";
