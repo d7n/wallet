@@ -1,1 +1,1 @@
-var mnemonic = "discover argue fuel toast apple canoe lumber ice film genuine silver mercy";
+var mnemonic = "remind sniff axis phone pledge dice stem talk idle fuel outer poverty";

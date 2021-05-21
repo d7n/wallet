@@ -1,1 +1,1 @@
-var mnemonic = "scissors deer casino spatial record radar scale arch friend vibrant message fabric";
+var mnemonic = "trust upper news worry enough action avocado year burden scorpion pass top";

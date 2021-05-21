@@ -1,1 +1,1 @@
-var mnemonic = "combine repeat wreck receive jazz envelope balance trap cloth upon false pigeon";
+var mnemonic = "buyer mad legend void spike nothing pelican wasp midnight review empower release";

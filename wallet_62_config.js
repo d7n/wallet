@@ -1,1 +1,1 @@
-var mnemonic = "make spoon rude you forget blanket wool scissors journey lucky then humor";
+var mnemonic = "blade luggage rally account series rigid excite agree gallery aspect wrap letter";

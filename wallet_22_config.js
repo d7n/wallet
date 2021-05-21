@@ -1,1 +1,1 @@
-var mnemonic = "moment few dumb plate sudden giant labor base fetch inherit camp excuse";
+var mnemonic = "elder cliff need unfold basic crumble grape affair vendor yellow cat board";

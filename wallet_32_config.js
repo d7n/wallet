@@ -1,1 +1,1 @@
-var mnemonic = "image jewel artefact strike drum oyster unable turkey earth defense desk repair";
+var mnemonic = "broom cargo scale tank verb favorite video fence doll ride rally help";

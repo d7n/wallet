@@ -1,1 +1,1 @@
-var mnemonic = "equal replace erupt use huge road strike wreck dragon profit into thing";
+var mnemonic = "gas wood arrange camp diary protect need struggle hand change silk sick";

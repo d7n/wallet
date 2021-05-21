@@ -1,1 +1,1 @@
-var mnemonic = "popular leaf story final thumb garage milk object wasp circle trash update";
+var mnemonic = "rely board float lunch victory annual ribbon gaze direct fitness laugh panic";

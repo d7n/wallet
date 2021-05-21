@@ -1,1 +1,1 @@
-var mnemonic = "razor display solar ecology skull loan save hip ready catch execute pupil";
+var mnemonic = "clip trumpet execute slim thumb dumb risk bird uncover embody concert north";

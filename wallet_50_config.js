@@ -1,1 +1,1 @@
-var mnemonic = "little select next fossil slim purchase cash robust milk corn atom swamp";
+var mnemonic = "asthma hen original inflict unaware loan wire glide south fortune level drill";

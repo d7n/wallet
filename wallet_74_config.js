@@ -1,1 +1,1 @@
-var mnemonic = "replace improve dice suit execute excuse genius orient loan morning scrub betray";
+var mnemonic = "since faint always mail obtain text absorb trick medal slight seminar elite";

@@ -1,1 +1,1 @@
-var mnemonic = "post blush various box dream cloud green fringe waste arctic coyote country";
+var mnemonic = "night beach typical maple degree scrap border monitor diary coyote broken discover";

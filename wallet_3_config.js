@@ -1,1 +1,1 @@
-var mnemonic = "crack feed suffer buffalo adult turn current best virus steak physical question";
+var mnemonic = "mosquito cigar crack pool deer coast struggle govern liar exhibit public mom";

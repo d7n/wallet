@@ -1,1 +1,1 @@
-var mnemonic = "receive special wrong escape swamp spice gap kitten humor note come please";
+var mnemonic = "direct theme trip time imitate gorilla blind already fashion dolphin suggest obey";

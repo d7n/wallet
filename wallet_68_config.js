@@ -1,1 +1,1 @@
-var mnemonic = "practice floor lizard young seed copper crisp art joke good cable nice";
+var mnemonic = "analyst depth endorse silly solid screen real hundred gym bench subway pattern";

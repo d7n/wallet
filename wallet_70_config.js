@@ -1,1 +1,1 @@
-var mnemonic = "there science process sunny pottery flame subject divorce occur base during globe";
+var mnemonic = "verb nephew expand goose trap primary correct come air used convince crawl";

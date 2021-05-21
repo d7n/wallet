@@ -1,1 +1,1 @@
-var mnemonic = "wisdom kitten upper grass circle trigger tip rapid cradle marble surge grit";
+var mnemonic = "renew panther bag problem please cool resemble veteran release reveal air upset";

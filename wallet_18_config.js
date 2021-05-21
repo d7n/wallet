@@ -1,1 +1,1 @@
-var mnemonic = "depend route sick drill earth lemon radio bounce size file swamp deputy";
+var mnemonic = "across cram fruit core common start seat bone dignity service boy because";

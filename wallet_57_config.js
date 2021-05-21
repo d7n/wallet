@@ -1,1 +1,1 @@
-var mnemonic = "slogan ball erosion misery favorite because raise uniform object multiply wet spoil";
+var mnemonic = "six arrest call wet regret zoo ecology milk retire neutral mixture bullet";

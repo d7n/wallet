@@ -1,1 +1,1 @@
-var mnemonic = "excuse lock outer bike stick require february give rigid food close option";
+var mnemonic = "eternal enforce damage force wine sun meat normal casino tree fossil woman";

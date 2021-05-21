@@ -1,1 +1,1 @@
-var mnemonic = "dentist already airport pride fly captain crisp typical decade woman puzzle speed";
+var mnemonic = "gallery tag hub isolate bundle sadness truly rose grape athlete glass recycle";

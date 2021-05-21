@@ -1,1 +1,1 @@
-var mnemonic = "group theory wedding stereo nation bleak ankle urban media mean lamp upgrade";
+var mnemonic = "snow pet credit replace antique impulse control escape elder ozone chief end";

@@ -1,1 +1,1 @@
-var mnemonic = "entry fork illegal melody mercy wish finger setup wide obtain elephant bulb";
+var mnemonic = "love range gaze head unique burger utility crystal juice license trash supreme";

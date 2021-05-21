@@ -1,1 +1,1 @@
-var mnemonic = "annual leg erode amount zero scout gift drill spread scissors solid strong";
+var mnemonic = "gadget hint endless gun assault material motion lamp raw twice post portion";

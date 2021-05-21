@@ -1,1 +1,1 @@
-var mnemonic = "sauce arrange address kid problem shine season broccoli stock lizard alter choice";
+var mnemonic = "clog analyst dog confirm wall bless athlete salad hurt exclude service crash";

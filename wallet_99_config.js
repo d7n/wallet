@@ -1,1 +1,1 @@
-var mnemonic = "design welcome appear announce chest kiss venue stuff flock work move truth";
+var mnemonic = "depth essence valid arch current meadow ankle pause defy famous moment double";

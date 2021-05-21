@@ -1,1 +1,1 @@
-var mnemonic = "normal crystal lake another unlock prize maze advance push oil strike subway";
+var mnemonic = "parent when end edit giant student drink peace click that certain father";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy draft luxury present lunar nature captain melody maid nation gain gate";
+var mnemonic = "unit awful feed judge prize area axis crater clutch repeat dose resource";

@@ -1,1 +1,1 @@
-var mnemonic = "devote shield deny mammal produce guess act fabric face era critic annual";
+var mnemonic = "weather seat message sick atom envelope barely can tourist cart rural north";

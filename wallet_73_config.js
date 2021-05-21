@@ -1,1 +1,1 @@
-var mnemonic = "crush permit inside usage purchase bicycle phone holiday labor slender boil prefer";
+var mnemonic = "afford throw seek spray blush program tail special item sword dutch depth";

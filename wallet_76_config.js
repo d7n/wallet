@@ -1,1 +1,1 @@
-var mnemonic = "toe much math hawk morning ankle curve sock bleak secret goddess toilet";
+var mnemonic = "hungry minute term worth throw happy run exhaust swamp shuffle view cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge blouse eager cost speak adapt wife still detail fever assault garbage";
+var mnemonic = "average example index fitness table slam path beef open misery spy sound";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage plate buddy hire remember sand wrist prison airport orphan foot boil";
+var mnemonic = "odor else title toss bonus other fly income hair bright lounge idea";

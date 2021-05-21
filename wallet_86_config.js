@@ -1,1 +1,1 @@
-var mnemonic = "sense boost theme mistake chalk fiscal clever order fence december legend very";
+var mnemonic = "slight link narrow enemy census morning dwarf name service rich sheriff defy";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt parent better only found real light exit pause meadow twelve coil";
+var mnemonic = "club donate drink tunnel dance screen impulse soap resemble arrive satisfy property";

@@ -1,1 +1,1 @@
-var mnemonic = "donor badge novel tortoise shove uncover exile hospital ostrich myself eternal dune";
+var mnemonic = "bundle since angry trim cover bitter day trade kit traffic alien involve";

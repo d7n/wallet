@@ -1,1 +1,1 @@
-var mnemonic = "still cousin sense clean rose one siren render grid firm wrap kit";
+var mnemonic = "feel nut such industry original frost hawk orphan limb vital solution leisure";

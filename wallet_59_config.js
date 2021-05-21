@@ -1,1 +1,1 @@
-var mnemonic = "number recycle demand cause crawl almost gorilla awkward harsh despair coffee injury";
+var mnemonic = "garage era aunt canal wrestle sail divert tuna slim flash mobile fortune";

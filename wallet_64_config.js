@@ -1,1 +1,1 @@
-var mnemonic = "paddle absorb accident slush unit claim render leave airport skirt slot casual";
+var mnemonic = "mosquito wasp chapter book that seat clay mask chimney design just joy";

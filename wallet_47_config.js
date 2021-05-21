@@ -1,1 +1,1 @@
-var mnemonic = "limb blue plastic luggage purpose slush void claim laundry morning cousin travel";
+var mnemonic = "foil way favorite gentle member blur trade trigger section kind topic drive";

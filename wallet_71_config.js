@@ -1,1 +1,1 @@
-var mnemonic = "social ghost slot magnet hungry faith bench fox shift foam produce achieve";
+var mnemonic = "top goose salute illness odor phrase combine credit lock robot private raven";

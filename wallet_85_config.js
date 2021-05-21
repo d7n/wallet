@@ -1,1 +1,1 @@
-var mnemonic = "issue base lab purse treat tornado remove grape base boil daring catalog";
+var mnemonic = "barrel inside celery demise jazz defense expand unveil timber typical exercise quick";

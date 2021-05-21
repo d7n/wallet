@@ -1,1 +1,1 @@
-var mnemonic = "topple symbol reject soft mandate jealous ladder range amused unveil bid chronic";
+var mnemonic = "gauge trim food wire helmet reflect power denial circle jewel human enhance";

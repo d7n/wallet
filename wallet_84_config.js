@@ -1,1 +1,1 @@
-var mnemonic = "warfare trip noise fine latin dinner travel attend convince change put return";
+var mnemonic = "dutch ahead vivid enemy unhappy tunnel finish say unusual youth inch morning";

@@ -1,1 +1,1 @@
-var mnemonic = "brick execute furnace stay evil table echo entire elite either fantasy yellow";
+var mnemonic = "slush filter become person deer position risk invest devote section arrest chapter";

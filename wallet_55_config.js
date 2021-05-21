@@ -1,1 +1,1 @@
-var mnemonic = "staff alarm diesel vote joke brisk layer comic nature seed party cushion";
+var mnemonic = "various solve school oyster snap portion film axis flock toward divide fossil";

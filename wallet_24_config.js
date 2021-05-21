@@ -1,1 +1,1 @@
-var mnemonic = "royal carbon affair female west broken cry aisle reflect beach case sunny";
+var mnemonic = "movie stock era spice cigar hover quick wagon cannon rival pink easy";

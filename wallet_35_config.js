@@ -1,1 +1,1 @@
-var mnemonic = "prefer soap anchor abstract metal vapor world deliver cattle width aunt olive";
+var mnemonic = "churn shoe math ghost essence cook source feel meat layer merge together";

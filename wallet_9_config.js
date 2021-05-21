@@ -1,1 +1,1 @@
-var mnemonic = "manual lawsuit ghost stereo motor carpet fox emotion purse join mimic mixed";
+var mnemonic = "live into mouse note suffer snack raw april weekend tree come unfold";

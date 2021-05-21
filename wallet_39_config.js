@@ -1,1 +1,1 @@
-var mnemonic = "celery inmate useless outdoor reason distance kitten expire perfect beyond tragic young";
+var mnemonic = "stick include bone suggest tragic prosper still barrel orbit army sadness enhance";

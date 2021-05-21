@@ -1,1 +1,1 @@
-var mnemonic = "census grief ketchup punch stem super embrace dust patch unfair energy galaxy";
+var mnemonic = "unfair foot affair over pistol onion once ranch pitch novel mango trust";

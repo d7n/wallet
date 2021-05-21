@@ -1,1 +1,1 @@
-var mnemonic = "issue shift spread goose daring twice tornado pretty team grace physical better";
+var mnemonic = "devote patient divert stamp yard apart wash pelican pottery ice utility chicken";

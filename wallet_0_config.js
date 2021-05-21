@@ -1,1 +1,1 @@
-var mnemonic = "keep bridge kid effort mushroom announce aspect verify pitch disorder possible snap";
+var mnemonic = "brush crystal section two rubber cinnamon plate foster wide into diary push";

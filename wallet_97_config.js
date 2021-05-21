@@ -1,1 +1,1 @@
-var mnemonic = "bottom trigger half rain ceiling region dress suspect current devote wise table";
+var mnemonic = "label sad over foot network fault sand diet green gap beach vivid";

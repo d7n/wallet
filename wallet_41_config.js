@@ -1,1 +1,1 @@
-var mnemonic = "rotate canal shop valid mouse blast carry what female couch turkey congress";
+var mnemonic = "vacant near stereo month supply satoshi wink nation audit olympic arrive update";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol power toward relief undo income crunch shield attitude choice large endless";
+var mnemonic = "blur limb festival virus fix nothing come blouse census decade soft today";

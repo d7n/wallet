@@ -1,1 +1,1 @@
-var mnemonic = "stereo cabin shy thunder faint input file diamond raven keen deal quality";
+var mnemonic = "main measure game power gauge board tourist fish shoe find crucial thing";

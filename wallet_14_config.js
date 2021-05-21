@@ -1,1 +1,1 @@
-var mnemonic = "vendor voice laptop basket weekend grit figure punch execute split bid joy";
+var mnemonic = "rotate wheat board build vote exclude mask brain venue poverty priority case";

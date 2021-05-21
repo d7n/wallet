@@ -1,1 +1,1 @@
-var mnemonic = "harsh reward bargain shift praise tray front open tonight popular copper bubble";
+var mnemonic = "tube response birth duty obvious ranch deputy boy penalty pull reveal myth";

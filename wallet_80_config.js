@@ -1,1 +1,1 @@
-var mnemonic = "black pond radio agent slim juice milk chalk judge wife foster soon";
+var mnemonic = "build ridge unlock pair whisper pluck speak audit gown inherit assume spell";

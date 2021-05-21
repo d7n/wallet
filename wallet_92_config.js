@@ -1,1 +1,1 @@
-var mnemonic = "arena boring country observe gun prefer father release flash still gym desk";
+var mnemonic = "soldier gain fit thank alone garbage cross grunt symbol course gate tonight";

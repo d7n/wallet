@@ -1,1 +1,1 @@
-var mnemonic = "strike away twin latin dumb skin drum sound universe worth chat midnight";
+var mnemonic = "police tip guitar achieve push best help document lady output belt master";

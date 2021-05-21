@@ -1,1 +1,1 @@
-var mnemonic = "affair retire system will chair solution better exclude pill alien now margin";
+var mnemonic = "illness tape myth message drip hybrid couch destroy game fan top symptom";

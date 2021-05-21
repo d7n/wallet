@@ -1,1 +1,1 @@
-var mnemonic = "couple mimic scene own bundle hockey museum verify tomorrow minute rich behave";
+var mnemonic = "arrest home make foil fame error leisure tissue acoustic office client seed";

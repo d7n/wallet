@@ -1,1 +1,1 @@
-var mnemonic = "rain such captain wasp forget radio order keep material aisle favorite license";
+var mnemonic = "tool invest phone replace follow uncover wrist horn egg wash project claim";

@@ -1,1 +1,1 @@
-var mnemonic = "calm pass jewel wood brown square venue dance aisle image tackle shove";
+var mnemonic = "clump bargain layer monkey right shell muffin trick fence spin garlic invest";

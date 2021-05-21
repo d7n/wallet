@@ -1,1 +1,1 @@
-var mnemonic = "crane soul circle salad label december average bus peanut ghost ship state";
+var mnemonic = "sweet royal can wrap shallow erase melt casino bomb meat level guess";

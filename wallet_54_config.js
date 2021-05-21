@@ -1,1 +1,1 @@
-var mnemonic = "allow forget force fever bacon rose garage rude around easy access unfair";
+var mnemonic = "afford betray thumb jungle twice ability kangaroo habit elbow size scrub spatial";

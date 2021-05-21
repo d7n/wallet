@@ -1,1 +1,1 @@
-var mnemonic = "mom tongue culture salad dragon voice prefer address purse smoke social comfort";
+var mnemonic = "letter manual crowd cinnamon churn save scout brass sorry next around shrimp";

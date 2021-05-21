@@ -1,1 +1,1 @@
-var mnemonic = "benefit demise pluck fiber walnut strategy horse nasty hood jacket green fire";
+var mnemonic = "congress connect trial spatial drip spider grain crush senior forum orient panic";

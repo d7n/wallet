@@ -1,1 +1,1 @@
-var mnemonic = "vintage mushroom bus civil family orphan act rubber spare move illness marine";
+var mnemonic = "wagon airport absurd leg science bullet spell since addict wide firm series";

@@ -1,1 +1,1 @@
-var mnemonic = "naive slide cactus quiz crop diagram meat employ loop state student gap";
+var mnemonic = "practice name scare violin march select uphold barely panel spring key palm";

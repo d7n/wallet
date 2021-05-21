@@ -1,1 +1,1 @@
-var mnemonic = "enough patrol dynamic void sister wire charge asthma spirit candy suggest conduct";
+var mnemonic = "diet result remove lumber trouble acquire say cable toss wreck glue strike";

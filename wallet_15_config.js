@@ -1,1 +1,1 @@
-var mnemonic = "smile long curtain win off gorilla large pony glance man exhaust man";
+var mnemonic = "strike stick clump analyst drink heart subway cook car cause any lake";

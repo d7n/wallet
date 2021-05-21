@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit advice airport digital coil save pattern blind blue husband always brush";
+var mnemonic = "citizen butter fish notable method jeans remain vacant senior shuffle poem dash";

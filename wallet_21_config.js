@@ -1,1 +1,1 @@
-var mnemonic = "sustain display foil measure curtain satoshi glue water any apology tiny motor";
+var mnemonic = "saddle camera capable track practice orbit evoke undo panel swift brown little";

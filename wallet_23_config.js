@@ -1,1 +1,1 @@
-var mnemonic = "blood slender own style network cushion staff member net fun final weapon";
+var mnemonic = "truth poverty mistake fence enact lend stool deposit thing armed deputy food";

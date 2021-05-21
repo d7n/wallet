@@ -1,1 +1,1 @@
-var mnemonic = "blame input lesson travel thrive jar grab funny describe mango trial estate";
+var mnemonic = "bronze figure faint thumb orphan inmate chef ability faint sport manual steel";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey wet banner lesson announce warrior expire monitor reveal prevent almost income";
+var mnemonic = "raise laundry toss scale shaft suffer curtain zone future pulse kingdom client";

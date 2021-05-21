@@ -1,1 +1,1 @@
-var mnemonic = "pulp series depth float eyebrow hat attitude anxiety urban soft news author";
+var mnemonic = "session solution pole embody boat news dune tube current wrong reduce car";

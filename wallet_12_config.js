@@ -1,1 +1,1 @@
-var mnemonic = "mercy august wine seminar robot flavor often chunk fiber purity place elevator";
+var mnemonic = "demise first neck call trash equip carry sell over lunar nose sibling";

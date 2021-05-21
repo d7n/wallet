@@ -1,1 +1,1 @@
-var mnemonic = "scene element wisdom renew tank warrior voyage trust festival path miss mother";
+var mnemonic = "smile mountain captain put stamp letter veteran day next rug give release";

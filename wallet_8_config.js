@@ -1,1 +1,1 @@
-var mnemonic = "random seven palace wheat produce expect acid vacant neutral scrub purpose outside";
+var mnemonic = "divorce deliver body benefit easily same check canvas task timber situate wear";

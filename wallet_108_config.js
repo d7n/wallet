@@ -1,1 +1,1 @@
-var mnemonic = "ripple horror lawsuit category miss bounce roast drive chest visa hockey mule";
+var mnemonic = "insect bird lucky arch forum code law ahead pear degree estate special";

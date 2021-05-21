@@ -1,1 +1,1 @@
-var mnemonic = "stone jar leopard beef book hill hidden modify force muffin century violin";
+var mnemonic = "reopen prize junk stock normal device spoon gym animal pepper coast stadium";

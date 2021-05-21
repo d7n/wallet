@@ -1,1 +1,1 @@
-var mnemonic = "vault mosquito taste leader solution east hire consider pact give settle sniff";
+var mnemonic = "expect muscle level column debate help history fossil erase inflict neutral file";

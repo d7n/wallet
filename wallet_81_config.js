@@ -1,1 +1,1 @@
-var mnemonic = "salmon fragile dutch glimpse deputy solid dance picture trick slot stone donkey";
+var mnemonic = "panther lady bean scout sunset zone often spoil jelly stay useless zoo";

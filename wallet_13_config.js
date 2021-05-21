@@ -1,1 +1,1 @@
-var mnemonic = "hybrid bulb demand bike notable curious liberty certain outside barely cruise angry";
+var mnemonic = "amazing armed vault cereal since ritual story noodle rally sing pull junk";

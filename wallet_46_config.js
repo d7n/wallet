@@ -1,1 +1,1 @@
-var mnemonic = "raw human dignity enact off favorite essay twist yellow top safe dice";
+var mnemonic = "knock foil grape prosper spell monkey text list cargo inquiry replace glare";

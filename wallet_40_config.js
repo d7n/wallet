@@ -1,1 +1,1 @@
-var mnemonic = "benefit utility favorite focus custom wise frown reunion buzz seven rent invest";
+var mnemonic = "sustain enough welcome another exhaust gorilla divorce candy pulse scissors sniff emotion";

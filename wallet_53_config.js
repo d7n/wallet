@@ -1,1 +1,1 @@
-var mnemonic = "stool circle flag wish unit sun engage affair fatal lucky town gospel";
+var mnemonic = "glory keen spring tunnel park atom empower gather very essay evoke invest";
