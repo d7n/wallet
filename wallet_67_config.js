@@ -1,1 +1,1 @@
-var mnemonic = "vapor turkey this foil shrimp orphan lucky label race soda oven empty";
+var mnemonic = "dutch galaxy dish omit blanket rule material raccoon fine latin intact major";

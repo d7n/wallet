@@ -1,1 +1,1 @@
-var mnemonic = "grab cube salon member noise major canoe accuse tooth coffee fluid neither";
+var mnemonic = "sock recycle grain proof grape smoke wasp cup punch peanut position surge";

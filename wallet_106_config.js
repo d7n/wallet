@@ -1,1 +1,1 @@
-var mnemonic = "reunion bubble pole enhance modify captain famous range rent flash legend that";
+var mnemonic = "charge cook cable mother apology crazy edit benefit lazy company have cube";

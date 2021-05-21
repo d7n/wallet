@@ -1,1 +1,1 @@
-var mnemonic = "media elegant mountain galaxy industry ski raccoon depth limb riot confirm example";
+var mnemonic = "hip trap innocent exist save lion false note bag use door vessel";

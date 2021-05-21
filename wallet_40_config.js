@@ -1,1 +1,1 @@
-var mnemonic = "august retreat suffer december owner learn similar notable garbage tell settle ask";
+var mnemonic = "lecture always same slab float rather dawn marine polar hour provide add";

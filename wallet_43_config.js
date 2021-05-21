@@ -1,1 +1,1 @@
-var mnemonic = "shield source barely end kitten auto collect rocket trade apart news roast";
+var mnemonic = "total inquiry furnace volume monkey swear energy law recall mother above salute";

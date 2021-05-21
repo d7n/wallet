@@ -1,1 +1,1 @@
-var mnemonic = "south mechanic boy recall reveal smart all pledge document often slim blush";
+var mnemonic = "unique wheel couch mandate train silent custom shuffle patient fabric bind blouse";

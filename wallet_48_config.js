@@ -1,1 +1,1 @@
-var mnemonic = "copy clog worry barrel clip combine garment race maple tackle palm split";
+var mnemonic = "hint suspect fall decrease deposit student tumble aware holiday hip recipe collect";

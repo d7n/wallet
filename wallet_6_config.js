@@ -1,1 +1,1 @@
-var mnemonic = "regular actress poet wise pigeon fork total because maple net wood advice";
+var mnemonic = "when urban evolve execute jelly trade spread exotic zebra beach alone special";

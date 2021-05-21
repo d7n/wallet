@@ -1,1 +1,1 @@
-var mnemonic = "noodle depth room alone ship judge language burden sign innocent rubber sort";
+var mnemonic = "test image parent museum convince curtain royal stone urge oil food smooth";

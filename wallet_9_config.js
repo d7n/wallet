@@ -1,1 +1,1 @@
-var mnemonic = "item grief tunnel inside convince village doctor monkey swamp win mechanic tourist";
+var mnemonic = "canyon man law allow rhythm cousin filter exist distance panther morning resemble";

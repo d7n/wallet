@@ -1,1 +1,1 @@
-var mnemonic = "napkin debate cross kingdom foil term surface addict gold drift owner expand";
+var mnemonic = "blouse online symptom visa joke cement purse fix flame observe jelly garbage";

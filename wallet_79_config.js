@@ -1,1 +1,1 @@
-var mnemonic = "whale rich stage cinnamon sibling crack age fence knee forum tell leisure";
+var mnemonic = "hobby culture moment practice away bulk level trigger siren umbrella home keep";

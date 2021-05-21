@@ -1,1 +1,1 @@
-var mnemonic = "hollow one slogan able question frequent fold spring soft stereo until tube";
+var mnemonic = "genuine accident lemon glass drive lawn stadium near attract ring slam arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "mind diary burger protect rigid exercise elevator flag lift exotic border social";
+var mnemonic = "forget lucky endless minimum circle brass dwarf tooth recycle relief canoe library";

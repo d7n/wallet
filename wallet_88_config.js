@@ -1,1 +1,1 @@
-var mnemonic = "unlock bundle behave acoustic burger screen current coffee explain coral neglect force";
+var mnemonic = "bachelor stage front gold jungle robot caught million hole milk this ill";

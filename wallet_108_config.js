@@ -1,1 +1,1 @@
-var mnemonic = "key asthma inflict bring reveal grab industry better crunch tiny demand loyal";
+var mnemonic = "bid wrist sail cable inspire wage network silk manage armed sea sheriff";

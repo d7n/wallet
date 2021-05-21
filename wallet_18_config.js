@@ -1,1 +1,1 @@
-var mnemonic = "foot any labor bless shine ginger bulb wood venue enhance moral snack";
+var mnemonic = "settle lemon close valid library upgrade chalk thumb paddle erosion medal grain";

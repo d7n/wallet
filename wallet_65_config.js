@@ -1,1 +1,1 @@
-var mnemonic = "true upon throw annual beach board fragile eternal planet churn betray life";
+var mnemonic = "price all october clinic file rotate baby wheel chaos this junk between";

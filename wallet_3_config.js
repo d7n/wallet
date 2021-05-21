@@ -1,1 +1,1 @@
-var mnemonic = "remind iron snow vintage moment original design orphan language barrel scatter proof";
+var mnemonic = "firm relief ordinary size jelly turn act crime hole vibrant ill aim";

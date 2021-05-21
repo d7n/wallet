@@ -1,1 +1,1 @@
-var mnemonic = "pottery mom vault type proof chef hole large angle rent pass jewel";
+var mnemonic = "april patch suggest wait since popular agent bottom child result master toss";

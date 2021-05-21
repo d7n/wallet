@@ -1,1 +1,1 @@
-var mnemonic = "twist buddy fat average garden add clown before mother entry high cradle";
+var mnemonic = "trigger twelve until parrot wagon ripple fish mutual apart wasp music anxiety";

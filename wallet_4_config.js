@@ -1,1 +1,1 @@
-var mnemonic = "tube pilot rack record cushion other input bitter fury dwarf elbow pink";
+var mnemonic = "scatter good ocean weasel actual zone top forward ceiling range tube truth";

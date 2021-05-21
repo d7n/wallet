@@ -1,1 +1,1 @@
-var mnemonic = "patch angry wreck teach attitude twelve tornado twist matrix same detail powder";
+var mnemonic = "blur creek around scout gown run biology eagle combine intact street hawk";

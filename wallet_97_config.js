@@ -1,1 +1,1 @@
-var mnemonic = "suspect agent symbol usual bracket island quality orphan error tattoo claw hazard";
+var mnemonic = "public deliver bonus parent dawn gorilla inspire drastic letter rebuild cliff uniform";

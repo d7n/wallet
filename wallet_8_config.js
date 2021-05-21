@@ -1,1 +1,1 @@
-var mnemonic = "want reunion tiger glimpse innocent accident rich explain grid weasel village jaguar";
+var mnemonic = "search raven during dizzy enter trigger edit upset economy advance area actress";

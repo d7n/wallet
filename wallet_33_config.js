@@ -1,1 +1,1 @@
-var mnemonic = "nation electric hazard ship husband consider cave label source gym okay void";
+var mnemonic = "near clutch father river motion truth faint they detail lend problem cave";

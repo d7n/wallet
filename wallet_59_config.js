@@ -1,1 +1,1 @@
-var mnemonic = "eager cheap reopen picnic town regret convince frame nice media raven elephant";
+var mnemonic = "people badge dignity target announce tattoo winter worth predict range prosper nature";

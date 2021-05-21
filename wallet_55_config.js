@@ -1,1 +1,1 @@
-var mnemonic = "correct rotate promote spirit sick rebuild gossip february direct design gadget embody";
+var mnemonic = "kiss crowd surface term tree wine trial nice scene bless vital grocery";

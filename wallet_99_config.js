@@ -1,1 +1,1 @@
-var mnemonic = "flower increase smoke comfort empty naive submit upset much bounce quiz oyster";
+var mnemonic = "outside voice fade flight pact actual dove account blue secret mansion describe";

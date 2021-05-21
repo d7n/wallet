@@ -1,1 +1,1 @@
-var mnemonic = "audit way knock creek shoulder yard humor twenty series useless dragon panic";
+var mnemonic = "saddle frog picture witness ketchup quick burger dream choice bread fortune smoke";

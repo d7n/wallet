@@ -1,1 +1,1 @@
-var mnemonic = "auction room left kind rich stairs book where element rice great scheme";
+var mnemonic = "ask ability kick chimney thank program bonus evolve sea evoke plate resist";

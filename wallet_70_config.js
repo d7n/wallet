@@ -1,1 +1,1 @@
-var mnemonic = "mansion style glue doctor holiday wish file memory credit cement midnight mansion";
+var mnemonic = "trim make solution buyer tumble sister sunset early satisfy people circle sun";

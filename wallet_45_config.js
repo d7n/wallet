@@ -1,1 +1,1 @@
-var mnemonic = "announce vague general deliver proof salon glue canal boat novel credit barely";
+var mnemonic = "jaguar shoe bamboo crush expand venue day friend alpha country fortune decline";

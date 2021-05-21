@@ -1,1 +1,1 @@
-var mnemonic = "easily culture area payment wall witness scene upper unfold disorder jaguar grunt";
+var mnemonic = "flag ticket bone trigger print hole mandate weekend citizen pulp gadget tide";

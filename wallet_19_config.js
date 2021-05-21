@@ -1,1 +1,1 @@
-var mnemonic = "panther claw congress wide tape lesson steak mercy gentle borrow chuckle liquid";
+var mnemonic = "vehicle little raccoon battle know pudding city body potato chair allow bottom";

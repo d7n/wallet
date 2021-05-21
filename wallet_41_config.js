@@ -1,1 +1,1 @@
-var mnemonic = "illness scorpion season engage canoe left clarify tortoise surge bullet apart end";
+var mnemonic = "punch scissors happy false candy worry nest enemy guide october pupil public";

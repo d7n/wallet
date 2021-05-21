@@ -1,1 +1,1 @@
-var mnemonic = "device replace oppose drama often naive spare mean despair rhythm balance night";
+var mnemonic = "depend estate often route orchard scatter tilt dust help fold need sleep";

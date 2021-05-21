@@ -1,1 +1,1 @@
-var mnemonic = "unhappy close tell exile learn blush method muscle pitch afford thumb slab";
+var mnemonic = "tiger current entire hub cushion umbrella make cry mix race swap hybrid";

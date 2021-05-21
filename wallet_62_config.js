@@ -1,1 +1,1 @@
-var mnemonic = "steel uncover outer okay elbow actress erase custom ceiling mean minor seat";
+var mnemonic = "elevator tray profit matrix key index final north gold crunch accident rigid";

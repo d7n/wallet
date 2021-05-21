@@ -1,1 +1,1 @@
-var mnemonic = "wheel grief flower eye still cushion save horn dream unfold wife until";
+var mnemonic = "remind dog carpet divide address stairs person churn silly network gather lumber";

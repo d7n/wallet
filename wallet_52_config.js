@@ -1,1 +1,1 @@
-var mnemonic = "usage position detail split when frame chuckle they vocal question squeeze vibrant";
+var mnemonic = "genius leisure frequent meat wise service daughter life second below volume organ";

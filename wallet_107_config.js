@@ -1,1 +1,1 @@
-var mnemonic = "kitten surge talk village purpose swap unable point satoshi frog tattoo predict";
+var mnemonic = "inmate river skate mango aware conduct cake whale arena choose maid island";

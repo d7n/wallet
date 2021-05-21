@@ -1,1 +1,1 @@
-var mnemonic = "replace bread camp entry coffee liberty vote ski message dolphin mimic business";
+var mnemonic = "shock loud rail deliver riot river jeans cart noble universe decorate snow";

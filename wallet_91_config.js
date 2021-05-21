@@ -1,1 +1,1 @@
-var mnemonic = "empty year voyage enforce divide damage swallow floor drift supreme shock bullet";
+var mnemonic = "enrich wing addict cave dumb win future certain runway exhaust elephant fury";

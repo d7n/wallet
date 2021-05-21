@@ -1,1 +1,1 @@
-var mnemonic = "isolate sorry middle clown service squirrel table whip little imitate dilemma fuel";
+var mnemonic = "mosquito learn feed worry sort brown rapid sad mother pact marble syrup";

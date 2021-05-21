@@ -1,1 +1,1 @@
-var mnemonic = "vague crystal retire scout small item snack outer purity camera farm bullet";
+var mnemonic = "anxiety shoe hungry alcohol high rail trap chimney notice aspect embrace exile";

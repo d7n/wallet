@@ -1,1 +1,1 @@
-var mnemonic = "spirit mobile grace cloth alcohol before thrive rapid double harsh become harvest";
+var mnemonic = "flame nut cotton loan erode earn end assume there dirt furnace turkey";

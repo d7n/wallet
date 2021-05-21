@@ -1,1 +1,1 @@
-var mnemonic = "combine laundry dad link ship upgrade label strategy acid worry coconut exile";
+var mnemonic = "beyond scan mouse pair effort yard slender paddle lyrics regret surface empower";

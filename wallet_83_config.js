@@ -1,1 +1,1 @@
-var mnemonic = "path giraffe soccer bind term know logic fitness team ancient aim giraffe";
+var mnemonic = "abstract armed awesome wire boring mom injury busy online apple bread region";

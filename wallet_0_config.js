@@ -1,1 +1,1 @@
-var mnemonic = "inspire boring bonus eight isolate refuse human buzz glow cart nice around";
+var mnemonic = "smart crystal flight staff debate kite reform ensure lawn dinosaur eyebrow rare";

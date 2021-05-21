@@ -1,1 +1,1 @@
-var mnemonic = "innocent month lab weapon club dirt bid soccer entire stamp planet scheme";
+var mnemonic = "boost valley clerk major wrong history pulse blanket inhale defense jaguar spin";

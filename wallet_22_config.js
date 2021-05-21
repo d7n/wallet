@@ -1,1 +1,1 @@
-var mnemonic = "tackle decide gallery elbow manual waste fever dirt foil word void equal";
+var mnemonic = "curve equip worry spoil suspect gossip alpha dance arrow history canyon orient";

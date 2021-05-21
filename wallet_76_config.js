@@ -1,1 +1,1 @@
-var mnemonic = "bonus scout word round fatal blue horror two follow garment carbon afraid";
+var mnemonic = "spoon zoo occur box token monster section isolate galaxy digital clog crazy";

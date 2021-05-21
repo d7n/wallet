@@ -1,1 +1,1 @@
-var mnemonic = "only joy trim bean gasp angle naive glance law flee private hole";
+var mnemonic = "note model pear account sword curve fly detect scatter flavor aisle now";

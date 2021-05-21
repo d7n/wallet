@@ -1,1 +1,1 @@
-var mnemonic = "rural refuse dance shoot sick razor reward tooth champion harvest fame subway";
+var mnemonic = "weasel slim bench cement rapid cave wealth hope scale cause flock pyramid";

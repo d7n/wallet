@@ -1,1 +1,1 @@
-var mnemonic = "spread false oyster behave orange goat what alone oppose flock immune right";
+var mnemonic = "video solar whip jealous taxi laundry snake fish inject push clay hen";

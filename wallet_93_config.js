@@ -1,1 +1,1 @@
-var mnemonic = "crime ladder beauty bridge news alter crumble mom dismiss sponsor travel doll";
+var mnemonic = "end fantasy chunk parent top actor purse property ten ribbon allow movie";

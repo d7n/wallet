@@ -1,1 +1,1 @@
-var mnemonic = "silver romance ceiling weasel onion next mail spatial curtain snow bulb prosper";
+var mnemonic = "abstract crawl refuse whip own session manual grape security enforce melody report";

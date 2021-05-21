@@ -1,1 +1,1 @@
-var mnemonic = "swim equal easy advance neutral cereal valve borrow welcome live trash gossip";
+var mnemonic = "weather knee mammal situate inquiry chimney cheese veteran baby inject skin entire";

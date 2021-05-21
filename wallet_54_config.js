@@ -1,1 +1,1 @@
-var mnemonic = "lunch arrest sock must view nice night memory faint purity panel camera";
+var mnemonic = "anger post high unaware injury ivory false essence nice away move pill";

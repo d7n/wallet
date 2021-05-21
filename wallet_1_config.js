@@ -1,1 +1,1 @@
-var mnemonic = "flag hurt hire fever domain artist goat excess behave ancient shrug arrest";
+var mnemonic = "recycle ahead lonely climb lounge blade fat arrow shaft vessel mansion stage";

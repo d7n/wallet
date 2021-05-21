@@ -1,1 +1,1 @@
-var mnemonic = "exchange crop flower draw gauge butter supreme arrest swarm immune onion cloud";
+var mnemonic = "feature abstract flag patient develop dignity breeze napkin sock once ridge nurse";

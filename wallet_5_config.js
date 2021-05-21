@@ -1,1 +1,1 @@
-var mnemonic = "wet vibrant wink false usual suggest region gorilla jacket badge middle swear";
+var mnemonic = "wish trouble fever shed artefact drift faculty spray concert acoustic original acid";

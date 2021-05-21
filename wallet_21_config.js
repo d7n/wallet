@@ -1,1 +1,1 @@
-var mnemonic = "duty know police useful business volcano predict image industry empower maximum pigeon";
+var mnemonic = "patient owner excite urge enjoy family journey quick trash diamond trial wide";

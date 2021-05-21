@@ -1,1 +1,1 @@
-var mnemonic = "bulk lyrics above tube surge guilt stage high hello amount fancy pupil";
+var mnemonic = "advance mutual loan galaxy ankle else bundle cat next explain ritual wealth";

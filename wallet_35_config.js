@@ -1,1 +1,1 @@
-var mnemonic = "fold flee amount palm cup critic damage turtle client patient slot police";
+var mnemonic = "cave nuclear use park salmon denial exile account calm bacon chair maple";

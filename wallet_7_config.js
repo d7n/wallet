@@ -1,1 +1,1 @@
-var mnemonic = "ginger foster future ostrich what march lunch suspect dune hip taxi bind";
+var mnemonic = "taxi clump inject crawl typical camera faculty smile metal evolve salon solar";

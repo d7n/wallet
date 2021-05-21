@@ -1,1 +1,1 @@
-var mnemonic = "swing found exhibit hood fiscal weird calm captain sing analyst salt blur";
+var mnemonic = "ecology share fish reflect genre satoshi retire outer addict dad flag material";

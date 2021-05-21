@@ -1,1 +1,1 @@
-var mnemonic = "normal same immune right fuel garment thrive rookie wire large night virtual";
+var mnemonic = "disorder smooth dizzy exclude index husband glimpse glass veteran shoe situate fan";

@@ -1,1 +1,1 @@
-var mnemonic = "doll love alcohol pave rain year brush cluster card throw spoil false";
+var mnemonic = "acid clutch swear ghost cactus retire stool bright absent vendor undo phrase";

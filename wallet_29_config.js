@@ -1,1 +1,1 @@
-var mnemonic = "that afford illegal balcony absent token rug clinic minimum protect typical dawn";
+var mnemonic = "duck source injury odor club half eyebrow vocal save west civil silly";

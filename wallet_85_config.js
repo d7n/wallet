@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ladder iron baby matrix wealth path blast planet organ crunch laptop";
+var mnemonic = "chicken claw abandon keen mad limit pair crystal donor pottery mushroom result";

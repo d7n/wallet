@@ -1,1 +1,1 @@
-var mnemonic = "concert cement uncle purse invite service lunar fuel shrimp have economy lawn";
+var mnemonic = "initial ready cruel hawk tomorrow boil appear teach minute device peasant yard";

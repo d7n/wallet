@@ -1,1 +1,1 @@
-var mnemonic = "icon impulse angry cancel choose often spell sail sign iron sentence equal";
+var mnemonic = "ghost write night ribbon hair dwarf bicycle retire swallow convince drastic curious";

@@ -1,1 +1,1 @@
-var mnemonic = "around ugly shell august drip friend sausage useless vendor ability spirit bright";
+var mnemonic = "half spell time citizen grain soul cost oil sleep coyote pluck gold";

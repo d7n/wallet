@@ -1,1 +1,1 @@
-var mnemonic = "sibling question round crumble process attitude butter illness short champion wedding artist";
+var mnemonic = "battle prefer release fortune pig chimney merit bicycle subway unlock super dice";

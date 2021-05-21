@@ -1,1 +1,1 @@
-var mnemonic = "angry lecture rubber tribe accident street advance humor dad give tumble vessel";
+var mnemonic = "junior cute rail lens airport gain fragile moment drink gate fish butter";

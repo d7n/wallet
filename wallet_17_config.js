@@ -1,1 +1,1 @@
-var mnemonic = "warm latin opinion render recall syrup siren era lecture vanish sustain diary";
+var mnemonic = "dinner eight blame erase amazing fame suit annual another fade choose bleak";

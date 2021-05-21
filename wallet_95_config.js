@@ -1,1 +1,1 @@
-var mnemonic = "never virus bleak grain void now furnace tone wine pigeon rely visual";
+var mnemonic = "diary carbon clap actress point cheese learn spread daughter cloud arrow butter";

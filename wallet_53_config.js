@@ -1,1 +1,1 @@
-var mnemonic = "valid hold annual define myself ribbon easily today point twenty system thrive";
+var mnemonic = "typical noise crystal legal apology evidence fortune proud monkey occur upper trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "change barrel profit witness spin asset average supreme tag wet patrol federal";
+var mnemonic = "leave during hover coral version puppy option return unaware comic hungry vessel";

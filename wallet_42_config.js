@@ -1,1 +1,1 @@
-var mnemonic = "innocent library divert disagree yellow game burst opera mobile agree tape armed";
+var mnemonic = "crush deal venue exhibit candy nature define august stick okay usage neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn crystal flee tumble junk floor bulk pool search guilt artefact iron";
+var mnemonic = "spirit cross spray canvas photo rotate ice antique segment bleak visa minute";

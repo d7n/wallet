@@ -1,1 +1,1 @@
-var mnemonic = "again future note extra penalty sadness license donor decide bulk hurry east";
+var mnemonic = "derive same debate news cabbage injury clap welcome million flower mind index";

@@ -1,1 +1,1 @@
-var mnemonic = "zoo absorb outer six desk top runway remain torch detect busy bind";
+var mnemonic = "sail draft timber jacket enable range pass interest detect best screen problem";

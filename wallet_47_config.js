@@ -1,1 +1,1 @@
-var mnemonic = "truly chicken meadow much blind pig veteran topic bleak wagon ice riot";
+var mnemonic = "domain club suit eyebrow special resemble minor slam edge human okay forum";

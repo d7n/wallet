@@ -1,1 +1,1 @@
-var mnemonic = "replace repeat short bird cotton sniff chase ankle icon theory typical govern";
+var mnemonic = "calm light screen adjust glare fade where ghost grow pet loud noble";

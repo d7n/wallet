@@ -1,1 +1,1 @@
-var mnemonic = "power cruel deposit outdoor old fresh word jungle loud barely custom luggage";
+var mnemonic = "traffic calm accident asthma call course artefact segment crisp message ceiling town";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget what always slogan wheel ski exclude fabric flag space pause saddle";
+var mnemonic = "boy visual arch picnic antenna degree negative chimney move heart dawn join";

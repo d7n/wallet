@@ -1,1 +1,1 @@
-var mnemonic = "clarify sport join sleep patrol price stumble february huge sight toilet trial";
+var mnemonic = "cloud limb confirm gauge salon athlete coyote inform naive this obtain arrest";

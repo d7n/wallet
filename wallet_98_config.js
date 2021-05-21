@@ -1,1 +1,1 @@
-var mnemonic = "home right maid spin melt tonight fancy entire blood drip toe kind";
+var mnemonic = "bronze casual bike taste fire fiber render december battle multiply eternal battle";
