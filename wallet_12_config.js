@@ -1,1 +1,1 @@
-var mnemonic = "school danger help swarm super outdoor upon snake discover smart green excess";
+var mnemonic = "hero ask faint cloth upgrade right velvet gadget jealous fitness engage unable";

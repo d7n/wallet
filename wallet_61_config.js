@@ -1,1 +1,1 @@
-var mnemonic = "brand say current salmon rhythm credit ripple bean trend math label segment";
+var mnemonic = "dignity vacant depth until soda rotate call mango can render army garage";

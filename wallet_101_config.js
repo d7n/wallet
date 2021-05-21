@@ -1,1 +1,1 @@
-var mnemonic = "local security view venture bring horn tuna random era then ceiling depart";
+var mnemonic = "federal interest observe second reveal hover cushion steel unlock add antique pudding";

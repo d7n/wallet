@@ -1,1 +1,1 @@
-var mnemonic = "benefit ship trophy problem milk cancel track mention secret error guide phone";
+var mnemonic = "tackle chunk frequent elite shy farm guitar firm hawk inmate stairs discover";

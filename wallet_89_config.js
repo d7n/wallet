@@ -1,1 +1,1 @@
-var mnemonic = "verify trade tool tent wood candy public cool immune reunion jealous blush";
+var mnemonic = "camp usage observe exhibit shiver rocket angle two pulp venture mother usual";

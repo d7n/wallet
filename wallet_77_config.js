@@ -1,1 +1,1 @@
-var mnemonic = "domain federal banana team pause when tongue forget helmet sea add diesel";
+var mnemonic = "aware brand biology enhance permit else all olive wagon kiwi execute lion";

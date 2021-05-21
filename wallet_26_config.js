@@ -1,1 +1,1 @@
-var mnemonic = "game media frozen awful always egg prepare crew head worth opinion humor";
+var mnemonic = "human ridge lend betray trip market buffalo hour trust theme layer casino";

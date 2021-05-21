@@ -1,1 +1,1 @@
-var mnemonic = "exile traffic oak trick shoulder zero hungry solid youth gym order stuff";
+var mnemonic = "scorpion inner crystal belt desert settle adult blind thunder sketch sell coach";

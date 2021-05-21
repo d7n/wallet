@@ -1,1 +1,1 @@
-var mnemonic = "young lonely build burden lawsuit orbit quit replace check initial club sport";
+var mnemonic = "judge demise rocket punch grain genius drink moment correct blue arctic fantasy";

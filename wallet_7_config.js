@@ -1,1 +1,1 @@
-var mnemonic = "turkey idle position neutral owner grocery secret distance brief throw medal half";
+var mnemonic = "bag anxiety bar square liar disorder clever hurdle industry wrestle garlic above";

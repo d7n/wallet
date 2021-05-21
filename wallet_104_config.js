@@ -1,1 +1,1 @@
-var mnemonic = "pulse evil talent pitch pulp loyal hollow wife coil liberty certain topic";
+var mnemonic = "renew course uncover maple blade draw resource kiwi garage camp anchor among";

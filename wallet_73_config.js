@@ -1,1 +1,1 @@
-var mnemonic = "west wage team invest right another jacket motor dignity frog worth stomach";
+var mnemonic = "salt injury term exist typical rural addict crouch couch hedgehog episode gloom";

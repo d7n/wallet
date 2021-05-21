@@ -1,1 +1,1 @@
-var mnemonic = "property arrange mercy hungry order apology legend gather apology travel junk student";
+var mnemonic = "push guard frozen renew traffic unaware forum rabbit transfer secret half female";

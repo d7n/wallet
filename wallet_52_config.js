@@ -1,1 +1,1 @@
-var mnemonic = "wait figure people syrup prize bubble enact casino correct hobby brain proof";
+var mnemonic = "snack guard ivory car method suggest just basic orange brief talk web";

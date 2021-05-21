@@ -1,1 +1,1 @@
-var mnemonic = "gown slam rice random click image urban kind mercy small own flip";
+var mnemonic = "soldier island toss hire boost produce thank property skin beauty exist cash";

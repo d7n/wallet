@@ -1,1 +1,1 @@
-var mnemonic = "make wage fiber body milk lend hobby allow tent jacket carpet gloom";
+var mnemonic = "gym process network simple ignore pistol flame conduct invite coil spring gravity";

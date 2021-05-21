@@ -1,1 +1,1 @@
-var mnemonic = "oxygen extend crush elegant illegal journey sad tackle follow puzzle pistol elevator";
+var mnemonic = "rice resemble leaf affair cute supply quit coconut borrow guard title session";

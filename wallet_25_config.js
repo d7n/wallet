@@ -1,1 +1,1 @@
-var mnemonic = "foot equal gentle butter album kit steak bomb elevator cart strategy movie";
+var mnemonic = "certain reason parent harvest neck draft pear mule depart meadow furnace universe";

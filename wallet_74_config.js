@@ -1,1 +1,1 @@
-var mnemonic = "feed fever boat awake light travel find faith sheriff require flip fault";
+var mnemonic = "brown luxury gaze mercy drive merry fold math asthma census pioneer turkey";

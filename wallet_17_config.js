@@ -1,1 +1,1 @@
-var mnemonic = "power abuse phrase jaguar wedding strong hurry noodle during describe people start";
+var mnemonic = "kitchen wrong arrange feed practice tiger pilot cricket fresh luxury taste behind";

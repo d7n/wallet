@@ -1,1 +1,1 @@
-var mnemonic = "patient since task alpha pull brave turtle believe caution tail ketchup dad";
+var mnemonic = "picture sustain attract rocket mule service sun unique breeze blast vanish agent";

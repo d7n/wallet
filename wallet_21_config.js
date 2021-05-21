@@ -1,1 +1,1 @@
-var mnemonic = "material captain breeze crystal recipe element chunk demand bar fancy when phrase";
+var mnemonic = "please merit what orange neglect comfort multiply salmon rocket plunge foster else";

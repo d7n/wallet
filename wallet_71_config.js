@@ -1,1 +1,1 @@
-var mnemonic = "enhance phrase fossil foil mouse ivory prison timber ancient march apple measure";
+var mnemonic = "hockey february almost trouble life burst laundry fortune shield language beyond brisk";

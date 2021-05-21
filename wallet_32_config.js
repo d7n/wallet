@@ -1,1 +1,1 @@
-var mnemonic = "width inspire tragic either milk snap train grab proud vast note floor";
+var mnemonic = "trumpet guide never exotic flash fruit milk broccoli myself have search half";

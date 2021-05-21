@@ -1,1 +1,1 @@
-var mnemonic = "great swamp rug found shift ripple sport jump illegal pluck caution join";
+var mnemonic = "danger birth conduct consider pear sniff mom gossip neutral able affair sketch";

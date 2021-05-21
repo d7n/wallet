@@ -1,1 +1,1 @@
-var mnemonic = "army minimum remove toddler wrap talk axis eternal elevator bomb draft stereo";
+var mnemonic = "multiply public broccoli arrest brown student pitch grass boat climb turkey brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "track dune define machine bracket jungle force celery room abandon impact awful";
+var mnemonic = "ugly remain lady pluck now gate news daughter twelve brave gorilla state";

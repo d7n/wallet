@@ -1,1 +1,1 @@
-var mnemonic = "sheriff push shiver invest oyster drip require labor pony move habit tell";
+var mnemonic = "gun wine shield gorilla eye slow credit lens catalog grant purchase hard";

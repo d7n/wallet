@@ -1,1 +1,1 @@
-var mnemonic = "usage depart open hero donor indicate kitten attract lottery recycle absurd phone";
+var mnemonic = "torch armor soft clerk dice throw fever tower shield clock path coast";

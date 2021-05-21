@@ -1,1 +1,1 @@
-var mnemonic = "blouse update first pledge nerve skill wet popular suggest mosquito love corn";
+var mnemonic = "kite easily just despair favorite smoke recycle winner elbow notice cube pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "title artefact absent dawn point simple before then diamond vault gloom sauce";
+var mnemonic = "theory flush spatial critic step purpose city humor spring online prepare above";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel onion anger place spot feel circle foot general coconut advice often";
+var mnemonic = "cargo sight debris famous easy magic eyebrow pride glare blast loud drama";

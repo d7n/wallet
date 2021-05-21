@@ -1,1 +1,1 @@
-var mnemonic = "pioneer audit desk napkin question label sheriff stable burst opinion butter sun";
+var mnemonic = "mean divorce street type exclude session poverty cry mule wood plastic target";

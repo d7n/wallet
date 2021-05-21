@@ -1,1 +1,1 @@
-var mnemonic = "castle advice canyon planet habit online cycle expire roof arrange tongue grunt";
+var mnemonic = "filter bundle allow pond actual earn position six confirm produce hint glance";

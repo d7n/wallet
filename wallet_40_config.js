@@ -1,1 +1,1 @@
-var mnemonic = "news practice salt office alley use seminar phrase clap fetch talent depart";
+var mnemonic = "spread spend outside river world couch couple float nice brown file insect";

@@ -1,1 +1,1 @@
-var mnemonic = "want fiber curtain explain ignore edge ignore dinosaur tackle latin orbit laptop";
+var mnemonic = "blanket cricket trap furnace gossip trouble casual defense topic special lock pigeon";

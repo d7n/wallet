@@ -1,1 +1,1 @@
-var mnemonic = "combine pride range breeze cotton release travel lake arrow measure protect bronze";
+var mnemonic = "army chalk clip indoor appear dove medal test roast sadness brick doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "carry humble mountain advance lion matrix loud judge puppy six game remove";
+var mnemonic = "gloom risk that lizard uncover buyer arrive absorb fault walnut slush evolve";

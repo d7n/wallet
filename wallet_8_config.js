@@ -1,1 +1,1 @@
-var mnemonic = "letter abuse answer hammer harvest immune nature wire spy office true forget";
+var mnemonic = "jungle twenty mushroom year ensure three nut lunch visa nuclear immense milk";

@@ -1,1 +1,1 @@
-var mnemonic = "test vehicle grain rack verb luggage door calm copy sauce spell scare";
+var mnemonic = "prize bring thank clown text oak debate album merge almost view again";

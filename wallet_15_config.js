@@ -1,1 +1,1 @@
-var mnemonic = "leaf grit catalog across invest theory welcome inherit antenna opinion often pencil";
+var mnemonic = "version spoil hedgehog then cheap use adapt wave mask raccoon chest survey";

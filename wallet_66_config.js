@@ -1,1 +1,1 @@
-var mnemonic = "clutch winner fatal involve tide system million brain decrease about chicken stay";
+var mnemonic = "rice flag boring deal economy august excite iron flash symptom topic chat";

@@ -1,1 +1,1 @@
-var mnemonic = "library ribbon round disease rigid move door drama reward step dove payment";
+var mnemonic = "few mirror aunt initial faith tree step mandate soul glory increase boring";

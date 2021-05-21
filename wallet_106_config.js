@@ -1,1 +1,1 @@
-var mnemonic = "neither trumpet place pigeon payment version panda horn find fix unusual blanket";
+var mnemonic = "unusual pig fade faith source oil public stadium plunge source verb crack";

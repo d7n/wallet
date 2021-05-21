@@ -1,1 +1,1 @@
-var mnemonic = "federal sugar near snow animal sort mention actual inner topic cereal oyster";
+var mnemonic = "diamond cluster silk grain forward visit half ladder govern fresh business market";

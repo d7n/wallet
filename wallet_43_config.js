@@ -1,1 +1,1 @@
-var mnemonic = "control stool merit wing ugly example method mobile cannon oxygen vague shaft";
+var mnemonic = "awful extend jaguar banana dentist reward galaxy drama gas robot hybrid oblige";

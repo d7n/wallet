@@ -1,1 +1,1 @@
-var mnemonic = "vacuum orbit deputy inside memory absorb budget pride emotion habit damp craft";
+var mnemonic = "rival unit evil prize inspire dream recycle volcano scrap lunch spell zero";

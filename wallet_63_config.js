@@ -1,1 +1,1 @@
-var mnemonic = "alley wink that industry display crystal monkey dune inherit smooth always extend";
+var mnemonic = "wait puzzle chunk position mercy pill attitude one royal edit lobster iron";

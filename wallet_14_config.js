@@ -1,1 +1,1 @@
-var mnemonic = "steak side inhale target congress permit elder walk wise expose winner skull";
+var mnemonic = "clutch culture recall key blanket defense kind myth shallow sea congress section";

@@ -1,1 +1,1 @@
-var mnemonic = "artist village category verb oil test dismiss detect upgrade hill boil forward";
+var mnemonic = "hero consider hill zebra radio hour modify elbow staff bronze need piano";

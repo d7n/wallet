@@ -1,1 +1,1 @@
-var mnemonic = "outside crash unable demand edge uncover what mimic exotic snake find either";
+var mnemonic = "dwarf two success load wage task valve easily liberty monster place claim";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna erase young biology naive nasty liberty chase admit twist dutch relief";
+var mnemonic = "place aerobic quality phone hazard fun alcohol man what door hammer cluster";

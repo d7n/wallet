@@ -1,1 +1,1 @@
-var mnemonic = "nest run elder this cruel panda book vintage suit hat guess ski";
+var mnemonic = "social gain someone badge ritual differ shiver glass virus bitter sentence report";

@@ -1,1 +1,1 @@
-var mnemonic = "elite remind naive lawn toast banner tattoo always cabin grass oblige donate";
+var mnemonic = "candy dentist hat tenant chaos bridge slim deer club chuckle detail timber";

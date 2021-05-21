@@ -1,1 +1,1 @@
-var mnemonic = "father major cup screen elephant smile forest wagon shrimp protect arch gaze";
+var mnemonic = "imitate alarm crumble real mango clay shed wild paper invest real estate";

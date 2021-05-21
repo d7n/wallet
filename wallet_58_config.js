@@ -1,1 +1,1 @@
-var mnemonic = "flush option strike knife gate oval neglect devote injury news shove shoe";
+var mnemonic = "pet false weather large garbage appear upgrade toss clever syrup slice blood";

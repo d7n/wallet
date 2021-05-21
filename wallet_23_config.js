@@ -1,1 +1,1 @@
-var mnemonic = "mule craft enforce all proud canoe portion please palm rug slight depart";
+var mnemonic = "nuclear borrow law print usual proud boat onion world blossom hundred process";

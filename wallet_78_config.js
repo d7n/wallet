@@ -1,1 +1,1 @@
-var mnemonic = "fiscal enable six slide benefit melt wild immense drastic spray wrestle marble";
+var mnemonic = "stadium fire chef barely rent smoke labor caught cupboard vacant crouch roof";

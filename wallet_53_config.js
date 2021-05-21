@@ -1,1 +1,1 @@
-var mnemonic = "drive strong desert fish furnace believe arm chief vapor churn bread trust";
+var mnemonic = "chaos quit genius stone unit knee raise whisper hen wear mind attack";

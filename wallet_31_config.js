@@ -1,1 +1,1 @@
-var mnemonic = "absurd much shell pear interest trade invite unaware race expand boss summer";
+var mnemonic = "stadium split sound negative feed okay inflict acoustic gloom bus theory purse";

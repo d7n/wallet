@@ -1,1 +1,1 @@
-var mnemonic = "chaos license tornado exotic swap radar safe wing awake success lend museum";
+var mnemonic = "reflect reward similar fix thought into antique taxi region legal notable kiwi";

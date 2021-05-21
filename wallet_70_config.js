@@ -1,1 +1,1 @@
-var mnemonic = "carpet air salute ivory fever kid final finish egg solve desk alcohol";
+var mnemonic = "wish antenna abandon gasp device million response sunset dice spend auto blur";

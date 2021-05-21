@@ -1,1 +1,1 @@
-var mnemonic = "hundred gun dose romance maple various beauty hole stamp reform live twelve";
+var mnemonic = "deliver wisdom obtain spray forest negative verify beach invite rose bitter neglect";

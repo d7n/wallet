@@ -1,1 +1,1 @@
-var mnemonic = "nation abuse talk amount work hold era rice asthma pet soccer gym";
+var mnemonic = "stuff air rebuild insane grunt sting task identify snack mandate erupt general";

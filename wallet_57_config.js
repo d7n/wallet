@@ -1,1 +1,1 @@
-var mnemonic = "enable banana fiscal hobby ecology laptop tower globe mix park treat bunker";
+var mnemonic = "hollow dad cool april route comfort know record garbage double vibrant claw";

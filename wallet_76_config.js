@@ -1,1 +1,1 @@
-var mnemonic = "column spy art seed label dizzy marriage fringe fever core breeze mother";
+var mnemonic = "amount solution wool style gentle garbage guitar across tortoise kiwi soft cousin";

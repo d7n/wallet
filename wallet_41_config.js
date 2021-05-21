@@ -1,1 +1,1 @@
-var mnemonic = "panic annual rebel type deer negative achieve cotton industry direct party lend";
+var mnemonic = "super kidney help door over pear smoke leg blind similar pluck uniform";

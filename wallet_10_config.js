@@ -1,1 +1,1 @@
-var mnemonic = "unique little pair trend measure suffer reopen pool rebel foam idle double";
+var mnemonic = "guess kind gown census resist enjoy move banana all promote lazy defense";

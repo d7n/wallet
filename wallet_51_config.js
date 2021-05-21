@@ -1,1 +1,1 @@
-var mnemonic = "hurry crisp romance trim empty extend burden spot right excess dignity more";
+var mnemonic = "resist glad about dune crystal dynamic license leave enter juice potato crash";

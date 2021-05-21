@@ -1,1 +1,1 @@
-var mnemonic = "frown sure wait shoulder fresh banana hotel help stand fit merit try";
+var mnemonic = "august stool weapon scissors catch mirror review unique pink trust joy scissors";

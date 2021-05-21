@@ -1,1 +1,1 @@
-var mnemonic = "sun rough pole rule doll hungry expect equal found upper acoustic joy";
+var mnemonic = "blood visual night pottery dawn rotate wall liquid stomach public wall satisfy";

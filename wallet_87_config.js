@@ -1,1 +1,1 @@
-var mnemonic = "manual flash pelican fold tray evidence cheese leave path police tail derive";
+var mnemonic = "practice vacuum work learn raw exchange aim duty fabric actor thank state";

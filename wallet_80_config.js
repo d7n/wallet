@@ -1,1 +1,1 @@
-var mnemonic = "busy kind journey victory vague genius push water kind reward daughter bar";
+var mnemonic = "turkey clay start gain jar treat practice solar crunch evil nurse army";

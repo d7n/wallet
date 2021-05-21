@@ -1,1 +1,1 @@
-var mnemonic = "ketchup desk staff spread sadness door skull orphan lunar opinion brown alpha";
+var mnemonic = "maple approve sight crush mushroom north glad west reward spirit baby olympic";

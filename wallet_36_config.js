@@ -1,1 +1,1 @@
-var mnemonic = "proof inject flower around access kick round hybrid oppose eternal language episode";
+var mnemonic = "smart brave rally youth draft civil skate thought night bundle cram depend";

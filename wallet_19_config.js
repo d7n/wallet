@@ -1,1 +1,1 @@
-var mnemonic = "betray during grief fire two honey alpha square elder category salmon area";
+var mnemonic = "energy position want jealous knock armor make hub crucial rate middle tide";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen burden oven raven behave upset virus popular spawn ice tissue isolate";
+var mnemonic = "sand reward dance motor nothing bulb witness clip finish napkin own pear";

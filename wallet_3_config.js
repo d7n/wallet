@@ -1,1 +1,1 @@
-var mnemonic = "must blue leopard layer glass episode tank denial expect garden habit palm";
+var mnemonic = "boil aisle frog original practice hundred library people dice hat near alien";

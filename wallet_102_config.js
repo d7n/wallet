@@ -1,1 +1,1 @@
-var mnemonic = "duck sugar scout panda frozen home rich pride october bid taxi champion";
+var mnemonic = "swing tumble length other proud dial bring depart cherry curtain weather confirm";

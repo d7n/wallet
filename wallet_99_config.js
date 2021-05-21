@@ -1,1 +1,1 @@
-var mnemonic = "diagram surface wall mountain denial inquiry useless better useful outside coach under";
+var mnemonic = "mesh story image coach injury cigar dress practice fade snake pottery dad";

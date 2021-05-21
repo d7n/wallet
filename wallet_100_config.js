@@ -1,1 +1,1 @@
-var mnemonic = "rack sorry humor drama sunset enroll major supreme wash crack run mind";
+var mnemonic = "valve involve census convince afraid raise snap glide caution correct island ahead";

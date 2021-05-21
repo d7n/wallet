@@ -1,1 +1,1 @@
-var mnemonic = "scene debris wedding fox now loud quality around economy cave oblige wisdom";
+var mnemonic = "knife alert youth noodle area general return flame admit robot park mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder mercy embody ceiling senior soccer bus visual hybrid fitness flight correct";
+var mnemonic = "test again toast oyster senior gentle type auto carpet spend fetch grit";

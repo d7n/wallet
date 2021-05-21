@@ -1,1 +1,1 @@
-var mnemonic = "cattle ski post balance true pen blood sentence envelope picture elbow ladder";
+var mnemonic = "crash expand phone harvest elbow learn august sure wreck smooth salt smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "base output tomato foster luxury afraid own hour cradle snake wing grant";
+var mnemonic = "foot heavy utility piano sound alarm hybrid lava sausage else gauge energy";

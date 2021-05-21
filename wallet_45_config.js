@@ -1,1 +1,1 @@
-var mnemonic = "speak shallow steel owner young real tourist glue scatter crime hood reunion";
+var mnemonic = "cram refuse glare rent elite mosquito focus furnace private pen sort also";

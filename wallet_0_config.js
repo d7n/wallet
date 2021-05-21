@@ -1,1 +1,1 @@
-var mnemonic = "judge great throw also turkey runway language mesh income panic orchard budget";
+var mnemonic = "rude better tiger actual mistake disorder million domain result nuclear fault exit";

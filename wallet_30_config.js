@@ -1,1 +1,1 @@
-var mnemonic = "retire smile margin immune cereal inquiry mistake second barely obtain state buffalo";
+var mnemonic = "issue hobby good seminar energy fitness clinic second twice obvious wage oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "diet until explain lion nose crime bench ankle pledge length describe small";
+var mnemonic = "place stumble nephew chicken dad typical fuel list edge sustain express draft";

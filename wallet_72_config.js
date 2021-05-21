@@ -1,1 +1,1 @@
-var mnemonic = "zone battle endorse entire wild hello gossip duck luggage list type learn";
+var mnemonic = "weapon speak gossip ritual allow flag broccoli awesome card circle unlock isolate";

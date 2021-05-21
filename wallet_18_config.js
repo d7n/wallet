@@ -1,1 +1,1 @@
-var mnemonic = "symbol truly brisk prepare novel salon guilt amazing accuse toast inhale phrase";
+var mnemonic = "tube ask busy dynamic brisk food harbor feel middle sibling onion input";

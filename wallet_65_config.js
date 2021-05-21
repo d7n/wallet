@@ -1,1 +1,1 @@
-var mnemonic = "fragile narrow salt describe exist logic pave private shaft deal mushroom left";
+var mnemonic = "predict piece ankle veteran umbrella illness behave mountain latin hard soft butter";
