@@ -1,1 +1,1 @@
-var mnemonic = "void pole parent prefer consider post oval future rebuild february until guitar";
+var mnemonic = "swamp enroll narrow practice pledge abuse trigger wise casino rice vote energy";

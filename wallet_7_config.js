@@ -1,1 +1,1 @@
-var mnemonic = "city profit uncover cement pistol bomb fly defense shine fold use myself";
+var mnemonic = "pizza decline quit stage lend mercy claw harsh sadness blade cycle style";

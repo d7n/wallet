@@ -1,1 +1,1 @@
-var mnemonic = "balance devote inject goddess lecture tuna skirt blossom zero cross style banner";
+var mnemonic = "come rate pear muscle into miracle forest script cat guitar bamboo coin";

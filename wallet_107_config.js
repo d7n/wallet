@@ -1,1 +1,1 @@
-var mnemonic = "actor render link system moment harsh win time pelican robot leader velvet";
+var mnemonic = "ticket vendor response nuclear dice clap similar quality seek drift nest valve";

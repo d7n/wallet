@@ -1,1 +1,1 @@
-var mnemonic = "head gentle music sock attend wreck festival neither wheel what bike bracket";
+var mnemonic = "agree wife joke elder kitchen loud slice double stick drift crane beauty";

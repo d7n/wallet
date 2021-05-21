@@ -1,1 +1,1 @@
-var mnemonic = "copy depend screen dwarf barrel ribbon coast blush hedgehog grant renew wrestle";
+var mnemonic = "width kiss roast stem sign retire aware bacon slab fog please banana";

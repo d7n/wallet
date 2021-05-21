@@ -1,1 +1,1 @@
-var mnemonic = "egg warrior guide coin south knife begin face mimic pioneer sugar west";
+var mnemonic = "smart anxiety cash tomorrow leisure ugly someone renew shallow scare drift cram";

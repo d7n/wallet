@@ -1,1 +1,1 @@
-var mnemonic = "document coffee ahead promote elevator address lesson maximum kidney one hobby subway";
+var mnemonic = "tuna emerge finish famous cluster month draft avocado never proud lawn bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom brother grid danger nut apart magic little keen arena honey scheme";
+var mnemonic = "way check road royal school happy minor fame balcony diesel punch foam";

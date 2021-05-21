@@ -1,1 +1,1 @@
-var mnemonic = "option like space air kit ten force blouse profit slice vital off";
+var mnemonic = "trial evidence jealous walk crystal math auto spoon stereo index win hand";

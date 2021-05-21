@@ -1,1 +1,1 @@
-var mnemonic = "cherry material rack grid green blanket prevent differ cheap swim senior swim";
+var mnemonic = "kid warrior seek truth have affair earth firm enforce eternal pill narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "dice almost mystery dove hour drop ocean claw chair hill suspect asthma";
+var mnemonic = "dose thing such clay blush ketchup clog hill bitter spider local scan";

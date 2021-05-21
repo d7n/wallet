@@ -1,1 +1,1 @@
-var mnemonic = "purpose jaguar eagle maple arena thrive initial lobster eyebrow impulse addict purse";
+var mnemonic = "paddle lion faculty sail snack robot slab absent climb scissors sugar afraid";

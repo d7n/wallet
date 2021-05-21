@@ -1,1 +1,1 @@
-var mnemonic = "belt card spring chaos ostrich fence choose anchor slide fine upper raise";
+var mnemonic = "pudding amateur poem convince journey first cable fantasy sustain feel small elite";

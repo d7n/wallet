@@ -1,1 +1,1 @@
-var mnemonic = "erupt giggle eagle coffee organ forest regret crop coffee uncle panther speed";
+var mnemonic = "buzz juice isolate deliver pretty similar slight around crime rifle feel pole";

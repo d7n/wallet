@@ -1,1 +1,1 @@
-var mnemonic = "monkey source fragile pass strategy neck fiber family pear lava legend pitch";
+var mnemonic = "arrange call notice lottery kangaroo fire brother follow renew negative honey cattle";

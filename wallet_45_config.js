@@ -1,1 +1,1 @@
-var mnemonic = "zoo outdoor alter material cry mistake parade pen memory toddler suit purchase";
+var mnemonic = "soft tobacco banner mosquito there together galaxy board quit hurry open first";

@@ -1,1 +1,1 @@
-var mnemonic = "enact master phrase stuff bracket diamond reveal jazz gain tomato spike slice";
+var mnemonic = "parrot rain fiber grid ankle toward siren mechanic alter parade luggage album";

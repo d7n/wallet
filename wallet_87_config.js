@@ -1,1 +1,1 @@
-var mnemonic = "fold image rocket peace truly tobacco scene pumpkin rescue vehicle core dynamic";
+var mnemonic = "burst thing scout ship airport mail certain cart memory deer viable boil";

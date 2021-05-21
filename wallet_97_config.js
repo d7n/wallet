@@ -1,1 +1,1 @@
-var mnemonic = "catch lunch father quote dream sibling ten logic again crowd sad host";
+var mnemonic = "side loud license anxiety leopard black attitude enhance woman buddy always width";

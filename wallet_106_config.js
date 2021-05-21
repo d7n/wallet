@@ -1,1 +1,1 @@
-var mnemonic = "boy must remember glow ask spoon smart sponsor regular organ vital weather";
+var mnemonic = "gospel paper expire claw lumber flat gasp glance settle advice lesson stadium";

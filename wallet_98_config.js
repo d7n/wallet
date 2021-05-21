@@ -1,1 +1,1 @@
-var mnemonic = "midnight cupboard dinosaur call property live shoulder fortune false indoor make combine";
+var mnemonic = "budget science tunnel ramp crystal bonus mix napkin fee pair guitar innocent";

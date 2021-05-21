@@ -1,1 +1,1 @@
-var mnemonic = "banana filter left lecture witness initial one winner draft yard second coffee";
+var mnemonic = "chat risk honey castle pudding cradle much valley hat regret avoid walk";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal ethics confirm industry target great logic original mushroom knock eye worry";
+var mnemonic = "exercise sponsor brother defense exile marriage view unhappy plug mango program spoil";

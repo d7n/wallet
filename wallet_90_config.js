@@ -1,1 +1,1 @@
-var mnemonic = "misery capable garment under soft oval flight clock awkward cloth flame old";
+var mnemonic = "butter glory early apology cabin fabric average plate carry because million unusual";

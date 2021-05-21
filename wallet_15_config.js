@@ -1,1 +1,1 @@
-var mnemonic = "surge shiver cement web pill such glance letter apple high grab secret";
+var mnemonic = "moon small burger ripple robot load amazing jelly various robot crunch steak";

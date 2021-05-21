@@ -1,1 +1,1 @@
-var mnemonic = "trap vague apple home winter guide achieve off quit knee manual dirt";
+var mnemonic = "more barely act swallow hollow purity between bench order trim employ fatigue";

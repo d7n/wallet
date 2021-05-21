@@ -1,1 +1,1 @@
-var mnemonic = "pet resource blind aspect under before shiver caught double ankle festival media";
+var mnemonic = "click carpet match protect obtain bright cherry such climb water female autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "timber shed degree electric easily goddess canoe chest shallow artwork barrel relief";
+var mnemonic = "picnic train shield furnace kind energy balcony skirt sample wide slab fatal";

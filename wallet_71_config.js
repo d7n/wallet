@@ -1,1 +1,1 @@
-var mnemonic = "ring regret scene strategy cruise cube minor order catalog tourist stumble charge";
+var mnemonic = "disagree apart hand pig million man sword voyage payment spin tape embody";

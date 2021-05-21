@@ -1,1 +1,1 @@
-var mnemonic = "goat gym wool debris avocado harvest song muffin assault quit doll dirt";
+var mnemonic = "help panel transfer giraffe space erode act found slow feed young village";

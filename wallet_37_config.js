@@ -1,1 +1,1 @@
-var mnemonic = "mail gallery ancient accident coil one sting pitch always hard review license";
+var mnemonic = "move lawsuit exclude budget skirt kiwi rather season logic lamp ladder suit";

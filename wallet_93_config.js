@@ -1,1 +1,1 @@
-var mnemonic = "trap rule filter rude bread chimney praise trash school suspect wisdom diet";
+var mnemonic = "obey grace hazard dress first load evolve shrug tunnel milk pull fragile";

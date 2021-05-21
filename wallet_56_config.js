@@ -1,1 +1,1 @@
-var mnemonic = "odor used pencil tunnel jeans riot rookie away govern mouse find normal";
+var mnemonic = "merge merry delay polar weapon spare enhance mystery state garment vivid parent";

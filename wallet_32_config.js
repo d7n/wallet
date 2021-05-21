@@ -1,1 +1,1 @@
-var mnemonic = "tell hello option garlic scare clutch vicious favorite worry flame tell boring";
+var mnemonic = "equip castle submit canvas portion gather glue focus deliver range toast capable";

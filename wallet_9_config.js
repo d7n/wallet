@@ -1,1 +1,1 @@
-var mnemonic = "grape page jeans rare siren differ wife wasp shallow among view bubble";
+var mnemonic = "end barrel symptom unknown foam nerve utility tunnel rubber build shock strong";

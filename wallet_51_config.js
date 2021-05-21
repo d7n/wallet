@@ -1,1 +1,1 @@
-var mnemonic = "unit offer laugh best energy solution jar grit swim sphere same require";
+var mnemonic = "wheel garbage slab diary pulp diagram enough topple busy charge negative squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "coast clock mule key recycle art extend injury stumble type rhythm tattoo";
+var mnemonic = "reform advice favorite oak expire list holiday surprise then wash soup opinion";

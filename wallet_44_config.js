@@ -1,1 +1,1 @@
-var mnemonic = "firm short tribe cousin loan age valve sudden prosper manage mosquito grass";
+var mnemonic = "dress topic pride chat scrap gold unable movie spare beyond cart lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "episode evolve gloom ritual drastic appear throw wish actual jar genre sort";
+var mnemonic = "film slide rent sister raw pelican rich victory chapter banana biology remain";

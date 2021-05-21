@@ -1,1 +1,1 @@
-var mnemonic = "grocery regular buyer enrich sell toy belt allow dumb arctic design master";
+var mnemonic = "turtle crazy hint athlete ignore pipe design enhance blush salmon rely van";

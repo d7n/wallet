@@ -1,1 +1,1 @@
-var mnemonic = "submit coral hedgehog awful south maze sketch milk day topple other gadget";
+var mnemonic = "ability athlete economy ill festival genre slight mean oil insane buffalo sock";

@@ -1,1 +1,1 @@
-var mnemonic = "similar rather junk script universe deputy poem stand approve nerve mask toy";
+var mnemonic = "marriage husband please width party sand wool fun sausage frown outer trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "annual twice female solar sadness goddess clay lawn jewel fish update drama";
+var mnemonic = "admit aerobic pool rapid company relax code dose broken ice rail trust";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent purpose legend strong fun solution bless tiny baby injury journey keep";
+var mnemonic = "miss drama exact argue patrol taxi bullet coast abuse mesh alarm outer";

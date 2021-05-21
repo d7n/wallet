@@ -1,1 +1,1 @@
-var mnemonic = "like slow rapid leg olive century wing depend legend bitter dismiss wheat";
+var mnemonic = "large dilemma ready cheese lawsuit blur slight stamp chaos twin mystery hero";

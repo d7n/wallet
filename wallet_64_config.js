@@ -1,1 +1,1 @@
-var mnemonic = "alter easily opinion license front anchor loyal accident kiwi lottery minimum spring";
+var mnemonic = "dilemma member round jungle core ask cup inch first three ready primary";

@@ -1,1 +1,1 @@
-var mnemonic = "blush index budget future sugar type tool region alcohol assault tissue burst";
+var mnemonic = "head border inside source solve file peasant sadness tooth connect vibrant safe";

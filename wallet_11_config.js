@@ -1,1 +1,1 @@
-var mnemonic = "trouble humor cliff donate hawk dish hamster fatal hurry awesome alien sunny";
+var mnemonic = "infant snake client race method veteran output famous spread rude pair dumb";

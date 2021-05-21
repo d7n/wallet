@@ -1,1 +1,1 @@
-var mnemonic = "raise teach between cattle place nose become bulk stem worth make measure";
+var mnemonic = "juice moral neck leave doctor gaze source rival husband quarter matter arctic";

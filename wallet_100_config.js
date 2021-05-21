@@ -1,1 +1,1 @@
-var mnemonic = "federal wheel pair adjust divorce entire kitchen motor merge pistol blind fringe";
+var mnemonic = "chef anchor mystery blur muscle all you tilt thunder task stage purity";

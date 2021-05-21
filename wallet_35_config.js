@@ -1,1 +1,1 @@
-var mnemonic = "napkin vendor upgrade cement wall certain tourist river kitchen horror forget click";
+var mnemonic = "idea muscle boss sign sweet music brand remain wine income lift bounce";

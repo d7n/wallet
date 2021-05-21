@@ -1,1 +1,1 @@
-var mnemonic = "weasel nation tissue vague enter audit agree coffee dragon wrestle erupt injury";
+var mnemonic = "frown shift mesh uncover discover obscure travel swim latin because will screen";

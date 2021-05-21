@@ -1,1 +1,1 @@
-var mnemonic = "trim zebra usual level bone danger equal surprise ocean welcome soap grace";
+var mnemonic = "mimic right uncover cage stuff convince sound skill holiday fortune outdoor hat";

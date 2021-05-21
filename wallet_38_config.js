@@ -1,1 +1,1 @@
-var mnemonic = "convince chef paddle valve labor glide among tooth net praise possible arrest";
+var mnemonic = "awesome motor drop olive spend trial few hammer gap awful device they";

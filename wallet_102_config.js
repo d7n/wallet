@@ -1,1 +1,1 @@
-var mnemonic = "snake fall outdoor coach list garden debris protect gadget bone conduct brand";
+var mnemonic = "space disagree situate urge culture joke heavy life foot nest soul vault";

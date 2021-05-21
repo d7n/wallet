@@ -1,1 +1,1 @@
-var mnemonic = "worth spare protect fish name proud kick essence shed panther table boy";
+var mnemonic = "someone play arrest pelican blouse chuckle repair equip present stomach elder panda";

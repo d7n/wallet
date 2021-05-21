@@ -1,1 +1,1 @@
-var mnemonic = "style song lottery birth spike rubber winter candy economy guitar coach moment";
+var mnemonic = "rare trash deal rotate such road puppy cliff dynamic oak father clay";

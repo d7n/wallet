@@ -1,1 +1,1 @@
-var mnemonic = "hungry enemy obscure essence demand harbor code modify sell grocery slam finger";
+var mnemonic = "ice empty taste betray bleak jump ship awful topple wine quarter honey";

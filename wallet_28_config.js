@@ -1,1 +1,1 @@
-var mnemonic = "radar bronze track size bomb worth teach note ketchup soft flight uncover";
+var mnemonic = "fancy banner junior bargain casual prison liquid dizzy move above brown usage";

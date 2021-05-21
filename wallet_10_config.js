@@ -1,1 +1,1 @@
-var mnemonic = "advice frame bundle grief neutral float denial crop muffin gun toilet leopard";
+var mnemonic = "draft provide panic attract drill present yard grant close alley exile slab";

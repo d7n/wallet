@@ -1,1 +1,1 @@
-var mnemonic = "link throw dress olympic embrace express below rabbit dose ride arctic coffee";
+var mnemonic = "remove screen ozone picnic need blue come cheese swift garlic circle risk";

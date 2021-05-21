@@ -1,1 +1,1 @@
-var mnemonic = "puzzle much split stick glimpse sunset galaxy lawsuit earth found teach video";
+var mnemonic = "vibrant wheel open impact crop royal youth wood frame require bounce plunge";

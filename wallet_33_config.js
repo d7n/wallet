@@ -1,1 +1,1 @@
-var mnemonic = "universe device arena law fence victory run pink cart relax legend tray";
+var mnemonic = "attack evoke nominee mail earn raccoon love upper weather plug pluck unlock";

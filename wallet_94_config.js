@@ -1,1 +1,1 @@
-var mnemonic = "bind undo people debris deal detect step stairs day purse between barely";
+var mnemonic = "always glad fee tower shrug size rapid shine project empty judge apple";

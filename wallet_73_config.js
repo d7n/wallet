@@ -1,1 +1,1 @@
-var mnemonic = "left mutual gospel romance scout hurdle snack alert casual taste annual dial";
+var mnemonic = "soldier topic sad own labor unusual van diet shell panel blouse endorse";

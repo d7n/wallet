@@ -1,1 +1,1 @@
-var mnemonic = "dizzy flip property orange physical spawn purpose stone grass fire shop pottery";
+var mnemonic = "simple often say antenna cluster grass slab glow obvious rough this detail";

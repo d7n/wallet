@@ -1,1 +1,1 @@
-var mnemonic = "leg toast ship total interest pear fit elephant glide print hill man";
+var mnemonic = "math raccoon angle drop magnet army violin behind half network conduct road";

@@ -1,1 +1,1 @@
-var mnemonic = "focus fever thought solve mother sand letter loan loyal absent churn canoe";
+var mnemonic = "width vacant husband endorse summer twenty toe steak clap neglect panda profit";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium tag spare bridge swap congress coyote service cradle work vendor whale";
+var mnemonic = "trumpet seven garment rescue come pill marine room inside page romance unveil";

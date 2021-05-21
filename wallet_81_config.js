@@ -1,1 +1,1 @@
-var mnemonic = "lava phone trip pony shuffle explain smoke swamp north fox ancient cycle";
+var mnemonic = "pink extend burger innocent valley tide drive can mercy tobacco metal train";

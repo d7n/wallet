@@ -1,1 +1,1 @@
-var mnemonic = "view gentle army syrup eager enable tomorrow siren say suffer circle already";
+var mnemonic = "flock marine shadow satisfy alert away remember invest inhale jeans illegal economy";

@@ -1,1 +1,1 @@
-var mnemonic = "crater island purpose biology auto party number hotel uniform employ problem few";
+var mnemonic = "dilemma service whale two drive mother patrol goose fashion behind knee spend";

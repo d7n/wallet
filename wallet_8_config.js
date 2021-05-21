@@ -1,1 +1,1 @@
-var mnemonic = "carbon milk decide task drive must chicken topple girl click decline uphold";
+var mnemonic = "soccer scene sing cereal expect roof icon true army axis piece praise";

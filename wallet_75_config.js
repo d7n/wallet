@@ -1,1 +1,1 @@
-var mnemonic = "cherry photo butter chef shadow craft gossip sausage together nephew inform volcano";
+var mnemonic = "breeze reduce deposit expand expose ugly door original border forest demise usual";

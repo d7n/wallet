@@ -1,1 +1,1 @@
-var mnemonic = "tuition captain muffin review stove lava athlete napkin smile cinnamon toy spice";
+var mnemonic = "certain crowd raw ghost amazing tail timber negative shop reform shell infant";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut shy elephant mansion exclude gold symptom flee hand transfer local fabric";
+var mnemonic = "outer pass lawn parade energy choice kiwi grab offer curtain purse venue";

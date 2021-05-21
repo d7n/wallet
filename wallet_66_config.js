@@ -1,1 +1,1 @@
-var mnemonic = "educate lizard panda sand shove dish lab cancel describe rapid rib ceiling";
+var mnemonic = "length duty vehicle result ceiling above month cousin cable decrease cancel ten";

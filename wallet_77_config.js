@@ -1,1 +1,1 @@
-var mnemonic = "unit permit nerve false tennis neither siege craft top stool recipe manual";
+var mnemonic = "puppy mercy source soul dumb nasty dream when token chaos midnight grant";

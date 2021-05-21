@@ -1,1 +1,1 @@
-var mnemonic = "maze wife vapor cement sorry hat foster loyal lecture dismiss camera order";
+var mnemonic = "alarm pond century loud huge crowd increase task razor flee chimney awake";

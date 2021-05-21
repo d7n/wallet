@@ -1,1 +1,1 @@
-var mnemonic = "rocket trouble similar sauce response march plug twist curtain penalty arrest type";
+var mnemonic = "topic deputy cruel base proud much include fruit input cactus faint siren";

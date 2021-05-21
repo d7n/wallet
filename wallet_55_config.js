@@ -1,1 +1,1 @@
-var mnemonic = "come since globe office odor asset oxygen attract leisure fetch trust crowd";
+var mnemonic = "baby detect isolate sad staff approve festival elephant volcano venue alley copper";

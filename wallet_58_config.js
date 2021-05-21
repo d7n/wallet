@@ -1,1 +1,1 @@
-var mnemonic = "mad bird case drip dynamic illegal process soft tip carpet oil grass";
+var mnemonic = "vault beef runway argue moment earth fatigue clock exotic empty rude heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "weather endless decrease vapor fold family bachelor retire style wire galaxy waste";
+var mnemonic = "forum spell wage nose globe wheat rail item utility depth wisdom enter";

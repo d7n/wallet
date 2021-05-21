@@ -1,1 +1,1 @@
-var mnemonic = "settle assault silver among tuition usage media kidney author visual car legend";
+var mnemonic = "super final fuel nest olympic wage record invest gossip level runway shaft";

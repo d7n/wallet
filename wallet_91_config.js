@@ -1,1 +1,1 @@
-var mnemonic = "ritual matrix soap dragon chimney clip paddle food sick sausage wrong shed";
+var mnemonic = "they expire armed evil squirrel butter traffic disagree arctic museum opera section";

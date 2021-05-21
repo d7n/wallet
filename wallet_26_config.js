@@ -1,1 +1,1 @@
-var mnemonic = "scheme sample walnut obey permit note filter ginger eager thought clarify foil";
+var mnemonic = "amused code young narrow frame quantum call service hood employ federal banner";

@@ -1,1 +1,1 @@
-var mnemonic = "churn seek oval pioneer shield trap spice hip reform dismiss decade basket";
+var mnemonic = "kingdom shaft planet tunnel robust roof dolphin pact year army abstract private";
