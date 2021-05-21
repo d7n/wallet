@@ -1,1 +1,1 @@
-var mnemonic = "stumble under ridge hand system often arrow believe poet build bridge panda";
+var mnemonic = "cabbage remind leave round old want inner sort skull border artist soul";

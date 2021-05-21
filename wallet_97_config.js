@@ -1,1 +1,1 @@
-var mnemonic = "dad cage vapor tool disorder elevator merit innocent system summer mass dynamic";
+var mnemonic = "vote curve payment cabin country wet window goose glory dizzy cannon curve";

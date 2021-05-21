@@ -1,1 +1,1 @@
-var mnemonic = "blame rule frog audit age dad bring govern click opera arch vapor";
+var mnemonic = "behind theory enact easy weird warfare absurd forward few bulb smoke bounce";

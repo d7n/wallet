@@ -1,1 +1,1 @@
-var mnemonic = "unaware stumble pair net mechanic tornado wool once detect arch climb lab";
+var mnemonic = "token brother wisdom trap exile drama belt sad guess clock trim style";

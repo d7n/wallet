@@ -1,1 +1,1 @@
-var mnemonic = "bottom target yellow couch noise arrest unlock act flower return plastic destroy";
+var mnemonic = "damp vapor stool fog man young vapor solution hill wonder clinic grab";

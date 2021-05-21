@@ -1,1 +1,1 @@
-var mnemonic = "gauge simple fiction erase sign bag science garbage decorate into love seat";
+var mnemonic = "card effort amazing file this garage north setup hybrid noodle win vapor";

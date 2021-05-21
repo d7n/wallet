@@ -1,1 +1,1 @@
-var mnemonic = "frost orange gesture food achieve someone echo ranch display combine can blur";
+var mnemonic = "inform agree person rail volcano polar innocent inhale day fragile common dune";

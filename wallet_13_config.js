@@ -1,1 +1,1 @@
-var mnemonic = "connect sock silk caution perfect lizard text spice phrase soap taxi dumb";
+var mnemonic = "genuine deliver soon couple forget clarify spider harsh then stable subject tobacco";

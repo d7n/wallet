@@ -1,1 +1,1 @@
-var mnemonic = "federal fiction gravity clump bounce conduct napkin job lend title royal walk";
+var mnemonic = "bulk dutch sea apple amazing delay rail ketchup mom shift nominee situate";

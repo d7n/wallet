@@ -1,1 +1,1 @@
-var mnemonic = "truth trick dune ready relief engage recall oyster aware lend satoshi canal";
+var mnemonic = "border myself wash such cook quick empty report bracket kid actor finish";

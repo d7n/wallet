@@ -1,1 +1,1 @@
-var mnemonic = "dust ignore sniff hip lawsuit solve bomb sock dutch wool scare shoot";
+var mnemonic = "culture invest evil proud board member fury there indoor twist illness radar";

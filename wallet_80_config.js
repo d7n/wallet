@@ -1,1 +1,1 @@
-var mnemonic = "taste pair jelly anchor boat brick comic diet mean stable picture harvest";
+var mnemonic = "faint cable output inherit energy acquire chat mobile shiver nose mixed laptop";

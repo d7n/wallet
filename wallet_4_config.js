@@ -1,1 +1,1 @@
-var mnemonic = "siege arctic explain damp satoshi name radio purpose blind divert present basket";
+var mnemonic = "soap draft unique rural jelly gloom laugh donkey drill beach alcohol great";

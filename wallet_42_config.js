@@ -1,1 +1,1 @@
-var mnemonic = "dilemma false sand movie uniform alcohol poet range nephew armed earth erase";
+var mnemonic = "wool athlete actual wait ribbon float grab organ nature filter retire secret";

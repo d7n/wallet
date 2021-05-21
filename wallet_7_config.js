@@ -1,1 +1,1 @@
-var mnemonic = "answer ladder sheriff moment february magic praise inflict bomb logic lens surprise";
+var mnemonic = "pond material fat miss annual depart biology venue float dust fork mom";

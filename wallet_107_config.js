@@ -1,1 +1,1 @@
-var mnemonic = "cat law camp solution zoo embrace label mixture before uphold magnet version";
+var mnemonic = "prison hybrid nurse feed flip school march under auction gorilla trial quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "spray habit govern bacon cushion network clog earth hero gap square caution";
+var mnemonic = "loop soul regret able company actual junk pig elite outside rack warm";

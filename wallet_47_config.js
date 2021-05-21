@@ -1,1 +1,1 @@
-var mnemonic = "unit antenna ice slight evidence tongue audit lunar climb hour rapid crime";
+var mnemonic = "leave book plunge ready clown wing stumble empty hat undo swallow era";

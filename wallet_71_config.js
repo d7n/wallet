@@ -1,1 +1,1 @@
-var mnemonic = "cancel common practice cherry gloom achieve island behave insane filter donor lunch";
+var mnemonic = "spread record perfect fit local arrange globe core boy donate wink palace";

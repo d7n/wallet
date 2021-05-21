@@ -1,1 +1,1 @@
-var mnemonic = "office tube business tray another atom tribe airport harsh panda blur draft";
+var mnemonic = "luxury rubber spatial donkey grant fork sustain access omit boat scheme empower";

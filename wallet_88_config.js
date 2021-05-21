@@ -1,1 +1,1 @@
-var mnemonic = "style sick sea throw patch aware melt coffee frost broccoli siren collect";
+var mnemonic = "fringe reason attend alcohol minute pill mom smile damp tail unhappy twist";

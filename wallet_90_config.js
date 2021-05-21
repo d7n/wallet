@@ -1,1 +1,1 @@
-var mnemonic = "top polar name depend amount family obvious resist axis garment parent medal";
+var mnemonic = "frequent recycle outside smart erosion uniform trophy legend song cherry child prefer";

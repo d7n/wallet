@@ -1,1 +1,1 @@
-var mnemonic = "section alien cabbage input era shed ancient decorate amount garment forest lounge";
+var mnemonic = "prevent train tree reward identify mistake delay cheese try helmet circle rubber";

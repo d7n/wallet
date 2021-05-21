@@ -1,1 +1,1 @@
-var mnemonic = "discover goddess vote flush sail treat put have neglect engine whale cousin";
+var mnemonic = "gate pole symptom huge dawn grunt town scare adapt math evolve welcome";

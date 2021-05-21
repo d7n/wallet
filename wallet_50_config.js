@@ -1,1 +1,1 @@
-var mnemonic = "dish armed perfect basic lounge fold clock shed grow dust update sell";
+var mnemonic = "three polar isolate own pulp resist goddess pigeon phrase mercy gas embark";

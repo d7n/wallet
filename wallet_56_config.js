@@ -1,1 +1,1 @@
-var mnemonic = "similar enjoy sunny flight tiny car napkin exact toddler blanket imitate coil";
+var mnemonic = "night reason enter fiscal air kiwi quick income gravity dinosaur physical fit";

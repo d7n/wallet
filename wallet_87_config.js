@@ -1,1 +1,1 @@
-var mnemonic = "matrix tennis shine arena wet fold discover dune bamboo motor damage wheat";
+var mnemonic = "alert curtain exile track imitate pause distance someone neglect attract garden carry";

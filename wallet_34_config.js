@@ -1,1 +1,1 @@
-var mnemonic = "addict equal hard concert hunt soul custom muscle frost canvas evil morning";
+var mnemonic = "empty yellow word recall minimum siege birth life tribe during two replace";

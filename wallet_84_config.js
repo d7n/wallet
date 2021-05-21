@@ -1,1 +1,1 @@
-var mnemonic = "embrace obey magnet coast visit fog hazard pitch faith moment cross loud";
+var mnemonic = "record cross occur risk toilet barrel make renew lunch calm flower recycle";

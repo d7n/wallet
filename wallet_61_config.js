@@ -1,1 +1,1 @@
-var mnemonic = "funny turkey scrap start grid cherry pulse stand limb various outer announce";
+var mnemonic = "flower okay dream smooth extend wool denial file position drive genre satoshi";

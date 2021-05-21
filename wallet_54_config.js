@@ -1,1 +1,1 @@
-var mnemonic = "moral magnet long shove dice edge protect knock bone adult fire receive";
+var mnemonic = "cinnamon effort music execute barrel erode there melody infant gadget purse cook";

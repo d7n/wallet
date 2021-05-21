@@ -1,1 +1,1 @@
-var mnemonic = "donkey master proud bone try witness solid walnut refuse planet begin bag";
+var mnemonic = "reopen permit spice panel airport velvet distance upon renew what horror toy";

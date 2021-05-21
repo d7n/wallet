@@ -1,1 +1,1 @@
-var mnemonic = "fragile share search outer forward also obey nature brick obey amount grow";
+var mnemonic = "black chicken cement front sure rate dumb melody answer clump horror mind";

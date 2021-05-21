@@ -1,1 +1,1 @@
-var mnemonic = "clerk pair cream abandon cool proud renew job armed swing saddle egg";
+var mnemonic = "woman hollow inherit sibling party burst tree parent face mad assist salmon";

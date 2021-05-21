@@ -1,1 +1,1 @@
-var mnemonic = "hard drum cover meat promote catalog real device speak wide blossom leisure";
+var mnemonic = "word sketch bracket vibrant chronic inject keen estate smart case spend bean";

@@ -1,1 +1,1 @@
-var mnemonic = "merit method side throw mother lunar unfold captain lawn cricket trim park";
+var mnemonic = "clump canvas proof grace brand ecology decline erase dream canoe detect into";

@@ -1,1 +1,1 @@
-var mnemonic = "cake express claw bacon monitor frozen regret depth dish grief cable float";
+var mnemonic = "tool distance say toast fruit lumber joke check spare shoot wedding nature";

@@ -1,1 +1,1 @@
-var mnemonic = "chest banana have smoke kangaroo mistake flush axis into memory mass tourist";
+var mnemonic = "blanket truck canvas inspire afraid rescue found veteran manage time acoustic common";

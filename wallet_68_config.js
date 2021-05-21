@@ -1,1 +1,1 @@
-var mnemonic = "boil absent wagon reflect copper useful salmon ball shiver tuna surge vivid";
+var mnemonic = "wood discover whisper juice hockey unable mask pluck maple salad prosper file";

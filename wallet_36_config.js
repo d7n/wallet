@@ -1,1 +1,1 @@
-var mnemonic = "fury wave sweet enhance among power jump elder blush panic valve angry";
+var mnemonic = "survey square snow differ patrol improve pyramid fiscal blame spider rude vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "stone frost just rigid million taxi civil riot latin hurry enrich cry";
+var mnemonic = "dawn enact wheat intact candy earth swallow install misery connect wealth dash";

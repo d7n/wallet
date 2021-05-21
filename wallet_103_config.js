@@ -1,1 +1,1 @@
-var mnemonic = "gun tragic nation drill furnace oppose detail despair lucky talent wish earth";
+var mnemonic = "gloom gadget gown question twenty economy edit exhaust island siren explain gravity";

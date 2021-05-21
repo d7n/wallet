@@ -1,1 +1,1 @@
-var mnemonic = "expect disease arrange skill unaware wealth crisp youth hood crew woman brown";
+var mnemonic = "dice diet approve clog random dress smoke announce enhance bean tortoise motion";

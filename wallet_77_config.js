@@ -1,1 +1,1 @@
-var mnemonic = "office mammal artist parrot dentist behave eternal inspire pretty enter lecture swift";
+var mnemonic = "elegant area deal rubber version nasty photo spread reduce vocal trend stool";

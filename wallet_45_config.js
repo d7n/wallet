@@ -1,1 +1,1 @@
-var mnemonic = "end month sad exhaust silver garment educate client luxury zone tumble creek";
+var mnemonic = "short change avoid satisfy inquiry polar live blur math indicate hero work";

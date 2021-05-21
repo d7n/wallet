@@ -1,1 +1,1 @@
-var mnemonic = "bid cruise boring either manual syrup stand negative salute random abstract wise";
+var mnemonic = "van harvest slab margin can buffalo secret clerk there blanket garbage dry";

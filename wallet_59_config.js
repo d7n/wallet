@@ -1,1 +1,1 @@
-var mnemonic = "balance seven list surge infant evoke broccoli dust cost damage shy merry";
+var mnemonic = "neck insect wink random round choice ball also coyote debate pencil table";

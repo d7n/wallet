@@ -1,1 +1,1 @@
-var mnemonic = "never jaguar interest stumble salad concert master maze quote chicken trumpet combine";
+var mnemonic = "erode velvet thunder ripple beauty vast host economy priority road risk ski";

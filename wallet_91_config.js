@@ -1,1 +1,1 @@
-var mnemonic = "sudden antique trend riot scout keen question symbol sport lunar water cycle";
+var mnemonic = "rotate twelve meat cup fit congress kind tongue useless combine essay agent";

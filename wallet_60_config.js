@@ -1,1 +1,1 @@
-var mnemonic = "talent level strategy biology law state choice ahead welcome kingdom virtual salon";
+var mnemonic = "reward waste filter noble course exit notable toe trigger magnet news roast";

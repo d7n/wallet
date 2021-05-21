@@ -1,1 +1,1 @@
-var mnemonic = "annual inherit auction spell arrive short rose cannon protect labor punch endorse";
+var mnemonic = "trick armor proof tackle food enrich doctor indoor solve shift huge cereal";

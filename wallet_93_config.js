@@ -1,1 +1,1 @@
-var mnemonic = "oval immune ramp express lazy lab habit omit announce track believe rural";
+var mnemonic = "stereo husband brain unlock blouse next rally visit toss bullet pattern acid";

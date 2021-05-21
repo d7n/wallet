@@ -1,1 +1,1 @@
-var mnemonic = "flash choice eyebrow expand gym globe access whip soul horn resemble hood";
+var mnemonic = "despair obvious accident inherit join ecology auto stomach judge stem left near";

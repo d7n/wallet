@@ -1,1 +1,1 @@
-var mnemonic = "debate adult payment east stable peanut concert rather december control tuna purse";
+var mnemonic = "laugh mention between dirt split soft exile unusual kite such choose enforce";

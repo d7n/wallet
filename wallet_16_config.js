@@ -1,1 +1,1 @@
-var mnemonic = "hospital steel ecology divide hospital wise pass start fancy drop fiscal kit";
+var mnemonic = "flower chuckle frame whale summer maze bean two sadness minute shove before";

@@ -1,1 +1,1 @@
-var mnemonic = "armed have street reward tired pass small demise plate guess survey agent";
+var mnemonic = "filter outside soda elbow fetch boat above catch shoe vessel differ brother";

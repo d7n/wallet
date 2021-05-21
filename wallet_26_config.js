@@ -1,1 +1,1 @@
-var mnemonic = "crumble dress deliver second gossip action guilt glance provide interest autumn tribe";
+var mnemonic = "more lawn hill unfold pumpkin isolate around print clap cute bracket economy";

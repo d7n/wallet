@@ -1,1 +1,1 @@
-var mnemonic = "drop swim riot reveal hair brush ask advance winner person critic brass";
+var mnemonic = "lock unveil bind direct rookie dismiss laundry silk shallow frozen assume flip";

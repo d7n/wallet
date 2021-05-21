@@ -1,1 +1,1 @@
-var mnemonic = "rate cloth cable canyon trigger helmet lock tomato settle remain lava deputy";
+var mnemonic = "treat rigid fantasy gloom scrub attitude feature festival fancy use air occur";

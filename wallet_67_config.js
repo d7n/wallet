@@ -1,1 +1,1 @@
-var mnemonic = "swing piano letter flash usual roast pave crunch swear one hurdle toe";
+var mnemonic = "above stage possible update rain truly tower beauty kingdom zebra roast fan";

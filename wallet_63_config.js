@@ -1,1 +1,1 @@
-var mnemonic = "issue jazz body loan order remain satoshi ceiling avoid crash inflict focus";
+var mnemonic = "ribbon tortoise twist donate sight hotel frequent wedding arrive address coast shop";

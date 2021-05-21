@@ -1,1 +1,1 @@
-var mnemonic = "adult actual clock hurdle reform own often spell dash mix demise track";
+var mnemonic = "unveil mad spin zero phrase video noble actual ranch limit six chunk";

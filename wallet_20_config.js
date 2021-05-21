@@ -1,1 +1,1 @@
-var mnemonic = "satisfy chronic regular analyst method final online case math limit rely moon";
+var mnemonic = "today apart feel burst mushroom gown obtain balance moon spread rocket cabin";

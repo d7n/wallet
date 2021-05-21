@@ -1,1 +1,1 @@
-var mnemonic = "marine change ready scissors sauce clean brain address behind kick insect choice";
+var mnemonic = "water beach deliver like arm mammal result advice heavy wait pet pass";

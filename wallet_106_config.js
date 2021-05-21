@@ -1,1 +1,1 @@
-var mnemonic = "flavor prosper can owner slight miss fresh act girl visa rotate firm";
+var mnemonic = "garment check bright mountain urban prevent all worry replace neglect lounge woman";

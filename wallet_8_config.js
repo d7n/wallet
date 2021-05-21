@@ -1,1 +1,1 @@
-var mnemonic = "sister marriage chair snack own vibrant network crucial uncle angry shield sorry";
+var mnemonic = "rally estate reveal fantasy accuse defense skill confirm insane vague prevent horse";

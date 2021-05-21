@@ -1,1 +1,1 @@
-var mnemonic = "rely burger enjoy inquiry sweet impact mule card baby scissors sustain doll";
+var mnemonic = "property city volume liar quit burden bamboo phrase crumble any nasty purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "always cradle sure index brown abandon retire rookie vessel plunge identify elevator";
+var mnemonic = "company unaware wisdom pretty angry benefit also crunch receive doll wreck autumn";

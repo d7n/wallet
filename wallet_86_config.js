@@ -1,1 +1,1 @@
-var mnemonic = "guide force attract donate daughter survey betray marine valley crater festival act";
+var mnemonic = "rose view horse slush wisdom wheat install idle stomach royal control unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding have help cry witness gaze usage square just wreck notable lottery";
+var mnemonic = "spot slight retreat mixture pepper vendor satisfy rail all supreme mechanic make";

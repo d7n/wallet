@@ -1,1 +1,1 @@
-var mnemonic = "what artwork exotic labor reward abstract rally glance upgrade cover general series";
+var mnemonic = "riot sound pact used bread piano benefit camera give jelly boy patch";

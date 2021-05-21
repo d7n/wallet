@@ -1,1 +1,1 @@
-var mnemonic = "twenty accuse clog document anxiety icon invite satisfy drastic arm scene initial";
+var mnemonic = "labor memory lunar toy certain canyon struggle fiction vacuum walnut believe mom";

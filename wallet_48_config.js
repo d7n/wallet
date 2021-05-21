@@ -1,1 +1,1 @@
-var mnemonic = "wear boost wrestle ocean tackle parade vendor orchard sting bone bracket will";
+var mnemonic = "payment execute inherit plastic obey zebra legend swift brown sell hospital feature";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon wine base remain blind pear meat luxury debate exotic phrase sausage";
+var mnemonic = "seminar rigid gather myself match plug stuff amused creek figure brush speed";

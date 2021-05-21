@@ -1,1 +1,1 @@
-var mnemonic = "accuse arm front polar raw pave adult potato powder salon cruel enact";
+var mnemonic = "region play pill number soul play rib orange title diesel move off";

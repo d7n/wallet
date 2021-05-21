@@ -1,1 +1,1 @@
-var mnemonic = "extra large sure rib tunnel duty ski jealous tired weapon thank salt";
+var mnemonic = "permit method slam onion dove taste universe coast column attract dream unique";

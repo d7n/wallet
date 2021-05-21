@@ -1,1 +1,1 @@
-var mnemonic = "supreme panel client seven reject mansion slight sample right man three bread";
+var mnemonic = "all wet little soda own sense evidence jeans panic appear medal catch";

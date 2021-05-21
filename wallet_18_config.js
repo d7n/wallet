@@ -1,1 +1,1 @@
-var mnemonic = "case young copper estate quit derive spatial midnight picture business south sun";
+var mnemonic = "rich pizza reward pistol weird grant chronic toss sample disagree hurt lend";

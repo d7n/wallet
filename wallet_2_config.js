@@ -1,1 +1,1 @@
-var mnemonic = "fatigue brand piano hospital travel owner outer want exclude grocery opera orient";
+var mnemonic = "monkey rabbit annual foot demise fiber blanket marble excuse orchard ordinary lesson";

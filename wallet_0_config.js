@@ -1,1 +1,1 @@
-var mnemonic = "couch victory enter gossip arrest right stable sun any ready gasp width";
+var mnemonic = "kite jelly gravity confirm tiger item file nurse tissue advice course today";

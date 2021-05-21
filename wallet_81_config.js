@@ -1,1 +1,1 @@
-var mnemonic = "unlock banner cat predict service seed goose tank chief tenant person iron";
+var mnemonic = "design love target dice flag hungry trim fabric sword normal grace term";

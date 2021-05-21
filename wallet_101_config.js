@@ -1,1 +1,1 @@
-var mnemonic = "extra steak joke country turtle judge shadow exact fade empty debate zoo";
+var mnemonic = "viable involve fitness talk gift anchor sunny describe elegant zoo share stay";

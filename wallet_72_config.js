@@ -1,1 +1,1 @@
-var mnemonic = "home point rabbit twelve copper old taxi imitate stumble crucial bounce wide";
+var mnemonic = "nest picnic delay nuclear joy smoke bless calm focus panic peace faint";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic blast winter stove trend dry chuckle step depth core under curious";
+var mnemonic = "analyst quit ski fluid lounge miracle lake course erupt speed coyote breeze";

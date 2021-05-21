@@ -1,1 +1,1 @@
-var mnemonic = "town home noble kingdom wing leg veteran churn long lab dwarf system";
+var mnemonic = "garlic imitate sentence success zebra fancy spice cup luxury attack seek peasant";

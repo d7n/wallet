@@ -1,1 +1,1 @@
-var mnemonic = "iron fabric airport skull angle obey bundle iron force elegant stand blast";
+var mnemonic = "early rather climb cabin item time skull now kidney silly space real";

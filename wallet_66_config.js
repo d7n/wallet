@@ -1,1 +1,1 @@
-var mnemonic = "round beach roast fire cinnamon nest legal cover nature member below find";
+var mnemonic = "original wet squirrel leg roast audit slow muffin between stick also audit";
