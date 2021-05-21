@@ -1,1 +1,1 @@
-var mnemonic = "main title cash virus fun weird lonely warm file normal monitor copy";
+var mnemonic = "scare twin suggest begin field tragic enough believe raven raise between infant";

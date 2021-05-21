@@ -1,1 +1,1 @@
-var mnemonic = "point rabbit refuse country sock world combine unknown equip cabbage destroy exhaust";
+var mnemonic = "furnace ugly swing fish country neck cinnamon filter fury stand avoid stuff";

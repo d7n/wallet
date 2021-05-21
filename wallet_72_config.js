@@ -1,1 +1,1 @@
-var mnemonic = "collect orphan never couple riot page cook ghost only idea goose insane";
+var mnemonic = "vast axis shrug grow gap water artefact mind biology visa depth employ";

@@ -1,1 +1,1 @@
-var mnemonic = "lady join asthma walnut script float stamp acquire submit foam lumber tenant";
+var mnemonic = "flip path nest danger flame ostrich lizard sister brave envelope day quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "slush exercise seminar economy audit truth volcano rail suspect clump escape vault";
+var mnemonic = "brother boost invite churn plug siren catalog electric puzzle annual art unknown";

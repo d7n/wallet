@@ -1,1 +1,1 @@
-var mnemonic = "rose warrior ship mirror skate member undo frequent settle actor slam subject";
+var mnemonic = "vacant fancy burst journey invest raise radio mean know hockey join civil";

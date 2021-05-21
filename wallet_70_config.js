@@ -1,1 +1,1 @@
-var mnemonic = "apology hedgehog category text unique absurd road ridge seek base chapter tip";
+var mnemonic = "close judge immense credit antique brass west report install hood galaxy social";

@@ -1,1 +1,1 @@
-var mnemonic = "interest youth foot sister tourist deputy among coffee curtain lock animal media";
+var mnemonic = "mouse mother embark caution front bone spot notice open beauty erosion runway";

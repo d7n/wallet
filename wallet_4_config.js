@@ -1,1 +1,1 @@
-var mnemonic = "lift rural zero bachelor guilt ranch camera nice solution train orange crime";
+var mnemonic = "shy narrow hire regret absent kitchen spell print discover flower hidden vast";

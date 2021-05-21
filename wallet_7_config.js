@@ -1,1 +1,1 @@
-var mnemonic = "cruise demise uniform bless island fatal switch village spin custom toss usage";
+var mnemonic = "south cliff thank snack weasel frost acoustic night present velvet south engine";

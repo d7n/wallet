@@ -1,1 +1,1 @@
-var mnemonic = "people razor budget sun utility topic method shrimp sorry win churn craft";
+var mnemonic = "battle split display check pet cruel pluck creek wreck pattern taste arrange";

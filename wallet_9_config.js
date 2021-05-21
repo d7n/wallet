@@ -1,1 +1,1 @@
-var mnemonic = "lucky bid depend proud vacant winter tent sick sphere common invite actress";
+var mnemonic = "lava sea forest girl pride enter float solid taste mind album family";

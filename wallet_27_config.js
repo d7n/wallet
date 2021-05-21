@@ -1,1 +1,1 @@
-var mnemonic = "dry pull adapt deal glory when fade vague gain use bless exchange";
+var mnemonic = "jar spot law power hockey work chest cluster rocket skirt describe brass";

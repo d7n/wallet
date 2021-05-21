@@ -1,1 +1,1 @@
-var mnemonic = "return verify when silk season canyon earn knife top tail benefit vibrant";
+var mnemonic = "fragile clown daughter focus join pattern subject electric half valley merry security";

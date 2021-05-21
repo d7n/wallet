@@ -1,1 +1,1 @@
-var mnemonic = "escape pet inside hub space double velvet badge false whale crazy tool";
+var mnemonic = "leisure horn swift caution ready adjust stove churn reopen vocal park pencil";

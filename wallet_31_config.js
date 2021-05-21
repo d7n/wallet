@@ -1,1 +1,1 @@
-var mnemonic = "tunnel job flat fire quiz wait puppy excuse three afford erode chest";
+var mnemonic = "certain conduct advance grace lady chief monster mammal napkin quantum athlete child";

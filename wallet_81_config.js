@@ -1,1 +1,1 @@
-var mnemonic = "merry feature insect model wild clever near more liberty shaft jump vote";
+var mnemonic = "ahead husband music language draw concert timber goose chicken tag busy donkey";

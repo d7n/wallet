@@ -1,1 +1,1 @@
-var mnemonic = "inch share depart earth donate gift absorb pole supply reason awake innocent";
+var mnemonic = "organ answer rude same ask party gaze bench venue ignore solar biology";

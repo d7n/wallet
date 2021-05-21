@@ -1,1 +1,1 @@
-var mnemonic = "edge worry rival excite elephant rocket nothing uphold emotion electric feel resource";
+var mnemonic = "fence affair fancy despair bullet goddess flat appear act chat artist inside";

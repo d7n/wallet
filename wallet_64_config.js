@@ -1,1 +1,1 @@
-var mnemonic = "include diesel inquiry garden fish twice install valid speed ask control candy";
+var mnemonic = "border father save globe child joke raise forward notable educate clog calm";

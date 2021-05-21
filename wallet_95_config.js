@@ -1,1 +1,1 @@
-var mnemonic = "mixture uniform stuff quarter brave return seat cancel expire glare dolphin economy";
+var mnemonic = "bean minute deny parent kick flavor deposit prepare monster hub hold smoke";

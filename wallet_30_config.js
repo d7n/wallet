@@ -1,1 +1,1 @@
-var mnemonic = "index together soda liquid dragon stadium panic guess snack tube iron nut";
+var mnemonic = "museum horse harsh fatal ready couple program mind scatter earth viable trouble";

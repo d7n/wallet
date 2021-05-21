@@ -1,1 +1,1 @@
-var mnemonic = "people kingdom dignity radio hungry dress robust deal bird side heavy breeze";
+var mnemonic = "tool scout humble smile bar purchase busy dynamic dignity joke name negative";

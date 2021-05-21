@@ -1,1 +1,1 @@
-var mnemonic = "puppy proof cannon number discover camp settle fox reward melody annual fame";
+var mnemonic = "side health other verb uniform yard live rhythm control smoke viable hope";

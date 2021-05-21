@@ -1,1 +1,1 @@
-var mnemonic = "economy present casual oil melt floor correct vivid clutch bridge route globe";
+var mnemonic = "donor aim salute add relief master symbol vocal surface ranch drip bulb";

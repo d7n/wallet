@@ -1,1 +1,1 @@
-var mnemonic = "sleep actual obvious trial claim confirm visual priority fuel piano bind empty";
+var mnemonic = "lobster visa evidence clip ritual fruit label ceiling pledge faculty multiply wait";

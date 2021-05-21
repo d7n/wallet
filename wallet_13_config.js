@@ -1,1 +1,1 @@
-var mnemonic = "critic able net design frog eight defy admit common today tape address";
+var mnemonic = "current sleep orange lemon planet attitude dream credit staff lesson love sail";

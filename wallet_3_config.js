@@ -1,1 +1,1 @@
-var mnemonic = "grant corn luggage tower staff tilt bike poem wage pill tag comfort";
+var mnemonic = "round advance plastic laugh avoid fault empower menu rally rebel pepper talk";

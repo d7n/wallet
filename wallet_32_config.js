@@ -1,1 +1,1 @@
-var mnemonic = "plastic culture jewel toward security paddle flight slight include beyond humor rocket";
+var mnemonic = "dove genre cake setup amateur soccer shoot calm possible hawk secret pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz tuna under amateur brown snow frame question match special slice fragile";
+var mnemonic = "employ hurry mean invite sniff spatial office denial garment used window govern";

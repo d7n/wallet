@@ -1,1 +1,1 @@
-var mnemonic = "canal alcohol glare inherit recall lesson laugh mosquito elbow reunion over rebel";
+var mnemonic = "expire mule mother brisk canvas expose country dry crunch float pave wave";

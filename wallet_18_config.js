@@ -1,1 +1,1 @@
-var mnemonic = "connect account inform prosper roof swallow pave asthma hunt picnic pledge actor";
+var mnemonic = "input clerk coast tornado short reject upper cat soon risk amused estate";

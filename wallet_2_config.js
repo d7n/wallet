@@ -1,1 +1,1 @@
-var mnemonic = "drop robust wrong wave tiger erosion army thought harvest major much style";
+var mnemonic = "skate chuckle arrow carpet genre height moon circle story three enrich bulk";

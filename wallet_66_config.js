@@ -1,1 +1,1 @@
-var mnemonic = "surprise scheme genius myself review climb acquire lazy fox buyer foil grunt";
+var mnemonic = "raw output wave scan chronic multiply leg order keep infant exit rural";

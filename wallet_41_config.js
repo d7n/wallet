@@ -1,1 +1,1 @@
-var mnemonic = "parent bless zone setup they multiply rebuild cover public door praise smooth";
+var mnemonic = "analyst piece prevent mercy lizard differ material guilt elder axis near dismiss";

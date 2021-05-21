@@ -1,1 +1,1 @@
-var mnemonic = "assault spread disorder corn material swear current wrap museum define evolve anger";
+var mnemonic = "lake impose nominee risk buffalo now minimum erosion skill surround nature never";

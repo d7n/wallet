@@ -1,1 +1,1 @@
-var mnemonic = "coyote person market pledge bike orient runway tenant minor ignore voyage update";
+var mnemonic = "relief dice curve can coyote deliver truly fit pluck question fitness blood";

@@ -1,1 +1,1 @@
-var mnemonic = "crush hazard sure habit soccer coyote soul sport ticket setup render ship";
+var mnemonic = "leg sand quantum tray predict section agent crush portion december disorder nature";

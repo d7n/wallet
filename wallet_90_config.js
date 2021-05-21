@@ -1,1 +1,1 @@
-var mnemonic = "pigeon bus guess below prosper human strategy social naive more omit donate";
+var mnemonic = "negative sketch office lab title where legend dutch voice crucial prison box";

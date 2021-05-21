@@ -1,1 +1,1 @@
-var mnemonic = "dune obtain cabbage please scare addict ranch flat deliver source service neck";
+var mnemonic = "table leave valley silent dry oxygen mushroom chest detect say park solution";

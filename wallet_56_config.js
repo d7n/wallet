@@ -1,1 +1,1 @@
-var mnemonic = "pretty must embrace treat double tomorrow pudding ginger grief sunny judge right";
+var mnemonic = "wrap soup label biology foot rug impact stool kick two home example";

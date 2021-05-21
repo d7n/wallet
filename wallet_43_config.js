@@ -1,1 +1,1 @@
-var mnemonic = "excuse major enrich actor cement spray canvas virtual ship year wet witness";
+var mnemonic = "question today episode real science sure entire list next bunker box reason";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican decrease cattle super else super balance stable atom february toy auto";
+var mnemonic = "ten cream endorse emerge runway lesson diamond once uncover deer mammal various";

@@ -1,1 +1,1 @@
-var mnemonic = "install because conduct thing athlete caution muffin afraid evidence engage park harsh";
+var mnemonic = "people blade shuffle option crisp success bike patch approve wrong submit nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "verb degree observe axis salad choose divert phone envelope busy coin north";
+var mnemonic = "field stamp erode join throw flower certain biology there cup few use";

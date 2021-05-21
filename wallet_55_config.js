@@ -1,1 +1,1 @@
-var mnemonic = "uphold guilt proof drama next warm chimney guide snake raise decorate above";
+var mnemonic = "purse destroy ceiling panther middle learn online scrub secret easily inject phone";

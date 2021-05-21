@@ -1,1 +1,1 @@
-var mnemonic = "fox century swarm lunch blouse sport truck tobacco pause undo agree tackle";
+var mnemonic = "chuckle vanish wet boring acid report boil oil chair merry track lady";

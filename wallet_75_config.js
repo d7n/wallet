@@ -1,1 +1,1 @@
-var mnemonic = "degree coconut youth garbage crush join sort whip soldier zoo gas slot";
+var mnemonic = "shed north hurry elevator hundred advance vocal try flat travel you over";

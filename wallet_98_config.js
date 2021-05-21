@@ -1,1 +1,1 @@
-var mnemonic = "fire truth abandon digital question install glad huge exhaust indicate swing pioneer";
+var mnemonic = "diesel can vintage valve coffee hour vanish slam below mixture tell glue";

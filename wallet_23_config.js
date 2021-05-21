@@ -1,1 +1,1 @@
-var mnemonic = "mad dizzy afford nature start brush quit liquid actor discover daughter buddy";
+var mnemonic = "movie spot ivory amount seed cluster eye swim coach license key clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "estate alarm brush sheriff invite slab zone apology path way school vault";
+var mnemonic = "march churn essay lock control nut leaf host proof engage fitness arrange";

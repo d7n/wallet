@@ -1,1 +1,1 @@
-var mnemonic = "tip cash ketchup laundry squirrel film youth surprise wear whisper replace seed";
+var mnemonic = "load analyst aim deer luggage bless wedding typical menu juice label zebra";

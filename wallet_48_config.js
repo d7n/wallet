@@ -1,1 +1,1 @@
-var mnemonic = "foster thunder soul since unit current thought wise cabin glove build marine";
+var mnemonic = "thank assault reopen snow business clarify enroll bunker narrow erode power glad";

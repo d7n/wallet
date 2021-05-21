@@ -1,1 +1,1 @@
-var mnemonic = "forget fortune gadget choice quote submit connect tattoo material tomorrow notable diet";
+var mnemonic = "grain always because bleak day unhappy vacuum negative nerve lens capital error";

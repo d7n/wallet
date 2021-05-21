@@ -1,1 +1,1 @@
-var mnemonic = "honey retreat situate online snake artist radar naive laptop catch fury sadness";
+var mnemonic = "jeans early like series arctic parade romance jaguar cross idle fan erupt";

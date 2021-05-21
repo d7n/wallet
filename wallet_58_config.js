@@ -1,1 +1,1 @@
-var mnemonic = "invest frog scout bacon oil lesson skull pill give detect bless acid";
+var mnemonic = "knock enforce spare final smoke broken plate travel wedding dizzy antenna base";

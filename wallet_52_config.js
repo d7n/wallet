@@ -1,1 +1,1 @@
-var mnemonic = "visual front material damage shallow cat lamp fatal palace solid shuffle butter";
+var mnemonic = "gas zebra rare van lens paddle mammal wing boost rural minor length";

@@ -1,1 +1,1 @@
-var mnemonic = "return bring science impulse winner walk catalog guard dress wild ginger wise";
+var mnemonic = "neglect moment unhappy iron symbol race gym clerk where popular panel music";

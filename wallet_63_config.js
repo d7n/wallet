@@ -1,1 +1,1 @@
-var mnemonic = "main fun tooth have fault fan year process vicious way produce ordinary";
+var mnemonic = "dignity fault subject soldier endless safe welcome mad furnace skate poet remove";

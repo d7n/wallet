@@ -1,1 +1,1 @@
-var mnemonic = "immune immune boost artwork razor carry spell happy once top around install";
+var mnemonic = "sun nasty tackle host finger captain smart horror mobile level cube solution";

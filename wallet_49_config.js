@@ -1,1 +1,1 @@
-var mnemonic = "obscure enforce lemon problem lock sniff alpha maid steel item capable dress";
+var mnemonic = "require blush sort butter subway twin strategy child view narrow mobile width";

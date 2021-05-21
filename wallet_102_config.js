@@ -1,1 +1,1 @@
-var mnemonic = "prison undo culture pistol wasp shine minimum cattle pole oil satoshi spare";
+var mnemonic = "sentence mammal rapid stem squirrel picnic vast fortune spend access notice inject";

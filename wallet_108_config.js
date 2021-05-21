@@ -1,1 +1,1 @@
-var mnemonic = "pair trim zero general skate face tag baby waste screen lamp indicate";
+var mnemonic = "scrub street kingdom hamster regular ice gap gold stumble pottery interest boss";

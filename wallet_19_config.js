@@ -1,1 +1,1 @@
-var mnemonic = "insane bridge ceiling enrich dignity harsh symbol acquire real grape focus mushroom";
+var mnemonic = "seminar uncover elevator energy fame whale foster vicious tornado sock social barely";

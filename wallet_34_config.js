@@ -1,1 +1,1 @@
-var mnemonic = "satoshi say essay curtain entry episode coach design random kiwi core ignore";
+var mnemonic = "detail impact pulse learn stuff spot victory stool drift carpet pool annual";

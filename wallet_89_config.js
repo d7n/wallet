@@ -1,1 +1,1 @@
-var mnemonic = "rug can clever turtle castle tell family ancient public era cost gate";
+var mnemonic = "blind betray carbon truth step pitch middle price rent under hidden crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "glad mango ticket before monster eye boss crowd alone kind embody ribbon";
+var mnemonic = "eight skull satisfy regular flee swing imitate more explain shield omit cloud";

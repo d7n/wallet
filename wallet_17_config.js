@@ -1,1 +1,1 @@
-var mnemonic = "damage wedding logic grid general cash gown crowd return bullet scatter direct";
+var mnemonic = "ketchup grass goddess cluster walnut wink hundred nut cause medal letter siren";

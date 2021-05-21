@@ -1,1 +1,1 @@
-var mnemonic = "build spike nurse fox bleak sauce motion forward village cushion voyage ball";
+var mnemonic = "boy volcano pen alcohol turkey fever guilt goat total nasty close bubble";

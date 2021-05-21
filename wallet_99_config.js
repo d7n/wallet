@@ -1,1 +1,1 @@
-var mnemonic = "horse final auto angry payment mass pottery more math desert ivory assault";
+var mnemonic = "filter multiply speak rebuild setup twice put slim update outside exclude mask";

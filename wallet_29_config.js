@@ -1,1 +1,1 @@
-var mnemonic = "try metal excite together enjoy anxiety vessel peace dad zoo sudden small";
+var mnemonic = "equip gain across coral barely chaos fiscal spot mask office regular divorce";

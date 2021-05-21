@@ -1,1 +1,1 @@
-var mnemonic = "report diet jazz bag moon meat now unit bring satoshi sadness solution";
+var mnemonic = "battle fence barely lady club grief decrease include mansion choice pull shrug";

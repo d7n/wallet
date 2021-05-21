@@ -1,1 +1,1 @@
-var mnemonic = "child dwarf episode chalk season target truck quarter win amateur noodle decide";
+var mnemonic = "fossil depend defense input depend donor opinion stock capable quote polar diamond";

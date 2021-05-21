@@ -1,1 +1,1 @@
-var mnemonic = "dance island senior accident minimum recipe churn excuse nominee toy wedding monkey";
+var mnemonic = "sniff furnace reduce trim salute steak soul gate foil wrist together unaware";

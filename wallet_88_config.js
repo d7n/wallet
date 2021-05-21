@@ -1,1 +1,1 @@
-var mnemonic = "play stable clutch reward tone reveal magic employ try turn farm now";
+var mnemonic = "tonight despair zone detect slice opinion frown myth novel nice divert eye";

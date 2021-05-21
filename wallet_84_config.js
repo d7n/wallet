@@ -1,1 +1,1 @@
-var mnemonic = "prepare air affair wrestle receive hold ancient ghost lottery vibrant margin steak";
+var mnemonic = "swim wash pupil dinosaur soap shield lunch idea dust foil female fragile";

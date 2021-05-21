@@ -1,1 +1,1 @@
-var mnemonic = "warm wear mansion dawn whip foam multiply kangaroo couple bubble maximum draft";
+var mnemonic = "close suggest minute hip intact enter half food small kind snack copy";

@@ -1,1 +1,1 @@
-var mnemonic = "rough chronic cigar despair vapor brother diet theme chest yard donor rug";
+var mnemonic = "wine pilot medal hello sunset artist market zoo paper cinnamon rabbit enrich";

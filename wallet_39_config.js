@@ -1,1 +1,1 @@
-var mnemonic = "flush delay funny caution more general drip hub surround now rain dog";
+var mnemonic = "ritual uncover lizard attract demand toss early pass armed lift torch enter";

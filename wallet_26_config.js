@@ -1,1 +1,1 @@
-var mnemonic = "hill drama forward truck thank sense often autumn merry very arrange nice";
+var mnemonic = "plug lava flame device cross palace copper museum argue civil measure certain";

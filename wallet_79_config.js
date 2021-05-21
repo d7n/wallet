@@ -1,1 +1,1 @@
-var mnemonic = "marriage warrior galaxy allow spend field crater industry helmet bargain seat box";
+var mnemonic = "sniff entry spring canvas fitness social toy boy impact theory witness furnace";

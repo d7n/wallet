@@ -1,1 +1,1 @@
-var mnemonic = "expand mixed imitate oblige narrow catalog network impact memory pink jungle wait";
+var mnemonic = "ribbon pelican feature hour meadow sister tenant bind original super major honey";

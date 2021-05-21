@@ -1,1 +1,1 @@
-var mnemonic = "twist library bachelor pear relief library empty torch jealous random item lunar";
+var mnemonic = "enact spoil ribbon mountain local swear humble creek hard flavor describe crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow salt nephew embark client omit rival hole actor torch achieve kitten";
+var mnemonic = "garment taste wire interest misery blood mad steak idle exist radio theme";

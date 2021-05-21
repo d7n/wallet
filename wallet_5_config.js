@@ -1,1 +1,1 @@
-var mnemonic = "habit remain brick riot burst elbow direct tobacco blouse legend answer jungle";
+var mnemonic = "leg garment ugly elegant truly warfare soldier width anxiety pet evil destroy";

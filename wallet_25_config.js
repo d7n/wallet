@@ -1,1 +1,1 @@
-var mnemonic = "finish enhance list meat hundred initial draft eager moral dust clinic honey";
+var mnemonic = "scan mammal cram change win music domain hen worry produce inquiry deal";

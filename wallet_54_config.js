@@ -1,1 +1,1 @@
-var mnemonic = "stock hobby habit impose sun sea enhance what width chef digital lounge";
+var mnemonic = "arm inject acid option december large vote isolate cousin sword blast require";

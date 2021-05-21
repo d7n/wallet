@@ -1,1 +1,1 @@
-var mnemonic = "battle hour snap stand weapon tide panic banner begin end flat armor";
+var mnemonic = "shell use exact slush inch denial jelly crime weird mutual fix what";

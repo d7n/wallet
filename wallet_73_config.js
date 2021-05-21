@@ -1,1 +1,1 @@
-var mnemonic = "pistol tape fox sausage antique sentence half prevent misery glue lyrics script";
+var mnemonic = "plunge transfer walnut lobster reunion asthma silent minimum arm uphold away myth";

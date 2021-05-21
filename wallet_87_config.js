@@ -1,1 +1,1 @@
-var mnemonic = "core useless nose census divert upgrade video canvas badge useless soup liar";
+var mnemonic = "snack mom produce wheat poverty afford price nothing pattern quick recipe tissue";

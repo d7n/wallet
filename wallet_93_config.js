@@ -1,1 +1,1 @@
-var mnemonic = "flip cliff ecology tunnel hospital leopard kit evoke title success pepper struggle";
+var mnemonic = "economy only exotic renew bird ice pride program dove travel confirm fork";

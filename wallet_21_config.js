@@ -1,1 +1,1 @@
-var mnemonic = "render frost wink race unable unfold aim economy trend foster melody tonight";
+var mnemonic = "unlock physical rigid elevator girl flower knock truly excuse pledge short vehicle";

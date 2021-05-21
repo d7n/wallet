@@ -1,1 +1,1 @@
-var mnemonic = "rich silent smart eye gaze switch finish domain leave present awake pitch";
+var mnemonic = "snack utility roof engage rotate fan enroll narrow imitate script wish banner";

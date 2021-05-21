@@ -1,1 +1,1 @@
-var mnemonic = "mercy galaxy oil try payment accuse travel audit item swear tackle twin";
+var mnemonic = "clever crazy believe flee tattoo ribbon trick space broken vocal lazy night";

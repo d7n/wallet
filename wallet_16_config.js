@@ -1,1 +1,1 @@
-var mnemonic = "dose later during film matrix sister luggage athlete talk exhaust wide drive";
+var mnemonic = "staff have luggage harvest want vicious license glimpse method left unveil this";

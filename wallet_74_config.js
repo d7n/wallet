@@ -1,1 +1,1 @@
-var mnemonic = "horn sister together amateur virtual unfold text permit pear come churn game";
+var mnemonic = "elevator music combine pencil humor tomato smile syrup derive glance position stage";
