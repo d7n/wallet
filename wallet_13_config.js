@@ -1,1 +1,1 @@
-var mnemonic = "author oven stumble ice winter rival bacon humble outdoor chef industry peasant";
+var mnemonic = "scrub there raise bring split super embrace cupboard wall blanket pride despair";

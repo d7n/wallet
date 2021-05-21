@@ -1,1 +1,1 @@
-var mnemonic = "garlic whip vast miss office old squeeze piece thumb hospital hope funny";
+var mnemonic = "liar meadow universe enemy heart regret mosquito van voyage stereo impulse feed";

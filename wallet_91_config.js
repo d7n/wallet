@@ -1,1 +1,1 @@
-var mnemonic = "eternal traffic keen obey pulp wisdom diet dry fancy roof point order";
+var mnemonic = "deer soccer observe tide rigid original bird siren column warrior sibling goose";

@@ -1,1 +1,1 @@
-var mnemonic = "rely flag object debate thunder fire company immense village smile caught category";
+var mnemonic = "budget traffic envelope acquire accident bright throw become sugar board lawn wonder";

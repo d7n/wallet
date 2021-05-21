@@ -1,1 +1,1 @@
-var mnemonic = "cram room cactus stamp useless wage misery common quick novel clump mirror";
+var mnemonic = "unveil connect hint crouch mandate spread apple coral entry burger height high";

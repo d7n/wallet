@@ -1,1 +1,1 @@
-var mnemonic = "settle pulse across toast excite lemon profit glue object sauce unfold trumpet";
+var mnemonic = "camera elevator size surge correct stereo logic accident spirit kind scale ceiling";

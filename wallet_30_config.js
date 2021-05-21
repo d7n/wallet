@@ -1,1 +1,1 @@
-var mnemonic = "market fun lava cement match orphan opinion parent rebel flock lizard alpha";
+var mnemonic = "mercy lemon purse decorate soccer asthma staff year spot adult stable voice";

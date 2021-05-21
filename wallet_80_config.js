@@ -1,1 +1,1 @@
-var mnemonic = "barrel cable under mandate caught scare ancient patient empty prize case faint";
+var mnemonic = "track pizza gym return access essence bonus fee gym obscure story female";

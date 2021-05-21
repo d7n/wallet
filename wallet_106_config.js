@@ -1,1 +1,1 @@
-var mnemonic = "budget pony manual devote visual want question crunch wild quote wish syrup";
+var mnemonic = "radar write insane nice scare quantum add tornado beef song dove tired";

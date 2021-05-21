@@ -1,1 +1,1 @@
-var mnemonic = "mushroom punch daring three hybrid almost inner swap heavy advance stamp correct";
+var mnemonic = "fatal marriage uncle face genuine address system yellow urge before entire decline";

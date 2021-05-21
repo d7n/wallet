@@ -1,1 +1,1 @@
-var mnemonic = "rough witness prison mule bracket furnace half young fine cave reason repeat";
+var mnemonic = "shaft true joy inmate control budget album asthma absorb erode depth corn";

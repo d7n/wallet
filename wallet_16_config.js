@@ -1,1 +1,1 @@
-var mnemonic = "loud install accuse pistol electric field luggage need deliver hire obscure region";
+var mnemonic = "hour fiber report occur profit virus region inform tide flower zoo bright";

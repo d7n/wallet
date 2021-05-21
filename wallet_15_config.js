@@ -1,1 +1,1 @@
-var mnemonic = "now portion nephew core chief winter script diamond eyebrow flower divert hawk";
+var mnemonic = "feature harbor female gym nest system blossom ship guard ancient grant short";

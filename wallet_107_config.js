@@ -1,1 +1,1 @@
-var mnemonic = "hour puppy audit wasp mango element gloom slim baby lazy intact skirt";
+var mnemonic = "pioneer nasty visa truck excuse stem fork best blur orphan uncle quality";

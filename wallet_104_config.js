@@ -1,1 +1,1 @@
-var mnemonic = "hurt hen scout december deposit visual false snack cluster affair comic casino";
+var mnemonic = "amused sorry weapon item liquid engage connect copper toilet right stem poem";

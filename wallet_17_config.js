@@ -1,1 +1,1 @@
-var mnemonic = "beauty security phrase vicious fatal theory fatigue despair ice room absorb bubble";
+var mnemonic = "manual sentence vote thing dinosaur derive slot thumb unveil pear immense marriage";

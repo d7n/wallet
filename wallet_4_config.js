@@ -1,1 +1,1 @@
-var mnemonic = "fall scare essay expire evil apology sick vast add brief faith title";
+var mnemonic = "shoot member useless wet omit stadium tone express ketchup grief wave trophy";

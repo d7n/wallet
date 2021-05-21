@@ -1,1 +1,1 @@
-var mnemonic = "marriage grant vintage tissue lens tag taste magnet prepare galaxy welcome always";
+var mnemonic = "resemble puzzle defense dinosaur ribbon crime joy assault mad check jar sing";

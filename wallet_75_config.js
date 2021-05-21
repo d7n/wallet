@@ -1,1 +1,1 @@
-var mnemonic = "harvest model arch joy argue need bachelor carbon narrow vibrant reduce bunker";
+var mnemonic = "mom canal bulk try rich team dish spider object all social act";

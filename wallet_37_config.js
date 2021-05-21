@@ -1,1 +1,1 @@
-var mnemonic = "gloom frozen clarify change analyst insane culture reject pulp chest rebel squirrel";
+var mnemonic = "radio draft assume plug design leaf voice remain body doctor allow click";

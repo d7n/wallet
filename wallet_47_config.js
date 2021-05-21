@@ -1,1 +1,1 @@
-var mnemonic = "gun shift oblige cool night dragon tragic resist action planet protect present";
+var mnemonic = "loud spin myth pear into runway use situate mercy hill balcony beyond";

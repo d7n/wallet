@@ -1,1 +1,1 @@
-var mnemonic = "liquid like explain town question solar merit junior priority step miracle agent";
+var mnemonic = "shock inner about aisle syrup income athlete hawk empty brother feel antique";

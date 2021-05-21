@@ -1,1 +1,1 @@
-var mnemonic = "damp diary nerve transfer churn electric burger occur pull enter panic august";
+var mnemonic = "sugar intact cream sniff tail stool chicken mutual ski discover expose regular";

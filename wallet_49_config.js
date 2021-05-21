@@ -1,1 +1,1 @@
-var mnemonic = "deposit brief void fly path ship shop raise palace deer load jacket";
+var mnemonic = "absent weather embrace profit ugly sentence search air turn plate govern inspire";

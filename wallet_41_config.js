@@ -1,1 +1,1 @@
-var mnemonic = "author pig priority nasty blue hawk acid have under robust cloud visual";
+var mnemonic = "chimney decline edit evoke deputy faculty era clutch coin adult taxi gallery";

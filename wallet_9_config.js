@@ -1,1 +1,1 @@
-var mnemonic = "drama fabric future exile monster inner beyond argue letter bike orchard release";
+var mnemonic = "riot logic magnet never document swarm auto orbit code mercy meadow climb";

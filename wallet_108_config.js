@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo ask half approve caution response merge captain prize profit wink syrup";
+var mnemonic = "tone enough innocent alien obvious sad rival woman donate pond action property";

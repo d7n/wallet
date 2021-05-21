@@ -1,1 +1,1 @@
-var mnemonic = "unit winter market heavy panel either drill private very arena teach little";
+var mnemonic = "gentle jaguar bicycle borrow until ramp throw shadow lawn betray soap warm";

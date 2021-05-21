@@ -1,1 +1,1 @@
-var mnemonic = "vehicle prosper vote indoor knife exhaust useful tuition derive crack obscure inhale";
+var mnemonic = "material require ripple wheat essence velvet exact luggage cherry tattoo bid ensure";

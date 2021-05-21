@@ -1,1 +1,1 @@
-var mnemonic = "test naive leopard ten vessel basic acoustic usage odor color license luggage";
+var mnemonic = "illness hockey unusual deer grief school measure smile tattoo refuse faith brother";

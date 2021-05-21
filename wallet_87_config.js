@@ -1,1 +1,1 @@
-var mnemonic = "pyramid virus memory garment blast pole ignore draw secret home crush buzz";
+var mnemonic = "general boss subway unhappy monster human door short curious hover ritual grunt";

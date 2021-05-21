@@ -1,1 +1,1 @@
-var mnemonic = "badge sadness basic close system same tuition observe unlock side hip curious";
+var mnemonic = "cram fish cave brick absurd banana adult spirit dragon another zoo faith";

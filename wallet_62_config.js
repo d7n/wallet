@@ -1,1 +1,1 @@
-var mnemonic = "pass client elevator another want pig dry clutch sample match envelope person";
+var mnemonic = "six wasp obtain industry rookie sense carbon heavy cannon tree carpet sibling";

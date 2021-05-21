@@ -1,1 +1,1 @@
-var mnemonic = "differ air choose object food lecture glimpse raw couple crouch hold coffee";
+var mnemonic = "civil stick marble chunk fruit ride unlock carry paper shift noise van";

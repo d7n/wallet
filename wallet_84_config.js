@@ -1,1 +1,1 @@
-var mnemonic = "hobby dutch banner reveal three faculty bonus blossom nasty truth wood little";
+var mnemonic = "render dinner supply gesture army heart cake stuff gas material coast bless";

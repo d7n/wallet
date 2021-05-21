@@ -1,1 +1,1 @@
-var mnemonic = "tree wisdom music deliver scheme fuel switch wet host record polar frog";
+var mnemonic = "praise pyramid tragic abandon eight private forest receive suit pluck salmon ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "ask lecture farm together mule enact whip example mimic leave memory dignity";
+var mnemonic = "unique print tuna steel code chapter garbage laptop bunker solution ticket narrow";

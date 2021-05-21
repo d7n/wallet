@@ -1,1 +1,1 @@
-var mnemonic = "manage peasant match match blur world blame skate east rookie engage cargo";
+var mnemonic = "town parrot axis misery amateur naive cool clock place off worth panic";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual loyal park palace aerobic city dance tuition across cruel turkey joy";
+var mnemonic = "demand kite left doctor shove gossip level lecture tank ten game knock";

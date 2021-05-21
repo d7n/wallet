@@ -1,1 +1,1 @@
-var mnemonic = "famous detect tourist rain track kick winter fever pipe act solid mirror";
+var mnemonic = "bid wear gown unique paper ski olive sure surge equal resist truth";

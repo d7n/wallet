@@ -1,1 +1,1 @@
-var mnemonic = "damp party second gift amateur nose broken unknown three grab pink prepare";
+var mnemonic = "into sea draw sweet crash kit solution dragon discover vague away near";

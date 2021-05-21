@@ -1,1 +1,1 @@
-var mnemonic = "end drip voyage boat token photo mirror tape spin merit letter panic";
+var mnemonic = "rent idea pioneer village average man cannon spell pole profit wreck dial";

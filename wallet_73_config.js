@@ -1,1 +1,1 @@
-var mnemonic = "define undo nothing disorder wonder grain provide member brown jaguar cup venture";
+var mnemonic = "lecture resource stock want glory kick add cat gown artist hurry recipe";

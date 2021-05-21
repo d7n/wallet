@@ -1,1 +1,1 @@
-var mnemonic = "drink foil antenna ski rigid snap siege seat fatigue bridge security axis";
+var mnemonic = "shield village horror great orchard ahead relief pledge toy donkey hood common";

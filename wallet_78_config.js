@@ -1,1 +1,1 @@
-var mnemonic = "budget limit profit narrow mistake lawsuit victory exotic any river input exchange";
+var mnemonic = "will mass unique rival antique inner dream price rubber fire jelly find";

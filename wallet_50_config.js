@@ -1,1 +1,1 @@
-var mnemonic = "jealous hammer race crystal bag admit dune antique pluck shrug live elegant";
+var mnemonic = "bag lock put board bottom metal hollow wood clock music slice dignity";

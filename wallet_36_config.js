@@ -1,1 +1,1 @@
-var mnemonic = "forget warrior federal giraffe life card human trade bleak tower avoid rack";
+var mnemonic = "ill nest model earth fancy useless forest sell deny december holiday enable";

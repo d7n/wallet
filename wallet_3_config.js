@@ -1,1 +1,1 @@
-var mnemonic = "have patrol maid smile phone lawn female sunny idle struggle patient choose";
+var mnemonic = "document route lucky glow tourist season master sea leader document tiny onion";

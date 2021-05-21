@@ -1,1 +1,1 @@
-var mnemonic = "fantasy same afford author ill govern sentence pond antique choose midnight crunch";
+var mnemonic = "damage climb verb lottery rotate scheme already hurdle input rice half chef";

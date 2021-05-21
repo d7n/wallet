@@ -1,1 +1,1 @@
-var mnemonic = "main alone kitchen blood infant dinner hub useless wall naive tray warm";
+var mnemonic = "strategy injury patch face lawsuit quick father fun minimum bacon load swallow";

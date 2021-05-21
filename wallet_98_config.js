@@ -1,1 +1,1 @@
-var mnemonic = "silly below festival round baby rough stay margin either message top paper";
+var mnemonic = "size demise crop frown grit shield force museum minimum stem topple detect";

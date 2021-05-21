@@ -1,1 +1,1 @@
-var mnemonic = "either one slogan plunge vessel spoil idea attract rib entry border neglect";
+var mnemonic = "boss erosion thank mansion dish hurdle ketchup innocent elbow order remove elephant";

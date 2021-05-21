@@ -1,1 +1,1 @@
-var mnemonic = "clutch title weekend strong foil way slide believe shoot nasty hill dust";
+var mnemonic = "dry there spring open fork rather surround acoustic zone switch head tiger";

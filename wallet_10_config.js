@@ -1,1 +1,1 @@
-var mnemonic = "erase sustain clean miracle local company top benefit order wonder glass general";
+var mnemonic = "skull romance canvas frog soap rookie enter payment limit rug pottery coyote";

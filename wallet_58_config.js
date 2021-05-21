@@ -1,1 +1,1 @@
-var mnemonic = "aspect desk never alert announce almost domain car element suspect warfare elegant";
+var mnemonic = "blouse among reason kiss tissue base imitate stomach lend screen blush orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "point often purse laundry afraid obey cream ocean kiwi fly frown enforce";
+var mnemonic = "undo close trick tongue catalog vault slogan kind grab gym snow priority";

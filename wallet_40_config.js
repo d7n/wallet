@@ -1,1 +1,1 @@
-var mnemonic = "rather ahead nation nuclear diet ordinary material rich arrive jelly erosion scorpion";
+var mnemonic = "pencil slot panther artwork hundred kick resource narrow immense rose unlock price";

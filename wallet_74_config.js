@@ -1,1 +1,1 @@
-var mnemonic = "color sweet great zoo insect enhance bench party problem argue design helmet";
+var mnemonic = "satoshi web report merge silver happy laptop school census stem where fiction";

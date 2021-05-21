@@ -1,1 +1,1 @@
-var mnemonic = "will outer fork rookie mouse minute parade popular easily display gather gauge";
+var mnemonic = "swap expose lake affair soft runway vast add boy caught chef main";

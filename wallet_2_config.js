@@ -1,1 +1,1 @@
-var mnemonic = "hard layer detect basket royal riot segment large olive ecology mutual submit";
+var mnemonic = "cool tell dish certain grass nut area modify spy crunch one clean";

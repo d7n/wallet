@@ -1,1 +1,1 @@
-var mnemonic = "six million breeze truck food robust viable hazard admit shrimp amateur choice";
+var mnemonic = "brave lens throw mansion alien skill brother hand advice absurd ancient problem";

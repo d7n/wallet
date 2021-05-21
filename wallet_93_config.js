@@ -1,1 +1,1 @@
-var mnemonic = "key mechanic grief until lesson shrimp miss subway zoo desert swear cause";
+var mnemonic = "stairs light only loop this trip magnet genuine document pizza fiber monitor";

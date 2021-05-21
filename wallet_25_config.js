@@ -1,1 +1,1 @@
-var mnemonic = "boost hobby wise night swim viable clever person frog bulb strong gauge";
+var mnemonic = "version cross height immune speak load sheriff forward over ugly real cigar";

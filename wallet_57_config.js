@@ -1,1 +1,1 @@
-var mnemonic = "monster camp judge rely phone royal give federal tank enlist hollow cradle";
+var mnemonic = "decrease excuse atom visa body element meadow unit young kitten belt lawn";

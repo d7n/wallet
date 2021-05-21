@@ -1,1 +1,1 @@
-var mnemonic = "mosquito click burden april length inflict apology siege fall cream describe satoshi";
+var mnemonic = "polar another wing orient debate scan toss soap snake resemble route silly";

@@ -1,1 +1,1 @@
-var mnemonic = "phone drip depth swap swarm dirt category clever trust armor fitness access";
+var mnemonic = "random subject advice lecture grief point guitar toy recall lottery huge bronze";

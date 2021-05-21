@@ -1,1 +1,1 @@
-var mnemonic = "drink jealous else raccoon turtle holiday trigger bag cage ten garlic acoustic";
+var mnemonic = "illegal typical orbit device reason peanut nominee believe example carpet country hospital";

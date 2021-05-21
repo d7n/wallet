@@ -1,1 +1,1 @@
-var mnemonic = "shoe truly stock slice pattern proof pattern play scare brisk moral sugar";
+var mnemonic = "fuel sport record beauty clog peace salt lyrics cloth ability opera approve";

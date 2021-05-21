@@ -1,1 +1,1 @@
-var mnemonic = "boat lunch diesel client carbon pony method main erosion buffalo fan during";
+var mnemonic = "palm math muffin aware pretty cereal artist wave resemble play explain drama";

@@ -1,1 +1,1 @@
-var mnemonic = "argue bring track small monitor kind illness rebel normal metal void inflict";
+var mnemonic = "remember unit rigid leopard give edit profit project scissors invite dentist detail";

@@ -1,1 +1,1 @@
-var mnemonic = "whip capital coil whisper food burden dice solution year jacket kidney brown";
+var mnemonic = "denial cave violin number wolf arctic minor where clog almost struggle film";

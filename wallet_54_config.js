@@ -1,1 +1,1 @@
-var mnemonic = "already front wool impact alley shallow file any lounge sheriff attend agent";
+var mnemonic = "awful rough deputy immense fossil piano way taxi require ignore guide card";

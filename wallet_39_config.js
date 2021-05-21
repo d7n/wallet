@@ -1,1 +1,1 @@
-var mnemonic = "bachelor emerge system wonder cruise atom laundry ripple echo remember velvet false";
+var mnemonic = "neglect vibrant use winter fly scrap fury wool quantum tourist dawn once";

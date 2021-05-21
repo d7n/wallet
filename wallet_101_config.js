@@ -1,1 +1,1 @@
-var mnemonic = "enlist genius grief rebuild collect oil clap clap economy false wrap pattern";
+var mnemonic = "work fluid win injury chicken zebra bridge pyramid veteran debris mesh cost";

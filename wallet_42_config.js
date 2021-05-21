@@ -1,1 +1,1 @@
-var mnemonic = "people wheel endorse laundry foil grain educate below hospital tumble midnight trade";
+var mnemonic = "business offer arrest yellow fatigue slot wear lizard vocal master garbage soon";

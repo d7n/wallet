@@ -1,1 +1,1 @@
-var mnemonic = "just cart olive fiction task depend merry cargo sign baby skill bubble";
+var mnemonic = "finish crop lava adult gym sheriff major grit two window aware impose";

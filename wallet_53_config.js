@@ -1,1 +1,1 @@
-var mnemonic = "lend sense place early route beach vendor deliver six reason relax guess";
+var mnemonic = "alert walnut tray emerge scissors cash divide become glance add oblige cable";

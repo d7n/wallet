@@ -1,1 +1,1 @@
-var mnemonic = "high rural alter pause book safe cry before duck say measure common";
+var mnemonic = "hero tourist divorce soldier tomorrow cigar cupboard yard analyst deputy erode quarter";

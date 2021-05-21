@@ -1,1 +1,1 @@
-var mnemonic = "dose give prosper energy shadow essay stadium dynamic garage strike stock save";
+var mnemonic = "build anchor pool crack home race window spell onion increase potato arrow";

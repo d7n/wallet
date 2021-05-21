@@ -1,1 +1,1 @@
-var mnemonic = "vast success potato winner mom hint radar equal heart crane journey march";
+var mnemonic = "sample brave raven govern sudden spot arm group ethics fossil beyond sweet";

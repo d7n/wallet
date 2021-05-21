@@ -1,1 +1,1 @@
-var mnemonic = "program end exile access rubber leisure diamond wage bless spend sweet animal";
+var mnemonic = "van scatter insect vast also clump brave muffin raw ill best toe";

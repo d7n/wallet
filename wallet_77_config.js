@@ -1,1 +1,1 @@
-var mnemonic = "trim pony brisk burst joy large pause gospel fault visit witness elegant";
+var mnemonic = "marriage choice frost theme snow oven police crane salad hedgehog leaf assist";

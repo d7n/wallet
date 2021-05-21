@@ -1,1 +1,1 @@
-var mnemonic = "occur pen palace dragon cactus wedding blush swallow crack fine wage glad";
+var mnemonic = "rack figure once quarter skull liquid mind blue cattle office kite husband";

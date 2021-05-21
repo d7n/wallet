@@ -1,1 +1,1 @@
-var mnemonic = "finger oyster diagram survey crystal giraffe elegant transfer image vehicle shield gun";
+var mnemonic = "gaze caught dizzy devote mixed message push arrive decorate speed omit eagle";

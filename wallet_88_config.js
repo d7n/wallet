@@ -1,1 +1,1 @@
-var mnemonic = "icon noble color festival patch rival diamond spare era bacon split salon";
+var mnemonic = "omit dawn conduct damage exclude attend sting grow critic clinic whisper loud";

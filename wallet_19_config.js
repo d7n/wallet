@@ -1,1 +1,1 @@
-var mnemonic = "artist bubble pen obtain fly disorder deer manual slender damage judge vault";
+var mnemonic = "usage rebel shock wear demise book curtain cool display vivid term fitness";

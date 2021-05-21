@@ -1,1 +1,1 @@
-var mnemonic = "whip turkey assault control mesh kiwi evolve enjoy dice confirm collect evil";
+var mnemonic = "olympic bitter divorce exist swift minor denial bunker loyal lecture arch garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse fever surround funny flight inquiry alien swamp mail essay census diary";
+var mnemonic = "mix swift vapor verify afford lady crumble ski broccoli around vintage romance";

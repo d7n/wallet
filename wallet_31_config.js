@@ -1,1 +1,1 @@
-var mnemonic = "horse wonder odor own fresh travel frequent tray card unknown column student";
+var mnemonic = "story flag undo human resist sign fetch more slice time swarm bid";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal fatigue noise correct clarify current abandon label lecture velvet document gas";
+var mnemonic = "special post derive kid head cheap school squeeze atom chat leg run";
