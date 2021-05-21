@@ -1,1 +1,1 @@
-var mnemonic = "garlic imitate sentence success zebra fancy spice cup luxury attack seek peasant";
+var mnemonic = "remember planet next gallery swarm clarify mix fiscal say envelope gallery biology";

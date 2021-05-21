@@ -1,1 +1,1 @@
-var mnemonic = "design love target dice flag hungry trim fabric sword normal grace term";
+var mnemonic = "outside april admit impose allow nurse rhythm tobacco hamster cement car vivid";

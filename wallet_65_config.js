@@ -1,1 +1,1 @@
-var mnemonic = "nation lawn vast section steel garage skill enhance chat unique humor expand";
+var mnemonic = "wet few able female produce doll economy under casual balcony bacon two";

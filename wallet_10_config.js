@@ -1,1 +1,1 @@
-var mnemonic = "prevent train tree reward identify mistake delay cheese try helmet circle rubber";
+var mnemonic = "crystal autumn make huge thumb click mushroom bounce steel fuel enter pioneer";

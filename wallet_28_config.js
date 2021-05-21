@@ -1,1 +1,1 @@
-var mnemonic = "bulk dutch sea apple amazing delay rail ketchup mom shift nominee situate";
+var mnemonic = "dream monkey include pupil wreck any mom young innocent taxi negative nothing";

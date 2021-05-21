@@ -1,1 +1,1 @@
-var mnemonic = "clump canvas proof grace brand ecology decline erase dream canoe detect into";
+var mnemonic = "excuse announce regret giant wire used nice leisure tonight bitter child exit";

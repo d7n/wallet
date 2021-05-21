@@ -1,1 +1,1 @@
-var mnemonic = "night reason enter fiscal air kiwi quick income gravity dinosaur physical fit";
+var mnemonic = "vehicle avocado alley above spread exhibit bread whip script market radio belt";

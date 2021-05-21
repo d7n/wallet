@@ -1,1 +1,1 @@
-var mnemonic = "soap draft unique rural jelly gloom laugh donkey drill beach alcohol great";
+var mnemonic = "drink upgrade differ shrug lawsuit park electric mutual text social fatigue recall";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen permit spice panel airport velvet distance upon renew what horror toy";
+var mnemonic = "orange angry sugar deal express nature stomach negative fruit truly strategy file";

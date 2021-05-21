@@ -1,1 +1,1 @@
-var mnemonic = "wool athlete actual wait ribbon float grab organ nature filter retire secret";
+var mnemonic = "cherry start embrace uncle gun salad scale mercy fat melody split group";

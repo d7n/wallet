@@ -1,1 +1,1 @@
-var mnemonic = "genuine deliver soon couple forget clarify spider harsh then stable subject tobacco";
+var mnemonic = "subject shoulder own sugar census motor novel short follow corn buffalo first";

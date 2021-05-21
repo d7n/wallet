@@ -1,1 +1,1 @@
-var mnemonic = "prison hybrid nurse feed flip school march under auction gorilla trial quantum";
+var mnemonic = "gadget salmon fiction modify repair sheriff lecture episode cage police keen glass";

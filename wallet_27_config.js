@@ -1,1 +1,1 @@
-var mnemonic = "lock unveil bind direct rookie dismiss laundry silk shallow frozen assume flip";
+var mnemonic = "festival normal alien rug indoor fortune option spider swing room session dice";

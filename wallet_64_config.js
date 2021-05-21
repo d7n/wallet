@@ -1,1 +1,1 @@
-var mnemonic = "inform agree person rail volcano polar innocent inhale day fragile common dune";
+var mnemonic = "border return sail flat author gap train bulk fancy clip random pigeon";

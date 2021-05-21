@@ -1,1 +1,1 @@
-var mnemonic = "balcony place bunker bacon edit wink put smooth accident forget lunch search";
+var mnemonic = "crowd ski conduct distance echo smile wrestle typical boost exhibit jealous glare";

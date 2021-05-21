@@ -1,1 +1,1 @@
-var mnemonic = "wood discover whisper juice hockey unable mask pluck maple salad prosper file";
+var mnemonic = "burst evoke audit lecture ripple museum tumble better beef current exact smart";

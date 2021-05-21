@@ -1,1 +1,1 @@
-var mnemonic = "faint cable output inherit energy acquire chat mobile shiver nose mixed laptop";
+var mnemonic = "void sister ketchup maze miracle smart acoustic eye muscle lion imitate solid";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe reason attend alcohol minute pill mom smile damp tail unhappy twist";
+var mnemonic = "gravity animal defy define decade leg foam agree core year slam border";

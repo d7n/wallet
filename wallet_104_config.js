@@ -1,1 +1,1 @@
-var mnemonic = "aspect exist total pitch tattoo dinosaur ugly boat purchase pull put nominee";
+var mnemonic = "web success hazard script term story demise merry pair circle pill swear";

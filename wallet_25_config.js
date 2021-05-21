@@ -1,1 +1,1 @@
-var mnemonic = "culture invest evil proud board member fury there indoor twist illness radar";
+var mnemonic = "grief math shiver butter cart earn provide decline inch enter goose loan";

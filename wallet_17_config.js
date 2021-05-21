@@ -1,1 +1,1 @@
-var mnemonic = "easy sentence amazing angle secret work crucial casino artist reject rib coast";
+var mnemonic = "twin label speak jelly mixed soon great increase citizen host dress envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn enact wheat intact candy earth swallow install misery connect wealth dash";
+var mnemonic = "cannon suffer success onion friend embrace system trouble energy conduct off aspect";

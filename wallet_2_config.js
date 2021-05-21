@@ -1,1 +1,1 @@
-var mnemonic = "monkey rabbit annual foot demise fiber blanket marble excuse orchard ordinary lesson";
+var mnemonic = "imitate theory wine carbon gentle plunge behind answer abuse response lucky limit";

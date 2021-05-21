@@ -1,1 +1,1 @@
-var mnemonic = "outer sorry forest kiwi stumble discover gap regret obscure high club canvas";
+var mnemonic = "brass slice glance foil essay resist inner vital until case liquid reward";

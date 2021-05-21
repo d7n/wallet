@@ -1,1 +1,1 @@
-var mnemonic = "border myself wash such cook quick empty report bracket kid actor finish";
+var mnemonic = "tomorrow jump alcohol check thing much broccoli donkey sing equip scatter shoe";

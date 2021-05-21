@@ -1,1 +1,1 @@
-var mnemonic = "more lawn hill unfold pumpkin isolate around print clap cute bracket economy";
+var mnemonic = "choice manual poet ahead crane pill abstract spare forest gather squirrel poet";

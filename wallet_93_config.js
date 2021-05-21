@@ -1,1 +1,1 @@
-var mnemonic = "stereo husband brain unlock blouse next rally visit toss bullet pattern acid";
+var mnemonic = "gold symbol drop benefit fish mind phone crush vacant strike mom come";

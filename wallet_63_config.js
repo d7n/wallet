@@ -1,1 +1,1 @@
-var mnemonic = "ribbon tortoise twist donate sight hotel frequent wedding arrive address coast shop";
+var mnemonic = "science desk engage what index insane remember leg stool weather wolf mother";

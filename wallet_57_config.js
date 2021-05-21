@@ -1,1 +1,1 @@
-var mnemonic = "property city volume liar quit burden bamboo phrase crumble any nasty purchase";
+var mnemonic = "concert worry keep strong brush cream involve estate universe swing exercise buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "card effort amazing file this garage north setup hybrid noodle win vapor";
+var mnemonic = "embody crumble budget debate morning wait dry iron swing grass guard grocery";

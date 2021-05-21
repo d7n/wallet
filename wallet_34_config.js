@@ -1,1 +1,1 @@
-var mnemonic = "empty yellow word recall minimum siege birth life tribe during two replace";
+var mnemonic = "catalog slot bar juice ski blouse street palace car scorpion man like";

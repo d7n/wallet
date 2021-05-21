@@ -1,1 +1,1 @@
-var mnemonic = "tool distance say toast fruit lumber joke check spare shoot wedding nature";
+var mnemonic = "rack rapid suffer garbage lazy apology bacon cycle negative potato aerobic addict";

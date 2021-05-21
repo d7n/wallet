@@ -1,1 +1,1 @@
-var mnemonic = "reward waste filter noble course exit notable toe trigger magnet news roast";
+var mnemonic = "client orange rabbit east throw raven swear million swarm iron bottom universe";

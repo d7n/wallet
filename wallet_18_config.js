@@ -1,1 +1,1 @@
-var mnemonic = "rich pizza reward pistol weird grant chronic toss sample disagree hurt lend";
+var mnemonic = "tourist yellow rain keep slight trap equal spike disease ecology habit muscle";

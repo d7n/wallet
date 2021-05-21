@@ -1,1 +1,1 @@
-var mnemonic = "flower chuckle frame whale summer maze bean two sadness minute shove before";
+var mnemonic = "road bachelor powder anchor lazy uphold fog movie destroy solid attack field";

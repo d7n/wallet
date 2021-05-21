@@ -1,1 +1,1 @@
-var mnemonic = "mutual alone mandate ticket quick favorite shell scene diary december april purity";
+var mnemonic = "hurt mass chimney twelve easy core ordinary barely fox angle loyal vague";

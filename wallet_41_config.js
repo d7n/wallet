@@ -1,1 +1,1 @@
-var mnemonic = "disagree fine tattoo flip immune carbon else become pulse army supreme valve";
+var mnemonic = "govern start rely another blossom mechanic lab omit palace present cupboard expire";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh mention between dirt split soft exile unusual kite such choose enforce";
+var mnemonic = "correct obey ridge jazz olympic smoke theory battle bacon slim citizen approve";

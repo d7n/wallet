@@ -1,1 +1,1 @@
-var mnemonic = "garment check bright mountain urban prevent all worry replace neglect lounge woman";
+var mnemonic = "write put session retreat blame witness space repeat rhythm crane fly must";

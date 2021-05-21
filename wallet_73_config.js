@@ -1,1 +1,1 @@
-var mnemonic = "word sketch bracket vibrant chronic inject keen estate smart case spend bean";
+var mnemonic = "seek build denial phrase shed concert twist leave trap version swear portion";

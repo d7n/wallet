@@ -1,1 +1,1 @@
-var mnemonic = "van harvest slab margin can buffalo secret clerk there blanket garbage dry";
+var mnemonic = "room boil razor trip monkey unfair used trophy tourist leg addict spray";

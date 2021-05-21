@@ -1,1 +1,1 @@
-var mnemonic = "alert curtain exile track imitate pause distance someone neglect attract garden carry";
+var mnemonic = "escape range crystal earn beef relax inform cry hurry truck circle tooth";

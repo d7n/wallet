@@ -1,1 +1,1 @@
-var mnemonic = "picture huge waste fan tooth voice course festival labor version drip alone";
+var mnemonic = "else hero wasp victory collect faith foil boss almost betray whale egg";

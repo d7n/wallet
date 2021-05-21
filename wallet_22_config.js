@@ -1,1 +1,1 @@
-var mnemonic = "labor memory lunar toy certain canyon struggle fiction vacuum walnut believe mom";
+var mnemonic = "stem exchange lady spell sand organ laundry admit mixed season joy risk";

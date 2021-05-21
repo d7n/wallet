@@ -1,1 +1,1 @@
-var mnemonic = "all wet little soda own sense evidence jeans panic appear medal catch";
+var mnemonic = "neutral sugar width wine venture uncover shrug odor misery embrace gorilla thank";

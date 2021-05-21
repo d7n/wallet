@@ -1,1 +1,1 @@
-var mnemonic = "cabbage remind leave round old want inner sort skull border artist soul";
+var mnemonic = "sick whisper art seat cable erosion float cigar pipe border network six";

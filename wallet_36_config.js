@@ -1,1 +1,1 @@
-var mnemonic = "survey square snow differ patrol improve pyramid fiscal blame spider rude vicious";
+var mnemonic = "burden produce melody crisp where boss elevator account latin strategy dove slim";

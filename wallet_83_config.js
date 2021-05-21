@@ -1,1 +1,1 @@
-var mnemonic = "spot slight retreat mixture pepper vendor satisfy rail all supreme mechanic make";
+var mnemonic = "kid sting yellow fire drastic rocket glow boss tank busy waste shaft";

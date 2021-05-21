@@ -1,1 +1,1 @@
-var mnemonic = "pond material fat miss annual depart biology venue float dust fork mom";
+var mnemonic = "seed saddle abandon either border occur later salmon small frown picture credit";

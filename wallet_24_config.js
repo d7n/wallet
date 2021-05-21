@@ -1,1 +1,1 @@
-var mnemonic = "filter outside soda elbow fetch boat above catch shoe vessel differ brother";
+var mnemonic = "lens squirrel harbor tone symbol verify style umbrella car crystal valve among";

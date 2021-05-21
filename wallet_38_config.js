@@ -1,1 +1,1 @@
-var mnemonic = "force friend festival olympic eyebrow pond ribbon fence alcohol decade panther exact";
+var mnemonic = "since habit wait sunset regret pear abstract way spy height image enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon effort music execute barrel erode there melody infant gadget purse cook";
+var mnemonic = "pumpkin slam puppy runway mass illness hotel choice pass ability foil card";

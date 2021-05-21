@@ -1,1 +1,1 @@
-var mnemonic = "rally estate reveal fantasy accuse defense skill confirm insane vague prevent horse";
+var mnemonic = "vicious insect still refuse mouse work balance manual elite option intact road";

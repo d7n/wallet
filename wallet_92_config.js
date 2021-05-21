@@ -1,1 +1,1 @@
-var mnemonic = "trick armor proof tackle food enrich doctor indoor solve shift huge cereal";
+var mnemonic = "another jungle clarify cause decrease will speed level buddy coil also fix";

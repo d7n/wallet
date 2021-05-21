@@ -1,1 +1,1 @@
-var mnemonic = "water beach deliver like arm mammal result advice heavy wait pet pass";
+var mnemonic = "blue pluck return beef bracket grief march card assist foil cereal park";

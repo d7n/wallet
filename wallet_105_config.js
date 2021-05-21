@@ -1,1 +1,1 @@
-var mnemonic = "seminar rigid gather myself match plug stuff amused creek figure brush speed";
+var mnemonic = "laugh assault food cereal deliver subject idle diagram grain ice dream century";

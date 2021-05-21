@@ -1,1 +1,1 @@
-var mnemonic = "woman hollow inherit sibling party burst tree parent face mad assist salmon";
+var mnemonic = "hospital bridge program rebuild lawsuit donor just ghost mystery quantum casual myself";

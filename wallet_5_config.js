@@ -1,1 +1,1 @@
-var mnemonic = "gym glow bamboo wet rapid kiss dutch entry situate illegal debate hammer";
+var mnemonic = "romance news zebra mimic base permit enter symbol dilemma raccoon blouse today";

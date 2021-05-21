@@ -1,1 +1,1 @@
-var mnemonic = "original wet squirrel leg roast audit slow muffin between stick also audit";
+var mnemonic = "dutch relief divorce farm indicate horse rich express marine whale bag violin";

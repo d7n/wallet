@@ -1,1 +1,1 @@
-var mnemonic = "viable involve fitness talk gift anchor sunny describe elegant zoo share stay";
+var mnemonic = "fatigue escape edge whale seek radar feature planet front black town lawsuit";

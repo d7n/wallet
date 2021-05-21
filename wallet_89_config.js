@@ -1,1 +1,1 @@
-var mnemonic = "fitness canal universe same current clown praise venue wish accident about shove";
+var mnemonic = "cloud position attitude typical egg snow fatal trim mechanic disorder pigeon warrior";

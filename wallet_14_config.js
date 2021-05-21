@@ -1,1 +1,1 @@
-var mnemonic = "damp vapor stool fog man young vapor solution hill wonder clinic grab";
+var mnemonic = "luggage undo genius cute reward chief chimney rabbit produce stairs dial kitten";

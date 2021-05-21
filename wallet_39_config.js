@@ -1,1 +1,1 @@
-var mnemonic = "luxury rubber spatial donkey grant fork sustain access omit boat scheme empower";
+var mnemonic = "connect middle sail helmet canyon salon biology omit clinic eager mail addict";

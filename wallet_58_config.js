@@ -1,1 +1,1 @@
-var mnemonic = "maid hammer chunk tip almost purse gentle pattern canal delay speak security";
+var mnemonic = "enrich off soul exercise brush initial buzz tag capital liquid decorate bacon";

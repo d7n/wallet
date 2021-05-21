@@ -1,1 +1,1 @@
-var mnemonic = "early rather climb cabin item time skull now kidney silly space real";
+var mnemonic = "fancy hint sign urge coffee burden goat spin sell duty enjoy genuine";

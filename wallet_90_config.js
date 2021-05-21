@@ -1,1 +1,1 @@
-var mnemonic = "frequent recycle outside smart erosion uniform trophy legend song cherry child prefer";
+var mnemonic = "hand execute grant layer prosper middle dentist deer produce sting vibrant unfold";

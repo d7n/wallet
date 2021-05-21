@@ -1,1 +1,1 @@
-var mnemonic = "treat rigid fantasy gloom scrub attitude feature festival fancy use air occur";
+var mnemonic = "borrow unfold injury roof reward lab rival mosquito happy sphere victory reflect";

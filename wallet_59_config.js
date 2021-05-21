@@ -1,1 +1,1 @@
-var mnemonic = "neck insect wink random round choice ball also coyote debate pencil table";
+var mnemonic = "hint say tumble describe later cruel smile ranch sock banner avocado sister";

@@ -1,1 +1,1 @@
-var mnemonic = "gate pole symptom huge dawn grunt town scare adapt math evolve welcome";
+var mnemonic = "novel fossil ladder void rice jelly remember use priority brain essay inside";

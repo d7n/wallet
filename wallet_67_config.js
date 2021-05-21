@@ -1,1 +1,1 @@
-var mnemonic = "above stage possible update rain truly tower beauty kingdom zebra roast fan";
+var mnemonic = "enforce until cloud angry mercy wrestle say sand tip lounge transfer auto";

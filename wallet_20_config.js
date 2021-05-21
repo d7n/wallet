@@ -1,1 +1,1 @@
-var mnemonic = "today apart feel burst mushroom gown obtain balance moon spread rocket cabin";
+var mnemonic = "loan track dumb laundry prevent canal fiction maximum hero gossip frame hip";

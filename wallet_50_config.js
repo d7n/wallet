@@ -1,1 +1,1 @@
-var mnemonic = "three polar isolate own pulp resist goddess pigeon phrase mercy gas embark";
+var mnemonic = "mass mule neither mango urban solution favorite runway absorb capable patrol celery";

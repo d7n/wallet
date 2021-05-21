@@ -1,1 +1,1 @@
-var mnemonic = "dice diet approve clog random dress smoke announce enhance bean tortoise motion";
+var mnemonic = "april asset ice inform wire also invite embrace pluck idle fee emerge";

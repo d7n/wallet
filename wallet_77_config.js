@@ -1,1 +1,1 @@
-var mnemonic = "elegant area deal rubber version nasty photo spread reduce vocal trend stool";
+var mnemonic = "such puppy ship boat lamp calm cram adjust liberty area once olympic";

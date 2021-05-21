@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fury exchange plunge member hedgehog music custom result ball tree sign";
+var mnemonic = "tide interest divorce subway blind alien matter judge tornado minor diagram lift";

@@ -1,1 +1,1 @@
-var mnemonic = "because inch sudden flash task color midnight brass emerge rival good field";
+var mnemonic = "shuffle canal behave just cable obey stay relax face clinic lake artwork";

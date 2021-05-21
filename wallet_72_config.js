@@ -1,1 +1,1 @@
-var mnemonic = "nest picnic delay nuclear joy smoke bless calm focus panic peace faint";
+var mnemonic = "idea voice crumble vehicle document crane leaf spell vault wool custom also";

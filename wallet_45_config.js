@@ -1,1 +1,1 @@
-var mnemonic = "short change avoid satisfy inquiry polar live blur math indicate hero work";
+var mnemonic = "meadow direct tooth dog order immune innocent clerk blush burst muscle fatigue";

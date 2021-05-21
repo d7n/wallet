@@ -1,1 +1,1 @@
-var mnemonic = "vote curve payment cabin country wet window goose glory dizzy cannon curve";
+var mnemonic = "tank planet belt fitness camera cabbage bracket solve kidney coast fire antique";

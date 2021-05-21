@@ -1,1 +1,1 @@
-var mnemonic = "live similar dutch daughter nerve pizza need work veteran engage twenty wire";
+var mnemonic = "laundry among mad smile fame cheese boost jealous fix cross obvious pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil mad spin zero phrase video noble actual ranch limit six chunk";
+var mnemonic = "jar degree brief pyramid nephew damage hold rifle earn kangaroo firm celery";

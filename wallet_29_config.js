@@ -1,1 +1,1 @@
-var mnemonic = "behind theory enact easy weird warfare absurd forward few bulb smoke bounce";
+var mnemonic = "cement curious pool notable indicate rapid roast gadget wide found tackle demand";

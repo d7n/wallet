@@ -1,1 +1,1 @@
-var mnemonic = "rose view horse slush wisdom wheat install idle stomach royal control unaware";
+var mnemonic = "hard party nothing omit table play merge adapt crazy pigeon prepare flip";

@@ -1,1 +1,1 @@
-var mnemonic = "payment execute inherit plastic obey zebra legend swift brown sell hospital feature";
+var mnemonic = "robot small predict quick either sorry produce donkey cluster dirt across final";

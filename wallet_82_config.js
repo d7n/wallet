@@ -1,1 +1,1 @@
-var mnemonic = "despair obvious accident inherit join ecology auto stomach judge stem left near";
+var mnemonic = "pulse trash real between olive fire rich chuckle roof swim unknown round";

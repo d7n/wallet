@@ -1,1 +1,1 @@
-var mnemonic = "lava also essence salute course joke goose addict extend gather kingdom frequent";
+var mnemonic = "dolphin gather rotate crunch eye century woman bounce airport magic liquid foil";

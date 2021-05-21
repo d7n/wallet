@@ -1,1 +1,1 @@
-var mnemonic = "hen install all settle night organ midnight truck glad elegant ankle lottery";
+var mnemonic = "deny palm slogan layer island steak leg gown ship zebra teach present";
