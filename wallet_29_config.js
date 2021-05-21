@@ -1,1 +1,1 @@
-var mnemonic = "duck source injury odor club half eyebrow vocal save west civil silly";
+var mnemonic = "lake helmet damp faint hello orient guard they tray trophy strategy age";

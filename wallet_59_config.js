@@ -1,1 +1,1 @@
-var mnemonic = "people badge dignity target announce tattoo winter worth predict range prosper nature";
+var mnemonic = "sword draft lake bulk quantum assume wool hazard cushion match stereo evidence";

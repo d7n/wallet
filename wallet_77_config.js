@@ -1,1 +1,1 @@
-var mnemonic = "traffic calm accident asthma call course artefact segment crisp message ceiling town";
+var mnemonic = "unfold surround hello brave figure orbit comfort poverty limit resist about muffin";

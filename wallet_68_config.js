@@ -1,1 +1,1 @@
-var mnemonic = "calm light screen adjust glare fade where ghost grow pet loud noble";
+var mnemonic = "large glide stable that gym ranch neck claw cycle pull ghost ensure";

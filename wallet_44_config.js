@@ -1,1 +1,1 @@
-var mnemonic = "check wish lawsuit prize copper inflict skill spread spirit file other boring";
+var mnemonic = "evoke engine have ordinary hood vacuum couple taxi curve deny pride outer";

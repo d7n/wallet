@@ -1,1 +1,1 @@
-var mnemonic = "crush deal venue exhibit candy nature define august stick okay usage neutral";
+var mnemonic = "what genre nephew way injury total stable snake sphere pipe noble tail";

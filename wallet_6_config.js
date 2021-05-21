@@ -1,1 +1,1 @@
-var mnemonic = "when urban evolve execute jelly trade spread exotic zebra beach alone special";
+var mnemonic = "useless sea wasp token process door timber flash permit anchor search ignore";

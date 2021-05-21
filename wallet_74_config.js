@@ -1,1 +1,1 @@
-var mnemonic = "air apart ridge ring glory enter mail dose agent length food uphold";
+var mnemonic = "crisp verb canal fiction awkward couple outdoor believe correct drift boring audit";

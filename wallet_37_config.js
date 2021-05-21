@@ -1,1 +1,1 @@
-var mnemonic = "initial ready cruel hawk tomorrow boil appear teach minute device peasant yard";
+var mnemonic = "glimpse merge auction club sound bleak sand material short insane scatter miracle";

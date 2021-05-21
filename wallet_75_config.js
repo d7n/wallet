@@ -1,1 +1,1 @@
-var mnemonic = "blouse online symptom visa joke cement purse fix flame observe jelly garbage";
+var mnemonic = "horse topple glare humor age message service finish ahead antenna garden popular";

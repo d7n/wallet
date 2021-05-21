@@ -1,1 +1,1 @@
-var mnemonic = "rich peasant call give two approve solid topple maid anchor video author";
+var mnemonic = "below shuffle habit loan hero country fragile vintage thought energy empower urge";

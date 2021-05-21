@@ -1,1 +1,1 @@
-var mnemonic = "flag ticket bone trigger print hole mandate weekend citizen pulp gadget tide";
+var mnemonic = "token measure eight grit matrix high prize spoon concert attack client autumn";

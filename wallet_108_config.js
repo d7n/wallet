@@ -1,1 +1,1 @@
-var mnemonic = "bid wrist sail cable inspire wage network silk manage armed sea sheriff";
+var mnemonic = "mail sea vacant antique person hello error shiver search spoil elite giggle";

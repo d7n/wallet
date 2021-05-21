@@ -1,1 +1,1 @@
-var mnemonic = "purse stay avocado blast chest cereal soul rough blind car science ignore";
+var mnemonic = "strike member harvest wink trade parrot scissors alcohol toilet sadness market relief";

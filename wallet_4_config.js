@@ -1,1 +1,1 @@
-var mnemonic = "scatter good ocean weasel actual zone top forward ceiling range tube truth";
+var mnemonic = "panda grace opera harvest kind range foil pear million scheme shoulder own";

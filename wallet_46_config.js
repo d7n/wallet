@@ -1,1 +1,1 @@
-var mnemonic = "hip course fork nut hip nephew moral keen dream hurry enroll another";
+var mnemonic = "grocery trade ill kick actor sting federal lounge crater mean dance dad";

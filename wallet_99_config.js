@@ -1,1 +1,1 @@
-var mnemonic = "outside voice fade flight pact actual dove account blue secret mansion describe";
+var mnemonic = "color never world motion nothing please club lava reveal design solid pilot";

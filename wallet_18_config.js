@@ -1,1 +1,1 @@
-var mnemonic = "settle lemon close valid library upgrade chalk thumb paddle erosion medal grain";
+var mnemonic = "balcony avocado genre elegant midnight between tenant patient heart ball pull oyster";

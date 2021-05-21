@@ -1,1 +1,1 @@
-var mnemonic = "laundry maid prize symbol alter grunt proud city measure awkward hobby chaos";
+var mnemonic = "always athlete tell attitude junk season easy evoke focus olympic nest reject";

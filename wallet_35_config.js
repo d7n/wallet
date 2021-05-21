@@ -1,1 +1,1 @@
-var mnemonic = "cave nuclear use park salmon denial exile account calm bacon chair maple";
+var mnemonic = "actor derive endless across slow move state chapter canyon pole light symbol";

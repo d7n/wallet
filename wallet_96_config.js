@@ -1,1 +1,1 @@
-var mnemonic = "suit canoe juice adapt illegal cancel glad hero vacuum office lift current";
+var mnemonic = "borrow cruise silk catalog smoke virus region fish imitate waste alone rotate";

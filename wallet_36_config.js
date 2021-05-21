@@ -1,1 +1,1 @@
-var mnemonic = "note model pear account sword curve fly detect scatter flavor aisle now";
+var mnemonic = "breeze doctor spirit canoe reveal use battle lava source name scrub diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "search raven during dizzy enter trigger edit upset economy advance area actress";
+var mnemonic = "card among relax three step bus subject clock brush inhale earth license";

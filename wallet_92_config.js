@@ -1,1 +1,1 @@
-var mnemonic = "advance mutual loan galaxy ankle else bundle cat next explain ritual wealth";
+var mnemonic = "strike usage angry select shrug smile elbow belt enable give shed lake";

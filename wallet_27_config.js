@@ -1,1 +1,1 @@
-var mnemonic = "forget lucky endless minimum circle brass dwarf tooth recycle relief canoe library";
+var mnemonic = "young captain assist awkward royal own laptop object ask ridge wave bracket";

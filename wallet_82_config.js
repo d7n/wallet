@@ -1,1 +1,1 @@
-var mnemonic = "flame nut cotton loan erode earn end assume there dirt furnace turkey";
+var mnemonic = "rhythm beyond fetch erode calm layer afraid easy around jelly skirt ring";

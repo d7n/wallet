@@ -1,1 +1,1 @@
-var mnemonic = "remind dog carpet divide address stairs person churn silly network gather lumber";
+var mnemonic = "eternal upper crouch oppose hold they penalty lawsuit river twelve picture weapon";

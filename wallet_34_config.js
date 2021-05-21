@@ -1,1 +1,1 @@
-var mnemonic = "craft change goddess course pulp carpet suggest promote case negative stomach cannon";
+var mnemonic = "wool merit front cloth cable ski stable tray trim layer wonder excuse";

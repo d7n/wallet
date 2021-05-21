@@ -1,1 +1,1 @@
-var mnemonic = "test image parent museum convince curtain royal stone urge oil food smooth";
+var mnemonic = "admit split couch trend inquiry deal anchor deer item off desert toast";

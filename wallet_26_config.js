@@ -1,1 +1,1 @@
-var mnemonic = "genuine accident lemon glass drive lawn stadium near attract ring slam arctic";
+var mnemonic = "lesson virus lawsuit lottery fever hour riot regular aerobic since ranch cave";

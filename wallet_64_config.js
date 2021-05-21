@@ -1,1 +1,1 @@
-var mnemonic = "april patch suggest wait since popular agent bottom child result master toss";
+var mnemonic = "napkin biology say refuse hello palm joy coconut render play junior maid";

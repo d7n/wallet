@@ -1,1 +1,1 @@
-var mnemonic = "public deliver bonus parent dawn gorilla inspire drastic letter rebuild cliff uniform";
+var mnemonic = "pear loud rescue away rigid chef view fancy subway still gown exchange";

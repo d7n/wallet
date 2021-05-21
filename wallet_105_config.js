@@ -1,1 +1,1 @@
-var mnemonic = "sail draft timber jacket enable range pass interest detect best screen problem";
+var mnemonic = "mimic almost body venture afford harbor feel misery boy rare carpet sad";

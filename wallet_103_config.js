@@ -1,1 +1,1 @@
-var mnemonic = "hip trap innocent exist save lion false note bag use door vessel";
+var mnemonic = "copper tail reward grid pear random ramp sock cover rural steak actor";

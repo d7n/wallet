@@ -1,1 +1,1 @@
-var mnemonic = "ghost write night ribbon hair dwarf bicycle retire swallow convince drastic curious";
+var mnemonic = "trigger violin spy pet cup target draw half move depth unhappy cannon";

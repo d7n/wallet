@@ -1,1 +1,1 @@
-var mnemonic = "inmate river skate mango aware conduct cake whale arena choose maid island";
+var mnemonic = "melody wage work enter crucial wrist gravity volume occur skirt flip category";

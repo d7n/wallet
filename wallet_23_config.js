@@ -1,1 +1,1 @@
-var mnemonic = "tiger current entire hub cushion umbrella make cry mix race swap hybrid";
+var mnemonic = "february seven replace refuse person memory exclude dumb urban license salmon olympic";

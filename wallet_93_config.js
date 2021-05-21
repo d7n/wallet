@@ -1,1 +1,1 @@
-var mnemonic = "end fantasy chunk parent top actor purse property ten ribbon allow movie";
+var mnemonic = "shock license claim tube tooth hard pelican broccoli sell crucial choice spatial";

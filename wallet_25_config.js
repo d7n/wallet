@@ -1,1 +1,1 @@
-var mnemonic = "sock recycle grain proof grape smoke wasp cup punch peanut position surge";
+var mnemonic = "squeeze polar veteran worth drive egg zoo table limb wisdom year crunch";

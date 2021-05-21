@@ -1,1 +1,1 @@
-var mnemonic = "dinner eight blame erase amazing fame suit annual another fade choose bleak";
+var mnemonic = "acoustic expand ship story patient flock guitar nothing gap actress shell parade";

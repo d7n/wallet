@@ -1,1 +1,1 @@
-var mnemonic = "hint suspect fall decrease deposit student tumble aware holiday hip recipe collect";
+var mnemonic = "hedgehog tuition duty innocent degree spirit squeeze trust cradle sleep nuclear actual";

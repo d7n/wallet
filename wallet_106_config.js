@@ -1,1 +1,1 @@
-var mnemonic = "charge cook cable mother apology crazy edit benefit lazy company have cube";
+var mnemonic = "jump come tell animal scale hamster because jelly decrease apart elegant kitchen";

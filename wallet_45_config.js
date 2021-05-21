@@ -1,1 +1,1 @@
-var mnemonic = "jaguar shoe bamboo crush expand venue day friend alpha country fortune decline";
+var mnemonic = "turtle indoor flavor bench cherry pottery ranch sweet place begin eagle chronic";

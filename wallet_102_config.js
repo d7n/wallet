@@ -1,1 +1,1 @@
-var mnemonic = "weather knee mammal situate inquiry chimney cheese veteran baby inject skin entire";
+var mnemonic = "tail squeeze rally stairs melody shiver prize sense figure certain bunker bright";

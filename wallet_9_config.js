@@ -1,1 +1,1 @@
-var mnemonic = "canyon man law allow rhythm cousin filter exist distance panther morning resemble";
+var mnemonic = "crazy fish deputy island protect skate apple hidden gauge small disagree maze";

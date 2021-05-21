@@ -1,1 +1,1 @@
-var mnemonic = "abstract armed awesome wire boring mom injury busy online apple bread region";
+var mnemonic = "truck urge expand card economy sadness diary connect pepper disease frost season";

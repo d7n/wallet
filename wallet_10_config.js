@@ -1,1 +1,1 @@
-var mnemonic = "ecology share fish reflect genre satoshi retire outer addict dad flag material";
+var mnemonic = "toward lonely author toy position damage raw sunset defy smoke shell warfare";

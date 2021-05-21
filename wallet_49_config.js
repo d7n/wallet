@@ -1,1 +1,1 @@
-var mnemonic = "ask ability kick chimney thank program bonus evolve sea evoke plate resist";
+var mnemonic = "syrup trap street dilemma poem excite blood sunny spider physical bargain sentence";

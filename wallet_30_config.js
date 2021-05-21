@@ -1,1 +1,1 @@
-var mnemonic = "cousin tail quick suspect way buffalo issue cover discover spoon bind give";
+var mnemonic = "aspect first mistake churn excuse word ancient master this taxi usual enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond scan mouse pair effort yard slender paddle lyrics regret surface empower";
+var mnemonic = "fresh mosquito student legend body review orbit update ceiling tumble yard crack";

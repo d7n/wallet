@@ -1,1 +1,1 @@
-var mnemonic = "smart crystal flight staff debate kite reform ensure lawn dinosaur eyebrow rare";
+var mnemonic = "river weekend disease slender egg tortoise control gate sword mistake clarify student";

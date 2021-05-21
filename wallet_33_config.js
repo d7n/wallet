@@ -1,1 +1,1 @@
-var mnemonic = "near clutch father river motion truth faint they detail lend problem cave";
+var mnemonic = "print bachelor trust fossil struggle pilot knife action celery split cover occur";

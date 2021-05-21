@@ -1,1 +1,1 @@
-var mnemonic = "price all october clinic file rotate baby wheel chaos this junk between";
+var mnemonic = "wasp dose swear ivory siege carpet raccoon approve welcome second carry design";

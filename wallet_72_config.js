@@ -1,1 +1,1 @@
-var mnemonic = "video solar whip jealous taxi laundry snake fish inject push clay hen";
+var mnemonic = "bundle rude ball tooth denial kingdom gadget drama margin race cotton quick";

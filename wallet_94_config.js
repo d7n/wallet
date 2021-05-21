@@ -1,1 +1,1 @@
-var mnemonic = "trigger twelve until parrot wagon ripple fish mutual apart wasp music anxiety";
+var mnemonic = "acid use recipe timber response solar fee couple quit awesome issue clever";

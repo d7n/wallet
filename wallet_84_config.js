@@ -1,1 +1,1 @@
-var mnemonic = "derive same debate news cabbage injury clap welcome million flower mind index";
+var mnemonic = "analyst endorse share gather waste awkward when elevator demand combine clean camera";

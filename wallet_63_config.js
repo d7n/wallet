@@ -1,1 +1,1 @@
-var mnemonic = "abstract crawl refuse whip own session manual grape security enforce melody report";
+var mnemonic = "identify text emotion urge trouble arctic title bronze marine brief degree mother";

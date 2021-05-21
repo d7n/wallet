@@ -1,1 +1,1 @@
-var mnemonic = "vehicle little raccoon battle know pudding city body potato chair allow bottom";
+var mnemonic = "flavor soda inflict firm short brave fee wave cash rhythm february invite";

@@ -1,1 +1,1 @@
-var mnemonic = "firm relief ordinary size jelly turn act crime hole vibrant ill aim";
+var mnemonic = "ribbon roast unfair affair anger since lady civil state favorite employ retire";

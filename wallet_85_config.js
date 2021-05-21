@@ -1,1 +1,1 @@
-var mnemonic = "chicken claw abandon keen mad limit pair crystal donor pottery mushroom result";
+var mnemonic = "narrow unable clock surface base love agree swarm menu amazing index nature";

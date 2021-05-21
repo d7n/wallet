@@ -1,1 +1,1 @@
-var mnemonic = "trim make solution buyer tumble sister sunset early satisfy people circle sun";
+var mnemonic = "gift mechanic hole pave design depth stomach bar fork brisk swim marriage";

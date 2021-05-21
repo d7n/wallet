@@ -1,1 +1,1 @@
-var mnemonic = "profit pink satisfy metal lottery hen sea left decrease loan bronze duck";
+var mnemonic = "rate moment finger solution father route hidden champion cruel siren labor prefer";

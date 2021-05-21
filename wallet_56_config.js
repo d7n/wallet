@@ -1,1 +1,1 @@
-var mnemonic = "spirit cross spray canvas photo rotate ice antique segment bleak visa minute";
+var mnemonic = "must furnace outdoor speed flee frame nurse finish hip picture pass obvious";

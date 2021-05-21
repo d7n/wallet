@@ -1,1 +1,1 @@
-var mnemonic = "acid clutch swear ghost cactus retire stool bright absent vendor undo phrase";
+var mnemonic = "furnace praise decorate moment bring blame label outdoor frozen fault silent churn";

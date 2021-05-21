@@ -1,1 +1,1 @@
-var mnemonic = "kiss crowd surface term tree wine trial nice scene bless vital grocery";
+var mnemonic = "number sock tag fresh gasp still have salmon juice slender anchor renew";

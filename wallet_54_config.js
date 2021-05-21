@@ -1,1 +1,1 @@
-var mnemonic = "anger post high unaware injury ivory false essence nice away move pill";
+var mnemonic = "buzz rural cute peanut talent resource spike step debris aisle trap tiny";

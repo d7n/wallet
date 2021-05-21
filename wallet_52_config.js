@@ -1,1 +1,1 @@
-var mnemonic = "genius leisure frequent meat wise service daughter life second below volume organ";
+var mnemonic = "border giggle vintage two stand hello estate fun physical dry usual explain";

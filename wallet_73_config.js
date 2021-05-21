@@ -1,1 +1,1 @@
-var mnemonic = "craft emerge size clarify credit spike merry couple churn glove brush expect";
+var mnemonic = "entire demand nut adapt only gadget hurdle dress gasp river hammer lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "diary carbon clap actress point cheese learn spread daughter cloud arrow butter";
+var mnemonic = "talent hotel valve faculty number century quality topple swap valid amateur rice";

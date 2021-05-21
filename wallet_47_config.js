@@ -1,1 +1,1 @@
-var mnemonic = "domain club suit eyebrow special resemble minor slam edge human okay forum";
+var mnemonic = "scare combine time icon hawk deposit ritual squeeze mention water symptom wasp";

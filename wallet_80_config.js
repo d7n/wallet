@@ -1,1 +1,1 @@
-var mnemonic = "anxiety shoe hungry alcohol high rail trap chimney notice aspect embrace exile";
+var mnemonic = "clip install ritual fantasy alley hundred shaft scorpion assault voice antenna change";

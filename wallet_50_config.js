@@ -1,1 +1,1 @@
-var mnemonic = "cloud limb confirm gauge salon athlete coyote inform naive this obtain arrest";
+var mnemonic = "giggle trend indicate flight year ranch grape route dream craft quality cost";

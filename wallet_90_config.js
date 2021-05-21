@@ -1,1 +1,1 @@
-var mnemonic = "shock loud rail deliver riot river jeans cart noble universe decorate snow";
+var mnemonic = "auction equal enhance direct illness glance sound wise black search put brass";

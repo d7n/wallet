@@ -1,1 +1,1 @@
-var mnemonic = "bronze casual bike taste fire fiber render december battle multiply eternal battle";
+var mnemonic = "draft begin muscle vanish duck crane vibrant fix van spin hollow small";

@@ -1,1 +1,1 @@
-var mnemonic = "patient owner excite urge enjoy family journey quick trash diamond trial wide";
+var mnemonic = "rhythm high cargo require bring unaware federal day close hotel spice reveal";

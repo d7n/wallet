@@ -1,1 +1,1 @@
-var mnemonic = "glare tide leaf paddle trim dignity kid bonus foot certain this hawk";
+var mnemonic = "bachelor puppy dentist jeans expand super tape stomach arrange fever large stem";

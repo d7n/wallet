@@ -1,1 +1,1 @@
-var mnemonic = "invite increase result travel sibling head diagram deal easily globe dawn travel";
+var mnemonic = "lava fiscal mobile tiger code warrior attitude enlist raise avocado giraffe door";

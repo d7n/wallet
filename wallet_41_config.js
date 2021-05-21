@@ -1,1 +1,1 @@
-var mnemonic = "punch scissors happy false candy worry nest enemy guide october pupil public";
+var mnemonic = "only regret scout victory maid trial twice donor snake pipe tooth equal";

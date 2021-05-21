@@ -1,1 +1,1 @@
-var mnemonic = "junior cute rail lens airport gain fragile moment drink gate fish butter";
+var mnemonic = "age skull pepper potato act brass fish harvest idea dad hidden slim";

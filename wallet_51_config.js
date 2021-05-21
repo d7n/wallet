@@ -1,1 +1,1 @@
-var mnemonic = "half spell time citizen grain soul cost oil sleep coyote pluck gold";
+var mnemonic = "spray guitar cricket guilt prefer test cave special snack virtual depart flight";

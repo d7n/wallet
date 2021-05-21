@@ -1,1 +1,1 @@
-var mnemonic = "unique wheel couch mandate train silent custom shuffle patient fabric bind blouse";
+var mnemonic = "guess shrug alter sing school poet physical flush couple rail rose primary";

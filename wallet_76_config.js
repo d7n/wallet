@@ -1,1 +1,1 @@
-var mnemonic = "spoon zoo occur box token monster section isolate galaxy digital clog crazy";
+var mnemonic = "solar toe poverty blind possible mushroom young simple merit live two recipe";

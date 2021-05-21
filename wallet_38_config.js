@@ -1,1 +1,1 @@
-var mnemonic = "mosquito learn feed worry sort brown rapid sad mother pact marble syrup";
+var mnemonic = "nation viable witness matter medal announce coach deer discover gossip empower coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor stage front gold jungle robot caught million hole milk this ill";
+var mnemonic = "produce edit announce funny impact peasant enrich ride develop emotion quarter short";

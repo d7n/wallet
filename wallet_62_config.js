@@ -1,1 +1,1 @@
-var mnemonic = "elevator tray profit matrix key index final north gold crunch accident rigid";
+var mnemonic = "range common silent mesh curtain swamp wrist crush fresh carbon pioneer fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi clump inject crawl typical camera faculty smile metal evolve salon solar";
+var mnemonic = "side print require worth live thing globe army unique surround slot wear";

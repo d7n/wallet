@@ -1,1 +1,1 @@
-var mnemonic = "typical noise crystal legal apology evidence fortune proud monkey occur upper trigger";
+var mnemonic = "educate bird sunset large egg gravity have tip off interest crisp kite";

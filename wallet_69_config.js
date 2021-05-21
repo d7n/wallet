@@ -1,1 +1,1 @@
-var mnemonic = "large snap runway banana daring fix wrong fetch reflect faculty leaf faith";
+var mnemonic = "battle time eternal number history relax elegant elbow giraffe blame script quarter";

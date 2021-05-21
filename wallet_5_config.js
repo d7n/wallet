@@ -1,1 +1,1 @@
-var mnemonic = "wish trouble fever shed artefact drift faculty spray concert acoustic original acid";
+var mnemonic = "unknown dish scout relief visit announce silent spice cart check judge member";

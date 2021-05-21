@@ -1,1 +1,1 @@
-var mnemonic = "blur creek around scout gown run biology eagle combine intact street hawk";
+var mnemonic = "hour agree virus stable awake spawn friend possible divide salt expand tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch galaxy dish omit blanket rule material raccoon fine latin intact major";
+var mnemonic = "outer fix they flavor appear neglect swear atom defy shoot raven throw";

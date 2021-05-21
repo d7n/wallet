@@ -1,1 +1,1 @@
-var mnemonic = "curve equip worry spoil suspect gossip alpha dance arrow history canyon orient";
+var mnemonic = "better all output gap affair misery carpet dress plunge phrase repair month";

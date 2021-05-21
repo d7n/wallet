@@ -1,1 +1,1 @@
-var mnemonic = "weasel slim bench cement rapid cave wealth hope scale cause flock pyramid";
+var mnemonic = "mad gorilla ranch because ribbon jump fruit tongue salute shock stool attack";

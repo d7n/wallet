@@ -1,1 +1,1 @@
-var mnemonic = "lecture always same slab float rather dawn marine polar hour provide add";
+var mnemonic = "hero protect web all disorder fan replace diesel mimic then engage brick";

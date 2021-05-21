@@ -1,1 +1,1 @@
-var mnemonic = "recycle ahead lonely climb lounge blade fat arrow shaft vessel mansion stage";
+var mnemonic = "axis inhale lava market bring festival shift over rack basic layer sword";

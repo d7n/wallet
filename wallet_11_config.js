@@ -1,1 +1,1 @@
-var mnemonic = "boost valley clerk major wrong history pulse blanket inhale defense jaguar spin";
+var mnemonic = "anger ball caution near inflict detect nose buddy symptom asset news chase";
