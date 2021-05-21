@@ -1,1 +1,1 @@
-var mnemonic = "path toy birth brush urban junior foam visa reveal humble dismiss blouse";
+var mnemonic = "dish sail target prosper reflect fruit snap come miss run soft stage";

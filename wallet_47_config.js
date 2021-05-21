@@ -1,1 +1,1 @@
-var mnemonic = "casino orchard limit firm review sand meat sudden glance degree exact apart";
+var mnemonic = "syrup search ritual fury crime wage rude file very mixture furnace artist";

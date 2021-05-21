@@ -1,1 +1,1 @@
-var mnemonic = "beach devote end aerobic spice warrior call energy seek kingdom lunch robust";
+var mnemonic = "arch vote alone subject sand weasel crop panther army patient fiction donkey";

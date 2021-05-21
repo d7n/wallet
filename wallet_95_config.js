@@ -1,1 +1,1 @@
-var mnemonic = "wife frost rail gain click resemble gravity still attract divorce garment clay";
+var mnemonic = "nature grass lab claw helmet walk uniform shock recall gorilla require snow";

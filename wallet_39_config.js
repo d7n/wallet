@@ -1,1 +1,1 @@
-var mnemonic = "unaware flip minute skirt current enjoy motor movie wolf panther best empty";
+var mnemonic = "receive autumn estate what gym target same couch essence area stick stool";

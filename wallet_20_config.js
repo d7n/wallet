@@ -1,1 +1,1 @@
-var mnemonic = "hospital away pen express weekend screen step session current kitchen switch real";
+var mnemonic = "risk honey shell absent more cabin response fashion wave tail state vote";

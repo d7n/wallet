@@ -1,1 +1,1 @@
-var mnemonic = "wall certain artwork smart portion ask potato come vague member measure feature";
+var mnemonic = "giant wheel wife exchange inch ceiling flavor library usual crystal strong stomach";

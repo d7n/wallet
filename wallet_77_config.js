@@ -1,1 +1,1 @@
-var mnemonic = "tattoo dizzy portion barrel fruit shift sponsor special cube sorry remember sell";
+var mnemonic = "choose choice round tired guess clinic camp love embrace notable claim neck";

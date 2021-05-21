@@ -1,1 +1,1 @@
-var mnemonic = "select trophy mean stomach panda famous devote series offer man balance tackle";
+var mnemonic = "merge carpet hurt make cargo strong market athlete waste occur demand can";

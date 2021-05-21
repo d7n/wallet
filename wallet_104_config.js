@@ -1,1 +1,1 @@
-var mnemonic = "increase exhibit rubber suggest about paddle faint select artefact good rigid timber";
+var mnemonic = "echo ripple stage swarm physical solid shallow grief box illegal rude trick";

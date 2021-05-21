@@ -1,1 +1,1 @@
-var mnemonic = "speed heavy retire detect math rigid satoshi robust cancel impulse regret couple";
+var mnemonic = "despair design hazard body lion art elite buffalo dune sad twist verify";

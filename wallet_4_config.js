@@ -1,1 +1,1 @@
-var mnemonic = "hire screen occur tiger weapon noise humble dignity region picture skill blue";
+var mnemonic = "junk unhappy mimic all round knock cushion solid long tennis celery great";

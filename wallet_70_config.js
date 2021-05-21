@@ -1,1 +1,1 @@
-var mnemonic = "limit wagon sense rack soldier wedding focus seminar silk feed unit idea";
+var mnemonic = "okay bacon move during celery initial orbit civil mesh stumble museum grunt";

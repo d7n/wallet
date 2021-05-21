@@ -1,1 +1,1 @@
-var mnemonic = "treat best faith hub entry alone lottery misery want age sauce secret";
+var mnemonic = "mystery model camera exact help recycle just you flip arrow other little";

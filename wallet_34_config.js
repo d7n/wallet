@@ -1,1 +1,1 @@
-var mnemonic = "universe sure sound warm sea slam solve thing pave ask absent share";
+var mnemonic = "candy vessel frost script bridge twist virus view dish advance rail violin";

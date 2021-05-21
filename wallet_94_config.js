@@ -1,1 +1,1 @@
-var mnemonic = "unhappy leisure leader inmate party half elevator indicate satisfy lion bind organ";
+var mnemonic = "earth wreck belt cabbage devote bottom pig next journey grass finish donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "improve knife hunt mixture mixed race script pupil beef inflict fury turtle";
+var mnemonic = "shoot bone churn solve ahead museum knock bottom alcohol spy miss sadness";

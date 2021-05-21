@@ -1,1 +1,1 @@
-var mnemonic = "letter regular expire sugar chalk orchard play exact strong hope victory aisle";
+var mnemonic = "rug clump fantasy advance diet enact clown merge pulp town ski symbol";

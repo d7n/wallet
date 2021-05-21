@@ -1,1 +1,1 @@
-var mnemonic = "speed festival beauty trigger embody fee gate conduct moment crowd shallow member";
+var mnemonic = "volcano suit weird evidence first jeans crisp finger decline reason host owner";

@@ -1,1 +1,1 @@
-var mnemonic = "approve coral shoe insane tissue robot diesel castle tonight man switch flip";
+var mnemonic = "bulk yard original theory burger blossom fatal inform mechanic vault frown betray";

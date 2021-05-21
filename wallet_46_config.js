@@ -1,1 +1,1 @@
-var mnemonic = "secret ensure trend tortoise runway popular filter west body area orient company";
+var mnemonic = "trophy embark mixed alert subject man depart beyond input vacant attack across";

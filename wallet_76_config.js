@@ -1,1 +1,1 @@
-var mnemonic = "ugly vintage trade glimpse kangaroo pencil bid hover butter cash document install";
+var mnemonic = "lemon apart flame main embark exhibit naive tool fly student sure evidence";

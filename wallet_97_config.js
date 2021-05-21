@@ -1,1 +1,1 @@
-var mnemonic = "version rail cube describe child buffalo huge sand female enough culture shove";
+var mnemonic = "hobby breeze game abuse cradle eye surge umbrella scan end myth apple";

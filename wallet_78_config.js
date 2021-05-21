@@ -1,1 +1,1 @@
-var mnemonic = "word expire work album mutual ostrich sure fury oil catalog office west";
+var mnemonic = "alter route endorse battle text tomato exercise crunch firm refuse repair panther";

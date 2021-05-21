@@ -1,1 +1,1 @@
-var mnemonic = "chief gadget else prepare always planet staff involve stay squirrel urge problem";
+var mnemonic = "civil flame almost write lemon slight average skin swear render lazy zone";

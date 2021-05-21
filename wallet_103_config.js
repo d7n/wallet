@@ -1,1 +1,1 @@
-var mnemonic = "angle door silver poem raise student perfect wool boat garment subject click";
+var mnemonic = "boss gasp furnace skirt square sting claw prosper network roast canyon zone";

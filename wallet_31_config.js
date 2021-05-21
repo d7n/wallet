@@ -1,1 +1,1 @@
-var mnemonic = "artist engine flee guide stamp zone shift news sail photo surprise agent";
+var mnemonic = "rib jungle demand bonus crater section fun shield loop jar damp badge";

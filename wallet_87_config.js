@@ -1,1 +1,1 @@
-var mnemonic = "gather plunge leader reunion table border submit melt unfair wolf accuse summer";
+var mnemonic = "quick system food health carry parade poet cancel oblige boring already parade";

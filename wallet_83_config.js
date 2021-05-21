@@ -1,1 +1,1 @@
-var mnemonic = "tribe canoe depth hollow tail subway supply select leave ozone awesome miss";
+var mnemonic = "hood ritual supreme book drum hobby accident correct plunge lucky forward stumble";

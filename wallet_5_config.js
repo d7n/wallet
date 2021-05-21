@@ -1,1 +1,1 @@
-var mnemonic = "squirrel small denial miracle cool annual solution fit funny ketchup bread warfare";
+var mnemonic = "smile video soap load town punch expand rib crew cross target degree";

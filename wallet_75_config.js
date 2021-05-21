@@ -1,1 +1,1 @@
-var mnemonic = "group flee powder melt interest honey cluster federal section capable pattern mercy";
+var mnemonic = "milk execute coach march cart detail cheap weasel slender session gold cook";

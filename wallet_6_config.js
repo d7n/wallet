@@ -1,1 +1,1 @@
-var mnemonic = "magnet virus sword try submit phrase differ tattoo talk measure girl normal";
+var mnemonic = "awesome prison soldier vacuum trap merge action bring live aspect song desert";

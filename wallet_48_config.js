@@ -1,1 +1,1 @@
-var mnemonic = "slice nice collect purity feature host amused resist horn increase security vendor";
+var mnemonic = "inmate stamp beyond indoor unfair garbage fashion heavy mean notable satisfy aware";

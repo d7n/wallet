@@ -1,1 +1,1 @@
-var mnemonic = "scale collect rib word hood quarter poem focus disagree solution legend disorder";
+var mnemonic = "thumb ostrich silent window venture short hello wheat jar judge now unusual";

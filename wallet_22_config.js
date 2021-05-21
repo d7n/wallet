@@ -1,1 +1,1 @@
-var mnemonic = "lady ocean social loop catch casual orbit grief tomorrow nothing near manage";
+var mnemonic = "warfare trend actor forward lake survey shaft sponsor cheese material about vague";

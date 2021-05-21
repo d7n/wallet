@@ -1,1 +1,1 @@
-var mnemonic = "human breeze one boy bronze radar thunder lonely space badge public produce";
+var mnemonic = "exotic retreat candy budget problem quality south permit jump energy since finger";

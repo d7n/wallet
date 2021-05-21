@@ -1,1 +1,1 @@
-var mnemonic = "gossip choose mango first wrestle menu say improve wagon dizzy script ability";
+var mnemonic = "lava payment series about title elbow hurt spell shadow survey universe basket";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus trend winter only pond wood drive profit robot test soft alcohol";
+var mnemonic = "shy fun cargo mix biology select sugar tail major above foster discover";

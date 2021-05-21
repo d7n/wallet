@@ -1,1 +1,1 @@
-var mnemonic = "nature spot fiscal jungle under prefer swamp enroll broken seat entire put";
+var mnemonic = "orbit claw torch embody face slot labor chicken blur wheat across response";

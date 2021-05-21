@@ -1,1 +1,1 @@
-var mnemonic = "shield truth empty combine number hover such twist minor spoil vehicle arrow";
+var mnemonic = "measure jungle chuckle blame cycle razor hungry excess install bracket mean left";

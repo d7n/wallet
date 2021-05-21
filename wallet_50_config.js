@@ -1,1 +1,1 @@
-var mnemonic = "problem farm usual agree banana best shift weapon kiss around dentist rifle";
+var mnemonic = "alarm mean kangaroo caution nice asset puppy accuse marble pull push beauty";

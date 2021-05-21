@@ -1,1 +1,1 @@
-var mnemonic = "aisle chunk subway nothing talk impact enemy inflict spell job resist subject";
+var mnemonic = "valley arrive flame imitate section patient denial echo panther innocent wheat swamp";

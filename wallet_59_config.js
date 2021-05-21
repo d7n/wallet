@@ -1,1 +1,1 @@
-var mnemonic = "raven social photo neutral just hawk woman tornado knee culture indoor dry";
+var mnemonic = "awake detail cactus treat seat crime embark envelope size doll noise absent";

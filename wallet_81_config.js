@@ -1,1 +1,1 @@
-var mnemonic = "logic drill other gun erupt mass hazard also damp assist spider veteran";
+var mnemonic = "cube connect bid kite man fury window degree voice panel scissors vast";

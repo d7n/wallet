@@ -1,1 +1,1 @@
-var mnemonic = "local cloth fury chair subway retreat blossom rabbit shoot toy together off";
+var mnemonic = "party logic drama love census fog grief forum chaos chronic credit family";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor wrestle biology purse clean borrow slight cruise expose edit shaft hover";
+var mnemonic = "scorpion violin hire glass cancel law hip express regular lucky enroll seat";

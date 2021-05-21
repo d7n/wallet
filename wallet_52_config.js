@@ -1,1 +1,1 @@
-var mnemonic = "ship core hedgehog live employ say noodle inquiry squirrel large hen mandate";
+var mnemonic = "trick helmet pause sadness boil job rural cradle decorate romance mask tell";

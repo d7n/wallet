@@ -1,1 +1,1 @@
-var mnemonic = "border gossip junk gauge tiger spend patch best person ride autumn tool";
+var mnemonic = "water orphan orange lens crew abstract song gun dial offer exhaust swim";

@@ -1,1 +1,1 @@
-var mnemonic = "common soon avocado wrestle live differ dove flight agent upon lady chuckle";
+var mnemonic = "album output decide rude dwarf defy gather dry tragic inmate hand trash";

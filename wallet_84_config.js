@@ -1,1 +1,1 @@
-var mnemonic = "upper debate upper mesh into tape section hair tape else version purpose";
+var mnemonic = "pepper plunge invite awesome year size gentle rookie clutch neglect ahead tunnel";

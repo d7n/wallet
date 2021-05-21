@@ -1,1 +1,1 @@
-var mnemonic = "wealth salt hedgehog invite logic jeans super cube law marriage obtain enough";
+var mnemonic = "nut goose hospital swamp timber wild glare biology brief setup hood logic";

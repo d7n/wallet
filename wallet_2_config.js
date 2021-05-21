@@ -1,1 +1,1 @@
-var mnemonic = "bean tent lock safe fit nothing magic measure rapid reason potato clerk";
+var mnemonic = "sheriff oven picnic nasty when motion farm business office cancel cable raise";

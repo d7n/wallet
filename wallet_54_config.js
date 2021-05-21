@@ -1,1 +1,1 @@
-var mnemonic = "fat frequent magnet crack spice marriage rich truth saddle cute orange weasel";
+var mnemonic = "hobby kiss rather share mention pluck eager demise card desk galaxy car";

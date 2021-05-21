@@ -1,1 +1,1 @@
-var mnemonic = "grass trick curve use dizzy photo husband purpose mistake shift artist truck";
+var mnemonic = "proud pipe zone tunnel isolate coyote umbrella become material cruise casino cycle";

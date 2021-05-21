@@ -1,1 +1,1 @@
-var mnemonic = "adult baby decorate question luggage fiber mind seven giggle scorpion what increase";
+var mnemonic = "banana giraffe excess mammal great violin nerve total message initial congress easy";

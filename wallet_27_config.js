@@ -1,1 +1,1 @@
-var mnemonic = "blast grass deliver flush mimic faint divide bulk current axis violin flat";
+var mnemonic = "income group decide weird robot flag boost combine rebuild flash visa venture";

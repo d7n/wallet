@@ -1,1 +1,1 @@
-var mnemonic = "already regret cotton seed city trend detect orbit announce simple bulb robot";
+var mnemonic = "deliver spread direct fantasy win dwarf engage venture require resist episode ensure";

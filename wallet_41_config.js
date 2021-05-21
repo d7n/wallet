@@ -1,1 +1,1 @@
-var mnemonic = "galaxy become present joy this ugly dutch ethics night quick boost wrestle";
+var mnemonic = "drum never jump enjoy tide digital trade mom enlist metal want test";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge dumb hotel mind slide supply bomb half parent exchange solid expect";
+var mnemonic = "aunt tuna embark matter they nature insane early during team still found";

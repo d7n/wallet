@@ -1,1 +1,1 @@
-var mnemonic = "violin similar month sort addict blast stumble potato anxiety proud husband labor";
+var mnemonic = "buffalo occur arch upper solve cost wisdom mention six basket habit silent";

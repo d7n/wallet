@@ -1,1 +1,1 @@
-var mnemonic = "below menu enable broken quantum lend unusual dirt lawsuit guilt chase enough";
+var mnemonic = "runway eager blade velvet topple sword spray tennis control oppose foam match";

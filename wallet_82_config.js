@@ -1,1 +1,1 @@
-var mnemonic = "awake rapid lock sunny force minor ten excuse enable dizzy top mutual";
+var mnemonic = "margin admit spike hidden pitch what tank bring include load hobby figure";

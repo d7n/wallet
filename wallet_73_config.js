@@ -1,1 +1,1 @@
-var mnemonic = "alpha they offer verb depth state absorb corn story silk angry lady";
+var mnemonic = "abuse urban absent sheriff zebra grass vault slogan pioneer toilet aerobic acoustic";

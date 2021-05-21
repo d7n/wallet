@@ -1,1 +1,1 @@
-var mnemonic = "priority invest enemy raven click favorite kangaroo oak tissue target front sport";
+var mnemonic = "focus quality say chef govern coral blouse ice unique popular weapon post";

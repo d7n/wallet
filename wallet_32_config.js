@@ -1,1 +1,1 @@
-var mnemonic = "hip noble veteran matrix judge vintage involve boil science ticket struggle sustain";
+var mnemonic = "inhale love ship message supply base winter south drift deliver achieve paper";

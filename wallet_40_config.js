@@ -1,1 +1,1 @@
-var mnemonic = "size frequent bag jewel enact afraid diary obvious harvest shadow charge hamster";
+var mnemonic = "case sunny path affair bind kitten pyramid session razor april bottom degree";

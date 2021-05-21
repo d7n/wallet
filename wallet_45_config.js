@@ -1,1 +1,1 @@
-var mnemonic = "know uncle seek biology fancy girl blade spoon box number dinosaur easily";
+var mnemonic = "margin boost trophy type cabbage sort enlist hat duty explain swamp mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "survey endorse outdoor bag large urge army involve myself april tribe coffee";
+var mnemonic = "cargo eye nature era pottery include feel advance excite frozen hawk spring";

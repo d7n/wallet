@@ -1,1 +1,1 @@
-var mnemonic = "gloom dish also impose essay margin anger lend theory purchase popular globe";
+var mnemonic = "rug chunk report security vague helmet okay cliff unable capable scrap differ";

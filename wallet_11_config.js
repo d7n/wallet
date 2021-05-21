@@ -1,1 +1,1 @@
-var mnemonic = "lunar mystery earth visa bracket outside gun doll forest husband indicate pig";
+var mnemonic = "tent rebuild select during rescue extra thought card witness milk enjoy review";

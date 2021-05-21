@@ -1,1 +1,1 @@
-var mnemonic = "spray picnic enemy frequent sign tide runway illness project slot ramp dirt";
+var mnemonic = "attack evolve write force book client rotate service gauge general brain ancient";

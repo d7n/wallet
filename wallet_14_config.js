@@ -1,1 +1,1 @@
-var mnemonic = "remain begin sausage eight gossip predict plug eye sea skate card bunker";
+var mnemonic = "horse atom parade focus shell gauge never uphold uniform drama shrimp icon";

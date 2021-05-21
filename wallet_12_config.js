@@ -1,1 +1,1 @@
-var mnemonic = "cart web whip conduct family kiss match grass fog mercy goat truck";
+var mnemonic = "tiny moon toy knife benefit hazard width comic resist rigid unhappy type";

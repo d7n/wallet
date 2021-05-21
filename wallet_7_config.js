@@ -1,1 +1,1 @@
-var mnemonic = "point never palm sauce such fit danger ripple lecture damage move desert";
+var mnemonic = "surface penalty vicious fun picture hawk draft duty hospital garbage essence fabric";

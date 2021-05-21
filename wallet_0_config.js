@@ -1,1 +1,1 @@
-var mnemonic = "tourist tuna sun desert afford tongue initial drift alcohol mechanic blanket help";
+var mnemonic = "horror sauce subway shift history long cake nice orient skin satoshi flock";

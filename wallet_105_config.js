@@ -1,1 +1,1 @@
-var mnemonic = "lawn book label universe input identify sorry surprise deer silent sudden squeeze";
+var mnemonic = "vapor alert reunion noodle tennis job runway prize offer length fat cabbage";

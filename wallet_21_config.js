@@ -1,1 +1,1 @@
-var mnemonic = "hazard chat fitness disease fun method sentence only turtle replace attack try";
+var mnemonic = "wall weasel seven crowd kid elder soup edit leaf worry priority legal";

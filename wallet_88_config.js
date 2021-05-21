@@ -1,1 +1,1 @@
-var mnemonic = "goose raise alley scrub drink scrub pigeon agree home sense virtual screen";
+var mnemonic = "pair chalk short marine short van peace page sustain spirit hamster citizen";

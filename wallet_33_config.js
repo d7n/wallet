@@ -1,1 +1,1 @@
-var mnemonic = "census burden must afford fiscal sail joke dignity candy mercy car better";
+var mnemonic = "pluck nature bean example round dose program rifle puppy flip daughter coach";

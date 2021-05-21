@@ -1,1 +1,1 @@
-var mnemonic = "three flat yellow used public buyer gorilla interest false empower pole kidney";
+var mnemonic = "caught problem agent define argue pear salon layer volcano snack chronic blossom";

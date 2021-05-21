@@ -1,1 +1,1 @@
-var mnemonic = "churn focus degree ecology galaxy stomach wheat battle stairs industry pepper equal";
+var mnemonic = "habit debate hood banner before onion demand coconut dress coral pencil wise";

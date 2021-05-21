@@ -1,1 +1,1 @@
-var mnemonic = "retreat network timber paper elegant rigid vague puzzle shoe grape friend equal";
+var mnemonic = "another endorse wrap flip science later hockey relief mushroom tower pave lunch";

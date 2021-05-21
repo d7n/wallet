@@ -1,1 +1,1 @@
-var mnemonic = "tray whip theory slush remove globe faculty mango sustain polar item clown";
+var mnemonic = "outside toast behind slab mass census joy dream visit mushroom address farm";

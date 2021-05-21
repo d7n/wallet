@@ -1,1 +1,1 @@
-var mnemonic = "eight miss ski range runway idle turtle rule hazard switch oppose tuna";
+var mnemonic = "enforce pass trick floor candy dad duck cross trial visit strong where";

@@ -1,1 +1,1 @@
-var mnemonic = "regret long ring domain fiscal dawn trend crunch music lens mixed champion";
+var mnemonic = "blanket cry edit script broccoli morning rocket start valley obvious shield thing";

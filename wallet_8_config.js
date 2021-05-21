@@ -1,1 +1,1 @@
-var mnemonic = "october remain artefact else rib cloud install want detect maid knife coffee";
+var mnemonic = "sea hotel demand senior drum announce patient suffer media scheme matter borrow";
