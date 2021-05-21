@@ -1,1 +1,1 @@
-var mnemonic = "wild method alley home butter tree light once volume wear divert escape";
+var mnemonic = "quantum inmate private tomorrow clog siege cage body enforce crisp define learn";

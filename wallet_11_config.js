@@ -1,1 +1,1 @@
-var mnemonic = "raise myth message disease cigar dignity embody beef hint fork champion want";
+var mnemonic = "rail innocent abandon broccoli nature output awesome pause inherit powder obvious rubber";

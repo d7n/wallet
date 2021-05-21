@@ -1,1 +1,1 @@
-var mnemonic = "entry hold age inhale control prison genre royal lion usual weather canoe";
+var mnemonic = "toddler story follow cable metal crash amused nurse guess confirm mouse zone";

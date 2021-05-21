@@ -1,1 +1,1 @@
-var mnemonic = "advance case dust boil outside save debate dress robust fee current among";
+var mnemonic = "almost hold mesh poem pilot galaxy similar drop lion private swap mansion";

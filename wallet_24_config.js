@@ -1,1 +1,1 @@
-var mnemonic = "key across submit kid payment grit teach slender useless trumpet tiny supply";
+var mnemonic = "omit laptop mercy shallow bean leopard escape grain ocean goat elephant pistol";

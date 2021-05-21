@@ -1,1 +1,1 @@
-var mnemonic = "quality dwarf live nominee fiction elephant salon consider error original glue merit";
+var mnemonic = "hospital sunny nest trophy project knife choose believe solid rate lyrics verify";

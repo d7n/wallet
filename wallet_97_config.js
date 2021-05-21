@@ -1,1 +1,1 @@
-var mnemonic = "accuse cousin equal since retreat morning present tree venture joke prison tired";
+var mnemonic = "jacket pencil vast expose coil power clog lobster weasel vote pen success";

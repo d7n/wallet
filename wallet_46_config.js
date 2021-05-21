@@ -1,1 +1,1 @@
-var mnemonic = "legend ripple tool oil goat mask nest cup autumn measure rough radar";
+var mnemonic = "network century permit alone silent cactus normal marine network toss winner write";

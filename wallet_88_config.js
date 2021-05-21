@@ -1,1 +1,1 @@
-var mnemonic = "huge front hope abandon hungry blush pretty brand exit page practice six";
+var mnemonic = "doll enable idea unhappy bike devote change token average melt atom inmate";

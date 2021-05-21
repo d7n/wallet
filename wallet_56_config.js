@@ -1,1 +1,1 @@
-var mnemonic = "tiny section knock hand above addict lazy artefact actor unveil badge oven";
+var mnemonic = "brand wood hill motion mimic wrist loop eyebrow just maid remember happy";

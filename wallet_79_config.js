@@ -1,1 +1,1 @@
-var mnemonic = "news word husband duty logic sail upset cost gravity peace satoshi maze";
+var mnemonic = "put express retire like purpose hamster blanket check celery salt staff spend";

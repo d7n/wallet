@@ -1,1 +1,1 @@
-var mnemonic = "echo glass junk annual film intact kiwi power angle learn floor net";
+var mnemonic = "one emotion shaft limit garment taste have hole merry surface list grocery";

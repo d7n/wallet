@@ -1,1 +1,1 @@
-var mnemonic = "violin figure gesture hen depth ethics edge buyer october soft round chicken";
+var mnemonic = "wood actor print bone divorce please brother tiger price sick drift fever";

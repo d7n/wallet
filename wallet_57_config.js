@@ -1,1 +1,1 @@
-var mnemonic = "foot online season fat dish parrot desert stomach cloud exile admit fine";
+var mnemonic = "news glance glow enrich gauge federal warm wheat idle awful same hero";

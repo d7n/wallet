@@ -1,1 +1,1 @@
-var mnemonic = "idea struggle romance expand blanket heart winter rare option pool identify pumpkin";
+var mnemonic = "borrow nation bread pole whisper friend horse sight travel joy student pupil";

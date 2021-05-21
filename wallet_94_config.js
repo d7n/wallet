@@ -1,1 +1,1 @@
-var mnemonic = "scare what case floor call video stove future grass wheel sad sadness";
+var mnemonic = "leopard main cinnamon elegant gasp beyond alley whip language tornado film exact";

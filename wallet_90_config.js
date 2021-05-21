@@ -1,1 +1,1 @@
-var mnemonic = "rely urban inmate umbrella nice chair super slogan detect faculty large quit";
+var mnemonic = "ridge page audit chief situate balance matrix enforce tortoise suffer enable twenty";

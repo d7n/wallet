@@ -1,1 +1,1 @@
-var mnemonic = "delay obvious baby inner unique filter rate cannon outside absorb olympic grass";
+var mnemonic = "useless slow awesome next maid baby base swarm deer bicycle error certain";

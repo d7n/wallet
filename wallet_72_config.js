@@ -1,1 +1,1 @@
-var mnemonic = "neck excess culture dawn elegant sketch galaxy fury chronic before crew exit";
+var mnemonic = "monkey since chuckle column vehicle skirt arm original smile dinosaur level wing";

@@ -1,1 +1,1 @@
-var mnemonic = "find gown quantum top situate rule exist exist coast drama stand shiver";
+var mnemonic = "sample brand outside blood cricket burger hello frog liquid marine typical lucky";

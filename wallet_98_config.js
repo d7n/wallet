@@ -1,1 +1,1 @@
-var mnemonic = "rookie shield vague warfare blame portion insane drill tape cloth joy deer";
+var mnemonic = "seat session cotton satoshi because light chest salad wet script time evoke";

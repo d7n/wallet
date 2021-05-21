@@ -1,1 +1,1 @@
-var mnemonic = "garlic catch tone note medal salad cute brother gain card front begin";
+var mnemonic = "enlist banana pride rent coin all wood debate vivid carpet sad tongue";

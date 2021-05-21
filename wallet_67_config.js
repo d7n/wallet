@@ -1,1 +1,1 @@
-var mnemonic = "language now olive man clap jump public hope wife essence angle circle";
+var mnemonic = "news alley rocket stadium rhythm entry exhibit genuine route say badge glance";

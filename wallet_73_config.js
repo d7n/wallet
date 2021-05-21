@@ -1,1 +1,1 @@
-var mnemonic = "curious hand symptom favorite erosion decrease bottom bicycle nature city engage deliver";
+var mnemonic = "deny stock cross elevator kiwi endorse glow dismiss connect tumble uniform appear";

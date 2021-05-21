@@ -1,1 +1,1 @@
-var mnemonic = "light bunker afraid whisper surprise void time fiscal axis tongue local buyer";
+var mnemonic = "scare gas seminar cactus present february rack shoe abstract onion rabbit faint";

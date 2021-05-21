@@ -1,1 +1,1 @@
-var mnemonic = "artefact shed prize term nasty slight try palace erosion between funny slam";
+var mnemonic = "draft armor hedgehog bag oven tissue benefit panther axis expand float super";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip design left stadium onion soccer impose urban empty stock panther dizzy";
+var mnemonic = "stand identify nut excuse bleak select animal sauce maple detect vessel february";

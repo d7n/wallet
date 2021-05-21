@@ -1,1 +1,1 @@
-var mnemonic = "iron wish list bargain trade scare air direct brand vicious unlock dash";
+var mnemonic = "hamster hover kiwi hundred depend mix city goose fiscal smile eyebrow calm";

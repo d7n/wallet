@@ -1,1 +1,1 @@
-var mnemonic = "gallery soda tumble bus mosquito inherit sample better unhappy humor torch mimic";
+var mnemonic = "cool season ritual patrol valley loop salute crush rifle fiction slot vicious";

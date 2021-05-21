@@ -1,1 +1,1 @@
-var mnemonic = "client glove expire balcony denial soup leave level employ awkward cart pupil";
+var mnemonic = "used sugar vault milk half brand inquiry trust divide poverty kitten hour";

@@ -1,1 +1,1 @@
-var mnemonic = "teach maid choose path place tank arm book manage senior setup better";
+var mnemonic = "over witness ranch ridge primary wink hazard polar beef remember spy about";

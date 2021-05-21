@@ -1,1 +1,1 @@
-var mnemonic = "able jelly debate message swallow over fiscal occur quantum increase stand wagon";
+var mnemonic = "river fatigue bitter spoil loud route inherit master drip exclude electric castle";

@@ -1,1 +1,1 @@
-var mnemonic = "same perfect suspect hidden stay flat ignore math jewel sister coach onion";
+var mnemonic = "produce sketch ancient step bargain giraffe hint stage fine unhappy sort shuffle";

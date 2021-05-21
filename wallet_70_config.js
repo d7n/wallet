@@ -1,1 +1,1 @@
-var mnemonic = "evolve fish access garment cry thing mixed uncover ill tuition second scatter";
+var mnemonic = "desk paper oyster arctic rival clown shock fashion rib adjust struggle vague";

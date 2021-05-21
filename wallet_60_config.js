@@ -1,1 +1,1 @@
-var mnemonic = "admit story drum car mean leaf repeat green mule oil half name";
+var mnemonic = "nerve old team refuse garlic much peanut curve lecture reflect icon clog";

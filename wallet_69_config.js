@@ -1,1 +1,1 @@
-var mnemonic = "obtain doctor derive slab grit kingdom dismiss inside mule gasp shuffle release";
+var mnemonic = "mobile tail pen scale vacant author ivory action method token joy song";

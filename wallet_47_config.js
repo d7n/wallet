@@ -1,1 +1,1 @@
-var mnemonic = "ozone broom exact vivid hen stereo okay turtle sunset baby enforce sure";
+var mnemonic = "buyer legend stem medal river fine never cart lounge minute whisper utility";

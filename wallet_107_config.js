@@ -1,1 +1,1 @@
-var mnemonic = "warm carry hotel orchard stock remember carry will case brand join pattern";
+var mnemonic = "change alpha clog quarter enforce mouse spawn real surface happy critic buyer";

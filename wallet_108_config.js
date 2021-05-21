@@ -1,1 +1,1 @@
-var mnemonic = "miracle shoulder supreme crime kick lesson open jaguar begin any body curious";
+var mnemonic = "differ market copper social develop morning skill wagon dutch naive clerk wet";

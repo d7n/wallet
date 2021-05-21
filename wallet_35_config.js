@@ -1,1 +1,1 @@
-var mnemonic = "aim account claim tray feel absurd then power abuse goat situate kick";
+var mnemonic = "switch brave apart discover hat equal meat bubble base view betray mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "summer space around picnic panther monitor repair poet shift danger artist method";
+var mnemonic = "claim dilemma attack tray record tell card lady volcano safe skin capable";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion retire cinnamon blossom radar melody jazz quit note recall move affair";
+var mnemonic = "permit toss dignity helmet fashion inspire interest vapor hidden cube metal exit";

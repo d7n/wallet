@@ -1,1 +1,1 @@
-var mnemonic = "timber potato wasp vacant deliver limit wire excuse slight weird sketch check";
+var mnemonic = "catalog flush pony illness bone couple surround easily scale evoke usual episode";

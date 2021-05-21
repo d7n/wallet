@@ -1,1 +1,1 @@
-var mnemonic = "select pluck basic shoe pupil duty into between boil cream few veteran";
+var mnemonic = "steel credit tourist skill tip satoshi fly soul cat emotion brush hello";

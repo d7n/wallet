@@ -1,1 +1,1 @@
-var mnemonic = "vendor sorry way put exhibit muffin knock open split grain bind confirm";
+var mnemonic = "design chuckle together salmon believe swim aspect point fox cloud ketchup swear";

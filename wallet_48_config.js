@@ -1,1 +1,1 @@
-var mnemonic = "swallow miss audit equal cheap safe cabin estate lazy more enable produce";
+var mnemonic = "tomorrow million topic puzzle then absurd paddle mirror exist hamster race ensure";

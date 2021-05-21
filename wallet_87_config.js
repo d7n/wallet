@@ -1,1 +1,1 @@
-var mnemonic = "agent two project tenant myself demand demand cash document consider acid expose";
+var mnemonic = "ginger bid spatial pool strategy fatigue roast moon ethics soda edit reform";

@@ -1,1 +1,1 @@
-var mnemonic = "hair file fever decade grit step ozone jeans term bless day cycle";
+var mnemonic = "endless avocado shock interest arrow hip dash sponsor fee inject gravity glass";

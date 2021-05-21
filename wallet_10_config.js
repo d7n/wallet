@@ -1,1 +1,1 @@
-var mnemonic = "annual place mad wall lyrics beef dutch industry tag save twist primary";
+var mnemonic = "enter clown east embark glass exile differ jump youth charge cigar team";

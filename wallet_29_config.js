@@ -1,1 +1,1 @@
-var mnemonic = "ankle fit faculty pretty modify guilt click tiger junior aspect afford utility";
+var mnemonic = "require door method whisper profit genius crisp rice forward steel stumble loan";

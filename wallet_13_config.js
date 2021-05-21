@@ -1,1 +1,1 @@
-var mnemonic = "cement online broccoli during prepare dolphin huge apart village auction swamp banana";
+var mnemonic = "sea deposit virus submit bus edge fault hint hidden impulse annual minimum";

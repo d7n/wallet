@@ -1,1 +1,1 @@
-var mnemonic = "urban shoot jealous toilet risk label improve pet screen judge pen acoustic";
+var mnemonic = "boil predict attend tornado carry gym basket rabbit screen wrong wreck soft";

@@ -1,1 +1,1 @@
-var mnemonic = "own orchard immense cost stem private extend palace social address language cube";
+var mnemonic = "fortune elder flavor shallow sword beef soup time alpha large guitar anchor";

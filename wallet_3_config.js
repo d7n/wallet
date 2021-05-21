@@ -1,1 +1,1 @@
-var mnemonic = "north coast illness throw flock palace medal pulp rigid utility curve submit";
+var mnemonic = "liquid strategy snake actress clarify wish couch dust load wrong hollow admit";

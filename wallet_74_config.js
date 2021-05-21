@@ -1,1 +1,1 @@
-var mnemonic = "bike invest estate nominee cheap because local pupil split salon tooth garlic";
+var mnemonic = "vault grain now coyote girl picnic north congress chase spike walnut exclude";

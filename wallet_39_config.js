@@ -1,1 +1,1 @@
-var mnemonic = "toast fever rookie lock label lemon sleep tuna quarter exercise bachelor business";
+var mnemonic = "relief lend acoustic gain bind snake biology genius marble fever bless very";

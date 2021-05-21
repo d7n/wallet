@@ -1,1 +1,1 @@
-var mnemonic = "soccer receive city wolf bubble spoon local supply plastic saddle unable egg";
+var mnemonic = "saddle ordinary whisper sock collect mutual bid away employ disorder atom large";

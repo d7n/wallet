@@ -1,1 +1,1 @@
-var mnemonic = "adapt diamond title congress prosper someone alarm day inhale fine smooth shine";
+var mnemonic = "flat palace loop craft airport grow kiss verify return crumble defense apology";

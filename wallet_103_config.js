@@ -1,1 +1,1 @@
-var mnemonic = "elephant table alcohol involve elite salmon tray capital brave strong swear future";
+var mnemonic = "absorb retreat lawn city boy trap false width enjoy coil inspire tribe";

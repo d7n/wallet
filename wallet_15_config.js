@@ -1,1 +1,1 @@
-var mnemonic = "pact banner various kangaroo bring denial major squeeze bus much guitar innocent";
+var mnemonic = "tiny flip keep sister chuckle come immune surprise news chief staff project";

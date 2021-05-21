@@ -1,1 +1,1 @@
-var mnemonic = "guilt fee adapt solve spoil clap eagle nest math kit satisfy thought";
+var mnemonic = "scene awake admit solution pear pepper behave roof kiwi twice fork curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "atom access fringe object adult leopard wrap script amateur never harsh depth";
+var mnemonic = "awake volcano genius junior put stage nurse mirror soup fame return live";

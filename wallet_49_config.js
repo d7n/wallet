@@ -1,1 +1,1 @@
-var mnemonic = "mother pulse bomb reform siren fold wear dove rain flee false deny";
+var mnemonic = "sting tuition real sniff foot industry buyer kind snap aware tower never";

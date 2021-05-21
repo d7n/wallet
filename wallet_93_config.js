@@ -1,1 +1,1 @@
-var mnemonic = "service now kingdom build catalog found trigger forget phrase crowd dice dance";
+var mnemonic = "left absent between crumble distance radar journey unable wine salute boring perfect";

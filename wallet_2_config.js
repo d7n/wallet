@@ -1,1 +1,1 @@
-var mnemonic = "tobacco spin give sorry response author bottom raise tackle left demise dismiss";
+var mnemonic = "push spend pledge wheel ranch fragile lonely still machine witness canal purse";

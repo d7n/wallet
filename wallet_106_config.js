@@ -1,1 +1,1 @@
-var mnemonic = "metal dentist trash inmate chunk extend donor pistol mansion curve mail ability";
+var mnemonic = "vanish item proof bundle involve fitness indicate rhythm cake monitor label farm";

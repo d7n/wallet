@@ -1,1 +1,1 @@
-var mnemonic = "lucky honey duck gift door series brief rebuild try sock left ankle";
+var mnemonic = "scrub knock uncover hair radio erode merit brush embark nurse left trap";

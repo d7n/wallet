@@ -1,1 +1,1 @@
-var mnemonic = "snack illegal debris prosper lab chimney gesture please clerk wise pulp nose";
+var mnemonic = "night frost oyster thrive own lunch fiction scale actress noodle victory cigar";

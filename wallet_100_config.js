@@ -1,1 +1,1 @@
-var mnemonic = "pioneer air muffin luggage action noble pulp gorilla regret fiction glare dust";
+var mnemonic = "soon pepper term above together double few silver inmate butter match sponsor";

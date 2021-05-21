@@ -1,1 +1,1 @@
-var mnemonic = "smile attitude vote tongue bicycle scale virus traffic uncle oppose merge column";
+var mnemonic = "control survey salmon burst room junk tribe one penalty barely chimney anchor";

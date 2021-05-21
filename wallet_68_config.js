@@ -1,1 +1,1 @@
-var mnemonic = "artist tuition cook deal dose fog blind enough conduct into impact ball";
+var mnemonic = "sound urge finger alien vocal cousin control kitchen pave scheme ozone lyrics";

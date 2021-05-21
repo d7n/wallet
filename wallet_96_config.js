@@ -1,1 +1,1 @@
-var mnemonic = "dream flight tomorrow auction bar remember often mixed can mind era couch";
+var mnemonic = "main fresh art diet good animal ship employ negative setup beauty attend";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle avoid raw way abstract ill lady guard clump height amount tiger";
+var mnemonic = "ski gown message skate split annual leg sweet speak pottery bulk horror";

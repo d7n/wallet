@@ -1,1 +1,1 @@
-var mnemonic = "weapon addict avocado journey dust clinic effort search push list process tone";
+var mnemonic = "snap pluck drift caught body absorb kiwi access slender metal garden broken";

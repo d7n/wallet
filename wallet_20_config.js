@@ -1,1 +1,1 @@
-var mnemonic = "expect eight tunnel scatter angry drastic cruise vacuum history raven oval stable";
+var mnemonic = "cruel siren spike live edge shuffle bacon odor disorder slice special patient";

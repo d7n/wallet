@@ -1,1 +1,1 @@
-var mnemonic = "tell trash surface evolve lazy skirt club display pool frog circle minor";
+var mnemonic = "consider divide play zero mercy muscle language arrest force auto tape hair";

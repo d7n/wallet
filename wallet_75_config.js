@@ -1,1 +1,1 @@
-var mnemonic = "faith radar grow wink wing sick square enough nice scare loan distance";
+var mnemonic = "coffee bus atom empty light void pause tired spoil infant guard point";

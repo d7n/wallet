@@ -1,1 +1,1 @@
-var mnemonic = "settle hire nut tower face bus extend cube raven wool nerve high";
+var mnemonic = "marriage only rose gravity orchard sweet swim hole stamp toilet coast tumble";

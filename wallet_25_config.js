@@ -1,1 +1,1 @@
-var mnemonic = "dial include prepare muscle trial hobby rival silly cream edit seminar laptop";
+var mnemonic = "absent have crew vibrant page bounce quality together actual creek thunder bubble";

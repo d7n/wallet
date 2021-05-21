@@ -1,1 +1,1 @@
-var mnemonic = "gloom burger miracle agree thumb again atom caught solar trash trap culture";
+var mnemonic = "can essay matter royal crazy focus human aunt memory wrap truth muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "useful feed interest casino popular dinosaur picture fan infant entire keep novel";
+var mnemonic = "ankle shoe success jewel trade wet ecology chicken draw blouse parrot zone";

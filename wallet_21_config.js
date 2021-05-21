@@ -1,1 +1,1 @@
-var mnemonic = "second strike napkin relax tourist clarify climb harbor fox audit weapon tornado";
+var mnemonic = "critic torch turkey sorry goddess winter execute senior brown tree tuna book";

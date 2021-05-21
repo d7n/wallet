@@ -1,1 +1,1 @@
-var mnemonic = "amateur used agree approve gospel advice improve risk below earth notice shy";
+var mnemonic = "fit rain scrub room need expect wheat include cute harvest jazz climb";

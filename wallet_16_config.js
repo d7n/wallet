@@ -1,1 +1,1 @@
-var mnemonic = "valid thumb credit rescue gap hedgehog search code sketch discover daring bike";
+var mnemonic = "shy master twelve matter slender credit kangaroo suffer oven destroy exile guitar";

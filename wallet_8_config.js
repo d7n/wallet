@@ -1,1 +1,1 @@
-var mnemonic = "client invest capital enroll average chair path leopard safe clay catalog drink";
+var mnemonic = "step insane toy stove found cart right rapid judge venue bird task";

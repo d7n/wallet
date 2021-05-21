@@ -1,1 +1,1 @@
-var mnemonic = "artwork shove emerge congress above field scatter panic replace old stock bachelor";
+var mnemonic = "bread suit certain manage seminar pipe desk valve fury target warm liquid";
