@@ -1,1 +1,1 @@
-var mnemonic = "example seminar siege west dawn first balance cat clump buddy cotton panda";
+var mnemonic = "item because erosion original wrap hill hard define mimic deer then edge";

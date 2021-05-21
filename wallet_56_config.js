@@ -1,1 +1,1 @@
-var mnemonic = "shallow poet duty pride bridge term museum satisfy any stem science spoon";
+var mnemonic = "wine disorder salmon east three copy neutral point sure time search mercy";

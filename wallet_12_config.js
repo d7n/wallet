@@ -1,1 +1,1 @@
-var mnemonic = "bomb cover verify neglect embark clay unusual maximum afraid fresh wagon cannon";
+var mnemonic = "walk fire movie maple crumble stock labor protect hope skate spin knee";

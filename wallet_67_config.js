@@ -1,1 +1,1 @@
-var mnemonic = "fortune aisle exit sense orchard orbit note resist flock raw arch hen";
+var mnemonic = "engine truth useful drill grid devote hen lumber check can pioneer utility";

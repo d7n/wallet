@@ -1,1 +1,1 @@
-var mnemonic = "grunt senior wage episode danger sorry scale dream fly minor tuna credit";
+var mnemonic = "twenty aerobic river busy subject lobster nurse general grow speak mimic sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed clock umbrella impose dwarf round chaos powder option purity civil sauce";
+var mnemonic = "guard ancient elite frame mirror bonus argue hat engine chest limb grace";

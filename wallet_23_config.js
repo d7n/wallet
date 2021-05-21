@@ -1,1 +1,1 @@
-var mnemonic = "assume figure heart ring record bitter busy upper bunker certain bottom guide";
+var mnemonic = "fiscal since vehicle shy pipe version fuel year crew drastic nice trick";

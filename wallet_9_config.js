@@ -1,1 +1,1 @@
-var mnemonic = "panel hub prevent prize sight peace arrow jaguar invest reflect key hurt";
+var mnemonic = "fork guard cluster magnet theme entry govern domain soul milk idle process";

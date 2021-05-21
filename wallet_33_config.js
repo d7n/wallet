@@ -1,1 +1,1 @@
-var mnemonic = "mule prize also hedgehog equal toward nerve candy punch tree step estate";
+var mnemonic = "mesh chapter eagle combine lumber legal animal auto naive avocado minimum tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "maid monster rescue outside sauce derive daring focus airport local call venue";
+var mnemonic = "hat course zebra will animal clerk catalog oval shadow cage rich pipe";

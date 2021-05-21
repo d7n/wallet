@@ -1,1 +1,1 @@
-var mnemonic = "rice twenty ride fun flat shift mask title piece rifle differ abandon";
+var mnemonic = "bone govern consider coin deal clip ranch festival involve sphere idle dream";

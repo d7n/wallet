@@ -1,1 +1,1 @@
-var mnemonic = "monster kid basic december forum like imitate strategy patient emotion bracket fruit";
+var mnemonic = "curious parrot pretty claw sniff margin ready bulb sudden brand exact wedding";

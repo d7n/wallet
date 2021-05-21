@@ -1,1 +1,1 @@
-var mnemonic = "spider myself sugar author beach alpha ten angry debate gun piano rapid";
+var mnemonic = "false swing connect sorry zebra resemble candy cost check session connect cup";

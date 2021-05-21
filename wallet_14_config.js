@@ -1,1 +1,1 @@
-var mnemonic = "devote blind above blast warrior salt marine pistol artwork veteran now festival";
+var mnemonic = "labor confirm keep update wrong exit glove still turkey wasp kiwi shove";

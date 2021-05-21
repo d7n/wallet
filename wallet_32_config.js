@@ -1,1 +1,1 @@
-var mnemonic = "emerge day mushroom child creek delay brand pave carry before enemy aspect";
+var mnemonic = "toe venture melody hurry obtain wrist defense picnic lady lizard ball foil";

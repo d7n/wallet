@@ -1,1 +1,1 @@
-var mnemonic = "trouble level infant regular issue broccoli badge ecology refuse celery spin again";
+var mnemonic = "cement put season wheat area page job ribbon stable stamp input lawn";

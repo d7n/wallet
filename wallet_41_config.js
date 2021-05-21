@@ -1,1 +1,1 @@
-var mnemonic = "flight journey cluster bulk artwork grit agent umbrella blossom clinic elite behave";
+var mnemonic = "tortoise ball repair bright ill ski limb deer add cook verify panda";

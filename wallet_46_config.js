@@ -1,1 +1,1 @@
-var mnemonic = "fiscal return swear sound prize fork weasel nature daring lecture sign occur";
+var mnemonic = "cave timber alpha minute pencil elite gown wise carpet bonus business bounce";

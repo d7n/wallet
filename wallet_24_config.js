@@ -1,1 +1,1 @@
-var mnemonic = "rice magnet outdoor they renew there link entry rural tackle desert math";
+var mnemonic = "foil opera embrace obscure pledge furnace drum used frame erosion sand alley";

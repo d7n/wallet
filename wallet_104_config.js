@@ -1,1 +1,1 @@
-var mnemonic = "spell gap wreck light avocado shine violin mom math metal visual flag";
+var mnemonic = "moon pet birth visa since arrest book cycle fluid silent truck ramp";

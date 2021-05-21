@@ -1,1 +1,1 @@
-var mnemonic = "vote road symptom neglect lecture old puzzle flat wish want sentence short";
+var mnemonic = "raise strong jazz inform biology position device toilet venture tool forget text";

@@ -1,1 +1,1 @@
-var mnemonic = "faith pair parent globe upon essence festival fork tent summer fix mirror";
+var mnemonic = "road oppose heart tide license weird erase mimic fabric never february zone";

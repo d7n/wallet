@@ -1,1 +1,1 @@
-var mnemonic = "black comfort pioneer language pole reduce drama corn cloud van square idea";
+var mnemonic = "salad rigid rigid enact cushion gospel belt sun latin plunge involve veteran";

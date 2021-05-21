@@ -1,1 +1,1 @@
-var mnemonic = "slow sister rib dance guide rude saddle junk retreat april inflict blame";
+var mnemonic = "frozen stadium please only minimum budget total front unveil fury leader jealous";

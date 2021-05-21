@@ -1,1 +1,1 @@
-var mnemonic = "interest forest velvet flavor carpet stay prevent electric ancient bring old measure";
+var mnemonic = "core noble peanut hero level stage license lesson alarm inquiry umbrella loyal";

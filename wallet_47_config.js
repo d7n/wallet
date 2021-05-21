@@ -1,1 +1,1 @@
-var mnemonic = "resist various trip license engine dawn midnight behave jewel symbol depart juice";
+var mnemonic = "topic whisper scale share salad hood embody mutual version word frown narrow";

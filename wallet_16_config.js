@@ -1,1 +1,1 @@
-var mnemonic = "menu shop into base absent blue first they green chalk unusual cover";
+var mnemonic = "auto notable keen canal must trumpet swim aisle hire choose joy argue";

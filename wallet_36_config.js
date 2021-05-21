@@ -1,1 +1,1 @@
-var mnemonic = "firm select oval basket law helmet pass warm venue admit shoot craft";
+var mnemonic = "ripple label copy purchase action cabin furnace state seed glory gold attend";

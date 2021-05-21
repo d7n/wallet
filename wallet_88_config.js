@@ -1,1 +1,1 @@
-var mnemonic = "easily mother faith east simple nature analyst giggle address solution visa crater";
+var mnemonic = "shuffle tornado sunset verify clay elite twelve hold direct chalk scheme kitten";

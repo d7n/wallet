@@ -1,1 +1,1 @@
-var mnemonic = "wrestle future faculty embody renew planet scrub nose there grant ill enrich";
+var mnemonic = "poverty brass deliver pottery reflect section multiply help bonus sweet minimum lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "drip finger cinnamon cross virus truly slush never almost hat pretty scrap";
+var mnemonic = "shell that transfer child spell dial color mystery foster cycle slab glory";

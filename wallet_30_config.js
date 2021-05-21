@@ -1,1 +1,1 @@
-var mnemonic = "floor attend snack erosion slot snake average pulse arrest twelve surround mango";
+var mnemonic = "pluck genuine together wedding stove lab duty neutral winter hurdle dish rate";

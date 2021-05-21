@@ -1,1 +1,1 @@
-var mnemonic = "tattoo color grace citizen scissors basic stove verb soda slot follow helmet";
+var mnemonic = "glow parrot rally quality jacket evolve drill rocket core spoon scout thought";

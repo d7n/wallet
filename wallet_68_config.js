@@ -1,1 +1,1 @@
-var mnemonic = "powder luxury trouble maximum fragile wrist cheese harsh remember permit stairs garage";
+var mnemonic = "order flip mistake fossil quantum pass topic sunny rug prefer exclude inform";

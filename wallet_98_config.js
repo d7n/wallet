@@ -1,1 +1,1 @@
-var mnemonic = "pig mesh people picture number stove media own gift fish globe script";
+var mnemonic = "sphere border result bind loan quit midnight repair foam quit soft use";

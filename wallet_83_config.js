@@ -1,1 +1,1 @@
-var mnemonic = "health trip allow artwork sorry unfair lonely surface loop today fatal clap";
+var mnemonic = "city crystal sentence nothing either cigar drastic ancient road jar hybrid polar";

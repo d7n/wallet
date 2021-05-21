@@ -1,1 +1,1 @@
-var mnemonic = "defy hedgehog town hunt sting cake melody adult obscure member symptom valley";
+var mnemonic = "drill stem immune never sign victory token bike math describe solve dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "reward meat answer bean child license goat spot slogan relax amused win";
+var mnemonic = "own unfold birth essence hurt risk capable junk ribbon among lounge maple";

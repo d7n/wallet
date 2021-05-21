@@ -1,1 +1,1 @@
-var mnemonic = "token cup sock april away blouse vast copper sail slow choice carry";
+var mnemonic = "this evolve delay once siren subject duck armor edge caught industry wood";

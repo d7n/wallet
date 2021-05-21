@@ -1,1 +1,1 @@
-var mnemonic = "romance rocket agent face blanket record input bracket recycle divorce scale rabbit";
+var mnemonic = "ten device waste tired infant law alpha author rare aim number hello";

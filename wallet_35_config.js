@@ -1,1 +1,1 @@
-var mnemonic = "security fold smile board sorry file double police define toe across armed";
+var mnemonic = "add kitchen render proof session kind video hole improve mask crumble clip";

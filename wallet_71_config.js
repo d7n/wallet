@@ -1,1 +1,1 @@
-var mnemonic = "stage improve soft allow gun wage thought phrase segment hub endorse sand";
+var mnemonic = "royal jar ensure gaze detect antenna issue anger surface game rent wood";

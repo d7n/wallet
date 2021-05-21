@@ -1,1 +1,1 @@
-var mnemonic = "insane garlic offer spy fever grid brown caution runway risk step acquire";
+var mnemonic = "bulb sure pyramid urge avocado width skate ahead inside correct midnight junk";

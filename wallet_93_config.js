@@ -1,1 +1,1 @@
-var mnemonic = "balance will swap grass process rain tortoise north blush immune winter deal";
+var mnemonic = "verb nature cruise grass maple month scan frown sponsor cradle wheat brother";

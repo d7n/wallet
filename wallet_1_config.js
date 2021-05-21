@@ -1,1 +1,1 @@
-var mnemonic = "laugh suspect patrol quick abuse cotton stone note library then feel alien";
+var mnemonic = "kiwi total great margin develop lend kitchen giggle oval replace bamboo similar";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket huge rebuild drill appear idea total neglect hair rabbit tattoo coffee";
+var mnemonic = "expand inform like saddle inquiry dream until eyebrow select bag quantum awful";

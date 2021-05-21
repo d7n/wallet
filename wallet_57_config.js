@@ -1,1 +1,1 @@
-var mnemonic = "chase abandon morning cry word disorder ozone congress fatigue turtle impulse foil";
+var mnemonic = "boat all spot canoe lake capable drastic traffic artwork maid tomato myth";

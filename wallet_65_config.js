@@ -1,1 +1,1 @@
-var mnemonic = "tiny hammer chimney creek salon hundred above embark casual lake camera shell";
+var mnemonic = "fetch label help ride potato vanish bag swarm butter umbrella practice key";

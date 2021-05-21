@@ -1,1 +1,1 @@
-var mnemonic = "sick organ online cancel medal know keen rail imitate praise melody heart";
+var mnemonic = "beef envelope dilemma original text ghost couple glory charge force decline trash";

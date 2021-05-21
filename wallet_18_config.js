@@ -1,1 +1,1 @@
-var mnemonic = "despair dumb token option bless gym matter group screen night fog proud";
+var mnemonic = "strong long point area tide music wet grief army horse cruel social";

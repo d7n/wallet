@@ -1,1 +1,1 @@
-var mnemonic = "piano book shoulder around near rifle achieve desk save middle flush dinner";
+var mnemonic = "flame cart dynamic collect stay rule network album fox between abuse easily";

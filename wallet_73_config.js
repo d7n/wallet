@@ -1,1 +1,1 @@
-var mnemonic = "quit avoid gorilla traffic rubber model hidden supreme danger unique wear direct";
+var mnemonic = "asthma bundle kangaroo system empower news pave remember boss worth funny conduct";

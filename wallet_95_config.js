@@ -1,1 +1,1 @@
-var mnemonic = "crunch purpose hungry card middle ahead remember ladder dawn simple insect toe";
+var mnemonic = "drive little lottery faculty wrestle lab furnace speed physical front trash silver";

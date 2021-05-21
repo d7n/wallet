@@ -1,1 +1,1 @@
-var mnemonic = "lobster shell rival tooth fresh sweet dignity chronic inject feel couple dolphin";
+var mnemonic = "siren connect tuna invest during forest traffic lobster destroy issue expand alarm";

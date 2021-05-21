@@ -1,1 +1,1 @@
-var mnemonic = "talent crystal unusual fine author corn nasty valid erode dose define slide";
+var mnemonic = "dentist keen history basic analyst spy start wheel three disorder learn mandate";

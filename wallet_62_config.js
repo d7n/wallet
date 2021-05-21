@@ -1,1 +1,1 @@
-var mnemonic = "trap empty gain fork primary stage scene tide define era degree clip";
+var mnemonic = "claim sustain poet remember useful indoor recall alien click journey nature mention";

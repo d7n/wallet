@@ -1,1 +1,1 @@
-var mnemonic = "caught energy profit give october goose upon sketch unlock pattern regret seat";
+var mnemonic = "sphere alarm first century attitude mansion absorb pyramid urban cake usage tuna";

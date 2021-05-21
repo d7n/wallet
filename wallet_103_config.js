@@ -1,1 +1,1 @@
-var mnemonic = "outdoor poet gesture menu museum consider front thunder eight exchange exit angle";
+var mnemonic = "valley person gain royal cereal member minor sense letter high artist combine";

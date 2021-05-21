@@ -1,1 +1,1 @@
-var mnemonic = "taxi youth job hybrid still prevent calm list cement issue betray rabbit";
+var mnemonic = "curious rebel fog pink reform empower purpose phrase size ecology lab aim";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding struggle shoot crime chief goose gesture pill govern excuse jump effort";
+var mnemonic = "noise track glory today reward this habit total sorry series deposit sleep";

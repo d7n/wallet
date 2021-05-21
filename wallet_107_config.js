@@ -1,1 +1,1 @@
-var mnemonic = "winter large crime top push jewel clip catalog together bulk green thunder";
+var mnemonic = "cycle notable champion gallery fee struggle toward liberty absurd cage crater argue";

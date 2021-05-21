@@ -1,1 +1,1 @@
-var mnemonic = "decrease flower express noise general label clog ignore master bundle coil inquiry";
+var mnemonic = "high shine current weasel smooth detect cup trophy lend innocent lounge opera";

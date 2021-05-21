@@ -1,1 +1,1 @@
-var mnemonic = "price toward vivid maximum never roof bicycle together once final acid photo";
+var mnemonic = "monitor clay flip public peasant broom usage indoor jazz large magic blame";

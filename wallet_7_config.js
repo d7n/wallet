@@ -1,1 +1,1 @@
-var mnemonic = "void enact circle subject resist typical swift service bind vote fever tonight";
+var mnemonic = "sound ceiling narrow shallow throw claw abandon later smart during then door";

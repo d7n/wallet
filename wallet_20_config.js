@@ -1,1 +1,1 @@
-var mnemonic = "play only cram someone worth park spell major pulse angry lab evidence";
+var mnemonic = "tattoo exhaust idle virtual term over bone endless spirit forum slam car";

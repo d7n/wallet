@@ -1,1 +1,1 @@
-var mnemonic = "turn quarter topple better squeeze plug modify adapt resist cash remind coil";
+var mnemonic = "heart bracket perfect combine decade ill forward behind ghost pelican frame cupboard";

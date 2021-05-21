@@ -1,1 +1,1 @@
-var mnemonic = "awkward distance drum raise bring hospital remove oblige math plug assist copper";
+var mnemonic = "sample casual end undo mechanic apple blue pioneer rude cause melody tackle";

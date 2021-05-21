@@ -1,1 +1,1 @@
-var mnemonic = "sphere alley tree shed stuff casual embody pizza nuclear panel carpet seat";
+var mnemonic = "breeze prize margin edit silk grape vendor lesson more pause impact stuff";

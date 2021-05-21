@@ -1,1 +1,1 @@
-var mnemonic = "uphold flash cliff merge tell romance reward ceiling diesel quiz cement satisfy";
+var mnemonic = "prepare east fire entry cycle screen copper little rival brief still toilet";

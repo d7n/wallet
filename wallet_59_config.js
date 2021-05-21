@@ -1,1 +1,1 @@
-var mnemonic = "enter clinic until supreme hope voice hurdle ski shoot invite hammer outdoor";
+var mnemonic = "stamp title people gauge body frozen wheat make snack random that thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial uphold narrow jump miss dizzy autumn crisp volume fiction firm chalk";
+var mnemonic = "high tail leg frown ramp brother twin chalk abstract armed hawk brother";

@@ -1,1 +1,1 @@
-var mnemonic = "involve desert daughter easily mistake economy eye pave school very retreat romance";
+var mnemonic = "similar album defense become large kiwi collect arrest letter off stadium club";

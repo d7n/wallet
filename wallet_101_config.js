@@ -1,1 +1,1 @@
-var mnemonic = "road stereo throw father alley green mean proud globe infant before foster";
+var mnemonic = "energy drip refuse road concert prefer hard powder nephew rose cart decorate";

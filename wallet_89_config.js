@@ -1,1 +1,1 @@
-var mnemonic = "scrub matrix arctic catch parade media route utility embrace float soon high";
+var mnemonic = "harbor board agent long bird arm capital april dinner parrot deputy daring";

@@ -1,1 +1,1 @@
-var mnemonic = "actor poverty evoke filter animal father legend spice oil symbol alone document";
+var mnemonic = "village hard intact help more one powder team loud outside afford praise";

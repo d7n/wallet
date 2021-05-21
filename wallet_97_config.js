@@ -1,1 +1,1 @@
-var mnemonic = "leave update feed tide access barrel budget gospel that task endorse timber";
+var mnemonic = "fatal pony season nature tiger adjust friend lion version job just play";

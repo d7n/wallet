@@ -1,1 +1,1 @@
-var mnemonic = "machine flee example any glow woman alone mammal version nasty bunker borrow";
+var mnemonic = "find ranch domain excuse congress artist artwork jaguar copper hedgehog segment brass";

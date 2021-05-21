@@ -1,1 +1,1 @@
-var mnemonic = "festival bless wild desk knock cash aware buddy run catch artwork nature";
+var mnemonic = "aunt hamster rural country oblige guitar pigeon afford clerk practice deputy ski";

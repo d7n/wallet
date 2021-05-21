@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow adapt crane ecology soda rather media leisure submit camera urban carry";
+var mnemonic = "key omit tide assume clog useless heart initial walnut banner submit inquiry";

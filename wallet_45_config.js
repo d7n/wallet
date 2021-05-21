@@ -1,1 +1,1 @@
-var mnemonic = "add mention betray century embody rebuild stuff family payment prefer attack purpose";
+var mnemonic = "midnight focus place oil feature easily style nut twelve naive assume scheme";

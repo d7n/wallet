@@ -1,1 +1,1 @@
-var mnemonic = "thank join expect near angry bicycle vicious zero critic tuition cattle cattle";
+var mnemonic = "surround sugar blouse wagon twelve shoulder earn vault during dragon accuse grocery";

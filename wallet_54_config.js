@@ -1,1 +1,1 @@
-var mnemonic = "valley paddle gravity athlete board clap split symptom settle bounce remember tongue";
+var mnemonic = "what undo sick nerve lift swing just tiger pave alley summer weather";

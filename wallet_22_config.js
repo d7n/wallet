@@ -1,1 +1,1 @@
-var mnemonic = "smart pumpkin guilt assist identify jungle survey device manage fall please mixed";
+var mnemonic = "any same melody economy discover myself pink armor fabric shuffle traffic example";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk truly afraid wedding sock lion trust virus thank robot fury replace";
+var mnemonic = "wide squirrel crunch slim rubber bright later strike over faint favorite pear";

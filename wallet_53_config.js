@@ -1,1 +1,1 @@
-var mnemonic = "cup rail universe improve slam swap axis fossil surprise hat box cave";
+var mnemonic = "topple mean balance fortune thing just female frozen mobile risk must divide";

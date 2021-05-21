@@ -1,1 +1,1 @@
-var mnemonic = "know stairs fold dose nature market much impact cloth pet hero seed";
+var mnemonic = "basic magnet runway awesome dirt sunset addict world steak brother front garden";

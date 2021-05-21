@@ -1,1 +1,1 @@
-var mnemonic = "shoe junk business blush inhale view scale produce chronic ribbon fashion brand";
+var mnemonic = "portion profit boss suggest online evoke math there need session impose hybrid";

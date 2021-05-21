@@ -1,1 +1,1 @@
-var mnemonic = "episode regret thunder now autumn impact wonder local prevent until cigar lawn";
+var mnemonic = "dog stuff soul employ tank run bright risk attitude van aspect enhance";

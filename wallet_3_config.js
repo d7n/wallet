@@ -1,1 +1,1 @@
-var mnemonic = "interest dutch library cable payment media chief tower balcony wrestle size element";
+var mnemonic = "team reopen update heavy pool exchange husband differ stone vapor lounge degree";

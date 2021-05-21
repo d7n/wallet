@@ -1,1 +1,1 @@
-var mnemonic = "gown lend exile mercy swarm shift stock cup raven tree delay capital";
+var mnemonic = "protect enemy liberty seat arrange orchard attract indoor use bring anxiety bargain";

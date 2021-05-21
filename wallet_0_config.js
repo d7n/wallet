@@ -1,1 +1,1 @@
-var mnemonic = "forum melody elevator truth raccoon entire unaware list wedding glue wood almost";
+var mnemonic = "card between shock story recipe dust actual deal fault master item wire";

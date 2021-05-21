@@ -1,1 +1,1 @@
-var mnemonic = "kit across bounce evoke tunnel trend gold surface night lawsuit before jacket";
+var mnemonic = "recycle smooth crew shock kind oak antenna voice route innocent scissors offer";

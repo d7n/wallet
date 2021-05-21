@@ -1,1 +1,1 @@
-var mnemonic = "reward mixture label hungry blame capital quantum uncover ethics hold ethics slot";
+var mnemonic = "rate train twelve coil brief sample kid excuse fortune disorder viable smooth";
