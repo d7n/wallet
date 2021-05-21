@@ -1,1 +1,1 @@
-var mnemonic = "pig fringe alter mistake tail addict student must laptop adjust park day";
+var mnemonic = "hospital away pen express weekend screen step session current kitchen switch real";

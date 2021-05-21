@@ -1,1 +1,1 @@
-var mnemonic = "horror delay connect blood wait blade trial inherit traffic taxi sock drift";
+var mnemonic = "path toy birth brush urban junior foam visa reveal humble dismiss blouse";

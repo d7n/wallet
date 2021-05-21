@@ -1,1 +1,1 @@
-var mnemonic = "canyon boat drastic weekend piece knife since female cram quick dumb bonus";
+var mnemonic = "tourist tuna sun desert afford tongue initial drift alcohol mechanic blanket help";

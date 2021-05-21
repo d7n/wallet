@@ -1,1 +1,1 @@
-var mnemonic = "fragile edge basic satoshi expire bullet title conduct torch ability steak expose";
+var mnemonic = "speed festival beauty trigger embody fee gate conduct moment crowd shallow member";

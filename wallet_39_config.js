@@ -1,1 +1,1 @@
-var mnemonic = "silk rhythm mango chicken bag vivid flash raise wish ice around leave";
+var mnemonic = "unaware flip minute skirt current enjoy motor movie wolf panther best empty";

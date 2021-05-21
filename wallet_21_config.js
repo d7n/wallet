@@ -1,1 +1,1 @@
-var mnemonic = "step result moment mistake wet tooth hero soap elder category can admit";
+var mnemonic = "hazard chat fitness disease fun method sentence only turtle replace attack try";

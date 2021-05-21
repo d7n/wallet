@@ -1,1 +1,1 @@
-var mnemonic = "drop ecology smart daring lyrics battle web napkin cruel verify found dinner";
+var mnemonic = "spray picnic enemy frequent sign tide runway illness project slot ramp dirt";

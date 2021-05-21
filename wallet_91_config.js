@@ -1,1 +1,1 @@
-var mnemonic = "velvet humor few pilot excite warfare bargain report consider label cook unfold";
+var mnemonic = "unfair general exile parent minimum text glow inform pretty limb soda release";

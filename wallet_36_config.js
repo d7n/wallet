@@ -1,1 +1,1 @@
-var mnemonic = "immune circle aisle gesture about tail news prepare mirror valley twin person";
+var mnemonic = "regret long ring domain fiscal dawn trend crunch music lens mixed champion";

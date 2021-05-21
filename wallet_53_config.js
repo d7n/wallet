@@ -1,1 +1,1 @@
-var mnemonic = "dove balcony flip bulk rapid dumb nice truck bind trick enforce wasp";
+var mnemonic = "letter regular expire sugar chalk orchard play exact strong hope victory aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "travel tragic water stadium echo bottom target permit broccoli orient minor hair";
+var mnemonic = "lunar mystery earth visa bracket outside gun doll forest husband indicate pig";

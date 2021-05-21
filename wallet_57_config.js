@@ -1,1 +1,1 @@
-var mnemonic = "knife depend swear galaxy surprise need praise hat about diary twenty prosper";
+var mnemonic = "basic donkey ginger jungle sweet topic hammer budget debate uphold mention author";

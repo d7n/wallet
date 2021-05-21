@@ -1,1 +1,1 @@
-var mnemonic = "fatigue master pattern inmate between ten menu shop olympic enable draft large";
+var mnemonic = "universe sure sound warm sea slam solve thing pave ask absent share";

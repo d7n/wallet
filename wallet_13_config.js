@@ -1,1 +1,1 @@
-var mnemonic = "festival maze latin rifle entry six layer umbrella notice divide tuition finish";
+var mnemonic = "local cloth fury chair subway retreat blossom rabbit shoot toy together off";

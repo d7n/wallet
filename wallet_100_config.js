@@ -1,1 +1,1 @@
-var mnemonic = "manual veteran only balcony hollow usage swamp garden mimic action ask egg";
+var mnemonic = "three flat yellow used public buyer gorilla interest false empower pole kidney";

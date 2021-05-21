@@ -1,1 +1,1 @@
-var mnemonic = "list evidence powder biology aisle assault client try purity surround december abuse";
+var mnemonic = "tray whip theory slush remove globe faculty mango sustain polar item clown";

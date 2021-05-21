@@ -1,1 +1,1 @@
-var mnemonic = "grief mimic lunch among wolf south divide way whisper surprise gorilla nephew";
+var mnemonic = "dinosaur bulk sail become alert unfair improve eager melt front exile away";

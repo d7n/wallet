@@ -1,1 +1,1 @@
-var mnemonic = "wrist tank stomach vault fuel accuse jealous select canyon main ensure portion";
+var mnemonic = "alpha they offer verb depth state absorb corn story silk angry lady";

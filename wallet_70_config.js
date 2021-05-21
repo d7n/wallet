@@ -1,1 +1,1 @@
-var mnemonic = "barrel misery amount meadow park discover general various index summer rug alien";
+var mnemonic = "limit wagon sense rack soldier wedding focus seminar silk feed unit idea";

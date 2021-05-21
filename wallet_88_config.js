@@ -1,1 +1,1 @@
-var mnemonic = "glow caution school bronze subway indicate uncle leg bicycle improve mother what";
+var mnemonic = "goose raise alley scrub drink scrub pigeon agree home sense virtual screen";

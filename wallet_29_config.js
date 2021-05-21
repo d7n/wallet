@@ -1,1 +1,1 @@
-var mnemonic = "barely runway father door author fence call boring snake sausage crack mule";
+var mnemonic = "wall certain artwork smart portion ask potato come vague member measure feature";

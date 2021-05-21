@@ -1,1 +1,1 @@
-var mnemonic = "side tribe tired rule recall nerve survey valid absent festival disease salute";
+var mnemonic = "grass trick curve use dizzy photo husband purpose mistake shift artist truck";

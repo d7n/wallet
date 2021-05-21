@@ -1,1 +1,1 @@
-var mnemonic = "music style dragon decline supreme planet helmet still steak claim taste iron";
+var mnemonic = "board couple merge flame food curtain melody joy copper damage struggle thing";

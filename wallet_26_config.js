@@ -1,1 +1,1 @@
-var mnemonic = "toss grow next stumble tissue polar just appear print divorce special room";
+var mnemonic = "below menu enable broken quantum lend unusual dirt lawsuit guilt chase enough";

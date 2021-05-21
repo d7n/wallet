@@ -1,1 +1,1 @@
-var mnemonic = "december diagram width trash humble salad orbit donkey melt language increase excuse";
+var mnemonic = "merit fitness inherit twenty attract main buddy beach eternal wrestle unfold pluck";

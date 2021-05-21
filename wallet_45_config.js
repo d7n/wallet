@@ -1,1 +1,1 @@
-var mnemonic = "post double finish shiver seminar steel cluster alter october sting breeze shrimp";
+var mnemonic = "know uncle seek biology fancy girl blade spoon box number dinosaur easily";

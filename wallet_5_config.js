@@ -1,1 +1,1 @@
-var mnemonic = "media romance detect master describe tide dice era risk modify spot click";
+var mnemonic = "squirrel small denial miracle cool annual solution fit funny ketchup bread warfare";

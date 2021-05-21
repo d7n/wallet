@@ -1,1 +1,1 @@
-var mnemonic = "inflict october dynamic pass insect wire note poet prefer pledge legal genre";
+var mnemonic = "galaxy become present joy this ugly dutch ethics night quick boost wrestle";

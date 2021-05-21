@@ -1,1 +1,1 @@
-var mnemonic = "fall sell story child general sick cigar dune man term flash power";
+var mnemonic = "october remain artefact else rib cloud install want detect maid knife coffee";

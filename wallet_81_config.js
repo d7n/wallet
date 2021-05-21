@@ -1,1 +1,1 @@
-var mnemonic = "wear balcony decade letter sustain silk marble amateur need final believe sound";
+var mnemonic = "logic drill other gun erupt mass hazard also damp assist spider veteran";

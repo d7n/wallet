@@ -1,1 +1,1 @@
-var mnemonic = "upgrade business pool october giraffe eager million side coach gaze water hammer";
+var mnemonic = "peanut render conduct disagree reason milk notable twist domain guess lonely gauge";

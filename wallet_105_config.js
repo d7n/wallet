@@ -1,1 +1,1 @@
-var mnemonic = "merry syrup dad bridge mirror blossom assault spike bulk dawn tragic tilt";
+var mnemonic = "lawn book label universe input identify sorry surprise deer silent sudden squeeze";

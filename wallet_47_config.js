@@ -1,1 +1,1 @@
-var mnemonic = "army rough quantum enact bomb artwork size mention cigar artwork vanish arch";
+var mnemonic = "casino orchard limit firm review sand meat sudden glance degree exact apart";

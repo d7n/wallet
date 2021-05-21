@@ -1,1 +1,1 @@
-var mnemonic = "dry ostrich fiction honey actor tired worth trade conduct market chef illegal";
+var mnemonic = "speed heavy retire detect math rigid satoshi robust cancel impulse regret couple";

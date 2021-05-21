@@ -1,1 +1,1 @@
-var mnemonic = "around deer rate voyage badge purse observe base squeeze quantum rain tell";
+var mnemonic = "fat frequent magnet crack spice marriage rich truth saddle cute orange weasel";

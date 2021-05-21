@@ -1,1 +1,1 @@
-var mnemonic = "alcohol wear boy property banner boost empty leopard fame shoulder rough grow";
+var mnemonic = "raven social photo neutral just hawk woman tornado knee culture indoor dry";

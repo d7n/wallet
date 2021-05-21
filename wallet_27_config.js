@@ -1,1 +1,1 @@
-var mnemonic = "diesel stone obtain range burst dream three front rigid way into region";
+var mnemonic = "blast grass deliver flush mimic faint divide bulk current axis violin flat";

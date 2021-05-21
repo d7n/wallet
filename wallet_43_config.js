@@ -1,1 +1,1 @@
-var mnemonic = "kit galaxy able fly pony ready gas pencil empty runway glue grocery";
+var mnemonic = "nature spot fiscal jungle under prefer swamp enroll broken seat entire put";

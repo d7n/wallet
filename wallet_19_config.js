@@ -1,1 +1,1 @@
-var mnemonic = "dumb nature smoke arrow side car craft dentist dune brand wagon bridge";
+var mnemonic = "aisle chunk subway nothing talk impact enemy inflict spell job resist subject";

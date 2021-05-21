@@ -1,1 +1,1 @@
-var mnemonic = "crime wild venture indicate rifle wrestle day magic slot advice wall immune";
+var mnemonic = "point never palm sauce such fit danger ripple lecture damage move desert";

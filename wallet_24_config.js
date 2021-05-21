@@ -1,1 +1,1 @@
-var mnemonic = "fancy man shove axis arm tuna script banner fish face razor goat";
+var mnemonic = "gloom dish also impose essay margin anger lend theory purchase popular globe";

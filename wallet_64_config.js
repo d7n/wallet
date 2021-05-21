@@ -1,1 +1,1 @@
-var mnemonic = "remove junk pluck close hazard lake provide curve robust sell learn table";
+var mnemonic = "emerge dumb hotel mind slide supply bomb half parent exchange solid expect";

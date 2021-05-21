@@ -1,1 +1,1 @@
-var mnemonic = "spy wasp thrive situate evil celery drum recall duty tobacco grunt gossip";
+var mnemonic = "priority invest enemy raven click favorite kangaroo oak tissue target front sport";

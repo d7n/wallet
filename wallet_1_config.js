@@ -1,1 +1,1 @@
-var mnemonic = "capable relax age defense wink spell bullet weird away fall coconut carpet";
+var mnemonic = "proud seed obey hub thought normal hedgehog length because find inmate glide";

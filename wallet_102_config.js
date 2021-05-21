@@ -1,1 +1,1 @@
-var mnemonic = "shoulder crash tired notable hawk orbit paper obtain cram boat pipe act";
+var mnemonic = "violin similar month sort addict blast stumble potato anxiety proud husband labor";

@@ -1,1 +1,1 @@
-var mnemonic = "enough double transfer pretty kid wear danger student bubble surprise road doctor";
+var mnemonic = "arrange celery stumble hub matrix violin brand walnut sudden sugar roof rubber";

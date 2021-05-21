@@ -1,1 +1,1 @@
-var mnemonic = "toss kiss offer tape list gospel again focus comfort lend dad check";
+var mnemonic = "common soon avocado wrestle live differ dove flight agent upon lady chuckle";

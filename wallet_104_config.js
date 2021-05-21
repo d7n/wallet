@@ -1,1 +1,1 @@
-var mnemonic = "myth antique onion demise ecology butter harbor visual atom save unknown example";
+var mnemonic = "increase exhibit rubber suggest about paddle faint select artefact good rigid timber";

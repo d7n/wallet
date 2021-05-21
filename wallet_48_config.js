@@ -1,1 +1,1 @@
-var mnemonic = "like syrup wrap trade wreck rather merit vacuum piece surge focus prefer";
+var mnemonic = "slice nice collect purity feature host amused resist horn increase security vendor";

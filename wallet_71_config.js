@@ -1,1 +1,1 @@
-var mnemonic = "few dentist suit various pioneer double rubber scheme one winner easily riot";
+var mnemonic = "churn focus degree ecology galaxy stomach wheat battle stairs industry pepper equal";

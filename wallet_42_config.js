@@ -1,1 +1,1 @@
-var mnemonic = "utility clever position brother shiver gravity decade mention supreme example choose meadow";
+var mnemonic = "choose buzz derive bounce ghost fury mistake toddler tree still boost useless";

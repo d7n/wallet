@@ -1,1 +1,1 @@
-var mnemonic = "gown timber draft brand almost canal coach zero hat merge arrow robust";
+var mnemonic = "survey endorse outdoor bag large urge army involve myself april tribe coffee";

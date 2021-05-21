@@ -1,1 +1,1 @@
-var mnemonic = "title truck joy wheat total robot parent sister donate garlic thrive find";
+var mnemonic = "lady ocean social loop catch casual orbit grief tomorrow nothing near manage";

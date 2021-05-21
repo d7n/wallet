@@ -1,1 +1,1 @@
-var mnemonic = "claw spend range peasant winter one tobacco process fall practice castle enter";
+var mnemonic = "lizard text govern soap wrong wall island review grass potato cake citizen";

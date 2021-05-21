@@ -1,1 +1,1 @@
-var mnemonic = "parent winter pitch bubble midnight capable weekend mask dream moon steak risk";
+var mnemonic = "angle door silver poem raise student perfect wool boat garment subject click";

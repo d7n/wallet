@@ -1,1 +1,1 @@
-var mnemonic = "spin promote aisle crack much clever cliff vast flat lemon modify ivory";
+var mnemonic = "border gossip junk gauge tiger spend patch best person ride autumn tool";

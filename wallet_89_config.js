@@ -1,1 +1,1 @@
-var mnemonic = "isolate bless leaf clay trim excite burden range pony write ten puzzle";
+var mnemonic = "biology rent amused veteran fatal economy market soul close such knee language";

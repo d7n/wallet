@@ -1,1 +1,1 @@
-var mnemonic = "churn frog into famous mercy chunk bright attend forest entire ensure drill";
+var mnemonic = "remain begin sausage eight gossip predict plug eye sea skate card bunker";

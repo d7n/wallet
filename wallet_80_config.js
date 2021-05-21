@@ -1,1 +1,1 @@
-var mnemonic = "feature alley program boss sustain forum cover author oven mouse suit gasp";
+var mnemonic = "cause asthma cube random deposit antenna cradle crater inherit eternal ranch seek";

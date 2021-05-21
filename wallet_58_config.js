@@ -1,1 +1,1 @@
-var mnemonic = "fruit tree rigid trouble pill car awesome fitness milk party essence salute";
+var mnemonic = "adult baby decorate question luggage fiber mind seven giggle scorpion what increase";

@@ -1,1 +1,1 @@
-var mnemonic = "neither lesson jar unknown exclude merit can mixture draft tilt swim vanish";
+var mnemonic = "shield truth empty combine number hover such twist minor spoil vehicle arrow";

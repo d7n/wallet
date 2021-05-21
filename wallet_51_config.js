@@ -1,1 +1,1 @@
-var mnemonic = "donor interest sister acid combine country source lyrics rocket payment essence pulp";
+var mnemonic = "couch choose group lady suit member lab table alcohol genuine inmate route";

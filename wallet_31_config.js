@@ -1,1 +1,1 @@
-var mnemonic = "life goddess neglect muscle output level response autumn round tumble shy frame";
+var mnemonic = "artist engine flee guide stamp zone shift news sail photo surprise agent";

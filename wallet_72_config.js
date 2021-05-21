@@ -1,1 +1,1 @@
-var mnemonic = "talk capable unable soda clean acoustic check float mind office idle fold";
+var mnemonic = "scale collect rib word hood quarter poem focus disagree solution legend disorder";

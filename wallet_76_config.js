@@ -1,1 +1,1 @@
-var mnemonic = "unveil smoke spin movie conduct miss mystery gallery dirt gown rescue august";
+var mnemonic = "ugly vintage trade glimpse kangaroo pencil bid hover butter cash document install";

@@ -1,1 +1,1 @@
-var mnemonic = "seat switch south cat country track inquiry then phone fluid silly medal";
+var mnemonic = "carbon pause sting sport strike deliver where soccer rural lesson lawsuit derive";

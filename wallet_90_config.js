@@ -1,1 +1,1 @@
-var mnemonic = "rookie dance era critic addict useful swim key process jealous tiny picnic";
+var mnemonic = "select trophy mean stomach panda famous devote series offer man balance tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "faint change orbit public swim type oil floor vocal midnight retreat tenant";
+var mnemonic = "ostrich salt major trial ramp river noble ski response ice abstract drill";

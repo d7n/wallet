@@ -1,1 +1,1 @@
-var mnemonic = "dry library quote unlock amazing minute small fan useless game armor immense";
+var mnemonic = "improve knife hunt mixture mixed race script pupil beef inflict fury turtle";

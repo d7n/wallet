@@ -1,1 +1,1 @@
-var mnemonic = "person happy agree token rough novel orbit visual ship rescue lens excite";
+var mnemonic = "census burden must afford fiscal sail joke dignity candy mercy car better";

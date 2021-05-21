@@ -1,1 +1,1 @@
-var mnemonic = "before ancient portion brisk setup nasty across level night envelope subject private";
+var mnemonic = "chief gadget else prepare always planet staff involve stay squirrel urge problem";

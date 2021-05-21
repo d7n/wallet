@@ -1,1 +1,1 @@
-var mnemonic = "blind crucial cement blood draw actual leopard raise margin delay morning dream";
+var mnemonic = "toss blanket crime assist boost infant reject soap walnut ahead space frame";

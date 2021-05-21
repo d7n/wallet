@@ -1,1 +1,1 @@
-var mnemonic = "broccoli stick name cry breeze furnace trophy exhaust dune add poet leaf";
+var mnemonic = "human breeze one boy bronze radar thunder lonely space badge public produce";

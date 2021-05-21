@@ -1,1 +1,1 @@
-var mnemonic = "black elite mimic gospel coin brown reject awkward draft adult odor stumble";
+var mnemonic = "group flee powder melt interest honey cluster federal section capable pattern mercy";

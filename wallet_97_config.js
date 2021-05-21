@@ -1,1 +1,1 @@
-var mnemonic = "tackle hour engage suit doll jelly chunk hover elder whisper carbon theory";
+var mnemonic = "version rail cube describe child buffalo huge sand female enough culture shove";

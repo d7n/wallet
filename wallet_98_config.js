@@ -1,1 +1,1 @@
-var mnemonic = "jeans step maple quit outside spoil lens scout loan finger barely message";
+var mnemonic = "retreat network timber paper elegant rigid vague puzzle shoe grape friend equal";

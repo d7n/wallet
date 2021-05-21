@@ -1,1 +1,1 @@
-var mnemonic = "hobby law report brief essay village banana frog image snap develop valid";
+var mnemonic = "tattoo dizzy portion barrel fruit shift sponsor special cube sorry remember sell";

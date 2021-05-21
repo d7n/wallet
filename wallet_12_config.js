@@ -1,1 +1,1 @@
-var mnemonic = "ring answer chunk chaos elite surprise idea owner then easily ramp desk";
+var mnemonic = "cart web whip conduct family kiss match grass fog mercy goat truck";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze swift memory father foil type exit country lottery auction aware random";
+var mnemonic = "flavor wrestle biology purse clean borrow slight cruise expose edit shaft hover";

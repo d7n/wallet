@@ -1,1 +1,1 @@
-var mnemonic = "body hidden gospel large cause ready short lecture venture sight include equal";
+var mnemonic = "size frequent bag jewel enact afraid diary obvious harvest shadow charge hamster";

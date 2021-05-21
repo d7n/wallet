@@ -1,1 +1,1 @@
-var mnemonic = "drift under success anchor bacon success honey tomato between submit hat able";
+var mnemonic = "pupil banana comic dog then stamp detail only pill air answer soft";

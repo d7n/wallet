@@ -1,1 +1,1 @@
-var mnemonic = "end misery you bracket hamster theory blouse bone call federal gap drum";
+var mnemonic = "hire screen occur tiger weapon noise humble dignity region picture skill blue";

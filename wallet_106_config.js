@@ -1,1 +1,1 @@
-var mnemonic = "give thrive wild cave minimum prize example picture three empower best sibling";
+var mnemonic = "human physical replace pitch hold degree crazy coil upper float duck review";

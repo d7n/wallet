@@ -1,1 +1,1 @@
-var mnemonic = "order foil carry lamp visit useful escape burden scale toilet student figure";
+var mnemonic = "awful tag plunge female view timber monitor alone mind drive argue arrest";

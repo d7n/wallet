@@ -1,1 +1,1 @@
-var mnemonic = "truly suggest absurd what unknown evidence middle sea helmet dinosaur reveal riot";
+var mnemonic = "awake rapid lock sunny force minor ten excuse enable dizzy top mutual";

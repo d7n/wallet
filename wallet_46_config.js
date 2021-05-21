@@ -1,1 +1,1 @@
-var mnemonic = "slam deliver frog project opera rose apology curtain question organ belt reject";
+var mnemonic = "secret ensure trend tortoise runway popular filter west body area orient company";

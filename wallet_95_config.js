@@ -1,1 +1,1 @@
-var mnemonic = "affair seek essence zoo puzzle champion creek bike tent giant elite improve";
+var mnemonic = "wife frost rail gain click resemble gravity still attract divorce garment clay";

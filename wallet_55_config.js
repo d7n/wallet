@@ -1,1 +1,1 @@
-var mnemonic = "film busy breeze color insane heart garlic smart praise genuine laptop slogan";
+var mnemonic = "beach devote end aerobic spice warrior call energy seek kingdom lunch robust";

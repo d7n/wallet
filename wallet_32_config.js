@@ -1,1 +1,1 @@
-var mnemonic = "final similar student announce better bottom turkey gravity critic champion sugar reward";
+var mnemonic = "hip noble veteran matrix judge vintage involve boil science ticket struggle sustain";
