@@ -1,1 +1,1 @@
-var mnemonic = "arena eternal couch chat toe all supreme prepare disagree oven wolf pipe";
+var mnemonic = "setup myself opera robot art life brave boring label solar chicken gift";

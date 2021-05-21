@@ -1,1 +1,1 @@
-var mnemonic = "glad twice reflect nature secret recipe behind nice library cost purity obey";
+var mnemonic = "gas churn faculty force flip clean inhale book quiz craft extend memory";

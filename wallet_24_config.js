@@ -1,1 +1,1 @@
-var mnemonic = "october bread drift faint spread balance ordinary fee toward early library brown";
+var mnemonic = "seat rib swamp pair sad normal kiwi orient oblige inch enroll crew";

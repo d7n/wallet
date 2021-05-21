@@ -1,1 +1,1 @@
-var mnemonic = "range inner never supply ice gauge prosper mass elephant wise skull weird";
+var mnemonic = "weekend canyon reopen sentence strategy absent faint discover trap net faith cereal";

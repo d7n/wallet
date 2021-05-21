@@ -1,1 +1,1 @@
-var mnemonic = "lady labor boil this diesel arena tape proof inflict surge resist false";
+var mnemonic = "filter print lobster where steel inhale save cinnamon love venture club gather";

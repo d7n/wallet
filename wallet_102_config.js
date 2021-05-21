@@ -1,1 +1,1 @@
-var mnemonic = "ocean lemon chase tone blind super harbor tenant bomb metal note picnic";
+var mnemonic = "pencil leopard indicate curtain page athlete equip spot ivory crumble jacket drastic";

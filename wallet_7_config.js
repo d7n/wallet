@@ -1,1 +1,1 @@
-var mnemonic = "toss draft express cart intact joy source finger blue drama cage neither";
+var mnemonic = "extend amazing shop winter giggle element milk insane shield state draft gentle";

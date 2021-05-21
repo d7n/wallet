@@ -1,1 +1,1 @@
-var mnemonic = "office apart fluid length drop crane leopard space away lady another you";
+var mnemonic = "biology insect clarify guilt goose fetch move file federal lonely arctic grit";

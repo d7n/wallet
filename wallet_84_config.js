@@ -1,1 +1,1 @@
-var mnemonic = "bean alter seed scatter romance digital rude rug fault organ enhance fancy";
+var mnemonic = "quality snake buffalo deal kiss stamp deal verb open review tone stand";

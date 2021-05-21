@@ -1,1 +1,1 @@
-var mnemonic = "bread foil marine yard crater economy boring case sand drive spike material";
+var mnemonic = "scorpion steel wedding rare duty oblige stock car purity lucky finger two";

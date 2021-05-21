@@ -1,1 +1,1 @@
-var mnemonic = "embrace execute old sad camera announce bamboo act have awake dog moment";
+var mnemonic = "pet tip forward blouse hotel airport tide slab cry blue crunch machine";

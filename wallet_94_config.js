@@ -1,1 +1,1 @@
-var mnemonic = "fabric sound try bless whisper summer budget concert adjust stage more mix";
+var mnemonic = "unusual hood admit dilemma trade stereo either transfer dice update boss nest";

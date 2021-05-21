@@ -1,1 +1,1 @@
-var mnemonic = "feel soccer faculty season kind brass rally dutch adjust embrace iron immune";
+var mnemonic = "settle palm lumber invest delay jeans butter devote issue remember broom modify";

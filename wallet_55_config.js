@@ -1,1 +1,1 @@
-var mnemonic = "answer wide mandate ozone inquiry trip receive olympic castle hover brand slide";
+var mnemonic = "moral mechanic diet soccer trash curtain knock crawl patch use drip panel";

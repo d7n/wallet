@@ -1,1 +1,1 @@
-var mnemonic = "mixture agent amount gold west box liar pitch climb iron abuse link";
+var mnemonic = "loyal limb right walk grape frown ensure isolate thought aisle jacket sunny";

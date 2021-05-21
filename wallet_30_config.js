@@ -1,1 +1,1 @@
-var mnemonic = "there wave wreck void legend rule unveil include hair delay mixture twin";
+var mnemonic = "walnut light release elephant defy system party drink indoor artwork rare nuclear";

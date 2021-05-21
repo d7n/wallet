@@ -1,1 +1,1 @@
-var mnemonic = "mom junk help gold panther north chase ethics bridge hope extend undo";
+var mnemonic = "auto spawn slow soap abandon need song trap pledge cube input ribbon";

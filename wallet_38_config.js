@@ -1,1 +1,1 @@
-var mnemonic = "prosper build few ski sister approve august proof repair sample squirrel palm";
+var mnemonic = "crunch february country range certain series analyst sick tell knock huge scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "forward aware silk planet cradle hurry street nuclear pulp shield gadget mask";
+var mnemonic = "else exchange upset worth young pool harvest dynamic lawsuit poet jealous protect";

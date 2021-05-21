@@ -1,1 +1,1 @@
-var mnemonic = "forest over february attitude chunk miss jungle hawk tuna honey improve juice";
+var mnemonic = "series evil spice swing resemble soldier crucial pass sing cliff bullet door";

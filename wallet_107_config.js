@@ -1,1 +1,1 @@
-var mnemonic = "load cash apology medal master tumble message ordinary tool rain future surprise";
+var mnemonic = "movie truth pause cable team unlock time welcome toddler gap warrior music";

@@ -1,1 +1,1 @@
-var mnemonic = "mind fold sight infant spirit tray smoke tattoo forget account pave peanut";
+var mnemonic = "gauge infant inquiry team stay multiply differ image hair happy beef adult";

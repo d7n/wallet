@@ -1,1 +1,1 @@
-var mnemonic = "belt laundry hybrid squeeze wealth pony boil timber merry speak flat bundle";
+var mnemonic = "blame kitten clever weasel arrow feature october muscle mystery able coast shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz magic potato social human lounge circle spoon mammal expire evoke wagon";
+var mnemonic = "ozone field border debris observe volume lesson assault fault fever rack veteran";

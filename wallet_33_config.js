@@ -1,1 +1,1 @@
-var mnemonic = "nurse obey congress whip clog pencil update chicken adjust also victory humble";
+var mnemonic = "mimic siren verify entry skill range kitchen work scene approve renew online";

@@ -1,1 +1,1 @@
-var mnemonic = "consider identify black ugly off law spell flavor material soldier satisfy only";
+var mnemonic = "brave atom lumber buzz foam pony expose kitten vendor pencil coach twelve";

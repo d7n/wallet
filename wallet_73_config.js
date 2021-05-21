@@ -1,1 +1,1 @@
-var mnemonic = "flock gun spatial luggage design wage puppy ship trouble disease violin panda";
+var mnemonic = "pulp leaf leader crowd size protect frost field rebel diamond typical duty";

@@ -1,1 +1,1 @@
-var mnemonic = "hair spot pond net army old bone life open turkey tackle lava";
+var mnemonic = "long green cigar pause athlete rate horn lend dizzy wrong worth salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans change sure glad save wife basket book street bone reform glad";
+var mnemonic = "merry apology vital course throw clay path speed forum consider spoon goddess";

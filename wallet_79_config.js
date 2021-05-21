@@ -1,1 +1,1 @@
-var mnemonic = "neither harvest orient roast culture jeans hill rigid globe climb glance kiss";
+var mnemonic = "voyage okay fuel ignore lounge actual arctic glow priority give achieve advice";

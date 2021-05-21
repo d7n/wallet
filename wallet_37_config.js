@@ -1,1 +1,1 @@
-var mnemonic = "page minor talent nominee power dirt invest crew claw collect era abuse";
+var mnemonic = "urban annual ranch female chunk sword banana report sorry often outside brief";

@@ -1,1 +1,1 @@
-var mnemonic = "fox turkey road zoo table change scare ancient adult sound fall thrive";
+var mnemonic = "offer wash coin rhythm hungry crowd aware rude machine job vote come";

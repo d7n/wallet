@@ -1,1 +1,1 @@
-var mnemonic = "million old clown zoo rug stay beyond garlic monitor crunch alpha soul";
+var mnemonic = "inherit office parent glove between elite replace travel arm scrub glory blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "access bracket inhale boil sort coil fan public patrol whip outer digital";
+var mnemonic = "gadget advice universe decide stove toddler wool pelican cereal able pioneer apart";

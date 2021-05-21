@@ -1,1 +1,1 @@
-var mnemonic = "reopen dinosaur hurry cheap whisper runway hunt tonight breeze robot host that";
+var mnemonic = "leg wage viable accuse trash cupboard top foster artwork addict salt inflict";

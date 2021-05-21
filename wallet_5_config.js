@@ -1,1 +1,1 @@
-var mnemonic = "flock slight twenty bus youth illegal praise ridge inform sibling lawn diamond";
+var mnemonic = "basket panther license powder long blush impulse wrestle loyal figure travel symptom";

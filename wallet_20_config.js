@@ -1,1 +1,1 @@
-var mnemonic = "grab gate flavor keen bone annual push potato royal spot slice predict";
+var mnemonic = "office area drill toilet human twelve decide rough sail bronze impose indicate";

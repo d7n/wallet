@@ -1,1 +1,1 @@
-var mnemonic = "gorilla lava file version people scheme heavy since rebuild zoo federal suffer";
+var mnemonic = "among february vague tired infant friend urge soldier tube spawn design solve";

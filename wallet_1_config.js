@@ -1,1 +1,1 @@
-var mnemonic = "adjust capable umbrella increase candy horn minimum salad fabric glimpse build sphere";
+var mnemonic = "earn mobile holiday lawn sphere box buyer square essay soda torch smoke";

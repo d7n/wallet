@@ -1,1 +1,1 @@
-var mnemonic = "call health employ various maple protect sick sword ketchup fix harvest charge";
+var mnemonic = "wear brave better shed skull wear decide blue hurdle group mail tell";

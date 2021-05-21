@@ -1,1 +1,1 @@
-var mnemonic = "attend useful monkey crawl inch family grocery brisk bundle mention chuckle wood";
+var mnemonic = "benefit win motor enforce erupt dumb stay home collect ocean mystery curtain";

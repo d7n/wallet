@@ -1,1 +1,1 @@
-var mnemonic = "woman path bargain axis media collect news paper next kid buffalo turkey";
+var mnemonic = "fantasy silly ecology interest fringe obey stock outdoor damp tower season toddler";

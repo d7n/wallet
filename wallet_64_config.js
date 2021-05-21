@@ -1,1 +1,1 @@
-var mnemonic = "cute ensure tired hint hip advice stable divorce scale talent solve under";
+var mnemonic = "snap nothing obscure slush inside test omit clean fork wrestle police give";

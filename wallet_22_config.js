@@ -1,1 +1,1 @@
-var mnemonic = "call chuckle help zone early dizzy type size man virus syrup blue";
+var mnemonic = "century frozen nation now inquiry answer exotic gravity pear insect taxi fat";

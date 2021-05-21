@@ -1,1 +1,1 @@
-var mnemonic = "small hockey trophy piece lunch often again sniff spy try devote sail";
+var mnemonic = "special photo crush orphan lawn indoor river forget silent essence mom fossil";

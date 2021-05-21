@@ -1,1 +1,1 @@
-var mnemonic = "journey action toilet fabric opera twelve weekend stadium whip wise swim hint";
+var mnemonic = "close adapt beach velvet place kitchen husband keep shell slush fun river";

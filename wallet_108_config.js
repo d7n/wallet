@@ -1,1 +1,1 @@
-var mnemonic = "air auto before stable emotion glare replace chronic saddle crew inside hybrid";
+var mnemonic = "junior hen cycle list category supply giraffe seat bid patch siren fiction";

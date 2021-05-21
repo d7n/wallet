@@ -1,1 +1,1 @@
-var mnemonic = "strike check consider pact oven stick guitar train arrange rural title keep";
+var mnemonic = "sun item sausage mobile major middle kitten subject also identify shuffle detail";

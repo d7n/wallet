@@ -1,1 +1,1 @@
-var mnemonic = "pony corn clever yard thunder agent peace drama scrub amazing throw benefit";
+var mnemonic = "siege inmate spell baby potato child frown measure master sad fire slim";

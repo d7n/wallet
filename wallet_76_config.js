@@ -1,1 +1,1 @@
-var mnemonic = "dynamic impact injury priority giggle label someone infant strategy panel use predict";
+var mnemonic = "oxygen search whale main brush reject second excess cotton like flip speak";

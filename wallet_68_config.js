@@ -1,1 +1,1 @@
-var mnemonic = "mass confirm giant bid eternal mystery age source grape cliff hurry south";
+var mnemonic = "lunch wheat before chronic fire silent style horse input either waste army";

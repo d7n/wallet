@@ -1,1 +1,1 @@
-var mnemonic = "harbor field satoshi farm meadow injury frown begin train alert sport army";
+var mnemonic = "glance sausage motor hunt wing slam police rotate modify speed penalty grain";

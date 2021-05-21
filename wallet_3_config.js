@@ -1,1 +1,1 @@
-var mnemonic = "fall satisfy frost vibrant cotton sunset lady ill chase beach cover that";
+var mnemonic = "shrimp panel real envelope pepper arena sword similar quality save slender balance";

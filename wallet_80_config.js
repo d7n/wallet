@@ -1,1 +1,1 @@
-var mnemonic = "erode dad industry capital business wild arrive there nominee version radar churn";
+var mnemonic = "luxury about memory vibrant jacket electric horse toast device belt argue vessel";

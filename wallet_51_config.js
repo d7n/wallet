@@ -1,1 +1,1 @@
-var mnemonic = "sister grocery horror awful source top pass border lift sadness affair eagle";
+var mnemonic = "travel naive common salmon birth caution enact found draft top secret fuel";

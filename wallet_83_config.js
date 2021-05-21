@@ -1,1 +1,1 @@
-var mnemonic = "rookie season congress force where mosquito spring clutch special able theory exclude";
+var mnemonic = "anchor retire lady matter olympic describe awful knife meadow ticket hobby wrist";

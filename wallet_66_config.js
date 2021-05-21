@@ -1,1 +1,1 @@
-var mnemonic = "common siren cousin start artist genre satisfy jewel room twice collect bunker";
+var mnemonic = "glory woman anger clap ankle drive adjust hurdle drastic scheme traffic initial";

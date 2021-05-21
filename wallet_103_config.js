@@ -1,1 +1,1 @@
-var mnemonic = "patch ahead quiz major dinner raise liberty muffin upon obscure category oblige";
+var mnemonic = "people dust thumb depend try crazy occur useful small cat hazard spell";

@@ -1,1 +1,1 @@
-var mnemonic = "summer rough fame wish staff gallery hard pull pair police blade guide";
+var mnemonic = "stove expose photo pupil brown mystery wing earth lounge soon rebel pipe";

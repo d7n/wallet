@@ -1,1 +1,1 @@
-var mnemonic = "virus table silent orbit avocado bullet motor render bargain arrest strong silk";
+var mnemonic = "jelly ability present pull keen define fatigue naive supply wheel release inflict";

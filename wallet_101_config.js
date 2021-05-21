@@ -1,1 +1,1 @@
-var mnemonic = "pelican behind genius govern sting boost code fragile sugar topic camp bachelor";
+var mnemonic = "magic season dish rifle zone accuse into expire entry debris accident thought";

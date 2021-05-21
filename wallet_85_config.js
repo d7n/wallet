@@ -1,1 +1,1 @@
-var mnemonic = "vote betray fragile green exchange today pig legend elder daring like good";
+var mnemonic = "clutch turkey first basic human field special pluck despair frown dumb enter";

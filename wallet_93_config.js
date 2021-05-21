@@ -1,1 +1,1 @@
-var mnemonic = "cactus right arena page enforce fatal idle scissors heavy buffalo outside tooth";
+var mnemonic = "affair snake empty swift real pact fit strong kiwi crucial auto draw";

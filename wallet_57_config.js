@@ -1,1 +1,1 @@
-var mnemonic = "globe brown female humble review jeans patrol satisfy vault usage vivid radio";
+var mnemonic = "black mutual soft worth like fly october initial scrap nut team magnet";

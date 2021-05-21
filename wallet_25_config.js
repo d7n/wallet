@@ -1,1 +1,1 @@
-var mnemonic = "ocean derive prevent spider luggage crush worry citizen volcano peasant left light";
+var mnemonic = "dinosaur service admit key wave design marine stable spare because imitate satoshi";

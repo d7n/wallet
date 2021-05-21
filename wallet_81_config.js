@@ -1,1 +1,1 @@
-var mnemonic = "dance valley kiss betray lawsuit roast crane symptom close charge dial enlist";
+var mnemonic = "oval ring hazard pledge suggest notice combine wrist rate measure gather crack";

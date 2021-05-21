@@ -1,1 +1,1 @@
-var mnemonic = "destroy relax genuine property else develop clump decline increase sadness wonder write";
+var mnemonic = "prepare tube air income twenty hero side slow illness talk defy similar";

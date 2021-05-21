@@ -1,1 +1,1 @@
-var mnemonic = "member recipe title exchange midnight ranch eternal shoe luggage perfect afford myself";
+var mnemonic = "reopen fossil street list brave practice exclude amused slot push gossip unknown";

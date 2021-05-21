@@ -1,1 +1,1 @@
-var mnemonic = "vapor ceiling coyote correct neither unhappy adapt delay rebel advance forest term";
+var mnemonic = "habit satisfy auction best useless carbon kangaroo carpet body unaware vessel humble";

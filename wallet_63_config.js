@@ -1,1 +1,1 @@
-var mnemonic = "insect forum knee absurd route food lava lounge cactus example insect bullet";
+var mnemonic = "liberty violin angry borrow ordinary desert foil humor owner series diary walk";

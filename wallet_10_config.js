@@ -1,1 +1,1 @@
-var mnemonic = "kick casino permit limit feed between gospel echo tool road annual match";
+var mnemonic = "sugar clean toddler term just chat elbow fluid panther media better runway";

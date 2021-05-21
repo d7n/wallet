@@ -1,1 +1,1 @@
-var mnemonic = "either around tool lawsuit attitude weasel senior drastic slab basket museum elegant";
+var mnemonic = "child barely indoor cycle fancy clarify tree festival clay relief witness rain";

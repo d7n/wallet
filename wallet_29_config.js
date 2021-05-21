@@ -1,1 +1,1 @@
-var mnemonic = "insect age usage defy flight leg track match grit stem crawl width";
+var mnemonic = "area nothing when spare tissue gas relief liar organ noise hover step";

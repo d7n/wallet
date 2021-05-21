@@ -1,1 +1,1 @@
-var mnemonic = "walnut corn drip model choose vacuum family guide hole eager deer slender";
+var mnemonic = "aim maximum cause casino story trigger dwarf hire pigeon sustain limb coral";

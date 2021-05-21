@@ -1,1 +1,1 @@
-var mnemonic = "kitten rice denial client also taxi walk path girl skull slice reject";
+var mnemonic = "fragile govern rent language asset sister tube truly fortune anger chef subway";

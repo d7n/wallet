@@ -1,1 +1,1 @@
-var mnemonic = "post fury hockey caught kit word crystal add rail lizard left dream";
+var mnemonic = "purity clip soup man march peace stumble relax because load high gold";

@@ -1,1 +1,1 @@
-var mnemonic = "example wave once disease brush rhythm bring orient silver ripple hood surround";
+var mnemonic = "leopard island adult trumpet various home choice father lonely acid vintage furnace";

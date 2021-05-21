@@ -1,1 +1,1 @@
-var mnemonic = "anger aware tomato cage burden woman silver busy unlock gentle neglect stadium";
+var mnemonic = "mule ugly evidence notice earth robot such apple awkward have inhale air";

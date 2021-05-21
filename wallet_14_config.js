@@ -1,1 +1,1 @@
-var mnemonic = "size collect devote upper ready diagram burst grunt episode ahead road glide";
+var mnemonic = "strong false echo rally fly bracket gather weekend illegal save melody motion";

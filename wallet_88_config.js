@@ -1,1 +1,1 @@
-var mnemonic = "scissors assault entire private snack grab vacuum general silly husband chicken parent";
+var mnemonic = "hour hunt helmet load voyage journey lamp service silk shine next rabbit";

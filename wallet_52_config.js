@@ -1,1 +1,1 @@
-var mnemonic = "accident park medal address lizard move weapon recall near weekend victory ostrich";
+var mnemonic = "fame kind online neither hope embrace turkey drama obtain crater welcome payment";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty artist reason fetch churn hollow pelican wire kid stool violin artefact";
+var mnemonic = "rain crouch scatter clarify deer spice safe post note loyal nature bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "intact often mass pulse letter chat rubber option badge remind arrive west";
+var mnemonic = "baby bus luggage general old slim hybrid artist dose okay merge travel";

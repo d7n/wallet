@@ -1,1 +1,1 @@
-var mnemonic = "guilt alley sleep pen bronze drum motion century scheme image rose adjust";
+var mnemonic = "embrace ticket solve behind broom dad ball kick prison adapt cherry glide";

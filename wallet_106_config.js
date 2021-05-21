@@ -1,1 +1,1 @@
-var mnemonic = "garlic arrive more tongue sick give acoustic eager electric book lesson country";
+var mnemonic = "dumb armed royal nature soldier civil exotic venture lunch industry street gentle";

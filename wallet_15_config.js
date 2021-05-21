@@ -1,1 +1,1 @@
-var mnemonic = "stadium doll flavor clutch noise cattle swing canoe dish spot slim top";
+var mnemonic = "elevator boil harvest autumn smoke drastic eternal junior color high food dragon";

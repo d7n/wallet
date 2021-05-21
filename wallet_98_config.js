@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon slight occur movie december awful copy pulp chat meadow pitch tone";
+var mnemonic = "torch aisle rival ethics dream join popular deposit tent salt index fiscal";

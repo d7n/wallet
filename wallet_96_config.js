@@ -1,1 +1,1 @@
-var mnemonic = "wife harsh melt avocado sign illness under embody talk garlic despair catalog";
+var mnemonic = "table narrow athlete member exotic soda trick drum jungle disagree height pill";

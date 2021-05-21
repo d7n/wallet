@@ -1,1 +1,1 @@
-var mnemonic = "reject unknown cluster tortoise screen autumn heavy chronic crunch noble hurry utility";
+var mnemonic = "sound open cram acid sweet arctic sad awful flight husband hammer naive";

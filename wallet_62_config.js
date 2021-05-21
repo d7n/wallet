@@ -1,1 +1,1 @@
-var mnemonic = "enhance where wasp review achieve skate field guitar organ sweet spoil actual";
+var mnemonic = "wrist empty minimum stay first unique hundred pig rent mention neither card";

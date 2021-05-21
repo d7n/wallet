@@ -1,1 +1,1 @@
-var mnemonic = "famous hair stick midnight surround deal quarter double rhythm cage replace cruel";
+var mnemonic = "clay bracket achieve holiday cupboard shrimp few detect vapor copy neglect knock";

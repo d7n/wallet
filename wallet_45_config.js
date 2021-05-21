@@ -1,1 +1,1 @@
-var mnemonic = "dentist ghost fragile inmate steel kitten cinnamon sadness soap glue impact trial";
+var mnemonic = "verb tide denial deer spoon pave detail swamp concert unlock host include";

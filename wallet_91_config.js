@@ -1,1 +1,1 @@
-var mnemonic = "detail mix oil fatal ski color wise size old skull sing else";
+var mnemonic = "woman angry bring gown between vapor mention math height stool wire exist";

@@ -1,1 +1,1 @@
-var mnemonic = "oil know curve pool indoor awesome lava write siren bargain explain panda";
+var mnemonic = "ahead zero bind film put punch super bubble vault original parrot actor";

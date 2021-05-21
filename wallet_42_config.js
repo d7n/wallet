@@ -1,1 +1,1 @@
-var mnemonic = "trial neck fitness assist coast social winter pigeon affair grit slide magnet";
+var mnemonic = "reduce correct trophy number flower food bag love nest twelve finger alpha";
