@@ -1,1 +1,1 @@
-var mnemonic = "rich consider split camp appear burden anxiety copper crisp punch cross energy";
+var mnemonic = "jealous hammer race crystal bag admit dune antique pluck shrug live elegant";

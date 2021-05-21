@@ -1,1 +1,1 @@
-var mnemonic = "forum rhythm pair broom core work repair embark concert desk exhibit hill";
+var mnemonic = "enlist genius grief rebuild collect oil clap clap economy false wrap pattern";

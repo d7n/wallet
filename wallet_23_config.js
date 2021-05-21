@@ -1,1 +1,1 @@
-var mnemonic = "know alcohol giraffe garage noodle cancel leaf lens egg salt wet thunder";
+var mnemonic = "outside visual domain leaf general pulp border stamp leg permit section demise";

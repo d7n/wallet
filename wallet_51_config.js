@@ -1,1 +1,1 @@
-var mnemonic = "later enroll zero chuckle river pepper check inject gravity absorb suffer cheap";
+var mnemonic = "point often purse laundry afraid obey cream ocean kiwi fly frown enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "urban evidence end glove begin erode cake flower target fury liberty body";
+var mnemonic = "kangaroo ask half approve caution response merge captain prize profit wink syrup";

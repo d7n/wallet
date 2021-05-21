@@ -1,1 +1,1 @@
-var mnemonic = "ready crawl skate arm soldier situate dose nuclear giraffe unknown friend rapid";
+var mnemonic = "aspect desk never alert announce almost domain car element suspect warfare elegant";

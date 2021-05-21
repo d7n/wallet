@@ -1,1 +1,1 @@
-var mnemonic = "prize record universe worry purpose treat main ill fix habit message verb";
+var mnemonic = "damp party second gift amateur nose broken unknown three grab pink prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "capable level bicycle float jaguar clock swarm fly august already child soon";
+var mnemonic = "amused multiply security tennis kick youth property marriage cactus cross enforce domain";

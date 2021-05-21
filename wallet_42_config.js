@@ -1,1 +1,1 @@
-var mnemonic = "fringe general consider pride fold sphere inmate crop glory weekend scare oven";
+var mnemonic = "people wheel endorse laundry foil grain educate below hospital tumble midnight trade";

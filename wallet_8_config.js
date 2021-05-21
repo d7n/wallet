@@ -1,1 +1,1 @@
-var mnemonic = "muffin work obtain hub bread rebel elegant antique pink hand speed retire";
+var mnemonic = "caught umbrella distance have addict lawn patch trouble top tag zebra language";

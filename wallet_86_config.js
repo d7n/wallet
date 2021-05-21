@@ -1,1 +1,1 @@
-var mnemonic = "elevator ability industry wall length veteran evidence surge never resource cliff foil";
+var mnemonic = "either one slogan plunge vessel spoil idea attract rib entry border neglect";

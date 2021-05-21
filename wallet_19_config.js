@@ -1,1 +1,1 @@
-var mnemonic = "shoe great venue impact palace company decorate ill weasel eternal birth height";
+var mnemonic = "artist bubble pen obtain fly disorder deer manual slender damage judge vault";

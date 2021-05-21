@@ -1,1 +1,1 @@
-var mnemonic = "fitness great boss adult educate mule pause school process tornado head cube";
+var mnemonic = "author oven stumble ice winter rival bacon humble outdoor chef industry peasant";

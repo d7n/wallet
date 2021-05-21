@@ -1,1 +1,1 @@
-var mnemonic = "mango toy present victory mosquito bottom dutch skill absurd dentist praise cigar";
+var mnemonic = "settle pulse across toast excite lemon profit glue object sauce unfold trumpet";

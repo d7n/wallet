@@ -1,1 +1,1 @@
-var mnemonic = "script pact oyster harbor valley velvet hint access boring axis month breeze";
+var mnemonic = "now portion nephew core chief winter script diamond eyebrow flower divert hawk";

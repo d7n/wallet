@@ -1,1 +1,1 @@
-var mnemonic = "into patrol weapon field nephew abstract clean section friend trophy melody alter";
+var mnemonic = "impulse fever surround funny flight inquiry alien swamp mail essay census diary";

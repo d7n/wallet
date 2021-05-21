@@ -1,1 +1,1 @@
-var mnemonic = "eight bracket frequent rookie sail address tobacco galaxy panda wave bid bronze";
+var mnemonic = "ask lecture farm together mule enact whip example mimic leave memory dignity";

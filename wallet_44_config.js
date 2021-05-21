@@ -1,1 +1,1 @@
-var mnemonic = "scrap direct expand among soup good tree wrist tower fiber retreat above";
+var mnemonic = "quality rain chuckle opera skate boat roast attitude still either tent train";

@@ -1,1 +1,1 @@
-var mnemonic = "typical wasp enter gold small alone crunch liberty cross raven same gold";
+var mnemonic = "eternal traffic keen obey pulp wisdom diet dry fancy roof point order";

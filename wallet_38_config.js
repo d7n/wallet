@@ -1,1 +1,1 @@
-var mnemonic = "list bring clip umbrella animal real priority raw cruel volcano mixed average";
+var mnemonic = "high rural alter pause book safe cry before duck say measure common";

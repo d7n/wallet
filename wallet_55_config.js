@@ -1,1 +1,1 @@
-var mnemonic = "safe cruise wedding earn note gossip below sudden stone account extend shift";
+var mnemonic = "whip capital coil whisper food burden dice solution year jacket kidney brown";

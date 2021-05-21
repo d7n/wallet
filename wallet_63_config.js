@@ -1,1 +1,1 @@
-var mnemonic = "insect wire coyote dumb erode panic favorite live east axis lawn insect";
+var mnemonic = "vast success potato winner mom hint radar equal heart crane journey march";

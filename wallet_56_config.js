@@ -1,1 +1,1 @@
-var mnemonic = "say fiscal oak clarify pact ripple message tomato fade feed between erase";
+var mnemonic = "main alone kitchen blood infant dinner hub useless wall naive tray warm";

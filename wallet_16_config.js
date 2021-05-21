@@ -1,1 +1,1 @@
-var mnemonic = "unknown law that glide rude bounce extend celery adapt major seven around";
+var mnemonic = "loud install accuse pistol electric field luggage need deliver hire obscure region";

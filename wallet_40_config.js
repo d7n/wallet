@@ -1,1 +1,1 @@
-var mnemonic = "salute vocal gallery develop permit uncle hammer spend ready artefact company recipe";
+var mnemonic = "rather ahead nation nuclear diet ordinary material rich arrive jelly erosion scorpion";

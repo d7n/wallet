@@ -1,1 +1,1 @@
-var mnemonic = "obey toward enroll velvet next unusual scatter away cube butter elbow peanut";
+var mnemonic = "lend sense place early route beach vendor deliver six reason relax guess";

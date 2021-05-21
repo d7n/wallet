@@ -1,1 +1,1 @@
-var mnemonic = "gloom crawl pony time bright repeat slender reason holiday fantasy armor make";
+var mnemonic = "shoe truly stock slice pattern proof pattern play scare brisk moral sugar";

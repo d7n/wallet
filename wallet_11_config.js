@@ -1,1 +1,1 @@
-var mnemonic = "absurd upset silver journey long upset receive harvest trash onion scheme wash";
+var mnemonic = "mammal fatigue noise correct clarify current abandon label lecture velvet document gas";

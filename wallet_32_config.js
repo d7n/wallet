@@ -1,1 +1,1 @@
-var mnemonic = "travel section knee output like cool muffin lion rival extend culture hurdle";
+var mnemonic = "whip turkey assault control mesh kiwi evolve enjoy dice confirm collect evil";

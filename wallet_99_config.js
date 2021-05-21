@@ -1,1 +1,1 @@
-var mnemonic = "decrease kid defense year inside wage radio shine decline village proud aim";
+var mnemonic = "six million breeze truck food robust viable hazard admit shrimp amateur choice";

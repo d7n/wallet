@@ -1,1 +1,1 @@
-var mnemonic = "under purse clip case april odor miss exhaust pink damp little escape";
+var mnemonic = "damp diary nerve transfer churn electric burger occur pull enter panic august";

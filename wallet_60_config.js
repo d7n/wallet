@@ -1,1 +1,1 @@
-var mnemonic = "scan almost genuine coach smoke ridge route gym city social ridge grocery";
+var mnemonic = "shell truck runway stage hobby scale melt resemble maze rifle space step";

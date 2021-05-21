@@ -1,1 +1,1 @@
-var mnemonic = "utility useless foster zoo eager fancy opera actual twenty habit taste offer";
+var mnemonic = "finger oyster diagram survey crystal giraffe elegant transfer image vehicle shield gun";

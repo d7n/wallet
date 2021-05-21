@@ -1,1 +1,1 @@
-var mnemonic = "festival brass tent wool rent iron select fine stomach broken diesel style";
+var mnemonic = "forget warrior federal giraffe life card human trade bleak tower avoid rack";

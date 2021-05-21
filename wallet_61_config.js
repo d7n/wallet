@@ -1,1 +1,1 @@
-var mnemonic = "staff derive weird air absurd ankle joy never album alert survey mouse";
+var mnemonic = "mushroom punch daring three hybrid almost inner swap heavy advance stamp correct";

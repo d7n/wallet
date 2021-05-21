@@ -1,1 +1,1 @@
-var mnemonic = "sibling border tilt daughter battle depart mystery club topple nothing burst outer";
+var mnemonic = "occur pen palace dragon cactus wedding blush swallow crack fine wage glad";

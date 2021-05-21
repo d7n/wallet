@@ -1,1 +1,1 @@
-var mnemonic = "tip fantasy usual spoil impact move outside rifle situate issue poem ethics";
+var mnemonic = "vehicle prosper vote indoor knife exhaust useful tuition derive crack obscure inhale";

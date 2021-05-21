@@ -1,1 +1,1 @@
-var mnemonic = "gown dawn minor ship burger when lady chaos air normal honey tortoise";
+var mnemonic = "dose give prosper energy shadow essay stadium dynamic garage strike stock save";

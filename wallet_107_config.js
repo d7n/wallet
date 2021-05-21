@@ -1,1 +1,1 @@
-var mnemonic = "logic body easy pulp visa spoon slow segment donate turtle cruel library";
+var mnemonic = "hour puppy audit wasp mango element gloom slim baby lazy intact skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "sample candy reflect divert glide hard public debate property ignore system girl";
+var mnemonic = "bachelor emerge system wonder cruise atom laundry ripple echo remember velvet false";

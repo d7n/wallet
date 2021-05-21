@@ -1,1 +1,1 @@
-var mnemonic = "salute pilot breeze sign public word gorilla collect exchange wire quit dignity";
+var mnemonic = "trim pony brisk burst joy large pause gospel fault visit witness elegant";

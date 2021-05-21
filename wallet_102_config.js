@@ -1,1 +1,1 @@
-var mnemonic = "dove action melt practice category step hobby defense trick antique since kid";
+var mnemonic = "rough witness prison mule bracket furnace half young fine cave reason repeat";

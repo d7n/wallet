@@ -1,1 +1,1 @@
-var mnemonic = "oil rent december monster merit prefer van slab shrug gasp can prepare";
+var mnemonic = "vague tilt betray must giant female transfer liberty lunar text faint catch";

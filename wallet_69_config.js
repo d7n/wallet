@@ -1,1 +1,1 @@
-var mnemonic = "earn allow curious ensure young subject orient dove behave hurry high casual";
+var mnemonic = "rely flag object debate thunder fire company immense village smile caught category";

@@ -1,1 +1,1 @@
-var mnemonic = "depend ensure lens strong muscle because join avocado security subject fork february";
+var mnemonic = "gloom frozen clarify change analyst insane culture reject pulp chest rebel squirrel";

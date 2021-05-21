@@ -1,1 +1,1 @@
-var mnemonic = "script cart tank fog pattern want soup embody loop metal sure cream";
+var mnemonic = "icon noble color festival patch rival diamond spare era bacon split salon";

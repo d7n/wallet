@@ -1,1 +1,1 @@
-var mnemonic = "syrup unknown vacuum car exotic spread glow puzzle dial decline document pioneer";
+var mnemonic = "stay leaf ask winter admit future frequent notice cigar expect used taxi";

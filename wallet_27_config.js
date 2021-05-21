@@ -1,1 +1,1 @@
-var mnemonic = "rose sting indoor live beef banner grace brick bridge rotate erase pyramid";
+var mnemonic = "garlic whip vast miss office old squeeze piece thumb hospital hope funny";

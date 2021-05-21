@@ -1,1 +1,1 @@
-var mnemonic = "cruise style awful donkey illness judge travel when foster gather agree know";
+var mnemonic = "suggest crazy student thank advice idea draw present move lion spike common";

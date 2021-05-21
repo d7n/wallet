@@ -1,1 +1,1 @@
-var mnemonic = "nation use ghost weird lake boil carbon trial glide north razor foam";
+var mnemonic = "budget limit profit narrow mistake lawsuit victory exotic any river input exchange";

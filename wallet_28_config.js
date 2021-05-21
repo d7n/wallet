@@ -1,1 +1,1 @@
-var mnemonic = "mosquito result aisle success seat equal note filter pioneer result sugar person";
+var mnemonic = "tree wisdom music deliver scheme fuel switch wet host record polar frog";

@@ -1,1 +1,1 @@
-var mnemonic = "solar seven fantasy when daring eternal hurdle merit outside library harvest ribbon";
+var mnemonic = "barrel cable under mandate caught scare ancient patient empty prize case faint";

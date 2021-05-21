@@ -1,1 +1,1 @@
-var mnemonic = "negative glove shuffle century outer undo wall neither inhale assault achieve move";
+var mnemonic = "mosquito click burden april length inflict apology siege fall cream describe satoshi";

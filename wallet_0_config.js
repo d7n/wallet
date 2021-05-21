@@ -1,1 +1,1 @@
-var mnemonic = "age quality erase prosper master strike light emotion year artist blanket diamond";
+var mnemonic = "just cart olive fiction task depend merry cargo sign baby skill bubble";

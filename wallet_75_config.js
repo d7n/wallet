@@ -1,1 +1,1 @@
-var mnemonic = "sunset live skull slim cream range face quick margin crisp occur dragon";
+var mnemonic = "harvest model arch joy argue need bachelor carbon narrow vibrant reduce bunker";

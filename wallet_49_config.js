@@ -1,1 +1,1 @@
-var mnemonic = "use patrol then gaze effort multiply spawn purse large bundle panther mention";
+var mnemonic = "deposit brief void fly path ship shop raise palace deer load jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey corn pave sure captain unusual raise reform abstract film talk open";
+var mnemonic = "famous detect tourist rain track kick winter fever pipe act solid mirror";

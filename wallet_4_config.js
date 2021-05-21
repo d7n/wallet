@@ -1,1 +1,1 @@
-var mnemonic = "transfer obey royal bachelor burst volcano old behave usage opera verify force";
+var mnemonic = "fall scare essay expire evil apology sick vast add brief faith title";

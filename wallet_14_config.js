@@ -1,1 +1,1 @@
-var mnemonic = "first gravity gym title plunge scheme fresh model select month person best";
+var mnemonic = "drink foil antenna ski rigid snap siege seat fatigue bridge security axis";

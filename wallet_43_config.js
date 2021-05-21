@@ -1,1 +1,1 @@
-var mnemonic = "zone welcome jaguar rabbit erupt disorder transfer toward capable feature demand flip";
+var mnemonic = "clutch title weekend strong foil way slide believe shoot nasty hill dust";

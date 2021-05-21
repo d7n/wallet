@@ -1,1 +1,1 @@
-var mnemonic = "genre still cycle anger average orbit hazard square have labor make reveal";
+var mnemonic = "cram room cactus stamp useless wage misery common quick novel clump mirror";

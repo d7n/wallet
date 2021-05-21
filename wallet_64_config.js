@@ -1,1 +1,1 @@
-var mnemonic = "proof shock verb crouch parrot arch near useful card wolf airport arrest";
+var mnemonic = "program end exile access rubber leisure diamond wage bless spend sweet animal";

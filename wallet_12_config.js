@@ -1,1 +1,1 @@
-var mnemonic = "misery parrot replace animal window critic depart similar taxi region exile emotion";
+var mnemonic = "will outer fork rookie mouse minute parade popular easily display gather gauge";

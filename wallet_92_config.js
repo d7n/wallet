@@ -1,1 +1,1 @@
-var mnemonic = "raise simple pitch pizza stove fox august any aim crime gasp duck";
+var mnemonic = "praise buddy twin trigger mixture absorb office daughter festival noodle price tornado";

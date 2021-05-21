@@ -1,1 +1,1 @@
-var mnemonic = "auto sound nature sentence elder guilt whip cruel zero artefact youth guard";
+var mnemonic = "mutual loyal park palace aerobic city dance tuition across cruel turkey joy";

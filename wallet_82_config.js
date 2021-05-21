@@ -1,1 +1,1 @@
-var mnemonic = "breeze theory whisper able good bag demand skin meat style uniform inform";
+var mnemonic = "reject aunt jelly jar achieve ill angle tomorrow supply foster joy pause";

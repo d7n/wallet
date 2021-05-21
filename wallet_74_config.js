@@ -1,1 +1,1 @@
-var mnemonic = "select fun mean find lunch stay because direct spread execute divorce property";
+var mnemonic = "color sweet great zoo insect enhance bench party problem argue design helmet";

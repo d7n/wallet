@@ -1,1 +1,1 @@
-var mnemonic = "half symbol fortune pulp promote aunt traffic eager news bulk ready vast";
+var mnemonic = "budget pony manual devote visual want question crunch wild quote wish syrup";

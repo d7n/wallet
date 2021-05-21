@@ -1,1 +1,1 @@
-var mnemonic = "stove title snow rigid resemble trap vendor often truly all shoot gate";
+var mnemonic = "have patrol maid smile phone lawn female sunny idle struggle patient choose";

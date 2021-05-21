@@ -1,1 +1,1 @@
-var mnemonic = "century myself estate best alarm suffer banana weekend hamster remember wave skin";
+var mnemonic = "phone drip depth swap swarm dirt category clever trust armor fitness access";

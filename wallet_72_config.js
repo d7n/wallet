@@ -1,1 +1,1 @@
-var mnemonic = "envelope balance swallow raise wet melt void test hour into orchard artist";
+var mnemonic = "end drip voyage boat token photo mirror tape spin merit letter panic";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey void critic kit december forget three actual obscure trigger polar pen";
+var mnemonic = "drink jealous else raccoon turtle holiday trigger bag cage ten garlic acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "truck hour father skirt cannon color silver envelope clarify lesson clock tilt";
+var mnemonic = "monster camp judge rely phone royal give federal tank enlist hollow cradle";

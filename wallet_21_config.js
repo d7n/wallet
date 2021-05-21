@@ -1,1 +1,1 @@
-var mnemonic = "large pigeon grocery cactus mind adjust wild grab electric juice flame range";
+var mnemonic = "test naive leopard ten vessel basic acoustic usage odor color license luggage";

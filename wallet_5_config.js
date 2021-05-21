@@ -1,1 +1,1 @@
-var mnemonic = "goose ridge fatal finger liberty sorry battle travel town once copper fortune";
+var mnemonic = "badge sadness basic close system same tuition observe unlock side hip curious";

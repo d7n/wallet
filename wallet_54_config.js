@@ -1,1 +1,1 @@
-var mnemonic = "permit economy shield diamond birth tackle grunt shallow minor initial impulse inquiry";
+var mnemonic = "already front wool impact alley shallow file any lounge sheriff attend agent";

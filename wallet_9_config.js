@@ -1,1 +1,1 @@
-var mnemonic = "script indoor pill twelve burden case engine coconut crowd admit record base";
+var mnemonic = "drama fabric future exile monster inner beyond argue letter bike orchard release";

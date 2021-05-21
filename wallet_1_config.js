@@ -1,1 +1,1 @@
-var mnemonic = "forum zero click repair rug travel struggle rabbit spring palm draft humble";
+var mnemonic = "unit winter market heavy panel either drill private very arena teach little";

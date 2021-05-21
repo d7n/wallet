@@ -1,1 +1,1 @@
-var mnemonic = "flag borrow toast memory taxi require explain case east moon rose swarm";
+var mnemonic = "liquid like explain town question solar merit junior priority step miracle agent";

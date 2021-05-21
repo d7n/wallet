@@ -1,1 +1,1 @@
-var mnemonic = "acoustic alarm catalog three sail odor romance welcome curve canal leave level";
+var mnemonic = "gun shift oblige cool night dragon tragic resist action planet protect present";

@@ -1,1 +1,1 @@
-var mnemonic = "novel monster pride option utility taste fuel valley gossip inherit wait field";
+var mnemonic = "hard layer detect basket royal riot segment large olive ecology mutual submit";

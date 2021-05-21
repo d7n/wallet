@@ -1,1 +1,1 @@
-var mnemonic = "decide require time total broom never slam idea marine decline grit leopard";
+var mnemonic = "height air inquiry youth depth pool sorry luggage trigger update arctic narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "junk shell vehicle dust erosion used wild sniff start bind bomb since";
+var mnemonic = "differ air choose object food lecture glimpse raw couple crouch hold coffee";

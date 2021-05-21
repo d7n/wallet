@@ -1,1 +1,1 @@
-var mnemonic = "nut inject balance scheme banana trouble box switch license silent lion cube";
+var mnemonic = "palace mammal couple dance snack subject before scheme inspire vendor hub popular";

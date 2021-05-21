@@ -1,1 +1,1 @@
-var mnemonic = "rare skirt jeans weather twin concert seek topic minimum pair metal ridge";
+var mnemonic = "smart vault inside attack bachelor tuna tumble napkin axis silk sample medal";

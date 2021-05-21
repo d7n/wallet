@@ -1,1 +1,1 @@
-var mnemonic = "oak spend model identify news vintage flush urban elephant regular mechanic same";
+var mnemonic = "online century album scale shield stool shallow urban honey load mosquito health";

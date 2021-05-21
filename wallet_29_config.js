@@ -1,1 +1,1 @@
-var mnemonic = "help kit firm spatial plug kid broom interest vintage retire horn squirrel";
+var mnemonic = "fantasy same afford author ill govern sentence pond antique choose midnight crunch";

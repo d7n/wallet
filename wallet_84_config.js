@@ -1,1 +1,1 @@
-var mnemonic = "stem banner horn air whip pencil stage brain upgrade tornado trial chronic";
+var mnemonic = "hobby dutch banner reveal three faculty bonus blossom nasty truth wood little";

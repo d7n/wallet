@@ -1,1 +1,1 @@
-var mnemonic = "hurt cause stuff loyal sick exchange select need human soup carry gallery";
+var mnemonic = "author pig priority nasty blue hawk acid have under robust cloud visual";

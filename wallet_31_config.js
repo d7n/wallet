@@ -1,1 +1,1 @@
-var mnemonic = "rare rate invest jazz rain surround patrol empty retire guess shield rural";
+var mnemonic = "horse wonder odor own fresh travel frequent tray card unknown column student";

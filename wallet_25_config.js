@@ -1,1 +1,1 @@
-var mnemonic = "neck jealous soda cross usual deputy pink young fog hollow robust fragile";
+var mnemonic = "boost hobby wise night swim viable clever person frog bulb strong gauge";

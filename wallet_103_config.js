@@ -1,1 +1,1 @@
-var mnemonic = "dismiss relief joke future until door gas school tell ready dilemma rescue";
+var mnemonic = "endorse topple asthma tiny tuna please walnut wreck dumb like satisfy treat";

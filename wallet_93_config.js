@@ -1,1 +1,1 @@
-var mnemonic = "comfort morning remember mesh brown strong medal outdoor pool remind prison rapid";
+var mnemonic = "key mechanic grief until lesson shrimp miss subway zoo desert swear cause";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect major chase nation strike dish pigeon garment twice table claw mention";
+var mnemonic = "pyramid virus memory garment blast pole ignore draw secret home crush buzz";

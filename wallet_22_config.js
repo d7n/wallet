@@ -1,1 +1,1 @@
-var mnemonic = "summer what case next acoustic add alpha strong auto among veteran misery";
+var mnemonic = "manage peasant match match blur world blame skate east rookie engage cargo";
