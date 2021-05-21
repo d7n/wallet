@@ -1,1 +1,1 @@
-var mnemonic = "guilt taxi crop ceiling town hour monster pilot shadow pride puzzle silly";
+var mnemonic = "collect spawn pretty mechanic area scare swing wreck slab tray index lucky";

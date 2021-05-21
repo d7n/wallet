@@ -1,1 +1,1 @@
-var mnemonic = "offer thumb wheel latin saddle expire provide hammer garbage circle wife doll";
+var mnemonic = "bench exist helmet hospital tiny pumpkin axis auction multiply unlock recipe cigar";

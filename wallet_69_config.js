@@ -1,1 +1,1 @@
-var mnemonic = "circle annual garden begin fiction wheat ready talk limb very sick avocado";
+var mnemonic = "merit pistol tortoise sting sniff rescue cash code bonus little win risk";

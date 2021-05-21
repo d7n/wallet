@@ -1,1 +1,1 @@
-var mnemonic = "spoil hobby pair across table cereal employ rate reform scorpion weasel burden";
+var mnemonic = "alcohol actress cloud estate exit burger move joy remind nut region idea";

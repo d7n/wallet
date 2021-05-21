@@ -1,1 +1,1 @@
-var mnemonic = "mandate connect inner lumber slim zoo keep about faculty bomb vital cement";
+var mnemonic = "benefit ready boss crucial office anxiety orchard embark vehicle guitar liar ridge";

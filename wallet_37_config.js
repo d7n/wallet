@@ -1,1 +1,1 @@
-var mnemonic = "board clog nuclear joy nature potato shift horse cattle fragile craft trophy";
+var mnemonic = "present cable couch author party climb alpha skull tourist budget crime panda";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp trigger roast decrease cushion train bag elephant umbrella myself weird mushroom";
+var mnemonic = "doctor false detail dune mass supreme twenty tennis process position resource wasp";

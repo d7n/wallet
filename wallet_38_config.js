@@ -1,1 +1,1 @@
-var mnemonic = "among hero orbit tray rug urban autumn cute melt airport uncle blue";
+var mnemonic = "forward mind glove sock cat police can critic vital square earn side";

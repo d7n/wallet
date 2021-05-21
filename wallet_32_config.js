@@ -1,1 +1,1 @@
-var mnemonic = "fragile direct chair bottom giggle ramp same drop render fit load label";
+var mnemonic = "unfair head breeze weasel ocean glass sock usual sadness cross unknown hawk";

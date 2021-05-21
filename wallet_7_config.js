@@ -1,1 +1,1 @@
-var mnemonic = "kiwi tribe couch mosquito room field churn code tell again impose license";
+var mnemonic = "kingdom eagle ensure kangaroo try rug critic thrive response base glow owner";

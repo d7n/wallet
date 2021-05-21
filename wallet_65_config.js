@@ -1,1 +1,1 @@
-var mnemonic = "kiss pluck tip never ugly advance allow hawk spread race emerge dad";
+var mnemonic = "despair misery toss brief vault trim canvas aerobic fresh hub ring apart";

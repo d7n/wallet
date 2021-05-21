@@ -1,1 +1,1 @@
-var mnemonic = "unable setup collect spoil grape scan zero hope ability expect lobster curtain";
+var mnemonic = "village loyal mutual response speed genius slim garage vicious drill aware skirt";

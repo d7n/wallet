@@ -1,1 +1,1 @@
-var mnemonic = "angle this beauty remain lonely patch shoe episode jar outer argue shadow";
+var mnemonic = "ride action banner faint monkey grocery traffic cruel metal soldier maximum belt";

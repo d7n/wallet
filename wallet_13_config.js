@@ -1,1 +1,1 @@
-var mnemonic = "copper hurt figure office cotton beef eye alpha again daring address use";
+var mnemonic = "easy unknown crime nation october crack ripple winner orphan report slow dutch";

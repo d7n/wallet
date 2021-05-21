@@ -1,1 +1,1 @@
-var mnemonic = "copy wing effort sort club badge behind rotate fantasy very more assume";
+var mnemonic = "ivory cinnamon identify galaxy job hire essay survey army sunny success announce";

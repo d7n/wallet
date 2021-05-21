@@ -1,1 +1,1 @@
-var mnemonic = "immense scrap print manage hub reject box web south shield civil walnut";
+var mnemonic = "real fog onion glass humor range glide couple absurd tongue mammal once";

@@ -1,1 +1,1 @@
-var mnemonic = "bike express clever glide include parent lottery grant viable option space where";
+var mnemonic = "broom dad menu unfair pudding either music ostrich patch close trim sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth lock frequent wisdom ribbon uphold fire smoke vanish quote steak income";
+var mnemonic = "pepper collect concert spin noise tool hello kite chaos hurdle unfair eyebrow";

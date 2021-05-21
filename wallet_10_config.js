@@ -1,1 +1,1 @@
-var mnemonic = "urban help pattern chicken foot shrimp term web april salute picnic night";
+var mnemonic = "mother table agree art own spoon sniff awful basket resource token true";

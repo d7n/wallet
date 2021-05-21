@@ -1,1 +1,1 @@
-var mnemonic = "swarm glad crucial pulp plunge spare silent upper anchor solution raccoon document";
+var mnemonic = "fortune hope risk smile near chase bacon bonus erode off river ride";

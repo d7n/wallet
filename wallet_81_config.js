@@ -1,1 +1,1 @@
-var mnemonic = "ritual theme that domain subway summer hockey craft balance select donor pen";
+var mnemonic = "borrow thought carpet digital swing enough top ramp debris cereal mystery bring";

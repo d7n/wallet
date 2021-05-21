@@ -1,1 +1,1 @@
-var mnemonic = "cannon permit fork shield fault slight about phrase exhibit fox access like";
+var mnemonic = "live mother fade rebel verb double rule chat squirrel dose injury sand";

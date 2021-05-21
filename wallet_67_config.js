@@ -1,1 +1,1 @@
-var mnemonic = "wear rebel property north aisle island lion fancy busy someone lock royal";
+var mnemonic = "lock hard distance trouble blame estate evoke lobster kingdom depend exercise trick";

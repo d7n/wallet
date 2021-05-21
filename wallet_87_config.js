@@ -1,1 +1,1 @@
-var mnemonic = "armed gravity awful brain polar lottery actual allow liquid guess waste innocent";
+var mnemonic = "olympic burst hunt always tomorrow grace neither regret hurdle liquid float spring";

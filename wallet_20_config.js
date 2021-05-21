@@ -1,1 +1,1 @@
-var mnemonic = "what term luxury village method nut notice such kitten step chef praise";
+var mnemonic = "stay group logic payment random sound item capable visual pistol tree hybrid";

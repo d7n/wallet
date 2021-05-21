@@ -1,1 +1,1 @@
-var mnemonic = "wage day present unusual link disorder grunt stomach solution wire exile syrup";
+var mnemonic = "you label feel window column fat pottery vehicle yellow december crowd door";

@@ -1,1 +1,1 @@
-var mnemonic = "army bid across social calm foil music panther scissors limb issue buffalo";
+var mnemonic = "exact detail grace file visual biology phrase since clay minor call lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "around case prosper sick roof follow they alarm save million drift adult";
+var mnemonic = "song penalty pelican eye bring cloth tongue drip crisp sword tumble deposit";

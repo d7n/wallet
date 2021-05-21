@@ -1,1 +1,1 @@
-var mnemonic = "fuel renew aspect romance change cancel drop choose father author awful joke";
+var mnemonic = "asthma quit ugly artist aisle reveal father style picture alien cram token";

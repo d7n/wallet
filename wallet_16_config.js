@@ -1,1 +1,1 @@
-var mnemonic = "version bridge face north expire front puzzle assist news cycle extra salon";
+var mnemonic = "cruise poet injury suit garden retreat prosper foster live upgrade raw weasel";

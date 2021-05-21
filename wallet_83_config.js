@@ -1,1 +1,1 @@
-var mnemonic = "donor issue lounge tree long super swim monitor muscle mosquito rack syrup";
+var mnemonic = "audit slab report method visa have piano degree jewel alien marriage winter";

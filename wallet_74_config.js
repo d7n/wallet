@@ -1,1 +1,1 @@
-var mnemonic = "icon idle city federal paddle talk result hand orange purchase length drop";
+var mnemonic = "bid alcohol random unknown impose injury unable boat siege broken obtain loud";

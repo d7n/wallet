@@ -1,1 +1,1 @@
-var mnemonic = "guess wall order control tape frog swing flame bounce similar harbor slot";
+var mnemonic = "chapter law afraid uncover evidence mosquito theory decrease current pelican clock cushion";

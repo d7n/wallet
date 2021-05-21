@@ -1,1 +1,1 @@
-var mnemonic = "flower similar wild hen rocket panther tiger simple taste appear cost insane";
+var mnemonic = "amount behind movie vacant walnut escape vacant orphan woman endorse machine ahead";

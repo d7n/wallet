@@ -1,1 +1,1 @@
-var mnemonic = "enact ecology body hard share eight close glass caught quiz hungry beyond";
+var mnemonic = "oak ozone social author idle barrel hello catalog across avoid airport call";

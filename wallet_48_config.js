@@ -1,1 +1,1 @@
-var mnemonic = "brand basic reduce pause amazing clock occur zebra surround seven dinner acquire";
+var mnemonic = "grit into evoke easily crazy limit snake way helmet critic decide crowd";

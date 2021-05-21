@@ -1,1 +1,1 @@
-var mnemonic = "bargain swap hundred scan paddle guard defy basket excite excuse federal truth";
+var mnemonic = "call sign more feed pilot initial shove boss input dance pull deliver";

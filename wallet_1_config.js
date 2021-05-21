@@ -1,1 +1,1 @@
-var mnemonic = "elevator picnic rigid modify aisle surround girl maze flower order sheriff match";
+var mnemonic = "market estate gospel welcome change group august receive file fringe extra nose";

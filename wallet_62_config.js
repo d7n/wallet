@@ -1,1 +1,1 @@
-var mnemonic = "cage accuse device hawk ahead mail marriage motor enter humble skill leg";
+var mnemonic = "huge pass elegant crumble shoot pond stem clean brown brush prepare width";

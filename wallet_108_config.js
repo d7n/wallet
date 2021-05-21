@@ -1,1 +1,1 @@
-var mnemonic = "waste chapter kit gloom circle pond drink robot hour glance rescue comfort";
+var mnemonic = "gauge one rain cream lock hand matter victory supreme middle detail poet";

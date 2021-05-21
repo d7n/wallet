@@ -1,1 +1,1 @@
-var mnemonic = "test wash path worry drastic bundle deal oil analyst width control green";
+var mnemonic = "report jaguar carpet can pyramid strong luxury typical culture window sorry image";

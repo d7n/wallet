@@ -1,1 +1,1 @@
-var mnemonic = "toilet fan grid bubble carry space paddle chaos merry soldier clean rebuild";
+var mnemonic = "wrist essay disorder light mountain magnet play learn wine dizzy knife kick";

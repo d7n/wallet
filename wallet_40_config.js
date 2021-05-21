@@ -1,1 +1,1 @@
-var mnemonic = "sleep access ready lounge recipe violin nose crystal frost peasant spider enrich";
+var mnemonic = "jaguar crush joy loud abstract fine road spatial vivid ensure bulb skull";

@@ -1,1 +1,1 @@
-var mnemonic = "vast cereal group erode gap peasant prison music swear smoke glow toward";
+var mnemonic = "inspire calm someone toy ordinary armor enrich scrap subway divorce hello together";

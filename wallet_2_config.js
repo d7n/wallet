@@ -1,1 +1,1 @@
-var mnemonic = "gain gorilla hint aim coconut pitch stage day electric usual sense critic";
+var mnemonic = "pole assault kitten develop forest wear item fat hub globe source acoustic";

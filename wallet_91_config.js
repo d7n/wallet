@@ -1,1 +1,1 @@
-var mnemonic = "aim across hold roof decrease globe disease pencil floor black floor scorpion";
+var mnemonic = "bounce alcohol ordinary globe fuel smart alcohol table shoe lion frame industry";

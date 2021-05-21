@@ -1,1 +1,1 @@
-var mnemonic = "night example episode artefact dirt kit team save quantum sheriff like ranch";
+var mnemonic = "perfect grant wonder snow topic nose fitness bar increase step inflict chief";

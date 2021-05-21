@@ -1,1 +1,1 @@
-var mnemonic = "struggle provide potato dance noodle food toss length weather service visual entire";
+var mnemonic = "card situate perfect fish library live sense soup blossom brand super symbol";

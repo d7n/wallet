@@ -1,1 +1,1 @@
-var mnemonic = "plug neither replace talk game ankle smart tattoo turkey swear cry style";
+var mnemonic = "hand cook zero across pulse celery ladder advice hair cause repair expire";

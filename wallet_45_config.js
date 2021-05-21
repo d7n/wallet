@@ -1,1 +1,1 @@
-var mnemonic = "toe oven actress glad use fix monitor minor empty cat festival hello";
+var mnemonic = "involve alter quality antenna table fringe ocean brief kite auto wise whale";

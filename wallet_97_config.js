@@ -1,1 +1,1 @@
-var mnemonic = "thing space nothing essay collect daughter family bicycle put tribe zebra number";
+var mnemonic = "tenant nut slight zoo remove try title expand pretty purity economy country";

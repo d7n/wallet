@@ -1,1 +1,1 @@
-var mnemonic = "range jelly between involve sugar length object always anger youth behave replace";
+var mnemonic = "cover group giraffe actress unfold blur ankle observe party kiss desert margin";

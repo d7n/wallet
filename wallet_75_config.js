@@ -1,1 +1,1 @@
-var mnemonic = "double master actual indoor march clay answer artefact unit stairs vague left";
+var mnemonic = "guard visual basic secret swift opinion garden ghost grace frown case cake";

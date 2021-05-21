@@ -1,1 +1,1 @@
-var mnemonic = "manual noble erase hood soft sauce ill search code organ sentence scale";
+var mnemonic = "success program arm earth chronic arm bid skin husband desert south lady";

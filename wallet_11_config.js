@@ -1,1 +1,1 @@
-var mnemonic = "scout clutch wrist shiver voice under dentist pupil enhance below coin biology";
+var mnemonic = "nothing current ordinary impact pioneer define sunny whale film school glide height";

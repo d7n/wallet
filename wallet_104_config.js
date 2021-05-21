@@ -1,1 +1,1 @@
-var mnemonic = "asthma indoor cabin alter gorilla upon velvet cruel orange pave sausage donkey";
+var mnemonic = "harbor canyon stone rabbit chronic morning people ridge green drip rice screen";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy renew enforce mother alcohol knee swing setup orchard atom cloud deny";
+var mnemonic = "above glory raven tennis slush pumpkin atom chaos rely bid anchor opinion";

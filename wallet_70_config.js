@@ -1,1 +1,1 @@
-var mnemonic = "long unveil model exist december razor inmate demand curve state mouse music";
+var mnemonic = "repeat couch derive target fabric detect bring smart river walnut quarter hole";

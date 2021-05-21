@@ -1,1 +1,1 @@
-var mnemonic = "panel champion assume hand tattoo yellow staff art leopard acquire minute endorse";
+var mnemonic = "gauge morning public grape damp awful nephew fruit health century sunny pulp";

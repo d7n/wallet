@@ -1,1 +1,1 @@
-var mnemonic = "employ artist shoot raw entire cloud morning version clump tornado chef amused";
+var mnemonic = "alone symbol sight faint spring gift such service glue cup match dilemma";

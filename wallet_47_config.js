@@ -1,1 +1,1 @@
-var mnemonic = "donor web sleep vibrant sick item very music push sponsor suffer office";
+var mnemonic = "cake metal gauge call pull ripple short dial game fashion team corn";

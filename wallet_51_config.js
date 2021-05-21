@@ -1,1 +1,1 @@
-var mnemonic = "badge plastic year left live core pilot test recycle volcano grain chaos";
+var mnemonic = "opera marriage rib civil panic pulp rabbit unaware pretty bread citizen arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow lemon flight horn enjoy burst gate goose have park grab please";
+var mnemonic = "stomach income often winner scheme radar truly quality wise broken open open";

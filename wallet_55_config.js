@@ -1,1 +1,1 @@
-var mnemonic = "priority trade nature session soft drill winter crane high tobacco slim hockey";
+var mnemonic = "review retire acid crash animal genre melt degree learn about west torch";

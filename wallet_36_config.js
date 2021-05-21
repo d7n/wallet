@@ -1,1 +1,1 @@
-var mnemonic = "pool violin explain solution attract short cry seven foster fame beauty endorse";
+var mnemonic = "ask glance oxygen drink security sibling decrease regret dose never chimney fruit";

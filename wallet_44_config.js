@@ -1,1 +1,1 @@
-var mnemonic = "absorb initial bless hold office jealous rival choice angle tray mechanic soda";
+var mnemonic = "price near major light remind adult vault clog message age shy noise";

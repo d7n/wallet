@@ -1,1 +1,1 @@
-var mnemonic = "suggest shock athlete drama endorse spell faint slogan praise fame hour tip";
+var mnemonic = "already point gate build suspect margin large grant whale horse rough wire";

@@ -1,1 +1,1 @@
-var mnemonic = "verb moon lamp peanut blame frequent coil track door square hidden horse";
+var mnemonic = "north audit nothing lounge whisper label olympic fall decorate friend crunch cry";

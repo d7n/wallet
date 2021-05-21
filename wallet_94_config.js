@@ -1,1 +1,1 @@
-var mnemonic = "finger input rural master small token minute seed addict dwarf apology law";
+var mnemonic = "home perfect save issue office piece field need sponsor cereal cinnamon grit";

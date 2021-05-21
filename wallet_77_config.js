@@ -1,1 +1,1 @@
-var mnemonic = "nest ball imitate stable outdoor regret exile three dinosaur riot affair just";
+var mnemonic = "lottery resist pumpkin enemy decide crack liar parade nothing earth vault twist";

@@ -1,1 +1,1 @@
-var mnemonic = "orange canal input wage vapor over pyramid before spin tube note door";
+var mnemonic = "fault giraffe narrow husband unable risk neutral fabric occur wheel saddle midnight";

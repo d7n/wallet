@@ -1,1 +1,1 @@
-var mnemonic = "nest alien oppose fix egg orbit approve shaft often joke model release";
+var mnemonic = "river music pill endless edge amazing party load sustain wrong meat bleak";

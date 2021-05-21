@@ -1,1 +1,1 @@
-var mnemonic = "hour wink burger slice swing morning plastic gloom during silly luxury rifle";
+var mnemonic = "bronze come layer loop goose middle theory pipe trophy weasel globe claw";

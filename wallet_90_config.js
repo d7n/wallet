@@ -1,1 +1,1 @@
-var mnemonic = "chair flame save shine until magnet evil helmet patient best tissue tongue";
+var mnemonic = "laptop oppose later picnic bless amount december bounce timber flash track magic";

@@ -1,1 +1,1 @@
-var mnemonic = "mail upon turkey sadness step velvet eyebrow sustain broccoli blanket extra family";
+var mnemonic = "subway column elbow trigger north cram special catalog agent clown hundred jeans";

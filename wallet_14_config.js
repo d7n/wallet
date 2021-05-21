@@ -1,1 +1,1 @@
-var mnemonic = "admit wonder sudden spin collect vacant security august unable table diamond drift";
+var mnemonic = "vivid dress present nose west bacon vanish open giraffe wet dress size";

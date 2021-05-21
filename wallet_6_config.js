@@ -1,1 +1,1 @@
-var mnemonic = "depth busy gather noise auto library scrub memory myth betray glance sound";
+var mnemonic = "price brisk faith spend rent type happy envelope swallow door level atom";

@@ -1,1 +1,1 @@
-var mnemonic = "defy concert frog ghost reform picture promote antique hamster start identify monkey";
+var mnemonic = "accident trend electric ripple excess tackle cook pluck rhythm bless bus garage";

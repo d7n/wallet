@@ -1,1 +1,1 @@
-var mnemonic = "they kidney topple balance oil creek twenty surface spawn arrest exist ice";
+var mnemonic = "enable suggest chicken toe park goddess depth crumble act illegal ocean film";

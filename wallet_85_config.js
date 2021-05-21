@@ -1,1 +1,1 @@
-var mnemonic = "provide leg race ritual dignity raw pipe jewel forget industry cousin embrace";
+var mnemonic = "sunset total weekend rescue crisp vote common episode claw want rubber scan";

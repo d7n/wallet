@@ -1,1 +1,1 @@
-var mnemonic = "nurse tilt fruit minor duty neither recall finger mobile exclude hollow mom";
+var mnemonic = "salt deal race accuse quiz midnight scout lecture anchor pledge letter foam";

@@ -1,1 +1,1 @@
-var mnemonic = "humor great fatigue enable scout edit short drive youth bracket iron toilet";
+var mnemonic = "point loop universe exist have maximum total cheap direct alert milk tower";

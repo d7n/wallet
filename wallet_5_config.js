@@ -1,1 +1,1 @@
-var mnemonic = "review end carbon hundred gospel ship risk matter inhale describe lounge category";
+var mnemonic = "refuse sense among embark slice display various step risk they vehicle index";

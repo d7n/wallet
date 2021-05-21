@@ -1,1 +1,1 @@
-var mnemonic = "sorry axis rapid exist smooth uphold spare skull frown one million belt";
+var mnemonic = "narrow element draft anxiety job energy mouse loop symbol below deposit source";

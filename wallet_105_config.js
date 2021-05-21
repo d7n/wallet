@@ -1,1 +1,1 @@
-var mnemonic = "ecology refuse black force embrace hood raw alter grunt frame equip tomato";
+var mnemonic = "autumn goose guilt road kiwi punch catalog matter fix devote market exist";

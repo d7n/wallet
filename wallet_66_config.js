@@ -1,1 +1,1 @@
-var mnemonic = "mix ten match cause wreck ensure long number social post crack stick";
+var mnemonic = "build frog grief useful guilt survey law bunker staff adult mail oppose";

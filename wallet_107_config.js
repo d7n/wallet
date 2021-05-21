@@ -1,1 +1,1 @@
-var mnemonic = "mother forum section aware tree collect relief bacon shock charge cave grief";
+var mnemonic = "share solid bulb fee cargo axis orbit drift kiss face dinner gallery";

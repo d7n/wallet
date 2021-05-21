@@ -1,1 +1,1 @@
-var mnemonic = "fan smooth share assault citizen adapt kick decrease below tackle tank basic";
+var mnemonic = "drip rubber argue chicken belt any curious glow marble plate renew next";

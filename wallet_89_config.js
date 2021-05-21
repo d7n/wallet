@@ -1,1 +1,1 @@
-var mnemonic = "ladder enemy festival pottery yellow damage total donor sick suggest arrive antique";
+var mnemonic = "mountain gain village fish ritual chef horse finish muffin crystal sword bitter";

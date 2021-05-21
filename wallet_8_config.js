@@ -1,1 +1,1 @@
-var mnemonic = "fatigue chunk glove model uncle recipe patch evidence myself federal country seat";
+var mnemonic = "you supply emerge destroy this rifle forget angle catch goddess uncover gaze";
