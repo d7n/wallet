@@ -1,1 +1,1 @@
-var mnemonic = "card among relax three step bus subject clock brush inhale earth license";
+var mnemonic = "beef blouse trouble circle suffer logic pear company december convince aim village";

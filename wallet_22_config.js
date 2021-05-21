@@ -1,1 +1,1 @@
-var mnemonic = "better all output gap affair misery carpet dress plunge phrase repair month";
+var mnemonic = "end sudden grant stage shrug orange flip rely blast light wet category";

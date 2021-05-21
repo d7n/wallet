@@ -1,1 +1,1 @@
-var mnemonic = "breeze doctor spirit canoe reveal use battle lava source name scrub diagram";
+var mnemonic = "puppy film glide naive arrive hobby gun cash pride element fatal tumble";

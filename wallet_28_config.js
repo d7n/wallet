@@ -1,1 +1,1 @@
-var mnemonic = "admit split couch trend inquiry deal anchor deer item off desert toast";
+var mnemonic = "action category people offer trial february idea drum food urge fatigue hair";

@@ -1,1 +1,1 @@
-var mnemonic = "rate moment finger solution father route hidden champion cruel siren labor prefer";
+var mnemonic = "abstract wedding resemble daring enough twin dynamic essay awful soldier dismiss admit";

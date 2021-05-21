@@ -1,1 +1,1 @@
-var mnemonic = "solar toe poverty blind possible mushroom young simple merit live two recipe";
+var mnemonic = "yellow slush myth similar beyond simple carbon release fade tunnel repair fog";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon roast unfair affair anger since lady civil state favorite employ retire";
+var mnemonic = "eight menu still nice illness matter shrug settle method retire alert reveal";

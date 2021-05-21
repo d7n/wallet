@@ -1,1 +1,1 @@
-var mnemonic = "february seven replace refuse person memory exclude dumb urban license salmon olympic";
+var mnemonic = "wrong omit drill convince record rather must gym item envelope age child";

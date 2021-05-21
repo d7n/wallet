@@ -1,1 +1,1 @@
-var mnemonic = "river weekend disease slender egg tortoise control gate sword mistake clarify student";
+var mnemonic = "observe around wreck primary garlic category review blossom useless lady orient news";

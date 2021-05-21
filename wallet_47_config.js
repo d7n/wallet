@@ -1,1 +1,1 @@
-var mnemonic = "scare combine time icon hawk deposit ritual squeeze mention water symptom wasp";
+var mnemonic = "nature whale rally extra corn witness address hawk panic resemble allow clown";

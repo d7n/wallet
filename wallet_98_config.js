@@ -1,1 +1,1 @@
-var mnemonic = "draft begin muscle vanish duck crane vibrant fix van spin hollow small";
+var mnemonic = "risk flash depart until soldier bomb gate tape honey enforce mom chief";

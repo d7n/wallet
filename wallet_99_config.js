@@ -1,1 +1,1 @@
-var mnemonic = "color never world motion nothing please club lava reveal design solid pilot";
+var mnemonic = "grit ball mountain document skin hockey best video attend borrow until until";

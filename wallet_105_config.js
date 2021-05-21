@@ -1,1 +1,1 @@
-var mnemonic = "mimic almost body venture afford harbor feel misery boy rare carpet sad";
+var mnemonic = "relief stairs weather bike mention expand violin inmate finish afraid illegal stone";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm high cargo require bring unaware federal day close hotel spice reveal";
+var mnemonic = "lumber supreme envelope afford wise future size supply dress noble pottery skin";

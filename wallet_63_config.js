@@ -1,1 +1,1 @@
-var mnemonic = "identify text emotion urge trouble arctic title bronze marine brief degree mother";
+var mnemonic = "critic ketchup dial off legal same scale flee review drive entire blood";

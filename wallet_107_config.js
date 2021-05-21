@@ -1,1 +1,1 @@
-var mnemonic = "melody wage work enter crucial wrist gravity volume occur skirt flip category";
+var mnemonic = "speed salmon reflect ridge oppose bracket prize oval exclude ability boy angle";

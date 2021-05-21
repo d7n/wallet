@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog occur winter obey disorder reunion salmon annual exile barrel toss fuel";
+var mnemonic = "nephew basket sure catch host much fork struggle injury absurd input two";

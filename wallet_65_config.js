@@ -1,1 +1,1 @@
-var mnemonic = "wasp dose swear ivory siege carpet raccoon approve welcome second carry design";
+var mnemonic = "orphan goose believe shed cereal photo clock kidney address never pair useless";

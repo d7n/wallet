@@ -1,1 +1,1 @@
-var mnemonic = "rhythm beyond fetch erode calm layer afraid easy around jelly skirt ring";
+var mnemonic = "fruit drill parade label penalty hill sunny sister perfect square squeeze upgrade";

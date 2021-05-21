@@ -1,1 +1,1 @@
-var mnemonic = "aspect first mistake churn excuse word ancient master this taxi usual enjoy";
+var mnemonic = "level equal dice other brief flash faculty grow wealth reason crew flush";

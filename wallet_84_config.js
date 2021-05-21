@@ -1,1 +1,1 @@
-var mnemonic = "analyst endorse share gather waste awkward when elevator demand combine clean camera";
+var mnemonic = "way anchor shift develop whisper sketch idle magnet bargain know element suffer";

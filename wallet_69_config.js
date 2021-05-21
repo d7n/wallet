@@ -1,1 +1,1 @@
-var mnemonic = "battle time eternal number history relax elegant elbow giraffe blame script quarter";
+var mnemonic = "silly reopen nose error odor transfer neutral green long absurd input market";

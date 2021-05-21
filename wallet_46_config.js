@@ -1,1 +1,1 @@
-var mnemonic = "grocery trade ill kick actor sting federal lounge crater mean dance dad";
+var mnemonic = "off organ furnace exit breeze grit approve cry wedding year sweet sorry";

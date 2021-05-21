@@ -1,1 +1,1 @@
-var mnemonic = "scrap nothing giant smoke theory flock chair trim wasp wealth abstract defy";
+var mnemonic = "junior spatial window toe symbol orphan floor debris often album worth calm";

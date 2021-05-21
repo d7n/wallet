@@ -1,1 +1,1 @@
-var mnemonic = "quote pear pig fee marine tube fortune meadow tribe begin escape sphere";
+var mnemonic = "often paper where notable clap surround panic trick else focus cruise reform";

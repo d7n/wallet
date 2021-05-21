@@ -1,1 +1,1 @@
-var mnemonic = "glimpse merge auction club sound bleak sand material short insane scatter miracle";
+var mnemonic = "left tilt level bargain desk tooth cram rail leisure eternal come mansion";

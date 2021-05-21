@@ -1,1 +1,1 @@
-var mnemonic = "mad gorilla ranch because ribbon jump fruit tongue salute shock stool attack";
+var mnemonic = "romance merit wolf drink sorry rotate over ability start luxury strong toe";

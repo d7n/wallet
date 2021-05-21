@@ -1,1 +1,1 @@
-var mnemonic = "crisp verb canal fiction awkward couple outdoor believe correct drift boring audit";
+var mnemonic = "anchor board film little say north circle jaguar canvas purse trigger when";

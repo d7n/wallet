@@ -1,1 +1,1 @@
-var mnemonic = "young captain assist awkward royal own laptop object ask ridge wave bracket";
+var mnemonic = "prison fly cargo route bachelor business wool joy air wolf mimic orbit";

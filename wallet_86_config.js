@@ -1,1 +1,1 @@
-var mnemonic = "bachelor puppy dentist jeans expand super tape stomach arrange fever large stem";
+var mnemonic = "reopen destroy excite direct minute hurt math include express execute exclude bullet";

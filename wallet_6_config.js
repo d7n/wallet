@@ -1,1 +1,1 @@
-var mnemonic = "useless sea wasp token process door timber flash permit anchor search ignore";
+var mnemonic = "parrot adjust despair skirt spoil vote together wasp nasty lumber dust era";

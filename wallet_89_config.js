@@ -1,1 +1,1 @@
-var mnemonic = "blast switch moral attitude panda since regular medal carbon fringe style neither";
+var mnemonic = "okay book detect apple angry exist test health memory admit ceiling guess";

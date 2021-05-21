@@ -1,1 +1,1 @@
-var mnemonic = "turtle indoor flavor bench cherry pottery ranch sweet place begin eagle chronic";
+var mnemonic = "cluster junk then canyon pass flag strategy pledge trumpet grocery shiver curtain";

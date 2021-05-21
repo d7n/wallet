@@ -1,1 +1,1 @@
-var mnemonic = "side print require worth live thing globe army unique surround slot wear";
+var mnemonic = "glow egg goat tunnel surround amount stand parent museum rose story depth";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh mosquito student legend body review orbit update ceiling tumble yard crack";
+var mnemonic = "letter noise fancy swear truth carbon odor session myth coconut mention school";

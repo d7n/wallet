@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tuition duty innocent degree spirit squeeze trust cradle sleep nuclear actual";
+var mnemonic = "grocery cream length cost prevent develop peanut laundry want snap lamp fancy";

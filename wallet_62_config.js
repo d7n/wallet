@@ -1,1 +1,1 @@
-var mnemonic = "range common silent mesh curtain swamp wrist crush fresh carbon pioneer fiber";
+var mnemonic = "demise dizzy innocent wheel token already fog wear situate figure mobile meadow";

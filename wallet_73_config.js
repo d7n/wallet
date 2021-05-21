@@ -1,1 +1,1 @@
-var mnemonic = "entire demand nut adapt only gadget hurdle dress gasp river hammer lunch";
+var mnemonic = "imitate project fence hole wrestle develop else assault make jelly upgrade liar";

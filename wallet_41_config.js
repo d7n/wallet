@@ -1,1 +1,1 @@
-var mnemonic = "only regret scout victory maid trial twice donor snake pipe tooth equal";
+var mnemonic = "lift inside initial trade aspect apology toy card fall egg angry select";

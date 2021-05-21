@@ -1,1 +1,1 @@
-var mnemonic = "buzz rural cute peanut talent resource spike step debris aisle trap tiny";
+var mnemonic = "salon evidence cruise world arena river toast recipe armed seminar nerve enroll";

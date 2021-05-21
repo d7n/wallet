@@ -1,1 +1,1 @@
-var mnemonic = "lava fiscal mobile tiger code warrior attitude enlist raise avocado giraffe door";
+var mnemonic = "tiny enhance celery enroll candy couple marriage update simple skill hen come";

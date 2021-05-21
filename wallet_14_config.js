@@ -1,1 +1,1 @@
-var mnemonic = "consider just salmon combine sunny cradle viable service rhythm chief dune into";
+var mnemonic = "throw pave merry ghost melt sudden chicken shop cluster sick guide spring";

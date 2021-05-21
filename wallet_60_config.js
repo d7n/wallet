@@ -1,1 +1,1 @@
-var mnemonic = "below shuffle habit loan hero country fragile vintage thought energy empower urge";
+var mnemonic = "yellow machine enjoy grape garage spray fiber small snake skill blanket okay";

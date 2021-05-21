@@ -1,1 +1,1 @@
-var mnemonic = "what genre nephew way injury total stable snake sphere pipe noble tail";
+var mnemonic = "horror marriage scare gym fire logic tank help skull title shrug auto";

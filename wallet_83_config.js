@@ -1,1 +1,1 @@
-var mnemonic = "truck urge expand card economy sadness diary connect pepper disease frost season";
+var mnemonic = "face consider used venue fatigue adjust miss swift option strategy pistol seat";

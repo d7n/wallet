@@ -1,1 +1,1 @@
-var mnemonic = "axis inhale lava market bring festival shift over rack basic layer sword";
+var mnemonic = "reward apology put clever pact profit churn frozen profit movie cargo paper";

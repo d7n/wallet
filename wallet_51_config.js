@@ -1,1 +1,1 @@
-var mnemonic = "spray guitar cricket guilt prefer test cave special snack virtual depart flight";
+var mnemonic = "cereal census keen remind nurse curve violin local summer foster fix sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "clip install ritual fantasy alley hundred shaft scorpion assault voice antenna change";
+var mnemonic = "crawl half tank staff ahead recipe today earth sport host fix will";

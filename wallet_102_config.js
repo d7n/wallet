@@ -1,1 +1,1 @@
-var mnemonic = "tail squeeze rally stairs melody shiver prize sense figure certain bunker bright";
+var mnemonic = "flavor later name eight tuna choose guilt obey person erode remember mansion";

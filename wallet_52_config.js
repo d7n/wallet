@@ -1,1 +1,1 @@
-var mnemonic = "border giggle vintage two stand hello estate fun physical dry usual explain";
+var mnemonic = "dumb tag excess daughter uncle forum raise correct foot okay relief tackle";

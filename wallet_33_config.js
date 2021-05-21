@@ -1,1 +1,1 @@
-var mnemonic = "print bachelor trust fossil struggle pilot knife action celery split cover occur";
+var mnemonic = "scare carpet glance category chuckle unfair razor client matter age live dutch";

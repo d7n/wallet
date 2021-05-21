@@ -1,1 +1,1 @@
-var mnemonic = "tooth alcohol depart beyond dose wool tiger victory smoke nurse airport help";
+var mnemonic = "deliver tissue unable divide ensure decrease myth over crash crawl news skill";

@@ -1,1 +1,1 @@
-var mnemonic = "produce edit announce funny impact peasant enrich ride develop emotion quarter short";
+var mnemonic = "garage zoo afford hand carpet train dial stumble catalog detail drip fragile";

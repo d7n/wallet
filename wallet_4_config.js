@@ -1,1 +1,1 @@
-var mnemonic = "panda grace opera harvest kind range foil pear million scheme shoulder own";
+var mnemonic = "talent unhappy catch gas mansion zone estate funny bundle baby venture ticket";

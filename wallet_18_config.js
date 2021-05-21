@@ -1,1 +1,1 @@
-var mnemonic = "balcony avocado genre elegant midnight between tenant patient heart ball pull oyster";
+var mnemonic = "pole rich mushroom regular timber mesh season give sketch slow culture visit";

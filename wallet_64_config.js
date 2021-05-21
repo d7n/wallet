@@ -1,1 +1,1 @@
-var mnemonic = "napkin biology say refuse hello palm joy coconut render play junior maid";
+var mnemonic = "sense vacuum album exist victory fabric float menu glue romance omit dice";

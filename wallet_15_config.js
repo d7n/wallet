@@ -1,1 +1,1 @@
-var mnemonic = "hour agree virus stable awake spawn friend possible divide salt expand tortoise";
+var mnemonic = "vanish reunion armed hamster dilemma comfort shiver fantasy off globe avocado trumpet";

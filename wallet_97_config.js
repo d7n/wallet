@@ -1,1 +1,1 @@
-var mnemonic = "pear loud rescue away rigid chef view fancy subway still gown exchange";
+var mnemonic = "phrase phone relief hobby pudding plunge virus violin move guilt effort album";

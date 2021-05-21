@@ -1,1 +1,1 @@
-var mnemonic = "sword draft lake bulk quantum assume wool hazard cushion match stereo evidence";
+var mnemonic = "luggage alley slab return rug shine course common enlist infant trophy island";

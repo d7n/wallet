@@ -1,1 +1,1 @@
-var mnemonic = "large glide stable that gym ranch neck claw cycle pull ghost ensure";
+var mnemonic = "source join wagon minimum raccoon planet couple skate manual monkey unveil desk";

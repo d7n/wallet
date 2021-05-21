@@ -1,1 +1,1 @@
-var mnemonic = "guess shrug alter sing school poet physical flush couple rail rose primary";
+var mnemonic = "science clerk delay captain gorilla tennis poem tongue grid foam jazz unique";

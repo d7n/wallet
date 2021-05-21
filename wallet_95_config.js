@@ -1,1 +1,1 @@
-var mnemonic = "talent hotel valve faculty number century quality topple swap valid amateur rice";
+var mnemonic = "unit enforce decorate hover animal rain vacuum lottery already oak oil amateur";

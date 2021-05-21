@@ -1,1 +1,1 @@
-var mnemonic = "strike usage angry select shrug smile elbow belt enable give shed lake";
+var mnemonic = "garlic piano maze fiction erode present age crazy sand camera provide blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson virus lawsuit lottery fever hour riot regular aerobic since ranch cave";
+var mnemonic = "usual tone adjust rather live place subway elite put assault rally liar";

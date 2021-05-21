@@ -1,1 +1,1 @@
-var mnemonic = "gift mechanic hole pave design depth stomach bar fork brisk swim marriage";
+var mnemonic = "peace gorilla quality embark spy kitchen nurse assist flat hood benefit nerve";

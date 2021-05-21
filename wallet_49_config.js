@@ -1,1 +1,1 @@
-var mnemonic = "syrup trap street dilemma poem excite blood sunny spider physical bargain sentence";
+var mnemonic = "sibling urge entire negative chef update cute scene news panic position frost";

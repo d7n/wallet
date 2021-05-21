@@ -1,1 +1,1 @@
-var mnemonic = "horse topple glare humor age message service finish ahead antenna garden popular";
+var mnemonic = "talent evil ignore airport smoke lock average popular brief stool loop stereo";

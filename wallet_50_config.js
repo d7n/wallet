@@ -1,1 +1,1 @@
-var mnemonic = "giggle trend indicate flight year ranch grape route dream craft quality cost";
+var mnemonic = "town safe there enter fiction transfer oxygen avoid upset rose abstract steel";

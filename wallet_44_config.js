@@ -1,1 +1,1 @@
-var mnemonic = "evoke engine have ordinary hood vacuum couple taxi curve deny pride outer";
+var mnemonic = "kick bless bacon category suggest toy journey desert coyote ozone host increase";

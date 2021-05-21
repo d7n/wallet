@@ -1,1 +1,1 @@
-var mnemonic = "lake helmet damp faint hello orient guard they tray trophy strategy age";
+var mnemonic = "elegant laundry stereo foil protect rigid message expect unveil hurt bike canoe";

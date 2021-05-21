@@ -1,1 +1,1 @@
-var mnemonic = "acoustic expand ship story patient flock guitar nothing gap actress shell parade";
+var mnemonic = "elegant citizen obtain decade course denial pistol patient annual cost orange soft";

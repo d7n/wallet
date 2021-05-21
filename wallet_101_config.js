@@ -1,1 +1,1 @@
-var mnemonic = "where hobby apart knock elephant lift deny card explain collect park lock";
+var mnemonic = "walk turn leisure error disease wood trim visit arena away that slim";

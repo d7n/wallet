@@ -1,1 +1,1 @@
-var mnemonic = "anger ball caution near inflict detect nose buddy symptom asset news chase";
+var mnemonic = "canoe nut track wheel metal payment recipe master sibling layer tornado hair";

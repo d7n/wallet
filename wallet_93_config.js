@@ -1,1 +1,1 @@
-var mnemonic = "shock license claim tube tooth hard pelican broccoli sell crucial choice spatial";
+var mnemonic = "jazz author intact dress oval endorse fuel foster clean access scissors sustain";

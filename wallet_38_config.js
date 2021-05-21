@@ -1,1 +1,1 @@
-var mnemonic = "nation viable witness matter medal announce coach deer discover gossip empower coffee";
+var mnemonic = "hurry fence heavy excess dry trial dream inherit genius defy whisper april";

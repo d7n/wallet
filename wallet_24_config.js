@@ -1,1 +1,1 @@
-var mnemonic = "gaze fly estate nerve time present coil retreat fox illegal mistake exhaust";
+var mnemonic = "ship mirror sell view barely sound enhance staff permit deputy tumble become";

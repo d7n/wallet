@@ -1,1 +1,1 @@
-var mnemonic = "trigger violin spy pet cup target draw half move depth unhappy cannon";
+var mnemonic = "blind token puppy mask magic sock globe engage person snack mountain blossom";

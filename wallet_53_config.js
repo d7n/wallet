@@ -1,1 +1,1 @@
-var mnemonic = "educate bird sunset large egg gravity have tip off interest crisp kite";
+var mnemonic = "bargain right elder nothing rhythm trash usual almost cute arch sense friend";

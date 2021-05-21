@@ -1,1 +1,1 @@
-var mnemonic = "always athlete tell attitude junk season easy evoke focus olympic nest reject";
+var mnemonic = "craft robot virus weekend plate audit still marble island dinosaur vanish agent";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle rude ball tooth denial kingdom gadget drama margin race cotton quick";
+var mnemonic = "tank spring flower maple ride keep payment sick type shaft valve review";

@@ -1,1 +1,1 @@
-var mnemonic = "copper tail reward grid pear random ramp sock cover rural steak actor";
+var mnemonic = "congress rigid habit order dismiss sad acquire barely filter coral cousin marble";

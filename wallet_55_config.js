@@ -1,1 +1,1 @@
-var mnemonic = "number sock tag fresh gasp still have salmon juice slender anchor renew";
+var mnemonic = "rail large antenna stamp world lemon tiny margin involve remember globe engine";

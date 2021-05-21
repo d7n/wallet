@@ -1,1 +1,1 @@
-var mnemonic = "flavor soda inflict firm short brave fee wave cash rhythm february invite";
+var mnemonic = "scatter hurry power speed tribe pride enforce autumn grocery hurt skin vast";

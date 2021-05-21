@@ -1,1 +1,1 @@
-var mnemonic = "jacket left spot use youth help smooth denial above snake vehicle slim";
+var mnemonic = "note butter paper harbor cliff short scout coyote reunion tell settle cliff";

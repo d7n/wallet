@@ -1,1 +1,1 @@
-var mnemonic = "orient supply split stomach slender blind ankle deliver glass scale danger solid";
+var mnemonic = "mobile buyer seed simple time actor album avocado scare police sell time";

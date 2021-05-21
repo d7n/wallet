@@ -1,1 +1,1 @@
-var mnemonic = "token measure eight grit matrix high prize spoon concert attack client autumn";
+var mnemonic = "castle provide early analyst clean aspect gesture excite essence fabric abstract athlete";

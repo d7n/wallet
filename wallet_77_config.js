@@ -1,1 +1,1 @@
-var mnemonic = "unfold surround hello brave figure orbit comfort poverty limit resist about muffin";
+var mnemonic = "laptop equal room material shift have clinic comic champion develop picture chimney";

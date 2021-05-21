@@ -1,1 +1,1 @@
-var mnemonic = "outer fix they flavor appear neglect swear atom defy shoot raven throw";
+var mnemonic = "enhance shock bacon material nasty sick history cupboard trophy magnet cargo cage";

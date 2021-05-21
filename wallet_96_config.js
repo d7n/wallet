@@ -1,1 +1,1 @@
-var mnemonic = "borrow cruise silk catalog smoke virus region fish imitate waste alone rotate";
+var mnemonic = "excuse tourist faint illegal boring woman excite sick room peanut soccer include";

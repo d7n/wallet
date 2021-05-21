@@ -1,1 +1,1 @@
-var mnemonic = "age skull pepper potato act brass fish harvest idea dad hidden slim";
+var mnemonic = "regular liar walk agent local that trumpet ritual lonely private topple frost";

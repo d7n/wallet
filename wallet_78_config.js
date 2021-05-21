@@ -1,1 +1,1 @@
-var mnemonic = "strike member harvest wink trade parrot scissors alcohol toilet sadness market relief";
+var mnemonic = "exit arrange ecology boy brass flower differ wrist typical walnut envelope position";

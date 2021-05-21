@@ -1,1 +1,1 @@
-var mnemonic = "grit bar sand blossom grain onion limit daring hill twelve warfare road";
+var mnemonic = "shove finger sleep magic senior corn nut column gossip convince miss quality";

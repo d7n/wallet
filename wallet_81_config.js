@@ -1,1 +1,1 @@
-var mnemonic = "budget jungle benefit dirt tube second rapid feature style velvet border canvas";
+var mnemonic = "emerge forward steak punch race hidden talent middle garlic wrist unfair cube";

@@ -1,1 +1,1 @@
-var mnemonic = "jump come tell animal scale hamster because jelly decrease apart elegant kitchen";
+var mnemonic = "digital drive asset patrol old gap believe shrug marine same orient turtle";

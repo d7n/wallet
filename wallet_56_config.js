@@ -1,1 +1,1 @@
-var mnemonic = "must furnace outdoor speed flee frame nurse finish hip picture pass obvious";
+var mnemonic = "century disorder style return same size pact main twenty vanish panther table";
