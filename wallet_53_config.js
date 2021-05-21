@@ -1,1 +1,1 @@
-var mnemonic = "enough endorse dinner sunny type credit also crunch mind roast tattoo funny";
+var mnemonic = "size sustain volcano hand sadness walnut update during between merge toe position";

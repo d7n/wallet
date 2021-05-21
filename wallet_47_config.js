@@ -1,1 +1,1 @@
-var mnemonic = "gaze report also jelly drama valley kangaroo hospital wood height security turkey";
+var mnemonic = "ugly beef relief athlete horse scale scale review cloth grape shrug novel";

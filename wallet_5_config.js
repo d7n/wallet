@@ -1,1 +1,1 @@
-var mnemonic = "wool ocean elder antique mixture void task raven offer awake address dust";
+var mnemonic = "brother seminar solve knock surge sausage draft river matrix diamond glare crush";

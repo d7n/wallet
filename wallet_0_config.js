@@ -1,1 +1,1 @@
-var mnemonic = "boost crucial fresh logic guide puppy joke clutch brief figure range torch";
+var mnemonic = "wheat quarter auction tribe float matrix frog super attend baby rug zoo";

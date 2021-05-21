@@ -1,1 +1,1 @@
-var mnemonic = "custom control seek medal minute health horn oyster hello grab suspect junk";
+var mnemonic = "quick sun velvet bean proof awful tornado scare mistake cart light whale";

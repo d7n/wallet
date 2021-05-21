@@ -1,1 +1,1 @@
-var mnemonic = "tower birth scissors upper warrior dress bicycle address weird sunset crime brave";
+var mnemonic = "gauge void lounge food capital praise able puppy regular distance satisfy antique";

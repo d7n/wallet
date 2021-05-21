@@ -1,1 +1,1 @@
-var mnemonic = "oven asthma sniff chief orphan logic primary heavy onion online loop core";
+var mnemonic = "prepare spend blanket bar gravity total undo measure father lock stay cricket";

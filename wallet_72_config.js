@@ -1,1 +1,1 @@
-var mnemonic = "position book devote tonight injury what push seek snake bar raw tissue";
+var mnemonic = "door mechanic destroy actor cart pretty result degree calm castle exile leave";

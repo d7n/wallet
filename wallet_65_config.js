@@ -1,1 +1,1 @@
-var mnemonic = "guide reunion pass public catch wide boss tribe young indoor clown neither";
+var mnemonic = "inner convince farm bunker wood chest spring glue crowd another club around";

@@ -1,1 +1,1 @@
-var mnemonic = "unit pink soldier rely mention boost inquiry horn tomorrow horror potato term";
+var mnemonic = "arctic coach found disease crunch lecture bulb round lens jeans defy behind";

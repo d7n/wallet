@@ -1,1 +1,1 @@
-var mnemonic = "demand asset army face mammal differ grocery fresh buyer daring dish pluck";
+var mnemonic = "ancient cart help ethics narrow swap risk fever stairs favorite pistol verb";

@@ -1,1 +1,1 @@
-var mnemonic = "stage hip ritual twelve drift never damp resource seed release net cotton";
+var mnemonic = "obey assume daughter claw range tank enjoy month void lawn example desert";

@@ -1,1 +1,1 @@
-var mnemonic = "ship episode decline aware raise note brush aisle stereo dove useful age";
+var mnemonic = "annual friend deposit dumb inside degree harvest rent check pause unusual assault";

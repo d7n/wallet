@@ -1,1 +1,1 @@
-var mnemonic = "genre supply hawk awkward shoot position limit vendor swap keep strong cable";
+var mnemonic = "powder poem unlock magic frog glide cherry devote brain arrow destroy early";

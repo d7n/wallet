@@ -1,1 +1,1 @@
-var mnemonic = "hover ozone bean result sugar fatigue urban now parade because antique notice";
+var mnemonic = "coast off yard virus round find struggle vessel elite index lens wage";

@@ -1,1 +1,1 @@
-var mnemonic = "romance below soda steak shuffle trash fantasy sleep surge flame special smoke";
+var mnemonic = "grid orient jar lab define ozone legal hello cinnamon outdoor cheese return";

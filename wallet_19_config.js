@@ -1,1 +1,1 @@
-var mnemonic = "grid lens public year drift session garden first swamp document crew drop";
+var mnemonic = "swing dwarf remain pumpkin faith around street box kiss echo cloud boss";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican tired priority rely cute latin skill shield kidney cage calm hurdle";
+var mnemonic = "clown region panel soap input obey ribbon always puzzle category record steak";

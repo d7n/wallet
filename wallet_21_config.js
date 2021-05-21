@@ -1,1 +1,1 @@
-var mnemonic = "order idle hazard rough gas cigar good bring husband wife debris hedgehog";
+var mnemonic = "floor moon party wish lunar cave swear boil minor polar baby sunny";

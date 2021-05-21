@@ -1,1 +1,1 @@
-var mnemonic = "pioneer clock spin volume impact stairs network under glad huge seed adapt";
+var mnemonic = "crack reform anchor double cave start arrow bid oil drink trigger frame";

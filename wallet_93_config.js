@@ -1,1 +1,1 @@
-var mnemonic = "buzz chaos mercy art power abstract strong post library reform rocket grace";
+var mnemonic = "achieve fancy novel gate nature wolf decline ceiling limb bounce grape nominee";

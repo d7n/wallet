@@ -1,1 +1,1 @@
-var mnemonic = "example cost tunnel cat return eye undo exact lamp nerve gold version";
+var mnemonic = "rare such nest jacket ancient boss grunt liar act nerve tone route";

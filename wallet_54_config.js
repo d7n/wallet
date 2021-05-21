@@ -1,1 +1,1 @@
-var mnemonic = "spin injury craft crowd never stick utility try behave fluid thumb duck";
+var mnemonic = "ring rather tobacco elbow dry humor grace shy electric goat slab near";

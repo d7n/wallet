@@ -1,1 +1,1 @@
-var mnemonic = "drive ugly atom ghost card release magic reduce help into globe airport";
+var mnemonic = "curve plunge explain aerobic jealous move alert enemy achieve afford slice learn";

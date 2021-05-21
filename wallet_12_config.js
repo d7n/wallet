@@ -1,1 +1,1 @@
-var mnemonic = "actor process design depth office stadium giant evoke lecture into elephant connect";
+var mnemonic = "nominee ugly home deer nest soldier when want car pink hawk regret";

@@ -1,1 +1,1 @@
-var mnemonic = "always artist slim tenant physical hen aisle quit dream hurt begin theory";
+var mnemonic = "strategy miracle scissors deposit pizza empty patch glance yellow action else moral";

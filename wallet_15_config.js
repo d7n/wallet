@@ -1,1 +1,1 @@
-var mnemonic = "horn silly tide ozone increase glance will horror rural orange liquid hint";
+var mnemonic = "ranch enact truth draft write sick place govern birth gift practice fence";

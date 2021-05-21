@@ -1,1 +1,1 @@
-var mnemonic = "clump tank someone tornado defense finish labor push tongue badge burger suspect";
+var mnemonic = "track weather space salad ridge track flee garbage display spell giraffe grief";

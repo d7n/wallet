@@ -1,1 +1,1 @@
-var mnemonic = "fun turtle kiss unveil forest desert near spread present reason also sponsor";
+var mnemonic = "exhaust practice inject shrimp quarter gesture slam transfer gentle wide cousin polar";

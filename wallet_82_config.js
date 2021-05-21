@@ -1,1 +1,1 @@
-var mnemonic = "lemon broccoli sphere culture address flee obscure wish erupt lonely inmate tourist";
+var mnemonic = "upset daring science tornado unlock artist need lab promote subject habit old";

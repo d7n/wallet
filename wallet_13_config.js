@@ -1,1 +1,1 @@
-var mnemonic = "isolate buzz blouse order female river leader bar hobby aspect safe double";
+var mnemonic = "trap lazy useful name impact rigid noodle cheese maid blade affair laptop";

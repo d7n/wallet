@@ -1,1 +1,1 @@
-var mnemonic = "path fossil welcome jacket tragic smart bus conduct connect mesh fiber clap";
+var mnemonic = "cheese pumpkin rack squeeze company act monster loop plate online provide material";

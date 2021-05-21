@@ -1,1 +1,1 @@
-var mnemonic = "force harbor term palace quiz ten fever tuna wheat eternal source tonight";
+var mnemonic = "nice tiger absurd orange sort enrich letter tenant define merry clay gloom";

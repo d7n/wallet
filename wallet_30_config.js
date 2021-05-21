@@ -1,1 +1,1 @@
-var mnemonic = "offer desert leisure vacuum goat flame gesture whisper real exercise child pact";
+var mnemonic = "change chaos angry any parrot broken over inherit repeat enjoy true mammal";

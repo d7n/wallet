@@ -1,1 +1,1 @@
-var mnemonic = "various cheap bacon atom two start shove spread mail that poem pulp";
+var mnemonic = "scorpion pave rabbit deny rug cotton trap normal anger lemon fantasy fit";

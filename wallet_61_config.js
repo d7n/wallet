@@ -1,1 +1,1 @@
-var mnemonic = "garlic coconut grocery tube impulse chat kick prize point sign meadow home";
+var mnemonic = "record reflect kitten cheap advance divorce offer offer panther mobile spoil crime";

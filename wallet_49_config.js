@@ -1,1 +1,1 @@
-var mnemonic = "treat myself craft find jewel pluck cube disagree release sort bring start";
+var mnemonic = "slide guess armed leisure approve admit army ramp remain claw core skate";

@@ -1,1 +1,1 @@
-var mnemonic = "blur army zebra tag indoor such kitten voice hurry fat exotic attract";
+var mnemonic = "birth marine home minor adjust hat joke apple wasp attitude build envelope";

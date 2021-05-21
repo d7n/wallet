@@ -1,1 +1,1 @@
-var mnemonic = "uphold they banner choose decline cupboard alien token address undo jaguar orphan";
+var mnemonic = "cliff glue galaxy maximum fee core fitness ten critic evoke couple skull";

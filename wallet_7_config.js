@@ -1,1 +1,1 @@
-var mnemonic = "seven shine wage idle like into add trouble else joke blossom because";
+var mnemonic = "crane weapon snow horse arrow minimum decade laugh assault orbit economy unusual";

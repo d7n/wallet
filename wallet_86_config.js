@@ -1,1 +1,1 @@
-var mnemonic = "remain shrug grass cement shell prize subway switch price since cruise village";
+var mnemonic = "solar aisle review panel smooth leader receive asthma sense sword brass talent";

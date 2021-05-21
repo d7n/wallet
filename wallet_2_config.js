@@ -1,1 +1,1 @@
-var mnemonic = "uncle pink wild object twist arch hurdle cloth laptop west blouse day";
+var mnemonic = "become divorce flip million genius fork gas owner inflict derive door decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato awake ginger planet enable clay people boil ghost layer volume skin";
+var mnemonic = "produce give street page huge wing hope table congress cook wild observe";

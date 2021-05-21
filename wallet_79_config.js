@@ -1,1 +1,1 @@
-var mnemonic = "segment slogan sing coil pretty spring arrive orchard inch bone catch mixed";
+var mnemonic = "economy enough hen shuffle section detect inside wet nature destroy heart country";

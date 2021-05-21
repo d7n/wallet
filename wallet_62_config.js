@@ -1,1 +1,1 @@
-var mnemonic = "piano blue neglect void crash swarm lawsuit reflect uniform already enlist coin";
+var mnemonic = "away outdoor cousin hammer toy space hybrid wheel ability exhibit prize cable";

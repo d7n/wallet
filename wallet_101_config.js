@@ -1,1 +1,1 @@
-var mnemonic = "collect shuffle diamond lounge that warfare symptom friend opera marble grab shield";
+var mnemonic = "symptom story helmet cheap gentle tonight spice session blame crop field vocal";

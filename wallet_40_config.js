@@ -1,1 +1,1 @@
-var mnemonic = "awesome embark correct oppose rubber setup novel audit connect option lumber seek";
+var mnemonic = "member grape grit pupil orbit rather capital treat gentle filter immune cloth";

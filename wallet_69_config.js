@@ -1,1 +1,1 @@
-var mnemonic = "feel subject olive water collect rescue museum buzz behind thank neck rubber";
+var mnemonic = "cruise taste dice skirt domain same wish border arm peasant letter force";

@@ -1,1 +1,1 @@
-var mnemonic = "nature question royal wing climb ring antique canyon bottom answer medal priority";
+var mnemonic = "estate example jump into aunt develop stove silver nation burger already awful";

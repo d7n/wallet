@@ -1,1 +1,1 @@
-var mnemonic = "horse verify bench swarm pill start neglect cage wood resemble lonely polar";
+var mnemonic = "acquire empty theory boy envelope weasel nut ribbon supreme fringe field approve";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit always staff assist glow ill april guide stock crash mistake goddess";
+var mnemonic = "amateur gravity evoke inmate borrow maid dolphin thought finger kitten crew endorse";

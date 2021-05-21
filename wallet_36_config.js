@@ -1,1 +1,1 @@
-var mnemonic = "foster kingdom invest album total book during curtain scheme give window deal";
+var mnemonic = "rapid buyer brick night whip unhappy marble pattern slogan unable sand tray";

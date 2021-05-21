@@ -1,1 +1,1 @@
-var mnemonic = "join ozone advance column between move bring immense then follow please laundry";
+var mnemonic = "spawn tilt oblige settle bullet seven when happy grunt dirt vessel novel";

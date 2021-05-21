@@ -1,1 +1,1 @@
-var mnemonic = "hobby gospel coach crazy pepper lift absorb glue much quarter lottery comic";
+var mnemonic = "alpha erupt icon control assist celery marble kind truth else sibling emerge";

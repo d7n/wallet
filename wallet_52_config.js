@@ -1,1 +1,1 @@
-var mnemonic = "credit nature grunt life gift lizard tail cable autumn faith copy comfort";
+var mnemonic = "render slogan rude memory march south material era uncover amateur order stem";

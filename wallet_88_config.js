@@ -1,1 +1,1 @@
-var mnemonic = "grow material shoot what gym gloom hamster welcome inflict coin hobby pig";
+var mnemonic = "drop success below aunt frog change undo advance fat great script diamond";

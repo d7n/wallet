@@ -1,1 +1,1 @@
-var mnemonic = "light attitude motion physical crane aisle bacon bulk mansion outside resource busy";
+var mnemonic = "comic demise sign trumpet express funny current trouble slice dutch caught blanket";

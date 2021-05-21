@@ -1,1 +1,1 @@
-var mnemonic = "surround rather green push unique sudden float elbow pink charge also pattern";
+var mnemonic = "lion issue erode suit fancy meadow letter rib pupil draw muffin turn";

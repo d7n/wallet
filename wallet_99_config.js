@@ -1,1 +1,1 @@
-var mnemonic = "rifle sword fan radar trouble dignity face adult virus security confirm network";
+var mnemonic = "cup load finish list clever dentist fiction wasp pact meadow dentist another";

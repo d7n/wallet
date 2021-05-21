@@ -1,1 +1,1 @@
-var mnemonic = "nut wish parade else predict symbol clarify jewel burden fog oven industry";
+var mnemonic = "sunny pipe giggle under method parade rebuild elder charge industry vicious fame";

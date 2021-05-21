@@ -1,1 +1,1 @@
-var mnemonic = "because depth light mom future neck fat tag hedgehog protect faith color";
+var mnemonic = "goddess measure peasant fall athlete fade peanut boy walnut moral worry diamond";

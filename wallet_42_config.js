@@ -1,1 +1,1 @@
-var mnemonic = "bulb laptop there captain able giggle final crop quarter auction phrase universe";
+var mnemonic = "manual long since glow ill wish rural indicate page leopard lady basic";

@@ -1,1 +1,1 @@
-var mnemonic = "pen joke boat lend roast gesture such lizard much bracket dose news";
+var mnemonic = "august city either fly marriage control shiver erode avoid canal profit pigeon";

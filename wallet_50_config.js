@@ -1,1 +1,1 @@
-var mnemonic = "surface rally rescue board first crouch author liberty monkey erosion genius stage";
+var mnemonic = "shaft daughter often side blanket design speed slam flash diesel elbow swing";

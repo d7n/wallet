@@ -1,1 +1,1 @@
-var mnemonic = "say cinnamon try control vague exact casino office hurdle receive morning man";
+var mnemonic = "fortune hurry future noodle joy adjust village mom few wear term bring";

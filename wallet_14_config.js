@@ -1,1 +1,1 @@
-var mnemonic = "company code swallow fee glove crew correct alone leg sail assault disease";
+var mnemonic = "flavor recall fancy park bright alcohol account sugar robust merit dry diary";

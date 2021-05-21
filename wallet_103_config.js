@@ -1,1 +1,1 @@
-var mnemonic = "one oppose spatial bid brain cabbage bulk second plunge adapt grow loud";
+var mnemonic = "donor guitar alarm trumpet vocal fox weapon hazard prefer merge volume else";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh detect bag gossip reduce caution awkward enable cluster valve top trial";
+var mnemonic = "snap moon oven man demand meat spend number present essence dove aware";

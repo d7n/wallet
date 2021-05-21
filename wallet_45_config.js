@@ -1,1 +1,1 @@
-var mnemonic = "shiver time arch shadow warfare shove edge review crane tourist fatigue tunnel";
+var mnemonic = "rug infant goose defy chimney vital eyebrow panther asthma champion until century";

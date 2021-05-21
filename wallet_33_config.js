@@ -1,1 +1,1 @@
-var mnemonic = "auto stumble scatter august patrol used clinic man luggage enable bounce empty";
+var mnemonic = "achieve cool inherit balcony hawk hard return box window hood hire bullet";

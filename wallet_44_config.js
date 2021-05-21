@@ -1,1 +1,1 @@
-var mnemonic = "save dentist imitate mirror slam scout sibling desk elite soccer cable axis";
+var mnemonic = "material truth typical runway comfort stomach alert tunnel solve tilt innocent tank";

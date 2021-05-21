@@ -1,1 +1,1 @@
-var mnemonic = "talent humble answer topple detect birth dizzy deputy silk bench ugly boil";
+var mnemonic = "wood body kit friend chuckle walnut hire access stay whale race street";

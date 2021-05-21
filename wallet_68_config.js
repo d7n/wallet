@@ -1,1 +1,1 @@
-var mnemonic = "become swap before notable insect shoot jacket select fat panther chest neither";
+var mnemonic = "away acquire upon photo chuckle badge brother squirrel sound bracket limit case";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow number call task gentle drama caught arch joke abandon marine pattern";
+var mnemonic = "lens rabbit inmate labor identify pool twenty mechanic define output exhibit extend";

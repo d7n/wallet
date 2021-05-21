@@ -1,1 +1,1 @@
-var mnemonic = "slab consider original wild ceiling settle sick casino patrol spice word verb";
+var mnemonic = "buffalo amount float mule someone skirt sibling original country describe curve brother";

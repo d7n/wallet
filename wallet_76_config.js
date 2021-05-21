@@ -1,1 +1,1 @@
-var mnemonic = "brain load depend force salad afford toss bicycle siren shrimp fancy car";
+var mnemonic = "very page mystery monkey bring inherit recycle rough quarter lucky appear end";

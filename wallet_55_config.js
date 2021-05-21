@@ -1,1 +1,1 @@
-var mnemonic = "auction destroy margin wheel vocal inside neglect around loop rapid fashion endorse";
+var mnemonic = "annual bike announce lamp squirrel option angry team spoon box swim slender";

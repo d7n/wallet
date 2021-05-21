@@ -1,1 +1,1 @@
-var mnemonic = "next cheese picture excite east letter maze clutch left merit napkin display";
+var mnemonic = "balance expose effort switch goddess nut stick maple hockey stool imitate inch";

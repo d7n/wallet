@@ -1,1 +1,1 @@
-var mnemonic = "diesel transfer success that air goddess animal expire man bring fitness poem";
+var mnemonic = "disease that page fan margin defense fuel thrive fall ring harsh birth";

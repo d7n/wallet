@@ -1,1 +1,1 @@
-var mnemonic = "symptom stereo control visa sauce spring adapt cigar turtle wage spawn nasty";
+var mnemonic = "pink beef clump slide bread leader taste check matrix juice detect lens";

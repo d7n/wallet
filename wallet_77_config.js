@@ -1,1 +1,1 @@
-var mnemonic = "gossip art vault abstract brisk quiz add salmon silk alpha round tent";
+var mnemonic = "carry coast fruit stuff silk science feel deposit proud width theme stuff";

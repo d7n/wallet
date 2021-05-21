@@ -1,1 +1,1 @@
-var mnemonic = "milk gold loan ill miss garlic series bar buyer nasty dance bracket";
+var mnemonic = "silent fun roof myself insect hour sock cable town doll flight simple";

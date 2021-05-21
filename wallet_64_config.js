@@ -1,1 +1,1 @@
-var mnemonic = "join spread toss satisfy stage parade edit credit uniform only friend differ";
+var mnemonic = "float unfair art egg convince demand gloom ensure toward into cliff valve";

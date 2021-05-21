@@ -1,1 +1,1 @@
-var mnemonic = "wife pet eye excess sphere post inherit chaos scheme involve leisure wife";
+var mnemonic = "angle neutral glue intact sting affair flat universe arch duck world canvas";

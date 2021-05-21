@@ -1,1 +1,1 @@
-var mnemonic = "upgrade normal equip vast sand slim fly legend marriage vicious card know";
+var mnemonic = "swing scissors sadness symbol boss stomach bless broccoli invest stem amount crop";

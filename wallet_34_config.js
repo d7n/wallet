@@ -1,1 +1,1 @@
-var mnemonic = "vanish hover cage action craft fabric either champion gorilla lizard hamster craft";
+var mnemonic = "position gas similar hollow anxiety problem caught shove frequent used hurdle path";

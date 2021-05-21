@@ -1,1 +1,1 @@
-var mnemonic = "hidden come rely purse surface garment reveal labor agent analyst enter kingdom";
+var mnemonic = "lava lion hint acid pledge tiny grid moon jacket liberty pause airport";

@@ -1,1 +1,1 @@
-var mnemonic = "art insane hunt bronze slush muffin define voice surround fiber ladder again";
+var mnemonic = "tiger marble question wrong book torch hour entry twist motor indicate broken";

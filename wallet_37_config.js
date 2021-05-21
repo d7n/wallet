@@ -1,1 +1,1 @@
-var mnemonic = "where quit token return random record stool memory upset length work general";
+var mnemonic = "enforce noble iron lens foot number hour gauge lend strike violin process";

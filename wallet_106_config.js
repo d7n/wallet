@@ -1,1 +1,1 @@
-var mnemonic = "melody code diesel step domain divert rain hawk humble nasty tribe luxury";
+var mnemonic = "wire speed join throw crane shoulder price normal guess control twenty climb";

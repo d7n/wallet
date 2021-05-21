@@ -1,1 +1,1 @@
-var mnemonic = "draft sustain also daughter pill horror merge thrive uncover pipe city wasp";
+var mnemonic = "wheat music upon chair depend gallery sell spend tree aware pitch fresh";

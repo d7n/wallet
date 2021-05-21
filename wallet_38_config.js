@@ -1,1 +1,1 @@
-var mnemonic = "actor provide month iron talent trigger small hundred bargain sheriff summer average";
+var mnemonic = "write draft nose mean problem lounge flush senior stairs satoshi two giggle";

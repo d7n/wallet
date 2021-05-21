@@ -1,1 +1,1 @@
-var mnemonic = "want certain churn convince demise say humor tank pledge delay unhappy disagree";
+var mnemonic = "sock cinnamon situate stone narrow cute talk draft young wrist license market";
