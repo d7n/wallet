@@ -1,1 +1,1 @@
-var mnemonic = "lumber supreme envelope afford wise future size supply dress noble pottery skin";
+var mnemonic = "order idle hazard rough gas cigar good bring husband wife debris hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "kick bless bacon category suggest toy journey desert coyote ozone host increase";
+var mnemonic = "save dentist imitate mirror slam scout sibling desk elite soccer cable axis";

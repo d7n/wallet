@@ -1,1 +1,1 @@
-var mnemonic = "orphan goose believe shed cereal photo clock kidney address never pair useless";
+var mnemonic = "guide reunion pass public catch wide boss tribe young indoor clown neither";

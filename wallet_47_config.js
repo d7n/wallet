@@ -1,1 +1,1 @@
-var mnemonic = "nature whale rally extra corn witness address hawk panic resemble allow clown";
+var mnemonic = "gaze report also jelly drama valley kangaroo hospital wood height security turkey";

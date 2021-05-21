@@ -1,1 +1,1 @@
-var mnemonic = "digital drive asset patrol old gap believe shrug marine same orient turtle";
+var mnemonic = "melody code diesel step domain divert rain hawk humble nasty tribe luxury";

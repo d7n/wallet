@@ -1,1 +1,1 @@
-var mnemonic = "vanish reunion armed hamster dilemma comfort shiver fantasy off globe avocado trumpet";
+var mnemonic = "horn silly tide ozone increase glance will horror rural orange liquid hint";

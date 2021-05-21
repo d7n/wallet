@@ -1,1 +1,1 @@
-var mnemonic = "silly reopen nose error odor transfer neutral green long absurd input market";
+var mnemonic = "feel subject olive water collect rescue museum buzz behind thank neck rubber";

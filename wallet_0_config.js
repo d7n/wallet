@@ -1,1 +1,1 @@
-var mnemonic = "observe around wreck primary garlic category review blossom useless lady orient news";
+var mnemonic = "boost crucial fresh logic guide puppy joke clutch brief figure range torch";

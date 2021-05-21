@@ -1,1 +1,1 @@
-var mnemonic = "rail large antenna stamp world lemon tiny margin involve remember globe engine";
+var mnemonic = "auction destroy margin wheel vocal inside neglect around loop rapid fashion endorse";

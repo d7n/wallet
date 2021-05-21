@@ -1,1 +1,1 @@
-var mnemonic = "phrase phone relief hobby pudding plunge virus violin move guilt effort album";
+var mnemonic = "clump tank someone tornado defense finish labor push tongue badge burger suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge forward steak punch race hidden talent middle garlic wrist unfair cube";
+var mnemonic = "upgrade normal equip vast sand slim fly legend marriage vicious card know";

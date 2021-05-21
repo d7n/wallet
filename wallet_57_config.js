@@ -1,1 +1,1 @@
-var mnemonic = "awake huge skate vote media pigeon city basket food polar nuclear play";
+var mnemonic = "tower birth scissors upper warrior dress bicycle address weird sunset crime brave";

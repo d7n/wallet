@@ -1,1 +1,1 @@
-var mnemonic = "talent evil ignore airport smoke lock average popular brief stool loop stereo";
+var mnemonic = "various cheap bacon atom two start shove spread mail that poem pulp";

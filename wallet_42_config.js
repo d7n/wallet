@@ -1,1 +1,1 @@
-var mnemonic = "horror marriage scare gym fire logic tank help skull title shrug auto";
+var mnemonic = "bulb laptop there captain able giggle final crop quarter auction phrase universe";

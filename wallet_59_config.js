@@ -1,1 +1,1 @@
-var mnemonic = "luggage alley slab return rug shine course common enlist infant trophy island";
+var mnemonic = "impose rude celery mango wage donor auto unusual bounce habit dumb fiction";

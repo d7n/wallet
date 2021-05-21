@@ -1,1 +1,1 @@
-var mnemonic = "exit arrange ecology boy brass flower differ wrist typical walnut envelope position";
+var mnemonic = "draft sustain also daughter pill horror merge thrive uncover pipe city wasp";

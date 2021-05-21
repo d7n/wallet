@@ -1,1 +1,1 @@
-var mnemonic = "garage zoo afford hand carpet train dial stumble catalog detail drip fragile";
+var mnemonic = "grow material shoot what gym gloom hamster welcome inflict coin hobby pig";

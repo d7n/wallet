@@ -1,1 +1,1 @@
-var mnemonic = "crawl half tank staff ahead recipe today earth sport host fix will";
+var mnemonic = "dizzy crew engage juice half mass miss rude exclude impact belt hazard";

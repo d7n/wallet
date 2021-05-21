@@ -1,1 +1,1 @@
-var mnemonic = "cereal census keen remind nurse curve violin local summer foster fix sauce";
+var mnemonic = "drive ugly atom ghost card release magic reduce help into globe airport";

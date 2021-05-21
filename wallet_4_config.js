@@ -1,1 +1,1 @@
-var mnemonic = "talent unhappy catch gas mansion zone estate funny bundle baby venture ticket";
+var mnemonic = "hidden come rely purse surface garment reveal labor agent analyst enter kingdom";

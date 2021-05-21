@@ -1,1 +1,1 @@
-var mnemonic = "seminar despair until tool boil enemy refuse copy retreat census thought swap";
+var mnemonic = "custom control seek medal minute health horn oyster hello grab suspect junk";

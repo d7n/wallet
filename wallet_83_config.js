@@ -1,1 +1,1 @@
-var mnemonic = "face consider used venue fatigue adjust miss swift option strategy pistol seat";
+var mnemonic = "laugh detect bag gossip reduce caution awkward enable cluster valve top trial";

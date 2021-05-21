@@ -1,1 +1,1 @@
-var mnemonic = "nurse law jar whip illegal soccer cram isolate vacuum immune corn prevent";
+var mnemonic = "slab consider original wild ceiling settle sick casino patrol spice word verb";

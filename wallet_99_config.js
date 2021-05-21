@@ -1,1 +1,1 @@
-var mnemonic = "grit ball mountain document skin hockey best video attend borrow until until";
+var mnemonic = "rifle sword fan radar trouble dignity face adult virus security confirm network";

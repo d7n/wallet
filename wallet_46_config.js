@@ -1,1 +1,1 @@
-var mnemonic = "off organ furnace exit breeze grit approve cry wedding year sweet sorry";
+var mnemonic = "surround rather green push unique sudden float elbow pink charge also pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "century disorder style return same size pact main twenty vanish panther table";
+var mnemonic = "awful fork crater empower buzz have charge taste boss desert mountain endless";

@@ -1,1 +1,1 @@
-var mnemonic = "treat curious half smoke satisfy fan inspire ill furnace short math guitar";
+var mnemonic = "say cinnamon try control vague exact casino office hurdle receive morning man";

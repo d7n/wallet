@@ -1,1 +1,1 @@
-var mnemonic = "sibling urge entire negative chef update cute scene news panic position frost";
+var mnemonic = "treat myself craft find jewel pluck cube disagree release sort bring start";

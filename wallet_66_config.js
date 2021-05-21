@@ -1,1 +1,1 @@
-var mnemonic = "blind token puppy mask magic sock globe engage person snack mountain blossom";
+var mnemonic = "pioneer clock spin volume impact stairs network under glad huge seed adapt";

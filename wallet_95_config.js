@@ -1,1 +1,1 @@
-var mnemonic = "unit enforce decorate hover animal rain vacuum lottery already oak oil amateur";
+var mnemonic = "example cost tunnel cat return eye undo exact lamp nerve gold version";

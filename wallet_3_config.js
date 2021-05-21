@@ -1,1 +1,1 @@
-var mnemonic = "eight menu still nice illness matter shrug settle method retire alert reveal";
+var mnemonic = "tomato awake ginger planet enable clay people boil ghost layer volume skin";

@@ -1,1 +1,1 @@
-var mnemonic = "reward apology put clever pact profit churn frozen profit movie cargo paper";
+var mnemonic = "milk gold loan ill miss garlic series bar buyer nasty dance bracket";

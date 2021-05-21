@@ -1,1 +1,1 @@
-var mnemonic = "castle provide early analyst clean aspect gesture excite essence fabric abstract athlete";
+var mnemonic = "art insane hunt bronze slush muffin define voice surround fiber ladder again";

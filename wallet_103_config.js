@@ -1,1 +1,1 @@
-var mnemonic = "congress rigid habit order dismiss sad acquire barely filter coral cousin marble";
+var mnemonic = "one oppose spatial bid brain cabbage bulk second plunge adapt grow loud";

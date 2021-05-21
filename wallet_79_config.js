@@ -1,1 +1,1 @@
-var mnemonic = "shove finger sleep magic senior corn nut column gossip convince miss quality";
+var mnemonic = "segment slogan sing coil pretty spring arrive orchard inch bone catch mixed";

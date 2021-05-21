@@ -1,1 +1,1 @@
-var mnemonic = "science clerk delay captain gorilla tennis poem tongue grid foam jazz unique";
+var mnemonic = "garlic coconut grocery tube impulse chat kick prize point sign meadow home";

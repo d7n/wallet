@@ -1,1 +1,1 @@
-var mnemonic = "level equal dice other brief flash faculty grow wealth reason crew flush";
+var mnemonic = "offer desert leisure vacuum goat flame gesture whisper real exercise child pact";

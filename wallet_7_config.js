@@ -1,1 +1,1 @@
-var mnemonic = "glow egg goat tunnel surround amount stand parent museum rose story depth";
+var mnemonic = "seven shine wage idle like into add trouble else joke blossom because";

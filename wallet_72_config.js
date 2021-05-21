@@ -1,1 +1,1 @@
-var mnemonic = "tank spring flower maple ride keep payment sick type shaft valve review";
+var mnemonic = "position book devote tonight injury what push seek snake bar raw tissue";

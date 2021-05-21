@@ -1,1 +1,1 @@
-var mnemonic = "note butter paper harbor cliff short scout coyote reunion tell settle cliff";
+var mnemonic = "isolate buzz blouse order female river leader bar hobby aspect safe double";

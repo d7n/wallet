@@ -1,1 +1,1 @@
-var mnemonic = "mobile buyer seed simple time actor album avocado scare police sell time";
+var mnemonic = "uncle pink wild object twist arch hurdle cloth laptop west blouse day";

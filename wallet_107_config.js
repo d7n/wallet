@@ -1,1 +1,1 @@
-var mnemonic = "speed salmon reflect ridge oppose bracket prize oval exclude ability boy angle";
+var mnemonic = "figure buffalo renew stay grass tag brand acid maximum hard plastic bike";

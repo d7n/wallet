@@ -1,1 +1,1 @@
-var mnemonic = "reopen destroy excite direct minute hurt math include express execute exclude bullet";
+var mnemonic = "remain shrug grass cement shell prize subway switch price since cruise village";

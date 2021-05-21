@@ -1,1 +1,1 @@
-var mnemonic = "involve sunset eye toddler negative tobacco between bird word garlic grab vivid";
+var mnemonic = "flat unfair olive belt voyage solar engage egg market tomorrow slab act";

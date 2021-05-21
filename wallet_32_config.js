@@ -1,1 +1,1 @@
-var mnemonic = "junior spatial window toe symbol orphan floor debris often album worth calm";
+var mnemonic = "pelican tired priority rely cute latin skill shield kidney cage calm hurdle";

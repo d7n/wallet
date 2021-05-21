@@ -1,1 +1,1 @@
-var mnemonic = "choice rapid foam topple fish vendor flavor swap chat tumble latin pact";
+var mnemonic = "join ozone advance column between move bring immense then follow please laundry";

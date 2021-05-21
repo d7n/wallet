@@ -1,1 +1,1 @@
-var mnemonic = "walk turn leisure error disease wood trim visit arena away that slim";
+var mnemonic = "collect shuffle diamond lounge that warfare symptom friend opera marble grab shield";

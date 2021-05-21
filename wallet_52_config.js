@@ -1,1 +1,1 @@
-var mnemonic = "dumb tag excess daughter uncle forum raise correct foot okay relief tackle";
+var mnemonic = "credit nature grunt life gift lizard tail cable autumn faith copy comfort";

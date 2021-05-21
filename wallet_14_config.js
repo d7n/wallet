@@ -1,1 +1,1 @@
-var mnemonic = "throw pave merry ghost melt sudden chicken shop cluster sick guide spring";
+var mnemonic = "company code swallow fee glove crew correct alone leg sail assault disease";

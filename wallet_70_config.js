@@ -1,1 +1,1 @@
-var mnemonic = "peace gorilla quality embark spy kitchen nurse assist flat hood benefit nerve";
+var mnemonic = "session urge admit easy scan bullet vague season diary misery gas near";

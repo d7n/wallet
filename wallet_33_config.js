@@ -1,1 +1,1 @@
-var mnemonic = "scare carpet glance category chuckle unfair razor client matter age live dutch";
+var mnemonic = "auto stumble scatter august patrol used clinic man luggage enable bounce empty";

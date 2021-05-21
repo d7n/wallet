@@ -1,1 +1,1 @@
-var mnemonic = "fruit drill parade label penalty hill sunny sister perfect square squeeze upgrade";
+var mnemonic = "lemon broccoli sphere culture address flee obscure wish erupt lonely inmate tourist";

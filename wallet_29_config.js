@@ -1,1 +1,1 @@
-var mnemonic = "elegant laundry stereo foil protect rigid message expect unveil hurt bike canoe";
+var mnemonic = "item stone deputy better grid riot shed entire erode wear chicken derive";

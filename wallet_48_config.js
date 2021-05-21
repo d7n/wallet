@@ -1,1 +1,1 @@
-var mnemonic = "grocery cream length cost prevent develop peanut laundry want snap lamp fancy";
+var mnemonic = "street penalty sight member belt sad defy happy gloom possible rice quantum";

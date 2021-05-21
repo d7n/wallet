@@ -1,1 +1,1 @@
-var mnemonic = "wrong omit drill convince record rather must gym item envelope age child";
+var mnemonic = "hover ozone bean result sugar fatigue urban now parade because antique notice";

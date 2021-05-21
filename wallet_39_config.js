@@ -1,1 +1,1 @@
-var mnemonic = "deliver tissue unable divide ensure decrease myth over crash crawl news skill";
+var mnemonic = "uphold they banner choose decline cupboard alien token address undo jaguar orphan";

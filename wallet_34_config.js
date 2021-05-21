@@ -1,1 +1,1 @@
-var mnemonic = "vote disease echo cake supreme phone palace grid rookie foam detail because";
+var mnemonic = "vanish hover cage action craft fabric either champion gorilla lizard hamster craft";

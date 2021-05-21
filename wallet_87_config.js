@@ -1,1 +1,1 @@
-var mnemonic = "tiny enhance celery enroll candy couple marriage update simple skill hen come";
+var mnemonic = "blur army zebra tag indoor such kitten voice hurry fat exotic attract";

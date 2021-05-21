@@ -1,1 +1,1 @@
-var mnemonic = "garlic piano maze fiction erode present age crazy sand camera provide blouse";
+var mnemonic = "next cheese picture excite east letter maze clutch left merit napkin display";

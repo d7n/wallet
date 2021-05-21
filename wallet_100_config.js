@@ -1,1 +1,1 @@
-var mnemonic = "romance merit wolf drink sorry rotate over ability start luxury strong toe";
+var mnemonic = "mesh physical juice guitar wagon soft orbit process subject please derive hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "end sudden grant stage shrug orange flip rely blast light wet category";
+var mnemonic = "symptom stereo control visa sauce spring adapt cigar turtle wage spawn nasty";

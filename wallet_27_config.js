@@ -1,1 +1,1 @@
-var mnemonic = "prison fly cargo route bachelor business wool joy air wolf mimic orbit";
+var mnemonic = "nut wish parade else predict symbol clarify jewel burden fog oven industry";

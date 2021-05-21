@@ -1,1 +1,1 @@
-var mnemonic = "slush sentence brand calm rescue fantasy cereal easily thing casino despair hope";
+var mnemonic = "demand asset army face mammal differ grocery fresh buyer daring dish pluck";

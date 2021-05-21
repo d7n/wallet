@@ -1,1 +1,1 @@
-var mnemonic = "scatter hurry power speed tribe pride enforce autumn grocery hurt skin vast";
+var mnemonic = "grid lens public year drift session garden first swamp document crew drop";

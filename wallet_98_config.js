@@ -1,1 +1,1 @@
-var mnemonic = "risk flash depart until soldier bomb gate tape honey enforce mom chief";
+var mnemonic = "wife pet eye excess sphere post inherit chaos scheme involve leisure wife";

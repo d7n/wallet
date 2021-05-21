@@ -1,1 +1,1 @@
-var mnemonic = "bargain right elder nothing rhythm trash usual almost cute arch sense friend";
+var mnemonic = "enough endorse dinner sunny type credit also crunch mind roast tattoo funny";

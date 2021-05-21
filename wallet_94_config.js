@@ -1,1 +1,1 @@
-var mnemonic = "tired broccoli wild candy degree sudden nice junior weasel october about small";
+var mnemonic = "unit pink soldier rely mention boost inquiry horn tomorrow horror potato term";

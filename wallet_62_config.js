@@ -1,1 +1,1 @@
-var mnemonic = "demise dizzy innocent wheel token already fog wear situate figure mobile meadow";
+var mnemonic = "piano blue neglect void crash swarm lawsuit reflect uniform already enlist coin";

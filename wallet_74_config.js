@@ -1,1 +1,1 @@
-var mnemonic = "anchor board film little say north circle jaguar canvas purse trigger when";
+var mnemonic = "pen joke boat lend roast gesture such lizard much bracket dose news";

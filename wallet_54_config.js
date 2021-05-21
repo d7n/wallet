@@ -1,1 +1,1 @@
-var mnemonic = "salon evidence cruise world arena river toast recipe armed seminar nerve enroll";
+var mnemonic = "spin injury craft crowd never stick utility try behave fluid thumb duck";

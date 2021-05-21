@@ -1,1 +1,1 @@
-var mnemonic = "regular liar walk agent local that trumpet ritual lonely private topple frost";
+var mnemonic = "oven asthma sniff chief orphan logic primary heavy onion online loop core";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop equal room material shift have clinic comic champion develop picture chimney";
+var mnemonic = "gossip art vault abstract brisk quiz add salmon silk alpha round tent";

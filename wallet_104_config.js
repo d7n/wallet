@@ -1,1 +1,1 @@
-var mnemonic = "often paper where notable clap surround panic trick else focus cruise reform";
+var mnemonic = "ship episode decline aware raise note brush aisle stereo dove useful age";

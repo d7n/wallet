@@ -1,1 +1,1 @@
-var mnemonic = "yellow slush myth similar beyond simple carbon release fade tunnel repair fog";
+var mnemonic = "brain load depend force salad afford toss bicycle siren shrimp fancy car";

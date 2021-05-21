@@ -1,1 +1,1 @@
-var mnemonic = "parrot adjust despair skirt spoil vote together wasp nasty lumber dust era";
+var mnemonic = "romance below soda steak shuffle trash fantasy sleep surge flame special smoke";

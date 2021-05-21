@@ -1,1 +1,1 @@
-var mnemonic = "town safe there enter fiction transfer oxygen avoid upset rose abstract steel";
+var mnemonic = "surface rally rescue board first crouch author liberty monkey erosion genius stage";

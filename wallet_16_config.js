@@ -1,1 +1,1 @@
-var mnemonic = "abstract wedding resemble daring enough twin dynamic essay awful soldier dismiss admit";
+var mnemonic = "shallow number call task gentle drama caught arch joke abandon marine pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "usual tone adjust rather live place subway elite put assault rally liar";
+var mnemonic = "horse verify bench swarm pill start neglect cage wood resemble lonely polar";

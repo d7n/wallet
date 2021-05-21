@@ -1,1 +1,1 @@
-var mnemonic = "okay book detect apple angry exist test health memory admit ceiling guess";
+var mnemonic = "normal fuel bind remember cable burden hollow spray actress decorate scrap attract";

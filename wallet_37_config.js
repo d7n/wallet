@@ -1,1 +1,1 @@
-var mnemonic = "left tilt level bargain desk tooth cram rail leisure eternal come mansion";
+var mnemonic = "where quit token return random record stool memory upset length work general";

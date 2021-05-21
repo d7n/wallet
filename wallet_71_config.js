@@ -1,1 +1,1 @@
-var mnemonic = "letter noise fancy swear truth carbon odor session myth coconut mention school";
+var mnemonic = "crucial east hobby ankle same twist walnut visual brother devote slam radio";

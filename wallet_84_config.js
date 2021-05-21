@@ -1,1 +1,1 @@
-var mnemonic = "way anchor shift develop whisper sketch idle magnet bargain know element suffer";
+var mnemonic = "light attitude motion physical crane aisle bacon bulk mansion outside resource busy";

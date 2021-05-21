@@ -1,1 +1,1 @@
-var mnemonic = "canoe nut track wheel metal payment recipe master sibling layer tornado hair";
+var mnemonic = "force harbor term palace quiz ten fever tuna wheat eternal source tonight";

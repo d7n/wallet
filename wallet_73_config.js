@@ -1,1 +1,1 @@
-var mnemonic = "imitate project fence hole wrestle develop else assault make jelly upgrade liar";
+var mnemonic = "talent humble answer topple detect birth dizzy deputy silk bench ugly boil";

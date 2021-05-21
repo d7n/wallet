@@ -1,1 +1,1 @@
-var mnemonic = "excuse tourist faint illegal boring woman excite sick room peanut soccer include";
+var mnemonic = "deposit always staff assist glow ill april guide stock crash mistake goddess";

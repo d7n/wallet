@@ -1,1 +1,1 @@
-var mnemonic = "critic ketchup dial off legal same scale flee review drive entire blood";
+var mnemonic = "path fossil welcome jacket tragic smart bus conduct connect mesh fiber clap";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy film glide naive arrive hobby gun cash pride element fatal tumble";
+var mnemonic = "foster kingdom invest album total book during curtain scheme give window deal";

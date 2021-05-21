@@ -1,1 +1,1 @@
-var mnemonic = "beef blouse trouble circle suffer logic pear company december convince aim village";
+var mnemonic = "because depth light mom future neck fat tag hedgehog protect faith color";

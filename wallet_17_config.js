@@ -1,1 +1,1 @@
-var mnemonic = "elegant citizen obtain decade course denial pistol patient annual cost orange soft";
+var mnemonic = "fun turtle kiss unveil forest desert near spread present reason also sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry fence heavy excess dry trial dream inherit genius defy whisper april";
+var mnemonic = "actor provide month iron talent trigger small hundred bargain sheriff summer average";

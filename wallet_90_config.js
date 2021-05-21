@@ -1,1 +1,1 @@
-var mnemonic = "aware cup glimpse problem deputy worth will toss pitch pull clap penalty";
+var mnemonic = "hobby gospel coach crazy pepper lift absorb glue much quarter lottery comic";
