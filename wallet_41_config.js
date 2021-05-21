@@ -1,1 +1,1 @@
-var mnemonic = "record subway youth ring ensure eyebrow domain jelly gain sell become occur";
+var mnemonic = "rotate canal shop valid mouse blast carry what female couch turkey congress";

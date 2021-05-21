@@ -1,1 +1,1 @@
-var mnemonic = "elevator boil harvest autumn smoke drastic eternal junior color high food dragon";
+var mnemonic = "smile long curtain win off gorilla large pony glance man exhaust man";

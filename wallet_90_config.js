@@ -1,1 +1,1 @@
-var mnemonic = "jelly ability present pull keen define fatigue naive supply wheel release inflict";
+var mnemonic = "rack truth right female squirrel gadget reveal witness cream primary side cargo";

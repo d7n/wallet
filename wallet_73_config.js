@@ -1,1 +1,1 @@
-var mnemonic = "pulp leaf leader crowd size protect frost field rebel diamond typical duty";
+var mnemonic = "crush permit inside usage purchase bicycle phone holiday labor slender boil prefer";

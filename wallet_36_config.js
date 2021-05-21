@@ -1,1 +1,1 @@
-var mnemonic = "limit color race ill quiz dwarf day bid grant spray aware fit";
+var mnemonic = "donor badge novel tortoise shove uncover exile hospital ostrich myself eternal dune";

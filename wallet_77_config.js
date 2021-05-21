@@ -1,1 +1,1 @@
-var mnemonic = "ahead zero bind film put punch super bubble vault original parrot actor";
+var mnemonic = "glue sugar thrive useful chase off actual outside swallow broken garage simple";

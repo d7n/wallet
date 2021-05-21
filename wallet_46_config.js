@@ -1,1 +1,1 @@
-var mnemonic = "auto spawn slow soap abandon need song trap pledge cube input ribbon";
+var mnemonic = "raw human dignity enact off favorite essay twist yellow top safe dice";

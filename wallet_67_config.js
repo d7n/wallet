@@ -1,1 +1,1 @@
-var mnemonic = "inherit office parent glove between elite replace travel arm scrub glory blouse";
+var mnemonic = "pulp series depth float eyebrow hat attitude anxiety urban soft news author";

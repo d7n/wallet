@@ -1,1 +1,1 @@
-var mnemonic = "travel naive common salmon birth caution enact found draft top secret fuel";
+var mnemonic = "receive special wrong escape swamp spice gap kitten humor note come please";

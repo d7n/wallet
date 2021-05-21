@@ -1,1 +1,1 @@
-var mnemonic = "sugar clean toddler term just chat elbow fluid panther media better runway";
+var mnemonic = "example liberty address boost air anxiety put common network tourist boost economy";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb armed royal nature soldier civil exotic venture lunch industry street gentle";
+var mnemonic = "razor display solar ecology skull loan save hip ready catch execute pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "quality snake buffalo deal kiss stamp deal verb open review tone stand";
+var mnemonic = "warfare trip noise fine latin dinner travel attend convince change put return";

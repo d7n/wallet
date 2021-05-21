@@ -1,1 +1,1 @@
-var mnemonic = "else exchange upset worth young pool harvest dynamic lawsuit poet jealous protect";
+var mnemonic = "still cousin sense clean rose one siren render grid firm wrap kit";

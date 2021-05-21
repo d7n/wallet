@@ -1,1 +1,1 @@
-var mnemonic = "earn mobile holiday lawn sphere box buyer square essay soda torch smoke";
+var mnemonic = "stereo cabin shy thunder faint input file diamond raven keen deal quality";

@@ -1,1 +1,1 @@
-var mnemonic = "hour hunt helmet load voyage journey lamp service silk shine next rabbit";
+var mnemonic = "medal risk hockey mechanic diagram dutch raccoon token elder mix scorpion clown";

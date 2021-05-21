@@ -1,1 +1,1 @@
-var mnemonic = "junior hen cycle list category supply giraffe seat bid patch siren fiction";
+var mnemonic = "ripple horror lawsuit category miss bounce roast drive chest visa hockey mule";

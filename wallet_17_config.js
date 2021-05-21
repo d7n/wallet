@@ -1,1 +1,1 @@
-var mnemonic = "stove expose photo pupil brown mystery wing earth lounge soon rebel pipe";
+var mnemonic = "rain such captain wasp forget radio order keep material aisle favorite license";

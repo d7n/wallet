@@ -1,1 +1,1 @@
-var mnemonic = "sniff lift sun tenant tip weather divert purchase exclude check guess tape";
+var mnemonic = "equal replace erupt use huge road strike wreck dragon profit into thing";

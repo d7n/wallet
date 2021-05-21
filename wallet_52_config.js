@@ -1,1 +1,1 @@
-var mnemonic = "fame kind online neither hope embrace turkey drama obtain crater welcome payment";
+var mnemonic = "lawsuit advice airport digital coil save pattern blind blue husband always brush";

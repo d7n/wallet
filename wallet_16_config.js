@@ -1,1 +1,1 @@
-var mnemonic = "benefit win motor enforce erupt dumb stay home collect ocean mystery curtain";
+var mnemonic = "census grief ketchup punch stem super embrace dust patch unfair energy galaxy";

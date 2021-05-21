@@ -1,1 +1,1 @@
-var mnemonic = "basket panther license powder long blush impulse wrestle loyal figure travel symptom";
+var mnemonic = "combine repeat wreck receive jazz envelope balance trap cloth upon false pigeon";

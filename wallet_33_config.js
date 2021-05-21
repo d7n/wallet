@@ -1,1 +1,1 @@
-var mnemonic = "mimic siren verify entry skill range kitchen work scene approve renew online";
+var mnemonic = "benefit demise pluck fiber walnut strategy horse nasty hood jacket green fire";

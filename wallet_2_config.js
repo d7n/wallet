@@ -1,1 +1,1 @@
-var mnemonic = "gauge infant inquiry team stay multiply differ image hair happy beef adult";
+var mnemonic = "marriage plate buddy hire remember sand wrist prison airport orphan foot boil";

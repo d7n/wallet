@@ -1,1 +1,1 @@
-var mnemonic = "people dust thumb depend try crazy occur useful small cat hazard spell";
+var mnemonic = "siege fame open taste screen common ability extra gaze report drive question";

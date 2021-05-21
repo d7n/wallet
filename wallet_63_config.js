@@ -1,1 +1,1 @@
-var mnemonic = "liberty violin angry borrow ordinary desert foil humor owner series diary walk";
+var mnemonic = "couple mimic scene own bundle hockey museum verify tomorrow minute rich behave";

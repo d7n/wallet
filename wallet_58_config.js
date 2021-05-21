@@ -1,1 +1,1 @@
-var mnemonic = "mule ugly evidence notice earth robot such apple awkward have inhale air";
+var mnemonic = "vault mosquito taste leader solution east hire consider pact give settle sniff";

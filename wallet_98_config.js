@@ -1,1 +1,1 @@
-var mnemonic = "torch aisle rival ethics dream join popular deposit tent salt index fiscal";
+var mnemonic = "annual leg erode amount zero scout gift drill spread scissors solid strong";

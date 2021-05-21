@@ -1,1 +1,1 @@
-var mnemonic = "clutch turkey first basic human field special pluck despair frown dumb enter";
+var mnemonic = "issue base lab purse treat tornado remove grape base boil daring catalog";

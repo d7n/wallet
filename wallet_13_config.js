@@ -1,1 +1,1 @@
-var mnemonic = "fantasy silly ecology interest fringe obey stock outdoor damp tower season toddler";
+var mnemonic = "hybrid bulb demand bike notable curious liberty certain outside barely cruise angry";

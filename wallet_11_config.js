@@ -1,1 +1,1 @@
-var mnemonic = "gas churn faculty force flip clean inhale book quiz craft extend memory";
+var mnemonic = "hockey wet banner lesson announce warrior expire monitor reveal prevent almost income";

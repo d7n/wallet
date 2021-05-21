@@ -1,1 +1,1 @@
-var mnemonic = "extend amazing shop winter giggle element milk insane shield state draft gentle";
+var mnemonic = "shift minimum office obscure expose major release round laugh flight then venue";

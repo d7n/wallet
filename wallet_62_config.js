@@ -1,1 +1,1 @@
-var mnemonic = "wrist empty minimum stay first unique hundred pig rent mention neither card";
+var mnemonic = "make spoon rude you forget blanket wool scissors journey lucky then humor";

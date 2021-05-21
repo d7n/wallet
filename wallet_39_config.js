@@ -1,1 +1,1 @@
-var mnemonic = "filter print lobster where steel inhale save cinnamon love venture club gather";
+var mnemonic = "celery inmate useless outdoor reason distance kitten expire perfect beyond tragic young";

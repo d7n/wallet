@@ -1,1 +1,1 @@
-var mnemonic = "pet tip forward blouse hotel airport tide slab cry blue crunch machine";
+var mnemonic = "false wheat palm jelly swift color damage orchard crunch control glow sniff";

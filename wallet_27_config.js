@@ -1,1 +1,1 @@
-var mnemonic = "setup myself opera robot art life brave boring label solar chicken gift";
+var mnemonic = "sauce arrange address kid problem shine season broccoli stock lizard alter choice";

@@ -1,1 +1,1 @@
-var mnemonic = "leg wage viable accuse trash cupboard top foster artwork addict salt inflict";
+var mnemonic = "rack grid reform duck session feature cluster acid cluster slide captain magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "area nothing when spare tissue gas relief liar organ noise hover step";
+var mnemonic = "affair retire system will chair solution better exclude pill alien now margin";

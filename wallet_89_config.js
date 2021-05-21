@@ -1,1 +1,1 @@
-var mnemonic = "aim maximum cause casino story trigger dwarf hire pigeon sustain limb coral";
+var mnemonic = "ridge blouse eager cost speak adapt wife still detail fever assault garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "word sadness other smart chef quote brief decline chief wealth van toilet";
+var mnemonic = "little select next fossil slim purchase cash robust milk corn atom swamp";

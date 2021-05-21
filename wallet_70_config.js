@@ -1,1 +1,1 @@
-var mnemonic = "series evil spice swing resemble soldier crucial pass sing cliff bullet door";
+var mnemonic = "there science process sunny pottery flame subject divorce occur base during globe";

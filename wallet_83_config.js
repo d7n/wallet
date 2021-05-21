@@ -1,1 +1,1 @@
-var mnemonic = "anchor retire lady matter olympic describe awful knife meadow ticket hobby wrist";
+var mnemonic = "strike away twin latin dumb skin drum sound universe worth chat midnight";

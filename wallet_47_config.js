@@ -1,1 +1,1 @@
-var mnemonic = "sell cat peanut vital knee awful sleep dress offer dutch cherry gate";
+var mnemonic = "limb blue plastic luggage purpose slush void claim laundry morning cousin travel";

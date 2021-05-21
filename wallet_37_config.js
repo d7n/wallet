@@ -1,1 +1,1 @@
-var mnemonic = "urban annual ranch female chunk sword banana report sorry often outside brief";
+var mnemonic = "fantasy draft luxury present lunar nature captain melody maid nation gain gate";

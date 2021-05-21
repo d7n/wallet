@@ -1,1 +1,1 @@
-var mnemonic = "moral mechanic diet soccer trash curtain knock crawl patch use drip panel";
+var mnemonic = "staff alarm diesel vote joke brisk layer comic nature seed party cushion";

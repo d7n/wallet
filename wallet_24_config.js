@@ -1,1 +1,1 @@
-var mnemonic = "seat rib swamp pair sad normal kiwi orient oblige inch enroll crew";
+var mnemonic = "royal carbon affair female west broken cry aisle reflect beach case sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "woman angry bring gown between vapor mention math height stool wire exist";
+var mnemonic = "enough patrol dynamic void sister wire charge asthma spirit candy suggest conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone field border debris observe volume lesson assault fault fever rack veteran";
+var mnemonic = "bottom trigger half rain ceiling region dress suspect current devote wise table";

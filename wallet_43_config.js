@@ -1,1 +1,1 @@
-var mnemonic = "fragile govern rent language asset sister tube truly fortune anger chef subway";
+var mnemonic = "quantum space village logic depth glare source undo cabin middle cruise gas";

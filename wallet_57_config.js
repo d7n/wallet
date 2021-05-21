@@ -1,1 +1,1 @@
-var mnemonic = "black mutual soft worth like fly october initial scrap nut team magnet";
+var mnemonic = "slogan ball erosion misery favorite because raise uniform object multiply wet spoil";

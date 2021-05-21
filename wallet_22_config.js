@@ -1,1 +1,1 @@
-var mnemonic = "century frozen nation now inquiry answer exotic gravity pear insect taxi fat";
+var mnemonic = "moment few dumb plate sudden giant labor base fetch inherit camp excuse";

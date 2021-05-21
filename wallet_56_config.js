@@ -1,1 +1,1 @@
-var mnemonic = "among february vague tired infant friend urge soldier tube spawn design solve";
+var mnemonic = "symbol power toward relief undo income crunch shield attitude choice large endless";

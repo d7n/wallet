@@ -1,1 +1,1 @@
-var mnemonic = "movie truth pause cable team unlock time welcome toddler gap warrior music";
+var mnemonic = "guilt parent better only found real light exit pause meadow twelve coil";

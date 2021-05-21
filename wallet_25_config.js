@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur service admit key wave design marine stable spare because imitate satoshi";
+var mnemonic = "harsh reward bargain shift praise tray front open tonight popular copper bubble";

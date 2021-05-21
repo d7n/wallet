@@ -1,1 +1,1 @@
-var mnemonic = "biology insect clarify guilt goose fetch move file federal lonely arctic grit";
+var mnemonic = "sustain display foil measure curtain satoshi glue water any apology tiny motor";

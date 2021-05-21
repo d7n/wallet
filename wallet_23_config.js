@@ -1,1 +1,1 @@
-var mnemonic = "rain crouch scatter clarify deer spice safe post note loyal nature bulb";
+var mnemonic = "blood slender own style network cushion staff member net fun final weapon";

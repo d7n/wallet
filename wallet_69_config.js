@@ -1,1 +1,1 @@
-var mnemonic = "small voice blouse leg oval mango vehicle impact breeze game earth pink";
+var mnemonic = "topple symbol reject soft mandate jealous ladder range amused unveil bid chronic";

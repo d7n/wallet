@@ -1,1 +1,1 @@
-var mnemonic = "table narrow athlete member exotic soda trick drum jungle disagree height pill";
+var mnemonic = "logic olympic plunge near then index episode worth trick flip mad grief";

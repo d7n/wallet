@@ -1,1 +1,1 @@
-var mnemonic = "pencil leopard indicate curtain page athlete equip spot ivory crumble jacket drastic";
+var mnemonic = "vanish conduct derive science venue one argue penalty stick meadow benefit confirm";

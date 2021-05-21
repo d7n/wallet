@@ -1,1 +1,1 @@
-var mnemonic = "child barely indoor cycle fancy clarify tree festival clay relief witness rain";
+var mnemonic = "allow forget force fever bacon rose garage rude around easy access unfair";

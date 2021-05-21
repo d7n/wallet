@@ -1,1 +1,1 @@
-var mnemonic = "strong false echo rally fly bracket gather weekend illegal save melody motion";
+var mnemonic = "vendor voice laptop basket weekend grit figure punch execute split bid joy";

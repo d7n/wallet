@@ -1,1 +1,1 @@
-var mnemonic = "scorpion steel wedding rare duty oblige stock car purity lucky finger two";
+var mnemonic = "design welcome appear announce chest kiss venue stuff flock work move truth";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen fossil street list brave practice exclude amused slot push gossip unknown";
+var mnemonic = "post blush various box dream cloud green fringe waste arctic coyote country";

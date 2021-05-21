@@ -1,1 +1,1 @@
-var mnemonic = "second spatial chicken hill topple cabbage gasp wreck tent print brush able";
+var mnemonic = "stool circle flag wish unit sun engage affair fatal lucky town gospel";

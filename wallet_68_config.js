@@ -1,1 +1,1 @@
-var mnemonic = "lunch wheat before chronic fire silent style horse input either waste army";
+var mnemonic = "practice floor lizard young seed copper crisp art joke good cable nice";

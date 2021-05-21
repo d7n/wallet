@@ -1,1 +1,1 @@
-var mnemonic = "blame kitten clever weasel arrow feature october muscle mystery able coast shoot";
+var mnemonic = "replace improve dice suit execute excuse genius orient loan morning scrub betray";

@@ -1,1 +1,1 @@
-var mnemonic = "special photo crush orphan lawn indoor river forget silent essence mom fossil";
+var mnemonic = "dentist already airport pride fly captain crisp typical decade woman puzzle speed";

@@ -1,1 +1,1 @@
-var mnemonic = "student slim curious sick useless pigeon rice gorilla slight bulk verb trash";
+var mnemonic = "popular leaf story final thumb garage milk object wasp circle trash update";

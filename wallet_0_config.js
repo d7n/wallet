@@ -1,1 +1,1 @@
-var mnemonic = "sunny bacon spider pottery fall much decade luxury emotion silk smoke love";
+var mnemonic = "keep bridge kid effort mushroom announce aspect verify pitch disorder possible snap";

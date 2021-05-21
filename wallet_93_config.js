@@ -1,1 +1,1 @@
-var mnemonic = "affair snake empty swift real pact fit strong kiwi crucial auto draw";
+var mnemonic = "devote shield deny mammal produce guess act fabric face era critic annual";

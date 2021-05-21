@@ -1,1 +1,1 @@
-var mnemonic = "glance sausage motor hunt wing slam police rotate modify speed penalty grain";
+var mnemonic = "benefit utility favorite focus custom wise frown reunion buzz seven rent invest";

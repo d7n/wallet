@@ -1,1 +1,1 @@
-var mnemonic = "settle palm lumber invest delay jeans butter devote issue remember broom modify";
+var mnemonic = "prefer soap anchor abstract metal vapor world deliver cattle width aunt olive";

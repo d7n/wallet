@@ -1,1 +1,1 @@
-var mnemonic = "prepare tube air income twenty hero side slow illness talk defy similar";
+var mnemonic = "entry fork illegal melody mercy wish finger setup wide obtain elephant bulb";

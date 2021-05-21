@@ -1,1 +1,1 @@
-var mnemonic = "reduce correct trophy number flower food bag love nest twelve finger alpha";
+var mnemonic = "robust carpet nurse fat easy legend guide hidden three mind pulp tilt";

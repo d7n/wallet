@@ -1,1 +1,1 @@
-var mnemonic = "embrace ticket solve behind broom dad ball kick prison adapt cherry glide";
+var mnemonic = "stone jar leopard beef book hill hidden modify force muffin century violin";

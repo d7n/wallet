@@ -1,1 +1,1 @@
-var mnemonic = "weekend canyon reopen sentence strategy absent faint discover trap net faith cereal";
+var mnemonic = "crane soul circle salad label december average bus peanut ghost ship state";

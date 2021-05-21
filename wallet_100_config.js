@@ -1,1 +1,1 @@
-var mnemonic = "offer wash coin rhythm hungry crowd aware rude machine job vote come";
+var mnemonic = "wisdom kitten upper grass circle trigger tip rapid cradle marble surge grit";

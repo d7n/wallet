@@ -1,1 +1,1 @@
-var mnemonic = "magic season dish rifle zone accuse into expire entry debris accident thought";
+var mnemonic = "brick execute furnace stay evil table echo entire elite either fantasy yellow";

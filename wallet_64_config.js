@@ -1,1 +1,1 @@
-var mnemonic = "snap nothing obscure slush inside test omit clean fork wrestle police give";
+var mnemonic = "paddle absorb accident slush unit claim render leave airport skirt slot casual";

@@ -1,1 +1,1 @@
-var mnemonic = "merry apology vital course throw clay path speed forum consider spoon goddess";
+var mnemonic = "number recycle demand cause crawl almost gorilla awkward harsh despair coffee injury";

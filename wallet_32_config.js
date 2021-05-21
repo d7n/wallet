@@ -1,1 +1,1 @@
-var mnemonic = "siege inmate spell baby potato child frown measure master sad fire slim";
+var mnemonic = "image jewel artefact strike drum oyster unable turkey earth defense desk repair";

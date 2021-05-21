@@ -1,1 +1,1 @@
-var mnemonic = "shrimp panel real envelope pepper arena sword similar quality save slender balance";
+var mnemonic = "crack feed suffer buffalo adult turn current best virus steak physical question";

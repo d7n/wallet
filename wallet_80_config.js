@@ -1,1 +1,1 @@
-var mnemonic = "luxury about memory vibrant jacket electric horse toast device belt argue vessel";
+var mnemonic = "black pond radio agent slim juice milk chalk judge wife foster soon";

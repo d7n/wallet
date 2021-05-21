@@ -1,1 +1,1 @@
-var mnemonic = "sound open cram acid sweet arctic sad awful flight husband hammer naive";
+var mnemonic = "manual lawsuit ghost stereo motor carpet fox emotion purse join mimic mixed";

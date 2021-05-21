@@ -1,1 +1,1 @@
-var mnemonic = "baby bus luggage general old slim hybrid artist dose okay merge travel";
+var mnemonic = "depend route sick drill earth lemon radio bounce size file swamp deputy";

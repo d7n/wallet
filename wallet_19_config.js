@@ -1,1 +1,1 @@
-var mnemonic = "credit visit news cousin spare accident fire corn exile hub lounge balcony";
+var mnemonic = "scene element wisdom renew tank warrior voyage trust festival path miss mother";

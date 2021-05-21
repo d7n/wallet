@@ -1,1 +1,1 @@
-var mnemonic = "purity clip soup man march peace stumble relax because load high gold";
+var mnemonic = "cute scan cabin injury wood sad orient repair trend wreck core govern";

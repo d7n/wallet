@@ -1,1 +1,1 @@
-var mnemonic = "leopard island adult trumpet various home choice father lonely acid vintage furnace";
+var mnemonic = "arena boring country observe gun prefer father release flash still gym desk";

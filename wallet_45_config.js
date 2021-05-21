@@ -1,1 +1,1 @@
-var mnemonic = "verb tide denial deer spoon pave detail swamp concert unlock host include";
+var mnemonic = "blame input lesson travel thrive jar grab funny describe mango trial estate";

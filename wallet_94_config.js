@@ -1,1 +1,1 @@
-var mnemonic = "unusual hood admit dilemma trade stereo either transfer dice update boss nest";
+var mnemonic = "cupboard brother vague uncle retire wrist festival emerge pepper cabbage put fiber";

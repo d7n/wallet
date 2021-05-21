@@ -1,1 +1,1 @@
-var mnemonic = "gadget advice universe decide stove toddler wool pelican cereal able pioneer apart";
+var mnemonic = "social ghost slot magnet hungry faith bench fox shift foam produce achieve";

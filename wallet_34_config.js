@@ -1,1 +1,1 @@
-var mnemonic = "apology unable glass fury lonely trend differ shoe gallery color wonder tilt";
+var mnemonic = "group theory wedding stereo nation bleak ankle urban media mean lamp upgrade";

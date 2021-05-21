@@ -1,1 +1,1 @@
-var mnemonic = "clay bracket achieve holiday cupboard shrimp few detect vapor copy neglect knock";
+var mnemonic = "cream crystal angle weird earn mistake fabric deer figure noble clump diagram";

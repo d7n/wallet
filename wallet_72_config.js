@@ -1,1 +1,1 @@
-var mnemonic = "close adapt beach velvet place kitchen husband keep shell slush fun river";
+var mnemonic = "discover argue fuel toast apple canoe lumber ice film genuine silver mercy";

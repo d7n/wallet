@@ -1,1 +1,1 @@
-var mnemonic = "loyal limb right walk grape frown ensure isolate thought aisle jacket sunny";
+var mnemonic = "excuse lock outer bike stick require february give rigid food close option";

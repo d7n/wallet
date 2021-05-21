@@ -1,1 +1,1 @@
-var mnemonic = "comic mushroom siren come wonder blood left venue peanut essay soda egg";
+var mnemonic = "random seven palace wheat produce expect acid vacant neutral scrub purpose outside";

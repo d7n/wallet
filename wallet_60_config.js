@@ -1,1 +1,1 @@
-var mnemonic = "long green cigar pause athlete rate horn lend dizzy wrong worth salmon";
+var mnemonic = "mom tongue culture salad dragon voice prefer address purse smoke social comfort";
