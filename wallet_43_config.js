@@ -1,1 +1,1 @@
-var mnemonic = "head border inside source solve file peasant sadness tooth connect vibrant safe";
+var mnemonic = "water immense truck injury today color robust charge soup minor around family";

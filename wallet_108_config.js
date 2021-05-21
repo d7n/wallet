@@ -1,1 +1,1 @@
-var mnemonic = "aunt universe turtle sustain rose artwork fabric salute dynamic correct course embrace";
+var mnemonic = "brief viable van license gorilla siren honey speed hungry claim kit awake";

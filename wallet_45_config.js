@@ -1,1 +1,1 @@
-var mnemonic = "soft tobacco banner mosquito there together galaxy board quit hurry open first";
+var mnemonic = "one rib extra extend place rigid salt marble kind seat render logic";

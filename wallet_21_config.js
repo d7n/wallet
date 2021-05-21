@@ -1,1 +1,1 @@
-var mnemonic = "exercise sponsor brother defense exile marriage view unhappy plug mango program spoil";
+var mnemonic = "drill wise doll payment nerve insect endless nominee farm mirror cool rice";

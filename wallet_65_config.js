@@ -1,1 +1,1 @@
-var mnemonic = "buzz juice isolate deliver pretty similar slight around crime rifle feel pole";
+var mnemonic = "connect pool athlete recipe coil bundle dignity history good submit render broken";

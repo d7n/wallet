@@ -1,1 +1,1 @@
-var mnemonic = "champion believe kiss debate siren bird huge hunt fade goose decline section";
+var mnemonic = "boy bachelor ramp prison walnut account juice local reduce space oval follow";

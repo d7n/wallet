@@ -1,1 +1,1 @@
-var mnemonic = "outer pass lawn parade energy choice kiwi grab offer curtain purse venue";
+var mnemonic = "giant scrub opinion festival swamp define twist exit crawl bachelor liberty nurse";

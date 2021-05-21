@@ -1,1 +1,1 @@
-var mnemonic = "soccer scene sing cereal expect roof icon true army axis piece praise";
+var mnemonic = "miracle potato transfer three dilemma bless boost girl sight exhibit proud throw";

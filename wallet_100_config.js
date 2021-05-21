@@ -1,1 +1,1 @@
-var mnemonic = "chef anchor mystery blur muscle all you tilt thunder task stage purity";
+var mnemonic = "flock gesture real eager voyage pilot deposit blanket pulp wife toddler ill";

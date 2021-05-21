@@ -1,1 +1,1 @@
-var mnemonic = "butter glory early apology cabin fabric average plate carry because million unusual";
+var mnemonic = "orange bronze consider expect bridge add claw produce final umbrella harsh parade";

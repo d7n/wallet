@@ -1,1 +1,1 @@
-var mnemonic = "type accuse rare song judge protect north reunion trim cheap spend dawn";
+var mnemonic = "island toilet great abandon voyage faith regret hurt bacon wear lottery puppy";

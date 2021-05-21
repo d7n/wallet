@@ -1,1 +1,1 @@
-var mnemonic = "puppy mercy source soul dumb nasty dream when token chaos midnight grant";
+var mnemonic = "cash excess depth fix vote mix tenant favorite found virus either expose";

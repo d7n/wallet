@@ -1,1 +1,1 @@
-var mnemonic = "space disagree situate urge culture joke heavy life foot nest soul vault";
+var mnemonic = "demand where pave whale bronze gas weird hobby page bulb fruit lamp";

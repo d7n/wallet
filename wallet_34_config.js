@@ -1,1 +1,1 @@
-var mnemonic = "kid warrior seek truth have affair earth firm enforce eternal pill narrow";
+var mnemonic = "fuel major reduce exotic suit soon differ town toy monitor call feed";

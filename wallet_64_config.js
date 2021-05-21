@@ -1,1 +1,1 @@
-var mnemonic = "dilemma member round jungle core ask cup inch first three ready primary";
+var mnemonic = "output process federal year scout fossil innocent soap motor wink reveal file";

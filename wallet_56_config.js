@@ -1,1 +1,1 @@
-var mnemonic = "merge merry delay polar weapon spare enhance mystery state garment vivid parent";
+var mnemonic = "survey fluid burger rice agent harbor eight left cause dust oven base";

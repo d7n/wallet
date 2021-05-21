@@ -1,1 +1,1 @@
-var mnemonic = "fancy banner junior bargain casual prison liquid dizzy move above brown usage";
+var mnemonic = "floor game flash parent measure cruel vault wolf diary all fashion creek";

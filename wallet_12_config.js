@@ -1,1 +1,1 @@
-var mnemonic = "admit aerobic pool rapid company relax code dose broken ice rail trust";
+var mnemonic = "caught design stick crazy decline trick frame actual deliver clock when arrive";

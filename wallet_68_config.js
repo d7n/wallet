@@ -1,1 +1,1 @@
-var mnemonic = "large dilemma ready cheese lawsuit blur slight stamp chaos twin mystery hero";
+var mnemonic = "action win spider mirror fashion solution bounce until stock penalty model nature";

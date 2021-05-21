@@ -1,1 +1,1 @@
-var mnemonic = "ability athlete economy ill festival genre slight mean oil insane buffalo sock";
+var mnemonic = "plug hood gossip upper chunk act animal injury arrest betray surge certain";

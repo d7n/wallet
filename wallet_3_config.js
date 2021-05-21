@@ -1,1 +1,1 @@
-var mnemonic = "film slide rent sister raw pelican rich victory chapter banana biology remain";
+var mnemonic = "roof stand again frozen buffalo chest settle library elegant sick scatter pattern";

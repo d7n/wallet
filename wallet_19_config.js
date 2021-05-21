@@ -1,1 +1,1 @@
-var mnemonic = "ice empty taste betray bleak jump ship awful topple wine quarter honey";
+var mnemonic = "post setup smart tunnel relief coin man drip depend science round arrange";

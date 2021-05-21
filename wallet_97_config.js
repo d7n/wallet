@@ -1,1 +1,1 @@
-var mnemonic = "side loud license anxiety leopard black attitude enhance woman buddy always width";
+var mnemonic = "ginger carbon nice favorite utility stuff tomato such manage mosquito roast slide";

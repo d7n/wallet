@@ -1,1 +1,1 @@
-var mnemonic = "mixture cream math physical hen gravity cupboard ethics govern path rifle grid";
+var mnemonic = "refuse ship thank seek romance pass note black transfer ridge stomach fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "dose thing such clay blush ketchup clog hill bitter spider local scan";
+var mnemonic = "fine dog dwarf mammal vivid sibling holiday smile mosquito machine evolve helmet";

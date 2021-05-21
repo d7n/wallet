@@ -1,1 +1,1 @@
-var mnemonic = "vibrant wheel open impact crop royal youth wood frame require bounce plunge";
+var mnemonic = "bind leader pill detect valid puppy beyond myth chair release immense junior";

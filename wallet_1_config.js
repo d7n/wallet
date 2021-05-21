@@ -1,1 +1,1 @@
-var mnemonic = "tool concert mandate concert net wild void twenty world resist penalty blanket";
+var mnemonic = "worth always mansion gloom legend wet toss town present auction rookie stem";

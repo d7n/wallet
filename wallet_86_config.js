@@ -1,1 +1,1 @@
-var mnemonic = "arrive basic enforce chuckle turtle any story wish audit conduct rice arena";
+var mnemonic = "spawn tail mother outdoor purpose educate topic visual blind weapon curious strategy";

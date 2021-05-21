@@ -1,1 +1,1 @@
-var mnemonic = "end barrel symptom unknown foam nerve utility tunnel rubber build shock strong";
+var mnemonic = "wash yellow quality space vocal hurdle juice magnet assault public night delay";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot rain fiber grid ankle toward siren mechanic alter parade luggage album";
+var mnemonic = "try eager senior cool blanket awesome enroll elephant lonely topple maid garage";

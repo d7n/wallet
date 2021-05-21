@@ -1,1 +1,1 @@
-var mnemonic = "mad green brain suit crumble wealth escape minimum route guide error rigid";
+var mnemonic = "three kiss bid stairs lesson enhance baby hello luxury sort tennis ocean";

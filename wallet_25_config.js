@@ -1,1 +1,1 @@
-var mnemonic = "click carpet match protect obtain bright cherry such climb water female autumn";
+var mnemonic = "romance common finger hotel image episode metal twenty scan forget whip demise";

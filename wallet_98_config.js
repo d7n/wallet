@@ -1,1 +1,1 @@
-var mnemonic = "budget science tunnel ramp crystal bonus mix napkin fee pair guitar innocent";
+var mnemonic = "economy glance steak mother prevent ghost key ensure woman alley gather garment";

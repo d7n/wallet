@@ -1,1 +1,1 @@
-var mnemonic = "width vacant husband endorse summer twenty toe steak clap neglect panda profit";
+var mnemonic = "thrive lecture impulse vague age damp able latin forget aware two arrange";

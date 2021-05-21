@@ -1,1 +1,1 @@
-var mnemonic = "alarm pond century loud huge crowd increase task razor flee chimney awake";
+var mnemonic = "garage peace suspect inspire among ankle fatal december love uncle clinic dwarf";

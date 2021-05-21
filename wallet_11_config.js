@@ -1,1 +1,1 @@
-var mnemonic = "infant snake client race method veteran output famous spread rude pair dumb";
+var mnemonic = "fabric lunch satisfy web detect caution crunch bag unable hen ketchup reason";

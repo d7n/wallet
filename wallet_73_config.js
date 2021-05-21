@@ -1,1 +1,1 @@
-var mnemonic = "soldier topic sad own labor unusual van diet shell panel blouse endorse";
+var mnemonic = "can kiwi that clerk ceiling school drift huge cream toward onion chimney";

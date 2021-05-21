@@ -1,1 +1,1 @@
-var mnemonic = "amused code young narrow frame quantum call service hood employ federal banner";
+var mnemonic = "budget luxury suspect mutual blind mind curtain tiny want destroy session mention";

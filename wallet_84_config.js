@@ -1,1 +1,1 @@
-var mnemonic = "trumpet seven garment rescue come pill marine room inside page romance unveil";
+var mnemonic = "gossip convince special napkin simple noodle zebra expose right bomb used crime";

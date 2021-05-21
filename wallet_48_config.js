@@ -1,1 +1,1 @@
-var mnemonic = "paddle lion faculty sail snack robot slab absent climb scissors sugar afraid";
+var mnemonic = "cotton buddy govern pipe device pride hello predict cattle spoil slogan stand";

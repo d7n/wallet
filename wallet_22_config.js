@@ -1,1 +1,1 @@
-var mnemonic = "wife strategy one reunion expect tomato argue mistake culture capital hurt model";
+var mnemonic = "twin learn belt embrace earn name season foster poet wrong deliver attack";

@@ -1,1 +1,1 @@
-var mnemonic = "remove screen ozone picnic need blue come cheese swift garlic circle risk";
+var mnemonic = "rather first leisure they drink second fun plug seat region bridge save";

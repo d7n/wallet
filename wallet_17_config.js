@@ -1,1 +1,1 @@
-var mnemonic = "afraid remind robot depend same person sign reduce delay cargo metal apology";
+var mnemonic = "very index hand dice toast defy cart organ must spell cluster change";

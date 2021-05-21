@@ -1,1 +1,1 @@
-var mnemonic = "kingdom shaft planet tunnel robust roof dolphin pact year army abstract private";
+var mnemonic = "entry chunk banner river little consider kid valid join park position mail";

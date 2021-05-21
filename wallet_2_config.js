@@ -1,1 +1,1 @@
-var mnemonic = "marriage husband please width party sand wool fun sausage frown outer trigger";
+var mnemonic = "area august radio side thing small finish hip gaze polar thing bean";

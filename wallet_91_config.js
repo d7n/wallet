@@ -1,1 +1,1 @@
-var mnemonic = "they expire armed evil squirrel butter traffic disagree arctic museum opera section";
+var mnemonic = "snow real habit column anger zoo beauty humor finish glove episode shine";

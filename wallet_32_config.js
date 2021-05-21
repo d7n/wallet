@@ -1,1 +1,1 @@
-var mnemonic = "equip castle submit canvas portion gather glue focus deliver range toast capable";
+var mnemonic = "ancient apple win hole jealous day hammer enhance pudding ceiling theory beef";

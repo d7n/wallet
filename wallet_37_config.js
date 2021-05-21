@@ -1,1 +1,1 @@
-var mnemonic = "move lawsuit exclude budget skirt kiwi rather season logic lamp ladder suit";
+var mnemonic = "winner orange kingdom trip image boil rifle eagle scheme belt lecture access";

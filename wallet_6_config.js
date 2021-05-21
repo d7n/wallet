@@ -1,1 +1,1 @@
-var mnemonic = "impulse hub change april vicious erode news horn jump canoe vibrant raccoon";
+var mnemonic = "rubber attract march few regret before damage include gun segment unusual stamp";

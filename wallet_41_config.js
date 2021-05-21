@@ -1,1 +1,1 @@
-var mnemonic = "tuna emerge finish famous cluster month draft avocado never proud lawn bitter";
+var mnemonic = "learn type ceiling float sugar surface slush grace about object film until";

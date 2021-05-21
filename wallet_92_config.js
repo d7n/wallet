@@ -1,1 +1,1 @@
-var mnemonic = "super final fuel nest olympic wage record invest gossip level runway shaft";
+var mnemonic = "consider crane buzz become slight tongue power suspect wrist funny venture total";

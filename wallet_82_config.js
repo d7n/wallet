@@ -1,1 +1,1 @@
-var mnemonic = "knife assume balance flip brush magic reopen solid dumb result broken stamp";
+var mnemonic = "curtain enjoy come husband floor rug pair amazing public guard slot pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic train shield furnace kind energy balcony skirt sample wide slab fatal";
+var mnemonic = "avoid useless text mimic certain hospital toast infant jazz market ability always";

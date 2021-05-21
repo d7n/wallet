@@ -1,1 +1,1 @@
-var mnemonic = "pudding amateur poem convince journey first cable fantasy sustain feel small elite";
+var mnemonic = "narrow hole govern surge amazing wink tissue few snap weasel knock rotate";

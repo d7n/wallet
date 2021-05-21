@@ -1,1 +1,1 @@
-var mnemonic = "flock marine shadow satisfy alert away remember invest inhale jeans illegal economy";
+var mnemonic = "valid network congress bomb outer erode slow enter general spend domain spirit";

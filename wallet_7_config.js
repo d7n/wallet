@@ -1,1 +1,1 @@
-var mnemonic = "pizza decline quit stage lend mercy claw harsh sadness blade cycle style";
+var mnemonic = "often elbow armed pave volume autumn machine slide tilt maximum faculty vibrant";

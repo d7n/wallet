@@ -1,1 +1,1 @@
-var mnemonic = "pink extend burger innocent valley tide drive can mercy tobacco metal train";
+var mnemonic = "april acoustic february until sentence account recycle luxury together grid basket front";

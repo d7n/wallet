@@ -1,1 +1,1 @@
-var mnemonic = "come rate pear muscle into miracle forest script cat guitar bamboo coin";
+var mnemonic = "boil grunt strong wheat lion patrol flat message theme what tiger wine";

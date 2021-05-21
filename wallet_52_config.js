@@ -1,1 +1,1 @@
-var mnemonic = "rare trash deal rotate such road puppy cliff dynamic oak father clay";
+var mnemonic = "eagle phone argue rate naive dance ozone garbage future glide fiction fox";

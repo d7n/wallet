@@ -1,1 +1,1 @@
-var mnemonic = "traffic bench pudding fog maid add ceiling kiss umbrella wire best nurse";
+var mnemonic = "marble disagree vacant ordinary panther adult public fog opera dignity knee hint";

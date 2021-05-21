@@ -1,1 +1,1 @@
-var mnemonic = "baby detect isolate sad staff approve festival elephant volcano venue alley copper";
+var mnemonic = "under home dismiss apart demand senior pyramid fog alarm front clog explain";

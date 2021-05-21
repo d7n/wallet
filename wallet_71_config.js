@@ -1,1 +1,1 @@
-var mnemonic = "disagree apart hand pig million man sword voyage payment spin tape embody";
+var mnemonic = "mango number guess clog access proud tree only kitchen wedding reopen bench";

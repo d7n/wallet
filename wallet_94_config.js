@@ -1,1 +1,1 @@
-var mnemonic = "always glad fee tower shrug size rapid shine project empty judge apple";
+var mnemonic = "west real train scatter human increase train extra atom motion draw maple";

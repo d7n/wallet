@@ -1,1 +1,1 @@
-var mnemonic = "obey grace hazard dress first load evolve shrug tunnel milk pull fragile";
+var mnemonic = "effort result slam verify venture bundle equal chalk purity inner flush gauge";

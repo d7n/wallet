@@ -1,1 +1,1 @@
-var mnemonic = "way check road royal school happy minor fame balcony diesel punch foam";
+var mnemonic = "flight dose today crane polar olympic sell spoon artwork arena border exact";

@@ -1,1 +1,1 @@
-var mnemonic = "rely public cloud load cake cloth repeat duck picture hamster hint never";
+var mnemonic = "loud zebra elbow cloth original guilt dwarf tell trash have riot fault";

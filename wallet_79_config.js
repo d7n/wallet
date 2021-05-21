@@ -1,1 +1,1 @@
-var mnemonic = "grocery feed vehicle used train father erupt flight infant arena eyebrow spawn";
+var mnemonic = "dog decline onion little entire horn drift rookie dragon better twice soon";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange call notice lottery kangaroo fire brother follow renew negative honey cattle";
+var mnemonic = "matrix citizen evidence sport rate vacant juice own vanish kite pulse fan";

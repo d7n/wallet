@@ -1,1 +1,1 @@
-var mnemonic = "chat risk honey castle pudding cradle much valley hat regret avoid walk";
+var mnemonic = "boil fiction dose ridge deposit tiger feed build blame tissue disorder evolve";

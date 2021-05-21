@@ -1,1 +1,1 @@
-var mnemonic = "idea muscle boss sign sweet music brand remain wine income lift bounce";
+var mnemonic = "brand protect science brisk junior sweet wise sand man emotion pretty brisk";

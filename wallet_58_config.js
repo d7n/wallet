@@ -1,1 +1,1 @@
-var mnemonic = "vault beef runway argue moment earth fatigue clock exotic empty rude heavy";
+var mnemonic = "ladder cousin forest huge budget layer any engage casual build crater connect";

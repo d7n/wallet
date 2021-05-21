@@ -1,1 +1,1 @@
-var mnemonic = "width kiss roast stem sign retire aware bacon slab fog please banana";
+var mnemonic = "outside life coyote easily blade type rug panic hard swallow wedding race";

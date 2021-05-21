@@ -1,1 +1,1 @@
-var mnemonic = "awesome motor drop olive spend trial few hammer gap awful device they";
+var mnemonic = "attract delay below taste invite air announce diary book indicate wrong scan";

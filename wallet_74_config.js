@@ -1,1 +1,1 @@
-var mnemonic = "duty walk crumble tomato adjust canoe dwarf achieve orchard hurry blue wealth";
+var mnemonic = "citizen expect salute quit field unfair love similar impact please phrase option";

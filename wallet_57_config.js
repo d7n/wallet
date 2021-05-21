@@ -1,1 +1,1 @@
-var mnemonic = "crazy donkey twin fold elite kidney ivory home damage can awake slab";
+var mnemonic = "possible era carry admit shove solve wrong lift vote future lyrics ribbon";

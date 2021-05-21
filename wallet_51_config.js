@@ -1,1 +1,1 @@
-var mnemonic = "wheel garbage slab diary pulp diagram enough topple busy charge negative squeeze";
+var mnemonic = "quiz chronic little trigger patient office exotic side nothing canvas focus coach";

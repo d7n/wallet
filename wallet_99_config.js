@@ -1,1 +1,1 @@
-var mnemonic = "simple often say antenna cluster grass slab glow obvious rough this detail";
+var mnemonic = "burden baby interest mother legal pattern blanket abstract burger moment initial pigeon";

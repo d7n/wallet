@@ -1,1 +1,1 @@
-var mnemonic = "forum spell wage nose globe wheat rail item utility depth wisdom enter";
+var mnemonic = "coconut boost route pave trophy gossip youth update mechanic equip exchange lizard";

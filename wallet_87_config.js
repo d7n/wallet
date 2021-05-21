@@ -1,1 +1,1 @@
-var mnemonic = "burst thing scout ship airport mail certain cart memory deer viable boil";
+var mnemonic = "moral follow party fix flush loop better fantasy side analyst benefit evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "math raccoon angle drop magnet army violin behind half network conduct road";
+var mnemonic = "bring next minute sting able betray worth disease gasp random hybrid scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "certain crowd raw ghost amazing tail timber negative shop reform shell infant";
+var mnemonic = "now invest front female double trip bean daring long put ensure travel";

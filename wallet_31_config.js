@@ -1,1 +1,1 @@
-var mnemonic = "frown shift mesh uncover discover obscure travel swim latin because will screen";
+var mnemonic = "paper rocket meat valid crowd private kick claim wheel bounce course settle";

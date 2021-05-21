@@ -1,1 +1,1 @@
-var mnemonic = "dress topic pride chat scrap gold unable movie spare beyond cart lecture";
+var mnemonic = "yellow excess quarter action warm dignity advice shaft metal survey rally act";

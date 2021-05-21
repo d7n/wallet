@@ -1,1 +1,1 @@
-var mnemonic = "someone play arrest pelican blouse chuckle repair equip present stomach elder panda";
+var mnemonic = "prevent produce gather matter visual inherit domain treat cancel vintage solve goat";

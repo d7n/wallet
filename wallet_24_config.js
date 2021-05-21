@@ -1,1 +1,1 @@
-var mnemonic = "turtle crazy hint athlete ignore pipe design enhance blush salmon rely van";
+var mnemonic = "type drastic vivid wool job actor sea faint habit man stage basket";

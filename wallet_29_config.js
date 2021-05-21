@@ -1,1 +1,1 @@
-var mnemonic = "help panel transfer giraffe space erode act found slow feed young village";
+var mnemonic = "coffee correct employ lecture help pair spread climb engine dish approve planet";

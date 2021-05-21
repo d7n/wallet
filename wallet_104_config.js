@@ -1,1 +1,1 @@
-var mnemonic = "agree wife joke elder kitchen loud slice double stick drift crane beauty";
+var mnemonic = "banner regular elder fatal resource retire crouch allow fuel coffee actor sign";

@@ -1,1 +1,1 @@
-var mnemonic = "miss drama exact argue patrol taxi bullet coast abuse mesh alarm outer";
+var mnemonic = "atom never define catalog kangaroo issue wave faculty fragile color version belt";

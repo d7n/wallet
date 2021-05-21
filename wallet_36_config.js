@@ -1,1 +1,1 @@
-var mnemonic = "more barely act swallow hollow purity between bench order trim employ fatigue";
+var mnemonic = "crisp wood loud match dragon mimic across rent collect slam diary casino";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp enroll narrow practice pledge abuse trigger wise casino rice vote energy";
+var mnemonic = "fuel creek season pizza flavor undo razor paddle message burden magnet habit";

@@ -1,1 +1,1 @@
-var mnemonic = "sense peasant measure album doctor husband remind cook asthma fence mountain high";
+var mnemonic = "speed clap soon coyote survey battle prosper half athlete alien estate blue";

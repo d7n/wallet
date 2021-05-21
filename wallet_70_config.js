@@ -1,1 +1,1 @@
-var mnemonic = "juice moral neck leave doctor gaze source rival husband quarter matter arctic";
+var mnemonic = "coffee whisper online legend accident hobby basket whip donor shed tool large";
