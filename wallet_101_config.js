@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin soon venue misery code tent quiz purpose exhibit unfair empty novel";
+var mnemonic = "give cream unit pear script shrimp guitar police senior pupil flag program";

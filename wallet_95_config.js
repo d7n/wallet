@@ -1,1 +1,1 @@
-var mnemonic = "much pause soon slender tone raw trick ill alarm where ivory indicate";
+var mnemonic = "eagle group have spin jazz envelope film shaft first erase walk canal";

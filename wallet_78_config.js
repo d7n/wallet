@@ -1,1 +1,1 @@
-var mnemonic = "upset heart inmate cinnamon rebel witness cloud opera process twelve boy warfare";
+var mnemonic = "dash depart affair test above object like avocado deputy until champion video";

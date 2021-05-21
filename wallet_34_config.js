@@ -1,1 +1,1 @@
-var mnemonic = "invest exchange initial arrange network educate label certain nominee muscle orphan swamp";
+var mnemonic = "endless shiver wheel cactus essay fancy dog sphere ask fix iron junk";

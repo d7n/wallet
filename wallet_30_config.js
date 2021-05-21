@@ -1,1 +1,1 @@
-var mnemonic = "whip stable push unknown increase foster hollow doctor beef erupt report amused";
+var mnemonic = "guitar obey hundred battle year search oil soccer december lyrics water trash";

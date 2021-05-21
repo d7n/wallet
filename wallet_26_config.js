@@ -1,1 +1,1 @@
-var mnemonic = "rather resemble candy physical topic six poet one pledge wear lunch legal";
+var mnemonic = "group nation brown fish pudding fan favorite canvas vault outdoor wasp coffee";

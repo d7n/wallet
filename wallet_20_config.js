@@ -1,1 +1,1 @@
-var mnemonic = "assume image program thought lemon injury amazing art museum certain safe system";
+var mnemonic = "produce exhaust kite you fault hard island force execute announce paddle vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "marine shoot recall fluid group alley cook draw humor letter august key";
+var mnemonic = "erase pink evoke sun submit vapor force aunt either rigid mechanic music";

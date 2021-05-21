@@ -1,1 +1,1 @@
-var mnemonic = "mobile accident across key fly sport tattoo frame round spike miss champion";
+var mnemonic = "holiday moral away nerve clap concert true floor marble useless expect clock";

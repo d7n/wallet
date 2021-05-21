@@ -1,1 +1,1 @@
-var mnemonic = "survey exist parent bottom indoor add apart assault dash turkey sport because";
+var mnemonic = "poet slogan clinic urge you force ring actor buyer candy suggest race";

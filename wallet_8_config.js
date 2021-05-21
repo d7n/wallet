@@ -1,1 +1,1 @@
-var mnemonic = "juice subway end siege run pilot noodle rose erosion divorce deputy express";
+var mnemonic = "marble label crawl cave defense plate lamp wage sand bottom grit library";

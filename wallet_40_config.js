@@ -1,1 +1,1 @@
-var mnemonic = "believe sweet sorry fortune throw upgrade immense frozen company eye engine snack";
+var mnemonic = "like candy slogan egg goat poem walk spike fee aerobic joke frost";

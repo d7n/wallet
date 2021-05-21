@@ -1,1 +1,1 @@
-var mnemonic = "blush rebel betray country feed vague glass between flee excite life start";
+var mnemonic = "clean awesome measure enemy ramp benefit exercise angle injury rude pitch print";

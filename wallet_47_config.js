@@ -1,1 +1,1 @@
-var mnemonic = "client snow pill sting barely pizza draw glow genre wet advance sauce";
+var mnemonic = "nuclear noise image tomato jelly muscle table refuse holiday trigger cube beach";

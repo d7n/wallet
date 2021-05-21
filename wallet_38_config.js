@@ -1,1 +1,1 @@
-var mnemonic = "slice sponsor left south clog bus this patient quote snap wrong asthma";
+var mnemonic = "bulk decade type abandon speak clutch local casual quantum impose virus base";

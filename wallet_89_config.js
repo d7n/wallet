@@ -1,1 +1,1 @@
-var mnemonic = "demand base gold shy wood twin solar atom rate stereo prosper balance";
+var mnemonic = "patrol height cart exotic shiver morning jazz worth citizen dash city detail";

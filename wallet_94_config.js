@@ -1,1 +1,1 @@
-var mnemonic = "unveil banner sing gain visa knock merit canyon fold cliff strong moon";
+var mnemonic = "cycle student trash pistol source flee rail witness frown case august oblige";

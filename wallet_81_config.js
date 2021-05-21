@@ -1,1 +1,1 @@
-var mnemonic = "mercy feel cupboard mango joy eagle mutual adult sun mention figure unfold";
+var mnemonic = "stairs sausage churn donate bus unit term enforce aware ramp refuse fit";

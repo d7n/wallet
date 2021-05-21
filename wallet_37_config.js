@@ -1,1 +1,1 @@
-var mnemonic = "myth pencil valve cricket sleep exist prize trip blanket sleep memory split";
+var mnemonic = "spirit parade adult truth sell logic call dog spell fiber raven wine";

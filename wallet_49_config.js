@@ -1,1 +1,1 @@
-var mnemonic = "intact flower grow pond return onion spoon hire tank much lift between";
+var mnemonic = "matter blade indoor shrimp exercise switch dress provide siege south arrive tumble";

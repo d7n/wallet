@@ -1,1 +1,1 @@
-var mnemonic = "adapt table favorite domain loud mistake credit doll smoke bring fatigue thumb";
+var mnemonic = "baby source verify trial movie sketch govern liberty weasel gown seed vintage";

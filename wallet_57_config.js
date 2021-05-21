@@ -1,1 +1,1 @@
-var mnemonic = "eager grow business audit kangaroo easy state anger junior dash skull vote";
+var mnemonic = "choose suspect already focus exchange dragon gravity diet fog pulp pyramid quote";

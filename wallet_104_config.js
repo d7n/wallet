@@ -1,1 +1,1 @@
-var mnemonic = "cover rapid ugly crush run video buzz sense spoil burst choose cube";
+var mnemonic = "loan cluster silly find property prize horn torch digital snow now rail";

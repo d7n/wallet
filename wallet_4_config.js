@@ -1,1 +1,1 @@
-var mnemonic = "turkey option click burst wrong snake collect orphan fatal travel shaft volume";
+var mnemonic = "among animal essence decline unaware blossom agree comfort indoor rule chuckle medal";

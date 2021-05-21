@@ -1,1 +1,1 @@
-var mnemonic = "party blue benefit kit such identify sign door friend month goose tiger";
+var mnemonic = "shrimp reunion initial mountain hammer reflect select surround toilet rabbit sense hurt";

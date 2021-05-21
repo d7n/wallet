@@ -1,1 +1,1 @@
-var mnemonic = "story oxygen express post key taxi garment squeeze pudding safe power profit";
+var mnemonic = "idle tumble sea sheriff split junk spy lazy quality upgrade poet slot";

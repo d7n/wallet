@@ -1,1 +1,1 @@
-var mnemonic = "symptom holiday orbit anchor uphold force advance image bid team sugar debate";
+var mnemonic = "between bunker cactus uncle wolf boat trash thought boring clap address salmon";

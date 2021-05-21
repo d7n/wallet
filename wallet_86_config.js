@@ -1,1 +1,1 @@
-var mnemonic = "acquire thumb immense olympic virtual renew crime gather coral pink clerk drink";
+var mnemonic = "differ argue scan icon bid merry crisp potato stomach number flash detail";

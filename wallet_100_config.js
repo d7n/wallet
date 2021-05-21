@@ -1,1 +1,1 @@
-var mnemonic = "pond gold cruel where swear give artist clinic begin woman speed battle";
+var mnemonic = "chat draft symbol replace soft job below cook execute bread family spoon";

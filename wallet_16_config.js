@@ -1,1 +1,1 @@
-var mnemonic = "input stay razor rural action already script pioneer inquiry latin flee measure";
+var mnemonic = "plunge kitchen grain child soft sentence detect bless nut slice tumble rally";

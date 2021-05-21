@@ -1,1 +1,1 @@
-var mnemonic = "artefact aim brain churn alcohol symptom avoid solar sock spawn wife dial";
+var mnemonic = "run orchard time draft pave patrol erosion mass pipe roof deliver whisper";

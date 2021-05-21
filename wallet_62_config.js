@@ -1,1 +1,1 @@
-var mnemonic = "olive season burst old curve source pelican lion tiger delay detail obtain";
+var mnemonic = "magnet submit twice casino divide salt aspect bundle swarm erosion install journey";

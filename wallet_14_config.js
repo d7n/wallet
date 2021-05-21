@@ -1,1 +1,1 @@
-var mnemonic = "air surge soda paddle brother clog attend congress kiss honey grid divide";
+var mnemonic = "claim wagon reason volcano wife unlock measure steak mushroom stand opinion fortune";

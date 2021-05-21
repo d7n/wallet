@@ -1,1 +1,1 @@
-var mnemonic = "fluid sponsor attack tooth cash interest ladder omit cool lady blind battle";
+var mnemonic = "attitude dove mystery family duck escape suspect detail convince cotton galaxy busy";

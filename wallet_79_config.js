@@ -1,1 +1,1 @@
-var mnemonic = "tired tackle street subject custom brief general jar burst phone enable leisure";
+var mnemonic = "gasp trial dad same country promote pill version current pet plug cheap";

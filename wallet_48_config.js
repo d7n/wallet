@@ -1,1 +1,1 @@
-var mnemonic = "celery guard visit version neglect soccer expect garbage garlic useful spin twice";
+var mnemonic = "cake merry master custom what nerve icon bring source tube decide learn";

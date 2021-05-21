@@ -1,1 +1,1 @@
-var mnemonic = "network chalk december comfort shoulder firm brief update extend vocal couch color";
+var mnemonic = "common truly laugh above slight relief hover guide wood fitness join naive";

@@ -1,1 +1,1 @@
-var mnemonic = "rule fantasy spirit top rotate trumpet sustain someone tree melt provide valid";
+var mnemonic = "trial similar rally lounge fringe vivid human stumble raccoon palm assault ship";

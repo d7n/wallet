@@ -1,1 +1,1 @@
-var mnemonic = "finger open amateur pioneer proof injury immense program nerve main host play";
+var mnemonic = "add virus honey olympic boss silent enable clock hamster useful hybrid vital";

@@ -1,1 +1,1 @@
-var mnemonic = "manual demand frog crush fork antique frame era okay chase enter joy";
+var mnemonic = "creek scout grief reflect clutch replace carpet habit evolve service ensure trip";

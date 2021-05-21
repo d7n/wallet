@@ -1,1 +1,1 @@
-var mnemonic = "ozone benefit present gadget defense eyebrow foam admit slam peanut cheap first";
+var mnemonic = "field south drift skate tell dignity aisle mystery supreme fine idle draw";

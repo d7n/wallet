@@ -1,1 +1,1 @@
-var mnemonic = "error basic dawn planet item lazy head repair sentence flash puppy reunion";
+var mnemonic = "similar main scout spirit phrase despair tomorrow good chest impose nurse bunker";

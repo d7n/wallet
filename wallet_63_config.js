@@ -1,1 +1,1 @@
-var mnemonic = "tube clerk index park heavy dwarf harbor modify hawk weekend fee permit";
+var mnemonic = "toward follow humor chase make put penalty license moral strategy guilt mansion";

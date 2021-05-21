@@ -1,1 +1,1 @@
-var mnemonic = "room person clerk evolve critic empty dream local album guess project borrow";
+var mnemonic = "brush monitor festival fashion surprise click simple oval nest render boss waste";

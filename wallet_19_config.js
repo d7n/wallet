@@ -1,1 +1,1 @@
-var mnemonic = "defy silver trade under giraffe glide zero fun crazy black grunt spin";
+var mnemonic = "nuclear staff wash predict main frown rich fetch verify high snack mushroom";

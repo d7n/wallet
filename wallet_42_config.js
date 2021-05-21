@@ -1,1 +1,1 @@
-var mnemonic = "inhale return egg silent diesel quarter concert chalk secret daring grocery ordinary";
+var mnemonic = "quantum fish keep height good couple jar matter fly ladder transfer milk";

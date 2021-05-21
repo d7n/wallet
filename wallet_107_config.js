@@ -1,1 +1,1 @@
-var mnemonic = "exchange vague cigar squeeze detail toast chest sort peanut merry film panel";
+var mnemonic = "letter lounge brand prosper bench sell funny there virtual clump month reject";

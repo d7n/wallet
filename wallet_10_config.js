@@ -1,1 +1,1 @@
-var mnemonic = "senior maple myself effort sleep remain pigeon evolve crime attitude potato forum";
+var mnemonic = "frost radio father join borrow lawn vote punch hat mechanic define erase";

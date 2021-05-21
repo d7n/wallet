@@ -1,1 +1,1 @@
-var mnemonic = "matter differ fix issue wife armor into shove reject satoshi ugly vague";
+var mnemonic = "obtain season earth square diesel awful away liar tired fruit limb plastic";

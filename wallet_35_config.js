@@ -1,1 +1,1 @@
-var mnemonic = "aware decrease blossom blush draw crucial bleak ethics outside manage annual wagon";
+var mnemonic = "woman border roof width wolf spike lock silent fog remember warm offer";

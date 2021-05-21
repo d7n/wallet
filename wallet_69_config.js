@@ -1,1 +1,1 @@
-var mnemonic = "decline start once joke strategy garlic guilt wet olive upon leopard void";
+var mnemonic = "federal slot imitate equal treat tag toilet inside food vivid rough moment";

@@ -1,1 +1,1 @@
-var mnemonic = "secret give fortune kangaroo version agree erosion afraid arrive high spy embark";
+var mnemonic = "reopen elephant nose wreck mutual mandate aisle cover civil spare romance foil";

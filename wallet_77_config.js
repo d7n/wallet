@@ -1,1 +1,1 @@
-var mnemonic = "misery invest panel choice evidence pony custom settle cinnamon canyon once behind";
+var mnemonic = "mushroom modify diamond involve much husband cause comfort wing mail buzz distance";

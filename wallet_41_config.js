@@ -1,1 +1,1 @@
-var mnemonic = "brother capable lobster seat discover duty sure blur skirt riot bread poverty";
+var mnemonic = "emerge warfare useless order flat little divert then child script scan tennis";

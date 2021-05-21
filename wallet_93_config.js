@@ -1,1 +1,1 @@
-var mnemonic = "bullet undo effort dolphin border super average comfort employ hobby outside stereo";
+var mnemonic = "toast erosion barely crew setup project actress detect nominee retire merge march";

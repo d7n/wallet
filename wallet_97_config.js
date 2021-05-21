@@ -1,1 +1,1 @@
-var mnemonic = "waste virtual edge stadium quote ancient magnet digital decorate lock idle matrix";
+var mnemonic = "walnut ramp bright pass chronic sure any portion crane toast brand follow";

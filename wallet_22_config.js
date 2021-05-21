@@ -1,1 +1,1 @@
-var mnemonic = "have resource soul trophy cheese analyst barrel stem comic alert favorite thought";
+var mnemonic = "rely uncover bulk muffin wall pepper oven lava ask twice glance stone";

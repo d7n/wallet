@@ -1,1 +1,1 @@
-var mnemonic = "library minor jealous rent that tube hard aunt shallow few chimney daring";
+var mnemonic = "series kite tent garden hover eye road alpha duty oxygen large concert";

@@ -1,1 +1,1 @@
-var mnemonic = "spring ship uniform lesson slab night luxury old thank power grow speak";
+var mnemonic = "kidney arrange minimum spot craft case piano cave cool humor that brother";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur tenant service ribbon grass frog sunny orient example inhale subway garlic";
+var mnemonic = "valve soda brave crane size solar valley win exist drop permit moral";

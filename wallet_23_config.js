@@ -1,1 +1,1 @@
-var mnemonic = "fashion shadow under immune twelve vapor sunny twice chair detail parade suit";
+var mnemonic = "army weekend cargo autumn token disagree title nice input until security tumble";

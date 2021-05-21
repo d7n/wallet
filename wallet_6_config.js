@@ -1,1 +1,1 @@
-var mnemonic = "reveal fault skin divert lion north vessel whip labor sample amount wait";
+var mnemonic = "digital boost base source amazing tower punch air current fatigue thumb cotton";

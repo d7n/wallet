@@ -1,1 +1,1 @@
-var mnemonic = "disease wire forum diamond party ethics average plastic wedding club have phone";
+var mnemonic = "candy delay over salon harvest animal advice place hungry message problem few";

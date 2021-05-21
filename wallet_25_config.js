@@ -1,1 +1,1 @@
-var mnemonic = "much august disease amazing praise faculty tent alarm flock crater ugly jealous";
+var mnemonic = "entire logic feature note dinner pledge intact rack rookie all enter visa";

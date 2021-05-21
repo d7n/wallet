@@ -1,1 +1,1 @@
-var mnemonic = "lizard worth tired version oval patch annual license dirt moon vital arm";
+var mnemonic = "feed include word sadness prefer amateur top rice return tomorrow chat fix";

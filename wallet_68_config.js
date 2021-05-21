@@ -1,1 +1,1 @@
-var mnemonic = "raw when destroy quit dignity sense canoe worth indoor number conduct tongue";
+var mnemonic = "pilot wrist proof turn green copy vintage action sad avoid fee dose";

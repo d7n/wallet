@@ -1,1 +1,1 @@
-var mnemonic = "exchange elegant balance hospital impact cute guilt super potato load maid climb";
+var mnemonic = "reason opinion culture fashion deal essay shuffle hospital renew super shove sweet";

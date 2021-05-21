@@ -1,1 +1,1 @@
-var mnemonic = "bachelor actress slow trick indoor manual unlock advice barely addict simple sweet";
+var mnemonic = "online inch argue object motion trigger chapter quiz teach nation choice cousin";

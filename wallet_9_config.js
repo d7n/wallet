@@ -1,1 +1,1 @@
-var mnemonic = "regular famous chef fabric aerobic walk junior nephew garlic honey child grain";
+var mnemonic = "member mosquito cross actual piece right vacant expect orange praise image become";

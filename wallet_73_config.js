@@ -1,1 +1,1 @@
-var mnemonic = "prevent spatial man pluck bird scissors science client zebra mountain belt cannon";
+var mnemonic = "host canvas owner lonely riot bullet dirt gloom south food ivory glass";

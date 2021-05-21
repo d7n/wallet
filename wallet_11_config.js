@@ -1,1 +1,1 @@
-var mnemonic = "wrist brisk recall general crucial nest chat false inspire bean bounce concert";
+var mnemonic = "stuff industry still point gain century talent virus update speak hand during";

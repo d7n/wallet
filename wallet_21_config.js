@@ -1,1 +1,1 @@
-var mnemonic = "brown screen blouse pass tumble convince sample glimpse crazy book voyage stable";
+var mnemonic = "category genre era cancel lens limit please enforce move hub olive direct";

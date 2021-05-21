@@ -1,1 +1,1 @@
-var mnemonic = "turtle retire drive human pony scrap silly size grit vote antenna taxi";
+var mnemonic = "happy atom yellow machine art maid frost tilt fix fox fashion decline";

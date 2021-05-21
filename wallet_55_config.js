@@ -1,1 +1,1 @@
-var mnemonic = "valve acquire organ obtain sight keep diagram crime fan green capital safe";
+var mnemonic = "base debate appear barely oak ten exile seat target divorce autumn march";

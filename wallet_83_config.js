@@ -1,1 +1,1 @@
-var mnemonic = "confirm sniff voyage task shove arrange park evoke require lab sea original";
+var mnemonic = "erode child sphere square undo frozen bright pluck cliff gain cook elegant";

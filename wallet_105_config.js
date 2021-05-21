@@ -1,1 +1,1 @@
-var mnemonic = "hope knock maid rotate behave reunion choose surround alter bone praise gas";
+var mnemonic = "replace group plug valid belt mango blast suspect burden teach accident sadness";

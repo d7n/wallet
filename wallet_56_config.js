@@ -1,1 +1,1 @@
-var mnemonic = "island ginger fan wine bonus victory wrist ride awesome brown clay raise";
+var mnemonic = "garage decorate emerge moment hood insane person arctic people guard among farm";

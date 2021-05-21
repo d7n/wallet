@@ -1,1 +1,1 @@
-var mnemonic = "two glove stand weapon cable melody butter pudding coffee asthma acoustic hedgehog";
+var mnemonic = "parent sudden suffer bronze fat file quiz label crouch possible panda hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "practice act gown man already noise chicken bargain gasp promote slot left";
+var mnemonic = "symptom box quick sponsor nuclear bullet number struggle diesel melt critic artefact";
