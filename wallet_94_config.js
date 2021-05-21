@@ -1,1 +1,1 @@
-var mnemonic = "thank void actress defy term damage arrive prevent utility federal narrow remember";
+var mnemonic = "owner menu pair art prepare alter mass guard wing onion hair hurry";

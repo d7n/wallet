@@ -1,1 +1,1 @@
-var mnemonic = "capable negative return trash crumble nose shrimp cross large scan cigar meat";
+var mnemonic = "crumble recall put base forward able tattoo stereo easy push extra text";

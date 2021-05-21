@@ -1,1 +1,1 @@
-var mnemonic = "enough yellow destroy trend run teach trick air jazz actual join creek";
+var mnemonic = "target concert gentle banana world sunset ozone forward fresh gain royal devote";

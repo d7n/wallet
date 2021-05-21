@@ -1,1 +1,1 @@
-var mnemonic = "margin curve brisk ridge now rotate movie urge glove broom exact endorse";
+var mnemonic = "fetch slab virtual ghost amused whisper sorry either fix repeat token afraid";

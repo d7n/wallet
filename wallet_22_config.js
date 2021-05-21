@@ -1,1 +1,1 @@
-var mnemonic = "lend cage shift air blade jacket final erupt video feature option vague";
+var mnemonic = "minor jazz tortoise stadium laugh shy lawn cool since warm chaos cause";

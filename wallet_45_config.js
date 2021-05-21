@@ -1,1 +1,1 @@
-var mnemonic = "fox gold tower prosper slim height table scissors dust common acid orient";
+var mnemonic = "direct build lend walk romance satisfy mimic surround boat limit buddy danger";

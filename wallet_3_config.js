@@ -1,1 +1,1 @@
-var mnemonic = "thank cram deliver health reunion select mercy concert cage marriage sister release";
+var mnemonic = "never solution ignore wreck cupboard account settle trade final thunder border relief";

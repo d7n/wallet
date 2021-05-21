@@ -1,1 +1,1 @@
-var mnemonic = "fork anxiety pudding spray tank quiz boss unusual stage sense program water";
+var mnemonic = "start gaze angry champion fitness bargain doll relax spice lesson define cement";

@@ -1,1 +1,1 @@
-var mnemonic = "outside daughter welcome fever journey defy raven gym autumn twice hunt parent";
+var mnemonic = "pulp bomb supreme sick pilot fatigue harbor opera hamster fresh debate outside";

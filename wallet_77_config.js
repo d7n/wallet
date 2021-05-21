@@ -1,1 +1,1 @@
-var mnemonic = "aware viable game swarm exchange random float endless genre unknown pole spare";
+var mnemonic = "mosquito blanket step steel cushion climb cover mercy early describe harsh access";

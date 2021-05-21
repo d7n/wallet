@@ -1,1 +1,1 @@
-var mnemonic = "topple success couch gown focus autumn social true similar gown wrap merge";
+var mnemonic = "jealous plate chimney source romance donkey detail champion flat snow blame begin";

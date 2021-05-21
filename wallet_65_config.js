@@ -1,1 +1,1 @@
-var mnemonic = "judge sustain discover convince night patch spray evoke panic bullet old prosper";
+var mnemonic = "broken hen disagree market give ripple hybrid seminar problem senior coin excess";

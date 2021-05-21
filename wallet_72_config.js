@@ -1,1 +1,1 @@
-var mnemonic = "crane bundle snack fix awake hurdle pool table popular doll attend awkward";
+var mnemonic = "remind runway affair wrong mean dream input exile focus inflict life account";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus business law dream fury guitar inject torch forget gift uncle repeat";
+var mnemonic = "issue mask year project winter reject inject ripple vocal empower inform extend";

@@ -1,1 +1,1 @@
-var mnemonic = "basic giraffe vast pepper demand monster because argue vibrant polar person wait";
+var mnemonic = "hunt add step tray leisure asset divide volume onion ring enroll inform";

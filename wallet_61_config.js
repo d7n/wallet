@@ -1,1 +1,1 @@
-var mnemonic = "boss marble sword dry regret analyst grape shed bag where biology poem";
+var mnemonic = "cage figure coast vendor story curious tackle wool discover rule local outer";

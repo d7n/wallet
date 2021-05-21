@@ -1,1 +1,1 @@
-var mnemonic = "protect render crash pattern canal festival art average oven dance youth sing";
+var mnemonic = "lecture winter scan index glance trust cheese verb energy grant undo day";

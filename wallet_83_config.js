@@ -1,1 +1,1 @@
-var mnemonic = "deer tank cruise cake envelope umbrella slight cash prefer orange easily stamp";
+var mnemonic = "flower thought aisle celery mixture squeeze weird fox pole chief pizza thumb";

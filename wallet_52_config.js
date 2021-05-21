@@ -1,1 +1,1 @@
-var mnemonic = "shock thumb ensure coast universe square theme still flat humble palm absent";
+var mnemonic = "reduce solid near clerk glad sample patch ugly dial decline found print";

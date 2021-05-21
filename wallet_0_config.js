@@ -1,1 +1,1 @@
-var mnemonic = "old burden differ subway chef auction erosion cube kiss sorry melt spot";
+var mnemonic = "recipe language fix kitten ghost rookie crash snake person trap fee cliff";

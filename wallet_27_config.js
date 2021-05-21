@@ -1,1 +1,1 @@
-var mnemonic = "road squirrel erode truth exhibit exercise inner approve crazy odor always dry";
+var mnemonic = "three umbrella advice slide dolphin lion cave razor category rude ready curious";

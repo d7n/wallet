@@ -1,1 +1,1 @@
-var mnemonic = "broccoli acoustic better dance uphold pudding gorilla lizard silent hand humor monster";
+var mnemonic = "fall palm brown country step twist skill model radar section hello few";

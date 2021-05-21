@@ -1,1 +1,1 @@
-var mnemonic = "injury black climb coast announce segment brave vibrant someone mammal sniff host";
+var mnemonic = "situate curious solve twice head ski same fuel fee great palace senior";

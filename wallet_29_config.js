@@ -1,1 +1,1 @@
-var mnemonic = "service manage sponsor salute kid hammer coach air cute hen flower note";
+var mnemonic = "when oyster word sentence rain enough best away true antenna rent link";

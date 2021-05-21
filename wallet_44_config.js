@@ -1,1 +1,1 @@
-var mnemonic = "demise mansion whale unusual art seek explain laptop bottom hero siege other";
+var mnemonic = "boy enjoy cement work water narrow toilet border stand wedding kingdom accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "throw legend dial success bronze film mirror easy weekend earth random clog";
+var mnemonic = "monkey carbon bracket auction trick comfort aspect elephant walnut latin false bone";

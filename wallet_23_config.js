@@ -1,1 +1,1 @@
-var mnemonic = "where wine warm eagle spy knee gauge bubble girl hub strong tuna";
+var mnemonic = "toilet birth hat segment ankle twenty math neck sponsor outdoor must access";

@@ -1,1 +1,1 @@
-var mnemonic = "almost ivory canal size metal learn prevent mystery veteran sweet office useful";
+var mnemonic = "soul immune chase pyramid deal solar library finger traffic laugh master matrix";

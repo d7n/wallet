@@ -1,1 +1,1 @@
-var mnemonic = "exchange learn bitter business surround awake base broccoli dice injury camera term";
+var mnemonic = "settle ladder exact august online betray claw crater picnic three merit tumble";

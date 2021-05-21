@@ -1,1 +1,1 @@
-var mnemonic = "snap tide local talk lucky wasp acquire require sense walk laugh camp";
+var mnemonic = "wisdom defense code taxi fun stadium stool broken south rail squirrel umbrella";

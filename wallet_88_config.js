@@ -1,1 +1,1 @@
-var mnemonic = "lion vintage angry west sugar buffalo kitten castle random puppy under develop";
+var mnemonic = "fragile confirm evoke purchase resemble inject oppose apology sheriff fall nation square";

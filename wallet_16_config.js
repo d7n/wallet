@@ -1,1 +1,1 @@
-var mnemonic = "hint leader acoustic tumble note quiz hat fall barrel agree essay deny";
+var mnemonic = "motion position olive measure annual stairs avoid city member receive creek body";

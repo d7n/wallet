@@ -1,1 +1,1 @@
-var mnemonic = "laundry pipe wealth tennis polar injury post hero priority bread tumble skill";
+var mnemonic = "observe vote fault bind cloth base popular sell animal square badge enter";

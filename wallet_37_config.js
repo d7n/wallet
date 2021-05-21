@@ -1,1 +1,1 @@
-var mnemonic = "transfer sock super wall impose awkward health coffee buyer chest wealth subject";
+var mnemonic = "install essay cluster artwork aware empty cross simple palm pool honey bracket";

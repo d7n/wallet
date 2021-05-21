@@ -1,1 +1,1 @@
-var mnemonic = "spoon shy praise shiver boost dragon clap trigger tuition damage curious usual";
+var mnemonic = "mix empty turkey man alarm hamster siege example section vibrant normal key";

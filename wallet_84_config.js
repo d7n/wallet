@@ -1,1 +1,1 @@
-var mnemonic = "warrior expand treat flower enforce almost trap good assume barrel elegant brush";
+var mnemonic = "candy sample donate address faith tortoise dash liar father report oppose strategy";

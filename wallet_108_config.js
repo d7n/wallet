@@ -1,1 +1,1 @@
-var mnemonic = "learn please easily defense indicate robot biology maximum snap punch avoid gesture";
+var mnemonic = "great orient verb drift mad velvet pulp depart across cream movie tiger";

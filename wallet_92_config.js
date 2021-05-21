@@ -1,1 +1,1 @@
-var mnemonic = "desert hurdle help always poverty loud enjoy taste nuclear tool extend actual";
+var mnemonic = "phrase swap boost note attend duck sunset stereo govern absent draw swim";

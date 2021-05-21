@@ -1,1 +1,1 @@
-var mnemonic = "close elephant junk novel income spoon rebuild drill beauty size name guilt";
+var mnemonic = "year holiday become hammer physical visit song reopen flag endorse seven silly";

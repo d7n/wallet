@@ -1,1 +1,1 @@
-var mnemonic = "audit magnet equip girl mountain claw subway tower light gun bulk twice";
+var mnemonic = "reunion wall wise describe shiver expose suggest empower scale thrive actor frequent";

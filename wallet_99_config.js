@@ -1,1 +1,1 @@
-var mnemonic = "toss miracle globe eye seminar hub escape write scrub ship select cabin";
+var mnemonic = "believe bind veteran leopard tilt radar dream syrup try steak arena review";

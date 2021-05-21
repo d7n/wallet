@@ -1,1 +1,1 @@
-var mnemonic = "drop noodle jealous fabric young frequent merge sponsor famous thumb rebuild brisk";
+var mnemonic = "fame project alarm choice lava brisk flush rail flavor feed key loan";

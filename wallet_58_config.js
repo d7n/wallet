@@ -1,1 +1,1 @@
-var mnemonic = "shell visual away chief deer clutch fault unable window kid stem virus";
+var mnemonic = "quote buffalo skate goat payment arm aim human sunny bulk three wood";

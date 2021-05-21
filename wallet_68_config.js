@@ -1,1 +1,1 @@
-var mnemonic = "across huge upon tissue disagree priority teach build host raven finger gallery";
+var mnemonic = "boil plate say maple exhibit destroy zebra fringe level camp source grass";

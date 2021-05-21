@@ -1,1 +1,1 @@
-var mnemonic = "outdoor able rural tilt hip robot arctic neutral guide enrich auction awake";
+var mnemonic = "economy spoil clever palace illness shrimp lock offer feel oxygen when gift";

@@ -1,1 +1,1 @@
-var mnemonic = "admit giant subway enlist visa profit upgrade season radar skate grid social";
+var mnemonic = "shoot fun rib dentist remind core silent settle radar slim net useful";

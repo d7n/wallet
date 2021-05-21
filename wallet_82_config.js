@@ -1,1 +1,1 @@
-var mnemonic = "paper champion senior obscure chalk banner ostrich hour cram island inflict obvious";
+var mnemonic = "that curious choice family album gate body below anchor social album planet";

@@ -1,1 +1,1 @@
-var mnemonic = "sick such double vintage wire denial legal loud trap wild dove primary";
+var mnemonic = "idle lottery matter swamp surface jungle match sword horror major impose glance";

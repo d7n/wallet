@@ -1,1 +1,1 @@
-var mnemonic = "pride firm impose vessel pink sure deposit muffin stairs brief street ability";
+var mnemonic = "scare often split physical only captain hold oppose drift fade limb recipe";

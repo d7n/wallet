@@ -1,1 +1,1 @@
-var mnemonic = "cousin chronic frozen sort language ranch tornado reform forum cruise office sting";
+var mnemonic = "must motor matrix film reform few chief proof effort gym fashion glance";

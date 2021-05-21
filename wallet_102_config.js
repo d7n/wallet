@@ -1,1 +1,1 @@
-var mnemonic = "above style mention marriage limb unable action race will bachelor danger fine";
+var mnemonic = "manage gossip wear aspect protect zoo broom whisper wealth glare eagle project";

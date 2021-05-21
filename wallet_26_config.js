@@ -1,1 +1,1 @@
-var mnemonic = "endorse amateur dial hawk kiss news pulse obvious renew exchange accuse tonight";
+var mnemonic = "exhaust leisure deal carry curtain siege fringe actress begin teach possible close";

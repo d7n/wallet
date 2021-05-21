@@ -1,1 +1,1 @@
-var mnemonic = "collect orphan gesture owner parade first attack lounge noise grid skull trouble";
+var mnemonic = "staff rotate oxygen lake never busy casual spare pride crucial imitate infant";

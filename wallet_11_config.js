@@ -1,1 +1,1 @@
-var mnemonic = "income fly enemy reason bridge success tuition later copy sad duty oyster";
+var mnemonic = "theory sea absent slender elegant grab oyster bulk multiply addict mixed bulb";

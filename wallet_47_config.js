@@ -1,1 +1,1 @@
-var mnemonic = "client rain couch bread army practice ramp crane laptop plunge town face";
+var mnemonic = "check rib heart honey anger goose input crack electric amazing east brush";

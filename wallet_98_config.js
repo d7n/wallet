@@ -1,1 +1,1 @@
-var mnemonic = "unlock muffin guide height immense reflect year describe good exhaust frame cereal";
+var mnemonic = "toe mass awkward cotton depart gentle phone nurse range wagon ahead spell";

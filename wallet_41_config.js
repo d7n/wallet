@@ -1,1 +1,1 @@
-var mnemonic = "dad such post horse neck cotton race kidney border achieve nurse uncle";
+var mnemonic = "good marine civil mouse ceiling move census duty thumb slow gorilla book";

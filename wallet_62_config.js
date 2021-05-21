@@ -1,1 +1,1 @@
-var mnemonic = "episode pave brave fortune valley faint captain edit swim bullet math picnic";
+var mnemonic = "depart profit moral lyrics ridge science slab alcohol disease vote utility human";

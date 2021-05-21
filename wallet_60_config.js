@@ -1,1 +1,1 @@
-var mnemonic = "change remain oak equal time march actress tenant jar coach hood vacant";
+var mnemonic = "still snap equal february manage fetch sing birth erupt gun forest spirit";

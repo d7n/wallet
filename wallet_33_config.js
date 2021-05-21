@@ -1,1 +1,1 @@
-var mnemonic = "rather box gift ticket quit harbor enemy chimney wild grit ski height";
+var mnemonic = "chunk artwork kidney siren tomato inmate cake panther endorse carpet lizard phone";

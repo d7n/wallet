@@ -1,1 +1,1 @@
-var mnemonic = "alien hand menu word hungry humor elder inherit material laugh relax raven";
+var mnemonic = "clown rifle security chef session target inquiry true metal blast veteran under";

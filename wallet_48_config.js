@@ -1,1 +1,1 @@
-var mnemonic = "cushion tuition myself broken useless rally exclude charge veteran dutch mutual exhibit";
+var mnemonic = "bridge later sugar stomach wash vital fit laugh planet toward friend police";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern hard catalog this column off moment cousin spoon order disagree fuel";
+var mnemonic = "news tide marriage quote away measure cabin spring ramp jacket type upgrade";

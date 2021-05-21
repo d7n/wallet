@@ -1,1 +1,1 @@
-var mnemonic = "alien quiz lift boring fatigue limb wheat glory park someone decide deposit";
+var mnemonic = "breeze easily cargo doll figure judge team oyster race flag flight sport";

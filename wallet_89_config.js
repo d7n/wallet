@@ -1,1 +1,1 @@
-var mnemonic = "drop build forget science humor coach have hope another cricket gap where";
+var mnemonic = "minute advice farm limit filter hotel elephant income gown apple weasel require";

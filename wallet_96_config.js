@@ -1,1 +1,1 @@
-var mnemonic = "cousin cliff spider develop lend junior theory cherry roof ritual foster essence";
+var mnemonic = "party since between fetch rapid accident alarm resemble pilot lizard hollow dose";

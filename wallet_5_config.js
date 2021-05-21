@@ -1,1 +1,1 @@
-var mnemonic = "mandate cloth will still share notice anchor alone curtain cherry moment tape";
+var mnemonic = "sentence midnight begin truly crawl inherit mass midnight exercise garden traffic room";

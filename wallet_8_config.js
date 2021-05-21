@@ -1,1 +1,1 @@
-var mnemonic = "casino limit same lounge any advice canvas half depart slow fame decade";
+var mnemonic = "denial maximum velvet birth mother accident wrestle basket bomb trap dose manage";

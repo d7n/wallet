@@ -1,1 +1,1 @@
-var mnemonic = "injury crouch apart idle disagree hotel fault over usage anxiety undo erode";
+var mnemonic = "turkey economy clap biology jump country kind liar step detail capital leisure";

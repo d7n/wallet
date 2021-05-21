@@ -1,1 +1,1 @@
-var mnemonic = "bargain flavor liquid tell knife hold either under suit aunt hunt height";
+var mnemonic = "maple turtle scan when ordinary urban tribe version host clean crisp brown";

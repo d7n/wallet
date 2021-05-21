@@ -1,1 +1,1 @@
-var mnemonic = "tribe begin desert double jump cruel nasty soap change load whip step";
+var mnemonic = "jewel property feature resist beach enlist car boy over muffin cushion creek";

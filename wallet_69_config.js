@@ -1,1 +1,1 @@
-var mnemonic = "spike screen ordinary tree chef donate arch enhance jewel window crime lens";
+var mnemonic = "click garlic matter off people predict broom image atom glare profit skill";

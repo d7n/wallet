@@ -1,1 +1,1 @@
-var mnemonic = "gravity spell ghost jealous steel point clump powder lamp scene keen match";
+var mnemonic = "bicycle axis require breeze honey emotion uncover stereo nurse escape speak thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious february book flash census tumble debris hurdle parrot hen hub tonight";
+var mnemonic = "meadow alert team napkin cruise there pioneer stadium deposit insect crater safe";

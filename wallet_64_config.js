@@ -1,1 +1,1 @@
-var mnemonic = "cabbage select immense brass bomb example harvest tiny space aware pear accuse";
+var mnemonic = "turtle trend twin struggle liar valve excite neglect total sauce analyst filter";

@@ -1,1 +1,1 @@
-var mnemonic = "leader shop remind chimney own wall kingdom sort warrior marble clay drastic";
+var mnemonic = "engage moral keep all metal route cheap post large brief use top";

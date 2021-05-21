@@ -1,1 +1,1 @@
-var mnemonic = "glue result mixed case arrive unique trophy victory panic depend obvious awesome";
+var mnemonic = "find grape account twelve warrior near fee ladder denial muscle benefit feed";

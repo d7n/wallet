@@ -1,1 +1,1 @@
-var mnemonic = "dwarf bonus truck table grow hope retreat victory bar dawn quote lizard";
+var mnemonic = "glove gun verb erosion hood thumb debris glow hobby invite laundry urban";

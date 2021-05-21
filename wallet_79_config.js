@@ -1,1 +1,1 @@
-var mnemonic = "clutch toss pepper hockey remove tattoo swallow ring finger awful tenant agent";
+var mnemonic = "track bean carbon betray endless pilot melt put marine census odor sign";

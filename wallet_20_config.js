@@ -1,1 +1,1 @@
-var mnemonic = "decide crouch orbit solar make divide soda labor range wrestle rare word";
+var mnemonic = "hurt great safe winter mystery enlist device never siren victory fit snack";

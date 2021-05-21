@@ -1,1 +1,1 @@
-var mnemonic = "execute cart salon together relief salmon field loud transfer loop welcome tribe";
+var mnemonic = "gorilla blade body retreat sheriff gather flower expose galaxy clerk very door";

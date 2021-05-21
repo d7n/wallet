@@ -1,1 +1,1 @@
-var mnemonic = "aspect stick use merge chat sail movie shrug youth seat august club";
+var mnemonic = "burger comic wild zebra oven earn tell frozen when diamond later uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "tenant embody artwork spirit thing calm enhance labor sun box trick harsh";
+var mnemonic = "equal settle morning benefit skin ship ticket trial fiction expose focus success";

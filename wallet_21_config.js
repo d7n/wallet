@@ -1,1 +1,1 @@
-var mnemonic = "emotion heavy enrich loan lobster pledge artist nation where fatal drill drop";
+var mnemonic = "jaguar loop jungle ancient lyrics robust despair direct dog pulp glow twice";

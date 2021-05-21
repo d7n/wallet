@@ -1,1 +1,1 @@
-var mnemonic = "excite busy initial ranch ripple extend myth rich advance reveal arrange narrow";
+var mnemonic = "museum gadget wife sight debris dose party pilot memory anxiety awesome ready";

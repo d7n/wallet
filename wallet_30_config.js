@@ -1,1 +1,1 @@
-var mnemonic = "civil retreat dolphin juice vacuum bone model lobster describe tunnel snake spider";
+var mnemonic = "situate romance column they clock crazy follow inch pitch organ account team";

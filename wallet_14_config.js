@@ -1,1 +1,1 @@
-var mnemonic = "topple famous minute dice animal odor reopen industry small have sword illness";
+var mnemonic = "regret destroy vicious urge creek few seat bus addict muffin urge marine";

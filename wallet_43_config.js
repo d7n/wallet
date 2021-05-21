@@ -1,1 +1,1 @@
-var mnemonic = "name then able coil display modify surface rich replace require tube lawsuit";
+var mnemonic = "key second oven frequent catalog normal clerk custom cool peanut update sadness";

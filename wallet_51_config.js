@@ -1,1 +1,1 @@
-var mnemonic = "cattle bulk start cinnamon rare decade mandate blame various ring treat seat";
+var mnemonic = "city wisdom dolphin immune pause artist network lemon leader outside demand help";

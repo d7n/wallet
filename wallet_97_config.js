@@ -1,1 +1,1 @@
-var mnemonic = "art void final rich collect sunny aisle toast frozen okay success logic";
+var mnemonic = "host vessel utility wish weapon stumble nature risk middle cupboard entire uncle";

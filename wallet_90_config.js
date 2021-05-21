@@ -1,1 +1,1 @@
-var mnemonic = "flower civil behind pilot list sheriff hospital frequent enhance note retire build";
+var mnemonic = "flee minor weapon reopen venue dumb first slab grab number current furnace";

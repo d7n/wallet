@@ -1,1 +1,1 @@
-var mnemonic = "choice afford icon donate grace squirrel frequent state feel alpha where keen";
+var mnemonic = "grit shaft gallery enough tortoise idea aunt concert ship luggage anchor math";

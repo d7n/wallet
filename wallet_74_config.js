@@ -1,1 +1,1 @@
-var mnemonic = "beauty soccer rhythm jealous minor tattoo slide asset castle journey fly student";
+var mnemonic = "slab wonder hand scare host win flock hundred air cattle wine grass";

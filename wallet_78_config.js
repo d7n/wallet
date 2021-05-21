@@ -1,1 +1,1 @@
-var mnemonic = "dizzy resemble lake worth stand protect vessel payment gain brass expire sport";
+var mnemonic = "ancient abandon casual vehicle seminar bus force oval card pupil glass cement";
