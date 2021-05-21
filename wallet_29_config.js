@@ -1,1 +1,1 @@
-var mnemonic = "trial similar rally lounge fringe vivid human stumble raccoon palm assault ship";
+var mnemonic = "that afford illegal balcony absent token rug clinic minimum protect typical dawn";

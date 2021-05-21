@@ -1,1 +1,1 @@
-var mnemonic = "cake merry master custom what nerve icon bring source tube decide learn";
+var mnemonic = "copy clog worry barrel clip combine garment race maple tackle palm split";

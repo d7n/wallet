@@ -1,1 +1,1 @@
-var mnemonic = "cycle student trash pistol source flee rail witness frown case august oblige";
+var mnemonic = "twist buddy fat average garden add clown before mother entry high cradle";

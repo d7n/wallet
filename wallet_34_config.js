@@ -1,1 +1,1 @@
-var mnemonic = "endless shiver wheel cactus essay fancy dog sphere ask fix iron junk";
+var mnemonic = "swing cause phone enact review sorry claw note sock infant retreat polar";

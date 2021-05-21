@@ -1,1 +1,1 @@
-var mnemonic = "time club action gas monster reveal neither border flush citizen diary rebel";
+var mnemonic = "usage position detail split when frame chuckle they vocal question squeeze vibrant";

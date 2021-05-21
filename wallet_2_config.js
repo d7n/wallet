@@ -1,1 +1,1 @@
-var mnemonic = "creek scout grief reflect clutch replace carpet habit evolve service ensure trip";
+var mnemonic = "immense man soldier isolate pair cash radio obey fix eye asthma cement";

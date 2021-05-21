@@ -1,1 +1,1 @@
-var mnemonic = "figure car loud help crane clerk juice that spread vault rebel cotton";
+var mnemonic = "bonus scout word round fatal blue horror two follow garment carbon afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen glad sign virus owner food light transfer cheap feature olympic measure";
+var mnemonic = "napkin debate cross kingdom foil term surface addict gold drift owner expand";

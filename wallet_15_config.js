@@ -1,1 +1,1 @@
-var mnemonic = "slot rent accuse toward ask used rain shell quit swim moon citizen";
+var mnemonic = "patch angry wreck teach attitude twelve tornado twist matrix same detail powder";

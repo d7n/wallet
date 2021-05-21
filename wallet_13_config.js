@@ -1,1 +1,1 @@
-var mnemonic = "between bunker cactus uncle wolf boat trash thought boring clap address salmon";
+var mnemonic = "exchange crop flower draw gauge butter supreme arrest swarm immune onion cloud";

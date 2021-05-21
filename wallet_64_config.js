@@ -1,1 +1,1 @@
-var mnemonic = "common truly laugh above slight relief hover guide wood fitness join naive";
+var mnemonic = "pottery mom vault type proof chef hole large angle rent pass jewel";

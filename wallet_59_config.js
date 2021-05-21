@@ -1,1 +1,1 @@
-var mnemonic = "online inch argue object motion trigger chapter quiz teach nation choice cousin";
+var mnemonic = "eager cheap reopen picnic town regret convince frame nice media raven elephant";

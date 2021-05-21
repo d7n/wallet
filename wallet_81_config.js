@@ -1,1 +1,1 @@
-var mnemonic = "stairs sausage churn donate bus unit term enforce aware ramp refuse fit";
+var mnemonic = "cruise scrub invite industry win puppy silent screen wall list casino muffin";

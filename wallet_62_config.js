@@ -1,1 +1,1 @@
-var mnemonic = "magnet submit twice casino divide salt aspect bundle swarm erosion install journey";
+var mnemonic = "steel uncover outer okay elbow actress erase custom ceiling mean minor seat";

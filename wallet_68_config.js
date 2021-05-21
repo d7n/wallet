@@ -1,1 +1,1 @@
-var mnemonic = "pilot wrist proof turn green copy vintage action sad avoid fee dose";
+var mnemonic = "replace repeat short bird cotton sniff chase ankle icon theory typical govern";

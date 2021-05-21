@@ -1,1 +1,1 @@
-var mnemonic = "erode child sphere square undo frozen bright pluck cliff gain cook elegant";
+var mnemonic = "path giraffe soccer bind term know logic fitness team ancient aim giraffe";

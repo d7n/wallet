@@ -1,1 +1,1 @@
-var mnemonic = "replace group plug valid belt mango blast suspect burden teach accident sadness";
+var mnemonic = "zoo absorb outer six desk top runway remain torch detect busy bind";

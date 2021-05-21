@@ -1,1 +1,1 @@
-var mnemonic = "stuff industry still point gain century talent virus update speak hand during";
+var mnemonic = "innocent month lab weapon club dirt bid soccer entire stamp planet scheme";

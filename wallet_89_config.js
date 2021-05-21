@@ -1,1 +1,1 @@
-var mnemonic = "patrol height cart exotic shiver morning jazz worth citizen dash city detail";
+var mnemonic = "normal same immune right fuel garment thrive rookie wire large night virtual";

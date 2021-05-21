@@ -1,1 +1,1 @@
-var mnemonic = "toward follow humor chase make put penalty license moral strategy guilt mansion";
+var mnemonic = "silver romance ceiling weasel onion next mail spatial curtain snow bulb prosper";

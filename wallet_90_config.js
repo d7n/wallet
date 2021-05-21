@@ -1,1 +1,1 @@
-var mnemonic = "yellow maid ordinary dune final above traffic tank style blush coach snake";
+var mnemonic = "replace bread camp entry coffee liberty vote ski message dolphin mimic business";

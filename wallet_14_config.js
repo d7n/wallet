@@ -1,1 +1,1 @@
-var mnemonic = "claim wagon reason volcano wife unlock measure steak mushroom stand opinion fortune";
+var mnemonic = "gadget what always slogan wheel ski exclude fabric flag space pause saddle";

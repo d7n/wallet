@@ -1,1 +1,1 @@
-var mnemonic = "drill wild brief adapt rice used aerobic tennis enable suit outdoor final";
+var mnemonic = "lunch arrest sock must view nice night memory faint purity panel camera";

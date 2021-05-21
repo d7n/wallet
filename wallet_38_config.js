@@ -1,1 +1,1 @@
-var mnemonic = "bulk decade type abandon speak clutch local casual quantum impose virus base";
+var mnemonic = "isolate sorry middle clown service squirrel table whip little imitate dilemma fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "eye worry submit vintage dismiss degree analyst turtle tide crystal sunset lesson";
+var mnemonic = "spread false oyster behave orange goat what alone oppose flock immune right";

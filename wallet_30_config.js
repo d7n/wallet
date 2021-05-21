@@ -1,1 +1,1 @@
-var mnemonic = "guitar obey hundred battle year search oil soccer december lyrics water trash";
+var mnemonic = "side enter decide require brother recycle enforce laptop area entry puppy lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "letter lounge brand prosper bench sell funny there virtual clump month reject";
+var mnemonic = "kitten surge talk village purpose swap unable point satoshi frog tattoo predict";

@@ -1,1 +1,1 @@
-var mnemonic = "among animal essence decline unaware blossom agree comfort indoor rule chuckle medal";
+var mnemonic = "tube pilot rack record cushion other input bitter fury dwarf elbow pink";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp reunion initial mountain hammer reflect select surround toilet rabbit sense hurt";
+var mnemonic = "reunion bubble pole enhance modify captain famous range rent flash legend that";

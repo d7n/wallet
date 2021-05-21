@@ -1,1 +1,1 @@
-var mnemonic = "gasp trial dad same country promote pill version current pet plug cheap";
+var mnemonic = "whale rich stage cinnamon sibling crack age fence knee forum tell leisure";

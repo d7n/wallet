@@ -1,1 +1,1 @@
-var mnemonic = "candy delay over salon harvest animal advice place hungry message problem few";
+var mnemonic = "adapt lizard thing acid pudding exile race elder decorate rhythm key patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "behind antique unable fine safe have feed spell chef dream kit type";
+var mnemonic = "true upon throw annual beach board fragile eternal planet churn betray life";

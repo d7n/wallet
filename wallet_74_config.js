@@ -1,1 +1,1 @@
-var mnemonic = "phrase ritual enlist change dove poet rally nothing jelly multiply north zoo";
+var mnemonic = "photo enroll puzzle bike average jungle route oak boss simple empty siege";

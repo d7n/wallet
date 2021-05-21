@@ -1,1 +1,1 @@
-var mnemonic = "fever pig rally useless observe rare rigid view govern shoe guitar menu";
+var mnemonic = "mosquito ladder iron baby matrix wealth path blast planet organ crunch laptop";

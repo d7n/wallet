@@ -1,1 +1,1 @@
-var mnemonic = "walnut ramp bright pass chronic sure any portion crane toast brand follow";
+var mnemonic = "suspect agent symbol usual bracket island quality orphan error tattoo claw hazard";

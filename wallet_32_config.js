@@ -1,1 +1,1 @@
-var mnemonic = "parent sudden suffer bronze fat file quiz label crouch possible panda hidden";
+var mnemonic = "audit way knock creek shoulder yard humor twenty series useless dragon panic";

@@ -1,1 +1,1 @@
-var mnemonic = "woman border roof width wolf spike lock silent fog remember warm offer";
+var mnemonic = "fold flee amount palm cup critic damage turtle client patient slot police";

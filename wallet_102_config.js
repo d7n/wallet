@@ -1,1 +1,1 @@
-var mnemonic = "source work mutual fog sunny paper little wet nut afford uncover entry";
+var mnemonic = "swim equal easy advance neutral cereal valve borrow welcome live trash gossip";

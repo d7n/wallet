@@ -1,1 +1,1 @@
-var mnemonic = "mushroom modify diamond involve much husband cause comfort wing mail buzz distance";
+var mnemonic = "power cruel deposit outdoor old fresh word jungle loud barely custom luggage";

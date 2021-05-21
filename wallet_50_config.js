@@ -1,1 +1,1 @@
-var mnemonic = "stand social gauge grocery flush script bomb rescue collect employ noise replace";
+var mnemonic = "clarify sport join sleep patrol price stumble february huge sight toilet trial";

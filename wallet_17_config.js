@@ -1,1 +1,1 @@
-var mnemonic = "clean awesome measure enemy ramp benefit exercise angle injury rude pitch print";
+var mnemonic = "warm latin opinion render recall syrup siren era lecture vanish sustain diary";

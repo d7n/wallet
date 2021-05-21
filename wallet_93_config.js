@@ -1,1 +1,1 @@
-var mnemonic = "toast erosion barely crew setup project actress detect nominee retire merge march";
+var mnemonic = "crime ladder beauty bridge news alter crumble mom dismiss sponsor travel doll";

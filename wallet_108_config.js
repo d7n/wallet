@@ -1,1 +1,1 @@
-var mnemonic = "reason opinion culture fashion deal essay shuffle hospital renew super shove sweet";
+var mnemonic = "key asthma inflict bring reveal grab industry better crunch tiny demand loyal";

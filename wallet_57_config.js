@@ -1,1 +1,1 @@
-var mnemonic = "choose suspect already focus exchange dragon gravity diet fog pulp pyramid quote";
+var mnemonic = "doll love alcohol pave rain year brush cluster card throw spoil false";

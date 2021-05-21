@@ -1,1 +1,1 @@
-var mnemonic = "blanket banner resource two subway short parent evil stereo help all height";
+var mnemonic = "device replace oppose drama often naive spare mean despair rhythm balance night";

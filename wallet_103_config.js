@@ -1,1 +1,1 @@
-var mnemonic = "reopen elephant nose wreck mutual mandate aisle cover civil spare romance foil";
+var mnemonic = "media elegant mountain galaxy industry ski raccoon depth limb riot confirm example";

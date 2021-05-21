@@ -1,1 +1,1 @@
-var mnemonic = "member mosquito cross actual piece right vacant expect orange praise image become";
+var mnemonic = "item grief tunnel inside convince village doctor monkey swamp win mechanic tourist";

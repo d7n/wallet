@@ -1,1 +1,1 @@
-var mnemonic = "happy atom yellow machine art maid frost tilt fix fox fashion decline";
+var mnemonic = "wheel grief flower eye still cushion save horn dream unfold wife until";

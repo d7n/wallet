@@ -1,1 +1,1 @@
-var mnemonic = "smooth elite quality head upset village drama earth nurse area youth paper";
+var mnemonic = "home right maid spin melt tonight fancy entire blood drip toe kind";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle group have spin jazz envelope film shaft first erase walk canal";
+var mnemonic = "never virus bleak grain void now furnace tone wine pigeon rely visual";

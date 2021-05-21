@@ -1,1 +1,1 @@
-var mnemonic = "fall end between bus twist bleak rotate weapon lobster tissue spray dress";
+var mnemonic = "hill narrow athlete like bring stamp fossil garlic diet art category grief";

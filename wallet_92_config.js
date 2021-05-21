@@ -1,1 +1,1 @@
-var mnemonic = "brush monitor festival fashion surprise click simple oval nest render boss waste";
+var mnemonic = "bulk lyrics above tube surge guilt stage high hello amount fancy pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "dash depart affair test above object like avocado deputy until champion video";
+var mnemonic = "critic afraid deer also whale inquiry pair coyote busy bring easy month";

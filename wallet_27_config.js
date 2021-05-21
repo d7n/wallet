@@ -1,1 +1,1 @@
-var mnemonic = "feed include word sadness prefer amateur top rice return tomorrow chat fix";
+var mnemonic = "mind diary burger protect rigid exercise elevator flag lift exotic border social";

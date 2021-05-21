@@ -1,1 +1,1 @@
-var mnemonic = "april supply alcohol rare lamp run visual under tent flight guitar bulb";
+var mnemonic = "unlock bundle behave acoustic burger screen current coffee explain coral neglect force";

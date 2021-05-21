@@ -1,1 +1,1 @@
-var mnemonic = "digital boost base source amazing tower punch air current fatigue thumb cotton";
+var mnemonic = "regular actress poet wise pigeon fork total because maple net wood advice";

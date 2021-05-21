@@ -1,1 +1,1 @@
-var mnemonic = "similar main scout spirit phrase despair tomorrow good chest impose nurse bunker";
+var mnemonic = "valid hold annual define myself ribbon easily today point twenty system thrive";

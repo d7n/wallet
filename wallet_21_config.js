@@ -1,1 +1,1 @@
-var mnemonic = "category genre era cancel lens limit please enforce move hub olive direct";
+var mnemonic = "duty know police useful business volcano predict image industry empower maximum pigeon";

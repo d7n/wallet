@@ -1,1 +1,1 @@
-var mnemonic = "idle tumble sea sheriff split junk spy lazy quality upgrade poet slot";
+var mnemonic = "foot any labor bless shine ginger bulb wood venue enhance moral snack";

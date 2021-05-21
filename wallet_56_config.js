@@ -1,1 +1,1 @@
-var mnemonic = "garage decorate emerge moment hood insane person arctic people guard among farm";
+var mnemonic = "spawn crystal flee tumble junk floor bulk pool search guilt artefact iron";

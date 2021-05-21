@@ -1,1 +1,1 @@
-var mnemonic = "loan cluster silly find property prize horn torch digital snow now rail";
+var mnemonic = "change barrel profit witness spin asset average supreme tag wet patrol federal";

@@ -1,1 +1,1 @@
-var mnemonic = "depend frost video project smoke lottery fluid judge will table dignity lamp";
+var mnemonic = "icon impulse angry cancel choose often spell sail sign iron sentence equal";

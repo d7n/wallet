@@ -1,1 +1,1 @@
-var mnemonic = "marble label crawl cave defense plate lamp wage sand bottom grit library";
+var mnemonic = "want reunion tiger glimpse innocent accident rich explain grid weasel village jaguar";

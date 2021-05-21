@@ -1,1 +1,1 @@
-var mnemonic = "episode smooth device owner electric cloud hover swing domain remind lake actress";
+var mnemonic = "announce vague general deliver proof salon glue canal boat novel credit barely";

@@ -1,1 +1,1 @@
-var mnemonic = "series kite tent garden hover eye road alpha duty oxygen large concert";
+var mnemonic = "traffic vehicle smooth hollow whale loan salmon exercise field common neck kite";

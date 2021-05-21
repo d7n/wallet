@@ -1,1 +1,1 @@
-var mnemonic = "run orchard time draft pave patrol erosion mass pipe roof deliver whisper";
+var mnemonic = "around ugly shell august drip friend sausage useless vendor ability spirit bright";

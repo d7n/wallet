@@ -1,1 +1,1 @@
-var mnemonic = "obtain season earth square diesel awful away liar tired fruit limb plastic";
+var mnemonic = "scan law boat almost then quick canoe wheat room palm recipe nuclear";

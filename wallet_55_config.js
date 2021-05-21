@@ -1,1 +1,1 @@
-var mnemonic = "base debate appear barely oak ten exile seat target divorce autumn march";
+var mnemonic = "correct rotate promote spirit sick rebuild gossip february direct design gadget embody";

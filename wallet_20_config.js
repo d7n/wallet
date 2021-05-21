@@ -1,1 +1,1 @@
-var mnemonic = "produce exhaust kite you fault hard island force execute announce paddle vicious";
+var mnemonic = "easily culture area payment wall witness scene upper unfold disorder jaguar grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit parade adult truth sell logic call dog spell fiber raven wine";
+var mnemonic = "concert cement uncle purse invite service lunar fuel shrimp have economy lawn";

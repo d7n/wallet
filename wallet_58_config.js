@@ -1,1 +1,1 @@
-var mnemonic = "bird cousin exact slam clap ball gift useful body update butter super";
+var mnemonic = "angry lecture rubber tribe accident street advance humor dad give tumble vessel";

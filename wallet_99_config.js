@@ -1,1 +1,1 @@
-var mnemonic = "thought climb trash leisure tenant step harbor nurse axis grab post bag";
+var mnemonic = "flower increase smoke comfort empty naive submit upset much bounce quiz oyster";

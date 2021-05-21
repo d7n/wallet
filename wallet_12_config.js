@@ -1,1 +1,1 @@
-var mnemonic = "kidney arrange minimum spot craft case piano cave cool humor that brother";
+var mnemonic = "mutual cloud put aspect evidence kitten nominee grape fork loyal dirt wing";

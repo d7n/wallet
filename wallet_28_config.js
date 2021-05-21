@@ -1,1 +1,1 @@
-var mnemonic = "normal sick soldier apology valid ice barrel then excuse fog armor one";
+var mnemonic = "noodle depth room alone ship judge language burden sign innocent rubber sort";

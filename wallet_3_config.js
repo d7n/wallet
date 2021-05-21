@@ -1,1 +1,1 @@
-var mnemonic = "spoon wolf select absurd coyote release leaf arrest initial panther summer inject";
+var mnemonic = "remind iron snow vintage moment original design orphan language barrel scatter proof";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge warfare useless order flat little divert then child script scan tennis";
+var mnemonic = "illness scorpion season engage canoe left clarify tortoise surge bullet apart end";

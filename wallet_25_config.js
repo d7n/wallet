@@ -1,1 +1,1 @@
-var mnemonic = "entire logic feature note dinner pledge intact rack rookie all enter visa";
+var mnemonic = "grab cube salon member noise major canoe accuse tooth coffee fluid neither";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude dove mystery family duck escape suspect detail convince cotton galaxy busy";
+var mnemonic = "only joy trim bean gasp angle naive glance law flee private hole";

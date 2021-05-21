@@ -1,1 +1,1 @@
-var mnemonic = "valve soda brave crane size solar valley win exist drop permit moral";
+var mnemonic = "ginger foster future ostrich what march lunch suspect dune hip taxi bind";

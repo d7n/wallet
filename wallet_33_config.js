@@ -1,1 +1,1 @@
-var mnemonic = "poet slogan clinic urge you force ring actor buyer candy suggest race";
+var mnemonic = "nation electric hazard ship husband consider cave label source gym okay void";

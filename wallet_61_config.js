@@ -1,1 +1,1 @@
-var mnemonic = "level mistake usual debate habit range tree pattern phone supreme ketchup ill";
+var mnemonic = "south mechanic boy recall reveal smart all pledge document often slim blush";

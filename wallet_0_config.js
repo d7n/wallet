@@ -1,1 +1,1 @@
-var mnemonic = "symptom box quick sponsor nuclear bullet number struggle diesel melt critic artefact";
+var mnemonic = "inspire boring bonus eight isolate refuse human buzz glow cart nice around";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol donate clerk boring knee regret jewel honey primary aisle situate piano";
+var mnemonic = "again future note extra penalty sadness license donor decide bulk hurry east";

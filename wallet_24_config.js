@@ -1,1 +1,1 @@
-var mnemonic = "kiwi vital orbit air change pet chronic eternal detect year penalty crush";
+var mnemonic = "identify lucky repeat odor index arrange asthma february latin snake act leave";

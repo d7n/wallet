@@ -1,1 +1,1 @@
-var mnemonic = "position harvest embark strike setup pen more wine engage afford leave action";
+var mnemonic = "flag hurt hire fever domain artist goat excess behave ancient shrug arrest";

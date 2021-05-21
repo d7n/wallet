@@ -1,1 +1,1 @@
-var mnemonic = "differ argue scan icon bid merry crisp potato stomach number flash detail";
+var mnemonic = "age doctor art problem gadget auction aunt useful lazy pen suggest replace";

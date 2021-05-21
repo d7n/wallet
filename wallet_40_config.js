@@ -1,1 +1,1 @@
-var mnemonic = "like candy slogan egg goat poem walk spike fee aerobic joke frost";
+var mnemonic = "august retreat suffer december owner learn similar notable garbage tell settle ask";

@@ -1,1 +1,1 @@
-var mnemonic = "group nation brown fish pudding fan favorite canvas vault outdoor wasp coffee";
+var mnemonic = "hollow one slogan able question frequent fold spring soft stereo until tube";

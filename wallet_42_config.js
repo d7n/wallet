@@ -1,1 +1,1 @@
-var mnemonic = "quantum fish keep height good couple jar matter fly ladder transfer milk";
+var mnemonic = "innocent library divert disagree yellow game burst opera mobile agree tape armed";

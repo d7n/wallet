@@ -1,1 +1,1 @@
-var mnemonic = "legend season law devote say bean bulb hair bone crowd powder amazing";
+var mnemonic = "vague crystal retire scout small item snack outer purity camera farm bullet";
