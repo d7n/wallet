@@ -1,1 +1,1 @@
-var mnemonic = "stairs derive fold chapter later north enact clock wrong print benefit size";
+var mnemonic = "oil know curve pool indoor awesome lava write siren bargain explain panda";

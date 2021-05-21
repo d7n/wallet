@@ -1,1 +1,1 @@
-var mnemonic = "diet twice term chest ring outside word awesome sentence acquire prepare reveal";
+var mnemonic = "dentist ghost fragile inmate steel kitten cinnamon sadness soap glue impact trial";

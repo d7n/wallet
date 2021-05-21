@@ -1,1 +1,1 @@
-var mnemonic = "parade acid mutual offer mistake love thought solution long powder rich cousin";
+var mnemonic = "garlic arrive more tongue sick give acoustic eager electric book lesson country";

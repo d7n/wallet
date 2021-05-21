@@ -1,1 +1,1 @@
-var mnemonic = "miss exhaust turtle thought project pencil include royal debris word seven laugh";
+var mnemonic = "insect age usage defy flight leg track match grit stem crawl width";

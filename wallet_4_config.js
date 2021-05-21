@@ -1,1 +1,1 @@
-var mnemonic = "prevent hurry yard north essence maze breeze corn jeans edge else moral";
+var mnemonic = "gold verify kitchen canal deer wrong answer lesson devote leave goddess process";

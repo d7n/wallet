@@ -1,1 +1,1 @@
-var mnemonic = "dress wrestle chef alarm lawn west orient daring wrong luxury fluid cupboard";
+var mnemonic = "rookie season congress force where mosquito spring clutch special able theory exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "fat bulk lemon leader space jungle story guess citizen voyage reason kind";
+var mnemonic = "drum safe law fringe stable hip increase early smooth shaft fat awesome";

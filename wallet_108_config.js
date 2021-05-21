@@ -1,1 +1,1 @@
-var mnemonic = "clap junior gain embark spin weather tonight law man draft gauge thrive";
+var mnemonic = "air auto before stable emotion glare replace chronic saddle crew inside hybrid";

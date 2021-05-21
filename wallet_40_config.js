@@ -1,1 +1,1 @@
-var mnemonic = "sad obtain video prison reunion defense reason cable cart news coconut vivid";
+var mnemonic = "harbor field satoshi farm meadow injury frown begin train alert sport army";

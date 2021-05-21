@@ -1,1 +1,1 @@
-var mnemonic = "squirrel orient neutral pretty bachelor occur advice click cage frequent dose range";
+var mnemonic = "feel soccer faculty season kind brass rally dutch adjust embrace iron immune";

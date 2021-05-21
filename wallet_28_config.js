@@ -1,1 +1,1 @@
-var mnemonic = "vicious unhappy energy base immune obtain canal dish cotton transfer shield dog";
+var mnemonic = "never hurdle crew agree scan curious flavor this today secret obvious innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "robust scan journey stock vacuum remove action tell view such suffer drum";
+var mnemonic = "fox turkey road zoo table change scare ancient adult sound fall thrive";

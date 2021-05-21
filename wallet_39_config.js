@@ -1,1 +1,1 @@
-var mnemonic = "level remind stamp palace advice siren surface erase private nest rapid fury";
+var mnemonic = "lady labor boil this diesel arena tape proof inflict surge resist false";

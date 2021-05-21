@@ -1,1 +1,1 @@
-var mnemonic = "mimic ticket unusual possible idle gun bonus avoid maid robust arch stool";
+var mnemonic = "first tuna drink cry main praise ice make turn flat mother have";

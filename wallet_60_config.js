@@ -1,1 +1,1 @@
-var mnemonic = "ticket super empower census phone ability forum save gold escape bike sad";
+var mnemonic = "hair spot pond net army old bone life open turkey tackle lava";

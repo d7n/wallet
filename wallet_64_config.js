@@ -1,1 +1,1 @@
-var mnemonic = "boss genre canal exhaust coast shoe sure seminar say style tattoo hope";
+var mnemonic = "cute ensure tired hint hip advice stable divorce scale talent solve under";

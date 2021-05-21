@@ -1,1 +1,1 @@
-var mnemonic = "cricket around divorce zoo future hamster armor search party dry dutch humor";
+var mnemonic = "jeans change sure glad save wife basket book street bone reform glad";

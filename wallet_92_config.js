@@ -1,1 +1,1 @@
-var mnemonic = "alter quantum resource lumber mom young lottery they follow rocket mule bounce";
+var mnemonic = "example wave once disease brush rhythm bring orient silver ripple hood surround";

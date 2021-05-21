@@ -1,1 +1,1 @@
-var mnemonic = "sibling convince zebra heavy peanut dignity lake sketch inflict bleak utility yard";
+var mnemonic = "small hockey trophy piece lunch often again sniff spy try devote sail";

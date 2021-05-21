@@ -1,1 +1,1 @@
-var mnemonic = "uniform famous ankle derive super please tooth option bicycle hour juice ship";
+var mnemonic = "scissors assault entire private snack grab vacuum general silly husband chicken parent";

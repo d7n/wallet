@@ -1,1 +1,1 @@
-var mnemonic = "horn embark anger stable actual long crash memory latin silver wash depend";
+var mnemonic = "office apart fluid length drop crane leopard space away lady another you";

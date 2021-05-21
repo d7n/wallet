@@ -1,1 +1,1 @@
-var mnemonic = "interest panel chapter sniff shrimp sense era reopen liberty goat cool loan";
+var mnemonic = "member recipe title exchange midnight ranch eternal shoe luggage perfect afford myself";

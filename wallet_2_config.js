@@ -1,1 +1,1 @@
-var mnemonic = "narrow document cake control fatigue useful entry speak switch provide motor start";
+var mnemonic = "mind fold sight infant spirit tray smoke tattoo forget account pave peanut";

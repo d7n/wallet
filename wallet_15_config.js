@@ -1,1 +1,1 @@
-var mnemonic = "switch reject breeze what absurd bread panel globe tide harsh display rebel";
+var mnemonic = "stadium doll flavor clutch noise cattle swing canoe dish spot slim top";

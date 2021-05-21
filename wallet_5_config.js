@@ -1,1 +1,1 @@
-var mnemonic = "sand bread pool exhaust burger garment answer holiday deposit image away illegal";
+var mnemonic = "flock slight twenty bus youth illegal praise ridge inform sibling lawn diamond";

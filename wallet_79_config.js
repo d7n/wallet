@@ -1,1 +1,1 @@
-var mnemonic = "senior inject number enough output kingdom burger cake output link make home";
+var mnemonic = "neither harvest orient roast culture jeans hill rigid globe climb glance kiss";

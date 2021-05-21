@@ -1,1 +1,1 @@
-var mnemonic = "pluck dad debate deliver tape bronze hobby wedding chuckle expand castle become";
+var mnemonic = "fabric sound try bless whisper summer budget concert adjust stage more mix";

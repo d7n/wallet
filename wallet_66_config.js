@@ -1,1 +1,1 @@
-var mnemonic = "shoot spice smart uncle blame front tuition federal weather cube satisfy treat";
+var mnemonic = "common siren cousin start artist genre satisfy jewel room twice collect bunker";

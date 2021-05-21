@@ -1,1 +1,1 @@
-var mnemonic = "bring rebuild cattle hundred creek steel message domain view twin habit appear";
+var mnemonic = "million old clown zoo rug stay beyond garlic monitor crunch alpha soul";

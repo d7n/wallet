@@ -1,1 +1,1 @@
-var mnemonic = "point frequent arrange frown pass blur also water evil leave polar metal";
+var mnemonic = "load cash apology medal master tumble message ordinary tool rain future surprise";

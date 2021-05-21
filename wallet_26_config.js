@@ -1,1 +1,1 @@
-var mnemonic = "thumb close spawn stove tissue force address police fatigue mistake middle century";
+var mnemonic = "mixture agent amount gold west box liar pitch climb iron abuse link";

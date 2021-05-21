@@ -1,1 +1,1 @@
-var mnemonic = "catalog shadow physical ancient alley flag pulp ensure such legal tongue family";
+var mnemonic = "reopen dinosaur hurry cheap whisper runway hunt tonight breeze robot host that";

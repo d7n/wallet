@@ -1,1 +1,1 @@
-var mnemonic = "trade cactus math deal brand source claim culture play clinic judge okay";
+var mnemonic = "journey action toilet fabric opera twelve weekend stadium whip wise swim hint";

@@ -1,1 +1,1 @@
-var mnemonic = "thing media maid skull skirt bullet index demand interest illness armor fit";
+var mnemonic = "call chuckle help zone early dizzy type size man virus syrup blue";

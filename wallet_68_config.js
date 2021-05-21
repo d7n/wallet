@@ -1,1 +1,1 @@
-var mnemonic = "industry found foster easy baby fresh bounce hawk shaft proof habit shadow";
+var mnemonic = "mass confirm giant bid eternal mystery age source grape cliff hurry south";

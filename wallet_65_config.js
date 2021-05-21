@@ -1,1 +1,1 @@
-var mnemonic = "scene gather excess category manage you magic viable sport remain above appear";
+var mnemonic = "destroy relax genuine property else develop clump decline increase sadness wonder write";

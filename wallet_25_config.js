@@ -1,1 +1,1 @@
-var mnemonic = "hawk brief easily early soap young public praise sibling nurse borrow fire";
+var mnemonic = "ocean derive prevent spider luggage crush worry citizen volcano peasant left light";

@@ -1,1 +1,1 @@
-var mnemonic = "feature bus adjust rice normal supply uncover moment student favorite hip law";
+var mnemonic = "cactus right arena page enforce fatal idle scissors heavy buffalo outside tooth";

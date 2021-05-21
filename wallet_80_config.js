@@ -1,1 +1,1 @@
-var mnemonic = "wreck miracle boat used devote edge limit novel sentence skull ensure cat";
+var mnemonic = "erode dad industry capital business wild arrive there nominee version radar churn";

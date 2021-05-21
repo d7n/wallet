@@ -1,1 +1,1 @@
-var mnemonic = "ready weapon fortune auto gravity axis gun flee dial badge shuffle chef";
+var mnemonic = "access bracket inhale boil sort coil fan public patrol whip outer digital";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf easy broken doll kit achieve secret future ramp width pilot collect";
+var mnemonic = "reject unknown cluster tortoise screen autumn heavy chronic crunch noble hurry utility";

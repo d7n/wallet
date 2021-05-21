@@ -1,1 +1,1 @@
-var mnemonic = "lava napkin siege quiz puzzle whale keen pipe useful trial idea finger";
+var mnemonic = "anger aware tomato cage burden woman silver busy unlock gentle neglect stadium";

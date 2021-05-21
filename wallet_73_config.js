@@ -1,1 +1,1 @@
-var mnemonic = "squirrel repair endless pioneer hole age region goddess liquid spoil street bring";
+var mnemonic = "flock gun spatial luggage design wage puppy ship trouble disease violin panda";

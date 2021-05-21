@@ -1,1 +1,1 @@
-var mnemonic = "erase garage notable harsh ocean either kiss physical emerge exit flower desert";
+var mnemonic = "pelican behind genius govern sting boost code fragile sugar topic camp bachelor";

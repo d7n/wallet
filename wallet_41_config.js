@@ -1,1 +1,1 @@
-var mnemonic = "relief scale shiver volcano income suspect spice movie decline sketch sport wool";
+var mnemonic = "juice clump monster agent main puzzle guilt immune emerge erode march embark";

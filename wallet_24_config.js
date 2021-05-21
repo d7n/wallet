@@ -1,1 +1,1 @@
-var mnemonic = "fog pair prison tobacco because guess blast pepper sadness luxury outside sunny";
+var mnemonic = "october bread drift faint spread balance ordinary fee toward early library brown";

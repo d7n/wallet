@@ -1,1 +1,1 @@
-var mnemonic = "inject raise pig indicate hotel festival cupboard decorate tool borrow view thought";
+var mnemonic = "jazz magic potato social human lounge circle spoon mammal expire evoke wagon";

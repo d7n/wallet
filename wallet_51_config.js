@@ -1,1 +1,1 @@
-var mnemonic = "text hawk knife exclude thought wine season trophy asthma leisure elite excuse";
+var mnemonic = "sister grocery horror awful source top pass border lift sadness affair eagle";

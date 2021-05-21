@@ -1,1 +1,1 @@
-var mnemonic = "this check bid curve crunch burden sting merry firm enemy rough carry";
+var mnemonic = "balance buyer cabin say jelly hawk decorate flee blanket almost bench swift";

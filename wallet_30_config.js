@@ -1,1 +1,1 @@
-var mnemonic = "pattern brown movie helmet parade plug impose abstract flower forum such melody";
+var mnemonic = "there wave wreck void legend rule unveil include hair delay mixture twin";

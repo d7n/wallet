@@ -1,1 +1,1 @@
-var mnemonic = "boss outside weird rifle have shine fetch release raw tell stadium buddy";
+var mnemonic = "globe brown female humble review jeans patrol satisfy vault usage vivid radio";

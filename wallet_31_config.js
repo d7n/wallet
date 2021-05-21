@@ -1,1 +1,1 @@
-var mnemonic = "banner rude day major rubber push flower virus inflict stone jump cinnamon";
+var mnemonic = "post fury hockey caught kit word crystal add rail lizard left dream";

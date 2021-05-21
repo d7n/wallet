@@ -1,1 +1,1 @@
-var mnemonic = "brief casino visa arena margin elder latin entry logic primary razor over";
+var mnemonic = "detail mix oil fatal ski color wise size old skull sing else";

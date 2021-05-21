@@ -1,1 +1,1 @@
-var mnemonic = "never vehicle field alert reform saddle solid glass plate remain book merge";
+var mnemonic = "vapor ceiling coyote correct neither unhappy adapt delay rebel advance forest term";

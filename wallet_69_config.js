@@ -1,1 +1,1 @@
-var mnemonic = "ancient cage roast surge quiz battle tonight blade lawn always slot wife";
+var mnemonic = "favorite banner tape laugh inside matter chaos cannon tiger van certain this";

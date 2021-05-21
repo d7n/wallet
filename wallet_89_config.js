@@ -1,1 +1,1 @@
-var mnemonic = "wave fatigue feature tunnel jar upon melt menu poverty grain undo fence";
+var mnemonic = "walnut corn drip model choose vacuum family guide hole eager deer slender";

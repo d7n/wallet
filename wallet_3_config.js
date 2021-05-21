@@ -1,1 +1,1 @@
-var mnemonic = "room plug idle flight dolphin basic manual sure sad sugar predict endless";
+var mnemonic = "fall satisfy frost vibrant cotton sunset lady ill chase beach cover that";

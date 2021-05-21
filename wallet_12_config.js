@@ -1,1 +1,1 @@
-var mnemonic = "hard fire sorry episode step ancient manual vital confirm toward energy poet";
+var mnemonic = "strike check consider pact oven stick guitar train arrange rural title keep";

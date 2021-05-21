@@ -1,1 +1,1 @@
-var mnemonic = "believe bar license federal shrug term earn dynamic ill treat best arrange";
+var mnemonic = "virus table silent orbit avocado bullet motor render bargain arrest strong silk";

@@ -1,1 +1,1 @@
-var mnemonic = "group funny board age stamp degree impact project base dad punch purpose";
+var mnemonic = "summer rough fame wish staff gallery hard pull pair police blade guide";

@@ -1,1 +1,1 @@
-var mnemonic = "forward shift aisle deputy warrior clarify barrel lyrics repeat narrow first change";
+var mnemonic = "prosper build few ski sister approve august proof repair sample squirrel palm";

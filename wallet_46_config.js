@@ -1,1 +1,1 @@
-var mnemonic = "win nothing notable urge sleep sign beach record slide remove output purse";
+var mnemonic = "mom junk help gold panther north chase ethics bridge hope extend undo";

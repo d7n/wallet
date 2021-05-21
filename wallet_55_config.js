@@ -1,1 +1,1 @@
-var mnemonic = "almost elder master mail foil silk tiny lemon great luggage legal glad";
+var mnemonic = "answer wide mandate ozone inquiry trip receive olympic castle hover brand slide";

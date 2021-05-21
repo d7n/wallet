@@ -1,1 +1,1 @@
-var mnemonic = "oak effort devote hidden gasp style detail embody blouse swear recipe narrow";
+var mnemonic = "end curious slab vast permit lecture marble country tomato aisle ethics gauge";

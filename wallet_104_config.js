@@ -1,1 +1,1 @@
-var mnemonic = "lock label this arm mandate cushion resource under cliff retire report invite";
+var mnemonic = "forward aware silk planet cradle hurry street nuclear pulp shield gadget mask";

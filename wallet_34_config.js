@@ -1,1 +1,1 @@
-var mnemonic = "maze monster tornado thing federal impulse finger giggle sense visual dolphin vault";
+var mnemonic = "average fiscal board fatigue mosquito cover deal hurt summer arena alley rack";

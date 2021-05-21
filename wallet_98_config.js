@@ -1,1 +1,1 @@
-var mnemonic = "clog chest grant proud best dismiss world clump despair toe smart rebel";
+var mnemonic = "cinnamon slight occur movie december awful copy pulp chat meadow pitch tone";

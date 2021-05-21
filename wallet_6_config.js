@@ -1,1 +1,1 @@
-var mnemonic = "woman toward orphan erode will call inner clerk dinner pupil spawn flip";
+var mnemonic = "call health employ various maple protect sick sword ketchup fix harvest charge";

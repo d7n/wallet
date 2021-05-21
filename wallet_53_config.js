@@ -1,1 +1,1 @@
-var mnemonic = "scale island glory claw faint choose catch funny artist history predict orphan";
+var mnemonic = "speed tide artwork coin library number wait able rebuild fold silk frost";

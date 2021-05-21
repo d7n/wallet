@@ -1,1 +1,1 @@
-var mnemonic = "attitude note myself hundred name ankle oval skull jump resource fade truth";
+var mnemonic = "dance valley kiss betray lawsuit roast crane symptom close charge dial enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "eye hotel noble right decide false typical pear enlist trumpet output pledge";
+var mnemonic = "wife harsh melt avocado sign illness under embody talk garlic despair catalog";

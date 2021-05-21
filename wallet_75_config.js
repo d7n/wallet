@@ -1,1 +1,1 @@
-var mnemonic = "health slight angle judge barrel urban winter planet grape race seat pink";
+var mnemonic = "embrace execute old sad camera announce bamboo act have awake dog moment";

@@ -1,1 +1,1 @@
-var mnemonic = "bread blouse feed between couple lonely door power oil current fan spin";
+var mnemonic = "bread foil marine yard crater economy boring case sand drive spike material";

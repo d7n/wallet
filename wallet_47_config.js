@@ -1,1 +1,1 @@
-var mnemonic = "unknown cash brisk please spirit word pride good noodle reason usage toss";
+var mnemonic = "high damage elbow drastic robot mass strategy exist crawl favorite tomorrow husband";

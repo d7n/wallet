@@ -1,1 +1,1 @@
-var mnemonic = "almost virtual inherit cigar bird frown casual access guitar doctor audit say";
+var mnemonic = "dynamic impact injury priority giggle label someone infant strategy panel use predict";

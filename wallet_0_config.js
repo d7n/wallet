@@ -1,1 +1,1 @@
-var mnemonic = "elite cupboard walk limit harvest history dry amazing often defense tag client";
+var mnemonic = "pigeon two honey depth bundle train crystal detail this enhance twist cool";

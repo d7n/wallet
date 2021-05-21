@@ -1,1 +1,1 @@
-var mnemonic = "tide high mechanic fresh vote image pause easily mule tape right rug";
+var mnemonic = "page minor talent nominee power dirt invest crew claw collect era abuse";

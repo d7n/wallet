@@ -1,1 +1,1 @@
-var mnemonic = "shock position sibling barrel reduce security account defy liquid hospital present plunge";
+var mnemonic = "title snap sorry toss push lobster popular lend ecology wink script manage";

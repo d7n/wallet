@@ -1,1 +1,1 @@
-var mnemonic = "minute decide short science earn poverty hint install elegant govern genius deputy";
+var mnemonic = "forest over february attitude chunk miss jungle hawk tuna honey improve juice";

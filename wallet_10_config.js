@@ -1,1 +1,1 @@
-var mnemonic = "sphere weird cool kitchen chapter december museum bind crisp era anger buffalo";
+var mnemonic = "kick casino permit limit feed between gospel echo tool road annual match";

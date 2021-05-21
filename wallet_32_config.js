@@ -1,1 +1,1 @@
-var mnemonic = "brother kiss adapt palace because rich uniform pride still bleak finger ostrich";
+var mnemonic = "pony corn clever yard thunder agent peace drama scrub amazing throw benefit";

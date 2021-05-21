@@ -1,1 +1,1 @@
-var mnemonic = "detail rug sugar circle divorce farm company give sound smart donate nose";
+var mnemonic = "consider identify black ugly off law spell flavor material soldier satisfy only";

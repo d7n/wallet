@@ -1,1 +1,1 @@
-var mnemonic = "book amateur travel social legal govern inject donor pumpkin tell whale chef";
+var mnemonic = "famous hair stick midnight surround deal quarter double rhythm cage replace cruel";

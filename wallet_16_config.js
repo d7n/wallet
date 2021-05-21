@@ -1,1 +1,1 @@
-var mnemonic = "nose inject margin cook else pizza grain review december awesome maximum fringe";
+var mnemonic = "attend useful monkey crawl inch family grocery brisk bundle mention chuckle wood";

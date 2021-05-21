@@ -1,1 +1,1 @@
-var mnemonic = "sphere wrap unit inquiry yard middle world tape loud safe fringe evidence";
+var mnemonic = "penalty artist reason fetch churn hollow pelican wire kid stool violin artefact";

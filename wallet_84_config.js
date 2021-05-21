@@ -1,1 +1,1 @@
-var mnemonic = "forest together climb time rough olive protect pulp above celery outer multiply";
+var mnemonic = "bean alter seed scatter romance digital rude rug fault organ enhance fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "tired tube next try maid relax lens fat patch faculty main library";
+var mnemonic = "adjust capable umbrella increase candy horn minimum salad fabric glimpse build sphere";

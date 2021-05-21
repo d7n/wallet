@@ -1,1 +1,1 @@
-var mnemonic = "quiz motion best buzz organ learn hybrid test elder ozone scare stumble";
+var mnemonic = "patch ahead quiz major dinner raise liberty muffin upon obscure category oblige";

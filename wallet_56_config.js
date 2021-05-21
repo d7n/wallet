@@ -1,1 +1,1 @@
-var mnemonic = "vanish paddle bubble injury visit purpose rain twist feed chef roof stock";
+var mnemonic = "gorilla lava file version people scheme heavy since rebuild zoo federal suffer";

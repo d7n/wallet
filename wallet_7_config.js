@@ -1,1 +1,1 @@
-var mnemonic = "unusual curtain envelope initial love stay among flag tattoo sand split hold";
+var mnemonic = "toss draft express cart intact joy source finger blue drama cage neither";

@@ -1,1 +1,1 @@
-var mnemonic = "test fatal street purse mixture stamp camp envelope ripple opinion hero vital";
+var mnemonic = "ocean lemon chase tone blind super harbor tenant bomb metal note picnic";

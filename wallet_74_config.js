@@ -1,1 +1,1 @@
-var mnemonic = "table brand slight example expand march mad inner orphan coyote panel reflect";
+var mnemonic = "belt laundry hybrid squeeze wealth pony boil timber merry speak flat bundle";

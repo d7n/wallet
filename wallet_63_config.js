@@ -1,1 +1,1 @@
-var mnemonic = "menu feed need length now excess boring right time spy three jar";
+var mnemonic = "insect forum knee absurd route food lava lounge cactus example insect bullet";

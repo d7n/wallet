@@ -1,1 +1,1 @@
-var mnemonic = "easy village catalog wolf bomb detect prevent sauce certain tube fault virus";
+var mnemonic = "enhance where wasp review achieve skate field guitar organ sweet spoil actual";
