@@ -1,1 +1,1 @@
-var mnemonic = "say pig dream naive little ancient exist come dog van alpha tiger";
+var mnemonic = "target fever label blush identify scan proud regular cereal layer prevent burden";

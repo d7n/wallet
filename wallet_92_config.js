@@ -1,1 +1,1 @@
-var mnemonic = "soldier island toss hire boost produce thank property skin beauty exist cash";
+var mnemonic = "spatial digital banner faculty fall music oblige faith banana light elegant law";

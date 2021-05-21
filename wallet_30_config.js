@@ -1,1 +1,1 @@
-var mnemonic = "issue hobby good seminar energy fitness clinic second twice obvious wage oblige";
+var mnemonic = "ring fruit brass blue giraffe swap walk theme void used depth pulse";

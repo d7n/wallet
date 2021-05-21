@@ -1,1 +1,1 @@
-var mnemonic = "scan draft truly easy half fault tube immune crack castle portion umbrella";
+var mnemonic = "wait bracket jewel analyst believe orphan cross you flee diet flock dish";

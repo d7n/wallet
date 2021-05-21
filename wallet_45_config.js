@@ -1,1 +1,1 @@
-var mnemonic = "cram refuse glare rent elite mosquito focus furnace private pen sort also";
+var mnemonic = "team ecology prize submit inner explain host dynamic deer valley view abuse";

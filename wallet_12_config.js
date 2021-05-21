@@ -1,1 +1,1 @@
-var mnemonic = "hero ask faint cloth upgrade right velvet gadget jealous fitness engage unable";
+var mnemonic = "illegal response alley faculty skill curve lawn fancy speed sail country click";

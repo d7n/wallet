@@ -1,1 +1,1 @@
-var mnemonic = "aware brand biology enhance permit else all olive wagon kiwi execute lion";
+var mnemonic = "setup forum file buffalo smooth upon lobster mutual aware cluster matter van";

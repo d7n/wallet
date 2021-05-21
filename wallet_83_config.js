@@ -1,1 +1,1 @@
-var mnemonic = "judge demise rocket punch grain genius drink moment correct blue arctic fantasy";
+var mnemonic = "speed hurdle trick salon coin glory test parent input awkward learn kidney";

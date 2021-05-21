@@ -1,1 +1,1 @@
-var mnemonic = "snack guard ivory car method suggest just basic orange brief talk web";
+var mnemonic = "online melt sadness venue angle flower simple clever legend phone people ivory";

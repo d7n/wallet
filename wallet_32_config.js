@@ -1,1 +1,1 @@
-var mnemonic = "trumpet guide never exotic flash fruit milk broccoli myself have search half";
+var mnemonic = "fantasy net island arctic tent bulb pitch shallow dolphin fruit eight special";

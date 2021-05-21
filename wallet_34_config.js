@@ -1,1 +1,1 @@
-var mnemonic = "kite easily just despair favorite smoke recycle winner elbow notice cube pulp";
+var mnemonic = "clip rebel olive worry pill hover idea wide tortoise duck wife mixture";

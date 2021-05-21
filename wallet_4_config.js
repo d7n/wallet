@@ -1,1 +1,1 @@
-var mnemonic = "deliver wisdom obtain spray forest negative verify beach invite rose bitter neglect";
+var mnemonic = "spare where useful embrace marble blouse area obscure fashion replace refuse shoot";

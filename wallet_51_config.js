@@ -1,1 +1,1 @@
-var mnemonic = "resist glad about dune crystal dynamic license leave enter juice potato crash";
+var mnemonic = "fox midnight journey south crater stadium assist merry mad reduce asthma can";

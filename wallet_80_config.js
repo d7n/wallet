@@ -1,1 +1,1 @@
-var mnemonic = "turkey clay start gain jar treat practice solar crunch evil nurse army";
+var mnemonic = "steak kangaroo monitor humor man pencil legal quality umbrella fox goat filter";

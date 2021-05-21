@@ -1,1 +1,1 @@
-var mnemonic = "behind choice loyal tennis public fall abstract donkey total unable only depart";
+var mnemonic = "subway utility weather roast tennis paper bread truck history lend local diesel";

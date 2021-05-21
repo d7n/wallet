@@ -1,1 +1,1 @@
-var mnemonic = "foot heavy utility piano sound alarm hybrid lava sausage else gauge energy";
+var mnemonic = "bread quick coral alter alien lock absurd also flag weekend unlock grid";

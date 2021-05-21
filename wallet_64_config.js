@@ -1,1 +1,1 @@
-var mnemonic = "gloom risk that lizard uncover buyer arrive absorb fault walnut slush evolve";
+var mnemonic = "frozen insect float inner fatal old wrist scorpion leg double wish limb";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity vacant depth until soda rotate call mango can render army garage";
+var mnemonic = "general various invest engine wealth utility cliff lucky tissue will essence balcony";

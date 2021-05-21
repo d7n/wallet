@@ -1,1 +1,1 @@
-var mnemonic = "sand reward dance motor nothing bulb witness clip finish napkin own pear";
+var mnemonic = "maze satisfy head sadness melody sauce federal shift crew ten split mom";

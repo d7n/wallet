@@ -1,1 +1,1 @@
-var mnemonic = "pet false weather large garbage appear upgrade toss clever syrup slice blood";
+var mnemonic = "analyst umbrella main letter celery suit claw inch outer wreck enable such";

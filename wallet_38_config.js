@@ -1,1 +1,1 @@
-var mnemonic = "width snack gasp suit decrease angle morning enhance song mix romance later";
+var mnemonic = "over refuse room shine cushion purity mule student perfect curve host develop";

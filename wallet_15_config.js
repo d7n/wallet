@@ -1,1 +1,1 @@
-var mnemonic = "version spoil hedgehog then cheap use adapt wave mask raccoon chest survey";
+var mnemonic = "inhale speed real teach music wave remember behave medal kangaroo library dinner";

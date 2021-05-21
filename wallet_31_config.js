@@ -1,1 +1,1 @@
-var mnemonic = "stadium split sound negative feed okay inflict acoustic gloom bus theory purse";
+var mnemonic = "picture unique palace relief stage uniform audit fruit helmet thunder gravity have";

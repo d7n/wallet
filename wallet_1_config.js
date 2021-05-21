@@ -1,1 +1,1 @@
-var mnemonic = "stuff air rebuild insane grunt sting task identify snack mandate erupt general";
+var mnemonic = "wait kiwi language wedding autumn short must one bird suspect punch rent";

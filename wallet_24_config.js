@@ -1,1 +1,1 @@
-var mnemonic = "unlock half stem enhance negative section salute trumpet neck despair clap squeeze";
+var mnemonic = "claw hurt will nut easy twice exist shell educate antique trip cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "boil aisle frog original practice hundred library people dice hat near alien";
+var mnemonic = "seminar dynamic prevent clump gather ginger million luggage face midnight jaguar slush";

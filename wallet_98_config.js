@@ -1,1 +1,1 @@
-var mnemonic = "fold job guide medal eye invite junior laptop describe nature flash dune";
+var mnemonic = "robot panic present gun glimpse child echo destroy gown actor curtain maid";

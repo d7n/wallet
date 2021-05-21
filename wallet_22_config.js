@@ -1,1 +1,1 @@
-var mnemonic = "rice resemble leaf affair cute supply quit coconut borrow guard title session";
+var mnemonic = "push debate weird solid buddy warfare chest casino coin cloud permit suit";

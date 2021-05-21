@@ -1,1 +1,1 @@
-var mnemonic = "tube ask busy dynamic brisk food harbor feel middle sibling onion input";
+var mnemonic = "goddess hammer vocal diary energy pipe banana stereo hen wire bulk return";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture exit learn van sting lab explain pink charge glue lawsuit together";
+var mnemonic = "giraffe earn layer lamp grape airport dad resemble tide dumb dizzy frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "place aerobic quality phone hazard fun alcohol man what door hammer cluster";
+var mnemonic = "pair enforce swarm fiscal horse simple private sample uncle bridge erode trend";

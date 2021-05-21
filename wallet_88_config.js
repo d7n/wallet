@@ -1,1 +1,1 @@
-var mnemonic = "few mirror aunt initial faith tree step mandate soul glory increase boring";
+var mnemonic = "tonight valve enact security floor wool decide dove shift twenty sadness sustain";

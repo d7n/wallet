@@ -1,1 +1,1 @@
-var mnemonic = "picture sustain attract rocket mule service sun unique breeze blast vanish agent";
+var mnemonic = "car table solid observe pottery mad unable shy desert hotel insect pattern";

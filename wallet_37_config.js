@@ -1,1 +1,1 @@
-var mnemonic = "push guard frozen renew traffic unaware forum rabbit transfer secret half female";
+var mnemonic = "arrest travel siren post gate afraid gentle pole chest wrist between oppose";

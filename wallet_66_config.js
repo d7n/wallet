@@ -1,1 +1,1 @@
-var mnemonic = "rice flag boring deal economy august excite iron flash symptom topic chat";
+var mnemonic = "window blade lobster wrist test subject hazard fly radio shock flat trumpet";

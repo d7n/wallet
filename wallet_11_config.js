@@ -1,1 +1,1 @@
-var mnemonic = "table elegant office unfold invite rug more repair payment middle symbol spoil";
+var mnemonic = "deny fire trust cushion poem almost aerobic alone magnet sauce industry lizard";

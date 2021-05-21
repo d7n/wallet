@@ -1,1 +1,1 @@
-var mnemonic = "federal interest observe second reveal hover cushion steel unlock add antique pudding";
+var mnemonic = "maid peasant gallery blind bunker first super farm where trouble good limit";

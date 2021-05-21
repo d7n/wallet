@@ -1,1 +1,1 @@
-var mnemonic = "mesh story image coach injury cigar dress practice fade snake pottery dad";
+var mnemonic = "clap inspire fly youth top ill shiver bird conduct carbon sudden jacket";

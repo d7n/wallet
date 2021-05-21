@@ -1,1 +1,1 @@
-var mnemonic = "kitchen wrong arrange feed practice tiger pilot cricket fresh luxury taste behind";
+var mnemonic = "alien gospel slight hamster fine session few you denial solve skill head";

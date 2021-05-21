@@ -1,1 +1,1 @@
-var mnemonic = "hollow dad cool april route comfort know record garbage double vibrant claw";
+var mnemonic = "gather donor indoor fluid injury yellow shaft squeeze horror matter south fog";

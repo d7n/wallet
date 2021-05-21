@@ -1,1 +1,1 @@
-var mnemonic = "renew course uncover maple blade draw resource kiwi garage camp anchor among";
+var mnemonic = "uncover glide river country hair crash burst utility west cliff coyote license";

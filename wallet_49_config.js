@@ -1,1 +1,1 @@
-var mnemonic = "blanket cricket trap furnace gossip trouble casual defense topic special lock pigeon";
+var mnemonic = "blood add broom fiscal scale length enable forget feature grab word glory";

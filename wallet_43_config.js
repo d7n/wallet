@@ -1,1 +1,1 @@
-var mnemonic = "awful extend jaguar banana dentist reward galaxy drama gas robot hybrid oblige";
+var mnemonic = "cloth erode lady shoe sorry inside marriage hat phrase club mechanic entire";

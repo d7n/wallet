@@ -1,1 +1,1 @@
-var mnemonic = "social gain someone badge ritual differ shiver glass virus bitter sentence report";
+var mnemonic = "brother coin prize boat aisle reduce select ocean around device eye festival";

@@ -1,1 +1,1 @@
-var mnemonic = "mean divorce street type exclude session poverty cry mule wood plastic target";
+var mnemonic = "copy rotate unique always song time diesel priority audit husband festival final";

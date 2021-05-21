@@ -1,1 +1,1 @@
-var mnemonic = "super kidney help door over pear smoke leg blind similar pluck uniform";
+var mnemonic = "movie mystery network mirror earth have exit cruel already damage clown argue";

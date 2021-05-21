@@ -1,1 +1,1 @@
-var mnemonic = "practice vacuum work learn raw exchange aim duty fabric actor thank state";
+var mnemonic = "digital bronze camp fiction wrap popular frown evidence carry beyond barrel aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect reward similar fix thought into antique taxi region legal notable kiwi";
+var mnemonic = "sign panic media spawn shy barrel minute monster question rhythm shadow door";

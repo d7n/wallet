@@ -1,1 +1,1 @@
-var mnemonic = "cargo sight debris famous easy magic eyebrow pride glare blast loud drama";
+var mnemonic = "comfort joke surround try leisure high camp gym heart horror canal truth";

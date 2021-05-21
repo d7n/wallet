@@ -1,1 +1,1 @@
-var mnemonic = "danger birth conduct consider pear sniff mom gossip neutral able affair sketch";
+var mnemonic = "medal aisle rose tiny enable armor patient hammer type episode leg embark";

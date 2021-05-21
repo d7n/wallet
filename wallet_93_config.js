@@ -1,1 +1,1 @@
-var mnemonic = "plate ignore inner fantasy index core depart try october agent surprise buddy";
+var mnemonic = "common ramp confirm color fitness dry raise approve model wing exotic clog";

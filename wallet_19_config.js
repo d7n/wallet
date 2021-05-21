@@ -1,1 +1,1 @@
-var mnemonic = "energy position want jealous knock armor make hub crucial rate middle tide";
+var mnemonic = "east pulp trouble hold apart version volume world index actor acquire silk";

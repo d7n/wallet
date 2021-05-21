@@ -1,1 +1,1 @@
-var mnemonic = "deal dog drastic fish year nothing tiger equip napkin indoor side rib";
+var mnemonic = "live cave gadget minute suffer valve green hawk demand brief veteran place";

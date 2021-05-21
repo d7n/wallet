@@ -1,1 +1,1 @@
-var mnemonic = "certain reason parent harvest neck draft pear mule depart meadow furnace universe";
+var mnemonic = "wait common submit unhappy impulse gadget nominee symptom bag toilet tennis cry";

@@ -1,1 +1,1 @@
-var mnemonic = "salt injury term exist typical rural addict crouch couch hedgehog episode gloom";
+var mnemonic = "length armor ensure become skill student cash shoot marble cruel typical night";

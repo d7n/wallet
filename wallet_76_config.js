@@ -1,1 +1,1 @@
-var mnemonic = "amount solution wool style gentle garbage guitar across tortoise kiwi soft cousin";
+var mnemonic = "elegant first correct ring hen forest student october stick rural logic sad";

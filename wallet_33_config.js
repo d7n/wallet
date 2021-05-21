@@ -1,1 +1,1 @@
-var mnemonic = "august stool weapon scissors catch mirror review unique pink trust joy scissors";
+var mnemonic = "wall stone pen rotate carbon source pupil judge milk race huge casino";

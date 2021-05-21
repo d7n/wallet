@@ -1,1 +1,1 @@
-var mnemonic = "jungle twenty mushroom year ensure three nut lunch visa nuclear immense milk";
+var mnemonic = "cotton ginger myth wedding sad protect identify crawl nothing pledge pencil visit";

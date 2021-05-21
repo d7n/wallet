@@ -1,1 +1,1 @@
-var mnemonic = "hero consider hill zebra radio hour modify elbow staff bronze need piano";
+var mnemonic = "lamp measure venture wrap apart sunset dirt rescue travel uniform faith census";

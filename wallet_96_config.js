@@ -1,1 +1,1 @@
-var mnemonic = "scorpion inner crystal belt desert settle adult blind thunder sketch sell coach";
+var mnemonic = "payment possible army message relief wreck bunker blind plunge heart exercise swing";

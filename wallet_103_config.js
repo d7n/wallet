@@ -1,1 +1,1 @@
-var mnemonic = "filter bundle allow pond actual earn position six confirm produce hint glance";
+var mnemonic = "little chuckle dinosaur athlete tool own elevator gauge panther biology brief fatigue";

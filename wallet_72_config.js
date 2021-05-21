@@ -1,1 +1,1 @@
-var mnemonic = "weapon speak gossip ritual allow flag broccoli awesome card circle unlock isolate";
+var mnemonic = "borrow birth satisfy carbon surround talent slow any walnut chunk curve museum";

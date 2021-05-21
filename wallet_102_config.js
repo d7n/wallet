@@ -1,1 +1,1 @@
-var mnemonic = "swing tumble length other proud dial bring depart cherry curtain weather confirm";
+var mnemonic = "acid office gentle lunch sniff liar pyramid fury ripple sick meadow recall";

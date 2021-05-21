@@ -1,1 +1,1 @@
-var mnemonic = "place stumble nephew chicken dad typical fuel list edge sustain express draft";
+var mnemonic = "helmet six elbow axis device glue genre lesson include effort thunder cannon";

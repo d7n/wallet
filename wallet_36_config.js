@@ -1,1 +1,1 @@
-var mnemonic = "smart brave rally youth draft civil skate thought night bundle cram depend";
+var mnemonic = "blanket man joke neglect goose filter muscle begin chair water tooth engage";

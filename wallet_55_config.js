@@ -1,1 +1,1 @@
-var mnemonic = "prize bring thank clown text oak debate album merge almost view again";
+var mnemonic = "enrich absurd submit energy small rely business click enjoy year one where";

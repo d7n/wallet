@@ -1,1 +1,1 @@
-var mnemonic = "unusual pig fade faith source oil public stadium plunge source verb crack";
+var mnemonic = "fragile slot setup deliver rabbit disorder reunion pony carry olympic debate destroy";

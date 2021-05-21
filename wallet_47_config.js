@@ -1,1 +1,1 @@
-var mnemonic = "gym process network simple ignore pistol flame conduct invite coil spring gravity";
+var mnemonic = "diesel capital dust traffic anxiety lion pupil giant history aerobic physical legend";

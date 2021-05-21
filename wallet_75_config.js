@@ -1,1 +1,1 @@
-var mnemonic = "dwarf two success load wage task valve easily liberty monster place claim";
+var mnemonic = "trigger allow aware spy edge obscure shadow tribe share essence clutch december";

@@ -1,1 +1,1 @@
-var mnemonic = "rude better tiger actual mistake disorder million domain result nuclear fault exit";
+var mnemonic = "include diet science rail already family fuel elbow prefer derive that extend";

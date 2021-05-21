@@ -1,1 +1,1 @@
-var mnemonic = "theory flush spatial critic step purpose city humor spring online prepare above";
+var mnemonic = "category end help reason lamp barely cover scan jump when display canvas";

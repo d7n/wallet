@@ -1,1 +1,1 @@
-var mnemonic = "test again toast oyster senior gentle type auto carpet spend fetch grit";
+var mnemonic = "dose pistol crime cluster drip paddle priority used amateur lemon poem news";

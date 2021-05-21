@@ -1,1 +1,1 @@
-var mnemonic = "blood visual night pottery dawn rotate wall liquid stomach public wall satisfy";
+var mnemonic = "certain imitate disagree occur wheel slot high mixed swing repair robot fork";

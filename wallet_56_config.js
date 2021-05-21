@@ -1,1 +1,1 @@
-var mnemonic = "ugly remain lady pluck now gate news daughter twelve brave gorilla state";
+var mnemonic = "normal faculty sustain soap sunset ecology potato camera lend fine furnace build";

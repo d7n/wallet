@@ -1,1 +1,1 @@
-var mnemonic = "flight portion pencil suspect drill moon few infant jacket figure fashion sea";
+var mnemonic = "sail minor blanket quote eagle tool cloud timber absurd shoot awesome bitter";

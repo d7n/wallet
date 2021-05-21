@@ -1,1 +1,1 @@
-var mnemonic = "stadium fire chef barely rent smoke labor caught cupboard vacant crouch roof";
+var mnemonic = "riot bird click best crunch denial iron inform gym sand legal electric";

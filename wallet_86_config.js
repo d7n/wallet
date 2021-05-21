@@ -1,1 +1,1 @@
-var mnemonic = "maple approve sight crush mushroom north glad west reward spirit baby olympic";
+var mnemonic = "cricket push dentist once foot come acoustic link busy icon coconut hour";

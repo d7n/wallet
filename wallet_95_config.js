@@ -1,1 +1,1 @@
-var mnemonic = "crash expand phone harvest elbow learn august sure wreck smooth salt smoke";
+var mnemonic = "spider room enhance adjust analyst tonight minor snow chicken lyrics attract merry";

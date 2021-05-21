@@ -1,1 +1,1 @@
-var mnemonic = "army chalk clip indoor appear dove medal test roast sadness brick doctor";
+var mnemonic = "someone conduct valid crumble silent order ten large burger misery brief broccoli";

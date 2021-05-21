@@ -1,1 +1,1 @@
-var mnemonic = "bag anxiety bar square liar disorder clever hurdle industry wrestle garlic above";
+var mnemonic = "flip teach discover woman need skate avoid video nature team possible squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "gun wine shield gorilla eye slow credit lens catalog grant purchase hard";
+var mnemonic = "assist flag kick wise gadget edit smooth glow antenna chat strike horse";

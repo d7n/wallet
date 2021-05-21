@@ -1,1 +1,1 @@
-var mnemonic = "multiply public broccoli arrest brown student pitch grass boat climb turkey brisk";
+var mnemonic = "ostrich depart hidden rocket hotel ranch short awful hurdle west expire net";

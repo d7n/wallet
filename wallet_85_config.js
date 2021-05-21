@@ -1,1 +1,1 @@
-var mnemonic = "knife alert youth noodle area general return flame admit robot park mouse";
+var mnemonic = "circle cave february olympic original shell shell gospel divert fuel gauge piano";

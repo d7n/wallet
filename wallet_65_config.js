@@ -1,1 +1,1 @@
-var mnemonic = "predict piece ankle veteran umbrella illness behave mountain latin hard soft butter";
+var mnemonic = "air category olympic foil again negative oppose knee inspire solve focus busy";

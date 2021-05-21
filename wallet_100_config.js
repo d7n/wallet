@@ -1,1 +1,1 @@
-var mnemonic = "valve involve census convince afraid raise snap glide caution correct island ahead";
+var mnemonic = "nuclear dirt rifle audit top protect short cycle dolphin dust utility hammer";

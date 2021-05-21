@@ -1,1 +1,1 @@
-var mnemonic = "imitate alarm crumble real mango clay shed wild paper invest real estate";
+var mnemonic = "atom husband income drill civil float cigar ready swamp affair extend floor";

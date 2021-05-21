@@ -1,1 +1,1 @@
-var mnemonic = "boost more ball method cargo soul human spoon vapor combine tunnel census";
+var mnemonic = "wheel fiber another path evil twice field reject cactus off snow art";

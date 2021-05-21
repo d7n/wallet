@@ -1,1 +1,1 @@
-var mnemonic = "undo enrich dragon path pluck differ blind alter second long scrap crowd";
+var mnemonic = "breeze fresh powder unhappy company impose size bamboo tomorrow bridge apart glimpse";

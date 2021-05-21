@@ -1,1 +1,1 @@
-var mnemonic = "sail canyon dirt liberty soft cycle merit network chuckle spend unique monitor";
+var mnemonic = "purchase juice source vessel empty antique rare scissors west renew trumpet cigar";

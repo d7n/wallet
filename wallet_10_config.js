@@ -1,1 +1,1 @@
-var mnemonic = "guess kind gown census resist enjoy move banana all promote lazy defense";
+var mnemonic = "alarm scrap put breeze parrot dolphin sail nation punch tennis soon script";

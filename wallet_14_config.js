@@ -1,1 +1,1 @@
-var mnemonic = "clutch culture recall key blanket defense kind myth shallow sea congress section";
+var mnemonic = "pledge casual omit record melt cigar message impulse ranch false gap agree";

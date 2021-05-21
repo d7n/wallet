@@ -1,1 +1,1 @@
-var mnemonic = "wish antenna abandon gasp device million response sunset dice spend auto blur";
+var mnemonic = "orphan raccoon candy build begin pink final already clay hero young neglect";

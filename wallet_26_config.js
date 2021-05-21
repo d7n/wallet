@@ -1,1 +1,1 @@
-var mnemonic = "human ridge lend betray trip market buffalo hour trust theme layer casino";
+var mnemonic = "dignity key reject kite flavor one ribbon real drama enforce news help";

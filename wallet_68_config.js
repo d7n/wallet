@@ -1,1 +1,1 @@
-var mnemonic = "subway portion toy shadow woman blade evoke cupboard dinner egg raccoon effort";
+var mnemonic = "flee acoustic peanut phone mercy filter gauge tide timber own tortoise analyst";

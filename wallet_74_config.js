@@ -1,1 +1,1 @@
-var mnemonic = "brown luxury gaze mercy drive merry fold math asthma census pioneer turkey";
+var mnemonic = "aisle dust venue simple case fossil news false oven foil toss chuckle";

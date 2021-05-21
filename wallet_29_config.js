@@ -1,1 +1,1 @@
-var mnemonic = "either wheat father fan deal meat health hood fitness buddy want moral";
+var mnemonic = "vendor tonight decide circle run attend naive kitten trophy expect place open";

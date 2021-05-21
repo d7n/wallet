@@ -1,1 +1,1 @@
-var mnemonic = "hockey february almost trouble life burst laundry fortune shield language beyond brisk";
+var mnemonic = "excite close income style fiscal pole bone crazy mechanic pottery kid digital";

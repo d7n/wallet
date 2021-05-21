@@ -1,1 +1,1 @@
-var mnemonic = "camp usage observe exhibit shiver rocket angle two pulp venture mother usual";
+var mnemonic = "forum expose snap angle that check similar antique truly twenty caught great";
