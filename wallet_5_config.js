@@ -1,1 +1,1 @@
-var mnemonic = "marine water relax manage such dose language wage submit endorse young exchange";
+var mnemonic = "goose ridge fatal finger liberty sorry battle travel town once copper fortune";

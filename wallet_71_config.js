@@ -1,1 +1,1 @@
-var mnemonic = "panic bottom broken learn grunt thing rookie enhance cactus skate lunch strategy";
+var mnemonic = "cruise style awful donkey illness judge travel when foster gather agree know";

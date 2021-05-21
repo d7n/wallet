@@ -1,1 +1,1 @@
-var mnemonic = "mercy upper vanish inch engine wagon check blush torch depend enroll hunt";
+var mnemonic = "comfort morning remember mesh brown strong medal outdoor pool remind prison rapid";

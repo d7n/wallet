@@ -1,1 +1,1 @@
-var mnemonic = "fat age deliver december define glass expand helmet visa over casino give";
+var mnemonic = "absurd upset silver journey long upset receive harvest trash onion scheme wash";

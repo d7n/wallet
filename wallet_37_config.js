@@ -1,1 +1,1 @@
-var mnemonic = "energy excuse actress title merit consider evidence sausage kid erupt lounge rose";
+var mnemonic = "depend ensure lens strong muscle because join avocado security subject fork february";

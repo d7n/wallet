@@ -1,1 +1,1 @@
-var mnemonic = "spice use music spice fire advance cliff tornado engine wool between fluid";
+var mnemonic = "earn allow curious ensure young subject orient dove behave hurry high casual";

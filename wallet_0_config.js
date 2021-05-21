@@ -1,1 +1,1 @@
-var mnemonic = "unaware keep venture recipe tired balcony insect fun inside age basic garden";
+var mnemonic = "age quality erase prosper master strike light emotion year artist blanket diamond";

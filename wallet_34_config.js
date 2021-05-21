@@ -1,1 +1,1 @@
-var mnemonic = "oppose maximum pledge silent stem flock concert hurt raccoon plunge exist auto";
+var mnemonic = "engage lizard shy magic turn early ask submit wide depth mother surface";

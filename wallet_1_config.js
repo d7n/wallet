@@ -1,1 +1,1 @@
-var mnemonic = "clown output any achieve thumb song frown wolf dynamic steel ice curtain";
+var mnemonic = "forum zero click repair rug travel struggle rabbit spring palm draft humble";

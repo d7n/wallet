@@ -1,1 +1,1 @@
-var mnemonic = "scene tiger outer worry observe fire cloud young upgrade fiber bridge december";
+var mnemonic = "list bring clip umbrella animal real priority raw cruel volcano mixed average";

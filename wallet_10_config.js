@@ -1,1 +1,1 @@
-var mnemonic = "victory autumn angry stadium receive bind enhance slight hub trick soft task";
+var mnemonic = "practice soul heart general anxiety sibling custom civil chunk under garden index";

@@ -1,1 +1,1 @@
-var mnemonic = "segment stone quote claw eternal link song ozone below rocket boat toy";
+var mnemonic = "inside across stairs vibrant client car coast like spawn hill gift census";

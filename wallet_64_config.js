@@ -1,1 +1,1 @@
-var mnemonic = "shuffle disease purse portion water rude help sport cake venture expire absent";
+var mnemonic = "proof shock verb crouch parrot arch near useful card wolf airport arrest";

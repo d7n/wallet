@@ -1,1 +1,1 @@
-var mnemonic = "genuine million bar vague vote quarter fiction lend laugh render fatigue sister";
+var mnemonic = "wear sadness display weasel flee sheriff paddle basket teach chapter kitten thank";

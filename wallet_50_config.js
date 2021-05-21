@@ -1,1 +1,1 @@
-var mnemonic = "april top push love oppose mandate habit wealth taxi burst grunt work";
+var mnemonic = "rich consider split camp appear burden anxiety copper crisp punch cross energy";

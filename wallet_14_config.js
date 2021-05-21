@@ -1,1 +1,1 @@
-var mnemonic = "harbor bus output fresh cake comic worry cart remember fever lucky staff";
+var mnemonic = "first gravity gym title plunge scheme fresh model select month person best";

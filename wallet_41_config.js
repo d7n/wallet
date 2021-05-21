@@ -1,1 +1,1 @@
-var mnemonic = "return ethics brother cook client fat share theory bonus behave project fatigue";
+var mnemonic = "hurt cause stuff loyal sick exchange select need human soup carry gallery";

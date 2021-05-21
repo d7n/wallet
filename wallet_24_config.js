@@ -1,1 +1,1 @@
-var mnemonic = "include merge strategy fantasy draft ivory also add pony fit member recipe";
+var mnemonic = "century myself estate best alarm suffer banana weekend hamster remember wave skin";

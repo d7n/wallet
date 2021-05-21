@@ -1,1 +1,1 @@
-var mnemonic = "forum middle you width tape obvious rally chase diary square bird level";
+var mnemonic = "nation use ghost weird lake boil carbon trial glide north razor foam";

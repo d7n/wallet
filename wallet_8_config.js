@@ -1,1 +1,1 @@
-var mnemonic = "giant useless morning surround student alarm siren feel original flee potato degree";
+var mnemonic = "muffin work obtain hub bread rebel elegant antique pink hand speed retire";

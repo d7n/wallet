@@ -1,1 +1,1 @@
-var mnemonic = "such empower parent gain mom young input that exist busy verb ball";
+var mnemonic = "urban evidence end glove begin erode cake flower target fury liberty body";

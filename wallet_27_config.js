@@ -1,1 +1,1 @@
-var mnemonic = "deer sister pool sting syrup leader fragile elevator crystal else melt monster";
+var mnemonic = "rose sting indoor live beef banner grace brick bridge rotate erase pyramid";

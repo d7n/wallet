@@ -1,1 +1,1 @@
-var mnemonic = "exit chat letter urban load code limb empty retreat jump cram middle";
+var mnemonic = "faith rifle section script tourist dynamic robust flee pulse rival brave offer";

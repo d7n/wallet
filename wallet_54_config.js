@@ -1,1 +1,1 @@
-var mnemonic = "square wrist mouse live shadow hold please legal draw reject eternal senior";
+var mnemonic = "permit economy shield diamond birth tackle grunt shallow minor initial impulse inquiry";

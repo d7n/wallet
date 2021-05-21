@@ -1,1 +1,1 @@
-var mnemonic = "smoke loop kidney flash draw frost glow truly ask rebuild century ketchup";
+var mnemonic = "inject hand embark two until horse danger garbage negative apology then consider";

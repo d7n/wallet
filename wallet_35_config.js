@@ -1,1 +1,1 @@
-var mnemonic = "old basic alone merit shove fade orange office absent round ranch mercy";
+var mnemonic = "absent fog traffic vendor reunion ring anger noble deliver symptom mass shock";

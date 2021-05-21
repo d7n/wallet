@@ -1,1 +1,1 @@
-var mnemonic = "suffer maximum now project mutual submit wrist ivory huge smart undo album";
+var mnemonic = "mango toy present victory mosquito bottom dutch skill absurd dentist praise cigar";

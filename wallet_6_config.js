@@ -1,1 +1,1 @@
-var mnemonic = "timber bread stem nest leg angry vague clean warfare mutual obey memory";
+var mnemonic = "oak spend model identify news vintage flush urban elephant regular mechanic same";

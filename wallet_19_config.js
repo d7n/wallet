@@ -1,1 +1,1 @@
-var mnemonic = "argue thumb major valve breeze surge lawsuit say tuition garage letter degree";
+var mnemonic = "shoe great venue impact palace company decorate ill weasel eternal birth height";

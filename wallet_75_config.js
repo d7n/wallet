@@ -1,1 +1,1 @@
-var mnemonic = "globe peanut tennis gossip settle pool please cattle impulse web ignore leg";
+var mnemonic = "sunset live skull slim cream range face quick margin crisp occur dragon";

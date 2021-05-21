@@ -1,1 +1,1 @@
-var mnemonic = "earn provide pledge ability omit original century hunt section clay damp plug";
+var mnemonic = "obey toward enroll velvet next unusual scatter away cube butter elbow peanut";

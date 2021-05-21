@@ -1,1 +1,1 @@
-var mnemonic = "seed rabbit vendor analyst report rate lucky flip bubble cloud law noodle";
+var mnemonic = "nut inject balance scheme banana trouble box switch license silent lion cube";

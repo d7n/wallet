@@ -1,1 +1,1 @@
-var mnemonic = "waste property lunar champion judge rebel buffalo tackle deposit odor doctor excess";
+var mnemonic = "unknown law that glide rude bounce extend celery adapt major seven around";

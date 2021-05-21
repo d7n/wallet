@@ -1,1 +1,1 @@
-var mnemonic = "monitor recycle dust loan coin file canvas ginger neutral wear celery battle";
+var mnemonic = "select fun mean find lunch stay because direct spread execute divorce property";

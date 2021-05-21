@@ -1,1 +1,1 @@
-var mnemonic = "minute wood hazard either shallow art found cricket blouse roast organ kind";
+var mnemonic = "half symbol fortune pulp promote aunt traffic eager news bulk ready vast";

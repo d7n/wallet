@@ -1,1 +1,1 @@
-var mnemonic = "clerk unfold october price chicken inside egg square bike rely burst remove";
+var mnemonic = "envelope balance swallow raise wet melt void test hour into orchard artist";

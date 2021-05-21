@@ -1,1 +1,1 @@
-var mnemonic = "try rebuild gap normal giraffe include give edit arrange dad cricket fence";
+var mnemonic = "insect wire coyote dumb erode panic favorite live east axis lawn insect";

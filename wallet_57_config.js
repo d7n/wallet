@@ -1,1 +1,1 @@
-var mnemonic = "offer cage wrist spoon remind click crash embody arrow saddle radar shift";
+var mnemonic = "truck hour father skirt cannon color silver envelope clarify lesson clock tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "trial casual gloom library become hope sustain engage carbon few teach bounce";
+var mnemonic = "oil rent december monster merit prefer van slab shrug gasp can prepare";

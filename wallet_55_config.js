@@ -1,1 +1,1 @@
-var mnemonic = "begin flock royal end much rhythm real used long smooth hole sheriff";
+var mnemonic = "safe cruise wedding earn note gossip below sudden stone account extend shift";

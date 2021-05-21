@@ -1,1 +1,1 @@
-var mnemonic = "sail puppy taxi cable wedding decide mushroom elder top similar impose spoon";
+var mnemonic = "fitness great boss adult educate mule pause school process tornado head cube";

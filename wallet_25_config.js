@@ -1,1 +1,1 @@
-var mnemonic = "palace age plug belt palm drama voyage angry click snow next recall";
+var mnemonic = "neck jealous soda cross usual deputy pink young fog hollow robust fragile";

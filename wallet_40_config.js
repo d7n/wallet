@@ -1,1 +1,1 @@
-var mnemonic = "pretty clarify engage scatter adapt wife relief resource minor gather host grit";
+var mnemonic = "salute vocal gallery develop permit uncle hammer spend ready artefact company recipe";

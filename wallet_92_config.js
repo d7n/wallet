@@ -1,1 +1,1 @@
-var mnemonic = "change present debate display category sketch case oval cushion hub edit honey";
+var mnemonic = "raise simple pitch pizza stove fox august any aim crime gasp duck";

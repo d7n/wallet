@@ -1,1 +1,1 @@
-var mnemonic = "group grain aunt play alert valley victory twice fox deposit wage misery";
+var mnemonic = "rare rate invest jazz rain surround patrol empty retire guess shield rural";

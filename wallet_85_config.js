@@ -1,1 +1,1 @@
-var mnemonic = "talent piano will change they victory month slot gossip knife push pizza";
+var mnemonic = "capable level bicycle float jaguar clock swarm fly august already child soon";

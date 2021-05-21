@@ -1,1 +1,1 @@
-var mnemonic = "erosion mind burden electric mesh nice sniff elephant home split liberty dawn";
+var mnemonic = "elevator ability industry wall length veteran evidence surge never resource cliff foil";

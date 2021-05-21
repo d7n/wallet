@@ -1,1 +1,1 @@
-var mnemonic = "farm process tackle program style dry appear luxury one verb ten dash";
+var mnemonic = "illegal trade lottery violin run bulb clap snow cricket muffin sniff gain";

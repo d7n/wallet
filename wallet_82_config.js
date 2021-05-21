@@ -1,1 +1,1 @@
-var mnemonic = "retreat price magic accuse member oven border relief prevent churn prize borrow";
+var mnemonic = "breeze theory whisper able good bag demand skin meat style uniform inform";

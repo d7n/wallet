@@ -1,1 +1,1 @@
-var mnemonic = "ugly syrup badge puppy exclude claw crane betray address fashion flame icon";
+var mnemonic = "misery parrot replace animal window critic depart similar taxi region exile emotion";

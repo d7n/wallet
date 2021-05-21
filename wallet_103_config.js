@@ -1,1 +1,1 @@
-var mnemonic = "render avoid ceiling merge chest enrich swear daughter video enroll impact move";
+var mnemonic = "dismiss relief joke future until door gas school tell ready dilemma rescue";

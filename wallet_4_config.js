@@ -1,1 +1,1 @@
-var mnemonic = "much cradle float knock scatter night phrase alter nose brass capable improve";
+var mnemonic = "transfer obey royal bachelor burst volcano old behave usage opera verify force";

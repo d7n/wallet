@@ -1,1 +1,1 @@
-var mnemonic = "summer enough project adapt sweet cactus weather light venue jeans near hammer";
+var mnemonic = "hockey void critic kit december forget three actual obscure trigger polar pen";

@@ -1,1 +1,1 @@
-var mnemonic = "focus seven item fossil high certain soup industry cup crisp region skull";
+var mnemonic = "acoustic alarm catalog three sail odor romance welcome curve canal leave level";

@@ -1,1 +1,1 @@
-var mnemonic = "know gather captain offer expect zero borrow agree addict tag south either";
+var mnemonic = "quantum battle decide exercise seat best light define twelve chalk render keen";

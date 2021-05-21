@@ -1,1 +1,1 @@
-var mnemonic = "vital camp stereo curve time lava trigger auction grass device report mind";
+var mnemonic = "use patrol then gaze effort multiply spawn purse large bundle panther mention";

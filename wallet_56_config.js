@@ -1,1 +1,1 @@
-var mnemonic = "begin train problem umbrella width layer brother horror strike early left clean";
+var mnemonic = "say fiscal oak clarify pact ripple message tomato fade feed between erase";

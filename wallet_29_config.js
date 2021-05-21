@@ -1,1 +1,1 @@
-var mnemonic = "scale slogan shell still they want combine nest odor crane visit protect";
+var mnemonic = "help kit firm spatial plug kid broom interest vintage retire horn squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "act tuna pistol cruise job federal inject leg lift rug decline list";
+var mnemonic = "quality expire nest deer sweet void onion upon prison boring creek eye";

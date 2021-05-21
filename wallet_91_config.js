@@ -1,1 +1,1 @@
-var mnemonic = "sorry enough water naive vicious dragon rough kingdom enough arch merry warfare";
+var mnemonic = "typical wasp enter gold small alone crunch liberty cross raven same gold";

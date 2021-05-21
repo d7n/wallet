@@ -1,1 +1,1 @@
-var mnemonic = "winner muffin shuffle mirror sister puzzle frown bird column wedding source local";
+var mnemonic = "negative glove shuffle century outer undo wall neither inhale assault achieve move";

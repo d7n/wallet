@@ -1,1 +1,1 @@
-var mnemonic = "memory flash already midnight shaft vast meat fabric panic trust swift record";
+var mnemonic = "travel section knee output like cool muffin lion rival extend culture hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "spell audit alarm curious orphan stage print need arrive globe trust battle";
+var mnemonic = "stem banner horn air whip pencil stage brain upgrade tornado trial chronic";

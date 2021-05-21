@@ -1,1 +1,1 @@
-var mnemonic = "athlete frame angry industry permit asset unit rally click toddler wealth runway";
+var mnemonic = "auto sound nature sentence elder guilt whip cruel zero artefact youth guard";

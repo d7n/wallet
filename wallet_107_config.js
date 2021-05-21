@@ -1,1 +1,1 @@
-var mnemonic = "still flavor knife energy vibrant foil disagree bottom rib gentle right silver";
+var mnemonic = "logic body easy pulp visa spoon slow segment donate turtle cruel library";

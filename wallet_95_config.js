@@ -1,1 +1,1 @@
-var mnemonic = "nothing sweet good loop journey logic early danger boat six helmet cable";
+var mnemonic = "sibling border tilt daughter battle depart mystery club topple nothing burst outer";

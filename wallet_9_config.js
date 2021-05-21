@@ -1,1 +1,1 @@
-var mnemonic = "level unaware rose despair boring push wash throw marble cream race country";
+var mnemonic = "script indoor pill twelve burden case engine coconut crowd admit record base";

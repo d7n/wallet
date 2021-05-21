@@ -1,1 +1,1 @@
-var mnemonic = "spatial negative wing solve media school hero blossom prize galaxy insane enact";
+var mnemonic = "gloom crawl pony time bright repeat slender reason holiday fantasy armor make";

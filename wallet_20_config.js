@@ -1,1 +1,1 @@
-var mnemonic = "curtain deputy dismiss legal stuff resemble attack isolate achieve battle amount ghost";
+var mnemonic = "genre still cycle anger average orbit hazard square have labor make reveal";

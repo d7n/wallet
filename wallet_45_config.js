@@ -1,1 +1,1 @@
-var mnemonic = "spot level attitude olive earn skill garage cigar dream endorse idle vibrant";
+var mnemonic = "junk shell vehicle dust erosion used wild sniff start bind bomb since";

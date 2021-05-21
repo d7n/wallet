@@ -1,1 +1,1 @@
-var mnemonic = "soda grab panic caution cart lumber nature sugar time muffin disagree swamp";
+var mnemonic = "summer what case next acoustic add alpha strong auto among veteran misery";

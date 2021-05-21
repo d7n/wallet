@@ -1,1 +1,1 @@
-var mnemonic = "parade post peanut replace general blanket trigger order page punch valid lunch";
+var mnemonic = "under purse clip case april odor miss exhaust pink damp little escape";

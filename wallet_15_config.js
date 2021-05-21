@@ -1,1 +1,1 @@
-var mnemonic = "tissue public arch process diary twice tent tongue hub tiger unique echo";
+var mnemonic = "script pact oyster harbor valley velvet hint access boring axis month breeze";

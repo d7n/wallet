@@ -1,1 +1,1 @@
-var mnemonic = "quarter rabbit interest another open garbage nasty check blouse coin olive lesson";
+var mnemonic = "festival brass tent wool rent iron select fine stomach broken diesel style";

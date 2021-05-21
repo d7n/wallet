@@ -1,1 +1,1 @@
-var mnemonic = "stadium account pink scare gun portion garage winter cart beyond beef item";
+var mnemonic = "tip fantasy usual spoil impact move outside rifle situate issue poem ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "legend marriage obvious load east such wish gym swarm ladder glance metal";
+var mnemonic = "host stock labor never december ticket screen huge sock meat empower upper";

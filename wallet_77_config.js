@@ -1,1 +1,1 @@
-var mnemonic = "menu shiver cute core better medal gallery main measure symbol want magic";
+var mnemonic = "salute pilot breeze sign public word gorilla collect exchange wire quit dignity";

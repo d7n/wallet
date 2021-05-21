@@ -1,1 +1,1 @@
-var mnemonic = "deal meadow panda word behave kidney about soul skill amount then rent";
+var mnemonic = "flag borrow toast memory taxi require explain case east moon rose swarm";

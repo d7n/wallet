@@ -1,1 +1,1 @@
-var mnemonic = "course version wet gym way leopard happy modify response coyote join much";
+var mnemonic = "scrap direct expand among soup good tree wrist tower fiber retreat above";

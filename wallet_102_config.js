@@ -1,1 +1,1 @@
-var mnemonic = "pepper cupboard trial area flame behind animal fee horse pledge patrol lumber";
+var mnemonic = "dove action melt practice category step hobby defense trick antique since kid";

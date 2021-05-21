@@ -1,1 +1,1 @@
-var mnemonic = "such pigeon execute degree display debate smooth snack remind receive bargain main";
+var mnemonic = "fringe general consider pride fold sphere inmate crop glory weekend scare oven";

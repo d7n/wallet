@@ -1,1 +1,1 @@
-var mnemonic = "together measure settle icon mind squeeze ill stick cost runway diesel dance";
+var mnemonic = "wave embark genre segment noodle nature injury plate fatal public car female";

@@ -1,1 +1,1 @@
-var mnemonic = "rice cupboard sound ankle smile drink assist biology comic draw mind mechanic";
+var mnemonic = "forum rhythm pair broom core work repair embark concert desk exhibit hill";
