@@ -1,1 +1,1 @@
-var mnemonic = "party task tag alien armor panic grass carry cruel doll monster width";
+var mnemonic = "raccoon midnight arch chat tissue forget fruit cheese else file response fatigue";

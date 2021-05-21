@@ -1,1 +1,1 @@
-var mnemonic = "eager coin world flight drama surprise park marble nothing patient sick bring";
+var mnemonic = "hurry regular wagon amused candy fault imitate acquire ceiling check frequent protect";

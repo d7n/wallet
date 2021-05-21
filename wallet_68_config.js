@@ -1,1 +1,1 @@
-var mnemonic = "permit endorse fan cousin strike canyon pioneer debate assist divide runway pistol";
+var mnemonic = "vacuum pizza net mention force leave tornado fatal deliver slogan day dish";

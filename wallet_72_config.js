@@ -1,1 +1,1 @@
-var mnemonic = "any gaze muscle theory inherit public glad else velvet bus idea time";
+var mnemonic = "rebuild size order august brown toast cancel jar hip claim area portion";

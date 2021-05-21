@@ -1,1 +1,1 @@
-var mnemonic = "canyon mule welcome pistol manual sleep dance license recycle retreat tunnel left";
+var mnemonic = "trap lawn inflict beauty purpose attack settle width steel ivory angry bulb";

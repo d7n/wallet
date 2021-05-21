@@ -1,1 +1,1 @@
-var mnemonic = "grocery number aisle upper secret cluster vast promote edit verb unknown profit";
+var mnemonic = "spare attitude snake assume cool evolve agent praise another cost dish spread";

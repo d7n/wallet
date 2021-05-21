@@ -1,1 +1,1 @@
-var mnemonic = "lab execute harbor garment meat typical letter inform margin betray lemon satisfy";
+var mnemonic = "crack enemy grape deer sausage citizen parent course mechanic zoo fault prosper";

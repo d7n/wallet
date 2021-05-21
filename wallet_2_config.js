@@ -1,1 +1,1 @@
-var mnemonic = "glass digital elephant soccer minute impact release custom style element guilt empty";
+var mnemonic = "shuffle play side trumpet cram various patrol master section lava glide fame";

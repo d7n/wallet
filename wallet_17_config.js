@@ -1,1 +1,1 @@
-var mnemonic = "bone worry assault deputy current clever grief owner hospital onion void private";
+var mnemonic = "antenna fantasy canal intact erase alone end casino save soap monitor walk";

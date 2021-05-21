@@ -1,1 +1,1 @@
-var mnemonic = "typical people main impulse ring property chase chalk skill month coyote video";
+var mnemonic = "culture ghost message more hammer hold cereal all valley nose walk floor";

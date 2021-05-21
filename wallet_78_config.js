@@ -1,1 +1,1 @@
-var mnemonic = "ugly rapid orient wear merit laptop mutual nature try paddle depth source";
+var mnemonic = "solar frost grace brave pool fluid utility rather proof tuna jungle reject";

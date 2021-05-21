@@ -1,1 +1,1 @@
-var mnemonic = "glide pact tumble smoke candy trade coast hour taste flavor original boring";
+var mnemonic = "alone cruel pottery buffalo rebuild approve random resist soldier buffalo sorry cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap undo keen mind gentle birth box peace order jaguar bench bracket";
+var mnemonic = "rotate cinnamon brush renew cheese jungle situate improve monkey innocent track parrot";

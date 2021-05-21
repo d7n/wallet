@@ -1,1 +1,1 @@
-var mnemonic = "arm monster dumb invest egg lyrics company street motor entire cross pear";
+var mnemonic = "accident winter gas season unique piano visa chef eye like web inner";

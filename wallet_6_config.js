@@ -1,1 +1,1 @@
-var mnemonic = "napkin select iron yard stick online borrow gold idea polar west roof";
+var mnemonic = "chief unable wink tiger assault shine draft drift length tube antenna siren";

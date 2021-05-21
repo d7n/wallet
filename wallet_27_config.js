@@ -1,1 +1,1 @@
-var mnemonic = "fog denial update nose remove abstract skate tired team left fox final";
+var mnemonic = "flock claw crane about sniff announce cricket pill fine portion vehicle banana";

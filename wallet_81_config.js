@@ -1,1 +1,1 @@
-var mnemonic = "venue limb wasp kiwi coyote middle visit ask skirt fury visa carbon";
+var mnemonic = "royal stick reveal segment high feed space snake grab furnace tuition ladder";

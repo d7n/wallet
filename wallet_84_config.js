@@ -1,1 +1,1 @@
-var mnemonic = "offer person fever focus rare dwarf vibrant already dumb century resemble parrot";
+var mnemonic = "install trend pioneer welcome arrow act noodle crater odor dinner tell predict";

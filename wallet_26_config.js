@@ -1,1 +1,1 @@
-var mnemonic = "image trigger loan turkey pepper finger climb pill life minor kiwi curtain";
+var mnemonic = "birth scheme bread abandon subway casino sock winner knock stool trap bike";

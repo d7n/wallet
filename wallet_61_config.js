@@ -1,1 +1,1 @@
-var mnemonic = "thumb liquid cradle ramp bacon biology lizard prize cheese coin chat start";
+var mnemonic = "input link crisp guitar pitch scale fork flock alone become head oxygen";

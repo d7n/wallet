@@ -1,1 +1,1 @@
-var mnemonic = "enter lonely upset country win atom spirit fine neck wheat truck affair";
+var mnemonic = "few project chaos sniff rough street lesson install slam farm paper lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "hello rough rocket must strike choice trip wagon rude diary problem change";
+var mnemonic = "tired peasant local dust lava comic age language woman excess sausage response";

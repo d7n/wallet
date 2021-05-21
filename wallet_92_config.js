@@ -1,1 +1,1 @@
-var mnemonic = "success control cannon rich cute view family journey system mechanic keep lady";
+var mnemonic = "bind gallery quick motor exclude rocket trial crime purpose soup orange collect";

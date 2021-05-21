@@ -1,1 +1,1 @@
-var mnemonic = "strategy tortoise grocery drop bicycle choice creek brother connect always turn illness";
+var mnemonic = "they stereo spell play license liar bottom render grape execute snap uphold";

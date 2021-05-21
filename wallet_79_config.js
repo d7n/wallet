@@ -1,1 +1,1 @@
-var mnemonic = "stand gospel foam any keep demise sting catalog pyramid admit juice boring";
+var mnemonic = "rice wasp lobster tonight demise toy lizard mushroom ivory sand middle shaft";

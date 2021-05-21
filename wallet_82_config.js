@@ -1,1 +1,1 @@
-var mnemonic = "lemon term peanut mobile captain rubber journey increase runway moon update vapor";
+var mnemonic = "gate panda palace situate drink breeze impulse opinion melody gospel west letter";

@@ -1,1 +1,1 @@
-var mnemonic = "caught bitter clay pattern bring olympic diamond because shiver promote surround similar";
+var mnemonic = "service tourist pulse chuckle drill two mule nephew seminar cover nurse cry";

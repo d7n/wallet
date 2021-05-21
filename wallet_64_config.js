@@ -1,1 +1,1 @@
-var mnemonic = "require swamp tongue also father rescue tuna boy person awesome faculty vintage";
+var mnemonic = "guard regular wagon heavy east top december spoil unaware dust doctor kit";

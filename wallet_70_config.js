@@ -1,1 +1,1 @@
-var mnemonic = "option course fatigue reason settle buzz top round silly canal party coil";
+var mnemonic = "trophy swing baby leaf demand cabin bubble digital junk crumble cruel always";

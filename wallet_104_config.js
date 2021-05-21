@@ -1,1 +1,1 @@
-var mnemonic = "favorite crush right ski insect proof unable roast side source similar amazing";
+var mnemonic = "pigeon lens more race borrow gap toddler danger awake glimpse frog warfare";

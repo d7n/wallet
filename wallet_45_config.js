@@ -1,1 +1,1 @@
-var mnemonic = "test ripple market eyebrow sell glove flag crater attend snow pigeon remind";
+var mnemonic = "solve lemon waste true badge luggage sorry similar evil field method net";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic spin world praise sausage acid few photo license hammer twin solar";
+var mnemonic = "magic circle ecology kiss safe ill portion dismiss injury vessel safe tonight";

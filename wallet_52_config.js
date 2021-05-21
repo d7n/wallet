@@ -1,1 +1,1 @@
-var mnemonic = "question dog artwork pink lecture charge ice very sail rug page riot";
+var mnemonic = "mystery stereo yellow announce exhaust salmon enough quarter trophy neck champion describe";

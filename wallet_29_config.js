@@ -1,1 +1,1 @@
-var mnemonic = "acid marble problem drive sign scrap march lounge notice april shoe sand";
+var mnemonic = "length stick orbit cattle ride card metal ridge find industry mobile raccoon";

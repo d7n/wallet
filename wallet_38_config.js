@@ -1,1 +1,1 @@
-var mnemonic = "flush stage market permit conduct aisle knife front junior note input enable";
+var mnemonic = "excuse maximum core hundred satisfy expand drama ability book venue true rail";

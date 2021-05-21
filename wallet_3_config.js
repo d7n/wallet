@@ -1,1 +1,1 @@
-var mnemonic = "detect alone paper slam police almost other put oyster adult crater radio";
+var mnemonic = "scatter trend flash old seek album control feed inner news concert panel";

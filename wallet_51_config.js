@@ -1,1 +1,1 @@
-var mnemonic = "utility ocean until drum coast insane lawn vessel hurry hidden paper amount";
+var mnemonic = "hotel laptop ability virus used ski check equip vanish toss metal gloom";

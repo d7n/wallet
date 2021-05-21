@@ -1,1 +1,1 @@
-var mnemonic = "october cycle recycle umbrella garbage rocket wheat pair ozone zero artefact name";
+var mnemonic = "saddle elegant pizza early virtual adult step lunch reason brush twenty lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle old sentence oil rude urge climb kite release size symbol lawn";
+var mnemonic = "glue reform robust attend shoulder toy rely manage innocent host travel state";

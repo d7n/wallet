@@ -1,1 +1,1 @@
-var mnemonic = "tent okay gift ghost leg hand isolate breeze laugh there auto risk";
+var mnemonic = "sign fish refuse network total advice leave bar beef human rice team";

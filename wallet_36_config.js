@@ -1,1 +1,1 @@
-var mnemonic = "panther tank easy layer secret affair suffer major benefit blind room hedgehog";
+var mnemonic = "sunset topic step blur frown debris pill material wise cool rubber myth";

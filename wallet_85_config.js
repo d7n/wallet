@@ -1,1 +1,1 @@
-var mnemonic = "must milk stand marble poet swamp clean include practice leader special essay";
+var mnemonic = "private dog bridge auto mad sort give crawl bomb nephew prevent blind";

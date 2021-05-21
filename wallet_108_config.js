@@ -1,1 +1,1 @@
-var mnemonic = "shop bone idea glad wink bachelor enrich large once cave dentist raise";
+var mnemonic = "echo vivid junior pepper fossil vapor parrot supreme sell tell oil able";

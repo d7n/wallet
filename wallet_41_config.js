@@ -1,1 +1,1 @@
-var mnemonic = "surge tomato champion wise harsh pumpkin host west teach another very depart";
+var mnemonic = "odor giraffe sibling cereal vocal battle bless arctic clean upgrade ugly rich";

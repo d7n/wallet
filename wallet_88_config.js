@@ -1,1 +1,1 @@
-var mnemonic = "outer jeans satoshi leave demise afford toilet harbor acid ketchup valley decorate";
+var mnemonic = "habit just insect property smoke pulp size angry provide practice panic misery";

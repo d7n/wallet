@@ -1,1 +1,1 @@
-var mnemonic = "bird priority flip famous debate inhale powder egg parent credit slender scene";
+var mnemonic = "curtain almost other rigid evil couch adapt winner fire slow cage innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "grief desk manage blanket maid tool word casual coyote together stomach answer";
+var mnemonic = "liquid impose unusual member beef guide attract scale salad fever ridge arch";

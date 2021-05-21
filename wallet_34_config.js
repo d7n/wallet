@@ -1,1 +1,1 @@
-var mnemonic = "robust topple vicious small chunk thought width radar matrix estate move episode";
+var mnemonic = "jungle also act crater pair nation gauge suspect pair athlete luggage response";

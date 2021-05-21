@@ -1,1 +1,1 @@
-var mnemonic = "stock rally race quantum lazy meat make soul minimum zoo chronic gun";
+var mnemonic = "enlist basic dentist roof target reject sustain wave debris kid junk chicken";

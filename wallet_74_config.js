@@ -1,1 +1,1 @@
-var mnemonic = "false neutral caution public salmon narrow cat input pull merge regret glance";
+var mnemonic = "position journey horse keen cinnamon fiscal dilemma copy churn now alien narrow";

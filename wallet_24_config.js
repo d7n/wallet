@@ -1,1 +1,1 @@
-var mnemonic = "frame stay civil insect interest engage cause picnic orphan swap decide abandon";
+var mnemonic = "crawl always render keep neck sheriff bottom seek drink six reflect option";

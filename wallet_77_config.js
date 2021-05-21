@@ -1,1 +1,1 @@
-var mnemonic = "parrot agree canoe honey immune real protect venue ahead exhibit dress fee";
+var mnemonic = "salmon poem vital ring tribe crunch coyote puppy virtual agree interest verify";

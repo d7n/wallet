@@ -1,1 +1,1 @@
-var mnemonic = "song result despair betray auto early reduce bomb decline rough film cheese";
+var mnemonic = "exist flock balance silver crop coil pencil castle melt rule bulk smart";

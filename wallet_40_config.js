@@ -1,1 +1,1 @@
-var mnemonic = "age essence actress pill verb round tobacco keep another use inject bitter";
+var mnemonic = "reward practice laugh wife dignity dust regret grace orphan nest current grape";

@@ -1,1 +1,1 @@
-var mnemonic = "can domain token bench bubble total curtain poem urban cushion pass turtle";
+var mnemonic = "excess pizza lyrics undo illegal media despair slight rhythm unveil story shuffle";

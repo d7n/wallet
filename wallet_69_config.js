@@ -1,1 +1,1 @@
-var mnemonic = "vacuum stay pluck trigger hurdle tuna tiny drive patient trap flush vanish";
+var mnemonic = "spread heart summer biology churn quantum fix unit clown mimic nose evidence";

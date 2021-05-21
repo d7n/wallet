@@ -1,1 +1,1 @@
-var mnemonic = "melody daring whisper pelican tissue invite glimpse point section spin cloth season";
+var mnemonic = "such timber genuine plate sauce column source lemon shine super swamp library";

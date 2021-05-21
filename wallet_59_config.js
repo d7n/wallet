@@ -1,1 +1,1 @@
-var mnemonic = "film depth panda image tool mad version abstract feature hunt leisure suffer";
+var mnemonic = "alley lecture feel uphold nerve amateur scale lawn eye earth sweet tent";

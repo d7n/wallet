@@ -1,1 +1,1 @@
-var mnemonic = "what indoor rail cherry angle orphan december biology small bonus picnic bullet";
+var mnemonic = "oxygen mother live witness food such upon prefer whale lawn arrange item";

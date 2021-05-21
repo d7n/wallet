@@ -1,1 +1,1 @@
-var mnemonic = "give refuse empty exercise rather ride shoe harvest winner hockey pizza distance";
+var mnemonic = "correct enlist use trade stool lizard wood absent body ecology plastic weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk exhibit source armed street asset like boost earn leader lesson someone";
+var mnemonic = "guilt switch neglect coral approve dentist alter decline tooth traffic limb pact";

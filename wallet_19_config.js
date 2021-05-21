@@ -1,1 +1,1 @@
-var mnemonic = "airport cable mansion soul seven swamp govern agree salmon salt select broom";
+var mnemonic = "crunch rival rich idea ill trust oblige someone elite time observe alcohol";

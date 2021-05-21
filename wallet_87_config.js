@@ -1,1 +1,1 @@
-var mnemonic = "clown vicious general garbage box seat grain hill absent evolve country battle";
+var mnemonic = "love bright round chronic bean bullet scare merge shoot maid crouch witness";

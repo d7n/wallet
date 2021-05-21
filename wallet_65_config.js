@@ -1,1 +1,1 @@
-var mnemonic = "switch isolate auto access sea student naive rural kite card random elbow";
+var mnemonic = "layer dinosaur relax exchange slim exhaust check joy chase decade exile beauty";

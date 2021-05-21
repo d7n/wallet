@@ -1,1 +1,1 @@
-var mnemonic = "gravity rent taxi view december tenant scatter task they wave slab lecture";
+var mnemonic = "dad pig hard student safe wink naive hawk lens gasp limit invest";

@@ -1,1 +1,1 @@
-var mnemonic = "switch famous hip borrow pink lounge bacon silent course pen cry chapter";
+var mnemonic = "used minor live transfer wisdom under window relax maximum reform horse innocent";

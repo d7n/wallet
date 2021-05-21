@@ -1,1 +1,1 @@
-var mnemonic = "extend cattle olive treat feel potato comfort angle pledge cattle dash blur";
+var mnemonic = "inquiry gap ticket slim issue ramp remind gossip hollow inspire lumber vintage";

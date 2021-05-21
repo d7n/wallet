@@ -1,1 +1,1 @@
-var mnemonic = "health left relax wire still round hammer joke network lonely eyebrow gaze";
+var mnemonic = "around rookie rubber rigid used enjoy crawl fish journey tree entire improve";

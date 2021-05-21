@@ -1,1 +1,1 @@
-var mnemonic = "ask edge endless chat race panel drastic venture raccoon twin country page";
+var mnemonic = "bomb genre ride salon hello truck legal seminar bottom penalty awake old";

@@ -1,1 +1,1 @@
-var mnemonic = "equip rare couple know injury where snake tornado outer purse mean problem";
+var mnemonic = "else limit friend quantum start rapid method theme real brother replace knock";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp grass helmet return timber ranch trim cereal token rich effort silver";
+var mnemonic = "dress air curtain poem salute indoor edit target provide web right weird";

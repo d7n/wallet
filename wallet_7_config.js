@@ -1,1 +1,1 @@
-var mnemonic = "write isolate dwarf movie adapt guitar parent clown dry grit close someone";
+var mnemonic = "tape nice grid repeat rail fame remind draft horse test worth analyst";

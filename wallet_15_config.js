@@ -1,1 +1,1 @@
-var mnemonic = "toe crater wrestle poverty trap situate maple neglect behind program window duty";
+var mnemonic = "hybrid skirt stage dad keep betray weapon diamond unfold jealous draft price";

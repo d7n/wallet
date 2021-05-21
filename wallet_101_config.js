@@ -1,1 +1,1 @@
-var mnemonic = "dash shift write trend prize lemon nest smile gather double okay matrix";
+var mnemonic = "fetch ride display mouse tree speed midnight visual wasp company number gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "advice code double dentist material such mention apart car miracle gravity kit";
+var mnemonic = "blush frown common expose economy science upper glow skirt select agree woman";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy clump lecture habit bless exercise mesh harbor lucky hour lift slow";
+var mnemonic = "tackle manual tribe lounge fish lesson nest light fury melt bicycle carpet";

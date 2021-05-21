@@ -1,1 +1,1 @@
-var mnemonic = "target scrub near giggle sunny position city inspire deal buffalo hip keen";
+var mnemonic = "snack gentle this subject upper desk slam wheat deer question bomb palace";

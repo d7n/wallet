@@ -1,1 +1,1 @@
-var mnemonic = "bulk bench resource merry impact shrug purchase great peanut price grocery setup";
+var mnemonic = "include health tone business same occur cherry acoustic announce refuse person bar";

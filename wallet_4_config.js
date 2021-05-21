@@ -1,1 +1,1 @@
-var mnemonic = "mom kingdom ship corn theory bird lady deal private inner canyon lend";
+var mnemonic = "crunch victory inside olive matter sick margin warfare hospital monster sail crack";

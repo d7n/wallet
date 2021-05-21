@@ -1,1 +1,1 @@
-var mnemonic = "mushroom aisle audit fee ill supreme conduct enough coconut lecture menu mushroom";
+var mnemonic = "what all differ space festival there mirror magnet buffalo gorilla extra episode";

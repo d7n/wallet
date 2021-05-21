@@ -1,1 +1,1 @@
-var mnemonic = "matrix evolve exact over infant movie myth indoor shift sheriff slice humor";
+var mnemonic = "light setup mammal situate chicken rich sunset fly teach will address lady";

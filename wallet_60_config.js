@@ -1,1 +1,1 @@
-var mnemonic = "rack defense hover clip arrange any strike pond genuine also medal element";
+var mnemonic = "effort favorite account trick boy liar photo icon innocent peace rural squirrel";

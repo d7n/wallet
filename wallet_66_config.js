@@ -1,1 +1,1 @@
-var mnemonic = "primary offer license clump shell sight toast flag proud coral comfort weasel";
+var mnemonic = "differ when slow crane consider crush phrase bunker antenna laptop universe patient";

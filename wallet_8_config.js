@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cage goddess grow jewel magic celery lecture mistake tornado multiply tiny";
+var mnemonic = "arm popular service tuition evidence suffer custom sheriff horror bean slab wasp";

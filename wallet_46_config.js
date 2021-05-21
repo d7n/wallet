@@ -1,1 +1,1 @@
-var mnemonic = "fall text because tide olive ensure sister inch sign inject axis noise";
+var mnemonic = "opinion village mixed sun stomach mention gadget depth false proof wisdom exchange";

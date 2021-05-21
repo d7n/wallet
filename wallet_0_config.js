@@ -1,1 +1,1 @@
-var mnemonic = "joy excess winner eyebrow upper doll quarter insane frown eager nose stereo";
+var mnemonic = "elevator spare fox night culture clever universe swamp bubble middle bean damage";

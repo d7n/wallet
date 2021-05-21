@@ -1,1 +1,1 @@
-var mnemonic = "order absurd able outside ketchup civil grant corn office flush junk account";
+var mnemonic = "squirrel buddy merge waste rule gesture refuse flush spoil witness focus magic";

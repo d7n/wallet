@@ -1,1 +1,1 @@
-var mnemonic = "midnight camera soap problem mystery manage muffin inflict pioneer smooth project only";
+var mnemonic = "symbol rural profit proud club spare remind youth spell gallery alarm couch";

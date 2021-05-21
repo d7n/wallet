@@ -1,1 +1,1 @@
-var mnemonic = "deliver suit settle steel antique enact attack throw violin ritual spread panic";
+var mnemonic = "enjoy fold brain coral recall vivid hand eagle option amount cycle copy";

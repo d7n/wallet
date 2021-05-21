@@ -1,1 +1,1 @@
-var mnemonic = "company plunge apart canoe track teach pencil fossil raven auto beauty day";
+var mnemonic = "spy whale fence vague bundle enact average hockey position sure bounce seminar";

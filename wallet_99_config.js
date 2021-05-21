@@ -1,1 +1,1 @@
-var mnemonic = "moral local morning over fiction fat provide pact foam maid planet woman";
+var mnemonic = "deputy shoulder border black lesson attitude general edit put fresh marble joke";

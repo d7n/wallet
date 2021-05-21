@@ -1,1 +1,1 @@
-var mnemonic = "zoo clinic cabin badge airport apology clip army violin deliver recall runway";
+var mnemonic = "pyramid online list vintage fruit scrub crack entire address number car elite";

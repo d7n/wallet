@@ -1,1 +1,1 @@
-var mnemonic = "joke liar safe cancel shove disease squirrel loan raven fringe junk cover";
+var mnemonic = "volcano oak solution item frozen crucial drama shy flavor door metal december";

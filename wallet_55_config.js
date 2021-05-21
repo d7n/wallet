@@ -1,1 +1,1 @@
-var mnemonic = "phone voice tragic arrive used mandate page father ecology tail upper neck";
+var mnemonic = "later hobby jealous quarter improve melt mule alien sun reduce exit clog";

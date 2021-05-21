@@ -1,1 +1,1 @@
-var mnemonic = "slow ghost illness monitor salon tiny later fix grid panda woman crime";
+var mnemonic = "absent supply art correct rally trophy fun impact sadness girl manual antique";

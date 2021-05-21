@@ -1,1 +1,1 @@
-var mnemonic = "velvet drama report bacon inflict shrimp parrot wire winner behind found group";
+var mnemonic = "portion cover member soul exclude elbow bitter win merry curtain moment require";
