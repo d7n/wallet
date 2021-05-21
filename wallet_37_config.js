@@ -1,1 +1,1 @@
-var mnemonic = "enforce noble iron lens foot number hour gauge lend strike violin process";
+var mnemonic = "alpha margin use spin enough ritual stay black there pepper moment town";

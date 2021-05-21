@@ -1,1 +1,1 @@
-var mnemonic = "annual friend deposit dumb inside degree harvest rent check pause unusual assault";
+var mnemonic = "century sibling doll shoe update hold path poverty robust exhaust twin measure";

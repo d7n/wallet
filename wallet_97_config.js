@@ -1,1 +1,1 @@
-var mnemonic = "track weather space salad ridge track flee garbage display spell giraffe grief";
+var mnemonic = "dwarf fever left shoulder six pole flock search deal artwork helmet basket";

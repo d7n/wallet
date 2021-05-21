@@ -1,1 +1,1 @@
-var mnemonic = "wire speed join throw crane shoulder price normal guess control twenty climb";
+var mnemonic = "style stuff breeze enforce access remind else dune link jaguar cheap script";

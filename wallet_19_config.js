@@ -1,1 +1,1 @@
-var mnemonic = "swing dwarf remain pumpkin faith around street box kiss echo cloud boss";
+var mnemonic = "achieve gospel sheriff pencil leaf maid upgrade capable grid develop gadget joke";

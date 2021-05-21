@@ -1,1 +1,1 @@
-var mnemonic = "august city either fly marriage control shiver erode avoid canal profit pigeon";
+var mnemonic = "team plug permit lava consider pumpkin enhance reduce zebra slab evil unfold";

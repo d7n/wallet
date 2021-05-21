@@ -1,1 +1,1 @@
-var mnemonic = "change chaos angry any parrot broken over inherit repeat enjoy true mammal";
+var mnemonic = "addict share aware attitude finish mechanic stadium arch glory biology alter come";

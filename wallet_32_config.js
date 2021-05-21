@@ -1,1 +1,1 @@
-var mnemonic = "clown region panel soap input obey ribbon always puzzle category record steak";
+var mnemonic = "brown then guard misery main equip aerobic ladder return bulb dove october";

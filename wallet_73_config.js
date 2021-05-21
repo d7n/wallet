@@ -1,1 +1,1 @@
-var mnemonic = "wood body kit friend chuckle walnut hire access stay whale race street";
+var mnemonic = "tongue install shy recipe void monster canyon purity teach civil vote fossil";

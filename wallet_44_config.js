@@ -1,1 +1,1 @@
-var mnemonic = "material truth typical runway comfort stomach alert tunnel solve tilt innocent tank";
+var mnemonic = "drive exhaust result target two olive coach vocal expire clarify poet judge";

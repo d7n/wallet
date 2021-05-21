@@ -1,1 +1,1 @@
-var mnemonic = "become divorce flip million genius fork gas owner inflict derive door decorate";
+var mnemonic = "pigeon luggage else expire skull scene extra vessel cycle special dentist gift";

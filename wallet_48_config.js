@@ -1,1 +1,1 @@
-var mnemonic = "fever wear tomorrow clock kiwi tiger pudding lake approve visa bachelor junior";
+var mnemonic = "armor artefact marriage urban offer logic market tragic deal episode melt exchange";

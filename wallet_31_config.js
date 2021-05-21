@@ -1,1 +1,1 @@
-var mnemonic = "spawn tilt oblige settle bullet seven when happy grunt dirt vessel novel";
+var mnemonic = "dirt reward penalty alien shuffle asset cat budget rare cement rookie raise";

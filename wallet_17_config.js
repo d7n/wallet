@@ -1,1 +1,1 @@
-var mnemonic = "exhaust practice inject shrimp quarter gesture slam transfer gentle wide cousin polar";
+var mnemonic = "smart juice pond great parrot ask bright economy build episode borrow mystery";

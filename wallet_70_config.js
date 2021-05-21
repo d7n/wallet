@@ -1,1 +1,1 @@
-var mnemonic = "muscle chat future accident reopen endless gallery cancel machine suffer diamond mystery";
+var mnemonic = "cute letter burst guilt play install seven damage net envelope orange verify";

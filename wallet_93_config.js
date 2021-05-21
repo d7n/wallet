@@ -1,1 +1,1 @@
-var mnemonic = "achieve fancy novel gate nature wolf decline ceiling limb bounce grape nominee";
+var mnemonic = "release spot sign consider debris purpose loan tail foam what convince radar";

@@ -1,1 +1,1 @@
-var mnemonic = "estate example jump into aunt develop stove silver nation burger already awful";
+var mnemonic = "aisle raccoon depend front bonus load cream repeat entire rebuild they media";

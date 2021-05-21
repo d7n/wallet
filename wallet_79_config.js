@@ -1,1 +1,1 @@
-var mnemonic = "economy enough hen shuffle section detect inside wet nature destroy heart country";
+var mnemonic = "actor spare junk heart crisp lock index pig carpet garden atom convince";

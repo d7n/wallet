@@ -1,1 +1,1 @@
-var mnemonic = "manual long since glow ill wish rural indicate page leopard lady basic";
+var mnemonic = "friend rule chuckle estate modify infant pony guard twice hood nerve village";

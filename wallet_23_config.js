@@ -1,1 +1,1 @@
-var mnemonic = "coast off yard virus round find struggle vessel elite index lens wage";
+var mnemonic = "wrong little payment predict soul outdoor bamboo ribbon advance appear kit apology";

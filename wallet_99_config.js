@@ -1,1 +1,1 @@
-var mnemonic = "cup load finish list clever dentist fiction wasp pact meadow dentist another";
+var mnemonic = "correct blood cram craft mountain crisp author holiday surprise ahead valley october";

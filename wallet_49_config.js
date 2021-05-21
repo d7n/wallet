@@ -1,1 +1,1 @@
-var mnemonic = "slide guess armed leisure approve admit army ramp remain claw core skate";
+var mnemonic = "bar number grocery old buddy then ancient swarm under hospital priority ripple";

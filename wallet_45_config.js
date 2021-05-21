@@ -1,1 +1,1 @@
-var mnemonic = "rug infant goose defy chimney vital eyebrow panther asthma champion until century";
+var mnemonic = "doctor fence worth palace correct staff chase robust physical bachelor plug enlist";

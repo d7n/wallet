@@ -1,1 +1,1 @@
-var mnemonic = "disease that page fan margin defense fuel thrive fall ring harsh birth";
+var mnemonic = "tiny toe tape auto green woman field ecology slam convince start plastic";

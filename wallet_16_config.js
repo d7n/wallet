@@ -1,1 +1,1 @@
-var mnemonic = "lens rabbit inmate labor identify pool twenty mechanic define output exhibit extend";
+var mnemonic = "scrap reveal someone winner vehicle join rotate trip behave bargain raw melt";

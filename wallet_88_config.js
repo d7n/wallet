@@ -1,1 +1,1 @@
-var mnemonic = "drop success below aunt frog change undo advance fat great script diamond";
+var mnemonic = "middle pledge castle admit bamboo depth hungry nature differ toddler giggle bunker";

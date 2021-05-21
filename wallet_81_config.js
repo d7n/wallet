@@ -1,1 +1,1 @@
-var mnemonic = "swing scissors sadness symbol boss stomach bless broccoli invest stem amount crop";
+var mnemonic = "suggest pluck priority portion rare seminar library upgrade avocado dice duty clock";

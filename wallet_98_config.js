@@ -1,1 +1,1 @@
-var mnemonic = "angle neutral glue intact sting affair flat universe arch duck world canvas";
+var mnemonic = "rug wave anxiety find hollow predict net depend exhaust blouse circle prison";

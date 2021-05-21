@@ -1,1 +1,1 @@
-var mnemonic = "door mechanic destroy actor cart pretty result degree calm castle exile leave";
+var mnemonic = "talent anger maid bind seek inspire actual bargain vault popular flat have";

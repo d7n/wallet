@@ -1,1 +1,1 @@
-var mnemonic = "write draft nose mean problem lounge flush senior stairs satoshi two giggle";
+var mnemonic = "caution quality wreck turtle twenty husband decide asthma firm tray zero push";

@@ -1,1 +1,1 @@
-var mnemonic = "green concert snake weekend view era august mountain decrease icon proud flat";
+var mnemonic = "air sport goose girl trip suspect era nut crime swift swing ride";

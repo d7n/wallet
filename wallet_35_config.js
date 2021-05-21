@@ -1,1 +1,1 @@
-var mnemonic = "obey assume daughter claw range tank enjoy month void lawn example desert";
+var mnemonic = "connect invest blue tonight pull jaguar gown run fragile harvest fiscal split";

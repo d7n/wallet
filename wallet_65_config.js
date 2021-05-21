@@ -1,1 +1,1 @@
-var mnemonic = "inner convince farm bunker wood chest spring glue crowd another club around";
+var mnemonic = "myth item milk achieve tuna orbit trouble pilot fluid mutual glory tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "edge bird usage venue scout blood village you nerve path charge nurse";
+var mnemonic = "frame urban select topple animal grab size trust force online gym old";

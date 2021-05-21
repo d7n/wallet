@@ -1,1 +1,1 @@
-var mnemonic = "float unfair art egg convince demand gloom ensure toward into cliff valve";
+var mnemonic = "way valley rough electric brave carpet cable kidney nothing history monkey asset";

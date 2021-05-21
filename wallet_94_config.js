@@ -1,1 +1,1 @@
-var mnemonic = "arctic coach found disease crunch lecture bulb round lens jeans defy behind";
+var mnemonic = "balance bone response engine vault veteran tuition blur creek crazy track fork";

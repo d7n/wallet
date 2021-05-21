@@ -1,1 +1,1 @@
-var mnemonic = "ancient cart help ethics narrow swap risk fever stairs favorite pistol verb";
+var mnemonic = "split soccer grief club afford toilet save erupt artist latin whale clean";

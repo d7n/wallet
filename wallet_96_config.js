@@ -1,1 +1,1 @@
-var mnemonic = "amateur gravity evoke inmate borrow maid dolphin thought finger kitten crew endorse";
+var mnemonic = "detect action egg grow wait sniff siege pyramid shoulder earn memory solve";

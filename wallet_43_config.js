@@ -1,1 +1,1 @@
-var mnemonic = "mass sister brush galaxy auction connect fall add blue volcano wrist fit";
+var mnemonic = "silly boil song catalog immune bachelor gown ankle live valve witness attract";

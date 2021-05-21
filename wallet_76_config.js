@@ -1,1 +1,1 @@
-var mnemonic = "very page mystery monkey bring inherit recycle rough quarter lucky appear end";
+var mnemonic = "engage oblige sauce glare jealous offer lend creek lobster noodle unfold arrest";

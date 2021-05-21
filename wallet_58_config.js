@@ -1,1 +1,1 @@
-var mnemonic = "prepare spend blanket bar gravity total undo measure father lock stay cricket";
+var mnemonic = "language universe govern put airport will ritual start alley echo response fancy";

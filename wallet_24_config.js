@@ -1,1 +1,1 @@
-var mnemonic = "powder poem unlock magic frog glide cherry devote brain arrow destroy early";
+var mnemonic = "have wasp alien warfare dinosaur joy visit nephew expire note cliff actor";

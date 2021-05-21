@@ -1,1 +1,1 @@
-var mnemonic = "wheat music upon chair depend gallery sell spend tree aware pitch fresh";
+var mnemonic = "coyote work reject machine music hurt annual spawn yard orphan ranch glance";

@@ -1,1 +1,1 @@
-var mnemonic = "size sustain volcano hand sadness walnut update during between merge toe position";
+var mnemonic = "brown casual stable march forget dolphin second column limit false seven caution";

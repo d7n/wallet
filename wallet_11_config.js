@@ -1,1 +1,1 @@
-var mnemonic = "nice tiger absurd orange sort enrich letter tenant define merry clay gloom";
+var mnemonic = "mule bottom excite multiply swallow lava oval cheese impose piece genius medal";

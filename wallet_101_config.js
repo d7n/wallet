@@ -1,1 +1,1 @@
-var mnemonic = "symptom story helmet cheap gentle tonight spice session blame crop field vocal";
+var mnemonic = "ranch foil fabric debris slot sunny kangaroo what night move urban cause";

@@ -1,1 +1,1 @@
-var mnemonic = "insane have garbage harvest what inflict recall never buzz approve success meadow";
+var mnemonic = "bonus luxury tornado idle latin inform tower margin also hobby barely pumpkin";

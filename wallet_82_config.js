@@ -1,1 +1,1 @@
-var mnemonic = "upset daring science tornado unlock artist need lab promote subject habit old";
+var mnemonic = "cinnamon bulb myth soccer blanket fetch alpha path morning define catalog replace";

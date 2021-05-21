@@ -1,1 +1,1 @@
-var mnemonic = "balance expose effort switch goddess nut stick maple hockey stool imitate inch";
+var mnemonic = "tortoise friend film gift couch doll display fresh virus rose desert normal";

@@ -1,1 +1,1 @@
-var mnemonic = "lion issue erode suit fancy meadow letter rib pupil draw muffin turn";
+var mnemonic = "twelve immune edge unfair attitude bounce accident eight clip start behind crush";

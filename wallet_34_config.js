@@ -1,1 +1,1 @@
-var mnemonic = "position gas similar hollow anxiety problem caught shove frequent used hurdle path";
+var mnemonic = "follow correct chase avocado marine vast embark shrug picture ribbon never loan";

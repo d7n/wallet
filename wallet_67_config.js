@@ -1,1 +1,1 @@
-var mnemonic = "report select second service seek isolate baby shrimp dose eager beyond biology";
+var mnemonic = "rate boy disorder dignity ask rescue omit elegant side dinosaur key shell";

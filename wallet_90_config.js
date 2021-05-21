@@ -1,1 +1,1 @@
-var mnemonic = "alpha erupt icon control assist celery marble kind truth else sibling emerge";
+var mnemonic = "girl carpet spatial wheel winner orphan fix asthma matter photo mind grief";

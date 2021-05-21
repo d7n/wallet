@@ -1,1 +1,1 @@
-var mnemonic = "render slogan rude memory march south material era uncover amateur order stem";
+var mnemonic = "fan palace media rabbit swap nut upset solve hundred wood sick hybrid";

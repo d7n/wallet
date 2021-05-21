@@ -1,1 +1,1 @@
-var mnemonic = "ugly beef relief athlete horse scale scale review cloth grape shrug novel";
+var mnemonic = "mesh couch version brain comfort strike glance major sun sudden elevator sweet";

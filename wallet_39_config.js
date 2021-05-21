@@ -1,1 +1,1 @@
-var mnemonic = "cliff glue galaxy maximum fee core fitness ten critic evoke couple skull";
+var mnemonic = "thing talk use patient moon boost urge slim mango frost source street";

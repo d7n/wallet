@@ -1,1 +1,1 @@
-var mnemonic = "gauge void lounge food capital praise able puppy regular distance satisfy antique";
+var mnemonic = "loyal fence cotton cruise topic sell jar awkward anxiety ranch slice man";

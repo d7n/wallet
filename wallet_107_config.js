@@ -1,1 +1,1 @@
-var mnemonic = "coach spray remember sentence buffalo spirit neither cry arrest plastic elbow firm";
+var mnemonic = "market page noise frozen stadium spider certain jelly bunker wet arrive skull";

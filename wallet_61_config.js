@@ -1,1 +1,1 @@
-var mnemonic = "record reflect kitten cheap advance divorce offer offer panther mobile spoil crime";
+var mnemonic = "scout company goat try safe pony sudden genre mouse robust hold home";

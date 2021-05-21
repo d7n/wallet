@@ -1,1 +1,1 @@
-var mnemonic = "achieve cool inherit balcony hawk hard return box window hood hire bullet";
+var mnemonic = "library reject champion voice similar disease travel gather ramp top list relax";

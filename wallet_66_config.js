@@ -1,1 +1,1 @@
-var mnemonic = "crack reform anchor double cave start arrow bid oil drink trigger frame";
+var mnemonic = "happy bright earn below lawsuit barely inflict custom viable bounce pretty amazing";

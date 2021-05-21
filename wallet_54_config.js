@@ -1,1 +1,1 @@
-var mnemonic = "ring rather tobacco elbow dry humor grace shy electric goat slab near";
+var mnemonic = "van position chimney farm uncle search mention define live keen lyrics below";

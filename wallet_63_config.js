@@ -1,1 +1,1 @@
-var mnemonic = "cheese pumpkin rack squeeze company act monster loop plate online provide material";
+var mnemonic = "roast rocket silly fruit become avocado surge just rubber donkey helmet battle";

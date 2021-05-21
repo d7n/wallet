@@ -1,1 +1,1 @@
-var mnemonic = "away acquire upon photo chuckle badge brother squirrel sound bracket limit case";
+var mnemonic = "situate april mammal mirror wave like kid hockey brain access style damp";

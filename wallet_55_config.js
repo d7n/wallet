@@ -1,1 +1,1 @@
-var mnemonic = "annual bike announce lamp squirrel option angry team spoon box swim slender";
+var mnemonic = "unveil cat evoke orchard enter arena vault fee hospital virus pool must";

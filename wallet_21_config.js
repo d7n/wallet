@@ -1,1 +1,1 @@
-var mnemonic = "floor moon party wish lunar cave swear boil minor polar baby sunny";
+var mnemonic = "scan series cliff joke frame margin cart pepper furnace able lady pride";

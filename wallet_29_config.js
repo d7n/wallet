@@ -1,1 +1,1 @@
-var mnemonic = "fruit keen citizen soccer giraffe nature practice rather zone wink awkward coyote";
+var mnemonic = "save another style soon weasel immense tent clinic second give oven exhibit";

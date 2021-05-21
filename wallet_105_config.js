@@ -1,1 +1,1 @@
-var mnemonic = "sock cinnamon situate stone narrow cute talk draft young wrist license market";
+var mnemonic = "autumn muffin iron cool armor couple pause prefer cheese glimpse economy crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "carry coast fruit stuff silk science feel deposit proud width theme stuff";
+var mnemonic = "cost match emerge enrich across barrel undo sad curve three orphan latin";

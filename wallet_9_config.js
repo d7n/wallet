@@ -1,1 +1,1 @@
-var mnemonic = "quick sun velvet bean proof awful tornado scare mistake cart light whale";
+var mnemonic = "retire snow card kiss recycle rifle custom plate benefit obvious bring old";

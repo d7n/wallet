@@ -1,1 +1,1 @@
-var mnemonic = "wheat quarter auction tribe float matrix frog super attend baby rug zoo";
+var mnemonic = "panic oblige fever paddle trumpet solve kiwi sand company borrow coffee scale";

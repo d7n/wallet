@@ -1,1 +1,1 @@
-var mnemonic = "rare such nest jacket ancient boss grunt liar act nerve tone route";
+var mnemonic = "moment upgrade fantasy depend domain move future assume spray coin avoid ankle";

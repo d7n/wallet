@@ -1,1 +1,1 @@
-var mnemonic = "acquire empty theory boy envelope weasel nut ribbon supreme fringe field approve";
+var mnemonic = "chair walk pool gate hen lock choose wall private crack foam boil";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct series sunny debris illegal lottery giggle bridge pupil keep vote smooth";
+var mnemonic = "trick tool odor cost refuse worth pave lawn chapter bitter quarter antenna";

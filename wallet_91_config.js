@@ -1,1 +1,1 @@
-var mnemonic = "fortune hurry future noodle joy adjust village mom few wear term bring";
+var mnemonic = "exercise renew injury put cheese wear segment release absent improve delay peasant";

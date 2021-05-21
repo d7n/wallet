@@ -1,1 +1,1 @@
-var mnemonic = "donor guitar alarm trumpet vocal fox weapon hazard prefer merge volume else";
+var mnemonic = "palm grace frequent list have west winter devote half thank drop shift";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo amount float mule someone skirt sibling original country describe curve brother";
+var mnemonic = "toilet thought axis tiny faculty relief vacuum pause choice roast dad under";

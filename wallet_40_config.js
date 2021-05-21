@@ -1,1 +1,1 @@
-var mnemonic = "member grape grit pupil orbit rather capital treat gentle filter immune cloth";
+var mnemonic = "wet dad chat slogan deliver hen parrot hair unaware replace champion sphere";

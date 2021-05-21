@@ -1,1 +1,1 @@
-var mnemonic = "produce give street page huge wing hope table congress cook wild observe";
+var mnemonic = "silver cloth barely swim ecology nature million feed lobster sweet wet cake";

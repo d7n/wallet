@@ -1,1 +1,1 @@
-var mnemonic = "ranch enact truth draft write sick place govern birth gift practice fence";
+var mnemonic = "wash maximum absent usual grid vibrant behind gorilla adult nose sight mass";

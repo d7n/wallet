@@ -1,1 +1,1 @@
-var mnemonic = "trap lazy useful name impact rigid noodle cheese maid blade affair laptop";
+var mnemonic = "give weasel fluid install canal peace trouble style grace address team gospel";

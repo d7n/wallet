@@ -1,1 +1,1 @@
-var mnemonic = "strategy miracle scissors deposit pizza empty patch glance yellow action else moral";
+var mnemonic = "swing question front sell memory vicious year that trim group melody tent";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor recall fancy park bright alcohol account sugar robust merit dry diary";
+var mnemonic = "accuse replace trash citizen sport horn chicken bundle matter inject best question";

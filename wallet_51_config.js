@@ -1,1 +1,1 @@
-var mnemonic = "curve plunge explain aerobic jealous move alert enemy achieve afford slice learn";
+var mnemonic = "effort zoo engine ribbon angry gossip reject clinic engine garage knife shaft";

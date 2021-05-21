@@ -1,1 +1,1 @@
-var mnemonic = "birth marine home minor adjust hat joke apple wasp attitude build envelope";
+var mnemonic = "piece script glare cheap kitchen eight cannon leaf hawk unlock setup chicken";

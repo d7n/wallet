@@ -1,1 +1,1 @@
-var mnemonic = "crane weapon snow horse arrow minimum decade laugh assault orbit economy unusual";
+var mnemonic = "human license release flight equal index metal caution north trend beef nation";

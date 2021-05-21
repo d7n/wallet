@@ -1,1 +1,1 @@
-var mnemonic = "sunny pipe giggle under method parade rebuild elder charge industry vicious fame";
+var mnemonic = "pattern defense enough six song jump invite come autumn cupboard mother strike";

@@ -1,1 +1,1 @@
-var mnemonic = "brother seminar solve knock surge sausage draft river matrix diamond glare crush";
+var mnemonic = "hedgehog bundle label leaf stand mesh label friend bread job lamp honey";

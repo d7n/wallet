@@ -1,1 +1,1 @@
-var mnemonic = "comic demise sign trumpet express funny current trouble slice dutch caught blanket";
+var mnemonic = "pretty silent monster defense rally proof under armor manage pause leisure wide";

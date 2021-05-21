@@ -1,1 +1,1 @@
-var mnemonic = "grid orient jar lab define ozone legal hello cinnamon outdoor cheese return";
+var mnemonic = "orchard pottery episode inspire craft frost stem collect bar remind dwarf region";

@@ -1,1 +1,1 @@
-var mnemonic = "caution wine isolate lucky speak crunch donor imitate original young series sleep";
+var mnemonic = "toward wage ignore scatter bus burst gown diagram turtle security illegal prevent";

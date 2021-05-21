@@ -1,1 +1,1 @@
-var mnemonic = "solar aisle review panel smooth leader receive asthma sense sword brass talent";
+var mnemonic = "author glass practice one this spider peace hospital disorder weapon outside rent";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess measure peasant fall athlete fade peanut boy walnut moral worry diamond";
+var mnemonic = "gun bullet gloom antenna object immense polar egg swap young water execute";

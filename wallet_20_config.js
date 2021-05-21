@@ -1,1 +1,1 @@
-var mnemonic = "tiger marble question wrong book torch hour entry twist motor indicate broken";
+var mnemonic = "clown park grant tourist purse paper rate web cram tail music frog";

@@ -1,1 +1,1 @@
-var mnemonic = "tree impose satisfy fit air join worry holiday oak alter want cause";
+var mnemonic = "trade rally base sister basic source axis token sniff guess execute flight";

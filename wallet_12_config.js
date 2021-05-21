@@ -1,1 +1,1 @@
-var mnemonic = "nominee ugly home deer nest soldier when want car pink hawk regret";
+var mnemonic = "sponsor amazing army hire slide path spare carbon aim board upon smile";
