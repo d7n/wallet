@@ -1,1 +1,1 @@
-var mnemonic = "exhaust leisure deal carry curtain siege fringe actress begin teach possible close";
+var mnemonic = "image trigger loan turkey pepper finger climb pill life minor kiwi curtain";

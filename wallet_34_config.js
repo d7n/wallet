@@ -1,1 +1,1 @@
-var mnemonic = "target concert gentle banana world sunset ozone forward fresh gain royal devote";
+var mnemonic = "robust topple vicious small chunk thought width radar matrix estate move episode";

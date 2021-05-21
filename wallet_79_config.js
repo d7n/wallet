@@ -1,1 +1,1 @@
-var mnemonic = "track bean carbon betray endless pilot melt put marine census odor sign";
+var mnemonic = "stand gospel foam any keep demise sting catalog pyramid admit juice boring";

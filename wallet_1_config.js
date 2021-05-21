@@ -1,1 +1,1 @@
-var mnemonic = "royal caught pepper noodle poet timber aware lazy hunt clerk cactus jungle";
+var mnemonic = "song result despair betray auto early reduce bomb decline rough film cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "still snap equal february manage fetch sing birth erupt gun forest spirit";
+var mnemonic = "rack defense hover clip arrange any strike pond genuine also medal element";

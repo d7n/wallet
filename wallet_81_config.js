@@ -1,1 +1,1 @@
-var mnemonic = "bicycle axis require breeze honey emotion uncover stereo nurse escape speak thunder";
+var mnemonic = "venue limb wasp kiwi coyote middle visit ask skirt fury visa carbon";

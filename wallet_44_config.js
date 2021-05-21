@@ -1,1 +1,1 @@
-var mnemonic = "boy enjoy cement work water narrow toilet border stand wedding kingdom accuse";
+var mnemonic = "stamp grass helmet return timber ranch trim cereal token rich effort silver";

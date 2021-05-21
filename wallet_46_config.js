@@ -1,1 +1,1 @@
-var mnemonic = "situate curious solve twice head ski same fuel fee great palace senior";
+var mnemonic = "fall text because tide olive ensure sister inch sign inject axis noise";

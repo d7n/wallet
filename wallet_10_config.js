@@ -1,1 +1,1 @@
-var mnemonic = "jealous plate chimney source romance donkey detail champion flat snow blame begin";
+var mnemonic = "jungle old sentence oil rude urge climb kite release size symbol lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "when oyster word sentence rain enough best away true antenna rent link";
+var mnemonic = "acid marble problem drive sign scrap march lounge notice april shoe sand";

@@ -1,1 +1,1 @@
-var mnemonic = "issue mask year project winter reject inject ripple vocal empower inform extend";
+var mnemonic = "toe crater wrestle poverty trap situate maple neglect behind program window duty";

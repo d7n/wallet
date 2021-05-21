@@ -1,1 +1,1 @@
-var mnemonic = "maple turtle scan when ordinary urban tribe version host clean crisp brown";
+var mnemonic = "phone voice tragic arrive used mandate page father ecology tail upper neck";

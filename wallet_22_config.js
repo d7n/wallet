@@ -1,1 +1,1 @@
-var mnemonic = "minor jazz tortoise stadium laugh shy lawn cool since warm chaos cause";
+var mnemonic = "slow ghost illness monitor salon tiny later fix grid panda woman crime";

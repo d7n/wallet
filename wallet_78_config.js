@@ -1,1 +1,1 @@
-var mnemonic = "ancient abandon casual vehicle seminar bus force oval card pupil glass cement";
+var mnemonic = "ugly rapid orient wear merit laptop mutual nature try paddle depth source";

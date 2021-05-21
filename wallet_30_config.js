@@ -1,1 +1,1 @@
-var mnemonic = "situate romance column they clock crazy follow inch pitch organ account team";
+var mnemonic = "deliver suit settle steel antique enact attack throw violin ritual spread panic";

@@ -1,1 +1,1 @@
-var mnemonic = "remind runway affair wrong mean dream input exile focus inflict life account";
+var mnemonic = "any gaze muscle theory inherit public glad else velvet bus idea time";

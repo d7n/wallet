@@ -1,1 +1,1 @@
-var mnemonic = "check rib heart honey anger goose input crack electric amazing east brush";
+var mnemonic = "mushroom aisle audit fee ill supreme conduct enough coconut lecture menu mushroom";

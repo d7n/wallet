@@ -1,1 +1,1 @@
-var mnemonic = "recipe language fix kitten ghost rookie crash snake person trap fee cliff";
+var mnemonic = "joy excess winner eyebrow upper doll quarter insane frown eager nose stereo";

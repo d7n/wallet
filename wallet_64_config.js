@@ -1,1 +1,1 @@
-var mnemonic = "turtle trend twin struggle liar valve excite neglect total sauce analyst filter";
+var mnemonic = "require swamp tongue also father rescue tuna boy person awesome faculty vintage";

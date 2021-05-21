@@ -1,1 +1,1 @@
-var mnemonic = "reunion wall wise describe shiver expose suggest empower scale thrive actor frequent";
+var mnemonic = "mom kingdom ship corn theory bird lady deal private inner canyon lend";

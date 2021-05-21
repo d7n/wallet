@@ -1,1 +1,1 @@
-var mnemonic = "label caution caught hill minor faint skill tip inspire toddler swift spatial";
+var mnemonic = "health left relax wire still round hammer joke network lonely eyebrow gaze";

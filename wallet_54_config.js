@@ -1,1 +1,1 @@
-var mnemonic = "idle lottery matter swamp surface jungle match sword horror major impose glance";
+var mnemonic = "party task tag alien armor panic grass carry cruel doll monster width";

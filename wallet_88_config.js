@@ -1,1 +1,1 @@
-var mnemonic = "fragile confirm evoke purchase resemble inject oppose apology sheriff fall nation square";
+var mnemonic = "outer jeans satoshi leave demise afford toilet harbor acid ketchup valley decorate";

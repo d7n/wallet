@@ -1,1 +1,1 @@
-var mnemonic = "theory sea absent slender elegant grab oyster bulk multiply addict mixed bulb";
+var mnemonic = "caught bitter clay pattern bring olympic diamond because shiver promote surround similar";

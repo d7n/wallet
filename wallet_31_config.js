@@ -1,1 +1,1 @@
-var mnemonic = "grit shaft gallery enough tortoise idea aunt concert ship luggage anchor math";
+var mnemonic = "matrix evolve exact over infant movie myth indoor shift sheriff slice humor";

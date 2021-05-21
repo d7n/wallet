@@ -1,1 +1,1 @@
-var mnemonic = "chunk artwork kidney siren tomato inmate cake panther endorse carpet lizard phone";
+var mnemonic = "gravity rent taxi view december tenant scatter task they wave slab lecture";

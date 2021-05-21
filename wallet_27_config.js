@@ -1,1 +1,1 @@
-var mnemonic = "three umbrella advice slide dolphin lion cave razor category rude ready curious";
+var mnemonic = "fog denial update nose remove abstract skate tired team left fox final";

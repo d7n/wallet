@@ -1,1 +1,1 @@
-var mnemonic = "monkey carbon bracket auction trick comfort aspect elephant walnut latin false bone";
+var mnemonic = "option course fatigue reason settle buzz top round silly canal party coil";

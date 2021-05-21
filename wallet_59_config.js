@@ -1,1 +1,1 @@
-var mnemonic = "observe vote fault bind cloth base popular sell animal square badge enter";
+var mnemonic = "film depth panda image tool mad version abstract feature hunt leisure suffer";

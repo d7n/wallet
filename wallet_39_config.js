@@ -1,1 +1,1 @@
-var mnemonic = "staff rotate oxygen lake never busy casual spare pride crucial imitate infant";
+var mnemonic = "lab execute harbor garment meat typical letter inform margin betray lemon satisfy";

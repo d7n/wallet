@@ -1,1 +1,1 @@
-var mnemonic = "believe bind veteran leopard tilt radar dream syrup try steak arena review";
+var mnemonic = "moral local morning over fiction fat provide pact foam maid planet woman";

@@ -1,1 +1,1 @@
-var mnemonic = "toe mass awkward cotton depart gentle phone nurse range wagon ahead spell";
+var mnemonic = "what indoor rail cherry angle orphan december biology small bonus picnic bullet";

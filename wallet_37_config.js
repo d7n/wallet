@@ -1,1 +1,1 @@
-var mnemonic = "install essay cluster artwork aware empty cross simple palm pool honey bracket";
+var mnemonic = "joke liar safe cancel shove disease squirrel loan raven fringe junk cover";

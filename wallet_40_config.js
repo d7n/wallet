@@ -1,1 +1,1 @@
-var mnemonic = "child ball goat hire diet silver slogan lunch install belt pigeon turtle";
+var mnemonic = "age essence actress pill verb round tobacco keep another use inject bitter";

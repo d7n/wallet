@@ -1,1 +1,1 @@
-var mnemonic = "never solution ignore wreck cupboard account settle trade final thunder border relief";
+var mnemonic = "detect alone paper slam police almost other put oyster adult crater radio";

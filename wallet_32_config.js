@@ -1,1 +1,1 @@
-var mnemonic = "fame project alarm choice lava brisk flush rail flavor feed key loan";
+var mnemonic = "tent okay gift ghost leg hand isolate breeze laugh there auto risk";

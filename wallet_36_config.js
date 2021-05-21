@@ -1,1 +1,1 @@
-var mnemonic = "museum gadget wife sight debris dose party pilot memory anxiety awesome ready";
+var mnemonic = "panther tank easy layer secret affair suffer major benefit blind room hedgehog";

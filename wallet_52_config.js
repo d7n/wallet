@@ -1,1 +1,1 @@
-var mnemonic = "reduce solid near clerk glad sample patch ugly dial decline found print";
+var mnemonic = "question dog artwork pink lecture charge ice very sail rug page riot";

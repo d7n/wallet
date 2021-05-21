@@ -1,1 +1,1 @@
-var mnemonic = "hurt great safe winter mystery enlist device never siren victory fit snack";
+var mnemonic = "grocery number aisle upper secret cluster vast promote edit verb unknown profit";

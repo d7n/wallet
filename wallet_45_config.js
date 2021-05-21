@@ -1,1 +1,1 @@
-var mnemonic = "direct build lend walk romance satisfy mimic surround boat limit buddy danger";
+var mnemonic = "test ripple market eyebrow sell glove flag crater attend snow pigeon remind";

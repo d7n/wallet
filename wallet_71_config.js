@@ -1,1 +1,1 @@
-var mnemonic = "gorilla blade body retreat sheriff gather flower expose galaxy clerk very door";
+var mnemonic = "order absurd able outside ketchup civil grant corn office flush junk account";

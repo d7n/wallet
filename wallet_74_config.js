@@ -1,1 +1,1 @@
-var mnemonic = "slab wonder hand scare host win flock hundred air cattle wine grass";
+var mnemonic = "false neutral caution public salmon narrow cat input pull merge regret glance";

@@ -1,1 +1,1 @@
-var mnemonic = "must motor matrix film reform few chief proof effort gym fashion glance";
+var mnemonic = "give refuse empty exercise rather ride shoe harvest winner hockey pizza distance";

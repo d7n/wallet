@@ -1,1 +1,1 @@
-var mnemonic = "soul immune chase pyramid deal solar library finger traffic laugh master matrix";
+var mnemonic = "must milk stand marble poet swamp clean include practice leader special essay";

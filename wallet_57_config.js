@@ -1,1 +1,1 @@
-var mnemonic = "lecture winter scan index glance trust cheese verb energy grant undo day";
+var mnemonic = "midnight camera soap problem mystery manage muffin inflict pioneer smooth project only";

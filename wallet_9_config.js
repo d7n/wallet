@@ -1,1 +1,1 @@
-var mnemonic = "wisdom defense code taxi fun stadium stool broken south rail squirrel umbrella";
+var mnemonic = "enter lonely upset country win atom spirit fine neck wheat truck affair";

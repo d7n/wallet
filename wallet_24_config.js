@@ -1,1 +1,1 @@
-var mnemonic = "save trumpet stomach shrimp scheme cook seven tilt hole toss merit dish";
+var mnemonic = "frame stay civil insect interest engage cause picnic orphan swap decide abandon";

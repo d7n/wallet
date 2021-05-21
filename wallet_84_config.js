@@ -1,1 +1,1 @@
-var mnemonic = "candy sample donate address faith tortoise dash liar father report oppose strategy";
+var mnemonic = "offer person fever focus rare dwarf vibrant already dumb century resemble parrot";

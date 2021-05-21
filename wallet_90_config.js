@@ -1,1 +1,1 @@
-var mnemonic = "flee minor weapon reopen venue dumb first slab grab number current furnace";
+var mnemonic = "grief desk manage blanket maid tool word casual coyote together stomach answer";

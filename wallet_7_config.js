@@ -1,1 +1,1 @@
-var mnemonic = "fall palm brown country step twist skill model radar section hello few";
+var mnemonic = "write isolate dwarf movie adapt guitar parent clown dry grit close someone";

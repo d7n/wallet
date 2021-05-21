@@ -1,1 +1,1 @@
-var mnemonic = "settle ladder exact august online betray claw crater picnic three merit tumble";
+var mnemonic = "glad what only cave blossom live column cactus unknown isolate town network";

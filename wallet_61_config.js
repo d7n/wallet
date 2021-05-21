@@ -1,1 +1,1 @@
-var mnemonic = "cage figure coast vendor story curious tackle wool discover rule local outer";
+var mnemonic = "thumb liquid cradle ramp bacon biology lizard prize cheese coin chat start";

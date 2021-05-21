@@ -1,1 +1,1 @@
-var mnemonic = "economy spoil clever palace illness shrimp lock offer feel oxygen when gift";
+var mnemonic = "favorite crush right ski insect proof unable roast side source similar amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "equal settle morning benefit skin ship ticket trial fiction expose focus success";
+var mnemonic = "glide pact tumble smoke candy trade coast hour taste flavor original boring";

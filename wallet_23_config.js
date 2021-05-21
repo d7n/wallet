@@ -1,1 +1,1 @@
-var mnemonic = "toilet birth hat segment ankle twenty math neck sponsor outdoor must access";
+var mnemonic = "advice code double dentist material such mention apart car miracle gravity kit";

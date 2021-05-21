@@ -1,1 +1,1 @@
-var mnemonic = "jewel property feature resist beach enlist car boy over muffin cushion creek";
+var mnemonic = "typical people main impulse ring property chase chalk skill month coyote video";

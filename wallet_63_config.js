@@ -1,1 +1,1 @@
-var mnemonic = "glove gun verb erosion hood thumb debris glow hobby invite laundry urban";
+var mnemonic = "zone element fury kid depend ankle saddle draft jump into copy tenant";

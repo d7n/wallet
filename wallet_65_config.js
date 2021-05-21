@@ -1,1 +1,1 @@
-var mnemonic = "broken hen disagree market give ripple hybrid seminar problem senior coin excess";
+var mnemonic = "switch isolate auto access sea student naive rural kite card random elbow";

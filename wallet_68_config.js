@@ -1,1 +1,1 @@
-var mnemonic = "boil plate say maple exhibit destroy zebra fringe level camp source grass";
+var mnemonic = "permit endorse fan cousin strike canyon pioneer debate assist divide runway pistol";

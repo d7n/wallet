@@ -1,1 +1,1 @@
-var mnemonic = "pulp bomb supreme sick pilot fatigue harbor opera hamster fresh debate outside";
+var mnemonic = "arm monster dumb invest egg lyrics company street motor entire cross pear";

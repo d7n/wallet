@@ -1,1 +1,1 @@
-var mnemonic = "police master large burden satoshi sponsor casino leg estate endorse vessel addict";
+var mnemonic = "segment leave vendor faculty zebra negative brush gift ridge fringe glass engine";

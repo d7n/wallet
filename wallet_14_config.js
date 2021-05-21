@@ -1,1 +1,1 @@
-var mnemonic = "regret destroy vicious urge creek few seat bus addict muffin urge marine";
+var mnemonic = "october cycle recycle umbrella garbage rocket wheat pair ozone zero artefact name";

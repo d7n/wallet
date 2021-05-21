@@ -1,1 +1,1 @@
-var mnemonic = "depart profit moral lyrics ridge science slab alcohol disease vote utility human";
+var mnemonic = "traffic spin world praise sausage acid few photo license hammer twin solar";

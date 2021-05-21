@@ -1,1 +1,1 @@
-var mnemonic = "start gaze angry champion fitness bargain doll relax spice lesson define cement";
+var mnemonic = "bulk bench resource merry impact shrug purchase great peanut price grocery setup";

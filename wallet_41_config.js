@@ -1,1 +1,1 @@
-var mnemonic = "good marine civil mouse ceiling move census duty thumb slow gorilla book";
+var mnemonic = "surge tomato champion wise harsh pumpkin host west teach another very depart";

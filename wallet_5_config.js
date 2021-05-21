@@ -1,1 +1,1 @@
-var mnemonic = "sentence midnight begin truly crawl inherit mass midnight exercise garden traffic room";
+var mnemonic = "switch famous hip borrow pink lounge bacon silent course pen cry chapter";

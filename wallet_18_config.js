@@ -1,1 +1,1 @@
-var mnemonic = "engage moral keep all metal route cheap post large brief use top";
+var mnemonic = "destroy hope assume cabin grape youth vast tower empty silk turtle sketch";

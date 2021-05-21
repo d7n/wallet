@@ -1,1 +1,1 @@
-var mnemonic = "burger comic wild zebra oven earn tell frozen when diamond later uncover";
+var mnemonic = "velvet drama report bacon inflict shrimp parrot wire winner behind found group";

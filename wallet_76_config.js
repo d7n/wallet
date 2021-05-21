@@ -1,1 +1,1 @@
-var mnemonic = "hour trumpet attitude salute law travel december frozen lion company ivory office";
+var mnemonic = "melody daring whisper pelican tissue invite glimpse point section spin cloth season";

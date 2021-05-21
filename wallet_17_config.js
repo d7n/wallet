@@ -1,1 +1,1 @@
-var mnemonic = "dilemma derive inflict entry awake hero cause light toward voice bleak green";
+var mnemonic = "bone worry assault deputy current clever grief owner hospital onion void private";

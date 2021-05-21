@@ -1,1 +1,1 @@
-var mnemonic = "host vessel utility wish weapon stumble nature risk middle cupboard entire uncle";
+var mnemonic = "hello rough rocket must strike choice trip wagon rude diary problem change";

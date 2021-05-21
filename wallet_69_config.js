@@ -1,1 +1,1 @@
-var mnemonic = "click garlic matter off people predict broom image atom glare profit skill";
+var mnemonic = "vacuum stay pluck trigger hurdle tuna tiny drive patient trap flush vanish";

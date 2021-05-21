@@ -1,1 +1,1 @@
-var mnemonic = "minute advice farm limit filter hotel elephant income gown apple weasel require";
+var mnemonic = "can domain token bench bubble total curtain poem urban cushion pass turtle";

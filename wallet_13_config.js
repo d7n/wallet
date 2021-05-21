@@ -1,1 +1,1 @@
-var mnemonic = "alter culture rotate unit awkward scan sea together also item gas grape";
+var mnemonic = "series place fame harsh exact fit hen estate noble gain hire toe";

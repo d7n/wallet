@@ -1,1 +1,1 @@
-var mnemonic = "shoot fun rib dentist remind core silent settle radar slim net useful";
+var mnemonic = "clown vicious general garbage box seat grain hill absent evolve country battle";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar loop jungle ancient lyrics robust despair direct dog pulp glow twice";
+var mnemonic = "ask edge endless chat race panel drastic venture raccoon twin country page";

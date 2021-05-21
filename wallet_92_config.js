@@ -1,1 +1,1 @@
-var mnemonic = "phrase swap boost note attend duck sunset stereo govern absent draw swim";
+var mnemonic = "success control cannon rich cute view family journey system mechanic keep lady";

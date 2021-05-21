@@ -1,1 +1,1 @@
-var mnemonic = "city wisdom dolphin immune pause artist network lemon leader outside demand help";
+var mnemonic = "utility ocean until drum coast insane lawn vessel hurry hidden paper amount";

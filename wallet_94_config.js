@@ -1,1 +1,1 @@
-var mnemonic = "owner menu pair art prepare alter mass guard wing onion hair hurry";
+var mnemonic = "primary portion nephew dawn deputy century liberty honey express hockey guilt illness";

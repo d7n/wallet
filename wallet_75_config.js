@@ -1,1 +1,1 @@
-var mnemonic = "hunt add step tray leisure asset divide volume onion ring enroll inform";
+var mnemonic = "crumble hair anger resist control oil axis glove oven parrot this lock";

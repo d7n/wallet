@@ -1,1 +1,1 @@
-var mnemonic = "find grape account twelve warrior near fee ladder denial muscle benefit feed";
+var mnemonic = "canyon mule welcome pistol manual sleep dance license recycle retreat tunnel left";

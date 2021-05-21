@@ -1,1 +1,1 @@
-var mnemonic = "uncle amateur imitate north relief pole chronic fan gentle bright defy card";
+var mnemonic = "company plunge apart canoe track teach pencil fossil raven auto beauty day";

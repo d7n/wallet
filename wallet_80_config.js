@@ -1,1 +1,1 @@
-var mnemonic = "cabbage double bottom method fatigue brisk flush mimic sing ring oblige front";
+var mnemonic = "strategy tortoise grocery drop bicycle choice creek brother connect always turn illness";

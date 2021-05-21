@@ -1,1 +1,1 @@
-var mnemonic = "bridge later sugar stomach wash vital fit laugh planet toward friend police";
+var mnemonic = "stock rally race quantum lazy meat make soul minimum zoo chronic gun";

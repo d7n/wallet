@@ -1,1 +1,1 @@
-var mnemonic = "meadow alert team napkin cruise there pioneer stadium deposit insect crater safe";
+var mnemonic = "enemy kiwi grocery artefact escape final confirm casino true donkey whisper basket";

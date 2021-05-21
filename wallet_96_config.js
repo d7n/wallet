@@ -1,1 +1,1 @@
-var mnemonic = "party since between fetch rapid accident alarm resemble pilot lizard hollow dose";
+var mnemonic = "zoo clinic cabin badge airport apology clip army violin deliver recall runway";

@@ -1,1 +1,1 @@
-var mnemonic = "quote buffalo skate goat payment arm aim human sunny bulk three wood";
+var mnemonic = "moral train humble album until once slogan bird dentist diary load funny";
