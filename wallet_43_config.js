@@ -1,1 +1,1 @@
-var mnemonic = "fox correct deny dwarf shrug until legend jump stock armed sugar reunion";
+var mnemonic = "annual scissors marriage regular net eagle sting friend spoon join tent illegal";

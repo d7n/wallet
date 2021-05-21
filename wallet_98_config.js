@@ -1,1 +1,1 @@
-var mnemonic = "jump blood gun agent size core element armed tonight chat day equip";
+var mnemonic = "industry episode hedgehog sibling anger peasant cruise tip baby cabin hazard unhappy";

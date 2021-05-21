@@ -1,1 +1,1 @@
-var mnemonic = "off vehicle aim kingdom finger oxygen grace rescue pride main quick combine";
+var mnemonic = "acquire object rebel erupt join age wage unable soft bicycle light fog";

@@ -1,1 +1,1 @@
-var mnemonic = "trip air wrong donate valve outer spell lake never level humble outdoor";
+var mnemonic = "multiply clock defense patch child flock lawsuit behind cloth broom throw aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "agent pulse genuine include donkey february butter tool tonight waste denial that";
+var mnemonic = "plunge second brief business hockey trip lamp surface below come result manage";

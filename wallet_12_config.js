@@ -1,1 +1,1 @@
-var mnemonic = "velvet appear income tattoo elevator scorpion hello solution that master anxiety immense";
+var mnemonic = "street innocent scan glide useless victory bulb equal belt leopard grab dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "genius honey neutral attack web switch glue student avocado drill garage leopard";
+var mnemonic = "fence diagram photo universe arrange flush balcony olympic rapid boring soon release";

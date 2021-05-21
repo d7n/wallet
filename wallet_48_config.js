@@ -1,1 +1,1 @@
-var mnemonic = "season online fall inside develop alter zone barely excite inject scatter spot";
+var mnemonic = "best hawk eagle critic hawk define sword vault echo abuse fury coconut";

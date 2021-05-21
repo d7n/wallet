@@ -1,1 +1,1 @@
-var mnemonic = "educate verify alarm industry bitter harbor traffic umbrella result phrase vacuum income";
+var mnemonic = "gate ship sound modify pipe dignity skate name trouble awesome harsh lizard";

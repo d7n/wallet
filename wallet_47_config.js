@@ -1,1 +1,1 @@
-var mnemonic = "infant excuse metal mandate please guess taste pipe around physical post shallow";
+var mnemonic = "false beyond analyst absent fuel city fire only three retreat travel comic";

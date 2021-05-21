@@ -1,1 +1,1 @@
-var mnemonic = "dentist scout inflict advice note scatter scare media share ordinary mercy unlock";
+var mnemonic = "insane entry item soon pony abuse dune gold jealous scrub proud found";

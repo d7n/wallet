@@ -1,1 +1,1 @@
-var mnemonic = "husband huge rally effort casino primary bitter hedgehog dice wool robust final";
+var mnemonic = "quiz island bracket vintage blade trap alter sibling invite earn heart vague";

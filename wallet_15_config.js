@@ -1,1 +1,1 @@
-var mnemonic = "solid offer crawl clog stereo fuel word lift skull man asset kangaroo";
+var mnemonic = "crop recall dumb night action assist riot witness stove pole pencil toe";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror suspect sunset file lizard two destroy solar donate skill more wrestle";
+var mnemonic = "toddler pave runway rail layer night escape team horror daughter unhappy learn";

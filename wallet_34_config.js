@@ -1,1 +1,1 @@
-var mnemonic = "squeeze gesture mercy quiz network exercise cable amount base expect trigger stadium";
+var mnemonic = "frost turn lawn pilot east impose diagram private sense fruit quiz tail";

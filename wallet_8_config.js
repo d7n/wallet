@@ -1,1 +1,1 @@
-var mnemonic = "north museum era trade despair cash anchor penalty credit member ball first";
+var mnemonic = "shove excess crash diesel reason gasp come erosion tip animal need debate";

@@ -1,1 +1,1 @@
-var mnemonic = "music arrive rice also similar long fence genuine column admit student pink";
+var mnemonic = "produce honey goddess resource any viable clip region horror river level craft";

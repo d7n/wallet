@@ -1,1 +1,1 @@
-var mnemonic = "flavor fetch olive pride hurdle call kid clump speed inner endless measure";
+var mnemonic = "argue primary lake safe text else mercy funny leave exhaust pilot raccoon";

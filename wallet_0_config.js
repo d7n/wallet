@@ -1,1 +1,1 @@
-var mnemonic = "vanish case oven fire vendor enjoy genius life ramp effort glow dwarf";
+var mnemonic = "maid begin chase pen smoke jeans trash sugar coast law tornado weekend";

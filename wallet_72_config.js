@@ -1,1 +1,1 @@
-var mnemonic = "unaware turtle daring beef blood glimpse remember resemble twelve exile advance bone";
+var mnemonic = "catch bag robust false rose gun muffin manual enroll tunnel bomb escape";

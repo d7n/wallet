@@ -1,1 +1,1 @@
-var mnemonic = "urban half disagree moment toast surprise clock slight amused friend course large";
+var mnemonic = "dial situate zebra cook twice wage belt weird book number monkey blast";

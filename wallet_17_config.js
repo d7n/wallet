@@ -1,1 +1,1 @@
-var mnemonic = "use grunt april cotton snake pink explain typical engine logic false enough";
+var mnemonic = "blame ensure fiction treat math jaguar alien foot muffin fancy exhibit body";

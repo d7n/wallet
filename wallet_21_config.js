@@ -1,1 +1,1 @@
-var mnemonic = "online merit night artist sense lamp casino tattoo hole tree step often";
+var mnemonic = "cave defy spoil kingdom describe frown crack confirm parent air sudden employ";

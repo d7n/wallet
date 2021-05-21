@@ -1,1 +1,1 @@
-var mnemonic = "moon useless glare alcohol decrease banner opera book old husband surround crack";
+var mnemonic = "burger sad fabric food survey chef eye pilot mosquito rely demise spell";

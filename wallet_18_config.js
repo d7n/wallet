@@ -1,1 +1,1 @@
-var mnemonic = "stand thing glance proof nose tongue trash weather simple crawl adult analyst";
+var mnemonic = "fitness lawsuit crouch steak capable celery team debate service crazy day february";

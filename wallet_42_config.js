@@ -1,1 +1,1 @@
-var mnemonic = "frequent fame area diesel love shed west wait wear science battle fury";
+var mnemonic = "glare soup joke smoke tank obscure immense parent pupil enhance comic area";

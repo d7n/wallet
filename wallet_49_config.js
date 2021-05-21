@@ -1,1 +1,1 @@
-var mnemonic = "help action hollow balance stand cloud squirrel grief moon response build era";
+var mnemonic = "tube heart strategy improve ecology burst coffee visit sock paper capable network";

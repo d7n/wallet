@@ -1,1 +1,1 @@
-var mnemonic = "crouch spend fetch clutch cabbage able dizzy theory guard crawl two penalty";
+var mnemonic = "devote elbow matrix tattoo affair shield snake correct bind cook output orbit";

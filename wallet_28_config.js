@@ -1,1 +1,1 @@
-var mnemonic = "midnight repair toilet husband cabbage danger curve home story industry shell grow";
+var mnemonic = "ramp holiday receive alcohol crouch thrive what impact police faint metal sign";

@@ -1,1 +1,1 @@
-var mnemonic = "advice cousin hour squirrel misery rural absorb brand mom game rib reflect";
+var mnemonic = "loud forest harvest village man cause opinion desert phrase famous envelope cinnamon";

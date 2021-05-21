@@ -1,1 +1,1 @@
-var mnemonic = "course lecture cloud frame title cargo faint junk child boat risk gas";
+var mnemonic = "hope mystery rifle runway reason spatial actor limb knee shock claw figure";

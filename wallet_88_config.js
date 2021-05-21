@@ -1,1 +1,1 @@
-var mnemonic = "nose erosion gate glory bean nuclear fan check mean ahead safe draw";
+var mnemonic = "hockey tongue spawn consider panda dish trade wisdom ability gospel weather urge";

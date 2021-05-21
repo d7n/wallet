@@ -1,1 +1,1 @@
-var mnemonic = "bus heavy coconut toast movie install galaxy news sausage payment muscle plunge";
+var mnemonic = "below thing start moral middle cancel staff sign movie where task kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "cost winner tag cinnamon lucky method misery scare wall party demand blind";
+var mnemonic = "critic embark choose fog space wagon empty flip rival scissors festival midnight";

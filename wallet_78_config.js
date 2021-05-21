@@ -1,1 +1,1 @@
-var mnemonic = "still misery cash aware economy discover blame daughter regret argue about seed";
+var mnemonic = "quiz blast pill style prize crush orphan gossip image girl hood shove";

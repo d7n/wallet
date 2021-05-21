@@ -1,1 +1,1 @@
-var mnemonic = "eternal rent orange canoe muffin state grit economy picnic rib helmet scan";
+var mnemonic = "fantasy okay six repair volume hedgehog retreat robust brother swing parent slide";

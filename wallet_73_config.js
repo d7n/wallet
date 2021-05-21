@@ -1,1 +1,1 @@
-var mnemonic = "laundry nest tone response club caught visit that history involve coil obtain";
+var mnemonic = "expand squirrel merge omit alpha traffic drink zone shop shoot dad cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "expire question occur rescue front sound peasant blast recycle save purpose fantasy";
+var mnemonic = "thrive safe tent poverty gaze profit resource height list life wine transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "critic traffic assault zone morning lesson name output now kidney paddle horror";
+var mnemonic = "raw man index sugar search room digital fault error object slender leave";

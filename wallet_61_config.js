@@ -1,1 +1,1 @@
-var mnemonic = "infant infant involve crane frozen lyrics hunt evoke employ fold rigid hand";
+var mnemonic = "naive job chair sketch meadow reform submit wet paper south else situate";

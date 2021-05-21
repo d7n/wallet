@@ -1,1 +1,1 @@
-var mnemonic = "train attitude surface isolate crisp cotton woman muffin cheap grow type loud";
+var mnemonic = "suspect denial alarm glory balance puzzle image cupboard junior enhance fancy divide";

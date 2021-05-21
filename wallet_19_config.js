@@ -1,1 +1,1 @@
-var mnemonic = "famous hand rookie jealous right flower small cute ordinary what network inspire";
+var mnemonic = "bread quantum tourist blouse hip maximum response symptom museum direct settle allow";

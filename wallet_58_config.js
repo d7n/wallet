@@ -1,1 +1,1 @@
-var mnemonic = "rival lock lab laugh defy wedding day board stuff dumb wonder lucky";
+var mnemonic = "key donor hunt tired virtual sure pool merry slim pony piano honey";

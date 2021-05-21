@@ -1,1 +1,1 @@
-var mnemonic = "kite high file practice share expect leader friend wool smile shadow street";
+var mnemonic = "filter decorate visual simple harsh security faith wonder fluid rely oval budget";

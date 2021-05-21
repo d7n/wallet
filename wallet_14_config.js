@@ -1,1 +1,1 @@
-var mnemonic = "lesson boat just rabbit light dad announce alcohol body maple siren puzzle";
+var mnemonic = "believe indoor drop sick magnet point endorse mad solve soap metal long";

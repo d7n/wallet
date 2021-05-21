@@ -1,1 +1,1 @@
-var mnemonic = "pill sport clerk favorite fun alarm ethics delay high brass great wedding";
+var mnemonic = "before goat tiny apart cattle blossom amount road fashion rocket unit unique";

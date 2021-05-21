@@ -1,1 +1,1 @@
-var mnemonic = "glide child ship switch farm room stand shed correct tube coach name";
+var mnemonic = "insane elder major tattoo local vintage usage bless joy aware coin curve";

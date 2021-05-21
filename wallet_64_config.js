@@ -1,1 +1,1 @@
-var mnemonic = "humble glide issue lawsuit number volcano network subway occur security mind plastic";
+var mnemonic = "panic accident illegal weasel they march sleep aware key neither tackle ceiling";

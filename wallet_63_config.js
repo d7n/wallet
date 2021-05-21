@@ -1,1 +1,1 @@
-var mnemonic = "enjoy zoo retire civil squeeze sail visit drastic antenna more unfair limit";
+var mnemonic = "physical elder atom element life dumb phrase traffic powder pioneer antique satisfy";

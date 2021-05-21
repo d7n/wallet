@@ -1,1 +1,1 @@
-var mnemonic = "place embrace paper yellow slender hello garlic attend royal marine match snap";
+var mnemonic = "circle tomato alarm pave face surprise axis drum cat enact ranch pig";

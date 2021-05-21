@@ -1,1 +1,1 @@
-var mnemonic = "afford alpha addict close stay defy vault bracket select world few monster";
+var mnemonic = "effort width assume actual fitness bicycle genre find tail patch copper lift";

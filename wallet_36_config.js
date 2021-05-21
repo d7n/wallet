@@ -1,1 +1,1 @@
-var mnemonic = "crack usage upset strategy festival disagree turn hundred uncle evil fall resource";
+var mnemonic = "damp foster update melt mean cargo misery wisdom answer pulse book milk";

@@ -1,1 +1,1 @@
-var mnemonic = "flee property current zone chalk snap word behind latin ocean tape reward";
+var mnemonic = "cart body maze silent possible corn sample height outside market final lunar";

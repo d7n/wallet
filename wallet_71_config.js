@@ -1,1 +1,1 @@
-var mnemonic = "bundle spoil swim shift agree utility stock describe image coil pledge dutch";
+var mnemonic = "nerve index enter ritual pilot fragile quit loop average focus any deliver";

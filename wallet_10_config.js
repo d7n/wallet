@@ -1,1 +1,1 @@
-var mnemonic = "fog shop umbrella forward bachelor valley pave soon struggle security peasant text";
+var mnemonic = "very famous business hamster vicious club legal derive turn glad rose boost";

@@ -1,1 +1,1 @@
-var mnemonic = "ski skate limb venue elephant runway shrug animal capital north blouse lunch";
+var mnemonic = "sting approve collect win parade trial upon keen rice typical salt burst";

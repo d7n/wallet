@@ -1,1 +1,1 @@
-var mnemonic = "doctor float fire debate gospel exercise useless legal ladder divide lottery dry";
+var mnemonic = "benefit noble fluid absorb maple unaware shoot appear envelope material member enemy";

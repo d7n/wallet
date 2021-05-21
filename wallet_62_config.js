@@ -1,1 +1,1 @@
-var mnemonic = "parrot matter pear bronze art vast allow toward reject crop rough duck";
+var mnemonic = "aunt rely explain series deposit junk satoshi brain surge machine library brother";

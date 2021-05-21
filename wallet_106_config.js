@@ -1,1 +1,1 @@
-var mnemonic = "imitate oven yellow renew become essence attack rule domain media energy page";
+var mnemonic = "anchor domain naive chicken nose witness pause snack carpet voice tell milk";

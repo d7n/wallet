@@ -1,1 +1,1 @@
-var mnemonic = "crop harsh bag alarm critic benefit advance twice neutral aspect super track";
+var mnemonic = "bitter embrace enact female rescue general friend hurry urban lunar hurt cover";

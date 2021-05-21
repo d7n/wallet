@@ -1,1 +1,1 @@
-var mnemonic = "extra apple risk armor logic melt crater come settle rabbit brass depart";
+var mnemonic = "scale lift real convince sustain surge apple suspect female sand try harbor";

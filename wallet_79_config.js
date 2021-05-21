@@ -1,1 +1,1 @@
-var mnemonic = "liberty drama old remove buzz genuine empower depart village joke lucky dish";
+var mnemonic = "intact bronze lounge strategy letter close delay scan faculty first lawn accident";

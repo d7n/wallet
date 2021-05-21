@@ -1,1 +1,1 @@
-var mnemonic = "price guess spoil kid asthma thunder tunnel claw figure sphere fiscal yellow";
+var mnemonic = "issue myth setup process model athlete filter orient venue neglect false green";

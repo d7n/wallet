@@ -1,1 +1,1 @@
-var mnemonic = "use yellow spice mask utility install arrest aware cousin obey slow robust";
+var mnemonic = "viable collect dust carry smart thought rhythm become card grocery ecology economy";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb oppose rival cash jelly cloth cause symbol baby supreme burden army";
+var mnemonic = "debris table cycle funny busy surface box theory bus dinosaur broom animal";

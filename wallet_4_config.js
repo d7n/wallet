@@ -1,1 +1,1 @@
-var mnemonic = "rate engage tiger roof nature morning axis wool keen mixed velvet dog";
+var mnemonic = "oblige shrimp erupt sad target fuel lamp enrich list chronic shaft wolf";

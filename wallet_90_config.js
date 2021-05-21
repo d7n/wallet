@@ -1,1 +1,1 @@
-var mnemonic = "weasel refuse win three proud cloth arrange enemy soup enjoy clown eight";
+var mnemonic = "rescue cherry famous service orbit control near giggle climb train discover repeat";

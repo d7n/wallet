@@ -1,1 +1,1 @@
-var mnemonic = "around utility harbor long early extend mercy drastic scout ethics cable cinnamon";
+var mnemonic = "dirt marine erode ship rabbit rhythm toe venture resource cricket grant salad";

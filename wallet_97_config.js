@@ -1,1 +1,1 @@
-var mnemonic = "arm crowd random valid welcome bomb task program good bird draft flip";
+var mnemonic = "unusual toss panda fruit current orchard glue main swallow able turn since";

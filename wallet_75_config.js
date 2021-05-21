@@ -1,1 +1,1 @@
-var mnemonic = "wasp reason wear final fun file still ring camera twist defense divorce";
+var mnemonic = "erupt fluid minute pulse shed file obtain grain bench verb circle lunar";

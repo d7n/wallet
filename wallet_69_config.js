@@ -1,1 +1,1 @@
-var mnemonic = "home rocket aisle cluster swim angle reflect survey crack brick control diesel";
+var mnemonic = "deer clerk actress trash toss below since bachelor ghost warfare shrimp egg";

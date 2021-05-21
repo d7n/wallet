@@ -1,1 +1,1 @@
-var mnemonic = "roast possible erode poet goose funny sell alter syrup kit furnace robust";
+var mnemonic = "soon hover custom relief renew man scatter hedgehog furnace produce rent language";

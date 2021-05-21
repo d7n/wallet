@@ -1,1 +1,1 @@
-var mnemonic = "must family exact renew judge depend memory bottom find celery melody lawn";
+var mnemonic = "coffee eight gorilla soup squirrel bike pear maze sick choose jacket record";

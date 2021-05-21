@@ -1,1 +1,1 @@
-var mnemonic = "frozen arch junk obtain jeans negative foam when stock bulk afraid twin";
+var mnemonic = "muffin ready worry curious valley evidence bonus milk believe mail rabbit slam";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt weird require return exchange property valley donkey tuition spoil pistol material";
+var mnemonic = "vendor bottom demand amazing learn room ice thought course anger soul benefit";

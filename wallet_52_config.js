@@ -1,1 +1,1 @@
-var mnemonic = "person gasp throw swarm able double clerk vote base autumn hurt match";
+var mnemonic = "airport obtain lion mother sample inch erosion cereal wolf crawl visa auction";

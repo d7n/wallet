@@ -1,1 +1,1 @@
-var mnemonic = "fashion betray title melody library meat boat cotton evil accuse fever affair";
+var mnemonic = "hire matrix swamp fancy street fever vocal stage vessel follow useful arm";

@@ -1,1 +1,1 @@
-var mnemonic = "often hollow social hollow case like large bronze over radar denial disagree";
+var mnemonic = "art harvest lucky come toward fiction session useful try knife define quantum";

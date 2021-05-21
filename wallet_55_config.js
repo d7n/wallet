@@ -1,1 +1,1 @@
-var mnemonic = "fold pulse engage female brisk advice purpose nominee industry home skate rather";
+var mnemonic = "together butter wool friend shaft absorb craft upgrade thumb grape across almost";

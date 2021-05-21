@@ -1,1 +1,1 @@
-var mnemonic = "suffer purchase brick matrix shrimp napkin easy uniform bracket anxiety little cliff";
+var mnemonic = "april fix absurd beef food bring funny element target manage child meat";

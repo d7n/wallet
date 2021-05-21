@@ -1,1 +1,1 @@
-var mnemonic = "ahead immense spoil order cluster addict offer swap donor collect room chronic";
+var mnemonic = "gift include company reopen prevent equip glass promote clog network mad spare";

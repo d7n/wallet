@@ -1,1 +1,1 @@
-var mnemonic = "blue trap drill essence quick black argue urge hole drive problem daring";
+var mnemonic = "flip thing zoo bid rose hen hurt level ski awkward wait artefact";

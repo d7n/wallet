@@ -1,1 +1,1 @@
-var mnemonic = "bonus quick truck west job universe resemble awkward junior coyote slice skirt";
+var mnemonic = "era unfold economy life keep search room junk elbow scissors napkin session";

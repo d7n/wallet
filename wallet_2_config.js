@@ -1,1 +1,1 @@
-var mnemonic = "soft dry enforce spatial guard young tent armor town embrace rebuild phone";
+var mnemonic = "silly disagree observe swim update enlist license food donate blossom never flight";

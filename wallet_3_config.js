@@ -1,1 +1,1 @@
-var mnemonic = "neutral coral ethics destroy enough distance carpet disease summer bullet feed void";
+var mnemonic = "frost crush genius symbol fun axis park water carbon twist lunar relax";

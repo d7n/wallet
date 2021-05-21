@@ -1,1 +1,1 @@
-var mnemonic = "dish drama valve track rotate inmate promote train adapt lonely valid jazz";
+var mnemonic = "blouse pistol behave onion road animal entire goat vivid sentence robust flush";

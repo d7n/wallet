@@ -1,1 +1,1 @@
-var mnemonic = "dismiss atom wise lend album sense arch entry meadow submit license capital";
+var mnemonic = "change invest sudden valve frozen urge nut history throw drill caught neutral";

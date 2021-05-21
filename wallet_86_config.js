@@ -1,1 +1,1 @@
-var mnemonic = "depend march luggage axis romance light buffalo picnic phone author region cereal";
+var mnemonic = "alpha label absent sadness urge cousin avocado giant exile knock injury decline";

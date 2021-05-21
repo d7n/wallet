@@ -1,1 +1,1 @@
-var mnemonic = "address emerge hire siren junior crowd blade crack wood axis rigid lamp";
+var mnemonic = "burger royal odor board lecture confirm bracket museum drink surge shell purpose";

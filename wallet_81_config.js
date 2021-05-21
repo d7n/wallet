@@ -1,1 +1,1 @@
-var mnemonic = "episode satisfy police erupt damage describe mandate decline shallow ask all wood";
+var mnemonic = "purity ramp stand grant child index apart hub attitude laptop execute pink";

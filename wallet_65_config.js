@@ -1,1 +1,1 @@
-var mnemonic = "nasty wheat kiwi clerk furnace design more lunar learn dragon inner fee";
+var mnemonic = "story find orbit grace problem focus usage key humble depart test rent";
