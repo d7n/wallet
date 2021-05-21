@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rubber myth easy light thing please mesh student surge inhale hunt";
+var mnemonic = "muffin isolate aware remain pen conduct flower denial coach fiber market ginger";

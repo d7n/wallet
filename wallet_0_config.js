@@ -1,1 +1,1 @@
-var mnemonic = "brush crystal section two rubber cinnamon plate foster wide into diary push";
+var mnemonic = "glow rose multiply edit equal detail mutual toe siege appear grid artist";

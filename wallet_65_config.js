@@ -1,1 +1,1 @@
-var mnemonic = "love range gaze head unique burger utility crystal juice license trash supreme";
+var mnemonic = "baby crunch camp honey insane actor voice crisp dignity feed gold spring";

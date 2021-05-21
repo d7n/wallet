@@ -1,1 +1,1 @@
-var mnemonic = "reopen prize junk stock normal device spoon gym animal pepper coast stadium";
+var mnemonic = "high alcohol civil digital recall metal exile stone jeans patient try fiber";

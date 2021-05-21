@@ -1,1 +1,1 @@
-var mnemonic = "amazing armed vault cereal since ritual story noodle rally sing pull junk";
+var mnemonic = "glory cover demand core eagle already taxi gospel limb bus emerge assume";

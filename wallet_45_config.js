@@ -1,1 +1,1 @@
-var mnemonic = "bronze figure faint thumb orphan inmate chef ability faint sport manual steel";
+var mnemonic = "salon change order sponsor barrel resist bone melt orchard else sight home";

@@ -1,1 +1,1 @@
-var mnemonic = "average example index fitness table slam path beef open misery spy sound";
+var mnemonic = "camp good busy combine wise upper mimic witness web door finger clinic";

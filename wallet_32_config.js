@@ -1,1 +1,1 @@
-var mnemonic = "broom cargo scale tank verb favorite video fence doll ride rally help";
+var mnemonic = "soda erode toast seed bring song frozen fat initial decrease badge practice";

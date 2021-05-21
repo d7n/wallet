@@ -1,1 +1,1 @@
-var mnemonic = "scare toe name always oblige ivory avocado tone timber sell alarm enforce";
+var mnemonic = "country clap beef shine involve couch industry belt route armed away off";

@@ -1,1 +1,1 @@
-var mnemonic = "strike stick clump analyst drink heart subway cook car cause any lake";
+var mnemonic = "display fitness guide anxiety economy manual observe stage menu solve analyst major";

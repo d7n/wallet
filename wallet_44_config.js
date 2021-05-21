@@ -1,1 +1,1 @@
-var mnemonic = "sweet royal can wrap shallow erase melt casino bomb meat level guess";
+var mnemonic = "hurt jeans outdoor shield release focus radar unlock hip eagle deal pudding";

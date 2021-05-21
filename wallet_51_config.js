@@ -1,1 +1,1 @@
-var mnemonic = "direct theme trip time imitate gorilla blind already fashion dolphin suggest obey";
+var mnemonic = "bus grain census party garment loan animal squirrel clown morning mind switch";

@@ -1,1 +1,1 @@
-var mnemonic = "top goose salute illness odor phrase combine credit lock robot private raven";
+var mnemonic = "people empty luggage mad margin boring defy auction collect wait gorilla universe";

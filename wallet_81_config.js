@@ -1,1 +1,1 @@
-var mnemonic = "panther lady bean scout sunset zone often spoil jelly stay useless zoo";
+var mnemonic = "security spell trumpet outer enemy similar swing lawn copy vital moral what";

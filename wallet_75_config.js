@@ -1,1 +1,1 @@
-var mnemonic = "balance exact orbit pink divide explain token oblige expect wolf reveal month";
+var mnemonic = "volcano zero proud finger under garden grass crowd document degree patch yard";

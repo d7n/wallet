@@ -1,1 +1,1 @@
-var mnemonic = "afford betray thumb jungle twice ability kangaroo habit elbow size scrub spatial";
+var mnemonic = "lend mansion subway aunt height cost meat hen mixed seven snow spoil";

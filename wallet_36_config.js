@@ -1,1 +1,1 @@
-var mnemonic = "bundle since angry trim cover bitter day trade kit traffic alien involve";
+var mnemonic = "slam illness pulp rural unveil blush panic brain valve yellow staff lazy";

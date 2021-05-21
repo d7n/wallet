@@ -1,1 +1,1 @@
-var mnemonic = "foil way favorite gentle member blur trade trigger section kind topic drive";
+var mnemonic = "spare inject impulse try jelly ecology trouble country answer hip ramp harbor";

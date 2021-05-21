@@ -1,1 +1,1 @@
-var mnemonic = "blur limb festival virus fix nothing come blouse census decade soft today";
+var mnemonic = "please usual arena later install dizzy confirm empower shallow follow gather jar";

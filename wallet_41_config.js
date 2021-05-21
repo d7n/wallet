@@ -1,1 +1,1 @@
-var mnemonic = "vacant near stereo month supply satoshi wink nation audit olympic arrive update";
+var mnemonic = "giggle illegal peace primary table shrimp enforce protect quote eternal chef card";

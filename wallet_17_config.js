@@ -1,1 +1,1 @@
-var mnemonic = "tool invest phone replace follow uncover wrist horn egg wash project claim";
+var mnemonic = "economy achieve key attract armor bacon firm team clown body solution amused";

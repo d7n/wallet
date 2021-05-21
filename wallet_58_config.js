@@ -1,1 +1,1 @@
-var mnemonic = "expect muscle level column debate help history fossil erase inflict neutral file";
+var mnemonic = "include clown since verb enact rib cigar olive hawk kitchen team talent";

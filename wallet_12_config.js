@@ -1,1 +1,1 @@
-var mnemonic = "demise first neck call trash equip carry sell over lunar nose sibling";
+var mnemonic = "potato mass evil cancel velvet satisfy build junk logic skate keep visa";

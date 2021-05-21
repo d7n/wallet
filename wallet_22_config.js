@@ -1,1 +1,1 @@
-var mnemonic = "elder cliff need unfold basic crumble grape affair vendor yellow cat board";
+var mnemonic = "wage mail office argue tackle cherry april pattern exhaust aisle deposit noodle";

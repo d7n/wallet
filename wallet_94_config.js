@@ -1,1 +1,1 @@
-var mnemonic = "corn bus hat hospital arrow offer light shell march right shaft clerk";
+var mnemonic = "glory ritual drop beach spoon shock limit pave donate crush board donor";

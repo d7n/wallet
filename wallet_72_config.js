@@ -1,1 +1,1 @@
-var mnemonic = "remind sniff axis phone pledge dice stem talk idle fuel outer poverty";
+var mnemonic = "regret private alien cram soon pond obtain walnut wall spread burden they";

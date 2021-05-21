@@ -1,1 +1,1 @@
-var mnemonic = "since faint always mail obtain text absorb trick medal slight seminar elite";
+var mnemonic = "anger poverty below void sponsor aerobic mother same spoil absent online stand";

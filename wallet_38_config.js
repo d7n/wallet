@@ -1,1 +1,1 @@
-var mnemonic = "devote patient divert stamp yard apart wash pelican pottery ice utility chicken";
+var mnemonic = "pass taste property evidence duty green exchange position rent country labor buddy";

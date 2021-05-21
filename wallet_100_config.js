@@ -1,1 +1,1 @@
-var mnemonic = "renew panther bag problem please cool resemble veteran release reveal air upset";
+var mnemonic = "fire female nominee pole pen artist paper patrol visual anchor stick increase";

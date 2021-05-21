@@ -1,1 +1,1 @@
-var mnemonic = "saddle camera capable track practice orbit evoke undo panel swift brown little";
+var mnemonic = "west grab glory brush high organ provide carry evidence suit cushion small";

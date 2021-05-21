@@ -1,1 +1,1 @@
-var mnemonic = "churn shoe math ghost essence cook source feel meat layer merge together";
+var mnemonic = "cycle deposit style vehicle advance blame subject dinner citizen zoo bench child";

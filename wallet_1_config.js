@@ -1,1 +1,1 @@
-var mnemonic = "main measure game power gauge board tourist fish shoe find crucial thing";
+var mnemonic = "exit promote retreat float toast diary subject zoo say minor avocado album";

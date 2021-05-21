@@ -1,1 +1,1 @@
-var mnemonic = "asthma hen original inflict unaware loan wire glide south fortune level drill";
+var mnemonic = "critic good hazard table degree guilt gown grain foot casual odor change";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest home make foil fame error leisure tissue acoustic office client seed";
+var mnemonic = "expire speak search devote bid eternal poet cash walnut coin gadget endless";

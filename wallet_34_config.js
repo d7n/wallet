@@ -1,1 +1,1 @@
-var mnemonic = "snow pet credit replace antique impulse control escape elder ozone chief end";
+var mnemonic = "report simple embark language focus pulp crane forum illegal excess quarter trip";

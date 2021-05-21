@@ -1,1 +1,1 @@
-var mnemonic = "congress connect trial spatial drip spider grain crush senior forum orient panic";
+var mnemonic = "label dignity guitar disagree jewel together rescue staff glare poverty blue build";

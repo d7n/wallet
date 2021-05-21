@@ -1,1 +1,1 @@
-var mnemonic = "truly era accident pen grass tube know add panther conduct range shoulder";
+var mnemonic = "gloom weasel bulb assume mammal harsh awkward seminar spawn mistake join void";

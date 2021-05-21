@@ -1,1 +1,1 @@
-var mnemonic = "verb nephew expand goose trap primary correct come air used convince crawl";
+var mnemonic = "cactus era win blouse critic habit sound cancel orphan risk garden buffalo";

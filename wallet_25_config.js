@@ -1,1 +1,1 @@
-var mnemonic = "tube response birth duty obvious ranch deputy boy penalty pull reveal myth";
+var mnemonic = "bless ecology exhibit lava lamp predict tomorrow lawn there boost list bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "letter manual crowd cinnamon churn save scout brass sorry next around shrimp";
+var mnemonic = "fetch blind airport left sleep depart iron mandate what bamboo patrol detail";

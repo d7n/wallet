@@ -1,1 +1,1 @@
-var mnemonic = "night beach typical maple degree scrap border monitor diary coyote broken discover";
+var mnemonic = "myself amateur sauce cradle paddle sauce attract yellow discover beyond field battle";

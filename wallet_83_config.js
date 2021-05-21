@@ -1,1 +1,1 @@
-var mnemonic = "police tip guitar achieve push best help document lady output belt master";
+var mnemonic = "hawk stumble outside beauty grow clock beach offer wink indoor letter hybrid";

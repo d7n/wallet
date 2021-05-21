@@ -1,1 +1,1 @@
-var mnemonic = "girl ketchup turkey false sample donkey next despair afford length toy toe";
+var mnemonic = "digital defense faith car injury tongue river mom fish math sword index";

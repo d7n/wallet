@@ -1,1 +1,1 @@
-var mnemonic = "diet result remove lumber trouble acquire say cable toss wreck glue strike";
+var mnemonic = "actor artwork sunset salmon piece match kidney clean hat stem gloom lunar";

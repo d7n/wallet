@@ -1,1 +1,1 @@
-var mnemonic = "practice name scare violin march select uphold barely panel spring key palm";
+var mnemonic = "library broccoli wall powder slide drastic siren walk water ask pact damp";

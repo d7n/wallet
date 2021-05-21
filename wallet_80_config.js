@@ -1,1 +1,1 @@
-var mnemonic = "build ridge unlock pair whisper pluck speak audit gown inherit assume spell";
+var mnemonic = "verify grow black album giggle front indoor random key oxygen fatal idle";

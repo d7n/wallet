@@ -1,1 +1,1 @@
-var mnemonic = "soldier gain fit thank alone garbage cross grunt symbol course gate tonight";
+var mnemonic = "degree scout violin potato come letter crane animal six advance feature mother";

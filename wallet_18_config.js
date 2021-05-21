@@ -1,1 +1,1 @@
-var mnemonic = "across cram fruit core common start seat bone dignity service boy because";
+var mnemonic = "gentle truly junk fossil harvest salon fault aim upset quality nasty defense";

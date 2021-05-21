@@ -1,1 +1,1 @@
-var mnemonic = "slush filter become person deer position risk invest devote section arrest chapter";
+var mnemonic = "coach physical false leisure treat glove ankle keep drift blanket picture extra";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle voyage pony aspect prepare future elevator place sight gun right camera";
+var mnemonic = "worry artefact bleak evil excite crash vital shock sweet chat stem laugh";

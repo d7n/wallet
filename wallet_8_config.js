@@ -1,1 +1,1 @@
-var mnemonic = "divorce deliver body benefit easily same check canvas task timber situate wear";
+var mnemonic = "mask miss ketchup way float rocket input drum square system frown cruise";

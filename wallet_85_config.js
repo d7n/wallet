@@ -1,1 +1,1 @@
-var mnemonic = "barrel inside celery demise jazz defense expand unveil timber typical exercise quick";
+var mnemonic = "rotate minimum intact engage behave pulp tag green toilet typical crush quantum";

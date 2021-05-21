@@ -1,1 +1,1 @@
-var mnemonic = "rely board float lunch victory annual ribbon gaze direct fitness laugh panic";
+var mnemonic = "lawn differ blossom hat laundry front inner infant autumn bag ticket half";

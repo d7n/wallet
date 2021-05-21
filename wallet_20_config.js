@@ -1,1 +1,1 @@
-var mnemonic = "wagon airport absurd leg science bullet spell since addict wide firm series";
+var mnemonic = "quit yard genre birth rebuild mercy normal glimpse expose moment crazy famous";

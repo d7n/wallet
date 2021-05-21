@@ -1,1 +1,1 @@
-var mnemonic = "witness then nothing box chimney regret shoe basic fortune jar cliff flower";
+var mnemonic = "helmet coast boil volume seed emerge song close inherit license person cannon";

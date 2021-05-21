@@ -1,1 +1,1 @@
-var mnemonic = "inside symbol scout cause bamboo cannon assault bamboo extra enable heart lens";
+var mnemonic = "tilt abstract grit season tree must squirrel excuse basket snack habit rain";

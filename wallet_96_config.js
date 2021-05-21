@@ -1,1 +1,1 @@
-var mnemonic = "cage thought monster title unusual remind luggage scare doll tribe expect fruit";
+var mnemonic = "bacon vague critic wire rose cement vast fringe forward hurry plate voyage";

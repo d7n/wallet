@@ -1,1 +1,1 @@
-var mnemonic = "gallery tag hub isolate bundle sadness truly rose grape athlete glass recycle";
+var mnemonic = "earn reward sport inflict awful organ elephant arrow excuse erase police quarter";

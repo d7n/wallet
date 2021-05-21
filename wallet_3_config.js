@@ -1,1 +1,1 @@
-var mnemonic = "mosquito cigar crack pool deer coast struggle govern liar exhibit public mom";
+var mnemonic = "physical fringe eagle license absorb beef clarify turkey odor chest endless habit";

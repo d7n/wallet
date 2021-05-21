@@ -1,1 +1,1 @@
-var mnemonic = "session solution pole embody boat news dune tube current wrong reduce car";
+var mnemonic = "peasant tribe jazz surround before alley wet harsh basic similar protect actual";

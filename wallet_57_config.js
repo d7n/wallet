@@ -1,1 +1,1 @@
-var mnemonic = "six arrest call wet regret zoo ecology milk retire neutral mixture bullet";
+var mnemonic = "speak timber cherry finish ostrich chalk burst online mean few become fetch";

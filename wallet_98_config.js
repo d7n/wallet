@@ -1,1 +1,1 @@
-var mnemonic = "gadget hint endless gun assault material motion lamp raw twice post portion";
+var mnemonic = "bind ski fresh unveil fork daring chronic warrior blade energy biology glimpse";

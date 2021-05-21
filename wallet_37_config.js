@@ -1,1 +1,1 @@
-var mnemonic = "unit awful feed judge prize area axis crater clutch repeat dose resource";
+var mnemonic = "biology inherit unfold model sort blind cherry caught arch split write brief";

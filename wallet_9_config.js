@@ -1,1 +1,1 @@
-var mnemonic = "live into mouse note suffer snack raw april weekend tree come unfold";
+var mnemonic = "mystery scout enact wet permit vault parade scan flight cash toward corn";

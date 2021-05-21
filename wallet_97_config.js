@@ -1,1 +1,1 @@
-var mnemonic = "label sad over foot network fault sand diet green gap beach vivid";
+var mnemonic = "ramp noise hint cash brush meadow raven team stool couch radio just";

@@ -1,1 +1,1 @@
-var mnemonic = "stage maze analyst ahead select brave hub lazy nuclear cool move warfare";
+var mnemonic = "mixture swear twist glimpse primary away labor seek legend kidney flee duck";

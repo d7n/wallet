@@ -1,1 +1,1 @@
-var mnemonic = "analyst depth endorse silly solid screen real hundred gym bench subway pattern";
+var mnemonic = "unable lake uncle mesh chaos coach regular balcony remain guitar shoe spread";

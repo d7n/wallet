@@ -1,1 +1,1 @@
-var mnemonic = "club donate drink tunnel dance screen impulse soap resemble arrive satisfy property";
+var mnemonic = "fame know bomb inhale approve reflect hair process armor undo business settle";

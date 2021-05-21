@@ -1,1 +1,1 @@
-var mnemonic = "insect bird lucky arch forum code law ahead pear degree estate special";
+var mnemonic = "theme surround fatigue tissue squirrel piano hair stone leader release lock cup";

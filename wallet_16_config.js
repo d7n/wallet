@@ -1,1 +1,1 @@
-var mnemonic = "unfair foot affair over pistol onion once ranch pitch novel mango trust";
+var mnemonic = "priority toddler rural weekend leader satoshi duck matrix please today burst picture";

@@ -1,1 +1,1 @@
-var mnemonic = "movie stock era spice cigar hover quick wagon cannon rival pink easy";
+var mnemonic = "student curious hill fiber weapon audit alone coin merge random cabbage kite";

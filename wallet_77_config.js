@@ -1,1 +1,1 @@
-var mnemonic = "develop rug impact jelly buffalo shoot cluster action awesome possible uphold toss";
+var mnemonic = "day buyer circle ankle goddess twelve spice infant decorate case roof actual";

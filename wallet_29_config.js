@@ -1,1 +1,1 @@
-var mnemonic = "illness tape myth message drip hybrid couch destroy game fan top symptom";
+var mnemonic = "viable occur box enough elegant siren large eagle vague valley erase oak";

@@ -1,1 +1,1 @@
-var mnemonic = "truth poverty mistake fence enact lend stool deposit thing armed deputy food";
+var mnemonic = "west latin bench cake broken song clean decline trim hundred weather lottery";

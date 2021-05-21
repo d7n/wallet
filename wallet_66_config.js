@@ -1,1 +1,1 @@
-var mnemonic = "trust upper news worry enough action avocado year burden scorpion pass top";
+var mnemonic = "blue green giggle kiss execute curve jelly come together stuff barrel extend";

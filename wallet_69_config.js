@@ -1,1 +1,1 @@
-var mnemonic = "gauge trim food wire helmet reflect power denial circle jewel human enhance";
+var mnemonic = "scan wood solar angle kick client ready junk unusual board attitude merry";

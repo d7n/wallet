@@ -1,1 +1,1 @@
-var mnemonic = "stick include bone suggest tragic prosper still barrel orbit army sadness enhance";
+var mnemonic = "exhaust correct sentence ladder you below lunar front subway volume warrior adult";

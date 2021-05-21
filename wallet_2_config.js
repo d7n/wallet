@@ -1,1 +1,1 @@
-var mnemonic = "odor else title toss bonus other fly income hair bright lounge idea";
+var mnemonic = "illness chicken disorder story coral vintage session rotate tip face draft unknown";

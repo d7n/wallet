@@ -1,1 +1,1 @@
-var mnemonic = "wrestle casino grace before region kingdom tongue afford hour arena elegant vast";
+var mnemonic = "swarm portion lunar behind math legal smile rib clap maze thunder fog";

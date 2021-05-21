@@ -1,1 +1,1 @@
-var mnemonic = "slight link narrow enemy census morning dwarf name service rich sheriff defy";
+var mnemonic = "chef hurdle usage finish whale more hunt shell vehicle romance predict parent";

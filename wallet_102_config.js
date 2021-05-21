@@ -1,1 +1,1 @@
-var mnemonic = "pink enhance issue sunny rapid story destroy fiscal notice urge trumpet letter";
+var mnemonic = "laptop produce basket amazing into fluid margin letter runway shed twenty armor";

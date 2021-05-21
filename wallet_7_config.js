@@ -1,1 +1,1 @@
-var mnemonic = "gossip near violin permit mutual obey caution attract sunset glimpse valley catch";
+var mnemonic = "favorite grief rocket job danger acid image barely squirrel quote program industry";

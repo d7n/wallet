@@ -1,1 +1,1 @@
-var mnemonic = "glory keen spring tunnel park atom empower gather very essay evoke invest";
+var mnemonic = "potato laugh exist hello senior lawsuit exclude wing casino rail measure same";

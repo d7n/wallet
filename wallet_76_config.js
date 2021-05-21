@@ -1,1 +1,1 @@
-var mnemonic = "hungry minute term worth throw happy run exhaust swamp shuffle view cargo";
+var mnemonic = "margin blanket thing fruit oval west hungry reopen abstract dose relax shell";

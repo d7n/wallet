@@ -1,1 +1,1 @@
-var mnemonic = "garage era aunt canal wrestle sail divert tuna slim flash mobile fortune";
+var mnemonic = "refuse essence monitor nominee park mountain dove number trick rate nephew much";

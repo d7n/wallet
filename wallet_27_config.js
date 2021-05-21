@@ -1,1 +1,1 @@
-var mnemonic = "clog analyst dog confirm wall bless athlete salad hurt exclude service crash";
+var mnemonic = "reason kangaroo sponsor torch over organ bind camp focus cliff diamond raw";

@@ -1,1 +1,1 @@
-var mnemonic = "afford throw seek spray blush program tail special item sword dutch depth";
+var mnemonic = "service tobacco party steak ethics old media speed turkey scale garment elevator";

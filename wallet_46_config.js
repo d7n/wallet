@@ -1,1 +1,1 @@
-var mnemonic = "knock foil grape prosper spell monkey text list cargo inquiry replace glare";
+var mnemonic = "cricket mandate this tennis insect tone basic exhibit error rough record tip";

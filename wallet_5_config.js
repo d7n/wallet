@@ -1,1 +1,1 @@
-var mnemonic = "buyer mad legend void spike nothing pelican wasp midnight review empower release";
+var mnemonic = "raise muffin skin ginger list fiber delay stove shine spatial parrot chest";

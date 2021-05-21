@@ -1,1 +1,1 @@
-var mnemonic = "dutch ahead vivid enemy unhappy tunnel finish say unusual youth inch morning";
+var mnemonic = "settle oppose pool pottery ecology silent draft giggle surround bone power spy";

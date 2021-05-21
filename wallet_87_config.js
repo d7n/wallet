@@ -1,1 +1,1 @@
-var mnemonic = "slow provide awake repeat beef fatigue flower odor peanut tag family egg";
+var mnemonic = "kit fine donor rate noise talent cat office dumb exotic lend spoon";

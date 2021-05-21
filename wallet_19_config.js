@@ -1,1 +1,1 @@
-var mnemonic = "smile mountain captain put stamp letter veteran day next rug give release";
+var mnemonic = "auto wolf spy foster cotton treat crater toast ordinary female gown car";

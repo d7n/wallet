@@ -1,1 +1,1 @@
-var mnemonic = "parent when end edit giant student drink peace click that certain father";
+var mnemonic = "renew enjoy wagon day affair rebuild kingdom display hidden slice clever intact";

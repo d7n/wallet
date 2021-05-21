@@ -1,1 +1,1 @@
-var mnemonic = "citizen butter fish notable method jeans remain vacant senior shuffle poem dash";
+var mnemonic = "victory sell million icon hover spatial bottom task chaos drift absorb album";

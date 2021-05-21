@@ -1,1 +1,1 @@
-var mnemonic = "sustain enough welcome another exhaust gorilla divorce candy pulse scissors sniff emotion";
+var mnemonic = "figure adjust soldier tent where guitar poet twelve text exhaust fence cream";

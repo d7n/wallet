@@ -1,1 +1,1 @@
-var mnemonic = "clip trumpet execute slim thumb dumb risk bird uncover embody concert north";
+var mnemonic = "adult appear skirt great start scheme fame sure inquiry book yellow tape";

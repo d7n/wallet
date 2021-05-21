@@ -1,1 +1,1 @@
-var mnemonic = "various solve school oyster snap portion film axis flock toward divide fossil";
+var mnemonic = "fun buzz benefit early dumb cause peanut outside sketch blush jelly warrior";

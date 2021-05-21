@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wasp chapter book that seat clay mask chimney design just joy";
+var mnemonic = "champion decrease pluck same family dinner globe erosion nominee penalty allow update";
