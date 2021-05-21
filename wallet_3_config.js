@@ -1,1 +1,1 @@
-var mnemonic = "seminar dynamic prevent clump gather ginger million luggage face midnight jaguar slush";
+var mnemonic = "horror delay connect blood wait blade trial inherit traffic taxi sock drift";

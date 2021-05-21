@@ -1,1 +1,1 @@
-var mnemonic = "normal faculty sustain soap sunset ecology potato camera lend fine furnace build";
+var mnemonic = "gown timber draft brand almost canal coach zero hat merge arrow robust";

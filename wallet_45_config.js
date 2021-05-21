@@ -1,1 +1,1 @@
-var mnemonic = "team ecology prize submit inner explain host dynamic deer valley view abuse";
+var mnemonic = "post double finish shiver seminar steel cluster alter october sting breeze shrimp";

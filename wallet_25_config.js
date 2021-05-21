@@ -1,1 +1,1 @@
-var mnemonic = "wait common submit unhappy impulse gadget nominee symptom bag toilet tennis cry";
+var mnemonic = "order foil carry lamp visit useful escape burden scale toilet student figure";

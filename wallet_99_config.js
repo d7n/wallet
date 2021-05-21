@@ -1,1 +1,1 @@
-var mnemonic = "clap inspire fly youth top ill shiver bird conduct carbon sudden jacket";
+var mnemonic = "upgrade business pool october giraffe eager million side coach gaze water hammer";

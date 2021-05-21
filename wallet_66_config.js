@@ -1,1 +1,1 @@
-var mnemonic = "window blade lobster wrist test subject hazard fly radio shock flat trumpet";
+var mnemonic = "before ancient portion brisk setup nasty across level night envelope subject private";

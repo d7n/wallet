@@ -1,1 +1,1 @@
-var mnemonic = "frozen insect float inner fatal old wrist scorpion leg double wish limb";
+var mnemonic = "remove junk pluck close hazard lake provide curve robust sell learn table";

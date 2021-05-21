@@ -1,1 +1,1 @@
-var mnemonic = "alarm scrap put breeze parrot dolphin sail nation punch tennis soon script";
+var mnemonic = "pass answer improve jazz opinion turn remember scheme picture smart reopen tree";

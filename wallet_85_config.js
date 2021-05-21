@@ -1,1 +1,1 @@
-var mnemonic = "circle cave february olympic original shell shell gospel divert fuel gauge piano";
+var mnemonic = "video weapon initial gun virus hand uniform atom jazz process crew drum";

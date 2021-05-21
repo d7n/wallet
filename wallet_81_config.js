@@ -1,1 +1,1 @@
-var mnemonic = "car table solid observe pottery mad unable shy desert hotel insect pattern";
+var mnemonic = "wear balcony decade letter sustain silk marble amateur need final believe sound";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor tonight decide circle run attend naive kitten trophy expect place open";
+var mnemonic = "barely runway father door author fence call boring snake sausage crack mule";

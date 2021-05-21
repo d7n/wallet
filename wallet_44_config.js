@@ -1,1 +1,1 @@
-var mnemonic = "morning clip father year join verb demand hybrid raccoon misery gap lock";
+var mnemonic = "spy wasp thrive situate evil celery drum recall duty tobacco grunt gossip";

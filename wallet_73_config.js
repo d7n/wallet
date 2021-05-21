@@ -1,1 +1,1 @@
-var mnemonic = "length armor ensure become skill student cash shoot marble cruel typical night";
+var mnemonic = "wrist tank stomach vault fuel accuse jealous select canyon main ensure portion";

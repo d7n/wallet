@@ -1,1 +1,1 @@
-var mnemonic = "push debate weird solid buddy warfare chest casino coin cloud permit suit";
+var mnemonic = "title truck joy wheat total robot parent sister donate garlic thrive find";

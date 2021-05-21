@@ -1,1 +1,1 @@
-var mnemonic = "reflect illegal chair torch art kiwi lab shrimp present series make conduct";
+var mnemonic = "tackle hour engage suit doll jelly chunk hover elder whisper carbon theory";

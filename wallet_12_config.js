@@ -1,1 +1,1 @@
-var mnemonic = "illegal response alley faculty skill curve lawn fancy speed sail country click";
+var mnemonic = "ring answer chunk chaos elite surprise idea owner then easily ramp desk";

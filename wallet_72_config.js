@@ -1,1 +1,1 @@
-var mnemonic = "borrow birth satisfy carbon surround talent slow any walnut chunk curve museum";
+var mnemonic = "talk capable unable soda clean acoustic check float mind office idle fold";

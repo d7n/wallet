@@ -1,1 +1,1 @@
-var mnemonic = "nuclear dirt rifle audit top protect short cycle dolphin dust utility hammer";
+var mnemonic = "manual veteran only balcony hollow usage swamp garden mimic action ask egg";

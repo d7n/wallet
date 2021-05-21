@@ -1,1 +1,1 @@
-var mnemonic = "ring fruit brass blue giraffe swap walk theme void used depth pulse";
+var mnemonic = "bronze swift memory father foil type exit country lottery auction aware random";

@@ -1,1 +1,1 @@
-var mnemonic = "stone laugh car slab jewel gaze insect identify kingdom critic hungry fetch";
+var mnemonic = "december diagram width trash humble salad orbit donkey melt language increase excuse";

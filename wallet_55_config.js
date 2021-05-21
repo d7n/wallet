@@ -1,1 +1,1 @@
-var mnemonic = "enrich absurd submit energy small rely business click enjoy year one where";
+var mnemonic = "film busy breeze color insane heart garlic smart praise genuine laptop slogan";

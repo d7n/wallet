@@ -1,1 +1,1 @@
-var mnemonic = "comfort joke surround try leisure high camp gym heart horror canal truth";
+var mnemonic = "light oven nurse tennis luxury mind clap melody physical crane olive core";

@@ -1,1 +1,1 @@
-var mnemonic = "wait bracket jewel analyst believe orphan cross you flee diet flock dish";
+var mnemonic = "face lesson canoe cube thought pioneer force deer wolf sheriff mention steak";

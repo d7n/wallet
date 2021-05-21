@@ -1,1 +1,1 @@
-var mnemonic = "goddess hammer vocal diary energy pipe banana stereo hen wire bulk return";
+var mnemonic = "blind crucial cement blood draw actual leopard raise margin delay morning dream";

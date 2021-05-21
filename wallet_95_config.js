@@ -1,1 +1,1 @@
-var mnemonic = "spider room enhance adjust analyst tonight minor snow chicken lyrics attract merry";
+var mnemonic = "affair seek essence zoo puzzle champion creek bike tent giant elite improve";

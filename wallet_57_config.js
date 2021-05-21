@@ -1,1 +1,1 @@
-var mnemonic = "gather donor indoor fluid injury yellow shaft squeeze horror matter south fog";
+var mnemonic = "knife depend swear galaxy surprise need praise hat about diary twenty prosper";

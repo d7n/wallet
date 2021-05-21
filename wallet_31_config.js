@@ -1,1 +1,1 @@
-var mnemonic = "picture unique palace relief stage uniform audit fruit helmet thunder gravity have";
+var mnemonic = "life goddess neglect muscle output level response autumn round tumble shy frame";

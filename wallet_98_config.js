@@ -1,1 +1,1 @@
-var mnemonic = "robot panic present gun glimpse child echo destroy gown actor curtain maid";
+var mnemonic = "jeans step maple quit outside spoil lens scout loan finger barely message";

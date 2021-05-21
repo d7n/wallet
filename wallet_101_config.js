@@ -1,1 +1,1 @@
-var mnemonic = "maid peasant gallery blind bunker first super farm where trouble good limit";
+var mnemonic = "brand mountain actress you feature match system helmet trim manage electric game";

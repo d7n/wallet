@@ -1,1 +1,1 @@
-var mnemonic = "sail minor blanket quote eagle tool cloud timber absurd shoot awesome bitter";
+var mnemonic = "truly suggest absurd what unknown evidence middle sea helmet dinosaur reveal riot";

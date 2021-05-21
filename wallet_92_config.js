@@ -1,1 +1,1 @@
-var mnemonic = "spatial digital banner faculty fall music oblige faith banana light elegant law";
+var mnemonic = "neither lesson jar unknown exclude merit can mixture draft tilt swim vanish";

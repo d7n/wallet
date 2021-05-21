@@ -1,1 +1,1 @@
-var mnemonic = "deny fire trust cushion poem almost aerobic alone magnet sauce industry lizard";
+var mnemonic = "travel tragic water stadium echo bottom target permit broccoli orient minor hair";

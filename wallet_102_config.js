@@ -1,1 +1,1 @@
-var mnemonic = "acid office gentle lunch sniff liar pyramid fury ripple sick meadow recall";
+var mnemonic = "shoulder crash tired notable hawk orbit paper obtain cram boat pipe act";

@@ -1,1 +1,1 @@
-var mnemonic = "speed hurdle trick salon coin glory test parent input awkward learn kidney";
+var mnemonic = "love chase first mind entire come injury invite park silly flat outside";

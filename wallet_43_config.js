@@ -1,1 +1,1 @@
-var mnemonic = "cloth erode lady shoe sorry inside marriage hat phrase club mechanic entire";
+var mnemonic = "kit galaxy able fly pony ready gas pencil empty runway glue grocery";

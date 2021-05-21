@@ -1,1 +1,1 @@
-var mnemonic = "alien gospel slight hamster fine session few you denial solve skill head";
+var mnemonic = "apology surround punch clog armor group fruit tone apple special bright laptop";

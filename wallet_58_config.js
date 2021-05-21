@@ -1,1 +1,1 @@
-var mnemonic = "analyst umbrella main letter celery suit claw inch outer wreck enable such";
+var mnemonic = "fruit tree rigid trouble pill car awesome fitness milk party essence salute";

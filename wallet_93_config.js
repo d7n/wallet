@@ -1,1 +1,1 @@
-var mnemonic = "common ramp confirm color fitness dry raise approve model wing exotic clog";
+var mnemonic = "enough double transfer pretty kid wear danger student bubble surprise road doctor";

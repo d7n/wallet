@@ -1,1 +1,1 @@
-var mnemonic = "fox midnight journey south crater stadium assist merry mad reduce asthma can";
+var mnemonic = "donor interest sister acid combine country source lyrics rocket payment essence pulp";

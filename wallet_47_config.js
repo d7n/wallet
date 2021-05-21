@@ -1,1 +1,1 @@
-var mnemonic = "diesel capital dust traffic anxiety lion pupil giant history aerobic physical legend";
+var mnemonic = "army rough quantum enact bomb artwork size mention cigar artwork vanish arch";

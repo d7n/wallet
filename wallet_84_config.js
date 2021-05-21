@@ -1,1 +1,1 @@
-var mnemonic = "someone conduct valid crumble silent order ten large burger misery brief broccoli";
+var mnemonic = "until occur exhibit wheat rice pen genius hope before idle practice height";

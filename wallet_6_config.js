@@ -1,1 +1,1 @@
-var mnemonic = "giraffe earn layer lamp grape airport dad resemble tide dumb dizzy frozen";
+var mnemonic = "scheme left electric able soul trade color forget sport auto cabbage sure";

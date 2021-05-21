@@ -1,1 +1,1 @@
-var mnemonic = "movie mystery network mirror earth have exit cruel already damage clown argue";
+var mnemonic = "inflict october dynamic pass insect wire note poet prefer pledge legal genre";

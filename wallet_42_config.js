@@ -1,1 +1,1 @@
-var mnemonic = "breeze fresh powder unhappy company impose size bamboo tomorrow bridge apart glimpse";
+var mnemonic = "utility clever position brother shiver gravity decade mention supreme example choose meadow";

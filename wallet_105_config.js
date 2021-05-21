@@ -1,1 +1,1 @@
-var mnemonic = "beef urban river dumb fruit half cook goat funny flavor repeat nest";
+var mnemonic = "merry syrup dad bridge mirror blossom assault spike bulk dawn tragic tilt";

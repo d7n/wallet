@@ -1,1 +1,1 @@
-var mnemonic = "medal aisle rose tiny enable armor patient hammer type episode leg embark";
+var mnemonic = "festival maze latin rifle entry six layer umbrella notice divide tuition finish";

@@ -1,1 +1,1 @@
-var mnemonic = "forum expose snap angle that check similar antique truly twenty caught great";
+var mnemonic = "isolate bless leaf clay trim excite burden range pony write ten puzzle";

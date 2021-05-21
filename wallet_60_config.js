@@ -1,1 +1,1 @@
-var mnemonic = "target fever label blush identify scan proud regular cereal layer prevent burden";
+var mnemonic = "dry library quote unlock amazing minute small fan useless game armor immense";

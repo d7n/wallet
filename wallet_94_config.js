@@ -1,1 +1,1 @@
-var mnemonic = "sign panic media spawn shy barrel minute monster question rhythm shadow door";
+var mnemonic = "citizen remove install left zero dust evidence direct point increase glow hip";

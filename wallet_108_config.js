@@ -1,1 +1,1 @@
-var mnemonic = "purchase juice source vessel empty antique rare scissors west renew trumpet cigar";
+var mnemonic = "police shallow vast cable gauge uncover friend stamp spread dentist fiction parent";

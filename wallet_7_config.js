@@ -1,1 +1,1 @@
-var mnemonic = "flip teach discover woman need skate avoid video nature team possible squirrel";
+var mnemonic = "crime wild venture indicate rifle wrestle day magic slot advice wall immune";

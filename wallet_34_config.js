@@ -1,1 +1,1 @@
-var mnemonic = "clip rebel olive worry pill hover idea wide tortoise duck wife mixture";
+var mnemonic = "fatigue master pattern inmate between ten menu shop olympic enable draft large";

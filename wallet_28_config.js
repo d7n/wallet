@@ -1,1 +1,1 @@
-var mnemonic = "pair enforce swarm fiscal horse simple private sample uncle bridge erode trend";
+var mnemonic = "faint change orbit public swim type oil floor vocal midnight retreat tenant";

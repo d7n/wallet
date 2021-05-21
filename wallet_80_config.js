@@ -1,1 +1,1 @@
-var mnemonic = "steak kangaroo monitor humor man pencil legal quality umbrella fox goat filter";
+var mnemonic = "feature alley program boss sustain forum cover author oven mouse suit gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "live cave gadget minute suffer valve green hawk demand brief veteran place";
+var mnemonic = "diesel stone obtain range burst dream three front rigid way into region";

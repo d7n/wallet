@@ -1,1 +1,1 @@
-var mnemonic = "excite close income style fiscal pole bone crazy mechanic pottery kid digital";
+var mnemonic = "few dentist suit various pioneer double rubber scheme one winner easily riot";

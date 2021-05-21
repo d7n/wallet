@@ -1,1 +1,1 @@
-var mnemonic = "wheel fiber another path evil twice field reject cactus off snow art";
+var mnemonic = "clever connect before indicate sign tag burden auction track shuffle select border";

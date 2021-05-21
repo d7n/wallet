@@ -1,1 +1,1 @@
-var mnemonic = "pledge casual omit record melt cigar message impulse ranch false gap agree";
+var mnemonic = "churn frog into famous mercy chunk bright attend forest entire ensure drill";

@@ -1,1 +1,1 @@
-var mnemonic = "subway utility weather roast tennis paper bread truck history lend local diesel";
+var mnemonic = "minute dice glide oxygen keen brass crop flat blanket tribe boy spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze intact cloud net agent dash gentle toy velvet category skill foam";
+var mnemonic = "like syrup wrap trade wreck rather merit vacuum piece surge focus prefer";

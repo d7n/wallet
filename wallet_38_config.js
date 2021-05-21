@@ -1,1 +1,1 @@
-var mnemonic = "over refuse room shine cushion purity mule student perfect curve host develop";
+var mnemonic = "list evidence powder biology aisle assault client try purity surround december abuse";

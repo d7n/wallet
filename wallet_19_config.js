@@ -1,1 +1,1 @@
-var mnemonic = "east pulp trouble hold apart version volume world index actor acquire silk";
+var mnemonic = "dumb nature smoke arrow side car craft dentist dune brand wagon bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "copy rotate unique always song time diesel priority audit husband festival final";
+var mnemonic = "alcohol wear boy property banner boost empty leopard fame shoulder rough grow";

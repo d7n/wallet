@@ -1,1 +1,1 @@
-var mnemonic = "cotton ginger myth wedding sad protect identify crawl nothing pledge pencil visit";
+var mnemonic = "fall sell story child general sick cigar dune man term flash power";

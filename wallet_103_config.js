@@ -1,1 +1,1 @@
-var mnemonic = "little chuckle dinosaur athlete tool own elevator gauge panther biology brief fatigue";
+var mnemonic = "parent winter pitch bubble midnight capable weekend mask dream moon steak risk";

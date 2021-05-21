@@ -1,1 +1,1 @@
-var mnemonic = "arrest travel siren post gate afraid gentle pole chest wrist between oppose";
+var mnemonic = "asthma seek special tuition shaft swim toilet capable tunnel frog polar lumber";

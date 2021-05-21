@@ -1,1 +1,1 @@
-var mnemonic = "digital bronze camp fiction wrap popular frown evidence carry beyond barrel aspect";
+var mnemonic = "finger rare club tooth sting street invest admit embody much ensure slow";

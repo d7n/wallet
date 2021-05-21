@@ -1,1 +1,1 @@
-var mnemonic = "claw hurt will nut easy twice exist shell educate antique trip cannon";
+var mnemonic = "fancy man shove axis arm tuna script banner fish face razor goat";

@@ -1,1 +1,1 @@
-var mnemonic = "certain imitate disagree occur wheel slot high mixed swing repair robot fork";
+var mnemonic = "drift under success anchor bacon success honey tomato between submit hat able";

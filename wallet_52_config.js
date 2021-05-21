@@ -1,1 +1,1 @@
-var mnemonic = "online melt sadness venue angle flower simple clever legend phone people ivory";
+var mnemonic = "invest flat roast board good person film cave amused meadow truck cancel";

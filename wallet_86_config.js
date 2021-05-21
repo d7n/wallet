@@ -1,1 +1,1 @@
-var mnemonic = "cricket push dentist once foot come acoustic link busy icon coconut hour";
+var mnemonic = "spin promote aisle crack much clever cliff vast flat lemon modify ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover glide river country hair crash burst utility west cliff coyote license";
+var mnemonic = "myth antique onion demise ecology butter harbor visual atom save unknown example";

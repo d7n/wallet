@@ -1,1 +1,1 @@
-var mnemonic = "air category olympic foil again negative oppose knee inspire solve focus busy";
+var mnemonic = "music style dragon decline supreme planet helmet still steak claim taste iron";

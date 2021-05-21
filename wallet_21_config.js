@@ -1,1 +1,1 @@
-var mnemonic = "surface air dance before math barely scorpion series high spare rule blush";
+var mnemonic = "step result moment mistake wet tooth hero soap elder category can admit";

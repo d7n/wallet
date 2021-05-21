@@ -1,1 +1,1 @@
-var mnemonic = "wall stone pen rotate carbon source pupil judge milk race huge casino";
+var mnemonic = "person happy agree token rough novel orbit visual ship rescue lens excite";

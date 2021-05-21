@@ -1,1 +1,1 @@
-var mnemonic = "assist flag kick wise gadget edit smooth glow antenna chat strike horse";
+var mnemonic = "side tribe tired rule recall nerve survey valid absent festival disease salute";

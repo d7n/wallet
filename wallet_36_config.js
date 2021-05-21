@@ -1,1 +1,1 @@
-var mnemonic = "blanket man joke neglect goose filter muscle begin chair water tooth engage";
+var mnemonic = "immune circle aisle gesture about tail news prepare mirror valley twin person";

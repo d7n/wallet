@@ -1,1 +1,1 @@
-var mnemonic = "payment possible army message relief wreck bunker blind plunge heart exercise swing";
+var mnemonic = "broccoli stick name cry breeze furnace trophy exhaust dune add poet leaf";

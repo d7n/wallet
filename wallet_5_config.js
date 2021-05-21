@@ -1,1 +1,1 @@
-var mnemonic = "lamp measure venture wrap apart sunset dirt rescue travel uniform faith census";
+var mnemonic = "media romance detect master describe tide dice era risk modify spot click";

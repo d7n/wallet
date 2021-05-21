@@ -1,1 +1,1 @@
-var mnemonic = "orphan raccoon candy build begin pink final already clay hero young neglect";
+var mnemonic = "barrel misery amount meadow park discover general various index summer rug alien";

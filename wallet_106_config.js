@@ -1,1 +1,1 @@
-var mnemonic = "fragile slot setup deliver rabbit disorder reunion pony carry olympic debate destroy";
+var mnemonic = "give thrive wild cave minimum prize example picture three empower best sibling";

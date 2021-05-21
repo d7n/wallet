@@ -1,1 +1,1 @@
-var mnemonic = "helmet six elbow axis device glue genre lesson include effort thunder cannon";
+var mnemonic = "silk rhythm mango chicken bag vivid flash raise wish ice around leave";

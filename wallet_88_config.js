@@ -1,1 +1,1 @@
-var mnemonic = "tonight valve enact security floor wool decide dove shift twenty sadness sustain";
+var mnemonic = "glow caution school bronze subway indicate uncle leg bicycle improve mother what";

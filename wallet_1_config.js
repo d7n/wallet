@@ -1,1 +1,1 @@
-var mnemonic = "wait kiwi language wedding autumn short must one bird suspect punch rent";
+var mnemonic = "capable relax age defense wink spell bullet weird away fall coconut carpet";
