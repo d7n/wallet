@@ -1,1 +1,1 @@
-var mnemonic = "unhappy join light expose air legal pill cake engage actor crunch inside";
+var mnemonic = "infant infant involve crane frozen lyrics hunt evoke employ fold rigid hand";

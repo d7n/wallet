@@ -1,1 +1,1 @@
-var mnemonic = "have vapor gold blouse drama double enjoy steel loop relief debate become";
+var mnemonic = "imitate oven yellow renew become essence attack rule domain media energy page";

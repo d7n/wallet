@@ -1,1 +1,1 @@
-var mnemonic = "tank crop spot butter neglect decide cause blouse air pulp truly earth";
+var mnemonic = "off vehicle aim kingdom finger oxygen grace rescue pride main quick combine";

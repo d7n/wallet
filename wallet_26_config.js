@@ -1,1 +1,1 @@
-var mnemonic = "alone salon measure region diagram calm brand cricket lobster deliver reform debris";
+var mnemonic = "roast possible erode poet goose funny sell alter syrup kit furnace robust";

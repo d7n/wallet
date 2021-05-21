@@ -1,1 +1,1 @@
-var mnemonic = "announce draft coral car garden behave recall angle domain spread trend draft";
+var mnemonic = "lesson boat just rabbit light dad announce alcohol body maple siren puzzle";

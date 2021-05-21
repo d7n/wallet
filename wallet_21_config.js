@@ -1,1 +1,1 @@
-var mnemonic = "sword alone leave elegant wheel bulk culture defy toe wood thumb other";
+var mnemonic = "online merit night artist sense lamp casino tattoo hole tree step often";

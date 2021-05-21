@@ -1,1 +1,1 @@
-var mnemonic = "square flavor isolate when hire list file island matrix street ridge cruise";
+var mnemonic = "around utility harbor long early extend mercy drastic scout ethics cable cinnamon";

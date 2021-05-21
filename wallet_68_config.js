@@ -1,1 +1,1 @@
-var mnemonic = "hammer angry often aerobic bonus cargo nerve slush genre robust follow concert";
+var mnemonic = "genius honey neutral attack web switch glue student avocado drill garage leopard";

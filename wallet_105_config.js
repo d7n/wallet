@@ -1,1 +1,1 @@
-var mnemonic = "retire cliff agent pony arrest marine motor nice spread faith comic armor";
+var mnemonic = "disease hunt transfer father sock muffin unable foster rally embody festival error";

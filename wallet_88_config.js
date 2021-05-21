@@ -1,1 +1,1 @@
-var mnemonic = "rose jungle cake image then chunk unfold slam session caution come language";
+var mnemonic = "nose erosion gate glory bean nuclear fan check mean ahead safe draw";

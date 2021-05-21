@@ -1,1 +1,1 @@
-var mnemonic = "govern mouse kick bleak update enforce nature return jaguar plate december whip";
+var mnemonic = "glide child ship switch farm room stand shed correct tube coach name";

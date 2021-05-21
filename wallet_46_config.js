@@ -1,1 +1,1 @@
-var mnemonic = "blush achieve detect visit burden riot coyote judge note artefact vocal recipe";
+var mnemonic = "price guess spoil kid asthma thunder tunnel claw figure sphere fiscal yellow";

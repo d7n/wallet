@@ -1,1 +1,1 @@
-var mnemonic = "oak physical damp mixed stairs bacon voice chuckle toilet scale topple sausage";
+var mnemonic = "course lecture cloud frame title cargo faint junk child boat risk gas";

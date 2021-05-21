@@ -1,1 +1,1 @@
-var mnemonic = "oblige tiny breeze answer vocal mansion love long sea impact uphold know";
+var mnemonic = "weasel refuse win three proud cloth arrange enemy soup enjoy clown eight";

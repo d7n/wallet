@@ -1,1 +1,1 @@
-var mnemonic = "demand trial garage drop august office wait infant idle digital vendor glory";
+var mnemonic = "wasp reason wear final fun file still ring camera twist defense divorce";

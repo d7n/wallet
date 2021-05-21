@@ -1,1 +1,1 @@
-var mnemonic = "prize deliver cloth omit brush tuition lock borrow chimney unveil unit spike";
+var mnemonic = "alone camp spin manage toy crumble visa timber skill erosion dice aware";

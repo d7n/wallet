@@ -1,1 +1,1 @@
-var mnemonic = "kitchen mango faith leg season garlic slab gym river welcome club talk";
+var mnemonic = "kite high file practice share expect leader friend wool smile shadow street";

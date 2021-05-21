@@ -1,1 +1,1 @@
-var mnemonic = "warrior pass witness name script dice rose velvet minute equal first mobile";
+var mnemonic = "popular fault always photo monitor visa film theory denial faint outer logic";

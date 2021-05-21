@@ -1,1 +1,1 @@
-var mnemonic = "early lawn caught soldier veteran wolf junk armor plate act guess model";
+var mnemonic = "north museum era trade despair cash anchor penalty credit member ball first";

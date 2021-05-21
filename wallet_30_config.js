@@ -1,1 +1,1 @@
-var mnemonic = "cloth another ozone private ceiling car slight usage please pyramid giggle busy";
+var mnemonic = "advice cousin hour squirrel misery rural absorb brand mom game rib reflect";

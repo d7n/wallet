@@ -1,1 +1,1 @@
-var mnemonic = "north siren together veteran act diet gravity transfer check wasp urban doctor";
+var mnemonic = "depend march luggage axis romance light buffalo picnic phone author region cereal";

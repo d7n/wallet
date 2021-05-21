@@ -1,1 +1,1 @@
-var mnemonic = "craft clip alter whisper jaguar impact embrace spirit april cool famous cheese";
+var mnemonic = "flavor fetch olive pride hurdle call kid clump speed inner endless measure";

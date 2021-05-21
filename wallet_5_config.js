@@ -1,1 +1,1 @@
-var mnemonic = "coral metal around soon cattle noodle fee kangaroo payment diet current tired";
+var mnemonic = "train attitude surface isolate crisp cotton woman muffin cheap grow type loud";

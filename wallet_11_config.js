@@ -1,1 +1,1 @@
-var mnemonic = "item hurt pride parade dad vendor crash unveil monkey sibling swim science";
+var mnemonic = "crouch spend fetch clutch cabbage able dizzy theory guard crawl two penalty";

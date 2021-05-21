@@ -1,1 +1,1 @@
-var mnemonic = "tourist miracle saddle gallery arena orient surface blouse day enforce business grunt";
+var mnemonic = "obtain enrich zero wise pioneer disagree frown ahead awesome forward orbit grant";

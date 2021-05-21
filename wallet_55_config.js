@@ -1,1 +1,1 @@
-var mnemonic = "flower march enlist access shop chief way garbage weather soft onion army";
+var mnemonic = "fold pulse engage female brisk advice purpose nominee industry home skate rather";

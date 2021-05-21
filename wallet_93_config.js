@@ -1,1 +1,1 @@
-var mnemonic = "bulk squeeze online ensure box mule whisper remember pioneer divert pretty hamster";
+var mnemonic = "flee property current zone chalk snap word behind latin ocean tape reward";

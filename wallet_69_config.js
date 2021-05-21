@@ -1,1 +1,1 @@
-var mnemonic = "enlist obvious blade rough castle aware era lunch denial south party sick";
+var mnemonic = "home rocket aisle cluster swim angle reflect survey crack brick control diesel";

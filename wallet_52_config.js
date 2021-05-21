@@ -1,1 +1,1 @@
-var mnemonic = "bag example reunion collect among unable one vital magnet crash decline usage";
+var mnemonic = "person gasp throw swarm able double clerk vote base autumn hurt match";

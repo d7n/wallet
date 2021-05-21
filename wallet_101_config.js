@@ -1,1 +1,1 @@
-var mnemonic = "steak calm avoid leg void cycle lamp month nice dinner crumble robust";
+var mnemonic = "ahead immense spoil order cluster addict offer swap donor collect room chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "enable again else banana silent goose vanish anchor dash strike load stuff";
+var mnemonic = "critic traffic assault zone morning lesson name output now kidney paddle horror";

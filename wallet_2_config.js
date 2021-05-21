@@ -1,1 +1,1 @@
-var mnemonic = "aim mixed hobby student salon goose zero artefact doctor food danger mercy";
+var mnemonic = "soft dry enforce spatial guard young tent armor town embrace rebuild phone";

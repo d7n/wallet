@@ -1,1 +1,1 @@
-var mnemonic = "cactus hint neutral tray medal churn enter frown just bag beef useless";
+var mnemonic = "unaware turtle daring beef blood glimpse remember resemble twelve exile advance bone";

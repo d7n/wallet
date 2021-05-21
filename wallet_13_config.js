@@ -1,1 +1,1 @@
-var mnemonic = "senior deer little amateur neutral plate avoid junior echo celery rival can";
+var mnemonic = "place embrace paper yellow slender hello garlic attend royal marine match snap";

@@ -1,1 +1,1 @@
-var mnemonic = "silly brass hill topic velvet witness lens bar critic joy stable result";
+var mnemonic = "pelican hedgehog useless cupboard quality kid purpose multiply million crash venture hammer";

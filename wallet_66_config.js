@@ -1,1 +1,1 @@
-var mnemonic = "lava error vapor square attract menu provide antique despair fence person junk";
+var mnemonic = "afford alpha addict close stay defy vault bracket select world few monster";

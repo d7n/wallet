@@ -1,1 +1,1 @@
-var mnemonic = "control laugh mail scheme shoot link brush planet paper box biology upset";
+var mnemonic = "guitar term satisfy ahead field heart wisdom negative nuclear artist problem blast";

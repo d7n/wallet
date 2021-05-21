@@ -1,1 +1,1 @@
-var mnemonic = "shadow hockey steel lucky veteran olympic sudden bitter among list forget elephant";
+var mnemonic = "use yellow spice mask utility install arrest aware cousin obey slow robust";

@@ -1,1 +1,1 @@
-var mnemonic = "result draw joke father duty hip west honey crew novel catch idle";
+var mnemonic = "bus heavy coconut toast movie install galaxy news sausage payment muscle plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale crack strong fragile trip mixture arrow voyage usage tomato arrange please";
+var mnemonic = "aunt weird require return exchange property valley donkey tuition spoil pistol material";

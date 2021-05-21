@@ -1,1 +1,1 @@
-var mnemonic = "west token address cricket brief patrol alien uncle upgrade peasant addict tuna";
+var mnemonic = "parrot matter pear bronze art vast allow toward reject crop rough duck";

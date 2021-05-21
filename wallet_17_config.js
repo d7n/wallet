@@ -1,1 +1,1 @@
-var mnemonic = "lobster fame duty trick peasant sunny main gain glass laptop miss cool";
+var mnemonic = "use grunt april cotton snake pink explain typical engine logic false enough";

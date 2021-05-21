@@ -1,1 +1,1 @@
-var mnemonic = "gloom inform crawl romance trophy noise clarify talk story now surface battle";
+var mnemonic = "close loud avoid address bleak tooth access wrestle abandon hobby grief air";

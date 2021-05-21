@@ -1,1 +1,1 @@
-var mnemonic = "divide twelve frozen cement calm finger grow fatigue hat equip then master";
+var mnemonic = "episode satisfy police erupt damage describe mandate decline shallow ask all wood";

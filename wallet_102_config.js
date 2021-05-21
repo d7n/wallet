@@ -1,1 +1,1 @@
-var mnemonic = "burden object bean public cement fruit simple merit what gloom kidney actress";
+var mnemonic = "suffer purchase brick matrix shrimp napkin easy uniform bracket anxiety little cliff";

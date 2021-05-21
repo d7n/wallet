@@ -1,1 +1,1 @@
-var mnemonic = "body endorse pretty sister observe pear black vivid license bundle world network";
+var mnemonic = "news empower good dash oak gossip husband such radar tourist blind sad";

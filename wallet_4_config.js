@@ -1,1 +1,1 @@
-var mnemonic = "feed expand scorpion rotate coast fold hole casual mobile robot gloom hammer";
+var mnemonic = "rate engage tiger roof nature morning axis wool keen mixed velvet dog";

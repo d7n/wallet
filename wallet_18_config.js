@@ -1,1 +1,1 @@
-var mnemonic = "easy tower hotel unit velvet drill reflect paper replace hammer logic blush";
+var mnemonic = "stand thing glance proof nose tongue trash weather simple crawl adult analyst";

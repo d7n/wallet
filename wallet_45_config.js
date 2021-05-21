@@ -1,1 +1,1 @@
-var mnemonic = "sugar jungle train arena enroll science harsh virtual item family bubble license";
+var mnemonic = "expire question occur rescue front sound peasant blast recycle save purpose fantasy";

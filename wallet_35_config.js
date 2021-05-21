@@ -1,1 +1,1 @@
-var mnemonic = "flag once awesome eager rude anchor pony cube affair trouble reject easily";
+var mnemonic = "urban half disagree moment toast surprise clock slight amused friend course large";

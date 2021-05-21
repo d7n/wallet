@@ -1,1 +1,1 @@
-var mnemonic = "orchard remove pool surprise nephew tell ahead cherry goose armed say hurt";
+var mnemonic = "season online fall inside develop alter zone barely excite inject scatter spot";

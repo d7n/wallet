@@ -1,1 +1,1 @@
-var mnemonic = "neck come dog lawn ritual course fashion staff resist onion frost canal";
+var mnemonic = "dismiss atom wise lend album sense arch entry meadow submit license capital";

@@ -1,1 +1,1 @@
-var mnemonic = "discover pause trash flip stuff today rapid giraffe hope quality dawn concert";
+var mnemonic = "husband huge rally effort casino primary bitter hedgehog dice wool robust final";

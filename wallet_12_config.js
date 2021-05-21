@@ -1,1 +1,1 @@
-var mnemonic = "symbol agent exist neck what grant cabbage giggle axis stone wrist craft";
+var mnemonic = "velvet appear income tattoo elevator scorpion hello solution that master anxiety immense";

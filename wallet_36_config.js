@@ -1,1 +1,1 @@
-var mnemonic = "govern damage earn seat canal oil series artist wear social index wrestle";
+var mnemonic = "crack usage upset strategy festival disagree turn hundred uncle evil fall resource";

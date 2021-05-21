@@ -1,1 +1,1 @@
-var mnemonic = "young scout casual eye cover emerge enter drill pond reflect scrub humble";
+var mnemonic = "neutral coral ethics destroy enough distance carpet disease summer bullet feed void";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey hazard injury bounce dinner mix desert message skull clerk clap electric";
+var mnemonic = "dish drama valve track rotate inmate promote train adapt lonely valid jazz";

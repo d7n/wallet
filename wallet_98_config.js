@@ -1,1 +1,1 @@
-var mnemonic = "nose swing viable hollow claim vacant nephew stove roof confirm point embrace";
+var mnemonic = "jump blood gun agent size core element armed tonight chat day equip";

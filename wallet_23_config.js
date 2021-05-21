@@ -1,1 +1,1 @@
-var mnemonic = "alcohol uncover decide dash lift nominee faint betray plate nothing mobile arena";
+var mnemonic = "educate verify alarm industry bitter harbor traffic umbrella result phrase vacuum income";

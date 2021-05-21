@@ -1,1 +1,1 @@
-var mnemonic = "network misery wall sound brisk elder soap you gloom melody artwork square";
+var mnemonic = "often hollow social hollow case like large bronze over radar denial disagree";

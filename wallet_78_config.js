@@ -1,1 +1,1 @@
-var mnemonic = "victory expire decide depart lady wrestle term nasty glide soul lady certain";
+var mnemonic = "still misery cash aware economy discover blame daughter regret argue about seed";

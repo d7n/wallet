@@ -1,1 +1,1 @@
-var mnemonic = "north general dirt cute mouse atom syrup board myself huge bachelor space";
+var mnemonic = "music arrive rice also similar long fence genuine column admit student pink";

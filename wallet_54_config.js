@@ -1,1 +1,1 @@
-var mnemonic = "inside endorse visa allow say remember rare public crystal script auction broken";
+var mnemonic = "blue trap drill essence quick black argue urge hole drive problem daring";

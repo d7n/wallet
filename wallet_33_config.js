@@ -1,1 +1,1 @@
-var mnemonic = "knock remove envelope base reject woman expose tuition photo february riot suit";
+var mnemonic = "agent pulse genuine include donkey february butter tool tonight waste denial that";

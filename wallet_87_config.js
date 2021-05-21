@@ -1,1 +1,1 @@
-var mnemonic = "sauce now truth damp swear guess deer shrimp dawn frozen robot sudden";
+var mnemonic = "trip air wrong donate valve outer spell lake never level humble outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "truth child second pride shock flock burden wool bag odor crawl wolf";
+var mnemonic = "fox correct deny dwarf shrug until legend jump stock armed sugar reunion";

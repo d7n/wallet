@@ -1,1 +1,1 @@
-var mnemonic = "yellow woman reform mushroom review tape rule steak swap practice verify stick";
+var mnemonic = "arm crowd random valid welcome bomb task program good bird draft flip";

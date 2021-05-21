@@ -1,1 +1,1 @@
-var mnemonic = "august cannon unit number will mask clog patrol seven spray salute erode";
+var mnemonic = "nasty wheat kiwi clerk furnace design more lunar learn dragon inner fee";

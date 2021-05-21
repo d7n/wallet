@@ -1,1 +1,1 @@
-var mnemonic = "mutual core round spring dinosaur blush chapter maple three engine net cherry";
+var mnemonic = "frozen arch junk obtain jeans negative foam when stock bulk afraid twin";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden april rely parade obtain embrace civil edit hidden hurt ball cloth";
+var mnemonic = "cost winner tag cinnamon lucky method misery scare wall party demand blind";

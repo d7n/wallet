@@ -1,1 +1,1 @@
-var mnemonic = "pink muffin suffer boy waste guitar process front sketch minimum stock shallow";
+var mnemonic = "price hour walnut submit drop wrestle festival syrup fetch appear crater any";

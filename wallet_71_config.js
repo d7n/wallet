@@ -1,1 +1,1 @@
-var mnemonic = "love sunset gown foster special wall jaguar goddess inspire mimic day diagram";
+var mnemonic = "bundle spoil swim shift agree utility stock describe image coil pledge dutch";

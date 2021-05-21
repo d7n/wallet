@@ -1,1 +1,1 @@
-var mnemonic = "utility motion that gossip fiber jealous speed ten broken alcohol eagle prize";
+var mnemonic = "frequent fame area diesel love shed west wait wear science battle fury";

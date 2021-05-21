@@ -1,1 +1,1 @@
-var mnemonic = "salt pilot will example rice exclude hotel chronic crumble idle slam flight";
+var mnemonic = "humble glide issue lawsuit number volcano network subway occur security mind plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "option green captain museum liberty slam defy room company walk hill quit";
+var mnemonic = "choice minor save rich old lion summer ritual change security consider learn";

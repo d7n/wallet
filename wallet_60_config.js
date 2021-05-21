@@ -1,1 +1,1 @@
-var mnemonic = "neither parrot safe collect myth kid enemy equip outside oppose small collect";
+var mnemonic = "doctor float fire debate gospel exercise useless legal ladder divide lottery dry";

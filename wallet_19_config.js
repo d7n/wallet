@@ -1,1 +1,1 @@
-var mnemonic = "area amount gravity normal square position swallow deny script depth mouse ankle";
+var mnemonic = "famous hand rookie jealous right flower small cute ordinary what network inspire";

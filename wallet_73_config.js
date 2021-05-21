@@ -1,1 +1,1 @@
-var mnemonic = "attract minor cloth bring odor weird crush hobby tourist sign scrap body";
+var mnemonic = "laundry nest tone response club caught visit that history involve coil obtain";

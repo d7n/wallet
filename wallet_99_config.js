@@ -1,1 +1,1 @@
-var mnemonic = "deposit diagram rabbit raise fatigue gain price feed coyote pact frost disease";
+var mnemonic = "ski skate limb venue elephant runway shrug animal capital north blouse lunch";

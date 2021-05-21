@@ -1,1 +1,1 @@
-var mnemonic = "session side pumpkin voyage manage put sheriff throw text human apple craft";
+var mnemonic = "liberty drama old remove buzz genuine empower depart village joke lucky dish";

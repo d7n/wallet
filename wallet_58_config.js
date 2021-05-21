@@ -1,1 +1,1 @@
-var mnemonic = "lizard voyage gather model blanket pause upgrade sad discover cycle common page";
+var mnemonic = "rival lock lab laugh defy wedding day board stuff dumb wonder lucky";

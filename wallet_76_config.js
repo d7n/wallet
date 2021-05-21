@@ -1,1 +1,1 @@
-var mnemonic = "item shock tail silent battle planet rich mansion embody bubble assist corn";
+var mnemonic = "dentist scout inflict advice note scatter scare media share ordinary mercy unlock";

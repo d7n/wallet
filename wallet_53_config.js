@@ -1,1 +1,1 @@
-var mnemonic = "empty situate endorse insect advance broccoli mutual very wire gadget oblige nice";
+var mnemonic = "onion enemy walnut phone advance latin step indicate amazing humor deliver hair";

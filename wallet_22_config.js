@@ -1,1 +1,1 @@
-var mnemonic = "twice hedgehog heart wagon isolate drill must regular ensure way staff palm";
+var mnemonic = "bonus quick truck west job universe resemble awkward junior coyote slice skirt";

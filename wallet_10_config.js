@@ -1,1 +1,1 @@
-var mnemonic = "utility jar kite tribe drop tank hollow sword credit radar near filter";
+var mnemonic = "fog shop umbrella forward bachelor valley pave soon struggle security peasant text";
