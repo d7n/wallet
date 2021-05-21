@@ -1,1 +1,1 @@
-var mnemonic = "borrow thought carpet digital swing enough top ramp debris cereal mystery bring";
+var mnemonic = "divide twelve frozen cement calm finger grow fatigue hat equip then master";

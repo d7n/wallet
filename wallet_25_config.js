@@ -1,1 +1,1 @@
-var mnemonic = "flower return stove input timber economy pilot certain rail train proud spring";
+var mnemonic = "enable again else banana silent goose vanish anchor dash strike load stuff";

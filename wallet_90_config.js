@@ -1,1 +1,1 @@
-var mnemonic = "laptop oppose later picnic bless amount december bounce timber flash track magic";
+var mnemonic = "oblige tiny breeze answer vocal mansion love long sea impact uphold know";

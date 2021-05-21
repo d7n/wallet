@@ -1,1 +1,1 @@
-var mnemonic = "short happy special job question parade essay faint ride absurd alpha pitch";
+var mnemonic = "label put addict measure museum panel chicken another chimney metal fog humor";

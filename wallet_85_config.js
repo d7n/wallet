@@ -1,1 +1,1 @@
-var mnemonic = "sunset total weekend rescue crisp vote common episode claw want rubber scan";
+var mnemonic = "debris all issue diagram favorite tonight injury lazy sand announce tornado never";

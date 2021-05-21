@@ -1,1 +1,1 @@
-var mnemonic = "gauge one rain cream lock hand matter victory supreme middle detail poet";
+var mnemonic = "pink muffin suffer boy waste guitar process front sketch minimum stock shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom police mobile acquire mask motor pride beef connect pistol bread garage";
+var mnemonic = "make lyrics veteran picnic when safe fiber culture limit match desk pass";

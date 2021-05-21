@@ -1,1 +1,1 @@
-var mnemonic = "price near major light remind adult vault clog message age shy noise";
+var mnemonic = "dream tank strike beauty solid cupboard dish spread candy tiny across century";

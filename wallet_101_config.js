@@ -1,1 +1,1 @@
-var mnemonic = "hand cook zero across pulse celery ladder advice hair cause repair expire";
+var mnemonic = "steak calm avoid leg void cycle lamp month nice dinner crumble robust";

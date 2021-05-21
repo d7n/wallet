@@ -1,1 +1,1 @@
-var mnemonic = "tenant nut slight zoo remove try title expand pretty purity economy country";
+var mnemonic = "yellow woman reform mushroom review tape rule steak swap practice verify stick";

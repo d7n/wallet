@@ -1,1 +1,1 @@
-var mnemonic = "perfect grant wonder snow topic nose fitness bar increase step inflict chief";
+var mnemonic = "flag once awesome eager rude anchor pony cube affair trouble reject easily";

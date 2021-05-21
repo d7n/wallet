@@ -1,1 +1,1 @@
-var mnemonic = "pole assault kitten develop forest wear item fat hub globe source acoustic";
+var mnemonic = "aim mixed hobby student salon goose zero artefact doctor food danger mercy";

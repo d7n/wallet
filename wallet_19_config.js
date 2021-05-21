@@ -1,1 +1,1 @@
-var mnemonic = "success program arm earth chronic arm bid skin husband desert south lady";
+var mnemonic = "area amount gravity normal square position swallow deny script depth mouse ankle";

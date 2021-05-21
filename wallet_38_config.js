@@ -1,1 +1,1 @@
-var mnemonic = "forward mind glove sock cat police can critic vital square earn side";
+var mnemonic = "hospital fortune ring bench lucky wood soda riot guard mimic mule plastic";

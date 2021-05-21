@@ -1,1 +1,1 @@
-var mnemonic = "live mother fade rebel verb double rule chat squirrel dose injury sand";
+var mnemonic = "truth child second pride shock flock burden wool bag odor crawl wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze come layer loop goose middle theory pipe trophy weasel globe claw";
+var mnemonic = "bulk squeeze online ensure box mule whisper remember pioneer divert pretty hamster";

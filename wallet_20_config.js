@@ -1,1 +1,1 @@
-var mnemonic = "stay group logic payment random sound item capable visual pistol tree hybrid";
+var mnemonic = "discover pause trash flip stuff today rapid giraffe hope quality dawn concert";

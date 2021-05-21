@@ -1,1 +1,1 @@
-var mnemonic = "subway column elbow trigger north cram special catalog agent clown hundred jeans";
+var mnemonic = "easy tower hotel unit velvet drill reflect paper replace hammer logic blush";

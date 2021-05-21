@@ -1,1 +1,1 @@
-var mnemonic = "cruise poet injury suit garden retreat prosper foster live upgrade raw weasel";
+var mnemonic = "random lawn ensure movie minimum cruise glass stone crater also memory pilot";

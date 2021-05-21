@@ -1,1 +1,1 @@
-var mnemonic = "benefit ready boss crucial office anxiety orchard embark vehicle guitar liar ridge";
+var mnemonic = "knock remove envelope base reject woman expose tuition photo february riot suit";

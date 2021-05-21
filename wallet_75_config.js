@@ -1,1 +1,1 @@
-var mnemonic = "guard visual basic secret swift opinion garden ghost grace frown case cake";
+var mnemonic = "demand trial garage drop august office wait infant idle digital vendor glory";

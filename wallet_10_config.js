@@ -1,1 +1,1 @@
-var mnemonic = "mother table agree art own spoon sniff awful basket resource token true";
+var mnemonic = "utility jar kite tribe drop tank hollow sword credit radar near filter";

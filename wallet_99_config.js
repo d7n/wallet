@@ -1,1 +1,1 @@
-var mnemonic = "memory happy aim sudden goat next lab plug cook suspect result ramp";
+var mnemonic = "deposit diagram rabbit raise fatigue gain price feed coyote pact frost disease";

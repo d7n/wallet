@@ -1,1 +1,1 @@
-var mnemonic = "alone symbol sight faint spring gift such service glue cup match dilemma";
+var mnemonic = "sword alone leave elegant wheel bulk culture defy toe wood thumb other";

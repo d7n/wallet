@@ -1,1 +1,1 @@
-var mnemonic = "jaguar crush joy loud abstract fine road spatial vivid ensure bulb skull";
+var mnemonic = "turkey hazard injury bounce dinner mix desert message skull clerk clap electric";

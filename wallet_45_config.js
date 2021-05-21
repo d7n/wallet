@@ -1,1 +1,1 @@
-var mnemonic = "involve alter quality antenna table fringe ocean brief kite auto wise whale";
+var mnemonic = "sugar jungle train arena enroll science harsh virtual item family bubble license";

@@ -1,1 +1,1 @@
-var mnemonic = "report jaguar carpet can pyramid strong luxury typical culture window sorry image";
+var mnemonic = "kitchen mango faith leg season garlic slab gym river welcome club talk";

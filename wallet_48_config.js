@@ -1,1 +1,1 @@
-var mnemonic = "grit into evoke easily crazy limit snake way helmet critic decide crowd";
+var mnemonic = "orchard remove pool surprise nephew tell ahead cherry goose armed say hurt";

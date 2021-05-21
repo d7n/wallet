@@ -1,1 +1,1 @@
-var mnemonic = "pepper collect concert spin noise tool hello kite chaos hurdle unfair eyebrow";
+var mnemonic = "craft clip alter whisper jaguar impact embrace spirit april cool famous cheese";

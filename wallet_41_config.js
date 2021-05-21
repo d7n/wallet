@@ -1,1 +1,1 @@
-var mnemonic = "half script world develop connect lift museum unfold cube unit oblige spin";
+var mnemonic = "sudden april rely parade obtain embrace civil edit hidden hurt ball cloth";

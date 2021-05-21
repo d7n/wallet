@@ -1,1 +1,1 @@
-var mnemonic = "already point gate build suspect margin large grant whale horse rough wire";
+var mnemonic = "alcohol uncover decide dash lift nominee faint betray plate nothing mobile arena";

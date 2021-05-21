@@ -1,1 +1,1 @@
-var mnemonic = "fee mask useful swamp hawk derive shed drastic innocent earn cool into";
+var mnemonic = "tool ship shy luggage rigid damage scatter supreme turn orange spatial night";

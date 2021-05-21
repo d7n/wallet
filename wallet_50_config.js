@@ -1,1 +1,1 @@
-var mnemonic = "north audit nothing lounge whisper label olympic fall decorate friend crunch cry";
+var mnemonic = "prize deliver cloth omit brush tuition lock borrow chimney unveil unit spike";

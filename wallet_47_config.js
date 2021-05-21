@@ -1,1 +1,1 @@
-var mnemonic = "cake metal gauge call pull ripple short dial game fashion team corn";
+var mnemonic = "rent online vast topple water cage reunion aunt bachelor vanish produce oxygen";

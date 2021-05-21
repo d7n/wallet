@@ -1,1 +1,1 @@
-var mnemonic = "gauge morning public grape damp awful nephew fruit health century sunny pulp";
+var mnemonic = "wrestle nothing more intact bamboo choose talent fit depart require visit ribbon";

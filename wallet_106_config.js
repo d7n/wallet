@@ -1,1 +1,1 @@
-var mnemonic = "ride action banner faint monkey grocery traffic cruel metal soldier maximum belt";
+var mnemonic = "have vapor gold blouse drama double enjoy steel loop relief debate become";

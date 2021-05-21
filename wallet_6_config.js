@@ -1,1 +1,1 @@
-var mnemonic = "price brisk faith spend rent type happy envelope swallow door level atom";
+var mnemonic = "network misery wall sound brisk elder soap you gloom melody artwork square";

@@ -1,1 +1,1 @@
-var mnemonic = "card situate perfect fish library live sense soup blossom brand super symbol";
+var mnemonic = "blush achieve detect visit burden riot coyote judge note artefact vocal recipe";

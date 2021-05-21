@@ -1,1 +1,1 @@
-var mnemonic = "market estate gospel welcome change group august receive file fringe extra nose";
+var mnemonic = "emotion swift unique upper fresh gadget shaft key glass fringe utility attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "fault giraffe narrow husband unable risk neutral fabric occur wheel saddle midnight";
+var mnemonic = "unhappy join light expose air legal pill cake engage actor crunch inside";

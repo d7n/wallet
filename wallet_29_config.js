@@ -1,1 +1,1 @@
-var mnemonic = "river music pill endless edge amazing party load sustain wrong meat bleak";
+var mnemonic = "govern mouse kick bleak update enforce nature return jaguar plate december whip";

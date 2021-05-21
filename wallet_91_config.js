@@ -1,1 +1,1 @@
-var mnemonic = "bounce alcohol ordinary globe fuel smart alcohol table shoe lion frame industry";
+var mnemonic = "gloom inform crawl romance trophy noise clarify talk story now surface battle";

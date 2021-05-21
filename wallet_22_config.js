@@ -1,1 +1,1 @@
-var mnemonic = "stomach income often winner scheme radar truly quality wise broken open open";
+var mnemonic = "twice hedgehog heart wagon isolate drill must regular ensure way staff palm";

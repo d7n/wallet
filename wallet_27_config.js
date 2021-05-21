@@ -1,1 +1,1 @@
-var mnemonic = "bench exist helmet hospital tiny pumpkin axis auction multiply unlock recipe cigar";
+var mnemonic = "sick index fetch rent diagram puppy network section supreme verify rural iron";

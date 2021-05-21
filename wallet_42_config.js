@@ -1,1 +1,1 @@
-var mnemonic = "unique rate game butter tower bottom rebel arena avocado noble kitten master";
+var mnemonic = "utility motion that gossip fiber jealous speed ten broken alcohol eagle prize";

@@ -1,1 +1,1 @@
-var mnemonic = "easy unknown crime nation october crack ripple winner orphan report slow dutch";
+var mnemonic = "senior deer little amateur neutral plate avoid junior echo celery rival can";

@@ -1,1 +1,1 @@
-var mnemonic = "above glory raven tennis slush pumpkin atom chaos rely bid anchor opinion";
+var mnemonic = "mutual core round spring dinosaur blush chapter maple three engine net cherry";

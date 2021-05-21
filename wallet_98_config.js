@@ -1,1 +1,1 @@
-var mnemonic = "song penalty pelican eye bring cloth tongue drip crisp sword tumble deposit";
+var mnemonic = "nose swing viable hollow claim vacant nephew stove roof confirm point embrace";

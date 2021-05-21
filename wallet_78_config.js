@@ -1,1 +1,1 @@
-var mnemonic = "cover group giraffe actress unfold blur ankle observe party kiss desert margin";
+var mnemonic = "victory expire decide depart lady wrestle term nasty glide soul lady certain";

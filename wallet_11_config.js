@@ -1,1 +1,1 @@
-var mnemonic = "nothing current ordinary impact pioneer define sunny whale film school glide height";
+var mnemonic = "item hurt pride parade dad vendor crash unveil monkey sibling swim science";

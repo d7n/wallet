@@ -1,1 +1,1 @@
-var mnemonic = "hub food thrive onion wet coach apart spoil physical beach cattle ask";
+var mnemonic = "item shock tail silent battle planet rich mansion embody bubble assist corn";

@@ -1,1 +1,1 @@
-var mnemonic = "home perfect save issue office piece field need sponsor cereal cinnamon grit";
+var mnemonic = "tank crop spot butter neglect decide cause blouse air pulp truly earth";

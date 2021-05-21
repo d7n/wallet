@@ -1,1 +1,1 @@
-var mnemonic = "salt deal race accuse quiz midnight scout lecture anchor pledge letter foam";
+var mnemonic = "because wolf update raven soul oyster life coffee gym proof gallery weasel";

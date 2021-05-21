@@ -1,1 +1,1 @@
-var mnemonic = "village loyal mutual response speed genius slim garage vicious drill aware skirt";
+var mnemonic = "feed expand scorpion rotate coast fold hole casual mobile robot gloom hammer";

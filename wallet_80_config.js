@@ -1,1 +1,1 @@
-var mnemonic = "cube detail insane avoid boring save payment field stand poem naive advice";
+var mnemonic = "crisp novel violin sand agree busy select claim embody govern time diesel";

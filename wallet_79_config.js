@@ -1,1 +1,1 @@
-var mnemonic = "embark speak mom supply match primary kingdom rebuild engine monkey cat canyon";
+var mnemonic = "session side pumpkin voyage manage put sheriff throw text human apple craft";

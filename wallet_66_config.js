@@ -1,1 +1,1 @@
-var mnemonic = "build frog grief useful guilt survey law bunker staff adult mail oppose";
+var mnemonic = "lava error vapor square attract menu provide antique despair fence person junk";

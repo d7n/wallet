@@ -1,1 +1,1 @@
-var mnemonic = "accident trend electric ripple excess tackle cook pluck rhythm bless bus garage";
+var mnemonic = "almost alter snack candy drip month web gas any float rebel arrange";

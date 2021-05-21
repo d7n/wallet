@@ -1,1 +1,1 @@
-var mnemonic = "chapter law afraid uncover evidence mosquito theory decrease current pelican clock cushion";
+var mnemonic = "neither parrot safe collect myth kid enemy equip outside oppose small collect";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery title public nurse crumble digital above lunar hold confirm vanish omit";
+var mnemonic = "lobster fame duty trick peasant sunny main gain glass laptop miss cool";

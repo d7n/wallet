@@ -1,1 +1,1 @@
-var mnemonic = "dragon smile hour lawsuit robust leisure parade one era outer idea flame";
+var mnemonic = "elephant street crucial salad pepper dignity farm twist fine motor owner exhaust";

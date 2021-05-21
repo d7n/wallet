@@ -1,1 +1,1 @@
-var mnemonic = "despair misery toss brief vault trim canvas aerobic fresh hub ring apart";
+var mnemonic = "august cannon unit number will mask clog patrol seven spray salute erode";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair head breeze weasel ocean glass sock usual sadness cross unknown hawk";
+var mnemonic = "pupil else august rubber pause monkey nasty belt enable float exile hand";

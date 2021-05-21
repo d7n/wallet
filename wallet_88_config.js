@@ -1,1 +1,1 @@
-var mnemonic = "noise south hawk glide mail float picture senior such margin receive limb";
+var mnemonic = "rose jungle cake image then chunk unfold slam session caution come language";

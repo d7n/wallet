@@ -1,1 +1,1 @@
-var mnemonic = "share solid bulb fee cargo axis orbit drift kiss face dinner gallery";
+var mnemonic = "body endorse pretty sister observe pear black vivid license bundle world network";

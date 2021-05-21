@@ -1,1 +1,1 @@
-var mnemonic = "amount behind movie vacant walnut escape vacant orphan woman endorse machine ahead";
+var mnemonic = "initial void number couch chat hill chuckle can episode twelve fantasy cool";

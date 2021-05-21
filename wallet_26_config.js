@@ -1,1 +1,1 @@
-var mnemonic = "wrist essay disorder light mountain magnet play learn wine dizzy knife kick";
+var mnemonic = "alone salon measure region diagram calm brand cricket lobster deliver reform debris";

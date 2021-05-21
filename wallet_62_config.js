@@ -1,1 +1,1 @@
-var mnemonic = "huge pass elegant crumble shoot pond stem clean brown brush prepare width";
+var mnemonic = "west token address cricket brief patrol alien uncle upgrade peasant addict tuna";

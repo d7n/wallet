@@ -1,1 +1,1 @@
-var mnemonic = "opera marriage rib civil panic pulp rabbit unaware pretty bread citizen arrow";
+var mnemonic = "inhale crack strong fragile trip mixture arrow voyage usage tomato arrange please";

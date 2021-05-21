@@ -1,1 +1,1 @@
-var mnemonic = "autumn goose guilt road kiwi punch catalog matter fix devote market exist";
+var mnemonic = "retire cliff agent pony arrest marine motor nice spread faith comic armor";

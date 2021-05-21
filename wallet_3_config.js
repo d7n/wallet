@@ -1,1 +1,1 @@
-var mnemonic = "collect spawn pretty mechanic area scare swing wreck slab tray index lucky";
+var mnemonic = "young scout casual eye cover emerge enter drill pond reflect scrub humble";

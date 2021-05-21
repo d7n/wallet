@@ -1,1 +1,1 @@
-var mnemonic = "knife kid hire side bridge divert wrist lady unfair meat craft comfort";
+var mnemonic = "lizard voyage gather model blanket pause upgrade sad discover cycle common page";

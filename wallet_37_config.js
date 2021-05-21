@@ -1,1 +1,1 @@
-var mnemonic = "present cable couch author party climb alpha skull tourist budget crime panda";
+var mnemonic = "proof soap damage awesome ginger disagree dial kangaroo exile siege police current";

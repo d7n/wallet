@@ -1,1 +1,1 @@
-var mnemonic = "lottery resist pumpkin enemy decide crack liar parade nothing earth vault twist";
+var mnemonic = "leg lava bleak advance circle gym glide awesome panther ring planet wagon";

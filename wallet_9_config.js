@@ -1,1 +1,1 @@
-var mnemonic = "point loop universe exist have maximum total cheap direct alert milk tower";
+var mnemonic = "neck come dog lawn ritual course fashion staff resist onion frost canal";

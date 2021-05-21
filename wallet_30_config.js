@@ -1,1 +1,1 @@
-var mnemonic = "alcohol actress cloud estate exit burger move joy remind nut region idea";
+var mnemonic = "cloth another ozone private ceiling car slight usage please pyramid giggle busy";

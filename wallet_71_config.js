@@ -1,1 +1,1 @@
-var mnemonic = "you label feel window column fat pottery vehicle yellow december crowd door";
+var mnemonic = "love sunset gown foster special wall jaguar goddess inspire mimic day diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "merit pistol tortoise sting sniff rescue cash code bonus little win risk";
+var mnemonic = "enlist obvious blade rough castle aware era lunch denial south party sick";

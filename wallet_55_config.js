@@ -1,1 +1,1 @@
-var mnemonic = "review retire acid crash animal genre melt degree learn about west torch";
+var mnemonic = "flower march enlist access shop chief way garbage weather soft onion army";

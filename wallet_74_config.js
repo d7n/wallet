@@ -1,1 +1,1 @@
-var mnemonic = "bid alcohol random unknown impose injury unable boat siege broken obtain loud";
+var mnemonic = "toe insect left soon useful captain quick memory face lock sponsor truth";

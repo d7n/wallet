@@ -1,1 +1,1 @@
-var mnemonic = "asthma quit ugly artist aisle reveal father style picture alien cram token";
+var mnemonic = "shadow hockey steel lucky veteran olympic sudden bitter among list forget elephant";

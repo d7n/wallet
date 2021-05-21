@@ -1,1 +1,1 @@
-var mnemonic = "olympic burst hunt always tomorrow grace neither regret hurdle liquid float spring";
+var mnemonic = "sauce now truth damp swear guess deer shrimp dawn frozen robot sudden";

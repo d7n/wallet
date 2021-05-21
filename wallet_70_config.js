@@ -1,1 +1,1 @@
-var mnemonic = "repeat couch derive target fabric detect bring smart river walnut quarter hole";
+var mnemonic = "warrior pass witness name script dice rose velvet minute equal first mobile";

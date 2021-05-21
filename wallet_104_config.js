@@ -1,1 +1,1 @@
-var mnemonic = "harbor canyon stone rabbit chronic morning people ridge green drip rice screen";
+var mnemonic = "later stove switch elder since helmet clever toward crawl monster trophy sign";

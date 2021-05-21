@@ -1,1 +1,1 @@
-var mnemonic = "exact detail grace file visual biology phrase since clay minor call lawn";
+var mnemonic = "silly brass hill topic velvet witness lens bar critic joy stable result";

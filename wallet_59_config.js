@@ -1,1 +1,1 @@
-var mnemonic = "inspire calm someone toy ordinary armor enrich scrap subway divorce hello together";
+var mnemonic = "result draw joke father duty hip west honey crew novel catch idle";

@@ -1,1 +1,1 @@
-var mnemonic = "you supply emerge destroy this rifle forget angle catch goddess uncover gaze";
+var mnemonic = "early lawn caught soldier veteran wolf junk armor plate act guess model";

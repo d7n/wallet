@@ -1,1 +1,1 @@
-var mnemonic = "ivory cinnamon identify galaxy job hire essay survey army sunny success announce";
+var mnemonic = "hammer angry often aerobic bonus cargo nerve slush genre robust follow concert";

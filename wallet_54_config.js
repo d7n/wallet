@@ -1,1 +1,1 @@
-var mnemonic = "broom dad menu unfair pudding either music ostrich patch close trim sniff";
+var mnemonic = "inside endorse visa allow say remember rare public crystal script auction broken";
