@@ -1,1 +1,1 @@
-var mnemonic = "bulb sure pyramid urge avocado width skate ahead inside correct midnight junk";
+var mnemonic = "actor grief reason assault skull shallow public seat reveal foot witness verify";

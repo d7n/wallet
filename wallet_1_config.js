@@ -1,1 +1,1 @@
-var mnemonic = "kiwi total great margin develop lend kitchen giggle oval replace bamboo similar";
+var mnemonic = "file song syrup ten segment equip wish cluster merge impulse welcome permit";

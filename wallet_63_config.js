@@ -1,1 +1,1 @@
-var mnemonic = "curious rebel fog pink reform empower purpose phrase size ecology lab aim";
+var mnemonic = "truly canvas noble region idle glare riot kingdom leader devote night spray";

@@ -1,1 +1,1 @@
-var mnemonic = "high tail leg frown ramp brother twin chalk abstract armed hawk brother";
+var mnemonic = "script trial demise seat crunch bullet flush van select thought tooth crunch";

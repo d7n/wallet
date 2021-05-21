@@ -1,1 +1,1 @@
-var mnemonic = "cave timber alpha minute pencil elite gown wise carpet bonus business bounce";
+var mnemonic = "parade author finger float harbor initial virtual indoor rifle drift forest alcohol";

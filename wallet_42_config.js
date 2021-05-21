@@ -1,1 +1,1 @@
-var mnemonic = "road oppose heart tide license weird erase mimic fabric never february zone";
+var mnemonic = "clown talk excuse movie ghost stove elbow sadness patch bonus tent adult";

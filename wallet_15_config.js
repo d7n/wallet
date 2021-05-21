@@ -1,1 +1,1 @@
-var mnemonic = "poverty brass deliver pottery reflect section multiply help bonus sweet minimum lizard";
+var mnemonic = "script invest ankle inspire train demise zone crop broken gospel swift magnet";

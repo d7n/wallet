@@ -1,1 +1,1 @@
-var mnemonic = "dog stuff soul employ tank run bright risk attitude van aspect enhance";
+var mnemonic = "harbor bind razor mobile lazy bounce next enrich object inquiry kiss feel";

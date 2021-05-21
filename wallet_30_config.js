@@ -1,1 +1,1 @@
-var mnemonic = "pluck genuine together wedding stove lab duty neutral winter hurdle dish rate";
+var mnemonic = "differ disease whisper response useless surround civil hurdle reward boost orchard battle";

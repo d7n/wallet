@@ -1,1 +1,1 @@
-var mnemonic = "team reopen update heavy pool exchange husband differ stone vapor lounge degree";
+var mnemonic = "urban reject smoke horror payment insect method private output loop local liar";

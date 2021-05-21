@@ -1,1 +1,1 @@
-var mnemonic = "midnight focus place oil feature easily style nut twelve naive assume scheme";
+var mnemonic = "fortune royal depth claw giraffe exact gentle tobacco fitness project story furnace";

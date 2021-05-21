@@ -1,1 +1,1 @@
-var mnemonic = "music tennis section corn betray law neither twenty toward uncle around expand";
+var mnemonic = "front option shiver human term cave armor unhappy open hurt dash situate";

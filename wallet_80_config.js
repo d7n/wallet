@@ -1,1 +1,1 @@
-var mnemonic = "heart bracket perfect combine decade ill forward behind ghost pelican frame cupboard";
+var mnemonic = "wisdom alcohol donate roast grief pudding pill relax blood exact obey announce";

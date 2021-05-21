@@ -1,1 +1,1 @@
-var mnemonic = "card between shock story recipe dust actual deal fault master item wire";
+var mnemonic = "spike oppose canyon rely echo shrug upon mixture decide dance absent future";

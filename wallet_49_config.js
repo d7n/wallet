@@ -1,1 +1,1 @@
-var mnemonic = "frozen stadium please only minimum budget total front unveil fury leader jealous";
+var mnemonic = "math ready axis pipe valid mandate extend stove room brown slogan shine";

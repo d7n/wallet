@@ -1,1 +1,1 @@
-var mnemonic = "nerve whale craft inmate wonder okay ridge crash quote token eyebrow exhaust";
+var mnemonic = "number fringe echo garbage soft cram fame defy trumpet lady feed shallow";

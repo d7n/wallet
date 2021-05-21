@@ -1,1 +1,1 @@
-var mnemonic = "dentist keen history basic analyst spy start wheel three disorder learn mandate";
+var mnemonic = "witness range sniff virtual siren bachelor oppose popular describe segment lab guitar";

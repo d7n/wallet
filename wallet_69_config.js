@@ -1,1 +1,1 @@
-var mnemonic = "resist kite sand athlete error defy pupil blouse fine orient inch annual";
+var mnemonic = "draw practice know hollow deer pluck fan veteran pig float wasp chest";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze prize margin edit silk grape vendor lesson more pause impact stuff";
+var mnemonic = "blur off ball voice fork ocean cactus release wrestle walk between age";

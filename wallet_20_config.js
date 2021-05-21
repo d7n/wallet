@@ -1,1 +1,1 @@
-var mnemonic = "tattoo exhaust idle virtual term over bone endless spirit forum slam car";
+var mnemonic = "dentist asthma myself ghost input hurry federal phone motor asthma sadness notable";

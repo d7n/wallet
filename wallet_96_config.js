@@ -1,1 +1,1 @@
-var mnemonic = "high shine current weasel smooth detect cup trophy lend innocent lounge opera";
+var mnemonic = "helmet armor claim kiwi enjoy obey club fame gospel blur decorate cliff";

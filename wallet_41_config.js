@@ -1,1 +1,1 @@
-var mnemonic = "tortoise ball repair bright ill ski limb deer add cook verify panda";
+var mnemonic = "robust stool soap actress congress cotton convince ankle siren palm depth sign";

@@ -1,1 +1,1 @@
-var mnemonic = "labor confirm keep update wrong exit glove still turkey wasp kiwi shove";
+var mnemonic = "cloud peasant final bike young blame differ nut task novel wedding flush";

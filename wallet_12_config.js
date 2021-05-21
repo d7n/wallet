@@ -1,1 +1,1 @@
-var mnemonic = "walk fire movie maple crumble stock labor protect hope skate spin knee";
+var mnemonic = "exotic slab spring enlist near shield zoo snap share biology donkey heart";

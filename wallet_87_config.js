@@ -1,1 +1,1 @@
-var mnemonic = "basic magnet runway awesome dirt sunset addict world steak brother front garden";
+var mnemonic = "rare pioneer early dial tuition iron cram pretty nice cable anchor donate";

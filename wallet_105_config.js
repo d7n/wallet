@@ -1,1 +1,1 @@
-var mnemonic = "key omit tide assume clog useless heart initial walnut banner submit inquiry";
+var mnemonic = "box quantum gallery verify remind toast polar draw song salad start feed";

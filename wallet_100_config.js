@@ -1,1 +1,1 @@
-var mnemonic = "this evolve delay once siren subject duck armor edge caught industry wood";
+var mnemonic = "soap law opinion bird average twin train giant month post rude outdoor";

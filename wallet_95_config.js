@@ -1,1 +1,1 @@
-var mnemonic = "drive little lottery faculty wrestle lab furnace speed physical front trash silver";
+var mnemonic = "pony sausage forward hazard rug walnut sheriff slight cover void pass crane";

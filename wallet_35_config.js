@@ -1,1 +1,1 @@
-var mnemonic = "add kitchen render proof session kind video hole improve mask crumble clip";
+var mnemonic = "job check stick jeans achieve sell gate vault table public goddess bomb";

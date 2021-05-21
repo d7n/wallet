@@ -1,1 +1,1 @@
-var mnemonic = "topic whisper scale share salad hood embody mutual version word frown narrow";
+var mnemonic = "own never define fire abandon erosion despair state rib occur filter forget";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle notable champion gallery fee struggle toward liberty absurd cage crater argue";
+var mnemonic = "want sport soft post want eight refuse monitor family enlist purpose album";

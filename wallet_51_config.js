@@ -1,1 +1,1 @@
-var mnemonic = "young garbage green diesel bubble obtain cover pen unique swap pulp hunt";
+var mnemonic = "okay rail bring fuel rather leave fun try public around speak bag";

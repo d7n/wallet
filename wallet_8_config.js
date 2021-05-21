@@ -1,1 +1,1 @@
-var mnemonic = "total bring conduct save flavor ship divert tumble kid close post tent";
+var mnemonic = "junk member garbage misery number chunk music skirt execute sweet rib hundred";

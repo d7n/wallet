@@ -1,1 +1,1 @@
-var mnemonic = "aunt hamster rural country oblige guitar pigeon afford clerk practice deputy ski";
+var mnemonic = "female sphere income tiger fury hint symptom arm link clown crew scene";

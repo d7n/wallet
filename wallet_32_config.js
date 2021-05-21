@@ -1,1 +1,1 @@
-var mnemonic = "toe venture melody hurry obtain wrist defense picnic lady lizard ball foil";
+var mnemonic = "luxury adult like elder speak range meadow scrub powder oil present donor";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal pony season nature tiger adjust friend lion version job just play";
+var mnemonic = "crazy awkward change leave again mosquito nose tissue title disease pretty enlist";

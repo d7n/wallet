@@ -1,1 +1,1 @@
-var mnemonic = "bone govern consider coin deal clip ranch festival involve sphere idle dream";
+var mnemonic = "tornado wood swarm smart into detail foster car conduct stick chunk garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "noise track glory today reward this habit total sorry series deposit sleep";
+var mnemonic = "borrow scrap jewel jump giggle crack shallow purse faculty slide inner cliff";

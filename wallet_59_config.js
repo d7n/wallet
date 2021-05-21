@@ -1,1 +1,1 @@
-var mnemonic = "stamp title people gauge body frozen wheat make snack random that thrive";
+var mnemonic = "eternal detail employ equal copper hover color sorry tenant ski weasel educate";

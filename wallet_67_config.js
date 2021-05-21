@@ -1,1 +1,1 @@
-var mnemonic = "engine truth useful drill grid devote hen lumber check can pioneer utility";
+var mnemonic = "army essay ozone isolate slogan text giggle express mechanic chronic audit novel";

@@ -1,1 +1,1 @@
-var mnemonic = "village hard intact help more one powder team loud outside afford praise";
+var mnemonic = "sting furnace huge crater economy fossil twelve parent that history vivid bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "raise strong jazz inform biology position device toilet venture tool forget text";
+var mnemonic = "minute furnace below arrange casual clog program output midnight tackle olympic close";

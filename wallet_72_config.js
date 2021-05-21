@@ -1,1 +1,1 @@
-var mnemonic = "find ranch domain excuse congress artist artwork jaguar copper hedgehog segment brass";
+var mnemonic = "sudden van sentence scout kiwi sketch unveil hurry trouble memory tray future";

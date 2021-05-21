@@ -1,1 +1,1 @@
-var mnemonic = "strong long point area tide music wet grief army horse cruel social";
+var mnemonic = "refuse unfair impose welcome arrow film milk quantum hat bring arrest cruise";

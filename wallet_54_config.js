@@ -1,1 +1,1 @@
-var mnemonic = "what undo sick nerve lift swing just tiger pave alley summer weather";
+var mnemonic = "turn food cheap outer horror plunge caution mechanic feel double property guilt";

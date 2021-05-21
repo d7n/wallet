@@ -1,1 +1,1 @@
-var mnemonic = "bag unique height poverty mountain tunnel else step shock snack insect hour";
+var mnemonic = "defy hint rescue amount still husband patch hold banana midnight cotton useless";

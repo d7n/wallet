@@ -1,1 +1,1 @@
-var mnemonic = "core noble peanut hero level stage license lesson alarm inquiry umbrella loyal";
+var mnemonic = "peasant author bounce item amused economy entire universe slide double inmate cube";

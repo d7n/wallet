@@ -1,1 +1,1 @@
-var mnemonic = "sound ceiling narrow shallow throw claw abandon later smart during then door";
+var mnemonic = "cinnamon mystery endorse express gaze flame tissue exchange choice fog express social";

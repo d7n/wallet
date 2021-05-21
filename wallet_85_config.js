@@ -1,1 +1,1 @@
-var mnemonic = "own unfold birth essence hurt risk capable junk ribbon among lounge maple";
+var mnemonic = "frame ripple enact sand truck physical pigeon story genius pepper nature trend";

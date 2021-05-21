@@ -1,1 +1,1 @@
-var mnemonic = "zebra until hollow scheme hello elevator fragile mechanic fog federal raw image";
+var mnemonic = "glass vague first polar nice exercise forum olympic truck prosper trend road";

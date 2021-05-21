@@ -1,1 +1,1 @@
-var mnemonic = "wine disorder salmon east three copy neutral point sure time search mercy";
+var mnemonic = "wash modify dream brand physical oyster result come cross habit call eyebrow";

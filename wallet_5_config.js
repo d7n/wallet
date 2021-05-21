@@ -1,1 +1,1 @@
-var mnemonic = "prepare east fire entry cycle screen copper little rival brief still toilet";
+var mnemonic = "jewel useful report mad young horse crystal slide emotion vacuum domain fresh";

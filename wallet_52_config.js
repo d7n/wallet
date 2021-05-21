@@ -1,1 +1,1 @@
-var mnemonic = "this path giant utility strong hollow island screen eager pride mom marble";
+var mnemonic = "need still damp file swim october purity scan speed various ginger answer";

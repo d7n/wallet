@@ -1,1 +1,1 @@
-var mnemonic = "monitor clay flip public peasant broom usage indoor jazz large magic blame";
+var mnemonic = "tornado kitten illness cage feel sign industry umbrella engage project surge marine";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tornado sunset verify clay elite twelve hold direct chalk scheme kitten";
+var mnemonic = "actress rent sunset employ rubber rotate fame since fog trend soon dynamic";

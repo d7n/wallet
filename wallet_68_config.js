@@ -1,1 +1,1 @@
-var mnemonic = "order flip mistake fossil quantum pass topic sunny rug prefer exclude inform";
+var mnemonic = "mail access february enough render stove toddler spoon cradle dilemma clean rural";

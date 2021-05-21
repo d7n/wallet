@@ -1,1 +1,1 @@
-var mnemonic = "any same melody economy discover myself pink armor fabric shuffle traffic example";
+var mnemonic = "panel embrace scan ugly accident share split dry raccoon shield hotel remove";

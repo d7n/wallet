@@ -1,1 +1,1 @@
-var mnemonic = "portion profit boss suggest online evoke math there need session impose hybrid";
+var mnemonic = "police human arena wood reject kitten balcony whip place tonight wide kidney";

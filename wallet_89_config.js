@@ -1,1 +1,1 @@
-var mnemonic = "harbor board agent long bird arm capital april dinner parrot deputy daring";
+var mnemonic = "kiwi arch foot monkey today company control aim orbit over unfair century";

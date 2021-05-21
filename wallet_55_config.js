@@ -1,1 +1,1 @@
-var mnemonic = "sample casual end undo mechanic apple blue pioneer rude cause melody tackle";
+var mnemonic = "okay bless punch fatigue gravity cash glad ahead camera banana day chef";

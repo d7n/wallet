@@ -1,1 +1,1 @@
-var mnemonic = "shell that transfer child spell dial color mystery foster cycle slab glory";
+var mnemonic = "fan record dish endless bitter either earn gain lucky depend truck junior";

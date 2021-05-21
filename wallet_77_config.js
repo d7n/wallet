@@ -1,1 +1,1 @@
-var mnemonic = "surround sugar blouse wagon twelve shoulder earn vault during dragon accuse grocery";
+var mnemonic = "person nasty toss jaguar charge tobacco gesture game remove fox nasty pledge";

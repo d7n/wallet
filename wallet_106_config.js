@@ -1,1 +1,1 @@
-var mnemonic = "glow parrot rally quality jacket evolve drill rocket core spoon scout thought";
+var mnemonic = "kitchen early obey echo arrow goat left call brief jaguar multiply tenant";

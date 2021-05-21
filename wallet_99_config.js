@@ -1,1 +1,1 @@
-var mnemonic = "salad rigid rigid enact cushion gospel belt sun latin plunge involve veteran";
+var mnemonic = "fury tower wheat pair eager coral north view cruel body curtain poem";

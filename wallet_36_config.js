@@ -1,1 +1,1 @@
-var mnemonic = "ripple label copy purchase action cabin furnace state seed glory gold attend";
+var mnemonic = "hurry hold green success give crew puppy clinic solar define cart gloom";

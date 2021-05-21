@@ -1,1 +1,1 @@
-var mnemonic = "drill stem immune never sign victory token bike math describe solve dynamic";
+var mnemonic = "dizzy fitness enlist coach acquire draft sketch someone rebuild claim pony airport";

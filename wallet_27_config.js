@@ -1,1 +1,1 @@
-var mnemonic = "rate train twelve coil brief sample kid excuse fortune disorder viable smooth";
+var mnemonic = "tennis ecology clutch robust crane acoustic original note never tip chef turn";

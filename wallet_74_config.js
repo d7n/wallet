@@ -1,1 +1,1 @@
-var mnemonic = "curious parrot pretty claw sniff margin ready bulb sudden brand exact wedding";
+var mnemonic = "law input clown scissors tail alert already scissors wool have satoshi fuel";

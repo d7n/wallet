@@ -1,1 +1,1 @@
-var mnemonic = "energy drip refuse road concert prefer hard powder nephew rose cart decorate";
+var mnemonic = "radio embark element sword mistake marble lunch coin hello august develop bread";

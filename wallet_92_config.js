@@ -1,1 +1,1 @@
-var mnemonic = "wedding clip journey slab attack hip congress dizzy hobby wine divert sheriff";
+var mnemonic = "favorite parade weasel monster screen embark dirt material debris penalty breeze hen";

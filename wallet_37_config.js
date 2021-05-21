@@ -1,1 +1,1 @@
-var mnemonic = "recycle smooth crew shock kind oak antenna voice route innocent scissors offer";
+var mnemonic = "spoil nurse sock ecology mother corn mixed gorilla garage second ladder caution";

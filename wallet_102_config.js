@@ -1,1 +1,1 @@
-var mnemonic = "hat course zebra will animal clerk catalog oval shadow cage rich pipe";
+var mnemonic = "valley turn planet this cable fault peanut tower endorse quantum harsh cycle";

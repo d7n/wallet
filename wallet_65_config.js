@@ -1,1 +1,1 @@
-var mnemonic = "fetch label help ride potato vanish bag swarm butter umbrella practice key";
+var mnemonic = "wrong aim visit speed armed make real oppose silent just derive horn";

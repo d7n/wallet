@@ -1,1 +1,1 @@
-var mnemonic = "asthma bundle kangaroo system empower news pave remember boss worth funny conduct";
+var mnemonic = "true lock trumpet summer rival valid pet lounge will live fame hold";

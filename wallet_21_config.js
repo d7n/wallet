@@ -1,1 +1,1 @@
-var mnemonic = "twenty aerobic river busy subject lobster nurse general grow speak mimic sniff";
+var mnemonic = "foot soldier uniform stable enhance wise enemy orchard priority undo patch ankle";

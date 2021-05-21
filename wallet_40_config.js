@@ -1,1 +1,1 @@
-var mnemonic = "cool domain drop region electric unaware rotate shiver canoe pottery noodle stick";
+var mnemonic = "swamp devote slush prosper guide merry base weasel slush bench rifle practice";

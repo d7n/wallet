@@ -1,1 +1,1 @@
-var mnemonic = "siren connect tuna invest during forest traffic lobster destroy issue expand alarm";
+var mnemonic = "decrease invite gun mimic satisfy imitate tissue nice skill urge deer rally";

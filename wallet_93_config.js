@@ -1,1 +1,1 @@
-var mnemonic = "verb nature cruise grass maple month scan frown sponsor cradle wheat brother";
+var mnemonic = "cry pioneer dust retire burger address history rack business arch pull frame";

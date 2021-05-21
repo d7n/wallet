@@ -1,1 +1,1 @@
-var mnemonic = "guard ancient elite frame mirror bonus argue hat engine chest limb grace";
+var mnemonic = "stairs sound super priority intact rebuild balcony exact acid public stay excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "item because erosion original wrap hill hard define mimic deer then edge";
+var mnemonic = "frozen ordinary nice solution puzzle icon accuse fantasy angle report measure smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "ten device waste tired infant law alpha author rare aim number hello";
+var mnemonic = "finger medal celery drip tube pause taxi motor dentist okay office dumb";

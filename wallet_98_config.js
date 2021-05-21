@@ -1,1 +1,1 @@
-var mnemonic = "sphere border result bind loan quit midnight repair foam quit soft use";
+var mnemonic = "bread actress dirt machine gravity dose elephant surround gather purity strong true";

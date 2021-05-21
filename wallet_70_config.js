@@ -1,1 +1,1 @@
-var mnemonic = "false swing connect sorry zebra resemble candy cost check session connect cup";
+var mnemonic = "segment fun distance case scissors umbrella foam wheel bench crisp boy garment";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal since vehicle shy pipe version fuel year crew drastic nice trick";
+var mnemonic = "embody planet south review move prefer alone action change labor own fit";

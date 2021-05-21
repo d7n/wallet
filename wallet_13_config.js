@@ -1,1 +1,1 @@
-var mnemonic = "beef envelope dilemma original text ghost couple glory charge force decline trash";
+var mnemonic = "wild night logic route chat wolf kidney jacket sick illegal practice stairs";

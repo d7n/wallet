@@ -1,1 +1,1 @@
-var mnemonic = "boat all spot canoe lake capable drastic traffic artwork maid tomato myth";
+var mnemonic = "merry effort rice badge zebra eternal fury planet mansion soda lady ability";

@@ -1,1 +1,1 @@
-var mnemonic = "find monster dynamic company link expect own strike eager dignity purity helmet";
+var mnemonic = "bonus west frequent payment biology word around expose virtual high news food";

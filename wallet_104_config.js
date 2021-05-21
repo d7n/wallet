@@ -1,1 +1,1 @@
-var mnemonic = "moon pet birth visa since arrest book cycle fluid silent truck ramp";
+var mnemonic = "aim bulk friend daughter narrow mass camera culture upon interest spatial document";

@@ -1,1 +1,1 @@
-var mnemonic = "upon observe paddle average test endless crumble first theme again victory puppy";
+var mnemonic = "possible cushion bamboo enhance scout library neither project icon best genuine fashion";

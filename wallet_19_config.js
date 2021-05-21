@@ -1,1 +1,1 @@
-var mnemonic = "wide squirrel crunch slim rubber bright later strike over faint favorite pear";
+var mnemonic = "entire card ritual awake pretty job symptom enter canal exile bone face";

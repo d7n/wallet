@@ -1,1 +1,1 @@
-var mnemonic = "protect enemy liberty seat arrange orchard attract indoor use bring anxiety bargain";
+var mnemonic = "entire flock novel athlete nature student front job rack aspect actress vacuum";

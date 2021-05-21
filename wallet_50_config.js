@@ -1,1 +1,1 @@
-var mnemonic = "flame cart dynamic collect stay rule network album fox between abuse easily";
+var mnemonic = "slice upon sword motor own illness chimney garden parrot hurry parade allow";

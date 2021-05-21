@@ -1,1 +1,1 @@
-var mnemonic = "topple mean balance fortune thing just female frozen mobile risk must divide";
+var mnemonic = "pear case stem december guide drive river demise festival verb below seven";
