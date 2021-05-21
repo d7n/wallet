@@ -1,1 +1,1 @@
-var mnemonic = "talent iron double scrap reflect wait bike burst blouse grace wife clutch";
+var mnemonic = "defense scare midnight tiger spin glory reunion purpose program abstract describe foot";

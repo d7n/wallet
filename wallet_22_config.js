@@ -1,1 +1,1 @@
-var mnemonic = "chimney drop pretty table trophy swallow network airport mutual regular merry zone";
+var mnemonic = "have resource soul trophy cheese analyst barrel stem comic alert favorite thought";

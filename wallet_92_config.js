@@ -1,1 +1,1 @@
-var mnemonic = "lion fence carbon glare off urge alone verb inflict extend hurry diet";
+var mnemonic = "room person clerk evolve critic empty dream local album guess project borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile battle duck stadium foam whisper spot already video bulb same kitchen";
+var mnemonic = "exchange vague cigar squeeze detail toast chest sort peanut merry film panel";

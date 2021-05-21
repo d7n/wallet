@@ -1,1 +1,1 @@
-var mnemonic = "message glad faculty cereal truck garage nothing airport twenty van brain bitter";
+var mnemonic = "upset heart inmate cinnamon rebel witness cloud opera process twelve boy warfare";

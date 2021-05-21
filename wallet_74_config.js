@@ -1,1 +1,1 @@
-var mnemonic = "salad slot tired coyote clerk syrup august fan mercy depth planet luggage";
+var mnemonic = "garden moment need easy twist attitude pipe unhappy demise eternal shy coyote";

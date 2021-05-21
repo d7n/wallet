@@ -1,1 +1,1 @@
-var mnemonic = "join vanish original torch autumn voyage custom ski project position advance trend";
+var mnemonic = "air surge soda paddle brother clog attend congress kiss honey grid divide";

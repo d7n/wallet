@@ -1,1 +1,1 @@
-var mnemonic = "weekend chuckle urban sport drastic tool drive basic alpha identify cable heavy";
+var mnemonic = "aware decrease blossom blush draw crucial bleak ethics outside manage annual wagon";

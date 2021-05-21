@@ -1,1 +1,1 @@
-var mnemonic = "race estate flee old arena cement life festival skill garment caution fire";
+var mnemonic = "prevent spatial man pluck bird scissors science client zebra mountain belt cannon";

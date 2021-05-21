@@ -1,1 +1,1 @@
-var mnemonic = "bounce brisk climb razor often bar alarm prison script civil measure person";
+var mnemonic = "unveil banner sing gain visa knock merit canyon fold cliff strong moon";

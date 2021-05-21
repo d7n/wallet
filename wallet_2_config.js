@@ -1,1 +1,1 @@
-var mnemonic = "apology wait maid pumpkin flock country find panda sick path equal require";
+var mnemonic = "manual demand frog crush fork antique frame era okay chase enter joy";

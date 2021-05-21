@@ -1,1 +1,1 @@
-var mnemonic = "jealous unable kangaroo video effort picture lemon fix defy mutual maid chalk";
+var mnemonic = "slice sponsor left south clog bus this patient quote snap wrong asthma";

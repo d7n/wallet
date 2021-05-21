@@ -1,1 +1,1 @@
-var mnemonic = "clock squeeze weapon volcano virus galaxy impulse olive spray exhibit cheap lizard";
+var mnemonic = "cover rapid ugly crush run video buzz sense spoil burst choose cube";

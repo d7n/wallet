@@ -1,1 +1,1 @@
-var mnemonic = "divert label machine siren soup champion pause tomato attract rubber raise long";
+var mnemonic = "wagon gas egg rain analyst assume carry ignore crop degree occur case";

@@ -1,1 +1,1 @@
-var mnemonic = "palm sound prevent clip decorate cram stone almost ill forget hole expire";
+var mnemonic = "exchange elegant balance hospital impact cute guilt super potato load maid climb";

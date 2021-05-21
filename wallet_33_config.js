@@ -1,1 +1,1 @@
-var mnemonic = "shock hurt suit today cannon tissue chef vapor fiscal myself pill absent";
+var mnemonic = "survey exist parent bottom indoor add apart assault dash turkey sport because";

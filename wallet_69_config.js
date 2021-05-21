@@ -1,1 +1,1 @@
-var mnemonic = "steak strategy grant tray alter busy moral fortune yellow weird require panda";
+var mnemonic = "decline start once joke strategy garlic guilt wet olive upon leopard void";

@@ -1,1 +1,1 @@
-var mnemonic = "club people skin eyebrow change eager top mom jelly will become permit";
+var mnemonic = "juice subway end siege run pilot noodle rose erosion divorce deputy express";

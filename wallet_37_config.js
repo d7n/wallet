@@ -1,1 +1,1 @@
-var mnemonic = "december grace cash exist target attitude use profit update athlete service swap";
+var mnemonic = "myth pencil valve cricket sleep exist prize trip blanket sleep memory split";

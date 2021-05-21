@@ -1,1 +1,1 @@
-var mnemonic = "foot tooth gaze pistol sail gym sentence merge brave release ability response";
+var mnemonic = "misery invest panel choice evidence pony custom settle cinnamon canyon once behind";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe choose critic claw like frequent globe thunder pepper clever purchase course";
+var mnemonic = "brother capable lobster seat discover duty sure blur skirt riot bread poverty";

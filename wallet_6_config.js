@@ -1,1 +1,1 @@
-var mnemonic = "lend famous concert account either jewel lottery sight device below solve wire";
+var mnemonic = "reveal fault skin divert lion north vessel whip labor sample amount wait";

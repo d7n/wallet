@@ -1,1 +1,1 @@
-var mnemonic = "monitor bottom gospel boy loop frown vessel stool laugh trash dress menu";
+var mnemonic = "work stove cake payment bounce notice claim pizza myth monitor solution zebra";

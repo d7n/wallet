@@ -1,1 +1,1 @@
-var mnemonic = "sadness toward amazing swim easy burger print slow twin melody race soup";
+var mnemonic = "pond gold cruel where swear give artist clinic begin woman speed battle";

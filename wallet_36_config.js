@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit venture brass grid fever myth relief gentle expose family slab spin";
+var mnemonic = "fluid sponsor attack tooth cash interest ladder omit cool lady blind battle";

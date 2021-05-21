@@ -1,1 +1,1 @@
-var mnemonic = "dog friend layer float moment fringe nest unique lounge area venture feed";
+var mnemonic = "error basic dawn planet item lazy head repair sentence flash puppy reunion";

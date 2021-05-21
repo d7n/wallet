@@ -1,1 +1,1 @@
-var mnemonic = "royal twist shield denial stuff allow mistake evoke fluid case panel salute";
+var mnemonic = "ozone benefit present gadget defense eyebrow foam admit slam peanut cheap first";

@@ -1,1 +1,1 @@
-var mnemonic = "drip fitness rapid evoke sail dial neglect neither glide comic mixed right";
+var mnemonic = "conduct dance ride waste weird rough patrol brave sort insane border cloth";

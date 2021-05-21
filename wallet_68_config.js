@@ -1,1 +1,1 @@
-var mnemonic = "object segment diet glue donate yard aware climb gas fun lens tank";
+var mnemonic = "raw when destroy quit dignity sense canoe worth indoor number conduct tongue";

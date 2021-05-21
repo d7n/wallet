@@ -1,1 +1,1 @@
-var mnemonic = "rigid hand shoot cattle reflect parade canal actual vote switch weekend major";
+var mnemonic = "two glove stand weapon cable melody butter pudding coffee asthma acoustic hedgehog";

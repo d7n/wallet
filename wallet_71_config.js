@@ -1,1 +1,1 @@
-var mnemonic = "barely maple obtain because discover raw train speed usual quote dilemma farm";
+var mnemonic = "van mosquito wrestle erode rocket weasel rich thought can display oak wheel";

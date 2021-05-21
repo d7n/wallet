@@ -1,1 +1,1 @@
-var mnemonic = "stumble crunch filter behind cloud syrup fork father jaguar hunt receive cave";
+var mnemonic = "mercy feel cupboard mango joy eagle mutual adult sun mention figure unfold";

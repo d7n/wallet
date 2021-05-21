@@ -1,1 +1,1 @@
-var mnemonic = "lesson panda heavy license human drill develop marriage force income blind filter";
+var mnemonic = "permit spirit project crucial wrist jar state sustain plate control swarm imitate";

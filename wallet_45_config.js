@@ -1,1 +1,1 @@
-var mnemonic = "security route planet install health sell label seat chase palace fine job";
+var mnemonic = "novel secret clap nice tell vehicle kite depend glance labor excess want";

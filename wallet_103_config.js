@@ -1,1 +1,1 @@
-var mnemonic = "truth scissors lamp indoor cake keen discover unaware under debate biology depend";
+var mnemonic = "secret give fortune kangaroo version agree erosion afraid arrive high spy embark";

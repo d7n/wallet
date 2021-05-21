@@ -1,1 +1,1 @@
-var mnemonic = "laundry victory enjoy pupil corn sad ramp adult file alien news forget";
+var mnemonic = "business minor uncover tired slam venture miracle bubble pledge battle fitness casino";

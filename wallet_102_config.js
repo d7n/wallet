@@ -1,1 +1,1 @@
-var mnemonic = "sea arch uncle right when rigid match excuse thought sponsor moment one";
+var mnemonic = "topic clutch code high purpose miracle file wave bean jump eight engage";

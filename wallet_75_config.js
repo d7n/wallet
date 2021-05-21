@@ -1,1 +1,1 @@
-var mnemonic = "acquire boost laptop because country blade toilet narrow exact load canyon doll";
+var mnemonic = "amazing garden shoot rhythm nest current remain theme test crater civil museum";

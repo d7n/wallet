@@ -1,1 +1,1 @@
-var mnemonic = "wolf joy little misery farm nominee clog verb brass head quarter rubber";
+var mnemonic = "much august disease amazing praise faculty tent alarm flock crater ugly jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "decline fantasy indicate gym owner attract wreck fragile enact tennis butter sniff";
+var mnemonic = "prosper sight theme shove early sphere affair chief help twenty naive approve";

@@ -1,1 +1,1 @@
-var mnemonic = "father foot combine smart one decade picture same modify horror language job";
+var mnemonic = "pumpkin soon venue misery code tent quiz purpose exhibit unfair empty novel";

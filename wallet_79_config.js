@@ -1,1 +1,1 @@
-var mnemonic = "business episode prison sunset bid design palm second tennis almost desert acoustic";
+var mnemonic = "tired tackle street subject custom brief general jar burst phone enable leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate state victory lemon sphere tobacco mercy poet tonight fetch humble rather";
+var mnemonic = "mobile accident across key fly sport tattoo frame round spike miss champion";

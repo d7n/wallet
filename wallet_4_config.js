@@ -1,1 +1,1 @@
-var mnemonic = "chimney matrix garage require spare visual blame blue like issue property scrap";
+var mnemonic = "turkey option click burst wrong snake collect orphan fatal travel shaft volume";

@@ -1,1 +1,1 @@
-var mnemonic = "any lock tape absurd powder local country horn goat debate thunder ecology";
+var mnemonic = "process phone arrest talent doll heart input pride sword sell beauty hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon license melt live deny item tube economy diamond organ life wet";
+var mnemonic = "rather resemble candy physical topic six poet one pledge wear lunch legal";

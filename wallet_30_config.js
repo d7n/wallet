@@ -1,1 +1,1 @@
-var mnemonic = "rescue leader palm powder ripple invest velvet route slight sad clay isolate";
+var mnemonic = "whip stable push unknown increase foster hollow doctor beef erupt report amused";

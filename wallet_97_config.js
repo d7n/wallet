@@ -1,1 +1,1 @@
-var mnemonic = "stadium resource pole lend million music pave wrong disagree render thing icon";
+var mnemonic = "waste virtual edge stadium quote ancient magnet digital decorate lock idle matrix";

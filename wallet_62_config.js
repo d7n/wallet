@@ -1,1 +1,1 @@
-var mnemonic = "fame fan range will twenty direct loud ladder autumn moon network fork";
+var mnemonic = "olive season burst old curve source pelican lion tiger delay detail obtain";

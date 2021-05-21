@@ -1,1 +1,1 @@
-var mnemonic = "person route almost elevator dice anxiety drift push arrive change swing meadow";
+var mnemonic = "nation dismiss grain lesson recall finish offer jealous can sand absurd ask";

@@ -1,1 +1,1 @@
-var mnemonic = "hat industry become police soon sick arrange trend snow history crew monster";
+var mnemonic = "spring ship uniform lesson slab night luxury old thank power grow speak";

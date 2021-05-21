@@ -1,1 +1,1 @@
-var mnemonic = "car hybrid joke build label pistol bargain merry menu grant february elder";
+var mnemonic = "island ginger fan wine bonus victory wrist ride awesome brown clay raise";

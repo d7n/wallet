@@ -1,1 +1,1 @@
-var mnemonic = "grant open sphere leisure junk large tag bless scan unusual credit blanket";
+var mnemonic = "valve acquire organ obtain sight keep diagram crime fan green capital safe";

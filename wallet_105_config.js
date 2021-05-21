@@ -1,1 +1,1 @@
-var mnemonic = "lady proof special decrease marble sphere bird laptop law acquire bulb edit";
+var mnemonic = "hope knock maid rotate behave reunion choose surround alter bone praise gas";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion million receive rack party slogan render clerk script boss laptop impulse";
+var mnemonic = "celery guard visit version neglect soccer expect garbage garlic useful spin twice";

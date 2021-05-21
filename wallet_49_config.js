@@ -1,1 +1,1 @@
-var mnemonic = "never husband solution soon asthma access chapter garden dragon stove burger prize";
+var mnemonic = "intact flower grow pond return onion spoon hire tank much lift between";

@@ -1,1 +1,1 @@
-var mnemonic = "cool auction soda angry gesture plunge secret forum fatigue toe scare swim";
+var mnemonic = "weird grape modify mirror twenty suspect panel roast young leg provide anxiety";

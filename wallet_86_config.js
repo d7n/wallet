@@ -1,1 +1,1 @@
-var mnemonic = "lift follow else globe tent story team lesson donor practice return valve";
+var mnemonic = "acquire thumb immense olympic virtual renew crime gather coral pink clerk drink";

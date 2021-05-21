@@ -1,1 +1,1 @@
-var mnemonic = "essay must proof start reveal trend dust next endorse comfort check dad";
+var mnemonic = "wrist brisk recall general crucial nest chat false inspire bean bounce concert";

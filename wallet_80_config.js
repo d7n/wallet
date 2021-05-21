@@ -1,1 +1,1 @@
-var mnemonic = "tonight cancel infant light inherit capital dawn soft degree ill security drastic";
+var mnemonic = "toe weather grunt taxi man derive panic flat educate squirrel spell legal";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery inhale safe opinion legend sand pole asset awesome next thank plunge";
+var mnemonic = "confirm sniff voyage task shove arrange park evoke require lab sea original";

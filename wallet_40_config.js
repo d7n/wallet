@@ -1,1 +1,1 @@
-var mnemonic = "base verb neutral picnic sauce bench write lucky genre shuffle attend machine";
+var mnemonic = "believe sweet sorry fortune throw upgrade immense frozen company eye engine snack";

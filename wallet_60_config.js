@@ -1,1 +1,1 @@
-var mnemonic = "rose paper either sauce tiny assist beef vacant just drill shed legend";
+var mnemonic = "matter differ fix issue wife armor into shove reject satoshi ugly vague";

@@ -1,1 +1,1 @@
-var mnemonic = "exit grit diary van inmate flee violin okay wash protect extra penalty";
+var mnemonic = "west census hair silly prefer chronic banner awful parrot fade head size";

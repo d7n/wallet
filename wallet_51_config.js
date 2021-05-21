@@ -1,1 +1,1 @@
-var mnemonic = "tank mouse left zebra nerve quick skull absent forum alarm shallow already";
+var mnemonic = "artefact aim brain churn alcohol symptom avoid solar sock spawn wife dial";

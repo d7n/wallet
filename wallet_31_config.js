@@ -1,1 +1,1 @@
-var mnemonic = "strategy chicken notice yellow exact leader sell oil rather whisper include layer";
+var mnemonic = "turtle retire drive human pony scrap silly size grit vote antenna taxi";

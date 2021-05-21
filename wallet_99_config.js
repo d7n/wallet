@@ -1,1 +1,1 @@
-var mnemonic = "drop sauce inner exercise piano nuclear hidden manage scorpion key senior visual";
+var mnemonic = "high squirrel shell stone come rural fringe vacuum script debate glove pony";

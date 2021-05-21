@@ -1,1 +1,1 @@
-var mnemonic = "school bacon pledge gate novel forget mobile miss flee soon follow anxiety";
+var mnemonic = "defy silver trade under giraffe glide zero fun crazy black grunt spin";

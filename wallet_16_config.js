@@ -1,1 +1,1 @@
-var mnemonic = "ticket powder predict perfect ketchup miss leisure hill basic mixture huge crumble";
+var mnemonic = "input stay razor rural action already script pioneer inquiry latin flee measure";

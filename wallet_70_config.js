@@ -1,1 +1,1 @@
-var mnemonic = "south purchase tribe mango deposit scheme sister shoot quote sad case spray";
+var mnemonic = "marine shoot recall fluid group alley cook draw humor letter august key";

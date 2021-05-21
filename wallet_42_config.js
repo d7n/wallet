@@ -1,1 +1,1 @@
-var mnemonic = "gas gauge soccer guess quantum symptom supreme throw citizen very chalk tilt";
+var mnemonic = "inhale return egg silent diesel quarter concert chalk secret daring grocery ordinary";

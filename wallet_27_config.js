@@ -1,1 +1,1 @@
-var mnemonic = "kitten unfold suit awesome thought system oblige flat reopen parent rather adjust";
+var mnemonic = "lizard worth tired version oval patch annual license dirt moon vital arm";

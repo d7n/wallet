@@ -1,1 +1,1 @@
-var mnemonic = "hand cup mammal kiwi genre run safe number apple gorilla usual muffin";
+var mnemonic = "blush rebel betray country feed vague glass between flee excite life start";

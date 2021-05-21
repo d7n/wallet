@@ -1,1 +1,1 @@
-var mnemonic = "tooth humor put gravity there science beauty luggage spring hire napkin danger";
+var mnemonic = "rule fantasy spirit top rotate trumpet sustain someone tree melt provide valid";

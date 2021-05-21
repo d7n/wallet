@@ -1,1 +1,1 @@
-var mnemonic = "height ugly basic system unusual sniff among little reward movie entry bottom";
+var mnemonic = "bachelor actress slow trick indoor manual unlock advice barely addict simple sweet";

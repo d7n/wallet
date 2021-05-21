@@ -1,1 +1,1 @@
-var mnemonic = "network kit awful nasty drip joke clip foam opera feed find cliff";
+var mnemonic = "bullet undo effort dolphin border super average comfort employ hobby outside stereo";

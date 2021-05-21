@@ -1,1 +1,1 @@
-var mnemonic = "build gauge minute garden math protect outside ordinary hobby motor know column";
+var mnemonic = "assume image program thought lemon injury amazing art museum certain safe system";

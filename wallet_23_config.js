@@ -1,1 +1,1 @@
-var mnemonic = "moral mosquito improve situate armed divert fat toe crater trim shallow tide";
+var mnemonic = "fashion shadow under immune twelve vapor sunny twice chair detail parade suit";

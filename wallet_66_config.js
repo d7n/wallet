@@ -1,1 +1,1 @@
-var mnemonic = "hundred suggest blade wreck prosper matrix cabin twist express vital dinner marriage";
+var mnemonic = "trick buddy mango meadow arrange year pizza airport wedding exit outside abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "merry thumb distance major aerobic render blind grain clarify faculty soft still";
+var mnemonic = "regular famous chef fabric aerobic walk junior nephew garlic honey child grain";

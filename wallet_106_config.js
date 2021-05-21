@@ -1,1 +1,1 @@
-var mnemonic = "library bag circle arrow claim body purity over hammer tray combine jelly";
+var mnemonic = "party blue benefit kit such identify sign door friend month goose tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "display wrestle orphan protect town fossil cram vote nature area laptop drift";
+var mnemonic = "borrow sock subject install day dose gallery enroll desk picnic utility music";

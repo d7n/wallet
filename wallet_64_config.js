@@ -1,1 +1,1 @@
-var mnemonic = "outdoor tennis lady use present alcohol scorpion network force twice pact test";
+var mnemonic = "network chalk december comfort shoulder firm brief update extend vocal couch color";

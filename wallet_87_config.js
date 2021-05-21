@@ -1,1 +1,1 @@
-var mnemonic = "accident frozen cheap record mix under dish crime east begin exile sun";
+var mnemonic = "library minor jealous rent that tube hard aunt shallow few chimney daring";

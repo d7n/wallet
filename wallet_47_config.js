@@ -1,1 +1,1 @@
-var mnemonic = "isolate patch battle palace enough lock summer design manual behind sense pact";
+var mnemonic = "client snow pill sting barely pizza draw glow genre wet advance sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics taste beyond desert damage ancient state jacket crisp diary fantasy broken";
+var mnemonic = "eager grow business audit kangaroo easy state anger junior dash skull vote";

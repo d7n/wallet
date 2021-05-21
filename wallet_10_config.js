@@ -1,1 +1,1 @@
-var mnemonic = "marriage raven blame maximum expose inside turkey apology model casual remain fence";
+var mnemonic = "senior maple myself effort sleep remain pigeon evolve crime attitude potato forum";

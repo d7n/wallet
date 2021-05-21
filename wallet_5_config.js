@@ -1,1 +1,1 @@
-var mnemonic = "phone treat clown dream syrup shaft invite hospital weather during young sell";
+var mnemonic = "finger open amateur pioneer proof injury immense program nerve main host play";
