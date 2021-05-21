@@ -1,1 +1,1 @@
-var mnemonic = "possible era carry admit shove solve wrong lift vote future lyrics ribbon";
+var mnemonic = "chase abandon morning cry word disorder ozone congress fatigue turtle impulse foil";

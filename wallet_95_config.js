@@ -1,1 +1,1 @@
-var mnemonic = "speed clap soon coyote survey battle prosper half athlete alien estate blue";
+var mnemonic = "crunch purpose hungry card middle ahead remember ladder dawn simple insect toe";

@@ -1,1 +1,1 @@
-var mnemonic = "connect pool athlete recipe coil bundle dignity history good submit render broken";
+var mnemonic = "tiny hammer chimney creek salon hundred above embark casual lake camera shell";

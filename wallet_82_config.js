@@ -1,1 +1,1 @@
-var mnemonic = "curtain enjoy come husband floor rug pair amazing public guard slot pipe";
+var mnemonic = "festival bless wild desk knock cash aware buddy run catch artwork nature";

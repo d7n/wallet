@@ -1,1 +1,1 @@
-var mnemonic = "entry chunk banner river little consider kid valid join park position mail";
+var mnemonic = "despair dumb token option bless gym matter group screen night fog proud";

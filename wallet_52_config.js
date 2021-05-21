@@ -1,1 +1,1 @@
-var mnemonic = "eagle phone argue rate naive dance ozone garbage future glide fiction fox";
+var mnemonic = "orange soda loud keen gravity faculty any project shuffle three desert stable";

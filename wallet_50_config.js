@@ -1,1 +1,1 @@
-var mnemonic = "refuse ship thank seek romance pass note black transfer ridge stomach fancy";
+var mnemonic = "piano book shoulder around near rifle achieve desk save middle flush dinner";

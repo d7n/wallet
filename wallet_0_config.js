@@ -1,1 +1,1 @@
-var mnemonic = "rather first leisure they drink second fun plug seat region bridge save";
+var mnemonic = "forum melody elevator truth raccoon entire unaware list wedding glue wood almost";

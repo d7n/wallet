@@ -1,1 +1,1 @@
-var mnemonic = "romance common finger hotel image episode metal twenty scan forget whip demise";
+var mnemonic = "sphere alley tree shed stuff casual embody pizza nuclear panel carpet seat";

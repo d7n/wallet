@@ -1,1 +1,1 @@
-var mnemonic = "solution owner fat trust crowd ancient coin organ possible cost curtain jacket";
+var mnemonic = "arch bus figure wet chimney liberty romance keen goat ecology visa kidney";

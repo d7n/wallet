@@ -1,1 +1,1 @@
-var mnemonic = "outside life coyote easily blade type rug panic hard swallow wedding race";
+var mnemonic = "stool chicken phone license snow hospital gadget possible section model pelican quote";

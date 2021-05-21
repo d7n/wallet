@@ -1,1 +1,1 @@
-var mnemonic = "learn type ceiling float sugar surface slush grace about object film until";
+var mnemonic = "flight journey cluster bulk artwork grit agent umbrella blossom clinic elite behave";

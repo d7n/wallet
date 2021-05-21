@@ -1,1 +1,1 @@
-var mnemonic = "giant scrub opinion festival swamp define twist exit crawl bachelor liberty nurse";
+var mnemonic = "outdoor poet gesture menu museum consider front thunder eight exchange exit angle";

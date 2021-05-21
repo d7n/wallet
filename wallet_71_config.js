@@ -1,1 +1,1 @@
-var mnemonic = "mango number guess clog access proud tree only kitchen wedding reopen bench";
+var mnemonic = "stage improve soft allow gun wage thought phrase segment hub endorse sand";

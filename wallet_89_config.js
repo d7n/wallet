@@ -1,1 +1,1 @@
-var mnemonic = "island toilet great abandon voyage faith regret hurt bacon wear lottery puppy";
+var mnemonic = "scrub matrix arctic catch parade media route utility embrace float soon high";

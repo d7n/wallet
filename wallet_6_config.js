@@ -1,1 +1,1 @@
-var mnemonic = "rubber attract march few regret before damage include gun segment unusual stamp";
+var mnemonic = "actor poverty evoke filter animal father legend spice oil symbol alone document";

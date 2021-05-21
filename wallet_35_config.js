@@ -1,1 +1,1 @@
-var mnemonic = "brand protect science brisk junior sweet wise sand man emotion pretty brisk";
+var mnemonic = "security fold smile board sorry file double police define toe across armed";

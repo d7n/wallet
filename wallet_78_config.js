@@ -1,1 +1,1 @@
-var mnemonic = "fuel creek season pizza flavor undo razor paddle message burden magnet habit";
+var mnemonic = "crucial uphold narrow jump miss dizzy autumn crisp volume fiction firm chalk";

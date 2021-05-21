@@ -1,1 +1,1 @@
-var mnemonic = "action win spider mirror fashion solution bounce until stock penalty model nature";
+var mnemonic = "powder luxury trouble maximum fragile wrist cheese harsh remember permit stairs garage";

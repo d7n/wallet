@@ -1,1 +1,1 @@
-var mnemonic = "floor game flash parent measure cruel vault wolf diary all fashion creek";
+var mnemonic = "defy hedgehog town hunt sting cake melody adult obscure member symptom valley";

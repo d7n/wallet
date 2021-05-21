@@ -1,1 +1,1 @@
-var mnemonic = "gossip convince special napkin simple noodle zebra expose right bomb used crime";
+var mnemonic = "hover voice earn monster text vibrant round current tiger average session sure";

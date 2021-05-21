@@ -1,1 +1,1 @@
-var mnemonic = "decrease pelican tumble because midnight sentence enlist tiger cousin dragon rely fox";
+var mnemonic = "mule prize also hedgehog equal toward nerve candy punch tree step estate";

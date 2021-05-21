@@ -1,1 +1,1 @@
-var mnemonic = "orbit mother hold staff slight aspect finger hockey please book pattern wear";
+var mnemonic = "winter large crime top push jewel clip catalog together bulk green thunder";

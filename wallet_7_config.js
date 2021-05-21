@@ -1,1 +1,1 @@
-var mnemonic = "often elbow armed pave volume autumn machine slide tilt maximum faculty vibrant";
+var mnemonic = "void enact circle subject resist typical swift service bind vote fever tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse round album aim strategy carbon advance trouble believe vocal resemble news";
+var mnemonic = "rib peace dinner resemble supreme liquid illegal ghost undo damage brown clean";

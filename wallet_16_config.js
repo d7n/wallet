@@ -1,1 +1,1 @@
-var mnemonic = "avoid useless text mimic certain hospital toast infant jazz market ability always";
+var mnemonic = "menu shop into base absent blue first they green chalk unusual cover";

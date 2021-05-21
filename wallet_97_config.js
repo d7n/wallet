@@ -1,1 +1,1 @@
-var mnemonic = "ginger carbon nice favorite utility stuff tomato such manage mosquito roast slide";
+var mnemonic = "leave update feed tide access barrel budget gospel that task endorse timber";

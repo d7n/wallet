@@ -1,1 +1,1 @@
-var mnemonic = "boy bachelor ramp prison walnut account juice local reduce space oval follow";
+var mnemonic = "road stereo throw father alley green mean proud globe infant before foster";

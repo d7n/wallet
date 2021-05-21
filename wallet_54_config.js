@@ -1,1 +1,1 @@
-var mnemonic = "company shaft venture brief afford minimum maximum axis like hurt prevent thrive";
+var mnemonic = "valley paddle gravity athlete board clap split symptom settle bounce remember tongue";

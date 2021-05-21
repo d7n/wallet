@@ -1,1 +1,1 @@
-var mnemonic = "plug hood gossip upper chunk act animal injury arrest betray surge certain";
+var mnemonic = "faith pair parent globe upon essence festival fork tent summer fix mirror";

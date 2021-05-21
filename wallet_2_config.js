@@ -1,1 +1,1 @@
-var mnemonic = "area august radio side thing small finish hip gaze polar thing bean";
+var mnemonic = "caught energy profit give october goose upon sketch unlock pattern regret seat";

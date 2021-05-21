@@ -1,1 +1,1 @@
-var mnemonic = "uniform stable sunset reduce radar buzz better soda keen range help happy";
+var mnemonic = "turn quarter topple better squeeze plug modify adapt resist cash remind coil";

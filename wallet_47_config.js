@@ -1,1 +1,1 @@
-var mnemonic = "amused into dragon craft mean distance bottom script inhale age congress music";
+var mnemonic = "resist various trip license engine dawn midnight behave jewel symbol depart juice";

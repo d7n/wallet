@@ -1,1 +1,1 @@
-var mnemonic = "post setup smart tunnel relief coin man drip depend science round arrange";
+var mnemonic = "hawk truly afraid wedding sock lion trust virus thank robot fury replace";

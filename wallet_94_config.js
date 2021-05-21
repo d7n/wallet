@@ -1,1 +1,1 @@
-var mnemonic = "west real train scatter human increase train extra atom motion draw maple";
+var mnemonic = "trouble level infant regular issue broccoli badge ecology refuse celery spin again";

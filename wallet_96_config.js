@@ -1,1 +1,1 @@
-var mnemonic = "narrow hole govern surge amazing wink tissue few snap weasel knock rotate";
+var mnemonic = "decrease flower express noise general label clog ignore master bundle coil inquiry";

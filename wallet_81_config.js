@@ -1,1 +1,1 @@
-var mnemonic = "april acoustic february until sentence account recycle luxury together grid basket front";
+var mnemonic = "example seminar siege west dawn first balance cat clump buddy cotton panda";

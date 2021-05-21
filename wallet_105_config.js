@@ -1,1 +1,1 @@
-var mnemonic = "three kiss bid stairs lesson enhance baby hello luxury sort tennis ocean";
+var mnemonic = "tomorrow adapt crane ecology soda rather media leisure submit camera urban carry";

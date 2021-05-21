@@ -1,1 +1,1 @@
-var mnemonic = "demand where pave whale bronze gas weird hobby page bulb fruit lamp";
+var mnemonic = "maid monster rescue outside sauce derive daring focus airport local call venue";

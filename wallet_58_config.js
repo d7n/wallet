@@ -1,1 +1,1 @@
-var mnemonic = "ladder cousin forest huge budget layer any engage casual build crater connect";
+var mnemonic = "involve desert daughter easily mistake economy eye pave school very retreat romance";

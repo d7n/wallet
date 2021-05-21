@@ -1,1 +1,1 @@
-var mnemonic = "orange bronze consider expect bridge add claw produce final umbrella harsh parade";
+var mnemonic = "vote road symptom neglect lecture old puzzle flat wish want sentence short";

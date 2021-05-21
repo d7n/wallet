@@ -1,1 +1,1 @@
-var mnemonic = "grunt danger theme boil flame night apart acid traffic tuition menu genre";
+var mnemonic = "mixed clock umbrella impose dwarf round chaos powder option purity civil sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "marble disagree vacant ordinary panther adult public fog opera dignity knee hint";
+var mnemonic = "sick organ online cancel medal know keen rail imitate praise melody heart";

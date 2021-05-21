@@ -1,1 +1,1 @@
-var mnemonic = "prevent produce gather matter visual inherit domain treat cancel vintage solve goat";
+var mnemonic = "require odor fee income please leave multiply divert exotic during amused normal";

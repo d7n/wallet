@@ -1,1 +1,1 @@
-var mnemonic = "economy glance steak mother prevent ghost key ensure woman alley gather garment";
+var mnemonic = "pig mesh people picture number stove media own gift fish globe script";

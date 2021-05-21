@@ -1,1 +1,1 @@
-var mnemonic = "drill wise doll payment nerve insect endless nominee farm mirror cool rice";
+var mnemonic = "grunt senior wage episode danger sorry scale dream fly minor tuna credit";

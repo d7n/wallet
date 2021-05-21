@@ -1,1 +1,1 @@
-var mnemonic = "budget luxury suspect mutual blind mind curtain tiny want destroy session mention";
+var mnemonic = "resource caution pulse churn seed hunt silver dragon breeze bundle play wall";

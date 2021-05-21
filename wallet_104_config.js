@@ -1,1 +1,1 @@
-var mnemonic = "banner regular elder fatal resource retire crouch allow fuel coffee actor sign";
+var mnemonic = "spell gap wreck light avocado shine violin mom math metal visual flag";

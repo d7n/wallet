@@ -1,1 +1,1 @@
-var mnemonic = "purpose sunny retire hat crime country cousin city cover initial crumble first";
+var mnemonic = "health trip allow artwork sorry unfair lonely surface loop today fatal clap";

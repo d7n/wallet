@@ -1,1 +1,1 @@
-var mnemonic = "survey fluid burger rice agent harbor eight left cause dust oven base";
+var mnemonic = "shallow poet duty pride bridge term museum satisfy any stem science spoon";

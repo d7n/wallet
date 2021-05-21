@@ -1,1 +1,1 @@
-var mnemonic = "miracle potato transfer three dilemma bless boost girl sight exhibit proud throw";
+var mnemonic = "trust glimpse suspect slender disorder turn carry juice near solution party lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "atom never define catalog kangaroo issue wave faculty fragile color version belt";
+var mnemonic = "reward meat answer bean child license goat spot slogan relax amused win";

@@ -1,1 +1,1 @@
-var mnemonic = "flock gesture real eager voyage pilot deposit blanket pulp wife toddler ill";
+var mnemonic = "token cup sock april away blouse vast copper sail slow choice carry";

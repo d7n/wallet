@@ -1,1 +1,1 @@
-var mnemonic = "very index hand dice toast defy cart organ must spell cluster change";
+var mnemonic = "mountain science call wage nation master embrace arrange verb cream success bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic ugly web decrease primary speak pattern nature memory option nest lunch";
+var mnemonic = "gesture custom globe gown oil stay draw shrug bronze inside sauce enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "cash excess depth fix vote mix tenant favorite found virus either expose";
+var mnemonic = "thank join expect near angry bicycle vicious zero critic tuition cattle cattle";

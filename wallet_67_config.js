@@ -1,1 +1,1 @@
-var mnemonic = "boil fiction dose ridge deposit tiger feed build blame tissue disorder evolve";
+var mnemonic = "fortune aisle exit sense orchard orbit note resist flock raw arch hen";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive lecture impulse vague age damp able latin forget aware two arrange";
+var mnemonic = "episode regret thunder now autumn impact wonder local prevent until cigar lawn";

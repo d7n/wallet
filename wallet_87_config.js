@@ -1,1 +1,1 @@
-var mnemonic = "moral follow party fix flush loop better fantasy side analyst benefit evidence";
+var mnemonic = "know stairs fold dose nature market much impact cloth pet hero seed";

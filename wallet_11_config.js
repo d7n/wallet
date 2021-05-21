@@ -1,1 +1,1 @@
-var mnemonic = "fabric lunch satisfy web detect caution crunch bag unable hen ketchup reason";
+var mnemonic = "lobster shell rival tooth fresh sweet dignity chronic inject feel couple dolphin";

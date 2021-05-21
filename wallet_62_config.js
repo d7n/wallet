@@ -1,1 +1,1 @@
-var mnemonic = "bind leader pill detect valid puppy beyond myth chair release immense junior";
+var mnemonic = "trap empty gain fork primary stage scene tide define era degree clip";

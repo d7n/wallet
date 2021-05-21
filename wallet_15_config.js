@@ -1,1 +1,1 @@
-var mnemonic = "tank odor then same scatter purity famous walnut saddle supply guitar cupboard";
+var mnemonic = "wrestle future faculty embody renew planet scrub nose there grant ill enrich";

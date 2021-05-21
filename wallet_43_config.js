@@ -1,1 +1,1 @@
-var mnemonic = "water immense truck injury today color robust charge soup minor around family";
+var mnemonic = "pudding struggle shoot crime chief goose gesture pill govern excuse jump effort";

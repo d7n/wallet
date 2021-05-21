@@ -1,1 +1,1 @@
-var mnemonic = "effort result slam verify venture bundle equal chalk purity inner flush gauge";
+var mnemonic = "balance will swap grass process rain tortoise north blush immune winter deal";

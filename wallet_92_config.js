@@ -1,1 +1,1 @@
-var mnemonic = "consider crane buzz become slight tongue power suspect wrist funny venture total";
+var mnemonic = "bone faint spin display wood live lazy awesome online network hobby miss";

@@ -1,1 +1,1 @@
-var mnemonic = "try eager senior cool blanket awesome enroll elephant lonely topple maid garage";
+var mnemonic = "fiscal return swear sound prize fork weasel nature daring lecture sign occur";

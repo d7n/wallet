@@ -1,1 +1,1 @@
-var mnemonic = "snow real habit column anger zoo beauty humor finish glove episode shine";
+var mnemonic = "broccoli bacon dial lunch dynamic dry release giraffe west invite crack toward";

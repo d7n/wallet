@@ -1,1 +1,1 @@
-var mnemonic = "matrix citizen evidence sport rate vacant juice own vanish kite pulse fan";
+var mnemonic = "play only cram someone worth park spell major pulse angry lab evidence";

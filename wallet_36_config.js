@@ -1,1 +1,1 @@
-var mnemonic = "crisp wood loud match dragon mimic across rent collect slam diary casino";
+var mnemonic = "firm select oval basket law helmet pass warm venue admit shoot craft";

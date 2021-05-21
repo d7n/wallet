@@ -1,1 +1,1 @@
-var mnemonic = "quiz chronic little trigger patient office exotic side nothing canvas focus coach";
+var mnemonic = "bone slide rubber toy safe life diamond tomorrow tissue alley pattern else";

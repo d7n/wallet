@@ -1,1 +1,1 @@
-var mnemonic = "wash yellow quality space vocal hurdle juice magnet assault public night delay";
+var mnemonic = "panel hub prevent prize sight peace arrow jaguar invest reflect key hurt";

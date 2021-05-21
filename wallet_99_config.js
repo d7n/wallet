@@ -1,1 +1,1 @@
-var mnemonic = "burden baby interest mother legal pattern blanket abstract burger moment initial pigeon";
+var mnemonic = "black comfort pioneer language pole reduce drama corn cloud van square idea";

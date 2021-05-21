@@ -1,1 +1,1 @@
-var mnemonic = "roof stand again frozen buffalo chest settle library elegant sick scatter pattern";
+var mnemonic = "interest dutch library cable payment media chief tower balcony wrestle size element";

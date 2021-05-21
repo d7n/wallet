@@ -1,1 +1,1 @@
-var mnemonic = "rival silly entry caution essence potato only boat one neck hood cruel";
+var mnemonic = "tattoo color grace citizen scissors basic stove verb soda slot follow helmet";

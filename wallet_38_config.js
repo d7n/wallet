@@ -1,1 +1,1 @@
-var mnemonic = "attract delay below taste invite air announce diary book indicate wrong scan";
+var mnemonic = "drip finger cinnamon cross virus truly slush never almost hat pretty scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "citizen expect salute quit field unfair love similar impact please phrase option";
+var mnemonic = "monster kid basic december forum like imitate strategy patient emotion bracket fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "paper rocket meat valid crowd private kick claim wheel bounce course settle";
+var mnemonic = "romance rocket agent face blanket record input bracket recycle divorce scale rabbit";

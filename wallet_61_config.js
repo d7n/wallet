@@ -1,1 +1,1 @@
-var mnemonic = "loud zebra elbow cloth original guilt dwarf tell trash have riot fault";
+var mnemonic = "price toward vivid maximum never roof bicycle together once final acid photo";

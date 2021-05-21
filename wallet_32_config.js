@@ -1,1 +1,1 @@
-var mnemonic = "ancient apple win hole jealous day hammer enhance pudding ceiling theory beef";
+var mnemonic = "emerge day mushroom child creek delay brand pave carry before enemy aspect";

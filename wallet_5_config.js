@@ -1,1 +1,1 @@
-var mnemonic = "move broken icon place price that nut patch earn bulk label pole";
+var mnemonic = "uphold flash cliff merge tell romance reward ceiling diesel quiz cement satisfy";

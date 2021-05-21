@@ -1,1 +1,1 @@
-var mnemonic = "carbon sibling fox miss feel vocal physical smoke undo health jazz brief";
+var mnemonic = "easily mother faith east simple nature analyst giggle address solution visa crater";

@@ -1,1 +1,1 @@
-var mnemonic = "boil grunt strong wheat lion patrol flat message theme what tiger wine";
+var mnemonic = "reward mixture label hungry blame capital quantum uncover ethics hold ethics slot";

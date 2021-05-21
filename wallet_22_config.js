@@ -1,1 +1,1 @@
-var mnemonic = "twin learn belt embrace earn name season foster poet wrong deliver attack";
+var mnemonic = "smart pumpkin guilt assist identify jungle survey device manage fall please mixed";

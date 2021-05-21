@@ -1,1 +1,1 @@
-var mnemonic = "under home dismiss apart demand senior pyramid fog alarm front clog explain";
+var mnemonic = "awkward distance drum raise bring hospital remove oblige math plug assist copper";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn tail mother outdoor purpose educate topic visual blind weapon curious strategy";
+var mnemonic = "talent crystal unusual fine author corn nasty valid erode dose define slide";

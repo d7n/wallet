@@ -1,1 +1,1 @@
-var mnemonic = "coconut boost route pave trophy gossip youth update mechanic equip exchange lizard";
+var mnemonic = "shoe junk business blush inhale view scale produce chronic ribbon fashion brand";

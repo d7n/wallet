@@ -1,1 +1,1 @@
-var mnemonic = "worth always mansion gloom legend wet toss town present auction rookie stem";
+var mnemonic = "laugh suspect patrol quick abuse cotton stone note library then feel alien";

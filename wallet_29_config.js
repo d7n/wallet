@@ -1,1 +1,1 @@
-var mnemonic = "coffee correct employ lecture help pair spread climb engine dish approve planet";
+var mnemonic = "quality decrease unfold slam ignore human athlete grow math coach six extra";

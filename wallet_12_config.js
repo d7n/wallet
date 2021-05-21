@@ -1,1 +1,1 @@
-var mnemonic = "caught design stick crazy decline trick frame actual deliver clock when arrive";
+var mnemonic = "bomb cover verify neglect embark clay unusual maximum afraid fresh wagon cannon";

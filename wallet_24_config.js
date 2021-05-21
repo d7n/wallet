@@ -1,1 +1,1 @@
-var mnemonic = "type drastic vivid wool job actor sea faint habit man stage basket";
+var mnemonic = "rice magnet outdoor they renew there link entry rural tackle desert math";

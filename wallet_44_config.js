@@ -1,1 +1,1 @@
-var mnemonic = "yellow excess quarter action warm dignity advice shaft metal survey rally act";
+var mnemonic = "bracket huge rebuild drill appear idea total neglect hair rabbit tattoo coffee";

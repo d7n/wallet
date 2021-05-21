@@ -1,1 +1,1 @@
-var mnemonic = "winner orange kingdom trip image boil rifle eagle scheme belt lecture access";
+var mnemonic = "kit across bounce evoke tunnel trend gold surface night lawsuit before jacket";

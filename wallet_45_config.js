@@ -1,1 +1,1 @@
-var mnemonic = "one rib extra extend place rigid salt marble kind seat render logic";
+var mnemonic = "add mention betray century embody rebuild stuff family payment prefer attack purpose";

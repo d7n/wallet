@@ -1,1 +1,1 @@
-var mnemonic = "inhale crystal east little famous visit exist chuckle equip version enlist pond";
+var mnemonic = "machine flee example any glow woman alone mammal version nasty bunker borrow";

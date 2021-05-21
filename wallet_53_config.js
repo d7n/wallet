@@ -1,1 +1,1 @@
-var mnemonic = "garage peace suspect inspire among ankle fatal december love uncle clinic dwarf";
+var mnemonic = "cup rail universe improve slam swap axis fossil surprise hat box cave";

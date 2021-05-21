@@ -1,1 +1,1 @@
-var mnemonic = "bring next minute sting able betray worth disease gasp random hybrid scissors";
+var mnemonic = "slow sister rib dance guide rude saddle junk retreat april inflict blame";

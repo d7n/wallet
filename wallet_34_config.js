@@ -1,1 +1,1 @@
-var mnemonic = "fuel major reduce exotic suit soon differ town toy monitor call feed";
+var mnemonic = "insane garlic offer spy fever grid brown caution runway risk step acquire";

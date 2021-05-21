@@ -1,1 +1,1 @@
-var mnemonic = "brief viable van license gorilla siren honey speed hungry claim kit awake";
+var mnemonic = "rice twenty ride fun flat shift mask title piece rifle differ abandon";
