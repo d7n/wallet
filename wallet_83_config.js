@@ -1,1 +1,1 @@
-var mnemonic = "guilt switch neglect coral approve dentist alter decline tooth traffic limb pact";
+var mnemonic = "donor issue lounge tree long super swim monitor muscle mosquito rack syrup";

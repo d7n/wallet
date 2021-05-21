@@ -1,1 +1,1 @@
-var mnemonic = "pupil chef letter tired copy silly diagram dirt raven frown better monkey";
+var mnemonic = "artist equip net shallow apart corn scare old flag aim acoustic word";

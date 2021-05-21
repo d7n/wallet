@@ -1,1 +1,1 @@
-var mnemonic = "antenna fantasy canal intact erase alone end casino save soap monitor walk";
+var mnemonic = "jump century grab trial action gown same curtain peasant hammer caution love";

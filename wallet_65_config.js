@@ -1,1 +1,1 @@
-var mnemonic = "layer dinosaur relax exchange slim exhaust check joy chase decade exile beauty";
+var mnemonic = "kiss pluck tip never ugly advance allow hawk spread race emerge dad";

@@ -1,1 +1,1 @@
-var mnemonic = "around rookie rubber rigid used enjoy crawl fish journey tree entire improve";
+var mnemonic = "hour wink burger slice swing morning plastic gloom during silly luxury rifle";

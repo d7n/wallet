@@ -1,1 +1,1 @@
-var mnemonic = "squirrel buddy merge waste rule gesture refuse flush spoil witness focus magic";
+var mnemonic = "wage day present unusual link disorder grunt stomach solution wire exile syrup";

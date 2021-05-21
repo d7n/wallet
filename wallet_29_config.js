@@ -1,1 +1,1 @@
-var mnemonic = "length stick orbit cattle ride card metal ridge find industry mobile raccoon";
+var mnemonic = "nest alien oppose fix egg orbit approve shaft often joke model release";

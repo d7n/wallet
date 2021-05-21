@@ -1,1 +1,1 @@
-var mnemonic = "input link crisp guitar pitch scale fork flock alone become head oxygen";
+var mnemonic = "orange canal input wage vapor over pyramid before spin tube note door";

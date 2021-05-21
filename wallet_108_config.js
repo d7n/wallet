@@ -1,1 +1,1 @@
-var mnemonic = "echo vivid junior pepper fossil vapor parrot supreme sell tell oil able";
+var mnemonic = "waste chapter kit gloom circle pond drink robot hour glance rescue comfort";

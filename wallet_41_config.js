@@ -1,1 +1,1 @@
-var mnemonic = "odor giraffe sibling cereal vocal battle bless arctic clean upgrade ugly rich";
+var mnemonic = "furnace warfare slice farm defy tackle shoulder rigid cattle verify cement meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "birth scheme bread abandon subway casino sock winner knock stool trap bike";
+var mnemonic = "toilet fan grid bubble carry space paddle chaos merry soldier clean rebuild";

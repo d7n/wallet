@@ -1,1 +1,1 @@
-var mnemonic = "correct enlist use trade stool lizard wood absent body ecology plastic weapon";
+var mnemonic = "flight dumb flower scan hundred flock urge father fragile news search arm";

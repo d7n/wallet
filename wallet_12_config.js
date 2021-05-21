@@ -1,1 +1,1 @@
-var mnemonic = "cactus observe bless husband denial express explain fabric sport permit absent sock";
+var mnemonic = "prosper main flush cannon actual front sadness ride ankle spin fitness inquiry";

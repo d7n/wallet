@@ -1,1 +1,1 @@
-var mnemonic = "position journey horse keen cinnamon fiscal dilemma copy churn now alien narrow";
+var mnemonic = "icon idle city federal paddle talk result hand orange purchase length drop";

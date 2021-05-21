@@ -1,1 +1,1 @@
-var mnemonic = "used minor live transfer wisdom under window relax maximum reform horse innocent";
+var mnemonic = "review end carbon hundred gospel ship risk matter inhale describe lounge category";

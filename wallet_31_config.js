@@ -1,1 +1,1 @@
-var mnemonic = "light setup mammal situate chicken rich sunset fly teach will address lady";
+var mnemonic = "enact ecology body hard share eight close glass caught quiz hungry beyond";

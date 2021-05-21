@@ -1,1 +1,1 @@
-var mnemonic = "excess pizza lyrics undo illegal media despair slight rhythm unveil story shuffle";
+var mnemonic = "ladder enemy festival pottery yellow damage total donor sick suggest arrive antique";

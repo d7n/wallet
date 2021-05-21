@@ -1,1 +1,1 @@
-var mnemonic = "rotate cinnamon brush renew cheese jungle situate improve monkey innocent track parrot";
+var mnemonic = "they kidney topple balance oil creek twenty surface spawn arrest exist ice";

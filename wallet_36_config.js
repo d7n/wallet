@@ -1,1 +1,1 @@
-var mnemonic = "sunset topic step blur frown debris pill material wise cool rubber myth";
+var mnemonic = "pool violin explain solution attract short cry seven foster fame beauty endorse";

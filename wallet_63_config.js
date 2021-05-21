@@ -1,1 +1,1 @@
-var mnemonic = "patch mean mushroom apple furnace shove uniform miss useless smooth riot rain";
+var mnemonic = "defy concert frog ghost reform picture promote antique hamster start identify monkey";

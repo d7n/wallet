@@ -1,1 +1,1 @@
-var mnemonic = "habit just insect property smoke pulp size angry provide practice panic misery";
+var mnemonic = "relax snake sell clock blood lonely theme pioneer merry total mask steel";

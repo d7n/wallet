@@ -1,1 +1,1 @@
-var mnemonic = "saddle elegant pizza early virtual adult step lunch reason brush twenty lemon";
+var mnemonic = "admit wonder sudden spin collect vacant security august unable table diamond drift";

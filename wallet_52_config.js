@@ -1,1 +1,1 @@
-var mnemonic = "mystery stereo yellow announce exhaust salmon enough quarter trophy neck champion describe";
+var mnemonic = "bargain swap hundred scan paddle guard defy basket excite excuse federal truth";

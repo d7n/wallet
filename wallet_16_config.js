@@ -1,1 +1,1 @@
-var mnemonic = "snack gentle this subject upper desk slam wheat deer question bomb palace";
+var mnemonic = "version bridge face north expire front puzzle assist news cycle extra salon";

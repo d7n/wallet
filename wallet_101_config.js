@@ -1,1 +1,1 @@
-var mnemonic = "fetch ride display mouse tree speed midnight visual wasp company number gauge";
+var mnemonic = "plug neither replace talk game ankle smart tattoo turkey swear cry style";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle play side trumpet cram various patrol master section lava glide fame";
+var mnemonic = "gain gorilla hint aim coconut pitch stage day electric usual sense critic";

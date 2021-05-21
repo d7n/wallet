@@ -1,1 +1,1 @@
-var mnemonic = "bind gallery quick motor exclude rocket trial crime purpose soup orange collect";
+var mnemonic = "wasp trigger roast decrease cushion train bag elephant umbrella myself weird mushroom";

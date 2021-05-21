@@ -1,1 +1,1 @@
-var mnemonic = "they stereo spell play license liar bottom render grape execute snap uphold";
+var mnemonic = "embrace chuckle hedgehog abandon amazing sand vacant lady guitar major blade elite";

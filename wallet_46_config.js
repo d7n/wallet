@@ -1,1 +1,1 @@
-var mnemonic = "opinion village mixed sun stomach mention gadget depth false proof wisdom exchange";
+var mnemonic = "struggle provide potato dance noodle food toss length weather service visual entire";

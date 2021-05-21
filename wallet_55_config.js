@@ -1,1 +1,1 @@
-var mnemonic = "later hobby jealous quarter improve melt mule alien sun reduce exit clog";
+var mnemonic = "priority trade nature session soft drill winter crane high tobacco slim hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano oak solution item frozen crucial drama shy flavor door metal december";
+var mnemonic = "board clog nuclear joy nature potato shift horse cattle fragile craft trophy";

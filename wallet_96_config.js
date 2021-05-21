@@ -1,1 +1,1 @@
-var mnemonic = "pyramid online list vintage fruit scrub crack entire address number car elite";
+var mnemonic = "soap bone spread few bulk brief spatial program network prize dwarf retreat";

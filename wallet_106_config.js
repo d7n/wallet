@@ -1,1 +1,1 @@
-var mnemonic = "portion cover member soul exclude elbow bitter win merry curtain moment require";
+var mnemonic = "angle this beauty remain lonely patch shoe episode jar outer argue shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "bird hub rib injury total have wait wood engine lion peanut case";
+var mnemonic = "mail upon turkey sadness step velvet eyebrow sustain broccoli blanket extra family";

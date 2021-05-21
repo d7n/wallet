@@ -1,1 +1,1 @@
-var mnemonic = "guard regular wagon heavy east top december spoil unaware dust doctor kit";
+var mnemonic = "kitchen shrug leave observe napkin tuition rude humor three bachelor vanish grief";

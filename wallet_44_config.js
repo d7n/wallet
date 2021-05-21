@@ -1,1 +1,1 @@
-var mnemonic = "dress air curtain poem salute indoor edit target provide web right weird";
+var mnemonic = "absorb initial bless hold office jealous rival choice angle tray mechanic soda";

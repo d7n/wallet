@@ -1,1 +1,1 @@
-var mnemonic = "cheap praise blouse shy web matrix say into member job merry balance";
+var mnemonic = "wear rebel property north aisle island lion fancy busy someone lock royal";

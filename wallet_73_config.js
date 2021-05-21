@@ -1,1 +1,1 @@
-var mnemonic = "tackle manual tribe lounge fish lesson nest light fury melt bicycle carpet";
+var mnemonic = "enrich indicate lecture pet fluid predict damage skirt logic corn inner suffer";

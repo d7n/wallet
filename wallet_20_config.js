@@ -1,1 +1,1 @@
-var mnemonic = "spare attitude snake assume cool evolve agent praise another cost dish spread";
+var mnemonic = "what term luxury village method nut notice such kitten step chef praise";

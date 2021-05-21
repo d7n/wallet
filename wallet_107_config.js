@@ -1,1 +1,1 @@
-var mnemonic = "curtain almost other rigid evil couch adapt winner fire slow cage innocent";
+var mnemonic = "mother forum section aware tree collect relief bacon shock charge cave grief";

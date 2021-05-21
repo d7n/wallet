@@ -1,1 +1,1 @@
-var mnemonic = "accident winter gas season unique piano visa chef eye like web inner";
+var mnemonic = "fuel renew aspect romance change cancel drop choose father author awful joke";

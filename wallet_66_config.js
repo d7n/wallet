@@ -1,1 +1,1 @@
-var mnemonic = "differ when slow crane consider crush phrase bunker antenna laptop universe patient";
+var mnemonic = "mix ten match cause wreck ensure long number social post crack stick";

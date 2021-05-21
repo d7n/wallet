@@ -1,1 +1,1 @@
-var mnemonic = "absent supply art correct rally trophy fun impact sadness girl manual antique";
+var mnemonic = "swallow lemon flight horn enjoy burst gate goose have park grab please";

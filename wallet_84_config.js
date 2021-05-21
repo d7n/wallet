@@ -1,1 +1,1 @@
-var mnemonic = "install trend pioneer welcome arrow act noodle crater odor dinner tell predict";
+var mnemonic = "nurse tilt fruit minor duty neither recall finger mobile exclude hollow mom";

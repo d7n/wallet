@@ -1,1 +1,1 @@
-var mnemonic = "alley lecture feel uphold nerve amateur scale lawn eye earth sweet tent";
+var mnemonic = "vast cereal group erode gap peasant prison music swear smoke glow toward";

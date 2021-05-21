@@ -1,1 +1,1 @@
-var mnemonic = "rebuild size order august brown toast cancel jar hip claim area portion";
+var mnemonic = "swarm glad crucial pulp plunge spare silent upper anchor solution raccoon document";

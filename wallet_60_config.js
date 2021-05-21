@@ -1,1 +1,1 @@
-var mnemonic = "effort favorite account trick boy liar photo icon innocent peace rural squirrel";
+var mnemonic = "guess wall order control tape frog swing flame bounce similar harbor slot";

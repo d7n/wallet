@@ -1,1 +1,1 @@
-var mnemonic = "private dog bridge auto mad sort give crawl bomb nephew prevent blind";
+var mnemonic = "provide leg race ritual dignity raw pipe jewel forget industry cousin embrace";

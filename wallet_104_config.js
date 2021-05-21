@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lens more race borrow gap toddler danger awake glimpse frog warfare";
+var mnemonic = "asthma indoor cabin alter gorilla upon velvet cruel orange pave sausage donkey";

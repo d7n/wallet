@@ -1,1 +1,1 @@
-var mnemonic = "chief unable wink tiger assault shine draft drift length tube antenna siren";
+var mnemonic = "depth busy gather noise auto library scrub memory myth betray glance sound";

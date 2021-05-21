@@ -1,1 +1,1 @@
-var mnemonic = "spy whale fence vague bundle enact average hockey position sure bounce seminar";
+var mnemonic = "special swallow hello era eager direct crucial anger provide sting intact wear";

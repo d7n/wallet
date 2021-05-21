@@ -1,1 +1,1 @@
-var mnemonic = "elevator spare fox night culture clever universe swamp bubble middle bean damage";
+var mnemonic = "immense scrap print manage hub reject box web south shield civil walnut";

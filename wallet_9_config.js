@@ -1,1 +1,1 @@
-var mnemonic = "few project chaos sniff rough street lesson install slam farm paper lawsuit";
+var mnemonic = "humor great fatigue enable scout edit short drive youth bracket iron toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "tape nice grid repeat rail fame remind draft horse test worth analyst";
+var mnemonic = "kiwi tribe couch mosquito room field churn code tell again impose license";

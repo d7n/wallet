@@ -1,1 +1,1 @@
-var mnemonic = "trophy swing baby leaf demand cabin bubble digital junk crumble cruel always";
+var mnemonic = "long unveil model exist december razor inmate demand curve state mouse music";

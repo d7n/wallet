@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fold brain coral recall vivid hand eagle option amount cycle copy";
+var mnemonic = "spoil hobby pair across table cereal employ rate reform scorpion weasel burden";

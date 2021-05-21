@@ -1,1 +1,1 @@
-var mnemonic = "magic circle ecology kiss safe ill portion dismiss injury vessel safe tonight";
+var mnemonic = "cage accuse device hawk ahead mail marriage motor enter humble skill leg";

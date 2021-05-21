@@ -1,1 +1,1 @@
-var mnemonic = "reward practice laugh wife dignity dust regret grace orphan nest current grape";
+var mnemonic = "sleep access ready lounge recipe violin nose crystal frost peasant spider enrich";

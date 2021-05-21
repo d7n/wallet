@@ -1,1 +1,1 @@
-var mnemonic = "crawl always render keep neck sheriff bottom seek drink six reflect option";
+var mnemonic = "army bid across social calm foil music panther scissors limb issue buffalo";

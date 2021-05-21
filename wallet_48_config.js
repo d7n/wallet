@@ -1,1 +1,1 @@
-var mnemonic = "enlist basic dentist roof target reject sustain wave debris kid junk chicken";
+var mnemonic = "brand basic reduce pause amazing clock occur zebra surround seven dinner acquire";

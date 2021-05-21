@@ -1,1 +1,1 @@
-var mnemonic = "liquid impose unusual member beef guide attract scale salad fever ridge arch";
+var mnemonic = "chair flame save shine until magnet evil helmet patient best tissue tongue";

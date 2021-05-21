@@ -1,1 +1,1 @@
-var mnemonic = "jungle also act crater pair nation gauge suspect pair athlete luggage response";
+var mnemonic = "flower similar wild hen rocket panther tiger simple taste appear cost insane";

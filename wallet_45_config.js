@@ -1,1 +1,1 @@
-var mnemonic = "solve lemon waste true badge luggage sorry similar evil field method net";
+var mnemonic = "toe oven actress glad use fix monitor minor empty cat festival hello";

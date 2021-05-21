@@ -1,1 +1,1 @@
-var mnemonic = "bomb genre ride salon hello truck legal seminar bottom penalty awake old";
+var mnemonic = "employ artist shoot raw entire cloud morning version clump tornado chef amused";

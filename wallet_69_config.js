@@ -1,1 +1,1 @@
-var mnemonic = "spread heart summer biology churn quantum fix unit clown mimic nose evidence";
+var mnemonic = "circle annual garden begin fiction wheat ready talk limb very sick avocado";

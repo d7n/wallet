@@ -1,1 +1,1 @@
-var mnemonic = "athlete genius post lady material pond oxygen ski desert system attack wear";
+var mnemonic = "race solution arctic circle craft present identify civil distance worry quote asset";

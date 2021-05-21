@@ -1,1 +1,1 @@
-var mnemonic = "sign fish refuse network total advice leave bar beef human rice team";
+var mnemonic = "fragile direct chair bottom giggle ramp same drop render fit load label";

@@ -1,1 +1,1 @@
-var mnemonic = "include health tone business same occur cherry acoustic announce refuse person bar";
+var mnemonic = "sorry axis rapid exist smooth uphold spare skull frown one million belt";

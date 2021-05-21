@@ -1,1 +1,1 @@
-var mnemonic = "leader whisper wagon uncle glue can cotton camera enforce dawn focus decrease";
+var mnemonic = "panel champion assume hand tattoo yellow staff art leopard acquire minute endorse";

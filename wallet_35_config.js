@@ -1,1 +1,1 @@
-var mnemonic = "say hundred range melt extra spike donkey market sense sign into easily";
+var mnemonic = "night example episode artefact dirt kit team save quantum sheriff like ranch";

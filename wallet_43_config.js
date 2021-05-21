@@ -1,1 +1,1 @@
-var mnemonic = "utility trap host tragic shift plastic champion cruise question now defy cute";
+var mnemonic = "cannon permit fork shield fault slight about phrase exhibit fox access like";

@@ -1,1 +1,1 @@
-var mnemonic = "blush frown common expose economy science upper glow skirt select agree woman";
+var mnemonic = "suggest shock athlete drama endorse spell faint slogan praise fame hour tip";

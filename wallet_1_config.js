@@ -1,1 +1,1 @@
-var mnemonic = "exist flock balance silver crop coil pencil castle melt rule bulk smart";
+var mnemonic = "elevator picnic rigid modify aisle surround girl maze flower order sheriff match";

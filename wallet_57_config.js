@@ -1,1 +1,1 @@
-var mnemonic = "symbol rural profit proud club spare remind youth spell gallery alarm couch";
+var mnemonic = "test wash path worry drastic bundle deal oil analyst width control green";

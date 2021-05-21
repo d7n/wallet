@@ -1,1 +1,1 @@
-var mnemonic = "simple plate close drive supply orchard firm airport raw planet front remain";
+var mnemonic = "double master actual indoor march clay answer artefact unit stairs vague left";

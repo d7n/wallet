@@ -1,1 +1,1 @@
-var mnemonic = "trap lawn inflict beauty purpose attack settle width steel ivory angry bulb";
+var mnemonic = "catch desk injury alone cannon have cry motor rude leopard shoulder alien";

@@ -1,1 +1,1 @@
-var mnemonic = "dad pig hard student safe wink naive hawk lens gasp limit invest";
+var mnemonic = "mandate connect inner lumber slim zoo keep about faculty bomb vital cement";

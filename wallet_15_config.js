@@ -1,1 +1,1 @@
-var mnemonic = "hybrid skirt stage dad keep betray weapon diamond unfold jealous draft price";
+var mnemonic = "attitude street service wonder minor energy depend output orchard zoo absent feel";

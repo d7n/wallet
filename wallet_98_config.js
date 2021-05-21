@@ -1,1 +1,1 @@
-var mnemonic = "oxygen mother live witness food such upon prefer whale lawn arrange item";
+var mnemonic = "around case prosper sick roof follow they alarm save million drift adult";

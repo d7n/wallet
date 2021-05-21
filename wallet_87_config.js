@@ -1,1 +1,1 @@
-var mnemonic = "love bright round chronic bean bullet scare merge shoot maid crouch witness";
+var mnemonic = "armed gravity awful brain polar lottery actual allow liquid guess waste innocent";

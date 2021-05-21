@@ -1,1 +1,1 @@
-var mnemonic = "what all differ space festival there mirror magnet buffalo gorilla extra episode";
+var mnemonic = "donor web sleep vibrant sick item very music push sponsor suffer office";

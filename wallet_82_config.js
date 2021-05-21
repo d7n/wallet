@@ -1,1 +1,1 @@
-var mnemonic = "gate panda palace situate drink breeze impulse opinion melody gospel west letter";
+var mnemonic = "cloth lock frequent wisdom ribbon uphold fire smoke vanish quote steak income";

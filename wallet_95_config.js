@@ -1,1 +1,1 @@
-var mnemonic = "alone cruel pottery buffalo rebuild approve random resist soldier buffalo sorry cargo";
+var mnemonic = "fan smooth share assault citizen adapt kick decrease below tackle tank basic";

@@ -1,1 +1,1 @@
-var mnemonic = "federal merge under junk myth skin swarm stay neutral broom sugar sea";
+var mnemonic = "finger input rural master small token minute seed addict dwarf apology law";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter trend flash old seek album control feed inner news concert panel";
+var mnemonic = "guilt taxi crop ceiling town hour monster pilot shadow pride puzzle silly";

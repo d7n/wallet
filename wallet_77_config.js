@@ -1,1 +1,1 @@
-var mnemonic = "salmon poem vital ring tribe crunch coyote puppy virtual agree interest verify";
+var mnemonic = "nest ball imitate stable outdoor regret exile three dinosaur riot affair just";

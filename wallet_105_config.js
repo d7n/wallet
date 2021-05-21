@@ -1,1 +1,1 @@
-var mnemonic = "fiction can ranch sport clog mad crush term inside since cereal cable";
+var mnemonic = "ecology refuse black force embrace hood raw alter grunt frame equip tomato";

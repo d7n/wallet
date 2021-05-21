@@ -1,1 +1,1 @@
-var mnemonic = "service tourist pulse chuckle drill two mule nephew seminar cover nurse cry";
+var mnemonic = "scout clutch wrist shiver voice under dentist pupil enhance below coin biology";

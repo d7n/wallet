@@ -1,1 +1,1 @@
-var mnemonic = "arm popular service tuition evidence suffer custom sheriff horror bean slab wasp";
+var mnemonic = "fatigue chunk glove model uncle recipe patch evidence myself federal country seat";

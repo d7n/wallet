@@ -1,1 +1,1 @@
-var mnemonic = "hotel laptop ability virus used ski check equip vanish toss metal gloom";
+var mnemonic = "badge plastic year left live core pilot test recycle volcano grain chaos";

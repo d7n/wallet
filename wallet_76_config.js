@@ -1,1 +1,1 @@
-var mnemonic = "such timber genuine plate sauce column source lemon shine super swamp library";
+var mnemonic = "olympic license clock calm pill divorce worth arrange bitter square little length";

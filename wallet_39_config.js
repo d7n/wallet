@@ -1,1 +1,1 @@
-var mnemonic = "crack enemy grape deer sausage citizen parent course mechanic zoo fault prosper";
+var mnemonic = "puppy renew enforce mother alcohol knee swing setup orchard atom cloud deny";

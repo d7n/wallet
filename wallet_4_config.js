@@ -1,1 +1,1 @@
-var mnemonic = "crunch victory inside olive matter sick margin warfare hospital monster sail crack";
+var mnemonic = "unable setup collect spoil grape scan zero hope ability expect lobster curtain";

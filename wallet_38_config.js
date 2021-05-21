@@ -1,1 +1,1 @@
-var mnemonic = "excuse maximum core hundred satisfy expand drama ability book venue true rail";
+var mnemonic = "among hero orbit tray rug urban autumn cute melt airport uncle blue";

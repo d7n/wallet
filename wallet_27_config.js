@@ -1,1 +1,1 @@
-var mnemonic = "flock claw crane about sniff announce cricket pill fine portion vehicle banana";
+var mnemonic = "offer thumb wheel latin saddle expire provide hammer garbage circle wife doll";
