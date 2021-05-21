@@ -1,1 +1,1 @@
-var mnemonic = "speak timber cherry finish ostrich chalk burst online mean few become fetch";
+var mnemonic = "foot online season fat dish parrot desert stomach cloud exile admit fine";

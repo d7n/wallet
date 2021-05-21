@@ -1,1 +1,1 @@
-var mnemonic = "lawn differ blossom hat laundry front inner infant autumn bag ticket half";
+var mnemonic = "private accident barrel fit since balance large inch half practice rebel gap";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom weasel bulb assume mammal harsh awkward seminar spawn mistake join void";
+var mnemonic = "mother pulse bomb reform siren fold wear dove rain flee false deny";

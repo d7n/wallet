@@ -1,1 +1,1 @@
-var mnemonic = "chef hurdle usage finish whale more hunt shell vehicle romance predict parent";
+var mnemonic = "find gown quantum top situate rule exist exist coast drama stand shiver";

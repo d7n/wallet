@@ -1,1 +1,1 @@
-var mnemonic = "service tobacco party steak ethics old media speed turkey scale garment elevator";
+var mnemonic = "curious hand symptom favorite erosion decrease bottom bicycle nature city engage deliver";

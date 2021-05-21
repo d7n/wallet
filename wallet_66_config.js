@@ -1,1 +1,1 @@
-var mnemonic = "blue green giggle kiss execute curve jelly come together stuff barrel extend";
+var mnemonic = "can sell domain trend stay public crater silent fiscal simple side churn";

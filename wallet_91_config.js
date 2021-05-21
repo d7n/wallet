@@ -1,1 +1,1 @@
-var mnemonic = "actor artwork sunset salmon piece match kidney clean hat stem gloom lunar";
+var mnemonic = "delay obvious baby inner unique filter rate cannon outside absorb olympic grass";

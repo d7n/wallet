@@ -1,1 +1,1 @@
-var mnemonic = "west grab glory brush high organ provide carry evidence suit cushion small";
+var mnemonic = "second strike napkin relax tourist clarify climb harbor fox audit weapon tornado";

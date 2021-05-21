@@ -1,1 +1,1 @@
-var mnemonic = "struggle tunnel lazy release spatial crash rigid winner broom flush fox radio";
+var mnemonic = "soccer receive city wolf bubble spoon local supply plastic saddle unable egg";

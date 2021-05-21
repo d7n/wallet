@@ -1,1 +1,1 @@
-var mnemonic = "fun buzz benefit early dumb cause peanut outside sketch blush jelly warrior";
+var mnemonic = "snack illegal debris prosper lab chimney gesture please clerk wise pulp nose";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty rice strike tobacco answer island enjoy sad arrange priority cat october";
+var mnemonic = "annual place mad wall lyrics beef dutch industry tag save twist primary";

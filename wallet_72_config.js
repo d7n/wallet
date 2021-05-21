@@ -1,1 +1,1 @@
-var mnemonic = "regret private alien cram soon pond obtain walnut wall spread burden they";
+var mnemonic = "neck excess culture dawn elegant sketch galaxy fury chronic before crew exit";

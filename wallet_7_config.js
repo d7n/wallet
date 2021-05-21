@@ -1,1 +1,1 @@
-var mnemonic = "favorite grief rocket job danger acid image barely squirrel quote program industry";
+var mnemonic = "same perfect suspect hidden stay flat ignore math jewel sister coach onion";

@@ -1,1 +1,1 @@
-var mnemonic = "include clown since verb enact rib cigar olive hawk kitchen team talent";
+var mnemonic = "gloom burger miracle agree thumb again atom caught solar trash trap culture";

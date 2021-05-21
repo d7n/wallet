@@ -1,1 +1,1 @@
-var mnemonic = "helmet coast boil volume seed emerge song close inherit license person cannon";
+var mnemonic = "elephant table alcohol involve elite salmon tray capital brave strong swear future";

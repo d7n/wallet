@@ -1,1 +1,1 @@
-var mnemonic = "volcano zero proud finger under garden grass crowd document degree patch yard";
+var mnemonic = "faith radar grow wink wing sick square enough nice scare loan distance";

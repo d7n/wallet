@@ -1,1 +1,1 @@
-var mnemonic = "laptop produce basket amazing into fluid margin letter runway shed twenty armor";
+var mnemonic = "light bunker afraid whisper surprise void time fiscal axis tongue local buyer";

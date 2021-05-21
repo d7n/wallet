@@ -1,1 +1,1 @@
-var mnemonic = "gentle truly junk fossil harvest salon fault aim upset quality nasty defense";
+var mnemonic = "smile attitude vote tongue bicycle scale virus traffic uncle oppose merge column";

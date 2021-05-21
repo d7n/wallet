@@ -1,1 +1,1 @@
-var mnemonic = "people empty luggage mad margin boring defy auction collect wait gorilla universe";
+var mnemonic = "emotion retire cinnamon blossom radar melody jazz quit note recall move affair";

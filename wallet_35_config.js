@@ -1,1 +1,1 @@
-var mnemonic = "cycle deposit style vehicle advance blame subject dinner citizen zoo bench child";
+var mnemonic = "aim account claim tray feel absurd then power abuse goat situate kick";

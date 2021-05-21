@@ -1,1 +1,1 @@
-var mnemonic = "swarm portion lunar behind math legal smile rib clap maze thunder fog";
+var mnemonic = "glad comfort share tribe brown prefer can history buffalo coil happy intact";

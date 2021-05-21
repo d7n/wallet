@@ -1,1 +1,1 @@
-var mnemonic = "tilt abstract grit season tree must squirrel excuse basket snack habit rain";
+var mnemonic = "huge front hope abandon hungry blush pretty brand exit page practice six";

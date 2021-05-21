@@ -1,1 +1,1 @@
-var mnemonic = "report simple embark language focus pulp crane forum illegal excess quarter trip";
+var mnemonic = "ozone sunset phone earn cabbage plastic trip sword sock current motion witness";

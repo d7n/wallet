@@ -1,1 +1,1 @@
-var mnemonic = "bind ski fresh unveil fork daring chronic warrior blade energy biology glimpse";
+var mnemonic = "rookie shield vague warfare blame portion insane drill tape cloth joy deer";

@@ -1,1 +1,1 @@
-var mnemonic = "library broccoli wall powder slide drastic siren walk water ask pact damp";
+var mnemonic = "iron wish list bargain trade scare air direct brand vicious unlock dash";

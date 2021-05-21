@@ -1,1 +1,1 @@
-var mnemonic = "physical fringe eagle license absorb beef clarify turkey odor chest endless habit";
+var mnemonic = "north coast illness throw flock palace medal pulp rigid utility curve submit";

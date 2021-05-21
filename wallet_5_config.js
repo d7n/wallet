@@ -1,1 +1,1 @@
-var mnemonic = "raise muffin skin ginger list fiber delay stove shine spatial parrot chest";
+var mnemonic = "summer space around picnic panther monitor repair poet shift danger artist method";

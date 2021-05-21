@@ -1,1 +1,1 @@
-var mnemonic = "lend mansion subway aunt height cost meat hen mixed seven snow spoil";
+var mnemonic = "shrug priority pretty lift unaware goose dismiss staff ivory cost steel weather";

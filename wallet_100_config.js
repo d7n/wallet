@@ -1,1 +1,1 @@
-var mnemonic = "fire female nominee pole pen artist paper patrol visual anchor stick increase";
+var mnemonic = "pioneer air muffin luggage action noble pulp gorilla regret fiction glare dust";

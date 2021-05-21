@@ -1,1 +1,1 @@
-var mnemonic = "soda erode toast seed bring song frozen fat initial decrease badge practice";
+var mnemonic = "quality dwarf live nominee fiction elephant salon consider error original glue merit";

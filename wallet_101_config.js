@@ -1,1 +1,1 @@
-var mnemonic = "coach physical false leisure treat glove ankle keep drift blanket picture extra";
+var mnemonic = "hair file fever decade grit step ozone jeans term bless day cycle";

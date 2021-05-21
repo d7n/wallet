@@ -1,1 +1,1 @@
-var mnemonic = "potato mass evil cancel velvet satisfy build junk logic skate keep visa";
+var mnemonic = "timber potato wasp vacant deliver limit wire excuse slight weird sketch check";

@@ -1,1 +1,1 @@
-var mnemonic = "viable occur box enough elegant siren large eagle vague valley erase oak";
+var mnemonic = "ankle fit faculty pretty modify guilt click tiger junior aspect afford utility";

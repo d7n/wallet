@@ -1,1 +1,1 @@
-var mnemonic = "bless ecology exhibit lava lamp predict tomorrow lawn there boost list bomb";
+var mnemonic = "dial include prepare muscle trial hobby rival silly cream edit seminar laptop";

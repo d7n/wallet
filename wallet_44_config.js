@@ -1,1 +1,1 @@
-var mnemonic = "hurt jeans outdoor shield release focus radar unlock hip eagle deal pudding";
+var mnemonic = "artefact shed prize term nasty slight try palace erosion between funny slam";

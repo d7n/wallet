@@ -1,1 +1,1 @@
-var mnemonic = "refuse essence monitor nominee park mountain dove number trick rate nephew much";
+var mnemonic = "able jelly debate message swallow over fiscal occur quantum increase stand wagon";

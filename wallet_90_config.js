@@ -1,1 +1,1 @@
-var mnemonic = "worry artefact bleak evil excite crash vital shock sweet chat stem laugh";
+var mnemonic = "rely urban inmate umbrella nice chair super slogan detect faculty large quit";

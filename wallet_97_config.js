@@ -1,1 +1,1 @@
-var mnemonic = "ramp noise hint cash brush meadow raven team stool couch radio just";
+var mnemonic = "accuse cousin equal since retreat morning present tree venture joke prison tired";

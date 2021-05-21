@@ -1,1 +1,1 @@
-var mnemonic = "figure adjust soldier tent where guitar poet twelve text exhaust fence cream";
+var mnemonic = "wild method alley home butter tree light once volume wear divert escape";

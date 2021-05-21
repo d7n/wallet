@@ -1,1 +1,1 @@
-var mnemonic = "verify grow black album giggle front indoor random key oxygen fatal idle";
+var mnemonic = "select pluck basic shoe pupil duty into between boil cream few veteran";

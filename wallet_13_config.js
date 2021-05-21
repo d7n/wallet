@@ -1,1 +1,1 @@
-var mnemonic = "glory cover demand core eagle already taxi gospel limb bus emerge assume";
+var mnemonic = "cement online broccoli during prepare dolphin huge apart village auction swamp banana";

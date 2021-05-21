@@ -1,1 +1,1 @@
-var mnemonic = "exit promote retreat float toast diary subject zoo say minor avocado album";
+var mnemonic = "motor lonely tired recall excuse bundle palace lock clump violin flower step";

@@ -1,1 +1,1 @@
-var mnemonic = "theme surround fatigue tissue squirrel piano hair stone leader release lock cup";
+var mnemonic = "miracle shoulder supreme crime kick lesson open jaguar begin any body curious";

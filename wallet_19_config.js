@@ -1,1 +1,1 @@
-var mnemonic = "auto wolf spy foster cotton treat crater toast ordinary female gown car";
+var mnemonic = "advance case dust boil outside save debate dress robust fee current among";

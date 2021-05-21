@@ -1,1 +1,1 @@
-var mnemonic = "high alcohol civil digital recall metal exile stone jeans patient try fiber";
+var mnemonic = "weapon addict avocado journey dust clinic effort search push list process tone";

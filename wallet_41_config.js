@@ -1,1 +1,1 @@
-var mnemonic = "giggle illegal peace primary table shrimp enforce protect quote eternal chef card";
+var mnemonic = "settle hire nut tower face bus extend cube raven wool nerve high";

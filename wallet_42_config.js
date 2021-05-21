@@ -1,1 +1,1 @@
-var mnemonic = "muffin isolate aware remain pen conduct flower denial coach fiber market ginger";
+var mnemonic = "useful feed interest casino popular dinosaur picture fan infant entire keep novel";

@@ -1,1 +1,1 @@
-var mnemonic = "wage mail office argue tackle cherry april pattern exhaust aisle deposit noodle";
+var mnemonic = "client glove expire balcony denial soup leave level employ awkward cart pupil";

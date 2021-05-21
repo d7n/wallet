@@ -1,1 +1,1 @@
-var mnemonic = "mask miss ketchup way float rocket input drum square system frown cruise";
+var mnemonic = "client invest capital enroll average chair path leopard safe clay catalog drink";

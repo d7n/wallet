@@ -1,1 +1,1 @@
-var mnemonic = "please usual arena later install dizzy confirm empower shallow follow gather jar";
+var mnemonic = "tiny section knock hand above addict lazy artefact actor unveil badge oven";

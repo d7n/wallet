@@ -1,1 +1,1 @@
-var mnemonic = "exhaust correct sentence ladder you below lunar front subway volume warrior adult";
+var mnemonic = "toast fever rookie lock label lemon sleep tuna quarter exercise bachelor business";

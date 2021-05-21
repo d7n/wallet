@@ -1,1 +1,1 @@
-var mnemonic = "adult appear skirt great start scheme fame sure inquiry book yellow tape";
+var mnemonic = "metal dentist trash inmate chunk extend donor pistol mansion curve mail ability";

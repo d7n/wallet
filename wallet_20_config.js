@@ -1,1 +1,1 @@
-var mnemonic = "quit yard genre birth rebuild mercy normal glimpse expose moment crazy famous";
+var mnemonic = "expect eight tunnel scatter angry drastic cruise vacuum history raven oval stable";

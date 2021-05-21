@@ -1,1 +1,1 @@
-var mnemonic = "fame know bomb inhale approve reflect hair process armor undo business settle";
+var mnemonic = "warm carry hotel orchard stock remember carry will case brand join pattern";

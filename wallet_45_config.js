@@ -1,1 +1,1 @@
-var mnemonic = "salon change order sponsor barrel resist bone melt orchard else sight home";
+var mnemonic = "violin figure gesture hen depth ethics edge buyer october soft round chicken";

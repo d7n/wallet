@@ -1,1 +1,1 @@
-var mnemonic = "toy taste click clap doctor ketchup crystal pool vast require property kangaroo";
+var mnemonic = "news word husband duty logic sail upset cost gravity peace satoshi maze";

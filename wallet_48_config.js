@@ -1,1 +1,1 @@
-var mnemonic = "myself amateur sauce cradle paddle sauce attract yellow discover beyond field battle";
+var mnemonic = "swallow miss audit equal cheap safe cabin estate lazy more enable produce";

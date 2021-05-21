@@ -1,1 +1,1 @@
-var mnemonic = "kit fine donor rate noise talent cat office dumb exotic lend spoon";
+var mnemonic = "agent two project tenant myself demand demand cash document consider acid expose";

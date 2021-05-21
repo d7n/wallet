@@ -1,1 +1,1 @@
-var mnemonic = "mixture swear twist glimpse primary away labor seek legend kidney flee duck";
+var mnemonic = "gallery soda tumble bus mosquito inherit sample better unhappy humor torch mimic";

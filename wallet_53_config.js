@@ -1,1 +1,1 @@
-var mnemonic = "potato laugh exist hello senior lawsuit exclude wing casino rail measure same";
+var mnemonic = "lucky honey duck gift door series brief rebuild try sock left ankle";

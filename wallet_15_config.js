@@ -1,1 +1,1 @@
-var mnemonic = "display fitness guide anxiety economy manual observe stage menu solve analyst major";
+var mnemonic = "pact banner various kangaroo bring denial major squeeze bus much guitar innocent";

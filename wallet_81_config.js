@@ -1,1 +1,1 @@
-var mnemonic = "security spell trumpet outer enemy similar swing lawn copy vital moral what";
+var mnemonic = "tell trash surface evolve lazy skirt club display pool frog circle minor";

@@ -1,1 +1,1 @@
-var mnemonic = "label dignity guitar disagree jewel together rescue staff glare poverty blue build";
+var mnemonic = "print rack october tape you silly shrimp ugly crumble suffer awkward paper";

@@ -1,1 +1,1 @@
-var mnemonic = "west latin bench cake broken song clean decline trim hundred weather lottery";
+var mnemonic = "echo glass junk annual film intact kiwi power angle learn floor net";

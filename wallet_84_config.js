@@ -1,1 +1,1 @@
-var mnemonic = "settle oppose pool pottery ecology silent draft giggle surround bone power spy";
+var mnemonic = "guilt fee adapt solve spoil clap eagle nest math kit satisfy thought";

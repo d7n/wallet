@@ -1,1 +1,1 @@
-var mnemonic = "expire speak search devote bid eternal poet cash walnut coin gadget endless";
+var mnemonic = "kiwi dignity you noodle river faculty desert chest vote draft cannon pull";

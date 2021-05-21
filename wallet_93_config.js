@@ -1,1 +1,1 @@
-var mnemonic = "coach arena sort olympic great north artist army solution tooth wait tribe";
+var mnemonic = "service now kingdom build catalog found trigger forget phrase crowd dice dance";

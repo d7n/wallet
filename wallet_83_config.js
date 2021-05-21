@@ -1,1 +1,1 @@
-var mnemonic = "hawk stumble outside beauty grow clock beach offer wink indoor letter hybrid";
+var mnemonic = "gossip design left stadium onion soccer impose urban empty stock panther dizzy";

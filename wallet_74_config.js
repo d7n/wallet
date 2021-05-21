@@ -1,1 +1,1 @@
-var mnemonic = "anger poverty below void sponsor aerobic mother same spoil absent online stand";
+var mnemonic = "bike invest estate nominee cheap because local pupil split salon tooth garlic";

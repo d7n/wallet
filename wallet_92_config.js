@@ -1,1 +1,1 @@
-var mnemonic = "degree scout violin potato come letter crane animal six advance feature mother";
+var mnemonic = "urban shoot jealous toilet risk label improve pet screen judge pen acoustic";

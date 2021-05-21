@@ -1,1 +1,1 @@
-var mnemonic = "lift accident crush recycle mass custom gloom stone reopen eagle chest also";
+var mnemonic = "adapt diamond title congress prosper someone alarm day inhale fine smooth shine";

@@ -1,1 +1,1 @@
-var mnemonic = "camp good busy combine wise upper mimic witness web door finger clinic";
+var mnemonic = "business bring they coffee open impulse uncover lady relax height around cloud";

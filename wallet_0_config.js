@@ -1,1 +1,1 @@
-var mnemonic = "glow rose multiply edit equal detail mutual toe siege appear grid artist";
+var mnemonic = "artwork shove emerge congress above field scatter panic replace old stock bachelor";

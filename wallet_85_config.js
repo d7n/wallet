@@ -1,1 +1,1 @@
-var mnemonic = "rotate minimum intact engage behave pulp tag green toilet typical crush quantum";
+var mnemonic = "engine mimic raccoon achieve mercy fun call outside harvest peanut modify digital";

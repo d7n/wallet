@@ -1,1 +1,1 @@
-var mnemonic = "online invite tiny walk pulp stomach surge panda example paddle rug clog";
+var mnemonic = "betray snow surprise bid cousin mercy velvet army level leaf cream roof";

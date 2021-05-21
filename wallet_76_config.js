@@ -1,1 +1,1 @@
-var mnemonic = "margin blanket thing fruit oval west hungry reopen abstract dose relax shell";
+var mnemonic = "atom access fringe object adult leopard wrap script amateur never harsh depth";

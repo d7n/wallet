@@ -1,1 +1,1 @@
-var mnemonic = "baby crunch camp honey insane actor voice crisp dignity feed gold spring";
+var mnemonic = "ankle avoid raw way abstract ill lady guard clump height amount tiger";

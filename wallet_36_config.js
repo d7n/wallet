@@ -1,1 +1,1 @@
-var mnemonic = "slam illness pulp rural unveil blush panic brain valve yellow staff lazy";
+var mnemonic = "vendor sorry way put exhibit muffin knock open split grain bind confirm";

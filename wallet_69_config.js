@@ -1,1 +1,1 @@
-var mnemonic = "scan wood solar angle kick client ready junk unusual board attitude merry";
+var mnemonic = "obtain doctor derive slab grit kingdom dismiss inside mule gasp shuffle release";

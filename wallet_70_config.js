@@ -1,1 +1,1 @@
-var mnemonic = "cactus era win blouse critic habit sound cancel orphan risk garden buffalo";
+var mnemonic = "evolve fish access garment cry thing mixed uncover ill tuition second scatter";

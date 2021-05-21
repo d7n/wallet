@@ -1,1 +1,1 @@
-var mnemonic = "illness chicken disorder story coral vintage session rotate tip face draft unknown";
+var mnemonic = "tobacco spin give sorry response author bottom raise tackle left demise dismiss";

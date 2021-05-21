@@ -1,1 +1,1 @@
-var mnemonic = "spare inject impulse try jelly ecology trouble country answer hip ramp harbor";
+var mnemonic = "ozone broom exact vivid hen stereo okay turtle sunset baby enforce sure";

@@ -1,1 +1,1 @@
-var mnemonic = "crop auction arrow build pig dirt debris upset topple update betray surge";
+var mnemonic = "simple bike lamp glad drive again when loud light crime current garbage";

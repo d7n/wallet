@@ -1,1 +1,1 @@
-var mnemonic = "glory ritual drop beach spoon shock limit pave donate crush board donor";
+var mnemonic = "scare what case floor call video stove future grass wheel sad sadness";

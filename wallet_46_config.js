@@ -1,1 +1,1 @@
-var mnemonic = "cricket mandate this tennis insect tone basic exhibit error rough record tip";
+var mnemonic = "legend ripple tool oil goat mask nest cup autumn measure rough radar";

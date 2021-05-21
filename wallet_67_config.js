@@ -1,1 +1,1 @@
-var mnemonic = "peasant tribe jazz surround before alley wet harsh basic similar protect actual";
+var mnemonic = "language now olive man clap jump public hope wife essence angle circle";

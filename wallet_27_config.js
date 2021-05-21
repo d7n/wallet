@@ -1,1 +1,1 @@
-var mnemonic = "reason kangaroo sponsor torch over organ bind camp focus cliff diamond raw";
+var mnemonic = "inch surround setup predict small addict unveil project december artefact dynamic wing";

@@ -1,1 +1,1 @@
-var mnemonic = "escape twist salt attitude copper joy leg axis october swing limb wait";
+var mnemonic = "humor delay crater stamp extend chase domain fame mandate wedding into bring";

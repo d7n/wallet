@@ -1,1 +1,1 @@
-var mnemonic = "economy achieve key attract armor bacon firm team clown body solution amused";
+var mnemonic = "receive space area wear prevent predict snake squeeze cradle talk like divert";

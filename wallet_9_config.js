@@ -1,1 +1,1 @@
-var mnemonic = "mystery scout enact wet permit vault parade scan flight cash toward corn";
+var mnemonic = "entry hold age inhale control prison genre royal lion usual weather canoe";

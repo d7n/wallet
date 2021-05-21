@@ -1,1 +1,1 @@
-var mnemonic = "digital defense faith car injury tongue river mom fish math sword index";
+var mnemonic = "fancy result thought property material eye foot brother arch expose drop prefer";

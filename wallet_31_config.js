@@ -1,1 +1,1 @@
-var mnemonic = "country clap beef shine involve couch industry belt route armed away off";
+var mnemonic = "sheriff picture usage daring general super when front staff gasp defy hole";

@@ -1,1 +1,1 @@
-var mnemonic = "bus grain census party garment loan animal squirrel clown morning mind switch";
+var mnemonic = "amateur used agree approve gospel advice improve risk below earth notice shy";

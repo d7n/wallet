@@ -1,1 +1,1 @@
-var mnemonic = "bacon vague critic wire rose cement vast fringe forward hurry plate voyage";
+var mnemonic = "dream flight tomorrow auction bar remember often mixed can mind era couch";
