@@ -1,1 +1,1 @@
-var mnemonic = "awake volcano genius junior put stage nurse mirror soup fame return live";
+var mnemonic = "column spy art seed label dizzy marriage fringe fever core breeze mother";

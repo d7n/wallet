@@ -1,1 +1,1 @@
-var mnemonic = "switch brave apart discover hat equal meat bubble base view betray mansion";
+var mnemonic = "army minimum remove toddler wrap talk axis eternal elevator bomb draft stereo";

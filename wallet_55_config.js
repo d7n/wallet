@@ -1,1 +1,1 @@
-var mnemonic = "night frost oyster thrive own lunch fiction scale actress noodle victory cigar";
+var mnemonic = "test vehicle grain rack verb luggage door calm copy sauce spell scare";

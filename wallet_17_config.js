@@ -1,1 +1,1 @@
-var mnemonic = "pelican candy consider lucky alcohol rate final sugar inspire refuse provide eye";
+var mnemonic = "power abuse phrase jaguar wedding strong hurry noodle during describe people start";

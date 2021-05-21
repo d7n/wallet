@@ -1,1 +1,1 @@
-var mnemonic = "over witness ranch ridge primary wink hazard polar beef remember spy about";
+var mnemonic = "pledge educate describe element sell increase wide lens trim novel coach seek";

@@ -1,1 +1,1 @@
-var mnemonic = "permit toss dignity helmet fashion inspire interest vapor hidden cube metal exit";
+var mnemonic = "enhance phrase fossil foil mouse ivory prison timber ancient march apple measure";

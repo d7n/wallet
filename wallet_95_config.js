@@ -1,1 +1,1 @@
-var mnemonic = "borrow nation bread pole whisper friend horse sight travel joy student pupil";
+var mnemonic = "cattle ski post balance true pen blood sentence envelope picture elbow ladder";

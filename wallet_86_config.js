@@ -1,1 +1,1 @@
-var mnemonic = "sample brand outside blood cricket burger hello frog liquid marine typical lucky";
+var mnemonic = "ketchup desk staff spread sadness door skull orphan lunar opinion brown alpha";

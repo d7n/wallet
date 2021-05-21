@@ -1,1 +1,1 @@
-var mnemonic = "brand wood hill motion mimic wrist loop eyebrow just maid remember happy";
+var mnemonic = "track dune define machine bracket jungle force celery room abandon impact awful";

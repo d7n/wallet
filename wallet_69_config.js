@@ -1,1 +1,1 @@
-var mnemonic = "mobile tail pen scale vacant author ivory action method token joy song";
+var mnemonic = "buzz pledge maximum member remain virtual awful brush evil umbrella express uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "vault grain now coyote girl picnic north congress chase spike walnut exclude";
+var mnemonic = "feed fever boat awake light travel find faith sheriff require flip fault";

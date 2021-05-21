@@ -1,1 +1,1 @@
-var mnemonic = "ski gown message skate split annual leg sweet speak pottery bulk horror";
+var mnemonic = "fragile narrow salt describe exist logic pave private shaft deal mushroom left";

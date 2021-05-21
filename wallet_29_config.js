@@ -1,1 +1,1 @@
-var mnemonic = "require door method whisper profit genius crisp rice forward steel stumble loan";
+var mnemonic = "borrow bitter throw tent lunch charge dune cousin gospel border sister miracle";

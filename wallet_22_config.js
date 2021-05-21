@@ -1,1 +1,1 @@
-var mnemonic = "used sugar vault milk half brand inquiry trust divide poverty kitten hour";
+var mnemonic = "oxygen extend crush elegant illegal journey sad tackle follow puzzle pistol elevator";

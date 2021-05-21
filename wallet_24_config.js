@@ -1,1 +1,1 @@
-var mnemonic = "omit laptop mercy shallow bean leopard escape grain ocean goat elephant pistol";
+var mnemonic = "rain clip still skate seminar demand priority leave knee surface connect poem";

@@ -1,1 +1,1 @@
-var mnemonic = "boil predict attend tornado carry gym basket rabbit screen wrong wreck soft";
+var mnemonic = "gown slam rice random click image urban kind mercy small own flip";

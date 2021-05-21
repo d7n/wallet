@@ -1,1 +1,1 @@
-var mnemonic = "diary garbage speak try finish renew leader secret hedgehog creek game shock";
+var mnemonic = "brand say current salmon rhythm credit ripple bean trend math label segment";

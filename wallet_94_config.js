@@ -1,1 +1,1 @@
-var mnemonic = "leopard main cinnamon elegant gasp beyond alley whip language tornado film exact";
+var mnemonic = "chaos license tornado exotic swap radar safe wing awake success lend museum";

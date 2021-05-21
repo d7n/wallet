@@ -1,1 +1,1 @@
-var mnemonic = "drill heart outside name snap thing brave gain pear laundry dash motion";
+var mnemonic = "diagram surface wall mountain denial inquiry useless better useful outside coach under";

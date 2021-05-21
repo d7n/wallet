@@ -1,1 +1,1 @@
-var mnemonic = "nerve old team refuse garlic much peanut curve lecture reflect icon clog";
+var mnemonic = "indoor quality dilemma lawn pioneer giant replace thought exile trophy demand coffee";

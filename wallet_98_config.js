@@ -1,1 +1,1 @@
-var mnemonic = "seat session cotton satoshi because light chest salad wet script time evoke";
+var mnemonic = "clean pigeon recipe force soul alter frown tenant giggle front cause wire";

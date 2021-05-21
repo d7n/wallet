@@ -1,1 +1,1 @@
-var mnemonic = "feed unaware bronze trade adjust draft bean library voice grace mutual winner";
+var mnemonic = "pyramid milk fox real vault stuff odor ten dish pizza please agree";

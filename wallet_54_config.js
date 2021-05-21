@@ -1,1 +1,1 @@
-var mnemonic = "sibling inch blue type slow heart phrase edge lady layer lawn elbow";
+var mnemonic = "title artefact absent dawn point simple before then diamond vault gloom sauce";

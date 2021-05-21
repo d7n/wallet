@@ -1,1 +1,1 @@
-var mnemonic = "critic torch turkey sorry goddess winter execute senior brown tree tuna book";
+var mnemonic = "material captain breeze crystal recipe element chunk demand bar fancy when phrase";

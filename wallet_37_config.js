@@ -1,1 +1,1 @@
-var mnemonic = "fortune elder flavor shallow sword beef soup time alpha large guitar anchor";
+var mnemonic = "property arrange mercy hungry order apology legend gather apology travel junk student";

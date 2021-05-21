@@ -1,1 +1,1 @@
-var mnemonic = "scene awake admit solution pear pepper behave roof kiwi twice fork curtain";
+var mnemonic = "combine pride range breeze cotton release travel lake arrow measure protect bronze";

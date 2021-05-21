@@ -1,1 +1,1 @@
-var mnemonic = "vanish item proof bundle involve fitness indicate rhythm cake monitor label farm";
+var mnemonic = "neither trumpet place pigeon payment version panda horn find fix unusual blanket";

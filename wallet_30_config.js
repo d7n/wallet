@@ -1,1 +1,1 @@
-var mnemonic = "hamster hover kiwi hundred depend mix city goose fiscal smile eyebrow calm";
+var mnemonic = "retire smile margin immune cereal inquiry mistake second barely obtain state buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "sea deposit virus submit bus edge fault hint hidden impulse annual minimum";
+var mnemonic = "great swamp rug found shift ripple sport jump illegal pluck caution join";

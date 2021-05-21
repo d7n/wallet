@@ -1,1 +1,1 @@
-var mnemonic = "network century permit alone silent cactus normal marine network toss winner write";
+var mnemonic = "father major cup screen elephant smile forest wagon shrimp protect arch gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "steel credit tourist skill tip satoshi fly soul cat emotion brush hello";
+var mnemonic = "busy kind journey victory vague genius push water kind reward daughter bar";

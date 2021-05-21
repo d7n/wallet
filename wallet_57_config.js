@@ -1,1 +1,1 @@
-var mnemonic = "news glance glow enrich gauge federal warm wheat idle awful same hero";
+var mnemonic = "enable banana fiscal hobby ecology laptop tower globe mix park treat bunker";

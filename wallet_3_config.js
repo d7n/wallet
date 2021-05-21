@@ -1,1 +1,1 @@
-var mnemonic = "liquid strategy snake actress clarify wish couch dust load wrong hollow admit";
+var mnemonic = "must blue leopard layer glass episode tank denial expect garden habit palm";

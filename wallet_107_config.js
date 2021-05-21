@@ -1,1 +1,1 @@
-var mnemonic = "change alpha clog quarter enforce mouse spawn real surface happy critic buyer";
+var mnemonic = "nest run elder this cruel panda book vintage suit hat guess ski";

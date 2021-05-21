@@ -1,1 +1,1 @@
-var mnemonic = "consider divide play zero mercy muscle language arrest force auto tape hair";
+var mnemonic = "patient since task alpha pull brave turtle believe caution tail ketchup dad";

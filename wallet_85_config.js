@@ -1,1 +1,1 @@
-var mnemonic = "require stadium attract cupboard deal absent weather renew object ridge outer east";
+var mnemonic = "scene debris wedding fox now loud quality around economy cave oblige wisdom";

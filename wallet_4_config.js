@@ -1,1 +1,1 @@
-var mnemonic = "trouble click visual battle apart runway inside ocean version canvas divorce mansion";
+var mnemonic = "hundred gun dose romance maple various beauty hole stamp reform live twelve";

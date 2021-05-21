@@ -1,1 +1,1 @@
-var mnemonic = "dynamic degree cliff pair street know math horn pioneer armor accuse ticket";
+var mnemonic = "absurd much shell pear interest trade invite unaware race expand boss summer";

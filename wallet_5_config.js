@@ -1,1 +1,1 @@
-var mnemonic = "claim dilemma attack tray record tell card lady volcano safe skin capable";
+var mnemonic = "artist village category verb oil test dismiss detect upgrade hill boil forward";

@@ -1,1 +1,1 @@
-var mnemonic = "push spend pledge wheel ranch fragile lonely still machine witness canal purse";
+var mnemonic = "wink course theory balance thumb grunt city viable boost romance cave beyond";

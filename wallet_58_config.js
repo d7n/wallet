@@ -1,1 +1,1 @@
-var mnemonic = "can essay matter royal crazy focus human aunt memory wrap truth muscle";
+var mnemonic = "flush option strike knife gate oval neglect devote injury news shove shoe";

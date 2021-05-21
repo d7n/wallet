@@ -1,1 +1,1 @@
-var mnemonic = "marriage only rose gravity orchard sweet swim hole stamp toilet coast tumble";
+var mnemonic = "panic annual rebel type deer negative achieve cotton industry direct party lend";

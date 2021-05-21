@@ -1,1 +1,1 @@
-var mnemonic = "put express retire like purpose hamster blanket check celery salt staff spend";
+var mnemonic = "moral teach typical best enable keen enforce second orbit phone avoid extra";

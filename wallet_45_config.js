@@ -1,1 +1,1 @@
-var mnemonic = "wood actor print bone divorce please brother tiger price sick drift fever";
+var mnemonic = "speak shallow steel owner young real tourist glue scatter crime hood reunion";

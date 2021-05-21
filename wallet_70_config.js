@@ -1,1 +1,1 @@
-var mnemonic = "desk paper oyster arctic rival clown shock fashion rib adjust struggle vague";
+var mnemonic = "carpet air salute ivory fever kid final finish egg solve desk alcohol";

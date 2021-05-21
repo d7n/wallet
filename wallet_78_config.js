@@ -1,1 +1,1 @@
-var mnemonic = "cool season ritual patrol valley loop salute crush rifle fiction slot vicious";
+var mnemonic = "fiscal enable six slide benefit melt wild immense drastic spray wrestle marble";

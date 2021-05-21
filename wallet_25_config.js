@@ -1,1 +1,1 @@
-var mnemonic = "absent have crew vibrant page bounce quality together actual creek thunder bubble";
+var mnemonic = "foot equal gentle butter album kit steak bomb elevator cart strategy movie";

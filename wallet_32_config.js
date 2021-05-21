@@ -1,1 +1,1 @@
-var mnemonic = "hospital sunny nest trophy project knife choose believe solid rate lyrics verify";
+var mnemonic = "width inspire tragic either milk snap train grab proud vast note floor";

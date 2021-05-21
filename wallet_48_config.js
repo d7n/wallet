@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow million topic puzzle then absurd paddle mirror exist hamster race ensure";
+var mnemonic = "elite remind naive lawn toast banner tattoo always cabin grass oblige donate";

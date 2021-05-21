@@ -1,1 +1,1 @@
-var mnemonic = "effort early reject circle limb mechanic feature mouse relief pluck run champion";
+var mnemonic = "frown sure wait shoulder fresh banana hotel help stand fit merit try";

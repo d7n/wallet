@@ -1,1 +1,1 @@
-var mnemonic = "jacket pencil vast expose coil power clog lobster weasel vote pen success";
+var mnemonic = "jelly army venture office patrol hope accuse width urban educate tilt risk";

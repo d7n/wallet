@@ -1,1 +1,1 @@
-var mnemonic = "draft armor hedgehog bag oven tissue benefit panther axis expand float super";
+var mnemonic = "benefit ship trophy problem milk cancel track mention secret error guide phone";

@@ -1,1 +1,1 @@
-var mnemonic = "stand identify nut excuse bleak select animal sauce maple detect vessel february";
+var mnemonic = "young lonely build burden lawsuit orbit quit replace check initial club sport";

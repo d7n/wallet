@@ -1,1 +1,1 @@
-var mnemonic = "design chuckle together salmon believe swim aspect point fox cloud ketchup swear";
+var mnemonic = "proof inject flower around access kick round hybrid oppose eternal language episode";

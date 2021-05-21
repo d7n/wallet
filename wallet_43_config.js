@@ -1,1 +1,1 @@
-var mnemonic = "collect about mountain flavor average wire cloud jar evoke wall world leader";
+var mnemonic = "control stool merit wing ugly example method mobile cannon oxygen vague shaft";

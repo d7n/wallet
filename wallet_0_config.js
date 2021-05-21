@@ -1,1 +1,1 @@
-var mnemonic = "bread suit certain manage seminar pipe desk valve fury target warm liquid";
+var mnemonic = "judge great throw also turkey runway language mesh income panic orchard budget";

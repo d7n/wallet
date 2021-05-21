@@ -1,1 +1,1 @@
-var mnemonic = "news alley rocket stadium rhythm entry exhibit genuine route say badge glance";
+var mnemonic = "sheriff push shiver invest oyster drip require labor pony move habit tell";

@@ -1,1 +1,1 @@
-var mnemonic = "fine genius lobster timber train hurt gloom genuine amused isolate step recall";
+var mnemonic = "thunder mercy embody ceiling senior soccer bus visual hybrid fitness flight correct";

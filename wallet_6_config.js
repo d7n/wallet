@@ -1,1 +1,1 @@
-var mnemonic = "enlist banana pride rent coin all wood debate vivid carpet sad tongue";
+var mnemonic = "relief deny lazy glue mouse inspire wisdom legend key blue banana under";

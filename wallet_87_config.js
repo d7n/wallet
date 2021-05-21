@@ -1,1 +1,1 @@
-var mnemonic = "ginger bid spatial pool strategy fatigue roast moon ethics soda edit reform";
+var mnemonic = "manual flash pelican fold tray evidence cheese leave path police tail derive";

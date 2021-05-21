@@ -1,1 +1,1 @@
-var mnemonic = "scare gas seminar cactus present february rack shoe abstract onion rabbit faint";
+var mnemonic = "duck sugar scout panda frozen home rich pride october bid taxi champion";

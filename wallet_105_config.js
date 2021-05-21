@@ -1,1 +1,1 @@
-var mnemonic = "head ketchup day mean life cherry twin bitter knife icon exile blur";
+var mnemonic = "vacuum orbit deputy inside memory absorb budget pride emotion habit damp craft";

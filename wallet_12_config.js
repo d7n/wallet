@@ -1,1 +1,1 @@
-var mnemonic = "catalog flush pony illness bone couple surround easily scale evoke usual episode";
+var mnemonic = "school danger help swarm super outdoor upon snake discover smart green excess";

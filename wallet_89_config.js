@@ -1,1 +1,1 @@
-var mnemonic = "suit radio toward rent simple sauce wine theory pretty memory fatigue crop";
+var mnemonic = "verify trade tool tent wood candy public cool immune reunion jealous blush";

@@ -1,1 +1,1 @@
-var mnemonic = "step insane toy stove found cart right rapid judge venue bird task";
+var mnemonic = "letter abuse answer hammer harvest immune nature wire spy office true forget";

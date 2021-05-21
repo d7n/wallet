@@ -1,1 +1,1 @@
-var mnemonic = "rail innocent abandon broccoli nature output awesome pause inherit powder obvious rubber";
+var mnemonic = "hero basic taste two flash mean coconut strike sure stuff message range";

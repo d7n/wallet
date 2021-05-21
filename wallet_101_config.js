@@ -1,1 +1,1 @@
-var mnemonic = "endless avocado shock interest arrow hip dash sponsor fee inject gravity glass";
+var mnemonic = "local security view venture bring horn tuna random era then ceiling depart";

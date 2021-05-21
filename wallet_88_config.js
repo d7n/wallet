@@ -1,1 +1,1 @@
-var mnemonic = "doll enable idea unhappy bike devote change token average melt atom inmate";
+var mnemonic = "library ribbon round disease rigid move door drama reward step dove payment";

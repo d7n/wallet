@@ -1,1 +1,1 @@
-var mnemonic = "shy master twelve matter slender credit kangaroo suffer oven destroy exile guitar";
+var mnemonic = "sun rough pole rule doll hungry expect equal found upper acoustic joy";

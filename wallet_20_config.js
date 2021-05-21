@@ -1,1 +1,1 @@
-var mnemonic = "cruel siren spike live edge shuffle bacon odor disorder slice special patient";
+var mnemonic = "reopen burden oven raven behave upset virus popular spawn ice tissue isolate";

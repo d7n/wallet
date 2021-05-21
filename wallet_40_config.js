@@ -1,1 +1,1 @@
-var mnemonic = "quantum inmate private tomorrow clog siege cage body enforce crisp define learn";
+var mnemonic = "news practice salt office alley use seminar phrase clap fetch talent depart";

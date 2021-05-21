@@ -1,1 +1,1 @@
-var mnemonic = "stairs issue spoon calm victory island tomato cart vocal burger panther armed";
+var mnemonic = "blouse update first pledge nerve skill wet popular suggest mosquito love corn";

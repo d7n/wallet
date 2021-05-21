@@ -1,1 +1,1 @@
-var mnemonic = "tiny flip keep sister chuckle come immune surprise news chief staff project";
+var mnemonic = "leaf grit catalog across invest theory welcome inherit antenna opinion often pencil";

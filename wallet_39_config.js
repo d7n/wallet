@@ -1,1 +1,1 @@
-var mnemonic = "relief lend acoustic gain bind snake biology genius marble fever bless very";
+var mnemonic = "diet until explain lion nose crime bench ankle pledge length describe small";

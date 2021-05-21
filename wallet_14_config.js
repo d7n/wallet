@@ -1,1 +1,1 @@
-var mnemonic = "saddle ordinary whisper sock collect mutual bid away employ disorder atom large";
+var mnemonic = "steak side inhale target congress permit elder walk wise expose winner skull";

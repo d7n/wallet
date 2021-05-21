@@ -1,1 +1,1 @@
-var mnemonic = "provide because crime siege bus gas miracle topic alcohol noodle crowd quantum";
+var mnemonic = "carry humble mountain advance lion matrix loud judge puppy six game remove";

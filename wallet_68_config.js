@@ -1,1 +1,1 @@
-var mnemonic = "sound urge finger alien vocal cousin control kitchen pave scheme ozone lyrics";
+var mnemonic = "damp spray address gravity embark pigeon clean kidney innocent weird enemy tilt";

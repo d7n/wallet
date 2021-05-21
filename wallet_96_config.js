@@ -1,1 +1,1 @@
-var mnemonic = "main fresh art diet good animal ship employ negative setup beauty attend";
+var mnemonic = "exile traffic oak trick shoulder zero hungry solid youth gym order stuff";

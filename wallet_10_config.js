@@ -1,1 +1,1 @@
-var mnemonic = "enter clown east embark glass exile differ jump youth charge cigar team";
+var mnemonic = "unique little pair trend measure suffer reopen pool rebel foam idle double";

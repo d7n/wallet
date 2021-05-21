@@ -1,1 +1,1 @@
-var mnemonic = "deny stock cross elevator kiwi endorse glow dismiss connect tumble uniform appear";
+var mnemonic = "west wage team invest right another jacket motor dignity frog worth stomach";

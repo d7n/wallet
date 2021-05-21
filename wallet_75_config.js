@@ -1,1 +1,1 @@
-var mnemonic = "coffee bus atom empty light void pause tired spoil infant guard point";
+var mnemonic = "outside crash unable demand edge uncover what mimic exotic snake find either";

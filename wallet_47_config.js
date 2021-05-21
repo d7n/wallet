@@ -1,1 +1,1 @@
-var mnemonic = "buyer legend stem medal river fine never cart lounge minute whisper utility";
+var mnemonic = "make wage fiber body milk lend hobby allow tent jacket carpet gloom";

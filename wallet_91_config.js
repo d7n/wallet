@@ -1,1 +1,1 @@
-var mnemonic = "useless slow awesome next maid baby base swarm deer bicycle error certain";
+var mnemonic = "base output tomato foster luxury afraid own hour cradle snake wing grant";

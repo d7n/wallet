@@ -1,1 +1,1 @@
-var mnemonic = "produce sketch ancient step bargain giraffe hint stage fine unhappy sort shuffle";
+var mnemonic = "turkey idle position neutral owner grocery secret distance brief throw medal half";

@@ -1,1 +1,1 @@
-var mnemonic = "left absent between crumble distance radar journey unable wine salute boring perfect";
+var mnemonic = "stem program coyote begin asset obscure awful danger obey weather pet exist";

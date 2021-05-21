@@ -1,1 +1,1 @@
-var mnemonic = "flat palace loop craft airport grow kiss verify return crumble defense apology";
+var mnemonic = "pulse evil talent pitch pulp loyal hollow wife coil liberty certain topic";

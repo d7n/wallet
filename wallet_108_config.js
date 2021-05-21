@@ -1,1 +1,1 @@
-var mnemonic = "differ market copper social develop morning skill wagon dutch naive clerk wet";
+var mnemonic = "shop timber exit invest gate rubber mad divorce jeans choose wealth proof";

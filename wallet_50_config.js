@@ -1,1 +1,1 @@
-var mnemonic = "gallery meadow into reopen subject door fall involve evil tooth denial miss";
+var mnemonic = "usage depart open hero donor indicate kitten attract lottery recycle absurd phone";

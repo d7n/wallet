@@ -1,1 +1,1 @@
-var mnemonic = "snap pluck drift caught body absorb kiwi access slender metal garden broken";
+var mnemonic = "above lecture chat glory satisfy wet error blue auction search surround cargo";

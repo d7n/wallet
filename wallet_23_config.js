@@ -1,1 +1,1 @@
-var mnemonic = "one emotion shaft limit garment taste have hole merry surface list grocery";
+var mnemonic = "mule craft enforce all proud canoe portion please palm rug slight depart";
