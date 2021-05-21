@@ -1,1 +1,1 @@
-var mnemonic = "garment taste wire interest misery blood mad steak idle exist radio theme";
+var mnemonic = "link throw dress olympic embrace express below rabbit dose ride arctic coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "knock enforce spare final smoke broken plate travel wedding dizzy antenna base";
+var mnemonic = "mad bird case drip dynamic illegal process soft tip carpet oil grass";

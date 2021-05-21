@@ -1,1 +1,1 @@
-var mnemonic = "leg garment ugly elegant truly warfare soldier width anxiety pet evil destroy";
+var mnemonic = "trim zebra usual level bone danger equal surprise ocean welcome soap grace";

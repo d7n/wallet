@@ -1,1 +1,1 @@
-var mnemonic = "enact spoil ribbon mountain local swear humble creek hard flavor describe crumble";
+var mnemonic = "custom lazy layer puzzle hurdle situate cereal tennis spawn oxygen bargain screen";

@@ -1,1 +1,1 @@
-var mnemonic = "ten cream endorse emerge runway lesson diamond once uncover deer mammal various";
+var mnemonic = "advice frame bundle grief neutral float denial crop muffin gun toilet leopard";

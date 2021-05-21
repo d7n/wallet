@@ -1,1 +1,1 @@
-var mnemonic = "clever crazy believe flee tattoo ribbon trick space broken vocal lazy night";
+var mnemonic = "peanut shy elephant mansion exclude gold symptom flee hand transfer local fabric";

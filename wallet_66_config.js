@@ -1,1 +1,1 @@
-var mnemonic = "raw output wave scan chronic multiply leg order keep infant exit rural";
+var mnemonic = "educate lizard panda sand shove dish lab cancel describe rapid rib ceiling";

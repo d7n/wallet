@@ -1,1 +1,1 @@
-var mnemonic = "relief dice curve can coyote deliver truly fit pluck question fitness blood";
+var mnemonic = "supreme fragile regular feed nut involve gesture coast rely similar neglect broccoli";

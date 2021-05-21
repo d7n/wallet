@@ -1,1 +1,1 @@
-var mnemonic = "shed north hurry elevator hundred advance vocal try flat travel you over";
+var mnemonic = "cherry photo butter chef shadow craft gossip sausage together nephew inform volcano";

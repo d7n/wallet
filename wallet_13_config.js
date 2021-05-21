@@ -1,1 +1,1 @@
-var mnemonic = "current sleep orange lemon planet attitude dream credit staff lesson love sail";
+var mnemonic = "they wheat cousin various sister image belt leader only name tone correct";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead husband music language draw concert timber goose chicken tag busy donkey";
+var mnemonic = "lava phone trip pony shuffle explain smoke swamp north fox ancient cycle";

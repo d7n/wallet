@@ -1,1 +1,1 @@
-var mnemonic = "south cliff thank snack weasel frost acoustic night present velvet south engine";
+var mnemonic = "city profit uncover cement pistol bomb fly defense shine fold use myself";

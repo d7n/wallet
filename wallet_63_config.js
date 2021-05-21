@@ -1,1 +1,1 @@
-var mnemonic = "dignity fault subject soldier endless safe welcome mad furnace skate poet remove";
+var mnemonic = "gloom brother grid danger nut apart magic little keen arena honey scheme";

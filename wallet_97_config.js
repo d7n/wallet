@@ -1,1 +1,1 @@
-var mnemonic = "expire mule mother brisk canvas expose country dry crunch float pave wave";
+var mnemonic = "catch lunch father quote dream sibling ten logic again crowd sad host";

@@ -1,1 +1,1 @@
-var mnemonic = "leg sand quantum tray predict section agent crush portion december disorder nature";
+var mnemonic = "during debate bag admit dizzy record reward nasty must any donkey fringe";

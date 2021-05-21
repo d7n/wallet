@@ -1,1 +1,1 @@
-var mnemonic = "purse destroy ceiling panther middle learn online scrub secret easily inject phone";
+var mnemonic = "come since globe office odor asset oxygen attract leisure fetch trust crowd";

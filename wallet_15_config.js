@@ -1,1 +1,1 @@
-var mnemonic = "jeans early like series arctic parade romance jaguar cross idle fan erupt";
+var mnemonic = "surge shiver cement web pill such glance letter apple high grab secret";

@@ -1,1 +1,1 @@
-var mnemonic = "dove genre cake setup amateur soccer shoot calm possible hawk secret pluck";
+var mnemonic = "tell hello option garlic scare clutch vicious favorite worry flame tell boring";

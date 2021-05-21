@@ -1,1 +1,1 @@
-var mnemonic = "flip path nest danger flame ostrich lizard sister brave envelope day quantum";
+var mnemonic = "among course barely puppy naive predict drill open word mixture depend inject";

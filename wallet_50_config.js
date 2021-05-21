@@ -1,1 +1,1 @@
-var mnemonic = "rural moral great town onion alien search midnight jeans meadow glove baby";
+var mnemonic = "term dynamic machine cigar arrange marriage useless finish crumble image lend hen";

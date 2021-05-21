@@ -1,1 +1,1 @@
-var mnemonic = "staff have luggage harvest want vicious license glimpse method left unveil this";
+var mnemonic = "timber shed degree electric easily goddess canoe chest shallow artwork barrel relief";

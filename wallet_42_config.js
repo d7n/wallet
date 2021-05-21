@@ -1,1 +1,1 @@
-var mnemonic = "air notable run option loud spot ghost tribe parade ski else infant";
+var mnemonic = "submit coral hedgehog awful south maze sketch milk day topple other gadget";

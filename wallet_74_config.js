@@ -1,1 +1,1 @@
-var mnemonic = "elevator music combine pencil humor tomato smile syrup derive glance position stage";
+var mnemonic = "paddle develop quiz fury razor battle sweet fee book split pyramid flight";

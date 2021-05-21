@@ -1,1 +1,1 @@
-var mnemonic = "diesel can vintage valve coffee hour vanish slam below mixture tell glue";
+var mnemonic = "midnight cupboard dinosaur call property live shoulder fortune false indoor make combine";

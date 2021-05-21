@@ -1,1 +1,1 @@
-var mnemonic = "scare twin suggest begin field tragic enough believe raven raise between infant";
+var mnemonic = "belt card spring chaos ostrich fence choose anchor slide fine upper raise";

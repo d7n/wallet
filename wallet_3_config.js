@@ -1,1 +1,1 @@
-var mnemonic = "round advance plastic laugh avoid fault empower menu rally rebel pepper talk";
+var mnemonic = "episode evolve gloom ritual drastic appear throw wish actual jar genre sort";

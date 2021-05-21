@@ -1,1 +1,1 @@
-var mnemonic = "lake impose nominee risk buffalo now minimum erosion skill surround nature never";
+var mnemonic = "void pole parent prefer consider post oval future rebuild february until guitar";

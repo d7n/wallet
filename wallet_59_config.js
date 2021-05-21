@@ -1,1 +1,1 @@
-var mnemonic = "shell use exact slush inch denial jelly crime weird mutual fix what";
+var mnemonic = "remain square grape clog acoustic use food glare brain include entire feel";

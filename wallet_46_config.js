@@ -1,1 +1,1 @@
-var mnemonic = "fragile clown daughter focus join pattern subject electric half valley merry security";
+var mnemonic = "enact master phrase stuff bracket diamond reveal jazz gain tomato spike slice";

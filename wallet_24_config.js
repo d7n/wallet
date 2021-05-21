@@ -1,1 +1,1 @@
-var mnemonic = "pear column wood license oak lift blouse north awesome satisfy service own";
+var mnemonic = "grocery regular buyer enrich sell toy belt allow dumb arctic design master";

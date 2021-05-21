@@ -1,1 +1,1 @@
-var mnemonic = "ketchup grass goddess cluster walnut wink hundred nut cause medal letter siren";
+var mnemonic = "bring lounge tank convince awkward few approve female walk learn wrap orange";

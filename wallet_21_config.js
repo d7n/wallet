@@ -1,1 +1,1 @@
-var mnemonic = "unlock physical rigid elevator girl flower knock truly excuse pledge short vehicle";
+var mnemonic = "loyal ethics confirm industry target great logic original mushroom knock eye worry";

@@ -1,1 +1,1 @@
-var mnemonic = "render polar agree reveal estate fold stone crouch rural purpose there column";
+var mnemonic = "maze wife vapor cement sorry hat foster loyal lecture dismiss camera order";

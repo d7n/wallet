@@ -1,1 +1,1 @@
-var mnemonic = "ribbon pelican feature hour meadow sister tenant bind original super major honey";
+var mnemonic = "actor render link system moment harsh win time pelican robot leader velvet";

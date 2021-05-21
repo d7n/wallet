@@ -1,1 +1,1 @@
-var mnemonic = "sun nasty tackle host finger captain smart horror mobile level cube solution";
+var mnemonic = "boy must remember glow ask spoon smart sponsor regular organ vital weather";

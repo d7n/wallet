@@ -1,1 +1,1 @@
-var mnemonic = "people blade shuffle option crisp success bike patch approve wrong submit nominee";
+var mnemonic = "unit permit nerve false tennis neither siege craft top stool recipe manual";

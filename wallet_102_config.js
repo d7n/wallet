@@ -1,1 +1,1 @@
-var mnemonic = "sentence mammal rapid stem squirrel picnic vast fortune spend access notice inject";
+var mnemonic = "snake fall outdoor coach list garden debris protect gadget bone conduct brand";

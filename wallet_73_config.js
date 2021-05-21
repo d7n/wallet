@@ -1,1 +1,1 @@
-var mnemonic = "plunge transfer walnut lobster reunion asthma silent minimum arm uphold away myth";
+var mnemonic = "left mutual gospel romance scout hurdle snack alert casual taste annual dial";

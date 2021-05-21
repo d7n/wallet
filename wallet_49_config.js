@@ -1,1 +1,1 @@
-var mnemonic = "require blush sort butter subway twin strategy child view narrow mobile width";
+var mnemonic = "leg toast ship total interest pear fit elephant glide print hill man";

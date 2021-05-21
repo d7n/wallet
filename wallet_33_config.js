@@ -1,1 +1,1 @@
-var mnemonic = "boy volcano pen alcohol turkey fever guilt goat total nasty close bubble";
+var mnemonic = "universe device arena law fence victory run pink cart relax legend tray";

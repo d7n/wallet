@@ -1,1 +1,1 @@
-var mnemonic = "equip gain across coral barely chaos fiscal spot mask office regular divorce";
+var mnemonic = "goat gym wool debris avocado harvest song muffin assault quit doll dirt";

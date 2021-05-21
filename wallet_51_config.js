@@ -1,1 +1,1 @@
-var mnemonic = "fence affair fancy despair bullet goddess flat appear act chat artist inside";
+var mnemonic = "unit offer laugh best energy solution jar grit swim sphere same require";

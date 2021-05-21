@@ -1,1 +1,1 @@
-var mnemonic = "field stamp erode join throw flower certain biology there cup few use";
+var mnemonic = "kiss quote illness unhappy buffalo sweet hawk wonder inject huge carbon mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete walnut work dial stairs busy glow attack cliff crane foil envelope";
+var mnemonic = "copy depend screen dwarf barrel ribbon coast blush hedgehog grant renew wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "spray recall midnight argue mask absurd wait cage loan danger wheel blanket";
+var mnemonic = "tenant custom clutch canoe sure ticket nominee fitness fiber pioneer stable pluck";

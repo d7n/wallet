@@ -1,1 +1,1 @@
-var mnemonic = "filter multiply speak rebuild setup twice put slim update outside exclude mask";
+var mnemonic = "dizzy flip property orange physical spawn purpose stone grass fire shop pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect moment unhappy iron symbol race gym clerk where popular panel music";
+var mnemonic = "monkey source fragile pass strategy neck fiber family pear lava legend pitch";

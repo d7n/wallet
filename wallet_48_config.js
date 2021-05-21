@@ -1,1 +1,1 @@
-var mnemonic = "thank assault reopen snow business clarify enroll bunker narrow erode power glad";
+var mnemonic = "purpose jaguar eagle maple arena thrive initial lobster eyebrow impulse addict purse";

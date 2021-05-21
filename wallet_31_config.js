@@ -1,1 +1,1 @@
-var mnemonic = "certain conduct advance grace lady chief monster mammal napkin quantum athlete child";
+var mnemonic = "weasel nation tissue vague enter audit agree coffee dragon wrestle erupt injury";

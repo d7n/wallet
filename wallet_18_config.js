@@ -1,1 +1,1 @@
-var mnemonic = "input clerk coast tornado short reject upper cat soon risk amused estate";
+var mnemonic = "churn seek oval pioneer shield trap spice hip reform dismiss decade basket";

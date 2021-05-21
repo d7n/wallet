@@ -1,1 +1,1 @@
-var mnemonic = "side health other verb uniform yard live rhythm control smoke viable hope";
+var mnemonic = "bind undo people debris deal detect step stairs day purse between barely";

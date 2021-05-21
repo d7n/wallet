@@ -1,1 +1,1 @@
-var mnemonic = "aerobic extra wolf provide size squeeze surprise mule ritual jungle scout chaos";
+var mnemonic = "firm short tribe cousin loan age valve sudden prosper manage mosquito grass";

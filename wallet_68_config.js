@@ -1,1 +1,1 @@
-var mnemonic = "march churn essay lock control nut leaf host proof engage fitness arrange";
+var mnemonic = "like slow rapid leg olive century wing depend legend bitter dismiss wheat";

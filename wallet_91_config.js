@@ -1,1 +1,1 @@
-var mnemonic = "vacant fancy burst journey invest raise radio mean know hockey join civil";
+var mnemonic = "ritual matrix soap dragon chimney clip paddle food sick sausage wrong shed";

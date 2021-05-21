@@ -1,1 +1,1 @@
-var mnemonic = "detail impact pulse learn stuff spot victory stool drift carpet pool annual";
+var mnemonic = "cherry material rack grid green blanket prevent differ cheap swim senior swim";

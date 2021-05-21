@@ -1,1 +1,1 @@
-var mnemonic = "sniff entry spring canvas fitness social toy boy impact theory witness furnace";
+var mnemonic = "soda vessel wife appear chase jeans isolate jacket force bulb love force";

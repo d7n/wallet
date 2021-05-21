@@ -1,1 +1,1 @@
-var mnemonic = "north coconut hood couch cycle tunnel pear video olive swear abandon zero";
+var mnemonic = "erupt giggle eagle coffee organ forest regret crop coffee uncle panther speed";

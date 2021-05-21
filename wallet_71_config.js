@@ -1,1 +1,1 @@
-var mnemonic = "snack utility roof engage rotate fan enroll narrow imitate script wish banner";
+var mnemonic = "ring regret scene strategy cruise cube minor order catalog tourist stumble charge";

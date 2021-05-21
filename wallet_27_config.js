@@ -1,1 +1,1 @@
-var mnemonic = "jar spot law power hockey work chest cluster rocket skirt describe brass";
+var mnemonic = "balance devote inject goddess lecture tuna skirt blossom zero cross style banner";

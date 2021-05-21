@@ -1,1 +1,1 @@
-var mnemonic = "economy only exotic renew bird ice pride program dove travel confirm fork";
+var mnemonic = "trap rule filter rude bread chimney praise trash school suspect wisdom diet";

@@ -1,1 +1,1 @@
-var mnemonic = "shy narrow hire regret absent kitchen spell print discover flower hidden vast";
+var mnemonic = "weather endless decrease vapor fold family bachelor retire style wire galaxy waste";

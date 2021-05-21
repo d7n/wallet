@@ -1,1 +1,1 @@
-var mnemonic = "lava sea forest girl pride enter float solid taste mind album family";
+var mnemonic = "grape page jeans rare siren differ wife wasp shallow among view bubble";

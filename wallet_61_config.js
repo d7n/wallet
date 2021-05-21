@@ -1,1 +1,1 @@
-var mnemonic = "leisure horn swift caution ready adjust stove churn reopen vocal park pencil";
+var mnemonic = "surprise split primary fun bid shy ceiling release false castle civil alien";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight despair zone detect slice opinion frown myth novel nice divert eye";
+var mnemonic = "option like space air kit ten force blouse profit slice vital off";

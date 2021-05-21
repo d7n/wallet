@@ -1,1 +1,1 @@
-var mnemonic = "negative sketch office lab title where legend dutch voice crucial prison box";
+var mnemonic = "misery capable garment under soft oval flight clock awkward cloth flame old";

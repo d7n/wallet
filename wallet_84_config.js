@@ -1,1 +1,1 @@
-var mnemonic = "swim wash pupil dinosaur soap shield lunch idea dust foil female fragile";
+var mnemonic = "stadium tag spare bridge swap congress coyote service cradle work vendor whale";

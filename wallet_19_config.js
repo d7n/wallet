@@ -1,1 +1,1 @@
-var mnemonic = "seminar uncover elevator energy fame whale foster vicious tornado sock social barely";
+var mnemonic = "hungry enemy obscure essence demand harbor code modify sell grocery slam finger";

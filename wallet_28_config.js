@@ -1,1 +1,1 @@
-var mnemonic = "organ answer rude same ask party gaze bench venue ignore solar biology";
+var mnemonic = "radar bronze track size bomb worth teach note ketchup soft flight uncover";

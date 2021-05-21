@@ -1,1 +1,1 @@
-var mnemonic = "close suggest minute hip intact enter half food small kind snack copy";
+var mnemonic = "dice almost mystery dove hour drop ocean claw chair hill suspect asthma";

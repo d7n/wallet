@@ -1,1 +1,1 @@
-var mnemonic = "ritual uncover lizard attract demand toss early pass armed lift torch enter";
+var mnemonic = "focus fever thought solve mother sand letter loan loyal absent churn canoe";

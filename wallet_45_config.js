@@ -1,1 +1,1 @@
-var mnemonic = "tool scout humble smile bar purchase busy dynamic dignity joke name negative";
+var mnemonic = "zoo outdoor alter material cry mistake parade pen memory toddler suit purchase";

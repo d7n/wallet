@@ -1,1 +1,1 @@
-var mnemonic = "load analyst aim deer luggage bless wedding typical menu juice label zebra";
+var mnemonic = "frequent purpose legend strong fun solution bless tiny baby injury journey keep";

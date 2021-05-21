@@ -1,1 +1,1 @@
-var mnemonic = "orient margin lab run cruise weapon oxygen sock argue project venue smooth";
+var mnemonic = "puzzle much split stick glimpse sunset galaxy lawsuit earth found teach video";

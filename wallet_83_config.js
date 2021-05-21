@@ -1,1 +1,1 @@
-var mnemonic = "chuckle vanish wet boring acid report boil oil chair merry track lady";
+var mnemonic = "give warfare view media also ticket price noise ice rubber assist drift";

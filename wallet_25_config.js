@@ -1,1 +1,1 @@
-var mnemonic = "scan mammal cram change win music domain hen worry produce inquiry deal";
+var mnemonic = "pet resource blind aspect under before shiver caught double ankle festival media";

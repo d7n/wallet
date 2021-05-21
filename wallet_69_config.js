@@ -1,1 +1,1 @@
-var mnemonic = "wine pilot medal hello sunset artist market zoo paper cinnamon rabbit enrich";
+var mnemonic = "coast clock mule key recycle art extend injury stumble type rhythm tattoo";

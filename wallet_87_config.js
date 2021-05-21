@@ -1,1 +1,1 @@
-var mnemonic = "snack mom produce wheat poverty afford price nothing pattern quick recipe tissue";
+var mnemonic = "fold image rocket peace truly tobacco scene pumpkin rescue vehicle core dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "movie spot ivory amount seed cluster eye swim coach license key clerk";
+var mnemonic = "view gentle army syrup eager enable tomorrow siren say suffer circle already";

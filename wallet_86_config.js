@@ -1,1 +1,1 @@
-var mnemonic = "excite youth pilot gown rapid scissors disorder junk dog acoustic mom lunch";
+var mnemonic = "usual dirt tube sign tongue trick roast reopen denial never floor hybrid";

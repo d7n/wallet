@@ -1,1 +1,1 @@
-var mnemonic = "lobster visa evidence clip ritual fruit label ceiling pledge faculty multiply wait";
+var mnemonic = "banana filter left lecture witness initial one winner draft yard second coffee";

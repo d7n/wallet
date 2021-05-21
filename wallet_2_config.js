@@ -1,1 +1,1 @@
-var mnemonic = "skate chuckle arrow carpet genre height moon circle story three enrich bulk";
+var mnemonic = "similar rather junk script universe deputy poem stand approve nerve mask toy";

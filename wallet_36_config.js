@@ -1,1 +1,1 @@
-var mnemonic = "library bacon confirm style wheat lock shed cage dentist theme suggest palm";
+var mnemonic = "trap vague apple home winter guide achieve off quit knee manual dirt";

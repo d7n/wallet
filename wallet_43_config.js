@@ -1,1 +1,1 @@
-var mnemonic = "question today episode real science sure entire list next bunker box reason";
+var mnemonic = "blush index budget future sugar type tool region alcohol assault tissue burst";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil depend defense input depend donor opinion stock capable quote polar diamond";
+var mnemonic = "napkin vendor upgrade cement wall certain tourist river kitchen horror forget click";

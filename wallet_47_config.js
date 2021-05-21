@@ -1,1 +1,1 @@
-var mnemonic = "grain always because bleak day unhappy vacuum negative nerve lens capital error";
+var mnemonic = "crater island purpose biology auto party number hotel uniform employ problem few";

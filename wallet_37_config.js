@@ -1,1 +1,1 @@
-var mnemonic = "brother boost invite churn plug siren catalog electric puzzle annual art unknown";
+var mnemonic = "mail gallery ancient accident coil one sting pitch always hard review license";

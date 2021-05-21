@@ -1,1 +1,1 @@
-var mnemonic = "scrub street kingdom hamster regular ice gap gold stumble pottery interest boss";
+var mnemonic = "cupboard upset course avoid glance auto absorb ice drift hunt expose doctor";

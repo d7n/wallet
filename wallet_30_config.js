@@ -1,1 +1,1 @@
-var mnemonic = "museum horse harsh fatal ready couple program mind scatter earth viable trouble";
+var mnemonic = "tuition captain muffin review stove lava athlete napkin smile cinnamon toy spice";
