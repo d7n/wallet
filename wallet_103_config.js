@@ -1,1 +1,1 @@
-var mnemonic = "unusual awake chimney engine impact trend monster balance differ foster night tornado";
+var mnemonic = "sorry buyer quiz art grid shallow feature kitten ozone minute december rebuild";

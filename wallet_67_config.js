@@ -1,1 +1,1 @@
-var mnemonic = "season monster inject bracket capital ready saddle vault edge high resemble choose";
+var mnemonic = "team shock scare inmate evoke beach now trumpet laptop fade unlock blue";

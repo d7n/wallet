@@ -1,1 +1,1 @@
-var mnemonic = "cruise denial divide crumble away wine early ability host solve estate school";
+var mnemonic = "confirm mention length awful taste harbor option indoor exclude rally common only";

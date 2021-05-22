@@ -1,1 +1,1 @@
-var mnemonic = "price top horse dad uncover ghost brass carry polar ignore present small";
+var mnemonic = "chase improve detect setup expand small found whale dose flag section jazz";

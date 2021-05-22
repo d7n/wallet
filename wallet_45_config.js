@@ -1,1 +1,1 @@
-var mnemonic = "want input endless harvest garment path liquid beach husband gas smile easy";
+var mnemonic = "fade truth shadow market slender meat plate grunt whisper already angry move";

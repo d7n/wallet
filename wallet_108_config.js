@@ -1,1 +1,1 @@
-var mnemonic = "ice woman glue chapter ecology magnet dinosaur journey put skill middle live";
+var mnemonic = "door paddle puzzle negative learn trouble buzz certain wonder drift enable member";

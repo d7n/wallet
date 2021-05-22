@@ -1,1 +1,1 @@
-var mnemonic = "scene learn document maximum material ride bachelor comfort quarter inspire purse certain";
+var mnemonic = "jacket lift canoe three bench easily twin under broccoli remember train betray";

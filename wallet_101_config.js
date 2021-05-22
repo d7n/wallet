@@ -1,1 +1,1 @@
-var mnemonic = "busy edit rich season suffer genre oppose fatigue trap reward hurry deputy";
+var mnemonic = "slogan sad laptop asthma shoe razor illness input unaware goose gas erode";

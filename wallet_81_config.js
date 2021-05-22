@@ -1,1 +1,1 @@
-var mnemonic = "weekend tent govern expect wall chaos actual anchor hundred response thumb ahead";
+var mnemonic = "case move save coach denial fan asthma venture claim faith receive record";

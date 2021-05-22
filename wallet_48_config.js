@@ -1,1 +1,1 @@
-var mnemonic = "verb wedding ignore typical broken kite noble just elegant throw avocado blast";
+var mnemonic = "mirror useless evoke grocery throw auto churn plug trick bracket relief venue";

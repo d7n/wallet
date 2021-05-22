@@ -1,1 +1,1 @@
-var mnemonic = "sister summer message birth ranch arctic visual toss plate code family end";
+var mnemonic = "strong decline sausage journey talent message expect author renew casual bonus arrange";

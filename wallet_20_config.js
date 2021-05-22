@@ -1,1 +1,1 @@
-var mnemonic = "before tooth near cupboard flock spend tourist metal churn bike agree mouse";
+var mnemonic = "client mango artwork style resource edit gallery step nut canvas walnut direct";

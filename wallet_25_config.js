@@ -1,1 +1,1 @@
-var mnemonic = "install wink emotion egg artwork pause approve bread super dish vacant powder";
+var mnemonic = "you dilemma own vacant pottery flag cupboard bind void motor fiber almost";

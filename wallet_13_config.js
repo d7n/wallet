@@ -1,1 +1,1 @@
-var mnemonic = "fold behave weird easy spirit catch recall interest flash spin camp lawsuit";
+var mnemonic = "artefact confirm puzzle kitten buffalo around manual raccoon monitor upset voyage chest";

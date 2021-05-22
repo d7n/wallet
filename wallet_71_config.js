@@ -1,1 +1,1 @@
-var mnemonic = "before wasp cycle fruit thing express spread method warfare offer light april";
+var mnemonic = "trouble have inform toward midnight broccoli tube cage annual resemble butter version";

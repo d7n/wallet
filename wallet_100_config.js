@@ -1,1 +1,1 @@
-var mnemonic = "boss tonight alpha reason install add bracket faint lizard choose segment senior";
+var mnemonic = "jump glory grow empower amazing item carry stay apology crunch tiger thank";

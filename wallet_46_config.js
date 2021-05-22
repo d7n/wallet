@@ -1,1 +1,1 @@
-var mnemonic = "business submit news lawsuit congress mouse acquire lumber accuse deposit audit hill";
+var mnemonic = "link country remember method shell arrange glory almost exact army marble foam";

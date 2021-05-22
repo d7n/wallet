@@ -1,1 +1,1 @@
-var mnemonic = "expose raccoon cousin rely smile canal can axis pair describe loud bronze";
+var mnemonic = "away utility mention hurry wrestle myth lamp layer question click faint comic";

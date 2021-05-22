@@ -1,1 +1,1 @@
-var mnemonic = "theme matter melody pen yellow tissue rather deputy plate manual sail arena";
+var mnemonic = "shrimp because middle balcony myself input about toss faint solve siren mention";

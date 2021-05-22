@@ -1,1 +1,1 @@
-var mnemonic = "lumber furnace wrap liquid setup popular hockey search saddle duty license night";
+var mnemonic = "seat track general husband tone concert response diesel student same club unlock";

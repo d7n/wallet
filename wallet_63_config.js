@@ -1,1 +1,1 @@
-var mnemonic = "desert click across cupboard ordinary push marble similar census gorilla color autumn";
+var mnemonic = "hawk dynamic link nominee wire split area jar prepare pause pioneer surge";

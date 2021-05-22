@@ -1,1 +1,1 @@
-var mnemonic = "garden drive plug analyst remind infant rib first supreme firm fat board";
+var mnemonic = "emotion lens main alone clean hood match debate effort window orphan crop";

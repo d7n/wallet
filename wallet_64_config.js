@@ -1,1 +1,1 @@
-var mnemonic = "immense crash mix provide wall text inside chronic clerk tip ostrich someone";
+var mnemonic = "parent portion music charge now grocery legal dawn shine before battle sport";

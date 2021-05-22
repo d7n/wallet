@@ -1,1 +1,1 @@
-var mnemonic = "various deal lady dad vendor until object release thank skin enjoy senior";
+var mnemonic = "steak upgrade action glad garment athlete repeat pitch vote coin item always";

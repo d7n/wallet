@@ -1,1 +1,1 @@
-var mnemonic = "window disease funny credit coffee kid bleak unlock remain bright area kite";
+var mnemonic = "evidence section moment control sugar another adapt winner sunny smile pledge genius";

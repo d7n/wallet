@@ -1,1 +1,1 @@
-var mnemonic = "credit pave dial guilt pyramid before bargain fancy flash carpet badge grow";
+var mnemonic = "napkin flash unhappy culture scale palace craft argue swing method mix wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "safe useful neck auto little fringe hedgehog have demand labor cushion unfold";
+var mnemonic = "machine castle island help arm sniff reform bullet slow loop ready train";

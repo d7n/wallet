@@ -1,1 +1,1 @@
-var mnemonic = "fall ancient enemy glory session pair flee next erase clock embody sponsor";
+var mnemonic = "pipe knee unfold escape develop once response vacant region credit horror outside";

@@ -1,1 +1,1 @@
-var mnemonic = "special rain color document own age room coffee manual dress electric trade";
+var mnemonic = "cave drastic grief alone bone very wait grass gorilla spell equal tunnel";

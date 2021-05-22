@@ -1,1 +1,1 @@
-var mnemonic = "snap source tissue aerobic day pair special help return blame basket draft";
+var mnemonic = "bleak system merry state prize pool stamp notice possible orange tonight demand";

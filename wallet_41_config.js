@@ -1,1 +1,1 @@
-var mnemonic = "merge clean shift decade sniff village margin alpha decide square bacon various";
+var mnemonic = "giraffe avocado planet reflect already craft old below hurt escape floor goddess";

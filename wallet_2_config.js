@@ -1,1 +1,1 @@
-var mnemonic = "atom grab jeans bright unlock divorce found present eagle suspect width shell";
+var mnemonic = "impact leisure mechanic boat busy cattle dolphin funny release mimic dove region";

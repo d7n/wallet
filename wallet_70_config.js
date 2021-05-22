@@ -1,1 +1,1 @@
-var mnemonic = "truth reunion code crater cupboard celery shine choice torch range mix join";
+var mnemonic = "believe farm sock mesh brother eagle dismiss field utility meadow rebel girl";

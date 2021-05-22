@@ -1,1 +1,1 @@
-var mnemonic = "hurry dirt rude east junk spawn unfair wish pioneer mad dance find";
+var mnemonic = "human undo floor range horse all away live object divide pistol idle";

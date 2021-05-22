@@ -1,1 +1,1 @@
-var mnemonic = "belt clean patient sudden chair light trial always render duck depend trust";
+var mnemonic = "vast skate lucky oval couch final task run glad auto space glad";

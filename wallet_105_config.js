@@ -1,1 +1,1 @@
-var mnemonic = "become garment scan siege switch during chimney arrange fox crisp enrich goose";
+var mnemonic = "frequent help race noise below dash orange guess shallow rug radio pet";

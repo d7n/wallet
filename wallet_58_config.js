@@ -1,1 +1,1 @@
-var mnemonic = "unaware steak time sphere used roast pudding federal vacant input comfort ignore";
+var mnemonic = "gun laundry region asset grace feature accuse economy gate enforce menu cherry";

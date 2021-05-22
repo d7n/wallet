@@ -1,1 +1,1 @@
-var mnemonic = "subject clerk pilot melt day faculty witness bubble blood critic bag manual";
+var mnemonic = "float depart any abstract lava search ignore cheap photo soda ghost loud";

@@ -1,1 +1,1 @@
-var mnemonic = "stay grit cancel ship game crack nation perfect hurt tag alarm weasel";
+var mnemonic = "alarm burger tourist buffalo demand stable blast dune suit rather move broccoli";

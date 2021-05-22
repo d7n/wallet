@@ -1,1 +1,1 @@
-var mnemonic = "act life cook exclude soldier mesh price essence color upset comfort pair";
+var mnemonic = "isolate stairs track term miracle future warm raise able amazing oppose short";

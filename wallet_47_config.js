@@ -1,1 +1,1 @@
-var mnemonic = "old leave actual cloud develop piano famous sea kick myself skill elite";
+var mnemonic = "bicycle gap ankle unfair program zebra jewel fruit annual maximum inside use";

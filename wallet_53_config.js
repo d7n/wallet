@@ -1,1 +1,1 @@
-var mnemonic = "depth street acid laugh life impact believe describe garlic tomorrow cable banana";
+var mnemonic = "bachelor identify unable deer opinion army vote prosper require sense same kid";

@@ -1,1 +1,1 @@
-var mnemonic = "key oil chef voyage menu leader snack garden auto hour visit taxi";
+var mnemonic = "dry sibling smile glide measure elevator become first push crucial awkward trick";

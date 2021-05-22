@@ -1,1 +1,1 @@
-var mnemonic = "junk stable arrest swap share casino order bitter oblige mass sketch top";
+var mnemonic = "mail capital design board oven write hurry onion boil fancy better case";

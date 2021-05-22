@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sock swear devote advice thumb asset original faint jealous clarify near";
+var mnemonic = "chimney solar staff enhance label brain early field section zero step allow";

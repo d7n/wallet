@@ -1,1 +1,1 @@
-var mnemonic = "boy menu world dream clutch moral shuffle point satoshi festival genre shiver";
+var mnemonic = "stand cabbage service guide soft swap steel crime vicious candy enhance card";

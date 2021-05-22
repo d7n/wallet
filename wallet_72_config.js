@@ -1,1 +1,1 @@
-var mnemonic = "comic million lawsuit describe artefact omit swarm gentle until round know clinic";
+var mnemonic = "one heavy west jelly early edit lend flame must hotel wine argue";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow chef risk thrive chicken moment hollow sheriff party face desert tube";
+var mnemonic = "that evolve coin wife number actress ozone twelve noble chronic solve drink";

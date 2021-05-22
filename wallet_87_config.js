@@ -1,1 +1,1 @@
-var mnemonic = "slice divide visit symptom improve way that medal plug system muffin man";
+var mnemonic = "ensure scissors lunch swear hour exhaust rent hunt wheel sunset chalk defy";

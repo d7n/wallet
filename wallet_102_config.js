@@ -1,1 +1,1 @@
-var mnemonic = "fade chef expand anxiety decline kid this rival hour around fence sea";
+var mnemonic = "fit tail salt vital ski federal deny method useless jazz slush bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "inch ripple aisle welcome response rely laptop gallery stuff poet employ deal";
+var mnemonic = "twenty cabbage certain rug jacket mountain basic begin trend dry theme raw";

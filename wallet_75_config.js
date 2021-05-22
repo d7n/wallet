@@ -1,1 +1,1 @@
-var mnemonic = "process account menu clog cart husband mobile universe inner burden stock ignore";
+var mnemonic = "nation donkey satoshi bless neither young ribbon round add unknown shaft aim";

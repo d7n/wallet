@@ -1,1 +1,1 @@
-var mnemonic = "wet fancy denial solar tooth layer conduct length barrel notice slim dinosaur";
+var mnemonic = "race coconut collect common curve luxury excess city issue knee pair bar";

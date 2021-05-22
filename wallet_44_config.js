@@ -1,1 +1,1 @@
-var mnemonic = "add diary hospital debate lawn reunion trial emotion beyond brave assume gallery";
+var mnemonic = "shoot dolphin loyal sample worry ocean recall bicycle grass endorse grace thunder";

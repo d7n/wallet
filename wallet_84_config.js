@@ -1,1 +1,1 @@
-var mnemonic = "square leisure regret theory indicate degree cook slam twenty issue supply scissors";
+var mnemonic = "remind situate grunt flip moon kitchen unaware noise snow because trip blast";

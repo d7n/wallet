@@ -1,1 +1,1 @@
-var mnemonic = "early rug innocent sad above stuff about fortune inject symbol skill nasty";
+var mnemonic = "grant caution observe sun host donkey parade payment usage cake vicious title";

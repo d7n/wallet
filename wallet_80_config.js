@@ -1,1 +1,1 @@
-var mnemonic = "order limit seminar hill great domain top unhappy kite churn toward this";
+var mnemonic = "space giggle sound model prosper fresh power eagle sphere slogan install artwork";

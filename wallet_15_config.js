@@ -1,1 +1,1 @@
-var mnemonic = "about buyer parent news collect track fluid fat zoo allow sunny chief";
+var mnemonic = "high ship sadness rack box salon gossip empower sock blind sudden round";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch language neck young mango similar pilot energy security wealth absurd renew";
+var mnemonic = "avoid gift conduct beyond exhaust liquid volcano clinic pause category color honey";

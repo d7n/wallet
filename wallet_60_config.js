@@ -1,1 +1,1 @@
-var mnemonic = "chicken indoor wonder orbit light quantum defense glory doctor lottery acquire empower";
+var mnemonic = "hobby half maze awake broken soldier then senior employ trophy afford crystal";

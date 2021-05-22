@@ -1,1 +1,1 @@
-var mnemonic = "coffee human offer artist puppy copy pass hammer purchase flush gallery abandon";
+var mnemonic = "pretty clerk rare online comic disorder stamp bulk barely dumb library drastic";

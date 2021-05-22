@@ -1,1 +1,1 @@
-var mnemonic = "excite concert disagree spread danger rent myth deer dad ketchup arctic know";
+var mnemonic = "service ring occur vehicle recall tank team police drum dial smart agree";

@@ -1,1 +1,1 @@
-var mnemonic = "whip grit wheat under movie frown mail fox jacket vanish canyon injury";
+var mnemonic = "traffic decrease uncle camera best struggle choose dentist phrase club gospel harsh";

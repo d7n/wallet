@@ -1,1 +1,1 @@
-var mnemonic = "machine inside kitchen half wrap second plate spider hunt habit puppy chicken";
+var mnemonic = "repair afraid topic old rate north valve blur path sock base review";

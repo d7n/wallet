@@ -1,1 +1,1 @@
-var mnemonic = "humble kiss atom soul letter position alpha toy surface egg army prepare";
+var mnemonic = "reject best harvest shallow guitar lounge umbrella tail page giggle invest cute";

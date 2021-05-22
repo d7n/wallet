@@ -1,1 +1,1 @@
-var mnemonic = "one tornado task remove boy garage hover member solid describe transfer flock";
+var mnemonic = "nasty civil spirit april miracle cover arena air soft aspect word allow";

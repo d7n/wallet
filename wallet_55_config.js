@@ -1,1 +1,1 @@
-var mnemonic = "gown perfect predict puppy oyster gasp final kick pole sense prepare valley";
+var mnemonic = "refuse myth swear magic lift pass result mention eyebrow letter erosion lava";

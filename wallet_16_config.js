@@ -1,1 +1,1 @@
-var mnemonic = "magic beef begin drum praise pony tongue swim explain endorse muscle power";
+var mnemonic = "diet purse space fresh diamond expire door logic dial weasel poverty trust";

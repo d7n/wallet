@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fine hedgehog merit dial small blur still flavor salmon comic night";
+var mnemonic = "kiwi possible magnet comfort finger truck wine dose stamp rapid potato ethics";

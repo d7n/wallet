@@ -1,1 +1,1 @@
-var mnemonic = "text man struggle polar swim menu brave mandate bracket develop arch exit";
+var mnemonic = "athlete only secret boss swamp half consider rug hole sketch country lecture";

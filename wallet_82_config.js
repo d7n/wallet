@@ -1,1 +1,1 @@
-var mnemonic = "echo desert diary six smart minimum sugar fiber shallow bullet naive dish";
+var mnemonic = "original hunt question party border remain expose atom around rack fit cruel";

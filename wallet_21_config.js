@@ -1,1 +1,1 @@
-var mnemonic = "entire hazard october pepper holiday slight position crazy match joy knife document";
+var mnemonic = "kidney spread sunset romance promote genius umbrella prize direct plunge buffalo cool";

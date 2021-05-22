@@ -1,1 +1,1 @@
-var mnemonic = "siren improve fragile link ranch sound stage outdoor shiver empty drastic provide";
+var mnemonic = "effort mystery fault butter flock light hood picture tortoise anchor please system";

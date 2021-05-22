@@ -1,1 +1,1 @@
-var mnemonic = "gap kingdom lumber bitter purpose humor expire slam soon federal sure material";
+var mnemonic = "stadium organ acid degree clap clean remove hill wide symbol mom leisure";

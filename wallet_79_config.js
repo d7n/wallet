@@ -1,1 +1,1 @@
-var mnemonic = "eye claim fuel ceiling certain middle cinnamon crystal mandate copy limb obey";
+var mnemonic = "blush dolphin sunset thank scrap fee pact dragon cactus guard beach denial";

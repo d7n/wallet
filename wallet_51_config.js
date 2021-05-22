@@ -1,1 +1,1 @@
-var mnemonic = "typical huge squeeze vast oven mistake disease suit matter clinic time faculty";
+var mnemonic = "guilt gorilla giant friend warm brisk noble obtain coconut avocado snow rhythm";

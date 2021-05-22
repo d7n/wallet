@@ -1,1 +1,1 @@
-var mnemonic = "van deposit lamp pair pact uphold mimic method prosper client ring cat";
+var mnemonic = "arrive renew cram joy defy away book depth mushroom health acid violin";

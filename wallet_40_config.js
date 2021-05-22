@@ -1,1 +1,1 @@
-var mnemonic = "friend rebel siege property recipe purpose execute still soon cool pyramid ghost";
+var mnemonic = "wave stadium moment island plunge half talk hand sunny balance ice awkward";

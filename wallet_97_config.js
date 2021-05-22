@@ -1,1 +1,1 @@
-var mnemonic = "bitter wrestle symbol wave cart creek awake road cruel diamond candy spring";
+var mnemonic = "wet rug pool magic spoil link road afraid pudding pair boat wonder";

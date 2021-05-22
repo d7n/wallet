@@ -1,1 +1,1 @@
-var mnemonic = "loyal soccer female barrel crack mushroom loan pink harsh oyster goose clump";
+var mnemonic = "assist proud regret raccoon spice juice hint fade want fatal broken urban";

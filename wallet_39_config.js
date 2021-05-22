@@ -1,1 +1,1 @@
-var mnemonic = "arena myth orange coyote aim casino cream multiply love outer switch modify";
+var mnemonic = "script electric cover leave first march mule saddle derive sustain squirrel again";

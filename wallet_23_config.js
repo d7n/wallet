@@ -1,1 +1,1 @@
-var mnemonic = "process razor hold slice voyage axis glide until hurry sense blush retreat";
+var mnemonic = "sell visa best latin miss achieve boil desk secret sketch analyst luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "forum scale must cave stereo glare member head wrong shrug profit direct";
+var mnemonic = "lens good escape trade bronze wire simple chaos fetch shy dune design";

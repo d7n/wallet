@@ -1,1 +1,1 @@
-var mnemonic = "become hotel still wonder divorce leg firm account word logic author timber";
+var mnemonic = "unfair alarm token monkey sail tomato that video flower mule limb bacon";

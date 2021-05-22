@@ -1,1 +1,1 @@
-var mnemonic = "cotton spray addict first cheap bamboo wealth vital motion deputy merry brand";
+var mnemonic = "twist clump inch air exile party ugly glance axis divide collect actual";

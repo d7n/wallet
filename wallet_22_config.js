@@ -1,1 +1,1 @@
-var mnemonic = "city shine near tree captain clarify truly myth awesome month gentle arrest";
+var mnemonic = "slam evil hungry agent fault throw bounce spread agent accident creek case";

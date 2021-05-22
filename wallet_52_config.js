@@ -1,1 +1,1 @@
-var mnemonic = "latin kangaroo life saddle sea fury real tube toy fun satisfy bag";
+var mnemonic = "easy chuckle remain gaze exercise turkey song height spread input path scene";

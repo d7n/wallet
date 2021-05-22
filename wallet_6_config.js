@@ -1,1 +1,1 @@
-var mnemonic = "method quit front snack giant helmet evolve sheriff junk will fashion recycle";
+var mnemonic = "beef vital math satisfy glow weather ready bunker color lawn clip into";

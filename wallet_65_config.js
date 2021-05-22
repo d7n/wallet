@@ -1,1 +1,1 @@
-var mnemonic = "wrap law muffin predict seminar enroll ostrich genuine frog slush clip garden";
+var mnemonic = "order exhaust bind soap excess best item near stuff nothing dilemma name";

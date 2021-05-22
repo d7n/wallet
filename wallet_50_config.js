@@ -1,1 +1,1 @@
-var mnemonic = "eye spot cinnamon rotate rocket core turtle pelican strong renew disorder crane";
+var mnemonic = "arrive shell humor shop tackle vote rule demand flight spread hybrid antenna";
