@@ -1,1 +1,1 @@
-var mnemonic = "rapid profit hub valve nerve jazz demise chalk donkey village secret lyrics";
+var mnemonic = "iron like collect display onion tone nest trend demand metal never stereo";

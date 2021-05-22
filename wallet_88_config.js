@@ -1,1 +1,1 @@
-var mnemonic = "scout film stay dust question bargain sugar wink virtual spice promote gasp";
+var mnemonic = "misery quit fox minute double topic pledge junior theory unique injury comic";

@@ -1,1 +1,1 @@
-var mnemonic = "rural lady tenant deny anchor chimney moment gorilla home nurse decide inflict";
+var mnemonic = "tobacco join truth autumn case castle globe film conduct finger goddess cram";

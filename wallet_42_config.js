@@ -1,1 +1,1 @@
-var mnemonic = "gauge kiwi plate oyster quote noodle elevator curve owner arrive truth humble";
+var mnemonic = "sea license spoon lava noise later supreme tomorrow light slender ride permit";

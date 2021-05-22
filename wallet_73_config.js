@@ -1,1 +1,1 @@
-var mnemonic = "nothing boil coyote genre era make job unique rack boy arrest pause";
+var mnemonic = "nose aware lizard soldier spare curtain mosquito quantum virus region obscure razor";

@@ -1,1 +1,1 @@
-var mnemonic = "help cherry token vintage cage barely enact ivory allow attack follow pipe";
+var mnemonic = "enforce cash cigar erase disagree copper subject item motion head theme zero";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest frown category goat very garment gift bachelor stable kitten erosion crater";
+var mnemonic = "blood switch diagram often siege eternal orange address broccoli mad present reason";

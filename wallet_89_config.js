@@ -1,1 +1,1 @@
-var mnemonic = "upon become response hurdle laptop release olympic upgrade vacant moon enlist bacon";
+var mnemonic = "million sadness thrive void pet vapor giant soft army ecology exercise abstract";

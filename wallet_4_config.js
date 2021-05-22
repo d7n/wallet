@@ -1,1 +1,1 @@
-var mnemonic = "release earth crazy result body explain coral mean warfare rubber heart undo";
+var mnemonic = "humor wave supply visa already code spend crack position option purse burger";

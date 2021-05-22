@@ -1,1 +1,1 @@
-var mnemonic = "mention tree punch mention muscle nephew arm also there egg scene jungle";
+var mnemonic = "sunset section enrich charge core reject inject combine travel beef wool chase";

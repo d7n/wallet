@@ -1,1 +1,1 @@
-var mnemonic = "rally avocado meadow indicate draw language nurse aim song market program must";
+var mnemonic = "young solve grit story forward kiwi matter kit lecture swing trend coconut";

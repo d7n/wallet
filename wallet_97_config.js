@@ -1,1 +1,1 @@
-var mnemonic = "weasel dignity antique soft ghost option shoulder screen safe reject clump tip";
+var mnemonic = "between farm ill diamond level globe hamster person foot inch forum limit";

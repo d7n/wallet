@@ -1,1 +1,1 @@
-var mnemonic = "quit image daring bone anger surge punch open impose margin blouse delay";
+var mnemonic = "mad state heart obtain evidence grace impact box thumb envelope swift page";

@@ -1,1 +1,1 @@
-var mnemonic = "any blade gospel clinic autumn neither office ill joke wink nest stem";
+var mnemonic = "window nasty defense delay public position live venture ecology deer unhappy excite";

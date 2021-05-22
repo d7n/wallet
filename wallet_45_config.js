@@ -1,1 +1,1 @@
-var mnemonic = "penalty arrive behave story absent else mouse oven weasel farm gold width";
+var mnemonic = "since below snow brief fragile huge three hazard sure impose doll they";

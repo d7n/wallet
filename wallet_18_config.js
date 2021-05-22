@@ -1,1 +1,1 @@
-var mnemonic = "leisure satisfy cart remain picture immense useful chaos lawn now thrive bike";
+var mnemonic = "fluid real fade pottery say series list hurt divorce smooth west jungle";

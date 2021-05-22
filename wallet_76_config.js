@@ -1,1 +1,1 @@
-var mnemonic = "pear engine exotic finish silver pave cup carbon popular unveil mixture reduce";
+var mnemonic = "execute post pupil among hurry cabbage dolphin salt chalk regular gloom robot";

@@ -1,1 +1,1 @@
-var mnemonic = "pass survey tide marine affair tourist crane market tomato tobacco erode flame";
+var mnemonic = "cupboard isolate check hurry thrive shadow super farm fiction repeat wide expose";

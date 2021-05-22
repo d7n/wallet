@@ -1,1 +1,1 @@
-var mnemonic = "talent atom person angle decorate december discover welcome urge panic credit idle";
+var mnemonic = "rapid economy hen barrel basic hidden chef admit include long depart melody";

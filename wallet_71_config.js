@@ -1,1 +1,1 @@
-var mnemonic = "soccer social high matrix moon advice lonely oblige craft call next rate";
+var mnemonic = "scout pyramid man olympic diamond quality spoil impose vicious give anxiety federal";

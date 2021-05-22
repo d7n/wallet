@@ -1,1 +1,1 @@
-var mnemonic = "entry people club minute negative ethics genius giraffe grid run claim battle";
+var mnemonic = "truck purpose share long warfare bamboo lunch ozone begin column question ring";

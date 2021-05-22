@@ -1,1 +1,1 @@
-var mnemonic = "enter toss chicken credit palace wheel sunset panic hotel math gentle march";
+var mnemonic = "indicate crack whale loan frog winner deliver pill dumb border math keep";

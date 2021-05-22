@@ -1,1 +1,1 @@
-var mnemonic = "junior trigger carbon problem sun armor remember retire aerobic mushroom merge clump";
+var mnemonic = "industry inform eager grocery merge human narrow quick base auction draft salad";

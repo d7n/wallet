@@ -1,1 +1,1 @@
-var mnemonic = "sentence scrub brave razor jeans beyond black sausage file tired peanut dolphin";
+var mnemonic = "term green random win coffee absent antique glove poet umbrella common affair";

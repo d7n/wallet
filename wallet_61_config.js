@@ -1,1 +1,1 @@
-var mnemonic = "bird awesome chimney lady bag stone quote skull identify pass error sure";
+var mnemonic = "hair proof street draw team initial target silent rabbit green now expect";

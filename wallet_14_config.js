@@ -1,1 +1,1 @@
-var mnemonic = "toilet insect galaxy oak arrange dice future ice sure result patrol east";
+var mnemonic = "silk kiwi know able elephant nothing champion bag silk correct logic size";

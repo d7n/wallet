@@ -1,1 +1,1 @@
-var mnemonic = "height nation material false minute fiber glide piano release engage fog busy";
+var mnemonic = "nose two tube deputy twin minimum zone slender trophy adjust clay core";

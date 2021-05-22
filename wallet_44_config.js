@@ -1,1 +1,1 @@
-var mnemonic = "wrestle ball toddler essay illegal remove bounce attitude pause moon season company";
+var mnemonic = "check work one disagree sorry oblige trophy share video spoon story apart";

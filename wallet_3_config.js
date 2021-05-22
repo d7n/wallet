@@ -1,1 +1,1 @@
-var mnemonic = "vocal transfer crater early april blue stay pave always buzz castle page";
+var mnemonic = "clip ivory fortune mixture dish spare cherry alley ancient elegant code sign";

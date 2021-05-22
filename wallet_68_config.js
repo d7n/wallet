@@ -1,1 +1,1 @@
-var mnemonic = "laundry calm talk blind foam library dune voyage horror trash electric hurt";
+var mnemonic = "element reform mango nerve doll sock obtain fatigue dirt toilet donkey swap";

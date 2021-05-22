@@ -1,1 +1,1 @@
-var mnemonic = "public elbow enact cement human vital lyrics report crucial harbor wave risk";
+var mnemonic = "deliver very ritual fun trophy resist gun lumber mirror fortune urge day";

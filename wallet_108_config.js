@@ -1,1 +1,1 @@
-var mnemonic = "clean toss forum pistol surprise endless dust trust shallow mean virtual surge";
+var mnemonic = "number win night deer mad blast winter strategy mask cube sound abuse";

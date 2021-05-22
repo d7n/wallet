@@ -1,1 +1,1 @@
-var mnemonic = "senior roast crime supreme anger wedding museum manual multiply filter rocket habit";
+var mnemonic = "twist crazy license borrow rail include fluid meat squeeze evil ill canoe";

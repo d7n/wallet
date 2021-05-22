@@ -1,1 +1,1 @@
-var mnemonic = "inherit option acoustic say mirror joke answer learn rally figure sense oxygen";
+var mnemonic = "click club remove business front potato feature rival manual trigger hat volcano";

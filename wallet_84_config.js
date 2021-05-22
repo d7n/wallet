@@ -1,1 +1,1 @@
-var mnemonic = "special virus cool maximum process smoke mixture milk during tragic debate inner";
+var mnemonic = "away mushroom doctor rubber pact left hood stable roast laundry column matrix";

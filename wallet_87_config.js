@@ -1,1 +1,1 @@
-var mnemonic = "case increase craft tone angry almost quality iron bomb rifle sun fork";
+var mnemonic = "sing panel acquire boy powder lab mountain moon neutral urge race egg";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger photo fork surprise zoo outer remove blind early notable debris search";
+var mnemonic = "distance board gadget chuckle torch client blame aware hurdle quick slender opera";

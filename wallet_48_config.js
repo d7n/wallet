@@ -1,1 +1,1 @@
-var mnemonic = "abuse bid endless right memory foil hotel exchange depend sort lens pony";
+var mnemonic = "hat then aisle teach mom spy chalk argue velvet another legend invite";

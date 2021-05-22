@@ -1,1 +1,1 @@
-var mnemonic = "ski document only menu bamboo monkey census rebuild void gown snap negative";
+var mnemonic = "noodle confirm grit wide design sunny tell pudding guilt buyer retire future";

@@ -1,1 +1,1 @@
-var mnemonic = "rail spawn busy fault erode easily vacant convince power album suit mango";
+var mnemonic = "glide now input autumn liar fit large process load chaos forest obscure";

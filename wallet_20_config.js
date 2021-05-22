@@ -1,1 +1,1 @@
-var mnemonic = "unfair off undo blue sudden early guitar double refuse catch anxiety album";
+var mnemonic = "safe cube inquiry illegal ozone beach seven detect column stick spirit sort";

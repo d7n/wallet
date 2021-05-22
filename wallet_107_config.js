@@ -1,1 +1,1 @@
-var mnemonic = "waste various style spread when into spoon dizzy march mango girl flash";
+var mnemonic = "defense female midnight figure subject tattoo eyebrow pulse grab liquid trade mountain";

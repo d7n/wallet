@@ -1,1 +1,1 @@
-var mnemonic = "summer track action task disagree someone rebel end rug bamboo ignore dirt";
+var mnemonic = "reason inform kick inform ribbon squeeze trophy acid model screen exclude breeze";

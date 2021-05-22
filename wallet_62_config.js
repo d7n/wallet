@@ -1,1 +1,1 @@
-var mnemonic = "border tell treat brick problem easy renew ride vendor stairs inherit tired";
+var mnemonic = "settle border board uniform filter because hard excuse tray honey frozen rail";

@@ -1,1 +1,1 @@
-var mnemonic = "angle clever orphan snap way spoon borrow electric debate exclude trash exact";
+var mnemonic = "fall gasp manual language shop penalty spend robust damage labor saddle next";

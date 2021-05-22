@@ -1,1 +1,1 @@
-var mnemonic = "thought salad slide caught luxury attitude demise face save coyote hamster demand";
+var mnemonic = "muscle omit middle jaguar mammal resemble hammer autumn reject nice run toilet";

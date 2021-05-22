@@ -1,1 +1,1 @@
-var mnemonic = "swamp eternal actor sketch teach matter dream easy spy crucial defense virus";
+var mnemonic = "raise upper pelican effort science gift normal cause this party grape lion";

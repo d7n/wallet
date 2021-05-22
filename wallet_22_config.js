@@ -1,1 +1,1 @@
-var mnemonic = "mention cup bind lyrics salt blur lamp phrase radar gift pioneer involve";
+var mnemonic = "glass attract front tower iron kingdom ancient hint author buffalo jar force";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist dune door very then cherry stamp blast sunset hire alert work";
+var mnemonic = "dirt panther treat pipe lemon blind tissue fault upset fat victory pipe";

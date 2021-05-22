@@ -1,1 +1,1 @@
-var mnemonic = "avoid sad burst mirror able bus apple actor rifle resource bicycle radar";
+var mnemonic = "fade poverty delay involve bag hero trap noise run borrow opera raven";

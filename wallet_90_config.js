@@ -1,1 +1,1 @@
-var mnemonic = "hurt orient door explain best castle cart antique trouble beach fatal sense";
+var mnemonic = "foot replace possible cream green peasant note pear unfold skill fall arrange";

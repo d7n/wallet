@@ -1,1 +1,1 @@
-var mnemonic = "negative typical hospital scatter dawn tunnel jewel shove arm universe bus rule";
+var mnemonic = "tissue shoot helmet arrange slogan guard artist tumble scene zero invite treat";

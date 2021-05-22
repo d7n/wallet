@@ -1,1 +1,1 @@
-var mnemonic = "wheel emerge good shuffle young large tree scale flower page brief great";
+var mnemonic = "hour keep success force buyer suggest divide tonight pledge effort donor rare";

@@ -1,1 +1,1 @@
-var mnemonic = "together detect eyebrow unusual reflect install tank umbrella style abstract immune find";
+var mnemonic = "search erupt large hello scatter remove profit put bullet afraid income favorite";

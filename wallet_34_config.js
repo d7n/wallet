@@ -1,1 +1,1 @@
-var mnemonic = "panther town goddess hedgehog arrest hospital member will annual crush reunion choose";
+var mnemonic = "right blame question angry drama limit coffee keep memory want february exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "drift fiber interest debris clap diamond ramp cargo mask exhaust drama pipe";
+var mnemonic = "apart lounge venture parade increase clay easily wedding spoil wool attract maze";

@@ -1,1 +1,1 @@
-var mnemonic = "scene metal twice try honey random wish settle clarify betray glare habit";
+var mnemonic = "sense merge jump celery crunch harsh food pottery page hub city fee";

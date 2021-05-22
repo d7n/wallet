@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cute minute domain shadow laundry silent wild wise episode earn coast";
+var mnemonic = "cinnamon over make split silk rich board mother sea skill punch lift";

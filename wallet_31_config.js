@@ -1,1 +1,1 @@
-var mnemonic = "garbage distance fire palm payment combine model cycle toddler warfare arrow tragic";
+var mnemonic = "meadow ostrich put gun target marriage faint effort cheese armed amazing very";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry opera maid vacuum keen raccoon pony morning method maze list novel";
+var mnemonic = "garden vibrant wet velvet crash tell normal whale prosper gym peasant shy";

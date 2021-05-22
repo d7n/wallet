@@ -1,1 +1,1 @@
-var mnemonic = "culture history portion throw pencil dentist owner section great promote clarify grit";
+var mnemonic = "ankle fiber fetch dice federal usage access sing guess undo little clerk";

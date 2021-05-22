@@ -1,1 +1,1 @@
-var mnemonic = "original fatigue tell captain fragile small great already among omit supply allow";
+var mnemonic = "antique art effort matrix brave volcano image zone swing blouse bachelor hello";

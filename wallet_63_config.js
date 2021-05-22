@@ -1,1 +1,1 @@
-var mnemonic = "pulp also echo world cousin same wrist enhance race magic transfer spin";
+var mnemonic = "oil quarter powder vote almost sell output bridge trumpet mushroom hockey gym";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic travel brave critic kind shiver steak lobster already eagle ski brisk";
+var mnemonic = "tattoo unhappy cage drama orient morning thumb capable build useless sadness all";

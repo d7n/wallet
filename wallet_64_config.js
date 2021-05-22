@@ -1,1 +1,1 @@
-var mnemonic = "tennis angry omit kiss rug copper student way erode kitchen fade sort";
+var mnemonic = "toilet retreat sport valid suggest better mushroom deliver sight isolate issue pet";

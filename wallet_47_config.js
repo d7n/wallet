@@ -1,1 +1,1 @@
-var mnemonic = "noble shoot myth income nose caution dirt rocket floor road upper behave";
+var mnemonic = "nurse desk planet logic combine talent empower satisfy report stool uncle river";

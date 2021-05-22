@@ -1,1 +1,1 @@
-var mnemonic = "neck amateur make illness sense point voyage slim tone success mother stuff";
+var mnemonic = "erosion shrimp blanket vapor select add goat trash shallow thunder insane cream";

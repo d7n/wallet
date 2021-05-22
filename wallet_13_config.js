@@ -1,1 +1,1 @@
-var mnemonic = "life love erupt roast arrange myself select claw hover know enrich notice";
+var mnemonic = "finger kidney toward stay excess bubble rifle sign property game hawk promote";

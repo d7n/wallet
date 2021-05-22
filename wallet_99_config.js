@@ -1,1 +1,1 @@
-var mnemonic = "switch engage juice hold advice latin news scale join best apart laptop";
+var mnemonic = "claim sibling glove symbol echo jungle glass royal grass magic hold taxi";

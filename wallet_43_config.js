@@ -1,1 +1,1 @@
-var mnemonic = "remove dad welcome skate heart patrol dove clap fantasy action music arrow";
+var mnemonic = "celery crunch canal side auto rail clean cricket civil rail nephew wrap";

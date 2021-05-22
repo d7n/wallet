@@ -1,1 +1,1 @@
-var mnemonic = "still art immune gorilla rescue flavor fatal velvet problem long civil rotate";
+var mnemonic = "fold merit motor lawn gain maze frog pig tuition hub fan replace";

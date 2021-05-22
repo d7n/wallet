@@ -1,1 +1,1 @@
-var mnemonic = "curious gift relief soccer large dignity escape photo fog taxi eternal auto";
+var mnemonic = "lottery answer someone method genius coral above dust mean joke rough season";

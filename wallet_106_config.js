@@ -1,1 +1,1 @@
-var mnemonic = "idea tornado guilt armed glow bring tired umbrella echo cost heavy grocery";
+var mnemonic = "window emerge sniff devote force today mother frozen conduct meadow matter wire";

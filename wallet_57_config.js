@@ -1,1 +1,1 @@
-var mnemonic = "shaft hedgehog scale feel that visual doctor rally grace muffin wool rose";
+var mnemonic = "tumble energy casino voyage dust income magnet display talk broken verb elephant";

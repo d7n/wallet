@@ -1,1 +1,1 @@
-var mnemonic = "useless major short like trash gun bulb save grocery syrup thought fashion";
+var mnemonic = "excess creek learn wing glad session grocery claim toddler spring digital delay";

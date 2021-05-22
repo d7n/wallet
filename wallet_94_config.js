@@ -1,1 +1,1 @@
-var mnemonic = "occur minor need auto fox elegant betray inner pumpkin buyer someone alien";
+var mnemonic = "fossil absent rival century horse below census luxury casual rather office train";

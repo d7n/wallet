@@ -1,1 +1,1 @@
-var mnemonic = "diary desk clinic wheat blouse female shuffle clarify penalty mass alpha mobile";
+var mnemonic = "okay artefact lemon sustain effort excite lock absent gauge pride secret phrase";

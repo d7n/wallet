@@ -1,1 +1,1 @@
-var mnemonic = "squirrel goddess ancient suspect banner glass harbor lumber acquire veteran crowd thrive";
+var mnemonic = "combine also tide clap reward quiz slogan air light shuffle entire jewel";

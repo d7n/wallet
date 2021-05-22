@@ -1,1 +1,1 @@
-var mnemonic = "grape hope behave pottery slow dry number fiber female slim supreme knee";
+var mnemonic = "inquiry process key tone shallow balance later kitchen verb industry churn shoulder";

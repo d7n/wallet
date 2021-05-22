@@ -1,1 +1,1 @@
-var mnemonic = "trade wheat youth medal gasp lens broom culture absorb ankle cherry palm";
+var mnemonic = "arrange struggle modify shuffle alley few spike time little clerk catalog scatter";

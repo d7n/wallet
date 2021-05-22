@@ -1,1 +1,1 @@
-var mnemonic = "embark pet void crucial clinic civil infant conduct move meadow prize divorce";
+var mnemonic = "roast dish wedding heart vapor bind capital toward eyebrow decide student rural";

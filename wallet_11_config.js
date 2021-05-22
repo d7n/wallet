@@ -1,1 +1,1 @@
-var mnemonic = "green photo trap orange mad industry day oblige canyon pulp plastic ridge";
+var mnemonic = "evil hen grab above vague social use urge rally soldier either sing";

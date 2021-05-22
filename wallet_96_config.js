@@ -1,1 +1,1 @@
-var mnemonic = "history neck inmate empower matter giraffe buddy rally meat spread joy mixed";
+var mnemonic = "wear between dream try maple sock task verify lobster person material rent";

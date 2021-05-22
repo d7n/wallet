@@ -1,1 +1,1 @@
-var mnemonic = "maple fruit fragile rapid burger net below youth rebel chicken chair never";
+var mnemonic = "success section frame solve large urban derive puppy inquiry appear ring tumble";

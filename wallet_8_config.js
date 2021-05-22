@@ -1,1 +1,1 @@
-var mnemonic = "sad question burst list present scrub latin tray wash develop invite silly";
+var mnemonic = "buzz seat segment bleak desk volume sauce nuclear quote market glue chair";

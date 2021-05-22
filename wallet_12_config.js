@@ -1,1 +1,1 @@
-var mnemonic = "salt guard boy toss yard dutch vital citizen balcony cart amused ability";
+var mnemonic = "harbor vessel split ecology great powder retire salon prefer dynamic essence often";

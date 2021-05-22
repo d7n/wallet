@@ -1,1 +1,1 @@
-var mnemonic = "report clutch bone wet fall inspire type skate squirrel dance couple avoid";
+var mnemonic = "giraffe search provide fuel swallow century fluid opinion toy guess permit shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "salute chase check group favorite chuckle just traffic sock cost potato cube";
+var mnemonic = "debate parrot crash broccoli fog drama slogan vault suspect level omit much";

@@ -1,1 +1,1 @@
-var mnemonic = "canal vanish drive inner convince second today beef sponsor bleak sauce minute";
+var mnemonic = "twin tragic squeeze put head pause choice short review object syrup turkey";

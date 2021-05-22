@@ -1,1 +1,1 @@
-var mnemonic = "move quit early hello wrist cabbage city piano magnet neutral clap tiny";
+var mnemonic = "shallow report spoil armor ankle inherit upper candy cover boring opinion soldier";

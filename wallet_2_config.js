@@ -1,1 +1,1 @@
-var mnemonic = "valley witness wood remind squeeze dilemma inner safe pave trial merge bacon";
+var mnemonic = "tenant feed fringe razor mutual that describe avoid tonight bacon initial galaxy";

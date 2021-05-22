@@ -1,1 +1,1 @@
-var mnemonic = "stool crack slab subway dolphin service course height gossip undo rail twin";
+var mnemonic = "click people fetch say obey reveal fruit boil guide basket water dinosaur";
