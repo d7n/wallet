@@ -1,1 +1,1 @@
-var mnemonic = "panic foam skirt muffin model panic luxury half spread awesome flush neck";
+var mnemonic = "dish zebra capital mouse illness brick organ balance wheel chair style forum";

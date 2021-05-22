@@ -1,1 +1,1 @@
-var mnemonic = "pig village blossom grape liberty ill tube impose panda bench wolf uncover";
+var mnemonic = "useful sunny cheap artefact fire exotic crater become expose visit excess same";

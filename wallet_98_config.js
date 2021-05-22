@@ -1,1 +1,1 @@
-var mnemonic = "furnace breeze hurt blade silver version job fame festival hamster page dial";
+var mnemonic = "noble father million kite position lady spy affair elite object agree lunar";

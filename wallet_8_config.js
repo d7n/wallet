@@ -1,1 +1,1 @@
-var mnemonic = "bulk fresh first half sign token hand heart reject differ tiger soda";
+var mnemonic = "glory rookie home clog daughter track gaze edit outer learn diagram gloom";

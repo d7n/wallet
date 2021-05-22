@@ -1,1 +1,1 @@
-var mnemonic = "cactus pepper mechanic forum brand type pelican limb gauge lamp train trouble";
+var mnemonic = "enforce decade battle hard subway garbage flower front copper grass hurt vital";

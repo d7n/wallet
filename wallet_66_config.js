@@ -1,1 +1,1 @@
-var mnemonic = "swap arctic margin country wall rabbit winter corn pigeon hard decade vibrant";
+var mnemonic = "insane feed health dance outdoor flee ozone asthma jelly cram web eyebrow";

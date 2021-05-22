@@ -1,1 +1,1 @@
-var mnemonic = "tag crumble draw spice draw spray legal ecology wrong stock hotel chimney";
+var mnemonic = "catch fatal diamond turtle next usual rally fever stairs together harvest head";

@@ -1,1 +1,1 @@
-var mnemonic = "coast enter hungry cook brave method ghost burger biology danger permit tackle";
+var mnemonic = "know animal guard idea dose hidden biology praise group actress luggage machine";

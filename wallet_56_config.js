@@ -1,1 +1,1 @@
-var mnemonic = "affair lion potato excuse flower ribbon depart denial snow ahead gaze clap";
+var mnemonic = "switch sign paper conduct afraid hand heavy labor lobster speed mobile check";

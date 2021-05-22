@@ -1,1 +1,1 @@
-var mnemonic = "two dawn kite swap suspect chase health ethics machine loud accuse cave";
+var mnemonic = "amazing throw hollow erupt vacuum mistake next smooth book hurdle motor collect";

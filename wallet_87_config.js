@@ -1,1 +1,1 @@
-var mnemonic = "crack chase auction hotel fox open detail ahead question sausage story topic";
+var mnemonic = "youth test rough antique staff penalty elite allow favorite area evoke devote";

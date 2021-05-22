@@ -1,1 +1,1 @@
-var mnemonic = "federal shoe slush old unique already audit jaguar recall basic mutual purchase";
+var mnemonic = "slam love captain detail north feature correct rather apology tray misery heart";

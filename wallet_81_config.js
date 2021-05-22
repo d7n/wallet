@@ -1,1 +1,1 @@
-var mnemonic = "soldier gravity purchase small between fat breeze rely club globe brand winner";
+var mnemonic = "utility region hobby credit glow draw lonely finger album recipe book bid";

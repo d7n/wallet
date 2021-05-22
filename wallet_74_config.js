@@ -1,1 +1,1 @@
-var mnemonic = "around trip bitter satisfy tower regular play choose joke gravity audit report";
+var mnemonic = "stay hazard forest offer mango blame priority crew security screen torch ripple";

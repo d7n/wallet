@@ -1,1 +1,1 @@
-var mnemonic = "relax accident slogan rate host wedding board unit pony one coffee okay";
+var mnemonic = "rifle tip error range pistol robot when size allow improve excess puzzle";

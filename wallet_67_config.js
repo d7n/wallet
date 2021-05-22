@@ -1,1 +1,1 @@
-var mnemonic = "question school embrace quality position settle deal combine decorate mix reflect clean";
+var mnemonic = "tide time column stool below neglect today length jelly leave advice simple";

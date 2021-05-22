@@ -1,1 +1,1 @@
-var mnemonic = "estate wear toy detect police suit silly naive license major speed salmon";
+var mnemonic = "pulse inner autumn method prosper exile review job ahead any main panda";

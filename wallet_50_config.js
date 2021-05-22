@@ -1,1 +1,1 @@
-var mnemonic = "segment never helmet inquiry catalog remain budget neither orbit echo pitch rather";
+var mnemonic = "entry father wage hole science program poem robot dolphin lift attitude arrange";

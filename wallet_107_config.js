@@ -1,1 +1,1 @@
-var mnemonic = "sort demand profit race crash purchase pilot famous any then brass window";
+var mnemonic = "skirt teach aerobic decline cancel winter desert oblige captain guard journey actual";

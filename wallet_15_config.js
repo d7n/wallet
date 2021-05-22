@@ -1,1 +1,1 @@
-var mnemonic = "melody pilot wrist weather three depth universe frozen cupboard rural jealous stage";
+var mnemonic = "offer pelican adapt company afford brass foster tenant ridge embrace faith clean";

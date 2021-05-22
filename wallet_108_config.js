@@ -1,1 +1,1 @@
-var mnemonic = "genre pioneer truth wolf taxi blanket jungle deliver silk whisper spot saddle";
+var mnemonic = "bid convince sock achieve foot doctor goddess diary never emotion resist jazz";

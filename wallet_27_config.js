@@ -1,1 +1,1 @@
-var mnemonic = "million broccoli reward finger object stove release saddle wisdom owner sleep river";
+var mnemonic = "series siege narrow machine above lunar walnut attack honey throw swim moon";

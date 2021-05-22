@@ -1,1 +1,1 @@
-var mnemonic = "slow fox outdoor claw cycle essence remind fiction reflect decade eight grunt";
+var mnemonic = "finger position evolve eager lobster black kitten rural harbor copy tooth rural";

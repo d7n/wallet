@@ -1,1 +1,1 @@
-var mnemonic = "economy supreme advice buyer elephant father treat snap wagon cage bronze deny";
+var mnemonic = "absurd there differ spawn decline invite pill cage bar glove essay pond";

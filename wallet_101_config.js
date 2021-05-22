@@ -1,1 +1,1 @@
-var mnemonic = "decrease maid unusual ability soon wife public fantasy music buzz sunny dizzy";
+var mnemonic = "choose cage milk plate else concert dry casino salt trend sibling patrol";

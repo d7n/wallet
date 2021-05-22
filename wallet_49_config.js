@@ -1,1 +1,1 @@
-var mnemonic = "omit used pull twist donkey smile hamster maximum clog slam section nation";
+var mnemonic = "doctor approve repeat ability cake audit goddess enforce gold firm daring result";

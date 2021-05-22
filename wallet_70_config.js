@@ -1,1 +1,1 @@
-var mnemonic = "perfect like board job toe demise raccoon open modify term fog title";
+var mnemonic = "south walnut learn fan usage today type random session remind ribbon true";

@@ -1,1 +1,1 @@
-var mnemonic = "hero bright bargain piece lady evidence resemble tuition ketchup fence rapid very";
+var mnemonic = "key valley sport clump glide rule street source maze wrap pave donor";

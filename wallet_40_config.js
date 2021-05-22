@@ -1,1 +1,1 @@
-var mnemonic = "project manual purse blush capital tip organ wisdom tray member parent shell";
+var mnemonic = "kiss shy dizzy sell obscure wrist gain crisp casual ill pond ranch";

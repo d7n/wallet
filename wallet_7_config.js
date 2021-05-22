@@ -1,1 +1,1 @@
-var mnemonic = "artist slam stool eternal direct boat farm candy maple glimpse century cake";
+var mnemonic = "move crop fee trend kite crack gap patrol enact diary music cement";

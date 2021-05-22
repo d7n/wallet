@@ -1,1 +1,1 @@
-var mnemonic = "relax cave pill attend write pottery expire dice indoor shoe purchase gaze";
+var mnemonic = "illegal fade benefit saddle crawl trouble share noodle client inhale outdoor van";

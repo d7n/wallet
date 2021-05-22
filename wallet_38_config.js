@@ -1,1 +1,1 @@
-var mnemonic = "organ aunt soup obvious sick van injury mansion cruel tower yellow home";
+var mnemonic = "eight jeans share glimpse grief sausage believe process home meat push runway";

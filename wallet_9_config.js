@@ -1,1 +1,1 @@
-var mnemonic = "relax image help file coffee parent tuna cherry planet between father panther";
+var mnemonic = "twelve clarify taste elbow also appear execute skull crime nephew sport charge";

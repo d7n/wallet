@@ -1,1 +1,1 @@
-var mnemonic = "evoke length ugly develop private cricket egg priority tuna wrestle patch false";
+var mnemonic = "plate banana digital dragon quality real start discover dragon general enrich patrol";

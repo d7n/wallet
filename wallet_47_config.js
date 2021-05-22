@@ -1,1 +1,1 @@
-var mnemonic = "rotate stamp inherit outdoor waste label mom inherit raise club check believe";
+var mnemonic = "dog cloud light dice grief ball bundle chalk model leader shy now";

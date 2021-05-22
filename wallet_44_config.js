@@ -1,1 +1,1 @@
-var mnemonic = "name when spike people minor enforce clever enroll squirrel size jaguar change";
+var mnemonic = "grief heavy feed void there elite vacant apart benefit breeze coin history";

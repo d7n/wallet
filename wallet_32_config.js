@@ -1,1 +1,1 @@
-var mnemonic = "awful execute verb wagon food era skull choice grit notice patrol work";
+var mnemonic = "fire best virtual dismiss region garment road ordinary trash smoke problem favorite";

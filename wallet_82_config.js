@@ -1,1 +1,1 @@
-var mnemonic = "oven physical general stool basket report mandate concert tumble draft pipe alarm";
+var mnemonic = "crew witness document whale stable embrace critic roast hub waste quantum visa";

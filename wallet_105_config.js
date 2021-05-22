@@ -1,1 +1,1 @@
-var mnemonic = "weasel ocean tribe age output cost great wink analyst dinner property arena";
+var mnemonic = "twin gesture update oxygen cradle glide install door girl lift bench nerve";

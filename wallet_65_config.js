@@ -1,1 +1,1 @@
-var mnemonic = "impact knee warm theme maple candy slice task candy upon rotate ribbon";
+var mnemonic = "crisp gain morning news misery soon candy history enable record doctor story";

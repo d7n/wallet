@@ -1,1 +1,1 @@
-var mnemonic = "hotel join dolphin laptop wage rapid play blind current calm staff clerk";
+var mnemonic = "sting next happy task nuclear library peace earn trumpet moon unveil welcome";

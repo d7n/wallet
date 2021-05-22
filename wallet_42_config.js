@@ -1,1 +1,1 @@
-var mnemonic = "below reward gate airport surface consider alarm entry swamp tape stumble option";
+var mnemonic = "flame tired dose return river birth shy tape topple link buddy tent";

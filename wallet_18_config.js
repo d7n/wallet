@@ -1,1 +1,1 @@
-var mnemonic = "scale staff life night dice total pulp funny blade genre deal kid";
+var mnemonic = "scare more into join catalog two black proof spin profit security churn";

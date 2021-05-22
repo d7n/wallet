@@ -1,1 +1,1 @@
-var mnemonic = "napkin hospital expire village photo harsh shaft promote cluster trip police charge";
+var mnemonic = "skate brain super social plunge fix fame seek bread forward sketch parrot";

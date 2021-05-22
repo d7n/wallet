@@ -1,1 +1,1 @@
-var mnemonic = "survey silk arrange chapter mutual beef donate monitor van doctor virus reward";
+var mnemonic = "now twice advice poet whale sustain photo time casual story save negative";

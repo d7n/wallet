@@ -1,1 +1,1 @@
-var mnemonic = "gauge embrace guitar maze behind panda flavor turkey globe wheel unhappy enemy";
+var mnemonic = "obscure sketch legend stone spend stove bless debris lucky recall ride chimney";

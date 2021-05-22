@@ -1,1 +1,1 @@
-var mnemonic = "method kid gadget already where happy require upper bless mystery violin release";
+var mnemonic = "party leader paddle fatigue absent tribe dice weather photo vapor merry cement";

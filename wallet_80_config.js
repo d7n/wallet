@@ -1,1 +1,1 @@
-var mnemonic = "trial top abstract crew rally large honey claw chronic scatter tail hawk";
+var mnemonic = "napkin nasty pattern honey target dream major remove energy slot defy cluster";

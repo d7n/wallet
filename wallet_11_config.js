@@ -1,1 +1,1 @@
-var mnemonic = "join lend media bike music mango skill nice safe obvious winter wide";
+var mnemonic = "measure dog fog enact convince dwarf bronze spread endorse reform book faculty";

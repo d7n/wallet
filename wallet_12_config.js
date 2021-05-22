@@ -1,1 +1,1 @@
-var mnemonic = "prosper news unhappy layer gallery virus canvas second worry slow jewel oxygen";
+var mnemonic = "gloom festival buyer festival joy pig arm option hero defense airport lab";

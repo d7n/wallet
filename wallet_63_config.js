@@ -1,1 +1,1 @@
-var mnemonic = "runway cross sock boil hope enforce letter pact result park morning burst";
+var mnemonic = "erosion organ luggage loyal armor defense arm mirror dance regret ordinary ring";

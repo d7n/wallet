@@ -1,1 +1,1 @@
-var mnemonic = "license empower limit woman false thunder consider tomato question upon pelican favorite";
+var mnemonic = "detail enjoy riot group enforce guess juice bomb speed kitchen lawsuit yard";

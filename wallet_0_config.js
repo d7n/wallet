@@ -1,1 +1,1 @@
-var mnemonic = "correct betray spawn pipe roof shuffle school member tuna blur net bread";
+var mnemonic = "october express stand can afraid shallow violin fortune lawsuit window hint hello";

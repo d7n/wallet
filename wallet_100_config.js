@@ -1,1 +1,1 @@
-var mnemonic = "employ donate immune sustain taxi decade olive subway tennis tired circle velvet";
+var mnemonic = "egg pelican must pulp climb broccoli menu grace found alter purity pitch";

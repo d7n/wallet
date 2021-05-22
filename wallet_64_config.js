@@ -1,1 +1,1 @@
-var mnemonic = "old guitar grace tuna season human wing guitar abstract chalk stereo resource";
+var mnemonic = "bind hundred result primary snake topple target ability various suspect come mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "talk document method summer rebel token cabin first useful horse volume enter";
+var mnemonic = "bind umbrella youth play bean glide palace acquire slogan direct tired snake";

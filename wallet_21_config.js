@@ -1,1 +1,1 @@
-var mnemonic = "summer depart time pottery wear develop parent gas swamp plate quick virtual";
+var mnemonic = "dignity victory elegant minute walk stand table wool load helmet arrive sphere";

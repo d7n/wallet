@@ -1,1 +1,1 @@
-var mnemonic = "swap equip vehicle smooth myth cry simple sugar donate rice smooth width";
+var mnemonic = "invest silk lift glove acid describe alpha search hidden puppy shy lend";

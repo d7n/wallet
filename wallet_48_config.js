@@ -1,1 +1,1 @@
-var mnemonic = "merge quick humble click word spice enact axis six deny hockey umbrella";
+var mnemonic = "margin morning year monkey catalog report vivid early sign off express deny";

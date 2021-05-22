@@ -1,1 +1,1 @@
-var mnemonic = "pilot sketch outdoor bike ancient diagram zero fish favorite phone educate surge";
+var mnemonic = "provide skull before moral fuel moment hunt cool kit pink retreat critic";

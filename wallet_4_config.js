@@ -1,1 +1,1 @@
-var mnemonic = "open joy crater often until sorry asthma vehicle snake siege tenant bright";
+var mnemonic = "glow assault turn season hollow hurt cotton result uphold coyote soap evolve";

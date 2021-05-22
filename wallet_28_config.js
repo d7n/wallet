@@ -1,1 +1,1 @@
-var mnemonic = "fly forum poem frozen double scale sight bitter lunar inject auto chalk";
+var mnemonic = "smooth spot adult upgrade clog people quick main claim success victory pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "slim accuse keen age fault demand weird slice screen hood basic right";
+var mnemonic = "rapid much peasant comfort tonight trend exclude spell clip gospel potato bacon";

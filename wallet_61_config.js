@@ -1,1 +1,1 @@
-var mnemonic = "now lesson degree outdoor conduct ice material whip goat monster wine holiday";
+var mnemonic = "border quick relief tissue knee canoe latin fancy entry infant stand thought";

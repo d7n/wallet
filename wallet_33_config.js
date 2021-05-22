@@ -1,1 +1,1 @@
-var mnemonic = "film shuffle bulk muscle trim inject garden again another family snap cup";
+var mnemonic = "fruit utility clog slow scrap until debate warm tortoise unlock harsh six";

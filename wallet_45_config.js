@@ -1,1 +1,1 @@
-var mnemonic = "sample first okay humor engine midnight cherry air spare moon wire judge";
+var mnemonic = "sugar tank scatter solar rookie hover engine slab yard brief vault gate";

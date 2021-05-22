@@ -1,1 +1,1 @@
-var mnemonic = "frequent assault spray engine rare brisk embody lyrics essay woman bamboo blue";
+var mnemonic = "pear check swamp dress discover desert evolve gospel across nation army brand";

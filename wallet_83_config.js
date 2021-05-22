@@ -1,1 +1,1 @@
-var mnemonic = "section boil detail judge erode jazz stuff fetch pipe order exhibit tool";
+var mnemonic = "window habit grow chronic autumn social river pipe exhibit crop organ raccoon";

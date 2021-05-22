@@ -1,1 +1,1 @@
-var mnemonic = "actor barely error scorpion swim bonus master one move entire gentle emerge";
+var mnemonic = "mechanic inform vicious envelope slow dismiss logic someone cute state birth pilot";

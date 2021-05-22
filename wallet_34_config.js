@@ -1,1 +1,1 @@
-var mnemonic = "love beach section exact salmon asset bleak flag reward three brand woman";
+var mnemonic = "nose quantum spell flight vapor smoke stick edge repair party father explain";

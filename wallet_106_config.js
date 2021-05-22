@@ -1,1 +1,1 @@
-var mnemonic = "nest fashion bamboo squeeze water observe phone phrase celery truth bounce coral";
+var mnemonic = "stable room lava narrow unaware unaware mercy caught puzzle surprise license cheese";

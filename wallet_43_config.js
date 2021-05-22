@@ -1,1 +1,1 @@
-var mnemonic = "shrug alone letter install enlist ritual wisdom voice either invest adjust science";
+var mnemonic = "today capital churn address practice airport hat clump next cabin gentle prosper";

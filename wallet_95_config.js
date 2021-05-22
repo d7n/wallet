@@ -1,1 +1,1 @@
-var mnemonic = "scout business target husband extend trial exotic effort bag junk armor turn";
+var mnemonic = "trap roof style depart comic opinion combine crunch thumb order potato pumpkin";

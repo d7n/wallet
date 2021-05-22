@@ -1,1 +1,1 @@
-var mnemonic = "sight bag act below stone mask feel trap sail tone gold file";
+var mnemonic = "depart demise benefit sugar benefit trend debris insect embrace utility main awesome";

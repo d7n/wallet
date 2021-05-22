@@ -1,1 +1,1 @@
-var mnemonic = "crazy need giant bleak hundred review tongue glass subway various title cabin";
+var mnemonic = "believe leg sing false turkey only apology panel will kick apple talk";

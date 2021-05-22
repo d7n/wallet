@@ -1,1 +1,1 @@
-var mnemonic = "slight car negative vehicle enough spider tower indicate planet ribbon regular transfer";
+var mnemonic = "glimpse blur humble maximum more praise tourist drift issue paper improve purse";

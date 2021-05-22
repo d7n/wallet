@@ -1,1 +1,1 @@
-var mnemonic = "sustain gravity cry cake gesture office humor select provide slender issue during";
+var mnemonic = "brand name guitar plug tomorrow kingdom universe enjoy pass kiwi artist camp";

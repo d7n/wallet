@@ -1,1 +1,1 @@
-var mnemonic = "version nurse session switch rent mom pole winner unknown reward various symptom";
+var mnemonic = "desk artefact polar husband cushion ripple dumb advice doctor later lawn crack";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear kind green negative inside explain laundry trip wear avoid excite diary";
+var mnemonic = "autumn brass violin flip dose snack cancel gap reform tonight code book";

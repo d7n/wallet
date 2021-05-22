@@ -1,1 +1,1 @@
-var mnemonic = "dignity clutch pepper laptop minute lecture time else amazing damage this elder";
+var mnemonic = "elder cabin annual movie mosquito candy abstract spoil mass vehicle unhappy miracle";

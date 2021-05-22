@@ -1,1 +1,1 @@
-var mnemonic = "clever unit smooth spy chef wire shield debate learn cattle attack frozen";
+var mnemonic = "surface banner cube sustain cotton brisk tenant beach fun renew web bargain";

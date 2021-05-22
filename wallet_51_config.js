@@ -1,1 +1,1 @@
-var mnemonic = "stomach doll tribe arch hungry spike blood spawn spot father hint warfare";
+var mnemonic = "water pipe wave bomb frown bachelor pencil hire enhance chapter extend hockey";

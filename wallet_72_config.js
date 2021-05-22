@@ -1,1 +1,1 @@
-var mnemonic = "tag episode hold universe feel cable junior because spot bright benefit steel";
+var mnemonic = "audit catch enrich asset slogan marble what empty crouch target inhale oak";

@@ -1,1 +1,1 @@
-var mnemonic = "track small wrist minute wire aim essay glide can route forum can";
+var mnemonic = "beef quality away define island culture rally giant decrease slim dwarf return";

@@ -1,1 +1,1 @@
-var mnemonic = "pen arrange carry exact force capable six brand safe letter minimum post";
+var mnemonic = "engine plate height antenna mad moment what broom twist sausage cave float";

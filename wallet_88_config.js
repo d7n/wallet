@@ -1,1 +1,1 @@
-var mnemonic = "secret spoon shallow drive regret gossip pause win settle trip rib brush";
+var mnemonic = "actress click adjust romance solution stock time other turn lobster organ order";

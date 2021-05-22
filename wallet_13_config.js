@@ -1,1 +1,1 @@
-var mnemonic = "win charge cricket palm blind disorder wink apple fever logic sugar female";
+var mnemonic = "erupt horse tired supply candy joke horse bird dwarf develop budget liar";

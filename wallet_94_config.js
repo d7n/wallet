@@ -1,1 +1,1 @@
-var mnemonic = "hundred knee energy acoustic picnic marine cigar frown question alpha awful mango";
+var mnemonic = "whale kid lift pumpkin input elephant also photo supreme little result inquiry";

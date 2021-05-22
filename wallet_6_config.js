@@ -1,1 +1,1 @@
-var mnemonic = "ill state midnight cluster ordinary expect motion skate lunch crouch pen weapon";
+var mnemonic = "canvas curve deny citizen because bean panel connect strong split artefact tragic";

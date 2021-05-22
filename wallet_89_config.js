@@ -1,1 +1,1 @@
-var mnemonic = "orchard flush observe crew hill gap harvest wrap sorry luggage traffic cactus";
+var mnemonic = "vehicle shoe list shine news elevator north excite spy festival inform staff";

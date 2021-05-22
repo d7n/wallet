@@ -1,1 +1,1 @@
-var mnemonic = "paddle sleep mutual border west total win angry brain teach piano ankle";
+var mnemonic = "blood sentence digital gold order biology hammer negative elite north unknown glad";
