@@ -1,1 +1,1 @@
-var mnemonic = "still margin sense horse ensure high trumpet vital peanut license man baby";
+var mnemonic = "worry alone glad cool blue patch globe first horror rude panther expire";

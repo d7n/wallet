@@ -1,1 +1,1 @@
-var mnemonic = "champion improve urge ceiling must wave blue oblige modify receive seek fiction";
+var mnemonic = "foam oven easily vacuum history can collect heart timber because minute discover";

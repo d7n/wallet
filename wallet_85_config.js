@@ -1,1 +1,1 @@
-var mnemonic = "walk thought blade index assault blind gaze burger text country hire virtual";
+var mnemonic = "oil develop expect bamboo early when penalty cradle fault cover usual auction";

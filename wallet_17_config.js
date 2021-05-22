@@ -1,1 +1,1 @@
-var mnemonic = "force primary cart parrot false room nest during flight history chunk jelly";
+var mnemonic = "lamp canvas horse tomato vehicle help over shoot bonus airport recycle parent";

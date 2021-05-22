@@ -1,1 +1,1 @@
-var mnemonic = "pepper eagle argue super body fresh cluster action day slow together desert";
+var mnemonic = "language net venue disease plate pencil pave sibling need hunt direct swim";

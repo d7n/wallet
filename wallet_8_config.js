@@ -1,1 +1,1 @@
-var mnemonic = "fun peasant blame laundry depart clock insane bacon blame tail cable tube";
+var mnemonic = "skate spray flight lottery share dinner gadget winter ivory moment chair walk";

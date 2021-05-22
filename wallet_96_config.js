@@ -1,1 +1,1 @@
-var mnemonic = "radio nest box exhibit quit trip inform blue leisure sail result exotic";
+var mnemonic = "seek frog push metal castle say water benefit example auto turkey resource";

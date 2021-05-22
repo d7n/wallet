@@ -1,1 +1,1 @@
-var mnemonic = "brave hedgehog holiday present label joy cigar syrup talent dad sound major";
+var mnemonic = "fiber drop alert play arrive embody fiction switch silent bottom between increase";

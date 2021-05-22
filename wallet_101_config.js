@@ -1,1 +1,1 @@
-var mnemonic = "avoid return chat reunion marine social enrich tail below discover easily hood";
+var mnemonic = "meadow runway panic idea consider actual festival kangaroo agree grit wool payment";

@@ -1,1 +1,1 @@
-var mnemonic = "shy farm now among banner moment fluid lazy hedgehog smoke diesel lawn";
+var mnemonic = "patient barrel gown gloom air mutual pattern apart amused consider oxygen spell";

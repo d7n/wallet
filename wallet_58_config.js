@@ -1,1 +1,1 @@
-var mnemonic = "engage kind urge sock consider liquid near garlic fortune chimney unit goat";
+var mnemonic = "sad betray absent certain melody vicious truly honey man hip joke mystery";

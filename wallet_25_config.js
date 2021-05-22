@@ -1,1 +1,1 @@
-var mnemonic = "this effort broken local evidence envelope pass hybrid arena patient nature fit";
+var mnemonic = "bitter salad over smooth today matter sword twin repair ridge spend gym";

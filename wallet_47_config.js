@@ -1,1 +1,1 @@
-var mnemonic = "captain rubber coin child size journey amused harsh pizza obtain kit stomach";
+var mnemonic = "olympic that vivid humble bid liberty volcano enroll kangaroo sketch knife genuine";

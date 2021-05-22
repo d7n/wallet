@@ -1,1 +1,1 @@
-var mnemonic = "trigger bus smooth awkward text arch midnight cigar venture myself pact lunch";
+var mnemonic = "afford anchor oyster park melody cargo surprise midnight relax put act advance";

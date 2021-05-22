@@ -1,1 +1,1 @@
-var mnemonic = "ozone steel daring legend connect custom dwarf inhale tongue pulse walk sense";
+var mnemonic = "fashion pig smoke about second canvas loyal outer umbrella anxiety pattern evolve";

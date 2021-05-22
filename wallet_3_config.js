@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit ready road capital strong term remove robust absurd donor drum typical";
+var mnemonic = "obtain aim tilt claim drama process obvious raccoon state donate describe much";

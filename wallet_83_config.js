@@ -1,1 +1,1 @@
-var mnemonic = "okay dune above rug source second pledge filter fatigue festival toast engine";
+var mnemonic = "assume peace midnight insane deny high calm super ritual bind adjust shrimp";

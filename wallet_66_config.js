@@ -1,1 +1,1 @@
-var mnemonic = "idea unit differ purity soccer copper tunnel wall lock walnut match run";
+var mnemonic = "animal amazing yellow certain force library parrot imitate wear abuse enough great";

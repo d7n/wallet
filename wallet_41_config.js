@@ -1,1 +1,1 @@
-var mnemonic = "awake tag sunset panel busy eight sadness luggage hard antique clarify sketch";
+var mnemonic = "wrist shaft spread lion dose antenna depth future praise pond cruise earth";

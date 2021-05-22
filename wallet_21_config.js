@@ -1,1 +1,1 @@
-var mnemonic = "tool trend foot stumble athlete capable close link train easy slight park";
+var mnemonic = "toward merit piece path solid ball borrow burger belt plunge bread umbrella";

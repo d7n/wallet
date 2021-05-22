@@ -1,1 +1,1 @@
-var mnemonic = "typical cross turkey pig want track illness inject liquid pretty return domain";
+var mnemonic = "squirrel plate camera gentle text act key uncover gift surge vivid nature";

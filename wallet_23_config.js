@@ -1,1 +1,1 @@
-var mnemonic = "oppose survey morning strike explain want wisdom junk sudden employ child kitchen";
+var mnemonic = "prize repair sword short heart action myth photo drop trust vital dune";

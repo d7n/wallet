@@ -1,1 +1,1 @@
-var mnemonic = "goddess foil solution push limit drill shaft base soda shoe jealous axis";
+var mnemonic = "mystery cannon will fall amount shaft aunt elite swift panic ball kitchen";

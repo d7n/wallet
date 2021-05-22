@@ -1,1 +1,1 @@
-var mnemonic = "bright enact decade seven right chicken join sand cash rapid bike west";
+var mnemonic = "hidden celery decline monitor south marriage shine broccoli mosquito onion sure custom";

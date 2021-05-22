@@ -1,1 +1,1 @@
-var mnemonic = "bridge reason embrace shuffle toe bid bitter little reform scout usual arm";
+var mnemonic = "habit early wife garage hat immense chaos curtain cart mushroom asset kitchen";

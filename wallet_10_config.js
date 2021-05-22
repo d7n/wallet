@@ -1,1 +1,1 @@
-var mnemonic = "disorder patient praise shove pony bus muscle pupil raise give list tattoo";
+var mnemonic = "fix can ladder cradle give hammer black catalog thought annual crush rhythm";

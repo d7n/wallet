@@ -1,1 +1,1 @@
-var mnemonic = "pond banner pudding sauce enforce drive north injury fit insect dragon mesh";
+var mnemonic = "border garbage lawn umbrella chimney cattle wear rival library demand club hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "basic dizzy anchor nominee wink tomorrow usual sentence lawsuit minute wing blind";
+var mnemonic = "ceiling increase shell fence output beyond soccer arch plunge arctic anxiety bench";

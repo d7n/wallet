@@ -1,1 +1,1 @@
-var mnemonic = "wood select diesel rent blossom fox silk model legal absurd insane enact";
+var mnemonic = "stock all stick mask coast sustain bacon oak gospel uniform kiwi victory";

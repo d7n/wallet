@@ -1,1 +1,1 @@
-var mnemonic = "explain top nose inspire tip brass coin ripple hidden fetch bomb coach";
+var mnemonic = "audit chimney math obtain custom medal region flat logic power enforce submit";

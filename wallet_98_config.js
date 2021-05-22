@@ -1,1 +1,1 @@
-var mnemonic = "sausage talent siren chuckle express document sense someone warrior output tilt comic";
+var mnemonic = "host faculty million program major pig wonder bronze more forum peasant tide";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony thing injury kiwi fragile boss object scheme crime genuine enter whisper";
+var mnemonic = "link twenty dilemma clock ship ignore lunch alpha rally fatal ritual alarm";

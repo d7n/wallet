@@ -1,1 +1,1 @@
-var mnemonic = "purity wait august embody innocent cupboard sting buyer hurry best farm warfare";
+var mnemonic = "umbrella artist gather pilot clap together term movie sniff lottery fire foam";

@@ -1,1 +1,1 @@
-var mnemonic = "between ozone chronic net supreme quantum oil broom admit couch police law";
+var mnemonic = "pride screen clean punch grace around tumble record case crowd inherit road";

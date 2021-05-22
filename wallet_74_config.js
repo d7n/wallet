@@ -1,1 +1,1 @@
-var mnemonic = "similar help rebuild economy other capital puppy document eagle special copper artwork";
+var mnemonic = "state satisfy decorate occur hybrid immune never record guilt rapid feature dynamic";

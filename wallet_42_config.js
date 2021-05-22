@@ -1,1 +1,1 @@
-var mnemonic = "trip bid real gentle rate decide boat guide wage essay gravity skull";
+var mnemonic = "shock people brick brave menu siege local act word fiber supreme tiger";

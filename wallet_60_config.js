@@ -1,1 +1,1 @@
-var mnemonic = "quote lounge must beach apology indoor ticket wild planet scan credit weasel";
+var mnemonic = "topple border steel jelly grape amused dolphin elite trial thunder fit mechanic";

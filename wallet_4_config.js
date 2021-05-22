@@ -1,1 +1,1 @@
-var mnemonic = "cube gospel tackle picnic rate gap mix hunt bird sniff rival domain";
+var mnemonic = "eager until monster great turtle moment begin march beach laugh rookie prefer";

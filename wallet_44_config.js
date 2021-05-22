@@ -1,1 +1,1 @@
-var mnemonic = "erosion habit gravity apology dice dog wheat design collect toilet culture crouch";
+var mnemonic = "normal unveil waste call rely bless joke deny enough case large original";

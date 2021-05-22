@@ -1,1 +1,1 @@
-var mnemonic = "whip grass execute peasant hint quarter cabbage brief hospital occur open shove";
+var mnemonic = "face wonder family agent giant search clever pattern frown wise seed rigid";

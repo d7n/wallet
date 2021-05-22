@@ -1,1 +1,1 @@
-var mnemonic = "shell pole cube mountain mesh snap during cattle round crunch rib reveal";
+var mnemonic = "swallow decline captain axis cake recycle miss expose ceiling north ivory common";

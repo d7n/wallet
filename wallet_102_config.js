@@ -1,1 +1,1 @@
-var mnemonic = "wool spot innocent narrow blanket lens adjust insane gesture fork museum credit";
+var mnemonic = "acid chef monkey federal embody sugar cable canvas metal purity retreat this";

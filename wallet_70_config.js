@@ -1,1 +1,1 @@
-var mnemonic = "bid permit advice involve fetch predict flat congress this source rail topic";
+var mnemonic = "illness gospel civil claw wing practice discover rich burden rib brain village";

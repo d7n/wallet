@@ -1,1 +1,1 @@
-var mnemonic = "whip execute promote toilet clip mother slush assist garage paper virus east";
+var mnemonic = "summer fire transfer change ketchup tuition six rural fatal inform brown logic";

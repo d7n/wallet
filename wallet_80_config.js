@@ -1,1 +1,1 @@
-var mnemonic = "antenna trim phone into try place kit monster angle submit decline bag";
+var mnemonic = "coast grid crush claim initial situate potato luggage very tenant ostrich stable";

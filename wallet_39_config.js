@@ -1,1 +1,1 @@
-var mnemonic = "check miss again motion woman endless crater mean illness slim shadow marble";
+var mnemonic = "second quality soda make half control rubber sock loyal allow soccer crush";

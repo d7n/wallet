@@ -1,1 +1,1 @@
-var mnemonic = "obscure whip female blade hidden bring stomach hero trial actress reduce awake";
+var mnemonic = "light curve close castle claw bounce melt weasel goddess donkey output essence";

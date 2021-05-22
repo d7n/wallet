@@ -1,1 +1,1 @@
-var mnemonic = "aim license canoe pink twenty alter use note broken where scheme clown";
+var mnemonic = "knock improve drum educate salute valley fashion apart dinner armed insect dad";

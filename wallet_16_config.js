@@ -1,1 +1,1 @@
-var mnemonic = "account wrestle reduce deny chimney employ hurdle top funny before elegant life";
+var mnemonic = "sense census occur erupt spread cactus pave rapid boy venture face iron";

@@ -1,1 +1,1 @@
-var mnemonic = "tell crime also discover swap wisdom tuna focus flag excuse forward grant";
+var mnemonic = "dolphin nut seven crane offer mind opinion short lunar digital dutch again";

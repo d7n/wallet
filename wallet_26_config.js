@@ -1,1 +1,1 @@
-var mnemonic = "peanut pencil violin risk detail proof town honey choice front glue hope";
+var mnemonic = "run below title aspect genre put matrix federal include call melody wait";

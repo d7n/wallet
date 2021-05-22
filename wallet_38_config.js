@@ -1,1 +1,1 @@
-var mnemonic = "okay expand raven case banner token wife top genius near cry weekend";
+var mnemonic = "liberty used stand vocal april zoo swim fancy brown crane mutual where";

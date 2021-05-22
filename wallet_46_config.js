@@ -1,1 +1,1 @@
-var mnemonic = "heavy denial connect expect sense assist doll mule glide icon heavy brass";
+var mnemonic = "cart flash sure system real antenna frame surface gas observe soccer solid";

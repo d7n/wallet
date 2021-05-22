@@ -1,1 +1,1 @@
-var mnemonic = "area until release mechanic start ring tired parrot second trouble helmet fresh";
+var mnemonic = "warfare letter answer make asset pretty above lens horn quote color key";

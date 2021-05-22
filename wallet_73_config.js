@@ -1,1 +1,1 @@
-var mnemonic = "hard wrestle praise issue black ill firm glide record permit blur shallow";
+var mnemonic = "cabbage surface alcohol soldier exotic volcano exhibit stem sound say crime donkey";

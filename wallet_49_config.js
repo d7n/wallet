@@ -1,1 +1,1 @@
-var mnemonic = "crawl myth mail again lab daughter april echo shed sense opinion item";
+var mnemonic = "shove repair hope recycle glass chalk tree remember gate follow educate bacon";

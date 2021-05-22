@@ -1,1 +1,1 @@
-var mnemonic = "identify below size term inquiry release advice bamboo place list master breeze";
+var mnemonic = "keep garment minimum mirror robot grape clown upon husband humor smile genius";

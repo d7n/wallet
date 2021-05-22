@@ -1,1 +1,1 @@
-var mnemonic = "movie income asthma produce fly evidence snake cushion piano riot deny kid";
+var mnemonic = "sport pumpkin space alert sniff globe hedgehog deputy screen link follow position";

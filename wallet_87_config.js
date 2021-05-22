@@ -1,1 +1,1 @@
-var mnemonic = "dolphin first keep jaguar attend force fantasy assist urge original regular egg";
+var mnemonic = "eternal document run tell sock private ankle join deal rather embrace toast";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure fine bomb swarm piano mirror expand melt nasty cinnamon there machine";
+var mnemonic = "pottery divide token clip feature cat rule have surprise meat genuine amazing";

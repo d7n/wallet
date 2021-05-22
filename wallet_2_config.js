@@ -1,1 +1,1 @@
-var mnemonic = "bitter exhaust dose lock toy olive party shoulder vapor great proud media";
+var mnemonic = "sail million food vacant maze man snack because cinnamon extra frequent summer";

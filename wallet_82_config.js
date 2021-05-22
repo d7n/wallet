@@ -1,1 +1,1 @@
-var mnemonic = "project antenna fetch system job science people electric exotic protect error tree";
+var mnemonic = "filter oven cheap candy merge flock west wheel mask disorder enlist debate";

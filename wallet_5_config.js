@@ -1,1 +1,1 @@
-var mnemonic = "bench fee divorce deal monster baby isolate harvest future media fan number";
+var mnemonic = "digital proof behave quality cargo radio garlic wide oppose spend spring sunny";

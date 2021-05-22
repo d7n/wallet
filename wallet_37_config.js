@@ -1,1 +1,1 @@
-var mnemonic = "nest camp olive runway sea text anxiety brand category again toast better";
+var mnemonic = "echo earn size worry feature forward target lion era trouble search vicious";

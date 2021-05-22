@@ -1,1 +1,1 @@
-var mnemonic = "bus useless maple soft jealous egg fortune zebra genius census initial chef";
+var mnemonic = "couch rapid twice crisp duck flame speed code album turtle erupt address";

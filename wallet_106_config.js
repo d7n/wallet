@@ -1,1 +1,1 @@
-var mnemonic = "kitchen basket exhibit obtain wood later dove must melt art puppy cannon";
+var mnemonic = "type toward economy begin will security weird course excess text wear exact";

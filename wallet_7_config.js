@@ -1,1 +1,1 @@
-var mnemonic = "hole okay opinion kiwi matter fragile image disagree child tooth raise indoor";
+var mnemonic = "era siren dog dice access umbrella that husband key hint beauty harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk east inhale bridge fan shaft flash utility kite bridge sock flame";
+var mnemonic = "apple course purse industry merit glance wrestle clean pencil pupil click venture";

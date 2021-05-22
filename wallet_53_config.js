@@ -1,1 +1,1 @@
-var mnemonic = "fault chalk type better cable pizza possible dash erupt various capable meat";
+var mnemonic = "icon machine hybrid seek emotion social broken destroy orange prosper merit fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "invest cause aerobic cheap modify sense simple car jealous jeans crowd blade";
+var mnemonic = "false smile mule follow wrist someone crisp extend write chase glimpse civil";

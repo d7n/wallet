@@ -1,1 +1,1 @@
-var mnemonic = "symptom pulp tube metal palm island antique hammer clap butter party sort";
+var mnemonic = "shiver link siege royal dizzy medal exhaust mammal buzz interest luxury easy";

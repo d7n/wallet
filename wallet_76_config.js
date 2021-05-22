@@ -1,1 +1,1 @@
-var mnemonic = "salad endless powder mention wait autumn kingdom vast cry funny name dune";
+var mnemonic = "load dynamic service siege situate mirror allow display toast ignore joke any";

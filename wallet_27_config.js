@@ -1,1 +1,1 @@
-var mnemonic = "deliver reflect toward crew other garbage daughter flock bronze report cute foam";
+var mnemonic = "educate lawn peasant assume pact crop loop twenty advance village inherit pumpkin";

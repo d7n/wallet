@@ -1,1 +1,1 @@
-var mnemonic = "subway supreme priority cushion awesome broom move matrix floor primary gas close";
+var mnemonic = "spoil tissue install fashion basic simple trash sister gesture dad category almost";

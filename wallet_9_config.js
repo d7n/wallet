@@ -1,1 +1,1 @@
-var mnemonic = "piece add during front umbrella hand sea transfer match anger sure sand";
+var mnemonic = "express carbon title lyrics horse equal state raw same hat wealth patch";

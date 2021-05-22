@@ -1,1 +1,1 @@
-var mnemonic = "demand flat library twin appear hospital oven client describe public velvet furnace";
+var mnemonic = "vessel undo combine body machine census spray science tiny athlete country magic";

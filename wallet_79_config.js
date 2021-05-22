@@ -1,1 +1,1 @@
-var mnemonic = "transfer talk icon then lady average position exhaust fan solid rebuild drama";
+var mnemonic = "worry hotel endorse depart wasp steel include infant turtle oak base exile";

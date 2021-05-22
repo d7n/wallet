@@ -1,1 +1,1 @@
-var mnemonic = "parade vacuum decrease vast resist harsh image sea struggle act bind plate";
+var mnemonic = "trust dilemma damp grace dance forward gate tape soap liberty off mention";

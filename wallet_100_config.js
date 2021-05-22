@@ -1,1 +1,1 @@
-var mnemonic = "fun mango mango mango lonely convince vague wall result prefer awful dragon";
+var mnemonic = "exclude grain invest glow burger spin fragile arrive dawn mind exist photo";

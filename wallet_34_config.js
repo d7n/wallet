@@ -1,1 +1,1 @@
-var mnemonic = "human step cancel major photo notice awkward wing struggle panther cover giant";
+var mnemonic = "erode lunch decrease picture sea employ tackle choice pony avocado render animal";

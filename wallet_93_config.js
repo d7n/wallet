@@ -1,1 +1,1 @@
-var mnemonic = "save breeze wall bean disorder fold tape quiz burst enough hill wisdom";
+var mnemonic = "devote escape hover version globe educate lawsuit arrive dish key pizza arctic";

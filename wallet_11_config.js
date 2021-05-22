@@ -1,1 +1,1 @@
-var mnemonic = "tired atom random history beauty humor bounce social fiscal network cousin pass";
+var mnemonic = "clump genuine bundle shiver explain other leave uniform receive brief obvious spoon";

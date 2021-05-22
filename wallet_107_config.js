@@ -1,1 +1,1 @@
-var mnemonic = "eight keen stairs lawsuit accident smile wasp inch cloth expect section barely";
+var mnemonic = "fly will song arctic sport office image cash alone angry wire blossom";

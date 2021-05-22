@@ -1,1 +1,1 @@
-var mnemonic = "ivory mother flat list traffic solar proof maze similar donkey cool rich";
+var mnemonic = "swear erase glad brand beef bacon original void maple caught wrist prison";

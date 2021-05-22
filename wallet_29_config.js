@@ -1,1 +1,1 @@
-var mnemonic = "business shrug shiver depend oil echo skirt ugly confirm maple current pride";
+var mnemonic = "auction novel seven culture area asthma kit potato garden hockey arena record";

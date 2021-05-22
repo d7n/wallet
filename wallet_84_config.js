@@ -1,1 +1,1 @@
-var mnemonic = "switch exile clog giant injury coyote endless term banner iron visual card";
+var mnemonic = "artefact invite inhale august valid used couch cream floor chest melody float";

@@ -1,1 +1,1 @@
-var mnemonic = "mule replace hunt pelican bacon delay blush combine party scrap opera question";
+var mnemonic = "weapon rare world cluster inch custom hen paper luxury voice hill split";

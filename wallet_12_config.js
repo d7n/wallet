@@ -1,1 +1,1 @@
-var mnemonic = "tragic diesel barely sauce brief child turtle initial reform fly fringe nut";
+var mnemonic = "raccoon indicate devote pulp next figure chalk park emerge horse spread wing";

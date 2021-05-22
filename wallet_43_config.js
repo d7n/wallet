@@ -1,1 +1,1 @@
-var mnemonic = "bleak gas cruel pet connect season teach fortune select dawn lion december";
+var mnemonic = "firm normal dilemma ahead sleep negative sail course glimpse cabin outer warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "price tissue runway tool aerobic jeans goose warm supreme ankle slogan door";
+var mnemonic = "agent way tonight bench screen crime cruel proud major lady trade silly";

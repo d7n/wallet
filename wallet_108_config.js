@@ -1,1 +1,1 @@
-var mnemonic = "mechanic skirt total half arch impact concert curious object ski report burst";
+var mnemonic = "favorite angry faculty damp garage talent bottom repeat hint ivory inquiry error";

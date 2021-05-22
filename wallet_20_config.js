@@ -1,1 +1,1 @@
-var mnemonic = "rely muffin juice sibling syrup oven trust absorb blue amateur match alarm";
+var mnemonic = "flee multiply clinic cake achieve clay protect exercise render concert fit wink";

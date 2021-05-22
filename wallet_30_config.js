@@ -1,1 +1,1 @@
-var mnemonic = "cake spell again position detail visit snap thing clump settle say direct";
+var mnemonic = "course reunion brand library power oxygen bomb december brave winner stage hello";

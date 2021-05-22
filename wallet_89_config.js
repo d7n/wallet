@@ -1,1 +1,1 @@
-var mnemonic = "aunt code virus pact fitness volume easily pizza shadow away they loud";
+var mnemonic = "scorpion egg limb gauge quote surround result initial final document canyon kiss";

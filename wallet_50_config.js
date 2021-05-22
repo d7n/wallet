@@ -1,1 +1,1 @@
-var mnemonic = "enrich remain trust cereal miracle clutch castle pole fossil athlete victory salt";
+var mnemonic = "outdoor snow impulse access payment edit arrive chuckle surge shoe tuna render";
