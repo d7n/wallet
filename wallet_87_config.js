@@ -1,1 +1,1 @@
-var mnemonic = "course party connect extend awkward truly creek surface agent mutual essay awkward";
+var mnemonic = "guard camp razor kingdom number waste daughter vessel couch must other print";

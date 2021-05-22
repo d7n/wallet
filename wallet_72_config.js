@@ -1,1 +1,1 @@
-var mnemonic = "wide example among chef tomorrow inmate bunker carbon story human machine aim";
+var mnemonic = "secret very already effort dutch relax rely slogan sweet much time praise";

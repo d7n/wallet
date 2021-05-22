@@ -1,1 +1,1 @@
-var mnemonic = "cover liar ecology manual faint heavy either enough world absent dice onion";
+var mnemonic = "tide exchange ski rubber era unlock nuclear shield movie home echo welcome";

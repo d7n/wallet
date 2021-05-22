@@ -1,1 +1,1 @@
-var mnemonic = "crystal deal picture divorce second subway ridge scrap confirm father fun physical";
+var mnemonic = "rib gallery cereal raccoon hospital sell elbow emerge direct develop leaf interest";

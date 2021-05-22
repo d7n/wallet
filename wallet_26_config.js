@@ -1,1 +1,1 @@
-var mnemonic = "journey tree december load prefer attract roast sea festival require joke essence";
+var mnemonic = "apple green mystery cake friend punch cinnamon vanish milk humor couple expand";

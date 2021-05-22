@@ -1,1 +1,1 @@
-var mnemonic = "celery gloom time drive speak monster ask truck find cave hollow uniform";
+var mnemonic = "way lava tiny there ahead prepare rack remove repair legend rookie jazz";

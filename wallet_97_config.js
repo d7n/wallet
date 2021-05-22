@@ -1,1 +1,1 @@
-var mnemonic = "position submit crisp sunset walnut bulb blush sort place clap vibrant twenty";
+var mnemonic = "slab hurt another trumpet mean miracle quit camp insane town office recycle";

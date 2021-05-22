@@ -1,1 +1,1 @@
-var mnemonic = "shoe trade genius trial bring dad assist explain dinosaur cook icon judge";
+var mnemonic = "unhappy creek disagree check hour ranch nominee toss meadow measure arrive garden";

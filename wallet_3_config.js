@@ -1,1 +1,1 @@
-var mnemonic = "nurse guitar kite muscle onion unlock table tobacco inherit make sorry ticket";
+var mnemonic = "echo tissue high calm make width creek city squeeze dumb shift universe";

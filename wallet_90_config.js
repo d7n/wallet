@@ -1,1 +1,1 @@
-var mnemonic = "fat beyond purse fall wisdom business pig frame book pigeon leave lift";
+var mnemonic = "bottom dust photo material clip idea wrong armor boil adapt path lens";

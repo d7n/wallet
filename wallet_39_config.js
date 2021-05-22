@@ -1,1 +1,1 @@
-var mnemonic = "journey rug interest produce child bridge combine gospel tongue popular winner small";
+var mnemonic = "panther aerobic bright fish excite lemon rug congress habit nice cliff nuclear";

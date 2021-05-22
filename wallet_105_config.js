@@ -1,1 +1,1 @@
-var mnemonic = "crime area purity during crumble scale oyster hybrid bronze involve road fiscal";
+var mnemonic = "debate coconut quarter square glimpse exotic daring gorilla essay verify deny denial";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic stand neither buzz matter economy flush text segment stereo voice verb";
+var mnemonic = "give mammal outer faculty stable real easily carpet joke about olive staff";

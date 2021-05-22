@@ -1,1 +1,1 @@
-var mnemonic = "slush tank great joy daring pole spawn lottery smile giraffe neither plastic";
+var mnemonic = "cruise input puppy bone another dirt measure seed foot rural thing own";

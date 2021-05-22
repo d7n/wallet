@@ -1,1 +1,1 @@
-var mnemonic = "blur illness fee below box bone van seek reopen castle estate gun";
+var mnemonic = "seminar vote age voyage whisper since fruit already emotion shield please clutch";

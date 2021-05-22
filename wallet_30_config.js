@@ -1,1 +1,1 @@
-var mnemonic = "embark raise vacant any abstract vibrant rule explain toward artist day galaxy";
+var mnemonic = "subway enemy park hold crazy test right upper addict chronic ketchup describe";

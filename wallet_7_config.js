@@ -1,1 +1,1 @@
-var mnemonic = "spy domain broken daring casino nephew fringe old link mountain swamp current";
+var mnemonic = "maple come december toddler artist resist advance admit scorpion copy barely torch";

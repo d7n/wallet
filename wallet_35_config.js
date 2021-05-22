@@ -1,1 +1,1 @@
-var mnemonic = "cloud pigeon segment reopen loyal cram float fault anger type era minimum";
+var mnemonic = "model emotion trumpet diesel eyebrow amount under grass help such quarter teach";

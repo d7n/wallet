@@ -1,1 +1,1 @@
-var mnemonic = "great armor boy tortoise limb grab owner novel catch dove gun flight";
+var mnemonic = "camera indoor level length display laugh lens nothing choice tornado render plate";

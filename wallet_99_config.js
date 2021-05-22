@@ -1,1 +1,1 @@
-var mnemonic = "ecology employ favorite excess sorry text scan unable attract weather kid venture";
+var mnemonic = "bracket devote aerobic run fashion cross false describe unique custom unfold weekend";

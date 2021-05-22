@@ -1,1 +1,1 @@
-var mnemonic = "border setup diesel chest heavy fancy patrol exchange clown flag shoulder fever";
+var mnemonic = "scale wood sport glance giant burger observe dove congress oil crush jewel";

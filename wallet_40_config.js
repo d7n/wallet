@@ -1,1 +1,1 @@
-var mnemonic = "act caught raw disorder better cash okay abandon fatal organ raw deal";
+var mnemonic = "custom abuse hour minute evoke rib spring way custom spell aspect transfer";

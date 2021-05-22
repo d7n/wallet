@@ -1,1 +1,1 @@
-var mnemonic = "donkey yard cousin tired planet inspire ability habit practice install candy kangaroo";
+var mnemonic = "fee master cricket story strike one hire shallow label captain sell start";

@@ -1,1 +1,1 @@
-var mnemonic = "index mirror expire cube catalog giant embark course damp next grit mutual";
+var mnemonic = "drive accident alley eyebrow joy family skin wing source regular game arm";

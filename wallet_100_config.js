@@ -1,1 +1,1 @@
-var mnemonic = "distance muscle orchard vague drill faith wire congress session wolf liquid slow";
+var mnemonic = "expect breeze antique bracket correct weapon leaf skill brand joke soda sail";

@@ -1,1 +1,1 @@
-var mnemonic = "dish resist first patch stable unique issue orange image erase record pepper";
+var mnemonic = "famous hospital hard vessel patient security average favorite maid inmate drop foot";

@@ -1,1 +1,1 @@
-var mnemonic = "razor satoshi all aspect announce act brief inner call above town frog";
+var mnemonic = "wood security muscle frame ripple solid involve boring pistol horn typical elder";

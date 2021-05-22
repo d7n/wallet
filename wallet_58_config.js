@@ -1,1 +1,1 @@
-var mnemonic = "rich price abandon wage refuse quit between picture hockey truck pyramid home";
+var mnemonic = "scare convince hurt impact soul pepper state step age category banner hand";

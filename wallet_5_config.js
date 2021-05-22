@@ -1,1 +1,1 @@
-var mnemonic = "sentence entry siege tip ankle defense parade piece floor wedding pink foster";
+var mnemonic = "faculty before tobacco feature help buddy like lecture mule method journey umbrella";

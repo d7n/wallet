@@ -1,1 +1,1 @@
-var mnemonic = "melody interest spy poverty battle swallow worry normal million jelly sure idea";
+var mnemonic = "fan exhaust task frame misery season phrase media sorry injury puppy gun";

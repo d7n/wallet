@@ -1,1 +1,1 @@
-var mnemonic = "head vessel upper lens exhaust kingdom small beyond spell used subway speak";
+var mnemonic = "degree glove depth pudding will cradle alter before distance increase degree throw";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle issue voice drama old stairs plastic must powder tower negative tape";
+var mnemonic = "alien syrup company chaos assume theme switch flat student pill note absent";

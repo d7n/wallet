@@ -1,1 +1,1 @@
-var mnemonic = "cereal message prepare sentence when oak climb destroy hand hidden suffer wheel";
+var mnemonic = "august lizard exit beef angle appear crouch govern vanish avocado nature soul";

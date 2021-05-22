@@ -1,1 +1,1 @@
-var mnemonic = "very surface sample alter color ocean stumble daughter despair security ancient wisdom";
+var mnemonic = "model subway soon march razor prefer art error task act rebuild where";

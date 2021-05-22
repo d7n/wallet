@@ -1,1 +1,1 @@
-var mnemonic = "mandate sheriff iron outer adult bottom asthma cupboard forward inject brass room";
+var mnemonic = "cushion hundred dinosaur pattern coyote school donor describe reward essence mirror clock";

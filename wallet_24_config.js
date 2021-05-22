@@ -1,1 +1,1 @@
-var mnemonic = "shove keep zebra tide close hold shoe unfold someone certain hair manage";
+var mnemonic = "trial chaos gasp recipe lizard leaf staff text summer anxiety science effort";

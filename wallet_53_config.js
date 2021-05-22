@@ -1,1 +1,1 @@
-var mnemonic = "dynamic client win flower glove leaf nation cute attract desert document stone";
+var mnemonic = "code other that rapid elephant garment library demise define primary deputy stereo";

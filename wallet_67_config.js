@@ -1,1 +1,1 @@
-var mnemonic = "mix quick judge special wild pave lend web conduct flash stem wonder";
+var mnemonic = "demise now network siege first lake salon buffalo magic monitor penalty bus";

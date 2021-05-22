@@ -1,1 +1,1 @@
-var mnemonic = "curtain palace unable example tone wagon suggest glance market fork festival proud";
+var mnemonic = "virus rain crucial lunar consider leave lawsuit display coach hole green virtual";

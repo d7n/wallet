@@ -1,1 +1,1 @@
-var mnemonic = "cloth pigeon tennis addict business filter bounce treat copy thunder cave design";
+var mnemonic = "attract tilt fiscal lift tumble wide task cave card supreme vivid camera";

@@ -1,1 +1,1 @@
-var mnemonic = "reform still vital turkey govern keep few attitude security motor pride roof";
+var mnemonic = "remember chicken core lunch stumble denial section grain treat shell tribe foil";

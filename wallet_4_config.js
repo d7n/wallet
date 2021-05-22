@@ -1,1 +1,1 @@
-var mnemonic = "glare fold daring tide remember blast crucial together negative lamp scrap brick";
+var mnemonic = "much change gift penalty bundle shield traffic joke style omit point accuse";

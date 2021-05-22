@@ -1,1 +1,1 @@
-var mnemonic = "bone cotton honey north evidence wasp certain size kite lake harvest frequent";
+var mnemonic = "senior situate harvest boy question stem tuition diagram speed much prepare artist";

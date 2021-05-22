@@ -1,1 +1,1 @@
-var mnemonic = "live spawn keen dutch deliver dirt luggage memory vivid rib crash clinic";
+var mnemonic = "scout scrap dumb poet kitten horse spoil blame hub aware wish nice";

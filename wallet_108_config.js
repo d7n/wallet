@@ -1,1 +1,1 @@
-var mnemonic = "sand knife private discover blush fit useful leader cheese van olympic swift";
+var mnemonic = "blouse tape slender impulse climb sock thrive brown once when shed shop";

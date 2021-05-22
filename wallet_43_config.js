@@ -1,1 +1,1 @@
-var mnemonic = "sustain robust add pause wave wheel fiber film essay ready execute hand";
+var mnemonic = "choose stereo radar material fall nice mean album undo cannon wing peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "cry marriage second omit three attitude feature ancient local earn sail robust";
+var mnemonic = "unique horse canvas earn mansion social bachelor garage light long kangaroo torch";

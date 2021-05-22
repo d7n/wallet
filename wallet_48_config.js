@@ -1,1 +1,1 @@
-var mnemonic = "giant indoor net column please awful diamond typical glue faculty flight tank";
+var mnemonic = "sphere flat cross voyage across swallow aerobic intact mushroom sponsor under stereo";

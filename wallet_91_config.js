@@ -1,1 +1,1 @@
-var mnemonic = "olive area laptop path cry average illegal limit business crash width mutual";
+var mnemonic = "oval drastic antique afford airport chef labor chief owner pepper burger salute";

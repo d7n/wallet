@@ -1,1 +1,1 @@
-var mnemonic = "pepper tortoise column sustain alert point team debate daughter thing capable walk";
+var mnemonic = "joke blouse weasel coast spawn metal salon armor oil margin giraffe island";

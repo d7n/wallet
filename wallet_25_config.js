@@ -1,1 +1,1 @@
-var mnemonic = "memory merry retreat success bread elder split foil inch aim sword shoe";
+var mnemonic = "puppy soup guard world joke differ summer team parrot blind worry motor";

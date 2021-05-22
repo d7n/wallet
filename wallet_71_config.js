@@ -1,1 +1,1 @@
-var mnemonic = "joke buffalo just mind arrest father razor warfare slender soup grunt garden";
+var mnemonic = "clerk wave sketch junk pattern way object layer later power weekend grain";

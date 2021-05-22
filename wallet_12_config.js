@@ -1,1 +1,1 @@
-var mnemonic = "emotion salad blame alert position blind sport tape shed sister destroy fat";
+var mnemonic = "job truth truth anchor humble wedding trip situate cruise antique churn point";

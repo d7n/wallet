@@ -1,1 +1,1 @@
-var mnemonic = "mechanic sight paper risk evolve initial family gym cupboard such lazy vessel";
+var mnemonic = "venture extend lobster february reason banana scrap era shoulder toy expect sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "tank viable parrot cube soul ordinary voice tribe kiss online express drive";
+var mnemonic = "drill change wool exercise find make buddy subject salad mirror laugh carpet";

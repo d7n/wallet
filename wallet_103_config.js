@@ -1,1 +1,1 @@
-var mnemonic = "cram grunt journey narrow wet swing balcony fatal critic rescue describe armor";
+var mnemonic = "rose cluster gorilla cave ridge kiss penalty oak fish card asthma popular";

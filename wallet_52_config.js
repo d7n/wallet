@@ -1,1 +1,1 @@
-var mnemonic = "mercy live tail range jealous dolphin author unusual nose lion gold husband";
+var mnemonic = "illegal crouch tool neutral crane certain nuclear pear casual slender clay glove";

@@ -1,1 +1,1 @@
-var mnemonic = "latin eternal earth evidence enrich stock pistol box angle void nest cloth";
+var mnemonic = "twice deer impact blame ball wish erode idle develop that subway toy";

@@ -1,1 +1,1 @@
-var mnemonic = "race inquiry slow announce donate clog upset order arctic globe cute ahead";
+var mnemonic = "wisdom direct dawn ask taste bone please cloth topic opinion oyster elephant";

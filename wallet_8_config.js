@@ -1,1 +1,1 @@
-var mnemonic = "vote together impose drip other pond wrong inhale absent praise intact surge";
+var mnemonic = "tuna pole skate arrest enact belt lawn space business right glow peasant";

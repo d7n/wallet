@@ -1,1 +1,1 @@
-var mnemonic = "boil permit enemy sock grit weapon skin animal weasel ostrich voice weird";
+var mnemonic = "junior cheap bitter circle error staff joke story few atom grow sport";

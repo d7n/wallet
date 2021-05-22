@@ -1,1 +1,1 @@
-var mnemonic = "quit energy awful media enroll normal frequent peasant advance load sense fragile";
+var mnemonic = "predict common boring jazz tank property keep silver hub rate audit bracket";

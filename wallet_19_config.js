@@ -1,1 +1,1 @@
-var mnemonic = "raven harvest mean document regular loud laugh high behave embody govern crew";
+var mnemonic = "palm caught panda elder tide lawn vanish toy file welcome display craft";

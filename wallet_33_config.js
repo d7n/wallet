@@ -1,1 +1,1 @@
-var mnemonic = "talent hockey wedding scatter artist heavy ridge sniff slight march nice judge";
+var mnemonic = "plastic slim city theory glue total sick tomato funny easily fire habit";

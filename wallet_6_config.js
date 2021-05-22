@@ -1,1 +1,1 @@
-var mnemonic = "job awful grow caught option lake spy luggage total trap ticket toddler";
+var mnemonic = "kick master napkin betray project awkward wagon tumble filter juice poem spring";

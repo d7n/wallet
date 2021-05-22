@@ -1,1 +1,1 @@
-var mnemonic = "broccoli burden copper peace shell stereo gold insect weasel earth aunt boost";
+var mnemonic = "nurse begin fat bird burden defy amateur version afford equal switch train";

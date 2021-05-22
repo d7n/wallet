@@ -1,1 +1,1 @@
-var mnemonic = "kick unfair spot magnet pipe sign kiss amateur gym addict pepper sign";
+var mnemonic = "exchange goddess chat already cannon pledge device okay faith retreat knock misery";

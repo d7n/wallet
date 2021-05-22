@@ -1,1 +1,1 @@
-var mnemonic = "join stereo surface artefact around awkward deny fancy outer limit carpet empower";
+var mnemonic = "attract oil bronze flame when category husband begin orchard hold skirt sibling";

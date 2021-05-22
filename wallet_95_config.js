@@ -1,1 +1,1 @@
-var mnemonic = "rival muffin pledge zebra marble raw assault goat hero walk upper rotate";
+var mnemonic = "select siren minute rookie chunk almost bunker amused page skull cattle payment";

@@ -1,1 +1,1 @@
-var mnemonic = "away maple online crawl find carry grant claw flip couple clown harbor";
+var mnemonic = "bounce cloud quiz travel shrimp type reason chronic quit urban fly receive";

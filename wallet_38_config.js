@@ -1,1 +1,1 @@
-var mnemonic = "place post betray bounce auto rifle vault myth mystery useful tray wild";
+var mnemonic = "rival search angry together boring later student face accuse aspect jazz oblige";

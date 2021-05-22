@@ -1,1 +1,1 @@
-var mnemonic = "orchard glance nerve rice caught lend cotton deny gas picnic news helmet";
+var mnemonic = "delay material term often flame reduce hurry lend leaf cousin spirit civil";

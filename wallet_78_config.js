@@ -1,1 +1,1 @@
-var mnemonic = "broom spike misery top undo enroll voice pole kind sun aim just";
+var mnemonic = "grid display teach kind sing spoil valley crazy slogan dolphin visit vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen effort patch debate giraffe proof giant laptop scissors slab patch connect";
+var mnemonic = "team diesel potato alpha solution grocery sample toe afford squirrel ostrich deputy";

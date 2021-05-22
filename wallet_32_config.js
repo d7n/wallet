@@ -1,1 +1,1 @@
-var mnemonic = "vessel lady renew virtual island mango noise immense mistake lawn garbage casino";
+var mnemonic = "trash creek moment royal music nothing vote good want amused dolphin column";

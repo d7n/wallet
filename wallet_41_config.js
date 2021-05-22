@@ -1,1 +1,1 @@
-var mnemonic = "patient response crane protect ginger rare bright device glue off useless split";
+var mnemonic = "lab abstract game tape health rotate actual crystal ensure style vague glass";

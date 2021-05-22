@@ -1,1 +1,1 @@
-var mnemonic = "wheat truck ahead photo poet clay remove weather taste vote tattoo awesome";
+var mnemonic = "long impact mirror dizzy magnet cave security soda output swift shy embrace";

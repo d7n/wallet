@@ -1,1 +1,1 @@
-var mnemonic = "eternal recall oblige intact when power sister brain dinner slice carpet parrot";
+var mnemonic = "nominee taste cry lunar leg olympic group erase dress paddle tackle pilot";

@@ -1,1 +1,1 @@
-var mnemonic = "loop outer turtle boring visa cluster swap pipe interest chuckle tail blame";
+var mnemonic = "nominee pizza brisk oblige spider swarm film jacket grow armor artist barely";

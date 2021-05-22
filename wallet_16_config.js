@@ -1,1 +1,1 @@
-var mnemonic = "general hungry oven page common census panel arch crawl one similar broccoli";
+var mnemonic = "argue hawk oxygen switch drama recall flight inspire frost puppy accident maximum";

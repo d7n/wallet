@@ -1,1 +1,1 @@
-var mnemonic = "exact route chaos legal rude offer repair exile increase destroy cable junior";
+var mnemonic = "orphan cupboard either patient mirror siren sort response credit harsh gas unit";

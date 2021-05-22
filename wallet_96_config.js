@@ -1,1 +1,1 @@
-var mnemonic = "shuffle wife guilt price cactus tube turkey recipe keep mutual join aim";
+var mnemonic = "renew sea scene behave elephant hello trigger okay lake neck sunny load";

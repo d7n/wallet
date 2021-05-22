@@ -1,1 +1,1 @@
-var mnemonic = "similar dumb kangaroo retire safe pill popular ranch liar fall meat trumpet";
+var mnemonic = "attend address sugar silly chaos salmon bar fit outer elbow day stand";

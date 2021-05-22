@@ -1,1 +1,1 @@
-var mnemonic = "wine odor ice purchase warfare sting own idle drill love sugar hub";
+var mnemonic = "actual apple muffin return arena rifle suggest pudding hurdle person typical dress";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace exhibit recipe crisp almost shield merit brother indoor wrestle there pyramid";
+var mnemonic = "tourist few rude issue bonus nasty twenty drama home air isolate salad";

@@ -1,1 +1,1 @@
-var mnemonic = "beef crunch act bus lunch aerobic story actress diagram remember waste inside";
+var mnemonic = "wet piano upper pudding average kidney list learn ostrich else drink siege";

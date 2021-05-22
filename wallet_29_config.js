@@ -1,1 +1,1 @@
-var mnemonic = "screen muscle decrease sweet erosion ski rebuild increase maze loyal column found";
+var mnemonic = "light carbon burger fatal goose much shrug advice peanut meat blind poem";
