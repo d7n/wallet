@@ -1,1 +1,1 @@
-var mnemonic = "icon rigid feel bronze traffic logic slender nose identify clump cotton fat";
+var mnemonic = "sand knife private discover blush fit useful leader cheese van olympic swift";

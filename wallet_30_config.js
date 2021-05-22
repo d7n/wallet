@@ -1,1 +1,1 @@
-var mnemonic = "front vanish wagon liar runway sustain gossip leave firm system major hungry";
+var mnemonic = "embark raise vacant any abstract vibrant rule explain toward artist day galaxy";

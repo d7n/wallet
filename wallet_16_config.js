@@ -1,1 +1,1 @@
-var mnemonic = "ski bag wet lunar super eyebrow nominee please coin extend stairs spend";
+var mnemonic = "general hungry oven page common census panel arch crawl one similar broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "creek skull come tree enjoy afford wisdom sun volcano rapid cabin will";
+var mnemonic = "submit wrist news beyond kit program lumber invest opera fame click honey";

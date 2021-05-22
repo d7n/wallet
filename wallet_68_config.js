@@ -1,1 +1,1 @@
-var mnemonic = "kite mimic trash poem spirit roast install hawk junior barrel throw foil";
+var mnemonic = "mass quit meat rival pet embrace sick transfer illness drill first frame";

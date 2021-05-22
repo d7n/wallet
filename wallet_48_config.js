@@ -1,1 +1,1 @@
-var mnemonic = "whip elder fold route town autumn learn govern tackle panther kit stamp";
+var mnemonic = "giant indoor net column please awful diamond typical glue faculty flight tank";

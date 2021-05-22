@@ -1,1 +1,1 @@
-var mnemonic = "silent payment extra amazing joke kind consider fossil pumpkin lobster hub envelope";
+var mnemonic = "chest brass rocket federal caught tape grab enlist sleep worry normal update";

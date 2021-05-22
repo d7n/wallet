@@ -1,1 +1,1 @@
-var mnemonic = "obvious chef zebra six square analyst claim top travel balcony spring early";
+var mnemonic = "cloth pigeon tennis addict business filter bounce treat copy thunder cave design";

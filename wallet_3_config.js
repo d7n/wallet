@@ -1,1 +1,1 @@
-var mnemonic = "pilot faint lake way spy say snow sheriff inch skate humor guard";
+var mnemonic = "nurse guitar kite muscle onion unlock table tobacco inherit make sorry ticket";

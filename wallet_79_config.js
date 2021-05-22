@@ -1,1 +1,1 @@
-var mnemonic = "tray ozone super join taste glare paddle upset human shaft side want";
+var mnemonic = "razor satoshi all aspect announce act brief inner call above town frog";

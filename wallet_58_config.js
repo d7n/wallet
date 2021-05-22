@@ -1,1 +1,1 @@
-var mnemonic = "island health aware beauty deputy often glow segment gap miracle head giggle";
+var mnemonic = "rich price abandon wage refuse quit between picture hockey truck pyramid home";

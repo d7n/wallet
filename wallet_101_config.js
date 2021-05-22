@@ -1,1 +1,1 @@
-var mnemonic = "canoe reward swear shift beef chapter crouch any text pole rough mango";
+var mnemonic = "orchard glance nerve rice caught lend cotton deny gas picnic news helmet";

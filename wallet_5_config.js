@@ -1,1 +1,1 @@
-var mnemonic = "naive useless smile fabric rhythm rhythm artist reunion doctor lab economy lesson";
+var mnemonic = "sentence entry siege tip ankle defense parade piece floor wedding pink foster";

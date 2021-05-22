@@ -1,1 +1,1 @@
-var mnemonic = "thing ridge goddess dolphin start banner tell seat funny busy select mule";
+var mnemonic = "celery gloom time drive speak monster ask truck find cave hollow uniform";

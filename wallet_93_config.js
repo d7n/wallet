@@ -1,1 +1,1 @@
-var mnemonic = "short right transfer reject cigar climb assist surround elephant gossip salon silver";
+var mnemonic = "radar slush oil merit profit banana inquiry casual pond betray toddler brave";

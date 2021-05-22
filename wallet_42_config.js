@@ -1,1 +1,1 @@
-var mnemonic = "diagram expire myth change faculty finish subway decade soda ramp knee gravity";
+var mnemonic = "vendor trick phrase combine ability moment melody filter salad park six equip";

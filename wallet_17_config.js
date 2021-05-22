@@ -1,1 +1,1 @@
-var mnemonic = "deputy marble cupboard seek remove tube original then better nerve brief tooth";
+var mnemonic = "address wheat perfect report together view unit under civil inject pattern already";

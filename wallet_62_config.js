@@ -1,1 +1,1 @@
-var mnemonic = "desert cake kiwi fault mad churn wrap gather suspect rally echo juice";
+var mnemonic = "mechanic sight paper risk evolve initial family gym cupboard such lazy vessel";

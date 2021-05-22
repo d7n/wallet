@@ -1,1 +1,1 @@
-var mnemonic = "card cigar cause action open time screen ladder hurdle circle float monster";
+var mnemonic = "express employ strategy real intact benefit seven relax stick jeans lunar advice";

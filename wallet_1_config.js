@@ -1,1 +1,1 @@
-var mnemonic = "rubber opinion baby walk vessel alley combine worry beef express shadow fog";
+var mnemonic = "over vacuum balance egg obtain wrestle either material bind where expire session";

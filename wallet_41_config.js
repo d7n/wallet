@@ -1,1 +1,1 @@
-var mnemonic = "dignity buzz hour royal tool luggage volcano start come soldier slot cluster";
+var mnemonic = "patient response crane protect ginger rare bright device glue off useless split";

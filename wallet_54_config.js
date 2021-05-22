@@ -1,1 +1,1 @@
-var mnemonic = "poet diesel blame recycle social spare end image mass wet where audit";
+var mnemonic = "donkey yard cousin tired planet inspire ability habit practice install candy kangaroo";

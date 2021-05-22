@@ -1,1 +1,1 @@
-var mnemonic = "digital tourist tail zoo view climb casino symbol interest output seek keep";
+var mnemonic = "memory merry retreat success bread elder split foil inch aim sword shoe";

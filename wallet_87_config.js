@@ -1,1 +1,1 @@
-var mnemonic = "trap welcome seven lizard cancel tilt fly title stamp lonely rubber shell";
+var mnemonic = "course party connect extend awkward truly creek surface agent mutual essay awkward";

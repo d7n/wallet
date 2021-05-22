@@ -1,1 +1,1 @@
-var mnemonic = "jungle eager basic shaft collect claim negative slow stock upset goat teach";
+var mnemonic = "minimum hamster elbow soul mixture heavy size test key example myself pupil";

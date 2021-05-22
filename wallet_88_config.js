@@ -1,1 +1,1 @@
-var mnemonic = "agent enrich magnet dawn normal meadow adult private explain ignore toy absent";
+var mnemonic = "polar timber armed ivory dream steak afford asset kind beef brisk venture";

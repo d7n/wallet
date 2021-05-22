@@ -1,1 +1,1 @@
-var mnemonic = "govern stem convince couch sadness update retire mansion runway strategy leaf trend";
+var mnemonic = "salad glove hello describe media aim believe skate option barrel swift tone";

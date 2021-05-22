@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hen electric ride distance youth mixture mushroom around over fury board";
+var mnemonic = "shove keep zebra tide close hold shoe unfold someone certain hair manage";

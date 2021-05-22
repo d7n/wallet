@@ -1,1 +1,1 @@
-var mnemonic = "oval royal detect weather grit autumn actress claw loop potato lock chest";
+var mnemonic = "screen muscle decrease sweet erosion ski rebuild increase maze loyal column found";

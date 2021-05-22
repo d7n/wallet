@@ -1,1 +1,1 @@
-var mnemonic = "almost kiss gospel logic visual popular weasel friend athlete inside buddy father";
+var mnemonic = "joke buffalo just mind arrest father razor warfare slender soup grunt garden";

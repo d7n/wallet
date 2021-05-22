@@ -1,1 +1,1 @@
-var mnemonic = "element suspect oppose exotic foot doctor invest caught average list ill canvas";
+var mnemonic = "very surface sample alter color ocean stumble daughter despair security ancient wisdom";

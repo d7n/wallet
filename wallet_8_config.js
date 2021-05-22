@@ -1,1 +1,1 @@
-var mnemonic = "perfect slot symbol eternal carbon athlete dragon faculty mosquito tennis obtain opinion";
+var mnemonic = "vote together impose drip other pond wrong inhale absent praise intact surge";

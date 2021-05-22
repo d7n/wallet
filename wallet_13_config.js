@@ -1,1 +1,1 @@
-var mnemonic = "arena dumb season perfect maximum barely body goose source bind general unique";
+var mnemonic = "blur illness fee below box bone van seek reopen castle estate gun";

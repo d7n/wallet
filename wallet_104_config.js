@@ -1,1 +1,1 @@
-var mnemonic = "level order broom anchor alley invest believe soap prepare ginger vague fetch";
+var mnemonic = "away maple online crawl find carry grant claw flip couple clown harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry stick rookie machine enforce vessel glare rescue refuse bread old guard";
+var mnemonic = "random girl alcohol devote half merge eager resource mixed bounce helmet bomb";

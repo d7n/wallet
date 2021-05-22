@@ -1,1 +1,1 @@
-var mnemonic = "cave swamp pretty stay sugar hint lumber soul sun spell puzzle confirm";
+var mnemonic = "border setup diesel chest heavy fancy patrol exchange clown flag shoulder fever";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange tone parade run speak want ride render measure cousin inform wide";
+var mnemonic = "distance muscle orchard vague drill faith wire congress session wolf liquid slow";

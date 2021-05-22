@@ -1,1 +1,1 @@
-var mnemonic = "spring census glove blast blush cousin syrup tonight unfair surprise ivory harvest";
+var mnemonic = "dish resist first patch stable unique issue orange image erase record pepper";

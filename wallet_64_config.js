@@ -1,1 +1,1 @@
-var mnemonic = "slide merge salmon custom kidney van guide rude cruel muffin prepare antique";
+var mnemonic = "main wide congress debris burger cheese deer scheme shallow violin area youth";

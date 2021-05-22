@@ -1,1 +1,1 @@
-var mnemonic = "model endorse verb summer hold whip receive tennis entire sand absent task";
+var mnemonic = "crystal deal picture divorce second subway ridge scrap confirm father fun physical";

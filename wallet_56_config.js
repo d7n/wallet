@@ -1,1 +1,1 @@
-var mnemonic = "spell either lock upset avoid cradle enable taxi frequent excuse crater moment";
+var mnemonic = "head vessel upper lens exhaust kingdom small beyond spell used subway speak";

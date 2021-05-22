@@ -1,1 +1,1 @@
-var mnemonic = "concert school crop asset pact cricket clump butter web discover spirit egg";
+var mnemonic = "broccoli burden copper peace shell stereo gold insect weasel earth aunt boost";

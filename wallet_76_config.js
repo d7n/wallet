@@ -1,1 +1,1 @@
-var mnemonic = "erupt license depend zero they empower parrot assume orbit wagon educate relax";
+var mnemonic = "share clog cancel scout reunion million excuse sibling hand october solve route";

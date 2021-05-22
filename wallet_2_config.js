@@ -1,1 +1,1 @@
-var mnemonic = "discover trial script thought render wage offer pair wife scale capable hover";
+var mnemonic = "reform still vital turkey govern keep few attitude security motor pride roof";

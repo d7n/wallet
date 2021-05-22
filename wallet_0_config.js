@@ -1,1 +1,1 @@
-var mnemonic = "lamp frame yard business return jar animal employ glass party device exist";
+var mnemonic = "wine odor ice purchase warfare sting own idle drill love sugar hub";

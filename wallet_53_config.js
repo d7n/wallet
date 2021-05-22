@@ -1,1 +1,1 @@
-var mnemonic = "hotel empty boring awake fire cake credit mesh math sword public advance";
+var mnemonic = "dynamic client win flower glove leaf nation cute attract desert document stone";

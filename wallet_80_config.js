@@ -1,1 +1,1 @@
-var mnemonic = "idea shell bounce cloth sugar clean monitor secret someone about bargain almost";
+var mnemonic = "illegal play piano school famous change silent act average mother urge title";

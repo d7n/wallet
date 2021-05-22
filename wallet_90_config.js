@@ -1,1 +1,1 @@
-var mnemonic = "slow vibrant fluid hollow pet census ridge tag stove mango flat arch";
+var mnemonic = "fat beyond purse fall wisdom business pig frame book pigeon leave lift";

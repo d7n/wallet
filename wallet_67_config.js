@@ -1,1 +1,1 @@
-var mnemonic = "point drive chair limb panda upset volume base century enact deposit park";
+var mnemonic = "mix quick judge special wild pave lend web conduct flash stem wonder";

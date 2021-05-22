@@ -1,1 +1,1 @@
-var mnemonic = "father topple indicate cigar genuine find rifle evidence under warfare remain abstract";
+var mnemonic = "job awful grow caught option lake spy luggage total trap ticket toddler";

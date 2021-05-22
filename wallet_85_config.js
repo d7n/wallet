@@ -1,1 +1,1 @@
-var mnemonic = "network bottom gaze charge gaze bullet focus turtle opinion strike debris fetch";
+var mnemonic = "purse improve edge catalog toilet elephant tennis avoid strategy lesson sausage canoe";

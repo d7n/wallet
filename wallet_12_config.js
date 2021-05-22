@@ -1,1 +1,1 @@
-var mnemonic = "limb theme swallow sail describe mind cross cherry column else muffin feel";
+var mnemonic = "emotion salad blame alert position blind sport tape shed sister destroy fat";

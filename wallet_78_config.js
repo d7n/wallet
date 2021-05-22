@@ -1,1 +1,1 @@
-var mnemonic = "squeeze brand jaguar cover toss company proof exclude actual road case reject";
+var mnemonic = "broom spike misery top undo enroll voice pole kind sun aim just";

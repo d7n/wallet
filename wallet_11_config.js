@@ -1,1 +1,1 @@
-var mnemonic = "again summer slot drama tenant clinic young fortune alien glory crawl subject";
+var mnemonic = "tank viable parrot cube soul ordinary voice tribe kiss online express drive";

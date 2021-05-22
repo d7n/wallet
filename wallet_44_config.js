@@ -1,1 +1,1 @@
-var mnemonic = "wife wink rotate valley hidden connect together decide harbor dizzy topple embrace";
+var mnemonic = "live spawn keen dutch deliver dirt luggage memory vivid rib crash clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "immune mixture field soul curious current subway time first chunk brisk prevent";
+var mnemonic = "kick unfair spot magnet pipe sign kiss amateur gym addict pepper sign";

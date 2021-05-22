@@ -1,1 +1,1 @@
-var mnemonic = "shift champion rely satoshi inner taxi process tongue marble piano smoke vintage";
+var mnemonic = "spy domain broken daring casino nephew fringe old link mountain swamp current";

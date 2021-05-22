@@ -1,1 +1,1 @@
-var mnemonic = "vault forward foil famous immense furnace family gasp canvas brown father ocean";
+var mnemonic = "crime area purity during crumble scale oyster hybrid bronze involve road fiscal";

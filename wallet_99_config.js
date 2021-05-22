@@ -1,1 +1,1 @@
-var mnemonic = "purity wood climb spice steak front much hero buffalo aisle hotel affair";
+var mnemonic = "ecology employ favorite excess sorry text scan unable attract weather kid venture";

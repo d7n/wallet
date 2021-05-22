@@ -1,1 +1,1 @@
-var mnemonic = "square window obscure radio can leopard volume trick behind segment virus lizard";
+var mnemonic = "similar dumb kangaroo retire safe pill popular ranch liar fall meat trumpet";

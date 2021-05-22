@@ -1,1 +1,1 @@
-var mnemonic = "style laugh salad census seminar junior gadget egg icon keep surface sport";
+var mnemonic = "shed delay bridge motion host quiz lawsuit enemy inherit warfare lab material";

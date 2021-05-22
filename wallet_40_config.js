@@ -1,1 +1,1 @@
-var mnemonic = "pair play idle retire shell medal dash open absurd area clock junk";
+var mnemonic = "act caught raw disorder better cash okay abandon fatal organ raw deal";

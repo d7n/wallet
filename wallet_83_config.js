@@ -1,1 +1,1 @@
-var mnemonic = "twin shield screen melt hamster stadium garage usage steak razor pudding select";
+var mnemonic = "oxygen effort patch debate giraffe proof giant laptop scissors slab patch connect";

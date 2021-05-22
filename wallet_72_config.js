@@ -1,1 +1,1 @@
-var mnemonic = "tumble student creek economy reflect upon common lunar gap scrap steel couch";
+var mnemonic = "wide example among chef tomorrow inmate bunker carbon story human machine aim";

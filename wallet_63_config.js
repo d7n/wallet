@@ -1,1 +1,1 @@
-var mnemonic = "tiny vendor hurry spike busy husband fault wrist couple cruise hollow body";
+var mnemonic = "exact route chaos legal rude offer repair exile increase destroy cable junior";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus twin muffin sad oak behave finger blanket veteran ostrich claw inside";
+var mnemonic = "journey tree december load prefer attract roast sea festival require joke essence";

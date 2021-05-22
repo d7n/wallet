@@ -1,1 +1,1 @@
-var mnemonic = "task bitter spike vapor grace exclude elder crumble adult pyramid flat share";
+var mnemonic = "position submit crisp sunset walnut bulb blush sort place clap vibrant twenty";

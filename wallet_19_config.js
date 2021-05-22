@@ -1,1 +1,1 @@
-var mnemonic = "guess vault flock neglect measure advance emerge idle chest best loop energy";
+var mnemonic = "raven harvest mean document regular loud laugh high behave embody govern crew";

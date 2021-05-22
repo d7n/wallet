@@ -1,1 +1,1 @@
-var mnemonic = "oven burden token swing vendor renew narrow vicious ask cool giraffe hurdle";
+var mnemonic = "cereal message prepare sentence when oak climb destroy hand hidden suffer wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "school rather visa child hurry doll swing soup sense alert urban bus";
+var mnemonic = "index mirror expire cube catalog giant embark course damp next grit mutual";

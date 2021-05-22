@@ -1,1 +1,1 @@
-var mnemonic = "surface knock lamp excite crush august marble maze oxygen second faint fire";
+var mnemonic = "beef crunch act bus lunch aerobic story actress diagram remember waste inside";

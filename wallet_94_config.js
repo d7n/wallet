@@ -1,1 +1,1 @@
-var mnemonic = "world fabric announce admit minor limit orchard moon opera winner sort front";
+var mnemonic = "slush tank great joy daring pole spawn lottery smile giraffe neither plastic";

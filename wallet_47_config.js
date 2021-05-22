@@ -1,1 +1,1 @@
-var mnemonic = "evidence claw coconut dial junk absent segment concert expire shrug couch pear";
+var mnemonic = "melody interest spy poverty battle swallow worry normal million jelly sure idea";

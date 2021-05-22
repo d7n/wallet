@@ -1,1 +1,1 @@
-var mnemonic = "undo major divert first develop valley snack pottery same kite jealous sausage";
+var mnemonic = "pepper tortoise column sustain alert point team debate daughter thing capable walk";

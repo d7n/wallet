@@ -1,1 +1,1 @@
-var mnemonic = "elegant atom decade hint carry shine unfair erupt stamp parade crash enemy";
+var mnemonic = "dumb good phone report option medal inside used car dizzy still gentle";

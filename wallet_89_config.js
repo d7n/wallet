@@ -1,1 +1,1 @@
-var mnemonic = "burst coin pledge reform super spring control uphold boost indoor raw disorder";
+var mnemonic = "curtain palace unable example tone wagon suggest glance market fork festival proud";

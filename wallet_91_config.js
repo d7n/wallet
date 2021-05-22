@@ -1,1 +1,1 @@
-var mnemonic = "until fashion minimum census disagree biology tissue night journey chunk desert whip";
+var mnemonic = "olive area laptop path cry average illegal limit business crash width mutual";

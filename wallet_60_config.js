@@ -1,1 +1,1 @@
-var mnemonic = "slush funny raw opinion pole still super team left citizen follow orient";
+var mnemonic = "wheat truck ahead photo poet clay remove weather taste vote tattoo awesome";

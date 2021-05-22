@@ -1,1 +1,1 @@
-var mnemonic = "inquiry veteran lawn vicious web seven puppy lumber leave escape zebra tired";
+var mnemonic = "rival muffin pledge zebra marble raw assault goat hero walk upper rotate";

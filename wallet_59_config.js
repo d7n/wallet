@@ -1,1 +1,1 @@
-var mnemonic = "runway black picnic deputy eight wool suit economy salad palace organ kid";
+var mnemonic = "spend truly sand slim army report mask journey goddess clown minor jaguar";

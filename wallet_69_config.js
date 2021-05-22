@@ -1,1 +1,1 @@
-var mnemonic = "thought correct praise kind unaware satisfy zero hurt tobacco hobby elbow bread";
+var mnemonic = "join stereo surface artefact around awkward deny fancy outer limit carpet empower";

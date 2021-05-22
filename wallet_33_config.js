@@ -1,1 +1,1 @@
-var mnemonic = "document drink horn during online crazy void odor hub manage pottery place";
+var mnemonic = "talent hockey wedding scatter artist heavy ridge sniff slight march nice judge";

@@ -1,1 +1,1 @@
-var mnemonic = "square prosper february rebel evolve strategy arrive simple skate ask curtain apology";
+var mnemonic = "cover liar ecology manual faint heavy either enough world absent dice onion";

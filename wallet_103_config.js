@@ -1,1 +1,1 @@
-var mnemonic = "pull attend mail weapon program regular fox quality enough brave balance idea";
+var mnemonic = "cram grunt journey narrow wet swing balcony fatal critic rescue describe armor";

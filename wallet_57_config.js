@@ -1,1 +1,1 @@
-var mnemonic = "hospital barely slogan fringe fan volume absorb clump return critic divorce gentle";
+var mnemonic = "furnace exhibit recipe crisp almost shield merit brother indoor wrestle there pyramid";

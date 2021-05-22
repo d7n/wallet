@@ -1,1 +1,1 @@
-var mnemonic = "language damage mistake act menu witness faith thought spring bid scorpion fish";
+var mnemonic = "glare fold daring tide remember blast crucial together negative lamp scrap brick";

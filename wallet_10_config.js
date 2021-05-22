@@ -1,1 +1,1 @@
-var mnemonic = "assault water south busy lend dinner bubble chaos royal south trumpet height";
+var mnemonic = "mandate sheriff iron outer adult bottom asthma cupboard forward inject brass room";

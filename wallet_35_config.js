@@ -1,1 +1,1 @@
-var mnemonic = "pelican lamp novel omit below rotate version palace sadness seven drastic smart";
+var mnemonic = "cloud pigeon segment reopen loyal cram float fault anger type era minimum";

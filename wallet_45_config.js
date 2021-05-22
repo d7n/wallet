@@ -1,1 +1,1 @@
-var mnemonic = "cook cable stable photo retreat royal arrive bicycle pink excite grit virus";
+var mnemonic = "agent travel misery broccoli bachelor leave shoulder gate prefer manual fortune buzz";
