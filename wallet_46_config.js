@@ -1,1 +1,1 @@
-var mnemonic = "cart flash sure system real antenna frame surface gas observe soccer solid";
+var mnemonic = "shaft address sausage peasant pipe venue clinic suffer battle despair okay keen";

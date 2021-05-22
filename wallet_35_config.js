@@ -1,1 +1,1 @@
-var mnemonic = "swallow decline captain axis cake recycle miss expose ceiling north ivory common";
+var mnemonic = "safe scissors pumpkin fit million squirrel labor marine submit wine cereal element";

@@ -1,1 +1,1 @@
-var mnemonic = "load dynamic service siege situate mirror allow display toast ignore joke any";
+var mnemonic = "annual decorate prevent armor doll gap powder despair evidence magnet hungry nature";

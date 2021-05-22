@@ -1,1 +1,1 @@
-var mnemonic = "apple course purse industry merit glance wrestle clean pencil pupil click venture";
+var mnemonic = "dose excess surround whip ten because ability test enter carry blast enact";

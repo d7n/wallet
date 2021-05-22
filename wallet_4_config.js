@@ -1,1 +1,1 @@
-var mnemonic = "eager until monster great turtle moment begin march beach laugh rookie prefer";
+var mnemonic = "radar six mule club lawn figure price purchase visual detail bone online";

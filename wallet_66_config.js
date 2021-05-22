@@ -1,1 +1,1 @@
-var mnemonic = "animal amazing yellow certain force library parrot imitate wear abuse enough great";
+var mnemonic = "pause toe hammer tribe icon town odor verify reduce ready govern original";

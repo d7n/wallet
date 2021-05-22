@@ -1,1 +1,1 @@
-var mnemonic = "worry alone glad cool blue patch globe first horror rude panther expire";
+var mnemonic = "obvious isolate fold demand genre cycle tunnel piano wear mom melt argue";

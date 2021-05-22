@@ -1,1 +1,1 @@
-var mnemonic = "language net venue disease plate pencil pave sibling need hunt direct swim";
+var mnemonic = "concert beef off hidden check talent original hub lake scan eight virus";

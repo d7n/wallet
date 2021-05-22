@@ -1,1 +1,1 @@
-var mnemonic = "devote escape hover version globe educate lawsuit arrive dish key pizza arctic";
+var mnemonic = "charge copper height reject any nut fetch penalty frequent bar day enter";

@@ -1,1 +1,1 @@
-var mnemonic = "host faculty million program major pig wonder bronze more forum peasant tide";
+var mnemonic = "junk make wolf emerge aisle host check chuckle hockey light strike glue";

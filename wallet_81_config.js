@@ -1,1 +1,1 @@
-var mnemonic = "audit chimney math obtain custom medal region flat logic power enforce submit";
+var mnemonic = "abandon beauty pet amazing collect portion embody chef chuckle draw eagle audit";

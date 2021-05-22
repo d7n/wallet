@@ -1,1 +1,1 @@
-var mnemonic = "hidden celery decline monitor south marriage shine broccoli mosquito onion sure custom";
+var mnemonic = "bonus stone enable jewel emerge tag secret ride main surge abuse team";

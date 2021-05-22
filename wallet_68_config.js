@@ -1,1 +1,1 @@
-var mnemonic = "swear erase glad brand beef bacon original void maple caught wrist prison";
+var mnemonic = "income drum capable resist clerk power give question practice main throw phrase";

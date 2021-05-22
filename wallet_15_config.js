@@ -1,1 +1,1 @@
-var mnemonic = "dolphin nut seven crane offer mind opinion short lunar digital dutch again";
+var mnemonic = "equal economy slush pepper marine wisdom fiction lobster medal argue april smart";

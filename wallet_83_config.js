@@ -1,1 +1,1 @@
-var mnemonic = "assume peace midnight insane deny high calm super ritual bind adjust shrimp";
+var mnemonic = "apart ski violin ranch imitate admit early diesel slice garment ozone wood";

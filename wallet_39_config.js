@@ -1,1 +1,1 @@
-var mnemonic = "second quality soda make half control rubber sock loyal allow soccer crush";
+var mnemonic = "step digital lottery inner hen world display either note chief top world";

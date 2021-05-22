@@ -1,1 +1,1 @@
-var mnemonic = "exclude grain invest glow burger spin fragile arrive dawn mind exist photo";
+var mnemonic = "play merry demise faith that elegant evil road chief elevator broom egg";

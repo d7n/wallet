@@ -1,1 +1,1 @@
-var mnemonic = "original world cake tag dance measure cake merit spider voice sustain marble";
+var mnemonic = "column kangaroo quote scrap possible lawn wall dilemma found three faint step";

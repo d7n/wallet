@@ -1,1 +1,1 @@
-var mnemonic = "public rich ask rescue pitch stereo phone retreat drastic rain book tiny";
+var mnemonic = "coconut borrow advance play close session animal junior figure assume capable click";

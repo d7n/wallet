@@ -1,1 +1,1 @@
-var mnemonic = "prize repair sword short heart action myth photo drop trust vital dune";
+var mnemonic = "behind timber impulse school tuna two hurry around lemon use wave indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "educate lawn peasant assume pact crop loop twenty advance village inherit pumpkin";
+var mnemonic = "shine pyramid letter clap mimic such dawn couple visa immense link useful";

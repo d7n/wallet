@@ -1,1 +1,1 @@
-var mnemonic = "outdoor snow impulse access payment edit arrive chuckle surge shoe tuna render";
+var mnemonic = "check access brand clarify dog biology direct reduce cluster crowd aunt notice";

@@ -1,1 +1,1 @@
-var mnemonic = "proof split south warrior apple acid easy puppy curve brief badge cream";
+var mnemonic = "machine demise vivid always live ivory horn permit era account rigid tube";

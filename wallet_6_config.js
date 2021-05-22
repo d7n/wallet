@@ -1,1 +1,1 @@
-var mnemonic = "squirrel plate camera gentle text act key uncover gift surge vivid nature";
+var mnemonic = "cancel cliff trouble veteran cause ivory hover wait mad asset south aisle";

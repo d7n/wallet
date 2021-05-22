@@ -1,1 +1,1 @@
-var mnemonic = "scorpion egg limb gauge quote surround result initial final document canyon kiss";
+var mnemonic = "rigid innocent margin text fluid horse ribbon robust timber predict length check";

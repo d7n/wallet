@@ -1,1 +1,1 @@
-var mnemonic = "census salt silver case luxury galaxy filter knife seek duty lobster sausage";
+var mnemonic = "fee veteran anger bread caution rotate usual arrest traffic bid child catch";

@@ -1,1 +1,1 @@
-var mnemonic = "toward merit piece path solid ball borrow burger belt plunge bread umbrella";
+var mnemonic = "topic comic worry lunar cabin advice engage motor powder protect nasty property";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion pig smoke about second canvas loyal outer umbrella anxiety pattern evolve";
+var mnemonic = "man spatial library inner hello lab company demise topic loop rebel lunar";

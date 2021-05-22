@@ -1,1 +1,1 @@
-var mnemonic = "spoil tissue install fashion basic simple trash sister gesture dad category almost";
+var mnemonic = "pigeon protect oblige bean evolve where course combine indoor history version crowd";

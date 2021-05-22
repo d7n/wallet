@@ -1,1 +1,1 @@
-var mnemonic = "umbrella artist gather pilot clap together term movie sniff lottery fire foam";
+var mnemonic = "virus wait bag drum oval uphold observe about portion wheat phrase turkey";

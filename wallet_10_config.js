@@ -1,1 +1,1 @@
-var mnemonic = "fix can ladder cradle give hammer black catalog thought annual crush rhythm";
+var mnemonic = "shallow van guitar judge ancient engine donor galaxy sure tenant lava legend";

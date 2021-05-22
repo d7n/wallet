@@ -1,1 +1,1 @@
-var mnemonic = "worry hotel endorse depart wasp steel include infant turtle oak base exile";
+var mnemonic = "car enroll moment bike creek syrup knee salute horse earth tiger guilt";

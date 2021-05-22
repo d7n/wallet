@@ -1,1 +1,1 @@
-var mnemonic = "fiber drop alert play arrive embody fiction switch silent bottom between increase";
+var mnemonic = "cube flash fashion please mistake run bright proof omit delay improve liquid";

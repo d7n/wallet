@@ -1,1 +1,1 @@
-var mnemonic = "oil develop expect bamboo early when penalty cradle fault cover usual auction";
+var mnemonic = "hover toward food excite report moment define bottom repair anger where please";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty used stand vocal april zoo swim fancy brown crane mutual where";
+var mnemonic = "clown novel admit robot vessel shoulder inform curve number sun okay start";

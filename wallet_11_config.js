@@ -1,1 +1,1 @@
-var mnemonic = "clump genuine bundle shiver explain other leave uniform receive brief obvious spoon";
+var mnemonic = "agree absent decide swap among bar height this outdoor suffer mind truly";

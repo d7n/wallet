@@ -1,1 +1,1 @@
-var mnemonic = "afford anchor oyster park melody cargo surprise midnight relax put act advance";
+var mnemonic = "hockey chimney salute bird ozone valley rib pizza picnic rapid frame retire";

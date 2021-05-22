@@ -1,1 +1,1 @@
-var mnemonic = "summer fire transfer change ketchup tuition six rural fatal inform brown logic";
+var mnemonic = "firm section number crawl half visa manual gain vibrant quiz gather labor";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp canvas horse tomato vehicle help over shoot bonus airport recycle parent";
+var mnemonic = "lumber mimic near stay swear welcome race action episode pizza anger good";

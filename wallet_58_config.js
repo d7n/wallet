@@ -1,1 +1,1 @@
-var mnemonic = "sad betray absent certain melody vicious truly honey man hip joke mystery";
+var mnemonic = "tone galaxy start engage beef digital still affair enable spider allow upper";

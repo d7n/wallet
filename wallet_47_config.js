@@ -1,1 +1,1 @@
-var mnemonic = "olympic that vivid humble bid liberty volcano enroll kangaroo sketch knife genuine";
+var mnemonic = "beyond meat day trick comic leopard world behind used breeze raise ketchup";

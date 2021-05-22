@@ -1,1 +1,1 @@
-var mnemonic = "warfare letter answer make asset pretty above lens horn quote color key";
+var mnemonic = "energy super select airport coast tiger fault drama bulb jungle better ecology";

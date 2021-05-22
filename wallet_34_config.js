@@ -1,1 +1,1 @@
-var mnemonic = "erode lunch decrease picture sea employ tackle choice pony avocado render animal";
+var mnemonic = "subject stick leopard arch under chicken kidney animal business refuse slight enter";

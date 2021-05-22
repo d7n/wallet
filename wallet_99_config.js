@@ -1,1 +1,1 @@
-var mnemonic = "vessel undo combine body machine census spray science tiny athlete country magic";
+var mnemonic = "mobile lion pulp basket absorb six grass roof video alert crystal corn";

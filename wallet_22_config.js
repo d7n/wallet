@@ -1,1 +1,1 @@
-var mnemonic = "couch rapid twice crisp duck flame speed code album turtle erupt address";
+var mnemonic = "fitness dish suspect spray record thunder tomorrow moon typical elbow boy razor";

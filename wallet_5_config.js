@@ -1,1 +1,1 @@
-var mnemonic = "digital proof behave quality cargo radio garlic wide oppose spend spring sunny";
+var mnemonic = "million shiver type grocery reject section seven hat lamp depart cute decline";

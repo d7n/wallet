@@ -1,1 +1,1 @@
-var mnemonic = "firm normal dilemma ahead sleep negative sail course glimpse cabin outer warrior";
+var mnemonic = "slot chief move chest fold supply shy betray unique heart online flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow runway panic idea consider actual festival kangaroo agree grit wool payment";
+var mnemonic = "enemy general woman master gate bid hedgehog clerk math pluck first sword";

@@ -1,1 +1,1 @@
-var mnemonic = "knock improve drum educate salute valley fashion apart dinner armed insect dad";
+var mnemonic = "evoke cave parrot onion possible elbow transfer fever ozone desert throw wink";

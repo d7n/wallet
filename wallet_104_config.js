@@ -1,1 +1,1 @@
-var mnemonic = "unlock balcony spare meadow pool trip magnet black vehicle spot giraffe luxury";
+var mnemonic = "runway home bachelor step force foster sport impulse material detect craft spoon";

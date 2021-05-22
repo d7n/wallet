@@ -1,1 +1,1 @@
-var mnemonic = "run below title aspect genre put matrix federal include call melody wait";
+var mnemonic = "lounge fit win snack drift roast that casual season similar remove pause";

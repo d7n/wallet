@@ -1,1 +1,1 @@
-var mnemonic = "skate spray flight lottery share dinner gadget winter ivory moment chair walk";
+var mnemonic = "identify coconut wire crater distance paddle brick copper outdoor spawn expose autumn";

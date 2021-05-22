@@ -1,1 +1,1 @@
-var mnemonic = "face wonder family agent giant search clever pattern frown wise seed rigid";
+var mnemonic = "recycle cannon moment motor wolf elephant annual soup galaxy climb motion equip";

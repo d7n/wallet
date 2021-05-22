@@ -1,1 +1,1 @@
-var mnemonic = "bitter salad over smooth today matter sword twin repair ridge spend gym";
+var mnemonic = "flee gentle strike knock corn aim emerge toss black object crack goose";

@@ -1,1 +1,1 @@
-var mnemonic = "light curve close castle claw bounce melt weasel goddess donkey output essence";
+var mnemonic = "wing seed seed sleep task gorilla process view ceiling thunder bicycle hair";

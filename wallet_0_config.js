@@ -1,1 +1,1 @@
-var mnemonic = "habit early wife garage hat immense chaos curtain cart mushroom asset kitchen";
+var mnemonic = "ostrich mask sock pioneer agree output scheme wife leisure chat depend appear";

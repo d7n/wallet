@@ -1,1 +1,1 @@
-var mnemonic = "fly will song arctic sport office image cash alone angry wire blossom";
+var mnemonic = "upper share impact never discover example nest spatial model caution gauge mushroom";

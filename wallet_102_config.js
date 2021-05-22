@@ -1,1 +1,1 @@
-var mnemonic = "acid chef monkey federal embody sugar cable canvas metal purity retreat this";
+var mnemonic = "client crime awkward bunker silent way one bus yellow wine liquid apart";

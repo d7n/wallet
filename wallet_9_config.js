@@ -1,1 +1,1 @@
-var mnemonic = "express carbon title lyrics horse equal state raw same hat wealth patch";
+var mnemonic = "shrug train wagon van album rail certain pyramid improve mouse lab critic";

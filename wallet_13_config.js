@@ -1,1 +1,1 @@
-var mnemonic = "because direct mosquito barely lamp there general visa poverty near symptom drift";
+var mnemonic = "future old write cloth promote rough clinic mimic repair village swing reason";

@@ -1,1 +1,1 @@
-var mnemonic = "stock all stick mask coast sustain bacon oak gospel uniform kiwi victory";
+var mnemonic = "gossip gossip baby style muffin spring upon math hazard only useful stick";

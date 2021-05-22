@@ -1,1 +1,1 @@
-var mnemonic = "sail million food vacant maze man snack because cinnamon extra frequent summer";
+var mnemonic = "truth cute method symptom era magic laptop snake craft hen resource pride";

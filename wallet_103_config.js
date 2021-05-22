@@ -1,1 +1,1 @@
-var mnemonic = "common venue boil flight forward medal then tape black seed script poverty";
+var mnemonic = "profit ramp shed stage guard join shy proof faith web walnut urban";

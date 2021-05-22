@@ -1,1 +1,1 @@
-var mnemonic = "era siren dog dice access umbrella that husband key hint beauty harsh";
+var mnemonic = "citizen orbit have head risk injury injury finger describe affair assault pitch";

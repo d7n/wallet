@@ -1,1 +1,1 @@
-var mnemonic = "exercise skin dirt east fan rail rubber base that boost creek inmate";
+var mnemonic = "vessel case actual royal resource snow notice elder gate boat tomato reject";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon indicate devote pulp next figure chalk park emerge horse spread wing";
+var mnemonic = "chef tool swear over cupboard syrup order visual pulp worth jazz eight";

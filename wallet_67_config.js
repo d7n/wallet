@@ -1,1 +1,1 @@
-var mnemonic = "shiver link siege royal dizzy medal exhaust mammal buzz interest luxury easy";
+var mnemonic = "bird clown stumble rural lawsuit memory absent almost scrap friend table stereo";

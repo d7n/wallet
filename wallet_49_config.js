@@ -1,1 +1,1 @@
-var mnemonic = "shove repair hope recycle glass chalk tree remember gate follow educate bacon";
+var mnemonic = "leg boat fiction already miss replace sick judge dish maple cruel faith";

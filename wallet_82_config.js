@@ -1,1 +1,1 @@
-var mnemonic = "filter oven cheap candy merge flock west wheel mask disorder enlist debate";
+var mnemonic = "nest panda fit west obey mirror alert foam dial tornado grocery miss";

@@ -1,1 +1,1 @@
-var mnemonic = "auction novel seven culture area asthma kit potato garden hockey arena record";
+var mnemonic = "away faith cage buddy need hand rebuild horse chase give planet raw";

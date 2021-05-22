@@ -1,1 +1,1 @@
-var mnemonic = "state satisfy decorate occur hybrid immune never record guilt rapid feature dynamic";
+var mnemonic = "pull law illegal bag analyst misery winter wage amazing brick cereal faculty";

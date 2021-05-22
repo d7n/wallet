@@ -1,1 +1,1 @@
-var mnemonic = "wheel helmet artefact actor urge gaze dynamic bacon symptom stumble ecology health";
+var mnemonic = "soul bulk hundred liar vital return scissors lucky salad feed woman stock";

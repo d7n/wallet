@@ -1,1 +1,1 @@
-var mnemonic = "sense census occur erupt spread cactus pave rapid boy venture face iron";
+var mnemonic = "salute idle powder timber mouse capital practice term hurry also feed fame";

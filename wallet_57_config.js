@@ -1,1 +1,1 @@
-var mnemonic = "trust dilemma damp grace dance forward gate tape soap liberty off mention";
+var mnemonic = "pitch assault street age aisle access moon glare custom shy glove seat";

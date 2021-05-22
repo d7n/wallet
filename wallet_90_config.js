@@ -1,1 +1,1 @@
-var mnemonic = "chaos use advice usage athlete surface involve uncle lab tip loyal main";
+var mnemonic = "recycle similar load drive arrive frozen stereo unknown price admit industry stock";

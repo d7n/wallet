@@ -1,1 +1,1 @@
-var mnemonic = "cabbage surface alcohol soldier exotic volcano exhibit stem sound say crime donkey";
+var mnemonic = "turtle congress confirm custom like language nice jump video speak six afraid";

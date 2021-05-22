@@ -1,1 +1,1 @@
-var mnemonic = "prosper goose copy issue drink balance rocket orbit remain local vote remove";
+var mnemonic = "margin spice erase abstract since autumn result random evidence fruit happy velvet";

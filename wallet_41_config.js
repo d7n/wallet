@@ -1,1 +1,1 @@
-var mnemonic = "wrist shaft spread lion dose antenna depth future praise pond cruise earth";
+var mnemonic = "aunt scout laptop bomb grass sunny fresh child humor recycle steel charge";

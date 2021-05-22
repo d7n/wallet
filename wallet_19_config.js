@@ -1,1 +1,1 @@
-var mnemonic = "weapon rare world cluster inch custom hen paper luxury voice hill split";
+var mnemonic = "canvas quiz enhance lobster shadow congress affair exhibit better ball close mind";

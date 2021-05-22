@@ -1,1 +1,1 @@
-var mnemonic = "foam oven easily vacuum history can collect heart timber because minute discover";
+var mnemonic = "chalk denial equal spot initial fire thank piece broken gather wait fog";

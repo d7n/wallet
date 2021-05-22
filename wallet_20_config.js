@@ -1,1 +1,1 @@
-var mnemonic = "flee multiply clinic cake achieve clay protect exercise render concert fit wink";
+var mnemonic = "ahead category jar regret rhythm display nation drift shop slice own field";

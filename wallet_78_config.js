@@ -1,1 +1,1 @@
-var mnemonic = "vicious detect buffalo student anxiety absurd govern accuse barrel mind avocado trust";
+var mnemonic = "marble this panic auto estate document police candy helmet same rain split";

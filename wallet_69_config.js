@@ -1,1 +1,1 @@
-var mnemonic = "sport pumpkin space alert sniff globe hedgehog deputy screen link follow position";
+var mnemonic = "cycle kiss poem scare employ exit imitate strike result crack humor famous";

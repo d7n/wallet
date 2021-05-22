@@ -1,1 +1,1 @@
-var mnemonic = "seek frog push metal castle say water benefit example auto turkey resource";
+var mnemonic = "captain wave credit grape truth fan rack honey family swim diary siege";

@@ -1,1 +1,1 @@
-var mnemonic = "pride screen clean punch grace around tumble record case crowd inherit road";
+var mnemonic = "fix toy soap hazard virus dentist silk aware use gym apart sunny";

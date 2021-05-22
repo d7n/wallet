@@ -1,1 +1,1 @@
-var mnemonic = "illness gospel civil claw wing practice discover rich burden rib brain village";
+var mnemonic = "point talent figure erupt large rack slender pair spoon all immune direct";

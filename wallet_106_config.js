@@ -1,1 +1,1 @@
-var mnemonic = "type toward economy begin will security weird course excess text wear exact";
+var mnemonic = "toilet owner ten casino music mechanic demand moon action perfect book van";
