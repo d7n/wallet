@@ -1,1 +1,1 @@
-var mnemonic = "easily badge toward song smile enemy task chaos win wall luggage duty";
+var mnemonic = "mention local coffee vibrant empty cradle fetch mean quote tube off robot";

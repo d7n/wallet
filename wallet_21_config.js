@@ -1,1 +1,1 @@
-var mnemonic = "blossom elegant social million stomach skull paddle joke olive supreme table salon";
+var mnemonic = "number trick wing flat climb wagon excite fish poem rain sign member";

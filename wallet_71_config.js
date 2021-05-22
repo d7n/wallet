@@ -1,1 +1,1 @@
-var mnemonic = "obey chronic bamboo brisk nest music oak owner hero blind antenna else";
+var mnemonic = "outdoor ribbon super pilot settle dismiss choice card axis pole under lucky";

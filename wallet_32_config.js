@@ -1,1 +1,1 @@
-var mnemonic = "gospel book winter wide dolphin tank diesel assist panic agent over false";
+var mnemonic = "mother wine glory economy visa busy engine mansion corn dignity thumb limit";

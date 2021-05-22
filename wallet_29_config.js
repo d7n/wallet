@@ -1,1 +1,1 @@
-var mnemonic = "rely flower tower card theme deny action also bitter creek panic balance";
+var mnemonic = "people general squirrel select relief light snake quit canal mix earth item";

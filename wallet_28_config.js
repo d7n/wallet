@@ -1,1 +1,1 @@
-var mnemonic = "web lunch element depth capital sweet six inherit conduct poet brisk february";
+var mnemonic = "cluster knife glow ordinary repeat leaf derive one stage legend umbrella priority";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety spin tiger antenna february broom same chalk royal oven sausage ceiling";
+var mnemonic = "surprise nut mother bone now congress excuse source have vendor retire company";

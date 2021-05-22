@@ -1,1 +1,1 @@
-var mnemonic = "say wait fatal fix rebel circle arctic type exhaust congress topple give";
+var mnemonic = "glory fuel infant spider three assist school stadium sentence dish weekend torch";

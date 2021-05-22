@@ -1,1 +1,1 @@
-var mnemonic = "stamp lesson alley grape giggle employ hurt journey mutual urge tomorrow clump";
+var mnemonic = "favorite trap corn save debris road mimic embark fashion pigeon tribe engage";

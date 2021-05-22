@@ -1,1 +1,1 @@
-var mnemonic = "quick quick series myself often face wrist bonus soap local wink bench";
+var mnemonic = "rotate wall cereal trick soul quiz oblige action near false trouble novel";

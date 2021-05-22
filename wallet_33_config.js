@@ -1,1 +1,1 @@
-var mnemonic = "elephant crush wheat grace nasty kite appear donkey route absurd ozone beauty";
+var mnemonic = "shoe skirt police enlist leg differ brother old asthma race vault park";

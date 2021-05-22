@@ -1,1 +1,1 @@
-var mnemonic = "female direct chase journey equip hobby flight mesh cash garlic ring number";
+var mnemonic = "spider ten thought future warfare truck gift attract portion tunnel rural hidden";

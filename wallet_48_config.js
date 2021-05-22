@@ -1,1 +1,1 @@
-var mnemonic = "acquire proof indicate task since romance rival report destroy broccoli kind gather";
+var mnemonic = "bracket echo wage habit exercise square brown garage alter humble problem lava";

@@ -1,1 +1,1 @@
-var mnemonic = "reason alcohol useful equal gap robot company measure veteran rude double crew";
+var mnemonic = "load brain liberty topple tongue caution web damage actual witness want course";

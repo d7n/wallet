@@ -1,1 +1,1 @@
-var mnemonic = "pistol victory weapon invite poem great license detail click universe bless heavy";
+var mnemonic = "degree settle must cactus bomb century ethics hire fly express decide leopard";

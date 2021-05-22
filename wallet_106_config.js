@@ -1,1 +1,1 @@
-var mnemonic = "bitter refuse novel crack slice measure waste ball rack tent easy crew";
+var mnemonic = "wreck grain slender insane address sausage absurd risk two ice broom harsh";

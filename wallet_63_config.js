@@ -1,1 +1,1 @@
-var mnemonic = "drive until leaf armed agent weird high thrive miss pen liberty north";
+var mnemonic = "attitude market peanut venture excuse fresh day alarm shadow hollow advice spare";

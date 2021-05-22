@@ -1,1 +1,1 @@
-var mnemonic = "twist weasel uniform fortune industry coconut network fox alter arrive boil trial";
+var mnemonic = "system cinnamon ethics crystal blur velvet grant banner valid mountain rule profit";

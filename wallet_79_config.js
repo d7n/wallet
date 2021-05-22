@@ -1,1 +1,1 @@
-var mnemonic = "clump dynamic era push jazz youth girl night apology robot luxury virtual";
+var mnemonic = "engage twice tobacco crunch submit repeat wood deny swarm quality diary champion";

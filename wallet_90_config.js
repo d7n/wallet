@@ -1,1 +1,1 @@
-var mnemonic = "soul august window august chimney odor chest payment help seek axis reveal";
+var mnemonic = "tumble cushion jealous mercy ceiling gadget gallery miss gorilla tongue cinnamon cube";

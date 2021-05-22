@@ -1,1 +1,1 @@
-var mnemonic = "snow theory giggle cheap travel multiply isolate famous humor flat senior during";
+var mnemonic = "grocery code work leaf hammer replace crack require gun cupboard witness squirrel";

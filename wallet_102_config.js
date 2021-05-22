@@ -1,1 +1,1 @@
-var mnemonic = "hobby immune vapor uncover sample ladder employ cliff frog today parent toe";
+var mnemonic = "path onion local mistake various tobacco cancel urban shock drastic chalk quality";

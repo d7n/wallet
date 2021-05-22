@@ -1,1 +1,1 @@
-var mnemonic = "artist little quarter govern illegal draft ready coyote response knock face matter";
+var mnemonic = "record express little twelve delay tackle pelican morning bullet depart emotion exhaust";

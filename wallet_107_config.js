@@ -1,1 +1,1 @@
-var mnemonic = "parrot multiply opera paper heart need village inform discover leaf return task";
+var mnemonic = "state win employ decline doctor hen embrace mango pigeon unknown private cost";

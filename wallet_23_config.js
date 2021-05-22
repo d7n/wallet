@@ -1,1 +1,1 @@
-var mnemonic = "arrange earn lake library educate muffin fossil casual supply glove scan acquire";
+var mnemonic = "inherit phrase lion lucky catch space boy vacant oval glory diamond gaze";

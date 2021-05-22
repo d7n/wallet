@@ -1,1 +1,1 @@
-var mnemonic = "damage undo pond agree kingdom document humble laugh wine pelican physical walnut";
+var mnemonic = "bean peace flash mail stay turkey special insane finish wedding cave rely";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky shrimp rural disagree speed apology false job umbrella write apology amazing";
+var mnemonic = "fury say coral ensure inherit broom remain seminar envelope giggle fan embark";

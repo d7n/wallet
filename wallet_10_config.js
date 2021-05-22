@@ -1,1 +1,1 @@
-var mnemonic = "act girl ribbon other object draft hurry trick talent south route grace";
+var mnemonic = "gain sunset enough pistol village february rail lyrics fashion vault critic tilt";

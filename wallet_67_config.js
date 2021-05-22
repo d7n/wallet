@@ -1,1 +1,1 @@
-var mnemonic = "citizen history cradle when drink retire fee hat area exile vocal orchard";
+var mnemonic = "moral column what online rib panther latin next thunder hurt angry inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "join bid name install abuse dilemma grab advance leader mention custom fluid";
+var mnemonic = "pause bacon palm average job term exchange hub cube donate enjoy want";

@@ -1,1 +1,1 @@
-var mnemonic = "salad you tag hour message void tooth feel strategy detail code idle";
+var mnemonic = "silent turtle range among quote acquire pudding dragon avocado derive mechanic enact";

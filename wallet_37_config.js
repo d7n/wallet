@@ -1,1 +1,1 @@
-var mnemonic = "surround hood under slim wagon local wink jealous cactus ensure post egg";
+var mnemonic = "dune ankle small air voyage wave ranch husband eight cream emotion lumber";

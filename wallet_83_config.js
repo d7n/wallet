@@ -1,1 +1,1 @@
-var mnemonic = "tube notable whale jazz whip excite wrestle version power door abuse infant";
+var mnemonic = "awkward cupboard cost idea issue power average fix crane couch enroll chief";

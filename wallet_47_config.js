@@ -1,1 +1,1 @@
-var mnemonic = "awake bless sand height garment certain poem match must assist fashion excess";
+var mnemonic = "child snow hotel filter dismiss pretty cancel meat device find frog glad";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe impact wish novel olympic invest model middle act tonight result setup";
+var mnemonic = "spend impact sibling mistake wet mother bind then try chaos explain uniform";

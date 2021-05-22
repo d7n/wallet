@@ -1,1 +1,1 @@
-var mnemonic = "tent hollow destroy ready common alert liquid abstract weasel rapid fix humor";
+var mnemonic = "must wear movie group right galaxy card soft blast helmet answer melody";

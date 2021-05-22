@@ -1,1 +1,1 @@
-var mnemonic = "lady gather gentle acquire uniform tell pill lend wagon invest source hat";
+var mnemonic = "correct analyst target define butter casual tail army relief trust confirm wide";

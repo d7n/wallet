@@ -1,1 +1,1 @@
-var mnemonic = "parent under what cheese mandate end bleak obvious embrace decrease govern engage";
+var mnemonic = "year oblige shift pepper field able idea goddess fix unique begin truth";

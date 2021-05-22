@@ -1,1 +1,1 @@
-var mnemonic = "seek artefact diet drop govern mom fuel horse okay window thought table";
+var mnemonic = "fly winter fault effort narrow credit check essence drastic world pupil cage";

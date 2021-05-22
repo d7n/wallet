@@ -1,1 +1,1 @@
-var mnemonic = "right spread popular elbow rival pass hockey twice enrich become section general";
+var mnemonic = "correct rack chief daughter wealth meadow year defy task consider where initial";

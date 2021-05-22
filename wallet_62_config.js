@@ -1,1 +1,1 @@
-var mnemonic = "wheat deputy toy clutch tackle label clock project soon lion wash document";
+var mnemonic = "tortoise gaze toward wing scale lamp square cause scissors shift arch scrub";

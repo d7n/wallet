@@ -1,1 +1,1 @@
-var mnemonic = "will broom prosper spell tooth unusual sad moral lion lamp hurdle shop";
+var mnemonic = "seven east valid tomato receive tongue coffee category unaware warfare drip almost";

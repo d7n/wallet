@@ -1,1 +1,1 @@
-var mnemonic = "long credit replace analyst arrest stem lawn pause omit predict code length";
+var mnemonic = "divorce joy hope mass system inch tray junior honey girl system coil";

@@ -1,1 +1,1 @@
-var mnemonic = "happy weasel web radar thumb print half ordinary mesh spray olive boat";
+var mnemonic = "sunny robust peanut burst attack dizzy choose sample swap portion shove hat";

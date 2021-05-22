@@ -1,1 +1,1 @@
-var mnemonic = "erupt sail sugar bus educate cute solid matrix coffee denial cabin peace";
+var mnemonic = "minor margin anxiety town kiwi rely pair assume border gate logic hold";

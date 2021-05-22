@@ -1,1 +1,1 @@
-var mnemonic = "throw busy negative blouse maze dinner burger repair skull problem remember risk";
+var mnemonic = "matrix tissue wife hole journey clever photo human cake audit title select";

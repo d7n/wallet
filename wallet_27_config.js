@@ -1,1 +1,1 @@
-var mnemonic = "omit wall vessel twelve inside insect spatial enlist absurd victory illness symptom";
+var mnemonic = "glove foil process buffalo velvet razor obey vacant math cabbage portion pause";

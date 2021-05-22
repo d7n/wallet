@@ -1,1 +1,1 @@
-var mnemonic = "fancy brick wreck rubber bike fossil insane moon slender key fitness echo";
+var mnemonic = "vote later trap scheme tunnel sauce pluck agent kiwi state hope must";

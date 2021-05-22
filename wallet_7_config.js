@@ -1,1 +1,1 @@
-var mnemonic = "dust alpha interest valve excuse rally tank dentist explain private gap huge";
+var mnemonic = "pulp item first budget turtle cram stairs science badge puzzle express confirm";

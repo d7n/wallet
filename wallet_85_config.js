@@ -1,1 +1,1 @@
-var mnemonic = "become unfold actor lock unlock soft shine reunion oxygen inflict upon screen";
+var mnemonic = "pink water pupil defense idea raise kick seven live come seminar utility";

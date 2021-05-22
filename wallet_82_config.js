@@ -1,1 +1,1 @@
-var mnemonic = "dutch donkey allow pelican day valid dwarf behave force lesson sword film";
+var mnemonic = "margin frozen junior swim music finish few harbor cable asthma fly jealous";

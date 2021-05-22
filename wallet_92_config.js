@@ -1,1 +1,1 @@
-var mnemonic = "ribbon drill term bag scale inner idle strike coin laugh follow myth";
+var mnemonic = "pond gloom jungle frame gas evil oxygen guide slim tube guitar supreme";

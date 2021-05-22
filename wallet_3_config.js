@@ -1,1 +1,1 @@
-var mnemonic = "project leaf box label service physical scrub vague together truly hip wreck";
+var mnemonic = "need sock letter flat shoulder number wait sleep scale water bring property";

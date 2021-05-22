@@ -1,1 +1,1 @@
-var mnemonic = "patient prefer charge gown ghost filter session enhance cloth sniff urge ticket";
+var mnemonic = "lend victory pen hub update mammal twin viable boy shiver ghost large";

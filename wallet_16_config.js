@@ -1,1 +1,1 @@
-var mnemonic = "bracket gather destroy morning plastic chicken danger fork craft cloud remove unique";
+var mnemonic = "gap pledge flat girl wisdom habit toy laundry front raw farm dice";

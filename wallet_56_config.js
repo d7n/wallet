@@ -1,1 +1,1 @@
-var mnemonic = "tortoise parade focus curve basket help trip tunnel poet grape crane net";
+var mnemonic = "caught barely zero thumb debate right fiber helmet spice ghost kiss window";

@@ -1,1 +1,1 @@
-var mnemonic = "cable leg pottery flock foster oven guide favorite sniff defense success cliff";
+var mnemonic = "prize sad salon praise episode solar digital amount follow three amazing screen";

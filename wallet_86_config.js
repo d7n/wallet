@@ -1,1 +1,1 @@
-var mnemonic = "shield vast few lend awesome same fuel badge glory bamboo host van";
+var mnemonic = "action excite demand off below throw book soul curve pen village habit";

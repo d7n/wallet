@@ -1,1 +1,1 @@
-var mnemonic = "impact poet under wise dose identify giraffe embrace insane verb search mouse";
+var mnemonic = "smart crop clean fog oak youth film slam grab turkey joy near";

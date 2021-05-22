@@ -1,1 +1,1 @@
-var mnemonic = "acid admit smile rebuild fresh title hamster crime flame online ribbon ring";
+var mnemonic = "bar skirt weasel crop chief fashion clap upset worry card water erosion";

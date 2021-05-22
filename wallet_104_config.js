@@ -1,1 +1,1 @@
-var mnemonic = "feed coffee useless width pottery hard inmate load insane pig shock test";
+var mnemonic = "patch regret jar check decrease sign divide unaware column lyrics hotel any";

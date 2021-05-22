@@ -1,1 +1,1 @@
-var mnemonic = "very secret item tent permit cloud twist bar defy minimum science style";
+var mnemonic = "crack quiz cycle away earn duty decide panic mimic purse fall scene";

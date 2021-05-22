@@ -1,1 +1,1 @@
-var mnemonic = "awesome stadium small sister account glue mushroom butter stool danger title cable";
+var mnemonic = "amused meat bring bottom grid critic produce barely awesome slab tooth silent";

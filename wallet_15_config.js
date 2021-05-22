@@ -1,1 +1,1 @@
-var mnemonic = "creek hurdle tree able harsh various velvet rebel desk giant boil leader";
+var mnemonic = "lottery snap loan hire life arena brand mutual slide nurse cart lawn";

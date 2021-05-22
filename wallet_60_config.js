@@ -1,1 +1,1 @@
-var mnemonic = "notable latin hip seek cattle error east side system tuition gain jacket";
+var mnemonic = "quarter twin moon fresh comic myth extra abandon tenant security move seven";

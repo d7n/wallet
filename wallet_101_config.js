@@ -1,1 +1,1 @@
-var mnemonic = "thrive debate relax spot crumble rain vessel hair lion aware skin nut";
+var mnemonic = "favorite discover oxygen jelly excuse achieve reason bullet bargain amount absent someone";

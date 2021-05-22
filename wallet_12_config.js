@@ -1,1 +1,1 @@
-var mnemonic = "remind portion wish course width miss tragic track mixture little paddle venture";
+var mnemonic = "parrot tool walnut dove begin across fashion palm cute cupboard daring road";

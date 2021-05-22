@@ -1,1 +1,1 @@
-var mnemonic = "master naive video awesome opinion more antenna sadness click small cushion force";
+var mnemonic = "motor doctor dose genius note clerk now vapor knife news kitten skate";

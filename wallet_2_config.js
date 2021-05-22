@@ -1,1 +1,1 @@
-var mnemonic = "hotel steak kind citizen segment crowd ill sign oblige burger increase able";
+var mnemonic = "powder fire attract skill scan galaxy hawk second illness rhythm lesson earth";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom discover exhaust tattoo dolphin saddle anchor field change upon aunt arm";
+var mnemonic = "swallow genius cradle arrive tonight recall hip choice romance sudden simple wrist";

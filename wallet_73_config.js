@@ -1,1 +1,1 @@
-var mnemonic = "fantasy unaware mean come enforce perfect rally feed ostrich file desert vault";
+var mnemonic = "outdoor abstract peace book annual replace water wealth program sort income rack";

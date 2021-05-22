@@ -1,1 +1,1 @@
-var mnemonic = "order hundred turn chat sing sting settle announce liberty hair crumble glove";
+var mnemonic = "bulb total million hurt pulp exercise seminar cage achieve fury label express";

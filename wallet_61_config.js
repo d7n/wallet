@@ -1,1 +1,1 @@
-var mnemonic = "argue boring unknown fame length sense better drift erase enjoy rate bounce";
+var mnemonic = "love acquire aware frog curious lunar another tobacco october trigger flush minute";

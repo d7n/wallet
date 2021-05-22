@@ -1,1 +1,1 @@
-var mnemonic = "ketchup auction swap slab capable myself client unique drive text letter very";
+var mnemonic = "topple squeeze addict sand attack inject obscure judge attack retreat melt icon";

@@ -1,1 +1,1 @@
-var mnemonic = "message lab abandon vast owner gown knee grain approve jewel thrive label";
+var mnemonic = "clean undo work congress explain catch clump able accident opera future enable";

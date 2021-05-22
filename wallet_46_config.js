@@ -1,1 +1,1 @@
-var mnemonic = "slow saddle coil gown exit throw nasty security mix tip detail verb";
+var mnemonic = "fan flavor acquire spring gloom damage diary another park charge frame coach";

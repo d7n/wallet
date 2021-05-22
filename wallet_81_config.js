@@ -1,1 +1,1 @@
-var mnemonic = "panel thing exist pledge affair glide beyond else pulp address crawl comfort";
+var mnemonic = "soon dash tooth expand deny dutch siege table easy maximum shaft bicycle";

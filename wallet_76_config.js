@@ -1,1 +1,1 @@
-var mnemonic = "month sense energy shove they reduce artefact scheme deputy auto rough toe";
+var mnemonic = "replace cart elder bone usage return adult jazz off code monitor organ";

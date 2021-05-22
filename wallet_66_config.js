@@ -1,1 +1,1 @@
-var mnemonic = "deputy oven crumble patient museum egg promote bomb rule oval smoke basic";
+var mnemonic = "angry cluster top alone concert appear innocent usual salmon eagle rule pencil";

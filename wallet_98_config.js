@@ -1,1 +1,1 @@
-var mnemonic = "include quarter pigeon select smoke fiction hospital exact confirm ticket scan exit";
+var mnemonic = "pizza ankle main can endless drill praise venue prevent north giant tumble";

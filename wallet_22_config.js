@@ -1,1 +1,1 @@
-var mnemonic = "dune wisdom auto verb mesh dutch trust pet asset fruit glimpse absurd";
+var mnemonic = "myth come rabbit spoon ignore fury tumble business draft there absorb coyote";

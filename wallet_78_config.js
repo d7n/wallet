@@ -1,1 +1,1 @@
-var mnemonic = "reform uncover dinner theory foil material gravity middle scout depart east pilot";
+var mnemonic = "buddy merit among flower observe speed derive unlock celery accuse excess donkey";

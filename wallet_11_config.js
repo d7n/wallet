@@ -1,1 +1,1 @@
-var mnemonic = "quiz tackle envelope zebra forum taxi recall vague canal shoot base similar";
+var mnemonic = "raw twin orange convince govern emotion envelope record wire taxi real member";

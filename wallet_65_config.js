@@ -1,1 +1,1 @@
-var mnemonic = "hen afraid legal panda state age edit gossip person october true road";
+var mnemonic = "walk deal accident dynamic focus welcome funny print drift velvet squeeze trust";

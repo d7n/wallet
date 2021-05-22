@@ -1,1 +1,1 @@
-var mnemonic = "inflict idle reveal snap rescue vapor faculty rare nose upon gaze copy";
+var mnemonic = "glove misery assault lounge bracket hood brush festival father analyst year debris";

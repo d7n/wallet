@@ -1,1 +1,1 @@
-var mnemonic = "device finish pink dream cheap scatter birth dance few worry theory digital";
+var mnemonic = "caught melt rival transfer face squirrel goose human skill divide push high";

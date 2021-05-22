@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow giraffe idle lab neither crystal reward faculty usage focus evidence sword";
+var mnemonic = "earn myself choice humor broccoli despair weasel face grass fat day wife";

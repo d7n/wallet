@@ -1,1 +1,1 @@
-var mnemonic = "nature blade almost marine raise minimum mosquito mushroom alien popular strong rural";
+var mnemonic = "pipe west bottom say rail pilot maple fix plunge hip book fitness";

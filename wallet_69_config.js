@@ -1,1 +1,1 @@
-var mnemonic = "object gesture there slide camera pizza cube lawn pyramid since clown cream";
+var mnemonic = "young shift recipe clean never ostrich fan deputy silent silk aware denial";

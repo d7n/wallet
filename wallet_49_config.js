@@ -1,1 +1,1 @@
-var mnemonic = "balance page random undo weird feed chuckle title onion bullet wage swallow";
+var mnemonic = "column antenna estate bike physical business daughter peace elegant science medal clap";

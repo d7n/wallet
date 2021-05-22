@@ -1,1 +1,1 @@
-var mnemonic = "purse push believe grunt lion edge month latin split cube armed hour";
+var mnemonic = "void eye price devote wood kangaroo nuclear walk debate chuckle treat similar";

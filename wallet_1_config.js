@@ -1,1 +1,1 @@
-var mnemonic = "nose evidence deal similar fury rescue lecture region confirm pistol cereal boring";
+var mnemonic = "breeze young balance fence bamboo sustain track breeze shaft use consider rebel";

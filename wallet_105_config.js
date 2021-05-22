@@ -1,1 +1,1 @@
-var mnemonic = "cruel unfair sure daring tray word parent chaos dignity buddy capital apart";
+var mnemonic = "sniff giggle shine genuine wrestle lonely tumble space fabric special quick glimpse";

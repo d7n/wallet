@@ -1,1 +1,1 @@
-var mnemonic = "sock clutch hip camera tourist wing bus miracle observe canvas accident alcohol";
+var mnemonic = "grunt vocal high foam wear diesel grief average hidden soldier input gospel";

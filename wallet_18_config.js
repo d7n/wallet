@@ -1,1 +1,1 @@
-var mnemonic = "lend sunset budget civil arm bounce direct crisp glimpse ill fluid index";
+var mnemonic = "follow hockey infant park brush endless impose cart despair deal grief label";
