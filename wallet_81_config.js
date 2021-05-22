@@ -1,1 +1,1 @@
-var mnemonic = "hawk unveil drum brass slam gym enable cost razor story today inform";
+var mnemonic = "flight proud deny grass hybrid rally deny battle orphan very warrior dog";

@@ -1,1 +1,1 @@
-var mnemonic = "online ski time camera spread turkey embody gentle egg fold december eager";
+var mnemonic = "twin shield screen melt hamster stadium garage usage steak razor pudding select";

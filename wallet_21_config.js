@@ -1,1 +1,1 @@
-var mnemonic = "buyer catch reward heavy grow feed raw razor best occur host opinion";
+var mnemonic = "sorry stick rookie machine enforce vessel glare rescue refuse bread old guard";

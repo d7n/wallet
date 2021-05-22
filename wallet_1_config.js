@@ -1,1 +1,1 @@
-var mnemonic = "solution noble ostrich erode case imitate sun economy nation switch flavor travel";
+var mnemonic = "rubber opinion baby walk vessel alley combine worry beef express shadow fog";

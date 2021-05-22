@@ -1,1 +1,1 @@
-var mnemonic = "seven bitter suggest inflict inject trim gown roof discover require melt goose";
+var mnemonic = "level order broom anchor alley invest believe soap prepare ginger vague fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "student region involve cereal ripple consider sorry chunk once voyage put flock";
+var mnemonic = "trap welcome seven lizard cancel tilt fly title stamp lonely rubber shell";

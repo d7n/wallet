@@ -1,1 +1,1 @@
-var mnemonic = "grass hobby patient sand learn wrap start document width buzz slogan prefer";
+var mnemonic = "popular brave swim mail program replace hurdle bomb february reward client loud";

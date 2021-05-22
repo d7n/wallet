@@ -1,1 +1,1 @@
-var mnemonic = "want face cover question miracle infant board peasant empower assault spray fruit";
+var mnemonic = "glare defy protect wink decide enhance improve fashion edge penalty resource diet";

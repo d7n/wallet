@@ -1,1 +1,1 @@
-var mnemonic = "vessel mandate permit helmet assault column property shoulder soda evidence outside salute";
+var mnemonic = "runway black picnic deputy eight wool suit economy salad palace organ kid";

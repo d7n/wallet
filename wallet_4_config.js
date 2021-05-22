@@ -1,1 +1,1 @@
-var mnemonic = "perfect spot jeans village minor drastic fork little diet author cry attack";
+var mnemonic = "language damage mistake act menu witness faith thought spring bid scorpion fish";

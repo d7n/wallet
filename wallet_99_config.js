@@ -1,1 +1,1 @@
-var mnemonic = "verify saddle canvas leave elbow vibrant thumb box tongue sense leopard call";
+var mnemonic = "purity wood climb spice steak front much hero buffalo aisle hotel affair";

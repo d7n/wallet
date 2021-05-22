@@ -1,1 +1,1 @@
-var mnemonic = "secret guess wise spoil quote salad rabbit tissue latin enjoy pass reveal";
+var mnemonic = "oval royal detect weather grit autumn actress claw loop potato lock chest";

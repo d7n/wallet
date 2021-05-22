@@ -1,1 +1,1 @@
-var mnemonic = "twenty unveil twice social frozen release seed rescue limit royal grit bike";
+var mnemonic = "under type axis burden attract plate planet proud bounce rabbit mansion mother";

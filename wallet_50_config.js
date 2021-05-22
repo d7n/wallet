@@ -1,1 +1,1 @@
-var mnemonic = "staff sweet liberty math current citizen language mirror soul sort return then";
+var mnemonic = "concert school crop asset pact cricket clump butter web discover spirit egg";

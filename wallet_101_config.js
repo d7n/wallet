@@ -1,1 +1,1 @@
-var mnemonic = "inject shaft strike hidden core kingdom buyer fruit hood eyebrow between arctic";
+var mnemonic = "canoe reward swear shift beef chapter crouch any text pole rough mango";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican trial predict engine rapid replace treat practice dutch oven split second";
+var mnemonic = "front vanish wagon liar runway sustain gossip leave firm system major hungry";

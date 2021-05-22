@@ -1,1 +1,1 @@
-var mnemonic = "frog energy same east token useless camp offer act sad crowd west";
+var mnemonic = "tumble student creek economy reflect upon common lunar gap scrap steel couch";

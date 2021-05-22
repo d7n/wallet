@@ -1,1 +1,1 @@
-var mnemonic = "trim head canoe liquid cube donor street credit unfair mimic depart lumber";
+var mnemonic = "pelican lamp novel omit below rotate version palace sadness seven drastic smart";

@@ -1,1 +1,1 @@
-var mnemonic = "trade glad crew unusual lonely protect garden green unknown dial moon material";
+var mnemonic = "task bitter spike vapor grace exclude elder crumble adult pyramid flat share";

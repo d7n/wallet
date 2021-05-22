@@ -1,1 +1,1 @@
-var mnemonic = "inspire buzz stadium service case dizzy seven coral inhale idea nice ritual";
+var mnemonic = "umbrella hen electric ride distance youth mixture mushroom around over fury board";

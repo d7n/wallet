@@ -1,1 +1,1 @@
-var mnemonic = "walk dad hobby surprise bleak tonight okay spray prosper motion balance bicycle";
+var mnemonic = "burst coin pledge reform super spring control uphold boost indoor raw disorder";

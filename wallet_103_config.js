@@ -1,1 +1,1 @@
-var mnemonic = "piece century cherry firm lunch people resemble minimum pencil health champion seed";
+var mnemonic = "pull attend mail weapon program regular fox quality enough brave balance idea";

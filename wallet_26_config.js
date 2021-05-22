@@ -1,1 +1,1 @@
-var mnemonic = "faith surge wasp refuse gospel river muscle mimic lobster swallow nest depth";
+var mnemonic = "cactus twin muffin sad oak behave finger blanket veteran ostrich claw inside";

@@ -1,1 +1,1 @@
-var mnemonic = "scale enable siren drip tip fitness ball agree alert blade west kitchen";
+var mnemonic = "almost kiss gospel logic visual popular weasel friend athlete inside buddy father";

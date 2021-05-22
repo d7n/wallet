@@ -1,1 +1,1 @@
-var mnemonic = "bus foster bleak claw subway famous ugly turn angle woman deputy vast";
+var mnemonic = "lamp frame yard business return jar animal employ glass party device exist";

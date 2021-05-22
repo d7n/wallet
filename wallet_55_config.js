@@ -1,1 +1,1 @@
-var mnemonic = "early entire country gold payment slice lava shrug surprise enable page fashion";
+var mnemonic = "spring census glove blast blush cousin syrup tonight unfair surprise ivory harvest";

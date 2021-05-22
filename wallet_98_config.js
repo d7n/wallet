@@ -1,1 +1,1 @@
-var mnemonic = "purse century theory clean benefit height turkey security blur suffer answer violin";
+var mnemonic = "silent payment extra amazing joke kind consider fossil pumpkin lobster hub envelope";

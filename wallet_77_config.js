@@ -1,1 +1,1 @@
-var mnemonic = "narrow repair expand end reflect cycle pond word artist only wheel squeeze";
+var mnemonic = "join share clean wrap cute verb inspire fatigue doll claim minor east";

@@ -1,1 +1,1 @@
-var mnemonic = "such enlist you fame vehicle only athlete dragon allow weird spice weekend";
+var mnemonic = "muffin always usage either short fall prison liar useful pig enjoy trick";

@@ -1,1 +1,1 @@
-var mnemonic = "hill crisp slush upset race dutch raw steel lens kit nominee gap";
+var mnemonic = "jungle eager basic shaft collect claim negative slow stock upset goat teach";

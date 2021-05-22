@@ -1,1 +1,1 @@
-var mnemonic = "must tank over forum keen soup filter domain bike first result thing";
+var mnemonic = "assault water south busy lend dinner bubble chaos royal south trumpet height";

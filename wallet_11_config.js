@@ -1,1 +1,1 @@
-var mnemonic = "dragon kidney web champion spin wonder arrow future dog impact glove couch";
+var mnemonic = "again summer slot drama tenant clinic young fortune alien glory crawl subject";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent morning lawsuit coyote trophy furnace hospital release since twenty index say";
+var mnemonic = "father topple indicate cigar genuine find rifle evidence under warfare remain abstract";

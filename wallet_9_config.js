@@ -1,1 +1,1 @@
-var mnemonic = "guard truck apple fetch vapor around must exhaust mother three oyster frequent";
+var mnemonic = "kid foam one raven excuse skill carbon pudding oil evil advice thank";

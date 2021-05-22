@@ -1,1 +1,1 @@
-var mnemonic = "bunker wonder soap ritual become pig project tired common gospel quarter rib";
+var mnemonic = "discover trial script thought render wage offer pair wife scale capable hover";

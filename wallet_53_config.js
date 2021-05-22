@@ -1,1 +1,1 @@
-var mnemonic = "property cook digital venue sheriff occur hood black seat twelve pink ozone";
+var mnemonic = "hotel empty boring awake fire cake credit mesh math sword public advance";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow cargo creek kick will hollow mixture trap sheriff mother caution betray";
+var mnemonic = "seek force color actual pull october when error six print impulse panic";

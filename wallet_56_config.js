@@ -1,1 +1,1 @@
-var mnemonic = "liquid beauty student about badge photo opinion rate naive spray artist iron";
+var mnemonic = "spell either lock upset avoid cradle enable taxi frequent excuse crater moment";

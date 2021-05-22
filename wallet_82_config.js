@@ -1,1 +1,1 @@
-var mnemonic = "phone price exist noodle blue column spawn coach employ mail boat coffee";
+var mnemonic = "school rather visa child hurry doll swing soup sense alert urban bus";

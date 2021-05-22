@@ -1,1 +1,1 @@
-var mnemonic = "lake trim pyramid nut march minute warrior burger hundred barrel grant reunion";
+var mnemonic = "gallery solar drive remove call slogan case hold adjust humor picnic swing";

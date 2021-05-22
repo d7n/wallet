@@ -1,1 +1,1 @@
-var mnemonic = "report outdoor second rice design modify march close hammer problem heart carry";
+var mnemonic = "vault forward foil famous immense furnace family gasp canvas brown father ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "genius squeeze wedding donor outer vivid left average adjust scatter forget myth";
+var mnemonic = "pilot faint lake way spy say snow sheriff inch skate humor guard";

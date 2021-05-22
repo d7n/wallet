@@ -1,1 +1,1 @@
-var mnemonic = "clock junior dress magnet season aisle camera visual mixture near initial kitten";
+var mnemonic = "slide merge salmon custom kidney van guide rude cruel muffin prepare antique";

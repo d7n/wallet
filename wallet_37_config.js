@@ -1,1 +1,1 @@
-var mnemonic = "calm poverty among river mosquito talk pottery feed fragile nation hire extra";
+var mnemonic = "cave swamp pretty stay sugar hint lumber soul sun spell puzzle confirm";

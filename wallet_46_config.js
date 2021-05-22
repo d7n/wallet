@@ -1,1 +1,1 @@
-var mnemonic = "swamp situate undo portion board genius ceiling engage evidence grief tooth can";
+var mnemonic = "govern stem convince couch sadness update retire mansion runway strategy leaf trend";

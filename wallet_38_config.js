@@ -1,1 +1,1 @@
-var mnemonic = "special process venture net occur mixture ladder party april cereal combine useful";
+var mnemonic = "course good scrap artefact race anger trap jacket damage pyramid sort reopen";

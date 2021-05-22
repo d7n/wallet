@@ -1,1 +1,1 @@
-var mnemonic = "pigeon clap genius trim truth category card link gym during quality jelly";
+var mnemonic = "tray ozone super join taste glare paddle upset human shaft side want";

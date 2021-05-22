@@ -1,1 +1,1 @@
-var mnemonic = "lake fog exist where cattle fancy grow clown autumn army frequent logic";
+var mnemonic = "shift champion rely satoshi inner taxi process tongue marble piano smoke vintage";

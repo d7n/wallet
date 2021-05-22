@@ -1,1 +1,1 @@
-var mnemonic = "change neutral employ tip million tunnel lens elephant feature advance bomb penalty";
+var mnemonic = "cook cable stable photo retreat royal arrive bicycle pink excite grit virus";

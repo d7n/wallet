@@ -1,1 +1,1 @@
-var mnemonic = "olympic purchase spirit write arrest fault situate plunge summer race sleep grant";
+var mnemonic = "oven burden token swing vendor renew narrow vicious ask cool giraffe hurdle";

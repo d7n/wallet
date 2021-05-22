@@ -1,1 +1,1 @@
-var mnemonic = "spray photo boat evoke cabbage bar cash layer urban group father inject";
+var mnemonic = "squeeze brand jaguar cover toss company proof exclude actual road case reject";

@@ -1,1 +1,1 @@
-var mnemonic = "drive example nose limb tone sea vote stuff save reject stick liar";
+var mnemonic = "naive useless smile fabric rhythm rhythm artist reunion doctor lab economy lesson";

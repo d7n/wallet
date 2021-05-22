@@ -1,1 +1,1 @@
-var mnemonic = "treat mimic cloth wisdom toward adjust limit cable whale magnet above jaguar";
+var mnemonic = "they violin cloud oblige mimic album scare breeze march floor evil isolate";

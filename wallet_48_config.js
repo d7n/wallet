@@ -1,1 +1,1 @@
-var mnemonic = "learn agent crunch earn walk load brush tide prepare mountain dilemma buddy";
+var mnemonic = "whip elder fold route town autumn learn govern tackle panther kit stamp";

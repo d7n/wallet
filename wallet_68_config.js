@@ -1,1 +1,1 @@
-var mnemonic = "lyrics green repair decide flavor toast speed sample prosper club room orphan";
+var mnemonic = "kite mimic trash poem spirit roast install hawk junior barrel throw foil";

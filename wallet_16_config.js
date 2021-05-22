@@ -1,1 +1,1 @@
-var mnemonic = "manage design vendor scale among trip awkward domain mind demand erosion rare";
+var mnemonic = "ski bag wet lunar super eyebrow nominee please coin extend stairs spend";

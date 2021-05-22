@@ -1,1 +1,1 @@
-var mnemonic = "duty heavy banana maple couple citizen embark chalk awful champion hockey attitude";
+var mnemonic = "island health aware beauty deputy often glow segment gap miracle head giggle";

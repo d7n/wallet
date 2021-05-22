@@ -1,1 +1,1 @@
-var mnemonic = "position swing grief inside lyrics phone boring chaos dove profit tomorrow clinic";
+var mnemonic = "element suspect oppose exotic foot doctor invest caught average list ill canvas";

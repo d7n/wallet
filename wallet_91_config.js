@@ -1,1 +1,1 @@
-var mnemonic = "comfort upper brand nurse table athlete culture license chapter basic pond duck";
+var mnemonic = "until fashion minimum census disagree biology tissue night journey chunk desert whip";

@@ -1,1 +1,1 @@
-var mnemonic = "woman click thank mutual envelope clever will blind pipe width double still";
+var mnemonic = "arena dumb season perfect maximum barely body goose source bind general unique";

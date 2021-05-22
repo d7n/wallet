@@ -1,1 +1,1 @@
-var mnemonic = "cherry attend tape minor blind brother destroy shed video sense ready sail";
+var mnemonic = "april fresh bag exercise arctic gown legal curve school crash return curve";

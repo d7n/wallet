@@ -1,1 +1,1 @@
-var mnemonic = "six filter trick interest quick prosper alpha cabbage gentle praise during lottery";
+var mnemonic = "creek skull come tree enjoy afford wisdom sun volcano rapid cabin will";

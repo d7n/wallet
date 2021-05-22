@@ -1,1 +1,1 @@
-var mnemonic = "add pause thing mountain key gentle average permit purse rhythm mass universe";
+var mnemonic = "square window obscure radio can leopard volume trick behind segment virus lizard";

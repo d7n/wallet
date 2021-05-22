@@ -1,1 +1,1 @@
-var mnemonic = "shop cake cotton hawk dad prevent panda change make rebuild weekend vote";
+var mnemonic = "agent enrich magnet dawn normal meadow adult private explain ignore toy absent";

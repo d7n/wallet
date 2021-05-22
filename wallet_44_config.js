@@ -1,1 +1,1 @@
-var mnemonic = "tone page practice stable usual use duty pole inquiry west wolf crouch";
+var mnemonic = "wife wink rotate valley hidden connect together decide harbor dizzy topple embrace";

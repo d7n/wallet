@@ -1,1 +1,1 @@
-var mnemonic = "helmet amateur find must faint priority face enable fruit foot veteran peanut";
+var mnemonic = "hospital barely slogan fringe fan volume absorb clump return critic divorce gentle";

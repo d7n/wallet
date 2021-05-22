@@ -1,1 +1,1 @@
-var mnemonic = "paddle quick motion switch south shift cricket infant wheat moment arctic tool";
+var mnemonic = "pair play idle retire shell medal dash open absurd area clock junk";

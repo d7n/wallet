@@ -1,1 +1,1 @@
-var mnemonic = "coconut more correct elephant charge beauty cup tooth urban limb pond mosquito";
+var mnemonic = "fragile permit toe veteran orphan chuckle gadget satisfy dynamic hole tragic faculty";

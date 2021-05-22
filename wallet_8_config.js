@@ -1,1 +1,1 @@
-var mnemonic = "way slam shift cat area recycle sudden father hip kind salute help";
+var mnemonic = "perfect slot symbol eternal carbon athlete dragon faculty mosquito tennis obtain opinion";

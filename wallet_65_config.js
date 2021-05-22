@@ -1,1 +1,1 @@
-var mnemonic = "wrong lamp method control clerk mechanic treat brave flee book insane apology";
+var mnemonic = "surface knock lamp excite crush august marble maze oxygen second faint fire";

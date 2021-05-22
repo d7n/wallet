@@ -1,1 +1,1 @@
-var mnemonic = "survey parrot wedding habit alpha truck exile horse drive paddle slow blossom";
+var mnemonic = "network bottom gaze charge gaze bullet focus turtle opinion strike debris fetch";

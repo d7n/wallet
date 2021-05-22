@@ -1,1 +1,1 @@
-var mnemonic = "faculty soon gap curious extra horse history welcome december amazing casual drop";
+var mnemonic = "short right transfer reject cigar climb assist surround elephant gossip salon silver";

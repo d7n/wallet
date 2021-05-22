@@ -1,1 +1,1 @@
-var mnemonic = "slam fire uncle biology forest sniff kangaroo consider size sail find state";
+var mnemonic = "card cigar cause action open time screen ladder hurdle circle float monster";

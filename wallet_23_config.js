@@ -1,1 +1,1 @@
-var mnemonic = "spread sausage guard feel skate language feed frown shoulder thing radar birth";
+var mnemonic = "style laugh salad census seminar junior gadget egg icon keep surface sport";

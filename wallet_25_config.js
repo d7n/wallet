@@ -1,1 +1,1 @@
-var mnemonic = "canoe dawn usual predict guilt sun until hedgehog add dwarf kidney razor";
+var mnemonic = "digital tourist tail zoo view climb casino symbol interest output seek keep";

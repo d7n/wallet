@@ -1,1 +1,1 @@
-var mnemonic = "bonus gas peace dial speed coach plug narrow famous vivid position orchard";
+var mnemonic = "slush funny raw opinion pole still super team left citizen follow orient";

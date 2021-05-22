@@ -1,1 +1,1 @@
-var mnemonic = "undo lottery mansion size elephant wine expand ribbon patrol arrive system use";
+var mnemonic = "undo major divert first develop valley snack pottery same kite jealous sausage";

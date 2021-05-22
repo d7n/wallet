@@ -1,1 +1,1 @@
-var mnemonic = "impose cricket claw three million turtle force cherry flee theory ethics reward";
+var mnemonic = "teach earth eyebrow auto armor clap scale panic truck empty coach swarm";

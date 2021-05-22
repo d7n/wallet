@@ -1,1 +1,1 @@
-var mnemonic = "theme old viable yellow trip dream whip security asset endorse castle rebel";
+var mnemonic = "fresh balance blood attend easy room cushion blood magic sibling lock away";

@@ -1,1 +1,1 @@
-var mnemonic = "capital gain globe small struggle limb purpose art salute version sad boil";
+var mnemonic = "thought correct praise kind unaware satisfy zero hurt tobacco hobby elbow bread";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo bronze fresh marriage extend toast topic record quantum clap rack smile";
+var mnemonic = "erupt license depend zero they empower parrot assume orbit wagon educate relax";

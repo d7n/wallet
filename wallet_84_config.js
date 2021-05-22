@@ -1,1 +1,1 @@
-var mnemonic = "border reduce earn purpose awkward anxiety sea jazz shiver talk milk lecture";
+var mnemonic = "harbor hen short powder shuffle equal portion club come exist toast other";

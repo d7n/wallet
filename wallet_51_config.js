@@ -1,1 +1,1 @@
-var mnemonic = "mom soccer gossip cannon naive habit tired rent crumble business stool denial";
+var mnemonic = "model endorse verb summer hold whip receive tennis entire sand absent task";

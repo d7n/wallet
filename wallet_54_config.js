@@ -1,1 +1,1 @@
-var mnemonic = "much own plug curve panda chapter napkin fish plunge clog blame unable";
+var mnemonic = "poet diesel blame recycle social spare end image mass wet where audit";

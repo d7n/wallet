@@ -1,1 +1,1 @@
-var mnemonic = "dove shell grow divide deliver excess digital army flee pigeon fragile regular";
+var mnemonic = "immune mixture field soul curious current subway time first chunk brisk prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple diagram under debris zone orange hill slim match foster grocery judge";
+var mnemonic = "limb theme swallow sail describe mind cross cherry column else muffin feel";

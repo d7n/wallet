@@ -1,1 +1,1 @@
-var mnemonic = "gorilla scorpion erase ring peace midnight castle dice razor fever push advice";
+var mnemonic = "tiny vendor hurry spike busy husband fault wrist couple cruise hollow body";
