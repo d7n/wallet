@@ -1,1 +1,1 @@
-var mnemonic = "grit movie comfort kick stone erupt side usual argue legend enact planet";
+var mnemonic = "tilt city help merit pattern harsh junk vote meadow slab bike ginger";

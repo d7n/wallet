@@ -1,1 +1,1 @@
-var mnemonic = "sand orange visa hair chaos fence wish question eager squirrel hamster off";
+var mnemonic = "village cloth drop curve agent differ session afford mask ranch glad march";

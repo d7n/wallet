@@ -1,1 +1,1 @@
-var mnemonic = "soft gas angry plunge stock museum vital later imitate shoot tuition horse";
+var mnemonic = "habit impose truth that flat sick flag bless cruise document wasp bike";

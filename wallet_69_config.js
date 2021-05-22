@@ -1,1 +1,1 @@
-var mnemonic = "october mechanic shove blossom tiny isolate differ explain sudden exhaust weapon invite";
+var mnemonic = "month refuse hunt favorite only document become clerk author dash soda course";

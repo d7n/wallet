@@ -1,1 +1,1 @@
-var mnemonic = "hope odor lumber sell quit follow few dawn awesome fruit evidence lend";
+var mnemonic = "again kitchen fame milk apology shrug wine bus chaos used clever royal";

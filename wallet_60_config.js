@@ -1,1 +1,1 @@
-var mnemonic = "mandate year baby erosion soup pig jeans loan whip obey system include";
+var mnemonic = "inhale edit save slogan property resource matrix human early all draft latin";

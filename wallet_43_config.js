@@ -1,1 +1,1 @@
-var mnemonic = "vessel blood blind jeans catch word inquiry dial inhale leisure act company";
+var mnemonic = "square quick hard now trick rain blast rally unveil field allow frost";

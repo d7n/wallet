@@ -1,1 +1,1 @@
-var mnemonic = "tourist vacuum secret maze fish govern embrace valley solution wisdom bid village";
+var mnemonic = "arena income husband goat blush spoon two green sea volume dentist dog";

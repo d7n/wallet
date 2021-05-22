@@ -1,1 +1,1 @@
-var mnemonic = "filter analyst review fix metal category mansion ability fly card fortune moment";
+var mnemonic = "claw frost avoid box crumble lemon eyebrow safe animal security inform bright";

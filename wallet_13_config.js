@@ -1,1 +1,1 @@
-var mnemonic = "area shield valley actor explain express direct vital noise sadness brass tag";
+var mnemonic = "unusual chaos capable deposit crazy armor ripple tuna social observe lawn mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "rely drink crush name summer luggage holiday athlete pink eager label stock";
+var mnemonic = "worth ill donkey galaxy unveil update captain fog pact frozen weekend cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe vacant sadness unknown erode describe banner warrior eager cycle adult talent";
+var mnemonic = "fever relief round master marine mammal vital stumble bid basic calm amount";

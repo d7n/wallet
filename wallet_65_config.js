@@ -1,1 +1,1 @@
-var mnemonic = "rifle wide source because skin install science remain moral general eager reject";
+var mnemonic = "spike bitter entry mean jelly system way country festival ghost spot clap";

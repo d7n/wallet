@@ -1,1 +1,1 @@
-var mnemonic = "bunker album refuse winner cabin vast dynamic engage tissue arrest silver source";
+var mnemonic = "wisdom faculty reason shock change annual vivid blue agree exotic round voice";

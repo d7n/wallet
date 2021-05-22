@@ -1,1 +1,1 @@
-var mnemonic = "broken lake upgrade famous immune snap machine drill what then evidence wild";
+var mnemonic = "shop pottery slot other fork burger deposit banana video design farm hint";

@@ -1,1 +1,1 @@
-var mnemonic = "mass ensure tackle sting correct breeze story thumb seat ball current desk";
+var mnemonic = "print three ability thrive fat ball dial home obey wrestle practice nerve";

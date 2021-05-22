@@ -1,1 +1,1 @@
-var mnemonic = "gift economy trap swallow account fortune chicken caution flame debris arrest improve";
+var mnemonic = "garbage novel member quality street maple place print slight glare surface grant";

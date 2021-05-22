@@ -1,1 +1,1 @@
-var mnemonic = "maze cycle buzz system level reduce avocado forget squeeze canyon country note";
+var mnemonic = "someone leopard brown grid upset imitate rigid phone truck hood round marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn dragon umbrella egg eager auction onion team rifle brick jar glimpse";
+var mnemonic = "glare fault climb length average artefact add rain shell estate custom ignore";

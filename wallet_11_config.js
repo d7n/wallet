@@ -1,1 +1,1 @@
-var mnemonic = "range dad voyage require raven position celery trip pigeon toilet depth road";
+var mnemonic = "age disorder swear odor climb beef vehicle flush matrix palm exercise dog";

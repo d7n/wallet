@@ -1,1 +1,1 @@
-var mnemonic = "ordinary elephant december situate elder push orchard found sample void leaf rib";
+var mnemonic = "duck bone shove where install man agent diary struggle retreat virus measure";

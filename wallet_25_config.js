@@ -1,1 +1,1 @@
-var mnemonic = "scatter cruise change term notice manual effort tackle embrace donate rubber jacket";
+var mnemonic = "correct economy speed license busy suffer stand typical picnic dawn grape crack";

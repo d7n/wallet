@@ -1,1 +1,1 @@
-var mnemonic = "lottery any endorse trip dolphin beyond lens car junk undo safe normal";
+var mnemonic = "record world night enjoy romance alter athlete kitchen skull bar oppose gloom";

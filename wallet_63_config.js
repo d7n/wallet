@@ -1,1 +1,1 @@
-var mnemonic = "rain coast poem major cook discover course cancel mandate plastic gospel desert";
+var mnemonic = "caution sound robot lawn opera denial doll october embark address aspect analyst";

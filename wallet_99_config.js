@@ -1,1 +1,1 @@
-var mnemonic = "leg radar luggage wreck broken slim universe voice roast panic strategy purse";
+var mnemonic = "manage leisure creek drama pupil what jump verify blossom govern usage good";

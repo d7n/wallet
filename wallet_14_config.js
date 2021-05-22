@@ -1,1 +1,1 @@
-var mnemonic = "satisfy creek impulse find age music ordinary select omit pigeon deny sheriff";
+var mnemonic = "resource board hospital obtain hour plastic song involve rack fitness season word";

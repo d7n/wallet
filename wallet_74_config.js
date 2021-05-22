@@ -1,1 +1,1 @@
-var mnemonic = "gloom cause seminar grace tilt dynamic crazy weekend limit direct gospel attract";
+var mnemonic = "since spoil three donor orphan day height uncover fox hold donate tragic";

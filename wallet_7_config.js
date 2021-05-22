@@ -1,1 +1,1 @@
-var mnemonic = "crew hybrid jealous wool order drive solution enrich snake develop mammal bonus";
+var mnemonic = "april hammer movie gate pact sad auto always try indicate minor kit";

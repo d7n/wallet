@@ -1,1 +1,1 @@
-var mnemonic = "under wreck option tape robust area cook crack exhibit mesh east improve";
+var mnemonic = "bench broccoli profit nest curious dizzy crucial ugly sudden boring squeeze fat";

@@ -1,1 +1,1 @@
-var mnemonic = "square nominee parade hunt thing cloth disagree reform budget dinosaur great engage";
+var mnemonic = "rare penalty undo relax demand volcano puzzle banana design update leader sand";

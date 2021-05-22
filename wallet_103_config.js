@@ -1,1 +1,1 @@
-var mnemonic = "blossom clutch asset renew predict speak cheese orient clarify odor desk lawsuit";
+var mnemonic = "segment nasty unveil myself brain hurdle skate swim timber stable praise skull";

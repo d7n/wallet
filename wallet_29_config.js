@@ -1,1 +1,1 @@
-var mnemonic = "dish cement chef sure funny alarm high furnace embrace firm refuse fix";
+var mnemonic = "market wolf gift misery wave mistake inner test stick sand maximum nominee";

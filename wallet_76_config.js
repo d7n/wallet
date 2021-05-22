@@ -1,1 +1,1 @@
-var mnemonic = "august rebuild nerve turtle nurse nuclear hour bullet lonely leisure divert blame";
+var mnemonic = "dizzy accuse usual beyond duck image reduce gown behind physical delay anger";

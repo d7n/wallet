@@ -1,1 +1,1 @@
-var mnemonic = "rich garment negative maximum skull tip used ranch six motor swift entry";
+var mnemonic = "busy worth voice rough attract police patient text lunch hungry retire pen";

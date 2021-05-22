@@ -1,1 +1,1 @@
-var mnemonic = "like senior void evolve found person grass domain anger mercy share tongue";
+var mnemonic = "matter tuna liar rug depend approve farm atom dinosaur organ search wild";

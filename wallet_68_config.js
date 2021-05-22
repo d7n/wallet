@@ -1,1 +1,1 @@
-var mnemonic = "okay repair ecology omit crystal gentle typical duck topic state skate hurry";
+var mnemonic = "magnet insect radar romance rapid toast logic bless order exclude ostrich pulse";

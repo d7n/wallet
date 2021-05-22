@@ -1,1 +1,1 @@
-var mnemonic = "reform doll drive behind else occur dial famous wife village repair skin";
+var mnemonic = "object swift cat offer cram design hover unveil bulk spare spice year";

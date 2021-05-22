@@ -1,1 +1,1 @@
-var mnemonic = "budget slow ask roof phrase eagle help test find sugar problem deny";
+var mnemonic = "exhaust olympic puppy sunny quit shoot visit priority sleep typical annual vibrant";

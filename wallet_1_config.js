@@ -1,1 +1,1 @@
-var mnemonic = "issue sport circle universe soup volcano essay market fence cave solar pole";
+var mnemonic = "random kingdom cinnamon waste floor carbon unfair witness sketch guide carry cousin";

@@ -1,1 +1,1 @@
-var mnemonic = "hair face step capital present ball ticket small combine gain drill erase";
+var mnemonic = "company imitate teach later polar phrase wagon moon ask arm monitor drum";

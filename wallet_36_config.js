@@ -1,1 +1,1 @@
-var mnemonic = "develop skirt story economy sentence nice asset flock cancel denial stable top";
+var mnemonic = "soap train keen choose salad quantum meat dragon foam outer since never";

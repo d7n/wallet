@@ -1,1 +1,1 @@
-var mnemonic = "gravity select snack miss position follow awful divide enhance index unknown gather";
+var mnemonic = "lawsuit dentist nephew glance edge evolve arm impose that again rubber flame";

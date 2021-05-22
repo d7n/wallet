@@ -1,1 +1,1 @@
-var mnemonic = "borrow easy cancel heart recycle broccoli design unfair lawn give soul father";
+var mnemonic = "soon valve pole shock tree ceiling february horn dinosaur craft rubber primary";

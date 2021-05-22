@@ -1,1 +1,1 @@
-var mnemonic = "inquiry black multiply movie nephew price trust sphere invest best sign model";
+var mnemonic = "favorite increase fire talent mouse despair retire embody dry lava bid ring";

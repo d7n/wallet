@@ -1,1 +1,1 @@
-var mnemonic = "cave tube kitchen person elite clip mushroom town oyster sad solve imitate";
+var mnemonic = "wage pencil between voyage quit ugly diagram range what sorry silly raven";

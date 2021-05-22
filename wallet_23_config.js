@@ -1,1 +1,1 @@
-var mnemonic = "cancel cement mansion now forum sentence subway tree travel regular fan volcano";
+var mnemonic = "task click arctic slight select dizzy caught rough wild february rural spoon";

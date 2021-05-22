@@ -1,1 +1,1 @@
-var mnemonic = "mask test verify south steak reduce wasp hamster boy size network benefit";
+var mnemonic = "crunch conduct cream resist lock walnut recall similar sing mail loop vicious";

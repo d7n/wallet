@@ -1,1 +1,1 @@
-var mnemonic = "trust prison image later glow dignity race filter electric kitchen lady outdoor";
+var mnemonic = "require system swing aspect tennis situate tape tiny labor atom goose trim";

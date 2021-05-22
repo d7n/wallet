@@ -1,1 +1,1 @@
-var mnemonic = "antenna pond material hair panda real excuse pause argue crawl together craft";
+var mnemonic = "web script skirt exotic exit vital swim stage column trap useless sport";

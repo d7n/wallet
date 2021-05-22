@@ -1,1 +1,1 @@
-var mnemonic = "where immune staff logic chase gentle train steel deer secret same eagle";
+var mnemonic = "horror broccoli print food fatal cigar hotel below thrive happy abuse rhythm";

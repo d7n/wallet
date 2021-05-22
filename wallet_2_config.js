@@ -1,1 +1,1 @@
-var mnemonic = "split little trouble join venture fragile junior obvious filter often panic gown";
+var mnemonic = "task trick neutral weasel churn swift glare able shell essay morning narrow";

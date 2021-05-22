@@ -1,1 +1,1 @@
-var mnemonic = "confirm amateur rubber angry huge blush buzz high wealth force gospel bundle";
+var mnemonic = "wealth furnace proof miracle scissors become drama trumpet crisp price author pen";

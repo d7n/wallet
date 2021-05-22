@@ -1,1 +1,1 @@
-var mnemonic = "evoke clock lock narrow funny resist sea vacuum clean load logic bar";
+var mnemonic = "jazz delay zoo access basic forest office canyon rent labor vast enlist";

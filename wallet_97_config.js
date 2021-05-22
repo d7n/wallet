@@ -1,1 +1,1 @@
-var mnemonic = "lawn endorse cross pair claw hill sense piano sausage avocado dirt author";
+var mnemonic = "stairs crash visa dash found possible worth prevent pioneer grace random inmate";

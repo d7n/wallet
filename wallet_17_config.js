@@ -1,1 +1,1 @@
-var mnemonic = "stem fetch great window south gate ethics magnet hero risk marble oblige";
+var mnemonic = "knock pause race debate lumber woman sentence velvet exile hire view car";

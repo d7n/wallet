@@ -1,1 +1,1 @@
-var mnemonic = "chief cabin acoustic foil weasel more involve lunch question antique camera essay";
+var mnemonic = "bargain december naive couple claim spy spray slice banana fatal hill power";

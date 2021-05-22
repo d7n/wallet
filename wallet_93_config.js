@@ -1,1 +1,1 @@
-var mnemonic = "try moment verify notable disease smooth maple reform dolphin render absent enrich";
+var mnemonic = "focus immense pledge high chat pact mind van stock portion drip grass";

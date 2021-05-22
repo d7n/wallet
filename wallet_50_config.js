@@ -1,1 +1,1 @@
-var mnemonic = "vessel museum aerobic age west crystal stay salmon little decrease bleak leg";
+var mnemonic = "puzzle amazing cliff immense library letter design manage father pride defy fee";

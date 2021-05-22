@@ -1,1 +1,1 @@
-var mnemonic = "grief oil fit tattoo ocean okay such someone wasp cup prison rude";
+var mnemonic = "gorilla kitchen expect toilet knee hub virus memory gauge rubber foam nut";

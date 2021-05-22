@@ -1,1 +1,1 @@
-var mnemonic = "congress mechanic lift amateur present rookie advance leave trap fiction obscure awake";
+var mnemonic = "define forward decade position dinosaur title focus until aware attitude addict dilemma";

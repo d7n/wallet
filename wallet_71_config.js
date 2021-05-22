@@ -1,1 +1,1 @@
-var mnemonic = "master planet grunt alcohol reopen solve bus lift around need adjust believe";
+var mnemonic = "taste select indicate want admit balcony imitate token interest peanut book order";

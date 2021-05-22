@@ -1,1 +1,1 @@
-var mnemonic = "cage castle cost danger tongue exhaust symbol change coconut rigid ridge wish";
+var mnemonic = "earn rent laundry garment knife search carbon regular ridge frequent surge point";

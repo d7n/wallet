@@ -1,1 +1,1 @@
-var mnemonic = "loud token tide wine because teach transfer junk exchange spare never elite";
+var mnemonic = "laundry secret come differ radar kitten uncover diary swarm file install wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient own cabin awake tired genre attack tourist door december tired loud";
+var mnemonic = "skirt worth ecology concert gather story cost clarify toy neutral sugar crystal";

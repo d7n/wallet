@@ -1,1 +1,1 @@
-var mnemonic = "barely voice frequent loud hill sample sad accuse pioneer bitter radio neither";
+var mnemonic = "uncle siege demand thank orchard mistake swift leave globe tissue input prize";

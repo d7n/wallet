@@ -1,1 +1,1 @@
-var mnemonic = "glide middle word oblige grocery illegal punch trim merge segment release vicious";
+var mnemonic = "cover arena frame month puzzle tenant uncle ride jaguar couch before bonus";

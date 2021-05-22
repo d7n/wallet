@@ -1,1 +1,1 @@
-var mnemonic = "crowd advance all road permit digital change mansion unhappy pulse tragic bread";
+var mnemonic = "tide cram tide swear index display whip alarm bright lottery energy else";

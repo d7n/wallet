@@ -1,1 +1,1 @@
-var mnemonic = "chicken noble sing aerobic ask quit plug drum sure else symbol picture";
+var mnemonic = "soldier pattern traffic bonus truth breeze immune sell vendor empower art fabric";

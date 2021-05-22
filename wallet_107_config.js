@@ -1,1 +1,1 @@
-var mnemonic = "whip check badge scheme estate teach skill gloom drill leave satoshi aerobic";
+var mnemonic = "primary asset rocket plunge turn coil relief quality ship entire force typical";

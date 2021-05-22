@@ -1,1 +1,1 @@
-var mnemonic = "laptop cattle engage angry scatter session page alien market syrup praise gesture";
+var mnemonic = "sport grab solid ghost return gossip minute before speak sound rookie flag";

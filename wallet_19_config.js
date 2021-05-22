@@ -1,1 +1,1 @@
-var mnemonic = "grow forward upset phrase agent stereo shoe acquire main fan jungle actress";
+var mnemonic = "tuna leg lawsuit sunny mesh sing nest good immense hawk garlic interest";

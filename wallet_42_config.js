@@ -1,1 +1,1 @@
-var mnemonic = "cage anxiety erosion maze waste elite option file umbrella crane toddler private";
+var mnemonic = "cost gas cereal elite warm barrel over current man list sphere ranch";

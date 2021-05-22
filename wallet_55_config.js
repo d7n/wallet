@@ -1,1 +1,1 @@
-var mnemonic = "endless expose cliff scare glad unfair still napkin cruel pill violin harvest";
+var mnemonic = "boss situate giraffe assist hire excuse fruit cheap cabin lake orphan stereo";

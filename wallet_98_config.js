@@ -1,1 +1,1 @@
-var mnemonic = "animal train clown genre flame return bronze trim sand seed cluster victory";
+var mnemonic = "spoon birth shop model life song guard cloth rib gorilla sense wide";

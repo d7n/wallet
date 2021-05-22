@@ -1,1 +1,1 @@
-var mnemonic = "marble culture captain romance twice fantasy elegant give neither suspect venture region";
+var mnemonic = "rival decrease bamboo actual cricket artefact neutral carbon knife twice bounce sell";

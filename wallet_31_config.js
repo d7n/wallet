@@ -1,1 +1,1 @@
-var mnemonic = "fatigue panda inflict dish true list toward dinner achieve vanish trash age";
+var mnemonic = "end twist screen rely pretty idle poverty truck stick age asthma lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "horse during beef enlist sort blanket wool taxi recall fiber fitness purpose";
+var mnemonic = "toward pudding machine foster magnet across demand switch beef boy sunny delay";

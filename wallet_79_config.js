@@ -1,1 +1,1 @@
-var mnemonic = "magic purity judge process purchase fan protect abuse involve staff indoor wealth";
+var mnemonic = "clown taste smart dance confirm burger obvious village devote labor enrich upper";

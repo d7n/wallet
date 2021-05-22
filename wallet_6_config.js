@@ -1,1 +1,1 @@
-var mnemonic = "mandate history spider luxury upper measure quarter permit turn dad whip radio";
+var mnemonic = "remain involve party execute dwarf worth chair person yellow mammal online winter";

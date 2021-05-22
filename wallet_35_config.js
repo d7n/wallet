@@ -1,1 +1,1 @@
-var mnemonic = "inspire museum turn motor lock emotion defense swift physical fork cheap slide";
+var mnemonic = "pool assume point section garage decrease legal must argue track north fortune";

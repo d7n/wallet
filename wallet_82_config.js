@@ -1,1 +1,1 @@
-var mnemonic = "elevator camera live youth hen love plug royal winner mixed bread okay";
+var mnemonic = "clump alien old income group settle oak danger razor volcano clump library";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich sell collect idea wear grape annual correct squeeze slice advice zone";
+var mnemonic = "bamboo pizza almost arrest nice issue rifle cross duck train hamster hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "airport exclude guilt machine tiny ethics speak leave upon diamond they dragon";
+var mnemonic = "obscure craft notable urge penalty damage rubber crater jungle clog annual avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "small attitude feature idle cargo piece food exchange slender tuition capital auto";
+var mnemonic = "drastic three issue weekend advance journey spawn sauce extra retreat indicate mistake";

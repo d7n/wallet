@@ -1,1 +1,1 @@
-var mnemonic = "reform drink ordinary health desk must hotel wonder canal cage setup ball";
+var mnemonic = "nest useful local silent loyal horn venture clown turtle eagle sadness member";

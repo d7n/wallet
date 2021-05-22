@@ -1,1 +1,1 @@
-var mnemonic = "venue eye have accuse lyrics cycle game connect farm spoon admit cart";
+var mnemonic = "empty occur voyage move gather item mouse hollow tuna autumn situate employ";

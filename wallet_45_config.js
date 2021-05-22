@@ -1,1 +1,1 @@
-var mnemonic = "warfare model print story provide polar piano result amazing shy quarter tell";
+var mnemonic = "column deputy clinic equip solution security truly refuse athlete wreck another reject";

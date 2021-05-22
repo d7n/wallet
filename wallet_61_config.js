@@ -1,1 +1,1 @@
-var mnemonic = "abstract hire pet relax isolate stumble silly penalty length sketch music oyster";
+var mnemonic = "vicious ship govern grid exclude join umbrella hedgehog rebel card pill radio";

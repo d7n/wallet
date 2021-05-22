@@ -1,1 +1,1 @@
-var mnemonic = "invest raw exclude taxi shell fly iron seat lunar student pumpkin other";
+var mnemonic = "receive they letter rifle rich giraffe achieve latin nose suspect use already";

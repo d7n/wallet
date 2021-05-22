@@ -1,1 +1,1 @@
-var mnemonic = "club quick rely club bean mutual sign raw mystery stem base meadow";
+var mnemonic = "assist wool wolf torch crush cereal volume brief upset antique rival jacket";
