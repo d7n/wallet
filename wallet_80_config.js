@@ -1,1 +1,1 @@
-var mnemonic = "ranch chronic into almost reject skull raw clay message explain pistol hungry";
+var mnemonic = "output candy must valley agree ski loyal finger donkey topple inherit hazard";

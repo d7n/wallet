@@ -1,1 +1,1 @@
-var mnemonic = "hockey cash acquire abuse metal moment summer still hole master answer autumn";
+var mnemonic = "kind style piece infant armed economy chapter whisper gossip veteran media believe";

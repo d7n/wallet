@@ -1,1 +1,1 @@
-var mnemonic = "filter number kit diary two pluck gasp velvet unlock they almost country";
+var mnemonic = "ordinary damage moon cage brave predict twice omit immune metal flower inspire";

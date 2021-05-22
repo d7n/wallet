@@ -1,1 +1,1 @@
-var mnemonic = "same fun derive search ill fade feed bright slice sword buzz truck";
+var mnemonic = "scout wrist solar yard credit answer country wheel ride friend lesson hold";

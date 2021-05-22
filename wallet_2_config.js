@@ -1,1 +1,1 @@
-var mnemonic = "celery excuse vendor funny rebuild bench cook swing fortune good garden earth";
+var mnemonic = "amount immense ginger upper deer worry sunset material curtain country rebel tape";

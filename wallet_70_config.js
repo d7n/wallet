@@ -1,1 +1,1 @@
-var mnemonic = "sad film neck hero bind blame glow pattern fat filter steel pottery";
+var mnemonic = "spoon ginger tower route calm grief caught coach grid melt cabbage narrow";

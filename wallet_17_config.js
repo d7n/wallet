@@ -1,1 +1,1 @@
-var mnemonic = "true asthma wagon island valve busy tool luggage distance jaguar nothing tomato";
+var mnemonic = "castle decide hub problem future oppose engage conduct pretty lift history vanish";

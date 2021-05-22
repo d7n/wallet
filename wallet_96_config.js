@@ -1,1 +1,1 @@
-var mnemonic = "veteran law dust mercy join volcano layer dumb rookie father gold warrior";
+var mnemonic = "target pupil couple mule extra arena agree horror cable pony address reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "brother grit crumble cook where pulp flip crowd betray usual desert salt";
+var mnemonic = "save liberty only mosquito write usual slender vendor main document blouse bullet";

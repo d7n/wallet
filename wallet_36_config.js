@@ -1,1 +1,1 @@
-var mnemonic = "trip frost raccoon devote cradle tennis field pulse wife grocery guard shove";
+var mnemonic = "drill fat skill accident drill eternal shrug impose script plastic decide kidney";

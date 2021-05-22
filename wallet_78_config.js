@@ -1,1 +1,1 @@
-var mnemonic = "holiday credit valve diesel endorse quick claw world tilt silent blame security";
+var mnemonic = "canyon tuition agent engage real sniff cargo employ dentist auction visa profit";

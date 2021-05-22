@@ -1,1 +1,1 @@
-var mnemonic = "mouse crucial vessel purpose unit talent few execute fiber mountain exhaust funny";
+var mnemonic = "small error long edge time april forward draft clump harbor stadium soul";

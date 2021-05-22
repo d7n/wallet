@@ -1,1 +1,1 @@
-var mnemonic = "expand ancient body engage deny sweet idea behave fever frost forest dutch";
+var mnemonic = "trash leader they pole rally stand reject divide fox dice observe split";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase reject village replace dust seminar cost around volcano romance afford utility";
+var mnemonic = "pledge angry sphere wrist bargain garage crazy unique enjoy hill advance another";

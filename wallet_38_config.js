@@ -1,1 +1,1 @@
-var mnemonic = "head primary woman trade antique ritual that orchard unfair recipe tower lunch";
+var mnemonic = "equip differ saddle curve term ridge when butter tragic toe hamster mechanic";

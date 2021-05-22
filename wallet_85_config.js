@@ -1,1 +1,1 @@
-var mnemonic = "project athlete worry six yellow journey describe shield squirrel cabin all bean";
+var mnemonic = "pledge world cause riot innocent return large spread among tenant animal glimpse";

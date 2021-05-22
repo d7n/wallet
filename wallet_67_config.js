@@ -1,1 +1,1 @@
-var mnemonic = "hawk over clown butter together garage ecology over swap win arrest season";
+var mnemonic = "drink surge genius lift salon vintage become arena come width when exist";

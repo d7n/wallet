@@ -1,1 +1,1 @@
-var mnemonic = "concert spread hotel nominee cotton orphan three donor orange casino modify cloud";
+var mnemonic = "poem embark mandate furnace match page service cruel obey spider ask inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "daring allow buyer dolphin erosion main tape wrestle cost tone dial lecture";
+var mnemonic = "aerobic scheme gather match pony local history tuna thing easy private visa";

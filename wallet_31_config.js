@@ -1,1 +1,1 @@
-var mnemonic = "useless file custom light sauce venture piece peasant want kiwi miracle captain";
+var mnemonic = "runway trash visit train olive reopen update grass cruise catch tuna busy";

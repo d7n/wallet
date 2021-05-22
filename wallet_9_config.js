@@ -1,1 +1,1 @@
-var mnemonic = "scissors fit myth manual game leisure act soda legend acid squeeze mix";
+var mnemonic = "noise shell powder deal grocery wedding real slim sad dawn accident gravity";

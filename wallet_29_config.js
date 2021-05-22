@@ -1,1 +1,1 @@
-var mnemonic = "admit culture soda faith step divorce deputy divert fatal alpha chair help";
+var mnemonic = "pepper sell rain thought bamboo expect flush pair salad idea prepare skirt";

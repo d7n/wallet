@@ -1,1 +1,1 @@
-var mnemonic = "reveal strong oak very hope frown various valve diagram tackle boss emerge";
+var mnemonic = "dirt guess scatter actual depth online jaguar domain best play coin material";

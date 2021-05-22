@@ -1,1 +1,1 @@
-var mnemonic = "coffee large kidney ship tiger cover ramp grass legal glide tomorrow parade";
+var mnemonic = "apple desert flee minute ceiling cluster enjoy pencil fork own twist real";

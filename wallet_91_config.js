@@ -1,1 +1,1 @@
-var mnemonic = "gauge bulk praise list switch input runway van crack stadium spin price";
+var mnemonic = "else patrol seminar height fury call below hen tray quarter spice result";

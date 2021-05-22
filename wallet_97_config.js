@@ -1,1 +1,1 @@
-var mnemonic = "bar more language owner visual fancy scene wisdom nuclear trip tilt frame";
+var mnemonic = "fatal fish giraffe learn front conduct buddy come sudden flip solid dress";

@@ -1,1 +1,1 @@
-var mnemonic = "weather enact reunion conduct mansion genuine ancient chunk current model bulb atom";
+var mnemonic = "congress sun exclude bacon stomach lion legal husband junk wild shell refuse";

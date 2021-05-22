@@ -1,1 +1,1 @@
-var mnemonic = "chief reveal client zone edge loyal rug actual couple convince soup crew";
+var mnemonic = "pigeon electric display owner replace any siege glare primary grant bright push";

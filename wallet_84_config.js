@@ -1,1 +1,1 @@
-var mnemonic = "evidence slush venture laundry onion choose wide miss sing good gospel program";
+var mnemonic = "cinnamon bread season increase audit slow truck problem auto monitor nominee click";

@@ -1,1 +1,1 @@
-var mnemonic = "capital guilt fatigue romance meat badge claim occur inquiry wide found material";
+var mnemonic = "mystery sniff found staff bird today spike cover series leaf remember genius";

@@ -1,1 +1,1 @@
-var mnemonic = "field exclude inch accident gym guess enforce soap demise minute visual airport";
+var mnemonic = "inhale blue moral unfold crazy develop save wool female pulp firm clutch";

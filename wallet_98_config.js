@@ -1,1 +1,1 @@
-var mnemonic = "repeat square return regret february hole spoil hold immense cute equip race";
+var mnemonic = "turkey color person purity profit foot ridge impose volume oven furnace laptop";

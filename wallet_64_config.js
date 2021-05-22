@@ -1,1 +1,1 @@
-var mnemonic = "abandon drink sad inform next pyramid power already merit clarify deputy hybrid";
+var mnemonic = "ski giggle erode average evoke flag cliff combine erupt hello bargain cupboard";

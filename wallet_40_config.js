@@ -1,1 +1,1 @@
-var mnemonic = "edit burst home actress point nuclear replace sustain exhaust exile useless hand";
+var mnemonic = "pulp sun drink uniform try cement arm world coin whip present install";

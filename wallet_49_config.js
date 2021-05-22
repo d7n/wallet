@@ -1,1 +1,1 @@
-var mnemonic = "omit fiscal garbage garment excess divert carry violin mutual reunion town eye";
+var mnemonic = "mimic over misery viable fade illegal turtle angry tiny inhale whisper innocent";

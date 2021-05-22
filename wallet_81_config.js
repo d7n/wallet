@@ -1,1 +1,1 @@
-var mnemonic = "fine virus return sudden unusual maple north people sister topple garment relax";
+var mnemonic = "prison banana enhance oak please exercise winner autumn omit reduce truck lazy";

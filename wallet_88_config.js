@@ -1,1 +1,1 @@
-var mnemonic = "sign scrub hurdle hen buyer three lunar slice tomorrow chair card abstract";
+var mnemonic = "coyote leader cup bachelor syrup off achieve hazard feature jeans hour rigid";

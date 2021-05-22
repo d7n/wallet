@@ -1,1 +1,1 @@
-var mnemonic = "dawn glimpse trust slide purse light govern cat awake shove mean salad";
+var mnemonic = "equip foot dwarf author high south fan clarify series actor verify family";

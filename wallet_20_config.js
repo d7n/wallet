@@ -1,1 +1,1 @@
-var mnemonic = "poem prosper august away mean absorb diary panel scale salad silk cake";
+var mnemonic = "floor long notice loud never slow dentist butter rack absent screen outside";

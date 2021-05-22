@@ -1,1 +1,1 @@
-var mnemonic = "present ostrich hero beach crush merit thunder chair daughter whisper enough round";
+var mnemonic = "lobster olympic lunar casual grain mom early luggage select yard company sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel vapor casino burger bring picture purity that pilot crunch fiction awake";
+var mnemonic = "leopard family churn verify cupboard tip angle when barely annual mesh inquiry";

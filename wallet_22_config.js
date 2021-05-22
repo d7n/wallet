@@ -1,1 +1,1 @@
-var mnemonic = "rhythm main upon loop pond demand swift power cloud glove travel almost";
+var mnemonic = "bone select among disorder genuine mom general utility spike list estate claw";

@@ -1,1 +1,1 @@
-var mnemonic = "sense young field because social clever rather silly scheme account wrestle quit";
+var mnemonic = "service decorate time powder tube expire sword bridge frog draft actress wash";

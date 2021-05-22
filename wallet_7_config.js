@@ -1,1 +1,1 @@
-var mnemonic = "flush rabbit seven wrong appear wool mandate photo shed edge crew skate";
+var mnemonic = "color during thought long zero crop clog panel fashion already prize waste";

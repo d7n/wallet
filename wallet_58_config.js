@@ -1,1 +1,1 @@
-var mnemonic = "august share bulb claw village fit where medal dry room jelly mask";
+var mnemonic = "upon garage inmate winter loop situate solid donor proud cluster there simple";

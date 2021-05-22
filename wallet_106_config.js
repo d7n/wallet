@@ -1,1 +1,1 @@
-var mnemonic = "mail elder method buffalo twice despair trip baby tooth near retreat monster";
+var mnemonic = "spawn trip tornado oven laugh faith road blade master never robot smart";

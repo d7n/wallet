@@ -1,1 +1,1 @@
-var mnemonic = "skirt math margin coyote convince series mean plug gadget lend labor hood";
+var mnemonic = "ketchup elephant home note rose nominee must plunge casino catalog young allow";

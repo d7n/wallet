@@ -1,1 +1,1 @@
-var mnemonic = "journey general text animal gravity smooth barrel ivory cost struggle observe economy";
+var mnemonic = "toe nasty glide balcony jealous resemble journey general seven arrive learn demise";

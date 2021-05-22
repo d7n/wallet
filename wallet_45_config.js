@@ -1,1 +1,1 @@
-var mnemonic = "hover shock idea evidence balance letter advice kangaroo gaze arctic hen ski";
+var mnemonic = "target guess lyrics close wave olive virtual trap chapter myself glass own";

@@ -1,1 +1,1 @@
-var mnemonic = "record frown destroy inhale father stand extend asset giraffe forget obscure trash";
+var mnemonic = "rookie naive rotate noise plate wheat coast brass organ timber consider feed";

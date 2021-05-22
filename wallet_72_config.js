@@ -1,1 +1,1 @@
-var mnemonic = "icon decide next easy mesh insane stable offer tomato dune wise throw";
+var mnemonic = "order point find innocent advice food wool hammer defense inform own sand";

@@ -1,1 +1,1 @@
-var mnemonic = "more course nice pledge grunt degree finger napkin glad network palm cricket";
+var mnemonic = "logic code exchange blur cube burger method portion true check focus guard";

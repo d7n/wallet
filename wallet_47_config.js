@@ -1,1 +1,1 @@
-var mnemonic = "dream type shop song card feature quick fiscal snow brain congress whale";
+var mnemonic = "weekend empty speak clever hedgehog witness sniff fine feel network tomorrow cause";

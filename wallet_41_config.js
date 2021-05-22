@@ -1,1 +1,1 @@
-var mnemonic = "glass behave patient object insect abandon market music sugar nut shiver april";
+var mnemonic = "salute gun permit opinion leisure wish rubber snap library apple unfair kid";

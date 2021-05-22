@@ -1,1 +1,1 @@
-var mnemonic = "sword mango until sport dawn confirm aspect glove upset remind moment index";
+var mnemonic = "exact this month reveal during magnet clerk second mobile shift forum rapid";

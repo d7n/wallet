@@ -1,1 +1,1 @@
-var mnemonic = "swarm slab make romance ride together knee south door crumble stone mesh";
+var mnemonic = "thank fantasy rookie social fiction hip metal summer prepare deal confirm limit";

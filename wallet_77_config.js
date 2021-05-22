@@ -1,1 +1,1 @@
-var mnemonic = "review valve second screen furnace eagle crop produce change gospel fantasy face";
+var mnemonic = "tell visual swallow embrace stick erosion leg skirt furnace embody impose eyebrow";

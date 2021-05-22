@@ -1,1 +1,1 @@
-var mnemonic = "affair settle magic cup point crack mechanic resist guard wonder ill dizzy";
+var mnemonic = "burden print organ roast candy asset three age stock choose proud pet";

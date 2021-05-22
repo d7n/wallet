@@ -1,1 +1,1 @@
-var mnemonic = "add below wide input ladder unlock race slow baby pretty enact huge";
+var mnemonic = "judge stand make paddle install outer ceiling this initial amount dilemma surface";

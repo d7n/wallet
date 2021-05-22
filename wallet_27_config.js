@@ -1,1 +1,1 @@
-var mnemonic = "season neither glance clarify arrive grant design actual axis old artist ladder";
+var mnemonic = "coconut sight swear reason elbow clown jacket dignity mandate morning attack suggest";

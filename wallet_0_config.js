@@ -1,1 +1,1 @@
-var mnemonic = "multiply liar loan skirt piano ticket medal easy illegal mimic frozen gesture";
+var mnemonic = "enforce denial tide quick decline share armor cake kit shell mass cricket";

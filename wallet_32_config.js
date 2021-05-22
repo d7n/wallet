@@ -1,1 +1,1 @@
-var mnemonic = "cable desk devote globe join axis onion front amused profit pear transfer";
+var mnemonic = "erupt metal dad timber worry buyer hungry resist such indicate enlist coach";

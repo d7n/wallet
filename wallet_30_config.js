@@ -1,1 +1,1 @@
-var mnemonic = "ball couple quality page expose problem borrow celery test seed mixed glide";
+var mnemonic = "like thunder cannon book unhappy lazy mansion true monitor era segment very";

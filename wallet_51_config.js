@@ -1,1 +1,1 @@
-var mnemonic = "shaft void kid afraid girl dial double throw auction wear crew security";
+var mnemonic = "copper mad frog output actor speed guitar spread fan ready immune initial";

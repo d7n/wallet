@@ -1,1 +1,1 @@
-var mnemonic = "shoot enemy depend market peace wonder absent soap race bus effort virus";
+var mnemonic = "kingdom myself drift picture orient simple nice cake salt congress short wear";

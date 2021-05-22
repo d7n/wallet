@@ -1,1 +1,1 @@
-var mnemonic = "garden luggage service error question almost alpha confirm kingdom cradle two today";
+var mnemonic = "jump category squeeze bird frozen tribe interest trend age vivid welcome afford";

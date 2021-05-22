@@ -1,1 +1,1 @@
-var mnemonic = "word adult october liquid tunnel fatigue youth exhaust debate minute trap grain";
+var mnemonic = "hazard agent basic now say only timber try please fiscal guide office";

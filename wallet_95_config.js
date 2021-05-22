@@ -1,1 +1,1 @@
-var mnemonic = "neutral furnace woman sense gaze mushroom spray wrist arrow scatter feel guard";
+var mnemonic = "napkin capital negative diet bomb friend quote cousin unaware liquid fame miss";

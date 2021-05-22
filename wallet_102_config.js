@@ -1,1 +1,1 @@
-var mnemonic = "nest drip master travel final dawn escape isolate wear bridge once snack";
+var mnemonic = "protect speak cradle flavor urge bicycle season net imitate flame manage soft";

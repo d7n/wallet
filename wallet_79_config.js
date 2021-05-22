@@ -1,1 +1,1 @@
-var mnemonic = "rally wheel culture jacket satisfy valley blade question unable moon code skirt";
+var mnemonic = "title tell trumpet air raise scorpion already sauce predict churn shed lock";

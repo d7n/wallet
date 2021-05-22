@@ -1,1 +1,1 @@
-var mnemonic = "cheese unique exist session nasty dwarf nephew film chaos garden smart crack";
+var mnemonic = "unknown wrist any half balance excuse month question female sort try banana";

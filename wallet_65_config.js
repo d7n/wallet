@@ -1,1 +1,1 @@
-var mnemonic = "powder word coral draw bread embrace mirror staff word fragile empower grant";
+var mnemonic = "captain cat struggle castle force street during biology stuff interest rally merge";

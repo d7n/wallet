@@ -1,1 +1,1 @@
-var mnemonic = "maximum bar impulse dry boil steak vague hill minute typical witness smooth";
+var mnemonic = "member long dignity odor absent nation metal upset gun tool drift gather";

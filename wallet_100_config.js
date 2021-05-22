@@ -1,1 +1,1 @@
-var mnemonic = "assault device strike ring lamp patrol olive anger balance salt table labor";
+var mnemonic = "toddler bitter yard tray believe reform turn host frozen author aim sister";

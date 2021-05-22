@@ -1,1 +1,1 @@
-var mnemonic = "delay mirror access hub spy jelly creek pause actress group emotion gorilla";
+var mnemonic = "office stamp soup forward wage bargain cook ridge only pond bless view";

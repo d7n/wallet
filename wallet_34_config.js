@@ -1,1 +1,1 @@
-var mnemonic = "hub host wolf era often vault engage toward govern inside ankle there";
+var mnemonic = "matrix sick stable spike ship negative soap cart grace concert fetch trick";

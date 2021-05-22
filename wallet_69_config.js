@@ -1,1 +1,1 @@
-var mnemonic = "census seek person rude evoke pig donkey exercise speed biology civil assume";
+var mnemonic = "regular over body pink lift thunder use stool impose hundred admit wreck";

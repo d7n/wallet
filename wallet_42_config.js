@@ -1,1 +1,1 @@
-var mnemonic = "modify skin book casual away unusual luxury tackle useless tomorrow jar aisle";
+var mnemonic = "wagon tornado device real vote magnet account arrange panel chapter movie truly";

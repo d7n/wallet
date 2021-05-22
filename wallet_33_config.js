@@ -1,1 +1,1 @@
-var mnemonic = "voyage melody earth afraid promote cry hotel sustain exclude fence gas deer";
+var mnemonic = "cousin grid hamster dragon fortune crush expect little whale guess vapor raven";

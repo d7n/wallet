@@ -1,1 +1,1 @@
-var mnemonic = "laundry snap expect evolve wall patch follow friend female funny egg offer";
+var mnemonic = "wait walk visa pattern recycle walk boost problem spot hello bread wine";

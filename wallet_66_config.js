@@ -1,1 +1,1 @@
-var mnemonic = "poet female inner hawk devote dice budget crunch lottery alcohol room travel";
+var mnemonic = "always napkin loan uniform ranch judge portion series face chief bleak outside";

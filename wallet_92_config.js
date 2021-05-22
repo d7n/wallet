@@ -1,1 +1,1 @@
-var mnemonic = "monitor olympic put renew gain gym math absent radio loop clay genre";
+var mnemonic = "parent glass bike chest legend extra buzz sentence truly artwork flip whale";

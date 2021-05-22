@@ -1,1 +1,1 @@
-var mnemonic = "strike scan inform raven jazz moment blouse word lawn allow before cheap";
+var mnemonic = "wage yard sketch submit manage express short regret lion evoke derive lazy";

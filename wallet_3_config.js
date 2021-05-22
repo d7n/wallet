@@ -1,1 +1,1 @@
-var mnemonic = "hero nephew ancient ritual surround inhale leader equip pledge nose ticket blossom";
+var mnemonic = "birth remember corn fold project crisp current target escape crowd employ answer";

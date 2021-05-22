@@ -1,1 +1,1 @@
-var mnemonic = "purpose scan install need clay law uniform earth local edit fat define";
+var mnemonic = "ride volcano legal peace work fortune service ship biology assume lady false";

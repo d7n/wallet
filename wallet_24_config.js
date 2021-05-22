@@ -1,1 +1,1 @@
-var mnemonic = "major furnace gold joke high success squeeze basic cigar sausage ten enable";
+var mnemonic = "dish section moral bleak birth account gun warrior nominee drink critic husband";
