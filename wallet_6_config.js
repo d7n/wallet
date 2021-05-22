@@ -1,1 +1,1 @@
-var mnemonic = "coil ten field snow plunge awesome memory only rose acquire hint six";
+var mnemonic = "receive review absent tortoise dog remind link dentist tackle critic family slush";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale blue moral unfold crazy develop save wool female pulp firm clutch";
+var mnemonic = "private quote gasp own nation actual grace toe hair belt enemy grocery";

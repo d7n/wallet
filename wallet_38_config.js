@@ -1,1 +1,1 @@
-var mnemonic = "equip differ saddle curve term ridge when butter tragic toe hamster mechanic";
+var mnemonic = "odor young social lonely ability disagree kit acquire humor stand burden april";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge angry sphere wrist bargain garage crazy unique enjoy hill advance another";
+var mnemonic = "element beef debate process enrich news all scout exhaust lawsuit cigar soccer";

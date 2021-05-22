@@ -1,1 +1,1 @@
-var mnemonic = "canyon tuition agent engage real sniff cargo employ dentist auction visa profit";
+var mnemonic = "fossil bracket ugly gym apart appear horror develop puzzle able parent skirt";

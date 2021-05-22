@@ -1,1 +1,1 @@
-var mnemonic = "lobster olympic lunar casual grain mom early luggage select yard company sadness";
+var mnemonic = "test oxygen tongue usual another often summer convince provide donkey orphan orchard";

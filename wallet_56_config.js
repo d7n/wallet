@@ -1,1 +1,1 @@
-var mnemonic = "doctor glimpse silk camera seek monkey torch vapor security public infant print";
+var mnemonic = "olympic cherry diet nerve enough state march cruel cactus correct fish gloom";

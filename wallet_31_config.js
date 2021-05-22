@@ -1,1 +1,1 @@
-var mnemonic = "runway trash visit train olive reopen update grass cruise catch tuna busy";
+var mnemonic = "prefer believe movie erode aisle fork stone deposit blade ride wrist conduct";

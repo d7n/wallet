@@ -1,1 +1,1 @@
-var mnemonic = "ride volcano legal peace work fortune service ship biology assume lady false";
+var mnemonic = "already jewel jungle level voyage payment taxi sail degree eagle episode guitar";

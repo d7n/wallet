@@ -1,1 +1,1 @@
-var mnemonic = "unknown wrist any half balance excuse month question female sort try banana";
+var mnemonic = "sign snake village laptop urban have august hazard ill welcome monkey neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "member long dignity odor absent nation metal upset gun tool drift gather";
+var mnemonic = "badge hungry worry swift work gun cup road donor solid reason embark";

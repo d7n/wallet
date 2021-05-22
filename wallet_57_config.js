@@ -1,1 +1,1 @@
-var mnemonic = "kind style piece infant armed economy chapter whisper gossip veteran media believe";
+var mnemonic = "hybrid first foot dutch flat manual spy harbor web subject hedgehog design";

@@ -1,1 +1,1 @@
-var mnemonic = "burden print organ roast candy asset three age stock choose proud pet";
+var mnemonic = "around wood demand chair shift advance top mistake insane antique birth width";

@@ -1,1 +1,1 @@
-var mnemonic = "click cabbage truck easy camp heavy globe steak siren topple mushroom valid";
+var mnemonic = "mother assault day kind regret wrist motion panic note accuse lottery ship";

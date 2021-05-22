@@ -1,1 +1,1 @@
-var mnemonic = "enforce denial tide quick decline share armor cake kit shell mass cricket";
+var mnemonic = "catch milk rare unusual license position trend surface unhappy park hedgehog adult";

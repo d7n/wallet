@@ -1,1 +1,1 @@
-var mnemonic = "kingdom myself drift picture orient simple nice cake salt congress short wear";
+var mnemonic = "never arrange stick essay song scatter rich common aerobic canyon brown time";

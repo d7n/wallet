@@ -1,1 +1,1 @@
-var mnemonic = "later famous betray aim soccer feature fun dice slam general review service";
+var mnemonic = "cause pretty bamboo grant toward raven that supreme shadow lake mushroom grace";

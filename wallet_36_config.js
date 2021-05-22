@@ -1,1 +1,1 @@
-var mnemonic = "drill fat skill accident drill eternal shrug impose script plastic decide kidney";
+var mnemonic = "fetch truly tell super happy pole multiply fetch blind thrive marine upset";

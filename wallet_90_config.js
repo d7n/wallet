@@ -1,1 +1,1 @@
-var mnemonic = "logic code exchange blur cube burger method portion true check focus guard";
+var mnemonic = "vicious neutral garbage cancel prepare move upper beyond young soft myself record";

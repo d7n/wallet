@@ -1,1 +1,1 @@
-var mnemonic = "excite worry fabric mask trial enforce lava okay conduct shadow front horn";
+var mnemonic = "exclude limit net develop lyrics finish knee harsh local stone try nation";

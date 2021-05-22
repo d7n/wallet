@@ -1,1 +1,1 @@
-var mnemonic = "erupt metal dad timber worry buyer hungry resist such indicate enlist coach";
+var mnemonic = "antique very emerge hundred quote ugly escape other defense proof hub obey";

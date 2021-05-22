@@ -1,1 +1,1 @@
-var mnemonic = "twenty raw fresh cool pencil pulse walk noodle clarify tornado talent arrive";
+var mnemonic = "struggle scale arrow exit initial clump snap nuclear team road refuse diary";

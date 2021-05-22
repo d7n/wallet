@@ -1,1 +1,1 @@
-var mnemonic = "scout wrist solar yard credit answer country wheel ride friend lesson hold";
+var mnemonic = "flat flame space stage fit organ proud eternal animal tortoise sorry they";

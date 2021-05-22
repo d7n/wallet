@@ -1,1 +1,1 @@
-var mnemonic = "pigeon electric display owner replace any siege glare primary grant bright push";
+var mnemonic = "collect end swarm scrap like feature focus orchard edge cloth region begin";

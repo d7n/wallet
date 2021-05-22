@@ -1,1 +1,1 @@
-var mnemonic = "small error long edge time april forward draft clump harbor stadium soul";
+var mnemonic = "country axis artist reunion expire lift dice ranch chimney uncle alien flag";

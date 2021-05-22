@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bread season increase audit slow truck problem auto monitor nominee click";
+var mnemonic = "rescue achieve they merry debate true merge addict skirt turtle myself lion";

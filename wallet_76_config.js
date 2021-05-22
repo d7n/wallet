@@ -1,1 +1,1 @@
-var mnemonic = "mystery sniff found staff bird today spike cover series leaf remember genius";
+var mnemonic = "fade minor journey color diary goat blade pitch solution spy merry tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "proof course garden wage name deal bundle frown scrap romance foil cherry";
+var mnemonic = "author render snap dirt please climb inside advice agree elevator fragile talk";

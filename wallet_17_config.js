@@ -1,1 +1,1 @@
-var mnemonic = "castle decide hub problem future oppose engage conduct pretty lift history vanish";
+var mnemonic = "turtle cave crack congress monkey car drive siren divert renew remember jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard family churn verify cupboard tip angle when barely annual mesh inquiry";
+var mnemonic = "sure exact memory hunt theme control proof ozone monster such wrap bacon";

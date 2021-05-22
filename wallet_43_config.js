@@ -1,1 +1,1 @@
-var mnemonic = "innocent story rude welcome huge few wisdom make fitness drip another page";
+var mnemonic = "walk almost vendor ship tell genre morning retire inform palace coyote group";

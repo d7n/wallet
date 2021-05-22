@@ -1,1 +1,1 @@
-var mnemonic = "color during thought long zero crop clog panel fashion already prize waste";
+var mnemonic = "nothing reform panda rug region jelly present time cattle equal secret decline";

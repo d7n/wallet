@@ -1,1 +1,1 @@
-var mnemonic = "judge stand make paddle install outer ceiling this initial amount dilemma surface";
+var mnemonic = "exhibit stamp honey holiday stable vessel language chimney sense panel reflect menu";

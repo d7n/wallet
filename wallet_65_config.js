@@ -1,1 +1,1 @@
-var mnemonic = "captain cat struggle castle force street during biology stuff interest rally merge";
+var mnemonic = "crime flight kiss pigeon puzzle rose genre desert square joy object actor";

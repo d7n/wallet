@@ -1,1 +1,1 @@
-var mnemonic = "matrix sick stable spike ship negative soap cart grace concert fetch trick";
+var mnemonic = "plate taxi royal pupil order donate elder fashion domain clerk august involve";

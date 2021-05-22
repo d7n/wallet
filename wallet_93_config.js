@@ -1,1 +1,1 @@
-var mnemonic = "edge million walnut expire shadow remain infant elephant duck tumble sentence always";
+var mnemonic = "begin monitor dignity skate crack cave grid cycle dolphin album width volume";

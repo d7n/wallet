@@ -1,1 +1,1 @@
-var mnemonic = "forest ready wrap stay small long dismiss prevent leisure car during soft";
+var mnemonic = "degree furnace lend lunar supply sorry wage maid modify baby matrix romance";

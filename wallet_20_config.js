@@ -1,1 +1,1 @@
-var mnemonic = "floor long notice loud never slow dentist butter rack absent screen outside";
+var mnemonic = "balcony young sniff sadness oyster deal electric leopard marine beef praise gain";

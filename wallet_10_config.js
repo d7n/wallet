@@ -1,1 +1,1 @@
-var mnemonic = "aerobic scheme gather match pony local history tuna thing easy private visa";
+var mnemonic = "include theme narrow vocal spatial dirt comic trash peanut grape pigeon caught";

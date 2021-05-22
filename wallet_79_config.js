@@ -1,1 +1,1 @@
-var mnemonic = "title tell trumpet air raise scorpion already sauce predict churn shed lock";
+var mnemonic = "cattle vote gift fold swarm accuse core build media drip sign coyote";

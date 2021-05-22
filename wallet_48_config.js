@@ -1,1 +1,1 @@
-var mnemonic = "rookie naive rotate noise plate wheat coast brass organ timber consider feed";
+var mnemonic = "antenna harvest anxiety cloud whale crush dawn satisfy flavor drill live divorce";

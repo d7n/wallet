@@ -1,1 +1,1 @@
-var mnemonic = "mimic over misery viable fade illegal turtle angry tiny inhale whisper innocent";
+var mnemonic = "acoustic tiger spread cousin girl horn artist monitor stone foam gasp forward";

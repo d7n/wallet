@@ -1,1 +1,1 @@
-var mnemonic = "target pupil couple mule extra arena agree horror cable pony address reunion";
+var mnemonic = "normal another card child movie medal patrol basket insane asset process midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "copper mad frog output actor speed guitar spread fan ready immune initial";
+var mnemonic = "name matrix current original visual flame cement junk keen rally hover near";

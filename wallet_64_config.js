@@ -1,1 +1,1 @@
-var mnemonic = "ski giggle erode average evoke flag cliff combine erupt hello bargain cupboard";
+var mnemonic = "ugly paddle neglect list alien bronze assist limb drip fall dolphin reason";

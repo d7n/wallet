@@ -1,1 +1,1 @@
-var mnemonic = "output candy must valley agree ski loyal finger donkey topple inherit hazard";
+var mnemonic = "mother raise balance panic damp scan hair speak quarter inhale aspect episode";

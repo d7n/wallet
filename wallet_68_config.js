@@ -1,1 +1,1 @@
-var mnemonic = "office stamp soup forward wage bargain cook ridge only pond bless view";
+var mnemonic = "gloom scare art faint trust frequent cube corn bullet teach sustain wrong";

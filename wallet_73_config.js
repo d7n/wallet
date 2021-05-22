@@ -1,1 +1,1 @@
-var mnemonic = "apple desert flee minute ceiling cluster enjoy pencil fork own twist real";
+var mnemonic = "share engine dad advice viable box page left hair combine sail leave";

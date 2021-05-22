@@ -1,1 +1,1 @@
-var mnemonic = "advice fire mercy ring grass across version bicycle salt aim ready actress";
+var mnemonic = "label latin round ranch entire math second stereo call opera siege physical";

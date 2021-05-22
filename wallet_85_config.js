@@ -1,1 +1,1 @@
-var mnemonic = "pledge world cause riot innocent return large spread among tenant animal glimpse";
+var mnemonic = "immune game into area orchard garage humble nut noise devote galaxy what";

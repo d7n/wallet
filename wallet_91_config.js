@@ -1,1 +1,1 @@
-var mnemonic = "else patrol seminar height fury call below hen tray quarter spice result";
+var mnemonic = "vendor mosquito apology follow chalk license lake wrist level poet jeans hope";

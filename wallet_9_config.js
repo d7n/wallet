@@ -1,1 +1,1 @@
-var mnemonic = "noise shell powder deal grocery wedding real slim sad dawn accident gravity";
+var mnemonic = "shift noodle resemble situate tail rocket throw lumber crunch gate wet cluster";

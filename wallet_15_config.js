@@ -1,1 +1,1 @@
-var mnemonic = "poem embark mandate furnace match page service cruel obey spider ask inherit";
+var mnemonic = "solar warrior double flush citizen broom utility desk remain furnace gold require";

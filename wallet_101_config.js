@@ -1,1 +1,1 @@
-var mnemonic = "volcano accuse oppose dilemma trend spare invest famous mimic van subway gap";
+var mnemonic = "layer shoe cement bargain volcano exclude arctic juice pioneer keep mountain oven";

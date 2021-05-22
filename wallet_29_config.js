@@ -1,1 +1,1 @@
-var mnemonic = "pepper sell rain thought bamboo expect flush pair salad idea prepare skirt";
+var mnemonic = "fossil you toast siren celery second else awake seed jeans sketch hint";

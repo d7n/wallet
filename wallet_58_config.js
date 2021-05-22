@@ -1,1 +1,1 @@
-var mnemonic = "upon garage inmate winter loop situate solid donor proud cluster there simple";
+var mnemonic = "much add since gas census opinion stone first oyster pluck travel cruel";

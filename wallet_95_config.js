@@ -1,1 +1,1 @@
-var mnemonic = "napkin capital negative diet bomb friend quote cousin unaware liquid fame miss";
+var mnemonic = "auto maximum bless link error cheese extra plug because subway stadium gap";

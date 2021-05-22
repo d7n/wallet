@@ -1,1 +1,1 @@
-var mnemonic = "ketchup elephant home note rose nominee must plunge casino catalog young allow";
+var mnemonic = "fine model despair peasant road embrace morning daring churn doctor critic romance";

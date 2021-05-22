@@ -1,1 +1,1 @@
-var mnemonic = "jump category squeeze bird frozen tribe interest trend age vivid welcome afford";
+var mnemonic = "banner medal black any mansion possible gallery exhibit square stamp inside east";

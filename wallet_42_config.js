@@ -1,1 +1,1 @@
-var mnemonic = "wagon tornado device real vote magnet account arrange panel chapter movie truly";
+var mnemonic = "barely timber favorite violin wet grocery cute release caution any quiz similar";

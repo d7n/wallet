@@ -1,1 +1,1 @@
-var mnemonic = "cousin grid hamster dragon fortune crush expect little whale guess vapor raven";
+var mnemonic = "thrive spray assist ecology owner cat bacon elder chronic artefact width cable";

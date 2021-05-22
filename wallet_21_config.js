@@ -1,1 +1,1 @@
-var mnemonic = "equip foot dwarf author high south fan clarify series actor verify family";
+var mnemonic = "boring adapt vessel switch caution target smooth nation twelve bounce lion foil";

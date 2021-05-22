@@ -1,1 +1,1 @@
-var mnemonic = "service decorate time powder tube expire sword bridge frog draft actress wash";
+var mnemonic = "hidden buyer neutral violin tourist churn earn night together polar pupil easy";

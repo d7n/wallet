@@ -1,1 +1,1 @@
-var mnemonic = "tell visual swallow embrace stick erosion leg skirt furnace embody impose eyebrow";
+var mnemonic = "supply cheap subway lend mouse turkey person someone trend morning choice virus";

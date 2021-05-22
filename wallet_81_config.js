@@ -1,1 +1,1 @@
-var mnemonic = "prison banana enhance oak please exercise winner autumn omit reduce truck lazy";
+var mnemonic = "proud erode decrease effort cram truly process tide habit bone true kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "exact this month reveal during magnet clerk second mobile shift forum rapid";
+var mnemonic = "turtle net desk carbon mechanic intact wire clap lecture salt nest box";

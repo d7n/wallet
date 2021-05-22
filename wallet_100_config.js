@@ -1,1 +1,1 @@
-var mnemonic = "toddler bitter yard tray believe reform turn host frozen author aim sister";
+var mnemonic = "eagle leisure visual tomato sound stomach solution slice gift lift valve another";

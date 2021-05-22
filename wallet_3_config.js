@@ -1,1 +1,1 @@
-var mnemonic = "birth remember corn fold project crisp current target escape crowd employ answer";
+var mnemonic = "loyal balance cabin token write round opinion pill spoon feature devote menu";

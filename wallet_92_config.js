@@ -1,1 +1,1 @@
-var mnemonic = "parent glass bike chest legend extra buzz sentence truly artwork flip whale";
+var mnemonic = "document bench merit undo kite diesel economy glad raven segment excite short";

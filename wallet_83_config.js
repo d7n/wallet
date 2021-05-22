@@ -1,1 +1,1 @@
-var mnemonic = "gain wear more cousin symbol audit interest atom hour brisk uncle surprise";
+var mnemonic = "entry flock scare episode mechanic flash wet old defense lobster retreat potato";

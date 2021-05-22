@@ -1,1 +1,1 @@
-var mnemonic = "sport aspect gym school ring final mask color wild royal expand flip";
+var mnemonic = "frequent furnace truck whisper quiz build casino camera forum patch panther fiscal";

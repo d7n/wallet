@@ -1,1 +1,1 @@
-var mnemonic = "bone select among disorder genuine mom general utility spike list estate claw";
+var mnemonic = "lonely family series model phrase fix olympic purpose tray job body burger";

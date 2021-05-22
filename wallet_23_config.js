@@ -1,1 +1,1 @@
-var mnemonic = "hungry must mixture garbage approve provide business height want cook give brick";
+var mnemonic = "dignity still shoot maze turkey giant neither lizard side excess rice puzzle";

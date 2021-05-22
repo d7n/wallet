@@ -1,1 +1,1 @@
-var mnemonic = "order point find innocent advice food wool hammer defense inform own sand";
+var mnemonic = "wild distance enlist earth expire kiwi frozen decide armor adult shrimp rather";

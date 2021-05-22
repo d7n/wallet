@@ -1,1 +1,1 @@
-var mnemonic = "regular over body pink lift thunder use stool impose hundred admit wreck";
+var mnemonic = "trap sell diagram snap brief youth penalty police involve feel true bean";

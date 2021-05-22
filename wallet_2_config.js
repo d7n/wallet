@@ -1,1 +1,1 @@
-var mnemonic = "amount immense ginger upper deer worry sunset material curtain country rebel tape";
+var mnemonic = "voyage ivory person sight that sport flame urge emerge weapon search piano";

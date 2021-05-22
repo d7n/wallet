@@ -1,1 +1,1 @@
-var mnemonic = "dish section moral bleak birth account gun warrior nominee drink critic husband";
+var mnemonic = "turn fortune aware delay final vivid monitor pencil surprise initial cool possible";

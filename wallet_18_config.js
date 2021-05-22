@@ -1,1 +1,1 @@
-var mnemonic = "ordinary damage moon cage brave predict twice omit immune metal flower inspire";
+var mnemonic = "evoke oval next large desk large cram height keen junk field mass";

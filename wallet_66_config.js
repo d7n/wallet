@@ -1,1 +1,1 @@
-var mnemonic = "always napkin loan uniform ranch judge portion series face chief bleak outside";
+var mnemonic = "trophy level visa example scatter stadium kiwi aisle junior client else crane";

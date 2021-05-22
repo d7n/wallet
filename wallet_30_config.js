@@ -1,1 +1,1 @@
-var mnemonic = "like thunder cannon book unhappy lazy mansion true monitor era segment very";
+var mnemonic = "shuffle pond kangaroo time corn door artwork adapt wood act need kiss";

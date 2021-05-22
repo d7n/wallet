@@ -1,1 +1,1 @@
-var mnemonic = "wreck chicken beauty napkin claim dad devote festival permit cinnamon joke blood";
+var mnemonic = "cluster job rug pudding know relief between oyster salute keen friend bubble";

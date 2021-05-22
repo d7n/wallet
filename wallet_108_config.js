@@ -1,1 +1,1 @@
-var mnemonic = "race pudding snack fiscal brother best monster weekend crowd canvas lake cart";
+var mnemonic = "upon foot cart phone wall wisdom winner traffic rifle ten exact copy";

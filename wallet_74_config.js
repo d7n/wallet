@@ -1,1 +1,1 @@
-var mnemonic = "wage yard sketch submit manage express short regret lion evoke derive lazy";
+var mnemonic = "vapor piece average glow build auction daring hover spice emerge blouse knife";

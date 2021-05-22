@@ -1,1 +1,1 @@
-var mnemonic = "congress sun exclude bacon stomach lion legal husband junk wild shell refuse";
+var mnemonic = "craft true october replace cabbage retreat material grace december host catch since";

@@ -1,1 +1,1 @@
-var mnemonic = "target guess lyrics close wave olive virtual trap chapter myself glass own";
+var mnemonic = "police dignity initial stool rent smile drum same lumber remind buffalo toddler";

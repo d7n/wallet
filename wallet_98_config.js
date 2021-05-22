@@ -1,1 +1,1 @@
-var mnemonic = "turkey color person purity profit foot ridge impose volume oven furnace laptop";
+var mnemonic = "solve ice ski benefit cereal hundred armor helmet silly exercise bright fluid";

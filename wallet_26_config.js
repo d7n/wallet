@@ -1,1 +1,1 @@
-var mnemonic = "save liberty only mosquito write usual slender vendor main document blouse bullet";
+var mnemonic = "section gown maid cupboard give chunk program net dutch element renew honey";

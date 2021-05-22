@@ -1,1 +1,1 @@
-var mnemonic = "spoon ginger tower route calm grief caught coach grid melt cabbage narrow";
+var mnemonic = "predict raw alone bullet genre promote reopen spider place call sense genuine";

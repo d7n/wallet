@@ -1,1 +1,1 @@
-var mnemonic = "wolf gold wife human ring indicate vanish saddle curve valley address two";
+var mnemonic = "kidney clinic youth assist list update reflect palm connect glad volcano lazy";

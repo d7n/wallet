@@ -1,1 +1,1 @@
-var mnemonic = "dirt orchard knife market hello salt snow dolphin crowd degree real steel";
+var mnemonic = "food destroy visa march later uncle multiply funny pride special when service";

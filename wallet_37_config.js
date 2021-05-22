@@ -1,1 +1,1 @@
-var mnemonic = "reduce melt luggage mandate boss vessel unfair view biology oval flee core";
+var mnemonic = "club winter clerk palace shove alone patrol this solution change syrup boost";

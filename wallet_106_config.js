@@ -1,1 +1,1 @@
-var mnemonic = "spawn trip tornado oven laugh faith road blade master never robot smart";
+var mnemonic = "toilet name inch sister inform symptom aerobic strike buffalo goddess learn lazy";

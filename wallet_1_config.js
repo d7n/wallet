@@ -1,1 +1,1 @@
-var mnemonic = "thank fantasy rookie social fiction hip metal summer prepare deal confirm limit";
+var mnemonic = "sustain column inform private embark stand design broken nest whale crash lazy";

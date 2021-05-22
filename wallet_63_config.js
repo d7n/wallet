@@ -1,1 +1,1 @@
-var mnemonic = "trash leader they pole rally stand reject divide fox dice observe split";
+var mnemonic = "split crop canoe bulk alley adult acid sleep judge cactus engage name";

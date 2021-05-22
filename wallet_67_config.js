@@ -1,1 +1,1 @@
-var mnemonic = "drink surge genius lift salon vintage become arena come width when exist";
+var mnemonic = "guard finish pig symptom female mixture island matrix leisure copper weird inherit";

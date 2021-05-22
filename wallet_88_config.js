@@ -1,1 +1,1 @@
-var mnemonic = "coyote leader cup bachelor syrup off achieve hazard feature jeans hour rigid";
+var mnemonic = "opinion frost donate oval ask marble outside eyebrow approve above fire left";

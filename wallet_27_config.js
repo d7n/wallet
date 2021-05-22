@@ -1,1 +1,1 @@
-var mnemonic = "coconut sight swear reason elbow clown jacket dignity mandate morning attack suggest";
+var mnemonic = "curve mandate subject chef audit detail among ankle peace cute spend rich";
