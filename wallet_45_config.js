@@ -1,1 +1,1 @@
-var mnemonic = "margin speed meadow fortune seven quantum ignore dentist decade grocery funny shell";
+var mnemonic = "help gentle erase quick proud what gallery hero wage limit anxiety brother";

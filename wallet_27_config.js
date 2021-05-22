@@ -1,1 +1,1 @@
-var mnemonic = "labor endorse pluck other quiz surface iron category sweet fluid symptom venue";
+var mnemonic = "kidney garbage pattern slogan ridge marble moon denial second divorce cash make";

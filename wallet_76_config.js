@@ -1,1 +1,1 @@
-var mnemonic = "bottom tragic axis outer buzz swing shrug meat mistake banana copper air";
+var mnemonic = "motion unit ripple damage seven wife just pulse slim adult vault enter";

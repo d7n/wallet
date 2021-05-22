@@ -1,1 +1,1 @@
-var mnemonic = "output rib reunion lounge anchor marriage soup holiday shiver tank clock equip";
+var mnemonic = "derive mass sound run add alone fold own salt odor reunion define";

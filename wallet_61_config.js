@@ -1,1 +1,1 @@
-var mnemonic = "disagree two club stairs shove cabin leaf nuclear camera elevator plug seek";
+var mnemonic = "foam grace field carbon seed segment harvest solid boil rifle soup talent";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital input copy ginger announce olive radar furnace save gown blast ship";
+var mnemonic = "vital number melody taste day image promote congress shrimp struggle negative wash";

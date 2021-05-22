@@ -1,1 +1,1 @@
-var mnemonic = "gesture panel struggle tail hammer cube frost stairs east genius undo avoid";
+var mnemonic = "fee swear divert vivid animal lobster step stock absorb knife chicken wing";

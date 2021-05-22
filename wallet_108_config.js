@@ -1,1 +1,1 @@
-var mnemonic = "what spy armed addict emotion indicate okay spray thought sing correct spoil";
+var mnemonic = "claw toilet rookie wet library gold milk claim tonight sight photo final";

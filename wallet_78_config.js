@@ -1,1 +1,1 @@
-var mnemonic = "skate february sample honey fever copper table cool melt start enjoy become";
+var mnemonic = "immune finish notice simple width topple century stumble aunt mansion pet jealous";

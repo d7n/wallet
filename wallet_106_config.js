@@ -1,1 +1,1 @@
-var mnemonic = "entry engage public urge mandate require plug leg album affair card garage";
+var mnemonic = "sell lizard maple leisure target goat okay wide ribbon wing keep pudding";

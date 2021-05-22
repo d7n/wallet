@@ -1,1 +1,1 @@
-var mnemonic = "scout cabbage avocado hotel rival finger stay weasel park brass mirror excite";
+var mnemonic = "weasel shoot jazz hollow margin diagram few diary drop resemble size sword";

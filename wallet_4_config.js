@@ -1,1 +1,1 @@
-var mnemonic = "repair cave blush scatter judge mutual bunker replace empty address gain govern";
+var mnemonic = "marriage web hope patrol video outer sell impulse train today glare ramp";

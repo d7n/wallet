@@ -1,1 +1,1 @@
-var mnemonic = "help winter enter fat present company size sauce water route human split";
+var mnemonic = "demise emerge flag raccoon jump champion make destroy trust mercy sunset all";

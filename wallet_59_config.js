@@ -1,1 +1,1 @@
-var mnemonic = "resist process mix lemon cliff syrup ice kind fire unknown cake cause";
+var mnemonic = "move hungry surprise diet please nasty lounge minor discover famous ancient put";

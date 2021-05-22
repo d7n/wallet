@@ -1,1 +1,1 @@
-var mnemonic = "fringe since inmate ahead bunker wall surround certain palace snake upset ritual";
+var mnemonic = "donate weapon jaguar vessel promote idea stairs middle afraid mesh omit page";

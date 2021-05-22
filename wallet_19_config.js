@@ -1,1 +1,1 @@
-var mnemonic = "gaze panda fashion journey fee proud hurry collect nephew great neither carry";
+var mnemonic = "fluid like wine window federal travel unlock concert ranch scheme ugly chapter";

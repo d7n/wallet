@@ -1,1 +1,1 @@
-var mnemonic = "just jeans hero bless ticket account world note purity choice camp vicious";
+var mnemonic = "gesture cruel shove mountain come hurdle identify normal width usage myself fantasy";

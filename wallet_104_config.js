@@ -1,1 +1,1 @@
-var mnemonic = "jazz twice you mention stairs tail indoor worry quarter zone sunset soon";
+var mnemonic = "negative payment type wrestle planet enroll shine host ostrich peasant female orbit";

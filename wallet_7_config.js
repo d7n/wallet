@@ -1,1 +1,1 @@
-var mnemonic = "bulb abandon undo object inhale online upgrade wine disorder genuine glide flee";
+var mnemonic = "cost glare blouse abuse young plug couch blood hub coral square place";

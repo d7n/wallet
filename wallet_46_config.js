@@ -1,1 +1,1 @@
-var mnemonic = "wasp walnut airport comic budget easy sketch actress crouch impulse crater crack";
+var mnemonic = "fine peasant chase coyote usage switch subway energy yellow sock hero once";

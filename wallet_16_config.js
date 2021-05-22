@@ -1,1 +1,1 @@
-var mnemonic = "swing reward clutch science cry pistol emotion orbit despair airport border vibrant";
+var mnemonic = "hawk suspect smile choose mechanic video during violin timber credit minor barely";

@@ -1,1 +1,1 @@
-var mnemonic = "shed hair law consider grid umbrella sound lesson wool holiday pass lonely";
+var mnemonic = "mosquito oval brief undo negative bicycle truly timber link clap roast keen";

@@ -1,1 +1,1 @@
-var mnemonic = "noise attitude lizard reason wife tail quantum jeans flash move urban ladder";
+var mnemonic = "cradle earth album soccer dutch foil peasant loan moment income force apology";

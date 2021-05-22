@@ -1,1 +1,1 @@
-var mnemonic = "table save narrow orange brown shock runway fame endorse police buyer glance";
+var mnemonic = "situate hero bless wash usage opera melt rescue enemy guitar vibrant rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware page theme demand economy churn liquid rapid lamp okay giggle slush";
+var mnemonic = "ball parade catalog average stem amused jewel eyebrow seek leader hello among";

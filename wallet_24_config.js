@@ -1,1 +1,1 @@
-var mnemonic = "copper indoor woman chat script steak egg track manual bargain jazz cradle";
+var mnemonic = "duty brand cover comfort brass isolate return dynamic govern mule amateur cloud";

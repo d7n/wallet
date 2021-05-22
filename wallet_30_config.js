@@ -1,1 +1,1 @@
-var mnemonic = "error ten almost bubble dinosaur fuel asthma say obvious kind real police";
+var mnemonic = "jungle annual enemy account raccoon kingdom stamp electric noise barely finish aerobic";

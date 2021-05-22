@@ -1,1 +1,1 @@
-var mnemonic = "limb source employ door rubber immune parrot agree cost leader velvet gym";
+var mnemonic = "bone this decline surprise family arrange swift glue sunset reason flash loud";

@@ -1,1 +1,1 @@
-var mnemonic = "mean embrace olive chuckle sell flight behave blood avocado spawn tank actor";
+var mnemonic = "pet expire sauce file tuition walnut height scene kingdom subject pudding guess";

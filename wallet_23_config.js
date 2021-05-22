@@ -1,1 +1,1 @@
-var mnemonic = "false exist waste brave merge between another drop pull depth food yard";
+var mnemonic = "reform approve vacuum dolphin mystery lizard report typical elbow bridge trim multiply";

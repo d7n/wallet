@@ -1,1 +1,1 @@
-var mnemonic = "later deny major spray brass amused seven valid melody rail soon transfer";
+var mnemonic = "whale ill argue venue ostrich viable alpha example employ pigeon alcohol toilet";

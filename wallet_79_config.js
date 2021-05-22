@@ -1,1 +1,1 @@
-var mnemonic = "cheap defy mad prosper asset income sadness slow oyster tape firm glare";
+var mnemonic = "stay round fiction gospel face dilemma crystal pen ensure old coin secret";

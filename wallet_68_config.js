@@ -1,1 +1,1 @@
-var mnemonic = "cute surround rigid airport furnace upgrade bridge sister build farm super bicycle";
+var mnemonic = "wood produce abuse squirrel quality hope flower improve image tuna mesh call";

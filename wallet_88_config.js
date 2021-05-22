@@ -1,1 +1,1 @@
-var mnemonic = "palace faint project alone device goose hip virtual awake laugh violin power";
+var mnemonic = "furnace candy blade insect tray brass rack you employ group fury bracket";

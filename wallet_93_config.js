@@ -1,1 +1,1 @@
-var mnemonic = "congress sorry obvious ensure edge answer burden fork degree choice banner ask";
+var mnemonic = "clay hour impose poet glimpse other patch hen learn scrub output fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "party trick lyrics glue tiny fetch devote explain breeze subway ice lizard";
+var mnemonic = "young chef collect whip tail dragon rival degree bottom jacket slide save";

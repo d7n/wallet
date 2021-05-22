@@ -1,1 +1,1 @@
-var mnemonic = "rural intact arrest oak wood renew tongue echo unusual consider choose taste";
+var mnemonic = "tennis effort miss blast pupil copper milk tip scorpion company conduct trade";

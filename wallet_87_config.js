@@ -1,1 +1,1 @@
-var mnemonic = "together private near antique sick obtain cool erode mind parent flush window";
+var mnemonic = "river uphold enrich key raven home decorate salute radio long urge draft";

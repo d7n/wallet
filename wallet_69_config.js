@@ -1,1 +1,1 @@
-var mnemonic = "race silent crush matter glad rich expect mail climb feel very front";
+var mnemonic = "imitate agent pool weapon decide prefer home manual ten young fault cook";

@@ -1,1 +1,1 @@
-var mnemonic = "blush pyramid seven gown dumb eager egg media drill lunch stage execute";
+var mnemonic = "festival hollow wool fiscal bonus sting climb blanket lion miss crumble fix";

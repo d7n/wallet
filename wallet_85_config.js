@@ -1,1 +1,1 @@
-var mnemonic = "pull veteran tribe gate size dragon tissue talk ski giggle hedgehog health";
+var mnemonic = "badge amused matrix actor actual example jelly sentence erosion seminar frequent milk";

@@ -1,1 +1,1 @@
-var mnemonic = "baby liar leisure hobby put coconut because dinner carpet begin bless sunny";
+var mnemonic = "soap suit shoe yard fashion material minor glare alpha flame onion web";

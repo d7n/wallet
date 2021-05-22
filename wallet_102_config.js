@@ -1,1 +1,1 @@
-var mnemonic = "misery reject army eternal awkward thunder between sound comic regret axis wasp";
+var mnemonic = "bean expect major speed napkin dragon parade music party weather eternal bomb";

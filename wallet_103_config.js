@@ -1,1 +1,1 @@
-var mnemonic = "horror uncover second toddler unfold comfort body gaze bless machine exhibit gravity";
+var mnemonic = "false giraffe cry ready bounce phone rookie miss tail quality crunch liar";

@@ -1,1 +1,1 @@
-var mnemonic = "object talent okay strategy inflict water blossom final demand sun vintage provide";
+var mnemonic = "ordinary airport sadness wire romance swim pattern artwork hawk bracket alcohol rely";

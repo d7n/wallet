@@ -1,1 +1,1 @@
-var mnemonic = "glow news glare boring little person report lyrics dinosaur this bus afford";
+var mnemonic = "tattoo raven river mirror law interest motor rotate matter smooth wash vital";

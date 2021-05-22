@@ -1,1 +1,1 @@
-var mnemonic = "next onion achieve wine quote more bracket regular core north cereal theory";
+var mnemonic = "body announce property fiction goddess layer deal pottery still still essence faculty";

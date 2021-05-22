@@ -1,1 +1,1 @@
-var mnemonic = "cross fee fog alpha virus kid transfer throw hat talk alley school";
+var mnemonic = "unfold network fun soul better toast genius inside diet guide crunch file";

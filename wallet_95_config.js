@@ -1,1 +1,1 @@
-var mnemonic = "silk merit roof cupboard youth shove auction build rally diamond clock favorite";
+var mnemonic = "control egg narrow select change indicate area panel bag matter change fox";

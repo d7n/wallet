@@ -1,1 +1,1 @@
-var mnemonic = "patch type proud earth flock weasel february ten trend need pet section";
+var mnemonic = "inform pact garage text amateur valve install check own convince horror lava";

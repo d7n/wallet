@@ -1,1 +1,1 @@
-var mnemonic = "tail magic paper rose meat myth dismiss behind now trouble blush never";
+var mnemonic = "vault exercise describe tide edit neutral say that pass poverty luxury army";

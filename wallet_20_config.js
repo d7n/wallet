@@ -1,1 +1,1 @@
-var mnemonic = "domain absurd flash run work dad employ curtain purpose exotic price airport";
+var mnemonic = "arm turkey dream tower forest toe unfold group creek cloud control order";

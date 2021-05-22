@@ -1,1 +1,1 @@
-var mnemonic = "soda antenna dog antenna lemon wave parade hover dilemma income donate know";
+var mnemonic = "embody genre advance nerve obvious swap find tilt traffic pizza buzz attack";

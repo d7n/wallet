@@ -1,1 +1,1 @@
-var mnemonic = "private axis chronic erupt grunt abstract rose album rail clown barely drama";
+var mnemonic = "rookie code unfair escape roast mixture road announce second announce indoor man";

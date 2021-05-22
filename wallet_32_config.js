@@ -1,1 +1,1 @@
-var mnemonic = "acquire match wrist joke extend tilt length cream duck noise toss circle";
+var mnemonic = "zoo bone have ancient future bag below human income myself build because";

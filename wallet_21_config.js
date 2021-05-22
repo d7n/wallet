@@ -1,1 +1,1 @@
-var mnemonic = "sauce copy vast general slight manage boil sea hawk patch dice normal";
+var mnemonic = "female box dismiss improve injury circle future nice fame reopen cloth extra";

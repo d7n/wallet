@@ -1,1 +1,1 @@
-var mnemonic = "sadness frost lobster right there bone original post target sing day gun";
+var mnemonic = "awake already enrich chair code rotate reduce dry tenant vital antenna renew";

@@ -1,1 +1,1 @@
-var mnemonic = "junk banana high kind armor garlic celery trim link need slogan cash";
+var mnemonic = "scene filter follow hill unable uniform feature hungry order century negative pumpkin";

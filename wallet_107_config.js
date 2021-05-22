@@ -1,1 +1,1 @@
-var mnemonic = "shy category quiz stumble quick hockey captain tragic clerk ketchup ginger burst";
+var mnemonic = "boring cancel device attend lecture symbol ramp section pretty scissors seat force";

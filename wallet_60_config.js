@@ -1,1 +1,1 @@
-var mnemonic = "amount license drastic certain earn index gorilla degree access below ahead uniform";
+var mnemonic = "expire void main melt coyote badge shadow embark impulse trade armor sheriff";

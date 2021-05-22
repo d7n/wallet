@@ -1,1 +1,1 @@
-var mnemonic = "core unfair attitude diamond alcohol horn impose kit hero always letter slogan";
+var mnemonic = "blood easy antique merge frown lobster sea main arrow ready say dial";

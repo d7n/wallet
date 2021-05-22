@@ -1,1 +1,1 @@
-var mnemonic = "room across solid endless stick urge since basic possible laundry orchard frequent";
+var mnemonic = "wear forward lizard film head grunt wire security hybrid caution venture decrease";

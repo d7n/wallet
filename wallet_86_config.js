@@ -1,1 +1,1 @@
-var mnemonic = "worth decline assist kingdom parrot unable buyer own siege item reunion buffalo";
+var mnemonic = "glory spell frequent bench rare cluster escape same toddler wagon clay ivory";

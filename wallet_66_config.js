@@ -1,1 +1,1 @@
-var mnemonic = "erupt stay paddle fly pet cargo minor mountain kangaroo pigeon early burger";
+var mnemonic = "frost loud symbol reveal wet fluid large auto decorate cream lift during";

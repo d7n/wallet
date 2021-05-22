@@ -1,1 +1,1 @@
-var mnemonic = "fancy draw diesel atom address ancient ice erase safe orient sport draft";
+var mnemonic = "rib fossil divorce depth initial produce coach kangaroo width polar bind lady";

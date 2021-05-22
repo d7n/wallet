@@ -1,1 +1,1 @@
-var mnemonic = "offer farm pudding innocent talk charge salt vicious element fluid scrap token";
+var mnemonic = "kidney canyon upper pond figure abuse cabbage hair you reason snack relief";

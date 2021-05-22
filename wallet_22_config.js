@@ -1,1 +1,1 @@
-var mnemonic = "gown write cushion mutual horn pledge domain suspect fitness engine awful mandate";
+var mnemonic = "infant rough decrease away spread review proud tuition primary price flat rely";

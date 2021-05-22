@@ -1,1 +1,1 @@
-var mnemonic = "clock one lazy walnut museum frost lecture abuse crystal caught nose turtle";
+var mnemonic = "child cover sea light dose ginger depend multiply photo humble sponsor blade";

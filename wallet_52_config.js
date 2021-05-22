@@ -1,1 +1,1 @@
-var mnemonic = "cabbage fiscal evil syrup manual token rotate check remain title genre valley";
+var mnemonic = "ignore cry gravity measure travel guess between clown garment parrot add lucky";

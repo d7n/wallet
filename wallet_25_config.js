@@ -1,1 +1,1 @@
-var mnemonic = "endless retreat wing craft attend margin run tip exhaust also market exit";
+var mnemonic = "wheat kiwi symptom warm keep neutral order sad meadow proud piano universe";

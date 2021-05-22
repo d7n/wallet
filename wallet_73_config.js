@@ -1,1 +1,1 @@
-var mnemonic = "else build giggle harsh ritual deer worth pear call wrestle apology olive";
+var mnemonic = "prison crew party next nose entry dolphin fix tell jungle half price";

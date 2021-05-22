@@ -1,1 +1,1 @@
-var mnemonic = "radio race typical witness sample flush lake basic board same success lion";
+var mnemonic = "early spatial allow pupil inch remove theory edge cotton scare country shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor napkin ankle bright dust roof danger symptom animal brush club fall";
+var mnemonic = "ecology orange super bird grow city tuition there joy amount cause when";

@@ -1,1 +1,1 @@
-var mnemonic = "timber able sort spring busy forget guide execute dust coffee shrug loyal";
+var mnemonic = "similar utility rug prison silly maid surprise grow can poverty friend frown";

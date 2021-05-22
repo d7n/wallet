@@ -1,1 +1,1 @@
-var mnemonic = "rebuild lounge erosion soft tunnel cost off charge refuse sick gadget film";
+var mnemonic = "swim nerve unit angle toast quote inquiry chair addict cabbage nuclear edge";

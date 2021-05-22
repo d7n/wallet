@@ -1,1 +1,1 @@
-var mnemonic = "hero gain sleep behave judge blast cave bridge ready tattoo test grain";
+var mnemonic = "silly dune gloom misery century require enact boring midnight license forest dove";

@@ -1,1 +1,1 @@
-var mnemonic = "execute grass decrease success anxiety drastic certain brisk mesh clean violin place";
+var mnemonic = "never gaze critic boss smart net company roof limb comfort iron enforce";

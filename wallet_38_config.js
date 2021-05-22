@@ -1,1 +1,1 @@
-var mnemonic = "item strike way loud volume frost fiction punch layer priority cattle zero";
+var mnemonic = "slab ceiling dinosaur parent round copy daughter grab dash guess liquid feature";

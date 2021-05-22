@@ -1,1 +1,1 @@
-var mnemonic = "auto try clog tonight lounge attend waste squirrel soap fatigue clerk already";
+var mnemonic = "bid accident uncover bamboo auction sauce runway crazy surround poem husband win";

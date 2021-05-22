@@ -1,1 +1,1 @@
-var mnemonic = "ranch range twelve lunar trip antenna flag oppose embark electric march burger";
+var mnemonic = "leave adult behind arrange case tape change garage horse already patch second";

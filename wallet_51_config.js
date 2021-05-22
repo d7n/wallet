@@ -1,1 +1,1 @@
-var mnemonic = "gift cement canoe print chronic valve lucky demise capital elevator note country";
+var mnemonic = "photo knee surprise merit sketch width apart envelope aunt unusual simple day";

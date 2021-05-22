@@ -1,1 +1,1 @@
-var mnemonic = "sort harbor dance furnace print relax chaos essence pig goat rival cook";
+var mnemonic = "dial alarm social program south rule pair negative anxiety calm close idea";

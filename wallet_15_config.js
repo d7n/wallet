@@ -1,1 +1,1 @@
-var mnemonic = "nice burst vehicle proud exit limit swift rice treat say toward soap";
+var mnemonic = "maximum six vague dust picnic sweet cloud quarter hill athlete foil replace";

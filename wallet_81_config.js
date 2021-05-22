@@ -1,1 +1,1 @@
-var mnemonic = "fetch advance either breeze wire horn enter acoustic task total clog hotel";
+var mnemonic = "alert party tower isolate umbrella swim garage bacon praise tiny limit only";

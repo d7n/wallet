@@ -1,1 +1,1 @@
-var mnemonic = "badge glue gallery soon clap genuine grant crumble special tumble library sorry";
+var mnemonic = "eight all pattern cannon hundred dutch fetch reflect rude income dash large";

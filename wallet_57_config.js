@@ -1,1 +1,1 @@
-var mnemonic = "number hover avocado toe media local unlock friend ketchup this fresh tumble";
+var mnemonic = "bubble tower section lady still void gas false rocket flash mix kid";

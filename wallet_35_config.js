@@ -1,1 +1,1 @@
-var mnemonic = "finish devote casual memory pitch leisure today treat cloud distance high blood";
+var mnemonic = "suffer april evolve medal coral trouble mention entry popular muscle fee double";

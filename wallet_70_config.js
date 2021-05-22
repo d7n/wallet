@@ -1,1 +1,1 @@
-var mnemonic = "bright ocean infant ecology retreat wrestle control transfer fault clerk loyal clever";
+var mnemonic = "blade silk enjoy once web animal tomato syrup unit trend fruit strategy";

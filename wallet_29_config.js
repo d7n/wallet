@@ -1,1 +1,1 @@
-var mnemonic = "vivid cage fashion idea flat sunny corn sentence gun bonus swing chase";
+var mnemonic = "genuine escape blanket kind increase shoot local define swarm promote cause collect";

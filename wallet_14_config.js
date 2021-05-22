@@ -1,1 +1,1 @@
-var mnemonic = "entry six snap order ship sound infant rally bounce rotate news beauty";
+var mnemonic = "armed health young vocal virus disagree nut choose want desert away cinnamon";

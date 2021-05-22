@@ -1,1 +1,1 @@
-var mnemonic = "dignity barely truck dash educate blush april holiday uncle engage solar valve";
+var mnemonic = "cruel health brick butter shaft person claim barrel receive sentence light awake";

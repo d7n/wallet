@@ -1,1 +1,1 @@
-var mnemonic = "three over book motor cheap loyal oil nice dune bonus sight table";
+var mnemonic = "rough slight wave point direct salad debris crush deliver liquid jacket kitten";

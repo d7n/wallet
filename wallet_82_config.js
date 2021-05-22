@@ -1,1 +1,1 @@
-var mnemonic = "divorce announce tobacco boat alone census velvet dinner toward dawn daring green";
+var mnemonic = "yard vehicle fury cabin emerge until clip price among wink sick garden";
