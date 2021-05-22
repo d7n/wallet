@@ -1,1 +1,1 @@
-var mnemonic = "citizen moral away village next leader fragile whale trumpet tower maple monster";
+var mnemonic = "wash whip achieve raise course leave drama casual muffin win slender hip";

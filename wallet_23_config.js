@@ -1,1 +1,1 @@
-var mnemonic = "gas next emerge tribe cement path noodle front dawn eyebrow sister drama";
+var mnemonic = "wasp battle unlock invite target water hammer bright claim sunset female bacon";

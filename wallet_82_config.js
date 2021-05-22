@@ -1,1 +1,1 @@
-var mnemonic = "uncover marriage arrest rescue echo payment pledge hero draft surround quick base";
+var mnemonic = "book snake almost bench whip inject sound grocery humble easily bottom current";

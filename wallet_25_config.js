@@ -1,1 +1,1 @@
-var mnemonic = "spot flavor swim above virtual sail mango actress license canvas sphere goat";
+var mnemonic = "bubble secret inquiry trumpet frame half utility input oyster hope all tattoo";

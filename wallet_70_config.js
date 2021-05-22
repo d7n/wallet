@@ -1,1 +1,1 @@
-var mnemonic = "dragon rebel orchard defense size oxygen polar document hazard bring damage snack";
+var mnemonic = "dog large filter help rebuild path prison remove fresh twenty paper ranch";

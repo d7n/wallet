@@ -1,1 +1,1 @@
-var mnemonic = "base claim possible very drum link wide price super accuse course gentle";
+var mnemonic = "view honey sick verify potato verb gravity medal subject trial mention topic";

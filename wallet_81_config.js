@@ -1,1 +1,1 @@
-var mnemonic = "session naive path crystal reward consider fade document spell smart spy scare";
+var mnemonic = "update flee pair riot prison bless keen region turkey song page glow";

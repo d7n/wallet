@@ -1,1 +1,1 @@
-var mnemonic = "hope young bean theme notice volume combine obey decade measure good derive";
+var mnemonic = "omit odor december blood giraffe announce exercise shove choice bar thumb despair";

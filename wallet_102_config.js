@@ -1,1 +1,1 @@
-var mnemonic = "visual process scan initial fine seat melt dumb casual title image earn";
+var mnemonic = "evolve dog fluid post pudding emotion aisle tuna clay stable faint lecture";

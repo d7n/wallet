@@ -1,1 +1,1 @@
-var mnemonic = "coin moment parrot feel odor bring strategy pave maid mushroom fatigue finish";
+var mnemonic = "saddle text type penalty certain salt muffin depth guess feel guard olympic";

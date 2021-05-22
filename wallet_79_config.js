@@ -1,1 +1,1 @@
-var mnemonic = "permit evolve toilet hold phrase unable disorder dice fit slight code lens";
+var mnemonic = "blast amateur aerobic carry culture rug wealth unaware live tomorrow assault lend";

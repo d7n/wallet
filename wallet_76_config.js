@@ -1,1 +1,1 @@
-var mnemonic = "supply holiday mango hip nothing sibling unveil help anchor salt pool reform";
+var mnemonic = "manage economy guard zone nice warm walk pride cabbage empower someone found";

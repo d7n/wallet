@@ -1,1 +1,1 @@
-var mnemonic = "match boss dragon open raven mobile antique portion bottom dentist cricket noodle";
+var mnemonic = "portion artwork fancy exhibit deliver gossip slow like loop hill sting tiger";

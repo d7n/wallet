@@ -1,1 +1,1 @@
-var mnemonic = "group deposit napkin skull mystery slender deliver symptom artefact powder virus motor";
+var mnemonic = "cargo clutch deer net exact army imitate glory warm during genuine example";

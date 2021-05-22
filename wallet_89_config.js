@@ -1,1 +1,1 @@
-var mnemonic = "divorce unhappy into view eager orphan perfect wood solid tower robot capital";
+var mnemonic = "seed can old exist radar trial target evoke foot same decline rubber";

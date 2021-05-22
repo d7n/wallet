@@ -1,1 +1,1 @@
-var mnemonic = "concert crime cage travel maximum march gate already chief silent ceiling fat";
+var mnemonic = "sorry normal citizen dolphin kangaroo fortune siege soccer robust total enable right";

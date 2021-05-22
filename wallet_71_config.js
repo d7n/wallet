@@ -1,1 +1,1 @@
-var mnemonic = "tenant market roast history rate absurd bubble thought breeze base concert gap";
+var mnemonic = "argue aware dish giraffe source enact hold impact busy fresh impose image";

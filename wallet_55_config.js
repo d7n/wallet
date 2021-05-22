@@ -1,1 +1,1 @@
-var mnemonic = "unaware parade street maple height foot drama amount hundred correct crucial cart";
+var mnemonic = "awesome rally grunt forest bar various about injury fashion wide vast involve";

@@ -1,1 +1,1 @@
-var mnemonic = "legal age country swarm lyrics cabbage round solve animal spatial retire stamp";
+var mnemonic = "verb produce want manual smart month pride sense chalk casino corn blame";

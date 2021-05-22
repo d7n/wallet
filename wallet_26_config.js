@@ -1,1 +1,1 @@
-var mnemonic = "team cancel online island valley raw prize priority naive ginger beach cigar";
+var mnemonic = "home another subject noise useful catch month scene retreat moral pig cause";

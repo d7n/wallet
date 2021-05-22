@@ -1,1 +1,1 @@
-var mnemonic = "situate wait retreat review afford neglect cement echo receive walk bless stove";
+var mnemonic = "pyramid slice comic lock leopard whale rate engage trouble tuition retreat skill";

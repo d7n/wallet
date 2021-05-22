@@ -1,1 +1,1 @@
-var mnemonic = "zoo paper ill waste master romance index peasant flame sponsor whisper hole";
+var mnemonic = "fix save shallow shoot steel cover insect soft throw elephant attend daring";

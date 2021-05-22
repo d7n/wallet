@@ -1,1 +1,1 @@
-var mnemonic = "hair balcony filter sorry please various oppose open team local install twist";
+var mnemonic = "hidden ginger false twice mixed visit all rent estate detect promote match";

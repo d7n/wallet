@@ -1,1 +1,1 @@
-var mnemonic = "police input ankle angry iron drastic suspect honey decrease wasp pencil opinion";
+var mnemonic = "public find silver ripple buffalo shell trick ski tragic major muffin movie";

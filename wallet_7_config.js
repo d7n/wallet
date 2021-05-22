@@ -1,1 +1,1 @@
-var mnemonic = "agent private electric bid hole sting habit size service mystery brass identify";
+var mnemonic = "broom bulb inmate address category belt reject champion ritual goose chef police";

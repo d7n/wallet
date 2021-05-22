@@ -1,1 +1,1 @@
-var mnemonic = "club priority harbor total make cloud crisp across pizza bid three number";
+var mnemonic = "bronze pink velvet soul galaxy supply vocal oil baby liquid twice alpha";

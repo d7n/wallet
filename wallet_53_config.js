@@ -1,1 +1,1 @@
-var mnemonic = "achieve walnut diesel salute inquiry trouble cliff corn elder apple bench taste";
+var mnemonic = "paper isolate supply sting simple foam seek grant point danger brown gorilla";

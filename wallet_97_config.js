@@ -1,1 +1,1 @@
-var mnemonic = "romance hero very anchor endorse spot blanket orange drill vendor cement mango";
+var mnemonic = "jealous dust steel album can view pink current lab valve bar accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "chase flee alone faith adjust maple sting soul trust silly juice motor";
+var mnemonic = "achieve elder cool spoon gallery cloth response good distance network essay exchange";

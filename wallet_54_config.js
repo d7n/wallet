@@ -1,1 +1,1 @@
-var mnemonic = "rate immune donor moment siege plunge powder pen stand runway mobile image";
+var mnemonic = "blade social tortoise travel tomato video negative mule planet spell gadget sunset";

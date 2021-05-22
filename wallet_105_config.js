@@ -1,1 +1,1 @@
-var mnemonic = "degree summer saddle recipe ensure desert toilet adapt coral abstract wire three";
+var mnemonic = "arch sponsor coast regular cabin theory flame globe clarify wonder help worry";

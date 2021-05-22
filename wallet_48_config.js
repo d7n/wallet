@@ -1,1 +1,1 @@
-var mnemonic = "tail debate track primary pistol wild solar antique fatal portion turn wood";
+var mnemonic = "relief mistake surround can once series view quit history swing embrace early";

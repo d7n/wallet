@@ -1,1 +1,1 @@
-var mnemonic = "fold cream tool drive begin raccoon aunt juice carbon practice easy express";
+var mnemonic = "insane symbol clean vicious sail blade plate favorite good alien child illegal";

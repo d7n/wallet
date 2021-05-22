@@ -1,1 +1,1 @@
-var mnemonic = "impose flash brave situate minute insect maid receive allow believe live position";
+var mnemonic = "vapor bonus mad monkey royal club output general chef until modify broken";

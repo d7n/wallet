@@ -1,1 +1,1 @@
-var mnemonic = "panda series kitchen degree social couch portion indicate unit jewel differ whale";
+var mnemonic = "grow kind also cereal victory cash make enact deny carpet below rug";

@@ -1,1 +1,1 @@
-var mnemonic = "success real sample pass brisk fiction focus term cry degree furnace pottery";
+var mnemonic = "casino daughter level leader unable warfare light cactus yard gasp hurry spray";

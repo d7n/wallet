@@ -1,1 +1,1 @@
-var mnemonic = "lock pumpkin profit nominee quantum token spy lazy boat force dust bean";
+var mnemonic = "plastic silly mimic razor father year crisp fiber risk deer genre private";

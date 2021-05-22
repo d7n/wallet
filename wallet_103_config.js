@@ -1,1 +1,1 @@
-var mnemonic = "limit wedding victory wolf wool final document program pigeon wave spell recipe";
+var mnemonic = "screen paper can siege build cream hockey leopard ability tent uncle february";

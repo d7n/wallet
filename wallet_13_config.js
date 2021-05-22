@@ -1,1 +1,1 @@
-var mnemonic = "trophy salon grocery scrub plunge risk eye float update certain burger awful";
+var mnemonic = "asthma error swamp pigeon foster bounce wrestle retire team piano come salute";

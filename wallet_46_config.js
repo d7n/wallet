@@ -1,1 +1,1 @@
-var mnemonic = "orphan field document noise tray announce outside detect build achieve can gorilla";
+var mnemonic = "picnic drastic junior soup reject slim already brand ring very pizza license";

@@ -1,1 +1,1 @@
-var mnemonic = "vast affair gesture shop buyer shaft movie organ donor easy verify grief";
+var mnemonic = "mail master wood mercy gown discover cheese six tackle much pig have";

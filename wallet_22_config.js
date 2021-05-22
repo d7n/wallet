@@ -1,1 +1,1 @@
-var mnemonic = "motion render style honey layer slab cause venture task struggle hair deny";
+var mnemonic = "slow harvest marine bar describe exercise already kangaroo target balcony invest snap";

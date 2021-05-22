@@ -1,1 +1,1 @@
-var mnemonic = "real duck inform scissors disagree volume purse mosquito shed ivory better lawn";
+var mnemonic = "plug mango price tide history quiz crash gym trophy hub napkin vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger program fall essay oval bracket match credit tide scare cotton receive";
+var mnemonic = "chalk skill tide account key cheap shoe craft quantum exhibit extend balance";

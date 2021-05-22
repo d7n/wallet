@@ -1,1 +1,1 @@
-var mnemonic = "crouch kangaroo pink hollow gather worry inch travel dinner avoid frost erosion";
+var mnemonic = "youth ignore unfold kick scan hybrid farm exit faith punch luggage funny";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol company fork recipe diamond travel can detail crime robot relax upset";
+var mnemonic = "spring regret into secret cry dragon favorite unknown artist teach unaware old";

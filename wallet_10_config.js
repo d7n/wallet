@@ -1,1 +1,1 @@
-var mnemonic = "razor stock kiwi era guilt merit crisp smart nephew tired labor rather";
+var mnemonic = "question pipe foil fun select marriage nation winner nerve fatal ostrich idea";

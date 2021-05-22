@@ -1,1 +1,1 @@
-var mnemonic = "suggest hero vendor camp immense impose fatigue hurt card attend change member";
+var mnemonic = "theory soft anchor spirit success flower cinnamon disease aspect upon lyrics basket";

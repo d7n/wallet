@@ -1,1 +1,1 @@
-var mnemonic = "spray thought leave private wool joke stairs blast virtual course praise knee";
+var mnemonic = "achieve economy news seed melt express fashion sibling head awesome insane snack";

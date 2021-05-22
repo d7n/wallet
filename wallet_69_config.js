@@ -1,1 +1,1 @@
-var mnemonic = "cousin mirror taste rabbit trip senior prosper response van rice april measure";
+var mnemonic = "recycle family onion test act rug digital damp feel cereal basket large";

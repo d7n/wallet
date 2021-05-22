@@ -1,1 +1,1 @@
-var mnemonic = "ensure fiscal melt young desert gravity present length symbol describe depth crumble";
+var mnemonic = "improve error excuse open clever entry vast intact chapter leaf upper hard";

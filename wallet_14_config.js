@@ -1,1 +1,1 @@
-var mnemonic = "bag behind surprise muscle present prosper cabin blast unlock coconut drop judge";
+var mnemonic = "say parent nominee funny thank void there uniform iron pulse hat chest";

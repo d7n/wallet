@@ -1,1 +1,1 @@
-var mnemonic = "era dutch journey dice tilt link law labor aim december vanish welcome";
+var mnemonic = "crush equal addict heart metal seek broken evolve coral insane excite celery";

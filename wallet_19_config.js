@@ -1,1 +1,1 @@
-var mnemonic = "wolf joy useless fabric page item permit sweet group illness unhappy bulk";
+var mnemonic = "artwork oval okay title common diagram label infant foster harbor crazy supply";

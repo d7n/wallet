@@ -1,1 +1,1 @@
-var mnemonic = "scheme input service maximum prize mushroom artist lecture mind pink reform surge";
+var mnemonic = "bulb van couple ancient flip drip eternal leader urge demise deer update";

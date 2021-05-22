@@ -1,1 +1,1 @@
-var mnemonic = "depend timber strong letter quiz visit share depend half safe pave crunch";
+var mnemonic = "group forward vacuum village stamp catch leaf ginger silent plate base tree";

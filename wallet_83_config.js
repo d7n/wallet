@@ -1,1 +1,1 @@
-var mnemonic = "profit wasp into fame leopard cradle future copper front extra palm fit";
+var mnemonic = "real inmate wheel roof ghost mass gloom marine portion demand chase mushroom";

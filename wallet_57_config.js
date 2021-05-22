@@ -1,1 +1,1 @@
-var mnemonic = "congress ginger sad video fashion crime olympic rule blouse tape day chapter";
+var mnemonic = "feature eye clean visa crash slot armed tobacco sword case bounce collect";

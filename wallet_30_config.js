@@ -1,1 +1,1 @@
-var mnemonic = "magnet taste media bleak armed island people clutch sadness pink era extra";
+var mnemonic = "course where illness calm viable unhappy bachelor book fatigue sphere return amount";

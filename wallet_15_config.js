@@ -1,1 +1,1 @@
-var mnemonic = "hello output click hat brief panic endorse energy suit cupboard type flee";
+var mnemonic = "spring mirror pencil input strategy media provide empty aunt ceiling fade donate";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch beauty virus chair brown subway shock robust then absorb fatal dash";
+var mnemonic = "project pipe doll play print toss affair increase report hip obtain priority";

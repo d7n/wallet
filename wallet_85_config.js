@@ -1,1 +1,1 @@
-var mnemonic = "rookie soldier verify raise become toward muscle banana this retire cram ask";
+var mnemonic = "pencil cigar draft rebuild twenty shell rate floor logic try cousin bottom";

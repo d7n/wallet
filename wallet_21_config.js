@@ -1,1 +1,1 @@
-var mnemonic = "hammer poem shock brass alpha design salt guitar cabin toss shove term";
+var mnemonic = "voyage tennis effort dream gain title hammer bulk village shell degree put";

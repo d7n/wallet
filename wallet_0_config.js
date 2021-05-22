@@ -1,1 +1,1 @@
-var mnemonic = "heart ribbon robot flag turtle canoe wedding heart village ship hurt burst";
+var mnemonic = "find cry spring blanket label prize van gospel coast vacant oxygen easily";

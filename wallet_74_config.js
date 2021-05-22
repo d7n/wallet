@@ -1,1 +1,1 @@
-var mnemonic = "escape icon balcony immense rival silly town walnut inspire next message wasp";
+var mnemonic = "top buffalo brand harvest slogan gentle shoulder poverty remove ride help twenty";

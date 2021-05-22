@@ -1,1 +1,1 @@
-var mnemonic = "long later ticket guitar hurt muffin orphan wild weapon quiz laundry trigger";
+var mnemonic = "stamp wear hat same virus demand debris poem elevator trust economy what";

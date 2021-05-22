@@ -1,1 +1,1 @@
-var mnemonic = "answer slam yard inspire oxygen coral question speak wedding tired network tired";
+var mnemonic = "purpose power tiny noble yellow hope dizzy practice charge vibrant chimney gospel";

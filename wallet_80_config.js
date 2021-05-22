@@ -1,1 +1,1 @@
-var mnemonic = "visit check time world unknown brain cross festival powder nerve cluster plunge";
+var mnemonic = "absorb early soon rookie heavy chef rate glory trigger wash artist spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "aware mask inflict alarm acid boy immune breeze retreat demise burden where";
+var mnemonic = "satisfy copper make video film grief mesh swap wait laptop impact tray";

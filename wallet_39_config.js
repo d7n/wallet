@@ -1,1 +1,1 @@
-var mnemonic = "thumb earth affair breeze doctor story leaf gather soup price corn fan";
+var mnemonic = "merit siren famous fault bulb faith electric castle nurse fragile lottery speed";

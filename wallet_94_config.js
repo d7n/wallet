@@ -1,1 +1,1 @@
-var mnemonic = "comfort olive surge label tobacco combine wait second flash top gift much";
+var mnemonic = "funny usage obscure original candy seat narrow outside audit sibling valley ketchup";

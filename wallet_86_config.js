@@ -1,1 +1,1 @@
-var mnemonic = "joy upon assist dice divorce welcome useless arena usage company fire brain";
+var mnemonic = "tattoo blossom document quality visit crumble powder airport lyrics decorate cousin flower";

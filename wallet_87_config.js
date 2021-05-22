@@ -1,1 +1,1 @@
-var mnemonic = "alpha pony near unfair detect fold unit peanut table guitar fit asset";
+var mnemonic = "chest abuse oak make scheme matter shed treat thunder silver resemble symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel mirror combine found interest penalty color balance permit wolf blade like";
+var mnemonic = "hope layer donor buffalo indoor call car salon rural mouse gather young";

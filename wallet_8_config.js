@@ -1,1 +1,1 @@
-var mnemonic = "average mention remember sorry glass congress vocal other head amateur cross daughter";
+var mnemonic = "civil cart almost ceiling pen now bag clap expect harvest degree mind";

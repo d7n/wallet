@@ -1,1 +1,1 @@
-var mnemonic = "bless bottom swim olympic school impact evoke swing reveal trend all letter";
+var mnemonic = "envelope become rabbit embody lottery unit service wait rice creek exit suggest";

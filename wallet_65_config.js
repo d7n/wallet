@@ -1,1 +1,1 @@
-var mnemonic = "typical party horror during asset soon car velvet elbow travel scrub panic";
+var mnemonic = "hawk bag glow onion swift unusual quick path grain inject there leader";

@@ -1,1 +1,1 @@
-var mnemonic = "universe assist lizard major poet charge resource slim until mistake electric shuffle";
+var mnemonic = "winter save mother flat giant monkey list number hunt board phrase nephew";

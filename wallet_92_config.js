@@ -1,1 +1,1 @@
-var mnemonic = "cloth intact permit great error collect once nurse cave ocean furnace myth";
+var mnemonic = "type choose exit member hamster draw large tip assault float cattle vast";

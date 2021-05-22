@@ -1,1 +1,1 @@
-var mnemonic = "narrow emerge emotion try year cousin novel steak huge swear hybrid extra";
+var mnemonic = "ethics window critic fan razor give happy river rent know seed sorry";

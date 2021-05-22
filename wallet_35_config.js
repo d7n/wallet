@@ -1,1 +1,1 @@
-var mnemonic = "skill casino loan access coral receive ability seven word accuse hospital puzzle";
+var mnemonic = "member virtual space dizzy supreme divorce verify unveil frame token misery mansion";

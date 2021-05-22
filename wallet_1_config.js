@@ -1,1 +1,1 @@
-var mnemonic = "spring sea donkey connect rescue sell job piano lock trash stable soup";
+var mnemonic = "opera turn glory vessel kind sense borrow shrug minute fatigue eagle plastic";

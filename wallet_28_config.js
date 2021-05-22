@@ -1,1 +1,1 @@
-var mnemonic = "iron fade only win party vivid juice mean faith address amateur sausage";
+var mnemonic = "three grass uncle scare humor pyramid pact gift approve license zebra emotion";

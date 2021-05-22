@@ -1,1 +1,1 @@
-var mnemonic = "finish seat kiwi trim valve hello mixture snap jealous cover tissue jar";
+var mnemonic = "robust gossip age spell sail elite useful lumber rhythm pencil dilemma when";

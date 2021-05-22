@@ -1,1 +1,1 @@
-var mnemonic = "police say wide order advice dash talent short rain letter pencil logic";
+var mnemonic = "weekend demise maple buffalo flight before wine summer picture topple adjust bottom";

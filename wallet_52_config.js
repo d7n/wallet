@@ -1,1 +1,1 @@
-var mnemonic = "agree easy ask diesel friend rescue tube differ favorite pill junior scheme";
+var mnemonic = "giraffe notice fall hollow lab horror pet deputy process client wife mule";
