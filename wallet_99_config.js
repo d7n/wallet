@@ -1,1 +1,1 @@
-var mnemonic = "sign snake village laptop urban have august hazard ill welcome monkey neglect";
+var mnemonic = "catalog immune rely stairs frown search square pipe volcano remember hen swap";

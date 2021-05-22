@@ -1,1 +1,1 @@
-var mnemonic = "short list uphold account ahead mad zoo warfare grid engine range alcohol";
+var mnemonic = "keen purity ketchup lesson essay sun swarm ski cage coin fire meadow";

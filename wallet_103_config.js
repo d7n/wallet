@@ -1,1 +1,1 @@
-var mnemonic = "collect end swarm scrap like feature focus orchard edge cloth region begin";
+var mnemonic = "project print indoor rally client shy library pepper fault lazy stem call";

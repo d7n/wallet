@@ -1,1 +1,1 @@
-var mnemonic = "document bench merit undo kite diesel economy glad raven segment excite short";
+var mnemonic = "cactus note argue can little lumber upon pitch day table define connect";

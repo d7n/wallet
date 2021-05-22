@@ -1,1 +1,1 @@
-var mnemonic = "olympic cherry diet nerve enough state march cruel cactus correct fish gloom";
+var mnemonic = "submit debris answer rent awkward unhappy hurdle empty gather library pole you";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse retreat glare picture stairs slight allow connect fiction drink soldier chair";
+var mnemonic = "clip patch bitter south main shift wife secret random valve slush infant";

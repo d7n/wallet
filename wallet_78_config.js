@@ -1,1 +1,1 @@
-var mnemonic = "fossil bracket ugly gym apart appear horror develop puzzle able parent skirt";
+var mnemonic = "picture nothing journey glimpse run mango predict orphan vacant father lion face";

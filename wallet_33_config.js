@@ -1,1 +1,1 @@
-var mnemonic = "thrive spray assist ecology owner cat bacon elder chronic artefact width cable";
+var mnemonic = "reunion drama bronze lunar wheat arrange sister badge pink unhappy noodle canyon";

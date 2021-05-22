@@ -1,1 +1,1 @@
-var mnemonic = "exclude limit net develop lyrics finish knee harsh local stone try nation";
+var mnemonic = "anxiety ethics side town armed write iron shine hub buzz spare drum";

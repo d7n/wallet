@@ -1,1 +1,1 @@
-var mnemonic = "author render snap dirt please climb inside advice agree elevator fragile talk";
+var mnemonic = "clock danger robot royal worry river dash buyer turn document series bind";

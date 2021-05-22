@@ -1,1 +1,1 @@
-var mnemonic = "shift noodle resemble situate tail rocket throw lumber crunch gate wet cluster";
+var mnemonic = "young hire open left present sure category topple pool drink stone decade";

@@ -1,1 +1,1 @@
-var mnemonic = "turn fortune aware delay final vivid monitor pencil surprise initial cool possible";
+var mnemonic = "property key salt good giant cry already nation roast wish elder traffic";

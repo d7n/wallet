@@ -1,1 +1,1 @@
-var mnemonic = "mother assault day kind regret wrist motion panic note accuse lottery ship";
+var mnemonic = "source february enlist practice pelican pen foster tomorrow toy casino live awful";

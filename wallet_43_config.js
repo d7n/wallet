@@ -1,1 +1,1 @@
-var mnemonic = "walk almost vendor ship tell genre morning retire inform palace coyote group";
+var mnemonic = "cool segment more cup cheap stove ostrich pigeon goddess view say canyon";

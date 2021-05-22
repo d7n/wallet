@@ -1,1 +1,1 @@
-var mnemonic = "never arrange stick essay song scatter rich common aerobic canyon brown time";
+var mnemonic = "hint ill notice boost endless betray intact demand warm glad away engine";

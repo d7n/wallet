@@ -1,1 +1,1 @@
-var mnemonic = "ugly paddle neglect list alien bronze assist limb drip fall dolphin reason";
+var mnemonic = "february lab belt south brain sock muffin charge panic eagle maze news";

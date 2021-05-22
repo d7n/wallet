@@ -1,1 +1,1 @@
-var mnemonic = "include theme narrow vocal spatial dirt comic trash peanut grape pigeon caught";
+var mnemonic = "case elbow dragon celery danger weapon error patient bunker pave virtual mouse";

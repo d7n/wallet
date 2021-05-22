@@ -1,1 +1,1 @@
-var mnemonic = "hybrid first foot dutch flat manual spy harbor web subject hedgehog design";
+var mnemonic = "know network december piece merit clown plunge buddy reveal front opinion siren";

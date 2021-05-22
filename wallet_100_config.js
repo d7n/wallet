@@ -1,1 +1,1 @@
-var mnemonic = "eagle leisure visual tomato sound stomach solution slice gift lift valve another";
+var mnemonic = "exhaust bubble daring desert pizza despair couch maze dish review pioneer visit";

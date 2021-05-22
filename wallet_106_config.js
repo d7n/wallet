@@ -1,1 +1,1 @@
-var mnemonic = "toilet name inch sister inform symptom aerobic strike buffalo goddess learn lazy";
+var mnemonic = "verb tobacco lift panic vendor evolve attract begin vanish solution coach huge";

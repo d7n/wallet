@@ -1,1 +1,1 @@
-var mnemonic = "normal another card child movie medal patrol basket insane asset process midnight";
+var mnemonic = "soda brisk stamp virus eager only creek fossil grocery drink moment wide";

@@ -1,1 +1,1 @@
-var mnemonic = "trap sell diagram snap brief youth penalty police involve feel true bean";
+var mnemonic = "harsh course link fancy ridge clock gaze tiger carbon spring opinion organ";

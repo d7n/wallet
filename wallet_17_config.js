@@ -1,1 +1,1 @@
-var mnemonic = "turtle cave crack congress monkey car drive siren divert renew remember jeans";
+var mnemonic = "grow buzz thing still blood reveal code purse cinnamon strategy absurd enter";

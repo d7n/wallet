@@ -1,1 +1,1 @@
-var mnemonic = "antenna harvest anxiety cloud whale crush dawn satisfy flavor drill live divorce";
+var mnemonic = "eternal orphan fan neck vicious absorb cook wisdom truth mobile fetch poverty";

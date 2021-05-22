@@ -1,1 +1,1 @@
-var mnemonic = "loyal balance cabin token write round opinion pill spoon feature devote menu";
+var mnemonic = "rate high battle weekend provide day hero involve jelly direct link turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "banner medal black any mansion possible gallery exhibit square stamp inside east";
+var mnemonic = "barrel beef junk cry obey amateur desert leopard cabbage filter celery metal";

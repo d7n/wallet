@@ -1,1 +1,1 @@
-var mnemonic = "food destroy visa march later uncle multiply funny pride special when service";
+var mnemonic = "hope scrub captain quit glove cross dish resist need huge tornado maple";

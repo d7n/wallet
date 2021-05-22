@@ -1,1 +1,1 @@
-var mnemonic = "plate taxi royal pupil order donate elder fashion domain clerk august involve";
+var mnemonic = "close claw cruel connect mass manual rigid decrease grocery derive clump hold";

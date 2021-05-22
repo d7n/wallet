@@ -1,1 +1,1 @@
-var mnemonic = "section gown maid cupboard give chunk program net dutch element renew honey";
+var mnemonic = "vivid brisk biology submit afford glove bird repair upset anger twenty medal";

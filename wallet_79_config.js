@@ -1,1 +1,1 @@
-var mnemonic = "cattle vote gift fold swarm accuse core build media drip sign coyote";
+var mnemonic = "park token item rifle border unfair easily output much chimney burger strike";

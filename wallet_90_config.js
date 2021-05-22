@@ -1,1 +1,1 @@
-var mnemonic = "vicious neutral garbage cancel prepare move upper beyond young soft myself record";
+var mnemonic = "lemon connect employ six soccer smile own tone hero special test coach";

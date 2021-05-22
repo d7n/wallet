@@ -1,1 +1,1 @@
-var mnemonic = "airport throw salt silly reason similar text boss fit advance egg push";
+var mnemonic = "domain tunnel cream broccoli demand domain visit intact regret series wheel allow";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage ivory person sight that sport flame urge emerge weapon search piano";
+var mnemonic = "boss order balance lunch right unfold leisure enforce matter catch maple surface";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity still shoot maze turkey giant neither lizard side excess rice puzzle";
+var mnemonic = "blame paddle heavy alpha shiver misery sea dance rapid pill swap define";

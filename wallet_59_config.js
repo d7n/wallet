@@ -1,1 +1,1 @@
-var mnemonic = "flat flame space stage fit organ proud eternal animal tortoise sorry they";
+var mnemonic = "next asset fly rule mom series valve post waste marble round tribe";

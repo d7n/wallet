@@ -1,1 +1,1 @@
-var mnemonic = "label latin round ranch entire math second stereo call opera siege physical";
+var mnemonic = "miss novel river cycle faith garment wealth transfer slice double harbor speak";

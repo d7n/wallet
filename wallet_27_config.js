@@ -1,1 +1,1 @@
-var mnemonic = "curve mandate subject chef audit detail among ankle peace cute spend rich";
+var mnemonic = "enhance trick sport eagle hour hire pilot spawn devote side ranch dirt";

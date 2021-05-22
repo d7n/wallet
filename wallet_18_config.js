@@ -1,1 +1,1 @@
-var mnemonic = "evoke oval next large desk large cram height keen junk field mass";
+var mnemonic = "burden calm insect chimney hybrid initial miracle weekend jungle limit rabbit slender";

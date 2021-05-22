@@ -1,1 +1,1 @@
-var mnemonic = "remove harsh penalty material goddess table wink street word reward syrup busy";
+var mnemonic = "clutch pole minute vintage coast coffee bronze olympic dream dust banner obscure";

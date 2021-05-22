@@ -1,1 +1,1 @@
-var mnemonic = "share engine dad advice viable box page left hair combine sail leave";
+var mnemonic = "alert drip viable castle blouse wrap attack bachelor pioneer custom battle private";

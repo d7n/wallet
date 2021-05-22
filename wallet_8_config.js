@@ -1,1 +1,1 @@
-var mnemonic = "entry february way effort gesture inch similar boss van depart myself affair";
+var mnemonic = "frame scrap setup mandate prosper habit ugly error popular fence empty wait";

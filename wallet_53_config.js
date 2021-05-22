@@ -1,1 +1,1 @@
-var mnemonic = "degree furnace lend lunar supply sorry wage maid modify baby matrix romance";
+var mnemonic = "second tilt blue hard behave hotel weekend unit stable tide disorder merit";

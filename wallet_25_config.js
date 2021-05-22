@@ -1,1 +1,1 @@
-var mnemonic = "fine model despair peasant road embrace morning daring churn doctor critic romance";
+var mnemonic = "stem engine grace river crack cash material dish film rich glory drama";

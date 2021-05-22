@@ -1,1 +1,1 @@
-var mnemonic = "predict raw alone bullet genre promote reopen spider place call sense genuine";
+var mnemonic = "crop all come screen copper gun shaft inquiry home pudding setup dizzy";

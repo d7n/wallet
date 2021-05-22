@@ -1,1 +1,1 @@
-var mnemonic = "layer shoe cement bargain volcano exclude arctic juice pioneer keep mountain oven";
+var mnemonic = "online review expand course vessel clean dawn pluck screen craft trust rebel";

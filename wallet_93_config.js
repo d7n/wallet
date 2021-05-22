@@ -1,1 +1,1 @@
-var mnemonic = "begin monitor dignity skate crack cave grid cycle dolphin album width volume";
+var mnemonic = "oblige picnic energy torch paddle carpet spike rural concert frog fine soldier";

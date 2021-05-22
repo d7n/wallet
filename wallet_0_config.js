@@ -1,1 +1,1 @@
-var mnemonic = "catch milk rare unusual license position trend surface unhappy park hedgehog adult";
+var mnemonic = "weather refuse satisfy athlete book coin saddle gentle split sugar flush cradle";

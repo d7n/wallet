@@ -1,1 +1,1 @@
-var mnemonic = "shuffle pond kangaroo time corn door artwork adapt wood act need kiss";
+var mnemonic = "payment aunt worth curtain confirm process minimum soap liar assault lunch setup";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain column inform private embark stand design broken nest whale crash lazy";
+var mnemonic = "dismiss olympic frog spatial retire naive divide old angry moment crater oxygen";

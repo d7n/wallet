@@ -1,1 +1,1 @@
-var mnemonic = "police dignity initial stool rent smile drum same lumber remind buffalo toddler";
+var mnemonic = "junk paper breeze seek winner wage gesture force flash vast trim often";

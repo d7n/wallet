@@ -1,1 +1,1 @@
-var mnemonic = "lift burden pelican tunnel crystal enact faint once comic forum banner notice";
+var mnemonic = "rubber print cry bridge unhappy random zoo suspect embody boil plate chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent furnace truck whisper quiz build casino camera forum patch panther fiscal";
+var mnemonic = "medal real radar sustain order ill clap south gym gym palace coral";

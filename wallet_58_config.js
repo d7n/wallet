@@ -1,1 +1,1 @@
-var mnemonic = "much add since gas census opinion stone first oyster pluck travel cruel";
+var mnemonic = "purpose claw fossil reunion lion security purchase brave point fit knock energy";

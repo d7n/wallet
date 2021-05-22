@@ -1,1 +1,1 @@
-var mnemonic = "door curve urge jewel attack remove spatial balance enter tornado satisfy that";
+var mnemonic = "dragon category goat layer alley curtain inflict gain palm rug theory soft";

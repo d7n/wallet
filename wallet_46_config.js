@@ -1,1 +1,1 @@
-var mnemonic = "badge hungry worry swift work gun cup road donor solid reason embark";
+var mnemonic = "sibling any pigeon undo hedgehog tide decorate wire biology alpha great fox";

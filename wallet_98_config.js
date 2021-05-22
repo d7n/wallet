@@ -1,1 +1,1 @@
-var mnemonic = "solve ice ski benefit cereal hundred armor helmet silly exercise bright fluid";
+var mnemonic = "lazy repeat priority brain found left require enjoy blade myth unveil cherry";

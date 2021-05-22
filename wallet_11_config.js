@@ -1,1 +1,1 @@
-var mnemonic = "kidney clinic youth assist list update reflect palm connect glad volcano lazy";
+var mnemonic = "exclude cargo nuclear artwork result correct prevent still grain surface begin arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "wild distance enlist earth expire kiwi frozen decide armor adult shrimp rather";
+var mnemonic = "action weasel have drink aware tenant asthma coil pride stamp crouch juice";

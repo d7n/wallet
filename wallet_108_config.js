@@ -1,1 +1,1 @@
-var mnemonic = "upon foot cart phone wall wisdom winner traffic rifle ten exact copy";
+var mnemonic = "range current coral ivory record world fashion case green loyal bar flip";

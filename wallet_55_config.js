@@ -1,1 +1,1 @@
-var mnemonic = "bleak fringe grid december fiscal faint syrup like decorate parent sick hand";
+var mnemonic = "hello citizen come oyster idea mimic deal arrive category decorate film random";

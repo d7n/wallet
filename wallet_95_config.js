@@ -1,1 +1,1 @@
-var mnemonic = "auto maximum bless link error cheese extra plug because subway stadium gap";
+var mnemonic = "detect unlock another replace dismiss extra broccoli sing omit message lottery adjust";

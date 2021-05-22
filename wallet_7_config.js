@@ -1,1 +1,1 @@
-var mnemonic = "nothing reform panda rug region jelly present time cattle equal secret decline";
+var mnemonic = "gain write spice cupboard machine transfer message matrix moral pilot primary eye";

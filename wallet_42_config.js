@@ -1,1 +1,1 @@
-var mnemonic = "barely timber favorite violin wet grocery cute release caution any quiz similar";
+var mnemonic = "idea indoor attack treat buffalo dwarf miss engine again captain speak duck";

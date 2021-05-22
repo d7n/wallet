@@ -1,1 +1,1 @@
-var mnemonic = "name matrix current original visual flame cement junk keen rally hover near";
+var mnemonic = "burger toy alcohol hawk poverty first shield donkey escape absurd approve oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "review luxury float update swamp hard diagram wheel hidden visual photo false";
+var mnemonic = "insane they miracle outside congress kangaroo tumble egg devote grass exotic arrest";

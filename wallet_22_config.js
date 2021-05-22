@@ -1,1 +1,1 @@
-var mnemonic = "lonely family series model phrase fix olympic purpose tray job body burger";
+var mnemonic = "alone gather guard tackle cinnamon alarm absurd purity whip drink easily asset";

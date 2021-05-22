@@ -1,1 +1,1 @@
-var mnemonic = "proud erode decrease effort cram truly process tide habit bone true kiwi";
+var mnemonic = "wagon problem giant acquire latin tourist garment catch film achieve fine banana";

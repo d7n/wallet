@@ -1,1 +1,1 @@
-var mnemonic = "vapor piece average glow build auction daring hover spice emerge blouse knife";
+var mnemonic = "winner pond current century inch arm can crazy will belt task airport";

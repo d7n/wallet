@@ -1,1 +1,1 @@
-var mnemonic = "split crop canoe bulk alley adult acid sleep judge cactus engage name";
+var mnemonic = "cute conduct produce few butter marble imitate fog wrap lamp alarm youth";

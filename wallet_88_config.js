@@ -1,1 +1,1 @@
-var mnemonic = "opinion frost donate oval ask marble outside eyebrow approve above fire left";
+var mnemonic = "thank crew space exact staff useful session arrow call snake sample soldier";

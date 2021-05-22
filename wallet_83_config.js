@@ -1,1 +1,1 @@
-var mnemonic = "entry flock scare episode mechanic flash wet old defense lobster retreat potato";
+var mnemonic = "across urge bless curve cruise knock anger range initial aerobic taste black";

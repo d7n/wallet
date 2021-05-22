@@ -1,1 +1,1 @@
-var mnemonic = "around wood demand chair shift advance top mistake insane antique birth width";
+var mnemonic = "regular disease place section pink item pond letter pride chief cart donate";

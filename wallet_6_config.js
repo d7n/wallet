@@ -1,1 +1,1 @@
-var mnemonic = "receive review absent tortoise dog remind link dentist tackle critic family slush";
+var mnemonic = "steak chef old category leave tourist twenty solve must minute hard couple";

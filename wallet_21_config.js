@@ -1,1 +1,1 @@
-var mnemonic = "boring adapt vessel switch caution target smooth nation twelve bounce lion foil";
+var mnemonic = "mask glide gather owner useless price resemble cargo extra toe firm digital";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch utility lottery mountain okay demise prepare tumble toast tilt genre busy";
+var mnemonic = "echo fiction police paddle bless sea skull modify together tip multiply target";

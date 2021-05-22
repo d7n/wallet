@@ -1,1 +1,1 @@
-var mnemonic = "prefer believe movie erode aisle fork stone deposit blade ride wrist conduct";
+var mnemonic = "clever around nest civil worry dash sing recycle submit police question crop";

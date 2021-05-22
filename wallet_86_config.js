@@ -1,1 +1,1 @@
-var mnemonic = "cause pretty bamboo grant toward raven that supreme shadow lake mushroom grace";
+var mnemonic = "vacant hamster lumber stereo multiply vault safe viable kangaroo vapor neutral duty";

@@ -1,1 +1,1 @@
-var mnemonic = "element beef debate process enrich news all scout exhaust lawsuit cigar soccer";
+var mnemonic = "rebuild clump captain behave can fan young draft close interest unable coffee";

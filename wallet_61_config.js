@@ -1,1 +1,1 @@
-var mnemonic = "sure exact memory hunt theme control proof ozone monster such wrap bacon";
+var mnemonic = "warm squirrel loop review donate picture behind honey tip six cloth believe";

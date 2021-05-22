@@ -1,1 +1,1 @@
-var mnemonic = "club winter clerk palace shove alone patrol this solution change syrup boost";
+var mnemonic = "cement immune twelve purpose forget adult farm surprise sibling bar despair lunch";

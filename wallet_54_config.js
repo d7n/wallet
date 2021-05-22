@@ -1,1 +1,1 @@
-var mnemonic = "turtle net desk carbon mechanic intact wire clap lecture salt nest box";
+var mnemonic = "lunar shock grab evidence grace reopen cherry palace exotic animal derive have";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil you toast siren celery second else awake seed jeans sketch hint";
+var mnemonic = "enlist insect repeat picnic tissue lady sausage ordinary train possible state dress";

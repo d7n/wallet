@@ -1,1 +1,1 @@
-var mnemonic = "odor young social lonely ability disagree kit acquire humor stand burden april";
+var mnemonic = "pass quote flame video ice foster mutual unaware mirror carpet master review";

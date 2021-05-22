@@ -1,1 +1,1 @@
-var mnemonic = "exhibit stamp honey holiday stable vessel language chimney sense panel reflect menu";
+var mnemonic = "kitten head about other venture weather pony spatial need roof accident scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "guard finish pig symptom female mixture island matrix leisure copper weird inherit";
+var mnemonic = "buffalo review machine gym simple pony have jar grain echo spray visual";

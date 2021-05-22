@@ -1,1 +1,1 @@
-var mnemonic = "gloom scare art faint trust frequent cube corn bullet teach sustain wrong";
+var mnemonic = "bean shiver sunny change early ecology charge sibling home october trip duck";

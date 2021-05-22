@@ -1,1 +1,1 @@
-var mnemonic = "trophy level visa example scatter stadium kiwi aisle junior client else crane";
+var mnemonic = "tourist pole require repeat tomato settle awkward flame annual dog tragic supreme";

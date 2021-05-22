@@ -1,1 +1,1 @@
-var mnemonic = "already jewel jungle level voyage payment taxi sail degree eagle episode guitar";
+var mnemonic = "depend salt parent deer silent calm force veteran pumpkin cinnamon gold course";

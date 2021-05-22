@@ -1,1 +1,1 @@
-var mnemonic = "supply cheap subway lend mouse turkey person someone trend morning choice virus";
+var mnemonic = "defense device answer shield skull rude engine canyon host length charge silk";

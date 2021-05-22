@@ -1,1 +1,1 @@
-var mnemonic = "awkward drink praise endless fan thing tape resemble borrow sell toss finish";
+var mnemonic = "stand extra shuffle vague duty grant economy spoil inherit secret rib federal";
