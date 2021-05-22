@@ -1,1 +1,1 @@
-var mnemonic = "physical flush rubber pottery pave chimney vault crumble soldier wet sure else";
+var mnemonic = "cloud burger sleep genius jelly combine excite fluid tribe husband sister indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow liquid thumb fabric tooth damage total little company grit crisp day";
+var mnemonic = "bid lens thunder elbow document all salute choice grunt public unit roast";

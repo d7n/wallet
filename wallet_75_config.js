@@ -1,1 +1,1 @@
-var mnemonic = "wrestle slogan donate story slogan beach pill silly lecture switch like vicious";
+var mnemonic = "shove edit illegal exhibit best assault until pool family height entire surround";

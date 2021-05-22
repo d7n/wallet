@@ -1,1 +1,1 @@
-var mnemonic = "cradle blossom nasty catalog estate weapon spoil coffee art brick buddy cool";
+var mnemonic = "sign over race runway engine call frost maximum viable modify fall spice";

@@ -1,1 +1,1 @@
-var mnemonic = "people sword script model method crumble muffin inch buffalo little asthma coast";
+var mnemonic = "certain knock impose power color episode hazard school flight cream piece sphere";

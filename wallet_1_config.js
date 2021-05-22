@@ -1,1 +1,1 @@
-var mnemonic = "man puppy hip crime treat pledge olive name idle gather manual domain";
+var mnemonic = "bike energy midnight strike remind door inflict loyal inform excuse test agree";

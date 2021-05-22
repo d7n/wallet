@@ -1,1 +1,1 @@
-var mnemonic = "prosper track second cotton virtual way explain mixed harsh spell deposit gadget";
+var mnemonic = "cream rich helmet treat marble kidney blade palm climb carry stamp demand";

@@ -1,1 +1,1 @@
-var mnemonic = "picture bench pair route session cart nerve accuse agree art envelope movie";
+var mnemonic = "box myself protect net rally want film figure ceiling quiz fall enough";

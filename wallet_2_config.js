@@ -1,1 +1,1 @@
-var mnemonic = "pipe empower maze seminar thing drip patch pair forward claim cricket jelly";
+var mnemonic = "neck typical use unique brick tomorrow country convince theory vital pupil tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "protect still because shop piano logic buyer fruit speak lobster prevent start";
+var mnemonic = "judge planet occur display gossip cloud permit vital mesh volcano box exclude";

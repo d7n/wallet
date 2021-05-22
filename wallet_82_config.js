@@ -1,1 +1,1 @@
-var mnemonic = "clean install dutch work setup stand defy dust loyal rifle admit prefer";
+var mnemonic = "depth door task marble saddle render garment husband tumble velvet soon aerobic";

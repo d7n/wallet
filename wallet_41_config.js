@@ -1,1 +1,1 @@
-var mnemonic = "horror heart soldier give move clay toy veteran jar thumb olympic end";
+var mnemonic = "crucial comic cloth erase surface foster prefer neither swim town dentist shaft";

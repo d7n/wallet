@@ -1,1 +1,1 @@
-var mnemonic = "body liberty neutral sample when mixed baby identify punch field business naive";
+var mnemonic = "bless rookie together glass fatal police appear affair glow negative abstract submit";

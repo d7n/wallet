@@ -1,1 +1,1 @@
-var mnemonic = "elevator wife trip banner coach gesture lava exit actor tag scrub secret";
+var mnemonic = "plate scout speak spot august ship remain genius stove swarm decline large";

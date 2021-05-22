@@ -1,1 +1,1 @@
-var mnemonic = "blossom speed size village decline toilet cycle speak crack rabbit print valley";
+var mnemonic = "sense ski blanket fame evil cross humble payment zebra render people draw";

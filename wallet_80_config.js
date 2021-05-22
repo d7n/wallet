@@ -1,1 +1,1 @@
-var mnemonic = "glove dog prefer vessel skate army direct bind air torch truly ranch";
+var mnemonic = "grocery act margin reduce juice later ask oxygen solid enjoy general stereo";

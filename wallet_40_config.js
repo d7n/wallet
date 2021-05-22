@@ -1,1 +1,1 @@
-var mnemonic = "depth clinic inquiry great slight sock anchor inject course few music dove";
+var mnemonic = "unveil amazing very mountain scrap cart region hurdle wool lawn expose column";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy gate utility urge help salmon opinion enable coach soup silk slight";
+var mnemonic = "resource eight dry strike series argue fork nation acquire argue cable mesh";

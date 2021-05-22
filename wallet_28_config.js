@@ -1,1 +1,1 @@
-var mnemonic = "whale sunny angry arctic deal power decade grunt cage hurry actress upset";
+var mnemonic = "grit lesson jaguar snow width assault hurdle that valid muffin seed maze";

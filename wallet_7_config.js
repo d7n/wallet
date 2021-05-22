@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon deliver finish enable solid section best delay more mystery oblige wrestle";
+var mnemonic = "seven cause nasty prevent evolve rebuild gauge skate ghost sorry vacuum emerge";

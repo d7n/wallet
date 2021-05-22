@@ -1,1 +1,1 @@
-var mnemonic = "argue hill issue pizza idea draw banana sword across tent film miracle";
+var mnemonic = "twin flat dismiss obscure two zone buyer canyon boat ice busy child";

@@ -1,1 +1,1 @@
-var mnemonic = "unable nice gift logic muffin violin candy satoshi plastic road make print";
+var mnemonic = "urge utility snow north address guard canvas truth tone nature goat inner";

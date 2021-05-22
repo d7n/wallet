@@ -1,1 +1,1 @@
-var mnemonic = "country divorce accident soldier foam object coral huge stand march green shift";
+var mnemonic = "insect decline energy rifle pass lemon oak rich rival owner father language";

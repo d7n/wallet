@@ -1,1 +1,1 @@
-var mnemonic = "crowd express coach violin viable walnut dizzy recipe shaft pull seek fat";
+var mnemonic = "hybrid sing luxury nut auction story certain slight cute replace vessel alert";

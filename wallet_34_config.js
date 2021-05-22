@@ -1,1 +1,1 @@
-var mnemonic = "rose learn gospel episode asthma avoid avoid oppose list machine oblige decorate";
+var mnemonic = "tongue culture trim school general ski column design indoor unhappy initial proof";

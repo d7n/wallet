@@ -1,1 +1,1 @@
-var mnemonic = "stool believe wash relax crop rich slogan army mutual girl violin gold";
+var mnemonic = "shallow tent try try cart useless divert material rice poverty you icon";

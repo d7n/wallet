@@ -1,1 +1,1 @@
-var mnemonic = "neutral top hazard bottom polar denial silk news museum priority task excuse";
+var mnemonic = "oppose embrace sauce oil build noodle finger when reunion network length use";

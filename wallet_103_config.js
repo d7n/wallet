@@ -1,1 +1,1 @@
-var mnemonic = "elephant roof daring gather announce puzzle still march taxi ketchup field actual";
+var mnemonic = "vacuum aspect cruise country daughter ill gap cube dove multiply bean rocket";

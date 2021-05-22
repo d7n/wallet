@@ -1,1 +1,1 @@
-var mnemonic = "caution vast clerk raccoon inform bronze devote border gain inquiry scene mistake";
+var mnemonic = "mosquito now squeeze kind review coffee across stamp mosquito forward valley clutch";

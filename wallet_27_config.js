@@ -1,1 +1,1 @@
-var mnemonic = "feature device grass you enable science canoe can invite hurdle nominee rule";
+var mnemonic = "rescue wrist blush inject digital just law cattle success empower pass spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "butter health rate merit scheme plastic old achieve lottery camp photo female";
+var mnemonic = "access stuff couple risk place bless young blanket foster dance defy labor";

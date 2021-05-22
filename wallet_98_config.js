@@ -1,1 +1,1 @@
-var mnemonic = "noise romance swing mistake surface mosquito buffalo traffic culture pill cycle number";
+var mnemonic = "shaft sibling capable diagram silk that dish quit struggle biology edit museum";

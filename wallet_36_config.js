@@ -1,1 +1,1 @@
-var mnemonic = "mask letter desk poet birth guard citizen ozone mother waste math length";
+var mnemonic = "parent skate nature diagram jealous panther lucky unaware drip member input push";

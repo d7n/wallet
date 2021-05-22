@@ -1,1 +1,1 @@
-var mnemonic = "soon decline civil quantum express latin switch cattle wish author sight powder";
+var mnemonic = "donkey high airport luggage link dolphin daughter essence physical purse card vital";

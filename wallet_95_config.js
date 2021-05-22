@@ -1,1 +1,1 @@
-var mnemonic = "bunker venture response good unknown exercise bird faculty exhibit lesson capable seven";
+var mnemonic = "indicate mouse runway vital beef off hair surround choose chicken city visual";

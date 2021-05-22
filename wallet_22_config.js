@@ -1,1 +1,1 @@
-var mnemonic = "announce table output person decline below rich summer ethics bullet like alpha";
+var mnemonic = "cry point kingdom aerobic diet trash frown combine cook state trumpet venture";

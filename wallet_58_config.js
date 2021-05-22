@@ -1,1 +1,1 @@
-var mnemonic = "script smooth raven width gap warfare symptom guess train destroy ordinary brisk";
+var mnemonic = "art term roast skull artist motion group apart exercise polar bleak case";

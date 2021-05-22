@@ -1,1 +1,1 @@
-var mnemonic = "shoulder barely club few economy blood flash vivid bomb regular valve spend";
+var mnemonic = "amount call tiny payment clinic atom rather cabin swear dizzy shop inhale";

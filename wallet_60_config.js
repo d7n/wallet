@@ -1,1 +1,1 @@
-var mnemonic = "rigid praise sketch fame innocent script fringe code two quantum bomb sustain";
+var mnemonic = "marble job place crash bicycle bird dinner school slide novel consider funny";

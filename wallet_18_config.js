@@ -1,1 +1,1 @@
-var mnemonic = "seminar spider thunder flight attack climb section gas smart gesture rocket rotate";
+var mnemonic = "robot doll pottery host bind open vocal ladder dance raven job scale";

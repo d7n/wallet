@@ -1,1 +1,1 @@
-var mnemonic = "orchard robust flame allow dumb olive exclude bundle blast bubble art steak";
+var mnemonic = "oyster permit close spread start term sea nuclear wrap indicate sleep govern";

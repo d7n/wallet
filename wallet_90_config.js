@@ -1,1 +1,1 @@
-var mnemonic = "rival suit skate rain valley glide pudding balcony bag crater match bench";
+var mnemonic = "holiday welcome message few silent husband crawl galaxy vacant slice dance infant";

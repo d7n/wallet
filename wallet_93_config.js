@@ -1,1 +1,1 @@
-var mnemonic = "sample include couch burger coconut video discover reflect empty holiday way skill";
+var mnemonic = "unhappy battle sadness rug deny love card pledge cube fog brother jump";

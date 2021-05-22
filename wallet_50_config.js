@@ -1,1 +1,1 @@
-var mnemonic = "follow globe type list quick quarter wrong squeeze roast bind budget canal";
+var mnemonic = "menu exist invest cereal mobile shadow father fiction purpose ginger mango air";

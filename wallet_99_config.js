@@ -1,1 +1,1 @@
-var mnemonic = "assault ship unaware sight under receive elder endorse zone whisper olympic barrel";
+var mnemonic = "absurd news cattle belt virtual alone pitch vendor tongue tragic taste title";

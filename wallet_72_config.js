@@ -1,1 +1,1 @@
-var mnemonic = "pave close flash special almost crucial misery chase differ water issue battle";
+var mnemonic = "develop urge adult cabbage text census tragic indoor install song brain woman";

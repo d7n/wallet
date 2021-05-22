@@ -1,1 +1,1 @@
-var mnemonic = "spawn doll stomach fruit depart inspire retire pitch canal still initial member";
+var mnemonic = "snap spend receive copper lesson company visa tone puppy forest vessel double";

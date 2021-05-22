@@ -1,1 +1,1 @@
-var mnemonic = "token palace always control birth robust heavy amount grocery shrimp fringe calm";
+var mnemonic = "fitness piano sentence vote fork figure silk shoe album green delay lunar";

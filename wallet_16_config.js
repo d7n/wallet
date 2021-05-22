@@ -1,1 +1,1 @@
-var mnemonic = "valve solution finish boy mixture pulse horror nephew fish orphan valve alone";
+var mnemonic = "faculty never insane emerge immense random add stairs summer cool act wagon";

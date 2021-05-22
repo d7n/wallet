@@ -1,1 +1,1 @@
-var mnemonic = "sail fabric kingdom pulp put blast lucky genre abstract keep put pen";
+var mnemonic = "canyon bind message primary earth grape spider harsh solution album strike distance";

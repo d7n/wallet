@@ -1,1 +1,1 @@
-var mnemonic = "flame universe intact leg close mercy prison rule odor purpose ketchup meadow";
+var mnemonic = "bicycle bus jealous immune sauce legend paper zebra yard hint hood regular";

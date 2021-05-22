@@ -1,1 +1,1 @@
-var mnemonic = "stock cancel increase elbow frequent pitch nature hollow envelope drastic fatigue acid";
+var mnemonic = "victory beauty quiz olive agree calm problem base push junior visual symptom";

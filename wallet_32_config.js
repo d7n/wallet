@@ -1,1 +1,1 @@
-var mnemonic = "satoshi eye joy original feature mistake trip kangaroo problem egg question main";
+var mnemonic = "arena power else glide light album dress hotel state jaguar accident grit";

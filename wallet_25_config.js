@@ -1,1 +1,1 @@
-var mnemonic = "walnut pool lion snap private dignity blanket margin across route early teach";
+var mnemonic = "wrap clever sight author rough top fly age slim dawn usual dress";

@@ -1,1 +1,1 @@
-var mnemonic = "clump protect agree artwork pool identify prosper nature spirit area brave shell";
+var mnemonic = "ask upgrade pulse card arrow depend impose champion notable shell please equal";

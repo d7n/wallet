@@ -1,1 +1,1 @@
-var mnemonic = "attitude food talent life one school planet belt melody demand tribe left";
+var mnemonic = "frozen program link boy supreme chest injury theory shy cement describe million";

@@ -1,1 +1,1 @@
-var mnemonic = "tower approve false bacon alarm pepper oak rotate almost exhaust admit social";
+var mnemonic = "toast lumber private detect fire dance royal tell weapon bag cube farm";

@@ -1,1 +1,1 @@
-var mnemonic = "student tourist subject enroll angry destroy basic spread setup apology garment jaguar";
+var mnemonic = "devote pattern type glance elite cry blue defy figure regular public street";

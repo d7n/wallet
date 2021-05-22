@@ -1,1 +1,1 @@
-var mnemonic = "pipe horse endorse rent text property hedgehog country cream coyote young around";
+var mnemonic = "lab cost trust weird critic grass urban rate orange off picture fun";

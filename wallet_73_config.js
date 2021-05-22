@@ -1,1 +1,1 @@
-var mnemonic = "blanket grant repair noodle remove slam rent sample about language step define";
+var mnemonic = "travel tomorrow man addict record cycle wolf injury accident fade awkward oil";

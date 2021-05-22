@@ -1,1 +1,1 @@
-var mnemonic = "matrix cheap smoke prefer above firm nice page castle rhythm ginger when";
+var mnemonic = "mirror bamboo clock creek undo ice seminar depth camera crouch mind monitor";

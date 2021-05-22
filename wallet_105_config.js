@@ -1,1 +1,1 @@
-var mnemonic = "custom report wine write trend chalk slab either blade forum region canoe";
+var mnemonic = "control account swing fluid middle year what copy focus next amateur lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "judge section hope course tennis tone comfort coral net dawn mask lab";
+var mnemonic = "accident axis crisp used glare rather voice token choice end tree ribbon";

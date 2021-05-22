@@ -1,1 +1,1 @@
-var mnemonic = "elegant media boil record fever sheriff rally october pitch chapter fruit control";
+var mnemonic = "sad circle armed glimpse harbor thumb zebra spirit rally quit address session";

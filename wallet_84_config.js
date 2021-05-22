@@ -1,1 +1,1 @@
-var mnemonic = "alien degree discover word try album youth custom room razor used mean";
+var mnemonic = "bird stand sell setup anger census water purity boat buyer rib vintage";

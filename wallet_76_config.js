@@ -1,1 +1,1 @@
-var mnemonic = "maid glide inform endorse marble stick demand wage rally mosquito come please";
+var mnemonic = "change tobacco tree gun drop federal glad pattern tattoo kick cry reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "ability buyer undo heart stage opera joy cash slot engine trumpet problem";
+var mnemonic = "sock month luxury session just demand critic little three ensure nurse trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "rely catalog balance walnut route turkey capable space own owner lawn forget";
+var mnemonic = "pass kind keep coffee sleep skin antique muffin wet circle exit clown";

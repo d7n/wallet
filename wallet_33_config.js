@@ -1,1 +1,1 @@
-var mnemonic = "upset unaware trash crater what awake pitch pepper youth short offer usage";
+var mnemonic = "shrug world pyramid buffalo pottery dismiss oil tuition evoke coyote fold spray";

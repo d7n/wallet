@@ -1,1 +1,1 @@
-var mnemonic = "supreme birth stool aware slice miracle news innocent real since battle runway";
+var mnemonic = "neglect fade glory market frequent across debate bus spatial pattern ivory puzzle";

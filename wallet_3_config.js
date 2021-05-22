@@ -1,1 +1,1 @@
-var mnemonic = "thank food air warm surface critic square tell miss scare today adult";
+var mnemonic = "twin wheat frog height sentence snake urge powder item iron project dentist";

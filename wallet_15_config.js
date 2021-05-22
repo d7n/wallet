@@ -1,1 +1,1 @@
-var mnemonic = "front start problem sure symptom announce uphold crunch build sadness guide relax";
+var mnemonic = "door invite chef turtle stage ceiling page regular explain diary clever outside";

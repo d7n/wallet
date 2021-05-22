@@ -1,1 +1,1 @@
-var mnemonic = "night inside glimpse three solve before decide slice tribe useless hire finger";
+var mnemonic = "arrange scissors rival mouse business history unique dish sound claw leave swing";

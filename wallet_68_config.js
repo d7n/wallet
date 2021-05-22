@@ -1,1 +1,1 @@
-var mnemonic = "pyramid second argue improve bean caution music invite sniff orange garbage citizen";
+var mnemonic = "slim vast orbit pulp token cost trap blouse hub jacket example caught";

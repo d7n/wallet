@@ -1,1 +1,1 @@
-var mnemonic = "whip chalk mansion cry shift uncover imitate shine merry ask fly margin";
+var mnemonic = "frown beach cross build idle erosion light stumble feel again knife roof";

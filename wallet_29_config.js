@@ -1,1 +1,1 @@
-var mnemonic = "enforce purity pyramid remember isolate deal mountain until wise high bring idle";
+var mnemonic = "knife upper decide candy shy advance guess fluid seek permit main brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle bitter strike once stage fitness wild merit curtain fee size tired";
+var mnemonic = "nominee thunder secret chunk middle mosquito nothing hockey weather teach denial allow";

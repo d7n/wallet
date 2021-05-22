@@ -1,1 +1,1 @@
-var mnemonic = "shoot horn leaf nothing ribbon pottery top valve shoot void quit visual";
+var mnemonic = "hybrid usage begin appear three estate devote timber gap knock crew mass";

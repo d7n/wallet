@@ -1,1 +1,1 @@
-var mnemonic = "shoot draft burst during gold easy off hello boost until egg seminar";
+var mnemonic = "episode combine car moral vendor ancient obey report level endorse smart achieve";

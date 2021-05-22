@@ -1,1 +1,1 @@
-var mnemonic = "casual open truck obey useful black chat monkey infant stock company interest";
+var mnemonic = "super detect long april absorb into kick discover clip awkward absorb axis";

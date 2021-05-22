@@ -1,1 +1,1 @@
-var mnemonic = "scale elegant weather grant unique lesson dumb uncover travel certain true cotton";
+var mnemonic = "wrist budget intact limb length east midnight glance sand rocket company dilemma";

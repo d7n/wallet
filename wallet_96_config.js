@@ -1,1 +1,1 @@
-var mnemonic = "choose pipe brown pepper rural domain bronze fame fatigue secret fossil fame";
+var mnemonic = "size spring music energy theme action long machine hybrid verb thunder better";

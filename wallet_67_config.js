@@ -1,1 +1,1 @@
-var mnemonic = "code blame wish motor reunion citizen coast tone correct damp trim essence";
+var mnemonic = "choice awesome juice slender blouse immune blast glow blossom siren mom bundle";

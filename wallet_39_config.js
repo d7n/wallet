@@ -1,1 +1,1 @@
-var mnemonic = "bird betray rotate wear follow pudding hotel scout opinion health thrive chef";
+var mnemonic = "rare record smile check evoke mother wife multiply order limit together spoon";

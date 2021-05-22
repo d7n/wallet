@@ -1,1 +1,1 @@
-var mnemonic = "hazard globe pool awake dance corn fashion yard rule dose traffic box";
+var mnemonic = "dizzy veteran action angry song scare cash razor quick congress ginger inside";

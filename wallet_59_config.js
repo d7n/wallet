@@ -1,1 +1,1 @@
-var mnemonic = "demise demise romance peasant whale spring hurry flower fold document zebra anxiety";
+var mnemonic = "fork dune also palace solid exhibit trick couch version endorse sea gas";

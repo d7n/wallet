@@ -1,1 +1,1 @@
-var mnemonic = "cloth describe speed weasel situate exchange vault cloth digital three water oil";
+var mnemonic = "fury nut afford pattern brick vital dutch judge plastic pond absorb egg";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver smoke eyebrow hidden six prepare have speed onion enter ride develop";
+var mnemonic = "census scatter town plate stem helmet alpha hope hat zone gentle visual";

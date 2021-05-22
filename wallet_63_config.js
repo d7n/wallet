@@ -1,1 +1,1 @@
-var mnemonic = "measure suffer dice allow boy fever woman rally artwork scan viable reduce";
+var mnemonic = "soul better pen swift brisk pull divorce popular climb comfort stamp subway";

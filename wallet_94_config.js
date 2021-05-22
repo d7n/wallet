@@ -1,1 +1,1 @@
-var mnemonic = "garment breeze guilt misery occur degree photo yellow van mansion holiday office";
+var mnemonic = "best clay slam owner employ lawsuit dragon video oxygen hand spot village";

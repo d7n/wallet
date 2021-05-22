@@ -1,1 +1,1 @@
-var mnemonic = "dune chat betray jar urge grunt common visa typical health beef retire";
+var mnemonic = "capital menu rapid brief shallow entire strategy pluck already spare little click";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel attract grief airport blame heart oblige lab fire aim tongue transfer";
+var mnemonic = "analyst motion enlist about what blossom fringe print squeeze merit virtual wreck";
