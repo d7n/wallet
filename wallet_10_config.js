@@ -1,1 +1,1 @@
-var mnemonic = "green shaft wash curve mistake wink remember field fit velvet suspect fitness";
+var mnemonic = "keen private pink border picture opera cable search long dragon ignore possible";

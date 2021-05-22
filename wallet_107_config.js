@@ -1,1 +1,1 @@
-var mnemonic = "review radio balcony term quit alley genius account produce sound above isolate";
+var mnemonic = "birth tool cupboard goddess index secret method diamond damage person gravity arrow";

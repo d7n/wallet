@@ -1,1 +1,1 @@
-var mnemonic = "energy sport melt employ bring crew wing approve area math hold logic";
+var mnemonic = "decade exclude horn tail rely coral design animal fork indicate when pelican";

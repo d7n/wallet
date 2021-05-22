@@ -1,1 +1,1 @@
-var mnemonic = "carbon right twelve history afford reform clip submit approve million identify canoe";
+var mnemonic = "fitness alien mother vault argue blanket fluid relax crystal mountain siege depth";

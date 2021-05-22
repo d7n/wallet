@@ -1,1 +1,1 @@
-var mnemonic = "churn genuine craft spin thrive machine paper shock fragile diary walk ignore";
+var mnemonic = "weird tide absorb shoulder timber before lawn crop twelve glare surge frog";

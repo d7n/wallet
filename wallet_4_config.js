@@ -1,1 +1,1 @@
-var mnemonic = "half adjust envelope prevent glad hand hedgehog adjust cereal pool citizen sight";
+var mnemonic = "harsh admit arrest ankle element swift unaware suffer under retire engine engine";

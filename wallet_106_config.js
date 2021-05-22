@@ -1,1 +1,1 @@
-var mnemonic = "anchor tornado toilet cotton sell erase age victory skin hero moral woman";
+var mnemonic = "quote menu series two enact tortoise cancel viable flavor festival catalog cake";

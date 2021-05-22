@@ -1,1 +1,1 @@
-var mnemonic = "large tank great goat scene medal express match awkward witness banana gain";
+var mnemonic = "replace blade inside grid prison giraffe reason parrot pizza joy price private";

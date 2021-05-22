@@ -1,1 +1,1 @@
-var mnemonic = "radio top section ability lumber inspire sweet more athlete club slender depth";
+var mnemonic = "fault avoid ginger man flock immune slam purchase traffic gas party balcony";

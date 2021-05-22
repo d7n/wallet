@@ -1,1 +1,1 @@
-var mnemonic = "similar tent position sunset globe crowd time possible coyote mom treat lobster";
+var mnemonic = "able such thunder raise tape allow steak start asset yellow will truth";

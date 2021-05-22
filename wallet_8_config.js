@@ -1,1 +1,1 @@
-var mnemonic = "border minimum help hat head cloud auction pet alley clown diagram resource";
+var mnemonic = "mosquito night inherit good high visual moral step people never law immune";

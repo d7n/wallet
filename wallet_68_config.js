@@ -1,1 +1,1 @@
-var mnemonic = "portion scrub trend weird naive eight wage search bus quote web lava";
+var mnemonic = "during second dilemma seat minor faculty manual increase guide salt nature bundle";

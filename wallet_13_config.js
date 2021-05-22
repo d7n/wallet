@@ -1,1 +1,1 @@
-var mnemonic = "wheat viable choice hobby weekend divert federal demand perfect field hope danger";
+var mnemonic = "bargain shrug such kit across once laptop stuff under extend immense swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl party route expire when arctic later evolve winner wrong embody hamster";
+var mnemonic = "fossil animal doctor daughter cloud remove denial enter maid range warm bright";

@@ -1,1 +1,1 @@
-var mnemonic = "grit syrup jar office collect find first surge column state fitness shop";
+var mnemonic = "minute uncover artefact valve tail fun limit follow elephant share kiwi typical";

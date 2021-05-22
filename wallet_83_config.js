@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit damp receive joy walnut charge will school argue bridge inject toward";
+var mnemonic = "miss salt blue walk pledge myth grunt child chunk furnace filter rough";

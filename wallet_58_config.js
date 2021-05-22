@@ -1,1 +1,1 @@
-var mnemonic = "stairs lion trade ability bean reduce route salute side blouse piano nation";
+var mnemonic = "foster credit insane ring syrup supply naive acoustic mansion cross position glare";

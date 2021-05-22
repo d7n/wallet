@@ -1,1 +1,1 @@
-var mnemonic = "protect pumpkin fatigue cancel humor impose recipe pave pattern foam next meat";
+var mnemonic = "often music hamster hurry risk chest kitchen actual chest notice right naive";

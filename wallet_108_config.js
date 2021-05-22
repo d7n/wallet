@@ -1,1 +1,1 @@
-var mnemonic = "confirm agent flat spike enjoy object okay toss nothing pupil language virus";
+var mnemonic = "plastic number real label rain ripple force trend demand primary enable nose";

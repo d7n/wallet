@@ -1,1 +1,1 @@
-var mnemonic = "virtual neither home castle special bargain goose sheriff expect pledge panda mandate";
+var mnemonic = "keen pilot snack throw echo dumb budget way legend sauce palm valid";

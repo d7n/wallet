@@ -1,1 +1,1 @@
-var mnemonic = "eight group impose myself kick chunk velvet giggle voice talk high gym";
+var mnemonic = "bulb wink gown volume announce staff either thrive shoulder bicycle daring win";

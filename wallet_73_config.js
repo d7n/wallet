@@ -1,1 +1,1 @@
-var mnemonic = "rich find caution cruise album space spot fever office response cram rabbit";
+var mnemonic = "warrior school dish umbrella draft window know buffalo violin vacant round race";

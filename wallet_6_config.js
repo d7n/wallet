@@ -1,1 +1,1 @@
-var mnemonic = "around picnic ride deer remove sentence wage movie guess battle receive monster";
+var mnemonic = "lab milk ostrich educate relax kind suffer wonder mother skirt popular display";

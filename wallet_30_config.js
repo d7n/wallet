@@ -1,1 +1,1 @@
-var mnemonic = "doll truth immune enable sad table today distance rifle night snake narrow";
+var mnemonic = "meadow process emerge dismiss enforce flag sound skin erode letter business second";

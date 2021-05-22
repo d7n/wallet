@@ -1,1 +1,1 @@
-var mnemonic = "cheap street false manual initial pumpkin river play approve cherry lumber gravity";
+var mnemonic = "extra fly pipe stay build diesel mandate spice clump rate tiny butter";

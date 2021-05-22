@@ -1,1 +1,1 @@
-var mnemonic = "fatigue giggle give make output define coast market announce tenant token detect";
+var mnemonic = "offer empty rose advice cash april hazard crumble misery night maid advance";

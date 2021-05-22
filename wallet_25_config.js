@@ -1,1 +1,1 @@
-var mnemonic = "derive yellow toddler pioneer right club talk human arch arch keep range";
+var mnemonic = "fade hill garment donate divert switch thumb flame unusual obvious achieve left";

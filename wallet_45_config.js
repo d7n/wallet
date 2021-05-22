@@ -1,1 +1,1 @@
-var mnemonic = "pair garden piece derive regular concert genius pig wrist raise absurd board";
+var mnemonic = "leave clever tag that develop history park coconut phrase jump grunt piece";

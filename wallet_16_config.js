@@ -1,1 +1,1 @@
-var mnemonic = "easy puppy spatial hole cash flee material stomach oyster security second few";
+var mnemonic = "market expire husband marine stadium sure torch wheel movie observe educate master";

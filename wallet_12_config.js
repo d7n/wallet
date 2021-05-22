@@ -1,1 +1,1 @@
-var mnemonic = "asset jump palm replace grace notable ride people area hill great permit";
+var mnemonic = "only excite defy innocent cruise day abstract rain scare wine grunt cage";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse spare shy someone door orient view cargo open immense violin narrow";
+var mnemonic = "special desert cigar bitter theory vocal excite acid want game chair extra";

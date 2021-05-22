@@ -1,1 +1,1 @@
-var mnemonic = "usage weasel same skate faculty special access inquiry sting sign canal change";
+var mnemonic = "agent obtain funny private rebel guess notice panic throw input disorder suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit brief render pretty shiver palm curve cluster mother dismiss faculty industry";
+var mnemonic = "record pink runway olive horn still reform chest eagle dumb bachelor pull";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid razor profit present original build budget awake empty embrace turn hope";
+var mnemonic = "cradle grape expect toilet embrace network ugly cash myself patch cheap stick";

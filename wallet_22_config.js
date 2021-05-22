@@ -1,1 +1,1 @@
-var mnemonic = "easily ahead jazz catalog camera wrong axis garment merge luxury sock box";
+var mnemonic = "vibrant member equip combine main blade govern boy crystal prison roof health";

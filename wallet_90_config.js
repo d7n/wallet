@@ -1,1 +1,1 @@
-var mnemonic = "shock report brother basket wheel auction nut silk erosion wing absorb weasel";
+var mnemonic = "travel lonely time master double slot panther area initial neck patrol fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "patch surround genius belt depart recipe long amount chimney same region potato";
+var mnemonic = "regret exact piece garlic fat rabbit unfold trash galaxy image express symptom";

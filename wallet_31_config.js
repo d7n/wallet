@@ -1,1 +1,1 @@
-var mnemonic = "expand hurt liberty taste hope erupt suit solve huge gorilla trust gossip";
+var mnemonic = "element call immune fee awkward enough million minimum tragic letter prevent liberty";

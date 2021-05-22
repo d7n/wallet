@@ -1,1 +1,1 @@
-var mnemonic = "insect stadium maple ocean immune helmet accident yellow truly amount patch fatigue";
+var mnemonic = "off orphan street distance film assume razor egg girl dumb increase roast";

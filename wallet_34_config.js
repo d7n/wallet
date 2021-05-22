@@ -1,1 +1,1 @@
-var mnemonic = "guide best fan swift patient angle squirrel boss exercise liberty metal hamster";
+var mnemonic = "vast return edge witness fringe walnut mass object toast face measure submit";

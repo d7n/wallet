@@ -1,1 +1,1 @@
-var mnemonic = "tumble robot thank smoke call thank basket unhappy evidence tunnel segment across";
+var mnemonic = "mean pair online year kite random remain holiday husband game equal mesh";

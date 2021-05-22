@@ -1,1 +1,1 @@
-var mnemonic = "coach aware produce episode airport elder spoil morning glad follow height window";
+var mnemonic = "wrong absent marble vacuum ginger require rather color vibrant barrel finish undo";

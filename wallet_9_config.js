@@ -1,1 +1,1 @@
-var mnemonic = "horror adult gentle negative cute salmon female swim foil reform series grid";
+var mnemonic = "cost wet wash any girl surface fiscal above cabin path winner faith";

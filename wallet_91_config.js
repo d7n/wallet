@@ -1,1 +1,1 @@
-var mnemonic = "execute paddle light run also unlock extra feature wealth eyebrow satoshi picnic";
+var mnemonic = "adult brisk virtual length foot dress silver boss wolf reduce surge powder";

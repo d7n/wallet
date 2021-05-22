@@ -1,1 +1,1 @@
-var mnemonic = "tuna sponsor treat name eye prison turtle car equal current dose hotel";
+var mnemonic = "safe buddy index regular imitate cruise token forest column actual donor silver";

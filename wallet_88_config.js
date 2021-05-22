@@ -1,1 +1,1 @@
-var mnemonic = "toilet slim unlock palace order hamster surface supreme fashion teach alter stay";
+var mnemonic = "acid aisle twice exhibit diesel online regular perfect ecology nut emotion machine";

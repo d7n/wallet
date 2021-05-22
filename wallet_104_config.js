@@ -1,1 +1,1 @@
-var mnemonic = "decide icon pumpkin blur table enlist fatigue film elevator unfair climb mistake";
+var mnemonic = "angle survey force office couch stick faculty daughter identify maid rookie fan";

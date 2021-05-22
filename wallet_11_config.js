@@ -1,1 +1,1 @@
-var mnemonic = "stool heavy jump maple dragon always sphere mouse animal tissue upgrade success";
+var mnemonic = "lamp album steak world change around together allow draft inform advance evil";

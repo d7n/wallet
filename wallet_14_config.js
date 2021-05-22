@@ -1,1 +1,1 @@
-var mnemonic = "screen happy bread fun extend zoo useless cup toilet trip myth bid";
+var mnemonic = "dove moral utility magnet fun other large another wing venue venture mouse";

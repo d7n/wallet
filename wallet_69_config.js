@@ -1,1 +1,1 @@
-var mnemonic = "duty barely two sing object rice harsh water merry actress report leaf";
+var mnemonic = "trust invite tuition universe movie increase job cluster blanket adult garden wolf";

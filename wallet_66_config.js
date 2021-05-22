@@ -1,1 +1,1 @@
-var mnemonic = "fee grant bulb match deliver viable finish tuna pink copper inherit laptop";
+var mnemonic = "route valve mutual twist enhance novel have embody like beef hill runway";

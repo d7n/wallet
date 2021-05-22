@@ -1,1 +1,1 @@
-var mnemonic = "brother silly element clay discover equip voice just inflict tool select uncover";
+var mnemonic = "eternal mutual proof catch maze clown aisle pudding mom turn melt lab";

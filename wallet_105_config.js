@@ -1,1 +1,1 @@
-var mnemonic = "hungry gravity price social heart prefer hurdle mosquito sniff rough chair indicate";
+var mnemonic = "various bike oxygen useful aisle matrix essence absurd mixed front scene mechanic";

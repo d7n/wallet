@@ -1,1 +1,1 @@
-var mnemonic = "wild exile tip text affair film monster text lava room mushroom define";
+var mnemonic = "sniff glare wait scan spatial arrange thank grief mansion filter admit decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake inner frequent tattoo gasp monkey club smoke slogan whale fitness mom";
+var mnemonic = "twice melt involve fade quantum nature alert corn shoulder medal nest buddy";

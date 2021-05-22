@@ -1,1 +1,1 @@
-var mnemonic = "test uniform mutual wrap social notable fine luxury dial blame minimum twin";
+var mnemonic = "skull cheap prepare woman connect fine artwork turn year place scout lecture";

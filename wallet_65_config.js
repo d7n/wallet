@@ -1,1 +1,1 @@
-var mnemonic = "lend lizard scorpion mix witness type country battle carry merry coyote decorate";
+var mnemonic = "digital math sweet kidney need movie spot mansion pink hope today purpose";

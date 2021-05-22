@@ -1,1 +1,1 @@
-var mnemonic = "apple crumble accuse mobile decline valve emerge waste news october mom owner";
+var mnemonic = "wink into muscle potato mask unit glove pumpkin speak flavor neck muffin";

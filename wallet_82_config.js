@@ -1,1 +1,1 @@
-var mnemonic = "account charge light ozone gas cram section push elder subway parade satoshi";
+var mnemonic = "better cannon amazing phrase museum tumble live roast reward bottom culture breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "mind ahead motor rhythm fresh few skate ceiling orbit struggle hospital season";
+var mnemonic = "visual race private smoke club vote endorse amazing chronic hero lift athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "resist assume auction frost erosion height increase obscure cinnamon setup physical energy";
+var mnemonic = "shrug milk cream youth label update scout sweet approve chase idea close";

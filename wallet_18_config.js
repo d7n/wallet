@@ -1,1 +1,1 @@
-var mnemonic = "chaos cheese crater enter wise spell usage express net wagon next mountain";
+var mnemonic = "spend vote possible pepper pool drop lift deliver want search rocket liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "champion isolate engage surface bike pause cricket either divide about camera crane";
+var mnemonic = "orange warm error aunt atom impose luggage polar trash advice obscure regret";

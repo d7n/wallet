@@ -1,1 +1,1 @@
-var mnemonic = "catch upon thought legal cross kid rabbit birth alert aim relief ecology";
+var mnemonic = "wreck match solution obscure trick hip gadget worth glue harvest across two";

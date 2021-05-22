@@ -1,1 +1,1 @@
-var mnemonic = "fat brass bread ten hunt describe pledge mobile parrot wave image pioneer";
+var mnemonic = "sudden gloom leader glory mushroom skull stumble toe prosper deal cousin approve";

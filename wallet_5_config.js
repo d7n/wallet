@@ -1,1 +1,1 @@
-var mnemonic = "urge estate enact whale subway harbor sell tomato any unknown impulse practice";
+var mnemonic = "rug purse alien nerve rather grant emotion record cream manual sock surround";

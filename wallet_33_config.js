@@ -1,1 +1,1 @@
-var mnemonic = "uphold group barrel fortune original marble recipe exchange always venue stage matter";
+var mnemonic = "swear life much age nerve quote roast roast swift student subway then";

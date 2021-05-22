@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cream moral sword peanut skill tank depend melt knife option spider";
+var mnemonic = "meadow spell sun express frame jungle task sentence boy price amused labor";

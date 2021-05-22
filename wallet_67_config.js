@@ -1,1 +1,1 @@
-var mnemonic = "soul harbor sight butter pioneer gloom actor logic tonight comic assume walnut";
+var mnemonic = "kingdom erase slogan castle long desk height help retreat anger atom air";

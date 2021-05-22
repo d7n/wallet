@@ -1,1 +1,1 @@
-var mnemonic = "lock sure broom youth install bacon follow uncle juice predict trick inmate";
+var mnemonic = "legal rule when inside scatter deliver suggest pitch attract nest asset field";

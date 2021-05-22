@@ -1,1 +1,1 @@
-var mnemonic = "cancel sort repair then tank awake tongue swing dad antique spirit purpose";
+var mnemonic = "fall eagle toward baby mom mesh cinnamon inner happy ring width high";

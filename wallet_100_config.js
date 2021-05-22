@@ -1,1 +1,1 @@
-var mnemonic = "warfare deal render supreme pottery stock almost life pond income quit layer";
+var mnemonic = "alley supreme crater relax betray denial vintage snow perfect feature quarter list";

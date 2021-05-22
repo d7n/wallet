@@ -1,1 +1,1 @@
-var mnemonic = "govern suggest goose arm load fire afford horse hospital doctor small volcano";
+var mnemonic = "october dove bonus chest ticket crop document smooth cup giraffe spirit sound";

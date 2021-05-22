@@ -1,1 +1,1 @@
-var mnemonic = "uncle round rare outside unfair busy proof joke engine ghost decade tackle";
+var mnemonic = "exercise supply chef mobile provide symptom above disagree vocal brick acid note";

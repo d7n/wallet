@@ -1,1 +1,1 @@
-var mnemonic = "force jar tiger regular phrase happy siege learn foster shift estate focus";
+var mnemonic = "oval opera napkin multiply symbol since velvet horn raccoon direct divorce order";

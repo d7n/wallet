@@ -1,1 +1,1 @@
-var mnemonic = "box island couch amused crazy erosion clown economy swallow govern myth asset";
+var mnemonic = "review speak explain express stadium accident deal dish coin perfect force anger";

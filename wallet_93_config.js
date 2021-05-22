@@ -1,1 +1,1 @@
-var mnemonic = "sponsor sand entry virtual brave tiny burger hidden online media wide artwork";
+var mnemonic = "secret champion slogan inner lonely capital step woman brick country sport coast";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster window february salmon laugh champion gospel minor animal little captain tuition";
+var mnemonic = "unusual list topple tree shrug brass young glimpse network captain between curve";

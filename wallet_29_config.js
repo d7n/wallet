@@ -1,1 +1,1 @@
-var mnemonic = "finish unhappy universe alpha letter scrub spawn luggage reject cradle cousin mixed";
+var mnemonic = "awkward audit robust blind mobile avoid radar arch amused actual chaos oval";

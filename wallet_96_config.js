@@ -1,1 +1,1 @@
-var mnemonic = "leg inmate leave siege collect toddler party sea raven beauty bless ribbon";
+var mnemonic = "confirm east program liquid front field govern solution tube wrist hurdle runway";

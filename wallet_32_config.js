@@ -1,1 +1,1 @@
-var mnemonic = "another silk bird ancient middle fever all urge engage saddle embody erupt";
+var mnemonic = "dad hungry recall cliff crime enough verify paddle runway settle fantasy observe";

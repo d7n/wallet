@@ -1,1 +1,1 @@
-var mnemonic = "popular paddle broken into drop link success head fossil borrow slim dinosaur";
+var mnemonic = "gift assist goat hover evolve foam chalk satisfy garbage hour same fog";

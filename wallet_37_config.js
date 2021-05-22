@@ -1,1 +1,1 @@
-var mnemonic = "gold input dinner real toast bonus need govern current kid member health";
+var mnemonic = "crouch water topic damp image ozone round hobby gossip escape humble small";

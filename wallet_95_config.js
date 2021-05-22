@@ -1,1 +1,1 @@
-var mnemonic = "cement sentence display play know bread congress glide fossil stone always inject";
+var mnemonic = "diet fog always attract floor struggle cliff airport give wine load bullet";

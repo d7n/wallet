@@ -1,1 +1,1 @@
-var mnemonic = "salt insane raven giggle puppy neutral badge crash victory involve slogan destroy";
+var mnemonic = "boil holiday noodle olympic oven cradle now build bless nephew walnut million";

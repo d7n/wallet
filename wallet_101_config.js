@@ -1,1 +1,1 @@
-var mnemonic = "dish tissue jacket alcohol vicious broken end spy increase abuse game grit";
+var mnemonic = "person rail library shrimp sauce minute one year young glove amazing dial";

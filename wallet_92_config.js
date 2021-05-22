@@ -1,1 +1,1 @@
-var mnemonic = "warfare slight verify cousin meat shield cry echo opinion obey frozen loan";
+var mnemonic = "later burst very talent tongue wife youth mind turtle happy mass virtual";

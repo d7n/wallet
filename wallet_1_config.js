@@ -1,1 +1,1 @@
-var mnemonic = "example cotton palace outdoor dress attend inject pepper soap spring lumber reward";
+var mnemonic = "pulse chef knee change wish trend zone install bubble brush income flee";

@@ -1,1 +1,1 @@
-var mnemonic = "climb glare shiver silent credit lake code just amazing amount leave mosquito";
+var mnemonic = "flush crop ethics absent cluster absorb apology siege exclude sea daughter clarify";

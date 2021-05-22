@@ -1,1 +1,1 @@
-var mnemonic = "diesel method language bleak borrow sick when omit dad trial shock hope";
+var mnemonic = "ticket tank quiz faint nose hidden ridge detect camp among door guard";

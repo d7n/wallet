@@ -1,1 +1,1 @@
-var mnemonic = "affair control ripple moment share industry visa segment only flight opinion dice";
+var mnemonic = "save either object zoo filter connect age visit bring trade taste frown";
