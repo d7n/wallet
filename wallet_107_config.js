@@ -1,1 +1,1 @@
-var mnemonic = "barrel beef junk cry obey amateur desert leopard cabbage filter celery metal";
+var mnemonic = "cement wool cannon pear wealth mercy token soul diesel orphan remind mystery";

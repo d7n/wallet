@@ -1,1 +1,1 @@
-var mnemonic = "catalog immune rely stairs frown search square pipe volcano remember hen swap";
+var mnemonic = "field already barely trial pact claim weapon dolphin potato guess possible eyebrow";

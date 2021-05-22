@@ -1,1 +1,1 @@
-var mnemonic = "stem engine grace river crack cash material dish film rich glory drama";
+var mnemonic = "bulk echo helmet away pen win fuel leader steel economy fragile only";

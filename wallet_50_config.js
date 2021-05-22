@@ -1,1 +1,1 @@
-var mnemonic = "person loud trim artefact first drip tourist old year person trash relax";
+var mnemonic = "solar crash outside crunch input off melody hybrid junk canal liquid blame";

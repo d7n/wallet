@@ -1,1 +1,1 @@
-var mnemonic = "idea indoor attack treat buffalo dwarf miss engine again captain speak duck";
+var mnemonic = "deer today tenant axis three model boil permit olympic bullet cash arm";

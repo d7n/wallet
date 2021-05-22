@@ -1,1 +1,1 @@
-var mnemonic = "cool segment more cup cheap stove ostrich pigeon goddess view say canyon";
+var mnemonic = "dune second renew catalog luggage risk wheat piano federal return crowd truly";

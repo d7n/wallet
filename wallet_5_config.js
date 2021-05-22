@@ -1,1 +1,1 @@
-var mnemonic = "combine follow wrong ceiling loop habit genius vacant swing enforce portion despair";
+var mnemonic = "cute ahead gesture vessel cry famous hour garage wait fuel poverty buyer";

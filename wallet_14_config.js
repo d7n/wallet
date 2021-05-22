@@ -1,1 +1,1 @@
-var mnemonic = "kitten head about other venture weather pony spatial need roof accident scrap";
+var mnemonic = "task perfect shift upset glory rug civil flock joy gaze sick furnace";

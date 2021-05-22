@@ -1,1 +1,1 @@
-var mnemonic = "regular disease place section pink item pond letter pride chief cart donate";
+var mnemonic = "liquid neither axis magic entire negative shift merge latin invest mean junk";

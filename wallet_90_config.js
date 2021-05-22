@@ -1,1 +1,1 @@
-var mnemonic = "lemon connect employ six soccer smile own tone hero special test coach";
+var mnemonic = "brass kiwi enforce card boring dutch match source cook runway vote polar";

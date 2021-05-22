@@ -1,1 +1,1 @@
-var mnemonic = "float crumble island luggage sunset fame shiver sort dragon impose giggle inmate";
+var mnemonic = "dutch surface breeze frequent potato maze organ plate cake wink borrow much";

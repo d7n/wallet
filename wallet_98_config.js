@@ -1,1 +1,1 @@
-var mnemonic = "lazy repeat priority brain found left require enjoy blade myth unveil cherry";
+var mnemonic = "violin panda glance client rescue crew leader sense pigeon lawsuit public pair";

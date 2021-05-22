@@ -1,1 +1,1 @@
-var mnemonic = "anxiety ethics side town armed write iron shine hub buzz spare drum";
+var mnemonic = "foam rally settle baby argue soft venture sort tower grape avocado cheese";

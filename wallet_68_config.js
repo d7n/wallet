@@ -1,1 +1,1 @@
-var mnemonic = "bean shiver sunny change early ecology charge sibling home october trip duck";
+var mnemonic = "audit cloth chalk asset ring group goddess garment rather area farm satoshi";

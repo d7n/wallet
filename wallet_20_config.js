@@ -1,1 +1,1 @@
-var mnemonic = "crazy assist sword advance deer link laugh argue spare metal erode decade";
+var mnemonic = "sick comic drive ball sheriff until drill derive old sleep spend kiwi";

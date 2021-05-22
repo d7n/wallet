@@ -1,1 +1,1 @@
-var mnemonic = "exhaust bubble daring desert pizza despair couch maze dish review pioneer visit";
+var mnemonic = "actual language actor order rose recycle wash police wreck enact power garden";

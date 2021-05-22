@@ -1,1 +1,1 @@
-var mnemonic = "rebuild clump captain behave can fan young draft close interest unable coffee";
+var mnemonic = "nut idea laptop glass parrot frozen orphan lesson grid face glory also";

@@ -1,1 +1,1 @@
-var mnemonic = "weather refuse satisfy athlete book coin saddle gentle split sugar flush cradle";
+var mnemonic = "roof course letter width hybrid level focus coffee address isolate rich like";

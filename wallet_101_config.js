@@ -1,1 +1,1 @@
-var mnemonic = "online review expand course vessel clean dawn pluck screen craft trust rebel";
+var mnemonic = "upper sing isolate strike sustain rice budget dish cement sting short ladder";

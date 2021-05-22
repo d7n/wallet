@@ -1,1 +1,1 @@
-var mnemonic = "across urge bless curve cruise knock anger range initial aerobic taste black";
+var mnemonic = "ridge color talent seek palace lunar program harbor same fragile bronze rival";

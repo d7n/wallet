@@ -1,1 +1,1 @@
-var mnemonic = "main sponsor dog general pudding control loyal depend record final kite mosquito";
+var mnemonic = "maze inch symptom badge tide logic fork gloom elephant borrow hamster tail";

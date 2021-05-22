@@ -1,1 +1,1 @@
-var mnemonic = "word indoor illness busy cram install lawn insect cruel trigger boss beyond";
+var mnemonic = "utility much town whisper silver honey obvious say opera cupboard adjust ripple";

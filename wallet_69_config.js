@@ -1,1 +1,1 @@
-var mnemonic = "harsh course link fancy ridge clock gaze tiger carbon spring opinion organ";
+var mnemonic = "verb noodle odor defy detail session fragile else girl cloth route sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt subject change year say dragon doctor joy skate bacon improve engine";
+var mnemonic = "wagon neck task clarify found swift potato margin best message hunt family";

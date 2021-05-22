@@ -1,1 +1,1 @@
-var mnemonic = "silly turtle kangaroo book easy faculty risk remind silk enlist obscure ask";
+var mnemonic = "aim eight divorce volume opera blush nice aunt ecology junior laptop core";

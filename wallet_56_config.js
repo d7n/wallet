@@ -1,1 +1,1 @@
-var mnemonic = "submit debris answer rent awkward unhappy hurdle empty gather library pole you";
+var mnemonic = "middle horse silver pear stable element long cancel minimum muscle physical roast";

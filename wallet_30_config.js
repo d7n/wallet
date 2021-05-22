@@ -1,1 +1,1 @@
-var mnemonic = "payment aunt worth curtain confirm process minimum soap liar assault lunch setup";
+var mnemonic = "daring garbage kingdom spot ecology transfer sketch cradle alcohol resource valve pipe";

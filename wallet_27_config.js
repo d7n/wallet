@@ -1,1 +1,1 @@
-var mnemonic = "enhance trick sport eagle hour hire pilot spawn devote side ranch dirt";
+var mnemonic = "moon spread pelican artist churn analyst half banner swift silver six forget";

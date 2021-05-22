@@ -1,1 +1,1 @@
-var mnemonic = "cement immune twelve purpose forget adult farm surprise sibling bar despair lunch";
+var mnemonic = "either panda recipe seed whale jewel visa car ozone rally rigid slow";

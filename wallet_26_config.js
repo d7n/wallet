@@ -1,1 +1,1 @@
-var mnemonic = "vivid brisk biology submit afford glove bird repair upset anger twenty medal";
+var mnemonic = "adapt inject siege miss history exhibit mystery jungle glide fiscal embody expose";

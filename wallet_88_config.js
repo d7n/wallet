@@ -1,1 +1,1 @@
-var mnemonic = "thank crew space exact staff useful session arrow call snake sample soldier";
+var mnemonic = "absurd become own civil attack cool burger forum knock time helmet unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "burger toy alcohol hawk poverty first shield donkey escape absurd approve oppose";
+var mnemonic = "party smart alien attitude dash today safe clean beauty elder ensure reflect";

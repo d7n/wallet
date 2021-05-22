@@ -1,1 +1,1 @@
-var mnemonic = "oblige picnic energy torch paddle carpet spike rural concert frog fine soldier";
+var mnemonic = "answer diet view cinnamon first hire embark option pride energy liquid lens";

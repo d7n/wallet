@@ -1,1 +1,1 @@
-var mnemonic = "verb tobacco lift panic vendor evolve attract begin vanish solution coach huge";
+var mnemonic = "treat whisper street peasant barely bicycle search album penalty voyage trash accuse";

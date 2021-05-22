@@ -1,1 +1,1 @@
-var mnemonic = "picture isolate smoke depth various whip rate waste federal winter bulb have";
+var mnemonic = "gown exclude large produce also type logic sock mind reject topic thumb";

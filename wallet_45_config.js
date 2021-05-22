@@ -1,1 +1,1 @@
-var mnemonic = "junk paper breeze seek winner wage gesture force flash vast trim often";
+var mnemonic = "blind swarm airport outer grant wedding tattoo vanish math social bike benefit";

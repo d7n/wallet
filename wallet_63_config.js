@@ -1,1 +1,1 @@
-var mnemonic = "cute conduct produce few butter marble imitate fog wrap lamp alarm youth";
+var mnemonic = "loan another segment kidney syrup rookie insect rail because another picture twist";

@@ -1,1 +1,1 @@
-var mnemonic = "first tank emerge tower universe culture absurd urge album steel wish axis";
+var mnemonic = "seven royal member second virus rule only gun other cotton exhaust resemble";

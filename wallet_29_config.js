@@ -1,1 +1,1 @@
-var mnemonic = "enlist insect repeat picnic tissue lady sausage ordinary train possible state dress";
+var mnemonic = "liquid include two witness congress start volume monster fly ride pupil federal";

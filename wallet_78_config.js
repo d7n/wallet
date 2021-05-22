@@ -1,1 +1,1 @@
-var mnemonic = "picture nothing journey glimpse run mango predict orphan vacant father lion face";
+var mnemonic = "vital pill maze hover once armor lava town hero rose vacuum fine";

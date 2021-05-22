@@ -1,1 +1,1 @@
-var mnemonic = "depend salt parent deer silent calm force veteran pumpkin cinnamon gold course";
+var mnemonic = "copy symbol perfect broken peanut math love universe above online skate valley";

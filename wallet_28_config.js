@@ -1,1 +1,1 @@
-var mnemonic = "keen purity ketchup lesson essay sun swarm ski cage coin fire meadow";
+var mnemonic = "version series lady excuse night room erosion flock home three ignore mad";

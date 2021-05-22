@@ -1,1 +1,1 @@
-var mnemonic = "web veteran supply tenant bundle purpose swing mirror accuse wall leopard rough";
+var mnemonic = "slice candy art stay bread raise circle tell hour mouse today beyond";

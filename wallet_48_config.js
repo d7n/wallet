@@ -1,1 +1,1 @@
-var mnemonic = "eternal orphan fan neck vicious absorb cook wisdom truth mobile fetch poverty";
+var mnemonic = "behave club protect excess define onion dice alert abstract wreck use hand";

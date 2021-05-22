@@ -1,1 +1,1 @@
-var mnemonic = "winner pond current century inch arm can crazy will belt task airport";
+var mnemonic = "theory rack armor auction dog route rain impact rough proof have learn";

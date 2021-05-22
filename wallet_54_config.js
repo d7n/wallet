@@ -1,1 +1,1 @@
-var mnemonic = "lunar shock grab evidence grace reopen cherry palace exotic animal derive have";
+var mnemonic = "sample real decline dish belt child concert humble you admit step cement";

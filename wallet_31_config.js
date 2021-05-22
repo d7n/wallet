@@ -1,1 +1,1 @@
-var mnemonic = "clever around nest civil worry dash sing recycle submit police question crop";
+var mnemonic = "atom oppose window husband cement endorse hospital zone tornado action welcome orphan";

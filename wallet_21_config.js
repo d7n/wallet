@@ -1,1 +1,1 @@
-var mnemonic = "mask glide gather owner useless price resemble cargo extra toe firm digital";
+var mnemonic = "wash journey quick pitch discover major swift lottery until try skirt bullet";

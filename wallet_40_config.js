@@ -1,1 +1,1 @@
-var mnemonic = "clutch pole minute vintage coast coffee bronze olympic dream dust banner obscure";
+var mnemonic = "bar dolphin moral illegal laugh list identify friend lottery expect whip stable";

@@ -1,1 +1,1 @@
-var mnemonic = "frame scrap setup mandate prosper habit ugly error popular fence empty wait";
+var mnemonic = "human engage cheese praise negative honey green trial cry hollow excite twist";

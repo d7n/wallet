@@ -1,1 +1,1 @@
-var mnemonic = "exclude cargo nuclear artwork result correct prevent still grain surface begin arrive";
+var mnemonic = "van such wash teach keen pool east body comfort fiber hungry resist";

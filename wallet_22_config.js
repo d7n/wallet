@@ -1,1 +1,1 @@
-var mnemonic = "alone gather guard tackle cinnamon alarm absurd purity whip drink easily asset";
+var mnemonic = "kid fade current fashion beyond torch kit february split obvious much collect";

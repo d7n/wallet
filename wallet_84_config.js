@@ -1,1 +1,1 @@
-var mnemonic = "wolf voice foil program liar act second bus forget ability obscure pudding";
+var mnemonic = "cheap grab service true candy length tag exclude enhance citizen squirrel faint";

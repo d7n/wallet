@@ -1,1 +1,1 @@
-var mnemonic = "boss order balance lunch right unfold leisure enforce matter catch maple surface";
+var mnemonic = "dad neglect conduct innocent armed trade share unknown crew lucky economy base";

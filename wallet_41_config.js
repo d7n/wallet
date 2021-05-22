@@ -1,1 +1,1 @@
-var mnemonic = "stand extra shuffle vague duty grant economy spoil inherit secret rib federal";
+var mnemonic = "result tennis satoshi absurd brisk pause nuclear scene tuna type hurdle brush";

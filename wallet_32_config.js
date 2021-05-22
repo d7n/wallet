@@ -1,1 +1,1 @@
-var mnemonic = "morning display sing else tray whisper sport manage use season town abstract";
+var mnemonic = "ignore rebuild raw width fun expand lonely rose enter genuine rubber license";

@@ -1,1 +1,1 @@
-var mnemonic = "february lab belt south brain sock muffin charge panic eagle maze news";
+var mnemonic = "mean cliff rebel exercise tag door token suit ecology wait border accuse";

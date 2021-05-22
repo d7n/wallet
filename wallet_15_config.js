@@ -1,1 +1,1 @@
-var mnemonic = "bracket benefit syrup fortune enable evil rich prefer bench joy evolve banner";
+var mnemonic = "carbon gym foil enable rally sheriff video dog glimpse begin globe census";

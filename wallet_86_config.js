@@ -1,1 +1,1 @@
-var mnemonic = "vacant hamster lumber stereo multiply vault safe viable kangaroo vapor neutral duty";
+var mnemonic = "regret off science ski floor stick cable planet endorse report resemble mother";

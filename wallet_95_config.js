@@ -1,1 +1,1 @@
-var mnemonic = "detect unlock another replace dismiss extra broccoli sing omit message lottery adjust";
+var mnemonic = "public giraffe dilemma mammal violin fence couch negative genre tobacco hurdle inspire";

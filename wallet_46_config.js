@@ -1,1 +1,1 @@
-var mnemonic = "sibling any pigeon undo hedgehog tide decorate wire biology alpha great fox";
+var mnemonic = "select frog fury supply tray where series concert mouse math consider ability";

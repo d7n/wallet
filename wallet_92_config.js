@@ -1,1 +1,1 @@
-var mnemonic = "cactus note argue can little lumber upon pitch day table define connect";
+var mnemonic = "flee order group social net vast umbrella express protect icon stuff goose";

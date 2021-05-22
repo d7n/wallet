@@ -1,1 +1,1 @@
-var mnemonic = "warm squirrel loop review donate picture behind honey tip six cloth believe";
+var mnemonic = "coin abandon bonus include maximum shed candy orchard legal grass salt drink";

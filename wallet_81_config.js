@@ -1,1 +1,1 @@
-var mnemonic = "wagon problem giant acquire latin tourist garment catch film achieve fine banana";
+var mnemonic = "dance flag blush erosion enhance already company recall great asthma lucky waste";

@@ -1,1 +1,1 @@
-var mnemonic = "pass quote flame video ice foster mutual unaware mirror carpet master review";
+var mnemonic = "host tuna uphold season speak guide lesson staff curve word enlist wrong";

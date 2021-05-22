@@ -1,1 +1,1 @@
-var mnemonic = "buffalo review machine gym simple pony have jar grain echo spray visual";
+var mnemonic = "iron feature tent boss code latin affair faculty outdoor bargain recipe hazard";

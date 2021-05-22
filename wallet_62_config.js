@@ -1,1 +1,1 @@
-var mnemonic = "face save rigid marine culture embrace music gown enrich asset donate extra";
+var mnemonic = "age during cattle reward lady media soda attract magic brisk evoke regret";

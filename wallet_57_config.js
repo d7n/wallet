@@ -1,1 +1,1 @@
-var mnemonic = "know network december piece merit clown plunge buddy reveal front opinion siren";
+var mnemonic = "fever midnight cotton fox nerve cost remember marriage venture impact two jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "execute busy swamp bag matter inside rug anchor target federal hire donkey";
+var mnemonic = "misery moral unaware chaos grunt blush depend victory timber luxury whip despair";

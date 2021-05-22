@@ -1,1 +1,1 @@
-var mnemonic = "dismiss olympic frog spatial retire naive divide old angry moment crater oxygen";
+var mnemonic = "resist bunker vehicle endorse jealous fetch grief wreck random rain aerobic actual";

@@ -1,1 +1,1 @@
-var mnemonic = "domain tunnel cream broccoli demand domain visit intact regret series wheel allow";
+var mnemonic = "cram claw hazard tooth mixture into pulse local usual wish dynamic absorb";

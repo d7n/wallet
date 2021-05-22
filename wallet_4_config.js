@@ -1,1 +1,1 @@
-var mnemonic = "clip patch bitter south main shift wife secret random valve slush infant";
+var mnemonic = "involve tackle curious seed resource lamp guitar swear trip gold permit tuna";

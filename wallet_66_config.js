@@ -1,1 +1,1 @@
-var mnemonic = "tourist pole require repeat tomato settle awkward flame annual dog tragic supreme";
+var mnemonic = "skin autumn crash leg rail seminar deal light hint magnet globe cabbage";

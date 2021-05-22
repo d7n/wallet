@@ -1,1 +1,1 @@
-var mnemonic = "defense device answer shield skull rude engine canyon host length charge silk";
+var mnemonic = "test tooth aim wealth expose impact bamboo danger state endless receive admit";

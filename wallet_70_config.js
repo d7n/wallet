@@ -1,1 +1,1 @@
-var mnemonic = "crop all come screen copper gun shaft inquiry home pudding setup dizzy";
+var mnemonic = "click attitude path moon era jungle wine innocent opinion input diagram october";

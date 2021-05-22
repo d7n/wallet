@@ -1,1 +1,1 @@
-var mnemonic = "medal real radar sustain order ill clap south gym gym palace coral";
+var mnemonic = "daughter scrap embark keep simple chaos supreme insane scan monitor crack pigeon";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon category goat layer alley curtain inflict gain palm rug theory soft";
+var mnemonic = "cactus trouble earn jelly crash capable net token spice begin garlic eyebrow";

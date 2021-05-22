@@ -1,1 +1,1 @@
-var mnemonic = "close claw cruel connect mass manual rigid decrease grocery derive clump hold";
+var mnemonic = "pitch expose ignore elephant decide hybrid slab swing company online giggle fine";

@@ -1,1 +1,1 @@
-var mnemonic = "source february enlist practice pelican pen foster tomorrow toy casino live awful";
+var mnemonic = "movie suggest august ramp easily monster boy grass improve burger resemble burger";

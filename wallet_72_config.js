@@ -1,1 +1,1 @@
-var mnemonic = "action weasel have drink aware tenant asthma coil pride stamp crouch juice";
+var mnemonic = "own author artwork faint post raise economy nephew wedding search start announce";

@@ -1,1 +1,1 @@
-var mnemonic = "frog spot suggest stool result athlete obscure forward minor perfect loyal release";
+var mnemonic = "motion laundry venue cause settle ten system smile spoil auto action place";

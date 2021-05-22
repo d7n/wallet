@@ -1,1 +1,1 @@
-var mnemonic = "clock danger robot royal worry river dash buyer turn document series bind";
+var mnemonic = "barely romance curious rebuild emerge unlock just build very because where dish";

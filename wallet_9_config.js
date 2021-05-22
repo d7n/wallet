@@ -1,1 +1,1 @@
-var mnemonic = "young hire open left present sure category topple pool drink stone decade";
+var mnemonic = "hawk intact invite draw thing joke plate tonight time knee air make";

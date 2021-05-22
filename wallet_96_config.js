@@ -1,1 +1,1 @@
-var mnemonic = "soda brisk stamp virus eager only creek fossil grocery drink moment wide";
+var mnemonic = "airport chunk kitchen monkey worry power pipe category bubble spirit cover sketch";

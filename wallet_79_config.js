@@ -1,1 +1,1 @@
-var mnemonic = "park token item rifle border unfair easily output much chimney burger strike";
+var mnemonic = "captain price region razor flash dragon friend leisure this ladder large soon";

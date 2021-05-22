@@ -1,1 +1,1 @@
-var mnemonic = "project print indoor rally client shy library pepper fault lazy stem call";
+var mnemonic = "gossip produce drift bike audit decade thought arrange vibrant unhappy skate recall";

@@ -1,1 +1,1 @@
-var mnemonic = "alert drip viable castle blouse wrap attack bachelor pioneer custom battle private";
+var mnemonic = "submit pig sustain buddy cement gallery crunch mule bid vague tenant peanut";

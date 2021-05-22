@@ -1,1 +1,1 @@
-var mnemonic = "miss novel river cycle faith garment wealth transfer slice double harbor speak";
+var mnemonic = "infant cabbage reform double tennis rural diary panel answer era damage code";

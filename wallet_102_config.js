@@ -1,1 +1,1 @@
-var mnemonic = "silly assist exact that opinion pause junior legal clutch segment oyster spell";
+var mnemonic = "field check clay runway document cliff seminar field scatter hungry spoon armed";

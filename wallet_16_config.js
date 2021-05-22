@@ -1,1 +1,1 @@
-var mnemonic = "insane they miracle outside congress kangaroo tumble egg devote grass exotic arrest";
+var mnemonic = "today bike demand iron seven pottery wine bench drill screen visit weapon";

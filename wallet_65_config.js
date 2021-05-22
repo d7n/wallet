@@ -1,1 +1,1 @@
-var mnemonic = "tower pledge head under green subject predict comfort unaware post glory practice";
+var mnemonic = "jealous wheel brisk cluster peanut upper arm burden push cushion boil mouse";
