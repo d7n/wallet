@@ -1,1 +1,1 @@
-var mnemonic = "rival beach ensure meadow wheel goddess front rate syrup hip hill evoke";
+var mnemonic = "foil way board accuse toilet lamp one rare real stone lens world";

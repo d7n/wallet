@@ -1,1 +1,1 @@
-var mnemonic = "fitness piano sentence vote fork figure silk shoe album green delay lunar";
+var mnemonic = "club give result arrive asthma initial shock weapon purity panda day scare";

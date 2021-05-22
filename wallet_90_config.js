@@ -1,1 +1,1 @@
-var mnemonic = "holiday welcome message few silent husband crawl galaxy vacant slice dance infant";
+var mnemonic = "describe shield crystal episode crop drink damage uncover attract table small quit";

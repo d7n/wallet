@@ -1,1 +1,1 @@
-var mnemonic = "rescue wrist blush inject digital just law cattle success empower pass spoil";
+var mnemonic = "front club long resist belt excuse nothing when season pulse tissue hammer";

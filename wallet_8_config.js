@@ -1,1 +1,1 @@
-var mnemonic = "fun holiday great antenna exhaust brass slam unknown title ripple biology illness";
+var mnemonic = "estate bitter noodle blast naive display release buffalo duty brother rib expose";

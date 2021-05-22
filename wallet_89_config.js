@@ -1,1 +1,1 @@
-var mnemonic = "arrange scissors rival mouse business history unique dish sound claw leave swing";
+var mnemonic = "census garbage atom lunar family hero inhale general mansion used tray upon";

@@ -1,1 +1,1 @@
-var mnemonic = "develop urge adult cabbage text census tragic indoor install song brain woman";
+var mnemonic = "polar merge two gather push physical stairs goddess nurse seek piano develop";

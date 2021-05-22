@@ -1,1 +1,1 @@
-var mnemonic = "neck typical use unique brick tomorrow country convince theory vital pupil tenant";
+var mnemonic = "timber observe nothing agent helmet grape hope indoor dog alter vintage range";

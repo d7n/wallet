@@ -1,1 +1,1 @@
-var mnemonic = "rent humor relax hole apple indoor intact truly session design draw kidney";
+var mnemonic = "train traffic imitate hen picture section bread fortune bench range install mirror";

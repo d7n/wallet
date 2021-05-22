@@ -1,1 +1,1 @@
-var mnemonic = "shrug world pyramid buffalo pottery dismiss oil tuition evoke coyote fold spray";
+var mnemonic = "walk beef reward depth skirt royal pretty crack knife where cotton owner";

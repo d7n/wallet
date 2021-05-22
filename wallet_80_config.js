@@ -1,1 +1,1 @@
-var mnemonic = "grocery act margin reduce juice later ask oxygen solid enjoy general stereo";
+var mnemonic = "entry jar barely luxury educate blame quarter sick blossom loan crash few";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy veteran action angry song scare cash razor quick congress ginger inside";
+var mnemonic = "piece floor metal human pony cement east autumn horse drop type taste";

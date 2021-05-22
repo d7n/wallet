@@ -1,1 +1,1 @@
-var mnemonic = "text ignore shy mammal system combine twice index snake silent survey economy";
+var mnemonic = "rely harbor miss much unveil light daughter safe glide hill dragon direct";

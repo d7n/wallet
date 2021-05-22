@@ -1,1 +1,1 @@
-var mnemonic = "frozen program link boy supreme chest injury theory shy cement describe million";
+var mnemonic = "finish festival bike early sniff what later bean receive rich heavy assist";

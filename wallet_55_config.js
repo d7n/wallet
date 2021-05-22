@@ -1,1 +1,1 @@
-var mnemonic = "frown beach cross build idle erosion light stumble feel again knife roof";
+var mnemonic = "nasty bridge fortune injury cat trap kiwi equip bulb clog wall fabric";

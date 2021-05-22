@@ -1,1 +1,1 @@
-var mnemonic = "bless rookie together glass fatal police appear affair glow negative abstract submit";
+var mnemonic = "girl alpha glimpse chicken piano umbrella small okay report flock water demise";

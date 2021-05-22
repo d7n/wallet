@@ -1,1 +1,1 @@
-var mnemonic = "depth door task marble saddle render garment husband tumble velvet soon aerobic";
+var mnemonic = "opinion father better charge punch party interest desk chair stuff eternal unfair";

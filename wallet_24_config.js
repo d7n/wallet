@@ -1,1 +1,1 @@
-var mnemonic = "resource eight dry strike series argue fork nation acquire argue cable mesh";
+var mnemonic = "expose action gun believe cool bridge cradle lamp chest history novel solid";

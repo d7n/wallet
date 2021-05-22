@@ -1,1 +1,1 @@
-var mnemonic = "unveil amazing very mountain scrap cart region hurdle wool lawn expose column";
+var mnemonic = "muscle before brush squirrel hip reform record exhaust very deposit movie drill";

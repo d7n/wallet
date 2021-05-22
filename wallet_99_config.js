@@ -1,1 +1,1 @@
-var mnemonic = "absurd news cattle belt virtual alone pitch vendor tongue tragic taste title";
+var mnemonic = "near paddle plunge mobile syrup undo hen sister gaze shoe tribe mass";

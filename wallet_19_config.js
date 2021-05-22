@@ -1,1 +1,1 @@
-var mnemonic = "oyster permit close spread start term sea nuclear wrap indicate sleep govern";
+var mnemonic = "draft siege marine resemble retreat seat eye honey olympic ritual skirt follow";

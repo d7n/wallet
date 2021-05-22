@@ -1,1 +1,1 @@
-var mnemonic = "bird stand sell setup anger census water purity boat buyer rib vintage";
+var mnemonic = "angle tiger frost wrestle range trap plug fresh arrest coil same tuition";

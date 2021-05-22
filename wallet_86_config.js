@@ -1,1 +1,1 @@
-var mnemonic = "actual shell team leopard peanut soda organ clever fade hand average arrange";
+var mnemonic = "slim orphan rival survey give brush please vault flush major gasp decline";

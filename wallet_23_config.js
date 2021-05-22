@@ -1,1 +1,1 @@
-var mnemonic = "toast lumber private detect fire dance royal tell weapon bag cube farm";
+var mnemonic = "purity flag token head airport vague ripple female adapt jazz enact custom";

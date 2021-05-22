@@ -1,1 +1,1 @@
-var mnemonic = "oppose embrace sauce oil build noodle finger when reunion network length use";
+var mnemonic = "inject clock assume impose young pilot admit crystal result catch foil dress";

@@ -1,1 +1,1 @@
-var mnemonic = "size spring music energy theme action long machine hybrid verb thunder better";
+var mnemonic = "speak boring expect develop roast orchard card radio damage motion topple stumble";

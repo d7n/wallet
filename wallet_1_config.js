@@ -1,1 +1,1 @@
-var mnemonic = "bike energy midnight strike remind door inflict loyal inform excuse test agree";
+var mnemonic = "mandate film dentist that thrive detail work vacuum target nest slim city";

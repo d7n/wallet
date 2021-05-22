@@ -1,1 +1,1 @@
-var mnemonic = "bridge because good proud snap spawn ten renew own hire solid just";
+var mnemonic = "mesh enroll ball lunch cart wise toss basket potato legal unveil lemon";

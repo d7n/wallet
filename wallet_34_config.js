@@ -1,1 +1,1 @@
-var mnemonic = "tongue culture trim school general ski column design indoor unhappy initial proof";
+var mnemonic = "awkward forward intact final fence scheme hero letter monster earn robust wear";

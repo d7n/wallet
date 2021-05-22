@@ -1,1 +1,1 @@
-var mnemonic = "jump access below luggage grab this reform creek ladder focus glue finger";
+var mnemonic = "pool conduct slot december vapor museum marble approve absurd knee social sort";

@@ -1,1 +1,1 @@
-var mnemonic = "certain knock impose power color episode hazard school flight cream piece sphere";
+var mnemonic = "brother rubber flower salmon fragile census baby innocent curtain smoke vehicle exit";

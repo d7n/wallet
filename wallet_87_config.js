@@ -1,1 +1,1 @@
-var mnemonic = "bid lens thunder elbow document all salute choice grunt public unit roast";
+var mnemonic = "level vocal deny small cushion aerobic describe candy expire minor awful behave";

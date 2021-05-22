@@ -1,1 +1,1 @@
-var mnemonic = "nominee thunder secret chunk middle mosquito nothing hockey weather teach denial allow";
+var mnemonic = "chaos excite kid gaze leg paddle public try emotion sock boss spread";

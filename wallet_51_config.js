@@ -1,1 +1,1 @@
-var mnemonic = "insect decline energy rifle pass lemon oak rich rival owner father language";
+var mnemonic = "pig pupil sun jelly knee field gap leisure eight people basic great";

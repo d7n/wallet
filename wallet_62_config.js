@@ -1,1 +1,1 @@
-var mnemonic = "hint axis coral salad plunge play asset actress wrestle hair ginger common";
+var mnemonic = "hard science cage season ceiling federal ugly world ribbon wine gym dish";

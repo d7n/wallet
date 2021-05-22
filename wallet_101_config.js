@@ -1,1 +1,1 @@
-var mnemonic = "episode combine car moral vendor ancient obey report level endorse smart achieve";
+var mnemonic = "rough title stable sight typical sport volume key demand main crystal labor";

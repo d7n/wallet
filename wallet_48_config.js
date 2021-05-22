@@ -1,1 +1,1 @@
-var mnemonic = "mirror bamboo clock creek undo ice seminar depth camera crouch mind monitor";
+var mnemonic = "license foster stone grit return field wear earn match ability chat essence";

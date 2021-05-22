@@ -1,1 +1,1 @@
-var mnemonic = "knock mixed length tool wage slogan upon outside learn give space repeat";
+var mnemonic = "sniff slice canvas acquire borrow exhaust correct script tiny indicate stool palace";

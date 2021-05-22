@@ -1,1 +1,1 @@
-var mnemonic = "capital menu rapid brief shallow entire strategy pluck already spare little click";
+var mnemonic = "prosper upper bargain hire artwork myself surround raven front pig member buyer";

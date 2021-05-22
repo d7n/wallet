@@ -1,1 +1,1 @@
-var mnemonic = "menu exist invest cereal mobile shadow father fiction purpose ginger mango air";
+var mnemonic = "rare knife deliver diamond zero still duck pig giant garment solid upon";

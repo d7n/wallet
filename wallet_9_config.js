@@ -1,1 +1,1 @@
-var mnemonic = "hybrid usage begin appear three estate devote timber gap knock crew mass";
+var mnemonic = "dove soon else rifle ecology movie sudden address source choice parrot option";

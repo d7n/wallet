@@ -1,1 +1,1 @@
-var mnemonic = "access stuff couple risk place bless young blanket foster dance defy labor";
+var mnemonic = "unlock alter lawn wolf innocent actual gospel uncover idea group walnut sort";

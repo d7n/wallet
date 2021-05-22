@@ -1,1 +1,1 @@
-var mnemonic = "robot doll pottery host bind open vocal ladder dance raven job scale";
+var mnemonic = "plunge episode elite powder surprise wrong green matter cannon stereo fan gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "art term roast skull artist motion group apart exercise polar bleak case";
+var mnemonic = "link expire fix cruise work short obey wet sibling voice agent brain";

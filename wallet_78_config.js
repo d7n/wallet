@@ -1,1 +1,1 @@
-var mnemonic = "pass kind keep coffee sleep skin antique muffin wet circle exit clown";
+var mnemonic = "field giant tower adjust advice certain arm tip double clown shell someone";

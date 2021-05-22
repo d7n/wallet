@@ -1,1 +1,1 @@
-var mnemonic = "census scatter town plate stem helmet alpha hope hat zone gentle visual";
+var mnemonic = "boy peace horror cream west vital wild flag sugar weather misery tattoo";

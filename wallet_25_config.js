@@ -1,1 +1,1 @@
-var mnemonic = "wrap clever sight author rough top fly age slim dawn usual dress";
+var mnemonic = "galaxy melody allow pave butter various fiber inquiry lizard actress salon room";

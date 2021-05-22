@@ -1,1 +1,1 @@
-var mnemonic = "mosquito now squeeze kind review coffee across stamp mosquito forward valley clutch";
+var mnemonic = "birth oyster physical party power fold inspire oppose obtain clump among juice";

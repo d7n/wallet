@@ -1,1 +1,1 @@
-var mnemonic = "rare record smile check evoke mother wife multiply order limit together spoon";
+var mnemonic = "riot unusual column unveil bag typical stock chief canyon guide level captain";

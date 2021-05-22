@@ -1,1 +1,1 @@
-var mnemonic = "twin flat dismiss obscure two zone buyer canyon boat ice busy child";
+var mnemonic = "put glimpse picture humble stable trouble utility click omit brand loyal erase";

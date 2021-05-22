@@ -1,1 +1,1 @@
-var mnemonic = "vacuum aspect cruise country daughter ill gap cube dove multiply bean rocket";
+var mnemonic = "parrot yellow ugly struggle dumb banner clay tool mule pig quantum obvious";

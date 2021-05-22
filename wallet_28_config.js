@@ -1,1 +1,1 @@
-var mnemonic = "grit lesson jaguar snow width assault hurdle that valid muffin seed maze";
+var mnemonic = "dragon jacket rare empower volcano garbage mom envelope kit tornado stand maze";

@@ -1,1 +1,1 @@
-var mnemonic = "box myself protect net rally want film figure ceiling quiz fall enough";
+var mnemonic = "sure crystal circle embark lecture heart spell liquid disorder vacuum stay nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "twin wheat frog height sentence snake urge powder item iron project dentist";
+var mnemonic = "faculty insane occur electric soap love screen friend boy canal hotel laugh";

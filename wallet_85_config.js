@@ -1,1 +1,1 @@
-var mnemonic = "shadow will symptom shell boil mule country dragon pave journey cabin swing";
+var mnemonic = "possible hurt fit plunge fresh they coconut fever impact april base benefit";

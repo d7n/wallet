@@ -1,1 +1,1 @@
-var mnemonic = "cream rich helmet treat marble kidney blade palm climb carry stamp demand";
+var mnemonic = "busy scheme talk thank food ill lazy major sword discover vital blouse";

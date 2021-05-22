@@ -1,1 +1,1 @@
-var mnemonic = "donkey high airport luggage link dolphin daughter essence physical purse card vital";
+var mnemonic = "base actor jungle kid swamp pear repeat coin ten artwork pool hedgehog";

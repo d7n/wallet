@@ -1,1 +1,1 @@
-var mnemonic = "slim vast orbit pulp token cost trap blouse hub jacket example caught";
+var mnemonic = "cube spirit energy slogan ridge table extend jar copper unlock ivory filter";

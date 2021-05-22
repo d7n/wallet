@@ -1,1 +1,1 @@
-var mnemonic = "parent skate nature diagram jealous panther lucky unaware drip member input push";
+var mnemonic = "chimney grain mirror episode educate main urge burden fish helmet tag assault";

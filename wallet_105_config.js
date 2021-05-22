@@ -1,1 +1,1 @@
-var mnemonic = "control account swing fluid middle year what copy focus next amateur lazy";
+var mnemonic = "involve pony cinnamon visa calm true piece network stairs carry soft page";

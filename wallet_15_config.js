@@ -1,1 +1,1 @@
-var mnemonic = "door invite chef turtle stage ceiling page regular explain diary clever outside";
+var mnemonic = "use worry iron lottery inner tape room speak myth end hunt start";

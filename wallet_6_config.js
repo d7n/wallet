@@ -1,1 +1,1 @@
-var mnemonic = "devote pattern type glance elite cry blue defy figure regular public street";
+var mnemonic = "enlist joy absorb skill blossom ring miracle matter inch casino direct project";

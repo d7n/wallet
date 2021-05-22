@@ -1,1 +1,1 @@
-var mnemonic = "neglect fade glory market frequent across debate bus spatial pattern ivory puzzle";
+var mnemonic = "book chase rule fancy spirit style myth parent february urban bench famous";

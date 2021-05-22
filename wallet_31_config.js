@@ -1,1 +1,1 @@
-var mnemonic = "cloud burger sleep genius jelly combine excite fluid tribe husband sister indicate";
+var mnemonic = "carry fox ocean invite squirrel away other around aim deputy mandate grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sing luxury nut auction story certain slight cute replace vessel alert";
+var mnemonic = "volume envelope wet music bunker start lake step hazard document crash plunge";

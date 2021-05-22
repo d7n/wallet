@@ -1,1 +1,1 @@
-var mnemonic = "decline theme minimum van apple jaguar trust actress wave index wing pride";
+var mnemonic = "struggle feel test hill purity bind shine give ridge leaf cart online";

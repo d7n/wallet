@@ -1,1 +1,1 @@
-var mnemonic = "fury nut afford pattern brick vital dutch judge plastic pond absorb egg";
+var mnemonic = "lyrics trick name orient drop unveil man oppose wine behind scorpion forward";

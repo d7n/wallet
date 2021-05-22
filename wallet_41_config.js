@@ -1,1 +1,1 @@
-var mnemonic = "crucial comic cloth erase surface foster prefer neither swim town dentist shaft";
+var mnemonic = "cereal useful apple senior dragon drum arrive ankle file maze inspire live";

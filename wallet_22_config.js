@@ -1,1 +1,1 @@
-var mnemonic = "cry point kingdom aerobic diet trash frown combine cook state trumpet venture";
+var mnemonic = "pact quarter define payment page brand scan media abstract wrist typical there";

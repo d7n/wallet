@@ -1,1 +1,1 @@
-var mnemonic = "unhappy battle sadness rug deny love card pledge cube fog brother jump";
+var mnemonic = "reunion cliff digital head lunch budget mom sniff body toast hawk confirm";

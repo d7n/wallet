@@ -1,1 +1,1 @@
-var mnemonic = "ask upgrade pulse card arrow depend impose champion notable shell please equal";
+var mnemonic = "clever tomato rose outside audit couple intact uncover school enemy birth acoustic";

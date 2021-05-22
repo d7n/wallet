@@ -1,1 +1,1 @@
-var mnemonic = "shaft sibling capable diagram silk that dish quit struggle biology edit museum";
+var mnemonic = "scrub cereal slender cheap below riot clump hope pizza embody frost grape";

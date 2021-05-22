@@ -1,1 +1,1 @@
-var mnemonic = "travel tomorrow man addict record cycle wolf injury accident fade awkward oil";
+var mnemonic = "crane theme any wife mechanic predict ticket skirt awful nut stumble report";

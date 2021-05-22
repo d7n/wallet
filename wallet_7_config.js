@@ -1,1 +1,1 @@
-var mnemonic = "seven cause nasty prevent evolve rebuild gauge skate ghost sorry vacuum emerge";
+var mnemonic = "tell grant dice keen gaze bundle say bind shadow property affair pipe";

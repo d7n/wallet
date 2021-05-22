@@ -1,1 +1,1 @@
-var mnemonic = "best clay slam owner employ lawsuit dragon video oxygen hand spot village";
+var mnemonic = "seminar recipe time cradle pluck scout harsh sock sock arrange educate control";

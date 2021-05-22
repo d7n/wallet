@@ -1,1 +1,1 @@
-var mnemonic = "quit frequent physical pride future run valve spot helmet zone figure cheese";
+var mnemonic = "result custom mobile choice table tissue theme advance estate target leader rare";

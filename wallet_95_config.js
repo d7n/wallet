@@ -1,1 +1,1 @@
-var mnemonic = "indicate mouse runway vital beef off hair surround choose chicken city visual";
+var mnemonic = "neglect course cement hour bus into vast section faculty simple alcohol lecture";

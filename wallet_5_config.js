@@ -1,1 +1,1 @@
-var mnemonic = "analyst motion enlist about what blossom fringe print squeeze merit virtual wreck";
+var mnemonic = "mad indicate turkey friend garlic rib aspect predict mail travel plastic expire";

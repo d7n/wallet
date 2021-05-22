@@ -1,1 +1,1 @@
-var mnemonic = "change tobacco tree gun drop federal glad pattern tattoo kick cry reopen";
+var mnemonic = "expand entry soup gun hungry million entry gate knife multiply inner motion";

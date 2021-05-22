@@ -1,1 +1,1 @@
-var mnemonic = "lab cost trust weird critic grass urban rate orange off picture fun";
+var mnemonic = "utility grant buyer seat fun arctic guilt illegal educate fog feature chaos";

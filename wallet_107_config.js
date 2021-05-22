@@ -1,1 +1,1 @@
-var mnemonic = "snap spend receive copper lesson company visa tone puppy forest vessel double";
+var mnemonic = "change night wisdom ostrich board mushroom urge direct clever slogan guard expose";

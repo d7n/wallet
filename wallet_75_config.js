@@ -1,1 +1,1 @@
-var mnemonic = "shove edit illegal exhibit best assault until pool family height entire surround";
+var mnemonic = "fetch angry over traffic rain join kitten exercise resist magic tragic shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "fork dune also palace solid exhibit trick couch version endorse sea gas";
+var mnemonic = "evil typical later flavor drama category eyebrow brief wise deputy chalk beef";

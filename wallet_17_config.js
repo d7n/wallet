@@ -1,1 +1,1 @@
-var mnemonic = "dirt insect swift leaf stadium brush enroll clarify mass coast cement total";
+var mnemonic = "another fortune place globe truly process best pulse dial grit gap goddess";
