@@ -1,1 +1,1 @@
-var mnemonic = "daring garbage kingdom spot ecology transfer sketch cradle alcohol resource valve pipe";
+var mnemonic = "cake spell again position detail visit snap thing clump settle say direct";

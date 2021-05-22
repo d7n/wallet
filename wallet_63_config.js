@@ -1,1 +1,1 @@
-var mnemonic = "loan another segment kidney syrup rookie insect rail because another picture twist";
+var mnemonic = "ozone steel daring legend connect custom dwarf inhale tongue pulse walk sense";

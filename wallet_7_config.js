@@ -1,1 +1,1 @@
-var mnemonic = "jacket clarify butter bring sibling angry grain faculty observe number jungle goddess";
+var mnemonic = "hole okay opinion kiwi matter fragile image disagree child tooth raise indoor";

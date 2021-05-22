@@ -1,1 +1,1 @@
-var mnemonic = "wear parent baby size laugh frame make country give paddle wool situate";
+var mnemonic = "fault chalk type better cable pizza possible dash erupt various capable meat";

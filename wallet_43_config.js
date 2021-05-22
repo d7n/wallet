@@ -1,1 +1,1 @@
-var mnemonic = "dune second renew catalog luggage risk wheat piano federal return crowd truly";
+var mnemonic = "bleak gas cruel pet connect season teach fortune select dawn lion december";

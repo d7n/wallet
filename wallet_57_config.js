@@ -1,1 +1,1 @@
-var mnemonic = "fever midnight cotton fox nerve cost remember marriage venture impact two jelly";
+var mnemonic = "parade vacuum decrease vast resist harsh image sea struggle act bind plate";

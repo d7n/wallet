@@ -1,1 +1,1 @@
-var mnemonic = "iron feature tent boss code latin affair faculty outdoor bargain recipe hazard";
+var mnemonic = "symptom pulp tube metal palm island antique hammer clap butter party sort";

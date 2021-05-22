@@ -1,1 +1,1 @@
-var mnemonic = "public giraffe dilemma mammal violin fence couch negative genre tobacco hurdle inspire";
+var mnemonic = "purity wait august embody innocent cupboard sting buyer hurry best farm warfare";

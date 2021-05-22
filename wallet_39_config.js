@@ -1,1 +1,1 @@
-var mnemonic = "aim eight divorce volume opera blush nice aunt ecology junior laptop core";
+var mnemonic = "check miss again motion woman endless crater mean illness slim shadow marble";

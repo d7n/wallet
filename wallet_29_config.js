@@ -1,1 +1,1 @@
-var mnemonic = "liquid include two witness congress start volume monster fly ride pupil federal";
+var mnemonic = "business shrug shiver depend oil echo skirt ugly confirm maple current pride";

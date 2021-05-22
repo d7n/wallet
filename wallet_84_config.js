@@ -1,1 +1,1 @@
-var mnemonic = "cheap grab service true candy length tag exclude enhance citizen squirrel faint";
+var mnemonic = "switch exile clog giant injury coyote endless term banner iron visual card";

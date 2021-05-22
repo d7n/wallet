@@ -1,1 +1,1 @@
-var mnemonic = "dad neglect conduct innocent armed trade share unknown crew lucky economy base";
+var mnemonic = "bitter exhaust dose lock toy olive party shoulder vapor great proud media";

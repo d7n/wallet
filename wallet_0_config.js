@@ -1,1 +1,1 @@
-var mnemonic = "roof course letter width hybrid level focus coffee address isolate rich like";
+var mnemonic = "bridge reason embrace shuffle toe bid bitter little reform scout usual arm";

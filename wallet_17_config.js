@@ -1,1 +1,1 @@
-var mnemonic = "lounge champion sauce immune cup useful cram noise scissors multiply fog budget";
+var mnemonic = "force primary cart parrot false room nest during flight history chunk jelly";

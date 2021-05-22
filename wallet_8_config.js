@@ -1,1 +1,1 @@
-var mnemonic = "human engage cheese praise negative honey green trial cry hollow excite twist";
+var mnemonic = "fun peasant blame laundry depart clock insane bacon blame tail cable tube";

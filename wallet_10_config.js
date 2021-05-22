@@ -1,1 +1,1 @@
-var mnemonic = "drive liquid language delay meadow echo anger filter ahead inch erode general";
+var mnemonic = "disorder patient praise shove pony bus muscle pupil raise give list tattoo";

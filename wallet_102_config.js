@@ -1,1 +1,1 @@
-var mnemonic = "field check clay runway document cliff seminar field scatter hungry spoon armed";
+var mnemonic = "wool spot innocent narrow blanket lens adjust insane gesture fork museum credit";

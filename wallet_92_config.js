@@ -1,1 +1,1 @@
-var mnemonic = "flee order group social net vast umbrella express protect icon stuff goose";
+var mnemonic = "vanish blouse oblige teach enlist nation glad tackle fresh outside blue shallow";

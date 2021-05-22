@@ -1,1 +1,1 @@
-var mnemonic = "mean cliff rebel exercise tag door token suit ecology wait border accuse";
+var mnemonic = "balcony thing injury kiwi fragile boss object scheme crime genuine enter whisper";

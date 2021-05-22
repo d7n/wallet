@@ -1,1 +1,1 @@
-var mnemonic = "child best unfair adapt gadget spy wood about decade entire misery drill";
+var mnemonic = "aim license canoe pink twenty alter use note broken where scheme clown";

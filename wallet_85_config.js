@@ -1,1 +1,1 @@
-var mnemonic = "gown exclude large produce also type logic sock mind reject topic thumb";
+var mnemonic = "walk thought blade index assault blind gaze burger text country hire virtual";

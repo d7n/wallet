@@ -1,1 +1,1 @@
-var mnemonic = "sample real decline dish belt child concert humble you admit step cement";
+var mnemonic = "powder switch govern unfair fetch coil season concert major winner apple empty";

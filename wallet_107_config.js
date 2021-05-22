@@ -1,1 +1,1 @@
-var mnemonic = "cement wool cannon pear wealth mercy token soul diesel orphan remind mystery";
+var mnemonic = "eight keen stairs lawsuit accident smile wasp inch cloth expect section barely";

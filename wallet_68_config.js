@@ -1,1 +1,1 @@
-var mnemonic = "audit cloth chalk asset ring group goddess garment rather area farm satoshi";
+var mnemonic = "ivory mother flat list traffic solar proof maze similar donkey cool rich";

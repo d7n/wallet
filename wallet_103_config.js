@@ -1,1 +1,1 @@
-var mnemonic = "gossip produce drift bike audit decade thought arrange vibrant unhappy skate recall";
+var mnemonic = "run oak drip conduct spot patch make skin orphan fade wire head";

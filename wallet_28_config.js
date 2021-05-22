@@ -1,1 +1,1 @@
-var mnemonic = "version series lady excuse night room erosion flock home three ignore mad";
+var mnemonic = "obscure whip female blade hidden bring stomach hero trial actress reduce awake";

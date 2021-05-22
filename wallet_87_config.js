@@ -1,1 +1,1 @@
-var mnemonic = "copy symbol perfect broken peanut math love universe above online skate valley";
+var mnemonic = "dolphin first keep jaguar attend force fantasy assist urge original regular egg";

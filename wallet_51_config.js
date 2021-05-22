@@ -1,1 +1,1 @@
-var mnemonic = "party smart alien attitude dash today safe clean beauty elder ensure reflect";
+var mnemonic = "leisure fine bomb swarm piano mirror expand melt nasty cinnamon there machine";

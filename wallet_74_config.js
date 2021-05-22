@@ -1,1 +1,1 @@
-var mnemonic = "theory rack armor auction dog route rain impact rough proof have learn";
+var mnemonic = "similar help rebuild economy other capital puppy document eagle special copper artwork";

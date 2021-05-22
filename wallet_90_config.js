@@ -1,1 +1,1 @@
-var mnemonic = "brass kiwi enforce card boring dutch match source cook runway vote polar";
+var mnemonic = "scrub solid random model glance increase melt fold alarm carbon ladder beach";

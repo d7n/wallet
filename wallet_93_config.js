@@ -1,1 +1,1 @@
-var mnemonic = "answer diet view cinnamon first hire embark option pride energy liquid lens";
+var mnemonic = "save breeze wall bean disorder fold tape quiz burst enough hill wisdom";

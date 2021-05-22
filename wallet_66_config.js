@@ -1,1 +1,1 @@
-var mnemonic = "skin autumn crash leg rail seminar deal light hint magnet globe cabbage";
+var mnemonic = "idea unit differ purity soccer copper tunnel wall lock walnut match run";

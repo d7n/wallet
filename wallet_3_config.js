@@ -1,1 +1,1 @@
-var mnemonic = "beef joke south output wrap trade sniff marine erode grid half drum";
+var mnemonic = "lawsuit ready road capital strong term remove robust absurd donor drum typical";

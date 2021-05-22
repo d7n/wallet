@@ -1,1 +1,1 @@
-var mnemonic = "today bike demand iron seven pottery wine bench drill screen visit weapon";
+var mnemonic = "account wrestle reduce deny chimney employ hurdle top funny before elegant life";

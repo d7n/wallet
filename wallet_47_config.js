@@ -1,1 +1,1 @@
-var mnemonic = "cactus trouble earn jelly crash capable net token spice begin garlic eyebrow";
+var mnemonic = "captain rubber coin child size journey amused harsh pizza obtain kit stomach";

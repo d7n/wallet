@@ -1,1 +1,1 @@
-var mnemonic = "absurd become own civil attack cool burger forum knock time helmet unveil";
+var mnemonic = "whip grass execute peasant hint quarter cabbage brief hospital occur open shove";

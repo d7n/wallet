@@ -1,1 +1,1 @@
-var mnemonic = "task perfect shift upset glory rug civil flock joy gaze sick furnace";
+var mnemonic = "rocket elite riot hybrid clog smooth toilet achieve sea cage void fashion";

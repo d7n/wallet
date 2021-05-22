@@ -1,1 +1,1 @@
-var mnemonic = "middle horse silver pear stable element long cancel minimum muscle physical roast";
+var mnemonic = "basic dizzy anchor nominee wink tomorrow usual sentence lawsuit minute wing blind";

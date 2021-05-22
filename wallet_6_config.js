@@ -1,1 +1,1 @@
-var mnemonic = "strong lion property club soda layer chat learn script nut wheel choice";
+var mnemonic = "typical cross turkey pig want track illness inject liquid pretty return domain";

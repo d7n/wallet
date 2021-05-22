@@ -1,1 +1,1 @@
-var mnemonic = "upper sing isolate strike sustain rice budget dish cement sting short ladder";
+var mnemonic = "avoid return chat reunion marine social enrich tail below discover easily hood";

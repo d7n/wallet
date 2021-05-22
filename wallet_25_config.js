@@ -1,1 +1,1 @@
-var mnemonic = "bulk echo helmet away pen win fuel leader steel economy fragile only";
+var mnemonic = "this effort broken local evidence envelope pass hybrid arena patient nature fit";

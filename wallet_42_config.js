@@ -1,1 +1,1 @@
-var mnemonic = "deer today tenant axis three model boil permit olympic bullet cash arm";
+var mnemonic = "trip bid real gentle rate decide boat guide wage essay gravity skull";

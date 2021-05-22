@@ -1,1 +1,1 @@
-var mnemonic = "sick comic drive ball sheriff until drill derive old sleep spend kiwi";
+var mnemonic = "rely muffin juice sibling syrup oven trust absorb blue amateur match alarm";

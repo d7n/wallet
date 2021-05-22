@@ -1,1 +1,1 @@
-var mnemonic = "bar dolphin moral illegal laugh list identify friend lottery expect whip stable";
+var mnemonic = "local during mesh visual pear gap inhale actor actual renew entry list";

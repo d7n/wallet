@@ -1,1 +1,1 @@
-var mnemonic = "cram claw hazard tooth mixture into pulse local usual wish dynamic absorb";
+var mnemonic = "price tissue runway tool aerobic jeans goose warm supreme ankle slogan door";

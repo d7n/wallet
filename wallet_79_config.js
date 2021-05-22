@@ -1,1 +1,1 @@
-var mnemonic = "captain price region razor flash dragon friend leisure this ladder large soon";
+var mnemonic = "transfer talk icon then lady average position exhaust fan solid rebuild drama";

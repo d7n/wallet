@@ -1,1 +1,1 @@
-var mnemonic = "violin panda glance client rescue crew leader sense pigeon lawsuit public pair";
+var mnemonic = "sausage talent siren chuckle express document sense someone warrior output tilt comic";

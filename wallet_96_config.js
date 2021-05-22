@@ -1,1 +1,1 @@
-var mnemonic = "airport chunk kitchen monkey worry power pipe category bubble spirit cover sketch";
+var mnemonic = "radio nest box exhibit quit trip inform blue leisure sail result exotic";

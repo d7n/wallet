@@ -1,1 +1,1 @@
-var mnemonic = "dutch surface breeze frequent potato maze organ plate cake wink borrow much";
+var mnemonic = "project antenna fetch system job science people electric exotic protect error tree";

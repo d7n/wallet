@@ -1,1 +1,1 @@
-var mnemonic = "wagon neck task clarify found swift potato margin best message hunt family";
+var mnemonic = "antenna trim phone into try place kit monster angle submit decline bag";

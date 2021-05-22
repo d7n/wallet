@@ -1,1 +1,1 @@
-var mnemonic = "age during cattle reward lady media soda attract magic brisk evoke regret";
+var mnemonic = "trigger bus smooth awkward text arch midnight cigar venture myself pact lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "seven royal member second virus rule only gun other cotton exhaust resemble";
+var mnemonic = "brave hedgehog holiday present label joy cigar syrup talent dad sound major";

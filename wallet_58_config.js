@@ -1,1 +1,1 @@
-var mnemonic = "oven liar jazz zone flavor loop wealth industry already swim include lyrics";
+var mnemonic = "engage kind urge sock consider liquid near garlic fortune chimney unit goat";

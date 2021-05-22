@@ -1,1 +1,1 @@
-var mnemonic = "pitch expose ignore elephant decide hybrid slab swing company online giggle fine";
+var mnemonic = "human step cancel major photo notice awkward wing struggle panther cover giant";

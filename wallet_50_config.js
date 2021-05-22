@@ -1,1 +1,1 @@
-var mnemonic = "solar crash outside crunch input off melody hybrid junk canal liquid blame";
+var mnemonic = "enrich remain trust cereal miracle clutch castle pole fossil athlete victory salt";

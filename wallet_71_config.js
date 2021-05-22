@@ -1,1 +1,1 @@
-var mnemonic = "movie suggest august ramp easily monster boy grass improve burger resemble burger";
+var mnemonic = "blast soft rail raw test lion general pilot emotion glass muffin female";

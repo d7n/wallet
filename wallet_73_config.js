@@ -1,1 +1,1 @@
-var mnemonic = "submit pig sustain buddy cement gallery crunch mule bid vague tenant peanut";
+var mnemonic = "hard wrestle praise issue black ill firm glide record permit blur shallow";

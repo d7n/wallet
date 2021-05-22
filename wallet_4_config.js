@@ -1,1 +1,1 @@
-var mnemonic = "involve tackle curious seed resource lamp guitar swear trip gold permit tuna";
+var mnemonic = "cube gospel tackle picnic rate gap mix hunt bird sniff rival domain";

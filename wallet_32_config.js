@@ -1,1 +1,1 @@
-var mnemonic = "ignore rebuild raw width fun expand lonely rose enter genuine rubber license";
+var mnemonic = "invest cause aerobic cheap modify sense simple car jealous jeans crowd blade";

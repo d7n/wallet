@@ -1,1 +1,1 @@
-var mnemonic = "wash journey quick pitch discover major swift lottery until try skirt bullet";
+var mnemonic = "tool trend foot stumble athlete capable close link train easy slight park";

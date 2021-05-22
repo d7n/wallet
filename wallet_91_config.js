@@ -1,1 +1,1 @@
-var mnemonic = "misery moral unaware chaos grunt blush depend victory timber luxury whip despair";
+var mnemonic = "whip execute promote toilet clip mother slush assist garage paper virus east";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare mind ketchup cruel across slab text comic resemble insane tuition gadget";
+var mnemonic = "chunk east inhale bridge fan shaft flash utility kite bridge sock flame";

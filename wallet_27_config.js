@@ -1,1 +1,1 @@
-var mnemonic = "moon spread pelican artist churn analyst half banner swift silver six forget";
+var mnemonic = "deliver reflect toward crew other garbage daughter flock bronze report cute foam";

@@ -1,1 +1,1 @@
-var mnemonic = "click attitude path moon era jungle wine innocent opinion input diagram october";
+var mnemonic = "bid permit advice involve fetch predict flat congress this source rail topic";

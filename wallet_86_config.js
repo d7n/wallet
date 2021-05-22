@@ -1,1 +1,1 @@
-var mnemonic = "regret off science ski floor stick cable planet endorse report resemble mother";
+var mnemonic = "wood select diesel rent blossom fox silk model legal absurd insane enact";

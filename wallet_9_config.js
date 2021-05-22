@@ -1,1 +1,1 @@
-var mnemonic = "hawk intact invite draw thing joke plate tonight time knee air make";
+var mnemonic = "piece add during front umbrella hand sea transfer match anger sure sand";

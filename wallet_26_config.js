@@ -1,1 +1,1 @@
-var mnemonic = "adapt inject siege miss history exhibit mystery jungle glide fiscal embody expose";
+var mnemonic = "peanut pencil violin risk detail proof town honey choice front glue hope";

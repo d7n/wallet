@@ -1,1 +1,1 @@
-var mnemonic = "dance flag blush erosion enhance already company recall great asthma lucky waste";
+var mnemonic = "explain top nose inspire tip brass coin ripple hidden fetch bomb coach";

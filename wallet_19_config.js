@@ -1,1 +1,1 @@
-var mnemonic = "current emerge future clock bitter pet spider mistake divert glare symbol impose";
+var mnemonic = "mule replace hunt pelican bacon delay blush combine party scrap opera question";

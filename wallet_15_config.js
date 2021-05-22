@@ -1,1 +1,1 @@
-var mnemonic = "carbon gym foil enable rally sheriff video dog glimpse begin globe census";
+var mnemonic = "tell crime also discover swap wisdom tuna focus flag excuse forward grant";

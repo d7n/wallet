@@ -1,1 +1,1 @@
-var mnemonic = "select frog fury supply tray where series concert mouse math consider ability";
+var mnemonic = "heavy denial connect expect sense assist doll mule glide icon heavy brass";

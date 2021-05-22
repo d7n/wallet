@@ -1,1 +1,1 @@
-var mnemonic = "field already barely trial pact claim weapon dolphin potato guess possible eyebrow";
+var mnemonic = "demand flat library twin appear hospital oven client describe public velvet furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "actual language actor order rose recycle wash police wreck enact power garden";
+var mnemonic = "fun mango mango mango lonely convince vague wall result prefer awful dragon";

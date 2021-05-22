@@ -1,1 +1,1 @@
-var mnemonic = "foam rally settle baby argue soft venture sort tower grape avocado cheese";
+var mnemonic = "aunt code virus pact fitness volume easily pizza shadow away they loud";

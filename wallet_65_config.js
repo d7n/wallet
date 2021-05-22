@@ -1,1 +1,1 @@
-var mnemonic = "jealous wheel brisk cluster peanut upper arm burden push cushion boil mouse";
+var mnemonic = "caught mushroom hedgehog round trim bag drip physical stove point year crumble";

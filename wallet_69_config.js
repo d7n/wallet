@@ -1,1 +1,1 @@
-var mnemonic = "verb noodle odor defy detail session fragile else girl cloth route sketch";
+var mnemonic = "movie income asthma produce fly evidence snake cushion piano riot deny kid";

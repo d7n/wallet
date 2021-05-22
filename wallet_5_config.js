@@ -1,1 +1,1 @@
-var mnemonic = "cute ahead gesture vessel cry famous hour garage wait fuel poverty buyer";
+var mnemonic = "bench fee divorce deal monster baby isolate harvest future media fan number";

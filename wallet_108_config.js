@@ -1,1 +1,1 @@
-var mnemonic = "behave wood puzzle winner friend creek borrow cargo snake address novel nerve";
+var mnemonic = "mechanic skirt total half arch impact concert curious object ski report burst";

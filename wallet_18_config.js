@@ -1,1 +1,1 @@
-var mnemonic = "desert tape square nasty paddle sunny mouse indoor lonely truly acid glide";
+var mnemonic = "depend imitate install lion unusual ethics carpet fiction tape inner eagle light";

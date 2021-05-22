@@ -1,1 +1,1 @@
-var mnemonic = "slice candy art stay bread raise circle tell hour mouse today beyond";
+var mnemonic = "champion improve urge ceiling must wave blue oblige modify receive seek fiction";

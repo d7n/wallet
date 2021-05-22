@@ -1,1 +1,1 @@
-var mnemonic = "liquid neither axis magic entire negative shift merge latin invest mean junk";
+var mnemonic = "erosion habit gravity apology dice dog wheat design collect toilet culture crouch";

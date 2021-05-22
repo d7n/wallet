@@ -1,1 +1,1 @@
-var mnemonic = "motion laundry venue cause settle ten system smile spoil auto action place";
+var mnemonic = "salad endless powder mention wait autumn kingdom vast cry funny name dune";

@@ -1,1 +1,1 @@
-var mnemonic = "cream develop method domain stadium upgrade short input mean prize roast oval";
+var mnemonic = "pepper eagle argue super body fresh cluster action day slow together desert";

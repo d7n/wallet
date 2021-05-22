@@ -1,1 +1,1 @@
-var mnemonic = "van such wash teach keen pool east body comfort fiber hungry resist";
+var mnemonic = "tired atom random history beauty humor bounce social fiscal network cousin pass";

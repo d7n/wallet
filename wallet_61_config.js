@@ -1,1 +1,1 @@
-var mnemonic = "coin abandon bonus include maximum shed candy orchard legal grass salt drink";
+var mnemonic = "acid flower tragic warrior dentist card forest desert private mosquito eagle morning";

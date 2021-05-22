@@ -1,1 +1,1 @@
-var mnemonic = "utility much town whisper silver honey obvious say opera cupboard adjust ripple";
+var mnemonic = "crawl myth mail again lab daughter april echo shed sense opinion item";

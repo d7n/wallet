@@ -1,1 +1,1 @@
-var mnemonic = "kid fade current fashion beyond torch kit february split obvious much collect";
+var mnemonic = "bus useless maple soft jealous egg fortune zebra genius census initial chef";

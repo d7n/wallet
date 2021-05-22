@@ -1,1 +1,1 @@
-var mnemonic = "test tooth aim wealth expose impact bamboo danger state endless receive admit";
+var mnemonic = "area until release mechanic start ring tired parrot second trouble helmet fresh";

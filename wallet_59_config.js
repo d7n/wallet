@@ -1,1 +1,1 @@
-var mnemonic = "empty share start install gospel tornado involve cloth home myself two trigger";
+var mnemonic = "vote humble tornado adult party unhappy dismiss lesson rely motor finger correct";

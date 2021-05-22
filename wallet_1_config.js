@@ -1,1 +1,1 @@
-var mnemonic = "resist bunker vehicle endorse jealous fetch grief wreck random rain aerobic actual";
+var mnemonic = "subway supreme priority cushion awesome broom move matrix floor primary gas close";

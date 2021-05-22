@@ -1,1 +1,1 @@
-var mnemonic = "behave club protect excess define onion dice alert abstract wreck use hand";
+var mnemonic = "between ozone chronic net supreme quantum oil broom admit couch police law";
