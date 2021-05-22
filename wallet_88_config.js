@@ -1,1 +1,1 @@
-var mnemonic = "meat clean lecture swing loud puzzle dice hat route kitten street advice";
+var mnemonic = "sweet owner estate prize outdoor detail seven sea salt fresh satisfy tragic";

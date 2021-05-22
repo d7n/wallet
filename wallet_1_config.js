@@ -1,1 +1,1 @@
-var mnemonic = "salute seed desert foster ozone trade avoid defy agent until door bicycle";
+var mnemonic = "bottom snake enroll just grief frame joy owner aerobic shell such dress";

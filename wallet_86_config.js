@@ -1,1 +1,1 @@
-var mnemonic = "under large material ostrich edit immune route barrel erupt rhythm slide section";
+var mnemonic = "rack dance brand laugh dune until six strike rare coconut burst breeze";

@@ -1,1 +1,1 @@
-var mnemonic = "solar maid power diagram piece sleep knock doll company torch because parade";
+var mnemonic = "proof caught urge tag crane glory drastic normal kind atom vanish game";

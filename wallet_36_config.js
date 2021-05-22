@@ -1,1 +1,1 @@
-var mnemonic = "hurt win empower noodle museum bundle task program awesome skull truly visit";
+var mnemonic = "birth decline sleep pair spare zebra game brother wide other spring rule";

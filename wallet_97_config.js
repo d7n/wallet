@@ -1,1 +1,1 @@
-var mnemonic = "slogan pulse uphold weather rely social resemble tortoise cash lizard same economy";
+var mnemonic = "reward mind large defy struggle category tilt neutral phone camera inspire ladder";

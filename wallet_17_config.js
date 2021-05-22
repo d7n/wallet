@@ -1,1 +1,1 @@
-var mnemonic = "project guard chronic window sleep moment pencil goddess media festival radio grunt";
+var mnemonic = "sunny best guess owner exact topic alpha neck peasant town amateur amazing";

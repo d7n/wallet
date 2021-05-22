@@ -1,1 +1,1 @@
-var mnemonic = "youth spread manage tray staff truck motor click will luxury sadness topple";
+var mnemonic = "diet domain gym circle aware two filter scout chapter roof neck order";

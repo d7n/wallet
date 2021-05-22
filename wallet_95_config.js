@@ -1,1 +1,1 @@
-var mnemonic = "discover goat deliver column crunch baby improve ready guitar exhibit renew public";
+var mnemonic = "oven prevent satisfy cook six firm captain penalty expire man confirm slogan";

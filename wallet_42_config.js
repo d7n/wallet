@@ -1,1 +1,1 @@
-var mnemonic = "choice just impose hat fruit train toe human mass select hospital law";
+var mnemonic = "fuel web fluid brother oyster banner ride avocado doll grape shallow cloud";

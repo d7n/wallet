@@ -1,1 +1,1 @@
-var mnemonic = "original story park make sorry clarify spy ignore sound area fruit bubble";
+var mnemonic = "width theme practice broom penalty enemy tornado when razor link exact drip";

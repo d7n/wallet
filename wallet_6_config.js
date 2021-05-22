@@ -1,1 +1,1 @@
-var mnemonic = "monster dinosaur include monitor horror away impulse crane gadget fetch okay amateur";
+var mnemonic = "tuition drum clerk pulse slot material crouch roast session comic gossip skull";

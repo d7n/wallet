@@ -1,1 +1,1 @@
-var mnemonic = "canal round wisdom alarm renew amount nephew sell sure stomach little way";
+var mnemonic = "upper process stool observe museum link tone above neck immune cute pen";

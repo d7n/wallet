@@ -1,1 +1,1 @@
-var mnemonic = "soccer civil sphere priority egg crowd piano energy boring nest attack wish";
+var mnemonic = "mistake obscure rigid dumb squirrel wash onion dog trouble milk wish silly";

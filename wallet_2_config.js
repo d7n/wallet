@@ -1,1 +1,1 @@
-var mnemonic = "furnace dose wagon black spy recycle account bunker awake awesome entry sign";
+var mnemonic = "boss scheme fog forget morning broom where crazy use kangaroo margin board";

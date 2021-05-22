@@ -1,1 +1,1 @@
-var mnemonic = "airport visit stomach govern soon home luggage stumble valid soda mirror car";
+var mnemonic = "era rifle worth mixture cherry mammal work spell suspect weather stumble excess";

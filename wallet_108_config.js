@@ -1,1 +1,1 @@
-var mnemonic = "debris reason vote beach mirror license siren bargain fit leave tooth other";
+var mnemonic = "catalog anchor void wrestle citizen stool enlist faculty afraid symptom undo sugar";

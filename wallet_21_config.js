@@ -1,1 +1,1 @@
-var mnemonic = "among regular pen leaf broccoli trim airport voyage moment shuffle eagle bike";
+var mnemonic = "orange useful evoke collect urban chicken country reward person yard update surge";

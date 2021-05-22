@@ -1,1 +1,1 @@
-var mnemonic = "voyage monkey forest elephant afraid extend scatter vault excite conduct present entry";
+var mnemonic = "test garden resemble fluid tackle method fat seat antenna walk perfect neglect";

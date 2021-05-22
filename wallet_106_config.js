@@ -1,1 +1,1 @@
-var mnemonic = "agree gorilla rural glimpse shield lyrics taste scheme business invest endorse diagram";
+var mnemonic = "survey dragon column raise swallow have balcony enter rice side popular artwork";

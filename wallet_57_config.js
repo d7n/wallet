@@ -1,1 +1,1 @@
-var mnemonic = "under antique puzzle story chimney will high clutch toast chief name whip";
+var mnemonic = "game napkin tide decrease globe people try swear flag column size truth";

@@ -1,1 +1,1 @@
-var mnemonic = "sign sail hurt pencil quiz galaxy refuse box discover salad thunder repair";
+var mnemonic = "inspire february egg grief raise absorb absorb inflict major legend sibling choose";

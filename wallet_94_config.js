@@ -1,1 +1,1 @@
-var mnemonic = "finish embody snack parade differ spin duck tongue ladder correct bless legal";
+var mnemonic = "insect close legend cousin expect again enable lyrics express camp word major";

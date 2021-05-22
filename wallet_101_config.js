@@ -1,1 +1,1 @@
-var mnemonic = "tunnel shed lobster remember salad future cheap wolf run trophy chimney fiction";
+var mnemonic = "shallow document alter coffee drift oil upper glad toast tape island fever";

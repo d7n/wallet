@@ -1,1 +1,1 @@
-var mnemonic = "aisle close swing museum runway right thing joke cannon shop fatal blue";
+var mnemonic = "ceiling mask isolate excuse quiz invite trash clinic half spot bless soul";

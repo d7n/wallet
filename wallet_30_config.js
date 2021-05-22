@@ -1,1 +1,1 @@
-var mnemonic = "holiday hen trial model wave demand boss nut crush few abuse sugar";
+var mnemonic = "one minute person reject inquiry theme clarify vital lobster churn shoot avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "again lumber pave zebra pole shell genuine harsh trial flag excuse memory";
+var mnemonic = "shove frequent onion shift shove strong also carry purse sentence comic settle";

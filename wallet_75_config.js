@@ -1,1 +1,1 @@
-var mnemonic = "quote ghost mention hurry carpet photo want brief give student forward slow";
+var mnemonic = "device acoustic figure beauty leopard doll clarify wolf affair calm above blood";

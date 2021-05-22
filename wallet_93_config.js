@@ -1,1 +1,1 @@
-var mnemonic = "entire already script afraid fabric nest stock torch voyage swing vote joy";
+var mnemonic = "merge offer dance shaft broom divorce choice carbon jar tornado illegal impose";

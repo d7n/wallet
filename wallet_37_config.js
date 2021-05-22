@@ -1,1 +1,1 @@
-var mnemonic = "interest neither shine input vast coin install eight cheese throw awful begin";
+var mnemonic = "sleep hard cancel slide high grow neither gain picture divide jelly body";

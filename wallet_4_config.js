@@ -1,1 +1,1 @@
-var mnemonic = "next ride boil smoke play legal indoor usage method mutual girl three";
+var mnemonic = "arrest latin horn link civil cart very bamboo water receive cube disease";

@@ -1,1 +1,1 @@
-var mnemonic = "clever obscure blind safe double filter math conduct arctic champion space present";
+var mnemonic = "wire onion scrub also wagon rice action emotion lunch minimum evidence motor";

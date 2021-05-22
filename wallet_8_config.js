@@ -1,1 +1,1 @@
-var mnemonic = "chef trap stone quantum apple young fatal minimum kitchen van piece unit";
+var mnemonic = "junior elbow siren neck valid quick reduce excuse super exclude kingdom symptom";

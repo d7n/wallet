@@ -1,1 +1,1 @@
-var mnemonic = "purse veteran inquiry rookie sense kitchen fog middle neither cactus clean often";
+var mnemonic = "mail wife size oak unique seminar settle number bread pact bullet avoid";

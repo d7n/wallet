@@ -1,1 +1,1 @@
-var mnemonic = "cause brief fabric still rack where sample syrup panda trick ancient palm";
+var mnemonic = "hero require situate praise black dentist cage aerobic moral income occur topic";

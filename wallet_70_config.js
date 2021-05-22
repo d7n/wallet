@@ -1,1 +1,1 @@
-var mnemonic = "shiver found wing fancy grant foster curious sell cake include recipe drama";
+var mnemonic = "fiscal monster nature group excess mobile legal try diet search call combine";

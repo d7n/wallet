@@ -1,1 +1,1 @@
-var mnemonic = "blur exclude fee antique van alone same net fade rubber donor subject";
+var mnemonic = "fame month dress snack palace embrace abstract copy surprise welcome fat mechanic";

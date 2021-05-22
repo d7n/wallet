@@ -1,1 +1,1 @@
-var mnemonic = "elegant attack abuse same other sudden awkward edit muscle canvas secret grab";
+var mnemonic = "snow custom pass narrow warm tennis garbage volcano clutch hover myth bike";

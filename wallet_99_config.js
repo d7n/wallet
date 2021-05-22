@@ -1,1 +1,1 @@
-var mnemonic = "nose angle file genre awesome advice okay clap cinnamon romance silly margin";
+var mnemonic = "giant neglect desk hotel trend orchard armed stadium citizen seek curve assume";

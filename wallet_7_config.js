@@ -1,1 +1,1 @@
-var mnemonic = "song diagram life pet roof best digital uncover tragic wink saddle shell";
+var mnemonic = "jazz pyramid super witness cement gown buyer slim cream gauge cigar chair";

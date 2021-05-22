@@ -1,1 +1,1 @@
-var mnemonic = "good ankle add wasp require where survey frost movie throw olive dawn";
+var mnemonic = "team code quit burger pear old garlic pole romance belt order table";

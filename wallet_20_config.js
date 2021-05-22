@@ -1,1 +1,1 @@
-var mnemonic = "word vivid divide love shallow hedgehog code bacon taste pizza father nice";
+var mnemonic = "echo network install dust casual monster staff arrow busy wave mercy broken";

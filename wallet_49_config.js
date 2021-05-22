@@ -1,1 +1,1 @@
-var mnemonic = "type speak require elbow taxi skirt trap route friend buffalo glide right";
+var mnemonic = "enable essence dinner desk sunset hello deer icon edge grace river cement";

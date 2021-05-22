@@ -1,1 +1,1 @@
-var mnemonic = "ball morning excess swallow solve drip winter twin pupil fault village oval";
+var mnemonic = "sword spot orphan artefact aware syrup hobby chronic sibling embrace tomorrow garage";

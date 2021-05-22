@@ -1,1 +1,1 @@
-var mnemonic = "lock weasel furnace produce core rib expose middle offer fossil garlic early";
+var mnemonic = "foster essence puzzle animal october change often snack person price verb fiction";

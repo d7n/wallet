@@ -1,1 +1,1 @@
-var mnemonic = "output cram foam own actor mesh warrior crowd false critic salt slim";
+var mnemonic = "chimney horror suspect labor cancel salon bitter uncle daughter ignore alarm fork";

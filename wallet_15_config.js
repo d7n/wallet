@@ -1,1 +1,1 @@
-var mnemonic = "kitchen ecology angle latin nothing duty interest pigeon size spice clump grow";
+var mnemonic = "vivid swallow small afford midnight robot trade subject sphere volume tell improve";

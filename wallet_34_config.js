@@ -1,1 +1,1 @@
-var mnemonic = "sing beyond raven notice knee fog sting few two arrest gentle hood";
+var mnemonic = "snow wall dust maximum tomato carpet behind merit spirit aware flip minimum";

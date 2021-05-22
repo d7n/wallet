@@ -1,1 +1,1 @@
-var mnemonic = "vendor hurt wheat device clog duck pigeon spread smooth coast sniff access";
+var mnemonic = "unhappy thought inside vessel expose powder unlock finish citizen print one loyal";

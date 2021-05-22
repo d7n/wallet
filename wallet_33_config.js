@@ -1,1 +1,1 @@
-var mnemonic = "deputy genre fetch phone dawn already lens hero twice edit copper weasel";
+var mnemonic = "tobacco cup brain early brief actual select joke script tag despair option";

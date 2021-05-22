@@ -1,1 +1,1 @@
-var mnemonic = "medal gas angle enjoy pluck pitch lava icon shadow process release left";
+var mnemonic = "few robust orchard idea stem index marriage emerge profit muscle lens ripple";

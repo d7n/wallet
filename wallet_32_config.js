@@ -1,1 +1,1 @@
-var mnemonic = "doll forward fetch welcome bargain vocal isolate squirrel combine reduce divert arctic";
+var mnemonic = "van property assist hurdle victory later together ten test chicken derive topic";

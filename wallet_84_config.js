@@ -1,1 +1,1 @@
-var mnemonic = "earth tell cram leopard mail twelve genuine vapor mixed normal useful high";
+var mnemonic = "identify battle clown jealous always lyrics gown cricket runway minimum august river";

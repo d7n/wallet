@@ -1,1 +1,1 @@
-var mnemonic = "usual behave company silly jump moral assault course sock survey volume object";
+var mnemonic = "half step wool repair butter breeze wood mother frozen secret fame course";

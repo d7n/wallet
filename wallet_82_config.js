@@ -1,1 +1,1 @@
-var mnemonic = "spike all cover garbage rate sentence palm fancy arrest emerge gorilla inch";
+var mnemonic = "diary strategy hazard metal aunt tourist silk divide engine insect castle glad";

@@ -1,1 +1,1 @@
-var mnemonic = "proof certain cover skate trophy guess uniform cactus march leg wish jaguar";
+var mnemonic = "exclude resemble differ mobile swear trumpet loan awful cruel mushroom original present";

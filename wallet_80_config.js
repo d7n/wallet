@@ -1,1 +1,1 @@
-var mnemonic = "borrow focus genuine worth own round latin vacuum cigar abuse entry local";
+var mnemonic = "debate reward tent wave leg guess reject west hero foster forward swear";

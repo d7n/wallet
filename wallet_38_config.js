@@ -1,1 +1,1 @@
-var mnemonic = "trash limit bitter below travel color search bulb image asset laptop finish";
+var mnemonic = "foot exhibit trophy stone grass alert flight urge maid cannon program list";

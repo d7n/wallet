@@ -1,1 +1,1 @@
-var mnemonic = "fix knock fluid bone theme mimic battle anchor auto message weapon guess";
+var mnemonic = "couch trick prison blind soldier various december flight knife mango scrub puzzle";

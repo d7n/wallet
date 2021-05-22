@@ -1,1 +1,1 @@
-var mnemonic = "blast social notable tunnel hammer put often version mechanic insane asset ski";
+var mnemonic = "wear nature business laundry yellow divide adapt social mutual educate mixed foster";

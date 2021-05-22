@@ -1,1 +1,1 @@
-var mnemonic = "regret early dinosaur rally aware purchase mail clay weapon ocean swear enter";
+var mnemonic = "update remain clock build middle disagree sunny leader weird random proud chimney";

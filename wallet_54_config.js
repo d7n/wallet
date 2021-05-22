@@ -1,1 +1,1 @@
-var mnemonic = "primary attitude aisle steak trial quiz friend say fresh glory penalty quit";
+var mnemonic = "flight abandon ride renew hundred outer bean current nuclear spread gaze amused";

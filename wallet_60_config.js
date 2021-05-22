@@ -1,1 +1,1 @@
-var mnemonic = "sell saddle wrap amount pencil attitude reopen grocery enjoy flip symbol cloth";
+var mnemonic = "table dignity latin bar mask during act upon tooth flag earn betray";

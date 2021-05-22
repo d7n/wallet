@@ -1,1 +1,1 @@
-var mnemonic = "usage omit humor orphan crack master will surround suspect disagree stock desert";
+var mnemonic = "limb inject craft visit response door combine siren sadness bench image predict";

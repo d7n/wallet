@@ -1,1 +1,1 @@
-var mnemonic = "live upgrade myself exile mind guard swift chunk fringe year leader bracket";
+var mnemonic = "minimum bid resemble liar danger network hungry march coin actress fashion route";

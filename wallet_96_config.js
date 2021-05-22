@@ -1,1 +1,1 @@
-var mnemonic = "unaware ribbon foil arm always brown win thought gold switch cage bounce";
+var mnemonic = "erupt know twice potato across sleep cute else slide unlock maze jungle";

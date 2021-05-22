@@ -1,1 +1,1 @@
-var mnemonic = "fly mixed local latin admit text brass unit cart ceiling devote monitor";
+var mnemonic = "muscle ecology frame attract toilet top quantum same define drastic dirt reward";

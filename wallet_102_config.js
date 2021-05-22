@@ -1,1 +1,1 @@
-var mnemonic = "attract latin sugar weird depart airport head fitness business first require vacant";
+var mnemonic = "armor attack hand survey giant idea plunge visa excess anger price group";

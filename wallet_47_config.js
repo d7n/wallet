@@ -1,1 +1,1 @@
-var mnemonic = "payment dwarf bunker payment run matrix enforce pact remove phrase green ball";
+var mnemonic = "apart donate destroy anxiety current benefit pond panic gorilla speak unknown awkward";

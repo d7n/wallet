@@ -1,1 +1,1 @@
-var mnemonic = "resource fox soldier brass wish apple spawn venture gain situate hard disease";
+var mnemonic = "clay cream giraffe milk milk dentist suspect bridge creek fat rather gorilla";

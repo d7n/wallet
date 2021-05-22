@@ -1,1 +1,1 @@
-var mnemonic = "nephew palace broccoli gorilla infant famous spare spin drastic question pyramid skill";
+var mnemonic = "churn index response onion calm jar panic super wide bottom fade behind";

@@ -1,1 +1,1 @@
-var mnemonic = "wet cherry acoustic please arm able crouch shallow soda divide harsh fine";
+var mnemonic = "error soup dial dial power month runway veteran little plastic sport opera";

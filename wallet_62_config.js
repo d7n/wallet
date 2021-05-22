@@ -1,1 +1,1 @@
-var mnemonic = "auto win kitchen jealous stay poem hollow organ ride found index half";
+var mnemonic = "elephant oblige critic source insect first believe betray movie fork coral marble";

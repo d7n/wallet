@@ -1,1 +1,1 @@
-var mnemonic = "clay remember traffic puzzle reform easy help absurd dawn dumb only slogan";
+var mnemonic = "suspect fame mimic dry idea mom floor into rebel test picnic taste";

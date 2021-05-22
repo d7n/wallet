@@ -1,1 +1,1 @@
-var mnemonic = "robust dish gold easy question marble differ city secret fragile bag detect";
+var mnemonic = "stay camera web hip keep season gadget wisdom mind museum moon obtain";

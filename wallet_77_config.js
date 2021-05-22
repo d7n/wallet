@@ -1,1 +1,1 @@
-var mnemonic = "oval slide fiction uphold acid uncle van train minor myself damage admit";
+var mnemonic = "wall pudding kingdom someone foam glance abuse palm ankle solar lesson network";

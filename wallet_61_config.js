@@ -1,1 +1,1 @@
-var mnemonic = "wash scale little forget grape final silk half spice harvest tip used";
+var mnemonic = "praise reason electric flavor opera agree imitate project bike club industry skirt";

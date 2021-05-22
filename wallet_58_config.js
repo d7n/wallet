@@ -1,1 +1,1 @@
-var mnemonic = "blue relax hover coach flash price okay sound category future gift clarify";
+var mnemonic = "vehicle virus chaos clay waste few draw mimic stone hawk latin mammal";

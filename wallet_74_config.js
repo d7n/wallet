@@ -1,1 +1,1 @@
-var mnemonic = "wet meat term odor hire win benefit present cinnamon diary fragile chunk";
+var mnemonic = "announce report stone cherry rubber camp scheme carpet violin peace elevator man";

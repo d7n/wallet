@@ -1,1 +1,1 @@
-var mnemonic = "grain medal silk account soldier crash siege memory among always skirt ready";
+var mnemonic = "use close enact ice mosquito minor dice ketchup gallery amount orphan vocal";

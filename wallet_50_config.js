@@ -1,1 +1,1 @@
-var mnemonic = "match pink physical theory hospital carry cute never trigger ignore fancy patient";
+var mnemonic = "giant coyote weekend gossip true more fantasy moment dirt inherit van admit";

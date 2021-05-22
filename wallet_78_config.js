@@ -1,1 +1,1 @@
-var mnemonic = "sick true miss month super settle fabric relax say rather glove oven";
+var mnemonic = "hair funny spice jaguar artist slab theory banana diamond hundred over age";

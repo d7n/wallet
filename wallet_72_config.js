@@ -1,1 +1,1 @@
-var mnemonic = "snack water problem original upgrade spider tone axis merge know boss describe";
+var mnemonic = "lunar broom crush peasant tooth phone minimum nothing avoid resist text combine";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop tumble odor despair ten inherit hungry vocal cancel place direct series";
+var mnemonic = "hedgehog chronic rich brown pulse news orange laugh notable butter merry chase";

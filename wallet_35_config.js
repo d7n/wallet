@@ -1,1 +1,1 @@
-var mnemonic = "reveal club grant impulse recipe stairs ordinary resemble earn fiber employ direct";
+var mnemonic = "harbor garage run tank valley secret soft tired service come latin share";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder pink mass wage match way melt town priority vessel maid bounce";
+var mnemonic = "mutual stone brown life blind caught enrich awful split alpha warrior mimic";

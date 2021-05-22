@@ -1,1 +1,1 @@
-var mnemonic = "donate design dinner cradle surround castle birth sure frog that actor expand";
+var mnemonic = "army decorate chronic raise cruel welcome tomato zebra you short select slot";

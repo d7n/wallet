@@ -1,1 +1,1 @@
-var mnemonic = "bid pride middle view amused renew crucial student mistake frost fall nasty";
+var mnemonic = "smile dumb huge design vault essence famous captain diesel fringe december profit";

@@ -1,1 +1,1 @@
-var mnemonic = "snow peace boss manage culture bubble region vault food actress over ice";
+var mnemonic = "avoid urge canyon tree limit ancient author banner topple broom silent nuclear";

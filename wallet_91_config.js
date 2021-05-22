@@ -1,1 +1,1 @@
-var mnemonic = "noodle guilt uphold catch film safe tongue spin chair kidney mandate march";
+var mnemonic = "major punch payment name friend invest length faculty certain cream volume sad";

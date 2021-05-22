@@ -1,1 +1,1 @@
-var mnemonic = "toilet sign aware ivory pull oval book bar solar digital wheat degree";
+var mnemonic = "shoulder nice junk you alarm labor theory hip tortoise music upset ready";

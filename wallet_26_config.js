@@ -1,1 +1,1 @@
-var mnemonic = "illegal dress bulk agree anchor symptom remove tank certain reveal below tonight";
+var mnemonic = "bomb shoot silk carbon table tide craft muscle engine stage ring right";

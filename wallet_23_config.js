@@ -1,1 +1,1 @@
-var mnemonic = "describe buyer transfer laptop yellow thunder cabbage shield rural venture advice sure";
+var mnemonic = "lazy bundle month remember easily lucky forget document mystery orange usual can";

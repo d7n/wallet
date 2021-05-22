@@ -1,1 +1,1 @@
-var mnemonic = "favorite topic gold village rabbit prison program length just rug news chunk";
+var mnemonic = "armed novel cloud fence open cake lumber bean primary lens equal piece";

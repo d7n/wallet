@@ -1,1 +1,1 @@
-var mnemonic = "miracle approve grain media news snap flower enact always sword kite dance";
+var mnemonic = "monster suffer alert cheese old fiber swamp magic flat pony treat pattern";
