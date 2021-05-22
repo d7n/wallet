@@ -1,1 +1,1 @@
-var mnemonic = "firm section number crawl half visa manual gain vibrant quiz gather labor";
+var mnemonic = "execute paddle light run also unlock extra feature wealth eyebrow satoshi picnic";

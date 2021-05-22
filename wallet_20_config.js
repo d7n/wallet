@@ -1,1 +1,1 @@
-var mnemonic = "ahead category jar regret rhythm display nation drift shop slice own field";
+var mnemonic = "gown lift airport rural toe gorilla popular grape female sponsor faith shield";

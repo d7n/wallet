@@ -1,1 +1,1 @@
-var mnemonic = "marble this panic auto estate document police candy helmet same rain split";
+var mnemonic = "apple crumble accuse mobile decline valve emerge waste news october mom owner";

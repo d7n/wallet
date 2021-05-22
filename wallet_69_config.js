@@ -1,1 +1,1 @@
-var mnemonic = "cycle kiss poem scare employ exit imitate strike result crack humor famous";
+var mnemonic = "duty barely two sing object rice harsh water merry actress report leaf";

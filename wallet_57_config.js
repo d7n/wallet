@@ -1,1 +1,1 @@
-var mnemonic = "pitch assault street age aisle access moon glare custom shy glove seat";
+var mnemonic = "cheap street false manual initial pumpkin river play approve cherry lumber gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "solar comfort sell material artefact obey render soon similar strategy clarify cross";
+var mnemonic = "doll truth immune enable sad table today distance rifle night snake narrow";

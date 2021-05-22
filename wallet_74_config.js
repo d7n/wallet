@@ -1,1 +1,1 @@
-var mnemonic = "pull law illegal bag analyst misery winter wage amazing brick cereal faculty";
+var mnemonic = "resist assume auction frost erosion height increase obscure cinnamon setup physical energy";

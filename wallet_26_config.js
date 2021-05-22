@@ -1,1 +1,1 @@
-var mnemonic = "lounge fit win snack drift roast that casual season similar remove pause";
+var mnemonic = "brother silly element clay discover equip voice just inflict tool select uncover";

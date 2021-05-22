@@ -1,1 +1,1 @@
-var mnemonic = "behind timber impulse school tuna two hurry around lemon use wave indicate";
+var mnemonic = "box island couch amused crazy erosion clown economy swallow govern myth asset";

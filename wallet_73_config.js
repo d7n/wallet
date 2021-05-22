@@ -1,1 +1,1 @@
-var mnemonic = "turtle congress confirm custom like language nice jump video speak six afraid";
+var mnemonic = "rich find caution cruise album space spot fever office response cram rabbit";

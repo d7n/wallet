@@ -1,1 +1,1 @@
-var mnemonic = "mobile lion pulp basket absorb six grass roof video alert crystal corn";
+var mnemonic = "fatigue giggle give make output define coast market announce tenant token detect";

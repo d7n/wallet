@@ -1,1 +1,1 @@
-var mnemonic = "certain kick clerk ecology fine distance front brief remind memory claim stamp";
+var mnemonic = "cancel sort repair then tank awake tongue swing dad antique spirit purpose";

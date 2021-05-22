@@ -1,1 +1,1 @@
-var mnemonic = "bird clown stumble rural lawsuit memory absent almost scrap friend table stereo";
+var mnemonic = "soul harbor sight butter pioneer gloom actor logic tonight comic assume walnut";

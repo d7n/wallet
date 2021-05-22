@@ -1,1 +1,1 @@
-var mnemonic = "recycle similar load drive arrive frozen stereo unknown price admit industry stock";
+var mnemonic = "shock report brother basket wheel auction nut silk erosion wing absorb weasel";

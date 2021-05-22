@@ -1,1 +1,1 @@
-var mnemonic = "machine demise vivid always live ivory horn permit era account rigid tube";
+var mnemonic = "radio top section ability lumber inspire sweet more athlete club slender depth";

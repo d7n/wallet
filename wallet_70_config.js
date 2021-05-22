@@ -1,1 +1,1 @@
-var mnemonic = "point talent figure erupt large rack slender pair spoon all immune direct";
+var mnemonic = "patch surround genius belt depart recipe long amount chimney same region potato";

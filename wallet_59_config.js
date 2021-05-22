@@ -1,1 +1,1 @@
-var mnemonic = "coconut borrow advance play close session animal junior figure assume capable click";
+var mnemonic = "tumble robot thank smoke call thank basket unhappy evidence tunnel segment across";

@@ -1,1 +1,1 @@
-var mnemonic = "cream neutral success patch program seat maple panther can very vapor next";
+var mnemonic = "lend lizard scorpion mix witness type country battle carry merry coyote decorate";

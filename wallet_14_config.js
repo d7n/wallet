@@ -1,1 +1,1 @@
-var mnemonic = "margin spice erase abstract since autumn result random evidence fruit happy velvet";
+var mnemonic = "screen happy bread fun extend zoo useless cup toilet trip myth bid";

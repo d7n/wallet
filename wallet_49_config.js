@@ -1,1 +1,1 @@
-var mnemonic = "leg boat fiction already miss replace sick judge dish maple cruel faith";
+var mnemonic = "dwarf cream moral sword peanut skill tank depend melt knife option spider";

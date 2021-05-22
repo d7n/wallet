@@ -1,1 +1,1 @@
-var mnemonic = "error erupt very bus coach kit critic warrior art nice surround syrup";
+var mnemonic = "expand hurt liberty taste hope erupt suit solve huge gorilla trust gossip";

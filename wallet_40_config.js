@@ -1,1 +1,1 @@
-var mnemonic = "fee veteran anger bread caution rotate usual arrest traffic bid child catch";
+var mnemonic = "popular paddle broken into drop link success head fossil borrow slim dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle child call risk hybrid desert cook help surface subway biology unaware";
+var mnemonic = "clown spoil olive weekend tobacco elegant fiscal timber word diet lecture ocean";

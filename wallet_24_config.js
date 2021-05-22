@@ -1,1 +1,1 @@
-var mnemonic = "dose excess surround whip ten because ability test enter carry blast enact";
+var mnemonic = "error human ivory quote easy spray upper pulse recall absent gap flat";

@@ -1,1 +1,1 @@
-var mnemonic = "soul bulk hundred liar vital return scissors lucky salad feed woman stock";
+var mnemonic = "warfare slight verify cousin meat shield cry echo opinion obey frozen loan";

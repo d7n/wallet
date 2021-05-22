@@ -1,1 +1,1 @@
-var mnemonic = "step digital lottery inner hen world display either note chief top world";
+var mnemonic = "hamster window february salmon laugh champion gospel minor animal little captain tuition";

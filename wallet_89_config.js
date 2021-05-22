@@ -1,1 +1,1 @@
-var mnemonic = "rigid innocent margin text fluid horse ribbon robust timber predict length check";
+var mnemonic = "coach aware produce episode airport elder spoil morning glad follow height window";

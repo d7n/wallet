@@ -1,1 +1,1 @@
-var mnemonic = "charge copper height reject any nut fetch penalty frequent bar day enter";
+var mnemonic = "sponsor sand entry virtual brave tiny burger hidden online media wide artwork";

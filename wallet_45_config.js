@@ -1,1 +1,1 @@
-var mnemonic = "scatter grid exchange length charge call around general artwork video clever weather";
+var mnemonic = "pair garden piece derive regular concert genius pig wrist raise absurd board";

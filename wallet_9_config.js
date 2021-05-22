@@ -1,1 +1,1 @@
-var mnemonic = "shrug train wagon van album rail certain pyramid improve mouse lab critic";
+var mnemonic = "horror adult gentle negative cute salmon female swim foil reform series grid";

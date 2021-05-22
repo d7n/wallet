@@ -1,1 +1,1 @@
-var mnemonic = "vessel case actual royal resource snow notice elder gate boat tomato reject";
+var mnemonic = "benefit brief render pretty shiver palm curve cluster mother dismiss faculty industry";

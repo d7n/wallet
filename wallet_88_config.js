@@ -1,1 +1,1 @@
-var mnemonic = "recycle cannon moment motor wolf elephant annual soup galaxy climb motion equip";
+var mnemonic = "toilet slim unlock palace order hamster surface supreme fashion teach alter stay";

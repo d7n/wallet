@@ -1,1 +1,1 @@
-var mnemonic = "beef guard adapt chaos crouch expand garlic earn coyote prize apart task";
+var mnemonic = "wild exile tip text affair film monster text lava room mushroom define";

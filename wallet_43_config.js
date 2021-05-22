@@ -1,1 +1,1 @@
-var mnemonic = "slot chief move chest fold supply shy betray unique heart online flavor";
+var mnemonic = "fat brass bread ten hunt describe pledge mobile parrot wave image pioneer";

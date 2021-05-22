@@ -1,1 +1,1 @@
-var mnemonic = "captain wave credit grape truth fan rack honey family swim diary siege";
+var mnemonic = "leg inmate leave siege collect toddler party sea raven beauty bless ribbon";

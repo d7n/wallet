@@ -1,1 +1,1 @@
-var mnemonic = "away faith cage buddy need hand rebuild horse chase give planet raw";
+var mnemonic = "finish unhappy universe alpha letter scrub spawn luggage reject cradle cousin mixed";

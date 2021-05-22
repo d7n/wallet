@@ -1,1 +1,1 @@
-var mnemonic = "subject stick leopard arch under chicken kidney animal business refuse slight enter";
+var mnemonic = "guide best fan swift patient angle squirrel boss exercise liberty metal hamster";

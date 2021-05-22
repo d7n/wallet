@@ -1,1 +1,1 @@
-var mnemonic = "ostrich mask sock pioneer agree output scheme wife leisure chat depend appear";
+var mnemonic = "mistake inner frequent tattoo gasp monkey club smoke slogan whale fitness mom";

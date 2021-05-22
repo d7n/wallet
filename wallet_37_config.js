@@ -1,1 +1,1 @@
-var mnemonic = "cycle admit fantasy smile target quote reason error priority cause strike weather";
+var mnemonic = "gold input dinner real toast bonus need govern current kid member health";

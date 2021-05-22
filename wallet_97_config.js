@@ -1,1 +1,1 @@
-var mnemonic = "eternal depth ghost fat uncle moon spare feel merry club fluid remind";
+var mnemonic = "build front ability blossom believe wide undo uniform act clerk indoor loyal";

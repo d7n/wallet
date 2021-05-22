@@ -1,1 +1,1 @@
-var mnemonic = "fix toy soap hazard virus dentist silk aware use gym apart sunny";
+var mnemonic = "parent talk goat trick card train early slice wisdom exchange canoe shell";

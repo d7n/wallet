@@ -1,1 +1,1 @@
-var mnemonic = "edit mansion grocery rubber wool truck cool great rigid manual badge alley";
+var mnemonic = "used primary board crush assist increase tomato trouble write rent meat supreme";

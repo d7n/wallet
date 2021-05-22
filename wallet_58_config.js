@@ -1,1 +1,1 @@
-var mnemonic = "tone galaxy start engage beef digital still affair enable spider allow upper";
+var mnemonic = "stairs lion trade ability bean reduce route salute side blouse piano nation";

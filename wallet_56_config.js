@@ -1,1 +1,1 @@
-var mnemonic = "airport bean save east couch join quick convince open used expand become";
+var mnemonic = "tuna sponsor treat name eye prison turtle car equal current dose hotel";

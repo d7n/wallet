@@ -1,1 +1,1 @@
-var mnemonic = "upper share impact never discover example nest spatial model caution gauge mushroom";
+var mnemonic = "review radio balcony term quit alley genius account produce sound above isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "flee gentle strike knock corn aim emerge toss black object crack goose";
+var mnemonic = "derive yellow toddler pioneer right club talk human arch arch keep range";

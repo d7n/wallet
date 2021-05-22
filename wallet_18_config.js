@@ -1,1 +1,1 @@
-var mnemonic = "claim sand ability elder luxury spin salt math current able express flower";
+var mnemonic = "chaos cheese crater enter wise spell usage express net wagon next mountain";

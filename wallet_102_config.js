@@ -1,1 +1,1 @@
-var mnemonic = "client crime awkward bunker silent way one bus yellow wine liquid apart";
+var mnemonic = "affair control ripple moment share industry visa segment only flight opinion dice";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans divide yellow enable resemble bone gauge dust river spell network fashion";
+var mnemonic = "scene fat shed fly parade antique secret sell erase endorse kangaroo tennis";

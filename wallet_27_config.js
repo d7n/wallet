@@ -1,1 +1,1 @@
-var mnemonic = "shine pyramid letter clap mimic such dawn couple visa immense link useful";
+var mnemonic = "few chimney cloth pull track afraid treat addict salad entry toe hero";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon protect oblige bean evolve where course combine indoor history version crowd";
+var mnemonic = "example cotton palace outdoor dress attend inject pepper soap spring lumber reward";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey chimney salute bird ozone valley rib pizza picnic rapid frame retire";
+var mnemonic = "coyote transfer egg cake execute candy hello elegant click someone casual maximum";

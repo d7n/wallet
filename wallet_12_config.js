@@ -1,1 +1,1 @@
-var mnemonic = "chef tool swear over cupboard syrup order visual pulp worth jazz eight";
+var mnemonic = "asset jump palm replace grace notable ride people area hill great permit";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke cave parrot onion possible elbow transfer fever ozone desert throw wink";
+var mnemonic = "unknown ordinary border under credit alter hidden trophy vendor magic cube enrich";

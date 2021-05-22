@@ -1,1 +1,1 @@
-var mnemonic = "man spatial library inner hello lab company demise topic loop rebel lunar";
+var mnemonic = "force jar tiger regular phrase happy siege learn foster shift estate focus";

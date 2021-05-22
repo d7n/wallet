@@ -1,1 +1,1 @@
-var mnemonic = "runway home bachelor step force foster sport impulse material detect craft spoon";
+var mnemonic = "decide icon pumpkin blur table enlist fatigue film elevator unfair climb mistake";

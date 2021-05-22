@@ -1,1 +1,1 @@
-var mnemonic = "stadium trip venture match mystery genuine sentence shoulder lunar sleep tissue price";
+var mnemonic = "diesel method language bleak borrow sick when omit dad trial shock hope";

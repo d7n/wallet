@@ -1,1 +1,1 @@
-var mnemonic = "million shiver type grocery reject section seven hat lamp depart cute decline";
+var mnemonic = "urge estate enact whale subway harbor sell tomato any unknown impulse practice";

@@ -1,1 +1,1 @@
-var mnemonic = "album upgrade velvet holiday produce raw hurdle right utility head cluster sure";
+var mnemonic = "vote amazing again figure next viable canvas promote father bubble pipe adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "concert beef off hidden check talent original hub lake scan eight virus";
+var mnemonic = "uphold group barrel fortune original marble recipe exchange always venue stage matter";

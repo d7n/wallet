@@ -1,1 +1,1 @@
-var mnemonic = "fitness dish suspect spray record thunder tomorrow moon typical elbow boy razor";
+var mnemonic = "easily ahead jazz catalog camera wrong axis garment merge luxury sock box";

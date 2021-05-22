@@ -1,1 +1,1 @@
-var mnemonic = "cube flash fashion please mistake run bright proof omit delay improve liquid";
+var mnemonic = "grit syrup jar office collect find first surge column state fitness shop";

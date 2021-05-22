@@ -1,1 +1,1 @@
-var mnemonic = "truth cute method symptom era magic laptop snake craft hen resource pride";
+var mnemonic = "weird liquid verb race company solid admit effort duty trust model room";

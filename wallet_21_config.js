@@ -1,1 +1,1 @@
-var mnemonic = "topic comic worry lunar cabin advice engage motor powder protect nasty property";
+var mnemonic = "auction bar turtle vapor inhale bread drink novel airport orbit rebuild step";

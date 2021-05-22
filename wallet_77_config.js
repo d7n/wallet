@@ -1,1 +1,1 @@
-var mnemonic = "energy super select airport coast tiger fault drama bulb jungle better ecology";
+var mnemonic = "virtual neither home castle special bargain goose sheriff expect pledge panda mandate";

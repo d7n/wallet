@@ -1,1 +1,1 @@
-var mnemonic = "toilet owner ten casino music mechanic demand moon action perfect book van";
+var mnemonic = "anchor tornado toilet cotton sell erase age victory skin hero moral woman";

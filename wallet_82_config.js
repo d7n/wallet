@@ -1,1 +1,1 @@
-var mnemonic = "nest panda fit west obey mirror alert foam dial tornado grocery miss";
+var mnemonic = "account charge light ozone gas cram section push elder subway parade satoshi";

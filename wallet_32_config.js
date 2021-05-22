@@ -1,1 +1,1 @@
-var mnemonic = "balance unit you section corn one polar state weird title virtual stable";
+var mnemonic = "another silk bird ancient middle fever all urge engage saddle embody erupt";

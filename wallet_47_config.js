@@ -1,1 +1,1 @@
-var mnemonic = "beyond meat day trick comic leopard world behind used breeze raise ketchup";
+var mnemonic = "protect pumpkin fatigue cancel humor impose recipe pave pattern foam next meat";

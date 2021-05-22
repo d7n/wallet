@@ -1,1 +1,1 @@
-var mnemonic = "obvious isolate fold demand genre cycle tunnel piano wear mom melt argue";
+var mnemonic = "large tank great goat scene medal express match awkward witness banana gain";

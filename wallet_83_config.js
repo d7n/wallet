@@ -1,1 +1,1 @@
-var mnemonic = "apart ski violin ranch imitate admit early diesel slice garment ozone wood";
+var mnemonic = "lawsuit damp receive joy walnut charge will school argue bridge inject toward";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow van guitar judge ancient engine donor galaxy sure tenant lava legend";
+var mnemonic = "green shaft wash curve mistake wink remember field fit velvet suspect fitness";

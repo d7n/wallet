@@ -1,1 +1,1 @@
-var mnemonic = "pause toe hammer tribe icon town odor verify reduce ready govern original";
+var mnemonic = "fee grant bulb match deliver viable finish tuna pink copper inherit laptop";

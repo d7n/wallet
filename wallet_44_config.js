@@ -1,1 +1,1 @@
-var mnemonic = "half panther knock hero artwork hour find truth impact same elbow document";
+var mnemonic = "salt insane raven giggle puppy neutral badge crash victory involve slogan destroy";

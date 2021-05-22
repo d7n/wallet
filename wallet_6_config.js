@@ -1,1 +1,1 @@
-var mnemonic = "cancel cliff trouble veteran cause ivory hover wait mad asset south aisle";
+var mnemonic = "around picnic ride deer remove sentence wage movie guess battle receive monster";

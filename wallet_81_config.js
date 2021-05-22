@@ -1,1 +1,1 @@
-var mnemonic = "abandon beauty pet amazing collect portion embody chef chuckle draw eagle audit";
+var mnemonic = "grace naive goddess fetch spirit vessel planet dawn fruit misery wild funny";

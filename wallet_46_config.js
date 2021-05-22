@@ -1,1 +1,1 @@
-var mnemonic = "shaft address sausage peasant pipe venue clinic suffer battle despair okay keen";
+var mnemonic = "carbon right twelve history afford reform clip submit approve million identify canoe";

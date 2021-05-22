@@ -1,1 +1,1 @@
-var mnemonic = "enemy general woman master gate bid hedgehog clerk math pluck first sword";
+var mnemonic = "dish tissue jacket alcohol vicious broken end spy increase abuse game grit";

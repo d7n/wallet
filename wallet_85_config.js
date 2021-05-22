@@ -1,1 +1,1 @@
-var mnemonic = "hover toward food excite report moment define bottom repair anger where please";
+var mnemonic = "script movie spare chalk box coach ball pause guard follow metal whale";

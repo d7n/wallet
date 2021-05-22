@@ -1,1 +1,1 @@
-var mnemonic = "identify coconut wire crater distance paddle brick copper outdoor spawn expose autumn";
+var mnemonic = "border minimum help hat head cloud auction pet alley clown diagram resource";

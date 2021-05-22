@@ -1,1 +1,1 @@
-var mnemonic = "baby step gravity attitude dynamic trend embark because then school birth guide";
+var mnemonic = "similar tent position sunset globe crowd time possible coyote mom treat lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "car enroll moment bike creek syrup knee salute horse earth tiger guilt";
+var mnemonic = "afraid razor profit present original build budget awake empty embrace turn hope";

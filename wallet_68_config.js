@@ -1,1 +1,1 @@
-var mnemonic = "income drum capable resist clerk power give question practice main throw phrase";
+var mnemonic = "portion scrub trend weird naive eight wage search bus quote web lava";

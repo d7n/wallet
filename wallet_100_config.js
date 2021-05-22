@@ -1,1 +1,1 @@
-var mnemonic = "play merry demise faith that elegant evil road chief elevator broom egg";
+var mnemonic = "warfare deal render supreme pottery stock almost life pond income quit layer";

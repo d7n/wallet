@@ -1,1 +1,1 @@
-var mnemonic = "lake sail load slender elephant sphere scale clay spy space capital twin";
+var mnemonic = "great game pitch eternal brief hobby hood rally subway spider together coconut";

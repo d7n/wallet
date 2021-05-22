@@ -1,1 +1,1 @@
-var mnemonic = "column kangaroo quote scrap possible lawn wall dilemma found three faint step";
+var mnemonic = "govern suggest goose arm load fire afford horse hospital doctor small volcano";

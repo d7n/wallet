@@ -1,1 +1,1 @@
-var mnemonic = "chalk denial equal spot initial fire thank piece broken gather wait fog";
+var mnemonic = "hungry gravity price social heart prefer hurdle mosquito sniff rough chair indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "virus wait bag drum oval uphold observe about portion wheat phrase turkey";
+var mnemonic = "cement sentence display play know bread congress glide fossil stone always inject";

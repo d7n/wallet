@@ -1,1 +1,1 @@
-var mnemonic = "hollow awake daring seminar label hello engine monster fee rate clinic bike";
+var mnemonic = "confirm agent flat spike enjoy object okay toss nothing pupil language virus";
