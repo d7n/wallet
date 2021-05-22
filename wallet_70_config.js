@@ -1,1 +1,1 @@
-var mnemonic = "climb betray nothing aisle labor fire rescue hold huge account elephant swear";
+var mnemonic = "amateur prepare wing pig arena source vintage tilt twelve glide vibrant wing";

@@ -1,1 +1,1 @@
-var mnemonic = "soap train keen choose salad quantum meat dragon foam outer since never";
+var mnemonic = "civil canyon group dirt hawk slogan bar crush senior embark any inspire";

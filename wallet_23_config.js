@@ -1,1 +1,1 @@
-var mnemonic = "task click arctic slight select dizzy caught rough wild february rural spoon";
+var mnemonic = "math left ahead donate speak frost curve frost sunny drastic you about";

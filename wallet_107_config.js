@@ -1,1 +1,1 @@
-var mnemonic = "primary asset rocket plunge turn coil relief quality ship entire force typical";
+var mnemonic = "minute use grain bird loyal protect rice sketch bus decline wrist vault";

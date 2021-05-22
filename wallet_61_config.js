@@ -1,1 +1,1 @@
-var mnemonic = "vicious ship govern grid exclude join umbrella hedgehog rebel card pill radio";
+var mnemonic = "dolphin filter waste witness deny chair motion cactus when title crater mind";

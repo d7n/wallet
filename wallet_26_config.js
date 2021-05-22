@@ -1,1 +1,1 @@
-var mnemonic = "wisdom faculty reason shock change annual vivid blue agree exotic round voice";
+var mnemonic = "curtain hedgehog reason inherit way code below typical salmon enlist peanut glow";

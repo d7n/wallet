@@ -1,1 +1,1 @@
-var mnemonic = "favorite increase fire talent mouse despair retire embody dry lava bid ring";
+var mnemonic = "wait bronze round enlist phrase waste snap kitchen live raw enable control";

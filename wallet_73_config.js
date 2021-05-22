@@ -1,1 +1,1 @@
-var mnemonic = "uncle siege demand thank orchard mistake swift leave globe tissue input prize";
+var mnemonic = "runway rifle ensure pottery gap asthma dice middle roast turkey horse city";

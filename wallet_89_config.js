@@ -1,1 +1,1 @@
-var mnemonic = "ocean flavor faculty surprise produce used main glove column deer demise idle";
+var mnemonic = "absorb frown police spend level mansion ranch horse police frost arena blur";

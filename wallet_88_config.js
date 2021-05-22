@@ -1,1 +1,1 @@
-var mnemonic = "laundry secret come differ radar kitten uncover diary swarm file install wagon";
+var mnemonic = "nerve lizard own fragile keen draft project summer pencil whip fabric route";

@@ -1,1 +1,1 @@
-var mnemonic = "again kitchen fame milk apology shrug wine bus chaos used clever royal";
+var mnemonic = "whip escape grief wait goddess clock ugly equal hole evidence picnic famous";

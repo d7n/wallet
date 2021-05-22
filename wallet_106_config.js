@@ -1,1 +1,1 @@
-var mnemonic = "skirt worth ecology concert gather story cost clarify toy neutral sugar crystal";
+var mnemonic = "fade canyon kangaroo robot rich soccer divert toe peasant step mass pizza";

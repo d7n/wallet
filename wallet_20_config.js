@@ -1,1 +1,1 @@
-var mnemonic = "record world night enjoy romance alter athlete kitchen skull bar oppose gloom";
+var mnemonic = "remember orbit inhale metal body month wild right vote drastic desk tornado";

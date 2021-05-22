@@ -1,1 +1,1 @@
-var mnemonic = "busy worth voice rough attract police patient text lunch hungry retire pen";
+var mnemonic = "roof october protect attend alter draw venue property false gas asthma youth";

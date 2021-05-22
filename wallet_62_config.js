@@ -1,1 +1,1 @@
-var mnemonic = "earn rent laundry garment knife search carbon regular ridge frequent surge point";
+var mnemonic = "shadow intact proof item neither together dolphin print uniform language special rocket";

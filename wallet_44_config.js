@@ -1,1 +1,1 @@
-var mnemonic = "obscure craft notable urge penalty damage rubber crater jungle clog annual avoid";
+var mnemonic = "fog end pizza clay manage home frozen section honey march grow staff";

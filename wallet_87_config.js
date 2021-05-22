@@ -1,1 +1,1 @@
-var mnemonic = "car enrich corn steak ceiling practice prepare liberty train affair erase hospital";
+var mnemonic = "little deal give nation bus asthma market glass unit diesel near rally";

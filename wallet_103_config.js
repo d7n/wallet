@@ -1,1 +1,1 @@
-var mnemonic = "segment nasty unveil myself brain hurdle skate swim timber stable praise skull";
+var mnemonic = "second seek exile display enact icon retire gloom year deliver laugh power";

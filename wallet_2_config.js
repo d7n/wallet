@@ -1,1 +1,1 @@
-var mnemonic = "task trick neutral weasel churn swift glare able shell essay morning narrow";
+var mnemonic = "portion process success quit certain grain razor stem mad small client ketchup";

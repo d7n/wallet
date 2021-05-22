@@ -1,1 +1,1 @@
-var mnemonic = "village cloth drop curve agent differ session afford mask ranch glad march";
+var mnemonic = "idea sadness nasty sorry middle hazard february sock zebra citizen sample peanut";

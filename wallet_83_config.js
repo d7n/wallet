@@ -1,1 +1,1 @@
-var mnemonic = "next tonight waste junk giant endless display spider buddy opinion review noodle";
+var mnemonic = "record summer vague call shrimp hire ball enough talk hockey face type";

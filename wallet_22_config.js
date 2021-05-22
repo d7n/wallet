@@ -1,1 +1,1 @@
-var mnemonic = "empty occur voyage move gather item mouse hollow tuna autumn situate employ";
+var mnemonic = "green raise come wait problem explain uphold scan hurdle problem dust meat";

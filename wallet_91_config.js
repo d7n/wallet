@@ -1,1 +1,1 @@
-var mnemonic = "print three ability thrive fat ball dial home obey wrestle practice nerve";
+var mnemonic = "point strategy grocery useful original discover enroll sudden laugh legend amount garment";

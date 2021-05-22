@@ -1,1 +1,1 @@
-var mnemonic = "surge inner novel table grab height obey modify butter artwork tattoo salt";
+var mnemonic = "upper benefit come kiwi note street daring joy term voice figure daring";

@@ -1,1 +1,1 @@
-var mnemonic = "resource board hospital obtain hour plastic song involve rack fitness season word";
+var mnemonic = "deputy hospital flip great expect moon virus utility volcano hamster online submit";

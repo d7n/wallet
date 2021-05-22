@@ -1,1 +1,1 @@
-var mnemonic = "clown taste smart dance confirm burger obvious village devote labor enrich upper";
+var mnemonic = "cannon cigar usage summer pet tobacco dice bronze ice pledge beyond power";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage novel member quality street maple place print slight glare surface grant";
+var mnemonic = "frequent protect salad fly clown foil whale olympic gloom canoe common popular";

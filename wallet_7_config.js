@@ -1,1 +1,1 @@
-var mnemonic = "april hammer movie gate pact sad auto always try indicate minor kit";
+var mnemonic = "icon fan price bleak fantasy nuclear shiver board public connect carry opinion";

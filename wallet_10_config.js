@@ -1,1 +1,1 @@
-var mnemonic = "scissors entire file fat actual echo act boost liar cube magic menu";
+var mnemonic = "violin general task weird payment adult filter super poem chalk acid camera";

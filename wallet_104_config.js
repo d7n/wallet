@@ -1,1 +1,1 @@
-var mnemonic = "gravity save grab actual enlist buzz exercise stove dynamic zone convince more";
+var mnemonic = "churn method remember blouse cactus thought cruel promote oil weasel brand reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "flip dress what thing record pool design draw fly dentist net lawn";
+var mnemonic = "edge spider notable actor beach bring lobster trumpet six oyster melody board";

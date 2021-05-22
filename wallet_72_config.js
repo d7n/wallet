@@ -1,1 +1,1 @@
-var mnemonic = "forward strike obtain ozone burger skate twist hungry oak divide jacket magnet";
+var mnemonic = "bundle damage two bicycle execute quantum fossil atom merge accident trim exist";

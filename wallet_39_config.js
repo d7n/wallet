@@ -1,1 +1,1 @@
-var mnemonic = "arena income husband goat blush spoon two green sea volume dentist dog";
+var mnemonic = "era hammer cloud sell jungle attract famous one bid share bone behave";

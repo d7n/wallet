@@ -1,1 +1,1 @@
-var mnemonic = "shop pottery slot other fork burger deposit banana video design farm hint";
+var mnemonic = "focus surround effort case turkey lunar unfair olive body inside inflict own";

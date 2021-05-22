@@ -1,1 +1,1 @@
-var mnemonic = "clump alien old income group settle oak danger razor volcano clump library";
+var mnemonic = "sugar canal lizard quiz fragile hover banner potato wide trigger there upper";

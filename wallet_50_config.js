@@ -1,1 +1,1 @@
-var mnemonic = "puzzle amazing cliff immense library letter design manage father pride defy fee";
+var mnemonic = "spatial screen coin swift clutch mad require fire logic evil initial author";

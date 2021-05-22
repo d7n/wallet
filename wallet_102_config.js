@@ -1,1 +1,1 @@
-var mnemonic = "exhaust olympic puppy sunny quit shoot visit priority sleep typical annual vibrant";
+var mnemonic = "avoid decrease erode cliff trend random shiver shadow because grace little list";

@@ -1,1 +1,1 @@
-var mnemonic = "major elbow under share defense salad remove lounge drill convince brand provide";
+var mnemonic = "alcohol wise winter immense call pulp credit olympic good lawn brown spare";

@@ -1,1 +1,1 @@
-var mnemonic = "shell praise crouch toe oil truck reunion magnet ranch sport tiger embrace";
+var mnemonic = "lottery toddler letter thumb corn boss stumble item offer excess stamp winter";

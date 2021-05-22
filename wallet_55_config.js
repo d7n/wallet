@@ -1,1 +1,1 @@
-var mnemonic = "boss situate giraffe assist hire excuse fruit cheap cabin lake orphan stereo";
+var mnemonic = "common margin trial project jeans couple subject enjoy margin reform piece loud";

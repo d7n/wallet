@@ -1,1 +1,1 @@
-var mnemonic = "toward pudding machine foster magnet across demand switch beef boy sunny delay";
+var mnemonic = "genre trick celery gesture infant verify must tonight denial height eye icon";

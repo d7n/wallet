@@ -1,1 +1,1 @@
-var mnemonic = "nest useful local silent loyal horn venture clown turtle eagle sadness member";
+var mnemonic = "betray fade various bundle now install citizen meat prosper advance monster south";

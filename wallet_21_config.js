@@ -1,1 +1,1 @@
-var mnemonic = "rare penalty undo relax demand volcano puzzle banana design update leader sand";
+var mnemonic = "chaos whisper boost retire jazz bronze usual autumn join family horn useful";

@@ -1,1 +1,1 @@
-var mnemonic = "rival decrease bamboo actual cricket artefact neutral carbon knife twice bounce sell";
+var mnemonic = "audit ancient elder youth lecture slush matter denial just dizzy school social";

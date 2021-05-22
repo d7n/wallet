@@ -1,1 +1,1 @@
-var mnemonic = "tuna leg lawsuit sunny mesh sing nest good immense hawk garlic interest";
+var mnemonic = "scrub coyote february ready pizza elbow carry lucky awake topic emerge shrug";

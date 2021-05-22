@@ -1,1 +1,1 @@
-var mnemonic = "claw frost avoid box crumble lemon eyebrow safe animal security inform bright";
+var mnemonic = "bench allow impact unable husband teach tower album frequent dose craft amateur";

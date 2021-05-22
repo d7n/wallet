@@ -1,1 +1,1 @@
-var mnemonic = "glare fault climb length average artefact add rain shell estate custom ignore";
+var mnemonic = "motion can dream ivory scrub carbon supply process essence lake dish nest";

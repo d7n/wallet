@@ -1,1 +1,1 @@
-var mnemonic = "define forward decade position dinosaur title focus until aware attitude addict dilemma";
+var mnemonic = "stamp loop surround drum man tackle prefer carry mix salt energy story";

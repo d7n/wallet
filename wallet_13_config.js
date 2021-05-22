@@ -1,1 +1,1 @@
-var mnemonic = "unusual chaos capable deposit crazy armor ripple tuna social observe lawn mimic";
+var mnemonic = "harvest gap pull fatal all neither energy snake addict elegant dash average";

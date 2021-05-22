@@ -1,1 +1,1 @@
-var mnemonic = "object swift cat offer cram design hover unveil bulk spare spice year";
+var mnemonic = "stamp cabin strategy subway orange inject already unusual leader february mass verb";

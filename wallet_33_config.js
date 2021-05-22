@@ -1,1 +1,1 @@
-var mnemonic = "receive they letter rifle rich giraffe achieve latin nose suspect use already";
+var mnemonic = "level soon possible atom bulb inside unknown car cactus adult bunker tuition";

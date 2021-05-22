@@ -1,1 +1,1 @@
-var mnemonic = "wealth furnace proof miracle scissors become drama trumpet crisp price author pen";
+var mnemonic = "october obvious memory firm health before replace talk rail have mass miracle";

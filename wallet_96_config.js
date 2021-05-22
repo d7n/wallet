@@ -1,1 +1,1 @@
-var mnemonic = "attitude rude endless sail stairs apology abstract proof company flavor illness magnet";
+var mnemonic = "trip wall almost post quit spray weather private theme skill shaft venture";

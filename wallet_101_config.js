@@ -1,1 +1,1 @@
-var mnemonic = "bargain december naive couple claim spy spray slice banana fatal hill power";
+var mnemonic = "candy scatter check human resemble bracket diamond emerge stool save congress grid";

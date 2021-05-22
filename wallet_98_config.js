@@ -1,1 +1,1 @@
-var mnemonic = "spoon birth shop model life song guard cloth rib gorilla sense wide";
+var mnemonic = "crew neither hub light cherry camera permit under domain syrup tortoise identify";

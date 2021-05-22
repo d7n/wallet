@@ -1,1 +1,1 @@
-var mnemonic = "tide cram tide swear index display whip alarm bright lottery energy else";
+var mnemonic = "high misery unfair cabin neither sunny large unable wedding time salt perfect";

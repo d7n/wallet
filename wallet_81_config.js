@@ -1,1 +1,1 @@
-var mnemonic = "matter tuna liar rug depend approve farm atom dinosaur organ search wild";
+var mnemonic = "gaze gospel police palm hope put nasty comic second fortune lemon fly";

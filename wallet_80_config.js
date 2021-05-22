@@ -1,1 +1,1 @@
-var mnemonic = "crunch conduct cream resist lock walnut recall similar sing mail loop vicious";
+var mnemonic = "copper crouch cover already offer item scorpion nothing you bless spoon delay";

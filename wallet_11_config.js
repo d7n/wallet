@@ -1,1 +1,1 @@
-var mnemonic = "age disorder swear odor climb beef vehicle flush matrix palm exercise dog";
+var mnemonic = "faint ostrich able pepper admit floor entry color again middle tag ostrich";

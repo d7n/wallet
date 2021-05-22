@@ -1,1 +1,1 @@
-var mnemonic = "duck bone shove where install man agent diary struggle retreat virus measure";
+var mnemonic = "capable upgrade retire school dumb joke reason gasp mercy bone major long";

@@ -1,1 +1,1 @@
-var mnemonic = "manage leisure creek drama pupil what jump verify blossom govern usage good";
+var mnemonic = "swim fresh cover gate dash hungry section notable trend tourist grass rally";

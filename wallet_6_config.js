@@ -1,1 +1,1 @@
-var mnemonic = "remain involve party execute dwarf worth chair person yellow mammal online winter";
+var mnemonic = "journey tone material predict oblige initial thumb banner broom wish addict fit";

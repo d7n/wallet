@@ -1,1 +1,1 @@
-var mnemonic = "sport grab solid ghost return gossip minute before speak sound rookie flag";
+var mnemonic = "walk local wool fold possible athlete purse bus hero chunk label turkey";

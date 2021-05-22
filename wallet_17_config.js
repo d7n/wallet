@@ -1,1 +1,1 @@
-var mnemonic = "knock pause race debate lumber woman sentence velvet exile hire view car";
+var mnemonic = "glory drama want crawl width duty vapor volume crystal damage crater wall";

@@ -1,1 +1,1 @@
-var mnemonic = "spike bitter entry mean jelly system way country festival ghost spot clap";
+var mnemonic = "extra remember fantasy portion leaf shrug mimic crumble broom cliff banner crack";

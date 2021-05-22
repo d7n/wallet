@@ -1,1 +1,1 @@
-var mnemonic = "lesson define west walnut design demand squeeze habit palm shy drip innocent";
+var mnemonic = "attend give sure record swear unique alpha prevent twice priority connect cheese";

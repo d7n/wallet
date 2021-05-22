@@ -1,1 +1,1 @@
-var mnemonic = "company imitate teach later polar phrase wagon moon ask arm monitor drum";
+var mnemonic = "exchange soft carry predict ski category merge tide inflict slim super horse";

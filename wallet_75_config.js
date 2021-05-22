@@ -1,1 +1,1 @@
-var mnemonic = "gorilla kitchen expect toilet knee hub virus memory gauge rubber foam nut";
+var mnemonic = "dentist feed volume vanish another erosion bid outside coach dumb model rhythm";

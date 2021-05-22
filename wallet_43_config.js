@@ -1,1 +1,1 @@
-var mnemonic = "square quick hard now trick rain blast rally unveil field allow frost";
+var mnemonic = "hundred draft camp action slow crash cry pair skull degree cupboard feed";

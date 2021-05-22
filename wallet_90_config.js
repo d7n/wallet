@@ -1,1 +1,1 @@
-var mnemonic = "horror broccoli print food fatal cigar hotel below thrive happy abuse rhythm";
+var mnemonic = "picture normal verify shield heavy spin try letter guilt hawk spice cattle";

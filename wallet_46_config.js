@@ -1,1 +1,1 @@
-var mnemonic = "bench broccoli profit nest curious dizzy crucial ugly sudden boring squeeze fat";
+var mnemonic = "ocean silent chest lottery swim empower power birth ball security isolate hint";

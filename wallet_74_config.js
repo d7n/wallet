@@ -1,1 +1,1 @@
-var mnemonic = "since spoil three donor orphan day height uncover fox hold donate tragic";
+var mnemonic = "exist rigid cruise artwork crisp ability again dawn cluster flight genuine pool";

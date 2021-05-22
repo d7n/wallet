@@ -1,1 +1,1 @@
-var mnemonic = "mean gift negative scheme hunt inquiry airport virtual valley manual flower ladder";
+var mnemonic = "culture claim cloud face lumber crime educate bind fantasy pretty winter crater";

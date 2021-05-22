@@ -1,1 +1,1 @@
-var mnemonic = "dizzy accuse usual beyond duck image reduce gown behind physical delay anger";
+var mnemonic = "outdoor lucky cousin say test canyon goat sheriff negative giraffe debris fuel";

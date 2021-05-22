@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit dentist nephew glance edge evolve arm impose that again rubber flame";
+var mnemonic = "attend gloom loyal card tank still blouse option abstract student surprise elephant";

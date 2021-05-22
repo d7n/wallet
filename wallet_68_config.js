@@ -1,1 +1,1 @@
-var mnemonic = "magnet insect radar romance rapid toast logic bless order exclude ostrich pulse";
+var mnemonic = "pole real skull mass easily tortoise tobacco reopen bicycle rude afraid pumpkin";

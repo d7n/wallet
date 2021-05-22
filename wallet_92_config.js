@@ -1,1 +1,1 @@
-var mnemonic = "soon valve pole shock tree ceiling february horn dinosaur craft rubber primary";
+var mnemonic = "lumber verify prevent scare friend tomorrow salute average kiwi left indicate urge";

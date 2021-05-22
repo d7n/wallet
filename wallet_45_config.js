@@ -1,1 +1,1 @@
-var mnemonic = "column deputy clinic equip solution security truly refuse athlete wreck another reject";
+var mnemonic = "dynamic end people slight piece matter fabric liquid caution sudden little alarm";

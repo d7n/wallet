@@ -1,1 +1,1 @@
-var mnemonic = "focus immense pledge high chat pact mind van stock portion drip grass";
+var mnemonic = "ticket history rabbit road setup split foam sphere rookie penalty attend host";

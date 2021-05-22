@@ -1,1 +1,1 @@
-var mnemonic = "month refuse hunt favorite only document become clerk author dash soda course";
+var mnemonic = "negative tennis hair public dose close unable hello parrot train predict reunion";

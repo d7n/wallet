@@ -1,1 +1,1 @@
-var mnemonic = "fever relief round master marine mammal vital stumble bid basic calm amount";
+var mnemonic = "east together sport sense defense swallow obey insane kingdom abandon army pole";

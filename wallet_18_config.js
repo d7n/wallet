@@ -1,1 +1,1 @@
-var mnemonic = "update account when margin predict fog south exit notable dad invite worth";
+var mnemonic = "ethics casual merge series course spider useful shield dry april snack pistol";

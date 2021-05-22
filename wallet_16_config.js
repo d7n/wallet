@@ -1,1 +1,1 @@
-var mnemonic = "tilt city help merit pattern harsh junk vote meadow slab bike ginger";
+var mnemonic = "prefer kick earth clog hip swift tell urban habit praise hurry slim";

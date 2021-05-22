@@ -1,1 +1,1 @@
-var mnemonic = "random kingdom cinnamon waste floor carbon unfair witness sketch guide carry cousin";
+var mnemonic = "gather subway fury swallow chaos suggest brain settle day staff waste access";

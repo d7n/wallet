@@ -1,1 +1,1 @@
-var mnemonic = "proof burden solution wise health table wall recipe sadness immense final armed";
+var mnemonic = "toddler furnace glide banner object lesson clutch profit bamboo shop mercy spoon";

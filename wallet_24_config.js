@@ -1,1 +1,1 @@
-var mnemonic = "habit impose truth that flat sick flag bless cruise document wasp bike";
+var mnemonic = "demand scrap file oak scale primary punch convince deputy supply deny junior";

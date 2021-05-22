@@ -1,1 +1,1 @@
-var mnemonic = "correct economy speed license busy suffer stand typical picnic dawn grape crack";
+var mnemonic = "message ginger donkey ball rigid spin renew owner three path february manual";

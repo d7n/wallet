@@ -1,1 +1,1 @@
-var mnemonic = "worth ill donkey galaxy unveil update captain fog pact frozen weekend cheese";
+var mnemonic = "lion hood artefact gym shrug stem canoe riot nature ugly mimic boil";

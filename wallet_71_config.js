@@ -1,1 +1,1 @@
-var mnemonic = "taste select indicate want admit balcony imitate token interest peanut book order";
+var mnemonic = "meadow elevator ugly wire galaxy merry repeat honey dress horn village cycle";

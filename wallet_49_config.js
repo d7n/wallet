@@ -1,1 +1,1 @@
-var mnemonic = "web script skirt exotic exit vital swim stage column trap useless sport";
+var mnemonic = "tomato inflict enhance double shell half addict desert amused hungry oppose unfair";

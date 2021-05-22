@@ -1,1 +1,1 @@
-var mnemonic = "end twist screen rely pretty idle poverty truck stick age asthma lizard";
+var mnemonic = "jazz another shiver together rescue discover cricket forest teach grocery cram position";

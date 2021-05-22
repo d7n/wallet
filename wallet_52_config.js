@@ -1,1 +1,1 @@
-var mnemonic = "soldier pattern traffic bonus truth breeze immune sell vendor empower art fabric";
+var mnemonic = "mouse atom rhythm copper hurry choose cake cook senior wide pull remind";
