@@ -1,1 +1,1 @@
-var mnemonic = "force spoon atom sick day antenna media cute rent merge warm country";
+var mnemonic = "echo version mule zero nephew short good genuine source spare purpose bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "snow custom pass narrow warm tennis garbage volcano clutch hover myth bike";
+var mnemonic = "season monster inject bracket capital ready saddle vault edge high resemble choose";

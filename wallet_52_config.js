@@ -1,1 +1,1 @@
-var mnemonic = "autumn tilt question enact neither accident floor arrive burger crawl sadness deny";
+var mnemonic = "latin kangaroo life saddle sea fury real tube toy fun satisfy bag";

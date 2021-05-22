@@ -1,1 +1,1 @@
-var mnemonic = "proof caught urge tag crane glory drastic normal kind atom vanish game";
+var mnemonic = "rain insane prefer lens gallery forget what unfair execute entire series nurse";

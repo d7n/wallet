@@ -1,1 +1,1 @@
-var mnemonic = "tongue fog over maid attitude squeeze antique fortune cousin acoustic power few";
+var mnemonic = "weekend tent govern expect wall chaos actual anchor hundred response thumb ahead";

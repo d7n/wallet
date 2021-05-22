@@ -1,1 +1,1 @@
-var mnemonic = "bomb shoot silk carbon table tide craft muscle engine stage ring right";
+var mnemonic = "early rug innocent sad above stuff about fortune inject symbol skill nasty";

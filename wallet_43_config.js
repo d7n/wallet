@@ -1,1 +1,1 @@
-var mnemonic = "coach nominee depart mind regular guitar group secret action praise kitten disorder";
+var mnemonic = "wet fancy denial solar tooth layer conduct length barrel notice slim dinosaur";

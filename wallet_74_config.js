@@ -1,1 +1,1 @@
-var mnemonic = "announce report stone cherry rubber camp scheme carpet violin peace elevator man";
+var mnemonic = "subject clerk pilot melt day faculty witness bubble blood critic bag manual";

@@ -1,1 +1,1 @@
-var mnemonic = "limb inject craft visit response door combine siren sadness bench image predict";
+var mnemonic = "merge clean shift decade sniff village margin alpha decide square bacon various";

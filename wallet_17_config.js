@@ -1,1 +1,1 @@
-var mnemonic = "sunny best guess owner exact topic alpha neck peasant town amateur amazing";
+var mnemonic = "gown control imitate spice speak delay again decrease visual cliff pioneer energy";

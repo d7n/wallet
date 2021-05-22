@@ -1,1 +1,1 @@
-var mnemonic = "couch trick prison blind soldier various december flight knife mango scrub puzzle";
+var mnemonic = "ketchup fine hedgehog merit dial small blur still flavor salmon comic night";

@@ -1,1 +1,1 @@
-var mnemonic = "flight abandon ride renew hundred outer bean current nuclear spread gaze amused";
+var mnemonic = "sister summer message birth ranch arctic visual toss plate code family end";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom snake enroll just grief frame joy owner aerobic shell such dress";
+var mnemonic = "save aim emerge swallow ticket reject program tongue void army key holiday";

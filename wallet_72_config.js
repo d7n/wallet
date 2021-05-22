@@ -1,1 +1,1 @@
-var mnemonic = "lunar broom crush peasant tooth phone minimum nothing avoid resist text combine";
+var mnemonic = "comic million lawsuit describe artefact omit swarm gentle until round know clinic";

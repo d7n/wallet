@@ -1,1 +1,1 @@
-var mnemonic = "lazy bundle month remember easily lucky forget document mystery orange usual can";
+var mnemonic = "process razor hold slice voyage axis glide until hurry sense blush retreat";

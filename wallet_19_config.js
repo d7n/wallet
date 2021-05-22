@@ -1,1 +1,1 @@
-var mnemonic = "avoid urge canyon tree limit ancient author banner topple broom silent nuclear";
+var mnemonic = "theme matter melody pen yellow tissue rather deputy plate manual sail arena";

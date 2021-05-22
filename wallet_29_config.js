@@ -1,1 +1,1 @@
-var mnemonic = "chimney horror suspect labor cancel salon bitter uncle daughter ignore alarm fork";
+var mnemonic = "snap source tissue aerobic day pair special help return blame basket draft";

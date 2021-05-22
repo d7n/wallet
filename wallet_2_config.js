@@ -1,1 +1,1 @@
-var mnemonic = "boss scheme fog forget morning broom where crazy use kangaroo margin board";
+var mnemonic = "atom grab jeans bright unlock divorce found present eagle suspect width shell";

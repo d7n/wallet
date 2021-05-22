@@ -1,1 +1,1 @@
-var mnemonic = "muscle ecology frame attract toilet top quantum same define drastic dirt reward";
+var mnemonic = "boss tonight alpha reason install add bracket faint lizard choose segment senior";

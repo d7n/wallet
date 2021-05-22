@@ -1,1 +1,1 @@
-var mnemonic = "fiscal monster nature group excess mobile legal try diet search call combine";
+var mnemonic = "truth reunion code crater cupboard celery shine choice torch range mix join";

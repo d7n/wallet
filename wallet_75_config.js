@@ -1,1 +1,1 @@
-var mnemonic = "device acoustic figure beauty leopard doll clarify wolf affair calm above blood";
+var mnemonic = "process account menu clog cart husband mobile universe inner burden stock ignore";

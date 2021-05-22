@@ -1,1 +1,1 @@
-var mnemonic = "team code quit burger pear old garlic pole romance belt order table";
+var mnemonic = "magic beef begin drum praise pony tongue swim explain endorse muscle power";

@@ -1,1 +1,1 @@
-var mnemonic = "shove frequent onion shift shove strong also carry purse sentence comic settle";
+var mnemonic = "key oil chef voyage menu leader snack garden auto hour visit taxi";

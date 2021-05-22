@@ -1,1 +1,1 @@
-var mnemonic = "orange useful evoke collect urban chicken country reward person yard update surge";
+var mnemonic = "entire hazard october pepper holiday slight position crazy match joy knife document";

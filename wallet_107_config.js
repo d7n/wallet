@@ -1,1 +1,1 @@
-var mnemonic = "clay cream giraffe milk milk dentist suspect bridge creek fat rather gorilla";
+var mnemonic = "loyal soccer female barrel crack mushroom loan pink harsh oyster goose clump";

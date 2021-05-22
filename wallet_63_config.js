@@ -1,1 +1,1 @@
-var mnemonic = "exclude resemble differ mobile swear trumpet loan awful cruel mushroom original present";
+var mnemonic = "desert click across cupboard ordinary push marble similar census gorilla color autumn";

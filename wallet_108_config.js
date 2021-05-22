@@ -1,1 +1,1 @@
-var mnemonic = "catalog anchor void wrestle citizen stool enlist faculty afraid symptom undo sugar";
+var mnemonic = "ice woman glue chapter ecology magnet dinosaur journey put skill middle live";

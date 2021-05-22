@@ -1,1 +1,1 @@
-var mnemonic = "width theme practice broom penalty enemy tornado when razor link exact drip";
+var mnemonic = "unusual awake chimney engine impact trend monster balance differ foster night tornado";

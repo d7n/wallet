@@ -1,1 +1,1 @@
-var mnemonic = "churn index response onion calm jar panic super wide bottom fade behind";
+var mnemonic = "fall ancient enemy glory session pair flee next erase clock embody sponsor";

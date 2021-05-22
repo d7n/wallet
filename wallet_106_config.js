@@ -1,1 +1,1 @@
-var mnemonic = "survey dragon column raise swallow have balcony enter rice side popular artwork";
+var mnemonic = "van deposit lamp pair pact uphold mimic method prosper client ring cat";

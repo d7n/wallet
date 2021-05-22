@@ -1,1 +1,1 @@
-var mnemonic = "van property assist hurdle victory later together ten test chicken derive topic";
+var mnemonic = "list view gossip radio hobby aspect chuckle nuclear excuse senior broom tiger";

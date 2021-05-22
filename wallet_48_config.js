@@ -1,1 +1,1 @@
-var mnemonic = "diet domain gym circle aware two filter scout chapter roof neck order";
+var mnemonic = "verb wedding ignore typical broken kite noble just elegant throw avocado blast";

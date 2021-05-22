@@ -1,1 +1,1 @@
-var mnemonic = "update remain clock build middle disagree sunny leader weird random proud chimney";
+var mnemonic = "gasp model goose season kiwi acquire nest coyote catch quarter bleak food";

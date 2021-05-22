@@ -1,1 +1,1 @@
-var mnemonic = "era rifle worth mixture cherry mammal work spell suspect weather stumble excess";
+var mnemonic = "expose raccoon cousin rely smile canal can axis pair describe loud bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "library random tank soul rug ability response uphold female affair actual dash";
+var mnemonic = "siren improve fragile link ranch sound stage outdoor shiver empty drastic provide";

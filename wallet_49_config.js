@@ -1,1 +1,1 @@
-var mnemonic = "enable essence dinner desk sunset hello deer icon edge grace river cement";
+var mnemonic = "forum scale must cave stereo glare member head wrong shrug profit direct";

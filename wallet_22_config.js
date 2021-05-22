@@ -1,1 +1,1 @@
-var mnemonic = "unhappy thought inside vessel expose powder unlock finish citizen print one loyal";
+var mnemonic = "city shine near tree captain clarify truly myth awesome month gentle arrest";

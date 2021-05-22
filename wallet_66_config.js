@@ -1,1 +1,1 @@
-var mnemonic = "use close enact ice mosquito minor dice ketchup gallery amount orphan vocal";
+var mnemonic = "machine inside kitchen half wrap second plate spider hunt habit puppy chicken";

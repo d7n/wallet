@@ -1,1 +1,1 @@
-var mnemonic = "giant coyote weekend gossip true more fantasy moment dirt inherit van admit";
+var mnemonic = "eye spot cinnamon rotate rocket core turtle pelican strong renew disorder crane";

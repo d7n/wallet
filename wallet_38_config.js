@@ -1,1 +1,1 @@
-var mnemonic = "foot exhibit trophy stone grass alert flight urge maid cannon program list";
+var mnemonic = "glimpse sock swear devote advice thumb asset original faint jealous clarify near";

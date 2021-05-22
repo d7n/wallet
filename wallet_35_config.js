@@ -1,1 +1,1 @@
-var mnemonic = "harbor garage run tank valley secret soft tired service come latin share";
+var mnemonic = "boy menu world dream clutch moral shuffle point satoshi festival genre shiver";

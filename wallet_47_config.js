@@ -1,1 +1,1 @@
-var mnemonic = "apart donate destroy anxiety current benefit pond panic gorilla speak unknown awkward";
+var mnemonic = "old leave actual cloud develop piano famous sea kick myself skill elite";

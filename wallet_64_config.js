@@ -1,1 +1,1 @@
-var mnemonic = "ceiling mask isolate excuse quiz invite trash clinic half spot bless soul";
+var mnemonic = "immense crash mix provide wall text inside chronic clerk tip ostrich someone";

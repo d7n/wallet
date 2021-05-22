@@ -1,1 +1,1 @@
-var mnemonic = "armor attack hand survey giant idea plunge visa excess anger price group";
+var mnemonic = "fade chef expand anxiety decline kid this rival hour around fence sea";

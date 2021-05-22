@@ -1,1 +1,1 @@
-var mnemonic = "armed novel cloud fence open cake lumber bean primary lens equal piece";
+var mnemonic = "text man struggle polar swim menu brave mandate bracket develop arch exit";

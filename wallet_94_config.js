@@ -1,1 +1,1 @@
-var mnemonic = "insect close legend cousin expect again enable lyrics express camp word major";
+var mnemonic = "belt clean patient sudden chair light trial always render duck depend trust";

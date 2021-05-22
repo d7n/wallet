@@ -1,1 +1,1 @@
-var mnemonic = "stay camera web hip keep season gadget wisdom mind museum moon obtain";
+var mnemonic = "special rain color document own age room coffee manual dress electric trade";

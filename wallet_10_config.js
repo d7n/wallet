@@ -1,1 +1,1 @@
-var mnemonic = "mail wife size oak unique seminar settle number bread pact bullet avoid";
+var mnemonic = "dutch language neck young mango similar pilot energy security wealth absurd renew";

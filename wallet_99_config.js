@@ -1,1 +1,1 @@
-var mnemonic = "giant neglect desk hotel trend orchard armed stadium citizen seek curve assume";
+var mnemonic = "embark beauty expand disorder pact slight wash match amused antenna dust tonight";

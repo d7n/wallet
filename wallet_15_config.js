@@ -1,1 +1,1 @@
-var mnemonic = "vivid swallow small afford midnight robot trade subject sphere volume tell improve";
+var mnemonic = "about buyer parent news collect track fluid fat zoo allow sunny chief";

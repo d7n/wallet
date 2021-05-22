@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog chronic rich brown pulse news orange laugh notable butter merry chase";
+var mnemonic = "become hotel still wonder divorce leg firm account word logic author timber";

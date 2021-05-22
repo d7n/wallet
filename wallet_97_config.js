@@ -1,1 +1,1 @@
-var mnemonic = "reward mind large defy struggle category tilt neutral phone camera inspire ladder";
+var mnemonic = "bitter wrestle symbol wave cart creek awake road cruel diamond candy spring";

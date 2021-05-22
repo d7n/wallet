@@ -1,1 +1,1 @@
-var mnemonic = "game napkin tide decrease globe people try swear flag column size truth";
+var mnemonic = "whip grit wheat under movie frown mail fox jacket vanish canyon injury";

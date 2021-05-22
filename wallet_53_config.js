@@ -1,1 +1,1 @@
-var mnemonic = "catch swamp imitate bundle cloth message doll swap ancient stuff security coil";
+var mnemonic = "depth street acid laugh life impact believe describe garlic tomorrow cable banana";

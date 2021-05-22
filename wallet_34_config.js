@@ -1,1 +1,1 @@
-var mnemonic = "snow wall dust maximum tomato carpet behind merit spirit aware flip minimum";
+var mnemonic = "pulp axis worth strike fatigue burger traffic devote buffalo across year impose";

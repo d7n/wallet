@@ -1,1 +1,1 @@
-var mnemonic = "minimum bid resemble liar danger network hungry march coin actress fashion route";
+var mnemonic = "more virus museum mutual kangaroo clump security market person lady tribe arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "hair funny spice jaguar artist slab theory banana diamond hundred over age";
+var mnemonic = "stay grit cancel ship game crack nation perfect hurt tag alarm weasel";

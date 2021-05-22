@@ -1,1 +1,1 @@
-var mnemonic = "half step wool repair butter breeze wood mother frozen secret fame course";
+var mnemonic = "gap kingdom lumber bitter purpose humor expire slam soon federal sure material";

@@ -1,1 +1,1 @@
-var mnemonic = "wall pudding kingdom someone foam glance abuse palm ankle solar lesson network";
+var mnemonic = "credit pave dial guilt pyramid before bargain fancy flash carpet badge grow";

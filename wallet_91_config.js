@@ -1,1 +1,1 @@
-var mnemonic = "major punch payment name friend invest length faculty certain cream volume sad";
+var mnemonic = "coffee human offer artist puppy copy pass hammer purchase flush gallery abandon";

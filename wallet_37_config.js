@@ -1,1 +1,1 @@
-var mnemonic = "sleep hard cancel slide high grow neither gain picture divide jelly body";
+var mnemonic = "price top horse dad uncover ghost brass carry polar ignore present small";

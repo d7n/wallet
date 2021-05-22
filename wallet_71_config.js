@@ -1,1 +1,1 @@
-var mnemonic = "fame month dress snack palace embrace abstract copy surprise welcome fat mechanic";
+var mnemonic = "before wasp cycle fruit thing express spread method warfare offer light april";

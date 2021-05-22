@@ -1,1 +1,1 @@
-var mnemonic = "merge offer dance shaft broom divorce choice carbon jar tornado illegal impose";
+var mnemonic = "cruise denial divide crumble away wine early ability host solve estate school";

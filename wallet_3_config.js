@@ -1,1 +1,1 @@
-var mnemonic = "mutual stone brown life blind caught enrich awful split alpha warrior mimic";
+var mnemonic = "gaze differ pelican uncover bundle rail album blossom media poem brush surge";

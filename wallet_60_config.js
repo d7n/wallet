@@ -1,1 +1,1 @@
-var mnemonic = "table dignity latin bar mask during act upon tooth flag earn betray";
+var mnemonic = "chicken indoor wonder orbit light quantum defense glory doctor lottery acquire empower";

@@ -1,1 +1,1 @@
-var mnemonic = "weird great prefer struggle castle saddle all bread timber rebuild mix vibrant";
+var mnemonic = "inch ripple aisle welcome response rely laptop gallery stuff poet employ deal";

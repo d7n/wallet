@@ -1,1 +1,1 @@
-var mnemonic = "monster suffer alert cheese old fiber swamp magic flat pony treat pattern";
+var mnemonic = "gown perfect predict puppy oyster gasp final kick pole sense prepare valley";

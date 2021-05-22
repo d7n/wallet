@@ -1,1 +1,1 @@
-var mnemonic = "diary strategy hazard metal aunt tourist silk divide engine insect castle glad";
+var mnemonic = "echo desert diary six smart minimum sugar fiber shallow bullet naive dish";

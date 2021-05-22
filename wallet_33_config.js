@@ -1,1 +1,1 @@
-var mnemonic = "tobacco cup brain early brief actual select joke script tag despair option";
+var mnemonic = "garden drive plug analyst remind infant rib first supreme firm fat board";

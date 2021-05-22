@@ -1,1 +1,1 @@
-var mnemonic = "truly glad rescue jelly march canoe chaos decide spirit mention boring false";
+var mnemonic = "window disease funny credit coffee kid bleak unlock remain bright area kite";

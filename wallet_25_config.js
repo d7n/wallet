@@ -1,1 +1,1 @@
-var mnemonic = "error winter pole improve donor almost worry tired west corn boss save";
+var mnemonic = "install wink emotion egg artwork pause approve bread super dish vacant powder";

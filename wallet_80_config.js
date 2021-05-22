@@ -1,1 +1,1 @@
-var mnemonic = "debate reward tent wave leg guess reject west hero foster forward swear";
+var mnemonic = "order limit seminar hill great domain top unhappy kite churn toward this";

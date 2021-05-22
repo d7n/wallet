@@ -1,1 +1,1 @@
-var mnemonic = "sword spot orphan artefact aware syrup hobby chronic sibling embrace tomorrow garage";
+var mnemonic = "lumber furnace wrap liquid setup popular hockey search saddle duty license night";

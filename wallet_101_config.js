@@ -1,1 +1,1 @@
-var mnemonic = "shallow document alter coffee drift oil upper glad toast tape island fever";
+var mnemonic = "busy edit rich season suffer genre oppose fatigue trap reward hurry deputy";

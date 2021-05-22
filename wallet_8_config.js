@@ -1,1 +1,1 @@
-var mnemonic = "junior elbow siren neck valid quick reduce excuse super exclude kingdom symptom";
+var mnemonic = "tomato tide rely siege blossom habit biology because identify wish panther lumber";

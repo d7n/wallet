@@ -1,1 +1,1 @@
-var mnemonic = "oyster shaft raven tuition seed owner brand jazz girl fuel ensure image";
+var mnemonic = "fold behave weird easy spirit catch recall interest flash spin camp lawsuit";

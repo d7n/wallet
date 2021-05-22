@@ -1,1 +1,1 @@
-var mnemonic = "identify battle clown jealous always lyrics gown cricket runway minimum august river";
+var mnemonic = "square leisure regret theory indicate degree cook slam twenty issue supply scissors";

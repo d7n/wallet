@@ -1,1 +1,1 @@
-var mnemonic = "few robust orchard idea stem index marriage emerge profit muscle lens ripple";
+var mnemonic = "become garment scan siege switch during chimney arrange fox crisp enrich goose";

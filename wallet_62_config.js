@@ -1,1 +1,1 @@
-var mnemonic = "elephant oblige critic source insect first believe betray movie fork coral marble";
+var mnemonic = "various deal lady dad vendor until object release thank skin enjoy senior";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet owner estate prize outdoor detail seven sea salt fresh satisfy tragic";
+var mnemonic = "salad antique august pudding pitch stock voyage laugh infant blast indoor tenant";

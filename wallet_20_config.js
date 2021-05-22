@@ -1,1 +1,1 @@
-var mnemonic = "echo network install dust casual monster staff arrow busy wave mercy broken";
+var mnemonic = "before tooth near cupboard flock spend tourist metal churn bike agree mouse";

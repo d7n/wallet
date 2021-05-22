@@ -1,1 +1,1 @@
-var mnemonic = "inspire february egg grief raise absorb absorb inflict major legend sibling choose";
+var mnemonic = "friend rebel siege property recipe purpose execute still soon cool pyramid ghost";

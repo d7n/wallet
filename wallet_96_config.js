@@ -1,1 +1,1 @@
-var mnemonic = "erupt know twice potato across sleep cute else slide unlock maze jungle";
+var mnemonic = "cotton spray addict first cheap bamboo wealth vital motion deputy merry brand";

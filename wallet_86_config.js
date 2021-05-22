@@ -1,1 +1,1 @@
-var mnemonic = "rack dance brand laugh dune until six strike rare coconut burst breeze";
+var mnemonic = "one tornado task remove boy garage hover member solid describe transfer flock";

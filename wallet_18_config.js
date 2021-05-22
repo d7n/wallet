@@ -1,1 +1,1 @@
-var mnemonic = "test garden resemble fluid tackle method fat seat antenna walk perfect neglect";
+var mnemonic = "scene learn document maximum material ride bachelor comfort quarter inspire purse certain";

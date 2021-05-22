@@ -1,1 +1,1 @@
-var mnemonic = "shoulder nice junk you alarm labor theory hip tortoise music upset ready";
+var mnemonic = "humble kiss atom soul letter position alpha toy surface egg army prepare";
