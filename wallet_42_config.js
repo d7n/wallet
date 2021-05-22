@@ -1,1 +1,1 @@
-var mnemonic = "gauge tiger cream relax bike clump ocean cry region surprise blouse evil";
+var mnemonic = "cage anxiety erosion maze waste elite option file umbrella crane toddler private";

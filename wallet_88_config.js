@@ -1,1 +1,1 @@
-var mnemonic = "dismiss tissue slam runway true tail excite unit farm oak unfair valley";
+var mnemonic = "loud token tide wine because teach transfer junk exchange spare never elite";

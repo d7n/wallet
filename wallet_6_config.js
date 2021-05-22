@@ -1,1 +1,1 @@
-var mnemonic = "abstract myself city letter affair glide priority service tourist chief dove shed";
+var mnemonic = "mandate history spider luxury upper measure quarter permit turn dad whip radio";

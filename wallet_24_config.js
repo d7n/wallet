@@ -1,1 +1,1 @@
-var mnemonic = "clip effort coil toy sibling grit robot shop cupboard print happy strike";
+var mnemonic = "soft gas angry plunge stock museum vital later imitate shoot tuition horse";

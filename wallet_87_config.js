@@ -1,1 +1,1 @@
-var mnemonic = "erosion salt save boil tree glass radio girl response destroy candy broom";
+var mnemonic = "cloud thrive beef often rare silly sketch essay unlock guess purchase august";

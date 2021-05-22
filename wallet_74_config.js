@@ -1,1 +1,1 @@
-var mnemonic = "define enter uncle brain float crane venue reform roof walk blame shuffle";
+var mnemonic = "gloom cause seminar grace tilt dynamic crazy weekend limit direct gospel attract";

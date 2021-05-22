@@ -1,1 +1,1 @@
-var mnemonic = "marble police response change laugh year day view wing wreck parrot silly";
+var mnemonic = "glide middle word oblige grocery illegal punch trim merge segment release vicious";

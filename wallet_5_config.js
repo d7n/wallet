@@ -1,1 +1,1 @@
-var mnemonic = "thumb device combine slender pull feed explain chat soap lottery excess polar";
+var mnemonic = "inhale eager mix immune major custom crew gas vapor exhaust frog army";

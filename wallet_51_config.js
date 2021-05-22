@@ -1,1 +1,1 @@
-var mnemonic = "salute weather end table echo sustain giraffe iron wonder zero beyond enroll";
+var mnemonic = "tree smart side lock humor broccoli smooth mad neck dilemma lumber cruise";

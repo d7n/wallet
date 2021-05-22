@@ -1,1 +1,1 @@
-var mnemonic = "runway forget case fade same draft rebel truly priority gossip wrestle sketch";
+var mnemonic = "area shield valley actor explain express direct vital noise sadness brass tag";

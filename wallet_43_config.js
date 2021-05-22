@@ -1,1 +1,1 @@
-var mnemonic = "pony pilot inquiry marble column exchange usage broccoli reunion six tone paper";
+var mnemonic = "vessel blood blind jeans catch word inquiry dial inhale leisure act company";

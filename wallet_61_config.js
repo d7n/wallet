@@ -1,1 +1,1 @@
-var mnemonic = "silver wealth volcano offer catch total retreat change detect urge zone grace";
+var mnemonic = "abstract hire pet relax isolate stumble silly penalty length sketch music oyster";

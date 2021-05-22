@@ -1,1 +1,1 @@
-var mnemonic = "remind fragile hospital same afraid gesture swift outside shield forum security swallow";
+var mnemonic = "grit movie comfort kick stone erupt side usual argue legend enact planet";

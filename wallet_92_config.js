@@ -1,1 +1,1 @@
-var mnemonic = "sphere uncle below point action motion mobile alien lava price guitar attend";
+var mnemonic = "borrow easy cancel heart recycle broccoli design unfair lawn give soul father";

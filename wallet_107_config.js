@@ -1,1 +1,1 @@
-var mnemonic = "kitten paper couch mimic priority soft vote prison hen spell ready behind";
+var mnemonic = "whip check badge scheme estate teach skill gloom drill leave satoshi aerobic";

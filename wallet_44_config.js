@@ -1,1 +1,1 @@
-var mnemonic = "wood shrimp bundle phone region worry alpha manual whale piano present verify";
+var mnemonic = "airport exclude guilt machine tiny ethics speak leave upon diamond they dragon";

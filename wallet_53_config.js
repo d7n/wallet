@@ -1,1 +1,1 @@
-var mnemonic = "survey suit garlic bacon run twist cube opinion vehicle fantasy royal body";
+var mnemonic = "congress mechanic lift amateur present rookie advance leave trap fiction obscure awake";

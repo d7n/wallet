@@ -1,1 +1,1 @@
-var mnemonic = "hamster senior rifle virus cannon sign myth invite gate usual relief arm";
+var mnemonic = "venue eye have accuse lyrics cycle game connect farm spoon admit cart";

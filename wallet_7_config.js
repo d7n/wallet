@@ -1,1 +1,1 @@
-var mnemonic = "hood borrow original project road wood sand sweet screen case vessel cherry";
+var mnemonic = "crew hybrid jealous wool order drive solution enrich snake develop mammal bonus";

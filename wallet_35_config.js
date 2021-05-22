@@ -1,1 +1,1 @@
-var mnemonic = "lift mirror shed spell trigger avoid milk abstract write tape neck guess";
+var mnemonic = "inspire museum turn motor lock emotion defense swift physical fork cheap slide";

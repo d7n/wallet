@@ -1,1 +1,1 @@
-var mnemonic = "party country cupboard genius creek elevator usual pottery syrup step enrich fire";
+var mnemonic = "reform drink ordinary health desk must hotel wonder canal cage setup ball";

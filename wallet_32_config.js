@@ -1,1 +1,1 @@
-var mnemonic = "crime copy fly mouse cluster write captain nation cricket only easy certain";
+var mnemonic = "ankle apple dizzy attitude liberty blur cotton leaf tree minute faculty card";

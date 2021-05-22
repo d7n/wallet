@@ -1,1 +1,1 @@
-var mnemonic = "anger diamond vintage lion scissors tunnel banner panther subject blouse answer hire";
+var mnemonic = "ancient own cabin awake tired genre attack tourist door december tired loud";

@@ -1,1 +1,1 @@
-var mnemonic = "walk boring matter usual alien chalk frown short visa monitor chapter tide";
+var mnemonic = "crush lift coach gesture animal blur entire open enroll brick vast loop";

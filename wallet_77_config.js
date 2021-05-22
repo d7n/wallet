@@ -1,1 +1,1 @@
-var mnemonic = "monitor man scan stairs slush frown raw celery movie neutral earn decide";
+var mnemonic = "dawn dragon umbrella egg eager auction onion team rifle brick jar glimpse";

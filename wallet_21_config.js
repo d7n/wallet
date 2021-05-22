@@ -1,1 +1,1 @@
-var mnemonic = "since multiply inject fall alley wise oil muscle solid traffic genre season";
+var mnemonic = "square nominee parade hunt thing cloth disagree reform budget dinosaur great engage";

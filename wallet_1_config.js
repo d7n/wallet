@@ -1,1 +1,1 @@
-var mnemonic = "endless discover arrest direct divorce fortune buffalo improve used weapon wheel sister";
+var mnemonic = "issue sport circle universe soup volcano essay market fence cave solar pole";

@@ -1,1 +1,1 @@
-var mnemonic = "cram goose tone among sugar razor romance ride million exile letter unhappy";
+var mnemonic = "believe trim level avocado love flip pluck over benefit refuse feed black";

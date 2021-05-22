@@ -1,1 +1,1 @@
-var mnemonic = "canyon copper capable lava glad theory rent broccoli mom clarify vast accident";
+var mnemonic = "rifle wide source because skin install science remain moral general eager reject";

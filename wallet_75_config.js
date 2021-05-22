@@ -1,1 +1,1 @@
-var mnemonic = "visa crater siege banner twin inch hungry such soccer huge employ cash";
+var mnemonic = "grief oil fit tattoo ocean okay such someone wasp cup prison rude";

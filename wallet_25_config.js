@@ -1,1 +1,1 @@
-var mnemonic = "cushion unlock student craft small excess what stick present indicate scissors addict";
+var mnemonic = "scatter cruise change term notice manual effort tackle embrace donate rubber jacket";

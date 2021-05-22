@@ -1,1 +1,1 @@
-var mnemonic = "village beef around flush program husband enable ostrich throw judge frequent arrive";
+var mnemonic = "evoke clock lock narrow funny resist sea vacuum clean load logic bar";

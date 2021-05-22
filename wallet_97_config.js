@@ -1,1 +1,1 @@
-var mnemonic = "path fee core oblige wet any release run replace chat drive train";
+var mnemonic = "lawn endorse cross pair claw hill sense piano sausage avocado dirt author";

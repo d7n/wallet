@@ -1,1 +1,1 @@
-var mnemonic = "betray humor moral sing merge select myself street huge curve seven young";
+var mnemonic = "trust prison image later glow dignity race filter electric kitchen lady outdoor";

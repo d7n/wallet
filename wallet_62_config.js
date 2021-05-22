@@ -1,1 +1,1 @@
-var mnemonic = "party badge upset noble assume rhythm price code middle dream sense skirt";
+var mnemonic = "cage castle cost danger tongue exhaust symbol change coconut rigid ridge wish";

@@ -1,1 +1,1 @@
-var mnemonic = "must rely judge maze argue fiber girl vast vessel ethics solve upset";
+var mnemonic = "stem fetch great window south gate ethics magnet hero risk marble oblige";

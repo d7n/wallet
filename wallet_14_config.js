@@ -1,1 +1,1 @@
-var mnemonic = "strong dance negative hill oblige science pig glove inch prison actress brass";
+var mnemonic = "satisfy creek impulse find age music ordinary select omit pigeon deny sheriff";

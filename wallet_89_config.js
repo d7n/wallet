@@ -1,1 +1,1 @@
-var mnemonic = "enrich virus olive coral crucial neutral acid forward survey zone beyond vast";
+var mnemonic = "know twice humor hen burden pause message tool movie blouse disorder zoo";

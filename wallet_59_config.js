@@ -1,1 +1,1 @@
-var mnemonic = "marine typical please giggle size disorder pilot enough chef essay drill mention";
+var mnemonic = "hope odor lumber sell quit follow few dawn awesome fruit evidence lend";

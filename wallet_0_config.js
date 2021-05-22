@@ -1,1 +1,1 @@
-var mnemonic = "attract upgrade puppy dream mobile sport jungle abstract ocean glue you stage";
+var mnemonic = "cave tube kitchen person elite clip mushroom town oyster sad solve imitate";

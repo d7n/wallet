@@ -1,1 +1,1 @@
-var mnemonic = "engine pulp moment unlock assist large crash escape beach angle zone resemble";
+var mnemonic = "magic purity judge process purchase fan protect abuse involve staff indoor wealth";

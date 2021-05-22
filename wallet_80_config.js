@@ -1,1 +1,1 @@
-var mnemonic = "same trash blossom edge social swallow liquid float warrior sort current mammal";
+var mnemonic = "mask test verify south steak reduce wasp hamster boy size network benefit";

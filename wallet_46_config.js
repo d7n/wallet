@@ -1,1 +1,1 @@
-var mnemonic = "toilet obey answer dizzy replace grid diary urge quick grape result member";
+var mnemonic = "under wreck option tape robust area cook crack exhibit mesh east improve";

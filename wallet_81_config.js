@@ -1,1 +1,1 @@
-var mnemonic = "enact fantasy reveal custom stand first private dinosaur unfair salmon gauge whale";
+var mnemonic = "like senior void evolve found person grass domain anger mercy share tongue";

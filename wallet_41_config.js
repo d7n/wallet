@@ -1,1 +1,1 @@
-var mnemonic = "school cargo worry senior day high still limb all bar thrive orient";
+var mnemonic = "maze cycle buzz system level reduce avocado forget squeeze canyon country note";

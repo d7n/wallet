@@ -1,1 +1,1 @@
-var mnemonic = "salmon hidden aspect cheap slim library boost jazz grit strong floor disorder";
+var mnemonic = "split little trouble join venture fragile junior obvious filter often panic gown";

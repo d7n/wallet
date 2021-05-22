@@ -1,1 +1,1 @@
-var mnemonic = "phone medal hobby cook mention rude kid coconut jeans rhythm frame genuine";
+var mnemonic = "immune satisfy reform coyote quick chimney credit high pond slam guess kite";

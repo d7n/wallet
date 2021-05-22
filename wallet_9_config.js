@@ -1,1 +1,1 @@
-var mnemonic = "hundred gauge pudding merge sing clinic few response move movie convince inner";
+var mnemonic = "rich garment negative maximum skull tip used ranch six motor swift entry";

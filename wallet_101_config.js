@@ -1,1 +1,1 @@
-var mnemonic = "panel final decorate equip device bitter street shed shield reopen pull leg";
+var mnemonic = "chief cabin acoustic foil weasel more involve lunch question antique camera essay";

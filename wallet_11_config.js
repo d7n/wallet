@@ -1,1 +1,1 @@
-var mnemonic = "hill city wolf any oil stumble awful soda horse olympic genuine smart";
+var mnemonic = "range dad voyage require raven position celery trip pigeon toilet depth road";

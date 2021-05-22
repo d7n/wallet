@@ -1,1 +1,1 @@
-var mnemonic = "baby believe armed text only grace magic hollow call fall silk sketch";
+var mnemonic = "gravity select snack miss position follow awful divide enhance index unknown gather";

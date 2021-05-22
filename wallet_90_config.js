@@ -1,1 +1,1 @@
-var mnemonic = "wolf ridge human talent oak future ability topic doll misery journey recipe";
+var mnemonic = "where immune staff logic chase gentle train steel deer secret same eagle";

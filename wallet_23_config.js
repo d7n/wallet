@@ -1,1 +1,1 @@
-var mnemonic = "rifle office rebel sound else invite extra deputy critic swarm rifle insect";
+var mnemonic = "cancel cement mansion now forum sentence subway tree travel regular fan volcano";

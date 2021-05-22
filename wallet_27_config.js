@@ -1,1 +1,1 @@
-var mnemonic = "senior more purpose lunar clerk mother fiscal taxi wrap eternal lonely actress";
+var mnemonic = "ostrich sell collect idea wear grape annual correct squeeze slice advice zone";

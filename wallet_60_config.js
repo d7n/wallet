@@ -1,1 +1,1 @@
-var mnemonic = "finish whale more relax unfair sentence replace feel drink spray donate person";
+var mnemonic = "mandate year baby erosion soup pig jeans loan whip obey system include";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight toy year boy sustain educate frame clean field bid dirt limit";
+var mnemonic = "bunker album refuse winner cabin vast dynamic engage tissue arrest silver source";

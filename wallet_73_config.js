@@ -1,1 +1,1 @@
-var mnemonic = "search found glance ready day spare below couple promote rocket click copy";
+var mnemonic = "barely voice frequent loud hill sample sad accuse pioneer bitter radio neither";

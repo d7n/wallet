@@ -1,1 +1,1 @@
-var mnemonic = "valley trophy fame rare gospel alter catch ordinary employ virtual worry laptop";
+var mnemonic = "master planet grunt alcohol reopen solve bus lift around need adjust believe";

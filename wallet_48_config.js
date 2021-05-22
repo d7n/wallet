@@ -1,1 +1,1 @@
-var mnemonic = "middle twenty sail cluster chimney shoulder finish fix police awful soldier exercise";
+var mnemonic = "rely drink crush name summer luggage holiday athlete pink eager label stock";

@@ -1,1 +1,1 @@
-var mnemonic = "behind habit program security october middle soon entire shield seven purse float";
+var mnemonic = "dish cement chef sure funny alarm high furnace embrace firm refuse fix";

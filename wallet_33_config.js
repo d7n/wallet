@@ -1,1 +1,1 @@
-var mnemonic = "south typical slide method bundle furnace phrase multiply eagle engage region coil";
+var mnemonic = "invest raw exclude taxi shell fly iron seat lunar student pumpkin other";

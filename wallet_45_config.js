@@ -1,1 +1,1 @@
-var mnemonic = "velvet remind ignore circle custom gym steel link garage arch exercise erode";
+var mnemonic = "warfare model print story provide polar piano result amazing shy quarter tell";

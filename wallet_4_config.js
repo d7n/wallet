@@ -1,1 +1,1 @@
-var mnemonic = "menu forward urban empty clean leopard merry crack visual success tuna bag";
+var mnemonic = "inquiry black multiply movie nephew price trust sphere invest best sign model";

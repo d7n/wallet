@@ -1,1 +1,1 @@
-var mnemonic = "palm laptop moment inspire cry spin blouse brief flower business bridge decline";
+var mnemonic = "marble culture captain romance twice fantasy elegant give neither suspect venture region";

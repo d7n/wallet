@@ -1,1 +1,1 @@
-var mnemonic = "achieve arctic inflict nurse biology spike pact flight hard bless warm relax";
+var mnemonic = "tourist vacuum secret maze fish govern embrace valley solution wisdom bid village";

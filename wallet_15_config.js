@@ -1,1 +1,1 @@
-var mnemonic = "copy raise cattle disagree language tree that auto gun exit visit tell";
+var mnemonic = "analyst chronic slot nest flame conduct enroll arrive cotton gas inflict monster";

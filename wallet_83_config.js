@@ -1,1 +1,1 @@
-var mnemonic = "hurry travel ostrich monitor spatial novel debris onion master olive company write";
+var mnemonic = "describe okay uncle collect myself cattle stand client frost color trend pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "into slogan risk oppose glad idea element honey mesh panther heart review";
+var mnemonic = "hint junior write element defy fame fortune future staff faculty target blame";

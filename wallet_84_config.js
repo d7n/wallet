@@ -1,1 +1,1 @@
-var mnemonic = "unfair morning above fatigue drift anchor private inspire wedding sword green rich";
+var mnemonic = "mutual craft execute frame easy jewel infant mosquito income cruise guitar fade";

@@ -1,1 +1,1 @@
-var mnemonic = "match silly impose search turkey coast cream wheat group jump pig family";
+var mnemonic = "grow forward upset phrase agent stereo shoe acquire main fan jungle actress";

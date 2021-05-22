@@ -1,1 +1,1 @@
-var mnemonic = "bridge tourist casino rug squirrel crane okay century work warfare butter bounce";
+var mnemonic = "animal train clown genre flame return bronze trim sand seed cluster victory";

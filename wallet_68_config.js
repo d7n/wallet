@@ -1,1 +1,1 @@
-var mnemonic = "invest kidney child crater recycle spare reason kid scheme candy utility vault";
+var mnemonic = "okay repair ecology omit crystal gentle typical duck topic state skate hurry";

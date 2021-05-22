@@ -1,1 +1,1 @@
-var mnemonic = "artefact fall abstract fold empty process advice decrease scorpion rubber maximum behind";
+var mnemonic = "horse during beef enlist sort blanket wool taxi recall fiber fitness purpose";

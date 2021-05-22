@@ -1,1 +1,1 @@
-var mnemonic = "search garage side draft review service joke penalty pink praise silk hover";
+var mnemonic = "ordinary elephant december situate elder push orchard found sample void leaf rib";

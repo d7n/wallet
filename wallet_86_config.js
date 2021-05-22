@@ -1,1 +1,1 @@
-var mnemonic = "pencil ready suspect ghost trust initial peanut bamboo air pelican open regular";
+var mnemonic = "small attitude feature idle cargo piece food exchange slender tuition capital auto";

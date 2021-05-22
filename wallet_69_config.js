@@ -1,1 +1,1 @@
-var mnemonic = "cradle sauce sort west abstract project teach grain bacon hungry include fault";
+var mnemonic = "october mechanic shove blossom tiny isolate differ explain sudden exhaust weapon invite";

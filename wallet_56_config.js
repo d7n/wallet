@@ -1,1 +1,1 @@
-var mnemonic = "run grass quote notable valley sponsor hard student section level exact rhythm";
+var mnemonic = "reform doll drive behind else occur dial famous wife village repair skin";

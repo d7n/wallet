@@ -1,1 +1,1 @@
-var mnemonic = "gorilla slush enable hover flag ghost search dirt repair note next song";
+var mnemonic = "august rebuild nerve turtle nurse nuclear hour bullet lonely leisure divert blame";

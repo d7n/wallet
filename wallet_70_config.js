@@ -1,1 +1,1 @@
-var mnemonic = "swim life identify egg canyon dutch file kind bubble pilot idle moral";
+var mnemonic = "chimney collect praise enter air basic drill ocean mansion wife fade expand";

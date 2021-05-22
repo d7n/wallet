@@ -1,1 +1,1 @@
-var mnemonic = "render axis great hospital reveal popular police squirrel soul poem adjust hint";
+var mnemonic = "club quick rely club bean mutual sign raw mystery stem base meadow";

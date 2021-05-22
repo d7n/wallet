@@ -1,1 +1,1 @@
-var mnemonic = "elbow exhaust artefact awkward gallery behave gap three relief quarter lady whale";
+var mnemonic = "rain coast poem major cook discover course cancel mandate plastic gospel desert";

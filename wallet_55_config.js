@@ -1,1 +1,1 @@
-var mnemonic = "empty nurse afraid deal drastic high suggest rail carry december snow tree";
+var mnemonic = "endless expose cliff scare glad unfair still napkin cruel pill violin harvest";

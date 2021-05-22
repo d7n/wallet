@@ -1,1 +1,1 @@
-var mnemonic = "pull broken clump title reason parrot exact company drill toward canvas shell";
+var mnemonic = "hair face step capital present ball ticket small combine gain drill erase";

@@ -1,1 +1,1 @@
-var mnemonic = "auction wealth elbow gift thought bottom raccoon lottery before admit slush scheme";
+var mnemonic = "broken lake upgrade famous immune snap machine drill what then evidence wild";

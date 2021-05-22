@@ -1,1 +1,1 @@
-var mnemonic = "bullet soft pool diet decline body ski lottery artefact sad pole ramp";
+var mnemonic = "reopen match favorite student moon dune caution smooth spread army chest virtual";

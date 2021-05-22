@@ -1,1 +1,1 @@
-var mnemonic = "embody empower pause silk jewel term behind village snack reason symptom parent";
+var mnemonic = "filter analyst review fix metal category mansion ability fly card fortune moment";

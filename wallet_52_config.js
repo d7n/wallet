@@ -1,1 +1,1 @@
-var mnemonic = "brown merge income style someone fox pride galaxy fault aim shrimp dizzy";
+var mnemonic = "chicken noble sing aerobic ask quit plug drum sure else symbol picture";

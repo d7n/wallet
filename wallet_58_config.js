@@ -1,1 +1,1 @@
-var mnemonic = "output poem start despair venue retreat alone budget absent drastic thrive prevent";
+var mnemonic = "tribe vacant sadness unknown erode describe banner warrior eager cycle adult talent";

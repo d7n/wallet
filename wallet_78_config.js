@@ -1,1 +1,1 @@
-var mnemonic = "vacant vessel habit duty rely blue into crash apology situate bundle dress";
+var mnemonic = "mass orchard property sting learn bean aspect weather almost wing awkward tank";

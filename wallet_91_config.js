@@ -1,1 +1,1 @@
-var mnemonic = "sort great mail citizen correct brush egg network chef panic left correct";
+var mnemonic = "mass ensure tackle sting correct breeze story thumb seat ball current desk";

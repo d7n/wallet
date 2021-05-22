@@ -1,1 +1,1 @@
-var mnemonic = "price ball decrease best shy club kitten oblige athlete differ neither magnet";
+var mnemonic = "blossom clutch asset renew predict speak cheese orient clarify odor desk lawsuit";
