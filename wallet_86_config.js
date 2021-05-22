@@ -1,1 +1,1 @@
-var mnemonic = "arena among wild category garlic position shock busy law dinner mutual little";
+var mnemonic = "giant task frame alpha become exercise future reopen axis seat dynamic vital";

@@ -1,1 +1,1 @@
-var mnemonic = "state matrix green child rifle alter doll mule length alien walk step";
+var mnemonic = "shop danger crew friend small short jewel famous auction promote tuition wait";

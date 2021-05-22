@@ -1,1 +1,1 @@
-var mnemonic = "family flip review expose blood double danger tide gown stove fancy loan";
+var mnemonic = "oxygen weasel cabbage clinic know endorse birth toy crane long drum over";

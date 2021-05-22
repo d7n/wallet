@@ -1,1 +1,1 @@
-var mnemonic = "item dynamic accident perfect van disorder evil attract frost drop pilot random";
+var mnemonic = "shy rubber garden angry giggle ride help wet keep extra apple legend";

@@ -1,1 +1,1 @@
-var mnemonic = "swap wedding hat hospital cabbage have away eye diary switch one exotic";
+var mnemonic = "soul pattern mystery own student violin egg horn melt talk until wrestle";

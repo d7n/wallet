@@ -1,1 +1,1 @@
-var mnemonic = "expand obey spin beyond scan cliff flag usage trip any fish valve";
+var mnemonic = "sand clutch fee news lecture expand syrup idle develop symptom alarm cool";

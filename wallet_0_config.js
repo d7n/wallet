@@ -1,1 +1,1 @@
-var mnemonic = "winter truck fuel resource lamp tide forum neutral inform warm addict method";
+var mnemonic = "flag cook bulb blouse century pizza section book gloom current quiz heart";

@@ -1,1 +1,1 @@
-var mnemonic = "grain maze curve various convince bonus select tell deal marine destroy expect";
+var mnemonic = "clean decline human know awake trumpet track imitate shock spray suffer embrace";

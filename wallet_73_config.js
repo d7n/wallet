@@ -1,1 +1,1 @@
-var mnemonic = "inject degree finish surge grit hub pool apology sustain journey merge kit";
+var mnemonic = "stone barrel crowd rough goat innocent exclude bleak matrix trust dragon item";

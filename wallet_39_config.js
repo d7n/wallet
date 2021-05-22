@@ -1,1 +1,1 @@
-var mnemonic = "way defense water elite gorilla gorilla type design response sentence surprise run";
+var mnemonic = "grape wink photo better sugar trust cruise hamster rose base decorate scan";

@@ -1,1 +1,1 @@
-var mnemonic = "valve swamp wall clinic million habit stick crumble harsh stairs piece iron";
+var mnemonic = "street rabbit before load cruel voice essence normal dinner elevator gossip occur";

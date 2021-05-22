@@ -1,1 +1,1 @@
-var mnemonic = "distance engine sense creek naive twist leisure pulp life profit minimum orbit";
+var mnemonic = "again question question sheriff box maid flag gym melody pause dawn giggle";

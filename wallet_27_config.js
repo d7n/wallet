@@ -1,1 +1,1 @@
-var mnemonic = "pistol close grain expect about ready lady ship air today tribe gentle";
+var mnemonic = "road picture clown spoon asthma shed mammal solid swing together delay process";

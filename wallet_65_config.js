@@ -1,1 +1,1 @@
-var mnemonic = "salute reflect initial gift laundry wink tomato invest leaf obey sea tornado";
+var mnemonic = "wave example velvet hub spice core clay pilot economy green shock soft";

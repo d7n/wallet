@@ -1,1 +1,1 @@
-var mnemonic = "empty oval cover main canvas odor ocean cool public detail pencil doll";
+var mnemonic = "alter review view culture sight dismiss ten three potato mixed dentist dirt";

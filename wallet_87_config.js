@@ -1,1 +1,1 @@
-var mnemonic = "victory adult boil diesel throw rice salmon work panel age used under";
+var mnemonic = "duty siren minute bachelor isolate future online gun faith fragile distance kitchen";

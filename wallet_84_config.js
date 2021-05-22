@@ -1,1 +1,1 @@
-var mnemonic = "zoo glare time once route defense seek thing job entry piano false";
+var mnemonic = "fossil sword arrow below city drill attack plastic supply record season jar";

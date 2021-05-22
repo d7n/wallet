@@ -1,1 +1,1 @@
-var mnemonic = "drift coyote orange mystery army section survey vapor sleep era question owner";
+var mnemonic = "fiscal traffic below dignity tray kidney index flip energy cheap sting desk";

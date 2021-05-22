@@ -1,1 +1,1 @@
-var mnemonic = "fruit defense retire weather squirrel blade since orbit elder drum name chef";
+var mnemonic = "topic rug ostrich birth dinosaur december apple inhale all edit hero document";

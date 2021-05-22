@@ -1,1 +1,1 @@
-var mnemonic = "warm spray interest vehicle canoe crane fault height equip arm silk cliff";
+var mnemonic = "quote glance abandon initial spoon burden ghost zero forum few lion evil";

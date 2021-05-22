@@ -1,1 +1,1 @@
-var mnemonic = "idle party country way rate fog action lawsuit embrace machine jacket slush";
+var mnemonic = "approve surge enter great cross cycle govern prepare tuna lend beach demise";

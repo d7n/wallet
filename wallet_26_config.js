@@ -1,1 +1,1 @@
-var mnemonic = "please rule grace shiver hood inherit catch matrix husband guide nuclear tape";
+var mnemonic = "romance marriage very joy buffalo ill measure pull rug depart range magnet";

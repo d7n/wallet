@@ -1,1 +1,1 @@
-var mnemonic = "screen stock excuse fun melody group pen number gun outdoor wedding until";
+var mnemonic = "guess region noise impose develop family example permit impulse stool water unfold";

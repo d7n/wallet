@@ -1,1 +1,1 @@
-var mnemonic = "sorry tail fun shoulder damage picture happy inside legal romance strong announce";
+var mnemonic = "reflect student silk reward rookie guilt confirm grab cheap approve silver dismiss";

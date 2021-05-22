@@ -1,1 +1,1 @@
-var mnemonic = "about obtain vibrant calm fork verify stage junior name wide student proof";
+var mnemonic = "resist worry wife cat mule ticket layer fat aim else used field";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate cliff middle about repeat olympic squeeze comic level lend unaware wheat";
+var mnemonic = "replace limit ensure quiz violin lend vicious portion accident volcano churn ranch";

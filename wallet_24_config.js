@@ -1,1 +1,1 @@
-var mnemonic = "quote february festival attract foam walnut correct subject puppy hawk chalk chuckle";
+var mnemonic = "person swallow neglect word transfer acoustic absent cat faculty toe shock desert";

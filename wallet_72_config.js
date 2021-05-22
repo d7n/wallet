@@ -1,1 +1,1 @@
-var mnemonic = "leaf original marriage rude patient inside tennis distance tissue chalk salad ten";
+var mnemonic = "fence repeat learn profit that age team forget hub magnet angry middle";

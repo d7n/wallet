@@ -1,1 +1,1 @@
-var mnemonic = "gauge fee duck join tide glad maximum orchard renew burger oil mansion";
+var mnemonic = "sunset erode thumb shed siren odor dish finger eight bright chase minute";

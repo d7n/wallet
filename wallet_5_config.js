@@ -1,1 +1,1 @@
-var mnemonic = "hungry border author hair seven crucial charge sure patrol bottom ankle answer";
+var mnemonic = "happy harbor rail test survey capable faculty air spirit fury jar curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "chair click rug card stone relief must season usual pledge mail solve";
+var mnemonic = "must flock title area word genre neutral act accident nominee cheap during";

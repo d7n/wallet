@@ -1,1 +1,1 @@
-var mnemonic = "begin title home focus sister dolphin wedding cloth work metal link pool";
+var mnemonic = "time twist animal ski banana illness battle dune unaware cram purse slow";

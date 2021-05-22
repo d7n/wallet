@@ -1,1 +1,1 @@
-var mnemonic = "swing clever brother kiss trip pepper absorb crowd ten surprise ball auction";
+var mnemonic = "peanut try main scrub retreat garage potato icon farm crouch account still";

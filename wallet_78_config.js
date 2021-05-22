@@ -1,1 +1,1 @@
-var mnemonic = "object limb lawsuit salt regular rather parade cable ball domain left portion";
+var mnemonic = "filter armor buddy meat predict matter cement crop cannon outer much banana";

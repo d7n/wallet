@@ -1,1 +1,1 @@
-var mnemonic = "artefact become vintage put march what decorate gentle secret leave catch quantum";
+var mnemonic = "tooth bright robust crash year hybrid mouse cover satisfy wall evoke senior";

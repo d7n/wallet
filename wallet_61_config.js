@@ -1,1 +1,1 @@
-var mnemonic = "soon olive hint tide enjoy exile salon scatter excuse once merge truth";
+var mnemonic = "wrestle upon vacant entire distance okay surge salt tunnel muscle denial spray";

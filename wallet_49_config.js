@@ -1,1 +1,1 @@
-var mnemonic = "erupt country reward hawk sail cave unable exotic solution gym find point";
+var mnemonic = "chronic property sick toy hire skirt join goat age wrong female equip";

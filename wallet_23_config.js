@@ -1,1 +1,1 @@
-var mnemonic = "click credit path clever there mother market unlock deal danger oval alone";
+var mnemonic = "mandate yard web throw leaf camera vote deputy salute oak pear spot";

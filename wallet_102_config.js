@@ -1,1 +1,1 @@
-var mnemonic = "fiscal easy boring laugh beef circle easy license next layer aim found";
+var mnemonic = "pumpkin boil flower switch common awkward cram song meadow visual volcano warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "whale fade nothing combine artwork execute angle deliver nothing cheap error intact";
+var mnemonic = "shadow explain around release wrap settle bottom wife area silk diary any";

@@ -1,1 +1,1 @@
-var mnemonic = "humor father priority honey unfair material liberty bargain limit tiger shallow tumble";
+var mnemonic = "labor afraid bench maple pumpkin inspire orphan enhance interest design stadium neck";

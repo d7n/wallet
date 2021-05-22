@@ -1,1 +1,1 @@
-var mnemonic = "foil skirt glove solve scare expire fence minor main kid elegant spice";
+var mnemonic = "vessel jelly lobster sound illegal weapon stand oblige recycle patrol hazard execute";

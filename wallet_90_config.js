@@ -1,1 +1,1 @@
-var mnemonic = "wheat shuffle used couple robot daughter mail escape much tone faith man";
+var mnemonic = "give rotate tobacco weasel soccer slam oppose farm accuse chaos again join";

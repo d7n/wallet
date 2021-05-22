@@ -1,1 +1,1 @@
-var mnemonic = "mystery cry flag parent pioneer federal misery kick tilt adult focus display";
+var mnemonic = "sand multiply consider tenant universe conduct wage melody antique slender climb isolate";

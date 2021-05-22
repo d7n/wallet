@@ -1,1 +1,1 @@
-var mnemonic = "romance cry sphere museum blood vital day rubber attend sad electric broccoli";
+var mnemonic = "rack episode damp economy struggle genuine tattoo fun field neither edge predict";

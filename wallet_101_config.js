@@ -1,1 +1,1 @@
-var mnemonic = "smart sausage average ticket nurse soldier emerge three patrol tail evil best";
+var mnemonic = "announce lunar length gospel balance pill dilemma before chunk labor insane reduce";

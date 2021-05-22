@@ -1,1 +1,1 @@
-var mnemonic = "arrow february purity chair collect unable aisle bring open abstract hammer work";
+var mnemonic = "faculty habit cinnamon use feature keen calm will inflict dilemma before october";

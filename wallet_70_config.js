@@ -1,1 +1,1 @@
-var mnemonic = "grape kiwi virus duty magnet admit casino begin pelican agree sea plug";
+var mnemonic = "omit media clump diary any hire picnic swear bless move recycle panel";

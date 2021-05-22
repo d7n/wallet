@@ -1,1 +1,1 @@
-var mnemonic = "simple element clinic verify come poem mail you shove always gym thrive";
+var mnemonic = "model quarter hazard damage wool faint planet net height test because arctic";

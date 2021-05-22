@@ -1,1 +1,1 @@
-var mnemonic = "gown entire romance awkward type trophy loyal adjust that permit bind mouse";
+var mnemonic = "dad cube junior depth hollow winter fly ritual puppy body myth almost";

@@ -1,1 +1,1 @@
-var mnemonic = "want blossom title mutual green axis october cool benefit speak auction design";
+var mnemonic = "leopard shaft elite notable demand arm expand media artist tribe electric churn";

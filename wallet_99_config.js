@@ -1,1 +1,1 @@
-var mnemonic = "common city swing series find glad render sausage steel rude until snap";
+var mnemonic = "income rate case flag output tank ship height awful panic poet pelican";

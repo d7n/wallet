@@ -1,1 +1,1 @@
-var mnemonic = "debris master damage surround occur custom enlist wrist snap pulse blur mean";
+var mnemonic = "oyster borrow thing bridge salad always defense gospel breeze noodle yard lens";

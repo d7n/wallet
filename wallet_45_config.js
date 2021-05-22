@@ -1,1 +1,1 @@
-var mnemonic = "gaze stem toward dial disease blind reunion mosquito pottery decrease inject clarify";
+var mnemonic = "celery edit solution glory fix panther exist bus sibling palace betray decade";

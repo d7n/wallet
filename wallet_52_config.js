@@ -1,1 +1,1 @@
-var mnemonic = "firm isolate scrub timber cause explain pretty suggest bless side oxygen battle";
+var mnemonic = "upset worth marble double select dwarf spice split captain swing little nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle power develop turtle fiber volcano spring rookie charge lesson rib beach";
+var mnemonic = "crack heart skirt doll energy symptom punch item salt vacuum else fuel";

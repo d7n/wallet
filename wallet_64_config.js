@@ -1,1 +1,1 @@
-var mnemonic = "oven rocket name sausage until audit practice extra increase boil monkey heart";
+var mnemonic = "industry sick woman flip ahead display list cinnamon minimum peasant boost raw";

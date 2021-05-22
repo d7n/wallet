@@ -1,1 +1,1 @@
-var mnemonic = "snake kit next toilet family exercise spend disease joke hotel inquiry feature";
+var mnemonic = "cherry boost spoil recycle veteran science quarter industry act liberty danger gift";

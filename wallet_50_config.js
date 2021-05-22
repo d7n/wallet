@@ -1,1 +1,1 @@
-var mnemonic = "pitch able fantasy fold gate gospel pitch penalty rack relief blouse upgrade";
+var mnemonic = "world shove orchard noble swear machine stool bacon emotion lemon hospital wave";

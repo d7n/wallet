@@ -1,1 +1,1 @@
-var mnemonic = "below crash blame submit grab flag fun pulse obvious strike aunt ball";
+var mnemonic = "butter eyebrow portion ceiling switch wealth project spirit arch horn vivid hello";

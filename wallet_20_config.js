@@ -1,1 +1,1 @@
-var mnemonic = "forward bench pioneer print slight twice boost mention peace left pear fantasy";
+var mnemonic = "guitar illegal weapon panther sunset jewel deal night panic repeat blanket card";

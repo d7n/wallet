@@ -1,1 +1,1 @@
-var mnemonic = "wink birth toast spray argue damage virus portion beyond virus great jeans";
+var mnemonic = "embark culture like guilt rookie mobile novel stairs ocean path bird consider";

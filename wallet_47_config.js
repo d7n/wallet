@@ -1,1 +1,1 @@
-var mnemonic = "trial replace never venue toward cook head depend lion sure chat note";
+var mnemonic = "lion point image stock human book vapor swap open true ask convince";

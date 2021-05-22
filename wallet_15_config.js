@@ -1,1 +1,1 @@
-var mnemonic = "pencil cupboard female romance core desert cactus oil input spy run circle";
+var mnemonic = "solve jazz world trip habit shell stadium seven reveal alcohol surface prevent";

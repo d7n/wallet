@@ -1,1 +1,1 @@
-var mnemonic = "path depth pull walnut flavor nothing various side escape certain mail notable";
+var mnemonic = "oak festival artist ensure surface gym milk cabin fancy metal derive soon";

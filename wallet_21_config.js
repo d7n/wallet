@@ -1,1 +1,1 @@
-var mnemonic = "venue airport good across pottery slice drill resemble knife enemy bring jazz";
+var mnemonic = "grain wisdom dial excess cover october truth settle snap area hill survey";

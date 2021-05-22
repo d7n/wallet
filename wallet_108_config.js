@@ -1,1 +1,1 @@
-var mnemonic = "library vendor best museum collect chicken mammal elbow task security ritual sentence";
+var mnemonic = "spoon income please enter quiz bread future mixed antique ignore route sibling";

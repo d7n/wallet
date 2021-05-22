@@ -1,1 +1,1 @@
-var mnemonic = "sudden tomorrow boat mom sibling violin accident length arch sail evidence punch";
+var mnemonic = "promote alpha note rude sense cheap deputy bridge advance excite warrior click";

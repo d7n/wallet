@@ -1,1 +1,1 @@
-var mnemonic = "salt funny symbol lobster drastic stool change page liquid burger mother rubber";
+var mnemonic = "guess high great mixed below damp eagle coyote diet help decide essence";

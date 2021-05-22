@@ -1,1 +1,1 @@
-var mnemonic = "boat music plastic tent sausage bright dune eternal avocado vanish damage save";
+var mnemonic = "find fine artwork wood monkey arrest climb pig prepare immense dawn cost";

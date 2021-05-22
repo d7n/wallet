@@ -1,1 +1,1 @@
-var mnemonic = "case uncle ask series glimpse seat piano deliver margin roof material runway";
+var mnemonic = "thumb practice divorce clip enrich garden genuine easy pistol success fox model";

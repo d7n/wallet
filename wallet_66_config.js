@@ -1,1 +1,1 @@
-var mnemonic = "myth write menu industry street fee crumble clip jump since disorder ostrich";
+var mnemonic = "lava wide coach fall oven derive stomach ordinary ten draw fee olive";

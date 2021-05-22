@@ -1,1 +1,1 @@
-var mnemonic = "ginger noble pioneer boy burger demand advice loud foot mercy farm edit";
+var mnemonic = "combine surface stereo stable mom assist clean window observe rule same matter";

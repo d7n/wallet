@@ -1,1 +1,1 @@
-var mnemonic = "camera proof multiply smile volcano yard join input wealth eye digital easy";
+var mnemonic = "join thought fire able group sword person toward vendor nasty dry dance";

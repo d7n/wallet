@@ -1,1 +1,1 @@
-var mnemonic = "music curve lyrics tiger squeeze turtle adapt solution one leave delay rabbit";
+var mnemonic = "cart toast demand cradle frog ginger visa wife season verify opinion spin";

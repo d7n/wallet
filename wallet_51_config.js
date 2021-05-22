@@ -1,1 +1,1 @@
-var mnemonic = "spot dish marine sadness tuition since child aspect run capital palm dignity";
+var mnemonic = "column effort burst lab lucky rural end dove steak nothing history they";

@@ -1,1 +1,1 @@
-var mnemonic = "stage innocent venue pet stove spatial glide harsh comfort harsh grab input";
+var mnemonic = "index mean universe shield want cup pretty stage taxi tuition moment grocery";

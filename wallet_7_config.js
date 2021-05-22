@@ -1,1 +1,1 @@
-var mnemonic = "inflict submit okay cabin cram civil panther garlic biology bread outer surround";
+var mnemonic = "purse lemon puppy say minor squeeze follow alone monitor trade charge sweet";

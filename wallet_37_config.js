@@ -1,1 +1,1 @@
-var mnemonic = "west home lemon end conduct wheat robust donkey solve suspect deputy load";
+var mnemonic = "tide stage armor trade leaf traffic exile ability umbrella segment poet library";

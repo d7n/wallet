@@ -1,1 +1,1 @@
-var mnemonic = "awake tongue base humor give agent nut image hobby rescue pumpkin spend";
+var mnemonic = "steak satisfy regular town fat upon hunt test chat roof service twelve";

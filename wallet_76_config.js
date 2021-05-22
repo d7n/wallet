@@ -1,1 +1,1 @@
-var mnemonic = "consider catch dinner genuine trial anger sister render photo visa ketchup response";
+var mnemonic = "labor fiscal sniff gift slice common south always above syrup wood glove";

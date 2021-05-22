@@ -1,1 +1,1 @@
-var mnemonic = "film stool police behave rice orphan multiply abstract error valid team voice";
+var mnemonic = "edit tank wing shrug amateur vehicle tired orange gesture donor custom lonely";
