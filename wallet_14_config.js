@@ -1,1 +1,1 @@
-var mnemonic = "regular essence large grit scatter reward control busy indoor grain famous filter";
+var mnemonic = "lawn mountain wolf almost heavy vendor vast mimic spring hundred alcohol remind";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot yellow ugly struggle dumb banner clay tool mule pig quantum obvious";
+var mnemonic = "fiction siren rich country federal knee absent polar knee primary castle end";

@@ -1,1 +1,1 @@
-var mnemonic = "result custom mobile choice table tissue theme advance estate target leader rare";
+var mnemonic = "belt south century flock moon accuse ivory alien vacuum envelope rule force";

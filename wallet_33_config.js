@@ -1,1 +1,1 @@
-var mnemonic = "walk beef reward depth skirt royal pretty crack knife where cotton owner";
+var mnemonic = "asset build heavy fluid reward stand enhance toy soft miss spirit rotate";

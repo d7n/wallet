@@ -1,1 +1,1 @@
-var mnemonic = "expand entry soup gun hungry million entry gate knife multiply inner motion";
+var mnemonic = "elephant daring bar cattle situate track truly couple agree into report brief";

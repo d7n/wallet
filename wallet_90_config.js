@@ -1,1 +1,1 @@
-var mnemonic = "describe shield crystal episode crop drink damage uncover attract table small quit";
+var mnemonic = "body smooth boring produce blue trend evoke situate loan use shallow brick";

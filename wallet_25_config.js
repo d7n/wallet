@@ -1,1 +1,1 @@
-var mnemonic = "galaxy melody allow pave butter various fiber inquiry lizard actress salon room";
+var mnemonic = "top mass model casino olympic gaze decline bridge oven salad quiz embody";

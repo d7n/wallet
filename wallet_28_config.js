@@ -1,1 +1,1 @@
-var mnemonic = "dragon jacket rare empower volcano garbage mom envelope kit tornado stand maze";
+var mnemonic = "risk explain fiscal animal candy tray teach lazy victory series rich reject";

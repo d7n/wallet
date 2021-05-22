@@ -1,1 +1,1 @@
-var mnemonic = "hard science cage season ceiling federal ugly world ribbon wine gym dish";
+var mnemonic = "gossip frown safe cricket love lab miss shallow pact forest carpet orient";

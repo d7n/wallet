@@ -1,1 +1,1 @@
-var mnemonic = "scrub cereal slender cheap below riot clump hope pizza embody frost grape";
+var mnemonic = "liberty dose adapt fix enrich decline tool symbol window merry peace differ";

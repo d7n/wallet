@@ -1,1 +1,1 @@
-var mnemonic = "omit nominee accident develop hello cinnamon reunion paddle wonder feature spot actor";
+var mnemonic = "sniff electric labor parrot dignity opera cement panel idle float easily fiscal";

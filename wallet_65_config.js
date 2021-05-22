@@ -1,1 +1,1 @@
-var mnemonic = "prosper upper bargain hire artwork myself surround raven front pig member buyer";
+var mnemonic = "chronic choice minor short acoustic equal success lawsuit impact rhythm deposit seek";

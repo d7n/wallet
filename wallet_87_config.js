@@ -1,1 +1,1 @@
-var mnemonic = "level vocal deny small cushion aerobic describe candy expire minor awful behave";
+var mnemonic = "insect transfer zero tuition differ daughter equip list average curious dignity gospel";

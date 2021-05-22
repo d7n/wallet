@@ -1,1 +1,1 @@
-var mnemonic = "man debris damage ankle what update kidney online area box leader target";
+var mnemonic = "prison release trouble absorb insect decade print hair govern brief scheme walk";

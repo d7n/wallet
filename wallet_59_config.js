@@ -1,1 +1,1 @@
-var mnemonic = "evil typical later flavor drama category eyebrow brief wise deputy chalk beef";
+var mnemonic = "current vocal city excess close dinner census dentist slim swap move tide";

@@ -1,1 +1,1 @@
-var mnemonic = "rely harbor miss much unveil light daughter safe glide hill dragon direct";
+var mnemonic = "purse target law dish steak equal ticket bread lava short fuel property";

@@ -1,1 +1,1 @@
-var mnemonic = "yard story weather unique response coconut similar toward prosper curious jewel into";
+var mnemonic = "pair pole trick regret vocal merry female mimic invite place boost mass";

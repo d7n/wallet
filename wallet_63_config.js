@@ -1,1 +1,1 @@
-var mnemonic = "fat execute shrug question citizen afford law rapid whisper online athlete corn";
+var mnemonic = "black sustain movie come slender cluster unknown tomorrow breeze left manage life";

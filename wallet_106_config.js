@@ -1,1 +1,1 @@
-var mnemonic = "fabric close evoke leisure unknown glass mushroom churn smile icon example assault";
+var mnemonic = "comfort indicate aspect release pair wrestle humor gift void melody shift fire";

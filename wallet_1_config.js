@@ -1,1 +1,1 @@
-var mnemonic = "mandate film dentist that thrive detail work vacuum target nest slim city";
+var mnemonic = "float loyal pull patch expire inner ritual pear degree wheat adjust denial";

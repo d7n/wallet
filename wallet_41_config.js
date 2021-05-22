@@ -1,1 +1,1 @@
-var mnemonic = "cereal useful apple senior dragon drum arrive ankle file maze inspire live";
+var mnemonic = "grass pond hungry detect canvas black robust behind myth between enhance payment";

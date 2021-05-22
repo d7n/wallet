@@ -1,1 +1,1 @@
-var mnemonic = "fetch angry over traffic rain join kitten exercise resist magic tragic shrug";
+var mnemonic = "mention erode call eyebrow giraffe unaware oblige negative legend license tortoise atom";

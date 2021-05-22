@@ -1,1 +1,1 @@
-var mnemonic = "struggle feel test hill purity bind shine give ridge leaf cart online";
+var mnemonic = "smoke candy letter filter ocean melt pond caught punch candy elevator garage";

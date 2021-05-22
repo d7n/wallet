@@ -1,1 +1,1 @@
-var mnemonic = "switch electric actor rally oxygen common problem brain spot bundle agent rude";
+var mnemonic = "near receive goddess man borrow round wheat burst chat crane arch meadow";

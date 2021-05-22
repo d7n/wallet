@@ -1,1 +1,1 @@
-var mnemonic = "finish festival bike early sniff what later bean receive rich heavy assist";
+var mnemonic = "mom govern ostrich outside roast glow misery group rifle diagram index rose";

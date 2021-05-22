@@ -1,1 +1,1 @@
-var mnemonic = "faculty insane occur electric soap love screen friend boy canal hotel laugh";
+var mnemonic = "coach swamp scale slab whip soap whip jaguar rose case business apology";

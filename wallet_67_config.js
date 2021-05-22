@@ -1,1 +1,1 @@
-var mnemonic = "brisk powder glance recycle tool onion squeeze brain cruise defy session chalk";
+var mnemonic = "priority only grocery shield alley boat fire mouse trip door fortune stomach";

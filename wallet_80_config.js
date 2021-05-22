@@ -1,1 +1,1 @@
-var mnemonic = "entry jar barely luxury educate blame quarter sick blossom loan crash few";
+var mnemonic = "game flower prepare sadness then grab collect element sail crawl bunker box";

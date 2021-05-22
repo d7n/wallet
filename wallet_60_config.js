@@ -1,1 +1,1 @@
-var mnemonic = "february harvest wink piece man clap march captain street pole misery analyst";
+var mnemonic = "cement update under utility catalog disagree moral hurt pulse truth nerve blast";

@@ -1,1 +1,1 @@
-var mnemonic = "estate bitter noodle blast naive display release buffalo duty brother rib expose";
+var mnemonic = "false artist beef inject remind hub kitten orchard torch diamond code replace";

@@ -1,1 +1,1 @@
-var mnemonic = "barely hockey submit govern situate struggle congress special stamp outside wild finger";
+var mnemonic = "culture reform gravity tomorrow myself same rude firm fly smart engage shield";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos excite kid gaze leg paddle public try emotion sock boss spread";
+var mnemonic = "height below govern year mountain remove company duck cable leopard slender arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "utility grant buyer seat fun arctic guilt illegal educate fog feature chaos";
+var mnemonic = "clap bus prevent skin soon chat horn motor shy lift struggle phrase";

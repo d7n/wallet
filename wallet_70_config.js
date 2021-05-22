@@ -1,1 +1,1 @@
-var mnemonic = "link hundred attract please napkin innocent engine inside shy ethics gloom rebuild";
+var mnemonic = "annual erode gap clog embrace distance protect indicate quote rich deal vast";

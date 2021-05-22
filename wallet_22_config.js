@@ -1,1 +1,1 @@
-var mnemonic = "pact quarter define payment page brand scan media abstract wrist typical there";
+var mnemonic = "puppy merit fame option permit sweet host endless rather cage copper solar";

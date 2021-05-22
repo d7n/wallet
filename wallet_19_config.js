@@ -1,1 +1,1 @@
-var mnemonic = "draft siege marine resemble retreat seat eye honey olympic ritual skirt follow";
+var mnemonic = "churn kind stairs type budget wrist south sock eight coin mad antenna";

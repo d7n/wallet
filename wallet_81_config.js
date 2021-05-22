@@ -1,1 +1,1 @@
-var mnemonic = "boy peace horror cream west vital wild flag sugar weather misery tattoo";
+var mnemonic = "razor mind razor twenty rubber woman radio ladder fly art order that";

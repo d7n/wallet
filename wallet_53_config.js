@@ -1,1 +1,1 @@
-var mnemonic = "train traffic imitate hen picture section bread fortune bench range install mirror";
+var mnemonic = "never gorilla couch depart mesh sock rule field guilt vibrant wool change";

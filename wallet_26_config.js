@@ -1,1 +1,1 @@
-var mnemonic = "girl alpha glimpse chicken piano umbrella small okay report flock water demise";
+var mnemonic = "polar furnace attend cup armed pioneer grab produce obtain reduce tenant first";

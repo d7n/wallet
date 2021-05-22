@@ -1,1 +1,1 @@
-var mnemonic = "rough title stable sight typical sport volume key demand main crystal labor";
+var mnemonic = "clean own unhappy negative receive two able hint hill excuse music seed";

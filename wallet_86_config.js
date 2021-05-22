@@ -1,1 +1,1 @@
-var mnemonic = "slim orphan rival survey give brush please vault flush major gasp decline";
+var mnemonic = "level van robust question update nice around tape kit indicate friend breeze";

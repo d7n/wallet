@@ -1,1 +1,1 @@
-var mnemonic = "crane theme any wife mechanic predict ticket skirt awful nut stumble report";
+var mnemonic = "thunder glass decrease glue vehicle brief lucky fitness repair illness broccoli dog";

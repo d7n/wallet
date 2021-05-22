@@ -1,1 +1,1 @@
-var mnemonic = "volume envelope wet music bunker start lake step hazard document crash plunge";
+var mnemonic = "turkey fault paddle solar spider dad embody news chronic jar crazy under";

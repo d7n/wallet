@@ -1,1 +1,1 @@
-var mnemonic = "chimney grain mirror episode educate main urge burden fish helmet tag assault";
+var mnemonic = "occur room suffer sing weird column spatial job approve deer choice indicate";

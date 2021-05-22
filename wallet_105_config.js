@@ -1,1 +1,1 @@
-var mnemonic = "involve pony cinnamon visa calm true piece network stairs carry soft page";
+var mnemonic = "hobby sick cross still video badge reject sorry neglect task ranch adjust";

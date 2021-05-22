@@ -1,1 +1,1 @@
-var mnemonic = "near paddle plunge mobile syrup undo hen sister gaze shoe tribe mass";
+var mnemonic = "script ancient walk impose grit canvas exact script isolate quick vanish fortune";

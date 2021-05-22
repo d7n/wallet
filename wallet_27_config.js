@@ -1,1 +1,1 @@
-var mnemonic = "front club long resist belt excuse nothing when season pulse tissue hammer";
+var mnemonic = "cruise dynamic ticket sport point verb air crystal dragon clarify level sport";

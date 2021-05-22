@@ -1,1 +1,1 @@
-var mnemonic = "another fortune place globe truly process best pulse dial grit gap goddess";
+var mnemonic = "adult slogan body reward offer echo imitate diagram erupt page special suffer";

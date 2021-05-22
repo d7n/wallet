@@ -1,1 +1,1 @@
-var mnemonic = "water concert slim tuna cruise hold poet slogan rich secret elite scrap";
+var mnemonic = "crisp length cigar host blanket antique misery hold mushroom sketch ship awake";

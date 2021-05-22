@@ -1,1 +1,1 @@
-var mnemonic = "pool conduct slot december vapor museum marble approve absurd knee social sort";
+var mnemonic = "rally illness artist melt mango noise razor cricket often target pride bike";

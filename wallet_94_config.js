@@ -1,1 +1,1 @@
-var mnemonic = "seminar recipe time cradle pluck scout harsh sock sock arrange educate control";
+var mnemonic = "material all clerk love dinosaur cabin kick skirt old pluck laugh mosquito";

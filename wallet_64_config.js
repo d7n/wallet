@@ -1,1 +1,1 @@
-var mnemonic = "sniff slice canvas acquire borrow exhaust correct script tiny indicate stool palace";
+var mnemonic = "ancient chuckle student topic absent siren enforce noble useful parrot physical chef";

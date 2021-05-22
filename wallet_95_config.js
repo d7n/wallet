@@ -1,1 +1,1 @@
-var mnemonic = "neglect course cement hour bus into vast section faculty simple alcohol lecture";
+var mnemonic = "behave flight book valley position patch tumble wage alpha mother chair autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "clever tomato rose outside audit couple intact uncover school enemy birth acoustic";
+var mnemonic = "club achieve later pupil winter empty rural distance easily pause mystery solution";

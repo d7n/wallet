@@ -1,1 +1,1 @@
-var mnemonic = "birth oyster physical party power fold inspire oppose obtain clump among juice";
+var mnemonic = "sure craft story garage mercy robust screen deer collect tip sick must";

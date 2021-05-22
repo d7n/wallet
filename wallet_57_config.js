@@ -1,1 +1,1 @@
-var mnemonic = "relief argue cute drum project screen amount joy clerk runway core cradle";
+var mnemonic = "kitten roast fabric ripple exile field improve inspire pumpkin edit hazard gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "polar merge two gather push physical stairs goddess nurse seek piano develop";
+var mnemonic = "argue raccoon person process slush admit change feed brush voyage mom street";

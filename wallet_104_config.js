@@ -1,1 +1,1 @@
-var mnemonic = "lyrics trick name orient drop unveil man oppose wine behind scorpion forward";
+var mnemonic = "dance tank goat movie file cliff luxury glad love angry hover found";

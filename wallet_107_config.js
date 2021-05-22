@@ -1,1 +1,1 @@
-var mnemonic = "change night wisdom ostrich board mushroom urge direct clever slogan guard expose";
+var mnemonic = "lucky pattern desert absurd game talent left echo media plug oyster visual";

@@ -1,1 +1,1 @@
-var mnemonic = "possible hurt fit plunge fresh they coconut fever impact april base benefit";
+var mnemonic = "verb eye power skate weapon hard lucky very render zero cup stereo";

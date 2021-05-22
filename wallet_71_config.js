@@ -1,1 +1,1 @@
-var mnemonic = "floor puzzle first essence gold pill badge crisp guard seek convince disease";
+var mnemonic = "oak food member slight crime extend boil trumpet left chapter spawn moon";

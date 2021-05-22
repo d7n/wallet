@@ -1,1 +1,1 @@
-var mnemonic = "pig pupil sun jelly knee field gap leisure eight people basic great";
+var mnemonic = "soda hood script sausage switch echo prize tumble vague script race vicious";

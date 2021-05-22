@@ -1,1 +1,1 @@
-var mnemonic = "carry fox ocean invite squirrel away other around aim deputy mandate grunt";
+var mnemonic = "sketch fork jump sorry glory trick portion occur what play fantasy emerge";

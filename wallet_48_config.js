@@ -1,1 +1,1 @@
-var mnemonic = "license foster stone grit return field wear earn match ability chat essence";
+var mnemonic = "huge firm subject notable tail cloud shop tornado churn divert expose oxygen";

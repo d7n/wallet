@@ -1,1 +1,1 @@
-var mnemonic = "inject clock assume impose young pilot admit crystal result catch foil dress";
+var mnemonic = "grit file critic chase turn swear horse area danger guilt fix lunar";

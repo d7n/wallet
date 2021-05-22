@@ -1,1 +1,1 @@
-var mnemonic = "cube spirit energy slogan ridge table extend jar copper unlock ivory filter";
+var mnemonic = "harsh trumpet hospital degree weapon round foot remember wagon swap feel leg";

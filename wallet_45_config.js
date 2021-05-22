@@ -1,1 +1,1 @@
-var mnemonic = "multiply enough lens alone attract toward figure trophy law always wave embark";
+var mnemonic = "truth predict gym message cement olympic tackle rural evolve under fortune heavy";

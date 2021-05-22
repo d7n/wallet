@@ -1,1 +1,1 @@
-var mnemonic = "field giant tower adjust advice certain arm tip double clown shell someone";
+var mnemonic = "alarm jewel food before winter soon despair ugly grid three chat crazy";

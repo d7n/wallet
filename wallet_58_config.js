@@ -1,1 +1,1 @@
-var mnemonic = "link expire fix cruise work short obey wet sibling voice agent brain";
+var mnemonic = "crowd spike impulse orient clock shrimp south quote truth outside major dumb";

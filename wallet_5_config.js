@@ -1,1 +1,1 @@
-var mnemonic = "mad indicate turkey friend garlic rib aspect predict mail travel plastic expire";
+var mnemonic = "dream reduce exile crowd table walk result diet bronze salad question crazy";

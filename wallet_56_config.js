@@ -1,1 +1,1 @@
-var mnemonic = "audit expect resemble coral breeze cable talk beef trophy fold news spare";
+var mnemonic = "immense buffalo waste elephant survey grocery abandon mule cabbage puzzle trade orchard";

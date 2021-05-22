@@ -1,1 +1,1 @@
-var mnemonic = "speak boring expect develop roast orchard card radio damage motion topple stumble";
+var mnemonic = "entry unknown forget choice tumble suit gown supply urge arrow broken purpose";

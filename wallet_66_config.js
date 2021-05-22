@@ -1,1 +1,1 @@
-var mnemonic = "foil way board accuse toilet lamp one rare real stone lens world";
+var mnemonic = "fitness frown second auto length wealth slice zero mass sphere chuckle aware";

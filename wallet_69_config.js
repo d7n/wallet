@@ -1,1 +1,1 @@
-var mnemonic = "book chase rule fancy spirit style myth parent february urban bench famous";
+var mnemonic = "foster radar mango rapid innocent reveal polar gallery knife friend almost pyramid";

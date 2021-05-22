@@ -1,1 +1,1 @@
-var mnemonic = "toddler word bottom edit mammal display soft retreat arm hand emotion antenna";
+var mnemonic = "flower letter fatal move slot father position body success album gaze enforce";

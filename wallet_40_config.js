@@ -1,1 +1,1 @@
-var mnemonic = "muscle before brush squirrel hip reform record exhaust very deposit movie drill";
+var mnemonic = "zoo chief west horn priority crystal season night cannon slab parent gravity";

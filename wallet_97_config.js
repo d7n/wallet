@@ -1,1 +1,1 @@
-var mnemonic = "piece floor metal human pony cement east autumn horse drop type taste";
+var mnemonic = "practice amazing side stool weather bulk catch mutual island true average bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "addict empower image desert infant entire because element recycle town grain replace";
+var mnemonic = "squeeze glance glance select aerobic loop master venue risk find kiss intact";

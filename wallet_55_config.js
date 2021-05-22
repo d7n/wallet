@@ -1,1 +1,1 @@
-var mnemonic = "nasty bridge fortune injury cat trap kiwi equip bulb clog wall fabric";
+var mnemonic = "ethics claw toast autumn inflict lion famous photo check puppy card welcome";

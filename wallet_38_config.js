@@ -1,1 +1,1 @@
-var mnemonic = "mesh enroll ball lunch cart wise toss basket potato legal unveil lemon";
+var mnemonic = "damage outer weird bench quote find level then melt swarm isolate noise";

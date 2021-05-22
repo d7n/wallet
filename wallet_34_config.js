@@ -1,1 +1,1 @@
-var mnemonic = "awkward forward intact final fence scheme hero letter monster earn robust wear";
+var mnemonic = "fantasy proof lottery merry pretty piece ghost have fold slender crack shed";

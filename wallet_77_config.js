@@ -1,1 +1,1 @@
-var mnemonic = "base actor jungle kid swamp pear repeat coin ten artwork pool hedgehog";
+var mnemonic = "humble deer outdoor crouch absent lobster canoe zebra avoid select tuition decade";

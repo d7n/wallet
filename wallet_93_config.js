@@ -1,1 +1,1 @@
-var mnemonic = "reunion cliff digital head lunch budget mom sniff body toast hawk confirm";
+var mnemonic = "outside run express height sponsor knock cycle abandon album wide floor timber";

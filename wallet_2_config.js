@@ -1,1 +1,1 @@
-var mnemonic = "timber observe nothing agent helmet grape hope indoor dog alter vintage range";
+var mnemonic = "thrive sustain escape wrap decline stable injury vacuum moon else use tent";

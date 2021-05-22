@@ -1,1 +1,1 @@
-var mnemonic = "angle tiger frost wrestle range trap plug fresh arrest coil same tuition";
+var mnemonic = "ramp find angle favorite movie friend dinner tree carpet panda glow orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "future fossil acquire rabbit brisk midnight bomb robust exile robust crumble donkey";
+var mnemonic = "enter cluster bubble blast vault sauce exchange pole fever suspect require engine";

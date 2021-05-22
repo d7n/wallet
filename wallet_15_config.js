@@ -1,1 +1,1 @@
-var mnemonic = "use worry iron lottery inner tape room speak myth end hunt start";
+var mnemonic = "sleep resemble public laugh need cheese cruise sibling drip honey laptop predict";

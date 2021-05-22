@@ -1,1 +1,1 @@
-var mnemonic = "plunge episode elite powder surprise wrong green matter cannon stereo fan gloom";
+var mnemonic = "sample area weather lazy before filter deny estate ecology tent avoid jeans";

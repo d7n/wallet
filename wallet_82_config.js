@@ -1,1 +1,1 @@
-var mnemonic = "opinion father better charge punch party interest desk chair stuff eternal unfair";
+var mnemonic = "review chest issue often clog give day renew loop hundred risk brown";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist joy absorb skill blossom ring miracle matter inch casino direct project";
+var mnemonic = "web setup finger shell kangaroo bleak disorder armor traffic sponsor genius mango";

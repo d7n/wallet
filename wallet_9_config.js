@@ -1,1 +1,1 @@
-var mnemonic = "dove soon else rifle ecology movie sudden address source choice parrot option";
+var mnemonic = "flag cattle shrug thing horse ensure program hire palm safe pear guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "sure crystal circle embark lecture heart spell liquid disorder vacuum stay nothing";
+var mnemonic = "grocery this dress frost neither boat eternal worry disorder obey sting defense";
