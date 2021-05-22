@@ -1,1 +1,1 @@
-var mnemonic = "crew neither hub light cherry camera permit under domain syrup tortoise identify";
+var mnemonic = "favorite topic gold village rabbit prison program length just rug news chunk";

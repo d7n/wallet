@@ -1,1 +1,1 @@
-var mnemonic = "idea sadness nasty sorry middle hazard february sock zebra citizen sample peanut";
+var mnemonic = "grain medal silk account soldier crash siege memory among always skirt ready";

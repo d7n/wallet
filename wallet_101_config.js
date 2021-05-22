@@ -1,1 +1,1 @@
-var mnemonic = "candy scatter check human resemble bracket diamond emerge stool save congress grid";
+var mnemonic = "tunnel shed lobster remember salad future cheap wolf run trophy chimney fiction";

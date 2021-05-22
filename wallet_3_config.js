@@ -1,1 +1,1 @@
-var mnemonic = "capable upgrade retire school dumb joke reason gasp mercy bone major long";
+var mnemonic = "wonder pink mass wage match way melt town priority vessel maid bounce";

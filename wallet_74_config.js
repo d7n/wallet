@@ -1,1 +1,1 @@
-var mnemonic = "exist rigid cruise artwork crisp ability again dawn cluster flight genuine pool";
+var mnemonic = "wet meat term odor hire win benefit present cinnamon diary fragile chunk";

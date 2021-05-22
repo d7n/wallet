@@ -1,1 +1,1 @@
-var mnemonic = "sugar canal lizard quiz fragile hover banner potato wide trigger there upper";
+var mnemonic = "spike all cover garbage rate sentence palm fancy arrest emerge gorilla inch";

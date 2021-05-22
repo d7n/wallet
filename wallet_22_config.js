@@ -1,1 +1,1 @@
-var mnemonic = "green raise come wait problem explain uphold scan hurdle problem dust meat";
+var mnemonic = "vendor hurt wheat device clog duck pigeon spread smooth coast sniff access";

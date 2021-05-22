@@ -1,1 +1,1 @@
-var mnemonic = "violin general task weird payment adult filter super poem chalk acid camera";
+var mnemonic = "purse veteran inquiry rookie sense kitchen fog middle neither cactus clean often";

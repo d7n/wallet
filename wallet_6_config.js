@@ -1,1 +1,1 @@
-var mnemonic = "journey tone material predict oblige initial thumb banner broom wish addict fit";
+var mnemonic = "monster dinosaur include monitor horror away impulse crane gadget fetch okay amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp loop surround drum man tackle prefer carry mix salt energy story";
+var mnemonic = "bench dune rice slight fall silly breeze gown flat gown version rotate";

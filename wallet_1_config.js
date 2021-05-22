@@ -1,1 +1,1 @@
-var mnemonic = "gather subway fury swallow chaos suggest brain settle day staff waste access";
+var mnemonic = "salute seed desert foster ozone trade avoid defy agent until door bicycle";

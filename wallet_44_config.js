@@ -1,1 +1,1 @@
-var mnemonic = "fog end pizza clay manage home frozen section honey march grow staff";
+var mnemonic = "canal round wisdom alarm renew amount nephew sell sure stomach little way";

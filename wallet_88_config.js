@@ -1,1 +1,1 @@
-var mnemonic = "nerve lizard own fragile keen draft project summer pencil whip fabric route";
+var mnemonic = "meat clean lecture swing loud puzzle dice hat route kitten street advice";

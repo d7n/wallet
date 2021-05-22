@@ -1,1 +1,1 @@
-var mnemonic = "october obvious memory firm health before replace talk rail have mass miracle";
+var mnemonic = "sing beyond raven notice knee fog sting few two arrest gentle hood";

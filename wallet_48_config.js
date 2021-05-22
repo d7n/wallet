@@ -1,1 +1,1 @@
-var mnemonic = "lion hood artefact gym shrug stem canoe riot nature ugly mimic boil";
+var mnemonic = "youth spread manage tray staff truck motor click will luxury sadness topple";

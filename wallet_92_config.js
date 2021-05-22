@@ -1,1 +1,1 @@
-var mnemonic = "lumber verify prevent scare friend tomorrow salute average kiwi left indicate urge";
+var mnemonic = "bid pride middle view amused renew crucial student mistake frost fall nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "extra remember fantasy portion leaf shrug mimic crumble broom cliff banner crack";
+var mnemonic = "lock weasel furnace produce core rib expose middle offer fossil garlic early";

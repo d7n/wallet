@@ -1,1 +1,1 @@
-var mnemonic = "quote often leaf crouch kiwi blossom comic shadow cool later morning acoustic";
+var mnemonic = "sell saddle wrap amount pencil attitude reopen grocery enjoy flip symbol cloth";

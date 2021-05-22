@@ -1,1 +1,1 @@
-var mnemonic = "little deal give nation bus asthma market glass unit diesel near rally";
+var mnemonic = "clever obscure blind safe double filter math conduct arctic champion space present";

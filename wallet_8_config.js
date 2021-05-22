@@ -1,1 +1,1 @@
-var mnemonic = "focus surround effort case turkey lunar unfair olive body inside inflict own";
+var mnemonic = "chef trap stone quantum apple young fatal minimum kitchen van piece unit";

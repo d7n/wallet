@@ -1,1 +1,1 @@
-var mnemonic = "behind century media found victory chronic pyramid brand afraid donor soul rule";
+var mnemonic = "elegant attack abuse same other sudden awkward edit muscle canvas secret grab";

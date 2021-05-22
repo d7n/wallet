@@ -1,1 +1,1 @@
-var mnemonic = "attend give sure record swear unique alpha prevent twice priority connect cheese";
+var mnemonic = "under antique puzzle story chimney will high clutch toast chief name whip";

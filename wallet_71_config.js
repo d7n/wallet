@@ -1,1 +1,1 @@
-var mnemonic = "meadow elevator ugly wire galaxy merry repeat honey dress horn village cycle";
+var mnemonic = "blur exclude fee antique van alone same net fade rubber donor subject";

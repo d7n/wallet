@@ -1,1 +1,1 @@
-var mnemonic = "east together sport sense defense swallow obey insane kingdom abandon army pole";
+var mnemonic = "blue relax hover coach flash price okay sound category future gift clarify";

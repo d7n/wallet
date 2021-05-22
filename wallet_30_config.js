@@ -1,1 +1,1 @@
-var mnemonic = "gather steak laptop coffee govern picture live assault latin frequent fortune auto";
+var mnemonic = "holiday hen trial model wave demand boss nut crush few abuse sugar";

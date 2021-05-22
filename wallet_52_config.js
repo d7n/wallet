@@ -1,1 +1,1 @@
-var mnemonic = "mouse atom rhythm copper hurry choose cake cook senior wide pull remind";
+var mnemonic = "talent love taste label pass engage input weasel pitch square gap creek";

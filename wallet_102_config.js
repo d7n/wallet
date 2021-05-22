@@ -1,1 +1,1 @@
-var mnemonic = "avoid decrease erode cliff trend random shiver shadow because grace little list";
+var mnemonic = "attract latin sugar weird depart airport head fitness business first require vacant";

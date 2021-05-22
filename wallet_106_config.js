@@ -1,1 +1,1 @@
-var mnemonic = "fade canyon kangaroo robot rich soccer divert toe peasant step mass pizza";
+var mnemonic = "agree gorilla rural glimpse shield lyrics taste scheme business invest endorse diagram";

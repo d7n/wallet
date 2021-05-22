@@ -1,1 +1,1 @@
-var mnemonic = "glory drama want crawl width duty vapor volume crystal damage crater wall";
+var mnemonic = "project guard chronic window sleep moment pencil goddess media festival radio grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "common margin trial project jeans couple subject enjoy margin reform piece loud";
+var mnemonic = "miracle approve grain media news snap flower enact always sword kite dance";

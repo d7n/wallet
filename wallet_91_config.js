@@ -1,1 +1,1 @@
-var mnemonic = "point strategy grocery useful original discover enroll sudden laugh legend amount garment";
+var mnemonic = "noodle guilt uphold catch film safe tongue spin chair kidney mandate march";

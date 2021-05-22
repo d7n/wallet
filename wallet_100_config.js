@@ -1,1 +1,1 @@
-var mnemonic = "high misery unfair cabin neither sunny large unable wedding time salt perfect";
+var mnemonic = "fly mixed local latin admit text brass unit cart ceiling devote monitor";

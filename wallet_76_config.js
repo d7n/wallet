@@ -1,1 +1,1 @@
-var mnemonic = "outdoor lucky cousin say test canyon goat sheriff negative giraffe debris fuel";
+var mnemonic = "fix knock fluid bone theme mimic battle anchor auto message weapon guess";

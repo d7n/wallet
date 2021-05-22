@@ -1,1 +1,1 @@
-var mnemonic = "frequent protect salad fly clown foil whale olympic gloom canoe common popular";
+var mnemonic = "laptop tumble odor despair ten inherit hungry vocal cancel place direct series";

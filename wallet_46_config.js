@@ -1,1 +1,1 @@
-var mnemonic = "ocean silent chest lottery swim empower power birth ball security isolate hint";
+var mnemonic = "brass narrow category goddess render wealth oval weapon crouch fee kitchen six";

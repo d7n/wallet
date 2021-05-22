@@ -1,1 +1,1 @@
-var mnemonic = "second seek exile display enact icon retire gloom year deliver laugh power";
+var mnemonic = "original story park make sorry clarify spy ignore sound area fruit bubble";

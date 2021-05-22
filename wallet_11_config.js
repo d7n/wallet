@@ -1,1 +1,1 @@
-var mnemonic = "faint ostrich able pepper admit floor entry color again middle tag ostrich";
+var mnemonic = "crazy shy wrap barely nothing combine ginger liberty hip unique document oyster";

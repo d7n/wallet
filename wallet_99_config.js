@@ -1,1 +1,1 @@
-var mnemonic = "swim fresh cover gate dash hungry section notable trend tourist grass rally";
+var mnemonic = "nose angle file genre awesome advice okay clap cinnamon romance silly margin";

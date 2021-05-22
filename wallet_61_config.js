@@ -1,1 +1,1 @@
-var mnemonic = "dolphin filter waste witness deny chair motion cactus when title crater mind";
+var mnemonic = "wash scale little forget grape final silk half spice harvest tip used";

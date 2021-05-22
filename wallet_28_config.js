@@ -1,1 +1,1 @@
-var mnemonic = "genre trick celery gesture infant verify must tonight denial height eye icon";
+var mnemonic = "again lumber pave zebra pole shell genuine harsh trial flag excuse memory";

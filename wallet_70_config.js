@@ -1,1 +1,1 @@
-var mnemonic = "amateur prepare wing pig arena source vintage tilt twelve glide vibrant wing";
+var mnemonic = "shiver found wing fancy grant foster curious sell cake include recipe drama";

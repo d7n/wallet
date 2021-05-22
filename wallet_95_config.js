@@ -1,1 +1,1 @@
-var mnemonic = "bench allow impact unable husband teach tower album frequent dose craft amateur";
+var mnemonic = "discover goat deliver column crunch baby improve ready guitar exhibit renew public";

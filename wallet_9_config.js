@@ -1,1 +1,1 @@
-var mnemonic = "roof october protect attend alter draw venue property false gas asthma youth";
+var mnemonic = "blast social notable tunnel hammer put often version mechanic insane asset ski";

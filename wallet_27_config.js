@@ -1,1 +1,1 @@
-var mnemonic = "thank strike olympic model regret napkin apart print inquiry adapt warm ability";
+var mnemonic = "regret early dinosaur rally aware purchase mail clay weapon ocean swear enter";

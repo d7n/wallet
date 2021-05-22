@@ -1,1 +1,1 @@
-var mnemonic = "demand scrap file oak scale primary punch convince deputy supply deny junior";
+var mnemonic = "place topple stock frozen maid suit carry jazz region thank mutual liar";

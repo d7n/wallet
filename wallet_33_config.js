@@ -1,1 +1,1 @@
-var mnemonic = "level soon possible atom bulb inside unknown car cactus adult bunker tuition";
+var mnemonic = "deputy genre fetch phone dawn already lens hero twice edit copper weasel";

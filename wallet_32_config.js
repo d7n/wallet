@@ -1,1 +1,1 @@
-var mnemonic = "draft subject more cage joke social clog diary skull away rescue aware";
+var mnemonic = "doll forward fetch welcome bargain vocal isolate squirrel combine reduce divert arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket history rabbit road setup split foam sphere rookie penalty attend host";
+var mnemonic = "entire already script afraid fabric nest stock torch voyage swing vote joy";

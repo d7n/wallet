@@ -1,1 +1,1 @@
-var mnemonic = "bundle damage two bicycle execute quantum fossil atom merge accident trim exist";
+var mnemonic = "snack water problem original upgrade spider tone axis merge know boss describe";

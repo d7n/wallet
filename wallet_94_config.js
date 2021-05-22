@@ -1,1 +1,1 @@
-var mnemonic = "mixed rather venture bubble render mercy quote alcohol begin verify job proof";
+var mnemonic = "finish embody snack parade differ spin duck tongue ladder correct bless legal";

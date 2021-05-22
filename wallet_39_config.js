@@ -1,1 +1,1 @@
-var mnemonic = "era hammer cloud sell jungle attract famous one bid share bone behave";
+var mnemonic = "empty barrel say ahead cave regular gown kite satoshi destroy sick polar";

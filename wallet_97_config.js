@@ -1,1 +1,1 @@
-var mnemonic = "define already enemy cool ostrich old manual slender famous advice area repeat";
+var mnemonic = "slogan pulse uphold weather rely social resemble tortoise cash lizard same economy";

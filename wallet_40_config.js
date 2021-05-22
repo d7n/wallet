@@ -1,1 +1,1 @@
-var mnemonic = "attend gloom loyal card tank still blouse option abstract student surprise elephant";
+var mnemonic = "sign sail hurt pencil quiz galaxy refuse box discover salad thunder repair";

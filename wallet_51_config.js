@@ -1,1 +1,1 @@
-var mnemonic = "culture claim cloud face lumber crime educate bind fantasy pretty winter crater";
+var mnemonic = "wet cherry acoustic please arm able crouch shallow soda divide harsh fine";

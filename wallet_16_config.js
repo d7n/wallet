@@ -1,1 +1,1 @@
-var mnemonic = "prefer kick earth clog hip swift tell urban habit praise hurry slim";
+var mnemonic = "good ankle add wasp require where survey frost movie throw olive dawn";

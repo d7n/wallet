@@ -1,1 +1,1 @@
-var mnemonic = "wait bronze round enlist phrase waste snap kitchen live raw enable control";
+var mnemonic = "next ride boil smoke play legal indoor usage method mutual girl three";

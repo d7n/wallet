@@ -1,1 +1,1 @@
-var mnemonic = "whip escape grief wait goddess clock ugly equal hole evidence picnic famous";
+var mnemonic = "toilet sign aware ivory pull oval book bar solar digital wheat degree";

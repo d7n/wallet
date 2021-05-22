@@ -1,1 +1,1 @@
-var mnemonic = "trip wall almost post quit spray weather private theme skill shaft venture";
+var mnemonic = "unaware ribbon foil arm always brown win thought gold switch cage bounce";

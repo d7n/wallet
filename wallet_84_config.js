@@ -1,1 +1,1 @@
-var mnemonic = "toddler furnace glide banner object lesson clutch profit bamboo shop mercy spoon";
+var mnemonic = "earth tell cram leopard mail twelve genuine vapor mixed normal useful high";

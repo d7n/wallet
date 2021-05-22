@@ -1,1 +1,1 @@
-var mnemonic = "lock tunnel sausage axis risk jungle floor proud luggage tiger hammer warrior";
+var mnemonic = "output cram foam own actor mesh warrior crowd false critic salt slim";

@@ -1,1 +1,1 @@
-var mnemonic = "picture normal verify shield heavy spin try letter guilt hawk spice cattle";
+var mnemonic = "cause brief fabric still rack where sample syrup panda trick ancient palm";

@@ -1,1 +1,1 @@
-var mnemonic = "other palace physical series load bless total sea whisper enemy repair broken";
+var mnemonic = "under large material ostrich edit immune route barrel erupt rhythm slide section";

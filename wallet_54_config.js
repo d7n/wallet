@@ -1,1 +1,1 @@
-var mnemonic = "degree between barely protect danger lake run nuclear broccoli witness rude garlic";
+var mnemonic = "primary attitude aisle steak trial quiz friend say fresh glory penalty quit";

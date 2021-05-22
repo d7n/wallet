@@ -1,1 +1,1 @@
-var mnemonic = "motion can dream ivory scrub carbon supply process essence lake dish nest";
+var mnemonic = "oval slide fiction uphold acid uncle van train minor myself damage admit";

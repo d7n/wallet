@@ -1,1 +1,1 @@
-var mnemonic = "stamp cabin strategy subway orange inject already unusual leader february mass verb";
+var mnemonic = "sibling genius clog wing novel bracket oblige season stumble recycle reopen kiwi";

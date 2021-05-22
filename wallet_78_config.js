@@ -1,1 +1,1 @@
-var mnemonic = "upper benefit come kiwi note street daring joy term voice figure daring";
+var mnemonic = "sick true miss month super settle fabric relax say rather glove oven";

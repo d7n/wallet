@@ -1,1 +1,1 @@
-var mnemonic = "portion process success quit certain grain razor stem mad small client ketchup";
+var mnemonic = "furnace dose wagon black spy recycle account bunker awake awesome entry sign";

@@ -1,1 +1,1 @@
-var mnemonic = "domain adapt toy anger loop fish valid absurd bind pioneer debris situate";
+var mnemonic = "usage omit humor orphan crack master will surround suspect disagree stock desert";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon cigar usage summer pet tobacco dice bronze ice pledge beyond power";
+var mnemonic = "clay remember traffic puzzle reform easy help absurd dawn dumb only slogan";

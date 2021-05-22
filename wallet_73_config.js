@@ -1,1 +1,1 @@
-var mnemonic = "runway rifle ensure pottery gap asthma dice middle roast turkey horse city";
+var mnemonic = "donate design dinner cradle surround castle birth sure frog that actor expand";

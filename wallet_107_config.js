@@ -1,1 +1,1 @@
-var mnemonic = "minute use grain bird loyal protect rice sketch bus decline wrist vault";
+var mnemonic = "resource fox soldier brass wish apple spawn venture gain situate hard disease";

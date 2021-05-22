@@ -1,1 +1,1 @@
-var mnemonic = "pole real skull mass easily tortoise tobacco reopen bicycle rude afraid pumpkin";
+var mnemonic = "airport visit stomach govern soon home luggage stumble valid soda mirror car";

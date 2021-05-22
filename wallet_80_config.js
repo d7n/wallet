@@ -1,1 +1,1 @@
-var mnemonic = "copper crouch cover already offer item scorpion nothing you bless spoon delay";
+var mnemonic = "borrow focus genuine worth own round latin vacuum cigar abuse entry local";

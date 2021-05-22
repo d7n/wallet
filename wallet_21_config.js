@@ -1,1 +1,1 @@
-var mnemonic = "chaos whisper boost retire jazz bronze usual autumn join family horn useful";
+var mnemonic = "among regular pen leaf broccoli trim airport voyage moment shuffle eagle bike";

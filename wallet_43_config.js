@@ -1,1 +1,1 @@
-var mnemonic = "hundred draft camp action slow crash cry pair skull degree cupboard feed";
+var mnemonic = "grant inject dress together castle forward special live this twist unknown skin";

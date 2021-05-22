@@ -1,1 +1,1 @@
-var mnemonic = "gaze gospel police palm hope put nasty comic second fortune lemon fly";
+var mnemonic = "captain siege fly theme group force lady used sunset quote property acquire";

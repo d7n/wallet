@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wild strategy glue error demand catch symbol impulse force owner junior";
+var mnemonic = "proof certain cover skate trophy guess uniform cactus march leg wish jaguar";

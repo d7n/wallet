@@ -1,1 +1,1 @@
-var mnemonic = "icon fan price bleak fantasy nuclear shiver board public connect carry opinion";
+var mnemonic = "song diagram life pet roof best digital uncover tragic wink saddle shell";

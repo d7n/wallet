@@ -1,1 +1,1 @@
-var mnemonic = "lottery toddler letter thumb corn boss stumble item offer excess stamp winter";
+var mnemonic = "ketchup pretty zone junk oval guess ostrich crash cage define ostrich admit";

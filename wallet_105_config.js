@@ -1,1 +1,1 @@
-var mnemonic = "exchange soft carry predict ski category merge tide inflict slim super horse";
+var mnemonic = "medal gas angle enjoy pluck pitch lava icon shadow process release left";

@@ -1,1 +1,1 @@
-var mnemonic = "civil canyon group dirt hawk slogan bar crush senior embark any inspire";
+var mnemonic = "hurt win empower noodle museum bundle task program awesome skull truly visit";

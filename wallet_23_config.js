@@ -1,1 +1,1 @@
-var mnemonic = "math left ahead donate speak frost curve frost sunny drastic you about";
+var mnemonic = "describe buyer transfer laptop yellow thunder cabbage shield rural venture advice sure";

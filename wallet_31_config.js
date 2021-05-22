@@ -1,1 +1,1 @@
-var mnemonic = "jazz another shiver together rescue discover cricket forest teach grocery cram position";
+var mnemonic = "entry act heavy program dance prison wrestle calm soldier dignity where faith";

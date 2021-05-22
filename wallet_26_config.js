@@ -1,1 +1,1 @@
-var mnemonic = "curtain hedgehog reason inherit way code below typical salmon enlist peanut glow";
+var mnemonic = "illegal dress bulk agree anchor symptom remove tank certain reveal below tonight";

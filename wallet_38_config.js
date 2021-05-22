@@ -1,1 +1,1 @@
-var mnemonic = "betray fade various bundle now install citizen meat prosper advance monster south";
+var mnemonic = "trash limit bitter below travel color search bulb image asset laptop finish";

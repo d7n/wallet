@@ -1,1 +1,1 @@
-var mnemonic = "scrub coyote february ready pizza elbow carry lucky awake topic emerge shrug";
+var mnemonic = "snow peace boss manage culture bubble region vault food actress over ice";

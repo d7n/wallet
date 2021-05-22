@@ -1,1 +1,1 @@
-var mnemonic = "crop cannon athlete rude source panic release upon will surprise pumpkin consider";
+var mnemonic = "kitchen ecology angle latin nothing duty interest pigeon size spice clump grow";

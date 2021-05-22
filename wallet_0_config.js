@@ -1,1 +1,1 @@
-var mnemonic = "insane token cart spoon betray lock anchor cram afford solution fresh amount";
+var mnemonic = "usual behave company silly jump moral assault course sock survey volume object";

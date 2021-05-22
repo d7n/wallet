@@ -1,1 +1,1 @@
-var mnemonic = "negative tennis hair public dose close unable hello parrot train predict reunion";
+var mnemonic = "nephew palace broccoli gorilla infant famous spare spin drastic question pyramid skill";

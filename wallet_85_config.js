@@ -1,1 +1,1 @@
-var mnemonic = "alcohol wise winter immense call pulp credit olympic good lawn brown spare";
+var mnemonic = "solar maid power diagram piece sleep knock doll company torch because parade";
