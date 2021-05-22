@@ -1,1 +1,1 @@
-var mnemonic = "race coconut collect common curve luxury excess city issue knee pair bar";
+var mnemonic = "state matrix green child rifle alter doll mule length alien walk step";

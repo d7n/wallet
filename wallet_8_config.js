@@ -1,1 +1,1 @@
-var mnemonic = "letter youth bonus awful shield loan palace amazing test find swallow beauty";
+var mnemonic = "resource clip million banana rescue safe robot predict render nerve review accident";

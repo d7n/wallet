@@ -1,1 +1,1 @@
-var mnemonic = "unfair alarm token monkey sail tomato that video flower mule limb bacon";
+var mnemonic = "ginger noble pioneer boy burger demand advice loud foot mercy farm edit";

@@ -1,1 +1,1 @@
-var mnemonic = "link country remember method shell arrange glory almost exact army marble foam";
+var mnemonic = "artefact become vintage put march what decorate gentle secret leave catch quantum";

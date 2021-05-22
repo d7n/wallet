@@ -1,1 +1,1 @@
-var mnemonic = "lens good escape trade bronze wire simple chaos fetch shy dune design";
+var mnemonic = "erupt country reward hawk sail cave unable exotic solution gym find point";

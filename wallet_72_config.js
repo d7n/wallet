@@ -1,1 +1,1 @@
-var mnemonic = "one heavy west jelly early edit lend flame must hotel wine argue";
+var mnemonic = "leaf original marriage rude patient inside tennis distance tissue chalk salad ten";

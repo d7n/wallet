@@ -1,1 +1,1 @@
-var mnemonic = "nation donkey satoshi bless neither young ribbon round add unknown shaft aim";
+var mnemonic = "express bomb delay sun season great puzzle dance absorb soft strategy acoustic";

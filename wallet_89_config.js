@@ -1,1 +1,1 @@
-var mnemonic = "twenty cabbage certain rug jacket mountain basic begin trend dry theme raw";
+var mnemonic = "grain maze curve various convince bonus select tell deal marine destroy expect";

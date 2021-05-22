@@ -1,1 +1,1 @@
-var mnemonic = "bleak system merry state prize pool stamp notice possible orange tonight demand";
+var mnemonic = "whale fade nothing combine artwork execute angle deliver nothing cheap error intact";

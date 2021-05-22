@@ -1,1 +1,1 @@
-var mnemonic = "original hunt question party border remain expose atom around rack fit cruel";
+var mnemonic = "mystery cry flag parent pioneer federal misery kick tilt adult focus display";

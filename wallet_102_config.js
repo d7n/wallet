@@ -1,1 +1,1 @@
-var mnemonic = "fit tail salt vital ski federal deny method useless jazz slush bridge";
+var mnemonic = "fiscal easy boring laugh beef circle easy license next layer aim found";

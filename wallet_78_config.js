@@ -1,1 +1,1 @@
-var mnemonic = "alarm burger tourist buffalo demand stable blast dune suit rather move broccoli";
+var mnemonic = "object limb lawsuit salt regular rather parade cable ball domain left portion";

@@ -1,1 +1,1 @@
-var mnemonic = "chase improve detect setup expand small found whale dose flag section jazz";
+var mnemonic = "west home lemon end conduct wheat robust donkey solve suspect deputy load";

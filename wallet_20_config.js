@@ -1,1 +1,1 @@
-var mnemonic = "client mango artwork style resource edit gallery step nut canvas walnut direct";
+var mnemonic = "forward bench pioneer print slight twice boost mention peace left pear fantasy";

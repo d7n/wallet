@@ -1,1 +1,1 @@
-var mnemonic = "bachelor identify unable deer opinion army vote prosper require sense same kid";
+var mnemonic = "gauge fee duck join tide glad maximum orchard renew burger oil mansion";

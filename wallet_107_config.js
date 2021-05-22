@@ -1,1 +1,1 @@
-var mnemonic = "assist proud regret raccoon spice juice hint fade want fatal broken urban";
+var mnemonic = "craft wisdom roof train custom craft infant expect key attend camp vehicle";

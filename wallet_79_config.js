@@ -1,1 +1,1 @@
-var mnemonic = "blush dolphin sunset thank scrap fee pact dragon cactus guard beach denial";
+var mnemonic = "sorry tail fun shoulder damage picture happy inside legal romance strong announce";

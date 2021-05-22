@@ -1,1 +1,1 @@
-var mnemonic = "door paddle puzzle negative learn trouble buzz certain wonder drift enable member";
+var mnemonic = "library vendor best museum collect chicken mammal elbow task security ritual sentence";

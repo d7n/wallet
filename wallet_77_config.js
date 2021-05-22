@@ -1,1 +1,1 @@
-var mnemonic = "napkin flash unhappy culture scale palace craft argue swing method mix wreck";
+var mnemonic = "loan ginger leaf gossip snow quick grain quote tiny breeze risk short";

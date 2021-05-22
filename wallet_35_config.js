@@ -1,1 +1,1 @@
-var mnemonic = "stand cabbage service guide soft swap steel crime vicious candy enhance card";
+var mnemonic = "equip rifle puppy grab all vague walk clip agree acid trigger develop";

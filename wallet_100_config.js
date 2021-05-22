@@ -1,1 +1,1 @@
-var mnemonic = "jump glory grow empower amazing item carry stay apology crunch tiger thank";
+var mnemonic = "item dynamic accident perfect van disorder evil attract frost drop pilot random";

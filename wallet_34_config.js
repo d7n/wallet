@@ -1,1 +1,1 @@
-var mnemonic = "spread armed rude plug logic question glue birth egg already erase chat";
+var mnemonic = "want blossom title mutual green axis october cool benefit speak auction design";

@@ -1,1 +1,1 @@
-var mnemonic = "motor attract lawsuit shock sunset collect regular task fossil capable real gossip";
+var mnemonic = "chair click rug card stone relief must season usual pledge mail solve";

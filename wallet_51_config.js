@@ -1,1 +1,1 @@
-var mnemonic = "guilt gorilla giant friend warm brisk noble obtain coconut avocado snow rhythm";
+var mnemonic = "spot dish marine sadness tuition since child aspect run capital palm dignity";

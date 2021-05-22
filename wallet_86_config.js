@@ -1,1 +1,1 @@
-var mnemonic = "nasty civil spirit april miracle cover arena air soft aspect word allow";
+var mnemonic = "arena among wild category garlic position shock busy law dinner mutual little";

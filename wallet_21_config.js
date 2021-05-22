@@ -1,1 +1,1 @@
-var mnemonic = "kidney spread sunset romance promote genius umbrella prize direct plunge buffalo cool";
+var mnemonic = "venue airport good across pottery slice drill resemble knife enemy bring jazz";

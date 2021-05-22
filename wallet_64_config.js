@@ -1,1 +1,1 @@
-var mnemonic = "parent portion music charge now grocery legal dawn shine before battle sport";
+var mnemonic = "oven rocket name sausage until audit practice extra increase boil monkey heart";

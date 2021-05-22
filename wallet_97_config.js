@@ -1,1 +1,1 @@
-var mnemonic = "wet rug pool magic spoil link road afraid pudding pair boat wonder";
+var mnemonic = "metal husband enhance script odor devote gravity point rare chat donkey proof";

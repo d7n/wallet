@@ -1,1 +1,1 @@
-var mnemonic = "remind situate grunt flip moon kitchen unaware noise snow because trip blast";
+var mnemonic = "zoo glare time once route defense seek thing job entry piano false";

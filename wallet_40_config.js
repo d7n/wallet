@@ -1,1 +1,1 @@
-var mnemonic = "wave stadium moment island plunge half talk hand sunny balance ice awkward";
+var mnemonic = "sort bulb tumble museum aisle pair feel cement pair mix motion unit";

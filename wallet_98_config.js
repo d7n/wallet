@@ -1,1 +1,1 @@
-var mnemonic = "athlete only secret boss swamp half consider rug hole sketch country lecture";
+var mnemonic = "yard voice oppose pelican upgrade hello reason frozen action gather aisle keep";

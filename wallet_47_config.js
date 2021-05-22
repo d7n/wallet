@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gap ankle unfair program zebra jewel fruit annual maximum inside use";
+var mnemonic = "trial replace never venue toward cook head depend lion sure chat note";

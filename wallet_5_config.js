@@ -1,1 +1,1 @@
-var mnemonic = "effort mystery fault butter flock light hood picture tortoise anchor please system";
+var mnemonic = "hungry border author hair seven crucial charge sure patrol bottom ankle answer";

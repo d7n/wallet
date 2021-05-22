@@ -1,1 +1,1 @@
-var mnemonic = "steak upgrade action glad garment athlete repeat pitch vote coin item always";
+var mnemonic = "decrease economy settle country symbol pencil relax myself profit wife injury certain";

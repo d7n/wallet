@@ -1,1 +1,1 @@
-var mnemonic = "vast skate lucky oval couch final task run glad auto space glad";
+var mnemonic = "fruit defense retire weather squirrel blade since orbit elder drum name chef";

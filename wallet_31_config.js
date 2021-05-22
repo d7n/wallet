@@ -1,1 +1,1 @@
-var mnemonic = "wool ceiling hybrid skull sell try hour still palm loop pave service";
+var mnemonic = "begin title home focus sister dolphin wedding cloth work metal link pool";

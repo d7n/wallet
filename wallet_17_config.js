@@ -1,1 +1,1 @@
-var mnemonic = "creek artefact victory price term vacuum stumble dad tide hint fitness antique";
+var mnemonic = "glory explain more leave section control pig trouble pistol bike carpet furnace";

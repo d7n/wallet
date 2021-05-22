@@ -1,1 +1,1 @@
-var mnemonic = "grant caution observe sun host donkey parade payment usage cake vicious title";
+var mnemonic = "please rule grace shiver hood inherit catch matrix husband guide nuclear tape";

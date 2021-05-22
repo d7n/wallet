@@ -1,1 +1,1 @@
-var mnemonic = "congress brother raw regret test crater glass common fringe abandon buffalo bundle";
+var mnemonic = "news member guard vote right wine ahead boss ability summer ring expire";

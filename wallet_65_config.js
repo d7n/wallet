@@ -1,1 +1,1 @@
-var mnemonic = "order exhaust bind soap excess best item near stuff nothing dilemma name";
+var mnemonic = "salute reflect initial gift laundry wink tomato invest leaf obey sea tornado";

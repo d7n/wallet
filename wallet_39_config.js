@@ -1,1 +1,1 @@
-var mnemonic = "script electric cover leave first march mule saddle derive sustain squirrel again";
+var mnemonic = "way defense water elite gorilla gorilla type design response sentence surprise run";

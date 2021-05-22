@@ -1,1 +1,1 @@
-var mnemonic = "frequent help race noise below dash orange guess shallow rug radio pet";
+var mnemonic = "swap wedding hat hospital cabbage have away eye diary switch one exotic";

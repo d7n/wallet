@@ -1,1 +1,1 @@
-var mnemonic = "seat track general husband tone concert response diesel student same club unlock";
+var mnemonic = "mad village finish term into ankle excite despair below disagree pond leopard";

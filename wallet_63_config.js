@@ -1,1 +1,1 @@
-var mnemonic = "hawk dynamic link nominee wire split area jar prepare pause pioneer surge";
+var mnemonic = "debris master damage surround occur custom enlist wrist snap pulse blur mean";

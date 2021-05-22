@@ -1,1 +1,1 @@
-var mnemonic = "satisfy cotton romance girl oppose arrive blanket zero chunk brand earn frown";
+var mnemonic = "pyramid edge crime sample decade bronze much make exile rain blanket carry";

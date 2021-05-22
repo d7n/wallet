@@ -1,1 +1,1 @@
-var mnemonic = "trouble have inform toward midnight broccoli tube cage annual resemble butter version";
+var mnemonic = "gown entire romance awkward type trophy loyal adjust that permit bind mouse";

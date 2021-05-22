@@ -1,1 +1,1 @@
-var mnemonic = "gun laundry region asset grace feature accuse economy gate enforce menu cherry";
+var mnemonic = "expand obey spin beyond scan cliff flag usage trip any fish valve";

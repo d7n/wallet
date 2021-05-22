@@ -1,1 +1,1 @@
-var mnemonic = "reject best harvest shallow guitar lounge umbrella tail page giggle invest cute";
+var mnemonic = "film stool police behave rice orphan multiply abstract error valid team voice";

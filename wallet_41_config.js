@@ -1,1 +1,1 @@
-var mnemonic = "giraffe avocado planet reflect already craft old below hurt escape floor goddess";
+var mnemonic = "empty oval cover main canvas odor ocean cool public detail pencil doll";

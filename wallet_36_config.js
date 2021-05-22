@@ -1,1 +1,1 @@
-var mnemonic = "mail capital design board oven write hurry onion boil fancy better case";
+var mnemonic = "almost village season spatial chef hub hub ramp sunset boy tape donkey";

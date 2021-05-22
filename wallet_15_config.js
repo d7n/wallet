@@ -1,1 +1,1 @@
-var mnemonic = "high ship sadness rack box salon gossip empower sock blind sudden round";
+var mnemonic = "pencil cupboard female romance core desert cactus oil input spy run circle";

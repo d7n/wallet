@@ -1,1 +1,1 @@
-var mnemonic = "machine castle island help arm sniff reform bullet slow loop ready train";
+var mnemonic = "soon olive hint tide enjoy exile salon scatter excuse once merge truth";

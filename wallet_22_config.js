@@ -1,1 +1,1 @@
-var mnemonic = "slam evil hungry agent fault throw bounce spread agent accident creek case";
+var mnemonic = "decorate cliff middle about repeat olympic squeeze comic level lend unaware wheat";

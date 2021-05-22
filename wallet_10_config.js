@@ -1,1 +1,1 @@
-var mnemonic = "avoid gift conduct beyond exhaust liquid volcano clinic pause category color honey";
+var mnemonic = "salt funny symbol lobster drastic stool change page liquid burger mother rubber";

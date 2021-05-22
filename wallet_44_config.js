@@ -1,1 +1,1 @@
-var mnemonic = "shoot dolphin loyal sample worry ocean recall bicycle grass endorse grace thunder";
+var mnemonic = "idle party country way rate fog action lawsuit embrace machine jacket slush";

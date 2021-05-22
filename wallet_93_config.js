@@ -1,1 +1,1 @@
-var mnemonic = "confirm mention length awful taste harbor option indoor exclude rally common only";
+var mnemonic = "reunion grief snap tongue awesome pink cart hurry chair bike birth kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse myth swear magic lift pass result mention eyebrow letter erosion lava";
+var mnemonic = "foil skirt glove solve scare expire fence minor main kid elegant spice";

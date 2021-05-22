@@ -1,1 +1,1 @@
-var mnemonic = "case move save coach denial fan asthma venture claim faith receive record";
+var mnemonic = "outdoor measure lunch bunker piece access walk print hip exhaust resemble weird";

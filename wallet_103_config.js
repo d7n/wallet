@@ -1,1 +1,1 @@
-var mnemonic = "sorry buyer quiz art grid shallow feature kitten ozone minute december rebuild";
+var mnemonic = "minimum casual oblige fever aspect eye glove fit owner minor trouble bullet";

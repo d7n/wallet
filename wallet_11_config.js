@@ -1,1 +1,1 @@
-var mnemonic = "human undo floor range horse all away live object divide pistol idle";
+var mnemonic = "below crash blame submit grab flag fun pulse obvious strike aunt ball";

@@ -1,1 +1,1 @@
-var mnemonic = "believe farm sock mesh brother eagle dismiss field utility meadow rebel girl";
+var mnemonic = "grape kiwi virus duty magnet admit casino begin pelican agree sea plug";

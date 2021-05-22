@@ -1,1 +1,1 @@
-var mnemonic = "convince island lock gallery desert fury oak toy army crime artefact rely";
+var mnemonic = "swing clever brother kiss trip pepper absorb crowd ten surprise ball auction";

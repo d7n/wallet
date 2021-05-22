@@ -1,1 +1,1 @@
-var mnemonic = "beef vital math satisfy glow weather ready bunker color lawn clip into";
+var mnemonic = "about obtain vibrant calm fork verify stage junior name wide student proof";

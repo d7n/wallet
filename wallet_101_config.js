@@ -1,1 +1,1 @@
-var mnemonic = "slogan sad laptop asthma shoe razor illness input unaware goose gas erode";
+var mnemonic = "smart sausage average ticket nurse soldier emerge three patrol tail evil best";

@@ -1,1 +1,1 @@
-var mnemonic = "silly into rose visit exist resource next acoustic forum powder trim wool";
+var mnemonic = "paper butter dolphin slush brisk local donate wrong image rude bulb raw";

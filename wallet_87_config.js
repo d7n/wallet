@@ -1,1 +1,1 @@
-var mnemonic = "ensure scissors lunch swear hour exhaust rent hunt wheel sunset chalk defy";
+var mnemonic = "victory adult boil diesel throw rice salmon work panel age used under";

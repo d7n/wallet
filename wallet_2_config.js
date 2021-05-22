@@ -1,1 +1,1 @@
-var mnemonic = "impact leisure mechanic boat busy cattle dolphin funny release mimic dove region";
+var mnemonic = "canoe alpha hip float detect cherry subject hungry start kite real sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "you dilemma own vacant pottery flag cupboard bind void motor fiber almost";
+var mnemonic = "snake kit next toilet family exercise spend disease joke hotel inquiry feature";

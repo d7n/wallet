@@ -1,1 +1,1 @@
-var mnemonic = "weather better march plastic key matter east ticket ginger anchor shell list";
+var mnemonic = "pistol close grain expect about ready lady ship air today tribe gentle";

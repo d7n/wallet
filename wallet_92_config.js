@@ -1,1 +1,1 @@
-var mnemonic = "service ring occur vehicle recall tank team police drum dial smart agree";
+var mnemonic = "romance cry sphere museum blood vital day rubber attend sad electric broccoli";

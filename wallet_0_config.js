@@ -1,1 +1,1 @@
-var mnemonic = "stadium organ acid degree clap clean remove hill wide symbol mom leisure";
+var mnemonic = "winter truck fuel resource lamp tide forum neutral inform warm addict method";

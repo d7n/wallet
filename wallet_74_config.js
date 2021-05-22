@@ -1,1 +1,1 @@
-var mnemonic = "float depart any abstract lava search ignore cheap photo soda ghost loud";
+var mnemonic = "stage innocent venue pet stove spatial glide harsh comfort harsh grab input";

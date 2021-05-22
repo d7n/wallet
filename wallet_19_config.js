@@ -1,1 +1,1 @@
-var mnemonic = "shrimp because middle balcony myself input about toss faint solve siren mention";
+var mnemonic = "boat music plastic tent sausage bright dune eternal avocado vanish damage save";

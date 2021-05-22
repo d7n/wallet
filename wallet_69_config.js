@@ -1,1 +1,1 @@
-var mnemonic = "pipe knee unfold escape develop once response vacant region credit horror outside";
+var mnemonic = "family flip review expose blood double danger tide gown stove fancy loan";

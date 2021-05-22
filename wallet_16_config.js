@@ -1,1 +1,1 @@
-var mnemonic = "diet purse space fresh diamond expire door logic dial weasel poverty trust";
+var mnemonic = "prosper write tourist soda hard age amazing scrap smoke enough rather uncle";

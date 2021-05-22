@@ -1,1 +1,1 @@
-var mnemonic = "twist clump inch air exile party ugly glance axis divide collect actual";
+var mnemonic = "awake tongue base humor give agent nut image hobby rescue pumpkin spend";

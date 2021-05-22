@@ -1,1 +1,1 @@
-var mnemonic = "snow picnic heart sleep boss intact mutual use riot alley require arrow";
+var mnemonic = "inflict submit okay cabin cram civil panther garlic biology bread outer surround";

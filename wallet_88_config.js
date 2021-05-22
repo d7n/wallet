@@ -1,1 +1,1 @@
-var mnemonic = "smile vendor oil radio sock huge slam august broom fan actual hello";
+var mnemonic = "stand appear audit share whip rug solid claim bright earn slight purchase";

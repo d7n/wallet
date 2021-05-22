@@ -1,1 +1,1 @@
-var mnemonic = "sell visa best latin miss achieve boil desk secret sketch analyst luggage";
+var mnemonic = "click credit path clever there mother market unlock deal danger oval alone";

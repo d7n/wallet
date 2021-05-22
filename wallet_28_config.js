@@ -1,1 +1,1 @@
-var mnemonic = "dry sibling smile glide measure elevator become first push crucial awkward trick";
+var mnemonic = "distance engine sense creek naive twist leisure pulp life profit minimum orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence section moment control sugar another adapt winner sunny smile pledge genius";
+var mnemonic = "tree disagree mobile target stadium you hurt total polar define renew marble";

@@ -1,1 +1,1 @@
-var mnemonic = "space giggle sound model prosper fresh power eagle sphere slogan install artwork";
+var mnemonic = "wink birth toast spray argue damage virus portion beyond virus great jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "skull autumn ticket yellow quote useless kiss galaxy word park enact tobacco";
+var mnemonic = "stone illness hen plate rally siren donor scout transfer welcome balance ball";

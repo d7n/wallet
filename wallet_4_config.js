@@ -1,1 +1,1 @@
-var mnemonic = "manual owner deal draw era prevent top seek vicious faith marine garden";
+var mnemonic = "music curve lyrics tiger squeeze turtle adapt solution one leave delay rabbit";

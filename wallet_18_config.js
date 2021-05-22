@@ -1,1 +1,1 @@
-var mnemonic = "jacket lift canoe three bench easily twin under broccoli remember train betray";
+var mnemonic = "glare power below conduct goddess ozone story truck farm return fox improve";

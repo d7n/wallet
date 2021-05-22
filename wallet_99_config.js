@@ -1,1 +1,1 @@
-var mnemonic = "trade fashion digital rally fine slam calm feel flash mammal night impact";
+var mnemonic = "common city swing series find glad render sausage steel rude until snap";

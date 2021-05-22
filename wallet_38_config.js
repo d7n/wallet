@@ -1,1 +1,1 @@
-var mnemonic = "chimney solar staff enhance label brain early field section zero step allow";
+var mnemonic = "warm spray interest vehicle canoe crane fault height equip arm silk cliff";

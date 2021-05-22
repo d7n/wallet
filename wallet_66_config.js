@@ -1,1 +1,1 @@
-var mnemonic = "repair afraid topic old rate north valve blur path sock base review";
+var mnemonic = "myth write menu industry street fee crumble clip jump since disorder ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror useless evoke grocery throw auto churn plug trick bracket relief venue";
+var mnemonic = "cycle power develop turtle fiber volcano spring rookie charge lesson rib beach";
