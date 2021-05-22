@@ -1,1 +1,1 @@
-var mnemonic = "gesture cruel shove mountain come hurdle identify normal width usage myself fantasy";
+var mnemonic = "body liberty neutral sample when mixed baby identify punch field business naive";

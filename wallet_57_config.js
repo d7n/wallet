@@ -1,1 +1,1 @@
-var mnemonic = "bubble tower section lady still void gas false rocket flash mix kid";
+var mnemonic = "clap edge suspect mosquito logic observe region will pink ketchup rent color";

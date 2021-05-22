@@ -1,1 +1,1 @@
-var mnemonic = "sell lizard maple leisure target goat okay wide ribbon wing keep pudding";
+var mnemonic = "trick post manual enable stomach hole sunny rival river patrol bacon fancy";

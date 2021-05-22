@@ -1,1 +1,1 @@
-var mnemonic = "crash liberty fog rack twelve net ten rebel opera tape erase letter";
+var mnemonic = "assault ship unaware sight under receive elder endorse zone whisper olympic barrel";

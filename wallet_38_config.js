@@ -1,1 +1,1 @@
-var mnemonic = "slab ceiling dinosaur parent round copy daughter grab dash guess liquid feature";
+var mnemonic = "rib detect ladder palace film daring casino solar diesel hurry danger keen";

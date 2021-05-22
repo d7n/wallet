@@ -1,1 +1,1 @@
-var mnemonic = "mosquito oval brief undo negative bicycle truly timber link clap roast keen";
+var mnemonic = "matrix cheap smoke prefer above firm nice page castle rhythm ginger when";

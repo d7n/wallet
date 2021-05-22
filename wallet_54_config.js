@@ -1,1 +1,1 @@
-var mnemonic = "coyote lesson aspect dress curve win scorpion island team shoot lamp volcano";
+var mnemonic = "into suffer world cruise forest human subway lounge state rifle bubble kick";

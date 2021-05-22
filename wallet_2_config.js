@@ -1,1 +1,1 @@
-var mnemonic = "rib fossil divorce depth initial produce coach kangaroo width polar bind lady";
+var mnemonic = "pipe empower maze seminar thing drip patch pair forward claim cricket jelly";

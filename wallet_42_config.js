@@ -1,1 +1,1 @@
-var mnemonic = "brass token hen ice range brave guitar treat nose bean rare car";
+var mnemonic = "valley frown brick rude notable accident wage leg scout extra torch barely";

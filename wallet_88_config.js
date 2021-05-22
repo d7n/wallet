@@ -1,1 +1,1 @@
-var mnemonic = "furnace candy blade insect tray brass rack you employ group fury bracket";
+var mnemonic = "picture bench pair route session cart nerve accuse agree art envelope movie";

@@ -1,1 +1,1 @@
-var mnemonic = "soap suit shoe yard fashion material minor glare alpha flame onion web";
+var mnemonic = "measure suffer dice allow boy fever woman rally artwork scan viable reduce";

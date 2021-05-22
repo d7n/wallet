@@ -1,1 +1,1 @@
-var mnemonic = "arm turkey dream tower forest toe unfold group creek cloud control order";
+var mnemonic = "elegant media boil record fever sheriff rally october pitch chapter fruit control";

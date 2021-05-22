@@ -1,1 +1,1 @@
-var mnemonic = "awake already enrich chair code rotate reduce dry tenant vital antenna renew";
+var mnemonic = "bird betray rotate wear follow pudding hotel scout opinion health thrive chef";

@@ -1,1 +1,1 @@
-var mnemonic = "negative payment type wrestle planet enroll shine host ostrich peasant female orbit";
+var mnemonic = "cloth describe speed weasel situate exchange vault cloth digital three water oil";

@@ -1,1 +1,1 @@
-var mnemonic = "young chef collect whip tail dragon rival degree bottom jacket slide save";
+var mnemonic = "whip chalk mansion cry shift uncover imitate shine merry ask fly margin";

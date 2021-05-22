@@ -1,1 +1,1 @@
-var mnemonic = "false giraffe cry ready bounce phone rookie miss tail quality crunch liar";
+var mnemonic = "elephant roof daring gather announce puzzle still march taxi ketchup field actual";

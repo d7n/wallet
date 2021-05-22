@@ -1,1 +1,1 @@
-var mnemonic = "rookie code unfair escape roast mixture road announce second announce indoor man";
+var mnemonic = "rose learn gospel episode asthma avoid avoid oppose list machine oblige decorate";

@@ -1,1 +1,1 @@
-var mnemonic = "consider ramp arena slab dawn kick absent slice reveal book vital enhance";
+var mnemonic = "butter health rate merit scheme plastic old achieve lottery camp photo female";

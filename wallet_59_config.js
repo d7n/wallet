@@ -1,1 +1,1 @@
-var mnemonic = "move hungry surprise diet please nasty lounge minor discover famous ancient put";
+var mnemonic = "demise demise romance peasant whale spring hurry flower fold document zebra anxiety";

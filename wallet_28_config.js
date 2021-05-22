@@ -1,1 +1,1 @@
-var mnemonic = "kidney canyon upper pond figure abuse cabbage hair you reason snack relief";
+var mnemonic = "whale sunny angry arctic deal power decade grunt cage hurry actress upset";

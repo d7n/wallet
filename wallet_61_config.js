@@ -1,1 +1,1 @@
-var mnemonic = "foam grace field carbon seed segment harvest solid boil rifle soup talent";
+var mnemonic = "crowd express coach violin viable walnut dizzy recipe shaft pull seek fat";

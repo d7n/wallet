@@ -1,1 +1,1 @@
-var mnemonic = "motion unit ripple damage seven wife just pulse slim adult vault enter";
+var mnemonic = "maid glide inform endorse marble stick demand wage rally mosquito come please";

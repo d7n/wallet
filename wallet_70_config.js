@@ -1,1 +1,1 @@
-var mnemonic = "blade silk enjoy once web animal tomato syrup unit trend fruit strategy";
+var mnemonic = "speak prison truck prepare ketchup dad bubble tip tired same caution fluid";

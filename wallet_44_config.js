@@ -1,1 +1,1 @@
-var mnemonic = "leave adult behind arrange case tape change garage horse already patch second";
+var mnemonic = "token palace always control birth robust heavy amount grocery shrimp fringe calm";

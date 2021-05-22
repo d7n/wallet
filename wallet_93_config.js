@@ -1,1 +1,1 @@
-var mnemonic = "clay hour impose poet glimpse other patch hen learn scrub output fortune";
+var mnemonic = "sample include couch burger coconut video discover reflect empty holiday way skill";

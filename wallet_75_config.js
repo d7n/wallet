@@ -1,1 +1,1 @@
-var mnemonic = "demise emerge flag raccoon jump champion make destroy trust mercy sunset all";
+var mnemonic = "wrestle slogan donate story slogan beach pill silly lecture switch like vicious";

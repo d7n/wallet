@@ -1,1 +1,1 @@
-var mnemonic = "badge amused matrix actor actual example jelly sentence erosion seminar frequent milk";
+var mnemonic = "say version hurt taste high conduct pink soul deputy tissue stadium mad";

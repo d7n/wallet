@@ -1,1 +1,1 @@
-var mnemonic = "eight all pattern cannon hundred dutch fetch reflect rude income dash large";
+var mnemonic = "caution vast clerk raccoon inform bronze devote border gain inquiry scene mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "wear forward lizard film head grunt wire security hybrid caution venture decrease";
+var mnemonic = "argue hill issue pizza idea draw banana sword across tent film miracle";

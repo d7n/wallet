@@ -1,1 +1,1 @@
-var mnemonic = "bone this decline surprise family arrange swift glue sunset reason flash loud";
+var mnemonic = "horror heart soldier give move clay toy veteran jar thumb olympic end";

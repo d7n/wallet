@@ -1,1 +1,1 @@
-var mnemonic = "opera execute win tribe brave tonight total grape brown design dumb stumble";
+var mnemonic = "leisure pull ball stay race mother play table thought genre ancient truly";

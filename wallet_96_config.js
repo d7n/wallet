@@ -1,1 +1,1 @@
-var mnemonic = "fee swear divert vivid animal lobster step stock absorb knife chicken wing";
+var mnemonic = "choose pipe brown pepper rural domain bronze fame fatigue secret fossil fame";

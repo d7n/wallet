@@ -1,1 +1,1 @@
-var mnemonic = "jungle annual enemy account raccoon kingdom stamp electric noise barely finish aerobic";
+var mnemonic = "judge section hope course tennis tone comfort coral net dawn mask lab";

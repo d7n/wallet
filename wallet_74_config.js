@@ -1,1 +1,1 @@
-var mnemonic = "dial alarm social program south rule pair negative anxiety calm close idea";
+var mnemonic = "stool believe wash relax crop rich slogan army mutual girl violin gold";

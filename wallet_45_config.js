@@ -1,1 +1,1 @@
-var mnemonic = "help gentle erase quick proud what gallery hero wage limit anxiety brother";
+var mnemonic = "unable nice gift logic muffin violin candy satoshi plastic road make print";

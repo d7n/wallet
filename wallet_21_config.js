@@ -1,1 +1,1 @@
-var mnemonic = "female box dismiss improve injury circle future nice fame reopen cloth extra";
+var mnemonic = "neutral top hazard bottom polar denial silk news museum priority task excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney garbage pattern slogan ridge marble moon denial second divorce cash make";
+var mnemonic = "feature device grass you enable science canoe can invite hurdle nominee rule";

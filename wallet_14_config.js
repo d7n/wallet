@@ -1,1 +1,1 @@
-var mnemonic = "armed health young vocal virus disagree nut choose want desert away cinnamon";
+var mnemonic = "casual open truck obey useful black chat monkey infant stock company interest";

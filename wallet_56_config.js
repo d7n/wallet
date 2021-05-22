@@ -1,1 +1,1 @@
-var mnemonic = "child cover sea light dose ginger depend multiply photo humble sponsor blade";
+var mnemonic = "scale elegant weather grant unique lesson dumb uncover travel certain true cotton";

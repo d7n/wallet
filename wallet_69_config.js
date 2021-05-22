@@ -1,1 +1,1 @@
-var mnemonic = "imitate agent pool weapon decide prefer home manual ten young fault cook";
+var mnemonic = "supreme birth stool aware slice miracle news innocent real since battle runway";

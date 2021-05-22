@@ -1,1 +1,1 @@
-var mnemonic = "ball parade catalog average stem amused jewel eyebrow seek leader hello among";
+var mnemonic = "noise romance swing mistake surface mosquito buffalo traffic culture pill cycle number";

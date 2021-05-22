@@ -1,1 +1,1 @@
-var mnemonic = "festival hollow wool fiscal bonus sting climb blanket lion miss crumble fix";
+var mnemonic = "physical flush rubber pottery pave chimney vault crumble soldier wet sure else";

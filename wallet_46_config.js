@@ -1,1 +1,1 @@
-var mnemonic = "fine peasant chase coyote usage switch subway energy yellow sock hero once";
+var mnemonic = "hurdle bitter strike once stage fitness wild merit curtain fee size tired";

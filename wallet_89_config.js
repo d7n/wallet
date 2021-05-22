@@ -1,1 +1,1 @@
-var mnemonic = "weasel shoot jazz hollow margin diagram few diary drop resemble size sword";
+var mnemonic = "night inside glimpse three solve before decide slice tribe useless hire finger";

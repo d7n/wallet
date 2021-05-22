@@ -1,1 +1,1 @@
-var mnemonic = "cradle earth album soccer dutch foil peasant loan moment income force apology";
+var mnemonic = "shoot draft burst during gold easy off hello boost until egg seminar";

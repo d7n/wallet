@@ -1,1 +1,1 @@
-var mnemonic = "whale ill argue venue ostrich viable alpha example employ pigeon alcohol toilet";
+var mnemonic = "hazard globe pool awake dance corn fashion yard rule dose traffic box";

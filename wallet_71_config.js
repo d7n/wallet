@@ -1,1 +1,1 @@
-var mnemonic = "unfold network fun soul better toast genius inside diet guide crunch file";
+var mnemonic = "protect still because shop piano logic buyer fruit speak lobster prevent start";

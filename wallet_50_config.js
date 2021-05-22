@@ -1,1 +1,1 @@
-var mnemonic = "embody genre advance nerve obvious swap find tilt traffic pizza buzz attack";
+var mnemonic = "follow globe type list quick quarter wrong squeeze roast bind budget canal";

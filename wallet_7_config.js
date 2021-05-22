@@ -1,1 +1,1 @@
-var mnemonic = "cost glare blouse abuse young plug couch blood hub coral square place";
+var mnemonic = "cinnamon deliver finish enable solid section best delay more mystery oblige wrestle";

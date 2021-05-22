@@ -1,1 +1,1 @@
-var mnemonic = "never gaze critic boss smart net company roof limb comfort iron enforce";
+var mnemonic = "mango response obscure marriage video response deny behave bamboo journey often satisfy";

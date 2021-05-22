@@ -1,1 +1,1 @@
-var mnemonic = "pet expire sauce file tuition walnut height scene kingdom subject pudding guess";
+var mnemonic = "garment breeze guilt misery occur degree photo yellow van mansion holiday office";

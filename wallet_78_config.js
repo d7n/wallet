@@ -1,1 +1,1 @@
-var mnemonic = "immune finish notice simple width topple century stumble aunt mansion pet jealous";
+var mnemonic = "rely catalog balance walnut route turkey capable space own owner lawn forget";

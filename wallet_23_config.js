@@ -1,1 +1,1 @@
-var mnemonic = "reform approve vacuum dolphin mystery lizard report typical elbow bridge trim multiply";
+var mnemonic = "tower approve false bacon alarm pepper oak rotate almost exhaust admit social";

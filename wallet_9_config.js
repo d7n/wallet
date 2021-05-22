@@ -1,1 +1,1 @@
-var mnemonic = "dismiss ask boat roast already possible action gaze hand artwork range where";
+var mnemonic = "shoot horn leaf nothing ribbon pottery top valve shoot void quit visual";

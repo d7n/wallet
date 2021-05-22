@@ -1,1 +1,1 @@
-var mnemonic = "term shoe buffalo traffic lock fitness blind media uphold sure mosquito midnight";
+var mnemonic = "blossom speed size village decline toilet cycle speak crack rabbit print valley";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel health brick butter shaft person claim barrel receive sentence light awake";
+var mnemonic = "attitude food talent life one school planet belt melody demand tribe left";

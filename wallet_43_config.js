@@ -1,1 +1,1 @@
-var mnemonic = "early spatial allow pupil inch remove theory edge cotton scare country shrug";
+var mnemonic = "prosper track second cotton virtual way explain mixed harsh spell deposit gadget";

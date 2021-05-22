@@ -1,1 +1,1 @@
-var mnemonic = "infant rough decrease away spread review proud tuition primary price flat rely";
+var mnemonic = "announce table output person decline below rich summer ethics bullet like alpha";

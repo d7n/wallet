@@ -1,1 +1,1 @@
-var mnemonic = "zoo bone have ancient future bag below human income myself build because";
+var mnemonic = "satoshi eye joy original feature mistake trip kangaroo problem egg question main";

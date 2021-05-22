@@ -1,1 +1,1 @@
-var mnemonic = "stay round fiction gospel face dilemma crystal pen ensure old coin secret";
+var mnemonic = "pipe horse endorse rent text property hedgehog country cream coyote young around";

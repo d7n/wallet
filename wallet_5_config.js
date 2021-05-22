@@ -1,1 +1,1 @@
-var mnemonic = "federal fragile warfare cute tape forest arm region chaos maze snow run";
+var mnemonic = "vessel attract grief airport blame heart oblige lab fire aim tongue transfer";

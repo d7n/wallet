@@ -1,1 +1,1 @@
-var mnemonic = "swim nerve unit angle toast quote inquiry chair addict cabbage nuclear edge";
+var mnemonic = "nerve stereo neglect repeat unaware hundred fluid walnut burger mass caution volume";

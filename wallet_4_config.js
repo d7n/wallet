@@ -1,1 +1,1 @@
-var mnemonic = "marriage web hope patrol video outer sell impulse train today glare ramp";
+var mnemonic = "output gold network grid clay icon zebra step bracket goat penalty dizzy";

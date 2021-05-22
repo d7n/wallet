@@ -1,1 +1,1 @@
-var mnemonic = "bid accident uncover bamboo auction sauce runway crazy surround poem husband win";
+var mnemonic = "student tourist subject enroll angry destroy basic spread setup apology garment jaguar";

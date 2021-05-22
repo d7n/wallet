@@ -1,1 +1,1 @@
-var mnemonic = "genuine escape blanket kind increase shoot local define swarm promote cause collect";
+var mnemonic = "enforce purity pyramid remember isolate deal mountain until wise high bring idle";

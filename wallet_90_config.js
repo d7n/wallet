@@ -1,1 +1,1 @@
-var mnemonic = "wisdom leopard ladder anxiety joy champion arch road armor scheme scan yard";
+var mnemonic = "rival suit skate rain valley glide pudding balcony bag crater match bench";

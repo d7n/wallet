@@ -1,1 +1,1 @@
-var mnemonic = "boring cancel device attend lecture symbol ramp section pretty scissors seat force";
+var mnemonic = "spawn doll stomach fruit depart inspire retire pitch canal still initial member";

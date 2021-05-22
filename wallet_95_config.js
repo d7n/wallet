@@ -1,1 +1,1 @@
-var mnemonic = "control egg narrow select change indicate area panel bag matter change fox";
+var mnemonic = "bunker venture response good unknown exercise bird faculty exhibit lesson capable seven";

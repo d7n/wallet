@@ -1,1 +1,1 @@
-var mnemonic = "prison crew party next nose entry dolphin fix tell jungle half price";
+var mnemonic = "blanket grant repair noodle remove slam rent sample about language step define";

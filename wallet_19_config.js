@@ -1,1 +1,1 @@
-var mnemonic = "fluid like wine window federal travel unlock concert ranch scheme ugly chapter";
+var mnemonic = "orchard robust flame allow dumb olive exclude bundle blast bubble art steak";

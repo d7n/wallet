@@ -1,1 +1,1 @@
-var mnemonic = "frost loud symbol reveal wet fluid large auto decorate cream lift during";
+var mnemonic = "frog clarify valve awful mercy regular tilt action trouble maze arena ugly";

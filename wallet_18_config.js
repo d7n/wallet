@@ -1,1 +1,1 @@
-var mnemonic = "point repeat wait short forget myself try weather region dinner embark student";
+var mnemonic = "seminar spider thunder flight attack climb section gas smart gesture rocket rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "adult awful message peasant eyebrow around palace habit spring deposit local protect";
+var mnemonic = "shoulder barely club few economy blood flash vivid bomb regular valve spend";

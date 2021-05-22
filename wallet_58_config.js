@@ -1,1 +1,1 @@
-var mnemonic = "vital number melody taste day image promote congress shrimp struggle negative wash";
+var mnemonic = "script smooth raven width gap warfare symptom guess train destroy ordinary brisk";

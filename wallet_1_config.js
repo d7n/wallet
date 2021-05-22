@@ -1,1 +1,1 @@
-var mnemonic = "vault exercise describe tide edit neutral say that pass poverty luxury army";
+var mnemonic = "man puppy hip crime treat pledge olive name idle gather manual domain";

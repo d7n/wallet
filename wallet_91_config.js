@@ -1,1 +1,1 @@
-var mnemonic = "seek gorilla oyster ripple vicious twist blur ghost table pig toast what";
+var mnemonic = "clump protect agree artwork pool identify prosper nature spirit area brave shell";

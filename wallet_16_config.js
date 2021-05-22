@@ -1,1 +1,1 @@
-var mnemonic = "hawk suspect smile choose mechanic video during violin timber credit minor barely";
+var mnemonic = "valve solution finish boy mixture pulse horror nephew fish orphan valve alone";

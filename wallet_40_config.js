@@ -1,1 +1,1 @@
-var mnemonic = "body announce property fiction goddess layer deal pottery still still essence faculty";
+var mnemonic = "depth clinic inquiry great slight sock anchor inject course few music dove";

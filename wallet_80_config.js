@@ -1,1 +1,1 @@
-var mnemonic = "army course anxiety unique mass reduce coyote glance tag anger artwork odor";
+var mnemonic = "glove dog prefer vessel skate army direct bind air torch truly ranch";

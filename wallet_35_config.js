@@ -1,1 +1,1 @@
-var mnemonic = "suffer april evolve medal coral trouble mention entry popular muscle fee double";
+var mnemonic = "sail fabric kingdom pulp put blast lucky genre abstract keep put pen";

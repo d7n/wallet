@@ -1,1 +1,1 @@
-var mnemonic = "glory spell frequent bench rare cluster escape same toddler wagon clay ivory";
+var mnemonic = "hover aim merry race pen artwork run thrive organ cargo wash lobster";

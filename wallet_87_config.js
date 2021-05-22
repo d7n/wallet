@@ -1,1 +1,1 @@
-var mnemonic = "river uphold enrich key raven home decorate salute radio long urge draft";
+var mnemonic = "tomorrow liquid thumb fabric tooth damage total little company grit crisp day";

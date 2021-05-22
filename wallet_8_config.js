@@ -1,1 +1,1 @@
-var mnemonic = "ecology orange super bird grow city tuition there joy amount cause when";
+var mnemonic = "forward language just group recycle sad sugar unhappy deputy father spice knee";

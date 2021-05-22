@@ -1,1 +1,1 @@
-var mnemonic = "expire void main melt coyote badge shadow embark impulse trade armor sheriff";
+var mnemonic = "rigid praise sketch fame innocent script fringe code two quantum bomb sustain";

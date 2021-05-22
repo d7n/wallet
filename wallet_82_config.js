@@ -1,1 +1,1 @@
-var mnemonic = "yard vehicle fury cabin emerge until clip price among wink sick garden";
+var mnemonic = "clean install dutch work setup stand defy dust loyal rifle admit prefer";

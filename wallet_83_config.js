@@ -1,1 +1,1 @@
-var mnemonic = "badge next group month tortoise more gym famous economy lonely want river";
+var mnemonic = "elevator wife trip banner coach gesture lava exit actor tag scrub secret";

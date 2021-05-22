@@ -1,1 +1,1 @@
-var mnemonic = "tennis effort miss blast pupil copper milk tip scorpion company conduct trade";
+var mnemonic = "upset unaware trash crater what awake pitch pepper youth short offer usage";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore cry gravity measure travel guess between clown garment parrot add lucky";
+var mnemonic = "identify glimpse long boat beyond when guard silent torch oyster sign fat";

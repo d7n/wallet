@@ -1,1 +1,1 @@
-var mnemonic = "claw toilet rookie wet library gold milk claim tonight sight photo final";
+var mnemonic = "stock cancel increase elbow frequent pitch nature hollow envelope drastic fatigue acid";

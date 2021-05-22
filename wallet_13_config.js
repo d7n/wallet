@@ -1,1 +1,1 @@
-var mnemonic = "hybrid cave squirrel allow good nothing choice kit grant have shadow expose";
+var mnemonic = "ability buyer undo heart stage opera joy cash slot engine trumpet problem";

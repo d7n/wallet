@@ -1,1 +1,1 @@
-var mnemonic = "desert common shoulder age account antenna song circle atom wrap trust apology";
+var mnemonic = "mask letter desk poet birth guard citizen ozone mother waste math length";

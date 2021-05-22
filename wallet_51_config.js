@@ -1,1 +1,1 @@
-var mnemonic = "photo knee surprise merit sketch width apart envelope aunt unusual simple day";
+var mnemonic = "country divorce accident soldier foam object coral huge stand march green shift";

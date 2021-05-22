@@ -1,1 +1,1 @@
-var mnemonic = "blood easy antique merge frown lobster sea main arrow ready say dial";
+var mnemonic = "custom report wine write trend chalk slab either blade forum region canoe";

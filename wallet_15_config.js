@@ -1,1 +1,1 @@
-var mnemonic = "maximum six vague dust picnic sweet cloud quarter hill athlete foil replace";
+var mnemonic = "front start problem sure symptom announce uphold crunch build sadness guide relax";
