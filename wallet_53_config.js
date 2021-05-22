@@ -1,1 +1,1 @@
-var mnemonic = "critic void knock garbage cherry puppy settle custom indicate antenna gorilla viable";
+var mnemonic = "table save narrow orange brown shock runway fame endorse police buyer glance";

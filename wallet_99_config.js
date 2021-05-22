@@ -1,1 +1,1 @@
-var mnemonic = "minimum virus woman prevent evolve crazy obvious arch client winter yellow summer";
+var mnemonic = "turn panic used rule vapor cram wire undo advance scheme tooth slam";

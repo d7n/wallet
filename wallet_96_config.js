@@ -1,1 +1,1 @@
-var mnemonic = "destroy kite acquire wise short unknown there next olive razor cradle perfect";
+var mnemonic = "gesture panel struggle tail hammer cube frost stairs east genius undo avoid";

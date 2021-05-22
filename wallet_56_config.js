@@ -1,1 +1,1 @@
-var mnemonic = "pen prefer measure tray awesome three turn mutual flash edge agent glide";
+var mnemonic = "clock one lazy walnut museum frost lecture abuse crystal caught nose turtle";

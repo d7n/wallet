@@ -1,1 +1,1 @@
-var mnemonic = "rule feature celery stock morning now poverty fun eager ability fantasy impose";
+var mnemonic = "wasp walnut airport comic budget easy sketch actress crouch impulse crater crack";

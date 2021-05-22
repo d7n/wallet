@@ -1,1 +1,1 @@
-var mnemonic = "gap blood limb obtain edge cross save cover calm broom peasant staff";
+var mnemonic = "fringe since inmate ahead bunker wall surround certain palace snake upset ritual";

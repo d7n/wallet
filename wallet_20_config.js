@@ -1,1 +1,1 @@
-var mnemonic = "mystery sword modify search broom broom slice check old monster harbor arch";
+var mnemonic = "domain absurd flash run work dad employ curtain purpose exotic price airport";

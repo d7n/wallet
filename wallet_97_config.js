@@ -1,1 +1,1 @@
-var mnemonic = "source coyote curtain toilet north visit mother gaze inform become clog spare";
+var mnemonic = "later deny major spray brass amused seven valid melody rail soon transfer";

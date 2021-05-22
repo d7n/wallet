@@ -1,1 +1,1 @@
-var mnemonic = "action stove analyst gym burst neglect spatial auto buzz oblige sample mercy";
+var mnemonic = "vapor napkin ankle bright dust roof danger symptom animal brush club fall";

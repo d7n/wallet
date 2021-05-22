@@ -1,1 +1,1 @@
-var mnemonic = "minimum benefit language exist venture certain memory stay result car slight piece";
+var mnemonic = "number hover avocado toe media local unlock friend ketchup this fresh tumble";

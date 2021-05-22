@@ -1,1 +1,1 @@
-var mnemonic = "move memory scale energy ghost also impose grit please rebel glass grid";
+var mnemonic = "carpet caution monster dignity test best myth soon absorb elegant repair addict";

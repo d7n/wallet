@@ -1,1 +1,1 @@
-var mnemonic = "check bonus brown torch tortoise tennis stadium bracket liquid patrol whisper lion";
+var mnemonic = "unaware page theme demand economy churn liquid rapid lamp okay giggle slush";

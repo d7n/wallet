@@ -1,1 +1,1 @@
-var mnemonic = "shadow ozone slam you opera absorb struggle never solution glove two found";
+var mnemonic = "cabbage fiscal evil syrup manual token rotate check remain title genre valley";

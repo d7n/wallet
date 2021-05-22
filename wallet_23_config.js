@@ -1,1 +1,1 @@
-var mnemonic = "decade jeans slice grab great welcome hour hunt cloud useful iron theory";
+var mnemonic = "false exist waste brave merge between another drop pull depth food yard";

@@ -1,1 +1,1 @@
-var mnemonic = "mom rude below century pitch net abandon enforce stereo manage shiver bird";
+var mnemonic = "next onion achieve wine quote more bracket regular core north cereal theory";

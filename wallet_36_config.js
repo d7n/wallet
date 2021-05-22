@@ -1,1 +1,1 @@
-var mnemonic = "top leg hood panda language across glow notable climb grass dinosaur giggle";
+var mnemonic = "write indicate great liquid grunt symptom equal lecture zone orient excuse prison";

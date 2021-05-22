@@ -1,1 +1,1 @@
-var mnemonic = "check awful exchange twist round stem require trash saddle possible shield midnight";
+var mnemonic = "swing reward clutch science cry pistol emotion orbit despair airport border vibrant";

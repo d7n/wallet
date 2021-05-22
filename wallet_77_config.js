@@ -1,1 +1,1 @@
-var mnemonic = "whale green exclude cute tower recycle detail fiction crystal man myself chicken";
+var mnemonic = "patch type proud earth flock weasel february ten trend need pet section";

@@ -1,1 +1,1 @@
-var mnemonic = "beach search explain toss cash finish aisle alcohol turtle gain mule damp";
+var mnemonic = "worth decline assist kingdom parrot unable buyer own siege item reunion buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery join monster clock neglect edit gauge few rely legal click riot";
+var mnemonic = "resist process mix lemon cliff syrup ice kind fire unknown cake cause";

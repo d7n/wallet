@@ -1,1 +1,1 @@
-var mnemonic = "gloom side reveal resist blush clutch express twenty smoke rug climb spawn";
+var mnemonic = "palace faint project alone device goose hip virtual awake laugh violin power";

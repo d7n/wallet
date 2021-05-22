@@ -1,1 +1,1 @@
-var mnemonic = "vivid element creek cannon actress radar vibrant topple soldier page mobile curious";
+var mnemonic = "sauce copy vast general slight manage boil sea hawk patch dice normal";

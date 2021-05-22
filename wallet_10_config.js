@@ -1,1 +1,1 @@
-var mnemonic = "problem sphere adjust ring viable deliver year bid rebuild play eager prize";
+var mnemonic = "dignity barely truck dash educate blush april holiday uncle engage solar valve";

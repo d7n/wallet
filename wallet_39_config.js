@@ -1,1 +1,1 @@
-var mnemonic = "post corn kitchen shock render already pond wagon just bike few year";
+var mnemonic = "sadness frost lobster right there bone original post target sing day gun";

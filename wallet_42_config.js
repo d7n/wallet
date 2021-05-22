@@ -1,1 +1,1 @@
-var mnemonic = "crowd portion please purse avoid crouch inside august kind solid chest lottery";
+var mnemonic = "hand suffer output chaos quarter awful response pistol impose romance used auction";

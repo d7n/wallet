@@ -1,1 +1,1 @@
-var mnemonic = "surface finish boy ride blade harvest suspect check observe music check move";
+var mnemonic = "mean embrace olive chuckle sell flight behave blood avocado spawn tank actor";

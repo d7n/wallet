@@ -1,1 +1,1 @@
-var mnemonic = "dove hill gauge reduce enrich spray cricket piece excite sign orphan ramp";
+var mnemonic = "output rib reunion lounge anchor marriage soup holiday shiver tank clock equip";

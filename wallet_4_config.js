@@ -1,1 +1,1 @@
-var mnemonic = "diagram police rent steel typical fresh notice beef chimney fiscal tortoise assist";
+var mnemonic = "repair cave blush scatter judge mutual bunker replace empty address gain govern";

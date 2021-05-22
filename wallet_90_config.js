@@ -1,1 +1,1 @@
-var mnemonic = "inherit margin actress morning primary crane license swing deal today sentence heavy";
+var mnemonic = "dice era wrap swing embrace office concert pilot grow town engage duck";

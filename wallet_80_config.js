@@ -1,1 +1,1 @@
-var mnemonic = "visit crawl unique donkey flag saddle enter bargain hawk direct bone mention";
+var mnemonic = "nurse knock design nation tip palace mouse fee steak game traffic tongue";

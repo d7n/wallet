@@ -1,1 +1,1 @@
-var mnemonic = "vague fluid move tackle coffee also firm roast tone wish movie floor";
+var mnemonic = "plunge coyote tag save suit shallow resemble eight shoe horse echo announce";

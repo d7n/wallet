@@ -1,1 +1,1 @@
-var mnemonic = "habit morning lunar innocent syrup sand soon like stamp casual cactus globe";
+var mnemonic = "error ten almost bubble dinosaur fuel asthma say obvious kind real police";

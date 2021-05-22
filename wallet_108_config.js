@@ -1,1 +1,1 @@
-var mnemonic = "casual bundle velvet little level exhibit catch viable model frost zone hold";
+var mnemonic = "what spy armed addict emotion indicate okay spray thought sing correct spoil";

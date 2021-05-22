@@ -1,1 +1,1 @@
-var mnemonic = "useful page armor keen mixture letter negative property mystery weekend ozone same";
+var mnemonic = "tail magic paper rose meat myth dismiss behind now trouble blush never";

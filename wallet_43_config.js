@@ -1,1 +1,1 @@
-var mnemonic = "monster weasel cage violin address lecture canoe repeat purse pride music into";
+var mnemonic = "radio race typical witness sample flush lake basic board same success lion";

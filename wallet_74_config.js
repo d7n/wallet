@@ -1,1 +1,1 @@
-var mnemonic = "wait spirit anchor grant submit wink master arena process census unit exist";
+var mnemonic = "sort harbor dance furnace print relax chaos essence pig goat rival cook";

@@ -1,1 +1,1 @@
-var mnemonic = "night world velvet rotate enact length cash tomorrow calm credit joke anchor";
+var mnemonic = "erupt stay paddle fly pet cargo minor mountain kangaroo pigeon early burger";

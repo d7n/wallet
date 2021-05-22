@@ -1,1 +1,1 @@
-var mnemonic = "radio thunder bundle alien margin shock rhythm exist laugh inmate entry gold";
+var mnemonic = "ranch range twelve lunar trip antenna flag oppose embark electric march burger";

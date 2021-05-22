@@ -1,1 +1,1 @@
-var mnemonic = "output clump naive trial odor light absurd craft token fetch silk congress";
+var mnemonic = "gown write cushion mutual horn pledge domain suspect fitness engine awful mandate";

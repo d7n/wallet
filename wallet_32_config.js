@@ -1,1 +1,1 @@
-var mnemonic = "praise invite hurry mammal inquiry mixed basic stumble relax pill another actor";
+var mnemonic = "acquire match wrist joke extend tilt length cream duck noise toss circle";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce return room owner cloth primary marine ship skull alarm uphold benefit";
+var mnemonic = "entry engage public urge mandate require plug leg album affair card garage";

@@ -1,1 +1,1 @@
-var mnemonic = "photo report thunder domain offer rack margin ripple above repeat romance toast";
+var mnemonic = "auto try clog tonight lounge attend waste squirrel soap fatigue clerk already";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos food couple arm scene van bulb neither talent vessel magic menu";
+var mnemonic = "race silent crush matter glad rich expect mail climb feel very front";

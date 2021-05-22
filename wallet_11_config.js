@@ -1,1 +1,1 @@
-var mnemonic = "mystery borrow marine endorse planet broken toddler beauty push power era finger";
+var mnemonic = "toward sight toy memory lottery puppy mango bring upset ankle raise cycle";

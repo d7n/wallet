@@ -1,1 +1,1 @@
-var mnemonic = "sibling noodle luggage panther help match icon script drink noodle swing round";
+var mnemonic = "just jeans hero bless ticket account world note purity choice camp vicious";

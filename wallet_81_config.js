@@ -1,1 +1,1 @@
-var mnemonic = "blind inject impact sight want iron glide warfare arrive genius bind effort";
+var mnemonic = "fetch advance either breeze wire horn enter acoustic task total clog hotel";

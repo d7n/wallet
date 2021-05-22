@@ -1,1 +1,1 @@
-var mnemonic = "chase regret bracket assault spare disagree again few cliff friend flag frost";
+var mnemonic = "wonder industry coral size shift focus unusual stone all gym side various";

@@ -1,1 +1,1 @@
-var mnemonic = "walk obey planet loyal proud bomb source enrich cat aim mom season";
+var mnemonic = "limb source employ door rubber immune parrot agree cost leader velvet gym";

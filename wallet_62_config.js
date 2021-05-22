@@ -1,1 +1,1 @@
-var mnemonic = "carry orbit vapor easily kid idle afraid undo swing ladder bubble kind";
+var mnemonic = "average decrease speed that silver swap harbor custom level equip oxygen drastic";

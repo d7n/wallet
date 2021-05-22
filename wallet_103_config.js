@@ -1,1 +1,1 @@
-var mnemonic = "brain frost unusual foster glad anxiety decrease speed disagree lyrics attend bus";
+var mnemonic = "horror uncover second toddler unfold comfort body gaze bless machine exhibit gravity";

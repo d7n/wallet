@@ -1,1 +1,1 @@
-var mnemonic = "pretty label august space radar train pizza reject ignore choice mask actress";
+var mnemonic = "hero gain sleep behave judge blast cave bridge ready tattoo test grain";

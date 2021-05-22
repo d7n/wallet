@@ -1,1 +1,1 @@
-var mnemonic = "second west coyote portion ivory angle palace help picnic knock roast wave";
+var mnemonic = "glow news glare boring little person report lyrics dinosaur this bus afford";

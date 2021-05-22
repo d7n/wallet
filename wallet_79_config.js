@@ -1,1 +1,1 @@
-var mnemonic = "venue rival voyage filter taxi seat win domain fever sentence side switch";
+var mnemonic = "cheap defy mad prosper asset income sadness slow oyster tape firm glare";

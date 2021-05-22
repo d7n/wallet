@@ -1,1 +1,1 @@
-var mnemonic = "call address trick behave jeans relax bamboo second sport gorilla average angry";
+var mnemonic = "crawl what sleep want trade ill accuse master real horn concert decrease";

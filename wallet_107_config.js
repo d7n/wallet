@@ -1,1 +1,1 @@
-var mnemonic = "cabbage inform connect fun pull mandate effort whale expect struggle inner symptom";
+var mnemonic = "shy category quiz stumble quick hockey captain tragic clerk ketchup ginger burst";

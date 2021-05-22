@@ -1,1 +1,1 @@
-var mnemonic = "abstract song day raw recycle margin toilet version normal mutual lucky average";
+var mnemonic = "brush above chapter fluid laugh monitor source sister number series remind number";

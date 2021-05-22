@@ -1,1 +1,1 @@
-var mnemonic = "memory inquiry mean bicycle say zero fish debate thumb camera blue picture";
+var mnemonic = "timber able sort spring busy forget guide execute dust coffee shrug loyal";

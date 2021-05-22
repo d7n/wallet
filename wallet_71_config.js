@@ -1,1 +1,1 @@
-var mnemonic = "update polar dial rocket crawl sorry denial uncle radio coin room machine";
+var mnemonic = "cross fee fog alpha virus kid transfer throw hat talk alley school";

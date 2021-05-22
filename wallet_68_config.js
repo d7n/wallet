@@ -1,1 +1,1 @@
-var mnemonic = "false tool half cheap client disease hello office tooth cart property small";
+var mnemonic = "cute surround rigid airport furnace upgrade bridge sister build farm super bicycle";

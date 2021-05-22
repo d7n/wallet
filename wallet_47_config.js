@@ -1,1 +1,1 @@
-var mnemonic = "device fatigue city afford double dice portion blossom runway quarter embrace next";
+var mnemonic = "badge glue gallery soon clap genuine grant crumble special tumble library sorry";

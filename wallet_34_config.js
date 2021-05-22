@@ -1,1 +1,1 @@
-var mnemonic = "draw heart banana apple tissue spring explain donate involve churn valid lumber";
+var mnemonic = "private axis chronic erupt grunt abstract rose album rail clown barely drama";

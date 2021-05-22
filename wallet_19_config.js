@@ -1,1 +1,1 @@
-var mnemonic = "auto ability decrease cry question napkin journey main mistake quit mean this";
+var mnemonic = "gaze panda fashion journey fee proud hurry collect nephew great neither carry";

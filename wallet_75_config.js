@@ -1,1 +1,1 @@
-var mnemonic = "giraffe million diagram defy cave pledge electric hover october ignore one immune";
+var mnemonic = "help winter enter fat present company size sauce water route human split";

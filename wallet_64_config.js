@@ -1,1 +1,1 @@
-var mnemonic = "betray weather major unhappy confirm balcony swift quantum royal resource labor scissors";
+var mnemonic = "execute grass decrease success anxiety drastic certain brisk mesh clean violin place";

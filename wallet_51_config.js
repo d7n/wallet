@@ -1,1 +1,1 @@
-var mnemonic = "stick avocado yellow wagon gap drop amused rifle suggest basket toddler typical";
+var mnemonic = "gift cement canoe print chronic valve lucky demise capital elevator note country";

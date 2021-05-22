@@ -1,1 +1,1 @@
-var mnemonic = "torch inflict phrase sniff little until where immense upset clinic sword major";
+var mnemonic = "silk merit roof cupboard youth shove auction build rally diamond clock favorite";

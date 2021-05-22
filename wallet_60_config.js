@@ -1,1 +1,1 @@
-var mnemonic = "ice lounge solid veteran shuffle useful gym patrol uncover vault between dirt";
+var mnemonic = "amount license drastic certain earn index gorilla degree access below ahead uniform";

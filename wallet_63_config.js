@@ -1,1 +1,1 @@
-var mnemonic = "dream spread tooth alone avocado miss judge wheel control tray remind drift";
+var mnemonic = "baby liar leisure hobby put coconut because dinner carpet begin bless sunny";

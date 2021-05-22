@@ -1,1 +1,1 @@
-var mnemonic = "flower near rent switch squeeze forget denial rocket firm race pipe execute";
+var mnemonic = "endless retreat wing craft attend margin run tip exhaust also market exit";

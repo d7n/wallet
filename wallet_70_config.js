@@ -1,1 +1,1 @@
-var mnemonic = "useless maximum crucial tiny shaft endless cake kiwi setup audit involve asthma";
+var mnemonic = "bright ocean infant ecology retreat wrestle control transfer fault clerk loyal clever";

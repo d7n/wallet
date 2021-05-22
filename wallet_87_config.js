@@ -1,1 +1,1 @@
-var mnemonic = "play view stock swear just biology must actress case amount stand until";
+var mnemonic = "together private near antique sick obtain cool erode mind parent flush window";

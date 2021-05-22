@@ -1,1 +1,1 @@
-var mnemonic = "luxury ordinary beauty custom delay bird prize diamond drip plug curve indicate";
+var mnemonic = "fancy draw diesel atom address ancient ice erase safe orient sport draft";

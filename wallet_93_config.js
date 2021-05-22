@@ -1,1 +1,1 @@
-var mnemonic = "silver math ocean guess neutral glove gadget twelve reward daughter buddy monkey";
+var mnemonic = "congress sorry obvious ensure edge answer burden fork degree choice banner ask";

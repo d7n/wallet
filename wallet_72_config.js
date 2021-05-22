@@ -1,1 +1,1 @@
-var mnemonic = "fluid mean output large equip wide exhaust whip regular nuclear thank grid";
+var mnemonic = "three over book motor cheap loyal oil nice dune bonus sight table";

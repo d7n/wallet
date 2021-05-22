@@ -1,1 +1,1 @@
-var mnemonic = "sign practice pet summer thought betray mouse essay produce nasty plate rich";
+var mnemonic = "envelope such cycle tooth amount input stable whip whisper track fatal achieve";

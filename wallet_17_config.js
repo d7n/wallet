@@ -1,1 +1,1 @@
-var mnemonic = "ramp heavy patient orient pear position gadget collect stool release whisper sorry";
+var mnemonic = "rebuild lounge erosion soft tunnel cost off charge refuse sick gadget film";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin meadow horse safe that pride base jewel addict genuine window drum";
+var mnemonic = "mansion sunny energy spend brown want favorite step salon soldier flavor asset";

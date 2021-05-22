@@ -1,1 +1,1 @@
-var mnemonic = "pluck gather october tennis toy hidden become rule clever cruel foil drum";
+var mnemonic = "rural intact arrest oak wood renew tongue echo unusual consider choose taste";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear pass twin month dish audit emerge alcohol raise return hurdle ticket";
+var mnemonic = "junk banana high kind armor garlic celery trim link need slogan cash";

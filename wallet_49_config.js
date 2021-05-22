@@ -1,1 +1,1 @@
-var mnemonic = "outdoor street gadget furnace hamster spray between express second ugly family pass";
+var mnemonic = "room across solid endless stick urge since basic possible laundry orchard frequent";

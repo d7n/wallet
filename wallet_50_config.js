@@ -1,1 +1,1 @@
-var mnemonic = "pigeon skin scale link jacket check fault excess tackle muscle laundry month";
+var mnemonic = "soda antenna dog antenna lemon wave parade hover dilemma income donate know";

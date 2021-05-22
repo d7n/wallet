@@ -1,1 +1,1 @@
-var mnemonic = "word virtual amateur demand way bulk pact ghost sheriff tired risk split";
+var mnemonic = "core unfair attitude diamond alcohol horn impose kit hero always letter slogan";

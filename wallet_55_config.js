@@ -1,1 +1,1 @@
-var mnemonic = "load dumb evil parade explain yard misery simple empower music defy lawsuit";
+var mnemonic = "party trick lyrics glue tiny fetch devote explain breeze subway ice lizard";

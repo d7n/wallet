@@ -1,1 +1,1 @@
-var mnemonic = "lyrics jewel addict roof symptom cause fiction struggle holiday furnace obscure business";
+var mnemonic = "item strike way loud volume frost fiction punch layer priority cattle zero";

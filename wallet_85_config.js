@@ -1,1 +1,1 @@
-var mnemonic = "noble salt solar render clerk virtual noodle coil viable project path parent";
+var mnemonic = "pull veteran tribe gate size dragon tissue talk ski giggle hedgehog health";

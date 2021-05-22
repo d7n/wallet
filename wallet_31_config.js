@@ -1,1 +1,1 @@
-var mnemonic = "target mad snap chase party pepper faculty vapor present control midnight shoe";
+var mnemonic = "blush pyramid seven gown dumb eager egg media drill lunch stage execute";

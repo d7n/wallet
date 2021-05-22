@@ -1,1 +1,1 @@
-var mnemonic = "employ blanket retreat maze enlist discover arm logic quantum soul sphere bullet";
+var mnemonic = "copper indoor woman chat script steak egg track manual bargain jazz cradle";

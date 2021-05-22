@@ -1,1 +1,1 @@
-var mnemonic = "tuna buzz phrase boy protect remember logic release dish trouble speed kit";
+var mnemonic = "bulb abandon undo object inhale online upgrade wine disorder genuine glide flee";

@@ -1,1 +1,1 @@
-var mnemonic = "gas spirit bless host rely lesson garlic screen cliff install retire fashion";
+var mnemonic = "disagree two club stairs shove cabin leaf nuclear camera elevator plug seek";

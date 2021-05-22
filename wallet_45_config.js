@@ -1,1 +1,1 @@
-var mnemonic = "track relax account fantasy embrace slam sweet acid trigger scatter index gadget";
+var mnemonic = "margin speed meadow fortune seven quantum ignore dentist decade grocery funny shell";

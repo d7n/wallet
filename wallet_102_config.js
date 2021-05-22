@@ -1,1 +1,1 @@
-var mnemonic = "merge radio wrestle juice submit crowd purchase jealous dirt weapon flash nominee";
+var mnemonic = "misery reject army eternal awkward thunder between sound comic regret axis wasp";

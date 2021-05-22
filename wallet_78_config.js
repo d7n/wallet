@@ -1,1 +1,1 @@
-var mnemonic = "toilet fiber shoulder hazard crucial busy light undo prefer consider cruel song";
+var mnemonic = "skate february sample honey fever copper table cool melt start enjoy become";
