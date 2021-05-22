@@ -1,1 +1,1 @@
-var mnemonic = "verb eye power skate weapon hard lucky very render zero cup stereo";
+var mnemonic = "survey parrot wedding habit alpha truck exile horse drive paddle slow blossom";

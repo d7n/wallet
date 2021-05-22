@@ -1,1 +1,1 @@
-var mnemonic = "height below govern year mountain remove company duck cable leopard slender arrow";
+var mnemonic = "swamp situate undo portion board genius ceiling engage evidence grief tooth can";

@@ -1,1 +1,1 @@
-var mnemonic = "grass pond hungry detect canvas black robust behind myth between enhance payment";
+var mnemonic = "surprise space useful sing front wonder aim balance view nose loud hard";

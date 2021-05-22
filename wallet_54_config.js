@@ -1,1 +1,1 @@
-var mnemonic = "north tackle people sweet fresh steel topple palace naive artist climb whip";
+var mnemonic = "much own plug curve panda chapter napkin fish plunge clog blame unable";

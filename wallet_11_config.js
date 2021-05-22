@@ -1,1 +1,1 @@
-var mnemonic = "party math welcome notable robot under title cushion evolve remind tonight apology";
+var mnemonic = "dragon kidney web champion spin wonder arrow future dog impact glove couch";

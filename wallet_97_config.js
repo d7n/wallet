@@ -1,1 +1,1 @@
-var mnemonic = "practice amazing side stool weather bulk catch mutual island true average bulb";
+var mnemonic = "trade glad crew unusual lonely protect garden green unknown dial moon material";

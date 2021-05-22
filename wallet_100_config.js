@@ -1,1 +1,1 @@
-var mnemonic = "cloud unable subject universe sting impose crime trash trip country comic neither";
+var mnemonic = "faculty violin direct peanut acid stuff draw castle panic win giggle current";

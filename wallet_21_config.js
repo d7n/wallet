@@ -1,1 +1,1 @@
-var mnemonic = "grit file critic chase turn swear horse area danger guilt fix lunar";
+var mnemonic = "buyer catch reward heavy grow feed raw razor best occur host opinion";

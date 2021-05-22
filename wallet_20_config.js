@@ -1,1 +1,1 @@
-var mnemonic = "prison release trouble absorb insect decade print hair govern brief scheme walk";
+var mnemonic = "swallow cargo creek kick will hollow mixture trap sheriff mother caution betray";

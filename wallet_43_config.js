@@ -1,1 +1,1 @@
-var mnemonic = "pool feel gym fly divorce auction primary force reward apart female top";
+var mnemonic = "grass hobby patient sand learn wrap start document width buzz slogan prefer";

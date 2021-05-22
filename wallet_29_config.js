@@ -1,1 +1,1 @@
-var mnemonic = "behind juice above fix change know promote visa obvious guide virus inform";
+var mnemonic = "secret guess wise spoil quote salad rabbit tissue latin enjoy pass reveal";

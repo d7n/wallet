@@ -1,1 +1,1 @@
-var mnemonic = "foster radar mango rapid innocent reveal polar gallery knife friend almost pyramid";
+var mnemonic = "capital gain globe small struggle limb purpose art salute version sad boil";

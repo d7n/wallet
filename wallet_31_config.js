@@ -1,1 +1,1 @@
-var mnemonic = "sketch fork jump sorry glory trick portion occur what play fantasy emerge";
+var mnemonic = "want face cover question miracle infant board peasant empower assault spray fruit";

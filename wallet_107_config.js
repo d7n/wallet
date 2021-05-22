@@ -1,1 +1,1 @@
-var mnemonic = "lucky pattern desert absurd game talent left echo media plug oyster visual";
+var mnemonic = "female explain slush tide tiger add turkey coconut attend wasp blush lumber";

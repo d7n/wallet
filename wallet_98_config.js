@@ -1,1 +1,1 @@
-var mnemonic = "liberty dose adapt fix enrich decline tool symbol window merry peace differ";
+var mnemonic = "purse century theory clean benefit height turkey security blur suffer answer violin";

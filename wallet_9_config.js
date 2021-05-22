@@ -1,1 +1,1 @@
-var mnemonic = "flag cattle shrug thing horse ensure program hire palm safe pear guilt";
+var mnemonic = "guard truck apple fetch vapor around must exhaust mother three oyster frequent";

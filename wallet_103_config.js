@@ -1,1 +1,1 @@
-var mnemonic = "fiction siren rich country federal knee absent polar knee primary castle end";
+var mnemonic = "piece century cherry firm lunch people resemble minimum pencil health champion seed";

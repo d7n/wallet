@@ -1,1 +1,1 @@
-var mnemonic = "immense buffalo waste elephant survey grocery abandon mule cabbage puzzle trade orchard";
+var mnemonic = "liquid beauty student about badge photo opinion rate naive spray artist iron";

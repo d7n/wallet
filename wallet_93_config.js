@@ -1,1 +1,1 @@
-var mnemonic = "outside run express height sponsor knock cycle abandon album wide floor timber";
+var mnemonic = "faculty soon gap curious extra horse history welcome december amazing casual drop";

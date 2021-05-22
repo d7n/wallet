@@ -1,1 +1,1 @@
-var mnemonic = "entry unknown forget choice tumble suit gown supply urge arrow broken purpose";
+var mnemonic = "impose cricket claw three million turtle force cherry flee theory ethics reward";

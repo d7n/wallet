@@ -1,1 +1,1 @@
-var mnemonic = "chronic choice minor short acoustic equal success lawsuit impact rhythm deposit seek";
+var mnemonic = "wrong lamp method control clerk mechanic treat brave flee book insane apology";

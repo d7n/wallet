@@ -1,1 +1,1 @@
-var mnemonic = "review chest issue often clog give day renew loop hundred risk brown";
+var mnemonic = "phone price exist noodle blue column spawn coach employ mail boat coffee";

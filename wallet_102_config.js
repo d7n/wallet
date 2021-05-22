@@ -1,1 +1,1 @@
-var mnemonic = "near receive goddess man borrow round wheat burst chat crane arch meadow";
+var mnemonic = "theme old viable yellow trip dream whip security asset endorse castle rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "current vocal city excess close dinner census dentist slim swap move tide";
+var mnemonic = "vessel mandate permit helmet assault column property shoulder soda evidence outside salute";

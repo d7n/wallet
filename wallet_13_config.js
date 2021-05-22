@@ -1,1 +1,1 @@
-var mnemonic = "pair pole trick regret vocal merry female mimic invite place boost mass";
+var mnemonic = "woman click thank mutual envelope clever will blind pipe width double still";

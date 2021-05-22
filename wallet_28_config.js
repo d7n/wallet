@@ -1,1 +1,1 @@
-var mnemonic = "risk explain fiscal animal candy tray teach lazy victory series rich reject";
+var mnemonic = "bacon luggage awake total match lady runway always prepare engine border biology";

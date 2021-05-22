@@ -1,1 +1,1 @@
-var mnemonic = "mention erode call eyebrow giraffe unaware oblige negative legend license tortoise atom";
+var mnemonic = "add pause thing mountain key gentle average permit purse rhythm mass universe";

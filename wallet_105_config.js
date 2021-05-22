@@ -1,1 +1,1 @@
-var mnemonic = "hobby sick cross still video badge reject sorry neglect task ranch adjust";
+var mnemonic = "report outdoor second rice design modify march close hammer problem heart carry";

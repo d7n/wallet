@@ -1,1 +1,1 @@
-var mnemonic = "false artist beef inject remind hub kitten orchard torch diamond code replace";
+var mnemonic = "way slam shift cat area recycle sudden father hip kind salute help";

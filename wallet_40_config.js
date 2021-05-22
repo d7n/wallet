@@ -1,1 +1,1 @@
-var mnemonic = "zoo chief west horn priority crystal season night cannon slab parent gravity";
+var mnemonic = "paddle quick motion switch south shift cricket infant wheat moment arctic tool";

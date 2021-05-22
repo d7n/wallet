@@ -1,1 +1,1 @@
-var mnemonic = "behave flight book valley position patch tumble wage alpha mother chair autumn";
+var mnemonic = "fragile wood foil envelope impulse mystery stay nephew rice habit ticket good";

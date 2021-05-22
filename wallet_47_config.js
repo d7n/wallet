@@ -1,1 +1,1 @@
-var mnemonic = "sure craft story garage mercy robust screen deer collect tip sick must";
+var mnemonic = "task argue cross gather faint airport spread bicycle sword country inside toast";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd spike impulse orient clock shrimp south quote truth outside major dumb";
+var mnemonic = "duty heavy banana maple couple citizen embark chalk awful champion hockey attitude";

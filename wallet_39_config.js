@@ -1,1 +1,1 @@
-var mnemonic = "festival green must crew town upset school skull attract coast book pluck";
+var mnemonic = "such enlist you fame vehicle only athlete dragon allow weird spice weekend";

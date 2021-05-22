@@ -1,1 +1,1 @@
-var mnemonic = "oak food member slight crime extend boil trumpet left chapter spawn moon";
+var mnemonic = "scale enable siren drip tip fitness ball agree alert blade west kitchen";

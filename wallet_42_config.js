@@ -1,1 +1,1 @@
-var mnemonic = "rally illness artist melt mango noise razor cricket often target pride bike";
+var mnemonic = "jealous mouse inflict prefer wheat spend unaware belt exit talk dinner tide";

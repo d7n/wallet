@@ -1,1 +1,1 @@
-var mnemonic = "game flower prepare sadness then grab collect element sail crawl bunker box";
+var mnemonic = "polar pear summer there midnight test february decrease similar capital task lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "clean own unhappy negative receive two able hint hill excuse music seed";
+var mnemonic = "inject shaft strike hidden core kingdom buyer fruit hood eyebrow between arctic";

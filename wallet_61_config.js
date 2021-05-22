@@ -1,1 +1,1 @@
-var mnemonic = "turkey fault paddle solar spider dad embody news chronic jar crazy under";
+var mnemonic = "undo lottery mansion size elephant wine expand ribbon patrol arrive system use";

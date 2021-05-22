@@ -1,1 +1,1 @@
-var mnemonic = "elephant daring bar cattle situate track truly couple agree into report brief";
+var mnemonic = "bamboo bronze fresh marriage extend toast topic record quantum clap rack smile";

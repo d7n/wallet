@@ -1,1 +1,1 @@
-var mnemonic = "fantasy proof lottery merry pretty piece ghost have fold slender crack shed";
+var mnemonic = "hill crisp slush upset race dutch raw steel lens kit nominee gap";

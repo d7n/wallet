@@ -1,1 +1,1 @@
-var mnemonic = "crisp length cigar host blanket antique misery hold mushroom sketch ship awake";
+var mnemonic = "educate call junk switch clock fee board angle web title toward capital";

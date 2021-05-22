@@ -1,1 +1,1 @@
-var mnemonic = "alarm jewel food before winter soon despair ugly grid three chat crazy";
+var mnemonic = "spray photo boat evoke cabbage bar cash layer urban group father inject";

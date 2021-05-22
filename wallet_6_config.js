@@ -1,1 +1,1 @@
-var mnemonic = "web setup finger shell kangaroo bleak disorder armor traffic sponsor genius mango";
+var mnemonic = "frequent morning lawsuit coyote trophy furnace hospital release since twenty index say";

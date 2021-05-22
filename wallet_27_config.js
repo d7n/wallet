@@ -1,1 +1,1 @@
-var mnemonic = "cruise dynamic ticket sport point verb air crystal dragon clarify level sport";
+var mnemonic = "age enable tuition virtual neglect female believe front process code fitness toe";

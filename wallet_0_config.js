@@ -1,1 +1,1 @@
-var mnemonic = "squeeze glance glance select aerobic loop master venue risk find kiss intact";
+var mnemonic = "bus foster bleak claw subway famous ugly turn angle woman deputy vast";

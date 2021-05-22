@@ -1,1 +1,1 @@
-var mnemonic = "entry like sudden effort list kingdom crystal view please gate pipe prevent";
+var mnemonic = "twenty unveil twice social frozen release seed rescue limit royal grit bike";

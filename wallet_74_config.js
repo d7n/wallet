@@ -1,1 +1,1 @@
-var mnemonic = "culture reform gravity tomorrow myself same rude firm fly smart engage shield";
+var mnemonic = "coconut more correct elephant charge beauty cup tooth urban limb pond mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "mom govern ostrich outside roast glow misery group rifle diagram index rose";
+var mnemonic = "must tank over forum keen soup filter domain bike first result thing";

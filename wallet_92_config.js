@@ -1,1 +1,1 @@
-var mnemonic = "flower letter fatal move slot father position body success album gaze enforce";
+var mnemonic = "dove shell grow divide deliver excess digital army flee pigeon fragile regular";

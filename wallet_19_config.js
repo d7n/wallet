@@ -1,1 +1,1 @@
-var mnemonic = "churn kind stairs type budget wrist south sock eight coin mad antenna";
+var mnemonic = "win library strike immune purse visit purpose surround bargain response maple once";

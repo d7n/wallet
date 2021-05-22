@@ -1,1 +1,1 @@
-var mnemonic = "polar furnace attend cup armed pioneer grab produce obtain reduce tenant first";
+var mnemonic = "faith surge wasp refuse gospel river muscle mimic lobster swallow nest depth";

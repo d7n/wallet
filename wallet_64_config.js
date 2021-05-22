@@ -1,1 +1,1 @@
-var mnemonic = "ancient chuckle student topic absent siren enforce noble useful parrot physical chef";
+var mnemonic = "clock junior dress magnet season aisle camera visual mixture near initial kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "huge firm subject notable tail cloud shop tornado churn divert expose oxygen";
+var mnemonic = "learn agent crunch earn walk load brush tide prepare mountain dilemma buddy";

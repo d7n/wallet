@@ -1,1 +1,1 @@
-var mnemonic = "fitness frown second auto length wealth slice zero mass sphere chuckle aware";
+var mnemonic = "cherry attend tape minor blind brother destroy shed video sense ready sail";

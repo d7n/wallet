@@ -1,1 +1,1 @@
-var mnemonic = "truth predict gym message cement olympic tackle rural evolve under fortune heavy";
+var mnemonic = "change neutral employ tip million tunnel lens elephant feature advance bomb penalty";

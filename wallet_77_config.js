@@ -1,1 +1,1 @@
-var mnemonic = "humble deer outdoor crouch absent lobster canoe zebra avoid select tuition decade";
+var mnemonic = "narrow repair expand end reflect cycle pond word artist only wheel squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp find angle favorite movie friend dinner tree carpet panda glow orbit";
+var mnemonic = "border reduce earn purpose awkward anxiety sea jazz shiver talk milk lecture";

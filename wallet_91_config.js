@@ -1,1 +1,1 @@
-var mnemonic = "club achieve later pupil winter empty rural distance easily pause mystery solution";
+var mnemonic = "comfort upper brand nurse table athlete culture license chapter basic pond duck";

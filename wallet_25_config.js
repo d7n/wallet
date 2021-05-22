@@ -1,1 +1,1 @@
-var mnemonic = "top mass model casino olympic gaze decline bridge oven salad quiz embody";
+var mnemonic = "canoe dawn usual predict guilt sun until hedgehog add dwarf kidney razor";

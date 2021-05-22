@@ -1,1 +1,1 @@
-var mnemonic = "grocery this dress frost neither boat eternal worry disorder obey sting defense";
+var mnemonic = "shop cake cotton hawk dad prevent panda change make rebuild weekend vote";

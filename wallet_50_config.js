@@ -1,1 +1,1 @@
-var mnemonic = "swim boost cradle rifle east airport assume sad column curious connect laptop";
+var mnemonic = "staff sweet liberty math current citizen language mirror soul sort return then";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep resemble public laugh need cheese cruise sibling drip honey laptop predict";
+var mnemonic = "slam fire uncle biology forest sniff kangaroo consider size sail find state";

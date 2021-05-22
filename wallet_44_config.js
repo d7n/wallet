@@ -1,1 +1,1 @@
-var mnemonic = "knife crash vintage scissors fault struggle logic total derive wrap clay degree";
+var mnemonic = "tone page practice stable usual use duty pole inquiry west wolf crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy merit fame option permit sweet host endless rather cage copper solar";
+var mnemonic = "lake trim pyramid nut march minute warrior burger hundred barrel grant reunion";

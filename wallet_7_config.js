@@ -1,1 +1,1 @@
-var mnemonic = "family exile report math memory crime runway carry soap label juice chest";
+var mnemonic = "lake fog exist where cattle fancy grow clown autumn army frequent logic";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip frown safe cricket love lab miss shallow pact forest carpet orient";
+var mnemonic = "motor crouch balance shoulder faith column census island account vessel ridge repeat";

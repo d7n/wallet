@@ -1,1 +1,1 @@
-var mnemonic = "harsh trumpet hospital degree weapon round foot remember wagon swap feel leg";
+var mnemonic = "lyrics green repair decide flavor toast speed sample prosper club room orphan";

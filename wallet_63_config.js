@@ -1,1 +1,1 @@
-var mnemonic = "black sustain movie come slender cluster unknown tomorrow breeze left manage life";
+var mnemonic = "gorilla scorpion erase ring peace midnight castle dice razor fever push advice";

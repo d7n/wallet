@@ -1,1 +1,1 @@
-var mnemonic = "dream reduce exile crowd table walk result diet bronze salad question crazy";
+var mnemonic = "drive example nose limb tone sea vote stuff save reject stick liar";

@@ -1,1 +1,1 @@
-var mnemonic = "insect transfer zero tuition differ daughter equip list average curious dignity gospel";
+var mnemonic = "student region involve cereal ripple consider sorry chunk once voyage put flock";

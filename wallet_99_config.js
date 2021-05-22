@@ -1,1 +1,1 @@
-var mnemonic = "script ancient walk impose grit canvas exact script isolate quick vanish fortune";
+var mnemonic = "verify saddle canvas leave elbow vibrant thumb box tongue sense leopard call";

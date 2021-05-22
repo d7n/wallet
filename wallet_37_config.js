@@ -1,1 +1,1 @@
-var mnemonic = "blame curious mango leader notice margin gather whip clever invite parrot auction";
+var mnemonic = "calm poverty among river mosquito talk pottery feed fragile nation hire extra";

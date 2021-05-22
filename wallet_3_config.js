@@ -1,1 +1,1 @@
-var mnemonic = "coach swamp scale slab whip soap whip jaguar rose case business apology";
+var mnemonic = "genius squeeze wedding donor outer vivid left average adjust scatter forget myth";

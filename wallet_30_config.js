@@ -1,1 +1,1 @@
-var mnemonic = "sniff electric labor parrot dignity opera cement panel idle float easily fiscal";
+var mnemonic = "pelican trial predict engine rapid replace treat practice dutch oven split second";

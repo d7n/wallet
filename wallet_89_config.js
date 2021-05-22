@@ -1,1 +1,1 @@
-var mnemonic = "taxi you trim real practice envelope invest mistake honey naive tumble autumn";
+var mnemonic = "walk dad hobby surprise bleak tonight okay spray prosper motion balance bicycle";

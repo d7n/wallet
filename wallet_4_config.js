@@ -1,1 +1,1 @@
-var mnemonic = "belt south century flock moon accuse ivory alien vacuum envelope rule force";
+var mnemonic = "perfect spot jeans village minor drastic fork little diet author cry attack";

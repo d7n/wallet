@@ -1,1 +1,1 @@
-var mnemonic = "damage outer weird bench quote find level then melt swarm isolate noise";
+var mnemonic = "special process venture net occur mixture ladder party april cereal combine useful";

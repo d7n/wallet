@@ -1,1 +1,1 @@
-var mnemonic = "ethics claw toast autumn inflict lion famous photo check puppy card welcome";
+var mnemonic = "early entire country gold payment slice lava shrug surprise enable page fashion";

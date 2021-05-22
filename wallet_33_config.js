@@ -1,1 +1,1 @@
-var mnemonic = "asset build heavy fluid reward stand enhance toy soft miss spirit rotate";
+var mnemonic = "alpha sadness deer enjoy point jelly beach brass forget tomorrow rain endless";

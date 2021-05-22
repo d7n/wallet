@@ -1,1 +1,1 @@
-var mnemonic = "adult slogan body reward offer echo imitate diagram erupt page special suffer";
+var mnemonic = "width security autumn stem abuse decade left orphan provide spirit liar ketchup";

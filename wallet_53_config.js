@@ -1,1 +1,1 @@
-var mnemonic = "never gorilla couch depart mesh sock rule field guilt vibrant wool change";
+var mnemonic = "property cook digital venue sheriff occur hood black seat twelve pink ozone";

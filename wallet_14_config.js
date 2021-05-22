@@ -1,1 +1,1 @@
-var mnemonic = "lawn mountain wolf almost heavy vendor vast mimic spring hundred alcohol remind";
+var mnemonic = "flip casino equal hospital three awake afford group crowd square rescue race";

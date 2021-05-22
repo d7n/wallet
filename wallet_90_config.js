@@ -1,1 +1,1 @@
-var mnemonic = "body smooth boring produce blue trend evoke situate loan use shallow brick";
+var mnemonic = "wrist dizzy umbrella gym profit fall shiver celery lady trick crush spider";

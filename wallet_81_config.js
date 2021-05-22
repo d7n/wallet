@@ -1,1 +1,1 @@
-var mnemonic = "razor mind razor twenty rubber woman radio ladder fly art order that";
+var mnemonic = "hawk unveil drum brass slam gym enable cost razor story today inform";

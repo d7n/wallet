@@ -1,1 +1,1 @@
-var mnemonic = "level van robust question update nice around tape kit indicate friend breeze";
+var mnemonic = "olympic purchase spirit write arrest fault situate plunge summer race sleep grant";

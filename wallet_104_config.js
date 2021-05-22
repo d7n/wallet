@@ -1,1 +1,1 @@
-var mnemonic = "dance tank goat movie file cliff luxury glad love angry hover found";
+var mnemonic = "seven bitter suggest inflict inject trim gown roof discover require melt goose";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder glass decrease glue vehicle brief lucky fitness repair illness broccoli dog";
+var mnemonic = "scout rug fit flower winner polar tilt able talent artefact calm craft";

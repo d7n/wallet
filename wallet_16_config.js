@@ -1,1 +1,1 @@
-var mnemonic = "bridge clown seed giant balance bonus visa real quarter blast mind odor";
+var mnemonic = "manage design vendor scale among trip awkward domain mind demand erosion rare";
