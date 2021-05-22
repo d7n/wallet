@@ -1,1 +1,1 @@
-var mnemonic = "fan flavor acquire spring gloom damage diary another park charge frame coach";
+var mnemonic = "federal shoe slush old unique already audit jaguar recall basic mutual purchase";

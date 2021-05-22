@@ -1,1 +1,1 @@
-var mnemonic = "minor margin anxiety town kiwi rely pair assume border gate logic hold";
+var mnemonic = "sight bag act below stone mask feel trap sail tone gold file";

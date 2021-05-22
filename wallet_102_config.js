@@ -1,1 +1,1 @@
-var mnemonic = "path onion local mistake various tobacco cancel urban shock drastic chalk quality";
+var mnemonic = "dignity clutch pepper laptop minute lecture time else amazing damage this elder";

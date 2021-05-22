@@ -1,1 +1,1 @@
-var mnemonic = "sniff giggle shine genuine wrestle lonely tumble space fabric special quick glimpse";
+var mnemonic = "weasel ocean tribe age output cost great wink analyst dinner property arena";

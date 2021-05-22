@@ -1,1 +1,1 @@
-var mnemonic = "drift ginger speed crash ecology october bachelor garage army celery old element";
+var mnemonic = "slight car negative vehicle enough spider tower indicate planet ribbon regular transfer";

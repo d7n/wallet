@@ -1,1 +1,1 @@
-var mnemonic = "crack quiz cycle away earn duty decide panic mimic purse fall scene";
+var mnemonic = "genre pioneer truth wolf taxi blanket jungle deliver silk whisper spot saddle";

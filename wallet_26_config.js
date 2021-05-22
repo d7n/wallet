@@ -1,1 +1,1 @@
-var mnemonic = "wrong palm decline bright talent patrol apple flash analyst mansion glass pet";
+var mnemonic = "across say gown trade weasel fan letter foot argue weird already twin";

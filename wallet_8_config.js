@@ -1,1 +1,1 @@
-var mnemonic = "motor doctor dose genius note clerk now vapor knife news kitten skate";
+var mnemonic = "bulk fresh first half sign token hand heart reject differ tiger soda";

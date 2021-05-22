@@ -1,1 +1,1 @@
-var mnemonic = "tumble cushion jealous mercy ceiling gadget gallery miss gorilla tongue cinnamon cube";
+var mnemonic = "actor barely error scorpion swim bonus master one move entire gentle emerge";

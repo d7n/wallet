@@ -1,1 +1,1 @@
-var mnemonic = "void eye price devote wood kangaroo nuclear walk debate chuckle treat similar";
+var mnemonic = "estate wear toy detect police suit silly naive license major speed salmon";

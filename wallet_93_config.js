@@ -1,1 +1,1 @@
-var mnemonic = "silent turtle range among quote acquire pudding dragon avocado derive mechanic enact";
+var mnemonic = "pilot sketch outdoor bike ancient diagram zero fish favorite phone educate surge";

@@ -1,1 +1,1 @@
-var mnemonic = "must wear movie group right galaxy card soft blast helmet answer melody";
+var mnemonic = "survey silk arrange chapter mutual beef donate monitor van doctor virus reward";

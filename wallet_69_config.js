@@ -1,1 +1,1 @@
-var mnemonic = "young shift recipe clean never ostrich fan deputy silent silk aware denial";
+var mnemonic = "sense dragon velvet father speak hair mango spot million provide talk tornado";

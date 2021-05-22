@@ -1,1 +1,1 @@
-var mnemonic = "maximum knee warrior picture seat wall paddle slam horn surprise common pass";
+var mnemonic = "open joy crater often until sorry asthma vehicle snake siege tenant bright";

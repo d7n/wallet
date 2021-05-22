@@ -1,1 +1,1 @@
-var mnemonic = "grocery code work leaf hammer replace crack require gun cupboard witness squirrel";
+var mnemonic = "panic foam skirt muffin model panic luxury half spread awesome flush neck";

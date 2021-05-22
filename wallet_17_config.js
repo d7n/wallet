@@ -1,1 +1,1 @@
-var mnemonic = "mention local coffee vibrant empty cradle fetch mean quote tube off robot";
+var mnemonic = "coast enter hungry cook brave method ghost burger biology danger permit tackle";

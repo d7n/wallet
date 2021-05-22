@@ -1,1 +1,1 @@
-var mnemonic = "moral column what online rib panther latin next thunder hurt angry inspire";
+var mnemonic = "question school embrace quality position settle deal combine decorate mix reflect clean";

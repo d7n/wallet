@@ -1,1 +1,1 @@
-var mnemonic = "caught melt rival transfer face squirrel goose human skill divide push high";
+var mnemonic = "relax image help file coffee parent tuna cherry planet between father panther";

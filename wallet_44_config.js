@@ -1,1 +1,1 @@
-var mnemonic = "system cinnamon ethics crystal blur velvet grant banner valid mountain rule profit";
+var mnemonic = "name when spike people minor enforce clever enroll squirrel size jaguar change";

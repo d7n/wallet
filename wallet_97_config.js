@@ -1,1 +1,1 @@
-var mnemonic = "earn myself choice humor broccoli despair weasel face grass fat day wife";
+var mnemonic = "talk document method summer rebel token cabin first useful horse volume enter";

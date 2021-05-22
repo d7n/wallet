@@ -1,1 +1,1 @@
-var mnemonic = "caught barely zero thumb debate right fiber helmet spice ghost kiss window";
+var mnemonic = "affair lion potato excuse flower ribbon depart denial snow ahead gaze clap";

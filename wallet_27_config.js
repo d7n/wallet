@@ -1,1 +1,1 @@
-var mnemonic = "glove foil process buffalo velvet razor obey vacant math cabbage portion pause";
+var mnemonic = "million broccoli reward finger object stove release saddle wisdom owner sleep river";

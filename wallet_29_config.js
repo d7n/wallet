@@ -1,1 +1,1 @@
-var mnemonic = "people general squirrel select relief light snake quit canal mix earth item";
+var mnemonic = "frequent assault spray engine rare brisk embody lyrics essay woman bamboo blue";

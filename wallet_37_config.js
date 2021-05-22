@@ -1,1 +1,1 @@
-var mnemonic = "dune ankle small air voyage wave ranch husband eight cream emotion lumber";
+var mnemonic = "sea verify creek original light ability benefit frog clog venture script fly";

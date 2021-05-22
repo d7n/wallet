@@ -1,1 +1,1 @@
-var mnemonic = "parrot tool walnut dove begin across fashion palm cute cupboard daring road";
+var mnemonic = "prosper news unhappy layer gallery virus canvas second worry slow jewel oxygen";

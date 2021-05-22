@@ -1,1 +1,1 @@
-var mnemonic = "state win employ decline doctor hen embrace mango pigeon unknown private cost";
+var mnemonic = "sort demand profit race crash purchase pilot famous any then brass window";

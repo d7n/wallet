@@ -1,1 +1,1 @@
-var mnemonic = "replace cart elder bone usage return adult jazz off code monitor organ";
+var mnemonic = "slim accuse keen age fault demand weird slice screen hood basic right";

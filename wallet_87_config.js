@@ -1,1 +1,1 @@
-var mnemonic = "scene robust garden industry clarify scan inspire quit another boat vivid surround";
+var mnemonic = "crack chase auction hotel fox open detail ahead question sausage story topic";

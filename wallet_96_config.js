@@ -1,1 +1,1 @@
-var mnemonic = "topple squeeze addict sand attack inject obscure judge attack retreat melt icon";
+var mnemonic = "economy supreme advice buyer elephant father treat snap wagon cage bronze deny";

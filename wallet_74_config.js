@@ -1,1 +1,1 @@
-var mnemonic = "spider ten thought future warfare truck gift attract portion tunnel rural hidden";
+var mnemonic = "around trip bitter satisfy tower regular play choose joke gravity audit report";

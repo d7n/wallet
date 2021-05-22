@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ribbon super pilot settle dismiss choice card axis pole under lucky";
+var mnemonic = "width dream culture coffee vibrant put cup hurt urban topic focus differ";

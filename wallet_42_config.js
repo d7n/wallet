@@ -1,1 +1,1 @@
-var mnemonic = "include high own try chunk again stone upon swarm dad display machine";
+var mnemonic = "below reward gate airport surface consider alarm entry swamp tape stumble option";

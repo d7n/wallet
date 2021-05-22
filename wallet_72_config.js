@@ -1,1 +1,1 @@
-var mnemonic = "unit ignore hammer dose fall situate insane satoshi bullet camera north sausage";
+var mnemonic = "tag episode hold universe feel cable junior because spot bright benefit steel";

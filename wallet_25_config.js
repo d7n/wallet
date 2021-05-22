@@ -1,1 +1,1 @@
-var mnemonic = "seven east valid tomato receive tongue coffee category unaware warfare drip almost";
+var mnemonic = "license empower limit woman false thunder consider tomato question upon pelican favorite";

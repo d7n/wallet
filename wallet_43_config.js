@@ -1,1 +1,1 @@
-var mnemonic = "divorce joy hope mass system inch tray junior honey girl system coil";
+var mnemonic = "shrug alone letter install enlist ritual wisdom voice either invest adjust science";

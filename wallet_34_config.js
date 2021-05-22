@@ -1,1 +1,1 @@
-var mnemonic = "year oblige shift pepper field able idea goddess fix unique begin truth";
+var mnemonic = "love beach section exact salmon asset bleak flag reward three brand woman";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt vocal high foam wear diesel grief average hidden soldier input gospel";
+var mnemonic = "stomach doll tribe arch hungry spike blood spawn spot father hint warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "correct rack chief daughter wealth meadow year defy task consider where initial";
+var mnemonic = "hundred knee energy acoustic picnic marine cigar frown question alpha awful mango";

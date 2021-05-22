@@ -1,1 +1,1 @@
-var mnemonic = "sunny robust peanut burst attack dizzy choose sample swap portion shove hat";
+var mnemonic = "sample first okay humor engine midnight cherry air spare moon wire judge";

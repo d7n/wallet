@@ -1,1 +1,1 @@
-var mnemonic = "surprise nut mother bone now congress excuse source have vendor retire company";
+var mnemonic = "alien rent buddy tiny antenna miracle team power motion first wine prize";

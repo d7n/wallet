@@ -1,1 +1,1 @@
-var mnemonic = "degree settle must cactus bomb century ethics hire fly express decide leopard";
+var mnemonic = "parrot muffin motion giraffe zone elegant fame surge oval kind tongue during";

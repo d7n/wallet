@@ -1,1 +1,1 @@
-var mnemonic = "child snow hotel filter dismiss pretty cancel meat device find frog glad";
+var mnemonic = "rotate stamp inherit outdoor waste label mom inherit raise club check believe";

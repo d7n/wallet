@@ -1,1 +1,1 @@
-var mnemonic = "cluster knife glow ordinary repeat leaf derive one stage legend umbrella priority";
+var mnemonic = "fly forum poem frozen double scale sight bitter lunar inject auto chalk";

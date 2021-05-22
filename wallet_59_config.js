@@ -1,1 +1,1 @@
-var mnemonic = "bulb total million hurt pulp exercise seminar cage achieve fury label express";
+var mnemonic = "pig village blossom grape liberty ill tube impose panda bench wolf uncover";

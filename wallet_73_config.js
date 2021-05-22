@@ -1,1 +1,1 @@
-var mnemonic = "outdoor abstract peace book annual replace water wealth program sort income rack";
+var mnemonic = "two dawn kite swap suspect chase health ethics machine loud accuse cave";

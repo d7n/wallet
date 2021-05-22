@@ -1,1 +1,1 @@
-var mnemonic = "margin frozen junior swim music finish few harbor cable asthma fly jealous";
+var mnemonic = "oven physical general stool basket report mandate concert tumble draft pipe alarm";

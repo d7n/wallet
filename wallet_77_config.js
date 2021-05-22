@@ -1,1 +1,1 @@
-var mnemonic = "pause bacon palm average job term exchange hub cube donate enjoy want";
+var mnemonic = "version nurse session switch rent mom pole winner unknown reward various symptom";

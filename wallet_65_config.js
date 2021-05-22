@@ -1,1 +1,1 @@
-var mnemonic = "walk deal accident dynamic focus welcome funny print drift velvet squeeze trust";
+var mnemonic = "impact knee warm theme maple candy slice task candy upon rotate ribbon";

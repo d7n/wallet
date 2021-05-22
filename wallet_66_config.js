@@ -1,1 +1,1 @@
-var mnemonic = "angry cluster top alone concert appear innocent usual salmon eagle rule pencil";
+var mnemonic = "swap arctic margin country wall rabbit winter corn pigeon hard decade vibrant";

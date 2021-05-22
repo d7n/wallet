@@ -1,1 +1,1 @@
-var mnemonic = "bar skirt weasel crop chief fashion clap upset worry card water erosion";
+var mnemonic = "clever unit smooth spy chef wire shield debate learn cattle attack frozen";

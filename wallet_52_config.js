@@ -1,1 +1,1 @@
-var mnemonic = "smart crop clean fog oak youth film slam grab turkey joy near";
+var mnemonic = "pen arrange carry exact force capable six brand safe letter minimum post";

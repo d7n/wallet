@@ -1,1 +1,1 @@
-var mnemonic = "action excite demand off below throw book soul curve pen village habit";
+var mnemonic = "clog alcohol return taste master art render pizza range potato bundle material";

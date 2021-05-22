@@ -1,1 +1,1 @@
-var mnemonic = "bean peace flash mail stay turkey special insane finish wedding cave rely";
+var mnemonic = "win charge cricket palm blind disorder wink apple fever logic sugar female";

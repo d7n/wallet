@@ -1,1 +1,1 @@
-var mnemonic = "amused meat bring bottom grid critic produce barely awesome slab tooth silent";
+var mnemonic = "first post cluster hunt trumpet isolate humor fine alcohol weekend eyebrow mother";

@@ -1,1 +1,1 @@
-var mnemonic = "gap pledge flat girl wisdom habit toy laundry front raw farm dice";
+var mnemonic = "coach cotton board work ladder rely olympic lobster same lobster sea opera";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix tissue wife hole journey clever photo human cake audit title select";
+var mnemonic = "hotel join dolphin laptop wage rapid play blind current calm staff clerk";

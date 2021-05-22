@@ -1,1 +1,1 @@
-var mnemonic = "spend impact sibling mistake wet mother bind then try chaos explain uniform";
+var mnemonic = "project manual purse blush capital tip organ wisdom tray member parent shell";

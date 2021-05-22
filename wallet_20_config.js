@@ -1,1 +1,1 @@
-var mnemonic = "camera cabbage orphan quote earth renew crowd limit diagram fine birth robust";
+var mnemonic = "cattle gallery dust permit figure breeze kit potato monitor analyst lock rug";

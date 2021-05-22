@@ -1,1 +1,1 @@
-var mnemonic = "mother wine glory economy visa busy engine mansion corn dignity thumb limit";
+var mnemonic = "awful execute verb wagon food era skull choice grit notice patrol work";

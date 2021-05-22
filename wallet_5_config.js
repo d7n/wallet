@@ -1,1 +1,1 @@
-var mnemonic = "fury say coral ensure inherit broom remain seminar envelope giggle fan embark";
+var mnemonic = "cactus pepper mechanic forum brand type pelican limb gauge lamp train trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "myth come rabbit spoon ignore fury tumble business draft there absorb coyote";
+var mnemonic = "relax cave pill attend write pottery expire dice indoor shoe purchase gaze";

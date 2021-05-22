@@ -1,1 +1,1 @@
-var mnemonic = "lend victory pen hub update mammal twin viable boy shiver ghost large";
+var mnemonic = "employ donate immune sustain taxi decade olive subway tennis tired circle velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "bracket echo wage habit exercise square brown garage alter humble problem lava";
+var mnemonic = "merge quick humble click word spice enact axis six deny hockey umbrella";

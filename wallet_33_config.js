@@ -1,1 +1,1 @@
-var mnemonic = "shoe skirt police enlist leg differ brother old asthma race vault park";
+var mnemonic = "film shuffle bulk muscle trim inject garden again another family snap cup";

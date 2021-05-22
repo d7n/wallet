@@ -1,1 +1,1 @@
-var mnemonic = "tortoise gaze toward wing scale lamp square cause scissors shift arch scrub";
+var mnemonic = "slow fox outdoor claw cycle essence remind fiction reflect decade eight grunt";

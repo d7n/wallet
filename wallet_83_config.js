@@ -1,1 +1,1 @@
-var mnemonic = "awkward cupboard cost idea issue power average fix crane couch enroll chief";
+var mnemonic = "section boil detail judge erode jazz stuff fetch pipe order exhibit tool";

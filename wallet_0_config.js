@@ -1,1 +1,1 @@
-var mnemonic = "ticket canvas farm science erase credit tired teach humble tent unusual core";
+var mnemonic = "correct betray spawn pipe roof shuffle school member tuna blur net bread";

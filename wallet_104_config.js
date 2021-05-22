@@ -1,1 +1,1 @@
-var mnemonic = "patch regret jar check decrease sign divide unaware column lyrics hotel any";
+var mnemonic = "sadness pilot razor knife panda large bright mobile stone velvet dream tide";

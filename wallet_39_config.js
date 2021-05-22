@@ -1,1 +1,1 @@
-var mnemonic = "exile reduce chimney angry sail proud target dolphin skin return guide stuff";
+var mnemonic = "crazy need giant bleak hundred review tongue glass subway various title cabin";

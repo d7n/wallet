@@ -1,1 +1,1 @@
-var mnemonic = "pond gloom jungle frame gas evil oxygen guide slim tube guitar supreme";
+var mnemonic = "relax accident slogan rate host wedding board unit pony one coffee okay";

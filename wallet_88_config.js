@@ -1,1 +1,1 @@
-var mnemonic = "prize sad salon praise episode solar digital amount follow three amazing screen";
+var mnemonic = "secret spoon shallow drive regret gossip pause win settle trip rib brush";

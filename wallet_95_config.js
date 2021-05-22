@@ -1,1 +1,1 @@
-var mnemonic = "estate burden jacket patch wait typical armed divide license spray push race";
+var mnemonic = "scout business target husband extend trial exotic effort bag junk armor turn";

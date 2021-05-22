@@ -1,1 +1,1 @@
-var mnemonic = "favorite discover oxygen jelly excuse achieve reason bullet bargain amount absent someone";
+var mnemonic = "decrease maid unusual ability soon wife public fantasy music buzz sunny dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter twin moon fresh comic myth extra abandon tenant security move seven";
+var mnemonic = "swap equip vehicle smooth myth cry simple sugar donate rice smooth width";

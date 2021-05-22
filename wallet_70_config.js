@@ -1,1 +1,1 @@
-var mnemonic = "silver scrap dash recipe sunny cousin hurdle forget metal youth baby view";
+var mnemonic = "perfect like board job toe demise raccoon open modify term fog title";

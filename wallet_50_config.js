@@ -1,1 +1,1 @@
-var mnemonic = "glory faith frequent hair file royal proud faculty exhibit scrap spell chaos";
+var mnemonic = "segment never helmet inquiry catalog remain budget neither orbit echo pitch rather";

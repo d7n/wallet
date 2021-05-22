@@ -1,1 +1,1 @@
-var mnemonic = "pink water pupil defense idea raise kick seven live come seminar utility";
+var mnemonic = "rate round wool song sing august link insane chalk surface lumber purchase";

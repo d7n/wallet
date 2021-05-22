@@ -1,1 +1,1 @@
-var mnemonic = "fly winter fault effort narrow credit check essence drastic world pupil cage";
+var mnemonic = "organ aunt soup obvious sick van injury mansion cruel tower yellow home";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery snap loan hire life arena brand mutual slide nurse cart lawn";
+var mnemonic = "melody pilot wrist weather three depth universe frozen cupboard rural jealous stage";

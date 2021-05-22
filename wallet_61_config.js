@@ -1,1 +1,1 @@
-var mnemonic = "love acquire aware frog curious lunar another tobacco october trigger flush minute";
+var mnemonic = "now lesson degree outdoor conduct ice material whip goat monster wine holiday";

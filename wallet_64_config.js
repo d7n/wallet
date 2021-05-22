@@ -1,1 +1,1 @@
-var mnemonic = "tumble pencil casino island chimney proud spoon twice myth empty vacant armed";
+var mnemonic = "old guitar grace tuna season human wing guitar abstract chalk stereo resource";

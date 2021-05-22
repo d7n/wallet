@@ -1,1 +1,1 @@
-var mnemonic = "pulp item first budget turtle cram stairs science badge puzzle express confirm";
+var mnemonic = "artist slam stool eternal direct boat farm candy maple glimpse century cake";

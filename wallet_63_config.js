@@ -1,1 +1,1 @@
-var mnemonic = "attitude market peanut venture excuse fresh day alarm shadow hollow advice spare";
+var mnemonic = "runway cross sock boil hope enforce letter pact result park morning burst";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate wall cereal trick soul quiz oblige action near false trouble novel";
+var mnemonic = "evoke length ugly develop private cricket egg priority tuna wrestle patch false";

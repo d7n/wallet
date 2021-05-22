@@ -1,1 +1,1 @@
-var mnemonic = "number trick wing flat climb wagon excite fish poem rain sign member";
+var mnemonic = "summer depart time pottery wear develop parent gas swamp plate quick virtual";

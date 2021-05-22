@@ -1,1 +1,1 @@
-var mnemonic = "correct analyst target define butter casual tail army relief trust confirm wide";
+var mnemonic = "sustain gravity cry cake gesture office humor select provide slender issue during";

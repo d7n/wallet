@@ -1,1 +1,1 @@
-var mnemonic = "load brain liberty topple tongue caution web damage actual witness want course";
+var mnemonic = "ill state midnight cluster ordinary expect motion skate lunch crouch pen weapon";

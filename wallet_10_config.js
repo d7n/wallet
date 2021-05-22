@@ -1,1 +1,1 @@
-var mnemonic = "gain sunset enough pistol village february rail lyrics fashion vault critic tilt";
+var mnemonic = "method kid gadget already where happy require upper bless mystery violin release";

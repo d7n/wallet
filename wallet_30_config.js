@@ -1,1 +1,1 @@
-var mnemonic = "vote later trap scheme tunnel sauce pluck agent kiwi state hope must";
+var mnemonic = "comfort region surprise mountain ripple merry foil solar axis skirt lecture tobacco";

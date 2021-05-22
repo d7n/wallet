@@ -1,1 +1,1 @@
-var mnemonic = "clean undo work congress explain catch clump able accident opera future enable";
+var mnemonic = "orchard flush observe crew hill gap harvest wrap sorry luggage traffic cactus";
