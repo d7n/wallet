@@ -1,1 +1,1 @@
-var mnemonic = "kidney sign scissors always skill keen charge soul february circle height senior";
+var mnemonic = "scene metal twice try honey random wish settle clarify betray glare habit";

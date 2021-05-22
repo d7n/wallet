@@ -1,1 +1,1 @@
-var mnemonic = "family area dose stuff pond rival inhale sick subway dwarf supply north";
+var mnemonic = "shock wrist foster case economy stable unfold giraffe remove chase future destroy";

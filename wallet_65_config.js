@@ -1,1 +1,1 @@
-var mnemonic = "sponsor flag balcony december couch jewel sick truck swarm pattern crime spatial";
+var mnemonic = "height nation material false minute fiber glide piano release engage fog busy";

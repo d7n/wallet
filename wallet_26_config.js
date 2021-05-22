@@ -1,1 +1,1 @@
-var mnemonic = "token give point radio consider mystery report illness spot goose tonight group";
+var mnemonic = "diary desk clinic wheat blouse female shuffle clarify penalty mass alpha mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "toss broom glue miss payment fire sketch couple immense cash scout math";
+var mnemonic = "upon become response hurdle laptop release olympic upgrade vacant moon enlist bacon";

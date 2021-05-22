@@ -1,1 +1,1 @@
-var mnemonic = "boy dutch lemon original earth vintage lizard modify ranch alter inspire behave";
+var mnemonic = "gauge kiwi plate oyster quote noodle elevator curve owner arrive truth humble";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery intact betray illness bicycle energy weekend lunch escape gravity entry major";
+var mnemonic = "report clutch bone wet fall inspire type skate squirrel dance couple avoid";

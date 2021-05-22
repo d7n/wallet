@@ -1,1 +1,1 @@
-var mnemonic = "easily suspect crack comfort express brother month tape olive uncle scene firm";
+var mnemonic = "curious gift relief soccer large dignity escape photo fog taxi eternal auto";

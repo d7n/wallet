@@ -1,1 +1,1 @@
-var mnemonic = "meadow proof sustain square unaware interest crater crop ramp card color modify";
+var mnemonic = "culture history portion throw pencil dentist owner section great promote clarify grit";

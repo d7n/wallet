@@ -1,1 +1,1 @@
-var mnemonic = "crane shine toddler fury write rug cactus evolve hedgehog mouse disagree slush";
+var mnemonic = "segment athlete session slight snap draw curve wash decorate liar desert swamp";

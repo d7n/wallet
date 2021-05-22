@@ -1,1 +1,1 @@
-var mnemonic = "famous canyon doctor alarm enact whip under gloom grunt lend sniff jacket";
+var mnemonic = "weasel dignity antique soft ghost option shoulder screen safe reject clump tip";

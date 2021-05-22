@@ -1,1 +1,1 @@
-var mnemonic = "involve humble frost fatal senior wheel much genius lobster leaf extend home";
+var mnemonic = "remove dad welcome skate heart patrol dove clap fantasy action music arrow";

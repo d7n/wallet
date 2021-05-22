@@ -1,1 +1,1 @@
-var mnemonic = "caught flush fortune carry always omit submit acoustic rebuild access armed biology";
+var mnemonic = "thought salad slide caught luxury attitude demise face save coyote hamster demand";

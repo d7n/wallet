@@ -1,1 +1,1 @@
-var mnemonic = "sort ahead return grunt drink promote peasant record stable uncover orange obvious";
+var mnemonic = "vocal transfer crater early april blue stay pave always buzz castle page";

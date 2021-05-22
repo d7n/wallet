@@ -1,1 +1,1 @@
-var mnemonic = "steel twin calm life possible oak space genius great bachelor knife fit";
+var mnemonic = "salute chase check group favorite chuckle just traffic sock cost potato cube";

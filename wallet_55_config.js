@@ -1,1 +1,1 @@
-var mnemonic = "reason sunset sell output idea blur surprise laptop autumn party gallery marble";
+var mnemonic = "together detect eyebrow unusual reflect install tank umbrella style abstract immune find";

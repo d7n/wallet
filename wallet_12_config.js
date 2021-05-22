@@ -1,1 +1,1 @@
-var mnemonic = "venture license amount similar unhappy ankle critic result access behind century visual";
+var mnemonic = "salt guard boy toss yard dutch vital citizen balcony cart amused ability";

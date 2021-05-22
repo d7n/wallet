@@ -1,1 +1,1 @@
-var mnemonic = "traffic cargo ask bulk fabric drive rug inhale net suspect salad image";
+var mnemonic = "green photo trap orange mad industry day oblige canyon pulp plastic ridge";

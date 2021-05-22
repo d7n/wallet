@@ -1,1 +1,1 @@
-var mnemonic = "rabbit shadow among dizzy pluck poet cruel point awesome hover before forget";
+var mnemonic = "ski document only menu bamboo monkey census rebuild void gown snap negative";

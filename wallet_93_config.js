@@ -1,1 +1,1 @@
-var mnemonic = "eight gap magnet roast tiny stereo drop dirt stem parade effort salon";
+var mnemonic = "harvest frown category goat very garment gift bachelor stable kitten erosion crater";

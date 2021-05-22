@@ -1,1 +1,1 @@
-var mnemonic = "sustain entire pumpkin share avocado tell organ seminar coffee habit clutch loyal";
+var mnemonic = "lamp animal spare pole health solution uphold regular divert february still venture";

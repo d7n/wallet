@@ -1,1 +1,1 @@
-var mnemonic = "mountain enable common advice material verify roof utility harbor cereal category sudden";
+var mnemonic = "wrestle ball toddler essay illegal remove bounce attitude pause moon season company";

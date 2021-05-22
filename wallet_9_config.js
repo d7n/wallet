@@ -1,1 +1,1 @@
-var mnemonic = "sibling gap dirt join west crawl simple swallow shop emotion dwarf board";
+var mnemonic = "clinic travel brave critic kind shiver steak lobster already eagle ski brisk";

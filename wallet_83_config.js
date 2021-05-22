@@ -1,1 +1,1 @@
-var mnemonic = "route paper slush avoid puzzle patrol expose false wrestle midnight elite goat";
+var mnemonic = "maple fruit fragile rapid burger net below youth rebel chicken chair never";

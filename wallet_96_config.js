@@ -1,1 +1,1 @@
-var mnemonic = "black fence tuna beef salt achieve almost large cart gain bird coyote";
+var mnemonic = "history neck inmate empower matter giraffe buddy rally meat spread joy mixed";

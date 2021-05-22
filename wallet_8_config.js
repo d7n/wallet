@@ -1,1 +1,1 @@
-var mnemonic = "fever lion deal relax fit utility prize true budget feature tuna wear";
+var mnemonic = "sad question burst list present scrub latin tray wash develop invite silly";

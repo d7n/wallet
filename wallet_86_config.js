@@ -1,1 +1,1 @@
-var mnemonic = "humor convince awful jewel traffic relief empower sauce matrix joke pattern shuffle";
+var mnemonic = "tourist dune door very then cherry stamp blast sunset hire alert work";

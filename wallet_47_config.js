@@ -1,1 +1,1 @@
-var mnemonic = "alley unhappy shed advance ecology soap verb dice eight clay pass matter";
+var mnemonic = "noble shoot myth income nose caution dirt rocket floor road upper behave";

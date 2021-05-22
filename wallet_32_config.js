@@ -1,1 +1,1 @@
-var mnemonic = "remind swap arctic salute will duty shell nothing brass because shove grief";
+var mnemonic = "help cherry token vintage cage barely enact ivory allow attack follow pipe";

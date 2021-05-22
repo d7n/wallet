@@ -1,1 +1,1 @@
-var mnemonic = "garden result ghost flame glove husband people girl champion obscure property impact";
+var mnemonic = "waste various style spread when into spoon dizzy march mango girl flash";

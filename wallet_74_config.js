@@ -1,1 +1,1 @@
-var mnemonic = "bag squeeze shield suggest tail modify oxygen borrow attitude vessel matrix next";
+var mnemonic = "oven practice shrug hungry erode grunt balcony visit appear ginger donor excess";

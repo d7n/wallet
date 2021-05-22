@@ -1,1 +1,1 @@
-var mnemonic = "ginger hover audit pelican neck wrong circle adapt snow denial risk attack";
+var mnemonic = "idea tornado guilt armed glow bring tired umbrella echo cost heavy grocery";

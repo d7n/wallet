@@ -1,1 +1,1 @@
-var mnemonic = "wink upset learn travel until foster south spice minimum spot crack aisle";
+var mnemonic = "pony odor only arch pattern never barrel snow attack food type absent";

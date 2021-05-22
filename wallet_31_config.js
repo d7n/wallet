@@ -1,1 +1,1 @@
-var mnemonic = "universe toss teach film borrow theory rain install novel lens bid grit";
+var mnemonic = "garbage distance fire palm payment combine model cycle toddler warfare arrow tragic";

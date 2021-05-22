@@ -1,1 +1,1 @@
-var mnemonic = "physical canoe merit soldier riot wheel miss because chimney pave flee earn";
+var mnemonic = "stool crack slab subway dolphin service course height gossip undo rail twin";

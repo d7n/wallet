@@ -1,1 +1,1 @@
-var mnemonic = "caution hair void lemon useful airport zoo brown hollow cannon possible inflict";
+var mnemonic = "tennis angry omit kiss rug copper student way erode kitchen fade sort";

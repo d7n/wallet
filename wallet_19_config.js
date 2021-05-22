@@ -1,1 +1,1 @@
-var mnemonic = "key true oven whip amount brass relax repair fatal lamp sign return";
+var mnemonic = "caught silent accident firm moral injury gain rule section weather food hospital";

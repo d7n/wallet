@@ -1,1 +1,1 @@
-var mnemonic = "easily boy plate pony retire collect gravity public coin royal accuse slam";
+var mnemonic = "any blade gospel clinic autumn neither office ill joke wink nest stem";

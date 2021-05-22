@@ -1,1 +1,1 @@
-var mnemonic = "dismiss raise topple choose broom correct dilemma there winner pony peace pottery";
+var mnemonic = "swamp eternal actor sketch teach matter dream easy spy crucial defense virus";

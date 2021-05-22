@@ -1,1 +1,1 @@
-var mnemonic = "until language input vacant antenna upset planet beauty cool decorate together trial";
+var mnemonic = "negative typical hospital scatter dawn tunnel jewel shove arm universe bus rule";

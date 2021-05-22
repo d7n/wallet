@@ -1,1 +1,1 @@
-var mnemonic = "rotate sunny enemy village clean weapon slush then quote deny glass blossom";
+var mnemonic = "throw mystery polar emotion come comfort bamboo bottom zoo lemon equip practice";

@@ -1,1 +1,1 @@
-var mnemonic = "elite affair crane appear size dash sunset design offer festival deer before";
+var mnemonic = "clean toss forum pistol surprise endless dust trust shallow mean virtual surge";

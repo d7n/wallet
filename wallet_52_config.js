@@ -1,1 +1,1 @@
-var mnemonic = "aspect team swamp edge describe vicious noodle bronze carbon pair round harvest";
+var mnemonic = "such tank brass brave member blind edge where mandate jaguar when rule";

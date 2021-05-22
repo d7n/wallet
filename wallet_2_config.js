@@ -1,1 +1,1 @@
-var mnemonic = "area hip stool outside garment rigid cable caution silver order credit column";
+var mnemonic = "valley witness wood remind squeeze dilemma inner safe pave trial merge bacon";

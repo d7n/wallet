@@ -1,1 +1,1 @@
-var mnemonic = "kidney creek chapter panel dial tourist life near solution donate outside tissue";
+var mnemonic = "rapid profit hub valve nerve jazz demise chalk donkey village secret lyrics";

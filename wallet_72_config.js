@@ -1,1 +1,1 @@
-var mnemonic = "sunset doctor never film vivid bridge goddess fold hub suggest gather type";
+var mnemonic = "original fatigue tell captain fragile small great already among omit supply allow";

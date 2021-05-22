@@ -1,1 +1,1 @@
-var mnemonic = "grab grant cook demise marble potato ring brother grocery sell outside pigeon";
+var mnemonic = "soccer social high matrix moon advice lonely oblige craft call next rate";

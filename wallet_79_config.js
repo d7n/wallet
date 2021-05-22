@@ -1,1 +1,1 @@
-var mnemonic = "able clock awkward foil melody peace beef move snack fortune bright stomach";
+var mnemonic = "quit image daring bone anger surge punch open impose margin blouse delay";

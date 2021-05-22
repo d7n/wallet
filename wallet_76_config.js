@@ -1,1 +1,1 @@
-var mnemonic = "success more holiday addict nurse swarm physical punch detect belt parade unfold";
+var mnemonic = "pear engine exotic finish silver pave cup carbon popular unveil mixture reduce";

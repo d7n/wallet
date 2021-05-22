@@ -1,1 +1,1 @@
-var mnemonic = "frost assist skate bounce turn enjoy honey tone remind only lend cancel";
+var mnemonic = "cherry opera maid vacuum keen raccoon pony morning method maze list novel";

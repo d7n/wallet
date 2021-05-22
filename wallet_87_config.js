@@ -1,1 +1,1 @@
-var mnemonic = "inform head stamp come inch hood possible reopen innocent random truck ramp";
+var mnemonic = "case increase craft tone angry almost quality iron bomb rifle sun fork";

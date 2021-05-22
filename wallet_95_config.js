@@ -1,1 +1,1 @@
-var mnemonic = "camp just impact side brick grunt buffalo ghost try theme enable cluster";
+var mnemonic = "entry people club minute negative ethics genius giraffe grid run claim battle";

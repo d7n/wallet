@@ -1,1 +1,1 @@
-var mnemonic = "card debate armed logic robust remain term car reveal predict talent champion";
+var mnemonic = "life love erupt roast arrange myself select claw hover know enrich notice";

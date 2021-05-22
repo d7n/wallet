@@ -1,1 +1,1 @@
-var mnemonic = "pause faith rabbit poet enough genre dance faith bean detect ball medal";
+var mnemonic = "angle clever orphan snap way spoon borrow electric debate exclude trash exact";

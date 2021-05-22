@@ -1,1 +1,1 @@
-var mnemonic = "film text survey fantasy north pair record project shift stool alone solar";
+var mnemonic = "nothing boil coyote genre era make job unique rack boy arrest pause";

@@ -1,1 +1,1 @@
-var mnemonic = "advance layer food embrace marriage imitate level shadow federal naive grief false";
+var mnemonic = "movie super unit swarm run walk pupil emerge social any patient combine";

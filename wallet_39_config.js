@@ -1,1 +1,1 @@
-var mnemonic = "protect elegant siege tomorrow slow rare title harvest reflect eternal solar front";
+var mnemonic = "trigger photo fork surprise zoo outer remove blind early notable debris search";

@@ -1,1 +1,1 @@
-var mnemonic = "series more coin rose absent mirror phrase world tower chef matrix taxi";
+var mnemonic = "sentence scrub brave razor jeans beyond black sausage file tired peanut dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel pen horn view allow kit science sweet scorpion attitude poem bone";
+var mnemonic = "summer track action task disagree someone rebel end rug bamboo ignore dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "coast fetch jacket obscure fall crater pumpkin ring one key skirt category";
+var mnemonic = "unfair off undo blue sudden early guitar double refuse catch anxiety album";

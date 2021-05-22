@@ -1,1 +1,1 @@
-var mnemonic = "pledge tragic slot lounge silver baby salute pride text snap way swim";
+var mnemonic = "special virus cool maximum process smoke mixture milk during tragic debate inner";

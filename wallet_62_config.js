@@ -1,1 +1,1 @@
-var mnemonic = "remove holiday vague assist banana biology claw soccer mix rate bundle corn";
+var mnemonic = "border tell treat brick problem easy renew ride vendor stairs inherit tired";

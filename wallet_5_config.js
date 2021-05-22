@@ -1,1 +1,1 @@
-var mnemonic = "magnet report general orient horn scout nest section funny bacon estate pact";
+var mnemonic = "canal vanish drive inner convince second today beef sponsor bleak sauce minute";

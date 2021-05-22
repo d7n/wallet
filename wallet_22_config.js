@@ -1,1 +1,1 @@
-var mnemonic = "card grocery already mechanic output festival sketch jar render rich color subway";
+var mnemonic = "mention cup bind lyrics salt blur lamp phrase radar gift pioneer involve";

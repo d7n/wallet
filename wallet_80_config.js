@@ -1,1 +1,1 @@
-var mnemonic = "forum crowd snake husband chest actor crash example about when acquire crew";
+var mnemonic = "move quit early hello wrist cabbage city piano magnet neutral clap tiny";

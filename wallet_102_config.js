@@ -1,1 +1,1 @@
-var mnemonic = "body chunk still attitude indicate crazy century celery stand educate inside awkward";
+var mnemonic = "talent atom person angle decorate december discover welcome urge panic credit idle";

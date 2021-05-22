@@ -1,1 +1,1 @@
-var mnemonic = "ivory december frog force reopen grab control popular sort chunk swap supply";
+var mnemonic = "rally avocado meadow indicate draw language nurse aim song market program must";

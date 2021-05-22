@@ -1,1 +1,1 @@
-var mnemonic = "torch differ hurry toast wolf thumb want emotion fold oppose oval sure";
+var mnemonic = "occur minor need auto fox elegant betray inner pumpkin buyer someone alien";

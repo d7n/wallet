@@ -1,1 +1,1 @@
-var mnemonic = "rose host rabbit debris waste doctor album manage risk canoe fork few";
+var mnemonic = "embark pet void crucial clinic civil infant conduct move meadow prize divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "siren hour shock kite gate enable hybrid learn pink damp example drama";
+var mnemonic = "concert armor purchase toast shoulder gasp rose better sketch share whisper average";

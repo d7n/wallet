@@ -1,1 +1,1 @@
-var mnemonic = "custom give capital pony labor dinner caution metal ask gather guilt vast";
+var mnemonic = "panther town goddess hedgehog arrest hospital member will annual crush reunion choose";

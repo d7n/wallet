@@ -1,1 +1,1 @@
-var mnemonic = "twist peasant fork gun stock cereal fatal spin ocean genuine lumber snow";
+var mnemonic = "rural lady tenant deny anchor chimney moment gorilla home nurse decide inflict";

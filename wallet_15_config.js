@@ -1,1 +1,1 @@
-var mnemonic = "public raw honey govern air nest flat amount absent erase insane clerk";
+var mnemonic = "useless major short like trash gun bulb save grocery syrup thought fashion";

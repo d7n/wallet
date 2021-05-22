@@ -1,1 +1,1 @@
-var mnemonic = "disagree family hundred boy afraid artefact street about clarify penalty warrior curious";
+var mnemonic = "still art immune gorilla rescue flavor fatal velvet problem long civil rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "rough immense question crazy local pitch yard behind slam wheat labor one";
+var mnemonic = "pass survey tide marine affair tourist crane market tomato tobacco erode flame";

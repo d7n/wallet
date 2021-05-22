@@ -1,1 +1,1 @@
-var mnemonic = "friend soda receive blossom shuffle roof lion similar they group beauty like";
+var mnemonic = "subway behind helmet west awful license clutch rebuild matter family theme since";

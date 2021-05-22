@@ -1,1 +1,1 @@
-var mnemonic = "siren stove walnut accident just borrow actual hub guitar banana canal royal";
+var mnemonic = "drift fiber interest debris clap diamond ramp cargo mask exhaust drama pipe";

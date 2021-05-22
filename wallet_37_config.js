@@ -1,1 +1,1 @@
-var mnemonic = "lady replace tree corn inflict clap cabin unaware sound example double grief";
+var mnemonic = "hint innocent dog rookie vast erase list result arrange suspect health bracket";

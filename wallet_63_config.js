@@ -1,1 +1,1 @@
-var mnemonic = "blossom oxygen whale jelly inject provide panda track face bird half oxygen";
+var mnemonic = "pulp also echo world cousin same wrist enhance race magic transfer spin";

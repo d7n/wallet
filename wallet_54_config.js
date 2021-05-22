@@ -1,1 +1,1 @@
-var mnemonic = "alcohol devote game violin dog dinner awkward joke expose rebuild scale solve";
+var mnemonic = "parade protect sign phrase marriage lesson vapor spend cupboard hobby level lawsuit";

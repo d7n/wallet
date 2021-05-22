@@ -1,1 +1,1 @@
-var mnemonic = "obvious word task sunset faculty security dream layer bunker chief sibling bright";
+var mnemonic = "mention tree punch mention muscle nephew arm also there egg scene jungle";

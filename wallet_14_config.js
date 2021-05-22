@@ -1,1 +1,1 @@
-var mnemonic = "antique worry bundle entire scrap document draft circle notable accuse exhibit bone";
+var mnemonic = "toilet insect galaxy oak arrange dice future ice sure result patrol east";

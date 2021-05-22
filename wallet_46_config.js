@@ -1,1 +1,1 @@
-var mnemonic = "retire dragon length push episode sausage odor payment vague mom describe knife";
+var mnemonic = "wheel emerge good shuffle young large tree scale flower page brief great";

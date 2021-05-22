@@ -1,1 +1,1 @@
-var mnemonic = "tide club near track tobacco clinic perfect abandon document sting dwarf describe";
+var mnemonic = "rail spawn busy fault erode easily vacant convince power album suit mango";

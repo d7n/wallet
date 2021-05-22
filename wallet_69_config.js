@@ -1,1 +1,1 @@
-var mnemonic = "goose luxury lemon opinion bleak era tumble load proof require hockey mix";
+var mnemonic = "avoid sad burst mirror able bus apple actor rifle resource bicycle radar";

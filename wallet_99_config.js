@@ -1,1 +1,1 @@
-var mnemonic = "raise sea victory bulb fly resist canvas produce faith achieve bulb theory";
+var mnemonic = "switch engage juice hold advice latin news scale join best apart laptop";

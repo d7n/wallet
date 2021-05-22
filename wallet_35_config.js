@@ -1,1 +1,1 @@
-var mnemonic = "chapter skate kingdom pipe cement add wrestle allow harvest liar mixed chase";
+var mnemonic = "table cry taste shiver shell bunker discover title sport theme toddler cargo";

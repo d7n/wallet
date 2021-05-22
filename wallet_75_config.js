@@ -1,1 +1,1 @@
-var mnemonic = "secret parade adapt impact knife attack tooth deny space boring embody blossom";
+var mnemonic = "junior trigger carbon problem sun armor remember retire aerobic mushroom merge clump";
