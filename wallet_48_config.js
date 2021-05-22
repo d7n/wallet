@@ -1,1 +1,1 @@
-var mnemonic = "crack heart skirt doll energy symptom punch item salt vacuum else fuel";
+var mnemonic = "pact fun lesson hazard brother wide only sport either village believe undo";

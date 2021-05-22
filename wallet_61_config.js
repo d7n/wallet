@@ -1,1 +1,1 @@
-var mnemonic = "wrestle upon vacant entire distance okay surge salt tunnel muscle denial spray";
+var mnemonic = "critic project title yard depend amused save sword north unable cattle taste";

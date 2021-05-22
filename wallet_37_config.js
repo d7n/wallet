@@ -1,1 +1,1 @@
-var mnemonic = "tide stage armor trade leaf traffic exile ability umbrella segment poet library";
+var mnemonic = "journey female clay orange nominee mail exotic wait anxiety wolf volume rain";

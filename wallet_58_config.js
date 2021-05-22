@@ -1,1 +1,1 @@
-var mnemonic = "sand clutch fee news lecture expand syrup idle develop symptom alarm cool";
+var mnemonic = "crater infant brick grid merit curious coast betray chalk renew senior blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "happy harbor rail test survey capable faculty air spirit fury jar curtain";
+var mnemonic = "habit neither umbrella bind frost appear chapter shuffle kingdom stable quality cluster";

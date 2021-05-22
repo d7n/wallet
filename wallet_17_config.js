@@ -1,1 +1,1 @@
-var mnemonic = "record adjust goddess ill liquid promote satisfy girl cliff knife dust bar";
+var mnemonic = "exist income friend health crater upset seat fork clump render leopard disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "alter review view culture sight dismiss ten three potato mixed dentist dirt";
+var mnemonic = "coin asthma wisdom grocery please coyote wealth abuse salad canvas other vote";

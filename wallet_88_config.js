@@ -1,1 +1,1 @@
-var mnemonic = "fault pizza tongue embark toward wide sight rely act leave truly reject";
+var mnemonic = "edit draw few draw dose leisure chef trust climb survey guilt glow";

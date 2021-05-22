@@ -1,1 +1,1 @@
-var mnemonic = "wave example velvet hub spice core clay pilot economy green shock soft";
+var mnemonic = "razor secret whisper course strong ill alpha swamp soul weird keen modify";

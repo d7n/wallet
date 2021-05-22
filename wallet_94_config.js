@@ -1,1 +1,1 @@
-var mnemonic = "topic rug ostrich birth dinosaur december apple inhale all edit hero document";
+var mnemonic = "reform there obey helmet seminar bamboo paddle hold behave desk swamp theme";

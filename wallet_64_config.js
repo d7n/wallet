@@ -1,1 +1,1 @@
-var mnemonic = "industry sick woman flip ahead display list cinnamon minimum peasant boost raw";
+var mnemonic = "place puzzle flock one crater output solution wine blade rate utility kite";

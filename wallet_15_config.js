@@ -1,1 +1,1 @@
-var mnemonic = "solve jazz world trip habit shell stadium seven reveal alcohol surface prevent";
+var mnemonic = "recipe gown horn benefit width surround dirt liar nice echo much hood";

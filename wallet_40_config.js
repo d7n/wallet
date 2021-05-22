@@ -1,1 +1,1 @@
-var mnemonic = "powder truck vicious sausage voice mystery exile trial glove fame raise accuse";
+var mnemonic = "nose adjust just isolate blade remind woman guide fog throw sight they";

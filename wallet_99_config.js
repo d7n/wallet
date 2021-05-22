@@ -1,1 +1,1 @@
-var mnemonic = "income rate case flag output tank ship height awful panic poet pelican";
+var mnemonic = "travel dinner leopard hand purity useful liquid glove company inquiry settle hungry";

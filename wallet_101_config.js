@@ -1,1 +1,1 @@
-var mnemonic = "announce lunar length gospel balance pill dilemma before chunk labor insane reduce";
+var mnemonic = "wing agree night satisfy oppose year fetch defense unaware carry elbow culture";

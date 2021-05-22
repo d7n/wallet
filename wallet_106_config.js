@@ -1,1 +1,1 @@
-var mnemonic = "model quarter hazard damage wool faint planet net height test because arctic";
+var mnemonic = "awful spirit famous wagon pottery buffalo pen margin evoke material north mix";

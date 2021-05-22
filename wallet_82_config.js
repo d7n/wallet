@@ -1,1 +1,1 @@
-var mnemonic = "sand multiply consider tenant universe conduct wage melody antique slender climb isolate";
+var mnemonic = "story mixture address net happy combine wrong riot adapt tape define modify";

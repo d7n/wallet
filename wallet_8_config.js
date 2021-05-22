@@ -1,1 +1,1 @@
-var mnemonic = "oven flight six wave mask repair scrub island atom pet favorite horror";
+var mnemonic = "board marble nephew employ device jewel iron leaf material involve vehicle move";

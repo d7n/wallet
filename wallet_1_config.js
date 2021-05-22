@@ -1,1 +1,1 @@
-var mnemonic = "bunker imitate flee impose visit distance arch among broken forward injury board";
+var mnemonic = "maze choice few goat first typical adapt detail theme raise charge ready";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar angry soup mix clump gap easily tortoise busy vintage enlist sauce";
+var mnemonic = "annual wear width plate napkin polar pill fence arctic lamp cruise connect";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate yard web throw leaf camera vote deputy salute oak pear spot";
+var mnemonic = "surround coin law wolf sing siren slot mammal destroy claw genius horn";

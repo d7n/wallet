@@ -1,1 +1,1 @@
-var mnemonic = "dad cube junior depth hollow winter fly ritual puppy body myth almost";
+var mnemonic = "scheme lizard about cook river surprise weekend hollow radar foster stairs double";

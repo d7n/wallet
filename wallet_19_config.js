@@ -1,1 +1,1 @@
-var mnemonic = "find fine artwork wood monkey arrest climb pig prepare immense dawn cost";
+var mnemonic = "unknown play equal act web door old runway seed marine regret bunker";

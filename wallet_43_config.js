@@ -1,1 +1,1 @@
-var mnemonic = "shop danger crew friend small short jewel famous auction promote tuition wait";
+var mnemonic = "bleak person ozone hello doctor hair west old copper wonder harsh expose";

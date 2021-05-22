@@ -1,1 +1,1 @@
-var mnemonic = "spoon income please enter quiz bread future mixed antique ignore route sibling";
+var mnemonic = "over amazing demise rib ginger chief genius surface wedding accuse tobacco combine";

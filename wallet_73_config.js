@@ -1,1 +1,1 @@
-var mnemonic = "stone barrel crowd rough goat innocent exclude bleak matrix trust dragon item";
+var mnemonic = "vague cram middle disorder either dance antique crumble eternal core social nuclear";

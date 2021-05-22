@@ -1,1 +1,1 @@
-var mnemonic = "resist worry wife cat mule ticket layer fat aim else used field";
+var mnemonic = "wheel matter silent entire unusual thumb tube name lava chapter earn advance";

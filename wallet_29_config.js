@@ -1,1 +1,1 @@
-var mnemonic = "shadow explain around release wrap settle bottom wife area silk diary any";
+var mnemonic = "alien finger nerve input human front afraid sun nest proud squeeze use";

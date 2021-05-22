@@ -1,1 +1,1 @@
-var mnemonic = "sunset erode thumb shed siren odor dish finger eight bright chase minute";
+var mnemonic = "multiply side horn flavor enter loyal cabbage burger describe vibrant crouch awful";

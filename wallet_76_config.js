@@ -1,1 +1,1 @@
-var mnemonic = "labor fiscal sniff gift slice common south always above syrup wood glove";
+var mnemonic = "lamp decline stage kitchen visit deliver deputy local bird country garlic bless";

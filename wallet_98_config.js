@@ -1,1 +1,1 @@
-var mnemonic = "gain enter laundry sport shell casual risk march august guilt fiction major";
+var mnemonic = "round loop legend emotion daring myself hidden person safe inflict sadness cattle";

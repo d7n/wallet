@@ -1,1 +1,1 @@
-var mnemonic = "embrace ready napkin ordinary purchase have heavy glare solid flock expose worry";
+var mnemonic = "define normal burden sponsor elephant sudden valley prevent silly entry air piece";

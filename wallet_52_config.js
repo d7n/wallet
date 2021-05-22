@@ -1,1 +1,1 @@
-var mnemonic = "upset worth marble double select dwarf spice split captain swing little nuclear";
+var mnemonic = "flock patient slow connect urge super hazard host aisle liar pizza swear";

@@ -1,1 +1,1 @@
-var mnemonic = "grain wisdom dial excess cover october truth settle snap area hill survey";
+var mnemonic = "smart dry horse divert blast hybrid clown beyond theme claim auction iron";

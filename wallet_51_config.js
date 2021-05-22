@@ -1,1 +1,1 @@
-var mnemonic = "column effort burst lab lucky rural end dove steak nothing history they";
+var mnemonic = "visa super game spell tongue rude repeat lady half snake planet wish";

@@ -1,1 +1,1 @@
-var mnemonic = "clean decline human know awake trumpet track imitate shock spray suffer embrace";
+var mnemonic = "denial trouble shop soldier copy rocket beauty nature stereo truck educate brass";

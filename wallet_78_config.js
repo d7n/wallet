@@ -1,1 +1,1 @@
-var mnemonic = "filter armor buddy meat predict matter cement crop cannon outer much banana";
+var mnemonic = "luxury organ bubble what radio unveil soda urge winner typical post tourist";

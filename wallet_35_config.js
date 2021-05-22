@@ -1,1 +1,1 @@
-var mnemonic = "dune critic message fat quarter heavy undo mix jewel illegal layer install";
+var mnemonic = "talk outside comic mammal entry error next small couch fruit phone shed";

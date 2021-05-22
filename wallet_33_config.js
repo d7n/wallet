@@ -1,1 +1,1 @@
-var mnemonic = "guess region noise impose develop family example permit impulse stool water unfold";
+var mnemonic = "north dry beach web essay anxiety hundred business ribbon live stumble gate";

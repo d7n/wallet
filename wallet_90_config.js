@@ -1,1 +1,1 @@
-var mnemonic = "give rotate tobacco weasel soccer slam oppose farm accuse chaos again join";
+var mnemonic = "aware install purse tell grunt connect twice brand uncover swim crane runway";

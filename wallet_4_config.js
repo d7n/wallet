@@ -1,1 +1,1 @@
-var mnemonic = "cart toast demand cradle frog ginger visa wife season verify opinion spin";
+var mnemonic = "recall cricket turn pet medal sketch weapon grab tomorrow artist nest flag";

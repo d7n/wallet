@@ -1,1 +1,1 @@
-var mnemonic = "tooth bright robust crash year hybrid mouse cover satisfy wall evoke senior";
+var mnemonic = "around puppy diary defy neutral alpha enable coral van reason right festival";

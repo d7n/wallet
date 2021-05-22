@@ -1,1 +1,1 @@
-var mnemonic = "flag cook bulb blouse century pizza section book gloom current quiz heart";
+var mnemonic = "twist surprise benefit bean fish garlic aim copy rifle thunder order oval";

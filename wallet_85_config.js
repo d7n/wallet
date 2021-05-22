@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sorry jelly divert laundry sugar friend force joy faculty salute boy";
+var mnemonic = "kiwi bulb daughter nose journey off bamboo hill father vintage fuel maze";

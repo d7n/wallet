@@ -1,1 +1,1 @@
-var mnemonic = "know burger pull wasp object door blood drama ignore jar ketchup script";
+var mnemonic = "begin play deal grant river mistake emotion alley medal dinosaur body february";

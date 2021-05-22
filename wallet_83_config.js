@@ -1,1 +1,1 @@
-var mnemonic = "fiscal traffic below dignity tray kidney index flip energy cheap sting desk";
+var mnemonic = "tortoise wear credit rhythm piano glory october rely muscle frown ridge virtual";

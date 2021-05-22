@@ -1,1 +1,1 @@
-var mnemonic = "rack episode damp economy struggle genuine tattoo fun field neither edge predict";
+var mnemonic = "holiday kit scissors pulp damp response blossom unique public duck merry kitchen";

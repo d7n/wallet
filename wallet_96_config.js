@@ -1,1 +1,1 @@
-var mnemonic = "steak satisfy regular town fat upon hunt test chat roof service twelve";
+var mnemonic = "seat liar list panther spoil second unknown harvest this payment loyal live";

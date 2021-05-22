@@ -1,1 +1,1 @@
-var mnemonic = "impose solar feed man remove very obtain finish ketchup visa palm deliver";
+var mnemonic = "menu again essence awesome snow awkward merry elbow extend diagram timber bicycle";

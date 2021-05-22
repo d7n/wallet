@@ -1,1 +1,1 @@
-var mnemonic = "duty siren minute bachelor isolate future online gun faith fragile distance kitchen";
+var mnemonic = "boat destroy scan candy choose repeat pizza tribe only camera enable soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "butter eyebrow portion ceiling switch wealth project spirit arch horn vivid hello";
+var mnemonic = "stable arrange toward tackle maple sadness scissors write wasp force moral cost";

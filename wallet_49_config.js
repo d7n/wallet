@@ -1,1 +1,1 @@
-var mnemonic = "chronic property sick toy hire skirt join goat age wrong female equip";
+var mnemonic = "print rare lunar before harbor faint resist absent way blur clutch safe";

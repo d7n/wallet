@@ -1,1 +1,1 @@
-var mnemonic = "join thought fire able group sword person toward vendor nasty dry dance";
+var mnemonic = "write matter confirm erosion decorate ceiling wagon harsh flip morning used roof";

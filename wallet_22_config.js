@@ -1,1 +1,1 @@
-var mnemonic = "replace limit ensure quiz violin lend vicious portion accident volcano churn ranch";
+var mnemonic = "noble train grow burst learn wear chronic horn floor ice sock innocent";

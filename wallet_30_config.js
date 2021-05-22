@@ -1,1 +1,1 @@
-var mnemonic = "peanut try main scrub retreat garage potato icon farm crouch account still";
+var mnemonic = "umbrella huge mandate spoon entry guitar tooth rude turtle police dwarf picnic";

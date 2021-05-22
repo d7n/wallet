@@ -1,1 +1,1 @@
-var mnemonic = "time twist animal ski banana illness battle dune unaware cram purse slow";
+var mnemonic = "reflect fix income wink return town valve vault frown hawk raven erase";

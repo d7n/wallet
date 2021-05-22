@@ -1,1 +1,1 @@
-var mnemonic = "legal bitter project candy nose peanut own panel member drill right cheese";
+var mnemonic = "erupt thumb drift confirm explain beyond slush subway dash poverty budget amount";

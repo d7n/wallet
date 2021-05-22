@@ -1,1 +1,1 @@
-var mnemonic = "mansion swift thrive apple oil garment orange velvet shoe flag quick height";
+var mnemonic = "ladder spread head alter matrix learn waste please flame decline rocket news";

@@ -1,1 +1,1 @@
-var mnemonic = "celery edit solution glory fix panther exist bus sibling palace betray decade";
+var mnemonic = "grain hockey glass very garage gap element exotic plug permit drum ten";

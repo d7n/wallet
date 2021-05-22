@@ -1,1 +1,1 @@
-var mnemonic = "water woman protect cat vote attack inner burst swing original swear female";
+var mnemonic = "test allow universe spawn distance alert today rabbit execute silk climb come";

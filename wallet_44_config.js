@@ -1,1 +1,1 @@
-var mnemonic = "approve surge enter great cross cycle govern prepare tuna lend beach demise";
+var mnemonic = "journey general runway crouch cost text wink matter blanket major despair guess";

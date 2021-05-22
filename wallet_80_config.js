@@ -1,1 +1,1 @@
-var mnemonic = "embark culture like guilt rookie mobile novel stairs ocean path bird consider";
+var mnemonic = "pledge drink door south sock business expose step sibling turtle tomato relief";

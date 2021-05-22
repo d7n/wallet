@@ -1,1 +1,1 @@
-var mnemonic = "guitar illegal weapon panther sunset jewel deal night panic repeat blanket card";
+var mnemonic = "river busy summer ride reward ridge mosquito drive eight pen quality various";

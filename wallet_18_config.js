@@ -1,1 +1,1 @@
-var mnemonic = "daughter inmate panel devote grit refuse idle behave execute luxury rich unusual";
+var mnemonic = "flash effort hedgehog notable amount denial destroy result bleak false guess law";

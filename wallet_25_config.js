@@ -1,1 +1,1 @@
-var mnemonic = "cherry boost spoil recycle veteran science quarter industry act liberty danger gift";
+var mnemonic = "arena supreme sword raw own grain armor chat awkward blast because fabric";

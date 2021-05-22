@@ -1,1 +1,1 @@
-var mnemonic = "again question question sheriff box maid flag gym melody pause dawn giggle";
+var mnemonic = "voice fuel vibrant reform urge pony hour build elephant glimpse cross obvious";

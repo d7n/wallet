@@ -1,1 +1,1 @@
-var mnemonic = "reflect student silk reward rookie guilt confirm grab cheap approve silver dismiss";
+var mnemonic = "random vibrant fiscal chicken hole claim head maze enemy hurry increase manual";

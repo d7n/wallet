@@ -1,1 +1,1 @@
-var mnemonic = "thumb practice divorce clip enrich garden genuine easy pistol success fox model";
+var mnemonic = "basket one theme unknown smooth spread alter fatal three twice only bread";

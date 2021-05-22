@@ -1,1 +1,1 @@
-var mnemonic = "labor afraid bench maple pumpkin inspire orphan enhance interest design stadium neck";
+var mnemonic = "burden canvas chaos tongue ugly jungle smart corn eyebrow saddle obey chef";

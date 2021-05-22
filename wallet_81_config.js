@@ -1,1 +1,1 @@
-var mnemonic = "snow horse tongue anchor safe inch core critic record addict faculty forest";
+var mnemonic = "index pig eyebrow spawn swamp ostrich welcome solid tackle pear skull snap";

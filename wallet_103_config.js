@@ -1,1 +1,1 @@
-var mnemonic = "holiday then exist omit guilt toilet pig giant damp exit upset meat";
+var mnemonic = "steak frost pipe cross crystal butter anchor merry shrug valid caught science";

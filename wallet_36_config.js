@@ -1,1 +1,1 @@
-var mnemonic = "want advice employ young vendor acid air desert agent ugly frame warrior";
+var mnemonic = "trip park rare slot aspect achieve mask battle sight vacuum elephant warfare";

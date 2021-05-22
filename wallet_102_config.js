@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin boil flower switch common awkward cram song meadow visual volcano warrior";
+var mnemonic = "busy evolve width act equal pond gather grab wheat inmate boring fancy";

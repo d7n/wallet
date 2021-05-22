@@ -1,1 +1,1 @@
-var mnemonic = "vessel jelly lobster sound illegal weapon stand oblige recycle patrol hazard execute";
+var mnemonic = "legend stamp clock problem balcony aerobic simple debris true fee dinner order";

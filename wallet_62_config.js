@@ -1,1 +1,1 @@
-var mnemonic = "castle soft face gown general just dizzy fury struggle festival explain verify";
+var mnemonic = "dizzy suggest sleep online velvet draft position mimic pact claim offer end";

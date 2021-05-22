@@ -1,1 +1,1 @@
-var mnemonic = "street rabbit before load cruel voice essence normal dinner elevator gossip occur";
+var mnemonic = "calm gossip library chief honey adapt jungle where jar cage favorite love";

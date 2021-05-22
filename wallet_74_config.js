@@ -1,1 +1,1 @@
-var mnemonic = "index mean universe shield want cup pretty stage taxi tuition moment grocery";
+var mnemonic = "glare vacant logic kangaroo danger toast use twin six today circle acid";

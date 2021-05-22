@@ -1,1 +1,1 @@
-var mnemonic = "guess high great mixed below damp eagle coyote diet help decide essence";
+var mnemonic = "little whisper gadget bar win legend obey stadium liar addict fiber adult";

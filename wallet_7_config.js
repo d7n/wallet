@@ -1,1 +1,1 @@
-var mnemonic = "purse lemon puppy say minor squeeze follow alone monitor trade charge sweet";
+var mnemonic = "fluid silk round deputy bronze maze unaware bind cake curve ankle hundred";

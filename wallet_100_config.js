@@ -1,1 +1,1 @@
-var mnemonic = "shy rubber garden angry giggle ride help wet keep extra apple legend";
+var mnemonic = "fine agent merit measure loan tone country brass pause distance zebra flush";

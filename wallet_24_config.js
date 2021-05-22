@@ -1,1 +1,1 @@
-var mnemonic = "person swallow neglect word transfer acoustic absent cat faculty toe shock desert";
+var mnemonic = "pigeon label accuse almost industry gossip beauty design prepare crater ensure outer";

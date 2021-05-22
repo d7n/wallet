@@ -1,1 +1,1 @@
-var mnemonic = "road picture clown spoon asthma shed mammal solid swing together delay process";
+var mnemonic = "battle acquire music decide keep solution document priority tired arena affair mass";

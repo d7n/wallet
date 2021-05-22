@@ -1,1 +1,1 @@
-var mnemonic = "lava wide coach fall oven derive stomach ordinary ten draw fee olive";
+var mnemonic = "twice certain unit hobby input brief humor kingdom volume slim assume alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "quote glance abandon initial spoon burden ghost zero forum few lion evil";
+var mnemonic = "grief boy uncle stadium follow glide label cousin ceiling fan pear birth";

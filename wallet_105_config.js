@@ -1,1 +1,1 @@
-var mnemonic = "soul pattern mystery own student violin egg horn melt talk until wrestle";
+var mnemonic = "bag oppose cake drum public cross apology kingdom culture wild result drift";

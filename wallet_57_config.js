@@ -1,1 +1,1 @@
-var mnemonic = "oak festival artist ensure surface gym milk cabin fancy metal derive soon";
+var mnemonic = "prevent spot bubble magic hip boring sauce flip before build egg nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "grape wink photo better sugar trust cruise hamster rose base decorate scan";
+var mnemonic = "alone shrug budget card scare jungle theory alcohol arena upper train nurse";

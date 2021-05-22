@@ -1,1 +1,1 @@
-var mnemonic = "faculty habit cinnamon use feature keen calm will inflict dilemma before october";
+var mnemonic = "pill rug wrong memory wild escape giant swamp spy harvest radio myth";

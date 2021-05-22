@@ -1,1 +1,1 @@
-var mnemonic = "omit media clump diary any hire picnic swear bless move recycle panel";
+var mnemonic = "also fuel stove seat damage cave salad anger turtle panic type cave";

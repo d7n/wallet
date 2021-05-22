@@ -1,1 +1,1 @@
-var mnemonic = "leopard shaft elite notable demand arm expand media artist tribe electric churn";
+var mnemonic = "noise obvious retire zoo length nose present enforce mutual news response congress";
