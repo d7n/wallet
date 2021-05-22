@@ -1,1 +1,1 @@
-var mnemonic = "recipe own trip alone spawn vital book provide gasp trap ancient have";
+var mnemonic = "comfort olive surge label tobacco combine wait second flash top gift much";

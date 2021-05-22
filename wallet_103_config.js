@@ -1,1 +1,1 @@
-var mnemonic = "refuse inside cushion episode snap bulk income tag garment treat gallery banner";
+var mnemonic = "limit wedding victory wolf wool final document program pigeon wave spell recipe";

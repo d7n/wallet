@@ -1,1 +1,1 @@
-var mnemonic = "design intact recipe gas play super pact tuna film armed olive tilt";
+var mnemonic = "tail debate track primary pistol wild solar antique fatal portion turn wood";

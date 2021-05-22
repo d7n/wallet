@@ -1,1 +1,1 @@
-var mnemonic = "razor bus inside claim story middle autumn auto section deputy plug edit";
+var mnemonic = "lock pumpkin profit nominee quantum token spy lazy boat force dust bean";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh gym until limit surface lunch term cry mass give library have";
+var mnemonic = "profit wasp into fame leopard cradle future copper front extra palm fit";

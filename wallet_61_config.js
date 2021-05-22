@@ -1,1 +1,1 @@
-var mnemonic = "cry enhance taxi liar quantum major urge heart fame paddle plug reform";
+var mnemonic = "ketchup husband amount lawsuit glow scorpion cheap shy goose labor traffic wood";

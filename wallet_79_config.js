@@ -1,1 +1,1 @@
-var mnemonic = "real kidney school escape dish cause embody betray very people nut repeat";
+var mnemonic = "permit evolve toilet hold phrase unable disorder dice fit slight code lens";

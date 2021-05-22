@@ -1,1 +1,1 @@
-var mnemonic = "crop antenna teach tobacco village mountain derive wrestle water bring fresh valve";
+var mnemonic = "answer slam yard inspire oxygen coral question speak wedding tired network tired";

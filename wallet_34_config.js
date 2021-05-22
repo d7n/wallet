@@ -1,1 +1,1 @@
-var mnemonic = "neutral fit address amused trim grant orbit current language whip north business";
+var mnemonic = "universe assist lizard major poet charge resource slim until mistake electric shuffle";

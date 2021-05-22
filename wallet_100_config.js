@@ -1,1 +1,1 @@
-var mnemonic = "airport razor twenty card cave spoil deny atom math position horror weekend";
+var mnemonic = "position bronze hero antenna make adapt empower parent canal frown marine ramp";

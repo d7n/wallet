@@ -1,1 +1,1 @@
-var mnemonic = "bind speed battle clown purity cause season slam enable load major box";
+var mnemonic = "rookie soldier verify raise become toward muscle banana this retire cram ask";

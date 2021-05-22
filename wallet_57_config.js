@@ -1,1 +1,1 @@
-var mnemonic = "rent sea alcohol design breeze wheat solar mushroom addict wheel aerobic leader";
+var mnemonic = "congress ginger sad video fashion crime olympic rule blouse tape day chapter";

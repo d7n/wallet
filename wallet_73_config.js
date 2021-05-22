@@ -1,1 +1,1 @@
-var mnemonic = "banner present hotel way black arrow same drastic minimum fossil success october";
+var mnemonic = "impact minor recycle round fiber expire field cupboard marble carpet ensure era";

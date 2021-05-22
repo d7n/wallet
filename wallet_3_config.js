@@ -1,1 +1,1 @@
-var mnemonic = "what connect whip either embrace lab high wire six embrace pumpkin champion";
+var mnemonic = "scheme input service maximum prize mushroom artist lecture mind pink reform surge";

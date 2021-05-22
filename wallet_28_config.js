@@ -1,1 +1,1 @@
-var mnemonic = "badge kitten viable involve spawn stay bread custom elbow sketch spring pool";
+var mnemonic = "iron fade only win party vivid juice mean faith address amateur sausage";

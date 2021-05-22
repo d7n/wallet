@@ -1,1 +1,1 @@
-var mnemonic = "faculty clown mother blood isolate dynamic buyer wine crystal heart river outside";
+var mnemonic = "pluck metal twist sight empty plug tube pizza flavor human wrist farm";

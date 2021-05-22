@@ -1,1 +1,1 @@
-var mnemonic = "slight boy decide service warrior possible forward matrix transfer crowd unaware runway";
+var mnemonic = "result blouse coast denial air flash quarter become behave island crater valve";

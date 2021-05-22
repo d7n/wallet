@@ -1,1 +1,1 @@
-var mnemonic = "dizzy water embody dizzy thrive shed cotton saddle proud wish adult board";
+var mnemonic = "degree summer saddle recipe ensure desert toilet adapt coral abstract wire three";

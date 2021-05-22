@@ -1,1 +1,1 @@
-var mnemonic = "work size dinner conduct despair all exhaust run material there account submit";
+var mnemonic = "police input ankle angry iron drastic suspect honey decrease wasp pencil opinion";

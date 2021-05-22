@@ -1,1 +1,1 @@
-var mnemonic = "kingdom impact pink blur year polar can crucial laptop bounce disease volcano";
+var mnemonic = "hello output click hat brief panic endorse energy suit cupboard type flee";

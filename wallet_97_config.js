@@ -1,1 +1,1 @@
-var mnemonic = "comic accident bicycle student laptop review move nation differ melt thank problem";
+var mnemonic = "romance hero very anchor endorse spot blanket orange drill vendor cement mango";

@@ -1,1 +1,1 @@
-var mnemonic = "element mimic glow can mom jacket scheme bright blade measure flavor reward";
+var mnemonic = "horn response gasp amused clinic cycle vessel happy menu school wrap ask";

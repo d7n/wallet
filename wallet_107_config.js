@@ -1,1 +1,1 @@
-var mnemonic = "female olive rebel receive negative donate predict pond boring term coil moral";
+var mnemonic = "coin moment parrot feel odor bring strategy pave maid mushroom fatigue finish";

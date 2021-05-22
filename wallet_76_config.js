@@ -1,1 +1,1 @@
-var mnemonic = "donate junk bulb power student exile merit feature liberty radio future noble";
+var mnemonic = "supply holiday mango hip nothing sibling unveil help anchor salt pool reform";

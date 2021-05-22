@@ -1,1 +1,1 @@
-var mnemonic = "audit object license silk almost traffic empower fault stool above more picnic";
+var mnemonic = "real duck inform scissors disagree volume purse mosquito shed ivory better lawn";

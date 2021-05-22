@@ -1,1 +1,1 @@
-var mnemonic = "dove zebra army long breeze crack milk uncle village dolphin vanish frequent";
+var mnemonic = "tenant market roast history rate absurd bubble thought breeze base concert gap";

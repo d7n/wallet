@@ -1,1 +1,1 @@
-var mnemonic = "farm medal thought kitten radar shove river donkey dolphin bamboo depart napkin";
+var mnemonic = "juice fatigue novel casual favorite bird cash swap below install impose save";

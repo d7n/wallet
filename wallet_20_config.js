@@ -1,1 +1,1 @@
-var mnemonic = "scan jeans chair legal toss rubber unfold output try salmon magic celery";
+var mnemonic = "exotic jeans reopen aisle artwork sleep exit pupil lesson split until traffic";

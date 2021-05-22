@@ -1,1 +1,1 @@
-var mnemonic = "sunset lava misery baby hill unfair trade soccer bone arrest pink visual";
+var mnemonic = "joy upon assist dice divorce welcome useless arena usage company fire brain";

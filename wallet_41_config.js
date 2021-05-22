@@ -1,1 +1,1 @@
-var mnemonic = "between enjoy vote install mean pool athlete egg leaf liar skin soon";
+var mnemonic = "zoo paper ill waste master romance index peasant flame sponsor whisper hole";

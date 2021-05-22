@@ -1,1 +1,1 @@
-var mnemonic = "solution used deputy salad broccoli logic deny trigger vacuum obtain thumb burden";
+var mnemonic = "suggest hero vendor camp immense impose fatigue hurt card attend change member";

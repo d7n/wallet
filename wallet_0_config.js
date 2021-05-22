@@ -1,1 +1,1 @@
-var mnemonic = "ecology system chalk equal history crime endless police junk kangaroo soap quote";
+var mnemonic = "heart ribbon robot flag turtle canoe wedding heart village ship hurt burst";

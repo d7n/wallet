@@ -1,1 +1,1 @@
-var mnemonic = "police nest iron swap hip goddess leaf vocal oxygen giant sport book";
+var mnemonic = "escape icon balcony immense rival silly town walnut inspire next message wasp";

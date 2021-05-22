@@ -1,1 +1,1 @@
-var mnemonic = "fun blur layer salute brush myself board tent catalog regular print elite";
+var mnemonic = "average mention remember sorry glass congress vocal other head amateur cross daughter";

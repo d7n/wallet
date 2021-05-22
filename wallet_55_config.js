@@ -1,1 +1,1 @@
-var mnemonic = "example forward organ atom ugly legal damp float glance bring spin another";
+var mnemonic = "unaware parade street maple height foot drama amount hundred correct crucial cart";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine bomb sick easily chief okay segment turkey supreme first cash film";
+var mnemonic = "north aerobic trigger page junk toe august inner cancel pear cake quit";

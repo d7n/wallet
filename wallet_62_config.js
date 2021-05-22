@@ -1,1 +1,1 @@
-var mnemonic = "regret outer shrug interest bronze cook captain satisfy south trophy arrow ability";
+var mnemonic = "legal age country swarm lyrics cabbage round solve animal spatial retire stamp";

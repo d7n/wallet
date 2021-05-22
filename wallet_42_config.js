@@ -1,1 +1,1 @@
-var mnemonic = "know honey exile afford sock month square travel time prefer industry crumble";
+var mnemonic = "submit endless road monkey coast lens recall unknown nose sell first series";

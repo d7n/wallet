@@ -1,1 +1,1 @@
-var mnemonic = "elite anxiety human correct cousin essay magnet edge they couple group legend";
+var mnemonic = "orphan field document noise tray announce outside detect build achieve can gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce cook ramp success pupil arctic robot honey fiber hollow public photo";
+var mnemonic = "cousin mirror taste rabbit trip senior prosper response van rice april measure";

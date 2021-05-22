@@ -1,1 +1,1 @@
-var mnemonic = "accident tower genre bottom river jealous best beach sleep few print month";
+var mnemonic = "bag behind surprise muscle present prosper cabin blast unlock coconut drop judge";

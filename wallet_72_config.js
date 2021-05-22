@@ -1,1 +1,1 @@
-var mnemonic = "rival twin cash sugar sure lawn autumn thunder garage screen neutral warfare";
+var mnemonic = "spray thought leave private wool joke stairs blast virtual course praise knee";

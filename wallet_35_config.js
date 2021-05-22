@@ -1,1 +1,1 @@
-var mnemonic = "month orchard audit ostrich eager maple exist file heart gadget adult among";
+var mnemonic = "skill casino loan access coral receive ability seven word accuse hospital puzzle";

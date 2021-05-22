@@ -1,1 +1,1 @@
-var mnemonic = "begin soldier since eternal punch orange erosion charge horse tobacco shed guide";
+var mnemonic = "police say wide order advice dash talent short rain letter pencil logic";

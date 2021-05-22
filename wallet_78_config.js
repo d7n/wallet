@@ -1,1 +1,1 @@
-var mnemonic = "bulb attend vibrant garlic weird board asthma sniff ignore verb resource enact";
+var mnemonic = "obey goose school afraid oil alley same manage blame fire census unit";

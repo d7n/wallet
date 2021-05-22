@@ -1,1 +1,1 @@
-var mnemonic = "cradle organ degree portion vapor idea destroy nasty rib large hub misery";
+var mnemonic = "thumb earth affair breeze doctor story leaf gather soup price corn fan";

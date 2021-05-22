@@ -1,1 +1,1 @@
-var mnemonic = "family source bind priority always way blouse depend actual inhale again toast";
+var mnemonic = "bless bottom swim olympic school impact evoke swing reveal trend all letter";

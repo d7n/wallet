@@ -1,1 +1,1 @@
-var mnemonic = "bubble duck winner bargain clip toast organ pair social stumble miracle evidence";
+var mnemonic = "motion render style honey layer slab cause venture task struggle hair deny";

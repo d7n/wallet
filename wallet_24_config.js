@@ -1,1 +1,1 @@
-var mnemonic = "simple ignore engine dismiss void latin believe elder expire humble reveal such";
+var mnemonic = "vast affair gesture shop buyer shaft movie organ donor easy verify grief";

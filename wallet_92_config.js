@@ -1,1 +1,1 @@
-var mnemonic = "embark chalk soul front rocket flavor entry shoot index perfect butter dad";
+var mnemonic = "cloth intact permit great error collect once nurse cave ocean furnace myth";

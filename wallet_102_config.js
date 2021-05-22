@@ -1,1 +1,1 @@
-var mnemonic = "project pigeon boat security bless neutral sniff list mesh hamster pipe tackle";
+var mnemonic = "visual process scan initial fine seat melt dumb casual title image earn";

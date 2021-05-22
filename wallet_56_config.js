@@ -1,1 +1,1 @@
-var mnemonic = "patch alcohol danger weird idea casual finish ship disagree foot real poet";
+var mnemonic = "aware mask inflict alarm acid boy immune breeze retreat demise burden where";

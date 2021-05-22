@@ -1,1 +1,1 @@
-var mnemonic = "canyon engine flock vacant bike news tube focus engine asthma cushion spray";
+var mnemonic = "agent private electric bid hole sting habit size service mystery brass identify";

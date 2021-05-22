@@ -1,1 +1,1 @@
-var mnemonic = "poverty ceiling able collect lab cage august arrow decide sport usage over";
+var mnemonic = "era dutch journey dice tilt link law labor aim december vanish welcome";

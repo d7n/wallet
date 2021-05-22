@@ -1,1 +1,1 @@
-var mnemonic = "episode resist bounce oven winner lab music hen floor bacon champion diamond";
+var mnemonic = "impose flash brave situate minute insect maid receive allow believe live position";

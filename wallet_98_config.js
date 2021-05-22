@@ -1,1 +1,1 @@
-var mnemonic = "knock today wait ribbon absorb drop alley outdoor antique pretty fetch carpet";
+var mnemonic = "ensure fiscal melt young desert gravity present length symbol describe depth crumble";

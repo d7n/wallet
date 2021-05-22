@@ -1,1 +1,1 @@
-var mnemonic = "dentist company earth lamp tuna fiscal occur home alter repeat month chapter";
+var mnemonic = "depend timber strong letter quiz visit share depend half safe pave crunch";

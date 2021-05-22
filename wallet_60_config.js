@@ -1,1 +1,1 @@
-var mnemonic = "affair milk supreme border dizzy adult hamster front chef nose rapid name";
+var mnemonic = "narrow emerge emotion try year cousin novel steak huge swear hybrid extra";

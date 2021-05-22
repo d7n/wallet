@@ -1,1 +1,1 @@
-var mnemonic = "segment hidden waste castle flame divorce tennis dilemma split certain alpha brief";
+var mnemonic = "hammer poem shock brass alpha design salt guitar cabin toss shove term";

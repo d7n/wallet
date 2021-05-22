@@ -1,1 +1,1 @@
-var mnemonic = "athlete fame shuffle galaxy crystal ignore smoke zebra flat device visit front";
+var mnemonic = "situate wait retreat review afford neglect cement echo receive walk bless stove";

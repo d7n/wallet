@@ -1,1 +1,1 @@
-var mnemonic = "essay zebra decorate fortune length sing throw act hole empower noodle patient";
+var mnemonic = "agree easy ask diesel friend rescue tube differ favorite pill junior scheme";

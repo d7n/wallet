@@ -1,1 +1,1 @@
-var mnemonic = "target appear borrow planet beach address desert always gun keep borrow eye";
+var mnemonic = "floor announce total digital injury legal cousin hungry tape smoke dad this";

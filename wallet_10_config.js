@@ -1,1 +1,1 @@
-var mnemonic = "simple squeeze rural logic veteran tooth sample twice planet voyage circle trophy";
+var mnemonic = "razor stock kiwi era guilt merit crisp smart nephew tired labor rather";

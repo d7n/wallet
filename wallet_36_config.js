@@ -1,1 +1,1 @@
-var mnemonic = "museum confirm weekend taste style light zone hole response fossil inhale vehicle";
+var mnemonic = "focus camera describe puzzle audit inform tower donor bubble pipe garden gentle";

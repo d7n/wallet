@@ -1,1 +1,1 @@
-var mnemonic = "sail basic salt frost despair nothing across onion bulk stereo mask like";
+var mnemonic = "concert crime cage travel maximum march gate already chief silent ceiling fat";

@@ -1,1 +1,1 @@
-var mnemonic = "image hold hint animal run remain monitor nominee moment fiscal plate gospel";
+var mnemonic = "hope young bean theme notice volume combine obey decade measure good derive";

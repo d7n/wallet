@@ -1,1 +1,1 @@
-var mnemonic = "make interest youth action depart lecture click proud tortoise wall claw install";
+var mnemonic = "alpha pony near unfair detect fold unit peanut table guitar fit asset";

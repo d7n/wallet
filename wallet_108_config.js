@@ -1,1 +1,1 @@
-var mnemonic = "deal believe gain happy robust mixed decline angle grape shallow black silly";
+var mnemonic = "chaos bid cattle that orchard stage best bike defy boil skill naive";

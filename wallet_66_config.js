@@ -1,1 +1,1 @@
-var mnemonic = "despair guilt machine sight enrich glide relax charge soccer expose dice fuel";
+var mnemonic = "crunch beauty virus chair brown subway shock robust then absorb fatal dash";

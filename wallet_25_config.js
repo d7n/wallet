@@ -1,1 +1,1 @@
-var mnemonic = "harvest tower wall between siege design clarify lady ask remain legal tube";
+var mnemonic = "spot flavor swim above virtual sail mango actress license canvas sphere goat";

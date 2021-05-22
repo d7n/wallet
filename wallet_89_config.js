@@ -1,1 +1,1 @@
-var mnemonic = "grain chase myself segment wire old hundred tiger avocado actress please loud";
+var mnemonic = "divorce unhappy into view eager orphan perfect wood solid tower robot capital";

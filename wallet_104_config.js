@@ -1,1 +1,1 @@
-var mnemonic = "tourist aunt crane midnight actress cherry use brisk tool radio cave flower";
+var mnemonic = "long later ticket guitar hurt muffin orphan wild weapon quiz laundry trigger";

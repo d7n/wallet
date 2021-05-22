@@ -1,1 +1,1 @@
-var mnemonic = "supply test aisle differ join simple tourist acquire one wreck expire wrap";
+var mnemonic = "ginger program fall essay oval bracket match credit tide scare cotton receive";

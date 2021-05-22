@@ -1,1 +1,1 @@
-var mnemonic = "become loyal mention lottery move pilot guilt wide history interest time twenty";
+var mnemonic = "trophy salon grocery scrub plunge risk eye float update certain burger awful";

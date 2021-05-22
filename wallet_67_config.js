@@ -1,1 +1,1 @@
-var mnemonic = "neutral gadget rare twelve weekend inner runway clutch police negative chair pumpkin";
+var mnemonic = "finish seat kiwi trim valve hello mixture snap jealous cover tissue jar";

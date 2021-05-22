@@ -1,1 +1,1 @@
-var mnemonic = "midnight audit dial cement nose clay present toilet cover host kit donor";
+var mnemonic = "summer half cheese club measure guess aerobic color secret concert follow blind";

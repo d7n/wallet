@@ -1,1 +1,1 @@
-var mnemonic = "sheriff combine often entire heart pledge nothing early noodle beef lab stairs";
+var mnemonic = "visit check time world unknown brain cross festival powder nerve cluster plunge";

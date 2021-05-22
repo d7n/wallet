@@ -1,1 +1,1 @@
-var mnemonic = "filter garage wish toe oxygen beach zero insane feel dash reveal afraid";
+var mnemonic = "crouch kangaroo pink hollow gather worry inch travel dinner avoid frost erosion";

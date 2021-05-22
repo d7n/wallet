@@ -1,1 +1,1 @@
-var mnemonic = "upgrade main manual buffalo success acid between lab narrow unfair stairs balance";
+var mnemonic = "base claim possible very drum link wide price super accuse course gentle";

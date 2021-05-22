@@ -1,1 +1,1 @@
-var mnemonic = "boost want air zebra control obtain ridge drink drastic success speak twin";
+var mnemonic = "group deposit napkin skull mystery slender deliver symptom artefact powder virus motor";

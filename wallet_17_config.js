@@ -1,1 +1,1 @@
-var mnemonic = "multiply little flag venue disagree ability goat current same census climb loud";
+var mnemonic = "cheap duty nasty grit image syrup pioneer toy holiday project matrix glue";

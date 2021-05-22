@@ -1,1 +1,1 @@
-var mnemonic = "swing favorite prefer any dizzy cream corn repeat exercise runway lamp shuffle";
+var mnemonic = "patrol company fork recipe diamond travel can detail crime robot relax upset";

@@ -1,1 +1,1 @@
-var mnemonic = "story lamp slice load kiwi early orange slot indoor record left crop";
+var mnemonic = "team cancel online island valley raw prize priority naive ginger beach cigar";

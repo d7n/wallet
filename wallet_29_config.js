@@ -1,1 +1,1 @@
-var mnemonic = "price slice online camp soccer corn end model element sunset trophy unlock";
+var mnemonic = "club priority harbor total make cloud crisp across pizza bid three number";

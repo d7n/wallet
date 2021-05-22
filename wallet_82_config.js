@@ -1,1 +1,1 @@
-var mnemonic = "pepper uphold stairs voyage like involve problem badge learn review hair one";
+var mnemonic = "uncover marriage arrest rescue echo payment pledge hero draft surround quick base";

@@ -1,1 +1,1 @@
-var mnemonic = "truth potato rhythm tail vote sadness cradle extend garlic skin assault ugly";
+var mnemonic = "february arrest grief young seat belt unit object second melody pool earth";

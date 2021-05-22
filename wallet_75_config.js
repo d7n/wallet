@@ -1,1 +1,1 @@
-var mnemonic = "jaguar parent jazz shove viable artefact private window casual call purity copper";
+var mnemonic = "chase flee alone faith adjust maple sting soul trust silly juice motor";

@@ -1,1 +1,1 @@
-var mnemonic = "bring popular correct figure father truck report gaze alarm duty violin cannon";
+var mnemonic = "match boss dragon open raven mobile antique portion bottom dentist cricket noodle";
