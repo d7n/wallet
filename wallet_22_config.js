@@ -1,1 +1,1 @@
-var mnemonic = "vibrant member equip combine main blade govern boy crystal prison roof health";
+var mnemonic = "dune wisdom auto verb mesh dutch trust pet asset fruit glimpse absurd";

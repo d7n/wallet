@@ -1,1 +1,1 @@
-var mnemonic = "rug purse alien nerve rather grant emotion record cream manual sock surround";
+var mnemonic = "lucky shrimp rural disagree speed apology false job umbrella write apology amazing";

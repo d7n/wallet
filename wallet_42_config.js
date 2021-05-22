@@ -1,1 +1,1 @@
-var mnemonic = "smile bar tonight certain can travel obtain hundred black silver retreat spoon";
+var mnemonic = "left idle husband attitude lens bacon deliver river magnet party pitch tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "swear life much age nerve quote roast roast swift student subway then";
+var mnemonic = "elephant crush wheat grace nasty kite appear donkey route absurd ozone beauty";

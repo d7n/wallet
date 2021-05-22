@@ -1,1 +1,1 @@
-var mnemonic = "trust invite tuition universe movie increase job cluster blanket adult garden wolf";
+var mnemonic = "object gesture there slide camera pizza cube lawn pyramid since clown cream";

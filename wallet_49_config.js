@@ -1,1 +1,1 @@
-var mnemonic = "meadow spell sun express frame jungle task sentence boy price amused labor";
+var mnemonic = "balance page random undo weird feed chuckle title onion bullet wage swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "record pink runway olive horn still reform chest eagle dumb bachelor pull";
+var mnemonic = "obey chronic bamboo brisk nest music oak owner hero blind antenna else";

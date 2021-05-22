@@ -1,1 +1,1 @@
-var mnemonic = "plastic number real label rain ripple force trend demand primary enable nose";
+var mnemonic = "very secret item tent permit cloud twist bar defy minimum science style";

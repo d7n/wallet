@@ -1,1 +1,1 @@
-var mnemonic = "various bike oxygen useful aisle matrix essence absurd mixed front scene mechanic";
+var mnemonic = "cruel unfair sure daring tray word parent chaos dignity buddy capital apart";

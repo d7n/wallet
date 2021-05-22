@@ -1,1 +1,1 @@
-var mnemonic = "person rail library shrimp sauce minute one year young glove amazing dial";
+var mnemonic = "thrive debate relax spot crumble rain vessel hair lion aware skin nut";

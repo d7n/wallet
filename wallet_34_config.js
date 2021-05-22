@@ -1,1 +1,1 @@
-var mnemonic = "vast return edge witness fringe walnut mass object toast face measure submit";
+var mnemonic = "parent under what cheese mandate end bleak obvious embrace decrease govern engage";

@@ -1,1 +1,1 @@
-var mnemonic = "birth tool cupboard goddess index secret method diamond damage person gravity arrow";
+var mnemonic = "parrot multiply opera paper heart need village inform discover leaf return task";

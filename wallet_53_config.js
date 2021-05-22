@@ -1,1 +1,1 @@
-var mnemonic = "able such thunder raise tape allow steak start asset yellow will truth";
+var mnemonic = "purse push believe grunt lion edge month latin split cube armed hour";

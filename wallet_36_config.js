@@ -1,1 +1,1 @@
-var mnemonic = "minute uncover artefact valve tail fun limit follow elephant share kiwi typical";
+var mnemonic = "stamp lesson alley grape giggle employ hurt journey mutual urge tomorrow clump";

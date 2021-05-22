@@ -1,1 +1,1 @@
-var mnemonic = "sniff glare wait scan spatial arrange thank grief mansion filter admit decorate";
+var mnemonic = "anxiety spin tiger antenna february broom same chalk royal oven sausage ceiling";

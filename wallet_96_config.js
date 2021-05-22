@@ -1,1 +1,1 @@
-var mnemonic = "confirm east program liquid front field govern solution tube wrist hurdle runway";
+var mnemonic = "ketchup auction swap slab capable myself client unique drive text letter very";

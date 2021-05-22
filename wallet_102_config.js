@@ -1,1 +1,1 @@
-var mnemonic = "save either object zoo filter connect age visit bring trade taste frown";
+var mnemonic = "hobby immune vapor uncover sample ladder employ cliff frog today parent toe";

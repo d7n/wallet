@@ -1,1 +1,1 @@
-var mnemonic = "cost wet wash any girl surface fiscal above cabin path winner faith";
+var mnemonic = "device finish pink dream cheap scatter birth dance few worry theory digital";

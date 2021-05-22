@@ -1,1 +1,1 @@
-var mnemonic = "market expire husband marine stadium sure torch wheel movie observe educate master";
+var mnemonic = "bracket gather destroy morning plastic chicken danger fork craft cloud remove unique";

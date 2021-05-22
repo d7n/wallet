@@ -1,1 +1,1 @@
-var mnemonic = "review speak explain express stadium accident deal dish coin perfect force anger";
+var mnemonic = "arrange earn lake library educate muffin fossil casual supply glove scan acquire";

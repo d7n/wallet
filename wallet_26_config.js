@@ -1,1 +1,1 @@
-var mnemonic = "eternal mutual proof catch maze clown aisle pudding mom turn melt lab";
+var mnemonic = "affair bright project monster armed next weapon into liberty mesh wet drama";

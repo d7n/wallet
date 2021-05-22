@@ -1,1 +1,1 @@
-var mnemonic = "offer empty rose advice cash april hazard crumble misery night maid advance";
+var mnemonic = "acid admit smile rebuild fresh title hamster crime flame online ribbon ring";

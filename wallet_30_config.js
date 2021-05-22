@@ -1,1 +1,1 @@
-var mnemonic = "meadow process emerge dismiss enforce flag sound skin erode letter business second";
+var mnemonic = "fancy brick wreck rubber bike fossil insane moon slender key fitness echo";

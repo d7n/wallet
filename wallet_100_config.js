@@ -1,1 +1,1 @@
-var mnemonic = "alley supreme crater relax betray denial vintage snow perfect feature quarter list";
+var mnemonic = "patient prefer charge gown ghost filter session enhance cloth sniff urge ticket";

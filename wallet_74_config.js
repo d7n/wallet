@@ -1,1 +1,1 @@
-var mnemonic = "shrug milk cream youth label update scout sweet approve chase idea close";
+var mnemonic = "female direct chase journey equip hobby flight mesh cash garlic ring number";

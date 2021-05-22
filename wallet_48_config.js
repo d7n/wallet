@@ -1,1 +1,1 @@
-var mnemonic = "choose sword trumpet taste stage blind burger poverty mirror air lumber knife";
+var mnemonic = "acquire proof indicate task since romance rival report destroy broccoli kind gather";

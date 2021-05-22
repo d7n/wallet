@@ -1,1 +1,1 @@
-var mnemonic = "october dove bonus chest ticket crop document smooth cup giraffe spirit sound";
+var mnemonic = "snow theory giggle cheap travel multiply isolate famous humor flat senior during";

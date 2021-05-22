@@ -1,1 +1,1 @@
-var mnemonic = "digital math sweet kidney need movie spot mansion pink hope today purpose";
+var mnemonic = "hen afraid legal panda state age edit gossip person october true road";

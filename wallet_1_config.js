@@ -1,1 +1,1 @@
-var mnemonic = "pulse chef knee change wish trend zone install bubble brush income flee";
+var mnemonic = "nose evidence deal similar fury rescue lecture region confirm pistol cereal boring";

@@ -1,1 +1,1 @@
-var mnemonic = "weird tide absorb shoulder timber before lawn crop twelve glare surge frog";
+var mnemonic = "creek hurdle tree able harsh various velvet rebel desk giant boil leader";

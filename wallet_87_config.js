@@ -1,1 +1,1 @@
-var mnemonic = "fall eagle toward baby mom mesh cinnamon inner happy ring width high";
+var mnemonic = "road hockey popular idle rail canvas road quality struggle laptop large hundred";

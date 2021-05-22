@@ -1,1 +1,1 @@
-var mnemonic = "matter throw myself pluck fringe buddy lunar valve envelope mandate distance spot";
+var mnemonic = "artist little quarter govern illegal draft ready coyote response knock face matter";

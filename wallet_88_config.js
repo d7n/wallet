@@ -1,1 +1,1 @@
-var mnemonic = "acid aisle twice exhibit diesel online regular perfect ecology nut emotion machine";
+var mnemonic = "cable leg pottery flock foster oven guide favorite sniff defense success cliff";

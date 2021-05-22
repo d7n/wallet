@@ -1,1 +1,1 @@
-var mnemonic = "warrior school dish umbrella draft window know buffalo violin vacant round race";
+var mnemonic = "fantasy unaware mean come enforce perfect rally feed ostrich file desert vault";

@@ -1,1 +1,1 @@
-var mnemonic = "secret champion slogan inner lonely capital step woman brick country sport coast";
+var mnemonic = "salad you tag hour message void tooth feel strategy detail code idle";

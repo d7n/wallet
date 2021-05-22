@@ -1,1 +1,1 @@
-var mnemonic = "over junk mechanic way ketchup human riot boost useful client purpose clip";
+var mnemonic = "notable latin hip seek cattle error east side system tuition gain jacket";

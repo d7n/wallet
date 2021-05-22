@@ -1,1 +1,1 @@
-var mnemonic = "place toe school word chicken energy breeze voyage morning talent alien estate";
+var mnemonic = "panel thing exist pledge affair glide beyond else pulp address crawl comfort";

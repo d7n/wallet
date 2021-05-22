@@ -1,1 +1,1 @@
-var mnemonic = "sudden gloom leader glory mushroom skull stumble toe prosper deal cousin approve";
+var mnemonic = "long credit replace analyst arrest stem lawn pause omit predict code length";

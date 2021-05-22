@@ -1,1 +1,1 @@
-var mnemonic = "ticket tank quiz faint nose hidden ridge detect camp among door guard";
+var mnemonic = "project leaf box label service physical scrub vague together truly hip wreck";

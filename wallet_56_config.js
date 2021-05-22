@@ -1,1 +1,1 @@
-var mnemonic = "safe buddy index regular imitate cruise token forest column actual donor silver";
+var mnemonic = "tortoise parade focus curve basket help trip tunnel poet grape crane net";

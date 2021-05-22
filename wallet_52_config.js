@@ -1,1 +1,1 @@
-var mnemonic = "flush crop ethics absent cluster absorb apology siege exclude sea daughter clarify";
+var mnemonic = "impact poet under wise dose identify giraffe embrace insane verb search mouse";

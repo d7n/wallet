@@ -1,1 +1,1 @@
-var mnemonic = "dash pitch puppy damp found couple bulb figure visual remember number hip";
+var mnemonic = "cage taste spin gadget juice bounce outside attend hollow resist gain blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil animal doctor daughter cloud remove denial enter maid range warm bright";
+var mnemonic = "say wait fatal fix rebel circle arctic type exhaust congress topple give";

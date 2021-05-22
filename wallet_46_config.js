@@ -1,1 +1,1 @@
-var mnemonic = "fitness alien mother vault argue blanket fluid relax crystal mountain siege depth";
+var mnemonic = "slow saddle coil gown exit throw nasty security mix tip detail verb";

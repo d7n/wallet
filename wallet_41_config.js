@@ -1,1 +1,1 @@
-var mnemonic = "skull cheap prepare woman connect fine artwork turn year place scout lecture";
+var mnemonic = "bottom discover exhaust tattoo dolphin saddle anchor field change upon aunt arm";

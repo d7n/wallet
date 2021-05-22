@@ -1,1 +1,1 @@
-var mnemonic = "potato devote reason medal window frame want waste nature net dismiss bargain";
+var mnemonic = "eyebrow giraffe idle lab neither crystal reward faculty usage focus evidence sword";

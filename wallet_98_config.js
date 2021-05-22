@@ -1,1 +1,1 @@
-var mnemonic = "rack faculty mixture soccer option teach title panda picnic bright mercy choose";
+var mnemonic = "include quarter pigeon select smoke fiction hospital exact confirm ticket scan exit";

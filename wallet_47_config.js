@@ -1,1 +1,1 @@
-var mnemonic = "often music hamster hurry risk chest kitchen actual chest notice right naive";
+var mnemonic = "awake bless sand height garment certain poem match must assist fashion excess";

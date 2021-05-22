@@ -1,1 +1,1 @@
-var mnemonic = "wrong absent marble vacuum ginger require rather color vibrant barrel finish undo";
+var mnemonic = "message lab abandon vast owner gown knee grain approve jewel thrive label";

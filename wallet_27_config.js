@@ -1,1 +1,1 @@
-var mnemonic = "shallow talent agree host rhythm you eight nephew demand slight siren anxiety";
+var mnemonic = "omit wall vessel twelve inside insect spatial enlist absurd victory illness symptom";

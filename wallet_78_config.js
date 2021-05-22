@@ -1,1 +1,1 @@
-var mnemonic = "wink into muscle potato mask unit glove pumpkin speak flavor neck muffin";
+var mnemonic = "reform uncover dinner theory foil material gravity middle scout depart east pilot";

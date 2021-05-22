@@ -1,1 +1,1 @@
-var mnemonic = "wreck match solution obscure trick hip gadget worth glue harvest across two";
+var mnemonic = "dust alpha interest valve excuse rally tank dentist explain private gap huge";

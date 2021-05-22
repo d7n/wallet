@@ -1,1 +1,1 @@
-var mnemonic = "exercise supply chef mobile provide symptom above disagree vocal brick acid note";
+var mnemonic = "game angry man comic naive speak island proof they embody series dwarf";

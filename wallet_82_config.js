@@ -1,1 +1,1 @@
-var mnemonic = "better cannon amazing phrase museum tumble live roast reward bottom culture breeze";
+var mnemonic = "dutch donkey allow pelican day valid dwarf behave force lesson sword film";

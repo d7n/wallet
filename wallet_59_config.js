@@ -1,1 +1,1 @@
-var mnemonic = "mean pair online year kite random remain holiday husband game equal mesh";
+var mnemonic = "order hundred turn chat sing sting settle announce liberty hair crumble glove";

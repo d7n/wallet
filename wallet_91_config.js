@@ -1,1 +1,1 @@
-var mnemonic = "adult brisk virtual length foot dress silver boss wolf reduce surge powder";
+var mnemonic = "pistol victory weapon invite poem great license detail click universe bless heavy";

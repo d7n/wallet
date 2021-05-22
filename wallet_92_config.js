@@ -1,1 +1,1 @@
-var mnemonic = "later burst very talent tongue wife youth mind turtle happy mass virtual";
+var mnemonic = "ribbon drill term bag scale inner idle strike coin laugh follow myth";

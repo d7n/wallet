@@ -1,1 +1,1 @@
-var mnemonic = "visual race private smoke club vote endorse amazing chronic hero lift athlete";
+var mnemonic = "level quick alter aisle ethics price surge train lonely pass quit uncover";

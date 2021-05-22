@@ -1,1 +1,1 @@
-var mnemonic = "cradle grape expect toilet embrace network ugly cash myself patch cheap stick";
+var mnemonic = "clump dynamic era push jazz youth girl night apology robot luxury virtual";

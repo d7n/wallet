@@ -1,1 +1,1 @@
-var mnemonic = "fault avoid ginger man flock immune slam purchase traffic gas party balcony";
+var mnemonic = "argue boring unknown fame length sense better drift erase enjoy rate bounce";

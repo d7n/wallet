@@ -1,1 +1,1 @@
-var mnemonic = "mosquito night inherit good high visual moral step people never law immune";
+var mnemonic = "master naive video awesome opinion more antenna sadness click small cushion force";

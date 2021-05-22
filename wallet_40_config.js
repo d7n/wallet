@@ -1,1 +1,1 @@
-var mnemonic = "gift assist goat hover evolve foam chalk satisfy garbage hour same fog";
+var mnemonic = "giraffe impact wish novel olympic invest model middle act tonight result setup";

@@ -1,1 +1,1 @@
-var mnemonic = "oval opera napkin multiply symbol since velvet horn raccoon direct divorce order";
+var mnemonic = "drive until leaf armed agent weird high thrive miss pen liberty north";

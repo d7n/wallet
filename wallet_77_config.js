@@ -1,1 +1,1 @@
-var mnemonic = "keen pilot snack throw echo dumb budget way legend sauce palm valid";
+var mnemonic = "join bid name install abuse dilemma grab advance leader mention custom fluid";

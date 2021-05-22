@@ -1,1 +1,1 @@
-var mnemonic = "replace blade inside grid prison giraffe reason parrot pizza joy price private";
+var mnemonic = "right spread popular elbow rival pass hockey twice enrich become section general";

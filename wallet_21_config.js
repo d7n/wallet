@@ -1,1 +1,1 @@
-var mnemonic = "neck guard kit echo lunch early express stem usage rich magnet hybrid";
+var mnemonic = "blossom elegant social million stomach skull paddle joke olive supreme table salon";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb wink gown volume announce staff either thrive shoulder bicycle daring win";
+var mnemonic = "tent hollow destroy ready common alert liquid abstract weasel rapid fix humor";

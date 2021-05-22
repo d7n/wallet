@@ -1,1 +1,1 @@
-var mnemonic = "off orphan street distance film assume razor egg girl dumb increase roast";
+var mnemonic = "easily badge toward song smile enemy task chaos win wall luggage duty";

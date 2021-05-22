@@ -1,1 +1,1 @@
-var mnemonic = "kingdom erase slogan castle long desk height help retreat anger atom air";
+var mnemonic = "citizen history cradle when drink retire fee hat area exile vocal orchard";

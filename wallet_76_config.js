@@ -1,1 +1,1 @@
-var mnemonic = "special desert cigar bitter theory vocal excite acid want game chair extra";
+var mnemonic = "month sense energy shove they reduce artefact scheme deputy auto rough toe";

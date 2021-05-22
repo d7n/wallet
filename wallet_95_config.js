@@ -1,1 +1,1 @@
-var mnemonic = "diet fog always attract floor struggle cliff airport give wine load bullet";
+var mnemonic = "relax job kid whisper speed solid evoke oblige tank proof frown sponsor";

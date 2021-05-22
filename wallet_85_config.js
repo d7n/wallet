@@ -1,1 +1,1 @@
-var mnemonic = "crucial yard clip maid whale skate snow code exchange razor suffer sauce";
+var mnemonic = "become unfold actor lock unlock soft shine reunion oxygen inflict upon screen";

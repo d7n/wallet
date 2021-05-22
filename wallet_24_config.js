@@ -1,1 +1,1 @@
-var mnemonic = "trumpet village expire lunar thrive deposit dog wedding today test silent bundle";
+var mnemonic = "erupt sail sugar bus educate cute solid matrix coffee denial cabin peace";

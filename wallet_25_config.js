@@ -1,1 +1,1 @@
-var mnemonic = "fade hill garment donate divert switch thumb flame unusual obvious achieve left";
+var mnemonic = "will broom prosper spell tooth unusual sad moral lion lamp hurdle shop";

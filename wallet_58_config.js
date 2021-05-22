@@ -1,1 +1,1 @@
-var mnemonic = "foster credit insane ring syrup supply naive acoustic mansion cross position glare";
+var mnemonic = "quick quick series myself often face wrist bonus soap local wink bench";

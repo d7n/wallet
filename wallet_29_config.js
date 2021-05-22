@@ -1,1 +1,1 @@
-var mnemonic = "awkward audit robust blind mobile avoid radar arch amused actual chaos oval";
+var mnemonic = "rely flower tower card theme deny action also bitter creek panic balance";

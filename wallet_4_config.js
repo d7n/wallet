@@ -1,1 +1,1 @@
-var mnemonic = "harsh admit arrest ankle element swift unaware suffer under retire engine engine";
+var mnemonic = "allow topple merit beach erase belt draft poverty enter hybrid endorse what";

@@ -1,1 +1,1 @@
-var mnemonic = "dad hungry recall cliff crime enough verify paddle runway settle fantasy observe";
+var mnemonic = "gospel book winter wide dolphin tank diesel assist panic agent over false";

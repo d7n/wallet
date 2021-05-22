@@ -1,1 +1,1 @@
-var mnemonic = "unusual list topple tree shrug brass young glimpse network captain between curve";
+var mnemonic = "era gap boil absurd uncover run clay thunder glue design minor range";

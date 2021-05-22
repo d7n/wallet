@@ -1,1 +1,1 @@
-var mnemonic = "lab milk ostrich educate relax kind suffer wonder mother skirt popular display";
+var mnemonic = "reason alcohol useful equal gap robot company measure veteran rude double crew";

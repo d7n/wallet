@@ -1,1 +1,1 @@
-var mnemonic = "dove moral utility magnet fun other large another wing venue venture mouse";
+var mnemonic = "nature blade almost marine raise minimum mosquito mushroom alien popular strong rural";

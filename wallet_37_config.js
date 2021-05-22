@@ -1,1 +1,1 @@
-var mnemonic = "crouch water topic damp image ozone round hobby gossip escape humble small";
+var mnemonic = "surround hood under slim wagon local wink jealous cactus ensure post egg";

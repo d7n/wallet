@@ -1,1 +1,1 @@
-var mnemonic = "route valve mutual twist enhance novel have embody like beef hill runway";
+var mnemonic = "deputy oven crumble patient museum egg promote bomb rule oval smoke basic";

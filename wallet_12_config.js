@@ -1,1 +1,1 @@
-var mnemonic = "only excite defy innocent cruise day abstract rain scare wine grunt cage";
+var mnemonic = "remind portion wish course width miss tragic track mixture little paddle venture";

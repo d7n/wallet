@@ -1,1 +1,1 @@
-var mnemonic = "game raven session blind useful vacant push trash put kitchen hurry worry";
+var mnemonic = "hotel steak kind citizen segment crowd ill sign oblige burger increase able";

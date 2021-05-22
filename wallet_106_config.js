@@ -1,1 +1,1 @@
-var mnemonic = "quote menu series two enact tortoise cancel viable flavor festival catalog cake";
+var mnemonic = "bitter refuse novel crack slice measure waste ball rack tent easy crew";

@@ -1,1 +1,1 @@
-var mnemonic = "position easily cupboard clip trouble penalty best print gloom motion connect speak";
+var mnemonic = "decorate crucial neither adapt border toy access daring hurt raise maple hat";

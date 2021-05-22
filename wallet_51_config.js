@@ -1,1 +1,1 @@
-var mnemonic = "public cattle gate area endless grass choose smooth fix human company duck";
+var mnemonic = "sock clutch hip camera tourist wing bus miracle observe canvas accident alcohol";

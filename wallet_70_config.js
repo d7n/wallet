@@ -1,1 +1,1 @@
-var mnemonic = "regret exact piece garlic fat rabbit unfold trash galaxy image express symptom";
+var mnemonic = "silver side delay decrease orange bargain fragile strike biology friend junk much";
