@@ -1,1 +1,1 @@
-var mnemonic = "sense merge jump celery crunch harsh food pottery page hub city fee";
+var mnemonic = "output poem start despair venue retreat alone budget absent drastic thrive prevent";

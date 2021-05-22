@@ -1,1 +1,1 @@
-var mnemonic = "okay artefact lemon sustain effort excite lock absent gauge pride secret phrase";
+var mnemonic = "midnight toy year boy sustain educate frame clean field bid dirt limit";

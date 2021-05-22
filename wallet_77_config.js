@@ -1,1 +1,1 @@
-var mnemonic = "deliver very ritual fun trophy resist gun lumber mirror fortune urge day";
+var mnemonic = "monitor man scan stairs slush frown raw celery movie neutral earn decide";

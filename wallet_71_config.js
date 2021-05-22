@@ -1,1 +1,1 @@
-var mnemonic = "scout pyramid man olympic diamond quality spoil impose vicious give anxiety federal";
+var mnemonic = "valley trophy fame rare gospel alter catch ordinary employ virtual worry laptop";

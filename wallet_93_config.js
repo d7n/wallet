@@ -1,1 +1,1 @@
-var mnemonic = "blood switch diagram often siege eternal orange address broccoli mad present reason";
+var mnemonic = "invite core wreck tree before obtain either sunset humble witness tent struggle";

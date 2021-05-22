@@ -1,1 +1,1 @@
-var mnemonic = "twist crazy license borrow rail include fluid meat squeeze evil ill canoe";
+var mnemonic = "endless discover arrest direct divorce fortune buffalo improve used weapon wheel sister";

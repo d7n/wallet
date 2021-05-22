@@ -1,1 +1,1 @@
-var mnemonic = "harbor vessel split ecology great powder retire salon prefer dynamic essence often";
+var mnemonic = "inspire dizzy what earn ozone tomorrow effort law pudding laugh glad comfort";

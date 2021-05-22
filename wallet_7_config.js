@@ -1,1 +1,1 @@
-var mnemonic = "twenty world jungle actor enough oval build donate drum abstract appear dice";
+var mnemonic = "hood borrow original project road wood sand sweet screen case vessel cherry";

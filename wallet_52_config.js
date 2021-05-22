@@ -1,1 +1,1 @@
-var mnemonic = "uniform isolate canvas index recycle elevator lab taxi sense tomato please fringe";
+var mnemonic = "brown merge income style someone fox pride galaxy fault aim shrimp dizzy";

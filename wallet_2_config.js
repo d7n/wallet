@@ -1,1 +1,1 @@
-var mnemonic = "tenant feed fringe razor mutual that describe avoid tonight bacon initial galaxy";
+var mnemonic = "salmon hidden aspect cheap slim library boost jazz grit strong floor disorder";

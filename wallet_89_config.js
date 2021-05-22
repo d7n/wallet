@@ -1,1 +1,1 @@
-var mnemonic = "million sadness thrive void pet vapor giant soft army ecology exercise abstract";
+var mnemonic = "enrich virus olive coral crucial neutral acid forward survey zone beyond vast";

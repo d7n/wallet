@@ -1,1 +1,1 @@
-var mnemonic = "hat then aisle teach mom spy chalk argue velvet another legend invite";
+var mnemonic = "middle twenty sail cluster chimney shoulder finish fix police awful soldier exercise";

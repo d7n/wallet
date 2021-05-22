@@ -1,1 +1,1 @@
-var mnemonic = "misery quit fox minute double topic pledge junior theory unique injury comic";
+var mnemonic = "dismiss tissue slam runway true tail excite unit farm oak unfair valley";

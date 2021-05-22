@@ -1,1 +1,1 @@
-var mnemonic = "buzz seat segment bleak desk volume sauce nuclear quote market glue chair";
+var mnemonic = "auction wealth elbow gift thought bottom raccoon lottery before admit slush scheme";

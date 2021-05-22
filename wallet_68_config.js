@@ -1,1 +1,1 @@
-var mnemonic = "element reform mango nerve doll sock obtain fatigue dirt toilet donkey swap";
+var mnemonic = "invest kidney child crater recycle spare reason kid scheme candy utility vault";

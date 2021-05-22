@@ -1,1 +1,1 @@
-var mnemonic = "right blame question angry drama limit coffee keep memory want february exercise";
+var mnemonic = "expire bread jewel flower leopard fury penalty resist left just unit opinion";

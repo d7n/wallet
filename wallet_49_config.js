@@ -1,1 +1,1 @@
-var mnemonic = "fog shaft sand web symptom blanket tomato treat gasp cash interest leaf";
+var mnemonic = "card frown manual awful human what discover urge loyal outside way mirror";

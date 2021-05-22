@@ -1,1 +1,1 @@
-var mnemonic = "celery crunch canal side auto rail clean cricket civil rail nephew wrap";
+var mnemonic = "pony pilot inquiry marble column exchange usage broccoli reunion six tone paper";

@@ -1,1 +1,1 @@
-var mnemonic = "window nasty defense delay public position live venture ecology deer unhappy excite";
+var mnemonic = "clip effort coil toy sibling grit robot shop cupboard print happy strike";

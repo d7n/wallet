@@ -1,1 +1,1 @@
-var mnemonic = "number win night deer mad blast winter strategy mask cube sound abuse";
+var mnemonic = "palm laptop moment inspire cry spin blouse brief flower business bridge decline";

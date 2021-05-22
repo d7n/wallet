@@ -1,1 +1,1 @@
-var mnemonic = "term green random win coffee absent antique glove poet umbrella common affair";
+var mnemonic = "onion festival radar rigid add travel sustain limb crumble busy push urban";

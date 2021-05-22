@@ -1,1 +1,1 @@
-var mnemonic = "fold merit motor lawn gain maze frog pig tuition hub fan replace";
+var mnemonic = "panel final decorate equip device bitter street shed shield reopen pull leg";

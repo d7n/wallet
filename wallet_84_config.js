@@ -1,1 +1,1 @@
-var mnemonic = "away mushroom doctor rubber pact left hood stable roast laundry column matrix";
+var mnemonic = "unfair morning above fatigue drift anchor private inspire wedding sword green rich";

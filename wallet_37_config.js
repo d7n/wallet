@@ -1,1 +1,1 @@
-var mnemonic = "vibrant chicken pave mind ranch setup bunker word goose sign matter layer";
+var mnemonic = "betray humor moral sing merge select myself street huge curve seven young";

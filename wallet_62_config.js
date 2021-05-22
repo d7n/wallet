@@ -1,1 +1,1 @@
-var mnemonic = "settle border board uniform filter because hard excuse tray honey frozen rail";
+var mnemonic = "party badge upset noble assume rhythm price code middle dream sense skirt";

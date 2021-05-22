@@ -1,1 +1,1 @@
-var mnemonic = "young solve grit story forward kiwi matter kit lecture swing trend coconut";
+var mnemonic = "render axis great hospital reveal popular police squirrel soul poem adjust hint";

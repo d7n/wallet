@@ -1,1 +1,1 @@
-var mnemonic = "arrange struggle modify shuffle alley few spike time little clerk catalog scatter";
+var mnemonic = "march dumb admit little act dynamic enroll edit summer estate sauce round";

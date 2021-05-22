@@ -1,1 +1,1 @@
-var mnemonic = "kiwi sock sad coast venue lounge easily filter range grant assume double";
+var mnemonic = "since multiply inject fall alley wise oil muscle solid traffic genre season";

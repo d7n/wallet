@@ -1,1 +1,1 @@
-var mnemonic = "festival cost rely wolf bubble print before term color gold two better";
+var mnemonic = "match silly impose search turkey coast cream wheat group jump pig family";

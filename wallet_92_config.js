@@ -1,1 +1,1 @@
-var mnemonic = "click club remove business front potato feature rival manual trigger hat volcano";
+var mnemonic = "sphere uncle below point action motion mobile alien lava price guitar attend";

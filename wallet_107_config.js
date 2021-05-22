@@ -1,1 +1,1 @@
-var mnemonic = "defense female midnight figure subject tattoo eyebrow pulse grab liquid trade mountain";
+var mnemonic = "kitten paper couch mimic priority soft vote prison hen spell ready behind";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce cash cigar erase disagree copper subject item motion head theme zero";
+var mnemonic = "crime copy fly mouse cluster write captain nation cricket only easy certain";

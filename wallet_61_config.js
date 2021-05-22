@@ -1,1 +1,1 @@
-var mnemonic = "hair proof street draw team initial target silent rabbit green now expect";
+var mnemonic = "silver wealth volcano offer catch total retreat change detect urge zone grace";

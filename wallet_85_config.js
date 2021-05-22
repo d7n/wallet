@@ -1,1 +1,1 @@
-var mnemonic = "noodle confirm grit wide design sunny tell pudding guilt buyer retire future";
+var mnemonic = "bless gift pluck palm base evoke two ocean immune law arm extra";

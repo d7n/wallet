@@ -1,1 +1,1 @@
-var mnemonic = "tumble energy casino voyage dust income magnet display talk broken verb elephant";
+var mnemonic = "into slogan risk oppose glad idea element honey mesh panther heart review";

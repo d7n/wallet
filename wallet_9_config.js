@@ -1,1 +1,1 @@
-var mnemonic = "tattoo unhappy cage drama orient morning thumb capable build useless sadness all";
+var mnemonic = "hundred gauge pudding merge sing clinic few response move movie convince inner";

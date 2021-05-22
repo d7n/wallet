@@ -1,1 +1,1 @@
-var mnemonic = "sunset section enrich charge core reject inject combine travel beef wool chase";
+var mnemonic = "salute weather end table echo sustain giraffe iron wonder zero beyond enroll";

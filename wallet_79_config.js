@@ -1,1 +1,1 @@
-var mnemonic = "mad state heart obtain evidence grace impact box thumb envelope swift page";
+var mnemonic = "engine pulp moment unlock assist large crash escape beach angle zone resemble";

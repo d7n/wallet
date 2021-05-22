@@ -1,1 +1,1 @@
-var mnemonic = "fluid real fade pottery say series list hurt divorce smooth west jungle";
+var mnemonic = "walk boring matter usual alien chalk frown short visa monitor chapter tide";

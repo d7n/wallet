@@ -1,1 +1,1 @@
-var mnemonic = "industry inform eager grocery merge human narrow quick base auction draft salad";
+var mnemonic = "visa crater siege banner twin inch hungry such soccer huge employ cash";

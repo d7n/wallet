@@ -1,1 +1,1 @@
-var mnemonic = "since below snow brief fragile huge three hazard sure impose doll they";
+var mnemonic = "velvet remind ignore circle custom gym steel link garage arch exercise erode";

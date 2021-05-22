@@ -1,1 +1,1 @@
-var mnemonic = "sing panel acquire boy powder lab mountain moon neutral urge race egg";
+var mnemonic = "erosion salt save boil tree glass radio girl response destroy candy broom";

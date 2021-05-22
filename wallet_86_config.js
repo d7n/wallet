@@ -1,1 +1,1 @@
-var mnemonic = "dirt panther treat pipe lemon blind tissue fault upset fat victory pipe";
+var mnemonic = "pencil ready suspect ghost trust initial peanut bamboo air pelican open regular";

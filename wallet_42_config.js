@@ -1,1 +1,1 @@
-var mnemonic = "sea license spoon lava noise later supreme tomorrow light slender ride permit";
+var mnemonic = "gauge tiger cream relax bike clump ocean cry region surprise blouse evil";

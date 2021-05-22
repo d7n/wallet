@@ -1,1 +1,1 @@
-var mnemonic = "combine also tide clap reward quiz slogan air light shuffle entire jewel";
+var mnemonic = "today priority mule food such peasant obey elevator process ride wish pottery";

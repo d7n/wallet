@@ -1,1 +1,1 @@
-var mnemonic = "excess creek learn wing glad session grocery claim toddler spring digital delay";
+var mnemonic = "copy raise cattle disagree language tree that auto gun exit visit tell";

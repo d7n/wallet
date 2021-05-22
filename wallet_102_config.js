@@ -1,1 +1,1 @@
-var mnemonic = "rapid economy hen barrel basic hidden chef admit include long depart melody";
+var mnemonic = "fence settle arm name start guard wagon episode green ozone glance champion";

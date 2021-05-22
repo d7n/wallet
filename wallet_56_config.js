@@ -1,1 +1,1 @@
-var mnemonic = "reason inform kick inform ribbon squeeze trophy acid model screen exclude breeze";
+var mnemonic = "run grass quote notable valley sponsor hard student section level exact rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "clip ivory fortune mixture dish spare cherry alley ancient elegant code sign";
+var mnemonic = "search garage side draft review service joke penalty pink praise silk hover";

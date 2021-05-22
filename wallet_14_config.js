@@ -1,1 +1,1 @@
-var mnemonic = "silk kiwi know able elephant nothing champion bag silk correct logic size";
+var mnemonic = "strong dance negative hill oblige science pig glove inch prison actress brass";

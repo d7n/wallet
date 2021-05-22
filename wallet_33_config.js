@@ -1,1 +1,1 @@
-var mnemonic = "debate parrot crash broccoli fog drama slogan vault suspect level omit much";
+var mnemonic = "south typical slide method bundle furnace phrase multiply eagle engage region coil";

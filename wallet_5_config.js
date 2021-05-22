@@ -1,1 +1,1 @@
-var mnemonic = "twin tragic squeeze put head pause choice short review object syrup turkey";
+var mnemonic = "thumb device combine slender pull feed explain chat soap lottery excess polar";

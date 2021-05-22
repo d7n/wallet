@@ -1,1 +1,1 @@
-var mnemonic = "fossil absent rival century horse below census luxury casual rather office train";
+var mnemonic = "cram goose tone among sugar razor romance ride million exile letter unhappy";

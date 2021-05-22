@@ -1,1 +1,1 @@
-var mnemonic = "enable cereal burger float arrive address angle shuffle evil skate found mix";
+var mnemonic = "school cargo worry senior day high still limb all bar thrive orient";

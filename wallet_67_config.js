@@ -1,1 +1,1 @@
-var mnemonic = "cupboard isolate check hurry thrive shadow super farm fiction repeat wide expose";
+var mnemonic = "marble police response change laugh year day view wing wreck parrot silly";

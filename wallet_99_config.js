@@ -1,1 +1,1 @@
-var mnemonic = "claim sibling glove symbol echo jungle glass royal grass magic hold taxi";
+var mnemonic = "middle average gold remain yellow solution gas roast trip seven fashion shrug";

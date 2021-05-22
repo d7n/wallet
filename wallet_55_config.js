@@ -1,1 +1,1 @@
-var mnemonic = "search erupt large hello scatter remove profit put bullet afraid income favorite";
+var mnemonic = "empty nurse afraid deal drastic high suggest rail carry december snow tree";

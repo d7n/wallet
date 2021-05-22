@@ -1,1 +1,1 @@
-var mnemonic = "throw movie plastic lunch library morning feel original apart effort guess fiscal";
+var mnemonic = "abstract myself city letter affair glide priority service tourist chief dove shed";

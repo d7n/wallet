@@ -1,1 +1,1 @@
-var mnemonic = "ankle fiber fetch dice federal usage access sing guess undo little clerk";
+var mnemonic = "behind habit program security october middle soon entire shield seven purse float";

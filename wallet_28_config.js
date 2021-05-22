@@ -1,1 +1,1 @@
-var mnemonic = "indicate crack whale loan frog winner deliver pill dumb border math keep";
+var mnemonic = "artefact fall abstract fold empty process advice decrease scorpion rubber maximum behind";

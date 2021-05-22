@@ -1,1 +1,1 @@
-var mnemonic = "candy move junior vacant spoon skirt junior rival describe expand purchase uphold";
+var mnemonic = "define enter uncle brain float crane venue reform roof walk blame shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon jacket remove broken stuff awesome copy spin sorry cook sunny damage";
+var mnemonic = "enact fantasy reveal custom stand first private dinosaur unfair salmon gauge whale";

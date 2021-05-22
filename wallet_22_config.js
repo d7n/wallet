@@ -1,1 +1,1 @@
-var mnemonic = "glass attract front tower iron kingdom ancient hint author buffalo jar force";
+var mnemonic = "hamster senior rifle virus cannon sign myth invite gate usual relief arm";

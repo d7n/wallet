@@ -1,1 +1,1 @@
-var mnemonic = "shallow report spoil armor ankle inherit upper candy cover boring opinion soldier";
+var mnemonic = "same trash blossom edge social swallow liquid float warrior sort current mammal";

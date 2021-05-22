@@ -1,1 +1,1 @@
-var mnemonic = "oil quarter powder vote almost sell output bridge trumpet mushroom hockey gym";
+var mnemonic = "elbow exhaust artefact awkward gallery behave gap three relief quarter lady whale";

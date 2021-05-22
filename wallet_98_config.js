@@ -1,1 +1,1 @@
-var mnemonic = "garden vibrant wet velvet crash tell normal whale prosper gym peasant shy";
+var mnemonic = "bridge tourist casino rug squirrel crane okay century work warfare butter bounce";

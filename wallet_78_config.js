@@ -1,1 +1,1 @@
-var mnemonic = "raise upper pelican effort science gift normal cause this party grape lion";
+var mnemonic = "vacant vessel habit duty rely blue into crash apology situate bundle dress";

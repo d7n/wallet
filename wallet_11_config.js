@@ -1,1 +1,1 @@
-var mnemonic = "evil hen grab above vague social use urge rally soldier either sing";
+var mnemonic = "hill city wolf any oil stumble awful soda horse olympic genuine smart";

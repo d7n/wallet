@@ -1,1 +1,1 @@
-var mnemonic = "fade poverty delay involve bag hero trap noise run borrow opera raven";
+var mnemonic = "cradle sauce sort west abstract project teach grain bacon hungry include fault";

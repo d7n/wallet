@@ -1,1 +1,1 @@
-var mnemonic = "click people fetch say obey reveal fruit boil guide basket water dinosaur";
+var mnemonic = "marine typical please giggle size disorder pilot enough chef essay drill mention";

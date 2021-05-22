@@ -1,1 +1,1 @@
-var mnemonic = "puppy economy middle loud mass danger swarm announce mad result rain crop";
+var mnemonic = "demand vocal ozone crawl couple pilot struggle kangaroo ethics actual spring bus";

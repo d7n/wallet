@@ -1,1 +1,1 @@
-var mnemonic = "toilet retreat sport valid suggest better mushroom deliver sight isolate issue pet";
+var mnemonic = "bullet soft pool diet decline body ski lottery artefact sad pole ramp";

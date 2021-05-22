@@ -1,1 +1,1 @@
-var mnemonic = "meadow ostrich put gun target marriage faint effort cheese armed amazing very";
+var mnemonic = "jewel actress palm cake session choice obscure gift usual wife nose ecology";

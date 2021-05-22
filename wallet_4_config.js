@@ -1,1 +1,1 @@
-var mnemonic = "humor wave supply visa already code spend crack position option purse burger";
+var mnemonic = "menu forward urban empty clean leopard merry crack visual success tuna bag";

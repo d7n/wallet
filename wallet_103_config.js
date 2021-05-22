@@ -1,1 +1,1 @@
-var mnemonic = "erosion shrimp blanket vapor select add goat trash shallow thunder insane cream";
+var mnemonic = "price ball decrease best shy club kitten oblige athlete differ neither magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "window emerge sniff devote force today mother frozen conduct meadow matter wire";
+var mnemonic = "anger diamond vintage lion scissors tunnel banner panther subject blouse answer hire";

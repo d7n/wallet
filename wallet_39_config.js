@@ -1,1 +1,1 @@
-var mnemonic = "distance board gadget chuckle torch client blame aware hurdle quick slender opera";
+var mnemonic = "achieve arctic inflict nurse biology spike pact flight hard bless warm relax";

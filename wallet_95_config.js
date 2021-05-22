@@ -1,1 +1,1 @@
-var mnemonic = "truck purpose share long warfare bamboo lunch ozone begin column question ring";
+var mnemonic = "embody empower pause silk jewel term behind village snack reason symptom parent";

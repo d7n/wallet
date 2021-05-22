@@ -1,1 +1,1 @@
-var mnemonic = "foot replace possible cream green peasant note pear unfold skill fall arrange";
+var mnemonic = "wolf ridge human talent oak future ability topic doll misery journey recipe";

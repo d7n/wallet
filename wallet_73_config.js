@@ -1,1 +1,1 @@
-var mnemonic = "nose aware lizard soldier spare curtain mosquito quantum virus region obscure razor";
+var mnemonic = "search found glance ready day spare below couple promote rocket click copy";

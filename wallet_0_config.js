@@ -1,1 +1,1 @@
-var mnemonic = "apart lounge venture parade increase clay easily wedding spoil wool attract maze";
+var mnemonic = "attract upgrade puppy dream mobile sport jungle abstract ocean glue you stage";

@@ -1,1 +1,1 @@
-var mnemonic = "check work one disagree sorry oblige trophy share video spoon story apart";
+var mnemonic = "wood shrimp bundle phone region worry alpha manual whale piano present verify";

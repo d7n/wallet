@@ -1,1 +1,1 @@
-var mnemonic = "safe cube inquiry illegal ozone beach seven detect column stick spirit sort";
+var mnemonic = "vessel ranch peasant burger grab cool bitter increase husband gesture illegal wish";

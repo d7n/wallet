@@ -1,1 +1,1 @@
-var mnemonic = "trigger satisfy calm make economy december bundle patrol divide moon chest stumble";
+var mnemonic = "pull broken clump title reason parrot exact company drill toward canvas shell";

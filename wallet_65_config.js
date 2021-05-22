@@ -1,1 +1,1 @@
-var mnemonic = "nose two tube deputy twin minimum zone slender trophy adjust clay core";
+var mnemonic = "canyon copper capable lava glad theory rent broccoli mom clarify vast accident";

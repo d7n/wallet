@@ -1,1 +1,1 @@
-var mnemonic = "iron like collect display onion tone nest trend demand metal never stereo";
+var mnemonic = "rifle office rebel sound else invite extra deputy critic swarm rifle insect";

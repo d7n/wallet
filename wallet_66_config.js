@@ -1,1 +1,1 @@
-var mnemonic = "muscle omit middle jaguar mammal resemble hammer autumn reject nice run toilet";
+var mnemonic = "crawl tag treat orchard garlic mandate mass lion coral position purse drink";

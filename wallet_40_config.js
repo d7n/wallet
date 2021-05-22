@@ -1,1 +1,1 @@
-var mnemonic = "lottery answer someone method genius coral above dust mean joke rough season";
+var mnemonic = "baby believe armed text only grace magic hollow call fall silk sketch";

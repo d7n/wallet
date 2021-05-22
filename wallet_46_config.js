@@ -1,1 +1,1 @@
-var mnemonic = "hour keep success force buyer suggest divide tonight pledge effort donor rare";
+var mnemonic = "toilet obey answer dizzy replace grid diary urge quick grape result member";

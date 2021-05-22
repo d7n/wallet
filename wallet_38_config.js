@@ -1,1 +1,1 @@
-var mnemonic = "tobacco join truth autumn case castle globe film conduct finger goddess cram";
+var mnemonic = "party country cupboard genius creek elevator usual pottery syrup step enrich fire";
