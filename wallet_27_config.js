@@ -1,1 +1,1 @@
-var mnemonic = "battle acquire music decide keep solution document priority tired arena affair mass";
+var mnemonic = "modify okay valley add exchange night head sphere salute forum bar tower";

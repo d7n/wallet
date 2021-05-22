@@ -1,1 +1,1 @@
-var mnemonic = "denial trouble shop soldier copy rocket beauty nature stereo truck educate brass";
+var mnemonic = "doctor penalty east amateur decide heart skull moral fence parade unveil eager";

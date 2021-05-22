@@ -1,1 +1,1 @@
-var mnemonic = "recall cricket turn pet medal sketch weapon grab tomorrow artist nest flag";
+var mnemonic = "ozone very spike avoid sting must atom spell pyramid toss super edit";

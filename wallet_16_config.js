@@ -1,1 +1,1 @@
-var mnemonic = "define normal burden sponsor elephant sudden valley prevent silly entry air piece";
+var mnemonic = "car sauce inform city kick release easily sunset monitor spawn camera equip";

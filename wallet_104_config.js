@@ -1,1 +1,1 @@
-var mnemonic = "calm gossip library chief honey adapt jungle where jar cage favorite love";
+var mnemonic = "hospital goddess pumpkin decade awesome water room number daring scheme you crew";

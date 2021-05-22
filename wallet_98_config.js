@@ -1,1 +1,1 @@
-var mnemonic = "round loop legend emotion daring myself hidden person safe inflict sadness cattle";
+var mnemonic = "ivory camp tuna improve breeze tooth fat kiss stone erosion upgrade bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal lab cupboard ostrich race march decide beyond upper you chest infant";
+var mnemonic = "leopard minimum phrase club kid oblige kind final ostrich mask eternal garment";

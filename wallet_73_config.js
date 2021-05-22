@@ -1,1 +1,1 @@
-var mnemonic = "vague cram middle disorder either dance antique crumble eternal core social nuclear";
+var mnemonic = "moon term slogan huge clown possible resource leg above ill nature bless";

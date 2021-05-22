@@ -1,1 +1,1 @@
-var mnemonic = "umbrella huge mandate spoon entry guitar tooth rude turtle police dwarf picnic";
+var mnemonic = "maze forum dizzy duck velvet engage network prepare retire address weekend refuse";

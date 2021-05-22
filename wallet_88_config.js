@@ -1,1 +1,1 @@
-var mnemonic = "edit draw few draw dose leisure chef trust climb survey guilt glow";
+var mnemonic = "model unknown claw point yellow olympic depart book rent sister identify argue";

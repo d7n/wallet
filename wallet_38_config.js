@@ -1,1 +1,1 @@
-var mnemonic = "grief boy uncle stadium follow glide label cousin ceiling fan pear birth";
+var mnemonic = "company craft bread until random runway front world flip maximum since option";

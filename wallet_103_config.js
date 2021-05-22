@@ -1,1 +1,1 @@
-var mnemonic = "steak frost pipe cross crystal butter anchor merry shrug valid caught science";
+var mnemonic = "such photo negative catch vessel piece chicken million rule renew punch vast";

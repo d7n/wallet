@@ -1,1 +1,1 @@
-var mnemonic = "busy evolve width act equal pond gather grab wheat inmate boring fancy";
+var mnemonic = "distance shop joy sun winner biology muffin cattle absent spread cable siren";

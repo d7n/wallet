@@ -1,1 +1,1 @@
-var mnemonic = "habit neither umbrella bind frost appear chapter shuffle kingdom stable quality cluster";
+var mnemonic = "orbit bicycle parent spirit obscure focus web design frog emerge despair excuse";

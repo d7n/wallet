@@ -1,1 +1,1 @@
-var mnemonic = "tortoise wear credit rhythm piano glory october rely muscle frown ridge virtual";
+var mnemonic = "since travel baby mystery inspire gym pass picture rely whip gesture tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "jump clever future math large nuclear jelly pioneer fluid offer device that";
+var mnemonic = "design drip elephant symbol execute cement hard section fancy coin barrel push";

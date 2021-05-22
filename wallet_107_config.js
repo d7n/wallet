@@ -1,1 +1,1 @@
-var mnemonic = "menu again essence awesome snow awkward merry elbow extend diagram timber bicycle";
+var mnemonic = "circle core rocket rare supply spot grunt ivory avoid usage coach armor";

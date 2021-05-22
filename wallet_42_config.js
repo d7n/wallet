@@ -1,1 +1,1 @@
-var mnemonic = "series exchange gift warrior solution steak clerk enrich prize abuse popular fiction";
+var mnemonic = "hospital faith scatter honey session fence upset bone option siege near circle";

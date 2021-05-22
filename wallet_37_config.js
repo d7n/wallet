@@ -1,1 +1,1 @@
-var mnemonic = "journey female clay orange nominee mail exotic wait anxiety wolf volume rain";
+var mnemonic = "mule awake heart collect other enrich exhaust genius crawl tennis hole arm";

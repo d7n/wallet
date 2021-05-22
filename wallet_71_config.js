@@ -1,1 +1,1 @@
-var mnemonic = "scheme lizard about cook river surprise weekend hollow radar foster stairs double";
+var mnemonic = "annual chase palace afford negative orient long imitate unique wash have flag";

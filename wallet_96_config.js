@@ -1,1 +1,1 @@
-var mnemonic = "seat liar list panther spoil second unknown harvest this payment loyal live";
+var mnemonic = "fragile sight extra legend relax plug shadow rough mixed convince acquire equip";

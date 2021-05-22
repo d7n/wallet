@@ -1,1 +1,1 @@
-var mnemonic = "awful spirit famous wagon pottery buffalo pen margin evoke material north mix";
+var mnemonic = "garbage prosper repeat column animal salad gorilla catalog begin pig ritual trim";

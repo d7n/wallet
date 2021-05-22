@@ -1,1 +1,1 @@
-var mnemonic = "boat destroy scan candy choose repeat pizza tribe only camera enable soldier";
+var mnemonic = "coach trap addict odor mimic tragic buffalo where tiger spend flight wedding";

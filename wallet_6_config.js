@@ -1,1 +1,1 @@
-var mnemonic = "wheel matter silent entire unusual thumb tube name lava chapter earn advance";
+var mnemonic = "wire expect lens reopen tilt fold furnace rain debris method depend open";

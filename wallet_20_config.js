@@ -1,1 +1,1 @@
-var mnemonic = "river busy summer ride reward ridge mosquito drive eight pen quality various";
+var mnemonic = "credit globe hole brave alley control fan guide little morning tiger unfold";

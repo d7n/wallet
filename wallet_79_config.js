@@ -1,1 +1,1 @@
-var mnemonic = "random vibrant fiscal chicken hole claim head maze enemy hurry increase manual";
+var mnemonic = "lunch situate match victory slow suffer pass problem scissors crucial lottery jump";

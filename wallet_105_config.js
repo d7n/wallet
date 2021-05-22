@@ -1,1 +1,1 @@
-var mnemonic = "bag oppose cake drum public cross apology kingdom culture wild result drift";
+var mnemonic = "social firm pipe choose trigger answer clutch offer truck blast breeze spike";

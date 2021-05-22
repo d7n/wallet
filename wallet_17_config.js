@@ -1,1 +1,1 @@
-var mnemonic = "exist income friend health crater upset seat fork clump render leopard disagree";
+var mnemonic = "shock real patient shiver retreat defy mushroom section term able school history";

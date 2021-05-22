@@ -1,1 +1,1 @@
-var mnemonic = "trip park rare slot aspect achieve mask battle sight vacuum elephant warfare";
+var mnemonic = "metal outdoor income desert absorb shrug wheel rice more eight struggle shock";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown play equal act web door old runway seed marine regret bunker";
+var mnemonic = "venue settle inspire pact mom across invite blast action venture basket pioneer";

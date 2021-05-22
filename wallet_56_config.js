@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow echo music online rather cricket purse size clerk taste merry afraid";
+var mnemonic = "then tank frown skill gap leg visual mom aerobic ring virus wing";

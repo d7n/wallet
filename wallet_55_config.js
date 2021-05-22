@@ -1,1 +1,1 @@
-var mnemonic = "legend stamp clock problem balcony aerobic simple debris true fee dinner order";
+var mnemonic = "train praise salad lemon float material clever update champion aerobic boil door";

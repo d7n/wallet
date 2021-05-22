@@ -1,1 +1,1 @@
-var mnemonic = "travel dinner leopard hand purity useful liquid glove company inquiry settle hungry";
+var mnemonic = "duty glory rhythm neglect grocery spy smoke raven prison false emotion refuse";

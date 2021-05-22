@@ -1,1 +1,1 @@
-var mnemonic = "luxury organ bubble what radio unveil soda urge winner typical post tourist";
+var mnemonic = "coast uncle double access merit focus grow trend inform book salt call";

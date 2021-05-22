@@ -1,1 +1,1 @@
-var mnemonic = "story mixture address net happy combine wrong riot adapt tape define modify";
+var mnemonic = "march enter eager punch negative junk diamond evolve try indoor stock asset";

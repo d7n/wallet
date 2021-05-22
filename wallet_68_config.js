@@ -1,1 +1,1 @@
-var mnemonic = "pill rug wrong memory wild escape giant swamp spy harvest radio myth";
+var mnemonic = "capable aisle skull tennis jazz rubber flight velvet wild grunt claim marble";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak person ozone hello doctor hair west old copper wonder harsh expose";
+var mnemonic = "depart keen social code infant budget diagram magic consider turkey give comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid silk round deputy bronze maze unaware bind cake curve ankle hundred";
+var mnemonic = "clinic sea noise broom shift awake shallow smile safe dinosaur wolf level";

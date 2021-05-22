@@ -1,1 +1,1 @@
-var mnemonic = "twice certain unit hobby input brief humor kingdom volume slim assume alcohol";
+var mnemonic = "try voyage flag happy rail grunt advice cube blush virtual social debris";

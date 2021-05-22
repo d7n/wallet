@@ -1,1 +1,1 @@
-var mnemonic = "ladder spread head alter matrix learn waste please flame decline rocket news";
+var mnemonic = "barely unable quiz sock sample flat few sister tired misery broccoli job";

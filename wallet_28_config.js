@@ -1,1 +1,1 @@
-var mnemonic = "voice fuel vibrant reform urge pony hour build elephant glimpse cross obvious";
+var mnemonic = "pledge analyst remain recall around morning devote alcohol adapt logic truly island";

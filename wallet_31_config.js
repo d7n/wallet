@@ -1,1 +1,1 @@
-var mnemonic = "reflect fix income wink return town valve vault frown hawk raven erase";
+var mnemonic = "wave hotel art science save bracket column spatial anger bitter nut cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow member copy fat enemy like vibrant alone pudding obtain same concert";
+var mnemonic = "nerve ship caught pipe balcony express kite mirror cotton cement same mother";

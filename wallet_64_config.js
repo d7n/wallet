@@ -1,1 +1,1 @@
-var mnemonic = "place puzzle flock one crater output solution wine blade rate utility kite";
+var mnemonic = "crisp error dad escape either invite trade soft puzzle alone frown romance";

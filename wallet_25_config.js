@@ -1,1 +1,1 @@
-var mnemonic = "arena supreme sword raw own grain armor chat awkward blast because fabric";
+var mnemonic = "soldier ribbon mammal material thumb glance actress note betray season destroy hill";

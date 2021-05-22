@@ -1,1 +1,1 @@
-var mnemonic = "multiply side horn flavor enter loyal cabbage burger describe vibrant crouch awful";
+var mnemonic = "lamp blind walk silver silly trigger hunt account rain music lazy list";

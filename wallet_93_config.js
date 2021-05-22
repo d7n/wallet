@@ -1,1 +1,1 @@
-var mnemonic = "festival mammal hat tip allow doctor mercy soup clutch book magnet outdoor";
+var mnemonic = "federal main legal salute kangaroo three hole liberty plunge divorce army lonely";

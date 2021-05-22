@@ -1,1 +1,1 @@
-var mnemonic = "begin play deal grant river mistake emotion alley medal dinosaur body february";
+var mnemonic = "thing woman balance pledge enforce sport code swear thing because current maze";

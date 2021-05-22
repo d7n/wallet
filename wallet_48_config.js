@@ -1,1 +1,1 @@
-var mnemonic = "pact fun lesson hazard brother wide only sport either village believe undo";
+var mnemonic = "van jewel vital valley badge dose rifle clap ritual paper awkward advice";

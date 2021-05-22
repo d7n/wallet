@@ -1,1 +1,1 @@
-var mnemonic = "coin asthma wisdom grocery please coyote wealth abuse salad canvas other vote";
+var mnemonic = "mean panda super globe discover acid coffee theme help catalog bitter ankle";

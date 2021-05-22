@@ -1,1 +1,1 @@
-var mnemonic = "pigeon label accuse almost industry gossip beauty design prepare crater ensure outer";
+var mnemonic = "siege tiger chief strategy spirit curious staff oyster sea husband mother script";

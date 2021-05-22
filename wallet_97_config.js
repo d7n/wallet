@@ -1,1 +1,1 @@
-var mnemonic = "base badge become response north diamond maze dash shaft shy enact across";
+var mnemonic = "check next party flame wood vacant note dust object ship catch whale";

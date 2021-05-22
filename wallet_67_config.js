@@ -1,1 +1,1 @@
-var mnemonic = "basket one theme unknown smooth spread alter fatal three twice only bread";
+var mnemonic = "poet unfair army current prepare mobile concert prosper shield beef label check";

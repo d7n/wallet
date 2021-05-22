@@ -1,1 +1,1 @@
-var mnemonic = "kiwi bulb daughter nose journey off bamboo hill father vintage fuel maze";
+var mnemonic = "claim bus book cupboard birth exotic identify script enemy merit sell silk";

@@ -1,1 +1,1 @@
-var mnemonic = "alone shrug budget card scare jungle theory alcohol arena upper train nurse";
+var mnemonic = "pulp dignity pole recycle inmate hub you curious extend crane cradle way";

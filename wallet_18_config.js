@@ -1,1 +1,1 @@
-var mnemonic = "flash effort hedgehog notable amount denial destroy result bleak false guess law";
+var mnemonic = "duck erosion wash tool castle disorder bargain crane slender love pear fluid";

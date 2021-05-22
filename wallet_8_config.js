@@ -1,1 +1,1 @@
-var mnemonic = "board marble nephew employ device jewel iron leaf material involve vehicle move";
+var mnemonic = "maid naive champion stick damp hint fragile drink maze task cotton okay";

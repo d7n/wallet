@@ -1,1 +1,1 @@
-var mnemonic = "north dry beach web essay anxiety hundred business ribbon live stumble gate";
+var mnemonic = "cherry mirror blood glance mandate shoe junior burst bottom tired dragon narrow";

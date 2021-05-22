@@ -1,1 +1,1 @@
-var mnemonic = "reform there obey helmet seminar bamboo paddle hold behave desk swamp theme";
+var mnemonic = "match inquiry eight pistol enlist web high material flavor midnight gloom buzz";

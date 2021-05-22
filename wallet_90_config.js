@@ -1,1 +1,1 @@
-var mnemonic = "aware install purse tell grunt connect twice brand uncover swim crane runway";
+var mnemonic = "jazz corn april march salmon novel chef control loop stem actress sock";

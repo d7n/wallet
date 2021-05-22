@@ -1,1 +1,1 @@
-var mnemonic = "index pig eyebrow spawn swamp ostrich welcome solid tackle pear skull snap";
+var mnemonic = "client myth neither define rival toward prepare maple spray blush dizzy wet";

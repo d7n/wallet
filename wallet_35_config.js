@@ -1,1 +1,1 @@
-var mnemonic = "talk outside comic mammal entry error next small couch fruit phone shed";
+var mnemonic = "disagree history walnut dad sentence car already wolf knock october ask outdoor";

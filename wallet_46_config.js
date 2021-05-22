@@ -1,1 +1,1 @@
-var mnemonic = "around puppy diary defy neutral alpha enable coral van reason right festival";
+var mnemonic = "opinion cable walnut crunch axis around tenant predict have account act unable";

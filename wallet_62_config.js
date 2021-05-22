@@ -1,1 +1,1 @@
-var mnemonic = "dizzy suggest sleep online velvet draft position mimic pact claim offer end";
+var mnemonic = "figure mystery tumble inherit sort toe manage you smoke hammer bird pepper";

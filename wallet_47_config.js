@@ -1,1 +1,1 @@
-var mnemonic = "gasp cute busy animal three perfect exchange erase energy genre unusual address";
+var mnemonic = "laugh deposit gun define trumpet amateur plastic attract sentence cause gorilla survey";

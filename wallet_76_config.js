@@ -1,1 +1,1 @@
-var mnemonic = "lamp decline stage kitchen visit deliver deputy local bird country garlic bless";
+var mnemonic = "trip clip lift senior avocado cross monitor hip chaos cable lucky admit";

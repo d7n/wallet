@@ -1,1 +1,1 @@
-var mnemonic = "smart dry horse divert blast hybrid clown beyond theme claim auction iron";
+var mnemonic = "wrong snap hold private alcohol tag wife angry afraid camp goddess nut";

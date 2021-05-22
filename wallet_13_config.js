@@ -1,1 +1,1 @@
-var mnemonic = "test allow universe spawn distance alert today rabbit execute silk climb come";
+var mnemonic = "reopen illegal clip vague teach derive black rhythm master sell inmate relax";

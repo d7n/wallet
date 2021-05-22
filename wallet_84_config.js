@@ -1,1 +1,1 @@
-var mnemonic = "live game model hotel world donor health hen flame trophy congress know";
+var mnemonic = "wreck tail noodle verify picture hobby link stamp dirt legal require rather";

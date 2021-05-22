@@ -1,1 +1,1 @@
-var mnemonic = "glare vacant logic kangaroo danger toast use twin six today circle acid";
+var mnemonic = "learn seat truly army provide wire pear fee label symbol analyst average";

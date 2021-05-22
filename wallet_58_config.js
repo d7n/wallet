@@ -1,1 +1,1 @@
-var mnemonic = "crater infant brick grid merit curious coast betray chalk renew senior blanket";
+var mnemonic = "hub erode salmon husband mind item off camp august usage hen dignity";

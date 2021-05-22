@@ -1,1 +1,1 @@
-var mnemonic = "nose adjust just isolate blade remind woman guide fog throw sight they";
+var mnemonic = "clever what smooth shallow initial nothing rare cube appear cave service summer";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent spot bubble magic hip boring sauce flip before build egg nerve";
+var mnemonic = "mutual grain solution pass color aerobic pioneer hand hazard fiscal cargo okay";

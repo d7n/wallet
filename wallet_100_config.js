@@ -1,1 +1,1 @@
-var mnemonic = "fine agent merit measure loan tone country brass pause distance zebra flush";
+var mnemonic = "tunnel luggage loyal flight gather buffalo feel bring front rail plug basic";

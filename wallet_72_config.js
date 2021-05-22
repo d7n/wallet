@@ -1,1 +1,1 @@
-var mnemonic = "need stone estate jealous tattoo female lunar inmate north script sudden balcony";
+var mnemonic = "balcony vague van elite blouse hand maid help bid cherry write piece";

@@ -1,1 +1,1 @@
-var mnemonic = "little whisper gadget bar win legend obey stadium liar addict fiber adult";
+var mnemonic = "shrimp maximum escape mango ridge eternal favorite ready veteran dial suggest enforce";

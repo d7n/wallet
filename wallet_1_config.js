@@ -1,1 +1,1 @@
-var mnemonic = "maze choice few goat first typical adapt detail theme raise charge ready";
+var mnemonic = "tomato laptop life clog rural purse note rug tenant hamster over pizza";

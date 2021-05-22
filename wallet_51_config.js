@@ -1,1 +1,1 @@
-var mnemonic = "visa super game spell tongue rude repeat lady half snake planet wish";
+var mnemonic = "stairs fan volume awesome clown jelly dutch opera letter mobile oblige decide";

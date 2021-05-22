@@ -1,1 +1,1 @@
-var mnemonic = "pledge drink door south sock business expose step sibling turtle tomato relief";
+var mnemonic = "diamond profit dad amount weekend adjust energy pelican coil near season hen";

@@ -1,1 +1,1 @@
-var mnemonic = "burden canvas chaos tongue ugly jungle smart corn eyebrow saddle obey chef";
+var mnemonic = "glance erosion glare place become jar denial buddy adapt penalty chicken height";

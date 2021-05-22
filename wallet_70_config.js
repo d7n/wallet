@@ -1,1 +1,1 @@
-var mnemonic = "also fuel stove seat damage cave salad anger turtle panic type cave";
+var mnemonic = "cluster head knock thrive onion happy mixed defense net artwork caught oyster";

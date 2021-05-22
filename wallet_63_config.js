@@ -1,1 +1,1 @@
-var mnemonic = "address object ketchup size pole pistol tissue chimney work practice mosquito swallow";
+var mnemonic = "select volume lake join retreat hello arrange acid glimpse boost spare leopard";

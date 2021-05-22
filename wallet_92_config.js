@@ -1,1 +1,1 @@
-var mnemonic = "holiday kit scissors pulp damp response blossom unique public duck merry kitchen";
+var mnemonic = "spatial response gentle wife left monster gas stumble purity vacuum leader true";

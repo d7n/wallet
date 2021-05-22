@@ -1,1 +1,1 @@
-var mnemonic = "trap nerve dismiss family arrange album stand assist seek foot mass liberty";
+var mnemonic = "isolate parrot volcano peasant fantasy crazy meadow maximum milk reform host awesome";

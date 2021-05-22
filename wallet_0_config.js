@@ -1,1 +1,1 @@
-var mnemonic = "twist surprise benefit bean fish garlic aim copy rifle thunder order oval";
+var mnemonic = "school quick salmon reflect beef hospital session behind talk bring series exchange";

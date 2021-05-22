@@ -1,1 +1,1 @@
-var mnemonic = "stomach gallery spread menu shy chicken release depth rocket kangaroo sausage seven";
+var mnemonic = "upper boss uncover list yellow stomach release wink super artefact satisfy try";

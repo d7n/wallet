@@ -1,1 +1,1 @@
-var mnemonic = "noble train grow burst learn wear chronic horn floor ice sock innocent";
+var mnemonic = "legend wool nose dog rug thrive squeeze shove nose pilot cry pyramid";

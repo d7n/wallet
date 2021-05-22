@@ -1,1 +1,1 @@
-var mnemonic = "print rare lunar before harbor faint resist absent way blur clutch safe";
+var mnemonic = "call federal portion thrive present lab reopen educate erode memory obtain excess";

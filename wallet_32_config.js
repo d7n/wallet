@@ -1,1 +1,1 @@
-var mnemonic = "annual wear width plate napkin polar pill fence arctic lamp cruise connect";
+var mnemonic = "all consider arrive advice fee learn donor few friend pledge name brown";
