@@ -1,1 +1,1 @@
-var mnemonic = "way lava tiny there ahead prepare rack remove repair legend rookie jazz";
+var mnemonic = "caught wire unlock verb alien space rival sting explain south since hungry";

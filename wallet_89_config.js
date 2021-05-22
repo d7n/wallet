@@ -1,1 +1,1 @@
-var mnemonic = "virus rain crucial lunar consider leave lawsuit display coach hole green virtual";
+var mnemonic = "false unlock floor sweet embrace shrimp sketch oxygen drum multiply gravity govern";

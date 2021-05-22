@@ -1,1 +1,1 @@
-var mnemonic = "wet piano upper pudding average kidney list learn ostrich else drink siege";
+var mnemonic = "powder word coral draw bread embrace mirror staff word fragile empower grant";

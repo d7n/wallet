@@ -1,1 +1,1 @@
-var mnemonic = "predict common boring jazz tank property keep silver hub rate audit bracket";
+var mnemonic = "nest drip master travel final dawn escape isolate wear bridge once snack";

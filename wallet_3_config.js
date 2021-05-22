@@ -1,1 +1,1 @@
-var mnemonic = "echo tissue high calm make width creek city squeeze dumb shift universe";
+var mnemonic = "hero nephew ancient ritual surround inhale leader equip pledge nose ticket blossom";

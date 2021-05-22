@@ -1,1 +1,1 @@
-var mnemonic = "code other that rapid elephant garment library demise define primary deputy stereo";
+var mnemonic = "target control language curtain deal oppose bike rabbit dry sting couch hand";

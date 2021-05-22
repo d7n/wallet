@@ -1,1 +1,1 @@
-var mnemonic = "tide exchange ski rubber era unlock nuclear shield movie home echo welcome";
+var mnemonic = "add below wide input ladder unlock race slow baby pretty enact huge";

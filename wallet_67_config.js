@@ -1,1 +1,1 @@
-var mnemonic = "demise now network siege first lake salon buffalo magic monitor penalty bus";
+var mnemonic = "hawk over clown butter together garage ecology over swap win arrest season";

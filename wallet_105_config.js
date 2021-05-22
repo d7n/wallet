@@ -1,1 +1,1 @@
-var mnemonic = "debate coconut quarter square glimpse exotic daring gorilla essay verify deny denial";
+var mnemonic = "hollow cruise plastic cash parrot predict hope demise fun mass trumpet only";

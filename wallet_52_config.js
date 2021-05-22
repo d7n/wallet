@@ -1,1 +1,1 @@
-var mnemonic = "illegal crouch tool neutral crane certain nuclear pear casual slender clay glove";
+var mnemonic = "word adult october liquid tunnel fatigue youth exhaust debate minute trap grain";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar arrive nephew isolate undo funny alarm orchard reform annual face basic";
+var mnemonic = "fortune embark aisle call lock captain bright sand reject tribe donor tumble";

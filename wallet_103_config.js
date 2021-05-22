@@ -1,1 +1,1 @@
-var mnemonic = "rose cluster gorilla cave ridge kiss penalty oak fish card asthma popular";
+var mnemonic = "chief reveal client zone edge loyal rug actual couple convince soup crew";

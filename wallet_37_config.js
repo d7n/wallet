@@ -1,1 +1,1 @@
-var mnemonic = "scale wood sport glance giant burger observe dove congress oil crush jewel";
+var mnemonic = "can solution head install trash fence smooth empty now now neck carbon";

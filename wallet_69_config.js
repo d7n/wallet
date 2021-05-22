@@ -1,1 +1,1 @@
-var mnemonic = "attract oil bronze flame when category husband begin orchard hold skirt sibling";
+var mnemonic = "census seek person rude evoke pig donkey exercise speed biology civil assume";

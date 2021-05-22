@@ -1,1 +1,1 @@
-var mnemonic = "bottom dust photo material clip idea wrong armor boil adapt path lens";
+var mnemonic = "more course nice pledge grunt degree finger napkin glad network palm cricket";

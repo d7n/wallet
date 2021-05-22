@@ -1,1 +1,1 @@
-var mnemonic = "abandon dismiss bottom gas sword lunch edge stool slam aunt vicious orbit";
+var mnemonic = "swarm slab make romance ride together knee south door crumble stone mesh";

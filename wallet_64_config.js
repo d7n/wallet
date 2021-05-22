@@ -1,1 +1,1 @@
-var mnemonic = "shy ramp hero best nation burger almost shrug belt cube future barely";
+var mnemonic = "abandon drink sad inform next pyramid power already merit clarify deputy hybrid";

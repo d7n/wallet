@@ -1,1 +1,1 @@
-var mnemonic = "capable language cannon clip ocean switch ecology yellow valley resist pepper mystery";
+var mnemonic = "maximum bar impulse dry boil steak vague hill minute typical witness smooth";

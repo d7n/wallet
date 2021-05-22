@@ -1,1 +1,1 @@
-var mnemonic = "trash creek moment royal music nothing vote good want amused dolphin column";
+var mnemonic = "cable desk devote globe join axis onion front amused profit pear transfer";

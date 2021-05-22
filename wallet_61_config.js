@@ -1,1 +1,1 @@
-var mnemonic = "joke blouse weasel coast spawn metal salon armor oil margin giraffe island";
+var mnemonic = "fuel vapor casino burger bring picture purity that pilot crunch fiction awake";

@@ -1,1 +1,1 @@
-var mnemonic = "camera indoor level length display laugh lens nothing choice tornado render plate";
+var mnemonic = "fine virus return sudden unusual maple north people sister topple garment relax";

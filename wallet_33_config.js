@@ -1,1 +1,1 @@
-var mnemonic = "plastic slim city theory glue total sick tomato funny easily fire habit";
+var mnemonic = "voyage melody earth afraid promote cry hotel sustain exclude fence gas deer";

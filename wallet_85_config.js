@@ -1,1 +1,1 @@
-var mnemonic = "just answer airport helmet virus stage erode nurse reject task panther donor";
+var mnemonic = "project athlete worry six yellow journey describe shield squirrel cabin all bean";

@@ -1,1 +1,1 @@
-var mnemonic = "model emotion trumpet diesel eyebrow amount under grass help such quarter teach";
+var mnemonic = "present ostrich hero beach crush merit thunder chair daughter whisper enough round";

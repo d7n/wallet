@@ -1,1 +1,1 @@
-var mnemonic = "actual apple muffin return arena rifle suggest pudding hurdle person typical dress";
+var mnemonic = "multiply liar loan skirt piano ticket medal easy illegal mimic frozen gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "amount captain crime chat steak bonus clap circle cup lab roast edit";
+var mnemonic = "concert spread hotel nominee cotton orphan three donor orange casino modify cloud";

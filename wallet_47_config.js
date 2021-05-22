@@ -1,1 +1,1 @@
-var mnemonic = "fan exhaust task frame misery season phrase media sorry injury puppy gun";
+var mnemonic = "dream type shop song card feature quick fiscal snow brain congress whale";

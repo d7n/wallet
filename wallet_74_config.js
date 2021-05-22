@@ -1,1 +1,1 @@
-var mnemonic = "nominee pizza brisk oblige spider swarm film jacket grow armor artist barely";
+var mnemonic = "strike scan inform raven jazz moment blouse word lawn allow before cheap";

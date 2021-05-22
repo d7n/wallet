@@ -1,1 +1,1 @@
-var mnemonic = "nurse begin fat bird burden defy amateur version afford equal switch train";
+var mnemonic = "twice song video pattern oval sleep crane wild tooth initial road plug";

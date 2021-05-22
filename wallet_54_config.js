@@ -1,1 +1,1 @@
-var mnemonic = "fee master cricket story strike one hire shallow label captain sell start";
+var mnemonic = "sword mango until sport dawn confirm aspect glove upset remind moment index";

@@ -1,1 +1,1 @@
-var mnemonic = "palm caught panda elder tide lawn vanish toy file welcome display craft";
+var mnemonic = "feel oxygen lecture spell video actor hover material estate ten twist observe";

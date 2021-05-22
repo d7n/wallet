@@ -1,1 +1,1 @@
-var mnemonic = "scare convince hurt impact soul pepper state step age category banner hand";
+var mnemonic = "august share bulb claw village fit where medal dry room jelly mask";

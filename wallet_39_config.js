@@ -1,1 +1,1 @@
-var mnemonic = "panther aerobic bright fish excite lemon rug congress habit nice cliff nuclear";
+var mnemonic = "sense young field because social clever rather silly scheme account wrestle quit";

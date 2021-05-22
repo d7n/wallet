@@ -1,1 +1,1 @@
-var mnemonic = "access polar canal lonely toe moon despair decade surround tool metal radar";
+var mnemonic = "omit fiscal garbage garment excess divert carry violin mutual reunion town eye";

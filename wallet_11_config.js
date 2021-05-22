@@ -1,1 +1,1 @@
-var mnemonic = "drill change wool exercise find make buddy subject salad mirror laugh carpet";
+var mnemonic = "involve enough grace enforce foster drill flag satoshi shoe govern carbon pumpkin";

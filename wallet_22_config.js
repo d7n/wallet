@@ -1,1 +1,1 @@
-var mnemonic = "twice deer impact blame ball wish erode idle develop that subway toy";
+var mnemonic = "rhythm main upon loop pond demand swift power cloud glove travel almost";

@@ -1,1 +1,1 @@
-var mnemonic = "delay material term often flame reduce hurry lend leaf cousin spirit civil";
+var mnemonic = "federal number false dinner tunnel way profit aspect make loop area aerobic";

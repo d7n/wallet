@@ -1,1 +1,1 @@
-var mnemonic = "blouse tape slender impulse climb sock thrive brown once when shed shop";
+var mnemonic = "planet life ripple change marriage inform during immune high shine disagree dry";

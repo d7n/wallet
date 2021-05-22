@@ -1,1 +1,1 @@
-var mnemonic = "unique horse canvas earn mansion social bachelor garage light long kangaroo torch";
+var mnemonic = "filter number kit diary two pluck gasp velvet unlock they almost country";

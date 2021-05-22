@@ -1,1 +1,1 @@
-var mnemonic = "select siren minute rookie chunk almost bunker amused page skull cattle payment";
+var mnemonic = "neutral furnace woman sense gaze mushroom spray wrist arrow scatter feel guard";

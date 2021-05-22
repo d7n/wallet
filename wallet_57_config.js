@@ -1,1 +1,1 @@
-var mnemonic = "tourist few rude issue bonus nasty twenty drama home air isolate salad";
+var mnemonic = "hockey cash acquire abuse metal moment summer still hole master answer autumn";

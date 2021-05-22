@@ -1,1 +1,1 @@
-var mnemonic = "degree glove depth pudding will cradle alter before distance increase degree throw";
+var mnemonic = "deny artwork accuse next satisfy smooth board six cherry monster song road";

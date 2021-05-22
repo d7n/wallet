@@ -1,1 +1,1 @@
-var mnemonic = "twelve rice minor verb small trap filter fix leader still predict number";
+var mnemonic = "true asthma wagon island valve busy tool luggage distance jaguar nothing tomato";

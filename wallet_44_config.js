@@ -1,1 +1,1 @@
-var mnemonic = "scout scrap dumb poet kitten horse spoil blame hub aware wish nice";
+var mnemonic = "affair settle magic cup point crack mechanic resist guard wonder ill dizzy";

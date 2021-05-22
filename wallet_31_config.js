@@ -1,1 +1,1 @@
-var mnemonic = "junior cheap bitter circle error staff joke story few atom grow sport";
+var mnemonic = "useless file custom light sauce venture piece peasant want kiwi miracle captain";

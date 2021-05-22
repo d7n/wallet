@@ -1,1 +1,1 @@
-var mnemonic = "custom abuse hour minute evoke rib spring way custom spell aspect transfer";
+var mnemonic = "edit burst home actress point nuclear replace sustain exhaust exile useless hand";

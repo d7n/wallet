@@ -1,1 +1,1 @@
-var mnemonic = "until hard extra often cannon excite vacuum void assume notable robust drive";
+var mnemonic = "repeat square return regret february hole spoil hold immense cute equip race";

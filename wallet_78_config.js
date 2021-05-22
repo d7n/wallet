@@ -1,1 +1,1 @@
-var mnemonic = "grid display teach kind sing spoil valley crazy slogan dolphin visit vocal";
+var mnemonic = "holiday credit valve diesel endorse quick claw world tilt silent blame security";

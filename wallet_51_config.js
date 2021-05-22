@@ -1,1 +1,1 @@
-var mnemonic = "rib gallery cereal raccoon hospital sell elbow emerge direct develop leaf interest";
+var mnemonic = "shaft void kid afraid girl dial double throw auction wear crew security";

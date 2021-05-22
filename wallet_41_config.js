@@ -1,1 +1,1 @@
-var mnemonic = "lab abstract game tape health rotate actual crystal ensure style vague glass";
+var mnemonic = "glass behave patient object insect abandon market music sugar nut shiver april";

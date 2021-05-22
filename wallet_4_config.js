@@ -1,1 +1,1 @@
-var mnemonic = "much change gift penalty bundle shield traffic joke style omit point accuse";
+var mnemonic = "unit maid embrace vanish indicate east top race wedding cigar gap bridge";

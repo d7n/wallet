@@ -1,1 +1,1 @@
-var mnemonic = "famous hospital hard vessel patient security average favorite maid inmate drop foot";
+var mnemonic = "laundry snap expect evolve wall patch follow friend female funny egg offer";

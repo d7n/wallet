@@ -1,1 +1,1 @@
-var mnemonic = "team diesel potato alpha solution grocery sample toe afford squirrel ostrich deputy";
+var mnemonic = "cousin license naive enter there carry patient short often tribe bicycle video";

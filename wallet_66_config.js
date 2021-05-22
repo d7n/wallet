@@ -1,1 +1,1 @@
-var mnemonic = "alien syrup company chaos assume theme switch flat student pill note absent";
+var mnemonic = "poet female inner hawk devote dice budget crunch lottery alcohol room travel";

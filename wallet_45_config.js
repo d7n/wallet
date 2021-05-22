@@ -1,1 +1,1 @@
-var mnemonic = "brave unveil resist finish rose argue reward club praise cat claw soldier";
+var mnemonic = "hover shock idea evidence balance letter advice kangaroo gaze arctic hen ski";

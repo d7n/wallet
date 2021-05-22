@@ -1,1 +1,1 @@
-var mnemonic = "clerk wave sketch junk pattern way object layer later power weekend grain";
+var mnemonic = "height cereal jealous leaf repeat hammer exit network lock hockey ring depth";

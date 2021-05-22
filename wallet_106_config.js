@@ -1,1 +1,1 @@
-var mnemonic = "shallow drive rib around either sword dose fire garage bless puppy palace";
+var mnemonic = "mail elder method buffalo twice despair trip baby tooth near retreat monster";

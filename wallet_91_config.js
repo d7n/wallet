@@ -1,1 +1,1 @@
-var mnemonic = "oval drastic antique afford airport chef labor chief owner pepper burger salute";
+var mnemonic = "gauge bulk praise list switch input runway van crack stadium spin price";

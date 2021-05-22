@@ -1,1 +1,1 @@
-var mnemonic = "puppy soup guard world joke differ summer team parrot blind worry motor";
+var mnemonic = "skirt math margin coyote convince series mean plug gadget lend labor hood";

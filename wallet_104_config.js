@@ -1,1 +1,1 @@
-var mnemonic = "bounce cloud quiz travel shrimp type reason chronic quit urban fly receive";
+var mnemonic = "fashion valid like churn advice help around few cup topple broccoli kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup satisfy goddess exist once badge toast sort private home monkey rescue";
+var mnemonic = "hub host wolf era often vault engage toward govern inside ankle there";

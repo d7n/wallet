@@ -1,1 +1,1 @@
-var mnemonic = "wisdom direct dawn ask taste bone please cloth topic opinion oyster elephant";
+var mnemonic = "garden luggage service error question almost alpha confirm kingdom cradle two today";

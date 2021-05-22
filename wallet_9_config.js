@@ -1,1 +1,1 @@
-var mnemonic = "give mammal outer faculty stable real easily carpet joke about olive staff";
+var mnemonic = "scissors fit myth manual game leisure act soda legend acid squeeze mix";

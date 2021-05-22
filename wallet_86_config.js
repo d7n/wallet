@@ -1,1 +1,1 @@
-var mnemonic = "august lizard exit beef angle appear crouch govern vanish avocado nature soul";
+var mnemonic = "message garbage price dial endorse royal stand shallow eyebrow ball first brave";

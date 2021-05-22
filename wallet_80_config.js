@@ -1,1 +1,1 @@
-var mnemonic = "artwork lend skirt large involve cycle symbol stomach moral illness use beach";
+var mnemonic = "ranch chronic into almost reject skull raw clay message explain pistol hungry";

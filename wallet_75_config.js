@@ -1,1 +1,1 @@
-var mnemonic = "attend address sugar silly chaos salmon bar fit outer elbow day stand";
+var mnemonic = "phrase reject village replace dust seminar cost around volcano romance afford utility";

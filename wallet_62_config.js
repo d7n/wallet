@@ -1,1 +1,1 @@
-var mnemonic = "venture extend lobster february reason banana scrap era shoulder toy expect sorry";
+var mnemonic = "mouse crucial vessel purpose unit talent few execute fiber mountain exhaust funny";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy creek disagree check hour ranch nominee toss meadow measure arrive garden";
+var mnemonic = "poem prosper august away mean absorb diary panel scale salad silk cake";

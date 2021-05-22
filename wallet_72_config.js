@@ -1,1 +1,1 @@
-var mnemonic = "secret very already effort dutch relax rely slogan sweet much time praise";
+var mnemonic = "icon decide next easy mesh insane stable offer tomato dune wise throw";

@@ -1,1 +1,1 @@
-var mnemonic = "job truth truth anchor humble wedding trip situate cruise antique churn point";
+var mnemonic = "congress hotel absurd daring plastic cup omit awake love harsh cannon chief";

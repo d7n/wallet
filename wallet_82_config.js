@@ -1,1 +1,1 @@
-var mnemonic = "drive accident alley eyebrow joy family skin wing source regular game arm";
+var mnemonic = "weather enact reunion conduct mansion genuine ancient chunk current model bulb atom";

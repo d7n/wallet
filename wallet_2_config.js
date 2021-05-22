@@ -1,1 +1,1 @@
-var mnemonic = "remember chicken core lunch stumble denial section grain treat shell tribe foil";
+var mnemonic = "celery excuse vendor funny rebuild bench cook swing fortune good garden earth";

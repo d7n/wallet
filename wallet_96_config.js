@@ -1,1 +1,1 @@
-var mnemonic = "renew sea scene behave elephant hello trigger okay lake neck sunny load";
+var mnemonic = "veteran law dust mercy join volcano layer dumb rookie father gold warrior";

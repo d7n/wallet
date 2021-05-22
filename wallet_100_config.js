@@ -1,1 +1,1 @@
-var mnemonic = "expect breeze antique bracket correct weapon leaf skill brand joke soda sail";
+var mnemonic = "assault device strike ring lamp patrol olive anger balance salt table labor";

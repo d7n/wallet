@@ -1,1 +1,1 @@
-var mnemonic = "slab hurt another trumpet mean miracle quit camp insane town office recycle";
+var mnemonic = "bar more language owner visual fancy scene wisdom nuclear trip tilt frame";

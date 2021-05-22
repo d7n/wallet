@@ -1,1 +1,1 @@
-var mnemonic = "bracket devote aerobic run fashion cross false describe unique custom unfold weekend";
+var mnemonic = "cheese unique exist session nasty dwarf nephew film chaos garden smart crack";

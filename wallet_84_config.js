@@ -1,1 +1,1 @@
-var mnemonic = "nominee taste cry lunar leg olympic group erase dress paddle tackle pilot";
+var mnemonic = "evidence slush venture laundry onion choose wide miss sing good gospel program";

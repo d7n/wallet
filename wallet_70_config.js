@@ -1,1 +1,1 @@
-var mnemonic = "equal vocal provide donkey wing churn banana strike blouse also toy bench";
+var mnemonic = "sad film neck hero bind blame glow pattern fat filter steel pottery";

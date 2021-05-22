@@ -1,1 +1,1 @@
-var mnemonic = "seminar vote age voyage whisper since fruit already emotion shield please clutch";
+var mnemonic = "position pave victory ability way gate crush until immense belt gun leave";

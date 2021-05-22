@@ -1,1 +1,1 @@
-var mnemonic = "orphan cupboard either patient mirror siren sort response credit harsh gas unit";
+var mnemonic = "expand ancient body engage deny sweet idea behave fever frost forest dutch";

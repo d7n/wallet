@@ -1,1 +1,1 @@
-var mnemonic = "subway enemy park hold crazy test right upper addict chronic ketchup describe";
+var mnemonic = "ball couple quality page expose problem borrow celery test seed mixed glide";

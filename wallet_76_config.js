@@ -1,1 +1,1 @@
-var mnemonic = "adult two include empty panel index during hard tongue process dance boy";
+var mnemonic = "capital guilt fatigue romance meat badge claim occur inquiry wide found material";

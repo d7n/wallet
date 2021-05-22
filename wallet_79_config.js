@@ -1,1 +1,1 @@
-var mnemonic = "wood security muscle frame ripple solid involve boring pistol horn typical elder";
+var mnemonic = "rally wheel culture jacket satisfy valley blade question unable moon code skirt";

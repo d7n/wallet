@@ -1,1 +1,1 @@
-var mnemonic = "pipe vacuum brief intact tent jump ensure drill power novel orchard else";
+var mnemonic = "dawn glimpse trust slide purse light govern cat awake shove mean salad";

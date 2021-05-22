@@ -1,1 +1,1 @@
-var mnemonic = "sphere flat cross voyage across swallow aerobic intact mushroom sponsor under stereo";
+var mnemonic = "record frown destroy inhale father stand extend asset giraffe forget obscure trash";

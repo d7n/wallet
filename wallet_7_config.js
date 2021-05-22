@@ -1,1 +1,1 @@
-var mnemonic = "maple come december toddler artist resist advance admit scorpion copy barely torch";
+var mnemonic = "flush rabbit seven wrong appear wool mandate photo shed edge crew skate";

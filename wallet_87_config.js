@@ -1,1 +1,1 @@
-var mnemonic = "guard camp razor kingdom number waste daughter vessel couch must other print";
+var mnemonic = "purpose scan install need clay law uniform earth local edit fat define";

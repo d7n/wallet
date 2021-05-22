@@ -1,1 +1,1 @@
-var mnemonic = "kick master napkin betray project awkward wagon tumble filter juice poem spring";
+var mnemonic = "hill assault attitude loop say fever flight okay junior afraid unhappy athlete";
